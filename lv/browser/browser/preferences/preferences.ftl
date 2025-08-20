@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Sūtīt lapām “Neizsekot” signālu, lai norādītu, ka nevēlaties, lai jūs izseko
-do-not-track-description2 =
-    .label = Nosūtīt vietnēm pieprasījumu “Neizsekot”.
-    .accesskey = N
 do-not-track-learn-more = Uzzināt vairāk
 do-not-track-option-default-content-blocking-known =
     .label = Tikai tad, ja { -brand-short-name } ir iestatīts bloķēt zināmos izsekotājus
@@ -238,10 +235,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Jūsu izvēlētās krāsas ir svarīgākas par vietnes izskatu. <a data-l10n-name="colors-link">Pārvaldīt krāsas</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Jūsu izvēlētās krāsas ir svarīgākas par vietnes izskatu.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Pārvaldiet { -brand-short-name } motīvus sadaļā <a data-l10n-name="themes-link">Paplašinājumi un motīvi</a>
@@ -1285,8 +1278,6 @@ addon-recommendations-link = Uzzināt vairāk
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datu ziņošana ir atspējota šajā būvējuma konfigurācija
 collection-backlogged-crash-reports-with-link = Atļaut { -brand-short-name } jūsu vārdā sūtīt uzkrātos avāriju pārskatus. <a data-l10n-name="crash-reports-link">Uzzināt vairāk</a>.
-    .accesskey = A
-collection-backlogged-crash-reports = Atļaut { -brand-short-name } sūtīt uzkrātos avāriju ziņojumus jūsu vārdā
     .accesskey = A
 privacy-segmentation-section-header = Jaunas funkcijas, kas uzlabo jūsu pārlūkošanu
 privacy-segmentation-section-description = Kad mēs piedāvājam funkcijas, kas izmanto jūsu datus, lai sniegtu jums personiskāku pieredzi:

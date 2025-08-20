@@ -16,8 +16,5 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = ບໍ່ມີຊື່ຜູ້ໃຊ້​
-password-manager-toggle-password =
-    .label = ສະແດງລະຫັດຜ່ານ
-    .accesskey = h
 password-manager-confirm-password-change = ຢືນຢັນການປ່ຽນແປງລະຫັດຜ່ານ
 password-manager-select-username = ເລືອກເອົາລັອກອິນທີ່ຕ້ອງການອັບເດດ:

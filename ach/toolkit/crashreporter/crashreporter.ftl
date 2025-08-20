@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = Me konyo wa niang ki yubo peko ne, itwero cwaliwa ripot me poto.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Matut: { $details }
 crashreporter-no-run-message = Diro man kitiyo kwede inge nongo lok ki bot ngat ma tye katic kwede.  Myro pe kiti kwede atyer.
 crashreporter-button-details = Lok kore ki kore…
 crashreporter-view-report-title = Kit ma ngec tye kwede kore ki kore

@@ -330,9 +330,6 @@ newtab-custom-pocket-sponsored = Sponzorované články
 newtab-custom-pocket-show-recent-saves = Zobrazit nedávno uložené
 newtab-custom-recent-title = Nedávná aktivita
 newtab-custom-recent-subtitle = Výběr z nedávných stránek a obsahu
-newtab-custom-recent-toggle =
-    .label = Nedávná aktivita
-    .description = Výběr z nedávných stránek a obsahu
 newtab-custom-weather-toggle =
     .label = Počasí
     .description = Dnešní předpověď ve zkratce
@@ -468,7 +465,6 @@ newtab-weather-menu-change-location = Změnit místo
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Hledat umístění
     .aria-label = Hledat umístění
-newtab-weather-change-location-search-input = Hledat umístění
 newtab-weather-menu-weather-display = Zobrazení počasí
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -667,7 +663,6 @@ newtab-widget-lists-menu-delete = Smazat tento seznam
 newtab-widget-lists-menu-copy = Zkopírovat seznam do schránky
 newtab-widget-lists-menu-hide = Skrýt všechny seznamy
 newtab-widget-lists-menu-learn-more = Zjistit více
-newtab-widget-lists-input-placeholder = Přidat položku
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

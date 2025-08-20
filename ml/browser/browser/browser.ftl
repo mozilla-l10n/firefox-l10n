@@ -364,7 +364,6 @@ quickactions-cmd-print = അച്ചടിപ്പിക്കുക
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = പീഡീഎഫ ആയി കരുതിവയ്ക്കുക
 quickactions-cmd-savepdf2 = പി.ഡി.എഫ, താൾ കരുതിവയ്ക്കുക
-quickactions-cmd-savepdf = പീഡീഎഫ
 # Opens a new private browsing window
 quickactions-private2 = സ്വകാര്യ ജാലകം തുറക്കുക
 quickactions-cmd-private = സ്വകാര്യ തിരച്ചിൽ

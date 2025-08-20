@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = N
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Neniu nomo de uzanto
-password-manager-toggle-password =
-    .label = Montri pasvorton
-    .accesskey = p
 password-manager-confirm-password-change = Konfirmi ŝanĝon de pasvorto
 password-manager-select-username = Elektu ĝisdatigendan akreditilon:

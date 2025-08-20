@@ -81,7 +81,6 @@ neterror-dns-not-found-trr-unknown-problem = Váratlan probléma.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a megbízható DNS-feloldónkon keresztül. Ennek ez az oka:
-neterror-dns-not-found-native-fallback-reason2 = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a biztonságos DNS-szolgáltatónkon keresztül. Ennek ez az oka:
 neterror-dns-not-found-native-fallback-heuristic = A HTTP-n keresztüli DNS le van tiltva a hálózatán.
 neterror-dns-not-found-native-fallback-not-confirmed2 = A { -brand-short-name } nem tudott csatlakozni a következő domainhoz: { $trrDomain }.
 

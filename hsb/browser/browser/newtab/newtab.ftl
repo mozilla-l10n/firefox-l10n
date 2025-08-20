@@ -325,9 +325,6 @@ newtab-custom-pocket-sponsored = Sponserowane stawizny
 newtab-custom-pocket-show-recent-saves = Najnowše składowanja pokazać
 newtab-custom-recent-title = Najnowša aktiwita
 newtab-custom-recent-subtitle = Wuběr najnowšich sydłow a najnowšeho wobsaha
-newtab-custom-recent-toggle =
-    .label = Najnowša aktiwita
-    .description = Wuběr najnowšich sydłow a najnowšeho wobsaha
 newtab-custom-weather-toggle =
     .label = Wjedro
     .description = Dźensniša wjedrowa předpowědź na jedyn pohlad
@@ -464,7 +461,6 @@ newtab-weather-menu-change-location = Městno změnić
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Městno pytać
     .aria-label = Městno pytać
-newtab-weather-change-location-search-input = Městno pytać
 newtab-weather-menu-weather-display = Wjedrowe pokazanje
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -643,7 +639,6 @@ newtab-widget-lists-menu-delete = Tutu lisćinu zhašeć
 newtab-widget-lists-menu-copy = Lisćinu do mjezyskłada kopěrować
 newtab-widget-lists-menu-hide = Wšě lisćiny schować
 newtab-widget-lists-menu-learn-more = Dalše informacije
-newtab-widget-lists-input-placeholder = Zapisk přidać
 newtab-widget-lists-input-error = Prošu zapřijimujće tekst, zo byšće zapisk přidał.
 newtab-widget-lists-input-menu-open-link = Wotkaz wočinić
 newtab-widget-lists-input-menu-move-up = Horje
@@ -672,6 +667,7 @@ newtab-widget-timer-menu-notifications = Zdźělenja znjemóžnić
 newtab-widget-timer-menu-notifications-on = Zdźělenja zmóžnić
 newtab-widget-timer-menu-hide = Časoměr schować
 newtab-widget-timer-menu-learn-more = Dalše informacije
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Za dalše kulić
 newtab-promo-card-title = { -brand-product-name } podpěrać
 newtab-promo-card-body = Naši sponsorojo našu misiju podpěruja, zo bychu lěpši web tworili

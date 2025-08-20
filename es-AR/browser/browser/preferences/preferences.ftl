@@ -4,9 +4,6 @@
 
 do-not-track-description = Enviar a los sitios web una señal de “No rastrear” que significa que no quiere ser rastreado
 do-not-track-removal = Ya no soportamos la señal “No rastrear”
-do-not-track-description2 =
-    .label = Enviar a los sitios web un pedido de “No rastrear”
-    .accesskey = d
 do-not-track-learn-more = Conocer más
 do-not-track-option-default-content-blocking-known =
     .label = Solo cuando { -brand-short-name } está configurado para bloquear los rastreadores conocidos
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = La selección de colores cambia la apariencia del sitio web. <a data-l10n-name="colors-link">Administrar colores</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = La selección de colores cambia la apariencia del sitio web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Administrar temas de { -brand-short-name } en <a data-l10n-name="themes-link">Extensiones y temas</a>
@@ -1434,8 +1427,6 @@ addon-recommendations-link = Conocer más
 # or builds with no Telemetry support available.
 collection-health-report-disabled = La información de datos está deshabilitado para esta configuración de compilación
 collection-backlogged-crash-reports-with-link = Permitir que { -brand-short-name } envíe informes de fallos acumulados en su nombre <a data-l10n-name="crash-reports-link">Conocer más</a>
-    .accesskey = c
-collection-backlogged-crash-reports = Permitir que { -brand-short-name } envíe informes de fallos acumulados en su nombre
     .accesskey = c
 privacy-segmentation-section-header = Nuevas características que mejoran su navegación
 privacy-segmentation-section-description = Cuando ofrecemos funciones que usan sus datos para brindarle una experiencia más personal:

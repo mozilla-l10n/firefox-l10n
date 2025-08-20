@@ -38,8 +38,6 @@ contentanalysis-operationtype-print = štampaj
 contentanalysis-upload-description = učitavanje datoteke “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = preuzimanje datoteke “{ $filename }”
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = učitavanje datoteke “{ $filename }”
 contentanalysis-warndialogtitle = Ovaj sadržaj može biti nesiguran
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

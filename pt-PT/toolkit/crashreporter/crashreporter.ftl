@@ -9,8 +9,6 @@ crashreporter-plea = Para nos ajudar a diagnosticar e reparar a falha, pode envi
 crashreporter-information = Esta aplicação é executada depois de uma falha crítica para reportar o problema à { -vendor-short-name }. Esta não deveria ser executada diretamente.
 crashreporter-error = O { -brand-short-name } teve um problema e falhou.\n\nInfelizmente, o relator de erros não consegue submeter o relatório para esta falha crítica.
 crashreporter-error-details-header = Detalhes:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detalhes: { $details }
 crashreporter-no-run-message = Esta aplicação é executada após uma falha para reportar o problema ao fabricante da aplicação.  Não deve ser executada diretamente.
 crashreporter-button-details = Detalhes…
 crashreporter-loading-details = A carregar…
@@ -20,8 +18,6 @@ crashreporter-report-info = Este relatório também contém informação técnic
 crashreporter-checkbox-test-hardware = Procurar problemas de hardware e de configurações no meu dispositivo.
 crashreporter-checkbox-send-report = Informe a { -vendor-short-name } sobre esta falha crítica para que estes a possam corrigir.
 crashreporter-checkbox-include-url = Incluir o endereço da página em que eu estava.
-crashreporter-send-report = Informe a { -vendor-short-name } sobre esta falha crítica para que estes a possam corrigir.
-crashreporter-include-url = Incluir o endereço da página em que eu estava.
 crashreporter-submit-status = O seu relatório de falha irá ser submetido antes de sair ou reiniciar.
 crashreporter-submit-waiting-hardware-tests = A procurar por problemas de hardware e de configurações…
 crashreporter-submit-in-progress = A submeter o seu relatório…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Pode ver os detalhes desta falha crítica em { $ur
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Não foi possível executar o minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Não foi possível abrir ({ $path })
 # $path (String) - the file path

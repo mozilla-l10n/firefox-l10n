@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = بستن
     .aria-label = بستن
-firefoxview-empty-state-icon =
-    .alt = توجه:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = هم‌اکنون
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,14 +33,11 @@ firefoxview-tabpickup-step-signin-primarybutton = ادامه
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } شما روی تمام دستگاه‌هایتان
 firefoxview-syncedtabs-signin-description-2 = برای دیدن زبانه‌هایی که در تلفن و سایر دستگاه‌های خود باز کرده‌اید، وارد حساب‌تان شده یا یک حساب کاربری بسازید. با داشتن یک حساب کاربری می‌توانید گذرواژه‌ها، تاریخچه و موارد دیگر خود را نیز همگام‌سازی کنید.
 firefoxview-syncedtabs-signin-primarybutton-2 = ورود
-firefoxview-syncedtabs-signin-header = از هر جایی به زبانه‌ها دسترسی داشته باشید
-firefoxview-syncedtabs-signin-primarybutton = وارد شوید یا نام‌نویسی کنید
 firefoxview-tabpickup-adddevice-header = ‏{ -brand-product-name } را در تلفن همراه یا تبلت خود همگام‌سازی کنید
 firefoxview-tabpickup-adddevice-description = ‏{ -brand-product-name } را برای تلفن همراه بارگیری کنید و در آن‌جا وارد شوید.
 firefoxview-tabpickup-adddevice-learn-how = بیاموزید
 firefoxview-tabpickup-adddevice-primarybutton = ‏{ -brand-product-name } را برای تلفن همراه دریافت کنید
 firefoxview-syncedtabs-adddevice-header-2 = از هر جایی به زبانه‌ها دسترسی داشته باشید
-firefoxview-syncedtabs-adddevice-header = در دستگاه‌های دیگر خود به { -brand-product-name } وارد شوید
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } را برای تلفن همراه امتحان کنید
 firefoxview-tabpickup-synctabs-header = روشن کردن همگام‌سازی زبانه‌ها
 firefoxview-tabpickup-synctabs-description = به { -brand-short-name } اجازه دهید تا زبانه‌ها را بین دستگاه‌ها همرسانی کند.
@@ -50,7 +45,6 @@ firefoxview-tabpickup-synctabs-learn-how = بیاموزید
 firefoxview-tabpickup-synctabs-primarybutton = همگام‌سازی زبانه‌های باز
 firefoxview-syncedtabs-synctabs-header = تنظیمات همگام‌سازی خود را به‌روز کنید
 firefoxview-syncedtabs-synctabs-description = برای دیدن زبانه‌ها از دستگاه‌های دیگر، باید زبانه‌های باز خود را همگام‌سازی کنید.
-firefoxview-syncedtabs-synctabs-checkbox = اجازه همگام‌سازی به زبانه‌های باز
 firefoxview-syncedtabs-loading-header = همگام‌سازی در حال انجام
 firefoxview-tabpickup-fxa-admin-disabled-header = سازمان شما همگام‌سازی را از کار انداخته است
 firefoxview-tabpickup-fxa-admin-disabled-description = ‏{ -brand-short-name } نمی‌تواند همگام‌سازی را میان دستگاه‌های شما انجام دهد؛ زیرا مدیر شما همگام‌سازی را خاموش کرده است.
@@ -81,7 +75,6 @@ firefoxview-closed-tabs-title = اخیراً بسته شده
 firefoxview-closed-tabs-description2 = گشودن دوبارهٔ صفحاتی که در این پنجره بسته‌اید.
 firefoxview-closed-tabs-placeholder-header = هیچ زبانه‌ای به‌تازگی بسته نشده است
 firefoxview-closed-tabs-placeholder-body = وقتی یک زبانه را در این پنجره می‌بندید، می‌توانید آن را از اینجا بازآوری کنید.
-firefoxview-closed-tabs-placeholder-body2 = وقتی یک زبانه را می‌بندید، می‌توانید آن را از اینجا بازآوری کنید.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -147,8 +140,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = پنجرهٔ { $winID } (جاری)
-firefoxview-opentabs-focus-tab =
-    .title = جابجایی به این زبانه
 firefoxview-show-more = نمایش بیشتر
 firefoxview-show-less = نمایش کمتر
 firefoxview-show-all = نمایش همه
@@ -166,9 +157,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = جست‌وجوی زبانه‌ها
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = جست‌وجو در زبانه‌های همگام‌سازی شده
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = جستجوی زبانه‌های باز
@@ -191,10 +179,6 @@ firefoxview-sort-history-by-date-label = به ترتیب تاریخ
 firefoxview-sort-history-by-site-label = به ترتیب وبگاه
 firefoxview-sort-open-tabs-by-recency-label = به ترتیب فعالیت اخیر
 firefoxview-sort-open-tabs-by-order-label = به ترتیب چینش زبانه‌ها
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = جابجایی به { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -211,7 +195,6 @@ firefoxview-history-site-localhost = (پرونده‌های محلی)
 ##
 
 firefoxview-show-all-history = نمایش تمام تاریخچه
-firefoxview-view-more-browsing-history = مشاهدهٔ تاریخچهٔ مرور بیشتر
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -220,7 +203,6 @@ firefoxview-history-empty-description = همان‌طور که به گشت‌و�
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = چیزی برای نمایش نیست
 firefoxview-dont-remember-history-empty-header-2 = کنترل این که { -brand-short-name } چه چیزهایی را به خاطر بسپارد در دستان شماست
 
 ##

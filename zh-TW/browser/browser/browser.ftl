@@ -401,7 +401,6 @@ quickactions-cmd-print = 列印, print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = 儲存頁面為 PDF 檔
 quickactions-cmd-savepdf2 = PDF, 儲存頁面, 另存頁面, save page
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = 開啟隱私視窗
 quickactions-cmd-private = 隱私瀏覽, 無痕模式, private browsing

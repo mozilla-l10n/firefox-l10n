@@ -4,9 +4,6 @@
 
 do-not-track-description = Адсылаць вэб-сайтам сігнал “Не сачыць”
 do-not-track-removal = Мы больш не падтрымліваем сігнал «Не асочваць»
-do-not-track-description2 =
-    .label = Адпраўляць вэб-сайтам запыт «Не сачыць»
-    .accesskey = в
 do-not-track-learn-more = Даведацца больш
 do-not-track-option-default-content-blocking-known =
     .label = Толькі калі { -brand-short-name } настаўлены блакаваць вядомыя трэкеры
@@ -271,10 +268,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ваш выбар колераў мае перавагу над знешнім выглядам вэб-сайта. <a data-l10n-name="colors-link">Кіраваць колерамі</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Ваш выбар колераў мае перавагу над знешнім выглядам вэб-сайта.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Кіруйце тэмамі { -brand-short-name } у <a data-l10n-name="themes-link">пашырэннях і тэмах</a>
@@ -1438,8 +1431,6 @@ addon-recommendations-link = Падрабязней
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Адпраўка дадзеных адключана для гэтай канфігурацыі зборкі
 collection-backlogged-crash-reports-with-link = Дазволіць { -brand-short-name } адсылаць запісаныя справаздачы аб збоях ад вашага імя <a data-l10n-name="crash-reports-link">Падрабязней</a>
-    .accesskey = с
-collection-backlogged-crash-reports = Дазволіць { -brand-short-name } адсылаць запісаныя справаздачы аб збоях ад вашага імя
     .accesskey = с
 privacy-segmentation-section-header = Новыя функцыі, якія паляпшаюць ваша агляданне
 privacy-segmentation-section-description = Калі мы прапануем функцыі, якія выкарыстоўваюць вашы дадзеныя, каб даць вам больш персаналізаваны досвед:

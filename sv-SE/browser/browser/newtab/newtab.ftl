@@ -323,9 +323,6 @@ newtab-custom-pocket-sponsored = Sponsrade berättelser
 newtab-custom-pocket-show-recent-saves = Visa senast sparade
 newtab-custom-recent-title = Senaste aktivitet
 newtab-custom-recent-subtitle = Ett urval av senaste webbplatser och innehåll
-newtab-custom-recent-toggle =
-    .label = Senaste aktivitet
-    .description = Ett urval av senaste webbplatser och innehåll
 newtab-custom-weather-toggle =
     .label = Väder
     .description = Dagens prognos i korthet
@@ -462,7 +459,6 @@ newtab-weather-menu-change-location = Ändra plats
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Sök plats
     .aria-label = Sök plats
-newtab-weather-change-location-search-input = Sök plats
 newtab-weather-menu-weather-display = Vädervisning
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -641,7 +637,6 @@ newtab-widget-lists-menu-delete = Ta bort denna lista
 newtab-widget-lists-menu-copy = Kopiera lista till urklipp
 newtab-widget-lists-menu-hide = Dölj alla listor
 newtab-widget-lists-menu-learn-more = Läs mer
-newtab-widget-lists-input-placeholder = Lägg till ett objekt
 newtab-widget-lists-input-error = Inkludera text för att lägga till ett objekt.
 newtab-widget-lists-input-menu-open-link = Öppna länk
 newtab-widget-lists-input-menu-move-up = Flytta upp
@@ -670,6 +665,7 @@ newtab-widget-timer-menu-notifications = Stäng av notiser
 newtab-widget-timer-menu-notifications-on = Slå på aviseringar
 newtab-widget-timer-menu-hide = Dölj timer
 newtab-widget-timer-menu-learn-more = Läs mer
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Bläddra för mer
 newtab-promo-card-title = Stöd { -brand-product-name }
 newtab-promo-card-body = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb

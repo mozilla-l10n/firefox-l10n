@@ -323,9 +323,6 @@ newtab-custom-pocket-sponsored = Sponsorowane artykuły
 newtab-custom-pocket-show-recent-saves = Wyświetl ostatnio zapisane
 newtab-custom-recent-title = Ostatnia aktywność
 newtab-custom-recent-subtitle = Wybierane z ostatnio odwiedzanych stron i treści.
-newtab-custom-recent-toggle =
-    .label = Ostatnia aktywność
-    .description = Wybierane z ostatnio odwiedzanych stron i treści.
 newtab-custom-weather-toggle =
     .label = Pogoda
     .description = Dzisiejsza prognoza w skrócie
@@ -449,7 +446,6 @@ newtab-weather-menu-change-location = Zmień położenie
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Wyszukaj położenie
     .aria-label = Wyszukaj położenie
-newtab-weather-change-location-search-input = Wyszukaj położenie
 newtab-weather-menu-weather-display = Wyświetlanie pogody
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

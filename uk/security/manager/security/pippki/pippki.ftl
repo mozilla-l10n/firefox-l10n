@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Постійно
 client-auth-cert-remember-temporarily =
     .label = Для цього сеансу
-client-auth-cert-remember-box =
-    .label = Запам'ятати це рішення
 
 ## Set password (p12) dialog
 

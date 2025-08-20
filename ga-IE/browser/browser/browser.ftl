@@ -238,7 +238,6 @@ quickactions-cmd-downloads = íoslódálacha
 # Opens about:addons page in the extensions section
 quickactions-extensions = Bainistigh na breiseáin
 quickactions-cmd-extensions = breiseáin
-quickactions-cmd-savepdf = pdf
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Athnuaigh { -brand-short-name }
 quickactions-cmd-refresh = Athnuaigh

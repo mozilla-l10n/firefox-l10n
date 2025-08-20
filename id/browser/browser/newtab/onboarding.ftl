@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Impor dari { $previous 
 mr1-onboarding-theme-header = Jadikan milik Anda
 mr1-onboarding-theme-subtitle = Personalisasikan { -brand-short-name } dengan tema.
 mr1-onboarding-theme-secondary-button-label = Jangan sekarang
-newtab-wallpaper-onboarding-title = Coba berbagai ragam warna
-newtab-wallpaper-onboarding-subtitle = Pilih gambar latar untuk memberikan tampilan baru pada Tab Baru Anda.
-newtab-wallpaper-onboarding-primary-button-label = Tetapkan gambar latar
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema sistem
 mr1-onboarding-theme-label-light = Terang

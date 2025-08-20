@@ -154,11 +154,6 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Kopijuoti saitą
     .accesskey = t
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Kopijuoti saitą be sekimo dalies
-    .accesskey = u
 
 ## Media (video/audio) controls
 ##

@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = N
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nincs felhasználónév
-password-manager-toggle-password =
-    .label = Jelszó megjelenítése
-    .accesskey = m
 password-manager-confirm-password-change = Jelszóváltoztatás megerősítése
 password-manager-select-username = Válassza ki a frissítendő bejelentkezést:

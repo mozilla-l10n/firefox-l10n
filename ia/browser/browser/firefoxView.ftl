@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Clauder
     .aria-label = Clauder
-firefoxview-empty-state-icon =
-    .alt = Attention:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Justo ora
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header-2 = Tu { -brand-product-name } sur tote tu apparatos
 firefoxview-syncedtabs-signin-description-2 = Pro vider le schedas que tu ha aperite sur tu telephono e altere apparatos, accede o inscribe te al un conto. Con un conto, tu alsi pote synchronisar tu contrasignos, chronologia, e altero.
 firefoxview-syncedtabs-signin-primarybutton-2 = Aperir session
-firefoxview-syncedtabs-signin-header = Recupera tu schedas ab ubique
-firefoxview-syncedtabs-signin-description = Pro vider tu schedas de ubicunque tu usa { -brand-product-name }, accede a tu conto. Si tu non ha un conto, nos te guidara per le passos pro inscriber te.
-firefoxview-syncedtabs-signin-primarybutton = Aperir session o crear conto
 firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
 firefoxview-tabpickup-adddevice-description = Discarga { -brand-product-name } pro apparatos mobile e aperi session illac.
 firefoxview-tabpickup-adddevice-learn-how = Apprende como
 firefoxview-tabpickup-adddevice-primarybutton = Installa { -brand-product-name } pro mobile
 firefoxview-syncedtabs-adddevice-header-2 = Recupera tu schedas ab ubique
 firefoxview-syncedtabs-adddevice-description-2 = Accede a { -brand-product-name } sur tu telephono o un altere computator pro vider le schedas ci. Apprende a <a data-l10n-name="url">connecter altere apparatos</a>
-firefoxview-syncedtabs-adddevice-header = Aperi session in { -brand-product-name } sur un tu altere apparato.
-firefoxview-syncedtabs-adddevice-description = Pro vider tu schedas de ubicunque tu usa { -brand-product-name }, accede sur tote tu apparatos. Apprende a <a data-l10n-name="url">connecter altere apparatos</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Discoperi { -brand-product-name } pro mobile
 firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
 firefoxview-tabpickup-synctabs-description = Permitte a { -brand-short-name } de compartir schedas inter apparatos.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Apprender como
 firefoxview-tabpickup-synctabs-primarybutton = Synchronisar le schedas aperte
 firefoxview-syncedtabs-synctabs-header = Actualisa tu parametros de synchronisation
 firefoxview-syncedtabs-synctabs-description = Pro vider schedas ab un altere apparato tu debe synchronisar le schedas aperte.
-firefoxview-syncedtabs-synctabs-checkbox = Permitter le synchronisation del schedas aperte
 firefoxview-syncedtabs-loading-header = Synchronisation in curso
 firefoxview-syncedtabs-loading-description = Quando illo es facite, tu videra ulle schedas que tu ha aperite sur altere apparatos.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organisation ha disactivate le synchronisation
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Recentemente claudite
 firefoxview-closed-tabs-description2 = Reaperi paginas que tu ha claudite in iste fenestra.
 firefoxview-closed-tabs-placeholder-header = Nulle schedas recentemente claudite
 firefoxview-closed-tabs-placeholder-body = Quando tu claude un scheda in iste fenestra, tu pote cercar lo de ci.
-firefoxview-closed-tabs-placeholder-body2 = Quando tu claude un scheda, tu pote cercar lo de ci.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Fenestra { $winID } (Actual)
-firefoxview-opentabs-focus-tab =
-    .title = Passar a iste scheda
 firefoxview-show-more = Monstrar plus
 firefoxview-show-less = Monstrar minus
 firefoxview-show-all = Monstrar toto
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Cercar in schedas
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Cercar in le schedas synchronisate
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Cercar in le schedas aperte
@@ -197,10 +183,6 @@ firefoxview-sort-history-by-date-label = Ordinar per data
 firefoxview-sort-history-by-site-label = Ordinar per sito
 firefoxview-sort-open-tabs-by-recency-label = Ordinar per activitate recente
 firefoxview-sort-open-tabs-by-order-label = Ordinar per ordine de scheda
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Passar a { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -217,7 +199,6 @@ firefoxview-history-site-localhost = (files local)
 ##
 
 firefoxview-show-all-history = Monstrar tote le chronologia
-firefoxview-view-more-browsing-history = Vider altere chronologia de navigation
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -233,9 +214,6 @@ firefoxview-choose-browser-button = Seliger le navigator
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Nihil a monstrar
-firefoxview-dont-remember-history-empty-description = Proteger tu confidentialitate es al corde de lo que nos face. Pro isto tu pote controlar le activitate que { -brand-short-name } rememora.
-firefoxview-dont-remember-history-empty-description-two = In base a tu actual parametros, { -brand-short-name } non rememora tu activitate quando tu naviga. Pro cambiar isto, <a data-l10n-name="history-settings-url-two">cambia tu parametros de chronologia pro rememorar lo</a>.
 firefoxview-dont-remember-history-empty-header-2 = Tu es al commando de cosa { -brand-short-name } rememora
 firefoxview-dont-remember-history-empty-description-one = Justo ora, { -brand-short-name } non memorara activitate de tu navigation. Pro cambiar isto, <a data-l10n-name="history-settings-url-two">actualisa le parametros de tu chronologia</a>.
 

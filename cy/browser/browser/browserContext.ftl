@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Copïo Dolen Lân
     .accesskey = D
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Copïo Dolen Heb Tracio Gwefan
-    .accesskey = D
 
 ## Media (video/audio) controls
 ##

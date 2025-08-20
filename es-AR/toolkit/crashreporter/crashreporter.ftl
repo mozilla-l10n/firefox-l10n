@@ -9,8 +9,6 @@ crashreporter-plea = Para ayudarnos a diagnosticar y reparar este problema, pued
 crashreporter-information = Esta aplicación se ejecuta después de un error para informar el problema a { -vendor-short-name }.  No debería ejecutarse directamente.
 crashreporter-error = { -brand-short-name } ha tenido un problema y se cerrará. Desafortunadamente, esta herramienta no es capaz de enviar un informe sobre este problema.
 crashreporter-error-details-header = Detalles:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detalles: { $details }
 crashreporter-no-run-message = Esta aplicación se ejecuta después de un error para informar el problema al fabricante de la aplicación.  No debería ejecutarse directamente.
 crashreporter-button-details = Detalles…
 crashreporter-loading-details = Cargando…
@@ -20,8 +18,6 @@ crashreporter-report-info = Este informe también contiene información acerca d
 crashreporter-checkbox-test-hardware = Verificar problemas de hardware y configuración en mi dispositivo.
 crashreporter-checkbox-send-report = Decirle a { -vendor-short-name } sobre esta falla para que la puedan arreglar.
 crashreporter-checkbox-include-url = Incluír la dirección de la página que estaba visitando.
-crashreporter-send-report = Decirle a { -vendor-short-name } sobre esta falla para que la puedan arreglar.
-crashreporter-include-url = Incluír la dirección de la página que estaba visitando.
 crashreporter-submit-status = Su informe de fallo será enviado antes de salir o reiniciar.
 crashreporter-submit-waiting-hardware-tests = Verificando problemas de hardware y configuración…
 crashreporter-submit-in-progress = Enviando su informe…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Puede ver detalles de este problema en { $url }.
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Error al ejecutar minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Error al abrir el archivo ({ $path })
 # $path (String) - the file path

@@ -9,8 +9,6 @@ crashreporter-plea = Aby pomóc nam zdiagnozować i naprawić ten problem, moż
 crashreporter-information = To narzędzie jest uruchamiane po wystąpieniu awarii w celu zgłoszenia problemu { -vendor-short-name(case: "dat") }. Nie powinno być uruchamiane bezpośrednio.
 crashreporter-error = { -brand-short-name } uległ awarii w wyniku błędu. Niestety, to narzędzie nie jest w stanie przesłać zgłoszenia awarii.
 crashreporter-error-details-header = Szczegóły:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Szczegóły: { $details }
 crashreporter-no-run-message = To narzędzie jest uruchamiane po wystąpieniu awarii w celu zgłoszenia problemu twórcom programu. Nie powinno być uruchamiane bezpośrednio.
 crashreporter-button-details = Szczegóły…
 crashreporter-loading-details = Wczytywanie…
@@ -20,8 +18,6 @@ crashreporter-report-info = Zgłoszenie to zawiera ponadto informacje na temat s
 crashreporter-checkbox-test-hardware = Sprawdź, czy na moim urządzeniu nie występują problemy ze sprzętem i konfiguracją.
 crashreporter-checkbox-send-report = Prześlij zgłoszenie awarii do { -vendor-short-name(case: "gen") }.
 crashreporter-checkbox-include-url = Dołącz do zgłoszenia adres odwiedzanej strony.
-crashreporter-send-report = Prześlij zgłoszenie awarii do { -vendor-short-name(case: "gen") }.
-crashreporter-include-url = Dołącz do zgłoszenia adres odwiedzanej strony.
 crashreporter-submit-status = Zgłoszenie awarii zostanie przesłane przed zakończeniem lub ponownym uruchomieniem.
 crashreporter-submit-waiting-hardware-tests = Sprawdzanie, czy nie występują problemy ze sprzętem i konfiguracją…
 crashreporter-submit-in-progress = Przesyłanie zgłoszenia…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Szczegóły zgłoszenia awarii można przejrzeć p
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Uruchomienie analizatora minizrzutów się nie powiodło
 # $path (String) - the file path
 crashreporter-error-opening-file = Otwarcie pliku się nie powiodło ({ $path })
 # $path (String) - the file path

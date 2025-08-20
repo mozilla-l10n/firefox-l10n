@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Invie une schede daurman a ducj i dispositîfs conetûts al to account.
 fxa-menu-sign-out =
     .label = Disconet…
-fxa-menu-sync-title = Sincronizazion
 fxa-menu-sync-description = Dopre il to web dapardut
 fxa-avatar-sign-in = Jentre
 fxa-avatar-sign-up = Regjistriti

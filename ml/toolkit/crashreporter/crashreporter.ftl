@@ -5,8 +5,6 @@
 crashreporter-apology = പൊറുക്കണം
 crashreporter-plea = പ്രശ്നം മനസ്സിലാക്കി പരിഹാരം കണ്ടെത്തുന്നതിനായി നിങ്ങള്‍ക്കു് ക്രാഷ് റിപ്പേര്‍ട്ട് അയയ്ക്കാം.
 crashreporter-error-details-header = വിശദാംശങ്ങൾ:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = വിശദാംശങ്ങള്‍: { $details }
 crashreporter-no-run-message = ഒരു തകരാര്‍ സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ പ്രയോഗത്തിന്റെ ഉടമസ്ഥര്‍ക്കു് രേഖപ്പെടുത്തുന്നതിനുള്ള പ്രയോഗമാണിതു്. ഇതു് നേരിട്ടു് പ്രവര്‍ത്തിപ്പിക്കുവാന്‍ പാടില്ല.
 crashreporter-button-details = വിശദാംശങ്ങള്‍…
 crashreporter-loading-details = ലഭ്യമാക്കുന്നു…

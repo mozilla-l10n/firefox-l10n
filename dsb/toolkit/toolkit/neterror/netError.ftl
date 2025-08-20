@@ -81,7 +81,6 @@ neterror-dns-not-found-trr-unknown-problem = Njewócakany problem.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } njamóžo wašo napšašowanje za adresu toś togo sedła pśez naš dowěry gódny DNS resolwer šćitaś. Pśicyna jo:
-neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } njamóžo wašo napšašowanje za adresu toś togo sedła pśez našogo póbitowarja wěstego DNS šćitaś. Pśicyna jo:
 neterror-dns-not-found-native-fallback-heuristic = DNS pśez HTTPS jo se znjemóžnił we wašej seśi.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } njejo mógał z { $trrDomain } zwězaś.
 

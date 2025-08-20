@@ -166,11 +166,6 @@ main-context-menu-copy-link-simple =
 main-context-menu-copy-clean-link =
     .label = Копирај чисту везу
     .accesskey = у
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Копирај везу без праћења са странице
-    .accesskey = у
 
 ## Media (video/audio) controls
 ##

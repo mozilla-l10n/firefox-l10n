@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = m
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Kullanıcı adı yok
-password-manager-toggle-password =
-    .label = Parolayı göster
-    .accesskey = o
 password-manager-confirm-password-change = Parola değişimini onaylayın
 password-manager-select-username = Güncellenecek hesabı seçin:

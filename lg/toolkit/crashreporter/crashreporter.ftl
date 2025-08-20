@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = Okutuyamba okutegera n'okugonjoola ekizibu, kino osobola okutusindikira alipoota ekonagana.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Mubuwanvu: { $details }
 crashreporter-no-run-message = Enkola ekozesebwa nga wabaddewo okukonagana okutegeza omukugu w'empeereza eno ekizibu.  Tekirina kukolera ndala.
 crashreporter-button-details = Bujjuvu…
 crashreporter-view-report-title = Ebiri mu Alipoota

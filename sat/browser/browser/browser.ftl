@@ -389,7 +389,6 @@ quickactions-cmd-print = ᱪᱷᱟᱯᱟ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = PDF ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 quickactions-cmd-savepdf2 = pdf, ᱥᱟᱦᱴᱟ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱡᱷᱤᱡᱽ ᱢᱮ
 quickactions-cmd-private = ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ

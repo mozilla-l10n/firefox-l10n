@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Κλείσιμο
     .aria-label = Κλείσιμο
-firefoxview-empty-state-icon =
-    .alt = Προσοχή:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Μόλις τώρα
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Συνέχεια
 firefoxview-syncedtabs-signin-header-2 = Το { -brand-product-name } σας σε όλες τις συσκευές σας
 firefoxview-syncedtabs-signin-description-2 = Για να δείτε τις ανοικτές σας καρτέλες στο τηλέφωνο και σε άλλες συσκευές σας, συνδεθείτε ή δημιουργήστε έναν λογαριασμό. Με έναν λογαριασμό, μπορείτε να συγχρονίσετε τους κωδικούς πρόσβασης, το ιστορικό σας και πολλά άλλα.
 firefoxview-syncedtabs-signin-primarybutton-2 = Σύνδεση
-firefoxview-syncedtabs-signin-header = Λάβετε καρτέλες από οπουδήποτε
-firefoxview-syncedtabs-signin-description = Για να δείτε τις καρτέλες σας από όπου κι αν χρησιμοποιείτε το { -brand-product-name }, συνδεθείτε στον λογαριασμό σας. Εάν δεν έχετε λογαριασμό, θα σας καθοδηγήσουμε κατά την εγγραφή.
-firefoxview-syncedtabs-signin-primarybutton = Σύνδεση ή εγγραφή
 firefoxview-tabpickup-adddevice-header = Συγχρονισμός του { -brand-product-name } στις κινητές σας συσκευές
 firefoxview-tabpickup-adddevice-description = Κάντε λήψη του { -brand-product-name } για κινητές συσκευές και συνδεθείτε εκεί.
 firefoxview-tabpickup-adddevice-learn-how = Μάθετε πώς
 firefoxview-tabpickup-adddevice-primarybutton = Λήψη του { -brand-product-name } για κινητά
 firefoxview-syncedtabs-adddevice-header-2 = Λάβετε καρτέλες από οπουδήποτε
 firefoxview-syncedtabs-adddevice-description-2 = Συνδεθείτε στο { -brand-product-name } από το τηλέφωνό σας ή από κάποιο άλλο υπολογιστή για να δείτε τις καρτέλες. Μάθετε πώς να <a data-l10n-name="url">συνδέσετε επιπλέον συσκευές</a>.
-firefoxview-syncedtabs-adddevice-header = Συνδεθείτε στο { -brand-product-name } στις άλλες συσκευές σας
-firefoxview-syncedtabs-adddevice-description = Για να δείτε τις καρτέλες σας από όπου κι αν χρησιμοποιείτε το { -brand-product-name }, συνδεθείτε από όλες τις συσκευές σας. Μάθετε πώς να <a data-l10n-name="url">συνδέσετε πρόσθετες συσκευές</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Δοκιμάστε το { -brand-product-name } για κινητές συσκευές
 firefoxview-tabpickup-synctabs-header = Ενεργοποίηση συγχρονισμού καρτελών
 firefoxview-tabpickup-synctabs-description = Επιτρέψτε στο { -brand-short-name } να κάνει κοινή χρήση καρτελών μεταξύ συσκευών.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Μάθετε πώς
 firefoxview-tabpickup-synctabs-primarybutton = Συγχρονισμός ανοικτών καρτελών
 firefoxview-syncedtabs-synctabs-header = Ενημερώστε τις ρυθμίσεις συγχρονισμού σας
 firefoxview-syncedtabs-synctabs-description = Για να δείτε καρτέλες από άλλες συσκευές, πρέπει να συγχρονίσετε τις ανοικτές καρτέλες σας.
-firefoxview-syncedtabs-synctabs-checkbox = Επιτρέψτε τον συγχρονισμό ανοικτών καρτελών
 firefoxview-syncedtabs-loading-header = Συγχρονισμός σε εξέλιξη
 firefoxview-syncedtabs-loading-description = Μόλις ολοκληρωθεί, θα δείτε όλες τις ανοικτές καρτέλες από άλλες συσκευές. Επιστρέψτε σε λίγο.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Πρόσφατα κλεισμένες
 firefoxview-closed-tabs-description2 = Ανοίξτε ξανά τις σελίδες που κλείσατε σε αυτό το παράθυρο.
 firefoxview-closed-tabs-placeholder-header = Καμία πρόσφατα κλεισμένη καρτέλα
 firefoxview-closed-tabs-placeholder-body = Όταν κλείσετε μια καρτέλα σε αυτό το παράθυρο, μπορείτε να τη βρείτε εδώ.
-firefoxview-closed-tabs-placeholder-body2 = Όταν κλείσετε μια καρτέλα, μπορείτε να τη βρείτε εδώ.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Παράθυρο { $winID } (Τρέχον)
-firefoxview-opentabs-focus-tab =
-    .title = Εναλλαγή σε αυτήν την καρτέλα
 firefoxview-show-more = Εμφάνιση περισσότερων
 firefoxview-show-less = Εμφάνιση λιγότερων
 firefoxview-show-all = Εμφάνιση όλων
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Αναζήτηση καρτελών
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Αναζήτηση συγχρονισμένων καρτελών
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Αναζήτηση ανοικτών καρτελών
@@ -197,10 +183,6 @@ firefoxview-sort-history-by-date-label = Ταξινόμηση κατά ημερ�
 firefoxview-sort-history-by-site-label = Ταξινόμηση κατά ιστότοπο
 firefoxview-sort-open-tabs-by-recency-label = Ταξινόμηση κατά πρόσφατη δραστηριότητα
 firefoxview-sort-open-tabs-by-order-label = Ταξινόμηση κατά σειρά καρτελών
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Εναλλαγή στο { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -217,7 +199,6 @@ firefoxview-history-site-localhost = (τοπικά αρχεία)
 ##
 
 firefoxview-show-all-history = Εμφάνιση πλήρους ιστορικού
-firefoxview-view-more-browsing-history = Προβολή περισσότερου ιστορικού περιήγησης
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -233,9 +214,6 @@ firefoxview-choose-browser-button = Επιλογή προγράμματος πε
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Δεν υπάρχουν δεδομένα
-firefoxview-dont-remember-history-empty-description = Η προστασία του απορρήτου σας βρίσκεται στο επίκεντρο της αποστολής μας. Γι' αυτό, μπορείτε να ελέγξετε τη δραστηριότητα που απομνημονεύει το { -brand-short-name }.
-firefoxview-dont-remember-history-empty-description-two = Με βάση τις τρέχουσες ρυθμίσεις σας, το { -brand-short-name } δεν αποθηκεύει τη δραστηριότητά σας κατά την περιήγηση. Για να το αλλάξετε αυτό, <a data-l10n-name="history-settings-url-two">αλλάξτε τις ρυθμίσεις απομνημόνευσης του ιστορικού σας</a>.
 firefoxview-dont-remember-history-empty-header-2 = Εσείς έχετε τον έλεγχο του τι αποθηκεύει το { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = Προς το παρόν, το { -brand-short-name } δεν αποθηκεύει τη δραστηριότητα περιήγησής σας. Για να το αλλάξετε αυτό, <a data-l10n-name="history-settings-url-two">ενημερώστε τις ρυθμίσεις ιστορικού σας</a>.
 

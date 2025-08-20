@@ -51,7 +51,6 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } നിന
 mr1-onboarding-theme-header = താങ്ങളുടെ സ്വന്തമാക്കുക
 mr1-onboarding-theme-subtitle = ഒരു അലങ്കാരം കൂടെ { -brand-short-name } വ്യക്തിപരമാക്കുക
 mr1-onboarding-theme-secondary-button-label = ഇപ്പോഴല്ല
-newtab-wallpaper-onboarding-primary-button-label = ചുവൎക്കടലാസു് ഇടുക
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = വ്യവസ്ഥ അലങ്കാരം
 mr1-onboarding-theme-label-light = തെളിച്ചം

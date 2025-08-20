@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Cau
     .aria-label = Cau
-firefoxview-empty-state-icon =
-    .alt = Sylw:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Newydd ddigwydd
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Ymlaen
 firefoxview-syncedtabs-signin-header-2 = Eich { -brand-product-name } ar eich holl ddyfeisiau
 firefoxview-syncedtabs-signin-description-2 = I weld tabiau sydd gennych ar agor ar eich ffôn a dyfeisiau eraill, mewngofnodwch neu cofrestrwch am gyfrif. Gyda chyfrif, gallwch hefyd gydweddu'ch cyfrineiriau, hanes, a mwy.
 firefoxview-syncedtabs-signin-primarybutton-2 = Mewngofnodi
-firefoxview-syncedtabs-signin-header = Cipio tabiau o unrhyw le
-firefoxview-syncedtabs-signin-description = I weld eich tabiau o ble bynnag rydych yn defnyddio { -brand-product-name }, mewngofnodwch i'ch cyfrif. Os nad oes gennych gyfrif, byddwn yn mynd â chi drwy'r camau i gofrestru.
-firefoxview-syncedtabs-signin-primarybutton = Mewngofnodi neu gofrestru
 firefoxview-tabpickup-adddevice-header = Cydweddwch { -brand-product-name } ar eich ffôn neu dabled
 firefoxview-tabpickup-adddevice-description = Llwytho { -brand-product-name } ar gyfer ffôn symudol a mewngofnodi yno.
 firefoxview-tabpickup-adddevice-learn-how = Sut mae gwneud
 firefoxview-tabpickup-adddevice-primarybutton = Cael { -brand-product-name } ar gyfer symudol
 firefoxview-syncedtabs-adddevice-header-2 = Cydio tabiau o unrhyw le
 firefoxview-syncedtabs-adddevice-description-2 = Mewngofnodwch i { -brand-product-name } ar eich ffôn neu gyfrifiadur arall i weld tabiau yma. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
-firefoxview-syncedtabs-adddevice-header = Mewngofnodwch i { -brand-product-name } ar eich dyfeisiau eraill
-firefoxview-syncedtabs-adddevice-description = I weld eich tabiau o ble bynnag rydych yn defnyddio { -brand-product-name }, mewngofnodwch ar eich holl ddyfeisiau. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Rhowch gynnig ar { -brand-product-name } ar gyfer ffonau symudol
 firefoxview-tabpickup-synctabs-header = Cychwyn cydweddu tabiau
 firefoxview-tabpickup-synctabs-description = Caniatáu i { -brand-short-name } rannu tabiau rhwng dyfeisiau.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Sut mae gwneud
 firefoxview-tabpickup-synctabs-primarybutton = Cydweddu tabiau agored
 firefoxview-syncedtabs-synctabs-header = Diweddarwch eich gosodiadau cydweddu
 firefoxview-syncedtabs-synctabs-description = I weld tabiau o ddyfeisiau eraill, mae angen i chi gydweddu'ch tabiau agored.
-firefoxview-syncedtabs-synctabs-checkbox = Caniatáu i dabiau agored gydweddu
 firefoxview-syncedtabs-loading-header = Wrthi'n cysoni
 firefoxview-syncedtabs-loading-description = Pan fydd wedi'i wneud, byddwch yn gweld unrhyw dabiau sydd gennych ar agor ar ddyfeisiau eraill. Dewch nôl i weld.
 firefoxview-tabpickup-fxa-admin-disabled-header = Mae eich sefydliad wedi analluogi cydweddu
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Caewyd yn ddiweddar
 firefoxview-closed-tabs-description2 = Ail-agorwch dudalennau rydych wedi'u cau yn y ffenestr hon.
 firefoxview-closed-tabs-placeholder-header = Dim tabiau sydd wedi'u cau yn ddiweddar
 firefoxview-closed-tabs-placeholder-body = Pan fyddwch yn cau tab yn y ffenestr hon, gallwch chi ei nôl o'r fan hon.
-firefoxview-closed-tabs-placeholder-body2 = Pan fyddwch chi'n cau tab, gallwch chi ei nôl o fan hyn.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Window { $winID } (Cyfredol)
-firefoxview-opentabs-focus-tab =
-    .title = Symud i'r tab hwn
 firefoxview-show-more = Dangos rhagor
 firefoxview-show-less = Dangos llai
 firefoxview-show-all = Dangos y cyfan
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Chwilio’r tabiau
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Chwilio tabiau wedi'u cydweddu
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Chwilio tabiau agored
@@ -201,10 +187,6 @@ firefoxview-sort-history-by-date-label = Trefnu yn ôl dyddiad
 firefoxview-sort-history-by-site-label = Trefnu yn ôl gwefan
 firefoxview-sort-open-tabs-by-recency-label = Trefnu yn ôl gweithgaredd diweddar
 firefoxview-sort-open-tabs-by-order-label = Trefnu yn ôl trefn tabiau
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Newid i { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -221,7 +203,6 @@ firefoxview-history-site-localhost = (ffeiliau lleol)
 ##
 
 firefoxview-show-all-history = Dangos yr holl hanes
-firefoxview-view-more-browsing-history = Gweld rhagor o hanes pori
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -237,9 +218,6 @@ firefoxview-choose-browser-button = Dewiswch borwr
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Dim byd i'w ddangos
-firefoxview-dont-remember-history-empty-description = Mae diogelu eich preifatrwydd wrth wraidd yr hyn a wnawn. Dyna pam y gallwch reoli'r gweithgaredd y mae { -brand-short-name } yn ei gofio.
-firefoxview-dont-remember-history-empty-description-two = Yn seiliedig ar eich gosodiadau presennol, nid yw { -brand-short-name } yn cofio eich gweithgarwch wrth i chi bori. I newid hynny, <a data-l10n-name="history-settings-url-two">newidiwch eich gosodiadau hanes i gofio eich hanes</a>.
 firefoxview-dont-remember-history-empty-header-2 = Chi sy'n rheoli beth mae { -brand-short-name } yn ei gofio
 firefoxview-dont-remember-history-empty-description-one = Ar hyn o bryd, nid yw { -brand-short-name } yn cofio eich gweithgarwch pori. I newid hynny, <a data-l10n-name="history-settings-url-two">diweddarwch eich gosodiadau hanes</a>.
 

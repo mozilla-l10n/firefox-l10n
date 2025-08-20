@@ -400,7 +400,6 @@ quickactions-cmd-print = اطبع
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = احفظ الصفحة بصيغة PDF
 quickactions-cmd-savepdf2 = pdf, احفظ الصفحة, save page
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = افتح نافذة خاصة
 quickactions-cmd-private = التصفّح الخاص

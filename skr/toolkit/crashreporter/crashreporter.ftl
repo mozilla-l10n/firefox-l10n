@@ -8,16 +8,12 @@ crashreporter-crashed-and-restore = { -brand-short-name } وِچ ہِک مسئل
 crashreporter-plea = مسئلہ دی تشخیص تے اینکوں ٹھیک کرݨ وِچ اساݙی مدد کیتے، تساں اساکوں کریش رپورٹ بھیڄ سڳدے او۔
 crashreporter-information = ایہ ایپلی کیشن کریش دے بعد { -vendor-short-name } کوں مسئلہ دی اطلاع ݙیوݨ کیتے چلائی ویندی ہے۔ اینکوں براہ راست نہیں چلاوݨا چاہیدا۔
 crashreporter-error = { -brand-short-name } وِچ ہِک  مسئلہ ہا تے کریش تھی ڳیا۔ بدقسمتی نال، کریش رپورٹر ایں حادثے دی رپورٹ جمع کرݨ کنوں وان٘جھا ہے۔
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = تفصیلاں: { $details }
 crashreporter-no-run-message = ایہ ایپلی کیشن کریش دے بعد ایپلی کیشن وینڈر کوں مسئلہ دی اطلاع ݙیوݨ کیتے چلائی ویندی ہے۔ اینکوں براہ راست نہیں چلاوݨا چاہیدا ہے۔
 crashreporter-button-details = تفصیلاں۔۔۔
 crashreporter-loading-details = لوڈ تھیندا پئے۔۔۔
 crashreporter-view-report-title = مواد دی رپورٹ کرو
 crashreporter-comment-prompt = ہک تبصرہ شامل کرو (تبصرے عوامی طور تے نظر آوݨ والے ہن)
 crashreporter-report-info = ایں رپورٹ وِچ ایپلی کیشن دے کریش تھیوݨ دے ویلھے دی حالت دے بارے تکنیکی معلومات وی شامل ہن۔
-crashreporter-send-report = اِیں کریش دے بارے وِچ { -vendor-short-name } کوں ݙساؤ تاں جو اُوہ اِیکوں ٹِھیک کر سڳِّن۔
-crashreporter-include-url = ایں ورقے دا پتہ شامل کرو جیندے اُتّے میں ہم۔
 crashreporter-submit-status = تہاݙے چھوڑݨ یا دوبارہ شروع کرݨ کنوں پہلے تہاݙی کریش رپورٹ جمع کر ݙتی ویسے۔
 crashreporter-submit-in-progress = تہاݙی رپورٹ جمع کرائی ویندی پئی ہے…
 crashreporter-submit-success = رپورٹ کامیابی دے نال جمع کرائی ڳئی ہے!
@@ -34,7 +30,6 @@ crashreporter-crash-details = تساں ایں حادثے دیاں تفصیلاں
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = minidump-analyzer چلاوݨ وِچ ناکامی
 # $path (String) - the file path
 crashreporter-error-opening-file = ({ $path }) فائل کھولݨ وِچ ناکامی
 # $path (String) - the file path

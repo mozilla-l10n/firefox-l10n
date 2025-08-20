@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Kopier rent link
     .accesskey = n
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Kopier uden websteds-sporing
-    .accesskey = n
 text-action-paste =
     .label = Indsæt
     .accesskey = I

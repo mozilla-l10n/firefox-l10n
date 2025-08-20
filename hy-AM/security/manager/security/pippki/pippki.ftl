@@ -79,8 +79,6 @@ client-auth-cert-details-issued-by = Թողարկող՝ { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Տեղադրությունը՝ { $storedOn }
-client-auth-cert-remember-box =
-    .label = Հիշել այս որոշումը
 
 ## Set password (p12) dialog
 

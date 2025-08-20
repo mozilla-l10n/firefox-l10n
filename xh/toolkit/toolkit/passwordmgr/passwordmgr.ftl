@@ -16,8 +16,5 @@ password-manager-update-password-button-deny =
     .accesskey = M
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Alikho igama lomsebenzisi
-password-manager-toggle-password =
-    .label = Bonisa iphaswedi
-    .accesskey = h
 password-manager-confirm-password-change = Qinisekisa Ukuguqulwa Kwegama Lokugqithisa
 password-manager-select-username = Khetha ukuba yeyiphi ilogini oza kuyihlaziya:

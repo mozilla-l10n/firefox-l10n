@@ -181,7 +181,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Na ziskouez ar voestad-emziviz-mañ 
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Diwallit
 tabbrowser-confirm-close-all-duplicate-tabs-title = Serriñ an ivinelloù doubl?
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Serriñ an ivinelloù
 

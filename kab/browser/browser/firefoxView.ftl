@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Mdel
     .aria-label = Mdel
-firefoxview-empty-state-icon =
-    .alt = Ɣur-k:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Tura akka
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -34,14 +32,11 @@ firefoxview-tabpickup-step-signin-description = I wakken ad d-tawiḍ accaren n 
 firefoxview-tabpickup-step-signin-primarybutton = Kemmel
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } inek ɣef meṛṛa ibenkan
 firefoxview-syncedtabs-signin-primarybutton-2 = Kcem
-firefoxview-syncedtabs-signin-header = Err-d accaren-ik·im seg yal adeg
-firefoxview-syncedtabs-signin-primarybutton = Qqen neɣ kcem
 firefoxview-tabpickup-adddevice-header = Mtawi { -brand-product-name } ɣef tiliɣri-inek·inem neɣ ɣef tfelwit n uselken
 firefoxview-tabpickup-adddevice-description = Sader { -brand-product-name } i uziraz syen qqen ɣer-s.
 firefoxview-tabpickup-adddevice-learn-how = Issin amek
 firefoxview-tabpickup-adddevice-primarybutton = Awi { -brand-product-name } i uziraz
 firefoxview-syncedtabs-adddevice-header-2 = Err-d accaren-ik·im seg yal adeg
-firefoxview-syncedtabs-adddevice-header = Qqen ɣer { -brand-product-name } ɣef yibenkan-ik·im niḍen
 firefoxview-syncedtabs-adddevice-primarybutton = Ɛreḍ { -brand-product-name } i uziraz
 firefoxview-tabpickup-synctabs-header = Rmed amtawi n waccaren…
 firefoxview-tabpickup-synctabs-description = Sireg { -brand-short-name } ad yebḍu accaren gar yibenkan.
@@ -49,7 +44,6 @@ firefoxview-tabpickup-synctabs-learn-how = Issin amek
 firefoxview-tabpickup-synctabs-primarybutton = Mtawi accaren yeldin
 firefoxview-syncedtabs-synctabs-header = Leqqem iɣewwaren n umtawi
 firefoxview-syncedtabs-synctabs-description = I wakken ad twaliḍ accaren seg yibenkan niḍen, tesriḍ ad temtawiḍ accaren-ik·im yeldin.
-firefoxview-syncedtabs-synctabs-checkbox = Sireg accaren yeldin i umtawi
 firefoxview-syncedtabs-loading-header = Amtawi iteddu
 firefoxview-tabpickup-fxa-admin-disabled-header = Takebbanit-ik·im tessens amtawi
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ur yezmir ara ad yemtawi accaren gar yibenkan acku anedbal-ik·im issens amtawi.
@@ -82,7 +76,6 @@ firefoxview-closed-tabs-title = Melmi kan i yettwamdal
 firefoxview-closed-tabs-description2 = Ales tawaledyawt n yisebtar i tmedleḍ deg usfaylu-a.
 firefoxview-closed-tabs-placeholder-header = Ulac iccer yettwamedlen melmi kan
 firefoxview-closed-tabs-placeholder-body = Mi ara tmedleḍ iccer deg usfaylu-a, tzemreḍ ad t-id-terreḍ syagi.
-firefoxview-closed-tabs-placeholder-body2 = Mi ara tmedleḍ iccer, tzemreḍ ad t-id-terreḍ syagi.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -148,8 +141,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Asfaylu { $winID } (Q)
-firefoxview-opentabs-focus-tab =
-    .title = Uɣal ɣer yiccer-a
 firefoxview-show-more = Sken ugar
 firefoxview-show-less = Sken drus
 firefoxview-show-all = Sken akk
@@ -167,9 +158,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Nadi deg waccaren
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Nadi accaren yemtawan
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Nadi accaren yeldin
@@ -192,10 +180,6 @@ firefoxview-sort-history-by-date-label = Asmizzwer s wazemz
 firefoxview-sort-history-by-site-label = Smizzwer s usmel
 firefoxview-sort-open-tabs-by-recency-label = Smizwer s urmud aneggaru
 firefoxview-sort-open-tabs-by-order-label = Smizwer s waccaren
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Uɣal ɣer { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -212,7 +196,6 @@ firefoxview-history-site-localhost = (ifuyla idiganen)
 ##
 
 firefoxview-show-all-history = Sken akk azray
-firefoxview-view-more-browsing-history = Sken ugar seg uzray n tunigin
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -224,10 +207,6 @@ firefoxview-history-empty-description = Akken ara tettinigeḍ, isebtar wuɣur t
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = Fren iminig
     .title = Fren iminig
-
-## Message displayed in Firefox View when the user has chosen to never remember History
-
-firefoxview-dont-remember-history-empty-header = Ulac ara d-yettwaskanzn
 
 ##
 

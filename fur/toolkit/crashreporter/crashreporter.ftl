@@ -9,8 +9,6 @@ crashreporter-plea = Par judânus a diagnosticâ e comedâ il probleme, tu puedi
 crashreporter-information = Cheste aplicazion e ven eseguide dopo un colàs par segnalâ il probleme a { -vendor-short-name }. Nissun al varès di eseguîle in mût diret.
 crashreporter-error = { -brand-short-name } al à vût un probleme e al è colassât. Purtrop, il segnaladôr di colàs nol è rivât a mandâ une segnalazion par chest colàs.
 crashreporter-error-details-header = Detais:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detais: { $details }
 crashreporter-no-run-message = Cheste aplicazion e je in esecuzion dopo che e à vût un colàs par segnalâ il probleme al produtôr de aplicazion.  No si varès di eseguîle in maniere direte.
 crashreporter-button-details = Detais…
 crashreporter-loading-details = Daûr a cjariâ…
@@ -20,8 +18,6 @@ crashreporter-report-info = Cheste segnalazion e conten informazions tecnichis s
 crashreporter-checkbox-test-hardware = Controle la presince di problemis hardware e di configurazion sul gno dispositîf.
 crashreporter-checkbox-send-report = Conte alc a { -vendor-short-name } in merit a chest colàs, in mût che a podedin comedâlu.
 crashreporter-checkbox-include-url = Inclût la direzion de pagjine web che o stavi visitant.
-crashreporter-send-report = Conte alc a { -vendor-short-name } in merit a chest colàs, in mût che a podedin comedâlu.
-crashreporter-include-url = Inclût la direzion de pagjine web che o stavi visitant.
 crashreporter-submit-status = La tô segnalazion di colàs e vignarà inviade prime di jessî o tornâ a inviâ la aplicazion.
 crashreporter-submit-waiting-hardware-tests = Daûr a controlâ la presince di problemis hardware o di configurazion…
 crashreporter-submit-in-progress = Daûr a inviâ la tô segnalazion…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Tu puedis viodi i detais di chest colàs su { $url
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Esecuzion falide di minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Nol è stât pussibil vierzi il file ({ $path })
 # $path (String) - the file path

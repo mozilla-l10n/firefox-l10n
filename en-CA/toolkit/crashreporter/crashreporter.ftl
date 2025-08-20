@@ -9,8 +9,6 @@ crashreporter-plea = To help us diagnose and fix the problem, you can send us a 
 crashreporter-information = This application is run after a crash to report the problem to { -vendor-short-name }. It should not be run directly.
 crashreporter-error = { -brand-short-name } had a problem and crashed. Unfortunately, the crash reporter is unable to submit a report for this crash.
 crashreporter-error-details-header = Details:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Details: { $details }
 crashreporter-no-run-message = This application is run after a crash to report the problem to the application vendor. It should not be run directly.
 crashreporter-button-details = Details…
 crashreporter-loading-details = Loading…
@@ -20,8 +18,6 @@ crashreporter-report-info = This report also contains technical information abou
 crashreporter-checkbox-test-hardware = Check for hardware and configuration problems on my device.
 crashreporter-checkbox-send-report = Tell { -vendor-short-name } about this crash so they can fix it.
 crashreporter-checkbox-include-url = Include the address of the page I was on.
-crashreporter-send-report = Tell { -vendor-short-name } about this crash so they can fix it.
-crashreporter-include-url = Include the address of the page I was on.
 crashreporter-submit-status = Your crash report will be submitted before you quit or restart.
 crashreporter-submit-waiting-hardware-tests = Checking for hardware and configuration problems…
 crashreporter-submit-in-progress = Submitting your report…
@@ -39,7 +35,6 @@ crashreporter-crash-details = You can view details of this crash at { $url }.
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Failed to run minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Failed to open file ({ $path })
 # $path (String) - the file path

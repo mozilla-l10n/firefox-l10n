@@ -160,11 +160,6 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Kopēt saiti
     .accesskey = s
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Kopēt saiti bez vietnes izsekošanas
-    .accesskey = v
 
 ## Media (video/audio) controls
 ##

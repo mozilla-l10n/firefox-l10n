@@ -166,11 +166,6 @@ main-context-menu-copy-link-simple =
 main-context-menu-copy-clean-link =
     .label = Kopeeri lisadeta link
     .accesskey = K
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Kopeeri link saidi jälgimiseta
-    .accesskey = j
 
 ## Media (video/audio) controls
 ##

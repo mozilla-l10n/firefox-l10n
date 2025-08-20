@@ -29,7 +29,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Gửi một thẻ ngay lập tức đến bất kỳ thiết bị nào mà bạn đã đăng nhập.
 fxa-menu-sign-out =
     .label = Đăng xuất…
-fxa-menu-sync-title = Đồng bộ hóa
 fxa-menu-sync-description = Truy cập web của bạn mọi nơi
 fxa-avatar-sign-in = Đăng nhập
 fxa-avatar-sign-up = Đăng ký

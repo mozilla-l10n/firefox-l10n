@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = Tae help us airt-oot and sort the problem, ye can send us a crash report.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Details: { $details }
 crashreporter-no-run-message = This application is rin efter a crash fur tae report the problem tae the application dealer.  It shouldnae be rin direct.
 crashreporter-button-details = Details…
 crashreporter-view-report-title = Report Contents

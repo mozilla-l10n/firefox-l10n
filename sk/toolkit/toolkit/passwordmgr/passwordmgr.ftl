@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = e
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Žiadne používateľské meno
-password-manager-toggle-password =
-    .label = Zobraziť heslo
-    .accesskey = Z
 password-manager-confirm-password-change = Potvrdenie zmeny hesla
 password-manager-select-username = Vyberte prihlasovacie údaje, ktoré chcete aktualizovať:

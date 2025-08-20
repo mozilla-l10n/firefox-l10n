@@ -7,8 +7,6 @@ contentanalysis-slow-agent-dialog-header = جارِ المسح
 contentanalysis-operationtype-clipboard = الحافظة
 contentanalysis-operationtype-dropped-text = النص المُسقط
 contentanalysis-operationtype-print = اطبع
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = رفع ”{ $filename }“
 contentanalysis-warndialogtitle = قد يكون هذا المحتوى غير آمن
 contentanalysis-warndialog-response-allow = استخدم المحتوى
 contentanalysis-warndialog-response-deny = ألغِ

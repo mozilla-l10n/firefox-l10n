@@ -307,9 +307,6 @@ newtab-custom-pocket-sponsored = Tiqṣidin yettwarefden
 newtab-custom-pocket-show-recent-saves = Sken iseklas akk ineggura
 newtab-custom-recent-title = Armud n melmi kan
 newtab-custom-recent-subtitle = Tafrant n yismal d ugbur n melmi kan
-newtab-custom-recent-toggle =
-    .label = Armud n melmi kan
-    .description = Tafrant n yismal d ugbur n melmi kan
 newtab-custom-close-button = Mdel
 newtab-custom-settings = Sefrek ugar n yiɣewwaṛen
 
@@ -373,7 +370,6 @@ newtab-weather-menu-change-location = Ẓreg adig
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Adig n unadi
     .aria-label = Adig n unadi
-newtab-weather-change-location-search-input = Adig n unadi
 newtab-weather-menu-weather-display = Askan n tegnawt
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

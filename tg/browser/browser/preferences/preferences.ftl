@@ -4,9 +4,6 @@
 
 do-not-track-description = Ба сомонаҳо сигнали «Пайгирӣ карда нашавад»-ро фиристонед, то ки шуморо пайгирӣ накунанд
 do-not-track-removal = Мо дигар сигнали «Пайгирӣ карда нашавад»-ро дастгирӣ намекунем
-do-not-track-description2 =
-    .label = Фиристодани ба сомонаҳо дархости «Пайгирӣ карда нашавад»
-    .accesskey = Ф
 do-not-track-learn-more = Маълумоти бештар
 do-not-track-option-default-content-blocking-known =
     .label = Танҳо вақте ки «{ -brand-short-name }» барои манъ кардани васоити пайгирии маълум танзим шудааст
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Интихоби нақшаи ранги шумо ба намуди зоҳирии сомонаҳо татбиқ мешавад. <a data-l10n-name="colors-link">Рангҳоро идора кунед</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Интихоби нақшаи ранги шумо ба намуди зоҳирии сомонаҳо татбиқ мешавад.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Мавзуъҳои «{ -brand-short-name }»-ро дар бахши <a data-l10n-name="themes-link">Васеъшавиҳо ва мавзуъҳо</a> идора кунед
@@ -1433,8 +1426,6 @@ addon-recommendations-link = Маълумоти бештар
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Гузоришдиҳии маълумот барои ин танзими сохт ғайрифаъол карда шуд
 collection-backlogged-crash-reports-with-link = Иҷозат додан ба «{ -brand-short-name }» барои фиристодани аз номи шумо гузоришҳо бо сабтҳои вайроншавӣ ва корҳои иҷронашуда <a data-l10n-name="crash-reports-link">Маълумоти бештар</a>
-    .accesskey = И
-collection-backlogged-crash-reports = Иҷозат додан ба «{ -brand-short-name }» барои фиристодани аз номи шумо гузоришҳо бо сабтҳои вайроншавӣ ва корҳои иҷронашуда
     .accesskey = И
 privacy-segmentation-section-header = Хусусиятҳои нав, ки таҷрибаи тамошобинии шуморо беҳтар мекунанд
 privacy-segmentation-section-description = Вақте ки мо хусусиятҳоеро пешниҳод мекунем, ки барои таъмини таҷрибаи хусусии беҳтар аз маълумоти шумо истифода мебаранд:

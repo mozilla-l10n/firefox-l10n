@@ -4,9 +4,6 @@
 
 do-not-track-description = Enviar aos sitios web un sinal "Do not track" indicándolles que non desexa ser seguido
 do-not-track-removal = Xa non soportamos o sinal «Non rastrexar»
-do-not-track-description2 =
-    .label = Envíar aos sitios web unha solicitude de «Non rastrexar».
-    .accesskey = N
 do-not-track-learn-more = Máis información
 do-not-track-option-default-content-blocking-known =
     .label = Só cando { -brand-short-name } estea configurado para bloquear os rastrexadores coñecidos
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = As túas escollas de cores substitúen a aparencia do sitio web. <a data-l10n-name="colors-link">Xestionar as cores</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = As túas escollas de cores substitúen a aparencia do sitio web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Xestiona os temas de { -brand-short-name } en <a data-l10n-name="themes-link">Extensións e temas</a>
@@ -1426,8 +1419,6 @@ addon-recommendations-link = Máis información
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O envío de informes está desactivado nesta configuración de compilación
 collection-backlogged-crash-reports-with-link = Permitir que o { -brand-short-name } envíe informes de fallo atrasados no seu nome <a data-l10n-name="crash-reports-link">Máis información</a>
-    .accesskey = P
-collection-backlogged-crash-reports = Permitir que o { -brand-short-name } envíe informes de fallo atrasados no seu nome
     .accesskey = P
 privacy-segmentation-section-header = Novas funcionalidades que melloran a súa navegación
 privacy-segmentation-section-description = Cando ofrecemos funcionalidades que usan os teus datos para darte unha experiencia máis personalizada:

@@ -70,16 +70,6 @@ about-reader-customtheme-tab = Khusus
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Teks
-    .title = Edit warna
-about-reader-custom-colors-background = Latar Belakang:
-    .title = Edit warna
-about-reader-custom-colors-unvisited-links = Tautan yang belum dikunjungi
-    .title = Edit warna
-about-reader-custom-colors-visited-links = Tautan yang dikunjungi
-    .title = Edit warna
-about-reader-custom-colors-selection-highlight = Penyorot untuk dibacakan
-    .title = Edit warna
 about-reader-reset-button = Pulihkan bawaan
 about-reader-custom-colors-foreground2 =
     .label = Teks

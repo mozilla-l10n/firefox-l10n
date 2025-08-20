@@ -360,7 +360,6 @@ quickactions-print2 = Imprimeix la pàgina
 quickactions-cmd-print = imprimir, impressió, imprimeix
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Desa la pàgina com a PDF
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Obre una finestra privada
 quickactions-cmd-private = navegació privada

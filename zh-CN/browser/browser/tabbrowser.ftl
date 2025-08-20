@@ -134,8 +134,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = 不再显示此对话框。
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = 注意
-tabbrowser-confirm-close-duplicate-tabs-text = 我们将保留最近一次活跃的标签页
 tabbrowser-confirm-close-all-duplicate-tabs-title = 确定要关闭重复标签页吗？
 tabbrowser-confirm-close-all-duplicate-tabs-text = 我们将关闭此窗口中的重复标签页，仅保留最近一次活跃的标签页。
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = 关闭标签页

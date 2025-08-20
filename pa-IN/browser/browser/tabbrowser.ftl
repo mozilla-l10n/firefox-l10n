@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = ਇਹ ਡਾਈਲਾਗ ਬਾਕ�
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = ਸਾਵਧਾਨ
-tabbrowser-confirm-close-duplicate-tabs-text = ਅਸੀਂ ਆਖਰੀ ਸਰਗਰਮ ਟੈਬ ਨੂੰ ਖੁੱਲ੍ਹਾਂ ਰੱਖਾਂਗੇ
 tabbrowser-confirm-close-all-duplicate-tabs-title = ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
 tabbrowser-confirm-close-all-duplicate-tabs-text = ਅਸੀਂ ਇਸ ਟੈਬ ਵਿੱਚ ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਾਂਗੇ। ਆਖਰੀ ਸਰਗਰਮ ਟੈਬ ਹਮੇਸ਼ਾਂ ਖੁੱਲ੍ਹੀ ਰਹੇਗੀ।
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ

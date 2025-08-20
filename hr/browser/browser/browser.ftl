@@ -393,7 +393,6 @@ quickactions-cmd-print = ispis
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Spremi stranicu kao PDF
 quickactions-cmd-savepdf2 = pdf, spremi stranicu
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otvori privatni prozor
 quickactions-cmd-private = privatno pregledavanje

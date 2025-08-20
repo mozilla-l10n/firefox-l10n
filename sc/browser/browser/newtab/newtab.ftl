@@ -314,9 +314,6 @@ newtab-custom-pocket-sponsored = Istòrias patrotzinadas
 newtab-custom-pocket-show-recent-saves = Ammustra is elementos sarvados de reghente
 newtab-custom-recent-title = Atividade reghente
 newtab-custom-recent-subtitle = Una seletzione de sitos e cuntenutos reghentes
-newtab-custom-recent-toggle =
-    .label = Atividade reghente
-    .description = Una seletzione de sitos e cuntenutos reghentes
 newtab-custom-weather-toggle =
     .label = Tempus
     .description = Is previsiones de oe in curtzu
@@ -412,7 +409,6 @@ newtab-weather-menu-change-location = Càmbia positzione
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Chirca positzione
     .aria-label = Chirca positzione
-newtab-weather-change-location-search-input = Chirca positzione
 newtab-weather-menu-weather-display = Vista de su tempus
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

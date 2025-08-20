@@ -70,16 +70,6 @@ about-reader-customtheme-tab = Tùy chọn
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Văn bản
-    .title = Chỉnh sửa màu
-about-reader-custom-colors-background = Nền
-    .title = Chỉnh sửa màu
-about-reader-custom-colors-unvisited-links = Liên kết chưa truy cập
-    .title = Chỉnh sửa màu
-about-reader-custom-colors-visited-links = Liên kết đã truy cập
-    .title = Chỉnh sửa màu
-about-reader-custom-colors-selection-highlight = Công cụ đánh dấu để đọc to
-    .title = Chỉnh sửa màu
 about-reader-reset-button = Khôi phục về mặc định
 about-reader-custom-colors-foreground2 =
     .label = Văn bản

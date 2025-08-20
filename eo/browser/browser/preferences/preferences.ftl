@@ -4,9 +4,6 @@
 
 do-not-track-description = Sendi al retejoj sciigon, ke vi ne volas esti spurata
 do-not-track-removal = Ni ne plu subtenas la signalon “Do Not Track”
-do-not-track-description2 =
-    .label = Sendi “Ne spuru min” petojn al retejoj
-    .accesskey = S
 do-not-track-learn-more = Pli da informo
 do-not-track-option-default-content-blocking-known =
     .label = Nur kiam { -brand-short-name } estas agordita por bloki konatajn spurilojn
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Via elekto de koloroj superregas la aspekton de retejoj. <a data-l10n-name="colors-link">Administri kolorojn</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Via elekto de koloroj superregas la aspekton de retejoj.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Administri la etosojn de { -brand-short-name } en <a data-l10n-name="themes-link">Etendaĵoj kaj etosoj</a>
@@ -1434,8 +1427,6 @@ addon-recommendations-link = Pli da informo
 # or builds with no Telemetry support available.
 collection-health-report-disabled = La raporto de datumoj estas malŝaltita pro la agordoj de konstruo
 collection-backlogged-crash-reports-with-link = Permesi al { -brand-short-name } aŭtomate sendi ankoraŭ nesenditajn raportojn pri paneo. <a data-l10n-name="crash-reports-link">Pli da informo</a>
-    .accesskey = A
-collection-backlogged-crash-reports = Permesi al { -brand-short-name } aŭtomate sendi ankoraŭ nesenditajn raportojn pri paneo.
     .accesskey = A
 privacy-segmentation-section-header = Novaj trajtoj kiuj plibonigas vian retumon
 privacy-segmentation-section-description = Kiam ni proponas trajtojn kiuj uzas viajn datumojn por havi pli personan sperton:

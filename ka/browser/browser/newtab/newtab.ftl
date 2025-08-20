@@ -322,9 +322,6 @@ newtab-custom-pocket-sponsored = ამბები დამკვეთებ�
 newtab-custom-pocket-show-recent-saves = ბოლოს შენახულის ჩვენება
 newtab-custom-recent-title = ბოლო მოქმედებები
 newtab-custom-recent-subtitle = ბოლოს ნანახი საიტებისა და მასალებიდან შერჩეული
-newtab-custom-recent-toggle =
-    .label = ბოლო მოქმედებები
-    .description = ბოლოს ნანახი საიტებისა და მასალებიდან შერჩეული
 newtab-custom-weather-toggle =
     .label = ამინდი
     .description = დღევანდელი ამინდისთვის თვალის შევლება
@@ -461,7 +458,6 @@ newtab-weather-menu-change-location = მდებარეობის შე�
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = მდებარეობის მოძიება
     .aria-label = მდებარეობის მოძიება
-newtab-weather-change-location-search-input = მდებარეობის მოძიება
 newtab-weather-menu-weather-display = ამინდის ჩვენება
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -640,7 +636,6 @@ newtab-widget-lists-menu-delete = ამ სიის წაშლა
 newtab-widget-lists-menu-copy = სიის ასლის აღება
 newtab-widget-lists-menu-hide = ყველა სიის დამალვა
 newtab-widget-lists-menu-learn-more = ვრცლად
-newtab-widget-lists-input-placeholder = ჩანაწერის დამატება
 newtab-widget-lists-input-error = დასამატებლად დაურთეთ წარწერა.
 newtab-widget-lists-input-menu-open-link = ბმულის გახსნა
 newtab-widget-lists-input-menu-move-up = აწევა
@@ -669,6 +664,7 @@ newtab-widget-timer-menu-notifications = შეტყობინებები
 newtab-widget-timer-menu-notifications-on = შეტყობინებების ჩართვა
 newtab-widget-timer-menu-hide = წამმზომის დამალვა
 newtab-widget-timer-menu-learn-more = ვრცლად
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = ჩაუყევით ვრცლად სანახავად
 newtab-promo-card-title = თანადგომა – { -brand-product-name }
 newtab-promo-card-body = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად

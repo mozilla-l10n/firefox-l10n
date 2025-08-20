@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Z { $previous } import�
 mr1-onboarding-theme-header = Pśiswójśo se jen
 mr1-onboarding-theme-subtitle = Personalizěrujśo { -brand-short-name } z drastwu.
 mr1-onboarding-theme-secondary-button-label = Nic něnto
-newtab-wallpaper-onboarding-title = Wopytajśo chrapku barwy
-newtab-wallpaper-onboarding-subtitle = Wubjeŕśo slězynowy wobraz, aby swójomu nowemu rejtarikoju nowy naglěd dał.
-newtab-wallpaper-onboarding-primary-button-label = Slězynowy wobraz nastajiś
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Systemowa drastwa
 mr1-onboarding-theme-label-light = Swětły

@@ -160,11 +160,6 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = لنک کاپی کرو
     .accesskey = L
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = سائٹ ٹریکنگ دے بغیر لنک کاپی کرو
-    .accesskey = y
 
 ## Media (video/audio) controls
 ##

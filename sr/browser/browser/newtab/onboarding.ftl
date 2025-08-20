@@ -59,9 +59,6 @@ mr1-onboarding-theme-subtitle =
        *[other] Персонализујте програм { -brand-short-name } помоћу теме.
     }
 mr1-onboarding-theme-secondary-button-label = Не сада
-newtab-wallpaper-onboarding-title = Пробајте нове боје
-newtab-wallpaper-onboarding-subtitle = Одаберите позадину за свеж изглед ваше нове картице.
-newtab-wallpaper-onboarding-primary-button-label = Постави позадину
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Системска тема
 mr1-onboarding-theme-label-light = Светла

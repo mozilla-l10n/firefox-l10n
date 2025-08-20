@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importer fra { $previou
 mr1-onboarding-theme-header = Gjør den til din egen
 mr1-onboarding-theme-subtitle = Tilpass { -brand-short-name } med et tema.
 mr1-onboarding-theme-secondary-button-label = Ikke nå
-newtab-wallpaper-onboarding-title = Prøv en fargeklatt
-newtab-wallpaper-onboarding-subtitle = Velg et bakgrunnsbilde for å gi Ny fane-siden et friskt utseende.
-newtab-wallpaper-onboarding-primary-button-label = Velg bakgrunnsbilde
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Systemtema
 mr1-onboarding-theme-label-light = Lyst

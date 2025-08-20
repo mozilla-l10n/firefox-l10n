@@ -24,8 +24,6 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } provjerava je li ispis
 contentanalysis-operationtype-clipboard = međuspremnik
 contentanalysis-operationtype-dropped-text = ispušteni tekst
 contentanalysis-operationtype-print = ispis
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = prijenos datoteke „{ $filename }”
 contentanalysis-warndialogtitle = Ovaj sadržaj možda nije siguran
 contentanalysis-warndialog-response-allow = Koristi sadržaj
 contentanalysis-warndialog-response-deny = Odustani

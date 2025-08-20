@@ -34,7 +34,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Pošle kartu do iného zariadenia, na ktorom ste prihlásení.
 fxa-menu-sign-out =
     .label = Odhlásiť sa…
-fxa-menu-sync-title = Synchronizácia
 fxa-menu-sync-description = Získajte prístup k svojmu webu odkiaľkoľvek
 fxa-avatar-sign-in = Prihlásiť sa
 fxa-avatar-sign-up = Zaregistrovať sa

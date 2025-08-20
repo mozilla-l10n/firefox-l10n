@@ -33,8 +33,6 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } está a rever o que im
 contentanalysis-operationtype-clipboard = área de transferência
 contentanalysis-operationtype-dropped-text = texto largado
 contentanalysis-operationtype-print = impressão
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = carregamento de “{ $filename }”
 contentanalysis-warndialogtitle = Este conteúdo pode ser inseguro
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

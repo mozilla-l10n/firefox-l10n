@@ -19,8 +19,5 @@ password-manager-update-password-button-deny =
     .accesskey = e
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nying me tic pe
-password-manager-toggle-password =
-    .label = Nyut mung me donyo
-    .accesskey = h
 password-manager-confirm-password-change = Mok loko mung me donyo
 password-manager-select-username = Yer donyo iyie mene me aketa ngec manyen:

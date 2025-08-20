@@ -35,7 +35,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Sćelśo rejtarik ned na rěd, pla kótaregož sćo pśizjawjony.
 fxa-menu-sign-out =
     .label = Wótzjawiś…
-fxa-menu-sync-title = Synchronizacija
 fxa-menu-sync-description = Mějśo pśistup k internetoju wót wšuźi
 fxa-avatar-sign-in = Pśizjawiś
 fxa-avatar-sign-up = Registrěrowaś

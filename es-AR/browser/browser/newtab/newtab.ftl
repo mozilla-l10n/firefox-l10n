@@ -322,9 +322,6 @@ newtab-custom-pocket-sponsored = Historias patrocinadas
 newtab-custom-pocket-show-recent-saves = Mostrar guardados recientes
 newtab-custom-recent-title = Actividad reciente
 newtab-custom-recent-subtitle = Una selección de sitios y contenido recientes
-newtab-custom-recent-toggle =
-    .label = Actividad reciente
-    .description = Una selección de sitios y contenido recientes
 newtab-custom-weather-toggle =
     .label = Clima
     .description = El pronóstico de hoy de un vistazo
@@ -461,7 +458,6 @@ newtab-weather-menu-change-location = Cambiar ubicación
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Buscar ubicación
     .aria-label = Buscar ubicación
-newtab-weather-change-location-search-input = Buscar ubicación
 newtab-weather-menu-weather-display = Visualización del clima
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -640,7 +636,6 @@ newtab-widget-lists-menu-delete = Borrar esta lista
 newtab-widget-lists-menu-copy = Copiar lista al portapapeles
 newtab-widget-lists-menu-hide = Ocultar todas las listas
 newtab-widget-lists-menu-learn-more = Conocer más
-newtab-widget-lists-input-placeholder = Agregar un ítem
 newtab-widget-lists-input-error = Incluir texto para agregar un ítem.
 newtab-widget-lists-input-menu-open-link = Abrir enlace
 newtab-widget-lists-input-menu-move-up = Mover arriba
@@ -665,6 +660,7 @@ newtab-widget-timer-menu-notifications = Desactivar notificaciones
 newtab-widget-timer-menu-notifications-on = Activar notificaciones
 newtab-widget-timer-menu-hide = Ocultar temporizador
 newtab-widget-timer-menu-learn-more = Conocer más
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Deslizar para ver más
 newtab-promo-card-title = Ayudar a { -brand-product-name }
 newtab-promo-card-body = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor

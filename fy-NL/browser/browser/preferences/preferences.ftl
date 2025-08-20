@@ -4,9 +4,6 @@
 
 do-not-track-description = Websites in ‘Net folgje’-sinjaal stjoere om litte te witten dat jo net folge wurde wolle
 do-not-track-removal = Wy stypje it ‘Net folgje’-sinjaal net mear
-do-not-track-description2 =
-    .label = Stjoer websites in ‘Net-folgje’-fersyk.
-    .accesskey = f
 do-not-track-learn-more = Mear ynfo
 do-not-track-option-default-content-blocking-known =
     .label = Allinnich wannear’t { -brand-short-name } ynsteld is om bekende trackers te blokkearjen
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Jo kleurseleksjes hawwe foarrang op it uterlik fan de website. <a data-l10n-name="colors-link">Kleuren beheare</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Jo kleurseleksjes hawwe foarrang op it uterlik fan de website.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Jo kinne { -brand-short-name }-tema’s beheare yn <a data-l10n-name="themes-link">Utwreidingen en tema’s</a>
@@ -1434,8 +1427,6 @@ addon-recommendations-link = Mear ynfo
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Gegevensrapporten binne foar dizze build-konfiguraasje útskeakele
 collection-backlogged-crash-reports-with-link = { -brand-short-name } tastean om út jo namme efterstallige ûngelokrapporten te ferstjoeren. <a data-l10n-name="crash-reports-link">Mear ynfo</a>
-    .accesskey = r
-collection-backlogged-crash-reports = { -brand-short-name } tastean om út jo namme efterstallige ûngelokrapporten te ferstjoeren.
     .accesskey = r
 privacy-segmentation-section-header = Nije funksjes dy’t jo sneupen ferbetterje
 privacy-segmentation-section-description = As wy funksjes oanbiede dy’t jo gegevens brûke om jo in mear persoanlike ûnderfining te jaan:

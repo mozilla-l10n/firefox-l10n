@@ -54,7 +54,6 @@ mr1-onboarding-import-primary-button-label-attribution = Emporzhiañ diouzh { $p
 mr1-onboarding-theme-header = Personelait ho neuz
 mr1-onboarding-theme-subtitle = Personelait { -brand-short-name } gant un neuz.
 mr1-onboarding-theme-secondary-button-label = Ket bremañ
-newtab-wallpaper-onboarding-primary-button-label = Aozañ an drekleur
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tem ar reizhiad
 mr1-onboarding-theme-label-light = Sklaer

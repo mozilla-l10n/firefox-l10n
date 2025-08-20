@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Lähetä välilehti välittömästi mille tahansa laitteelle, johon olet kirjautuneena.
 fxa-menu-sign-out =
     .label = Kirjaudu ulos…
-fxa-menu-sync-title = Synkronointi
 fxa-menu-sync-description = Verkkosi missä tahansa
 fxa-avatar-sign-in = Kirjaudu sisään
 fxa-avatar-sign-up = Rekisteröidy

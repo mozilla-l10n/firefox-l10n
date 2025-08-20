@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Tilpassa
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Tekst
-    .title = Endre farge
-about-reader-custom-colors-background = Bakgrunn
-    .title = Endre farge
-about-reader-custom-colors-unvisited-links = Ubesøkte lenker
-    .title = Endre farge
-about-reader-custom-colors-visited-links = Besøkte lenker
-    .title = Endre farge
-about-reader-custom-colors-selection-highlight = Markering for høgtlesing
-    .title = Endre farge
 about-reader-reset-button = Still tilbake til standardverdiar
 about-reader-custom-colors-foreground2 =
     .label = Tekst

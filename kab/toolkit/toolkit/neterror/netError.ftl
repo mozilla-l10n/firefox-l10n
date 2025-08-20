@@ -79,7 +79,6 @@ neterror-dns-not-found-trr-unknown-problem = Ugur ur netturaǧu ara.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ur yezmir ara ad yemmesten asuter-ik•im ɣef tansa n usmel-a s umefru-nneɣ DNS aɣellsan. Da ara tafeḍ iwacu:
-neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } ur yezmir ara ad yemmesten asuter-ik•im ɣef tansa n usmel-a s usaǧǧaw-nneɣ DNS aɣellsan. Da ara tafeḍ i wacu:
 neterror-dns-not-found-native-fallback-heuristic = DNS s HTTPS tensa deg uẓeṭṭa-inek•inem.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ur yessaweḍ ara ad yeqqen ɣer { $trrDomain }.
 

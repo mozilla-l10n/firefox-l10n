@@ -401,7 +401,6 @@ quickactions-cmd-print = 인쇄, print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = 페이지를 PDF로 저장
 quickactions-cmd-savepdf2 = pdf, save page, 페이지 저장
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = 사생활 보호 창 열기
 quickactions-cmd-private = 사생활 보호 모드, private browsing

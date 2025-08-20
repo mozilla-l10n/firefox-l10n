@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = පරිශ්‍රීලක නාමය නැත
-password-manager-toggle-password =
-    .label = මුරපදය පෙන්වන්න
-    .accesskey = h
 password-manager-confirm-password-change = මුරපදය සංශෝධනය තහවුරුව
 password-manager-select-username = යාවත්කාල කළ යුතු පිවිසුම තෝරන්න:

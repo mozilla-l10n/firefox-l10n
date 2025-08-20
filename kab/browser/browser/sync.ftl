@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Azen iccer imir imir i yal ibenk i ɣur teqqneḍ.
 fxa-menu-sign-out =
     .label = Ffeɣ…
-fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Kcem ɣer web anda ma telliḍ
 fxa-avatar-sign-in = Kcem
 fxa-avatar-sign-up = Jerred

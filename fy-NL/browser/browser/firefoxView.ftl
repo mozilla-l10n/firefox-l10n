@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Slute
     .aria-label = Slute
-firefoxview-empty-state-icon =
-    .alt = Attinsje:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Sa krekt
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Trochgean
 firefoxview-syncedtabs-signin-header-2 = Jo { -brand-product-name } op al jo apparaten
 firefoxview-syncedtabs-signin-description-2 = Meld jo oan of registrearje jo foar in account om op jo telefoan en oare apparaten iepene ljepblêden te sjen. Mei in account kinne jo ek jo wachtwurden, skiednis en mear syngronisearje.
 firefoxview-syncedtabs-signin-primarybutton-2 = Oanmelde
-firefoxview-syncedtabs-signin-header = Pak oeral ljepblêden
-firefoxview-syncedtabs-signin-description = Meld jo oan by jo account om jo ljepblêden te besjen, net achte wêr’t jo { -brand-product-name } brûke. As jo gjin account hawwe, sille wy jo troch de stappen liede om jo te registrearjen.
-firefoxview-syncedtabs-signin-primarybutton = Oanmelde of registrearje
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } op jo telefoan of tablet syngronisearje
 firefoxview-tabpickup-adddevice-description = Download { -brand-product-name } foar mobyl en meld jo dêr oan.
 firefoxview-tabpickup-adddevice-learn-how = Mear ynfo
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } foar mobyl downloade
 firefoxview-syncedtabs-adddevice-header-2 = Pak oeral ljepblêden
 firefoxview-syncedtabs-adddevice-description-2 = Meld jo oan by { -brand-product-name } op jo telefoan of in oare kompjûter om hjir ljepblêden te sjen. Lês hoe’t jo <a data-l10n-name="url">ekstra apparaten ferbine kinne</a>.
-firefoxview-syncedtabs-adddevice-header = Meld jo oan by { -brand-product-name } op jo oare apparaten
-firefoxview-syncedtabs-adddevice-description = Meld jo oan op al jo apparaten om jo ljepblêden te besjen, wêr’t jo { -brand-product-name } ek brûke. Lês hoe’t jo <a data-l10n-name="url">ekstra apparaten oanslute</a>
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } foar mobyl probearje
 firefoxview-tabpickup-synctabs-header = Ljepblêdsyngronisaasje ynskeakelje
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } tastean om ljepblêden tusken apparaten te dielen.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Mear ynfo
 firefoxview-tabpickup-synctabs-primarybutton = Iepen ljepblêden syngronisearje
 firefoxview-syncedtabs-synctabs-header = Wurkje jo syngronisaasje-ynstellingen by
 firefoxview-syncedtabs-synctabs-description = Om ljepblêden fan oare apparaten te sjen, moatte jo jo iepen ljepblêden syngronisearje.
-firefoxview-syncedtabs-synctabs-checkbox = Tastean dat iepen ljepblêden syngronisearre wurde
 firefoxview-syncedtabs-loading-header = Syngronisearje
 firefoxview-syncedtabs-loading-description = As dit dien is, sjogge jo alle ljepblêden dy’t jo op oare apparaten iepene hawwe. Kom gau werom.
 firefoxview-tabpickup-fxa-admin-disabled-header = Jo organisaasje hat syngronisaasje útskeakele
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Koartlyn sluten
 firefoxview-closed-tabs-description2 = Iepenje siden opnij dy’t jo yn dit finster sluten hawwe.
 firefoxview-closed-tabs-placeholder-header = Gjin koartlyn sluten ljepblêden
 firefoxview-closed-tabs-placeholder-body = Wannear’t jo in ljepblêd yn dit finster slute, kinne jo it hjir ophelje.
-firefoxview-closed-tabs-placeholder-body2 = Wannear’t jo in ljepblêd, kinne jo it hjir ophelje.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Finster { $winID } (aktuele)
-firefoxview-opentabs-focus-tab =
-    .title = Wikselje nei dit ljepblêd
 firefoxview-show-more = Mear toane
 firefoxview-show-less = Minder toane
 firefoxview-show-all = Alles toane
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Ljepblêden trochsykje
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Sykje syngronisearre ljepblêden
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Iepen ljepblêden trochsykje
@@ -197,10 +183,6 @@ firefoxview-sort-history-by-date-label = Sortearje op datum
 firefoxview-sort-history-by-site-label = Sortearje op website
 firefoxview-sort-open-tabs-by-recency-label = Sortearje op resinte aktiviteit
 firefoxview-sort-open-tabs-by-order-label = Sortearje op ljepblêdfolchoarder
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Wikselje nei { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -217,7 +199,6 @@ firefoxview-history-site-localhost = (lokale bestannen)
 ##
 
 firefoxview-show-all-history = Alle skiednis toane
-firefoxview-view-more-browsing-history = Mear navigaasjeskiednis besjen
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -233,9 +214,6 @@ firefoxview-choose-browser-button = Kies browser
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Neat sjen te litten
-firefoxview-dont-remember-history-empty-description = It beskermjen fan jo privacy is it hert fan wat wy dogge. Dêrom kinne jo de aktiviteit kontrolearje dy’t { -brand-short-name } ûnthâldt beheare.
-firefoxview-dont-remember-history-empty-description-two = Op grûn fan jo aktuele ynstellingen ûnthâldt { -brand-short-name } jo aktiviteit net as jo sneupe. <a data-l10n-name="history-settings-url-two">Wizigje jo skiednisynstellingen om jo skiednis te ûnthâlden</a> om dat oan te passen.
 firefoxview-dont-remember-history-empty-header-2 = Jo hawwe kontrôle oer wat { -brand-short-name } ûnthâldt
 firefoxview-dont-remember-history-empty-description-one = Op dit stuit ûnthâldt { -brand-short-name } jo sneupaktiviteit net. <a data-l10n-name="history-settings-url-two">Wurkje jo skiednisynstellingen by</a> om dat te wizigjen.
 

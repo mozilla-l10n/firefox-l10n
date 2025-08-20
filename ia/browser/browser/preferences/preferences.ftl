@@ -4,9 +4,6 @@
 
 do-not-track-description = Inviar al sitos web un signal “Non traciar” indicante que tu non vole esser traciate
 do-not-track-removal = Le signal “Non me traciar” non es plus supportate
-do-not-track-description2 =
-    .label = Inviar requesta de “Non tracia" a sitos web
-    .accesskey = N
 do-not-track-learn-more = Saper plus
 do-not-track-option-default-content-blocking-known =
     .label = Solmente quando { -brand-short-name } es adjustate pro blocar traciatores cognoscite.
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tu selectiones color supplanta le apparentia del sito web.<a data-l10n-name="colors-link">Gere le colores</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Tu selectiones color supplanta le apparentia del sito web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gere le themas de { -brand-short-name } in <a data-l10n-name="themes-link">Extensiones e themas</a>
@@ -1434,8 +1427,6 @@ addon-recommendations-link = Saper plus
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Le reportage de datos es disactivate pro iste configuration de compilation
 collection-backlogged-crash-reports-with-link = Permitter que { -brand-short-name } invia in tu nomine le reportos accumulate de crash <a data-l10n-name="crash-reports-link">saper plus</a>
-    .accesskey = P
-collection-backlogged-crash-reports = Permitter que { -brand-short-name } invia in tu nomine le reportos accumulate de crash
     .accesskey = P
 privacy-segmentation-section-header = Nove functiones que meliora tu navigation
 privacy-segmentation-section-description = Quando nos offere functiones que usa tu datos pro dar te un experientia plus personal:

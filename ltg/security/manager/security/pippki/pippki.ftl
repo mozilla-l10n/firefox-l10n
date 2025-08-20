@@ -62,8 +62,6 @@ client-auth-cert-details-issued-by = Izdūts: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Saglobuots: { $storedOn }
-client-auth-cert-remember-box =
-    .label = Atguoduot itū izvieli
 
 ## Set password (p12) dialog
 

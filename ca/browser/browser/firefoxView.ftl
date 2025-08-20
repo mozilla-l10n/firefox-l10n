@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Tanca
     .aria-label = Tanca
-firefoxview-empty-state-icon =
-    .alt = Atenció:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Ara mateix
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Continua
 firefoxview-syncedtabs-signin-header-2 = El { -brand-product-name } a tots els vostres dispositius
 firefoxview-syncedtabs-signin-description-2 = Per veure les pestanyes que teniu obertes al telèfon i altres dispositius, inicieu la sessió o registreu-vos per obtenir un compte. Amb un compte, també es poden sincronitzar les contrasenyes, l'historial i molt més.
 firefoxview-syncedtabs-signin-primarybutton-2 = Inicia la sessió
-firefoxview-syncedtabs-signin-header = Recupereu les pestanyes de qualsevol dispositiu
-firefoxview-syncedtabs-signin-description = Per veure les vostres pestanyes de tots els dispositius on utilitzeu el { -brand-product-name }, inicieu la sessió al vostre compte. Si no teniu cap compte, us mostrarem els passos per registrar-vos.
-firefoxview-syncedtabs-signin-primarybutton = Inici de sessió o registre
 firefoxview-tabpickup-adddevice-header = Sincronitzeu el { -brand-product-name } en el telèfon o tauleta
 firefoxview-tabpickup-adddevice-description = Baixeu el { -brand-product-name } per al mòbil i inicieu-hi la sessió.
 firefoxview-tabpickup-adddevice-learn-how = Vegeu com fer-ho
 firefoxview-tabpickup-adddevice-primarybutton = Instal·la el { -brand-product-name } per al mòbil
 firefoxview-syncedtabs-adddevice-header-2 = Recupereu les pestanyes de qualsevol dispositiu
 firefoxview-syncedtabs-adddevice-description-2 = Inicieu la sessió al { -brand-product-name } des del telèfon o des d'un altre ordinador per veure'n les pestanyes aquí. Obteniu informació sobre com <a data-l10n-name="url">connectar dispositius addicionals</a>.
-firefoxview-syncedtabs-adddevice-header = Inicieu la sessió al { -brand-product-name } en els altres dispositius
-firefoxview-syncedtabs-adddevice-description = Per veure les vostres pestanyes de tots els dispositius on utilitzeu el { -brand-product-name }, inicieu la sessió en tots els dispositius. Vegeu també com <a data-l10n-name="url">connectar dispositius addicionals</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prova el { -brand-product-name } per al mòbil
 firefoxview-tabpickup-synctabs-header = Activeu la sincronització de pestanyes
 firefoxview-tabpickup-synctabs-description = Permeteu que el { -brand-short-name } comparteixi les pestanyes entre els vostres dispositius.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Vegeu com fer-ho
 firefoxview-tabpickup-synctabs-primarybutton = Sincronitza les pestanyes obertes
 firefoxview-syncedtabs-synctabs-header = Actualitzeu la configuració de sincronització
 firefoxview-syncedtabs-synctabs-description = Per veure les pestanyes d'altres dispositius, heu de sincronitzar les pestanyes obertes.
-firefoxview-syncedtabs-synctabs-checkbox = Permet la sincronització de les pestanyes obertes
 firefoxview-syncedtabs-loading-header = S'està sincronitzant…
 firefoxview-syncedtabs-loading-description = Quan hagi acabat, veureu les pestanyes que tingueu obertes en altres dispositius. Torneu-ho a comprovar més tard.
 firefoxview-tabpickup-fxa-admin-disabled-header = La vostra organització ha desactivat la sincronització
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Tancades recentment
 firefoxview-closed-tabs-description2 = Torneu a obrir les pàgines que heu tancat en aquesta finestra.
 firefoxview-closed-tabs-placeholder-header = No hi ha cap pestanya tancada recentment
 firefoxview-closed-tabs-placeholder-body = Quan tanqueu una pestanya en aquesta finestra, podeu recuperar-la aquí.
-firefoxview-closed-tabs-placeholder-body2 = Quan tanqueu una pestanya, podeu recuperar-la aquí.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Finestra { $winID } (actual)
-firefoxview-opentabs-focus-tab =
-    .title = Canvia a aquesta pestanya
 firefoxview-show-more = Mostra'n més
 firefoxview-show-less = Mostra'n menys
 firefoxview-show-all = Mostra-ho tot
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Cerca en les pestanyes
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Cerca en les pestanyes sincronitzades
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Cerca en les pestanyes obertes
@@ -197,10 +183,6 @@ firefoxview-sort-history-by-date-label = Ordena per data
 firefoxview-sort-history-by-site-label = Ordena per lloc
 firefoxview-sort-open-tabs-by-recency-label = Ordena per activitat recent
 firefoxview-sort-open-tabs-by-order-label = Ordena per ordre de pestanyes
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Canvia a { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -217,7 +199,6 @@ firefoxview-history-site-localhost = (fitxers locals)
 ##
 
 firefoxview-show-all-history = Mostra tot l'historial
-firefoxview-view-more-browsing-history = Mostra més historial de navegació
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -233,9 +214,6 @@ firefoxview-choose-browser-button = Trieu un navegador
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Res a mostrar
-firefoxview-dont-remember-history-empty-description = La nostra prioritat és protegir la vostra privadesa. És per això que podeu controlar l'activitat que el { -brand-short-name } recorda.
-firefoxview-dont-remember-history-empty-description-two = Segons els vostres paràmetres actuals, el { -brand-short-name } no recorda la vostra activitat mentre navegueu. Per canviar-ho, <a data-l10n-name="history-settings-url-two">configureu el navegador perquè recordi l'historial</a>.
 firefoxview-dont-remember-history-empty-header-2 = Teniu el control del que el { -brand-short-name } recorda
 firefoxview-dont-remember-history-empty-description-one = Actualment el { -brand-short-name } no recorda l'historial de navegació. Per canviar-ho, <a data-l10n-name="history-settings-url-two">actualitzeu els paràmetres de l'historial</a>.
 

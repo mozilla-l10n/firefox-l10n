@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Mewnforio o { $previous
 mr1-onboarding-theme-header = Ei wneud eich un chi
 mr1-onboarding-theme-subtitle = Personoli { -brand-short-name } gyda thema.
 mr1-onboarding-theme-secondary-button-label = Nid nawr
-newtab-wallpaper-onboarding-title = Ychwanegwch bach o liw
-newtab-wallpaper-onboarding-subtitle = Dewiswch bapur wal i roi golwg newydd i'ch Tab Newydd.
-newtab-wallpaper-onboarding-primary-button-label = Gosod y papur wal
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Thema'r system
 mr1-onboarding-theme-label-light = Golau

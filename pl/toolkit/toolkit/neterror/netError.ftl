@@ -81,7 +81,6 @@ neterror-dns-not-found-trr-unknown-problem = Nieoczekiwany problem.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nie może ochronić zapytania o adres tej witryny za pomocą naszego zaufanego serwera DNS, ponieważ:
-neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } nie może ochronić zapytania o adres tej witryny za pomocą naszego dostawcy zabezpieczonego serwera DNS, ponieważ:
 neterror-dns-not-found-native-fallback-heuristic = Obsługa DNS poprzez HTTPS została wyłączona w Twojej sieci.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nie mógł połączyć się z serwerem { $trrDomain }.
 

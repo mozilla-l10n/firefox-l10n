@@ -401,7 +401,6 @@ quickactions-cmd-print = чоп кардан
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Нигоҳ доштани саҳифа ҳамчун PDF
 quickactions-cmd-savepdf2 = pdf, нигоҳ доштани саҳифа
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Кушодани равзанаи хусусӣ
 quickactions-cmd-private = тамошобинии хусусӣ

@@ -319,9 +319,6 @@ newtab-custom-pocket-sponsored = 贊助內容
 newtab-custom-pocket-show-recent-saves = 顯示近期儲存項目
 newtab-custom-recent-title = 近期動態
 newtab-custom-recent-subtitle = 近期造訪過的網站與內容精選
-newtab-custom-recent-toggle =
-    .label = 近期動態
-    .description = 近期造訪過的網站與內容精選
 newtab-custom-weather-toggle =
     .label = 天氣
     .description = 快速了解本日天氣
@@ -458,7 +455,6 @@ newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = 搜尋位置
     .aria-label = 搜尋位置
-newtab-weather-change-location-search-input = 搜尋位置
 newtab-weather-menu-weather-display = 顯示天氣
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -637,7 +633,6 @@ newtab-widget-lists-menu-delete = 刪除此清單
 newtab-widget-lists-menu-copy = 複製清單到剪貼簿
 newtab-widget-lists-menu-hide = 隱藏所有清單
 newtab-widget-lists-menu-learn-more = 更多資訊
-newtab-widget-lists-input-placeholder = 新增項目
 newtab-widget-lists-input-error = 請加入文字來新增項目。
 newtab-widget-lists-input-menu-open-link = 開啟鏈結
 newtab-widget-lists-input-menu-move-up = 上移
@@ -666,6 +661,7 @@ newtab-widget-timer-menu-notifications = 關閉通知
 newtab-widget-timer-menu-notifications-on = 開啟通知
 newtab-widget-timer-menu-hide = 隱藏計時器
 newtab-widget-timer-menu-learn-more = 更多資訊
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = 滾動顯示更多
 newtab-promo-card-title = 支持 { -brand-product-name }
 newtab-promo-card-body = 贊助商支持我們打造出一個更好的網路環境的使命

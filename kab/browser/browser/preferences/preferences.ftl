@@ -4,9 +4,6 @@
 
 do-not-track-description = Ad yazen asɣal “ur sfuɣul ara” ɣer ismal web akken ad gzun belli ur tebɣiḍ ara asfuɣel
 do-not-track-removal = Dayen, ur nettεawan ara tamuli “Ur ṭṭafar ara”
-do-not-track-description2 =
-    .label = Ssuter i yismal web “Ur yi-ṭṭafaren ara”
-    .accesskey = s
 do-not-track-learn-more = Issin ugar
 do-not-track-option-default-content-blocking-known =
     .label = Kan ticki { -brand-short-name } yettusbadu ɣer sewḥel ineḍfaṛen
@@ -267,10 +264,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tifranin-ik•im n yiniten ttbeddilent arwes n usmel web. <a data-l10n-name="colors-link">Sefrek initen</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Tifranin-ik•im n yiniten ttbeddilent arwes n usmel web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Sefrek isental n { -brand-short-name } deg <a data-l10n-name="themes-link">yiseɣzaf & yisental</a>
@@ -1361,8 +1354,6 @@ addon-recommendations-link = Issin ugar
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Aneqqis n isefka ur irmid ara i uswel-a n usefsu
 collection-backlogged-crash-reports-with-link = Sireg { -brand-short-name } ad yazen ineqqisen n uɣelluy deg ugilal s yisem-ik·im <a data-l10n-name="crash-reports-link">Issin ugar</a>
-    .accesskey = g
-collection-backlogged-crash-reports = Sireg { -brand-short-name } ad yazen ineqqisen n uɣelluy deg ugilal s yisem-ik·im
     .accesskey = g
 privacy-segmentation-section-header = Timahilin timaynutin ara isselhun tunigin
 privacy-segmentation-section-description = Mi ara d-nmudd timahilin ara isseqdacen isefka-k•m i wakken ad ak•am-nmudd ugar n tirmit tudmawat:

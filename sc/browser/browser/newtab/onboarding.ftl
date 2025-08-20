@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importa dae { $previous
 mr1-onboarding-theme-header = Personaliza·ddu
 mr1-onboarding-theme-subtitle = Personaliza { -brand-short-name } cun unu tema.
 mr1-onboarding-theme-secondary-button-label = Immoe nono
-newtab-wallpaper-onboarding-title = Proa un’istrichiddu de colore
-newtab-wallpaper-onboarding-subtitle = Sèbera un'isfundu pro donare a s'ischeda noa unu tonu friscu.
-newtab-wallpaper-onboarding-primary-button-label = Cunfigura isfundu
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema de sistema
 mr1-onboarding-theme-label-light = Craru

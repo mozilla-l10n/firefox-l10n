@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importeren uit { $previ
 mr1-onboarding-theme-header = Maak het van uzelf
 mr1-onboarding-theme-subtitle = Personaliseer { -brand-short-name } met een thema.
 mr1-onboarding-theme-secondary-button-label = Niet nu
-newtab-wallpaper-onboarding-title = Probeer een vleugje kleur
-newtab-wallpaper-onboarding-subtitle = Kies een achtergrond om uw Nieuw-tabbladpagina een frisse uitstraling te geven.
-newtab-wallpaper-onboarding-primary-button-label = Achtergrond instellen
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Systeemthema
 mr1-onboarding-theme-label-light = Licht

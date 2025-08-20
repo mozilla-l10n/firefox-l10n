@@ -4,9 +4,6 @@
 
 do-not-track-description = أرسل للمواقع إشارة ”لا تتعقبني“ بأنك لا تريد أن يتعقبوك
 do-not-track-removal = لم نعد ندعم إشارة "لا تتعقبني"
-do-not-track-description2 =
-    .label = أرسل للمواقع طلب"لا تتعقبني"
-    .accesskey = س
 do-not-track-learn-more = اطّلع على المزيد
 do-not-track-option-default-content-blocking-known =
     .label = فقط حين يُضبط { -brand-short-name } على حجب المتعقّبات المعروفة
@@ -274,10 +271,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = إن اختياراتك للألوان تهيمن على مظهر موقع الويب. <a data-l10n-name="colors-link">إدارة الألوان</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = إن اختياراتك للألوان تهيمن على مظهر موقع الويب.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = أدِر سمات { -brand-short-name } في الامتدادات والسمات <a data-l10n-name="themes-link"></a>

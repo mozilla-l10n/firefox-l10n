@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Ñemomba’epyre
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Moñe’ẽrã
-    .title = Embosako’i sa’y
-about-reader-custom-colors-background = Tugua
-    .title = Embosako’i sa’y
-about-reader-custom-colors-unvisited-links = Juajuha ojeporu’ỹva
-    .title = Embosako’i sa’y
-about-reader-custom-colors-visited-links = Juajuha ojeporúva
-    .title = Embosako’i sa’y
-about-reader-custom-colors-selection-highlight = Mbosa’y emoñe’ẽ hag̃ua ayvúpe
-    .title = Embosako’i sa’y
 about-reader-reset-button = Erujey ijypykuéva
 about-reader-custom-colors-foreground2 =
     .label = Moñe’ẽrã

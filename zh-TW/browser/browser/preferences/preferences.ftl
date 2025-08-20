@@ -4,9 +4,6 @@
 
 do-not-track-description = 傳送「Do Not Track」訊號，告訴網站您不想被追蹤
 do-not-track-removal = 我們不再支援「Do Not Track」訊號
-do-not-track-description2 =
-    .label = 告訴網站「不要追蹤我」
-    .accesskey = d
 do-not-track-learn-more = 了解更多
 do-not-track-option-default-content-blocking-known =
     .label = 僅在 { -brand-short-name } 設定為封鎖已知追蹤器時
@@ -256,10 +253,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 您選擇的配色會蓋過網站外觀的配色。<a data-l10n-name="colors-link">管理色彩</a>。
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = 您選擇的配色會蓋過網站外觀的配色。
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = 到<a data-l10n-name="themes-link">擴充套件與佈景主題</a>管理 { -brand-short-name } 的佈景主題
@@ -1422,8 +1415,6 @@ addon-recommendations-link = 了解更多
 # or builds with no Telemetry support available.
 collection-health-report-disabled = 進行編譯設定時，已停用了資料回報功能
 collection-backlogged-crash-reports-with-link = 允許 { -brand-short-name } 以您的身分自動回報錯誤報告<a data-l10n-name="crash-reports-link">了解更多資訊</a>
-    .accesskey = c
-collection-backlogged-crash-reports = 允許 { -brand-short-name } 以您的身分自動回報錯誤報告
     .accesskey = c
 privacy-segmentation-section-header = 能加強您上網體驗的新功能
 privacy-segmentation-section-description = 當我們推出會使用您的資料來提供更個人化的上網體驗的新功能時：

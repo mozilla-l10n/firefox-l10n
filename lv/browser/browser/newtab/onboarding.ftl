@@ -53,9 +53,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importēt no { $previou
 mr1-onboarding-theme-header = Padariet to par savu
 mr1-onboarding-theme-subtitle = Personalizējiet { -brand-short-name } ar motīvu.
 mr1-onboarding-theme-secondary-button-label = Ne tagad
-newtab-wallpaper-onboarding-title = Izmēģiniet krāsu akcentu
-newtab-wallpaper-onboarding-subtitle = Izvēlieties tapeti, lai jaunajai cilnei piešķirtu jaunu izskatu.
-newtab-wallpaper-onboarding-primary-button-label = Iestatīt tapeti
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Sistēmas motīvs
 mr1-onboarding-theme-label-light = Gaišs

@@ -312,9 +312,6 @@ newtab-custom-pocket-sponsored = Kostaðar sögur
 newtab-custom-pocket-show-recent-saves = Sýna nýlega vistað
 newtab-custom-recent-title = Nýleg virkni
 newtab-custom-recent-subtitle = Úrval af nýlegum síðum og efni
-newtab-custom-recent-toggle =
-    .label = Nýleg virkni
-    .description = Úrval af nýlegum síðum og efni
 newtab-custom-weather-toggle =
     .label = Veður
     .description = Veðurspá dagsins í skyndi
@@ -435,7 +432,6 @@ newtab-weather-menu-change-location = Breyta staðsetningu
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Leita að staðsetningu
     .aria-label = Leita að staðsetningu
-newtab-weather-change-location-search-input = Leita að staðsetningu
 newtab-weather-menu-weather-display = Birting veðurs
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

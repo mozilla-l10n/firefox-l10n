@@ -71,9 +71,6 @@ mr1-onboarding-theme-subtitle =
        *[no-cases] Přizpůsobte si vzhled aplikace { -brand-short-name }
     }
 mr1-onboarding-theme-secondary-button-label = Teď ne
-newtab-wallpaper-onboarding-title = Zkuste barevný nádech
-newtab-wallpaper-onboarding-subtitle = Vyberte si tapetu, která dodá každému novému panelu nový vzhled.
-newtab-wallpaper-onboarding-primary-button-label = Nastavit tapetu
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Podle systému
 mr1-onboarding-theme-label-light = Světlý

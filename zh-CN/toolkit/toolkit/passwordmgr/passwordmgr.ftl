@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = 无用户名
-password-manager-toggle-password =
-    .label = 显示密码
-    .accesskey = h
 password-manager-confirm-password-change = 确认更改密码
 password-manager-select-username = 选择要更新的登录信息：

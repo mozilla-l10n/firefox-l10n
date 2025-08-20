@@ -4,9 +4,6 @@
 
 do-not-track-description = Web stranicama šalji “Ne prati” signal da ne želite biti praćeni
 do-not-track-removal = Više ne podržavamo signal “Ne prati”.
-do-not-track-description2 =
-    .label = Pošaljite web lokacijama zahtjev “Ne prati”.
-    .accesskey = d
 do-not-track-learn-more = Saznajte više
 do-not-track-option-default-content-blocking-known =
     .label = Samo kada je { -brand-short-name } postavljen da blokira poznate tragače
@@ -271,10 +268,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vaši odabiri boja nadjačavaju izgled web stranice. <a data-l10n-name="colors-link">Upravljaj bojama</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Vaši odabiri boja nadjačavaju izgled web stranice.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljajte temama { -brand-short-name }a u <a data-l10n-name="themes-link">Proširenja i teme</a>
@@ -1430,8 +1423,6 @@ addon-recommendations-link = Saznajte više
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za ovu konfiguraciju
 collection-backlogged-crash-reports-with-link = Dozvolite { -brand-short-name } da u vaše ime šalje izvještaje o zaostalim rušenjima <a data-l10n-name="crash-reports-link">Saznajte više</a>
-    .accesskey = c
-collection-backlogged-crash-reports = Dozvoli { -brand-short-name }u da šalje pohranjene izvještaje o rušenju u vaše ime
     .accesskey = c
 privacy-segmentation-section-header = Nove funkcije koje poboljšavaju vaše pretraživanje
 privacy-segmentation-section-description = Kada nudimo funkcije koje koriste vaše podatke kako bi vam pružile ličnije iskustvo:

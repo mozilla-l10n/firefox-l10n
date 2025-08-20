@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Không có tên người dùng
-password-manager-toggle-password =
-    .label = Hiện mật khẩu
-    .accesskey = h
 password-manager-confirm-password-change = Xác nhận thay đổi mật khẩu
 password-manager-select-username = Chọn tài khoản để cập nhật:

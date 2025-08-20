@@ -22,11 +22,6 @@ text-action-copy =
     .accesskey = ن
 text-action-copy-shortcut =
     .key = C
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = انسخ دون تعقب الموقع
-    .accesskey = م
 text-action-paste =
     .label = ألصق
     .accesskey = ل

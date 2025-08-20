@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Enviar una pestaña de forma instantánea a cualquier dispositivo en el que haya iniciado sesión.
 fxa-menu-sign-out =
     .label = Cerrar sesión…
-fxa-menu-sync-title = Sincronización
 fxa-menu-sync-description = Acceda a su web desde cualquier lugar
 fxa-avatar-sign-in = Iniciar sesión
 fxa-avatar-sign-up = Registrarse

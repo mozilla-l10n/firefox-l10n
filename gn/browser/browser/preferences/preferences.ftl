@@ -4,9 +4,6 @@
 
 do-not-track-description = Emondo ñanduti rendápe kuaaharã “Jehapykueho’ỹ” ipota’ỹva ojehapykueho
 do-not-track-removal = Nañamoneĩvéima pe kuaaukaha “Ani ehapykueho”
-do-not-track-description2 =
-    .label = Emondo ñanduti rendápe mba’ejeure “Jehapykueho’ỹ”
-    .accesskey = d
 do-not-track-learn-more = Kuaave
 do-not-track-option-default-content-blocking-known =
     .label = { -brand-short-name } oñemboheko jave ojoko hag̃ua tapykuehohápe añoite
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Sa’y poravopyre omboyke mba’éichapa ojehecha ñanduti renda. <a data-l10n-name="colors-link">Eñangareko sa’ýre</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Sa’y poravopyre omboyke mba’éichapa ojehecha ñanduti renda.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Eñangareko téma { -brand-short-name } mba’ére <a data-l10n-name="themes-link">Jepysokue ha téma</a> rupi
@@ -1433,8 +1426,6 @@ addon-recommendations-link = Kuaave
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pe mba’ekuaarã momarandu oñemboguéma ko ñemboheko guasúpe g̃uarã
 collection-backlogged-crash-reports-with-link = Emoneĩ { -brand-short-name } omomarandúvo jejavymeme nde rérape <a data-l10n-name="crash-reports-link">Eikuaave</a>
-    .accesskey = c
-collection-backlogged-crash-reports = Emoneĩ { -brand-short-name } omomarandúvo jejavymeme nde rérape
     .accesskey = c
 privacy-segmentation-section-header = Tembiapoite pyahu ombopya’evéva ne ñeikundaha
 privacy-segmentation-section-description = Roikuave’ẽ vove tembiapoite oiporúva mba’ekuaarã ome’ẽségui jehasakue nemba’erãva:

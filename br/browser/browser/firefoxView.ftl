@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Serriñ
     .aria-label = Serriñ
-firefoxview-empty-state-icon =
-    .alt = Diwallit:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Diouzhtu
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -33,16 +31,11 @@ firefoxview-tabpickup-step-signin-header = Tremen aes eus un trevnad d'unan all
 firefoxview-tabpickup-step-signin-description = Evit adtapout ivinelloù ho pellgomz e rankit kevreañ pe krouiñ ur gont da gentañ penn.
 firefoxview-tabpickup-step-signin-primarybutton = Kenderc'hel
 firefoxview-syncedtabs-signin-primarybutton-2 = Kennaskañ
-firefoxview-syncedtabs-signin-header = Tapit ivinelloù adalek forzh pe lec’h
-firefoxview-syncedtabs-signin-description = Evit gwelet hoc’h ivinelloù e pep lec’h ma implijit { -brand-product-name }, kennaskit d'ho kont. Ma n’ho peus ket a gont, e tiskouezimp deoc’h penaos ober evit krouiñ unan.
-firefoxview-syncedtabs-signin-primarybutton = Kennaskañ pe krouiñ ur gont
 firefoxview-tabpickup-adddevice-header = Goubredit { -brand-product-name } war ho pellgomz pe dablezenn
 firefoxview-tabpickup-adddevice-description = Pellgargit { -brand-product-name } evit pellgomz hezoug ha kennaskit amañ
 firefoxview-tabpickup-adddevice-learn-how = Gouzout penaos
 firefoxview-tabpickup-adddevice-primarybutton = Ho pezet { -brand-product-name } evit pellgomz hezoug.
 firefoxview-syncedtabs-adddevice-header-2 = Tapit ivinelloù adalek forzh pe lec’h
-firefoxview-syncedtabs-adddevice-header = Kennaskit ouzh { -brand-product-name } war ho trevnadoù all
-firefoxview-syncedtabs-adddevice-description = Evit gwelet hoc’h ivinelloù forzh e pep lec’h ma implijit { -brand-product-name }, kennaskit ouzh ho trevnadoù. Deskit penaos <a data-l10n-name="url">kennaskañ trevnadoù all</a>
 firefoxview-syncedtabs-adddevice-primarybutton = Esaeit { -brand-product-name } war hezoug
 firefoxview-tabpickup-synctabs-header = Gweredekaat goubredañ an ivinelloù
 firefoxview-tabpickup-synctabs-description = Aotren { -brand-short-name } da rannañ ivinelloù etre an trevnadoù.
@@ -50,7 +43,6 @@ firefoxview-tabpickup-synctabs-learn-how = Gouzout penaos
 firefoxview-tabpickup-synctabs-primarybutton = Goubredañ an ivinelloù digor
 firefoxview-syncedtabs-synctabs-header = Hizivait hoc’h arventennoù goubredañ
 firefoxview-syncedtabs-synctabs-description = Evit gwelet ivinelloù eus trevnadoù all ho peus ezhomm da c'houbredañ hoc’h ivinelloù digor.
-firefoxview-syncedtabs-synctabs-checkbox = Aotren an ivinelloù digor da c'houbredañ
 firefoxview-syncedtabs-loading-header = O c'houbredañ
 firefoxview-tabpickup-fxa-admin-disabled-header = Diweredekaet eo bet ar c'houbredañ gant hoc'h aozadur
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } n'eo ket gouest da c'houbredañ ivinelloù etre trevnadoù peogwir eo bet diweredekaet ar c'houbredañ gant ho merour.
@@ -82,7 +74,6 @@ firefoxview-closed-tabs-title = Ivinelloù serret nevez zo
 firefoxview-closed-tabs-description2 = Digeriñ en-dro ar pajennoù bet serret nevez zo er prenestr-mañ.
 firefoxview-closed-tabs-placeholder-header = N’eus ivinell nevez serret ebet
 firefoxview-closed-tabs-placeholder-body = Pa serrit un ivinell er prenestr-mañ e c’hallit kerc’hat anezhi adalek amañ.
-firefoxview-closed-tabs-placeholder-body2 = Pa serrit un ivinell e c’hallit kerc’hat anezhi adalek amañ.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -148,8 +139,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Prenestr { $winID } (Bremanel)
-firefoxview-opentabs-focus-tab =
-    .title = Mont d'an ivinell-mañ
 firefoxview-show-more = Diskouez muioc’h
 firefoxview-show-less = Diskouez nebeutoc’h
 firefoxview-show-all = Diskouez pep tra
@@ -167,9 +156,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Klask en ivinelloù
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Klask en ivinelloù goubredet
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Klask en ivinelloù digor
@@ -193,10 +179,6 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = N'ez eus bet kavet disoc'h ebet evit "{ $query }"
 firefoxview-sort-history-by-date-label = Rummañ dre zeiziad
 firefoxview-sort-history-by-site-label = Rummañ dre lec'hienn
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Mont da { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -213,7 +195,6 @@ firefoxview-history-site-localhost = (restroù lec’hel)
 ##
 
 firefoxview-show-all-history = Diskouez ar roll istor a-bezh
-firefoxview-view-more-browsing-history = Gwelout muioc’h a roll istor
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -226,12 +207,6 @@ firefoxview-history-empty-description-two = Ar pep pouezusañ eo gwareziñ ho pu
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = Dibab ur merdeer
     .title = Dibab ur merdeer
-
-## Message displayed in Firefox View when the user has chosen to never remember History
-
-firefoxview-dont-remember-history-empty-header = Netra da ziskouez
-firefoxview-dont-remember-history-empty-description = Ar pep pouezusañ eo gwareziñ ho puhez prevez. Setu perak hoc’h mestr war ar pezh a c’hell derc’hel soñj { -brand-short-name }.
-firefoxview-dont-remember-history-empty-description-two = Ne zalc’ho ket soñj { -brand-short-name } eus ar pezh a rit pa verdeit, diouzh ar pezh a zo bet dibabet en arventennoù. Evit cheñch an dra-mañ, <a data-l10n-name="history-settings-url-two">kemmit hoc’h arventennoù evit ma talc’hfe soñj eus ho roll istor</a>.
 
 ##
 

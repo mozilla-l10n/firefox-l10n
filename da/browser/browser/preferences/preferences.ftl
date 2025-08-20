@@ -4,9 +4,6 @@
 
 do-not-track-description = Send websteder signalet 'Spor mig ikke' ('Do not track') for at fortælle, at du ikke vil spores
 do-not-track-removal = Vi understøtter ikke længere "Spor mig ikke"-signalet
-do-not-track-description2 =
-    .label = Send websteder en "Spor mig ikke"-forespørgsel
-    .accesskey = d
 do-not-track-learn-more = Læs mere
 do-not-track-option-default-content-blocking-known =
     .label = Kun når { -brand-short-name } er indstillet til at blokere kendte sporings-teknologier
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Dine farvevalg tilsidesætter webstedets udseende. <a data-l10n-name="colors-link">Håndter farver</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Dine farvevalg tilsidesætter webstedets udseende.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Håndter { -brand-short-name }-temaer i <a data-l10n-name="themes-link">Udvidelser og temaer</a>
@@ -1434,8 +1427,6 @@ addon-recommendations-link = Læs mere
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data-rapportering er deaktiveret for denne build-konfiguration
 collection-backlogged-crash-reports-with-link = Tillad at { -brand-short-name } sender ophobede fejlrapporter på dine vegne <a data-l10n-name="crash-reports-link">Læs mere</a>
-    .accesskey = o
-collection-backlogged-crash-reports = Tillad at { -brand-short-name } sender ophobede fejlrapporter på dine vegne
     .accesskey = o
 privacy-segmentation-section-header = Nye funktioner, der forbedrer din browsing
 privacy-segmentation-section-description = Når vi tilbyder funktioner, der brugere dine data til at give dig en mere personlig oplevelse:

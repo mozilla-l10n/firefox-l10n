@@ -77,7 +77,6 @@ neterror-dns-not-found-trr-unknown-problem = Kesalahan tak terduga.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } tidak dapat melindungi permintaan Anda untuk alamat situs ini melalui resolusi DNS yang terpercaya kami. Alasannya adalah sebagai berikut:
-neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } tidak dapat melindungi permintaan Anda untuk alamat situs ini melalui penyedia DNS aman kami. Alasannya sebagai berikut:
 neterror-dns-not-found-native-fallback-heuristic = DNS lewat HTTP telah dinonaktifkan pada jaringan Anda.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } tidak dapat terhubung ke { $trrDomain }.
 

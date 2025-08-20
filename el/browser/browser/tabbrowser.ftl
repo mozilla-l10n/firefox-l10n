@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Να μην εμφανιστεί α�
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Προσοχή
-tabbrowser-confirm-close-duplicate-tabs-text = Θα παραμείνει ανοικτή η τελευταία ενεργή καρτέλα
 tabbrowser-confirm-close-all-duplicate-tabs-title = Κλείσιμο διπλών καρτελών;
 tabbrowser-confirm-close-all-duplicate-tabs-text =
     Θα κλείσουμε τις διπλές καρτέλες σε αυτό το παράθυρο. Η τελευταία ενεργή

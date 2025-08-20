@@ -401,7 +401,6 @@ quickactions-cmd-print = skriva ut
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Spara sida som PDF
 quickactions-cmd-savepdf2 = pdf, spara sida
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Öppna privat fönster
 quickactions-cmd-private = privat surfning

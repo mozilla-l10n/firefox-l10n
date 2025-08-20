@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = ਸਾਫ਼ ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
     .accesskey = u
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = ਸਾਈਟ ਟਰੈਕਿੰਗ ਤੋਂ ਬਿਨਾਂ ਲਿੰਕ ਕਾਪੀ ਕਰੋ
-    .accesskey = y
 
 ## Media (video/audio) controls
 ##

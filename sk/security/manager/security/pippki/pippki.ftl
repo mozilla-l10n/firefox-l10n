@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Natrvalo
 client-auth-cert-remember-temporarily =
     .label = Pre túto reláciu
-client-auth-cert-remember-box =
-    .label = Zapamätať si toto rozhodnutie
 
 ## Set password (p12) dialog
 

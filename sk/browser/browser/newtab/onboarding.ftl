@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importovať z prehliada
 mr1-onboarding-theme-header = Prispôsobte si ho podľa seba
 mr1-onboarding-theme-subtitle = Zmeňte vzhľad { -brand-short-name(case: "gen") } pomocou témy vzhľadu.
 mr1-onboarding-theme-secondary-button-label = Teraz nie
-newtab-wallpaper-onboarding-title = Vyskúšajte nádych farieb
-newtab-wallpaper-onboarding-subtitle = Vyberte tapetu, ktorá dodá každej vašej novej karte svieži vzhľad.
-newtab-wallpaper-onboarding-primary-button-label = Nastaviť tapetu
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Systémová téma
 mr1-onboarding-theme-label-light = Svetlá

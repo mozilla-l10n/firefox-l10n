@@ -401,7 +401,6 @@ quickactions-cmd-print = tipărire
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Salvează pagina ca PDF
 quickactions-cmd-savepdf2 = pdf, salvează pagina
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Deschide o fereastră privată
 quickactions-cmd-private = navigare privată

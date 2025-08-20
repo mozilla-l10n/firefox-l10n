@@ -324,9 +324,6 @@ newtab-custom-pocket-sponsored = Артыкулы ад спонсараў
 newtab-custom-pocket-show-recent-saves = Паказваць апошнія захаванні
 newtab-custom-recent-title = Апошняя актыўнасць
 newtab-custom-recent-subtitle = Падборка нядаўніх сайтаў і змесціва
-newtab-custom-recent-toggle =
-    .label = Апошняя актыўнасць
-    .description = Падборка нядаўніх сайтаў і змесціва
 newtab-custom-weather-toggle =
     .label = Надвор'е
     .description = Кароткі прагноз на сёння
@@ -459,7 +456,6 @@ newtab-weather-menu-change-location = Змяніць месцазнаходжа�
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Шукаць месцазнаходжанне
     .aria-label = Шукаць месцазнаходжанне
-newtab-weather-change-location-search-input = Шукаць месцазнаходжанне
 newtab-weather-menu-weather-display = Паказ надвор'я
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -633,7 +629,6 @@ newtab-widget-lists-menu-delete = Выдаліць гэты спіс
 newtab-widget-lists-menu-copy = Скапіяваць спіс у буфер абмену
 newtab-widget-lists-menu-hide = Схаваць усе спісы
 newtab-widget-lists-menu-learn-more = Падрабязней
-newtab-widget-lists-input-placeholder = Дадаць элемент
 newtab-widget-lists-input-error = Калі ласка, улучыце тэкст, каб дадаць элемент.
 newtab-widget-lists-input-menu-open-link = Адкрыць спасылку
 newtab-widget-lists-input-menu-move-up = Рухаць угору

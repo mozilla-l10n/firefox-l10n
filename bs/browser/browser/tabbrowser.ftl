@@ -181,8 +181,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ne prikazuj ponovo ovaj prozor.
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Upozorenje
-tabbrowser-confirm-close-duplicate-tabs-text = Ostavit ćemo otvoreni posljednji aktivni tab
 tabbrowser-confirm-close-all-duplicate-tabs-title = Zatvoriti duple tabove?
 tabbrowser-confirm-close-all-duplicate-tabs-text = Zatvorit ćemo duplicirane tabove u ovom prozoru. Posljednji aktivni tab će ostati otvoren.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Zatvori tabove

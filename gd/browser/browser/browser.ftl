@@ -354,7 +354,6 @@ quickactions-print2 = Clò-bhuail an duilleag
 quickactions-cmd-print = clò-bhuail
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sàbhail an duilleag mar PDF
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Fosgail uinneag phrìobhaideach
 quickactions-cmd-private = brabhsadh prìobhaideach

@@ -29,8 +29,5 @@ password-manager-update-password-button-deny =
     .accesskey = M
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Majun rub'i' winäq
-password-manager-toggle-password =
-    .label = Tik'ut ewan tzij
-    .accesskey = h
 password-manager-confirm-password-change = Tijikib'äx ri ruk'exik ewan tzij
 password-manager-select-username = Tacha' ri rutikirib'al moloj richin nik'ex:

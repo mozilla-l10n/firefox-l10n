@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous }에서 가
 mr1-onboarding-theme-header = 나만의 것으로 만드세요
 mr1-onboarding-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
 mr1-onboarding-theme-secondary-button-label = 나중에
-newtab-wallpaper-onboarding-title = 배경 화면 사용해보기
-newtab-wallpaper-onboarding-subtitle = 새 탭에 새로운 모습을 더할 배경 화면을 선택하세요.
-newtab-wallpaper-onboarding-primary-button-label = 배경 화면 설정
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = 시스템 테마
 mr1-onboarding-theme-label-light = 밝게

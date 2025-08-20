@@ -158,8 +158,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ne plus afficher ce dialogue à l’
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Attention
-tabbrowser-confirm-close-duplicate-tabs-text = Nous garderons le dernier onglet actif ouvert
 tabbrowser-confirm-close-all-duplicate-tabs-title = Fermer les onglets en double ?
 tabbrowser-confirm-close-all-duplicate-tabs-text = Nous allons fermer les onglets en double dans cette fenêtre. Le dernier onglet actif restera ouvert.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Fermer les onglets

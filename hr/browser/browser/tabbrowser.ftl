@@ -179,8 +179,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ne prikazuj više ovaj dijaloški ok
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Upozorenje!
-tabbrowser-confirm-close-duplicate-tabs-text = Zadnju aktivnu karticu zadržat ćemo otvorenom
 tabbrowser-confirm-close-all-duplicate-tabs-title = Zatvoriti duple kartice?
 tabbrowser-confirm-close-all-duplicate-tabs-text =
     Zatvorit ćemo duple kartice u ovom prozoru. Zadnja aktivna

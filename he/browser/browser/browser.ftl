@@ -401,7 +401,6 @@ quickactions-cmd-print = הדפסה, הדפס, להדפיס
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = שמירת הדף בתור PDF
 quickactions-cmd-savepdf2 = pdf, שמירת הדף, שמירת דף, שמירת העמוד, שמירת עמוד, שמור את הדף, לשמור את הדף, שמור את העמוד, לשמור את העמוד
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = פתיחת חלון פרטי
 quickactions-cmd-private = גלישה פרטית, גלישה אנונימית

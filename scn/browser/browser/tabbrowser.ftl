@@ -12,10 +12,6 @@ tabbrowser-menuitem-close =
 
 tabbrowser-confirm-close-tabs-button = Chiuji schedi
 
-## Confirmation dialog for closing all duplicate tabs
-
-tabbrowser-confirm-close-duplicate-tabs-title = Accura
-
 ## Ctrl-Tab dialog
 
 # Variables:

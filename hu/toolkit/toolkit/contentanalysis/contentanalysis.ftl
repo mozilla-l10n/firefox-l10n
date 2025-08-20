@@ -37,8 +37,6 @@ contentanalysis-operationtype-print = nyomtatás
 contentanalysis-upload-description = „{ $filename }” feltöltése
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = „{ $filename }” letöltése
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = „{ $filename }” feltöltése
 contentanalysis-warndialogtitle = Ez a tartalom lehet, hogy nem biztonságos
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

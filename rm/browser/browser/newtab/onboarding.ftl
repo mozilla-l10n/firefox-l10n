@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importar da { $previous
 mr1-onboarding-theme-header = L'adatta a tes basegns
 mr1-onboarding-theme-subtitle = Persunalisescha { -brand-short-name } cun in design.
 mr1-onboarding-theme-secondary-button-label = Betg ussa
-newtab-wallpaper-onboarding-title = Emprova cun in zic colur
-newtab-wallpaper-onboarding-subtitle = Tscherna in maletg dal fund davos per dar in nov look a la pagina da novs tabs.
-newtab-wallpaper-onboarding-primary-button-label = Definir in fund davos
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Design dal sistem
 mr1-onboarding-theme-label-light = Cler

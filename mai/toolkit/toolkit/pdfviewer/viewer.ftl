@@ -54,24 +54,12 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = दस्तावेज़ विशेषता...
 pdfjs-document-properties-file-name = फाइल नाम:
 pdfjs-document-properties-file-size = फ़ाइल आकार:
-# Variables:
-#   $size_kb (Number) - the PDF file size in kilobytes
-#   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } बाइट)
-# Variables:
-#   $size_mb (Number) - the PDF file size in megabytes
-#   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } बाइट)
 pdfjs-document-properties-title = शीर्षक:
 pdfjs-document-properties-author = लेखकः
 pdfjs-document-properties-subject = विषय
 pdfjs-document-properties-keywords = बीजशब्द
 pdfjs-document-properties-creation-date = निर्माण तिथि:
 pdfjs-document-properties-modification-date = संशोधन दिनांक:
-# Variables:
-#   $date (Date) - the creation/modification date of the PDF file
-#   $time (Time) - the creation/modification time of the PDF file
-pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = सृजक:
 pdfjs-document-properties-producer = PDF उत्पादक:
 pdfjs-document-properties-version = PDF संस्करण:

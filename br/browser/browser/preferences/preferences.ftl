@@ -1213,8 +1213,6 @@ addon-recommendations-link = Gouzout hiroc’h
 collection-health-report-disabled = Diweredekaet eo an danevelliñ roadennoù evit kefluniadur ar c'hempunadur-mañ
 collection-backlogged-crash-reports-with-link = Aotren { -brand-short-name } da gas danevelloù sac’hadennoù en ho plas. <a data-l10n-name="crash-reports-link">Gouzout hiroc’h</a>
     .accesskey = g
-collection-backlogged-crash-reports = Aotren { -brand-short-name } da gas danevelloù sac’hadennoù en ho plas.
-    .accesskey = g
 privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =

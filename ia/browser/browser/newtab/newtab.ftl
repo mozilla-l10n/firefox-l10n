@@ -319,9 +319,6 @@ newtab-custom-pocket-sponsored = Articulos sponsorisate
 newtab-custom-pocket-show-recent-saves = Monstrar salvamentos recente
 newtab-custom-recent-title = Activitate recente
 newtab-custom-recent-subtitle = Un selection de sitos e contento recente
-newtab-custom-recent-toggle =
-    .label = Activitate recente
-    .description = Un selection de sitos e contento recente
 newtab-custom-weather-toggle =
     .label = Meteo
     .description = Prevision hodierne a un colpo de oculos
@@ -458,7 +455,6 @@ newtab-weather-menu-change-location = Cambiar loco
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Cercar loco
     .aria-label = Cercar loco
-newtab-weather-change-location-search-input = Cercar loco
 newtab-weather-menu-weather-display = Visualisation meteo
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -637,7 +633,6 @@ newtab-widget-lists-menu-delete = Deler iste lista
 newtab-widget-lists-menu-copy = Copiar lista al area de transferentia
 newtab-widget-lists-menu-hide = Celar tote le listas
 newtab-widget-lists-menu-learn-more = Pro saper plus
-newtab-widget-lists-input-placeholder = Adder un elemento
 newtab-widget-lists-input-error = Include texto pro adder un elemento.
 newtab-widget-lists-input-menu-open-link = Aperir ligamine
 newtab-widget-lists-input-menu-move-up = Mover in alto
@@ -666,6 +661,7 @@ newtab-widget-timer-menu-notifications = Notificationes de extinction
 newtab-widget-timer-menu-notifications-on = Activar notificationes
 newtab-widget-timer-menu-hide = Celar temporisator
 newtab-widget-timer-menu-learn-more = Pro saper plus
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Rolar pro altero
 newtab-promo-card-title = Supporta { -brand-product-name }
 newtab-promo-card-body = Nostre patrocinatores supporta nostre mission pro construer un web melior

@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = ب
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = نام کاربری
-password-manager-toggle-password =
-    .label = نمایش گذرواژه
-    .accesskey = ن
 password-manager-confirm-password-change = تصدیق تغییر گذرواژه
 password-manager-select-username = انتخاب کنید کدام ورود به‌روزرسانی شود:

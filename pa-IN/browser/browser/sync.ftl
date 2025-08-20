@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = ਟੈਬ ਨੂੰ ਫ਼ੌਰਨ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ, ਜਿਸ ਵਿੱਚ ਤੁਸੀਂ ਸਾਇਨ ਇਨ ਹੋ।
 fxa-menu-sign-out =
     .label = …ਸਾਈਨ ਆਉਟ
-fxa-menu-sync-title = ਸਿੰਕ
 fxa-menu-sync-description = ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਕਿਤੇ ਵੀ ਵੇਖੋ
 fxa-avatar-sign-in = ਸਾਈਨ ਇਨ
 fxa-avatar-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ

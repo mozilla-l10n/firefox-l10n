@@ -316,9 +316,6 @@ newtab-custom-pocket-sponsored = Матеріали від спонсорів
 newtab-custom-pocket-show-recent-saves = Показати останні збереження
 newtab-custom-recent-title = Недавня активність
 newtab-custom-recent-subtitle = Добірка недавніх сайтів та вмісту
-newtab-custom-recent-toggle =
-    .label = Недавня активність
-    .description = Добірка недавніх сайтів та вмісту
 newtab-custom-weather-toggle =
     .label = Погода
     .description = Точний прогноз на сьогодні
@@ -442,7 +439,6 @@ newtab-weather-menu-change-location = Змінити розташування
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Пошук розташування
     .aria-label = Пошук розташування
-newtab-weather-change-location-search-input = Пошук розташування
 newtab-weather-menu-weather-display = Подання погоди
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

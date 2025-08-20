@@ -12,7 +12,5 @@ all-tabs-menu-hidden-tabs =
 all-tabs-menu-manage-user-context =
     .label = අඩංගු කළමනාකරණය
     .accesskey = o
-all-tabs-menu-close-duplicate-tabs =
-    .label = අනුපිටපත් පටිති වසන්න
 all-tabs-menu-close-all-duplicate-tabs =
     .label = සියලු අනුපිටපත් පටිති වසන්න

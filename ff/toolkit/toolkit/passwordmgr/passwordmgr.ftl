@@ -16,8 +16,5 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Alaa innde kuutoro
-password-manager-toggle-password =
-    .label = Hollu finnde
-    .accesskey = h
 password-manager-confirm-password-change = Teeŋtin Baylugol Finnde
 password-manager-select-username = Suɓo seŋorde fotnde heɗitineede:

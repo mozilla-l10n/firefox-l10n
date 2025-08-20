@@ -401,7 +401,6 @@ quickactions-cmd-print = presi
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Konservi paĝon kiel PDF
 quickactions-cmd-savepdf2 = pdf, konservi paĝon
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Malfermi privatan fenestron
 quickactions-cmd-private = privata retumo

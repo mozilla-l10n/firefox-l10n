@@ -177,8 +177,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Nu mai afișa această casetă de di
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Atenție!
-tabbrowser-confirm-close-duplicate-tabs-text = Vom păstra deschisă ultima filă activă
 tabbrowser-confirm-close-all-duplicate-tabs-title = Închizi filele duplicate?
 tabbrowser-confirm-close-all-duplicate-tabs-text = Vom închide filele duplicate din această fereastră. Ultima filă activă va rămâne deschisă.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Închide filele

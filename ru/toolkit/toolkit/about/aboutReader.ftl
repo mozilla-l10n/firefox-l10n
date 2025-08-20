@@ -75,16 +75,6 @@ about-reader-customtheme-tab = Настраиваемая
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Текст
-    .title = Изменить цвет
-about-reader-custom-colors-background = Фон
-    .title = Изменить цвет
-about-reader-custom-colors-unvisited-links = Непосещённые ссылки
-    .title = Изменить цвет
-about-reader-custom-colors-visited-links = Посещённые ссылки
-    .title = Изменить цвет
-about-reader-custom-colors-selection-highlight = Подсветка для чтения вслух
-    .title = Изменить цвет
 about-reader-reset-button = Восстановить по умолчанию
 about-reader-custom-colors-foreground2 =
     .label = Текст

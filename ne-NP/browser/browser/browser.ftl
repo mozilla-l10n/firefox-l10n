@@ -281,7 +281,6 @@ quickactions-print2 = पृष्ठ छाप्नुहोस्
 quickactions-cmd-print = छाप्नुहोस्
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = पृष्ठ PDF को रूपमा बचत गर्नुहोस्
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = निजी सञ्झ्याल खोल्नुहोस्
 quickactions-cmd-private = निजी ब्राउजिङ्ग

@@ -4,9 +4,6 @@
 
 do-not-track-description = საიტებისთვის „არ მითვალთვალო“ მოთხოვნის გაგზავნა
 do-not-track-removal = აღარაა მხარდაჭერილი მოთხოვნა „არ მითვალთვალო“
-do-not-track-description2 =
-    .label = გაეგზავნოს ვებსაიტებს მოთხოვნად „არ მითვალთვალო“
-    .accesskey = ზ
 do-not-track-learn-more = ვრცლად
 do-not-track-option-default-content-blocking-known =
     .label = მხოლოდ მაშინ, როცა { -brand-short-name } ზღუდავს ცნობილ მეთვალყურეებს
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = თქვენ მიერ შერჩეული ფერები ჩაანაცვლებს საიტის გაფორმებას. <a data-l10n-name="colors-link">ფერების მართვა</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = თქვენ მიერ შერჩეული ფერები ჩაანაცვლებს საიტის გაფორმებას.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = გააფორმეთ { -brand-short-name } <a data-l10n-name="themes-link">გაფართოებებისა და თემების</a> განყოფილებიდან
@@ -1434,8 +1427,6 @@ addon-recommendations-link = ვრცლად
 # or builds with no Telemetry support available.
 collection-health-report-disabled = მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის
 collection-backlogged-crash-reports-with-link = ნებართვა, რომ { -brand-short-name } თავადვე გაგზავნის უეცარი გათიშვების მოხსენებებს <a data-l10n-name="crash-reports-link">ვრცლად</a>
-    .accesskey = უ
-collection-backlogged-crash-reports = ნებართვა, რომ { -brand-short-name } თავადვე გაგზავნის უეცარი გათიშვების მოხსენებებს
     .accesskey = უ
 privacy-segmentation-section-header = ახალი შესაძლებლობები მოხერხებულად სარგებლობისთვის
 privacy-segmentation-section-description = როცა გთზავაზობთ შესაძლებლობებს თქვენი მონაცემების საფუძველზე მეტად მორგებული მომსახურებისთვის:

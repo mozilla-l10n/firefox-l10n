@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Egyéni
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Szöveg
-    .title = Szín szerkesztése
-about-reader-custom-colors-background = Háttér
-    .title = Szín szerkesztése
-about-reader-custom-colors-unvisited-links = Nem látogatott hivatkozások
-    .title = Szín szerkesztése
-about-reader-custom-colors-visited-links = Látogatott hivatkozások
-    .title = Szín szerkesztése
-about-reader-custom-colors-selection-highlight = Kiemelő a felolvasáshoz
-    .title = Szín szerkesztése
 about-reader-reset-button = Alapértelmezések visszaállítása
 about-reader-custom-colors-foreground2 =
     .label = Szöveg

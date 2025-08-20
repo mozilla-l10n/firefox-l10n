@@ -37,8 +37,6 @@ contentanalysis-operationtype-print = εκτύπωση
 contentanalysis-upload-description = μεταφόρτωση του «{ $filename }»
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = λήψη του «{ $filename }»
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = μεταφόρτωση του «{ $filename }»
 contentanalysis-warndialogtitle = Το περιεχόμενο ενδέχεται να μην είναι ασφαλές
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

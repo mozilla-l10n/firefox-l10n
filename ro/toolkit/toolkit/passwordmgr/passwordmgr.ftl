@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Niciun nume de utilizator
-password-manager-toggle-password =
-    .label = Afișează parola
-    .accesskey = h
 password-manager-confirm-password-change = Confirmă schimbarea parolei
 password-manager-select-username = Selectează care autentificare să o actualizezi:

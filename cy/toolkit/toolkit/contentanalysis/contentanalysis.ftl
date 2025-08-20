@@ -41,8 +41,6 @@ contentanalysis-operationtype-print = argraffu
 contentanalysis-upload-description = llwythiad “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = Llwythiad { $filename } i lawr
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = llwytho “{ $filename }” i fyny
 contentanalysis-warndialogtitle = Gall y cynnwys hwn fod yn anniogel
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

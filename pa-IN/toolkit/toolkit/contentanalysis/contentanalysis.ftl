@@ -37,8 +37,6 @@ contentanalysis-operationtype-print = ਪਰਿੰਟ ਕਰੋ
 contentanalysis-upload-description = “{ $filename }” ਦਾ ਅੱਪਲੋਡ
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = “{ $filename }” ਦਾ ਡਾਊਨਲੋਡ
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = “{ $filename }” ਦਾ ਅੱਪਲੋਡ
 contentanalysis-warndialogtitle = ਇਹ ਸਮੱਗਰੀ ਅਸੁਰੱਖਿਅਤ ਹੋ ਸਕਦੀ ਹੈ
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

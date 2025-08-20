@@ -87,8 +87,6 @@ client-auth-cert-remember-always =
     .label = לצמיתות
 client-auth-cert-remember-temporarily =
     .label = להפעלה זו בלבד
-client-auth-cert-remember-box =
-    .label = שמירת הבחירה הזו
 
 ## Set password (p12) dialog
 

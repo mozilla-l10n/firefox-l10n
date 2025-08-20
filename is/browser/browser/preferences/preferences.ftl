@@ -4,9 +4,6 @@
 
 do-not-track-description = Senda vefsvæðum “Do Not Track” merki um að þú viljir ekki láta fylgjast með þér
 do-not-track-removal = Við styðjum ekki lengur „Ekki rekja“ merkinguna
-do-not-track-description2 =
-    .label = Senda vefsvæðum „Ekki rekja“ beiðni
-    .accesskey = d
 do-not-track-learn-more = Kanna nánar
 do-not-track-option-default-content-blocking-known =
     .label = Aðeins þegar { -brand-short-name } er stillt til að loka fyrir þekkta rekjara
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Litaval þitt yfirtekur útlit vefsvæðisins. <a data-l10n-name="colors-link">Sýsla með liti</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Litaval þitt yfirtekur útlit vefsvæðisins.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Sýslaðu með { -brand-short-name } þemu í <a data-l10n-name="themes-link">Forritsaukar og þemu</a>
@@ -1411,8 +1404,6 @@ addon-recommendations-link = Kanna nánar
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Gagnaskýrslur eru óvirkar í þessari útgáfu
 collection-backlogged-crash-reports-with-link = Leyfa { -brand-short-name } að senda bakraktar hrunskýrslur fyrir þína hönd <a data-l10n-name="crash-reports-link">Frekari upplýsingar</a>
-    .accesskey = y
-collection-backlogged-crash-reports = Leyfa { -brand-short-name } að senda bakraktar hrunskýrslur fyrir þína hönd
     .accesskey = y
 privacy-segmentation-section-header = Nýir eiginleikar sem bæta vafrið þitt
 privacy-segmentation-section-description = Þegar við bjóðum upp á eiginleika sem nota gögnin þín til að veita þér persónulegri upplifun:

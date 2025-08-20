@@ -149,8 +149,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = No mostrar esta ventana de diálogo 
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Atención
-tabbrowser-confirm-close-duplicate-tabs-text = Mantendremos abierta la última pestaña activa.
 tabbrowser-confirm-close-all-duplicate-tabs-title = ¿Cerrar las pestañas duplicadas?
 tabbrowser-confirm-close-all-duplicate-tabs-text = Cerraremos las pestañas duplicadas en esta ventana. La última pestaña activa permanecerá abierta.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Cerrar pestañas

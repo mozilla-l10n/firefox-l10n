@@ -77,8 +77,6 @@ client-auth-cert-details-issued-by = Emès per: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Emmagatzemat a: { $storedOn }
-client-auth-cert-remember-box =
-    .label = Recorda aquesta decisió
 
 ## Set password (p12) dialog
 

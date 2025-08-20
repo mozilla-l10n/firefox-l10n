@@ -218,10 +218,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = ᱟᱢᱟᱜ ᱨᱚᱝ ᱵᱟᱪᱷᱟᱣ ᱠᱚ ᱫᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱧᱮᱞ ᱨᱮ ᱢᱮᱥᱟᱜ ᱠᱟᱱᱟ ᱾ <a data-l10n-name="colors-link">ᱨᱚᱝ ᱢᱮᱱᱮᱡᱽ ᱢᱮ</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = ᱟᱢᱟᱜ ᱨᱚᱝ ᱵᱟᱪᱷᱟᱣ ᱠᱚ ᱫᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱧᱮᱞ ᱨᱮ ᱢᱮᱥᱟᱜ ᱠᱟᱱᱟ ᱾
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = { -brand-short-name } ᱛᱷᱤᱢ ᱫᱚ <a data-l10n-name="themes-link"> ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ</a> ᱨᱮ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
@@ -1176,8 +1172,6 @@ addon-recommendations-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ᱱᱚᱶᱟ ᱵᱮᱱᱟᱣ ᱥᱟᱯᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱰᱟᱴᱟ ᱠᱷᱚᱵᱚᱨ ᱫᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
 collection-backlogged-crash-reports-with-link = { -brand-short-name } ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱛᱮ ᱵᱮᱠᱞᱚᱜᱽ ᱟᱠᱟᱱ ᱠᱨᱟᱥ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱚᱰᱚᱠ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱠ ᱮᱢᱟᱭ ᱢᱮ <a data-l10n-name="crash-reports-link">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
-    .accesskey = c
-collection-backlogged-crash-reports = { -brand-short-name } ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱛᱮ ᱵᱮᱠᱞᱚᱜᱽ ᱟᱠᱟᱱ ᱠᱨᱟᱥ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱚᱰᱚᱠ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱠ ᱮᱢᱟᱭ ᱢᱮ
     .accesskey = c
 privacy-segmentation-section-header = ᱱᱟᱣᱟ ᱯᱷᱤᱪᱚᱨ ᱡᱟᱦᱟᱸᱭ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱥᱩᱫᱽᱨᱟᱹᱣ ᱪᱷᱚᱭ ᱟ
 privacy-segmentation-section-description = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱵᱮᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱦᱩᱦᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱯᱷᱤᱪᱚᱨ ᱞᱮ ᱮᱢᱚᱜᱼᱟ :

@@ -9,8 +9,6 @@ crashreporter-plea = כדי לעזור לנו לאבחן ולתקן את הבע�
 crashreporter-information = יישום זה מופעל לאחר קריסה כדי לדווח על הבעיה ל־{ -vendor-short-name }.  אין להריץ אותו ישירות.
 crashreporter-error = ‏{ -brand-short-name } נתקל בבעיה וקרס. לרוע המזל, מדווח הקריסות לא יכול לשלוח את הדיווח עבור קריסה זו.
 crashreporter-error-details-header = פרטים:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = פרטים: { $details }
 crashreporter-no-run-message = יישום זה מופעל לאחר קריסה כדי לדווח על הבעיה ליצרן היישום.  אין צורך להריץ אותו ישירות.
 crashreporter-button-details = פרטים…
 crashreporter-loading-details = בטעינה…
@@ -20,8 +18,6 @@ crashreporter-report-info = דיווח זה כולל גם מידע טכני על
 crashreporter-checkbox-test-hardware = בדיקה אחר בעיות חומרה ותצורה במכשיר שלי.
 crashreporter-checkbox-send-report = שליחת דיווח ל־{ -vendor-short-name } על קריסה זו כדי שיוכלו לתקן אותה.
 crashreporter-checkbox-include-url = לכלול את כתובת הדף בו הייתי.
-crashreporter-send-report = שליחת דיווח ל־{ -vendor-short-name } על קריסה זו כדי שיוכלו לתקן אותה.
-crashreporter-include-url = לכלול את כתובת הדף בו הייתי.
 crashreporter-submit-status = דיווח הקריסה שלך יישלח לפני יציאה או הפעלה מחדש.
 crashreporter-submit-waiting-hardware-tests = בודק אחר בעיות חומרה ותצורה…
 crashreporter-submit-in-progress = הדיווח שלך נשלח…
@@ -39,7 +35,6 @@ crashreporter-crash-details = באפשרותך לראות את פרטי קריס
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = הפעלת minidump-analyzer נכשלה
 # $path (String) - the file path
 crashreporter-error-opening-file = פתיחת הקובץ נכשלה ({ $path })
 # $path (String) - the file path

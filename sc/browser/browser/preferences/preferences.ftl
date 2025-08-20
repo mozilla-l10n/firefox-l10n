@@ -4,9 +4,6 @@
 
 do-not-track-description = Imbia a is sitos web su sinnale "Non mi sigas" pro ddi nàrrere chi non boles a ti sighire
 do-not-track-removal = Non suportamus prus su sinnale "non mi sigas"
-do-not-track-description2 =
-    .label = Imbia a is sitos web rechestas de “non sighidura”
-    .accesskey = I
 do-not-track-learn-more = Àteras informatziones
 do-not-track-option-default-content-blocking-known =
     .label = Isceti cando { -brand-short-name } est cunfiguradu pro blocare is sighidores connotos
@@ -264,10 +261,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Is seletziones de colore tuas sunt sostituende s'aspetu de su situ web. <a data-l10n-name="colors-link">Gesti is colores</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Is seletziones de colore tuas sunt sostituende s'aspetu de su situ web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gesti is temas de { -brand-short-name } in <a data-l10n-name="themes-link">Estensiones e temas</a>
@@ -1415,8 +1408,6 @@ addon-recommendations-link = Àteras informatziones
 # or builds with no Telemetry support available.
 collection-health-report-disabled = S'informe de datos est disativadu in sa cunfiguratzione de custa versione
 collection-backlogged-crash-reports-with-link = Permite a { -brand-short-name } de t'imbiare informes de faddina in suspesu <a data-l10n-name="crash-reports-link">Àteras informatziones</a>
-    .accesskey = i
-collection-backlogged-crash-reports = Permite a { -brand-short-name } de t'imbiare informes de faddina in suspesu
     .accesskey = i
 privacy-segmentation-section-header = Caraterìsticas noas pro megiorare sa navigatzione
 privacy-segmentation-section-description = Cando oferimus caraterìsticas chi impreant is datos tuos pro ti donare un'esperièntzia prus personale:

@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = 영구히
 client-auth-cert-remember-temporarily =
     .label = 이 세션만
-client-auth-cert-remember-box =
-    .label = 이 선택 기억하기
 
 ## Set password (p12) dialog
 

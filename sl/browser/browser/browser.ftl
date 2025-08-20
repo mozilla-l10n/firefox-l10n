@@ -393,7 +393,6 @@ quickactions-cmd-print = natisni, tiskanje, print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Shrani stran kot PDF
 quickactions-cmd-savepdf2 = pdf, shrani stran
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Odpri zasebno okno
 quickactions-cmd-private = zasebno brskanje

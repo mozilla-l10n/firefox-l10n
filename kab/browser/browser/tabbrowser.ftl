@@ -162,7 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ur iy-id-skan ara akka d asawen tana
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Ḥader
 tabbrowser-confirm-close-all-duplicate-tabs-title = Mdel accaren i d-yettεawden?
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Mdel accaren
 

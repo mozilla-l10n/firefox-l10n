@@ -62,8 +62,6 @@ client-auth-cert-details-issued-by = Eisithe ag: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Stóráilte ar: { $storedOn }
-client-auth-cert-remember-box =
-    .label = Meabhraigh an cinneadh seo
 
 ## Set password (p12) dialog
 

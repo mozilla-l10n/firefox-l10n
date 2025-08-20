@@ -4,8 +4,6 @@
 
 crashreporter-apology = Digarezit ac’hanomp
 crashreporter-plea = Evit sikour ac'hanomp da reizhañ ar gudenn, gallout a rit kas deomp un danevell sac'hadenn.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Munudoù: { $details }
 crashreporter-no-run-message = An arload-mañ zo loc'het goude ur sac'hadenn evit danevellañ ar gudenn d'an embanner. Ne rankfe bezañ loc'het war-eeun.
 crashreporter-button-details = Munudoù…
 crashreporter-loading-details = O kargañ…

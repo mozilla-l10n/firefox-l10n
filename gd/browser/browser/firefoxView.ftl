@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Dùin
     .aria-label = Dùin
-firefoxview-empty-state-icon =
-    .alt = An aire:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = An-dràsta fhèin
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -32,15 +30,10 @@ firefoxview-tabpickup-progress-label = { $percentValue }% deiseil
 firefoxview-tabpickup-step-signin-header = Gluais eadar uidheaman gun chnap-starra
 firefoxview-tabpickup-step-signin-description = Airson greim fhaighinn air tabaichean an fhòn agad, clàraich a-steach no cruthaich cunntas an toiseach.
 firefoxview-tabpickup-step-signin-primarybutton = Air adhart
-firefoxview-syncedtabs-signin-header = Faigh greim air tabaichean o àite sam bith
-firefoxview-syncedtabs-signin-description = Airson na tabaichean agad fhaicinn àite sam bith a chleachdas tu { -brand-product-name }, clàraich a-steach gun chunntas agad. Mur eil cunntas agad, innsidh sinn dhut mar a gheibh thu fear.
-firefoxview-syncedtabs-signin-primarybutton = Clàraich a-steach no clàraich leinn
 firefoxview-tabpickup-adddevice-header = Sioncronaich { -brand-product-name } air an fhòn no tablaid agad
 firefoxview-tabpickup-adddevice-description = Luchdaich a-nuas { -brand-product-name } mobile is clàraich a-steach an-sin.
 firefoxview-tabpickup-adddevice-learn-how = Barrachd fiosrachaidh
 firefoxview-tabpickup-adddevice-primarybutton = Faigh { -brand-product-name } mobile
-firefoxview-syncedtabs-adddevice-header = Clàraich a-steach gu { -brand-product-name } air a’ chòrr dhe na h-uidheaman agad
-firefoxview-syncedtabs-adddevice-description = Airson na tabaichean agad fhaicinn ge be càit an cleachd thu { -brand-product-name }, clàraich a-steach air a’ chòrr dhe na h-uidheaman agad. Fiosraich mar a <a data-l10n-name="url">cheanglas tu uidheaman eile ris</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Feuch { -brand-product-name } mobile
 firefoxview-tabpickup-synctabs-header = Cuir sioncronachadh nan tabaichean air
 firefoxview-tabpickup-synctabs-description = Leig le { -brand-short-name } na tabaichean a nochdadh air diofar uidheaman.
@@ -48,7 +41,6 @@ firefoxview-tabpickup-synctabs-learn-how = Barrachd fiosrachaidh
 firefoxview-tabpickup-synctabs-primarybutton = Sioncronaich na tabaichean fosgailte
 firefoxview-syncedtabs-synctabs-header = Ùraich na roghainnean sioncronachaidh agad
 firefoxview-syncedtabs-synctabs-description = Feumaidh tu na tabaichean fosgailte agad a shioncronachadh mus fhaic thu tabaichean o uidheaman eile.
-firefoxview-syncedtabs-synctabs-checkbox = Thoir cead do thabaichean sioncronachadh a dhèanamh
 firefoxview-syncedtabs-loading-header = Ri sioncronachadh
 firefoxview-syncedtabs-loading-description = Nuair a bhios e deiseil, chì thu tabaichean eile a tha fosgailte agad air uidheaman eile. Na bi fada gun tilleadh.
 firefoxview-tabpickup-fxa-admin-disabled-header = Chuir am buidheann agad an sioncronachadh à comas
@@ -82,7 +74,6 @@ firefoxview-closed-tabs-title = Air an dùnadh o chionn goirid
 firefoxview-closed-tabs-description2 = Ath-fhosgail duilleagan a dhùin thu san uinneag seo.
 firefoxview-closed-tabs-placeholder-header = Chan eil taba sam bith ann a dhùin thu o chionn goirid
 firefoxview-closed-tabs-placeholder-body = Ma dhùineas tu taba san uinneag seo, gheibh thu greim air uaithe seo.
-firefoxview-closed-tabs-placeholder-body2 = Ma dhùineas tu taba, gheibh thu greim air uaithe seo.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =

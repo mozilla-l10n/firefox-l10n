@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Copiază linkul curat
     .accesskey = n
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Copiază fără urmărirea site-ului
-    .accesskey = n
 text-action-paste =
     .label = Lipește
     .accesskey = P

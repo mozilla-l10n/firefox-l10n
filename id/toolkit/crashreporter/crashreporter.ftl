@@ -9,8 +9,6 @@ crashreporter-plea = Untuk membantu kami mendiagnosa dan memperbaiki masalah ini
 crashreporter-information = Aplikasi ini akan berjalan setelah terjadi kerusakan untuk dikirimkan ke { -vendor-short-name }. Aplikasi ini tidak bisa berjalan langsung.
 crashreporter-error = { -brand-short-name } mengalami masalah dan mati tanpa sengaja (crash). Akan tetapi pelapor kerusakan gagal mengirimkan laporan tentang kerusakan ini.
 crashreporter-error-details-header = Rincian:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detail: { $details }
 crashreporter-no-run-message = Aplikasi ini akan berjalan setelah terjadi kerusakan untuk dikirimkan ke vendor aplikasi. Aplikasi ini tidak bisa berjalan langsung.
 crashreporter-button-details = Detail…
 crashreporter-loading-details = Memuat…
@@ -20,8 +18,6 @@ crashreporter-report-info = Laporan ini juga mengandung informasi teknis tentang
 crashreporter-checkbox-test-hardware = Periksa masalah perangkat keras dan konfigurasi pada perangkat saya.
 crashreporter-checkbox-send-report = Laporkan kepada { -vendor-short-name } tentang kerusakan ini supaya dapat diperbaiki
 crashreporter-checkbox-include-url = Sertakan alamat laman web yang terakhir dibuka
-crashreporter-send-report = Laporkan kepada { -vendor-short-name } tentang kerusakan ini supaya dapat diperbaiki
-crashreporter-include-url = Sertakan alamat laman web yang terakhir dibuka
 crashreporter-submit-status = Laporan kerusakan Anda akan dikirim sebelum Anda keluar atau memulai ulang.
 crashreporter-submit-waiting-hardware-tests = Memeriksa masalah perangkat keras dan konfigurasi…
 crashreporter-submit-in-progress = Mengirim laporan Anda…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Anda dapat membaca detail kerusakan ini di { $url 
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Gagal menjalankan minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Gagal membuka berkas ({ $path })
 # $path (String) - the file path

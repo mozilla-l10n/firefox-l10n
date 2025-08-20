@@ -54,9 +54,6 @@ mr1-onboarding-import-primary-button-label-attribution = استورِد من { $
 mr1-onboarding-theme-header = طوّعه كما ترغب
 mr1-onboarding-theme-subtitle = خصّص { -brand-short-name } باستعمال سمة.
 mr1-onboarding-theme-secondary-button-label = ليس الآن
-newtab-wallpaper-onboarding-title = جرب دفقة من الألوان
-newtab-wallpaper-onboarding-subtitle = اختر خلفية الشاشة لإضفاء مظهر مُنعش على لسان جديد.
-newtab-wallpaper-onboarding-primary-button-label = عيّن خلفية
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = سمة النظام
 mr1-onboarding-theme-label-light = فاتحة

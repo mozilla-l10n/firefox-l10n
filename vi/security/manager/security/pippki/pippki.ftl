@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Vĩnh viễn
 client-auth-cert-remember-temporarily =
     .label = Cho phiên này
-client-auth-cert-remember-box =
-    .label = Ghi nhớ quyết định này
 
 ## Set password (p12) dialog
 

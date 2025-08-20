@@ -53,9 +53,6 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } ᱠᱷᱚ
 mr1-onboarding-theme-header = ᱟᱢᱟᱜ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
 mr1-onboarding-theme-subtitle = ᱢᱤᱫᱴᱟᱝ ᱛᱷᱤᱢ ᱥᱟᱞᱟᱜ ᱛᱮ { -brand-short-name } ᱥᱟᱡᱟᱣ ᱢᱮ ᱾
 mr1-onboarding-theme-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
-newtab-wallpaper-onboarding-title = ᱨᱚᱝ ᱨᱮᱭᱟᱜ ᱟᱨᱮᱡ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
-newtab-wallpaper-onboarding-subtitle = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱢᱤᱫ ᱛᱟᱜᱽᱲᱟ ᱧᱮᱞ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱣᱟᱞᱯᱮᱯᱟᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
-newtab-wallpaper-onboarding-primary-button-label = ᱣᱟᱞᱯᱮᱯᱟᱨ ᱥᱮᱴ ᱢᱮ
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ᱥᱭᱥᱴᱟᱹᱢ ᱛᱷᱮᱢ
 mr1-onboarding-theme-label-light = ᱢᱟᱨᱥᱟᱞ

@@ -29,7 +29,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = ส่งแท็บทันทีไปยังอุปกรณ์ใด ๆ ที่คุณลงชื่อเข้าใช้
 fxa-menu-sign-out =
     .label = ลงชื่อออก…
-fxa-menu-sync-title = Sync
 fxa-menu-sync-description = เข้าถึงเว็บของคุณได้ทุกที่
 fxa-avatar-sign-in = ลงชื่อเข้า
 fxa-avatar-sign-up = ลงทะเบียน

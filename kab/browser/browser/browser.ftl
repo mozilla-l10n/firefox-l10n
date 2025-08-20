@@ -390,7 +390,6 @@ quickactions-cmd-print = siggez
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sekles asebter s PDF
 quickactions-cmd-savepdf2 = pdf, asebter n usekles
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Ldi asfaylu uslig
 quickactions-cmd-private = tunigin tusligt

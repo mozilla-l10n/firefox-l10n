@@ -200,7 +200,6 @@ quickactions-cmd-downloads = डाउनल'डफोर
 quickactions-logins2 = पासवर्डफोरखौ सोमलाय
 quickactions-cmd-logins = लगिनफोर, पासवर्डफोर
 quickactions-cmd-print = साफाय
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = प्राइभेट उइन्ड'खौ खेव
 quickactions-cmd-private = निजि ब्राउजिं

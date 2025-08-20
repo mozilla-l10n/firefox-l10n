@@ -62,8 +62,6 @@ client-auth-cert-details-issued-by = ထုတ်ပေးထားသူ- { $is
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = သိမ်းထားသောနေရာ- { $storedOn }
-client-auth-cert-remember-box =
-    .label = ယခု ဆုံးဖြတ်ချက်အား မှတ်ထားပါ
 
 ## Set password (p12) dialog
 

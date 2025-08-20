@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Salin Tautan Bersih
     .accesskey = B
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Salin Tautan Tanpa Pelacakan Situs
-    .accesskey = s
 
 ## Media (video/audio) controls
 ##

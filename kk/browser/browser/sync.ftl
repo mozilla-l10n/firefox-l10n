@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Бетті сіз кірген кез келген құрылғыға лезде жіберіңіз.
 fxa-menu-sign-out =
     .label = Шығу…
-fxa-menu-sync-title = Синхрондау
 fxa-menu-sync-description = Интернетке кез келген жерден қол жеткізіңіз
 fxa-avatar-sign-in = Кіру
 fxa-avatar-sign-up = Тіркелгіні жасау

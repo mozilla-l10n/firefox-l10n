@@ -112,14 +112,6 @@ pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) }
 #   $mb (Number) - the PDF file size in megabytes
 #   $b (Number) - the PDF file size in bytes
 pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } MB ({ $b } bajtov)
-# Variables:
-#   $size_kb (Number) - the PDF file size in kilobytes
-#   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bajtov)
-# Variables:
-#   $size_mb (Number) - the PDF file size in megabytes
-#   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bajtov)
 pdfjs-document-properties-title = Ime:
 pdfjs-document-properties-author = Avtor:
 pdfjs-document-properties-subject = Tema:
@@ -129,10 +121,6 @@ pdfjs-document-properties-modification-date = Datum spremembe:
 # Variables:
 #   $dateObj (Date) - the creation/modification date and time of the PDF file
 pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
-# Variables:
-#   $date (Date) - the creation/modification date of the PDF file
-#   $time (Time) - the creation/modification time of the PDF file
-pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = Ustvaril:
 pdfjs-document-properties-producer = Izdelovalec PDF:
 pdfjs-document-properties-version = Različica PDF:
@@ -279,10 +267,6 @@ pdfjs-rendering-error = Med pripravljanjem strani je prišlo do napake!
 
 ## Annotations
 
-# Variables:
-#   $date (Date) - the modification date of the annotation
-#   $time (Time) - the modification time of the annotation
-pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -390,20 +374,12 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Urejevalnik besedila
     .default-content = Začnite tipkati …
-pdfjs-free-text =
-    .aria-label = Urejevalnik besedila
-pdfjs-free-text-default-content = Začnite tipkati …
-pdfjs-ink =
-    .aria-label = Urejevalnik risanja
-pdfjs-ink-canvas =
-    .aria-label = Uporabnikova slika
 
 ## Alt-text dialog
 
 pdfjs-editor-alt-text-button-label = Nadomestno besedilo
 pdfjs-editor-alt-text-edit-button =
     .aria-label = Uredi nadomestno besedilo
-pdfjs-editor-alt-text-edit-button-label = Uredi nadomestno besedilo
 pdfjs-editor-alt-text-dialog-label = Izberite možnost
 pdfjs-editor-alt-text-dialog-description = Nadomestno besedilo se prikaže tistim, ki ne vidijo slike, ali če se ta ne naloži.
 pdfjs-editor-alt-text-add-description-label = Dodaj opis
@@ -423,14 +399,6 @@ pdfjs-editor-alt-text-button =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
-pdfjs-editor-resizer-label-top-left = Zgornji levi kot – spremeni velikost
-pdfjs-editor-resizer-label-top-middle = Zgoraj na sredini – spremeni velikost
-pdfjs-editor-resizer-label-top-right = Zgornji desni kot – spremeni velikost
-pdfjs-editor-resizer-label-middle-right = Desno na sredini – spremeni velikost
-pdfjs-editor-resizer-label-bottom-right = Spodnji desni kot – spremeni velikost
-pdfjs-editor-resizer-label-bottom-middle = Spodaj na sredini – spremeni velikost
-pdfjs-editor-resizer-label-bottom-left = Spodnji levi kot – spremeni velikost
-pdfjs-editor-resizer-label-middle-left = Levo na sredini – spremeni velikost
 pdfjs-editor-resizer-top-left =
     .aria-label = Zgornji levi kot – spremeni velikost
 pdfjs-editor-resizer-top-middle =

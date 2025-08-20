@@ -16,8 +16,5 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = प्रयोगकर्ता नाम छैन
-password-manager-toggle-password =
-    .label = गोप्यशब्द देखाउनुहोस्
-    .accesskey = h
 password-manager-confirm-password-change = गोप्यशब्द परिवर्तन यकिन गर्नुहोस्
 password-manager-select-username = कुन लगइन अद्यावधिक गर्ने हो चयन गर्नुहोस्:

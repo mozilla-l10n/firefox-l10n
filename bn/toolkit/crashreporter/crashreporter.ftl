@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = সমস্যাটি নির্ণয় এবং ঠিক করার কাজে সাহায্য করতে চাইলে, আপনি আমাদেরকে একটি ক্র্যাশ প্রতিবেদন পাঠাতে পারেন।
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = বিস্তারিত: { $details }
 crashreporter-no-run-message = এই অ্যাপ্লিকেশনের সাহায্যে, কোনো ক্র্যাশের পর ভেন্ডরের কাছে সমস্যা সম্পর্কিত প্রতিবেদন পাঠানো হয়।  এটি সরাসরি চালানো উচিত নয়।
 crashreporter-button-details = বিস্তারিত…
 crashreporter-view-report-title = প্রতিবেদনের কন্টেন্ট

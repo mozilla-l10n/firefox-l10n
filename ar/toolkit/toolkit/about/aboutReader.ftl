@@ -78,16 +78,6 @@ about-reader-customtheme-tab = مخصّص
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = نص
-    .title = حرّر اللون
-about-reader-custom-colors-background = الخلفية
-    .title = حرّر اللون
-about-reader-custom-colors-unvisited-links = الروابط غير المزارة
-    .title = حرّر اللون
-about-reader-custom-colors-visited-links = الروابط المزارة
-    .title = حرّر اللون
-about-reader-custom-colors-selection-highlight = مبرز للقراءة بصوت عالٍ
-    .title = حرّر اللون
 about-reader-reset-button = صفّر الإعداد المبدئي
 about-reader-custom-colors-foreground2 =
     .label = نص

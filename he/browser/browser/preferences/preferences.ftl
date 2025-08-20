@@ -4,9 +4,6 @@
 
 do-not-track-description = שליחת חיווי ”נא לא לעקוב” לאתרים שאין ברצונך שיעקבו אחריך
 do-not-track-removal = איננו תומכים עוד בחיווי ”נא לא לעקוב”
-do-not-track-description2 =
-    .label = שליחת בקשה של ״נא לא לעקוב״ לאתרים
-    .accesskey = נ
 do-not-track-learn-more = מידע נוסף
 do-not-track-option-default-content-blocking-known =
     .label = רק כאשר { -brand-short-name } מוגדר לחסום רכיבי מעקב מוכרים
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = בחירות הצבעים שלך דורסות את מראה האתר. <a data-l10n-name="colors-link">ניהול צבעים</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = בחירות הצבעים שלך דורסות את מראה האתר.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = ניהול ערכות נושא של { -brand-short-name } ב<a data-l10n-name="themes-link">הרחבות וערכות נושא</a>
@@ -1432,8 +1425,6 @@ addon-recommendations-link = מידע נוסף
 # or builds with no Telemetry support available.
 collection-health-report-disabled = דיווח נתונים מנוטרל עבור תצורת בנייה זו
 collection-backlogged-crash-reports-with-link = לאפשר ל־{ -brand-short-name } לשלוח דיווחי קריסה שנצטברו בשמך <a data-l10n-name="crash-reports-link">מידע נוסף</a>
-    .accesskey = ק
-collection-backlogged-crash-reports = לאפשר ל־{ -brand-short-name } לשלוח דיווחי קריסה שנצטברו בשמך
     .accesskey = ק
 privacy-segmentation-section-header = תכונות חדשות שמשפרות את הגלישה שלך
 privacy-segmentation-section-description = כשאנחנו מציעים תכונות המשתמשות בנתונים שלך כדי להעניק לך חוויה אישית יותר:

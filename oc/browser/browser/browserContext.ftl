@@ -166,11 +166,6 @@ main-context-menu-copy-link-simple =
 main-context-menu-copy-clean-link =
     .label = Copiar lo ligam netejat
     .accesskey = o
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Copiar lo ligam sens traçador
-    .accesskey = o
 
 ## Media (video/audio) controls
 ##

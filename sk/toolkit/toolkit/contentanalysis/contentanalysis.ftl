@@ -39,8 +39,6 @@ contentanalysis-operationtype-print = tlač
 contentanalysis-upload-description = odovzdanie súboru “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = stiahnutie súboru “{ $filename }”
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = odovzdanie súboru “{ $filename }”
 contentanalysis-warndialogtitle = Tento obsah môže byť nebezpečný
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

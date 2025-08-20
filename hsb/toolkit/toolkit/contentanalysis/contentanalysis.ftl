@@ -39,8 +39,6 @@ contentanalysis-operationtype-print = ćišćeć
 contentanalysis-upload-description = nahraće “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = sćehnjenje “{ $filename }”
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = Nahraće “{ $filename }”
 contentanalysis-warndialogtitle = Tutón wobsah je snano njewěsty
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

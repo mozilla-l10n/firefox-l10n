@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = з
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Няма потребителско име
-password-manager-toggle-password =
-    .label = Показване на паролата
-    .accesskey = р
 password-manager-confirm-password-change = Потвърждение на смяна на парола
 password-manager-select-username = Изберете коя регистрация да бъде обновена:

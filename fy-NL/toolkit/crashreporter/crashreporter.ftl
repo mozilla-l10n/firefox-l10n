@@ -9,8 +9,6 @@ crashreporter-plea = Om ús te helpen mei in diagnose en in oplossing foar it pr
 crashreporter-information = De crashreporter wurdt starten nei in ûngelok om it probleem te rapportearjen oan { -vendor-short-name }. It moat net daliks starten wurde.
 crashreporter-error = { -brand-short-name } hie in probleem en is fêstrûn. Spitigernôch kin de ûngelokrapportearder gjin rapport foar dit ûngelok ferstjoere.
 crashreporter-error-details-header = Details:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Details: { $details }
 crashreporter-no-run-message = Dizze applikaasje wurdt starten nei in ûngelok om it probleem te rapportearjen oan de applikaasjemakker. It moat net daliks starten wurde.
 crashreporter-button-details = Details…
 crashreporter-loading-details = Lade…
@@ -20,8 +18,6 @@ crashreporter-report-info = Dit rapport hat ek technyske ynformaasje oer de stea
 crashreporter-checkbox-test-hardware = Kontrolearje op hardware- en konfiguraasjeproblemen op myn apparaat.
 crashreporter-checkbox-send-report = { -vendor-short-name } fan dit ûngelok op de hichte stelle, sadat se dit ferhelpe kinne
 crashreporter-checkbox-include-url = It adres fan de besochte side byfoegje.
-crashreporter-send-report = { -vendor-short-name } fan dit ûngelok op de hichte stelle, sadat se dit ferhelpe kinne
-crashreporter-include-url = It adres fan de besochte side byfoegje.
 crashreporter-submit-status = Jo ûngelokrapport sil ferstjoerd wurde foardat jo ôfslute of opnij starte.
 crashreporter-submit-waiting-hardware-tests = Kontrolearje op hardware- en konfiguraasjeproblemen…
 crashreporter-submit-in-progress = Ferstjoert jo rapport…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Jo kinne de details fan dit ûngelok sjen op { $ur
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Utfieren fan minidump-analyzer mislearre
 # $path (String) - the file path
 crashreporter-error-opening-file = Kin bestân ({ $path }) net iepenje
 # $path (String) - the file path

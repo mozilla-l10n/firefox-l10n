@@ -389,7 +389,6 @@ quickactions-cmd-print = stampar
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Memorisar la pagina sco PDF
 quickactions-cmd-savepdf2 = pdf, memorisar la pagina
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Avrir ina fanestra en il modus privat
 quickactions-cmd-private = modus privat

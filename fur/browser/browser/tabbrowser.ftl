@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = No sta mostrâmi plui chest dialic
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Atenzion
-tabbrowser-confirm-close-duplicate-tabs-text = O tignarìn vierte la ultime schede ative
 tabbrowser-confirm-close-all-duplicate-tabs-title = Sierâ lis schedis doplis?
 tabbrowser-confirm-close-all-duplicate-tabs-text = O sierarìn lis schedis doplis in chest barcon. E restarà vierte la ultime schede ative.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Siere schedis

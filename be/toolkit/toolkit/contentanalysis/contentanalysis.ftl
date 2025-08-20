@@ -38,8 +38,6 @@ contentanalysis-operationtype-print = друк
 contentanalysis-upload-description = зацягванне “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = сцягванне “{ $filename }”
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = зацягванне “{ $filename }”
 contentanalysis-warndialogtitle = Гэта змесціва можа быць небяспечным
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

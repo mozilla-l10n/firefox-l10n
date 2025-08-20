@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = ویب سائٹس کوں "ٹریک نہ کرو" سگنل بھیڄو جو تساں ٹریک نہیں کرݨ چاہندے
-do-not-track-description2 =
-    .label = ویب سائٹ کوں "ٹریک نہ کرو" دی عرضی گَھلُّو
-    .accesskey = ن
 do-not-track-learn-more = ٻیا سِکھو
 do-not-track-option-default-content-blocking-known =
     .label = صرف اوں ویلھے جݙاں { -brand-short-name } کوں معلوم ٹریکرز کوں بلاک کرݨ کیتے سیٹ کیتا ڳیا ہووے۔
@@ -235,10 +232,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = تہاݙے رنگاں دے انتخاب ویب سائٹ دی ظاہری شکل کوں زیر کر یندے پئے او۔ <a data-l10n-name="colors-link">رنگاں دا بندوبست کرو</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = تہاݙے رنگاں دے انتخاب ویب سائٹ دی ظاہری شکل کوں زیر کر یندے پئے او۔
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = <a data-l10n-name="themes-link">ایکسٹینشنز تے تھیمز</a> وِچ { -brand-short-name } تھیمز دا انتظام کرو
@@ -1297,8 +1290,6 @@ addon-recommendations-link = ٻیا سِکھو
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ایں بلڈ کنفیگریشن کیتے ڈیٹا رپورٹنگ غیر فعال ہے۔
 collection-backlogged-crash-reports-with-link = { -brand-short-name } کوں اپݨی طرفوں بیک لاگ کریش رپورٹاں بھیڄݨ دی اجازت ݙیو <a data-l10n-name="crash-reports-link">ودھیک ڄاݨو </a>
-    .accesskey = c
-collection-backlogged-crash-reports = { -brand-short-name } کوں اپݨی طرفوں بیک لاگ کریش رپورٹاں بھیڄݨ دی اجازت ݙیو
     .accesskey = c
 privacy-segmentation-section-header = نویاں خصوصیات جیڑھیاں تہاݙی براؤزنگ کوں بہتر کریندیاں ہن۔
 privacy-segmentation-section-description = جݙاں اساں اینجھیاں خصوصیتاں پیش کریندے ہیں جیڑھیاں تہاکوں ودھیک ذاتی تجربہ ݙیوݨ کیتے تہاݙا ڈیٹا استعمال کریندیاں ہن:

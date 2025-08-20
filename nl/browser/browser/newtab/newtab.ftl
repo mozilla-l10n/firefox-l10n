@@ -323,9 +323,6 @@ newtab-custom-pocket-sponsored = Gesponsorde verhalen
 newtab-custom-pocket-show-recent-saves = Onlangs opgeslagen items tonen
 newtab-custom-recent-title = Recente activiteit
 newtab-custom-recent-subtitle = Een selectie van recente websites en inhoud
-newtab-custom-recent-toggle =
-    .label = Recente activiteit
-    .description = Een selectie van recente websites en inhoud
 newtab-custom-weather-toggle =
     .label = Weer
     .description = De weersverwachting van vandaag in een oogopslag
@@ -458,7 +455,6 @@ newtab-weather-menu-change-location = Locatie wijzigen
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Locatie zoeken
     .aria-label = Locatie zoeken
-newtab-weather-change-location-search-input = Locatie zoeken
 newtab-weather-menu-weather-display = Weerweergave
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -632,7 +628,6 @@ newtab-widget-lists-menu-delete = Deze lijst verwijderen
 newtab-widget-lists-menu-copy = Lijst naar klembord kopiëren
 newtab-widget-lists-menu-hide = Alle lijsten verbergen
 newtab-widget-lists-menu-learn-more = Meer info
-newtab-widget-lists-input-placeholder = Een item toevoegen
 newtab-widget-lists-input-error = Voeg tekst toe om een item toe te voegen.
 newtab-widget-lists-input-menu-open-link = Koppeling openen
 newtab-widget-lists-input-menu-move-up = Omhoog verplaatsen

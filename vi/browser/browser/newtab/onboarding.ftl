@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Nhập từ { $previous
 mr1-onboarding-theme-header = Biến nó thành của riêng bạn
 mr1-onboarding-theme-subtitle = Cá nhân hóa { -brand-short-name } với một chủ đề.
 mr1-onboarding-theme-secondary-button-label = Không phải bây giờ
-newtab-wallpaper-onboarding-title = Thử một chút màu sắc
-newtab-wallpaper-onboarding-subtitle = Chọn hình nền để mang lại diện mạo mới cho thẻ mới của bạn.
-newtab-wallpaper-onboarding-primary-button-label = Đặt hình nền
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Chủ đề hệ thống
 mr1-onboarding-theme-label-light = Sáng

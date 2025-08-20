@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = סגירה
     .aria-label = סגירה
-firefoxview-empty-state-icon =
-    .alt = לתשומת ליבך:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ממש עכשיו
 firefoxview-tabpickup-description = פתיחת דפים ממכשירים אחרים.
@@ -33,17 +31,12 @@ firefoxview-tabpickup-step-signin-primarybutton = המשך
 firefoxview-syncedtabs-signin-header-2 = ה־{ -brand-product-name } שלך בכל המכשירים שלך
 firefoxview-syncedtabs-signin-description-2 = כדי לראות לשוניות שפתחת בטלפון ובמכשירים האחרים שלך, יש להיכנס או להירשם לחשבון. עם חשבון, באפשרותך גם לסנכרן את הססמאות, ההיסטוריה שלך ועוד.
 firefoxview-syncedtabs-signin-primarybutton-2 = כניסה
-firefoxview-syncedtabs-signin-header = לקבל את הלשוניות מכל מקום
-firefoxview-syncedtabs-signin-description = כדי לראות את הלשוניות שלך מכל מקום שבו יש לך את { -brand-product-name }, יש להתחבר לחשבון שלך. אם אין לך חשבון, אנו נדריך אותך בשלבי ההרשמה.
-firefoxview-syncedtabs-signin-primarybutton = התחברות או הרשמה
 firefoxview-tabpickup-adddevice-header = סנכרון { -brand-product-name } בטלפון או במחשב לוח שלך
 firefoxview-tabpickup-adddevice-description = יש להוריד את { -brand-product-name } לנייד ולהתחבר שם.
 firefoxview-tabpickup-adddevice-learn-how = מידע נוסף
 firefoxview-tabpickup-adddevice-primarybutton = קבלת { -brand-product-name } לנייד
 firefoxview-syncedtabs-adddevice-header-2 = לקבל את הלשוניות מכל מקום
 firefoxview-syncedtabs-adddevice-description-2 = יש להתחבר ל־{ -brand-product-name } בטלפון שלך או במחשב אחר כדי לראות לשוניות כאן. מידע נוסף על <a data-l10n-name="url">חיבור מכשירים נוספים</a>.
-firefoxview-syncedtabs-adddevice-header = כניסה אל { -brand-product-name } במכשירים האחרים שלך
-firefoxview-syncedtabs-adddevice-description = כדי לראות את הלשוניות שלך מכל מקום שבו יש לך את { -brand-product-name }, יש להתחבר בכל המכשירים שלך. למידע נוסף על <a data-l10n-name="url">כיצד לחבר מכשירים נוספים</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = קבלת { -brand-product-name } לנייד
 firefoxview-tabpickup-synctabs-header = הפעלת סנכרון לשוניות
 firefoxview-tabpickup-synctabs-description = יש לאפשר ל־{ -brand-short-name } לשתף לשוניות בין מכשירים.
@@ -51,7 +44,6 @@ firefoxview-tabpickup-synctabs-learn-how = מידע נוסף
 firefoxview-tabpickup-synctabs-primarybutton = סנכרון לשוניות פתוחות
 firefoxview-syncedtabs-synctabs-header = עדכון הגדרות הסנכרון שלך
 firefoxview-syncedtabs-synctabs-description = כדי לראות לשוניות ממכשירים אחרים, יש לסנכרן את הלשוניות הפתוחות שלך.
-firefoxview-syncedtabs-synctabs-checkbox = לאפשר ללשוניות פתוחות להסתנכרן
 firefoxview-syncedtabs-loading-header = סנכרון בתהליך
 firefoxview-syncedtabs-loading-description = כשהסנכרון יסתיים, כל הלשוניות הפתוחות שיש לך במכשירים אחרים יוצגו כאן. נא לבדוק שוב בקרוב.
 firefoxview-tabpickup-fxa-admin-disabled-header = הארגון שלך השבית את הסנכרון
@@ -85,7 +77,6 @@ firefoxview-closed-tabs-title = לשוניות שנסגרו לאחרונה
 firefoxview-closed-tabs-description2 = פתיחה מחדש דפים שנסגרו בחלון זה.
 firefoxview-closed-tabs-placeholder-header = אין לשוניות שנסגרו לאחרונה
 firefoxview-closed-tabs-placeholder-body = כשסוגרים לשונית בחלון זה, ניתן לקבל אותה בחזרה כאן.
-firefoxview-closed-tabs-placeholder-body2 = כשסוגרים לשונית, ניתן לקבל אותה בחזרה כאן.
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = הלשונית הפעילה האחרונה
 # Variables:
@@ -147,8 +138,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = חלון { $winID } (נוכחי)
-firefoxview-opentabs-focus-tab =
-    .title = מעבר ללשונית זו
 firefoxview-show-more = להציג יותר
 firefoxview-show-less = להציג פחות
 firefoxview-show-all = הצגת הכול
@@ -166,9 +155,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = חיפוש לשוניות
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = חיפוש לשוניות מסונכרנות
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = חיפוש לשוניות פתוחות
@@ -191,10 +177,6 @@ firefoxview-sort-history-by-date-label = מיון לפי תאריך
 firefoxview-sort-history-by-site-label = מיון לפי אתר
 firefoxview-sort-open-tabs-by-recency-label = מיון לפי פעילות אחרונה
 firefoxview-sort-open-tabs-by-order-label = מיון לפי סדר לשוניות
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = מעבר אל { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -211,7 +193,6 @@ firefoxview-history-site-localhost = (קבצים מקומיים)
 ##
 
 firefoxview-show-all-history = הצגת כל ההיסטוריה
-firefoxview-view-more-browsing-history = הצגת היסטוריית גלישה נוספת
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -227,9 +208,6 @@ firefoxview-choose-browser-button = בחירת דפדפן
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = אין מה לראות כאן
-firefoxview-dont-remember-history-empty-description = ליבת העשייה שלנו היא להגן על הפרטיות שלך. זוהי הסיבה שבאפשרותך לשלוט בפעילות ש־{ -brand-short-name } זוכר.
-firefoxview-dont-remember-history-empty-description-two = בהתבסס על ההגדרות הנוכחיות שלך, { -brand-short-name } לא זוכר את הפעילות שלך תוך כדי גלישה. כדי לשנות זאת, ניתן <a data-l10n-name="history-settings-url-two">לשנות את הגדרות ההיסטוריה שלך כדי לזכור את ההיסטוריה שלך</a>.
 firefoxview-dont-remember-history-empty-header-2 = באפשרותך לשלוט על מה ש־{ -brand-short-name } יזכור
 firefoxview-dont-remember-history-empty-description-one = כרגע, { -brand-short-name } לא זוכר את פעילות הגלישה שלך. כדי לשנות זאת, יש <a data-l10n-name="history-settings-url-two">לעדכן את הגדרות ההיסטוריה שלך</a>.
 

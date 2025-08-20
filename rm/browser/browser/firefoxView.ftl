@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Serrar
     .aria-label = Serrar
-firefoxview-empty-state-icon =
-    .alt = Attenziun:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Gist ussa
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Cuntinuar
 firefoxview-syncedtabs-signin-header-2 = Tes { -brand-product-name } sin tut tes apparats
 firefoxview-syncedtabs-signin-description-2 = Per vesair ils tabs che ti has avert sin tes telefonin u auters apparats, t’annunzia u creescha in conto. Cun in conto pos ti era sincronisar tes pleds-clav, la cronologia e dapli.
 firefoxview-syncedtabs-signin-primarybutton-2 = S’annunziar
-firefoxview-syncedtabs-signin-header = Va per tes tabs sin mintga apparat
-firefoxview-syncedtabs-signin-description = Per vesair tes tabs sin mintga apparat cun { -brand-product-name }, t'annunzia en tes conto. Sche ti n'has nagin conto, guidain nus tai tras il process da registraziun.
-firefoxview-syncedtabs-signin-primarybutton = S'annunziar u sa registrar
 firefoxview-tabpickup-adddevice-header = Sincronisescha { -brand-product-name } cun tes telefonin u tablet
 firefoxview-tabpickup-adddevice-description = Telechargia { -brand-product-name } per apparats mobils e t'annunzia là.
 firefoxview-tabpickup-adddevice-learn-how = Ve a savair co
 firefoxview-tabpickup-adddevice-primarybutton = Telechargia { -brand-product-name } per apparats mobils
 firefoxview-syncedtabs-adddevice-header-2 = Va per tes tabs sin mintga apparat
 firefoxview-syncedtabs-adddevice-description-2 = T’annunzia en { -brand-product-name } sin tes telefonin u sin in auter computer per vesair qua ils tabs. Ve a savair co <a data-l10n-name="url">associar ulteriurs apparats</a>.
-firefoxview-syncedtabs-adddevice-header = T'annunzia en { -brand-product-name } sin tes auters apparats
-firefoxview-syncedtabs-adddevice-description = Per vesair tes tabs sin mintga apparat cun { -brand-product-name }, t'annunzia sin tut tes apparats. Ve a savair co <a data-l10n-name="url">connectar ulteriurs apparats</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Emprova { -brand-product-name } per apparats mobils
 firefoxview-tabpickup-synctabs-header = Activar la sincronisaziun da tabs
 firefoxview-tabpickup-synctabs-description = Permetter a { -brand-short-name } da cundivider tabs tranter apparats.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Ve a savair co far
 firefoxview-tabpickup-synctabs-primarybutton = Sincronisar tabs averts
 firefoxview-syncedtabs-synctabs-header = Actualisescha tes parameters da sincronisaziun
 firefoxview-syncedtabs-synctabs-description = Per vesair tabs dad auters apparats, stos ti sincronisar tes tabs averts.
-firefoxview-syncedtabs-synctabs-checkbox = Permetter la sincronisaziun da tabs averts
 firefoxview-syncedtabs-loading-header = Sincronisaziun en lavur
 firefoxview-syncedtabs-loading-description = Uschespert che quai e fatg, vesas ti tut tes tabs averts sin auters apparats. Dà prest puspè in'egliada.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tia organisaziun ha deactivà la sincronisaziun
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Serrà dacurt
 firefoxview-closed-tabs-description2 = Avra danovamain paginas che ti has serrà en questa fanestra.
 firefoxview-closed-tabs-placeholder-header = Nagins tabs serrads dacurt
 firefoxview-closed-tabs-placeholder-body = Sche ti serras in tab en questa fanestra, al pos ti adina recuperar da qua.
-firefoxview-closed-tabs-placeholder-body2 = Sche ti serras in tab, al pos ti recuperar da qua.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Fanestra { $winID } (actuala)
-firefoxview-opentabs-focus-tab =
-    .title = Midar a quest tab
 firefoxview-show-more = Mussar dapli
 firefoxview-show-less = Mussar damain
 firefoxview-show-all = Mussar tut
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Tschertgar en ils tabs
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Tschertgar en ils tabs sincronisads
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Tschertgar en ils tabs averts
@@ -197,10 +183,6 @@ firefoxview-sort-history-by-date-label = Zavrar tenor data
 firefoxview-sort-history-by-site-label = Zavrar tenor website
 firefoxview-sort-open-tabs-by-recency-label = Zavrar tenor l’activitad recenta
 firefoxview-sort-open-tabs-by-order-label = Mantegnair la successiun dals tabs
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Midar a { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -217,7 +199,6 @@ firefoxview-history-site-localhost = (datotecas localas)
 ##
 
 firefoxview-show-all-history = Mussar l'entira cronologia
-firefoxview-view-more-browsing-history = Mussar l'ulteriura cronologia da navigaziun
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -233,9 +214,6 @@ firefoxview-choose-browser-button = Tscherner in navigatur
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Nagut per mussar
-firefoxview-dont-remember-history-empty-description = La protecziun da tias datas è nossa prioritad. Perquai pos ti decider tge activitads che { -brand-short-name } duai memorisar.
-firefoxview-dont-remember-history-empty-description-two = Tenor tes parameters actuals, na memorisescha { -brand-short-name } betg tia navigaziun. Per midar quai, <a data-l10n-name="history-settings-url-two">adattescha ils parameters da la cronologia per memorisar tia cronologia</a>.
 firefoxview-dont-remember-history-empty-header-2 = Ti pos controllar tge che { -brand-short-name } memorisescha
 firefoxview-dont-remember-history-empty-description-one = Per il mument na tegna { -brand-short-name } betg endament tia navigaziun. Per midar quai, <a data-l10n-name="history-settings-url-two">actualisescha tes parameters da la cronologia</a>.
 

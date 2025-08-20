@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = ᱛᱩᱱᱩᱢ ᱵᱟᱪᱷᱟᱣ ᱟᱨ ᱫᱤᱜᱫᱷᱟᱹ ᱥᱟᱹᱛ ᱠᱮ ᱟᱞᱮ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ, ᱟᱢ ᱟᱞᱮ ᱢᱤᱫ ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱮᱢ ᱠᱩᱞ ᱫᱟᱲᱮᱭᱟᱞᱮ ᱭᱟ ᱾
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = ᱯᱩᱨᱟᱹ ᱵᱤᱵᱨᱚᱱ ᱠᱚ : { $details }
 crashreporter-no-run-message = ᱱᱚᱣᱟ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱫᱚ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱟᱠᱷᱨᱤᱧᱤᱡ ᱞᱟᱹᱜᱤᱫ ᱫᱤᱜᱫᱷᱟᱹ ᱨᱤᱯᱚᱨᱴ ᱨᱮ ᱢᱤᱫ ᱨᱟᱹᱯᱩᱛ ᱛᱟᱭᱚᱢ ᱪᱟᱞᱟᱣ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱥᱚᱡᱷᱮ ᱵᱟᱝ ᱪᱟᱞᱟᱱ ᱞᱟᱹᱠᱛᱤ ᱾
 crashreporter-button-details = ᱯᱩᱨᱟᱹ ᱵᱤᱵᱨᱚᱱ…
 crashreporter-view-report-title = ᱵᱤᱥᱚᱭ ᱠᱚ ᱨᱤᱯᱚᱨᱴ

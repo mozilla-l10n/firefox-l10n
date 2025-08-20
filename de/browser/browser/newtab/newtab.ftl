@@ -323,9 +323,6 @@ newtab-custom-pocket-sponsored = Gesponserte Inhalte
 newtab-custom-pocket-show-recent-saves = Zuletzt hinzugefügte Einträge anzeigen
 newtab-custom-recent-title = Neueste Aktivität
 newtab-custom-recent-subtitle = Eine Auswahl kürzlich besuchter Websites und Inhalte
-newtab-custom-recent-toggle =
-    .label = Neueste Aktivität
-    .description = Eine Auswahl kürzlich besuchter Websites und Inhalte
 newtab-custom-weather-toggle =
     .label = Wetter
     .description = Heutige Vorhersage auf einen Blick
@@ -462,7 +459,6 @@ newtab-weather-menu-change-location = Standort ändern
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Standort suchen
     .aria-label = Standort suchen
-newtab-weather-change-location-search-input = Standort suchen
 newtab-weather-menu-weather-display = Wetteranzeige
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -641,7 +637,6 @@ newtab-widget-lists-menu-delete = Diese Liste löschen
 newtab-widget-lists-menu-copy = Liste in Zwischenablage kopieren
 newtab-widget-lists-menu-hide = Alle Listen ausblenden
 newtab-widget-lists-menu-learn-more = Weitere Informationen
-newtab-widget-lists-input-placeholder = Einen Eintrag hinzufügen
 newtab-widget-lists-input-error = Bitte fügen Sie Text hinzu, um einen Eintrag hinzuzufügen.
 newtab-widget-lists-input-menu-open-link = Link öffnen
 newtab-widget-lists-input-menu-move-up = Nach oben

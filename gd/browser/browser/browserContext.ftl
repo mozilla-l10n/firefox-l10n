@@ -166,11 +166,6 @@ main-context-menu-copy-link-simple =
 main-context-menu-copy-clean-link =
     .label = Dèan lethbhreac dhen cheangal ghlan
     .accesskey = D
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Dèan lethbhreac dhen cheangal as aonais tracadh na làraich
-    .accesskey = o
 
 ## Media (video/audio) controls
 ##

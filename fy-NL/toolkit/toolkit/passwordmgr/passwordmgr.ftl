@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = k
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Gjin brûkersnamme
-password-manager-toggle-password =
-    .label = Wachtwurd toane
-    .accesskey = a
 password-manager-confirm-password-change = Wiziging fan wachtwurd befêstigje
 password-manager-select-username = Selektearje de oanmelding om by te wurkjen:

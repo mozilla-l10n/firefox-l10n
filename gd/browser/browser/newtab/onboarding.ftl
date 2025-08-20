@@ -53,7 +53,6 @@ mr1-onboarding-import-primary-button-label-attribution = Ion-phortaich o { $prev
 mr1-onboarding-theme-header = Gnàthaich dhut-sa e
 mr1-onboarding-theme-subtitle = Cuir dreach pearsanta air { -brand-short-name } le ùrlar.
 mr1-onboarding-theme-secondary-button-label = Chan ann an-dràsta
-newtab-wallpaper-onboarding-primary-button-label = Suidhich pàipear-balla
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Ùrlar an t-siostaim
 mr1-onboarding-theme-label-light = Soilleir

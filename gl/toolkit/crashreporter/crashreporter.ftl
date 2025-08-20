@@ -9,8 +9,6 @@ crashreporter-plea = Se envía un informe de erro axudará a diagnosticar e solu
 crashreporter-information = Esta aplicación execútase despois dunha quebra para informar do problema a { -vendor-short-name }. Non se debe executar directamente.
 crashreporter-error = { -brand-short-name } tivo un problema e quebrou. Desafortunadamente, o informador de quebras non pode enviar un informe desta quebra.
 crashreporter-error-details-header = Detalles:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detalles: { $details }
 crashreporter-no-run-message = Este aplicativo execútase para informar o fornecedor do produto cando se produce un fallo. Non debería executarse directamente.
 crashreporter-button-details = Detalles…
 crashreporter-loading-details = Cargando…
@@ -20,8 +18,6 @@ crashreporter-report-info = Este informe tamén contén información técnica so
 crashreporter-checkbox-test-hardware = Comprobar se hai problemas de hardware e configuración no meu dispositivo.
 crashreporter-checkbox-send-report = Informa a { -vendor-short-name } sobre esta quebra para que a solucionen.
 crashreporter-checkbox-include-url = Inclúe o enderezo da páxina na que estabas.
-crashreporter-send-report = Informa a { -vendor-short-name } sobre esta quebra para que o solucionen.
-crashreporter-include-url = Inclúe o enderezo da páxina na que estabas.
 crashreporter-submit-status = O informe de erro enviarase antes de que reinicie ou saia do programa.
 crashreporter-submit-waiting-hardware-tests = Comprobando problemas de hardware e configuración...
 crashreporter-submit-in-progress = Enviando o informe…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Podes ver os detalles desta quebra en { $url }.
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Produciuse un erro ao executar o minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Produciuse un erro ao abrir o ficheiro ({ $path })
 # $path (String) - the file path

@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Impuarte di { $previous
 mr1-onboarding-theme-header = Adatilu al tô stîl
 mr1-onboarding-theme-subtitle = Personalize { -brand-short-name } cuntun teme.
 mr1-onboarding-theme-secondary-button-label = No cumò
-newtab-wallpaper-onboarding-title = Prove une man di colôr
-newtab-wallpaper-onboarding-subtitle = Sielç un fondâl par dâ un aspiet diviers aes gnovis schedis.
-newtab-wallpaper-onboarding-primary-button-label = Stabilìs fonts
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Teme di sisteme
 mr1-onboarding-theme-label-light = Clâr

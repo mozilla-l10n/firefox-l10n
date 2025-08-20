@@ -4,9 +4,6 @@
 
 do-not-track-description = Požiadať webové stránky pomocou príznaku “Do Not Track”, aby vás nesledovali
 do-not-track-removal = Príznak “Nesledovať” (Do Not Track) už nie je podporovaný
-do-not-track-description2 =
-    .label = Odosielať webovým stránkam požiadavku “Nesledovať” (Do Not Track).
-    .accesskey = w
 do-not-track-learn-more = Ďalšie informácie
 do-not-track-option-default-content-blocking-known =
     .label = Len ak je zapnuté blokovanie známych sledovacích prvkov
@@ -271,10 +268,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Váš výber farieb má prednosť pred vzhľadom webových stránok. <a data-l10n-name="colors-link">Spravovať farby</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Váš výber farieb má prednosť pred vzhľadom webových stránok.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Témy vzhľadu { -brand-short-name(case: "gen") } môžete spravovať v okne <a data-l10n-name="themes-link">Správcu doplnkov</a>.
@@ -1438,8 +1431,6 @@ addon-recommendations-link = Ďalšie informácie
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odosielanie údajov je v konfigurácii tohto zostavenia zakázané
 collection-backlogged-crash-reports-with-link = Povoliť { -brand-short-name(case: "dat") } odosielať vo vašom mene správy o zlyhaní <a data-l10n-name="crash-reports-link">Ďalšie informácie</a>
-    .accesskey = P
-collection-backlogged-crash-reports = Povoliť { -brand-short-name(case: "dat") } odosielať vo vašom mene správy o zlyhaní
     .accesskey = P
 privacy-segmentation-section-header = Nové funkcie, ktoré vylepšujú vaše prehliadanie
 privacy-segmentation-section-description = Keď ponúkame funkcie, ktoré využívajú vaše údaje, aby vám poskytli ešte lepšiu skúsenosť:

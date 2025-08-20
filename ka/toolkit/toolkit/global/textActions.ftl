@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = ბმულის სუფთა ასლი
     .accesskey = ფ
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = ასლი თვალის დევნების არიდებით
-    .accesskey = ნ
 text-action-paste =
     .label = ჩასმა
     .accesskey = ჩ

@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Visa inte denna dialogruta igen.
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Information
-tabbrowser-confirm-close-duplicate-tabs-text = Vi håller den senast aktiva fliken öppen
 tabbrowser-confirm-close-all-duplicate-tabs-title = Stäng dubbla flikar?
 tabbrowser-confirm-close-all-duplicate-tabs-text = Vi stänger dubbletter av flikar i det här fönstret. Den senast aktiva fliken förblir öppen.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Stäng flikar

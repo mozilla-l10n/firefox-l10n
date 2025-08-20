@@ -62,8 +62,6 @@ client-auth-cert-details-issued-by = Təmin edən: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Saxlanılıb: { $storedOn }
-client-auth-cert-remember-box =
-    .label = Bu seçimi yadda saxla
 
 ## Set password (p12) dialog
 

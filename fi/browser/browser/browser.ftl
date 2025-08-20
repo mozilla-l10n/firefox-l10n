@@ -401,7 +401,6 @@ quickactions-cmd-print = tulosta
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Tallenna sivu PDF-muodossa
 quickactions-cmd-savepdf2 = pdf, tallenna sivu
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Avaa yksityinen ikkuna
 quickactions-cmd-private = yksityinen selaus

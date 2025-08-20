@@ -28,8 +28,6 @@ contentanalysis-operationtype-print = баспаға шығару
 contentanalysis-upload-description = "{ $filename }" жүктеп салу
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = "{ $filename }" жүктеп алу
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = "{ $filename }" жүктеп жіберу
 contentanalysis-warndialogtitle = Бұл мазмұн қауіпті болуы мүмкін
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

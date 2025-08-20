@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Yn barhaol
 client-auth-cert-remember-temporarily =
     .label = Ar gyfer y sesiwn hon
-client-auth-cert-remember-box =
-    .label = Cofio'r penderfyniad yma
 
 ## Set password (p12) dialog
 

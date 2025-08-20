@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Küldjön el egy lapot bármely eszközére, amelyen be van jelentkezve.
 fxa-menu-sign-out =
     .label = Kijelentkezés…
-fxa-menu-sync-title = Szinkronizálás
 fxa-menu-sync-description = Érje el a webet bárhol
 fxa-avatar-sign-in = Bejelentkezés
 fxa-avatar-sign-up = Regisztráció

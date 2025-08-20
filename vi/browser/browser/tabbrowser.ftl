@@ -134,8 +134,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Không hiện lại hộp thoại n�
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Hãy cân nhắc
-tabbrowser-confirm-close-duplicate-tabs-text = Chúng tôi sẽ giữ thẻ hoạt động lần cuối
 tabbrowser-confirm-close-all-duplicate-tabs-title = Đóng các thẻ trùng?
 tabbrowser-confirm-close-all-duplicate-tabs-text =
     Chúng tôi sẽ đóng các thẻ trùng lặp trong cửa sổ này.Thẻ hoạt động

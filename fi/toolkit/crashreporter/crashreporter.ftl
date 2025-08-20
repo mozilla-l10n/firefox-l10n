@@ -9,8 +9,6 @@ crashreporter-plea = Lähettämällä kaatumisilmoituksen autat meitä tunnistam
 crashreporter-information = Tämä ohjelma suoritetaan kaatumisen jälkeen, ja se ilmoittaa kaatumiseen johtaneesta ongelmasta { -vendor-short-name }lle. Tätä ohjelmaa ei pidä käynnistää erikseen.
 crashreporter-error = { -brand-short-name } kohtasi ongelman ja se kaatui. Valitettavasti kaatumisraportointi ei voi lähettää raporttia tästä kaatumisesta.
 crashreporter-error-details-header = Yksityiskohdat:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Lisätietoja: { $details }
 crashreporter-no-run-message = Tämä ohjelma ilmoittaa kaatumiseen johtaneesta ohjelmavirheestä ohjelman jakelijalle. Tätä ohjelmaa ei pidä käynnistää erikseen.
 crashreporter-button-details = Lisätietoja…
 crashreporter-loading-details = Ladataan…
@@ -20,8 +18,6 @@ crashreporter-report-info = Ilmoitus sisältää myös teknisiä tietoja ohjelma
 crashreporter-checkbox-test-hardware = Tarkista laitteeni mahdolliset laitteisto- ja määritysongelmat.
 crashreporter-checkbox-send-report = Kerro { -vendor-short-name }lle tästä kaatumisesta, jotta se on mahdollista korjata.
 crashreporter-checkbox-include-url = Liitä mukaan sen sivun osoite, jolla olin.
-crashreporter-send-report = Kerro kaatumisesta { -vendor-short-name }lle, jotta he voivat korjata sen.
-crashreporter-include-url = Liitä ilmoitukseen kaatumishetkellä avoimen sivun osoite.
 crashreporter-submit-status = Kaatumisilmoitus lähetetään ennen kuin lopetat tai käynnistät ohjelman uudestaan.
 crashreporter-submit-waiting-hardware-tests = Tarkistetaan laitteisto- ja määritysongelmia…
 crashreporter-submit-in-progress = Lähetetään ilmoitusta…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Kerätyt kaatumistiedot löytyvät osoitteesta { $
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Ei voitu suorittaa minidump-analyzeria
 # $path (String) - the file path
 crashreporter-error-opening-file = Tiedoston ({ $path }) avaaminen epäonnistui
 # $path (String) - the file path

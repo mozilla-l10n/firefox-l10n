@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Véglegesen
 client-auth-cert-remember-temporarily =
     .label = Ebben a munkamenetben
-client-auth-cert-remember-box =
-    .label = A döntés megjegyzése
 
 ## Set password (p12) dialog
 

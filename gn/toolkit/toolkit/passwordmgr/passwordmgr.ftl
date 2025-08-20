@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = A
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Poruhára rera’ỹ
-password-manager-toggle-password =
-    .label = Ñe’ẽñemi jehechauka
-    .accesskey = h
 password-manager-confirm-password-change = Emoneĩ ñe’ẽñemi moambue
 password-manager-select-username = Eiporavo tembiapo ñepyrũ embohekopyahu hag̃ua:

@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Таза сілтемені көшіру
     .accesskey = у
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Сайт бақылаусыз сілтемені көшіру
-    .accesskey = р
 
 ## Media (video/audio) controls
 ##

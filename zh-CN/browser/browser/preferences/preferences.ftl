@@ -4,9 +4,6 @@
 
 do-not-track-description = 向网站发出“请勿跟踪”信号，示明您不想被跟踪
 do-not-track-removal = 我们已停止支持“请勿跟踪”信号
-do-not-track-description2 =
-    .label = 向网站发出“请勿跟踪”请求
-    .accesskey = d
 do-not-track-learn-more = 详细了解
 do-not-track-option-default-content-blocking-known =
     .label = 仅当 { -brand-short-name } 设置为拦截已知跟踪器时
@@ -264,10 +261,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 您的颜色选择将覆盖网站外观。<a data-l10n-name="colors-link">管理颜色</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = 您的颜色选择将覆盖网站外观。
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = 到<a data-l10n-name="themes-link">扩展和主题</a>管理 { -brand-short-name } 主题
@@ -1426,8 +1419,6 @@ addon-recommendations-link = 详细了解
 # or builds with no Telemetry support available.
 collection-health-report-disabled = 在此构建配置下数据反馈被禁用
 collection-backlogged-crash-reports-with-link = 允许 { -brand-short-name } 代您发送积压的崩溃报告 <a data-l10n-name="crash-reports-link">详细了解</a>
-    .accesskey = c
-collection-backlogged-crash-reports = 允许 { -brand-short-name } 代您发送积压的崩溃报告
     .accesskey = c
 privacy-segmentation-section-header = 增强浏览体验的新功能
 privacy-segmentation-section-description = 当我们推出需使用您数据以提供更个性化的上网体验的新功能时：

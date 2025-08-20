@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = 닫기
     .aria-label = 닫기
-firefoxview-empty-state-icon =
-    .alt = 주의:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = 방금 전
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = 계속
 firefoxview-syncedtabs-signin-header-2 = 모든 기기에 { -brand-product-name } 사용
 firefoxview-syncedtabs-signin-description-2 = 휴대폰 및 다른 기기에서 열려 있는 탭을 보려면, 계정에 로그인하거나 가입하세요. 계정을 사용하면 비밀번호, 기록 등을 동기화 할 수도 있습니다.
 firefoxview-syncedtabs-signin-primarybutton-2 = 로그인
-firefoxview-syncedtabs-signin-header = 어디서나 탭 가져오기
-firefoxview-syncedtabs-signin-description = { -brand-product-name }를 사용하는 모든 곳에서 탭을 보려면 계정에 로그인하세요. 계정이 없는 경우 가입 단계를 안내해 드립니다.
-firefoxview-syncedtabs-signin-primarybutton = 로그인 또는 가입
 firefoxview-tabpickup-adddevice-header = 휴대폰 또는 태블릿에서 { -brand-product-name } 동기화
 firefoxview-tabpickup-adddevice-description = 모바일용 { -brand-product-name }를 다운로드하고 로그인하세요.
 firefoxview-tabpickup-adddevice-learn-how = 방법 알아보기
 firefoxview-tabpickup-adddevice-primarybutton = 모바일용 { -brand-product-name } 받기
 firefoxview-syncedtabs-adddevice-header-2 = 어디서나 탭 가져오기
 firefoxview-syncedtabs-adddevice-description-2 = 여기에서 탭을 보려면 휴대전화나 다른 컴퓨터에서 { -brand-product-name }에 로그인하세요. <a data-l10n-name="url">추가 기기 연결</a> 방법에 대해 알아보세요.
-firefoxview-syncedtabs-adddevice-header = 다른 기기에서 { -brand-product-name }에 로그인하세요.
-firefoxview-syncedtabs-adddevice-description = { -brand-product-name }를 사용하는 모든 곳에서 탭을 보려면 모든 기기에서 로그인하세요. <a data-l10n-name="url">추가 기기 연결</a> 방법에 대해 알아보세요.
 firefoxview-syncedtabs-adddevice-primarybutton = 모바일용 { -brand-product-name } 사용해보기
 firefoxview-tabpickup-synctabs-header = 탭 동기화 켜기
 firefoxview-tabpickup-synctabs-description = { -brand-short-name }가 기기 간에 탭을 공유하도록 허용합니다.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = 방법 알아보기
 firefoxview-tabpickup-synctabs-primarybutton = 열린 탭 동기화
 firefoxview-syncedtabs-synctabs-header = 동기화 설정 업데이트
 firefoxview-syncedtabs-synctabs-description = 다른 기기의 탭을 보려면 열려 있는 탭을 동기화해야 합니다.
-firefoxview-syncedtabs-synctabs-checkbox = 열린 탭이 동기화되도록 허용
 firefoxview-syncedtabs-loading-header = 동기화 진행 중
 firefoxview-syncedtabs-loading-description = 완료되면, 다른 기기에서 열려 있는 탭이 모두 표시됩니다. 곧 다시 확인해 보세요.
 firefoxview-tabpickup-fxa-admin-disabled-header = 조직에서 동기화를 사용하지 않도록 설정함
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = 최근에 닫음
 firefoxview-closed-tabs-description2 = 이 창에서 닫은 페이지를 다시 엽니다.
 firefoxview-closed-tabs-placeholder-header = 최근에 닫은 탭 없음
 firefoxview-closed-tabs-placeholder-body = 이 창에서 탭을 닫으면 여기에서 가져올 수 있습니다.
-firefoxview-closed-tabs-placeholder-body2 = 탭을 닫으면 여기에서 가져올 수 있습니다.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = 창 { $winID } (현재)
-firefoxview-opentabs-focus-tab =
-    .title = 이 탭으로 전환
 firefoxview-show-more = 더 보기
 firefoxview-show-less = 덜 보기
 firefoxview-show-all = 모두 보기
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = 탭 검색
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = 동기화된 탭 검색
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = 열린 탭 검색
@@ -193,10 +179,6 @@ firefoxview-sort-history-by-date-label = 날짜순 정렬
 firefoxview-sort-history-by-site-label = 사이트순 정렬
 firefoxview-sort-open-tabs-by-recency-label = 최근 활동순 정렬
 firefoxview-sort-open-tabs-by-order-label = 탭 순서로 정렬
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = { $url }(으)로 전환
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -213,7 +195,6 @@ firefoxview-history-site-localhost = (로컬 파일)
 ##
 
 firefoxview-show-all-history = 모든 기록 보기
-firefoxview-view-more-browsing-history = 방문 기록 더 보기
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -229,9 +210,6 @@ firefoxview-choose-browser-button = 브라우저 선택
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = 표시할 항목 없음
-firefoxview-dont-remember-history-empty-description = 개인 정보를 보호하는 것은 우리가 하는 일의 핵심입니다. { -brand-short-name }가 기억하는 활동을 제어할 수 있는 이유입니다.
-firefoxview-dont-remember-history-empty-description-two = 현재 설정에 따라 { -brand-short-name }는 탐색 중 활동을 기억하지 않습니다. 이를 변경하려면 <a data-l10n-name="history-settings-url-two">기록을 기억하도록 기록 설정을 변경</a>하세요.
 firefoxview-dont-remember-history-empty-header-2 = { -brand-short-name }가 기억하는 것을 제어할 수 있습니다.
 firefoxview-dont-remember-history-empty-description-one = 현재 { -brand-short-name }는 탐색 활동을 기억하지 않습니다. 변경하려면, <a data-l10n-name="history-settings-url-two">기록 설정을 업데이트</a>하세요.
 

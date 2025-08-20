@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = п
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Пайдаланушы аты жоқ
-password-manager-toggle-password =
-    .label = Парольді көрсету
-    .accesskey = с
 password-manager-confirm-password-change = Парольді ауыстыруды растау
 password-manager-select-username = Жаңарту үшін логинді таңдаңыз:

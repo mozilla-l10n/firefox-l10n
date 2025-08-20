@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Loka
     .aria-label = Loka
-firefoxview-empty-state-icon =
-    .alt = Aðvörun:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Rétt í þessu
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Halda áfram
 firefoxview-syncedtabs-signin-header-2 = Náðu í { -brand-product-name } fyrir öll tækin þín
 firefoxview-syncedtabs-signin-description-2 = Til að sjá flipana sem þú hefur opna í símanum þínum og öðrum tækjum skaltu skrá þig inn eða nýskrá þig fyrir reikningi. Með reikningi geturðu líka samstillt lykilorðin þín, vafurferilinn og fleira.
 firefoxview-syncedtabs-signin-primarybutton-2 = Innskráning
-firefoxview-syncedtabs-signin-header = Gríptu flipa með þér hvert sem er
-firefoxview-syncedtabs-signin-description = Til að sjá flipana þína hvar sem þú notar { -brand-product-name } skaltu skrá þig inn á reikninginn þinn. Ef þú ert ekki með reikning, munum við leiðbeina þér í gegnum þau skref sem þarf til að nýskrá þig.
-firefoxview-syncedtabs-signin-primarybutton = Skráðu þig inn eða nýskráðu þig
 firefoxview-tabpickup-adddevice-header = Samstilltu { -brand-product-name } á símanum eða spjaldtölvunni
 firefoxview-tabpickup-adddevice-description = Sæktu { -brand-product-name } fyrir farsíma og skráðu þig inn þar.
 firefoxview-tabpickup-adddevice-learn-how = Lærðu hvernig
 firefoxview-tabpickup-adddevice-primarybutton = Náðu í { -brand-product-name } fyrir farsíma
 firefoxview-syncedtabs-adddevice-header-2 = Gríptu flipa með þér hvaðan sem er
 firefoxview-syncedtabs-adddevice-description-2 = Skráðu þig inn á { -brand-product-name } í símanum þínum eða annarri tölvu til að sjá flipana þína hér. Lærðu hvernig á að <a data-l10n-name="url">tengja fleiri tæki</a>.
-firefoxview-syncedtabs-adddevice-header = Skráðu þig inn á { -brand-product-name } í hinum tækjunum þínum
-firefoxview-syncedtabs-adddevice-description = Til að sjá flipana þína hvar sem þú notar { -brand-product-name } skaltu skrá þig inn á öllum tækjunum þínum. Skoðaðu hvernig á að <a data-l10n-name="url">tengja fleiri tæki</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prófaðu { -brand-product-name } fyrir farsíma
 firefoxview-tabpickup-synctabs-header = Kveiktu á samstillingu flipa
 firefoxview-tabpickup-synctabs-description = Leyfðu { -brand-short-name } að deila flipum á milli tækja.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Lærðu hvernig
 firefoxview-tabpickup-synctabs-primarybutton = Samstilla opna flipa
 firefoxview-syncedtabs-synctabs-header = Uppfærðu stillingarnar þínar fyrir samstillingu
 firefoxview-syncedtabs-synctabs-description = Til að sjá flipa frá öðrum tækjum þarftu að samstilla opna flipa.
-firefoxview-syncedtabs-synctabs-checkbox = Leyfa opnum flipum að samstillast
 firefoxview-syncedtabs-loading-header = Samstilling í gangi
 firefoxview-syncedtabs-loading-description = Þegar því er lokið sérðu alla flipa sem þú hefur opna á öðrum tækjum. Komdu hingað aftur fljótlega.
 firefoxview-tabpickup-fxa-admin-disabled-header = Kerfisstjórarnir þínir hafa gert samstillingu óvirka
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Nýlega lokað
 firefoxview-closed-tabs-description2 = Opnaðu aftur síður sem þú hefur lokað í þessum glugga.
 firefoxview-closed-tabs-placeholder-header = Engir nýlega lokaðir flipar
 firefoxview-closed-tabs-placeholder-body = Þegar þú lokar flipa í þessum glugga geturðu sótt hann hingað.
-firefoxview-closed-tabs-placeholder-body2 = Þegar þú lokar flipa geturðu sótt hann hingað.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Gluggi { $winID } (núverandi)
-firefoxview-opentabs-focus-tab =
-    .title = Skipta yfir á þennan flipa
 firefoxview-show-more = Sýna meira
 firefoxview-show-less = Sýna minna
 firefoxview-show-all = Birta allt
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Leita í flipum
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Leita í samstilltum flipum
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Leita í opnum flipum
@@ -197,10 +183,6 @@ firefoxview-sort-history-by-date-label = Raða eftir dagsetningu
 firefoxview-sort-history-by-site-label = Raða eftir vefsvæðum
 firefoxview-sort-open-tabs-by-recency-label = Raða eftir nýlegri virkni
 firefoxview-sort-open-tabs-by-order-label = Raða eftir röð flipa
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Skipta yfir í { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -217,7 +199,6 @@ firefoxview-history-site-localhost = (staðbundnar skrár)
 ##
 
 firefoxview-show-all-history = Birta allan vafurferil
-firefoxview-view-more-browsing-history = Skoða meira af vafurferlinum
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -233,9 +214,6 @@ firefoxview-choose-browser-button = Veldu vafra
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Ekkert til að sýna
-firefoxview-dont-remember-history-empty-description = Að vernda friðhelgi þína er kjarninn í því sem við gerum. Þess vegna geturðu stjórnað hvaða virkni { -brand-short-name } kemur til með að muna.
-firefoxview-dont-remember-history-empty-description-two = Miðað við núverandi stillingar þínar, mun { -brand-short-name } ekki skrá virkni þína við vafur. Til að breyta því, skaltu <a data-l10n-name="history-settings-url-two">breyta ferlistillingunum þínum í að muna vafrið þitt</a>.
 firefoxview-dont-remember-history-empty-header-2 = Þú hefur stjórn á því sem { -brand-short-name } man
 firefoxview-dont-remember-history-empty-description-one = Sem stendur man { -brand-short-name } ekki vafurvirknina þína. Til að breyta því skaltu <a data-l10n-name="history-settings-url-two">uppfæra ferilstillingarnar þínar</a>.
 

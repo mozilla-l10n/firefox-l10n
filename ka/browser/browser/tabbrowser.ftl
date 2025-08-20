@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = აღარ გამოჩნდ�
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = ყურადღება!
-tabbrowser-confirm-close-duplicate-tabs-text = გახსნილი დარჩება ბოლოს მოქმედი ჩანართი
 tabbrowser-confirm-close-all-duplicate-tabs-title = დაიხუროს გამეორებული ჩანართები?
 tabbrowser-confirm-close-all-duplicate-tabs-text =
     ამ ფანჯარაში დაიხურება გაორებული ჩანართები. ბოლო მოქმედი

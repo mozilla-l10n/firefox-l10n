@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Închide
     .aria-label = Închide
-firefoxview-empty-state-icon =
-    .alt = Atenție:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Adineauri
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Continuă
 firefoxview-syncedtabs-signin-header-2 = Al tău { -brand-product-name } pe toate dispozitivele
 firefoxview-syncedtabs-signin-description-2 = Ca să vezi filele deschise pe telefon și pe alte dispozitive, intră în cont sau fă-ți un cont. Cu un cont, poți sincroniza și parolele, istoricul și multe altele.
 firefoxview-syncedtabs-signin-primarybutton-2 = Intră în cont
-firefoxview-syncedtabs-signin-header = Preia file de oriunde
-firefoxview-syncedtabs-signin-description = Ca să îți vezi filele de oriunde folosești { -brand-product-name }, intră în cont. Dacă nu ai un cont, te vom ajuta să îți faci unul.
-firefoxview-syncedtabs-signin-primarybutton = Intră în cont sau fă-ți un cont
 firefoxview-tabpickup-adddevice-header = Sincronizează { -brand-product-name } pe telefon sau tabletă
 firefoxview-tabpickup-adddevice-description = Descarcă { -brand-product-name } pe mobil și intră în cont.
 firefoxview-tabpickup-adddevice-learn-how = Află cum
 firefoxview-tabpickup-adddevice-primarybutton = Obține { -brand-product-name } pentru mobil
 firefoxview-syncedtabs-adddevice-header-2 = Preia file de oriunde
 firefoxview-syncedtabs-adddevice-description-2 = Intră în contul tău { -brand-product-name } pe telefon sau alt calculator ca să vezi filele aici. Află cum să <a data-l10n-name="url">conectezi alte dispozitive</a>.
-firefoxview-syncedtabs-adddevice-header = Intră în contul tău { -brand-product-name } pe celelalte dispozitive
-firefoxview-syncedtabs-adddevice-description = Ca să îți vezi filele de oriunde folosești { -brand-product-name }, intră în cont pe toate dispozitivele. Află cum poți <a data-l10n-name="url">conecta alte dispozitive</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Încearcă { -brand-product-name } pe mobil
 firefoxview-tabpickup-synctabs-header = Pornește sincronizarea filelor
 firefoxview-tabpickup-synctabs-description = Permite { -brand-short-name } să partajeze file între dispozitive.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Află cum
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizează filele deschise
 firefoxview-syncedtabs-synctabs-header = Actualizează setările sincronizate
 firefoxview-syncedtabs-synctabs-description = Pentru a vedea file de pe alte dispozitive, va trebui să sincronizezi filele deschise.
-firefoxview-syncedtabs-synctabs-checkbox = Permite sincronizarea filelor deschise
 firefoxview-syncedtabs-loading-header = Sincronizare în curs
 firefoxview-syncedtabs-loading-description = Când este gata, vei vedea orice file deschise de pe orice alt dispozitiv. Verifică din nou mai târziu.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organizația ta a dezactivat sincronizarea
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Închise recent
 firefoxview-closed-tabs-description2 = Redeschide paginile închise din această fereastră.
 firefoxview-closed-tabs-placeholder-header = Nicio filă închisă recent
 firefoxview-closed-tabs-placeholder-body = Când închizi o filă din această fereastră, o poți prelua de aici.
-firefoxview-closed-tabs-placeholder-body2 = Când închizi o filă, o poți prelua de aici.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Fereastra { $winID } (actuală)
-firefoxview-opentabs-focus-tab =
-    .title = Treci la această filă
 firefoxview-show-more = Afișează mai mult
 firefoxview-show-less = Afișează mai puțin
 firefoxview-show-all = Afișează tot
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Caută în file
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Caută în filele sincronizate
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Caută în filele deschise
@@ -198,10 +184,6 @@ firefoxview-sort-history-by-date-label = Sortează după dată
 firefoxview-sort-history-by-site-label = Sortează după site
 firefoxview-sort-open-tabs-by-recency-label = Sortează după activitatea recentă
 firefoxview-sort-open-tabs-by-order-label = Sortează după ordinea filelor
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Treci pe { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -218,7 +200,6 @@ firefoxview-history-site-localhost = (fișiere locale)
 ##
 
 firefoxview-show-all-history = Vezi tot istoricul
-firefoxview-view-more-browsing-history = Vezi mai mult istoric de căutare
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -234,9 +215,6 @@ firefoxview-choose-browser-button = Alege browserul
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Nimic de afișat
-firefoxview-dont-remember-history-empty-description = Protejarea intimității tale este deviza noastră. De aceea, poți controla ce activitate stochează { -brand-short-name }.
-firefoxview-dont-remember-history-empty-description-two = În baza setărilor tale, { -brand-short-name } nu reține nicio activitate în timp ce navighezi. Pentru a schimba setarea, <a data-l10n-name="history-settings-url-two">modifică setările pentru istoric ca să îți stocheze istoricul</a>.
 firefoxview-dont-remember-history-empty-header-2 = Tu controlezi ce stochează { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = Acum, { -brand-short-name } nu îți reține activitatea de navigare. Ca să modifici, <a data-l10n-name="history-settings-url-two">actualizează-ți setările pentru istoric</a>.
 

@@ -4,9 +4,6 @@
 
 do-not-track-description = Trametter a websites il signal «Do Not Track» per inditgar che ti na vuls betg vegnir fastizà
 do-not-track-removal = Nus na sustegnain betg pli il signal «Betg ma fastizar»
-do-not-track-description2 =
-    .label = Trametter a websites la dumonda da «Betg ma fastizar»
-    .accesskey = d
 do-not-track-learn-more = Ulteriuras infurmaziuns
 do-not-track-option-default-content-blocking-known =
     .label = Mo sche { -brand-short-name } è configurà uschia che fastizaders enconuschents vegnan bloccads
@@ -264,10 +261,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tias tschernas da colurs surscrivan l'apparientscha da websites. <a data-l10n-name="colors-link">Administrar las colurs</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Tias tschernas da colurs surscrivan l'apparientscha da websites.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Administrescha ils designs da { -brand-short-name } en <a data-l10n-name="themes-link">Extensiuns e designs</a>
@@ -1394,8 +1387,6 @@ addon-recommendations-link = Ulteriuras infurmaziuns
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Rapports da datas èn deactivads per questa configuraziun da compilaziun
 collection-backlogged-crash-reports-with-link = Permetter a { -brand-short-name } da trametter tes rapports da collaps che spetgan <a data-l10n-name="crash-reports-link">Ulteriuras infurmaziuns</a>
-    .accesskey = c
-collection-backlogged-crash-reports = Permetter a { -brand-short-name } da trametter tes rapports da collaps che spetgan
     .accesskey = c
 privacy-segmentation-section-header = Novas funcziuns che megliereschan tia navigaziun
 privacy-segmentation-section-description = Cura che nus offrin funcziuns che utiliseschan tias datas per ta pussibilitar ina experientscha pli persunala:

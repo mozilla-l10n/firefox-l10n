@@ -9,8 +9,6 @@ crashreporter-plea = Para ajudar a diagnosticar e reparar o problema, você pode
 crashreporter-information = Este aplicativo é executado depois de um travamento para informar o problema para a { -vendor-short-name }. Não deve ser executado diretamente.
 crashreporter-error = O { -brand-short-name } teve um problema e travou. Infelizmente o relator de travamentos não conseguiu enviar um relatório deste travamento.
 crashreporter-error-details-header = Detalhes:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detalhes: { $details }
 crashreporter-no-run-message = Este aplicativo é executado depois de um travamento para informar o problema para o fornecedor do aplicativo. Não deve ser executado diretamente.
 crashreporter-button-details = Detalhes…
 crashreporter-loading-details = Carregando…
@@ -20,8 +18,6 @@ crashreporter-report-info = Este relatório também contém informações técni
 crashreporter-checkbox-test-hardware = Verificar se há problemas de hardware e configuração em meu dispositivo.
 crashreporter-checkbox-send-report = Notificar esta falha à { -vendor-short-name } para poder ser corrigida.
 crashreporter-checkbox-include-url = Incluir o endereço da página em que eu estava.
-crashreporter-send-report = Notificar este travamento à { -vendor-short-name } para que possa ser corrigido.
-crashreporter-include-url = Incluir o endereço da página em que eu estava.
 crashreporter-submit-status = O relatório de travamento será enviado antes de você sair ou reiniciar.
 crashreporter-submit-waiting-hardware-tests = Verificando problemas de hardware e configuração…
 crashreporter-submit-in-progress = Enviando relatório…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Você pode ver detalhes deste travamento em { $url
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Falha ao executar o minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Falha ao abrir arquivo ({ $path })
 # $path (String) - the file path

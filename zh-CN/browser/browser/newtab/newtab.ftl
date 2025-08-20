@@ -318,9 +318,6 @@ newtab-custom-pocket-sponsored = 赞助内容
 newtab-custom-pocket-show-recent-saves = 显示近期保存内容
 newtab-custom-recent-title = 近期动态
 newtab-custom-recent-subtitle = 近期访问的网站与内容精选
-newtab-custom-recent-toggle =
-    .label = 近期动态
-    .description = 近期访问的网站与内容精选
 newtab-custom-weather-toggle =
     .label = 天气
     .description = 速览今日天气预报
@@ -457,7 +454,6 @@ newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = 搜索位置
     .aria-label = 搜索位置
-newtab-weather-change-location-search-input = 搜索位置
 newtab-weather-menu-weather-display = 天气信息显示方式
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -633,7 +629,6 @@ newtab-widget-lists-menu-delete = 删除此列表
 newtab-widget-lists-menu-copy = 复制列表到剪贴板
 newtab-widget-lists-menu-hide = 隐藏所有列表
 newtab-widget-lists-menu-learn-more = 详细了解
-newtab-widget-lists-input-placeholder = 添加项目
 newtab-widget-lists-input-error = 请输入项目名称
 newtab-widget-lists-input-menu-open-link = 打开链接
 newtab-widget-lists-input-menu-move-up = 上移

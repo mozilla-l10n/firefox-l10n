@@ -4,9 +4,6 @@
 
 do-not-track-description = Изпраща на сайтовете сигнал "Не проследявай" - указание, че не желаете да бъдете проследявани.
 do-not-track-removal = Вече не поддържаме сигнала „Без проследяване“.
-do-not-track-description2 =
-    .label = Изпращане на сайтовете заявка „Без проследяване“.
-    .accesskey = д
 do-not-track-learn-more = Научете повече
 do-not-track-option-default-content-blocking-known =
     .label = Само когато { -brand-short-name } е настроен да блокира известни тракери
@@ -264,10 +261,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Избраните от вас цветове променят външния вид на сайта. <a data-l10n-name="colors-link">Управление на цветове</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Избраните от вас цветове променят външния вид на сайта.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Управлявайте темите на { -brand-short-name } в <a data-l10n-name="themes-link">Управление на добавки</a>
@@ -1397,8 +1390,6 @@ addon-recommendations-link = Научете повече
 collection-health-report-disabled = Докладването да данни е изключено за тази конфигурация на изданието
 collection-backlogged-crash-reports-with-link = Разрешава на { -brand-short-name } да изпраща събрани доклади за сривове от ваше име. <a data-l10n-name="crash-reports-link">Научете повече</a>
     .accesskey = щ
-collection-backlogged-crash-reports = Разрешаване на { -brand-short-name } да изпраща събрани доклади за сривове от ваше име
-    .accesskey = д
 privacy-segmentation-section-header = Нови функции, които подобряват вашето сърфиране
 privacy-segmentation-section-description = Когато предлагаме функции, които използват вашите данни, за да ви дадат по-лично изживяване:
 privacy-segmentation-radio-off =

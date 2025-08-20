@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importera från { $prev
 mr1-onboarding-theme-header = Gör den till din egen
 mr1-onboarding-theme-subtitle = Anpassa { -brand-short-name } med ett tema.
 mr1-onboarding-theme-secondary-button-label = Inte nu
-newtab-wallpaper-onboarding-title = Prova en skvätt färg
-newtab-wallpaper-onboarding-subtitle = Välj en bakgrundsbild för att ge din Nya flik ett fräscht utseende.
-newtab-wallpaper-onboarding-primary-button-label = Välj bakgrundsbild
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Systemtema
 mr1-onboarding-theme-label-light = Ljust

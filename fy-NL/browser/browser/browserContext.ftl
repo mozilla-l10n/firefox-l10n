@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Skjinne keppeling kopiearje
     .accesskey = k
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Keppeling sûnder websitetracking kopiearje
-    .accesskey = i
 
 ## Media (video/audio) controls
 ##

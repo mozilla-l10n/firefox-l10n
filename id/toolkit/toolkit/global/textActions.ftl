@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Salin Tautan Bersih
     .accesskey = B
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Salin Tanpa Pelacakan Situs
-    .accesskey = p
 text-action-paste =
     .label = Tempel
     .accesskey = p

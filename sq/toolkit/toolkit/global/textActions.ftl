@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Kopjo Lidhje të Pastër
     .accesskey = K
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Kopjoje Pa Gjurmim Sajti
-    .accesskey = K
 text-action-paste =
     .label = Ngjite
     .accesskey = N

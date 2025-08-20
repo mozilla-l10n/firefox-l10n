@@ -6,8 +6,6 @@ contentanalysis-alert-title = ഉള്ളടക്ക വിശകലനം
 contentanalysis-slow-agent-dialog-header = പരിശോധിക്കൽ നടപ്പിലാണു്
 contentanalysis-operationtype-clipboard = പകർത്തൽപെട്ടി
 contentanalysis-operationtype-print = അച്ചടിപ്പിക്കുക
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = “{ $filename }”-ന്റെ കയറ്റുവയ്ക്കൽ
 contentanalysis-warndialogtitle = ഈ ഉള്ളടക്കം സുരക്ഷിതമല്ലായിരിക്കാം.
 contentanalysis-warndialog-response-allow = ഉള്ളടക്കം ഉപയോഗിക്കുക
 contentanalysis-warndialog-response-deny = റദ്ദാക്കുക

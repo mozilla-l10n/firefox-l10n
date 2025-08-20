@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = העתקת קישור נקי
     .accesskey = נ
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = העתקה ללא מעקב האתר
-    .accesskey = ה
 text-action-paste =
     .label = הדבקה
     .accesskey = ה

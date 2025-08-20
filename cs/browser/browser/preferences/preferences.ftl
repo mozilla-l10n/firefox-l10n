@@ -4,9 +4,6 @@
 
 do-not-track-description = Říci webovým stránkám pomocí signálu Do Not Track, že nechcete být sledováni
 do-not-track-removal = Funkce “Do Not Track” již není podporována
-do-not-track-description2 =
-    .label = Posílat stránkám žádost Do Not Track
-    .accesskey = D
 do-not-track-learn-more = Zjistit více
 do-not-track-option-default-content-blocking-known =
     .label = Jen pokud je zapnuto blokování nalezených sledovacích prvků
@@ -323,10 +320,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vaše nastavení upravuje vzhled stránky. <a data-l10n-name="colors-link">Nastavit barvy</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Vaše nastavení upravuje vzhled stránky.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer =
@@ -1655,12 +1648,6 @@ collection-backlogged-crash-reports-with-link =
     { -brand-short-name.case-status ->
         [with-cases] Odesílat nevyřízená hlášení o pádech { -brand-short-name(case: "gen") } za vás <a data-l10n-name="crash-reports-link">Zjistit více</a>
        *[no-cases] Odesílat nevyřízená hlášení o pádech aplikace za vás <a data-l10n-name="crash-reports-link">Zjistit více</a>
-    }
-    .accesskey = c
-collection-backlogged-crash-reports =
-    { -brand-short-name.case-status ->
-        [with-cases] Odesílat nevyřízená hlášení o pádech { -brand-short-name(case: "gen") } za vás
-       *[no-cases] Odesílat nevyřízená hlášení o pádech aplikace za vás
     }
     .accesskey = c
 privacy-segmentation-section-header = Nové funkce, které zlepšují vaše prohlížení

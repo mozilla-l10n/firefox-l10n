@@ -34,5 +34,3 @@ client-auth-cert-details-issued-by = نێردراوە لەلایەن: { $issuedB
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = هەڵگیراوە لە: { $storedOn }
-client-auth-cert-remember-box =
-    .label = ئەم بڕیارەت لەبیربێت

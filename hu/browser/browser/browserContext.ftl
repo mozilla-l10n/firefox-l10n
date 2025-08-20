@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Tiszta hivatkozás másolása
     .accesskey = m
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Hivatkozás másolása oldalkövetés nélkül
-    .accesskey = v
 
 ## Media (video/audio) controls
 ##

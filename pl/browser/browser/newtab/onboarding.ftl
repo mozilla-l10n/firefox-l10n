@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importuj z przeglądar
 mr1-onboarding-theme-header = Używaj jej po swojemu
 mr1-onboarding-theme-subtitle = Spersonalizuj { -brand-short-name(case: "acc") } za pomocą motywu.
 mr1-onboarding-theme-secondary-button-label = Nie teraz
-newtab-wallpaper-onboarding-title = Wypróbuj odrobiny koloru
-newtab-wallpaper-onboarding-subtitle = Wybierz tapetę, aby nadać nowej karcie świeży wygląd.
-newtab-wallpaper-onboarding-primary-button-label = Ustaw tapetę
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Motyw systemu
 mr1-onboarding-theme-label-light = Jasny

@@ -23,6 +23,3 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = Nun anovar
     .accesskey = v
-password-manager-toggle-password =
-    .label = Amosar la contraseña
-    .accesskey = a

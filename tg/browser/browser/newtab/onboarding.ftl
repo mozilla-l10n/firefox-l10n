@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Ворид кардан
 mr1-onboarding-theme-header = Соҳиби он шавед
 mr1-onboarding-theme-subtitle = Намуди зоҳирии «{ -brand-short-name }»-ро бо мавзуи дилхоҳ иваз намоед.
 mr1-onboarding-theme-secondary-button-label = Ҳоло не
-newtab-wallpaper-onboarding-title = Чакраҳои рангро кӯшиш намоед
-newtab-wallpaper-onboarding-subtitle = Барои танзими нигоҳи нав барои Варақаи нави шумо, тасвири заминаеро интихоб намоед.
-newtab-wallpaper-onboarding-primary-button-label = Танзими тасвири замина
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Мавзуи низомӣ
 mr1-onboarding-theme-label-light = Равшан

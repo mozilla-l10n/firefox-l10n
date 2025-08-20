@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Tuo selaimesta { $previ
 mr1-onboarding-theme-header = Omalla tyylillä
 mr1-onboarding-theme-subtitle = Valitse { -brand-short-name }-teema makusi mukaan.
 mr1-onboarding-theme-secondary-button-label = Ei nyt
-newtab-wallpaper-onboarding-title = Lisää ripaus väriä
-newtab-wallpaper-onboarding-subtitle = Valitse taustakuva, joka antaa uudelle välilehdelle raikkaan ilmeen.
-newtab-wallpaper-onboarding-primary-button-label = Aseta taustakuva
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Järjestelmän teema
 mr1-onboarding-theme-label-light = Vaalea

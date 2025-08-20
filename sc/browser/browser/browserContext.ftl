@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Còpia ligòngiu lìmpiu
     .accesskey = u
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Còpia su ligòngiu chena sighiduras de su situ
-    .accesskey = i
 
 ## Media (video/audio) controls
 ##

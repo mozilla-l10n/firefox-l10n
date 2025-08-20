@@ -382,7 +382,6 @@ quickactions-cmd-print = inprimatu
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Gorde orria PDF gisa
 quickactions-cmd-savepdf2 = pdf, gorde orria
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Ireki leiho pribatua
 quickactions-cmd-private = nabigatze pribatua

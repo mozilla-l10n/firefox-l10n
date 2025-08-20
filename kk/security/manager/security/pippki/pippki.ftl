@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Тұрақты
 client-auth-cert-remember-temporarily =
     .label = Бұл сессия үшін
-client-auth-cert-remember-box =
-    .label = Осы таңдауымды есте сақтау
 
 ## Set password (p12) dialog
 

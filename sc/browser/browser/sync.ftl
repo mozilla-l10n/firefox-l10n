@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Imbia deretu un'ischeda a cale si siat dispositivu connètidu a su contu tuo.
 fxa-menu-sign-out =
     .label = Serra sa sessione…
-fxa-menu-sync-title = Sincronizatzione
 fxa-menu-sync-description = Atzede a su web dae ònnia logu
 sync-setup-verify-continue = Sighi
 sync-setup-verify-title = Avisu de unione

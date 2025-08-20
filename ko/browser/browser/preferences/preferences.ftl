@@ -4,9 +4,6 @@
 
 do-not-track-description = 웹 사이트에 “추적 안 함” 신호를 보내서 추적을 원하지 않는다고 알림
 do-not-track-removal = "추적 안 함" 신호를 더 이상 지원하지 않음
-do-not-track-description2 =
-    .label = 웹 사이트에 “추적 안 함” 요청 보내기
-    .accesskey = d
 do-not-track-learn-more = 더 알아보기
 do-not-track-option-default-content-blocking-known =
     .label = { -brand-short-name }가 알려진 추적기를 차단하도록 설정된 경우에만
@@ -256,10 +253,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 선택한 색상이 웹 사이트 화면 배색보다 우선합니다. <a data-l10n-name="colors-link">색상 관리</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = 선택한 색상이 웹 사이트 화면 배색보다 우선합니다.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = <a data-l10n-name="themes-link">확장 기능 및 테마</a>에서 { -brand-short-name } 테마 관리
@@ -1418,8 +1411,6 @@ addon-recommendations-link = 더 알아보기
 # or builds with no Telemetry support available.
 collection-health-report-disabled = 이 빌드 설정에서는 데이터 보고가 비활성화 되어 있음
 collection-backlogged-crash-reports-with-link = { -brand-short-name }가 사용자를 대신하여 백로그된 충돌 보고서를 보내도록 허용 <a data-l10n-name="crash-reports-link">더 알아보기</a>
-    .accesskey = c
-collection-backlogged-crash-reports = { -brand-short-name }가 사용자를 대신하여 백로그된 충돌 보고서를 보내도록 허용
     .accesskey = c
 privacy-segmentation-section-header = 탐색을 향상시키는 새로운 기능
 privacy-segmentation-section-description = 더 개인적인 경험을 제공하기 위해 사용자의 데이터를 사용하는 기능을 제공하는 경우:

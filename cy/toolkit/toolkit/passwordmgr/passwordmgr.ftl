@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = P
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Dim enw defnyddiwr
-password-manager-toggle-password =
-    .label = Dangos cyfrinair
-    .accesskey = d
 password-manager-confirm-password-change = Cadarnhau Newid Cyfrinair
 password-manager-select-username = Dewis pa fewngofnod i'w ddiweddaru:

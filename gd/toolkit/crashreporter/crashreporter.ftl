@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = 'S urrainn dhut aithisg tuislidh a chur thugainn gus ar cuideachadh le rannsachadh is càradh an duilgheadais.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Mion-fhiosrachadh: { $details }
 crashreporter-no-run-message = Nochdaidh an aplacaid seo an cois tuislidh gus aithisg mun duilgheadas a chur gu reiceadair na h-aplacaid.  Cha bu chòir dhut a thòiseachadh leis fhèin.
 crashreporter-button-details = Mion-fhiosrachadh…
 crashreporter-view-report-title = Susbaint na h-aithisge

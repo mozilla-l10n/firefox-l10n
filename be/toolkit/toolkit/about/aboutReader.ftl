@@ -75,16 +75,6 @@ about-reader-customtheme-tab = Адмыслова
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Тэкст
-    .title = Змяніць колер
-about-reader-custom-colors-background = Фон
-    .title = Змяніць колер
-about-reader-custom-colors-unvisited-links = Ненаведаныя спасылкі
-    .title = Змяніць колер
-about-reader-custom-colors-visited-links = Наведаныя спасылкі
-    .title = Змяніць колер
-about-reader-custom-colors-selection-highlight = Падфарбоўка для чытання ўслых
-    .title = Змяніць колер
 about-reader-reset-button = Скінуць да прадвызначаных
 about-reader-custom-colors-foreground2 =
     .label = Тэкст

@@ -314,9 +314,6 @@ newtab-custom-pocket-sponsored = เรื่องราวที่ได้�
 newtab-custom-pocket-show-recent-saves = แสดงบันทึกล่าสุด
 newtab-custom-recent-title = กิจกรรมล่าสุด
 newtab-custom-recent-subtitle = ไซต์และเนื้อหาล่าสุดที่คัดสรรมา
-newtab-custom-recent-toggle =
-    .label = กิจกรรมล่าสุด
-    .description = ไซต์และเนื้อหาล่าสุดที่คัดสรรมา
 newtab-custom-weather-toggle =
     .label = พยากรณ์อากาศ
     .description = ดูพยากรณ์อากาศประจำวันนี้ได้อย่างรวดเร็ว
@@ -440,7 +437,6 @@ newtab-weather-menu-change-location = เปลี่ยนตำแหน่ง
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = ค้นหาตำแหน่งที่ตั้ง
     .aria-label = ค้นหาตำแหน่งที่ตั้ง
-newtab-weather-change-location-search-input = ค้นหาตำแหน่งที่ตั้ง
 newtab-weather-menu-weather-display = การแสดงผลพยากรณ์อากาศ
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

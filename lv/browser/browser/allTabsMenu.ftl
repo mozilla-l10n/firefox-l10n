@@ -12,7 +12,5 @@ all-tabs-menu-hidden-tabs =
 all-tabs-menu-manage-user-context =
     .label = Pārvaldīt konteinerus
     .accesskey = o
-all-tabs-menu-close-duplicate-tabs =
-    .label = Aizvērt dublētās cilnes
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Aizvērt visas dublētās cilnes

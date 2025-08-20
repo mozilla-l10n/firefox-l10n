@@ -82,8 +82,6 @@ client-auth-cert-details-issued-by = Útgefið af: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Geymt á: { $storedOn }
-client-auth-cert-remember-box =
-    .label = Muna eftir þessu vali
 
 ## Set password (p12) dialog
 

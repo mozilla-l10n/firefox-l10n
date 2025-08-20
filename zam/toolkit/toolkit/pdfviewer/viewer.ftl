@@ -28,14 +28,6 @@ pdfjs-tools-button-label = Koo lii chel
 pdfjs-document-properties-button =
     .title = Sá nìe yêtz...
 pdfjs-document-properties-button-label = Sá nìe yêtz...
-# Variables:
-#   $size_kb (Number) - the PDF file size in kilobytes
-#   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
-# Variables:
-#   $size_mb (Number) - the PDF file size in megabytes
-#   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
 
 ##
 

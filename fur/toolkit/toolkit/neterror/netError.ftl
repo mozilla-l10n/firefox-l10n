@@ -81,7 +81,6 @@ neterror-dns-not-found-trr-unknown-problem = Probleme inspietât.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nol rive a protezi la richieste relative ae direzion di chest sît doprant il nestri afidabil servizi di risoluzion dai nons (DNS). Chi al è il motîf:
-neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } nol pues protezi, midiant il nestri servizi sigûr di risoluzion nons (DNS), la richieste relative ae direzion di chest sît. Chest al è il motîf:
 neterror-dns-not-found-native-fallback-heuristic = DNS vie HTTPs al è stât disabilitât te tô rêt.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nol è rivât a conetisi a { $trrDomain }.
 

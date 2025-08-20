@@ -323,9 +323,6 @@ newtab-custom-pocket-sponsored = Sponsore ferhalen
 newtab-custom-pocket-show-recent-saves = Koartlyn bewarre items toane
 newtab-custom-recent-title = Resinte aktiviteit
 newtab-custom-recent-subtitle = In seleksje fan resinte websites en ynhâld
-newtab-custom-recent-toggle =
-    .label = Resinte aktiviteit
-    .description = In seleksje fan resinte websites en ynhâld
 newtab-custom-weather-toggle =
     .label = It waar
     .description = De waarsferwachting fan hjoed yn ien eachopslach
@@ -462,7 +459,6 @@ newtab-weather-menu-change-location = Lokaasje wizigje
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Lokaasje sykje
     .aria-label = Lokaasje sykje
-newtab-weather-change-location-search-input = Lokaasje sykje
 newtab-weather-menu-weather-display = Waarwerjefte
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -641,7 +637,6 @@ newtab-widget-lists-menu-delete = Dizze list fuortsmite?
 newtab-widget-lists-menu-copy = List nei klamboerd kopiearje
 newtab-widget-lists-menu-hide = Alle listen ferstopje
 newtab-widget-lists-menu-learn-more = Mear ynfo
-newtab-widget-lists-input-placeholder = In item tafoegje
 newtab-widget-lists-input-error = Foegje tekst ta om in item ta te foegjen.
 newtab-widget-lists-input-menu-open-link = Keppeling iepenje
 newtab-widget-lists-input-menu-move-up = Omheech ferpleatse
@@ -670,6 +665,7 @@ newtab-widget-timer-menu-notifications = Notifikaasjes útskeakelje
 newtab-widget-timer-menu-notifications-on = Notifikaasjes ynskeakelje
 newtab-widget-timer-menu-hide = Timer ferstopje
 newtab-widget-timer-menu-learn-more = Mear ynfo
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Scrol foar mear
 newtab-promo-card-title = { -brand-product-name } stypje
 newtab-promo-card-body = Us sponsors stypje ús misje om in better web te bouwen

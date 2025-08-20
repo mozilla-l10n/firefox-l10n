@@ -32,7 +32,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Անմիջապես ուղարկեք ներդիր ցանկացած մուտք գործած սարքին։
 fxa-menu-sign-out =
     .label = Դուրս գալ…
-fxa-menu-sync-title = Համաժամեցնել
 fxa-menu-sync-description = Համացանցային հասանելիություն՝ ամեն վայրից
 fxa-avatar-sign-in = Մուտք գործել
 fxa-avatar-sign-up = Գրանցվել

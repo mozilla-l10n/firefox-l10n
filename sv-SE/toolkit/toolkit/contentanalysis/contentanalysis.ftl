@@ -37,8 +37,6 @@ contentanalysis-operationtype-print = skriva ut
 contentanalysis-upload-description = uppladdning av "{ $filename }"
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = nedladdning av "{ $filename }"
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = uppladdning av "{ $filename }"
 contentanalysis-warndialogtitle = Det här innehållet kan vara osäkert
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Copie colegament net
     .accesskey = u
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Copie il colegament cence spiis dal sît
-    .accesskey = y
 
 ## Media (video/audio) controls
 ##

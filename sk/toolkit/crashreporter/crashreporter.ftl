@@ -9,8 +9,6 @@ crashreporter-plea = Ak nám chcete pomôcť diagnostikovať a vyriešiť probl�
 crashreporter-information = Táto aplikácia sa spúšťa po zlyhaní za účelom nahlásenia problému { -vendor-short-name(case: "dat") }. Nemala by sa spúšťať priamo.
 crashreporter-error = { -brand-short-name } sa stretol s neočakávaným problémom a zlyhal. Funkcia Oznamovateľ zlyhania bohužiaľ nemohla odoslať správu o tejto chybe.
 crashreporter-error-details-header = Podrobnosti:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Podrobnosti: { $details }
 crashreporter-no-run-message = Táto aplikácia sa spúšťa po zlyhaní za účelom hlásenia problému vydavateľovi aplikácie. Nemala by sa spúšťať priamo.
 crashreporter-button-details = Podrobnosti…
 crashreporter-loading-details = Načítava sa…
@@ -20,8 +18,6 @@ crashreporter-report-info = Táto správa obsahuje aj technické údaje o stave 
 crashreporter-checkbox-test-hardware = Skontrolovať problémy s hardvérom a konfiguráciou na mojom zariadení.
 crashreporter-checkbox-send-report = Oznámiť { -vendor-short-name(case: "dat") } toto zlyhanie, aby bolo možné problém odstrániť
 crashreporter-checkbox-include-url = Zahrnúť adresu stránky, ktorú som prehliadal pri zlyhaní.
-crashreporter-send-report = Oznámiť { -vendor-short-name(case: "dat") } toto zlyhanie, aby bolo možné problém odstrániť
-crashreporter-include-url = Zahrnúť adresu stránky, ktorú som prehliadal pri zlyhaní.
 crashreporter-submit-status = Správa o zlyhaní bude odoslaná pred reštartom alebo ukončením aplikácie.
 crashreporter-submit-waiting-hardware-tests = Kontrolujú sa problémy s hardvérom a konfiguráciou…
 crashreporter-submit-in-progress = Odosiela sa…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Podrobnosti o zlyhaní si môžete pozrieť na str
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Nepodarilo sa spustiť minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Nepodarilo sa otvoriť súbor ({ $path })
 # $path (String) - the file path

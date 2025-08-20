@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = رونوشت پیوند تمیز
     .accesskey = ر
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = رونوشت بدون ردیابی وبگاه
-    .accesskey = ر
 text-action-paste =
     .label = چسباندن
     .accesskey = چ

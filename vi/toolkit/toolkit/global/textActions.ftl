@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Sao chép liên kết sạch
     .accesskey = n
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Sao chép (không tham số theo dõi)
-    .accesskey = n
 text-action-paste =
     .label = Dán
     .accesskey = P

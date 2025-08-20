@@ -77,8 +77,6 @@ client-auth-cert-details-issued-by = Foillsichte le: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = ’Ga chumail air: { $storedOn }
-client-auth-cert-remember-box =
-    .label = Cuimhnich an co-dhùnadh seo
 
 ## Set password (p12) dialog
 

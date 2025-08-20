@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = E
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Ekkert notandanafn
-password-manager-toggle-password =
-    .label = Sýna lykilorð
-    .accesskey = ð
 password-manager-confirm-password-change = Staðfesta breytt lykilorð
 password-manager-select-username = Veldu hvaða innskráningu á að uppfæra:

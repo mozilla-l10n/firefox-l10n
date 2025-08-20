@@ -34,7 +34,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Мгновенно отправляйте вкладку на любое привязанное устройство.
 fxa-menu-sign-out =
     .label = Выйти…
-fxa-menu-sync-title = Синхронизация
 fxa-menu-sync-description = Доступ к Интернету из любого места
 fxa-avatar-sign-in = Войти
 fxa-avatar-sign-up = Зарегистрироваться

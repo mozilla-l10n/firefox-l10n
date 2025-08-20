@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Afrita hreinan tengil
     .accesskey = n
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Afrita án vefsvæðarakningar
-    .accesskey = n
 text-action-paste =
     .label = Líma
     .accesskey = L

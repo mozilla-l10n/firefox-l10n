@@ -317,9 +317,6 @@ newtab-custom-pocket-sponsored = סיפורים ממומנים
 newtab-custom-pocket-show-recent-saves = הצגת שמירות אחרונות
 newtab-custom-recent-title = פעילות אחרונה
 newtab-custom-recent-subtitle = מבחר של אתרים ותכנים אחרונים
-newtab-custom-recent-toggle =
-    .label = פעילות אחרונה
-    .description = מבחר של אתרים ותכנים אחרונים
 newtab-custom-weather-toggle =
     .label = מזג אוויר
     .description = התחזית של היום
@@ -456,7 +453,6 @@ newtab-weather-menu-change-location = שינוי מקום
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = חיפוש מקום
     .aria-label = חיפוש מקום
-newtab-weather-change-location-search-input = חיפוש מקום
 newtab-weather-menu-weather-display = תצוגת מזג אוויר
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -635,7 +631,6 @@ newtab-widget-lists-menu-delete = מחיקת רשימה זו
 newtab-widget-lists-menu-copy = העתקת הרשימה ללוח העריכה
 newtab-widget-lists-menu-hide = הסתרת כל הרשימות
 newtab-widget-lists-menu-learn-more = מידע נוסף
-newtab-widget-lists-input-placeholder = הוספת פריט
 newtab-widget-lists-input-error = נא לכלול טקסט כדי להוסיף פריט.
 newtab-widget-lists-input-menu-open-link = פתיחת קישור
 newtab-widget-lists-input-menu-move-up = להזיז מעלה

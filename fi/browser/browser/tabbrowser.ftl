@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Älä näytä tätä ikkunaa uudesta
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Huomio
-tabbrowser-confirm-close-duplicate-tabs-text = Pidämme viimeisen aktiivisen välilehden avoinna
 tabbrowser-confirm-close-all-duplicate-tabs-title = Suljetaanko välilehtien kaksoiskappaleet?
 tabbrowser-confirm-close-all-duplicate-tabs-text =
     Välilehtien kaksoiskappaleet suljetaan tässä ikkunassa. Viimeinen aktiivinen

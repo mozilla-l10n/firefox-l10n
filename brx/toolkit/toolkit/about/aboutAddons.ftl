@@ -245,12 +245,8 @@ details-notification-incompatible2 =
 details-notification-unsigned-and-disabled-link = गोबां फोरमायथिहोग्रा
 details-notification-unsigned-link = गोबां फोरमायथिहोग्रा
 details-notification-blocked = { $name } खौ रैखाथि एबा दिदोमथि जेंनानि थाखाय लोरबां खालामनाय जाबाय।
-details-notification-blocked2 =
-    .message = { $name } खौ रैखाथि एबा दिदोमथि जेंनानि थाखाय लोरबां खालामनाय जाबाय।
 details-notification-blocked-link = गोबां फोरमायथिहोग्रा
 details-notification-softblocked = { $name } खौ रैखाथि एबा दिदोमथि जेंनानि थाखाय मोनथिजायो।
-details-notification-softblocked2 =
-    .message = { $name } खौ रैखाथि एबा दिदोमथि जेंनानि थाखाय मोनथिजायो।
 details-notification-softblocked-link = गोबां फोरमायथिहोग्रा
 
 ## Gecko Media Plugins (GMPs)

@@ -29,8 +29,6 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } กำลังตร�
 contentanalysis-operationtype-clipboard = คลิปบอร์ด
 contentanalysis-operationtype-dropped-text = ข้อความที่ปล่อย
 contentanalysis-operationtype-print = พิมพ์
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = การอัปโหลด “{ $filename }”
 contentanalysis-warndialogtitle = เนื้อหานี้อาจไม่ปลอดภัย
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

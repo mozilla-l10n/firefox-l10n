@@ -29,8 +29,6 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } sedang meninjau hasil 
 contentanalysis-operationtype-clipboard = papan klip
 contentanalysis-operationtype-dropped-text = teks yang diletakkan
 contentanalysis-operationtype-print = cetak
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = unggahan “{ $filename }”
 contentanalysis-warndialogtitle = Konten ini mungkin tidak aman
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

@@ -401,7 +401,6 @@ quickactions-cmd-print = tlačiť
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Uložiť stránku ako PDF
 quickactions-cmd-savepdf2 = pdf, uložiť stránku
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otvoriť Súkromné okno
 quickactions-cmd-private = súkromné prehliadanie

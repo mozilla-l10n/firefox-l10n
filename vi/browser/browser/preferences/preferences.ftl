@@ -4,9 +4,6 @@
 
 do-not-track-description = Gửi tín hiệu “Không theo dõi” tới trang web để cho biết bạn không muốn bị theo dõi
 do-not-track-removal = Chúng tôi không còn hỗ trợ tín hiệu “Không theo dõi”
-do-not-track-description2 =
-    .label = Gửi yêu cầu “không theo dõi” đến trang web
-    .accesskey = d
 do-not-track-learn-more = Tìm hiểu thêm
 do-not-track-option-default-content-blocking-known =
     .label = Chỉ khi { -brand-short-name } được đặt để chặn trình theo dõi đã biết
@@ -256,10 +253,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Các lựa chọn màu sắc của bạn đang ghi đè diện mạo trang web. <a data-l10n-name="colors-link">Quản lý màu</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Các lựa chọn màu sắc của bạn đang ghi đè diện mạo trang web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Quản lý chủ đề { -brand-short-name } trong <a data-l10n-name="themes-link">Tiện ích mở rộng & chủ đề</a>
@@ -1418,8 +1411,6 @@ addon-recommendations-link = Tìm hiểu thêm
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Dữ liệu báo cáo bị vô hiệu hóa với cấu hình này
 collection-backlogged-crash-reports-with-link = Cho phép { -brand-short-name } thay mặt bạn gửi báo cáo sự cố tồn đọng <a data-l10n-name="crash-reports-link">Tìm hiểu thêm</a>
-    .accesskey = c
-collection-backlogged-crash-reports = Cho phép { -brand-short-name } thay mặt bạn gửi báo cáo sự cố tồn đọng
     .accesskey = c
 privacy-segmentation-section-header = Các tính năng mới nâng cao khả năng duyệt web của bạn
 privacy-segmentation-section-description = Khi chúng tôi cung cấp các tính năng sử dụng dữ liệu của bạn để mang lại cho bạn trải nghiệm cá nhân hơn:

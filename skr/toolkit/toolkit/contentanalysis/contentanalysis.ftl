@@ -24,8 +24,6 @@ contentanalysis-slow-agent-dialog-body-print = { $agent }اِیں ڳالھ دا 
 contentanalysis-operationtype-clipboard = کلپ بورڈ
 contentanalysis-operationtype-dropped-text = چھوڑیا ڳِیا متن
 contentanalysis-operationtype-print = پرنٹ
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = “{ $filename }” دا اپ لوڈ
 contentanalysis-warndialogtitle = اِیہ مواد غیر محفوظ تھی سڳدا ہِے
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

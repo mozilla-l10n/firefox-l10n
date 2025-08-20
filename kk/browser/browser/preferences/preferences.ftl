@@ -4,9 +4,6 @@
 
 do-not-track-description = Сайттарға "Мені бақыламау" сигналын жіберу арқылы сіз өзіңізді бақыламауды қалайтыныңыз туралы хабарлау
 do-not-track-removal = Біз енді «Мені бақыламау» сигналын қолдамаймыз
-do-not-track-description2 =
-    .label = Веб-сайттарға "Мені бақыламау" сұранымын жіберу
-    .accesskey = л
 do-not-track-learn-more = Көбірек білу
 do-not-track-option-default-content-blocking-known =
     .label = Тек { -brand-short-name } белгілі трекерлерді бұғаттауға бапталғанда
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Сіздің түс таңдауларыңыз веб-сайттың сыртқы көрінісін үстінен басады. <a data-l10n-name="colors-link">Түстерді басқару</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Сіздің түс таңдауларыңыз веб-сайттың сыртқы көрінісін үстінен басады.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = { -brand-short-name } темаларын <a data-l10n-name="themes-link">Кеңейтулер және темалар</a> ішінен басқарыңыз
@@ -1407,8 +1400,6 @@ addon-recommendations-link = Көбірек білу
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Деректер есептемесін беру бұл жинақта сөндірілген
 collection-backlogged-crash-reports-with-link = { -brand-short-name } үшін сіздің атыңыздан жиналған құлаулар хабарламаларын жіберуді рұқсат ету <a data-l10n-name="crash-reports-link">Көбірек білу</a>
-    .accesskey = с
-collection-backlogged-crash-reports = { -brand-short-name } үшін сіздің атыңыздан жиналған құлаулар хабарламаларын жіберуді рұқсат ету
     .accesskey = с
 privacy-segmentation-section-header = Шолуыңызды жақсартатын жаңа мүмкіндіктер
 privacy-segmentation-section-description = Сізге жеке тәжірибе беру үшін деректеріңізді пайдаланатын мүмкіндіктерді ұсынғанда:

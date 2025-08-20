@@ -10,8 +10,6 @@ contentanalysis-operationtype-print = siggez
 contentanalysis-upload-description = tuzna n “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = asader n “{ $filename }”
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = tuzna n “{ $filename }”
 contentanalysis-warndialogtitle = Agbur yezmer ad yili d araɣellsan
 contentanalysis-warndialog-response-allow = Seqdec agbur
 contentanalysis-warndialog-response-deny = Sefsex

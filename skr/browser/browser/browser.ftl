@@ -345,7 +345,6 @@ quickactions-print2 = ورقہ پرنٹ کرو
 quickactions-cmd-print = چھاپو
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = ورقہ پی ڈی ایف دے طور تے محفوظ کرو
-quickactions-cmd-savepdf = پی ڈی ایف
 # Opens a new private browsing window
 quickactions-private2 = نجی ونڈو کھولو
 quickactions-cmd-private = نجی براؤزنگ

@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = 關閉
     .aria-label = 關閉
-firefoxview-empty-state-icon =
-    .alt = 注意：
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = 剛剛
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = 繼續
 firefoxview-syncedtabs-signin-header-2 = 在您所有裝置同步 { -brand-product-name }
 firefoxview-syncedtabs-signin-description-2 = 登入或註冊帳號後，即可在您的手機或其他裝置檢視您開啟的分頁。可以使用帳號同步網站密碼、上網紀錄，還有更多功能。
 firefoxview-syncedtabs-signin-primarybutton-2 = 登入
-firefoxview-syncedtabs-signin-header = 取回所有裝置上的分頁
-firefoxview-syncedtabs-signin-description = 登入帳號後，即可看到您所有使用 { -brand-product-name } 的裝置開啟的分頁。若沒有帳號，我們可帶您完成註冊。
-firefoxview-syncedtabs-signin-primarybutton = 登入或註冊
 firefoxview-tabpickup-adddevice-header = 與您的手機或平板電腦同步 { -brand-product-name }
 firefoxview-tabpickup-adddevice-description = 下載 { -brand-product-name } 行動版並在該裝置登入。
 firefoxview-tabpickup-adddevice-learn-how = 了解要怎麼做
 firefoxview-tabpickup-adddevice-primarybutton = 下載 { -brand-product-name } 行動版
 firefoxview-syncedtabs-adddevice-header-2 = 取回所有裝置上的分頁
 firefoxview-syncedtabs-adddevice-description-2 = 在手機或另一台電腦登入 { -brand-product-name } 即可在此看到分頁。了解如何<a data-l10n-name="url">連結其他裝置</a>。
-firefoxview-syncedtabs-adddevice-header = 在您其他裝置上的 { -brand-product-name } 也登入
-firefoxview-syncedtabs-adddevice-description = 請在您所有使用的裝置都登入 { -brand-product-name }，才能看到所有地方開啟的分頁。了解如何<a data-l10n-name="url">連結更多裝置</a>。
 firefoxview-syncedtabs-adddevice-primarybutton = 試用 { -brand-product-name } 行動版
 firefoxview-tabpickup-synctabs-header = 開啟分頁同步
 firefoxview-tabpickup-synctabs-description = 允許 { -brand-short-name } 在不同裝置間分享分頁。
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = 了解要怎麼做
 firefoxview-tabpickup-synctabs-primarybutton = 同步開啟的分頁
 firefoxview-syncedtabs-synctabs-header = 更新同步設定
 firefoxview-syncedtabs-synctabs-description = 需要同步開啟的分頁，才能看到您其他裝置上的分頁。
-firefoxview-syncedtabs-synctabs-checkbox = 允許同步開啟的分頁
 firefoxview-syncedtabs-loading-header = 正在同步
 firefoxview-syncedtabs-loading-description = 同步完成後就會看到您其他裝置上開啟的分頁，請稍候再回來。
 firefoxview-tabpickup-fxa-admin-disabled-header = 您的組織已停用同步功能
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = 最近關閉的分頁
 firefoxview-closed-tabs-description2 = 重新開啟您最近在此視窗關閉的分頁。
 firefoxview-closed-tabs-placeholder-header = 沒有最近關閉的分頁
 firefoxview-closed-tabs-placeholder-body = 當您關閉此視窗中的分頁時，可以在此取回。
-firefoxview-closed-tabs-placeholder-body2 = 當您關閉分頁後，可以在此取回。
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = 視窗 { $winID }（目前視窗）
-firefoxview-opentabs-focus-tab =
-    .title = 切換至此分頁
 firefoxview-show-more = 顯示更多
 firefoxview-show-less = 顯示更少
 firefoxview-show-all = 顯示全部
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = 搜尋分頁
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = 搜尋同步的分頁
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = 搜尋開啟的分頁
@@ -193,10 +179,6 @@ firefoxview-sort-history-by-date-label = 依照日期排序
 firefoxview-sort-history-by-site-label = 依照網站排序
 firefoxview-sort-open-tabs-by-recency-label = 依照近期活動排序
 firefoxview-sort-open-tabs-by-order-label = 依照分頁順序排序
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = 切換到 { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -213,7 +195,6 @@ firefoxview-history-site-localhost = （本機檔案）
 ##
 
 firefoxview-show-all-history = 顯示所有瀏覽記錄
-firefoxview-view-more-browsing-history = 檢視更多瀏覽紀錄
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -229,9 +210,6 @@ firefoxview-choose-browser-button = 選擇瀏覽器
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = 沒有可顯示的項目
-firefoxview-dont-remember-history-empty-description = 保護您的隱私是我們的第一要務。這也是為什麼您可以自行設定要讓 { -brand-short-name } 記得哪些瀏覽行為。
-firefoxview-dont-remember-history-empty-description-two = 依照您目前的設定，{ -brand-short-name } 不會記得您的上網行為。要改變此設定，<a data-l10n-name="history-settings-url-two">請將設定調整為要記得您的瀏覽紀錄</a>。
 firefoxview-dont-remember-history-empty-header-2 = 您可以自行掌控 { -brand-short-name } 要記得哪些資訊
 firefoxview-dont-remember-history-empty-description-one = 目前 { -brand-short-name } 不會記憶您的上網行為，若要調整這個行為，請<a data-l10n-name="history-settings-url-two">更改瀏覽紀錄設定</a>。
 

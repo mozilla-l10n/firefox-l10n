@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Itxi
     .aria-label = Itxi
-firefoxview-empty-state-icon =
-    .alt = Adi:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Oraintxe bertan
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -34,16 +32,11 @@ firefoxview-tabpickup-step-signin-description = Zure telefonoko fitxak hemen iza
 firefoxview-tabpickup-step-signin-primarybutton = Jarraitu
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } zure gailu guztietan
 firefoxview-syncedtabs-signin-primarybutton-2 = Hasi saioa
-firefoxview-syncedtabs-signin-header = Hartu fitxak edonondik
-firefoxview-syncedtabs-signin-description = { -brand-product-name } erabiltzen duzun gailu guztietako fitxak ikusteko, hasi saioa zure kontuan. Konturik ez badaukazu, izen-emateko urratsak erakutsiko dizkizugu.
-firefoxview-syncedtabs-signin-primarybutton = Hasi saioa edo eman izena
 firefoxview-tabpickup-adddevice-header = Sinkronizatu { -brand-product-name } zure telefono edo tabletan
 firefoxview-tabpickup-adddevice-description = Deskargatu mugikorrerako { -brand-product-name } eta hasi saioa bertan.
 firefoxview-tabpickup-adddevice-learn-how = Ikasi nola
 firefoxview-tabpickup-adddevice-primarybutton = Eskuratu mugikorrerako { -brand-product-name }
 firefoxview-syncedtabs-adddevice-header-2 = Hartu fitxak edonondik
-firefoxview-syncedtabs-adddevice-header = Hasi saioa { -brand-product-name }(e)n zure beste gailuetan
-firefoxview-syncedtabs-adddevice-description = { -brand-product-name } erabiltzen duzun gailu guztietako fitxak ikusteko, hasi saioa gailu guztietan. Ikasi nola <a data-l10n-name="url">konektatu gailu gehiago</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Probatu mugikorrerako { -brand-product-name }
 firefoxview-tabpickup-synctabs-header = Gaitu fitxen sinkronizazioa
 firefoxview-tabpickup-synctabs-description = Baimendu { -brand-short-name }(r)i gailuen artean fitxak partekatzea.
@@ -51,7 +44,6 @@ firefoxview-tabpickup-synctabs-learn-how = Ikasi nola
 firefoxview-tabpickup-synctabs-primarybutton = Sinkronizatu irekitako fitxak
 firefoxview-syncedtabs-synctabs-header = Eguneratu zure sinkronizazio-ezarpenak
 firefoxview-syncedtabs-synctabs-description = Beste gailuetako fitxak ikusteko, irekitako fitxak sinkronizatu behar dituzu.
-firefoxview-syncedtabs-synctabs-checkbox = Baimendu irekitako fitxak sinkronizatzea
 firefoxview-syncedtabs-loading-header = Sinkronizatzen ari da
 firefoxview-syncedtabs-loading-description = Amaitutakoan, beste gailuetan irekita dituzun fitxak ikusiko dituzu. Itzuli geroago.
 firefoxview-tabpickup-fxa-admin-disabled-header = Zure erakundeak sinkronizazioa desgaitu du
@@ -85,7 +77,6 @@ firefoxview-closed-tabs-title = Itxitako azkenak
 firefoxview-closed-tabs-description2 = Berrireki leiho honetan itxi dituzun orriak.
 firefoxview-closed-tabs-placeholder-header = Itxitako azken fitxarik ez
 firefoxview-closed-tabs-placeholder-body = Leiho honetan fitxa bat ixtean, hemendik eskura dezakezu.
-firefoxview-closed-tabs-placeholder-body2 = Fitxa bat ixtean, hemendik eskura dezakezu.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -151,8 +142,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = { $winID } leihoa (unekoa)
-firefoxview-opentabs-focus-tab =
-    .title = Aldatu fitxa honetara
 firefoxview-show-more = Erakutsi gehiago
 firefoxview-show-less = Erakutsi gutxiago
 firefoxview-show-all = Erakutsi denak
@@ -170,9 +159,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Bilatu fitxak
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Bilatu sinkronizatutako fitxak
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Bilatu irekitako fitxak
@@ -195,10 +181,6 @@ firefoxview-sort-history-by-date-label = Ordenatu dataren arabera
 firefoxview-sort-history-by-site-label = Ordenatu gunearen arabera
 firefoxview-sort-open-tabs-by-recency-label = Ordenatu azken jardueraren arabera
 firefoxview-sort-open-tabs-by-order-label = Ordenatu fitxen ordenaren arabera
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Aldatu { $url } helbidera
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -215,7 +197,6 @@ firefoxview-history-site-localhost = (fitxategi lokalak)
 ##
 
 firefoxview-show-all-history = Erakutsi historia guztia
-firefoxview-view-more-browsing-history = Ikusi nabigatze-historia gehiago
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -227,10 +208,6 @@ firefoxview-history-empty-description = Nabigatu ahala, bisitatzen dituzun orria
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = Aukeratu nabigatzailea
     .title = Aukeratu nabigatzailea
-
-## Message displayed in Firefox View when the user has chosen to never remember History
-
-firefoxview-dont-remember-history-empty-header = Erakusteko ezer ez
 
 ##
 

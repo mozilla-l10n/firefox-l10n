@@ -19,8 +19,5 @@ password-manager-update-password-button-deny =
     .accesskey = S
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nitaj si yugui usuario hua ma
-password-manager-toggle-password =
-    .label = Digun' da´nga
-    .accesskey = h
 password-manager-confirm-password-change = Nagi'ian hiá si nadunát da'nga huiij
 password-manager-select-username = Guru'man ra'a riña gayi'ì sesiôn da' nahuin nakà:

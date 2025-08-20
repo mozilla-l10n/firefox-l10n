@@ -81,7 +81,6 @@ neterror-dns-not-found-trr-unknown-problem = 未知问题。
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } 无法通过可信 DNS 解析器保护您对本网址的请求。原因如下：
-neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } 无法通过我们的安全 DNS 提供方来保护您对此网址的请求。原因如下：
 neterror-dns-not-found-native-fallback-heuristic = 您的网络已禁用基于 HTTPS 的 DNS。
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } 无法连接至 { $trrDomain }。
 

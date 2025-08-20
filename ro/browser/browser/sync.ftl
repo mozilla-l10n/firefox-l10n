@@ -34,7 +34,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Trimite o filă instantaneu pe orice dispozitiv pe care ești autentificat în cont.
 fxa-menu-sign-out =
     .label = Deconectează-te…
-fxa-menu-sync-title = Sincronizare
 fxa-menu-sync-description = Intră pe web de oriunde
 fxa-avatar-sign-in = Intră în cont
 fxa-avatar-sign-up = Fă-ți un cont

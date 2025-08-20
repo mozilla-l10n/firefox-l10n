@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Zacyniś
     .aria-label = Zacyniś
-firefoxview-empty-state-icon =
-    .alt = Glědajśo:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Rowno
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Dalej
 firefoxview-syncedtabs-signin-header-2 = Waš { -brand-product-name } na wšych wašych rědach
 firefoxview-syncedtabs-signin-description-2 = Aby swóje wócynjone rejtariki na swójom telefonje a drugich rědach wiźeł, pśizjawśo se abo registrěrujśo se za konto. Z kontom móžośo teke swóje gronidła, swóju historiju a wěcej synchronizěrowaś.
 firefoxview-syncedtabs-signin-primarybutton-2 = Pśizjawiś
-firefoxview-syncedtabs-signin-header = Wobstarajśo se rejtariki wóte wšuźi
-firefoxview-syncedtabs-signin-description = Aby swóje rejtariki wšuźi wiźeł, źož { -brand-product-name } wužywaśo, pśizjawśo se pla swójogo konta. Jolic konto njamaśo, pśewóźijomy was pśez kšace registracije.
-firefoxview-syncedtabs-signin-primarybutton = Pśizjawiś abo registrěrowaś
 firefoxview-tabpickup-adddevice-header = Synchronizěrujśo { -brand-product-name } na swójom telefonje abo tableśe
 firefoxview-tabpickup-adddevice-description = Ześěgniśo { -brand-product-name } za mobilne rědy a pśizjawśo se tam.
 firefoxview-tabpickup-adddevice-learn-how = Zgóńśo kak
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobilny rěd wobstaraś
 firefoxview-syncedtabs-adddevice-header-2 = Wobstarajśo se rejtariki wóte wšuźi
 firefoxview-syncedtabs-adddevice-description-2 = Pśizjawśo pla { -brand-product-name } na swójom telefonje abo drugem licadle, aby rejtariki how wiźeł. Zgóńśo, kak móžośo <a data-l10n-name="url">pśidatne rědy zwězaś</a>.
-firefoxview-syncedtabs-adddevice-header = Pśizjawśo se pla { -brand-product-name } na swójich drugich rědach
-firefoxview-syncedtabs-adddevice-description = Aby swóje rejtariki wšuźi wiźeł, źož { -brand-product-name } wužywaśo, pśizjawśo se na wšych swójich rědach. Zgóńśo, kak móžośo z <a data-l10n-name="url">pśidatnymi rědami zwězaś</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wopytajśo { -brand-product-name } za mobilny rěd
 firefoxview-tabpickup-synctabs-header = Synchronizaciju rejtarikow zmóžniś
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowóliś, rejtariki mjazy rědami źěliś.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Zgóńśo kak
 firefoxview-tabpickup-synctabs-primarybutton = Wócynjone rejtariki synchronizěrowaś
 firefoxview-syncedtabs-synctabs-header = Aktualizěrujśo swóje synchronizaciske nastajenja
 firefoxview-syncedtabs-synctabs-description = Aby rejtariki z drugich rědow wiźeł, musyśo swóje wócynjone rejtariki synchronizěrowaś.
-firefoxview-syncedtabs-synctabs-checkbox = Synchronizaciju wócynjonych rejtarikow dowoliś
 firefoxview-syncedtabs-loading-header = Synchronizěrujo se
 firefoxview-syncedtabs-loading-description = Gaž to jo dokóńcone, buźośo rejtariki wiźeś, kótarež su na drugich rědach wócynjone. Pśiźćo skóro mimo.
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija jo znjemóžniła synchronizaciju
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Njedawno zacynjone
 firefoxview-closed-tabs-description2 = Wócyńśo boki znowego, kótarež sćo zacynił w toś tom woknje.
 firefoxview-closed-tabs-placeholder-header = Žedne rowno zacynjone rejtariki
 firefoxview-closed-tabs-placeholder-body = Gaž w toś tom woknje rejtarik zacynjaśo, móžośo jen wót how wuwołaś.
-firefoxview-closed-tabs-placeholder-body2 = Gaž rejtarik zacynjaśo, móžośo jen wót how wuwołaś.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Wokno { $winID } (aktualne)
-firefoxview-opentabs-focus-tab =
-    .title = K toś tomu rejtarikoju pśejś
 firefoxview-show-more = Wěcej pokazaś
 firefoxview-show-less = Mjenjej pokazaś
 firefoxview-show-all = Wšykne pokazaś
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Rejtariki pśepytaś
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Synchronizěrowane rejtariki pytaś
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Wócynjone rejtariki pytaś
@@ -199,10 +185,6 @@ firefoxview-sort-history-by-date-label = Pó datumje sortěrowaś
 firefoxview-sort-history-by-site-label = Pó sedle sortěrowaś
 firefoxview-sort-open-tabs-by-recency-label = Pó nejnowšej aktiwiśe sortěrowaś
 firefoxview-sort-open-tabs-by-order-label = Pó pórěźe rejtarikow sortěrowaś
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = K { $url } pśejś
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -219,7 +201,6 @@ firefoxview-history-site-localhost = (lokalne dataje)
 ##
 
 firefoxview-show-all-history = Wšu historiju pokazaś
-firefoxview-view-more-browsing-history = Dalšnu pśeglědowańsku historiju pokazaś
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -235,9 +216,6 @@ firefoxview-choose-browser-button = Wubjeŕśo wobglědowak
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Njedajo nic, až dajo se pokazaś
-firefoxview-dont-remember-history-empty-description = Šćit wašeje priwatnosći jo naša wutšobina pótrjebnosć. Togodla móžośo aktiwitu wóźiś,  na kótaruž se { -brand-short-name } dopomina.
-firefoxview-dont-remember-history-empty-description-two = Na zakłaźe wašych aktualnych nastajenjow se { -brand-short-name } na wašu aktiwitu njedopomina, gaž pśeglědujośo. Aby to změnił, <a data-l10n-name="history-settings-url-two">změńśo swóje nastajenja historije, aby se waša historija spomnjeła</a>.
 firefoxview-dont-remember-history-empty-header-2 = Maśo kontrolu wó tom, což se { -brand-short-name } markujo
 firefoxview-dont-remember-history-empty-description-one = Tuchylu se { -brand-short-name } wašu pśeglědowańsku aktiwitu njemarkujo. Aby to změnił, <a data-l10n-name="history-settings-url-two">aktualizěrujśo nastajenja swójeje historije</a>.
 

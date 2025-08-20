@@ -281,7 +281,6 @@ quickactions-print2 = Drukāt lapu
 quickactions-cmd-print = drukāt
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Saglabāt lapu kā PDF
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Atvērt privāto logu
 quickactions-cmd-private = privātā pārlūkošana

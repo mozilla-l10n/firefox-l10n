@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = u
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nema korisničkog imena
-password-manager-toggle-password =
-    .label = Prikaži lozinku
-    .accesskey = h
 password-manager-confirm-password-change = Potvrdi promjenu lozinke
 password-manager-select-username = Izaberite prijavu koju želite ažurirati:

@@ -16,8 +16,5 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = వాడుకరి పేరు లేదు
-password-manager-toggle-password =
-    .label = సంకేతపదాన్ని చూపించు
-    .accesskey = h
 password-manager-confirm-password-change = సంకేతపదం మార్పునిశ్చంయమైంది
 password-manager-select-username = తాజాకరించాల్సిన ప్రవేశాన్ని ఎంచుకోండి:

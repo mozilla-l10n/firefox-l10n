@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = ניתן לשלוח לשוניות לכל מכשיר בו נכנסת לחשבונך.
 fxa-menu-sign-out =
     .label = התנתקות…
-fxa-menu-sync-title = סנכרון
 fxa-menu-sync-description = גישה לאינטרנט שלך מכל מקום
 fxa-avatar-sign-in = כניסה
 fxa-avatar-sign-up = הרשמה

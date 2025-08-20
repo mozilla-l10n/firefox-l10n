@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = പ
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = ഉപയോക്തൃനാമമില്ല
-password-manager-toggle-password =
-    .label = ഒളിവാക്കു് കാണിക്കുക
-    .accesskey = ക
 password-manager-confirm-password-change = ഒളിവാക്കുമാറ്റം തീര്‍ച്ചപ്പെടുത്തുക
 password-manager-select-username = ഏത് പ്രവേശനം ആണ് പുതുക്കേണ്ടത് എന്ന് തെരഞ്ഞെടുക്കുക:

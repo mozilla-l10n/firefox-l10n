@@ -37,8 +37,6 @@ contentanalysis-operationtype-print = Mbokuatia
 contentanalysis-upload-description = “{ $filename }” ñemyanyhẽ
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = “{ $filename }” ñemboguejy
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = “{ $filename }” ñemyanyhẽ
 contentanalysis-warndialogtitle = Ko tetepy ikatu nahekorosãi
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

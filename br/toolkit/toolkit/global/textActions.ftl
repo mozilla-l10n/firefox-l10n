@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Eilañ an ere naet
     .accesskey = i
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Eilañ an ere hep an heulierien
-    .accesskey = n
 text-action-paste =
     .label = Pegañ
     .accesskey = P

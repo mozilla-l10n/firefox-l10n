@@ -37,7 +37,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Anfon tab ar unwaith i unrhyw ddyfais rydych wedi mewngofnodi arni.
 fxa-menu-sign-out =
     .label = Allgofnodi…
-fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Cael mynediad i'ch gwe yn unrhyw le
 fxa-avatar-sign-in = Mewngofnodi
 fxa-avatar-sign-up = Ymuno

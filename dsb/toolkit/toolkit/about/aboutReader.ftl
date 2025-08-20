@@ -76,16 +76,6 @@ about-reader-customtheme-tab = Swójski
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Tekst
-    .title = Barwu wobźěłaś
-about-reader-custom-colors-background = Slězyna
-    .title = Barwu wobźěłaś
-about-reader-custom-colors-unvisited-links = Njewoglědane wótkaze
-    .title = Barwu wobźěłaś
-about-reader-custom-colors-visited-links = Woglědane wótkaze
-    .title = Barwu wobźěłaś
-about-reader-custom-colors-selection-highlight = Tekstowy marker za głosnje cytaś
-    .title = Barwu wobźěłaś
 about-reader-reset-button = Na standard slědk stajiś
 about-reader-custom-colors-foreground2 =
     .label = Tekst

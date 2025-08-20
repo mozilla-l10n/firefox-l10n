@@ -255,7 +255,6 @@ quickactions-print2 = I-print ang pahina
 quickactions-cmd-print = i-print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = I-save ang pahina bilang PDF
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Magbukas ng pribadong window
 quickactions-cmd-private = pribadong pagba-browse

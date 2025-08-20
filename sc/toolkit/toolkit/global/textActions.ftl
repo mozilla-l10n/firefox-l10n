@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Còpia ligòngiu lìmpiu
     .accesskey = l
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Còpia su ligòngiu chena sighiduras de su situ
-    .accesskey = s
 text-action-paste =
     .label = Incolla
     .accesskey = I

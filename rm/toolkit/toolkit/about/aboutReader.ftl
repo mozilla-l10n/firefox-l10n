@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Persunalisà
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Text
-    .title = Midar la colur
-about-reader-custom-colors-background = Fund davos
-    .title = Midar la colur
-about-reader-custom-colors-unvisited-links = Colliaziuns betg visitadas
-    .title = Midar la colur
-about-reader-custom-colors-visited-links = Colliaziuns visitadas
-    .title = Midar la colur
-about-reader-custom-colors-selection-highlight = Emfasa per preleger dad aut
-    .title = Midar la colur
 about-reader-reset-button = Restabilir il standard
 about-reader-custom-colors-foreground2 =
     .label = Text

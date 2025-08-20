@@ -66,8 +66,6 @@ client-auth-cert-details-issued-by = के द्वारा दिया ग�
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = पर भंडारित: { $storedOn }
-client-auth-cert-remember-box =
-    .label = यह निर्णय याद रखें
 
 ## Set password (p12) dialog
 

@@ -4,9 +4,6 @@
 
 do-not-track-description = Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” sinyalini gönder
 do-not-track-removal = Artık “Do Not Track” sinyalini desteklemiyoruz
-do-not-track-description2 =
-    .label = Web sitelerine “Do Not Track” isteği gönder
-    .accesskey = d
 do-not-track-learn-more = Daha fazla bilgi al
 do-not-track-option-default-content-blocking-known =
     .label = Yalnızca { -brand-short-name } bilinen takip kodlarını engellemeye ayarlandığında
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Renk seçimleriniz web sitesi görünümünü geçersiz kılıyor. <a data-l10n-name="colors-link">Renkleri yönet</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Renk seçimleriniz web sitesi görünümünü geçersiz kılıyor.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = { -brand-short-name } temalarını <a data-l10n-name="themes-link">Uzantılar ve Temalar</a> sayfasından yönetebilirsiniz.
@@ -1434,8 +1427,6 @@ addon-recommendations-link = Daha fazla bilgi al
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
 collection-backlogged-crash-reports-with-link = { -brand-short-name } geriye dönük çökme raporlarını benim adıma gönderebilir <a data-l10n-name="crash-reports-link">Daha fazla bilgi al</a>
-    .accesskey = d
-collection-backlogged-crash-reports = { -brand-short-name } geriye dönük çökme raporlarını benim adıma gönderebilir
     .accesskey = d
 privacy-segmentation-section-header = Gezintinizi iyileştiren yeni özellikler
 privacy-segmentation-section-description = Size daha kişisel bir deneyim sunmak için verilerinizi kullanan özellikler sunduğumuzda:

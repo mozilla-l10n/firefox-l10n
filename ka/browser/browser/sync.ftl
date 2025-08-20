@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = გაგზავნეთ ჩანართი მყისიერად ნებისმიერ მოწყობილობაზე, რომელზეც შესული ხართ.
 fxa-menu-sign-out =
     .label = გამოსვლა…
-fxa-menu-sync-title = დასინქ.
 fxa-menu-sync-description = თქვენი ვებსივრცე ყველგან
 fxa-avatar-sign-in = შესვლა
 fxa-avatar-sign-up = შექმნა

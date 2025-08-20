@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Fechar
     .aria-label = Fechar
-firefoxview-empty-state-icon =
-    .alt = Atenção:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Agora mesmo
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header-2 = O seu { -brand-product-name } em todos os seus dispositivos
 firefoxview-syncedtabs-signin-description-2 = Para ver os separadores que tem abertos no seu telemóvel e outros dispositivos, inicie sessão ou registe-se para uma conta. Com uma conta, pode também sincronizar as suas palavras-passe, histórico e muito mais.
 firefoxview-syncedtabs-signin-primarybutton-2 = Iniciar sessão
-firefoxview-syncedtabs-signin-header = Obtém separadores de qualquer sítio
-firefoxview-syncedtabs-signin-description = Para ver os seus separadores onde quer que utilize o { -brand-product-name }, inicie sessão na sua conta. Se não tiver uma conta, iremos indicar os passos para se registar.
-firefoxview-syncedtabs-signin-primarybutton = Iniciar sessão ou registar
 firefoxview-tabpickup-adddevice-header = Sincronize o { -brand-product-name } no seu telemóvel ou tablet
 firefoxview-tabpickup-adddevice-description = Transfira o { -brand-product-name } para dispositivos móveis e inicie sessão no mesmo.
 firefoxview-tabpickup-adddevice-learn-how = Saber mais
 firefoxview-tabpickup-adddevice-primarybutton = Obtenha o { -brand-product-name } para dispositivos móveis.
 firefoxview-syncedtabs-adddevice-header-2 = Obtenha separadores a partir de qualquer sítio
 firefoxview-syncedtabs-adddevice-description-2 = Inicie sessão no { -brand-product-name } no seu telefone ou outro computador para ver os separadores aqui. Aprenda como <a data-l10n-name="url">associar dispositivos adicionais</a>.
-firefoxview-syncedtabs-adddevice-header = Iniciar sessão no { -brand-product-name } nos seus outros dispositivos
-firefoxview-syncedtabs-adddevice-description = Para ver os seus separadores onde quer que utilize o { -brand-product-name }, inicie sessão em todos os seus dispositivos. Saiba como <a data-l10n-name="url">associar dispositivos adicionais</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Experimente o { -brand-product-name } para dispositivos móveis
 firefoxview-tabpickup-synctabs-header = Ativar sincronização de separadores
 firefoxview-tabpickup-synctabs-description = Permitir que o { -brand-short-name } partilhe separadores entre dispositivos.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Saber mais
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar separadores abertos
 firefoxview-syncedtabs-synctabs-header = Atualize as suas definições de sincronização
 firefoxview-syncedtabs-synctabs-description = Para ver os separadores de outros dispositivos, precisa de sincronizar os seus separadores abertos.
-firefoxview-syncedtabs-synctabs-checkbox = Permitir que separadores abertos sejam sincronizados
 firefoxview-syncedtabs-loading-header = Sincronização em progresso
 firefoxview-syncedtabs-loading-description = Quando terminar, irá ver todos os separadores abertos nos outros dispositivos. Volte em breve.
 firefoxview-tabpickup-fxa-admin-disabled-header = A sua organização desativou a sincronização
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Fechados recentemente
 firefoxview-closed-tabs-description2 = Reabrir as páginas que fechou nesta janela.
 firefoxview-closed-tabs-placeholder-header = Nenhum separador fechado recentemente
 firefoxview-closed-tabs-placeholder-body = Quando fecha um separador nesta janela, pode obtê-lo a partir daqui.
-firefoxview-closed-tabs-placeholder-body2 = Quando fecha um separador, pode obtê-lo a partir daqui.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Janela { $winID } (atual)
-firefoxview-opentabs-focus-tab =
-    .title = Trocar para este separador
 firefoxview-show-more = Mostrar mais
 firefoxview-show-less = Mostrar menos
 firefoxview-show-all = Mostrar tudo
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Pesquisar separadores
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Pesquisar nos separadores sincronizados
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Pesquisar nos separadores abertos
@@ -197,10 +183,6 @@ firefoxview-sort-history-by-date-label = Ordenar por data
 firefoxview-sort-history-by-site-label = Ordenar por site
 firefoxview-sort-open-tabs-by-recency-label = Ordenar por atividade recente
 firefoxview-sort-open-tabs-by-order-label = Ordenar por ordem de separadores
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Mudar para { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -217,7 +199,6 @@ firefoxview-history-site-localhost = (ficheiros locais)
 ##
 
 firefoxview-show-all-history = Mostrar todo o histórico
-firefoxview-view-more-browsing-history = Ver mais histórico de navegação
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -233,9 +214,6 @@ firefoxview-choose-browser-button = Escolher o navegador
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Nada a mostrar
-firefoxview-dont-remember-history-empty-description = Proteger a sua privacidade está no centro do que fazemos. É por isto que pode controlar a atividade que o { -brand-short-name } guarda.
-firefoxview-dont-remember-history-empty-description-two = Com base nas suas definições atuais, o { -brand-short-name } não guarda a sua atividade enquanto você navega. Para mudar isto, <a data-l10n-name="history-settings-url-two">altere as suas definições do histórico para guardar o seu histórico</a>.
 firefoxview-dont-remember-history-empty-header-2 = Tem o controlo absoluto sobre o que o { -brand-short-name } memoriza
 firefoxview-dont-remember-history-empty-description-one = Neste momento, o { -brand-short-name } não guarda a sua atividade de navegação. Para alterar isto, <a data-l10n-name="history-settings-url-two">atualize as suas definições do histórico</a>.
 

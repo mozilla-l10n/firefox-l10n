@@ -204,8 +204,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Tento dialog příště nezobrazovat
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Pozor
-tabbrowser-confirm-close-duplicate-tabs-text = Ponecháme otevřený poslední aktivní panel
 tabbrowser-confirm-close-all-duplicate-tabs-title = Zavřít duplicitní panely?
 tabbrowser-confirm-close-all-duplicate-tabs-text = V tomto okně zavřeme duplicitní panely. Poslední aktivní panel zůstane otevřený.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Zavřít panely

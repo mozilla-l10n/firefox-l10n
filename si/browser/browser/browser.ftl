@@ -275,7 +275,6 @@ quickactions-print2 = මුද්‍රණ පිටුව
 quickactions-cmd-print = මුද්‍රණය
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = PDF ලෙස පිටුව සුරකින්න
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = නව පෞද්. කවුළුව
 quickactions-cmd-private = පෞද්. පිරික්සුම

@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = Fir eis ze hëllefen de Problem ze diagnostizéieren an ze flécken, kanns Du eis en Ofstierzrapport schécken.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detailer: { $details }
 crashreporter-no-run-message = Dës Uwendung gëtt no engem Ofstuerz ausgefouert fir de Problem dem Uwendungshiersteller ze mellen. Se sollt net direkt ausgefouert ginn.
 crashreporter-button-details = Detailer…
 crashreporter-view-report-title = Rapport Inhalt

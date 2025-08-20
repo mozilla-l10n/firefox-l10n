@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } tarayıc�
 mr1-onboarding-theme-header = Zevkinize göre ayarlayın
 mr1-onboarding-theme-subtitle = { -brand-short-name } tarayıcınızı bir temayla kişiselleştirin.
 mr1-onboarding-theme-secondary-button-label = Şimdi değil
-newtab-wallpaper-onboarding-title = Farklı renkleri deneyin
-newtab-wallpaper-onboarding-subtitle = Yeni Sekme sayfanıza yeni bir görünüm kazandırmak için bir duvar kâğıdı seçin.
-newtab-wallpaper-onboarding-primary-button-label = Duvar kâğıdını ayarla
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Sistem teması
 mr1-onboarding-theme-label-light = Açık

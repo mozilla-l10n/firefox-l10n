@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = ბმულის სუფთა ასლი
     .accesskey = ფ
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = ბმულის ასლი თვალის დევნების არიდებით
-    .accesskey = უ
 
 ## Media (video/audio) controls
 ##

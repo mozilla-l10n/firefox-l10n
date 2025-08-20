@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Kopiatu lotura garbia
     .accesskey = u
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Kopiatu gunearen jarraipenik ez duen lotura
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##

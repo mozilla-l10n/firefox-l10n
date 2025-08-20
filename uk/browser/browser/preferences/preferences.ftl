@@ -4,9 +4,6 @@
 
 do-not-track-description = Передавати вебсайтам сигнал “Не стежити”
 do-not-track-removal = Ми більше не підтримуємо сигнал “Не відстежувати”
-do-not-track-description2 =
-    .label = Надсилати вебсайтам запит “Не стежити”
-    .accesskey = ж
 do-not-track-learn-more = Докладніше
 do-not-track-option-default-content-blocking-known =
     .label = Лише якщо { -brand-short-name } налаштовано блокувати відомі елементи стеження
@@ -271,10 +268,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Вибрані кольори мають перевагу над зовнішнім виглядом вебсайту. <a data-l10n-name="colors-link">Керувати кольорами</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Вибрані кольори мають перевагу над зовнішнім виглядом вебсайту.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Керуйте темами { -brand-short-name } у розділі <a data-l10n-name="themes-link">Розширення й теми</a>
@@ -1430,8 +1423,6 @@ addon-recommendations-link = Докладніше
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Відправлення даних вимкнено для цієї конфігурації збірки
 collection-backlogged-crash-reports-with-link = Дозволити { -brand-short-name } надсилати звіти про збої від вашого імені <a data-l10n-name="crash-reports-link">Докладніше</a>
-    .accesskey = м
-collection-backlogged-crash-reports = Дозволити { -brand-short-name } надсилати звіти про збої від вашого імені
     .accesskey = м
 privacy-segmentation-section-header = Нові функції, які покращують ваш перегляд
 privacy-segmentation-section-description = Коли ми пропонуємо функції, які використовують ваші дані для кращої персоналізації браузера:

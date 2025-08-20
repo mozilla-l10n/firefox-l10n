@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = আমাক সমস্যাটো বিশ্লেষণ কৰি সমাধান কৰাত সহায় কৰিবলে, আপুনি আমাক এটা ক্ৰেশ সংবাদ পঠাব পাৰে।
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = বিৱৰণ: { $details }
 crashreporter-no-run-message = এই এপ্লিকেচনক এটা ক্ৰেশৰ পিছত চলোৱা হয় যাতে সমস্যাটোক এপ্লিকেচন বিক্ৰেতালৈ সংবাদন কৰিব পাৰি।  ইয়াক প্ৰত্যক্ষভাৱে চলোৱা হব নালাগে।
 crashreporter-button-details = বিৱৰণসমূহ…
 crashreporter-view-report-title = সংবাদৰ সমলসমূহ

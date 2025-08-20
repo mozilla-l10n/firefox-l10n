@@ -29,7 +29,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = 立即发送标签页到任何您登录过的设备。
 fxa-menu-sign-out =
     .label = 退出登录…
-fxa-menu-sync-title = 同步
 fxa-menu-sync-description = 让您个性化的网络体验随身相伴
 fxa-avatar-sign-in = 登录
 fxa-avatar-sign-up = 注册

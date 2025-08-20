@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Нусха бардоштани пайванди тоза
     .accesskey = Н
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Нусха бардоштани пайванд бе пайгирии сомона
-    .accesskey = Н
 
 ## Media (video/audio) controls
 ##

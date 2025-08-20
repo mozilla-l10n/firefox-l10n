@@ -9,8 +9,6 @@ crashreporter-plea = Pomogni nam ispraviti problem slanjem izvještaja o prekidu
 crashreporter-information = Ovaj se program pokreće nakon prekida rada programa kako bi { -vendor-short-name } primio informacije o problemu. Ne bi se trebao izravno pokretati.
 crashreporter-error = { -brand-short-name } je imao problem i prekinuo je raditi. Nažalost, izvjestitelj o prekidu rada programa ne može poslati izvještaj za ovaj prekid rada programa.
 crashreporter-error-details-header = Detalji:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detaljji: { $details }
 crashreporter-no-run-message = Ovaj se program pokreće nakon prekida rada programa kako bi prijavio problem proizvođaču programa. Ne bi se trebao izravno pokretati.
 crashreporter-button-details = Detalji …
 crashreporter-loading-details = Učitavanje …
@@ -20,8 +18,6 @@ crashreporter-report-info = Ovaj izvještaj također sadrži tehničke informaci
 crashreporter-checkbox-test-hardware = Provjeri hardverske i konfiguracijske probleme na mom uređaju.
 crashreporter-checkbox-send-report = Obavijesti proizvođača { -vendor-short-name } o ovom prekidu rada programa kako bi ga mogao popraviti.
 crashreporter-checkbox-include-url = Uključi adresu stranice na kojoj sam bio/bila.
-crashreporter-send-report = Obavijesti proizvođača { -vendor-short-name } o ovom prekidu rada programa kako bi ga mogao popraviti.
-crashreporter-include-url = Uključi adresu stranice na kojoj sam bio/bila.
 crashreporter-submit-status = Tvoj izvještaj o prekidu rada programa će se poslati prije zatvaranja ili ponovnog pokretanja programa.
 crashreporter-submit-waiting-hardware-tests = Provjera hardverskih i konfiguracijskih problema …
 crashreporter-submit-in-progress = Slanje tvog izvještaja …
@@ -39,7 +35,6 @@ crashreporter-crash-details = Detalje ovog prekid rada programa možeš vidjeti 
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Neuspjelo pokretanje programa minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Neuspjelo otvaranje datoteke ({ $path })
 # $path (String) - the file path

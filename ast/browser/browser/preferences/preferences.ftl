@@ -993,8 +993,6 @@ addon-recommendations-link = Lleer más
 collection-health-report-disabled = L'informe de datos ta desactiváu na configuración d'esta compilación
 collection-backlogged-crash-reports-with-link = Permtir a { -brand-short-name } qu'unvie por ti los informes de casques acumulaos <a data-l10n-name="crash-reports-link">Llleer más</a>
     .accesskey = c
-collection-backlogged-crash-reports = Permtir a { -brand-short-name } qu'unvie por ti los informes de casques acumulaos
-    .accesskey = c
 
 ## Privacy Section - Security
 ##

@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Μόνιμα
 client-auth-cert-remember-temporarily =
     .label = Για αυτήν τη συνεδρία
-client-auth-cert-remember-box =
-    .label = Απομνημόνευση απόφασης
 
 ## Set password (p12) dialog
 

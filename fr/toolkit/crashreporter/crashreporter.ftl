@@ -9,8 +9,6 @@ crashreporter-plea = Pour nous aider à diagnostiquer et corriger ce problème, 
 crashreporter-information = Cette application est exécutée après un plantage pour rapporter le problème survenu à { -vendor-short-name }. Elle ne doit pas être lancée directement.
 crashreporter-error = { -brand-short-name } a rencontré un problème et a planté. Malheureusement, le rapporteur de plantage n’est pas en mesure de transmettre un rapport pour ce plantage.
 crashreporter-error-details-header = Détails :
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Détails : { $details }
 crashreporter-no-run-message = Cette application est exécutée après un plantage pour rapporter le problème survenu à l’éditeur de l’application. Elle ne doit pas être lancée directement.
 crashreporter-button-details = Détails…
 crashreporter-loading-details = Chargement…
@@ -20,8 +18,6 @@ crashreporter-report-info = Ce rapport contient également des informations tech
 crashreporter-checkbox-test-hardware = Rechercher des problèmes liés au matériel et à la configuration de mon appareil.
 crashreporter-checkbox-send-report = Informer { -vendor-short-name } de ce problème pour qu’il puisse être corrigé
 crashreporter-checkbox-include-url = Inclure l’adresse de la page où vous vous trouviez.
-crashreporter-send-report = Informer { -vendor-short-name } de ce problème pour qu’il puisse être corrigé
-crashreporter-include-url = Inclure l’adresse de la page où vous vous trouviez.
 crashreporter-submit-status = Votre rapport de plantage sera envoyé avant la fermeture ou le redémarrage du programme.
 crashreporter-submit-waiting-hardware-tests = Recherche de problèmes liés au matériel et à la configuration…
 crashreporter-submit-in-progress = Envoi du rapport…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Vous pouvez voir les détails de ce plantage sur {
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Impossible d’exécuter minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Échec de l’ouverture du fichier ({ $path })
 # $path (String) - the file path

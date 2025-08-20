@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Manna ê siti web na signalijazzioni "Nun trazzari" pi nfurmalli ca nun voi ca ti tràzzanu
-do-not-track-description2 =
-    .label = Manna ê siti web na signalijazzioni "Nun trazzari"
-    .accesskey = M
 do-not-track-learn-more = Cchiù nfurmazzioni
 do-not-track-option-default-content-blocking-known =
     .label = Sulu quannu { -brand-short-name } è mpustatu pi bluccari i trazzatura canusciuti

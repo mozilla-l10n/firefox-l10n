@@ -205,10 +205,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ձեր ընտրած գոյները փոխում են կայքի տեսքը: <a data-l10n-name="colors-link"> Կառավարէք գոյները </a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Ձեր ընտրած գոյները փոխում են կայքի տեսքը:
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Կառավարէք { -brand-short-name } հիմնապատկերները <a data-l10n-name="themes-link"> Յաւելումներ եւ հիմնապատկերներ </a>
@@ -1107,8 +1103,6 @@ addon-recommendations-link = Իմանալ աւելին
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Տուեալների զեկուցումը անջատուած է կազմաձեւի այս կառուցման համար
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
-    .accesskey = թ
-collection-backlogged-crash-reports = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ
     .accesskey = թ
 
 ## Privacy Section - Security

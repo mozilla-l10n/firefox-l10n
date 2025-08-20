@@ -9,8 +9,6 @@ crashreporter-plea = 您可以向我们发送崩溃报告，以协助我们诊�
 crashreporter-information = 此应用程序会在发生崩溃后运行并向 { -vendor-short-name } 报告相应问题，无法被直接运行。
 crashreporter-error = { -brand-short-name } 碰到一个问题而崩溃了，且崩溃报告器无法提交相应的崩溃报告。
 crashreporter-error-details-header = 详细信息：
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = 详细信息：{ $details }
 crashreporter-no-run-message = 此应用程序在崩溃后运行并向程序发行商报告相应问题。无法被直接运行。
 crashreporter-button-details = 详细信息…
 crashreporter-loading-details = 正在加载…
@@ -20,8 +18,6 @@ crashreporter-report-info = 此报告同时包含了应用程序崩溃时状态�
 crashreporter-checkbox-test-hardware = 检查我的设备是否存在硬件和配置问题。
 crashreporter-checkbox-send-report = 告知 { -vendor-short-name } 有关此次崩溃的情况，以便修复此问题。
 crashreporter-checkbox-include-url = 附上我当时所浏览页面的地址。
-crashreporter-send-report = 告知 { -vendor-short-name } 有关此次崩溃的情况，以便修复此问题。
-crashreporter-include-url = 附上我当时所浏览页面的地址。
 crashreporter-submit-status = 您的崩溃报告将在您退出或重启浏览器时提交。
 crashreporter-submit-waiting-hardware-tests = 正在检查硬件和配置问题…
 crashreporter-submit-in-progress = 正在提交您的报告…
@@ -39,7 +35,6 @@ crashreporter-crash-details = 您可到 { $url } 查看此次崩溃的详细信�
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = 运行 minidump-analyzer 失败
 # $path (String) - the file path
 crashreporter-error-opening-file = 打开文件失败（{ $path }）
 # $path (String) - the file path

@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Dauerhaft
 client-auth-cert-remember-temporarily =
     .label = Für diese Sitzung
-client-auth-cert-remember-box =
-    .label = Diese Entscheidung merken
 
 ## Set password (p12) dialog
 

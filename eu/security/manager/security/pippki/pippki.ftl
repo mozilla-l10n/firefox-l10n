@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Modu iraunkorrean
 client-auth-cert-remember-temporarily =
     .label = Saio honetarako
-client-auth-cert-remember-box =
-    .label = Gogoratu erabaki hau
 
 ## Set password (p12) dialog
 

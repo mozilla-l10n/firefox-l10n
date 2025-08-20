@@ -83,9 +83,6 @@ neterror-dns-not-found-trr-unknown-problem = Problem nunspetgà.
 neterror-dns-not-found-native-fallback-reason =
     { -brand-short-name } na po betg proteger tia dumonda per l'adressa da questa website via noss server DNS fidà.
     Il motiv:
-neterror-dns-not-found-native-fallback-reason2 =
-    { -brand-short-name } na po betg proteger tia dumonda per l'adressa da questa website via noss server DNS segirà.
-    Il motiv:
 neterror-dns-not-found-native-fallback-heuristic = DNS via HTTPS è vegnì deactivà en tia rait.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } n'ha betg pudì stabilir ina connexiun cun { $trrDomain }.
 

@@ -345,7 +345,6 @@ quickactions-print2 = Imprimir la pagina
 quickactions-cmd-print = imprimir
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Enregistrar la pagina al format PDF
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Dobrir una fenèstra privada
 quickactions-cmd-private = navegacion privada

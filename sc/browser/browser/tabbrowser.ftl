@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = No m'ammustres prus custu diàlogu.
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Atentzione
-tabbrowser-confirm-close-duplicate-tabs-text = Amus a lassare aberta s'ùrtima ischeda ativa
 tabbrowser-confirm-close-all-duplicate-tabs-title = Boles serrare is ischedas duplicadas?
 tabbrowser-confirm-close-all-duplicate-tabs-text =
     Amus a serrare is ischedas duplicadas in custa ventana. S'ùrtima ischeda

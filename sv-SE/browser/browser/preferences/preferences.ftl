@@ -4,9 +4,6 @@
 
 do-not-track-description = Skicka webbplatser en “Spåra inte”-signal att du inte vill bli spårad
 do-not-track-removal = Vi stöder inte längre signalen "Spåra inte".
-do-not-track-description2 =
-    .label = Skicka en "Spåra inte"-begäran till webbplatser
-    .accesskey = S
 do-not-track-learn-more = Läs mer
 do-not-track-option-default-content-blocking-known =
     .label = Endast när { -brand-short-name } är inställt för att blockera kända spårare
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Dina färgval åsidosätter webbplatsens utseende. <a data-l10n-name="colors-link">Hantera färger</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Dina färgval åsidosätter webbplatsens utseende.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Hantera { -brand-short-name } teman i <a data-l10n-name="themes-link">Tillägg och teman</a>
@@ -1434,8 +1427,6 @@ addon-recommendations-link = Läs mer
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datarapportering är inaktiverad för den här byggkonfigurationen
 collection-backlogged-crash-reports-with-link = Tillåt { -brand-short-name } att skicka eftersläpande felrapporter för din räkning <a data-l10n-name="crash-reports-link">Läs mer</a>
-    .accesskey = f
-collection-backlogged-crash-reports = Tillåt { -brand-short-name } att skicka eftersläpande felrapporter för din räkning
     .accesskey = f
 privacy-segmentation-section-header = Nya funktioner som förbättrar din surfning
 privacy-segmentation-section-description = När vi erbjuder funktioner som använder din data för att ge dig en mer personlig upplevelse:

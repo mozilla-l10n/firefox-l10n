@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = Chun cabhrú linn leis an bhfadhb seo a aithint agus a dheisiú, is féidir leat tuairisc tuairteála a sheoladh chugainn.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Mionsonraí: { $details }
 crashreporter-no-run-message = Ritear an feidhmchlár tar éis tuairteála chun tuairisc faoin fhadhb a sheoladh chuig soláthraí an fheidhmchláir. Ní ceart é a rith go díreach.
 crashreporter-button-details = Mionsonraí…
 crashreporter-view-report-title = Inneachar na Tuarascála

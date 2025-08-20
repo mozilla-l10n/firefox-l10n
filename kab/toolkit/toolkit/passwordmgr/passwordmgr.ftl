@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = U
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Ulac isem n useqdac
-password-manager-toggle-password =
-    .label = Sken awalen uffiren
-    .accesskey = h
 password-manager-confirm-password-change = Sentem asnifel n wawal uffir
 password-manager-select-username = Fren anekcum ad tleqmeḍ:

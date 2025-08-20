@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Kopiraj očiščeno povezavo
     .accesskey = č
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Kopiraj povezavo brez sledilnih parametrov
-    .accesskey = z
 
 ## Media (video/audio) controls
 ##

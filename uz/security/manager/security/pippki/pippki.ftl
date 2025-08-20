@@ -61,8 +61,6 @@ client-auth-cert-details-issued-by = Muallifi: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Joylashgan manzili: { $storedOn }
-client-auth-cert-remember-box =
-    .label = Qaror eslab qolinsin
 
 ## Set password (p12) dialog
 

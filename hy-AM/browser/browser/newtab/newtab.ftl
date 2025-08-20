@@ -308,9 +308,6 @@ newtab-custom-pocket-sponsored = Հովանավորված պատմություն
 newtab-custom-pocket-show-recent-saves = Ցուցադրել վերջին պահումները
 newtab-custom-recent-title = Վերջին ակտիվություն
 newtab-custom-recent-subtitle = Վերջին կայքերի և բովանդակության ընտրում
-newtab-custom-recent-toggle =
-    .label = Վերջին ակտիվություն
-    .description = Վերջին կայքերի և բովանդակության ընտրում
 newtab-custom-weather-toggle =
     .label = Եղանակ
     .description = Այսօրվա կանխատեսումը մի հայացքով
@@ -414,7 +411,6 @@ newtab-weather-menu-change-location = Փոխել գտնվելու վայրը
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Որոնել գտնվելու վայրը
     .aria-label = Որոնել գտնվելու վայրը
-newtab-weather-change-location-search-input = Որոնել գտնվելու վայրը
 newtab-weather-menu-weather-display = Եղանակի ցուցադրում
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

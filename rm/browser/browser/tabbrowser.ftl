@@ -149,8 +149,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Betg pli ma mussar quest dialog.
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Attenziun
-tabbrowser-confirm-close-duplicate-tabs-text = Nus laschain avert l’ultim tab activ
 tabbrowser-confirm-close-all-duplicate-tabs-title = Serrar tabs duplitgads?
 tabbrowser-confirm-close-all-duplicate-tabs-text =
     Nus vegnin a serrar ils tabs duplitgads en questa fanestra. L’ultim

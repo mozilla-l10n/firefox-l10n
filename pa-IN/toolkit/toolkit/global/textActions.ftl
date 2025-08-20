@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = ਸਾਫ਼ ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
     .accesskey = n
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = ਸਾਈਟ ਟੋਹ ਤੋਂ ਬਿਨਾਂ ਕਾਪੀ ਕਰੋ
-    .accesskey = n
 text-action-paste =
     .label = ਚੇਪੋ
     .accesskey = P

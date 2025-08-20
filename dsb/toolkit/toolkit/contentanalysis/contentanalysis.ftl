@@ -39,8 +39,6 @@ contentanalysis-operationtype-print = śišćaś
 contentanalysis-upload-description = nagraśe “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = ześěgnjenje “{ $filename }”
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = Nagraśe “{ $filename }”
 contentanalysis-warndialogtitle = Toś to wopśimjeśe jo snaź njewěste
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Envie um separador instantaneamente para qualquer dispositivo em que tenha sessão iniciada.
 fxa-menu-sign-out =
     .label = Terminar sessão…
-fxa-menu-sync-title = Sincronização
 fxa-menu-sync-description = Aceda à sua Web em qualquer lugar
 fxa-avatar-sign-in = Iniciar sessão
 fxa-avatar-sign-up = Registar

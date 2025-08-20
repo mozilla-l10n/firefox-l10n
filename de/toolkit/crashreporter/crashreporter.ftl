@@ -9,8 +9,6 @@ crashreporter-plea = Um uns zu helfen, dieses Problem zu erkennen und zu reparie
 crashreporter-information = Diese Anwendung wird nach einem Absturz ausgeführt, um das Problem an { -vendor-short-name } zu melden. Sie sollte nicht direkt ausgeführt werden.
 crashreporter-error = Ein Problem ist aufgetreten, und { -brand-short-name } ist abgestürzt. Leider kann der Absturzmelder diesen Absturz nicht melden.
 crashreporter-error-details-header = Details:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Details: { $details }
 crashreporter-no-run-message = Diese Anwendung wird nach einem Absturz ausgeführt, um das Problem an den Anwendungs-Hersteller zu melden. Sie sollte nicht direkt ausgeführt werden.
 crashreporter-button-details = Details…
 crashreporter-loading-details = Laden…
@@ -20,8 +18,6 @@ crashreporter-report-info = Diese Meldung enthält Informationen über den Statu
 crashreporter-checkbox-test-hardware = Mein Gerät auf Hardware- und Konfigurationsprobleme überprüfen.
 crashreporter-checkbox-send-report = { -vendor-short-name } von diesem Absturz berichten, damit die Ursache behoben werden kann.
 crashreporter-checkbox-include-url = Die Adresse der Seite hinzufügen, die geöffnet war.
-crashreporter-send-report = { -vendor-short-name } von diesem Absturz berichten, damit die Ursache behoben werden kann.
-crashreporter-include-url = Die Adresse der Seite hinzufügen, die geöffnet war
 crashreporter-submit-status = Ihr Absturzbericht wird vor dem Beenden oder dem Neustart abgesendet.
 crashreporter-submit-waiting-hardware-tests = Es wird auf Hardware- und Konfigurationsprobleme überprüft…
 crashreporter-submit-in-progress = Ihr Bericht wird gesendet…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Sie können Details dieses Absturzes unter { $url 
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Minidump-Analyzer konnte nicht ausgeführt werden
 # $path (String) - the file path
 crashreporter-error-opening-file = Fehler beim Öffnen der Datei ({ $path })
 # $path (String) - the file path

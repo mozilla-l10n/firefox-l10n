@@ -4,9 +4,6 @@
 
 do-not-track-description = Send web sites a “Do Not Track” signal that you don’t want to be tracked
 do-not-track-removal = We no longer support the “Do Not Track” signal
-do-not-track-description2 =
-    .label = Send web sites a “Do Not Track” request
-    .accesskey = d
 do-not-track-learn-more = Learn more
 do-not-track-option-default-content-blocking-known =
     .label = Only when { -brand-short-name } is set to block known trackers
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Your colour selections are overriding web site appearance. <a data-l10n-name="colors-link">Manage colours</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Your colour selections are overriding web site appearance.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Manage { -brand-short-name } themes in <a data-l10n-name="themes-link">Extensions & Themes</a>
@@ -1434,8 +1427,6 @@ addon-recommendations-link = Learn more
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
 collection-backlogged-crash-reports-with-link = Allow { -brand-short-name } to send backlogged crash reports on your behalf <a data-l10n-name="crash-reports-link">Learn more</a>
-    .accesskey = c
-collection-backlogged-crash-reports = Allow { -brand-short-name } to send backlogged crash reports on your behalf
     .accesskey = c
 privacy-segmentation-section-header = New features that enhance your browsing
 privacy-segmentation-section-description = When we offer features that use your data to give you a more personal experience:

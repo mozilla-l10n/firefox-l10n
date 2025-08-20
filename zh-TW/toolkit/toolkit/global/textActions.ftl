@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = 複製乾淨鏈結
     .accesskey = n
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = 複製不含追蹤碼的鏈結
-    .accesskey = n
 text-action-paste =
     .label = 貼上
     .accesskey = P

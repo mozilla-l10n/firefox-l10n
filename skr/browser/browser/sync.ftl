@@ -29,7 +29,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = کہیں وی ڈیوائس تے ٹھک پھک ہک ٹیب بھیڄو جیندے اوتے تساں سائن اِن او۔
 fxa-menu-sign-out =
     .label = سائن آؤٹ۔۔۔
-fxa-menu-sync-title = ہم وقت کرو
 fxa-menu-sync-description = کتھاؤں وی آپݨی ویب تئیں رسائی حاصل کرو
 sync-setup-verify-continue = جاری
 sync-setup-verify-title = چتاوݨی ضم کرو

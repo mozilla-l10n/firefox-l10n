@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = คัดลอกลิงก์แบบสะอาด
     .accesskey = u
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = คัดลอกลิงก์โดยไม่ติดตามไซต์
-    .accesskey = ค
 
 ## Media (video/audio) controls
 ##

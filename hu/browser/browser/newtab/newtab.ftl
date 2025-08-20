@@ -323,9 +323,6 @@ newtab-custom-pocket-sponsored = Szponzorált történetek
 newtab-custom-pocket-show-recent-saves = Legutóbbi mentések megjelenítése
 newtab-custom-recent-title = Legutóbbi tevékenység
 newtab-custom-recent-subtitle = Válogatás a legutóbbi webhelyekből és tartalmakból
-newtab-custom-recent-toggle =
-    .label = Legutóbbi tevékenység
-    .description = Válogatás a legutóbbi webhelyekből és tartalmakból
 newtab-custom-weather-toggle =
     .label = Időjárás
     .description = A mai előrejelzés egy pillantásra
@@ -462,7 +459,6 @@ newtab-weather-menu-change-location = Hely módosítása
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Keresési hely
     .aria-label = Keresési hely
-newtab-weather-change-location-search-input = Keresési hely
 newtab-weather-menu-weather-display = Időjárás-kijelző
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -641,7 +637,6 @@ newtab-widget-lists-menu-delete = Lista törlése
 newtab-widget-lists-menu-copy = Lista vágólapra másolása
 newtab-widget-lists-menu-hide = Összes lista elrejtése
 newtab-widget-lists-menu-learn-more = További tudnivalók
-newtab-widget-lists-input-placeholder = Elem hozzáadása
 newtab-widget-lists-input-error = Elem hozzáadásához adjon meg szöveget.
 newtab-widget-lists-input-menu-open-link = Hivatkozás megnyitása
 newtab-widget-lists-input-menu-move-up = Mozgatás felfelé
@@ -670,6 +665,7 @@ newtab-widget-timer-menu-notifications = Értesítések kikapcsolása
 newtab-widget-timer-menu-notifications-on = Értesítések bekapcsolása
 newtab-widget-timer-menu-hide = Időzítő elrejtése
 newtab-widget-timer-menu-learn-more = További tudnivalók
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Görgessen a továbbiakért
 newtab-promo-card-title = Támogassa a { -brand-product-name }ot
 newtab-promo-card-body = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk

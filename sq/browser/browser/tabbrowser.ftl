@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Mos ma shfaq më këtë kuti dialogu
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Kujdes
-tabbrowser-confirm-close-duplicate-tabs-text = Do të mbajmë të hapur skedën e fundit aktive
 tabbrowser-confirm-close-all-duplicate-tabs-title = Të mbyllen skeda të përsëdytura?
 tabbrowser-confirm-close-all-duplicate-tabs-text = Do të mbyllim skeda të përsëdytura në këtë dritare. Skeda e fundit aktive do të mbesë hapur.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Mbylli skedat

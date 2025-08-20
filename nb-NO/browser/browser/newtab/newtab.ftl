@@ -322,9 +322,6 @@ newtab-custom-pocket-sponsored = Sponsede historier
 newtab-custom-pocket-show-recent-saves = Se sist lagrede
 newtab-custom-recent-title = Nylig aktivitet
 newtab-custom-recent-subtitle = Et utvalg av nylige nettsteder og innhold
-newtab-custom-recent-toggle =
-    .label = Nylig aktivitet
-    .description = Et utvalg av nylige nettsteder og innhold
 newtab-custom-weather-toggle =
     .label = Vær
     .description = Dagens værmelding i korte trekk
@@ -461,7 +458,6 @@ newtab-weather-menu-change-location = Endre plassering
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Søk plassering
     .aria-label = Søk plassering
-newtab-weather-change-location-search-input = Søk plassering
 newtab-weather-menu-weather-display = Værvisning
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -640,7 +636,6 @@ newtab-widget-lists-menu-delete = Slett denne listen
 newtab-widget-lists-menu-copy = Kopier liste til utklippstavlen
 newtab-widget-lists-menu-hide = Skjul alle lister
 newtab-widget-lists-menu-learn-more = Les mer
-newtab-widget-lists-input-placeholder = Legg til et element
 newtab-widget-lists-input-error = Legg til tekst for å legge til et element.
 newtab-widget-lists-input-menu-open-link = Åpne lenke
 newtab-widget-lists-input-menu-move-up = Flytt opp
@@ -669,6 +664,7 @@ newtab-widget-timer-menu-notifications = Slå av varsler
 newtab-widget-timer-menu-notifications-on = Slå på varsler
 newtab-widget-timer-menu-hide = Skjul nedteller
 newtab-widget-timer-menu-learn-more = Les mer
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Rull for mer
 newtab-promo-card-title = Støtt { -brand-product-name }
 newtab-promo-card-body = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett

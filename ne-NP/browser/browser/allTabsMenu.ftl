@@ -12,7 +12,5 @@ all-tabs-menu-hidden-tabs =
 all-tabs-menu-manage-user-context =
     .label = कन्टेनरहरू व्यवस्थापन गर्नुहोस्
     .accesskey = o
-all-tabs-menu-close-duplicate-tabs =
-    .label = प्रतिलिपी ट्याबहरू बन्द गर्नुहोस्
 all-tabs-menu-close-all-duplicate-tabs =
     .label = सबै प्रतिलिपीत ट्याबहरू बन्द गर्नुहोस्

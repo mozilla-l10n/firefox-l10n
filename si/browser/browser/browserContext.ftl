@@ -160,11 +160,6 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = සබැඳියේ පිටපතක්
     .accesskey = L
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = අඩවියේ ලුහුබැඳීම් රහිතව සබැඳියේ පිටපතක්
-    .accesskey = u
 
 ## Media (video/audio) controls
 ##

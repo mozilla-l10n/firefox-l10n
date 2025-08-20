@@ -16,8 +16,5 @@ password-manager-update-password-button-deny =
     .accesskey = J
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Tiada nama pengguna
-password-manager-toggle-password =
-    .label = Papar kata laluan
-    .accesskey = p
 password-manager-confirm-password-change = Sahkan Menukar Kata laluan
 password-manager-select-username = Pilih log masuk untuk dikemaskini:

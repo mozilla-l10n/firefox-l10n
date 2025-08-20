@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Enporti el { $previous 
 mr1-onboarding-theme-header = Personecigu ĝin
 mr1-onboarding-theme-subtitle = Personecigi { -brand-short-name } per etoso.
 mr1-onboarding-theme-secondary-button-label = Ne nun
-newtab-wallpaper-onboarding-title = Provu koloran tuŝeton
-newtab-wallpaper-onboarding-subtitle = Elektu ekranfonon por doni novan aspekton al la paĝo por novaj langetoj.
-newtab-wallpaper-onboarding-primary-button-label = Elekti ekranfonon
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Sistema etoso
 mr1-onboarding-theme-label-light = Hela

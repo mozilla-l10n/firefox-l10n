@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous
 mr1-onboarding-theme-header = Personalize
 mr1-onboarding-theme-subtitle = Personalize o { -brand-short-name } com um tema.
 mr1-onboarding-theme-secondary-button-label = Agora não
-newtab-wallpaper-onboarding-title = Experimente um toque de cor
-newtab-wallpaper-onboarding-subtitle = Escolha um fundo para dar um novo visual ao seu novo separador.
-newtab-wallpaper-onboarding-primary-button-label = Definir fundo
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema do sistema
 mr1-onboarding-theme-label-light = Claro

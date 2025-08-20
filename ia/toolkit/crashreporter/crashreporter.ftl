@@ -9,8 +9,6 @@ crashreporter-plea = Pro adjutar nos a diagnosticar e corriger le problema, tu p
 crashreporter-information = Iste application es exequite post un crash pro reportar le problema a { -vendor-short-name }. Illo non deberea esser exequite directemente.
 crashreporter-error = { -brand-short-name } habeva un problema e collabeva. Infortunatemente, le reporter de crash  non pote inviar un reporto pro iste crash.
 crashreporter-error-details-header = Detalios:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detalios: { $details }
 crashreporter-no-run-message = Iste application es exequite post un collapso pro reportar le problema al venditor del application. Illo non deberea esser exequite directemente.
 crashreporter-button-details = Detalios…
 crashreporter-loading-details = Cargante…
@@ -20,8 +18,6 @@ crashreporter-report-info = Iste reporto etiam contine informationes technic sur
 crashreporter-checkbox-test-hardware = Verificar pro problemas de hardware e configuration sur mi apparato.
 crashreporter-checkbox-send-report = Informar { -vendor-short-name } sur iste collapso a fin que illes pote corriger lo
 crashreporter-checkbox-include-url = Includer le adresse del pagina visitate.
-crashreporter-send-report = Informar { -vendor-short-name } sur iste collapso a fin que illes pote corriger lo
-crashreporter-include-url = Includer le adresse del pagina visitate.
 crashreporter-submit-status = Tu reporto de collapso essera submittite ante le clausura o le re-lanceamento del programma.
 crashreporter-submit-waiting-hardware-tests = Controlo pro problemas de hardware e configuration…
 crashreporter-submit-in-progress = Inviante tu reporto…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Tu pote vider detalios re iste crash a { $url }.
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Falta a exequer minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Falta a aperir ({ $path })
 # $path (String) - the file path

@@ -9,8 +9,6 @@ crashreporter-plea = Για να μας βοηθήσετε στη διάγνωσ
 crashreporter-information = Αυτή η εφαρμογή εκτελείται μετά από μια κατάρρευση για την αναφορά του προβλήματος στη { -vendor-short-name }. Δεν θα πρέπει να εκτελείται χειροκίνητα.
 crashreporter-error = Το { -brand-short-name } αντιμετώπισε ένα πρόβλημα και κατέρρευσε. Δυστυχώς, η εφαρμογή αναφοράς καταρρεύσεων δεν μπορεί να υποβάλει αναφορά για αυτήν την κατάρρευση.
 crashreporter-error-details-header = Λεπτομέρειες:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Λεπτομέρειες: { $details }
 crashreporter-no-run-message = Αυτή η εφαρμογή εκτελείται μετά από μια κατάρρευση για την αναφορά του προβλήματος στον δημιουργό της εφαρμογής. Δεν θα πρέπει να εκτελείται χειροκίνητα.
 crashreporter-button-details = Λεπτομέρειες…
 crashreporter-loading-details = Φόρτωση…
@@ -20,8 +18,6 @@ crashreporter-report-info = Αυτή η αναφορά περιέχει επίσ
 crashreporter-checkbox-test-hardware = Έλεγχος για προβλήματα υλικού και ρυθμίσεων παραμέτρων στη συσκευή μου.
 crashreporter-checkbox-send-report = Δήλωση κατάρρευσης στη { -vendor-short-name }, προκειμένου να διορθωθεί.
 crashreporter-checkbox-include-url = Να συμπεριληφθεί η διεύθυνση της σελίδας που βρισκόμουν.
-crashreporter-send-report = Δήλωση κατάρρευσης στη { -vendor-short-name }, προκειμένου να διορθωθεί.
-crashreporter-include-url = Να συμπεριληφθεί η διεύθυνση της σελίδας που βρισκόμουν.
 crashreporter-submit-status = Η αναφορά κατάρρευσης θα υποβληθεί πριν από τον τερματισμό ή την επανεκκίνηση.
 crashreporter-submit-waiting-hardware-tests = Έλεγχος για προβλήματα υλικού και ρυθμίσεων παραμέτρων…
 crashreporter-submit-in-progress = Υποβολή της αναφοράς σας…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Μπορείτε να δείτε τις λεπτο
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Αποτυχία εκτέλεσης του minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Αποτυχία ανοίγματος αρχείου ({ $path })
 # $path (String) - the file path

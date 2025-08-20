@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = ᱥᱟᱯᱷᱟ ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
     .accesskey = ᱥ
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = ᱵᱤᱱᱟ ᱥᱟᱭᱤᱴ ᱴᱨᱮᱠᱤᱝ ᱠᱟᱛᱮ ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
-    .accesskey = y
 
 ## Media (video/audio) controls
 ##

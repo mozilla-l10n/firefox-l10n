@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = p
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Pas cap de nom d'utilizaire
-password-manager-toggle-password =
-    .label = Mostrar lo senhal
-    .accesskey = m
 password-manager-confirm-password-change = Confirmatz la modificacion del senhal
 password-manager-select-username = Seleccionatz quin identificant metre a jorn :

@@ -9,8 +9,6 @@ crashreporter-plea = Pentru a ne ajuta să diagnosticăm și să reparăm proble
 crashreporter-information = Aplicația este rulată după o închidere neașteptată pentru raportarea problemei către { -vendor-short-name }. Nu ar trebui rulată direct.
 crashreporter-error = { -brand-short-name } a întâmpinat o problemă și s-a închis neașteptat. Din păcate, raportorul de defecțiuni nu poate trimite un raport.
 crashreporter-error-details-header = Detalii:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detalii: { $details }
 crashreporter-no-run-message = Această aplicație este rulată după o încheiere neașteptată a programului pentru a raporta problema distribuitorului aplicației. Nu ar trebui executată direct.
 crashreporter-button-details = Detalii…
 crashreporter-loading-details = Se încarcă…
@@ -20,8 +18,6 @@ crashreporter-report-info = Acest raport conține și informații tehnice cu pri
 crashreporter-checkbox-test-hardware = Verifică dacă am probleme de hardware și configurare pe dispozitiv.
 crashreporter-checkbox-send-report = Anunță { -vendor-short-name } despre această închidere neașteptată ca să o poată remedia.
 crashreporter-checkbox-include-url = Include adresa paginii pe care eram
-crashreporter-send-report = Anunță { -vendor-short-name } despre această închidere neașteptată ca să o poată remedia.
-crashreporter-include-url = Include adresa paginii pe care eram
 crashreporter-submit-status = Raportul de defecțiuni va fi trimis înainte să ieși sau sau să repornești.
 crashreporter-submit-waiting-hardware-tests = Se verifică dacă există probleme de hardware și configurare…
 crashreporter-submit-in-progress = Se trimite raportul…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Poți vedea detaliile acestei închideri neaștept
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Imposibil de executat analizorul minidump
 # $path (String) - the file path
 crashreporter-error-opening-file = Fișierul ({ $path }) nu poate fi deschis
 # $path (String) - the file path

@@ -9,8 +9,6 @@ crashreporter-plea = I'n cynorthwyo i ddatrys yr anhawster, anfonwch adroddiad g
 crashreporter-information = Mae'r rhaglen hon yn cael ei rhedeg ar ôl chwalfa er mwyn adrodd ar anhawster i { -vendor-short-name }.  Ni ddylai gael ei redeg yn uniongyrchol.
 crashreporter-error = Profodd { -brand-short-name } anhawster ac mae wedi chwalu. Yn anffodus, nid yw'r adroddwr chwalu yn medru cyflwyno adroddiad ynglŷn â'r chwalu hwn.
 crashreporter-error-details-header = Manylion:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Manylion: { $details }
 crashreporter-no-run-message = Mae'r rhaglen yn cael ei rhedeg ar ôl chwalfa er mwyn adrodd ar anhawster i ddarparwr y rhaglen.  Ni ddylai gael ei redeg yn uniongyrchol.
 crashreporter-button-details = Manylion…
 crashreporter-loading-details = Yn llwytho…
@@ -20,8 +18,6 @@ crashreporter-report-info = Mae'r adroddiad hefyd yn cynnwys gwybodaeth dechnego
 crashreporter-checkbox-test-hardware = Gwiriwch am broblemau caledwedd a ffurfweddiad ar fy nyfais.
 crashreporter-checkbox-send-report = Dywedwch wrth { -vendor-short-name }; am y chwalfa hwn fel bod modd iddyn nhw ei drwsio
 crashreporter-checkbox-include-url = Cofio cynnwys cyfeiriad y dudalen roeddwn arni
-crashreporter-send-report = Dweud wrth { -vendor-short-name }; am y chwalfa hwn fel bod modd iddyn nhw ei drwsio
-crashreporter-include-url = Cofio cynnwys cyfeiriad y dudalen roeddwn arni
 crashreporter-submit-status = Bydd eich adroddiad chwalu yn cael ei gyflwyno cyn i chi adael neu ail gychwyn.
 crashreporter-submit-waiting-hardware-tests = Yn gwirio am broblemau caledwedd a ffurfweddiad ar fy nyfais.
 crashreporter-submit-in-progress = Cyflwyno eich adroddiad…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Gallwch weld manylion y chwalfa hon yn { $url }.
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Wedi methu â rhedeg minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Wedi methu ac agor ffeil ( { $path } )
 # $path (String) - the file path

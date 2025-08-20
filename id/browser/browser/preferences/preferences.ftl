@@ -4,9 +4,6 @@
 
 do-not-track-description = Kirim sinyal “Jangan Lacak” ke situs web bahwa Anda tidak ingin dilacak
 do-not-track-removal = Kami tidak lagi mendukung sinyal "Jangan Lacak"
-do-not-track-description2 =
-    .label = Kirim sinyal “Jangan Lacak” ke situs web
-    .accesskey = K
 do-not-track-learn-more = Pelajari lebih lanjut
 do-not-track-option-default-content-blocking-known =
     .label = Hanya ketika { -brand-short-name } diatur untuk memblokir pelacak yang diketahui
@@ -252,10 +249,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Pilihan warna Anda mengesampingkan tampilan situs web. <a data-l10n-name="colors-link">Kelola warna</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Pilihan warna Anda mengesampingkan tampilan situs web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Kelola tema { -brand-short-name } di <a data-l10n-name="themes-link">Ekstensi & Tema</a>
@@ -1378,8 +1371,6 @@ addon-recommendations-link = Pelajari lebih lanjut
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pelaporan data dinonaktifkan untuk konfigurasi build ini
 collection-backlogged-crash-reports-with-link = Izinkan { -brand-short-name } mengirim laporan kerusakan sebelumnya atas nama Anda <a data-l10n-name="crash-reports-link">Pelajari lebih lanjut</a>
-    .accesskey = l
-collection-backlogged-crash-reports = Izinkan { -brand-short-name } mengirim laporan kerusakan sebelumnya atas nama Anda
     .accesskey = l
 privacy-segmentation-section-header = Fitur baru yang meningkatkan penjelajahan Anda
 privacy-segmentation-section-description = Saat kami menawarkan fitur yang menggunakan data Anda untuk memberi Anda pengalaman yang lebih pribadi:

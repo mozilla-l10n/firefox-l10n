@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Vis ikke denne dialogboks igen
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Vigtigt
-tabbrowser-confirm-close-duplicate-tabs-text = Vi lader det senest aktive faneblad være åbent
 tabbrowser-confirm-close-all-duplicate-tabs-title = Luk kopierede faneblade?
 tabbrowser-confirm-close-all-duplicate-tabs-text =
     Vi lukker kopierede faneblade i dette vindue. Det sidste aktive

@@ -134,8 +134,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = 下次不要再顯示此對話方塊
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = 請注意
-tabbrowser-confirm-close-duplicate-tabs-text = 將只保留最後開啟的分頁
 tabbrowser-confirm-close-all-duplicate-tabs-title = 要關閉重複開啟的分頁嗎？
 tabbrowser-confirm-close-all-duplicate-tabs-text = 將關閉此視窗中重複的分頁，只保留最後一個開啟的分頁。
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = 關閉分頁

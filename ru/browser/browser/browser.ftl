@@ -401,7 +401,6 @@ quickactions-cmd-print = печать
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Сохранить страницу как PDF
 quickactions-cmd-savepdf2 = pdf, сохранить страницу
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Открыть приватное окно
 quickactions-cmd-private = приватный просмотр

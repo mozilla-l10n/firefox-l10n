@@ -14,8 +14,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Titz'apïx
     .aria-label = Titz'apïx
-firefoxview-empty-state-icon =
-    .alt = Tatz'eta':
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Wakami
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -27,7 +25,6 @@ firefoxview-tabpickup-progress-label = { $percentValue }% tz'aqät
 firefoxview-tabpickup-step-signin-header = Tijal chi kikojol taq okisaxel akuchi' majun q'atoj
 firefoxview-tabpickup-step-signin-description = Richin ye'atz'ët ri taq ruwi' awoyonib'al wawe', nab'ey tatikirisaj molojri'ïl o tatz'uku' jun rub'i' ataqoya'l.
 firefoxview-tabpickup-step-signin-primarybutton = Titikïr chik el
-firefoxview-syncedtabs-signin-primarybutton = Titikirisäx molojri'ïl o titz'ib'äx b'i'aj
 firefoxview-tabpickup-adddevice-header = Tixim { -brand-product-name } pan awoyonib'al o ch'uti kematz'ib'
 firefoxview-tabpickup-adddevice-description = Taqasaj { -brand-product-name } kichin oyonib'äl richin natikirisaj molojri'ïl chi ri'.
 firefoxview-tabpickup-adddevice-learn-how = Tetamäx achike rub'eyal
@@ -38,7 +35,6 @@ firefoxview-tabpickup-synctabs-description = Tiya' q'ij chi re { -brand-short-na
 firefoxview-tabpickup-synctabs-learn-how = Tetamäx achike rub'eyal
 firefoxview-tabpickup-synctabs-primarybutton = Kexim jaqon taq ruwi'
 firefoxview-syncedtabs-synctabs-header = Kek'ëx taq runuk'ulem ximoj
-firefoxview-syncedtabs-synctabs-checkbox = Tiya' q'ij chi tikixima' ki' ri jaqon taq ruwi'
 firefoxview-syncedtabs-loading-header = Tajin nixim
 firefoxview-tabpickup-fxa-admin-disabled-header = Ri amoloj xuchüp ri ximoj
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } man yeruxïm ta ri taq ruwi' chi kikojol taq okisaxel ruma chi ri anuk'samajel xuchüp ri ximoj.
@@ -69,7 +65,6 @@ firefoxview-closed-tabs-title = Nimakol titz'apïx
 firefoxview-closed-tabs-description2 = Kejaq chik ri tz'apin taq ruwi' pa re tzuwäch re'.
 firefoxview-closed-tabs-placeholder-header = Majun taq ruwi' k'a b'a' ketz'apïx
 firefoxview-closed-tabs-placeholder-body = Toq natz'apij jun ruwi' pa re tzuwäch re', xkatikïr xtakanoj wawe'.
-firefoxview-closed-tabs-placeholder-body2 = Toq natz'apij jun ruwi', xkatikïr xtakanoj wawe'.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -121,8 +116,6 @@ firefoxview-view-all-link = Titz'et ronojel
 #   $winID (Number) - The index of the owner window for this set of tabs
 firefoxview-opentabs-window-header =
     .title = Tzuwäch { $winID }
-firefoxview-opentabs-focus-tab =
-    .title = Tijalwachïx rik'in re ruwi' re'
 firefoxview-show-more = Kek'ut ch'aqa' chik
 firefoxview-show-less = Tik'ut jub'a'
 firefoxview-sort-history-by-date-label = Kenuk' chi q'ijul
@@ -143,17 +136,12 @@ firefoxview-history-site-localhost = (aj wawe' taq yakb'äl)
 ##
 
 firefoxview-show-all-history = Tik'ut ronojel natab'äl
-firefoxview-view-more-browsing-history = Ketz'et ch'aqa' chik kinatab'al okem
 
 ##
 
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = Ticha' okik'amaya'l
     .title = Ticha' okik'amaya'l
-
-## Message displayed in Firefox View when the user has chosen to never remember History
-
-firefoxview-dont-remember-history-empty-header = Majun achike nik'ut
 
 ##
 

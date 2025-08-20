@@ -77,8 +77,6 @@ client-auth-cert-details-issued-by = Elesan ruma: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Yakon pa: { $storedOn }
-client-auth-cert-remember-box =
-    .label = Tinatäx re na'oj re'
 
 ## Set password (p12) dialog
 

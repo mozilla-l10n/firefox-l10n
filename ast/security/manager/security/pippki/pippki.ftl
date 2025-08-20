@@ -42,5 +42,3 @@ client-auth-cert-details-issued-by = Emitióse por: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Atroxóse en: { $storedOn }
-client-auth-cert-remember-box =
-    .label = Acordase d'esta decisión

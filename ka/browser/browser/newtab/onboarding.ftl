@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = გადმოტა�
 mr1-onboarding-theme-header = გახადეთ თქვენებური
 mr1-onboarding-theme-subtitle = მოირგეთ { -brand-short-name } გაფორმებით.
 mr1-onboarding-theme-secondary-button-label = ახლა არა
-newtab-wallpaper-onboarding-title = შეაფერადეთ
-newtab-wallpaper-onboarding-subtitle = აირჩიეთ ფონი ახალი ჩანართისვის ახლებური იერსახის მისანიჭებლად.
-newtab-wallpaper-onboarding-primary-button-label = ფონის დაყენება
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = სისტემური გაფორმება
 mr1-onboarding-theme-label-light = ნათელი

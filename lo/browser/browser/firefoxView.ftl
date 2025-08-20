@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = ປິດ
     .aria-label = ປິດ
-firefoxview-empty-state-icon =
-    .alt = ເອົາໃຈໃສ່:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ມື້ກີ້ນີ້
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -34,14 +32,11 @@ firefoxview-tabpickup-step-signin-description = ເພື່ອຈັບແຖ�
 firefoxview-tabpickup-step-signin-primarybutton = ສືບຕໍ່
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } ຂອງທ່ານໃນທຸກອຸປະກອນຂອງທ່ານ
 firefoxview-syncedtabs-signin-primarybutton-2 = ເຂົ້າສູ່ລະບົບ
-firefoxview-syncedtabs-signin-header = ເອົາແຖບຈາກທຸກບ່ອນ
-firefoxview-syncedtabs-signin-primarybutton = ເຂົ້າສູ່ລະບົບ ຫຼື ລົງທະບຽນ
 firefoxview-tabpickup-adddevice-header = ຊິ້ງຂໍ້ມູນ { -brand-product-name } ໃນໂທລະສັບ ຫຼືແທັບເລັດຂອງທ່ານ
 firefoxview-tabpickup-adddevice-description = ດາວໂຫລດ { -brand-product-name } ສໍາລັບມືຖື ແລະເຂົ້າສູ່ລະບົບຢູ່ທີ່ນັ້ນ.
 firefoxview-tabpickup-adddevice-learn-how = ຮຽນຮູ້ວິທີການ
 firefoxview-tabpickup-adddevice-primarybutton = ເອົາ { -brand-product-name } ສໍາລັບມືຖື
 firefoxview-syncedtabs-adddevice-header-2 = ເອົາແຖບຈາກທຸກບ່ອນ
-firefoxview-syncedtabs-adddevice-header = ເຂົ້າສູ່ລະບົບ { -brand-product-name } ໃນອຸປະກອນອື່ນຂອງທ່ານ
 firefoxview-syncedtabs-adddevice-primarybutton = ລອງໃຊ້ { -brand-product-name } ສໍາລັບມືຖື
 firefoxview-tabpickup-synctabs-header = ເປີດການຊິງຄ໌ແຖບ
 firefoxview-tabpickup-synctabs-description = ອະນຸຍາດໃຫ້ { -brand-short-name } ແບ່ງປັນແຖບລະຫວ່າງອຸປະກອນ.
@@ -49,7 +44,6 @@ firefoxview-tabpickup-synctabs-learn-how = ຮຽນຮູ້ວິທີກາ�
 firefoxview-tabpickup-synctabs-primarybutton = Sync ແຖບເປີດ
 firefoxview-syncedtabs-synctabs-header = ອັບເດດການຕັ້ງຄ່າການຊິງຄ໌ຂອງທ່ານ
 firefoxview-syncedtabs-synctabs-description = ເພື່ອເບິ່ງແຖບຈາກອຸປະກອນອື່ນ, ທ່ານຈໍາເປັນຕ້ອງຊິ້ງຂໍ້ມູນແຖບທີ່ເປີດຢູ່ຂອງທ່ານ.
-firefoxview-syncedtabs-synctabs-checkbox = ອະນຸຍາດໃຫ້ແຖບເປີດເພື່ອຊິງຄ໌
 firefoxview-syncedtabs-loading-header = ກຳລັງຊິ້ງຂໍ້ມູນຢູ່
 firefoxview-syncedtabs-loading-description = ເມື່ອສຳເລັດແລ້ວ, ທ່ານຈະເຫັນແຖບຕ່າງໆທີ່ທ່ານເປີດຢູ່ໃນອຸປະກອນອື່ນ. ກວດເບິ່ງຄືນໃນໄວໆນີ້.
 firefoxview-tabpickup-fxa-admin-disabled-header = ອົງການຂອງທ່ານໄດ້ປິດການຊິ້ງຂໍ້ມູນ
@@ -83,7 +77,6 @@ firefoxview-closed-tabs-title = ຫາກໍ່ປິດໄປມື້ກີ້
 firefoxview-closed-tabs-description2 = ເປີດໜ້າທີ່ທ່ານໄດ້ປິດຄືນໃໝ່ຢູ່ໃນໜ້າຈໍນີ້.
 firefoxview-closed-tabs-placeholder-header = ບໍ່ມີແຖບທີ່ປິດເມື່ອບໍ່ດົນມານີ້
 firefoxview-closed-tabs-placeholder-body = ເມື່ອທ່ານປິດແຖບຢູ່ໃນປ່ອງຢ້ຽມນີ້, ທ່ານສາມາດດຶງມັນຈາກທີ່ນີ້.
-firefoxview-closed-tabs-placeholder-body2 = ເມື່ອທ່ານປິດແຖບໃດໜຶ່ງ, ທ່ານສາມາດດຶງມັນຈາກບ່ອນນີ້ໄດ້.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -149,8 +142,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = ໜ້າຕ່າງ { $winID } (ປະຈຸບັນ)
-firefoxview-opentabs-focus-tab =
-    .title = ສະຫຼັບໄປແຖບນີ້
 firefoxview-show-more = ສະແດງເພີ່ມເຕີມ
 firefoxview-show-less = ສະແດງນ້ອຍລົງ
 firefoxview-show-all = ສະແດງທັງໝົດ
@@ -168,9 +159,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = ຄົ້ນຫາແທັບ
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = ຄົ້ນຫາແທັບທີ່ຊິງຄ໌ແລ້ວ
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = ຊອກຫາແຖບເປີດ
@@ -189,10 +177,6 @@ firefoxview-sort-history-by-date-label = ຈັດຮຽງຕາມວັນທ
 firefoxview-sort-history-by-site-label = ຈັດຮຽງຕາມເວັບໄຊ
 firefoxview-sort-open-tabs-by-recency-label = ຈັດຮຽງຕາມການເຄື່ອນໄຫວທີ່ຜ່ານມາ
 firefoxview-sort-open-tabs-by-order-label = ຈັດຮຽງຕາມລໍາດັບແຖບ
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = ປ່ຽນເປັນ { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -209,7 +193,6 @@ firefoxview-history-site-localhost = (ໄຟລ໌ໃນເຄື່ອງ)
 ##
 
 firefoxview-show-all-history = ສະແດງປະຫວັດທັງໝົດ
-firefoxview-view-more-browsing-history = ເບິ່ງປະຫວັດການທ່ອງເວັບເພີ່ມເຕີມ
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -224,8 +207,6 @@ firefoxview-choose-browser-button = ເລືອກຕົວທ່ອງເວ�
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = ບໍ່ມີຫຍັງທີ່ຈະສະແດງ
-firefoxview-dont-remember-history-empty-description = ການປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານແມ່ນຈຸດໃຈກາງຂອງສິ່ງທີ່ພວກເຮົາເຮັດ. ມັນເປັນເຫດຜົນທີ່ທ່ານສາມາດຄວບຄຸມກິດຈະກໍາ { -brand-short-name } ຈື່ໄວ້.
 firefoxview-dont-remember-history-empty-header-2 = ທ່ານຄວບຄຸມສິ່ງທີ່ { -brand-short-name } ຈື່ໄດ້
 
 ##

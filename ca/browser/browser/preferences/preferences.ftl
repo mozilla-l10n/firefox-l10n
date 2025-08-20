@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Envia als llocs web el senyal «No vull ser seguit» per informar-los que no vull que em facin el seguiment
-do-not-track-description2 =
-    .label = Envia als llocs web la sol·licitud «No vull ser seguit»
-    .accesskey = E
 do-not-track-learn-more = Més informació
 do-not-track-option-default-content-blocking-known =
     .label = Només si el { -brand-short-name } està configurat per blocar els elements de seguiment coneguts
@@ -242,10 +239,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = La vostra selecció de colors modifica l'aparença dels llocs web. <a data-l10n-name="colors-link">Gestiona els colors</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = La vostra selecció de colors modifica l'aparença dels llocs web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gestioneu els temes del { -brand-short-name } a <a data-l10n-name="themes-link">Extensions i temes</a>
@@ -1301,8 +1294,6 @@ addon-recommendations-link = Més informació
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'aquesta versió
 collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament <a data-l10n-name="crash-reports-link">Més informació</a>
-    .accesskey = f
-collection-backlogged-crash-reports = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament
     .accesskey = f
 privacy-segmentation-section-header = Noves funcions que milloren la navegació
 privacy-segmentation-section-description = Quan us oferim funcions que utilitzen les vostres dades per oferir-vos una experiència més personal:

@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Pertsonalizatua
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Testua
-    .title = Editatu kolorea
-about-reader-custom-colors-background = Atzeko planoa
-    .title = Editatu kolorea
-about-reader-custom-colors-unvisited-links = Bisitatu gabeko loturak
-    .title = Editatu kolorea
-about-reader-custom-colors-visited-links = Bisitatutako loturak
-    .title = Editatu kolorea
-about-reader-custom-colors-selection-highlight = Ozen irakurtzeko nabarmengailua
-    .title = Editatu kolorea
 about-reader-reset-button = Berrezarri lehenespenak
 about-reader-custom-colors-foreground2 =
     .label = Testua

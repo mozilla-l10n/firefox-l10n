@@ -321,9 +321,6 @@ newtab-custom-pocket-sponsored = Мақолаҳои сарпарастӣ
 newtab-custom-pocket-show-recent-saves = Намоиш додани маводҳои охирин
 newtab-custom-recent-title = Фаъолияти охирин
 newtab-custom-recent-subtitle = Интихоби сомонаҳо ва муҳтавои охирин
-newtab-custom-recent-toggle =
-    .label = Фаъолияти охирин
-    .description = Интихоби сомонаҳо ва муҳтавои охирин
 newtab-custom-weather-toggle =
     .label = Обу ҳаво
     .description = Ҳолати обу ҳаво барои имрӯз
@@ -460,7 +457,6 @@ newtab-weather-menu-change-location = Иваз кардани макон
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Ҷустуҷӯи макон
     .aria-label = Ҷустуҷӯи макон
-newtab-weather-change-location-search-input = Ҷустуҷӯи макон
 newtab-weather-menu-weather-display = Намоиши обу ҳаво
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -637,7 +633,6 @@ newtab-widget-lists-menu-delete = Нест кардани ин рӯйхат
 newtab-widget-lists-menu-copy = Нусха бардоштани рӯйхат ба ҳофизаи муваққатӣ
 newtab-widget-lists-menu-hide = Пинҳон кардани ҳамаи варақаҳо
 newtab-widget-lists-menu-learn-more = Маълумоти бештар
-newtab-widget-lists-input-placeholder = Илова кардани унсур
 newtab-widget-lists-input-menu-open-link = Кушодани пайванд
 newtab-widget-lists-input-menu-move-up = Ба боло гузоштан
 newtab-widget-lists-input-menu-move-down = Ба поён гузоштан

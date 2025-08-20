@@ -26,8 +26,5 @@ password-manager-update-password-button-deny =
     .accesskey = o
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Garra nombre d'usuario
-password-manager-toggle-password =
-    .label = Amostrar la clau
-    .accesskey = h
 password-manager-confirm-password-change = Confirmar o cambeo de clau
 password-manager-select-username = Trigar qué login esviellar:

@@ -188,7 +188,6 @@ search-one-offs-history =
 quickactions-cmd-addons2 = ऐड-ऑन
 quickactions-cmd-bookmarks = बुकमार्क
 quickactions-cmd-print = प्रिंट करें
-quickactions-cmd-savepdf = pdf
 # Opens the screenshot tool
 quickactions-screenshot3 = स्क्रीनशॉट लें
 quickactions-cmd-screenshot = स्क्रीनशॉट

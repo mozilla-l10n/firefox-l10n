@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Dit dialoochfinster net mear toane.
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Let op!
-tabbrowser-confirm-close-duplicate-tabs-text = Wy hâlde it lêste aktive ljepblêd iepen
 tabbrowser-confirm-close-all-duplicate-tabs-title = Dûbele ljepblêden slute?
 tabbrowser-confirm-close-all-duplicate-tabs-text =
     Dûbele ljepblêden yn dit finster wurde sluten. It lêst aktive

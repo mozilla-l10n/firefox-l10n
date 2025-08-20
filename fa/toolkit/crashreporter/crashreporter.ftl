@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = برای این که به ما کمک کنید تا مشکل را پیدا کنیم و آن را برطرف سازیم، می‌توانید گزارشی از این فروپاشی را به ما ارسال کنید.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = جزئیات: { $details }
 crashreporter-no-run-message = این برنامه پس از فروپاشی اجرا می‌شود تا جزئیات مشکل را به تولیدکنندهٔ نرم‌افزار ارسال کند.  اجرای مستقیم این برنامه مجاز نیست.
 crashreporter-button-details = جزئیات…
 crashreporter-view-report-title = محتوای گزارش

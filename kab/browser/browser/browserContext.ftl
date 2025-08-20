@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Nɣel aseɣwen yettwasfaḍen
     .accesskey = e
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Nɣel aseɣwen war aḍfar n usmel
-    .accesskey = ɣ
 
 ## Media (video/audio) controls
 ##

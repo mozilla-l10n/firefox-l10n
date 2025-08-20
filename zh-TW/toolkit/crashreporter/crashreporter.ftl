@@ -9,8 +9,6 @@ crashreporter-plea = 為了協助我們修正相關錯誤，煩請傳回錯誤�
 crashreporter-information = 本程式是為軟體發生錯誤、自行關閉後，回傳錯誤資訊給 { -vendor-short-name } 之用，不應直接執行。
 crashreporter-error = { -brand-short-name } 發生錯誤而自行關閉。可惜，錯誤回報員無法回傳關於這次錯誤的資訊。
 crashreporter-error-details-header = 詳細資訊：
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = 細節如下: { $details }
 crashreporter-no-run-message = 本程式是為軟體出現錯誤、自行關閉時回傳錯誤資訊之用，不應直接執行。
 crashreporter-button-details = 詳細資訊…
 crashreporter-loading-details = 載入中…
@@ -20,8 +18,6 @@ crashreporter-report-info = 報表中另包含程式錯誤關閉時的狀況資�
 crashreporter-checkbox-test-hardware = 檢查我的裝置是否有硬體或設定問題。
 crashreporter-checkbox-send-report = 告訴 { -vendor-short-name } 這次錯誤的資訊，讓他們修正。
 crashreporter-checkbox-include-url = 包含我所瀏覽的頁面網址。
-crashreporter-send-report = 告訴 { -vendor-short-name } 這次錯誤的資訊，讓他們修正。
-crashreporter-include-url = 包含我所瀏覽的頁面網址。
 crashreporter-submit-status = 您的資訊報表會在您離開或重開前送出。
 crashreporter-submit-waiting-hardware-tests = 檢查裝置是否有硬體或設定問題…
 crashreporter-submit-in-progress = 送出資訊報表中…
@@ -39,7 +35,6 @@ crashreporter-crash-details = 您可以到 { $url } 查閱此次錯誤的細節�
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = minidump-analyzer 執行失敗
 # $path (String) - the file path
 crashreporter-error-opening-file = 檔案開啟失敗（{ $path }）
 # $path (String) - the file path

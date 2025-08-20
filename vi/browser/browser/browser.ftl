@@ -401,7 +401,6 @@ quickactions-cmd-print = in, in trang, print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Lưu trang dưới dạng PDF
 quickactions-cmd-savepdf2 = pdf, lưu trang, luu trang
-quickactions-cmd-savepdf = pdf, save as pdf
 # Opens a new private browsing window
 quickactions-private2 = Mở cửa sổ riêng tư
 quickactions-cmd-private = duyệt web riêng tư, duyet web rieng tu, cửa sổ riêng tư, cua so rieng tu

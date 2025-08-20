@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Sérsniðið
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Texti
-    .title = Breyta lit
-about-reader-custom-colors-background = Bakgrunnur
-    .title = Breyta lit
-about-reader-custom-colors-unvisited-links = Ónotaðir tenglar
-    .title = Breyta lit
-about-reader-custom-colors-visited-links = Notaðir tenglar
-    .title = Breyta lit
-about-reader-custom-colors-selection-highlight = Áherslulitun fyrir upplestur
-    .title = Breyta lit
 about-reader-reset-button = Endurstilla á sjálfgefið
 about-reader-custom-colors-foreground2 =
     .label = Texti

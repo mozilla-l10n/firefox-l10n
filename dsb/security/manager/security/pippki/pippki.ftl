@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Stawnje
 client-auth-cert-remember-temporarily =
     .label = Za toś to pósejźenje
-client-auth-cert-remember-box =
-    .label = Toś ten rozsud se spomnjeś
 
 ## Set password (p12) dialog
 

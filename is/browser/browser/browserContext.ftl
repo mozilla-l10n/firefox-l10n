@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Afrita hreinan tengil
     .accesskey = h
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Afrita tengil án vefsvæðarakningar
-    .accesskey = f
 
 ## Media (video/audio) controls
 ##

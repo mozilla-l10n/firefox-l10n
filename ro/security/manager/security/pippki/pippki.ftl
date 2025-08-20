@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Permanent
 client-auth-cert-remember-temporarily =
     .label = Pentru această sesiune
-client-auth-cert-remember-box =
-    .label = Ține minte decizia
 
 ## Set password (p12) dialog
 

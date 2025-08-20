@@ -70,16 +70,6 @@ about-reader-customtheme-tab = 사용자 지정
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = 텍스트
-    .title = 색상 편집
-about-reader-custom-colors-background = 배경
-    .title = 색상 편집
-about-reader-custom-colors-unvisited-links = 방문하지 않은 링크
-    .title = 색상 편집
-about-reader-custom-colors-visited-links = 방문한 링크
-    .title = 색상 편집
-about-reader-custom-colors-selection-highlight = 소리내어 읽기 하이라이터
-    .title = 색상 편집
 about-reader-reset-button = 기본값 재설정
 about-reader-custom-colors-foreground2 =
     .label = 텍스트

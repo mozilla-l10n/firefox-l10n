@@ -54,14 +54,6 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = دستاویز خصوصیات ۔ ۔ ۔
 pdfjs-document-properties-file-name = فایل ناو:
 pdfjs-document-properties-file-size = فایل سایِز:
-# Variables:
-#   $size_kb (Number) - the PDF file size in kilobytes
-#   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
-# Variables:
-#   $size_mb (Number) - the PDF file size in megabytes
-#   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
 pdfjs-document-properties-title = عنوان:
 pdfjs-document-properties-author = آتھر
 pdfjs-document-properties-subject = موضوع:

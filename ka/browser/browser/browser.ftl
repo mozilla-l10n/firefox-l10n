@@ -401,7 +401,6 @@ quickactions-cmd-print = ამობეჭდვა
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = გვერდი შეინახოს, როგორც PDF
 quickactions-cmd-savepdf2 = pdf, გვერდის შენახვა
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = პირადი ფანჯრის გახსნა
 quickactions-cmd-private = პირადი თვალიერება

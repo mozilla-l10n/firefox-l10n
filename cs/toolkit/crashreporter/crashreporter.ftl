@@ -25,8 +25,6 @@ crashreporter-error =
        *[other] Aplikace { -brand-short-name } zaznamenala problém a spadla. Hlášení pádu se bohužel nepodařilo odeslat.
     }
 crashreporter-error-details-header = Podrobnosti:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Podrobnosti: { $details }
 crashreporter-no-run-message = Tato aplikace je spuštěna po pádu jiné aplikace a jejím účelem je zaslat hlášení o pádu vývojářům aplikace. Není ji proto možné spustit samostatně.
 crashreporter-button-details = Podrobnosti…
 crashreporter-loading-details = Načítání…
@@ -52,14 +50,6 @@ crashreporter-checkbox-send-report =
             }
     }
 crashreporter-checkbox-include-url = Zahrnout i adresu stránky, kde došlo k pádu.
-crashreporter-send-report =
-    { -vendor-short-name.gender ->
-        [masculine] Upozornit { -vendor-short-name(case: "acc") } na tento pád, aby ho mohl opravit.
-        [feminine] Upozornit { -vendor-short-name(case: "acc") } na tento pád, aby ho mohla opravit.
-        [neuter] Upozornit { -vendor-short-name(case: "acc") } na tento pád, aby ho mohlo opravit.
-       *[other] Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
-    }
-crashreporter-include-url = Zahrnout i adresu stránky, kde došlo k pádu.
 crashreporter-submit-status = Vaše hlášení o pádu bude odesláno před ukončením či restartem aplikace
 crashreporter-submit-waiting-hardware-tests = Probíhá kontrola problémů s hardwarem a konfigurací...
 crashreporter-submit-in-progress = Odesílání hlášení o pádu…
@@ -85,7 +75,6 @@ crashreporter-crash-details = Detaily tohoto pádu si lze prohlédnout na strán
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Nepodařilo se spustit minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Nepodařilo se otevřít soubor ({ $path })
 # $path (String) - the file path

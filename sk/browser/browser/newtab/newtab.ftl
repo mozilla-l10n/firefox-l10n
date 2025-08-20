@@ -320,9 +320,6 @@ newtab-custom-pocket-sponsored = Sponzorované príbehy
 newtab-custom-pocket-show-recent-saves = Zobraziť nedávno uložené položky
 newtab-custom-recent-title = Nedávna aktivita
 newtab-custom-recent-subtitle = Výber z nedávno navštívených stránok a obsahu
-newtab-custom-recent-toggle =
-    .label = Nedávna aktivita
-    .description = Výber z nedávno navštívených stránok a obsahu
 newtab-custom-weather-toggle =
     .label = Počasie
     .description = Dnešná predpoveď v skratke
@@ -446,7 +443,6 @@ newtab-weather-menu-change-location = Zmeniť oblasť
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Hľadať oblasť
     .aria-label = Hľadať oblasť
-newtab-weather-change-location-search-input = Hľadať oblasť
 newtab-weather-menu-weather-display = Zobrazenie počasia
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

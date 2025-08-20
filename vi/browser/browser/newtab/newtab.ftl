@@ -322,9 +322,6 @@ newtab-custom-pocket-sponsored = Câu chuyện được tài trợ
 newtab-custom-pocket-show-recent-saves = Hiển thị các lần lưu gần đây
 newtab-custom-recent-title = Hoạt động gần đây
 newtab-custom-recent-subtitle = Tuyển chọn các trang và nội dung gần đây
-newtab-custom-recent-toggle =
-    .label = Hoạt động gần đây
-    .description = Tuyển chọn các trang và nội dung gần đây
 newtab-custom-weather-toggle =
     .label = Thời tiết
     .description = Sơ lược về dự báo hôm nay
@@ -461,7 +458,6 @@ newtab-weather-menu-change-location = Thay đổi khu vực
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Tìm kiếm khu vực
     .aria-label = Tìm kiếm khu vực
-newtab-weather-change-location-search-input = Tìm kiếm khu vực
 newtab-weather-menu-weather-display = Cách hiển thị thời tiết
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -640,7 +636,6 @@ newtab-widget-lists-menu-delete = Xóa danh sách này
 newtab-widget-lists-menu-copy = Sao chép danh sách vào khay nhớ tạm
 newtab-widget-lists-menu-hide = Ẩn tất cả danh sách
 newtab-widget-lists-menu-learn-more = Tìm hiểu thêm
-newtab-widget-lists-input-placeholder = Thêm một mục
 newtab-widget-lists-input-error = Vui lòng thêm văn bản để thêm mục.
 newtab-widget-lists-input-menu-open-link = Mở liên kết
 newtab-widget-lists-input-menu-move-up = Di chuyển lên
@@ -669,6 +664,7 @@ newtab-widget-timer-menu-notifications = Tắt thông báo
 newtab-widget-timer-menu-notifications-on = Bật thông báo
 newtab-widget-timer-menu-hide = Ẩn bộ hẹn giờ
 newtab-widget-timer-menu-learn-more = Tìm hiểu thêm
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Cuộn để biết thêm
 newtab-promo-card-title = Hỗ trợ cho { -brand-product-name }
 newtab-promo-card-body = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn

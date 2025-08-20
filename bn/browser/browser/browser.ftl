@@ -384,7 +384,6 @@ quickactions-print2 = প্রিন্ট পৃষ্ঠা
 quickactions-cmd-print = মুদ্রণ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = পৃষ্ঠা পিডিএফ হিসাবে সংরক্ষণ করুন
-quickactions-cmd-savepdf = পিডিএফ
 # Opens a new private browsing window
 quickactions-private2 = ব্যক্তিগত উইন্ডো খুলুন
 quickactions-cmd-private = ব্যক্তিগত ব্রাউজিং

@@ -4,9 +4,6 @@
 
 do-not-track-description = Šalji web stranicama signal „Ne prati me”, da ne želiš da te prate
 do-not-track-removal = Više ne podržavamo signal „Ne prati”
-do-not-track-description2 =
-    .label = Šalji web stranicama zahtjev za „Ne prati me”
-    .accesskey = d
 do-not-track-learn-more = Saznaj više
 do-not-track-option-default-content-blocking-known =
     .label = Samo kad je { -brand-short-name } postavljen da blokira poznate programe za praćenje
@@ -271,10 +268,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tvoj izbor boja nadvladava izgled web stranice. <a data-l10n-name="colors-link">Upravljaj bojama</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Tvoj izbor boja nadvladava izgled web stranice.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljaj temama za { -brand-short-name } u odjeljku <a data-l10n-name="themes-link">Dodaci i teme</a>
@@ -1425,8 +1418,6 @@ addon-recommendations-link = Saznaj više
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji o podacima su deaktivirani za konfiguraciju za izgradnju
 collection-backlogged-crash-reports-with-link = Dozvoli da { -brand-short-name } pošalje zaostale izvještaje o prekidu rada programa u tvoje ime <a data-l10n-name="crash-reports-link">Saznaj više</a>
-    .accesskey = D
-collection-backlogged-crash-reports = Dozvoli da { -brand-short-name } pošalje zaostale izvještaje o prekidu rada programa u tvoje ime
     .accesskey = D
 privacy-segmentation-section-header = Nove funkcije koje poboljšavaju tvoje pregledavanje interneta
 privacy-segmentation-section-description = Kada nudimo funkcije koje koriste tvoje podatke za pružanje osobnijeg iskustva:

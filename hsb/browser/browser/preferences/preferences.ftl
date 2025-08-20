@@ -4,9 +4,6 @@
 
 do-not-track-description = Websydłam signal “Njeslědować” pósłać, zo nochceće, zo wone was slěduja
 do-not-track-removal = Hižo njepodpěrujemy signal „Njeslědować“
-do-not-track-description2 =
-    .label = Websydłam naprašowanje „Njeslědować“ pósłać
-    .accesskey = s
 do-not-track-learn-more = Dalše informacije
 do-not-track-option-default-content-blocking-known =
     .label = Jenož hdyž w { -brand-short-name } je blokowanje znatych přesćěhowakow  nastajene
@@ -274,10 +271,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Waše barbowe wuběry napohlad websydła přepisuja. <a data-l10n-name="colors-link">Barby rjadować</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Waše barbowe wuběry napohlad websydła přepisuja.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Drasty { -brand-short-name } w <a data-l10n-name="themes-link">Rozšěrjenja a drasty</a> rjadować
@@ -1442,8 +1435,6 @@ addon-recommendations-link = Dalše informacije
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datowe rozprawjenje je znjemóžnjene za tutu programowu konfiguraciju
 collection-backlogged-crash-reports-with-link = { -brand-short-name } dowolić, zo by njepósłane spadowe rozprawy we wašim mjenje pósłał <a data-l10n-name="crash-reports-link">Dalše informacije</a>
-    .accesskey = d
-collection-backlogged-crash-reports = { -brand-short-name } dowolić, zo by njepósłane spadowe rozprawy we wašim mjenje pósłał
     .accesskey = d
 privacy-segmentation-section-header = Nowe funkcije, kotrež waše přehladowanje polěpšeja
 privacy-segmentation-section-description = Hdyž funkcije poskicámy, kotrež waše daty wužiwaja, zo bychmy wam bóle wosobinske dožiwjenje skićili:

@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Dit dialoogvenster niet meer tonen.
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Opgelet
-tabbrowser-confirm-close-duplicate-tabs-text = We houden het laatste actieve tabblad open
 tabbrowser-confirm-close-all-duplicate-tabs-title = Dubbele tabbladen sluiten?
 tabbrowser-confirm-close-all-duplicate-tabs-text =
     Dubbele tabbladen in dit venster worden gesloten. Het laatst actieve

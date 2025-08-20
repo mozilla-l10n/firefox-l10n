@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Par simpri
 client-auth-cert-remember-temporarily =
     .label = Par cheste session
-client-auth-cert-remember-box =
-    .label = Visiti di cheste decision
 
 ## Set password (p12) dialog
 

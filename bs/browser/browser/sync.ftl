@@ -35,7 +35,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Odmah pošaljite tab na bilo koji uređaj na koji ste prijavljeni.
 fxa-menu-sign-out =
     .label = Odjava…
-fxa-menu-sync-title = Sinhronizacija
 fxa-menu-sync-description = Pristupite svom webu bilo gdje
 fxa-avatar-sign-in = Prijava
 fxa-avatar-sign-up = Registruj se

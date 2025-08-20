@@ -29,7 +29,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Kirim tab secara instan ke perangkat apa pun tempat Anda masuk.
 fxa-menu-sign-out =
     .label = Keluar…
-fxa-menu-sync-title = Sinkronisasi
 fxa-menu-sync-description = Akses web Anda di mana saja
 sync-setup-verify-continue = Lanjutkan
 sync-setup-verify-title = Peringatan Penggabungan

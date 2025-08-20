@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importă din { $previou
 mr1-onboarding-theme-header = Fă-l pe stilul tău
 mr1-onboarding-theme-subtitle = Personalizează { -brand-short-name } cu o temă.
 mr1-onboarding-theme-secondary-button-label = Nu acum
-newtab-wallpaper-onboarding-title = Încearcă o pată de culoare
-newtab-wallpaper-onboarding-subtitle = Alege o imagine de fundal ca să dai filelor noi un aspect proaspăt.
-newtab-wallpaper-onboarding-primary-button-label = Setează imaginea de fundal
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema sistemului
 mr1-onboarding-theme-label-light = Deschisă

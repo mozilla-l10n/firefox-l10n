@@ -16,8 +16,5 @@ password-manager-update-password-button-deny =
     .accesskey = Н
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Нема корисничко име
-password-manager-toggle-password =
-    .label = Прикажи лозинка
-    .accesskey = п
 password-manager-confirm-password-change = Потврдување на промената на лозинката
 password-manager-select-username = Изберете која најава да се ажурира:

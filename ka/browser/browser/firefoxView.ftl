@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = დახურვა
     .aria-label = დახურვა
-firefoxview-empty-state-icon =
-    .alt = ყურადღება:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ახლახან
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = განაგრძეთ
 firefoxview-syncedtabs-signin-header-2 = თქვენი { -brand-product-name } ყველა თქვენს მოწყობილობაზე
 firefoxview-syncedtabs-signin-description-2 = ტელეფონსა და სხვა მოწყობილობებზე გახსნილი ჩანართების სანახავად შედით ან შექმენით ანგარიში. ანგარიშით ასევე შეგიძლიათ დაასინქრონოთ თქვენი პაროლები, ისტორია და სხვ.
 firefoxview-syncedtabs-signin-primarybutton-2 = შესვლა
-firefoxview-syncedtabs-signin-header = წამოიღეთ ჩანართები ნებისმიერი ადგილიდან
-firefoxview-syncedtabs-signin-description = თქვენი ჩანართების სანახავად, სადაც არ უნდა გამოიყენოთ { -brand-product-name }, შედით ანგარიშში. თუ არ გაქვთ ანგარიში, მის შესაქმნელად ნაბიჯ-ნაბიჯ გაგიძღვებით.
-firefoxview-syncedtabs-signin-primarybutton = შედით ან შექმენით ანგარიში
 firefoxview-tabpickup-adddevice-header = დაასინქრონეთ { -brand-product-name } თქვენს ტელეფონსა და პლანშეტზე
 firefoxview-tabpickup-adddevice-description = ჩამოტვირთეთ { -brand-product-name } მობილურზე და იქიდანაც შედით.
 firefoxview-tabpickup-adddevice-learn-how = იხილეთ, როგორ
 firefoxview-tabpickup-adddevice-primarybutton = გადმოწერეთ { -brand-product-name } მობილურზე
 firefoxview-syncedtabs-adddevice-header-2 = წამოიღეთ ჩანართები ნებისმიერი ადგილიდან
 firefoxview-syncedtabs-adddevice-description-2 = შედით ანგარიშით ტელეფონზე ან სხვა კომპიუტერზე, სადაც გიყენიათ { -brand-product-name }, რომ იხილოთ ჩანართები აქ. ვრცლად, თუ როგორ უნდა <a data-l10n-name="url">დააკავშიროთ დამატებითი მოწყობილობები</a>.
-firefoxview-syncedtabs-adddevice-header = ანგარიშზე შესვლით გამოიყენეთ { -brand-product-name } თქვენს სხვა მოწყობილობებზე
-firefoxview-syncedtabs-adddevice-description = თქვენს ჩანართებთან ნებისმიერი ადგილიდან წვდომისთვის გამოიყენეთ { -brand-product-name } ანგარიშით ყველა მოწყობილობაზე. იხილეთ, როგორ <a data-l10n-name="url">დააკავშიროთ დანარჩენი მოწყობილობები</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = მოსინჯეთ{ -brand-product-name } მობილურზე
 firefoxview-tabpickup-synctabs-header = ჩანართთა დასინქრონების ჩართვა
 firefoxview-tabpickup-synctabs-description = საჭიროა ნებართვა, რომ { -brand-short-name } შეძლებს ჩანართების გაზიარებას.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = იხილეთ, როგორ
 firefoxview-tabpickup-synctabs-primarybutton = გახსნილი ჩანართების დასინქრონება
 firefoxview-syncedtabs-synctabs-header = სინქრონიზაციის პარამეტრების განახლება
 firefoxview-syncedtabs-synctabs-description = სხვა მოწყობილობების ჩანართების სანახავად საჭიროა გახსნილი ჩანართების დასინქრონება.
-firefoxview-syncedtabs-synctabs-checkbox = გახსნილი ჩანართების დასინქრონების ნებართვა
 firefoxview-syncedtabs-loading-header = სინქრონიზდება
 firefoxview-syncedtabs-loading-description = როგორც კი დასრულდება, იხილავთ გახსნილ ჩანართებს სხვა მოწყობილობებიდან. შეამოწმეთ ცოტა ხანში.
 firefoxview-tabpickup-fxa-admin-disabled-header = თქვენი დაწესებულების დებულებებით გათიშულია დასინქრონება
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = ბოლოს დახურული
 firefoxview-closed-tabs-description2 = კვლავ გახსენით დახურული გვერდები ამ ფანჯრიდანვე.
 firefoxview-closed-tabs-placeholder-header = ბოლოს დახურული ჩანართები არაა
 firefoxview-closed-tabs-placeholder-body = როდესაც დახურავთ ჩანართს ამ ფანჯარაში, შეგიძლიათ დააბრუნოთ აქედან.
-firefoxview-closed-tabs-placeholder-body2 = ჩანართის დახურვის შემდგომ, აქედან შეძლებთ მის დაბრუნებას.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = ფანჯარა { $winID } (მიმდინარე)
-firefoxview-opentabs-focus-tab =
-    .title = ამ ჩანართზე გადართვა
 firefoxview-show-more = ვრცლად
 firefoxview-show-less = მოკლედ
 firefoxview-show-all = ყველას ჩვენება
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = ძიება ჩანართებში
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = ძიება დასინქრონებულში
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = ძიება გახსნილ ჩანართებში
@@ -197,10 +183,6 @@ firefoxview-sort-history-by-date-label = თარიღის მიხედ�
 firefoxview-sort-history-by-site-label = საიტის მიხედვით
 firefoxview-sort-open-tabs-by-recency-label = ბოლო მოქმედებებით
 firefoxview-sort-open-tabs-by-order-label = ჩანართების მიმდევრობით
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = გაიხსნას { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -217,7 +199,6 @@ firefoxview-history-site-localhost = (ფაილები ადგილზ�
 ##
 
 firefoxview-show-all-history = სრული ისტორიის ჩვენება
-firefoxview-view-more-browsing-history = სხვა მონახულებულის ნახვა
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -233,9 +214,6 @@ firefoxview-choose-browser-button = ბრაუზერის არჩევ�
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = არაფერია საჩვენებელი
-firefoxview-dont-remember-history-empty-description = თქვენს პირადულობაზე ზრუნვა ჩვენი საქმიანობის მთავარი შემადგენელია. სწორედ ამიტომ თავად შეგიძლიათ განსაზღვროთ, რას დაიმახსოვრებს { -brand-short-name }.
-firefoxview-dont-remember-history-empty-description-two = თქვენი ამჟამინდელი პარამეტრებით, { -brand-short-name } არ დაიხსომებს თქვენს მოქმედებებს გვერდების მონახულებისას. ცვლილებისთვის <a data-l10n-name="history-settings-url-two">მიუთითეთ ისტორიის პარამეტრებში მონახულებული გვერდების დამახსოვრება</a>.
 firefoxview-dont-remember-history-empty-header-2 = თავად განსაზღვრავთ, რას დაიმახსოვრებს { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = ამჟამად { -brand-short-name } არ იმახსოვრებს თქვენ მიერ მონახულებულ გვერდებს. შესაცვლელად <a data-l10n-name="history-settings-url-two">განაახლეთ თქვენი ისტორიის პარამეტრები</a>.
 

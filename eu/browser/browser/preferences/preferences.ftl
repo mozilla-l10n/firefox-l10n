@@ -4,9 +4,6 @@
 
 do-not-track-description = Bidali webguneei "Do Not Track" seinalea zure jarraipena ez egitea adierazteko
 do-not-track-removal = Jada ez dugu onartzen "Do Not Track" seinalea
-do-not-track-description2 =
-    .label = Bidali webguneei "Do Not Track" eskaera
-    .accesskey = D
 do-not-track-learn-more = Argibide gehiago
 do-not-track-option-default-content-blocking-known =
     .label = Bakarrik { -brand-short-name } jarraipen-elementu ezagunak blokeatzeko ezarrita dagoenean
@@ -267,10 +264,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Zure kolore-hautapenek webgunearen itxura baliogabetzen dute. <a data-l10n-name="colors-link">Kudeatu koloreak</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Zure kolore-hautapenek webgunearen itxura baliogabetzen dute.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Kudeatu { -brand-short-name }(r)en itxurak <a data-l10n-name="themes-link">Hedapenak eta itxura</a> atalean
@@ -1333,8 +1326,6 @@ addon-recommendations-link = Argibide gehiago
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako
 collection-backlogged-crash-reports-with-link = Baimendu { -brand-short-name }(r)i zure izenean hutsegite-txostenak atzeko planoan bidaltzea <a data-l10n-name="crash-reports-link">Argibide gehiago</a>
-    .accesskey = h
-collection-backlogged-crash-reports = Baimendu { -brand-short-name }(r)i zure izenean hutsegite-txostenak atzeko planoan bidaltzea
     .accesskey = h
 privacy-segmentation-section-header = Zure nabigazioa hobetzen duten eginbide berriak
 privacy-segmentation-section-description = Noiz eskaintzen ditugun esperientzia pertsonalizatuagoa emateko zure datuak erabiltzen dituzten eginbideak:

@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Uvezi iz { $previous }
 mr1-onboarding-theme-header = Učinite ga svojim
 mr1-onboarding-theme-subtitle = Personalizujte { -brand-short-name } sa temom.
 mr1-onboarding-theme-secondary-button-label = Ne sada
-newtab-wallpaper-onboarding-title = Probajte nove boje
-newtab-wallpaper-onboarding-subtitle = Odaberite pozadinu da svom Novom tabu date svjež izgled.
-newtab-wallpaper-onboarding-primary-button-label = Postavite pozadinu
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Sistemska tema
 mr1-onboarding-theme-label-light = Svijetla

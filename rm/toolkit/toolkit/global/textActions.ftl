@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Copiar ina colliaziun netta
     .accesskey = n
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Copiar senza fastizaders da websites
-    .accesskey = n
 text-action-paste =
     .label = Encollar
     .accesskey = E

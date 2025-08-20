@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Προσαρμοσμένο
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Κείμενο
-    .title = Επεξεργασία χρώματος
-about-reader-custom-colors-background = Παρασκήνιο
-    .title = Επεξεργασία χρώματος
-about-reader-custom-colors-unvisited-links = Σύνδεσμοι που δεν έχετε επισκεφτεί
-    .title = Επεξεργασία χρώματος
-about-reader-custom-colors-visited-links = Σύνδεσμοι που έχετε επισκεφτεί
-    .title = Επεξεργασία χρώματος
-about-reader-custom-colors-selection-highlight = Επισήμανση για εκφώνηση
-    .title = Επεξεργασία χρώματος
 about-reader-reset-button = Επαναφορά προεπιλογών
 about-reader-custom-colors-foreground2 =
     .label = Κείμενο

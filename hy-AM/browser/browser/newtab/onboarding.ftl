@@ -54,9 +54,6 @@ mr1-onboarding-import-primary-button-label-attribution = Ներմուծել { $p
 mr1-onboarding-theme-header = Դարձրեք այն ձերը
 mr1-onboarding-theme-subtitle = Անհատականացրեք { -brand-short-name }-ը ոճով:
 mr1-onboarding-theme-secondary-button-label = Ոչ հիմա
-newtab-wallpaper-onboarding-title = Փորձեք շաղ տված գույներ
-newtab-wallpaper-onboarding-subtitle = Ընտրեք պաստառ՝ ձեր նոր ներդիրին թարմ տեսք հաղորդելու համար:
-newtab-wallpaper-onboarding-primary-button-label = Կայել պաստառ
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Համակարգային
 mr1-onboarding-theme-label-light = Լուսավոր

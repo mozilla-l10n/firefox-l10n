@@ -122,10 +122,6 @@ tabbrowser-confirm-caretbrowsing-title = Navegació amb cursor
 tabbrowser-confirm-caretbrowsing-message = En prémer F7 s'activa o es desactiva la navegació amb cursor. Aquesta característica col·loca un cursor mòbil a les pàgines web que us permet seleccionar text amb el teclat. Voleu activar-la?
 tabbrowser-confirm-caretbrowsing-checkbox = No em tornis a mostrar aquest diàleg.
 
-## Confirmation dialog for closing all duplicate tabs
-
-tabbrowser-confirm-close-duplicate-tabs-title = Atenció
-
 ##
 
 # Variables:

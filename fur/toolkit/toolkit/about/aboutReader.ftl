@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Personalizât
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Test
-    .title = Modifiche colôr
-about-reader-custom-colors-background = Fonts
-    .title = Modifiche colôr
-about-reader-custom-colors-unvisited-links = Colegaments no visitâts
-    .title = Modifiche colôr
-about-reader-custom-colors-visited-links = Colegaments visitâts
-    .title = Modifiche colôr
-about-reader-custom-colors-selection-highlight = Evidenziadôr pe leture a vôs alte
-    .title = Modifiche colôr
 about-reader-reset-button = Ripristine predefinîts
 about-reader-custom-colors-foreground2 =
     .label = Test

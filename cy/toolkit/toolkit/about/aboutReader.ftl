@@ -78,16 +78,6 @@ about-reader-customtheme-tab = Cyfaddas
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Testun
-    .title = Golygu'r lliw
-about-reader-custom-colors-background = Cefndir
-    .title = Golygu'r lliw
-about-reader-custom-colors-unvisited-links = Dolenni heb gael ymweliad
-    .title = Golygu'r lliw
-about-reader-custom-colors-visited-links = Dolenni wedi cael ymweliad
-    .title = Golygu'r lliw
-about-reader-custom-colors-selection-highlight = Amlygwr ar gyfer darllen yn uchel
-    .title = Golygu'r lliw
 about-reader-reset-button = Ailosod rhagosodiadau
 about-reader-custom-colors-foreground2 =
     .label = Testun

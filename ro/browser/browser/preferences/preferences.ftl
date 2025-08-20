@@ -4,9 +4,6 @@
 
 do-not-track-description = Trimite site-urilor web un semnal „Nu urmări” pentru a indica faptul că nu vrei să fii urmărit
 do-not-track-removal = Nu mai acceptăm semnalul „Nu urmări”
-do-not-track-description2 =
-    .label = Trimite site-urilor web o solicitare „Nu urmări”
-    .accesskey = d
 do-not-track-learn-more = Află mai multe
 do-not-track-option-default-content-blocking-known =
     .label = Numai când { -brand-short-name } este setat să blocheze elemente de urmărire cunoscute
@@ -271,10 +268,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Alegerile tale de culoare suprascriu aspectul site-urilor web. <a data-l10n-name="colors-link">Gestionează culorile</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Alegerile tale de culoare suprascriu aspectul site-urilor web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gestionează temele { -brand-short-name } în <a data-l10n-name="themes-link">Extensii și teme</a>
@@ -1438,8 +1431,6 @@ addon-recommendations-link = Află mai multe
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Raportarea datelor este dezactivată în configurația folosită
 collection-backlogged-crash-reports-with-link = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal <a data-l10n-name="crash-reports-link">Află mai multe</a>
-    .accesskey = c
-collection-backlogged-crash-reports = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal
     .accesskey = c
 privacy-segmentation-section-header = Funcționalități noi care îmbunătățesc navigarea
 privacy-segmentation-section-description = Când oferim funcționalități care îți utilizează datele pentru a-ți oferi o experiență mai personalizată:

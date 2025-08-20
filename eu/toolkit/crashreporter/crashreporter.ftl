@@ -9,8 +9,6 @@ crashreporter-plea = Arazo hau aztertu eta konpontzen laguntzeko, hutsegitearen 
 crashreporter-information = Aplikazio hau hutsegite baten ondoren exekutatzen da { -vendor-short-name }(r)i arazoaren berri emateko. Ez litzateke zuzenean exekutatu behar.
 crashreporter-error = { -brand-short-name }(e)k arazo bat izan du eta huts egin du. Tamalez, hutsegiteen berriemailea ez da gai hutsegite honen txostena bidaltzeko.
 crashreporter-error-details-header = Xehetasunak:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Xehetasunak: { $details }
 crashreporter-no-run-message = Aplikazio hau hutsegite baten ondoren exekutatzen da aplikazioaren egileari hutsegitearen berri emateko. Ez litzateke zuzenean exekutatu behar.
 crashreporter-button-details = Xehetasunak…
 crashreporter-loading-details = Kargatzen…
@@ -20,8 +18,6 @@ crashreporter-report-info = Aplikazioak huts egin zueneko egoerari buruzko infor
 crashreporter-checkbox-test-hardware = Egiaztatu hardware- eta konfigurazio-arazoak nire gailuan.
 crashreporter-checkbox-send-report = Eman { -vendor-short-name }(r)i hutsegite honen berri konpontzen saia daitezen.
 crashreporter-checkbox-include-url = Sartu bisitatzen ari nintzen orriaren helbidea.
-crashreporter-send-report = Eman { -vendor-short-name }(r)i hutsegite honen berri konpontzen saia daitezen.
-crashreporter-include-url = Sartu bisitatzen ari nintzen orriaren helbidea.
 crashreporter-submit-status = Hutsegite-txostena irten edo berrabiarazi aurretik bidaliko da.
 crashreporter-submit-waiting-hardware-tests = Hardware- eta konfigurazio-arazoak egiaztatzen…
 crashreporter-submit-in-progress = Txostena bidaltzen…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Hutsegite honen xehetasunak ondorengo helbidean ik
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Huts egin du minidump-analyzer exekutatzean
 # $path (String) - the file path
 crashreporter-error-opening-file = Huts egin du fitxategia irekitzerakoan ({ $path })
 # $path (String) - the file path

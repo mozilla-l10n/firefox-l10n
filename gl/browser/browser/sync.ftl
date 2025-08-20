@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Envíe unha lapela ao instante a calquera dispositivo no que iniciase sesión.
 fxa-menu-sign-out =
     .label = Saír…
-fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Acceder á túa web desde calquera lugar
 fxa-avatar-sign-in = Acceder
 fxa-avatar-sign-up = Rexistrarse

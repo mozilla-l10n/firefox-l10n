@@ -324,9 +324,6 @@ newtab-custom-pocket-sponsored = Zgodbe oglaševalcev
 newtab-custom-pocket-show-recent-saves = Prikaži nedavno shranjene strani
 newtab-custom-recent-title = Nedavna dejavnost
 newtab-custom-recent-subtitle = Izbor nedavnih spletnih mest in vsebin
-newtab-custom-recent-toggle =
-    .label = Nedavna dejavnost
-    .description = Izbor nedavnih spletnih mest in vsebin
 newtab-custom-weather-toggle =
     .label = Vreme
     .description = Današnja napoved vedno na očeh
@@ -463,7 +460,6 @@ newtab-weather-menu-change-location = Spremeni lokacijo
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Išči lokacijo
     .aria-label = Išči lokacijo
-newtab-weather-change-location-search-input = Išči lokacijo
 newtab-weather-menu-weather-display = Prikazovalnik vremena
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -641,7 +637,6 @@ newtab-widget-lists-menu-delete = Izbriši ta seznam
 newtab-widget-lists-menu-copy = Kopiraj seznam v odložišče
 newtab-widget-lists-menu-hide = Skrij vse sezname
 newtab-widget-lists-menu-learn-more = Več o tem
-newtab-widget-lists-input-placeholder = Dodaj element
 newtab-widget-lists-input-error = Za dodajanje predmeta vključite besedilo.
 newtab-widget-lists-input-menu-open-link = Odpri povezavo
 newtab-widget-lists-input-menu-move-up = Premakni gor

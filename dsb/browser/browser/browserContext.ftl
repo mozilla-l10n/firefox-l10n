@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Cysty wótkaz kopěrowaś
     .accesskey = a
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Wótkaz bźez slědowanja sedła kopěrowaś
-    .accesskey = k
 
 ## Media (video/audio) controls
 ##

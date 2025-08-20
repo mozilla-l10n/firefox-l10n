@@ -74,10 +74,6 @@ about-reader-customtheme-tab = Udmawan
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Aḍris
-    .title = Ini n uḍris
-about-reader-custom-colors-background = Agilal
-    .title = Ẓreg ini
 about-reader-custom-colors-foreground2 =
     .label = Aḍris
     .title = Ini n uḍris

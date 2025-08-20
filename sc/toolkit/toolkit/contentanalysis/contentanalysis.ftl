@@ -7,8 +7,6 @@ contentanalysis-slow-agent-dialog-header = Iscansione in cursu
 contentanalysis-operationtype-clipboard = punta de billete
 contentanalysis-operationtype-dropped-text = testu lassadu
 contentanalysis-operationtype-print = imprenta
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = càrriga de “{ $filename }”
 contentanalysis-warndialogtitle = Podet èssere chi su cuntenutu non siat seguru
 contentanalysis-warndialog-response-allow = Imprea su cuntenutu
 contentanalysis-warndialog-response-deny = Annulla

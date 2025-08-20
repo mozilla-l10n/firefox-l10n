@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = N
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Žedno wužywaŕske mě
-password-manager-toggle-password =
-    .label = Gronidła pokazaś
-    .accesskey = k
 password-manager-confirm-password-change = Změnjenje gronidła wobkšuśiś
 password-manager-select-username = Wubjeŕśo pśizjawjenje, kótarež ma se aktualizěrowaś:

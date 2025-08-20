@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Lukk
     .aria-label = Lukk
-firefoxview-empty-state-icon =
-    .alt = Merk:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Akkurat nå
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Fortsett
 firefoxview-syncedtabs-signin-header-2 = Din { -brand-product-name } på alle dine enheter
 firefoxview-syncedtabs-signin-description-2 = For å se faner du har åpne på telefonen og andre enheter, logg inn eller registrer deg for en konto. Med en konto kan du også synkronisere passord, historikk, med mer.
 firefoxview-syncedtabs-signin-primarybutton-2 = Logg inn
-firefoxview-syncedtabs-signin-header = Hent faner uansett hvor du er
-firefoxview-syncedtabs-signin-description = Logg på kontoen din for å se faner fra de andre enhetene dine med { -brand-product-name }. Hvis du ikke har en konto, tar vi deg gjennom trinnene for å registrere deg.
-firefoxview-syncedtabs-signin-primarybutton = Logg inn eller registrer deg
 firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på telefonen eller nettbrettet
 firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
 firefoxview-tabpickup-adddevice-learn-how = Les hvordan
 firefoxview-tabpickup-adddevice-primarybutton = Få { -brand-product-name } for mobil
 firefoxview-syncedtabs-adddevice-header-2 = Hent faner uansett hvor du er
 firefoxview-syncedtabs-adddevice-description-2 = Logg på { -brand-product-name } på telefonen eller en annen datamaskin for å se faner her. Finn ut hvordan du <a data-l10n-name="url">kobler til flere enheter</a>.
-firefoxview-syncedtabs-adddevice-header = Logg inn på { -brand-product-name } på de andre enhetene dine
-firefoxview-syncedtabs-adddevice-description = Logg på alle enhetene dine for å se fanene dine fra alle stedene du bruker { -brand-product-name }. <a data-l10n-name="url">Slik legger du til nye enheter</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prøv { -brand-product-name } for mobil
 firefoxview-tabpickup-synctabs-header = Slå på fanesynkronisering
 firefoxview-tabpickup-synctabs-description = Tillat { -brand-short-name } å dele faner mellom enheter.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Les hvordan
 firefoxview-tabpickup-synctabs-primarybutton = Synkroniser åpne faner
 firefoxview-syncedtabs-synctabs-header = Oppdater dine synkroniseringsinnstillinger
 firefoxview-syncedtabs-synctabs-description = For å se faner fra andre enheter, må du synkronisere dine åpne faner.
-firefoxview-syncedtabs-synctabs-checkbox = Tillat åpne faner å synkronisere
 firefoxview-syncedtabs-loading-header = Synkronisering pågår
 firefoxview-syncedtabs-loading-description = Når det er gjort, vil du se alle faner du har åpne på andre enheter. Prøv å sjekke igjen senere.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasjonen din har deaktivert synkronisering
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Nylig lukket
 firefoxview-closed-tabs-description2 = Åpne på nytt sider du har lukket i dette vinduet.
 firefoxview-closed-tabs-placeholder-header = Ingen nylig lukkede faner
 firefoxview-closed-tabs-placeholder-body = Når du lukker en fane i dette vinduet, kan du hente den herfra.
-firefoxview-closed-tabs-placeholder-body2 = Når du lukker en fane, kan du hente den herfra.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Vindu { $winID } (gjeldende)
-firefoxview-opentabs-focus-tab =
-    .title = Bytt til denne fanen
 firefoxview-show-more = Vis mer
 firefoxview-show-less = Vis mindre
 firefoxview-show-all = Vis alle
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Søk i faner
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Søk i synkroniserte faner
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Søk i åpne faner
@@ -197,10 +183,6 @@ firefoxview-sort-history-by-date-label = Sorter etter dato
 firefoxview-sort-history-by-site-label = Sorter etter nettsted
 firefoxview-sort-open-tabs-by-recency-label = Sorter etter nylig aktivitet
 firefoxview-sort-open-tabs-by-order-label = Sorter etter fanerekkefølge
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Bytt til { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -217,7 +199,6 @@ firefoxview-history-site-localhost = (lokale filer)
 ##
 
 firefoxview-show-all-history = Vis all historikk
-firefoxview-view-more-browsing-history = Vis mer nettleserhistorikk
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -233,9 +214,6 @@ firefoxview-choose-browser-button = Velg nettleser
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Ingenting å vise
-firefoxview-dont-remember-history-empty-description = Beskyttelse av personvernet ditt er kjernen i det vi gjør. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } husker.
-firefoxview-dont-remember-history-empty-description-two = Basert på de nåværende innstillingene dine, husker ikke { -brand-short-name } aktiviteten din mens du surfer. For å endre det, <a data-l10n-name="history-settings-url-two">endre innstillingene for historikk for å huske historikken din</a>.
 firefoxview-dont-remember-history-empty-header-2 = Du har kontroll over hva { -brand-short-name } husker
 firefoxview-dont-remember-history-empty-description-one = Akkurat nå husker ikke { -brand-short-name } nettlesingsaktiviteten din. For å endre det, <a data-l10n-name="history-settings-url-two">oppdater historikkinnstillingene dine</a>.
 

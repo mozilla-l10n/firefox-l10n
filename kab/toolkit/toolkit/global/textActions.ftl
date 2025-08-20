@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Nɣel aseɣwen yettwasfaḍen
     .accesskey = n
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Nɣel war aḍfar n usmel
-    .accesskey = n
 text-action-paste =
     .label = Senṭeḍ
     .accesskey = n

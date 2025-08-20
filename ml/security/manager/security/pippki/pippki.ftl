@@ -50,8 +50,6 @@ client-auth-cert-details-serial-number = സീരിയൽ നമ്പർ: { $
 # Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
 client-auth-cert-details-email-addresses = ഇമെയിൽ വിലാസങ്ങൾ: { $emailAddresses }
-client-auth-cert-remember-box =
-    .label = ഈ തീരുമാനം ഓർത്തുവെയ്ക്കുക
 
 ## Set password (p12) dialog
 

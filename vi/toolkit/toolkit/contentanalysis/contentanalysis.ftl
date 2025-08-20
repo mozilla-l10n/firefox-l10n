@@ -33,8 +33,6 @@ contentanalysis-operationtype-print = in
 contentanalysis-upload-description = tải lên “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = tải xuống “{ $filename }”
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = tải lên của “{ $filename }”
 contentanalysis-warndialogtitle = Nội dung này có thể không an toàn
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

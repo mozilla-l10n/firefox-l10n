@@ -4,9 +4,6 @@
 
 do-not-track-description = “ട്രാക്ക് ചെയ്യരുത്” എന്ന സിഗ്നൽ വെബ്സൈറ്റുകൾക്ക് അയയ്ക്കുക
 do-not-track-removal = ഞങ്ങൾ ഇനി "പിന്തുൎതു്" മുന്നറിയിപ്പ് വ്യവസ്ഥയെ പിന്തുണയ്ക്കാരില്ല
-do-not-track-description2 =
-    .label = വെബിടങ്ങളെ "പിന്തുടൎതു്" അറിയിപ്പു് നല്കുക
-    .accesskey = ന
 do-not-track-learn-more = കൂടുതലറിവ് നേടുക
 do-not-track-option-always =
     .label = എപ്പോഴും

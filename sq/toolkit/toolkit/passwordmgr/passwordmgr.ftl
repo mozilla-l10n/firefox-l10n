@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = M
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Pa emër përdoruesi
-password-manager-toggle-password =
-    .label = Shfaqe fjalëkalimin
-    .accesskey = q
 password-manager-confirm-password-change = Ripohoni Ndryshimin e Fjalëkalimit
 password-manager-select-username = Përzgjidhni cilat kredenciale hyrjeje të përditësohen:

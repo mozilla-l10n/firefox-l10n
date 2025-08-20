@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Копиране на препратка без проследяване
     .accesskey = п
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Копиране без проследяване
-    .accesskey = п
 text-action-paste =
     .label = Поставяне
     .accesskey = с

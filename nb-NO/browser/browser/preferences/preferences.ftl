@@ -4,9 +4,6 @@
 
 do-not-track-description = Send nettsteder et «Ikke spor»-signal om at du ikke vil bli sporet
 do-not-track-removal = Vi støtter ikke lenger «Ikke spor»-signalet
-do-not-track-description2 =
-    .label = Send nettsteder en «Ikke spor»-forespørsel
-    .accesskey = d
 do-not-track-learn-more = Les mer
 do-not-track-option-default-content-blocking-known =
     .label = Bare når { -brand-short-name } er satt til å blokkere kjente sporere
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Fargevalgene dine overstyrer nettstedets utseende. <a data-l10n-name="colors-link">Behandle farger</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Fargevalgene dine overstyrer nettstedets utseende.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Behandle { -brand-short-name }-temaer i <a data-l10n-name="themes-link">Tillegg og temaer</a>
@@ -1435,8 +1428,6 @@ addon-recommendations-link = Les mer
 collection-health-report-disabled = Datarapportering er deaktivert for denne byggekonfigurasjonen
 collection-backlogged-crash-reports-with-link = Tillat { -brand-short-name } å sende etterslepne krasjrapporter på dine vegne <a data-l10n-name="crash-reports-link">Les mer</a>
     .accesskey = T
-collection-backlogged-crash-reports = Tillat { -brand-short-name } å sende etterslepne krasjrapporter på dine vegne
-    .accesskey = s
 privacy-segmentation-section-header = Nye funksjoner som forbedrer surfingen din
 privacy-segmentation-section-description = Når vi tilbyr funksjoner som bruker dine data for å gi deg en mer personlig opplevelse:
 privacy-segmentation-radio-off =

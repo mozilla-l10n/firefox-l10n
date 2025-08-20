@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Temiz bağlantıyı kopyala
     .accesskey = T
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Takip kodunu silerek kopyala
-    .accesskey = s
 text-action-paste =
     .label = Yapıştır
     .accesskey = a

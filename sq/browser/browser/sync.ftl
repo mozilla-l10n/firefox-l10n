@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Dërgoni aty për aty një skedë te cilado pajisje në të cilën keni bërë hyrje.
 fxa-menu-sign-out =
     .label = Dilni…
-fxa-menu-sync-title = Njëkohësoni
 fxa-menu-sync-description = Përdoreni web-in nga kudo
 fxa-avatar-sign-in = Hyni
 fxa-avatar-sign-up = Regjistrohuni

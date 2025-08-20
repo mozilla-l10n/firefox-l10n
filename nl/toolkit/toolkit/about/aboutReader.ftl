@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Aangepast
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Tekst
-    .title = Kleur bewerken
-about-reader-custom-colors-background = Achtergrond
-    .title = Kleur bewerken
-about-reader-custom-colors-unvisited-links = Niet-bezochte koppelingen
-    .title = Kleur bewerken
-about-reader-custom-colors-visited-links = Bezochte koppelingen
-    .title = Kleur bewerken
-about-reader-custom-colors-selection-highlight = Markeerstift voor hardop lezen
-    .title = Kleur bewerken
 about-reader-reset-button = Standaardinstellingen opnieuw instellen
 about-reader-custom-colors-foreground2 =
     .label = Tekst

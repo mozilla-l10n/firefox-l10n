@@ -35,7 +35,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Sćelće rajtark hnydom na grat, pola kotrehož sće přizjewjeny.
 fxa-menu-sign-out =
     .label = Wotzjewić…
-fxa-menu-sync-title = Synchronizacija
 fxa-menu-sync-description = Mějće přistup k internetej wot wšudźe
 fxa-avatar-sign-in = Přizjewić
 fxa-avatar-sign-up = Registrować

@@ -401,7 +401,6 @@ quickactions-cmd-print = εκτύπωση
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Αποθήκευση σελίδας ως PDF
 quickactions-cmd-savepdf2 = pdf, αποθήκευση σελίδας
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Άνοιγμα ιδιωτικού παραθύρου
 quickactions-cmd-private = ιδιωτική περιήγηση, ανώνυμη περιήγηση

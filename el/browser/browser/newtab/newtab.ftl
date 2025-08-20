@@ -323,9 +323,6 @@ newtab-custom-pocket-sponsored = Χορηγούμενα άρθρα
 newtab-custom-pocket-show-recent-saves = Εμφάνιση πρόσφατων αποθηκεύσεων
 newtab-custom-recent-title = Πρόσφατη δραστηριότητα
 newtab-custom-recent-subtitle = Συλλογή πρόσφατων ιστοτόπων και περιεχομένου
-newtab-custom-recent-toggle =
-    .label = Πρόσφατη δραστηριότητα
-    .description = Συλλογή πρόσφατων ιστοτόπων και περιεχομένου
 newtab-custom-weather-toggle =
     .label = Καιρός
     .description = Σημερινή πρόγνωση με μια ματιά
@@ -462,7 +459,6 @@ newtab-weather-menu-change-location = Αλλαγή τοποθεσίας
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Αναζήτηση τοποθεσίας
     .aria-label = Αναζήτηση τοποθεσίας
-newtab-weather-change-location-search-input = Αναζήτηση τοποθεσίας
 newtab-weather-menu-weather-display = Προβολή καιρού
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -641,7 +637,6 @@ newtab-widget-lists-menu-delete = Διαγραφή λίστας
 newtab-widget-lists-menu-copy = Αντιγραφή λίστας στο πρόχειρο
 newtab-widget-lists-menu-hide = Απόκρυψη όλων των λιστών
 newtab-widget-lists-menu-learn-more = Μάθετε περισσότερα
-newtab-widget-lists-input-placeholder = Προσθήκη στοιχείου
 newtab-widget-lists-input-error = Συμπεριλάβετε κείμενο για να προσθέσετε ένα στοιχείο.
 newtab-widget-lists-input-menu-open-link = Άνοιγμα συνδέσμου
 newtab-widget-lists-input-menu-move-up = Μετακίνηση πάνω
@@ -670,6 +665,7 @@ newtab-widget-timer-menu-notifications = Απενεργοποίηση ειδοπ
 newtab-widget-timer-menu-notifications-on = Ενεργοποίηση ειδοποιήσεων
 newtab-widget-timer-menu-hide = Απόκρυψη αντίστροφης μέτρησης
 newtab-widget-timer-menu-learn-more = Μάθετε περισσότερα
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Κάντε κύλιση για περισσότερα
 newtab-promo-card-title = Υποστηρίξτε το { -brand-product-name }
 newtab-promo-card-body = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο

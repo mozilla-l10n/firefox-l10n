@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Tampar
     .aria-label = Tampar
-firefoxview-empty-state-icon =
-    .alt = Atencion :
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ara meteis
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -32,15 +30,10 @@ firefoxview-tabpickup-progress-label = { $percentValue }% acabat
 firefoxview-tabpickup-step-signin-header = Passatz d’un aparelh a l’autre de manièra transparenta
 firefoxview-tabpickup-step-signin-description = Per poder recuperar los onglets del mobil aicí, connectatz-vos o creatz un compte.
 firefoxview-tabpickup-step-signin-primarybutton = Contunhar
-firefoxview-syncedtabs-signin-header = Trapatz vòstres onglets ont que siatz
-firefoxview-syncedtabs-signin-description = Per consultar vòstres onglets ont qu’utilizetz { -brand-product-name }, connectatz-vos a vòstre compte. S’avètz pas cap de compte, vos guidarem a cada etapa de l’inscripcion.
-firefoxview-syncedtabs-signin-primarybutton = Se marcar o se connectar
 firefoxview-tabpickup-adddevice-header = Sincronizatz { -brand-product-name } amb vòstre telefòn o vòstra tauleta
 firefoxview-tabpickup-adddevice-description = Telecargatz { -brand-product-name } per mobil e connectatz-vos enlai.
 firefoxview-tabpickup-adddevice-learn-how = Ne saber mai
 firefoxview-tabpickup-adddevice-primarybutton = Installatz { -brand-product-name } per mobil
-firefoxview-syncedtabs-adddevice-header = Connectatz-vos a { -brand-product-name } sus vòstres autres aparelhs
-firefoxview-syncedtabs-adddevice-description = Per veire los onglets ont qu’utilizetz { -brand-product-name }, connectatz-vos sus totes vòstres aparelhs. Vejatz tanben <a data-l10n-name="url">cossí connectar d’aparelhs addicionals</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Ensajar { -brand-product-name } per mobil
 firefoxview-tabpickup-synctabs-header = Activar la sincronizacion dels onglets
 firefoxview-tabpickup-synctabs-description = Autorizatz { -brand-short-name } a partejar los onglets entre vòstres aparelhs.
@@ -48,7 +41,6 @@ firefoxview-tabpickup-synctabs-learn-how = M’ensenhar cossí far
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar los onglets dobèrts
 firefoxview-syncedtabs-synctabs-header = Actualizatz vòstres paramètres de sincronizacion
 firefoxview-syncedtabs-synctabs-description = Per consultar los onglets d’autres aparelhs, devètz sincronizar vòstres onglets dobèrts.
-firefoxview-syncedtabs-synctabs-checkbox = Autorizar la sincronizacion dels onglets dobèrts
 firefoxview-syncedtabs-loading-header = Sincronizacion en cors
 firefoxview-syncedtabs-loading-description = Un còp terminat, veiretz aicí totes los onglets dobèrts sus vòstres autres aparelhs. Tornatz lèu.
 firefoxview-tabpickup-fxa-admin-disabled-header = Vòstra organizacion a desactivat la sincronizacion
@@ -81,7 +73,6 @@ firefoxview-closed-tabs-title = Tampats recentament
 firefoxview-closed-tabs-description2 = Tornatz dobrir las paginas qu’avètz tampadas dins aquesta pagina.
 firefoxview-closed-tabs-placeholder-header = Cap d’onglets pas tampat recentament
 firefoxview-closed-tabs-placeholder-body = Quand tampatz un onglet d’aquesta fenèstra, lo podètz trapar aicí.
-firefoxview-closed-tabs-placeholder-body2 = Quand tampatz un onglet, lo podètz trapar aicí.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -147,8 +138,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Fenèstra { $winID } (actuala)
-firefoxview-opentabs-focus-tab =
-    .title = Anar a aqueste onglet
 firefoxview-show-more = Ne veire mai
 firefoxview-show-less = Ne veire mens
 firefoxview-show-all = O afichar tot
@@ -166,9 +155,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Cercar pels onglets
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Cercar dins los onglets sincronizats
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Cercar dins los onglets dobèrts
@@ -191,10 +177,6 @@ firefoxview-sort-history-by-date-label = Triar per data
 firefoxview-sort-history-by-site-label = Triar per site
 firefoxview-sort-open-tabs-by-recency-label = Triar per activitat recenta
 firefoxview-sort-open-tabs-by-order-label = Triar per onglets
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Anar a { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -211,7 +193,6 @@ firefoxview-history-site-localhost = (fichièrs locals)
 ##
 
 firefoxview-show-all-history = Afichar tot l’istoric
-firefoxview-view-more-browsing-history = Afichar l’istoric de navegacion
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -224,11 +205,6 @@ firefoxview-history-empty-description-two = La proteccion de vòstra vida privad
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = Causir lo navegador
     .title = Causir lo navegador
-
-## Message displayed in Firefox View when the user has chosen to never remember History
-
-firefoxview-dont-remember-history-empty-header = Pas res a mostrar
-firefoxview-dont-remember-history-empty-description = Nòstra prioritat es de protegir vòstra vida privada. Es per aquò que podètz contrarotlar l'activitat que { -brand-short-name } memoriza.
 
 ##
 

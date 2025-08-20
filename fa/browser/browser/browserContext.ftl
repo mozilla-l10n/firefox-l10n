@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = رونوشت تمیز پیوند
     .accesskey = ر
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = کپی لینک بدون ردیابی تارنما
-    .accesskey = ر
 
 ## Media (video/audio) controls
 ##

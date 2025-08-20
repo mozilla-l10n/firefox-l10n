@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = ඔබව ලුහුබඳිනවාට අකමැති බව ලුහු නොබඳින්න සංඥාවකින් අඩවි වෙත දන්වන්න
-do-not-track-description2 =
-    .label = අඩවි වෙත "ලුහුබඳින්න එපා" ඉල්ලීමක් යවන්න
-    .accesskey = d
 do-not-track-learn-more = තව දැනගන්න
 do-not-track-option-default-content-blocking-known =
     .label = දන්නා ලුහුබැඳීම් බාධනයට { -brand-short-name } සකසා ඇති විට පමණි
@@ -253,10 +250,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = ඔබගේ වර්ණ තේරීම අඩවියෙහි පෙනුම අභිබවා යයි. <a data-l10n-name="colors-link">වර්ණ කළමනාකරණය</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = ඔබගේ වර්ණ තේරීම අඩවියෙහි පෙනුම අභිබවා යයි.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = <a data-l10n-name="themes-link">දිගු සහ තේමා</a> තුළ { -brand-short-name } තේමා කළමනාකරණය කරන්න
@@ -1331,8 +1324,6 @@ addon-recommendations-link = තව දැනගන්න
 # or builds with no Telemetry support available.
 collection-health-report-disabled = මෙම තැනීමේ වින්‍යාසය සඳහා දත්ත වාර්තාකරණය අබල කර ඇත
 collection-backlogged-crash-reports-with-link = ඔබට අතපසු වූ බිඳ වැටීම් වාර්තා යැවීමට { -brand-short-name } සඳහා ඉඩ දෙන්න <a data-l10n-name="crash-reports-link">තව දැනගන්න</a>
-    .accesskey = c
-collection-backlogged-crash-reports = ඔබට අතපසු වූ බිඳ වැටීම් වාර්තා යැවීමට { -brand-short-name } සඳහා ඉඩ දෙන්න
     .accesskey = c
 privacy-segmentation-section-header = ඔබගේ පිරික්සීම ඉහළ නංවන නව විශේෂාංග
 privacy-segmentation-section-description = ඔබට වඩාත් පුද්ගලික අත්දැකීමක් ලබා දීමට ඔබගේ දත්ත භාවිතා කරන විශේෂාංග පිරිනමන විට:

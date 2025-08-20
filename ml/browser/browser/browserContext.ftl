@@ -166,11 +166,6 @@ main-context-menu-copy-link-simple =
 main-context-menu-copy-clean-link =
     .label = വൃത്തിയാക്കിയ കണ്ണി പകർത്തുക
     .accesskey = വ
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = സൈറ്റു് പിന്തുടർച്ചയില്ലാതെ പകർത്തുക
-    .accesskey = സ
 
 ## Media (video/audio) controls
 ##

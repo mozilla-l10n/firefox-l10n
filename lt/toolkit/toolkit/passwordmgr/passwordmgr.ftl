@@ -26,8 +26,5 @@ password-manager-update-password-button-deny =
     .accesskey = N
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nėra naudotojo vardo
-password-manager-toggle-password =
-    .label = Rodyti slaptažodį
-    .accesskey = o
 password-manager-confirm-password-change = Slaptažodžio keitimas
 password-manager-select-username = Pasirinkite, kurį prisijungimą atnaujinti:

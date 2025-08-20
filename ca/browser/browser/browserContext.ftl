@@ -166,11 +166,6 @@ main-context-menu-copy-link-simple =
 main-context-menu-copy-clean-link =
     .label = Copia l’enllaç net
     .accesskey = l
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Copia l'enllaç sense seguiment del lloc
-    .accesskey = u
 
 ## Media (video/audio) controls
 ##

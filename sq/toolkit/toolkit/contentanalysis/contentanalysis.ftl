@@ -33,8 +33,6 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } po shqyrton ç’shtyp
 contentanalysis-operationtype-clipboard = e papastër
 contentanalysis-operationtype-dropped-text = tekst i sjellë
 contentanalysis-operationtype-print = shtypje
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = ngarkim i “{ $filename }”
 contentanalysis-warndialogtitle = Kjo lëndë mund të jetë jo e parrezik
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

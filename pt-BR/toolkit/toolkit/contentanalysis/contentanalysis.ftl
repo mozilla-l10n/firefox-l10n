@@ -37,8 +37,6 @@ contentanalysis-operationtype-print = imprimir
 contentanalysis-upload-description = envio de “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = download de “{ $filename }”
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = envio de “{ $filename }”
 contentanalysis-warndialogtitle = Este conteúdo pode não ser seguro
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

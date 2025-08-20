@@ -328,9 +328,6 @@ newtab-custom-pocket-sponsored = Straeon wedi'u noddi
 newtab-custom-pocket-show-recent-saves = Dangos pethau gadwyd yn ddiweddar
 newtab-custom-recent-title = Gweithgaredd diweddar
 newtab-custom-recent-subtitle = Detholiad o wefannau a chynnwys diweddar
-newtab-custom-recent-toggle =
-    .label = Gweithgaredd diweddar
-    .description = Detholiad o wefannau a chynnwys diweddar
 newtab-custom-weather-toggle =
     .label = Y Tywydd
     .description = Cipolwg ar ragolygon tywydd heddiw
@@ -467,7 +464,6 @@ newtab-weather-menu-change-location = Newid lleoliad
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Chwilio am leoliad
     .aria-label = Chwilio am leoliad
-newtab-weather-change-location-search-input = Chwilio am leoliad
 newtab-weather-menu-weather-display = Dangos y tywydd
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -646,7 +642,6 @@ newtab-widget-lists-menu-delete = Dileu'r rhestr hon
 newtab-widget-lists-menu-copy = Copïo'r rhestr i'r clipfwrdd
 newtab-widget-lists-menu-hide = Cuddio pob rhestr
 newtab-widget-lists-menu-learn-more = Dysgu rhagor
-newtab-widget-lists-input-placeholder = Ychwanegu eitem
 newtab-widget-lists-input-error = Cynhwyswch destun i ychwanegu eitem.
 newtab-widget-lists-input-menu-open-link = Agor dolen
 newtab-widget-lists-input-menu-move-up = Symud i fyny
@@ -675,6 +670,7 @@ newtab-widget-timer-menu-notifications = Diffodd hysbysiadau
 newtab-widget-timer-menu-notifications-on = Troi hysbysiadau ymlaen
 newtab-widget-timer-menu-hide = Cuddio'r amserydd
 newtab-widget-timer-menu-learn-more = Dysgu rhagor
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Sgrolio am ragor
 newtab-promo-card-title = Cefnogwch { -brand-product-name }
 newtab-promo-card-body = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well

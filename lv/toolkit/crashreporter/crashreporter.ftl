@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = Lai palīdzētu noteikt cēloni un salabot šo problēmu, varat nosūtīt mums avārijas ziņojumu.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Sīkāka informācija: { $details }
 crashreporter-no-run-message = Šī programma tiek palaista pēc avārijas, lai paziņotu par šo problēmu lietotnes izstrādātājam. To nevajadzētu palaist pašrocīgi.
 crashreporter-button-details = Sīkāka informācija...
 crashreporter-view-report-title = Ziņojuma saturs

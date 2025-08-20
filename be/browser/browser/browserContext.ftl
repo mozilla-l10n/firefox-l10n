@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Капіяваць чыстую спасылку
     .accesskey = л
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Капіяваць спасылку без элементаў сачэння сайта
-    .accesskey = н
 
 ## Media (video/audio) controls
 ##

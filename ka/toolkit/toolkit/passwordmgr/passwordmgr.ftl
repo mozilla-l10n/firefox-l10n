@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = გ
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = მომხმარებლის სახელი არაა მითითებული
-password-manager-toggle-password =
-    .label = პაროლის ჩვენება
-    .accesskey = პ
 password-manager-confirm-password-change = პაროლის შეცვლის თანხმობა
 password-manager-select-username = აირჩიეთ შესვლის მონაცემები გასაახლებლად:

@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Emonguatia juajuha ipotĩva
     .accesskey = n
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Emonguatia tenda rapykuehoha’ỹre
-    .accesskey = n
 text-action-paste =
     .label = Mboja
     .accesskey = P

@@ -121,8 +121,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Jangan tampilkan kotak dialog ini la
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Perhatian
-tabbrowser-confirm-close-duplicate-tabs-text = Tab terakhir akan tetap terbuka.
 tabbrowser-confirm-close-all-duplicate-tabs-title = Tutup tab berganda?
 tabbrowser-confirm-close-all-duplicate-tabs-text = Kami akan menutup tab berganda di jendela ini. Tab terakhir akan tetap terbuka.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Tutup Tab

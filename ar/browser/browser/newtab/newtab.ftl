@@ -309,9 +309,6 @@ newtab-custom-pocket-sponsored = قصص مموّلة
 newtab-custom-pocket-show-recent-saves = أظهِر عمليات الحفظ الأخيرة
 newtab-custom-recent-title = أحدث الأنشطة
 newtab-custom-recent-subtitle = مختارات من المواقع والمحتويات الحديثة
-newtab-custom-recent-toggle =
-    .label = أحدث الأنشطة
-    .description = مختارات من المواقع والمحتويات الحديثة
 newtab-custom-close-button = أغلِق
 newtab-custom-settings = أدِر المزيد من الإعدادات
 

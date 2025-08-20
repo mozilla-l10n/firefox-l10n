@@ -4,9 +4,6 @@
 
 do-not-track-description = Spletnim stranem pošiljajte signal “Brez sledenja”, torej da vam naj ne sledijo
 do-not-track-removal = Signala "Brez sledenja" ne podpiramo več
-do-not-track-description2 =
-    .label = Spletnim mestom pošiljaj zahtevo "brez sledenja"
-    .accesskey = d
 do-not-track-learn-more = Več o tem
 do-not-track-option-default-content-blocking-known =
     .label = Samo, ko je { -brand-short-name } nastavljen na zavračanje znanih sledilcev
@@ -274,10 +271,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vaše izbire barv so nastavljene, da preglasijo videz spletnih strani. <a data-l10n-name="colors-link">Upravljanje barv</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Vaše izbire barv so nastavljene, da preglasijo videz spletnih strani.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljajte teme { -brand-short-name(sklon: "rodilnik") } na strani <a data-l10n-name="themes-link">Razširitve in teme</a>
@@ -1441,8 +1434,6 @@ addon-recommendations-link = Več o tem
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pošiljanje podatkov je onemogočeno za to nastavitev graditve
 collection-backlogged-crash-reports-with-link = { -brand-short-name(sklon: "dajalnik") } dovoli, da v vašem imenu pošilja poročila o sesutjih iz zaloge <a data-l10n-name="crash-reports-link">Več o tem</a>
-    .accesskey = z
-collection-backlogged-crash-reports = { -brand-short-name(sklon: "dajalnik") } dovoli, da v vašem imenu pošilja poročila o sesutjih iz zaloge
     .accesskey = z
 privacy-segmentation-section-header = Nove zmožnosti, ki izboljšajo vaše brskanje
 privacy-segmentation-section-description = Ko ponujamo zmogljivosti, ki uporabljajo vaše podatke, da vam omogočijo bolj osebno izkušnjo:

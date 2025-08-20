@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Kopírovať čistý odkaz
     .accesskey = i
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Kopírovať bez sledovacích prvkov
-    .accesskey = b
 text-action-paste =
     .label = Prilepiť
     .accesskey = P

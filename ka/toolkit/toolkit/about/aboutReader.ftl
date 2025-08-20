@@ -74,16 +74,6 @@ about-reader-customtheme-tab = მორგებული
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = ნაწერი
-    .title = ფერის შეცვლა
-about-reader-custom-colors-background = ფონი
-    .title = ფერის შეცვლა
-about-reader-custom-colors-unvisited-links = მოუნახულებელი ბმულები
-    .title = ფერის შეცვლა
-about-reader-custom-colors-visited-links = მონახულებული ბმულები
-    .title = ფერის შეცვლა
-about-reader-custom-colors-selection-highlight = გამორჩევა ხმოვანი კითხვისას
-    .title = ფერის შეცვლა
 about-reader-reset-button = ნაგულისხმევზე დაბრუნება
 about-reader-custom-colors-foreground2 =
     .label = ნაწერი

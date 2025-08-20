@@ -9,8 +9,6 @@ crashreporter-plea = Aby nam pomagał problem diagnosticěrowaś a rozwězaś, m
 crashreporter-information = Toś to nałoženje jo pó wowalenju běžało, aby { -vendor-short-name } problem k wěsći dało. Njeby měło direktnje běžaś.
 crashreporter-error = { -brand-short-name } jo měło problem a jo se wowaliło. Bóžko rozpšawjak wowalenjow njejo mógał rozpšawu wó toś tom wowalenju pósłaś.
 crashreporter-error-details-header = Drobnostki:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Drobnostki: { $details }
 crashreporter-no-run-message = Toś to nałoženje jo pó wowalenju běžało, aby zgótowarjeju nałoženja problem k wěsći dało. Njeby měło direktnje běžaś.
 crashreporter-button-details = Drobnostki…
 crashreporter-loading-details = Zacytujo se…
@@ -20,8 +18,6 @@ crashreporter-report-info = Toś ta rozpšawa wopśimujo teke techniske informac
 crashreporter-checkbox-test-hardware = Za problemami hardware a konfiguracije na mójom rěźe pytaś.
 crashreporter-checkbox-send-report = Informěrujśo { -vendor-short-name } wó toś tom wowalenju, aby mógał jen wótpórał.
 crashreporter-checkbox-include-url = Adresu boka zasajźiś, na kótaremž som był.
-crashreporter-send-report = Informěrujśo { -vendor-short-name } wó toś tom wowalenju, aby mógał jen wótpórał.
-crashreporter-include-url = Adresu boka zasajźiś, na kótaremž som był.
 crashreporter-submit-status = Waša rozpšawa wó wowalenju se pósćelo, nježli až skóńcyśo abo znowego startujośo.
 crashreporter-submit-waiting-hardware-tests = Pyta se za problemami hardware a konfiguracije…
 crashreporter-submit-in-progress = Waša rozpšawa se sćelo…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Móžośo se drobnostki wó toś tom wowalenju na 
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Minidump-analyzer njedajo se wuwjasć
 # $path (String) - the file path
 crashreporter-error-opening-file = Dataja ({ $path }) njedajo se wócyniś
 # $path (String) - the file path

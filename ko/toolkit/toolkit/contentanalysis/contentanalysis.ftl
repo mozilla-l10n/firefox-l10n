@@ -33,8 +33,6 @@ contentanalysis-operationtype-print = 인쇄
 contentanalysis-upload-description = “{ $filename }” 업로드
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = “{ $filename }” 다운로드
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = “{ $filename }” 업로드
 contentanalysis-warndialogtitle = 이 콘텐츠는 안전하지 않을 수 있음
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

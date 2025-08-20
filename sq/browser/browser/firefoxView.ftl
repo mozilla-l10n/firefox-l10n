@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Mbylle
     .aria-label = Mbylle
-firefoxview-empty-state-icon =
-    .alt = Kujdes:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Mu tani
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Vazhdo
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name }-i jua në krejt pajisjet tuaja
 firefoxview-syncedtabs-signin-description-2 = Që të shihni skeda që keni hapur në telefonin tuaj dhe pajisje të tjera, bëni hyrjen në llogari, ose regjistrohuni për një të tillë. Me një llogari, mundeni edhe të njëkohësoni fjalëkalimet tuaj, historikun, etj.
 firefoxview-syncedtabs-signin-primarybutton-2 = Hyni
-firefoxview-syncedtabs-signin-header = Përlani skeda nga kudo
-firefoxview-syncedtabs-signin-description = Që të shihni skedat tuaja prej kudo që përdorni { -brand-product-name }-in, hyni në llogarinë tuaj. Nëse s’keni një llogari, do t’ju udhëheqim përmes hapave për të regjistruar një të tillë.
-firefoxview-syncedtabs-signin-primarybutton = Hyni ose regjistrohuni
 firefoxview-tabpickup-adddevice-header = Njëkohësoni { -brand-product-name }-in në telefonin ose tabletin tuaj
 firefoxview-tabpickup-adddevice-description = Shkarkoni { -brand-product-name }-in për celular dhe hyni nga këtu.
 firefoxview-tabpickup-adddevice-learn-how = Mësoni se si
 firefoxview-tabpickup-adddevice-primarybutton = Merrni { -brand-product-name } për celular
 firefoxview-syncedtabs-adddevice-header-2 = Përlani skeda nga kudo
 firefoxview-syncedtabs-adddevice-description-2 = Që të shihni skeda këtu, bëni hyrjen në { -brand-product-name } te telefoni juaj, apo tjetër kompjuter. Mësoni se si të <a data-l10n-name="url">lidhni pajisje shtesë</a>.
-firefoxview-syncedtabs-adddevice-header = Bëni hyrjen në { -brand-product-name } te pajisjet tuaja të tjera
-firefoxview-syncedtabs-adddevice-description = Që të shihni skedat tuaja prej kudo që përdorni { -brand-product-name }-in, hyni në llogaritë përkatëse në krejt pajisjet tuaja. Mësoni si të <a data-l10n-name="url">lidhni pajisje shtesë</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Provoni { -brand-product-name } për celular
 firefoxview-tabpickup-synctabs-header = Aktivizoni njëkohësim skedash
 firefoxview-tabpickup-synctabs-description = Lejojeni { -brand-short-name }-i të japë skeda nga një pajisje në tjetrën.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Mësoni se si
 firefoxview-tabpickup-synctabs-primarybutton = Njëkohëso skeda të hapura
 firefoxview-syncedtabs-synctabs-header = Përditësoni rregullimet tuaja të njëkohësimit
 firefoxview-syncedtabs-synctabs-description = Që të shihni skeda nga pajisje të tjera, lypset të njëkohësoni skedat tuaja të hapura.
-firefoxview-syncedtabs-synctabs-checkbox = Lejoni njëkohësim për skeda të hapura
 firefoxview-syncedtabs-loading-header = Njëkohësim në ecuri e sipër
 firefoxview-syncedtabs-loading-description = Kur të keni mbaruar, do të shihni çfarëdo skedash që keni të hapura në pajisje të tjera. Rikontrolloni së shpejti.
 firefoxview-tabpickup-fxa-admin-disabled-header = Enti juaj ka çaktivizuar njëkohësimet
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Mbyllur së fundi
 firefoxview-closed-tabs-description2 = Rihapni faqe që keni mbyllur në këtë dritare.
 firefoxview-closed-tabs-placeholder-header = Pa skeda të mbyllura së fundi
 firefoxview-closed-tabs-placeholder-body = Kur mbyllni një skedë në këtë dritare, mund ta merrni nga këtu.
-firefoxview-closed-tabs-placeholder-body2 = Kur mbyllni një skedë, mund ta merrni nga këtu.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Dritare { $winID } (E tanishmja)
-firefoxview-opentabs-focus-tab =
-    .title = Kalo te kjo skedë
 firefoxview-show-more = Shfaq më tepër
 firefoxview-show-less = Shfaq më pak
 firefoxview-show-all = Shfaqi krejt
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Kërkoni në skeda
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Kërko në skeda të njëkohësuara
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Kërko te skeda të hapura
@@ -197,10 +183,6 @@ firefoxview-sort-history-by-date-label = Renditi sipas datash
 firefoxview-sort-history-by-site-label = Renditi sipas sajtesh
 firefoxview-sort-open-tabs-by-recency-label = Renditi sipas veprimtarive së fundi
 firefoxview-sort-open-tabs-by-order-label = Renditi sipas rendi skedash
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Kalo te { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -217,7 +199,6 @@ firefoxview-history-site-localhost = (kartela vendore)
 ##
 
 firefoxview-show-all-history = Shfaq krejt historikun
-firefoxview-view-more-browsing-history = Shihni më tepër historik shfletimi
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -233,9 +214,6 @@ firefoxview-choose-browser-button = Zgjidhni shfletues
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Asgjë për shfaqje
-firefoxview-dont-remember-history-empty-description = Mbrojtja e privatësisë tuaj është në qendër të asaj me çka merremi. Kjo është arsyeja pse mund të kontrolloni veprimtarinë që mban mend { -brand-short-name }-i.
-firefoxview-dont-remember-history-empty-description-two = Bazuar në rregullimet tuaja të tanishme, { -brand-short-name }-i nuk mban mend ndonjë veprimtari, teksa shfletoni. Për ta ndryshuar këtë, <a data-l10n-name="history-settings-url-two">ndryshoni rregullimet tuaja për historikun, që ky të mbahet mend</a>.
 firefoxview-dont-remember-history-empty-header-2 = Se çfarë mban mend { -brand-short-name }-i e kontrolloni ju
 firefoxview-dont-remember-history-empty-description-one = Tani për tani, { -brand-short-name } nuk mban mend veprimtarinë tuaj të shfletimit. Për ta ndryshuar këtë, <a data-l10n-name="history-settings-url-two">përditësoni rregullimet për historikun tuaj</a>.
 

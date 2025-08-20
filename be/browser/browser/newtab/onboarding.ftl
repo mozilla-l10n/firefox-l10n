@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Імпартаваць 
 mr1-onboarding-theme-header = Зрабіце яго сваім
 mr1-onboarding-theme-subtitle = Персаніфікуйце { -brand-short-name } з дапамогай тэмы.
 mr1-onboarding-theme-secondary-button-label = Не зараз
-newtab-wallpaper-onboarding-title = Паспрабуйце ўсплёск колеру
-newtab-wallpaper-onboarding-subtitle = Выберыце шпалеры, каб надаць новай картцы новы выгляд.
-newtab-wallpaper-onboarding-primary-button-label = Усталяваць шпалеры
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Сістэмная тэма
 mr1-onboarding-theme-label-light = Светлая

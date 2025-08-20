@@ -17,8 +17,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = বন্ধ কৰক
     .aria-label = বন্ধ কৰক
-firefoxview-empty-state-icon =
-    .alt = মন কৰক:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = এইমাত্ৰ
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -30,15 +28,10 @@ firefoxview-tabpickup-progress-label = { $percentValue }% সম্পূৰ্�
 firefoxview-tabpickup-step-signin-header = ডিভাইচবোৰৰ মাজত নিৰৱচ্ছিন্নভাৱে সাল-সলনি কৰক
 firefoxview-tabpickup-step-signin-description = ইয়ালৈ আপোনাৰ ফ’নৰ টেববোৰ লৈ আনিবলৈ, প্ৰথমে ছাইন ইন কৰক নাইবা একাউণ্টৰ সৃষ্টি কৰক।
 firefoxview-tabpickup-step-signin-primarybutton = অব্যাহত ৰাখক
-firefoxview-syncedtabs-signin-header = যিকোনো ঠাইৰ পৰা টেব লৈ আনক
-firefoxview-syncedtabs-signin-description = আপুনি { -brand-product-name } ব্যৱহাৰ কৰা সকলো ঠাইৰ টেববোৰ চাবলৈ আপোনাৰ একাউণ্টত ছাইন ইন কৰক। আপোনাৰ একাউণ্ট নাথাকিলে আমি আপোনাক ছাইন আপ কৰাৰ পদবোৰৰ মাজেৰে লৈ যাম।
-firefoxview-syncedtabs-signin-primarybutton = ছাইন ইন বা ছাইন আপ কৰক
 firefoxview-tabpickup-adddevice-header = আপোনাৰ ফ’ন বা টেবলেটত { -brand-product-name } ছিংক কৰক
 firefoxview-tabpickup-adddevice-description = ম’বাইলৰ { -brand-product-name } ডাউনল’ড কৰি তাত ছাইন ইন কৰক।
 firefoxview-tabpickup-adddevice-learn-how = কেনেকৈ— জানি লওক
 firefoxview-tabpickup-adddevice-primarybutton = ম’বাইলৰ { -brand-product-name } লাভ কৰক
-firefoxview-syncedtabs-adddevice-header = আপোনাৰ আনবোৰ ডিভাইচত { -brand-product-name }-ত ছাইন ইন কৰক
-firefoxview-syncedtabs-adddevice-description = আপুনি { -brand-product-name } ব্যৱহাৰ কৰা সকলো ঠাইৰ টেববোৰ চাবলৈ আপোনাৰ সকলো ডিভাইচত ছাইন ইন কৰক। <a data-l10n-name="url">অতিৰিক্ত ডিভাইচ সংযোগ</a> কেনেকৈ কৰিব লাগে— জানি লওক।
 firefoxview-syncedtabs-adddevice-primarybutton = ম’বাইলৰ { -brand-product-name } ব্যৱহাৰ কৰি চাওক
 firefoxview-tabpickup-synctabs-header = টেব ছিংকিং চালু কৰক
 firefoxview-tabpickup-synctabs-description = { -brand-short-name }-ক একাধিক ডিভাইচৰ মাজত টেববোৰ ভাগ-বতৰা কৰিবলৈ অনুমতি দিয়ক।
@@ -46,7 +39,6 @@ firefoxview-tabpickup-synctabs-learn-how = কেনেকৈ— জানি �
 firefoxview-tabpickup-synctabs-primarybutton = খোলা টেববোৰ ছিংক কৰক
 firefoxview-syncedtabs-synctabs-header = আপোনাৰ ছিংক ছেটিংছ আপডে’ট কৰক
 firefoxview-syncedtabs-synctabs-description = আনবোৰ ডিভাইচৰ টেববোৰ চাবলৈ আপুনি আপোনাৰ খোলা টেববোৰ ছিংক কৰিব লাগিব।
-firefoxview-syncedtabs-synctabs-checkbox = খোলা টেববোৰক ছিংক হ’বলৈ অনুমতি দিয়ক
 firefoxview-syncedtabs-loading-header = ছিংক প্ৰগতিশীল অৱস্থাত আছে
 firefoxview-syncedtabs-loading-description = যেতিয়া এইটো হৈ যাব, তেতিয়া আপুনি আনবোৰ ডিভাইচত খোলা যিকোনো টেব দেখা পাব। অলপ পাছত আকৌ চাব।
 firefoxview-tabpickup-fxa-admin-disabled-header = আপোনাৰ প্ৰতিষ্ঠানে ছিংক নিষ্ক্ৰিয় কৰি থৈছে
@@ -79,7 +71,6 @@ firefoxview-closed-tabs-title = শেহতীয়াকৈ বন্ধ কৰ�
 firefoxview-closed-tabs-description2 = আপুনি এই ৱিণ্ড’ত বন্ধ কৰা পৃষ্ঠাবোৰ আকৌ খোলক।
 firefoxview-closed-tabs-placeholder-header = কোনো শেহতীয়াকৈ বন্ধ কৰা টেব নাই
 firefoxview-closed-tabs-placeholder-body = যেতিয়া আপুনি এই ৱিণ্ড’ত কোনো টেব বন্ধ কৰে, তেতিয়া আপুনি সেইটো ইয়াৰ পৰা আনিব পাৰে।
-firefoxview-closed-tabs-placeholder-body2 = যেতিয়া আপুনি কোনো টেব বন্ধ কৰে, তেতিয়া আপুনি সেইটো ইয়াৰ পৰা আনিব পাৰে।
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -145,8 +136,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = ৱিণ্ড’ { $winID } (বৰ্তমানৰ)
-firefoxview-opentabs-focus-tab =
-    .title = এই টেবলৈ সলাওক
 firefoxview-show-more = অধিক দেখুৱাওক
 firefoxview-show-less = কম দেখুৱাওক
 firefoxview-show-all = সকলো দেখুৱাওক
@@ -161,9 +150,6 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = শেহতীয়াকৈ বন্ধ কৰা টেববোৰত সন্ধান কৰক
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = ছিংক কৰা টেববোৰত সন্ধান কৰক
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = খোলা টেববোৰত সন্ধান কৰক
@@ -184,10 +170,6 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = “{ $query }”ৰ বাবে কোনো ফলাফল নাই
 firefoxview-sort-history-by-date-label = তাৰিখ অনুসৰি সজাওক
 firefoxview-sort-history-by-site-label = ছাইট অনুসৰি সজাওক
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = { $url }-লৈ সলাওক
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -204,7 +186,6 @@ firefoxview-history-site-localhost = (স্থানীয় ফাইলবো�
 ##
 
 firefoxview-show-all-history = সকলো ইতিহাস দেখুৱাওক
-firefoxview-view-more-browsing-history = অধিক ব্ৰাউজিঙৰ ইতিহাস চাওক
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -217,12 +198,6 @@ firefoxview-history-empty-description-two = আপোনাৰ গোপনী�
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = ব্ৰাউজাৰ বাছি লওক
     .title = ব্ৰাউজাৰ বাছি লওক
-
-## Message displayed in Firefox View when the user has chosen to never remember History
-
-firefoxview-dont-remember-history-empty-header = দেখুৱাবলৈ একো নাই
-firefoxview-dont-remember-history-empty-description = আপোনাৰ গোপনীয়তা সুৰক্ষিত কৰাটোৱেই হৈছে আমি কৰা কামৰ মূলমন্ত্ৰ। এইবাবেই আপুনি { -brand-short-name }-এ মনত ৰখা কাৰ্য্যকলাপ নিয়ন্ত্ৰণ কৰিব পাৰে।
-firefoxview-dont-remember-history-empty-description-two = আপোনাৰ বৰ্তমানৰ ছেটিংছৰ ওপৰত ভিত্তি কৰি { -brand-short-name }-এ আপুনি ব্ৰাউজ কৰাৰ সময়ত আপোনাৰ কাৰ্য্যকলাপ মনত নাৰাখে। সেইটো সলনি কৰিবলৈ <a data-l10n-name="history-settings-url-two">আপোনাৰ ইতিহাস মনত ৰাখিব পৰাকৈ আপোনাৰ ইতিহাসৰ ছেটিংছ সলনি কৰক</a>।
 
 ##
 

@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Kter seg { $previous }
 mr1-onboarding-theme-header = Err-it d ayla-k·m
 mr1-onboarding-theme-subtitle = Err { -brand-short-name } d udmawan s usentel.
 mr1-onboarding-theme-secondary-button-label = Mačči tura
-newtab-wallpaper-onboarding-title = Ɛreḍ aṛuccu n yini
-newtab-wallpaper-onboarding-subtitle = Fren tugna n ugilal i wakken ad tmuddeḍ udem niḍen i yiccer amaynut.
-newtab-wallpaper-onboarding-primary-button-label = Sbadu tugna n ugilal
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Asentel n unagraw
 mr1-onboarding-theme-label-light = Aceɛlal

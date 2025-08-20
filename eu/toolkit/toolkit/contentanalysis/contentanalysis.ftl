@@ -33,8 +33,6 @@ contentanalysis-slow-agent-dialog-body-print = Inprimatu duzuna zure erakundeare
 contentanalysis-operationtype-clipboard = arbela
 contentanalysis-operationtype-dropped-text = jaregindako testua
 contentanalysis-operationtype-print = inprimatu
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = "{ $filename }" igotzea
 contentanalysis-warndialogtitle = Eduki hau ez-segurua izan liteke
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

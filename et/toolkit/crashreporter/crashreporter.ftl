@@ -4,8 +4,6 @@
 
 crashreporter-crashed-and-restore = { -brand-short-name }il tekkis tõrge ja see jooksis kokku. Püüame peale taaskäivitumust sinu kaardid ja aknad taastada.
 crashreporter-plea = Aitamaks meil viga diagnoosida ja parandada, võid saata vearaporti.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Täpsem info: { $details }
 crashreporter-no-run-message = Rakendus käivitub pärast vea esinemist ning teavitab probleemist rakenduse autoreid.  Rakendust ei tohiks käivitada otse.
 crashreporter-button-details = Täpsem info…
 crashreporter-view-report-title = Raporti sisu

@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = לא להציג תיבת דו־שי�
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = לתשומת לבך
-tabbrowser-confirm-close-duplicate-tabs-text = אנחנו נשאיר את הלשונית הפעילה האחרונה פתוחה
 tabbrowser-confirm-close-all-duplicate-tabs-title = לסגור לשוניות כפולות?
 tabbrowser-confirm-close-all-duplicate-tabs-text = נסגור כרטיסיות כפולות בחלון זה. הלשונית הפעילה האחרונה תישאר פתוחה.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = סגירת לשוניות

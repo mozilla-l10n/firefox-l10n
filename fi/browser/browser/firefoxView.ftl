@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Sulje
     .aria-label = Sulje
-firefoxview-empty-state-icon =
-    .alt = Huomio:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Juuri nyt
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Jatka
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } kaikilla laitteillasi
 firefoxview-syncedtabs-signin-description-2 = Näet puhelimellasi ja muilla laitteilla avoinna olevat välilehdet kirjautumalla sisään tai luomalla tilin. Tilin avulla voit myös synkronoida salasanasi, historiasi ja paljon muuta.
 firefoxview-syncedtabs-signin-primarybutton-2 = Kirjaudu sisään
-firefoxview-syncedtabs-signin-header = Nappaa välilehdet mistä tahansa
-firefoxview-syncedtabs-signin-description = Näet välilehdet kaikkialla, missä käytät { -brand-product-name }ia, kun kirjaudut sisään tilillesi. Jos sinulla ei ole tiliä, opastamme sinut rekisteröitymisen vaiheiden läpi.
-firefoxview-syncedtabs-signin-primarybutton = Kirjaudu tai rekisteröidy
 firefoxview-tabpickup-adddevice-header = Synkronoi { -brand-product-name } puhelimellasi tai tablet-laitteellasi
 firefoxview-tabpickup-adddevice-description = Lataa { -brand-product-name } mobiililaitteelle ja kirjaudu sisään.
 firefoxview-tabpickup-adddevice-learn-how = Lue lisää
 firefoxview-tabpickup-adddevice-primarybutton = Hanki { -brand-product-name } mobiililaitteelle
 firefoxview-syncedtabs-adddevice-header-2 = Nappaa välilehdet mistä tahansa
 firefoxview-syncedtabs-adddevice-description-2 = Kirjaudu sisään { -brand-product-name }iin puhelimellasi tai toisella tietokoneella nähdäksesi välilehdet täällä. Lue lisää <a data-l10n-name="url">laitteiden yhdistämisestä</a>.
-firefoxview-syncedtabs-adddevice-header = Kirjaudu sisään { -brand-product-name }iin muilla laitteillasi
-firefoxview-syncedtabs-adddevice-description = Näet välilehdet kaikkialla, missä käytät { -brand-product-name }ia, kun kirjaudut sisään tilillesi kaikilla laitteillasi. Tietoa <a data-l10n-name="url">muiden laitteiden yhdistämisestä</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Kokeile { -brand-product-name }ia mobiililaitteella
 firefoxview-tabpickup-synctabs-header = Ota välilehtien synkronointi käyttöön
 firefoxview-tabpickup-synctabs-description = Salli { -brand-short-name }in jakaa välilehtiä laitteiden välillä.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Lue lisää
 firefoxview-tabpickup-synctabs-primarybutton = Synkronoi avoimet välilehdet
 firefoxview-syncedtabs-synctabs-header = Päivitä synkronointiasetukset
 firefoxview-syncedtabs-synctabs-description = Jos haluat nähdä muiden laitteiden välilehdet, sinun on synkronoitava avoimet välilehdet.
-firefoxview-syncedtabs-synctabs-checkbox = Salli avointen välilehtien synkronointi
 firefoxview-syncedtabs-loading-header = Synkronointi käynnissä
 firefoxview-syncedtabs-loading-description = Kun se valmistuu, näet kaikki muilla laitteilla avoinna olevat välilehdet. Tarkista pian uudelleen.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisaatiosi on poistanut synkronoinnin käytöstä
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Viimeksi suljetut
 firefoxview-closed-tabs-description2 = Avaa uudelleen tässä ikkunassa sulkemasi sivut.
 firefoxview-closed-tabs-placeholder-header = Ei viimeksi suljettuja välilehtiä
 firefoxview-closed-tabs-placeholder-body = Kun suljet välilehden tässä ikkunassa, voit hakea sen täältä.
-firefoxview-closed-tabs-placeholder-body2 = Kun suljet välilehden, voit hakea sen täältä.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Ikkuna { $winID } (nykyinen)
-firefoxview-opentabs-focus-tab =
-    .title = Siirry tähän välilehteen
 firefoxview-show-more = Näytä lisää
 firefoxview-show-less = Näytä vähemmän
 firefoxview-show-all = Näytä kaikki
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Hae välilehtiä
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Hae synkronoiduista välilehdistä
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Hae avoimista välilehdistä
@@ -197,10 +183,6 @@ firefoxview-sort-history-by-date-label = Järjestä päiväyksen mukaan
 firefoxview-sort-history-by-site-label = Järjestä sivuston mukaan
 firefoxview-sort-open-tabs-by-recency-label = Järjestä viimeisimmän toiminnan mukaan
 firefoxview-sort-open-tabs-by-order-label = Järjestä välilehtijärjestyksen mukaan
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Vaihda osoitteeseen { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -217,7 +199,6 @@ firefoxview-history-site-localhost = (paikalliset tiedostot)
 ##
 
 firefoxview-show-all-history = Näytä koko historia
-firefoxview-view-more-browsing-history = Näytä lisää selaushistoriaa
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -233,9 +214,6 @@ firefoxview-choose-browser-button = Valitse selain
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Ei mitään näytettävää
-firefoxview-dont-remember-history-empty-description = Yksityisyytesi suojaaminen on toimintamme ydin. Sen vuoksi voit hallita, mitä toimintaa { -brand-short-name } muistaa.
-firefoxview-dont-remember-history-empty-description-two = Nykyisten asetustesi perusteella { -brand-short-name } ei muista toimintaasi selaamisen aikana. Voit muuttaa tätä <a data-l10n-name="history-settings-url-two">muuttamalla historia-asetuksia niin, että selain muistaa selaushistorian</a>.
 firefoxview-dont-remember-history-empty-header-2 = Sinä hallitset, mitä { -brand-short-name } muistaa
 firefoxview-dont-remember-history-empty-description-one = Tällä hetkellä { -brand-short-name } ei muista selaustoimintaasi. Voit muuttaa tätä <a data-l10n-name="history-settings-url-two">päivittämällä historia-asetukset</a>.
 

@@ -9,8 +9,6 @@ crashreporter-plea = 문제를 진단하고 해결하는 데 도움이 되도록
 crashreporter-information = 이 애플리케이션은 충돌 후 실행되어 { -vendor-short-name }에 문제를 보고합니다.  직접 실행해서는 안 됩니다.
 crashreporter-error = { -brand-short-name }에 문제가 있어 충돌이 발생했습니다. 불행하게도 충돌 보고서는 이 충돌에 대한 보고서를 제출할 수 없습니다.
 crashreporter-error-details-header = 상세 정보:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = 상세 정보: { $details }
 crashreporter-no-run-message = 이 애플리케이션은 충돌 후 실행되어 애플리케이션 공급업체에 문제를 보고합니다.  직접 실행해서는 안 됩니다.
 crashreporter-button-details = 상세 정보…
 crashreporter-loading-details = 로드 중…
@@ -20,8 +18,6 @@ crashreporter-report-info = 이 보고서는 충돌 발생 시 애플리케이�
 crashreporter-checkbox-test-hardware = 내 기기의 하드웨어 및 구성 문제를 확인.
 crashreporter-checkbox-send-report = 문제를 해결할 수 있도록 이 충돌에 대해 { -vendor-short-name }에게 알려주세요.
 crashreporter-checkbox-include-url = 내가 있었던 페이지의 주소를 포함합니다.
-crashreporter-send-report = 문제를 해결할 수 있도록 이 충돌에 대해 { -vendor-short-name }에게 알려주세요.
-crashreporter-include-url = 내가 있었던 페이지의 주소를 포함합니다.
 crashreporter-submit-status = 충돌 보고서는 종료하거나 다시 시작하기 전에 제출됩니다.
 crashreporter-submit-waiting-hardware-tests = 하드웨어 및 구성 문제를 확인 중…
 crashreporter-submit-in-progress = 보고서 제출 중…
@@ -39,7 +35,6 @@ crashreporter-crash-details = { $url }에서 이 충돌에 대한 자세한 정�
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = 미니덤프 분석기를 실행하지 못함
 # $path (String) - the file path
 crashreporter-error-opening-file = 파일을 열지 못함 ({ $path })
 # $path (String) - the file path

@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = ث
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = لا اسم مستخدم
-password-manager-toggle-password =
-    .label = أظهر كلمة السر
-    .accesskey = ظ
 password-manager-confirm-password-change = أكّد تغيير كلمة السر
 password-manager-select-username = اختر أي بينات ولوج ستُحدّث

@@ -26,8 +26,5 @@ password-manager-update-password-button-deny =
     .accesskey = Չ
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Չկայ աւգտանուն
-password-manager-toggle-password =
-    .label = Ցուցադրել գաղտնաբառը
-    .accesskey = h
 password-manager-confirm-password-change = Հաստատէք գաղտնաբառի փոփոխութիւնը
 password-manager-select-username = Ընտրէք, թե որ մուտքագրումը թարմացնել՝

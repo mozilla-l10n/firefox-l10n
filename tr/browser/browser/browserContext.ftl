@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Temiz bağlantıyı kopyala
     .accesskey = T
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Takip kodunu silerek bağlantıyı kopyala
-    .accesskey = T
 
 ## Media (video/audio) controls
 ##

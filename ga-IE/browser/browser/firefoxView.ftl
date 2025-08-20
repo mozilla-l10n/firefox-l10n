@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Dún
     .aria-label = Dún
-firefoxview-empty-state-icon =
-    .alt = Aire:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Anois beag
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -34,7 +32,6 @@ firefoxview-tabpickup-step-signin-description = Chun do chuid cluaisíní ar do 
 firefoxview-tabpickup-step-signin-primarybutton = Lean ar aghaidh
 firefoxview-syncedtabs-signin-header-2 = Do { -brand-product-name } ar do ghléasanna go léir
 firefoxview-syncedtabs-signin-primarybutton-2 = Sínigh isteach
-firefoxview-syncedtabs-signin-header = Faigh do chuid cluaisíní ó ghléas ar bith
 firefoxview-tabpickup-adddevice-header = Socraigh { -brand-product-name } chun go mbeidh sé mar an gcéanna ar do ghuthán nó ar do tháibléid
 firefoxview-tabpickup-adddevice-learn-how = Foghlaim conas sin a dhéanamh
 firefoxview-tabpickup-adddevice-primarybutton = Faigh { -brand-product-name } do do ghuthán
@@ -105,8 +102,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Fuinneog { $winID } ( Reatha )
-firefoxview-opentabs-focus-tab =
-    .title = Athraigh go dtí an Cluaisín seo
 firefoxview-show-more = Níos mó
 firefoxview-show-less = Níos lú
 firefoxview-show-all = Taispeáin uile
@@ -139,10 +134,6 @@ firefoxview-history-site-localhost = (comhaid logánta)
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = Roghnaigh líonléitheoir
     .title = Roghnaigh líonléitheoir
-
-## Message displayed in Firefox View when the user has chosen to never remember History
-
-firefoxview-dont-remember-history-empty-header = Níl faic le taispeáint
 
 ##
 

@@ -4,9 +4,6 @@
 
 do-not-track-description = Mande ai sîts web un segnâl “Do Not Track” che al indiche che no tu vuelis vignî spiât
 do-not-track-removal = No supuartìn plui il segnâl “Do Not Track”
-do-not-track-description2 =
-    .label = Mande ai sîts web une richieste “Do Not Track” (no sta spiâ)
-    .accesskey = d
 do-not-track-learn-more = Plui informazions
 do-not-track-option-default-content-blocking-known =
     .label = Dome cuant che { -brand-short-name } al è configurât par blocâ lis spiis (trackers) cognossudis
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = L'aspiet dal sît web al è stât sostituît de tô selezion di colôrs. <a data-l10n-name="colors-link"> Gjestìs i colôrs</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = L'aspiet dal sît web al è stât sostituît de tô selezion di colôrs.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gjestìs i temis di { -brand-short-name } in <a data-l10n-name="themes-link">Estensions e temis</a>
@@ -1426,8 +1419,6 @@ addon-recommendations-link = Plui informazions
 # or builds with no Telemetry support available.
 collection-health-report-disabled = La segnalazion di dâts e je stade disativade te configurazion di cheste compilazion
 collection-backlogged-crash-reports-with-link = Permet a { -brand-short-name } di inviâ a to non segnalazions di colàs regjistradis in precedence <a data-l10n-name="crash-reports-link">Plui informazions</a>
-    .accesskey = c
-collection-backlogged-crash-reports = Permet a { -brand-short-name } di inviâ a to non segnalazions di colàs regjistradis in precedence
     .accesskey = c
 privacy-segmentation-section-header = Gnovis funzionalitâts che a miorin la navigazion
 privacy-segmentation-section-description = Cuant che us ufrìn funzionalitâts che a doprin i vuestris dâts par dâus esperience plui personâl:

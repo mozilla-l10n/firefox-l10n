@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = Ако сакате да ни помогнете да го дијагнозираме и поправиме овој проблем, можете да ни пратите извештај за уривањето.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Детали: { $details }
 crashreporter-no-run-message = Оваа програма автоматски се стартува, откако ќе се случи проблем за кој треба да се извести производителот.  Не треба да се стартува самостојно.
 crashreporter-button-details = Детали…
 crashreporter-view-report-title = Содржина на извештајот

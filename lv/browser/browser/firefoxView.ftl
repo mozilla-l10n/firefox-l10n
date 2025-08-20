@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Aizvērt
     .aria-label = Aizvērt
-firefoxview-empty-state-icon =
-    .alt = Uzmanību:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Tikko
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -32,15 +30,10 @@ firefoxview-tabpickup-progress-label = { $percentValue }% pabeigti
 firefoxview-tabpickup-step-signin-header = Viegli pārslēdzieties starp ierīcēm
 firefoxview-tabpickup-step-signin-description = Lai šeit ņemtu tālruņa cilnes, vispirms ierakstieties vai izveidojiet kontu.
 firefoxview-tabpickup-step-signin-primarybutton = Turpināt
-firefoxview-syncedtabs-signin-header = Ņemiet cilnes no jebkuras vietas
-firefoxview-syncedtabs-signin-description = Lai skatītu savas cilnes jebkurā vietā, kur izmantojat { -brand-product-name }, ierakstieties savā kontā. Ja jums nav konta, mēs palīdzēsim jums ieziet reģistrēšanās soļus.
-firefoxview-syncedtabs-signin-primarybutton = Ierakstieties vai pierakstieties
 firefoxview-tabpickup-adddevice-header = Sinhronizējiet { -brand-product-name } savā tālrunī vai planšetē
 firefoxview-tabpickup-adddevice-description = Lejupielādējiet { -brand-product-name } mobilajam tālrunim un tur ierakstieties.
 firefoxview-tabpickup-adddevice-learn-how = Uzziniet kā
 firefoxview-tabpickup-adddevice-primarybutton = Iegūt { -brand-product-name } mobilajam tālrunim
-firefoxview-syncedtabs-adddevice-header = Ierakstieties { -brand-product-name } no citām savām ierīcēm
-firefoxview-syncedtabs-adddevice-description = Lai skatītu savas cilnes jebkurā vietā, kur izmantojat { -brand-product-name }, ierakstieties visās savās ierīcēs. Uzziniet, kā <a data-l10n-name="url">pievienot papildu ierīces</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Izmēģiniet { -brand-product-name } mobilajiem tālruņiem
 firefoxview-tabpickup-synctabs-header = Ieslēgt ciļņu sinhronizāciju
 firefoxview-tabpickup-synctabs-description = Atļaut { -brand-short-name } kopīgot cilnes starp ierīcēm.
@@ -48,7 +41,6 @@ firefoxview-tabpickup-synctabs-learn-how = Uzziniet kā
 firefoxview-tabpickup-synctabs-primarybutton = Sinhronizēt atvērtās cilnes
 firefoxview-syncedtabs-synctabs-header = Atjaunināt sinhronizācijas iestatījumus
 firefoxview-syncedtabs-synctabs-description = Lai skatītu cilnes no citām ierīcēm, jums ir jāsinhronizē atvērtās cilnes.
-firefoxview-syncedtabs-synctabs-checkbox = Atļaut sinhronizēties atvērtajām cilnēm
 firefoxview-syncedtabs-loading-header = Sinhronizē
 firefoxview-syncedtabs-loading-description = Kad sinhronizācija būs pabeigta, jūs redzēsiet visas cilnes, kas ir atvērtās citās ierīcēs. Pēc kāda brīža paskatieties vēlreiz.
 firefoxview-tabpickup-fxa-admin-disabled-header = Jūsu organizācija ir izslēgusi sinhronizāciju
@@ -82,7 +74,6 @@ firefoxview-closed-tabs-title = Nesen aizvērtās
 firefoxview-closed-tabs-description2 = Atkal atvērt lapas, kuras šajā logā tika aizvērtas.
 firefoxview-closed-tabs-placeholder-header = Nav nesen aizvērtu ciļņu
 firefoxview-closed-tabs-placeholder-body = Kad šajā logā aizverat cilni, varat to paņemt no šejienes.
-firefoxview-closed-tabs-placeholder-body2 = Kad aizverat cilni, varat to paņemt no šejienes.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -148,8 +139,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Logs { $winID } (pašreizējais)
-firefoxview-opentabs-focus-tab =
-    .title = Pārslēgties uz šo cilni
 firefoxview-show-more = Rādīt vairāk
 firefoxview-show-less = Rādīt mazāk
 firefoxview-show-all = Rādīt visu
@@ -164,9 +153,6 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Meklēt nesen aizvērtās cilnēs
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Meklēt sinhronizētajās cilnēs
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Meklēt atvērtās cilnēs
@@ -190,10 +176,6 @@ firefoxview-sort-history-by-date-label = Kārtot pēc datuma
 firefoxview-sort-history-by-site-label = Kārtot pēc vietnes
 firefoxview-sort-open-tabs-by-recency-label = Kārtot pēc nesenākās aktivitātes
 firefoxview-sort-open-tabs-by-order-label = Kārtot pēc ciļņu secības
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Pārslēgties uz { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -210,7 +192,6 @@ firefoxview-history-site-localhost = (lokālās datnes)
 ##
 
 firefoxview-show-all-history = Rādīt visu vēsturi
-firefoxview-view-more-browsing-history = Skatīt vairāk pārlūkošanas vēstures
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -223,12 +204,6 @@ firefoxview-history-empty-description-two = Jūsu privātuma aizsardzība ir mū
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = Izvēlieties pārlūku
     .title = Izvēlieties pārlūku
-
-## Message displayed in Firefox View when the user has chosen to never remember History
-
-firefoxview-dont-remember-history-empty-header = Nav ko rādīt
-firefoxview-dont-remember-history-empty-description = Jūsu privātuma aizsardzība ir mūsu darbības pamatā. Tāpēc varat kontrolēt darbības, ko atcerēsies { -brand-short-name }.
-firefoxview-dont-remember-history-empty-description-two = Pamatojoties uz jūsu pašreizējiem iestatījumiem, { -brand-short-name } neatceras jūsu darbības pārlūkošanas laikā. Lai to mainītu, <a data-l10n-name="history-settings-url-two">mainiet vēstures iestatījumus, lai atcerētos vēsturi</a>.
 
 ##
 

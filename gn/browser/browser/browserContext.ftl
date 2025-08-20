@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Emonguatia juajuha ipotĩva
     .accesskey = u
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Emonguatia juajuha tenda rapykueho’ỹre
-    .accesskey = y
 
 ## Media (video/audio) controls
 ##

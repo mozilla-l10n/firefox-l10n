@@ -37,8 +37,6 @@ contentanalysis-operationtype-print = afdrukken
 contentanalysis-upload-description = upload van ‘{ $filename }’
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = download van ‘{ $filename }’
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = upload van ‘{ $filename }’
 contentanalysis-warndialogtitle = Deze inhoud is mogelijk onveilig
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

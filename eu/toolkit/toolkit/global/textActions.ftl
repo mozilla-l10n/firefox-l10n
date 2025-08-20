@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Kopiatu lotura garbia
     .accesskey = b
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Kopiatu gunearen jarraipenik gabe
-    .accesskey = n
 text-action-paste =
     .label = Itsatsi
     .accesskey = I

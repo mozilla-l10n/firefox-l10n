@@ -166,11 +166,6 @@ main-context-menu-copy-link-simple =
 main-context-menu-copy-clean-link =
     .label = Kopjo Lidhje të Pastër
     .accesskey = K
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Kopjoje Lidhjen Pa Gjurmim Sajti
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##

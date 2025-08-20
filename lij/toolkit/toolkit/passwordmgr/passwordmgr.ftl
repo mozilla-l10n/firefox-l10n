@@ -19,8 +19,5 @@ password-manager-update-password-button-deny =
     .accesskey = N
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nisciun nomme utente
-password-manager-toggle-password =
-    .label = Mostra paròlla segreta
-    .accesskey = g
 password-manager-confirm-password-change = Conferma o cangio de paròlla segreta
 password-manager-select-username = Seleçionn-a o login da agiornâ:

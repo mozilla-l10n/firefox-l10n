@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Импортирова�
 mr1-onboarding-theme-header = Сделайте его своим
 mr1-onboarding-theme-subtitle = Измените внешний вид { -brand-short-name } с помощью темы.
 mr1-onboarding-theme-secondary-button-label = Не сейчас
-newtab-wallpaper-onboarding-title = Попробуйте всплеск цвета
-newtab-wallpaper-onboarding-subtitle = Выберите обои, чтобы придать новый вид вашей Новой вкладке.
-newtab-wallpaper-onboarding-primary-button-label = Установка обоев
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Системная тема
 mr1-onboarding-theme-label-light = Светлая

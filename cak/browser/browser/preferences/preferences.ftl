@@ -1122,8 +1122,6 @@ addon-recommendations-link = Tetamäx ch'aqa' chik
 collection-health-report-disabled = Chupül ri kitzijol taq tzij richin nib'an kinuk'ulem re taq alk'walaxinem re'
 collection-backlogged-crash-reports-with-link = Tiya' q'ij chi { -brand-short-name } yerutäq taq rutzijol sachoj emolon pa rub'i' <a data-l10n-name="crash-reports-link">Tetamäx ch'aqa' chik</a>
     .accesskey = s
-collection-backlogged-crash-reports = Tiya' q'ij chi { -brand-short-name } yerutäq taq rutzijol sachoj emolon pa rub'i'
-    .accesskey = s
 privacy-segmentation-section-header = K'ak'a' taq b'anikil nikutzilaj ri okem pa k'amaya'l
 privacy-segmentation-radio-off =
     .label = Tokisäx ruchilab'exik { -brand-product-name }

@@ -72,16 +72,6 @@ about-reader-customtheme-tab = ഇഷ്ടാനുസൃതം
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = എഴുതു്
-    .title = നിറം മാറ്റുക
-about-reader-custom-colors-background = പശ്ചാത്തലം
-    .title = നിറം തിരുത്തുക
-about-reader-custom-colors-unvisited-links = സന്ദൎശിക്കാത്ത കണ്ണികൾ
-    .title = നിറം മാറ്റുക
-about-reader-custom-colors-visited-links = സന്ദൎശിച്ച കണ്ണികൾ
-    .title = നിറം മാറ്റുക
-about-reader-custom-colors-selection-highlight = ഉറക്കെ വായിക്കുന്നതിനുള്ള അടയാളപ്പെടുത്തൽക്കരു
-    .title = നിറം മാറ്റുക
 about-reader-reset-button = തനിമട്ടിലാക്കുക
 about-reader-custom-colors-foreground2 =
     .label = വാചകം

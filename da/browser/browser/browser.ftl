@@ -401,7 +401,6 @@ quickactions-cmd-print = udskriv
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Gem side som PDF
 quickactions-cmd-savepdf2 = pdf, gem side
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Åbn privat vindue
 quickactions-cmd-private = privat browsing

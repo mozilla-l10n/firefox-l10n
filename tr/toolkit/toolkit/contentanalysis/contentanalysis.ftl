@@ -37,8 +37,6 @@ contentanalysis-operationtype-print = yazdır
 contentanalysis-upload-description = “{ $filename }” yüklemesi
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = “{ $filename }” indirmesi
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = “{ $filename }” yüklemesi
 contentanalysis-warndialogtitle = Bu içerik güvensiz olabilir
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = വൃത്തിയാക്കിയ കണ്ണി പകർത്തുക
     .accesskey = വ
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = സൈറ്റു് പിന്തുടർച്ചയില്ലാതെ പകർത്തുക
-    .accesskey = സ
 text-action-paste =
     .label = ഒട്ടിക്കുക
     .accesskey = P

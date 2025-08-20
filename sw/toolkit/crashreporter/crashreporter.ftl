@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = Kutusaidia kutambua na kutatua tatizo, unaweza tumia ripoti ya mvurugo.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Maelezo: { $details }
 crashreporter-no-run-message = Programu hii huendeshwa baada ya mvurugo ili kuripoti tatizo kwa muuzaji programu.  Inafaa kuendeshwa moja kwa moja.
 crashreporter-button-details = Maelezo…
 crashreporter-view-report-title = Ripoti Maudhui

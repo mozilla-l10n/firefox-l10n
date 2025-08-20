@@ -401,7 +401,6 @@ quickactions-cmd-print = štampaj
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sačuvaj stranicu kao PDF
 quickactions-cmd-savepdf2 = pdf, sačuvaj stranicu
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otvori privatni prozor
 quickactions-cmd-private = privatno pretraživanje

@@ -401,7 +401,6 @@ quickactions-cmd-print = imprimir
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Garda a páxina como PDF
 quickactions-cmd-savepdf2 = pdf, gardar páxina
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Abrir unha xanela privada
 quickactions-cmd-private = navegación privada

@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Özel
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Metin
-    .title = Rengi düzenle
-about-reader-custom-colors-background = Arka plan
-    .title = Rengi düzenle
-about-reader-custom-colors-unvisited-links = Ziyaret edilmemiş bağlantılar
-    .title = Rengi düzenle
-about-reader-custom-colors-visited-links = Ziyaret edilmiş bağlantılar
-    .title = Rengi düzenle
-about-reader-custom-colors-selection-highlight = Sesli okuma için vurgulayıcı
-    .title = Rengi düzenle
 about-reader-reset-button = Varsayılanlara sıfırla
 about-reader-custom-colors-foreground2 =
     .label = Metin

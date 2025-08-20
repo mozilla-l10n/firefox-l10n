@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Copiar ligação limpa
     .accesskey = g
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Copiar ligação do site sem monitorização
-    .accesskey = s
 
 ## Media (video/audio) controls
 ##

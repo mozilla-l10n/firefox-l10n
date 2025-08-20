@@ -33,8 +33,6 @@ contentanalysis-operationtype-print = 打印
 contentanalysis-upload-description = 上传“{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = 下载“{ $filename }”
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = 上传“{ $filename }”
 contentanalysis-warndialogtitle = 此内容可能不安全
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

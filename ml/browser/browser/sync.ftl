@@ -22,7 +22,6 @@ fxa-menu-send-tab-to-device-syncnotready =
     .label = ഉപകരണങ്ങള്‍ സിങ്ക് ചെയ്യുന്നു…
 fxa-menu-sign-out =
     .label = പുറത്തുക്കടക്കുക…
-fxa-menu-sync-title = സമന്വയം
 fxa-menu-sync-description = ഗോളാന്തരവല എല്ലായിടത്തിൽ നിന്നു് ഉപയോഗിക്കുക
 fxa-avatar-sign-up = അംഗത്തമെടുക്കുക
 fxa-avatar-tooltip =

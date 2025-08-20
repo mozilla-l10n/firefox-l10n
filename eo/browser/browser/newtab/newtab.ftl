@@ -319,9 +319,6 @@ newtab-custom-pocket-sponsored = Patronitaj artikoloj
 newtab-custom-pocket-show-recent-saves = Montri ĵusajn konservojn
 newtab-custom-recent-title = Ĵusa agado
 newtab-custom-recent-subtitle = Elekto de ĵusaj retejoj kaj enhavoj
-newtab-custom-recent-toggle =
-    .label = Ĵusa agado
-    .description = Elekto de ĵusaj retejoj kaj enhavoj
 newtab-custom-weather-toggle =
     .label = Vetero
     .description = Rapida rigardo al la veterprognozo hodiaŭa
@@ -445,7 +442,6 @@ newtab-weather-menu-change-location = Ŝanĝi lokon
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Serĉi lokon
     .aria-label = Serĉi lokon
-newtab-weather-change-location-search-input = Serĉi lokon
 newtab-weather-menu-weather-display = Montro de vetero
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = അടയ്ക്കുക
     .aria-label = അടയ്ക്കുക
-firefoxview-empty-state-icon =
-    .alt = ശ്രദ്ധിക്കുക:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ഇപ്പോഴ്
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -34,9 +32,6 @@ firefoxview-tabpickup-step-signin-description = നിങ്ങളുടെ ഫ�
 firefoxview-tabpickup-step-signin-primarybutton = തുടരുക
 firefoxview-syncedtabs-signin-header-2 = എല്ലാ ഉപകരണങ്ങളിലും താങ്ങളുടെ { -brand-product-name }
 firefoxview-syncedtabs-signin-primarybutton-2 = പ്രവേശിക്കുക
-firefoxview-syncedtabs-signin-header = എവിടെനിന്നും ടാബുകൾ എടുക്കുക
-firefoxview-syncedtabs-signin-description = നിങ്ങൾ { -brand-product-name } ഉപയോഗിക്കുന്നിടത്തെല്ലാം നിങ്ങളുടെ ടാബുകൾ കാണുന്നതിന്, നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക് സൈൻ ഇൻ ചെയ്യുക. നിങ്ങൾക്ക് അക്കൗണ്ട് ഇല്ലെങ്കിൽ, സൈൻ അപ്പ് ചെയ്യുന്നതിനുള്ള ഘട്ടങ്ങളിലൂടെ ഞങ്ങൾ നിങ്ങളെ കൊണ്ടുപോകും.
-firefoxview-syncedtabs-signin-primarybutton = പ്രവേശിക്കുക അല്ലെങ്കിൽ അംഗത്വം എടുക്കുക
 firefoxview-tabpickup-adddevice-learn-how = എങ്ങനെയെന്നറിയാം
 firefoxview-tabpickup-adddevice-primarybutton = താങ്ങളുടെ ഫോണിൽ { -brand-product-name } നേടുക
 firefoxview-syncedtabs-adddevice-header-2 = എവിടെനിന്നും ടാബുകൾ എടുക്കുക
@@ -46,7 +41,6 @@ firefoxview-tabpickup-synctabs-description = ഉപകരണങ്ങൾക്�
 firefoxview-tabpickup-synctabs-learn-how = എങ്ങനെയെന്നറിയാം
 firefoxview-tabpickup-synctabs-primarybutton = തുറന്ന ടാബുകളെ സമന്വയിപ്പിക്കുക
 firefoxview-syncedtabs-synctabs-header = താങ്ങളുടെ സമന്വയ ക്രമീകരണങ്ങളെ പരിഷ്കരിക്കുക
-firefoxview-syncedtabs-synctabs-checkbox = തുറന്ന ടാബുകളെ സമന്വയിപ്പിക്കാൻ അനുവദിക്കുക
 firefoxview-syncedtabs-loading-header = സമന്വയം നടപ്പിലാണു്
 firefoxview-tabpickup-fxa-admin-disabled-header = താങ്ങളുടെ സ്ഥാപനം സമന്വയത്തിനെ പ്രവൎത്തനരഹിതമാക്കി വച്ചിരിക്കുന്നു
 firefoxview-tabpickup-network-offline-header = ഗോളാന്തരവല ബന്ധം പരിശോധിച്ചുനോക്കുക
@@ -67,7 +61,6 @@ firefoxview-closed-tabs-title = അടുത്തിടെ അടച്ചത�
 firefoxview-closed-tabs-description2 = ഈ ജാലകത്തിൽ അടച്ച താളുകൾ വീണ്ടും തുറക്കുക
 firefoxview-closed-tabs-placeholder-header = അടുത്തിടെ അടച്ച ടാബുകളൊന്നുമില്ല
 firefoxview-closed-tabs-placeholder-body = താങ്ങൾ ഈ ജാലകത്തിൽ ടാബടക്കുമ്പോൾ താങ്ങൾക്കു് അതിനെ ഇവിടെ നിന്നെടുക്കാം.
-firefoxview-closed-tabs-placeholder-body2 = താങ്ങൾ ടാബടക്കുമ്പോൾ താങ്ങൾക്കു് അതിനെ ഇവിടെ നിന്നെടുക്കാം.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -132,8 +125,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = ജാലകം { $winID } (നിലവിലെ)
-firefoxview-opentabs-focus-tab =
-    .title = ഈ ടാബിലേക്കു് മാറുക
 firefoxview-show-more = കൂടുതൽ കാണിക്കുക
 firefoxview-show-less = കുറച്ച് കാണിക്കുക
 firefoxview-show-all = എല്ലാം കാണിക്കുക
@@ -151,9 +142,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = ടാബുകൾ തിരയുക
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = സമന്വയിപ്പിച്ച ടാബുകൾ തിരയുക
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = തുറന്ന ടാബുകൾ തിരയുക
@@ -176,10 +164,6 @@ firefoxview-sort-history-by-date-label = തീയതി അനുസരിച�
 firefoxview-sort-history-by-site-label = സൈറ്റു് അനുസരിച്ചു് ക്രമത്തിലാക്കുക
 firefoxview-sort-open-tabs-by-recency-label = അടുത്തിടെപ്രവൎത്തനം അനുസരിച്ചു് ക്രമത്തിലാക്കുക
 firefoxview-sort-open-tabs-by-order-label = ടാബുക്രമം അനുസരിച്ചു് ക്രമത്തിലാക്കുക
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = { $url } -ലേക്കു് മാറുക
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -196,17 +180,12 @@ firefoxview-history-site-localhost = (ചുറ്റുപാടു് ഫയ�
 ##
 
 firefoxview-show-all-history = നാൾവഴി മൊത്തം കാണിക്കുക
-firefoxview-view-more-browsing-history = ഇനിയും തിരച്ചിൽ നാൾവഴി കാണുക
 
 ##
 
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = അന്വേഷിയന്ത്രം തിരഞ്ഞെടുക്കുക
     .title = അന്വേഷിയന്ത്രം തിരഞ്ഞെടുക്കുക
-
-## Message displayed in Firefox View when the user has chosen to never remember History
-
-firefoxview-dont-remember-history-empty-header = കാണിക്കാനൊന്നുമില്ല
 
 ##
 

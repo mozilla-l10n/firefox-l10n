@@ -38,8 +38,6 @@ contentanalysis-operationtype-print = tipărire
 contentanalysis-upload-description = încărcare „{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = descărcare „{ $filename }”
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = încărcare „{ $filename }”
 contentanalysis-warndialogtitle = Acest conținut poate fi nesigur
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = Coby pomōc poznać tyn problym, możesz nōm posłać raport z awaryje.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detajle: { $details }
 crashreporter-no-run-message = Ta aplikacyjo je puszczano po awaryji, coby dać znać ô problymie wydowcy aplikacyje.  Niy zdo sie puszczać jij samyj.
 crashreporter-button-details = Informacyje…
 crashreporter-view-report-title = Zawartość raportu

@@ -301,9 +301,6 @@ newtab-custom-pocket-sponsored = Babesleen istorioak
 newtab-custom-pocket-show-recent-saves = Erakutsi gordetako azkenak
 newtab-custom-recent-title = Azken jarduera
 newtab-custom-recent-subtitle = Azken gune eta edukien hautapena
-newtab-custom-recent-toggle =
-    .label = Azken jarduera
-    .description = Azken gune eta edukien hautapena
 newtab-custom-weather-toggle =
     .label = Eguraldia
     .description = Gaurko eguraldi-iragarpena
@@ -390,7 +387,6 @@ newtab-weather-menu-change-location = Aldatu kokapena
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Bilatu kokapena
     .aria-label = Bilatu kokapena
-newtab-weather-change-location-search-input = Bilatu kokapena
 newtab-weather-menu-weather-display = Eguraldia bistaratzea
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

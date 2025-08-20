@@ -16,8 +16,5 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = No username
-password-manager-toggle-password =
-    .label = Ruodeit paroli
-    .accesskey = r
 password-manager-confirm-password-change = Apstyprynojit paroles maiņu
 password-manager-select-username = Izavielit kura konta datus atjaunynuot:

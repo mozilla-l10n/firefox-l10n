@@ -62,8 +62,6 @@ client-auth-cert-details-issued-by = ইস্যু করেছেন: { $issu
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = জমা হয়েছে: { $storedOn }
-client-auth-cert-remember-box =
-    .label = এই সিদ্ধান্ত মনে রাখা হবে
 
 ## Set password (p12) dialog
 

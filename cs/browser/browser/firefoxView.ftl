@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Zavřít
     .aria-label = Zavřít
-firefoxview-empty-state-icon =
-    .alt = Upozornění:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Právě teď
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -41,13 +39,6 @@ firefoxview-syncedtabs-signin-header-2 =
     }
 firefoxview-syncedtabs-signin-description-2 = Chcete-li zobrazit panely otevřené v telefonu a dalších zařízeních, přihlaste se nebo si zaregistrujte účet. S účtem můžete také synchronizovat svá hesla, historii a další údaje.
 firefoxview-syncedtabs-signin-primarybutton-2 = Přihlásit se
-firefoxview-syncedtabs-signin-header = Vezměte si panely odkudkoliv
-firefoxview-syncedtabs-signin-description =
-    { -brand-product-name.case-status ->
-        [with-cases] Pokud chcete vidět své panely kdekoliv, kde používáte { -brand-product-name(case: "acc") }, přihlaste se do svého účtu. Pokud ho nemáte, provedeme vás jednotlivými kroky registrace.
-       *[no-cases] Pokud chcete vidět své panely kdekoliv, kde používáte aplikaci { -brand-product-name }, přihlaste se do svého účtu. Pokud ho nemáte, provedeme vás jednotlivými kroky registrace.
-    }
-firefoxview-syncedtabs-signin-primarybutton = Přihlášení nebo registrace
 firefoxview-tabpickup-adddevice-header =
     { -brand-product-name.case-status ->
         [with-cases] Synchronizujte { -brand-product-name(case: "acc") } se svým telefonem či tabletem.
@@ -70,16 +61,6 @@ firefoxview-syncedtabs-adddevice-description-2 =
         [with-cases] Přihlaste se k { -brand-product-name(case: "dat") } v telefonu nebo v jiném počítači a zobrazte si zde panely. Zjistěte, jak <a data-l10n-name="url">připojit další zařízení</a>.
        *[no-cases] Přihlaste se k aplikaci { -brand-product-name } v telefonu nebo v jiném počítači a zobrazte si zde panely. Zjistěte, jak <a data-l10n-name="url">připojit další zařízení</a>.
     }
-firefoxview-syncedtabs-adddevice-header =
-    { -brand-product-name.case-status ->
-        [with-cases] Na ostatních zařízeních se přihlaste k { -brand-product-name(case: "gen") }
-       *[no-cases] Na ostatních zařízeních se přihlaste k aplikaci { -brand-product-name }
-    }
-firefoxview-syncedtabs-adddevice-description =
-    { -brand-product-name.case-status ->
-        [with-cases] Chcete-li vidět své panely kdekoliv, kde používáte { -brand-product-name(case: "acc") }, přihlaste se na všech svých zařízeních. Přečtěte si, jak <a data-l10n-name="url">připojit další zařízení</a>.
-       *[no-cases] Chcete-li vidět své panely kdekoliv, kde používáte aplikaci { -brand-product-name }, přihlaste se na všech svých zařízeních. Přečtěte si, jak <a data-l10n-name="url">připojit další zařízení</a>.
-    }
 firefoxview-syncedtabs-adddevice-primarybutton = Vyzkoušet { -brand-product-name } pro mobily
 firefoxview-tabpickup-synctabs-header = Zapnutí synchronizace panelů
 firefoxview-tabpickup-synctabs-description =
@@ -91,7 +72,6 @@ firefoxview-tabpickup-synctabs-learn-how = Zjistěte jak
 firefoxview-tabpickup-synctabs-primarybutton = Synchronizovat otevřené panely
 firefoxview-syncedtabs-synctabs-header = Aktualizace nastavení synchronizace
 firefoxview-syncedtabs-synctabs-description = Chcete-li zobrazit panely z jiných zařízení, musíte své otevřené panely synchronizovat.
-firefoxview-syncedtabs-synctabs-checkbox = Povolit synchronizaci otevřených panelů
 firefoxview-syncedtabs-loading-header = Probíhá synchronizace
 firefoxview-syncedtabs-loading-description = Po dokončení se zobrazí všechny panely otevřené na jiných zařízeních. Už za chvíli.
 firefoxview-tabpickup-fxa-admin-disabled-header = Synchronizace je zakázána vaší organizací
@@ -145,7 +125,6 @@ firefoxview-closed-tabs-title = Nedávno zavřené
 firefoxview-closed-tabs-description2 = Znovu otevřete stránky, které jste v tomto okně zavřeli.
 firefoxview-closed-tabs-placeholder-header = Žádné nedávno zavřené panely
 firefoxview-closed-tabs-placeholder-body = Když v tomto okně zavřete panel, můžete ho načíst odtud.
-firefoxview-closed-tabs-placeholder-body2 = Když zavřete panel, můžete ho načíst odtud.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -215,8 +194,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Okno { $winID } (aktuální)
-firefoxview-opentabs-focus-tab =
-    .title = Přepnout na tento panel
 firefoxview-show-more = Zobrazit více
 firefoxview-show-less = Zobrazit méně
 firefoxview-show-all = Zobrazit vše
@@ -234,9 +211,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Hledat panely
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Hledat v synchronizovaných panelech
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Hledat v otevřených panelech
@@ -261,10 +235,6 @@ firefoxview-sort-history-by-date-label = Řadit podle data
 firefoxview-sort-history-by-site-label = Řadit podle serveru
 firefoxview-sort-open-tabs-by-recency-label = Seřadit podle nedávné aktivity
 firefoxview-sort-open-tabs-by-order-label = Seřadit podle pořadí panelů
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Přepnout na { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -281,7 +251,6 @@ firefoxview-history-site-localhost = (místní soubor)
 ##
 
 firefoxview-show-all-history = Zobrazit celou historii
-firefoxview-view-more-browsing-history = Zobrazit více z historie prohlížení
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -297,9 +266,6 @@ firefoxview-choose-browser-button = Zvolte prohlížeč
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Zatím tu není nic k vidění
-firefoxview-dont-remember-history-empty-description = Ochrana vašeho soukromí je jádrem toho, co děláme. Proto můžete spravovat aktivitu, kterou si { -brand-short-name } pamatuje.
-firefoxview-dont-remember-history-empty-description-two = Na základě vašeho aktuálního nastavení si { -brand-short-name } nepamatuje vaši aktivitu při procházení. Chcete-li to změnit, <a data-l10n-name="history-settings-url-two">změňte nastavení historie tak, aby si historii pamatoval</a>.
 firefoxview-dont-remember-history-empty-header-2 = Vy máte kontrolu nad tím, co si { -brand-short-name } pamatuje
 firefoxview-dont-remember-history-empty-description-one = Nyní si { -brand-short-name } nepamatuje vaši aktivitu při procházení. Chcete-li to změnit, <a data-l10n-name="history-settings-url-two">aktualizujte nastavení historie</a>.
 

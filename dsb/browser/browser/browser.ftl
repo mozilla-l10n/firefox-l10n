@@ -401,7 +401,6 @@ quickactions-cmd-print = śišćaś
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Bok ako PDF składowaś
 quickactions-cmd-savepdf2 = pdf, bok składowaś
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Priwatne wokno wócyniś
 quickactions-cmd-private = priwatny modus

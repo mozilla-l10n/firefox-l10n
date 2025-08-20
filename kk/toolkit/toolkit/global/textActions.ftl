@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Таза сілтемені көшіру
     .accesskey = с
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Сайт бақылаусыз көшіру
-    .accesskey = з
 text-action-paste =
     .label = Кірістіру
     .accesskey = р

@@ -77,8 +77,6 @@ client-auth-cert-details-issued-by = ᱮᱢ ᱪᱟᱞ ᱺ { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = ᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱱᱟ : { $storedOn }
-client-auth-cert-remember-box =
-    .label = ᱱᱚᱶᱟ ᱩᱫᱩᱜ ᱩᱭᱦᱟᱹᱨ ᱢᱮ
 
 ## Set password (p12) dialog
 

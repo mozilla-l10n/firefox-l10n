@@ -81,7 +81,6 @@ neterror-dns-not-found-trr-unknown-problem = Anhawster annisgwyl.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = Nid yw { -brand-short-name } yn gallu diogelu eich cais am gyfeiriad y wefan hon trwy ein datryswr DNS dibynadwy. Dyma pam:
-neterror-dns-not-found-native-fallback-reason2 = Nid yw { -brand-short-name } yn gallu diogelu eich cais am gyfeiriad y wefan hon trwy ein darparwr DNS dibynadwy. Dyma pam:
 neterror-dns-not-found-native-fallback-heuristic = Mae DNS dros HTTPS wedi'i analluogi ar eich rhwydwaith.
 neterror-dns-not-found-native-fallback-not-confirmed2 = Nid oedd modd i { -brand-short-name } gysylltu â { $trrDomain }.
 

@@ -24,8 +24,6 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } er að yfirfara það 
 contentanalysis-operationtype-clipboard = klippispjald
 contentanalysis-operationtype-dropped-text = slepptur texti
 contentanalysis-operationtype-print = skrifa
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = innsending á „{ $filename }“
 contentanalysis-warndialogtitle = Þetta efni gæti verið óöruggt
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

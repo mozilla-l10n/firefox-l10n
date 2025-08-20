@@ -379,7 +379,6 @@ quickactions-print2 = چاپ صفحه
 quickactions-cmd-print = چاپ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = ذخیره صفحه به صورت PDF
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = گشایش پنجره ناشناس
 quickactions-cmd-private = مرور ناشناس

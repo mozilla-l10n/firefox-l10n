@@ -1049,8 +1049,6 @@ addon-recommendations-link = Lairn mair
 collection-health-report-disabled = Data reportin is disabled fur this build confeeguration
 collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf <a data-l10n-name="crash-reports-link">Lairn mair</a>
     .accesskey = c
-collection-backlogged-crash-reports = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf
-    .accesskey = c
 
 ## Privacy Section - Security
 ##

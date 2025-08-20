@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = ដើម្បី​ជួយ​ពួក​យើង​ក្នុង​ការ​ធ្វើ​រោគ​វិនិច្ឆ័យ និង​ដោះស្រាយ​បញ្ហា​ សូម​អ្នក​ផ្ញើ​របាយការណ៍​គាំង​នេះ​ឲ្យ​ពួក​យើង ។
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = សេចក្ដី​លម្អិត ៖ { $details }
 crashreporter-no-run-message = កម្មវិធី​នេះ​ត្រូវ​បាន​ដំណើរការ​បន្ទាប់ពី​បាន​គាំង​ក្នុង​ការ​រាយការណ៍​បញ្ហា​ទៅកាន់​ក្រុមហ៊ុន​លក់ ។ វា​មិន​គួរ​ដំណើរការ​ដោយ​ផ្ទាល់​ទេ ។
 crashreporter-button-details = សេចក្ដី​លម្អិត…
 crashreporter-view-report-title = មាតិកា​របាយការណ៍

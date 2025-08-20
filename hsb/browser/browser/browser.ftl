@@ -401,7 +401,6 @@ quickactions-cmd-print = ćišćeć
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Stronu jako PDF składować
 quickactions-cmd-savepdf2 = pdf, stronu składować
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Priwatne wokno wočinić
 quickactions-cmd-private = priwatny modus

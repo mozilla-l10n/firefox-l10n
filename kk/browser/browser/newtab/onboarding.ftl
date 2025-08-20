@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } ішін�
 mr1-onboarding-theme-header = Оны өзіңіздікі етіп қылу
 mr1-onboarding-theme-subtitle = { -brand-short-name } өнімін тема көмегімен жеке қылыңыз.
 mr1-onboarding-theme-secondary-button-label = Қазір емес
-newtab-wallpaper-onboarding-title = Түстер шашырауын қолданып көріңіз
-newtab-wallpaper-onboarding-subtitle = Жаңа бетке жаңа көрініс беру үшін тұсқағазды таңдаңыз.
-newtab-wallpaper-onboarding-primary-button-label = Тұсқағазды орнату
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Жүйелік тема
 mr1-onboarding-theme-label-light = Ашық түсті

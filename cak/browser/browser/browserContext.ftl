@@ -154,11 +154,6 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Tiwachib'ëx Ximoj
     .accesskey = X
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Tiwachib'ëx Ximoj rik'in majun Rojqanem Ruxaq
-    .accesskey = x
 
 ## Media (video/audio) controls
 ##

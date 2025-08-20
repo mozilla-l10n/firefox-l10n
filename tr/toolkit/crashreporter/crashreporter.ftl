@@ -9,8 +9,6 @@ crashreporter-plea = Sorunu tanılayıp çözmemize yardımcı olmak için bize 
 crashreporter-information = Bu uygulama, çökmeden sonra sorunu { -vendor-short-name }’ya bildirmek için çalışır. Doğrudan çalıştırılmamalıdır.
 crashreporter-error = { -brand-short-name } bir sorun yaşadı ve çöktü. Ne yazık ki çökme raporcusu bu çöküşle ilgili rapor gönderemiyor.
 crashreporter-error-details-header = Ayrıntılar:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Ayrıntılar: { $details }
 crashreporter-no-run-message = Bu uygulama, çökmeden sonra sorunu uygulamanın üreticisine bildirmek için çalışır. Doğrudan çalıştırılmamalıdır.
 crashreporter-button-details = Ayrıntılar…
 crashreporter-loading-details = Yükleniyor…
@@ -20,8 +18,6 @@ crashreporter-report-info = Bu rapor, uygulamanın çökme anındaki durumuyla i
 crashreporter-checkbox-test-hardware = Cihazımdaki donanım ve yapılandırma sorunlarını denetle.
 crashreporter-checkbox-send-report = { -vendor-short-name } çöküşten haberdar edilsin ki sorunu çözebilsinler.
 crashreporter-checkbox-include-url = Bakmakta olduğum sayfanın adresini dahil et.
-crashreporter-send-report = { -vendor-short-name } çöküşten haberdar edilsin ki sorunu çözebilsinler.
-crashreporter-include-url = Bakmakta olduğum sayfanın adresini dahil et.
 crashreporter-submit-status = Raporunuz uygulamadan çıkılmadan önce veya uygulama yeniden başlatılmadan önce gönderilecek.
 crashreporter-submit-waiting-hardware-tests = Donanım ve yapılandırma sorunları denetleniyor…
 crashreporter-submit-in-progress = Raporunuz gönderiliyor…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Bu çökmeyle ilgili ayrıntıları { $url } adres
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = minidump-analyzer çalıştırılamadı
 # $path (String) - the file path
 crashreporter-error-opening-file = Dosya açılamadı ({ $path })
 # $path (String) - the file path

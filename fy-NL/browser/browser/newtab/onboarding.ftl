@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Ymportearje út { $prev
 mr1-onboarding-theme-header = Meitsje it fan josels
 mr1-onboarding-theme-subtitle = Personalisearje { -brand-short-name } mei in tema.
 mr1-onboarding-theme-secondary-button-label = No net
-newtab-wallpaper-onboarding-title = Probearje in bytsje kleur
-newtab-wallpaper-onboarding-subtitle = Kies in eftergrûn om jo Nij-ljepblêdside in frisse útstrieling te jaan.
-newtab-wallpaper-onboarding-primary-button-label = Eftergrûn ynstelle
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Systeemtema
 mr1-onboarding-theme-label-light = Ljocht

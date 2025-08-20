@@ -282,9 +282,6 @@ newtab-custom-pocket-sponsored = Articles patrocinats
 newtab-custom-pocket-show-recent-saves = Mostra els elements desats recentment
 newtab-custom-recent-title = Activitat recent
 newtab-custom-recent-subtitle = Una selecció de llocs i continguts recents
-newtab-custom-recent-toggle =
-    .label = Activitat recent
-    .description = Una selecció de llocs i continguts recents
 newtab-custom-close-button = Tanca
 newtab-custom-settings = Gestiona més paràmetres
 
@@ -371,7 +368,6 @@ newtab-weather-menu-change-location = Canvia la ubicació
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Cerca la ubicació
     .aria-label = Cerca la ubicació
-newtab-weather-change-location-search-input = Cerca la ubicació
 newtab-weather-menu-weather-display = Visualització de la informació meteorològica
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Invia un scheda instantaneemente a qualcunque apparato in que tu ha aperite session.
 fxa-menu-sign-out =
     .label = Clauder session…
-fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Accede tu web ubique
 fxa-avatar-sign-in = Aperir session
 fxa-avatar-sign-up = Inscriber se

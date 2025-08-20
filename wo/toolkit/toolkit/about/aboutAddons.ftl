@@ -154,12 +154,8 @@ details-notification-incompatible = { $name } andul ak { -brand-short-name } { $
 details-notification-incompatible2 =
     .message = { $name } andul ak { -brand-short-name } { $version }.
 details-notification-blocked = { $name } suuxal nañu ko ndax ay tolof tolofi kaaraange ak yanq.
-details-notification-blocked2 =
-    .message = { $name } suuxal nañu ko ndax ay tolof tolofi kaaraange ak yanq.
 details-notification-blocked-link = Xibaar yu gën bari
 details-notification-softblocked = { $name } liñu ko xame mooy indi ay tolof tolofi kaarange ak yanq.
-details-notification-softblocked2 =
-    .message = { $name } liñu ko xame mooy indi ay tolof tolofi kaarange ak yanq.
 details-notification-softblocked-link = Xibaar yu gën bari
 
 ## Gecko Media Plugins (GMPs)

@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Kalıcı olarak
 client-auth-cert-remember-temporarily =
     .label = Bu oturumda
-client-auth-cert-remember-box =
-    .label = Bu kararı hatırla
 
 ## Set password (p12) dialog
 

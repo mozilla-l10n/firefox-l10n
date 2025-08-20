@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = העתקת קישור נקי
     .accesskey = נ
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = העתקת קישור ללא מעקב האתר
-    .accesskey = ה
 
 ## Media (video/audio) controls
 ##

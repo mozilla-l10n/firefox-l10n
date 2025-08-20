@@ -209,10 +209,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Sinu värvivalik on saidi välimusele ülemuslik. <a data-l10n-name="colors-link">Halda värve</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Sinu värvivalik on saidi välimusele ülemuslik.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Halda { -brand-short-name }i teemasid sektsioonis <a data-l10n-name="themes-link">Laiendused ja teemad</a>
@@ -1114,8 +1110,6 @@ addon-recommendations-link = Rohkem teavet
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on andmete raporteerimine keelatud
 collection-backlogged-crash-reports-with-link = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid <a data-l10n-name="crash-reports-link">Rohkem teavet</a>
-    .accesskey = L
-collection-backlogged-crash-reports = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid
     .accesskey = L
 
 ## Privacy Section - Security

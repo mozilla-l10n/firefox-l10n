@@ -33,5 +33,4 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Enviatz un onglet sul pic a qual periferic que siá ont avètz una session.
 fxa-menu-sign-out =
     .label = Se desconnectar…
-fxa-menu-sync-title = Sincronizacion
 fxa-menu-sync-description = Accedissètz a vòstre Web de pertot

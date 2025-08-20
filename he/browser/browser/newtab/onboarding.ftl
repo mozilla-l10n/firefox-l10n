@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = ייבוא מ־{ $previ
 mr1-onboarding-theme-header = התאמה לטעם האישי שלך
 mr1-onboarding-theme-subtitle = התאמה אישית של { -brand-short-name } עם ערכת נושא.
 mr1-onboarding-theme-secondary-button-label = לא כעת
-newtab-wallpaper-onboarding-title = אולי איזה מגע של צבע
-newtab-wallpaper-onboarding-subtitle = ניתן לבחור בתמונת רקע כדי לתת ללשונית החדשה שלך מראה רענן.
-newtab-wallpaper-onboarding-primary-button-label = הגדרת תמונת רקע
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ערכת הנושא של המערכת
 mr1-onboarding-theme-label-light = בהירה

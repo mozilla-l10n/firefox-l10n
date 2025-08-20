@@ -76,16 +76,6 @@ about-reader-customtheme-tab = Po meri
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Besedilo
-    .title = Nastavi barvo
-about-reader-custom-colors-background = Ozadje
-    .title = Nastavi barvo
-about-reader-custom-colors-unvisited-links = Neobiskane povezave
-    .title = Nastavi barvo
-about-reader-custom-colors-visited-links = Obiskane povezave
-    .title = Nastavi barvo
-about-reader-custom-colors-selection-highlight = Označevalnik za glasno branje
-    .title = Nastavi barvo
 about-reader-reset-button = Ponastavi privzeto
 about-reader-custom-colors-foreground2 =
     .label = Besedilo

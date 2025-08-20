@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Emba’egueru { $previo
 mr1-onboarding-theme-header = Eñemomba’e hese
 mr1-onboarding-theme-subtitle = Eñemomba’e { -brand-short-name } peteĩ téma ndive
 mr1-onboarding-theme-secondary-button-label = Ani ko’ág̃a
-newtab-wallpaper-onboarding-title = Eiporukuaa sa’y sa’imi
-newtab-wallpaper-onboarding-subtitle = Eiporavo mba’erechaha rugua emoporãve hag̃ua tendayke pyahu
-newtab-wallpaper-onboarding-primary-button-label = Emoĩ mba’erechaha rugua
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Téma apopyvusu
 mr1-onboarding-theme-label-light = Tesakã

@@ -16,8 +16,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = बन्द गर्नुहोस्
     .aria-label = बन्द गर्नुहोस्
-firefoxview-empty-state-icon =
-    .alt = सावधान:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = अहिले भर्खरै
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -29,15 +27,10 @@ firefoxview-tabpickup-progress-label = { $percentValue }% पूरा भयो
 firefoxview-tabpickup-step-signin-header = यन्त्रहरू बीच निर्बाध रूपमा स्विच गर्नुहोस्
 firefoxview-tabpickup-step-signin-description = यहाँ आफ्नो फोन ट्याबहरू समात्न, पहिले साइन इन गर्नुहोस् वा खाता सिर्जना गर्नुहोस्।
 firefoxview-tabpickup-step-signin-primarybutton = अगाडि बढ्नुहोस्
-firefoxview-syncedtabs-signin-header = कुनै पनि ठाउँबाट ट्याबहरू लिनुहोस्
-firefoxview-syncedtabs-signin-description = तपाईँले जहाँबाट { -brand-product-name } प्रयोग गर्नुहुन्छ तपाईँको ट्याबहरू हेर्नको लागि, तपाईँको खातामा साइन इन गर्नुहोस्। यदि तपाईंसँग खाता छैन भने, हामी तपाईंलाई साइन अप गर्न चरणहरू मार्फत लैजानेछौं।
-firefoxview-syncedtabs-signin-primarybutton = साइन इन वा साइन अप गर्नुहोस्
 firefoxview-tabpickup-adddevice-header = आफ्नो फोन वा ट्याब्लेटमा { -brand-product-name } सिंक गर्नुहोस्
 firefoxview-tabpickup-adddevice-description = मोबाइलको लागि { -brand-product-name } डाउनलोड गर्नुहोस् र त्यहाँ साइन इन गर्नुहोस्।
 firefoxview-tabpickup-adddevice-learn-how = कसरी हो सिक्नुहोस्
 firefoxview-tabpickup-adddevice-primarybutton = मोबाइलका लागि { -brand-product-name } प्राप्त गर्नुहोस्।
-firefoxview-syncedtabs-adddevice-header = आफ्नो अन्य यन्त्रहरूमा { -brand-product-name } मा साइन इन गर्नुहोस्
-firefoxview-syncedtabs-adddevice-description = तपाईंले जहाँबाट { -brand-product-name } प्रयोग गर्नुहुन्छ त्यहाँबाट आफ्ना ट्याबहरू हेर्नका लागि, आफ्ना सबै यन्त्रहरूमा साइन इन गर्नुहोस्। <a data-l10n-name="url">थप यन्त्रहरू जडान गर्ने</a> तरिका जान्नुहोस्।
 firefoxview-syncedtabs-adddevice-primarybutton = मोबाइलका लागि { -brand-product-name } प्राप्त गर्नुहोस्।
 firefoxview-tabpickup-synctabs-header = ट्याब सिंकिङ सक्रिय गर्नुहोस्
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } लाई उपकरणहरू बीच ट्याबहरू साझेदारी गर्न अनुमति दिनुहोस्।
@@ -45,7 +38,6 @@ firefoxview-tabpickup-synctabs-learn-how = कसरी हो सिक्न�
 firefoxview-tabpickup-synctabs-primarybutton = खुला ट्याबहरू सिंक गर्नुहोस्
 firefoxview-syncedtabs-synctabs-header = आफ्नो सिंक सेटिङहरू अद्यावधिक गर्नुहोस्
 firefoxview-syncedtabs-synctabs-description = अन्य यन्त्रहरूबाट ट्याबहरू हेर्न, तपाईंले आफ्नो खुला ट्याबहरू सिंक गर्न आवश्यक छ।
-firefoxview-syncedtabs-synctabs-checkbox = खुला ट्याबहरूलाई सिङ्क गर्न अनुमति दिनुहोस्
 firefoxview-syncedtabs-loading-header = सिंक भइरहेको छ
 firefoxview-syncedtabs-loading-description = सकिएपछि, तपाईंले अरू यन्त्रमा खोलेका ट्याबहरू हेर्न सक्नुहुनेछ। चाँडै फेरि हेर्नुहोला।
 firefoxview-tabpickup-fxa-admin-disabled-header = तपाईंको संगठनले सिंक बन्द गरेको छ
@@ -113,8 +105,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = विन्डो { $winID } (वर्तमान)
-firefoxview-opentabs-focus-tab =
-    .title = यो ट्याबमा स्विच गर्नुहोस्
 firefoxview-show-more = थप देखाउनुहोस्
 firefoxview-show-less = कम देखाउनुहोस्
 firefoxview-show-all = सबै देखाउनुहोस्
@@ -129,9 +119,6 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = हालै बन्द गरिएका ट्याबहरू खोज्नुहोस्
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = सिंक गरिएका ट्याबहरू खोज्नुहोस्
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = खुला ट्याबहरू खोज्नुहोस्
@@ -154,10 +141,6 @@ firefoxview-sort-history-by-date-label = मितिअनुसार क्�
 firefoxview-sort-history-by-site-label = साइट द्वारा क्रमबद्ध गर्नुहोस्
 firefoxview-sort-open-tabs-by-recency-label = हालको गतिविधि अनुसार क्रमबद्ध गर्नुहोस्
 firefoxview-sort-open-tabs-by-order-label = ट्याब अनुसार क्रमबद्ध गर्नुहोस्
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = { $url } मा स्विच गर्नुहोस्
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -174,7 +157,6 @@ firefoxview-history-site-localhost = (स्थानीय फाइलहर�
 ##
 
 firefoxview-show-all-history = सबै इतिहास देखाउनुहोस्
-firefoxview-view-more-browsing-history = ब्राउजिङ्ग इतिहास खाली गर्नुहोस्
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -187,7 +169,3 @@ firefoxview-history-empty-description-two = तपाईंको गोपन�
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = ब्राउजर छान्नुहोस्
     .title = ब्राउजर छान्नुहोस्
-
-## Message displayed in Firefox View when the user has chosen to never remember History
-
-firefoxview-dont-remember-history-empty-header = देखाउन को लागी केहि छैन

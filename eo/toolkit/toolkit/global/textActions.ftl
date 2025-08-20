@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Kopii purigitan ligilon
     .accesskey = p
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Kopii sen reteja spurilo
-    .accesskey = s
 text-action-paste =
     .label = Alglui
     .accesskey = A

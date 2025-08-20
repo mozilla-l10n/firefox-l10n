@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = Kab paleidzeitu nūteikt cālūni i salobuot itū problemu, varot nūsyuteit myusim avarejis ziņuojumu.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Seikuoka informaceja: { $details }
 crashreporter-no-run-message = Itei programa tīk palaista piec avarejis, kab paziņuotu par itū problemu lītuotnes izstruoduotajam. Tū navajadzeitu palaist pošrūceigi.
 crashreporter-button-details = Seikuoka informaceja...
 crashreporter-view-report-title = Ziņuojuma saturs

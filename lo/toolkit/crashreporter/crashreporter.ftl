@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = ເພື່ອຊ່ວຍພວກເຮົາວິນິດໄສ ແລະ ແກ້ໄຂບັັນຫານີ້ ທ່ານສາມາດສົ່ງລາຍງານຂໍ້ຜິດພາດນີ້ມາຫາພວກເຮົາ.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = ລາຍລະອຽດ: { $details }
 crashreporter-no-run-message = ແອັບພລິເຄຊັນນີ້ໄດ້ກັບມາທຳງານຫລັງຈາກໄດ້ສົ່ງລາຍງານຂໍ້ຜິດພາດໄປຫາຜູ້ສ້າງແອັບພລິເຄຊັນນີ້.  ມັນບໍ່ຄວນຈະຖືກເອີ້ນເຮັດວຽກເອງໂດຍກົງ.
 crashreporter-button-details = ລາຍລະອຽດ
 crashreporter-view-report-title = ເນື້ອໃນການລາຍງານ

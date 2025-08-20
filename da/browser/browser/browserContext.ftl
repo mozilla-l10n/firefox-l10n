@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Kopier rent link
     .accesskey = r
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Kopier link uden websteds-sporing
-    .accesskey = u
 
 ## Media (video/audio) controls
 ##

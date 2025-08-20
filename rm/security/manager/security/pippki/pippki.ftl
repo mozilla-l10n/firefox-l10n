@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Permanentamain
 client-auth-cert-remember-temporarily =
     .label = Per questa sesida
-client-auth-cert-remember-box =
-    .label = Memorisar questa decisiun
 
 ## Set password (p12) dialog
 

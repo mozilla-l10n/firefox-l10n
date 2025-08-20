@@ -52,8 +52,6 @@ mr1-onboarding-import-primary-button-label-attribution = Внасяне от { $
 mr1-onboarding-theme-header = По свой вкус
 mr1-onboarding-theme-subtitle = Приспособете { -brand-short-name } с тема.
 mr1-onboarding-theme-secondary-button-label = Не сега
-newtab-wallpaper-onboarding-title = Опитайте пръска цвят
-newtab-wallpaper-onboarding-subtitle = Изберете тапет, за да придадете свеж вид на новия си раздел.
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Системна тема
 mr1-onboarding-theme-label-light = Светла

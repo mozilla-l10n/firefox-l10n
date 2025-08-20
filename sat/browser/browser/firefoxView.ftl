@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-firefoxview-empty-state-icon =
-    .alt = ᱦᱮᱥᱤᱭᱟᱹᱨ :
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ᱱᱤᱛᱚᱜ ᱜᱮ
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = ᱞᱮᱛᱟᱲ
 firefoxview-syncedtabs-signin-header-2 = ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ { -brand-product-name }
 firefoxview-syncedtabs-signin-description-2 = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱟᱨ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱨᱮ ᱡᱷᱤᱡ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, ᱥᱩᱦᱤ ᱮᱢᱚᱜ ᱢᱮ ᱵᱟᱝᱠᱷᱟᱱ ᱢᱤᱫ ᱮᱠᱟᱣᱩᱱᱴ ᱞᱟᱹᱜᱤᱫ ᱧᱩᱛᱩᱢ ᱮᱢᱚᱜ ᱢᱮ ᱾  ᱢᱤᱫᱴᱟᱹᱝ ᱮᱠᱟᱣᱩᱱᱴ ᱥᱟᱶᱛᱮ, ᱟᱢ ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ, ᱱᱟᱜᱟᱢ ᱟᱨ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥᱠᱚ ᱥᱤᱝᱠ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾
 firefoxview-syncedtabs-signin-primarybutton-2 = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
-firefoxview-syncedtabs-signin-header = ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱜᱮ ᱴᱮᱵᱽᱠᱚ ᱦᱟᱛᱟᱣ ᱢᱮ
-firefoxview-syncedtabs-signin-description = ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱟᱢ { -brand-product-name } ᱵᱮᱵᱷᱟᱨᱟ ᱚᱱᱟ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱢᱮ ᱾ ᱡᱩᱫᱤ ᱟᱢ ᱴᱷᱮᱱ ᱢᱤᱫᱴᱟᱝ ᱵᱟᱹᱱᱩᱜ ᱠᱷᱟᱱ, ᱟᱢ ᱥᱟᱞᱟᱜ ᱥᱩᱦᱤ ᱮᱢ ᱠᱚᱨᱮ ᱟᱢ ᱥᱟᱶ ᱞᱮ ᱛᱟᱦᱮᱸᱱᱟ ᱾
-firefoxview-syncedtabs-signin-primarybutton = ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱥᱮ ᱧᱩᱛᱩᱢ ᱚᱞ ᱦᱚᱪᱚᱭ ᱢᱮ
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱟᱨᱵᱟᱝ ᱴᱮᱵᱞᱮᱴ ᱨᱮ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ
 firefoxview-tabpickup-adddevice-description = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ  { -brand-product-name } ᱰᱟᱣᱱᱞᱳᱰ ᱢᱮ ᱟᱨ ᱚᱱᱰᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
 firefoxview-tabpickup-adddevice-learn-how = ᱪᱮᱫᱢᱮ
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
 firefoxview-syncedtabs-adddevice-header-2 = ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱜᱮ ᱴᱮᱵᱽᱠᱚ ᱦᱟᱛᱟᱣ ᱢᱮ
 firefoxview-syncedtabs-adddevice-description-2 = ᱱᱚᱸᱰᱮ ᱴᱮᱵᱽ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱥᱮ ᱮᱴᱟᱜ ᱠᱚᱢᱯᱭᱩᱴᱟᱨ ᱨᱮ { -brand-product-name } ᱨᱮ ᱧᱩᱛᱩᱢ ᱞᱮᱠᱷᱟᱭ ᱢᱮ ᱾  ᱪᱮᱫ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱟ ᱛᱮ <a data-l10n-name="url">ᱵᱟᱹᱲᱛᱤ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱡᱚᱯᱲᱟᱣ ᱦᱩᱭᱩᱜᱼᱟ</a>᱾
-firefoxview-syncedtabs-adddevice-header = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱛᱮ { -brand-product-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
-firefoxview-syncedtabs-adddevice-description = ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱟᱢ { -brand-product-name } ᱵᱮᱵᱷᱟᱨᱟ ᱮᱫᱟ ᱚᱱᱟ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱥᱚᱫᱷᱚᱱ ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾ <a data-l10n-name="url">ᱵᱟᱹᱲᱛᱤ ᱥᱟᱫᱷᱚᱱᱠᱚ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ</a> ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ ᱾
 firefoxview-syncedtabs-adddevice-primarybutton = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ { -brand-product-name } ᱪᱮᱥᱴᱟᱭ ᱢᱮ
 firefoxview-tabpickup-synctabs-header = ᱴᱮᱵᱽ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 firefoxview-tabpickup-synctabs-description = ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱦᱟᱹᱴᱤᱧ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱠᱚᱨᱟᱣ ᱪᱷᱚᱭᱮᱢ ᱾
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = ᱪᱮᱫᱢᱮ
 firefoxview-tabpickup-synctabs-primarybutton = ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ
 firefoxview-syncedtabs-synctabs-header = ᱟᱢᱟᱜ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱥᱟᱡᱟᱣᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
 firefoxview-syncedtabs-synctabs-description = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱟᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽᱠᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱠᱷᱩᱞᱟᱹ ᱴᱮᱵᱽ ᱠᱷᱚᱱ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
-firefoxview-syncedtabs-synctabs-checkbox = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱴᱮᱵᱽ ᱠᱚ ᱠᱷᱩᱞᱟᱹ ᱪᱷᱚᱭ ᱢᱮ
 firefoxview-syncedtabs-loading-header = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱪᱟᱹᱞᱩ ᱠᱟᱱᱟ
 firefoxview-syncedtabs-loading-description = ᱡᱚᱠᱷᱚᱱ ᱱᱚᱣᱟ ᱯᱩᱨᱟᱹᱣ ᱞᱮᱱᱠᱷᱟᱱ, ᱟᱢ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢ ᱡᱷᱤᱡ ᱟᱠᱟᱱ ᱡᱟᱦᱟᱱ ᱴᱮᱵᱽ ᱜᱮᱢ ᱧᱮᱞᱟ ᱾ ᱞᱚᱜᱚᱱ ᱫᱚᱦᱲᱟ ᱧᱮᱞ ᱢᱮ᱾
 firefoxview-tabpickup-fxa-admin-disabled-header = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱵᱚᱱᱫ ᱠᱟᱫᱟᱭ
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ
 firefoxview-closed-tabs-description2 = ᱱᱚᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱥᱟᱦᱴᱟ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱾
 firefoxview-closed-tabs-placeholder-header = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
 firefoxview-closed-tabs-placeholder-body = ᱛᱤᱧ ᱡᱷᱚᱜ ᱟᱢ ᱱᱚᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ ᱴᱮᱵᱽ ᱮᱢ ᱵᱚᱱᱫ ᱮᱫᱟ, ᱟᱢ ᱫᱚ ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
-firefoxview-closed-tabs-placeholder-body2 = ᱛᱤᱧ ᱡᱷᱚᱜ ᱟᱢ ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱮᱢ ᱵᱚᱱᱫ ᱮᱫᱟ, ᱟᱢ ᱫᱚ ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = ᱣᱤᱱᱰᱳ { $winID } (ᱱᱤᱛᱚᱜᱟᱜ)
-firefoxview-opentabs-focus-tab =
-    .title = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
 firefoxview-show-more = ᱵᱚᱲᱛᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 firefoxview-show-less = ᱠᱚᱢ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 firefoxview-show-all = ᱡᱷᱚᱛᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = ᱥᱭᱝᱠ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
@@ -198,10 +184,6 @@ firefoxview-sort-history-by-date-label = ᱢᱟᱦᱟᱸ ᱫᱟᱨᱟᱭ ᱛᱮ 
 firefoxview-sort-history-by-site-label = ᱥᱟᱭᱤᱴ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱮᱴ ᱢᱮ
 firefoxview-sort-open-tabs-by-recency-label = ᱱᱮᱛᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 firefoxview-sort-open-tabs-by-order-label = ᱴᱮᱵᱽ ᱚᱨᱰᱟᱨ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = { $url } ᱛᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -218,7 +200,6 @@ firefoxview-history-site-localhost = (ᱱᱚᱰᱮᱱᱟᱜ ᱨᱮᱫ ᱠᱚ )
 ##
 
 firefoxview-show-all-history = ᱡᱷᱚᱛᱚ ᱦᱤᱛᱟᱹᱞ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-firefoxview-view-more-browsing-history = ᱟᱨᱦᱚᱸ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -234,9 +215,6 @@ firefoxview-choose-browser-button = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱟᱪᱷᱟᱣ 
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = ᱫᱮᱠᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱫᱦᱚᱸ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ
-firefoxview-dont-remember-history-empty-description = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱢ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱚ ᱟᱞᱮᱭᱟᱜ ᱡᱤᱜᱚᱨ ᱨᱮ ᱢᱮᱱᱟᱜ ᱠᱟᱫᱟ ᱾ ᱚᱱᱟ ᱛᱮ { -brand-short-name } ᱩᱭᱦᱟᱹᱨᱮᱫ ᱡᱷᱚᱛᱚ ᱠᱟᱹᱢᱤᱠᱚᱨᱮ ᱟᱢᱟᱜ ᱠᱚᱵᱚᱡᱽ ᱢᱮᱱᱟᱜ ᱠᱟᱫᱟ ᱾
-firefoxview-dont-remember-history-empty-description-two = ᱟᱢᱟᱜ ᱱᱤᱛᱚᱜᱟᱜ ᱥᱟᱡᱟᱣ ᱦᱤᱥᱟᱹᱵ ᱛᱮ, ᱟᱢ ᱯᱟᱱᱛᱮ ᱮᱫ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ { -brand-short-name } ᱵᱟᱭ ᱩᱭᱦᱟᱹᱨᱮᱫᱟᱭ ᱾ ᱚᱱᱟ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, <a data-l10n-name="history-settings-url-two">ᱟᱢᱟᱜ ᱱᱟᱜᱟᱢ ᱩᱭᱦᱟᱹᱨ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱟᱢᱟᱜ ᱱᱟᱜᱟᱢ ᱥᱟᱡᱟᱣᱠᱚ ᱵᱚᱫᱚᱞᱢᱮ</a> ᱾
 firefoxview-dont-remember-history-empty-header-2 = ᱟᱢ ᱫᱚ ᱚᱱᱟ ᱠᱚᱵᱚᱡᱽ ᱨᱮ ᱢᱮᱱᱟᱢᱟ { -brand-short-name } ᱪᱮᱫ ᱩᱭᱦᱟᱹᱨ ᱮᱫᱟᱭ
 firefoxview-dont-remember-history-empty-description-one = ᱱᱤᱛᱚᱜ, { -brand-short-name } ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱵᱟᱭ ᱩᱭᱦᱟᱹᱨᱟ ᱾ ᱚᱱᱟ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ, <a data-l10n-name="history-settings-url-two">ᱟᱢᱟᱜ ᱱᱟᱜᱟᱢ ᱥᱮᱴᱤᱝ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ</a>᱾
 

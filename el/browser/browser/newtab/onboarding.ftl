@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Εισαγωγή από
 mr1-onboarding-theme-header = Κάντε το δικό σας
 mr1-onboarding-theme-subtitle = Εξατομικεύστε το { -brand-short-name } με ένα θέμα.
 mr1-onboarding-theme-secondary-button-label = Όχι τώρα
-newtab-wallpaper-onboarding-title = Δοκιμάστε μια πινελιά χρώματος
-newtab-wallpaper-onboarding-subtitle = Επιλέξτε μια ταπετσαρία για να δώσετε μια νέα εμφάνιση στη νέα σας καρτέλα.
-newtab-wallpaper-onboarding-primary-button-label = Ορισμός ταπετσαρίας
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Θέμα συστήματος
 mr1-onboarding-theme-label-light = Ανοιχτόχρωμο

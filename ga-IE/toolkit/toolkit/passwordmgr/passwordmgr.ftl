@@ -16,8 +16,5 @@ password-manager-update-password-button-deny =
     .accesskey = N
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Gan ainm úsáideora
-password-manager-toggle-password =
-    .label = Taispeáin an focal faire
-    .accesskey = h
 password-manager-confirm-password-change = Dearbhaigh an Focal Faire Nua
 password-manager-select-username = Roghnaigh an focal faire le nuashonrú:

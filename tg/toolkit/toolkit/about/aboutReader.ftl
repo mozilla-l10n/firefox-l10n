@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Фармоишӣ
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Матн
-    .title = Таҳрир кардани ранг
-about-reader-custom-colors-background = Замина
-    .title = Таҳрир кардани ранг
-about-reader-custom-colors-unvisited-links = Пайвандҳои кушоданашуда
-    .title = Таҳрир кардани ранг
-about-reader-custom-colors-visited-links = Пайвандҳои кушодашуда
-    .title = Таҳрир кардани ранг
-about-reader-custom-colors-selection-highlight = Нишондиҳанда барои хондани матн бо овози баланд
-    .title = Таҳрир кардани ранг
 about-reader-reset-button = Барқарорсозӣ ба ҳолатҳои пешфарз
 about-reader-custom-colors-foreground2 =
     .label = Матн

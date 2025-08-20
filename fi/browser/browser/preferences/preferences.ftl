@@ -4,9 +4,6 @@
 
 do-not-track-description = Lähetä sivustoille Älä seuraa -signaali, että et halua sinua seurattavan
 do-not-track-removal = "Älä seuraa"-signaali ei ole enää tuettu
-do-not-track-description2 =
-    .label = Lähetä verkkosivustoille "Älä seuraa"-pyyntö
-    .accesskey = ä
 do-not-track-learn-more = Lue lisää
 do-not-track-option-default-content-blocking-known =
     .label = Vain, kun { -brand-short-name } on asetettu estämään tunnetut seuraimet
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Värivalintasi ohittavat verkkosivuston ulkoasun. <a data-l10n-name="colors-link">Hallinnoi värejä</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Värivalintasi ohittavat verkkosivuston ulkoasun.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Hallinnoi { -brand-short-name }in teemoja <a data-l10n-name="themes-link">Laajennukset ja teemat -osiossa</a>
@@ -1434,8 +1427,6 @@ addon-recommendations-link = Lue lisää
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Tietojen kerääminen ei ole käytössä tässä koostamiskokoonpanossa
 collection-backlogged-crash-reports-with-link = Salli, että { -brand-short-name } lähettää lähettämättömät kaatumisraportit puolestasi <a data-l10n-name="crash-reports-link">Lue lisää</a>
-    .accesskey = S
-collection-backlogged-crash-reports = Salli, että { -brand-short-name } lähettää lähettämättömät kaatumisraportit puolestasi
     .accesskey = S
 privacy-segmentation-section-header = Uudet selaamista parantavat ominaisuudet
 privacy-segmentation-section-description = Kun tarjoamme ominaisuuksia, jotka käyttävät tietojasi aiempaa henkilökohtaisemman käyttökokemuksen tarjoamiseksi:

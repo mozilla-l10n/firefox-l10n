@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = N
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Anv arveriad ebet
-password-manager-toggle-password =
-    .label = Diskouez ar ger-tremen
-    .accesskey = D
 password-manager-confirm-password-change = Kadarnaat kemm ar ger-tremen
 password-manager-select-username = Diuzit un anv arveriad d'e hizivaat:

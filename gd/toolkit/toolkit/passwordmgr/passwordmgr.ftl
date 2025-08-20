@@ -26,8 +26,5 @@ password-manager-update-password-button-deny =
     .accesskey = N
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Gun ainm-cleachdaiche
-password-manager-toggle-password =
-    .label = Seall am facal-faire
-    .accesskey = h
 password-manager-confirm-password-change = Dearbh atharrachadh an fhacail-fhaire
 password-manager-select-username = Tagh an login a thèid ùrachadh:

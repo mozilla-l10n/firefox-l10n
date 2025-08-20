@@ -81,7 +81,6 @@ neterror-dns-not-found-trr-unknown-problem = Мушкилии ногаҳон.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути ҳалкунандаи боэътимоди DNS муҳофизат карда наметавонад. Сабаб:
-neterror-dns-not-found-native-fallback-reason2 = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути таъминкунандаи DNS-и бехатар муҳофизат карда наметавонад. Сабаб:
 neterror-dns-not-found-native-fallback-heuristic = DNS тавассути HTTPS дар шабакаи шумо хомӯш карда шудааст.
 neterror-dns-not-found-native-fallback-not-confirmed2 = «{ -brand-short-name }» ба { $trrDomain } пайваст нашуд.
 

@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Номи корбар нест
-password-manager-toggle-password =
-    .label = Нишон додани ниҳонвожа
-    .accesskey = h
 password-manager-confirm-password-change = Тасдиқ кардани тағйири ниҳонвожа
 password-manager-select-username = Интихоб кунед, ки кадом воридшавӣ аз нав нигоҳ дошта мешавад:

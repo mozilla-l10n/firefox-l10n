@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = N
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Cap nom d'usuari
-password-manager-toggle-password =
-    .label = Mostra la contrasenya
-    .accesskey = M
 password-manager-confirm-password-change = Confirmeu el canvi de contrasenya
 password-manager-select-username = Trieu quin inici de sessió s'actualitzarà:

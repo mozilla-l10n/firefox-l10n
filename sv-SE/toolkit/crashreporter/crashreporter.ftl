@@ -9,8 +9,6 @@ crashreporter-plea = För att hjälpa oss att diagnostisera och lösa problemet 
 crashreporter-information = Det här programmet körs efter en krasch för att rapportera problemet till { -vendor-short-name }. Det ska inte köras direkt.
 crashreporter-error = { -brand-short-name } hade ett problem och kraschade. Tyvärr kan inte kraschrapportören skicka en rapport för denna krasch.
 crashreporter-error-details-header = Detaljer:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Detaljer: { $details }
 crashreporter-no-run-message = Det här programmet körs efter en krasch för att rapportera problemet till programmakaren.  Det ska inte köras på egen hand.
 crashreporter-button-details = Detaljer…
 crashreporter-loading-details = Laddar…
@@ -20,8 +18,6 @@ crashreporter-report-info = Den här rapporten innehåller också teknisk inform
 crashreporter-checkbox-test-hardware = Kontrollera efter hårdvaru- och konfigurationsproblem på enheten.
 crashreporter-checkbox-send-report = Berätta för { -vendor-short-name } om den här kraschen så att de kan fixa den.
 crashreporter-checkbox-include-url = Inkludera adressen till sidan jag var på.
-crashreporter-send-report = Berätta för { -vendor-short-name } om den här kraschen så att de kan fixa den.
-crashreporter-include-url = Inkludera adressen till sidan jag var på.
 crashreporter-submit-status = Din kraschrapport kommer att skickas innan du avslutar eller startar om.
 crashreporter-submit-waiting-hardware-tests = Söker efter hårdvaru- och konfigurationsproblem…
 crashreporter-submit-in-progress = Skickar din rapport…
@@ -39,7 +35,6 @@ crashreporter-crash-details = Du kan se detaljer om den här kraschen på { $url
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Det gick inte att köra minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Det gick inte att öppna filen ({ $path })
 # $path (String) - the file path

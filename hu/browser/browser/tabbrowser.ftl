@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ne jelenjen meg többet ez a párbes
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Figyelem!
-tabbrowser-confirm-close-duplicate-tabs-text = Az utolsó aktív lap nyitva marad
 tabbrowser-confirm-close-all-duplicate-tabs-title = Bezárja az ismétlődő lapokat?
 tabbrowser-confirm-close-all-duplicate-tabs-text =
     Az ebben az ablakban ismétlődő lapok bezárásra kerülnek.

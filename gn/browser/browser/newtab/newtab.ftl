@@ -322,9 +322,6 @@ newtab-custom-pocket-sponsored = Tembiasakue jehepyme’ẽguáva
 newtab-custom-pocket-show-recent-saves = Ehechauka eñongaturamóva
 newtab-custom-recent-title = Tembiapo ramovegua
 newtab-custom-recent-subtitle = Tenda jeporavo ha tetepy ramovegua
-newtab-custom-recent-toggle =
-    .label = Tembiapo ramovegua
-    .description = Tenda jeporavo ha tetepy ramovegua
 newtab-custom-weather-toggle =
     .label = Arapytu
     .description = Ko árape g̃uara ára
@@ -461,7 +458,6 @@ newtab-weather-menu-change-location = Emoambue tendatee
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Eheka tendatee
     .aria-label = Eheka tendatee
-newtab-weather-change-location-search-input = Eheka tendatee
 newtab-weather-menu-weather-display = Ára jehechaha
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -638,7 +634,6 @@ newtab-widget-lists-menu-delete = Embogue ko tysýi
 newtab-widget-lists-menu-copy = Embohasa tysýi kuatiajokohápe
 newtab-widget-lists-menu-hide = Eñomimba umi tysýi
 newtab-widget-lists-menu-learn-more = Eikuaave
-newtab-widget-lists-input-placeholder = Embojuaju porurã
 newtab-widget-lists-input-error = Emoinge moñe’ẽrã embojuaju hag̃ua mba’eporurã.
 newtab-widget-lists-input-menu-open-link = Joajuha ijurujáva
 newtab-widget-lists-input-menu-move-up = Jehupi
@@ -667,6 +662,7 @@ newtab-widget-timer-menu-notifications = Eipe’a ñemomarandu
 newtab-widget-timer-menu-notifications-on = Emyandy marandu’i
 newtab-widget-timer-menu-hide = Eñomi aravopapaha
 newtab-widget-timer-menu-learn-more = Kuaave
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Emongu’e ehechave hag̃ua
 newtab-promo-card-title = Eipytyvõ { -brand-product-name }
 newtab-promo-card-body = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue

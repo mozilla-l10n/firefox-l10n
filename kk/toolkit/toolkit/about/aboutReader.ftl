@@ -74,16 +74,6 @@ about-reader-customtheme-tab = Таңдауыңызша
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-foreground = Мәтін
-    .title = Түсті түзету
-about-reader-custom-colors-background = Фон
-    .title = Түсті түзету
-about-reader-custom-colors-unvisited-links = Ашылмаған сілтемелер
-    .title = Түсті түзету
-about-reader-custom-colors-visited-links = Ашылған сілтемелер
-    .title = Түсті түзету
-about-reader-custom-colors-selection-highlight = Дауыстап оқуға арналған ерекшелегіш
-    .title = Түсті түзету
 about-reader-reset-button = Бастапқы түріне қайтару
 about-reader-custom-colors-foreground2 =
     .label = Мәтін

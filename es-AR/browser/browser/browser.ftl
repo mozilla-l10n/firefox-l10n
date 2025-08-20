@@ -237,7 +237,7 @@ urlbar-tabtosearch-onboard = Seleccione este atajo de tecaldo para encontrar má
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = Marcadores
-urlbar-search-mode-tabs = Pestañasidentity-clear-site-data =
+urlbar-search-mode-tabs = Pestañasurlbar-web-notifications-blocked =
 urlbar-search-mode-history = Historial
 urlbar-search-mode-actions = Acciones
 
@@ -251,8 +251,6 @@ urlbar-local-network-blocked =
     .tooltiptext = Bloqueó las conexiones de red local para este sitio web.
 urlbar-xr-blocked =
     .tooltiptext = Se ha bloqueado el acceso a dispositivos de realidad virtual para este sitio web.
-urlbar-web-notifications-blocked =
-    .tooltiptext = Bloqueó las notificaciones para este sitio web.
 urlbar-camera-blocked =
     .tooltiptext = Se ha bloqueado la cámara para este sitio web.
 urlbar-microphone-blocked =
@@ -401,7 +399,6 @@ quickactions-cmd-print = imprimir
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Guardar página como PDF
 quickactions-cmd-savepdf2 = pdf, guardar página
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Abrir ventana privada
 quickactions-cmd-private = navegación privada
@@ -509,6 +506,8 @@ identity-permissions-storage-access-header = Cookies de sitios cruzados
 identity-permissions-storage-access-hint = Estas partes pueden usar cookies y datos de sitios cruzados mientras estás en este sitio.
 identity-permissions-storage-access-learn-more = Conocer más
 identity-permissions-reload-hint = Hay que recargar la página para que se apliquen los cambios.
+identity-clear-site-data =
+    .label = Eliminar las cookies y los datos del sitio…
 identity-connection-not-secure-security-view = Su conexión a este sitio no es segura.
 identity-connection-verified = Está conectado de forma segura a este sitio.
 identity-ev-owner-label = Certificado emitido a:

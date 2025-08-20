@@ -32,8 +32,5 @@ password-manager-update-password-button-deny =
     .accesskey = I
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Uten brukernavn
-password-manager-toggle-password =
-    .label = Vis passord
-    .accesskey = V
 password-manager-confirm-password-change = Bekreft passordendring
 password-manager-select-username = Velg hvilken innlogging som skal oppdateres:

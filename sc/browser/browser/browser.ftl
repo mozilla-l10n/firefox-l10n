@@ -393,7 +393,6 @@ quickactions-cmd-print = imprenta
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sarva sa pàgina comente PDF
 quickactions-cmd-savepdf2 = pdf, sarva pàgina
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Aberi una ventana privada
 quickactions-cmd-private = navigatzione privada

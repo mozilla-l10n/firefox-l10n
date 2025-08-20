@@ -37,8 +37,6 @@ contentanalysis-operationtype-print = чоп кардан
 contentanalysis-upload-description = боркунии «{ $filename }»
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = боргирии «{ $filename }»
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = боркунии «{ $filename }»
 contentanalysis-warndialogtitle = Ин муҳтаво метавонад хатарнок бошад
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

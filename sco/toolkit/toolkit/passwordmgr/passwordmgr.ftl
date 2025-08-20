@@ -26,8 +26,5 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nae yaiser nemme
-password-manager-toggle-password =
-    .label = Kythe passwird
-    .accesskey = h
 password-manager-confirm-password-change = Confirm Passwird Chynge
 password-manager-select-username = Wale whit login tae update:

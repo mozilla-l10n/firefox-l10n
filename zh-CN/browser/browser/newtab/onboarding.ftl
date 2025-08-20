@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = 从 { $previous } 导�
 mr1-onboarding-theme-header = 我有我的范儿
 mr1-onboarding-theme-subtitle = 换上主题，让 { -brand-short-name } 有您的个性。
 mr1-onboarding-theme-secondary-button-label = 暂时不要
-newtab-wallpaper-onboarding-title = 试用新色彩
-newtab-wallpaper-onboarding-subtitle = 选张壁纸，给新标签页加点新鲜感。
-newtab-wallpaper-onboarding-primary-button-label = 设置壁纸
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = 系统主题
 mr1-onboarding-theme-label-light = 明亮

@@ -53,8 +53,6 @@ mr1-onboarding-import-primary-button-label-attribution = Inportatu { $previous }
 mr1-onboarding-theme-header = Moldatu zure erara
 mr1-onboarding-theme-subtitle = Pertsonalizatu { -brand-short-name } itxura batekin.
 mr1-onboarding-theme-secondary-button-label = Une honetan ez
-newtab-wallpaper-onboarding-title = Probatu kolore ukitu bat
-newtab-wallpaper-onboarding-primary-button-label = Ezarri horma-papera
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Sistemaren itxura
 mr1-onboarding-theme-label-light = Argia

@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Закрити
     .aria-label = Закрити
-firefoxview-empty-state-icon =
-    .alt = Увага!
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Щойно
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Продовжити
 firefoxview-syncedtabs-signin-header-2 = Ваш { -brand-product-name } на всіх ваших пристроях
 firefoxview-syncedtabs-signin-description-2 = Щоб переглянути вкладки, відкриті на телефоні й інших пристроях, увійдіть в обліковий запис або зареєструйтеся. За допомогою облікового запису ви також можете синхронізувати свої паролі, історію та інші дані.
 firefoxview-syncedtabs-signin-primarybutton-2 = Увійти
-firefoxview-syncedtabs-signin-header = Отримайте доступ до своїх вкладок звідусіль
-firefoxview-syncedtabs-signin-description = Щоб побачити свої вкладки на інших пристроях, на яких ви користуєтеся { -brand-product-name }, увійдіть у свій обліковий запис. Якщо у вас немає облікового запису, ми допоможемо вам зареєструватися.
-firefoxview-syncedtabs-signin-primarybutton = Увійти або зареєструватися
 firefoxview-tabpickup-adddevice-header = Синхронізуйте { -brand-product-name } на своєму телефоні чи планшеті
 firefoxview-tabpickup-adddevice-description = Завантажте { -brand-product-name } для мобільного та виконайте вхід на ньому.
 firefoxview-tabpickup-adddevice-learn-how = Навчитися
 firefoxview-tabpickup-adddevice-primarybutton = Отримати { -brand-product-name } для мобільного
 firefoxview-syncedtabs-adddevice-header-2 = Отримайте доступ до своїх вкладок звідусіль
 firefoxview-syncedtabs-adddevice-description-2 = Увійдіть у { -brand-product-name } на своєму телефоні чи іншому комп'ютері, щоб переглянути тут вкладки. Дізнайтеся, як <a data-l10n-name="url">під'єднати інші пристрої</a>.
-firefoxview-syncedtabs-adddevice-header = Увійдіть у { -brand-product-name } на інших своїх пристроях
-firefoxview-syncedtabs-adddevice-description = Щоб побачити свої вкладки з інших пристроїв, на яких ви користуєтеся { -brand-product-name }, увійдіть на всіх своїх пристроях. Дізнайтеся, як <a data-l10n-name="url">під'єднати додаткові пристрої</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Спробуйте { -brand-product-name } для мобільних пристроїв
 firefoxview-tabpickup-synctabs-header = Увімкнути синхронізацію вкладок
 firefoxview-tabpickup-synctabs-description = Дозволити { -brand-short-name } ділитися вкладками між пристроями.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Навчитися
 firefoxview-tabpickup-synctabs-primarybutton = Синхронізувати відкриті вкладки
 firefoxview-syncedtabs-synctabs-header = Оновіть налаштування синхронізації
 firefoxview-syncedtabs-synctabs-description = Щоб мати доступ до вкладок з інших пристроїв, потрібно синхронізувати відкриті вкладки.
-firefoxview-syncedtabs-synctabs-checkbox = Дозволити синхронізацію відкритих вкладок
 firefoxview-syncedtabs-loading-header = Виконується синхронізація
 firefoxview-syncedtabs-loading-description = По її завершенню ви побачите всі вкладки, відкриті на інших пристроях. Перевірте це незабаром.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ваша організація вимкнула синхронізацію
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Недавно закриті
 firefoxview-closed-tabs-description2 = Повторно відкрити сторінки, які ви закрили в цьому вікні.
 firefoxview-closed-tabs-placeholder-header = Немає недавно закритих вкладок
 firefoxview-closed-tabs-placeholder-body = Якщо ви закриєте вкладку в цьому вікні, її можна отримати тут.
-firefoxview-closed-tabs-placeholder-body2 = Якщо ви закриєте вкладку, її можна отримати тут.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Вікно { $winID } (поточне)
-firefoxview-opentabs-focus-tab =
-    .title = Перемкнутись на цю вкладку
 firefoxview-show-more = Показати ще
 firefoxview-show-less = Показати менше
 firefoxview-show-all = Показати все
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Шукати у вкладках
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Шукати синхронізовані вкладки
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Шукати відкриті вкладки
@@ -198,10 +184,6 @@ firefoxview-sort-history-by-date-label = Сортувати за датою
 firefoxview-sort-history-by-site-label = Сортувати за сайтом
 firefoxview-sort-open-tabs-by-recency-label = Сортувати за останньою активністю
 firefoxview-sort-open-tabs-by-order-label = Сортувати за порядком вкладок
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Перейти на { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -218,7 +200,6 @@ firefoxview-history-site-localhost = (локальні файли)
 ##
 
 firefoxview-show-all-history = Показати всю історію
-firefoxview-view-more-browsing-history = Переглянути більше історії перегляду
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -234,9 +215,6 @@ firefoxview-choose-browser-button = Вибрати браузер
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Немає елементів для показу
-firefoxview-dont-remember-history-empty-description = Захист вашої приватності – основа нашої діяльності. Ось чому ви можете контролювати діяльність, яку запам'ятовує { -brand-short-name }.
-firefoxview-dont-remember-history-empty-description-two = На основі поточних налаштувань, { -brand-short-name } не зберігає ваші дії під час перегляду. <a data-l10n-name="history-settings-url-two">Змініть налаштування</a>, щоб історія зберігалась.
 firefoxview-dont-remember-history-empty-header-2 = Ви контролюєте, що запам'ятовує { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = Наразі { -brand-short-name } не запам'ятовує вашу історію перегляду. Щоб змінити це, <a data-l10n-name="history-settings-url-two">оновіть налаштування історії</a>.
 

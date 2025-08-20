@@ -19,7 +19,4 @@ password-manager-update-password-button-deny =
     .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = बाहायग्रा मुं गया
-password-manager-toggle-password =
-    .label = पासवर्डखौ दिन्थि
-    .accesskey = h
 password-manager-confirm-password-change = पासवर्ड सोलायनायखौ थि खालाम

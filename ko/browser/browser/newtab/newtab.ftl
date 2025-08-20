@@ -322,9 +322,6 @@ newtab-custom-pocket-sponsored = 스폰서 소식
 newtab-custom-pocket-show-recent-saves = 최근 저장한 항목 표시
 newtab-custom-recent-title = 최근 활동
 newtab-custom-recent-subtitle = 최근 사이트 및 콘텐츠 모음
-newtab-custom-recent-toggle =
-    .label = 최근 활동
-    .description = 최근 사이트 및 콘텐츠 모음
 newtab-custom-weather-toggle =
     .label = 날씨
     .description = 오늘의 일기예보를 한눈에 보기
@@ -461,7 +458,6 @@ newtab-weather-menu-change-location = 위치 변경
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = 위치 검색
     .aria-label = 위치 검색
-newtab-weather-change-location-search-input = 위치 검색
 newtab-weather-menu-weather-display = 날씨 표시
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -640,7 +636,6 @@ newtab-widget-lists-menu-delete = 이 목록 삭제
 newtab-widget-lists-menu-copy = 클립보드에 목록 복사
 newtab-widget-lists-menu-hide = 모든 목록 숨기기
 newtab-widget-lists-menu-learn-more = 더 알아보기
-newtab-widget-lists-input-placeholder = 항목 추가
 newtab-widget-lists-input-error = 항목을 추가하려면 텍스트를 포함하세요.
 newtab-widget-lists-input-menu-open-link = 링크 열기
 newtab-widget-lists-input-menu-move-up = 위로 이동
@@ -669,6 +664,7 @@ newtab-widget-timer-menu-notifications = 알림 끄기
 newtab-widget-timer-menu-notifications-on = 알림 켜기
 newtab-widget-timer-menu-hide = 타이머 숨기기
 newtab-widget-timer-menu-learn-more = 더 알아보기
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = 더 보려면 스크롤하세요
 newtab-promo-card-title = { -brand-product-name } 지원
 newtab-promo-card-body = 스폰서는 더 나은 웹을 만들려는 우리의 사명을 지원합니다

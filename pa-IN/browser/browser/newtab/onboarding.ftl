@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } ਤੋਂ
 mr1-onboarding-theme-header = ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ
 mr1-onboarding-theme-subtitle = ਥੀਮ ਨਾਲ { -brand-short-name } ਨੂੰ ਸ਼ਿੰਗਾਰੋ
 mr1-onboarding-theme-secondary-button-label = ਹੁਣੇ ਨਹੀਂ
-newtab-wallpaper-onboarding-title = ਰੰਗ ਪਾ ਕੇ ਵੇਖੋ
-newtab-wallpaper-onboarding-subtitle = ਆਪਣੀ ਟੈਬ ਨੂੰ ਤਾਜ਼ਾ ਦਿੱਖ ਦੇਣ ਲਈ ਵਾਲਪੇਪਰ ਦੀ ਚੋਣ ਕਰੋ।
-newtab-wallpaper-onboarding-primary-button-label = ਵਾਲਪੇਪਰ ਲਾਓ
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ਸਿਸਟਮ ਥੀਮ
 mr1-onboarding-theme-label-light = ਹਲਕਾ

@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Eilañ an ere naet
     .accesskey = i
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Eilañ an ere hep an heulierien
-    .accesskey = E
 
 ## Media (video/audio) controls
 ##

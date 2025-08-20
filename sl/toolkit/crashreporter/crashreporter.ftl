@@ -9,8 +9,6 @@ crashreporter-plea = Če nam želite pomagati pri odkrivanju in odpravljanju te�
 crashreporter-information = Program se zažene po sesutju in omogoča, da se { -vendor-short-name(sklon: "tozilnik") } obvesti o težavi. Ni namenjen neposrednemu zaganjanju.
 crashreporter-error = { -brand-short-name } je naletel na težavo in se je sesul. Žal poročevalec o sesutjih ne more poslati poročila za to sesutje.
 crashreporter-error-details-header = Podrobnosti:
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Podrobnosti: { $details }
 crashreporter-no-run-message = Program se zažene po sesutju in ponudnika programa obvesti o težavi.  Ni namenjen neposrednemu zaganjanju.
 crashreporter-button-details = Podrobnosti ...
 crashreporter-loading-details = Nalaganje …
@@ -20,8 +18,6 @@ crashreporter-report-info = To poročilo vsebuje tudi tehnične podatke o stanju
 crashreporter-checkbox-test-hardware = Poišči težave s strojno opremo in nastavitvami na moji napravi.
 crashreporter-checkbox-send-report = Poročaj { -vendor-short-name(sklon: "dajalnik") } o tem sesutju, da ga bodo lahko odpravili.
 crashreporter-checkbox-include-url = Vključi naslov strani, na kateri se je zgodilo sesutje
-crashreporter-send-report = Poročaj organizaciji { -vendor-short-name } o tem sesutju, da ga bodo lahko odpravili.
-crashreporter-include-url = Vključi naslov strani, na kateri se je zgodilo sesutje
 crashreporter-submit-status = Vaše poročilo o sesutju bo poslano pred izhodom ali ponovnim zagonom.
 crashreporter-submit-waiting-hardware-tests = Preverjanje, ali obstajajo težave s strojno opremo in nastavitvami …
 crashreporter-submit-in-progress = Pošiljanje poročila …
@@ -39,7 +35,6 @@ crashreporter-crash-details = Podrobnosti o sesutju si lahko ogledate na { $url 
 
 # Error strings
 
-crashreporter-error-minidump-analyzer = Minidump-analyzer se ni zagnal
 # $path (String) - the file path
 crashreporter-error-opening-file = Ni bilo mogoče odpreti datoteke ({ $path })
 # $path (String) - the file path

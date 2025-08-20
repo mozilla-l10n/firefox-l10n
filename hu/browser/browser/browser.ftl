@@ -401,7 +401,6 @@ quickactions-cmd-print = nyomtatás
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Oldal mentése PDF-ként
 quickactions-cmd-savepdf2 = pdf, lap mentése, oldal mentése
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Privát ablak megnyitása
 quickactions-cmd-private = privát böngészés

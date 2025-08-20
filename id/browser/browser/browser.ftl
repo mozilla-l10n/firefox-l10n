@@ -396,7 +396,6 @@ quickactions-cmd-print = cetak
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Simpan laman sebagai PDF
 quickactions-cmd-savepdf2 = pdf, simpan halaman
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Buka jendela pribadi
 quickactions-cmd-private = penjelajahan pribadi

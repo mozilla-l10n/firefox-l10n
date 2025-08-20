@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = أغلِق
     .aria-label = أغلِق
-firefoxview-empty-state-icon =
-    .alt = انتباه:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = منذ لحظات
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = واصِل
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } الخاص بك على جميع أجهزتك
 firefoxview-syncedtabs-signin-description-2 = لرؤية الألسنة المفتوحة على هاتفك وعلى الأجهزة الأخرى، لِج أو سجِّل حساب. باستخدام الحساب، يمكنك أيضًا مزامنة كلمات السر، والتأريخ، وغير ذلك.
 firefoxview-syncedtabs-signin-primarybutton-2 = لج
-firefoxview-syncedtabs-signin-header = اسحب الألسنة من أي مكان
-firefoxview-syncedtabs-signin-description = لرؤية ألسنتك من أي مكان تستخدم فيه { -brand-product-name }، لِج إلى حسابك. إذا لم يكن لديك حساب، فسنقوم بإرشادك خلال خطوات التسجيل.
-firefoxview-syncedtabs-signin-primarybutton = لج أو سجل حسابًا
 firefoxview-tabpickup-adddevice-header = زامن { -brand-product-name } على هاتفك أو جهازك اللوحي
 firefoxview-tabpickup-adddevice-description = قم بتنزيل { -brand-product-name } للجوال وقم بتسجيل الدخول من هناك.
 firefoxview-tabpickup-adddevice-learn-how = اطّلع على الطريقة
 firefoxview-tabpickup-adddevice-primarybutton = احصل على { -brand-product-name } للجوال
 firefoxview-syncedtabs-adddevice-header-2 = اسحب الألسنة من أي مكان
 firefoxview-syncedtabs-adddevice-description-2 = لِج إلى { -brand-product-name } على هاتفك أو على جهاز كمبيوتر آخر لرؤية الألسنة هنا. تعرَّف على كيفية <a data-l10n-name="url">ربط أجهزة إضافية</a>.
-firefoxview-syncedtabs-adddevice-header = لِج الدخول إلى { -brand-product-name } على أجهزتك الأخرى
-firefoxview-syncedtabs-adddevice-description = لرؤية ألسنتك من أي مكان تستخدم فيه { -brand-product-name }، لِج على جميع أجهزتك. تعرَّف على كيفية <a data-l10n-name="url">ربط أجهزة إضافية</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = جرّب { -brand-product-name } للجوال
 firefoxview-tabpickup-synctabs-header = فعّل مزامنة اللسان
 firefoxview-tabpickup-synctabs-description = اسمح لـ{ -brand-short-name } بمشاركة الألسنة بين الأجهزة.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = اطّلع على الطريقة
 firefoxview-tabpickup-synctabs-primarybutton = زامن الألسنة المفتوحة
 firefoxview-syncedtabs-synctabs-header = تحديث إعداداتك للمزامنة
 firefoxview-syncedtabs-synctabs-description = لرؤية الألسنة من أجهزة أخرى، يتعين عليك مزامنة ألسنتك المفتوحة.
-firefoxview-syncedtabs-synctabs-checkbox = السماح بمزامنة الألسنة المفتوحة
 firefoxview-syncedtabs-loading-header = جارً المزامنة
 firefoxview-syncedtabs-loading-description = عند الانتهاء، سترى أي ألسنة مفتوحة على أجهزة أخرى. تحقق مرة أخرى قريبًا.
 firefoxview-tabpickup-fxa-admin-disabled-header = لقد قامت مؤسستك بتعطيل المزامنة
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = المُغلقة حديثًا
 firefoxview-closed-tabs-description2 = أعِد فتح الصفحات التي أغلقتها في هذه النافذة.
 firefoxview-closed-tabs-placeholder-header = لا ألسنةً مغلقةً حديثًا
 firefoxview-closed-tabs-placeholder-body = عندما تغلق لسانًا في هذه النافذة، يمكنك جلبه من هنا.
-firefoxview-closed-tabs-placeholder-body2 = عندما تغلق لسانًا، يمكنك جلبه من هنا.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -144,8 +135,6 @@ firefoxview-synced-tabs-header = ألسنة من أجهزة أخرى
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = عرض الكل
-firefoxview-opentabs-focus-tab =
-    .title = الانتقال لهذا اللسان
 firefoxview-show-more = اعرض المزيد
 firefoxview-show-less = اعرض أقل
 firefoxview-show-all = أظهِر الكل
@@ -163,9 +152,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = ابحث في الألسنة
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = ابحث في الألسنة المُزامنة
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = ابحث في الألسنة المفتوحة
@@ -181,10 +167,6 @@ firefoxview-sort-history-by-date-label = رتّب حسب التاريخ
 firefoxview-sort-history-by-site-label = رتّب حسب الموقع
 firefoxview-sort-open-tabs-by-recency-label = رتّب حسب النشاط الأخير
 firefoxview-sort-open-tabs-by-order-label = رتّب حسب اللسان
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = بدّل إلى { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -201,7 +183,6 @@ firefoxview-history-site-localhost = (ملفات محلية)
 ##
 
 firefoxview-show-all-history = اعرض التأريخ كاملًا
-firefoxview-view-more-browsing-history = اعرض المزيد من تأريخ التصفح
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -217,9 +198,6 @@ firefoxview-choose-browser-button = أختر متصفح
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = لا يوجد شيء لإظهاره
-firefoxview-dont-remember-history-empty-description = حماية خصوصيتك هي جوهر عملنا. ولذلك يمكنك التحكم في النشاط الذي يتذكره { -brand-short-name }.
-firefoxview-dont-remember-history-empty-description-two = بناءً على إعداداتك الحالية، لا يتذكر { -brand-short-name } نشاطك أثناء التصفح. لتغيير ذلك، <a data-l10n-name="history-settings-url-two">غيّر إعدادات التأريخ الخاص بك لتذكر تأريخك</a>.
 firefoxview-dont-remember-history-empty-header-2 = أنت تتحكم في ما يتذكره { -brand-short-name }
 firefoxview-dont-remember-history-empty-description-one = حاليًا، لا يتذكر { -brand-short-name } نشاط تصفحك. لتغيير ذلك، <a data-l10n-name="history-settings-url-two">حدّث إعدادات التأريخ</a>.
 

@@ -393,7 +393,6 @@ quickactions-cmd-print = баспаға шығару
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Парақты PDF ретінде сақтау
 quickactions-cmd-savepdf2 = pdf, save page, бетті сақтау
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Жекелік шолу терезесін ашу
 quickactions-cmd-private = жекелік шолу

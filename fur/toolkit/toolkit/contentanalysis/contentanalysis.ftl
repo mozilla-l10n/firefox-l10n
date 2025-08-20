@@ -37,8 +37,6 @@ contentanalysis-operationtype-print = stampe
 contentanalysis-upload-description = cjariament in rêt di “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = discjariament di “{ $filename }”
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = cjariament in rêt di “{ $filename }”
 contentanalysis-warndialogtitle = Al è pussibil che chescj contignûts no sedin sigûrs
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

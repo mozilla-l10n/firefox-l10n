@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Tapiaitéva
 client-auth-cert-remember-temporarily =
     .label = Ko jeiképe g̃uarã
-client-auth-cert-remember-box =
-    .label = Epyta mba’e je’epyrépe
 
 ## Set password (p12) dialog
 

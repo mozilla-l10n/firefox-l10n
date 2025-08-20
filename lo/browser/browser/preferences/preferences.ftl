@@ -177,10 +177,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = ການເລືອກສີຂອງທ່ານແມ່ນ overriding ຮູບລັກສະນະເວັບໄຊທ໌. <a data-l10n-name="colors-link">ຈັດການສີ</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = ການເລືອກສີຂອງທ່ານແມ່ນ overriding ຮູບລັກສະນະເວັບໄຊທ໌.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = ຈັດການຮູບແບບສີສັນ { -brand-short-name } ໃນ <a data-l10n-name="themes-link">ສ່ວນຂະຫຍາຍ ແລະຮູບແບບສີສັນ</a>

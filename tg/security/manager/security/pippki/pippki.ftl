@@ -89,8 +89,6 @@ client-auth-cert-remember-always =
     .label = Ба таври доимӣ
 client-auth-cert-remember-temporarily =
     .label = Барои ин ҷаласа
-client-auth-cert-remember-box =
-    .label = Ин қарор дар хотир нигоҳ дошта шавад
 
 ## Set password (p12) dialog
 

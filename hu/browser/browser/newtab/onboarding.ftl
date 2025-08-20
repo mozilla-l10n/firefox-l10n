@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importálás innen: { $
 mr1-onboarding-theme-header = Tegye a sajátjává
 mr1-onboarding-theme-subtitle = A { -brand-short-name } személyre szabása egy témával.
 mr1-onboarding-theme-secondary-button-label = Most nem
-newtab-wallpaper-onboarding-title = Próbáljon ki egy kis színt
-newtab-wallpaper-onboarding-subtitle = Válasszon háttérképet, hogy az Új lap friss külsőt kapjon.
-newtab-wallpaper-onboarding-primary-button-label = Háttérkép beállítása
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Rendszertéma
 mr1-onboarding-theme-label-light = Világos

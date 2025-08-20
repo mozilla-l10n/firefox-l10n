@@ -16,8 +16,5 @@ password-manager-update-password-button-deny =
     .accesskey = B
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Amul turu jëfandikukat
-password-manager-toggle-password =
-    .label = Wone baatu-jàll bi
-    .accesskey = h
 password-manager-confirm-password-change = Dëggal Coppiteg Baatu-jàll bi
 password-manager-select-username = Tànnal duggukaay bi ngay yees:

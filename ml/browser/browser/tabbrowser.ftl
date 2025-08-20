@@ -50,8 +50,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = ഇനിയും ഈ സന്ദ�
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = മുന്നറിയിപ്പു്
-tabbrowser-confirm-close-duplicate-tabs-text = ഒടുവിലത്തെ സജീവ ടാബു് ഞങ്ങൾ തുറന്നവച്ചേക്കും.
 tabbrowser-confirm-close-all-duplicate-tabs-title = ഇരട്ടിയായ ടാബുകൾ അടയ്ക്കട്ടെ?
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = ടാബുകളെ അടയ്ക്കുക
 

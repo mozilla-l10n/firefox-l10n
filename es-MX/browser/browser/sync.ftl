@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Envía al instante una pestaña a cualquier dispositivo donde hayas iniciado sesión.
 fxa-menu-sign-out =
     .label = Cerrar sesión…
-fxa-menu-sync-title = Sincronizar
 fxa-menu-sync-description = Accede a tu web desde cualquier lugar
 sync-setup-verify-continue = Continuar
 sync-setup-verify-title = Advertencia de fusión

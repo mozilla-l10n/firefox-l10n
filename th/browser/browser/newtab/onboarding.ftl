@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = นำเข้าจ�
 mr1-onboarding-theme-header = ทำให้เป็นของคุณเอง
 mr1-onboarding-theme-subtitle = ปรับแต่ง { -brand-short-name } ด้วยชุดตกแต่ง
 mr1-onboarding-theme-secondary-button-label = ไม่ใช่ตอนนี้
-newtab-wallpaper-onboarding-title = ลองเลือกสีสันที่คุณชอบ
-newtab-wallpaper-onboarding-subtitle = เลือกรูปพื้นหลังเพื่อให้แท็บใหม่ของคุณดูสดใหม่
-newtab-wallpaper-onboarding-primary-button-label = ตั้งค่ารูปพื้นหลัง
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ชุดตกแต่งของระบบ
 mr1-onboarding-theme-label-light = สว่าง

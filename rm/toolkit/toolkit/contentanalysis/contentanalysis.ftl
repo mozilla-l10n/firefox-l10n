@@ -33,8 +33,6 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } verifitgescha la confu
 contentanalysis-operationtype-clipboard = archiv provisoric
 contentanalysis-operationtype-dropped-text = text deponì
 contentanalysis-operationtype-print = stampar
-#   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-customdisplaystring-description = transferiment da «{ $filename }»
 contentanalysis-warndialogtitle = Quest cuntegn n’è eventualmain betg segir
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

@@ -87,8 +87,6 @@ client-auth-cert-remember-never =
     .label = Sekali
 client-auth-cert-remember-temporarily =
     .label = Untuk sesi ini
-client-auth-cert-remember-box =
-    .label = Ingat pilihan ini
 
 ## Set password (p12) dialog
 

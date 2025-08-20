@@ -399,7 +399,6 @@ quickactions-cmd-print = տպել
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Պահել էջը որպես PDF
 quickactions-cmd-savepdf2 = pdf, պահպանել էջը
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Բացել գաղտնի պատուհան
 quickactions-cmd-private = գաղտնի դիտարկում

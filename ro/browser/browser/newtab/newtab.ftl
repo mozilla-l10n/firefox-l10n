@@ -320,9 +320,6 @@ newtab-custom-pocket-sponsored = Articole sponsorizate
 newtab-custom-pocket-show-recent-saves = Afișează salvările recente
 newtab-custom-recent-title = Activitate recentă
 newtab-custom-recent-subtitle = O selecție de site-uri și conținut recente
-newtab-custom-recent-toggle =
-    .label = Activitate recentă
-    .description = O selecție de site-uri și conținut recente
 newtab-custom-weather-toggle =
     .label = Meteo
     .description = Vremea de astăzi dintr-o privire
@@ -459,7 +456,6 @@ newtab-weather-menu-change-location = Schimbă locația
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Caută locație
     .aria-label = Caută locație
-newtab-weather-change-location-search-input = Caută locație
 newtab-weather-menu-weather-display = Afișaj meteo
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -638,7 +634,6 @@ newtab-widget-lists-menu-delete = Șterge lista
 newtab-widget-lists-menu-copy = Copiază lista în clipboard
 newtab-widget-lists-menu-hide = Ascunde toate listele
 newtab-widget-lists-menu-learn-more = Află mai multe
-newtab-widget-lists-input-placeholder = Adaugă un element
 newtab-widget-lists-input-error = Te rugăm să incluzi text ca să adaugi un element.
 newtab-widget-lists-input-menu-open-link = Deschide linkul
 newtab-widget-lists-input-menu-move-up = Mută în sus
@@ -667,6 +662,7 @@ newtab-widget-timer-menu-notifications = Oprește notificările
 newtab-widget-timer-menu-notifications-on = Activează notificările
 newtab-widget-timer-menu-hide = Ascunde cronometrul
 newtab-widget-timer-menu-learn-more = Află mai multe
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Derulează pentru mai multe
 newtab-promo-card-title = Susține { -brand-product-name }
 newtab-promo-card-body = Sponsorii noștri ne susțin misiunea de a construi un web mai bun

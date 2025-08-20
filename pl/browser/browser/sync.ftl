@@ -34,7 +34,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Błyskawicznie prześlij kartę na dowolne urządzenie, na którym się zalogujesz.
 fxa-menu-sign-out =
     .label = Wyloguj się…
-fxa-menu-sync-title = Synchronizacja
 fxa-menu-sync-description = Korzystaj ze swojej sieci gdziekolwiek jesteś
 fxa-avatar-sign-in = Zaloguj się
 fxa-avatar-sign-up = Utwórz konto

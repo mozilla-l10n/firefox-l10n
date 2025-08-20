@@ -19,8 +19,6 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Zapri
     .aria-label = Zapri
-firefoxview-empty-state-icon =
-    .alt = Pozor:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Pravkar
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -35,17 +33,12 @@ firefoxview-tabpickup-step-signin-primarybutton = Nadaljuj
 firefoxview-syncedtabs-signin-header-2 = Vaš { -brand-product-name } na vseh napravah
 firefoxview-syncedtabs-signin-description-2 = Če si želite ogledati zavihke, ki jih imate odprte na telefonu in drugih napravah, se prijavite ali ustvarite račun. Z računom lahko sinhronizirate tudi gesla, zgodovino in drugo.
 firefoxview-syncedtabs-signin-primarybutton-2 = Prijava
-firefoxview-syncedtabs-signin-header = Zajemite zavihke od koderkoli
-firefoxview-syncedtabs-signin-description = Če želite svoje zavihke videti ne glede na to, kje uporabljate { -brand-product-name }, se prijavite v svoj račun. Če računa še nimate, vas bomo popeljali skozi korake za prijavo.
-firefoxview-syncedtabs-signin-primarybutton = Prijavite se ali ustvarite račun
 firefoxview-tabpickup-adddevice-header = Sinhronizirajte { -brand-product-name } s telefonom ali tablico
 firefoxview-tabpickup-adddevice-description = Prenesite { -brand-product-name } za mobilne naprave in se prijavite vanj.
 firefoxview-tabpickup-adddevice-learn-how = Poglejte, kako
 firefoxview-tabpickup-adddevice-primarybutton = Prenesi { -brand-product-name } za mobilne naprave
 firefoxview-syncedtabs-adddevice-header-2 = Zajemite zavihke od koderkoli
 firefoxview-syncedtabs-adddevice-description-2 = Za ogled zavihkov se prijavite v { -brand-product-name } na telefonu ali drugem računalniku. Naučite se, kako <a data-l10n-name="url">povežete dodatne naprave</a>.
-firefoxview-syncedtabs-adddevice-header = Prijavite se v { -brand-product-name } na drugih napravah
-firefoxview-syncedtabs-adddevice-description = Če želite svoje zavihke videti ne glede na to, kje uporabljate { -brand-product-name }, se prijavite v vseh svojih napravah. Spoznajte, kako <a data-l10n-name="url">povezati dodatne naprave</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Preizkusite { -brand-product-name } za mobilne naprave
 firefoxview-tabpickup-synctabs-header = Vklopi sinhronizacijo zavihkov
 firefoxview-tabpickup-synctabs-description = { -brand-short-name(sklon: "dajalnik") } dovoli skupno rabo zavihkov med napravami.
@@ -53,7 +46,6 @@ firefoxview-tabpickup-synctabs-learn-how = Poglejte, kako
 firefoxview-tabpickup-synctabs-primarybutton = Sinhroniziraj odprte zavihke
 firefoxview-syncedtabs-synctabs-header = Spremeni nastavitve sinhronizacije
 firefoxview-syncedtabs-synctabs-description = Za ogled zavihkov z drugih naprav se morajo odprti zavihki sinhronizirati.
-firefoxview-syncedtabs-synctabs-checkbox = Dovoli sinhronizacijo odprtih zavihkov
 firefoxview-syncedtabs-loading-header = Sinhronizacija v teku
 firefoxview-syncedtabs-loading-description = Ko se bo končala, se bodo prikazali vsi zavihki, ki jih imate odprte na drugih napravah. Vrnite se čez nekaj trenutkov.
 firefoxview-tabpickup-fxa-admin-disabled-header = Vaša organizacija je onemogočila sinhronizacijo
@@ -87,7 +79,6 @@ firefoxview-closed-tabs-title = Nedavno zaprto
 firefoxview-closed-tabs-description2 = Ponovno odprite strani, ki ste jih zaprli v tem oknu.
 firefoxview-closed-tabs-placeholder-header = Ni nedavno zaprtih zavihkov
 firefoxview-closed-tabs-placeholder-body = Tukaj lahko najdete zavihke, ki ste jih zaprli v tem oknu.
-firefoxview-closed-tabs-placeholder-body2 = Tukaj lahko najdete zavihke, ki ste jih zaprli.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -153,8 +144,6 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Okno { $winID } (trenutno)
-firefoxview-opentabs-focus-tab =
-    .title = Preklopi na ta zavihek
 firefoxview-show-more = Prikaži več
 firefoxview-show-less = Prikaži manj
 firefoxview-show-all = Prikaži vse
@@ -172,9 +161,6 @@ firefoxview-search-text-box-recentlyclosed =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = Išči po zavihkih
-# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
-firefoxview-search-text-box-syncedtabs =
-    .placeholder = Iskanje po sinhroniziranih zavihkih
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Iskanje po odprtih zavihkih
@@ -199,10 +185,6 @@ firefoxview-sort-history-by-date-label = Razvrsti po datumu
 firefoxview-sort-history-by-site-label = Razvrsti po spletnem mestu
 firefoxview-sort-open-tabs-by-recency-label = Razvrsti po nedavni dejavnosti
 firefoxview-sort-open-tabs-by-order-label = Razvrsti po vrstnem redu zavihkov
-# Variables:
-#   $url (string) - URL that will be opened in the new tab
-firefoxview-opentabs-tab-row =
-    .title = Preklopi na { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -219,7 +201,6 @@ firefoxview-history-site-localhost = (krajevne datoteke)
 ##
 
 firefoxview-show-all-history = Prikaži vso zgodovino
-firefoxview-view-more-browsing-history = Prikaži več zgodovine brskanja
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -235,9 +216,6 @@ firefoxview-choose-browser-button = Izberite brskalnik
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
-firefoxview-dont-remember-history-empty-header = Nič za prikaz
-firefoxview-dont-remember-history-empty-description = Varstvo vaše zasebnosti je srž našega delovanja. Zato lahko odločate, katero dejavnost naj si { -brand-short-name } zapomni.
-firefoxview-dont-remember-history-empty-description-two = Pri trenutnih nastavitvah si { -brand-short-name } ne zapomni vašega brskanja. Če želite to spremeniti, <a data-l10n-name="history-settings-url-two">v nastavitvah izberite shranjevanje zgodovine</a>.
 firefoxview-dont-remember-history-empty-header-2 = Vi imate nadzor nad tem, kaj si { -brand-short-name } zapomni
 firefoxview-dont-remember-history-empty-description-one = Trenutno je { -brand-short-name } nastavljen tako, da si ne zapomni vaše dejavnosti brskanja. To lahko spremenite v <a data-l10n-name="history-settings-url-two">nastavitvah zgodovine</a>.
 

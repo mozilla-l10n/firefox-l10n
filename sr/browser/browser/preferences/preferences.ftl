@@ -250,10 +250,6 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ваш избор боја мења изглед веб странице. <a data-l10n-name="colors-link">Управљајте бојама</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Ваш избор боја мења изглед веб странице.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Управљајте { -brand-short-name } темама у менију <a data-l10n-name="themes-link">Проширења и теме</a>
@@ -1266,8 +1262,6 @@ addon-recommendations-link = Сазнајте више
 # or builds with no Telemetry support available.
 collection-health-report-disabled = У овој верзији је слање података онемогућено.
 collection-backlogged-crash-reports-with-link = Дозволи да { -brand-short-name } шаље заостале извештаје о отказивању у моје име <a data-l10n-name="crash-reports-link">Сазнајте више</a>
-    .accesskey = љ
-collection-backlogged-crash-reports = Дозволи да { -brand-short-name } шаље заостале извештаје о отказивању у моје име
     .accesskey = љ
 privacy-segmentation-section-header = Нове функције које побољшавају ваше прегледање
 privacy-segmentation-section-description = Када нудимо функције које користе ваше податке да би вам пружиле личније искуство:

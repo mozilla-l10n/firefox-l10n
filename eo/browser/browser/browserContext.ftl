@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Kopii purigitan ligilon
     .accesskey = p
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Kopii ligilon sen reteja spurilo
-    .accesskey = s
 
 ## Media (video/audio) controls
 ##
