@@ -258,7 +258,7 @@ link-preview-key-points-header = Punctos clave
 link-preview-key-points-disclaimer = Le punctos clave es generate per IA e pote haber errores.
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
-link-preview-setup = Configuration initial • <strong>{ $progress }</strong>
+link-preview-setup = Configuration initial • <strong>{ $progress }%</strong>
 # Message indicating faster performance after initial setup
 link-preview-setup-faster-next-time = Tu videra le punctos clave plus rapidemente le proxime vice.
 # Onboarding card See a preview button
