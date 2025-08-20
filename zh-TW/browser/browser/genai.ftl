@@ -222,3 +222,34 @@ link-preview-generation-error-missing-data = 無法針對此網站自動產生�
 link-preview-generation-error-unexpected = 有些東西不對勁。
 # Text for the retry link when generation fails
 link-preview-generation-retry = 重試
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = 預覽鏈結選項
+link-preview-settings-enable =
+    .label = 開啟預覽鏈結功能
+    .description = 開啟捷徑或對鍊結按滑鼠右鍵的時候，先檢視頁面標題、描述與更多資訊。
+link-preview-settings-key-points =
+    .label = 允許 AI 讀取頁面頂部，產生頁面重點
+link-preview-settings-long-press =
+    .label = 捷徑：長按鏈結 1 秒鐘
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = 想要用 AI 看到更多內容嗎？
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } 使用 AI 來讀取頁面頂部，並且快速產生一些重點。為了保護您的隱私，此過程均在您的裝置上執行。
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = 新功能：長按任何鏈結即可預覽
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = 檢視簡短描述、閱讀時間等資訊，讓您決定該鏈結是否值得開啟。也可以用滑鼠右鍵檢視。
+# Header for the key points section
+link-preview-key-points-header = 重點
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = 重點內容是由 AI 整理，可能會有錯誤。
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = 首次設定 • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = 您下次能更快就看到重點內容。
+# Onboarding card See a preview button
+link-preview-onboarding-button = 檢視預覽
+# Onboarding card Close button
+link-preview-onboarding-close = 關閉

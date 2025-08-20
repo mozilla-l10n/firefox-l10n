@@ -161,10 +161,12 @@ contextual-manager-passwords-password-already-exists-error-button = Va al contra
 contextual-manager-passwords-update-password-success-heading =
     .heading = Contrasigno salvate
 contextual-manager-passwords-update-password-success-button = Facite
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Nomine de usator salvate
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Nomine de usator addite
 contextual-manager-passwords-update-username-success-heading =
-    .heading = Nomine de usator salvaate
+    .heading = Nomine de usator salvate
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = 網頁顯示
 experimental-features-group-customize-browsing =
     .label = 自訂您的上網體驗
+experimental-features-group-productivity =
+    .label = 生產力
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = 在側邊欄顯示密碼
