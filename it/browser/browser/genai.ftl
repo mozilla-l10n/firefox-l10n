@@ -250,11 +250,10 @@ link-preview-key-points-header = Punti chiave
 link-preview-key-points-disclaimer = I punti chiave sono generati dall’intelligenza artificiale e potrebbero contenere errori.
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
-link-preview-setup = Configurazione iniziale • <strong>{ $progress }</strong>
+link-preview-setup = Configurazione iniziale • <strong>{ $progress }%</strong>
 # Message indicating faster performance after initial setup
 link-preview-setup-faster-next-time = La prossima volta i punti chiave verranno visualizzati più rapidamente.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Visualizza un’anteprima
 # Onboarding card Close button
 link-preview-onboarding-close = Chiudi
-

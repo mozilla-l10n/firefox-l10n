@@ -388,3 +388,15 @@ windows-10-eos-feature-toast-title = Schede verticali e gruppi di schede: ci sia
 windows-10-eos-feature-toast-subtitle = A grande richiesta, { -brand-product-name } ha appena lanciato nuove funzioni per mantenere la tua navigazione ordinata e senza distrazioni.
 windows-10-eos-feature-toast-whats-new-button = Scopri le novità
 windows-10-eos-feature-toast-dismiss-button = Chiudi
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>Una protezione antitracciamento restrittiva può causare il malfunzionamento di alcuni siti.</strong> Risolvi i problemi più comuni sbloccando elementi essenziali che potrebbero contenere elementi traccianti.
+etp-strict-exceptions-infobar-learn-more = Ulteriori informazioni
+etp-strict-exceptions-infobar-button = Applica correzioni
+    .accesskey = A

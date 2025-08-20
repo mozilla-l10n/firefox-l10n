@@ -671,6 +671,9 @@ newtab-widget-timer-menu-hide = Nascondi timer
 newtab-widget-timer-menu-learn-more = Ulteriori informazioni
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Scorri per altri contenuti
+newtab-widget-message-title = Mantieni la concentrazione utilizzando le liste e il timer integrato
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Da promemoria veloci a liste di attività quotidiane, da sessioni di concentrazione a pause per rilassarsi: mantieni la concentrazione e rispetta i tempi.
 newtab-promo-card-title = Sostieni { -brand-product-name }
 newtab-promo-card-body = I nostri sponsor sostengono la nostra missione di costruire un Web migliore
 newtab-promo-card-cta = Ulteriori informazioni
