@@ -100,7 +100,7 @@ policy-LocalFileLinks = Permite anumitor site-uri web să se lege la fișiere lo
 policy-ManagedBookmarks = Configurează o listă de marcaje gestionate de un administrator care nu poate fi modificată de utilizator.
 policy-ManualAppUpdateOnly = Permite numai actualizări manuale și nu anunța utilizatorul când sunt disponibile actualizări.
 policy-PrimaryPassword = Necesită sau împiedică folosirea unei parole primare.
-policy-PrintingEnabled = Activează sau dezactivează tipărirea.
+policy-PrintingEnabled = Activează sau dezactivează listarea.
 policy-NetworkPrediction = Activează sau dezactivează predicția de rețea (prelectură DNS).
 policy-NewTabPage = Activează sau dezactivează pagina Filă nouă.
 policy-NoDefaultBookmarks = Dezactivează crearea marcajelor implicite care vin la pachet cu { -brand-short-name } și crearea de marcaje inteligente (Cele mai vizitate, Etichete recente). Obs: politica produce efecte numai dacă este folosită înainte de prima utilizare a profilului.
@@ -138,7 +138,7 @@ policy-StartDownloadsInTempDirectory = Forțează începerea descărcărilor în
 policy-SupportMenu = Adaugă un element personalizat din meniul de asistență în meniul Ajutor.
 policy-TranslateEnabled = Activează sau dezactivează traducerea paginilor web.
 policy-UserMessaging = Nu afișa anumite mesaje utilizatorului.
-policy-UseSystemPrintDialog = Tipărește folosind fereastra de dialog a sistemului.
+policy-UseSystemPrintDialog = Listează folosind fereastra de dialog a sistemului.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blochează intrarea pe site-uri web. Vezi documentația pentru detalii suplimentare despre format.
 policy-Windows10SSO = Permite conectarea unică Windows pentru conturile Microsoft, de la locul de muncă sau de la școală.

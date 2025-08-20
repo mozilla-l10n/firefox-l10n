@@ -217,4 +217,4 @@ actions-callout-title = Finalizează sarcini obișnuite sau accesează setările
 # "print" - quickactions-cmd-print
 # "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
-actions-callout-subtitle = Încearcă să tastezi o acțiune precum „tipărește” ca să scoți la imprimantă o pagină sau „șterge” ca să ștergi istoricul.
+actions-callout-subtitle = Încearcă să tastezi o acțiune precum „listează” ca să scoți la imprimantă o pagină sau „șterge” ca să ștergi istoricul.

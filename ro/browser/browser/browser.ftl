@@ -396,8 +396,8 @@ quickactions-cmd-logins = autentificări, parole
 quickactions-plugins = Gestionează pluginurile
 quickactions-cmd-plugins = pluginuri
 # Opens the print dialog
-quickactions-print2 = Tipărește pagina
-quickactions-cmd-print = tipărire
+quickactions-print2 = Listează pagina
+quickactions-cmd-print = listare
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Salvează pagina ca PDF
 quickactions-cmd-savepdf2 = pdf, salvează pagina
@@ -1217,8 +1217,8 @@ navbar-overflow =
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
-    .label = Tipărește
-    .tooltiptext = Tipărește pagina… ({ $shortcut })
+    .label = Listează
+    .tooltiptext = Listează pagina… ({ $shortcut })
 navbar-home =
     .label = Pagină de start
     .tooltiptext = Pagina de start { -brand-short-name }
