@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Web sayfası görünümü
 experimental-features-group-customize-browsing =
     .label = Gezintinizi özelleştirin
+experimental-features-group-productivity =
+    .label = Verimlilik
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Kenar çubuğunda parolalar

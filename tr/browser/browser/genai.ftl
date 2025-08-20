@@ -127,6 +127,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } YZ sohbet botları hakkında
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Sayfa uzun olduğu için bu kısmi bir özettir.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Sayfayı özetle
@@ -219,3 +224,20 @@ link-preview-reading-time =
         [one] Okuma süresi: { $range } dakika
        *[other] Okuma süresi: { $range } dakika
     }
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Bağlantıya git
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Bu web sayfası için önemli noktaları oluşturamıyoruz.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Bir şeyler ters gitti.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Yeniden dene
+# Header for the key points section
+link-preview-key-points-header = Önemli noktalar
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = İlk kurulum • <strong>%{ $progress }</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Bir dahaki sefere önemli noktaları daha hızlı göreceksiniz.
+# Onboarding card Close button
+link-preview-onboarding-close = Kapat
