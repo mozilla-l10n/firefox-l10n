@@ -55,9 +55,6 @@ mr1-onboarding-import-primary-button-label-attribution = Importa da { $previous 
 mr1-onboarding-theme-header = Uno stile unico
 mr1-onboarding-theme-subtitle = Personalizza { -brand-short-name } con un tema.
 mr1-onboarding-theme-secondary-button-label = Non adesso
-newtab-wallpaper-onboarding-title = Prova un tocco di colore
-newtab-wallpaper-onboarding-subtitle = Scegli uno sfondo per dare un look diverso alle nuove schede.
-newtab-wallpaper-onboarding-primary-button-label = Imposta sfondo
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema di sistema
 mr1-onboarding-theme-label-light = Chiaro

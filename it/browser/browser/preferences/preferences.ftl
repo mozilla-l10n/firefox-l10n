@@ -4,9 +4,6 @@
 
 do-not-track-description = Invia ai siti web un segnale “Do Not Track” per chiedere di non effettuare alcun tracciamento
 do-not-track-removal = Il segnale “Do Not Track” non è più supportato
-do-not-track-description2 =
-    .label = Invia ai siti web una richiesta “Do Not Track”
-    .accesskey = b
 do-not-track-learn-more = Ulteriori informazioni
 do-not-track-option-default-content-blocking-known =
     .label = Solo quando { -brand-short-name } è impostato per bloccare gli elementi traccianti conosciuti
@@ -268,10 +265,6 @@ preferences-web-appearance-override-warning3 =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Le impostazioni per l’aspetto dei siti web sono sostituite dall’attuale selezione di colori. <a data-l10n-name="colors-link">Gestisci colori</a>
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning2 =
-    .message = Le impostazioni per l’aspetto dei siti web sono sostituite dall’attuale selezione di colori.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gestisci i temi di { -brand-short-name } in <a data-l10n-name="themes-link">Estensioni e temi</a>
@@ -1445,8 +1438,6 @@ addon-recommendations-link = Ulteriori informazioni
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L’invio dei dati è stato disattivato nella configurazione utilizzata per questa versione
 collection-backlogged-crash-reports-with-link = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso <a data-l10n-name="crash-reports-link">Ulteriori informazioni</a>
-    .accesskey = C
-collection-backlogged-crash-reports = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso
     .accesskey = C
 privacy-segmentation-section-header = Nuove funzioni per migliorare la navigazione
 privacy-segmentation-section-description = Quando introduciamo nuove funzioni che utilizzano i tuoi dati per offrire un’esperienza più personale:

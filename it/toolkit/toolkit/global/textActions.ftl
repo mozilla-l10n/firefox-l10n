@@ -28,11 +28,6 @@ text-action-copy-shortcut =
 text-action-copy-clean-link =
     .label = Copia link pulito
     .accesskey = u
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-text-action-strip-on-share =
-    .label = Copia senza traccianti del sito
-    .accesskey = n
 text-action-paste =
     .label = Incolla
     .accesskey = I
@@ -93,4 +88,3 @@ text-action-remove-highlight =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
     .label = Rimuovi tutte le evidenziazioni
-

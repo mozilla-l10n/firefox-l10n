@@ -162,8 +162,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Non visualizzare questo avviso in fu
 
 ## Confirmation dialog for closing all duplicate tabs
 
-tabbrowser-confirm-close-duplicate-tabs-title = Attenzione
-tabbrowser-confirm-close-duplicate-tabs-text = La scheda con attività più recente rimarrà aperta
 tabbrowser-confirm-close-all-duplicate-tabs-title = Chiudere le schede duplicate?
 tabbrowser-confirm-close-all-duplicate-tabs-text = Le schede duplicate in questa finestra verranno chiuse. La scheda con attività più recente rimarrà aperta.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Chiudi schede

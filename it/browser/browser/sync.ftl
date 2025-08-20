@@ -33,7 +33,6 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Invia immediatamente una scheda a qualsiasi dispositivo connesso al tuo account.
 fxa-menu-sign-out =
     .label = Disconnetti…
-fxa-menu-sync-title = Sincronizzazione
 fxa-menu-sync-description = Il tuo Web, ovunque ti trovi
 fxa-avatar-sign-in = Accedi
 fxa-avatar-sign-up = Registrati

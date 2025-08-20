@@ -401,7 +401,6 @@ quickactions-cmd-print = stampa
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Salva pagina come PDF
 quickactions-cmd-savepdf2 = pdf, salva pagina
-quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Apri finestra anonima
 quickactions-cmd-private = navigazione anonima, incognito
@@ -1512,4 +1511,3 @@ trustpanel-fingerprinter-list-header = Questi siti stanno cercando di acquisire 
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } ha bloccato { $count } cryptominer
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } ha consentito { $count } cryptominer
 trustpanel-cryptominer-tab-list-header = Questi siti stanno tentando di effettuare cryptomining:
-

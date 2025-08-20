@@ -169,11 +169,6 @@ main-context-menu-preview-link =
 main-context-menu-copy-clean-link =
     .label = Copia link pulito
     .accesskey = u
-# This command copies the link, removing additional
-# query parameters used to track users across sites.
-main-context-menu-strip-on-share-link =
-    .label = Copia link senza traccianti del sito
-    .accesskey = k
 
 ## Media (video/audio) controls
 ##
@@ -403,4 +398,3 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Novità
-
