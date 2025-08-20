@@ -239,6 +239,8 @@ link-preview-settings-button =
     .title = Parametros de vista preliminar del ligamine
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Vider plus con IA?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } usa IA pro leger le initio del pagina e generar alcun punctos clave. Pro dar major prioritate a tu confidentialitate, isto eveni sur tu apparato.
 # Header for the key points section
 link-preview-key-points-header = Punctos clave
 # Progress message for the first-time setup
