@@ -119,6 +119,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name }의 AI 챗봇 정보
 
+## Chatbot message
+
+genai-page-warning =
+    .message = 페이지가 길어서 부분 요약입니다.
+
 ## Chatbot footer
 
 genai-page-button-summarize = 페이지 요약
@@ -207,3 +212,16 @@ genai-model-optin-cancel =
 #   $rangePlural (String): The plural category of the range, using the same set as for numbers.
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 link-preview-reading-time = 읽기 시간 { $range }분
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = 이 링크를 미리 볼 수 없음
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = 링크 방문
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = 이 웹 페이지에 대한 요점을 생성할 수 없습니다.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = 무언가 잘못되었습니다.
+# Text for the retry link when generation fails
+link-preview-generation-retry = 다시 시도
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = 링크 미리보기 설정
