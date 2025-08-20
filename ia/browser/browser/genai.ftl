@@ -224,16 +224,26 @@ link-preview-reading-time =
         [one] Tempore de lectura { $range } minuta
        *[other] Tempore de lectura { $range } minutas
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Impossibile visualisar le vista preliminar de iste ligamine.
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visita le ligamine
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Impossibile generar le punctos clave de iste pagina web.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Alco errate eveniva.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Retenta
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Parametros de vista preliminar del ligamine
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Vider plus con IA?
 # Header for the key points section
 link-preview-key-points-header = Punctos clave
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Configuration initial • <strong>{ $progress }</strong>
 # Message indicating faster performance after initial setup
 link-preview-setup-faster-next-time = Tu videra le punctos clave plus rapidemente le proxime vice.
 # Onboarding card See a preview button
