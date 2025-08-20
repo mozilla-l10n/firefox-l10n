@@ -368,16 +368,20 @@ windows-10-eos-sync-toast-secondary-label = Daha sonra hatırlat
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } diğer büyük şirketlerin tarayıcıları gibi gereksiz özelliklerle dolu halde gelmez.
+windows-10-eos-challenger-sync-callout-subtitle = { -brand-product-name } yer imlerinizi ve parolalarınızı yedeklerseniz bunları daha sonra yeni cihazınıza aktarmanız kolaylaşır.
 windows-10-eos-challenger-pin-callout-subtitle = { -brand-shorter-name } uygulamasını görev çubuğunuza sabitleyin, favori tarayıcınız her an yanınızda olsun.
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } uygulamasını yedekle
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } uygulamasını sabitle
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } kripto madencilerini, sosyal medya takip kodlarını ve parmak izi toplayıcılarını engeller.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Takip kodları cihazınızı tanımlayamaz veya sizi web’de takip edemez. Buna izin vermiyoruz.
 windows-10-eos-sync-callout-privacy-screen-2-title = Parolalarınızı ve yer imlerinizi yeni cihazınız için güvence altına alın.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = { -brand-shorter-name } tarayıcınızı yedekleyerek verilerinizi ve gizlilik ayarlarınızı kolayca yanınızda taşıyabilirsiniz.
 windows-10-eos-sync-callout-privacy-info-button = Nelerin engellendiğini görün
 windows-10-eos-callout-addons-title = Eklentileri deneyin: Basit yükseltmeler, büyük etkiler
 windows-10-eos-callout-addons-subtitle = Bu uzantıları üretkenliğinizi ve güvenliğinizi artırmak, dikkat dağınıklığınızı azaltmak için seçtik.
 windows-10-eos-callout-addons-primary-button = Seçtiklerimize bakın
+windows-10-eos-sync-callout-addons-title = Windows 10’dan yükseltme yaparken eklentilerinizi kaybetmeyin.
+windows-10-eos-sync-callout-addons-subtitle = Cihazınızı değiştirseniz bile { -brand-product-name } eklentilerinizi kullanmaya devam etmek için şimdi eşitleme yapın.
 windows-10-eos-sync-callout-next-button = İleri
 windows-10-eos-sync-callout-get-started-button = Başla
 
