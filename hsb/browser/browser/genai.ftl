@@ -256,6 +256,8 @@ link-preview-optin-title = Z KI wjace pokazać?
 link-preview-optin-message = { -brand-short-name } KI wužiwa, zo by spočatk strony čitał a někotre klučowe dypki generěrował. Zo by so waša priwatnosć priorizěrowała, so to na wašim graće stawa.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Nowy: Klikńće a dźeržće wotkaz za přehlad
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Pokazajće krótke wopisanje, čitanski čas a wjace, zo byšće rozsudźił, hač so wupłaći, wotkaz wočinić. Steji tež z prawym klikom k dispoziciji.
 # Header for the key points section
 link-preview-key-points-header = Klučowe dypki
 # Disclaimer for AI-generated key points

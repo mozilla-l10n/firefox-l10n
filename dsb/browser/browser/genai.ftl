@@ -131,6 +131,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Wó chatowych botach w { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Dokulaž bok jo dłujki, jo to źělne zespominanje.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Bok zespominaś
@@ -225,3 +230,16 @@ link-preview-reading-time =
         [few] { $range } minuty cytańskego casa
        *[other] { $range } minutow cytańskego casa
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Njamóžomy pśeglěd za toś ten wótkaz pokazaś
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = K wótkazoju se woglědaś
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Njamóžomy klucowe dypki za toś ten webbok generěrowaś.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Něco njejo se raźiło.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Hyšći raz wopytaś
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Nastajenja pśeglěda wótkaza
