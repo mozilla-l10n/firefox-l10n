@@ -235,3 +235,19 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Aktiver førehandsvisingar av lenker
     .description = Sjå sidetittel, beskriving og meir når du brukar snarvegen eller høgreklikkar på ei lenke.
+link-preview-settings-key-points =
+    .label = La AI lese byrjinga av sida og generere viktige punkt
+link-preview-settings-long-press =
+    .label = Snarveg: Klikk og hald inne lenka i 1 sekund (langt trykk)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Sjå meir med AI?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } bruker kunstig intelligens til å lese byrjinga av sidan og generere nokre viktige punkt. For å prioritere personvernet ditt, skjer dette på eininga di.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nyheit: Klikk og hald inne kva lenkje som helst for ei førehandsvising
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Sjå ei kort beskriving, lesetid og meir for å avgjere om lenka er verd å opne. Også tilgjengeleg med høgreklikk.
+# Header for the key points section
+link-preview-key-points-header = Hovudpunkt
+# Onboarding card Close button
+link-preview-onboarding-close = Lat att
