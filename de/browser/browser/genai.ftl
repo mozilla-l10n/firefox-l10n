@@ -228,3 +228,12 @@ link-preview-reading-time =
 link-preview-error-message = Die Vorschau dieses Links kann nicht angezeigt werden
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Link besuchen
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Irgendetwas ist schiefgegangen.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Erneut versuchen
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Einstellungen für die Link-Vorschau
+# Onboarding card Close button
+link-preview-onboarding-close = Schließen

@@ -367,6 +367,7 @@ windows-10-eos-sync-toast-secondary-label = Später erinnern
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-sync-callout-privacy-screen-2-title = Sichern Sie Ihre Passwörter und Lesezeichen für Ihr nächstes Gerät.
+windows-10-eos-sync-callout-privacy-info-button = Sehen Sie, was geblockt wird
 windows-10-eos-sync-callout-next-button = Weiter
 
 ## Windows 10 EoS Sync messages group 2 toast notification
