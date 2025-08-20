@@ -27,3 +27,10 @@ taskbar-tab-shortcut-description = יישומון רשת של { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = יישומוני רשת של { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = השתקת לשונית
+taskbar-tab-audio-unmute =
+    .tooltiptext = ביטול השתקת לשונית

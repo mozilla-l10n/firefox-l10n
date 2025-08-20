@@ -199,3 +199,22 @@ link-preview-settings-long-press =
     .label = קיצור דרך: לחיצה ממושכת על הקישור למשך שנייה אחת (לחיצה ארוכה)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = לראות עוד עם בינה מלאכותית?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = ‏{ -brand-short-name } משתמש בבינה מלאכותית כדי לקרוא את תחילת העמוד וליצור מספר נקודות מפתח. כדי לתעדף את הפרטיות שלך, כל זה קורה במכשיר שלך.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = חדש: לחיצה ממושכת על כל קישור לקבלת תצוגה מקדימה
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = הצגת תיאור קצר, זמן קריאה ועוד כדי להחליט אם הקישור שווה פתיחה. זמין גם בלחיצה ימנית.
+# Header for the key points section
+link-preview-key-points-header = נקודות מפתח
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = נקודות מפתח נוצרות על־ידי בינה מלאכותית וייתכן שיש בהן טעויות.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = הגדרה ראשונית • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = בפעם הבאה יוצגו נקודות מפתח מהר יותר.
+# Onboarding card See a preview button
+link-preview-onboarding-button = צפייה בתצוגה מקדימה
+# Onboarding card Close button
+link-preview-onboarding-close = סגירה
