@@ -177,5 +177,25 @@ link-preview-reading-time =
         [one] זמן קריאה של דקה אחת
        *[other] זמן קריאה של { $range } דקות
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = לא ניתן להציג תצוגה מקדימה לקישור זה
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = ביקור בקישור
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = לא ניתן ליצור נקודות מפתח עבור דף אינטרנט זה.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = משהו השתבש.
+# Text for the retry link when generation fails
+link-preview-generation-retry = ניסיון חוזר
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = הגדרות תצוגה מקדימה לקישורים
+link-preview-settings-enable =
+    .label = הפעלת תצוגה מקדימה לקישורים
+    .description = צפייה בכותרת העמוד, התיאור ועוד בעת שימוש בקיצור הדרך או בלחיצה ימנית על קישור.
+link-preview-settings-key-points =
+    .label = לאפשר לבינה מלאכותית לקרוא את תחילת העמוד וליצור נקודות מפתח
+link-preview-settings-long-press =
+    .label = קיצור דרך: לחיצה ממושכת על הקישור למשך שנייה אחת (לחיצה ארוכה)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = לראות עוד עם בינה מלאכותית?

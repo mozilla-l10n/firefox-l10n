@@ -244,12 +244,20 @@ link-preview-settings-key-points =
     .label = Yapay zekânın sayfanın başlangıcını okuyup önemli noktaları oluşturmasına izin ver
 link-preview-settings-long-press =
     .label = Kısayol: Bağlantıya tıklayıp 1 saniye basılı tutun
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Yapay zekâyla daha fazlasını görmek ister misiniz?
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Yeni: Ön izlemesini görmek istediğiniz bağlantıya tıklayıp basılı tutun
 # Header for the key points section
 link-preview-key-points-header = Önemli noktalar
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Önemli noktalar yapay zekâ tarafından oluşturulur ve hata içerebilir.
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = İlk kurulum • <strong>%{ $progress }</strong>
 # Message indicating faster performance after initial setup
 link-preview-setup-faster-next-time = Bir dahaki sefere önemli noktaları daha hızlı göreceksiniz.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Ön izlemeyi gör
 # Onboarding card Close button
 link-preview-onboarding-close = Kapat

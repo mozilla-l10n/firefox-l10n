@@ -129,6 +129,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Об ИИ-чат-ботах в { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Так как страница длинная, это частичное описание.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Резюме по странице
@@ -222,3 +227,44 @@ link-preview-reading-time =
         [few] { $range } минуты чтения
        *[many] { $range } минут чтения
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Мы не можем предпросмотреть эту ссылку
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Перейти по ссылке
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Мы не можем сгенерировать ключевые точки для этой веб-страницы.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Что-то пошло не так.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Попробовать снова
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Настройки предпросмотра ссылок
+link-preview-settings-enable =
+    .label = Включить предпросмотр ссылок
+    .description = Чтобы увидеть заголовок страницы, описание и т.д., воспользуйтесь сочетанием клавиш или щёлкните правой кнопкой мыши на ссылке.
+link-preview-settings-key-points =
+    .label = Разрешить ИИ читать начало страницы и генерировать ключевые точки
+link-preview-settings-long-press =
+    .label = Быстрый доступ: Нажмите и удерживайте ссылку в течение 1 секунды (длительное нажатие)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Увидеть больше с ИИ?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } использует ИИ для чтения начала страницы и генерации нескольких ключевых точек. Чтобы обеспечить приоритет вашей приватности, это происходит на вашем устройстве.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Новинка: Нажмите и удерживайте любую ссылку для предпросмотра
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Посмотрите краткое описание, время чтения и другие параметры, чтобы решить, стоит ли открывать ссылку. Также доступно по щелчку правой кнопкой мыши.
+# Header for the key points section
+link-preview-key-points-header = Ключевые точки
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Ключевые точки сгенерированы ИИ и могут содержать ошибки.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Первая настройка • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = В следующий раз вы увидите ключевые точки быстрее.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Смотреть предпросмотр
+# Onboarding card Close button
+link-preview-onboarding-close = Закрыть
