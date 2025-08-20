@@ -99,6 +99,10 @@ print-preparing =
     .value = Se pregătește…
 print-progress =
     .value = Progres:
+print-window =
+    .title = Listare
+print-complete =
+    .value = Listare încheiată.
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

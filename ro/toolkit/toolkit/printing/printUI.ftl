@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printui-title = Listează
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Salvează ca
 # Variables
@@ -39,6 +40,8 @@ printui-scale = Scară
 printui-scale-fit-to-page-width = Adaptează la lățimea paginii
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scară
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Listare față-verso
 printui-two-sided-printing-off = Dezactivat
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Întoarce pe latura lungă
@@ -46,8 +49,8 @@ printui-two-sided-printing-long-edge = Întoarce pe latura lungă
 printui-two-sided-printing-short-edge = Întoarce pe latura scurtă
 # Section title for miscellaneous print options
 printui-options = Opțiuni
-printui-headers-footers-checkbox = Tipărește antete și subsoluri
-printui-backgrounds-checkbox = Tipărește fundaluri
+printui-headers-footers-checkbox = Listează anteturi și subsoluri
+printui-backgrounds-checkbox = Listează fundaluri
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
@@ -85,8 +88,8 @@ printui-margins-custom-left-mm = Stânga (mm)
 printui-margins-custom-right = Dreapta
 printui-margins-custom-right-inches = Dreapta (țoli)
 printui-margins-custom-right-mm = Dreapta (mm)
-printui-system-dialog-link = Tipărește folosind fereastra de dialog a sistemului…
-printui-primary-button = Tipărește
+printui-system-dialog-link = Listează folosind fereastra de dialog a sistemului…
+printui-primary-button = Listează
 printui-primary-button-save = Salvează
 printui-cancel-button = Anulează
 printui-close-button = Închide
