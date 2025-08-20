@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Kter seg iminig nni�
 contextual-manager-passwords-command-import = Kter seg ufaylu…
 contextual-manager-passwords-command-export = Sifeḍ awalen n uεeddi
 contextual-manager-passwords-command-remove-all = Kkes akk awalen uffiren
+contextual-manager-passwords-command-options = Iɣewwaren
 contextual-manager-passwords-command-settings = Iɣewwaṛen
 contextual-manager-passwords-command-help = Tallalt
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -135,6 +136,10 @@ contextual-manager-passwords-password-already-exists-error-button = Ddu ɣer waw
 contextual-manager-passwords-update-password-success-heading =
     .heading = Awal uffir yettwasekles
 contextual-manager-passwords-update-password-success-button = Immed
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Isem n useqdac yettwasekles
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Yettwarna yisem n useqdac
 contextual-manager-passwords-update-username-success-heading =
     .heading = Isem n useqdac ttwaskelsen
 # Message to confirm successful removal of a password/passwords.
@@ -183,6 +188,8 @@ contextual-manager-passwords-title = Awalen n uεeddi
 
 contextual-manager-passwords-create-label =
     .label = rnu awal uffir
+contextual-manager-passwords-update-label =
+    .label = Leqqem awal uffir
 contextual-manager-passwords-edit-label =
     .label = Ẓreg awal uffir
 contextual-manager-passwords-remove-label =
@@ -246,6 +253,15 @@ contextual-manager-view-alert-heading-2 =
             [one] Wali alɣu
            *[other] Wali ilɣa
         }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Senqed alɣu
+            [one] Senqed alɣu
+           *[other] Wali ilɣa
+        }
 contextual-manager-show-password-button =
     .aria-label = Sken awal n uεeddi
     .title = Sken awal n uεeddi
@@ -266,6 +282,8 @@ contextual-manager-passwords-no-passwords-header = Sekles awalen-ik uffiren deg 
 contextual-manager-passwords-no-passwords-get-started-message = Rnu-ten dagi i wakken ad tebduḍ.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Rnu s ufus
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Sekles awalen-ik uffiren deg wadeg aɣellsan
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -282,4 +300,6 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Ih, kkes awal n uεeddi
        *[other] Ih, kkes awalen n uεeddi
     }
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Sekcem awal uffir agejdan
 contextual-manager-primary-password-learn-more-link = Issin ugar

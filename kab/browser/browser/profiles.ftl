@@ -116,6 +116,8 @@ message-avatar-alt =
     .alt = Izen
 palette-avatar-alt =
     .alt = Agalis n yiniten
+plane-avatar-alt =
+    .alt = Asafag
 # Present refers to a gift box, not the current time period
 present-avatar-alt =
     .alt = Yella
