@@ -246,8 +246,12 @@ link-preview-settings-long-press =
     .label = Kısayol: Bağlantıya tıklayıp 1 saniye basılı tutun
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Yapay zekâyla daha fazlasını görmek ister misiniz?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name }, yapay zekâ kullanarak sayfanın başlangıcını okur ve birkaç önemli nokta oluşturur. Gizliliğinizi korumak amacıyla bu işlem cihazınızda gerçekleşir.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Yeni: Ön izlemesini görmek istediğiniz bağlantıya tıklayıp basılı tutun
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Bağlantının kısa açıklamasına, okuma süresine ve diğer bilgilerine bakarak tıklamaya değip değmeyeceğine karar verebilirsiniz. Sağ tıklamayla da kullanılabilir.
 # Header for the key points section
 link-preview-key-points-header = Önemli noktalar
 # Disclaimer for AI-generated key points

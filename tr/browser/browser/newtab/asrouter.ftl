@@ -367,6 +367,7 @@ windows-10-eos-sync-toast-secondary-label = Daha sonra hatırlat
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } diğer büyük şirketlerin tarayıcıları gibi gereksiz özelliklerle dolu halde gelmez.
 windows-10-eos-challenger-pin-callout-subtitle = { -brand-shorter-name } uygulamasını görev çubuğunuza sabitleyin, favori tarayıcınız her an yanınızda olsun.
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } uygulamasını yedekle
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } uygulamasını sabitle
