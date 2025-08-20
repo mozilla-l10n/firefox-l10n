@@ -27,3 +27,10 @@ taskbar-tab-shortcut-description = Application web { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Applicationes web { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Silentiar scheda
+taskbar-tab-audio-unmute =
+    .tooltiptext = Non plus silentiar le scheda

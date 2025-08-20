@@ -127,6 +127,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Re le chatbots IA in { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Pois que le pagina es longe, isto es un summario partial.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Summarisar pagina
@@ -219,3 +224,19 @@ link-preview-reading-time =
         [one] Tempore de lectura { $range } minuta
        *[other] Tempore de lectura { $range } minutas
     }
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Visita le ligamine
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Alco errate eveniva.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Retenta
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Vider plus con IA?
+# Header for the key points section
+link-preview-key-points-header = Punctos clave
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Tu videra le punctos clave plus rapidemente le proxime vice.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Vider vista preliminar
+# Onboarding card Close button
+link-preview-onboarding-close = Clauder
