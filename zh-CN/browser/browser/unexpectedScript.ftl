@@ -7,7 +7,7 @@ unexpected-script-close-button =
 # This string is used in the notification bar
 # Variables:
 #   $origin (string) - The top level domain the unexpected script was loaded from
-unexpected-script-load-message = <strong>{ -brand-short-name } 已检测到来自 { $origin } 的意外特权脚本
+unexpected-script-load-message = <strong>{ -brand-short-name } 已检测到来自 { $origin } 的意外特权脚本</strong>
 unexpected-script-load-message-button-allow =
     .label = 允许
     .accesskey = A

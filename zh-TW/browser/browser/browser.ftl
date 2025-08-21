@@ -853,7 +853,7 @@ urlbar-result-dates-countdown-range =
 urlbar-result-dates-ongoing =
     { $daysUntilEnd ->
         [one] { $name } · 明天結束
-       *[other] { $name } · { $daysUntilStart } 天後結束
+       *[other] { $name } · { $daysUntilEnd } 天後結束
     }
 # The name of an event and a note that it is happening today separated by a
 # middot.

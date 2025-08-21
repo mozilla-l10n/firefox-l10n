@@ -862,7 +862,7 @@ urlbar-result-dates-ongoing =
 # middot.
 # Variables:
 #   $name (string) - The name of the event.
-urlbar-result-dates-today = { $namme } · Hjoed
+urlbar-result-dates-today = { $name } · Hjoed
 # The name of multiple day long event and a note that it is ends today
 # separated by a middot.
 # Variables:

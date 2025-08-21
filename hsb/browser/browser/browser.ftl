@@ -867,10 +867,10 @@ urlbar-result-dates-countdown-range =
 #   $daysUntilEnd (integer) - The number of days until the event ends.
 urlbar-result-dates-ongoing =
     { $daysUntilEnd ->
-        [one] { $name } · Skónči so za { $daysUntilStart } dźeń
-        [two] { $name } · Skónči so za { $daysUntilStart } dnjej
-        [few] { $name } · Skónči so za { $daysUntilStart } dny
-       *[other] { $name } · Skónči so za { $daysUntilStart } dnjow
+        [one] { $name } · Skónči so za { $daysUntilEnd } dźeń
+        [two] { $name } · Skónči so za { $daysUntilEnd } dnjej
+        [few] { $name } · Skónči so za { $daysUntilEnd } dny
+       *[other] { $name } · Skónči so za { $daysUntilEnd } dnjow
     }
 # The name of an event and a note that it is happening today separated by a
 # middot.

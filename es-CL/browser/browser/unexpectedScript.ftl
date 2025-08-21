@@ -20,7 +20,7 @@ unexpected-script-load-detail-1-block = { -brand-short-name } <strong>bloqueará
 # In this text "the functionality" refers to whatever the unexpected script is doing.
 # Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
 # They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
-unexpected-script-load-detail-2 = Incluso si permites este script, por favor reportalo a { -vendor-short-name } para ayudar a comprender cómo y por qué se cargó. Sin esta información, la funcionalidad dejará de funcionar en el futuro.
+unexpected-script-load-detail-2 = Incluso si permites este script, por favor reportalo a { -vendor-short-name } para ayudar a comprender cómo y por qué se cargó. <em>Sin esta información, la funcionalidad dejará de funcionar en el futuro.</em>
 unexpected-script-load-report-checkbox =
     .label = Reportar la URL de este script a { -vendor-short-name }
 unexpected-script-load-email-checkbox =
