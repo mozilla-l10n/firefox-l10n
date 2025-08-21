@@ -442,6 +442,9 @@ onboarding-checklist-sign-up = Creeu un compte o inicieu la sessió
 
 tab-groups-onboarding-feature-callout-title = Els grups de pestanyes milloren l’organització i la concentració
 tab-groups-onboarding-feature-callout-subtitle = Arrossegueu una pestanya sobre una altra per crear el vostre primer grup.
+tab-groups-onboarding-create-group-title-2 = Trobareu els vostres grups de pestanyes aquí quan vulgueu.
+tab-groups-onboarding-saved-groups-title-2 = Quan tanqueu un grup de pestanyes, podeu tornar a obrir-lo des d’aquí en qualsevol moment.
+tab-groups-onboarding-session-restore-title = Torneu a obrir els vostres grups de pestanyes des d’aquí quan vulgueu.
 tab-groups-onboarding-dismiss = D'acord
 
 ## Multi Profiles feature onboarding messages

@@ -303,3 +303,7 @@ multi-cta-fox-doodle-pin-startmenu-checkbox = Fixa el { -brand-short-name } al m
 multi-cta-fox-doodle-start-browsing-primary-button-label = Comença a navegar
 multi-cta-fox-doodle-main-browser-primary-button-label = Fes que el { -brand-short-name } sigui el meu navegador principal
 multi-cta-fox-doodle-quick-reminder-subtitle = Us volem recordar que podeu tenir el vostre navegador centrat en la privadesa preferit a un sol clic.
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Ja són aquí les les pestanyes verticals i els grups de pestanyes!

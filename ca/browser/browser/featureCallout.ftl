@@ -68,6 +68,11 @@ split-dismiss-button-manage-settings-option =
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = No, gràcies
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-tour-title-1 = Massa pestanyes? Endreceu-les amb els grups de pestanyes.
+windows-10-eos-sync-tour-subtitle-1 = Arrossegueu una pestanya a sobre d’una altra per crear un grup i tenir-ho tot organitzat.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostra els títols de les pestanyes a la barra lateral
