@@ -33,7 +33,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } आ गुबुन 
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
 
 aboutdialog-update-manual-with-link = <label data-l10n-name="manual-link">{ $displayUrl }</label>आव आपडेटफोर दं
-settings-update-manual-with-link = ..आव आपडेटफोर दं<a data-l10n-name="manual-link">{ $displayUrl }</a>
+settings-update-manual-with-link = <a data-l10n-name="manual-link">{ $displayUrl }</a> आव आपडेटफोर दं
 update-unsupported = नोंथाङा बे सिस्टेमआव आरोबाव आपडेट खालामनो हाया।<label data-l10n-name="unsupported-link">गोबां सोलों</label>
 update-restarting = फिन जागाय गासिनो दङ...
 update-internal-error2 = इसिङारि गोरोन्थि थाखाय, आफदेट चेक खालामनायाव फेलें जाबाय | <label data-l10n-name="manual-link">{ $displayUrl }</label> अव आफदेटआ दं |
