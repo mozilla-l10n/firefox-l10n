@@ -213,6 +213,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = No silenciïs la pestanya
 tabbrowser-manager-close-tab =
     .tooltiptext = Tanca la pestanya
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Tancat
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Finestra actual
 
 ## Variables:
 ##  $tabGroupName (String): The name of the tab group. Defaults to the value
@@ -220,5 +228,76 @@ tabbrowser-manager-close-tab =
 
 tab-group-editor-title-create = Crea un grup de pestanyes
 tab-group-editor-title-edit = Gestiona el grup de pestanyes
+tab-group-editor-name-label = Nom
+tab-group-editor-name-field =
+    .placeholder = Per exemple: Compres
+tab-group-editor-cancel =
+    .label = Cancel·la
+    .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = Color del grup de pestanyes
+tab-group-editor-color-selector2-blue = Blau
+    .title = Blau
 tab-group-editor-color-selector2-purple = Porpra
     .title = Porpra
+tab-group-editor-color-selector2-cyan = Cian
+    .title = Cian
+tab-group-editor-color-selector2-orange = Taronja
+    .title = Taronja
+tab-group-editor-color-selector2-yellow = Groc
+    .title = Groc
+tab-group-editor-color-selector2-pink = Rosa
+    .title = Rosa
+tab-group-editor-color-selector2-green = Verd
+    .title = Verd
+tab-context-unnamed-group =
+    .label = Grup sense nom
+tab-group-name-default = Grup sense nom
+
+##
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Afegeix la pestanya a un grup nou
+           *[other] Add Tabs to New Group
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Afegeix la pestanya a un grup
+           *[other] Add Tabs to Group
+        }
+    .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Pestanya nova al grup
+tab-group-editor-action-new-window =
+    .label = Mou el grup a una finestra nova
+tab-group-editor-action-save =
+    .label = Desa i tanca el grup
+tab-group-editor-action-ungroup =
+    .label = Desagrupa les pestanyes
+tab-group-editor-action-delete =
+    .label = Suprimeix el grup
+tab-group-editor-done =
+    .label = Fet
+    .accessKey = F
+tab-context-reopen-tab-group =
+    .label = Torna a obrir el grup de pestanyes
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Elimina del grup
+           *[other] Remove from Groups
+        }
+    .accesskey = E
+
+## Open/saved tab group context menu
+
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Mou el grup a una finestra nova
