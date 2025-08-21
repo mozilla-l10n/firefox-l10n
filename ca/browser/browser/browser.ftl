@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Obre la subfinestra del missatge
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Obre la subfinestra de la sol·licitud d'ubicació
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Gestiona l’accés als dispositius locals per a aquest lloc
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Gestiona la compartició de l’accés a la xarxa local amb el lloc
 urlbar-xr-notification-anchor =
     .tooltiptext = Obre el tauler de permisos de realitat virtual
 urlbar-storage-access-anchor =
@@ -196,6 +200,26 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Gestiona el { -firefox-suggest-brand-name }
     .accesskey = G
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Informa d’una ubicació incorrecta
+urlbar-result-menu-show-less-frequently =
+    .label = Mostra-ho menys sovint
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = No mostris la informació meteorològica
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Obre el menú
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Gràcies per la vostra opinió
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Gràcies pels vostres comentaris. Ja no veureu la informació meteorològica.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -221,6 +245,10 @@ urlbar-search-mode-actions = Accions
 
 urlbar-geolocation-blocked =
     .tooltiptext = Heu blocat la informació d'ubicació per a aquest lloc web.
+urlbar-localhost-blocked =
+    .tooltiptext = Heu blocat les connexions a dispositius locals per a aquest lloc web.
+urlbar-local-network-blocked =
+    .tooltiptext = Heu blocat les connexions a la xarxa local per a aquest lloc web.
 urlbar-xr-blocked =
     .tooltiptext = Heu blocat l'accés a dispositius de realitat virtual per a aquest lloc web.
 urlbar-web-notifications-blocked =
