@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Callout dialog primary button to advance to next screen
-callout-primary-advance-button-label = Următorul
+callout-primary-advance-button-label = Înainte
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Am înțeles!
 

@@ -34,7 +34,7 @@ about-private-browsing-focus-promo-text = Aplicația noastră mobilă dedicată 
 
 about-private-browsing-focus-promo-header-b = Utilizați navigarea privată pe telefon
 about-private-browsing-focus-promo-text-b = Utilizați { -focus-brand-name } pentru acele căutări private pe care nu doriți să apară în browserul dvs. de mobil.
-about-private-browsing-focus-promo-header-c = Următorul nivel de confidențialitate pe mobil
+about-private-browsing-focus-promo-header-c = Confidențialitate de nivel înalt pe mobil
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } îți șterge istoricul de fiecare dată, blocând reclamele și elementele de urmărire.
 # This string is the title for the banner for search engine selection
 # in a private window.
