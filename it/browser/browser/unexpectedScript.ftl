@@ -28,7 +28,6 @@ unexpected-script-load-email-checkbox =
 unexpected-script-load-email-textbox =
     .placeholder = Inserire qui l’indirizzo email
     .aria-label = Inserire qui l’indirizzo email
-unexpected-script-load-more-info = Altre informazioni
+unexpected-script-load-more-info = Ulteriori informazioni
 unexpected-script-load-learn-more = Ulteriori informazioni
 unexpected-script-load-telemetry-disabled = Non è possibile inviare una segnalazione in quanto la telemetria è disattivata nelle impostazioni. Attiva la telemetria per inviare una segnalazione.
-
