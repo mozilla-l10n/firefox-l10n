@@ -355,10 +355,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Mostra els complements
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = extensions, temes, complements
 quickactions-cmd-addons2 = complements
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gestiona les adreces d'interès
 quickactions-cmd-bookmarks = adreces d'interès
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Esborra l’historial recent
+quickactions-cmd-clearrecenthistory = esborra l’historial recent, neteja l’historial recent, historial
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Esborra l'historial
 quickactions-cmd-clearhistory = esborra l'historial
@@ -374,6 +381,9 @@ quickactions-firefoxview = Obre la { -firefoxview-brand-name }
 # "Firefox View". If you have translated the name in your language, you
 # should use a word related to the existing translation.
 quickactions-cmd-firefoxview = obre la { -firefoxview-brand-name }, { -firefoxview-brand-name }, obre la vista, vista
+# Opens SUMO home page
+quickactions-help = Ajuda del { -brand-product-name }
+quickactions-cmd-help = ajuda, assistència, suport
 # Opens the devtools web inspector
 quickactions-inspector2 = Obre les eines per a desenvolupadors
 quickactions-cmd-inspector = inspector, devtools, desenvolupador
@@ -605,6 +615,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Escriviu una cerca o adreça
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Escriviu una adreça
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -684,6 +698,8 @@ urlbar-result-action-visit = Visita
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Canvia a la pestanya · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Grup sense nom
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Obre l'adreça del porta-retalls
 # Directs a user to press the Tab key to perform a search with the specified
@@ -721,6 +737,68 @@ urlbar-result-action-undefined-calculator-result = indefinit
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> a { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> a { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> a { $city }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } ∙ Patrocinat
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Mostra suggeriments
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ara no
+urlbar-result-realtime-opt-in-dismiss = Descarta
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = No mostris aquests suggeriments
 
 ## Strings used for buttons in the urlbar
 
@@ -748,6 +826,8 @@ urlbar-searchmode-actions =
     .label = Accions
 urlbar-searchmode-exit-button =
     .tooltiptext = Tanca
+urlbar-searchmode-default =
+    .tooltiptext = Motor de cerca per defecte
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Aquesta vegada, cerca amb:
