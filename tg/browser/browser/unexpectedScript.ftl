@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+unexpected-script-close-button =
+    .aria-label = Пӯшидан
+unexpected-script-load-message-button-allow =
+    .label = Иҷозат додан
+    .accesskey = И
 unexpected-script-load-message-button-block =
     .label = Манъ кардан
     .accesskey = М

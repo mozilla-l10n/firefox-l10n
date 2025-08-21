@@ -217,3 +217,13 @@ link-preview-reading-time =
         [one] { $range } дақиқаи вақти хониш
        *[other] { $range } дақиқаи вақти хониш
     }
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Чизе нодуруст иҷро шуд.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Аз нав кӯшиш кардан
+# Header for the key points section
+link-preview-key-points-header = Нуқтаҳои асосӣ
+# Onboarding card See a preview button
+link-preview-onboarding-button = Дидани пешнамоиш
+# Onboarding card Close button
+link-preview-onboarding-close = Пӯшидан

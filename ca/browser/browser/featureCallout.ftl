@@ -63,6 +63,11 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = Gestiona els paràmetres
 
+## Bookmarks toolbar callout strings
+
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = No, gràcies
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostra els títols de les pestanyes a la barra lateral

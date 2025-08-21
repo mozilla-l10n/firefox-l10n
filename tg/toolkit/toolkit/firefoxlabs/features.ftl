@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Намоиши саҳифаи сомона
 experimental-features-group-customize-browsing =
     .label = Тарзи истифодаи браузери худро шахсӣ созед
+experimental-features-group-productivity =
+    .label = Самаранокӣ
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Ниҳонвожаҳо дар навори ҷонибӣ
