@@ -219,3 +219,5 @@ link-preview-reading-time =
         [one] { $range } minuto de tiempo de lectura
        *[other] { $range } minutos de tiempo de lectura
     }
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Visitar enlace
