@@ -237,3 +237,31 @@ link-preview-generation-retry = ხელახლა ცდა
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = ბმულის შეთვალიერების პარამეტრები
+link-preview-settings-enable =
+    .label = ბმულის შეთვალიერების ჩართვა
+    .description = იხილეთ გვერდის სათაური, აღწერილობა და სხვ. მალსახმობის გამოყენებისას ან ბმულზე მარჯვენა წკაპით.
+link-preview-settings-key-points =
+    .label = ნებართვა, რომ ხელგონი წაიკითხავს გვერდის დასაწყისს და გამოკვეთს საკვანძო საკითხებს
+link-preview-settings-long-press =
+    .label = მალსახმობი: დაწკაპეთ და დააყოვნეთ ბმულზე 1 წამი (ხანგრძლივი დაჭერა)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = გსურთ, უფრო ვრცლად იხილოთ ხელგონით?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } იყენებს ხელგონს გვერდის დასაწყისის წასაკითხად და რამდენიმე საკვანძო საკითხის გამოსაკვეთად. თქვენი პირადულობის უზრუნველსაყოფად ეს ყველაფერი მოწყობილობაზევე შესრულდება.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = სიახლე: დაწკაპეთ და დააყოვნეთ ბმულზე მის შესათვალიერებლად
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = იხილეთ მოკლე აღწერა, წაკითხვის დრო და ა. შ. რომ გადაწყვიტოთ, ღირს თუ არა ბმულის გახსნა. ხელმისაწვდომია მარჯვენა წკაპითაც.
+# Header for the key points section
+link-preview-key-points-header = საკვანძო საკითხები
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = საკვანძო პუნქტები ხელგონის მიერაა შედგენილი და შესაძლოა შეცდომები ახლდეს.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = პირველადი გამართვა • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = საკვანძო საკითხებს უფრო მალე იხილავთ შემდეგ ჯერზე.
+# Onboarding card See a preview button
+link-preview-onboarding-button = შეათვალიერეთ
+# Onboarding card Close button
+link-preview-onboarding-close = დახურვა
