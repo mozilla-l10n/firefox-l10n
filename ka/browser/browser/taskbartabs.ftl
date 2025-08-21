@@ -27,3 +27,10 @@ taskbar-tab-shortcut-description = { $name } ვებპროგრამა
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = { -brand-short-name } ვებპროგრამები
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = ჩანართის დადუმება
+taskbar-tab-audio-unmute =
+    .tooltiptext = ჩანართის ხმის ჩართვა
