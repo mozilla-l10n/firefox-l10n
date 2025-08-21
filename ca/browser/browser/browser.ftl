@@ -1370,3 +1370,43 @@ file-picker-crashed-save-nowhere = El diàleg de fitxers del Windows ha fallat. 
 file-picker-crashed-show-in-folder =
     .label = Mostra en la carpeta
     .accessKey = M
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = La protecció contra el seguiment millorada està activada
+trustpanel-etp-label-disabled = La protecció contra el seguiment millorada està desactivada
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } galeta de seguiment entre llocs
+       *[other] { $count } galetes de seguiment entre llocs
+    }
+trustpanel-list-label-tracking-content = Contingut que fa seguiment
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } generador d’empremtes digitals
+       *[other] { $count } generadors d’empremtes digitals
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } element de seguiment de xarxes socials
+       *[other] { $count } elements de seguiment de xarxes socials
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } miner de criptomonedes
+       *[other] { $count } miners de criptomonedes
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] El { -brand-product-name } ha blocat { $count } element de seguiment de xarxes socials
+       *[other] El { -brand-product-name } ha blocat { $count } elements de seguiment de xarxes socials
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] El { -brand-product-name } ha permès { $count } element de seguiment de xarxes socials
+       *[other] El { -brand-product-name } ha permès { $count } elements de seguiment de xarxes socials
+    }

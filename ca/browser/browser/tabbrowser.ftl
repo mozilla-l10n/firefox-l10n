@@ -8,6 +8,19 @@ tabbrowser-menuitem-close-tab =
     .label = Tanca la pestanya
 tabbrowser-menuitem-close =
     .label = Tanca
+# Displayed within the tooltip on tabs inside of a tab group.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -72,6 +85,16 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Reprodueix { $tabCount } pestanyes
         }
 
+## Tooltips for tab audio control
+
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = No silenciïs la pestanya
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Silencia la pestanya
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Reprodueix la pestanya
+
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -80,6 +103,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Voleu tancar { $tabCount } pestanyes?
 tabbrowser-confirm-close-tabs-button = Tanca les pestanyes
+tabbrowser-ask-close-tabs-checkbox = Pregunta abans de tancar diverses pestanyes de cop
 tabbrowser-confirm-close-tabs-checkbox = Confirma abans de tancar diverses pestanyes de cop
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -102,7 +126,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Voleu tancar la finestra i sortir
 tabbrowser-confirm-close-tabs-with-key-button = Surt del { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Pregunta abans de sortir amb { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirma abans de sortir amb { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Voleu sortir del { -brand-short-name } o tancar la pestanya actual?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Surt del { -brand-short-name }
+       *[other] Surt del { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Tanca la pestanya actual
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -121,6 +159,14 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Avisa'm quan el fet d'obrir mol
 tabbrowser-confirm-caretbrowsing-title = Navegació amb cursor
 tabbrowser-confirm-caretbrowsing-message = En prémer F7 s'activa o es desactiva la navegació amb cursor. Aquesta característica col·loca un cursor mòbil a les pàgines web que us permet seleccionar text amb el teclat. Voleu activar-la?
 tabbrowser-confirm-caretbrowsing-checkbox = No em tornis a mostrar aquest diàleg.
+
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-all-duplicate-tabs-title = Voleu tancar les pestanyes duplicades?
+tabbrowser-confirm-close-all-duplicate-tabs-text =
+    Es tancaran les pestanyes duplicades d’aquesta finestra.
+    L’última pestanya activa romandrà oberta.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Tanca les pestanyes
 
 ##
 
@@ -172,5 +218,7 @@ tabbrowser-manager-close-tab =
 ##  $tabGroupName (String): The name of the tab group. Defaults to the value
 ##                          of tab-group-name-default.
 
+tab-group-editor-title-create = Crea un grup de pestanyes
+tab-group-editor-title-edit = Gestiona el grup de pestanyes
 tab-group-editor-color-selector2-purple = Porpra
     .title = Porpra
