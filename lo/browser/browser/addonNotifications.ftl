@@ -112,11 +112,13 @@ addon-install-error-corrupt-file = ໂປຣແກຣມເສີມທີ່ໄ
 addon-install-error-file-access = { $addonName } ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າ { -brand-short-name } ບໍ່ສາມາດປ່ຽນແປງໄຟທີ່ຕ້ອງການໄດ້.
 addon-install-error-not-signed = { -brand-short-name } ໄດ້ຫ້າມເວັບໄຊທ໌ນີ້ບໍ່ໃຫ້ຕິດຕັ້ງສ່ວນຂະຫຍາຍທີ່ຍັງບໍ່ໄດ້ຖືກກວດສອບ.
 addon-install-error-invalid-domain = ບໍ່ສາມາດຕິດຕັ້ງສ່ວນເສີມ { $addonName } ຈາກສະຖານທີ່ນີ້ໄດ້.
+addon-install-error-no-addon-name-file-access = ແອດອອນບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າ { -brand-short-name } ບໍ່ສາມາດແກ້ໄຂໄຟລ໌ທີ່ຕ້ອງການໄດ້.
 addon-local-install-error-network-failure = ໂປຣແກຣມເສີມນີ້ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າຟາຍໃນລະບົບມີບັນຫາ.
 addon-local-install-error-incorrect-hash = ໂປຣແກຣມເສີມນີ້ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າມັນບໍ່ຄືກັນກັບໂປຣແກຣມເສີມ { -brand-short-name } ດັ່ງທີ່ຕ້ອງການ.
 addon-local-install-error-corrupt-file = ໂປຣແກຣມເສີມນີ້ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າມັນເກີດມີຂໍ້ຜິດພາດ.
 addon-local-install-error-file-access = { $addonName } ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າ { -brand-short-name } ບໍ່ສາມາດແກ້ໄຂໄຟລ໌ທີ່ຕ້ອງການໄດ້.
 addon-local-install-error-not-signed = ໂປຣແກຣມເສີມນີ້ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າມັນຍັງບໍ່ທັນໄດ້ຖືກກວດສອບ.
+addon-local-install-no-addon-name-error-file-access = ແອດອອນບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າ { -brand-short-name } ບໍ່ສາມາດແກ້ໄຂໄຟລ໌ທີ່ຕ້ອງການໄດ້.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າມັນບໍ່ສາມາດເຂົ້າກັນໄດ້ກັບ { -brand-short-name } { $appVersion }.
