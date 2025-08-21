@@ -27,3 +27,10 @@ taskbar-tab-shortcut-description = { $name } ñanduti rogue
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = { -brand-short-name } Ñandutirogue rembiporu’i
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Emokirirĩ tendayke
+taskbar-tab-audio-unmute =
+    .tooltiptext = Emyandy tendayke kirirĩha

@@ -825,6 +825,26 @@ urlbar-result-dates-countdown-range =
         [one] { $name } · Comença d’aquí a { $daysUntilStart } dia
        *[other] { $name } · Comença d’aquí a { $daysUntilStart } dies
     }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Acaba d’aquí a { $daysUntilEnd } dia
+       *[other] { $name } · Acaba d’aquí a { $daysUntilEnd } dies
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Avui
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Acaba avui
 
 ## Strings used for buttons in the urlbar
 
@@ -1110,6 +1130,9 @@ panel-save-update-password = Contrasenya
 # "More" item in macOS share menu
 menu-share-more =
     .label = Més…
+menu-share-copy-link =
+    .label = Copia l’enllaç
+    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Tanca
 
@@ -1157,6 +1180,8 @@ navbar-accessible =
     .aria-label = Navegació
 navbar-downloads =
     .label = Baixades
+navbar-overflow-2 =
+    .tooltiptext = Més eines
 navbar-overflow =
     .tooltiptext = Més eines…
 # Variables:
@@ -1182,6 +1207,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Llista totes les pestanyes
     .tooltiptext = Llista totes les pestanyes
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Deixeu anar la pestanya aquí per a fixar-la
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1287,6 +1316,10 @@ popup-notification-addon-install-unsigned =
     .value = (No verificat)
 popup-notification-xpinstall-prompt-learn-more = Més informació sobre la instal·lació de complements de forma segura
 popup-notification-xpinstall-prompt-block-url = Mostra detalls
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Permet que l’extensió s’executi en finestres privades
+    .accesskey = P
 
 ## Pop-up warning
 

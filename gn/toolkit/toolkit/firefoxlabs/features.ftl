@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Ñanduti rogue jehecha
 experimental-features-group-customize-browsing =
     .label = Embohéra neñeikundaha
+experimental-features-group-productivity =
+    .label = Mba’eapopya’e
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Ñe’ẽñemi tenda yképe

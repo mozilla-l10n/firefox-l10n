@@ -229,3 +229,9 @@ link-preview-settings-button =
     .title = Emboheko juajuha rechaha ypy
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Ehechave IA ndive?
+# Header for the key points section
+link-preview-key-points-header = Kyta ha’etéva
+# Onboarding card See a preview button
+link-preview-onboarding-button = Ehecha hechaha ypy
+# Onboarding card Close button
+link-preview-onboarding-close = Emboty
