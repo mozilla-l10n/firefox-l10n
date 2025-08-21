@@ -787,7 +787,7 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 # Variables:
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
-urlbar-result-weather-provider-sponsored = { $provider } ∙ Patrocinat
+urlbar-result-weather-provider-sponsored = { $provider } · Patrocinat
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -799,6 +799,32 @@ urlbar-result-realtime-opt-in-not-now = Ara no
 urlbar-result-realtime-opt-in-dismiss = Descarta
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = No mostris aquests suggeriments
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Gràcies pels vostres comentaris. Ja no veureu aquests suggeriments.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · D’aquí a { $daysUntilStart } dia
+       *[other] { $name } · D’aquí a { $daysUntilStart } dies
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Comença d’aquí a { $daysUntilStart } dia
+       *[other] { $name } · Comença d’aquí a { $daysUntilStart } dies
+    }
 
 ## Strings used for buttons in the urlbar
 
@@ -833,6 +859,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Aquesta vegada, cerca amb:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Paràmetres de cerca
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nou
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -883,6 +911,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = És tendència a { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Patrocinat
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = No mostris les cerques que són tendència

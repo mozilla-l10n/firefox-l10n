@@ -218,3 +218,14 @@ link-preview-reading-time =
         [one] { $range } aravo amoñe’ẽha
        *[other] { $range } aravokuéra amoñe’ẽha
     }
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Eike juajuhápe
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Oĩvaicha osẽvaíva.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Eha’ãjey
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Emboheko juajuha rechaha ypy
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = ¿Ehechave IA ndive?
