@@ -25,6 +25,8 @@ return-to-amo-subtitle = Molt bé, teniu el { -brand-short-name }
 return-to-amo-addon-title = Ara, instal·leu l'extensió <img data-l10n-name="icon"/><b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Afegeix l'extensió
 return-to-amo-add-theme-label = Afegeix un tema
+return-to-amo-theme-install-complete-label = Tema instal·lat
+return-to-amo-extension-install-complete-label = Extensió instal·lada
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -442,8 +444,16 @@ onboarding-checklist-sign-up = Creeu un compte o inicieu la sessió
 
 tab-groups-onboarding-feature-callout-title = Els grups de pestanyes milloren l’organització i la concentració
 tab-groups-onboarding-feature-callout-subtitle = Arrossegueu una pestanya sobre una altra per crear el vostre primer grup.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Trobareu els vostres grups de pestanyes al menú «Llista totes les pestanyes» quan vulgueu.
 tab-groups-onboarding-create-group-title-2 = Trobareu els vostres grups de pestanyes aquí quan vulgueu.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Trobeu els vostres grups cercant-los a la barra d'adreces.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Quan tanqueu un grup de pestanyes, el podeu tornar a obrir des del menú «Llista totes les pestanyes» quan vulgueu.
 tab-groups-onboarding-saved-groups-title-2 = Quan tanqueu un grup de pestanyes, podeu tornar a obrir-lo des d’aquí en qualsevol moment.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Trobeu els grups tancats cercant-los a la barra d'adreces.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Torneu a obrir els vostres grups de pestanyes des del menú «Llista totes les pestanyes» quan vulgueu.
 tab-groups-onboarding-session-restore-title = Torneu a obrir els vostres grups de pestanyes des d’aquí quan vulgueu.
 tab-groups-onboarding-dismiss = D'acord
 
@@ -455,3 +465,14 @@ multi-profile-spotlight-cta = Crea un perfil
 multi-profile-callout-title = Creeu perfils diferents per a la feina i per a la diversió
 multi-profile-callout-subtitle = Els perfils us permeten mantenir totalment separada la vostra informació de navegació, com ara l’historial de cerca i les contrasenyes.
 multi-profile-callout-cta = Crea un perfil
+
+## Desktop to Mobile Adoption feature callout strings
+
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Baixa, sincronitza i llestos!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Escanegeu el codi QR per a baixar el { -brand-product-name } per al mòbil. Un cop instal·lat, seleccioneu «Sincronitza amb el mòbil» per a accedir a les vostres contrasenyes, adreces d’interès i molt més des de qualsevol lloc.
+dismiss-button-label = Descarta
+sync-to-mobile-button-label = Sincronitza amb el mòbil
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Codi QR per baixar el { -brand-product-name } per al mòbil
