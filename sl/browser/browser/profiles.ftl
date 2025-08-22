@@ -121,7 +121,7 @@ canvas-avatar-alt =
     .alt = Platno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
-    .alt = Ustvari
+    .alt = Ustvarjalno
 flower-avatar-alt =
     .alt = Cvet
 folder-avatar-alt =
@@ -184,7 +184,7 @@ briefcase-avatar = Aktovka
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Platno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
-craft-avatar = Ustvari
+craft-avatar = Ustvarjalno
 custom-avatar = Slika po meri
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = Privzeta ikona
