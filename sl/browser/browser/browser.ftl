@@ -1518,19 +1518,12 @@ trustpanel-list-label-cryptominer =
 trustpanel-social-tracking-tab-list-header = Ta spletna mesta vam poskušajo slediti:
 trustpanel-tracking-cookies-tab-list-header = Ta spletna mesta vam poskušajo slediti:
 trustpanel-tracking-content-tab-list-header = Ta spletna mesta vam poskušajo slediti:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je zavrnil { $count } sledilec prstnih odtisov
+        [two] { -brand-product-name } je zavrnil { $count } sledilca prstnih odtisov
+        [few] { -brand-product-name } je zavrnil { $count } sledilce prstnih odtisov
+       *[other] { -brand-product-name } je zavrnil { $count } sledilcev prstnih odtisov
+    }
 trustpanel-fingerprinter-list-header = Ta spletna mesta vam poskušajo vzeti prstni odtis:
-trustpanel-cryptominer-blocking-tab-header =
-    { $count ->
-        [one] { -brand-product-name } je zavrnil { $count } kriptorudarjev
-        [two] { -brand-product-name } sta zavrnila { $count } kriptorudarjev
-        [few] { -brand-product-name } so zavrnili { $count } kriptorudarjev
-       *[other] { -brand-product-name } so zavrnili { $count } kriptorudarjev
-    }
-trustpanel-cryptominer-not-blocking-tab-header =
-    { $count ->
-        [one] { -brand-product-name } je dovoljenih { $count } kriptorudarjev
-        [two] { -brand-product-name } sta dovoljena { $count } kriptorudarjev
-        [few] { -brand-product-name } so dovoljeni { $count } kriptorudarjev
-       *[other] { -brand-product-name } so dovoljeni { $count } kriptorudarjev
-    }
 trustpanel-cryptominer-tab-list-header = Ta spletna mesta poskušajo rudariti kriptovalute:

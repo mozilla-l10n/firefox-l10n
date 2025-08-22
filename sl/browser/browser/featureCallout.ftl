@@ -115,9 +115,9 @@ fxa-adoption-passwords-primary-button-label = Registracija
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ne izgubite vsega, kar ste shranili, ko preidete na Windows 11.
-windows-10-eos-sync-urgency-subtitle-1 = Sinhronizirajte zdaj, da bodo vaši zaznamki, gesla in nastavitve v { -brand-short-name }u varni in jih boste lahko enostavno obnovili.
+windows-10-eos-sync-urgency-subtitle-1 = Sinhronizirajte zdaj, da bodo vaši zaznamki, gesla in nastavitve v { -brand-short-name(sklon: "dajalnik") } varni in jih boste lahko enostavno obnovili.
 windows-10-eos-sync-urgency-title-2 = Se poslavljate od Windows 10? Obdržite svoje podatke tudi po selitvi.
-windows-10-eos-sync-urgency-subtitle-2 = Tudi če { -brand-short-name }a ne uporabljate vsak dan, sinhronizirajte, da bodo zaznamki in gesla varni in vedno dostopni.
+windows-10-eos-sync-urgency-subtitle-2 = Tudi če { -brand-short-name(sklon: "rodilnik") } ne uporabljate vsak dan, sinhronizirajte podatke, da bodo zaznamki in gesla varni in vedno dostopni.
 windows-10-eos-sync-new-device-title-1 = Naj vam na novi napravi ne bo treba začeti znova.
 windows-10-eos-sync-new-device-subtitle-1 = Sinhronizirajte, da boste svoje zaznamke, gesla in nastavitve v { -brand-short-name } lahko vzeli s seboj, ko boste prešli na drugo napravo.
 windows-10-eos-sync-new-device-title-2 = Prehajate na novo napravo? Ne izgubite tistega, kar je pomembno.
