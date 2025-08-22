@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Visualización de página web
 experimental-features-group-customize-browsing =
     .label = Personalizar la navegación
+experimental-features-group-productivity =
+    .label = Productividad
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Contraseñas en la barra lateral
@@ -63,3 +65,7 @@ experimental-features-fx-web-apps-description = Abra los sitios que visita con f
 experimental-features-newtab-widget-lists =
     .label = Listas en { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-description = Mantenga la lista de tareas pendientes al abrir una nueva pestaña. Desde listas de empaque hasta listas de compras, haga sus planes en { -brand-product-name }. <a data-l10n-name="connect">Compartir opinión</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Temporizador en { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Configure un temporizador para poder concentrarse, evitar distracciones o recordarle tomarse un descanso. <a data-l10n-name="connect">Enviar sus comentarios.</a>
