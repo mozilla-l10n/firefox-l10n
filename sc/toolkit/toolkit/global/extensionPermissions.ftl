@@ -40,3 +40,7 @@ webext-perms-description-webNavigation = Atzèdere a s'atividade de su navigador
 webext-perms-extra-warning-userScripts-long = Is scripts non verificados podent cumportare un’arriscu de seguresa e de riservadesa, comente s’esecutzione de còdighe perigulosu o sa sighidura de s’atividade in is sitos web. Esecuta isceti is scripts dae estensiones o mitzas fidadas.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Is scripts non verificados podent cumportare un’arriscu de seguresa e de riservadesa. Esecuta isceti is scripts dae estensiones o mitzas fidadas.
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+
+webext-perms-description-data-long-searchTerms = Cumpartzi is tèrmines de chirca cun s’iscuadra de isvilupu de s’estensione
