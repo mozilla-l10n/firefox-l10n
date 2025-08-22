@@ -107,6 +107,7 @@ genai-onboarding-lechat-learn = Իմացեք ավելին Le Chat-ի մասին
 genai-onboarding-select-header = Ընտրեք տեքստ՝ առաջարկներ տեսնելու համար
 genai-onboarding-select-primary = Սկսել զրուցել
 genai-chatbot-contextual-button = Ընտրեք չաթ բոտ
+genai-chatbot-summarize-title = Նորույթ։ Ամփոփեք էջերը մեկ սեղմումով
 genai-chatbot-summarize-button = Ամփոփել էջը
 
 ## Chatbot onboarding choices
