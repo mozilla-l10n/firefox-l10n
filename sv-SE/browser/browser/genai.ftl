@@ -249,9 +249,9 @@ link-preview-optin-message = { -brand-short-name } använder AI för att läsa b
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Nytt: Klicka och håll ned en länk för en förhandsgranskning
 # Onboarding card description for long press
-link-preview-onboarding-description-long-press = Se en kort beskrivning, läsningstid och mer för att avgöra om länken är värd att öppna. Finns även genom högerklick.
+link-preview-onboarding-description-long-press = Se en kort beskrivning, lästid och mer för att avgöra om länken är värd att öppna. Finns även genom högerklick.
 # Header for the key points section
-link-preview-key-points-header = Huvudpunkter
+link-preview-key-points-header = Nyckelpunkter
 # Disclaimer for AI-generated key points
 link-preview-key-points-disclaimer = Nyckelpunkter är AI-genererade och kan innehålla fel.
 # Progress message for the first-time setup
