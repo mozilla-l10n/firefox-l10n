@@ -273,7 +273,7 @@ main-context-menu-image-desc =
 # Variables
 #   $engine (String) - Name of the search engine that will perform the search.
 main-context-menu-visual-search =
-    .label = Iščite slike z { $engine }
+    .label = Iščite slike z iskalnikom { $engine }
 main-context-menu-video-save-as =
     .label = Shrani video kot …
     .accesskey = v
