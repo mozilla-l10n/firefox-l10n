@@ -11,6 +11,7 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Dodaj zavihek v opravilno vrstico
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Odstrani zavihek iz opravilne vrstice
+taskbar-tab-urlbar-button-show = Prikaži dejanje strani spletne aplikacije
 taskbar-tab-urlbar-button-hide = Skrij dejanje strani spletne aplikacije
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
