@@ -27,3 +27,10 @@ taskbar-tab-shortcut-description = Ứng dụng Web { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Ứng dụng Web của { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Tắt tiếng thẻ
+taskbar-tab-audio-unmute =
+    .tooltiptext = Bỏ tắt tiếng thẻ
