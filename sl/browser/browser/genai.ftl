@@ -51,6 +51,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Vprašaj { $provider }
+genai-menu-open-generic =
+    .label = Odpri UI-klepetalnik
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Odpri { $provider }
 genai-menu-remove-generic =
     .label = Odstrani UI-klepetalnik
 # $provider (string) - name of the provider
@@ -59,6 +64,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Odstrani iz stranske vrstice
 genai-menu-new-badge = Novo
+genai-menu-summarize-page = Povzemi stran
 genai-input-ask-generic =
     .placeholder = Vprašaj UI-klepetalnik …
 # $provider (string) - name of the provider
@@ -89,6 +95,18 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Skrij bližnjico klepetalnika
+genai-menu-choose-chatbot =
+    .label = Izberite UI-klepetalnik
+genai-menu-ask-generic-2 =
+    .label = Vprašaj UI-klepetalnik
+    .accesskey = h
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Vprašajte { $provider }
+    .accesskey = h
+genai-menu-no-provider-2 =
+    .label = Vprašajte UI-klepetalnik
+    .accesskey = h
 
 ## Chatbot header
 
@@ -112,6 +130,10 @@ genai-options-hide-shortcut =
     .label = Skrij bližnjico pri izbiranju besedila
 genai-options-about-chatbot =
     .label = O UI-klepetalnikih v { -brand-short-name(sklon: "mestnik") }
+
+## Chatbot footer
+
+genai-page-button-summarize = Povzemi stran
 
 ## Chatbot onboarding
 
@@ -147,6 +169,15 @@ genai-onboarding-select-primary = Začni klepetati
 genai-chatbot-contextual-title = Uporabite UI-klepetalnik brez preklapljanja zavihkov
 genai-chatbot-contextual-subtitle = Vzporedno klepetajte in brskajte, ko v stransko vrstico { -brand-short-name(sklon: "rodilnik") } dodate UI-klepetalnik.
 genai-chatbot-contextual-button = Izberite klepetalnik
+genai-chatbot-summarize-title = Novo! Povzemite strani z enim klikom
+genai-chatbot-summarize-button = Povzemi stran
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Z desnim klikom na svoj UI-klepetalnik v stranski vrstici izberite »Povzemi stran«.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Z desnim klikom na gumb s iskrico v stranski vrstici izberite »Povzemi stran«. Prvič boste tudi izbrali UI-klepetalnika.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Odprite svoj UI klepetalnik v stranski vrstici in na dnu izberite »Povzemi stran«.
+genai-chatbot-summarize-footer-generic-subtitle = Dodajte UI klepetalnik v stransko vrstico { -brand-short-name }a, da hitro povzamete strani.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

@@ -562,6 +562,7 @@ newtab-custom-wallpaper-cta = Preizkusite
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Izberite ozadje, da bo { -brand-product-name } vaš.
 newtab-new-user-custom-wallpaper-subtitle = Počutite se kot doma na vsakem novem zavihku s poljubnim ozadjem in barvami.
 newtab-new-user-custom-wallpaper-cta = Preizkusite zdaj
 
@@ -637,6 +638,8 @@ newtab-widget-lists-menu-delete = Izbriši ta seznam
 newtab-widget-lists-menu-copy = Kopiraj seznam v odložišče
 newtab-widget-lists-menu-hide = Skrij vse sezname
 newtab-widget-lists-menu-learn-more = Več o tem
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Dodaj element
 newtab-widget-lists-input-error = Za dodajanje predmeta vključite besedilo.
 newtab-widget-lists-input-menu-open-link = Odpri povezavo
 newtab-widget-lists-input-menu-move-up = Premakni gor
@@ -648,13 +651,28 @@ newtab-widget-lists-input-menu-edit = Uredi
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Odštevalnik
+newtab-widget-timer-notification-focus = Čas za osredotočeno delo je potekel. Odlično opravljeno. Potrebujete odmor?
+newtab-widget-timer-notification-break = Vaš odmor je končan. Ste pripravljeni na osredotočeno delo?
 newtab-widget-timer-notification-warning = Obvestila so izklopljena
+newtab-widget-timer-mode-focus =
+    .label = osredotočite se
+newtab-widget-timer-mode-break =
+    .label = Premor
+newtab-widget-timer-play =
+    .title = Predvajaj
+newtab-widget-timer-pause =
+    .title = Premor
 newtab-widget-timer-reset =
     .title = Ponastavi
 newtab-widget-timer-menu-notifications = Izklopi obvestila
 newtab-widget-timer-menu-notifications-on = Vklopi obvestila
 newtab-widget-timer-menu-hide = Skrij odštevalnik
 newtab-widget-timer-menu-learn-more = Več o tem
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Pomaknite se za več
 newtab-promo-card-title = Podprite { -brand-product-name(sklon: "tozilnik") }
 newtab-promo-card-body = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta
 newtab-promo-card-cta = Več o tem
+newtab-promo-card-dismiss-button =
+    .title = Opusti
+    .aria-label = Opusti

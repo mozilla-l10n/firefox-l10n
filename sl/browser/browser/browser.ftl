@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Odpri ploščo s sporočili
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Odpri ploščo z zahtevami za lokacijo
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Upravljanje dostopa lokalnih naprav za to spletno mesto
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Upravljajte skupno rabo dostopa do lokalnega omrežja s tem spletnim mestom.
 urlbar-xr-notification-anchor =
     .tooltiptext = Odprite ploščo z dovoljenji za navidezno resničnost
 urlbar-storage-access-anchor =
@@ -241,6 +245,10 @@ urlbar-search-mode-actions = Dejanja
 
 urlbar-geolocation-blocked =
     .tooltiptext = Temu spletnemu mestu ste prepovedali uporabo podatkov o lokaciji.
+urlbar-localhost-blocked =
+    .tooltiptext = Za to spletno mesto ste blokirali povezave lokalnih naprav.
+urlbar-local-network-blocked =
+    .tooltiptext = Za to spletno mesto ste blokirali lokalne omrežne povezave.
 urlbar-xr-blocked =
     .tooltiptext = Temu spletnemu mestu ste prepovedali dostop do naprav navidezne resničnosti.
 urlbar-web-notifications-blocked =
@@ -802,6 +810,78 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Pridobi podatke o borzi neposredno v svojo iskalno vrstico
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Prikaži posodobitve trga in več od naših partnerjev, ko deliš podatke o iskalnih poizvedbah z { -vendor-short-name }. <a data-l10n-name="learn-more-link">Izvedi več
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Prikaži predloge
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ne zdaj
+urlbar-result-realtime-opt-in-dismiss = Opusti
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Ne prikazuj teh predlogov
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Ne prikazuj priporočil s trga
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Hvala za vaše mnenje. Tržnih predlogov več ne boste videli.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Hvala za vaše mnenje. Teh predlogov več ne boste videli.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · čez { $daysUntilStart } dan
+        [two] { $name } · čez { $daysUntilStart } dneva
+        [few] { $name } · čez { $daysUntilStart } dni
+       *[other] { $name } · čez { $daysUntilStart } dni
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · začetek čez { $daysUntilStart } dan
+        [two] { $name } · začetek čez { $daysUntilStart } dneva
+        [few] { $name } · začetek čez { $daysUntilStart } dni
+       *[other] { $name } · začetek čez { $daysUntilStart } dni
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · konec čez { $daysUntilStart } dan
+        [two] { $name } · konec čez { $daysUntilStart } dneva
+        [few] { $name } · konec čez { $daysUntilStart } dni
+       *[other] { $name } · konec čez { $daysUntilStart } dni
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · danes
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · do danes
 
 ## Strings used for buttons in the urlbar
 
@@ -1367,6 +1447,7 @@ trustpanel-connection-label-insecure = Povezava ni varna
 trustpanel-header-enabled = { -brand-product-name } je na straži
 trustpanel-description-enabled = Zaščiteni ste. Če kaj opazimo, vas obvestimo
 trustpanel-header-disabled = Zaščito ste izključili
+trustpanel-description-disabled = { -brand-product-name } je izklopljen. Predlagamo, da zaščite ponovno vklopite.
 trustpanel-clear-cookies-button = Počisti piškotke in podatke strani
 trustpanel-privacy-link = Nastavitve zasebnosti
 # Variables
@@ -1404,6 +1485,7 @@ trustpanel-blocked-header = { -brand-product-name } je za vas blokiral naslednje
 trustpanel-tracking-header = Da se stran ne bi pokvarila, je { -brand-product-name } dovolil naslednje:
 trustpanel-tracking-description = Brez sledilcev morda nekateri gumbi, obrazci in prijavna polja ne bodo delovali.
 trustpanel-insecure-section-header = Vaša povezava ni varna
+trustpanel-insecure-description = Podatki, ki jih pošiljate na to spletno mesto, niso šifrirani. Lahko jih kdo vidi, ukrade ali spremeni.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } piškotek za sledenje med spletnimi mesti
@@ -1411,6 +1493,7 @@ trustpanel-list-label-tracking-cookies =
         [few] { $count } piškotki za sledenje med spletnimi mesti
        *[other] { $count } piškotkov za sledenje med spletnimi mesti
     }
+trustpanel-list-label-tracking-content = Sledilna vsebina
 trustpanel-list-label-fingerprinter =
     { $count ->
         [one] { $count } sledilec prstnih odtisov
@@ -1432,3 +1515,78 @@ trustpanel-list-label-cryptominer =
         [few] { $count } kriptorudarji
        *[other] { $count } kriptorudarjev
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] en { -brand-product-name }
+        [two] dva { -brand-product-name }
+        [few] trije { -brand-product-name }
+       *[other] ostali { -brand-product-name }
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] en { -brand-product-name }
+        [two] dva { -brand-product-name }
+        [few] trije { -brand-product-name }
+       *[other] ostali { -brand-product-name }
+    }
+trustpanel-social-tracking-tab-list-header = Ta spletna mesta vam poskušajo slediti:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] en { -brand-product-name } blokiran { $count }
+        [two] dva { -brand-product-name } blokirana { $count }
+        [few] trije { -brand-product-name } blokirani { $count }
+       *[other] ostali { -brand-product-name } blokirani { $count }
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] en { -brand-product-name } dovoli { $count }
+        [two] dva { -brand-product-name } dovolita { $count }
+        [few] trije { -brand-product-name } dovolijo { $count }
+       *[other] ostali { -brand-product-name } dovolijo { $count }
+    }
+trustpanel-tracking-cookies-tab-list-header = Ta spletna mesta vam poskušajo slediti:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] en { -brand-product-name } blokiran { $count } sledilec
+        [two] dva { -brand-product-name } blokirana { $count } sledilca
+        [few] trije { -brand-product-name } blokirani { $count } sledilci
+       *[other] ostali { -brand-product-name } blokirani { $count } sledilci
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] en { -brand-product-name } je dovolil { $count } sledilca
+        [two] dva { -brand-product-name } sta dovolila { $count } sledilca
+        [few] trije { -brand-product-name } so dovolili { $count } sledilce
+       *[other] ostali { -brand-product-name } so dovolili { $count } sledilce
+    }
+trustpanel-tracking-content-tab-list-header = Ta spletna mesta vam poskušajo slediti:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je zavrnil { $count } sledilcev prstnih odtisov
+        [two] { -brand-product-name } sta zavrnila { $count } sledilcev prstnih odtisov
+        [few] { -brand-product-name } so zavrnili { $count } sledilcev prstnih odtisov
+       *[other] { -brand-product-name } so zavrnili { $count } sledilcev prstnih odtisov
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dovolil { $count } sledilcev prstnih odtisov
+        [two] { -brand-product-name } sta dovolila { $count } sledilcev prstnih odtisov
+        [few] { -brand-product-name } so dovolili { $count } sledilcev prstnih odtisov
+       *[other] { -brand-product-name } so dovolili { $count } sledilcev prstnih odtisov
+    }
+trustpanel-fingerprinter-list-header = Ta spletna mesta vam poskušajo vzeti prstni odtis:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je zavrnil { $count } kriptorudarjev
+        [two] { -brand-product-name } sta zavrnila { $count } kriptorudarjev
+        [few] { -brand-product-name } so zavrnili { $count } kriptorudarjev
+       *[other] { -brand-product-name } so zavrnili { $count } kriptorudarjev
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dovoljenih { $count } kriptorudarjev
+        [two] { -brand-product-name } sta dovoljena { $count } kriptorudarjev
+        [few] { -brand-product-name } so dovoljeni { $count } kriptorudarjev
+       *[other] { -brand-product-name } so dovoljeni { $count } kriptorudarjev
+    }
+trustpanel-cryptominer-tab-list-header = Ta spletna mesta poskušajo rudariti kriptovalute:

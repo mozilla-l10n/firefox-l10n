@@ -270,6 +270,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Pokaži opis
     .accesskey = S
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Iščite slike z { $engine }
 main-context-menu-video-save-as =
     .label = Shrani video kot …
     .accesskey = v
@@ -392,3 +396,5 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = Razkrij geslo
     .accesskey = k
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = Novo

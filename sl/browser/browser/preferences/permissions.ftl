@@ -178,6 +178,16 @@ permissions-site-localhost-disable-label =
     .label = Zavrni nove zahteve za dostop do aplikacij in storitev na tej napravi
 permissions-site-localhost-disable-desc = To bo preprečilo vsem spletnim mestom, ki niso navedena zgoraj, da bi zahtevala dostop do aplikacij in storitev na tej napravi. S tem lahko povzročite, da nekatera ne bodo pravilno delovala.
 
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Nastavitve - Naprave v krajevnem omrežju
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Te spletne strani so zahtevale dostop do aplikacij in storitev na napravah, povezanih na vaše Wi-Fi ali lokalno omrežje. Lahko se odločite, ali jim dovolite ali blokirate ta dostop.
+permissions-site-local-network-disable-label =
+    .label = Blokirajte nove zahteve za dostop do aplikacij in storitev na napravah, povezanih z vašim Wi-Fi ali lokalnim omrežjem.
+permissions-site-local-network-disable-desc = S tem boste preprečili, da bi katera koli spletna stran, ki ni na zgornjem seznamu, zahtevala dostop do aplikacij in storitev na napravah, povezanih z vašim Wi-Fi ali lokalnim omrežjem. To lahko povzroči, da nekatere funkcije spletnih strani ne bodo delovale pravilno.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

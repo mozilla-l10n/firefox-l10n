@@ -119,6 +119,9 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Platno
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Ustvari
 flower-avatar-alt =
     .alt = Cvet
 folder-avatar-alt =
@@ -135,6 +138,8 @@ leaf-avatar-alt =
     .alt = List
 lightbulb-avatar-alt =
     .alt = Žarnica
+makeup-avatar-alt =
+    .alt = Ličila
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Sporočilo
@@ -178,6 +183,8 @@ book-avatar = Knjiga
 briefcase-avatar = Aktovka
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Platno
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Ustvari
 custom-avatar = Slika po meri
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = Privzeta ikona
@@ -191,6 +198,7 @@ heart-rate-avatar = Srčni utrip
 history-avatar = Zgodovina
 leaf-avatar = List
 lightbulb-avatar = Žarnica
+makeup-avatar = Ličila
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Sporočilo
 musical-note-avatar = Nota
@@ -206,5 +214,11 @@ star-avatar = Zvezdica
 video-game-controller-avatar = Krmilnik za videoigre
 custom-avatar-crop-back-button =
     .aria-label = Nazaj
+custom-avatar-crop-view =
+    .aria-label = Obreži pogled slike
+custom-avatar-crop-area =
+    .aria-label = Prilagodi območje obrezovanja
+custom-avatar-drag-handle =
+    .aria-label = Spremeni velikost območja obrezovanja
 barbell-avatar = Uteži
 bike-avatar = Kolo

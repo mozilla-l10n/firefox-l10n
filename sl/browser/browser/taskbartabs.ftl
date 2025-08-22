@@ -7,8 +7,12 @@
 ## browser.taskbarTabs.enabled = true and the user
 ## navigates to a website.
 
+taskbar-tab-urlbar-button-open =
+    .tooltiptext = Dodajte zavihek na vrstico opravil.
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Odstrani zavihek iz opravilne vrstice
+taskbar-tab-urlbar-button-show = Prikaži vsa dejanja strani
+taskbar-tab-urlbar-button-hide = Skrij dejanje strani spletne aplikacije
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
@@ -23,3 +27,10 @@ taskbar-tab-shortcut-description = Spletna aplikacija { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Spletne aplikacije { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Utišaj zavihek
+taskbar-tab-audio-unmute =
+    .tooltiptext = Povrni glasnost zavihka

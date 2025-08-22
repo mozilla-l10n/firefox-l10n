@@ -1338,6 +1338,7 @@ permissions-localhost = Aplikacije in storitve na napravi
 permissions-localhost-settings =
     .label = Nastavitve …
     .accesskey = t
+permissions-local-network = Naprave lokalnega omrežja
 permissions-local-network-settings =
     .label = Nastavitve …
     .accesskey = t

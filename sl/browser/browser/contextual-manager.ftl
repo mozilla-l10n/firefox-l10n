@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Uvozi iz drugega brsk
 contextual-manager-passwords-command-import = Uvozi iz datoteke …
 contextual-manager-passwords-command-export = Izvozi gesla
 contextual-manager-passwords-command-remove-all = Odstrani vsa gesla
+contextual-manager-passwords-command-options = Možnosti
 contextual-manager-passwords-command-settings = Nastavitve
 contextual-manager-passwords-command-help = Pomoč
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -168,6 +169,10 @@ contextual-manager-passwords-password-already-exists-error-button = Pojdi na ges
 contextual-manager-passwords-update-password-success-heading =
     .heading = Geslo shranjeno
 contextual-manager-passwords-update-password-success-button = Končano
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Uporabniško ime shranjeno
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Uporabniško ime dodano
 contextual-manager-passwords-update-username-success-heading =
     .heading = Uporabniško ime shranjeno
 # Message to confirm successful removal of a password/passwords.
@@ -223,12 +228,15 @@ contextual-manager-passwords-title = Gesla
 
 contextual-manager-passwords-create-label =
     .label = Dodaj geslo
+contextual-manager-passwords-update-label =
+    .label = Posodobi geslo
 contextual-manager-passwords-edit-label =
     .label = Uredi geslo
 contextual-manager-passwords-remove-label =
     .title = Odstrani geslo
 contextual-manager-passwords-origin-tooltip = Vnesite točen naslov, na katerem se boste prijavljali v to spletno mesto.
 contextual-manager-passwords-username-tooltip = Vnesite uporabniško ime, številko računa ali e-poštni naslov, s katerim se prijavljate.
+contextual-manager-passwords-password-tooltip-2 = Vnesite geslo za prijavo v ta račun.
 contextual-manager-passwords-password-tooltip = Vnesite geslo, s katerim se prijavljate v ta račun.
 
 ## Password Card
@@ -309,6 +317,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ni najdenih gesel
+contextual-manager-passwords-no-passwords-found-message-2 = Poskusite z drugim izrazom in iščite znova.
 contextual-manager-passwords-no-passwords-found-message = Najdeno ni bilo nobeno geslo. Poskusite znova z drugačnim iskanjem.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -323,6 +332,8 @@ contextual-manager-passwords-no-passwords-message = Vsa gesla so šifrirana, mi 
 contextual-manager-passwords-no-passwords-get-started-message = Za začetek jih dodajte sem.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Dodaj ročno
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Shranite si gesla na varno mesto
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -340,3 +351,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [few] Da, odstrani gesla
        *[other] Da, odstrani gesla
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Za ogled shranjenih gesel vnesite svoje glavno geslo.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Vnesite glavno geslo
+contextual-manager-primary-password-learn-more-link = Izvedite več

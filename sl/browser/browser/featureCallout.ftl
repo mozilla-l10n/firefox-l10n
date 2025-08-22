@@ -114,9 +114,23 @@ fxa-adoption-passwords-primary-button-label = Registracija
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Ne izgubite vsega, kar ste shranili, ko preidete na Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sinhronizirajte zdaj, da bodo vaši zaznamki, gesla in nastavitve v { -brand-short-name }u varni in jih boste lahko enostavno obnovili.
 windows-10-eos-sync-urgency-title-2 = Se poslavljate od Windows 10? Obdržite svoje podatke tudi po selitvi.
+windows-10-eos-sync-urgency-subtitle-2 = Tudi če { -brand-short-name }a ne uporabljate vsak dan, sinhronizirajte, da bodo zaznamki in gesla varni in vedno dostopni.
 windows-10-eos-sync-new-device-title-1 = Naj vam na novi napravi ne bo treba začeti znova.
+windows-10-eos-sync-new-device-subtitle-1 = Sinhronizirajte, da boste svoje zaznamke, gesla in nastavitve v { -brand-short-name } lahko vzeli s seboj, ko boste prešli na drugo napravo.
+windows-10-eos-sync-new-device-title-2 = Prehajate na novo napravo? Ne izgubite tistega, kar je pomembno.
+windows-10-eos-sync-new-device-subtitle-2 = Ne glede na to, kako pogosto uporabljate { -brand-short-name }, sinhronizacija ščiti vaše zaznamke, gesla in nastavitve.
 windows-10-eos-sync-new-device-primary-label = Sinhroniziraj zdaj
+windows-10-eos-sync-general-title-1 = Zaščitite { -brand-short-name }, ki ste si ga prilastili.
+windows-10-eos-sync-general-subtitle-1 = Varnostno kopirajte in sinhronizirajte gesla, zaznamke, nastavitve in druge podatke, da ohranite tisto, na kar se zanašate.
+windows-10-eos-sync-general-title-2 = Zdaj je pravi čas, da varnostno kopirate gesla in zaznamke.
+windows-10-eos-sync-general-subtitle-2 = Sinhronizirajte zdaj, da zaščitite stvari, ki jim zaupate { -brand-short-name }u – in jih pridobite nazaj kjerkoli in kadarkoli.
+windows-10-eos-sync-tour-title-1 = Preveč odprtih zavihkov? Uredi jih s skupinami zavihkov.
+windows-10-eos-sync-tour-subtitle-1 = Povlecite en zavihek na drugega, da ustvarite skupino in ohranite red.
+windows-10-eos-sync-tour-title-2 = Bodite organizirani za Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sinhronizirajte zaznamke, gesla in nastavitve, da jih varnostno kopirate pred prehodom.
 
 ## Sidebar Strings
 

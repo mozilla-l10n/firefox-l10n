@@ -72,6 +72,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Sinhroniziraj zaznamke zdaj …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Gumb zapri
     .title = Zapri
+fxa-adoption-addresses-backup-title = Varnostno kopirajmo vaše shranjene naslove
+fxa-adoption-addresses-backup-subtitle = Zaščitite svoje shranjene naslove tako, da jih sinhronizirate s svojimi napravami z uporabo šifriranja.
+fxa-adoption-credit-cards-backup-title = Varnostno kopiramo vaša plačilna sredstva
+fxa-adoption-credit-cards-backup-subtitle = Zaščitite svoje načine plačila tako, da jih sinhronizirate s svojimi napravami z uporabo šifriranja.
+fxa-adoption-primary-button-label = Prijava
 
 ## Protections panel
 
@@ -367,12 +372,24 @@ windows-10-eos-sync-toast-secondary-label = Opomni me pozneje
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-pin-primary-button = Pripni { -brand-shorter-name(sklon: "tozilnik") }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokira kriptorudarje, sledilce družbenih omrežij in sledilce prstnih odtisov.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sledilci ne morejo identificirati vaše naprave ali vam slediti po spletu – ker jim mi ne pustimo.
+windows-10-eos-sync-callout-privacy-screen-2-title = Zavarujte gesla in zaznamke za uporabo v vaši naslednji napravi.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Varnostno kopiranje { -brand-shorter-name }a omogoča preprosto prenašanje podatkov in nastavitev zasebnosti s seboj.
+windows-10-eos-sync-callout-privacy-info-button = Preverite, kaj je zavrnjeno
+windows-10-eos-callout-addons-title = Preizkusite dodatke: preproste nadgradnje, veliki učinki
+windows-10-eos-callout-addons-subtitle = Te razširitve so bile izbrane, da vam pomagajo ostati produktivni, zaščiteni in brez motenj.
+windows-10-eos-callout-addons-primary-button = Oglejte si naše izbire
+windows-10-eos-sync-callout-addons-title = Ne izgubite svojih dodatkov, ko nadgradite iz sistema Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sinhronizirajte zdaj, da bodo vaši dodatki za { -brand-product-name } vedno na voljo, tudi po zamenjavi naprave.
 windows-10-eos-sync-callout-next-button = Naprej
 windows-10-eos-sync-callout-get-started-button = Začnite
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Navpični zavihki in skupine zavihkov so tu!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Na priljubljeno zahtevo je { -brand-product-name } pravkar dodal nove funkcije, ki poskrbijo, da je vaše brskanje enostavnejše in osredotočeno.
 windows-10-eos-feature-toast-whats-new-button = Oglejte si, kaj je novega
 windows-10-eos-feature-toast-dismiss-button = Zapri
