@@ -17,6 +17,7 @@ about-glean-category-manual-testing = Test manuale
 about-glean-category-adhoc-testing = Test ad hoc
 about-glean-category-profiler = Utilizzo del Profiler
 about-glean-category-about-data = Informazioni sui dati
+about-glean-category-metrics-table = Tabella delle metriche
 about-glean-upload-enabled = Il caricamento dei dati è attivo.
 about-glean-upload-disabled = Il caricamento dei dati è disattivato.
 about-glean-upload-enabled-local = Il caricamento dei dati è attivo solo per l’invio a un server locale.
@@ -83,4 +84,33 @@ about-glean-about-data-list-item-dictionary = Per consultare l’elenco dei dati
 about-glean-about-data-list-item-about-telemetry = Per consultare i dati raccolti dalla telemetria legacy, fare riferimento a <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer = Per consultare i tag di debug, visualizzare i ping completi, seguire in diretta lo streaming di un evento o esaminare le visualizzazioni delle metriche, fare riferimento al <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = Per registrare un profilo delle prestazioni e visualizzare tutte le metriche registrate, utilizzare <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Tutte le metriche
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Categoria
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Nome
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Tipo
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Valore
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Azioni
+about-glean-label-for-filter-metrics = Filtra
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Questo filtrerà la tabella seguente in base a categoria, nome, tipo e valore (se il valore è di tipo semplice).
+about-glean-button-load-all = Carica tutti i valori
+about-glean-button-load-value = Carica
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Documentazione
+about-glean-button-watch = Osserva
+# Meaning "to stop watching"
+about-glean-button-unwatch = Smetti di osservare
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Le metriche con etichetta non sono ancora supportate in <code>about:glean</code>.
+about-glean-unknown-metric-type-warning = Tipo di metrica sconosciuto.
 about-glean-about-data-explanation = Per sfogliare l’elenco dei dati raccolti, consultare il <a data-l10n-name="glean-dictionary-link">Dizionario { -glean-brand-name }</a>.
