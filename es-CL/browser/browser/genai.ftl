@@ -230,3 +230,38 @@ link-preview-error-message = No podemos previsualizar este enlace
 link-preview-visit-link = Visitar enlace
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = No podemos generar puntos clave para esta página web.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Algo se fue a las pailas.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Volver a intentarlo
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Ajustes de previsualización de enlace
+link-preview-settings-enable =
+    .label = Habilitar vista previa de enlaces
+    .description = Mira el título de la página, descripción y más cuando uses el atajo o hagas clic derecho en un enlace.
+link-preview-settings-key-points =
+    .label = Permitir que la IA lea el comienzo de la página y genere puntos clave
+link-preview-settings-long-press =
+    .label = Atajo: Haz clic y mantén presionado el enlace durante 1 segundo (pulsación larga)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = ¿Ver más con IA?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } usa IA para leer el inicio de la página y generar algunos puntos clave. Para priorizar tu privacidad, esto se realiza en tu dispositivo.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nuevo: Haz clic y mantén presionado cualquier enlace para obtener una vista previa
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Consulta una breve descripción, el tiempo de lectura y más información para decidir si vale la pena abrir el enlace. También disponible con el botón derecho del ratón.
+# Header for the key points section
+link-preview-key-points-header = Puntos clave
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Los puntos clave son generados por IA y pueden contener errores.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Configuración por primera vez • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Verás los puntos clave más rápidamente la próxima vez.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Ver una vista previa
+# Onboarding card Close button
+link-preview-onboarding-close = Cerrar
