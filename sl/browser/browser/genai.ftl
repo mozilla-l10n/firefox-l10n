@@ -99,14 +99,14 @@ genai-menu-choose-chatbot =
     .label = Izberite UI-klepetalnik
 genai-menu-ask-generic-2 =
     .label = Vprašaj UI-klepetalnik
-    .accesskey = h
+    .accesskey = k
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
-    .label = Vprašajte { $provider }
-    .accesskey = h
+    .label = Vprašaj { $provider }
+    .accesskey = V
 genai-menu-no-provider-2 =
-    .label = Vprašajte UI-klepetalnik
-    .accesskey = h
+    .label = Vprašaj UI-klepetalnik
+    .accesskey = k
 
 ## Chatbot header
 
