@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Відкрити панель повідомлень
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Відкрити панель запитів розташування
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Керувати доступом цього сайту до локальних пристроїв
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Керувати спільним доступом цього сайту до вашої локальної мережі
 urlbar-xr-notification-anchor =
     .tooltiptext = Відкрити панель дозволів віртуальної реальності
 urlbar-storage-access-anchor =
@@ -207,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Показувати рідше
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Не показувати пропозиції погоди
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Відкрити меню
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Дякуємо за ваш відгук
@@ -238,6 +245,10 @@ urlbar-search-mode-actions = Дії
 
 urlbar-geolocation-blocked =
     .tooltiptext = Ви заблокували інформацію розташування для цього вебсайту.
+urlbar-localhost-blocked =
+    .tooltiptext = Ви заблокували під'єднання до локальних пристроїв для цього вебсайту.
+urlbar-local-network-blocked =
+    .tooltiptext = Ви заблокували під'єднання до локальних пристроїв для цього вебсайту.
 urlbar-xr-blocked =
     .tooltiptext = Ви заблокували доступ до пристроїв віртуальної реальності для цього вебсайту.
 urlbar-web-notifications-blocked =
@@ -793,6 +804,29 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсоровано
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Отримуйте дані фондового ринку безпосередньо в панелі пошуку
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Отримуйте оновлення ринку та інші дані від наших партнерів, коли ви ділитеся даними пошукових запитів з { -vendor-short-name }. <a data-l10n-name="learn-more-link">Докладніше</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Показувати пропозиції
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Не зараз
+urlbar-result-realtime-opt-in-dismiss = Відхилити
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Не показувати ці пропозиції
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Не показувати ринкові пропозиції
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Дякуємо за відгук. Ви більше не бачитимете ринкових пропозицій.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Дякуємо за відгук. Ви більше не бачитимете цих пропозицій.
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -826,6 +860,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Цього разу шукати з:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Налаштування пошуку
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Нове
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
