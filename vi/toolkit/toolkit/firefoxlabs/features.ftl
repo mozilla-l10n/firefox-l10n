@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Hiển thị trang web
 experimental-features-group-customize-browsing =
     .label = Tùy chỉnh trình duyệt của bạn
+experimental-features-group-productivity =
+    .label = Năng suất
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Mật khẩu trong thanh lề
