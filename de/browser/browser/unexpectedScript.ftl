@@ -4,5 +4,8 @@
 
 unexpected-script-close-button =
     .aria-label = Schließen
+unexpected-script-load-email-textbox =
+    .placeholder = E-Mail-Adresse hier eingeben
+    .aria-label = E-Mail-Adresse hier eingeben
 unexpected-script-load-more-info = Weitere Informationen
 unexpected-script-load-learn-more = Weitere Informationen
