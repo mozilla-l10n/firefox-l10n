@@ -270,6 +270,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Visualiza sa descritzione
     .accesskey = d
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Chirca s’immàgine cun { $engine }
 main-context-menu-video-save-as =
     .label = Sarva su vìdeu comente...
     .accesskey = v
