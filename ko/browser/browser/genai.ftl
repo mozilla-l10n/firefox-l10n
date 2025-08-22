@@ -229,13 +229,13 @@ link-preview-settings-enable =
     .label = 링크 미리보기 사용
     .description = 단축키를 사용하거나 링크를 마우스 오른쪽 버튼으로 클릭할 때 페이지 제목, 설명 등을 확인할 수 있습니다.
 link-preview-settings-key-points =
-    .label = AI가 페이지의 처음 부분을 읽고 요점을 생성하도록 허용
+    .label = AI가 페이지의 시작 부분을 읽고 요점을 생성하도록 허용
 link-preview-settings-long-press =
     .label = 단축키: 링크를 1초 동안 누르고 있기 (길게 누르기)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = AI로 더 보고 싶으세요?
 # Message that appears when user is shown the opt-in flow for link previews
-link-preview-optin-message = { -brand-short-name }는 AI를 사용하여 페이지의 처음 부분을 읽고 몇 가지 요점을 생성합니다. 개인 정보 보호를 우선시하기 위해 이 작업은 기기에서 수행됩니다.
+link-preview-optin-message = { -brand-short-name }는 AI를 사용하여 페이지의 시작 부분을 읽고 몇 가지 요점을 생성합니다. 개인 정보 보호를 우선시하기 위해 이 작업은 기기에서 수행됩니다.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = 신규: 링크를 길게 눌러 미리보기
 # Onboarding card description for long press
