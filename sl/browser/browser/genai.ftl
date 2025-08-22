@@ -172,12 +172,12 @@ genai-chatbot-contextual-button = Izberite klepetalnik
 genai-chatbot-summarize-title = Novo! Povzemite strani z enim klikom
 genai-chatbot-summarize-button = Povzemi stran
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-provider-subtitle = Z desnim klikom na svoj UI-klepetalnik v stranski vrstici izberite »Povzemi stran«.
+genai-chatbot-summarize-sidebar-provider-subtitle = Desno kliknite na svoj UI-klepetalnik v stranski vrstici in izberite “Povzemi stran”.
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-generic-subtitle = Z desnim klikom na gumb s iskrico v stranski vrstici izberite »Povzemi stran«. Prvič boste tudi izbrali UI-klepetalnika.
+genai-chatbot-summarize-sidebar-generic-subtitle = Desno kliknite na gumb z iskrico v stranski vrstici izberite “Povzemi stran”. Prvič boste tudi izbrali UI-klepetalnik.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
-genai-chatbot-summarize-footer-provider-subtitle = Odprite svoj UI klepetalnik v stranski vrstici in na dnu izberite »Povzemi stran«.
-genai-chatbot-summarize-footer-generic-subtitle = Dodajte UI klepetalnik v stransko vrstico { -brand-short-name }a, da hitro povzamete strani.
+genai-chatbot-summarize-footer-provider-subtitle = Odprite svoj UI klepetalnik v stranski vrstici in na dnu izberite “Povzemi stran”.
+genai-chatbot-summarize-footer-generic-subtitle = Dodajte UI-klepetalnik v stransko vrstico { -brand-short-name(sklon: "rodilnik") }, da hitro povzamete strani.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

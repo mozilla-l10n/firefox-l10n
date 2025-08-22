@@ -562,7 +562,7 @@ newtab-custom-wallpaper-cta = Preizkusite
 
 ## Strings for new user activation custom wallpaper highlight
 
-newtab-new-user-custom-wallpaper-title = Izberite ozadje, da bo { -brand-product-name } vaš.
+newtab-new-user-custom-wallpaper-title = Izberite ozadje, da bo { -brand-product-name } samo vaš
 newtab-new-user-custom-wallpaper-subtitle = Počutite se kot doma na vsakem novem zavihku s poljubnim ozadjem in barvami.
 newtab-new-user-custom-wallpaper-cta = Preizkusite zdaj
 
@@ -617,7 +617,7 @@ newtab-trending-searches-title = Trenutno iskano
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Seznam opravkov
+newtab-widget-lists-default-list-title = Seznam opravil
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-default-list-new = Nov seznam
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
@@ -655,13 +655,13 @@ newtab-widget-timer-notification-focus = Čas za osredotočeno delo je potekel. 
 newtab-widget-timer-notification-break = Vaš odmor je končan. Ste pripravljeni na osredotočeno delo?
 newtab-widget-timer-notification-warning = Obvestila so izklopljena
 newtab-widget-timer-mode-focus =
-    .label = osredotočite se
+    .label = Osredotočite se
 newtab-widget-timer-mode-break =
     .label = Premor
 newtab-widget-timer-play =
     .title = Predvajaj
 newtab-widget-timer-pause =
-    .title = Premor
+    .title = Ustavi
 newtab-widget-timer-reset =
     .title = Ponastavi
 newtab-widget-timer-menu-notifications = Izklopi obvestila
@@ -669,7 +669,7 @@ newtab-widget-timer-menu-notifications-on = Vklopi obvestila
 newtab-widget-timer-menu-hide = Skrij odštevalnik
 newtab-widget-timer-menu-learn-more = Več o tem
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Pomaknite se za več
+newtab-widget-keep-scrolling = Podrsajte za več
 newtab-promo-card-title = Podprite { -brand-product-name(sklon: "tozilnik") }
 newtab-promo-card-body = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta
 newtab-promo-card-cta = Več o tem
