@@ -817,7 +817,7 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Pridobi podatke o borzi neposredno v svojo iskalno vrstico
 # This string is shown as description when Market suggestion are disabled.
-urlbar-result-market-opt-in-description = Prikaži posodobitve trga in več od naših partnerjev, ko deliš podatke o iskalnih poizvedbah z { -vendor-short-name }. <a data-l10n-name="learn-more-link">Izvedi več
+urlbar-result-market-opt-in-description = Prikaži novice z borze in druge novice naših partnerjev, ko deliš podatke o iskalnih poizvedbah s ponudnikom { -vendor-short-name }. <a data-l10n-name="learn-more-link">Več o tem</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Prikaži predloge
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -827,12 +827,12 @@ urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ne prikazuj teh predlogov
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market =
-    .label = Ne prikazuj priporočil s trga
+    .label = Ne prikazuj predlogov z borze
 # A message that replaces a result when the user dismisses Market suggestions.
-urlbar-result-dismissal-acknowledgment-market = Hvala za vaše mnenje. Tržnih predlogov več ne boste videli.
+urlbar-result-dismissal-acknowledgment-market = Hvala za vaše mnenje. Predlogov z borze ne boste več videli.
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
-urlbar-result-dismissal-acknowledgment-all = Hvala za vaše mnenje. Teh predlogov več ne boste videli.
+urlbar-result-dismissal-acknowledgment-all = Hvala za vaše mnenje. Teh predlogov ne boste več videli.
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
@@ -1515,65 +1515,9 @@ trustpanel-list-label-cryptominer =
         [few] { $count } kriptorudarji
        *[other] { $count } kriptorudarjev
     }
-trustpanel-social-tracking-blocking-tab-header =
-    { $count ->
-        [one] en { -brand-product-name }
-        [two] dva { -brand-product-name }
-        [few] trije { -brand-product-name }
-       *[other] ostali { -brand-product-name }
-    }
-trustpanel-social-tracking-not-blocking-tab-header =
-    { $count ->
-        [one] en { -brand-product-name }
-        [two] dva { -brand-product-name }
-        [few] trije { -brand-product-name }
-       *[other] ostali { -brand-product-name }
-    }
 trustpanel-social-tracking-tab-list-header = Ta spletna mesta vam poskušajo slediti:
-trustpanel-tracking-cookies-blocking-tab-header =
-    { $count ->
-        [one] en { -brand-product-name } blokiran { $count }
-        [two] dva { -brand-product-name } blokirana { $count }
-        [few] trije { -brand-product-name } blokirani { $count }
-       *[other] ostali { -brand-product-name } blokirani { $count }
-    }
-trustpanel-tracking-cookies-not-blocking-tab-header =
-    { $count ->
-        [one] en { -brand-product-name } dovoli { $count }
-        [two] dva { -brand-product-name } dovolita { $count }
-        [few] trije { -brand-product-name } dovolijo { $count }
-       *[other] ostali { -brand-product-name } dovolijo { $count }
-    }
 trustpanel-tracking-cookies-tab-list-header = Ta spletna mesta vam poskušajo slediti:
-trustpanel-tracking-content-blocking-tab-header =
-    { $count ->
-        [one] en { -brand-product-name } blokiran { $count } sledilec
-        [two] dva { -brand-product-name } blokirana { $count } sledilca
-        [few] trije { -brand-product-name } blokirani { $count } sledilci
-       *[other] ostali { -brand-product-name } blokirani { $count } sledilci
-    }
-trustpanel-tracking-content-not-blocking-tab-header =
-    { $count ->
-        [one] en { -brand-product-name } je dovolil { $count } sledilca
-        [two] dva { -brand-product-name } sta dovolila { $count } sledilca
-        [few] trije { -brand-product-name } so dovolili { $count } sledilce
-       *[other] ostali { -brand-product-name } so dovolili { $count } sledilce
-    }
 trustpanel-tracking-content-tab-list-header = Ta spletna mesta vam poskušajo slediti:
-trustpanel-fingerprinter-blocking-tab-header =
-    { $count ->
-        [one] { -brand-product-name } je zavrnil { $count } sledilcev prstnih odtisov
-        [two] { -brand-product-name } sta zavrnila { $count } sledilcev prstnih odtisov
-        [few] { -brand-product-name } so zavrnili { $count } sledilcev prstnih odtisov
-       *[other] { -brand-product-name } so zavrnili { $count } sledilcev prstnih odtisov
-    }
-trustpanel-fingerprinter-not-blocking-tab-header =
-    { $count ->
-        [one] { -brand-product-name } je dovolil { $count } sledilcev prstnih odtisov
-        [two] { -brand-product-name } sta dovolila { $count } sledilcev prstnih odtisov
-        [few] { -brand-product-name } so dovolili { $count } sledilcev prstnih odtisov
-       *[other] { -brand-product-name } so dovolili { $count } sledilcev prstnih odtisov
-    }
 trustpanel-fingerprinter-list-header = Ta spletna mesta vam poskušajo vzeti prstni odtis:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
