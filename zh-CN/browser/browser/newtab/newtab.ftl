@@ -616,6 +616,9 @@ newtab-widget-lists-default-list-title = 任务列表
 newtab-widget-lists-default-list-new = 新列表
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = 立即添加任务，开启无限可能。
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = 新
 newtab-widget-lists-label-beta =
     .label = 测试版
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
@@ -629,6 +632,8 @@ newtab-widget-lists-menu-delete = 删除此列表
 newtab-widget-lists-menu-copy = 复制列表到剪贴板
 newtab-widget-lists-menu-hide = 隐藏所有列表
 newtab-widget-lists-menu-learn-more = 详细了解
+newtab-widget-lists-input-add-an-item =
+    .placeholder = 添加项目
 newtab-widget-lists-input-error = 请输入项目名称
 newtab-widget-lists-input-menu-open-link = 打开链接
 newtab-widget-lists-input-menu-move-up = 上移
