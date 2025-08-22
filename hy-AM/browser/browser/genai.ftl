@@ -32,6 +32,7 @@ genai-menu-remove-generic =
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Հեռացնել { $provider }-ը
+genai-menu-summarize-page = Ամփոփել էջը
 genai-input-ask-generic =
     .placeholder = Հարցրեք ԱԲ չաթբոտին…
 # $provider (string) - name of the provider
@@ -49,7 +50,7 @@ genai-menu-ask-provider-2 =
     .label = Հարցնել { $provider }-ին
     .accesskey = h
 genai-menu-no-provider-2 =
-    .label = Հարցնել ԱԲ չաթ բոտին
+    .label = Հարցնել ԱԲ չաթբոտին
     .accesskey = h
 
 ## Chatbot header
@@ -106,9 +107,12 @@ genai-onboarding-lechat-tooltip =
 genai-onboarding-lechat-learn = Իմացեք ավելին Le Chat-ի մասին
 genai-onboarding-select-header = Ընտրեք տեքստ՝ առաջարկներ տեսնելու համար
 genai-onboarding-select-primary = Սկսել զրուցել
-genai-chatbot-contextual-button = Ընտրեք չաթ բոտ
+genai-chatbot-contextual-button = Ընտրեք չաթբոտ
 genai-chatbot-summarize-title = Նորույթ։ Ամփոփեք էջերը մեկ սեղմումով
 genai-chatbot-summarize-button = Ամփոփել էջը
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Բացեք ձեր ԱԲ չաթբոտը կողագոտիում և ընտրեք «Ամփոփել էջը» ներքևում:
+genai-chatbot-summarize-footer-generic-subtitle = Ավելացրեք արհեստական բանականության չաթբոտy { -brand-short-name } կողագոտիում՝ էջերը արագ ամփոփելու համար։
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

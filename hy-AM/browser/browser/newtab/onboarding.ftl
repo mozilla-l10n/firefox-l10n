@@ -357,7 +357,7 @@ onboarding-flair-text = Նոր
 onboarding-existing-horizontal-tabs-label = Պահել հորիզոնական ներդիրները
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Փորձեք ԱԲ չաթբոտը Կողագոտում
-onboarding-genai-sidebar-primary-button = Ընտրեք չաթ բոտ
+onboarding-genai-sidebar-primary-button = Ընտրեք չաթբոտ
 onboarding-genai-sidebar-secondary-button = Սկսել դիտարկումը
 
 ## New user onboarding checklist
