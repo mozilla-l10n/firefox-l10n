@@ -213,3 +213,9 @@ link-preview-error-message = 无法预览此链接。
 link-preview-visit-link = 访问链接
 # Text for the retry link when generation fails
 link-preview-generation-retry = 重试
+# Header for the key points section
+link-preview-key-points-header = 要点
+# Onboarding card See a preview button
+link-preview-onboarding-button = 查看预览
+# Onboarding card Close button
+link-preview-onboarding-close = 关闭
