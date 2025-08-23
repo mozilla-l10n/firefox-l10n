@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = Oceanowy módry
 profiles-terracotta-theme-2 = Cyhelčerwjeny
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mochzeleny
+profiles-gray-theme = Šěry
+profiles-yellow-theme = Žołty
+profiles-orange-theme = Oranžowy
+profiles-red-theme = Čerwjeny
+profiles-pink-theme = Pink
+profiles-purple-theme = Purpurny
+profiles-violet-theme = Wioletny
+profiles-blue-theme = Módry
+profiles-green-theme = Zeleny
+profiles-cyan-theme = Cyan
 
 ## Alternative text for default profile icons
 

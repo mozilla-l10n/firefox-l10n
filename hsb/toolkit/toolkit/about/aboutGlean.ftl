@@ -140,6 +140,25 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Zo byšće wukonowy profil registrował a wšě natočene metriki widźał, wužiwajće prošu
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategorija
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Mjeno
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Typ
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Hódnota
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Akcije
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filter
+about-glean-button-load-all = Wšě hódnoty začitać
+about-glean-button-load-value = Začitać
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumenty
+about-glean-button-watch = Wobkedźbować
+# Meaning "to stop watching"
+about-glean-button-unwatch = Hižo njewobkedźbować
 about-glean-about-data-explanation =
     Zo byšće lisćinu zhromadźenych datow přepytał, skonsultujće
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.

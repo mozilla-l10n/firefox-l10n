@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Websydłam zdźělić, zo nimaja moje daty předać abo dźělić
     .accesskey = d
 non-technical-privacy-header = Nastajenja priwatnosće websydła
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Začinić
+do-not-track-removal2 =
+    .label = Hižo njepodpěrujemy signal „Njeslědować“
 
 ## Browser Restart Dialog
 
@@ -1280,6 +1284,9 @@ content-blocking-baseline-exceptions =
     .label = Dowolće { -brand-short-name } wuwzaća awtomatisce nałožić, kotrež su trěbne, zo bychu so wulke problemy z websydłami wobešli.
 content-blocking-convenience-exceptions =
     .label = Nałožće tež wuwzaća awtomatisce, kotrež su trěbne, zo byšće mjeńše problemy rozrisał a wužitne funkcije k dispoziciji stajił.
+content-blocking-baseline-uncheck-warning-dialog-title = Chceće woprawdźe porjedźenja znjemóžnić?
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Porjedźenja znjemóžnić
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Porjedźenja zmóžnjene wostajić
 content-blocking-reload-description = Dyrbiće swoje rajtarki znowa začitać, zo byšće tute změny nałožił.
 content-blocking-reload-tabs-button =
     .label = Wšě rajtarki znowa začitać
