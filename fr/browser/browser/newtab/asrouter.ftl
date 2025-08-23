@@ -366,6 +366,7 @@ windows-10-eos-sync-toast-secondary-label = Me le rappeler plus tard
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } n’est pas installé d’office comme les autres navigateurs des géants de la tech. C’est tout l’intérêt.
 windows-10-eos-challenger-sync-primary-button = Sauvegarder { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Épingler { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } bloque les mineurs de cryptomonnaies, les traqueurs de réseaux sociaux et les détecteurs d’empreintes numériques.
