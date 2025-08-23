@@ -638,6 +638,13 @@ newtab-widget-lists-input-menu-move-up = 上移
 newtab-widget-lists-input-menu-move-down = 下移
 newtab-widget-lists-input-menu-delete = 刪除
 newtab-widget-lists-input-menu-edit = 編輯
+newtab-widget-lists-name-label-default =
+    .label = 任務清單
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = 任務清單
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = 新增清單
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
