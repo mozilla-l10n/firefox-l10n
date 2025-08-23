@@ -69,3 +69,7 @@ experimental-features-newtab-widget-lists-description = Mantene tu agenda a tu m
 experimental-features-newtab-widget-timer =
     .label = Temporisator in { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = Regula un temporisator pro mantener te concentrate, stimular te a remaner in pista, o rememorar te de recargar. <a data-l10n-name="connect">Comparti tu commentario</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listas e temporisator sur { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Mantene tu agenda a tu maxime attention quando tu aperi un scheda nove. Ab le lista del pacchettos al lista del compras, face tu planos in { -brand-product-name }. Regula un temporisator pro mantener te concentrate, stimular te a remaner in pista, o rememorar te de recargar. <a data-l10n-name="connect">Comparti tu commentario</a>

@@ -20,6 +20,7 @@ about-glean-category-manual-testing = Test manual
 about-glean-category-adhoc-testing = Test ad hoc
 about-glean-category-profiler = Usar le Profilator
 about-glean-category-about-data = Re datos
+about-glean-category-metrics-table = Tabella statistic
 about-glean-upload-enabled = Le cargamento datos es activate.
 about-glean-upload-disabled = Le cargamento datos es disactivate.
 about-glean-upload-enabled-local = Datos carga es activate solo pro invio a un servitor local.
@@ -132,6 +133,7 @@ about-glean-about-data-list-item-debug-ping-viewer = Pro navigar per le placas d
 about-glean-about-data-list-item-firefox-profiler =
     Pro registrar un profilo de prestationes e vider tote le metricas registrate, usa
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Tote le statistica
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Categoria
 # This message refers to the name of a given metric.
@@ -144,8 +146,21 @@ about-glean-metrics-table-header-value = Valor
 about-glean-metrics-table-header-actions = Actiones
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtro
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Isto filtrara le tabella infra in base a categoria, nomine, typo, e valor (si le valor es un typo simple).
+about-glean-button-load-all = Cargar tote le valores
 about-glean-button-load-value = Cargar
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Documentos
 about-glean-button-watch = Observar
+# Meaning "to stop watching"
+about-glean-button-unwatch = Non plus spectar
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Le statistica etiquettate non es ancora supportate in le vista <code>re:glean</code>.
+about-glean-unknown-metric-type-warning = Typo de indicator incognite.
 about-glean-about-data-explanation = Pro navigar per le lista de datos colligite, per favor consultar le <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionario</a>.

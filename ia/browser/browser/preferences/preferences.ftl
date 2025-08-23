@@ -1288,6 +1288,7 @@ content-blocking-baseline-label = Resolver problemas major de sitos (recommendat
 content-blocking-convenience-label = Resolver problemas minor de sitos
 content-blocking-exceptions-subheader = Resolver problemas de sito
 content-blocking-baseline-uncheck-warning-dialog-title = Desira tu vermente disactivar le correctiones?
+content-blocking-baseline-uncheck-warning-dialog-body = Iste parametro adjuta a reparar le plus commun problemas de sito. Si tu lo disactiva, alcun sitos pote non functionar, e { -brand-short-name } non potera adjutar solver ille problemas.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Disactivar correctiones
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Mantener correctiones
 content-blocking-reload-description = Tu debera recargar tu schedas pro applicar iste cambios.

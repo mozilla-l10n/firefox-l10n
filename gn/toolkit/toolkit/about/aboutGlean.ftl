@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Po Rupivegua
 about-glean-category-adhoc-testing = Jeporu Reigua
 about-glean-category-profiler = Perfilador jeporu rehegua
 about-glean-category-about-data = Mba’ekuaarã rehegua
+about-glean-category-metrics-table = Métrica rehegua
 about-glean-upload-enabled = Mba’ekuaarã ñemyanyhẽ hendýma.
 about-glean-upload-disabled = Mba’ekuaarã ñemyanyhẽ oguéma.
 about-glean-upload-enabled-local = Mba’ekuaarã myanyhẽ hendýta emondo hag̃ua mohendahavusu ag̃uiguápe.
@@ -125,6 +126,26 @@ about-glean-about-data-list-item-about-telemetry =
 about-glean-about-data-list-item-firefox-profiler =
     Eikuaa hag̃ua mba’ete rembiapokue ha ehecha opaite métrica ñongatupyre, eiporu
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Opavave métrica
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Mboja’opy
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Téra
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Peteĩchagua
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Tepykue
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Ñemongu’e
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Mboguaha
+about-glean-button-load-all = Emyanyhẽte tepykue
+about-glean-button-load-value = Myanyhẽ
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Kuatiaite
+about-glean-button-watch = Ñema’ẽ
+# Meaning "to stop watching"
+about-glean-button-unwatch = Anive ehecha
 about-glean-about-data-explanation =
     Eikundaha hag̃ua mba’ekuaarã mbyatypyre rysýire, eporandu pe
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Ñe’ẽryru</a>.
