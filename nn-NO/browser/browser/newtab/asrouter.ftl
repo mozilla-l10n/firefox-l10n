@@ -399,6 +399,7 @@ windows-10-eos-feature-toast-dismiss-button = Ignorer
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Strengt sporingsvern kan føre til at nettstadar sluttar å verke.</strong> Løys vanlege problem ved å oppheve blokkeringa av nødvendige element som kan innehalde sporarar.
 etp-strict-exceptions-infobar-learn-more = Les meir
 etp-strict-exceptions-infobar-button = Bruk fiksar
     .accesskey = B

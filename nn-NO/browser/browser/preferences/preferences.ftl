@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Fortel nettstadar om å ikkje selje eller dele mine data
     .accesskey = o
 non-technical-privacy-header = Personverninnstillingar for nettstaden
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Lat att
+do-not-track-removal2 =
+    .label = Vi støttar ikkje lenger «Ikkje spor»-signalet
 
 ## Browser Restart Dialog
 
@@ -1266,12 +1270,20 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Les meir
 content-blocking-etp-standard-tcp-title = Inkluderer totalt vern mot infokapslar, den kraftigaste personvernfunksjonen vår nokon gong
 content-blocking-warning-title = Viktig!
 content-blocking-and-isolating-etp-warning-description-3 = Denne innstillinga kan føre til at enkelte nettstadar ikkje viser innhald eller fungerer som dei skal. Vi tilbyr valfrie unntak for nettstadar som vi veit kan bli påverka av konfigurasjonen din. For å redusere sjansen for nettstadar som ikkje fungerer, bør du tillate desse sporingsunntaka. Om ein nettstad ser ut til å vere øydelagt, kan du slå av sporingsvern for den nettstaden for å laste inn alt innhald og rapportere problemet, slik at vi kan hjelpe til med å fikse det for alle.
+content-blocking-warning-title-2 = Nokre nettstadar kan slutte å fungere med strengt sporingsvern
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } tilrår å bruke innstillingane «Fiks nettstadproblem» for å redusere øydelagde funksjonar og innhald på nettstadar. Viss ein nettstad verkar øydelagd, kan du prøve å slå av sporingsvern for den nettstaden for å laste alt innhald.
 content-blocking-and-isolating-etp-warning-description-2 = Denne innstillinga kan føre til at enkelte nettstadar ikkje viser innhald eller fungerer rett. Dersom ein nettstad verkar øydelagd, kan det vere lurt å slå av sporingsvernet for nettsaden for å få laste inn alt innhaldet.
 content-blocking-warning-learn-how = Les korleis
 content-blocking-baseline-exceptions =
     .label = Tillat at { -brand-short-name } automatisk brukar unntak som trengst for å unngå større nettstadfeil.
+content-blocking-baseline-exceptions-2 =
+    .label = Hjelper med å laste inn nettstadar og funksjonar ved å oppheve blokkering av berre nødvendige element som kan innehalde sporarar. Dekkjer dei fleste vanlege problem.
 content-blocking-convenience-exceptions =
     .label = Bruk også unntak automatisk som berre er nødvendige for å fikse mindre problem og gjere praktiske funksjonar tilgjengelege.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Gjenopprettar ting som videoar i ein artikkel eller kommentarfelt ved å oppheve blokkering av element som kan innehalde sporarar. Dette kan redusere problem på nettstadar, men gir mindre vern. Må brukast saman med fiksar for større problem.
 content-blocking-reload-description = Du må oppdatere fanene dine for å kunne bruke desse endringane.
 content-blocking-reload-tabs-button =
     .label = Oppdater alle faner
