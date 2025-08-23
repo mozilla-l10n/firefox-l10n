@@ -69,3 +69,6 @@ experimental-features-newtab-widget-lists-description = Ha gjøremålslisten din
 experimental-features-newtab-widget-timer =
     .label = Nedtelling på { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = Sett en nedtelling for å holde fokus, minne deg på å holde deg på sporet eller minne deg på å lade opp. <a data-l10n-name="connect">Del tilbakemelding</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Lister og nedtelling på { -firefox-home-brand-name }

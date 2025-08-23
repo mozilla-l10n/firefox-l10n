@@ -152,6 +152,16 @@ about-glean-label-for-filter-metrics = Filter
 # Value refers to the underlying value of a given metric.
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = Dette vil filtrere tabellen nedenfor basert på kategori, navn, type og verdi (hvis verdien er en enkel type).
+about-glean-button-load-all = Last inn alle verdier
+about-glean-button-load-value = Last inn
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumentasjon
+about-glean-button-watch = Overvåk
+# Meaning "to stop watching"
+about-glean-button-unwatch = Fjern overvåking
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Merkede målinger støttes ikke i <code>about:glean</code>-visningen ennå.
+about-glean-unknown-metric-type-warning = Ukjent målingstype.
 about-glean-about-data-explanation =
     For å se gjennom listen over innsamlede data, se
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.
