@@ -1270,12 +1270,17 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Pro saper plus
 content-blocking-etp-standard-tcp-title = Include Protection total del cookies, nostre plus potente functionalitate de confidentialitate de unquam
 content-blocking-warning-title = Attention!
 content-blocking-and-isolating-etp-warning-description-3 = Iste configuration pote causar que alcun sitos web non monstra contento o non functiona correctemente. Nos forni exceptiones optional pro sitos web que nos sape pote esser afficite per tu configuration. Pro reducer le risco de sitos web corrupte, permitte le exceptiones de iste traciator. Si un sito appare corrupte, tu pote disactivar le protection de traciamento pro ille sito pro cargar tote le contento e reportar le problema assi nos pote adjutar a resolver lo pro totes.
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recommenda usar le configurationes “Reparar problemas de sito” pro reducer functiones e contento de sito corrupte. Si un sito pare corrupte, tenta disactivar le protection de traciamento pro ille sito pro cargar tote le contento.
 content-blocking-and-isolating-etp-warning-description-2 = Iste parametro pote causar alcun sitos web a non monstrar contento o non pote functionar correctemente. Si un sito pare corrupte, prova disactivar protection de traciamento pro ille sito pote cargar tote le contento.
 content-blocking-warning-learn-how = Apprende como
 content-blocking-baseline-exceptions =
     .label = Permitter a { -brand-short-name } de automaticamente applicar le exceptiones necessari pro evitar le principal problemas de sito web.
+content-blocking-baseline-exceptions-2 =
+    .label = Adjuta cargar sitos e functiones disblocante solo elementos essential que pote continer traciatores. Coperi le major parte del problemas commun.
 content-blocking-convenience-exceptions =
     .label = Applicar exceptiones automaticamente, alsi solo necessari pro remediar minor problemas e render disponibile functiones utile.
+content-blocking-baseline-label = Resolver problemas major de sitos (recommendate)
 content-blocking-baseline-uncheck-warning-dialog-title = Desira tu vermente disactivar le correctiones?
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Disactivar correctiones
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Mantener correctiones

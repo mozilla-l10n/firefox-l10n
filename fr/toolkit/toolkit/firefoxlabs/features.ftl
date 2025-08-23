@@ -69,3 +69,6 @@ experimental-features-newtab-widget-lists-description = Gardez votre liste de t�
 experimental-features-newtab-widget-timer =
     .label = Minuteur dans { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = Réglez un minuteur pour maintenir votre concentration, vous encourager à ne pas vous égarer, ou vous rappeler de faire une pause. <a data-l10n-name="connect">Donnez votre avis</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listes et minuteur dans { -firefox-home-brand-name }

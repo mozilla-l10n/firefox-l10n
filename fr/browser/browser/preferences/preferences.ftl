@@ -1279,6 +1279,14 @@ content-blocking-baseline-exceptions-2 =
     .label = Aide à charger les sites et les fonctionnalités en débloquant uniquement les éléments essentiels pouvant contenir des traqueurs. Corrige les problèmes les plus courants.
 content-blocking-convenience-exceptions =
     .label = Appliquer également de manière automatique les exceptions qui sont uniquement nécessaires pour corriger des problèmes mineurs et pour rendre accessibles des fonctionnalités pratiques.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Restaure des éléments tels que des vidéos dans un article ou des sections de commentaires en débloquant des éléments qui peuvent contenir des traqueurs. Cela peut réduire les problèmes des sites, mais offre une moins bonne protection. Doit être utilisé avec les correctifs pour les problèmes majeurs.
+content-blocking-baseline-label = Résoudre les problèmes majeurs des sites (recommandé)
+content-blocking-convenience-label = Résoudre les problèmes mineurs des sites
+content-blocking-exceptions-subheader = Résoudre les problèmes des sites
+content-blocking-baseline-uncheck-warning-dialog-title = Voulez-vous vraiment désactiver les correctifs ?
+content-blocking-baseline-uncheck-warning-dialog-body = Ce paramètre permet de résoudre les problèmes les plus courants sur les sites. Si vous le désactivez, certains sites peuvent ne pas fonctionner et { -brand-short-name } ne sera pas en mesure de vous aider à résoudre ces problèmes.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Désactiver les correctifs
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Conserver les correctifs
 content-blocking-reload-description = Vous devrez actualiser vos onglets pour appliquer ces modifications.
