@@ -672,6 +672,7 @@ newtab-widget-timer-menu-hide = 타이머 숨기기
 newtab-widget-timer-menu-learn-more = 더 알아보기
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = 더 보려면 스크롤하세요
+newtab-widget-message-title = 목록과 내장 타이머로 집중하기
 newtab-promo-card-title = { -brand-product-name } 지원
 newtab-promo-card-body = 스폰서는 더 나은 웹을 만들려는 우리의 사명을 지원합니다
 newtab-promo-card-cta = 더 알아보기
