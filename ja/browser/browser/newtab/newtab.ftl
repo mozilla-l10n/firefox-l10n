@@ -610,9 +610,6 @@ newtab-trending-searches-title = トレンド検索
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = ToDo リスト
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = 新しいリスト
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = 可能性は限りなく。リストを作りましょう。
 # A simple label next to the default list name letting users know this is a new / beta feature
