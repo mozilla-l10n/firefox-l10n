@@ -133,6 +133,7 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     For å registrere en ytelsesprofil og se alle registrerte målinger, bruk
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Alle målinger
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Kategori
 # This message refers to the name of a given metric.

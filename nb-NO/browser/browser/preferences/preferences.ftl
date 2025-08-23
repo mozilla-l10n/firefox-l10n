@@ -1270,18 +1270,27 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Les mer
 content-blocking-etp-standard-tcp-title = Inkluderer total beskyttelse mot infokapsler, vår kraftigste personvernfunksjon noensinne
 content-blocking-warning-title = Se opp!
 content-blocking-and-isolating-etp-warning-description-3 = Denne innstillingen kan føre til at enkelte nettsteder ikke viser innhold eller fungerer som de skal. Vi tilbyr valgfrie unntak for nettsteder som vi vet kan bli påvirket av konfigurasjonen din. For å redusere sjansen for nettsteder som ikke fungerer, bør du tillate disse sporingsunntakene. Hvis et nettsted ser ut til å være ødelagt, kan du slå av sporingsbeskyttelse for det nettstedet for å laste inn alt innhold og rapportere problemet, slik at vi kan hjelpe med å fikse det for alle.
+content-blocking-warning-title-2 = Noen nettsteder kan slutte å fungere med streng sporingsbeskyttelse
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } anbefaler å bruke innstillingene «Fiks nettstedsproblemer» for å redusere ødelagte funksjoner og innhold på nettsteder. Hvis et nettsted virker ødelagt, kan du prøve å slå av sporingsbeskyttelse for det nettstedet for å laste alt innhold.
 content-blocking-and-isolating-etp-warning-description-2 = Denne innstillingen kan føre til at enkelte nettsteder ikke viser innhold eller fungerer riktig. Hvis et nettsted virker ødelagt, kan det være lurt å slå av sporingsbeskyttelse for det nettstedet for å laste inn alt innholdet.
 content-blocking-warning-learn-how = Les hvordan
 content-blocking-baseline-exceptions =
     .label = Tillat at { -brand-short-name } automatisk bruker unntak som kreves for å unngå større nettstedsfeil.
+content-blocking-baseline-exceptions-2 =
+    .label = Hjelper med å laste inn nettsteder og funksjoner ved å oppheve blokkering av bare nødvendige elementer som kan inneholde sporere. Dekker de fleste vanlige problemer.
 content-blocking-convenience-exceptions =
     .label = Bruk også unntak automatisk som bare er nødvendige for å fikse mindre problemer og gjøre praktiske funksjoner tilgjengelige.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Gjenoppretter ting som videoer i en artikkel eller kommentarfelt ved å oppheve blokkering av elementer som kan inneholde sporere. Dette kan redusere problemer på nettsteder, men gir mindre beskyttelse. Må brukes sammen med fikser for større problemer.
 content-blocking-baseline-label = Fiks større nettstedsproblemer (anbefalt)
 content-blocking-convenience-label = Fiks mindre nettstedsproblemer
 content-blocking-exceptions-subheader = Fiks nettstedsproblemer
 content-blocking-baseline-uncheck-warning-dialog-title = Er du sikker på at du vil slå av fiksene?
+content-blocking-baseline-uncheck-warning-dialog-body = Denne innstillingen bidrar til å fikse de vanligste nettstedsproblemene. Hvis du slår den av, kan det hende at noen nettsteder ikke fungerer, og { -brand-short-name } vil ikke kunne hjelpe med å feilsøke disse problemene.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Slå av fiksene
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Behold fiksene på
 content-blocking-reload-description = Du må oppdatere fanene dine for å kunne bruke disse endringene.
 content-blocking-reload-tabs-button =
     .label = Last inn alle faner på nytt
