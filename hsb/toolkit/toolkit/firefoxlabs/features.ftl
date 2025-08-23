@@ -69,3 +69,6 @@ experimental-features-newtab-widget-lists-description = Wobchowajće lisćinu sw
 experimental-features-newtab-widget-timer =
     .label = Časoměr w { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = Stajće časoměr, zo byšće koncentrowany wostał, zo by was storčił, zo byšće na puću wostał abo zaso nakładował. <a data-l10n-name="connect">Měnjenje zdźělić</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Lisćiny a časoměr w { -firefox-home-brand-name }

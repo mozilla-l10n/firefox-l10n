@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Manuelne testowanje
 about-glean-category-adhoc-testing = Testowanje ad hoc
 about-glean-category-profiler = Wukonowu analyzu wužiwać
 about-glean-category-about-data = Wo datach
+about-glean-category-metrics-table = Tabela metrikow
 about-glean-upload-enabled = Nahraće datow je zmóžnjene.
 about-glean-upload-disabled = Nahraće datow je znjemóžnjene.
 about-glean-upload-enabled-local = Nahraće datow je jenož za słanje na lokalny serwer zmóžnjene.
@@ -140,6 +141,7 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Zo byšće wukonowy profil registrował a wšě natočene metriki widźał, wužiwajće prošu
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Wšě metriki
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Kategorija
 # This message refers to the name of a given metric.
@@ -152,6 +154,13 @@ about-glean-metrics-table-header-value = Hódnota
 about-glean-metrics-table-header-actions = Akcije
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = To budźe tabelu deleka po kategoriji, mjenje, typje a hódnoće filtrować (jeli hódnota je jednory typ).
 about-glean-button-load-all = Wšě hódnoty začitać
 about-glean-button-load-value = Začitać
 # "Docs" is shorthand for "documentation"
@@ -159,6 +168,9 @@ about-glean-button-dictionary-link = Dokumenty
 about-glean-button-watch = Wobkedźbować
 # Meaning "to stop watching"
 about-glean-button-unwatch = Hižo njewobkedźbować
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Popisane metriki so w napohledźe <code>about:glean</code> hišće njepodpěruja.
+about-glean-unknown-metric-type-warning = Njeznaty typ metriki.
 about-glean-about-data-explanation =
     Zo byšće lisćinu zhromadźenych datow přepytał, skonsultujće
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.
