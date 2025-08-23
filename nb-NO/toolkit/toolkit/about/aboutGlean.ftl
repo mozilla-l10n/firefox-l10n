@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Manuell testing
 about-glean-category-adhoc-testing = Ad hoc-testing
 about-glean-category-profiler = Bruk av profileringsverktøyet
 about-glean-category-about-data = Om data
+about-glean-category-metrics-table = Tabell over målinger
 about-glean-upload-enabled = Dataopplasting er aktivert.
 about-glean-upload-disabled = Dataopplasting er deaktivert.
 about-glean-upload-enabled-local = Dataopplasting er kun aktivert for sending til en lokal server.
