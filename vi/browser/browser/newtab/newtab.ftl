@@ -615,9 +615,6 @@ newtab-trending-searches-title = Tìm kiếm thịnh hành
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Danh sách nhiệm vụ
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Danh sách mới
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Khả năng là vô tận. Hãy thêm một cái.
 # A simple label next to the default list name letting users know this is a new / beta feature
