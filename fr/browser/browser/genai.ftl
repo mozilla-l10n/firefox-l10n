@@ -238,6 +238,8 @@ link-preview-settings-key-points =
     .label = Autoriser l’IA à lire le début de la page et à générer des points clés
 link-preview-settings-long-press =
     .label = Raccourci : cliquer sur le lien pendant 1 seconde (appui long)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = En voir davantage grâce à l’IA ?
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = { -brand-short-name } utilise l’IA pour lire le début de la page et générer quelques points clés. Afin de respecter votre vie privée, ces actions s’effectuent sur votre appareil.
 # Onboarding card title for long press

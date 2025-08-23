@@ -373,6 +373,7 @@ windows-10-eos-challenger-sync-primary-button = Sauvegarder { -brand-shorter-nam
 windows-10-eos-challenger-pin-primary-button = Épingler { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } bloque les mineurs de cryptomonnaies, les traqueurs de réseaux sociaux et les détecteurs d’empreintes numériques.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Les traqueurs ne peuvent pas identifier votre appareil ni vous pister sur le Web, car nous ne leur en donnons pas la possibilité.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Sauvegarder { -brand-shorter-name } vous permet d’emporter facilement vos données et paramètres de confidentialité avec vous.
 windows-10-eos-sync-callout-privacy-info-button = Voir ce qui est bloqué
 windows-10-eos-callout-addons-title = Essayez les modules complémentaires : mises à jour simples, effets considérables
 windows-10-eos-callout-addons-primary-button = Voir notre sélection
