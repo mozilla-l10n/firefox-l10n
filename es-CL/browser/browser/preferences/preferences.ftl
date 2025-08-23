@@ -70,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Cerrar
+do-not-track-removal2 =
+    .label = Ya no soportamos la señal “No rastrear”
 
 ## Browser Restart Dialog
 
@@ -1268,10 +1270,15 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Aprender más
 content-blocking-etp-standard-tcp-title = Incluye la protección total contra cookies , nuestra herramienta de privacidad más potente a la fecha
 content-blocking-warning-title = ¡Atención!
 content-blocking-and-isolating-etp-warning-description-3 = Este ajuste puede provocar que algunos sitios web no muestren el contenido o no funcionen correctamente. Ofrecemos excepciones opcionales para los sitios web que sabemos que pueden verse afectados por tu configuración. Para reducir la probabilidad de que los sitios web fallen, habilita estas excepciones de seguimiento. Si un sitio web parece estar dañado, puedes desactivar la protección de seguimiento para que cargue todo el contenido e informar del problema para que podamos solucionarlo.
+content-blocking-warning-title-2 = Algunos sitios pueden romper la estricta protección de seguimiento.
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recomienda usar la configuración "Solucionar problemas del sitio" para reducir el número de funciones y contenido defectuosos. Si un sitio parece estar dañado, desactiva la protección de rastreo para que cargue todo el contenido.
 content-blocking-and-isolating-etp-warning-description-2 = Este ajuste puede hacer que algunos sitios web no muestren contenido o que no funcionen correctamente. Si un sitio parece roto, puede que desees desactivar la protección contra seguimiento para que ese sitio cargue todo el contenido.
 content-blocking-warning-learn-how = Aprender cómo
 content-blocking-baseline-exceptions =
     .label = Permitir que { -brand-short-name } aplique automáticamente las excepciones necesarias para evitar fallas importantes del sitio web.
+content-blocking-baseline-exceptions-2 =
+    .label = Facilita la carga de sitios y funciones desbloqueando únicamente los elementos esenciales que pueden contener rastreadores. Abarca los problemas más comunes.
 content-blocking-convenience-exceptions =
     .label = También se aplican automáticamente excepciones que solo son necesarias para solucionar problemas menores y hacer que estén disponibles funciones convenientes.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Desactivar correcciones

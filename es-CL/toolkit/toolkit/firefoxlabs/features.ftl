@@ -69,3 +69,7 @@ experimental-features-newtab-widget-lists-description = Mantén tu lista de tare
 experimental-features-newtab-widget-timer =
     .label = Temporizador en { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = Configura un temporizador para mantener tu concentración, úsalo para darte un empujoncito para seguir focalizado o para recordarte que debes recargar energías. <a data-l10n-name="connect">Comparte comentarios</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listas y temporizador en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Mantén tu lista de tareas siempre presente al abrir una nueva pestaña. Desde listas de equipaje hasta listas de compras, crea tus planes en { -brand-product-name }. Configura un temporizador para mantener la concentración, darte un pequeño empujón para mantener el foco o acordarte de que debes recargar energías. <a data-l10n-name="connect">Comparte tus comentarios</a>
