@@ -638,6 +638,13 @@ newtab-widget-lists-input-menu-move-up = Mover in alto
 newtab-widget-lists-input-menu-move-down = Mover in basso
 newtab-widget-lists-input-menu-delete = Deler
 newtab-widget-lists-input-menu-edit = Rediger
+newtab-widget-lists-name-label-default =
+    .label = Agenda
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Agenda
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Nove lista
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
