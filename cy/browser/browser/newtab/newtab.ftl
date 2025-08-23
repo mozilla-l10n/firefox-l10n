@@ -621,9 +621,6 @@ newtab-trending-searches-title = Tueddiadau chwilio
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Rhestr tasgau
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Rhestr newydd
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Mae'r posibiliadau'n ddiddiwedd. Ychwanegwch un.
 # A simple label next to the default list name letting users know this is a new / beta feature
