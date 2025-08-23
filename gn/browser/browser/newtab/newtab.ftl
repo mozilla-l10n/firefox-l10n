@@ -639,6 +639,13 @@ newtab-widget-lists-input-menu-move-up = Jehupi
 newtab-widget-lists-input-menu-move-down = Emongu’e yvy gotyo
 newtab-widget-lists-input-menu-delete = Mboguete
 newtab-widget-lists-input-menu-edit = Mbosako’i
+newtab-widget-lists-name-label-default =
+    .label = Tembiaporã rysýi
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Tembiaporã rysýi
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Tysýi pyahu
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
