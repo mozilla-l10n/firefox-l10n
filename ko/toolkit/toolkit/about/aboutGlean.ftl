@@ -20,6 +20,7 @@ about-glean-category-manual-testing = 수동 테스트
 about-glean-category-adhoc-testing = Ad Hoc 테스트
 about-glean-category-profiler = 프로파일러 사용
 about-glean-category-about-data = 데이터 정보
+about-glean-category-metrics-table = 메트릭 표
 about-glean-upload-enabled = 데이터 업로드가 활성화되었습니다.
 about-glean-upload-disabled = 데이터 업로드가 비활성화되었습니다.
 about-glean-upload-enabled-local = 데이터 업로드는 로컬 서버로 전송하는 경우에만 활성화됩니다.
@@ -139,6 +140,33 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     성능 프로필을 기록하고 기록된 모든 메트릭을 보려면,
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>를 사용하세요.
+about-glean-metrics-table-header = 모든 메트릭
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = 분류
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = 이름
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = 유형
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = 값
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = 동작
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = 필터
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = 분류, 이름, 유형, 값 (단순 형식인 경우)에 따라 아래의 표가 필터링 됩니다.
+about-glean-button-load-all = 모든 값 로드
+about-glean-button-load-value = 로드
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = 문서
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = 레이블이 지정된 메트릭은 아직 <code>about:glean</code> 보기에서 지원되지 않습니다.
+about-glean-unknown-metric-type-warning = 알 수 없는 메트릭 유형입니다.
 about-glean-about-data-explanation =
     수집된 데이터 목록을 찾아보려면 
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 사전</a>을 참조하세요.

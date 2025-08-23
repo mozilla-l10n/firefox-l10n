@@ -115,6 +115,7 @@ profiles-orange-theme = 주황색
 profiles-red-theme = 빨간색
 profiles-pink-theme = 분홍색
 profiles-purple-theme = 보라색
+profiles-violet-theme = 남보라색
 profiles-blue-theme = 파란색
 profiles-green-theme = 녹색
 profiles-cyan-theme = 청록색
