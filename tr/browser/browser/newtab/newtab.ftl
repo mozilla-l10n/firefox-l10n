@@ -669,6 +669,9 @@ newtab-widget-timer-menu-hide = Sayacı gizle
 newtab-widget-timer-menu-learn-more = Daha fazla bilgi al
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Daha fazlası için kaydırın
+newtab-widget-message-title = Listeler ve sayaçla işinize daha iyi odaklanın
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Küçük anımsatıcılar ve günlük görev listeleriyle, odaklanma oturumları ve molalarla zamanınızı daha iyi yönetin.
 newtab-promo-card-title = { -brand-product-name } tarayıcısını destekleyin
 newtab-promo-card-body = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
 newtab-promo-card-cta = Daha fazla bilgi alın

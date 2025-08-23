@@ -442,6 +442,8 @@ fxa-menu-message-close-button =
     .title = Zavřít
     .aria-label = Zavřít
 fxa-menu-message-sign-up-button = Přihlásit se
+fxa-menu-message-sign-in-button = Přihlásit se
+fxa-menu-message-sync-button = Spustit synchronizaci
 fxa-menu-message-sync-devices-primary-text = Synchronizace všech zařízení
 fxa-menu-message-sync-devices-secondary-text =
     { -brand-short-name.case-status ->
@@ -524,7 +526,18 @@ windows-10-eos-sync-toast-subtitle =
 windows-10-eos-sync-toast-primary-label = Začít
 windows-10-eos-sync-toast-secondary-label = Upozornit mě později
 
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-privacy-info-button = Podívejte se, co je blokováno
+windows-10-eos-callout-addons-title = Vyzkoušejte doplňky: jednoduché aktualizace, velké dopady
+windows-10-eos-callout-addons-subtitle = Tato rozšíření byla vybrána, aby vám pomohla zůstat produktivní, chránění a bez rozptylování.
+windows-10-eos-callout-addons-primary-button = Podívejte se na náš výběr
+windows-10-eos-sync-callout-addons-title = Při aktualizaci z Windows 10 nepřijdete o své doplňky.
+windows-10-eos-sync-callout-next-button = Další
+windows-10-eos-sync-callout-get-started-button = Začít
+
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Svislé panely a skupiny panelů jsou tady!
 windows-10-eos-feature-toast-whats-new-button = Co je nového
 windows-10-eos-feature-toast-dismiss-button = Zavřít

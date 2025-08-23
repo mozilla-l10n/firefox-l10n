@@ -269,3 +269,14 @@ link-preview-settings-button =
     .title = Nastavení náhledu odkazů
 # Header for the key points section
 link-preview-key-points-header = Klíčové body
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Klíčové body jsou vygenerované umělou inteligencí a mohou obsahovat chyby.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = První nastavení • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Příště uvidíte klíčové body rychleji.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Zobrazit náhled
+# Onboarding card Close button
+link-preview-onboarding-close = Zavřít

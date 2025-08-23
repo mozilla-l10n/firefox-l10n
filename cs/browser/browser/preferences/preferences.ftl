@@ -1430,6 +1430,12 @@ content-blocking-baseline-exceptions =
         }
 content-blocking-convenience-exceptions =
     .label = Automaticky také aplikovat výjimky, které jsou potřeba jen k opravě menších problémů a zpřístupnění komfortních funkcí.
+content-blocking-baseline-label = Oprava velkých problémů se stránkami (doporučeno)
+content-blocking-convenience-label = Oprava menších problémů se stránkami
+content-blocking-exceptions-subheader = Oprava problémů se stránkami
+content-blocking-baseline-uncheck-warning-dialog-title = Opravdu chcete vypnout opravy?
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Vypnout opravy
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Ponechat opravy zapnuté
 content-blocking-reload-description = Aby se změny projevily, načtěte znovu své panely.
 content-blocking-reload-tabs-button =
     .label = Znovu načíst všechny panely
