@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Manuelne testowanje
 about-glean-category-adhoc-testing = Testowanje ad hoc
 about-glean-category-profiler = Wugbaśowu analyzu wužywaś
 about-glean-category-about-data = Wó datach
+about-glean-category-metrics-table = Tabela metrikow
 about-glean-upload-enabled = Nagraśe datow jo zmóžnjone.
 about-glean-upload-disabled = Nagraśe datow jo znjemóžnjone.
 about-glean-upload-enabled-local = Nagraśe datow jo jano za słanje na lokalny serwer zmóžnjone.
@@ -140,6 +141,19 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Aby wugbaśowy profil registrěrował a wšykne nagrate metriki wiźeł, wužywajśo pšosym
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Wšykne metriki
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategorija
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Mě
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Typ
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Gódnota
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Akcije
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filter
 about-glean-about-data-explanation =
     Aby lisćinu zgromaźonych datow pśepytował, konsultěrujśo
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.

@@ -1289,6 +1289,16 @@ content-blocking-baseline-exceptions-2 =
     .label = Wótpórajo blokěrowanje jano wažnych elementow, kótarež mógli pśeslědowaki wopśimowaś, aby pomagało, sedła a funkcije zacytaś. Funkcioněrujo za nejcesćejše problemy.
 content-blocking-convenience-exceptions =
     .label = Nałožćo teke wuwześa awtomatiski, kótarež su trjebne, aby mjeńše problemy rozwězał a wužytne funkcije k dispoziciji stajił.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Wótnowja wěcy ako wideo w nastawku abo komentarowych wótrězkach, gaž se elementy wěcej njeblokěruju, kótarež mógli pśeslědowaki wopśimowaś. To móžo swdłowe problemy reducěrowaś, bitujo pak mjenjej šćita. Musy se z rozwězanjami za wjelike problemy wužywaś.
+content-blocking-baseline-label = Wjelike sedłowe problemy rozwězaś (dopórucone)
+content-blocking-convenience-label = Snadne sedłowe problemy rozwězaś
+content-blocking-exceptions-subheader = Sedłowe problemy rozwězaś
+content-blocking-baseline-uncheck-warning-dialog-title = Cośo napšawdu rozwězanja znjemóžniś?
+content-blocking-baseline-uncheck-warning-dialog-body = Toś to nastajenje pomaga, nejcesćejše sedłowe problemy rozwězaś. Jolic jo znjemóžnjaśo, někotare sedła snaź njefunkcioněruju, a { -brand-short-name } njamóžo pomagaś, te problemy rozwězaś.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Rozwězanja znjemóžniś
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Rozwězanja zmóžnjone wóstajiś
 content-blocking-reload-description = Musyśo swóje rejtariki znowego zacytaś, aby toś te změny nałožył.
 content-blocking-reload-tabs-button =
     .label = Wšykne rejtariki znowego zacytaś
