@@ -676,6 +676,8 @@ newtab-widget-timer-menu-learn-more = Dalše informacije
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Za dalše kulić
 newtab-widget-message-title = Wostańće koncentrowany z lisćinami a zatwarjenym časoměrom
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Wot spěšnych dopomnjećow do wšědnych nadawkowych lisćinow, koncentrujće so na posedźenja, zo byšće přestawki podlěšił – njepopušćejće a budźće zdypkom.
 newtab-promo-card-title = { -brand-product-name } podpěrać
 newtab-promo-card-body = Naši sponsorojo našu misiju podpěruja, zo bychu lěpši web tworili
 newtab-promo-card-cta = Dalše informacije
