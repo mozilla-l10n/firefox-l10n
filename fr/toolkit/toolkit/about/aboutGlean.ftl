@@ -96,4 +96,5 @@ about-glean-about-data-list-item-dictionary = Pour visualiser la liste des donn�
 about-glean-about-data-list-item-about-telemetry = Pour visualiser les données collectées par l’ancienne télémétrie, veuillez consulter <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer = Pour parcourir les balises de débogage, obtenir des pings complets, voir un évènement en direct ou consulter une visualisation des métriques, veuillez consulter la <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = Pour enregistrer un profil de performances et voir toutes les métriques enregistrées, veuillez utiliser le <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Toutes les statistiques
 about-glean-about-data-explanation = Pour visualiser la liste des données collectées, veuillez consulter le <a data-l10n-name="glean-dictionary-link">dictionnaire de { -glean-brand-name }</a>

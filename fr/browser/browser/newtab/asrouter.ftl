@@ -367,6 +367,8 @@ windows-10-eos-sync-toast-secondary-label = Me le rappeler plus tard
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } n’est pas installé d’office comme les autres navigateurs des géants de la tech. C’est tout l’intérêt.
+windows-10-eos-challenger-sync-callout-subtitle = Lorsque vous sauvegardez vos marque-pages et mots de passe { -brand-product-name }, il est plus facile de transférer le navigateur que vous avez choisi vers un nouvel appareil.
+windows-10-eos-challenger-pin-callout-subtitle = Épinglez { -brand-shorter-name } à votre barre des tâches pour que le navigateur que vous avez choisi soit toujours disponible quand vous en avez besoin.
 windows-10-eos-challenger-sync-primary-button = Sauvegarder { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Épingler { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } bloque les mineurs de cryptomonnaies, les traqueurs de réseaux sociaux et les détecteurs d’empreintes numériques.
@@ -386,3 +388,14 @@ windows-10-eos-feature-toast-title = Les onglets verticaux et les groupes d’on
 windows-10-eos-feature-toast-subtitle = À la suite de nombreuses demandes, { -brand-product-name } a ajouté de nouvelles fonctionnalités pour vous permettre de naviguer de façon plus fluide et ciblée.
 windows-10-eos-feature-toast-whats-new-button = Découvrir les nouveautés
 windows-10-eos-feature-toast-dismiss-button = Ignorer
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = En savoir plus
+etp-strict-exceptions-infobar-button = Appliquer les correctifs
+    .accesskey = A

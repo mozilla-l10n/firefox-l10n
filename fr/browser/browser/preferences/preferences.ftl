@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Demander aux sites web de ne pas vendre ni partager mes données
     .accesskey = D
 non-technical-privacy-header = Préférences de confidentialité des sites web
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Fermer
+do-not-track-removal2 =
+    .label = Le signal « Ne pas me pister » n’est plus pris en charge
 
 ## Browser Restart Dialog
 
@@ -1266,12 +1270,17 @@ content-blocking-etp-standard-tcp-rollout-learn-more = En savoir plus
 content-blocking-etp-standard-tcp-title = Inclut la protection totale contre les cookies, notre fonctionnalité de protection de la vie privée la plus puissante
 content-blocking-warning-title = Attention !
 content-blocking-and-isolating-etp-warning-description-3 = Ce paramètre peut empêcher certains sites web d’afficher du contenu ou de fonctionner correctement. Nous proposons des exceptions facultatives pour les sites web que nous savons susceptibles d’être affectés par vos paramètres. Afin de diminuer le risque de dysfonctionnement des sites, il est conseillé d’autoriser ces exceptions pour les traqueurs. Si un site semble cassé, vous pouvez désactiver la protection contre le pistage pour ce site, charger l’ensemble du contenu et signaler le problème afin que nous puissions le résoudre pour tout le monde.
+content-blocking-warning-title-2 = Il se peut que certains sites ne fonctionnent pas correctement lorsque la protection stricte contre le pistage est activée
 content-blocking-and-isolating-etp-warning-description-2 = Ce paramètre peut empêcher certains sites web d’afficher du contenu ou de fonctionner correctement. Si un site semble cassé, vous pouvez désactiver la protection contre le pistage pour que ce site puisse charger tout le contenu.
 content-blocking-warning-learn-how = Me montrer comment faire
 content-blocking-baseline-exceptions =
     .label = Autoriser { -brand-short-name } à appliquer automatiquement les exceptions nécessaires pour éviter tout dysfonctionnement majeur des sites web.
+content-blocking-baseline-exceptions-2 =
+    .label = Aide à charger les sites et les fonctionnalités en débloquant uniquement les éléments essentiels pouvant contenir des traqueurs. Corrige les problèmes les plus courants.
 content-blocking-convenience-exceptions =
     .label = Appliquer également de manière automatique les exceptions qui sont uniquement nécessaires pour corriger des problèmes mineurs et pour rendre accessibles des fonctionnalités pratiques.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Désactiver les correctifs
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Conserver les correctifs
 content-blocking-reload-description = Vous devrez actualiser vos onglets pour appliquer ces modifications.
 content-blocking-reload-tabs-button =
     .label = Actualiser tous les onglets
