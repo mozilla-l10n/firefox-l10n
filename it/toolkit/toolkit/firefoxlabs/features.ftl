@@ -73,3 +73,4 @@ experimental-features-newtab-widget-timer-description = Imposta un timer per aiu
 experimental-features-newtab-widget-lists-and-timer =
     .label = Liste e timer in { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Tieni sempre la tua lista di cose da fare ben visibile ogni volta che apri una nuova scheda. Che si tratti di una lista per la spesa o per preparare la valigia, organizza i tuoi piani in { -brand-product-name }. Imposta un timer per aiutarti a restare concentrato, darti una spinta a non perdere il ritmo o ricordarti di fare una pausa. <a data-l10n-name="connect">Condividi la tua opinione</a>
+
