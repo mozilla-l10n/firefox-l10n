@@ -660,6 +660,13 @@ newtab-widget-lists-menu-delete = Smazat tento seznam
 newtab-widget-lists-menu-copy = Zkopírovat seznam do schránky
 newtab-widget-lists-menu-hide = Skrýt všechny seznamy
 newtab-widget-lists-menu-learn-more = Zjistit více
+newtab-widget-lists-name-label-default =
+    .label = Seznam úkolů
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Seznam úkolů
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Nový seznam
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
