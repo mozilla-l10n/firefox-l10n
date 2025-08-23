@@ -613,9 +613,6 @@ newtab-trending-searches-title = Jeheka ojejapovéva
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Tembiaporã rysýi
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Tysýi pyahu
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Eha’ãkuaa heta jey. Embojuaju peteĩ.
 # A simple label next to the default list name letting users know this is a new / beta feature
