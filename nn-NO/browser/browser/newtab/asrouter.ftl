@@ -391,3 +391,12 @@ windows-10-eos-feature-toast-title = Vertikale faner og fanegrupper er her!
 windows-10-eos-feature-toast-subtitle = Etter mange førespurnadar frå folk, har { -brand-product-name } nettopp lansert nye funksjonar for å gjere nettlesinga di straumlinjeforma og fokusert.
 windows-10-eos-feature-toast-whats-new-button = Sjå kva som er nytt
 windows-10-eos-feature-toast-dismiss-button = Ignorer
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Les meir

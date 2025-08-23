@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Manuell testing
 about-glean-category-adhoc-testing = Ad hoc-testing
 about-glean-category-profiler = Bruk av profileringsverktøyet
 about-glean-category-about-data = Om data
+about-glean-category-metrics-table = Tabell over målingar
 about-glean-upload-enabled = Dataopplasting er aktivert.
 about-glean-upload-disabled = Dataopplasting er deaktivert.
 about-glean-upload-enabled-local = Dataopplasting er berre aktivert for sending til ein lokal server.
@@ -138,6 +139,25 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     For å registrere ein ytingsprofil og sjå alle registrerte målingar, bruk
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Alle målingar
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategori
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Namn
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Type
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Verdi
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Handlingar
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filter
+about-glean-button-load-value = Last inn
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumentasjon
+about-glean-button-watch = Overvak
+# Meaning "to stop watching"
+about-glean-button-unwatch = Fjern overvaking
 about-glean-about-data-explanation =
     For å sjå gjennom lista over innsamla data, sjå
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.

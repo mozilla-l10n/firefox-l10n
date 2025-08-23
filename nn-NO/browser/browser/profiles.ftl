@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = Havblå
 profiles-terracotta-theme-2 = Mursteinsraud
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mosegrøn
+profiles-gray-theme = Grå
+profiles-yellow-theme = Gul
+profiles-orange-theme = Oransje
+profiles-red-theme = Raud
+profiles-pink-theme = Rosa
+profiles-purple-theme = Lilla
+profiles-violet-theme = Fiolett
+profiles-blue-theme = Blå
+profiles-green-theme = Grøn
+profiles-cyan-theme = Cyan
 
 ## Alternative text for default profile icons
 
