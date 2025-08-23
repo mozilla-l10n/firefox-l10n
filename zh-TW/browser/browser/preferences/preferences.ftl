@@ -70,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = 關閉
+do-not-track-removal2 =
+    .label = 我們不再支援「Do Not Track」訊號
 
 ## Browser Restart Dialog
 
@@ -1256,6 +1258,9 @@ content-blocking-etp-standard-tcp-rollout-learn-more = 了解更多
 content-blocking-etp-standard-tcp-title = 包含我們有史以來最強大的隱私保護功能 — 全方位 Cookie 保護
 content-blocking-warning-title = 注意！
 content-blocking-and-isolating-etp-warning-description-3 = 此設定可能會造成某些網站無法顯示內容或無法正常運作。我們會提供可能受您設定影響的例外規則。若要減少網站故障的機會，請放行此例外規則。若某個網站發生異常，您也可以針對該網站關閉追蹤保護功能，載入該網站所有內容，並且回報給我們，為所有人修正問題。
+content-blocking-warning-title-2 = 使用嚴格的追蹤保護功能時，某些網站可能會故障
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } 建議使用「修正網站問題」選項，減少發生網站功能或內容故障的可能。若網站看來故障了，也可以針對該網站關閉追蹤保護，以載入所有內容。
 content-blocking-and-isolating-etp-warning-description-2 = 此設定可能會造成某些網站無法顯示內容或正常運作。若網站運作不正常，您可能會想要對該網站關掉追蹤保護功能，載入完整內容。
 content-blocking-warning-learn-how = 了解要怎麼做
 content-blocking-baseline-exceptions =
