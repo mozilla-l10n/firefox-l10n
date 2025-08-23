@@ -132,4 +132,20 @@ about-glean-about-data-list-item-debug-ping-viewer = Pro navigar per le placas d
 about-glean-about-data-list-item-firefox-profiler =
     Pro registrar un profilo de prestationes e vider tote le metricas registrate, usa
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Categoria
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Nomine
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Typo
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Valor
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Actiones
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtro
+about-glean-button-load-value = Cargar
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Documentos
+about-glean-button-watch = Observar
 about-glean-about-data-explanation = Pro navigar per le lista de datos colligite, per favor consultar le <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionario</a>.

@@ -176,7 +176,7 @@ genai-chatbot-summarize-sidebar-provider-subtitle = Faites un clic droit sur vot
 genai-chatbot-summarize-sidebar-generic-subtitle = Faites un clic droit sur le bouton étoilé dans le panneau latéral et choisissez « Résumer la page ». La première fois, vous choisirez également un chatbot IA.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Ouvrez votre chatbot IA dans le panneau latéral et choisissez « Résumer la page » en bas.
-genai-chatbot-summarize-footer-generic-subtitle = Ajouter un chatbot IA au panneau latéral de { -brand-short-name } pour résumer rapidement les pages.
+genai-chatbot-summarize-footer-generic-subtitle = Ajoutez un chatbot IA au panneau latéral de { -brand-short-name } pour résumer rapidement les pages.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

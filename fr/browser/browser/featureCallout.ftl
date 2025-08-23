@@ -171,7 +171,7 @@ sidebar-customization-callout-1-subtitle = Le panneau latéral de { -brand-produ
 sidebar-customization-callout-callout-button = Personnaliser le panneau latéral
 sidebar-customization-callout-dismiss-button = Masquer le panneau latéral
 sidebar-customization-callout-2-title = Personnalisez le panneau latéral de { -brand-product-name }
-sidebar-customization-callout-2-subtitle = Ajouter et supprimer des outils. Placez vos onglets dans le panneau latéral. Essayez un chatbot IA. C’est vous qui décidez comment vous personnalisez votre panneau latéral.
+sidebar-customization-callout-2-subtitle = Ajoutez et supprimez des outils. Placez vos onglets dans le panneau latéral. Essayez un chatbot IA. C’est vous qui décidez comment vous personnalisez votre panneau latéral.
 
 ## Sidebar Callout Survey Strings
 
