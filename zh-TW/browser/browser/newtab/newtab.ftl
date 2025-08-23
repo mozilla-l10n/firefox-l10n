@@ -612,9 +612,6 @@ newtab-trending-searches-title = 熱門搜尋
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = 任務清單
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = 新增清單
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = 有無限可能，請新增看看。
 # A simple label next to the default list name letting users know this is a new / beta feature
