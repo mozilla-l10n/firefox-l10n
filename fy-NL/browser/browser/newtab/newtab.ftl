@@ -640,6 +640,13 @@ newtab-widget-lists-input-menu-move-up = Omheech ferpleatse
 newtab-widget-lists-input-menu-move-down = Omleech ferpleatse
 newtab-widget-lists-input-menu-delete = Fuortsmite
 newtab-widget-lists-input-menu-edit = Bewurkje
+newtab-widget-lists-name-label-default =
+    .label = Takelist
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Takelist
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Nije list
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
