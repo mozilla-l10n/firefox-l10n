@@ -643,6 +643,13 @@ newtab-widget-lists-input-menu-move-up = Premakni gor
 newtab-widget-lists-input-menu-move-down = Premakni dol
 newtab-widget-lists-input-menu-delete = Izbriši
 newtab-widget-lists-input-menu-edit = Uredi
+newtab-widget-lists-name-label-default =
+    .label = Seznam opravil
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Seznam opravil
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Nov seznam
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
