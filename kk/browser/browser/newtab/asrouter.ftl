@@ -66,6 +66,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Бетбелгілерді қазір с
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Жабу батырмасы
     .title = Жабу
+fxa-adoption-primary-button-label = Тіркелу
 
 ## Protections panel
 
@@ -308,6 +309,8 @@ fxa-menu-message-close-button =
     .title = Жабу
     .aria-label = Жабу
 fxa-menu-message-sign-up-button = Тіркелу
+fxa-menu-message-sign-in-button = Кіру
+fxa-menu-message-sync-button = Синхрондауды бастау
 fxa-menu-message-sync-devices-primary-text = Барлық құрылғыларыңызды синхрондау
 fxa-menu-message-sync-devices-secondary-text = { -brand-short-name } қолданатын барлық жерде бетбелгілер мен парольдер сияқты ақпаратыңызды дереу алыңыз.
 fxa-menu-message-sync-devices-collapsed-text = Барлық құрылғыларыңызды синхрондау
@@ -350,3 +353,17 @@ windows-10-eos-sync-spotlight-primary-label = { -brand-short-name } қор кө�
 windows-10-eos-sync-toast-title = Windows 11 жүйесіне өтудесіз бе? Бетбелгілер мен парольдерді жоғалтпаңыз.
 windows-10-eos-sync-toast-primary-label = Бастау
 windows-10-eos-sync-toast-secondary-label = Кейінірек еске салу
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-next-button = Келесі
+windows-10-eos-sync-callout-get-started-button = Бастау
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Көбірек білу

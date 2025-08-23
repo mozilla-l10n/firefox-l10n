@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Басқа брауз
 contextual-manager-passwords-command-import = Файлдан импорттау…
 contextual-manager-passwords-command-export = Парольдерді экспорттау
 contextual-manager-passwords-command-remove-all = Барлық парольдерді өшіру
+contextual-manager-passwords-command-options = Опциялар
 contextual-manager-passwords-command-settings = Баптаулар
 contextual-manager-passwords-command-help = Көмек
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -158,6 +159,10 @@ contextual-manager-passwords-password-already-exists-error-button = Пароль
 contextual-manager-passwords-update-password-success-heading =
     .heading = Пароль сақталды
 contextual-manager-passwords-update-password-success-button = Дайын
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Пайдаланушы аты сақталды
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Пайдаланушы аты қосылды
 contextual-manager-passwords-update-username-success-heading =
     .heading = Пайдаланушы аты сақталды
 # Message to confirm successful removal of a password/passwords.
@@ -212,12 +217,15 @@ contextual-manager-passwords-title = Парольдер
 
 contextual-manager-passwords-create-label =
     .label = Парольді қосу
+contextual-manager-passwords-update-label =
+    .label = Парольді жаңарту
 contextual-manager-passwords-edit-label =
     .label = Парольді түзету
 contextual-manager-passwords-remove-label =
     .title = Парольді өшіру
 contextual-manager-passwords-origin-tooltip = Осы сайтқа кіретін нақты адресті енгізіңіз.
 contextual-manager-passwords-username-tooltip = Жүйеге кіру үшін пайдаланатын пайдаланушы атын, эл. пошта адресі немесе тіркелгі нөмірін енгізіңіз.
+contextual-manager-passwords-password-tooltip-2 = Осы тіркелгіге кіру үшін парольді енгізіңіз.
 contextual-manager-passwords-password-tooltip = Осы тіркелгіге кіру үшін пайдаланылатын парольді енгізіңіз.
 
 ## Password Card

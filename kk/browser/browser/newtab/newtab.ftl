@@ -559,3 +559,10 @@ newtab-toast-thanks-for-reporting =
 ## Strings for trending searches
 
 newtab-trending-searches-learn-more = Көбірек білу
+
+## Strings for task / to-do list productivity widget
+
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Жаңа
+newtab-widget-task-list-menu-copy = Көшіріп алу

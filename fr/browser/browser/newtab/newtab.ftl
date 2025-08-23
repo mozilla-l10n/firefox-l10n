@@ -556,6 +556,7 @@ newtab-custom-wallpaper-cta = Essayer
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-title = Choisissez un fond d’écran pour personnaliser { -brand-product-name }
+newtab-new-user-custom-wallpaper-subtitle = Personnalisez chaque nouvel onglet pour qu’il vous ressemble en choisissant vos propres fonds d’écran et couleurs.
 newtab-new-user-custom-wallpaper-cta = Essayer
 
 ## Strings for download mobile highlight
