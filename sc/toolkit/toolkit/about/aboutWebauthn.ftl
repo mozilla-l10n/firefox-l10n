@@ -6,6 +6,10 @@
 ### Localization for about:webauthn, a security token management page
 
 
+## Results label
+
+about-webauthn-results-cancelled-by-user-error = Errore: s’utente at annulladu s’operatzione.
+
 ## Buttons
 
 about-webauthn-cancel-button = Annulla

@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Custa atzione no dda podes annullare.
 
 newtab-topsite-sponsored = Patrotzinadu
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (apicadu)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -320,6 +328,19 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Chircas populares
     .description = Argumentos populares e chircados a s’ispissu
+newtab-custom-widget-weather-toggle =
+    .label = Tempus
+newtab-custom-widget-trending-search-toggle =
+    .label = Chircas populares
+newtab-custom-widget-lists-toggle =
+    .label = Listas
+newtab-custom-widget-timer-toggle =
+    .label = Temporizadore
+newtab-custom-widget-section-title = Widgets
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Serra
+    .aria-label = Serra su menù
 newtab-custom-close-button = Serra
 newtab-custom-settings = Gesti prus cunfiguratziones
 
@@ -329,6 +350,9 @@ newtab-wallpaper-title = Isfundos de ischermu
 newtab-wallpaper-reset = Ripristina comente predefinidu
 newtab-wallpaper-upload-image = Càrriga un’immàgine
 newtab-wallpaper-custom-color = Sèbera unu colore
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = S’immàgine bàrigat su lìmite de mannària de archìviu de { $file_size } MB. Torra·nche a proare carrighende un’archìviu prus piticu.
 newtab-wallpaper-error-file-type = Impossìbile carrigare s’archìviu. Torra·nche a proare cun un’àtera genia de archìviu.
 newtab-wallpaper-light-red-panda = Panda ruju
 newtab-wallpaper-light-mountain = Monte biancu
@@ -482,6 +506,8 @@ newtab-section-unblock-button = Isbloca
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Immoe nono
+newtab-section-confirm-block-topic-p1 = Seguru chi boles blocare custu argumentu?
+newtab-section-confirm-block-topic-p2 = Is argumentos blocados no ant a apàrrere prus in sa lìnia de tempus tua.
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloca { $topic }
@@ -500,11 +526,23 @@ newtab-custom-wallpaper-title = Immoe podes impreare isfundos personalizados
 newtab-custom-wallpaper-subtitle = Càrriga un’isfundu tuo o sèbera unu colore pro personalizare { -brand-product-name }.
 newtab-custom-wallpaper-cta = Proa immoe
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = Sèbera un’isfundu pro ti fàghere unu { -brand-product-name } totu tuo
+newtab-new-user-custom-wallpaper-subtitle = Intende·ti a domo cun is isfundos e is colores personalizados pro is ischedas noas.
+newtab-new-user-custom-wallpaper-cta = Proa·ddu immoe
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Iscàrriga { -brand-product-name } pro dispositivos mòbiles
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Iscansiona su còdighe pro navigare cun seguresa in ònnia logu.
+newtab-download-mobile-highlight-image =
+    .aria-label = Còdighe QR pro iscarrigare { -brand-product-name } pro dispositivos mòbiles
+
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-subtitle = Agiunghe unu curtzadòrgiu pro mantènnere is sitos preferidos tuos a unu clic isceti.
 
 ## Strings for reporting ads and content
 
@@ -528,3 +566,14 @@ newtab-report-cancel = Annulla
 newtab-report-submit = Imbia
 newtab-toast-thanks-for-reporting =
     .message = Gràtzias de sa sinnalatzione.
+
+## Strings for trending searches
+
+newtab-trending-searches-show-trending =
+    .title = Ammustra is chircas populares
+newtab-trending-searches-hide-trending =
+    .title = Cua is chircas populares
+newtab-trending-searches-learn-more = Àteras informatziones
+newtab-trending-searches-dismiss = Cua is chircas populares
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Chircas populares

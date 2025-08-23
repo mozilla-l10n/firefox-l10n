@@ -120,6 +120,7 @@ webext-perms-description-data-some-optional = S’iscuadra de isvilupu narat chi
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = { $extension } rechedet s’atualizatzione de cunfiguratziones noas
+webext-perms-update-list-intro-with-data-collection = Annulla pro mantènnere sa versione e is cunfiguratziones atuales, o atualiza pro otènnere sa versione noa e aprovare is modìficas.
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
