@@ -352,7 +352,7 @@ amo-picker-collection-link = Discoperi altere additivos
 onboarding-easy-setup-security-and-privacy-title = A nos place mantener te secur
 onboarding-easy-setup-security-and-privacy-subtitle = Nostre navigator supportate per un organisation sin fin d lucro adjuta stoppar le companias de sequer secretemente tu movimentos circum le web.
 # Mobile download screen
-onboarding-mobile-download-security-and-privacy-title = Resta cryptate durante que tu passa inter apparatos
+onboarding-mobile-download-security-and-privacy-title = Resta cryptate quando tu passa inter apparatos
 onboarding-mobile-download-security-and-privacy-subtitle = Quando tu es synchronisate, { -brand-short-name } crypta tu contrasignos, marcapaginas, e altero. In addition tu pote recuperar le schedas de tu altere apparatos.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } es tu supporto
