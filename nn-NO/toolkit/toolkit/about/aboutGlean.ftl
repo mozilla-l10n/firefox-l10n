@@ -152,12 +152,23 @@ about-glean-metrics-table-header-value = Verdi
 about-glean-metrics-table-header-actions = Handlingar
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Dette vil filtrere tabellen nedanfor basert på kategori, namn, type og verdi (viss verdien er ein enkel type).
+about-glean-button-load-all = Last inn alle verdiar
 about-glean-button-load-value = Last inn
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Dokumentasjon
 about-glean-button-watch = Overvak
 # Meaning "to stop watching"
 about-glean-button-unwatch = Fjern overvaking
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Merkte målingar blir ikkje støtta i <code>about:glean</code>-visinga enno.
+about-glean-unknown-metric-type-warning = Ukjend målingstype.
 about-glean-about-data-explanation =
     For å sjå gjennom lista over innsamla data, sjå
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.

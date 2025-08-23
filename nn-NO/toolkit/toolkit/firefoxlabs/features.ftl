@@ -69,3 +69,7 @@ experimental-features-newtab-widget-lists-description = Ha gjeremålslista di i 
 experimental-features-newtab-widget-timer =
     .label = Nedteljing på { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = Still inn ei nedteljing for å halde fokus, minne deg på å halde deg på sporet eller minne deg på å lade opp. <a data-l10n-name="connect">Del tilbakemelding</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Lister og nedteljing på { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Hald hugselista di lett tilgjengeleg når du opnar ei ny fane. Frå pakkelister til handlelister – lag planane dine i { -brand-product-name }. Set ei nedteljing for å halde fokus, minne deg på å halde deg på sporet eller ta ein pause. <a data-l10n-name="connect">Del tilbakemelding</a>
