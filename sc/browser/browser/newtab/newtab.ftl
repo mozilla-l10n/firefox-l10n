@@ -577,3 +577,54 @@ newtab-trending-searches-learn-more = Àteras informatziones
 newtab-trending-searches-dismiss = Cua is chircas populares
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Chircas populares
+
+## Strings for task / to-do list productivity widget
+
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Is possibilidades sunt infinitas. Agiunghe·nde una.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nou
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Cumpletadas ({ $number })
+newtab-widget-lists-input-menu-edit = Modifica
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Lista de tareas
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Lista noa
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Temporizadore
+newtab-widget-timer-notification-focus = Su perìodu de cuntzentratzione est acabbadu. Bonu traballu! Ti serbit una pàusa?
+newtab-widget-timer-notification-break = Sa pàusa est ispatzada. Prepara·ti pro ti cuntzentrare torra!
+newtab-widget-timer-notification-warning = Notìficas disativadas
+newtab-widget-timer-mode-focus =
+    .label = Cuntzentratzione
+newtab-widget-timer-mode-break =
+    .label = Pàusa
+newtab-widget-timer-play =
+    .title = Avia
+newtab-widget-timer-pause =
+    .title = Pàusa
+newtab-widget-timer-reset =
+    .title = Azera
+newtab-widget-timer-menu-notifications = Disativa is notìficas
+newtab-widget-timer-menu-notifications-on = Ativa is notìficas
+newtab-widget-timer-menu-hide = Cua su temporizadore
+newtab-widget-timer-menu-learn-more = Àteras informatziones
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Iscurre pro àteros cuntenutos
+newtab-widget-message-title = Mantene sa cuntzentratzione cun listas e cun unu temporizadore integradu
+newtab-promo-card-title = Agiuda a { -brand-product-name }
+newtab-promo-card-body = Is patrotzinadores nostros nos agiudant in sa missione nostra de istantargiare unu web mègius
+newtab-promo-card-cta = Àteras informatziones
+newtab-promo-card-dismiss-button =
+    .title = Iscarta
+    .aria-label = Iscarta

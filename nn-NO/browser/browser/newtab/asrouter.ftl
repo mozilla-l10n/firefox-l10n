@@ -400,3 +400,5 @@ windows-10-eos-feature-toast-dismiss-button = Ignorer
 ## to fix common site breakage by unblocking essential elements.
 
 etp-strict-exceptions-infobar-learn-more = Les meir
+etp-strict-exceptions-infobar-button = Bruk fiksar
+    .accesskey = B
