@@ -222,6 +222,8 @@ link-preview-reading-time =
         [one] { $range } minuto de tempo de leitura
        *[other] { $range } minutos de tempo de leitura
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Não foi possível visualizar este link
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visitar link
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
@@ -230,11 +232,23 @@ link-preview-generation-error-missing-data = Não foi possível gerar pontos cha
 link-preview-generation-error-unexpected = Algo deu errado.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Tentar novamente
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Configurações de visualização de links
+link-preview-settings-enable =
+    .label = Ativar visualização de links
+    .description = Veja o título da página, a descrição e muito mais ao usar o atalho ou clicar com o botão direito em um link.
 link-preview-settings-key-points =
     .label = Permitir que a inteligência artificial leia o início da página e gere pontos chave
+link-preview-settings-long-press =
+    .label = Atalho: Mantenha o clique sobre o link por 1 segundo (clique longo)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Ver mais com inteligência artificial?
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = O { -brand-short-name } usa inteligência artificial para ler o início da página e gerar alguns pontos chave. Para priorizar sua privacidade, isso acontece no seu dispositivo.
 # Header for the key points section
 link-preview-key-points-header = Pontos chave
 # Disclaimer for AI-generated key points
 link-preview-key-points-disclaimer = Os pontos chave são gerados por inteligência artificial e podem conter erros.
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Pontos chave serão gerados mais rápido na próxima vez.
