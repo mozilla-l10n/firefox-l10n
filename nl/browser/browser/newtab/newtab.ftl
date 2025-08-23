@@ -612,9 +612,6 @@ newtab-trending-searches-title = Trending zoekopdrachten
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Takenlijst
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Nieuwe lijst
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = De mogelijkheden zijn eindeloos. Voeg er een toe.
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
