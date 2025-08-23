@@ -392,3 +392,15 @@ windows-10-eos-feature-toast-title = Vertikala flikar och flikgrupper är här!
 windows-10-eos-feature-toast-subtitle = På allmän begäran släppte { -brand-product-name } precis nya funktioner för att hålla din surfning strömlinjeformad och fokuserad.
 windows-10-eos-feature-toast-whats-new-button = Se vad som är nytt
 windows-10-eos-feature-toast-dismiss-button = Ignorera
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>Strikt spårningsskydd kan orsaka fel på webbplatser.</strong> Åtgärda vanliga problem genom att avblockera viktiga element som kan innehålla spårare.
+etp-strict-exceptions-infobar-learn-more = Läs mer
+etp-strict-exceptions-infobar-button = Tillämpa korrigeringar
+    .accesskey = T

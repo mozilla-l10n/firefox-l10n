@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Säg till webbplatser att inte sälja eller dela mina data
     .accesskey = S
 non-technical-privacy-header = Sekretessinställningar för webbplatsen
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Stäng
+do-not-track-removal2 =
+    .label = Vi stöder inte längre signalen "Spåra inte".
 
 ## Browser Restart Dialog
 
@@ -1266,12 +1270,27 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Lär dig mer
 content-blocking-etp-standard-tcp-title = Inkluderar totalt skydd mot kakor, vår mest kraftfulla integritetsfunktion någonsin
 content-blocking-warning-title = Se upp!
 content-blocking-and-isolating-etp-warning-description-3 = Den här inställningen kan göra att vissa webbplatser inte visar innehåll eller fungerar korrekt. Vi tillhandahåller valfria undantag för webbplatser som vi vet kan påverkas av din konfiguration. För att minska risken för trasiga webbplatser, tillåt dessa spårningsundantag. Om en webbplats verkar trasig kan du stänga av spårningsskydd för den webbplatsen för att läsa in allt innehåll och rapportera problemet så att vi kan hjälpa till att åtgärda det för alla.
+content-blocking-warning-title-2 = Vissa webbplatser kan störa det strikta spårningsskyddet
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } rekommenderar att du använder inställningarna för "Åtgärda webbplatsproblem" för att minska skadade webbplatsfunktioner och innehåll. Om en webbplats verkar trasig kan du prova att stänga av spårningsskydd för den webbplatsen för att ladda allt innehåll.
 content-blocking-and-isolating-etp-warning-description-2 = Denna inställning kan göra att vissa webbplatser inte visar innehåll eller fungerar korrekt. Om en webbplats verkar trasig kanske du vill inaktivera spårningsskydd för den webbplatsen för att ladda allt innehåll.
 content-blocking-warning-learn-how = Lär dig hur
 content-blocking-baseline-exceptions =
     .label = Tillåt { -brand-short-name } att automatiskt tillämpa undantag som krävs för att undvika större webbplatsfel.
+content-blocking-baseline-exceptions-2 =
+    .label = Hjälper till att ladda webbplatser och funktioner genom att endast avblockera viktiga element som kan innehålla spårare. Täcker de vanligaste problemen.
 content-blocking-convenience-exceptions =
     .label = Tillämpa även undantag automatiskt som bara krävs för att åtgärda mindre problem och göra bekvämlighetsfunktioner tillgängliga.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Återställer saker som videor i en artikel eller kommentarsektioner genom att avblockera element som kan innehålla spårare. Detta kan minska webbplatsproblem men ger mindre skydd. Måste användas med fixar för större problem.
+content-blocking-baseline-label = Fixa större webbplatsproblem (rekommenderas)
+content-blocking-convenience-label = Åtgärda mindre webbplatsproblem
+content-blocking-exceptions-subheader = Åtgärda webbplatsproblem
+content-blocking-baseline-uncheck-warning-dialog-title = Är du säker på att du vill inaktivera fixar?
+content-blocking-baseline-uncheck-warning-dialog-body = Den här inställningen hjälper till att åtgärda de vanligaste webbplatsproblemen. Om du stänger av den kanske vissa webbplatser inte fungerar och { -brand-short-name } kommer inte att kunna hjälpa till att felsöka dessa problemen.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Inaktivera fixningar
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Behåll fixar på
 content-blocking-reload-description = Du måste ladda om dina flikar för att kunna tillämpa ändringarna.
 content-blocking-reload-tabs-button =
     .label = Ladda om alla flikar
