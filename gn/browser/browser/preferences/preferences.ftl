@@ -70,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Mboty
+do-not-track-removal2 =
+    .label = Nañamoneĩvéima pe kuaaukaha “Ani ehapykueho”
 
 ## Browser Restart Dialog
 
@@ -1267,12 +1269,16 @@ content-blocking-etp-standard-tcp-rollout-description = Ñemo’ãmbaite kookie 
 content-blocking-etp-standard-tcp-rollout-learn-more = Kuaave
 content-blocking-etp-standard-tcp-title = Oikehápe Total Cookie Protection, ore ñemigua rembiapoite imbaretevéva ko’ag̃aite peve
 content-blocking-warning-title = ¡Ema’ẽmi!
+content-blocking-warning-title-2 = Oĩ tenda ikatúva ombyai ñemo’ã jehapykueho rehegua.
 content-blocking-and-isolating-etp-warning-description-2 = Ko ñemoĩporã ikatu peteĩva ñanduti renda ndohechaukái tetepy térã ndoikoporãmbái. Peteĩ tenda ndojehechaukaporãirõ, ikatu oipe’a ñemo’ã jehapykuehogua omyanyhẽmba hag̃ua tetepy.
 content-blocking-warning-learn-how = Mba’éichapa eikuaáta
 content-blocking-baseline-exceptions =
     .label = Emoneĩ { -brand-short-name } toku’e ijehegui tekotevẽva emboykekuaa hag̃ua ñanduti rogue jejavy guasu.
 content-blocking-convenience-exceptions =
     .label = Avei toku’e ijeheguiete umi oĩ’ỹva tekotevẽtéva apañuái’i ñemyatyrõrã ha toiko tembiapoitégui ojeporukuaáva.
+content-blocking-baseline-label = Emyatyrõ apañuái tendagua (ñemoñe’ẽmbyre)
+content-blocking-convenience-label = Emyatyrõ apañuái tendagua
+content-blocking-exceptions-subheader = Emyatyrõ tenda apañuái
 content-blocking-reload-description = Emonyhẽjeyva’erã umi tendayke oiko hag̃ua ko’ã moambuepyre.
 content-blocking-reload-tabs-button =
     .label = Embohekopyahu opaite tendayke

@@ -10,6 +10,11 @@ about-logins-login-filter =
 create-new-login-button =
     .title = Giri 'ngo riña gayi'ì sesiûn nakàa
 about-logins-page-title-name = Da'nga' huìi
+about-logins-login-filter2 =
+    .placeholder = Nānà’huì’ nej da’nga’ huìi
+    .key = F
+create-login-button =
+    .title = Gūnutà’ a’ngô da’ga’ huìi
 fxaccounts-sign-in-text = Giri da'ngā huìi da' garasunt riña a'ngo aga'aj
 fxaccounts-sign-in-sync-button = Gāyi’ì sesión da’ nāgi’iaj gūñānt
 fxaccounts-avatar-button =
@@ -24,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Asìj riña a'ngô nabe
 about-logins-menu-menuitem-import-from-a-file = Gūxūn gā’naj āsìj riña ‘ngō archivo…
 about-logins-menu-menuitem-export-logins = Dūguachîn nej riña gayì’ìt sēsiûn…
 about-logins-menu-menuitem-remove-all-logins = Nādure\’ daran\’ chre riña gayi\’ìt sēsiûn…
+about-logins-menu-menuitem-export-logins2 = Gā’nïnj gan’ānj nej da’nga’ huìi…
+about-logins-menu-menuitem-remove-all-logins2 = Nādure’ daran’ nej da’nga’ huìi…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Nej sa huaa
@@ -49,6 +56,21 @@ login-list-filtered-count =
     { $total ->
         [one] { $count } si'hiaj { $total } gayi'ì man sesiûn
        *[other] { $count } si'hiaj { $total } gayi'ì nej  man sesiûn
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } da'nga' huìi
+       *[other] { $count } nej da'nga' huìi
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } riña { $total } da'nga' huìi
+       *[other] { $count } riña { $total } nej da'nga' huìi
     }
 login-list-sort-label-text = Nagi'aj chre' da':
 login-list-name-option = Si yugui (A-Z)
