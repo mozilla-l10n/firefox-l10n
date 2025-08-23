@@ -327,3 +327,11 @@ pdfjs-editor-alt-text-settings-editor-title = Editore de testu alternativu
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Mustra deretu s’editore de testu alternativu cando siat agiunta un’immàgine
 pdfjs-editor-alt-text-settings-show-dialog-description = T’agiudat a assegurare chi totu is immàgines tuas tèngiant unu testu alternativu.
 pdfjs-editor-alt-text-settings-close-button = Serra
+
+## Dialog buttons
+
+pdfjs-editor-add-signature-cancel-button = Annulla
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-manager-cancel-button = Annulla

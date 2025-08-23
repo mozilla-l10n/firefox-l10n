@@ -5,3 +5,7 @@
 
 ### Localization for about:webauthn, a security token management page
 
+
+## Buttons
+
+about-webauthn-cancel-button = Annulla
