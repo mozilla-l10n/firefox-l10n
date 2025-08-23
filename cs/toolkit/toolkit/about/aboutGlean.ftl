@@ -29,6 +29,7 @@ about-glean-category-manual-testing = Ruční testování
 about-glean-category-adhoc-testing = Ad hoc testování
 about-glean-category-profiler = Používání Profileru
 about-glean-category-about-data = O datech
+about-glean-category-metrics-table = Tabulka metrik
 about-glean-upload-enabled = Nahrávání dat je povoleno.
 about-glean-upload-disabled = Nahrávání dat je zakázáno.
 about-glean-upload-enabled-local = Nahrávání dat je povoleno pouze pro odesílání na místní server.
@@ -148,6 +149,24 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Pro nahrání profilu výkonu a zobrazení všech zaznamenaných metrik prosím použijte 
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name(case: "acc") }</a>.
+about-glean-metrics-table-header = Všechny metriky
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategorie
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Název
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Typ
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Hodnota
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Akce
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtr
+about-glean-button-load-all = Načíst všechny hodnoty
+about-glean-button-load-value = Načíst
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumenty
+about-glean-button-watch = Sledovat
 about-glean-about-data-explanation =
     Chcete-li si prohlédnout seznam shromážděných údajů, podívejte se na stránku
     <a data-l10n-name="glean-dictionary-link">slovníku { -glean-brand-name }</a>.

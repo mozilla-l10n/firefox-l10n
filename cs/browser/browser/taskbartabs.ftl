@@ -29,3 +29,10 @@ taskbar-tab-shortcut-folder =
         [with-cases] Webová aplikace { -brand-short-name(case: "gen") }
        *[no-cases] Webová aplikace aplikace { -brand-short-name }
     }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Vypnout zvuk panelu
+taskbar-tab-audio-unmute =
+    .tooltiptext = Zapnout zvuk panelu
