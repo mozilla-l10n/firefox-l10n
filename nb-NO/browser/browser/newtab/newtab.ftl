@@ -641,6 +641,13 @@ newtab-widget-lists-input-menu-move-up = Flytt opp
 newtab-widget-lists-input-menu-move-down = Flytt ned
 newtab-widget-lists-input-menu-delete = Slett
 newtab-widget-lists-input-menu-edit = Rediger
+newtab-widget-lists-name-label-default =
+    .label = Oppgaveliste
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Oppgaveliste
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Ny liste
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
