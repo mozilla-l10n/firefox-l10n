@@ -24,3 +24,4 @@ about-glean-upload-enabled-local = رفع البيانات مفعّل فقط ل�
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>:{ $moz-official-define-value }
 about-glean-about-testing-header = حول الاختبار
 about-glean-about-data-header = حول البيانات
+about-glean-button-watch = راقب

@@ -21,13 +21,24 @@ experimental-features-group-webpage-display =
     .label = عرض صفحة الوِب
 experimental-features-group-customize-browsing =
     .label = خصّص تصفّحك
+experimental-features-group-productivity =
+    .label = الإنتاجية
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = كلمات السر في الشريط الجانبي
 experimental-features-contextual-password-manager-description = يمكنك الوصول إلى كلمات سرك مباشرةً من الشريط الجانبي. لا داعي للبحث أو إعادة تعيين كلمات السر عند الولوج. لاستخدام هذه الميزة، حدد كلمات السر من الشريط الجانبي. ثم انتقل إلى الإعدادات العامة، ومن تخطيط المتصفح، حدّد "أظهر الشريط الجانبي". ثم خصّص الشريط الجانبي باختيار كلمات السر. إذا جربتها، <a data-l10n-name="connect">أخبرنا برأيك</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = اختر خلفية أو لونًا مخصصًا للسان جديد
 # Link Previews with AI
 experimental-features-link-previews =
     .label = معاينات الروابط
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = أضف مواقع إلى شريط مهامك
+
+## New Tab Productivity Widgets
+
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = مؤقت على { -firefox-home-brand-name }

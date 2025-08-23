@@ -1284,6 +1284,13 @@ content-blocking-convenience-exceptions =
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
 content-blocking-convenience-exceptions-2 =
     .label = Gjenopprettar ting som videoar i ein artikkel eller kommentarfelt ved å oppheve blokkering av element som kan innehalde sporarar. Dette kan redusere problem på nettstadar, men gir mindre vern. Må brukast saman med fiksar for større problem.
+content-blocking-baseline-label = Fiks større nettstadsproblem (tilrådd)
+content-blocking-convenience-label = Fiks mindre nettstadsproblem
+content-blocking-exceptions-subheader = Fiks nettstadsproblem
+content-blocking-baseline-uncheck-warning-dialog-title = Er du sikker på at du vil slå av fiksane?
+content-blocking-baseline-uncheck-warning-dialog-body = Denne innstillinga bidreg til å fikse dei vanlegaste nettstadproblema. Om du slår henne av, kan det hende at nokre nettstadar ikkje fungerer, og { -brand-short-name } vil ikkje kunne hjelpe med å feilsøke desse problema.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Slå av fiksane
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Behald fiksane på
 content-blocking-reload-description = Du må oppdatere fanene dine for å kunne bruke desse endringane.
 content-blocking-reload-tabs-button =
     .label = Oppdater alle faner
