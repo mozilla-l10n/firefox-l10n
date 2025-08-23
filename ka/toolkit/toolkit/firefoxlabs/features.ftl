@@ -69,3 +69,7 @@ experimental-features-newtab-widget-lists-description = მუდამ თვ�
 experimental-features-newtab-widget-timer =
     .label = წამმზომი – { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = აითვალეთ დრო საქმის კეთებისას, რომ ყურადღება არ მოადუნოთ და სათანადოდ შეისვენოთ ძალების მოსაკრებად. <a data-l10n-name="connect">გამოხმაურება</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = სიები და წამმზომი – { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = მუდამ თვალთახედვის არეში იქონიეთ ჩამოწერილი საქმეების სია ახალი ჩანართის გახსნისას. საყიდლების ნუსხით დაწყებული, ჩასალაგებელი ბარგით დამთავრებული, ყველაფრის დაგეგმვაში დაგეხმარებათ { -brand-product-name }. დააყენეთ წამმზომი ყურადღების მოსაკრებად, საქმიდან რომ არ გადაუხვიოთ ან შეისვენოთ ხოლმე ძალების აღსადგენად. <a data-l10n-name="connect">გამოგვეხმაურეთ</a>
