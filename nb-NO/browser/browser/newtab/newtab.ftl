@@ -673,6 +673,8 @@ newtab-widget-timer-menu-learn-more = Les mer
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Rull for mer
 newtab-widget-message-title = Hold fokus med lister og en innebygd nedteller
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Fra kjappe påminnelser til daglige gjøremål, fokuserte arbeidsøkter til strekkpauser — hold deg til oppgaven og tidsplanen.
 newtab-promo-card-title = Støtt { -brand-product-name }
 newtab-promo-card-body = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett
 newtab-promo-card-cta = Les mer
