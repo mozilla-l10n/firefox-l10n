@@ -638,6 +638,13 @@ newtab-widget-lists-input-menu-move-up = Yukarı taşı
 newtab-widget-lists-input-menu-move-down = Aşağı taşı
 newtab-widget-lists-input-menu-delete = Sil
 newtab-widget-lists-input-menu-edit = Düzenle
+newtab-widget-lists-name-label-default =
+    .label = Görev listesi
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Görev listesi
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Yeni liste
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
