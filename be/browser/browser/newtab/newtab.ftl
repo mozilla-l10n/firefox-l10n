@@ -613,9 +613,6 @@ newtab-trending-searches-title = Папулярныя пошукавыя зап�
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Спіс задач
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Новы спіс
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Магчымасці бязмежныя. Дадайце яшчэ адну.
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
