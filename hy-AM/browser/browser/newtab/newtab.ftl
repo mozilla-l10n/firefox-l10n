@@ -519,10 +519,26 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+newtab-trending-searches-hide-trending =
+    .title = Թաքցնել թրենդային որոնումները
 newtab-trending-searches-learn-more = Իմանալ ավելին
+newtab-trending-searches-dismiss = Թաքցնել թրենդային որոնումները
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Թրենդային որոնումներ
 
 ## Strings for task / to-do list productivity widget
 
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Հնարավորությունները անվերջ են։ Ավելացրեք մեկը։
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Նոր
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Ավարտված է ({ $number })
 newtab-widget-task-list-menu-copy = Պատճենել
 newtab-widget-lists-menu-edit = Խմբագրել ցանկի անունը
 newtab-widget-lists-menu-create = Ստեղծել նոր ցանկ
@@ -530,6 +546,9 @@ newtab-widget-lists-menu-delete = Ջնջել այս ցանկը
 newtab-widget-lists-menu-copy = Պատճենել ցանկը սեղմատախտակին
 newtab-widget-lists-menu-hide = Թաքցնել բոլոր ցանկերը
 newtab-widget-lists-menu-learn-more = Իմանալ ավելին
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Ավելացնել միույթ
+newtab-widget-lists-input-error = Խնդրում ենք ներառել տեքստ՝ տարր ավելացնելու համար։
 newtab-widget-lists-input-menu-open-link = Բացել հղումը
 newtab-widget-lists-input-menu-move-up = Շարժել վերև
 newtab-widget-lists-input-menu-move-down = Շարժել ներքև

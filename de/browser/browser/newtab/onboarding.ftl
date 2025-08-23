@@ -359,7 +359,7 @@ onboarding-mobile-download-security-and-privacy-subtitle = Wenn du deine Daten s
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } gibt dir Rückendeckung
 onboarding-gratitude-security-and-privacy-subtitle = Vielen Dank, dass du { -brand-short-name } verwendest, unterstützt von der Mozilla Foundation. Mit deiner Unterstützung arbeiten wir daran, das Internet für alle sicherer und zugänglicher zu machen.
 # Sign up or Sign in screen
-onboarding-sign-up-title = Synchronisieren deine Daten zwischen mehreren Geräten
+onboarding-sign-up-title = Daten zwischen mehreren Geräten synchronisieren
 onboarding-sign-up-description = Erstelle ein Konto und alle deine wichtigen Daten – Passwörter, Lesezeichen und mehr – werden sicher gespeichert und verfügbar, wenn du dich auf einem beliebigen Gerät anmeldest.
 onboarding-sign-up-button = Anmelden oder registrieren
 onboarding-sign-up-secondary-button = Lossurfen
