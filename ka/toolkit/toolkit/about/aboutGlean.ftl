@@ -142,6 +142,36 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     წარმადობის პროფილის ჩასაწერად და ყველა ჩაწერილი ანაზომის სანახავად, გთხოვთ გამოიყენოთ
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = სრული აზომვები
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = ჯგუფი
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = დასახელება
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = სახეობა
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = მნიშვნელობა
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = მოქმედებები
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = დახარისხება
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = ამით შესაძლებელია ცხრილში გამორჩევა ჯგუფის, დასახელების, სახეობისა და მნიშვნელობის მიხედვით (თუ მნიშვნელობა მარტივი სახეობისაა)
+about-glean-button-load-all = ყველა მნიშვნელობის ჩატვირთვა
+about-glean-button-load-value = ჩატვირთვა
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = ცნობარი
+about-glean-button-watch = მიდევნება
+# Meaning "to stop watching"
+about-glean-button-unwatch = მიტოვება
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = მონიშნული აზომვები ჯერ არაა მხარდაჭერილი და ვერ გამოაჩენს <code>about:glean</code>.
+about-glean-unknown-metric-type-warning = აზომვის უცნობი სახეობა.
 about-glean-about-data-explanation =
     შეგროვებულ მონაცემთა ჩამონათვალის სანახავად დაიხმარეთ
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ცნობარი</a>.

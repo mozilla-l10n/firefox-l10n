@@ -114,7 +114,11 @@ profiles-yellow-theme = צהוב
 profiles-orange-theme = כתום
 profiles-red-theme = אדום
 profiles-pink-theme = ורוד
-profiles-purple-theme = סגול
+profiles-purple-theme = ארגמן
+profiles-violet-theme = סגול
+profiles-blue-theme = כחול
+profiles-green-theme = ירוק
+profiles-cyan-theme = ציאן
 
 ## Alternative text for default profile icons
 
