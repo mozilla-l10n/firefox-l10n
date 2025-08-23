@@ -139,6 +139,11 @@ genai-options-about-chatbot =
            *[no-cases] O AI chatbotech v aplikaci { -brand-short-name }
         }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Vzhledem k tomu, že stránka je dlouhá, jedná se o částečné shrnutí.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Shrnutí stránky
@@ -249,3 +254,18 @@ link-preview-reading-time =
         [many] Doba čtení: { $range } minut
        *[other] Doba čtení: { $range } minut
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Náhled tohoto odkazu nelze zobrazit
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Navštívit odkaz
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Pro tuto stránku nemůžeme generovat klíčové body.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Nastala chyba.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Zkusit znovu
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Nastavení náhledu odkazů
+# Header for the key points section
+link-preview-key-points-header = Klíčové body

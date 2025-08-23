@@ -94,7 +94,7 @@ about-glean-adhoc-note =
 about-glean-profiler-explanation =
     Kaydedilen tüm ölçümlerin tam görünümünü görmek için { -profiler-brand-name }’ı kullanabilirsiniz.
     Öncelikle <a data-l10n-name="firefox-profiler-link">bir performans profili kaydetmeniz</a> gerekir.
-    Profili kaydettikten sonra <q>İşaret Grafiği’ni</q> seçip <q>Telemetri</q> altındaki işaretçilere bakın.
+    Profili kaydettikten sonra <q>İşaret Grafiği</q>ni seçip <q>Telemetri</q> altındaki işaretçilere bakın.
 about-glean-profiler-explanation-profiler =
     Performans profilinde, toplanan tüm ölçümleri, ne zaman toplandıklarını ve tam olarak
     hangi değerlerin toplandığını görebilirsiniz. Fareyle tek tek işaretçilerin üzerine gelerek doğru değerin
