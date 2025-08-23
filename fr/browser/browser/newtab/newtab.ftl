@@ -662,6 +662,11 @@ newtab-widget-timer-menu-notifications = Désactiver les notifications
 newtab-widget-timer-menu-notifications-on = Activer les notifications
 newtab-widget-timer-menu-hide = Masquer le minuteur
 newtab-widget-timer-menu-learn-more = En savoir plus
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Faites défiler pour en voir davantage
+newtab-widget-message-title = Gardez votre concentration grâce aux listes et au minuteur intégré
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Qu’il s’agisse de rappels rapides ou de tâches quotidiennes, de sessions de réflexion ou de pauses détente, gardez le cap et respectez vos horaires.
 newtab-promo-card-title = Apportez votre soutien à { -brand-product-name }
 newtab-promo-card-body = Nos sponsors soutiennent notre mission de créer un meilleur Web
 newtab-promo-card-cta = En apprendre davantage
