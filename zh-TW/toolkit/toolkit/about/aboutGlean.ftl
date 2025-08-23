@@ -19,6 +19,7 @@ about-glean-category-manual-testing = 手動測試
 about-glean-category-adhoc-testing = 臨時測試
 about-glean-category-profiler = 使用效能分析器
 about-glean-category-about-data = 關於資料
+about-glean-category-metrics-table = 指標表
 about-glean-upload-enabled = 已啟用資料上傳。
 about-glean-upload-disabled = 已停用資料上傳。
 about-glean-upload-enabled-local = 僅允許資料上傳至本機伺服器。
@@ -81,6 +82,7 @@ about-glean-about-data-list-item-dictionary = 可參考 <a data-l10n-name="glean
 about-glean-about-data-list-item-about-telemetry = 可透過 <a data-l10n-name="about-telemetry-link">about:telemetry</a> 瀏覽傳統 Telemetry 功能收集的資料。
 about-glean-about-data-list-item-debug-ping-viewer = 可使用 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> 瀏覽除錯標籤、檢視完整的 Ping、檢視即時事件串流，或以視覺化方式檢視指標。
 about-glean-about-data-list-item-firefox-profiler = 可使用 <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a> 捕捉效能紀錄檔，並檢視所有記錄下來的指標。
+about-glean-metrics-table-header = 所有指標
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = 分類
 # This message refers to the name of a given metric.
@@ -89,6 +91,10 @@ about-glean-metrics-table-header-name = 名稱
 about-glean-metrics-table-header-type = 類型
 # This message refers to the underlying value of a given metric.
 about-glean-metrics-table-header-value = 值
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = 動作
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = 篩選條件
 about-glean-button-load-all = 載入所有值
 about-glean-button-load-value = 載入
 # "Docs" is shorthand for "documentation"
@@ -96,4 +102,7 @@ about-glean-button-dictionary-link = 文件
 about-glean-button-watch = 監看
 # Meaning "to stop watching"
 about-glean-button-unwatch = 取消監看
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = <code>about:glean</code> 檢視畫面尚不支援含有標籤的指標。
+about-glean-unknown-metric-type-warning = 指標類型未知。
 about-glean-about-data-explanation = 要瀏覽收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。

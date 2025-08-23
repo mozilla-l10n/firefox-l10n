@@ -397,6 +397,7 @@ windows-10-eos-feature-toast-dismiss-button = 知道了！
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>嚴格追蹤保護可能會造成網站故障。</strong>取消封鎖一些可能包含追蹤器的重要網頁元素，可修正常見問題。
 etp-strict-exceptions-infobar-learn-more = 更多資訊
 etp-strict-exceptions-infobar-button = 套用修正
     .accesskey = A

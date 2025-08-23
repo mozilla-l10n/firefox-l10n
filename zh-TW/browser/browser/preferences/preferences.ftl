@@ -1269,10 +1269,14 @@ content-blocking-baseline-exceptions-2 =
     .label = 不封鎖可能包含追蹤器的重要功能，以幫助載入網站內容與功能。能解決大多數常見問題。
 content-blocking-convenience-exceptions =
     .label = 也自動套用為了修正小問題、並提供各種方便功能所需的例外規則。
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = 不封鎖可能包含追蹤器的網頁元素，以恢復文章中的影片，或是留言區塊等功能。這個選項可更加減少網站問題，但同時也較無保護。必須用於修正網站的主要問題。
 content-blocking-baseline-label = 修正網站的主要問題（建議）
 content-blocking-convenience-label = 修正網站的小問題
 content-blocking-exceptions-subheader = 修正網站問題
 content-blocking-baseline-uncheck-warning-dialog-title = 您確定要關閉修正功能嗎？
+content-blocking-baseline-uncheck-warning-dialog-body = 此選項可幫助修正大部分常見的網站問題。若您關閉此選項，某些網站可能會無法正常運作，{ -brand-short-name } 也無法幫助排解這類問題。
 content-blocking-baseline-uncheck-warning-dialog-ok-button = 關閉修正
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = 保持修正
 content-blocking-reload-description = 需要重新載入分頁才能套用變更。

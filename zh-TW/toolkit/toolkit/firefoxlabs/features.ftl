@@ -69,3 +69,6 @@ experimental-features-newtab-widget-lists-description = 開啟新分頁時自動
 experimental-features-newtab-widget-timer =
     .label = { -firefox-home-brand-name } 當中的計時器
 experimental-features-newtab-widget-timer-description = 設定計時器讓您保持專心，並且搖晃視窗請您保持進度，或提醒該小歇一下了。<a data-l10n-name="connect">分享意見回饋</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = { -firefox-home-brand-name } 當中的清單與計時器
