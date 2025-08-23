@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Schließen
+do-not-track-removal2 =
+    .label = Wir unterstützen das "Do Not Track"-Signal nicht mehr
 
 ## Browser Restart Dialog
 
@@ -1272,6 +1274,9 @@ content-blocking-baseline-exceptions =
     .label = { -brand-short-name } erlauben, Ausnahmen automatisch anzuwenden, um größere Probleme mit Websites zu vermeiden.
 content-blocking-convenience-exceptions =
     .label = Wenden Sie auch automatisch Ausnahmen an, die nur erforderlich sind, um kleinere Probleme zu beheben und Komfortfunktionen zur Verfügung zu stellen.
+content-blocking-baseline-label = Größere Probleme mit Websites beheben (empfohlen)
+content-blocking-convenience-label = Kleinere Probleme mit Websites beheben
+content-blocking-exceptions-subheader = Probleme mit der Website beheben
 content-blocking-reload-description = Um die Änderungen anzuwenden, müssen alle Tabs neu geladen werden.
 content-blocking-reload-tabs-button =
     .label = Alle Tabs neu laden
