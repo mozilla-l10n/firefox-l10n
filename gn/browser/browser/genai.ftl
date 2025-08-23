@@ -231,6 +231,9 @@ link-preview-generation-retry = Eha’ãjey
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Emboheko juajuha rechaha ypy
+link-preview-settings-enable =
+    .label = Embojuruja juajuha hecha ypy
+    .description = Eikutu ápe emboguejy hag̃ua kuatiarogue reratee, hape ha hetave eiporúvo jeike pya’eha térã eikutu akatúa gotyo juajuhápe.
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Ehechave IA ndive?
 # Header for the key points section
