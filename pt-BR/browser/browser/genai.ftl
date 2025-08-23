@@ -246,9 +246,20 @@ link-preview-settings-long-press =
 link-preview-optin-title = Ver mais com inteligência artificial?
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = O { -brand-short-name } usa inteligência artificial para ler o início da página e gerar alguns pontos chave. Para priorizar sua privacidade, isso acontece no seu dispositivo.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Novidade: Mantenha o clique sobre qualquer link para visualizar
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Veja uma descrição curta, tempo de leitura e mais para decidir se o link vale a pena ser aberto. Também disponível ao clicar com o botão direito do mouse.
 # Header for the key points section
 link-preview-key-points-header = Pontos chave
 # Disclaimer for AI-generated key points
 link-preview-key-points-disclaimer = Os pontos chave são gerados por inteligência artificial e podem conter erros.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Configuração inicial • <strong>{ $progress }%</strong>
 # Message indicating faster performance after initial setup
 link-preview-setup-faster-next-time = Pontos chave serão gerados mais rápido na próxima vez.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Exibir visualização
+# Onboarding card Close button
+link-preview-onboarding-close = Fechar
