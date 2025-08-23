@@ -641,6 +641,13 @@ newtab-widget-lists-input-menu-move-up = აწევა
 newtab-widget-lists-input-menu-move-down = ჩამოწევა
 newtab-widget-lists-input-menu-delete = წაშლა
 newtab-widget-lists-input-menu-edit = ჩასწორება
+newtab-widget-lists-name-label-default =
+    .label = დავალებების სია
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = დავალებების სია
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = ახალი სია
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
