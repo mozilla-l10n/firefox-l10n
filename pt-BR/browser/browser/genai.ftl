@@ -231,4 +231,10 @@ link-preview-generation-error-unexpected = Algo deu errado.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Tentar novamente
 link-preview-settings-key-points =
-    .label = Permitir que a inteligência artificial leia o início da página e gere pontos-chave
+    .label = Permitir que a inteligência artificial leia o início da página e gere pontos chave
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = O { -brand-short-name } usa inteligência artificial para ler o início da página e gerar alguns pontos chave. Para priorizar sua privacidade, isso acontece no seu dispositivo.
+# Header for the key points section
+link-preview-key-points-header = Pontos chave
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Os pontos chave são gerados por inteligência artificial e podem conter erros.

@@ -66,6 +66,7 @@ inactive-css-cue-pseudo-element-not-supported = ::cue 伪元素不支持 <strong
 inactive-css-text-wrap-balance-lines-exceeded = 由于超过 { $lineCount } 行，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> 对此元素没有影响，因为它是分割的，即它的内容分布在多个栏或页中。
 inactive-css-no-width-height = 由于此元素的宽度和高度无法被设置，<strong>{ $property }</strong> 对此元素无效。
+inactive-css-no-principal-box = 由于不会创建主体盒子，<strong>{ $property }</strong> 对此元素无效。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -104,6 +105,7 @@ inactive-css-resize-fix = 请尝试将 <strong>overflow</strong> 的值由 <stro
 inactive-css-ruby-element-fix = 请尝试调整 ruby 文本的 <strong>font-size</strong>。{ learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = 请尝试减少行数。{ learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = 避免分割元素的内容，比如移除横栏或使用 <strong>page-break-inside:avoid</strong>。{ learn-more }
+inactive-css-no-principal-box-fix = 尝试添加一个能创建主体盒子的 <strong>display</strong> 值，例如 <strong>block</strong>、<strong>inline-block</strong>、<strong>flex</strong> 或 <strong>grid</strong>。{ learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
