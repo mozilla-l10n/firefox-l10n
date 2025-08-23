@@ -1289,6 +1289,9 @@ content-blocking-baseline-exceptions-2 =
     .label = Zběhnje blokowanje jenož wažnych elementow, kotrež móhli přesćěhowaki wobsahować, zo by pomhało, sydła a funkcije začitać. Funguje za najhusćiše problemy.
 content-blocking-convenience-exceptions =
     .label = Nałožće tež wuwzaća awtomatisce, kotrež su trěbne, zo byšće mjeńše problemy rozrisał a wužitne funkcije k dispoziciji stajił.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Wobnowja wěcy kaž wideja w nastawku abo komentarowych wotrězkach, hdyž so elementy hižo njeblokuja, kotrež móhli přesćěhowaki wobsahować. To móže sydłowe problemy redukować, skići wšak mjenje škita. Dyrbi so z rozrisanjemi za wulke problemy wužiwać.
 content-blocking-baseline-label = Wulke sydłowe problemy rozrisać (doporučene)
 content-blocking-convenience-label = Snadne sydłowe problemy rozrisać
 content-blocking-exceptions-subheader = Sydłowe problemy rozrisać
