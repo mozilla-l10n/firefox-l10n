@@ -612,9 +612,6 @@ newtab-trending-searches-title = Recercas popular
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Agenda
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Nove lista
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Le possibilitates es infinite. Adde un.
 # A simple label next to the default list name letting users know this is a new / beta feature
