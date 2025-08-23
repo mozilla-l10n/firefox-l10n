@@ -609,9 +609,6 @@ newtab-trending-searches-title = Recherches populaires
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Liste de tâches
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Nouvelle liste
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = Nouveau
