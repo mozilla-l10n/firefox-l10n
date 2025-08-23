@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = ეცნობოს ვებსაიტებს, რომ არ მსურს გაყიდონ ან გააზიარონ ჩემი მონაცემები
     .accesskey = ყ
 non-technical-privacy-header = საიტის პირადულობის პარამეტრები
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = დახურვა
+do-not-track-removal2 =
+    .label = აღარაა მხარდაჭერილი მოთხოვნა „არ მითვალთვალო“
 
 ## Browser Restart Dialog
 
@@ -1266,6 +1270,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = ვრცლად
 content-blocking-etp-standard-tcp-title = მოიცავს ფუნთუშებისგან ყოველმხრივ დაცვასაც, ჩვენს არნახულად მძლავრ საშუალებას პირადულობისთვის
 content-blocking-warning-title = ფრთხილად!
 content-blocking-and-isolating-etp-warning-description-3 = ამ პარამეტრმა შეიძლება, ზოგ ვებსაიტზე შიგთავსის გამოსახვისა და მუშაობისას გაუმართაობები წარმოშვას. დამატებით გთავაზობთ გამონაკლისად დატოვებას იმ საიტებისა, რომლებზე ზემოქმედებაც მოსალოდნელია მოცემული სახით გამართვისას. საიტებზე გაუმართაობების შესამცირებლად, დაამატეთ აღნიშნული მეთვალყურეები გამონაკლისებში. თუ საიტი მაინც არასათანადოდ მუშაობს, შეგიძლიათ საერთოდ გამორთოთ თვალთვალისგან დაცვა, რომ სრულად ჩაიტვირთოს შიგთავსი და გამოგვიგზავნოთ ხარვეზის შესახებ მოხსენება, რაც მის საყოველთაოდ გამოსწორებაში დაგვეხმარება.
+content-blocking-warning-title-2 = ზოგი საიტის გაუმართაობას შეიძლება იწვევდეს თვალთვალისგან მკაცრი დაცვა
 content-blocking-and-isolating-etp-warning-description-2 = ამ პარამეტრებმა შეიძლება გამოიწვიოს გაუმართაობები ზოგიერთი საიტის შიგთავსის ჩვენებასა და მუშაობაში. თუ საიტი დაზიანდება, მოგიწევთ მისი გამოთიშვა თვალთვალისგან დაცვიდან შიგთავსის სრულად ჩასატვირთად.
 content-blocking-warning-learn-how = იხილეთ როგორ
 content-blocking-baseline-exceptions =

@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = ოკეანისფერი
 profiles-terracotta-theme-2 = აგურისფერი
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = ხავსისფერი
+profiles-gray-theme = რუხი
+profiles-yellow-theme = ყვითელი
+profiles-orange-theme = ნარინჯისფერი
+profiles-red-theme = წითელი
+profiles-pink-theme = ვარდისფერი
+profiles-purple-theme = მოიისფრო
+profiles-violet-theme = იისფერი
+profiles-blue-theme = ლურჯი
+profiles-green-theme = მწვანე
+profiles-cyan-theme = მოცისფრო
 
 ## Alternative text for default profile icons
 

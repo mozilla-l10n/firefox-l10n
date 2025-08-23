@@ -392,3 +392,15 @@ windows-10-eos-feature-toast-title = შვეული ჩანართებ
 windows-10-eos-feature-toast-subtitle = ხალხის მოთხოვნით { -brand-product-name } ამატებს ახალ შესაძლებლობებს გვერდების იოლად მონახულებისა და მეტად შედეგიანად საქმიანობისთვის.
 windows-10-eos-feature-toast-whats-new-button = გაეცანით სიახლეებს
 windows-10-eos-feature-toast-dismiss-button = აცილება
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>თვალთვალისგან მკაცრმა დაცვამ შესაძლოა საიტების გაუმართაობა გამოიწვიოს.</strong> გამოასწორეთ გავრცელებული ხარვეზები მეთვალყურეთა შემცველ აუცილებელ ნაწილებზე შეზღუდვების მოხსნით.
+etp-strict-exceptions-infobar-learn-more = ვრცლად
+etp-strict-exceptions-infobar-button = გამოსწორება
+    .accesskey = წ
