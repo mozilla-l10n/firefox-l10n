@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = 웹 사이트에 내 데이터를 판매하거나 공유하지 말라고 요청
     .accesskey = s
 non-technical-privacy-header = 웹 사이트 개인 정보 보호 설정
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = 닫기
+do-not-track-removal2 =
+    .label = "추적 안 함" 신호를 더 이상 지원하지 않음
 
 ## Browser Restart Dialog
 
@@ -1250,12 +1254,23 @@ content-blocking-etp-standard-tcp-rollout-learn-more = 더 알아보기
 content-blocking-etp-standard-tcp-title = 가장 강력한 개인 정보 보호 기능인 전체 쿠키 보호 포함
 content-blocking-warning-title = 주의하세요!
 content-blocking-and-isolating-etp-warning-description-3 = 이 설정으로 인해 일부 웹 사이트는 콘텐츠를 표시하지 않거나 제대로 작동하지 않을 수 있습니다. 사용자 설정의 영향을 받을 수 있는 웹사이트에 대해서는 선택적 예외를 제공하고 있습니다. 웹 사이트가 깨질 가능성을 줄이려면 다음 추적기 예외를 허용하세요. 사이트가 손상된 것처럼 보이면 해당 사이트의 추적 방지 기능을 해제하여 모든 콘텐츠를 로드하고 모든 사용자를 위해 문제를 해결할 수 있도록 문제를 보고할 수 있습니다.
+content-blocking-warning-title-2 = 일부 사이트는 엄격한 추적 방지 기능으로 인해 작동하지 않을 수 있음
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name }는 손상된 사이트 기능 및 콘텐츠를 줄이기 위해 "사이트 문제 해결" 설정을 사용할 것을 권장합니다. 사이트가 손상된 것 같으면 해당 사이트에 대한 추적 방지 기능을 해제하여 모든 콘텐츠를 로드해 보세요.
 content-blocking-and-isolating-etp-warning-description-2 = 이 설정으로 인해 일부 웹 사이트가 콘텐츠를 표시하지 않거나 제대로 작동하지 않을 수 있습니다. 사이트가 손상된 것 같으면 해당 사이트에 대한 추적 방지 기능을 해제하여 모든 콘텐츠를 로드할 수 있습니다.
 content-blocking-warning-learn-how = 방법 알아보기
 content-blocking-baseline-exceptions =
     .label = { -brand-short-name }가 주요 웹 사이트 손상을 방지하는 데 필요한 예외를 자동으로 적용하도록 허용합니다.
+content-blocking-baseline-exceptions-2 =
+    .label = 추적기가 포함되어 있을 수 있는 필수 요소만 차단 해제하여 사이트와 기능을 로드하는 데 도움을 줍니다. 가장 일반적인 문제를 다룹니다.
 content-blocking-convenience-exceptions =
     .label = 또한 사소한 문제를 해결하고 편의 기능을 사용할 수 있도록 하는 데에만 필요한 예외를 자동으로 적용합니다.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = 추적기를 포함할 수 있는 요소를 차단 해제하여 글이나 댓글 섹션의 동영상과 같은 것을 복원합니다. 이렇게 하면 사이트 문제를 줄일 수 있지만 보호 수준은 낮습니다. 주요 문제에 대한 수정 사항과 함께 사용해야 합니다.
+content-blocking-baseline-label = 주요 사이트 문제 해결 (권장)
+content-blocking-convenience-label = 사소한 사이트 문제 해결
+content-blocking-exceptions-subheader = 사이트 문제 해결
 content-blocking-reload-description = 변경 사항을 적용하려면 탭을 다시 로드해야 합니다.
 content-blocking-reload-tabs-button =
     .label = 모든 탭 새로 고침

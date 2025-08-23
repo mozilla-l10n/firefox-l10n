@@ -164,6 +164,9 @@ about-glean-button-load-all = 모든 값 로드
 about-glean-button-load-value = 로드
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = 문서
+about-glean-button-watch = 조사
+# Meaning "to stop watching"
+about-glean-button-unwatch = 조사 해제
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = 레이블이 지정된 메트릭은 아직 <code>about:glean</code> 보기에서 지원되지 않습니다.
 about-glean-unknown-metric-type-warning = 알 수 없는 메트릭 유형입니다.
