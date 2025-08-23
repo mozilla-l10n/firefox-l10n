@@ -5,7 +5,7 @@
 crashreporter-branded-title = { -brand-short-name } - rozprawjak spadow
 crashreporter-apology = Je nam žel
 crashreporter-crashed-and-restore = { -brand-short-name } měješe problem a spadny. Pospytujemy waše rajtarki a wokno wobnowić, hdyž znowa startuje.
-crashreporter-plea = Zo byšće nam pomhał problem diagnosticěrować a porjedźić, móžeće nam rozprawu wo spadźe pósłać.
+crashreporter-plea = Zo byšće nam pomhał problem diagnosticěrować a rozrisać, móžeće nam rozprawu wo spadźe pósłać.
 crashreporter-information = Tute nałoženje je po spadźe běžało, zo by { -vendor-short-name } problem zdźěliło.  Njeměło direktnje běžeć.
 crashreporter-error = { -brand-short-name } měješe problem a je spadnyło. Bohužel rozprawjak spadow njemóžeše rozprawu wo tutym spadźe pósłać.
 crashreporter-error-details-header = Podrobnosće:

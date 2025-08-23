@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Clauder
+do-not-track-removal2 =
+    .label = Le signal “Non me traciar” non es plus supportate
 
 ## Browser Restart Dialog
 

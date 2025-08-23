@@ -133,6 +133,25 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     For å registrere en ytelsesprofil og se alle registrerte målinger, bruk
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategori
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Navn
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Type
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Verdi
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Handlinger
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filter
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Dette vil filtrere tabellen nedenfor basert på kategori, navn, type og verdi (hvis verdien er en enkel type).
 about-glean-about-data-explanation =
     For å se gjennom listen over innsamlede data, se
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.
