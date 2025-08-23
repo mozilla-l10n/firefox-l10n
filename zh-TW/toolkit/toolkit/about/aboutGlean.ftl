@@ -81,4 +81,19 @@ about-glean-about-data-list-item-dictionary = 可參考 <a data-l10n-name="glean
 about-glean-about-data-list-item-about-telemetry = 可透過 <a data-l10n-name="about-telemetry-link">about:telemetry</a> 瀏覽傳統 Telemetry 功能收集的資料。
 about-glean-about-data-list-item-debug-ping-viewer = 可使用 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> 瀏覽除錯標籤、檢視完整的 Ping、檢視即時事件串流，或以視覺化方式檢視指標。
 about-glean-about-data-list-item-firefox-profiler = 可使用 <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a> 捕捉效能紀錄檔，並檢視所有記錄下來的指標。
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = 分類
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = 名稱
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = 類型
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = 值
+about-glean-button-load-all = 載入所有值
+about-glean-button-load-value = 載入
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = 文件
+about-glean-button-watch = 監看
+# Meaning "to stop watching"
+about-glean-button-unwatch = 取消監看
 about-glean-about-data-explanation = 要瀏覽收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。

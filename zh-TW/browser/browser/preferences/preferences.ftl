@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = 告訴網站不要銷售或分享我的資料
     .accesskey = s
 non-technical-privacy-header = 網站隱私權偏好設定
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -1260,6 +1262,12 @@ content-blocking-baseline-exceptions =
     .label = 允許 { -brand-short-name } 自動套用必要的例外規則，以避免主要網站故障。
 content-blocking-convenience-exceptions =
     .label = 也自動套用為了修正小問題、並提供各種方便功能所需的例外規則。
+content-blocking-baseline-label = 修正網站的主要問題（建議）
+content-blocking-convenience-label = 修正網站的小問題
+content-blocking-exceptions-subheader = 修正網站問題
+content-blocking-baseline-uncheck-warning-dialog-title = 您確定要關閉修正功能嗎？
+content-blocking-baseline-uncheck-warning-dialog-ok-button = 關閉修正
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = 保持修正
 content-blocking-reload-description = 需要重新載入分頁才能套用變更。
 content-blocking-reload-tabs-button =
     .label = 重新載入所有分頁
