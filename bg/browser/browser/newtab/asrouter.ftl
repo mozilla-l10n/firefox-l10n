@@ -68,6 +68,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Синхронизиране на отм
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Бутон за затваряне
     .title = Затваряне
+fxa-adoption-primary-button-label = Регистриране
 
 ## Protections panel
 
@@ -310,6 +311,7 @@ fxa-menu-message-close-button =
     .title = Затваряне
     .aria-label = Затваряне
 fxa-menu-message-sign-up-button = Регистриране
+fxa-menu-message-sign-in-button = Вписване
 fxa-menu-message-sync-devices-primary-text = Синхронизирайте устройствата си
 fxa-menu-message-sync-devices-secondary-text = Незабавно получавайте информацията си – като отметки и пароли – навсякъде, където използвате { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Синхронизирайте устройствата си
@@ -342,3 +344,7 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Дръжте любимия си насочен към поверителността мрежов четец само на щракване разстояние. Задайте { -brand-short-name } подразбиран четец и го дръжте на лентата със задачи.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Дръжте любимия си насочен към поверителността мрежов четец само на щракване разстояние. Задайте { -brand-short-name } подразбиран четец и го дръжте на лентата със задачи и в менюто Start.
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-dismiss-button = Прекратяване

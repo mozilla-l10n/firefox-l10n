@@ -68,6 +68,7 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Добавяне на отметка
 bookmarks-toolbar-callout-1-secondary-button-label = Не, благодаря
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Лесно добавяне на повече отметки
@@ -106,6 +107,7 @@ fxa-adoption-passwords-primary-button-label = Регистриране
 
 windows-10-eos-sync-urgency-title-1 = Не губете всичко запазено, когато преминете към Windows 11.
 windows-10-eos-sync-urgency-title-2 = Сбогуване с Windows 10? Защитете данните си, когато го направите.
+windows-10-eos-sync-new-device-primary-label = Синхронизиране
 
 ## Sidebar Strings
 
