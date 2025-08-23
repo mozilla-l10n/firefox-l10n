@@ -109,6 +109,15 @@ profiles-ocean-theme-2 = 바다 파랑
 profiles-terracotta-theme-2 = 벽돌 빨강
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = 이끼 녹색
+profiles-gray-theme = 회색
+profiles-yellow-theme = 노란색
+profiles-orange-theme = 주황색
+profiles-red-theme = 빨간색
+profiles-pink-theme = 분홍색
+profiles-purple-theme = 보라색
+profiles-blue-theme = 파란색
+profiles-green-theme = 녹색
+profiles-cyan-theme = 청록색
 
 ## Alternative text for default profile icons
 
