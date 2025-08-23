@@ -616,9 +616,6 @@ newtab-trending-searches-title = Populära sökningar
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Uppgiftslista
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Ny lista
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Möjligheterna är oändliga. Lägg till en.
 # A simple label next to the default list name letting users know this is a new / beta feature
@@ -645,6 +642,13 @@ newtab-widget-lists-input-menu-move-up = Flytta upp
 newtab-widget-lists-input-menu-move-down = Flytta ned
 newtab-widget-lists-input-menu-delete = Ta bort
 newtab-widget-lists-input-menu-edit = Redigera
+newtab-widget-lists-name-label-default =
+    .label = Uppgiftslista
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Uppgiftslista
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Ny lista
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

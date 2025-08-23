@@ -612,9 +612,6 @@ newtab-trending-searches-title = Ҷустуҷӯҳои ҳавасангез
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Рӯйхати вазифаҳо
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Рӯйхати нав
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Имкониятҳо беохиранд. Вазифаи дилхоҳро илова намоед.
 # A simple label next to the default list name letting users know this is a new / beta feature
@@ -638,6 +635,13 @@ newtab-widget-lists-input-menu-move-up = Ба боло гузоштан
 newtab-widget-lists-input-menu-move-down = Ба поён гузоштан
 newtab-widget-lists-input-menu-delete = Нест кардан
 newtab-widget-lists-input-menu-edit = Таҳрир кардан
+newtab-widget-lists-name-label-default =
+    .label = Рӯйхати вазифаҳо
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Рӯйхати вазифаҳо
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Рӯйхати нав
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

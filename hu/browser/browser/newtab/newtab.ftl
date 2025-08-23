@@ -616,9 +616,6 @@ newtab-trending-searches-title = Felkapott keresések
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Feladatlista
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Új lista
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = A lehetőségek végtelenek. Adjon hozzá egyet.
 # A simple label next to the default list name letting users know this is a new / beta feature
@@ -643,6 +640,13 @@ newtab-widget-lists-input-menu-move-up = Mozgatás felfelé
 newtab-widget-lists-input-menu-move-down = Mozgatás lefelé
 newtab-widget-lists-input-menu-delete = Törlés
 newtab-widget-lists-input-menu-edit = Szerkesztés
+newtab-widget-lists-name-label-default =
+    .label = Feladatlista
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Feladatlista
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Új lista
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

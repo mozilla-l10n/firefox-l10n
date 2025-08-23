@@ -613,9 +613,6 @@ newtab-trending-searches-title = Папулярныя пошукавыя зап�
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Спіс задач
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Новы спіс
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Магчымасці бязмежныя. Дадайце яшчэ адну.
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
@@ -635,6 +632,13 @@ newtab-widget-lists-input-menu-move-up = Рухаць угору
 newtab-widget-lists-input-menu-move-down = Рухаць уніз
 newtab-widget-lists-input-menu-delete = Выдаліць
 newtab-widget-lists-input-menu-edit = Змяніць
+newtab-widget-lists-name-label-default =
+    .label = Спіс задач
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Спіс задач
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Новы спіс
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

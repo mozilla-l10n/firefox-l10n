@@ -610,9 +610,6 @@ newtab-trending-searches-title = חיפושים פופולריים
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = רשימת משימות
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = רשימה חדשה
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = האפשרויות הן אינסופיות. בואו ונוסיף אחת כזאת.
 # A simple label next to the default list name letting users know this is a new / beta feature
@@ -639,6 +636,13 @@ newtab-widget-lists-input-menu-move-up = להזיז מעלה
 newtab-widget-lists-input-menu-move-down = להזיז מטה
 newtab-widget-lists-input-menu-delete = מחיקה
 newtab-widget-lists-input-menu-edit = עריכה
+newtab-widget-lists-name-label-default =
+    .label = רשימת משימות
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = רשימת משימות
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = רשימה חדשה
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

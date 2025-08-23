@@ -398,6 +398,9 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Celestial
+
+
 ## New Tab Weather
 
 # Variables:
@@ -498,6 +501,15 @@ newtab-section-mangage-topics-followed-topics = Հետևված
 newtab-section-mangage-topics-blocked-topics = Արգելափակված
 newtab-custom-wallpaper-cta = Փորձել
 
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-ads-reason-inappropriate =
@@ -523,9 +535,6 @@ newtab-trending-searches-learn-more = Իմանալ ավելին
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Առաջադրանքների ցանկ
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Նոր ցանկ
 newtab-widget-task-list-menu-copy = Պատճենել
 newtab-widget-lists-menu-edit = Խմբագրել ցանկի անունը
 newtab-widget-lists-menu-create = Ստեղծել նոր ցանկ
@@ -538,6 +547,13 @@ newtab-widget-lists-input-menu-move-up = Շարժել վերև
 newtab-widget-lists-input-menu-move-down = Շարժել ներքև
 newtab-widget-lists-input-menu-delete = Ջնջել
 newtab-widget-lists-input-menu-edit = Խմբագրել
+newtab-widget-lists-name-label-default =
+    .label = Առաջադրանքների ցանկ
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Առաջադրանքների ցանկ
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Նոր ցանկ
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

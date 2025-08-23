@@ -615,9 +615,6 @@ newtab-trending-searches-title = 인기 검색어
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = 작업 목록
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = 새 목록
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = 가능성은 무한합니다. 하나를 추가하세요.
 # A simple label next to the default list name letting users know this is a new / beta feature
@@ -644,6 +641,13 @@ newtab-widget-lists-input-menu-move-up = 위로 이동
 newtab-widget-lists-input-menu-move-down = 아래로 이동
 newtab-widget-lists-input-menu-delete = 삭제
 newtab-widget-lists-input-menu-edit = 편집
+newtab-widget-lists-name-label-default =
+    .label = 작업 목록
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = 작업 목록
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = 새 목록
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

@@ -621,9 +621,6 @@ newtab-trending-searches-title = Tueddiadau chwilio
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Rhestr tasgau
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Rhestr newydd
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Mae'r posibiliadau'n ddiddiwedd. Ychwanegwch un.
 # A simple label next to the default list name letting users know this is a new / beta feature
@@ -650,6 +647,13 @@ newtab-widget-lists-input-menu-move-up = Symud i fyny
 newtab-widget-lists-input-menu-move-down = Symud i lawr
 newtab-widget-lists-input-menu-delete = Dileu
 newtab-widget-lists-input-menu-edit = Golygu
+newtab-widget-lists-name-label-default =
+    .label = Rhestr tasgau
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Rhestr tasgau
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Rhestr newydd
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

@@ -618,9 +618,6 @@ newtab-trending-searches-title = Woblubowane pytanja
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Lisćiny nadawkow
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Nowa lisćina
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Móžnosći su njelicne. Pśidajśo jaden nadawk.
 # A simple label next to the default list name letting users know this is a new / beta feature
@@ -647,6 +644,13 @@ newtab-widget-lists-input-menu-move-up = Górjej
 newtab-widget-lists-input-menu-move-down = Dołoj
 newtab-widget-lists-input-menu-delete = Lašowaś
 newtab-widget-lists-input-menu-edit = Wobźěłaś
+newtab-widget-lists-name-label-default =
+    .label = Lisćiny nadawkow
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Lisćiny nadawkow
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Nowa lisćina
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

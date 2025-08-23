@@ -616,9 +616,6 @@ newtab-trending-searches-title = Δημοφιλείς αναζητήσεις
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Λίστα εργασιών
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Νέα λίστα
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Οι δυνατότητες είναι απεριόριστες. Προσθέστε μια νέα.
 # A simple label next to the default list name letting users know this is a new / beta feature
@@ -643,6 +640,13 @@ newtab-widget-lists-input-menu-move-up = Μετακίνηση πάνω
 newtab-widget-lists-input-menu-move-down = Μετακίνηση κάτω
 newtab-widget-lists-input-menu-delete = Διαγραφή
 newtab-widget-lists-input-menu-edit = Επεξεργασία
+newtab-widget-lists-name-label-default =
+    .label = Λίστα εργασιών
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Λίστα εργασιών
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Νέα λίστα
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

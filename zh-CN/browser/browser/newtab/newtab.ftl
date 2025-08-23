@@ -611,9 +611,6 @@ newtab-trending-searches-title = 热门搜索
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = 任务列表
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = 新列表
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = 立即添加任务，开启无限可能。
 # A simple label next to the default list name letting users know this is a new / beta feature
@@ -640,6 +637,13 @@ newtab-widget-lists-input-menu-move-up = 上移
 newtab-widget-lists-input-menu-move-down = 下移
 newtab-widget-lists-input-menu-delete = 删除
 newtab-widget-lists-input-menu-edit = 编辑
+newtab-widget-lists-name-label-default =
+    .label = 任务列表
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = 任务列表
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = 新列表
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

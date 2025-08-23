@@ -613,9 +613,6 @@ newtab-trending-searches-title = Căutări în tendințe
 
 ## Strings for task / to-do list productivity widget
 
-newtab-widget-lists-default-list-title = Listă de sarcini
-# The placeholder value of the name field for a newly created list
-newtab-widget-lists-default-list-new = Listă nouă
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Posibilitățile sunt nelimitate. Adaugă una.
 # A simple label next to the default list name letting users know this is a new / beta feature
@@ -642,6 +639,13 @@ newtab-widget-lists-input-menu-move-up = Mută în sus
 newtab-widget-lists-input-menu-move-down = Mută în jos
 newtab-widget-lists-input-menu-delete = Șterge
 newtab-widget-lists-input-menu-edit = Editează
+newtab-widget-lists-name-label-default =
+    .label = Listă de sarcini
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Listă de sarcini
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Listă nouă
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
