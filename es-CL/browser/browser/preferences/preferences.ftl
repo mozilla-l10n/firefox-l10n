@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Decir a los sitios web que no vendan ni compartan mis datos
     .accesskey = s
 non-technical-privacy-header = Preferencias de privacidad del sitio web
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -1272,6 +1274,8 @@ content-blocking-baseline-exceptions =
     .label = Permitir que { -brand-short-name } aplique automáticamente las excepciones necesarias para evitar fallas importantes del sitio web.
 content-blocking-convenience-exceptions =
     .label = También se aplican automáticamente excepciones que solo son necesarias para solucionar problemas menores y hacer que estén disponibles funciones convenientes.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Desactivar correcciones
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Mantener correcciones activadas
 content-blocking-reload-description = Tendrás que recargar tus pestañas para aplicar estos cambios.
 content-blocking-reload-tabs-button =
     .label = Recargar todas las pestañas
