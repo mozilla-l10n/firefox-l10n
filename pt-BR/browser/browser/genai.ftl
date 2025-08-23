@@ -222,3 +222,13 @@ link-preview-reading-time =
         [one] { $range } minuto de tempo de leitura
        *[other] { $range } minutos de tempo de leitura
     }
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Visitar link
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Não foi possível gerar pontos chave desta página.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Algo deu errado.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Tentar novamente
+link-preview-settings-key-points =
+    .label = Permitir que a inteligência artificial leia o início da página e gere pontos-chave
