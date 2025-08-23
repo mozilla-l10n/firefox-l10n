@@ -235,5 +235,7 @@ link-preview-generation-retry = Erneut versuchen
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Einstellungen für die Link-Vorschau
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } verwendet KI, um den Anfang der Seite zu lesen und ein paar Stichpunkte zu generieren. Um den Schutz Ihrer Daten zu gewährleisten, erfolgt dies auf Ihrem Gerät.
 # Onboarding card Close button
 link-preview-onboarding-close = Schließen

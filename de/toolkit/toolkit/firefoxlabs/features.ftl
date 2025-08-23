@@ -55,4 +55,4 @@ experimental-features-newtab-sections-follow-block-description = Gliedern Sie di
 experimental-features-fx-web-apps =
     .label = Websites zur Taskleiste hinzufügen
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
-experimental-features-fx-web-apps-description = Öffnen Sie Websites, die Sie häufig besuchen, als Web-App aus Ihrer Taskleiste. Suchen Sie nach dem Symbol "Tab zur Taskleiste hinzufüge" rechts von der Adressleiste, um die Website in einem optimierten Fenster und mit allen Schutzmaßnahmen von { -brand-product-name } zu öffnen. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
+experimental-features-fx-web-apps-description = Öffnen Sie Websites, die Sie häufig besuchen, als Web-App aus Ihrer Taskleiste. Suchen Sie nach dem Symbol "Tab zur Taskleiste hinzufügen" rechts von der Adressleiste, um die Website in einem optimierten Fenster und mit allen Schutzmaßnahmen von { -brand-product-name } zu öffnen. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
