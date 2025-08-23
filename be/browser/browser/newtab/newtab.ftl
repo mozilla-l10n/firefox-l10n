@@ -632,6 +632,13 @@ newtab-widget-lists-input-menu-move-up = Рухаць угору
 newtab-widget-lists-input-menu-move-down = Рухаць уніз
 newtab-widget-lists-input-menu-delete = Выдаліць
 newtab-widget-lists-input-menu-edit = Змяніць
+newtab-widget-lists-name-label-default =
+    .label = Спіс задач
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Спіс задач
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Новы спіс
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
