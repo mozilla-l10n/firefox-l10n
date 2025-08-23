@@ -1271,6 +1271,16 @@ content-blocking-baseline-exceptions =
     .label = לאפשר ל־{ -brand-short-name } להחיל באופן אוטומטי חריגות הנדרשות כדי להימנע משבירה של אתרים.
 content-blocking-convenience-exceptions =
     .label = להחיל באופן אוטומטי גם חריגות הנדרשות לתקן בעיות קלות ולהפוך תכונות נוחיות לזמינות.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = משחזר דברים כמו סרטונים במאמר או מקטעי תגובות על־ידי ביטול חסימה של אלמנטים שעשויים להכיל רכיבי מעקב. פעולה זו יכולה להפחית בעיות באתרים אך מציעה הגנה פחותה יותר. יש להשתמש בו עם תיקונים לבעיות משמעותיות.
+content-blocking-baseline-label = תיקון בעיות משמעותיות באתרים (מומלץ)
+content-blocking-convenience-label = תיקון בעיות קלות באתרים
+content-blocking-exceptions-subheader = תיקון בעיות באתרים
+content-blocking-baseline-uncheck-warning-dialog-title = האם ברצונך לכבות את התיקונים?
+content-blocking-baseline-uncheck-warning-dialog-body = הגדרה זו מסייעת לתקן את בעיות האתרים הנפוצות ביותר. אם הגדרה זו תכובה, ייתכן שחלק מהאתרים לא יפעלו, ו־{ -brand-short-name } לא יוכל לסייע בפתרון בעיות אלו.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = כיבוי התיקונים
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = להשאיר את התיקונים פעילים
 content-blocking-reload-description = יהיה עליך לטעון מחדש את הלשוניות שלך כדי להחיל שינויים אלו.
 content-blocking-reload-tabs-button =
     .label = טעינת כל הלשוניות מחדש

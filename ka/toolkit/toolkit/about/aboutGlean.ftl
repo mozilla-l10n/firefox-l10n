@@ -21,6 +21,7 @@ about-glean-category-manual-testing = ხელით შემოწმებ�
 about-glean-category-adhoc-testing = საგანგებო შემოწმება
 about-glean-category-profiler = დაიხმარეთ Profilier
 about-glean-category-about-data = მონაცემთა შესახებ
+about-glean-category-metrics-table = აზოვმების ცხრილი
 about-glean-upload-enabled = მონაცემთა ატვირთვა ჩართულია.
 about-glean-upload-disabled = მონაცემთა ატვირთვა გამორთულია.
 about-glean-upload-enabled-local = მონაცემთა ატვირთვა ჩართულია მხოლოდ ადგილობრივ სერვერზე გასაგზავნად.
@@ -105,8 +106,8 @@ about-glean-adhoc-explanation2 =
     გაზომვის დასახელებისთვის <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
-    გაითვალისწინეთ, რომ Glean JS API გამოყენება devtools-ის ბრძანებებისას.
-    ეს ნიშნავს, რომ აზომვების ჯგუფისა და აზომვების დასახელების გაფორმებაა
+    გაითვალისწინეთ, რომ Glean JS API გამოყენება ხელსაწყოთა ველის ბრძანებებში.
+    ეს ნიშნავს, რომ აზომვების ჯგუფისა და აზომვების დასახელების გაფორმებისთვის გამოიყენება
     <code>camelCase</code> განსხვავებით Rust და C++ API-ებისგან.
 about-glean-profiler-explanation =
     ყველა ჩაწერილი მაჩვენებლის სრულად სანახავად შეგიძლიათ გამოიყენოთ { -profiler-brand-name }.
@@ -129,13 +130,13 @@ about-glean-about-data-description-list-intro =
     გთხოვთ გაითვალისწინოთ ქვემოთ სია, რომელი ცალკეული
     შემთხვევისთვისაა შესაბამისი ხელსაწყო:
 about-glean-about-data-list-item-dictionary =
-    სიის სანახავად მონაცემებისა, რომელთაც { -glean-brand-name } აგროვებს ცალკეული პროგრამაში, დაიხმარეთ
+    სიის სანახავად მონაცემებისა, რომელთაც { -glean-brand-name } აგროვებს ცალკეულ პროგრამაში, დაიხმარეთ
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ცნობარი</a>.
 about-glean-about-data-list-item-about-telemetry =
     მოძველებული აზომვების შედეგად აღრიცხული მონაცემებისთვის გთხოვთ იხილოთ
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer =
-    გამართვის ჭდეების, სრული კრებულის, პირდაპირი ღონისძიებების ნაკადის ან აზომვების გამოსახულების
+    გამართვის ჭდეების, სრული კრებულების, პირდაპირი ეთერების ან აზომვების გამოსახულების
     სანახავად გამოგადგებათ
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler =
