@@ -69,7 +69,7 @@ firefoxview-tabpickup-signed-out-header = Accede pro reconnecter te
 firefoxview-tabpickup-signed-out-description = Pro reconnecter te e recuperar tu schedas, accede a tu { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Pro reconnecter te e recuperar tu schedas, accede a tu conto.
 firefoxview-tabpickup-signed-out-primarybutton = Acceder
-firefoxview-tabpickup-syncing = Sta sedite dum tu schedas se synchronisa. Il essera solo un momento.
+firefoxview-tabpickup-syncing = Sia patiente durante que tu schedas se synchronisa. Isto prendera solo un momento.
 firefoxview-mobile-promo-header = Accede al schedas aperte ab tu telephono o tabletta
 firefoxview-mobile-promo-description = Pro vider tu ultime schedas mobile, accede a { -brand-product-name } sur iOS o Android.
 firefoxview-mobile-promo-primarybutton = Installa { -brand-product-name } pro mobile
@@ -203,7 +203,7 @@ firefoxview-show-all-history = Monstrar tote le chronologia
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Retorna ubi tu era
-firefoxview-history-empty-description = Dum tu naviga, le paginas que tu visita sera listate ci.
+firefoxview-history-empty-description = Durante que tu naviga, le paginas que tu visita sera listate ci.
 firefoxview-history-empty-description-two = Proteger tu confidentialitate es al corde de lo que nos face. Pro isto tu pote controlar le activitate que { -brand-short-name } rememora, in tu <a data-l10n-name="history-settings-url">parametros de chronologia</a>.
 
 ##

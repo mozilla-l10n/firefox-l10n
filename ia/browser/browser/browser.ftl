@@ -984,7 +984,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Clauder Imagine annidate ({ $shortcut })
 picture-in-picture-panel-header = Imagine-in-imagine
 picture-in-picture-panel-headline = Iste sito web non recommenda Imagine annidate
-picture-in-picture-panel-body = Le videos poterea non apparer como lor disveloppator desirava dum Imagine annidate es activate.
+picture-in-picture-panel-body = Le videos poterea non apparer como lor disveloppator desirava durante que Imagine annidate es activate.
 picture-in-picture-enable-toggle =
     .label = Activar comocunque
 

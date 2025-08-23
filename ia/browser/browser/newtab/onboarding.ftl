@@ -203,7 +203,7 @@ mr2022-onboarding-existing-pin-header = Gratias pro amar { -brand-product-name }
 mr2022-onboarding-existing-pin-subtitle = Lancea un internet plus san de ubique con un sol clic. Nostre ultime actualisation es plen de nove cosas que nos pensa tu adorara.
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
-mr2022-onboarding-existing-set-default-only-subtitle = Usa un navigator que defende tu confidentialitate dum tu ambula circum le web. Nostre ultime actualisation es plen de cosas que tu adora.
+mr2022-onboarding-existing-set-default-only-subtitle = Usa un navigator que defende tu confidentialitate durante que tu naviga per le web. Nostre ultime actualisation es plen de cosas que tu adora.
 mr2022-onboarding-existing-pin-checkbox-label = Adde equalmente le navigation private de { -brand-short-name }
 
 ## MR2022 New User Set Default screen strings
@@ -352,7 +352,7 @@ amo-picker-collection-link = Discoperi altere additivos
 onboarding-easy-setup-security-and-privacy-title = A nos place mantener te secur
 onboarding-easy-setup-security-and-privacy-subtitle = Nostre navigator supportate per un organisation sin fin d lucro adjuta stoppar le companias de sequer secretemente tu movimentos circum le web.
 # Mobile download screen
-onboarding-mobile-download-security-and-privacy-title = Resta cryptate dum tu passa inter tu apparatos
+onboarding-mobile-download-security-and-privacy-title = Resta cryptate durante que tu passa inter apparatos
 onboarding-mobile-download-security-and-privacy-subtitle = Quando tu es synchronisate, { -brand-short-name } crypta tu contrasignos, marcapaginas, e altero. In addition tu pote recuperar le schedas de tu altere apparatos.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } es tu supporto
