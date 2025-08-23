@@ -1278,7 +1278,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Dalše informacije
 content-blocking-etp-standard-tcp-title = Wobsahuje dospołny škit před plackami, naša najmóčniša funkcija priwatnosće docyła
 content-blocking-warning-title = Kedźbu!
 content-blocking-and-isolating-etp-warning-description-3 = Tute nastajenje móhło zawinować, zo někotre websydła wobsah njepokazuja abo korektnje njefunguja. Skićimy opcionalne wuwzaća za websydła, wo kotrychž wěmy, zo hodźa so přez wašu konfiguraciju wobwliwować. Zo byšće skóncowane websydła redukował, zmóžńće tute wuwzaća za přesćěhowaki. Jeli so zda, zo sydło je skóncowane, móžeće škit přećiwo slědowanju za te sydło znjemóžnić, zo byšće wšón wobsah začitał a problem zdźělił, zo bychmy móhli pomhać, tón problem za wšěch rozrisać.
-content-blocking-warning-title-2 = Někotre sydła snano ze striktnym pčesćěhowanskim škitom korektnje njefunguja
+content-blocking-warning-title-2 = Někotre sydła snano ze striktnym přesćěhowanskim škitom korektnje njefunguja
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } poruča, nastajenja „Sydłowe problemy rozrisać“ wužiwać, zo byšće wobškodźene sydłowe funkcije a wobškodźeny sydłowy wobsah redukował. Jeli so zda, zo sydło je wobškodźene, spytajće přesćěhowanski škit za te sydło znjemóžnić, zo byšće wšón wobsah začitał.
 content-blocking-and-isolating-etp-warning-description-2 = Tute nastajenje móže zwinować, zo někotre websydła wobsah njepokazuja abo korektnje njefunguja. Jeli sydło zda so wobškodźene być, móžeće slědowanski škit za te sydło znjemóžnić, zo byšće cyły wobsah začitał.

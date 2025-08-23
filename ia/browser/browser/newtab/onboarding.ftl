@@ -327,7 +327,7 @@ mr2022-onboarding-privacy-segmentation-image-alt =
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vision de un sol ponente per un fenestra con un vulpe e un planta de interno sur un appoio del fenestra
 mr2022-onboarding-colorways-image-alt =
-    .aria-label = Un mano pinge con pulverisator un collage multicolor de un oculo verde, un scarpa orange, un ballon corbe rubie, bonettos auricular purpuree,corde blau e corona jalne
+    .aria-label = Un mano pinge con pulverisator un collage multicolor de un oculo verde, un scarpa orange, un ballon corbe rubie, bonettos auricular purpuree, corde blau e corona jalne
 
 ## Device migration onboarding
 

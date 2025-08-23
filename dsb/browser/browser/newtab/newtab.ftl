@@ -675,6 +675,7 @@ newtab-widget-timer-menu-hide = Měritko casa schowaś
 newtab-widget-timer-menu-learn-more = Dalšne informacije
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Za dalšne kulnuś
+newtab-widget-message-title = Wóstańśo koncentrěrowany z lisćinami a zatwarjonym casowym měritkom
 newtab-promo-card-title = { -brand-product-name } pódpěraś
 newtab-promo-card-body = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili
 newtab-promo-card-cta = Dalšne informacije

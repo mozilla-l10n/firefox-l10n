@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Websydłam k wěsći daś, až njamaju móje daty pśedaś abo źěliś
     .accesskey = d
 non-technical-privacy-header = Nastajenja priwatnosći websedła
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Zacyniś
+do-not-track-removal2 =
+    .label = Njepódpěramy wěcej signal „Njeslědowaś“
 
 ## Browser Restart Dialog
 
@@ -1274,10 +1278,15 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Dalšne informacije
 content-blocking-etp-standard-tcp-title = Wopśimujo dopołny šćit pśed cookiejami, naša nejmóčnjejša funkcija priwatnosći scełego
 content-blocking-warning-title = Glědajśo!
 content-blocking-and-isolating-etp-warning-description-3 = Toś to nastajenje mógło zawinowaś, až někotare websedła wopśimjeśe njepokazuju abo korektnje njefunkcioněruju. Bitujomy opcionalne wuwześa za websedła, wó kótarychž wěmy, až daju se pśez wašu konfiguraciju wobwliwowaś. Aby skóncowane websydła reducěrował, zmóžniśo toś te wuwześa za pśeslědowaki. Jolic se zda, až sedło jo skóńcowane, móžośo šćit pśeśiwo slědowanjeju za to sedło znjemóžniś, aby wšo wopśimjeśe zacytał a problem k wěsći dał, aby my mógli pomagaś, ten problem za wše rozwězaś.
+content-blocking-warning-title-2 = Někotare sedła snaź ze striktnym pśeslědowańskim šćitom korektnje njefunkcioněruju
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } pórucujo, nastajenja „Sedłowe problemy rozwězaś“ wužywaś, aby wy wobškóźone sedłowe funkcije a wobškóźone sedłowe wopśimjeśe reducěrował. Jolic se zda, až sedło jo wobškóźone, wopytajśo pśeslědowański šćit za to sedło znjemóžniś, aby wšykno wopśimjeśe zacytał.
 content-blocking-and-isolating-etp-warning-description-2 = Toś to nastajenje móžo zwinowaś, až někotare websedła wopśimjeśe njepokazuju abo korektnje njefunkcioněruju. Jolic sedło zda se wobškóźone byś, móžośo slědowański šćit za to sedło znjemóžniś, aby cełe wopśimjeśe zacytał.
 content-blocking-warning-learn-how = Zgóńśo kak
 content-blocking-baseline-exceptions =
     .label = Dowólśo { -brand-short-name } wuwześa awtomatiski nałožyś, kótarež su trjebne, aby se wjelikich problemow z websedłami wobinuli.
+content-blocking-baseline-exceptions-2 =
+    .label = Wótpórajo blokěrowanje jano wažnych elementow, kótarež mógli pśeslědowaki wopśimowaś, aby pomagało, sedła a funkcije zacytaś. Funkcioněrujo za nejcesćejše problemy.
 content-blocking-convenience-exceptions =
     .label = Nałožćo teke wuwześa awtomatiski, kótarež su trjebne, aby mjeńše problemy rozwězał a wužytne funkcije k dispoziciji stajił.
 content-blocking-reload-description = Musyśo swóje rejtariki znowego zacytaś, aby toś te změny nałožył.

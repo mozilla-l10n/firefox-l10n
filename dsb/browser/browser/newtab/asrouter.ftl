@@ -398,3 +398,14 @@ windows-10-eos-feature-toast-title = Wertikalne rejtariki a kupki rejtarikow su 
 windows-10-eos-feature-toast-subtitle = Na wjelesere žycenje jo { -brand-product-name } rowno wózjawił nowe funkcije, aby waše pśeglědowanje optiměrowane a fokusěrowane źaržał.
 windows-10-eos-feature-toast-whats-new-button = Cytajśo, což jo nowe
 windows-10-eos-feature-toast-dismiss-button = Zachyśiś
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Dalšne informacije
+etp-strict-exceptions-infobar-button = Rozwězanja nałožyś
+    .accesskey = R
