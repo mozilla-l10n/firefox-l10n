@@ -363,3 +363,7 @@ windows-10-eos-sync-toast-title = Vai atualizar para o Windows 11? Não perca fa
 windows-10-eos-sync-toast-subtitle = Faça backup de seus dados para que o { -brand-short-name } esteja pronto para ser usado quando você quiser, neste computador ou no próximo.
 windows-10-eos-sync-toast-primary-label = Começar
 windows-10-eos-sync-toast-secondary-label = Lembrar mais tarde
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-callout-subtitle = Ao fazer backup dos seus favoritos e senhas do { -brand-product-name }, fica mais fácil levar o navegador que você escolheu para o seu próximo dispositivo.
