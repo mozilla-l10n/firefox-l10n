@@ -406,6 +406,7 @@ windows-10-eos-feature-toast-dismiss-button = Zaćisnyć
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Striktne přesćěhowanski škit móže k tomu wjesć, zo sydła hižo njefunguja.</strong> Zběhńće blokowanje za wažne elementy, kotrež móhli přesćěhowaki wobsahować, zo byšće časte problemy porjedźił.
 etp-strict-exceptions-infobar-learn-more = Dalše informacije
 etp-strict-exceptions-infobar-button = Porjedźenja nałožić
     .accesskey = P
