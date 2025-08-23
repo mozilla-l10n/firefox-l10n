@@ -385,3 +385,15 @@ windows-10-eos-feature-toast-title = לשוניות אנכיות וקבוצות 
 windows-10-eos-feature-toast-subtitle = בתגובה לביקוש הרב, { -brand-product-name } השיקה תכונות חדשות לגלישה חלקה ומרוכזת יותר.
 windows-10-eos-feature-toast-whats-new-button = מה חדש
 windows-10-eos-feature-toast-dismiss-button = סגירה
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>הגנת מעקב מחמירה עלולה לגרום לאתרים לא לעבוד כראוי.</strong> ניתן לתקן בעיות נפוצות על־ידי ביטול חסימה של אלמנטים חיוניים שעשויים להכיל רכיבי מעקב.
+etp-strict-exceptions-infobar-learn-more = מידע נוסף
+etp-strict-exceptions-infobar-button = להחיל תיקונים
+    .accesskey = ת

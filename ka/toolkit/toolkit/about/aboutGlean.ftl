@@ -13,7 +13,7 @@ about-glean-page-title2 = { -glean-brand-name }-ის შესახებ
 about-glean-header = { -glean-brand-name }-ის შესახებ
 about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
-    მონაცემთა აღმრიცხველი ბიბლიოთეკაა, რომელსაც იყენებს { -vendor-short-name } პროექტებში.
+    მონაცემთა აღმრიცხველი ბიბლიოთეკაა, რომელიც გამოიყენება { -vendor-short-name }-პროექტებში.
     ეს გვერდი შემმუშავებლებისა და შემმოწმებლებისთვისაა სხვადასხვა
     <a data-l10n-name="fog-link">ხელსაწყოს ხელით გამოსაცდელად</a>.
 about-glean-category-about-glean = { -glean-brand-name } – შესახებ
@@ -63,12 +63,12 @@ about-glean-no-ping-label = (არ გაიგზავნოს არცე�
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = წინამდებარე ველში მიუთითეთ გამართვის ადვილად დასახსომი ჭდე, მოგვიანებით რომ შეძლოთ თქვენი კრებულების ამოცნობა.
 # An in-line text input field precedes this string.
-about-glean-label-for-tag-pings-with-requirements = მიუთითეთ დასამახსოვრებელი ჭდე გამართვისთვის <span>(არაუმეტეს 20 სიმბოლო, ასოციფრული და - მხოლოდ),</span> რათა მოგვიანებით შეძლოთ თქვენი კრებულების ამოცნობა.
+about-glean-label-for-tag-pings-with-requirements = მიუთითეთ დასამახსოვრებელი ჭდე გამართვისთვის <span>(არაუმეტეს 20 სიმბოლო, მხოლოდ ასოციფრული ან - ),</span> რათა მოგვიანებით შეძლოთ თქვენი კრებულების ამოცნობა.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
     წინამდებარე სიიდან აირჩიეთ კრებული, თქვენს ხელსაწყოებს რომ მოიცავდეს.
-    თუ <a data-l10n-name="custom-ping-link">მორგებული კრებული</a> მოიცავს, ეგ აირჩიეთ.
+    თუ <a data-l10n-name="custom-ping-link">მორგებული კრებულია</a> გამოსადეგი, ეგ აირჩიეთ.
     თუ არადა, <code>event</code>-აზომვებისთვის ნაგულისხმევი
     იქნება კრებული <code>events</code>,
     სხვა დანარჩენი აზომვებისთვის კი
@@ -91,16 +91,16 @@ about-glean-li-for-visit-gdpv =
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     დამატებითი <i>საგანგებო</i> შემოწმებისთვის
-    ასევე შეგიძლიათ გაარკვიოთ ცალკეული მახასიათებლების მიმდინარე მნიშვნელობა
-    შემმუშავებელთა ხელსაწყოების გახსნით <code>about:glean</code>
-    გვერდზე და <code>testGetValue()</code> API-ის მეშვეობით, მაგალითად
+    ასევე შეგიძლიათ გაარკვიოთ ცალკეული მახასიათებლების მიმდინარე მნიშვნელობა,
+    რისთვისაც უნდა გახსნათ შემუშავების ხელსაწყოთა არე <code>about:glean</code>
+    გვერდზე და გამოიყენოთ <code>testGetValue()</code> API, თუნდაც ამგვარად
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     დამატებითი <i>საგანგებო</i> შემოწმებისთვის
-    ასევე შეგიძლიათ გაარკვიოთ ცალკეული მახასიათებლების მიმდინარე მნიშვნელობა
-    შემმუშავებელთა ხელსაწყოების გახსნით <code>about:glean</code>
-    გვერდზე და <code>testGetValue()</code> API-ის მეშვეობით, მაგალითად
+    ასევე შეგიძლიათ გაარკვიოთ ცალკეული მახასიათებლების მიმდინარე მნიშვნელობა,
+    რისთვისაც უნდა გახსნათ შემუშავების ხელსაწყოთა არე <code>about:glean</code>
+    გვერდზე და გამოიყენოთ <code>testGetValue()</code> API, თუნდაც ამგვარად
     <code>Glean.metricCategory.metricName.testGetValue()</code>
     გაზომვის დასახელებისთვის <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
