@@ -72,3 +72,4 @@ experimental-features-newtab-widget-timer-description = 타이머를 설정하�
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = { -firefox-home-brand-name }의 목록과 타이머
+experimental-features-newtab-widget-lists-and-timer-description = 새 탭을 열 때 할 일 목록을 가장 먼저 염두에 두세요. 포장 목록부터 쇼핑 목록에 이르기까지 { -brand-product-name }에서 계획을 세우세요. 타이머를 설정하여 집중력을 유지하고, 목표를 향해 계속 나아가도록 상기시켜주거나, 재충전을 하도록 알려줍니다. <a data-l10n-name="connect">의견 공유</a>

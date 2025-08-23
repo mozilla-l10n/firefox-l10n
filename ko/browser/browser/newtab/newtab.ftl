@@ -673,6 +673,8 @@ newtab-widget-timer-menu-learn-more = 더 알아보기
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = 더 보려면 스크롤하세요
 newtab-widget-message-title = 목록과 내장 타이머로 집중하기
+# to-dos stands for "things to do".
+newtab-widget-message-copy = 빠른 알림부터 매일 할 일 목록, 집중 세션부터 스트레칭 휴식까지 — 업무에 집중하고 시간을 준수하세요.
 newtab-promo-card-title = { -brand-product-name } 지원
 newtab-promo-card-body = 스폰서는 더 나은 웹을 만들려는 우리의 사명을 지원합니다
 newtab-promo-card-cta = 더 알아보기
