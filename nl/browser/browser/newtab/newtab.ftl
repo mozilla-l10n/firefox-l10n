@@ -631,6 +631,13 @@ newtab-widget-lists-input-menu-move-up = Omhoog verplaatsen
 newtab-widget-lists-input-menu-move-down = Omlaag verplaatsen
 newtab-widget-lists-input-menu-delete = Verwijderen
 newtab-widget-lists-input-menu-edit = Bewerken
+newtab-widget-lists-name-label-default =
+    .label = Takenlijst
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Takenlijst
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Nieuwe lijst
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
