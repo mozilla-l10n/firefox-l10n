@@ -167,7 +167,7 @@ pin-tabs-callout-4-title = მიამაგრეთ საიტები, �
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = გვერდითი ზოლი: საერთო ადგილი ხელსაწყოებისა და ჩანართებისთვის
-sidebar-customization-callout-1-subtitle = { -brand-product-name } გვერდითი ზოლით სწრაფი წვდომის საშუალებას გაძლევთ თქვენი გვერდების ისტორიასთან, ჩანართებთან სხვა მოწყობილობებიდან და ხელოვნური ინტელექტის მქონე თანამოსაუბრესთან — ეს ყველაფერი კი მთავარი ხედის დაუტოვებლად.
+sidebar-customization-callout-1-subtitle = { -brand-product-name } გვერდითი ზოლით სწრაფი წვდომის საშუალებას გაძლევთ თქვენი გვერდების ისტორიასთან, ჩანართებთან სხვა მოწყობილობებიდან და ხელოვნური გონის მქონე თანამოსაუბრესთან — ეს ყველაფერი კი მთავარი ხედის დაუტოვებლად.
 sidebar-customization-callout-callout-button = გვერდითი ზოლის მორგება
 sidebar-customization-callout-dismiss-button = გვერდითი ზოლის დამალვა
 sidebar-customization-callout-2-title = გახადეთ გვერდითი { -brand-product-name }-ზოლი მეტად თქვენებური
@@ -201,7 +201,7 @@ sidebar-callout-survey-thank-you = გმადლობთ გამოხმ�
 sidebar-genai-survey-satisfaction-question = რამდენად კმაყოფილი ხართ AI-თანამოსაუბრესთან წვდომით გვერდითი ზოლიდან?
 sidebar-genai-survey-productive-question =
     რამდენად ეთანხმებით ან არ ეთანხმებით დებულებას:<br/>
-    „ხელოვნური ინტელექტის თანამოსაუბრე გვერდით ზოლზე მეხმარება შედეგიანობის გაზრდაში“?
+    „ხელოვნური გონის თანამოსაუბრე გვერდით ზოლზე მეხმარება შედეგიანობის გაზრდაში“?
 unified-search-callout-title = გადართეთ საძიებოებს შორის
 unified-search-callout-subtitle = აირჩიეთ, რომელიც უკეთ გამოგადგებათ ძიებისას.
 unified-search-callout-primary-label = შემდეგ

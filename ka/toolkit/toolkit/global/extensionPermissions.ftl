@@ -30,7 +30,7 @@ webext-perms-description-sessions = ბოლოს დახურულ ჩა
 webext-perms-description-tabs = ბრაუზერის ჩანართებთან წვდომა
 webext-perms-description-tabHide = ბრაუზერის ჩანართების დამალვა და გამოჩენა
 webext-perms-description-topSites = მონახულებული გვერდების ისტორიასთან წვდომა
-webext-perms-description-trialML = ხელოვნური ინტელექტის მოდელების მოწყობილობაზე ჩამოტვირთვა და გაშვება
+webext-perms-description-trialML = ხელოვნური გონის მოდელების მოწყობილობაზე ჩამოტვირთვა და გაშვება
 webext-perms-description-userScripts = დაუმოწმებელი გარეშე მხარის სკრიპტებისთვის თქვენს მონაცემებთან წვდომის ნებართვა
 webext-perms-description-webNavigation = გვერდებზე გადაადგილებისას ბრაუზერის მოქმედებებთან წვდომა
 
