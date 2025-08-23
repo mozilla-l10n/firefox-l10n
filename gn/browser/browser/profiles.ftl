@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = Hovy mbarete
 profiles-terracotta-theme-2 = Pytã ladríllo
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Ehecha ygáu
+profiles-gray-theme = Hũngy
+profiles-yellow-theme = Sa’yju
+profiles-orange-theme = Narãha
+profiles-red-theme = Ñanduti
+profiles-pink-theme = Pytãngy
+profiles-purple-theme = Pytãũ
+profiles-violet-theme = Líla
+profiles-blue-theme = Hovy
+profiles-green-theme = Vérde
+profiles-cyan-theme = Hovyũ
 
 ## Alternative text for default profile icons
 
