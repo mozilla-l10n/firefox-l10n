@@ -641,6 +641,13 @@ newtab-widget-lists-input-menu-move-up = 위로 이동
 newtab-widget-lists-input-menu-move-down = 아래로 이동
 newtab-widget-lists-input-menu-delete = 삭제
 newtab-widget-lists-input-menu-edit = 편집
+newtab-widget-lists-name-label-default =
+    .label = 작업 목록
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = 작업 목록
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = 새 목록
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
