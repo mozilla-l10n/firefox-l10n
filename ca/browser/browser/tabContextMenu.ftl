@@ -130,3 +130,10 @@ tab-context-send-tabs-to-device =
            *[other] Envia { $tabCount } pestanyes a un dispositiu
         }
     .accesskey = v
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Descarrega la pestanya de la memòria
+           *[other] Unload { $tabCount } Tabs
+        }
+    .accesskey = e

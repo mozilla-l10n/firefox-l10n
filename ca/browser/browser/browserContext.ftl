@@ -160,6 +160,9 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Copia l'enllaç
     .accesskey = l
+main-context-menu-preview-link =
+    .label = Previsualitza l'enllaç
+    .accesskey = r
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
@@ -267,6 +270,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Visualitza la descripció
     .accesskey = d
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Cerca la imatge amb { $engine }
 main-context-menu-video-save-as =
     .label = Anomena i desa el vídeo…
     .accesskey = v
@@ -389,3 +396,5 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = Mostra la contrasenya
     .accesskey = M
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = Nou
