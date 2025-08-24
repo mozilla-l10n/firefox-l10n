@@ -109,6 +109,7 @@ profiles-ocean-theme-2 = Azul océano
 profiles-terracotta-theme-2 = Rojo ladrillo
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verde musgo
+profiles-purple-theme = Violeta
 
 ## Alternative text for default profile icons
 
