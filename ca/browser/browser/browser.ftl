@@ -1455,6 +1455,10 @@ trustpanel-blocker-section-header =
     }
 trustpanel-blocker-description = El { -brand-product-name } creu que les empreses us haurien de fer menys seguiment, així que bloquem tot allò que podem.
 trustpanel-blocked-header = El { -brand-product-name } ha blocat això:
+trustpanel-tracking-header = El { -brand-product-name } ha permès això perquè els llocs web funcionin bé:
+trustpanel-tracking-description = Sense elements de seguiment, és possible que no funcionin alguns botons, formularis o camps d’inici de sessió.
+trustpanel-insecure-section-header = La connexió no és segura
+trustpanel-insecure-description = Les dades que envieu a aquest lloc no estan xifrades. Es podrien visualitzar, robar alterar.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } galeta de seguiment entre llocs
@@ -1485,4 +1489,10 @@ trustpanel-social-tracking-not-blocking-tab-header =
     { $count ->
         [one] El { -brand-product-name } ha permès { $count } element de seguiment de xarxes socials
        *[other] El { -brand-product-name } ha permès { $count } elements de seguiment de xarxes socials
+    }
+trustpanel-social-tracking-tab-list-header = Aquests llocs us intenten fer seguiment:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] El { -brand-product-name } ha blocat { $count } galeta de seguiment entre llocs
+       *[other] El { -brand-product-name } ha blocat { $count } galetes de seguiment entre llocs
     }
