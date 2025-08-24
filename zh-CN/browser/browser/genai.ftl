@@ -216,8 +216,15 @@ link-preview-generation-retry = 重试
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = 预览链接设置
+link-preview-settings-enable =
+    .label = 启用预览链接
+    .description = 使用快捷键或右击链接，查看页面标题、描述等信息。
 link-preview-settings-key-points =
     .label = 允许 AI 读取页面开头并生成要点
+link-preview-settings-long-press =
+    .label = 快捷键：长按链接 1 秒
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = 新功能：长按任意链接即可预览
 # Header for the key points section
 link-preview-key-points-header = 要点
 # Onboarding card See a preview button
