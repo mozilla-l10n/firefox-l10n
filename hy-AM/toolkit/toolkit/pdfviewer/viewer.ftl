@@ -42,9 +42,14 @@ pdfjs-print-button-label = Տպել
 pdfjs-save-button =
     .title = Պահպանել
 pdfjs-save-button-label = Պահպանել
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Ներբեռնել
 # Used in Firefox for Android as a label for the download button (“download” is a verb).
 # Length of the translation matters since we are in a mobile context, with limited screen estate.
 pdfjs-download-button-label = Ներբեռնել
+pdfjs-bookmark-button =
+    .title = Ընթացիկ էջ (Դիտել URL-ը ընթացիկ էջից)
 pdfjs-bookmark-button-label = Ընթացիկ էջ
 
 ##  Secondary toolbar and context menu
@@ -70,6 +75,9 @@ pdfjs-cursor-text-select-tool-button-label = Գրույթը ընտրելու գ�
 pdfjs-cursor-hand-tool-button =
     .title = Միացնել Ձեռքի գործիքը
 pdfjs-cursor-hand-tool-button-label = Ձեռքի գործիք
+pdfjs-scroll-page-button =
+    .title = Օգտագործեք էջի գլորումը
+pdfjs-scroll-page-button-label = Էջի գլորում
 pdfjs-scroll-vertical-button =
     .title = Օգտագործել ուղղահայաց ոլորում
 pdfjs-scroll-vertical-button-label = Ուղղահայաց ոլորում
@@ -96,12 +104,23 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = Փաստաթղթի հատկությունները…
 pdfjs-document-properties-file-name = Նիշքի անունը.
 pdfjs-document-properties-file-size = Նիշք չափը.
+# Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } ԿԲ ({ $b } բայթ)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } ՄԲ ({ $b } բայթ)
 pdfjs-document-properties-title = Վերնագիր.
 pdfjs-document-properties-author = Հեղինակ․
 pdfjs-document-properties-subject = Վերնագիր.
 pdfjs-document-properties-keywords = Հիմնաբառ.
 pdfjs-document-properties-creation-date = Ստեղծելու ամսաթիվը.
 pdfjs-document-properties-modification-date = Փոփոխելու ամսաթիվը.
+# Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 pdfjs-document-properties-creator = Ստեղծող.
 pdfjs-document-properties-producer = PDF-ի հեղինակը.
 pdfjs-document-properties-version = PDF-ի տարբերակը.
@@ -148,20 +167,29 @@ pdfjs-printing-not-ready = Զգուշացում. PDF-ը ամբողջությամ
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-toggle-sidebar-button =
-    .title = Բացել/Փակել Կողային վահանակը
-pdfjs-toggle-sidebar-button-label = Բացել/Փակել Կողային վահանակը
+    .title = Բացել/Փակել կողագոտին
+pdfjs-toggle-sidebar-notification-button =
+    .title = Փոխարկել Կողագոտին (փաստաթուղթը պարունակում է ուրվագիծ/կցորդներ)
+pdfjs-toggle-sidebar-button-label = Բացել/Փակել կողագոտին
 pdfjs-document-outline-button =
     .title = Ցուցադրել փաստաթղթի ուրվագիծը (կրկնակի սեղմեք՝ միավորները ընդարձակելու/կոծկելու համար)
 pdfjs-document-outline-button-label = Փաստաթղթի բովանդակությունը
 pdfjs-attachments-button =
     .title = Ցուցադրել կցորդները
 pdfjs-attachments-button-label = Կցորդներ
+pdfjs-layers-button =
+    .title = Ցուցադրել շերտերը (կրկնակի սեղմեք բոլոր շերտերը սկզբնական վիճակին վերականգնելու համար)
+pdfjs-layers-button-label = Շերտեր
 pdfjs-thumbs-button =
     .title = Ցուցադրել Մանրապատկերը
 pdfjs-thumbs-button-label = Մանրապատկերը
+pdfjs-current-outline-item-button =
+    .title = Գտեք ընթացիկ ուրվագծային տարրը
+pdfjs-current-outline-item-button-label = Ընթացիկ ուրվագծային տարր
 pdfjs-findbar-button =
     .title = Գտնել փաստաթղթում
 pdfjs-findbar-button-label = Որոնում
+pdfjs-additional-layers = Լրացուցիչ շերտեր
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -187,9 +215,25 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Հաջորդը
 pdfjs-find-highlight-checkbox = Գունանշել բոլորը
 pdfjs-find-match-case-checkbox-label = Մեծ(փոքր)ատառ հաշվի առնել
+pdfjs-find-match-diacritics-checkbox-label = Համապատասխանեցնել տարբերիչները
 pdfjs-find-entire-word-checkbox-label = Ամբողջ բառերը
 pdfjs-find-reached-top = Հասել եք փաստաթղթի վերևին, կշարունակվի ներքևից
 pdfjs-find-reached-bottom = Հասել եք փաստաթղթի վերջին, կշարունակվի վերևից
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current }՝ { $total } համընկնումից
+       *[other] { $current } of { $total } համընկնումներից
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Ավելի քան { $limit } համընկնում
+       *[other] Ավելի քան { $limit } համընկնումներ
+    }
 pdfjs-find-not-found = Արտահայտությունը չգտնվեց
 
 ## Predefined zoom values
@@ -201,6 +245,13 @@ pdfjs-page-scale-actual = Իրական չափը
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
+
+## PDF page
+
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Էջ { $page }
 
 ## Loading indicator messages
 
@@ -219,6 +270,9 @@ pdfjs-rendering-error = Սխալ՝ էջը ստեղծելիս:
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
     .alt = [{ $type } Ծանոթություն]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
@@ -230,19 +284,138 @@ pdfjs-web-fonts-disabled = Վեբ-տառատեսակները անջատված ե
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Գրվածք
+pdfjs-editor-color-picker-free-text-input =
+    .title = Փոխել տեքստի գույնը
+pdfjs-editor-free-text-button-label = Գրվածք
+pdfjs-editor-ink-button =
+    .title = Նկարել
+pdfjs-editor-color-picker-ink-input =
+    .title = Փոխել նկարելու գույնը
+pdfjs-editor-ink-button-label = Նկարել
+pdfjs-editor-stamp-button =
+    .title = Հավելել կամ խմբագրել պատկերներ
+pdfjs-editor-stamp-button-label = Հավելել կամ խմբագրել պատկերներ
+pdfjs-editor-highlight-button =
+    .title = Գունանշում
+pdfjs-editor-highlight-button-label = Գունանշում
+pdfjs-highlight-floating-button1 =
+    .title = Գունանշում
+    .aria-label = Գունանշում
+pdfjs-highlight-floating-button-label = Գունանշում
+pdfjs-comment-floating-button =
+    .title = Մեկնաբանություն
+    .aria-label = Մեկնաբանություն
+pdfjs-comment-floating-button-label = Մեկնաբանություն
 pdfjs-editor-signature-button =
     .title = Ավելացնել ստորագրություն
 pdfjs-editor-signature-button-label = Ավելացնել ստորագրություն
 
+## Default editor aria labels
+
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Գունանշել խմբագիրը
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Նկարելու խմբագիր
+# Used when a signature editor is selected/hovered.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-signature-editor1 =
+    .aria-description = Ստորագրության խմբագիր՝ { $description }
+pdfjs-editor-stamp-editor =
+    .aria-label = Պատկերի խմբագիր
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Հեռացնել նկարումը
+pdfjs-editor-remove-freetext-button =
+    .title = Հեռացնել գրվածքը
+pdfjs-editor-remove-stamp-button =
+    .title = Հեռացնել պատկերը
+pdfjs-editor-remove-highlight-button =
+    .title = Հեռացնել գունանշումը
+pdfjs-editor-remove-signature-button =
+    .title = Հեռացնել ստորագրությունը
+
 ##
 
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Գույն
+pdfjs-editor-free-text-size-input = Չափ
+pdfjs-editor-ink-color-input = Գույն
+pdfjs-editor-ink-thickness-input = Հաստություն
+pdfjs-editor-ink-opacity-input = Մգություն
+pdfjs-editor-stamp-add-image-button =
+    .title = Հավելել պատկեր
+pdfjs-editor-stamp-add-image-button-label = Հավելել պատկեր
+# This refers to the thickness of the line used for free highlighting (not bound to text)
+pdfjs-editor-free-highlight-thickness-input = Հաստություն
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Փոխել հաստությունը տեքստից բացի այլ տարրեր նշելիս
+pdfjs-editor-add-signature-container =
+    .aria-label = Ստորագրության կառավարման տարրեր և պահպանված ստորագրություններ
 pdfjs-editor-signature-add-signature-button =
     .title = Ավելացնել նոր ստորագրություն
 pdfjs-editor-signature-add-signature-button-label = Ավելացնել նոր ստորագրություն
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Պահպանված ստորագրություն՝ { $description }
 
 ## Alt-text dialog
 
+pdfjs-editor-alt-text-button-label = Այլընտրանքային գրվածք
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = Խմբագրել այլընտրանքային գրվածքը
+pdfjs-editor-alt-text-dialog-label = Ընտրեք տառատեսակը
+pdfjs-editor-alt-text-dialog-description = Այլընտրանքային տեքստը (alternative text) օգնում է, երբ մարդիկ չեն կարողանում տեսնել պատկերը կամ երբ այն չի բեռնվում։
+pdfjs-editor-alt-text-add-description-label = Հավելել նկարագրություն
+pdfjs-editor-alt-text-add-description-description = Ձգտեք գրել 1-2 նախադասություն, որոնք նկարագրում են թեման, միջավայրը կամ գործողությունները։
+pdfjs-editor-alt-text-mark-decorative-label = Նշել որպես դեկորատիվ
+pdfjs-editor-alt-text-mark-decorative-description = Սա օգտագործվում է դեկորատիվ պատկերների համար, ինչպիսիք են եզրագծերը կամ ջրանիշերը։
+pdfjs-editor-alt-text-cancel-button = Չեղարկել
 pdfjs-editor-alt-text-save-button = Պահպանել
+pdfjs-editor-alt-text-decorative-tooltip = Նշել որպես դեկորատիվ
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Օրինակ՝ «Մի երիտասարդ նստում է սեղանի շուրջ՝ ուտելու»
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = Այլընտրանքային գրվածք
+
+## Editor resizers
+## This is used in an aria label to help to understand the role of the resizer.
+
+pdfjs-editor-resizer-top-left =
+    .aria-label = Վերին ձախ անկյուն՝ չափափոխել
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Վերևի մեջտեղում՝ չափափոխել
+pdfjs-editor-resizer-top-right =
+    .aria-label = Վերին ձախ անկյուն՝ չափափոխել
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Մեջտեղի աջ կողմում՝ չափափոխել
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Վերին ձախ անկյուն՝ չափափոխել
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Վերևի մեջտեղում՝ չափափոխել
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Վերին ձախ անկյուն՝ չափափոխել
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Մեջտեղի ձախ կողմում՝ չափափոխել
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Գունանշման գույն
+pdfjs-editor-colorpicker-button =
+    .title = Փոխել գույնը
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Գույների ընտրություն
 
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.

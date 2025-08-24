@@ -278,6 +278,15 @@ newtab-pocket-saved = S'ha desat
 # Clicking the thumbs up button for this story will result in more stories like this one being recommended
 newtab-pocket-thumbs-up-tooltip =
     .title = Més d’aquest estil
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = No és per a mi
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Gràcies. Els vostres comentaris ens ajudaran a millorar-vos les recomanacions.
+newtab-toast-dismiss-button =
+    .title = Descarta
+    .aria-label = Descarta
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -314,6 +323,25 @@ newtab-custom-pocket-sponsored = Articles patrocinats
 newtab-custom-pocket-show-recent-saves = Mostra els elements desats recentment
 newtab-custom-recent-title = Activitat recent
 newtab-custom-recent-subtitle = Una selecció de llocs i continguts recents
+newtab-custom-weather-toggle =
+    .label = Informació meteorològica
+    .description = La previsió d’avui d’un cop d’ull
+newtab-custom-trending-search-toggle =
+    .label = Cerques que són tendència
+    .description = Temes populars i cercats freqüentment
+newtab-custom-widget-weather-toggle =
+    .label = Informació meteorològica
+newtab-custom-widget-trending-search-toggle =
+    .label = Cerques que són tendència
+newtab-custom-widget-lists-toggle =
+    .label = Llistes
+newtab-custom-widget-timer-toggle =
+    .label = Temporitzador
+newtab-custom-widget-section-title = Ginys
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Tanca
+    .aria-label = Tanca el menú
 newtab-custom-close-button = Tanca
 newtab-custom-settings = Gestiona més paràmetres
 
@@ -321,6 +349,12 @@ newtab-custom-settings = Gestiona més paràmetres
 
 newtab-wallpaper-title = Fons de pantalla
 newtab-wallpaper-reset = Reinicia als valors per defecte
+newtab-wallpaper-upload-image = Puja una imatge
+newtab-wallpaper-custom-color = Trieu un color
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = La imatge supera el límit de mida de fitxer de { $file_size } MB. Proveu de pujar un fitxer més petit.
+newtab-wallpaper-error-file-type = No s’ha pogut pujar el fitxer. Torneu-ho a provar amb un altre tipus de fitxer.
 newtab-wallpaper-light-red-panda = Panda vermell
 newtab-wallpaper-light-mountain = Muntanya blanca
 newtab-wallpaper-light-sky = Cel amb núvols roses i liles
@@ -424,13 +458,19 @@ newtab-topic-label-business = Negocis
 newtab-topic-label-education = Educació
 newtab-topic-label-arts = Entreteniment
 newtab-topic-label-food = Menjar
+newtab-topic-label-health = Salut
 newtab-topic-label-hobbies = Jocs
 # ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
 # and understand their personal finances – from saving money to buying a home. See the
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = Diners
+newtab-topic-label-society-parenting = Criança
 newtab-topic-label-government = Política
 newtab-topic-label-education-science = Ciència
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Creixement personal
 
 ## Topic Selection Modal
 
