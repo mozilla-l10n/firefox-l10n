@@ -332,3 +332,4 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Иә, парольді өшіру
        *[other] Иә, парольдерді өшіру
     }
+contextual-manager-primary-password-learn-more-link = Көбірек білу
