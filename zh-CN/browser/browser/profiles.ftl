@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = 海蓝
 profiles-terracotta-theme-2 = 砖红
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = 苔绿
+profiles-gray-theme = 灰色
+profiles-yellow-theme = 黄色
+profiles-orange-theme = 橙色
+profiles-red-theme = 红色
+profiles-pink-theme = 粉色
+profiles-purple-theme = 紫色
+profiles-violet-theme = 菫色
+profiles-blue-theme = 蓝色
+profiles-green-theme = 绿色
+profiles-cyan-theme = 青色
 
 ## Alternative text for default profile icons
 
