@@ -125,6 +125,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Informoj pri A.I. dialogantoj en { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Pro tio ke la paĝo estas longa, tiu ĉi estas parta resumo.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Resumi paĝon
@@ -217,3 +222,19 @@ link-preview-reading-time =
         [one] { $range } minuto de legado
        *[other] { $range } minutoj de legado
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Ni ne povas antaŭmontri tiun ĉi ligilon
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Viziti ligilon
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Ni ne povas eltiri ĉefajn punktojn el tiu ĉi retpaĝo.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Io ne bone funkciis.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Provu denove
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Agordoj por antaŭmontrado de ligiloj
+link-preview-settings-enable =
+    .label = Aktivigi la antaŭmontradon de ligiloj
+    .description = Montri la titolon de la paĝo, priskribon, kaj pli da informo kiam vi uzas la ŝparvojon aŭ alklakas ligilon per la dekstra butono.
