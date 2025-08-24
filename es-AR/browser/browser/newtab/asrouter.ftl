@@ -400,6 +400,7 @@ windows-10-eos-feature-toast-dismiss-button = Descartar
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Una protección de rastreo estricta puede causar errores en los sitios web .</strong> Solucione problemas comunes desbloqueando elementos esenciales que podrían contener rastreadores.
 etp-strict-exceptions-infobar-learn-more = Conocer más
 etp-strict-exceptions-infobar-button = Aplicar correcciones
     .accesskey = A
