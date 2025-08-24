@@ -213,6 +213,11 @@ link-preview-error-message = 无法预览此链接。
 link-preview-visit-link = 访问链接
 # Text for the retry link when generation fails
 link-preview-generation-retry = 重试
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = 预览链接设置
+link-preview-settings-key-points =
+    .label = 允许 AI 读取页面开头并生成要点
 # Header for the key points section
 link-preview-key-points-header = 要点
 # Onboarding card See a preview button
