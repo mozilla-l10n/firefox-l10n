@@ -394,3 +394,5 @@ windows-10-eos-feature-toast-dismiss-button = 知道了
 ## to fix common site breakage by unblocking essential elements.
 
 etp-strict-exceptions-infobar-learn-more = 详细了解
+etp-strict-exceptions-infobar-button = 应用修复
+    .accesskey = A
