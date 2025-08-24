@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Peti al retejoj ne vendi aŭ dividi miajn datumojn
     .accesskey = v
 non-technical-privacy-header = Preferoj pri privateco en retejoj
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Fermi
+do-not-track-removal2 =
+    .label = Ni ne plu subtenas la signalon “Do Not Track”
 
 ## Browser Restart Dialog
 

@@ -164,6 +164,7 @@ redirectLoop-title = La paĝo ne redirektiĝas bone
 unknownSocketType-title = Neatendita respondo el servilo
 nssFailure2-title = Malsukcesa sekura konekto
 csp-xfo-error-title = { -brand-short-name } ne povas malfermi tiun ĉi paĝon
+corruptedContentErrorv2-title = Eraro pro difektita enhavo
 corruptedContentError-title = Eraro pro difektita enhavo
 sslv3Used-title = Ne eblas sekure konektiĝi
 inadequateSecurityError-title = Via konekto ne estas sekura

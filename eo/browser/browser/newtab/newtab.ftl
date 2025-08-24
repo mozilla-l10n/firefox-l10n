@@ -325,6 +325,18 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Popularaj serĉoj
     .description = Popularaj kaj ofte serĉitaj temoj
+newtab-custom-widget-weather-toggle =
+    .label = Vetero
+newtab-custom-widget-trending-search-toggle =
+    .label = Popularaj serĉoj
+newtab-custom-widget-lists-toggle =
+    .label = Listoj
+newtab-custom-widget-timer-toggle =
+    .label = Tempumilo
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Fermi
+    .aria-label = Fermi menuon
 newtab-custom-close-button = Fermi
 newtab-custom-settings = Administri aliajn agordojn
 
@@ -596,3 +608,13 @@ newtab-trending-searches-learn-more = Pli da informo
 newtab-trending-searches-dismiss = Kaŝi popularajn serĉojn
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Popularaj serĉoj
+
+## Strings for task / to-do list productivity widget
+
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nova
+newtab-widget-lists-label-beta =
+    .label = Beta
+newtab-widget-task-list-menu-copy = Kopii
+newtab-widget-lists-menu-learn-more = Pli da informo
