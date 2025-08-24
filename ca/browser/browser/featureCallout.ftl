@@ -68,8 +68,24 @@ split-dismiss-button-manage-settings-option =
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = No, gràcies
 
+## Perplexity callout strings
+
+perplexity-callout-primary-label = Demana-ho al Perplexity
+perplexity-callout-secondary-label-1 = Descarta
+perplexity-callout-secondary-label-2 = Entesos
+
+## Account Adoption Passwords callout strings
+
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = S’ha desat la contrasenya. Ara fem-ne una còpia de seguretat.
+fxa-adoption-passwords-subtitle = Protegiu les contrasenyes sincronitzant-les entre els vostres dispositius amb xifratge.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Registre
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Quan passeu al Windows 11, no perdeu tot allò que heu desat.
+windows-10-eos-sync-urgency-subtitle-1 = Sincronitzeu ara mateix per conservar les vostres adreces d’interès, contrasenyes i els paràmetres del { -brand-short-name } amb total seguretat i fàcils de restaurar.
 windows-10-eos-sync-tour-title-1 = Massa pestanyes? Endreceu-les amb els grups de pestanyes.
 windows-10-eos-sync-tour-subtitle-1 = Arrossegueu una pestanya a sobre d’una altra per crear un grup i tenir-ho tot organitzat.
 

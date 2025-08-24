@@ -1496,3 +1496,42 @@ trustpanel-tracking-cookies-blocking-tab-header =
         [one] El { -brand-product-name } ha blocat { $count } galeta de seguiment entre llocs
        *[other] El { -brand-product-name } ha blocat { $count } galetes de seguiment entre llocs
     }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] El { -brand-product-name } ha permès { $count } galeta de seguiment entre llocs
+       *[other] El { -brand-product-name } ha permès { $count } galetes de seguiment entre llocs
+    }
+trustpanel-tracking-cookies-tab-list-header = Aquests llocs us intenten fer seguiment:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] El { -brand-product-name } ha blocat { $count } element de seguiment
+       *[other] El { -brand-product-name } ha blocat { $count } elements de seguiment
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] El { -brand-product-name } ha permès { $count } element de seguiment
+       *[other] El { -brand-product-name } ha permès { $count } elements de seguiment
+    }
+trustpanel-tracking-content-tab-list-header = Aquests llocs us intenten fer seguiment:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] El { -brand-product-name } ha blocat { $count } generador d’empremtes digitals
+       *[other] El { -brand-product-name } ha blocat { $count } generadors d’empremtes digitals
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] El { -brand-product-name } ha permès { $count } generador d’empremtes digitals
+       *[other] El { -brand-product-name } ha permès { $count } generadors d’empremtes digitals
+    }
+trustpanel-fingerprinter-list-header = Aquests llocs intenten generar la vostra empremta digital:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] El { -brand-product-name } ha blocat { $count } miner de criptomonedes
+       *[other] El { -brand-product-name } ha blocat { $count } miners de criptomonedes
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] El { -brand-product-name } ha permès { $count } miner de criptomonedes
+       *[other] El { -brand-product-name } ha permès { $count } miners de criptomonedes
+    }
+trustpanel-cryptominer-tab-list-header = Aquests llocs intenten minar criptomonedes:
