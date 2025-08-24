@@ -471,9 +471,35 @@ newtab-topic-label-education-science = Ciència
 # aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
 # at the top of https://getpocket.com/explore/self-improvement for more context.
 newtab-topic-label-society = Creixement personal
+newtab-topic-label-sports = Esports
+newtab-topic-label-tech = Tecnologia
+newtab-topic-label-travel = Viatges
+newtab-topic-label-home = Casa i jardí
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Trieu temes per a ajustar-vos les recomanacions
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Trieu dos temes o més. Els nostres experts prioritzen els articles que s’ajusten als vostres interessos. Podeu actualitzar-los quan vulgueu.
 newtab-topic-selection-save-button = Desa
 newtab-topic-selection-cancel-button = Cancel·la
 newtab-topic-selection-button-maybe-later = Potser més tard
+
+## Confirmation modal for blocking a section
+
+newtab-section-confirm-block-topic-p1 = Segur que voleu blocar aquest tema?
+newtab-section-confirm-block-topic-p2 = Els temes blocats ja no apareixeran a la vostra cronologia.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloca { $topic }
+
+## Strings for custom wallpaper highlight
+
+newtab-section-mangage-topics-title = Temes
+newtab-section-manage-topics-button-v2 =
+    .label = Gestiona els temes
+newtab-section-mangage-topics-followed-topics-empty-state = Encara no seguiu cap tema.
+newtab-section-mangage-topics-blocked-topics-empty-state = Encara no heu blocat cap tema.

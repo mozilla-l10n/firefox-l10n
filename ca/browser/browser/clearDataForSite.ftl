@@ -9,3 +9,4 @@ clear-data-for-site-list = Això esborrarà totes les dades de { $site }, inclos
 clear-data-for-site-browsing-history = Historial de navegació i de baixades
 clear-data-for-site-cookies = Galetes i dades del lloc, que us poden tancar la sessió iniciada
 clear-data-for-site-cache = Pàgines i fitxers en memòria cau
+cclear-data-for-site-permissions = Permisos i preferències

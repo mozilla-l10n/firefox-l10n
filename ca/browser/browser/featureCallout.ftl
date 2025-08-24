@@ -65,6 +65,9 @@ split-dismiss-button-manage-settings-option =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-2a-primary-button-label = Entesos
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Amaga la barra d'eines
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = No, gràcies
 

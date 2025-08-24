@@ -366,6 +366,10 @@ pdfjs-editor-signature-add-signature-button-label = Ավելացնել նոր ս
 #   $description (String) - a string describing/labeling the signature.
 pdfjs-editor-add-saved-signature-button =
     .title = Պահպանված ստորագրություն՝ { $description }
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = Գրվածքի խմբագիր
+    .default-content = Սկսեք մուտքագրել...
 
 ## Alt-text dialog
 
@@ -416,6 +420,16 @@ pdfjs-editor-colorpicker-button =
     .title = Փոխել գույնը
 pdfjs-editor-colorpicker-dropdown =
     .aria-label = Գույների ընտրություն
+pdfjs-editor-colorpicker-yellow =
+    .title = Դեղին
+pdfjs-editor-colorpicker-green =
+    .title = Կանաչ
+pdfjs-editor-colorpicker-blue =
+    .title = Կապույտ
+pdfjs-editor-colorpicker-pink =
+    .title = Վարդագույն
+pdfjs-editor-colorpicker-red =
+    .title = Կարմիր
 
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
@@ -427,13 +441,161 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Խմբագրել այլընտրանքային տեքստը (պատկերի նկարագրությունը)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Ավելացնել այլընտրանքային գրվածք (պատկերի նկարագրություն)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Գրեք ձեր նկարագրությունն այստեղ…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Կարճ նկարագրություն նրանց համար, ովքեր չեն կարող տեսնել պատկերը կամ երբ պատկերը չի բեռնվում։
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Այս այլընտրանքային տեքստը ստեղծվել է ինքնաշխատ և կարող է սխալ լինել։
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Իմանալ ավելին
+pdfjs-editor-new-alt-text-create-automatically-button-label = Ինքնաշխատ ստեղծել այլընտրանքային գրվածք
 pdfjs-editor-new-alt-text-not-now-button = Ոչ հիմա
+pdfjs-editor-new-alt-text-error-title = Հնարավոր չէ ինքնաշխատ ստեղծել այլընտրանքային գրվածք
+pdfjs-editor-new-alt-text-error-description = Խնդրում ենք գրել ձեր սեփական այլընտրանքային տեքստը կամ փորձել կրկին ավելի ուշ։
+pdfjs-editor-new-alt-text-error-close-button = Փակել
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Ներբեռնվում է այլընտրանքային գրվածքի ահեստական բանականության մոդելը ({ $downloadedSize }՝ { $totalSize } ՄԲ-ից)
+    .aria-valuetext = Ներբեռնվում է այլընտրանքային գրվածքի ահեստական բանականության մոդելը ({ $downloadedSize }՝ { $totalSize } ՄԲ-ից)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = Այլընտրանքային գրվածքն ավելացված է
+pdfjs-editor-new-alt-text-added-button-label = Այլընտրանքային գրվածքն ավելացված է
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button =
+    .aria-label = Այլընտրանքային գրվածքը բացակայում է
+pdfjs-editor-new-alt-text-missing-button-label = Այլընտրանքային գրվածքը բացակայում է
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = Վերանայել այլընտրանքային գրվածքը
+pdfjs-editor-new-alt-text-to-review-button-label = Վերանայել այլընտրանքային գրվածքը
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Ստեղծվել է ինքնաշխատվ՝ { $generatedAltText }
+
+## Image alt-text settings
+
+pdfjs-image-alt-text-settings-button =
+    .title = Պատկերի այլընտրանքային գրվածքի կարգավորումներ
+pdfjs-image-alt-text-settings-button-label = Պատկերի այլընտրանքային գրվածքի կարգավորումներ
+pdfjs-editor-alt-text-settings-dialog-label = Պատկերի այլընտրանքային գրվածքի կարգավորումներ
+pdfjs-editor-alt-text-settings-automatic-title = Ինքնաշխատ այլընտրանքային գրվածք
+pdfjs-editor-alt-text-settings-create-model-button-label = Ինքնաշխատ ստեղծել այլընտրանքային գրվածք
+pdfjs-editor-alt-text-settings-create-model-description = Կարճ նկարագրություն նրանց համար, ովքեր չեն կարող տեսնել պատկերը կամ երբ պատկերը չի բեռնվում։
+pdfjs-editor-alt-text-settings-delete-model-button = Ջնջել
+pdfjs-editor-alt-text-settings-download-model-button = Ներբեռնել
+pdfjs-editor-alt-text-settings-downloading-model-button = Ներբեռնվում է…
+pdfjs-editor-alt-text-settings-close-button = Փակել
 
 ## Accessibility labels (announced by screen readers) for objects added to the editor.
 
+pdfjs-editor-stamp-added-alert = Պատկերն ավելացված է
 pdfjs-editor-signature-added-alert = Ստորագրությունն ավելացված է
+
+## "Annotations removed" bar
+
+pdfjs-editor-undo-bar-message-stamp = Պատկերը հեռացվել է
+pdfjs-editor-undo-bar-message-signature = Ստորագրությունը հեռացված է
+pdfjs-editor-undo-bar-undo-button =
+    .title = Հետարկել
+pdfjs-editor-undo-bar-undo-button-label = Հետարկել
+pdfjs-editor-undo-bar-close-button =
+    .title = Փակել
+pdfjs-editor-undo-bar-close-button-label = Փակել
 
 ## Add a signature dialog
 
 pdfjs-editor-add-signature-dialog-label = Այս յուրահատկությունը հնարավորություն է տալիս օգտվողին ստեղծել ստորագրություն՝ PDF փաստաթղթում ավելացնելու համար: Օգտվողը կարող է խմբագրել անունը (որը նաև ծառայում է որպես alt տեքստ) և լրացուցիչ պահպանել այն՝ հետագա օգտագործման համար:
 pdfjs-editor-add-signature-dialog-title = Ավելացնել ստորագրություն
+
+## Tab names
+
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Տեսակ
+    .title = Տեսակ
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Նկարել
+    .title = Նկարել
+pdfjs-editor-add-signature-image-button = Պատկեր
+    .title = Պատկեր
+
+## Tab panels
+
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Մուտքագրեք ձեր ստորագրությունը
+    .placeholder = Մուտքագրեք ձեր ստորագրությունը
+pdfjs-editor-add-signature-draw-placeholder = Նկարեք ձեր ստորագրությունը
+pdfjs-editor-add-signature-draw-thickness-range-label = Հաստություն
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Նկաելու հաստությունը՝ { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Քաշեք ֆայլը այստեղ՝ վերբեռնելու համար
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Կամ ընտրեք պատկերի ֆայլը
+       *[other] Կամ ընտրեք պատկերի ֆայլերը
+    }
+
+## Controls
+
+pdfjs-editor-add-signature-description-label = Նկարագրություն (այլընտրանքային գրվածք)
+pdfjs-editor-add-signature-description-input =
+    .title = Նկարագրություն (այլընտրանքային գրվածք)
+pdfjs-editor-add-signature-description-default-when-drawing = Ստորագրություն
+pdfjs-editor-add-signature-clear-button-label = Մաքրել ստորագրությունը
+pdfjs-editor-add-signature-clear-button =
+    .title = Մաքրել ստորագրությունը
+pdfjs-editor-add-signature-save-checkbox = Պահպանել ստորագրությունը
+pdfjs-editor-add-signature-save-warning-message = Դուք հասել եք պահպանված ստորագրությունների 5 սահմանաչափին։ Հեռացրեք մեկը՝ ավելին պահպանելու համար։
+pdfjs-editor-add-signature-image-upload-error-title = Չհաջողվեց վերբեռնել պատկերը
+pdfjs-editor-add-signature-image-upload-error-description = Ստուգեք ձեր ցանցային կապակցումը կամ փորձեք մեկ այլ պատկեր։
+pdfjs-editor-add-signature-image-no-data-error-title = Այս պատկերը հնարավոր չէ վերածել ստորագրության
+pdfjs-editor-add-signature-image-no-data-error-description = Խնդրում եմ փորձեք վերբեռնել այլ պատկեր։
+pdfjs-editor-add-signature-error-close-button = Փակել
+
+## Dialog buttons
+
+pdfjs-editor-add-signature-cancel-button = Չեղարկել
+pdfjs-editor-add-signature-add-button = Ավելացնել
+pdfjs-editor-edit-signature-update-button = Թարմացնել
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-actions-button-label = Գործողություններ
+pdfjs-editor-edit-comment-actions-button =
+    .title = Գործողություններ
+pdfjs-editor-edit-comment-close-button-label = Փակել
+pdfjs-editor-edit-comment-close-button =
+    .title = Փակել
+pdfjs-editor-edit-comment-actions-edit-button-label = Խմբագրել
+pdfjs-editor-edit-comment-actions-delete-button-label = Ջնջել
+pdfjs-editor-edit-comment-manager-text-input =
+    .placeholder = Մուտքագրեք ձեր մեկնաբանությունը
+pdfjs-editor-edit-comment-manager-cancel-button = Չեղարկել
+pdfjs-editor-edit-comment-manager-save-button = Պահպանել
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-edit-comment-button =
+    .title = Խմբագրել մեկնաբանությունը
+
+## Main menu for adding/removing signatures
+
+pdfjs-editor-delete-signature-button1 =
+    .title = Հեռացնել պահպանված ստորագրությունը
+pdfjs-editor-delete-signature-button-label1 = Հեռացնել պահպանված ստորագրությունը
+
+## Editor toolbar
+
+pdfjs-editor-add-signature-edit-button-label = Խմբագրել նկարագրությունը
+
+## Edit signature description dialog
+
+pdfjs-editor-edit-signature-dialog-title = Խմբագրել նկարագրությունը

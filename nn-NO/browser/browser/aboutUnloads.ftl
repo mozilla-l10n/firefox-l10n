@@ -13,7 +13,7 @@ about-unloads-intro =
     Den neste fana som skal frigjerast er utvald basert på fleire kriterium.
     Denne sida viser korleis { -brand-short-name } prioriterer mellom fanene, og kva for faner som vert frigjorde
     når fanefrigjering er nødvendig. Du kan manuelt frigjere faner
-    ved å klikke på <em>Frigjør</em>-knappen nedanfor.
+    ved å klikke på <em>Frigjer</em>-knappen nedanfor.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
