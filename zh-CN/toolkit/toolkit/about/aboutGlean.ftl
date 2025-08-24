@@ -20,6 +20,7 @@ about-glean-category-manual-testing = 手动测试
 about-glean-category-adhoc-testing = 临时测试
 about-glean-category-profiler = 使用分析器
 about-glean-category-about-data = 关于数据
+about-glean-category-metrics-table = 指标表
 about-glean-upload-enabled = 已启用数据上传。
 about-glean-upload-disabled = 已禁用数据上传。
 about-glean-upload-enabled-local = 数据上传仅在发送到本地服务器时启用。
@@ -85,6 +86,8 @@ about-glean-about-data-list-item-dictionary = 若要浏览 { -glean-brand-name }
 about-glean-about-data-list-item-about-telemetry = 若要浏览旧版遥测正在收集的数据，请查阅 <a data-l10n-name="about-telemetry-link">about:telemetry</a>。
 about-glean-about-data-list-item-debug-ping-viewer = 若要浏览调试标签、查看所有 ping、查看实时事件流、查看可视化指标，请查阅 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>。
 about-glean-about-data-list-item-firefox-profiler = 若要记录性能分析、查看已记录的所有指标，请使用 <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>。
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = 名称
 # This message refers to a given metric's metric type.
 about-glean-metrics-table-header-type = 类型
 # This message refers to the underlying value of a given metric.
@@ -95,4 +98,7 @@ about-glean-button-load-all = 加载所有值
 about-glean-button-load-value = 加载
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = 文档
+about-glean-button-watch = 监视
+# Meaning "to stop watching"
+about-glean-button-unwatch = 取消监视
 about-glean-about-data-explanation = 要浏览收集的数据列表，请查阅 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。
