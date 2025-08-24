@@ -7,3 +7,4 @@ clear-data-for-site-title = Voleu esborrar totes les dades d'aquest lloc web?
 #   $site (string) - Website name
 clear-data-for-site-list = Això esborrarà totes les dades de { $site }, inclosos:
 clear-data-for-site-browsing-history = Historial de navegació i de baixades
+clear-data-for-site-cookies = Galetes i dades del lloc, que us poden tancar la sessió iniciada

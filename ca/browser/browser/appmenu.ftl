@@ -27,6 +27,10 @@ appmenuitem-downloads =
     .label = Baixades
 appmenuitem-passwords =
     .label = Contrasenyes
+appmenuitem-extensions-and-themes =
+    .label = Extensions i temes
+appmenuitem-extensions =
+    .label = Extensions
 appmenuitem-addons-and-themes =
     .label = Complements i temes
 appmenuitem-print =
@@ -166,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Maj+2
     }
+profiler-button-dropmarker =
+    .label = Obre la subfinestra de l'analitzador de rendiment
+    .tooltiptext = Obre la subfinestra de l'analitzador de rendiment
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -192,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Preconfiguració recomanada per a investigar errors d'àudio i vídeo del { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Elements multimèdia
+profiler-popup-presets-ml-description = Preconfiguració recomanada per a investigar errors d'aprenentatge automàtic del { -brand-shorter-name }.
+profiler-popup-presets-ml-label =
+    .label = Aprenentatge automàtic
 profiler-popup-presets-networking-description = Preconfiguració recomanada per a investigar errors de xarxa del { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Xarxa
