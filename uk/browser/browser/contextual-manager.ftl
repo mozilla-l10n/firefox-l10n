@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Імпортуват�
 contextual-manager-passwords-command-import = Імпортувати з файлу…
 contextual-manager-passwords-command-export = Експортувати паролі
 contextual-manager-passwords-command-remove-all = Вилучити всі паролі
+contextual-manager-passwords-command-options = Налаштування
 contextual-manager-passwords-command-settings = Налаштування
 contextual-manager-passwords-command-help = Допомога
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }

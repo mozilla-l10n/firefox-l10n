@@ -511,7 +511,7 @@ identity-permissions-storage-access-learn-more = Докладніше
 identity-permissions-reload-hint = Для застосування змін, можливо, доведеться перезавантажити сторінку.
 identity-clear-site-data =
     .label = Стерти файли cookie та дані сайтів…
-identity-connection-not-secure-security-view = Ваше з'єднання з цим сайтом незахищене.
+identity-connection-not-secure-security-view = Ваше з'єднання з цим сайтом не захищене.
 identity-connection-verified = Ваше з'єднання з цим сайтом захищене.
 identity-ev-owner-label = Сертифікат виданий:
 identity-description-custom-root2 = Mozilla не розпізнає цього видавця сертифіката. Він міг бути доданий вашою операційною системою чи адміністратором.
@@ -826,6 +826,52 @@ urlbar-result-dismissal-acknowledgment-market = Дякуємо за відгук
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Дякуємо за відгук. Ви більше не бачитимете цих пропозицій.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Через { $daysUntilStart } день
+        [few] { $name } · Через { $daysUntilStart } дні
+       *[many] { $name } · Через { $daysUntilStart } днів
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Починається через { $daysUntilStart } день
+        [few] { $name } · Починається через { $daysUntilStart } дні
+       *[many] { $name } · Починається через { $daysUntilStart } днів
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Завершується через { $daysUntilEnd } день
+        [few] { $name } · Завершується через { $daysUntilEnd } дні
+       *[many] { $name } · Завершується через { $daysUntilEnd } днів
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Сьогодні
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Завершується сьогодні
 
 ## Strings used for buttons in the urlbar
 
@@ -1189,6 +1235,10 @@ tabs-toolbar-list-all-tabs =
     .label = Список усіх вкладок
     .tooltiptext = Список усіх вкладок
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Перетягніть вкладку сюди, щоб закріпити
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1365,3 +1415,151 @@ onboarding-checklist-button-label = Завершити налаштування
 onboarding-aw-finish-setup-button =
     .label = Завершити налаштування
     .tooltiptext = Завершити налаштування { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Розширений захист від стеження увімкнено
+trustpanel-etp-label-disabled = Розширений захист від стеження вимкнено
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Розширений захист від відстеження: увімкнено для { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Розширений захист від відстеження: вимкнено для { $host }
+trustpanel-etp-description-enabled = Якщо на цьому сайті щось не працює, спробуйте вимкнути захист.
+trustpanel-etp-description-disabled = { -brand-product-name } вважає, що компанії повинні менше стежити за вами. Ми блокуємо якомога більше елементів стеження, коли ви вмикаєте захист.
+trustpanel-connection-label-secure = Захищене з'єднання
+trustpanel-connection-label-insecure = Незахищене з'єднання
+trustpanel-header-enabled = { -brand-product-name } на сторожі
+trustpanel-description-enabled = Ви захищені. Якщо ми щось помітимо, то повідомимо вас
+trustpanel-header-disabled = Ви вимкнули захист
+trustpanel-description-disabled = { -brand-product-name } не працює. Ми пропонуємо знову ввімкнути захист.
+trustpanel-clear-cookies-button = Стерти файли cookie та дані сайтів
+trustpanel-privacy-link = Налаштування приватності
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Стерти файли cookie та дані сайту для { $host }
+trustpanel-clear-cookies-description = Вилучення файлів cookie та даних може призвести до виходу на вебсайтах і очищення кошиків для покупок.
+trustpanel-clear-cookies-subview-button-clear = Стерти
+trustpanel-clear-cookies-subview-button-cancel = Скасувати
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Захист з'єднання для { $host }
+trustpanel-connection-secure = Ваше з'єднання з цим сайтом захищене.
+trustpanel-connection-not-secure = Ваше з'єднання з цим сайтом не захищене.
+trustpanel-siteinformation-morelink = Більше інформації про сайт
+trustpanel-blocker-see-all = Показати все
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Захист від стеження для { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] На цьому сайті заблоковано <span>{ $count }</span> елемент стеження
+        [few] На цьому сайті заблоковано <span>{ $count }</span> елементи стеження
+       *[many] На цьому сайті заблоковано <span>{ $count }</span> елементів стеження
+    }
+trustpanel-blocker-description = { -brand-product-name } вважає, що компанії повинні менше стежити за вами. Тому ми блокуємо якомога більше елементів стеження.
+trustpanel-blocked-header = { -brand-product-name } заблокував ці елементи:
+trustpanel-tracking-header = Щоб не пошкодити сайти, { -brand-product-name } дозволив ці елементи:
+trustpanel-tracking-description = Без елементів стеження деякі кнопки, форми та поля входу можуть не працювати.
+trustpanel-insecure-section-header = Ваше з'єднання не захищене
+trustpanel-insecure-description = Дані, які ви надсилаєте на цей сайт, не зашифровані. Їх можуть переглянути, викрасти або змінити.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } файл cookie для стеження між сайтами
+        [few] { $count } файли cookie для стеження між сайтами
+       *[many] { $count } файлів cookie для стеження між сайтами
+    }
+trustpanel-list-label-tracking-content = Вміст стеження
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } засіб зчитування цифрового відбитка
+        [few] { $count } засоби зчитування цифрового відбитка
+       *[many] { $count } засобів зчитування цифрового відбитка
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } елемент стеження соціальних мереж
+        [few] { $count } елементи стеження соціальних мереж
+       *[many] { $count } елементів стеження соціальних мереж
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } криптомайнер
+        [few] { $count } криптомайнери
+       *[many] { $count } криптомайнерів
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблокував { $count } елемент стеження соціальних мереж
+        [few] { -brand-product-name } заблокував { $count } елементи стеження соціальних мереж
+       *[many] { -brand-product-name } заблокував { $count } елементів стеження соціальних мереж
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } дозволив { $count } елемент стеження соціальних мереж
+        [few] { -brand-product-name } дозволив { $count } елементи стеження соціальних мереж
+       *[many] { -brand-product-name } дозволив { $count } елементів стеження соціальних мереж
+    }
+trustpanel-social-tracking-tab-list-header = Ці сайти намагаються стежити за вами:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблокував { $count } файл cookie для стеження між сайтами
+        [few] { -brand-product-name } заблокував { $count } файли cookie для стеження між сайтами
+       *[many] { -brand-product-name } заблокував { $count } файлів cookie для стеження між сайтами
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } дозволив { $count } файл cookie для стеження між сайтами
+        [few] { -brand-product-name } дозволив { $count } файли cookie для стеження між сайтами
+       *[many] { -brand-product-name } дозволив { $count } файлів cookie для стеження між сайтами
+    }
+trustpanel-tracking-cookies-tab-list-header = Ці сайти намагаються стежити за вами:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблокував { $count } елемент стеження
+        [few] { -brand-product-name } заблокував { $count } елементи стеження
+       *[many] { -brand-product-name } заблокував { $count } елементів стеження
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } дозволив { $count } елемент стеження
+        [few] { -brand-product-name } дозволив { $count } елементи стеження
+       *[many] { -brand-product-name } дозволив { $count } елементів стеження
+    }
+trustpanel-tracking-content-tab-list-header = Ці сайти намагаються стежити за вами:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблокував { $count } засіб зчитування цифрового відбитка
+        [few] { -brand-product-name } заблокував { $count } засоби зчитування цифрового відбитка
+       *[many] { -brand-product-name } заблокував { $count } засобів зчитування цифрового відбитка
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } дозволив { $count } засіб зчитування цифрового відбитка
+        [few] { -brand-product-name } дозволив { $count } засоби зчитування цифрового відбитка
+       *[many] { -brand-product-name } дозволив { $count } засобів зчитування цифрового відбитка
+    }
+trustpanel-fingerprinter-list-header = Ці сайти намагаються отримати цифровий відбиток вашого браузера:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } заблокував { $count } криптомайнер
+        [few] { -brand-product-name } заблокував { $count } криптомайнери
+       *[many] { -brand-product-name } заблокував { $count } криптомайнерів
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } дозволив { $count } криптомайнер
+        [few] { -brand-product-name } дозволив { $count } криптомайнери
+       *[many] { -brand-product-name } дозволив { $count } криптомайнерів
+    }
+trustpanel-cryptominer-tab-list-header = Ці сайти намагаються використовувати ваш комп'ютер для криптомайнингу:
