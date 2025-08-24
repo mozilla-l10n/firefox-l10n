@@ -1423,7 +1423,7 @@ trustpanel-header-enabled = El { -brand-product-name } està en guàrdia
 trustpanel-description-enabled = Esteu protegit. Si detectem alguna cosa, us ho farem saber
 trustpanel-header-disabled = Heu desactivat les proteccions
 trustpanel-description-disabled = El { -brand-product-name } està fora de servei. Us recomanem reactivar les proteccions.
-trustpanel-clear-cookies-button = Esborra les galetes i dades dels llocs
+trustpanel-clear-cookies-button = Esborra les galetes i dades del lloc
 trustpanel-privacy-link = Paràmetres de privadesa
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
@@ -1448,6 +1448,11 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> element de seguiment blocat en aquest lloc
+       *[other] <span>{ $count }</span> elements de seguiment blocats en aquest lloc
+    }
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } galeta de seguiment entre llocs

@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Паведамляць сайтам, каб яны не прадавалі і не дзяліліся маімі звесткамі
     .accesskey = ы
 non-technical-privacy-header = Налады прыватнасці сайта
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Закрыць
+do-not-track-removal2 =
+    .label = Мы больш не падтрымліваем сігнал «Не асочваць»
 
 ## Browser Restart Dialog
 
@@ -1270,6 +1274,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Падрабязней
 content-blocking-etp-standard-tcp-title = Уключае поўную ахову ад кукаў, нашу наймагутнейшую функцыю прыватнасці
 content-blocking-warning-title = Увага!
 content-blocking-and-isolating-etp-warning-description-3 = Гэта налада можа прывесці да таго, што некаторыя сайты не будуць паказваць змесціва або працаваць няправільна. Мы прапануем неабавязковыя выключэнні для сайтаў, на якія, як мы ведаем, можа паўплываць ваша канфігурацыя. Каб паменшыць імавернасць пашкоджання сайтаў, дазвольце гэтыя выключэнні для трэкераў. Калі сайт выглядае зламаным, вы можаце адключыць ахову ад сачэння для гэтага сайта, каб загрузіць усё змесціва, і паведаміць аб праблеме, каб мы маглі дапамагчы выправіць яе для ўсіх.
+content-blocking-warning-title-2 = Некаторыя сайты могуць перастаць працаваць са строгай аховай ад сачэння
 content-blocking-and-isolating-etp-warning-description-2 = Гэта налада можа прывесці да таго, што некаторыя вэб-сайты не будуць паказваць змесціва ці працаваць карэктна. Калі сайт здаецца няспраўным, вы можаце адключыць ахову ад сачэння на гэтым сайце, каб чытаць увесь змест.
 content-blocking-warning-learn-how = Даведацца, як
 content-blocking-baseline-exceptions =
