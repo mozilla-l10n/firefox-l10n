@@ -41,7 +41,7 @@ about-logins-menu-menuitem-help = Օգնություն
 ## Login List
 
 login-list =
-    .aria-label = Մուտքագրումների համապատասխանության որոնման հարցում
+    .aria-label = Մուտքագրումների համընկնման որոնման հարցում
 # Variables
 #   $count (number) - Number of logins
 login-list-count =

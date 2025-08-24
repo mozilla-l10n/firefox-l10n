@@ -165,7 +165,7 @@ sidebar-menu-close-ai-chatbot-provider-tooltip = Закрити { $provider } ({
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
-    .heading = Налаштувати бічну панель
+    .heading = Налаштування бічної панелі
 sidebar-menu-history-header =
     .heading = Історія
 sidebar-menu-syncedtabs-header =
@@ -177,7 +177,7 @@ sidebar-panel-header-close-button =
 
 ## Titles for sidebar menu panels.
 
-sidebar-customize-title = Налаштувати бічну панель
+sidebar-customize-title = Налаштування бічної панелі
 sidebar-history-title = Історія
 sidebar-syncedtabs-title = Вкладки з інших пристроїв
 

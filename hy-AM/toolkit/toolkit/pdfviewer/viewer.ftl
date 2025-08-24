@@ -488,20 +488,40 @@ pdfjs-editor-alt-text-settings-dialog-label = Պատկերի այլընտրան�
 pdfjs-editor-alt-text-settings-automatic-title = Ինքնաշխատ այլընտրանքային գրվածք
 pdfjs-editor-alt-text-settings-create-model-button-label = Ինքնաշխատ ստեղծել այլընտրանքային գրվածք
 pdfjs-editor-alt-text-settings-create-model-description = Կարճ նկարագրություն նրանց համար, ովքեր չեն կարող տեսնել պատկերը կամ երբ պատկերը չի բեռնվում։
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Այլընտրանքային գրվածքի արհեստական բանականության մոդել ({ $totalSize } ՄԲ)
+pdfjs-editor-alt-text-settings-ai-model-description = Աշխատում է տեղայնորեն ձեր սարքի վրա, որպեսզի ձեր տվյալները մնան գաղտնի: Պահանջվում է ինքնաշխատ այլընտրանքային գրվածքի համար:
 pdfjs-editor-alt-text-settings-delete-model-button = Ջնջել
 pdfjs-editor-alt-text-settings-download-model-button = Ներբեռնել
 pdfjs-editor-alt-text-settings-downloading-model-button = Ներբեռնվում է…
+pdfjs-editor-alt-text-settings-editor-title = Այլընտրանքային գրվածքի խմբագիր
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Պատկեր ավելացնելիս անմիջապես ցուցադրել այլընտրանքային գրվածքի խմբագիրը
+pdfjs-editor-alt-text-settings-show-dialog-description = Օգնում է  համոզվել, որ ձեր բոլոր պատկերներն ունեն այլընտրանքային գրվածք։
 pdfjs-editor-alt-text-settings-close-button = Փակել
 
 ## Accessibility labels (announced by screen readers) for objects added to the editor.
 
+pdfjs-editor-highlight-added-alert = Գունանշումը ավելացվել է
+pdfjs-editor-freetext-added-alert = Գրվածքը ավելացվել է
+pdfjs-editor-ink-added-alert = Նկարումը ավելացվել է
 pdfjs-editor-stamp-added-alert = Պատկերն ավելացված է
 pdfjs-editor-signature-added-alert = Ստորագրությունն ավելացված է
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Գունանշումը հեռացված է
+pdfjs-editor-undo-bar-message-freetext = Գրվածքը հեռացվել է
+pdfjs-editor-undo-bar-message-ink = Նկարվածը հեռացվել է
 pdfjs-editor-undo-bar-message-stamp = Պատկերը հեռացվել է
 pdfjs-editor-undo-bar-message-signature = Ստորագրությունը հեռացված է
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } մեկնաբանությունը հեռացվել է
+       *[other] { $count } մեկնաբանությունները հեռացվել են
+    }
 pdfjs-editor-undo-bar-undo-button =
     .title = Հետարկել
 pdfjs-editor-undo-bar-undo-button-label = Հետարկել

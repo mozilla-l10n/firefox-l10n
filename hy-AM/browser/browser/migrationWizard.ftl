@@ -237,7 +237,7 @@ migration-wizard-progress-success-extensions =
 migration-wizard-progress-partial-success-extensions = { $matched }-ը { $quantity } ընդլայնումներից
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
-migration-wizard-progress-no-matched-extensions = Համապատասխան ընդլայնումներ չկան
+migration-wizard-progress-no-matched-extensions = Համընկնող ընդլայնումներ չկան
 migration-wizard-progress-extensions-addons-link = Ընտրեք ընդլայնումներ { -brand-short-name }-ի համար
 
 ##

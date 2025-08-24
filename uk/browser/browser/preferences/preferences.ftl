@@ -12,7 +12,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Вказувати вебсайтам не продавати мої дані та не ділитися ними
     .accesskey = к
-non-technical-privacy-header = Налаштування приватності вебсайту
+non-technical-privacy-header = Налаштування приватності вебсайтів
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -183,7 +183,7 @@ warn-on-open-many-tabs =
     .label = Попереджати, коли відкриття великої кількості вкладок може сповільнити роботу { -brand-short-name }
     .accesskey = л
 switch-to-new-tabs =
-    .label = При відкритті посилання, зображення чи медіа в новій вкладці, одразу ж перемикатись на неї
+    .label = Відкриваючи посилання, зображення чи медіа в новій вкладці, одразу ж перемикатись на неї
     .accesskey = й
 show-tabs-in-taskbar =
     .label = Показувати нариси вкладок у панелі завдань Windows
@@ -244,7 +244,7 @@ browser-layout-show-sidebar-desc = Швидкий доступ до заклад
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Мова і зовнішній вигляд
-preferences-web-appearance-header = Зовнішній вигляд сайту
+preferences-web-appearance-header = Зовнішній вигляд сайтів
 preferences-web-appearance-description = Деякі вебсайти адаптують свою колірну схему відповідно до ваших уподобань. Виберіть, яку колірну схему ви хочете використовувати для цих сайтів.
 preferences-web-appearance-choice-auto = Автоматично
 preferences-web-appearance-choice-light = Світла
@@ -272,7 +272,7 @@ preferences-web-appearance-override-warning = Вибрані кольори ма
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Керуйте темами { -brand-short-name } у розділі <a data-l10n-name="themes-link">Розширення й теми</a>
 preferences-contrast-control-header = Керування контрастом
-preferences-contrast-control-description = Вебсайти мають різні кольори переднього і заднього плану. Налаштуйте { -brand-short-name } на використання однакових кольорів на вебсайтах для кращої читабельності.
+preferences-contrast-control-description = Вебсайти мають різні кольори переднього і заднього плану. Налаштуйте використання однакових кольорів у { -brand-short-name } на різних вебсайтах для кращого сприйняття.
 preferences-contrast-control-use-platform-settings =
     .label = Автоматично (налаштування системи)
     .accesskey = А
@@ -568,7 +568,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Нові вікна і вкладки
-home-new-windows-tabs-description2 = Оберіть, що ви бачите при відкритті домівки, нових вікон та вкладок.
+home-new-windows-tabs-description2 = Оберіть, що ви хочете бачити, відкриваючи домівку, нові вікна і вкладки.
 
 ## Home Section - Home Page Customization
 
@@ -713,7 +713,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic2 = Змінити налаштування для інших пропозицій панелі адреси
 search-suggestions-cant-show = Пошукові пропозиції не будуть показуватись в панелі адреси, тому що ви налаштували { -brand-short-name } ніколи не запам'ятовувати історію.
 search-one-click-header2 = Пошукові скорочення
-search-one-click-desc = Оберіть альтернативні пошукові системи, що з'являються під рядками адреси і пошуку, коли ви починаєте вводити ключове слово.
+search-one-click-desc = Оберіть альтернативні пошукові системи, що з'являються під панелями адреси і пошуку, коли ви починаєте вводити ключове слово.
 search-choose-engine-column =
     .label = Пошукова система
 search-choose-keyword-column =
@@ -1058,7 +1058,7 @@ autofill-reauth-payment-methods-checkbox = Вимагати входу на пр
 
 ## Privacy Section - History
 
-history-header = Історія відвідувань
+history-header = Історія
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -1217,7 +1217,7 @@ addressbar-restore-dismissed-suggestions-button =
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Розширений захист від стеження
-content-blocking-section-top-level-description = Елементи стеження переслідують вас в мережі з метою збору інформації про ваші звички та інтереси. { -brand-short-name } блокує багато такого стеження, а також інші підозрілі скрипти.
+content-blocking-section-top-level-description = Елементи стеження переслідують вас в інтернеті з метою збору інформації про ваші звички та інтереси. { -brand-short-name } блокує багато такого стеження, а також інші зловмисні скрипти.
 content-blocking-learn-more = Докладніше
 content-blocking-fpi-incompatibility-warning = Ви використовуєте First Party Isolation (FPI), що замінює деякі налаштування файлів cookie { -brand-short-name }.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
@@ -1275,7 +1275,7 @@ content-blocking-warning-learn-how = Навчитися
 content-blocking-baseline-exceptions =
     .label = Дозволити { -brand-short-name } автоматично застосовувати винятки для запобігання збоям у роботі вебсайтів.
 content-blocking-convenience-exceptions =
-    .label = Також автоматично застосовувати винятки, необхідні для виправлення лише незначних проблем та забезпечення доступності зручних функцій.
+    .label = Також автоматично застосовувати винятки, необхідні для виправлення лише незначних проблем і забезпечення доступності зручних функцій.
 content-blocking-reload-description = Вам необхідно перезавантажити вкладки для застосування змін.
 content-blocking-reload-tabs-button =
     .label = Перезавантажити всі вкладки
@@ -1369,7 +1369,7 @@ permissions-block-popups-exceptions-button =
     .accesskey = В
     .searchkeywords = popups
 permissions-addon-install-warning =
-    .label = Попереджати при спробі вебсайтів встановити додаток
+    .label = Попереджати про спроби вебсайтів встановити додатки
     .accesskey = ж
 permissions-addon-exceptions =
     .label = Винятки…
@@ -1522,7 +1522,7 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Типовий захист
     .accesskey = Т
-preferences-doh-default-desc = { -brand-short-name } вирішує, коли використовувати захищену DNS для захисту вашої приватності.
+preferences-doh-default-desc = { -brand-short-name } вирішує, коли використовувати захищену DNS для вашої приватності.
 preferences-doh-default-detailed-desc-1 = Використовувати захищену DNS у регіонах, де вона доступна
 preferences-doh-default-detailed-desc-2 = Використовувати ваш типовий DNS-перетворювач у разі проблем із провайдером захищеної DNS
 preferences-doh-default-detailed-desc-3 = Використовувати локального провайдера, якщо це можливо
