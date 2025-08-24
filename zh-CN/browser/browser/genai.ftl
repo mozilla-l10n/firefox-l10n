@@ -227,6 +227,11 @@ link-preview-settings-long-press =
 link-preview-onboarding-title-long-press = 新功能：长按任意链接即可预览
 # Header for the key points section
 link-preview-key-points-header = 要点
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = 要点由 AI 生成，可能存在错误。
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = 首次运行设置 • <strong>{ $progress }%</strong>
 # Onboarding card See a preview button
 link-preview-onboarding-button = 查看预览
 # Onboarding card Close button
