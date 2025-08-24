@@ -1420,6 +1420,30 @@ trustpanel-etp-description-disabled = El { -brand-product-name } creu que les em
 trustpanel-connection-label-secure = Connexió segura
 trustpanel-connection-label-insecure = La connexió no és segura
 trustpanel-header-enabled = El { -brand-product-name } està en guàrdia
+trustpanel-description-enabled = Esteu protegit. Si detectem alguna cosa, us ho farem saber
+trustpanel-header-disabled = Heu desactivat les proteccions
+trustpanel-description-disabled = El { -brand-product-name } està fora de servei. Us recomanem reactivar les proteccions.
+trustpanel-clear-cookies-button = Esborra les galetes i dades dels llocs
+trustpanel-privacy-link = Paràmetres de privadesa
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Esborra les galetes i les dades del lloc { $host }
+trustpanel-clear-cookies-description = En eliminar les galetes i les dades del lloc, pot ser que se us tanquin les sessions o que se us buidin els carros de la compra dels llocs web.
+trustpanel-clear-cookies-subview-button-clear = Esborra
+trustpanel-clear-cookies-subview-button-cancel = Cancel·la
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Proteccions de connexió per a { $host }
+trustpanel-connection-secure = Esteu connectat de forma segura a aquest lloc.
+trustpanel-connection-not-secure = No esteu connectat de forma segura a aquest lloc.
+trustpanel-siteinformation-morelink = Més informació del lloc
+trustpanel-blocker-see-all = Mostra-ho tot
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Proteccions conta el seguiment per a { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

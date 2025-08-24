@@ -607,3 +607,57 @@ newtab-trending-searches-learn-more = Saiba mais
 newtab-trending-searches-dismiss = Ocultar pesquisas em alta
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Pesquisas em alta
+
+## Strings for task / to-do list productivity widget
+
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = As possibilidades são infinitas. Adicione uma tarefa.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Novidade
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Tarefas concluídas { $number }
+newtab-widget-task-list-menu-copy = Copiar
+newtab-widget-lists-menu-edit = Editar nome da lista
+newtab-widget-lists-menu-create = Criar nova lista
+newtab-widget-lists-menu-delete = Excluir esta lista
+newtab-widget-lists-menu-copy = Copiar lista para a área de transferência
+newtab-widget-lists-menu-hide = Ocultar todas as listas
+newtab-widget-lists-menu-learn-more = Saiba mais
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Adicionar um item
+newtab-widget-lists-input-error = Inclua texto para adicionar um item.
+newtab-widget-lists-input-menu-open-link = Abrir link
+newtab-widget-lists-input-menu-move-up = Para cima
+newtab-widget-lists-input-menu-move-down = Para baixo
+newtab-widget-lists-input-menu-delete = Excluir
+newtab-widget-lists-input-menu-edit = Editar
+newtab-widget-lists-name-label-default =
+    .label = Lista de tarefas
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Lista de tarefas
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Nova lista
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Temporizador
+newtab-widget-timer-mode-focus =
+    .label = Foco
+newtab-widget-timer-reset =
+    .title = Redefinir
+newtab-widget-timer-menu-notifications = Desativar notificações
+newtab-widget-timer-menu-notifications-on = Ativar notificações
+newtab-widget-timer-menu-hide = Esconder o temporizador
+newtab-widget-timer-menu-learn-more = Saiba mais
+newtab-promo-card-body = Nossos patrocinadores apoiam nossa missão de construir uma web melhor
+newtab-promo-card-cta = Saiba mais
+newtab-promo-card-dismiss-button =
+    .title = Descartar
+    .aria-label = Descartar

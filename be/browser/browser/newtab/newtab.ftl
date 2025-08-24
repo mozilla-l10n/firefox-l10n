@@ -339,6 +339,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Таймер
 newtab-custom-widget-section-title = Віджэты
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Закрыць
+    .aria-label = Закрыць меню
 newtab-custom-close-button = Закрыць
 newtab-custom-settings = Кіраваць дадатковымі наладамі
 
@@ -615,6 +619,11 @@ newtab-trending-searches-title = Папулярныя пошукавыя зап�
 
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Магчымасці бязмежныя. Дадайце яшчэ адну.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Навінка
+newtab-widget-lists-label-beta =
+    .label = Бэта
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -626,6 +635,8 @@ newtab-widget-lists-menu-delete = Выдаліць гэты спіс
 newtab-widget-lists-menu-copy = Скапіяваць спіс у буфер абмену
 newtab-widget-lists-menu-hide = Схаваць усе спісы
 newtab-widget-lists-menu-learn-more = Падрабязней
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Дадаць элемент
 newtab-widget-lists-input-error = Калі ласка, улучыце тэкст, каб дадаць элемент.
 newtab-widget-lists-input-menu-open-link = Адкрыць спасылку
 newtab-widget-lists-input-menu-move-up = Рухаць угору
@@ -661,6 +672,14 @@ newtab-widget-timer-menu-notifications = Выключыць апавяшчэнн
 newtab-widget-timer-menu-notifications-on = Уключыць апавяшчэнні
 newtab-widget-timer-menu-hide = Схаваць таймер
 newtab-widget-timer-menu-learn-more = Падрабязней
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Прагартайце, каб даведацца больш
+newtab-widget-message-title = Заставайцеся сканцэнтраванымі з дапамогай спісаў і ўбудаванага таймера
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Паспявайце ўсё з дапамогай хуткіх напамінаў, спісаў задач, заняткаў па канцэнтрацыі ўвагі ды перапынкаў на размінку.
 newtab-promo-card-title = Падтрымаць { -brand-product-name }
 newtab-promo-card-body = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту
 newtab-promo-card-cta = Падрабязней
+newtab-promo-card-dismiss-button =
+    .title = Адхіліць
+    .aria-label = Адхіліць
