@@ -667,7 +667,7 @@ newtab-widget-timer-pause =
     .title = Pausa
 newtab-widget-timer-reset =
     .title = Återställ
-newtab-widget-timer-menu-notifications = Stäng av notiser
+newtab-widget-timer-menu-notifications = Stäng av aviseringar
 newtab-widget-timer-menu-notifications-on = Slå på aviseringar
 newtab-widget-timer-menu-hide = Dölj timer
 newtab-widget-timer-menu-learn-more = Läs mer
@@ -675,7 +675,7 @@ newtab-widget-timer-menu-learn-more = Läs mer
 newtab-widget-keep-scrolling = Bläddra för mer
 newtab-widget-message-title = Håll fokus med listor och en inbyggd timer
 # to-dos stands for "things to do".
-newtab-widget-message-copy = Från snabba påminnelser till dagliga att göra, fokussessioner till stretchpauser — håll dig uppdaterad och i tid.
+newtab-widget-message-copy = Från snabba påminnelser till dagliga att-göra-uppgifter, fokussessioner till stretchpauser — håll dig fokuserad och i tid.
 newtab-promo-card-title = Stöd { -brand-product-name }
 newtab-promo-card-body = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb
 newtab-promo-card-cta = Läs mer

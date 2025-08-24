@@ -386,6 +386,7 @@ quickactions-help = Ajuda del { -brand-product-name }
 quickactions-cmd-help = ajuda, assistència, suport
 # Opens the devtools web inspector
 quickactions-inspector2 = Obre les eines per a desenvolupadors
+quickactions-cmd-inspector2 = inspector, eines de desenvolupament, devtools, dev tools
 quickactions-cmd-inspector = inspector, devtools, desenvolupador
 # Opens about:logins
 quickactions-logins2 = Gestiona les contrasenyes
@@ -409,6 +410,7 @@ quickactions-restart = Reinicia el { -brand-short-name }
 quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot3 = Fes una captura de pantalla
+quickactions-cmd-screenshot2 = captura de pantalla, fes una captura de pantalla, fer una captura de pantalla
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings2 = Gestiona els paràmetres

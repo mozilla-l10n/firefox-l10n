@@ -152,6 +152,12 @@ contextual-manager-passwords-password-already-exists-error-button = Vés a la co
 contextual-manager-passwords-update-password-success-heading =
     .heading = S’ha desat la contrasenya
 contextual-manager-passwords-update-password-success-button = Fet
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = S’ha desat el nom d’usuari
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = S’ha afegit el nom d’usuari
+contextual-manager-passwords-update-username-success-heading =
+    .heading = S’ha desat el nom d’usuari
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -197,17 +203,21 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Afegeix un nom d’usuari
     .message = Afegiu-ne un per iniciar la sessió més ràpid.
 contextual-manager-passwords-add-username-button = Afegeix un nom d’usuari
+contextual-manager-passwords-title = Contrasenyes
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Afegeix una contrasenya
+contextual-manager-passwords-update-label =
+    .label = Actualitza la contrasenya
 contextual-manager-passwords-edit-label =
     .label = Edita la contrasenya
 contextual-manager-passwords-remove-label =
     .title = Elimina la contrasenya
 contextual-manager-passwords-origin-tooltip = Introduïu l’adreça exacta on iniciareu la sessió en aquest lloc.
 contextual-manager-passwords-username-tooltip = Introduïu el nom d’usuari, l’adreça electrònica o el número de compte que utilitzeu per iniciar la sessió.
+contextual-manager-passwords-password-tooltip-2 = Introduïu la contrasenya per a iniciar la sessió en aquest compte.
 contextual-manager-passwords-password-tooltip = Introduïu la contrasenya que utilitzeu per iniciar la sessió en aquest compte.
 
 ## Password Card
@@ -259,6 +269,22 @@ contextual-manager-view-alert-heading =
     .heading = Mostra l’alerta
 contextual-manager-view-alert-button =
     .tooltiptext = Revisa l’alerta
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Mostra l’alerta
+           *[other] View alerts
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Revisa l’alerta
+           *[other] Review alerts
+        }
 contextual-manager-show-password-button =
     .aria-label = Mostra la contrasenya
     .title = Mostra la contrasenya
@@ -291,3 +317,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = No es desaran els canvis.
 contextual-manager-passwords-discard-changes-close-button = Tanca
 contextual-manager-passwords-discard-changes-go-back-button = Vés enrere
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Sí, elimina la contrasenya
+       *[other] Yes, remove passwords
+    }
+contextual-manager-primary-password-learn-more-link = Més informació
