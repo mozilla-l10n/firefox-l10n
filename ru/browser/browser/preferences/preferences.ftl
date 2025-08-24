@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Сообщать веб-сайтам, чтобы они не продавали и не разглашали мои данные
     .accesskey = ы
 non-technical-privacy-header = Настройки конфиденциальности веб-сайта
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Закрыть
+do-not-track-removal2 =
+    .label = Мы больше не поддерживаем сигнал «Не отслеживать»
 
 ## Browser Restart Dialog
 
@@ -1270,12 +1274,20 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Подробнее
 content-blocking-etp-standard-tcp-title = Включает Полную защиту от кук, нашу самую мощную функцию защиты приватности.
 content-blocking-warning-title = Осторожно!
 content-blocking-and-isolating-etp-warning-description-3 = Эта настройка может вызвать ошибки отображения содержимого или неправильную работу некоторых веб-сайтов. Мы предоставляем необязательные исключения для веб-сайтов, которые, как мы знаем, могут быть затронуты вашей конфигурацией. Чтобы уменьшить вероятность неработоспособности сайтов, разрешите эти исключения для трекеров. Если сайт кажется неработающим, вы можете отключить защиту от отслеживания для этого сайта, чтобы загрузить всё его содержимое, и сообщить об этой проблеме, чтобы мы смогли помочь починить её для всех и каждого.
+content-blocking-warning-title-2 = Некоторые сайты могут не работать со строгой защитой от отслеживания
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } рекомендует использовать настройки «Устранение проблем с сайтом», чтобы уменьшить количество неработоспособных сайтов и содержимого. Если сайт кажется неработающим, попробуйте отключить защиту от отслеживания на этом сайте, чтобы загрузить всё содержимое.
 content-blocking-and-isolating-etp-warning-description-2 = Эта настройка может вызвать ошибки отображения содержимого или нарушение правильной работы некоторых сайтов. Если кажется, что сайт не работает, вам, возможно, понадобится отключить защиту от отслеживания на этом сайте, чтобы загрузить всё его содержимое.
 content-blocking-warning-learn-how = Подробнее
 content-blocking-baseline-exceptions =
     .label = Разрешить { -brand-short-name } автоматически применять исключения, необходимые для избежания серьезных проблем с сайтами.
+content-blocking-baseline-exceptions-2 =
+    .label = Помогает загружать сайты и функции, разблокируя только необходимые элементы, которые могут содержать трекеры. Покрывает наиболее распространенные проблемы.
 content-blocking-convenience-exceptions =
     .label = Также автоматически применить исключения, которые требуются только для исправления незначительных проблем и обеспечения доступности удобных функций.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Восстанавливает такие вещи, как видео в статье или комментарии, разблокируя элементы, которые могут содержать трекеры. Это может уменьшить проблемы с сайтом, но даст более слабую защиту. Должен использоваться с исправлениями для основных проблем.
 content-blocking-reload-description = Вам понадобится обновить свои вкладки, чтобы применить эти изменения.
 content-blocking-reload-tabs-button =
     .label = Обновить все вкладки
