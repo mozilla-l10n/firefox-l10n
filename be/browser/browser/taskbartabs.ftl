@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Дадаць картку на панэль задач
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Выдаліць картку з панэлі задач
+taskbar-tab-urlbar-button-show = Паказаць дзеянне старонкі вэб-праграмы
+taskbar-tab-urlbar-button-hide = Схаваць дзеянне старонкі вэб-праграмы
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
@@ -25,3 +27,10 @@ taskbar-tab-shortcut-description = Вэб-праграма { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Вэб-праграмы { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Сцішыць картку
+taskbar-tab-audio-unmute =
+    .tooltiptext = Разцішыць картку

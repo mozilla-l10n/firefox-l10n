@@ -222,3 +222,7 @@ link-preview-reading-time =
         [few] { $range } хвіліны чытання
        *[many] { $range } хвілін чытання
     }
+# Text for the retry link when generation fails
+link-preview-generation-retry = Паспрабаваць зноў
+# Onboarding card Close button
+link-preview-onboarding-close = Закрыць
