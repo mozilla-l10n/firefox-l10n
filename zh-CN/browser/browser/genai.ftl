@@ -211,6 +211,10 @@ link-preview-reading-time = 阅读时间 { $range } 分钟
 link-preview-error-message = 无法预览此链接。
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = 访问链接
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = 我们无法为此网页生成要点。
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = 出了点问题。
 # Text for the retry link when generation fails
 link-preview-generation-retry = 重试
 # Button that opens the Link Preview settings
@@ -223,6 +227,8 @@ link-preview-settings-key-points =
     .label = 允许 AI 读取页面开头并生成要点
 link-preview-settings-long-press =
     .label = 快捷键：长按链接 1 秒
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = 想用 AI 看到更多内容吗？
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = 新功能：长按任意链接即可预览
 # Header for the key points section
@@ -232,6 +238,8 @@ link-preview-key-points-disclaimer = 要点由 AI 生成，可能存在错误。
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = 首次运行设置 • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = 您下次就能更快看到要点。
 # Onboarding card See a preview button
 link-preview-onboarding-button = 查看预览
 # Onboarding card Close button
