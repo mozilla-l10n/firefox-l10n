@@ -1453,6 +1453,7 @@ trustpanel-blocker-section-header =
         [one] <span>{ $count }</span> element de seguiment blocat en aquest lloc
        *[other] <span>{ $count }</span> elements de seguiment blocats en aquest lloc
     }
+trustpanel-blocker-description = El { -brand-product-name } creu que les empreses us haurien de fer menys seguiment, així que bloquem tot allò que podem.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } galeta de seguiment entre llocs
