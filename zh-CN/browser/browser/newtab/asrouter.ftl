@@ -364,6 +364,7 @@ windows-10-eos-sync-toast-secondary-label = 稍后提醒
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } 不像其他科技巨头旗下浏览器那样是系统预装应用，这就是原因。
 windows-10-eos-challenger-pin-callout-subtitle = 将 { -brand-shorter-name } 固定到任务栏，让您选择的浏览器召之即来。
 windows-10-eos-challenger-sync-primary-button = 备份 { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = 固定 { -brand-shorter-name }
