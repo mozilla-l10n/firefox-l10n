@@ -20,6 +20,7 @@ about-glean-category-manual-testing = Ручное тестирование
 about-glean-category-adhoc-testing = Специальное тестирование
 about-glean-category-profiler = Использование профайлера
 about-glean-category-about-data = О данных
+about-glean-category-metrics-table = Таблица метрик
 about-glean-upload-enabled = Выгрузка данных включена.
 about-glean-upload-disabled = Выгрузка данных отключена.
 about-glean-upload-enabled-local = Выгрузка данных включена только для отправки на локальный сервер.
@@ -139,6 +140,36 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Чтобы записать профиль производительности и просмотреть все записанные метрики, используйте
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Все метрики
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Категория
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Имя
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Тип
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Значение
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Действия
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Фильтр
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Это отфильтрует расположенную ниже таблицу на основе категории, имени, типа и значения (если значение имеет простой тип).
+about-glean-button-load-all = Загрузить все значения
+about-glean-button-load-value = Загрузить
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Документация
+about-glean-button-watch = Отслеживать
+# Meaning "to stop watching"
+about-glean-button-unwatch = Снять отслеживание
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Метрики с метками пока не поддерживаются при просмотре <code>about:glean</code>.
+about-glean-unknown-metric-type-warning = Неизвестный тип метрики.
 about-glean-about-data-explanation =
     Чтобы просмотреть список собранных данных, обратитесь к
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Словарю</a>.

@@ -1288,6 +1288,13 @@ content-blocking-convenience-exceptions =
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
 content-blocking-convenience-exceptions-2 =
     .label = Восстанавливает такие вещи, как видео в статье или комментарии, разблокируя элементы, которые могут содержать трекеры. Это может уменьшить проблемы с сайтом, но даст более слабую защиту. Должен использоваться с исправлениями для основных проблем.
+content-blocking-baseline-label = Устранение основных проблем с сайтами (рекомендуется)
+content-blocking-convenience-label = Устранение незначительных проблем с сайтами
+content-blocking-exceptions-subheader = Устранение проблем с сайтами
+content-blocking-baseline-uncheck-warning-dialog-title = Вы уверены, что хотите отключить исправления?
+content-blocking-baseline-uncheck-warning-dialog-body = Эта настройка помогает устранить наиболее распространенные проблемы с сайтами. Если вы отключите её, некоторые сайты могут не работать, и { -brand-short-name } не сможет помочь устранить эти проблемы.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Отключить исправления
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Оставить исправления включёнными
 content-blocking-reload-description = Вам понадобится обновить свои вкладки, чтобы применить эти изменения.
 content-blocking-reload-tabs-button =
     .label = Обновить все вкладки

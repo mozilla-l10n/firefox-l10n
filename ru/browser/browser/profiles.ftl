@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = Морской синий
 profiles-terracotta-theme-2 = Кирпичный красный
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Зелёный мох
+profiles-gray-theme = Серый
+profiles-yellow-theme = Жёлтый
+profiles-orange-theme = Оранжевый
+profiles-red-theme = Красный
+profiles-pink-theme = Розовый
+profiles-purple-theme = Пурпурный
+profiles-violet-theme = Фиолетовый
+profiles-blue-theme = Синий
+profiles-green-theme = Зелёный
+profiles-cyan-theme = Бирюзовый
 
 ## Alternative text for default profile icons
 
