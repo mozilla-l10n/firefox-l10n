@@ -134,6 +134,6 @@ tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
             [1] Frigjør fane
-           *[other] Unload { $tabCount } Tabs
+           *[other] Frigjør { $tabCount } faner
         }
     .accesskey = F
