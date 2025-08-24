@@ -320,6 +320,7 @@ fxa-menu-message-sign-in-button = Entrar
 fxa-menu-message-sync-button = Iniciar sincronização
 fxa-menu-message-sync-devices-primary-text = Sincronize todos os seus dispositivos
 fxa-menu-message-sync-devices-secondary-text = Acesse imediatamente suas informações, como favoritos e senhas, onde quer que use o { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Tenha imediatamente seus favoritos, senhas e outras coisas, em qualquer lugar que esteja conectado ao { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronize todos os seus dispositivos
 fxa-menu-message-backup-data-primary-text = Faça backup dos dados do seu navegador
 fxa-menu-message-backup-data-secondary-text = Proteja automaticamente favoritos, senhas e outras informações em todos os seus dispositivos.
@@ -367,3 +368,14 @@ windows-10-eos-sync-toast-secondary-label = Lembrar mais tarde
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-sync-callout-subtitle = Ao fazer backup dos seus favoritos e senhas do { -brand-product-name }, fica mais fácil levar o navegador que você escolheu para o seu próximo dispositivo.
+windows-10-eos-challenger-sync-primary-button = Faça backup do { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = O { -brand-product-name } bloqueia mineração de criptomoedas, rastreadores de redes sociais e rastreadores de identidade digital.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Rastreadores não podem identificar seu dispositivo e nem te seguir pela web, porque nós não deixamos.
+windows-10-eos-sync-callout-privacy-screen-2-title = Proteja suas senhas e favoritos para seu próximo dispositivo.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Fazer backup do { -brand-shorter-name } facilita levar seus dados e configurações de privacidade com você.
+windows-10-eos-sync-callout-privacy-info-button = Veja o que é bloqueado
+windows-10-eos-callout-addons-title = Experimente extensões: mudanças simples, grandes impactos.
+windows-10-eos-callout-addons-subtitle = Estas extensões foram escolhidas para te ajudar a continuar produtivo, protegido e livre de distrações.
+windows-10-eos-callout-addons-primary-button = Veja nossas escolhas
+windows-10-eos-sync-callout-addons-title = Não perca suas extensões ao atualizar a partir do Windows 10.

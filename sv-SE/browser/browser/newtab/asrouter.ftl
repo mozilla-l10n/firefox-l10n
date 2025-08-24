@@ -367,7 +367,7 @@ windows-10-eos-sync-toast-secondary-label = Påminn mig senare
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
-windows-10-eos-challenger-callout-title = { -brand-product-name } är inte förinstallerad som andra Big Tech-webbläsare. Det är poängen.
+windows-10-eos-challenger-callout-title = { -brand-product-name } är inte förinstallerad som andra stora teknikwebbläsare. Det är poängen.
 windows-10-eos-challenger-sync-callout-subtitle = När du säkerhetskopierar dina bokmärken och lösenord för { -brand-product-name } är det enklare att ta med den webbläsare du valde till din nästa enhet.
 windows-10-eos-challenger-pin-callout-subtitle = Fäst { -brand-shorter-name } i aktivitetsfältet så att webbläsaren du valde alltid finns där när du behöver den.
 windows-10-eos-challenger-sync-primary-button = Säkerhetskopiera { -brand-shorter-name }
@@ -389,7 +389,7 @@ windows-10-eos-sync-callout-get-started-button = Kom igång
 
 windows-10-eos-feature-toast-title = Vertikala flikar och flikgrupper är här!
 # In English, "dropped" is a colloquial form for released.
-windows-10-eos-feature-toast-subtitle = På allmän begäran släppte { -brand-product-name } precis nya funktioner för att hålla din surfning strömlinjeformad och fokuserad.
+windows-10-eos-feature-toast-subtitle = På allmän begäran har { -brand-product-name } precis släppt nya funktioner för att hålla din surfning effektiv och fokuserad.
 windows-10-eos-feature-toast-whats-new-button = Se vad som är nytt
 windows-10-eos-feature-toast-dismiss-button = Ignorera
 

@@ -11,3 +11,26 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Бетті тапсырмалар панеліне қосу
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Бетті тапсырмалар панелінен өшіру
+taskbar-tab-urlbar-button-show = Веб-қолданба бетінде әрекетті көрсету
+taskbar-tab-urlbar-button-hide = Веб-қолданба беті әрекетін жасыру
+# This string is used in the description of a Windows Start Menu
+# shortcut for a Taskbar Tab.
+# Variables:
+#   $name (string) - A name associated to the website. This might be
+#                    pulled from a Web Application Manifest, generated
+#                    via a heuristic, or simply be the hostname of the
+#                    site.
+taskbar-tab-shortcut-description = { $name } веб-қолданбасы
+# This string is used as the name of the folder that contains Taskbar
+# Tabs. Don't use any characters that can't go in a folder name, or
+# they will be replaced by underscores. (This generally means to not
+# use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
+# should be fine.)
+taskbar-tab-shortcut-folder = { -brand-short-name } веб-қолданбалары
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Бет дыбысын басу
+taskbar-tab-audio-unmute =
+    .tooltiptext = Бет дыбысын іске қосу
