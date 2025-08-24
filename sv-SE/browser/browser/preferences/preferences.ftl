@@ -1290,6 +1290,7 @@ content-blocking-exceptions-subheader = Åtgärda webbplatsproblem
 content-blocking-baseline-uncheck-warning-dialog-title = Är du säker på att du vill inaktivera korrigeringar?
 content-blocking-baseline-uncheck-warning-dialog-body = Den här inställningen hjälper till att åtgärda de vanligaste webbplatsproblemen. Om du inaktiverar den kanske vissa webbplatser inte fungerar, och { -brand-short-name } kommer inte att kunna hjälpa till att felsöka dessa problem.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Stäng av korrigeringar
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Behåll korrigeringar på
 content-blocking-reload-description = Du måste ladda om dina flikar för att kunna tillämpa ändringarna.
 content-blocking-reload-tabs-button =
     .label = Ladda om alla flikar

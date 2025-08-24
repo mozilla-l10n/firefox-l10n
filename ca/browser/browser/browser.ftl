@@ -805,6 +805,8 @@ urlbar-result-weather-provider-sponsored = { $provider } · Patrocinat
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Obteniu dades del mercat de valors directament a la barra de cerca
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Mostra actualitzacions dels mercats i més informació dels nostres socis quan compartiu dades de consultes de cerca amb { -vendor-short-name }. <a data-l10n-name="learn-more-link">Més informació</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Mostra suggeriments
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -812,6 +814,11 @@ urlbar-result-realtime-opt-in-not-now = Ara no
 urlbar-result-realtime-opt-in-dismiss = Descarta
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = No mostris aquests suggeriments
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = No mostris suggeriments dels mercats
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Gràcies pels vostres comentaris. Ja no veureu suggeriments dels mercats.
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Gràcies pels vostres comentaris. Ja no veureu aquests suggeriments.
@@ -1333,6 +1340,11 @@ popup-notification-xpinstall-prompt-block-url = Mostra detalls
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Permet que l’extensió s’executi en finestres privades
     .accesskey = P
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Comparteix dades tècniques i d’interacció amb el desenvolupador de l’extensió
+    .accesskey = d
 
 ## Pop-up warning
 
@@ -1384,10 +1396,30 @@ file-picker-crashed-show-in-folder =
     .label = Mostra en la carpeta
     .accessKey = M
 
+## Onboarding Finish Setup checklist
+
+onboarding-checklist-button-label = Finalitza la configuració
+onboarding-aw-finish-setup-button =
+    .label = Finalitza la configuració
+    .tooltiptext = Finalitza la configuració del { -brand-short-name }
+
 ## The urlbar trust panel
 
 trustpanel-etp-label-enabled = La protecció contra el seguiment millorada està activada
 trustpanel-etp-label-disabled = La protecció contra el seguiment millorada està desactivada
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protecció contra el seguiment millorada: Activada per a { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protecció contra el seguiment millorada: Desactivada per a { $host }
+trustpanel-etp-description-enabled = Si us sembla que aquest lloc no funciona bé, proveu de desactivar les proteccions.
+trustpanel-etp-description-disabled = El { -brand-product-name } creu que les empreses us haurien de fer menys seguiment. Bloquem tants elements de seguiment com podem quan activeu les proteccions.
+trustpanel-connection-label-secure = Connexió segura
+trustpanel-connection-label-insecure = La connexió no és segura
+trustpanel-header-enabled = El { -brand-product-name } està en guàrdia
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

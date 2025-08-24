@@ -11,8 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Lägg till flik i aktivitetsfältet
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Ta bort flik från aktivitetsfältet
-taskbar-tab-urlbar-button-show = Visa åtgärder på webbappen
-taskbar-tab-urlbar-button-hide = Dölj åtgärd webbappssida
+taskbar-tab-urlbar-button-show = Visa sidåtgärd för webbappen
+taskbar-tab-urlbar-button-hide = Dölj sidåtgärd för webbappen
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

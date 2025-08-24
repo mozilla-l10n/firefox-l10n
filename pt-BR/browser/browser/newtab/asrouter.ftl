@@ -379,3 +379,26 @@ windows-10-eos-callout-addons-title = Experimente extensões: mudanças simples,
 windows-10-eos-callout-addons-subtitle = Estas extensões foram escolhidas para te ajudar a continuar produtivo, protegido e livre de distrações.
 windows-10-eos-callout-addons-primary-button = Veja nossas escolhas
 windows-10-eos-sync-callout-addons-title = Não perca suas extensões ao atualizar a partir do Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sincronize agora, para que suas extensões do { -brand-product-name } estejam sempre disponíveis, mesmo que você mude de dispositivo.
+windows-10-eos-sync-callout-next-button = Próximo
+windows-10-eos-sync-callout-get-started-button = Começar
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Aqui estão abas na vertical e grupos de abas!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Atendendo a pedidos populares, o { -brand-product-name } acaba de lançar novos recursos para manter sua navegação simples e focada.
+windows-10-eos-feature-toast-whats-new-button = Veja as novidades
+windows-10-eos-feature-toast-dismiss-button = Descartar
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>A proteção rigorosa contra rastreamento pode atrapalhar sites.</strong> Corrija problemas comuns, desbloqueando elementos essenciais que podem conter rastreadores.
+etp-strict-exceptions-infobar-learn-more = Saiba mais
+etp-strict-exceptions-infobar-button = Aplicar correções
+    .accesskey = A

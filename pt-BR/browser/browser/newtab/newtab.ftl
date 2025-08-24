@@ -325,6 +325,17 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Pesquisas em alta
     .description = Tópicos populares e pesquisados com frequência
+newtab-custom-widget-trending-search-toggle =
+    .label = Pesquisas em alta
+newtab-custom-widget-lists-toggle =
+    .label = Listas
+newtab-custom-widget-timer-toggle =
+    .label = Temporizador
+newtab-custom-widget-section-title = Widgets
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Fechar
+    .aria-label = Fechar menu
 newtab-custom-close-button = Fechar
 newtab-custom-settings = Gerenciar mais configurações
 

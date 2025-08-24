@@ -70,7 +70,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det är fragmenterat, dvs. dess innehåll är uppdelat på flera kolumner eller sidor.
 inactive-css-no-width-height = <strong>{ $property }</strong> har ingen effekt på det här elementet eftersom dess bredd och höjd inte kan ställas in.
-inactive-css-no-principal-box = <strong>{ $property }</strong> har ingen effekt på det här elementet eftersom det inte skapar en principal-box.
+inactive-css-no-principal-box = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det inte skapar en principalbox.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -109,7 +109,7 @@ inactive-css-resize-fix = Prova att ställa in <strong>overflow</strong> till et
 inactive-css-ruby-element-fix = Prova att ändra <strong>teckenstorleken</strong> på ruby-texten. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Försök att minska antalet rader. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Undvik att dela upp elementets innehåll, t.ex. genom att ta bort kolumnerna eller genom att använda <strong>page-break-inside:avoid</strong>. { learn-more }
-inactive-css-no-principal-box-fix = Testa att lägga till ett <strong>display</strong>-värde som skapar en principalbox, till exempel <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> eller <strong>rutnät</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Försök att lägga till ett <strong>display</strong>-värde som skapar en principal box, till exempel <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> eller <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
