@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Web sitelerine verilerimi satmamalarını ve paylaşmamalarını söyle
     .accesskey = W
 non-technical-privacy-header = Web sitesi gizlilik tercihleri
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Kapat
+do-not-track-removal2 =
+    .label = Artık “Do Not Track” sinyalini desteklemiyoruz
 
 ## Browser Restart Dialog
 
@@ -1266,12 +1270,19 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Daha fazla bilgi al
 content-blocking-etp-standard-tcp-title = Şimdiye kadarki en güçlü gizlilik özelliğimiz olan komple çerez korumasını içerir
 content-blocking-warning-title = Dikkat!
 content-blocking-and-isolating-etp-warning-description-3 = Bu ayar bazı sitelerde içeriklerin düzgün görünmemesine veya sitelerin düzgün çalışmamasına yol açabilir. Yapılandırmanızdan etkilenebileceğini bildiğimiz siteler için isteğe bağlı olarak uygulayabileceğiniz istisnalar sunuyoruz. Bozuk sitelerle karşılaşma ihtimalinizi azaltmak isterseniz bu takip kodu istisnalarına izin verin. Bir site bozuk görünüyorsa o sitede izlenme korumasını kapatarak içeriğin tamamını yükleyebilir, ardından sorunu çözmemiz için bize rapor edebilirsiniz.
+content-blocking-warning-title-2 = Sıkı izlenme koruması bazı siteleri bozabilir
 content-blocking-and-isolating-etp-warning-description-2 = Bu ayar, bazı web sitelerinin içeriğinin görünmemesine veya düzgün çalışmamasına neden olabilir. Site bozuk görünüyorsa o sitenin tüm içeriğinin yüklemesi için izlenme korumasını kapatabilirsiniz.
 content-blocking-warning-learn-how = Nasıl yapılacağını öğrenin
 content-blocking-baseline-exceptions =
     .label = Bazı sitelerin ciddi şekilde bozulmasını önlemek için { -brand-short-name } gerekli istisnaları otomatik olarak uygulasın.
 content-blocking-convenience-exceptions =
     .label = Yalnızca küçük sorunları düzeltmek ve kullanışlı özellikleri çalışır halde tutmak için gereken istisnalar da otomatik olarak uygulansın.
+content-blocking-baseline-label = Önemli site sorunlarını düzelt (önerilir)
+content-blocking-convenience-label = Küçük site sorunlarını düzelt
+content-blocking-exceptions-subheader = Site sorunlarını düzelt
+content-blocking-baseline-uncheck-warning-dialog-title = Düzeltmeleri kapatmak istediğinizden emin misiniz?
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Düzeltmeleri kapat
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Düzeltmeleri açık tut
 content-blocking-reload-description = Bu değişiklikleri uygulamak için sekmelerinizi tazelemeniz gerekiyor.
 content-blocking-reload-tabs-button =
     .label = Sekmeleri tazele

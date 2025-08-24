@@ -392,3 +392,14 @@ windows-10-eos-feature-toast-title = Dikey sekmeler ve sekme grupları kullanım
 windows-10-eos-feature-toast-subtitle = Yoğun istek üzerine { -brand-product-name } gezinmenizi kolaylaştıracak ve odaklanmanızı sağlayacak yeni özellikleri kullanıma sundu.
 windows-10-eos-feature-toast-whats-new-button = Yeniliklere bak
 windows-10-eos-feature-toast-dismiss-button = Kapat
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Daha fazla bilgi al
+etp-strict-exceptions-infobar-button = Düzeltmeleri uygula
+    .accesskey = D

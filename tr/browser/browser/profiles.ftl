@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = Okyanus mavisi
 profiles-terracotta-theme-2 = Tuğla kırmızısı
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Yosun yeşili
+profiles-gray-theme = Gri
+profiles-yellow-theme = Sarı
+profiles-orange-theme = Turuncu
+profiles-red-theme = Kırmızı
+profiles-pink-theme = Pembe
+profiles-purple-theme = Mor
+profiles-violet-theme = Eflatun
+profiles-blue-theme = Mavi
+profiles-green-theme = Yeşil
+profiles-cyan-theme = Açık mavi
 
 ## Alternative text for default profile icons
 

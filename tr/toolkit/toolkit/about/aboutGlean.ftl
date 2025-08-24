@@ -20,6 +20,7 @@ about-glean-category-manual-testing = Manuel test
 about-glean-category-adhoc-testing = Ad hoc test
 about-glean-category-profiler = Profilleyiciyi kullanma
 about-glean-category-about-data = Veriler hakkında
+about-glean-category-metrics-table = Ölçüm tablosu
 about-glean-upload-enabled = Veri yükleme etkin.
 about-glean-upload-disabled = Veri yükleme devre dışı.
 about-glean-upload-enabled-local = Veri yükleme yalnızca yerel bir sunucuya göndermek üzere etkin.
@@ -124,4 +125,27 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Performans profili kaydetmek ve kaydedilen tüm ölçümleri görmek için lütfen
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>’ı kullanın.
+about-glean-metrics-table-header = Tüm ölçümler
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategori
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Ad
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Tür
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Değer
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Eylemler
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtrele
+about-glean-button-load-all = Tüm değerleri yükle
+about-glean-button-load-value = Yükle
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Belgeler
+about-glean-button-watch = İzle
+# Meaning "to stop watching"
+about-glean-button-unwatch = İzlemeyi bırak
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Etiketli ölçümler henüz <code>about:glean</code> görünümünde desteklenmiyor.
+about-glean-unknown-metric-type-warning = Bilinmeyen ölçüm türü.
 about-glean-about-data-explanation = Toplanan verilerin listesine göz atmak için lütfen <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.
