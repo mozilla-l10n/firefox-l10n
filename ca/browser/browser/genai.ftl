@@ -120,3 +120,14 @@ genai-onboarding-huggingchat-switch = Canvieu entre un ampli ventall de models o
 genai-onboarding-huggingchat-price-2 = Gratuït; cal un compte després d'un cert nombre de sol·licituds
 genai-onboarding-lechat-generate = Genera text i codi
 genai-onboarding-lechat-price = Gratuït; cal un compte
+
+## Link previews
+
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Visita l’enllaç
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = No podem generar els punts clau d’aquesta pàgina web.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Alguna cosa ha anat malament.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Torna-ho a provar

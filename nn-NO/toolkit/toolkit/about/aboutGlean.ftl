@@ -100,7 +100,7 @@ about-glean-adhoc-explanation =
 about-glean-adhoc-explanation2 =
     For meir <i>ad hoc</i>-testing,
     kan du også bestemme gjeldande verdi for eit bestemt instrument
-    ved å opne ein konsoll i utviklerverktøyet her på <code>about:glean</code>
+    ved å opne ein konsoll i utviklarverktøyet her på <code>about:glean</code>
     og bruke <code>testGetValue()</code> API som
     <code>Glean.metricCategory.metricName.testGetValue()</code>
     for eit analyseresultat kalla <code>metric.category.metric_name</code>.

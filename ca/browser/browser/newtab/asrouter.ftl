@@ -304,6 +304,16 @@ multi-cta-fox-doodle-start-browsing-primary-button-label = Comença a navegar
 multi-cta-fox-doodle-main-browser-primary-button-label = Fes que el { -brand-short-name } sigui el meu navegador principal
 multi-cta-fox-doodle-quick-reminder-subtitle = Us volem recordar que podeu tenir el vostre navegador centrat en la privadesa preferit a un sol clic.
 
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-addons-title = No perdeu els complements quan actualitzeu des del Windows 10.
+windows-10-eos-sync-callout-next-button = Següent
+windows-10-eos-sync-callout-get-started-button = Inicia
+
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Ja són aquí les les pestanyes verticals i els grups de pestanyes!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = A petició popular, el { -brand-product-name } presenta noves funcions per optimitzar la vostra navegació i reduir les distraccions.
+windows-10-eos-feature-toast-whats-new-button = Descobriu les novetats
+windows-10-eos-feature-toast-dismiss-button = Descarta

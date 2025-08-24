@@ -86,6 +86,7 @@ fxa-adoption-passwords-primary-button-label = Registre
 
 windows-10-eos-sync-urgency-title-1 = Quan passeu al Windows 11, no perdeu tot allò que heu desat.
 windows-10-eos-sync-urgency-subtitle-1 = Sincronitzeu ara mateix per conservar les vostres adreces d’interès, contrasenyes i els paràmetres del { -brand-short-name } amb total seguretat i fàcils de restaurar.
+windows-10-eos-sync-urgency-title-2 = Us esteu acomiadant del Windows 10? Protegiu les vostres dades quan feu el canvi.
 windows-10-eos-sync-tour-title-1 = Massa pestanyes? Endreceu-les amb els grups de pestanyes.
 windows-10-eos-sync-tour-subtitle-1 = Arrossegueu una pestanya a sobre d’una altra per crear un grup i tenir-ho tot organitzat.
 
