@@ -8,6 +8,9 @@
 newtab-page-title = Pestanya nova
 newtab-settings-button =
     .title = Personalitzeu la pàgina de pestanya nova
+newtab-customize-panel-icon-button =
+    .title = Personalitza aquesta pàgina
+newtab-customize-panel-icon-button-label = Personalitza
 newtab-personalize-settings-icon-label =
     .title = Personalitza la pestanya nova
     .aria-label = Paràmetres
@@ -85,6 +88,14 @@ newtab-confirm-delete-history-p2 = Aquesta acció no es pot desfer.
 
 newtab-topsite-sponsored = Patrocinat
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (fixat)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -120,9 +131,20 @@ newtab-menu-delete-pocket = Suprimeix del { -pocket-brand-name }
 newtab-menu-archive-pocket = Arxiva en el { -pocket-brand-name }
 newtab-menu-show-privacy-info = Els nostres patrocinadors i la vostra privadesa
 newtab-menu-about-fakespot = Quant a { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Informa
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bloca
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Deixa de seguir el tema
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+newtab-menu-manage-sponsored-content = Gestiona el contingut patrocinat
+newtab-menu-our-sponsors-and-your-privacy = Els nostres patrocinadors i la vostra privadesa
+newtab-menu-report-this-ad = Informa sobre aquest anunci
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -184,6 +206,8 @@ newtab-label-sponsored-by = Patrocinat per { $sponsor }
 #   $source (string) - The name of a company or their domain
 #   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } - { $timeToRead } min
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = Patrocinat
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -214,6 +238,8 @@ newtab-section-header-recent-activity = Activitat recent
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recomanat per { $provider }
 newtab-section-header-stories = Articles suggerents
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Seleccions del dia
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -246,6 +272,12 @@ newtab-pocket-cta-text = Deseu els vostres articles preferits al { -pocket-brand
 newtab-pocket-pocket-firefox-family = El { -pocket-brand-name } és part de la família { -brand-product-name }
 newtab-pocket-save = Desa
 newtab-pocket-saved = S'ha desat
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = Més d’aquest estil
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 

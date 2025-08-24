@@ -228,6 +228,18 @@ pdfjs-password-ok-button = Լավ
 pdfjs-password-cancel-button = Չեղարկել
 pdfjs-web-fonts-disabled = Վեբ-տառատեսակները անջատված են. հնարավոր չէ օգտագործել ներկառուցված PDF տառատեսակները:
 
+## Editing
+
+pdfjs-editor-signature-button =
+    .title = Ավելացնել ստորագրություն
+pdfjs-editor-signature-button-label = Ավելացնել ստորագրություն
+
+##
+
+pdfjs-editor-signature-add-signature-button =
+    .title = Ավելացնել նոր ստորագրություն
+pdfjs-editor-signature-add-signature-button-label = Ավելացնել նոր ստորագրություն
+
 ## Alt-text dialog
 
 pdfjs-editor-alt-text-save-button = Պահպանել
@@ -243,3 +255,12 @@ pdfjs-editor-highlight-show-all-button =
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
 pdfjs-editor-new-alt-text-not-now-button = Ոչ հիմա
+
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-signature-added-alert = Ստորագրությունն ավելացված է
+
+## Add a signature dialog
+
+pdfjs-editor-add-signature-dialog-label = Այս յուրահատկությունը հնարավորություն է տալիս օգտվողին ստեղծել ստորագրություն՝ PDF փաստաթղթում ավելացնելու համար: Օգտվողը կարող է խմբագրել անունը (որը նաև ծառայում է որպես alt տեքստ) և լրացուցիչ պահպանել այն՝ հետագա օգտագործման համար:
+pdfjs-editor-add-signature-dialog-title = Ավելացնել ստորագրություն

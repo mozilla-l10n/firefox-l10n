@@ -317,3 +317,15 @@ windows-10-eos-feature-toast-title = Ja són aquí les les pestanyes verticals i
 windows-10-eos-feature-toast-subtitle = A petició popular, el { -brand-product-name } presenta noves funcions per optimitzar la vostra navegació i reduir les distraccions.
 windows-10-eos-feature-toast-whats-new-button = Descobriu les novetats
 windows-10-eos-feature-toast-dismiss-button = Descarta
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>La protecció contra el seguiment estricta pot fer que els llocs web no funcionin correctament.</strong> Resoleu els problemes habituals desblocant els elements essencials que podrien contenir elements de seguiment.
+etp-strict-exceptions-infobar-learn-more = Més informació
+etp-strict-exceptions-infobar-button = Aplica les correccions
+    .accesskey = A
