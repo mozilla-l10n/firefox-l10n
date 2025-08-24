@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importa d’un altre 
 contextual-manager-passwords-command-import = Importa d’un fitxer…
 contextual-manager-passwords-command-export = Exporta les contrasenyes
 contextual-manager-passwords-command-remove-all = Elimina totes les contrasenyes
+contextual-manager-passwords-command-options = Opcions
 contextual-manager-passwords-command-settings = Paràmetres
 contextual-manager-passwords-command-help = Ajuda
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -65,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Noves: { $added }; actualitzades: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Noves: { $added }; actualitzades: { $modified }; duplicades: { $no_change }; errors: { $error }
 contextual-manager-passwords-import-detailed-report = Mostra un informe detallat
 contextual-manager-passwords-import-success-button = Fet
 contextual-manager-passwords-import-error-heading-and-message =
@@ -294,6 +301,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = No s’ha trobat cap contrasenya
+contextual-manager-passwords-no-passwords-found-message-2 = Proveu-ho amb un altre terme i repetiu la cerca.
 contextual-manager-passwords-no-passwords-found-message = No s’ha trobat cap contrasenya. Cerqueu un altre terme i torneu-ho a provar.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -308,6 +316,8 @@ contextual-manager-passwords-no-passwords-message = Totes les contrasenyes estan
 contextual-manager-passwords-no-passwords-get-started-message = Afegiu-les aquí per començar.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Afegeix manualment
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Deseu les contrasenyes en un lloc segur
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -323,4 +333,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Sí, elimina la contrasenya
        *[other] Yes, remove passwords
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Per veure les contrasenyes desades, introduïu la vostra contrasenya principal.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Introdueix la contrasenya principal
 contextual-manager-primary-password-learn-more-link = Més informació

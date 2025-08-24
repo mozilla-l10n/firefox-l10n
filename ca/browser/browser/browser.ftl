@@ -374,6 +374,7 @@ quickactions-downloads2 = Mostra les baixades
 quickactions-cmd-downloads = baixades, descàrregues
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestiona les extensions
+quickactions-cmd-extensions2 = extensions, complements, add-ons, addons
 quickactions-cmd-extensions = extensions
 # Opens Firefox View
 quickactions-firefoxview = Obre la { -firefoxview-brand-name }
@@ -399,6 +400,7 @@ quickactions-print2 = Imprimeix la pàgina
 quickactions-cmd-print = imprimir, impressió, imprimeix
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Desa la pàgina com a PDF
+quickactions-cmd-savepdf2 = pdf, desa pàgina, desar pàgina
 # Opens a new private browsing window
 quickactions-private2 = Obre una finestra privada
 quickactions-cmd-private = navegació privada
@@ -414,15 +416,22 @@ quickactions-cmd-screenshot2 = captura de pantalla, fes una captura de pantalla,
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings2 = Gestiona els paràmetres
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = paràmetres, configuració, preferències, opcions, gestiona
 quickactions-cmd-settings = paràmetres, configuració, preferències, opcions
 # Opens about:addons page in the themes section
 quickactions-themes = Gestiona els temes
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = temes, complements, add-ons, addons
 quickactions-cmd-themes = temes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Actualitza el { -brand-short-name }
 quickactions-cmd-update = actualitzar
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Codi font de la pàgina
+quickactions-cmd-viewsource2 = mostra font, mostrar font, veure font, font, codi font, font de la pàgina
 quickactions-cmd-viewsource = mostra codi font, codi font
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
