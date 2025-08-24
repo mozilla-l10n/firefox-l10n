@@ -270,6 +270,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Анықтамасын қарау
     .accesskey = н
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Суретті { $engine } көмегімен іздеу
 main-context-menu-video-save-as =
     .label = Видеоны қалайша сақтау…
     .accesskey = В

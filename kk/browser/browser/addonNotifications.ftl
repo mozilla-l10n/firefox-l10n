@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Бұл сайттан алынған қосы
 addon-install-error-file-access = { $addonName } орнату мүмкін емес, өйткені { -brand-short-name } керек файлды түзете алмады.
 addon-install-error-not-signed = { -brand-short-name } бұл сайттың расталмаған кеңейтуді орнату талабын болдырмады.
 addon-install-error-invalid-domain = { $addonName } қосымшасын осы жерден орнату мүмкін емес.
+addon-install-error-no-addon-name-file-access = Бұл қосымшаны орнату мүмкін емес, өйткені { -brand-short-name } керек файлды түзете алмады.
 addon-local-install-error-network-failure = Бұл кеңейтуді файлдық жүйе қатесі салдарынан орнату мүмкін емес.
 addon-local-install-error-incorrect-hash = Бұл кеңейтуді орнату мүмкін емес, өйткені ол { -brand-short-name } күткен кеңейту емес.
 addon-local-install-error-corrupt-file = Бұл кеңейту зақымдалған сияқты, сол үшін оны орнату мүмкін емес.
 addon-local-install-error-file-access = { $addonName } орнату мүмкін емес, өйткені { -brand-short-name } керек файлды түзете алмады.
 addon-local-install-error-not-signed = Бұл кеңейту расталмаған, сол үшін оны орнату мүмкін емес.
+addon-local-install-no-addon-name-error-file-access = Бұл қосымшаны орнату мүмкін емес, өйткені { -brand-short-name } керек файлды түзете алмады.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } орнату мүмкін емес, өйткені ол{ -brand-short-name } { $appVersion } нұсқасымен үйлеспейді.
