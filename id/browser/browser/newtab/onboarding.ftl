@@ -456,7 +456,8 @@ tab-groups-onboarding-dismiss = Oke
 multi-profile-spotlight-title = Mari berkenalan dengan profil { -brand-product-name }
 multi-profile-spotlight-body = Beralih dengan mudah antara penjelajahan untuk kerja dan penjelajahan untuk hiburan. Profil akan menjaga info penjelajahan, termasuk riwayat pencarian dan kata sandi, agar benar-benar terpisah sehingga Anda dapat fokus dan tertata.
 multi-profile-spotlight-cta = Buat profil
-multi-profile-callout-subtitle = Profil memungkinkan Anda menyimpan info penjelajahan Anda, seperti riwayat pencarian dan kata sandi, benar-benar terpisah.
+multi-profile-callout-title = Buat profil berbeda untuk bekerja dan hiburan
+multi-profile-callout-subtitle = Profil dapat digunakan untuk menyimpan info penjelajahan Anda, seperti riwayat pencarian dan kata sandi, agar benar-benar terpisah.
 multi-profile-callout-cta = Buat profil
 
 ## Desktop to Mobile Adoption feature callout strings

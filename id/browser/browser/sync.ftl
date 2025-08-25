@@ -43,16 +43,16 @@ sync-setup-verify-description = Ada pengguna lain yang telah masuk untuk menyink
 
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Batas akun tercapai untuk profil ini
-sync-profile-different-account-header = Profil ini sebelumnya disinkronkan ke akun lain
+sync-profile-different-account-header = Profil ini telah disinkronkan ke akun lain sebelumnya
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
-sync-profile-different-account-description = Untuk menjaga data Anda tetap teratur dan aman, setiap profil { -brand-product-name } hanya dapat disinkronkan ke satu akun. Untuk masuk menggunakan { $acctEmail }, buat profil baru.
+sync-profile-different-account-description = Untuk menjaga data Anda tetap tertata dan aman, setiap profil { -brand-product-name } hanya dapat disinkronkan ke satu akun. Untuk masuk menggunakan { $acctEmail }, buat profil baru.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profil disinkronkan ke akun yang berbeda
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile
-sync-profile-different-account-description-merge = Untuk menjaga data Anda tetap teratur dan aman, kami sarankan untuk membuat profil baru untuk masuk menggunakan { $acctEmail }. Jika Anda memilih untuk melanjutkan sinkronisasi pada profil ini, data dari kedua akun akan digabungkan secara permanen di “{ $profileName }”.
+sync-profile-different-account-description-merge = Untuk menjaga data Anda tetap tertata dan aman, kami sarankan untuk membuat profil baru untuk masuk menggunakan { $acctEmail }. Jika Anda memilih untuk melanjutkan sinkronisasi pada profil ini, data dari kedua akun akan digabungkan secara permanen di “{ $profileName }”.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Akun sudah digunakan
 # Variables:
