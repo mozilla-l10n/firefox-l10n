@@ -227,11 +227,11 @@ link-preview-settings-button =
     .title = 预览链接设置
 link-preview-settings-enable =
     .label = 启用预览链接
-    .description = 使用快捷键或右击链接，查看页面标题、描述等信息。
+    .description = 使用快捷方式或右击链接，查看页面标题、描述等信息。
 link-preview-settings-key-points =
     .label = 允许 AI 读取页面开头并生成要点
 link-preview-settings-long-press =
-    .label = 快捷键：长按链接 1 秒
+    .label = 快捷方式：长按链接 1 秒
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = 想用 AI 看到更多内容吗？
 # Onboarding card title for long press
