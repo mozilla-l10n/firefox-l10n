@@ -20,6 +20,7 @@ about-glean-category-manual-testing = Санҷиши дастӣ
 about-glean-category-adhoc-testing = Санҷиши махсус
 about-glean-category-profiler = Истифодаи профилсоз
 about-glean-category-about-data = Дар бораи «Маълумот»
+about-glean-category-metrics-table = Ҷадвали нишондиҳандаҳо
 about-glean-upload-enabled = Боркунии маълумот фаъол аст.
 about-glean-upload-disabled = Боркунии маълумот ғайрифаъол аст.
 about-glean-upload-enabled-local = Боркунии маълумот танҳо барои интиқол ба сервери маҳаллӣ фаъол аст.
@@ -118,4 +119,32 @@ about-glean-about-data-list-item-debug-ping-viewer =
     зинда ё дидани нишондиҳандаҳои намоишӣ, лутфан, ба 
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> муроҷиат кунед.
 about-glean-about-data-list-item-firefox-profiler = Барои сабт кардани профили самаранокӣ ва дидани ҳамаи нишондиҳандаҳои сабтшуда, лутфан, аз <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a> истифода баред.
+about-glean-metrics-table-header = Ҳамаи нишондиҳандаҳо
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Категория
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Ном
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Навъ
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Қимат
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Амалҳо
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Поло
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Ин амал нишондиҳандаҳои ҷадвали зеринро аз рӯйи категория, ном, навъ ва қимат поло мекунад (агар қимат навъи оддӣ бошад).
+about-glean-button-load-all = Бор кардани ҳамаи қиматҳо
+about-glean-button-load-value = Бор кардан
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Ҳуҷҷатҳо
+about-glean-button-watch = Назорат кардан
+# Meaning "to stop watching"
+about-glean-button-unwatch = Бекор кардани назорат
+about-glean-unknown-metric-type-warning = Навъи нишондиҳандаҳои номаълум.
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.

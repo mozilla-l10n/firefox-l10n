@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Ба сомонаҳо хабар диҳед, то онҳо маълумоти маро нафурӯшанд ва ошкор накунанд
     .accesskey = Б
 non-technical-privacy-header = Хусусиятҳои махфияти сомона
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Пӯшидан
+do-not-track-removal2 =
+    .label = Мо дигар сигнали «Пайгирӣ карда нашавад»-ро дастгирӣ намекунем
 
 ## Browser Restart Dialog
 

@@ -378,3 +378,5 @@ windows-10-eos-feature-toast-dismiss-button = Нодида гузарондан
 ## to fix common site breakage by unblocking essential elements.
 
 etp-strict-exceptions-infobar-learn-more = Маълумоти бештар
+etp-strict-exceptions-infobar-button = Татбиқ кардани ислоҳҳо
+    .accesskey = Т

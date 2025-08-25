@@ -10,6 +10,7 @@ unexpected-script-load-message-button-allow =
 unexpected-script-load-message-button-block =
     .label = Манъ кардан
     .accesskey = М
+unexpected-script-load-title = Нақши ногаҳон бор карда шуд
 unexpected-script-load-email-textbox =
     .placeholder = Нишонии почтаи электрониро дар ин ҷой ворид намоед
     .aria-label = Нишонии почтаи электрониро дар ин ҷой ворид намоед

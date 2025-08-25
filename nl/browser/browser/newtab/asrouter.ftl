@@ -363,3 +363,12 @@ windows-10-eos-sync-toast-title = Upgraden naar Windows 11? Verlies geen bladwij
 windows-10-eos-sync-toast-subtitle = Maak een reservekopie van uw gegevens, zodat { -brand-short-name } altijd klaar is voor gebruik, op deze pc of de volgende.
 windows-10-eos-sync-toast-primary-label = Beginnen
 windows-10-eos-sync-toast-secondary-label = Later herinneren
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Meer info

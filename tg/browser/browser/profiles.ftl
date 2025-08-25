@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = Кабуди уқёнусӣ
 profiles-terracotta-theme-2 = Хишти сурх
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Ушнаи сабз
+profiles-gray-theme = Хокистарӣ
+profiles-yellow-theme = Зард
+profiles-orange-theme = Норинҷӣ
+profiles-red-theme = Сурх
+profiles-pink-theme = Гулобӣ
+profiles-purple-theme = Лоҷувард
+profiles-violet-theme = Бунафш
+profiles-blue-theme = Кабуд
+profiles-green-theme = Сабз
+profiles-cyan-theme = Осмонӣ
 
 ## Alternative text for default profile icons
 
