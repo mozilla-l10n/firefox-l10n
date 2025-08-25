@@ -1281,6 +1281,9 @@ content-blocking-baseline-exceptions-2 =
     .label = Facilita la carga de sitios y funciones desbloqueando únicamente los elementos esenciales que pueden contener rastreadores. Abarca los problemas más comunes.
 content-blocking-convenience-exceptions =
     .label = También se aplican automáticamente excepciones que solo son necesarias para solucionar problemas menores y hacer que estén disponibles funciones convenientes.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Restaura elementos como vídeos en un artículo o secciones de comentarios desbloqueando elementos que puedan contener rastreadores. Esto puede reducir los problemas del sitio, pero ofrece menos protección. Debe usarse junto con correcciones para problemas graves.
 content-blocking-baseline-label = Solucionar problemas importantes del sitio (recomendado)
 content-blocking-convenience-label = Solucionar problemas menores del sitio
 content-blocking-exceptions-subheader = Solucionar problemas del sitio
