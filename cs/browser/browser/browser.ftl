@@ -910,6 +910,42 @@ urlbar-result-dismissal-acknowledgment-all = Děkujeme za vaši zpětnou vazbu. 
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · V { $daysUntilStart } dni
+        [few] { $name } · Ve { $daysUntilStart } dnech
+        [many] { $name } · V { $daysUntilStart } dnech
+       *[other] { $name } · V { $daysUntilStart } dnech
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Začíná za { $daysUntilStart } den
+        [few] { $name } · Začíná za { $daysUntilStart } dny
+        [many] { $name } · Začíná za { $daysUntilStart } dní
+       *[other] { $name } · Začíná za { $daysUntilStart } dní
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Končí za { $daysUntilEnd } den
+        [few] { $name } · Končí za { $daysUntilEnd } dny
+        [many] { $name } · Končí za { $daysUntilEnd } dní
+       *[other] { $name } · Končí za { $daysUntilEnd } dní
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:

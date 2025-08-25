@@ -344,6 +344,7 @@ newtab-custom-widget-lists-toggle =
     .label = Seznamy
 newtab-custom-widget-timer-toggle =
     .label = Časovač
+newtab-custom-widget-section-title = Widgety
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Zavřít
@@ -660,6 +661,13 @@ newtab-widget-lists-menu-delete = Smazat tento seznam
 newtab-widget-lists-menu-copy = Zkopírovat seznam do schránky
 newtab-widget-lists-menu-hide = Skrýt všechny seznamy
 newtab-widget-lists-menu-learn-more = Zjistit více
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Přidat položku
+newtab-widget-lists-input-menu-open-link = Otevřít odkaz
+newtab-widget-lists-input-menu-move-up = Posunout výše
+newtab-widget-lists-input-menu-move-down = Posunout níže
+newtab-widget-lists-input-menu-delete = Smazat
+newtab-widget-lists-input-menu-edit = Upravit
 newtab-widget-lists-name-label-default =
     .label = Seznam úkolů
 newtab-widget-lists-name-placeholder-default =
@@ -671,6 +679,12 @@ newtab-widget-lists-name-placeholder-new =
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-title = Časovač
+newtab-widget-timer-notification-focus = Čas soustředění vypršel. Pěkná práce. Potřebujete přestávku?
+newtab-widget-timer-notification-break = Vaše přestávka skončila. Jste připraveni se soustředit?
+newtab-widget-timer-notification-warning = Oznámení jsou vypnutá
+newtab-widget-timer-mode-focus =
+    .label = Soustředění
 newtab-widget-timer-mode-break =
     .label = Přestávka
 newtab-widget-timer-play =
@@ -683,6 +697,11 @@ newtab-widget-timer-menu-notifications = Vypnout oznámení
 newtab-widget-timer-menu-notifications-on = Zapnout oznámení
 newtab-widget-timer-menu-hide = Skrýt časovač
 newtab-widget-timer-menu-learn-more = Zjistit více
+newtab-promo-card-title =
+    { -brand-product-name.case-status ->
+        [with-cases] Podpořit { -brand-product-name(case: "acc") }
+       *[no-cases] Podpořit aplikaci { -brand-product-name }
+    }
 newtab-promo-card-body = Naši sponzoři podporují naši misi budovat lepší web.
 newtab-promo-card-cta = Zjistit více
 newtab-promo-card-dismiss-button =
