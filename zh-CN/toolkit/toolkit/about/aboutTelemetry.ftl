@@ -80,7 +80,7 @@ about-telemetry-data-details-current = 每组信息都会打包成“<a data-l10
 # Variables:
 #   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
-    .placeholder = 在 { $selectedTitle } 中查找
+    .placeholder = 在“{ $selectedTitle }”中查找
 about-telemetry-filter-all-placeholder =
     .placeholder = 在所有版块中查找
 # Variables:

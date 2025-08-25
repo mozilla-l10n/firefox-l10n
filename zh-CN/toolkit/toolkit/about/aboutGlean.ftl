@@ -86,6 +86,8 @@ about-glean-about-data-list-item-dictionary = 若要浏览 { -glean-brand-name }
 about-glean-about-data-list-item-about-telemetry = 若要浏览旧版遥测正在收集的数据，请查阅 <a data-l10n-name="about-telemetry-link">about:telemetry</a>。
 about-glean-about-data-list-item-debug-ping-viewer = 若要浏览调试标签、查看所有 ping、查看实时事件流、查看可视化指标，请查阅 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>。
 about-glean-about-data-list-item-firefox-profiler = 若要记录性能分析、查看已记录的所有指标，请使用 <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>。
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = 类别
 # This message refers to the name of a given metric.
 about-glean-metrics-table-header-name = 名称
 # This message refers to a given metric's metric type.

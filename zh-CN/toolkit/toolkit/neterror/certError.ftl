@@ -164,6 +164,7 @@ redirectLoop-title = 此页面不能正确地重定向
 unknownSocketType-title = 服务器响应异常
 nssFailure2-title = 建立安全连接失败
 csp-xfo-error-title = { -brand-short-name } 无法打开此页面
+corruptedContentErrorv2-title = 内容损坏错误
 corruptedContentError-title = 内容损坏错误
 sslv3Used-title = 无法安全地连接
 inadequateSecurityError-title = 您的连接不安全
