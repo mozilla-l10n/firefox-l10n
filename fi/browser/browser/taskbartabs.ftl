@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Lisää välilehti tehtäväpalkkiin
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Poista välilehti tehtäväpalkista
+taskbar-tab-urlbar-button-show = Näytä verkkosovelluksen sivutoiminto
+taskbar-tab-urlbar-button-hide = Piilota verkkosovelluksen sivutoiminto
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
@@ -25,3 +27,10 @@ taskbar-tab-shortcut-description = { $name }-verkkosovellus
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = { -brand-short-name }-verkkosovellukset
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Vaimenna välilehti
+taskbar-tab-audio-unmute =
+    .tooltiptext = Palauta ääni
