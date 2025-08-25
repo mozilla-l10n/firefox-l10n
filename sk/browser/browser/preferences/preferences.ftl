@@ -1275,12 +1275,26 @@ content-blocking-etp-standard-tcp-title = Zahŕňa Úplnú ochranu súborov cook
 content-blocking-warning-title = Pozor!
 content-blocking-and-isolating-etp-warning-description-3 = Toto nastavenie môže spôsobiť, že niektoré webové stránky nebudú zobrazovať obsah alebo nebudú správne fungovať. Pre webové stránky, o ktorých vieme, že ich môže vaša konfigurácia ovplyvniť, poskytujeme voliteľné výnimky. Ak chcete znížiť riziko nefunkčných webových stránok, povoľte tieto výnimky sledovania. Ak sa stránka javí ako nefunkčná, môžete pre túto stránku vypnúť ochranu sledovania, aby sa načítal všetok obsah a problém sa nahlásil, aby sme ho mohli pomôcť vyriešiť pre všetkých.
 content-blocking-warning-title-2 = Niektoré stránky nemusia fungovať správne s prísnou ochranou pred sledovaním
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } odporúča použiť nastavenia v sekcii “Oprava problémov so stránkami” na zníženie počtu nefunkčných funkcií a obsahu stránok. Ak sa stránka zdá byť nefunkčná, skúste pre túto stránku vypnúť ochranu pred sledovaním, aby sa načítal všetok obsah.
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavenie môže ovplyvniť fungovanie niektorých stránok. Ak sa vám stránka zdá rozbitá, vypnutie ochrany pred sledovaním by vám mohlo pomôcť načítať všetok obsah.
 content-blocking-warning-learn-how = Ďalšie informácie
 content-blocking-baseline-exceptions =
     .label = Povoliť { -brand-short-name(case: "dat") } automaticky aplikovať výnimky potrebné na zabránenie závažným poruchám webových stránok.
+content-blocking-baseline-exceptions-2 =
+    .label = Pomáha načítavať stránky a funkcie odblokovaním iba základných prvkov, ktoré môžu obsahovať sledovacie programy. Zahŕňa najbežnejšie problémy.
 content-blocking-convenience-exceptions =
     .label = Automaticky tiež aplikovať výnimky, ktoré sú potrebné iba na opravu menších problémov či sprístupnenie funkcií na zvýšenie pohodlia.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Obnovuje veci ako videá v článku alebo sekcie komentárov odblokovaním prvkov, ktoré môžu obsahovať sledovacie prvky. Toto môže znížiť problémy so stránkou, ale ponúka menšiu ochranu. Musí sa použiť s opravami závažných problémov.
+content-blocking-baseline-label = Opraviť hlavné problémy so stránkami (odporúčané)
+content-blocking-convenience-label = Opraviť menšie problémy so stránkami
+content-blocking-exceptions-subheader = Oprava problémov so stránkami
+content-blocking-baseline-uncheck-warning-dialog-title = Naozaj chcete vypnúť opravy?
+content-blocking-baseline-uncheck-warning-dialog-body = Toto nastavenie pomáha riešiť najčastejšie problémy so stránkami. Ak ho vypnete, niektoré stránky nemusia fungovať a { -brand-short-name } vám nebude vedieť pomôcť s riešením týchto problémov.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Vypnúť opravy
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Ponechať opravy zapnuté
 content-blocking-reload-description = Aby sa zmeny prejavili, musíte obnoviť vaše karty.
 content-blocking-reload-tabs-button =
     .label = Obnoviť všetky karty
