@@ -219,7 +219,12 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message = Δεν είναι δυνατή η προεπισκόπηση αυτού του συνδέσμου
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Κάτι πήγε στραβά.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Δοκιμή ξανά
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Ρυθμίσεις προεπισκόπησης συνδέσμων
 # Onboarding card Close button
 link-preview-onboarding-close = Κλείσιμο
