@@ -133,4 +133,3 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Ulteriori inf
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Questo selettore utilizza <strong>:has()</strong> senza vincoli e potrebbe risultare lento
-

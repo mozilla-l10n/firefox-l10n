@@ -232,4 +232,3 @@ custom-avatar-drag-handle =
     .aria-label = Ridimensiona l’area di ritaglio
 barbell-avatar = Bilanciere
 bike-avatar = Bici
-

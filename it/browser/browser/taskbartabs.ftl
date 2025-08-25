@@ -34,4 +34,3 @@ taskbar-tab-audio-mute =
     .tooltiptext = Disattiva audio nella scheda
 taskbar-tab-audio-unmute =
     .tooltiptext = Attiva audio nella scheda
-

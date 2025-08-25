@@ -114,4 +114,3 @@ about-glean-button-unwatch = Smetti di osservare
 about-glean-labeled-metric-warning = Le metriche con etichetta non sono ancora supportate in <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo di metrica sconosciuto.
 about-glean-about-data-explanation = Per sfogliare l’elenco dei dati raccolti, consultare il <a data-l10n-name="glean-dictionary-link">Dizionario { -glean-brand-name }</a>.
-
