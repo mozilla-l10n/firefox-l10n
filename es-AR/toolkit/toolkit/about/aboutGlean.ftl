@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Prueba manual
 about-glean-category-adhoc-testing = Prueba ad hoc
 about-glean-category-profiler = Usando el perfilador
 about-glean-category-about-data = Acerca de datos
+about-glean-category-metrics-table = Tabla de métricas
 about-glean-upload-enabled = La carga de datos está habilitada
 about-glean-upload-disabled = La carga de datos está deshabilitada.
 about-glean-upload-enabled-local = La carga de datos está habilitada solo para enviar a un servidor local.
@@ -140,6 +141,7 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Para registrar un perfil de rendimiento y ver todas las métricas guardadas, use el
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Todas las métricas
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Categoría
 # This message refers to the name of a given metric.
@@ -163,6 +165,9 @@ about-glean-button-load-all = Cargar todos los valores
 about-glean-button-load-value = Cargar
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Documentación
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Las métricas etiquetadas todavía no están soportadas en la vista <code>about:glean</code>.
+about-glean-unknown-metric-type-warning = Tipo de métrica desconocido.
 about-glean-about-data-explanation =
     Para revisar la lista de datos recolectados, consulte el
     <a data-l10n-name="glean-dictionary-link">diccionario de { -glean-brand-name }</a>.

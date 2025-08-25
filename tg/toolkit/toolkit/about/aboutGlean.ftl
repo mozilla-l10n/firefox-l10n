@@ -14,7 +14,7 @@ about-glean-header = Дар бораи { -glean-brand-name }
 about-glean-interface-description =
     «<a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>»
     китобхонаи ҷамъоварии маълумотест, ки дар лоиҳаҳои «{ -vendor-short-name }» истифода мешавад.
-    Интерфейси мазкур барои таҳиягарон ва озмоишгарон барномарезӣ шудааст, то ки онҳо барои ба таври дастӣ <a data-l10n-name="fog-link">санҷидани абзорҳо</a> аз он истифода баранд.
+    Интерфейси мазкур барои таҳиягарон ва озмоишгарон барномарезӣ шудааст, то ки онҳо тавонанд барои ба таври дастӣ <a data-l10n-name="fog-link">санҷидани абзорҳо</a> аз он истифода баранд.
 about-glean-category-about-glean = Дар бораи «{ -glean-brand-name }»
 about-glean-category-manual-testing = Санҷиши дастӣ
 about-glean-category-adhoc-testing = Санҷиши махсус
