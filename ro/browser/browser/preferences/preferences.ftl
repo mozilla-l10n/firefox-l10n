@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Spune site-urilor web să nu-mi vândă sau să nu-mi partajeze datele
     .accesskey = s
 non-technical-privacy-header = Preferințe de confidențialitate pe site-uri web
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Închide
+do-not-track-removal2 =
+    .label = Nu mai oferim suport pentru semnalul „Nu mă urmări”
 
 ## Browser Restart Dialog
 
@@ -1270,6 +1274,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Află mai multe
 content-blocking-etp-standard-tcp-title = Include protecția totală a cookie-urilor, cea mai puternică funcție de confidențialitate pe care am proiectat-o noi vreodată
 content-blocking-warning-title = Atenție!
 content-blocking-and-isolating-etp-warning-description-3 = Setarea poate face ca unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Oferim excepții opționale pentru site-urile web despre care știm că pot fi afectate de configurația ta. Pentru a reduce șansa apariției de site-uri web defecte, permite aceste excepții pentru elementele de urmărire. Dacă un site pare defect, poți dezactiva protecția împotriva urmăririi pentru site-ul respectiv ca să încarce tot conținutul și raportează problema ca să putem ajuta la remedierea ei pentru toți.
+content-blocking-warning-title-2 = Unele site-uri ar putea funcționa necorespunzător cu protecție strictă împotriva urmăririi
 content-blocking-and-isolating-etp-warning-description-2 = Această setare poate poate determina unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Dacă un site pare să fie defect, ai posibilitatea de a dezactiva protecția de urmărire pentru acel site pentru a încărca tot conținutul.
 content-blocking-warning-learn-how = Află cum
 content-blocking-baseline-exceptions =
