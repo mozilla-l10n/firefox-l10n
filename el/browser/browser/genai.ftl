@@ -217,3 +217,7 @@ link-preview-reading-time =
         [one] Χρόνος ανάγνωσης: { $range } λεπτό
        *[other] Χρόνος ανάγνωσης: { $range } λεπτά
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Δεν είναι δυνατή η προεπισκόπηση αυτού του συνδέσμου
+# Text for the retry link when generation fails
+link-preview-generation-retry = Δοκιμή ξανά
