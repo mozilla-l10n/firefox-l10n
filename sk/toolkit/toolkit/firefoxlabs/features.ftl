@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Zobrazenie webovej stránky
 experimental-features-group-customize-browsing =
     .label = Prispôsobte si prehliadanie
+experimental-features-group-productivity =
+    .label = Produktivita
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Heslá na bočnom paneli
@@ -56,3 +58,18 @@ experimental-features-fx-web-apps =
     .label = Pridanie webových stránok na panel úloh
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Otvárajte často navštevované stránky ako webovú aplikáciu z panela úloh. Vyhľadajte ikonu „Pridať kartu na panel úloh“ napravo od panela s adresou, čím spustíte danú stránku v zjednodušenom okne so všetkými ochranami { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Zoznamy na { -firefox-home-brand-name(case: "loc") }
+experimental-features-newtab-widget-lists-description = Majte svoj zoznam úloh na pamäti, keď otvoríte novú kartu. Od zoznamov na balenie až po nákupné zoznamy, vytvárajte si plány v { -brand-product-name }. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Časovač na { -firefox-home-brand-name(case: "loc") }
+experimental-features-newtab-widget-timer-description = Nastavte si časovač, ktorý vám pomôže udržať si sústredenosť, nabáda vás, aby ste zostali na správnej ceste, alebo vám pripomenie, že si potrebujete dobiť batérie. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Zoznamy a časovač na { -firefox-home-brand-name(case: "loc") }
+experimental-features-newtab-widget-lists-and-timer-description = Majte svoj zoznam úloh na pamäti, keď otvoríte novú kartu. Od zoznamov na balenie až po nákupné zoznamy, robte si plány priamo vo { -brand-product-name(case: "loc") }. Nastavte si časovač, aby ste sa sústredili, aby vás povzbudil, aby ste zostali na správnej ceste, alebo aby ste si pripomenul dobitie batérií. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>

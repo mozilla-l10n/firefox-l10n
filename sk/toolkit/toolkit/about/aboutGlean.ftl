@@ -17,6 +17,7 @@ about-glean-category-manual-testing = Manuálne testovanie
 about-glean-category-adhoc-testing = Ad hoc testovanie
 about-glean-category-profiler = Používanie nástroja na profilovanie
 about-glean-category-about-data = O údajoch
+about-glean-category-metrics-table = Tabuľka metrík
 about-glean-upload-enabled = Nahrávanie údajov je povolené.
 about-glean-upload-disabled = Nahrávanie údajov je zakázané.
 about-glean-upload-enabled-local = Nahrávanie údajov je povolené len pre odosielanie na lokálny server.
@@ -90,6 +91,7 @@ about-glean-about-data-list-item-dictionary = Ak chcete prechádzať zoznam úda
 about-glean-about-data-list-item-about-telemetry = Ak chcete prehliadať údaje zhromažďované staršou telemetriou, pozrite si stránku <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer = Ak chcete prehliadať značky ladenia, zobraziť úplné pingy, priamy prenos udalosti alebo zobraziť vizualizácie metrík, pozrite si <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = Ak chcete zaznamenať profil výkonnosti a zobraziť všetky zaznamenané metriky, použite <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Všetky metriky
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Kategória
 # This message refers to the name of a given metric.
@@ -100,6 +102,25 @@ about-glean-metrics-table-header-type = Typ
 about-glean-metrics-table-header-value = Hodnota
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Akcie
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtrovať
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Týmto sa tabuľka nižšie filtruje na základe kategórie, názvu, typu a hodnoty (ak je hodnota jednoduchého typu).
+about-glean-button-load-all = Načítať všetky hodnoty
+about-glean-button-load-value = Načítať
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumenty
+about-glean-button-watch = Sledovať
+# Meaning "to stop watching"
+about-glean-button-unwatch = Prestať sledovať
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Pomenované metriky zatiaľ nie sú v zobrazení <code>about:glean</code> podporované.
+about-glean-unknown-metric-type-warning = Neznámy typ metriky.
 about-glean-about-data-explanation =
     Ak chcete prechádzať zoznamom zhromaždených údajov, pozrite si
     <a data-l10n-name="glean-dictionary-link">Slovník nástroja { -glean-brand-name }</a>.
