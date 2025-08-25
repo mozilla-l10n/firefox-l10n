@@ -148,6 +148,8 @@ urlbar-geolocation-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກຂໍ້ມູນສະຖານທີ່ສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-localhost-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກການເຊື່ອມຕໍ່ອຸປະກອນໃນທ້ອງຖິ່ນສໍາລັບເວັບໄຊທ໌ນີ້.
+urlbar-local-network-blocked =
+    .tooltiptext = ທ່ານໄດ້ສະກັດການເຊື່ອມຕໍ່ເຄືອຂ່າຍທ້ອງຖິ່ນສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-xr-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກບ່ອນເກັບຂໍ້ມູນຄົງທີ່ສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-web-notifications-blocked =
@@ -246,6 +248,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = ເບິ່ງ Add-ons
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = ສ່ວນຂະຫຍາຍ, ຫົວຂໍ້, addons, add-ons
 quickactions-cmd-addons2 = ສ່ວນເສີມ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = ຈັດການບຸກມາກ
@@ -261,6 +267,7 @@ quickactions-downloads2 = ເບິ່ງການດາວໂຫຼດ
 quickactions-cmd-downloads = ດາວໂຫລດ
 # Opens about:addons page in the extensions section
 quickactions-extensions = ຈັດການສ່ວນເສີມ
+quickactions-cmd-extensions2 = ສ່ວນຂະຫຍາຍ, addons, add-ons
 quickactions-cmd-extensions = ສ່ວນເສີມ
 # Opens Firefox View
 quickactions-firefoxview = ເປີດ { -firefoxview-brand-name }
