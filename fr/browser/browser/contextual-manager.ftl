@@ -305,6 +305,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Aucun mot de passe trouvé
+contextual-manager-passwords-no-passwords-found-message-2 = Essayez un terme différent et recherchez à nouveau.
 contextual-manager-passwords-no-passwords-found-message = Aucun mot de passe trouvé. Essayez une nouvelle recherche.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
