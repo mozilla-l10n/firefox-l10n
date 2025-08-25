@@ -220,6 +220,8 @@ contextual-manager-passwords-title = Mots de passe
 
 contextual-manager-passwords-create-label =
     .label = Ajouter un mot de passe
+contextual-manager-passwords-update-label =
+    .label = Mettre à jour le mot de passe
 contextual-manager-passwords-edit-label =
     .label = Modifier le mot de passe
 contextual-manager-passwords-remove-label =

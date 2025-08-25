@@ -820,6 +820,8 @@ urlbar-result-realtime-opt-in-dismiss-all =
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market =
     .label = Ne pas afficher les suggestions liées aux marchés
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Merci de votre retour. Vous ne verrez plus ces suggestions liées aux marchés.
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Merci de votre retour. Vous ne verrez plus ces suggestions.
