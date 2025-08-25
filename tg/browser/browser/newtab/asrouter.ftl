@@ -369,3 +369,12 @@ windows-10-eos-sync-callout-get-started-button = Оғози кор
 
 windows-10-eos-feature-toast-whats-new-button = Бинед, ки чӣ нав аст
 windows-10-eos-feature-toast-dismiss-button = Нодида гузарондан
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Маълумоти бештар
