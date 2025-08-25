@@ -617,8 +617,12 @@ newtab-widget-lists-name-placeholder-new =
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Časovač
+newtab-widget-timer-notification-warning = Upozornenia sú vypnuté
 newtab-widget-timer-menu-notifications = Vypnúť upozornenia
 newtab-widget-timer-menu-notifications-on = Zapnúť upozornenia
 newtab-widget-timer-menu-hide = Skryť časovač
 newtab-widget-timer-menu-learn-more = Ďalšie informácie
 newtab-promo-card-cta = Ďalšie informácie
+newtab-promo-card-dismiss-button =
+    .title = Zavrieť
+    .aria-label = Zavrieť

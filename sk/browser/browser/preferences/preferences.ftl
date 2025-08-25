@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Požiadať webové stránky, aby nepredávali ani nezdieľali moje údaje
     .accesskey = i
 non-technical-privacy-header = Predvoľby ochrany súkromia na webových stránkach
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Zavrieť
+do-not-track-removal2 =
+    .label = Príznak “Nesledovať” (Do Not Track) už nie je podporovaný
 
 ## Browser Restart Dialog
 

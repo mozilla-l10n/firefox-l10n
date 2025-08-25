@@ -231,7 +231,7 @@ link-preview-reading-time =
        *[other] Čas čítania: { $range } minút
     }
 # Error message displayed when a link preview cannot be generated
-link-preview-error-message = Tento odkaz si nemôžeme zobraziť v ukážke
+link-preview-error-message = Tento odkaz nie je možné zobraziť v ukážke
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Navštíviť odkaz
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
