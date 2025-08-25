@@ -697,6 +697,11 @@ newtab-widget-timer-menu-notifications = Vypnout oznámení
 newtab-widget-timer-menu-notifications-on = Zapnout oznámení
 newtab-widget-timer-menu-hide = Skrýt časovač
 newtab-widget-timer-menu-learn-more = Zjistit více
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Rolováním zobrazíte další položky
+newtab-widget-message-title = Soustřeďte se díky seznamům a vestavěnému časovači
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Od rychlých připomínek po každodenní úkoly, od soustředění po přestávky na protažení - plňte úkoly včas.
 newtab-promo-card-title =
     { -brand-product-name.case-status ->
         [with-cases] Podpořit { -brand-product-name(case: "acc") }

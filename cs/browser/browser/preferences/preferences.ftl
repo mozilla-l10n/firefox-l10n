@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Říkat stránkám, aby neprodávaly a nesdílely vaše data
     .accesskey = s
 non-technical-privacy-header = Předvolby ochrany soukromí na webových stránkách
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -80,6 +82,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Zavřít
+do-not-track-removal2 =
+    .label = Funkce “Do Not Track” již není podporována
 
 ## Browser Restart Dialog
 
@@ -1420,6 +1424,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Zjistit více
 content-blocking-etp-standard-tcp-title = Zahrnuje úplnou ochranu před cookies, naši nejsilnější funkci zaměřenou na soukromí
 content-blocking-warning-title = Pozor!
 content-blocking-and-isolating-etp-warning-description-3 = Toto nastavení může způsobit, že některé webové stránky nezobrazí obsah nebo nebudou fungovat správně. Pro webové stránky, o kterých víme, že mohou být ovlivněny vaší konfigurací, poskytujeme volitelné výjimky. Chcete-li snížit pravděpodobnost nefunkčnosti webových stránek, povolte tyto výjimky pro sledování. Pokud se některý web jeví jako nefunkční, můžete pro něj vypnout ochranu proti sledování, aby se načetl veškerý obsah, a nahlásit problém, abychom jej mohli pomoci všem opravit.
+content-blocking-warning-title-2 = Některé stránky nemusí s přísnou ochranou před sledováním fungovat správně
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavení může způsobit, že některé stránky nebudou fungovat správně. Pro řešení případných problémů můžete ochranu proti sledování na takových stránkách vypnout.
 content-blocking-warning-learn-how = Jak na to
 content-blocking-baseline-exceptions =
