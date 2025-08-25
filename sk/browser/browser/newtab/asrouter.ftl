@@ -372,6 +372,20 @@ windows-10-eos-sync-toast-secondary-label = Pripomenúť neskôr
 
 windows-10-eos-challenger-callout-title = Ide o to, že { -brand-product-name } nie je predinštalovaný ako iné prehliadače od veľkých technologických spoločností.
 windows-10-eos-challenger-sync-callout-subtitle = Keď si zálohujete záložky a heslá vo { -brand-product-name(case: "loc") }, je jednoduchšie preniesť si vybraný prehliadač do ďalšieho zariadenia.
+windows-10-eos-challenger-pin-callout-subtitle = Pripnite si { -brand-shorter-name } na panel úloh, aby ste mali váš prehliadač vždy poruke, keď ho potrebujete.
+windows-10-eos-challenger-sync-primary-button = Zálohovať { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Pripnúť { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokuje ťažbu kryptomien, sledovacie prvky sociálnych médií a odtlačkov prehliadača.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sledovače nedokážu identifikovať vaše zariadenie ani vás sledovať na webe – pretože im to nedovolíme.
+windows-10-eos-sync-callout-privacy-screen-2-title = Zabezpečte si heslá a záložky pre ďalšie zariadenie.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Zálohovanie { -brand-shorter-name(case: "gen") } vám uľahčí prenášanie údajov a nastavení ochrany súkromia so sebou.
+windows-10-eos-sync-callout-privacy-info-button = Pozrite sa, čo je blokované
+windows-10-eos-callout-addons-title = Vyskúšajte doplnky: jednoduché vylepšenia, veľký vplyv
+windows-10-eos-callout-addons-subtitle = Tieto rozšírenia boli vybrané tak, aby vám pomohli zostať produktívni, chránení a bez rozptyľovania.
+windows-10-eos-callout-addons-primary-button = Pozrite si naše tipy
+windows-10-eos-sync-callout-addons-title = Nestratite svoje doplnky pri inovácii z Windowsu 10.
+windows-10-eos-sync-callout-addons-subtitle = Synchronizujte teraz, aby boli vaše doplnky { -brand-product-name(case: "gen") } vždy k dispozícii, a to aj po zmene zariadenia.
+windows-10-eos-sync-callout-next-button = Ďalej
 windows-10-eos-sync-callout-get-started-button = Poďme na to
 
 ## Windows 10 EoS Sync messages group 2 toast notification
@@ -380,3 +394,4 @@ windows-10-eos-feature-toast-title = Vertikálne karty a skupiny kariet sú tu!
 # In English, "dropped" is a colloquial form for released.
 windows-10-eos-feature-toast-subtitle = Na základe mnohých požiadaviek prehliadač { -brand-product-name } práve pridáva nové funkcie, aby bolo prehliadanie efektívnejšie a cielené.
 windows-10-eos-feature-toast-whats-new-button = Pozrite sa, čo je nové
+windows-10-eos-feature-toast-dismiss-button = Zavrieť

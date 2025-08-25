@@ -334,6 +334,7 @@ newtab-custom-widget-lists-toggle =
     .label = Zoznamy
 newtab-custom-widget-timer-toggle =
     .label = Časovač
+newtab-custom-widget-section-title = Miniaplikácie
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Zavrieť
@@ -614,6 +615,25 @@ newtab-trending-searches-title = Populárne vyhľadávania
 
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = Možnosti sú nekonečné. Pridajte si svoju.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nová
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Dokončené ({ $number })
+newtab-widget-task-list-menu-copy = Kopírovať
+newtab-widget-lists-menu-edit = Upraviť názov zoznamu
+newtab-widget-lists-menu-create = Vytvoriť nový zoznam
+newtab-widget-lists-menu-delete = Odstrániť tento zoznam
+newtab-widget-lists-menu-copy = Kopírovať zoznam do schránky
+newtab-widget-lists-menu-hide = Skryť všetky zoznamy
+newtab-widget-lists-menu-learn-more = Ďalšie informácie
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Pridať položku
+newtab-widget-lists-input-error = Položku pridáte zadaním textu
 newtab-widget-lists-input-menu-open-link = Otvoriť odkaz
 newtab-widget-lists-input-menu-move-up = Posunúť nahor
 newtab-widget-lists-input-menu-move-down = Posunúť nadol
