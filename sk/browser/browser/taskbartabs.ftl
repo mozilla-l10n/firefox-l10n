@@ -11,7 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Pridať kartu na panel úloh
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Odstrániť kartu z panela úloh
-taskbar-tab-urlbar-button-show = Zobraziť akciu stránky webovej aplikácie
+taskbar-tab-urlbar-button-show = Akcia stránky Zobraziť webovú aplikáciu
+taskbar-tab-urlbar-button-hide = Akcia stránky Skryť webovú aplikáciu
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

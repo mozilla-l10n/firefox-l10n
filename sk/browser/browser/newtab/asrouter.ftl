@@ -395,3 +395,15 @@ windows-10-eos-feature-toast-title = Vertikálne karty a skupiny kariet sú tu!
 windows-10-eos-feature-toast-subtitle = Na základe mnohých požiadaviek prehliadač { -brand-product-name } práve pridáva nové funkcie, aby bolo prehliadanie efektívnejšie a cielené.
 windows-10-eos-feature-toast-whats-new-button = Pozrite sa, čo je nové
 windows-10-eos-feature-toast-dismiss-button = Zavrieť
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>Prísna ochrana pred sledovaním môže spôsobiť zlyhanie webových stránok.</strong> Bežné problémy odstránite odblokovaním základných prvkov, ktoré by mohli obsahovať sledovacie prvky.
+etp-strict-exceptions-infobar-learn-more = Ďalšie informácie
+etp-strict-exceptions-infobar-button = Použiť opravy
+    .accesskey = o

@@ -164,6 +164,7 @@ redirectLoop-title = Stránku sa nepodarilo správne presmerovať
 unknownSocketType-title = Neočakávaná odpoveď servera
 nssFailure2-title = Zabezpečené pripojenie zlyhalo
 csp-xfo-error-title = { -brand-short-name } nedokáže otvoriť túto stránku
+corruptedContentErrorv2-title = Poškodený obsah stránky
 corruptedContentError-title = Poškodený obsah stránky
 sslv3Used-title = Nie je možné sa pripojiť zabezpečene
 inadequateSecurityError-title = Vaše pripojenie nie je zabezpečené

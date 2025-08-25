@@ -72,6 +72,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože tento je fragmentovaný, t. j. jeho obsah je rozdelený do viacerých stĺpcov alebo stránok.
 inactive-css-no-width-height = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože jeho šírku a výšku nemožno nastaviť.
+inactive-css-no-principal-box = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nevytvára hlavný box.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -110,6 +111,7 @@ inactive-css-resize-fix = Skúste nastaviť <strong>overflow</strong> na inú ho
 inactive-css-ruby-element-fix = Skúste zmeniť <strong>veľkosť písma</strong> textu prvku ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Skúste znížiť počet riadkov. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Vyhnite sa rozdeleniu obsahu prvku, napr. odstránením stĺpcov alebo použitím <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Skúste pridať hodnotu <strong>display</strong>, ktorá vytvorí hlavný box, napríklad <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> alebo <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
