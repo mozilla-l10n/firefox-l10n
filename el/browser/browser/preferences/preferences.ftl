@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Αποστολή αιτήματος μη πώλησης ή κοινοποίησης δεδομένων στους ιστοτόπους
     .accesskey = σ
 non-technical-privacy-header = Προτιμήσεις απορρήτου ιστοτόπων
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -1272,6 +1274,8 @@ content-blocking-baseline-exceptions =
     .label = Να επιτρέπεται στο { -brand-short-name } η αυτόματη εφαρμογή των απαιτούμενων εξαιρέσεων για την αποτροπή σημαντικών δυσλειτουργιών στους ιστοτόπους.
 content-blocking-convenience-exceptions =
     .label = Να εμφαρμόζονται επίσης αυτόματα εξαιρέσεις που απαιτούνται μόνο για τη διόρθωση μικρών ζητημάτων και την ενεργοποίηση βολικών λειτουργιών.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Απενεργοποίηση διορθώσεων
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Διατήρηση διορθώσεων
 content-blocking-reload-description = Θα πρέπει να φορτώσετε ξανά τις καρτέλες σας για εφαρμογή των αλλαγών αυτών.
 content-blocking-reload-tabs-button =
     .label = Ανανέωση όλων των καρτελών

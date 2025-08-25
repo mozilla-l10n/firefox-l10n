@@ -27,3 +27,10 @@ taskbar-tab-shortcut-description = Διαδικτυακή εφαρμογή «{ $
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Διαδικτυακές εφαρμογές { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Σίγαση καρτέλας
+taskbar-tab-audio-unmute =
+    .tooltiptext = Άρση σίγασης καρτέλας

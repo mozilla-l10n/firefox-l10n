@@ -221,3 +221,5 @@ link-preview-reading-time =
 link-preview-error-message = Δεν είναι δυνατή η προεπισκόπηση αυτού του συνδέσμου
 # Text for the retry link when generation fails
 link-preview-generation-retry = Δοκιμή ξανά
+# Onboarding card Close button
+link-preview-onboarding-close = Κλείσιμο

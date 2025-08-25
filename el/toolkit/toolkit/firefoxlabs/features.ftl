@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Προβολή ιστοσελίδων
 experimental-features-group-customize-browsing =
     .label = Προσαρμόστε την περιήγησή σας
+experimental-features-group-productivity =
+    .label = Παραγωγικότητα
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Κωδικοί πρόσβασης στην πλαϊνή γραμμή

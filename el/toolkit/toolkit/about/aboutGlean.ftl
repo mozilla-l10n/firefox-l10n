@@ -139,6 +139,19 @@ about-glean-about-data-list-item-debug-ping-viewer =
     ή να προβάλετε οπτικοποιήσεις των μετρήσεων, συμβουλευτείτε το
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = Για να καταγράψετε ένα προφίλ επιδόσεων και να δείτε όλες τις καταγεγραμμένες μετρήσεις, χρησιμοποιήστε το <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Κατηγορία
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Όνομα
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Τύπος
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Τιμή
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Ενέργειες
+about-glean-button-load-value = Φόρτωση
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Έγγραφα
 about-glean-about-data-explanation =
     Για να περιηγηθείτε στη λίστα των συλλεγμένων δεδομένων, συμβουλευτείτε το
     <a data-l10n-name="glean-dictionary-link">Λεξικό του { -glean-brand-name }</a>.
