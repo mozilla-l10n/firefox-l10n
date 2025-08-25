@@ -61,8 +61,8 @@ experimental-features-fx-web-apps-description = 通过任务栏，以 Web 应用
 
 # Lists Widget
 experimental-features-newtab-widget-lists =
-    .label = { -firefox-home-brand-name }上的列表
-experimental-features-newtab-widget-lists-description = 在新标签页中一览待办列表，时刻提醒自己完成任务。从收拾行李到网上购物，都可以在 { -brand-product-name } 中列清单筹划。<a data-l10n-name="connect">分享反馈</a>
+    .label = { -firefox-home-brand-name }上的清单
+experimental-features-newtab-widget-lists-description = 在新标签页中一览待办清单，时刻提醒自己完成任务。从收拾行李到网上购物，都可以在 { -brand-product-name } 中列清单筹划。<a data-l10n-name="connect">分享反馈</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = { -firefox-home-brand-name }上的计时器

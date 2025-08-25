@@ -47,8 +47,8 @@ aboutdialog-channel-description = Anda sedang berada di kanal pemutakhiran <labe
 warningDesc-version = { -brand-short-name } bersifat eksperimental dan mungkin tidak stabil.
 aboutdialog-help-user = Bantuan { -brand-product-name }
 aboutdialog-submit-feedback = Kirim Masukan
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> adalah <label data-l10n-name="community-exp-creditsLink">komunitas global</ label> bekerja sama untuk menjaga Web tetap terbuka, publik, dan dapat diakses oleh semua.
-community-2 = { -brand-short-name } dirancang oleh <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, sebuah <label data-l10n-name="community-creditsLink">komunitas global</label> bekerja sama untuk menjaga Web tetap terbuka, publik, dan dapat diakses oleh semua.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> adalah <label data-l10n-name="community-exp-creditsLink">komunitas global</ label> yang bekerja sama untuk menjaga Web tetap terbuka, publik, dan dapat diakses oleh semua.
+community-2 = { -brand-short-name } dirancang oleh <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, sebuah <label data-l10n-name="community-creditsLink">komunitas global</label> yang bekerja sama untuk menjaga Web tetap terbuka, publik, dan dapat diakses oleh semua.
 helpus = Ingin membantu? <label data-l10n-name="helpus-donateLink">Berikan sumbangan</label> atau <label data-l10n-name="helpus-getInvolvedLink">mari ikut berperan!</label>
 bottomLinks-license = Informasi Lisensi
 bottom-links-terms = Syarat Penggunaan

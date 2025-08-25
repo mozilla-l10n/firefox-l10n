@@ -329,7 +329,7 @@ newtab-custom-widget-weather-toggle =
 newtab-custom-widget-trending-search-toggle =
     .label = 热门搜索
 newtab-custom-widget-lists-toggle =
-    .label = 列表
+    .label = 清单
 newtab-custom-widget-timer-toggle =
     .label = 计时器
 newtab-custom-widget-section-title = 小组件
@@ -615,7 +615,7 @@ newtab-trending-searches-title = 热门搜索
 newtab-widget-lists-empty-cta = 立即添加任务，开启无限可能。
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
-    .label = 新
+    .label = 新功能
 newtab-widget-lists-label-beta =
     .label = 测试版
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
@@ -623,11 +623,11 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = 已完成（{ $number }）
 newtab-widget-task-list-menu-copy = 复制
-newtab-widget-lists-menu-edit = 编辑列表名称
-newtab-widget-lists-menu-create = 创建新列表
-newtab-widget-lists-menu-delete = 删除此列表
-newtab-widget-lists-menu-copy = 复制列表到剪贴板
-newtab-widget-lists-menu-hide = 隐藏所有列表
+newtab-widget-lists-menu-edit = 编辑清单名称
+newtab-widget-lists-menu-create = 创建新清单
+newtab-widget-lists-menu-delete = 删除此清单
+newtab-widget-lists-menu-copy = 复制清单到剪贴板
+newtab-widget-lists-menu-hide = 隐藏所有清单
 newtab-widget-lists-menu-learn-more = 详细了解
 newtab-widget-lists-input-add-an-item =
     .placeholder = 添加项目
@@ -638,12 +638,12 @@ newtab-widget-lists-input-menu-move-down = 下移
 newtab-widget-lists-input-menu-delete = 删除
 newtab-widget-lists-input-menu-edit = 编辑
 newtab-widget-lists-name-label-default =
-    .label = 任务列表
+    .label = 任务清单
 newtab-widget-lists-name-placeholder-default =
-    .placeholder = 任务列表
+    .placeholder = 任务清单
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
-    .placeholder = 新列表
+    .placeholder = 新清单
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
