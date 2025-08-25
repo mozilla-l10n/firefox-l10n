@@ -239,7 +239,7 @@ link-preview-settings-enable =
     .label = Aktiver forhåndsvisninger av lenker
     .description = Se sidetittel, beskrivelse og mer når du bruker snarveien eller høyreklikker på en lenke.
 link-preview-settings-key-points =
-    .label = La AI lese begynnelsen av siden og generere viktige punkter
+    .label = La AI lese begynnelsen av siden og generere hovedpunkter
 link-preview-settings-long-press =
     .label = Snarvei: Klikk og hold inne lenken i 1 sekund (langt trykk)
 # Title that appears when user is shown the opt-in flow for link previews
