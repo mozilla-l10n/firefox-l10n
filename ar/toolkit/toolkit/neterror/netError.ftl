@@ -49,7 +49,7 @@ neterror-http-error-page = تأكد من أنك كتبت عنوان الموقع
 neterror-captive-portal = تحتاج الولوج إلى هذه الشبكة أولا لتستطيع الوصول إلى الإنترنت.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
-neterror-dns-not-found-with-suggestion = هل قصدت الانتقال إلى <a data-l10n-name="website">{ $hostAndPath }</a>؟
+neterror-dns-not-found-with-suggestion = هل كنت تريد الذهاب إلى <a data-l10n-name="website">{ $hostAndPath }</a>؟
 neterror-dns-not-found-hint-header = <strong>إذا أدخلت العنوان الصحيح، فيمكنك:</strong>
 neterror-dns-not-found-hint-try-again = المحاولة مجددًا لاحقاً
 neterror-dns-not-found-hint-check-network = فحص اتصال الشبكة
