@@ -372,7 +372,11 @@ windows-10-eos-sync-toast-secondary-label = Pripomenúť neskôr
 
 windows-10-eos-challenger-callout-title = Ide o to, že { -brand-product-name } nie je predinštalovaný ako iné prehliadače od veľkých technologických spoločností.
 windows-10-eos-challenger-sync-callout-subtitle = Keď si zálohujete záložky a heslá vo { -brand-product-name(case: "loc") }, je jednoduchšie preniesť si vybraný prehliadač do ďalšieho zariadenia.
+windows-10-eos-sync-callout-get-started-button = Poďme na to
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Vertikálne karty a skupiny kariet sú tu!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Na základe mnohých požiadaviek prehliadač { -brand-product-name } práve pridáva nové funkcie, aby bolo prehliadanie efektívnejšie a cielené.
 windows-10-eos-feature-toast-whats-new-button = Pozrite sa, čo je nové

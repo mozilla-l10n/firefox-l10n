@@ -617,11 +617,30 @@ newtab-widget-lists-name-placeholder-new =
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Časovač
+newtab-widget-timer-notification-focus = Čas na sústredenie vypršal. Dobrá práca. Potrebujete si oddýchnuť?
+newtab-widget-timer-notification-break = Vaša prestávka sa skončila. Ste pripravení sústrediť sa?
 newtab-widget-timer-notification-warning = Upozornenia sú vypnuté
+newtab-widget-timer-mode-focus =
+    .label = Sústredenie
+newtab-widget-timer-mode-break =
+    .label = Prestávka
+newtab-widget-timer-play =
+    .title = Spustiť
+newtab-widget-timer-pause =
+    .title = Pozastaviť
+newtab-widget-timer-reset =
+    .title = Vynulovať
 newtab-widget-timer-menu-notifications = Vypnúť upozornenia
 newtab-widget-timer-menu-notifications-on = Zapnúť upozornenia
 newtab-widget-timer-menu-hide = Skryť časovač
 newtab-widget-timer-menu-learn-more = Ďalšie informácie
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Rolovaním zobrazíte ďalšie položky
+newtab-widget-message-title = Zostaňte sústredení vďaka zoznamom a vstavanému časovaču
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Od rýchlych pripomienok až po denné úlohy, od sústredených stretnutí až po prestávky – sústreďte sa na úlohy a dodržujte čas.
+newtab-promo-card-title = Podporiť { -brand-product-name }
+newtab-promo-card-body = Naši sponzori podporujú našu misiu budovať lepší web
 newtab-promo-card-cta = Ďalšie informácie
 newtab-promo-card-dismiss-button =
     .title = Zavrieť

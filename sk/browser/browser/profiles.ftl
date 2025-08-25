@@ -115,6 +115,7 @@ profiles-orange-theme = Oranžová
 profiles-red-theme = Červená
 profiles-pink-theme = Ružová
 profiles-purple-theme = Fialová
+profiles-violet-theme = Fialková
 profiles-blue-theme = Modrá
 profiles-green-theme = Zelená
 
