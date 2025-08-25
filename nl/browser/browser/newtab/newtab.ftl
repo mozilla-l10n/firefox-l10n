@@ -660,6 +660,9 @@ newtab-widget-timer-menu-notifications = Notificaties uitschakelen
 newtab-widget-timer-menu-notifications-on = Notificaties inschakelen
 newtab-widget-timer-menu-hide = Timer verbergen
 newtab-widget-timer-menu-learn-more = Meer info
+newtab-widget-message-title = Blijf gefocust met lijsten en een ingebouwde timer
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Van snelle herinneringen tot dagelijkse to-do’s, en van focussessies tot lange pauzes – blijf bij de taak en op tijd.
 newtab-promo-card-title = { -brand-product-name } ondersteunen
 newtab-promo-card-body = Onze sponsors steunen onze missie om een beter web te bouwen
 newtab-promo-card-cta = Meer info

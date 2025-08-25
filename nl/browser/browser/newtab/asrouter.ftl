@@ -371,4 +371,7 @@ windows-10-eos-sync-toast-secondary-label = Later herinneren
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Strenge bescherming tegen volgen kan ervoor zorgen dat websites niet goed werken.</strong> Los veelvoorkomende problemen op door essentiële elementen die trackers kunnen bevatten te deblokkeren.
 etp-strict-exceptions-infobar-learn-more = Meer info
+etp-strict-exceptions-infobar-button = Oplossingen toepassen
+    .accesskey = t
