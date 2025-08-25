@@ -319,8 +319,11 @@ fxa-menu-message-close-button =
     .title = Zavrieť
     .aria-label = Zavrieť
 fxa-menu-message-sign-up-button = Zaregistrujte sa
+fxa-menu-message-sign-in-button = Prihlásiť sa
+fxa-menu-message-sync-button = Spustiť synchronizáciu
 fxa-menu-message-sync-devices-primary-text = Synchronizujte všetky svoje zariadenia
 fxa-menu-message-sync-devices-secondary-text = Okamžite získajte svoje informácie – ako sú záložky a heslá – všade, kde používate { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Okamžite získajte svoje záložky, heslá a ďalšie – všade, kde ste prihlásení do { -brand-short-name(case: "gen") }.
 fxa-menu-message-sync-devices-collapsed-text = Synchronizujte všetky svoje zariadenia
 fxa-menu-message-backup-data-primary-text = Zálohujte si údaje prehliadača
 fxa-menu-message-backup-data-secondary-text = Automaticky chráňte záložky, heslá a ďalšie informácie na všetkých svojich zariadeniach.
@@ -364,3 +367,12 @@ windows-10-eos-sync-toast-title = Inovujete na Windows 11? Nestraťte záložky 
 windows-10-eos-sync-toast-subtitle = Zálohujte si svoje dáta, aby bol { -brand-short-name } kedykoľvek pripravený na použitie, na tomto alebo ďalšom počítači.
 windows-10-eos-sync-toast-primary-label = Začať
 windows-10-eos-sync-toast-secondary-label = Pripomenúť neskôr
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = Ide o to, že { -brand-product-name } nie je predinštalovaný ako iné prehliadače od veľkých technologických spoločností.
+windows-10-eos-challenger-sync-callout-subtitle = Keď si zálohujete záložky a heslá vo { -brand-product-name(case: "loc") }, je jednoduchšie preniesť si vybraný prehliadač do ďalšieho zariadenia.
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Pozrite sa, čo je nové

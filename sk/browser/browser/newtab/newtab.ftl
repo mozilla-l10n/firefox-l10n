@@ -597,3 +597,28 @@ newtab-trending-searches-learn-more = Ďalšie informácie
 newtab-trending-searches-dismiss = Skryť populárne vyhľadávania
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Populárne vyhľadávania
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-input-menu-open-link = Otvoriť odkaz
+newtab-widget-lists-input-menu-move-up = Posunúť nahor
+newtab-widget-lists-input-menu-move-down = Posunúť nadol
+newtab-widget-lists-input-menu-delete = Odstrániť
+newtab-widget-lists-input-menu-edit = Upraviť
+newtab-widget-lists-name-label-default =
+    .label = Zoznam úloh
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Zoznam úloh
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Nový zoznam
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Časovač
+newtab-widget-timer-menu-notifications = Vypnúť upozornenia
+newtab-widget-timer-menu-notifications-on = Zapnúť upozornenia
+newtab-widget-timer-menu-hide = Skryť časovač
+newtab-widget-timer-menu-learn-more = Ďalšie informácie
+newtab-promo-card-cta = Ďalšie informácie

@@ -366,8 +366,17 @@ windows-10-eos-sync-toast-secondary-label = Muistuta myöhemmin
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-pin-callout-subtitle = Kiinnitä { -brand-shorter-name } tehtäväpalkkiin, jotta valitsemasi selain on aina käytettävissäsi tarvittaessa.
+windows-10-eos-challenger-sync-primary-button = Varmuuskopioi { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Kiinnitä { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } estää kryptolouhijat, sosiaalisen median seuraimet ja yksilöijät.
+windows-10-eos-sync-callout-privacy-screen-2-title = Turvaa salasanasi ja kirjanmerkkisi seuraavaa laitettasi varten.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = { -brand-shorter-name }in varmuuskopioinnin avulla voit helposti siirtää tai ottaa mukaan tietosi ja yksityisyysasetuksesi.
+windows-10-eos-sync-callout-privacy-info-button = Katso mitä on estetty
+windows-10-eos-callout-addons-title = Kokeile lisäosia: yksinkertaisia päivityksiä, suuria vaikutuksia
+windows-10-eos-callout-addons-subtitle = Nämä laajennukset valittiin pitämään sinut tuottavana, turvattuna ja ilman häiriötekijöitä.
+windows-10-eos-callout-addons-primary-button = Katso valintamme
+windows-10-eos-sync-callout-addons-title = Älä menetä lisäosiasi, kun päivität Windows 10:stä.
+windows-10-eos-sync-callout-addons-subtitle = Synkronoi nyt, jotta { -brand-product-name }-lisäosasi ovat aina käytettävissä, myös laitteen vaihdon jälkeen.
 windows-10-eos-sync-callout-next-button = Seuraava
 windows-10-eos-sync-callout-get-started-button = Aloitetaan
 
@@ -375,3 +384,12 @@ windows-10-eos-sync-callout-get-started-button = Aloitetaan
 
 windows-10-eos-feature-toast-title = Pystysuuntaiset välilehdet ja välilehtiryhmät ovat täällä!
 windows-10-eos-feature-toast-dismiss-button = Hylkää
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Lue lisää

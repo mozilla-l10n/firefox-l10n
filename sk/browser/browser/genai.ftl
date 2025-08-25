@@ -131,6 +131,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = O AI chatbotoch vo { -brand-short-name(case: "loc") }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Keďže stránka je dlhá, ide len o čiastočné zhrnutie.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Vytvor súhrn stránky
@@ -225,3 +230,25 @@ link-preview-reading-time =
         [many] Čas čítania: { $range } minút
        *[other] Čas čítania: { $range } minút
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Tento odkaz si nemôžeme zobraziť v ukážke
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Navštíviť odkaz
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Pre túto webovú stránku nedokážeme vygenerovať kľúčové body.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Niečo sa pokazilo.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Skúsiť znova
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Nastavenia ukážky odkazu
+link-preview-settings-enable =
+    .label = Povoliť ukážky odkazov
+    .description = Po použití skratky alebo kliknutí pravým tlačidlom myši na odkaz sa zobrazí názov stránky, popis a ďalšie informácie.
+# Header for the key points section
+link-preview-key-points-header = Kľúčové body
+# Onboarding card See a preview button
+link-preview-onboarding-button = Zobraziť ukážku
+# Onboarding card Close button
+link-preview-onboarding-close = Zavrieť
