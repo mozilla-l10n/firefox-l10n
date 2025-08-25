@@ -326,6 +326,18 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Populárne vyhľadávania
     .description = Populárne a často hľadané témy
+newtab-custom-widget-weather-toggle =
+    .label = Počasie
+newtab-custom-widget-trending-search-toggle =
+    .label = Populárne vyhľadávania
+newtab-custom-widget-lists-toggle =
+    .label = Zoznamy
+newtab-custom-widget-timer-toggle =
+    .label = Časovač
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Zavrieť
+    .aria-label = Ponuka Zavrieť
 newtab-custom-close-button = Zavrieť
 newtab-custom-settings = Ďalšie nastavenia
 
@@ -600,6 +612,8 @@ newtab-trending-searches-title = Populárne vyhľadávania
 
 ## Strings for task / to-do list productivity widget
 
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Možnosti sú nekonečné. Pridajte si svoju.
 newtab-widget-lists-input-menu-open-link = Otvoriť odkaz
 newtab-widget-lists-input-menu-move-up = Posunúť nahor
 newtab-widget-lists-input-menu-move-down = Posunúť nadol

@@ -11,6 +11,7 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Pridať kartu na panel úloh
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Odstrániť kartu z panela úloh
+taskbar-tab-urlbar-button-show = Zobraziť akciu stránky webovej aplikácie
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
@@ -25,3 +26,10 @@ taskbar-tab-shortcut-description = Webová aplikácia { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Webové aplikácie { -brand-short-name(case: "gen") }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Stlmiť zvuk na karte
+taskbar-tab-audio-unmute =
+    .tooltiptext = Zapnúť zvuk na karte

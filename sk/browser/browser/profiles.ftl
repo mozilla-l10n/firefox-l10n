@@ -114,10 +114,11 @@ profiles-yellow-theme = Žltá
 profiles-orange-theme = Oranžová
 profiles-red-theme = Červená
 profiles-pink-theme = Ružová
-profiles-purple-theme = Fialová
-profiles-violet-theme = Fialková
+profiles-purple-theme = Purpurová
+profiles-violet-theme = Fialová
 profiles-blue-theme = Modrá
 profiles-green-theme = Zelená
+profiles-cyan-theme = Azúrová
 
 ## Alternative text for default profile icons
 
