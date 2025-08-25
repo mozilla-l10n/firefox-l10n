@@ -30,3 +30,4 @@ unexpected-script-load-email-textbox =
     .aria-label = Zadajte e-mailovú adresu
 unexpected-script-load-more-info = Viac informácií
 unexpected-script-load-learn-more = Ďalšie informácie
+unexpected-script-load-telemetry-disabled = Podanie hlásenie nie je povolené, pretože telemetria je v nastaveniach zakázaná. Povoľte telemetriu a skúste to znova.

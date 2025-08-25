@@ -1274,6 +1274,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Ďalšie informácie
 content-blocking-etp-standard-tcp-title = Zahŕňa Úplnú ochranu súborov cookie, našu najvýkonnejšiu funkciu ochrany súkromia vôbec
 content-blocking-warning-title = Pozor!
 content-blocking-and-isolating-etp-warning-description-3 = Toto nastavenie môže spôsobiť, že niektoré webové stránky nebudú zobrazovať obsah alebo nebudú správne fungovať. Pre webové stránky, o ktorých vieme, že ich môže vaša konfigurácia ovplyvniť, poskytujeme voliteľné výnimky. Ak chcete znížiť riziko nefunkčných webových stránok, povoľte tieto výnimky sledovania. Ak sa stránka javí ako nefunkčná, môžete pre túto stránku vypnúť ochranu sledovania, aby sa načítal všetok obsah a problém sa nahlásil, aby sme ho mohli pomôcť vyriešiť pre všetkých.
+content-blocking-warning-title-2 = Niektoré stránky nemusia fungovať správne s prísnou ochranou pred sledovaním
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavenie môže ovplyvniť fungovanie niektorých stránok. Ak sa vám stránka zdá rozbitá, vypnutie ochrany pred sledovaním by vám mohlo pomôcť načítať všetok obsah.
 content-blocking-warning-learn-how = Ďalšie informácie
 content-blocking-baseline-exceptions =

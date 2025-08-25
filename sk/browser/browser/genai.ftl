@@ -246,8 +246,27 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Povoliť ukážky odkazov
     .description = Po použití skratky alebo kliknutí pravým tlačidlom myši na odkaz sa zobrazí názov stránky, popis a ďalšie informácie.
+link-preview-settings-key-points =
+    .label = Umožní umelej inteligencii prečítať začiatok stránky a vygenerovať kľúčové body
+link-preview-settings-long-press =
+    .label = Skratka: Kliknite na odkaz a podržte ho 1 sekundu (dlhé stlačenie)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Chcete vidieť viac s pomocou umelej inteligencie?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } používa umelú inteligenciu na čítanie začiatku stránky a generovanie niekoľkých jej kľúčových bodov. Aby sa uprednostnilo vaše súkromie, deje sa to na vašom zariadení.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nové: Kliknite a podržte ľubovoľný odkaz a zobrazí sa ukážka
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Pozrite si krátky popis, čas na prečítanie a ďalšie informácie, aby ste sa rozhodli, či sa oplatí odkaz otvoriť. Dostupné aj po kliknutí pravým tlačidlom myši.
 # Header for the key points section
 link-preview-key-points-header = Kľúčové body
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Kľúčové body sú generované umelou inteligenciou a môžu obsahovať chyby.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Prvé nastavenie • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Nabudúce uvidíte kľúčové body rýchlejšie.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Zobraziť ukážku
 # Onboarding card Close button

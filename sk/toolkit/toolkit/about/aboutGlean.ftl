@@ -90,6 +90,16 @@ about-glean-about-data-list-item-dictionary = Ak chcete prechádzať zoznam úda
 about-glean-about-data-list-item-about-telemetry = Ak chcete prehliadať údaje zhromažďované staršou telemetriou, pozrite si stránku <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer = Ak chcete prehliadať značky ladenia, zobraziť úplné pingy, priamy prenos udalosti alebo zobraziť vizualizácie metrík, pozrite si <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = Ak chcete zaznamenať profil výkonnosti a zobraziť všetky zaznamenané metriky, použite <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategória
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Názov
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Typ
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Hodnota
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Akcie
 about-glean-about-data-explanation =
     Ak chcete prechádzať zoznamom zhromaždených údajov, pozrite si
     <a data-l10n-name="glean-dictionary-link">Slovník nástroja { -glean-brand-name }</a>.

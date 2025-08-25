@@ -617,7 +617,7 @@ newtab-trending-searches-title = Populárne vyhľadávania
 newtab-widget-lists-empty-cta = Možnosti sú nekonečné. Pridajte si svoju.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
-    .label = Nová
+    .label = Nový
 newtab-widget-lists-label-beta =
     .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
