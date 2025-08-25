@@ -170,6 +170,8 @@ sidebar-genai-survey-productive-question =
 unified-search-callout-title = Превключване между търсачките
 unified-search-callout-subtitle = Изберете най-доброто за вашето търсене.
 unified-search-callout-primary-label = Напред
+unified-search-callout-secondary-label = Прекратяване
+unified-search-engines-callout-primary-label = Разбрано
 # The user can type "print" and "clear" and a button will appear in the
 # search bar (e.g. Print page) the user can click to initiate the action.
 # These example text inputs correlate to the the following strings

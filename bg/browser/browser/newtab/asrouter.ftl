@@ -345,6 +345,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Дръжте любимия си насочен към поверителността мрежов четец само на щракване разстояние. Задайте { -brand-short-name } подразбиран четец и го дръжте на лентата със задачи и в менюто Start.
 
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Въведение
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-next-button = Напред
+windows-10-eos-sync-callout-get-started-button = Въведение
+
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-whats-new-button = Вижте какво ново
 windows-10-eos-feature-toast-dismiss-button = Прекратяване

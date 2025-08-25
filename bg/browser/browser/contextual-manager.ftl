@@ -62,6 +62,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-heading =
     .heading = Паролите са внесени
 contextual-manager-passwords-import-success-button = Готово
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Внасянето на пароли е неуспешно
+    .message = Уверете се, че файлът ви включва колона за уебсайтове, потребителски имена и пароли.
 contextual-manager-passwords-import-error-button-try-again = Опитайте отново
 contextual-manager-passwords-import-error-button-cancel = Отказ
 contextual-manager-passwords-export-success-heading =
@@ -80,6 +83,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Документ с разделители
        *[other] Файл с разделители
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Премахване на пароли?
+        [one] Премахване на паролата?
+       *[other] Премахване на всички { $total } пароли?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -157,6 +168,12 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Няма намерени пароли
 contextual-manager-passwords-no-passwords-found-message = Няма намерени пароли. Потърсете друга дума и опитайте отново.
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Ръчно добавяне
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
