@@ -148,6 +148,13 @@ about-glean-metrics-table-header-value = Valor
 about-glean-metrics-table-header-actions = Acciones
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtro
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Esto filtrará la tabla a continuación según categoría, nombre, tipo y valor (si el valor es un tipo simple).
 about-glean-button-load-all = Cargar todos los valores
 about-glean-button-load-value = Cargar
 # "Docs" is shorthand for "documentation"
