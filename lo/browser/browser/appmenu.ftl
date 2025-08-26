@@ -77,6 +77,14 @@ appmenu-remote-tabs-sign-into-sync =
     .label = ເຂົ້າສູ່ລະບົບເພື່ອຊິງຄ໌...
 appmenu-remote-tabs-turn-on-sync =
     .label = ເປີດ Sync…
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = ສະແດງແຖບເພີ່ມເຕີມ
+    .tooltiptext = ສະແດງແຖບເພີ່ມເຕີມຈາກອຸປະກອນນີ້
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = ແຖບທີ່ບໍ່ເຄື່ອນໄຫວ
+    .tooltiptext = ເບິ່ງແຖບທີ່ບໍ່ເຄື່ອນໄຫວໃນອຸປະກອນນີ້
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ບໍ່ມີແທັບທີ່ເປີດຢູ່
 # This is shown when Sync is configured but syncing tabs is disabled.
