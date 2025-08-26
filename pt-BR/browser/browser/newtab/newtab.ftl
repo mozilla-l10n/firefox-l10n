@@ -651,14 +651,25 @@ newtab-widget-lists-name-placeholder-new =
 
 newtab-widget-timer-notification-title = Temporizador
 newtab-widget-timer-notification-focus = O período de concentração acabou. Bom trabalho. Precisa de um intervalo?
+newtab-widget-timer-notification-break = O intervalo acabou. Pronto para se concentrar novamente?
+newtab-widget-timer-notification-warning = As notificações estão desativadas
 newtab-widget-timer-mode-focus =
     .label = Foco
+newtab-widget-timer-mode-break =
+    .label = Intervalo
+newtab-widget-timer-play =
+    .title = Iniciar
+newtab-widget-timer-pause =
+    .title = Pausar
 newtab-widget-timer-reset =
     .title = Redefinir
 newtab-widget-timer-menu-notifications = Desativar notificações
 newtab-widget-timer-menu-notifications-on = Ativar notificações
 newtab-widget-timer-menu-hide = Esconder o temporizador
 newtab-widget-timer-menu-learn-more = Saiba mais
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Deslize para ver mais
+newtab-promo-card-title = Apoie o { -brand-product-name }
 newtab-promo-card-body = Nossos patrocinadores apoiam nossa missão de construir uma web melhor
 newtab-promo-card-cta = Saiba mais
 newtab-promo-card-dismiss-button =
