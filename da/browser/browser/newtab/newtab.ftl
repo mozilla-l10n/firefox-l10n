@@ -667,10 +667,14 @@ newtab-widget-timer-pause =
 newtab-widget-timer-reset =
     .title = Nulstil
 newtab-widget-timer-menu-notifications = Slå notifikationer fra
+newtab-widget-timer-menu-notifications-on = Slå notifikationer til
 newtab-widget-timer-menu-hide = Skjul timer
 newtab-widget-timer-menu-learn-more = Læs mere
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Scroll for at se mere
+newtab-widget-message-title = Hold fokus med lister og den indbyggede timer
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Fra hurtige påmindelser til daglige opgaver — funktionen Fokus hjælper dig med at have styr på tingene og din tid.
 newtab-promo-card-title = Støt { -brand-product-name }
 newtab-promo-card-body = Vores sponsorer støtter vores mission om at bygge et bedre internet
 newtab-promo-card-cta = Lær mere
