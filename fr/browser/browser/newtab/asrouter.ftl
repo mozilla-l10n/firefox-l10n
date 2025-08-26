@@ -399,6 +399,7 @@ windows-10-eos-feature-toast-dismiss-button = Ignorer
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>La protection stricte contre le pistage peut empêcher certains sites de fonctionner.</strong> Corrigez les problèmes courants en débloquant les éléments essentiels qui pourraient contenir des traqueurs.
 etp-strict-exceptions-infobar-learn-more = En savoir plus
 etp-strict-exceptions-infobar-button = Appliquer les correctifs
     .accesskey = A
