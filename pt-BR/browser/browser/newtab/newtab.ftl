@@ -325,6 +325,8 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Pesquisas em alta
     .description = Tópicos populares e pesquisados com frequência
+newtab-custom-widget-weather-toggle =
+    .label = Tempo
 newtab-custom-widget-trending-search-toggle =
     .label = Pesquisas em alta
 newtab-custom-widget-lists-toggle =
@@ -648,6 +650,7 @@ newtab-widget-lists-name-placeholder-new =
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Temporizador
+newtab-widget-timer-notification-focus = O período de concentração acabou. Bom trabalho. Precisa de um intervalo?
 newtab-widget-timer-mode-focus =
     .label = Foco
 newtab-widget-timer-reset =
