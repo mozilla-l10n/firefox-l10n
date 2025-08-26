@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = Albastru ocean
 profiles-terracotta-theme-2 = Roșu cărămidă
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verde mușchi
+profiles-gray-theme = Gri
+profiles-yellow-theme = Galben
+profiles-orange-theme = Portocaliu
+profiles-red-theme = Roșu
+profiles-pink-theme = Roz
+profiles-purple-theme = Mov
+profiles-violet-theme = Violet
+profiles-blue-theme = Albastru
+profiles-green-theme = Verde
+profiles-cyan-theme = Cyan
 
 ## Alternative text for default profile icons
 

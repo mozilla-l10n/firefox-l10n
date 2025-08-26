@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Testare manuală
 about-glean-category-adhoc-testing = Testare ad-hoc
 about-glean-category-profiler = Utilizarea profilerului
 about-glean-category-about-data = Despre date
+about-glean-category-metrics-table = Tabel de metrici
 about-glean-upload-enabled = Încărcarea de date este activată.
 about-glean-upload-disabled = Încărcarea de date este dezactivată.
 about-glean-upload-enabled-local = Încărcarea de date este activată numai pentru trimiterea către un server local.
@@ -142,6 +143,36 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Ca să înregistrezi un profil de performanță și să vezi toate metricile înregistrate, folosește
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Toate metricile
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Categorie
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Denumire
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Tip
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Valoare
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Acțiuni
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtru
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Va filtra tabelul de mai jos după categorie, denumire, tip și valoare (dacă valoarea este de un tip simplu).
+about-glean-button-load-all = Încarcă toate valorile
+about-glean-button-load-value = Încarcă
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Documente
+about-glean-button-watch = Monitorizează
+# Meaning "to stop watching"
+about-glean-button-unwatch = Oprește monitorizarea
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Metricile etichetate încă nu sunt acceptate în vizualizarea <code>about:glean</code>
+about-glean-unknown-metric-type-warning = Tip necunoscut de metrică.
 about-glean-about-data-explanation =
     Ca să răsfoiești lista de date colectate, vezi
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dicționarul</a>.
