@@ -365,6 +365,7 @@ windows-10-eos-sync-toast-secondary-label = 稍后提醒
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } 不像其他科技巨头旗下浏览器那样是系统预装应用，这就是原因。
+windows-10-eos-challenger-pin-callout-subtitle = 将 { -brand-shorter-name } 固定到任务栏，让您选择的浏览器召之即来。
 windows-10-eos-challenger-sync-primary-button = 备份 { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = 固定 { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } 可拦截加密货币挖矿程序、社交媒体跟踪器、数字指纹跟踪程序。
@@ -383,6 +384,8 @@ windows-10-eos-sync-callout-get-started-button = 开始使用
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = 垂直标签页和标签页群组现已推出！
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = { -brand-product-name } 回应用户期盼，最近推出了一众新功能，助您浏览更专注、更高效。
 windows-10-eos-feature-toast-whats-new-button = 查看新功能
 windows-10-eos-feature-toast-dismiss-button = 知道了
 
@@ -393,6 +396,7 @@ windows-10-eos-feature-toast-dismiss-button = 知道了
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>严格级别跟踪保护可能导致网站异常。</strong>取消屏蔽可能包含跟踪器的必要元素，可以解决常见问题。
 etp-strict-exceptions-infobar-learn-more = 详细了解
 etp-strict-exceptions-infobar-button = 应用修复
     .accesskey = A

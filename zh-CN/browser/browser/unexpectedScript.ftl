@@ -19,5 +19,7 @@ unexpected-script-load-detail-1-allow = { -brand-short-name } 将<strong>允许<
 unexpected-script-load-detail-1-block = { -brand-short-name } 将<strong>阻止</strong>加载意外的特权脚本（包括下方所示的脚本）。这将使 { -brand-short-name } <strong>更加</strong>安全
 unexpected-script-load-report-checkbox =
     .label = 向 { -vendor-short-name } 举报此脚本的网址
+unexpected-script-load-email-checkbox =
+    .label = 附上我的邮箱，以便 { -vendor-short-name } 在需要时联系我
 unexpected-script-load-more-info = 更多信息
 unexpected-script-load-learn-more = 详细了解

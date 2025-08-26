@@ -67,3 +67,4 @@ experimental-features-newtab-widget-lists-description = 在新标签页中一览
 experimental-features-newtab-widget-timer =
     .label = { -firefox-home-brand-name }上的计时器
 experimental-features-newtab-widget-timer-description = 设置计时器，帮助保持专注，促使全心投入，提醒劳逸结合。<a data-l10n-name="connect">分享反馈</a>
+experimental-features-newtab-widget-lists-and-timer-description = 在新标签页中一览待办清单，时刻提醒自己完成任务。从收拾行李到网上购物，都能在 { -brand-product-name } 中列清单筹划。还可设置计时器，帮助保持专注，促使全心投入，提醒劳逸结合。<a data-l10n-name="connect">分享反馈</a>

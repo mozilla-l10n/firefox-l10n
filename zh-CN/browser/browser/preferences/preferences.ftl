@@ -1262,12 +1262,21 @@ content-blocking-etp-standard-tcp-rollout-learn-more = 详细了解
 content-blocking-etp-standard-tcp-title = 包含我们迄今最强大的隐私保护功能 — 全方位 Cookie 保护
 content-blocking-warning-title = 注意！
 content-blocking-and-isolating-etp-warning-description-3 = 此设置可能导致部分网站无法正常使用或显示内容。对于已知可能受您的配置影响的网站，我们提供了可选的例外处理方式。若要尽量避免网站出现问题，请允许对这部分跟踪器进行例外处理。若网站似乎出现问题，您可为其关闭跟踪保护，以加载所有内容；并反馈相关问题，以便我们为全体用户修复。
+content-blocking-warning-title-2 = 严格级别跟踪保护可能导致某些网站异常
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } 建议使用“修复网站问题”设置，以避免网站功能和内容出现异常。若网站异常，可尝试为其关闭跟踪保护，以加载所有内容。
 content-blocking-and-isolating-etp-warning-description-2 = 此设置可能会导致某些网站无法显示内容或正常工作。若网站异常，则可能需要关闭该网站的跟踪保护功能，以加载全部内容。
 content-blocking-warning-learn-how = 了解要如何做
 content-blocking-baseline-exceptions =
     .label = 必要情况下，允许 { -brand-short-name } 自动进行例外处理，以避免网站发生严重故障。
+content-blocking-baseline-exceptions-2 =
+    .label = 仅取消屏蔽可能包含跟踪器的必要元素，有助于加载网站和功能。可解决大多数常见问题。
 content-blocking-convenience-exceptions =
     .label = 同时进行仅为修复轻微问题及恢复便利功能的例外处理。
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = 取消屏蔽可能包含跟踪器的元素，以恢复文章内视频和评论区等内容。此操作可避免网站出现问题，但会降低保护效果。需配合修复严重问题功能使用。
+content-blocking-baseline-label = 修复严重网站问题（推荐）
 content-blocking-convenience-label = 修复轻微网站问题
 content-blocking-exceptions-subheader = 修复网站问题
 content-blocking-baseline-uncheck-warning-dialog-title = 您确定要关闭修复吗？

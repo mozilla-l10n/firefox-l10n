@@ -234,8 +234,12 @@ link-preview-settings-long-press =
     .label = 快捷方式：长按链接 1 秒
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = 想用 AI 看到更多内容吗？
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } 使用 AI 读取页面开头部分，并生成若干要点。为优先保护隐私，处理过程会在您的设备上进行。
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = 新功能：长按任意链接即可预览
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = 查看简短描述、阅读时长等信息，帮助判断链接是否值得点开。也可通过右键点击使用。
 # Header for the key points section
 link-preview-key-points-header = 要点
 # Disclaimer for AI-generated key points
