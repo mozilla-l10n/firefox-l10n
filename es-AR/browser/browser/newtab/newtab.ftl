@@ -668,6 +668,9 @@ newtab-widget-timer-menu-hide = Ocultar temporizador
 newtab-widget-timer-menu-learn-more = Conocer más
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Deslizar para ver más
+newtab-widget-message-title = Manténgase enfocado con listas y un temporizador incorporado
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Desde recordatorios rápidos hasta tareas diarias, sesiones de enfoque y descansos prolongados: manténgase concentrado en la tarea y a tiempo.
 newtab-promo-card-title = Ayudar a { -brand-product-name }
 newtab-promo-card-body = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor
 newtab-promo-card-cta = Conocer más
