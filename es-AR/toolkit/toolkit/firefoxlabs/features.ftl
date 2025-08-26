@@ -72,3 +72,4 @@ experimental-features-newtab-widget-timer-description = Configure un temporizado
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listas y temporizadores en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Mantenga su lista de tareas pendientes al abrir una nueva pestaña. Desde listas de empaque hasta listas de compras, haga sus planes en { -brand-product-name }. Configure un temporizador para mantenerse enfocado, dar un empujoncito para mantenerse en el camino correcto o recordarle que recargue energías. <a data-l10n-name="connect">Compartir opinión</a>
