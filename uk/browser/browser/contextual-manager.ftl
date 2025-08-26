@@ -66,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Додано: { $added }. Оновлено: { $modified }.
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Нові: { $added }. Оновлено: { $modified }. Дублікати: { $no_change }. Помилки: { $error }
 contextual-manager-passwords-import-detailed-report = Переглянути детальний звіт
 contextual-manager-passwords-import-success-button = Готово
 contextual-manager-passwords-import-error-heading-and-message =
@@ -156,6 +162,10 @@ contextual-manager-passwords-password-already-exists-error-button = Перейт
 contextual-manager-passwords-update-password-success-heading =
     .heading = Пароль збережено
 contextual-manager-passwords-update-password-success-button = Готово
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Ім'я користувача збережено
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Ім'я користувача додано
 contextual-manager-passwords-update-username-success-heading =
     .heading = Ім'я користувача збережено
 # Message to confirm successful removal of a password/passwords.
@@ -211,12 +221,15 @@ contextual-manager-passwords-title = Паролі
 
 contextual-manager-passwords-create-label =
     .label = Додати пароль
+contextual-manager-passwords-update-label =
+    .label = Оновити пароль
 contextual-manager-passwords-edit-label =
     .label = Редагувати пароль
 contextual-manager-passwords-remove-label =
     .title = Вилучити пароль
 contextual-manager-passwords-origin-tooltip = Введіть точну адресу сторінки для входу на цей сайт.
 contextual-manager-passwords-username-tooltip = Введіть ім'я користувача, адресу електронної пошти або номер облікового запису, які ви використовуєте для входу.
+contextual-manager-passwords-password-tooltip-2 = Введіть пароль для входу в цей обліковий запис.
 contextual-manager-passwords-password-tooltip = Введіть пароль, який використовується для входу в цей обліковий запис.
 
 ## Password Card
@@ -295,6 +308,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Паролів не знайдено
+contextual-manager-passwords-no-passwords-found-message-2 = Спробуйте ввести інший запит і повторіть пошук.
 contextual-manager-passwords-no-passwords-found-message = Паролі не знайдено. Введіть інший запит і повторіть спробу.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -309,6 +323,8 @@ contextual-manager-passwords-no-passwords-message = Усі паролі шифр
 contextual-manager-passwords-no-passwords-get-started-message = Щоб почати роботу, додайте їх тут.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Створити вручну
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Зберігайте свої паролі в безпечному місці
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -325,3 +341,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [few] Так, вилучити паролі
        *[many] Так, вилучити паролі
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Щоб переглянути збережені паролі, введіть свій головний пароль.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Введіть головний пароль
+contextual-manager-primary-password-learn-more-link = Докладніше
