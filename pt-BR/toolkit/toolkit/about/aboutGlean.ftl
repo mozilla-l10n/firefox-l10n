@@ -17,6 +17,7 @@ about-glean-category-manual-testing = Testes manuais
 about-glean-category-adhoc-testing = Testes direcionados
 about-glean-category-profiler = Como usar o Profiler
 about-glean-category-about-data = Informações sobre dados
+about-glean-category-metrics-table = Tabela de métricas
 about-glean-upload-enabled = O envio de dados está ativado.
 about-glean-upload-disabled = O envio de dados está desativado.
 about-glean-upload-enabled-local = O envio de dados está ativado apenas para enviar a um servidor local.
@@ -91,6 +92,24 @@ about-glean-about-data-list-item-dictionary = Para consultar a lista de dados co
 about-glean-about-data-list-item-about-telemetry = Para consultar dados coletados pela telemetria legada, use <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer = Para consultar tags de debug, ver pings completos, acompanhar uma transmissão de evento ao vivo ou examinar visualizações de métricas, use o <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = Para gravar um profile de desempenho e ver todas as métricas registradas, use o <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Todas as métricas
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Categoria
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Nome
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Tipo
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Valor
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Ações
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtrar
+about-glean-button-load-all = Carregar todos os valores
+about-glean-button-load-value = Carregar
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Documentação
+about-glean-unknown-metric-type-warning = Tipo de métrica desconhecido.
 about-glean-about-data-explanation =
     Para ver a lista de dados coletados, consulte o
     <a data-l10n-name="glean-dictionary-link">dicionário do { -glean-brand-name }</a>.

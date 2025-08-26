@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Exibição de página web
 experimental-features-group-customize-browsing =
     .label = Personalize sua navegação
+experimental-features-group-productivity =
+    .label = Produtividade
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Senhas no painel lateral
@@ -56,3 +58,15 @@ experimental-features-fx-web-apps =
     .label = Adicionar sites à barra de tarefas
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Abra sites que você visita com frequência como aplicativos web a partir da barra de tarefas. Procure o ícone "Adicionar aba à barra de tarefas" à direita da barra de endereços para abrir o site em uma janela simplificada, com todas as proteções do { -brand-product-name }. <a data-l10n-name="connect">Compartilhar opinião</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Listas no { -firefox-home-brand-name }
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Temporizador no { -firefox-home-brand-name }
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listas e temporizador no { -firefox-home-brand-name }
