@@ -20,6 +20,7 @@ about-glean-category-manual-testing = Profi â Llaw
 about-glean-category-adhoc-testing = Profion Ad Hoc
 about-glean-category-profiler = Defnyddio'r Proffiliwr
 about-glean-category-about-data = Ynghylch Data
+about-glean-category-metrics-table = Tabl Metrigau
 about-glean-upload-enabled = Mae llwytho data i fyny wedi'i alluogi.
 about-glean-upload-disabled = Mae llwytho data i fyny wedi'i analluogi.
 about-glean-upload-enabled-local = Dim ond ar gyfer anfon i weinydd lleol y mae llwytho data i fyny wedi'i alluogi.
@@ -140,6 +141,36 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     I gofnodi proffil perfformiad a gweld yr holl fetrigau a gofnodwyd, defnyddiwch
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Pob Metrig
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Categori
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Enw
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Math
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Gwerth
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Gweithredoedd
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Hidl
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Bydd hyn yn hidlo'r tabl isod yn seiliedig ar gategori, enw, math, a gwerth (os yw'r gwerth yn fath syml).
+about-glean-button-load-all = Llwytho Pob Gwerth
+about-glean-button-load-value = Llwytho
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dogfennau
+about-glean-button-watch = Gwylio
+# Meaning "to stop watching"
+about-glean-button-unwatch = Dadwylio
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Nid yw metrigau wedi'u labelu'n cael eu cefnogi eto yn y wedd <code>about:glean</code>.
+about-glean-unknown-metric-type-warning = Math metrig anhysbys.
 about-glean-about-data-explanation =
     I bori drwy'r rhestr o ddata a gasglwyd, edrychwch ar y
     <a data-l10n-name="glean-dictionary-link"> { -glean-brand-name } Geiriadur</a>.

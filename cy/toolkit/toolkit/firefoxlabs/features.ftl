@@ -69,3 +69,7 @@ experimental-features-newtab-widget-lists-description = Cadwch eich rhestr o bet
 experimental-features-newtab-widget-timer =
     .label = Amserydd { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = Gosodwch yr amserydd i gadw'ch canolbwyntio, eich cadw i aros ar y trywydd iawn, neu eich atgoffa i orffwys. <a data-l10n-name="connect">Rhannu adborth</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Rhestrau ac amseryddion ar { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Cadwch eich rhestr tasgau ar flaen eich meddwl pan fyddwch chi'n agor tab newydd. O restrau pacio i restrau siopa, gwnewch eich cynlluniau yn { -brand-product-name }. Gosodwch amserydd er mwyn canolbwyntio, eich cadw ar y trywydd iawn, neu eich atgoffa i orffwys. <a data-l10n-name="connect">Rhannu adborth</a>

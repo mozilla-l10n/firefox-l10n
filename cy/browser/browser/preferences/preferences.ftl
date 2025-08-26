@@ -1288,7 +1288,7 @@ content-blocking-warning-title = Rhybudd!
 content-blocking-and-isolating-etp-warning-description-3 = Gall y gosodiad hwn achosi i rai gwefannau beidio â dangos cynnwys neu swyddogaeth yn gywir. Rydym yn darparu eithriadau dewisol ar gyfer gwefannau rydym yn gwybod y gall eich ffurfweddid effeithio arnyn nhw. Er mwyn lleihau'r siawns o wefannau sydd wedi torri, caniatewch yr eithriadau i'r tracwyr hyn. Os yw gwefan yn ymddangos ei fod wedi torri, gallwch ddiffodd y diogelu rhag tracio'r wefan honno i lwytho'r holl gynnwys ac adrodd am y mater fel y gallwn helpu i'w drwsio i bawb.
 content-blocking-warning-title-2 = Efallai y bydd rhai gwefannau'n torri diogelwch tracio llym
 # “Fix site issues” references the string content-blocking-exceptions-subheader
-content-blocking-and-isolating-etp-warning-description-4 = Mae { -brand-short-name } yn argymell defnyddio'r gosodiadau “Trwsio problemau gwefan” i leihau nodweddion a chynnwys gwefan sydd wedi torri. Os yw gwefan yn ymddangos ei fod wedi torri, ceisiwch ddiffodd diogelwch rhag tracio er mwyn i'r wefan honno lwytho'r holl gynnwys.
+content-blocking-and-isolating-etp-warning-description-4 = Mae { -brand-short-name } yn argymell defnyddio'r gosodiadau “Datrys problemau gwefan” i leihau nodweddion a chynnwys gwefan sydd wedi torri. Os yw gwefan yn ymddangos ei fod wedi torri, ceisiwch ddiffodd diogelwch rhag tracio er mwyn i'r wefan honno lwytho'r holl gynnwys.
 content-blocking-and-isolating-etp-warning-description-2 = Gall y gosodiad hwn beri i rai gwefannau beidio a dangos cynnwys na gweithio'n iawn. Os yw gwefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd diogelu rhag tracio i'r wefan honno lwytho'r holl gynnwys.
 content-blocking-warning-learn-how = Sut mae gwneud
 content-blocking-baseline-exceptions =
@@ -1300,6 +1300,13 @@ content-blocking-convenience-exceptions =
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
 content-blocking-convenience-exceptions-2 =
     .label = Mae'n adfer pethau fel fideos mewn erthygl neu adrannau sylwadau trwy ddadrwystro elfennau sy'n gallu cynnwys tracwyr. Gall hyn leihau problemau gwefan ond mae'n cynnig llai o ddiogelwch. Rhaid ei ddefnyddio gyda datrysiadau ar gyfer materion mawr.
+content-blocking-baseline-label = Datrys problemau mawr gwefan (argymell)
+content-blocking-convenience-label = Datrys problemau bach gwefan (argymell)
+content-blocking-exceptions-subheader = Datrys problemau gwefan
+content-blocking-baseline-uncheck-warning-dialog-title = Ydych chi'n siŵr eich bod am ddiffodd datrysiadau?
+content-blocking-baseline-uncheck-warning-dialog-body = Mae'r gosodiad hwn yn helpu i ddatrys y problemau gwefannau mwyaf cyffredin. Os byddwch yn ei ddiffodd, efallai na fydd rhai gwefannau'n gweithio, ac ni fydd { -brand-short-name } yn gallu helpu i ddatrys y problemau hynny.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Diffodd datrysiadau
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Cadw datrysiadau ymlaen
 content-blocking-reload-description = Bydd angen ail lwytho'ch tabiau i osod y newidiadau hyn.
 content-blocking-reload-tabs-button =
     .label = Ail lwytho Pob Tab

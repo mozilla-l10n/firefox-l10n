@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = Cefnfor glas
 profiles-terracotta-theme-2 = Coch brics
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Gwyrdd mwsogl
+profiles-gray-theme = Llwyd
+profiles-yellow-theme = Melyn
+profiles-orange-theme = Oren
+profiles-red-theme = Coch
+profiles-pink-theme = Pinc
+profiles-purple-theme = Porffor
+profiles-violet-theme = Fioled
+profiles-blue-theme = Glas
+profiles-green-theme = Gwyrdd
+profiles-cyan-theme = Gwyrddlas
 
 ## Alternative text for default profile icons
 

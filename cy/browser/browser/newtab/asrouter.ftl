@@ -414,5 +414,5 @@ windows-10-eos-feature-toast-dismiss-button = Cau
 
 etp-strict-exceptions-infobar-message = <strong>Gall diogelwch tracio llym achosi i wefannau dorri.</strong> Mae modd trwsio problemau cyffredin trwy ddadrwystro elfennau hanfodol sy'n gallu cynnwys tracwyr.
 etp-strict-exceptions-infobar-learn-more = Dysgu rhagor
-etp-strict-exceptions-infobar-button = Trwsio
-    .accesskey = T
+etp-strict-exceptions-infobar-button = Datrys
+    .accesskey = D

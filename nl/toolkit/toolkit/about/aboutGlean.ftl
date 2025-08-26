@@ -21,7 +21,7 @@ about-glean-category-manual-testing = Handmatig testen
 about-glean-category-adhoc-testing = Ad-hoctesten
 about-glean-category-profiler = De Profiler gebruiken
 about-glean-category-about-data = Over gegevens
-about-glean-category-metrics-table = Metrische gegevens
+about-glean-category-metrics-table = Tabel met statistieken
 about-glean-upload-enabled = Gegevensupload is ingeschakeld.
 about-glean-upload-disabled = Gegevensupload is uitgeschakeld.
 about-glean-upload-enabled-local = Gegevensupload is alleen ingeschakeld voor verzenden naar een lokale server.
@@ -143,6 +143,32 @@ about-glean-about-data-list-item-firefox-profiler =
     Gebruik voor het opnemen van een prestatieprofiel en het bekijken van alle opgenomen statistieken de
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-metrics-table-header = Alle statistieken
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Categorie
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Naam
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Type
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Waarde
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Acties
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filteren
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Dit filtert de onderstaande tabel op basis van categorie, naam, type en waarde (als de waarde een eenvoudig type is).
+about-glean-button-load-all = Alle waarden laden
+about-glean-button-load-value = Laden
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Documenten
+about-glean-button-watch = Volgen
+# Meaning "to stop watching"
+about-glean-button-unwatch = Niet meer volgen
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Gelabelde statistieken worden nog niet ondersteund in de <code>about:glean</code>-weergave.
 about-glean-unknown-metric-type-warning = Onbekend statistiektype.
