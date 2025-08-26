@@ -15,3 +15,5 @@ unexpected-script-load-message-button-block =
     .label = Bloquear
     .accesskey = B
 unexpected-script-load-title = Carregamento de script não esperado
+unexpected-script-load-detail-1-allow = O { -brand-short-name } vai <strong>PERMITIR</strong> o carregamento de scripts privilegiados não esperados, inclusive este abaixo. Isso tornará sua instalação do { -brand-short-name } <strong>menos</strong> segura.
+unexpected-script-load-detail-1-block = O { -brand-short-name } vai <strong>BLOQUEAR</strong> o carregamento de scripts privilegiados não esperados, inclusive este abaixo. Isso tornará sua instalação do { -brand-short-name } <strong>mais</strong> segura.
