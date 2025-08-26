@@ -95,6 +95,7 @@ about-glean-metrics-table-header-type = Tipo
 about-glean-metrics-table-header-value = Valore
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Azioni
+# Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtra
 # This message sits alongside an input field, further describing its purpose.
 # Category refers to the category in which a given metric is recorded.
