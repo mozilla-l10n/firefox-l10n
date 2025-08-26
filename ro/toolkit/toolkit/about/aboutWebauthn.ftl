@@ -15,7 +15,7 @@ about-webauthn-info-section-title = Informații despre dispozitiv
 about-webauthn-info-subsection-title = Informații despre autentificator
 about-webauthn-options-subsection-title = Opțiuni de autentificare
 about-webauthn-pin-section-title = Gestionarea PIN-urilor
-about-webauthn-credential-management-section-title = Gestionează credențialele
+about-webauthn-credential-management-section-title = Gestionează datele de autentificare
 about-webauthn-pin-required-section-title = Necesită PIN
 about-webauthn-confirm-deletion-section-title = Confirmă ștergerea
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
@@ -58,18 +58,15 @@ about-webauthn-new-pin-label = Cod PIN nou:
 about-webauthn-repeat-pin-label = Repetă noul cod PIN:
 about-webauthn-current-pin-label = PIN actual:
 about-webauthn-pin-required-label = Te rugăm să introduci PIN-ul:
-about-webauthn-credential-list-subsection-title = Credențiale:
+about-webauthn-credential-list-subsection-title = Date de autentificare:
 about-webauthn-enrollment-name-label = Numele înscrierii (opțional):
 about-webauthn-enrollment-list-empty = Nu s-au găsit înscrieri pe dispozitiv.
-about-webauthn-credential-list-empty = Nu s-au găsit credențiale pe dispozitiv.
 about-webauthn-confirm-deletion-label = Ești pe cale să ștergi:
 
 ## Buttons
 
 about-webauthn-current-set-pin-button = Setează PIN-ul
 about-webauthn-current-change-pin-button = Modifică PIN-ul
-# List is a verb, as in "Show list of credentials"
-about-webauthn-list-credentials-button = Listează credențialele
 # List is a verb, as in "Show list of all enrollments"
 about-webauthn-list-bio-enrollments-button = Listează înscrierile
 about-webauthn-add-bio-enrollment-button = Adaugă înscriere
@@ -99,8 +96,6 @@ about-webauthn-auth-option-userverificationmgmtpreview = Prototip de înscriere 
 about-webauthn-auth-option-uvbioenroll = Permisiunea de înscriere biometrică
 about-webauthn-auth-option-authnrcfg = Configurație autentificator
 about-webauthn-auth-option-uvacfg = Permisiune de configurare a autentificatorului
-about-webauthn-auth-option-credmgmt = Gestionarea credențialelor
-about-webauthn-auth-option-credentialmgmtpreview = Gestionarea credențialelor pentru prototip
 about-webauthn-auth-option-setminpinlength = Setează lungimea minimă a codului PIN
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential fără verificarea utilizatorului

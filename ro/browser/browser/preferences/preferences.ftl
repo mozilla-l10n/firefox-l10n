@@ -846,7 +846,7 @@ sync-syncing-across-devices-heading = Sincronizezi aceste elemente pe toate disp
 sync-currently-syncing-bookmarks = Marcaje
 sync-currently-syncing-history = Istoric
 sync-currently-syncing-tabs = File deschise
-sync-currently-syncing-logins-passwords = Credențiale și parole
+sync-currently-syncing-logins-passwords = Date de autentificare și parole
 sync-currently-syncing-passwords = Parole
 sync-currently-syncing-addresses = Adrese
 sync-currently-syncing-creditcards = Carduri de credit
@@ -881,7 +881,7 @@ sync-engine-tabs =
     .tooltiptext = O listă cu ce este deschis pe toate dispozitivele sincronizate
     .accesskey = T
 sync-engine-logins-passwords =
-    .label = Credențiale și parole
+    .label = Date de autentificare și parole
     .tooltiptext = Denumiri de utilizator și parole salvate
     .accesskey = L
 sync-engine-passwords =
@@ -988,7 +988,7 @@ forms-fill-logins-and-passwords =
     .label = Completează automat autentificări și parole
     .accesskey = i
 forms-saved-logins =
-    .label = Credențiale salvate…
+    .label = Date de autentificare salvate…
     .accesskey = L
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-usernames-and-passwords =
@@ -1028,7 +1028,7 @@ windows-passkey-settings-label = Gestionează cheile de acces în setările de s
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
-primary-password-os-auth-dialog-message-win = Pentru a crea o parolă primară, introdu credențialele Windows. Acest lucru ajută la protejarea securității conturilor tale.
+primary-password-os-auth-dialog-message-win = Pentru a crea o parolă primară, introdu datele de autentificare Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These

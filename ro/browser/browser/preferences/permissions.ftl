@@ -103,9 +103,9 @@ permissions-exceptions-popup-desc = Poți specifica ce site-uri web au permisiun
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window2 =
-    .title = Excepții - Credențiale salvate
+    .title = Excepții - Date de autentificare salvate
     .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Nu vor fi salvate credențiale pentru următoarele site-uri web
+permissions-exceptions-saved-logins-desc = Nu vor fi salvate date de autentificare pentru următoarele site-uri web
 
 ## Exceptions - Saved Passwords
 

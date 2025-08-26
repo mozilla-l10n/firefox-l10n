@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Credențiale și parole
+about-logins-page-title = Date de autentificare și parole
 about-logins-login-filter =
-    .placeholder = Caută credențiale
+    .placeholder = Caută date de autentificare
     .key = F
 create-new-login-button =
-    .title = Creează credențiale noi
+    .title = Creează date de autentificare noi
 about-logins-page-title-name = Parole
 about-logins-login-filter2 =
     .placeholder = Caută parole
@@ -27,7 +27,7 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importă dintr-un alt browser…
 about-logins-menu-menuitem-import-from-a-file = Importă dintr-un fișier…
-about-logins-menu-menuitem-export-logins = Exportă credențiale…
+about-logins-menu-menuitem-export-logins = Exportă datele de autentificare…
 about-logins-menu-menuitem-remove-all-logins = Elimină toate autentificările…
 about-logins-menu-menuitem-export-logins2 = Exportă parolele…
 about-logins-menu-menuitem-remove-all-logins2 = Elimină toate parolele…
@@ -41,23 +41,23 @@ about-logins-menu-menuitem-help = Ajutor
 ## Login List
 
 login-list =
-    .aria-label = Credențiale corespondente criteriilor de căutare
+    .aria-label = Date de autentificare corespondente criteriilor de căutare
 # Variables
 #   $count (number) - Number of logins
 login-list-count =
     { $count ->
-        [one] { $count } set de credențiale
-        [few] { $count } seturi de credențiale
-       *[other] { $count } de seturi de credențiale
+        [one] { $count } set de date de autentificare
+        [few] { $count } seturi de date de autentificare
+       *[other] { $count } de seturi de date de autentificare
     }
 # Variables
 #   $count (number) - Number of filtered logins
 #   $total (number) - Total number of logins
 login-list-filtered-count =
     { $total ->
-        [one] { $count } din { $total } set de credențiale
-        [few] { $count } din { $total } credențiale
-       *[other] { $count } din { $total } de credențiale
+        [one] { $count } din { $total } set de date de autentificare
+        [few] { $count } din { $total } seturi de date de autentificare
+       *[other] { $count } din { $total } de seturi de date de autentificare
     }
 # Variables
 #   $count (number) - Number of logins
@@ -87,11 +87,11 @@ login-list-last-used-option = Ultima utilizare
 login-list-intro-title = Nicio autentificare găsită
 login-list-intro-title2 = Nu au fost salvate parole
 login-list-intro-description = Când salvezi o parolă în { -brand-product-name }, va apărea aici.
-about-logins-login-list-empty-search-title = Nu s-au găsit credențiale
+about-logins-login-list-empty-search-title = Nu s-au găsit date de autentificare
 about-logins-login-list-empty-search-title2 = Nu s-au găsit parole
 about-logins-login-list-empty-search-description = Nu există rezultate care să corespundă căutării.
 login-list-item-title-new-login = Autentificare nouă
-login-list-item-subtitle-new-login = Introdu credențialele
+login-list-item-subtitle-new-login = Introdu datele de autentificare
 login-list-item-title-new-login2 = Adaugă parola
 login-list-item-subtitle-missing-username = (niciun nume de utilizator)
 about-logins-list-item-breach-icon =
@@ -107,17 +107,16 @@ about-logins-list-section-week = Ultimele 7 zile
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Cauți credențiale salvate? Activează sincronizarea sau importă-le.
-about-logins-login-intro-heading-logged-in = Nu am găsit credențiale sincronizate.
-login-intro-description = Dacă ți-ai salvat credențiale în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
-login-intro-instructions-fxa = Fă-ți un cont sau intră în contul { -fxaccount-brand-name(case: "definite-article") } de pe dispozitivul pe care ai salvat credențialele.
+about-logins-login-intro-heading-logged-out2 = Cauți date de autentificare salvate? Activează sincronizarea sau importă-le.
+about-logins-login-intro-heading-logged-in = Nu am găsit date de autentificare sincronizate.
+login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
+login-intro-instructions-fxa = Fă-ți un cont sau intră în contul { -fxaccount-brand-name(case: "definite-article") } de pe dispozitivul pe care ai salvat datele de autentificare.
 about-logins-login-intro-heading-message = Salvează-ți parolele într-un loc sigur
 login-intro-description2 = Toate parolele pe care le salvezi în { -brand-product-name } sunt criptate. În plus, suntem atenți la încălcarea securității datelor și te alertăm dacă te afectează. <a data-l10n-name="breach-alert-link">Află mai multe</a>
-login-intro-instructions-fxa2 = Fă-ți un cont sau intră în contul tău de pe dispozitivul pe care sunt salvate credențialele.
-login-intro-instructions-fxa-settings = Mergi la Setări > Sincronizare > Activează sincronizarea… Bifează caseta de selectare Credențiale și parole.
-login-intro-instructions-fxa-passwords-help = Vizitează <a data-l10n-name="passwords-help-link">asistența pentru parole</a> pentru mai mult ajutor.
-about-logins-intro-browser-only-import = Dacă ai credențiale salvate în alt browser, le poți<a data-l10n-name="import-link">importa în { -brand-product-name }</a>
-about-logins-intro-import2 = Dacă ai credențiale salvate în afara { -brand-product-name }, le poți <a data-l10n-name="import-browser-link">importa dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>
+login-intro-instructions-fxa2 = Fă-ți un cont sau intră în contul tău de pe dispozitivul pe care sunt salvate datele de autentificare.
+login-intro-instructions-fxa-settings = Mergi la Setări > Sincronizare > Activează sincronizarea… Bifează caseta de selectare Date de autentificare și parole.
+about-logins-intro-browser-only-import = Dacă ai date de autentificare salvate în alt browser, le poți<a data-l10n-name="import-link">importa în { -brand-product-name }</a>
+about-logins-intro-import2 = Dacă ai date de autentificare salvate în afara { -brand-product-name }, le poți <a data-l10n-name="import-browser-link">importa dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>
 about-logins-intro-import3 = Selectează butonul cu semnul plus de mai sus pentru a adăuga o parolă acum. Poți și <a data-l10n-name="import-browser-link">importa parole dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</ a>.
 
 ## Login
@@ -173,10 +172,10 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Pentru a edita credențialele, introdu credențialele Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-edit-login-os-auth-dialog-message-win = Pentru a edita datele de autentificare, introdu datele de autentificare Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = editează credențialele salvate
+about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvatelogin-intro-instructions-fxa-passwords-help = Vizitează <a data-l10n-name="passwords-help-link">asistența pentru parole</a> pentru mai mult ajutor.
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
