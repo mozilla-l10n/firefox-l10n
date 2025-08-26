@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = Oceaanblauw
 profiles-terracotta-theme-2 = Steenrood
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mosgroen
+profiles-gray-theme = Grijs
+profiles-yellow-theme = Geel
+profiles-orange-theme = Oranje
+profiles-red-theme = Rood
+profiles-pink-theme = Roze
+profiles-purple-theme = Paars
+profiles-violet-theme = Lila
+profiles-blue-theme = Blauw
+profiles-green-theme = Groen
+profiles-cyan-theme = Cyaan
 
 ## Alternative text for default profile icons
 

@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Tabblad aan taakbalk toevoegen
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Tabblad van taakbalk verwijderen
+taskbar-tab-urlbar-button-show = Webapp-pagina-actie tonen
+taskbar-tab-urlbar-button-hide = Webapp-pagina-actie verbergen
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
@@ -25,3 +27,10 @@ taskbar-tab-shortcut-description = { $name }-webapp
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = { -brand-short-name }-webapps
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Tabblad dempen
+taskbar-tab-audio-unmute =
+    .tooltiptext = Tabblad dempen opheffen

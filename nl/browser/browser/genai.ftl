@@ -125,6 +125,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Over AI-chatbots in { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Aangezien de pagina lang is, is dit een gedeeltelijke samenvatting.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Pagina samenvatten
@@ -217,6 +222,10 @@ link-preview-reading-time =
         [one] { $range } minuut leestijd
        *[other] { $range } minuten leestijd
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = We kunnen geen voorbeeld van deze koppeling tonen
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Koppeling bezoeken
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = We kunnen geen hoofdpunten voor deze webpagina aanmaken.
 # Error message when something went wrong during key point generation

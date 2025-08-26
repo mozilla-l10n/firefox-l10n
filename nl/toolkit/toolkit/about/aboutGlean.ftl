@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Handmatig testen
 about-glean-category-adhoc-testing = Ad-hoctesten
 about-glean-category-profiler = De Profiler gebruiken
 about-glean-category-about-data = Over gegevens
+about-glean-category-metrics-table = Metrische gegevens
 about-glean-upload-enabled = Gegevensupload is ingeschakeld.
 about-glean-upload-disabled = Gegevensupload is uitgeschakeld.
 about-glean-upload-enabled-local = Gegevensupload is alleen ingeschakeld voor verzenden naar een lokale server.
@@ -141,6 +142,7 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Gebruik voor het opnemen van een prestatieprofiel en het bekijken van alle opgenomen statistieken de
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Alle statistieken
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Gelabelde statistieken worden nog niet ondersteund in de <code>about:glean</code>-weergave.
 about-glean-unknown-metric-type-warning = Onbekend statistiektype.

@@ -826,6 +826,49 @@ urlbar-result-dismissal-acknowledgment-market = Bedankt voor uw feedback. U ziet
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Bedankt voor uw feedback. U ziet deze suggesties niet meer.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Over { $daysUntilStart } dag
+       *[other] { $name } · Over { $daysUntilStart } dagen
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Start over { $daysUntilStart } dag
+       *[other] { $name } · Start over { $daysUntilStart } dagen
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Eindigt over { $daysUntilEnd } dag
+       *[other] { $name } · Eindigt over { $daysUntilEnd } dagen
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Vandaag
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Eindigt vandaag
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
