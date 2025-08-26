@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-branded-title = { -brand-short-name } Krasjrapportering
+crashreporter-branded-title = { -brand-short-name }-krasjrapportering
 crashreporter-apology = Vi beklager
 crashreporter-crashed-and-restore = { -brand-short-name } hadde et problem og krasjet. { -brand-short-name } vil prøve å gjenopprette fanene og vinduene dine når programmet starter på nytt.
 crashreporter-plea = For å hjelpe oss å løse og reparere problemet kan du sende oss en krasjrapport.
