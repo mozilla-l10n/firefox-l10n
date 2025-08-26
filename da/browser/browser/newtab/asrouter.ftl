@@ -391,3 +391,13 @@ windows-10-eos-feature-toast-title = Nyt: Lodrette faneblade og fanebladsgrupper
 windows-10-eos-feature-toast-subtitle = Efter mange opfordringer inkluderer { -brand-product-name } nu nye funktioner for at gøre din oplevelse på nettet bedre og mere fokuseret.
 windows-10-eos-feature-toast-whats-new-button = Se nyhederne
 windows-10-eos-feature-toast-dismiss-button = Afvis
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>Striks beskyttelse mod sporing kan medføre, at websteder ikke fungerer korrekt.</strong> Løs almindelige problemer ved at ophæve blokeringen af vigtige elementer, der kan indeholde sporings-mekanismer.
+etp-strict-exceptions-infobar-learn-more = Læs mere

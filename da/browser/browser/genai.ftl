@@ -256,3 +256,12 @@ link-preview-onboarding-description-long-press = Se en kort beskrivelse, hvor la
 link-preview-key-points-header = Hovedpunkter
 # Disclaimer for AI-generated key points
 link-preview-key-points-disclaimer = Hovedpunkter er oprettet af en AI og kan indeholde fejl.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Initial opsætning • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Hovedpunkter vil blive vist hurtigere næste gang.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Se forhåndsvisning
+# Onboarding card Close button
+link-preview-onboarding-close = Luk
