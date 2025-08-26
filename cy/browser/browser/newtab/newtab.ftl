@@ -678,6 +678,9 @@ newtab-widget-timer-menu-hide = Cuddio'r amserydd
 newtab-widget-timer-menu-learn-more = Dysgu rhagor
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Sgrolio am ragor
+newtab-widget-message-title = Canolbwyntio gyda rhestrau a'r amserydd mewnol
+# to-dos stands for "things to do".
+newtab-widget-message-copy = O negeseuon atgoffa cyflym i bethau i'w gwneud bob dydd, sesiynau canolbwyntio i egwyliau ymestyn - cadwch i'r dasg ac amser.
 newtab-promo-card-title = Cefnogwch { -brand-product-name }
 newtab-promo-card-body = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 newtab-promo-card-cta = Dysgu rhagor

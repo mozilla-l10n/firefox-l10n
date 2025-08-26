@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Dweud wrth wefannau i beidio â gwerthu neu rannu fy nata
     .accesskey = g
 non-technical-privacy-header = Dewisiadau Preifatrwydd Gwefan
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Cau
+do-not-track-removal2 =
+    .label = Dydyn ni ddim bellach yn cefnogi'r signal “Peidiwch â Thracio”.
 
 ## Browser Restart Dialog
 
@@ -1282,12 +1286,20 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Darllen rhagor
 content-blocking-etp-standard-tcp-title = Yn cynnwys Diogelwch Cwcis Llwyr, ein nodwedd preifatrwydd mwyaf pwerus erioed
 content-blocking-warning-title = Rhybudd!
 content-blocking-and-isolating-etp-warning-description-3 = Gall y gosodiad hwn achosi i rai gwefannau beidio â dangos cynnwys neu swyddogaeth yn gywir. Rydym yn darparu eithriadau dewisol ar gyfer gwefannau rydym yn gwybod y gall eich ffurfweddid effeithio arnyn nhw. Er mwyn lleihau'r siawns o wefannau sydd wedi torri, caniatewch yr eithriadau i'r tracwyr hyn. Os yw gwefan yn ymddangos ei fod wedi torri, gallwch ddiffodd y diogelu rhag tracio'r wefan honno i lwytho'r holl gynnwys ac adrodd am y mater fel y gallwn helpu i'w drwsio i bawb.
+content-blocking-warning-title-2 = Efallai y bydd rhai gwefannau'n torri diogelwch tracio llym
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = Mae { -brand-short-name } yn argymell defnyddio'r gosodiadau “Trwsio problemau gwefan” i leihau nodweddion a chynnwys gwefan sydd wedi torri. Os yw gwefan yn ymddangos ei fod wedi torri, ceisiwch ddiffodd diogelwch rhag tracio er mwyn i'r wefan honno lwytho'r holl gynnwys.
 content-blocking-and-isolating-etp-warning-description-2 = Gall y gosodiad hwn beri i rai gwefannau beidio a dangos cynnwys na gweithio'n iawn. Os yw gwefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd diogelu rhag tracio i'r wefan honno lwytho'r holl gynnwys.
 content-blocking-warning-learn-how = Sut mae gwneud
 content-blocking-baseline-exceptions =
     .label = Caniatáu i { -brand-short-name } osod yn awtomatig yr eithriadau sydd eu hangen er mwyn osgoi chwaliadau mawr i'r wefan.
+content-blocking-baseline-exceptions-2 =
+    .label = Yn helpu i lwytho gwefannau a nodweddion trwy ddadrwystro dim ond elfennau hanfodol sy'n gallu cynnwys tracwyr. Mae'n datrys y problemau mwyaf cyffredin.
 content-blocking-convenience-exceptions =
     .label = Hefyd, gosod eithriadau'n awtomatig sydd dim ond eu hangen i drwsio mân faterion a sicrhau bod nodweddion cyfleustra ar gael.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Mae'n adfer pethau fel fideos mewn erthygl neu adrannau sylwadau trwy ddadrwystro elfennau sy'n gallu cynnwys tracwyr. Gall hyn leihau problemau gwefan ond mae'n cynnig llai o ddiogelwch. Rhaid ei ddefnyddio gyda datrysiadau ar gyfer materion mawr.
 content-blocking-reload-description = Bydd angen ail lwytho'ch tabiau i osod y newidiadau hyn.
 content-blocking-reload-tabs-button =
     .label = Ail lwytho Pob Tab
