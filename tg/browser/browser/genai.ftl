@@ -125,6 +125,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Дар бораи чат-ботҳои зеҳни сунъӣ «AI» дар «{ -brand-short-name }»
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Азбаски саҳифа дароз аст, ин хулоса қисман бароварда шуд.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Баровардани хулоса дар бораи ин саҳифа
@@ -217,10 +222,17 @@ link-preview-reading-time =
         [one] { $range } дақиқаи вақти хониш
        *[other] { $range } дақиқаи вақти хониш
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Мо ин пайвандро пешнамоиш карда наметавонем
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Кушодани пайванд
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Чизе нодуруст иҷро шуд.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Аз нав кӯшиш кардан
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Танзимоти пешнамоиши пайванд
 # Header for the key points section
 link-preview-key-points-header = Нуқтаҳои асосӣ
 # Onboarding card See a preview button

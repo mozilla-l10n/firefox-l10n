@@ -56,3 +56,9 @@ experimental-features-newtab-sections-follow-block-description = Мақолаҳ�
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Илова кардани сомонаҳо ба навори вазифаи худ
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Рӯйхатҳо дар «{ -firefox-home-brand-name }»
