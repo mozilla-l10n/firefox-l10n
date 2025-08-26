@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Adicionar aba à barra de tarefas
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Remover aba da barra de tarefas
+taskbar-tab-urlbar-button-show = Mostrar ação da página de aplicativo web
+taskbar-tab-urlbar-button-hide = Ocultar ação da página de aplicativo web
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
@@ -25,3 +27,10 @@ taskbar-tab-shortcut-description = Aplicativo web { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Aplicativos web do { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Silenciar aba
+taskbar-tab-audio-unmute =
+    .tooltiptext = Ativar som da aba
