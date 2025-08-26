@@ -666,6 +666,7 @@ newtab-widget-timer-pause =
     .title = Pause
 newtab-widget-timer-reset =
     .title = Nulstil
+newtab-widget-timer-menu-notifications = Slå notifikationer fra
 newtab-widget-timer-menu-hide = Skjul timer
 newtab-widget-timer-menu-learn-more = Læs mere
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll

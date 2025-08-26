@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Fortæl websteder, at de ikke skal sælge eller dele mine data
     .accesskey = s
 non-technical-privacy-header = Privatlivsindstillinger for websted
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Luk
+do-not-track-removal2 =
+    .label = Vi understøtter ikke længere "Spor mig ikke"-signalet
 
 ## Browser Restart Dialog
 
