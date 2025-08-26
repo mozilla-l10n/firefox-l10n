@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Websiteweergave
 experimental-features-group-customize-browsing =
     .label = Pas uw browser aan
+experimental-features-group-productivity =
+    .label = Productiviteit
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Wachtwoorden in de zijbalk
@@ -56,3 +58,18 @@ experimental-features-fx-web-apps =
     .label = Websites aan uw taakbalk toevoegen
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Open websites die u regelmatig bezoekt als een webapp vanuit uw taakbalk. Zoek naar het pictogram ‘Tabblad aan taakbalk toevoegen’ rechts in de adresbalk om die website in een gestroomlijnd venster te openen, met alle beschermingen van { -brand-product-name }. <a data-l10n-name="connect">Feedback delen</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Lijsten op { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Houd uw to-dolijst in gedachten wanneer u een nieuw tabblad opent. Van paklijsten tot boodschappenlijstjes, maak uw plannen in { -brand-product-name }. <a data-l10n-name="connect">Feedback delen</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Timer op { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Stel een timer in om u gefocust te houden, een duwtje in de rug te geven om op het goede spoor te blijven of u eraan te herinneren dat u moet opladen. <a data-l10n-name="connect">Feedback delen</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Lijsten en timer op { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Houd uw to-dolijst in gedachten wanneer u een nieuw tabblad opent. Van paklijsten tot boodschappenlijstjes, maak uw plannen in { -brand-product-name }. Stel een timer in om u gefocust te houden, een duwtje in de rug te geven om op het goede spoor te blijven of u eraan te herinneren dat u moet opladen. <a data-l10n-name="connect">Feedback delen</a>

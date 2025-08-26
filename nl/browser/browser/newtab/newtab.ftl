@@ -338,6 +338,10 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Timer
 newtab-custom-widget-section-title = Widgets
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Sluiten
+    .aria-label = Menu sluiten
 newtab-custom-close-button = Sluiten
 newtab-custom-settings = Meer instellingen beheren
 
@@ -614,6 +618,11 @@ newtab-trending-searches-title = Trending zoekopdrachten
 
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
 newtab-widget-lists-empty-cta = De mogelijkheden zijn eindeloos. Voeg er een toe.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nieuw
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -625,6 +634,8 @@ newtab-widget-lists-menu-delete = Deze lijst verwijderen
 newtab-widget-lists-menu-copy = Lijst naar klembord kopiëren
 newtab-widget-lists-menu-hide = Alle lijsten verbergen
 newtab-widget-lists-menu-learn-more = Meer info
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Een item toevoegen
 newtab-widget-lists-input-error = Voeg tekst toe om een item toe te voegen.
 newtab-widget-lists-input-menu-open-link = Koppeling openen
 newtab-widget-lists-input-menu-move-up = Omhoog verplaatsen
@@ -660,9 +671,14 @@ newtab-widget-timer-menu-notifications = Notificaties uitschakelen
 newtab-widget-timer-menu-notifications-on = Notificaties inschakelen
 newtab-widget-timer-menu-hide = Timer verbergen
 newtab-widget-timer-menu-learn-more = Meer info
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Scrol voor meer
 newtab-widget-message-title = Blijf gefocust met lijsten en een ingebouwde timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Van snelle herinneringen tot dagelijkse to-do’s, en van focussessies tot lange pauzes – blijf bij de taak en op tijd.
 newtab-promo-card-title = { -brand-product-name } ondersteunen
 newtab-promo-card-body = Onze sponsors steunen onze missie om een beter web te bouwen
 newtab-promo-card-cta = Meer info
+newtab-promo-card-dismiss-button =
+    .title = Sluiten
+    .aria-label = Sluiten

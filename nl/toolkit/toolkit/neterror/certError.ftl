@@ -164,6 +164,7 @@ redirectLoop-title = De pagina verwijst niet op een juiste manier door
 unknownSocketType-title = Onverwacht antwoord van server
 nssFailure2-title = Beveiligde verbinding mislukt
 csp-xfo-error-title = { -brand-short-name } kan deze pagina niet openen
+corruptedContentErrorv2-title = Beschadigde-inhoudsfout
 corruptedContentError-title = Beschadigde-inhoudsfout
 sslv3Used-title = Kan geen beveiligde verbinding maken
 inadequateSecurityError-title = Uw verbinding is niet beveiligd

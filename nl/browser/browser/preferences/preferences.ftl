@@ -1270,12 +1270,21 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Meer info
 content-blocking-etp-standard-tcp-title = Bevat Totale cookiebescherming, onze krachtigste privacyfunctie ooit
 content-blocking-warning-title = Let op!
 content-blocking-and-isolating-etp-warning-description-3 = Deze instelling kan ervoor zorgen dat sommige websites inhoud niet weergeven of niet goed functioneren. We bieden optionele uitzonderingen voor websites waarvan we weten dat deze kunnen worden beïnvloed door uw configuratie. Sta deze trackeruitzonderingen toe om de kans op defecte websites te verkleinen. Als een website niet lijkt te werken, kunt u bescherming tegen volgen voor die website uitschakelen om alle inhoud te laden en het probleem te melden, zodat we het voor iedereen kunnen helpen oplossen.
+content-blocking-warning-title-2 = Sommige websites werken mogelijk niet goed met strikte bescherming tegen volgen
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } raadt het gebruik van de instellingen voor ‘Problemen met website oplossen’ aan om defecte websitefuncties en -inhoud te verminderen. Als een website niet lijkt te werken, probeer dan bescherming tegen volgen voor die website uit te schakelen om alle inhoud te laden.
 content-blocking-and-isolating-etp-warning-description-2 = Deze instelling kan ervoor zorgen dat sommige websites inhoud niet tonen of niet correct werken. Als een website niet lijkt te werken, dan kunt u bescherming tegen volgen voor die website uitschakelen om alle inhoud te laden.
 content-blocking-warning-learn-how = Meer info
 content-blocking-baseline-exceptions =
     .label = { -brand-short-name } toestaan om automatisch uitzonderingen toe te passen die nodig zijn om grote defecten van de website te voorkomen.
+content-blocking-baseline-exceptions-2 =
+    .label = Helpt websites en functies te laden door alleen essentiële elementen die trackers kunnen bevatten te deblokkeren. Dekt de meest voorkomende problemen.
 content-blocking-convenience-exceptions =
     .label = Ook automatisch uitzonderingen toepassen die alleen nodig zijn om kleine problemen op te lossen en gemaksfuncties beschikbaar te maken.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Herstelt zaken als video’s in een artikel of commentaarsecties door elementen die trackers kunnen bevatten te deblokkeren. Dit kan problemen met de website verminderen, maar biedt minder bescherming. Moet worden gebruikt met oplossingen voor grote problemen.
+content-blocking-baseline-label = Grote problemen met de website verhelpen (aanbevolen)
 content-blocking-reload-description = U dient uw tabbladen te vernieuwen om deze wijzigingen toe te passen.
 content-blocking-reload-tabs-button =
     .label = Alle tabbladen vernieuwen
