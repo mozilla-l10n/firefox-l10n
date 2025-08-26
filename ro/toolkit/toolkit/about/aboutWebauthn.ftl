@@ -61,12 +61,15 @@ about-webauthn-pin-required-label = Te rugăm să introduci PIN-ul:
 about-webauthn-credential-list-subsection-title = Date de autentificare:
 about-webauthn-enrollment-name-label = Numele înscrierii (opțional):
 about-webauthn-enrollment-list-empty = Nu s-au găsit înscrieri pe dispozitiv.
+about-webauthn-credential-list-empty = Nu s-au găsit date de autentificare pe dispozitiv.
 about-webauthn-confirm-deletion-label = Ești pe cale să ștergi:
 
 ## Buttons
 
 about-webauthn-current-set-pin-button = Setează PIN-ul
 about-webauthn-current-change-pin-button = Modifică PIN-ul
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Dă lista cu datele de autentificare
 # List is a verb, as in "Show list of all enrollments"
 about-webauthn-list-bio-enrollments-button = Listează înscrierile
 about-webauthn-add-bio-enrollment-button = Adaugă înscriere
@@ -96,6 +99,8 @@ about-webauthn-auth-option-userverificationmgmtpreview = Prototip de înscriere 
 about-webauthn-auth-option-uvbioenroll = Permisiunea de înscriere biometrică
 about-webauthn-auth-option-authnrcfg = Configurație autentificator
 about-webauthn-auth-option-uvacfg = Permisiune de configurare a autentificatorului
+about-webauthn-auth-option-credmgmt = Gestionarea datelor de autentificare
+about-webauthn-auth-option-credentialmgmtpreview = Gestionarea datelor de autentificare pentru prototip
 about-webauthn-auth-option-setminpinlength = Setează lungimea minimă a codului PIN
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential fără verificarea utilizatorului
@@ -111,20 +116,20 @@ about-webauthn-auth-option-null = Nesuportat
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-vendor-prototype-config-commands = Comenzi de configurare prototip furnizor
-about-webauthn-auth-info-remaining-discoverable-credentials = Credențiale rămase care pot fi descoperite
+about-webauthn-auth-info-remaining-discoverable-credentials = Datele de autentificare rămase care pot fi descoperite
 about-webauthn-auth-info-certifications = Certificări
 about-webauthn-auth-info-uv-modality = Modalitate de verificare a utilizatorului
 about-webauthn-auth-info-preferred-platform-uv-attempts = Încercări preferate de verificare a utilizatorilor platformei
 about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Număr maxim de ID-uri Relying Party pentru setarea lungimii minime a codului PIN
-about-webauthn-auth-info-max-cred-blob-length = Lungime maximă a blobului de credențiale
+about-webauthn-auth-info-max-cred-blob-length = Lungime maximă a blobului de date de autentificare
 about-webauthn-auth-info-firmware-version = Versiune firmware
 about-webauthn-auth-info-min-pin-length = Lungime minimă PIN
 about-webauthn-auth-info-force-pin-change = Forțează schimbarea PIN-ului
 about-webauthn-auth-info-max-ser-large-blob-array = Dimensiune maximă a unei matrice de bloburi mari
 about-webauthn-auth-info-algorithms = Algoritmi
 about-webauthn-auth-info-transports = Transporturi
-about-webauthn-auth-info-max-credential-id-length = Lungime maximă a ID-urilor credențialelor
-about-webauthn-auth-info-max-credential-count-in-list = Număr maxim de credențiale în listă
+about-webauthn-auth-info-max-credential-id-length = Lungime maximă ID date de autentificare
+about-webauthn-auth-info-max-credential-count-in-list = Număr maxim de seturi de date de autentificare în listă
 about-webauthn-auth-info-pin-protocols = Protocoale PIN
 about-webauthn-auth-info-max-msg-size = Mărime max. mesaj
 # AAGUID should not be translated.
