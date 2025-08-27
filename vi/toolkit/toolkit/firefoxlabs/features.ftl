@@ -69,3 +69,7 @@ experimental-features-newtab-widget-lists-description = Hãy luôn ghi nhớ dan
 experimental-features-newtab-widget-timer =
     .label = Bộ đếm giờ trên { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = Đặt bộ hẹn giờ để giúp bạn tập trung, thúc đẩy bạn đi đúng hướng hoặc nhắc nhở bạn nạp lại năng lượng. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Danh sách và bộ đếm giờ trên { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Hãy luôn ghi nhớ danh sách việc cần làm khi mở một tab mới. Từ danh sách đóng gói đến danh sách mua sắm, hãy lên kế hoạch trong { -brand-product-name }. Đặt hẹn giờ để giúp bạn tập trung, nhắc nhở bạn đi đúng hướng hoặc nạp lại năng lượng. <a data-l10n-name="connect">Chia sẻ phản hồi</a>

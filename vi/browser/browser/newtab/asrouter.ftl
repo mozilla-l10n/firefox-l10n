@@ -389,3 +389,15 @@ windows-10-eos-feature-toast-title = Thẻ dọc và nhóm thẻ đã có ở đ
 windows-10-eos-feature-toast-subtitle = Theo yêu cầu của nhiều người, { -brand-product-name } vừa tung ra các tính năng mới để giúp quá trình duyệt web của bạn trở nên đơn giản và tập trung hơn.
 windows-10-eos-feature-toast-whats-new-button = Xem có gì mới
 windows-10-eos-feature-toast-dismiss-button = Bỏ qua
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>Trình chống theo dõi nghiêm ngặt có thể khiến các trang web bị hỏng.</strong> Khắc phục các sự cố thường gặp bằng cách bỏ chặn các thành phần thiết yếu có thể chứa trình theo dõi.
+etp-strict-exceptions-infobar-learn-more = Tìm hiểu thêm
+etp-strict-exceptions-infobar-button = Áp dụng sửa lỗi
+    .accesskey = A
