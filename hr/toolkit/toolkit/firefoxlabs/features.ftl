@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Prikaz web stranice
 experimental-features-group-customize-browsing =
     .label = Prilagodi svoje pregledavanje
+experimental-features-group-productivity =
+    .label = Produktivnost
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Lozinke u bočnoj traci
@@ -51,3 +53,23 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Tematski odjeljci i praćenje/blokiranje za priče na novoj kartici
 experimental-features-newtab-sections-follow-block-description = Organiziraj priče na svojoj stranici nove kartice u tematske odjeljke (Sport, Hrana, Zabava i drugo) za strukturiranije i preglednije iskustvo. Koristi naše nove kontrole praćenja i blokiranja za prilagodbu prikazanog sadržaja. <a data-l10n-name="connect">Dijeli povratne informacije</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Dodajte stranice na programsku traku
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Otvarajte strancie koje često posjećujete kao web aplikaciju iz programske trake. Potražite ikonu "Dodaj karticu u programsku traku" desno od adresne trake kako biste pokrenuli tu web-lokaciju u pojednostavljenom prozoru sa svim { -brand-product-name } zaštitama. <a data-l10n-name="connect">Podijelite povratne informacije</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Popisi na { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Imajte svoj popis obaveza na umu kada otvorite novu karticu. Od popisa za pakiranje do popisa za kupovinu, napravite svoje planove u { -brand-product-name }. <a data-l10n-name="connect">Podijelite povratne informacije</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Timer na { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Postavite tajmer kako biste ostali usredotočeni, potaknuli se da ostanete na pravom putu ili se podsjetili da napunite baterije. <a data-l10n-name="connect">Podijelite povratne informacije</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Popisi i timer na { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Imajte svoj popis obaveza na umu kada otvorite novu karticu. Od popisa za pakiranje do popisa za kupovinu, napravite svoje planove u { -brand-product-name }. Postavite timer kako biste ostali usredotočeni, potaknuli se da ostanete na pravom putu ili se podsjetili da napunite baterije. <a data-l10n-name="connect">Podijelite povratne informacije</a>
