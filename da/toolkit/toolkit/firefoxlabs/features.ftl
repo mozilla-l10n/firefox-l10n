@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Visning af webside
 experimental-features-group-customize-browsing =
     .label = Tilpas din browser
+experimental-features-group-productivity =
+    .label = Produktivitet
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Adgangskoder i sidepanelet
@@ -56,3 +58,18 @@ experimental-features-fx-web-apps =
     .label = Tilføj websteder til din proceslinje
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Åbn websteder, du besøger ofte, som web-apps fra din proceslinje. Find ikonet "Føj faneblad til proceslinjen" til højre for adressefeltet for at åbne webstedet i et optimeret vindue med alle beskyttelsesfunktionerne fra { -brand-product-name }. <a data-l10n-name="connect">Del feedback</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Lister på { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Se din liste med opgaver, når du åbner et nyt faneblad. Planlæg alt fra projekter til dine indkøbslister i { -brand-product-name }. <a data-l10n-name="connect">Del feedback</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Timer på { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Sæt en timer for at holde fokus, undgå distraktioner eller huske på at holde pauser. <a data-l10n-name="connect">Del feedback</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Lister og timer på { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Se din liste med opgaver, når du åbner et nyt faneblad. Planlæg alt fra projekter til dine indkøbslister i { -brand-product-name }. Sæt en timer for at holde fokus, undgå distraktioner eller huske på at holde pauser. <a data-l10n-name="connect">Del feedback</a>
