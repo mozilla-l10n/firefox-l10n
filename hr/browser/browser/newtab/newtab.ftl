@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Ova se radnja ne može poništiti.
 
 newtab-topsite-sponsored = Sponzorirano
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (prikvačeno)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -322,6 +330,19 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Popularne pretrage
     .description = Popularne i često tražene teme
+newtab-custom-widget-weather-toggle =
+    .label = Vrijeme
+newtab-custom-widget-trending-search-toggle =
+    .label = Popularne pretrage
+newtab-custom-widget-lists-toggle =
+    .label = Popisi
+newtab-custom-widget-timer-toggle =
+    .label = Odbrojavanje
+newtab-custom-widget-section-title = Widgeti
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Zatvori
+    .aria-label = Zatvori izbornik
 newtab-custom-close-button = Zatvori
 newtab-custom-settings = Upravljaj dodatnim postavkama
 
@@ -539,6 +560,11 @@ newtab-custom-wallpaper-title = Isprobaj prilagođene slike pozadine
 newtab-custom-wallpaper-subtitle = Prenesi vlastitu sliku pozadine ili odaberi prilagođenu boju za tvoj { -brand-product-name }.
 newtab-custom-wallpaper-cta = Isprobaj
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = Odaberite pozadinu kako biste { -brand-product-name } prilagodili sebi
+newtab-new-user-custom-wallpaper-cta = Isprobajte sada
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Preuzmi { -brand-product-name } za mobilne uređaje
@@ -548,6 +574,11 @@ newtab-download-mobile-highlight-body-variant-b = Nastavi tamo gdje si stao/la p
 newtab-download-mobile-highlight-body-variant-c = Znaš li da { -brand-product-name } možeš ponijeti sa sobom? Isti preglednik. U tvom džepu.
 newtab-download-mobile-highlight-image =
     .aria-label = QR kod za preuzimanje { -brand-product-name }a za mobilne uređaje
+
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-title = Vaši favoriti na dohvat ruke
+newtab-shortcuts-highlight-subtitle = Dodajte prečac kako biste svoje omiljene stranice imali nadohvat ruke.
 
 ## Strings for reporting ads and content
 
@@ -582,3 +613,30 @@ newtab-trending-searches-learn-more = Saznaj više
 newtab-trending-searches-dismiss = Sakrij popularne pretrage
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Popularne pretrage
+
+## Strings for task / to-do list productivity widget
+
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Mogućnosti su beskrajne. Dodajte jednu.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Novi
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Završeno ({ $number })
+newtab-widget-task-list-menu-copy = Kopiraj
+newtab-widget-lists-menu-edit = Uredi naziv popisa
+newtab-widget-lists-menu-create = Stvori novi popis
+newtab-widget-lists-menu-delete = Obriši ovaj popis
+newtab-widget-lists-menu-copy = Kopiraj popis u međuspremnik
+newtab-widget-lists-menu-hide = Sakrij sve popise
+newtab-widget-lists-menu-learn-more = Saznaj više
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Dodaj stavku
+newtab-widget-lists-input-error = Molimo uključite tekst za dodavanje stavke.
+newtab-widget-lists-input-menu-open-link = Otvori poveznicu
+newtab-widget-lists-input-menu-move-up = Pomakni gore
+newtab-widget-lists-input-menu-move-down = Pomakni dolje
