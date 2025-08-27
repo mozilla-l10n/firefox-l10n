@@ -563,6 +563,7 @@ newtab-custom-wallpaper-cta = Isprobaj
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-title = Odaberite pozadinu kako biste { -brand-product-name } prilagodili sebi
+newtab-new-user-custom-wallpaper-subtitle = Neka svaka nova kartice pruža osjećaj doma uz prilagođene pozadine i boje.
 newtab-new-user-custom-wallpaper-cta = Isprobajte sada
 
 ## Strings for download mobile highlight
@@ -640,3 +641,45 @@ newtab-widget-lists-input-error = Molimo uključite tekst za dodavanje stavke.
 newtab-widget-lists-input-menu-open-link = Otvori poveznicu
 newtab-widget-lists-input-menu-move-up = Pomakni gore
 newtab-widget-lists-input-menu-move-down = Pomakni dolje
+newtab-widget-lists-input-menu-delete = Obriši
+newtab-widget-lists-input-menu-edit = Uredi
+newtab-widget-lists-name-label-default =
+    .label = Popis zadataka
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Popis zadataka
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Novi popis
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Odbrojavanje
+newtab-widget-timer-notification-focus = Vrijeme za koncentraciju je isteklo. Dobar posao. Trebaš pauzu?
+newtab-widget-timer-notification-break = Tvoja pauza je gotova. Spreman/na za koncentraciju?
+newtab-widget-timer-notification-warning = Obavijesti su isključene
+newtab-widget-timer-mode-focus =
+    .label = Fokus
+newtab-widget-timer-mode-break =
+    .label = Pauza
+newtab-widget-timer-play =
+    .title = Pokreni
+newtab-widget-timer-pause =
+    .title = Pauziraj
+newtab-widget-timer-reset =
+    .title = Poništi
+newtab-widget-timer-menu-notifications = Isključi obavijesti
+newtab-widget-timer-menu-notifications-on = Uključi obavijesti
+newtab-widget-timer-menu-hide = Sakrij odbrojavanje
+newtab-widget-timer-menu-learn-more = Saznaj više
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Pomaknite za više informacija
+newtab-widget-message-title = Ostanite fokusirani uz popise i ugrađeno odbrojavanje
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Od brzih podsjetnika do dnevnih obaveza, sesija za fokusiranje do pauza za istezanje — ostanite usredotočeni na zadatak i na vrijeme.
+newtab-promo-card-title = Podrži { -brand-product-name }
+newtab-promo-card-body = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba
+newtab-promo-card-cta = Saznajte više
+newtab-promo-card-dismiss-button =
+    .title = Odbaci
+    .aria-label = Odbaci
