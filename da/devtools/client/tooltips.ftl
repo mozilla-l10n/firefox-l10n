@@ -109,6 +109,7 @@ inactive-css-resize-fix = Prøv at sætte <strong>overflow</strong> til en værd
 inactive-css-ruby-element-fix = Prøv at ændre ruby-tekstens <strong>skriftstørrelse</strong>. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Prøv at reducere antallet af linjer. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Undgå at opdele elementets indhold, fx ved at fjerne kolonner eller bruge <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Prøv at tilføje en <strong>display</strong>-værdi, der opretter en primær boks - for eksempel <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> eller <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
