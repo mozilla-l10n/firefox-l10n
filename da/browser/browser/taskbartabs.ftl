@@ -27,3 +27,10 @@ taskbar-tab-shortcut-description = Web-app { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Web-apps fra { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Slå lyden fra i faneblad
+taskbar-tab-audio-unmute =
+    .tooltiptext = Slå lyden til i faneblad
