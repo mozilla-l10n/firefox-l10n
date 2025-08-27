@@ -113,6 +113,12 @@ profiles-gray-theme = Grå
 profiles-yellow-theme = Gul
 profiles-orange-theme = Orange
 profiles-red-theme = Rød
+profiles-pink-theme = Pink
+profiles-purple-theme = Lilla
+profiles-violet-theme = Violet
+profiles-blue-theme = Blå
+profiles-green-theme = Grøn
+profiles-cyan-theme = Cyan
 
 ## Alternative text for default profile icons
 

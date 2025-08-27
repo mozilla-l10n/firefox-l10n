@@ -15,3 +15,5 @@ unexpected-script-load-message-button-block =
     .label = Bloker
     .accesskey = B
 unexpected-script-load-title = Uventet indlæsning af script
+unexpected-script-load-detail-1-allow = { -brand-short-name } vil <strong>TILLADE</strong> indlæsning af uventede privilegerede scripts, inklusive det nedenfor. Det vil gøre din { -brand-short-name }-installation <strong> mindre</strong> sikker.
+unexpected-script-load-detail-1-block = { -brand-short-name } vil <strong>BLOKERE</strong> indlæsning af uventede privilegerede scripts, inklusive det nedenfor. Det vil gøre din { -brand-short-name }-installation <strong> mere</strong> sikker.
