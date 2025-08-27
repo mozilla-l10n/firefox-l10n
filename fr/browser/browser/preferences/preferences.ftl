@@ -656,7 +656,7 @@ home-prefs-trending-search-header =
 home-prefs-trending-search-description = Sujets populaires et fréquemment recherchés
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
-    .label = Apportez votre soutien à { -brand-product-name }
+    .label = Soutenir { -brand-product-name }
 home-prefs-mission-message = Nos sponsors soutiennent notre mission de créer un meilleur Web
 home-prefs-mission-message-learn-more-link = Découvrir comment
 # Variables:
