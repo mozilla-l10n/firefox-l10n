@@ -1270,6 +1270,8 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Læs mere
 content-blocking-etp-standard-tcp-title = Inkluderer Komplet Cookiebeskyttelse - vores hidtil stærkeste privatlivs-beskyttelse
 content-blocking-warning-title = Vigtigt!
 content-blocking-and-isolating-etp-warning-description-3 = Denne indstilling kan medføre, at nogle websteder ikke viser indhold eller fungerer korrekt. Du kan tilføje undtagelser for websteder, som vi ved bliver påvirket af dine indstillinger. For at reducere risikoen for at websteder ikke fungerer korrekt, kan du tillade disse undtagelser for beskyttelse mod sporing. Hvis et websted ikke ser rigtigt ud, kan du slå beskyttelse mod sporing fra for webstedet. Dette indlæser alt indhold på webstedet - og du må meget gerne rapportere problemet, så vi kan løse det for andre brugere også.
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } anbefaler, at du bruger indstillingerne "Løs problemer med websted" for at reducere problemer med websteder, der ikke virker som de skal. Hvis et websted ikke virker som forventet, så prøv at slå beskyttelse mod sporing fra for webstedet for at indlæse alt indhold.
 content-blocking-and-isolating-etp-warning-description-2 = Denne indstilling kan medføre, at nogle websteder ikke viser indhold eller ikke fungerer som de skal. Hvis et websted ikke ser ud til at fungere korrekt, så prøv at slå beskyttelse mod sporing fra for webstedet for at indlæse alt indhold.
 content-blocking-warning-learn-how = Læs hvordan
 content-blocking-baseline-exceptions =

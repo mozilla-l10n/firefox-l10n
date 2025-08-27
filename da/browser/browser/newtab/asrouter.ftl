@@ -401,3 +401,5 @@ windows-10-eos-feature-toast-dismiss-button = Afvis
 
 etp-strict-exceptions-infobar-message = <strong>Striks beskyttelse mod sporing kan medføre, at websteder ikke fungerer korrekt.</strong> Løs almindelige problemer ved at ophæve blokeringen af vigtige elementer, der kan indeholde sporings-mekanismer.
 etp-strict-exceptions-infobar-learn-more = Læs mere
+etp-strict-exceptions-infobar-button = Løs problemer
+    .accesskey = L
