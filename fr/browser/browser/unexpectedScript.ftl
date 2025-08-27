@@ -30,3 +30,4 @@ unexpected-script-load-email-textbox =
     .aria-label = Saisissez votre adresse e-mail
 unexpected-script-load-more-info = Plus d’informations
 unexpected-script-load-learn-more = En savoir plus
+unexpected-script-load-telemetry-disabled = Il est impossible d’envoyer un signalement lorsque la télémétrie est désactivée dans les paramètres. Activez la télémétrie pour envoyer un signalement.

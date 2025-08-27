@@ -520,6 +520,8 @@ newtab-topic-selection-button-pick-interests = Choisir vos centres d’intérêt
 newtab-section-follow-button = Suivre
 newtab-section-following-button = Suivi
 newtab-section-unfollow-button = Ne plus suivre
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Personnalisez votre fil
 newtab-section-follow-highlight-subtitle = Suivez vos centres d’intérêt pour découvrir davantage de contenus qui vous plaisent.
 
 ## Button to block/unblock listed topics

@@ -809,7 +809,7 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsorisé
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Les informations boursières directement dans votre barre de recherche
 # This string is shown as description when Market suggestion are disabled.
-urlbar-result-market-opt-in-description = Affichez l’actualité des marchés et bien d’autres informations de nos partenaires lorsque vous partagez les requêtes de recherche avec { -vendor-short-name }. <a data-l10n-name="learn-more-link">En savoir plus</a>
+urlbar-result-market-opt-in-description = Afficher l’actualité des marchés et bien d’autres informations de nos partenaires lorsque vous partagez les requêtes de recherche avec { -vendor-short-name }. <a data-l10n-name="learn-more-link">En savoir plus</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Afficher les suggestions
 # This string is shown in split button to dismiss activation the Realtime suggestion.
