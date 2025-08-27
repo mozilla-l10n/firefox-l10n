@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Manuel test
 about-glean-category-adhoc-testing = Ad hoc-test
 about-glean-category-profiler = Brug af profilerings-værktøjet
 about-glean-category-about-data = Om data
+about-glean-category-metrics-table = Tabel med målinger
 about-glean-upload-enabled = Upload af data er aktiveret.
 about-glean-upload-disabled = Upload af data er deaktiveret.
 about-glean-upload-enabled-local = Upload af data er kun aktiveret for at sende til en lokal server.
@@ -140,6 +141,7 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     For at optage en ydelsesprofil og se alle optagede målinger, skal du bruge 
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Alle målinger
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Kategori
 # This message refers to the name of a given metric.
@@ -148,6 +150,17 @@ about-glean-metrics-table-header-name = Navn
 about-glean-metrics-table-header-type = Type
 # This message refers to the underlying value of a given metric.
 about-glean-metrics-table-header-value = Værdi
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Handlinger
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtrer
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Dette filtrerer tabellen nedenfor baseret på kategori, navn, type og værdi (hvis værdien er en simpel type).
 about-glean-about-data-explanation =
     Konsulter <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbogen</a> for at gennemse 
     listen med indsamlede data.
