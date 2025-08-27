@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Yêu cầu trang web không bán hoặc chia sẻ dữ liệu của tôi
     .accesskey = s
 non-technical-privacy-header = Tùy chọn riêng tư trang web
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Đóng
+do-not-track-removal2 =
+    .label = Chúng tôi không còn hỗ trợ tín hiệu “Không theo dõi”
 
 ## Browser Restart Dialog
 
@@ -1250,12 +1254,27 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Tìm hiểu thêm
 content-blocking-etp-standard-tcp-title = Bao gồm Trình chống cookie chung, tính năng bảo mật mạnh mẽ nhất từ trước đến nay của chúng tôi
 content-blocking-warning-title = Hãy cân nhắc!
 content-blocking-and-isolating-etp-warning-description-3 = Cài đặt này có thể khiến một số trang web không hiển thị nội dung hoặc hoạt động không đúng. Chúng tôi cung cấp các ngoại lệ tùy chọn cho các trang web mà chúng tôi biết có thể bị ảnh hưởng bởi cấu hình của bạn. Để giảm khả năng trang web bị hỏng, hãy cho phép các ngoại lệ theo dõi này. Nếu một trang web có vẻ bị hỏng, bạn có thể tắt tính năng trình chống theo dõi cho trang web đó để tải toàn bộ nội dung và báo cáo sự cố để chúng tôi có thể giúp khắc phục sự cố cho mọi người.
+content-blocking-warning-title-2 = Một số trang web có thể bị phá vỡ bởi chế độ trình chống theo dõi nghiêm ngặt
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } đề xuất sử dụng cài đặt "Khắc phục sự cố trang web" để giảm thiểu các tính năng và nội dung bị lỗi. Nếu một trang web có vẻ bị lỗi, hãy thử tắt trình chống theo dõi cho trang web đó để tải toàn bộ nội dung.
 content-blocking-and-isolating-etp-warning-description-2 = Cài đặt này có thể khiến một số trang web không hiển thị nội dung hoặc hoạt động không chính xác. Nếu trang web có vẻ bị hỏng, bạn có thể muốn tắt trình chống theo dõi để trang web đó tải tất cả nội dung.
 content-blocking-warning-learn-how = Tìm hiểu cách thức
 content-blocking-baseline-exceptions =
     .label = Cho phép { -brand-short-name } tự động áp dụng các ngoại lệ cần thiết để tránh gây ra lỗi nghiêm trọng cho trang web.
+content-blocking-baseline-exceptions-2 =
+    .label = Giúp tải trang web và tính năng bằng cách chỉ bỏ chặn các thành phần thiết yếu có thể chứa trình theo dõi. Xử lý hầu hết các sự cố thường gặp.
 content-blocking-convenience-exceptions =
     .label = Ngoài ra, tự động áp dụng các ngoại lệ chỉ cần thiết để khắc phục các sự cố nhỏ và cung cấp các tính năng tiện lợi.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Khôi phục những nội dung như video trong bài viết hoặc phần bình luận bằng cách bỏ chặn các thành phần có thể chứa trình theo dõi. Điều này có thể giảm thiểu sự cố trang web nhưng lại kém bảo vệ hơn. Phải được sử dụng cùng với các bản sửa lỗi cho các sự cố nghiêm trọng.
+content-blocking-baseline-label = Sửa các sự cố lớn của trang web (đề xuất)
+content-blocking-convenience-label = Sửa các sự cố nhỏ của trang web
+content-blocking-exceptions-subheader = Sửa lỗi trang web
+content-blocking-baseline-uncheck-warning-dialog-title = Bạn có chắc chắn muốn tắt tính năng sửa lỗi không?
+content-blocking-baseline-uncheck-warning-dialog-body = Cài đặt này giúp khắc phục những sự cố thường gặp nhất của trang web. Nếu bạn tắt cài đặt này, một số trang web có thể không hoạt động và { -brand-short-name } sẽ không thể hỗ trợ khắc phục những sự cố đó.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Tắt sửa lỗi
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Tiếp tục bật sửa lỗi
 content-blocking-reload-description = Bạn sẽ cần tải lại các thẻ của mình để áp dụng những thay đổi này.
 content-blocking-reload-tabs-button =
     .label = Tải lại tất cả các thẻ

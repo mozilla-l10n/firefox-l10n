@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = Xanh đại dương
 profiles-terracotta-theme-2 = Đỏ gạch
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Xanh rêu
+profiles-gray-theme = Xám
+profiles-yellow-theme = Vàng
+profiles-orange-theme = Da cam
+profiles-red-theme = Đỏ
+profiles-pink-theme = Hồng
+profiles-purple-theme = Tía
+profiles-violet-theme = Tím
+profiles-blue-theme = Xanh dương
+profiles-green-theme = Xanh lục
+profiles-cyan-theme = Xanh lơ
 
 ## Alternative text for default profile icons
 
