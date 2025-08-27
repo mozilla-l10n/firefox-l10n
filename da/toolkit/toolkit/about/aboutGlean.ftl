@@ -140,6 +140,14 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     For at optage en ydelsesprofil og se alle optagede målinger, skal du bruge 
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategori
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Navn
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Type
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Værdi
 about-glean-about-data-explanation =
     Konsulter <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbogen</a> for at gennemse 
     listen med indsamlede data.
