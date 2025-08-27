@@ -226,5 +226,10 @@ link-preview-generation-retry = Δοκιμή ξανά
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Ρυθμίσεις προεπισκόπησης συνδέσμων
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Νέο: Κάντε παρατεταμένο κλικ σε οποιονδήποτε σύνδεσμο για προεπισκόπηση
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Πρώτη ρύθμιση • <strong>{ $progress }%</strong>
 # Onboarding card Close button
 link-preview-onboarding-close = Κλείσιμο

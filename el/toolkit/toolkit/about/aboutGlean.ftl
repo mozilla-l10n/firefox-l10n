@@ -149,6 +149,7 @@ about-glean-metrics-table-header-type = Τύπος
 about-glean-metrics-table-header-value = Τιμή
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Ενέργειες
+about-glean-button-load-all = Φόρτωση όλων των τιμών
 about-glean-button-load-value = Φόρτωση
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Έγγραφα
