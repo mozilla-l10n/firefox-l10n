@@ -1281,6 +1281,9 @@ content-blocking-baseline-exceptions-2 =
     .label = Hjælper med at indlæse websteder og funktioner ved at ophæve blokeringen af vigtige elementer, der kan indeholde sporings-mekanismer. Kan løse de mest almindelige problemer.
 content-blocking-convenience-exceptions =
     .label = Anvend også automatisk undtagelser, der kun er nødvendige for at løse mindre problemer og gøre ikke-essentielle funktioner tilgængelige.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Gendanner elementer som videoer i en artikel eller kommentar-sektioner ved at fjerne blokering af elementer, der kan indeholde sporings-mekanismer. Dette kan reducere problemer med websteder, men giver dårligere beskyttelse. Skal anvendes samme med rettelser, når det handler om store problemer.
 content-blocking-baseline-label = Løs store problemer med websted (anbefalet)
 content-blocking-convenience-label = Løs mindre problemer med websted
 content-blocking-exceptions-subheader = Løs problemer med websted
