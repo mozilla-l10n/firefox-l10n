@@ -127,6 +127,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = A { -brand-short-name } MI csevegőbotjainak névjegye
 
+## Chatbot message
+
+genai-page-warning =
+    .message = A weboldal hosszúsága miatt ez egy részleges összegzés.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Oldal összegzése
