@@ -17,6 +17,10 @@ unexpected-script-load-message-button-block =
 unexpected-script-load-title = Uventet indlæsning af script
 unexpected-script-load-detail-1-allow = { -brand-short-name } vil <strong>TILLADE</strong> indlæsning af uventede privilegerede scripts, inklusive det nedenfor. Det vil gøre din { -brand-short-name }-installation <strong> mindre</strong> sikker.
 unexpected-script-load-detail-1-block = { -brand-short-name } vil <strong>BLOKERE</strong> indlæsning af uventede privilegerede scripts, inklusive det nedenfor. Det vil gøre din { -brand-short-name }-installation <strong> mere</strong> sikker.
+# In this text "the functionality" refers to whatever the unexpected script is doing.
+# Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
+# They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
+unexpected-script-load-detail-2 = Selv hvis du tillader dette script må du gerne indrapportere det til { -vendor-short-name }, så vi bedre kan forstå hvordan og hvorfor det blev indlæst. <em>Uden denne information vil funktionaliteten ophøre med at fungere i fremtiden.</em>
 unexpected-script-load-report-checkbox =
     .label = Rapporter scriptets URL til { -vendor-short-name }
 unexpected-script-load-email-checkbox =
