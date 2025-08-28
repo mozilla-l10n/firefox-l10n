@@ -224,3 +224,30 @@ link-preview-reading-time =
         [one] { $range } perc olvasási idő
        *[other] { $range } perc olvasási idő
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = A hivatkozás előnézete nem jeleníthető meg
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Hivatkozás meglátogatása
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Valami hiba történt.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Próbálja újra
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Hivatkozás-előnézeti beállítások
+link-preview-settings-enable =
+    .label = Hivatkozások előnézetének engedélyezése
+    .description = Az oldal címének, leírásának és egyéb információinak megjelenítése gyorsbillentyű vagy jobb kattintás használatával.
+# Header for the key points section
+link-preview-key-points-header = Kulcspontok
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = A kulcspontokat MI állítja elő, lehetnek bennük hibák.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Első beállítás • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Legközelebb a kulcspontokat gyorsabban fogja látni.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Előnézet megjelenítése
+# Onboarding card Close button
+link-preview-onboarding-close = Bezárás
