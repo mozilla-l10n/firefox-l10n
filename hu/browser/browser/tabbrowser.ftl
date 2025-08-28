@@ -280,7 +280,7 @@ tab-context-move-tab-to-group =
         }
     .accesskey = c
 tab-context-move-tab-to-group-saved-groups =
-    .label = Zárt csoportok
+    .label = Bezárt csoportok
 tab-group-editor-action-new-tab =
     .label = Új lap a csoportban
 tab-group-editor-action-new-window =
