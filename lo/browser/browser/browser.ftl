@@ -309,6 +309,8 @@ quickactions-cmd-screenshot2 = ພາບໜ້າຈໍ, ຖ່າຍຮູບ�
 quickactions-cmd-screenshot = ພາບໜ້າຈໍ
 # Opens about:preferences
 quickactions-settings2 = ຈັດການການຕັ້ງຄ່າ
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = ການຕັ້ງຄ່າ, ການຕັ້ງຄ່າ, ທາງເລືອກ, ຈັດການ
 quickactions-cmd-settings = ການຕັ້ງຄ່າ, ຄ່າກຳນົດ, ຕົວເລືອກ
 # Opens about:addons page in the themes section
 quickactions-themes = ຈັດການຊຸດຕົບແຕ່ງ
@@ -645,11 +647,18 @@ urlbar-result-weather-provider-sponsored = { $provider } · ສະໜັບສ�
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = ເອົາຂໍ້ມູນຕະຫຼາດຫຼັກຊັບໃນແຖບຄົ້ນຫາຂອງທ່ານ
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = ສະ​ແດງ​ການ​ປັບ​ປຸງ​ຕະ​ຫຼາດ ​ແລະ ​ອື່ນໆ​ອີກ​ຈາກ​ຄູ່​ຮ່ວມ​ງານ​ຂອງ​ພວກ​ເຮົາ​ໃນ​ເວ​ລາ​ທີ່​ທ່ານ​ແບ່ງ​ປັນ​ຂໍ້​ມູນ​ການ​ຄົ້ນ​ຫາ​ກັບ { -vendor-short-name } . <a data-l10n-name="learn-more-link">ສຶກສາເພີ່ມເຕີມ</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = ສະແດງຄຳແນະນຳ
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = ບໍ່ແມ່ນຕອນນີ້
 urlbar-result-realtime-opt-in-dismiss = ຍົກເລີກ
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = ຢ່າສະແດງຄໍາແນະນໍາເຫຼົ່ານີ້
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = ຢ່າສະແດງຄໍາແນະນໍາໃນຕະຫຼາດ
 
 ## These strings are used for suggestions of important dates in the urlbar.
 

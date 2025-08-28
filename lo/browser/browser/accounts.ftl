@@ -91,3 +91,4 @@ account-multiple-tabs-arriving-from-unknown-device = { $tabCount } ໄດ້ຮ�
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = ເບິ່ງແຖບທີ່ປິດບໍ່ດົນມານີ້
+account-tabs-closed-remotely = ແຖບ { $closedCount } { -brand-short-name } ປິດແລ້ວ
