@@ -469,7 +469,10 @@ available-updates-heading = Aggiornamenti disponibili
 recent-updates-heading = Aggiornamenti recenti
 release-notes-loading = Caricamento in corso…
 release-notes-error = Siamo spiacenti, si è verificato un errore durante il caricamento delle note di versione.
+addon-permissions-heading = Permessi
 addon-permissions-empty2 = Questa estensione non richiede alcun permesso.
+addon-permissions-required-label = Obbligatori:
+addon-permissions-optional-label = Facoltativi:
 addon-permissions-empty = Questa estensione non richiede alcun permesso
 addon-permissions-required = Permessi obbligatori per funzionalità principali:
 addon-permissions-optional = Permessi facoltativi per funzionalità aggiuntive:
@@ -565,6 +568,10 @@ permissions-data-addon-button = Permessi e dati
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Utilizzato dall’estensione { $extensionName }
+addon-permissions-data-collection-heading = Raccolta dati
+addon-permissions-data-collection-empty = Lo sviluppatore dichiara che questa estensione non richiede la raccolta di dati.
+addon-data-collection-provided = Informazioni fornite dallo sviluppatore dell’estensione
+addon-data-collection-learnmore = Ulteriori informazioni sulla raccolta dati
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
