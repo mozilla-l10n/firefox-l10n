@@ -192,7 +192,7 @@ urlbar-result-menu-tip-get-help =
     .label = รับความช่วยเหลือ
     .accesskey = ช
 urlbar-result-menu-dismiss-suggestion =
-    .label = เพิกเฉยข้อเสนอแนะนี้
+    .label = เพิกเฉยคำแนะนำนี้
     .accesskey = พ
 urlbar-result-menu-learn-more-about-firefox-suggest =
     .label = เรียนรู้เพิ่มเติมเกี่ยวกับ { -firefox-suggest-brand-name }
@@ -211,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = แสดงน้อยลง
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = ไม่ต้องแสดงคำแนะนำเกี่ยวกับสภาพอากาศ
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = เปิดเมนู
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = ขอบคุณสำหรับข้อคิดเห็นของคุณ
@@ -224,7 +227,7 @@ urlbar-dismissal-acknowledgment-weather = ขอบคุณสำหรับ�
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = พิมพ์น้อยลง ค้นหาได้มากขึ้น: ค้นหา { $engineName } โดยตรงจากแถบที่อยู่ของคุณ
-urlbar-search-tips-redirect-2 = เริ่มการค้นหาของคุณในแถบที่อยู่เพื่อดูข้อเสนอแนะจาก { $engineName } และประวัติการเรียกดูของคุณ
+urlbar-search-tips-redirect-2 = เริ่มการค้นหาของคุณในแถบที่อยู่เพื่อดูคำแนะนำจาก { $engineName } และประวัติการเรียกดูของคุณ
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = ตอนนี้การค้นหาทำได้ง่ายขึ้นแล้ว ลองทำให้การค้นหาของคุณเจาะจงขึ้นที่นี่ในแถบที่อยู่ เมื่อต้องการแสดง URL แทน ให้ไปที่ การค้นหา ในการตั้งค่า
 # Prompts users to use the Urlbar when they are typing in the domain of a
@@ -242,6 +245,10 @@ urlbar-search-mode-actions = การกระทำ
 
 urlbar-geolocation-blocked =
     .tooltiptext = คุณได้ปิดกั้นข้อมูลตำแหน่งที่ตั้งสำหรับเว็บไซต์นี้
+urlbar-localhost-blocked =
+    .tooltiptext = คุณได้ปิดกั้นการเชื่อมต่ออุปกรณ์เฉพาะที่สำหรับเว็บไซต์นี้
+urlbar-local-network-blocked =
+    .tooltiptext = คุณได้ปิดกั้นการเชื่อมต่อเครือข่ายเฉพาะที่สำหรับเว็บไซต์นี้
 urlbar-xr-blocked =
     .tooltiptext = คุณได้ปิดกั้นการเข้าถึงอุปกรณ์ความจริงเสมือนสำหรับเว็บไซต์นี้
 urlbar-web-notifications-blocked =
@@ -367,6 +374,7 @@ quickactions-downloads2 = ดูการดาวน์โหลด
 quickactions-cmd-downloads = ดาวน์โหลด
 # Opens about:addons page in the extensions section
 quickactions-extensions = จัดการส่วนขยาย
+quickactions-cmd-extensions2 = ส่วนขยาย, ส่วนเสริม
 quickactions-cmd-extensions = ส่วนขยาย
 # Opens Firefox View
 quickactions-firefoxview = เปิด { -firefoxview-brand-name }
@@ -788,6 +796,59 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · ได้รับการสนับสนุน
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = รับข้อมูลตลาดหุ้นโดยตรงในแถบค้นหาของคุณ
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = แสดงข่าวสารตลาดหุ้นและข่าวสารเพิ่มเติมจากพันธมิตรของเราเมื่อคุณแบ่งปันข้อมูลคำค้นหากับ { -vendor-short-name } <a data-l10n-name="learn-more-link">เรียนรู้เพิ่มเติม</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = แสดงคำแนะนำ
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = ยังไม่ทำตอนนี้
+urlbar-result-realtime-opt-in-dismiss = ปิด
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = ไม่ต้องแสดงคำแนะนำเหล่านี้
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = ไม่ต้องแสดงคำแนะนำเกี่ยวกับตลาดหุ้น
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = ขอบคุณสำหรับข้อคิดเห็นของคุณ คุณจะไม่เห็นคำแนะนำเกี่ยวกับตลาดหุ้นอีกต่อไป
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = ขอบคุณสำหรับข้อคิดเห็นของคุณ คุณจะไม่เห็นคำแนะนำเหล่านี้อีกต่อไป
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · ใน { $daysUntilStart } วัน
+       *[other] { $name } · ใน { $daysUntilStart } วัน
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range = { $name } · จะเริ่มใน { $daysUntilStart } วัน
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing = { $name } · จะจบใน { $daysUntilStart } วัน
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · วันนี้
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -821,6 +882,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = ครั้งนี้ค้นหาด้วย:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = การตั้งค่าการค้นหา
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = ใหม่
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -857,7 +920,7 @@ urlbar-group-firefox-suggest =
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
-    .label = ข้อเสนอแนะ { $engine }
+    .label = คำแนะนำ { $engine }
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = คำสั่งด่วน
