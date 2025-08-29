@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = ถาม { $provider }
+genai-menu-open-generic =
+    .label = เปิดบอตสนทนา AI
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = เปิด { $provider }
 genai-menu-remove-generic =
     .label = ลบบอตสนทนา AI
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = ลบ { $provider }
+genai-menu-remove-sidebar =
+    .label = เอาออกจากแถบข้าง
+genai-menu-new-badge = ใหม่
+genai-menu-summarize-page = สรุปหน้า
 genai-input-ask-generic =
     .placeholder = ถามบอตสนทนา AI…
 # $provider (string) - name of the provider
@@ -74,6 +83,18 @@ genai-shortcuts-selected-warning =
     .message = คุณเลือกข้อความไว้ { $selectionLength } อักขระ แต่จำนวนอักขระที่เราสามารถส่งไปยัง{ $provider } ได้นั้นอยู่ที่ { $maxLength } อักขระ
 genai-shortcuts-hide =
     .label = ซ่อนทางลัดบอตสนทนา
+genai-menu-choose-chatbot =
+    .label = เลือกบอตสนทนา AI
+genai-menu-ask-generic-2 =
+    .label = ถามบอตสนทนา AI
+    .accesskey = บ
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = ถาม { $provider }
+    .accesskey = h
+genai-menu-no-provider-2 =
+    .label = ถามบอตสนทนา AI
+    .accesskey = บ
 
 ## Chatbot header
 
@@ -97,6 +118,10 @@ genai-options-hide-shortcut =
     .label = ซ่อนทางลัดเมื่อเลือกข้อความ
 genai-options-about-chatbot =
     .label = เกี่ยวกับบอตสนทนา AI ใน { -brand-short-name }
+
+## Chatbot footer
+
+genai-page-button-summarize = สรุปหน้า
 
 ## Chatbot onboarding
 
@@ -132,6 +157,8 @@ genai-onboarding-select-primary = เริ่มสนทนา
 genai-chatbot-contextual-title = ใช้บอตสนทนา AI โดยไม่ต้องสลับแท็บ
 genai-chatbot-contextual-subtitle = สนทนาและท่องเว็บแบบเคียงข้างกันเมื่อคุณเพิ่มบอตสนทนา AI ในแถบข้างของ { -brand-short-name }
 genai-chatbot-contextual-button = เลือกบอตสนทนา
+genai-chatbot-summarize-title = ใหม่! สรุปหน้าในคลิกเดียว
+genai-chatbot-summarize-button = สรุปหน้า
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

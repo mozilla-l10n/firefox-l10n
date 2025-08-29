@@ -116,7 +116,7 @@ fxa-adoption-passwords-primary-button-label = ลงทะเบียน
 
 windows-10-eos-sync-urgency-title-1 = อย่าปล่อยให้ทุกสิ่งที่คุณบันทึกไว้สูญหายเมื่อเปลี่ยนไปใช้ Windows 11
 windows-10-eos-sync-urgency-subtitle-1 = ซิงค์เลยตอนนี้เพื่อเก็บที่คั่นหน้า รหัสผ่าน และการตั้งค่าใน { -brand-short-name } ของคุณให้ปลอดภัยและง่ายต่อการกู้คืน
-windows-10-eos-sync-urgency-title-2 = จะเลิกใช้ Windows 10 แล้วใช่ไหม? ปกป้องข้อมูลของคุณไว้เมื่อคุณเปลี่ยนไปใช้ระบบอื่น
+windows-10-eos-sync-urgency-title-2 = จะเลิกใช้ Windows 10 แล้วใช่ไหม? ปกป้องข้อมูลของคุณไว้เมื่อคุณเปลี่ยนไปใช้ระบบใหม่
 windows-10-eos-sync-urgency-subtitle-2 = แม้ว่าคุณจะไม่ได้ใช้ { -brand-short-name } เป็นประจำ ก็ควรซิงค์เพื่อให้ที่คั่นหน้าและรหัสผ่านปลอดภัยและสามารถเข้าถึงได้
 windows-10-eos-sync-new-device-title-1 = ไม่ต้องเสี่ยงกับการเริ่มใหม่ทั้งหมดเมื่อเปลี่ยนอุปกรณ์เครื่องใหม่
 windows-10-eos-sync-new-device-subtitle-1 = ซิงค์เพื่อนำที่คั่นหน้า รหัสผ่าน และการตั้งค่าที่ต้องการใน { -brand-short-name } ไปกับคุณเมื่อคุณเปลี่ยนอุปกรณ์ใหม่
@@ -124,6 +124,13 @@ windows-10-eos-sync-new-device-title-2 = จะย้ายไปใช้อุ
 windows-10-eos-sync-new-device-subtitle-2 = ไม่ว่าคุณจะใช้ { -brand-short-name } บ่อยแค่ไหน การซิงค์ก็จะปกป้องที่คั่นหน้า รหัสผ่าน และการตั้งค่าของคุณ
 windows-10-eos-sync-new-device-primary-label = ซิงค์เลย
 windows-10-eos-sync-general-title-1 = ปกป้อง { -brand-short-name } ที่คุณปรับแต่งในแบบของคุณ
+windows-10-eos-sync-general-subtitle-1 = สำรองและซิงค์รหัสผ่าน ที่คั่นหน้า การตั้งค่า และข้อมูลอื่น ๆ เพื่อเก็บรักษาข้อมูลสำคัญของคุณ
+windows-10-eos-sync-general-title-2 = ตอนนี้ได้เวลาสำรองรหัสผ่านและที่คั่นหน้าของคุณแล้ว
+windows-10-eos-sync-general-subtitle-2 = ซิงค์เลยตอนนี้เพื่อปกป้องทุกสิ่งที่คุณเชื่อมั่นให้ { -brand-short-name } ดูแล และเรียกคืนได้ทุกที่ทุกเวลา
+windows-10-eos-sync-tour-title-1 = เปิดแท็บเยอะไปไหม? จัดระเบียบด้วยกลุ่มแท็บได้นะ
+windows-10-eos-sync-tour-subtitle-1 = ลากแท็บหนึ่งไปทับอีกแท็บหนึ่งเพื่อสร้างกลุ่ม และจัดระเบียบสิ่งต่าง ๆ ให้เรียบร้อย
+windows-10-eos-sync-tour-title-2 = เตรียมพร้อมสำหรับ Windows 11 ด้วยการจัดระเบียบ
+windows-10-eos-sync-tour-subtitle-2 = ซิงค์ที่คั่นหน้า รหัสผ่าน และการตั้งค่าของคุณ เพื่อสำรองข้อมูลก่อนที่คุณจะเปลี่ยนไปใช้ระบบใหม่
 
 ## Sidebar Strings
 
@@ -145,6 +152,17 @@ vertical-tabs-callout-2-subtitle = เค้าโครงนี้ทำให
 sidebar-pins-callout-title = พลาดข้อมูลข่าวสารจากแท็บสำคัญของคุณไปใช่ไหม?
 sidebar-pins-callout-subtitle = ลองปักหมุดแท็บเหล่านั้น ซึ่งจะเก็บแท็บเหล่านั้นไว้ด้านบนสุดของรายการแท็บของคุณ คลิกขวาที่แท็บซึ่งคุณต้องการปักหมุด แล้วเลือก "ปักหมุดแท็บ"
 sidebar-pins-callout-cta-button = ปักหมุดแท็บ
+
+## Pinning Tabs Strings
+
+pin-tabs-callout-1-title = เก็บแท็บสำคัญไว้ในที่ที่เข้าถึงได้ง่าย
+pin-tabs-callout-1-subtitle = ลากแท็บไปไว้ที่จุดเริ่มต้นของแถบแท็บเพื่อปักหมุด หรือคลิกขวาแล้วเลือก ปักหมุดแท็บ
+pin-tabs-callout-cta-1-button = ปักหมุดแท็บนี้
+pin-tabs-callout-2-title = ปักหมุดแท็บที่คุณเยี่ยมชมบ่อยที่สุด
+pin-tabs-callout-2-subtitle = ถ้าต้องการปักหมุดแท็บใด ๆ ให้ลากแท็บนั้นไปไว้ที่จุดเริ่มต้นของแถบแท็บ หรือคลิกขวาแล้วเลือก ปักหมุดแท็บ
+pin-tabs-callout-cta-2-button = ปักหมุดแท็บนี้
+pin-tabs-callout-3-title = เก็บไซต์สำคัญไว้ในที่ที่เข้าถึงได้ง่าย
+pin-tabs-callout-4-title = ปักหมุดไซต์ที่คุณเยี่ยมชมบ่อยที่สุด
 
 ## Sidebar Onboarding Strings
 
