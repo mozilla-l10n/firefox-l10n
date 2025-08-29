@@ -248,6 +248,10 @@ menu-profiles-manage-profiles =
     .label = จัดการโปรไฟล์
 menu-profiles-new-profile =
     .label = โปรไฟล์ใหม่
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (ปัจจุบัน)
 
 ## Tools Menu
 
