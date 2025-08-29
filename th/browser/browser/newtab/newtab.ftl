@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = การกระทำนี้ไม่ส
 
 newtab-topsite-sponsored = ได้รับการสนับสนุน
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (ปักหมุดอยู่)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -320,6 +328,19 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = การค้นหาที่กำลังมาแรง
     .description = หัวข้อที่มีการค้นหาซึ่งได้รับความนิยมและพบบ่อย
+newtab-custom-widget-weather-toggle =
+    .label = พยากรณ์อากาศ
+newtab-custom-widget-trending-search-toggle =
+    .label = การค้นหาที่กำลังนิยม
+newtab-custom-widget-lists-toggle =
+    .label = รายการ
+newtab-custom-widget-timer-toggle =
+    .label = ตัวจับเวลา
+newtab-custom-widget-section-title = วิดเจ็ต
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = ปิด
+    .aria-label = ปิดเมนู
 newtab-custom-close-button = ปิด
 newtab-custom-settings = จัดการการตั้งค่าเพิ่มเติม
 
@@ -502,6 +523,9 @@ newtab-topic-selection-button-pick-interests = เลือกความสน
 newtab-section-follow-button = ติดตาม
 newtab-section-following-button = ติดตามอยู่
 newtab-section-unfollow-button = เลิกติดตาม
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = ปรับแต่งฟีดของคุณ
+newtab-section-follow-highlight-subtitle = ติดตามในสิ่งที่คุณสนใจ เพื่อดูสิ่งที่คุณชอบได้มากขึ้น
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -534,6 +558,12 @@ newtab-custom-wallpaper-title = รูปพื้นหลังกำหนด
 newtab-custom-wallpaper-subtitle = อัปโหลดรูปพื้นหลังของคุณเองหรือเลือกสีกำหนดเองเพื่อปรับแต่ง { -brand-product-name } ในแบบของคุณ
 newtab-custom-wallpaper-cta = ลองเลย
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = เลือกวอลล์เปเปอร์เพื่อทำให้ { -brand-product-name } เป็นสไตล์ของคุณ
+newtab-new-user-custom-wallpaper-subtitle = ตกแต่งแท็บใหม่ให้เป็นแบบของคุณด้วยวอลล์เปเปอร์และสีสันที่เลือกเอง
+newtab-new-user-custom-wallpaper-cta = ลองเลย
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = ดาวน์โหลด { -brand-product-name } สำหรับมือถือ
@@ -543,6 +573,10 @@ newtab-download-mobile-highlight-body-variant-b = ท่องเว็บต่
 newtab-download-mobile-highlight-body-variant-c = คุณรู้ไหมว่าคุณสามารถใช้ { -brand-product-name } ขณะเดินทางได้? นำเบราว์เซอร์ตัวเดียวกันนี้มาไว้ในกระเป๋าของคุณ
 newtab-download-mobile-highlight-image =
     .aria-label = คิวอาร์โค้ดสำหรับดาวน์โหลด { -brand-product-name } สำหรับมือถือ
+
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-title = รายการโปรดของคุณอยู่แค่ปลายนิ้ว
 
 ## Strings for reporting ads and content
 

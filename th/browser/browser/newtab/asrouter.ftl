@@ -378,3 +378,26 @@ windows-10-eos-callout-addons-title = ลองใช้ส่วนเสริ
 windows-10-eos-callout-addons-subtitle = ส่วนขยายเหล่านี้ถูกเลือกมาเพื่อช่วยให้คุณทำงานได้อย่างมีประสิทธิภาพ ปลอดภัย และปราศจากสิ่งรบกวน
 windows-10-eos-callout-addons-primary-button = ดูตัวเลือกที่เราแนะนำ
 windows-10-eos-sync-callout-addons-title = อัปเกรดจาก Windows 10 โดยไม่ต้องกลัวว่าส่วนเสริมจะหายไป
+windows-10-eos-sync-callout-addons-subtitle = ซิงค์เลยตอนนี้เพื่อให้ส่วนเสริม { -brand-product-name } ของคุณพร้อมใช้งานเสมอ แม้จะเปลี่ยนอุปกรณ์ใหม่แล้ว
+windows-10-eos-sync-callout-next-button = ถัดไป
+windows-10-eos-sync-callout-get-started-button = เริ่มต้นกัน
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = พบกับแท็บแนวตั้งและกลุ่มแท็บได้แล้ว!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = ตามคำเรียกร้อง { -brand-product-name } ได้เพิ่มคุณสมบัติใหม่เพื่อช่วยให้คุณท่องเว็บได้อย่างลื่นไหลและมีสมาธิยิ่งขึ้น
+windows-10-eos-feature-toast-whats-new-button = ดูว่ามีอะไรใหม่
+windows-10-eos-feature-toast-dismiss-button = ปิด
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>การป้องกันการติดตามแบบเข้มงวดอาจทำให้บางไซต์ใช้งานไม่ได้</strong> แก้ไขปัญหาที่พบบ่อยได้ง่าย ๆ โดยการเลิกปิดกั้นองค์ประกอบสำคัญที่อาจมีตัวติดตาม
+etp-strict-exceptions-infobar-learn-more = เรียนรู้เพิ่มเติม
+etp-strict-exceptions-infobar-button = ปรับใช้การแก้ไข
+    .accesskey = ป
