@@ -1281,10 +1281,14 @@ content-blocking-baseline-exceptions-2 =
     .label = Yalnızca takip kodu içerebilecek temel öğelerin engelini kaldırarak sitelerin ve özelliklerin yüklenmesine yardımcı olur. En yaygın sorunları kapsar.
 content-blocking-convenience-exceptions =
     .label = Yalnızca küçük sorunları düzeltmek ve kullanışlı özellikleri çalışır halde tutmak için gereken istisnalar da otomatik olarak uygulansın.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Takip kodu içerebilecek öğelerin engelini kaldırarak, makalelerdeki veya yorum bölümlerindeki videolar gibi öğeleri geri yükler. Bu işlem site sorunlarını azaltabilir ama daha az koruma sağlar. Büyük sorunlara yönelik düzeltmelerle birlikte kullanılmalıdır.
 content-blocking-baseline-label = Önemli site sorunlarını düzelt (önerilir)
 content-blocking-convenience-label = Küçük site sorunlarını düzelt
 content-blocking-exceptions-subheader = Site sorunlarını düzelt
 content-blocking-baseline-uncheck-warning-dialog-title = Düzeltmeleri kapatmak istediğinizden emin misiniz?
+content-blocking-baseline-uncheck-warning-dialog-body = Bu ayar en yaygın site sorunlarını giderir. Bu ayarı kapatırsanız bazı siteler çalışmayabilir ve { -brand-short-name } bu sorunları gidermenize yardımcı olamaz.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Düzeltmeleri kapat
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Düzeltmeleri açık tut
 content-blocking-reload-description = Bu değişiklikleri uygulamak için sekmelerinizi tazelemeniz gerekiyor.
