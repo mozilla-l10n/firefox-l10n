@@ -11,6 +11,8 @@ fxa-signout-dialog-title2 = Излизане от вашия профил?
 fxa-signout-dialog-body = Синхронизираните данни ще останат във вашия профил.
 fxa-signout-dialog2-button = Излизане
 fxa-signout-dialog2-checkbox = Изтриване на данни от това устройство (пароли, история, отметки и др.)
+fxa-menu-sync-settings =
+    .label = Настройки за синхронизиране
 fxa-menu-turn-on-sync =
     .value = Включване синхронизиране
 fxa-menu-turn-on-sync-default = Включване синхронизиране
@@ -33,6 +35,11 @@ fxa-menu-sign-out =
     .label = Излизане…
 fxa-menu-sync-description = Вашият интернет е навсякъде с вас.
 sync-setup-verify-continue = Продължаване
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Друг потребител е бил вписан, за да синхронизира на този компютър. Вписването ще слее отметките, паролите и другите настройки на този браузър с { $email }
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

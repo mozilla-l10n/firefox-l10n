@@ -106,6 +106,7 @@ fxa-adoption-passwords-primary-button-label = Регистриране
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Не губете всичко запазено, когато преминете към Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Синхронизирайте сега, за да запазите своите отметки, пароли и настройки в { -brand-short-name } безопасни и лесни за възстановяване.
 windows-10-eos-sync-urgency-title-2 = Сбогуване с Windows 10? Защитете данните си, когато го направите.
 windows-10-eos-sync-new-device-primary-label = Синхронизиране
 
