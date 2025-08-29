@@ -148,7 +148,7 @@ login-item-cancel-button = ยกเลิก
 #   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = สร้างเมื่อ
-login-item-timeline-action-updated = ปรับปรุงเมื่อ
+login-item-timeline-action-updated = อัปเดตเมื่อ
 login-item-timeline-action-used = ใช้เมื่อ
 
 ## OS Authentication dialog

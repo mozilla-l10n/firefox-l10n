@@ -211,7 +211,7 @@ firefoxview-choose-browser-button = เลือกเบราว์เซอ�
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header-2 = คุณควบคุมสิ่งที่จะให้ { -brand-short-name } จดจำได้ทุกอย่าง
-firefoxview-dont-remember-history-empty-description-one = ขณะนี้ { -brand-short-name } จะไม่จดจำกิจกรรมการเรียกดูของคุณ หากต้องการเปลี่ยนแปลง ให้<a data-l10n-name="history-settings-url-two">ปรับปรุงการตั้งค่าประวัติของคุณ</a>
+firefoxview-dont-remember-history-empty-description-one = ขณะนี้ { -brand-short-name } จะไม่จดจำกิจกรรมการเรียกดูของคุณ หากต้องการเปลี่ยนแปลง ให้<a data-l10n-name="history-settings-url-two">อัปเดตการตั้งค่าประวัติของคุณ</a>
 
 ##
 

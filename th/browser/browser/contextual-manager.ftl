@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = นำเข้าจ
 contextual-manager-passwords-command-import = นำเข้าจากไฟล์…
 contextual-manager-passwords-command-export = ส่งออกรหัสผ่าน
 contextual-manager-passwords-command-remove-all = เอารหัสผ่านทั้งหมดออก
+contextual-manager-passwords-command-options = ตัวเลือก
 contextual-manager-passwords-command-settings = การตั้งค่า
 contextual-manager-passwords-command-help = ช่วยเหลือ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -65,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = ใหม่: { $added }, อัปเดต: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = ใหม่: { $added }, อัปเดต: { $modified }, ซ้ำกัน: { $no_change }, ผิดพลาด: { $error }
 contextual-manager-passwords-import-detailed-report = ดูรายงานแบบละเอียด
 contextual-manager-passwords-import-success-button = เสร็จสิ้น
 contextual-manager-passwords-import-error-heading-and-message =
@@ -151,6 +158,12 @@ contextual-manager-passwords-password-already-exists-error-button = ไปที
 contextual-manager-passwords-update-password-success-heading =
     .heading = บันทึกรหัสผ่านแล้ว
 contextual-manager-passwords-update-password-success-button = เสร็จสิ้น
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = บันทึกชื่อผู้ใช้แล้ว
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = เพิ่มชื่อผู้ใช้แล้ว
+contextual-manager-passwords-update-username-success-heading =
+    .heading = บันทึกชื่อผู้ใช้แล้ว
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -196,6 +209,7 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = เพิ่มชื่อผู้ใช้
     .message = เพิ่มมาหนึ่งชื่อเพื่อลงชื่อเข้าได้เร็วขึ้น
 contextual-manager-passwords-add-username-button = เพิ่มชื่อผู้ใช้
+contextual-manager-passwords-title = รหัสผ่าน
 
 ## Login Form
 

@@ -122,8 +122,8 @@ migration-wizard-progress-success-new-passwords =
 #  $updatedEntries (Number): the number of updated passwords
 migration-wizard-progress-success-updated-passwords =
     { $updatedEntries ->
-        [one] ปรับปรุงแล้ว { $updatedEntries }
-       *[other] ปรับปรุงแล้ว { $updatedEntries }
+        [one] อัปเดตแล้ว { $updatedEntries }
+       *[other] อัปเดตแล้ว { $updatedEntries }
     }
 migration-bookmarks-from-file-picker-title = นำเข้าไฟล์ที่คั่นหน้า
 migration-bookmarks-from-file-progress-header = นำเข้าที่คั่นหน้า
