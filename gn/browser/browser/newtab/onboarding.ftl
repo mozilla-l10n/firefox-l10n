@@ -445,6 +445,8 @@ onboarding-checklist-sign-up = Eike térã eñemboheraguapy ne mba’etépe
 
 tab-groups-onboarding-feature-callout-title = Eiporu tendayke aty eime porãve ha epayve hag̃ua
 tab-groups-onboarding-feature-callout-subtitle = Eñeorganisa emoĩvo peteĩ tendayke ambuéva ári emoheñói hag̃ua aty peteĩha.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Ejuhu aty rendayke poravoha Tysýi opaite tendayképe ejapose vove.
 tab-groups-onboarding-create-group-title-2 = Ag̃aite ejuhukuaátama ne rendayke aty ko’ápe.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Ejuhu nde atykuéra ehekávo ñeikundaha rupápe.
 tab-groups-onboarding-saved-groups-title-2 = Emboty vove tendayke aty, embojurujakuaa jey ko’ápe ejapose vove.
