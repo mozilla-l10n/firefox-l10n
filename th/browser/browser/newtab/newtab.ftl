@@ -577,6 +577,7 @@ newtab-download-mobile-highlight-image =
 ## Strings for shortcuts highlight
 
 newtab-shortcuts-highlight-title = รายการโปรดของคุณอยู่แค่ปลายนิ้ว
+newtab-shortcuts-highlight-subtitle = เพิ่มทางลัดเพื่อให้เข้าถึงไซต์โปรดของคุณได้ในคลิกเดียว
 
 ## Strings for reporting ads and content
 
@@ -611,3 +612,72 @@ newtab-trending-searches-learn-more = เรียนรู้เพิ่มเ
 newtab-trending-searches-dismiss = ซ่อนการค้นหาที่กำลังมาแรง
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = การค้นหาที่กำลังมาแรง
+
+## Strings for task / to-do list productivity widget
+
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = ความเป็นไปได้ไม่มีที่สิ้นสุด เพิ่มมาสักหนึ่งอย่างเลย
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = ใหม่
+newtab-widget-lists-label-beta =
+    .label = เบต้า
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = เสร็จสมบูรณ์ ({ $number })
+newtab-widget-task-list-menu-copy = คัดลอก
+newtab-widget-lists-menu-edit = แก้ไขชื่อรายการ
+newtab-widget-lists-menu-create = สร้างรายการใหม่
+newtab-widget-lists-menu-delete = ลบรายการนี้
+newtab-widget-lists-menu-copy = คัดลอกรายการไปยังคลิปบอร์ด
+newtab-widget-lists-menu-hide = ซ่อนรายการทั้งหมด
+newtab-widget-lists-menu-learn-more = เรียนรู้เพิ่มเติม
+newtab-widget-lists-input-add-an-item =
+    .placeholder = เพิ่มงาน
+newtab-widget-lists-input-error = โปรดระบุข้อความเพื่อเพิ่มงาน
+newtab-widget-lists-input-menu-open-link = เปิดลิงก์
+newtab-widget-lists-input-menu-move-up = เลื่อนขึ้น
+newtab-widget-lists-input-menu-move-down = เลื่อนลง
+newtab-widget-lists-input-menu-delete = ลบ
+newtab-widget-lists-input-menu-edit = แก้ไข
+newtab-widget-lists-name-label-default =
+    .label = รายการงาน
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = รายการงาน
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = รายการใหม่
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = ตัวจับเวลา
+newtab-widget-timer-notification-focus = หมดเวลาโฟกัสแล้ว ทำได้เยี่ยมเลย อยากพักสักหน่อยไหม?
+newtab-widget-timer-notification-break = หมดเวลาพักแล้ว พร้อมที่จะโฟกัสหรือยัง?
+newtab-widget-timer-notification-warning = การแจ้งเตือนปิดอยู่
+newtab-widget-timer-mode-focus =
+    .label = โฟกัส
+newtab-widget-timer-mode-break =
+    .label = พัก
+newtab-widget-timer-play =
+    .title = เล่น
+newtab-widget-timer-pause =
+    .title = หยุดชั่วคราว
+newtab-widget-timer-reset =
+    .title = ล้างค่า
+newtab-widget-timer-menu-notifications = ปิดการแจ้งเตือน
+newtab-widget-timer-menu-notifications-on = เปิดการแจ้งเตือน
+newtab-widget-timer-menu-hide = ซ่อนตัวจับเวลา
+newtab-widget-timer-menu-learn-more = เรียนรู้เพิ่มเติม
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = เลื่อนเพื่อดูเพิ่มเติม
+newtab-widget-message-title = มีสมาธิด้วยรายการสิ่งที่ต้องทำและตัวจับเวลาในตัว
+# to-dos stands for "things to do".
+newtab-widget-message-copy = ตั้งแต่เตือนความจำด่วน ๆ ไปจนถึงสิ่งที่ต้องทำในแต่ละวัน ช่วงเวลาโฟกัสไปจนถึงช่วงเวลาพัก ให้คุณอยู่กับงานและตรงเวลาเสมอ
+newtab-promo-card-title = ร่วมสนับสนุน { -brand-product-name }
+newtab-promo-card-body = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
+newtab-promo-card-cta = เรียนรู้เพิ่มเติม
+newtab-promo-card-dismiss-button =
+    .title = ปิด
+    .aria-label = ปิด
