@@ -109,6 +109,11 @@ about-glean-button-load-all = Carregar todos os valores
 about-glean-button-load-value = Carregar
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Documentação
+about-glean-button-watch = Acompanhar
+# Meaning "to stop watching"
+about-glean-button-unwatch = Deixar de acompanhar
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Ainda não há suporte para métricas rotuladas na exibição do <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo de métrica desconhecido.
 about-glean-about-data-explanation =
     Para ver a lista de dados coletados, consulte o
