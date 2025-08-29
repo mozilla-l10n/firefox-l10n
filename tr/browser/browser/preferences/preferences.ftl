@@ -1271,10 +1271,14 @@ content-blocking-etp-standard-tcp-title = Şimdiye kadarki en güçlü gizlilik 
 content-blocking-warning-title = Dikkat!
 content-blocking-and-isolating-etp-warning-description-3 = Bu ayar bazı sitelerde içeriklerin düzgün görünmemesine veya sitelerin düzgün çalışmamasına yol açabilir. Yapılandırmanızdan etkilenebileceğini bildiğimiz siteler için isteğe bağlı olarak uygulayabileceğiniz istisnalar sunuyoruz. Bozuk sitelerle karşılaşma ihtimalinizi azaltmak isterseniz bu takip kodu istisnalarına izin verin. Bir site bozuk görünüyorsa o sitede izlenme korumasını kapatarak içeriğin tamamını yükleyebilir, ardından sorunu çözmemiz için bize rapor edebilirsiniz.
 content-blocking-warning-title-2 = Sıkı izlenme koruması bazı siteleri bozabilir
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name }, site özelliklerinin ve içeriklerinin bozulma ihtimalini azaltmak için “Site sorunlarını düzelt” ayarlarını kullanmanızı önerir. Bir site bozuk görünüyorsa o sitenin tüm içeriğini yüklemek için izlenme korumasını kapatmayı deneyin.
 content-blocking-and-isolating-etp-warning-description-2 = Bu ayar, bazı web sitelerinin içeriğinin görünmemesine veya düzgün çalışmamasına neden olabilir. Site bozuk görünüyorsa o sitenin tüm içeriğinin yüklemesi için izlenme korumasını kapatabilirsiniz.
 content-blocking-warning-learn-how = Nasıl yapılacağını öğrenin
 content-blocking-baseline-exceptions =
     .label = Bazı sitelerin ciddi şekilde bozulmasını önlemek için { -brand-short-name } gerekli istisnaları otomatik olarak uygulasın.
+content-blocking-baseline-exceptions-2 =
+    .label = Yalnızca takip kodu içerebilecek temel öğelerin engelini kaldırarak sitelerin ve özelliklerin yüklenmesine yardımcı olur. En yaygın sorunları kapsar.
 content-blocking-convenience-exceptions =
     .label = Yalnızca küçük sorunları düzeltmek ve kullanışlı özellikleri çalışır halde tutmak için gereken istisnalar da otomatik olarak uygulansın.
 content-blocking-baseline-label = Önemli site sorunlarını düzelt (önerilir)

@@ -400,6 +400,7 @@ windows-10-eos-feature-toast-dismiss-button = Kapat
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Sıkı izlenme koruması bazı sitelerin bozulmasına yol açabilir.</strong> Takip kodu içerebilecek temel öğelerin engelini kaldırarak sık karşılaşılan sorunları düzeltebilirsiniz.
 etp-strict-exceptions-infobar-learn-more = Daha fazla bilgi al
 etp-strict-exceptions-infobar-button = Düzeltmeleri uygula
     .accesskey = D

@@ -186,7 +186,7 @@ downloads-details =
 ## These strings are displayed in the private browsing view of the downloads panel
 
 downloads-private-browsing-details =
-    .title = Dosyalar cihazınızda kalır
+    .title = Dosyalar cihazınızda kalacak
 downloads-private-browsing-message = Tüm gizli pencereleri kapatsanız bile bu cihazı kullanan herkes indirilen dosyaları görebilir.
 downloads-private-browsing-delete-button =
     .label = Dosyaları otomatik olarak sil
