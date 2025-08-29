@@ -146,6 +146,7 @@ about-glean-button-dictionary-link = Kuatiaite
 about-glean-button-watch = Ñema’ẽ
 # Meaning "to stop watching"
 about-glean-button-unwatch = Anive ehecha
+about-glean-unknown-metric-type-warning = Peteĩ métrica ojekuaa’ỹva.
 about-glean-about-data-explanation =
     Eikundaha hag̃ua mba’ekuaarã mbyatypyre rysýire, eporandu pe
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Ñe’ẽryru</a>.
