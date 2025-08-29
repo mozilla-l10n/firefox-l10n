@@ -1287,7 +1287,7 @@ content-blocking-convenience-exceptions =
     .label = Aplică automat excepții necesare doar pentru remedierea de probleme minore și pentru a face disponibile funcționalități utile.
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
 content-blocking-convenience-exceptions-2 =
-    .label = Restaurează elemente cum are fi videoclipuri într-un articol sau secțiunile de comentarii prin deblocarea componentelor care ar putea conține elemente de urmărire. Poate reduce problemele site-urilor dar oferă mai puțină protecție. Trebuie folosită cu remediile pentru probleme majore.
+    .label = Restaurează elemente cum ar fi videoclipuri într-un articol sau secțiunile de comentarii prin deblocarea componentelor care ar putea conține elemente de urmărire. Poate reduce problemele site-urilor dar oferă mai puțină protecție. Trebuie folosită cu remediile pentru probleme majore.
 content-blocking-baseline-label = Remediază problemele majore ale site-urilor (recomandat)
 content-blocking-convenience-label = Remediază problemele minore ale site-urilor
 content-blocking-exceptions-subheader = Remediază problemele site-urilor
