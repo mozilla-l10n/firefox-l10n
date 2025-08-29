@@ -52,3 +52,6 @@ experimental-features-newtab-widget-lists =
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Aravopapaha { -firefox-home-brand-name }-pe
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Tysýi ha aravopapaha { -firefox-home-brand-name }-pe
