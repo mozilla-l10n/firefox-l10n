@@ -108,7 +108,11 @@ fxa-adoption-passwords-primary-button-label = Регистриране
 windows-10-eos-sync-urgency-title-1 = Не губете всичко запазено, когато преминете към Windows 11.
 windows-10-eos-sync-urgency-subtitle-1 = Синхронизирайте сега, за да запазите своите отметки, пароли и настройки в { -brand-short-name } безопасни и лесни за възстановяване.
 windows-10-eos-sync-urgency-title-2 = Сбогуване с Windows 10? Защитете данните си, когато го направите.
+windows-10-eos-sync-new-device-subtitle-1 = Синхронизирайте сега за да вземете вашите отметки, пароли и предпочитани настройки от { -brand-short-name } със себе си.
+windows-10-eos-sync-new-device-subtitle-2 = Без значение колко често използвате { -brand-short-name }, синхронизирането защитава вашите отметки, пароли и настройки.
 windows-10-eos-sync-new-device-primary-label = Синхронизиране
+windows-10-eos-sync-general-subtitle-1 = Архивирайте и синхронизирайте вашите пароли, отметки, настройки и други данни, за да запазите това, на което разчитате.
+windows-10-eos-sync-tour-subtitle-2 = Синхронизирайте вашите отметки, пароли и настройки, за да ги архивирате, преди да превключите.
 
 ## Sidebar Strings
 
