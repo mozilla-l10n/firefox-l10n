@@ -1427,6 +1427,7 @@ trustpanel-privacy-link = Ñemigua ñemboheko
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Embogue kookie ha tenda mba’ekuaarã { $host }-pe g̃uarã
+trustpanel-clear-cookies-description = Embogue umi kookie ha tenda mba’ekuaarã ombotykuaa ne ñanduti rogue ha omonandi nde karro’i joguapygua.
 trustpanel-clear-cookies-subview-button-clear = Mopotĩ
 trustpanel-clear-cookies-subview-button-cancel = Heja
 # Variables

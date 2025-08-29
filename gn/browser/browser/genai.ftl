@@ -126,6 +126,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Umi AI chatbots in { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Kuatiarogue ipuku rupi, kóva peteĩ mombykypyre.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Emombyky kuatiarogue

@@ -670,6 +670,7 @@ newtab-widget-timer-menu-hide = Eñomi aravopapaha
 newtab-widget-timer-menu-learn-more = Kuaave
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Emongu’e ehechave hag̃ua
+newtab-widget-message-title = Epyta umi tysýi ndive ha aravopapaha reheve
 newtab-promo-card-title = Eipytyvõ { -brand-product-name }
 newtab-promo-card-body = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue
 newtab-promo-card-cta = Eikuaave
