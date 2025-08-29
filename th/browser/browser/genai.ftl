@@ -232,3 +232,24 @@ link-preview-settings-key-points =
     .label = อนุญาตให้ AI อ่านจุดเริ่มต้นของหน้าและสร้างประเด็นสำคัญ
 link-preview-settings-long-press =
     .label = ทางลัด: คลิกและกดลิงก์ค้างไว้ 1 วินาที (กดยาว)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = ดูตัวอย่างลิงก์ด้วย AI
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } ใช้ AI เพื่ออ่านจุดเริ่มต้นของหน้าและสร้างประเด็นสำคัญบางประเด็น เพื่อให้ความสำคัญกับความเป็นส่วนตัวของคุณ การดำเนินการนี้จะเกิดขึ้นบนอุปกรณ์ของคุณ
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = ใหม่! คลิกและกดลิงก์ค้างไว้เพื่อดูตัวอย่าง
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = ดูคำอธิบายสั้น ๆ เวลาที่ใช้ในการอ่าน และอื่น ๆ เพื่อช่วยคุณตัดสินใจว่าลิงก์นี้น่าสนใจพอที่จะเปิดดูหรือไม่ แถมยังสามารถดูได้ด้วยการคลิกขวาเหมือนกัน
+# Header for the key points section
+link-preview-key-points-header = ประเด็นสำคัญ
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = ประเด็นสำคัญถูกสร้างขึ้นโดย AI และอาจมีข้อผิดพลาดได้
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = ตั้งค่าครั้งแรก • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = คุณจะเห็นประเด็นสำคัญได้รวดเร็วยิ่งขึ้นในครั้งถัดไป
+# Onboarding card See a preview button
+link-preview-onboarding-button = ดูตัวอย่าง
+# Onboarding card Close button
+link-preview-onboarding-close = ปิด
