@@ -18,9 +18,10 @@ about-glean-interface-description =
     <a data-l10n-name="fog-link">กำหนดเครื่องมือที่จะใช้ในการทดสอบ</a>ด้วยตนเอง
 about-glean-category-about-glean = เกี่ยวกับ { -glean-brand-name }
 about-glean-category-manual-testing = การทดสอบด้วยตนเอง
-about-glean-category-adhoc-testing = การทดสอบแอดฮ็อก
+about-glean-category-adhoc-testing = การทดสอบเฉพาะกิจ
 about-glean-category-profiler = การใช้ตัวสร้างโปรไฟล์
 about-glean-category-about-data = เกี่ยวกับข้อมูล
+about-glean-category-metrics-table = ตารางเมตริก
 about-glean-upload-enabled = เปิดใช้งานการอัปโหลดข้อมูลแล้ว
 about-glean-upload-disabled = ปิดใช้งานการอัปโหลดข้อมูลแล้ว
 about-glean-upload-enabled-local = เปิดใช้งานการอัปโหลดข้อมูลสำหรับส่งไปยังเซิร์ฟเวอร์เฉพาะที่เท่านั้น
@@ -59,7 +60,7 @@ about-glean-manual-testing =
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ไม่ต้องส่ง Ping ใดๆ)
 # An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = ตรวจดูให้แน่ใจว่ามีแท็กการดีบั๊กที่จำง่ายในฟิลด์ที่นำหน้าเพื่อให้คุณสามารถพบ Ping ของคุณภายหลังได้
+about-glean-label-for-tag-pings = ในช่องข้อมูลที่อยู่ก่อนหน้า ให้แน่ใจว่ามีแท็กการดีบั๊กที่จำง่ายเพื่อให้คุณสามารถพบ Ping ของคุณได้ในภายหลัง
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = ตั้งแท็กดีบั๊กที่จำง่าย <span>(อักขระไม่เกิน 20 ตัว ประกอบด้วยตัวอักษรเลขและ - เท่านั้น)</span> เพื่อให้คุณรู้จำ ping ของคุณได้ในภายหลัง
 # An in-line drop down list precedes this string.
@@ -119,10 +120,40 @@ about-glean-feedback-settings-and-ping =
 about-glean-about-data-header = เกี่ยวกับข้อมูล
 about-glean-about-data-description = มีเครื่องมือต่างๆ อยู่ด้วยกันไม่กี่อย่างที่คุณสามารถใช้ดูข้อมูลของคุณได้ ตามแต่ที่คุณกำลังมองหา
 about-glean-about-data-description-list-intro = กรุณาดูที่รายการด้านล่างนี้สำหรับรูปแบบการใช้งานจริงของเครื่องมือแต่ละอย่าง:
-about-glean-about-data-list-item-dictionary = เมื่อต้องการเรียกดูรายการข้อมูลที่รวบรวมโดย { -glean-brand-name } ต่อแอปพลิเคชัน กรุณาดูที่ <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>
-about-glean-about-data-list-item-about-telemetry = เมื่อต้องการเรียกดูข้อมูลที่รวบรวมโดยการวัดและส่งข้อมูลทางไกลแบบดั้งเดิม กรุณาดูที่ <a data-l10n-name="about-telemetry-link">about:telemetry</a>
-about-glean-about-data-list-item-debug-ping-viewer = เมื่อต้องการเรียกดูแท็กการดีบั๊ก ดู Ping แบบเต็ม ดูสตรีมเหตุการณ์สด หรือดูการจำลองภาพเมตริก กรุณาดูที่ <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>
-about-glean-about-data-list-item-firefox-profiler = เมื่อต้องการบันทึกโปรไฟล์ประสิทธิภาพและดูเมตริกที่บันทึกได้ทั้งหมด กรุณาใช้ <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>
+about-glean-about-data-list-item-dictionary = ถ้าต้องการเรียกดูรายการข้อมูลที่รวบรวมโดย { -glean-brand-name } ต่อแอปพลิเคชัน กรุณาดูที่ <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>
+about-glean-about-data-list-item-about-telemetry = ถ้าต้องการเรียกดูข้อมูลที่รวบรวมโดยการวัดและส่งข้อมูลทางไกลแบบดั้งเดิม กรุณาดูที่ <a data-l10n-name="about-telemetry-link">about:telemetry</a>
+about-glean-about-data-list-item-debug-ping-viewer = ถ้าต้องการเรียกดูแท็กการดีบั๊ก ดู Ping แบบเต็ม ดูสตรีมเหตุการณ์สด หรือดูการจำลองภาพเมตริก กรุณาดูที่ <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>
+about-glean-about-data-list-item-firefox-profiler = ถ้าต้องการบันทึกโปรไฟล์ประสิทธิภาพและดูเมตริกที่บันทึกได้ทั้งหมด กรุณาใช้ <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>
+about-glean-metrics-table-header = เมตริกทั้งหมด
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = หมวดหมู่
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = ชื่อ
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = ชนิด
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = ค่า
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = การกระทำ
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = ตัวกรอง
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = ช่องข้อมูลนี้จะกรองตารางด้านล่างตามหมวดหมู่ ชื่อ ชนิด และค่า (ถ้าค่าเป็นชนิดอย่างง่าย)
+about-glean-button-load-all = โหลดค่าทั้งหมด
+about-glean-button-load-value = โหลด
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = เอกสาร
+about-glean-button-watch = เฝ้าดู
+# Meaning "to stop watching"
+about-glean-button-unwatch = เลิกเฝ้าดู
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = เมตริกที่มีป้ายกำกับยังไม่รองรับในมุมมอง <code>about:glean</code>
+about-glean-unknown-metric-type-warning = ไม่รู้จักชนิดเมตริก
 about-glean-about-data-explanation =
-    หากต้องการเรียกดูรายการข้อมูลที่รวบรวม โปรดดูที่
+    ถ้าต้องการเรียกดูรายการข้อมูลที่รวบรวม โปรดดูที่
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>
