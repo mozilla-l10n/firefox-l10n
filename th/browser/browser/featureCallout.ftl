@@ -104,6 +104,27 @@ perplexity-callout-primary-label = ถาม Perplexity
 perplexity-callout-secondary-label-1 = ปิด
 perplexity-callout-secondary-label-2 = เข้าใจแล้ว
 
+## Account Adoption Passwords callout strings
+
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = บันทึกรหัสผ่านแล้ว มาสำรองรหัสผ่านกันเลย
+fxa-adoption-passwords-subtitle = ปกป้องรหัสผ่านของคุณด้วยการซิงค์กับอุปกรณ์ต่าง ๆ พร้อมการเข้ารหัสลับ
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = ลงทะเบียน
+
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = อย่าปล่อยให้ทุกสิ่งที่คุณบันทึกไว้สูญหายเมื่อเปลี่ยนไปใช้ Windows 11
+windows-10-eos-sync-urgency-subtitle-1 = ซิงค์เลยตอนนี้เพื่อเก็บที่คั่นหน้า รหัสผ่าน และการตั้งค่าใน { -brand-short-name } ของคุณให้ปลอดภัยและง่ายต่อการกู้คืน
+windows-10-eos-sync-urgency-title-2 = จะเลิกใช้ Windows 10 แล้วใช่ไหม? ปกป้องข้อมูลของคุณไว้เมื่อคุณเปลี่ยนไปใช้ระบบอื่น
+windows-10-eos-sync-urgency-subtitle-2 = แม้ว่าคุณจะไม่ได้ใช้ { -brand-short-name } เป็นประจำ ก็ควรซิงค์เพื่อให้ที่คั่นหน้าและรหัสผ่านปลอดภัยและสามารถเข้าถึงได้
+windows-10-eos-sync-new-device-title-1 = ไม่ต้องเสี่ยงกับการเริ่มใหม่ทั้งหมดเมื่อเปลี่ยนอุปกรณ์เครื่องใหม่
+windows-10-eos-sync-new-device-subtitle-1 = ซิงค์เพื่อนำที่คั่นหน้า รหัสผ่าน และการตั้งค่าที่ต้องการใน { -brand-short-name } ไปกับคุณเมื่อคุณเปลี่ยนอุปกรณ์ใหม่
+windows-10-eos-sync-new-device-title-2 = จะย้ายไปใช้อุปกรณ์ใหม่ใช่ไหม? อย่าปล่อยให้สิ่งสำคัญสูญหายไป
+windows-10-eos-sync-new-device-subtitle-2 = ไม่ว่าคุณจะใช้ { -brand-short-name } บ่อยแค่ไหน การซิงค์ก็จะปกป้องที่คั่นหน้า รหัสผ่าน และการตั้งค่าของคุณ
+windows-10-eos-sync-new-device-primary-label = ซิงค์เลย
+windows-10-eos-sync-general-title-1 = ปกป้อง { -brand-short-name } ที่คุณปรับแต่งในแบบของคุณ
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = แสดงชื่อแท็บในแถบข้าง

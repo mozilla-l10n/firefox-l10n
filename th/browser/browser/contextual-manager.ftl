@@ -215,12 +215,15 @@ contextual-manager-passwords-title = รหัสผ่าน
 
 contextual-manager-passwords-create-label =
     .label = เพิ่มรหัสผ่าน
+contextual-manager-passwords-update-label =
+    .label = อัปเดตรหัสผ่าน
 contextual-manager-passwords-edit-label =
     .label = แก้ไขรหัสผ่าน
 contextual-manager-passwords-remove-label =
     .title = ลบรหัสผ่าน
 contextual-manager-passwords-origin-tooltip = ป้อนที่อยู่จริงที่คุณใช้ลงชื่อเข้าไซต์นี้
 contextual-manager-passwords-username-tooltip = ป้อนชื่อผู้ใช้ ที่อยู่อีเมล หรือหมายเลขบัญชีที่คุณใช้ลงชื่อเข้า
+contextual-manager-passwords-password-tooltip-2 = ป้อนรหัสผ่านเพื่อลงชื่อเข้าบัญชีนี้
 contextual-manager-passwords-password-tooltip = ป้อนรหัสผ่านที่คุณใช้ลงชื่อเข้าบัญชีนี้
 
 ## Password Card
@@ -272,6 +275,22 @@ contextual-manager-view-alert-heading =
     .heading = ดูการแจ้งเตือน
 contextual-manager-view-alert-button =
     .tooltiptext = ตรวจสอบการแจ้งเตือน
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] ดูการแจ้งเตือน
+           *[other] ดูการแจ้งเตือน
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] ตรวจสอบการแจ้งเตือน
+           *[other] ตรวจสอบการแจ้งเตือน
+        }
 contextual-manager-show-password-button =
     .aria-label = แสดงรหัสผ่าน
     .title = แสดงรหัสผ่าน
@@ -281,6 +300,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = ไม่พบรหัสผ่าน
+contextual-manager-passwords-no-passwords-found-message-2 = ลองใช้คำอื่นแล้วค้นหาอีกครั้ง
 contextual-manager-passwords-no-passwords-found-message = ไม่พบรหัสผ่าน โปรดค้นหาด้วยคำอื่นแล้วลองอีกครั้ง
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -295,6 +315,8 @@ contextual-manager-passwords-no-passwords-message = รหัสผ่านท�
 contextual-manager-passwords-no-passwords-get-started-message = เพิ่มรหัสผ่านเหล่านั้นที่นี่เพื่อเริ่มต้นใช้งาน
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = เพิ่มด้วยตนเอง
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = บันทึกรหัสผ่านของคุณไว้ในที่ปลอดภัย
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -310,3 +332,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] ใช่ ลบรหัสผ่าน
        *[other] ใช่ ลบรหัสผ่าน
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = ถ้าต้องการดูรหัสผ่านที่คุณบันทึกไว้ ให้ป้อนรหัสผ่านหลักของคุณ
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = ป้อนรหัสผ่านหลัก
+contextual-manager-primary-password-learn-more-link = เรียนรู้เพิ่มเติม
