@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Kézi tesztelés
 about-glean-category-adhoc-testing = Ad hoc tesztelés
 about-glean-category-profiler = A Profilozó használata
 about-glean-category-about-data = Információk az adatokról
+about-glean-category-metrics-table = Statisztikai táblázat
 about-glean-upload-enabled = Az adatfeltöltés engedélyezett.
 about-glean-upload-disabled = Az adatfeltöltés le van tiltva.
 about-glean-upload-enabled-local = Az adatfeltöltés csak helyi kiszolgálóra történő küldés esetén engedélyezett.
@@ -140,6 +141,36 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Teljesítményprofil rögzítéséhez és az összes rögzített metrika megtekintéséhez használja a
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }t</a>.
+about-glean-metrics-table-header = Összes statisztika
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategória
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Név
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Típus
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Érték
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Műveletek
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Szűrő
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Ez fogja szűrni az alábbi táblázatot kategória, név, típus és érték (ha az érték egyszerű típus) alapján.
+about-glean-button-load-all = Összes érték betöltése
+about-glean-button-load-value = Betöltés
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumentumok
+about-glean-button-watch = Figyelés
+# Meaning "to stop watching"
+about-glean-button-unwatch = Figyelés megszüntetése
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = A címkézett statisztikák még nem támogatottak az <code>about:glean</code> nézetben.
+about-glean-unknown-metric-type-warning = Ismeretlen statisztikatípus.
 about-glean-about-data-explanation =
     Az összegyűjtött adatok tallózásához tekintse meg a
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Szótárat</a>.

@@ -70,6 +70,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mert tördelve van, tehát a tartalma több oszlopra vagy oldalra van felosztva.
 inactive-css-no-width-height = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel a szélessége és magassága nem adható meg.
+inactive-css-no-principal-box = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem hoz létre főmezőt.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -108,6 +109,7 @@ inactive-css-resize-fix = Próbálja meg az <strong>overflow</strong> tulajdons�
 inactive-css-ruby-element-fix = Próbálja módosítani a rubi szöveg <strong>betűméretét</strong>. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Próbálja meg csökkenteni a sorok számát. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Kerülje az elem tartalmának felosztását, például az oszlopok eltávolításával, vagy a <strong>page-break-inside:avoid</strong> használatával. { learn-more }
+inactive-css-no-principal-box-fix = Próbáljon meg hozzáadni egy olyan <strong>display</strong> értéket, amely főmezőt hoz létre, például <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> vagy <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

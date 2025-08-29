@@ -113,11 +113,13 @@ addon-install-error-corrupt-file = ไม่สามารถติดตั้
 addon-install-error-file-access = ไม่สามารถติดตั้ง { $addonName } เนื่องจาก { -brand-short-name } ไม่สามารถปรับเปลี่ยนไฟล์ที่จำเป็นได้
 addon-install-error-not-signed = { -brand-short-name } ได้ป้องกันไม่ให้ไซต์นี้ติดตั้งส่วนเสริมที่ไม่ได้รับการยืนยัน
 addon-install-error-invalid-domain = ไม่สามารถติดตั้งส่วนเสริม { $addonName } จากตำแหน่งที่ตั้งนี้ได้
+addon-install-error-no-addon-name-file-access = ไม่สามารถติดตั้งส่วนเสริมนี้เนื่องจาก { -brand-short-name } ไม่สามารถปรับเปลี่ยนไฟล์ที่จำเป็น
 addon-local-install-error-network-failure = ไม่สามารถติดตั้งส่วนเสริมนี้เนื่องจากข้อผิดพลาดระบบไฟล์
 addon-local-install-error-incorrect-hash = ไม่สามารถติดตั้งส่วนเสริมนี้เนื่องจากไม่ตรงกับส่วนเสริมที่ { -brand-short-name } ต้องการ
 addon-local-install-error-corrupt-file = ไม่สามารถติดตั้งส่วนเสริมนี้เนื่องจากส่วนเสริมดูเหมือนจะเสียหาย
 addon-local-install-error-file-access = ไม่สามารถติดตั้ง { $addonName } เนื่องจาก { -brand-short-name } ไม่สามารถปรับเปลี่ยนไฟล์ที่จำเป็นได้
 addon-local-install-error-not-signed = ไม่สามารถติดตั้งส่วนเสริมนี้เนื่องจากส่วนเสริมไม่ได้รับการยืนยัน
+addon-local-install-no-addon-name-error-file-access = ไม่สามารถติดตั้งส่วนเสริมนี้เนื่องจาก { -brand-short-name } ไม่สามารถปรับเปลี่ยนไฟล์ที่จำเป็น
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = ไม่สามารถติดตั้ง { $addonName } เนื่องจากใช้ร่วมกับ { -brand-short-name } { $appVersion } ไม่ได้

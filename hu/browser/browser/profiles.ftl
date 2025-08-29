@@ -109,6 +109,16 @@ profiles-ocean-theme-2 = Óceánkék
 profiles-terracotta-theme-2 = Téglavörös
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mohazöld
+profiles-gray-theme = Szürke
+profiles-yellow-theme = Sárga
+profiles-orange-theme = Narancs
+profiles-red-theme = Piros
+profiles-pink-theme = Rózsaszín
+profiles-purple-theme = Lila
+profiles-violet-theme = Ibolya
+profiles-blue-theme = Kék
+profiles-green-theme = Zöld
+profiles-cyan-theme = Cián
 
 ## Alternative text for default profile icons
 

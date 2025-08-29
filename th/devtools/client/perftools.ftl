@@ -7,7 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
-perftools-intro-title = การตั้งค่า Profiler
+perftools-intro-title = การตั้งค่าตัวสร้างโปรไฟล์
 perftools-intro-description =
     การอัดบันทึกจะเปิด profiler.firefox.com ในแท็บใหม่ ข้อมูลทั้งหมดจะถูกเก็บ
     ในเครื่อง แต่คุณสามารถเลือกที่จะอัปโหลดเพื่อแบ่งปันได้
