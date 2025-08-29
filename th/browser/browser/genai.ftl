@@ -119,6 +119,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = เกี่ยวกับบอตสนทนา AI ใน { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = เนื่องจากหน้าค่อนข้างยาว นี่จึงเป็นเพียงการสรุปบางส่วน
+
 ## Chatbot footer
 
 genai-page-button-summarize = สรุปหน้า
@@ -211,3 +216,19 @@ link-preview-reading-time = ใช้เวลาอ่าน { $range } นา�
 link-preview-error-message = เราไม่สามารถแสดงตัวอย่างลิงก์นี้ได้
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = เยี่ยมชมลิงก์
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = เราไม่สามารถสร้างประเด็นสำคัญสำหรับหน้าเว็บนี้ได้
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = มีบางอย่างผิดพลาด
+# Text for the retry link when generation fails
+link-preview-generation-retry = ลองอีกครั้ง
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = การตั้งค่าการแสดงตัวอย่างลิงก์
+link-preview-settings-enable =
+    .label = เปิดใช้งานการแสดงตัวอย่างลิงก์
+    .description = ดูชื่อหน้า คำอธิบาย และอื่น ๆ เมื่อคุณใช้ทางลัดหรือคลิกขวาที่ลิงก์
+link-preview-settings-key-points =
+    .label = อนุญาตให้ AI อ่านจุดเริ่มต้นของหน้าและสร้างประเด็นสำคัญ
+link-preview-settings-long-press =
+    .label = ทางลัด: คลิกและกดลิงก์ค้างไว้ 1 วินาที (กดยาว)
