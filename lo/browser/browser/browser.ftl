@@ -659,9 +659,24 @@ urlbar-result-realtime-opt-in-dismiss-all =
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market =
     .label = ຢ່າສະແດງຄໍາແນະນໍາໃນຕະຫຼາດ
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = ຂໍ​ຂອບ​ໃຈ​ສໍາ​ລັບ​ຄໍາ​ຄຶດ​ຄໍາ​ເຫັນ​ຂອງ​ທ່ານ​. ທ່ານຈະບໍ່ເຫັນຄຳແນະນຳເຫຼົ່ານີ້ອີກຕໍ່ໄປ.
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown = { $name } · ໃນ { $daysUntilStart } ມື້
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range = { $name } · ເລີ່ມຕົ້ນໃນ { $daysUntilStart } ມື້
 # The name of a multiple day long event and the number of days until it ends
 # separated by a middot.
 # Variables:
@@ -1157,6 +1172,7 @@ trustpanel-etp-toggle-off =
     .aria-label = ການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງແລ້ວ: ປິດສຳລັບ { $host }
 trustpanel-connection-label-secure = ການເຊື່ອມຕໍ່ແມ່ນປອດໄພ
 trustpanel-connection-label-insecure = ການເຊື່ອມຕໍ່ບໍ່ປອດໄພ
+trustpanel-header-enabled = { -brand-product-name } ແມ່ນເຝົ້າລະວັງ
 trustpanel-privacy-link = ການຕັ້ງຄ່າຄວາມເປັນສ່ວນຕົວ
 trustpanel-clear-cookies-subview-button-clear = ລົບລ້າງ
 trustpanel-clear-cookies-subview-button-cancel = ຍົກເລີກ
