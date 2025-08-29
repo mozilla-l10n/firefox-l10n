@@ -34,6 +34,8 @@ fxa-menu-send-tab-to-device-description = Изпратете незабавно 
 fxa-menu-sign-out =
     .label = Излизане…
 fxa-menu-sync-description = Вашият интернет е навсякъде с вас.
+fxa-avatar-sign-in = Вписване
+fxa-avatar-sign-up = Регистриране
 sync-setup-verify-continue = Продължаване
 # The user was previously signed into sync. This dialog confirms to the user
 # that they will be merging the data from the previously signed in into the newly signed in one
@@ -47,3 +49,10 @@ sync-setup-verify-description = Друг потребител е бил впис
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile
 sync-profile-different-account-description-merge = За да запазите данните си организирани и защитени, препоръчваме да създадете нов потребителски профил, в който да влизате чрез { $acctEmail }. Ако изберете да продължите синхронизирането в този потребителски профил, данните и от двата профила ще бъдат завинаги обединени в „{ $profileName }“.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Профилът вече се използва
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Превключване към „{ $profileName }“
+sync-button-create-profile = Създаване на нов профил
+sync-button-sync-and-merge = Синхронизиране и сливане на данни
