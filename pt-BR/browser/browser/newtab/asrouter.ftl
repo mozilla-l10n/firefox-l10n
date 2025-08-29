@@ -369,6 +369,7 @@ windows-10-eos-sync-toast-secondary-label = Lembrar mais tarde
 
 windows-10-eos-challenger-callout-title = O { -brand-product-name } não vem instalado previamente como outros navegadores de grandes empresas. Esta é a questão.
 windows-10-eos-challenger-sync-callout-subtitle = Ao fazer backup dos seus favoritos e senhas do { -brand-product-name }, fica mais fácil levar o navegador que você escolheu para o seu próximo dispositivo.
+windows-10-eos-challenger-pin-callout-subtitle = Fixe o { -brand-shorter-name } na barra de tarefas para ter acesso rápido ao navegador que você escolheu sempre que precisar.
 windows-10-eos-challenger-sync-primary-button = Faça backup do { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = O { -brand-product-name } bloqueia mineração de criptomoedas, rastreadores de redes sociais e rastreadores de identidade digital.
