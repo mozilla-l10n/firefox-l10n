@@ -159,6 +159,13 @@ genai-chatbot-contextual-subtitle = สนทนาและท่องเว�
 genai-chatbot-contextual-button = เลือกบอตสนทนา
 genai-chatbot-summarize-title = ใหม่! สรุปหน้าในคลิกเดียว
 genai-chatbot-summarize-button = สรุปหน้า
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = คลิกขวาที่บอตสนทนา AI ของคุณในแถบข้างแล้วเลือก “สรุปหน้า”
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = คลิกขวาที่ปุ่มประกายไฟในแถบข้าง แล้วเลือก “สรุปหน้า” โดยครั้งแรก คุณจะเลือกบอตสนทนา AI ด้วย
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = เปิดบอตสนทนา AI ของคุณในแถบข้างแล้วเลือก “สรุปหน้า” ที่ด้านล่าง
+genai-chatbot-summarize-footer-generic-subtitle = เพิ่มบอตสนทนา AI ลงในแถบข้างของ { -brand-short-name } เพื่อสรุปหน้าต่าง ๆ ได้อย่างรวดเร็ว
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -200,3 +207,7 @@ genai-model-optin-cancel =
 #   $rangePlural (String): The plural category of the range, using the same set as for numbers.
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 link-preview-reading-time = ใช้เวลาอ่าน { $range } นาที
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = เราไม่สามารถแสดงตัวอย่างลิงก์นี้ได้
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = เยี่ยมชมลิงก์

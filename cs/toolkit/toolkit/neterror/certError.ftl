@@ -252,6 +252,7 @@ redirectLoop-title = Smyčka při přesměrování
 unknownSocketType-title = Neplatná odpověď serveru
 nssFailure2-title = Chyba zabezpečeného spojení
 csp-xfo-error-title = { -brand-short-name } tuto stránku nemůže otevřít
+corruptedContentErrorv2-title = Chyba v obsahu stránky
 corruptedContentError-title = Chyba v obsahu stránky
 sslv3Used-title = Nelze navázat zabezpečené spojení
 inadequateSecurityError-title = Vaše připojení není zabezpečené

@@ -167,6 +167,8 @@ about-glean-button-load-value = Načíst
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Dokumenty
 about-glean-button-watch = Sledovat
+# Meaning "to stop watching"
+about-glean-button-unwatch = Přestat sledovat
 about-glean-about-data-explanation =
     Chcete-li si prohlédnout seznam shromážděných údajů, podívejte se na stránku
     <a data-l10n-name="glean-dictionary-link">slovníku { -glean-brand-name }</a>.
