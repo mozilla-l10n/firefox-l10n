@@ -56,3 +56,15 @@ experimental-features-fx-web-apps =
     .label = Webhelyek hozzáadása a tálcához
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Nyissa meg a gyakran felkeresett webhelyeket webalkalmazásként a tálcáról. Keresse a „Lap hozzáadása a tálcához” ikont a címsáv jobb oldalán, hogy a webhelyet egy letisztult ablakban nyissa meg, a { -brand-product-name } összes védelmével együtt. <a data-l10n-name="connect">Visszajelzés megosztása</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Listák a { -firefox-home-brand-name }on
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Időzítő a { -firefox-home-brand-name }on
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listák és időzítők a { -firefox-home-brand-name }on

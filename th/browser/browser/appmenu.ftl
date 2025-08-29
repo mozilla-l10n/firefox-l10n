@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = เปิดแผงตัวสร้างโปรไฟล์
+    .tooltiptext = เปิดแผงตัวสร้างโปรไฟล์
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับเสียงและวิดีโอใน { -brand-shorter-name }
 profiler-popup-presets-media-label =
     .label = สื่อ
+profiler-popup-presets-ml-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับการเรียนรู้ของเครื่องใน { -brand-shorter-name }
+profiler-popup-presets-ml-label =
+    .label = การเรียนรู้ของเครื่อง
 profiler-popup-presets-networking-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับระบบเครือข่ายใน { -brand-shorter-name }
 profiler-popup-presets-networking-label =
     .label = ระบบเครือข่าย

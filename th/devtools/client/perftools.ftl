@@ -149,6 +149,8 @@ perftools-presets-graphics-label = กราฟิก
 perftools-presets-graphics-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับกราฟิกใน { -brand-shorter-name }
 perftools-presets-media-label = สื่อ
 perftools-presets-media-description2 = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับเสียงและวิดีโอใน { -brand-shorter-name }
+perftools-presets-ml-label = การเรียนรู้ของเครื่อง
+perftools-presets-ml-description2 = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับการเรียนรู้ของเครื่องใน { -brand-shorter-name }
 perftools-presets-networking-label = ระบบเครือข่าย
 perftools-presets-networking-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับระบบเครือข่ายใน { -brand-shorter-name }
 # "Power" is used in the sense of energy (electricity used by the computer).

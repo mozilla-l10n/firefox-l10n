@@ -270,6 +270,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = ดูคำอธิบาย
     .accesskey = ย
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = ค้นหาภาพด้วย { $engine }
 main-context-menu-video-save-as =
     .label = บันทึกวิดีโอเป็น…
     .accesskey = น
@@ -392,3 +396,5 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = เผยรหัสผ่าน
     .accesskey = v
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = ใหม่

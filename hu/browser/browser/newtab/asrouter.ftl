@@ -366,6 +366,16 @@ windows-10-eos-sync-toast-secondary-label = Figyelmeztetés később
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-pin-callout-subtitle = Rögzítse a { -brand-shorter-name } böngészőt a tálcán, hogy mindig ott legyen, ha szüksége van rá.
+windows-10-eos-challenger-sync-primary-button = Mentse le a { -brand-shorter-name } adatait
+windows-10-eos-challenger-pin-primary-button = A { -brand-shorter-name } kitűzése
+windows-10-eos-sync-callout-privacy-screen-1-title = A { -brand-product-name } blokkolja a kriptobányászokat, a közösségi média nyomkövetőit és az ujjlenyomat-készítőket.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = A { -brand-shorter-name } biztonsági mentésével könnyen magával viheti az adatait és az adatvédelmi beállításait.
+windows-10-eos-sync-callout-privacy-info-button = Nézze meg, mi lett blokkolva
+windows-10-eos-callout-addons-title = Próbálja ki a kiegészítőket: egyszerű frissítések, nagy hatások
+windows-10-eos-callout-addons-primary-button = Lássa a választásainkat
+windows-10-eos-sync-callout-addons-title = Ne veszítse el kiegészítőit, amikor Windows 10-ről frissít.
+windows-10-eos-sync-callout-addons-subtitle = Szinkronizáljon most, hogy a { -brand-product-name } kiegészítői mindig elérhetőek legyenek, még eszközváltás után is.
 windows-10-eos-sync-callout-next-button = Tovább
 windows-10-eos-sync-callout-get-started-button = Kezdő lépések
 
@@ -376,3 +386,14 @@ windows-10-eos-feature-toast-title = Megérkeztek a függőleges lapok és lapcs
 windows-10-eos-feature-toast-subtitle = Népszerű kérésre, a { -brand-product-name } új funkciókat szállít, hogy a böngészése gördülékenyebb és fókuszáltabb legyen.
 windows-10-eos-feature-toast-whats-new-button = Újdonságok
 windows-10-eos-feature-toast-dismiss-button = Eltüntetés
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = További tudnivalók
+etp-strict-exceptions-infobar-button = Javítások alkalmazása
+    .accesskey = J
