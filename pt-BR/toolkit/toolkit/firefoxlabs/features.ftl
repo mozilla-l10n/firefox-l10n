@@ -68,6 +68,7 @@ experimental-features-newtab-widget-lists-description = Mantenha sua lista de ta
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Temporizador no { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Configure um temporizador para te ajudar a se manter concentrado, encorajar a não se distrair, ou lembrar de fazer um intervalo para recarregar as energias. <a data-l10n-name="connect">Compartilhe sua opinião</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listas e temporizador no { -firefox-home-brand-name }
