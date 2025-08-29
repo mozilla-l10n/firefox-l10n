@@ -426,7 +426,7 @@ about-logins-import-report-row-description-added = เพิ่มการเ�
 about-logins-import-report-row-description-no-change2 = ซ้ำกัน: ตรงกันทุกประการกับรายการที่มีอยู่
 about-logins-import-report-row-description-modified2 = อัปเดตรายการที่มีอยู่แล้ว
 about-logins-import-report-row-description-added2 = เพิ่มรหัสผ่านใหม่แล้ว
-about-logins-import-report-row-description-error = ข้อผิดพลาด: ฟิลด์หายไป
+about-logins-import-report-row-description-error = ข้อผิดพลาด: ช่องข้อมูลหายไป
 
 ##
 ## Variables:

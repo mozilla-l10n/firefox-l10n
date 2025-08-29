@@ -506,8 +506,8 @@ identity-permissions-storage-access-learn-more = เรียนรู้เพ�
 identity-permissions-reload-hint = คุณอาจจำเป็นต้องโหลดหน้าใหม่เพื่อให้การเปลี่ยนแปลงมีผล
 identity-clear-site-data =
     .label = ล้างคุกกี้และข้อมูลไซต์…
-identity-connection-not-secure-security-view = คุณไม่ได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้
-identity-connection-verified = คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้
+identity-connection-not-secure-security-view = คุณไม่ได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
+identity-connection-verified = คุณได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
 identity-ev-owner-label = ออกใบรับรองให้กับ:
 identity-description-custom-root2 = Mozilla ไม่รู้จักผู้ออกใบรับรองนี้ ซึ่งอาจถูกเพิ่มจากระบบปฏิบัติการของคุณหรือโดยผู้ดูแลระบบ
 identity-remove-cert-exception =
@@ -842,12 +842,17 @@ urlbar-result-dates-countdown-range = { $name } · จะเริ่มใน {
 # Variables:
 #   $name (string) - The name of the event.
 #   $daysUntilEnd (integer) - The number of days until the event ends.
-urlbar-result-dates-ongoing = { $name } · จะจบใน { $daysUntilStart } วัน
+urlbar-result-dates-ongoing = { $name } · จะสิ้นสุดใน { $daysUntilStart } วัน
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-today = { $name } · วันนี้
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · จะสิ้นสุดวันนี้
 
 ## Strings used for buttons in the urlbar
 
@@ -1211,6 +1216,10 @@ tabs-toolbar-list-all-tabs =
     .label = แสดงรายการแท็บทั้งหมด
     .tooltiptext = แสดงรายการแท็บทั้งหมด
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = ปล่อยแท็บที่นี่เพื่อปักหมุด
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1377,3 +1386,53 @@ onboarding-checklist-button-label = ตั้งค่าให้เสร็�
 onboarding-aw-finish-setup-button =
     .label = ตั้งค่าให้เสร็จสิ้น
     .tooltiptext = ตั้งค่า { -brand-short-name } ให้เสร็จสิ้น
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = การป้องกันการติดตามแบบพิเศษเปิดอยู่
+trustpanel-etp-label-disabled = การป้องกันการติดตามแบบพิเศษปิดอยู่
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = การป้องกันการติดตามแบบพิเศษ: เปิดสำหรับ { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = การป้องกันการติดตามแบบพิเศษ: ปิดสำหรับ { $host }
+trustpanel-etp-description-enabled = ถ้ามีบางอย่างดูเสียหายบนไซต์นี้ ให้ลองปิดการป้องกัน
+trustpanel-etp-description-disabled = { -brand-product-name } คิดว่าบริษัทต่าง ๆ ควรติดตามคุณให้น้อยลง เราจะปิดกั้นตัวติดตามให้ได้มากที่สุดเท่าที่จะทำได้เมื่อคุณเปิดการป้องกัน
+trustpanel-connection-label-secure = การเชื่อมต่อปลอดภัย
+trustpanel-connection-label-insecure = การเชื่อมต่อไม่ปลอดภัย
+trustpanel-header-enabled = { -brand-product-name } กำลังป้องกันอยู่
+trustpanel-description-enabled = คุณได้รับการปกป้องแล้ว ถ้าเราพบสิ่งใด เราจะแจ้งให้คุณทราบ
+trustpanel-header-disabled = คุณปิดการป้องกันแล้ว
+trustpanel-description-disabled = { -brand-product-name } ไม่ได้ทำงานอยู่ เราขอแนะนำให้เปิดการป้องกันอีกครั้ง
+trustpanel-clear-cookies-button = ล้างคุกกี้และข้อมูลไซต์
+trustpanel-privacy-link = การตั้งค่าความเป็นส่วนตัว
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = ล้างคุกกี้และข้อมูลไซต์สำหรับ { $host }
+trustpanel-clear-cookies-description = การเอาคุกกี้และข้อมูลไซต์ออกอาจทำให้คุณออกจากระบบเว็บไซต์และล้างตะกร้าสินค้า
+trustpanel-clear-cookies-subview-button-clear = ล้าง
+trustpanel-clear-cookies-subview-button-cancel = ยกเลิก
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = การป้องกันการเชื่อมต่อสำหรับ { $host }
+trustpanel-connection-secure = คุณได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
+trustpanel-connection-not-secure = คุณไม่ได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
+trustpanel-siteinformation-morelink = ข้อมูลไซต์เพิ่มเติม
+trustpanel-blocker-see-all = ดูทั้งหมด
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = การป้องกันการติดตามสำหรับ { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header = <span>{ $count }</span> ตัวติดตามถูกปิดกั้นบนไซต์นี้
+trustpanel-blocker-description = { -brand-product-name } คิดว่าบริษัทต่าง ๆ ควรติดตามคุณให้น้อยลง ดังนั้นเราจึงปิดกั้นให้มากที่สุดเท่าที่จะทำได้
+trustpanel-blocked-header = { -brand-product-name } ปิดกั้นสิ่งเหล่านี้สำหรับคุณ:
+trustpanel-tracking-header = { -brand-product-name } อนุญาตสิ่งเหล่านี้เพื่อไม่ให้ไซต์เสียหาย:
