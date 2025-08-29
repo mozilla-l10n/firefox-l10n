@@ -367,6 +367,7 @@ windows-10-eos-sync-toast-secondary-label = Lembrar mais tarde
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = O { -brand-product-name } não vem instalado previamente como outros navegadores de grandes empresas. Esta é a questão.
 windows-10-eos-challenger-sync-callout-subtitle = Ao fazer backup dos seus favoritos e senhas do { -brand-product-name }, fica mais fácil levar o navegador que você escolheu para o seu próximo dispositivo.
 windows-10-eos-challenger-sync-primary-button = Faça backup do { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
