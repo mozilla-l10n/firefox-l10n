@@ -143,6 +143,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Buka panel permintaan lokasi
 urlbar-localhost-notification-anchor =
     .tooltiptext = Kelola akses perangkat lokal untuk situs ini
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Kelola berbagi akses jaringan lokal Anda dengan situs ini
 urlbar-xr-notification-anchor =
     .tooltiptext = Buka panel perizinan realitas virtual
 urlbar-storage-access-anchor =
@@ -245,6 +247,8 @@ urlbar-geolocation-blocked =
     .tooltiptext = Anda telah memblokir informasi lokasi untuk situs web ini.
 urlbar-localhost-blocked =
     .tooltiptext = Anda telah memblokir sambungan perangkat lokal untuk situs web ini.
+urlbar-local-network-blocked =
+    .tooltiptext = Anda telah memblokir koneksi jaringan lokal untuk situs web ini.
 urlbar-xr-blocked =
     .tooltiptext = Anda telah memblokir akses perangkat realitas virtual untuk situs web ini.
 urlbar-web-notifications-blocked =
@@ -791,6 +795,59 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Disponsori
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Dapatkan data pasar saham langsung di bilah pencarian Anda
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Tampilkan pembaruan pasar dan lainnya dari mitra kami saat Anda membagikan data kuiri pencarian dengan { -vendor-short-name }. <a data-l10n-name="learn-more-link">Pelajari lebih lanjut</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Tampilkan saran
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Jangan sekarang
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Jangan tampilkan saran ini
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Jangan tampilkan saran pasar
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Terima kasih atas tanggapan Anda. Anda tidak akan melihat saran pasar lagi.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Terima kasih atas tanggapan Anda. Anda tidak akan melihat saran ini lagi.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown = { $name } · Dalam { $daysUntilStart } hari
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range = { $name } · Dimulai dalam { $daysUntilStart } hari
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing = { $name } · Berakhir dalam { $daysUntilEnd } hari
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Hari ini
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Berakhir hari ini
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1309,3 +1366,38 @@ file-picker-crashed-save-nowhere = Dialog berkas Windows mogok. Tidak ada folder
 file-picker-crashed-show-in-folder =
     .label = Tampilkan di Folder
     .accessKey = F
+
+## The urlbar trust panel
+
+trustpanel-connection-label-secure = Sambungan aman
+trustpanel-connection-label-insecure = Sambungan tidak aman
+trustpanel-header-disabled = Anda mematikan perlindungan
+trustpanel-clear-cookies-button = Bersihkan kuki dan data situs
+trustpanel-privacy-link = Pengaturan Privasi
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Bersihkan kuki dan data situs untuk { $host }
+trustpanel-clear-cookies-description = Menghapus kuki dan data situs mungkin mengeluarkan Anda dari situs web dan menghapus keranjang belanja.
+trustpanel-clear-cookies-subview-button-clear = Bersihkan
+trustpanel-clear-cookies-subview-button-cancel = Batal
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Perlindungan sambungan untuk { $host }
+trustpanel-connection-secure = Anda terhubung dengan aman ke situs ini.
+trustpanel-connection-not-secure = Anda tidak terhubung dengan aman ke situs ini.
+trustpanel-blocker-see-all = Lihat Semua
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Perlindungan pelacakan untuk { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header = <span>{ $count }</span> Pelacak diblokir di situs ini
+trustpanel-tracking-content-tab-list-header = Situs berikut mencoba melacak Anda:
+trustpanel-fingerprinter-blocking-tab-header = { -brand-product-name } memblokir { $count } penyidik jari
+trustpanel-fingerprinter-not-blocking-tab-header = { -brand-product-name } mengizinkan { $count } penyidik jari
+trustpanel-fingerprinter-list-header = Situs-situs berikut mencoba menyidik jari Anda:

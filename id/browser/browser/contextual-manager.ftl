@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Impor dari Peramban L
 contextual-manager-passwords-command-import = Impor dari Berkas…
 contextual-manager-passwords-command-export = Ekspor sandi
 contextual-manager-passwords-command-remove-all = Hapus seluruh sandi
+contextual-manager-passwords-command-options = Opsi
 contextual-manager-passwords-command-settings = Pengaturan
 contextual-manager-passwords-command-help = Bantuan
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }{ -brand-full-name }
@@ -65,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Baru: { $added }, Diperbarui: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Baru: { $added }, Diperbarui: { $modified }, Duplikat: { $no_change }, Kesalahan: { $error }
 contextual-manager-passwords-import-detailed-report = Lihat laporan detail
 contextual-manager-passwords-import-success-button = Selesai
 contextual-manager-passwords-import-error-heading-and-message =
@@ -151,6 +158,12 @@ contextual-manager-passwords-password-already-exists-error-button = Buka sandi
 contextual-manager-passwords-update-password-success-heading =
     .heading = Sandi tersimpan
 contextual-manager-passwords-update-password-success-button = Selesai
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Nama pengguna disimpan
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Nama pengguna ditambahkan
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Nama pengguna disimpan
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -196,11 +209,14 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Tambahkan nama pengguna
     .message = Tambahkan pengguna untuk masuk lebih cepat
 contextual-manager-passwords-add-username-button = Tambahkan nama pengguna
+contextual-manager-passwords-title = Kata sandi
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Tambahkan sandi
+contextual-manager-passwords-update-label =
+    .label = Perbarui sandi
 contextual-manager-passwords-edit-label =
     .label = Edit sandi
 contextual-manager-passwords-remove-label =
