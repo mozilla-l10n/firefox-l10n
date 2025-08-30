@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Webpage Display
 experimental-features-group-customize-browsing =
     .label = ปรับแต่งการการท่องเว็บของคุณ
+experimental-features-group-productivity =
+    .label = ผลผลิต
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = แสดงรหัสผ่านในแถบข้าง
