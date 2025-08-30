@@ -320,6 +320,7 @@ fxa-menu-message-sign-in-button = Anmelden
 fxa-menu-message-sync-button = Mit Synchronisierung beginnen
 fxa-menu-message-sync-devices-primary-text = Synchronisiere all deine Geräte
 fxa-menu-message-sync-devices-secondary-text = Greife sofort auf deine Inhalte – wie Lesezeichen und Passwörter – zu. Überall wo du { -brand-short-name } verwendest.
+fxa-menu-message-sync-devices-secondary-text2 = Holen Sie sich sofort Ihre Lesezeichen, Passwörter und mehr – überall dort, wo Sie mit { -brand-short-name } angemeldet sind.
 fxa-menu-message-sync-devices-collapsed-text = Synchronisiere all deine Geräte
 fxa-menu-message-backup-data-primary-text = Sichere deine Browser-Daten
 fxa-menu-message-backup-data-secondary-text = Automatisch Lesezeichen, Passwörter und andere Daten auf all deinen Geräten sichern.
@@ -366,6 +367,7 @@ windows-10-eos-sync-toast-secondary-label = Später erinnern
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-callout-subtitle = Wenn Sie Backups ihrer Lesezeichen und Passwörter von { -brand-product-name } erstellen, ist es einfacher, den Browser ihrer Wahl auf ein anderes Gerät zu bringen.
 windows-10-eos-sync-callout-privacy-screen-2-title = Sichern Sie Ihre Passwörter und Lesezeichen für Ihr nächstes Gerät.
 windows-10-eos-sync-callout-privacy-info-button = Sehen Sie, was geblockt wird
 windows-10-eos-sync-callout-next-button = Weiter
