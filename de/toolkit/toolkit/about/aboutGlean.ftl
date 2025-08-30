@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Manuelles Testen
 about-glean-category-adhoc-testing = Ad-hoc-Testen
 about-glean-category-profiler = Verwenden des Profilers
 about-glean-category-about-data = Über Daten
+about-glean-category-metrics-table = Metriktabelle
 about-glean-upload-enabled = Das Hochladen von Daten ist aktiviert.
 about-glean-upload-disabled = Das Hochladen von Daten ist deaktiviert.
 about-glean-upload-enabled-local = Das Hochladen von Daten ist nur zum Senden an einen lokalen Server aktiviert.
@@ -140,6 +141,7 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Um ein Leistungsprofil aufzuzeichnen und alle aufgezeichneten Messwerte anzusehen, verwenden Sie bitte den
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Alle Metriken
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Kategorie
 # This message refers to the name of a given metric.
