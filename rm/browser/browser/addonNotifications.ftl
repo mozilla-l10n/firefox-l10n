@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Impussibel dad installar il supplement telech
 addon-install-error-file-access = Impussibel dad installar { $addonName } perquai che { -brand-short-name } na po betg modifitgar la datoteca necessaria.
 addon-install-error-not-signed = { -brand-short-name } ha impedì che questa pagina installeschia in supplement betg verifitgà.
 addon-install-error-invalid-domain = Impussibel dad installar il supplement { $addonName } da quest lieu.
+addon-install-error-no-addon-name-file-access = I n’è betg reussì d’installar il supplement perquai che { -brand-short-name } na po betg modifitgar la datoteca necessaria.
 addon-local-install-error-network-failure = Impussibel dad installar quest supplement pervia d'ina errur en il sistem da datotecas.
 addon-local-install-error-incorrect-hash = Impussibel dad installar quest supplement perquai ch'el na correspunda betg al supplement che { -brand-short-name } ha spetgà.
 addon-local-install-error-corrupt-file = Impussibel dad installar quest supplement. El para dad esser donnegià.
 addon-local-install-error-file-access = Impussibel dad installar { $addonName } perquai che { -brand-short-name } na po betg modifitgar la datoteca necessaria.
 addon-local-install-error-not-signed = Impussibel dad installar quest supplement perquai ch'el n'è betg verifitgà.
+addon-local-install-no-addon-name-error-file-access = I n’è betg reussì d’installar il supplement perquai che { -brand-short-name } na po betg modifitgar la datoteca necessaria.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Impussibel dad installar { $addonName }. Il supplement n'è betg cumpatibel cun { -brand-short-name } { $appVersion }.

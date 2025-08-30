@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Avrir la panela da messadis
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Avrir la panela che dumonda la posiziun
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Administrar l’access als apparats locals per questa website
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Administrar l’access a tia rait locala per questa website
 urlbar-xr-notification-anchor =
     .tooltiptext = Avrir la panela da permissiuns per la realitad virtuala
 urlbar-storage-access-anchor =
@@ -207,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Mussar pli darar
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Betg mussar propostas cun prognosas da l’aura
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Avrir il menu
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Grazia per tes resun
@@ -238,6 +245,10 @@ urlbar-search-mode-actions = Acziuns
 
 urlbar-geolocation-blocked =
     .tooltiptext = Ti has bloccà las infurmaziuns da geolocalisaziun per questa website.
+urlbar-localhost-blocked =
+    .tooltiptext = Ti has bloccà connexiuns cun apparats locals per questa website.
+urlbar-local-network-blocked =
+    .tooltiptext = Ti has bloccà connexiuns cun la rait locala per questa website.
 urlbar-xr-blocked =
     .tooltiptext = Ti has bloccà l'access als apparats da realitad virtuala per questa website.
 urlbar-web-notifications-blocked =
@@ -363,6 +374,7 @@ quickactions-downloads2 = Mussar las telechargiadas
 quickactions-cmd-downloads = telechargiadas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administrar las extensiuns
+quickactions-cmd-extensions2 = extensiuns, supplements, add-ons, addons
 quickactions-cmd-extensions = extensiuns
 # Opens Firefox View
 quickactions-firefoxview = Avrir { -firefoxview-brand-name }
@@ -787,6 +799,14 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsurisà
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Infurmaziuns da la bursa directamain en tia trav da tschertgar
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Mussar actualitads da la bursa ed autras infurmaziuns da noss partenaris cura che ti cundividas dumondas da tschertga cun { -vendor-short-name }. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
 
 ## Strings used for buttons in the urlbar
 
