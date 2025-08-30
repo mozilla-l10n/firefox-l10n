@@ -235,17 +235,21 @@ link-preview-settings-enable =
     .label = Ενεργοποίηση προεπισκοπήσεων συνδέσμων
     .description = Δείτε τον τίτλο, την περιγραφή της σελίδας και πολλά άλλα όταν χρησιμοποιείτε τη συντόμευση ή κάνετε δεξί κλικ σε έναν σύνδεσμο.
 # Message that appears when user is shown the opt-in flow for link previews
-link-preview-optin-message = Το { -brand-short-name } χρησιμοποιεί τεχνητή νοημοσύνη για την ανάγνωση της αρχής της σελίδας και τη δημιουργία μερικών σημαντικών σημείων. Για την προστασία του απορρήτου σας, αυτό συμβαίνει στη συσκευή σας.
+link-preview-optin-message = Το { -brand-short-name } χρησιμοποιεί τεχνητή νοημοσύνη για να διαβάσει την αρχή της σελίδας και να δημιουργήσει μερικά κύρια σημεία. Για την προστασία του απορρήτου σας, αυτό συμβαίνει στη συσκευή σας.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Νέο: Κάντε παρατεταμένο κλικ σε οποιονδήποτε σύνδεσμο για προεπισκόπηση
 # Onboarding card description for long press
 link-preview-onboarding-description-long-press = Δείτε μια σύντομη περιγραφή, τον χρόνο ανάγνωσης και πολλά άλλα για να αποφασίσετε αν αξίζει να ανοίξετε τον σύνδεσμο. Διαθέσιμο και μέσω δεξιού κλικ.
 # Header for the key points section
-link-preview-key-points-header = Σημαντικά σημεία
+link-preview-key-points-header = Κύρια σημεία
 # Disclaimer for AI-generated key points
-link-preview-key-points-disclaimer = Τα σημαντικά σημεία δημιουργούνται με τεχνητή νοημοσύνη και ενδέχεται να περιέχουν λάθη.
+link-preview-key-points-disclaimer = Τα κύρια σημεία δημιουργούνται με τεχνητή νοημοσύνη και ενδέχεται να περιέχουν λάθη.
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Πρώτη ρύθμιση • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Θα δείτε τα κύρια σημεία πιο γρήγορα την επόμενη φορά.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Προβολή προεπισκόπησης
 # Onboarding card Close button
 link-preview-onboarding-close = Κλείσιμο
