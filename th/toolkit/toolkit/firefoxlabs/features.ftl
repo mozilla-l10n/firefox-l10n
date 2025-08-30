@@ -6,15 +6,15 @@
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = สื่อ: JPEG XL
-experimental-features-media-jxl-description = เมื่อคุณสมบัตินี้ถูกเปิดใช้งาน { -brand-short-name } จะสามารถรองรับรูปภาพรูปแบบ JPEG XL (JXL) โดยไฟล์รูปภาพที่อยู่ในรูปแบบที่ดีขึ้นนี้สามารถรองรับการแปลงโดยไม่มีการลดทอนคุณภาพจากไฟล์ JPEG แบบเดิมได้ ดูที่ <a data-l10n-name="bugzilla">บั๊ก 1539075</a> สำหรับรายละเอียดเพิ่มเติม
+experimental-features-media-jxl-description = เมื่อเปิดใช้งานคุณลักษณะนี้ { -brand-short-name } จะสามารถรองรับภาพรูปแบบ JPEG XL (JXL) ซึ่งเป็นรูปแบบไฟล์ภาพที่ได้รับการพัฒนาให้ดีขึ้นและรองรับการแปลงแบบไม่สูญเสียคุณภาพจากไฟล์ JPEG แบบเดิม ดูรายละเอียดเพิ่มเติมที่<a data-l10n-name="bugzilla">บั๊ก 1539075</a>
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
-experimental-features-js-warp-description = เปิดใช้งาน Warp ซึ่งเป็นโครงการในการปรับปรุงประสิทธิภาพของ JavaScript และการใช้หน่วยความจำ
+experimental-features-js-warp-description = เปิดใช้งาน Warp โครงการที่จะปรับปรุงประสิทธิภาพของ JavaScript และการใช้หน่วยความจำ
 # Search during IME
 experimental-features-ime-search =
     .label = แถบที่อยู่: แสดงผลลัพธ์ระหว่างการแปลงตัวอักษรของ IME
-experimental-features-ime-search-description = IME (Input Method Editor) เป็นเครื่องมือที่ให้คุณสามารถป้อนสัญลักษณ์ที่ซับซ้อน เช่น สัญลักษณ์ที่ใช้ในภาษาเขียนในแถบเอเชียตะวันออกหรือภาษาเขียนในอินเดีย โดยใช้แป้นพิมพ์มาตรฐานได้ การเปิดใช้งานคุณลักษณะทดลองนี้จะทำให้แผงแถบที่อยู่เปิดเสมอ โดยจะแสดงผลลัพธ์การค้นหาและข้อเสนอแนะการค้นหา ในขณะที่ใช้ IME ในการป้อนข้อความ โปรดทราบว่า IME อาจแสดงผลแผงที่อาจปิดบังผลลัพธ์ในแถบที่อยู่ได้ จึงแนะนำให้ใช้ค่าปรับแต่งนี้สำหรับ IME ที่ไม่ได้ใช้แผงชนิดนี้เท่านั้น
+experimental-features-ime-search-description = IME (Input Method Editor) คือเครื่องมือที่ช่วยให้คุณป้อนสัญลักษณ์ที่ซับซ้อน เช่น สัญลักษณ์ที่ใช้ในภาษาเขียนในเอเชียตะวันออกหรืออินเดีย โดยใช้แป้นพิมพ์มาตรฐาน การเปิดใช้งานคุณลักษณะทดลองนี้จะทำให้แผงแถบที่อยู่เปิดตลอด แสดงผลลัพธ์การค้นหาและคำแนะนำ ในขณะที่ใช้ IME เพื่อป้อนข้อความ โปรดทราบว่า IME อาจแสดงแผงขึ้นมาบังผลลัพธ์ของแถบที่อยู่ ดังนั้นจึงแนะนำให้ใช้ค่าปรับแต่งนี้สำหรับ IME ที่ไม่ได้ใช้แผงแบบนี้เท่านั้น
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = ภาพที่เล่นควบคู่: เปิดอัตโนมัติเมื่อสลับแท็บ
