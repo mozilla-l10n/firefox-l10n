@@ -109,6 +109,7 @@ inactive-css-resize-fix = <strong>overflow</strong> özelliğini <strong>visible
 inactive-css-ruby-element-fix = Ruby metninin <strong>font-size</strong> değerini değiştirmeyi deneyin. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Satır sayısını azaltmayı deneyin. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Elemanın içeriğini bölmekten kaçının. Örneğin sütunları kaldırabilir veya <strong>page-break-inside:avoid</strong> kullanabilirsiniz. { learn-more }
+inactive-css-no-principal-box-fix = Ana kutu oluşturan bir <strong>display</strong> değeri eklemeyi deneyin. Örnek: <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> veya <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
