@@ -366,6 +366,8 @@ newtab-wallpaper-dark-panda = Panda ruju cuadu in su padente
 newtab-wallpaper-dark-sky = Paesàgiu de tzitade cun chelu de note
 newtab-wallpaper-dark-mountain = Paesàgiu de monte
 newtab-wallpaper-dark-city = Paesàgiu de tzitade tanada
+newtab-wallpaper-dark-fox-anniversary = Unu margiane in s’impedradu a costadu de unu padente
+newtab-wallpaper-light-fox-anniversary = Unu margiane in unu campu de erba cun unu paesàgiu de monte nebidosu
 
 ## Solid Colors
 
@@ -395,6 +397,10 @@ newtab-wallpaper-abstract-purple = Formas tanadas
 newtab-wallpaper-abstract-orange = Formas arantzu
 newtab-wallpaper-gradient-orange = Gradatzione dae arantzu a rosa
 newtab-wallpaper-abstract-blue-purple = Formas asulas e tanadas
+newtab-wallpaper-abstract-white-curves = Biancu cun curvas afuscadas
+newtab-wallpaper-abstract-purple-green = Isfumadura de lughe tanada e birde
+newtab-wallpaper-abstract-blue-purple-waves = Formas a undas biaitas e tanadas
+newtab-wallpaper-abstract-black-waves = Formas a undas nieddas
 
 ## Celestial
 
@@ -405,6 +411,9 @@ newtab-wallpaper-storm-sky = Chelu in traschia
 newtab-wallpaper-sky-with-pink-clouds = Chelu cun nues rosas
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda ruju cascat a subra de un'àrbore
 newtab-wallpaper-white-mountains = Montes biancos
+newtab-wallpaper-hot-air-balloons = Bòcias de àera callente de colores diversos a de die
+newtab-wallpaper-starry-canyon = Note biaita de isteddos
+newtab-wallpaper-sand-dunes = Dunas de arena bianca
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
