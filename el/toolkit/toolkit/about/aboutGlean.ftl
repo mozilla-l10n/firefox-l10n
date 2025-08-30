@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Χειροκίνητη δοκιμή
 about-glean-category-adhoc-testing = Δοκιμή Ad Hoc
 about-glean-category-profiler = Χρήση του εργαλείου προφίλ
 about-glean-category-about-data = Σχετικά με τα δεδομένα
+about-glean-category-metrics-table = Πίνακας μετρήσεων
 about-glean-upload-enabled = Η μεταφόρτωση δεδομένων είναι ενεργοποιημένη.
 about-glean-upload-disabled = Η μεταφόρτωση δεδομένων είναι απενεργοποιημένη.
 about-glean-upload-enabled-local = Η μεταφόρτωση δεδομένων είναι ενεργοποιημένη μόνο για αποστολή σε τοπικό διακομιστή.
@@ -139,6 +140,7 @@ about-glean-about-data-list-item-debug-ping-viewer =
     ή να προβάλετε οπτικοποιήσεις των μετρήσεων, συμβουλευτείτε το
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = Για να καταγράψετε ένα προφίλ επιδόσεων και να δείτε όλες τις καταγεγραμμένες μετρήσεις, χρησιμοποιήστε το <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Όλες οι μετρήσεις
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Κατηγορία
 # This message refers to the name of a given metric.
@@ -149,10 +151,18 @@ about-glean-metrics-table-header-type = Τύπος
 about-glean-metrics-table-header-value = Τιμή
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Ενέργειες
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Φίλτρο
 about-glean-button-load-all = Φόρτωση όλων των τιμών
 about-glean-button-load-value = Φόρτωση
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Έγγραφα
+about-glean-button-watch = Παρακολούθηση
+# Meaning "to stop watching"
+about-glean-button-unwatch = Διακοπή παρακολούθησης
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Οι μετρήσεις με ετικέτα δεν υποστηρίζονται ακόμα στην προβολή <code>about:glean</code>.
+about-glean-unknown-metric-type-warning = Άγνωστος τύπος μέτρησης.
 about-glean-about-data-explanation =
     Για να περιηγηθείτε στη λίστα των συλλεγμένων δεδομένων, συμβουλευτείτε το
     <a data-l10n-name="glean-dictionary-link">Λεξικό του { -glean-brand-name }</a>.

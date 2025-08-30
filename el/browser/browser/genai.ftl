@@ -125,6 +125,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Σχετικά με τα chatbot ΤΝ στο { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Επειδή η σελίδα είναι μεγάλη, αυτή είναι μια μερική σύνοψη.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Σύνοψη σελίδας
@@ -226,8 +231,19 @@ link-preview-generation-retry = Δοκιμή ξανά
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Ρυθμίσεις προεπισκόπησης συνδέσμων
+link-preview-settings-enable =
+    .label = Ενεργοποίηση προεπισκοπήσεων συνδέσμων
+    .description = Δείτε τον τίτλο, την περιγραφή της σελίδας και πολλά άλλα όταν χρησιμοποιείτε τη συντόμευση ή κάνετε δεξί κλικ σε έναν σύνδεσμο.
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = Το { -brand-short-name } χρησιμοποιεί τεχνητή νοημοσύνη για την ανάγνωση της αρχής της σελίδας και τη δημιουργία μερικών σημαντικών σημείων. Για την προστασία του απορρήτου σας, αυτό συμβαίνει στη συσκευή σας.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Νέο: Κάντε παρατεταμένο κλικ σε οποιονδήποτε σύνδεσμο για προεπισκόπηση
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Δείτε μια σύντομη περιγραφή, τον χρόνο ανάγνωσης και πολλά άλλα για να αποφασίσετε αν αξίζει να ανοίξετε τον σύνδεσμο. Διαθέσιμο και μέσω δεξιού κλικ.
+# Header for the key points section
+link-preview-key-points-header = Σημαντικά σημεία
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Τα σημαντικά σημεία δημιουργούνται με τεχνητή νοημοσύνη και ενδέχεται να περιέχουν λάθη.
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Πρώτη ρύθμιση • <strong>{ $progress }%</strong>
