@@ -30,3 +30,4 @@ unexpected-script-load-email-textbox =
     .aria-label = ป้อนอีเมลที่นี่
 unexpected-script-load-more-info = ข้อมูลเพิ่มเติม
 unexpected-script-load-learn-more = เรียนรู้เพิ่มเติม
+unexpected-script-load-telemetry-disabled = การรายงานถูกปิดใช้งานเนื่องจากการวัดและส่งข้อมูลทางไกลถูกปิดใช้งานในการตั้งค่า เปิดใช้งานการวัดและส่งข้อมูลทางไกลเพื่อรายงาน
