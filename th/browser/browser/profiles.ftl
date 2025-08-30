@@ -45,6 +45,7 @@ avatar-selector-save-button =
     .label = บันทึก
 avatar-selector-upload-file = อัปโหลดไฟล์
 avatar-selector-drag-file = หรือลากไฟล์มาที่นี่
+avatar-selector-add-image = เพิ่มภาพ
 avatar-selector-crop = ครอบตัด
 edit-profile-page-no-name = ตั้งชื่อให้กับโปรไฟล์นี้เพื่อช่วยให้คุณหาพบได้สะดวกขึ้น โดยสามารถเปลี่ยนชื่อได้ตลอดเวลา
 edit-profile-page-duplicate-name = ชื่อโปรไฟล์นี้ถูกใช้ไปแล้ว โปรดลองใช้ชื่อใหม่
@@ -127,7 +128,7 @@ briefcase-avatar-alt =
     .alt = กระเป๋าเอกสาร
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
-    .alt = ผืนผ้าใบ
+    .alt = ผ้าใบ
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = งานฝีมือ
@@ -143,10 +144,36 @@ heart-rate-avatar-alt =
     .alt = คลื่นหัวใจ
 history-avatar-alt =
     .alt = ประวัติศาสตร์
+leaf-avatar-alt =
+    .alt = ใบไม้
+lightbulb-avatar-alt =
+    .alt = หลอดไฟ
+makeup-avatar-alt =
+    .alt = เครื่องสำอาง
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = ข้อความ
+musical-note-avatar-alt =
+    .alt = โน้ตดนตรี
+palette-avatar-alt =
+    .alt = จานสี
+paw-print-avatar-alt =
+    .alt = รอยเท้า
+plane-avatar-alt =
+    .alt = เครื่องบิน
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = ของขวัญ
 shopping-avatar-alt =
     .alt = รถเข็นซื้อของ
+soccer-avatar-alt =
+    .alt = ฟุตบอล
+sparkle-single-avatar-alt =
+    .alt = ประกายดาว
 star-avatar-alt =
     .alt = ดาว
+video-game-controller-avatar-alt =
+    .alt = ตัวควบคุมวิดีโอเกม
 custom-avatar-alt =
     .alt = อวตารกำหนดเอง
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
@@ -157,17 +184,49 @@ diamond-avatar-alt =
     .alt = เพชร
 barbell-avatar-alt =
     .alt = บาร์เบล
+bike-avatar-alt =
+    .alt = จักรยาน
 
 ## Labels for default avatar icons
 
 book-avatar = หนังสือ
 briefcase-avatar = กระเป๋าเอกสาร
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = ผ้าใบ
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = งานฝีมือ
 custom-avatar = รูปประจำตัวกำหนดเอง
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = favicon เริ่มต้น
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = เพชร
 flower-avatar = ดอกไม้
+folder-avatar = โฟลเดอร์
+hammer-avatar = ค้อน
 heart-avatar = หัวใจ
+heart-rate-avatar = คลื่นหัวใจ
+history-avatar = ประวัติศาสตร์
+leaf-avatar = ใบไม้
+lightbulb-avatar = หลอดไฟ
+makeup-avatar = เครื่องสำอาง
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = ข้อความ
+musical-note-avatar = โน้ตดนตรี
+palette-avatar = จานสี
+paw-print-avatar = รอยเท้า
+plane-avatar = เครื่องบิน
+# Present refers to a gift box, not the current time period
+present-avatar = ของขวัญ
 shopping-avatar = รถเข็นซื้อของ
+soccer-avatar = ฟุตบอล
+sparkle-single-avatar = ประกายดาว
 star-avatar = ดาว
+video-game-controller-avatar = ตัวควบคุมวิดีโอเกม
 custom-avatar-crop-back-button =
     .aria-label = กลับ
+custom-avatar-crop-view =
+    .aria-label = มุมมองครอบตัดภาพ
+custom-avatar-crop-area =
+    .aria-label = ปรับพื้นที่ครอบตัด
+barbell-avatar = บาร์เบล
+bike-avatar = จักรยาน
