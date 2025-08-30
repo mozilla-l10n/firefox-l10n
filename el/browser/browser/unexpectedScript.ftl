@@ -7,7 +7,7 @@ unexpected-script-close-button =
 # This string is used in the notification bar
 # Variables:
 #   $origin (string) - The top level domain the unexpected script was loaded from
-unexpected-script-load-message = Το <strong>{ -brand-short-name } ανίχνευσε ένα μη αναμενόμενο, προνομιακό σενάριο από το { $origin }</strong>
+unexpected-script-load-message = <strong>Το { -brand-short-name } εντόπισε ένα μη αναμενόμενο, προνομιούχο σενάριο από το { $origin }</strong>
 unexpected-script-load-message-button-allow =
     .label = Να επιτρέπεται
     .accesskey = Α
