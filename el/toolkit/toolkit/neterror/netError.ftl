@@ -107,7 +107,7 @@ neterror-unsafe-content-type = Επικοινωνήστε με τους ιδιο
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = Το { -brand-short-name } δεν εμπιστεύεται το { $hostname } επειδή η σύνδεση δεν είναι ασφαλής. Δοκιμάστε να αλλάξετε το URL σε HTTPS.
-neterror-nss-failure-not-verified = Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί επειδή δεν ήταν δυνατή η επαλήθευση των ληφθέντων δεδομένων.
+neterror-nss-failure-not-verified = Δεν είναι δυνατή η εμφάνιση της σελίδας που προσπαθείτε να προβάλετε επειδή δεν ήταν δυνατή η επαλήθευση της αυθεντικότητας των ληφθέντων δεδομένων.
 neterror-nss-failure-contact-website = Επικοινωνήστε με τους ιδιοκτήτες του ιστοτόπου για να τους ενημερώσετε σχετικά με αυτό το πρόβλημα.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
