@@ -178,6 +178,16 @@ permissions-site-localhost-disable-label =
     .label = ปิดกั้นคำขอใหม่ที่ขอเข้าถึงแอปและบริการต่าง ๆ บนอุปกรณ์นี้
 permissions-site-localhost-disable-desc = นี่จะหยุดเว็บไซต์ใด ๆ ที่ไม่ได้ระบุไว้ด้านบนขออนุญาตเข้าถึงแอปและบริการต่าง ๆ บนอุปกรณ์นี้ การทำเช่นนี้อาจทำให้คุณลักษณะเว็บไซต์บางอย่างใช้งานไม่ได้
 
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = การตั้งค่า - อุปกรณ์เครือข่ายเฉพาะที่
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = เว็บไซต์เหล่านี้ได้ขอเข้าถึงแอปและบริการต่าง ๆ บนอุปกรณ์ที่เชื่อมต่อกับ Wi-Fi หรือเครือข่ายเฉพาะที่ของคุณ คุณสามารถเลือกที่จะอนุญาตหรือปิดกั้นไม่ให้ไซต์ทำเช่นนี้ได้
+permissions-site-local-network-disable-label =
+    .label = ปิดกั้นคำขอใหม่ที่ขอเข้าถึงแอปและบริการต่าง ๆ บนอุปกรณ์ที่เชื่อมต่อกับ Wi-Fi หรือเครือข่ายเฉพาะที่ของคุณ
+permissions-site-local-network-disable-desc = นี่จะหยุดเว็บไซต์ใด ๆ ที่ไม่ได้ระบุไว้ด้านบนขออนุญาตเข้าถึงแอปและบริการต่าง ๆ บนอุปกรณ์ที่เชื่อมต่อกับ Wi-Fi หรืออุปกรณ์เครือข่ายเฉพาะที่ของคุณ การทำเช่นนี้อาจทำให้คุณลักษณะเว็บไซต์บางอย่างใช้งานไม่ได้
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
