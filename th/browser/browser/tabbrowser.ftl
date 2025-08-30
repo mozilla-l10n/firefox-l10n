@@ -247,6 +247,8 @@ tab-context-move-tab-to-group =
            *[other] เพิ่มแท็บไปยังกลุ่ม
         }
     .accesskey = ก
+tab-context-move-tab-to-group-saved-groups =
+    .label = กลุ่มที่ปิดแล้ว
 tab-group-editor-action-new-tab =
     .label = แท็บใหม่ในกลุ่ม
 tab-group-editor-action-new-window =

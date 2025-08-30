@@ -45,6 +45,7 @@ avatar-selector-save-button =
     .label = บันทึก
 avatar-selector-upload-file = อัปโหลดไฟล์
 avatar-selector-drag-file = หรือลากไฟล์มาที่นี่
+avatar-selector-crop = ครอบตัด
 edit-profile-page-no-name = ตั้งชื่อให้กับโปรไฟล์นี้เพื่อช่วยให้คุณหาพบได้สะดวกขึ้น โดยสามารถเปลี่ยนชื่อได้ตลอดเวลา
 edit-profile-page-duplicate-name = ชื่อโปรไฟล์นี้ถูกใช้ไปแล้ว โปรดลองใช้ชื่อใหม่
 edit-profile-page-profile-saved = บันทึกแล้ว
@@ -110,7 +111,13 @@ profiles-moss-theme-2 = เขียวมอส
 profiles-gray-theme = เทา
 profiles-yellow-theme = เหลือง
 profiles-orange-theme = ส้ม
+profiles-red-theme = แดง
 profiles-pink-theme = ชมพู
+profiles-purple-theme = ม่วงเพอร์เพิล
+profiles-violet-theme = ม่วงไวโอเล็ต
+profiles-blue-theme = น้ำเงิน
+profiles-green-theme = เขียว
+profiles-cyan-theme = น้ำเงินเขียว
 
 ## Alternative text for default profile icons
 
@@ -126,18 +133,41 @@ craft-avatar-alt =
     .alt = งานฝีมือ
 flower-avatar-alt =
     .alt = ดอกไม้
+folder-avatar-alt =
+    .alt = โฟลเดอร์
+hammer-avatar-alt =
+    .alt = ค้อน
 heart-avatar-alt =
     .alt = หัวใจ
+heart-rate-avatar-alt =
+    .alt = คลื่นหัวใจ
+history-avatar-alt =
+    .alt = ประวัติศาสตร์
 shopping-avatar-alt =
     .alt = รถเข็นซื้อของ
 star-avatar-alt =
     .alt = ดาว
+custom-avatar-alt =
+    .alt = อวตารกำหนดเอง
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = favicon เริ่มต้น
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = เพชร
+barbell-avatar-alt =
+    .alt = บาร์เบล
 
 ## Labels for default avatar icons
 
 book-avatar = หนังสือ
 briefcase-avatar = กระเป๋าเอกสาร
+custom-avatar = รูปประจำตัวกำหนดเอง
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = favicon เริ่มต้น
 flower-avatar = ดอกไม้
 heart-avatar = หัวใจ
 shopping-avatar = รถเข็นซื้อของ
 star-avatar = ดาว
+custom-avatar-crop-back-button =
+    .aria-label = กลับ
