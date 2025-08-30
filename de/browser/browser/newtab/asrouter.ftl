@@ -387,6 +387,8 @@ windows-10-eos-sync-callout-get-started-button = Los geht's
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Hier sind vertikale Tabs und Tab-Gruppen!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Auf häufige Anfrage hin hat { -brand-product-name } neue Funktionen erhalten, um das Surfen einfacher und konzentrierter zu gestalten.
 windows-10-eos-feature-toast-whats-new-button = Sehen Sie sich an, was es Neues gibt
 windows-10-eos-feature-toast-dismiss-button = Schließen
 
@@ -397,4 +399,7 @@ windows-10-eos-feature-toast-dismiss-button = Schließen
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Strenger Schutz vor Aktivitätenverfolgung kann zu Problemen mit Websites führen.</strong> Beheben Sie häufige Probleme, indem Sie die Blockierung wichtiger Elemente freigeben, die Tracker enthalten könnten.
 etp-strict-exceptions-infobar-learn-more = Weitere Informationen
+etp-strict-exceptions-infobar-button = Korrekturen anwenden
+    .accesskey = K
