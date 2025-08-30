@@ -197,7 +197,7 @@ sidebar-callout-survey-keep-website-open = เปิดเว็บไซต์ 
 sidebar-callout-survey-saved-websites-2 = เข้าถึงที่คั่นหน้าของคุณได้อย่างรวดเร็ว
 sidebar-callout-survey-none-of-above = ไม่มีข้อใดข้างต้น
 sidebar-callout-survey-submit = ส่ง
-sidebar-callout-survey-thank-you = ขอบคุณสำหรับข้อคิดเห็นของคุณ!
+sidebar-callout-survey-thank-you = ขอบคุณสำหรับข้อเสนอแนะของคุณ!
 sidebar-genai-survey-satisfaction-question = คุณพอใจกับการเข้าถึงบอตสนทนา AI ในแถบข้างมากแค่ไหน?
 sidebar-genai-survey-productive-question =
     คุณเห็นด้วยหรือไม่เห็นด้วยกับคำกล่าวนี้มากแค่ไหน:<br/>

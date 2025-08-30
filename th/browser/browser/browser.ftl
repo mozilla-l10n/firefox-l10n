@@ -180,7 +180,7 @@ urlbar-tip-icon-description =
     .alt = เคล็ดลับ:
 urlbar-result-menu-button =
     .title = เปิดเมนู
-urlbar-result-menu-button-feedback = ข้อคิดเห็น
+urlbar-result-menu-button-feedback = ข้อเสนอแนะ
     .title = เปิดเมนู
 urlbar-result-menu-learn-more =
     .label = เรียนรู้เพิ่มเติม
@@ -216,10 +216,10 @@ urlbar-splitbutton-dropmarker =
     .title = เปิดเมนู
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
-urlbar-feedback-acknowledgment = ขอบคุณสำหรับข้อคิดเห็นของคุณ
+urlbar-feedback-acknowledgment = ขอบคุณสำหรับข้อเสนอแนะของคุณ
 # A message shown in the urlbar when the user dismisses weather suggestions.
 # Weather suggestions won't be shown at all anymore.
-urlbar-dismissal-acknowledgment-weather = ขอบคุณสำหรับข้อคิดเห็นของคุณ คุณจะไม่เห็นคำแนะนำเกี่ยวกับสภาพอากาศอีกต่อไป
+urlbar-dismissal-acknowledgment-weather = ขอบคุณสำหรับข้อเสนอแนะของคุณ คุณจะไม่เห็นคำแนะนำเกี่ยวกับสภาพอากาศอีกต่อไป
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -814,10 +814,10 @@ urlbar-result-realtime-opt-in-dismiss-all =
 urlbar-result-menu-dont-show-market =
     .label = ไม่ต้องแสดงคำแนะนำเกี่ยวกับตลาดหุ้น
 # A message that replaces a result when the user dismisses Market suggestions.
-urlbar-result-dismissal-acknowledgment-market = ขอบคุณสำหรับข้อคิดเห็นของคุณ คุณจะไม่เห็นคำแนะนำเกี่ยวกับตลาดหุ้นอีกต่อไป
+urlbar-result-dismissal-acknowledgment-market = ขอบคุณสำหรับข้อเสนอแนะของคุณ คุณจะไม่เห็นคำแนะนำเกี่ยวกับตลาดหุ้นอีกต่อไป
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
-urlbar-result-dismissal-acknowledgment-all = ขอบคุณสำหรับข้อคิดเห็นของคุณ คุณจะไม่เห็นคำแนะนำเหล่านี้อีกต่อไป
+urlbar-result-dismissal-acknowledgment-all = ขอบคุณสำหรับข้อเสนอแนะของคุณ คุณจะไม่เห็นคำแนะนำเหล่านี้อีกต่อไป
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
@@ -951,7 +951,7 @@ urlbar-result-menu-trending-why =
     .accesskey = ท
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
-urlbar-trending-dismissal-acknowledgment = ขอบคุณสำหรับความคิดเห็นของคุณ คุณจะไม่เห็นการค้นหาที่กำลังมาแรงอีกต่อไป
+urlbar-trending-dismissal-acknowledgment = ขอบคุณสำหรับข้อเสนอแนะของคุณ คุณจะไม่เห็นการค้นหาที่กำลังมาแรงอีกต่อไป
 
 ## Reader View toolbar buttons
 

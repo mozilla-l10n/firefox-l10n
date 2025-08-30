@@ -368,7 +368,7 @@ onboarding-sign-up-secondary-button = เริ่มการเรียกด
 
 onboarding-new-user-time-based-survey-title = คุณใช้ { -brand-short-name } มานานเท่าไรแล้ว?
 onboarding-new-user-familiarity-based-survey-title = คุณคุ้นเคยกับ { -brand-short-name } แค่ไหน?
-onboarding-new-user-survey-subtitle = คำติชมของคุณช่วยทำให้ { -brand-short-name } ดียิ่งขึ้นไปอีก
+onboarding-new-user-survey-subtitle = ข้อเสนอแนะของคุณช่วยทำให้ { -brand-short-name } ดียิ่งขึ้นไปอีก
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = ถัดไป
 onboarding-new-user-survey-legal-link-label = การเลือก “{ onboarding-new-user-survey-next-button-label }” แสดงว่าคุณยอมรับ<a data-l10n-name="privacy_notice">ประกาศความเป็นส่วนตัว</a>ของ { -brand-product-name }

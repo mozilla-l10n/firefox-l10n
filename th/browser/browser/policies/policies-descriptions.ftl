@@ -40,7 +40,7 @@ policy-DisableBuiltinPDFViewer = ปิดใช้งาน PDF.js ตัวด
 policy-DisableDefaultBrowserAgent = ป้องกันไม่ให้ตัวแทนเบราว์เซอร์เริ่มต้นทำงานใด ๆ ใช้ได้กับ Windows เท่านั้น เนื่องจากแพลตฟอร์มอื่น ๆ ไม่มีตัวแทน
 policy-DisableDeveloperTools = ปิดกั้นการเข้าถึงเครื่องมือนักพัฒนา
 policy-DisableEncryptedClientHello = ปิดใช้คุณลักษณะ Encrypted Client Hello (ECH) ของ TLS
-policy-DisableFeedbackCommands = ปิดใช้งานคำสั่งสำหรับส่งความคิดเห็นจากเมนู วิธีใช้ (ส่งความคิดเห็นและรายงานไซต์หลอกลวง)
+policy-DisableFeedbackCommands = ปิดใช้งานคำสั่งสำหรับส่งข้อเสนอแนะจากเมนู วิธีใช้ (ส่งข้อเสนอแนะและรายงานไซต์หลอกลวง)
 policy-DisableFirefoxAccounts = ปิดใช้งานบริการที่ใช้ { -fxaccount-brand-name } รวมถึง Sync ด้วย
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = ปิดใช้บริการที่ใช้บัญชี รวมถึงการซิงค์
@@ -126,7 +126,7 @@ policy-RequestedLocales = ตั้งค่ารายการรูปแบ
 policy-SanitizeOnShutdown2 = ล้างข้อมูลการนำทางเมื่อปิดเครื่อง
 policy-SearchBar = ตั้งค่าตำแหน่งที่ตั้งเริ่มต้นของแถบค้นหา โดยที่ผู้ใช้ยังคงสามารถปรับแต่งได้
 policy-SearchEngines = กำหนดค่าการตั้งค่าเครื่องมือค้นหา นโยบายนี้ใช้ได้บนรุ่น Extended Support Release (ESR) เท่านั้น
-policy-SearchSuggestEnabled = เปิดใช้งานหรือปิดใช้งานข้อเสนอแนะการค้นหา
+policy-SearchSuggestEnabled = เปิดใช้งานหรือปิดใช้งานคำแนะนำการค้นหา
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = เพิ่มหรือลบโมดูล PKCS #11
 policy-ShowHomeButton = แสดงปุ่มหน้าแรกบนแถบเครื่องมือ
