@@ -695,7 +695,7 @@ search-show-suggestions-url-bar-option =
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar.
 search-show-search-term-option-2 =
-    .label = Sonuç sayfalarında adres çubuğunda arama terimlerini göster
+    .label = Sonuç sayfalarındayken adres çubuğunda arama terimlerini göster
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

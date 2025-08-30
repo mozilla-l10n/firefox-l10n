@@ -39,6 +39,12 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = แก้ไข
 avatar-selector-icon-tab = ไอคอน
 avatar-selector-custom-tab = กำหนดเอง
+avatar-selector-cancel-button =
+    .label = ยกเลิก
+avatar-selector-save-button =
+    .label = บันทึก
+avatar-selector-upload-file = อัปโหลดไฟล์
+avatar-selector-drag-file = หรือลากไฟล์มาที่นี่
 edit-profile-page-no-name = ตั้งชื่อให้กับโปรไฟล์นี้เพื่อช่วยให้คุณหาพบได้สะดวกขึ้น โดยสามารถเปลี่ยนชื่อได้ตลอดเวลา
 edit-profile-page-duplicate-name = ชื่อโปรไฟล์นี้ถูกใช้ไปแล้ว โปรดลองใช้ชื่อใหม่
 edit-profile-page-profile-saved = บันทึกแล้ว
@@ -101,6 +107,10 @@ profiles-ocean-theme-2 = ฟ้าน้ำทะเล
 profiles-terracotta-theme-2 = แดงอิฐ
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = เขียวมอส
+profiles-gray-theme = เทา
+profiles-yellow-theme = เหลือง
+profiles-orange-theme = ส้ม
+profiles-pink-theme = ชมพู
 
 ## Alternative text for default profile icons
 
@@ -108,6 +118,12 @@ book-avatar-alt =
     .alt = หนังสือ
 briefcase-avatar-alt =
     .alt = กระเป๋าเอกสาร
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = ผืนผ้าใบ
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = งานฝีมือ
 flower-avatar-alt =
     .alt = ดอกไม้
 heart-avatar-alt =

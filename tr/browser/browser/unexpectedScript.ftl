@@ -15,6 +15,12 @@ unexpected-script-load-message-button-block =
     .label = Engelle
     .accesskey = E
 unexpected-script-load-title = Beklenmeyen betik yüklemesi
+unexpected-script-load-detail-1-allow = { -brand-short-name }, aşağıdaki betik de dahil olmak üzere, beklenmeyen ayrıcalıklı betiklerin yüklenmesine <strong>İZİN VERECEKTİR</strong>. Bu işlem { -brand-short-name } kurulumunuzu <strong>daha az</strong> güvenli hale getirir.
+unexpected-script-load-detail-1-block = { -brand-short-name }, aşağıdaki betik de dahil olmak üzere, beklenmeyen ayrıcalıklı betiklerin yüklenmesini <strong>ENGELLEYECEKTİR</strong>. Bu işlem { -brand-short-name } kurulumunuzu <strong>daha</strong> güvenli hale getirir.
+# In this text "the functionality" refers to whatever the unexpected script is doing.
+# Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
+# They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
+unexpected-script-load-detail-2 = Bu betiğe izin verseniz bile betiğin nasıl ve neden yüklendiğini anlamamız için betiği lütfen { -vendor-short-name }’ya bildirin. <em>Bu bilgiler elimizde olmazsa gelecekte bu betiğin işlevleri bozulabilir.</em>
 unexpected-script-load-report-checkbox =
     .label = Bu betiğin adresini { -vendor-short-name }’ya rapor et
 unexpected-script-load-email-checkbox =
