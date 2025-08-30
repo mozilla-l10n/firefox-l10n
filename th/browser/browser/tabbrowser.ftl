@@ -227,6 +227,8 @@ tab-group-editor-color-selector2-gray = สีเทา
 tab-group-editor-color-selector2-red = สีแดง
     .title = สีแดง
 tab-group-description = { $tabGroupName } — กลุ่มแท็บ
+tab-group-label-tooltip-collapsed = { $tabGroupName } — ยุบอยู่
+tab-group-label-tooltip-expanded = { $tabGroupName } — ขยายอยู่
 tab-context-unnamed-group =
     .label = กลุ่มที่ไม่มีชื่อ
 tab-group-name-default = กลุ่มที่ไม่มีชื่อ
@@ -273,6 +275,16 @@ tab-context-ungroup-tab =
            *[other] เอาออกจากกลุ่ม
         }
     .accesskey = อ
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] อีก { $tabCount } แท็บ
+       *[other] อีก { $tabCount } แท็บ
+    }
 
 ## Open/saved tab group context menu
 

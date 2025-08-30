@@ -228,5 +228,7 @@ custom-avatar-crop-view =
     .aria-label = มุมมองครอบตัดภาพ
 custom-avatar-crop-area =
     .aria-label = ปรับพื้นที่ครอบตัด
+custom-avatar-drag-handle =
+    .aria-label = ปรับขนาดพื้นที่ครอบตัด
 barbell-avatar = บาร์เบล
 bike-avatar = จักรยาน
