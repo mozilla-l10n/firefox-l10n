@@ -181,7 +181,7 @@ permissions-site-localhost-disable-desc = Αυτό θα σταματήσει τ�
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Ρυθμίσεις - Συσκευές Τοπικού Δικτύου
+    .title = Ρυθμίσεις - Συσκευές τοπικού δικτύου
     .style = { permissions-window2.style }
 permissions-site-local-network-desc = Αυτοί οι ιστότοποι έχουν ζητήσει πρόσβαση σε εφαρμογές και υπηρεσίες συσκευών συνδεδεμένων στο Wi-Fi ή στο τοπικό δίκτυο. Μπορείτε να επιλέξετε να επιτρέψετε ή να αποκλείσετε την πρόσβαση σε ιστοτόπους.
 permissions-site-local-network-disable-label =
