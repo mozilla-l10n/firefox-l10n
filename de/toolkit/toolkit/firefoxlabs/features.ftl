@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Anzeige von Webseiten
 experimental-features-group-customize-browsing =
     .label = Passen Sie Ihr Surfen an
+experimental-features-group-productivity =
+    .label = Produktivität
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Passwörter in der Sidebar
@@ -56,3 +58,10 @@ experimental-features-fx-web-apps =
     .label = Websites zur Taskleiste hinzufügen
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Öffnen Sie Websites, die Sie häufig besuchen, als Web-App aus Ihrer Taskleiste. Suchen Sie nach dem Symbol "Tab zur Taskleiste hinzufügen" rechts von der Adressleiste, um die Website in einem optimierten Fenster und mit allen Schutzmaßnahmen von { -brand-product-name } zu öffnen. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Listen auf { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Behalten Sie Ihre Aufgabenliste im Auge, wenn Sie neue Tabs öffnen. Von Packlisten bis hin zu Einkaufslisten: Machen Sie ihre Pläne in { -brand-product-name }. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>

@@ -368,6 +368,9 @@ windows-10-eos-sync-toast-secondary-label = Später erinnern
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-sync-callout-subtitle = Wenn Sie Backups ihrer Lesezeichen und Passwörter von { -brand-product-name } erstellen, ist es einfacher, den Browser ihrer Wahl auf ein anderes Gerät zu bringen.
+windows-10-eos-challenger-pin-callout-subtitle = Heften Sie { -brand-shorter-name } an die Taskleiste an, damit Sie den Browser ihrer Wahl immer zur Hand haben, wenn Sie ihn brauchen.
+windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } sichern
+windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } anheften
 windows-10-eos-sync-callout-privacy-screen-2-title = Sichern Sie Ihre Passwörter und Lesezeichen für Ihr nächstes Gerät.
 windows-10-eos-sync-callout-privacy-info-button = Sehen Sie, was geblockt wird
 windows-10-eos-sync-callout-next-button = Weiter

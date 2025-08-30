@@ -140,6 +140,35 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Um ein Leistungsprofil aufzuzeichnen und alle aufgezeichneten Messwerte anzusehen, verwenden Sie bitte den
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategorie
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Name
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Typ
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Wert
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Aktionen
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filter
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Dies filtert die folgende Tabelle nach Kategorie, Name, Typ und Wert (wenn der Wert ein einfacher Typ ist).
+about-glean-button-load-all = Alle Werte laden
+about-glean-button-load-value = Laden
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumentation
+about-glean-button-watch = Beobachten
+# Meaning "to stop watching"
+about-glean-button-unwatch = Nicht beobachten
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Beschriftete Metriken werden in der <code>about:glean</code>-Ansicht noch nicht unterstützt.
+about-glean-unknown-metric-type-warning = Unbekannter Messwerttyp.
 about-glean-about-data-explanation =
     Um die Liste der gesammelten Daten zu durchsuchen, können Sie das
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-Wörterbuch</a> lesen.
