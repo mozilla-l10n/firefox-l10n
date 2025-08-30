@@ -552,7 +552,7 @@ browser-tab-audio-muted2 = ปิดเสียงอยู่
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = การเล่นอัตโนมัติถูกปิดกั้น
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ภาพที่เล่นควบคู่
+browser-tab-audio-pip = ภาพซ้อนภาพ
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -970,8 +970,8 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = เปิดการแสดงภาพซ้อนภาพ ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = ปิดการแสดงภาพซ้อนภาพ ({ $shortcut })
-picture-in-picture-panel-header = ภาพที่เล่นควบคู่
-picture-in-picture-panel-headline = เว็บไซต์นี้ไม่แนะนำภาพที่เล่นควบคู่
+picture-in-picture-panel-header = ภาพซ้อนภาพ
+picture-in-picture-panel-headline = เว็บไซต์นี้ไม่แนะนำภาพซ้อนภาพ
 picture-in-picture-panel-body = วิดีโออาจไม่แสดงตามที่นักพัฒนาคาดไว้ในขณะที่เปิดใช้งานการแสดงภาพซ้อนภาพ
 picture-in-picture-enable-toggle =
     .label = เปิดใช้งานต่อไป
@@ -1163,18 +1163,18 @@ edit-popup-settings =
     .label = จัดการการตั้งค่าป๊อปอัป…
     .accesskey = จ
 picture-in-picture-hide-toggle =
-    .label = ซ่อนสลับภาพที่เล่นควบคู่
+    .label = ซ่อนสลับภาพซ้อนภาพ
     .accesskey = อ
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
 picture-in-picture-move-toggle-right =
-    .label = เลื่อนภาพที่เล่นควบคู่สลับไปทางด้านขวา
-    .accesskey = R
+    .label = เลื่อนภาพซ้อนภาพสลับไปทางด้านขวา
+    .accesskey = ว
 picture-in-picture-move-toggle-left =
-    .label = เลื่อนภาพที่เล่นควบคู่สลับไปทางด้านซ้าย
-    .accesskey = L
+    .label = เลื่อนภาพซ้อนภาพสลับไปทางด้านซ้าย
+    .accesskey = ย
 
 ##
 

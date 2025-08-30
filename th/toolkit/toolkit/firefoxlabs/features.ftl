@@ -13,23 +13,23 @@ experimental-features-js-warp =
 experimental-features-js-warp-description = เปิดใช้งาน Warp โครงการที่จะปรับปรุงประสิทธิภาพของ JavaScript และการใช้หน่วยความจำ
 # Search during IME
 experimental-features-ime-search =
-    .label = แถบที่อยู่: แสดงผลลัพธ์ระหว่างการแปลงตัวอักษรของ IME
+    .label = แถบที่อยู่: แสดงผลลัพธ์ระหว่างการใช้งาน IME
 experimental-features-ime-search-description = IME (Input Method Editor) คือเครื่องมือที่ช่วยให้คุณป้อนสัญลักษณ์ที่ซับซ้อน เช่น สัญลักษณ์ที่ใช้ในภาษาเขียนในเอเชียตะวันออกหรืออินเดีย โดยใช้แป้นพิมพ์มาตรฐาน การเปิดใช้งานคุณลักษณะทดลองนี้จะทำให้แผงแถบที่อยู่เปิดตลอด แสดงผลลัพธ์การค้นหาและคำแนะนำ ในขณะที่ใช้ IME เพื่อป้อนข้อความ โปรดทราบว่า IME อาจแสดงแผงขึ้นมาบังผลลัพธ์ของแถบที่อยู่ ดังนั้นจึงแนะนำให้ใช้ค่าปรับแต่งนี้สำหรับ IME ที่ไม่ได้ใช้แผงแบบนี้เท่านั้น
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
-    .label = ภาพที่เล่นควบคู่: เปิดอัตโนมัติเมื่อสลับแท็บ
-experimental-features-auto-pip-description = เปิดใช้งานภาพที่เล่นควบคู่ในวิดีโอที่เล่นอยู่เมื่อสลับแท็บ
+    .label = ภาพซ้อนภาพ: เปิดอัตโนมัติเมื่อสลับแท็บ
+experimental-features-auto-pip-description = เปิดใช้งานภาพซ้อนภาพในวิดีโอที่เล่นอยู่เมื่อสลับแท็บ
 experimental-features-group-developer-tools =
     .label = เครื่องมือนักพัฒนา
 experimental-features-group-webpage-display =
-    .label = Webpage Display
+    .label = การแสดงหน้าเว็บ
 experimental-features-group-customize-browsing =
-    .label = ปรับแต่งการการท่องเว็บของคุณ
+    .label = ปรับแต่งการท่องเว็บของคุณ
 experimental-features-group-productivity =
     .label = ผลผลิต
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
-    .label = แสดงรหัสผ่านในแถบข้าง
+    .label = รหัสผ่านในแถบข้าง
 experimental-features-contextual-password-manager-description = เข้าถึงรหัสผ่านของคุณโดยตรงจากแถบข้างโดยไม่ต้องเสียเวลาค้นหาหรือตั้งรหัสผ่านใหม่อีกต่อไปเมื่อคุณพยายามลงชื่อเข้า เมื่อต้องการใช้คุณลักษณะนี้ ให้เลือกแสดงรหัสผ่านในแถบข้าง แล้วไปที่การตั้งค่าทั่วไปของคุณ และภายใต้หัวข้อเค้าโครงเบราว์เซอร์ ให้เลือกแสดงแถบข้าง แล้วปรับแต่งแถบข้างของคุณด้วยการเลือกรหัสผ่าน ถ้าคุณลองใช้งาน โปรด<a data-l10n-name="connect">บอกให้เราทราบว่าคุณคิดอย่างไรบ้าง</a>
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =

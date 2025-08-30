@@ -229,8 +229,8 @@ main-context-menu-media-video-leave-fullscreen =
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
-    .label = ดูในแบบภาพที่เล่นควบคู่
-    .accesskey = ค
+    .label = ดูในแบบภาพซ้อนภาพ
+    .accesskey = พ
 main-context-menu-image-reload =
     .label = โหลดภาพใหม่
     .accesskey = ห

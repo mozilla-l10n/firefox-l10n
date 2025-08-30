@@ -30,7 +30,7 @@ videocontrols-closed-caption-off =
     .offlabel = ปิด
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
-videocontrols-picture-in-picture-label = ภาพที่เล่นควบคู่
+videocontrols-picture-in-picture-label = ภาพซ้อนภาพ
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = เปิดหน้าต่างใหม่สำหรับวิดีโอนี้
@@ -44,7 +44,7 @@ videocontrols-error-decode = ไม่สามารถเล่นวิดี
 videocontrols-error-src-not-supported = ไม่สามารถเล่นวิดีโอรูปแบบนี้ หรือ MIME ชนิดนี้ได้
 videocontrols-error-no-source = ไม่พบวิดีโอที่อยู่ในรูปแบบหรือชนิดของ MIME ที่เล่นได้
 videocontrols-error-generic = การเล่นวิดีโอถูกยกเลิกเนื่องจากข้อผิดพลาดที่ไม่ระบุไม่ได้
-videocontrols-status-picture-in-picture = วิดีโอนี้กำลังเล่นในโหมดภาพที่เล่นควบคู่
+videocontrols-status-picture-in-picture = วิดีโอนี้กำลังเล่นในโหมดภาพซ้อนภาพ
 # This message shows the current position and total video duration
 #
 # Variables:
