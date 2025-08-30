@@ -49,3 +49,19 @@ experimental-features-link-previews-description-no-ai =
         [macos] เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับหน้าเว็บก่อนที่คุณจะคลิก ให้วางเมาส์แช่ที่ลิงก์แล้วกด Shift (⇧) พร้อม Option (⌥) หรือ Alt ภาพตัวอย่างอาจมีรายละเอียดต่างๆ เช่น ชื่อหน้าเว็บ และเวลาอ่าน <a data-l10n-name="connect">แบ่งปันข้อคิดเห็น</a>
        *[other] เมื่อต้องการเรียนรู้เพิ่มเติมเกี่ยวกับหน้าเว็บก่อนที่คุณจะคลิก ให้วางเมาส์แช่ที่ลิงก์แล้วกด Shift + Alt ภาพตัวอย่างอาจมีรายละเอียดต่างๆ เช่น ชื่อหน้าเว็บ และเวลาอ่าน <a data-l10n-name="connect">แบ่งปันข้อคิดเห็น</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = ส่วนหัวข้อและ “ติดตาม/ปิดกั้น” สำหรับ “เรื่องราวในแท็บใหม่”
+experimental-features-newtab-sections-follow-block-description = จัดแจงเรื่องราวบนหน้าแท็บใหม่ของคุณให้เป็นส่วนหัวข้อต่าง ๆ (กีฬา อาหาร บันเทิง และอื่น ๆ) สำหรับประสบการณ์ที่เป็นโครงสร้างและกวาดสายตาดูได้ง่ายดาย ใช้ตัวควบคุม “ติดตาม” และ “ปิดกั้น” โฉมใหม่ของเราเพื่อปรับแต่งเนื้อหาที่คุณเห็น <a data-l10n-name="connect">แบ่งปันข้อคิดเห็น</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = เพิ่มไซต์ลงในแถบงานของคุณ
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = เปิดไซต์ที่คุณเยี่ยมชมบ่อยเป็นเว็บแอปจากแถบงานของคุณ มองหาไอคอน “เพิ่มแท็บลงในแถบงาน” ที่อยู่ด้านขวาแถบที่อยู่เพื่อเปิดไซต์นั้นในหน้าต่างที่ปรับให้เหมาะสมพร้อมด้วยการป้องกันทั้งหมดของ { -brand-product-name } <a data-l10n-name="connect">แบ่งปันข้อคิดเห็น</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = รายการสิ่งที่ต้องทำบน { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = เปิดแท็บใหม่เมื่อไร ก็ให้รายการสิ่งที่ต้องทำอยู่บนสุดเสมอ ตั้งแต่รายการจัดของจนถึงรายการช็อปปิ้ง วางแผนทุกอย่างได้ง่าย ๆ ใน { -brand-product-name } <a data-l10n-name="connect">แบ่งปันข้อคิดเห็น</a>
