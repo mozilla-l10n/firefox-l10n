@@ -842,7 +842,7 @@ urlbar-result-dates-countdown-range = { $name } · จะเริ่มใน {
 # Variables:
 #   $name (string) - The name of the event.
 #   $daysUntilEnd (integer) - The number of days until the event ends.
-urlbar-result-dates-ongoing = { $name } · จะสิ้นสุดใน { $daysUntilStart } วัน
+urlbar-result-dates-ongoing = { $name } · จะสิ้นสุดใน { $daysUntilEnd } วัน
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
