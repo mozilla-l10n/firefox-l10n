@@ -259,6 +259,8 @@ link-preview-key-points-disclaimer = Stichpunkte werden KI-generiert und können
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Erstmalige Einrichtung • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Stichpunkte werden Ihnen beim nächsten Mal schneller angezeigt.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Vorschau ansehen
 # Onboarding card Close button

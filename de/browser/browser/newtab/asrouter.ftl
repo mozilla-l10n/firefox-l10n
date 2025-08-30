@@ -371,12 +371,22 @@ windows-10-eos-challenger-sync-callout-subtitle = Wenn Sie Backups ihrer Lesezei
 windows-10-eos-challenger-pin-callout-subtitle = Heften Sie { -brand-shorter-name } an die Taskleiste an, damit Sie den Browser ihrer Wahl immer zur Hand haben, wenn Sie ihn brauchen.
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } sichern
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } anheften
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blockiert Heimliche Digitalwährungsberechner (Krypto-Miner), Social-Media-Tracker und Identifizierer (Fingerprinter).
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Tracker können Ihr Gerät nicht identifizieren oder Sie durch das Internet verfolgen – weil wir das nicht zulassen.
 windows-10-eos-sync-callout-privacy-screen-2-title = Sichern Sie Ihre Passwörter und Lesezeichen für Ihr nächstes Gerät.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Wenn Sie { -brand-shorter-name } sichern, können Sie Ihre Daten- und Datenschutzeinstellungen einfach mitnehmen.
 windows-10-eos-sync-callout-privacy-info-button = Sehen Sie, was geblockt wird
+windows-10-eos-callout-addons-title = Add-ons ausprobieren: einfache Upgrades, große Auswirkungen
+windows-10-eos-callout-addons-subtitle = Diese Erweiterungen wurden ausgewählt, damit Sie produktiv, geschützt und ablenkungsfrei bleiben.
+windows-10-eos-callout-addons-primary-button = Sehen Sie sich unsere Auswahl an
+windows-10-eos-sync-callout-addons-title = Verlieren Sie Ihre Add-ons nicht, wenn Sie von Windows 10 aktualisieren.
+windows-10-eos-sync-callout-addons-subtitle = Synchronisieren Sie jetzt, damit Ihre { -brand-product-name }-Add-ons immer verfügbar sind, auch nach einem Gerätewechsel.
 windows-10-eos-sync-callout-next-button = Weiter
+windows-10-eos-sync-callout-get-started-button = Los geht's
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Hier sind vertikale Tabs und Tab-Gruppen!
 windows-10-eos-feature-toast-whats-new-button = Sehen Sie sich an, was es Neues gibt
 windows-10-eos-feature-toast-dismiss-button = Schließen
 
