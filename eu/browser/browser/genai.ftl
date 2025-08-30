@@ -47,6 +47,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Galdetu { $provider } hornitzaileari
+genai-menu-open-generic =
+    .label = Ireki AA txaterako bota
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Ireki { $provider }
 genai-menu-remove-generic =
     .label = Kendu AA txaterako bota
 # $provider (string) - name of the provider
@@ -55,6 +60,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Kendu alboko barratik
 genai-menu-new-badge = Berria
+genai-menu-summarize-page = Laburbildu orria
 genai-input-ask-generic =
     .placeholder = Galdetu AA txaterako botari…
 # $provider (string) - name of the provider
@@ -62,6 +68,18 @@ genai-input-ask-provider =
     .placeholder = Galdetu { $provider } hornitzaileari…
 genai-shortcuts-hide =
     .label = Ezkutatu txaterako botaren lasterbidea
+genai-menu-choose-chatbot =
+    .label = Aukeratu AA txaterako bota
+genai-menu-ask-generic-2 =
+    .label = Galdetu AA txaterako botari
+    .accesskey = G
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Galdetu { $provider } hornitzaileari
+    .accesskey = G
+genai-menu-no-provider-2 =
+    .label = Galdetu AA txaterako botari
+    .accesskey = G
 
 ## Chatbot header
 
@@ -85,6 +103,15 @@ genai-options-hide-shortcut =
     .label = Ezkutatu lasterbidea testua hautatzean
 genai-options-about-chatbot =
     .label = { -brand-short-name }(e)ko AA txaterako botei buruz
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Orria luzea denez, ez da laburpen osoa hau.
+
+## Chatbot footer
+
+genai-page-button-summarize = Laburbildu orria
 
 ## Chatbot onboarding
 
@@ -115,6 +142,8 @@ genai-onboarding-select-header = Hautatu testua gomendioak ikusteko
 genai-onboarding-select-description = Testua hautatzean, txaterako botari bidal diezazkiozun gonbitak gomendatuko dizkizugu. Zure gonbit propioak ere idatz ditzakezu.
 genai-onboarding-select-primary = Hasi txateatzen
 genai-chatbot-contextual-button = Aukeratu txaterako bota
+genai-chatbot-summarize-title = Berria Laburbildu orriak klik bakarrean
+genai-chatbot-summarize-button = Laburbildu orria
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

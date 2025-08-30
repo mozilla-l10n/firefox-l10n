@@ -737,6 +737,38 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Erakutsi gomendioak
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Une honetan ez
+urlbar-result-realtime-opt-in-dismiss = Baztertu
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Ez erakutsi gomendio hauek
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Ez erakutsi merkatuko gomendiorik
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Eskerrik asko zure iritziagatik. Hemendik aurrera ez duzu merkatuko gomendiorik ikusiko.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Eskerrik asko zure iritziagatik. Hemendik aurrera ez duzu horrelako gomendiorik ikusiko.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Gaur
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Gaur amaitzen da
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -763,11 +795,15 @@ urlbar-searchmode-actions =
     .label = Ekintzak
 urlbar-searchmode-exit-button =
     .tooltiptext = Itxi
+urlbar-searchmode-default =
+    .tooltiptext = Bilaketa-motor lehenetsia
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Oraingoan, bilatu honekin:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Bilaketa-ezarpenak
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Berria
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1095,6 +1131,10 @@ tabs-toolbar-list-all-tabs =
     .label = Zerrendatu fitxa guztiak
     .tooltiptext = Zerrendatu fitxa guztiak
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Jaregin fitxa hemen ainguratzeko
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1260,3 +1300,19 @@ onboarding-checklist-button-label = Amaitu konfigurazioa
 onboarding-aw-finish-setup-button =
     .label = Amaitu konfigurazioa
     .tooltiptext = Amaitu { -brand-short-name } konfiguratzen
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Jarraipenaren babes hobetua aktibatuta dago
+trustpanel-etp-label-disabled = Jarraipenaren babes hobetua desaktibatuta dago
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Jarraipenaren babes hobetua: aktibatuta { $host } ostalarirako
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Jarraipenaren babes hobetua: desaktibatuta { $host } ostalarirako
+trustpanel-etp-description-enabled = Zerbaitek apurtuta badirudi gune honetan, saiatu babesak desaktibatzen.
+trustpanel-connection-label-secure = Konexio segurua
+trustpanel-connection-label-insecure = Konexio ez-segurua

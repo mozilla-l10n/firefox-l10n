@@ -248,6 +248,10 @@ menu-profiles-manage-profiles =
     .label = Kudeatu profilak
 menu-profiles-new-profile =
     .label = Profil berria
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (unekoa)
 
 ## Tools Menu
 

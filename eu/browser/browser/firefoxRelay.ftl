@@ -22,6 +22,7 @@ firefox-relay-opt-in-title-1 = Babestu zure helbide elektronikoa:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Erabili { -relay-brand-name } posta-maskara
+firefox-relay-use-mask-title-1 = Erabili posta-maskara
 firefox-relay-use-mask-title = Erabili { -relay-brand-name } posta-maskara
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Erabili posta-maskara

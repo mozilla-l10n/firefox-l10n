@@ -112,6 +112,8 @@ contextual-manager-passwords-add-password-success-button = Ikusi
 contextual-manager-passwords-update-password-success-heading =
     .heading = Pasahitza gordeta
 contextual-manager-passwords-update-password-success-button = Eginda
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Erabiltzaile-izena gordeta
 contextual-manager-passwords-update-username-success-heading =
     .heading = Erabiltzaile-izena gordeta
 contextual-manager-passwords-delete-password-success-button = Eginda
@@ -124,6 +126,8 @@ contextual-manager-passwords-radiobutton-all = Guztiak ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Alertak ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Kendu pasahitza?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Ezin duzu hau desegin.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Atzera
 # This message confirms that the user wants to remove an existing login.
@@ -169,6 +173,28 @@ contextual-manager-check-icon-password =
     .alt = Kopiatuta
 contextual-manager-alert-icon =
     .alt = Abisua
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Bisitatu { $url }
+    .title = Bisitatu { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Bisitatu { $url } (abisua)
+    .title = Bisitatu { $url } (abisua)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopiatu { $username } erabiltzaile-izena
+    .title = Kopiatu { $username } erabiltzaile-izena
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopiatu { $username } erabiltzaile-izena (abisua)
+    .title = Kopiatu { $username } erabiltzaile-izena (abisua)
 contextual-manager-password-login-line =
     .aria-label = Kopiatu pasahitza
     .title = Kopiatu pasahitza
@@ -216,3 +242,4 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Zure aldaketak ez dira gordeko.
 contextual-manager-passwords-discard-changes-close-button = Itxi
 contextual-manager-passwords-discard-changes-go-back-button = Joan atzera
+contextual-manager-primary-password-learn-more-link = Argibide gehiago
