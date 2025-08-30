@@ -70,6 +70,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = Bu eleman parçalı olduğu için, yani içeriği birden fazla sütuna veya sayfaya bölünmüş olduğu için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-no-width-height = Bu elemanın genişliği ve yüksekliği ayarlanamadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
+inactive-css-no-principal-box = <strong>{ $property }</strong> bir ana kutu oluşturmadığı için bu eleman üzerinde etkisi yoktur.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

@@ -24,3 +24,4 @@ unexpected-script-load-email-textbox =
     .aria-label = E-posta adresinizi yazın
 unexpected-script-load-more-info = Daha fazla bilgi alın
 unexpected-script-load-learn-more = Daha fazla bilgi alın
+unexpected-script-load-telemetry-disabled = Ayarlarda telemetri devre dışı bırakıldığı için raporlama devre dışı bırakılmıştır. Rapor göndermek için telemetriyi etkinleştirin.
