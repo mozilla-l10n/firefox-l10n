@@ -373,6 +373,7 @@ windows-10-eos-challenger-sync-primary-button = Αντίγραφο ασφαλε�
 windows-10-eos-challenger-pin-primary-button = Καρφίτσωμα του { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = Το { -brand-product-name } αποκλείει cryptominer, ιχνηλάτες μέσων κοινωνικής δικτύωσης και fingerprinter.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Οι ιχνηλάτες δεν μπορούν να αναγνωρίσουν τη συσκευή σας ή να σας ακολουθήσουν στο διαδίκτυο, επειδή δεν τους επιτρέπεται.
+windows-10-eos-sync-callout-privacy-screen-2-title = Προστατέψτε τους κωδικούς πρόσβασης και τους σελιδοδείκτες σας για την επόμενη συσκευή σας.
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Με τη δημιουργία αντιγράφων ασφαλείας του { -brand-shorter-name }, μπορείτε να έχετε μαζί σας εύκολα τις ρυθμίσεις δεδομένων και απορρήτου.
 windows-10-eos-sync-callout-privacy-info-button = Δείτε τι αποκλείεται
 windows-10-eos-callout-addons-title = Δοκιμάστε πρόσθετα: απλές αναβαθμίσεις, μεγάλες επιπτώσεις

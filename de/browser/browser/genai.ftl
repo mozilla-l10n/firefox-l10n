@@ -228,6 +228,8 @@ link-preview-reading-time =
 link-preview-error-message = Die Vorschau dieses Links kann nicht angezeigt werden
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Link besuchen
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Wir können keine Stichpunkte für diese Webseite erzeugen.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Irgendetwas ist schiefgegangen.
 # Text for the retry link when generation fails
@@ -235,8 +237,28 @@ link-preview-generation-retry = Erneut versuchen
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Einstellungen für die Link-Vorschau
+link-preview-settings-enable =
+    .label = Link-Vorschau aktivieren
+    .description = Sehen Sie den Seitentitel, die Beschreibung und mehr, wenn Sie die Tastenkombination verwenden oder mit der rechten Maustaste auf einen Link klicken.
+link-preview-settings-key-points =
+    .label = Der KI erlauben, den Anfang der Seite zu lesen und Stichpunkte daraus zu generieren
+link-preview-settings-long-press =
+    .label = Verknüpfung: Klicken und halten Sie den Link 1 Sekunde lang (lang drücken)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Mehr sehen mit KI?
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = { -brand-short-name } verwendet KI, um den Anfang der Seite zu lesen und ein paar Stichpunkte zu generieren. Um den Schutz Ihrer Daten zu gewährleisten, erfolgt dies auf Ihrem Gerät.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Neu: Klicken Sie auf einen Link und halten Sie ihn gedrückt, um eine Vorschau anzuzeigen
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Sehen Sie sich eine kurze Beschreibung, die Lesezeit und mehr an, um zu entscheiden, ob der Link geöffnet wird. Auch verfügbar mit Rechtsklick.
+# Header for the key points section
+link-preview-key-points-header = Stichpunkte
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Stichpunkte werden KI-generiert und können Fehler enthalten.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Erstmalige Einrichtung • <strong>{ $progress }%</strong>
 # Onboarding card See a preview button
 link-preview-onboarding-button = Vorschau ansehen
 # Onboarding card Close button

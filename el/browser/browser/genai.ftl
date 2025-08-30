@@ -224,6 +224,8 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message = Δεν είναι δυνατή η προεπισκόπηση αυτού του συνδέσμου
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Δεν ήταν δυνατή η δημιουργία των κύριων σημείων για αυτήν την ιστοσελίδα.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Κάτι πήγε στραβά.
 # Text for the retry link when generation fails

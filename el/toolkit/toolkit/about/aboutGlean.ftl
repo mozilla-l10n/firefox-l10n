@@ -153,6 +153,13 @@ about-glean-metrics-table-header-value = Τιμή
 about-glean-metrics-table-header-actions = Ενέργειες
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Φίλτρο
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Αυτό θα φιλτράρει τον παρακάτω πίνακα βάσει κατηγορίας, ονόματος, τύπου και τιμής (αν η τιμή είναι απλός τύπος).
 about-glean-button-load-all = Φόρτωση όλων των τιμών
 about-glean-button-load-value = Φόρτωση
 # "Docs" is shorthand for "documentation"
