@@ -600,6 +600,18 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Cumpletadas ({ $number })
+newtab-widget-task-list-menu-copy = Còpia
+newtab-widget-lists-menu-edit = Modifica su nòmine de sa lista
+newtab-widget-lists-menu-create = Crea una lista noa
+newtab-widget-lists-menu-delete = Cantzella custa lista
+newtab-widget-lists-menu-copy = Còpia sa lista in punta de billete
+newtab-widget-lists-menu-hide = Cua totu is listas
+newtab-widget-lists-menu-learn-more = Àteras informatziones
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Agiunghe un’elementu
+newtab-widget-lists-input-error = Include testu pro agiùnghere un’elementu.
+newtab-widget-lists-input-menu-open-link = Aberi su ligòngiu
+newtab-widget-lists-input-menu-move-up = Move in artu
 newtab-widget-lists-input-menu-edit = Modifica
 newtab-widget-lists-name-label-default =
     .label = Lista de tareas

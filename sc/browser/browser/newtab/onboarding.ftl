@@ -430,6 +430,15 @@ onboarding-checklist-sign-up = Registra·ti o identìfica·ti cun su profilu tuo
 
 ## Tab Groups feature onboarding strings
 
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Agata is grupos de ischedas in cale si siat momentu dae su menù Elenca totu is ischedas
+tab-groups-onboarding-create-group-title-2 = Agata is grupos de ischedas inoghe cando ti serbant.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Agata is grupos chirchende·ddos in sa barra de indiritzos.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Cando as a serrare unu grupu de ischedas, dd’as a pòdere torrare a abèrrere in cale si siat momentu dae su menù Elenca totu is ischedas.
+tab-groups-onboarding-saved-groups-title-2 = Cando as a serrare unu grupu de ischedas, dd’as a pòdere torrare a abèrrere dae inoghe in cale si siat momentu.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Torra a abèrrere is grupos de ischedas in cale si siat momentu dae su menù Elenca totu is ischedas
 tab-groups-onboarding-session-restore-title = Torra a abèrrere grupos de ischedas inoghe cando ti serbat.
 tab-groups-onboarding-dismiss = Andat bene
 

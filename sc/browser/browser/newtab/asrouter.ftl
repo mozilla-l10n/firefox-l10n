@@ -69,6 +69,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Butone Serra
     .title = Serra
 fxa-adoption-addresses-backup-title = Immoe amus a fàghere una còpia de seguresa de is indiritzos sarvados
+fxa-adoption-addresses-backup-subtitle = Ampara is indiritzos sarvados cun una sincronizatzione tzifrada intre dispositivos.
 fxa-adoption-credit-cards-backup-title = Immoe amus a fàghere una còpia de seguresa de is mètodos de pagamentu
 fxa-adoption-credit-cards-backup-subtitle = Ampara is mètodos de pagamentu tuos cun una sincronizatzione tzifrada intre dispositivos.
 fxa-adoption-primary-button-label = Registra·ti
@@ -318,8 +319,10 @@ fxa-menu-message-close-button =
     .aria-label = Serra
 fxa-menu-message-sign-up-button = Registra·ti
 fxa-menu-message-sign-in-button = Identìfica·ti
+fxa-menu-message-sync-button = Avia sa sincronizatzione
 fxa-menu-message-sync-devices-primary-text = Sincroniza totu is dispositivos tuos
 fxa-menu-message-sync-devices-secondary-text = Atzede deretu a totu is datos tuos, comente sinnalibros e craes, in onni logu cun { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Atzede deretu a totu is sinnalibros, is craes e àteru, dae totu is dispositivos in ue as fatu s’identificatzione cun { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincroniza totu is dispositivos tuos
 fxa-menu-message-backup-data-primary-text = Faghe una còpia de seguresa de is datos de navigatzione tuos
 fxa-menu-message-backup-data-secondary-text = Ampara in automàticu is sinnalibros, is craes e àteras informatziones in totu is dispositivos tuos.
@@ -344,3 +347,44 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Cumintza a navigare
 multi-cta-fox-doodle-main-browser-primary-button-label = Faghe de { -brand-short-name } su navigadore predefinidu
 multi-cta-fox-doodle-quick-reminder-subtitle = Un’apuntu a su bolu: podes portare su navigadore tuo preferidu e rispetosu de sa riservadesa semper acanta.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Depes atualizare dae Windows 10 de immoe a pagu?
+windows-10-eos-sync-spotlight-subtitle = Faghe una còpia de seguresa de is craes e de is sinnalibros in preparatzione pro brincare a cale si siat dispositivu.
+windows-10-eos-sync-spotlight-primary-label = Faghe una còpia de seguresa de { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Ses atualizende a Windows 11? Non perdas is sinnalibros e is craes.
+windows-10-eos-sync-toast-subtitle = Faghe una còpia de seguresa de is datos tuos in manera chi { -brand-short-name } siat prontu in cale si siat momentu, in custu elaboradore o in cussu imbeniente.
+windows-10-eos-sync-toast-primary-label = Cumintza
+windows-10-eos-sync-toast-secondary-label = Regorda·mi·ddu prus tardu
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-primary-button = Faghe una còpia de seguresa de { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Apica { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blocat is cripto-minadores, is sighiduras de retes sotziales e is generadores de imprentas digitales.
+windows-10-eos-sync-callout-privacy-screen-2-title = Pone is craes e is sinnalibros in seguresa pro su dispositivu imbeniente.
+windows-10-eos-callout-addons-primary-button = Càstia sa seletzione nostra
+windows-10-eos-sync-callout-addons-title = Non perdas is cumplementos tuos durante s’atualizatzione dae Windows 10.
+windows-10-eos-sync-callout-next-button = Imbeniente
+windows-10-eos-sync-callout-get-started-button = Cumintza
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Is ischedas verticales e is grupos de ischedas sunt inoghe!
+windows-10-eos-feature-toast-whats-new-button = Bide is novidades
+windows-10-eos-feature-toast-dismiss-button = Iscarta
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Àteras informatziones
+etp-strict-exceptions-infobar-button = Àplica is curretziones
+    .accesskey = A

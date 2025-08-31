@@ -223,3 +223,7 @@ link-preview-reading-time =
 link-preview-error-message = Non faghet a ammustrare una previsualizatzione de custu ligòngiu
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Bìsita su ligòngiu
+# Onboarding card See a preview button
+link-preview-onboarding-button = Ammustra una previsualizatzione
+# Onboarding card Close button
+link-preview-onboarding-close = Serra
