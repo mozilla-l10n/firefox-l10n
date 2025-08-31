@@ -259,6 +259,8 @@ tab-group-editor-color-selector2-gray = Grátt
 tab-group-editor-color-selector2-red = Rautt
     .title = Rautt
 tab-group-description = { $tabGroupName } - flipahópur
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Fellt saman
+tab-group-label-tooltip-expanded = { $tabGroupName } — Útflett
 tab-context-unnamed-group =
     .label = Ónefndur hópur
 tab-group-name-default = Ónefndur hópur
@@ -281,6 +283,8 @@ tab-context-move-tab-to-group =
            *[other] Bæta flipum við hóp
         }
     .accesskey = h
+tab-context-move-tab-to-group-saved-groups =
+    .label = Lokaðir hópar
 tab-group-editor-action-new-tab =
     .label = Nýr flipi í hópnum
 tab-group-editor-action-new-window =
@@ -306,6 +310,16 @@ tab-context-ungroup-tab =
            *[other] Fjarlægja úr hópum
         }
     .accesskey = r
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } flipi í viðbót
+       *[other] { $tabCount } flipar í viðbót
+    }
 
 ## Open/saved tab group context menu
 

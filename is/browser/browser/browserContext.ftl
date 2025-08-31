@@ -270,6 +270,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Lýsing á yfirliti
     .accesskey = y
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Leita að mynd með { $engine }
 main-context-menu-video-save-as =
     .label = Vista myndband sem…
     .accesskey = V

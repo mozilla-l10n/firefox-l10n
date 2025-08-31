@@ -11,6 +11,7 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Bæta flipa á verkefnastiku
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Fjarlægja flipa af verkefnastiku
+taskbar-tab-urlbar-button-show = Sýna aðgerð á síðu vefforrits
 taskbar-tab-urlbar-button-hide = Fela aðgerð á síðu vefforrits
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
