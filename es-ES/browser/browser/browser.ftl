@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Abrir panel de mensajes
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Abrir panel de solicitud de ubicación
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Administrar el acceso al dispositivo local para este sitio
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Administrar compartir el acceso a la red local con este sitio
 urlbar-xr-notification-anchor =
     .tooltiptext = Abrir el panel de permisos de realidad virtual
 urlbar-storage-access-anchor =
@@ -207,6 +211,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Mostrar con menos frecuencia
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = No mostrar sugerencias meteorológicas
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Abrir menú
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Gracias por su opinión
@@ -238,6 +245,10 @@ urlbar-search-mode-actions = Acciones
 
 urlbar-geolocation-blocked =
     .tooltiptext = Ha bloqueado la información de ubicación para este sitio web.
+urlbar-localhost-blocked =
+    .tooltiptext = Ha bloqueado las conexiones a dispositivos locales para este sitio web.
+urlbar-local-network-blocked =
+    .tooltiptext = Ha bloqueado las conexiones de red local para este sitio web.
 urlbar-xr-blocked =
     .tooltiptext = Ha bloqueado el acceso de dispositivos de realidad virtual para este sitio web.
 urlbar-web-notifications-blocked =
@@ -363,6 +374,7 @@ quickactions-downloads2 = Ver descargas
 quickactions-cmd-downloads = descargas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestionar extensiones
+quickactions-cmd-extensions2 = extensiones, complementos
 quickactions-cmd-extensions = extensiones
 # Opens Firefox View
 quickactions-firefoxview = Abrir { -firefoxview-brand-name }
@@ -791,6 +803,72 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Obtenga datos del mercado de valores directamente en la barra de búsqueda
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Comparta los datos de la búsqueda con { -vendor-short-name } y obtenga información actualizada sobre el mercado y más datos de nuestros socios. <a data-l10n-name="learn-more-link">Saber más</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Mostrar sugerencias
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ahora no
+urlbar-result-realtime-opt-in-dismiss = Descartar
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = No mostrar estas sugerencias
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = No mostrar sugerencias de mercados
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Gracias por su opinión. Ya no verá sugerencias de mercados.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Gracias por su opinión. Ya no verá estas sugerencias.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · En { $daysUntilStart } días
+       *[other] { $name } · En { $daysUntilStart } días
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Empieza en { $daysUntilStart } días
+       *[other] { $name } · Empieza en { $daysUntilStart } días
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Termina en { $daysUntilEnd } días
+       *[other] { $name } · Termina en { $daysUntilEnd } días
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Hoy
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Termina hoy
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -824,6 +902,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Esta vez buscar con:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Ajustes de búsqueda
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nuevo
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1151,6 +1231,10 @@ tabs-toolbar-list-all-tabs =
     .label = Mostrar todas las pestañas
     .tooltiptext = Mostrar todas las pestañas
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Soltar la pestaña aquí para pegar
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1321,3 +1405,8 @@ onboarding-checklist-button-label = Finalizar la configuración
 onboarding-aw-finish-setup-button =
     .label = Finalizar la configuración
     .tooltiptext = Finalizar la configuración de { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Protección mejorada contra rastreo activada
+trustpanel-etp-label-disabled = Protección mejorada contra rastreo desactivada
