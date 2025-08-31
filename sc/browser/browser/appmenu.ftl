@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Majùsc+2
     }
+profiler-button-dropmarker =
+    .label = Aberi su pannellu de s’analizadore de rendimentu
+    .tooltiptext = Aberi su pannellu de s’analizadore de rendimentu
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Profilu pro compidare faddinas de àudio e vìdeu in { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Multimediale
+profiler-popup-presets-ml-description = Profilu pro compidare faddinas de aprendimentu automàticu in { -brand-shorter-name }.
+profiler-popup-presets-ml-label =
+    .label = Aprendimentu automàticu
 profiler-popup-presets-networking-description = Profilu pro compidare faddinas de rete in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rete

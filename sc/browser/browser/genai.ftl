@@ -93,6 +93,13 @@ genai-shortcuts-hide =
     .label = Curtzadòrgiu pro cuare su chatbot
 genai-menu-choose-chatbot =
     .label = Sèbera unu chatbot IA
+genai-menu-ask-generic-2 =
+    .label = Pregunta a su Chatbot IA
+    .accesskey = P
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Pregunta a { $provider }
+    .accesskey = P
 genai-menu-no-provider-2 =
     .label = Pregunta a unu chatbot IA
     .accesskey = P

@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Su cumplementu iscarrigadu dae custu situ non
 addon-install-error-file-access = { $addonName } non si podet installare ca { -brand-short-name } non podet modificare s'archìviu chi serbit.
 addon-install-error-not-signed = { -brand-short-name } at impedidu a custu situ de installare unu cumplementu no averiguadu.
 addon-install-error-invalid-domain = Su cumplementu { $addonName } non si podet installare dae custu indiritzu.
+addon-install-error-no-addon-name-file-access = Su cumplementu non podet èssere installadu ca { -brand-short-name } non podet modificare s’archìviu chi serbit.
 addon-local-install-error-network-failure = Custu cumplementu non si podet installare pro more de una faddina de su sistema de archìvios (filesystem).
 addon-local-install-error-incorrect-hash = Custu cumplementu non si podet installare ca non cointzidet cun su cumplementu chi { -brand-short-name } s'abetat.
 addon-local-install-error-corrupt-file = Custu cumplementu non si podet installare ca paret corrùmpidu.
 addon-local-install-error-file-access = { $addonName } non si podet installare ca { -brand-short-name } non podet modificare s'archìviu chi serbit.
 addon-local-install-error-not-signed = Custu cumplementu non si podet installare ca no est averiguadu.
+addon-local-install-no-addon-name-error-file-access = Su cumplementu non podet èssere installadu ca { -brand-short-name } non podet modificare s’archìviu chi serbit.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } non si podet installare ca no est cumpatìbile cun { -brand-short-name } { $appVersion }.

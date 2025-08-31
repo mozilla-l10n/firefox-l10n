@@ -601,6 +601,8 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Cumpletadas ({ $number })
 newtab-widget-lists-input-menu-edit = Modifica
+newtab-widget-lists-name-label-default =
+    .label = Lista de tareas
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista de tareas
 # The placeholder value of the name field for a newly created list
