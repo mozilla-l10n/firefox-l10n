@@ -238,8 +238,12 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Ενεργοποίηση προεπισκοπήσεων συνδέσμων
     .description = Δείτε τον τίτλο, την περιγραφή της σελίδας και πολλά άλλα όταν χρησιμοποιείτε τη συντόμευση ή κάνετε δεξί κλικ σε έναν σύνδεσμο.
+link-preview-settings-key-points =
+    .label = Να επιτρέπεται στην τεχνητή νοημοσύνη η ανάγνωση της αρχής της σελίδας και η δημιουργία κύριων σημείων
 link-preview-settings-long-press =
     .label = Συντόμευση: Κάντε κλικ παρατεταμένα στον σύνδεσμο για 1 δευτερόλεπτο (παρατεταμένο πάτημα)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Θέλετε να δείτε περισσότερα με την ΤΝ;
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = Το { -brand-short-name } χρησιμοποιεί τεχνητή νοημοσύνη για να διαβάσει την αρχή της σελίδας και να δημιουργήσει μερικά κύρια σημεία. Για την προστασία του απορρήτου σας, αυτό συμβαίνει στη συσκευή σας.
 # Onboarding card title for long press

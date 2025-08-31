@@ -253,6 +253,7 @@ tab-group-editor-color-selector2-gray = Gris
 tab-group-editor-color-selector2-red = Rojo
     .title = Rojo
 tab-group-description = { $tabGroupName } — Grupo de pestañas
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Contraído
 tab-context-unnamed-group =
     .label = Grupo sin nombre
 tab-group-name-default = Grupo sin nombre

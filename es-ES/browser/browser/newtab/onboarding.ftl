@@ -444,10 +444,16 @@ onboarding-checklist-sign-up = Registrarse o iniciar sesión en su cuenta
 
 tab-groups-onboarding-feature-callout-title = Pruebe los grupos de pestañas para tener menos desorden y mayor concentración
 tab-groups-onboarding-feature-callout-subtitle = Organícese arrastrando una pestaña encima de otra para crear su primer grupo.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Encuentre sus grupos de pestañas en el menú Listar todas las pestañas, en cualquier momento.
 tab-groups-onboarding-create-group-title-2 = Encuentre sus grupos de pestañas aquí en cualquier momento.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Encuentre sus grupos buscándolos en la barra de direcciones.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Cuando cierre un grupo de pestañas, vuelva a abrirlo desde el menú Listar todas las pestañas, en cualquier momento.
 tab-groups-onboarding-saved-groups-title-2 = Cuando cierre un grupo de pestañas, puede volver a abrirlo aquí en cualquier momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encuentre sus grupos cerrados buscándolos en la barra de direcciones.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Vuelva a abrir sus grupos de pestañas desde el menú Listar todas las pestañas, en cualquier momento.
 tab-groups-onboarding-session-restore-title = Vuelva a abrir sus grupos de pestañas aquí en cualquier momento.
 tab-groups-onboarding-dismiss = Aceptar
 

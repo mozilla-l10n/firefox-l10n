@@ -117,6 +117,10 @@ fxa-adoption-passwords-primary-button-label = Registrarse
 windows-10-eos-sync-urgency-title-2 = ¿Diciéndole adiós a Windows 10? Proteja sus datos al cambiar.
 windows-10-eos-sync-urgency-subtitle-2 = Incluso si no usa { -brand-short-name } a diario, use la sincronización para mantener los marcadores y contraseñas seguros y accesibles.
 windows-10-eos-sync-new-device-title-1 = No se arriesgue a empezar de nuevo en su próximo dispositivo.
+windows-10-eos-sync-new-device-subtitle-1 = Sincronice para llevar sus marcadores, contraseñas y configuraciones preferidas de { -brand-short-name } cuando cambie de dispositivo.
+windows-10-eos-sync-new-device-title-2 = ¿Cambia de dispositivo? No pierda lo importante.
+windows-10-eos-sync-new-device-subtitle-2 = No importa la frecuencia con la que use { -brand-short-name }, la sincronización protege sus marcadores, contraseñas y configuración.
+windows-10-eos-sync-new-device-primary-label = Sincronizar ahora
 
 ## Sidebar Strings
 
