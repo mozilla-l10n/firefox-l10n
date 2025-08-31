@@ -141,6 +141,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Opna skilaboðaflipa
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Opna staðsetningarbeiðnaflipa
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Stýrðu aðgangi staðbundinna tækja að þessu vefsvæði
 urlbar-xr-notification-anchor =
     .tooltiptext = Opnaðu heimildaspjald fyrir sýndarveruleika
 urlbar-storage-access-anchor =
@@ -366,6 +368,7 @@ quickactions-downloads2 = Skoða sóttar skrár
 quickactions-cmd-downloads = sóttar skrár
 # Opens about:addons page in the extensions section
 quickactions-extensions = Sýsla með forritsauka
+quickactions-cmd-extensions2 = forritsaukar, viðbætur
 quickactions-cmd-extensions = forritsaukar
 # Opens Firefox View
 quickactions-firefoxview = Opna { -firefoxview-brand-name }
@@ -412,6 +415,10 @@ quickactions-cmd-settings2 = stillingar, kjörstillingar, valkostir, sýsla með
 quickactions-cmd-settings = stillingar, kjörstillingar, valkostir
 # Opens about:addons page in the themes section
 quickactions-themes = Sýsla með þemu
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = þemu, forritsaukar, viðbætur
 quickactions-cmd-themes = þemu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uppfæra { -brand-short-name }
@@ -616,6 +623,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Leitaðu eða settu inn vistfang
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Settu inn vistfang
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1129,6 +1140,8 @@ navbar-accessible =
     .aria-label = Flakk
 navbar-downloads =
     .label = Niðurhal
+navbar-overflow-2 =
+    .tooltiptext = Fleiri verkfæri
 navbar-overflow =
     .tooltiptext = Fleiri verkfæri…
 # Variables:
@@ -1154,6 +1167,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Sýna alla flipa
     .tooltiptext = Sýna alla flipa
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Slepptu flipanum hér til að festa hann
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1322,9 +1339,23 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Ljúka uppsetningu
+onboarding-aw-finish-setup-button =
+    .label = Ljúka uppsetningu
+    .tooltiptext = Ljúka uppsetningu á { -brand-short-name }
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = Aukin rakningarvörn er virk
+trustpanel-etp-label-disabled = Aukin rakningarvörn er óvirk
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Aukin rakningarvörn: Virk fyrir { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Aukin rakningarvörn: Óvirk fyrir { $host }
+trustpanel-etp-description-enabled = Ef eitthvað virðist bilað á þessu vefsvæði, skaltu prófa að slökkva á vörnum.
 trustpanel-connection-label-secure = Tenging er örugg
 trustpanel-connection-label-insecure = Tenging er ekki örugg
 trustpanel-privacy-link = Persónuverndarstillingar
