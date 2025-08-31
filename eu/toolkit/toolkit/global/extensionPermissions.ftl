@@ -69,3 +69,7 @@ webext-perms-description-data-long-healthInfo = Hedapenaren garatzailearekin osa
 webext-perms-description-data-long-locationInfo = Hedapenaren garatzailearekin kokapen-informazioa partekatzea
 webext-perms-description-data-long-personalCommunications = Hedapenaren garatzailearekin komunikazio pertsonalak partekatzea
 webext-perms-description-data-long-personallyIdentifyingInfo = Hedapenaren garatzailearekin pertsonalki identifikatzeko informazioa partekatzea
+webext-perms-description-data-long-searchTerms = Hedapenaren garatzailearekin bilaketa-terminoak partekatzea
+webext-perms-description-data-long-technicalAndInteraction = Hedapenaren garatzailearekin informazioa tekniko eta interakziozkoa partekatzea
+webext-perms-description-data-long-websiteActivity = Hedapenaren garatzailearekin webguneetako jarduera partekatzea
+webext-perms-description-data-long-websiteContent = Hedapenaren garatzailearekin webguneetako edukia partekatzea
