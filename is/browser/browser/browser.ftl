@@ -1431,6 +1431,15 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] Lokað á <span>{ $count }</span> rekjara á þessu vefsvæði
+       *[other] Lokað á <span>{ $count }</span> rekjara á þessu vefsvæði
+    }
+trustpanel-blocker-description = { -brand-product-name } telur að fyrirtæki ættu að fylgjast minna með þér. Þess vegna lokum við á eins marga og auðið er.
+trustpanel-blocked-header = { -brand-product-name } lokaði á þetta fyrir þig:
+trustpanel-tracking-header = { -brand-product-name } leyfði þetta svo vefsvæði birtist rétt:
+trustpanel-tracking-description = Án rekjara gætu sumir hnappar, innfyllingaform og innskráningarreitir ekki virkað rétt.
 trustpanel-insecure-section-header = Tengingin þín er ekki örugg
 trustpanel-list-label-tracking-cookies =
     { $count ->
