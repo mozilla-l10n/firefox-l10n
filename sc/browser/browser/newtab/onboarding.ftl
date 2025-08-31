@@ -356,6 +356,8 @@ onboarding-mobile-download-security-and-privacy-subtitle = Cando cumpletas sa si
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } est acanta a tie
 onboarding-gratitude-security-and-privacy-subtitle = Gràtzias de impreare { -brand-short-name }, isvilupadu dae Mozilla Foundation. Cun su suportu tuo, traballamus pro fàghere Internet prus seguru e prus atzessìbile a totus.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sincroniza is datos intre dispositivos
 onboarding-sign-up-button = Registra·ti o identìfica·ti
 onboarding-sign-up-secondary-button = Cumintza a navigare
 

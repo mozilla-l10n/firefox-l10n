@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Nara a is sitos web de non bèndere nen cumpartzire is datos mios
     .accesskey = N
 non-technical-privacy-header = Preferèntzias de riservadesa de su situ
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Serra
+do-not-track-removal2 =
+    .label = Non suportamus prus su sinnale “non mi sigas”
 
 ## Browser Restart Dialog
 
