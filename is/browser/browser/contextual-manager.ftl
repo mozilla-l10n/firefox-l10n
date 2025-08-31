@@ -66,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Nýtt: { $added }, uppfært: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Nýtt: { $added }, Uppfært: { $modified }, Tvítök: { $no_change }, Villur: { $error }
 contextual-manager-passwords-import-detailed-report = Skoða ítarlega skýrslu
 contextual-manager-passwords-import-success-button = Lokið
 contextual-manager-passwords-import-error-heading-and-message =
@@ -157,6 +163,8 @@ contextual-manager-passwords-password-already-exists-error-button = Fara í lyki
 contextual-manager-passwords-update-password-success-heading =
     .heading = Lykilorð vistað
 contextual-manager-passwords-update-password-success-button = Lokið
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Notandanafn vistað
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Notandanafni bætt við
 contextual-manager-passwords-update-username-success-heading =
@@ -207,17 +215,21 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Bættu við notandanafni
     .message = Bættu við notandanafni til að eiga auðveldara með innskráningu.
 contextual-manager-passwords-add-username-button = Bæta við notandanafni
+contextual-manager-passwords-title = Lykilorð
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Bæta við lykilorði
+contextual-manager-passwords-update-label =
+    .label = Uppfæra lykilorð
 contextual-manager-passwords-edit-label =
     .label = Breyta lykilorði
 contextual-manager-passwords-remove-label =
     .title = Fjarlægja lykilorð
 contextual-manager-passwords-origin-tooltip = Sláðu inn nákvæma vistfangið þar sem þú skráir þig inn á þessa síðu.
 contextual-manager-passwords-username-tooltip = Settu inn notandanafn, tölvupóstfang eða númer reikningsins sem þú notar til að skrá þig inn.
+contextual-manager-passwords-password-tooltip-2 = Settu inn lykilorðið sem notað er til að skrá þig inn á þennan reikning.
 contextual-manager-passwords-password-tooltip = Sláðu inn lykilorðið sem notað er til að skrá þig inn á þennan reikning.
 
 ## Password Card
@@ -269,6 +281,24 @@ contextual-manager-view-alert-heading =
     .heading = Skoða aðvörun
 contextual-manager-view-alert-button =
     .tooltiptext = Yfirfara aðvörun
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Skoða aðvörun
+            [one] Skoða aðvörun
+           *[other] Skoða aðvaranir
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Yfirfara aðvörun
+            [one] Yfirfara aðvörun
+           *[other] Yfirfara aðvaranir
+        }
 contextual-manager-show-password-button =
     .aria-label = Birta lykilorð
     .title = Birta lykilorð
@@ -278,6 +308,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Engin lykilorð fundust
+contextual-manager-passwords-no-passwords-found-message-2 = Prófaðu annað orð og leitaðu aftur.
 contextual-manager-passwords-no-passwords-found-message = Engin lykilorð fundust. Leitaðu með öðru leitarorði og reyndu aftur.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -292,6 +323,8 @@ contextual-manager-passwords-no-passwords-message = Öll lykilorð eru dulrituð
 contextual-manager-passwords-no-passwords-get-started-message = Bættu þeim við hér til að byrja.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Bæta við handvirkt
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Vistaðu lykilorðin þín á öruggum stað
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
