@@ -143,6 +143,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Opna staðsetningarbeiðnaflipa
 urlbar-localhost-notification-anchor =
     .tooltiptext = Stýrðu aðgangi staðbundinna tækja að þessu vefsvæði
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Stýrðu deilingu á aðgangi að staðarneti þínu með þessu vefsvæði
 urlbar-xr-notification-anchor =
     .tooltiptext = Opnaðu heimildaspjald fyrir sýndarveruleika
 urlbar-storage-access-anchor =
@@ -804,11 +806,15 @@ urlbar-result-weather-provider-sponsored = { $provider }∙Kostað
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Fáðu upplýsingar um hlutabréfamarkaðinn beint í leitarstikuna þína
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Sýna tillögur
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Ekki núna
 urlbar-result-realtime-opt-in-dismiss = Afgreiða
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Ekki sýna þessar tillögur
 
 ## These strings are used for suggestions of important dates in the urlbar.
 

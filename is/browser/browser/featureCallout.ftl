@@ -95,6 +95,11 @@ perplexity-callout-primary-label = Spyrja Perplexity
 perplexity-callout-secondary-label-1 = Afgreiða
 perplexity-callout-secondary-label-2 = Náði því
 
+## Account Adoption Passwords callout strings
+
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Nýskrá
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = Samstilla núna
