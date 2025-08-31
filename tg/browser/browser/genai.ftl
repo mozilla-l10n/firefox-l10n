@@ -238,6 +238,12 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Фаъол кардани пешнамоиши пайвандҳо
     .description = Вақте ки шумо аз миёнбур истифода мебаред ё ба пайванд бо тугмаи рости муш зер мекунед, шумо метавонед сарлавҳаи саҳифа, тавсиф ва маълумоти дигареро бинед.
+link-preview-settings-key-points =
+    .label = Ба зеҳни сунъӣ «AI» иҷозат диҳед, то тавнад матни аввали саҳифаро хонад ва нуқтаҳои асосиро эҷод кунад
+link-preview-settings-long-press =
+    .label = Миёнбур: Пайвандро ба муддати 1 сония зер карда, доред (пахши дароз)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Ба воситаи зеҳни сунъӣ «AI» маълумоти боз ҳам бештарро мебинед?
 # Header for the key points section
 link-preview-key-points-header = Нуқтаҳои асосӣ
 # Onboarding card See a preview button
