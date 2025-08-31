@@ -806,6 +806,49 @@ urlbar-result-realtime-opt-in-allow = Sýna tillögur
 urlbar-result-realtime-opt-in-not-now = Ekki núna
 urlbar-result-realtime-opt-in-dismiss = Afgreiða
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Eftir { $daysUntilStart } dag
+       *[other] { $name } · Eftir { $daysUntilStart } daga
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Byrjar eftir { $daysUntilStart } dag
+       *[other] { $name } · Byrjar eftir { $daysUntilStart } daga
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Lýkur eftir { $daysUntilEnd } dag
+       *[other] { $name } · Lýkur eftir { $daysUntilEnd } daga
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Í dag
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Lýkur í dag
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1356,6 +1399,41 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Aukin rakningarvörn: Óvirk fyrir { $host }
 trustpanel-etp-description-enabled = Ef eitthvað virðist bilað á þessu vefsvæði, skaltu prófa að slökkva á vörnum.
+trustpanel-etp-description-disabled = { -brand-product-name } telur að fyrirtæki ættu að fylgjast minna með þér. Við lokum á eins mörg rakningarforrit ogauðið er þegar þú kveikir á vörnum.
 trustpanel-connection-label-secure = Tenging er örugg
 trustpanel-connection-label-insecure = Tenging er ekki örugg
+trustpanel-header-enabled = { -brand-product-name } er á verði
+trustpanel-description-enabled = Þú ert varin/n. Ef við komum auga á eitthvað látum við þig vita
+trustpanel-header-disabled = Þú slökktir á vörnum
+trustpanel-description-disabled = { -brand-product-name } er ekki á vakt. Við mælum með að kveikja aftur á vörnum.
+trustpanel-clear-cookies-button = Hreinsa vefkökur og gögn vefsvæðis
 trustpanel-privacy-link = Persónuverndarstillingar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Hreinsa vefkökur og vefgögn fyrir { $host }
+trustpanel-clear-cookies-description = Ef þú fjarlægir vefkökur og vefgögn gætirðu skráðst út af vefsvæðum og hreinsað innkaupakörfur.
+trustpanel-clear-cookies-subview-button-clear = Hreinsa
+trustpanel-clear-cookies-subview-button-cancel = Hætta við
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Tengivarnir fyrir { $host }
+trustpanel-connection-secure = Þú ert með örugga tengingu við þetta vefsvæði.
+trustpanel-connection-not-secure = Þú ert ekki með örugga tengingu við þetta vefsvæði.
+trustpanel-siteinformation-morelink = Meiri upplýsingar um vefsvæði
+trustpanel-blocker-see-all = Sjá allt
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Rakningarvarnir fyrir { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-insecure-section-header = Tengingin þín er ekki örugg
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } vefaka til rakningar á milli vefsvæða
+       *[other] { $count } vefökur til rakningar á milli vefsvæða
+    }
