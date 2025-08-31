@@ -354,6 +354,10 @@ windows-10-eos-sync-toast-secondary-label = Minna mig á síðar
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-primary-button = Afritaðu { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Festu { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } lokar á rafmyntagrafara, samfélagsmiðlarekjara og fingrafarasöfnun.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Rekjarar geta ekki borið kennsl á tækið þitt eða fylgt þér á netinu - því við leyfum þeim það ekki.
 windows-10-eos-sync-callout-next-button = Næsta
 windows-10-eos-sync-callout-get-started-button = Hefjast handa
 
