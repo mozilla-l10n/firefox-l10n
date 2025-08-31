@@ -46,3 +46,4 @@ crashreporter-error-no-home-dir = Etxe direktorioa falta da
 # $to (String) - the destination path
 crashreporter-error-moving-path = Huts egin du { $from } bidetik { $to } bidera lekuz aldatzean
 crashreporter-error-version-eol = Bertsioaren balio-bizitza amaituta: ez da hutsegite-txosten gehiago onartzen.
+crashreporter-error-failed-to-generate-minidump = Aplikazioak huts egin du hutsegite-informazioa sortzean.

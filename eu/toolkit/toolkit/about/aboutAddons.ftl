@@ -548,6 +548,10 @@ plugins-widevine-description = Plugin honek zifratutako multimediaren erreproduk
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Beharrezko datu-bilketa:
+addon-permissions-optional-data-collection = Aukerazko datu-bilketa:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Baimenak eta datuak
 # This is a description for extension that use this AI model
 # Variables:
 #   $extensionName (String) - Name of the extension
@@ -555,6 +559,7 @@ mlmodel-extension-label = { $extensionName } hedapenak erabilia
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name }(e)k hau darabil about:inference orrian
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Kendu
