@@ -359,6 +359,7 @@ newtab-wallpaper-custom-color = Scegli un colore
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = L’immagine eccede la dimensione massima consentita ({ $file_size } MB). Prova a caricare un file più piccolo.
+newtab-wallpaper-error-upload-file-type = Impossibile caricare il file. Riprova con un file immagine.
 newtab-wallpaper-error-file-type = Impossibile caricare il file. Riprova con un altro tipo di file.
 newtab-wallpaper-light-red-panda = Panda rosso
 newtab-wallpaper-light-mountain = Montagna imbiancata
