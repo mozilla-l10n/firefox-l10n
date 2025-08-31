@@ -1410,3 +1410,36 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Protección mejorada contra rastreo activada
 trustpanel-etp-label-disabled = Protección mejorada contra rastreo desactivada
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protección mejorada contra rastreo: Activada para { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protección mejorada contra rastreo: Desactivada para { $host }
+trustpanel-etp-description-enabled = Si algo parece que no funciona en este sitio, intente desactivar las protecciones.
+trustpanel-etp-description-disabled = { -brand-product-name } piensa que las empresas deberían seguirle menos. Bloqueamos tantos rastreadores como podemos cuando se activan las protecciones.
+trustpanel-connection-label-secure = Conexión segura
+trustpanel-connection-label-insecure = Conexión no segura
+trustpanel-header-enabled = { -brand-product-name } está en guardia
+trustpanel-description-enabled = Está protegido. Si detectamos algo, se lo haremos saber.
+trustpanel-header-disabled = Ha desactivado las protecciones
+trustpanel-description-disabled = { -brand-product-name } está fuera de servicio. Le sugerimos volver a activar las protecciones.
+trustpanel-clear-cookies-button = Limpiar cookies y datos del sitio
+trustpanel-privacy-link = Ajustes de privacidad
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Borrar cookies y datos del sitio para { $host }
+trustpanel-clear-cookies-description = Eliminar cookies y datos del sitio puede cerrar sesión en los sitios web y limpiar los carritos de compras.
+trustpanel-clear-cookies-subview-button-clear = Limpiar
+trustpanel-clear-cookies-subview-button-cancel = Cancelar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Protecciones de conexión para { $host }
+trustpanel-connection-secure = Está conectado de forma segura a este sitio.
+trustpanel-connection-not-secure = No está conectado de forma segura a este sitio.
+trustpanel-siteinformation-morelink = Más información del sitio
+trustpanel-blocker-see-all = Ver todo
