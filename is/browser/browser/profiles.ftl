@@ -146,18 +146,59 @@ leaf-avatar-alt =
     .alt = Lauf
 lightbulb-avatar-alt =
     .alt = Ljósapera
+makeup-avatar-alt =
+    .alt = Förðun
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Skilaboð
+musical-note-avatar-alt =
+    .alt = Tónlistarnóta
+palette-avatar-alt =
+    .alt = Litaspjald
+paw-print-avatar-alt =
+    .alt = Þófafar
+plane-avatar-alt =
+    .alt = Flugvél
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Gjöf
 shopping-avatar-alt =
     .alt = Innkaupakarfa
+soccer-avatar-alt =
+    .alt = Fótbolti
+sparkle-single-avatar-alt =
+    .alt = Glitrandi
 star-avatar-alt =
     .alt = Stjarna
+video-game-controller-avatar-alt =
+    .alt = Leikjastýring
 custom-avatar-alt =
     .alt = Sérsniðin auðkennismynd
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Sjálfgefið veftákn
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Demantur
+bike-avatar-alt =
+    .alt = Hjól
 
 ## Labels for default avatar icons
 
 book-avatar = Bók
 briefcase-avatar = Skjalataska
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Myndflötur
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Handverk
+custom-avatar = Sérsniðin auðkennismynd
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Sjálfgefið veftákn
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Demantur
 flower-avatar = Blóm
+folder-avatar = Mappa
+hammer-avatar = Hamar
 heart-avatar = Hjarta
 shopping-avatar = Innkaupakarfa
 star-avatar = Stjarna
