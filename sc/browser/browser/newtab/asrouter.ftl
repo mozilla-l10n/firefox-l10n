@@ -68,6 +68,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincroniza is sinnalibros immoe…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Butone Serra
     .title = Serra
+fxa-adoption-addresses-backup-title = Immoe amus a fàghere una còpia de seguresa de is indiritzos sarvados
+fxa-adoption-credit-cards-backup-title = Immoe amus a fàghere una còpia de seguresa de is mètodos de pagamentu
+fxa-adoption-credit-cards-backup-subtitle = Ampara is mètodos de pagamentu tuos cun una sincronizatzione tzifrada intre dispositivos.
+fxa-adoption-primary-button-label = Registra·ti
 
 ## Protections panel
 
@@ -313,6 +317,7 @@ fxa-menu-message-close-button =
     .title = Serra
     .aria-label = Serra
 fxa-menu-message-sign-up-button = Registra·ti
+fxa-menu-message-sign-in-button = Identìfica·ti
 fxa-menu-message-sync-devices-primary-text = Sincroniza totu is dispositivos tuos
 fxa-menu-message-sync-devices-secondary-text = Atzede deretu a totu is datos tuos, comente sinnalibros e craes, in onni logu cun { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincroniza totu is dispositivos tuos

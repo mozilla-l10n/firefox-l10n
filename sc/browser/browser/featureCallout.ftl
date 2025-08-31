@@ -110,6 +110,17 @@ fxa-adoption-passwords-subtitle = Ampara is craes tuas sincronizende·ddas e tzi
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registra·ti
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Non perdas totu su chi as sarvadu durante sa tràmuda a Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sincroniza immoe pro mantènnere is sinnalibros, is craes e is cunfiguratziones de { -brand-short-name } in seguresa e ddos potzas recuperare.
+windows-10-eos-sync-new-device-primary-label = Sincroniza immoe
+windows-10-eos-sync-general-title-1 = Ampara sa versione personalizada tua de { -brand-short-name }.
+windows-10-eos-sync-general-title-2 = Est unu momentu bonu pro fàghere una còpia de seguresa de is craes e is sinnalibros.
+windows-10-eos-sync-tour-title-1 = Tropu ischedas? Organiza·ti cun is grupos de ischedas.
+windows-10-eos-sync-tour-title-2 = Prepara·ti pro Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sincroniza is sinnalibros, is craes e is cunfiguratziones comente còpia de seguresa in antis de fàghere su càmbiu.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ammustra tìtulos de is ischedas in sa barra laterale
@@ -135,6 +146,8 @@ sidebar-pins-callout-cta-button = Apica s’ischeda
 
 pin-tabs-callout-cta-1-button = Apica custa ischeda
 pin-tabs-callout-2-title = Apica is ischedas chi bìsitas de prus
+pin-tabs-callout-cta-2-button = Apica custa ischeda
+pin-tabs-callout-4-title = Apica is sitos chi bìsitas de prus
 
 ## Sidebar Onboarding Strings
 
