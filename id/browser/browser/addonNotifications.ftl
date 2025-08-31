@@ -117,11 +117,13 @@ addon-install-error-corrupt-file = Pengaya yang diunduh dari situs ini tidak dap
 addon-install-error-file-access = { $addonName } tidak dapat dipasang karena { -brand-short-name } tidak dapat mengubah berkas yang dibutuhkan.
 addon-install-error-not-signed = { -brand-short-name } telah mencegah situs ini untuk menginstal pengaya yang belum diverifikasi.
 addon-install-error-invalid-domain = Pengaya { $addonName } tidak dapat dipasang dari lokasi ini.
+addon-install-error-no-addon-name-file-access = Pengaya tidak dapat dipasang karena { -brand-short-name } tidak dapat mengubah berkas yang dibutuhkan.
 addon-local-install-error-network-failure = Pengaya ini tidak dapat dipasang karena ada kesalahan pada sistem berkas.
 addon-local-install-error-incorrect-hash = Pengaya ini tidak dapat dipasang karena tidak cocok dengan yang diharapkan { -brand-short-name }.
 addon-local-install-error-corrupt-file = Pengaya ini tidak dapat dipasang karena tampaknya berkasnya rusak.
 addon-local-install-error-file-access = { $addonName } tidak dapat dipasang karena { -brand-short-name } tidak dapat mengubah berkas yang dibutuhkan.
 addon-local-install-error-not-signed = Pengaya ini tidak dapat dipasang karena belum diverifikasi.
+addon-local-install-no-addon-name-error-file-access = Pengaya tidak dapat dipasang karena { -brand-short-name } tidak dapat mengubah berkas yang dibutuhkan.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } tidak dapat dipasang karena tidak kompatibel dengan { -brand-short-name } { $appVersion }.

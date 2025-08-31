@@ -1370,12 +1370,30 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Selesaikan penyiapan
+onboarding-aw-finish-setup-button =
+    .label = Selesaikan penyiapan
+    .tooltiptext = Selesaikan menyiapkan { -brand-short-name }
 
 ## The urlbar trust panel
 
+trustpanel-etp-label-enabled = Perlindungan Pelacakan yang Ditingkatkan aktif
+trustpanel-etp-label-disabled = Perlindungan Pelacakan yang Ditingkatkan tidak aktif
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Perlindungan Pelacakan yang Ditingkatkan: Aktif untuk { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Perlindungan Pelacakan yang Ditingkatkan: Nonaktif untuk { $host }
+trustpanel-etp-description-enabled = Jika ada yang tampak rusak di situs ini, coba matikan perlindungan.
+trustpanel-etp-description-disabled = { -brand-product-name } berpikir perusahaan harus lebih sedikit mengikuti Anda. Kami memblokir sebanyak mungkin pelacak saat Anda mengaktifkan perlindungan.
 trustpanel-connection-label-secure = Sambungan aman
 trustpanel-connection-label-insecure = Sambungan tidak aman
+trustpanel-header-enabled = { -brand-product-name } berjaga-jaga
+trustpanel-description-enabled = Anda terlindungi. Jika kami menemukan sesuatu, kami akan memberi tahu Anda
 trustpanel-header-disabled = Anda mematikan perlindungan
+trustpanel-description-disabled = { -brand-product-name } sedang tidak bertugas. Kami menyarankan untuk mengaktifkan kembali perlindungan.
 trustpanel-clear-cookies-button = Bersihkan kuki dan data situs
 trustpanel-privacy-link = Pengaturan Privasi
 # Variables
@@ -1391,6 +1409,7 @@ trustpanel-site-information-header =
     .title = Perlindungan sambungan untuk { $host }
 trustpanel-connection-secure = Anda terhubung dengan aman ke situs ini.
 trustpanel-connection-not-secure = Anda tidak terhubung dengan aman ke situs ini.
+trustpanel-siteinformation-morelink = Informasi situs lebih lanjut
 trustpanel-blocker-see-all = Lihat Semua
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
@@ -1401,7 +1420,28 @@ trustpanel-blocker-header =
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-section-header = <span>{ $count }</span> Pelacak diblokir di situs ini
+trustpanel-blocker-description = { -brand-product-name } berpikir perusahaan harus lebih sedikit mengikuti Anda. Jadi kami memblokir sebanyak yang kami bisa.
+trustpanel-blocked-header = { -brand-product-name } memblokir hal-hal berikut untuk Anda:
+trustpanel-tracking-header = { -brand-product-name } mengizinkan hal ini agar situs tidak rusak:
+trustpanel-tracking-description = Tanpa pelacak, beberapa tombol, formulir, dan bidang info masuk mungkin tidak berfungsi.
+trustpanel-insecure-section-header = Sambungan Anda tidak aman
+trustpanel-insecure-description = Data yang Anda kirim ke situs ini tidak dienkripsi. Itu bisa dilihat, dicuri, atau diubah.
+trustpanel-list-label-tracking-cookies = { $count } Kuki pelacak lintas situs
+trustpanel-list-label-fingerprinter = { $count } Penyidik Jari
+trustpanel-list-label-social-tracking = { $count } Pelacak media sosial
+trustpanel-list-label-cryptominer = { $count } Penambang Mata Uang Kripto
+trustpanel-social-tracking-blocking-tab-header = { -brand-product-name } memblokir { $count } pelacak media sosial
+trustpanel-social-tracking-not-blocking-tab-header = { -brand-product-name } mengizinkan { $count } pelacak media sosial
+trustpanel-social-tracking-tab-list-header = Situs berikut mencoba melacak Anda:
+trustpanel-tracking-cookies-blocking-tab-header = { -brand-product-name } memblokir { $count } kuki pelacakan lintas situs
+trustpanel-tracking-cookies-not-blocking-tab-header = { -brand-product-name } mengizinkan { $count } kuki pelacakan lintas situs
+trustpanel-tracking-cookies-tab-list-header = Situs berikut mencoba melacak Anda:
+trustpanel-tracking-content-blocking-tab-header = { -brand-product-name } memblokir { $count } pelacak
+trustpanel-tracking-content-not-blocking-tab-header = { -brand-product-name } mengizinkan { $count } pelacak
 trustpanel-tracking-content-tab-list-header = Situs berikut mencoba melacak Anda:
 trustpanel-fingerprinter-blocking-tab-header = { -brand-product-name } memblokir { $count } penyidik jari
 trustpanel-fingerprinter-not-blocking-tab-header = { -brand-product-name } mengizinkan { $count } penyidik jari
 trustpanel-fingerprinter-list-header = Situs-situs berikut mencoba menyidik jari Anda:
+trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } memblokir { $count } penambang mata uang kripto
+trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } mengizinkan { $count } penambang mata uang kripto
+trustpanel-cryptominer-tab-list-header = Situs-situs berikut mencoba untuk melakukan penambangan kripto:
