@@ -98,6 +98,9 @@ perplexity-callout-secondary-label-2 = Náði því
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = Samstilla núna
+windows-10-eos-sync-tour-title-1 = Of margir flipar? Taktu til með aðstoð flipahópa.
+windows-10-eos-sync-tour-title-2 = Skipuleggðu þig fyrir komu Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Samstilltu bókamerki, lykilorð og stillingar til að taka afrit af þeim áður en þú skiptir.
 
 ## Sidebar Strings
 
@@ -121,6 +124,12 @@ sidebar-pins-callout-cta-button = Festa flipa
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Hafðu mikilvæga flipa innan seilingar
+pin-tabs-callout-cta-1-button = Festa þennan flipa
+pin-tabs-callout-2-title = Festu flipana sem þú heimsækir oftast
+pin-tabs-callout-2-subtitle = Til að festa flipa skaltu draga hann að upphafi fliparandarinnar. Eða hægrismella og velja að festa flipa.
+pin-tabs-callout-cta-2-button = Festa þennan flipa
+pin-tabs-callout-3-title = Hafðu mikilvæga vefi innan seilingar
+pin-tabs-callout-4-title = Festu vefsvæði sem þú heimsækir oftast
 
 ## Sidebar Onboarding Strings
 
