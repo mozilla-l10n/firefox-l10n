@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Segja vefsvæðum að selja ekki eða deila gögnunum mínum
     .accesskey = S
 non-technical-privacy-header = Persónuverndarstefna vefsvæðis
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Loka
+do-not-track-removal2 =
+    .label = Við styðjum ekki lengur „Ekki rekja“ merkinguna
 
 ## Browser Restart Dialog
 
@@ -1313,6 +1317,13 @@ permissions-location = Staðsetning
 permissions-location-settings =
     .label = Stillingar…
     .accesskey = l
+permissions-localhost-settings =
+    .label = Stillingar…
+    .accesskey = t
+permissions-local-network = Tæki á staðarneti
+permissions-local-network-settings =
+    .label = Stillingar…
+    .accesskey = t
 permissions-xr = Sýndarveruleiki
 permissions-xr-settings =
     .label = Stillingar…

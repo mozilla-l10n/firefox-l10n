@@ -63,6 +63,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Fella út hliðarstikuna við yfirsvif
+sidebar-manage-extensions = Sýsla með forritsauka
 
 ## Labels for sidebar context menu items
 
@@ -96,6 +97,10 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Loka flipa á { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Fjarlægja úr { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Fjarlægja af hliðarstiku
 
 ## Labels for sidebar history context menu items
 
@@ -103,6 +108,8 @@ sidebar-history-context-menu-delete-page-2 =
     .label = Eyða síðu úr vafurferli
 sidebar-history-context-menu-bookmark-page =
     .label = Bókamerkja síðu…
+sidebar-history-context-menu-delete-pages =
+    .label = Eyða síðum úr vafurferli
 
 ## Labels for sidebar menu items.
 
@@ -118,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Sérsníða hliðarstiku
 sidebar-menu-contextual-password-manager-label =
     .label = Lykilorð
+sidebar-menu-more-tools-label =
+    .label = Fleiri verkfæri
 
 ## Tooltips for sidebar menu items.
 
@@ -201,3 +210,7 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = Fela hliðarstiku ({ $shortcut })
     .label = Hliðarslá
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = Dragðu mikilvæga flipa hingað til að halda þeim innan seilingar

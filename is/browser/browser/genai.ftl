@@ -182,3 +182,9 @@ link-preview-reading-time =
         [one] { $range } mínútu lestrartími
        *[other] { $range } mínútna lestrartími
     }
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Eitthvað fór úrskeiðis.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Reyna aftur
+# Onboarding card Close button
+link-preview-onboarding-close = Loka

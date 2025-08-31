@@ -8,6 +8,9 @@
 newtab-page-title = Nýr flipi
 newtab-settings-button =
     .title = Sérsníða nýju flipasíðuna
+newtab-customize-panel-icon-button =
+    .title = Sérsníða þessa síðu
+newtab-customize-panel-icon-button-label = Sérsníða
 newtab-personalize-settings-icon-label =
     .title = Sérsníða nýjan flipa
     .aria-label = Stillingar
@@ -84,6 +87,14 @@ newtab-confirm-delete-history-p2 = Ekki er ekki hægt að bakfæra þessa aðger
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Kostað
+
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (fest)
+    .title = { $title }
 
 ## Context Menu - Action Tooltips.
 
@@ -315,6 +326,19 @@ newtab-custom-recent-subtitle = Úrval af nýlegum síðum og efni
 newtab-custom-weather-toggle =
     .label = Veður
     .description = Veðurspá dagsins í skyndi
+newtab-custom-widget-weather-toggle =
+    .label = Veður
+newtab-custom-widget-trending-search-toggle =
+    .label = Vinsælar leitir
+newtab-custom-widget-lists-toggle =
+    .label = Listar
+newtab-custom-widget-timer-toggle =
+    .label = Tímamælir
+newtab-custom-widget-section-title = Viðmótshlutar
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Loka
+    .aria-label = Loka valmynd
 newtab-custom-close-button = Loka
 newtab-custom-settings = Sýsla með fleiri stillingar
 
@@ -497,6 +521,8 @@ newtab-topic-selection-button-pick-interests = Veldu áhugamálin þín
 newtab-section-follow-button = Fylgjast með
 newtab-section-following-button = Fylgist með
 newtab-section-unfollow-button = Hætta að fylgjast með
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Fínstilltu streymið þitt
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -566,3 +592,38 @@ newtab-trending-searches-hide-trending =
     .title = Fela vinsælar leitir
 newtab-trending-searches-learn-more = Frekari upplýsingar
 newtab-trending-searches-dismiss = Fela vinsælar leitir
+
+## Strings for task / to-do list productivity widget
+
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nýtt
+newtab-widget-lists-label-beta =
+    .label = Beta-prófunarútgáfa
+newtab-widget-task-list-menu-copy = Afrita
+newtab-widget-lists-menu-edit = Breyta heiti á lista
+newtab-widget-lists-menu-create = Búa til nýjan lista
+newtab-widget-lists-menu-delete = Eyða þessum lista
+newtab-widget-lists-menu-copy = Afrita lista á klippispjald
+newtab-widget-lists-menu-hide = Fela alla lista
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-reset =
+    .title = Endurstilla
+newtab-widget-timer-menu-notifications = Slökkva á tilkynningum
+newtab-widget-timer-menu-notifications-on = Kveikja á tilkynningum
+newtab-widget-timer-menu-hide = Fela tímamæli
+newtab-widget-timer-menu-learn-more = Fræðast meira
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Skrunaðu til að sjá meira
+newtab-widget-message-title = Vertu einbeittur með listum og innbyggðum tímamæli
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Frá fljótlegum áminningum til daglegra verkefna, einbeitingarlotum til teygingahléa - haltu þér við verkefnin og á réttum tíma.
+newtab-promo-card-title = Styddu við { -brand-product-name }
+newtab-promo-card-body = Styrktaraðilar okkar styðja markmið okkar að byggja upp betri vef
+newtab-promo-card-cta = Fræðast meira
+newtab-promo-card-dismiss-button =
+    .title = Afgreiða
+    .aria-label = Afgreiða

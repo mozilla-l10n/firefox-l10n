@@ -68,6 +68,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Samstilla bókamerki núna ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Loka hnappur
     .title = Loka
+fxa-adoption-primary-button-label = Nýskrá
 
 ## Protections panel
 
@@ -311,6 +312,8 @@ fxa-menu-message-close-button =
     .title = Loka
     .aria-label = Loka
 fxa-menu-message-sign-up-button = Skráðu þig
+fxa-menu-message-sign-in-button = Innskráning
+fxa-menu-message-sync-button = Hefja samstillingu
 fxa-menu-message-sync-devices-primary-text = Samstilltu öll tækin þín
 fxa-menu-message-sync-devices-secondary-text = Náðu í upplýsingarnar þínar samstundis – eins og bókamerki og lykilorð – alls staðar sem þú notar { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Samstilltu öll tækin þín
@@ -343,3 +346,27 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Hafðu eftirlætisvafrann þinn innan seilingar. Stilltu { -brand-short-name } sem sjálfgefinn vafra til að opna tengla og festu hann við verkefnastikuna þína og í ræsivalmyndina.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Hafðu eftirlætisvafrann þinn innan seilingar. Stilltu { -brand-short-name } sem sjálfgefinn vafra til að opna tengla og festu hann við verkefnastikuna þína og í ræsivalmyndina.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Hefjast handa
+windows-10-eos-sync-toast-secondary-label = Minna mig á síðar
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-next-button = Næsta
+windows-10-eos-sync-callout-get-started-button = Hefjast handa
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Sjáðu hvað er nýtt á seyði
+windows-10-eos-feature-toast-dismiss-button = Afgreiða
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Fræðast meira
