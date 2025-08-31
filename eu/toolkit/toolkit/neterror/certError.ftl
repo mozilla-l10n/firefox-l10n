@@ -114,8 +114,18 @@ fp-learn-more-about-time-related-errors = Denborarekin erlazionatutako erroreen 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
-cert-error-revoked-certificate = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariak hornitzen duen ziurtagiria baliogabetu egin delako eta ez delako gehiago fidatzeko modukoa.
+cert-error-revoked-certificate = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiria baliogabetu egin delako eta ez delako gehiago fidatzeko modukoa.
 cert-error-bad-signature = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriak hornitzen duen sinadura ez delako baliozkoa.
+cert-error-key-pinning-failure = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriak esperotakoa ez den gako publikoa darabilelako.
+cert-error-bad-der = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiria ez dagoelako ondo kodetuta.
+cert-error-cert-not-in-name-space = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriak ez dituelako jaulkitzailearen izenen murriztapenak jarraitzen.
+cert-error-inadequate-cert-type = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiria ez delako onartzen web zerbitzari batean erabiltzeko.
+cert-error-path-len-constraint-invalid = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriak erro ziurtagirirako bidean tarteko ziurtagiri gehiegi dituelako.
+cert-error-invalid-key = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriak baliozkoa ez den gako bat duelako. Ziurrenik txikiegia da segurua izateko.
+cert-error-unknown-critical-extension = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriak onartzen ez den hedapen kritiko bat duelako.
+cert-error-extension-value-invalid = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriak hedapen baliogabe bat duelako.
+cert-error-untrusted-issuer = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiria gehiago fidatzekoa ez den ziurtagiri-autoritate batek jaulki duelako.
+cert-error-untrusted-cert = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiria ez fidatzeko gisa markatuta dagoelako.
 
 ## Messages used for certificate error titles
 
