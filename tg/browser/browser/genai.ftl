@@ -235,6 +235,9 @@ link-preview-generation-retry = Аз нав кӯшиш кардан
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Танзимоти пешнамоиши пайванд
+link-preview-settings-enable =
+    .label = Фаъол кардани пешнамоиши пайвандҳо
+    .description = Вақте ки шумо аз миёнбур истифода мебаред ё ба пайванд бо тугмаи рости муш зер мекунед, шумо метавонед сарлавҳаи саҳифа, тавсиф ва маълумоти дигареро бинед.
 # Header for the key points section
 link-preview-key-points-header = Нуқтаҳои асосӣ
 # Onboarding card See a preview button
