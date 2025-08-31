@@ -1367,6 +1367,10 @@ file-picker-crashed-show-in-folder =
     .label = Tampilkan di Folder
     .accessKey = F
 
+## Onboarding Finish Setup checklist
+
+onboarding-checklist-button-label = Selesaikan penyiapan
+
 ## The urlbar trust panel
 
 trustpanel-connection-label-secure = Sambungan aman
