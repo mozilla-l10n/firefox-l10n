@@ -560,6 +560,15 @@ mlmodel-extension-label = { $extensionName } hedapenak erabilia
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 mlmodel-about-inference = { -brand-short-name }(e)k hau darabil about:inference orrian
+mlmodel-link-preview = { -brand-short-name }(e)k hau darabil loturen aurrebistetako puntu nagusiak sortzeko
+mlmodel-pdfjs = { -brand-short-name }(e)k hau darabil PDFetan gehitutako irudietako testu alternatiboa sortzeko
+mlmodel-smart-tab-topic-engine = { -brand-short-name }(e)k hau darabil fitxa multzoen izenak gomendatzeko
+mlmodel-smart-tab-embedding-engine = { -brand-short-name }(e)k hau darabil fitxa multzoetarako fitxak gomendatzeko
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Gailuko AA
+addon-category-mlmodel-title =
+    .title = Gailuko AA
+mlmodel-heading = Kudeatu gailuko AA modeloak
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Kendu

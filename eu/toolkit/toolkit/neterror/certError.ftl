@@ -144,6 +144,7 @@ redirectLoop-title = Orriak ez du birbideraketa ondo egiten
 unknownSocketType-title = Zerbitzariaren erantzuna ez zen espero
 nssFailure2-title = Konexio seguruak huts egin du
 csp-xfo-error-title = { -brand-short-name }(e)k ezin du orri hau ireki
+corruptedContentErrorv2-title = Hondatutako edukien errorea
 corruptedContentError-title = Hondatutako edukien errorea
 sslv3Used-title = Ezin da modu seguruan konektatu
 inadequateSecurityError-title = Zure konexioa ez da segurua
