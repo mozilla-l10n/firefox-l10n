@@ -46,5 +46,26 @@ webext-perms-extra-warning-userScripts-short = Egiaztatu gabeko scriptek segurta
 ##
 ## This is used when the data collection permissions are required.
 
+webext-perms-description-data-short-authenticationInfo = autentifikazio-informazioa
 webext-perms-description-data-short-bookmarksInfo = laster-markak
+webext-perms-description-data-short-browsingActivity = nabigazio-jarduera
+webext-perms-description-data-short-financialAndPaymentInfo = finantzen inguruko eta ordainketen informazioa
+webext-perms-description-data-short-healthInfo = osasunaren informazioa
 webext-perms-description-data-short-locationInfo = kokapena
+webext-perms-description-data-short-personalCommunications = komunikazio pertsonalak
+webext-perms-description-data-short-personallyIdentifyingInfo = pertsonalki identifikatzeko informazioa
+webext-perms-description-data-short-searchTerms = bilaketa-terminoak
+webext-perms-description-data-short-technicalAndInteraction = datu tekniko eta interakziozkoak
+webext-perms-description-data-short-websiteActivity = webguneetako jarduera
+webext-perms-description-data-short-websiteContent = webguneetako edukia
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+
+webext-perms-description-data-long-authenticationInfo = Hedapenaren garatzailearekin autentifikazio-informazioa partekatzea
+webext-perms-description-data-long-bookmarksInfo = Hedapenaren garatzailearekin laster-marken informazioa partekatzea
+webext-perms-description-data-long-browsingActivity = Hedapenaren garatzailearekin nabigatze-jarduera partekatzea
+webext-perms-description-data-long-financialAndPaymentInfo = Hedapenaren garatzailearekin finantzen inguruko eta ordainketen informazioa partekatzea
+webext-perms-description-data-long-healthInfo = Hedapenaren garatzailearekin osasun-informazioa partekatzea
+webext-perms-description-data-long-locationInfo = Hedapenaren garatzailearekin kokapen-informazioa partekatzea
+webext-perms-description-data-long-personalCommunications = Hedapenaren garatzailearekin komunikazio pertsonalak partekatzea
+webext-perms-description-data-long-personallyIdentifyingInfo = Hedapenaren garatzailearekin pertsonalki identifikatzeko informazioa partekatzea

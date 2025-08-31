@@ -101,6 +101,16 @@ webext-perms-host-description-multiple-domains =
        *[other] { $domainCount } domeinuetako zure datuak atzitzea
     }
 
+## Strings for data collection permissions in the permission prompt.
+
+webext-perms-update-list-intro-with-data-collection = Utzi zure uneko bertsioa eta ezarpenak mantentzeko, edo eguneratu bertsio berria eskuratu eta aldaketak onartzeko.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } gehigarriak aparteko ezarpenak eskatzen ditu
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } gehigarriak aparteko datu-bilketa eskatzen du
+
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
 ## with the value of webext-site-perms-description-gated-perms-{sitePermission}.

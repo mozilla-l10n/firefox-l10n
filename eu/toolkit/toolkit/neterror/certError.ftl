@@ -111,6 +111,12 @@ fp-learn-more-about-secure-connection-failures = Konexio seguruen hutsegiteei bu
 fp-learn-more-about-cert-issues = Honelako ziurtagiri-arazoei buruzko argibide gehiago
 fp-learn-more-about-time-related-errors = Denborarekin erlazionatutako erroreen arazo-konponketari buruzko argibide gehiago
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+cert-error-revoked-certificate = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariak hornitzen duen ziurtagiria baliogabetu egin delako eta ez delako gehiago fidatzeko modukoa.
+cert-error-bad-signature = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriak hornitzen duen sinadura ez delako baliozkoa.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ezin da konektatu
