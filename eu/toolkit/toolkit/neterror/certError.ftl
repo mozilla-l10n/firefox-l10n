@@ -126,6 +126,10 @@ cert-error-unknown-critical-extension = { -brand-short-name }(e)k gune hau bisit
 cert-error-extension-value-invalid = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriak hedapen baliogabe bat duelako.
 cert-error-untrusted-issuer = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiria gehiago fidatzekoa ez den ziurtagiri-autoritate batek jaulki duelako.
 cert-error-untrusted-cert = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiria ez fidatzeko gisa markatuta dagoelako.
+cert-error-invalid-integer-encoding = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriak osoko zenbaki baten kodetze baliogabea duelako. Ohiko arrazoien barne daude serie-zenbaki negatiboak, RSA modulu negatiboak eta gehiago behar ez diren kodeketak.
+cert-error-unsupported-keyalg = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriak onartzen ez den gako mota bat duelako.
+cert-error-issuer-no-longer-trusted = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiria jaulki duen ziurtagiri-autoritatea ez delako fidatzeko modukoa.
+cert-error-signature-algorithm-mismatch = { -brand-short-name }(e)k gune hau bisitatzea blokeatu du { $hostname } ostalariko ziurtagiriaren sinadura-algoritmoa ez datorrelako bat bere sinadura-algoritmoaren eremuarekin.
 
 ## Messages used for certificate error titles
 

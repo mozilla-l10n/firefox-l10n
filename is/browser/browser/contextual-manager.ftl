@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Flytja inn úr öðru
 contextual-manager-passwords-command-import = Flytja inn úr skrá...
 contextual-manager-passwords-command-export = Flytja út lykilorð
 contextual-manager-passwords-command-remove-all = Fjarlægja öll lykilorð
+contextual-manager-passwords-command-options = Valkostir
 contextual-manager-passwords-command-settings = Stillingar
 contextual-manager-passwords-command-help = Hjálp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -156,6 +157,10 @@ contextual-manager-passwords-password-already-exists-error-button = Fara í lyki
 contextual-manager-passwords-update-password-success-heading =
     .heading = Lykilorð vistað
 contextual-manager-passwords-update-password-success-button = Lokið
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Notandanafni bætt við
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Notandanafn vistað
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

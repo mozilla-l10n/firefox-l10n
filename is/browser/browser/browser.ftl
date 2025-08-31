@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Sýna sjaldnar
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ekki sýna tillögur um veður
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Opna valmynd
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Takk fyrir álit þitt
@@ -755,12 +758,42 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #       abbreviation of one of the city's administrative divisions like a
 #       province or state, or it may be the name of the city's country.
 urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> í { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> í { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> í { $city }
 # Shows the name of the provider of weather data in a weather suggestion in the
 # urlbar.
 # Variables:
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider }∙Kostað
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Sýna tillögur
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ekki núna
+urlbar-result-realtime-opt-in-dismiss = Afgreiða
 
 ## Strings used for buttons in the urlbar
 
@@ -788,11 +821,15 @@ urlbar-searchmode-actions =
     .label = Aðgerðir
 urlbar-searchmode-exit-button =
     .tooltiptext = Loka
+urlbar-searchmode-default =
+    .tooltiptext = Sjálfgefin leitarvél
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Að þessu sinni leita með:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Leitarstillingar
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nýtt
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1285,3 +1322,9 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Ljúka uppsetningu
+
+## The urlbar trust panel
+
+trustpanel-connection-label-secure = Tenging er örugg
+trustpanel-connection-label-insecure = Tenging er ekki örugg
+trustpanel-privacy-link = Persónuverndarstillingar

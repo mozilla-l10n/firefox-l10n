@@ -185,6 +185,8 @@ media-capabilities-enumerate = Zerrendatu datu-basea
 
 media-codec-support-sw-decoding = Software deskodeketa
 media-codec-support-hw-decoding = Hardware deskodeketa
+media-codec-support-sw-encoding = Software kodeketa
+media-codec-support-hw-encoding = Hardware kodeketa
 media-codec-support-codec-name = Codec-aren izena
 media-codec-support-supported = Euskarria du
 media-codec-support-unsupported = Ez du euskarririk

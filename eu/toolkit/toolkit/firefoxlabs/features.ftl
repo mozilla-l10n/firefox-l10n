@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Web orrien bistaratzea
 experimental-features-group-customize-browsing =
     .label = Pertsonalizatu zure nabigazioa
+experimental-features-group-productivity =
+    .label = Produktibitatea
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Pasahitzak alboko barran
@@ -47,3 +49,6 @@ experimental-features-link-previews-description-no-ai =
         [macos] Klik egin aurretik webgune bati buruzko argibide gehiago izateko, pasatu sagua loturaren gainetik eta sakatu Shift (⇧) + Aukera (⌥) edo Alt. Aurrebistek hainbat xehetasun izan ditzakete, hala nola izenburua edo irakurketa-denbora. <a data-l10n-name="connect">Eman iritzia</a>
        *[other] Klik egin aurretik webgune bati buruzko argibide gehiago izateko, pasatu sagua loturaren gainetik eta sakatu Shift + Alt. Aurrebistek hainbat xehetasun izan ditzakete, hala nola izenburua edo irakurketa-denbora. <a data-l10n-name="connect">Eman iritzia</a>
     }
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Gehitu guneak zure ataza-barran

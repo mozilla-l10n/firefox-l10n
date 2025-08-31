@@ -33,6 +33,10 @@ contentanalysis-slow-agent-dialog-body-print = Inprimatu duzuna zure erakundeare
 contentanalysis-operationtype-clipboard = arbela
 contentanalysis-operationtype-dropped-text = jaregindako testua
 contentanalysis-operationtype-print = inprimatu
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = "{ $filename }" igotzea
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = "{ $filename }" deskargatzea
 contentanalysis-warndialogtitle = Eduki hau ez-segurua izan liteke
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -73,6 +77,10 @@ contentanalysis-block-dialog-title-upload-file = Ez duzu fitxategi hau igotzeko 
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Zure erakundearen datuen babeserako politiken pean, ez duzu "{ $filename }" fitxategia igotzeko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
+contentanalysis-block-dialog-title-download-file = Ez duzu fitxategi hau deskargatzeko baimenik
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Zure erakundearen datuen babeserako politiken pean, ez duzu "{ $filename }" fitxategia deskargatzeko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
 contentanalysis-block-dialog-title-clipboard = Ez duzu eduki hau itsasteko baimenik
 contentanalysis-block-dialog-body-clipboard = Zure erakundearen datuen babeserako politiken pean, ez duzu eduki hau itsasteko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
 contentanalysis-block-dialog-title-dropped-text = Ez duzu eduki hau jaregiteko baimenik
