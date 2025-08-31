@@ -1277,6 +1277,8 @@ content-blocking-and-isolating-etp-warning-description-2 = Αυτή η ρύθμ�
 content-blocking-warning-learn-how = Μάθετε πώς
 content-blocking-baseline-exceptions =
     .label = Να επιτρέπεται στο { -brand-short-name } η αυτόματη εφαρμογή των απαιτούμενων εξαιρέσεων για την αποτροπή σημαντικών δυσλειτουργιών στους ιστοτόπους.
+content-blocking-baseline-exceptions-2 =
+    .label = Βοηθά στη φόρτωση ιστοτόπων και λειτουργιών άροντας τον αποκλεισμό μόνο των βασικών στοιχείων που ενδέχεται να περιέχουν ιχνηλάτες. Διορθώνει τα πιο κοινά προβλήματα.
 content-blocking-convenience-exceptions =
     .label = Να εμφαρμόζονται επίσης αυτόματα εξαιρέσεις που απαιτούνται μόνο για τη διόρθωση μικρών ζητημάτων και την ενεργοποίηση βολικών λειτουργιών.
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)

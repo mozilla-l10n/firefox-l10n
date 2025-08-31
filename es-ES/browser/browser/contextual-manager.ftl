@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importar desde otro n
 contextual-manager-passwords-command-import = Importar desde un archivo…
 contextual-manager-passwords-command-export = Exportar contraseñas
 contextual-manager-passwords-command-remove-all = Eliminar todas las contraseñas
+contextual-manager-passwords-command-options = Opciones
 contextual-manager-passwords-command-settings = Ajustes
 contextual-manager-passwords-command-help = Ayuda
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -65,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Nuevas: { $added }, Actualizadas: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Nuevas: { $added }, Actualizadas: { $modified }, Duplicadas: { $no_change }, Errores: { $error }
 contextual-manager-passwords-import-detailed-report = Ver informe detallado
 contextual-manager-passwords-import-success-button = Hecho
 contextual-manager-passwords-import-error-heading-and-message =
@@ -156,6 +163,10 @@ contextual-manager-passwords-password-already-exists-error-button = Ir a la cont
 contextual-manager-passwords-update-password-success-heading =
     .heading = Contraseña guardada
 contextual-manager-passwords-update-password-success-button = Hecho
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Nombre de usuario guardado
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Nombre de usuario añadido
 contextual-manager-passwords-update-username-success-heading =
     .heading = Nombre de usuario guardado
 # Message to confirm successful removal of a password/passwords.
@@ -210,12 +221,15 @@ contextual-manager-passwords-title = Contraseñas
 
 contextual-manager-passwords-create-label =
     .label = Añadir contraseña
+contextual-manager-passwords-update-label =
+    .label = Actualizar contraseña
 contextual-manager-passwords-edit-label =
     .label = Editar contraseña
 contextual-manager-passwords-remove-label =
     .title = Eliminar contraseña
 contextual-manager-passwords-origin-tooltip = Introduzca la dirección exacta donde iniciará sesión en este sitio.
 contextual-manager-passwords-username-tooltip = Introduca el nombre de usuario, dirección de correo electrónico o número de cuenta que usa para iniciar sesión.
+contextual-manager-passwords-password-tooltip-2 = Introduzca la contraseña para iniciar sesión en esta cuenta.
 contextual-manager-passwords-password-tooltip = Introduzca la contraseña utilizada para iniciar sesión con esta cuenta.
 
 ## Password Card
@@ -294,6 +308,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = No se han encontrado contraseñas
+contextual-manager-passwords-no-passwords-found-message-2 = Pruebe con un término diferente y busque de nuevo.
 contextual-manager-passwords-no-passwords-found-message = No se han encontrado contraseñas. Busque un término diferente e intente de nuevo.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -308,6 +323,8 @@ contextual-manager-passwords-no-passwords-message = Todas las contraseñas está
 contextual-manager-passwords-no-passwords-get-started-message = Añádalas aquí para empezar.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Añadir manualmente
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Guarde sus contraseñas en un lugar seguro
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
