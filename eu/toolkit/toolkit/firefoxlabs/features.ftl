@@ -52,3 +52,11 @@ experimental-features-link-previews-description-no-ai =
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Gehitu guneak zure ataza-barran
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Ireki askotan bisitatzen dituzun guneak web aplikazio gisa zure ataza-barratik. Bilatu "Gehitu fitxa ataza-barran" ikonoa helbide-barraren eskuinetara, gunea sinplifikatutako leiho batean { -brand-product-name }(r)en babes guztiekin abiarazteko. <a data-l10n-name="connect">Partekatu iritzia</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = { -firefox-home-brand-name }(e)ko zerrendak
