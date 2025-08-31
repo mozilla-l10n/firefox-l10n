@@ -95,6 +95,10 @@ perplexity-callout-primary-label = Spyrja Perplexity
 perplexity-callout-secondary-label-1 = Afgreiða
 perplexity-callout-secondary-label-2 = Náði því
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-new-device-primary-label = Samstilla núna
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sýndu titla flipa í hliðarstikunni
@@ -113,6 +117,10 @@ vertical-tabs-callout-2-title = Ertu með marga opna flipa? Prófaðu lóðrétt
 
 sidebar-pins-callout-title = Ertu að missa yfirsýn yfir mikilvæga flipa?
 sidebar-pins-callout-cta-button = Festa flipa
+
+## Pinning Tabs Strings
+
+pin-tabs-callout-1-title = Hafðu mikilvæga flipa innan seilingar
 
 ## Sidebar Onboarding Strings
 
