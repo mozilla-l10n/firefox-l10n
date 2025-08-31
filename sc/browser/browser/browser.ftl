@@ -141,6 +141,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Aberi pannellu de messàgios
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Aberi su pannellu de rechesta de positzione
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Gesti s’atzessu a is dispositivos locales pro custu situ
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Gesti sa cumpartzidura de s’atzessu a sa rete locale cun custu situ
 urlbar-xr-notification-anchor =
     .tooltiptext = Aberi su pannellu de permissos de realidade virtuale
 urlbar-storage-access-anchor =
@@ -241,6 +245,10 @@ urlbar-search-mode-actions = Atziones
 
 urlbar-geolocation-blocked =
     .tooltiptext = As blocadu is informatziones de sa positzione pro custu situ.
+urlbar-localhost-blocked =
+    .tooltiptext = As blocadu is connessiones a dispositivos locales pro custu situ web.
+urlbar-local-network-blocked =
+    .tooltiptext = As blocadu is connessiones a sa rete locale pro custu situ web.
 urlbar-xr-blocked =
     .tooltiptext = As blocadu s'atzessu a is dispositivos de realidade virtuale pro custu situ.
 urlbar-web-notifications-blocked =
@@ -792,6 +800,68 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrotzinadu
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Ammustra cussìgios
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Immoe nono
+urlbar-result-realtime-opt-in-dismiss = Iscarta
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = No ammustres custos cussìgios
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = No ammustres cussìgios de mercados
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Gràtzias de s’opinione tua. No as a bìdere prus cussìgios de is mercados.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Gràtzias de s’opinione tua. No as a bìdere prus custos cussìgios.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Dae oe a { $daysUntilStart } die
+       *[other] { $name } · Dae oe a { $daysUntilStart } dies
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Cumintzat dae oe a { $daysUntilStart } die
+       *[other] { $name } · Cumintzat dae oe a { $daysUntilStart } dies
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Acabbat dae oe a { $daysUntilEnd } die
+       *[other] { $name } · Acabbat dae oe a { $daysUntilEnd } dies
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Oe
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Acabbat oe
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1341,6 +1411,8 @@ trustpanel-etp-toggle-on =
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
     .aria-label = Amparu megioradu contra sa sighidura: disativadu pro { $host }
+trustpanel-etp-description-enabled = Si ti paret chi custu situ no est funtzionende bene, proa a disativare is ainas de amparu.
+trustpanel-etp-description-disabled = { -brand-product-name } pensat chi is aziendas ti diant dèpere sighire prus pagu. Blocamus totu is sighiduras chi podimus cando tue ativas is protetziones.
 trustpanel-connection-label-secure = Connessione segura
 trustpanel-connection-label-insecure = Connessione non segura
 trustpanel-header-enabled = { -brand-product-name } est in alerta
@@ -1418,4 +1490,42 @@ trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } at blocadu { $count } testimòngiu de sighidura intre sitos
        *[other] { -brand-product-name } at blocadu { $count } testimòngios de sighidura intre sitos
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } at permìtidu { $count } testimòngiu de sighidura intre sitos
+       *[other] { -brand-product-name } at permìtidu { $count } testimòngios de sighidura intre sitos
+    }
+trustpanel-tracking-cookies-tab-list-header = Custos sitos sunt chirchende de ti sighire:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } at blocadu { $count } sighidura
+       *[other] { -brand-product-name } at blocadu { $count } sighiduras
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } at permìtidu { $count } sighidura
+       *[other] { -brand-product-name } at permìtidu { $count } sighiduras
+    }
+trustpanel-tracking-content-tab-list-header = Custos sitos sunt chirchende de ti sighire:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } at blocadu { $count } generadore de imprentas digitales
+       *[other] { -brand-product-name } at blocadu { $count } generadores de imprentas digitales
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } at permìtidu { $count } generadore de imprentas digitales
+       *[other] { -brand-product-name } at permìtidu { $count } generadores de imprentas digitales
+    }
+trustpanel-fingerprinter-list-header = Custos sitos sunt chirchende de generare s’imprenta digitale tua:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } at blocadu { $count } cripto-minadore
+       *[other] { -brand-product-name } at blocadu { $count } cripto-minadores
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } at permìtidu { $count } cripto-minadore
+       *[other] { -brand-product-name } at permìtidu { $count } cripto-minadores
     }
