@@ -397,6 +397,7 @@ windows-10-eos-feature-toast-dismiss-button = Απόρριψη
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Η αυστηρή προστασία από καταγραφή μπορεί να προκαλέσει δυσλειτουργίες στους ιστοτόπους.</strong> Διορθώστε κοινά ζητήματα άροντας τον αποκλεισμό των βασικών στοιχείων που ενδέχεται να περιέχουν ιχνηλάτες.
 etp-strict-exceptions-infobar-learn-more = Μάθετε περισσότερα
 etp-strict-exceptions-infobar-button = Εφαρμογή διορθώσεων
     .accesskey = Ε

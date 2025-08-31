@@ -224,6 +224,8 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message = Δεν είναι δυνατή η προεπισκόπηση αυτού του συνδέσμου
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Επίσκεψη στον σύνδεσμο
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Δεν ήταν δυνατή η δημιουργία των κύριων σημείων για αυτήν την ιστοσελίδα.
 # Error message when something went wrong during key point generation
@@ -236,6 +238,8 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Ενεργοποίηση προεπισκοπήσεων συνδέσμων
     .description = Δείτε τον τίτλο, την περιγραφή της σελίδας και πολλά άλλα όταν χρησιμοποιείτε τη συντόμευση ή κάνετε δεξί κλικ σε έναν σύνδεσμο.
+link-preview-settings-long-press =
+    .label = Συντόμευση: Κάντε κλικ παρατεταμένα στον σύνδεσμο για 1 δευτερόλεπτο (παρατεταμένο πάτημα)
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = Το { -brand-short-name } χρησιμοποιεί τεχνητή νοημοσύνη για να διαβάσει την αρχή της σελίδας και να δημιουργήσει μερικά κύρια σημεία. Για την προστασία του απορρήτου σας, αυτό συμβαίνει στη συσκευή σας.
 # Onboarding card title for long press

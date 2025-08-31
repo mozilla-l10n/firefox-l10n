@@ -1279,10 +1279,14 @@ content-blocking-baseline-exceptions =
     .label = Να επιτρέπεται στο { -brand-short-name } η αυτόματη εφαρμογή των απαιτούμενων εξαιρέσεων για την αποτροπή σημαντικών δυσλειτουργιών στους ιστοτόπους.
 content-blocking-convenience-exceptions =
     .label = Να εμφαρμόζονται επίσης αυτόματα εξαιρέσεις που απαιτούνται μόνο για τη διόρθωση μικρών ζητημάτων και την ενεργοποίηση βολικών λειτουργιών.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Επαναφέρει στοιχεία, όπως βίντεο σε άρθρα ή ενότητες σχολίων, άροντας τον αποκλεισμό των στοιχείων που ενδέχεται να περιέχουν ιχνηλάτες. Αυτό μπορεί να μειώσει τα ζητήματα σε ιστοτόπους, αλλά προσφέρει λιγότερη προστασία. Πρέπει να χρησιμοποιείται με τις διορθώσεις σημαντικών ζητημάτων.
 content-blocking-baseline-label = Διόρθωση σημαντικών ζητημάτων ιστοτόπου (προτείνεται)
 content-blocking-convenience-label = Διόρθωση μικρών ζητημάτων ιστοτόπου
 content-blocking-exceptions-subheader = Διόρθωση ζητημάτων ιστοτόπου
 content-blocking-baseline-uncheck-warning-dialog-title = Θέλετε σίγουρα να απενεργοποιήσετε τις διορθώσεις;
+content-blocking-baseline-uncheck-warning-dialog-body = Αυτή η ρύθμιση συμβάλλει στη διόρθωση των πιο κοινών προβλημάτων των ιστοτόπων. Αν την απενεργοποιήσετε, ορισμένοι ιστότοποι ενδέχεται να μην λειτουργούν και το { -brand-short-name } δεν θα μπορεί να βοηθήσει στην επίλυση αυτών των ζητημάτων.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Απενεργοποίηση διορθώσεων
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Διατήρηση διορθώσεων
 content-blocking-reload-description = Θα πρέπει να φορτώσετε ξανά τις καρτέλες σας για εφαρμογή των αλλαγών αυτών.
