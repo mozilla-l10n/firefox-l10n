@@ -1451,3 +1451,74 @@ trustpanel-list-label-tracking-cookies =
         [one] { $count } vefaka til rakningar á milli vefsvæða
        *[other] { $count } vefökur til rakningar á milli vefsvæða
     }
+trustpanel-list-label-tracking-content = Rakning efnis
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } fingrafarasöfnun
+       *[other] { $count } fingrafarasöfnun
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } rekjari fyrir samfélagsmiðla
+       *[other] { $count } rekjarar fyrir samfélagsmiðla
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } rafmyntagrafari
+       *[other] { $count } rafmyntagrafarar
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } lokaði á { $count } samfélagsmiðlarekjara
+       *[other] { -brand-product-name } lokaði á { $count } samfélagsmiðlarekjara
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } leyfði { $count } samfélagsmiðlarekjara
+       *[other] { -brand-product-name } leyfði { $count } samfélagsmiðlarekjara
+    }
+trustpanel-social-tracking-tab-list-header = Þessi vefsvæði eru að reyna að rekja ferðir þínar:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } lokaði á { $count } rekjara þvert á vefsvæði
+       *[other] { -brand-product-name } lokaði á { $count } rekjara þvert á vefsvæði
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } leyfði { $count } rekjara þvert á vefsvæði
+       *[other] { -brand-product-name } leyfði { $count } rekjara þvert á vefsvæði
+    }
+trustpanel-tracking-cookies-tab-list-header = Þessi vefsvæði eru að reyna að rekja ferðir þínar:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } lokaði á { $count } rekjara
+       *[other] { -brand-product-name } lokaði á { $count } rekjara
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } leyfði { $count } rekjara
+       *[other] { -brand-product-name } leyfði { $count } rekjara
+    }
+trustpanel-tracking-content-tab-list-header = Þessi vefsvæði eru að reyna að rekja ferðir þínar:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } lokaði á { $count } fingrafarasafnara
+       *[other] { -brand-product-name } lokaði á { $count } fingrafarasafnara
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } leyfði { $count } fingrafarasafnara
+       *[other] { -brand-product-name } leyfði { $count } fingrafarasafnara
+    }
+trustpanel-fingerprinter-list-header = Þessi vefsvæði eru að reyna að gera fingrafar af þér:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } lokaði á { $count } rafmyntagrafara
+       *[other] { -brand-product-name } lokaði á { $count } rafmyntagrafara
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } leyfði { $count } rafmyntagrafara
+       *[other] { -brand-product-name } leyfði { $count } rafmyntagrafara
+    }
+trustpanel-cryptominer-tab-list-header = Þessi vefsvæði eru að reyna að grafa eftir rafmyntum hjá þér:

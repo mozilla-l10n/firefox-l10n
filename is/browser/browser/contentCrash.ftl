@@ -33,6 +33,13 @@ pending-crash-reports-always-send =
     .label = Alltaf senda
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Þú ert með ósenda hrunskýrslu sem tengist hrunum sem verið er að rannsaka. Ef þú sendir hana mun það hjálpa okkur að bæta { -brand-product-name }. Ef þessari tilkynningu er lokað verða skýrslurnar hunsaðar.
+       *[other] Þú ert með { $reportCount } ósendar hrunskýrslur sem tengjast hrunum sem verið er að rannsaka. Ef þú sendir þær mun það hjálpa okkur að bæta { -brand-product-name }. Ef þessari tilkynningu er lokað verða skýrslurnar hunsaðar.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Þú ert með ósenda hrunskýrslu sem passar við hrun sem verið er að rannsaka; ef þú sendir hana mun það hjálpa okkur að bæta { -brand-product-name }. Ef þessari tilkynningu er lokað verða þessi skýrsla hunsuð.
