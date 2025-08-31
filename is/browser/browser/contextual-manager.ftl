@@ -341,3 +341,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Já, fjarlægja lykilorð
        *[other] Já, fjarlægja lykilorðin
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Til að sjá vistuð lykilorð skaltu setja inn aðallykilorðið þitt.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Settu inn aðallykilorð
+contextual-manager-primary-password-learn-more-link = Frekari upplýsingar
