@@ -243,6 +243,10 @@ urlbar-search-mode-actions = Aðgerðir
 
 urlbar-geolocation-blocked =
     .tooltiptext = Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.
+urlbar-localhost-blocked =
+    .tooltiptext = Þú hefur lokað fyrir tengingar staðbundinna tækja á þessu vefsvæði.
+urlbar-local-network-blocked =
+    .tooltiptext = Þú hefur lokað fyrir tengingar staðbundins nets á þessu vefsvæði.
 urlbar-xr-blocked =
     .tooltiptext = Þú hefur lokað fyrir aðgang sýndarveruleikatækja á þessu vefsvæði.
 urlbar-web-notifications-blocked =
@@ -1441,6 +1445,7 @@ trustpanel-blocked-header = { -brand-product-name } lokaði á þetta fyrir þig
 trustpanel-tracking-header = { -brand-product-name } leyfði þetta svo vefsvæði birtist rétt:
 trustpanel-tracking-description = Án rekjara gætu sumir hnappar, innfyllingaform og innskráningarreitir ekki virkað rétt.
 trustpanel-insecure-section-header = Tengingin þín er ekki örugg
+trustpanel-insecure-description = Gögnin sem þú sendir á þetta vefsvæði eru ekki dulrituð. Þau gætu verið skoðuð af óviðkomandi, þeim stolið eða breytt.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } vefaka til rakningar á milli vefsvæða
