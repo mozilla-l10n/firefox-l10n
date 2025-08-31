@@ -1529,3 +1529,4 @@ trustpanel-cryptominer-not-blocking-tab-header =
         [one] { -brand-product-name } at permìtidu { $count } cripto-minadore
        *[other] { -brand-product-name } at permìtidu { $count } cripto-minadores
     }
+trustpanel-cryptominer-tab-list-header = Custos sitos sunt chirchende de minare cripto-monedas:

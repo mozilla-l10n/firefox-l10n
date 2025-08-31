@@ -214,3 +214,7 @@ link-preview-reading-time =
         [one] Tempus de letura de { $range } minutu
        *[other] Tempus de letura de { $range } minutos
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Non faghet a ammustrare una previsualizatzione de custu ligòngiu
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Bìsita su ligòngiu

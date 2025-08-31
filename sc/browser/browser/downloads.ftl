@@ -187,6 +187,7 @@ downloads-details =
 
 downloads-private-browsing-details =
     .title = Is archìvios abarrant in su dispositivu tuo
+downloads-private-browsing-message = Cale si siat persone chi impreet custu dispositivu podet bìdere is iscarrigamentos, fintzas cando as a àere serradu totu is ventanas privadas.
 downloads-private-browsing-delete-button =
     .label = Cantzella is archìvios in automàticu
     .accesskey = C

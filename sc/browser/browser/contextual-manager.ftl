@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importa dae un'àteru
 contextual-manager-passwords-command-import = Importa dae un'archìviu...
 contextual-manager-passwords-command-export = Esporta is craes
 contextual-manager-passwords-command-remove-all = Boga totu is craes
+contextual-manager-passwords-command-options = Optziones
 contextual-manager-passwords-command-settings = Cunfiguratziones
 contextual-manager-passwords-command-help = Agiudu
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -69,6 +70,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Noas: { $added }; atualizadas: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Noas: { $added }, atualizadas: { $modified }, duplicadas: { $no_change }, faddinas: { $error }
 contextual-manager-passwords-import-detailed-report = Ammustra un’informe a sa minuda
 contextual-manager-passwords-import-success-button = Fatu
 contextual-manager-passwords-import-error-heading-and-message =
@@ -160,6 +167,10 @@ contextual-manager-passwords-password-already-exists-error-button = Bae a sa cra
 contextual-manager-passwords-update-password-success-heading =
     .heading = Crae sarvada
 contextual-manager-passwords-update-password-success-button = Fatu
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Nòmine de utente sarvadu
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Nòmine de utente agiuntu
 contextual-manager-passwords-update-username-success-heading =
     .heading = Nòmine de utente sarvadu
 # Message to confirm successful removal of a password/passwords.
@@ -206,10 +217,15 @@ contextual-manager-passwords-title = Craes
 
 contextual-manager-passwords-create-label =
     .label = Agiunghe crae
+contextual-manager-passwords-update-label =
+    .label = Atualiza sa crae
 contextual-manager-passwords-edit-label =
     .label = Modìfica sa crae
 contextual-manager-passwords-remove-label =
     .title = Canzella sa crae
+contextual-manager-passwords-username-tooltip = Inserta·nche su nòmine, s’indiritzu eletrònicu o su nùmeru de contu chi impreas pro ti identificare.
+contextual-manager-passwords-password-tooltip-2 = Inserta·nche sa crae pro ti identificare in custu contu.
+contextual-manager-passwords-password-tooltip = Inserta·nche sa crae impreada pro ti identificare in custu contu.
 
 ## Password Card
 
@@ -287,6 +303,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nissuna crae agatada
+contextual-manager-passwords-no-passwords-found-message-2 = Proa unu tèrmine diferente e torra·nche a proare.
 contextual-manager-passwords-no-passwords-found-message = Nissuna crae agatada. Chirca unu tèrmine diversu e torra a nche proare.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -298,6 +315,8 @@ contextual-manager-passwords-no-passwords-header = Sarva is craes tuas in logu s
 contextual-manager-passwords-no-passwords-get-started-message = Agiunghe·ddas inoghe pro cumintzare.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Agiunghe a manu
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Sarva is craes tuas in logu seguru
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -314,3 +333,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Eja, cantzella sa crae
        *[other] Eja, cantzella is craes
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Pro bìdere is craes sarvadas, inserta·nche sa crae printzipale.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Inserta·nche sa crae printzipale
+contextual-manager-primary-password-learn-more-link = Àteras informatziones

@@ -73,7 +73,7 @@ delete-profile-windows = Ventanas abertas
 # Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Ischedas abertas
 delete-profile-bookmarks = Sinnalibros
-delete-profile-history = Cronologia (pàginas visitadas, testimòngios, datos de is sitos)
+delete-profile-history = Cronologia (pàginas bisitadas, testimòngios, datos de is sitos)
 delete-profile-autofill = Datos de cumpletamentu automàticu (indiritzos, mètodos de pagamentu)
 delete-profile-logins = Craes
 

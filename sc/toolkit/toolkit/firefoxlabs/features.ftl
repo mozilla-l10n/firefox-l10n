@@ -20,4 +20,4 @@ experimental-features-link-previews =
 experimental-features-fx-web-apps =
     .label = Agiunghe sitos a sa barra de tareas
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
-experimental-features-fx-web-apps-description = Aberi sitos chi visitas a s’ispissu comente un’aplicatzione deretu dae sa barra de aplicatziones. Chirca s’icona “Agiunghe s’ischeda a sa barra de tareas” a dereta de sa barra de indiritzos pro abèrrere su situ in una ventana otimizada cun totu is amparos de { -brand-product-name }. <a data-l10n-name="connect">Cumpartzi s’opinione tua</a>
+experimental-features-fx-web-apps-description = Aberi sitos chi bìsitas a s’ispissu comente un’aplicatzione deretu dae sa barra de aplicatziones. Chirca s’icona “Agiunghe s’ischeda a sa barra de tareas” a dereta de sa barra de indiritzos pro abèrrere su situ in una ventana otimizada cun totu is amparos de { -brand-product-name }. <a data-l10n-name="connect">Cumpartzi s’opinione tua</a>
