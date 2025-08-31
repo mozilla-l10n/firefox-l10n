@@ -49,6 +49,10 @@ experimental-features-link-previews-description-no-ai =
         [macos] Klik egin aurretik webgune bati buruzko argibide gehiago izateko, pasatu sagua loturaren gainetik eta sakatu Shift (⇧) + Aukera (⌥) edo Alt. Aurrebistek hainbat xehetasun izan ditzakete, hala nola izenburua edo irakurketa-denbora. <a data-l10n-name="connect">Eman iritzia</a>
        *[other] Klik egin aurretik webgune bati buruzko argibide gehiago izateko, pasatu sagua loturaren gainetik eta sakatu Shift + Alt. Aurrebistek hainbat xehetasun izan ditzakete, hala nola izenburua edo irakurketa-denbora. <a data-l10n-name="connect">Eman iritzia</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Gaien atala eta fitxa berriko istorioak jarraitzea/blokeatzea
+experimental-features-newtab-sections-follow-block-description = Antolatu fitxa berriaren orriko istorioak ataletan (kirolak, gastronomia, dibertimendua eta gehiago), esperientzia egituratuagoa eta eskaneatzeko errazagoa izateko. Erabili gure jarraitzeko eta blokeatzeko kontrol berriak ikusten duzun edukia pertsonalizatzeko. <a data-l10n-name="connect">Partekatu iritzia</a>
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Gehitu guneak zure ataza-barran
@@ -60,3 +64,12 @@ experimental-features-fx-web-apps-description = Ireki askotan bisitatzen dituzun
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = { -firefox-home-brand-name }(e)ko zerrendak
+experimental-features-newtab-widget-lists-description = Mantendu zure zereginen zerrenda ikusgai fitxa berria irekitzen duzunean. Ekipajea prestatzetik erosketa-zerrendetara, egin zure planak { -brand-product-name }(e)n. <a data-l10n-name="connect">Partekatu iritzia</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = { -firefox-home-brand-name }(e)ko tenporizadorea
+experimental-features-newtab-widget-timer-description = Ezarri tenporizadorea zure fokua mantentzeko, bide onetik jarraitu eta deskantsua hartzea gogorarazteko. <a data-l10n-name="connect">Partekatu iritzia</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = { -firefox-home-brand-name }(e)ko zerrendak eta tenporizadorea
+experimental-features-newtab-widget-lists-and-timer-description = Mantendu zure zereginen zerrenda ikusgai fitxa berria irekitzen duzunean. Ekipajea prestatzetik erosketa-zerrendetara, egin zure planak { -brand-product-name }(e)n. Ezarri tenporizadorea zure fokua mantentzeko, bide onetik jarraitu eta deskantsua hartzea gogorarazteko. <a data-l10n-name="connect">Partekatu iritzia</a>
