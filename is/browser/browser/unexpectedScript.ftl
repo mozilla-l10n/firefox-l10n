@@ -15,6 +15,16 @@ unexpected-script-load-message-button-block =
     .label = Loka á
     .accesskey = k
 unexpected-script-load-title = Óvænt innhleðsla skriftu
+unexpected-script-load-detail-1-allow = { -brand-short-name } mun <strong>LEYFA</strong> óvæntum skriftum með auknar heimildir að hlaðast inn, þar á meðal þá sem er hér að neðan. Þetta mun gera uppsetninguna þína á { -brand-short-name } <strong>minna örugga</strong>.
+unexpected-script-load-detail-1-block = { -brand-short-name } mun <strong>LOKA Á</strong> óvæntar skriftur með auknar heimildir að hlaðast inn, þar á meðal þá sem er hér að neðan. Þetta mun gera uppsetninguna þína á { -brand-short-name } <strong>öruggari</strong>.
+# In this text "the functionality" refers to whatever the unexpected script is doing.
+# Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
+# They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
+unexpected-script-load-detail-2 = Jafnvel þótt þú leyfir þessa skriftu, þá skaltu tilkynna hana til { -vendor-short-name } til að hjálpa til við að skilja hvernig og hvers vegna henni var hlaðið inn. <em>Án þessara upplýsinga mun þessi virkni skemmast í framtíðinni.</em>
+unexpected-script-load-report-checkbox =
+    .label = Tilkynna slóð þessarar skriftu til { -vendor-short-name }
+unexpected-script-load-email-checkbox =
+    .label = Láta póstfangið mitt fylgja með svo { -vendor-short-name } geti haft samband ef þörf krefur
 unexpected-script-load-email-textbox =
     .placeholder = Settu hér inn tölvupóstfang
     .aria-label = Settu hér inn tölvupóstfang

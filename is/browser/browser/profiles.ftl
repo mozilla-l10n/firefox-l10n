@@ -34,6 +34,17 @@ edit-profile-page-avatar-header-2 =
     .label = Auðkennismynd
 edit-profile-page-delete-button =
     .label = Eyða
+edit-profile-page-avatar-selector-opener-link = Breyta
+avatar-selector-icon-tab = Táknmynd
+avatar-selector-custom-tab = Sérsniðið
+avatar-selector-cancel-button =
+    .label = Hætta við
+avatar-selector-save-button =
+    .label = Vista
+avatar-selector-upload-file = Sendu inn skrá
+avatar-selector-drag-file = Eða dragðu skrá hingað
+avatar-selector-add-image = Bæta við mynd
+avatar-selector-crop = Utansníða
 edit-profile-page-no-name = Gefðu þessu notkunarsniði nafn til að hjálpa þér að finna það síðar. Endurnefndu það hvenær sem er.
 edit-profile-page-duplicate-name = Heiti notkunarsniðs er þegar í notkun. Prófaðu nýtt nafn.
 edit-profile-page-profile-saved = Vistað
@@ -96,6 +107,16 @@ profiles-ocean-theme-2 = Hafblátt
 profiles-terracotta-theme-2 = Múrsteinsrautt
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mosagrænt
+profiles-gray-theme = Grátt
+profiles-yellow-theme = Gult
+profiles-orange-theme = Appelsínugult
+profiles-red-theme = Rautt
+profiles-pink-theme = Bleikt
+profiles-purple-theme = Purpurablátt
+profiles-violet-theme = Fjólublátt
+profiles-blue-theme = Blátt
+profiles-green-theme = Grænt
+profiles-cyan-theme = Blágrænt
 
 ## Alternative text for default profile icons
 
@@ -103,14 +124,34 @@ book-avatar-alt =
     .alt = Bók
 briefcase-avatar-alt =
     .alt = Skjalataska
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Myndflötur
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Handverk
 flower-avatar-alt =
     .alt = Blóm
+folder-avatar-alt =
+    .alt = Mappa
+hammer-avatar-alt =
+    .alt = Hamar
 heart-avatar-alt =
     .alt = Hjarta
+heart-rate-avatar-alt =
+    .alt = Hjartsláttur
+history-avatar-alt =
+    .alt = Ferill
+leaf-avatar-alt =
+    .alt = Lauf
+lightbulb-avatar-alt =
+    .alt = Ljósapera
 shopping-avatar-alt =
     .alt = Innkaupakarfa
 star-avatar-alt =
     .alt = Stjarna
+custom-avatar-alt =
+    .alt = Sérsniðin auðkennismynd
 
 ## Labels for default avatar icons
 
