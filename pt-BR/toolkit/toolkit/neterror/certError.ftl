@@ -70,7 +70,7 @@ cert-error-details-cert-chain-label = Cadeia de certificados:
 open-in-new-window-for-csp-or-xfo-error = Abrir site em nova janela
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
-csp-xfo-blocked-long-desc = Para proteger sua segurança, { $hostname } não permite que o { -brand-short-name } exiba a página se outro site o tiver incorporado. Para ver esta página, você precisa abrir em uma nova janela.
+csp-xfo-blocked-long-desc = Para proteger sua segurança, { $hostname } não permite que o { -brand-short-name } exiba a página se outro site a tiver incorporado. Para ver esta página, você precisa abrir em uma nova janela.
 fp-certerror-view-certificate-link = Ver o certificado do site
 fp-certerror-return-to-previous-page-recommended-button = Voltar (recomendado)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)

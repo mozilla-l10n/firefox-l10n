@@ -173,6 +173,8 @@ permissions-site-camera-disable-desc = Ин амал ҳамаи сомонаҳо
 permissions-site-localhost-window =
     .title = Танзимот - Барномаҳо ва хизматҳои дастгоҳ
     .style = { permissions-window2.style }
+permissions-site-localhost-disable-label =
+    .label = Дархостҳои навро манъ кунед, то дар ин дастгоҳ ба барномаҳо ва хизматҳо дастрасӣ пайдо накунанд
 
 ## Site Permissions - Local network
 
