@@ -112,6 +112,8 @@ urlbar-result-menu-report-inaccurate-location =
     .label = ລາຍງານສະຖານທີ່ບໍ່ຖືກຕ້ອງ
 urlbar-result-menu-show-less-frequently =
     .label = ສະແດງໜ້ອຍລົງເລື້ອຍໆ
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = ຢ່າສະແດງຄຳແນະນຳສະພາບອາກາດ
 # Used for Split Button.
 urlbar-splitbutton-dropmarker =
     .title = ເປີດເມນູ
@@ -1162,14 +1164,24 @@ file-picker-crashed-show-in-folder =
     .label = ສະແດງໃນ Finder
     .accessKey = F
 
+## Onboarding Finish Setup checklist
+
+onboarding-checklist-button-label = ສຳເລັດການຕັ້ງຄ່າ
+
 ## The urlbar trust panel
 
 trustpanel-etp-label-enabled = ການປົກປ້ອງການຕິດຕາມແບບປັບປຸງເປີດຢູ່
 trustpanel-etp-label-disabled = ການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງດີຂຶ້ນປິດຢູ່
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = ການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງແລ້ວ: ເປີດສໍາລັບ { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
     .aria-label = ການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງແລ້ວ: ປິດສຳລັບ { $host }
+trustpanel-etp-description-enabled = ຖ້າມີບາງຢ່າງຜິດປົກກະຕິຢູ່ໃນເວັບໄຊນີ້, ໃຫ້ລອງປິດການປ້ອງກັນ.
+trustpanel-etp-description-disabled = { -brand-product-name } ຄິດວ່າບໍລິສັດຄວນຕິດຕາມທ່ານໜ້ອຍລົງ. ພວກເຮົາບລັອກຕົວຕິດຕາມຫຼາຍເທົ່າທີ່ພວກເຮົາສາມາດເຮັດໄດ້ເມື່ອທ່ານເປີດການປົກປ້ອງ.
 trustpanel-connection-label-secure = ການເຊື່ອມຕໍ່ແມ່ນປອດໄພ
 trustpanel-connection-label-insecure = ການເຊື່ອມຕໍ່ບໍ່ປອດໄພ
 trustpanel-header-enabled = { -brand-product-name } ແມ່ນເຝົ້າລະວັງ

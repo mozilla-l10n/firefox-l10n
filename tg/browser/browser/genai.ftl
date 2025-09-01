@@ -244,6 +244,10 @@ link-preview-settings-long-press =
     .label = Миёнбур: Пайвандро ба муддати 1 сония зер карда, доред (пахши дароз)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Ба воситаи зеҳни сунъӣ «AI» маълумоти боз ҳам бештарро мебинед?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = Браузери «{ -brand-short-name }» барои хондани матни аввали саҳифа ва эҷод кардани баъзе нуқтаҳои асосӣ аз зеҳни сунъӣ «AI» истифода мебарад. Барои ҳифз кардани махфияти шумо, ин амал дар ҳудуди дастгоҳи шумо иҷро карда мешавад.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Нав: Барои пешнамоиш кардани ҳар гуна пайванд, онро зер карда, доред
 # Header for the key points section
 link-preview-key-points-header = Нуқтаҳои асосӣ
 # Onboarding card See a preview button
