@@ -22,3 +22,6 @@ experimental-features-contextual-password-manager =
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Veldu sérsniðinn bakgrunn eða lit fyrir nýjan flipa
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Bættu vefsvæðum á verkefnastikuna þína

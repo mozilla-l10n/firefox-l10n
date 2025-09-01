@@ -815,6 +815,14 @@ urlbar-result-realtime-opt-in-not-now = Ekki núna
 urlbar-result-realtime-opt-in-dismiss = Afgreiða
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Ekki sýna þessar tillögur
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Ekki sýna tillögur um fjármálamarkaði
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Takk fyrir álit þitt. Þú munt ekki lengur sjá tillögur um fjármálamarkaði.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Takk fyrir álit þitt. Þú munt ekki lengur sjá þessar tillögur.
 
 ## These strings are used for suggestions of important dates in the urlbar.
 

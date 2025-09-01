@@ -129,11 +129,13 @@ addon-install-error-corrupt-file = Ekki tókst að setja inn viðbót frá þess
 addon-install-error-file-access = Ekki tókst að setja inn { $addonName } þar sem { -brand-short-name } getur ekki breytt nauðsynlegri skrá.
 addon-install-error-not-signed = { -brand-short-name } kom í veg fyrir að þetta vefsvæði gæti sett inn óstaðfestar viðbætur.
 addon-install-error-invalid-domain = Ekki er hægt að setja viðbótina { $addonName } upp af þessari staðsetningu.
+addon-install-error-no-addon-name-file-access = Ekki tókst að setja inn þessa viðbót þar sem { -brand-short-name } getur ekki breytt nauðsynlegri skrá.
 addon-local-install-error-network-failure = Ekki tókst að setja inn viðbótina þar sem upp kom villa í skráarkerfi.
 addon-local-install-error-incorrect-hash = Ekki tókst að setja inn viðbótina þar sem hún passar ekki við viðbótina { -brand-short-name } eins og búist var við.
 addon-local-install-error-corrupt-file = Ekki tókst að setja inn viðbótina þar sem hún virðist vera gölluð.
 addon-local-install-error-file-access = Ekki tókst að setja inn { $addonName } þar sem { -brand-short-name } getur ekki breytt nauðsynlegri skrá.
 addon-local-install-error-not-signed = Ekki tókst að setja inn viðbótina þar sem hún er óstaðfest.
+addon-local-install-no-addon-name-error-file-access = Ekki tókst að setja inn þessa viðbót þar sem { -brand-short-name } getur ekki breytt nauðsynlegri skrá.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Ekki tókst að setja inn { $addonName } þar sem hún er ekki samhæfð við { -brand-short-name } { $appVersion }.

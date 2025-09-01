@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Spyrja { $provider }
+genai-menu-open-generic =
+    .label = Opna gervigreindarspjallkerfi
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Opna { $provider }
 genai-menu-remove-generic =
     .label = Fjarlægja gervigreindarspjallkerfi
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Fjarlægja { $provider }
+genai-menu-remove-sidebar =
+    .label = Fjarlægja af hliðarstiku
+genai-menu-new-badge = Nýtt
+genai-menu-summarize-page = Gera samantekt síðu
 genai-input-ask-generic =
     .placeholder = Spyrja gervigreindarspjallkerfi…
 # $provider (string) - name of the provider
@@ -82,6 +91,8 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Fela flýtileið spjallkerfis
+genai-menu-choose-chatbot =
+    .label = Veldu gervigreindarspjallkerfi
 
 ## Chatbot header
 
@@ -105,6 +116,10 @@ genai-options-hide-shortcut =
     .label = Fela flýtileið þegar texti er valinn
 genai-options-about-chatbot =
     .label = Um gervigreindar-spjallkerfi í { -brand-short-name }
+
+## Chatbot footer
+
+genai-page-button-summarize = Gera samantekt efnis á síðu
 
 ## Chatbot onboarding
 
@@ -182,9 +197,13 @@ link-preview-reading-time =
         [one] { $range } mínútu lestrartími
        *[other] { $range } mínútna lestrartími
     }
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Við getum ekki útbúið lykilatriði fyrir þessa vefsíðu.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Eitthvað fór úrskeiðis.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Reyna aftur
+# Header for the key points section
+link-preview-key-points-header = Lykilatriði
 # Onboarding card Close button
 link-preview-onboarding-close = Loka
