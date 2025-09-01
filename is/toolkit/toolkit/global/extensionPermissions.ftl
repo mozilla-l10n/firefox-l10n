@@ -40,3 +40,21 @@ webext-perms-description-webNavigation = Skoða vafranotkun við að fara um
 webext-perms-extra-warning-userScripts-long = Óstaðfestar skriftur geta valdið öryggis- og persónuverndaráhættu, svo sem það að keyra skaðlegan kóða eða rekja virkni vefsvæðis. Keyrðu aðeins skriftur frá viðbótum eða uppruna sem þú treystir.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Óstaðfestar skriftur geta valdið öryggis- og persónuverndaráhættu. Keyrðu aðeins skriftur frá viðbótum eða uppruna sem þú treystir.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+webext-perms-description-data-short-authenticationInfo = upplýsingar um auðkenningu
+webext-perms-description-data-short-bookmarksInfo = bókamerki
+webext-perms-description-data-short-browsingActivity = vafurvirkni
+webext-perms-description-data-short-financialAndPaymentInfo = fjárhagslegar og greiðsluupplýsingar
+webext-perms-description-data-short-healthInfo = upplýsingar um heilsufar
+webext-perms-description-data-short-locationInfo = staðsetning
+webext-perms-description-data-short-personalCommunications = persónuleg samskipti
+webext-perms-description-data-short-personallyIdentifyingInfo = persónugreinanlegar upplýsingar
+webext-perms-description-data-short-searchTerms = leitarorð
+webext-perms-description-data-short-technicalAndInteraction = tækni- og gagnvirknigögn
+webext-perms-description-data-short-websiteActivity = virkni á vefsvæðum
+webext-perms-description-data-short-websiteContent = efni vefsvæða

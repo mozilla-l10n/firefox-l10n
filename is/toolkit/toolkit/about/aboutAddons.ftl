@@ -519,3 +519,14 @@ plugins-openh264-name = OpenH264 Video Codec gert af Cisco Systems, Inc.
 plugins-openh264-description = Þetta tengiforrit er sett inn sjálfkrafa frá Mozilla til að fara eftir WebRTC staðlinum og til að leyfa WebRTC köll á tæki sem þarfnast H.264 mynd kóðara. Kíktu á http://www.openh264.org/ til að skoða frumkóðann og fræðast meira um útfærsluna.
 plugins-widevine-name = Widevine Content Decryption Module frá Google Inc.
 plugins-widevine-description = Þetta tengiforrit býður upp á afspilun dulkóðaðra miðla í samræmi við forskrift Encrypted Media Extensions. Dulkóðaðir miðlar eru venjulega notaðir á síðum til þess að verja þær fyrir afritun gæðainnihalds. Heimsækið https://www.w3.org/TR/encrypted-media/ fyrir frekari upplýsingar um Encrypted Media Extensions.
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Fjarlægja
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Skrárstærð
+mlmodel-addon-detail-last-used-label = Síðast notað
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Notað af

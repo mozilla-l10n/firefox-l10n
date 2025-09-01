@@ -360,11 +360,13 @@ windows-10-eos-sync-spotlight-primary-label = Барои «{ -brand-short-name }
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Низоми худро ба версияи «Windows 11» такмил медиҳед? Хатбаракҳо ва ниҳонвожаҳои худро аз даст надиҳед.
+windows-10-eos-sync-toast-subtitle = Барои маълумоти шахсии худ нусхаи эҳтиётиро таҳия кунед, то ки браузери «{ -brand-short-name }» дар вақти дилхоҳ барои кор дар ин компютер ё ягон дастгоҳи дигар омода шавад.
 windows-10-eos-sync-toast-primary-label = Оғози кор
 windows-10-eos-sync-toast-secondary-label = Баъдтар ёдоварӣ кунед
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = Браузери «{ -brand-product-name }» нисбат ба браузерҳои дигари ташкилотҳои технологии бузург (BigTech) пешакӣ бор карда нашудааст. Мағз дар ҳамин чиз аст.
 windows-10-eos-challenger-sync-primary-button = Таҳия кардани нусхаи эҳтиётии «{ -brand-shorter-name }»
 windows-10-eos-challenger-pin-primary-button = Васл кардани «{ -brand-shorter-name }»
 windows-10-eos-sync-callout-privacy-screen-1-title = Браузери «{ -brand-product-name }» криптомайнерҳо, васоити пайгирии шабакаҳои иҷтимоӣ ва хонандаи нақши ангуштонро манъ мекунад.
