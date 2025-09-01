@@ -319,6 +319,7 @@ fxa-menu-message-sign-in-button = Ворид шудан
 fxa-menu-message-sync-button = Оғози ҳамоҳангсозӣ
 fxa-menu-message-sync-devices-primary-text = Ҳамаи дастгоҳҳои худро ҳамоҳанг созед
 fxa-menu-message-sync-devices-secondary-text = Маълумоти худро дарҳол ба даст оред — барои мисол, хатбаракҳо ва ниҳонвожаҳо — дар ҳамаи ҷойҳое, ки шумо аз «{ -brand-short-name }» истифода мебаред.
+fxa-menu-message-sync-devices-secondary-text2 = Хатбаракҳо, ниҳонвожаҳо ва маълумоти дигари худро дарҳол ба даст оред — дар ҳамаи ҷойҳое, ки шумо ба «{ -brand-short-name }» ворид мешавед.
 fxa-menu-message-sync-devices-collapsed-text = Ҳамаи дастгоҳҳои худро ҳамоҳанг созед
 fxa-menu-message-backup-data-primary-text = Сохтани нусхаи эҳтиётии маълумоти браузери шумо
 fxa-menu-message-backup-data-secondary-text = Хатбаракҳо, ниҳонвожаҳо ва маълумоти дигарро дар ҳамаи дастгоҳҳои худ ба таври худкор муҳофизат намоед.
@@ -353,10 +354,12 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Браузери дӯстд
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = Ба наздикӣ аз «Windows 10» ба версияи навтар мегузаред?
+windows-10-eos-sync-spotlight-subtitle = Барои ниҳонвожаҳо ва хатбаракҳои худ нусхаи эҳтиётиро таҳия кунед, то шумо тавонед омода шуда, ба ҳар гуна дастгоҳ бо осоиш гузаред.
 windows-10-eos-sync-spotlight-primary-label = Барои «{ -brand-short-name }»-и худ нусхаи эҳтиётиро таҳия намоед
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Низоми худро ба версияи «Windows 11» такмил медиҳед? Хатбаракҳо ва ниҳонвожаҳои худро аз даст надиҳед.
 windows-10-eos-sync-toast-primary-label = Оғози кор
 windows-10-eos-sync-toast-secondary-label = Баъдтар ёдоварӣ кунед
 
