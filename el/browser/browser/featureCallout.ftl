@@ -183,7 +183,7 @@ sidebar-callout-survey-satisfied = Ικανοποιημένος/-η
 sidebar-callout-survey-neutral = Ουδέτερος/-η
 sidebar-callout-survey-dissatisfied-2 = Δυσαρεστημένος/-η
 sidebar-callout-survey-very-dissatisfied-2 = Πολύ δυσαρεστημένος/-η
-sidebar-callout-survey-dont-use-it = Δεν το χρησιμοποιώ
+sidebar-callout-survey-dont-use-it = Δεν τη χρησιμοποιώ
 sidebar-callout-survey-productive-question =
     Σε ποιο βαθμό συμφωνείτε ή διαφωνείτε με αυτήν τη δήλωση:<br/>
     «Η πλαϊνή γραμμή του { -brand-short-name } με βοηθά να γίνω πιο παραγωγικός/-ή»;

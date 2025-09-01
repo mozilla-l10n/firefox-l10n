@@ -142,9 +142,9 @@ urlbar-default-notification-anchor =
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Άνοιγμα πίνακα αιτήματος τοποθεσίας
 urlbar-localhost-notification-anchor =
-    .tooltiptext = Διαχείριση τοπικής πρόσβασης συσκευών για αυτή τη σελίδα
+    .tooltiptext = Διαχειριστείτε την πρόσβαση στις τοπικές συσκευές για αυτόν τον ιστότοπο
 urlbar-local-network-notification-anchor =
-    .tooltiptext = Διαχείριση διαμοιρασμού πρόσβασης του τοπικού δικτύου σας με αυτόν τον ιστότοπο
+    .tooltiptext = Διαχειριστείτε τον διαμοιρασμό της πρόσβασης στο τοπικό δίκτυό σας με αυτόν τον ιστότοπο
 urlbar-xr-notification-anchor =
     .tooltiptext = Άνοιγμα πίνακα δικαιωμάτων εικονικής πραγματικότητας
 urlbar-storage-access-anchor =
@@ -246,9 +246,9 @@ urlbar-search-mode-actions = Ενέργειες
 urlbar-geolocation-blocked =
     .tooltiptext = Έχετε αποκλείσει τις πληροφορίες τοποθεσίας σε αυτόν τον ιστότοπο.
 urlbar-localhost-blocked =
-    .tooltiptext = Έχετε αποκλείσει συνδέσεις τοπικών συσκευών σε αυτόν τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει τις συνδέσεις με τις τοπικές συσκευές για αυτόν τον ιστότοπο.
 urlbar-local-network-blocked =
-    .tooltiptext = Έχετε αποκλείσει τις συνδέσεις δικτύου για αυτή την ιστοσελίδα.
+    .tooltiptext = Έχετε αποκλείσει τις συνδέσεις με το τοπικό δίκτυο για αυτόν τον ιστότοπο.
 urlbar-xr-blocked =
     .tooltiptext = Έχετε αποκλείσει την πρόσβαση συσκευών εικονικής πραγματικότητας σε αυτόν τον ιστότοπο.
 urlbar-web-notifications-blocked =
@@ -672,7 +672,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor2 =
     .tooltiptext = Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα (αιτία: { $component })
 urlbar-permissions-granted =
-    .tooltiptext = Έχετε χορηγήσει επιπλέον άδειες σε αυτόν τον ιστότοπο.
+    .tooltiptext = Έχετε χορηγήσει πρόσθετα δικαιώματα σε αυτόν τον ιστότοπο.
 urlbar-switch-to-tab =
     .value = Εναλλαγή σε καρτέλα:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -1240,7 +1240,7 @@ restore-session-startup-suggestion-button = Εμφάνιση οδηγιών
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
-filepicker-blocked-infobar = Η εταιρεία σας έχει αποκλείσει την πρόσβαση σε τοπικά αρχεία αυτού του υπολογιστή
+filepicker-blocked-infobar = Ο οργανισμός σας έχει αποκλείσει την πρόσβαση στα τοπικά αρχεία αυτού του υπολογιστή
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1327,7 +1327,7 @@ refresh-blocked-allow =
 firefox-relay-offer-why-to-use-relay = Οι ασφαλείς και εύχρηστες μάσκες μας, προστατεύουν την ταυτότητά σας και αποτρέπουν τα ανεπιθύμητα μηνύματα κρύβοντας τη διεύθυνση email σας.
 # Variables:
 #  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-provides = Όλα τα email που αποστέλλονται στις μάσκες email σας θα προωθηθούν στη διεύθυνση <strong>{ $useremail }</strong> (εκτός εάν αποφασίσετε να τα αποκλείσετε).
+firefox-relay-offer-what-relay-provides = Όλα τα email που αποστέλλονται στις μάσκες email σας θα προωθούνται στο <strong>{ $useremail }</strong> (εκτός εάν αποφασίσετε να τα αποκλείσετε).
 firefox-relay-offer-legal-notice = Κάνοντας κλικ στο «Χρήση μάσκας email», συμφωνείτε με τους <label data-l10n-name="tos-url">Όρους υπηρεσίας</label> και τη <label data-l10n-name="privacy-url">Σημείωση απορρήτου </label>.
 
 ## Add-on Pop-up Notifications
