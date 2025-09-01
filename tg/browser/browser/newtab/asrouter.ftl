@@ -362,6 +362,8 @@ windows-10-eos-sync-toast-secondary-label = Баъдтар ёдоварӣ кун
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-primary-button = Таҳия кардани нусхаи эҳтиётии «{ -brand-shorter-name }»
+windows-10-eos-challenger-pin-primary-button = Васл кардани «{ -brand-shorter-name }»
 windows-10-eos-sync-callout-next-button = Навбатӣ
 windows-10-eos-sync-callout-get-started-button = Оғози кор
 

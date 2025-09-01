@@ -248,8 +248,15 @@ link-preview-optin-title = Ба воситаи зеҳни сунъӣ «AI» ма
 link-preview-optin-message = Браузери «{ -brand-short-name }» барои хондани матни аввали саҳифа ва эҷод кардани баъзе нуқтаҳои асосӣ аз зеҳни сунъӣ «AI» истифода мебарад. Барои ҳифз кардани махфияти шумо, ин амал дар ҳудуди дастгоҳи шумо иҷро карда мешавад.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Нав: Барои пешнамоиш кардани ҳар гуна пайванд, онро зер карда, доред
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Тавсифи мухтасар, вақти хониш ва маълумоти иловагиро бинед ва пас худатон қарор диҳед, агар кушодани ин пайванд сазовори таваҷҷуҳ бошад. Инчунин, ин амал бо зер кардани тугмаи рости муш дастрас аст.
 # Header for the key points section
 link-preview-key-points-header = Нуқтаҳои асосӣ
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Нуқтаҳои асосӣ ба воситаи зеҳни сунъӣ «AI» эҷод карда шудаанд ва метавонанд хатоҳоро дар бар гиранд.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Танзими бори аввал • <strong>{ $progress }%</strong>
 # Onboarding card See a preview button
 link-preview-onboarding-button = Дидани пешнамоиш
 # Onboarding card Close button
