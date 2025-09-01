@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = 更新历史
-history-intro = 以下更新已被安装
+history-intro = 以下更新已安装
 close-button-label =
     .buttonlabelcancel = 关闭
     .title = 更新历史
