@@ -373,6 +373,7 @@ windows-10-eos-challenger-sync-primary-button = Таҳия кардани нус
 windows-10-eos-challenger-pin-primary-button = Васл кардани «{ -brand-shorter-name }»
 windows-10-eos-sync-callout-privacy-screen-1-title = Браузери «{ -brand-product-name }» криптомайнерҳо, васоити пайгирии шабакаҳои иҷтимоӣ ва хонандаи нақши ангуштонро манъ мекунад.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Васоити пайгирӣ наметавонанд, ки дастгоҳи шуморо муайян кунанд ё дар саросари Интернет шуморо пайгирӣ намоянд — зеро ки мо ба онҳо иҷозат намедиҳем.
+windows-10-eos-sync-callout-privacy-screen-2-title = Ниҳонвожаҳо ва хатбаракҳои худро барои дастгоҳи навбатии худ муҳофизат кунед.
 windows-10-eos-sync-callout-privacy-info-button = Нигаред, ки чӣ баста шудааст
 windows-10-eos-callout-addons-primary-button = Интихобҳои моро бинед
 windows-10-eos-sync-callout-next-button = Навбатӣ
@@ -380,6 +381,7 @@ windows-10-eos-sync-callout-get-started-button = Оғози кор
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Варақаҳои амудӣ ва гурӯҳҳои варақаҳо дар ин ҷой қарор доранд!
 windows-10-eos-feature-toast-whats-new-button = Бинед, ки чӣ нав аст
 windows-10-eos-feature-toast-dismiss-button = Нодида гузарондан
 
