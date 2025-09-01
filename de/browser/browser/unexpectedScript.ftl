@@ -4,6 +4,13 @@
 
 unexpected-script-close-button =
     .aria-label = Schließen
+unexpected-script-load-message-button-allow =
+    .label = Erlauben
+    .accesskey = E
+unexpected-script-load-message-button-block =
+    .label = Blockieren
+    .accesskey = B
+unexpected-script-load-title = Unerwartetes Laden eines Skripts
 unexpected-script-load-email-textbox =
     .placeholder = E-Mail-Adresse hier eingeben
     .aria-label = E-Mail-Adresse hier eingeben

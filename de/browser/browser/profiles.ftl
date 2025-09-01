@@ -113,8 +113,12 @@ profiles-gray-theme = Grau
 profiles-yellow-theme = Gelb
 profiles-orange-theme = Orange
 profiles-red-theme = Rot
+profiles-pink-theme = Pink
+profiles-purple-theme = Lila
+profiles-violet-theme = Violett
 profiles-blue-theme = Blau
 profiles-green-theme = Grün
+profiles-cyan-theme = Cyan
 
 ## Alternative text for default profile icons
 
