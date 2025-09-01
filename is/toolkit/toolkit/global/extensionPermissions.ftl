@@ -58,3 +58,18 @@ webext-perms-description-data-short-searchTerms = leitarorð
 webext-perms-description-data-short-technicalAndInteraction = tækni- og gagnvirknigögn
 webext-perms-description-data-short-websiteActivity = virkni á vefsvæðum
 webext-perms-description-data-short-websiteContent = efni vefsvæða
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+
+webext-perms-description-data-long-authenticationInfo = Deila auðkenningarupplýsingum með höfundi forritsaukans
+webext-perms-description-data-long-bookmarksInfo = Deila bókamerkjaupplýsingum með höfundi forritsaukans
+webext-perms-description-data-long-browsingActivity = Deila vafurvirkni með höfundi forritsaukans
+webext-perms-description-data-long-financialAndPaymentInfo = Deila fjárhags- og greiðsluupplýsingum með höfundi forritsaukans
+webext-perms-description-data-long-healthInfo = Deila heilsufarsupplýsingum með höfundi forritsaukans
+webext-perms-description-data-long-locationInfo = Deila staðsetningarupplýsingum með höfundi forritsaukans
+webext-perms-description-data-long-personalCommunications = Deila persónulegum samskiptum með höfundi forritsaukans
+webext-perms-description-data-long-personallyIdentifyingInfo = Deila persónugreinanlegum upplýsingum með höfundi forritsaukans
+webext-perms-description-data-long-searchTerms = Deila leitarorðum með höfundi forritsaukans
+webext-perms-description-data-long-technicalAndInteraction = Deila tæknilegum gögnum og gagnvirknigögnum með höfundi forritsaukans
+webext-perms-description-data-long-websiteActivity = Deila virkni vefsvæða með höfundi forritsaukans
+webext-perms-description-data-long-websiteContent = Deila efni vefsvæða með höfundi forritsaukans

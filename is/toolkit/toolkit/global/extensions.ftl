@@ -15,7 +15,17 @@ webext-perms-header-with-perms = Bæta við { $extension }? Þessi viðbót mun 
 webext-perms-header-unsigned = Bæta við { $extension }? Þessi forritsauki er óstaðfestur. Skaðlegir forritsaukar geta stolið einkaupplýsingunum þínum eða berskjaldað tölvuna þína. Bættu honum aðeins við ef þú treystir upprunanum.
 webext-perms-header-unsigned-with-perms = Bæta við { $extension }? Þessi forritsauki er óstaðfestur. Skaðlegir forritsaukar geta stolið einkaupplýsingunum þínum eða berskjaldað tölvuna þína. Bættu honum aðeins við ef þú treystir upprunanum. Þessi forritsauki mun hafa heimildir til að:
 webext-perms-sideload-header = { $extension } bætt við
+webext-perms-optional-perms-header2 = { $extension } þarfnast auka heimilda
 webext-perms-optional-perms-header = { $extension } þarfnast auka heimilda.
+webext-perms-header2 = Bæta við { $extension }
+
+## Headers used in the webextension permissions dialog, inside the content.
+
+webext-perms-header-required-perms = Nauðsynlegar heimildir:
+webext-perms-header-optional-settings = Valkvæðar stillingar:
+webext-perms-header-update-required-perms = Nýjar nauðsynlegar heimildir:
+webext-perms-header-optional-required-perms = Nýjar heimildir:
+webext-perms-header-data-collection-perms = Nauðsynleg gagnasöfnun:
 
 ##
 
