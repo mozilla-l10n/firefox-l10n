@@ -650,7 +650,7 @@ newtab-widget-lists-name-placeholder-new =
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Вақтсанҷ
-newtab-widget-timer-notification-break = Танаффус ба анҷом расид. Омода ҳастед, ки диққати худро аз нав диҳед?
+newtab-widget-timer-notification-break = Танаффус ба анҷом расид. Омода ҳастед, ки боз диққат кунед?
 newtab-widget-timer-notification-warning = Огоҳномаҳо хомӯш мебошанд
 newtab-widget-timer-mode-focus =
     .label = Марказонидан
