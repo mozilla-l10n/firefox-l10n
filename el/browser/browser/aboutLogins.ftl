@@ -318,7 +318,7 @@ about-logins-breach-alert-link = Μετάβαση στο { $hostname }
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ευάλωτος κωδικός πρόσβασης
-about-logins-vulnerable-alert-text2 = Αυτός ο κωδικός πρόσβασης έχει χρησιμοποιηθεί σε άλλο λογαριασμό με πιθανή παραβίαση δεδομένων. Η επαναχρησιμοποίηση διαπιστευτηρίων θέτει σε κίνδυνο όλους τους λογαριασμούς σας. Αλλάξτε αυτόν τον κωδικό πρόσβασης.
+about-logins-vulnerable-alert-text2 = Αυτός ο κωδικός πρόσβασης έχει χρησιμοποιηθεί σε άλλο λογαριασμό που πιθανώς ενεπλάκη σε παραβίαση δεδομένων. Η επαναχρησιμοποίηση διαπιστευτηρίων θέτει σε κίνδυνο όλους τους λογαριασμούς σας. Αλλάξτε αυτόν τον κωδικό πρόσβασης.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Μετάβαση στο { $hostname }
@@ -425,13 +425,13 @@ about-logins-import-dialog-error-learn-more = Μάθετε περισσότερ�
 about-logins-import-dialog-error-try-import-again = Εισαγωγή ξανά…
 about-logins-import-dialog-error-cancel = Ακύρωση
 about-logins-import-report-title = Περίληψη εισαγωγής
-about-logins-import-report-description = Εισήχθησαν συνδέσεις και κωδικοί πρόσβασης στο { -brand-short-name }.
+about-logins-import-report-description = Έγινε εισαγωγή συνδέσεων και κωδικών πρόσβασης στο { -brand-short-name }.
 about-logins-import-report-description2 = Έγινε εισαγωγή κωδικών πρόσβασης στο { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Σειρά { $number }
-about-logins-import-report-row-description-no-change = Διπλότυπο: ακριβής αντιστοίχιση υπαρχουσών συνδέσεων
+about-logins-import-report-row-description-no-change = Διπλότυπο: Απόλυτη αντιστοιχία με υπάρχουσα σύνδεση
 about-logins-import-report-row-description-modified = Η υπάρχουσα σύνδεση ενημερώθηκε
 about-logins-import-report-row-description-added = Προστέθηκε νέα σύνδεση
 about-logins-import-report-row-description-no-change2 = Διπλότυπο: Απόλυτη αντιστοιχία με υπάρχουσα καταχώρηση
@@ -443,8 +443,8 @@ about-logins-import-report-row-description-error = Σφάλμα: Απουσία 
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
-about-logins-import-report-row-description-error-multiple-values = Σφάλμα: Πολλαπλές τιμές για το { $field }
-about-logins-import-report-row-description-error-missing-field = Σφάλμα: Απουσία πεδίου «{ $field }»
+about-logins-import-report-row-description-error-multiple-values = Σφάλμα: Πολλαπλές τιμές για το πεδίο «{ $field }»
+about-logins-import-report-row-description-error-missing-field = Σφάλμα: Απουσία του πεδίου «{ $field }»
 
 ##
 ## Variables:
