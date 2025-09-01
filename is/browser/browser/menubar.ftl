@@ -249,6 +249,10 @@ menu-profiles-manage-profiles =
     .label = Sýsla með notkunarsnið
 menu-profiles-new-profile =
     .label = Nýtt notkunarsnið
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (núverandi)
 
 ## Tools Menu
 

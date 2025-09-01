@@ -205,5 +205,9 @@ link-preview-generation-error-unexpected = Eitthvað fór úrskeiðis.
 link-preview-generation-retry = Reyna aftur
 # Header for the key points section
 link-preview-key-points-header = Lykilatriði
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Lykilatriði eru búin til með gervigreind og geta innihaldið villur.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Sjá forskoðun
 # Onboarding card Close button
 link-preview-onboarding-close = Loka

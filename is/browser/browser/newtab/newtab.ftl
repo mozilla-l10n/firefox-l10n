@@ -553,6 +553,10 @@ newtab-section-mangage-topics-blocked-topics-empty-state = Þú hefur ekki loka�
 newtab-custom-wallpaper-title = Sérsniðnir bakgrunnar eru hér
 newtab-custom-wallpaper-cta = Prófaðu það
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-cta = Prófa það núna
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Sækja { -brand-product-name } fyrir farsíma
@@ -560,6 +564,10 @@ newtab-download-mobile-highlight-body-variant-b = Taktu upp þráðinn þar sem 
 newtab-download-mobile-highlight-body-variant-c = Vissir þú að þú getur tekið { -brand-product-name } með þér hvert sem er? Sami vafrinn, í vasanum þínum.
 newtab-download-mobile-highlight-image =
     .aria-label = QR-kóði til að sækja { -brand-product-name } fyrir farsíma
+
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-title = Eftirlætin þín innan seilingar
 
 ## Strings for reporting ads and content
 
@@ -592,6 +600,8 @@ newtab-trending-searches-hide-trending =
     .title = Fela vinsælar leitir
 newtab-trending-searches-learn-more = Frekari upplýsingar
 newtab-trending-searches-dismiss = Fela vinsælar leitir
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Vinsælar leitir
 
 ## Strings for task / to-do list productivity widget
 
@@ -606,10 +616,28 @@ newtab-widget-lists-menu-create = Búa til nýjan lista
 newtab-widget-lists-menu-delete = Eyða þessum lista
 newtab-widget-lists-menu-copy = Afrita lista á klippispjald
 newtab-widget-lists-menu-hide = Fela alla lista
+newtab-widget-lists-input-menu-edit = Breyta
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Verkefnalisti
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Nýr listi
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-title = Tímamælir
+newtab-widget-timer-notification-focus = Einbeitingartíminn er liðinn. Vel gert. Þarftu pásu?
+newtab-widget-timer-notification-break = Hléið þitt er búið. Ertu til í að einbeita þér?
+newtab-widget-timer-notification-warning = Slökkt er á tilkynningum
+newtab-widget-timer-mode-focus =
+    .label = Einbeiting
+newtab-widget-timer-mode-break =
+    .label = Hlé
+newtab-widget-timer-play =
+    .title = Spila
+newtab-widget-timer-pause =
+    .title = Í bið
 newtab-widget-timer-reset =
     .title = Endurstilla
 newtab-widget-timer-menu-notifications = Slökkva á tilkynningum
