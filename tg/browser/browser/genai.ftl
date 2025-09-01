@@ -257,6 +257,8 @@ link-preview-key-points-disclaimer = Нуқтаҳои асосӣ ба восит
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Танзими бори аввал • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Дафъаи оянда шумо метавонед нуктаҳои асосиро зудтар бинед.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Дидани пешнамоиш
 # Onboarding card Close button
