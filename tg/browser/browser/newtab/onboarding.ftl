@@ -445,10 +445,16 @@ onboarding-checklist-sign-up = Ба ҳисоби худ ворид шавед ё
 
 tab-groups-onboarding-feature-callout-title = Гурӯҳҳои варақаҳоро кӯшиш кунед — камтар бесарусомонӣ, тамаркузи бештар
 tab-groups-onboarding-feature-callout-subtitle = Барои ба тартиб даровардани чизҳо ва эҷод кардани аввалин гурӯҳи варақаҳои худ, як варақаро кашида, ба варақаи дигар гузоред.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Гурӯҳҳои варақаҳои худро дар «Рӯйхати ҳамаи варақаҳо» дар вақти дилхоҳ пайдо намоед.
 tab-groups-onboarding-create-group-title-2 = Дар ин ҷой гурӯҳҳои варақаҳои худро дар вақти дилхоҳ пайдо намоед.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Гурӯҳҳои худро тавассути ҷустуҷӯи онҳо дар навори нишонӣ пайдо намоед.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Вақте ки шумо гурӯҳи варақаҳои худро мепӯшед, онҳоро дар «Рӯйхати ҳамаи варақаҳо» дар вақти дилхоҳ аз нав кушоед.
 tab-groups-onboarding-saved-groups-title-2 = Вақте ки шумо гурӯҳи варақаҳоеро мепӯшед, шумо метавонед онҳоро дар ин ҷой дар вақти дилхоҳ аз нав кушоед.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Гурӯҳҳои пӯшидаи худро тавассути ҷустуҷӯи онҳо дар навори нишонӣ пайдо намоед.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Гурӯҳҳои варақаҳои худро дар «Рӯйхати ҳамаи варақаҳо» дар вақти дилхоҳ аз нав кушоед.
 tab-groups-onboarding-session-restore-title = Дар ин ҷой гурӯҳҳои варақаҳои худро дар вақти дилхоҳ аз нав кушоед.
 tab-groups-onboarding-dismiss = ХУБ
 
