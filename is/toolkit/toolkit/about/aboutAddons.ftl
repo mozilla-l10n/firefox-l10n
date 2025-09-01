@@ -278,6 +278,7 @@ discopane-notice-recommendations2 =
         Sumar af þessum ráðleggingum eru sérsniðnar. Þær eru byggðar á öðrum
         forritsaukum sem þú hefur sett upp, stillingum persónusniðs og notkunartölfræði.
 discopane-notice-learn-more = Frekari upplýsingar
+colorway-removal-notice-learn-more = Fræðast meira
 privacy-policy = Meðferð persónuupplýsinga
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -298,6 +299,16 @@ find-more-themes = Finna fleiri þemu
 # used for screen readers.
 addon-options-button =
     .aria-label = Fleiri valkostir
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Forritsaukar og þemu gera þér kleift að sérsníða { -brand-product-name }. Þeir geta aukið friðhelgi einkalífsins,
+    aukið afköst, bætt margmiðlun, breyta því hvernig { -brand-product-name } lítur út og
+    margt fleira. Þessi litlu hugbúnaðarforrit eru oft þróuð af utanaðkomandi aðilum. Hér má sjá
+    úrval slíks sem Firefox <a data-l10n-name="learn-more-trigger">mælir með</a>
+    til að tryggja einstakt öryggi, afköst og aukna virkni.
 
 ## Add-on actions
 
@@ -431,6 +442,20 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Opinber forritsauki byggður af Mozilla. Uppfyllir öryggis- og afkastastaðla
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Þessi forritsauki hefur verið yfirfarinn til að uppfylla staðla um öryggi og afköst
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox mælir aðeins með forritsaukum sem hafa verið yfirfarðir með tilliti til staðla varðandi öryggi og afköst.
 
 ##
 
@@ -466,6 +491,9 @@ shortcuts-heading = Sýsla með flýtilykla forritsauka
 default-heading-search-label = Finna fleiri viðbætur
 addons-heading-search-input =
     .placeholder = Leita á addons.mozilla.org
+addons-heading-search-button =
+    .title = Leita á addons.mozilla.org
+    .aria-label = Leita á addons.mozilla.org
 addon-page-options-button =
     .title = Verkfæri fyrir allar viðbætur
 
@@ -520,8 +548,21 @@ plugins-openh264-description = Þetta tengiforrit er sett inn sjálfkrafa frá M
 plugins-widevine-name = Widevine Content Decryption Module frá Google Inc.
 plugins-widevine-description = Þetta tengiforrit býður upp á afspilun dulkóðaðra miðla í samræmi við forskrift Encrypted Media Extensions. Dulkóðaðir miðlar eru venjulega notaðir á síðum til þess að verja þær fyrir afritun gæðainnihalds. Heimsækið https://www.w3.org/TR/encrypted-media/ fyrir frekari upplýsingar um Encrypted Media Extensions.
 
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+addon-permissions-required-data-collection = Nauðsynleg gagnasöfnun:
+addon-permissions-optional-data-collection = Valkvæð gagnasöfnun:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Heimildir og gögn
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Notað af { $extensionName } forritsaukanum
+
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } notar þetta á about:inference
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Fjarlægja
