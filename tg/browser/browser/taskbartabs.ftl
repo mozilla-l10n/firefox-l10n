@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Илова кардани варақа ба навори вазифа
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Тоза кардани варақа аз навори вазифа
+taskbar-tab-urlbar-button-show = Нишон додани амалҳои саҳифа дар барномаи сомона
+taskbar-tab-urlbar-button-hide = Пинҳон кардани амалҳои саҳифа дар барномаи сомона
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

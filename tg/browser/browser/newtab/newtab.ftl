@@ -632,6 +632,7 @@ newtab-widget-lists-menu-hide = Пинҳон кардани ҳамаи вара�
 newtab-widget-lists-menu-learn-more = Маълумоти бештар
 newtab-widget-lists-input-add-an-item =
     .placeholder = Илова кардани унсур
+newtab-widget-lists-input-error = Лутфан, барои илова кардани унсур матнеро ворид намоед.
 newtab-widget-lists-input-menu-open-link = Кушодани пайванд
 newtab-widget-lists-input-menu-move-up = Ба боло гузоштан
 newtab-widget-lists-input-menu-move-down = Ба поён гузоштан
