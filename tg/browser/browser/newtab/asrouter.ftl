@@ -364,6 +364,9 @@ windows-10-eos-sync-toast-secondary-label = Баъдтар ёдоварӣ кун
 
 windows-10-eos-challenger-sync-primary-button = Таҳия кардани нусхаи эҳтиётии «{ -brand-shorter-name }»
 windows-10-eos-challenger-pin-primary-button = Васл кардани «{ -brand-shorter-name }»
+windows-10-eos-sync-callout-privacy-screen-1-title = Браузери «{ -brand-product-name }» криптомайнерҳо, васоити пайгирии шабакаҳои иҷтимоӣ ва хонандаи нақши ангуштонро манъ мекунад.
+windows-10-eos-sync-callout-privacy-info-button = Нигаред, ки чӣ баста шудааст
+windows-10-eos-callout-addons-primary-button = Интихобҳои моро бинед
 windows-10-eos-sync-callout-next-button = Навбатӣ
 windows-10-eos-sync-callout-get-started-button = Оғози кор
 

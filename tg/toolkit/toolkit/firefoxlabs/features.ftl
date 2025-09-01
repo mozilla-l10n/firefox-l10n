@@ -62,3 +62,9 @@ experimental-features-fx-web-apps =
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Рӯйхатҳо дар «{ -firefox-home-brand-name }»
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Вақтсанҷ дар «{ -firefox-home-brand-name }»
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Рӯйхатҳо ва вақтсанҷ дар «{ -firefox-home-brand-name }»
