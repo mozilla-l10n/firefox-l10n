@@ -806,6 +806,19 @@ urlbar-result-realtime-opt-in-dismiss-all =
 urlbar-result-menu-dont-show-market =
     .label = Нарық ұсыныстарын көрсетпеу
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Бүгін
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Бүгін аяқталады
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1383,6 +1396,7 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-insecure-section-header = Сіздің байланысыңыз қауіпсіз емес
 trustpanel-list-label-tracking-content = Бақылайтын мазмұн
 trustpanel-list-label-fingerprinter =
     { $count ->
@@ -1399,6 +1413,7 @@ trustpanel-list-label-cryptominer =
         [one] { $count } криптомайнер
        *[other] { $count } криптомайнер
     }
+trustpanel-social-tracking-tab-list-header = Бұл сайттар сізді қадағалауға тырысуда:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } { $count } трекерді бұғаттады
