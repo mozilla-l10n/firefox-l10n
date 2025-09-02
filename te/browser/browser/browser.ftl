@@ -107,10 +107,8 @@ browser-main-window-titles-mac =
     .data-content-title-private = { $content-title }— ఆంతరంగిక విహారణ
     .data-content-title-default-with-profile = { $content-title }—{ $profile-name }
     .data-content-title-private-with-profile = { $content-title }—{ $profile-name }— ఆంతరంగిక విహారణ
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
+# This is the initial default title for the browser window.
+# It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
 # Note: only on macOS do we use a `-` separator between the brand name and the
 # "Private Browsing" suffix.
@@ -242,9 +240,6 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = ఈ పేజీను ఇష్టాంశముచేయుము ({ $shortcut })
-
-## Page Action Context Menu
-
 
 ## Auto-hide Context Menu
 
@@ -493,9 +488,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ఈ సెషనుకి పంచుకోలు రక్షణను అచేతనంచేయి
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -581,13 +573,6 @@ urlbar-result-action-calculator-result = = { $result }
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -646,11 +631,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = చదువరి వీక్షణం మూయి
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -738,9 +718,6 @@ save-to-pocket-button =
     .label = { -pocket-brand-name }‌కి భద్రపరుచు
     .tooltiptext = { -pocket-brand-name }‌కి భద్రపరుచు
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -817,10 +794,6 @@ popups-infobar-dont-show-message =
     .label = పాప్-అప్‌లు నిరోధించబడినప్పుడు ఈ సందేశాన్ని చూపించవద్దు
     .accesskey = D
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -859,15 +832,9 @@ tabs-toolbar-list-all-tabs =
     .label = అన్ని ట్యాబుల జాబితా చూపించు
     .tooltiptext = అన్ని ట్యాబుల జాబితా చూపించు
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = ఎలానో నాకు చూపించు
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -932,9 +899,6 @@ refresh-blocked-allow =
     .label = అనుమతించు
     .accesskey = A
 
-## Firefox Relay integration
-
-
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
@@ -979,13 +943,3 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = సంచయంలో చూపించు
     .accessKey = F
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-

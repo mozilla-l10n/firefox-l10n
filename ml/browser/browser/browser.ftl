@@ -107,10 +107,8 @@ browser-main-window-titles-mac =
     .data-content-title-private = { $content-title } — സ്വകാര്യ തിരച്ചിൽ
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — സ്വകാര്യ തിരച്ചിൽ
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
+# This is the initial default title for the browser window.
+# It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
 # Note: only on macOS do we use a `-` separator between the brand name and the
 # "Private Browsing" suffix.
@@ -557,9 +555,6 @@ sharing-warning-screen = താങ്ങളുടെ പ്രലമാകെ �
 sharing-warning-proceed-to-tab =
     .label = ടാബിലേക്ക് ചെല്ലുക
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -701,13 +696,6 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } ∙ പണമടച്ചുപ്രചരിപ്പിച്ചതു്
-
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
 
 ## Strings used for buttons in the urlbar
 
@@ -1001,10 +989,6 @@ edit-popup-settings =
     .label = പൊന്തുവരൽ ക്രമീകരണങ്ങൾ നിയന്ത്രിക്കുക...
     .accesskey = ക
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -1043,15 +1027,9 @@ tabs-toolbar-list-all-tabs =
     .label = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
     .tooltiptext = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = എങ്ങനെയെന്നു് കാണിയ്ക്കുക.
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1121,9 +1099,6 @@ refresh-blocked-allow =
     .label = അനുവദിക്കുക
     .accesskey = A
 
-## Firefox Relay integration
-
-
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
@@ -1192,10 +1167,3 @@ onboarding-checklist-button-label = സജ്ജീകരണം തീൎക്�
 onboarding-aw-finish-setup-button =
     .label = സജ്ജീകരണം തീൎക്കുവിൻ
     .tooltiptext = { -brand-short-name }-ന്റെ സജ്ജീകരണം തീൎക്കുക
-
-## The urlbar trust panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-

@@ -107,10 +107,8 @@ browser-main-window-titles-mac =
     .data-content-title-private = { $content-title } — Navegación privada
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navegación privada
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
+# This is the initial default title for the browser window.
+# It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
 # Note: only on macOS do we use a `-` separator between the brand name and the
 # "Private Browsing" suffix.
@@ -1447,7 +1445,3 @@ trustpanel-connection-secure = Está conectado de forma segura a este sitio.
 trustpanel-connection-not-secure = No está conectado de forma segura a este sitio.
 trustpanel-siteinformation-morelink = Más información del sitio
 trustpanel-blocker-see-all = Ver todo
-
-## Variables
-##  $count (String): the number of trackers blocked.
-

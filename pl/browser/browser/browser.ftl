@@ -107,10 +107,8 @@ browser-main-window-titles-mac =
     .data-content-title-private = { $content-title } — tryb prywatny
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — tryb prywatny
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
+# This is the initial default title for the browser window.
+# It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
 # Note: only on macOS do we use a `-` separator between the brand name and the
 # "Private Browsing" suffix.
@@ -833,9 +831,6 @@ urlbar-result-dismissal-acknowledgment-market = Dziękujemy za opinię. Nie będ
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Dziękujemy za opinię. Nie będziemy już pokazywać tych podpowiedzi.
-
-## These strings are used for suggestions of important dates in the urlbar.
-
 
 ## Strings used for buttons in the urlbar
 

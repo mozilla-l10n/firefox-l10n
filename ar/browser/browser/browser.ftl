@@ -107,10 +107,8 @@ browser-main-window-titles-mac =
     .data-content-title-private = { $content-title } — التصفح الخاص
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — التصفح الخاص
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
+# This is the initial default title for the browser window.
+# It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
 # Note: only on macOS do we use a `-` separator between the brand name and the
 # "Private Browsing" suffix.
@@ -837,9 +835,6 @@ urlbar-result-dismissal-acknowledgment-market = شكرًا لملاحظاتك. �
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = شكرًا لملاحظاتك. لن ترى هذه الاقتراحات بعد الآن.
 
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1201,9 +1196,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = اسرد كل الألسنة
     .tooltiptext = اسرد كل الألسنة
-
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
 
 ## Infobar shown at startup to suggest session-restore
 
