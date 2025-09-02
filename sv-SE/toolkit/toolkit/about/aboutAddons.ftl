@@ -462,7 +462,10 @@ available-updates-heading = Tillgängliga uppdateringar
 recent-updates-heading = Senaste uppdateringar
 release-notes-loading = Laddar…
 release-notes-error = Tyvärr, men det gick inte att läsa in versionsfakta.
+addon-permissions-heading = Behörigheter
 addon-permissions-empty2 = Detta tillägg kräver inga behörigheter.
+addon-permissions-required-label = Obligatoriska:
+addon-permissions-optional-label = Valfritt:
 addon-permissions-empty = Detta tillägg kräver inga behörigheter
 addon-permissions-required = Nödvändiga behörigheter för kärnfunktionalitet:
 addon-permissions-optional = Valfria behörigheter för extra funktionalitet:
@@ -558,6 +561,10 @@ permissions-data-addon-button = Behörigheter och data
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Används av tillägget { $extensionName }
+addon-permissions-data-collection-heading = Datainsamling
+addon-permissions-data-collection-empty = Utvecklaren säger att detta tillägg inte kräver datainsamling.
+addon-data-collection-provided = Information tillhandahållen av tilläggsutvecklaren
+addon-data-collection-learnmore = Lär dig mer om datainsamling
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

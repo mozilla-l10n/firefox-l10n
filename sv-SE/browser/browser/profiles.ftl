@@ -95,6 +95,8 @@ profiles-light-theme = Ljust
 profiles-dark-theme = Mörkt
 # The default system theme
 profiles-system-theme = System
+profiles-system-theme-title =
+    .title = Använd systemtema
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Gul ringblomma
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Tegelröd
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mossgrön
 profiles-gray-theme = Grå
+profiles-gray-theme-title =
+    .title = Använd grått tema
 profiles-yellow-theme = Gul
+profiles-yellow-theme-title =
+    .title = Lägg till gult tema
 profiles-orange-theme = Orange
+profiles-orange-theme-title =
+    .title = Använd orange tema
 profiles-red-theme = Röd
+profiles-red-theme-title =
+    .title = Använd rött tema
 profiles-pink-theme = Rosa
+profiles-pink-theme-title =
+    .title = Använd rosa tema
 profiles-purple-theme = Lila
+profiles-purple-theme-title =
+    .title = Använd lila tema
 profiles-violet-theme = Violett
+profiles-violet-theme-title =
+    .title = Använd violett tema
 profiles-blue-theme = Blå
+profiles-blue-theme-title =
+    .title = Använd blått tema
 profiles-green-theme = Grön
+profiles-green-theme-title =
+    .title = Använd grönt tema
 profiles-cyan-theme = Cyan
+profiles-cyan-theme-title =
+    .title = Använd cyan tema
+profiles-custom-theme-title =
+    .title = Använd anpassat tema
 
 ## Alternative text for default profile icons
 

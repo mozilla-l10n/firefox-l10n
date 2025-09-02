@@ -319,6 +319,9 @@ newtab-custom-pocket-subtitle = Särskilt innehåll valt av { -pocket-brand-name
 newtab-custom-stories-toggle =
     .label = Rekommenderade berättelser
     .description = Exceptionellt innehåll kurerat av { -brand-product-name }-familjen
+newtab-custom-stories-personalized-toggle =
+    .label = Berättelser
+newtab-custom-stories-personalized-checkbox-label = Personliga berättelser baserade på din aktivitet
 newtab-custom-pocket-sponsored = Sponsrade berättelser
 newtab-custom-pocket-show-recent-saves = Visa senast sparade
 newtab-custom-recent-title = Senaste aktivitet
@@ -354,6 +357,7 @@ newtab-wallpaper-custom-color = Välj en färg
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Bilden överskred gränsen för filstorleken på { $file_size } MB. Prova att ladda upp en mindre fil.
+newtab-wallpaper-error-upload-file-type = Vi kunde inte ladda upp din fil. Försök igen med en bildfil.
 newtab-wallpaper-error-file-type = Vi kunde inte ladda upp din fil. Försök igen med en annan filtyp.
 newtab-wallpaper-light-red-panda = Röd panda
 newtab-wallpaper-light-mountain = Vita berg
