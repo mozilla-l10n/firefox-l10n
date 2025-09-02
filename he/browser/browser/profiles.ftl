@@ -95,6 +95,8 @@ profiles-light-theme = בהיר
 profiles-dark-theme = כהה
 # The default system theme
 profiles-system-theme = מערכת
+profiles-system-theme-title =
+    .title = החלת ערכת הנושא של המערכת
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = צהוב מריגולד
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = אדום לבנים
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = ירוק אזוב
 profiles-gray-theme = אפור
+profiles-gray-theme-title =
+    .title = החלת ערכת נושא בצבע אפור
 profiles-yellow-theme = צהוב
+profiles-yellow-theme-title =
+    .title = החלת ערכת נושא בצבע צהוב
 profiles-orange-theme = כתום
+profiles-orange-theme-title =
+    .title = החלת ערכת נושא בצבע כתום
 profiles-red-theme = אדום
+profiles-red-theme-title =
+    .title = החלת ערכת נושא בצבע אדום
 profiles-pink-theme = ורוד
+profiles-pink-theme-title =
+    .title = החלת ערכת נושא בצבע ורוד
 profiles-purple-theme = ארגמן
+profiles-purple-theme-title =
+    .title = החלת ערכת נושא בצבע ארגמן
 profiles-violet-theme = סגול
+profiles-violet-theme-title =
+    .title = החלת ערכת נושא בצבע סגול
 profiles-blue-theme = כחול
+profiles-blue-theme-title =
+    .title = החלת ערכת נושא בצבע כחול
 profiles-green-theme = ירוק
+profiles-green-theme-title =
+    .title = החלת ערכת נושא בצבע ירוק
 profiles-cyan-theme = ציאן
+profiles-cyan-theme-title =
+    .title = החלת ערכת נושא בצבע ציאן
+profiles-custom-theme-title =
+    .title = החלת ערכת נושא מותאמת אישית
 
 ## Alternative text for default profile icons
 
