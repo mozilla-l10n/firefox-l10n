@@ -598,3 +598,4 @@ mlmodel-addon-detail-used-by-label = Utilizzato da
 mlmodel-addon-detail-model-card = Scheda modello
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Visualizza su Hugging Face
+
