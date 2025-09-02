@@ -62,6 +62,7 @@ experimental-features-fx-web-apps-description = Nyissa meg a gyakran felkeresett
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listák a { -firefox-home-brand-name }on
+experimental-features-newtab-widget-lists-description = Tartsa fejben a teendőit amikor megnyit egy új lapot. Csomagolólistáktól a bevásárlólistákig, tervezzen a { -brand-product-name } segítségével. <a data-l10n-name="connect">Visszajelzés</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Időzítő a { -firefox-home-brand-name }on

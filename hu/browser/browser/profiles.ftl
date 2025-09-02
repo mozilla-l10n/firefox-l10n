@@ -115,14 +115,34 @@ profiles-gray-theme = Szürke
 profiles-gray-theme-title =
     .title = Szürke téma alkalmazása
 profiles-yellow-theme = Sárga
+profiles-yellow-theme-title =
+    .title = Sárga téma alkalmazása
 profiles-orange-theme = Narancs
+profiles-orange-theme-title =
+    .title = Narancs téma alkalmazása
 profiles-red-theme = Piros
+profiles-red-theme-title =
+    .title = Vörös téma alkalmazása
 profiles-pink-theme = Rózsaszín
+profiles-pink-theme-title =
+    .title = Rózsaszín téma alkalmazása
 profiles-purple-theme = Lila
+profiles-purple-theme-title =
+    .title = Lila téma alkalmazása
 profiles-violet-theme = Ibolya
+profiles-violet-theme-title =
+    .title = Ibolya téma alkalmazása
 profiles-blue-theme = Kék
+profiles-blue-theme-title =
+    .title = Kék téma alkalmazása
 profiles-green-theme = Zöld
+profiles-green-theme-title =
+    .title = Zöld téma alkalmazása
 profiles-cyan-theme = Cián
+profiles-cyan-theme-title =
+    .title = Cián téma alkalmazása
+profiles-custom-theme-title =
+    .title = Egyéni téma alkalmazása
 
 ## Alternative text for default profile icons
 

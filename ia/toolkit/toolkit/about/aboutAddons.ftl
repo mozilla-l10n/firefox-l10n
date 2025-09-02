@@ -460,7 +460,10 @@ available-updates-heading = Actualisationes disponibile
 recent-updates-heading = Actualisationes recente
 release-notes-loading = Cargamento…
 release-notes-error = Un error ha occurrite durante le cargamento del notas de version.
+addon-permissions-heading = Permissiones
 addon-permissions-empty2 = Iste extension non require alcun permission.
+addon-permissions-required-label = Necessari:
+addon-permissions-optional-label = Optional:
 addon-permissions-empty = Iste extension non require alcun permission
 addon-permissions-required = Permissiones necessari pro functionalitate essential:
 addon-permissions-optional = Permissiones facultative pro functionalitate additional:
@@ -556,6 +559,10 @@ permissions-data-addon-button = Permissiones e datos
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Usate per le extension { $extensionName }
+addon-permissions-data-collection-heading = Collection de datos
+addon-permissions-data-collection-empty = Le disveloppator dice que iste extension non require collection de datos.
+addon-data-collection-provided = Info fornite per le disveloppator del extension
+addon-data-collection-learnmore = Saper plus re le collection de datos
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

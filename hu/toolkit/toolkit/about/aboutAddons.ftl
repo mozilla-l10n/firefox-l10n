@@ -471,7 +471,10 @@ available-updates-heading = Elérhető frissítések
 recent-updates-heading = Legutóbbi frissítések
 release-notes-loading = Betöltés…
 release-notes-error = Sajnáljuk, de hiba történt a kiadási megjegyzések betöltésekor.
+addon-permissions-heading = Jogosultságok
 addon-permissions-empty2 = Ez a kiegészítő nem igényel semmilyen engedélyt.
+addon-permissions-required-label = Kötelező:
+addon-permissions-optional-label = Nem kötelező:
 addon-permissions-empty = Ez a kiegészítő nem igényel semmilyen engedélyt
 addon-permissions-required = Az alapvető funkciókhoz szükséges engedélyek:
 addon-permissions-optional = A további funkciókhoz szükséges engedélyek:
@@ -567,6 +570,10 @@ permissions-data-addon-button = Engedélyek és adatok
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = A(z) { $extensionName } kiegészítő használja
+addon-permissions-data-collection-heading = Adatgyűjtés
+addon-permissions-data-collection-empty = A fejlesztő szerint ez a kiegészítő nem igényel adatgyűjtést.
+addon-data-collection-provided = A kiegészítő fejlesztője által megadott információ
+addon-data-collection-learnmore = Tudjon meg többet az adatgyűjtésről
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
