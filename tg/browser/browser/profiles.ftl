@@ -127,10 +127,22 @@ profiles-pink-theme = Гулобӣ
 profiles-pink-theme-title =
     .title = Татбиқ кардани мавзуи гулобӣ
 profiles-purple-theme = Лоҷувард
+profiles-purple-theme-title =
+    .title = Татбиқ кардани мавзуи лоҷувард
 profiles-violet-theme = Бунафш
+profiles-violet-theme-title =
+    .title = Татбиқ кардани мавзуи бунафш
 profiles-blue-theme = Кабуд
+profiles-blue-theme-title =
+    .title = Татбиқ кардани мавзуи кабуд
 profiles-green-theme = Сабз
+profiles-green-theme-title =
+    .title = Татбиқ кардани мавзуи сабз
 profiles-cyan-theme = Осмонӣ
+profiles-cyan-theme-title =
+    .title = Татбиқ кардани мавзуи осмонӣ
+profiles-custom-theme-title =
+    .title = Татбиқ кардани мавзуи фармоишӣ
 
 ## Alternative text for default profile icons
 
