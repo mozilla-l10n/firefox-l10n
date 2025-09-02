@@ -95,6 +95,8 @@ profiles-light-theme = 亮色
 profiles-dark-theme = 暗色
 # The default system theme
 profiles-system-theme = 系統
+profiles-system-theme-title =
+    .title = 套用系統佈景主題
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = 金盞黃
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = 磚紅色
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = 苔蘚綠
 profiles-gray-theme = 灰色
+profiles-gray-theme-title =
+    .title = 套用灰色佈景主題
 profiles-yellow-theme = 黃色
+profiles-yellow-theme-title =
+    .title = 套用黃色佈景主題
 profiles-orange-theme = 橘色
+profiles-orange-theme-title =
+    .title = 套用橘色佈景主題
 profiles-red-theme = 紅色
+profiles-red-theme-title =
+    .title = 套用紅色佈景主題
 profiles-pink-theme = 粉紅色
+profiles-pink-theme-title =
+    .title = 套用粉紅色佈景主題
 profiles-purple-theme = 紫色
+profiles-purple-theme-title =
+    .title = 套用紫色佈景主題
 profiles-violet-theme = 紫羅蘭色
+profiles-violet-theme-title =
+    .title = 套用紫羅蘭色佈景主題
 profiles-blue-theme = 藍色
+profiles-blue-theme-title =
+    .title = 套用藍色佈景主題
 profiles-green-theme = 綠色
+profiles-green-theme-title =
+    .title = 套用綠色佈景主題
 profiles-cyan-theme = 青色
+profiles-cyan-theme-title =
+    .title = 套用青色佈景主題
+profiles-custom-theme-title =
+    .title = 套用自訂佈景主題
 
 ## Alternative text for default profile icons
 
