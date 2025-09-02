@@ -110,14 +110,32 @@ profiles-terracotta-theme-2 = Murstensrød
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mosgrøn
 profiles-gray-theme = Grå
+profiles-gray-theme-title =
+    .title = Anvend gråt tema
 profiles-yellow-theme = Gul
+profiles-yellow-theme-title =
+    .title = Anvend gult tema
 profiles-orange-theme = Orange
+profiles-orange-theme-title =
+    .title = Anvend orange tema
 profiles-red-theme = Rød
+profiles-red-theme-title =
+    .title = Anvend rødt tema
 profiles-pink-theme = Pink
+profiles-pink-theme-title =
+    .title = Anvend pink tema
 profiles-purple-theme = Lilla
+profiles-purple-theme-title =
+    .title = Anvend lilla tema
 profiles-violet-theme = Violet
+profiles-violet-theme-title =
+    .title = Anvend violet tema
 profiles-blue-theme = Blå
+profiles-blue-theme-title =
+    .title = Anvend blåt tema
 profiles-green-theme = Grøn
+profiles-green-theme-title =
+    .title = Anvend grønt tema
 profiles-cyan-theme = Cyan
 
 ## Alternative text for default profile icons

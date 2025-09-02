@@ -1287,6 +1287,7 @@ content-blocking-convenience-exceptions-2 =
 content-blocking-baseline-label = Løs store problemer med websted (anbefalet)
 content-blocking-convenience-label = Løs mindre problemer med websted
 content-blocking-exceptions-subheader = Løs problemer med websted
+content-blocking-baseline-uncheck-warning-dialog-title = Er du sikker på, at du vil slå løsninger af problemer fra?
 content-blocking-baseline-uncheck-warning-dialog-body = Denne indstilling løser de mest almindelige websteds-problemer. Hvis du slår den fra vil nogle websteder måske ikke fungere som de skal, og { -brand-short-name } kan ikke hjælpe med at fejlsøge problemerne.
 content-blocking-reload-description = Du skal genindlæse dine faneblade, før ændringerne slår igennem.
 content-blocking-reload-tabs-button =
