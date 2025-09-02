@@ -95,6 +95,8 @@ profiles-light-theme = Равшан
 profiles-dark-theme = Торик
 # The default system theme
 profiles-system-theme = Низом
+profiles-system-theme-title =
+    .title = Татбиқ кардани мавзуъ дар асоси низом
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Аббосии зард
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,10 +112,20 @@ profiles-terracotta-theme-2 = Хишти сурх
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Ушнаи сабз
 profiles-gray-theme = Хокистарӣ
+profiles-gray-theme-title =
+    .title = Татбиқ кардани мавзуи хокистариранг
 profiles-yellow-theme = Зард
+profiles-yellow-theme-title =
+    .title = Татбиқ кардани мавзуи зард
 profiles-orange-theme = Норинҷӣ
+profiles-orange-theme-title =
+    .title = Татбиқ кардани мавзуи норинҷӣ
 profiles-red-theme = Сурх
+profiles-red-theme-title =
+    .title = Татбиқ кардани мавзуи сурх
 profiles-pink-theme = Гулобӣ
+profiles-pink-theme-title =
+    .title = Татбиқ кардани мавзуи гулобӣ
 profiles-purple-theme = Лоҷувард
 profiles-violet-theme = Бунафш
 profiles-blue-theme = Кабуд

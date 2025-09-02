@@ -376,6 +376,7 @@ windows-10-eos-sync-callout-privacy-screen-1-subtitle = Васоити пайг�
 windows-10-eos-sync-callout-privacy-screen-2-title = Ниҳонвожаҳо ва хатбаракҳои худро барои дастгоҳи навбатии худ муҳофизат кунед.
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Таҳияи нусхаи эҳтиётии «{ -brand-shorter-name }» амали интиқоли маълумоти шахсӣ ва танзимоти махфияти шуморо осон мегардонад.
 windows-10-eos-sync-callout-privacy-info-button = Нигаред, ки чӣ баста шудааст
+windows-10-eos-callout-addons-title = Аз ҷузъҳои иловагӣ истифода баред: такмилҳои осон, натиҷаҳои баланд
 windows-10-eos-callout-addons-primary-button = Интихобҳои моро бинед
 windows-10-eos-sync-callout-next-button = Навбатӣ
 windows-10-eos-sync-callout-get-started-button = Оғози кор

@@ -317,6 +317,9 @@ newtab-custom-pocket-subtitle = Муҳтавои мустасно аз тара�
 newtab-custom-stories-toggle =
     .label = Ҳикояҳои тавсияшуда
     .description = Маводҳои истисноӣ, ки аз ҷониби оилаи «{ -brand-product-name }» таҳия шудааст
+newtab-custom-stories-personalized-toggle =
+    .label = Ҳикояҳо
+newtab-custom-stories-personalized-checkbox-label = Ҳикояҳои фардӣ дар асоси фаъолияти шумо
 newtab-custom-pocket-sponsored = Мақолаҳои сарпарастӣ
 newtab-custom-pocket-show-recent-saves = Намоиш додани маводҳои охирин
 newtab-custom-recent-title = Фаъолияти охирин
@@ -352,6 +355,7 @@ newtab-wallpaper-custom-color = Рангеро интихоб кунед
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Андозаи тасвир зиёда аз маҳдудияти андозаи файли { $file_size } МБ мебошад. Лутфан, кӯшиш кунед, ки файлеро бо андозаи хурдтар бор намоед.
+newtab-wallpaper-error-upload-file-type = Мо файли шуморо бор карда натавонистем. Лутфан, бо файли тасвирӣ аз нав кӯшиш намоед.
 newtab-wallpaper-error-file-type = Мо файли шуморо бор карда натавонистем. Лутфан, бо навъи дигари файл аз нав кӯшиш намоед.
 newtab-wallpaper-light-red-panda = Пандаи сурх
 newtab-wallpaper-light-mountain = Кӯҳи сафед
