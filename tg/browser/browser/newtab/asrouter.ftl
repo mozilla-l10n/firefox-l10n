@@ -374,6 +374,7 @@ windows-10-eos-challenger-pin-primary-button = Васл кардани «{ -bran
 windows-10-eos-sync-callout-privacy-screen-1-title = Браузери «{ -brand-product-name }» криптомайнерҳо, васоити пайгирии шабакаҳои иҷтимоӣ ва хонандаи нақши ангуштонро манъ мекунад.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Васоити пайгирӣ наметавонанд, ки дастгоҳи шуморо муайян кунанд ё дар саросари Интернет шуморо пайгирӣ намоянд — зеро ки мо ба онҳо иҷозат намедиҳем.
 windows-10-eos-sync-callout-privacy-screen-2-title = Ниҳонвожаҳо ва хатбаракҳои худро барои дастгоҳи навбатии худ муҳофизат кунед.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Таҳияи нусхаи эҳтиётии «{ -brand-shorter-name }» амали интиқоли маълумоти шахсӣ ва танзимоти махфияти шуморо осон мегардонад.
 windows-10-eos-sync-callout-privacy-info-button = Нигаред, ки чӣ баста шудааст
 windows-10-eos-callout-addons-primary-button = Интихобҳои моро бинед
 windows-10-eos-sync-callout-next-button = Навбатӣ
