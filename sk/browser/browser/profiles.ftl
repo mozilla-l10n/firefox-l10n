@@ -112,15 +112,37 @@ profiles-terracotta-theme-2 = Tehlovo červená
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Machovo zelená
 profiles-gray-theme = Sivá
+profiles-gray-theme-title =
+    .title = Použiť sivú tému
 profiles-yellow-theme = Žltá
+profiles-yellow-theme-title =
+    .title = Použiť žltú tému
 profiles-orange-theme = Oranžová
+profiles-orange-theme-title =
+    .title = Použiť oranžovú tému
 profiles-red-theme = Červená
+profiles-red-theme-title =
+    .title = Použiť červenú tému
 profiles-pink-theme = Ružová
+profiles-pink-theme-title =
+    .title = Použiť ružovú tému
 profiles-purple-theme = Purpurová
+profiles-purple-theme-title =
+    .title = Použiť purpurovú tému
 profiles-violet-theme = Fialová
+profiles-violet-theme-title =
+    .title = Použiť fialovú tému
 profiles-blue-theme = Modrá
+profiles-blue-theme-title =
+    .title = Použiť modrú tému
 profiles-green-theme = Zelená
+profiles-green-theme-title =
+    .title = Použiť zelenú tému
 profiles-cyan-theme = Azúrová
+profiles-cyan-theme-title =
+    .title = Použiť azúrovú tému
+profiles-custom-theme-title =
+    .title = Použiť vlastnú tému
 
 ## Alternative text for default profile icons
 
