@@ -223,6 +223,17 @@ link-preview-reading-time =
 link-preview-error-message = Non faghet a ammustrare una previsualizatzione de custu ligòngiu
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Bìsita su ligòngiu
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Ddoe est istada una faddina.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Torra a nche proare
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Cunfiguratzione de previsualizatzione de ligòngiu
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Nde boles bìdere de prus cun IA?
+# Header for the key points section
+link-preview-key-points-header = Puntos crae
 # Onboarding card See a preview button
 link-preview-onboarding-button = Ammustra una previsualizatzione
 # Onboarding card Close button

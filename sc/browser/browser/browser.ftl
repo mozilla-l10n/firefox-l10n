@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Navigatzione privada
        *[other] Navigatzione privada de { -brand-full-name }
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Navigatzione privada
 
 ##
 
@@ -805,6 +808,10 @@ urlbar-result-weather-provider-sponsored = { $provider } · Patrotzinadu
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Otene datos de mercadu deretu in sa barra de chirca
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Ammustra is atualizatziones de mercadu e àteras informatziones de is persones assotziadas cun nois cando cumpartzis datos de chirca cun { -vendor-short-name }. <a data-l10n-name="learn-more-link">Àteras informatziones</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Ammustra cussìgios
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -1427,6 +1434,7 @@ trustpanel-privacy-link = Cunfiguratziones de riservadesa
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Isbòida is testimòngios e is datos de is sitos pro { $host }
+trustpanel-clear-cookies-description = Bogare is testimòngios e is datos de su situ ti diat pòdere serrare is sessiones e boidare is carrellos de còmporas.
 trustpanel-clear-cookies-subview-button-clear = Isbòida
 trustpanel-clear-cookies-subview-button-cancel = Annulla
 # Variables
