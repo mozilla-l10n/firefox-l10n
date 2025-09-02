@@ -95,6 +95,8 @@ profiles-light-theme = Light
 profiles-dark-theme = Dark
 # The default system theme
 profiles-system-theme = System
+profiles-system-theme-title =
+    .title = Apply system theme
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Marigold yellow
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Brick red
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Moss green
 profiles-gray-theme = Gray
+profiles-gray-theme-title =
+    .title = Apply gray theme
 profiles-yellow-theme = Yellow
+profiles-yellow-theme-title =
+    .title = Apply yellow theme
 profiles-orange-theme = Orange
+profiles-orange-theme-title =
+    .title = Apply orange theme
 profiles-red-theme = Red
+profiles-red-theme-title =
+    .title = Apply red theme
 profiles-pink-theme = Pink
+profiles-pink-theme-title =
+    .title = Apply pink theme
 profiles-purple-theme = Purple
+profiles-purple-theme-title =
+    .title = Apply purple theme
 profiles-violet-theme = Violet
+profiles-violet-theme-title =
+    .title = Apply violet theme
 profiles-blue-theme = Blue
+profiles-blue-theme-title =
+    .title = Apply blue theme
 profiles-green-theme = Green
+profiles-green-theme-title =
+    .title = Apply green theme
 profiles-cyan-theme = Cyan
+profiles-cyan-theme-title =
+    .title = Apply cyan theme
+profiles-custom-theme-title =
+    .title = Apply custom theme
 
 ## Alternative text for default profile icons
 
