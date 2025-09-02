@@ -95,6 +95,8 @@ profiles-light-theme = Lys
 profiles-dark-theme = Mørk
 # The default system theme
 profiles-system-theme = System
+profiles-system-theme-title =
+    .title = Bruk systemtema
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Gul ringblomst
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Mursteinsrød
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mosegrønn
 profiles-gray-theme = Grå
+profiles-gray-theme-title =
+    .title = Bruk grått tema
 profiles-yellow-theme = Gul
+profiles-yellow-theme-title =
+    .title = Bruk gult tema
 profiles-orange-theme = Oransje
+profiles-orange-theme-title =
+    .title = Bruk oransje tema
 profiles-red-theme = Rød
+profiles-red-theme-title =
+    .title = Bruk rødt tema
 profiles-pink-theme = Rosa
+profiles-pink-theme-title =
+    .title = Bruk rosa tema
 profiles-purple-theme = Lilla
+profiles-purple-theme-title =
+    .title = Bruk lilla tema
 profiles-violet-theme = Fiolett
+profiles-violet-theme-title =
+    .title = Bruk fiolett tema
 profiles-blue-theme = Blå
+profiles-blue-theme-title =
+    .title = Bruk blått tema
 profiles-green-theme = Grønn
+profiles-green-theme-title =
+    .title = Bruk grønt tema
 profiles-cyan-theme = Turkis
+profiles-cyan-theme-title =
+    .title = Bruk turkis tema
+profiles-custom-theme-title =
+    .title = Bruk et tilpasset tema
 
 ## Alternative text for default profile icons
 
