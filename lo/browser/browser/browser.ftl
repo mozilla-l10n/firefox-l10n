@@ -494,6 +494,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = ໃສ່ທີ່ຢູ່
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -1202,5 +1206,8 @@ trustpanel-list-label-fingerprinter = { $count } ລາຍນິ້ວດິຈ�
 trustpanel-list-label-social-tracking = { $count } ຕົວຕິດຕາມສື່ສັງຄົມ
 trustpanel-list-label-cryptominer = { $count } Cryptominers
 trustpanel-social-tracking-blocking-tab-header = { -brand-product-name } ບລັອກ { $count } ຕົວຕິດຕາມສື່ສັງຄົມ
+trustpanel-tracking-content-blocking-tab-header = { -brand-product-name } ບລັອກຕົວຕິດຕາມ { $count } ແລ້ວ
 trustpanel-tracking-content-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } trackers
 trustpanel-tracking-content-tab-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມຕິດຕາມທ່ານ:
+trustpanel-fingerprinter-blocking-tab-header = { -brand-product-name } ຖືກປິດກັ້ນ { $count } ເຄື່ອງພິມລາຍນິ້ວມື
+trustpanel-fingerprinter-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } ເຄື່ອງພິມລາຍນິ້ວມື
