@@ -95,6 +95,8 @@ profiles-light-theme = 밝게
 profiles-dark-theme = 어둡게
 # The default system theme
 profiles-system-theme = 시스템
+profiles-system-theme-title =
+    .title = 시스템 테마 적용
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = 노란색 금잔화
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = 벽돌 빨강
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = 이끼 녹색
 profiles-gray-theme = 회색
+profiles-gray-theme-title =
+    .title = 회색 테마 적용
 profiles-yellow-theme = 노란색
+profiles-yellow-theme-title =
+    .title = 노란색 테마 적용
 profiles-orange-theme = 주황색
+profiles-orange-theme-title =
+    .title = 주황색 테마 적용
 profiles-red-theme = 빨간색
+profiles-red-theme-title =
+    .title = 빨간색 테마 적용
 profiles-pink-theme = 분홍색
+profiles-pink-theme-title =
+    .title = 분홍색 테마 적용
 profiles-purple-theme = 보라색
+profiles-purple-theme-title =
+    .title = 보라색 테마 적용
 profiles-violet-theme = 남보라색
+profiles-violet-theme-title =
+    .title = 남보라색 테마 적용
 profiles-blue-theme = 파란색
+profiles-blue-theme-title =
+    .title = 파란색 테마 적용
 profiles-green-theme = 녹색
+profiles-green-theme-title =
+    .title = 녹색 테마 적용
 profiles-cyan-theme = 청록색
+profiles-cyan-theme-title =
+    .title = 청록색 테마 적용
+profiles-custom-theme-title =
+    .title = 사용자 지정 테마 적용
 
 ## Alternative text for default profile icons
 

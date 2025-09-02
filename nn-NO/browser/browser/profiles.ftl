@@ -95,6 +95,8 @@ profiles-light-theme = Lyst
 profiles-dark-theme = Mørkt
 # The default system theme
 profiles-system-theme = System
+profiles-system-theme-title =
+    .title = Bruk systemtema
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Gul ringblom
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Mursteinsraud
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mosegrøn
 profiles-gray-theme = Grå
+profiles-gray-theme-title =
+    .title = Bruk grått tema
 profiles-yellow-theme = Gul
+profiles-yellow-theme-title =
+    .title = Bruk gult tema
 profiles-orange-theme = Oransje
+profiles-orange-theme-title =
+    .title = Bruk oransje tema
 profiles-red-theme = Raud
+profiles-red-theme-title =
+    .title = Bruk raudt tema
 profiles-pink-theme = Rosa
+profiles-pink-theme-title =
+    .title = Bruk rosa tema
 profiles-purple-theme = Lilla
+profiles-purple-theme-title =
+    .title = Bruk lilla tema
 profiles-violet-theme = Fiolett
+profiles-violet-theme-title =
+    .title = Bruk fiolett tema
 profiles-blue-theme = Blå
+profiles-blue-theme-title =
+    .title = Bruk blått tema
 profiles-green-theme = Grøn
+profiles-green-theme-title =
+    .title = Bruk grønt tema
 profiles-cyan-theme = Cyan
+profiles-cyan-theme-title =
+    .title = Bruk cyan-tema
+profiles-custom-theme-title =
+    .title = Bruk eit tilpassa tema
 
 ## Alternative text for default profile icons
 

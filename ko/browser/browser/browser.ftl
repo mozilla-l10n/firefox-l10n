@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — 사생활 보호 모드
        *[other] { -brand-full-name } 사생활 보호 모드
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = 사생활 보호 모드
 
 ##
 

@@ -95,6 +95,8 @@ profiles-light-theme = Светлая
 profiles-dark-theme = Тёмная
 # The default system theme
 profiles-system-theme = Системная
+profiles-system-theme-title =
+    .title = Применить системную тему
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Желтые календулы
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,12 +112,26 @@ profiles-terracotta-theme-2 = Кирпичный красный
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Зелёный мох
 profiles-gray-theme = Серый
+profiles-gray-theme-title =
+    .title = Применить серую тему
 profiles-yellow-theme = Жёлтый
+profiles-yellow-theme-title =
+    .title = Применить жёлтую тему
 profiles-orange-theme = Оранжевый
+profiles-orange-theme-title =
+    .title = Применить оранжевую тему
 profiles-red-theme = Красный
+profiles-red-theme-title =
+    .title = Применить красную тему
 profiles-pink-theme = Розовый
+profiles-pink-theme-title =
+    .title = Применить розовую тему
 profiles-purple-theme = Пурпурный
+profiles-purple-theme-title =
+    .title = Применить пурпурную тему
 profiles-violet-theme = Фиолетовый
+profiles-violet-theme-title =
+    .title = Применить фиолетовую тему
 profiles-blue-theme = Синий
 profiles-green-theme = Зелёный
 profiles-cyan-theme = Бирюзовый

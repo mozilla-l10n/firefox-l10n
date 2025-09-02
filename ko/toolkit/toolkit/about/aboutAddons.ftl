@@ -462,6 +462,7 @@ available-updates-heading = 업데이트 있음
 recent-updates-heading = 최근 업데이트
 release-notes-loading = 로드 중…
 release-notes-error = 죄송합니다. 출시 정보를 로드하는 중에 오류가 발생했습니다.
+addon-permissions-heading = 권한
 addon-permissions-empty2 = 이 확장 기능은 권한이 필요하지 않습니다.
 addon-permissions-empty = 이 확장 기능은 권한이 필요하지 않습니다.
 addon-permissions-required = 핵심 기능에 필요한 필수 권한:

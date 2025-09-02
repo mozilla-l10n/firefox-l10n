@@ -471,7 +471,10 @@ available-updates-heading = Tilgjengelege oppdateringar
 recent-updates-heading = Nylege oppdateringar
 release-notes-loading = Lastar…
 release-notes-error = Beklagar, men ein feil oppstod under lasting av versjonsnotatet.
+addon-permissions-heading = Løyve
 addon-permissions-empty2 = Denne utvidinga krev ingen løyve.
+addon-permissions-required-label = Påkravd:
+addon-permissions-optional-label = Valfri:
 addon-permissions-empty = Denne utvidinga krev inkje løyve
 addon-permissions-required = Påkravde løyve for kjernefunksjonalitet:
 addon-permissions-optional = Valfrie løyve for ekstra funksjonalitet:
@@ -567,6 +570,10 @@ permissions-data-addon-button = Løyve og data
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Blir brukt av utvidinga { $extensionName }
+addon-permissions-data-collection-heading = Datainnsamling
+addon-permissions-data-collection-empty = Utviklaren seier at denne utvidinga ikkje krev datainnsamling.
+addon-data-collection-provided = Informasjon levert av utvidingsutviklaren
+addon-data-collection-learnmore = Les meir om datainnsamling
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
