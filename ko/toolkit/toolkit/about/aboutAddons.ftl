@@ -464,6 +464,8 @@ release-notes-loading = 로드 중…
 release-notes-error = 죄송합니다. 출시 정보를 로드하는 중에 오류가 발생했습니다.
 addon-permissions-heading = 권한
 addon-permissions-empty2 = 이 확장 기능은 권한이 필요하지 않습니다.
+addon-permissions-required-label = 필수 항목:
+addon-permissions-optional-label = 선택 항목:
 addon-permissions-empty = 이 확장 기능은 권한이 필요하지 않습니다.
 addon-permissions-required = 핵심 기능에 필요한 필수 권한:
 addon-permissions-optional = 추가 기능에 필요한 선택 권한:
@@ -559,6 +561,10 @@ permissions-data-addon-button = 권한 및 데이터
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = { $extensionName } 확장 기능에서 사용됨
+addon-permissions-data-collection-heading = 데이터 수집
+addon-permissions-data-collection-empty = 개발자가 이 확장 기능은 데이터 수집이 필요하지 않다고 말합니다.
+addon-data-collection-provided = 확장 기능 개발자가 제공한 정보
+addon-data-collection-learnmore = 데이터 수집에 대해 더 알아보기
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
