@@ -93,6 +93,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Prøv at 
 inactive-css-not-display-block-on-floated-fix = Prøv at fjerne <strong>float</strong> eller tilføje <strong>display:block</strong>. { learn-more }
 inactive-css-only-non-grid-or-flex-item-fix = Prøv at ændre værdien af <strong>display</strong> i elementets container til noget andet end <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> eller <strong>inline-grid</strong>, eller fjern <strong>float</strong>. { learn-more }
 inactive-css-not-block-fix = Prøv at tilføje egenskaber som <strong>display:block</strong> eller <strong>float:left</strong>. { learn-more }
+inactive-css-not-block-container-fix = Prøv at tilføje <strong>display:block</strong>, <strong>display:inline-block</strong> eller <strong>display:flow-root</strong>. { learn-more }
 inactive-css-not-floated-fix = Prøv at tilføje egenskaben <strong>float</strong> med en anden værdi end <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Prøv at sætte elements <strong>position</strong>-egenskab til noget andet end <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Sørg for, at du tilføjer egenskaben til et erstattet element. { learn-more }
