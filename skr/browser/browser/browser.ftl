@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The main browser window's title
-
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -115,6 +112,13 @@ browser-main-window-titles-mac =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-default-title = { -brand-full-name }
+# Note: only on macOS do we use a `-` separator between the brand name and the
+# "Private Browsing" suffix.
+browser-main-private-window-title =
+    { PLATFORM() ->
+        [macos] { -brand-full-name } — نجی براؤزنگ
+       *[other] { -brand-full-name } نجی براؤزنگ
+    }
 
 ##
 
@@ -676,6 +680,13 @@ urlbar-result-action-calculator-result = = { $result }
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1011,6 +1022,9 @@ tabs-toolbar-list-all-tabs =
     .label = تمام ٹیبز دی تندیر بݨاؤ
     .tooltiptext = تمام ٹیبز دی تندیر بݨاؤ
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1062,6 +1076,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         ایکسٹنشناں
         کجھ ایکسٹنشناں دی اجازت کائنی
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -1153,3 +1171,13 @@ file-picker-crashed-save-nowhere = ونڈوز فائل ڈائیلاگ کریش �
 file-picker-crashed-show-in-folder =
     .label = فولڈر وِچ ݙکھاؤ
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
