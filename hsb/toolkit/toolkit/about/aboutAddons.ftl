@@ -468,7 +468,10 @@ available-updates-heading = K dispoziciji stejace aktualizacije
 recent-updates-heading = Najnowše aktualizacije
 release-notes-loading = Začituje so…
 release-notes-error = Při začitowanju wersijowych informacijow je bohužel zmylk wustupił.
+addon-permissions-heading = Prawa
 addon-permissions-empty2 = Tute rozšěrjenje sej prawa njewužaduje.
+addon-permissions-required-label = Trěbny:
+addon-permissions-optional-label = Na přeće:
 addon-permissions-empty = Tute rozšěrjenje sej prawa njewužaduje
 addon-permissions-required = Trěbne prawa za jadrowu funkcionalnosć:
 addon-permissions-optional = Opcionalne prawa za přidatu funkcionalnosć:
@@ -564,6 +567,10 @@ permissions-data-addon-button = Prawa a daty
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Přez rozšěrjenje { $extensionName } wužiwany
+addon-permissions-data-collection-heading = Hromadźenje datow
+addon-permissions-data-collection-empty = Wuwiwar praji, zo tute rozšěrjenje hromadźenje datow njetrjeba.
+addon-data-collection-provided = Wot wuwiwarja rozšěrjenja podate informacije
+addon-data-collection-learnmore = Zhońće wjace wo hromadźenju datow
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

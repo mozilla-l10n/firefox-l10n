@@ -141,6 +141,8 @@ profiles-green-theme-title =
 profiles-cyan-theme = Cyan
 profiles-cyan-theme-title =
     .title = Cyanowu drastu nałožić
+profiles-custom-theme-title =
+    .title = Swójsku drastu nałožić
 
 ## Alternative text for default profile icons
 

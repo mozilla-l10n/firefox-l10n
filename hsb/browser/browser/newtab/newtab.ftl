@@ -323,6 +323,7 @@ newtab-custom-stories-toggle =
     .description = Wuwzaćowy wobsah, kotryž so přez swójbu { -brand-product-name } hlada
 newtab-custom-stories-personalized-toggle =
     .label = Stawiznički
+newtab-custom-stories-personalized-checkbox-label = Personalizowane stawiznički na zakładźe wašeje aktiwity
 newtab-custom-pocket-sponsored = Sponserowane stawizny
 newtab-custom-pocket-show-recent-saves = Najnowše składowanja pokazać
 newtab-custom-recent-title = Najnowša aktiwita
