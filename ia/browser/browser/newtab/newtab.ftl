@@ -317,6 +317,7 @@ newtab-custom-stories-toggle =
     .description = Exceptional contento curate per le familia de { -brand-product-name }
 newtab-custom-stories-personalized-toggle =
     .label = Historias
+newtab-custom-stories-personalized-checkbox-label = Historias personalisate in base a tu activitate
 newtab-custom-pocket-sponsored = Articulos sponsorisate
 newtab-custom-pocket-show-recent-saves = Monstrar salvamentos recente
 newtab-custom-recent-title = Activitate recente
@@ -352,6 +353,7 @@ newtab-wallpaper-custom-color = Eliger un color
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Le dimension del imagine excede le limite de { $file_size }MB. Tenta incargar un file minus grande.
+newtab-wallpaper-error-upload-file-type = Impossibile cargar tu file. Retenta con un file de imagine.
 newtab-wallpaper-error-file-type = Impossibile incargar tu file. Retenta con un altere typo de file.
 newtab-wallpaper-light-red-panda = Panda rubie
 newtab-wallpaper-light-mountain = Montania blanc

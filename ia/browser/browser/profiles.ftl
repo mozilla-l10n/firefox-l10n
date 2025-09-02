@@ -121,14 +121,28 @@ profiles-orange-theme = Orange
 profiles-orange-theme-title =
     .title = Applicar thema orange
 profiles-red-theme = Rubie
+profiles-red-theme-title =
+    .title = Applicar thema rubie
 profiles-pink-theme = Rosate
+profiles-pink-theme-title =
+    .title = Applicar thema rosate
 profiles-purple-theme = Purpuree
+profiles-purple-theme-title =
+    .title = Applicar thema purpuree
 profiles-violet-theme = Violette
+profiles-violet-theme-title =
+    .title = Applicar thema violette
 profiles-blue-theme = Blau
+profiles-blue-theme-title =
+    .title = Applicar thema blau
 profiles-green-theme = Verde
+profiles-green-theme-title =
+    .title = Applicar thema verde
 profiles-cyan-theme = Cyano
 profiles-cyan-theme-title =
     .title = Applicar thema cyano
+profiles-custom-theme-title =
+    .title = Applicar thema personalisate
 
 ## Alternative text for default profile icons
 
