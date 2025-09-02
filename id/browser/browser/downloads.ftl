@@ -183,6 +183,18 @@ downloads-history =
 downloads-details =
     .title = Detail Unduhan
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+downloads-private-browsing-details =
+    .title = Berkas tetap ada di perangkat Anda
+downloads-private-browsing-message = Siapa pun yang menggunakan perangkat ini dapat melihat unduhan, bahkan saat Anda menutup semua jendela pribadi.
+downloads-private-browsing-delete-button =
+    .label = Hapus berkas secara otomatis
+    .accesskey = H
+downloads-private-browsing-accept-button =
+    .label = Mengerti
+    .accesskey = g
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
