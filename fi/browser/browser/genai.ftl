@@ -224,3 +224,14 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message = Emme voi esikatsella tätä linkkiä
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Käy linkin osoitteessa
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Jokin meni pieleen.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Yritä uudelleen
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Linkin esikatselun asetukset
+# Onboarding card Close button
+link-preview-onboarding-close = Sulje

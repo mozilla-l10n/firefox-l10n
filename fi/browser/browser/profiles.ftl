@@ -95,6 +95,8 @@ profiles-light-theme = Vaalea
 profiles-dark-theme = Tumma
 # The default system theme
 profiles-system-theme = Järjestelmä
+profiles-system-theme-title =
+    .title = Käytä järjestelmän teemaa
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Kehäkukankeltainen
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Tiilenpunainen
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Sammaleenvihreä
 profiles-gray-theme = Harmaa
+profiles-gray-theme-title =
+    .title = Käytä harmaata teemaa
 profiles-yellow-theme = Keltainen
+profiles-yellow-theme-title =
+    .title = Käytä keltaista teemaa
 profiles-orange-theme = Oranssi
+profiles-orange-theme-title =
+    .title = Käytä oranssia teemaa
 profiles-red-theme = Punainen
+profiles-red-theme-title =
+    .title = Käytä punaista teemaa
 profiles-pink-theme = Pinkki
+profiles-pink-theme-title =
+    .title = Käytä pinkkiä teemaa
 profiles-purple-theme = Liila
+profiles-purple-theme-title =
+    .title = Käytä liilaa teemaa
 profiles-violet-theme = Violetti
+profiles-violet-theme-title =
+    .title = Käytä violettia teemaa
 profiles-blue-theme = Sininen
+profiles-blue-theme-title =
+    .title = Käytä sinistä teemaa
 profiles-green-theme = Vihreä
+profiles-green-theme-title =
+    .title = Käytä vihreää teemaa
 profiles-cyan-theme = Syaani
+profiles-cyan-theme-title =
+    .title = Käytä syaania teemaa
+profiles-custom-theme-title =
+    .title = Käytä mukautettua teemaa
 
 ## Alternative text for default profile icons
 
