@@ -125,6 +125,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Tietoja { -brand-short-name }in AI-chatboteista
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Koska sivu on pitkä, tämä on osittainen yhteenveto.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Tee yhteenveto sivusta
@@ -217,3 +222,5 @@ link-preview-reading-time =
         [one] { $range } minuutin lukuaika
        *[other] { $range } minuutin lukuaika
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Emme voi esikatsella tätä linkkiä

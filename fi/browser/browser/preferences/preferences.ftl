@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Pyydä verkkosivustoja olemaan myymättä tai jakamatta tietojani
     .accesskey = s
 non-technical-privacy-header = Sivuston tietosuojakäytännöt
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Sulje
+do-not-track-removal2 =
+    .label = "Älä seuraa"-signaali ei ole enää tuettu
 
 ## Browser Restart Dialog
 

@@ -468,7 +468,10 @@ available-updates-heading = Saatavilla olevat päivitykset
 recent-updates-heading = Tuoreet päivitykset
 release-notes-loading = Ladataan…
 release-notes-error = Julkaisutietojen lataaminen epäonnistui.
+addon-permissions-heading = Käyttöoikeudet
 addon-permissions-empty2 = Tämä laajennus ei vaadi mitään oikeuksia.
+addon-permissions-required-label = Vaadittu:
+addon-permissions-optional-label = Valinnainen:
 addon-permissions-empty = Tämä laajennus ei vaadi mitään oikeuksia
 addon-permissions-required = Vaaditut käyttöoikeudet ydintoiminnoille:
 addon-permissions-optional = Valinnaiset käyttöoikeudet lisätoiminnoille:
@@ -564,6 +567,10 @@ permissions-data-addon-button = Käyttöoikeudet ja data
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Käytetään laajennuksessa { $extensionName }
+addon-permissions-data-collection-heading = Tiedonkeruu
+addon-permissions-data-collection-empty = Kehittäjän mukaan tämä laajennus ei vaadi tiedonkeruuta.
+addon-data-collection-provided = Yksityiskohdat toimitti laajennuksen kehittäjä
+addon-data-collection-learnmore = Lue lisää tiedonkeruusta
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

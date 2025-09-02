@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Yksityinen selaus
        *[other] { -brand-full-name } — Yksityinen selaus
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Yksityinen selaus
 
 ##
 
