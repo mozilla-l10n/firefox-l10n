@@ -34,6 +34,7 @@ inactive-css-not-display-block-on-floated = Қимати хусусияти <str
 inactive-css-not-display-block-on-floated-2 = Қимати хусусияти <strong>display</strong> аз тарафи низом ба <strong>{ $display }</strong> иваз карда шуд, зеро ки унсур дорои қимати <strong>floated</strong> мебошад.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> ягон таъсир надорад, зеро ки он наметавонад дар унсурҳои «grid» ё «flex» истифода карда шавад.
 inactive-css-not-block = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он метавонад танҳо ба унсурҳои дар сатҳи блок татбиқ карда шавад.
+inactive-css-not-block-container = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он метавонад танҳо ба унсурҳои дарбаргирандаи блок татбиқ карда шавад.
 inactive-css-not-floated = Хусусияти <strong>{ $property }</strong> ягон таъсир надорад, зеро ки он метавонад танҳо ба унсурҳои шинокунанда татбиқ карда шавад.
 inactive-css-property-is-impossible-to-override-in-visited = Хусусияти <strong>{ $property }</strong> ба сабаби маҳдудияти <strong>:visited</strong> иваз карда намешавад.
 inactive-css-position-property-on-unpositioned-box = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури ҷойгиршавӣ мебошад.
@@ -70,6 +71,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ба қисмҳо тақсим шудааст, яъне муҳтавои он ба сутунҳо ё саҳифаҳои сершумор тақсим шудааст.
 inactive-css-no-width-height = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки дар он қиматҳои «width» ва «height» танзим карда намешаванд.
+inactive-css-no-principal-box = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он қуттии асосиро эҷод намекунад.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

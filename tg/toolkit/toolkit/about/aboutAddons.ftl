@@ -469,7 +469,10 @@ available-updates-heading = Навсозиҳои дастрас
 recent-updates-heading = Навсозиҳои охирин
 release-notes-loading = Бор шуда истодааст…
 release-notes-error = Мутаассифона, ҳангоми боркунии тавзеҳоти релиз хато ба миён омад.
+addon-permissions-heading = Иҷозатҳо
 addon-permissions-empty2 = Ин васеъшавӣ ягон иҷозатро талаб намекунад.
+addon-permissions-required-label = Ҳатмӣ аст:
+addon-permissions-optional-label = Интихобӣ аст:
 addon-permissions-empty = Ин васеъшавӣ ягон иҷозатро талаб намекунад
 addon-permissions-required = Иҷозатҳои лозимӣ барои фаъолияти асосӣ:
 addon-permissions-optional = Иҷозатҳои ихтиёрӣ барои фаъолияти иловагӣ:
@@ -565,6 +568,10 @@ permissions-data-addon-button = Иҷозатҳо ва маълумот
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Аз ҷониби васеъшавии «{ $extensionName }» истифода мешавад
+addon-permissions-data-collection-heading = Ҷамъоварии маълумот
+addon-permissions-data-collection-empty = Барномасоз хабар медиҳад, ки ин васеъшавӣ ҷамъоварии маълумотро талаб намекунад.
+addon-data-collection-provided = Маълумот аз ҷониби таҳиягари васеъшавӣ пешниҳод карда шудааст
+addon-data-collection-learnmore = Маълумоти бештар дар бораи ҷамъоварии маълумот
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
