@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The main browser window's title
-
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -115,6 +112,13 @@ browser-main-window-titles-mac =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-default-title = { -brand-full-name }
+# Note: only on macOS do we use a `-` separator between the brand name and the
+# "Private Browsing" suffix.
+browser-main-private-window-title =
+    { PLATFORM() ->
+        [macos] { -brand-full-name } — Modus privat
+       *[other] Modus privat da { -brand-full-name }
+    }
 
 ##
 
@@ -808,6 +812,9 @@ urlbar-result-market-opt-in-title = Infurmaziuns da la bursa directamain en tia 
 # This string is shown as description when Market suggestion are disabled.
 urlbar-result-market-opt-in-description = Mussar actualitads da la bursa ed autras infurmaziuns da noss partenaris cura che ti cundividas dumondas da tschertga cun { -vendor-short-name }. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1168,6 +1175,9 @@ tabs-toolbar-list-all-tabs =
     .label = Far ina glista da tut ils tabs
     .tooltiptext = Far ina glista da tut ils tabs
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1338,3 +1348,10 @@ onboarding-checklist-button-label = Finir la configuraziun
 onboarding-aw-finish-setup-button =
     .label = Cumplettar la configuraziun
     .tooltiptext = Cumplettar la configuraziun da { -brand-short-name }
+
+## The urlbar trust panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
