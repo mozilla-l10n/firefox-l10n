@@ -323,6 +323,7 @@ newtab-custom-stories-toggle =
     .description = Wuwześowe wopśimjeśe, kótarež se pśez swójźbu { -brand-product-name } wótwardujo
 newtab-custom-stories-personalized-toggle =
     .label = Tšojenja
+newtab-custom-stories-personalized-checkbox-label = Personalizěrowane tšojenja na zakłaźe wašeje aktiwity
 newtab-custom-pocket-sponsored = Sponserowane tšojeńka
 newtab-custom-pocket-show-recent-saves = Nejnowše składowanja pokazaś
 newtab-custom-recent-title = Nejnowša aktiwita
@@ -358,6 +359,7 @@ newtab-wallpaper-custom-color = Barwu wubraś
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Wobraz jo pśekšocył limit datajoweje wjelikosći { $file_size }. Nagrajśo pšosym mjeńšu dataju.
+newtab-wallpaper-error-upload-file-type = Njejsmy mógli wašu dataju nagraś. Wopytajśo pšosym z wobrazoweju dataju hyšći raz.
 newtab-wallpaper-error-file-type = Njejsmy mógli wašu dataju nagraś. Wopytajśo pšosym z drugim datajowym typom hyšći raz.
 newtab-wallpaper-light-red-panda = Cerwjeny panda
 newtab-wallpaper-light-mountain = Běła góra

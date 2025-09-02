@@ -95,6 +95,8 @@ profiles-light-theme = Swětły
 profiles-dark-theme = Śamny
 # The default system theme
 profiles-system-theme = System
+profiles-system-theme-title =
+    .title = Systemowu drastwu nałožyś
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Žołta knochanka
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Cyglojty
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mechzeleny
 profiles-gray-theme = Šery
+profiles-gray-theme-title =
+    .title = Šeru drastwu nałožyś
 profiles-yellow-theme = Žołty
+profiles-yellow-theme-title =
+    .title = Žołtu drastwu nałožyś
 profiles-orange-theme = Oranžowy
+profiles-orange-theme-title =
+    .title = Oranžowu drastwu nałožyś
 profiles-red-theme = Cerwjeny
+profiles-red-theme-title =
+    .title = Cerwjenu drastwu nałožyś
 profiles-pink-theme = Pink
+profiles-pink-theme-title =
+    .title = Rožojtu drastwu nałožyś
 profiles-purple-theme = Purpurowy
+profiles-purple-theme-title =
+    .title = Purpurowu drastwu nałožyś
 profiles-violet-theme = Wioletny
+profiles-violet-theme-title =
+    .title = Wioletnu drastwu nałožyś
 profiles-blue-theme = Módry
+profiles-blue-theme-title =
+    .title = Módru drastwu nałožyś
 profiles-green-theme = Zeleny
+profiles-green-theme-title =
+    .title = Zelenu drastwu nałožyś
 profiles-cyan-theme = Cyan
+profiles-cyan-theme-title =
+    .title = Cyanowu drastwu nałožyś
+profiles-custom-theme-title =
+    .title = Swójsku drastwu nałožyś
 
 ## Alternative text for default profile icons
 
