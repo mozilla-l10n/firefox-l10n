@@ -115,34 +115,14 @@ profiles-gray-theme = Grå
 profiles-gray-theme-title =
     .title = Använd grått tema
 profiles-yellow-theme = Gul
-profiles-yellow-theme-title =
-    .title = Lägg till gult tema
 profiles-orange-theme = Orange
-profiles-orange-theme-title =
-    .title = Använd orange tema
 profiles-red-theme = Röd
-profiles-red-theme-title =
-    .title = Använd rött tema
 profiles-pink-theme = Rosa
-profiles-pink-theme-title =
-    .title = Använd rosa tema
 profiles-purple-theme = Lila
-profiles-purple-theme-title =
-    .title = Använd lila tema
 profiles-violet-theme = Violett
-profiles-violet-theme-title =
-    .title = Använd violett tema
 profiles-blue-theme = Blå
-profiles-blue-theme-title =
-    .title = Använd blått tema
 profiles-green-theme = Grön
-profiles-green-theme-title =
-    .title = Använd grönt tema
 profiles-cyan-theme = Cyan
-profiles-cyan-theme-title =
-    .title = Använd cyan tema
-profiles-custom-theme-title =
-    .title = Använd anpassat tema
 
 ## Alternative text for default profile icons
 
