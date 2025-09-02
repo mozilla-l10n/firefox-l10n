@@ -95,6 +95,8 @@ profiles-light-theme = Clar
 profiles-dark-theme = Obscur
 # The default system theme
 profiles-system-theme = Systema
+profiles-system-theme-title =
+    .title = Applicar thema del systema
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Jalne calendula
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,8 +112,14 @@ profiles-terracotta-theme-2 = Rubie bricca
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verde musco
 profiles-gray-theme = Gris
+profiles-gray-theme-title =
+    .title = Applicar thema gris
 profiles-yellow-theme = Jalne
+profiles-yellow-theme-title =
+    .title = Applicar thema jalne
 profiles-orange-theme = Orange
+profiles-orange-theme-title =
+    .title = Applicar thema orange
 profiles-red-theme = Rubie
 profiles-pink-theme = Rosate
 profiles-purple-theme = Purpuree
@@ -119,6 +127,8 @@ profiles-violet-theme = Violette
 profiles-blue-theme = Blau
 profiles-green-theme = Verde
 profiles-cyan-theme = Cyano
+profiles-cyan-theme-title =
+    .title = Applicar thema cyano
 
 ## Alternative text for default profile icons
 
