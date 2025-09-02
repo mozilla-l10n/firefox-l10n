@@ -450,7 +450,10 @@ available-updates-heading = 可用的更新
 recent-updates-heading = 最近的更新
 release-notes-loading = 載入中…
 release-notes-error = 抱歉，載入發行公告時發生錯誤。
+addon-permissions-heading = 權限
 addon-permissions-empty2 = 此擴充套件並未要求任何權限。
+addon-permissions-required-label = 必要：
+addon-permissions-optional-label = 選擇性：
 addon-permissions-empty = 此擴充套件並未要求任何權限
 addon-permissions-required = 核心功能需要下列權限：
 addon-permissions-optional = 選用功能需要下列權限：
@@ -546,6 +549,10 @@ permissions-data-addon-button = 權限與資料
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = 擴充套件 { $extensionName } 使用
+addon-permissions-data-collection-heading = 資料收集
+addon-permissions-data-collection-empty = 開發者聲稱此擴充套件不要求收集任何資料。
+addon-data-collection-provided = 資訊由擴充套件開發者提供
+addon-data-collection-learnmore = 了解資料收集的更多資訊
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
