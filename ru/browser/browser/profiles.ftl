@@ -133,8 +133,16 @@ profiles-violet-theme = Фиолетовый
 profiles-violet-theme-title =
     .title = Применить фиолетовую тему
 profiles-blue-theme = Синий
+profiles-blue-theme-title =
+    .title = Применить синюю тему
 profiles-green-theme = Зелёный
+profiles-green-theme-title =
+    .title = Применить зелёную тему
 profiles-cyan-theme = Бирюзовый
+profiles-cyan-theme-title =
+    .title = Применить бирюзовую тему
+profiles-custom-theme-title =
+    .title = Применить пользовательскую тему
 
 ## Alternative text for default profile icons
 

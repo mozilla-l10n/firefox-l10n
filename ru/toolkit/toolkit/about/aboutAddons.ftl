@@ -473,7 +473,10 @@ available-updates-heading = Доступные обновления
 recent-updates-heading = Недавно обновлённые
 release-notes-loading = Загрузка…
 release-notes-error = При загрузке примечаний к выпуску возникли проблемы.
+addon-permissions-heading = Разрешения
 addon-permissions-empty2 = Это расширение не требует никаких разрешений.
+addon-permissions-required-label = Требуется:
+addon-permissions-optional-label = Необязательно:
 addon-permissions-empty = Это расширение не требует дополнительных разрешений
 addon-permissions-required = Необходимые разрешения для основных функций:
 addon-permissions-optional = Необязательные разрешения для дополнительных функций:
@@ -569,6 +572,10 @@ permissions-data-addon-button = Разрешения и данные
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Используется расширением { $extensionName }
+addon-permissions-data-collection-heading = Сбор данных
+addon-permissions-data-collection-empty = Разработчик сообщает, что это расширение не требует сбора данных.
+addon-data-collection-provided = Информация предоставлена разработчиком расширения
+addon-data-collection-learnmore = Узнайте больше о сборе данных
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

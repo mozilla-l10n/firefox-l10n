@@ -25,3 +25,10 @@ taskbar-tab-shortcut-description = Aplikacja internetowa { $name }
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Aplikacje internetowe { -brand-short-name(case: "gen") }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Wycisz kartę
+taskbar-tab-audio-unmute =
+    .tooltiptext = Włącz dźwięk
