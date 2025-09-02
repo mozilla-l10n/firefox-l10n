@@ -445,7 +445,10 @@ available-updates-heading = עדכונים זמינים
 recent-updates-heading = עדכונים אחרונים
 release-notes-loading = בטעינה…
 release-notes-error = מצטערים, אירעה שגיאה במהלך טעינת הערות השחרור.
+addon-permissions-heading = הרשאות
 addon-permissions-empty2 = להרחבה זו לא נדרשות הרשאות.
+addon-permissions-required-label = נדרש:
+addon-permissions-optional-label = אופציונלי:
 addon-permissions-empty = להרחבה זו לא נדרשות הרשאות
 addon-permissions-required = הרשאות נדרשות לתכונות ליבה:
 addon-permissions-optional = הרשאות רשות לתכונות נוספות:
@@ -541,6 +544,10 @@ permissions-data-addon-button = הרשאות ונתונים
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = בשימוש על־ידי ההרחבה { $extensionName }
+addon-permissions-data-collection-heading = איסוף נתונים
+addon-permissions-data-collection-empty = המפתח אומר שהרחבה זו אינה דורשת איסוף נתונים.
+addon-data-collection-provided = מידע המסופק על־ידי מפתח ההרחבה
+addon-data-collection-learnmore = מידע נוסף על איסוף נתונים
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
