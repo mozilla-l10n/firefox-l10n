@@ -322,6 +322,7 @@ newtab-custom-stories-toggle =
     .description = Interessant indhold udvalgt af { -brand-product-name }-holdet
 newtab-custom-stories-personalized-toggle =
     .label = Historier
+newtab-custom-stories-personalized-checkbox-label = Tilpassede historier baseret på din aktivitet
 newtab-custom-pocket-sponsored = Sponsorerede historier
 newtab-custom-pocket-show-recent-saves = Vis seneste gemte
 newtab-custom-recent-title = Seneste aktivitet

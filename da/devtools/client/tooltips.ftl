@@ -34,6 +34,7 @@ inactive-css-not-display-block-on-floated = Værdien <strong>display</strong> er
 inactive-css-not-display-block-on-floated-2 = Værdien <strong>display</strong> er blevet ændret til <strong>{ $display }</strong> fordi elementet er <strong>floated</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> har ingen effekt, fordi den ikke kan bruges på grid- eller flex-elementer.
 inactive-css-not-block = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det kun gælder for elementer på blokniveau.
+inactive-css-not-block-container = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det kun gælder for blokcontainer-elementer
 inactive-css-not-floated = <strong>{ $property }</strong> har ingen effekt, fordi det kun gælder for elementer der er floated.
 inactive-css-property-is-impossible-to-override-in-visited = Det er umuligt at tilsidesætte <strong>{ $property }</strong> på grund af begrænsning for <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et placeret element.
