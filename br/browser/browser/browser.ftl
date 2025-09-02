@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The main browser window's title
-
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -115,6 +112,13 @@ browser-main-window-titles-mac =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-default-title = { -brand-full-name }
+# Note: only on macOS do we use a `-` separator between the brand name and the
+# "Private Browsing" suffix.
+browser-main-private-window-title =
+    { PLATFORM() ->
+        [macos] { -brand-full-name } — Merdeiñ prevez
+       *[other] { -brand-full-name } Merdeiñ prevez
+    }
 
 ##
 
@@ -749,6 +753,13 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Paeroniet
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1101,11 +1112,17 @@ tabs-toolbar-list-all-tabs =
     .label = Roll an holl ivinelloù
     .tooltiptext = Roll an holl ivinelloù
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Digeriñ an ivinelloù kent?</strong> Gallout a rit assav hoc'h estez kent adalek al lañser arload { -brand-short-name } <img data-l10n-name="icon"/>, dindan Roll istor
 restore-session-startup-suggestion-button = Diskouez din penaos ober
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1143,6 +1160,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Askouezhioù
         Ul lodenn eus an askouezhioù n'int ket aotreet
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -1241,6 +1262,9 @@ file-picker-crashed-show-in-folder =
     .label = Diskouez en teuliad
     .accessKey = t
 
+## Onboarding Finish Setup checklist
+
+
 ## The urlbar trust panel
 
 trustpanel-clear-cookies-subview-button-clear = Skarzhañ
@@ -1248,3 +1272,7 @@ trustpanel-clear-cookies-subview-button-cancel = Nullañ
 trustpanel-connection-not-secure = N’oc’h ket kennasket d’al lec’hienn-mañ en un doare sur.
 trustpanel-siteinformation-morelink = Muioc’h a ditouroù diwar-benn al lec’hienn
 trustpanel-blocker-see-all = Gwelet pep tra
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
