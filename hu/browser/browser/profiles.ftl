@@ -95,6 +95,8 @@ profiles-light-theme = Világos
 profiles-dark-theme = Sötét
 # The default system theme
 profiles-system-theme = Rendszer
+profiles-system-theme-title =
+    .title = Rendszertéma alkalmazása
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Körömvirágsárga
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,6 +112,8 @@ profiles-terracotta-theme-2 = Téglavörös
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mohazöld
 profiles-gray-theme = Szürke
+profiles-gray-theme-title =
+    .title = Szürke téma alkalmazása
 profiles-yellow-theme = Sárga
 profiles-orange-theme = Narancs
 profiles-red-theme = Piros
