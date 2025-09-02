@@ -1320,6 +1320,11 @@ popup-notification-xpinstall-prompt-block-url = Lihat detail
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Izinkan ekstensi berjalan di jendela pribadi
     .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Bagikan data teknis dan interaksi dengan pengembang ekstensi
+    .accesskey = s
 
 ## Pop-up warning
 

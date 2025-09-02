@@ -223,6 +223,7 @@ contextual-manager-passwords-remove-label =
     .title = Hapus sandi
 contextual-manager-passwords-origin-tooltip = Masukkan alamat yang tepat untuk masuk ke situs ini.
 contextual-manager-passwords-username-tooltip = Masukkan nama pengguna, alamat surel, atau nomor akun yang Anda gunakan untuk masuk.
+contextual-manager-passwords-password-tooltip-2 = Masukkan sandi untuk masuk ke akun ini.
 contextual-manager-passwords-password-tooltip = Masukkan sandi yang digunakan untuk masuk ke akun ini.
 
 ## Password Card
@@ -283,6 +284,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Tidak ada sandi ditemukan
+contextual-manager-passwords-no-passwords-found-message-2 = Coba istilah lain dan cari lagi.
 contextual-manager-passwords-no-passwords-found-message = Tidak ada sandi ditemukan. Cari istilah lain dan coba lagi.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -297,6 +299,8 @@ contextual-manager-passwords-no-passwords-message = Semua sandi dienkripsi, dan 
 contextual-manager-passwords-no-passwords-get-started-message = Tambahkan di sini untuk memulai.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Tambahkan manual
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Simpan kata sandi Anda di tempat yang aman
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -306,3 +310,14 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Perubahan Anda tidak akan disimpan
 contextual-manager-passwords-discard-changes-close-button = Tutup
 contextual-manager-passwords-discard-changes-go-back-button = Kembali
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Ya, hapus kata sandi
+       *[other] Ya, hapus kata sandi
+    }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Untuk melihat sandi tersimpan Anda, masukkan sandi utama Anda.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Masukkan sandi utama
+contextual-manager-primary-password-learn-more-link = Pelajari lebih lanjut
