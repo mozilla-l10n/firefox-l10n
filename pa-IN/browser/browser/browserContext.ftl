@@ -93,9 +93,9 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-page =
-    .aria-label = …ਸਫ਼ਾ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+    .aria-label = …ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
     .accesskey = m
-    .tooltiptext = ਸਫ਼ਾ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+    .tooltiptext = ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.

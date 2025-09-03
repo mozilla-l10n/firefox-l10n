@@ -594,7 +594,7 @@ use-current-pages =
         }
     .accesskey = C
 choose-bookmark =
-    .label = …ਬੁੱਕਮਾਰਕ ਵਰਤੋ
+    .label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਵਰਤੋਂ
     .accesskey = B
 
 ## Home Section - Firefox Home Content Customization

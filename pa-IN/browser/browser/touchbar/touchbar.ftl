@@ -12,7 +12,7 @@ fullscreen = ਪੂਰੀ-ਸਕਰੀਨ
 touchbar-fullscreen-exit = ਪੂਰੀ ਸਕਰੀਨ ਨੂੰ ਛੱਡੋ
 find = ਲੱਭੋ
 new-tab = ਨਵੀਂ ਟੈਬ
-add-bookmark = ਬੁੱਕਮਾਰਕ ਜੋੜੋ
+add-bookmark = ਬੁੱਕਮਾਰਕ ਨੂੰ ਜੋੜੋ
 reader-view = ਰੀਡਰ ਝਲਕ
 # Meant to match the string displayed in an empty URL bar.
 open-location = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
