@@ -387,6 +387,8 @@ windows-10-eos-sync-callout-get-started-button = Оғози кор
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Варақаҳои амудӣ ва гурӯҳҳои варақаҳо дар ин ҷой қарор доранд!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Аз рӯйи дархостҳои маълум, браузери «{ -brand-product-name }» барои таъмини шумо бо таҷрибаи тамошобинии бодиққат ва нағз баpoҳмoндашyда якчанд хусусияти навро илова кард.
 windows-10-eos-feature-toast-whats-new-button = Бинед, ки чӣ нав аст
 windows-10-eos-feature-toast-dismiss-button = Нодида гузарондан
 
