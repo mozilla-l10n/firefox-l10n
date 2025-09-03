@@ -115,14 +115,34 @@ profiles-gray-theme = Γκρι
 profiles-gray-theme-title =
     .title = Εφαρμογή γκρι θέματος
 profiles-yellow-theme = Κίτρινο
+profiles-yellow-theme-title =
+    .title = Εφαρμογή κίτρινου θέματος
 profiles-orange-theme = Πορτοκαλί
+profiles-orange-theme-title =
+    .title = Εφαρμογή πορτοκαλί θέματος
 profiles-red-theme = Κόκκινο
+profiles-red-theme-title =
+    .title = Εφαρμογή κόκκινου θέματος
 profiles-pink-theme = Ροζ
+profiles-pink-theme-title =
+    .title = Εφαρμογή ροζ θέματος
 profiles-purple-theme = Μοβ
+profiles-purple-theme-title =
+    .title = Εφαρμογή μoβ θέματος
 profiles-violet-theme = Βιολετί
+profiles-violet-theme-title =
+    .title = Εφαρμογή βιολετί θέματος
 profiles-blue-theme = Μπλε
+profiles-blue-theme-title =
+    .title = Εφαρμογή μπλε θέματος
 profiles-green-theme = Πράσινο
+profiles-green-theme-title =
+    .title = Εφαρμογή πράσινου θέματος
 profiles-cyan-theme = Κυανό
+profiles-cyan-theme-title =
+    .title = Εφαρμογή κυανού θέμα
+profiles-custom-theme-title =
+    .title = Εφαρμογή προσαρμοσμένου θέματος
 
 ## Alternative text for default profile icons
 
