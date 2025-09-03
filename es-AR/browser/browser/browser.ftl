@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Navegación privada
        *[other] { -brand-full-name } Navegación privada
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Navegación privada
 
 ##
 
@@ -253,6 +256,8 @@ urlbar-local-network-blocked =
     .tooltiptext = Bloqueó las conexiones de red local para este sitio web.
 urlbar-xr-blocked =
     .tooltiptext = Se ha bloqueado el acceso a dispositivos de realidad virtual para este sitio web.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Ha bloqueado notificaciones para este sitio web.
 urlbar-camera-blocked =
     .tooltiptext = Se ha bloqueado la cámara para este sitio web.
 urlbar-microphone-blocked =

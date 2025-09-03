@@ -318,6 +318,9 @@ newtab-custom-pocket-subtitle = Contenido excepcional seleccionado por { -pocket
 newtab-custom-stories-toggle =
     .label = Historias recomendadas
     .description = Contenido excepcional seleccionado por la familia de { -brand-product-name }
+newtab-custom-stories-personalized-toggle =
+    .label = Historias
+newtab-custom-stories-personalized-checkbox-label = Historias personalizadas basadas en su actividad
 newtab-custom-pocket-sponsored = Historias patrocinadas
 newtab-custom-pocket-show-recent-saves = Mostrar guardados recientes
 newtab-custom-recent-title = Actividad reciente
@@ -353,6 +356,7 @@ newtab-wallpaper-custom-color = Elegir un color
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = La imagen excedió el límite de tamaño de archivo de { $file_size }MB. Pruebe subir un archivo más chico.
+newtab-wallpaper-error-upload-file-type = No pudimos subir el archivo. Vuelva a probar con un archivo de imagen.
 newtab-wallpaper-error-file-type = No pudimos subir el archivo. Vuelva a probar con un tipo de archivo diferente.
 newtab-wallpaper-light-red-panda = Panda rojo
 newtab-wallpaper-light-mountain = Montaña blanca
