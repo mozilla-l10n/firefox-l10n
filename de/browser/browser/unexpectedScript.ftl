@@ -26,3 +26,4 @@ unexpected-script-load-email-textbox =
     .aria-label = E-Mail-Adresse hier eingeben
 unexpected-script-load-more-info = Weitere Informationen
 unexpected-script-load-learn-more = Weitere Informationen
+unexpected-script-load-telemetry-disabled = Die Berichterstattung ist deaktiviert, weil die Telemetrie in den Einstellungen deaktiviert ist. Aktivieren Sie die Telemetrie um Berichte zu senden.
