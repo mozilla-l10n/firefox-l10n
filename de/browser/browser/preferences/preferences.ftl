@@ -1271,6 +1271,8 @@ content-blocking-etp-standard-tcp-title = Beinhaltet den vollständigen Cookie-S
 content-blocking-warning-title = Achtung!
 content-blocking-and-isolating-etp-warning-description-3 = Diese Einstellung kann dazu führen, dass einige Websites Inhalte nicht korrekt anzeigen oder nicht funktionieren. Wir bieten optionale Ausnahmen für Websites, von denen wir wissen, dass sie von Ihrer Konfiguration betroffen sein können. Um das Risiko fehlerhafter Websites zu reduzieren, erlauben Sie diese Ausnahmen für die Aktivitätenverfolgung. Wenn eine Website defekt zu sein scheint, können Sie den Schutz vor Aktivitätenverfolgung für diese Website deaktivieren, um alle Inhalte zu laden und das Problem zu melden, damit wir bei der Behebung des Problems helfen können.
 content-blocking-warning-title-2 = Einige Websites können möglicherweise wegen dem strengen Schutz vor Aktivitätenverfolgung nicht funktionieren.
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } empfiehlt die Verwendung der Einstellungen "Probleme mit Webseiten beheben", um fehlerhafte Funktionen und Inhalte von Websites zu reduzieren. Wenn eine Webseite defekt zu sein scheint, versuchen Sie, den Tracking-Schutz für diese Website zu deaktivieren, um alle Inhalte zu laden.
 content-blocking-and-isolating-etp-warning-description-2 = Diese Einstellung kann dazu führen, dass einige Websites nicht korrekt Inhalte anzeigen oder funktionieren. Wenn eine Website defekt zu sein scheint, können Sie den Schutz vor Aktivitätenverfolgung für diese Website deaktivieren, um alle Inhalte zu laden.
 content-blocking-warning-learn-how = Weitere Informationen
 content-blocking-baseline-exceptions =
@@ -1279,9 +1281,16 @@ content-blocking-baseline-exceptions-2 =
     .label = Hilft beim Laden von Webseiten und Funktionen, indem nur wichtige Elemente freigeschaltet werden, die Tracker enthalten könnten. Deckt die häufigsten Probleme ab.
 content-blocking-convenience-exceptions =
     .label = Wenden Sie auch automatisch Ausnahmen an, die nur erforderlich sind, um kleinere Probleme zu beheben und Komfortfunktionen zur Verfügung zu stellen.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Stellt Dinge wie Videos in einem Artikel oder Kommentarabschnitten wieder her, indem es Elemente freigibt, die Tracker enthalten könnten. Dies kann Probleme mit der Website reduzieren, bietet aber weniger Schutz. Muss mit Korrekturen für größere Probleme verwendet werden.
 content-blocking-baseline-label = Größere Probleme mit Websites beheben (empfohlen)
 content-blocking-convenience-label = Kleinere Probleme mit Websites beheben
 content-blocking-exceptions-subheader = Probleme mit der Website beheben
+content-blocking-baseline-uncheck-warning-dialog-title = Sollen die Korrekturen wirklich deaktiviert werden?
+content-blocking-baseline-uncheck-warning-dialog-body = Diese Einstellung hilft bei der Behebung der häufigsten Probleme mit der Website. Wenn Sie sie deaktivieren, funktionieren einige Websites möglicherweise nicht und { -brand-short-name } kann nicht bei der Behebung dieser Probleme helfen.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Fehlerbehebungen deaktivieren
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Fehlerbehebungen aktiviert lassen
 content-blocking-reload-description = Um die Änderungen anzuwenden, müssen alle Tabs neu geladen werden.
 content-blocking-reload-tabs-button =
     .label = Alle Tabs neu laden
