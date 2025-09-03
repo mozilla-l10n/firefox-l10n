@@ -570,6 +570,7 @@ mlmodel-extension-label = Usado por la extensión { $extensionName }
 addon-permissions-data-collection-heading = Recolección de datos
 addon-permissions-data-collection-empty = El desarrollador dice que esta extensión no requiere recolección de datos.
 addon-data-collection-provided = Información proporcionada por el desarrollador de la extensión
+addon-data-collection-learnmore = Conocer más sobre la recolección de datos
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
