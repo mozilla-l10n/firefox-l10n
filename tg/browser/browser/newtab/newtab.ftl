@@ -676,6 +676,8 @@ newtab-widget-timer-menu-learn-more = Маълумоти бештар
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Барои дидани маълумоти бештар, ҳаракат кунед
 newtab-widget-message-title = Бо истифода аз рӯйхатҳо ва вақтсанҷи дарунсохт диққати худро нигоҳ доред
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Аз ёдовариҳои фаврӣ то вазифаҳои ҳаррӯза ва аз ҷаласаҳои бодиққат то танаффусҳои бардавом — ҳар гуна вазифаҳоро дар сари вақт иҷро намоед.
 newtab-promo-card-title = Дастгирӣ кардани «{ -brand-product-name }»
 newtab-promo-card-body = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд
 newtab-promo-card-cta = Маълумоти бештар
