@@ -570,6 +570,8 @@ permissions-data-addon-button = Berechtigungen und Daten
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Verwendet von der Erweiterung { $extensionName }
+addon-data-collection-provided = Vom Entwickler der Erweiterung bereitgestellte Informationen
+addon-data-collection-learnmore = Erfahren Sie mehr über die Datenerhebung
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

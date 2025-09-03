@@ -95,6 +95,8 @@ profiles-light-theme = Hell
 profiles-dark-theme = Dunkel
 # The default system theme
 profiles-system-theme = System
+profiles-system-theme-title =
+    .title = System-Theme anwenden
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Ringelblumengelb
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,6 +112,8 @@ profiles-terracotta-theme-2 = Ziegelrot
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Moosgrün
 profiles-gray-theme = Grau
+profiles-gray-theme-title =
+    .title = Graues Theme anwenden
 profiles-yellow-theme = Gelb
 profiles-orange-theme = Orange
 profiles-red-theme = Rot

@@ -65,3 +65,10 @@ experimental-features-fx-web-apps-description = Öffnen Sie Websites, die Sie h�
 experimental-features-newtab-widget-lists =
     .label = Listen auf { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-description = Behalten Sie Ihre Aufgabenliste im Auge, wenn Sie neue Tabs öffnen. Von Packlisten bis hin zu Einkaufslisten: Machen Sie ihre Pläne in { -brand-product-name }. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Timer bei { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Stellen Sie einen Timer ein, damit Sie konzentriert bleiben, auf Kurs bleiben oder daran erinnert werden, neue Energie zu tanken.<a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listen und Timer auf { -firefox-home-brand-name }
