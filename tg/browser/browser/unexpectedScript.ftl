@@ -4,6 +4,10 @@
 
 unexpected-script-close-button =
     .aria-label = Пӯшидан
+# This string is used in the notification bar
+# Variables:
+#   $origin (string) - The top level domain the unexpected script was loaded from
+unexpected-script-load-message = <strong>«{ -brand-short-name }» нақши ногаҳон ва имтиёзнокро аз { $origin } муайян кард</strong>
 unexpected-script-load-message-button-allow =
     .label = Иҷозат додан
     .accesskey = И

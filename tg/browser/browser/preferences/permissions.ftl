@@ -173,6 +173,7 @@ permissions-site-camera-disable-desc = Ин амал ҳамаи сомонаҳо
 permissions-site-localhost-window =
     .title = Танзимот - Барномаҳо ва хизматҳои дастгоҳ
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Ин сомонаҳо барои пайдо кардани дастрасӣ ба барномаҳо ва хизматҳо дар ин дастгоҳ иҷозатро дархост карданд. Шумо метавонед ба ин сомонаҳо иҷозат диҳед ё онҳоро манъ кунед.
 permissions-site-localhost-disable-label =
     .label = Дархостҳои навро манъ кунед, то дар ин дастгоҳ ба барномаҳо ва хизматҳо дастрасӣ пайдо накунанд
 
