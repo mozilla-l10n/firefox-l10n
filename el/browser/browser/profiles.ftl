@@ -95,6 +95,8 @@ profiles-light-theme = Ανοιχτόχρωμο
 profiles-dark-theme = Σκοτεινό
 # The default system theme
 profiles-system-theme = Σύστημα
+profiles-system-theme-title =
+    .title = Εφαρμογή θέματος συστήματος
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Κίτρινο κατιφέ
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,6 +112,8 @@ profiles-terracotta-theme-2 = Καφεκόκκινο
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Βρυώδες πράσινο
 profiles-gray-theme = Γκρι
+profiles-gray-theme-title =
+    .title = Εφαρμογή γκρι θέματος
 profiles-yellow-theme = Κίτρινο
 profiles-orange-theme = Πορτοκαλί
 profiles-red-theme = Κόκκινο
