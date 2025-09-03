@@ -563,6 +563,7 @@ newtab-custom-wallpaper-cta = Озмоед
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Тасвири заминаеро интихоб карда, соҳиби браузери «{ -brand-product-name }» шавед
 newtab-new-user-custom-wallpaper-cta = Ҳозир онро кӯшиш кунед
 
 ## Strings for download mobile highlight

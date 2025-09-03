@@ -399,6 +399,7 @@ windows-10-eos-feature-toast-dismiss-button = Нодида гузарондан
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Муҳофизати ҷиддӣ аз пайгирӣ метавонад боиси кори нодурусти сомонаҳо гардад.</strong> Мушкилиҳои умумиро тавассути кушодани унсурҳои муҳимме, ки метавонанд васоити пайгириро дар бар гиранд, ҳал кунед.
 etp-strict-exceptions-infobar-learn-more = Маълумоти бештар
 etp-strict-exceptions-infobar-button = Татбиқ кардани ислоҳҳо
     .accesskey = Т
