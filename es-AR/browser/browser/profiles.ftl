@@ -95,6 +95,8 @@ profiles-light-theme = Claro
 profiles-dark-theme = Oscuro
 # The default system theme
 profiles-system-theme = Sistema
+profiles-system-theme-title =
+    .title = Aplicar tema del sistema
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Amarillo caléndula
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Rojo ladrillo
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verde musgo
 profiles-gray-theme = Gris
+profiles-gray-theme-title =
+    .title = Aplicar tema gris
 profiles-yellow-theme = Amarillo
+profiles-yellow-theme-title =
+    .title = Aplicar tema amarillo
 profiles-orange-theme = Naranja
+profiles-orange-theme-title =
+    .title = Aplicar tema naranja
 profiles-red-theme = Rojo
+profiles-red-theme-title =
+    .title = Aplicar tema rojo
 profiles-pink-theme = Rosa
+profiles-pink-theme-title =
+    .title = Aplicar tema rosa
 profiles-purple-theme = Púrpura
+profiles-purple-theme-title =
+    .title = Aplicar tema púrpura
 profiles-violet-theme = Violeta
+profiles-violet-theme-title =
+    .title = Aplicar tema violeta
 profiles-blue-theme = Azul
+profiles-blue-theme-title =
+    .title = Aplicar tema azul
 profiles-green-theme = Verde
+profiles-green-theme-title =
+    .title = Aplicar tema verde
 profiles-cyan-theme = Cian
+profiles-cyan-theme-title =
+    .title = Aplicar tema cián
+profiles-custom-theme-title =
+    .title = Aplicar tema personalizado
 
 ## Alternative text for default profile icons
 
