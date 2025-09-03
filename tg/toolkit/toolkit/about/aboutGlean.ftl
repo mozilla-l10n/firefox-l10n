@@ -146,5 +146,7 @@ about-glean-button-dictionary-link = Ҳуҷҷатҳо
 about-glean-button-watch = Назорат кардан
 # Meaning "to stop watching"
 about-glean-button-unwatch = Бекор кардани назорат
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Нишондиҳандаҳои барчаспдор ҳоло дар намуди <code>about:glean</code> дастгирӣ карда намешаванд.
 about-glean-unknown-metric-type-warning = Навъи нишондиҳандаҳои номаълум.
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.

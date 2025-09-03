@@ -20,3 +20,4 @@ unexpected-script-load-email-textbox =
     .aria-label = Нишонии почтаи электрониро дар ин ҷой ворид намоед
 unexpected-script-load-more-info = Маълумоти бештар
 unexpected-script-load-learn-more = Маълумоти бештар
+unexpected-script-load-telemetry-disabled = Гузоришдиҳӣ ғайрифаъол аст, зеро ки санҷиши дурдаст (телеметрия) дар танзимот ғайрифаъол карда шудааст. Барои пешниҳод кардани гузоришҳо, шумо бояд санҷиши дурдаст (телеметрия)-ро фаъл созед.
