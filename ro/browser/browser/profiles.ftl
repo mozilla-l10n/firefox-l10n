@@ -95,6 +95,8 @@ profiles-light-theme = Deschisă
 profiles-dark-theme = Întunecată
 # The default system theme
 profiles-system-theme = Sistem
+profiles-system-theme-title =
+    .title = Aplică tema sistemului
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Gălbenele galbene
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Roșu cărămidă
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verde mușchi
 profiles-gray-theme = Gri
+profiles-gray-theme-title =
+    .title = Aplică tema gri
 profiles-yellow-theme = Galben
+profiles-yellow-theme-title =
+    .title = Aplică tema galbenă
 profiles-orange-theme = Portocaliu
+profiles-orange-theme-title =
+    .title = Aplică tema portocalie
 profiles-red-theme = Roșu
+profiles-red-theme-title =
+    .title = Aplică tema roșie
 profiles-pink-theme = Roz
+profiles-pink-theme-title =
+    .title = Aplică tema roz
 profiles-purple-theme = Mov
+profiles-purple-theme-title =
+    .title = Aplică tema mov
 profiles-violet-theme = Violet
+profiles-violet-theme-title =
+    .title = Aplică tema violet
 profiles-blue-theme = Albastru
+profiles-blue-theme-title =
+    .title = Aplică tema albastră
 profiles-green-theme = Verde
+profiles-green-theme-title =
+    .title = Aplică tema verde
 profiles-cyan-theme = Cyan
+profiles-cyan-theme-title =
+    .title = Aplică tema cyan
+profiles-custom-theme-title =
+    .title = Aplică o temă personalizată
 
 ## Alternative text for default profile icons
 
