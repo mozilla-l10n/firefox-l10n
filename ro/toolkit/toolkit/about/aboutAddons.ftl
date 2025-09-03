@@ -463,7 +463,10 @@ available-updates-heading = Actualizări disponibile
 recent-updates-heading = Actualizări recente
 release-notes-loading = Se încarcă...
 release-notes-error = Ne pare rău, dar a intervenit o eroare la încărcarea notelor privind versiunea.
+addon-permissions-heading = Permisiuni
 addon-permissions-empty2 = Această extensie nu necesită nicio permisiune.
+addon-permissions-required-label = Necesare:
+addon-permissions-optional-label = Opționale:
 addon-permissions-empty = Această extensie nu necesită nicio permisiune
 addon-permissions-required = Permisiuni necesare pentru funcționalitatea de bază:
 addon-permissions-optional = Permisiuni opționale pentru funcționalitatea adăugată:
@@ -559,6 +562,10 @@ permissions-data-addon-button = Permisiuni și date
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Folosit de extensia { $extensionName }
+addon-permissions-data-collection-heading = Colectare de date
+addon-permissions-data-collection-empty = Dezvoltatorul spune că extensia nu necesită colectarea de date.
+addon-data-collection-provided = Informații furnizate de dezvoltatorul extensiei
+addon-data-collection-learnmore = Află mai multe despre colectarea de date
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
