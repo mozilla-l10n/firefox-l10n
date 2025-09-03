@@ -474,7 +474,10 @@ available-updates-heading = Verfügbare Updates
 recent-updates-heading = Kürzlich durchgeführte Updates
 release-notes-loading = Wird geladen…
 release-notes-error = Es tut uns leid, beim Laden der Versionshinweise trat ein Fehler auf.
+addon-permissions-heading = Berechtigungen
 addon-permissions-empty2 = Diese Erweiterung benötigt keine Berechtigungen.
+addon-permissions-required-label = Erforderlich:
+addon-permissions-optional-label = Optional:
 addon-permissions-empty = Diese Erweiterung benötigt keine Berechtigungen.
 addon-permissions-required = Erforderliche Berechtigungen für die Kernfunktionalität:
 addon-permissions-optional = Optionale Berechtigungen für zusätzliche Funktionalität:
@@ -570,6 +573,8 @@ permissions-data-addon-button = Berechtigungen und Daten
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Verwendet von der Erweiterung { $extensionName }
+addon-permissions-data-collection-heading = Datenerhebung
+addon-permissions-data-collection-empty = Der Entwickler sagt, diese Erweiterung benötigt keine Datenerhebung.
 addon-data-collection-provided = Vom Entwickler der Erweiterung bereitgestellte Informationen
 addon-data-collection-learnmore = Erfahren Sie mehr über die Datenerhebung
 

@@ -4,6 +4,10 @@
 
 unexpected-script-close-button =
     .aria-label = Schließen
+# This string is used in the notification bar
+# Variables:
+#   $origin (string) - The top level domain the unexpected script was loaded from
+unexpected-script-load-message = <strong>{ -brand-short-name } hat ein unerwartetes, privilegiertes Skript von { $origin } erkannt</strong>
 unexpected-script-load-message-button-allow =
     .label = Erlauben
     .accesskey = E

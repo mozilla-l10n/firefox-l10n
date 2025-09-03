@@ -123,6 +123,8 @@ profiles-violet-theme = Violett
 profiles-blue-theme = Blau
 profiles-green-theme = Grün
 profiles-cyan-theme = Cyan
+profiles-custom-theme-title =
+    .title = Benutzerdefiniertes Theme anwenden
 
 ## Alternative text for default profile icons
 
