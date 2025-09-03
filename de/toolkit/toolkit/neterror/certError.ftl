@@ -164,6 +164,7 @@ redirectLoop-title = Fehler: Umleitungsfehler
 unknownSocketType-title = Fehler: Unerwartete Antwort
 nssFailure2-title = Fehler: Gesicherte Verbindung fehlgeschlagen
 csp-xfo-error-title = { -brand-short-name } darf diese eingebettete Seite nicht öffnen
+corruptedContentErrorv2-title = Fehler: Beschädigter Inhalt
 corruptedContentError-title = Fehler: Beschädigte Inhalte
 sslv3Used-title = Keine sichere Verbindung möglich
 inadequateSecurityError-title = Diese Verbindung ist nicht sicher
