@@ -564,6 +564,7 @@ newtab-custom-wallpaper-cta = Озмоед
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-title = Тасвири заминаеро интихоб карда, соҳиби браузери «{ -brand-product-name }» шавед
+newtab-new-user-custom-wallpaper-subtitle = Ҳар як варақаи навро ба як саҳифаи шахсии зебо табдил диҳед — бо тасвирҳои замина ва рангҳое, ки услуби шуморо инъикос мекунанд.
 newtab-new-user-custom-wallpaper-cta = Ҳозир онро кӯшиш кунед
 
 ## Strings for download mobile highlight
@@ -655,6 +656,7 @@ newtab-widget-lists-name-placeholder-new =
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Вақтсанҷ
+newtab-widget-timer-notification-focus = Вақти мутолиа ба анҷом расид. Кори хуб. Танаффус лозим аст?
 newtab-widget-timer-notification-break = Танаффус ба анҷом расид. Омода ҳастед, ки боз диққат кунед?
 newtab-widget-timer-notification-warning = Огоҳномаҳо хомӯш мебошанд
 newtab-widget-timer-mode-focus =
