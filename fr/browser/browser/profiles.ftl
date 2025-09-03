@@ -95,6 +95,8 @@ profiles-light-theme = Clair
 profiles-dark-theme = Sombre
 # The default system theme
 profiles-system-theme = Système
+profiles-system-theme-title =
+    .title = Appliquer le thème du système
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Jaune souci
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,12 +112,26 @@ profiles-terracotta-theme-2 = Rouge brique
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Vert mousse
 profiles-gray-theme = Gris
+profiles-gray-theme-title =
+    .title = Appliquer le thème gris
 profiles-yellow-theme = Jaune
+profiles-yellow-theme-title =
+    .title = Appliquer le thème jaune
 profiles-orange-theme = Orange
+profiles-orange-theme-title =
+    .title = Appliquer le thème orange
 profiles-red-theme = Rouge
+profiles-red-theme-title =
+    .title = Appliquer le thème rouge
 profiles-pink-theme = Rose
+profiles-pink-theme-title =
+    .title = Appliquer le thème rose
 profiles-purple-theme = Pourpre
+profiles-purple-theme-title =
+    .title = Appliquer le thème pourpre
 profiles-violet-theme = Violet
+profiles-violet-theme-title =
+    .title = Appliquer le thème violet
 profiles-blue-theme = Bleu
 profiles-green-theme = Vert
 profiles-cyan-theme = Cyan
