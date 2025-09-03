@@ -16,11 +16,11 @@ bookmark-overlay-location-2 =
 bookmark-overlay-choose =
     .label = ਚੁਣੋ…
 bookmark-overlay-folders-expander =
-    .tooltiptext = ਸਭ ਬੁੱਕਮਾਰਕ ਫੋਲਡਰ ਵੇਖੋ
+    .tooltiptext = ਸਭ ਬੁੱਕਮਾਰਕ ਫੋਲਡਰਾਂ ਨੂੰ ਵੇਖੋ
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = ਓਹਲੇ
 bookmark-overlay-folders-expander2 =
-    .tooltiptext = ਸਭ ਬੁੱਕਮਾਰਕ ਫੋਲਡਰ ਵੇਖੋ
+    .tooltiptext = ਸਭ ਬੁੱਕਮਾਰਕ ਫੋਲਡਰ ਨੂੰ ਵੇਖੋ
 bookmark-overlay-folders-expander-hide =
     .tooltiptext = ਓਹਲੇ
 # bookmark-overlay-folders-tree is used to provide an accessible name to the tree view of the Bookmarks directory, when it is expanded

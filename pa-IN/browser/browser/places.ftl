@@ -115,8 +115,8 @@ places-show-in-folder =
 places-delete-bookmark =
     .label =
         { $count ->
-            [1] ਬੁੱਕਮਾਰਕ ਹਟਾਓ
-           *[other] ਬੁੱਕਮਾਰਕ ਹਟਾਓ
+            [1] ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ
+           *[other] ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ
         }
     .accesskey = D
 # Variables:

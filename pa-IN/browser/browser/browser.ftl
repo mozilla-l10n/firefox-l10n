@@ -876,7 +876,7 @@ urlbar-searchmode-button-no-engine =
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
-urlbar-result-action-search-bookmarks = ਬੁੱਕਮਾਰਕ ਖੋਜੋ
+urlbar-result-action-search-bookmarks = ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਖੋਜੋ
 urlbar-result-action-search-history = ਅਤੀਤ ਖੋਜੋ
 urlbar-result-action-search-tabs = ਟੈਬਾਂ ਖੋਜੋ
 urlbar-result-action-search-actions = ਖੋਜ ਕਾਰਵਾਈਆਂ
@@ -1013,7 +1013,7 @@ bookmarks-tools-menu-button-visibility =
 ##
 
 bookmarks-search =
-    .label = ਬੁੱਕਮਾਰਕ ਲੱਭੋ
+    .label = ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਲੱਭੋ
 bookmarks-tools =
     .label = ਬੁੱਕਮਾਰਕ ਬਣਾਉਣ ਵਾਲੇ ਟੂਲ
 bookmarks-subview-edit-bookmark =

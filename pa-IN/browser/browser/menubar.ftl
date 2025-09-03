@@ -230,7 +230,7 @@ menu-edit-bookmark =
     .label = …ਇਹ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
 # "Search" is a verb, as in "Search in bookmarks"
 menu-bookmarks-search =
-    .label = ਬੁੱਕਮਾਰਕ ਖੋਜੋ
+    .label = ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਖੋਜੋ
 menu-bookmarks-all-tabs =
     .label = …ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ
 menu-bookmarks-toolbar =
