@@ -95,6 +95,8 @@ profiles-light-theme = Svetla
 profiles-dark-theme = Temna
 # The default system theme
 profiles-system-theme = Sistemska
+profiles-system-theme-title =
+    .title = Uveljavi sistemsko temo
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Sončno rumena
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -109,6 +111,38 @@ profiles-ocean-theme-2 = Oceansko modra
 profiles-terracotta-theme-2 = Opečnato rdeča
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mahovnato zelena
+profiles-gray-theme = Siva
+profiles-gray-theme-title =
+    .title = Uveljavi sivo temo
+profiles-yellow-theme = Rumena
+profiles-yellow-theme-title =
+    .title = Uveljavi rumeno temo
+profiles-orange-theme = Oranžna
+profiles-orange-theme-title =
+    .title = Uveljavi oranžno temo
+profiles-red-theme = Rdeča
+profiles-red-theme-title =
+    .title = Uveljavi rdečo temo
+profiles-pink-theme = Rožnata
+profiles-pink-theme-title =
+    .title = Uveljavi rožnato temo
+profiles-purple-theme = Lila
+profiles-purple-theme-title =
+    .title = Uveljavi lila temo
+profiles-violet-theme = Vijolična
+profiles-violet-theme-title =
+    .title = Uveljavi vijolično temo
+profiles-blue-theme = Modra
+profiles-blue-theme-title =
+    .title = Uveljavi modro temo
+profiles-green-theme = Zelena
+profiles-green-theme-title =
+    .title = Uveljavi zeleno temo
+profiles-cyan-theme = Cian
+profiles-cyan-theme-title =
+    .title = Uveljavi cian temo
+profiles-custom-theme-title =
+    .title = Uveljavi temo po meri
 
 ## Alternative text for default profile icons
 
