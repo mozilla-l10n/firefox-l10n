@@ -1187,6 +1187,8 @@ trustpanel-header-enabled = { -brand-product-name } ແມ່ນເຝົ້າ�
 trustpanel-privacy-link = ການຕັ້ງຄ່າຄວາມເປັນສ່ວນຕົວ
 trustpanel-clear-cookies-subview-button-clear = ລົບລ້າງ
 trustpanel-clear-cookies-subview-button-cancel = ຍົກເລີກ
+trustpanel-connection-not-secure = ທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ຢ່າງປອດໄພກັບເວັບໄຊທ໌ນີ້.
+trustpanel-siteinformation-morelink = ຂໍ້ມູນເວັບໄຊເພີ່ມເຕີມ
 trustpanel-blocker-see-all = ເບິງທັງໝົດ
 
 ## Variables
@@ -1201,6 +1203,7 @@ trustpanel-list-label-fingerprinter = { $count } ລາຍນິ້ວດິຈ�
 trustpanel-list-label-social-tracking = { $count } ຕົວຕິດຕາມສື່ສັງຄົມ
 trustpanel-list-label-cryptominer = { $count } Cryptominers
 trustpanel-social-tracking-blocking-tab-header = { -brand-product-name } ບລັອກ { $count } ຕົວຕິດຕາມສື່ສັງຄົມ
+trustpanel-social-tracking-tab-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມຕິດຕາມທ່ານ:
 trustpanel-tracking-content-blocking-tab-header = { -brand-product-name } ບລັອກຕົວຕິດຕາມ { $count } ແລ້ວ
 trustpanel-tracking-content-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } trackers
 trustpanel-tracking-content-tab-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມຕິດຕາມທ່ານ:
