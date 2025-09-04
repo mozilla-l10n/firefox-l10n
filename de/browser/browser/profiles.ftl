@@ -139,6 +139,8 @@ profiles-green-theme = Grün
 profiles-green-theme-title =
     .title = Grünes Theme anwenden
 profiles-cyan-theme = Cyan
+profiles-cyan-theme-title =
+    .title = Cyan-Theme anwenden
 profiles-custom-theme-title =
     .title = Benutzerdefiniertes Theme anwenden
 
