@@ -182,7 +182,7 @@ musical-note-avatar-alt =
 palette-avatar-alt =
     .alt = Tavolozza
 paw-print-avatar-alt =
-    .alt = Impronta di una zampa
+    .alt = Impronta di zampa
 plane-avatar-alt =
     .alt = Aereo
 # Present refers to a gift box, not the current time period
@@ -237,7 +237,7 @@ makeup-avatar = Trucco
 message-avatar = Messaggio
 musical-note-avatar = Nota musicale
 palette-avatar = Tavolozza
-paw-print-avatar = Impronta di una zampa
+paw-print-avatar = Impronta di zampa
 plane-avatar = Aereo
 # Present refers to a gift box, not the current time period
 present-avatar = Regalo
@@ -256,3 +256,66 @@ custom-avatar-drag-handle =
     .aria-label = Ridimensiona l’area di ritaglio
 barbell-avatar = Bilanciere
 bike-avatar = Bici
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Usa l’icona bilanciere
+bike-avatar-tooltip =
+    .tooltiptext = Usa l’icona bici
+book-avatar-tooltip =
+    .tooltiptext = Usa l’icona libro
+briefcase-avatar-tooltip =
+    .tooltiptext = Usa l’icona valigetta
+picture-avatar-tooltip =
+    .tooltiptext = Usa l’icona quadro
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Usa l’icona artigianato
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Usa l’icona globo
+diamond-avatar-tooltip =
+    .tooltiptext = Usa l’icona diamante
+flower-avatar-tooltip =
+    .tooltiptext = Usa l’icona fiore
+folder-avatar-tooltip =
+    .tooltiptext = Usa l’icona cartella
+hammer-avatar-tooltip =
+    .tooltiptext = Usa l’icona martello
+heart-avatar-tooltip =
+    .tooltiptext = Usa l’icona cuore
+heart-rate-avatar-tooltip =
+    .tooltiptext = Usa l’icona frequenza cardiaca
+clock-avatar-tooltip =
+    .tooltiptext = Usa l’icona orologio
+leaf-avatar-tooltip =
+    .tooltiptext = Usa l’icona foglia
+lightbulb-avatar-tooltip =
+    .tooltiptext = Usa l’icona lampadina
+makeup-avatar-tooltip =
+    .tooltiptext = Usa l’icona trucco
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Usa l’icona messaggio
+musical-note-avatar-tooltip =
+    .tooltiptext = Usa l’icona nota musicale
+palette-avatar-tooltip =
+    .tooltiptext = Usa l’icona tavolozza
+paw-print-avatar-tooltip =
+    .tooltiptext = Usa l’icona impronta di zampa
+plane-avatar-tooltip =
+    .tooltiptext = Usa l’icona aereo
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Usa l’icona regalo
+shopping-avatar-tooltip =
+    .tooltiptext = Usa l’icona carrello della spesa
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Usa l’icona pallone da calcio
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Usa l’icona scintilla
+star-avatar-tooltip =
+    .tooltiptext = Usa l’icona stella
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Usa l’icona controller per videogiochi
