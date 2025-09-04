@@ -477,6 +477,7 @@ available-updates-heading = Даступныя абнаўленні
 recent-updates-heading = Нядаўнія абнаўленні
 release-notes-loading = Загрузка…
 release-notes-error = Выбачайце, здарылася памылка пры загрузцы заўваг да выпуску.
+addon-permissions-heading = Дазволы
 addon-permissions-empty2 = Гэта пашырэнне не патрабуе якіх-небудзь дазволаў.
 addon-permissions-empty = Гэта пашырэнне не патрабуе якіх-небудзь дазволаў
 addon-permissions-required = Неабходныя дазволы для асноўнай функцыянальнасці:
