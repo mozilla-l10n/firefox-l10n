@@ -271,6 +271,8 @@ link-preview-settings-button =
 link-preview-optin-title = Chcete vidět víc s pomocí umělé inteligence?
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Novinka: Klepněte a podržte prst na libovolném odkazu pro náhled
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Podívejte se na krátký popis, čas čtení a další informace, abyste se mohli rozhodnout, zda vám odkaz stojí za to otevřít. Dostupné také po klepnutí pravým tlačítkem myši.
 # Header for the key points section
 link-preview-key-points-header = Klíčové body
 # Disclaimer for AI-generated key points
