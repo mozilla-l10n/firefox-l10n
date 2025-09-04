@@ -145,6 +145,9 @@ browser-main-private-window-title =
                *[no-cases] Anonymní prohlížení — { -brand-full-name }
             }
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Anonymní prohlížení
 
 ##
 

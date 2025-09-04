@@ -269,6 +269,8 @@ link-preview-settings-button =
     .title = Nastavení náhledu odkazů
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Chcete vidět víc s pomocí umělé inteligence?
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Novinka: Klepněte a podržte prst na libovolném odkazu pro náhled
 # Header for the key points section
 link-preview-key-points-header = Klíčové body
 # Disclaimer for AI-generated key points

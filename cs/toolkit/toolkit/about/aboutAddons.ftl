@@ -534,7 +534,10 @@ available-updates-heading = Dostupné aktualizace
 recent-updates-heading = Aktualizováno
 release-notes-loading = Načítání…
 release-notes-error = Omlouváme se, ale při načítání poznámek k vydání nastala chyba.
+addon-permissions-heading = Oprávnění
 addon-permissions-empty2 = Toto rozšíření nevyžaduje žádná oprávnění.
+addon-permissions-required-label = Vyžadováno:
+addon-permissions-optional-label = Volitelné:
 addon-permissions-empty = Toto rozšíření nevyžaduje žádná oprávnění.
 addon-permissions-required = Vyžadovaná oprávnění pro základní funkce:
 addon-permissions-optional = Volitelná oprávnění pro dodatečné funkce:
@@ -658,6 +661,10 @@ permissions-data-addon-button = Oprávnění a data
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Používáno rozšířením { $extensionName }
+addon-permissions-data-collection-heading = Sběr dat
+addon-permissions-data-collection-empty = Vývojář uvádí, že toto rozšíření nevyžaduje sběr dat.
+addon-data-collection-provided = Informace poskytnuté vývojářem rozšíření
+addon-data-collection-learnmore = Zjistit více o sběru dat
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

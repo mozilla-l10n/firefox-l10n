@@ -115,6 +115,8 @@ profiles-light-theme = Světlý
 profiles-dark-theme = Tmavý
 # The default system theme
 profiles-system-theme = Systémový
+profiles-system-theme-title =
+    .title = Použít systémový motiv
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Měsíčková žlutá
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -130,15 +132,37 @@ profiles-terracotta-theme-2 = Cihlově červená
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mechově zelená
 profiles-gray-theme = Šedivý
+profiles-gray-theme-title =
+    .title = Použít šedý motiv
 profiles-yellow-theme = Žlutá
+profiles-yellow-theme-title =
+    .title = Použít žlutý motiv
 profiles-orange-theme = Oranžová
+profiles-orange-theme-title =
+    .title = Použít oranžový motiv
 profiles-red-theme = Červená
+profiles-red-theme-title =
+    .title = Použít červený motiv
 profiles-pink-theme = Růžová
+profiles-pink-theme-title =
+    .title = Použit růžový motiv
 profiles-purple-theme = Fialová
+profiles-purple-theme-title =
+    .title = Použít fialový motiv
 profiles-violet-theme = Fialová
+profiles-violet-theme-title =
+    .title = Použít fialový motiv
 profiles-blue-theme = Modrá
+profiles-blue-theme-title =
+    .title = Použít modrý motiv
 profiles-green-theme = Zelená
+profiles-green-theme-title =
+    .title = Použít zelený motiv
 profiles-cyan-theme = Azurová
+profiles-cyan-theme-title =
+    .title = Použít azurový motiv
+profiles-custom-theme-title =
+    .title = Použít vlastní motiv
 
 ## Alternative text for default profile icons
 
