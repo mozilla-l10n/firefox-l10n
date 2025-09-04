@@ -25,3 +25,9 @@ webauthn-uv-invalid-long-prompt =
        *[other] Verifica utente non riuscita. Rimangono { $retriesLeft } tentativi. Riprova.
     }
 webauthn-uv-invalid-short-prompt = Verifica utente non riuscita. Riprova.
+
+## WebAuthn prompts
+
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = Tocca la tua chiave di sicurezza per continuare su { $hostname }.
