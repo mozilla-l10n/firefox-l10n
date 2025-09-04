@@ -479,6 +479,8 @@ release-notes-loading = Загрузка…
 release-notes-error = Выбачайце, здарылася памылка пры загрузцы заўваг да выпуску.
 addon-permissions-heading = Дазволы
 addon-permissions-empty2 = Гэта пашырэнне не патрабуе якіх-небудзь дазволаў.
+addon-permissions-required-label = Патрэбны:
+addon-permissions-optional-label = Неабавязкова:
 addon-permissions-empty = Гэта пашырэнне не патрабуе якіх-небудзь дазволаў
 addon-permissions-required = Неабходныя дазволы для асноўнай функцыянальнасці:
 addon-permissions-optional = Неабавязковыя дазволы для дадатковай функцыянальнасці:
@@ -574,6 +576,10 @@ permissions-data-addon-button = Дазволы і дадзеныя
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Выкарыстоўваецца пашырэннем { $extensionName }
+addon-permissions-data-collection-heading = Збор дадзеных
+addon-permissions-data-collection-empty = Распрацоўшчык сцвярджае, што гэта пашырэнне не патрабуе збору дадзеных.
+addon-data-collection-provided = Інфармацыя прадастаўлена распрацоўшчыкам пашырэння
+addon-data-collection-learnmore = Даведацца больш пра збор дадзеных
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

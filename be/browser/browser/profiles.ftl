@@ -95,6 +95,8 @@ profiles-light-theme = Светлая
 profiles-dark-theme = Цёмная
 # The default system theme
 profiles-system-theme = Сістэмная
+profiles-system-theme-title =
+    .title = Ужыць сістэмную тэму
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Жоўтая календула
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Цагляна-чырвоны
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Мохава-зялёны
 profiles-gray-theme = Шэры
+profiles-gray-theme-title =
+    .title = Ужыць шэрую тэму
 profiles-yellow-theme = Жоўты
+profiles-yellow-theme-title =
+    .title = Ужыць жоўтую тэму
 profiles-orange-theme = Аранжавы
+profiles-orange-theme-title =
+    .title = Ужыць аранжавую тэму
 profiles-red-theme = Чырвоны
+profiles-red-theme-title =
+    .title = Ужыць чырвоную тэму
 profiles-pink-theme = Ружовы
+profiles-pink-theme-title =
+    .title = Ужыць ружовую тэму
 profiles-purple-theme = Пурпурны
+profiles-purple-theme-title =
+    .title = Ужыць пурпурную тэму
 profiles-violet-theme = Фіялетавы
+profiles-violet-theme-title =
+    .title = Ужыць фіялетавую тэму
 profiles-blue-theme = Сіні
+profiles-blue-theme-title =
+    .title = Ужыць сінюю тэму
 profiles-green-theme = Зялёны
+profiles-green-theme-title =
+    .title = Ужыць зялёную тэму
 profiles-cyan-theme = Блакітны
+profiles-cyan-theme-title =
+    .title = Ужыць цыянавую тэму
+profiles-custom-theme-title =
+    .title = Ужыць уласную тэму
 
 ## Alternative text for default profile icons
 
