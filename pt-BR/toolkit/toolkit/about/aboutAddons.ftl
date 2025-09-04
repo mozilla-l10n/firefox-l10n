@@ -566,6 +566,8 @@ permissions-data-addon-button = Permissões e dados
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Usado pela extensão { $extensionName }
 addon-permissions-data-collection-heading = Coleta de dados
+addon-permissions-data-collection-empty = O desenvolvedor afirma que esta extensão não requer coleta de dados.
+addon-data-collection-provided = Informações fornecidas pelo desenvolvedor da extensão
 addon-data-collection-learnmore = Saiba mais sobre coleta de dados
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
