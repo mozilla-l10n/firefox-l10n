@@ -579,6 +579,9 @@ permissions-data-addon-button = Caniatâd a data
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Yn cael ei defnyddio gan yr estyniad { $extensionName }
 addon-permissions-data-collection-heading = Casglu Data
+addon-permissions-data-collection-empty = Mae'r datblygwr yn dweud nad oes angen casglu data ar yr estyniad hwn.
+addon-data-collection-provided = Gwybodaeth wedi'i darparu gan ddatblygwr yr estyniad
+addon-data-collection-learnmore = Darllen rhagor am gasglu data
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
