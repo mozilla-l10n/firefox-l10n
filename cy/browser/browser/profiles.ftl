@@ -95,6 +95,8 @@ profiles-light-theme = Golau
 profiles-dark-theme = Tywyll
 # The default system theme
 profiles-system-theme = System
+profiles-system-theme-title =
+    .title = Defnyddio thema'r system
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Melyn llachar
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Coch brics
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Gwyrdd mwsogl
 profiles-gray-theme = Llwyd
+profiles-gray-theme-title =
+    .title = Gosod thema lwyd
 profiles-yellow-theme = Melyn
+profiles-yellow-theme-title =
+    .title = Gosod thema felen
 profiles-orange-theme = Oren
+profiles-orange-theme-title =
+    .title = Gosod thema oren
 profiles-red-theme = Coch
+profiles-red-theme-title =
+    .title = Gosod thema goch
 profiles-pink-theme = Pinc
+profiles-pink-theme-title =
+    .title = Gosod thema binc
 profiles-purple-theme = Porffor
+profiles-purple-theme-title =
+    .title = Gosod thema borffor
 profiles-violet-theme = Fioled
+profiles-violet-theme-title =
+    .title = Gosod thema fioled
 profiles-blue-theme = Glas
+profiles-blue-theme-title =
+    .title = Gosod thema las
 profiles-green-theme = Gwyrdd
+profiles-green-theme-title =
+    .title = Gosod thema werdd
 profiles-cyan-theme = Gwyrddlas
+profiles-cyan-theme-title =
+    .title = Gosod thema wyrddlas
+profiles-custom-theme-title =
+    .title = Gosod thema gyfaddas
 
 ## Alternative text for default profile icons
 
