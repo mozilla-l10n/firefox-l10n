@@ -95,6 +95,8 @@ profiles-light-theme = Açık
 profiles-dark-theme = Koyu
 # The default system theme
 profiles-system-theme = Sistem
+profiles-system-theme-title =
+    .title = Sistem temasını uygula
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Kadifeçiçeği sarısı
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Tuğla kırmızısı
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Yosun yeşili
 profiles-gray-theme = Gri
+profiles-gray-theme-title =
+    .title = Gri temayı uygula
 profiles-yellow-theme = Sarı
+profiles-yellow-theme-title =
+    .title = Sarı temayı uygula
 profiles-orange-theme = Turuncu
+profiles-orange-theme-title =
+    .title = Turuncu temayı uygula
 profiles-red-theme = Kırmızı
+profiles-red-theme-title =
+    .title = Kırmızı temayı uygula
 profiles-pink-theme = Pembe
+profiles-pink-theme-title =
+    .title = Pembe temayı uygula
 profiles-purple-theme = Mor
+profiles-purple-theme-title =
+    .title = Mor temayı uygula
 profiles-violet-theme = Eflatun
+profiles-violet-theme-title =
+    .title = Eflatun temayı uygula
 profiles-blue-theme = Mavi
+profiles-blue-theme-title =
+    .title = Mavi temayı uygula
 profiles-green-theme = Yeşil
+profiles-green-theme-title =
+    .title = Yeşil temayı uygula
 profiles-cyan-theme = Açık mavi
+profiles-cyan-theme-title =
+    .title = Cyan temayı uygula
+profiles-custom-theme-title =
+    .title = Özel temayı uygula
 
 ## Alternative text for default profile icons
 

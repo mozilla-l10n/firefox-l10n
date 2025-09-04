@@ -463,7 +463,10 @@ available-updates-heading = Mevcut güncellemeler
 recent-updates-heading = Son güncellenenler
 release-notes-loading = Yükleniyor…
 release-notes-error = Üzgünüz, sürüm notları yüklenirken bir hata meydana geldi.
+addon-permissions-heading = İzinler
 addon-permissions-empty2 = Bu uzantı herhangi bir izin gerektirmiyor.
+addon-permissions-required-label = Gerekli:
+addon-permissions-optional-label = İsteğe bağlı:
 addon-permissions-empty = Bu uzantı herhangi bir izin gerektirmiyor
 addon-permissions-required = Temel işlevler için gerekli izinler:
 addon-permissions-optional = Ek işlevler için isteğe bağlı izinler:
@@ -559,6 +562,9 @@ permissions-data-addon-button = İzinler ve veriler
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = { $extensionName } uzantısı tarafından kullanılıyor
+addon-permissions-data-collection-heading = Veri toplama
+addon-permissions-data-collection-empty = Geliştirici, bu uzantının veri toplamaya gerek duymadığını söylüyor.
+addon-data-collection-learnmore = Veri toplama hakkında daha fazla bilgi alın
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
