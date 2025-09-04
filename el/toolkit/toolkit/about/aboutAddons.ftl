@@ -475,6 +475,8 @@ release-notes-loading = Φόρτωση…
 release-notes-error = Λυπούμαστε, αλλά προέκυψε σφάλμα φόρτωσης των σημειώσεων έκδοσης.
 addon-permissions-heading = Δικαιώματα
 addon-permissions-empty2 = Αυτή η επέκταση δεν απαιτεί κανένα δικαίωμα.
+addon-permissions-required-label = Απαιτούμενα:
+addon-permissions-optional-label = Προαιρετικά:
 addon-permissions-empty = Αυτή η επέκταση δεν απαιτεί δικαιώματα
 addon-permissions-required = Απαιτούμενα δικαιώματα για βασική λειτουργικότητα:
 addon-permissions-optional = Προαιρετικά δικαιώματα για επιπρόσθετη λειτουργικότητα:
@@ -571,6 +573,8 @@ permissions-data-addon-button = Δικαιώματα και δεδομένα
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Χρησιμοποιείται από την επέκταση { $extensionName }
 addon-permissions-data-collection-heading = Συλλογή δεδομένων
+addon-permissions-data-collection-empty = Ο δημιουργός δηλώνει ότι αυτή η επέκταση δεν απαιτεί συλλογή δεδομένων.
+addon-data-collection-provided = Οι πληροφορίες παρέχονται από τον δημιουργό της επέκτασης
 addon-data-collection-learnmore = Μάθετε περισσότερα σχετικά με τη συλλογή δεδομένων
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
