@@ -139,6 +139,8 @@ profiles-green-theme = Grøn
 profiles-green-theme-title =
     .title = Anvend grønt tema
 profiles-cyan-theme = Cyan
+profiles-cyan-theme-title =
+    .title = Anvend cyan tema
 profiles-custom-theme-title =
     .title = Anvend tilpasset tema
 
