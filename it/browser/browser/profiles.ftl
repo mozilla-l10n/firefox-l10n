@@ -211,7 +211,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = Bici
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Libro
 briefcase-avatar = Valigetta
@@ -256,4 +256,3 @@ custom-avatar-drag-handle =
     .aria-label = Ridimensiona l’area di ritaglio
 barbell-avatar = Bilanciere
 bike-avatar = Bici
-
