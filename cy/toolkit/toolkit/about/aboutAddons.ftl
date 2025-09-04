@@ -479,7 +479,10 @@ available-updates-heading = Diweddariadau ar Gael
 recent-updates-heading = Diweddariadau Diweddar
 release-notes-loading = Yn llwytho…
 release-notes-error = Ymddiheuriadau ond bu gwall llwytho'r nodiadau ryddhau.
+addon-permissions-heading = Caniatâd
 addon-permissions-empty2 = Nid oes angen unrhyw ganiatâd ar gyfer yr estyniad hwn.
+addon-permissions-required-label = Angenrheidiol:
+addon-permissions-optional-label = Dewisol:
 addon-permissions-empty = Nid oes angen unrhyw ganiatâd ar yr estyniad hwn
 addon-permissions-required = Caniatâd angenrheidiol y swyddogaethau craidd:
 addon-permissions-optional = Caniatâd dewisol ar gyfer y swyddogaethau ychwanegol:
@@ -575,6 +578,7 @@ permissions-data-addon-button = Caniatâd a data
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Yn cael ei defnyddio gan yr estyniad { $extensionName }
+addon-permissions-data-collection-heading = Casglu Data
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
