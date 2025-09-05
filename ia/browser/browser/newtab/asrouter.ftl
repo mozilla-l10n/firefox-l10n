@@ -69,9 +69,9 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Button Clauder
     .title = Clauder
 fxa-adoption-addresses-backup-title = Face un copia de securitate de tu adresses salvate
-fxa-adoption-addresses-backup-subtitle = Protege tu adresses salvate synchronisante los, con cryptation, a tu apparatos.
-fxa-adoption-credit-cards-backup-title = Preserva tu methodos de pagamento
-fxa-adoption-credit-cards-backup-subtitle = Protege tu methodos de pagamento synchronisante los, con cryptation, a tu apparatos.
+fxa-adoption-addresses-backup-subtitle = Protege tu adresses salvate synchronisante los con tu apparatos con cryptation.
+fxa-adoption-credit-cards-backup-title = Face un copia de securitate de tu methodos de pagamento
+fxa-adoption-credit-cards-backup-subtitle = Protege tu methodos de pagamento synchronisante los con tu apparatos con cryptation.
 fxa-adoption-primary-button-label = Inscriber se
 
 ## Protections panel
@@ -316,7 +316,7 @@ fxa-menu-message-close-button =
     .title = Clauder
     .aria-label = Clauder
 fxa-menu-message-sign-up-button = Inscriber se
-fxa-menu-message-sign-in-button = Acceder
+fxa-menu-message-sign-in-button = Aperir session
 fxa-menu-message-sync-button = Comencia a synchronisar
 fxa-menu-message-sync-devices-primary-text = Synchronisa tote tu apparatos
 fxa-menu-message-sync-devices-secondary-text = Instantaneemente obtene tu info, como marcapaginas e contrasignos, ubique tu usa { -brand-short-name }.
