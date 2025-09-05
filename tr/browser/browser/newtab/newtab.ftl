@@ -317,6 +317,7 @@ newtab-custom-stories-toggle =
     .description = { -brand-product-name } ailesinin seçtiği harika içerikler
 newtab-custom-stories-personalized-toggle =
     .label = Haberler
+newtab-custom-stories-personalized-checkbox-label = Etkinliğinize göre kişiselleştirilmiş haberler
 newtab-custom-pocket-sponsored = Sponsorlu haberler
 newtab-custom-pocket-show-recent-saves = Son kaydedilenleri göster
 newtab-custom-recent-title = Son etkinlikler

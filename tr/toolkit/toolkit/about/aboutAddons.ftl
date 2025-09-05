@@ -564,6 +564,7 @@ permissions-data-addon-button = İzinler ve veriler
 mlmodel-extension-label = { $extensionName } uzantısı tarafından kullanılıyor
 addon-permissions-data-collection-heading = Veri toplama
 addon-permissions-data-collection-empty = Geliştirici, bu uzantının veri toplamaya gerek duymadığını söylüyor.
+addon-data-collection-provided = Bilgiler uzantı geliştiricisi tarafından sağlanır
 addon-data-collection-learnmore = Veri toplama hakkında daha fazla bilgi alın
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
