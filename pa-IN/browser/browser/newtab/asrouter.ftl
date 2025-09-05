@@ -369,3 +369,26 @@ windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } ਦਾ �
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } ਨੂੰ ਟੰਗੋ
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } ਕ੍ਰਿਪਟੋਮਾਈਨਰ, ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਟਰੈਕਰਾਂ ਅਤੇ ਫਿੰਗਰ-ਪਰਿੰਟਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ।
 windows-10-eos-sync-callout-privacy-screen-2-title = ਆਪਣੇ ਅਗਲੇ ਡਿਵਾਈਸ ਵਾਸਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ।
+windows-10-eos-sync-callout-privacy-info-button = ਵੇਖੋ ਕਿ ਕਿਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ
+windows-10-eos-callout-addons-title = ਐਡ-ਆਨ ਅਜ਼ਮਾਓ: ਸਰਲ ਅੱਪਗਰੇਡ, ਵੱਡੇ ਅਸਰ
+windows-10-eos-callout-addons-primary-button = ਸਾਡੇ ਵਲੋਂ ਚੁਣੇ
+windows-10-eos-sync-callout-addons-title = ਜਦੋਂ ਤੁਸੀਂ Windows 10 ਤੋਂ ਅੱਪਗਰੇਡ ਕਰੋ ਤਾਂ ਆਪਣੇ ਐਡ-ਆਨ ਨਾ ਗੁਆ ਦਿਓ।
+windows-10-eos-sync-callout-next-button = ਅੱਗੇ
+windows-10-eos-sync-callout-get-started-button = ਸ਼ੁਰੂ ਕਰੀਏ
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = ਵਰਟੀਕਲ ਟੈਬਾਂ ਅਤੇ ਟੈਬ ਗਰੁੱਪ ਇੱਥੇ ਹਨ!
+windows-10-eos-feature-toast-whats-new-button = ਵੇਖੋ ਕਿ ਨਵਾਂ ਕੀ ਹੈ
+windows-10-eos-feature-toast-dismiss-button = ਖਾਰਜ ਕਰੋ
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = ਹੋਰ ਜਾਣੋ
+etp-strict-exceptions-infobar-button = ਸੁਧਾਰ ਲਾਗੂ ਕਰੋ
+    .accesskey = A

@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਮੇਰਾ ਡਾਟਾ ਵੇਚਣ ਜਾਂ ਸਾਂਝਾ ਨਾ ਕਰਨ ਲਈ ਦੱਸੋ
     .accesskey = s
 non-technical-privacy-header = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ ਪਸੰਦਾਂ
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = ਬੰਦ ਕਰੋ
+do-not-track-removal2 =
+    .label = ਅਸੀਂ ਹੁਣ “ਟਰੈਕ ਨਾ ਕਰੋ” ਸਿਗਨਲ ਲਈ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹਾਂ
 
 ## Browser Restart Dialog
 
@@ -1268,6 +1272,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = ਹੋਰ ਜਾਣੋ
 content-blocking-etp-standard-tcp-title = ਕੁੱਲ ਕੂਕੀਜ਼ ਸੁਰੱਖਿਆ, ਸਾਡਾ ਸਭ ਤੋਂ ਮਜ਼ਬੂਤ ਪਰਦੇਦਾਰੀ ਫੀਚਰ, ਮੌਜੂਦ ਹੈ
 content-blocking-warning-title = ਧਿਆਨ ਰੱਖੋ!
 content-blocking-and-isolating-etp-warning-description-3 = ਇਸ ਸੈਟਿੰਗਾਂ ਨਾਲ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਸਮੱਗਰੀ ਨੂੰ ਸ਼ਾਇਦ ਠੀਕ ਤਰਾਂ ਨਾਲ ਦਿਖਾਉਣ ਜਾਂ ਕੰਮ ਨਾ ਕਰਨ। ਜੋ ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਡੀ ਸੰਰਚਨਾ ਰਾਹੀਂ ਪ੍ਰਭਾਵਿਤ ਹੋਣ ਉਹਨਾਂ ਲਈ ਅਸੀਂ ਛੋਟ ਦੇਣ ਦਾ ਪ੍ਰਬੰਧ ਕੀਤਾ ਹੈ। ਖ਼ਰਾਬ ਵੈੱਬਸਾਈਟਾਂ ਦੀ ਸੰਭਾਵਨਾਵਾਂ ਨੂੰ ਘਟਾਉਣ ਲਈ ਟਰੈਕਰ ਛੋਟਾਂ ਦਿਓ। ਜੇ ਕੋਈ ਸਾਈਟ ਖ਼ਰਾਬ ਜਾਪਦੀ ਹੈ ਤਾਂ ਤੁਸੀਂ ਉਸ ਸਾਈਟ ਤੋਂ ਸਾਰੀਆਂ ਸਮੱਗਰੀਆਂ ਲੋਡ ਕਰਨ ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਸਾਨੂੰ ਜਾਣਕਾਰੀ ਭੇਜ ਸਕਦੇ ਹੋ ਤਾਂ ਕਿ ਅਸੀਂ ਇਸ ਨੂੰ ਹਰ ਕਿਸੇ ਲਈ ਠੀਕ ਕਰ ਸਕੀਏ।
+content-blocking-warning-title-2 = ਸਖ਼ਤ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨਾਲ ਕੁਝ ਸਾਈਟਾਂ ਖ਼ਰਾਬ ਹੋ ਸਕਦੀਆਂ ਹਨ
 content-blocking-and-isolating-etp-warning-description-2 =
     ਇਸ ਸੈਟਿੰਗਾਂ ਨਾਲ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਸ਼ਾਇਦ ਠੀਕ ਤਰ੍ਹਾਂ ਸਮੱਗਰੀ ਨਾ ਦਿਖਾਉਣ ਜਾਂ ਕੰਮ ਨਾ ਕਰਨ।
     ਜੇ ਸਾਈਟ ਠੀਕ ਤਰ੍ਹਾਂ ਨਾਲ ਚੱਲੇ ਤਾਂ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਦੀ ਸਾਰੀ ਸਮੱਗਰੀ ਲੋਡ ਕਰਨ ਲਈ
@@ -1277,6 +1282,12 @@ content-blocking-baseline-exceptions =
     .label = ਵੈੱਬਸਾਈਟ ਨੂੰ ਵੱਡੇ ਪੱਧਰ ਉੱਤੇ ਗੜਬੜ ਹੋਣ ਤੋਂ ਬਚਣ ਲਈ { -brand-short-name } ਨੂੰ ਆਪਣੇ-ਆਪ ਚਾਹੀਦੇ ਅਪਵਾਦ ਲਾਗੂ ਕਰਨ ਵਾਸਤੇ ਮਨਜ਼ੂਰੀ ਦਿਓ।
 content-blocking-convenience-exceptions =
     .label = ਛੋਟੇ ਮਸਲਿਆਂ ਨੂੰ ਠੀਕ ਕਰਨ ਅਤੇ ਸਹੂਲਤ ਦੇਣ ਵਾਲੇ ਫ਼ੀਚਰਾਂ ਨੂੰ ਦੇਣ ਵਾਸਤੇ ਵੀ ਛੋਟਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਲਾਗੂ ਕਰੋ।
+content-blocking-baseline-label = ਵੱਡੇ ਸਾਈਟ ਮਸਲੇ ਠੀਕ ਕਰੋ (ਸਿਫ਼ਾਰਸ਼ੀ)
+content-blocking-convenience-label = ਛੋਟੇ ਸਾਈਟ ਮਸਲੇ ਠੀਕ ਕਰੋ
+content-blocking-exceptions-subheader = ਸਾਈਟ ਮਸਲੇ ਠੀਕ ਕਰੋ
+content-blocking-baseline-uncheck-warning-dialog-title = ਕੀ ਤੁਸੀਂ ਇਹ ਸੁਧਾਰਾਂ ਨੂੰ ਬੰਦ ਕਰਨੇ ਚਾਹੁੰਦੇ ਹੋ?
+content-blocking-baseline-uncheck-warning-dialog-ok-button = ਸੁਧਾਰਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = ਸੁਧਾਰਾਂ ਨੂੰ ਜਾਰੀ ਰੱਖੋ
 content-blocking-reload-description = ਇਹ ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।
 content-blocking-reload-tabs-button =
     .label = ਸਾਰੀਆਂ ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ
