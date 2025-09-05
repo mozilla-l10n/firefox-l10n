@@ -377,17 +377,16 @@ windows-10-eos-sync-callout-privacy-screen-1-subtitle = Le traciatores non pote 
 windows-10-eos-sync-callout-privacy-screen-2-title = Protege tu contrasignos e marcapaginas pro tu proxime apparato.
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Facer un copia de securitate de { -brand-shorter-name } permitte apportar facilemente tu datos e parametros de confidentialitate con te.
 windows-10-eos-sync-callout-privacy-info-button = Vide lo que es blocate
-windows-10-eos-callout-addons-title = Essaya le additivos: simple promotiones, grande impacto
-windows-10-eos-callout-addons-subtitle = Iste extensiones era seligite pro adjutar te star productive, protecte, e libere de distractiones.
-windows-10-eos-callout-addons-primary-button = Vide nostre electiones
-windows-10-eos-sync-callout-addons-title = Non perde tu additivos quando tu promover ab Windows 10.
-windows-10-eos-sync-callout-addons-subtitle = Synchronisa ora assi tu additivos de { -brand-product-name } sera sempre disponibile, mesmo post un cambiamento de apparato.
+windows-10-eos-callout-addons-title = Essaya le additivos: simple actualisationes, grande impactos
+windows-10-eos-callout-addons-subtitle = Iste extensiones ha essite seligite pro adjutar te a restar productive, protegite e libere de distractiones.
+windows-10-eos-callout-addons-primary-button = Vide nostre selection
+windows-10-eos-sync-callout-addons-title = Non perde tu additivos quando tu actualisa desde Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Synchronisa ora, a fin que tu additivos de { -brand-product-name } restara sempre disponibile, mesmo post un cambiamento de apparato.
 windows-10-eos-sync-callout-next-button = Sequente
 windows-10-eos-sync-callout-get-started-button = Comenciar
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
-windows-10-eos-feature-toast-title = Schedas e gruppos de schedas vertical es ci!
 # In English, "dropped" is a colloquial form for released.
 windows-10-eos-feature-toast-subtitle = Per petition popular, { -brand-product-name } justo publicava nove functiones pro mantener tu navigation simplificate e concentrate.
 windows-10-eos-feature-toast-whats-new-button = Vide le novas
