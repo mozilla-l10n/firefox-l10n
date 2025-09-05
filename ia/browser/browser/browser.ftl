@@ -809,7 +809,7 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsorisate
 ## Market refers to stocks, indexes, and funds.
 
 # This string is shown as title when Market suggestion are disabled.
-urlbar-result-market-opt-in-title = Obtene datos re le bursa de valores sur tu barra de recerca
+urlbar-result-market-opt-in-title = Obtene datos del mercato de valores directemente in tu barra de recerca
 # This string is shown as description when Market suggestion are disabled.
 urlbar-result-market-opt-in-description = Monstra le actualisationes re le bursa e altero ab nostre partner quando tu comparti le datos re le terminos de recerca con { -vendor-short-name }. <a data-l10n-name="learn-more-link">Pro saper plus</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
