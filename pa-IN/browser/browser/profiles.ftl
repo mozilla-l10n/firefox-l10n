@@ -95,6 +95,8 @@ profiles-light-theme = ਹਲਕਾ
 profiles-dark-theme = ਗੂੜ੍ਹਾ
 # The default system theme
 profiles-system-theme = ਸਿਸਟਮ
+profiles-system-theme-title =
+    .title = ਸਿਸਟਮ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = ਗੇਂਦੇ ਰੰਗਾ ਪੀਲਾ
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -109,6 +111,38 @@ profiles-ocean-theme-2 = ਸਮੁੰਦਰੀ ਨੀਲਾ
 profiles-terracotta-theme-2 = ਇੱਟ ਵਰਗਾ ਲਾਲ
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = ਕਾਈ ਵਾਲਾ ਹਰਾ
+profiles-gray-theme = ਸਲੇਟੀ
+profiles-gray-theme-title =
+    .title = ਸਲੇਟੀ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
+profiles-yellow-theme = ਪੀਲਾ
+profiles-yellow-theme-title =
+    .title = ਪੀਲੇ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
+profiles-orange-theme = ਸੰਤਰੀ
+profiles-orange-theme-title =
+    .title = ਸੰਤਰੀ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
+profiles-red-theme = ਲਾਲ
+profiles-red-theme-title =
+    .title = ਲਾਲ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
+profiles-pink-theme = ਗੁਲਾਬੀ
+profiles-pink-theme-title =
+    .title = ਗੁਲਾਬੀ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
+profiles-purple-theme = ਜਾਮਨੀ
+profiles-purple-theme-title =
+    .title = ਜਾਮਨੀ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
+profiles-violet-theme = ਵੈਂਗਣੀ
+profiles-violet-theme-title =
+    .title = ਵੈਂਗਣੀ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
+profiles-blue-theme = ਨੀਲਾ
+profiles-blue-theme-title =
+    .title = ਨੀਲੇ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
+profiles-green-theme = ਹਰਾ
+profiles-green-theme-title =
+    .title = ਹਰੇ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
+profiles-cyan-theme = ਸਿਯਾਨ
+profiles-cyan-theme-title =
+    .title = ਸਿਯਾਨ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
+profiles-custom-theme-title =
+    .title = ਪਸੰਦੀਦਾ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
 
 ## Alternative text for default profile icons
 
