@@ -320,6 +320,7 @@ fxa-menu-message-close-button =
     .aria-label = Закрыць
 fxa-menu-message-sign-up-button = Зарэгістравацца
 fxa-menu-message-sign-in-button = Увайсці
+fxa-menu-message-sync-button = Пачаць сінхранізацыю
 fxa-menu-message-sync-devices-primary-text = Сінхранізуйце ўсе вашы прылады
 fxa-menu-message-sync-devices-secondary-text = Імгненна атрымайце вашу інфармацыю (напр., закладкі і паролі) ўсюды, дзе вы карыстаецеся { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Сінхранізуйце ўсе вашы прылады
@@ -365,3 +366,19 @@ windows-10-eos-sync-toast-title = Абнаўляецеся да Windows 11? Не
 windows-10-eos-sync-toast-subtitle = Зрабіце рэзервовую копію сваіх дадзеных, каб { -brand-short-name } быў гатовы да выкарыстання ў любы час, як на гэтым, так і на наступным камп'ютары.
 windows-10-eos-sync-toast-primary-label = Пачаць
 windows-10-eos-sync-toast-secondary-label = Нагадаць пазней
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-primary-button = Рэзервовая копія { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Замацаваць { -brand-shorter-name }
+windows-10-eos-sync-callout-next-button = Далей
+windows-10-eos-sync-callout-get-started-button = Пачаць
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Даведацца больш

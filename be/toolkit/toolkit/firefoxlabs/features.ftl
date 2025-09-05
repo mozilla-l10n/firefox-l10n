@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Адлюстраванне вэб-старонкі
 experimental-features-group-customize-browsing =
     .label = Уладкуйце сваё агляданне
+experimental-features-group-productivity =
+    .label = Прадукцыйнасць
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Паролі на бакавой панэлі
@@ -56,3 +58,15 @@ experimental-features-fx-web-apps =
     .label = Дадайце сайты на панэль задач
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Адкрывайце сайты, якія часта наведваеце, як вэб-праграмы з панэлі задач. Знайдзіце значок «Дадаць картку на панэль задач» справа ад адраснага радка, каб адкрыць сайт у спрошчаным акне з усімі абаронамі { -brand-product-name }. <a data-l10n-name="connect">Падзяліцца водгукам</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Спісы ў { -firefox-home-brand-name }
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Таймер у { -firefox-home-brand-name }
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Спісы і таймер у { -firefox-home-brand-name }
