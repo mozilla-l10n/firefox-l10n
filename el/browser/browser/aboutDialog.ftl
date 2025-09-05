@@ -25,7 +25,7 @@ update-applying = Εφαρμογή ενημέρωσης…
 update-failed = Αποτυχία ενημέρωσης. <label data-l10n-name="failed-link">Λήψη της πιο πρόσφατης έκδοσης</label>
 update-failed-main = Αποτυχία ενημέρωσης. <a data-l10n-name="failed-link-main">Λήψη της πιο πρόσφατης έκδοσης</a>
 update-adminDisabled = Οι ενημερώσεις έχουν απενεργοποιηθεί από τον διαχειριστή του συστήματός σας
-update-policy-disabled = Οι ενημερώσεις έχουν απενεργοποιηθεί από τον οργανισμό σας.
+update-policy-disabled = Οι ενημερώσεις έχουν απενεργοποιηθεί από τον οργανισμό σας
 update-noUpdatesFound = Το { -brand-short-name } είναι ενημερωμένο
 aboutdialog-update-checking-failed = Ο έλεγχος για ενημερώσεις απέτυχε.
 update-otherInstanceHandlingUpdates = Το { -brand-short-name } ενημερώνεται από μια άλλη διεργασία
