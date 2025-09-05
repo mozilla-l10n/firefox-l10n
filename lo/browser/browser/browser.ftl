@@ -13,6 +13,9 @@ private-browsing-shortcut-text-2 = { -brand-shortcut-name } ການທ່ອ�
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = ການທ່ອງເວັບແບບສ່ວນຕົວ
 
 ##
 
@@ -660,6 +663,8 @@ urlbar-result-realtime-opt-in-dismiss-all =
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market =
     .label = ຢ່າສະແດງຄໍາແນະນໍາໃນຕະຫຼາດ
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = ຂອບໃຈສໍາລັບຄໍາຄິດເຫັນຂອງທ່ານ. ທ່ານຈະບໍ່ເຫັນຄຳແນະນຳການຕະຫຼາດອີກຕໍ່ໄປ.
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = ຂໍ​ຂອບ​ໃຈ​ສໍາ​ລັບ​ຄໍາ​ຄຶດ​ຄໍາ​ເຫັນ​ຂອງ​ທ່ານ​. ທ່ານຈະບໍ່ເຫັນຄຳແນະນຳເຫຼົ່ານີ້ອີກຕໍ່ໄປ.
@@ -1187,11 +1192,24 @@ trustpanel-header-enabled = { -brand-product-name } ແມ່ນເຝົ້າ�
 trustpanel-description-disabled = { -brand-product-name } ແມ່ນບໍ່ມີໜ້າທີ່. ພວກເຮົາແນະນຳໃຫ້ເປີດການປົກປ້ອງຄືນໃໝ່.
 trustpanel-clear-cookies-button = ລຶບລ້າງຄຸກກີ້ ແລະ ຂໍ້ມູນເວັບໄຊ
 trustpanel-privacy-link = ການຕັ້ງຄ່າຄວາມເປັນສ່ວນຕົວ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = ລຶບລ້າງຄຸກກີ້ ແລະ ຂໍ້ມູນເວັບໄຊສຳລັບ { $host }
 trustpanel-clear-cookies-subview-button-clear = ລົບລ້າງ
 trustpanel-clear-cookies-subview-button-cancel = ຍົກເລີກ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = ການປົກປ້ອງການເຊື່ອມຕໍ່ສໍາລັບ { $host }
+trustpanel-connection-secure = ທ່ານເຊື່ອມຕໍ່ຢ່າງປອດໄພກັບເວັບໄຊນີ້.
 trustpanel-connection-not-secure = ທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ຢ່າງປອດໄພກັບເວັບໄຊທ໌ນີ້.
 trustpanel-siteinformation-morelink = ຂໍ້ມູນເວັບໄຊເພີ່ມເຕີມ
 trustpanel-blocker-see-all = ເບິງທັງໝົດ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = ການຕິດຕາມການປົກປ້ອງສໍາລັບ { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1206,6 +1224,7 @@ trustpanel-list-label-social-tracking = { $count } ຕົວຕິດຕາມ�
 trustpanel-list-label-cryptominer = { $count } Cryptominers
 trustpanel-social-tracking-blocking-tab-header = { -brand-product-name } ບລັອກ { $count } ຕົວຕິດຕາມສື່ສັງຄົມ
 trustpanel-social-tracking-tab-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມຕິດຕາມທ່ານ:
+trustpanel-tracking-cookies-tab-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມຕິດຕາມທ່ານ:
 trustpanel-tracking-content-blocking-tab-header = { -brand-product-name } ບລັອກຕົວຕິດຕາມ { $count } ແລ້ວ
 trustpanel-tracking-content-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } trackers
 trustpanel-tracking-content-tab-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມຕິດຕາມທ່ານ:
