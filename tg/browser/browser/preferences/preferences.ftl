@@ -1280,10 +1280,14 @@ content-blocking-baseline-exceptions-2 =
     .label = Барои бор кардани сомонаҳо ва хусусиятҳо тавассути кушодани танҳо унсурҳои муҳимме, ки метавонанд васоити пайгириро дар бар гиранд, кумак мекунад. Мушкилиҳои асосиро фаро мегирад.
 content-blocking-convenience-exceptions =
     .label = Инчунин, истисноҳоеро ба таври худкор татбиқ кунед, ки танҳо барои ислоҳ кардани мушкилиҳои хурд ва дастрас кардани хусусиятҳои қулай заруранд.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Маводҳоро, ба монанди видеоҳо дар мақола ё қисмҳои шарҳ, тавассути кушодани унсурҳое, ки метавонанд васоити пайгириро дар бар гиранд, барқарор мекунад. Ин метавонад мушкилиҳои сомонаро кам кунад, аммо сатҳи муҳофизатро коҳиш медиҳад. Он бояд бо ислоҳи нуқсонҳои асосӣ истифода шавад.
 content-blocking-baseline-label = Ислоҳ кардани нуқсонҳои асосии сомона (тавсия дода мешавад)
 content-blocking-convenience-label = Ислоҳ кардани нуқсонҳои хурди сомона
 content-blocking-exceptions-subheader = Ислоҳ кардани нуқсонҳои сомона
 content-blocking-baseline-uncheck-warning-dialog-title = Шумо мутмаин ҳастед, ки мехоҳед ислоҳи нуқсонҳоро хомӯш кунед?
+content-blocking-baseline-uncheck-warning-dialog-body = Ин танзим барои ислоҳи мушкилиҳои асосии сомона кумак мекунад. Агар онро ғайрифаъол кунед, баъзе сомонаҳо метавонанд дуруст кор накунанд ва «{ -brand-short-name }» наметавонад дар ҳалли он мушкилиҳо ёрӣ расонад.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Хомӯш кардани ислоҳи нуқсонҳо
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Фаъол кардани ислоҳи нуқсонҳо
 content-blocking-reload-description = Барои татбиқ кардани ин тағйирот шумо бояд варақаҳои худро аз нав бор кунед.
