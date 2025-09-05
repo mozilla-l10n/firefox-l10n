@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
        *[other] { -brand-full-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
 
 ##
 
@@ -826,6 +829,49 @@ urlbar-result-dismissal-acknowledgment-market = ਤੁਹਾਡੇ ਸੁਝਾ�
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਤੁਸੀਂ ਹੁਣ ਇਹ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖੋਗੇ।
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $daysUntilStart } ਦਿਨ ਵਿੱਚ { $name }
+       *[other] { $daysUntilStart } ਦਿਨਾਂ ਵਿੱਚ { $name }
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $daysUntilStart } ਦਿਨ ਵਿੱਚ { $name } ਸ਼ੁਰੂ ਹੋਣਾ ਹੈ
+       *[other] { $daysUntilStart } ਦਿਨਾਂ ਵਿੱਚ { $name } ਸ਼ੁਰੂ ਹੋਣਾ ਹੈ
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $daysUntilEnd } ਦਿਨ ਵਿੱਚ { $name } ਖਤਮ ਹੋਣਾ ਹੈ
+       *[other] { $daysUntilEnd } ਦਿਨਾਂ ਵਿੱਚ { $name } ਖਤਮ ਹੋਣਾ ਹੈ
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · ਅੱਜ
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · ਅੱਜ ਖਤਮ ਹੋਣਾ ਹੈ
 
 ## Strings used for buttons in the urlbar
 

@@ -675,10 +675,10 @@ newtab-widget-timer-menu-learn-more = Pro saper plus
 newtab-widget-keep-scrolling = Rola pro vider plus
 newtab-widget-message-title = Remane concentrate con le listas e un temporisator integrate
 # to-dos stands for "things to do".
-newtab-widget-message-copy = Ab le rapide mementos al agendas quotidian, ab le sessiones de concentration al pausas de relaxamento: remane attente a activitate e juste tempore.
+newtab-widget-message-copy = De rememorationes a travalios, de concentration a relaxation – resta attente e a tempore.
 newtab-promo-card-title = Supporta { -brand-product-name }
 newtab-promo-card-body = Nostre patrocinatores supporta nostre mission pro construer un web melior
 newtab-promo-card-cta = Pro saper plus
 newtab-promo-card-dismiss-button =
-    .title = Ignorar
-    .aria-label = Ignorar
+    .title = Clauder
+    .aria-label = Clauder

@@ -125,6 +125,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = { -brand-short-name } ਵਿੱਚ AI ਚੈਟ-ਬੋਟ ਬਾਰੇ
 
+## Chatbot message
+
+genai-page-warning =
+    .message = ਸਫ਼ਾ ਲੋਡ ਹੋਣ ਲਈ ਲੰਮਾ ਸਮਾਂ ਲੱਗ ਰਿਹਾ ਹੈ, ਇਸਕਰਕੇ ਸਾਰ ਅਧੂਰਾ ਹੈ।
+
 ## Chatbot footer
 
 genai-page-button-summarize = ਸਫ਼ੇ ਦਾ ਸਾਰ
@@ -217,3 +222,33 @@ link-preview-reading-time =
         [one] { $range } ਮਿੰਟ ਪੜ੍ਹਨ ਸਮਾਂ
        *[other] { $range } ਮਿੰਟ ਪੜ੍ਹਨ ਸਮਾਂ
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = ਅਸੀਂ ਇਸ ਲਿੰਕ ਦੀ ਝਲਕ ਨਹੀਂ ਵੇਖ ਸਕਦੇ ਹਾਂ
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੋ
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = ਅਸੀਂ ਇਸ ਵੈੱਬ-ਸਫ਼ੇ ਲਈ ਮੁੱਖ ਨੁਕਤੇ ਤਿਆਰ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ।
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = ਕੁਝ ਗਲਤ ਹੋਇਆ।
+# Text for the retry link when generation fails
+link-preview-generation-retry = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = ਲਿੰਕ ਝਲਕ ਲਈ ਸੈਟਿੰਗਾਂ
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = AI ਨਾਲ ਹੋਰ ਵੇਖਣਾ ਹੈ?
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = ਨਵਾਂ: ਝਲਕ ਲਈ ਕਿਸੇ ਵੀ ਲਿੰਕ ਨੂੰ ਕਲਿੱਕ ਕਰਕੇ ਰੱਖੋ
+# Header for the key points section
+link-preview-key-points-header = ਮੁੱਖ ਬਿੰਦੂ
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = ਮੁੱਖ ਬਿੰਦੂ AI ਨਾਲ ਤਿਆਰ ਕੀਤੇ ਗਏ ਹਨ ਅਤੇ ਗਲਤੀਆਂ ਦੀ ਸੰਭਾਵਨਾ ਹੈ।
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = ਪਹਿਲਾਂ ਪੜਾਅ ਸੈਟਅੱਪ • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = ਤੁਸੀਂ ਮੁੱਖ ਬਿੰਦੂ ਅਗਲੀ ਵਾਰ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਵੇਖੋਗੇ।
+# Onboarding card See a preview button
+link-preview-onboarding-button = ਝਲਕ ਵੇਖੋ
+# Onboarding card Close button
+link-preview-onboarding-close = ਬੰਦ ਕਰੋ

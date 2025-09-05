@@ -315,6 +315,8 @@ fxa-menu-message-close-button =
     .title = ਬੰਦ ਕਰੋ
     .aria-label = ਬੰਦ ਕਰੋ
 fxa-menu-message-sign-up-button = ਸਾਈਨ ਅੱਪ ਕਰੋ
+fxa-menu-message-sign-in-button = ਸਾਈਨ ਇਨ
+fxa-menu-message-sync-button = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ
 fxa-menu-message-sync-devices-primary-text = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ
 fxa-menu-message-sync-devices-secondary-text = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਵਰਤਦੇ ਹੋ, ਉੱਥੇ — ਬੁੱਕਮਾਰਕਾਂ ਤੇ ਪਾਸਵਰਡਾਂ ਆਦਿ — ਵਰਗੀ ਆਪਣੀ ਜਾਣਕਾਰੀ ਫ਼ੌਰਨ ਲਵੋ।
 fxa-menu-message-sync-devices-collapsed-text = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ
@@ -360,3 +362,10 @@ windows-10-eos-sync-toast-title = Windows 11 ਲਈ ਅੱਪਗਰੇਡ ਕਰ
 windows-10-eos-sync-toast-subtitle = ਆਪਣੇ ਡਾਟਾ ਦੇ ਬੈਕਅੱਪ ਲੈ ਲਿਓ ਤਾਂ ਕਿ { -brand-short-name } ਕਿਸੇ ਵੀ ਵੇਲੇ ਤੁਹਾਡੇ ਇਸ ਕੰਪਿਊਟਰ ਅਤੇ ਨਵੇਂ ਉੱਤੇ ਬਦਲਣ ਲਈ ਤਿਆਰ ਹੋਵੇ।
 windows-10-eos-sync-toast-primary-label = ਸ਼ੁਰੂ ਕਰੀਏ
 windows-10-eos-sync-toast-secondary-label = ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਚੇਤੇ ਕਰਵਾਓ
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } ਦਾ ਬੈਕਅੱਪ ਲਵੋ
+windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } ਨੂੰ ਟੰਗੋ
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } ਕ੍ਰਿਪਟੋਮਾਈਨਰ, ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਟਰੈਕਰਾਂ ਅਤੇ ਫਿੰਗਰ-ਪਰਿੰਟਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ।
+windows-10-eos-sync-callout-privacy-screen-2-title = ਆਪਣੇ ਅਗਲੇ ਡਿਵਾਈਸ ਵਾਸਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ।
