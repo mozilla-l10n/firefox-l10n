@@ -93,6 +93,8 @@ profiles-light-theme = Ljóst
 profiles-dark-theme = Dökkt
 # The default system theme
 profiles-system-theme = Kerfi
+profiles-system-theme-title =
+    .title = Virkja kerfisþema
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Marigold gult
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -108,8 +110,14 @@ profiles-terracotta-theme-2 = Múrsteinsrautt
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mosagrænt
 profiles-gray-theme = Grátt
+profiles-gray-theme-title =
+    .title = Virkja grátt þema
 profiles-yellow-theme = Gult
+profiles-yellow-theme-title =
+    .title = Virkja gult þema
 profiles-orange-theme = Appelsínugult
+profiles-orange-theme-title =
+    .title = Virkja appelsínugult þema
 profiles-red-theme = Rautt
 profiles-pink-theme = Bleikt
 profiles-purple-theme = Purpurablátt
