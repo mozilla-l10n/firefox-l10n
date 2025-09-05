@@ -222,7 +222,13 @@ link-preview-reading-time =
         [few] { $range } хвіліны чытання
        *[many] { $range } хвілін чытання
     }
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Наведаць спасылку
 # Text for the retry link when generation fails
 link-preview-generation-retry = Паспрабаваць зноў
+# Header for the key points section
+link-preview-key-points-header = Ключавыя моманты
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Ключавыя моманты згенераваны штучным інтэлектам і могуць утрымліваць памылкі.
 # Onboarding card Close button
 link-preview-onboarding-close = Закрыць

@@ -382,3 +382,5 @@ windows-10-eos-sync-callout-get-started-button = Пачаць
 ## to fix common site breakage by unblocking essential elements.
 
 etp-strict-exceptions-infobar-learn-more = Даведацца больш
+etp-strict-exceptions-infobar-button = Ужыць выпраўленні
+    .accesskey = У
