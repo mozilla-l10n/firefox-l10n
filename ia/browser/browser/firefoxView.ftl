@@ -203,7 +203,7 @@ firefoxview-show-all-history = Monstrar tote le chronologia
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Retorna ubi tu era
-firefoxview-history-empty-description = Durante que tu naviga, le paginas que tu visita sera listate ci.
+firefoxview-history-empty-description = Quando tu naviga, le paginas que tu visita apparera hic.
 firefoxview-history-empty-description-two = Proteger tu confidentialitate es al corde de lo que nos face. Pro isto tu pote controlar le activitate que { -brand-short-name } rememora, in tu <a data-l10n-name="history-settings-url">parametros de chronologia</a>.
 
 ##

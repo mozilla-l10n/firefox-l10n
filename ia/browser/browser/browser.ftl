@@ -811,7 +811,7 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsorisate
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Obtene datos del mercato de valores directemente in tu barra de recerca
 # This string is shown as description when Market suggestion are disabled.
-urlbar-result-market-opt-in-description = Monstra le actualisationes re le bursa e altero ab nostre partner quando tu comparti le datos re le terminos de recerca con { -vendor-short-name }. <a data-l10n-name="learn-more-link">Pro saper plus</a>
+urlbar-result-market-opt-in-description = Monstra actualitates de mercato e plus ab nostre partners quando tu comparti le datos de tu consultas de recerca con { -vendor-short-name }. <a data-l10n-name="learn-more-link">Pro saper plus</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Monstrar suggestiones
 # This string is shown in split button to dismiss activation the Realtime suggestion.

@@ -225,33 +225,33 @@ link-preview-reading-time =
        *[other] Tempore de lectura { $range } minutas
     }
 # Error message displayed when a link preview cannot be generated
-link-preview-error-message = Impossibile visualisar le vista preliminar de iste ligamine.
+link-preview-error-message = Impossibile previsualisar iste ligamine
 # Text for the link to visit the original URL when in error state
-link-preview-visit-link = Visita le ligamine
+link-preview-visit-link = Visitar le ligamine
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Impossibile generar le punctos clave de iste pagina web.
 # Error message when something went wrong during key point generation
-link-preview-generation-error-unexpected = Alco errate eveniva.
+link-preview-generation-error-unexpected = Un problema ha occurrite.
 # Text for the retry link when generation fails
-link-preview-generation-retry = Retenta
+link-preview-generation-retry = Tentar de novo
 # Button that opens the Link Preview settings
 link-preview-settings-button =
-    .title = Parametros de vista preliminar del ligamine
+    .title = Parametros de previsualisation del ligamine
 link-preview-settings-enable =
-    .label = Activar vistas preliminar de ligamine
-    .description = Vider le titulo de pagina, description, e altero quando tu usa le via-breve o clicca dextre sur un ligamine.
+    .label = Activar previsualisationes de ligamines
+    .description = Vider le titulo, description e plus del pagina quando tu usa le accesso directe o clicca sur un ligamine con le button dextre.
 link-preview-settings-key-points =
     .label = Permitter a IA de leger le initio del pagina e generar punctos clave
 link-preview-settings-long-press =
-    .label = Via-breve: clicca e retene le ligamine pro 1 secunda (pulsata longe)
+    .label = Accesso directe: clicca e retene sur le ligamine durante 1 secunda (pression longe)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Vider plus con IA?
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = { -brand-short-name } usa IA pro leger le initio del pagina e generar alcun punctos clave. Pro dar major prioritate a tu confidentialitate, isto eveni sur tu apparato.
 # Onboarding card title for long press
-link-preview-onboarding-title-long-press = Nove: cliccar e retener qualcunque ligamine pro un vista preliminar
+link-preview-onboarding-title-long-press = Nove: clicca e retene sur qualcunque ligamine pro un previsualisation
 # Onboarding card description for long press
-link-preview-onboarding-description-long-press = Vider un breve description, tempore de lectura, e altero pro decider si le ligamine es digne de esser aperite. Alsi disponibile sur cliccar dextre.
+link-preview-onboarding-description-long-press = Vider un curte description, tempore de lectura, e plus pro decider si le ligamine es digne de esser aperite. Equalmente disponibile con un clic dextre.
 # Header for the key points section
 link-preview-key-points-header = Punctos clave
 # Disclaimer for AI-generated key points
@@ -262,6 +262,6 @@ link-preview-setup = Configuration initial • <strong>{ $progress }%</strong>
 # Message indicating faster performance after initial setup
 link-preview-setup-faster-next-time = Tu videra le punctos clave plus rapidemente le proxime vice.
 # Onboarding card See a preview button
-link-preview-onboarding-button = Vider vista preliminar
+link-preview-onboarding-button = Vider un previsualisation
 # Onboarding card Close button
 link-preview-onboarding-close = Clauder
