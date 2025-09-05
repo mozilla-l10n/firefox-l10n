@@ -367,8 +367,8 @@ windows-10-eos-sync-toast-secondary-label = Rememora me plus tarde
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
-windows-10-eos-challenger-callout-title = { -brand-product-name } non es pre-cargate como altere navigatores Big Tech. Isto es le puncto.
-windows-10-eos-challenger-sync-callout-subtitle = Quando tu preserva marcapaginas e contrasignos de tu { -brand-product-name }, il es plus facile apportar le navigator que tu seligeva a tu proxime apparato.
+windows-10-eos-challenger-callout-title = { -brand-product-name } non es pre-cargate como altere navigatores del gigantes technologic. Isto es le proposito.
+windows-10-eos-challenger-sync-callout-subtitle = Quando tu face un copia de securitate de tu marcapaginas e contrasignos de { -brand-product-name }, il es plus facile apportar le navigator de tu preferentia a tu proxime apparato.
 windows-10-eos-challenger-pin-callout-subtitle = Fixa { -brand-shorter-name } a tu barra del cargas assi que le navigator que tu seligeva sempre es illac quando illo te besonia.
 windows-10-eos-challenger-sync-primary-button = Preservar { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
