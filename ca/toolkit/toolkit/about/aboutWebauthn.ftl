@@ -5,3 +5,8 @@
 
 ### Localization for about:webauthn, a security token management page
 
+
+## Buttons
+
+about-webauthn-cancel-button = Cancel·la
+about-webauthn-send-pin-button = D’acord

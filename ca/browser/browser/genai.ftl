@@ -121,6 +121,13 @@ genai-onboarding-huggingchat-price-2 = Gratuït; cal un compte després d'un cer
 genai-onboarding-lechat-generate = Genera text i codi
 genai-onboarding-lechat-price = Gratuït; cal un compte
 
+## Model Optin Component
+
+genai-model-optin-optout =
+    .label = Cancel·la
+genai-model-optin-cancel =
+    .label = Cancel·la
+
 ## Link previews
 
 # Text for the link to visit the original URL when in error state

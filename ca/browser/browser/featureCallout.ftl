@@ -62,9 +62,14 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Gestiona els paràmetres
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Més opcions
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Afegeix a les adreces d’interès
+bookmarks-toolbar-callout-1-secondary-button-label = No, gràcies
 bookmarks-toolbar-callout-2a-primary-button-label = Entesos
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Amaga la barra d'eines

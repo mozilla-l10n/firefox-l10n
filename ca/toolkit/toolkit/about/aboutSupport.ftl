@@ -339,6 +339,10 @@ support-printing-clear-settings-button = Esborra la configuració d'impressió d
 support-printing-prefs-name = Nom
 support-printing-prefs-value = Valor
 
+## Remote Settings sections
+
+support-remote-settings-status-ok = D’acord
+
 ## Normandy sections
 
 support-remote-experiments-title = Experiments remots
