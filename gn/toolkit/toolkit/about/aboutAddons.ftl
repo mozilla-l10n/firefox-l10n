@@ -454,7 +454,10 @@ available-updates-heading = Ñembohekopyahu eiporukuaáva
 recent-updates-heading = Mohekopyahu ramoveguáva
 release-notes-loading = Henyhẽhína…
 release-notes-error = Rombyasy, hákatu oiko jejavy henyhẽnguévo jehaipy rehegua.
+addon-permissions-heading = Ñemoneĩ
 addon-permissions-empty2 = Ko moĩmbaha noikotevẽi ñemoneĩre.
+addon-permissions-required-label = Tekotevẽva:
+addon-permissions-optional-label = Poravokuaáva:
 addon-permissions-empty = Ko jepysokue noikotevẽi ñemoneĩ
 addon-permissions-required = Ñemoneĩ tekotevẽva tembiapoite ha’etévape g̃uarã:
 addon-permissions-optional = Ñemoneĩ potapýva tembiapoite jopoiguápe g̃uarã:
@@ -550,6 +553,8 @@ permissions-data-addon-button = Ñemoneĩ ha mba’ekuaarã
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Oiporúva pe jepysokue { $extensionName }
+addon-permissions-data-collection-heading = Mba’ekuaarã ñembyaty
+addon-permissions-data-collection-empty = Pe mboguatahára he’i ko jepysokue noikotevẽiha mba’ekuaarã ñembyaty.
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
