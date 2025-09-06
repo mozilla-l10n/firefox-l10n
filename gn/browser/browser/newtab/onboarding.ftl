@@ -453,6 +453,8 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Ejuhu nde atykuéra
 tab-groups-onboarding-saved-groups-title-3 = Embotývo tendayke aty, embojuruja jey poravoha Tysýi guive opaite tendayke ejapose vove.
 tab-groups-onboarding-saved-groups-title-2 = Emboty vove tendayke aty, embojurujakuaa jey ko’ápe ejapose vove.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Ejuhu nde atykuéra oñembotýva ehekávo ñeikundaha rupápe.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Embojuruja jey tendayke aty poravoha Tysýi opaite tendayképe ejapose vove.
 tab-groups-onboarding-session-restore-title = Embojuruja jey ne rendayke aty ápe ejapose vove.
 tab-groups-onboarding-dismiss = MONEĨ
 
