@@ -42,6 +42,8 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Fes una pregunta a { $provider }
+genai-menu-open-generic =
+    .label = Obre el bot de conversa d’IA
 genai-menu-remove-generic =
     .label = Elimina el bot de conversa d’IA
 # $provider (string) - name of the provider
@@ -80,6 +82,9 @@ genai-menu-choose-chatbot =
 genai-menu-ask-generic-2 =
     .label = Pregunta al bot de conversa d’IA
     .accesskey = P
+genai-menu-no-provider-2 =
+    .label = Pregunta a un bot de conversa d’IA
+    .accesskey = P
 
 ## Chatbot header
 
@@ -107,6 +112,7 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Feu resums, pluges d'idees i molt més mentre navegueu
+genai-onboarding-choose-header = Trieu el bot de conversa d’IA que voleu utilitzar a la barra lateral del { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Trieu el bot de conversa d'IA que voleu utilitzar a la barra lateral del { -brand-short-name }. Seleccioneu un bot de conversa per veure'n els detalls. Podeu canviar-los en qualsevol moment. <a data-l10n-name="learn-more">Més informació</a>
 genai-onboarding-primary = Continua
