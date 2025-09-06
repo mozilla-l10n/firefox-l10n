@@ -241,8 +241,15 @@ link-preview-settings-enable =
     .description = Eikutu ápe emboguejy hag̃ua kuatiarogue reratee, hape ha hetave eiporúvo jeike pya’eha térã eikutu akatúa gotyo juajuhápe.
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Ehechave IA ndive?
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Ipyahu: Eikutu ha ejopy are juajuha hecha ypy ojekuaa hag̃ua
 # Header for the key points section
 link-preview-key-points-header = Kyta ha’etéva
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Umi kyta jarýi omoheñóiva IA ha orekokuaáva jejavy.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Ñemboheko ñepyrgua • <strong>{ $progress } %</strong>
 # Onboarding card See a preview button
 link-preview-onboarding-button = Ehecha hechaha ypy
 # Onboarding card Close button
