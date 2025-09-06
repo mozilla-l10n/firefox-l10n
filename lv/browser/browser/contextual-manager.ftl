@@ -250,3 +250,46 @@ contextual-manager-check-icon-username =
     .alt = Nokopēts
 contextual-manager-check-icon-password =
     .alt = Nokopēts
+contextual-manager-alert-icon =
+    .alt = Brīdinājums
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Apmeklēt { $url }
+    .title = Apmeklēt { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Apmeklēt { $url } (brīdinājums)
+    .title = Apmeklēt { $url } (brīdinājums)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopēt lietotājvārdu { $username }
+    .title = Kopēt lietotājvārdu { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopēt lietotājvārdu { $username } (brīdinājums)
+    .title = Kopēt lietotājvārdu { $username } (brīdinājums)
+contextual-manager-password-login-line =
+    .aria-label = Kopēt paroli
+    .title = Kopēt paroli
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopēt paroli (brīdinājums)
+    .title = Kopēt paroli (brīdinājums)
+contextual-manager-edit-login-button = Rediģēt
+    .tooltiptext = Rediģēt paroli
+contextual-manager-view-alert-heading =
+    .heading = Skatīt brīdinājumu
+contextual-manager-view-alert-button =
+    .tooltiptext = Pārskatīt brīdinājumu
+contextual-manager-show-password-button =
+    .aria-label = Rādīt paroli
+    .title = Rādīt paroli
+contextual-manager-hide-password-button =
+    .aria-label = Slēpt paroli
+    .title = Slēpt paroli
