@@ -249,6 +249,10 @@ menu-profiles-manage-profiles =
     .label = Gestiona els perfils
 menu-profiles-new-profile =
     .label = Perfil nou
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (actual)
 
 ## Tools Menu
 
@@ -258,6 +262,9 @@ menu-tools =
 menu-tools-downloads =
     .label = Baixades
     .accesskey = d
+menu-tools-extensions-and-themes =
+    .label = Extensions i temes
+    .accesskey = E
 menu-tools-addons-and-themes =
     .label = Complements i temes
     .accesskey = C
