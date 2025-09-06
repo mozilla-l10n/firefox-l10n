@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Inportatu beste nabig
 contextual-manager-passwords-command-import = Inportatu fitxategitik…
 contextual-manager-passwords-command-export = Esportatu pasahitzak
 contextual-manager-passwords-command-remove-all = Ezabatu pasahitz guztiak
+contextual-manager-passwords-command-options = Aukerak
 contextual-manager-passwords-command-settings = Ezarpenak
 contextual-manager-passwords-command-help = Laguntza
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -61,9 +62,24 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Pasahitzak inportatuta
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Berriak: { $added }, Eguneratuak: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Berriak: { $added }, Eguneratuak: { $modified }, Bikoiztuak: { $no_change }, Erroreak: { $error }
+contextual-manager-passwords-import-detailed-report = Ikusi txosten xehatua
 contextual-manager-passwords-import-success-button = Eginda
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Ezin dira pasahitzak inportatu
+    .message = Ziurtatu zure fitxategiak zutabeak dituela webgune, erabiltzaile-izen eta pasahitzentzat.
 contextual-manager-passwords-import-error-button-try-again = Saiatu berriro
 contextual-manager-passwords-import-error-button-cancel = Utzi
+contextual-manager-passwords-import-learn-more = Pasahitzak inportatzeari buruzko argibide gehiago
 contextual-manager-passwords-export-success-heading =
     .heading = Pasahitzak esportatuta
 contextual-manager-passwords-export-success-button = Eginda
@@ -82,6 +98,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV dokumentua
        *[other] CSV fitxategia
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Kendu pasahitza?
+        [one] Kendu pasahitza?
+       *[other] Kendu { $total } pasahitz?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -109,11 +133,14 @@ contextual-manager-passwords-password-label = Pasahitza
 contextual-manager-passwords-radiogroup-label =
     .aria-label = Iragazi pasahitzak
 contextual-manager-passwords-add-password-success-button = Ikusi
+contextual-manager-passwords-password-already-exists-error-button = Joan pasahitzera
 contextual-manager-passwords-update-password-success-heading =
     .heading = Pasahitza gordeta
 contextual-manager-passwords-update-password-success-button = Eginda
 contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Erabiltzaile-izena gordeta
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Erabiltzaile-izena gehituta
 contextual-manager-passwords-update-username-success-heading =
     .heading = Erabiltzaile-izena gordeta
 contextual-manager-passwords-delete-password-success-button = Eginda
@@ -154,6 +181,8 @@ contextual-manager-passwords-title = Pasahitzak
 
 contextual-manager-passwords-create-label =
     .label = Gehitu pasahitza
+contextual-manager-passwords-update-label =
+    .label = Eguneratu pasahitza
 contextual-manager-passwords-edit-label =
     .label = Editatu pasahitza
 contextual-manager-passwords-remove-label =

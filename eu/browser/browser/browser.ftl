@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Nabigatze Pribatua
        *[other] { -brand-full-name } Nabigatze Pribatua
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Nabigatze pribatua
 
 ##
 
@@ -202,6 +205,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Erakutsi maiztasun txikiagoarekin
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Ez erakutsi eguraldi gomendiorik
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Ireki menua
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Eskerrik asko zure iritziagatik!
@@ -358,6 +364,7 @@ quickactions-downloads2 = Ikusi deskargak
 quickactions-cmd-downloads = deskargak
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kudeatu hedapenak
+quickactions-cmd-extensions2 = hedapenak, gehigarriak
 quickactions-cmd-extensions = hedapenak
 # Opens Firefox View
 quickactions-firefoxview = Ireki { -firefoxview-brand-name }
@@ -404,6 +411,10 @@ quickactions-cmd-settings2 = ezarpenak, hobespenak, aukerak, kudeatu
 quickactions-cmd-settings = ezarpenak, hobespenak, aukerak
 # Opens about:addons page in the themes section
 quickactions-themes = Kudeatu itxurak
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = itxurak, gehigarriak
 quickactions-cmd-themes = itxurak
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Eguneratu { -brand-short-name }
@@ -1318,3 +1329,19 @@ trustpanel-etp-toggle-off =
 trustpanel-etp-description-enabled = Zerbaitek apurtuta badirudi gune honetan, saiatu babesak desaktibatzen.
 trustpanel-connection-label-secure = Konexio segurua
 trustpanel-connection-label-insecure = Konexio ez-segurua
+trustpanel-clear-cookies-button = Garbitu cookieak eta guneetako datuak
+trustpanel-privacy-link = Pribatutasun-ezarpenak
+trustpanel-clear-cookies-subview-button-clear = Garbitu
+trustpanel-clear-cookies-subview-button-cancel = Utzi
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Konexioaren babesak { $host } ostalarirako
+trustpanel-connection-secure = Modu seguruan zaude konektatuta gune honetara.
+trustpanel-connection-not-secure = Ez zaude modu seguruan konektatuta gune honetara.
+trustpanel-siteinformation-morelink = Gunearen informazio gehiago
+trustpanel-blocker-see-all = Ikusi guztiak
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Jarraipenaren babesak { $host } ostalarirako

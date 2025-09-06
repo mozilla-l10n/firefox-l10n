@@ -460,7 +460,10 @@ available-updates-heading = Eguneraketa erabilgarriak
 recent-updates-heading = Azken eguneraketak
 release-notes-loading = Kargatzen…
 release-notes-error = Errorea gertatu da bertsio-oharrak kargatzean.
+addon-permissions-heading = Baimenak
 addon-permissions-empty2 = Hedapen honek ez du baimenik behar.
+addon-permissions-required-label = Beharrezkoa:
+addon-permissions-optional-label = Aukerakoa:
 addon-permissions-empty = Hedapen honek ez du baimenik behar
 addon-permissions-required = Oinarrizko funtzionaltasunerako beharrezko baimenak:
 addon-permissions-optional = Funtzionaltasun gehigarrirako aukerazko baimenak:
@@ -556,6 +559,10 @@ permissions-data-addon-button = Baimenak eta datuak
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = { $extensionName } hedapenak erabilia
+addon-permissions-data-collection-heading = Datu-bilketa
+addon-permissions-data-collection-empty = Garatzaileak dio hedapen honek ez duela daturik biltzen.
+addon-data-collection-provided = Hedapenaren garatzaileak hornitutako informazioa
+addon-data-collection-learnmore = Datu-bilketari buruzko argibide gehiago
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
