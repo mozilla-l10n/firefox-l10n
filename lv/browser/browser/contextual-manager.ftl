@@ -202,15 +202,51 @@ contextual-manager-passwords-remove-login-card-back-message = Atpakaļ
 contextual-manager-passwords-remove-login-card-remove-button = Noņemt
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Atcelt
+contextual-manager-passwords-alert-card =
+    .aria-label = Paroļu brīdinājumi
+contextual-manager-passwords-alert-back-button =
+    .label = Atpakaļ
+contextual-manager-passwords-alert-list =
+    .aria-label = Brīdinājumu saraksts
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Ieteicama paroles maiņa
+    .message = Ir ziņots, ka no šīs tīmekļvietnes ir nozagtas vai noplūdušas paroles. Jānomaina sava parole, lai aizsargātu savu kontu.
+contextual-manager-passwords-breached-origin-link-message = Kā { -brand-product-name } zina par datu pārkāpumiem?
+contextual-manager-passwords-change-password-button = Nomainīt paroli
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Ieteicama paroles nomaiņa
+    .message = Šo paroli ir viegli uzminēt. Tā ir jānomaina, lai aizsargātu savu kontu.
+contextual-manager-passwords-vulnerable-password-link-message = Kā { -brand-product-name } zina par vājām parolēm?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Pievienot lietotājvārdu
+    .message = Pievienot to, lai ātrāk pieteiktos.
+contextual-manager-passwords-add-username-button = Pievienot lietotājvārdu
+contextual-manager-passwords-title = Paroles
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Pievienot paroli
+contextual-manager-passwords-update-label =
+    .label = Atjaunināt paroli
+contextual-manager-passwords-edit-label =
+    .label = Rediģēt paroli
+contextual-manager-passwords-remove-label =
+    .title = Noņemt paroli
+contextual-manager-passwords-origin-tooltip = Jāievada tieši tā adrese, no kuras pieteiksies šajā vietnē.
+contextual-manager-passwords-username-tooltip = Ievadiet lietotājvārdu, e-pasta adresi vai konta numuru, ko izmantojat, lai pierakstītos.
+contextual-manager-passwords-password-tooltip-2 = Ievadiet paroli, lai pieteiktos šajā kontā.
+contextual-manager-passwords-password-tooltip = Ievadiet paroli, ko izmantojāt, lai pieteiktos šajā kontā.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Paroles
+contextual-manager-website-icon =
+    .alt = Tīmekļvietnes ikona
 contextual-manager-copy-icon =
     .alt = Kopēt
+contextual-manager-check-icon-username =
+    .alt = Nokopēts
+contextual-manager-check-icon-password =
+    .alt = Nokopēts
