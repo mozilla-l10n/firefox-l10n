@@ -83,9 +83,16 @@ contextual-manager-passwords-import-learn-more = Uzzināt par paroļu importēš
 contextual-manager-passwords-export-success-heading =
     .heading = Paroles ir eksportētas
 contextual-manager-passwords-export-success-button = Gatavs
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Eksportēt paroles datnē?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Pēc eksportēšanas iesakām to izdzēst, lai citi, kas varētu izmantot šo ierīci, nevarētu redzēt jūsu paroles.
 contextual-manager-export-passwords-dialog-confirm-button = Turpināt eksportēt
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eksportēt paroles no { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = paroles
 contextual-manager-passwords-export-file-picker-export-button = Eksportēt
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -93,6 +100,15 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CVS dokuments
        *[other] CSV datne
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Noņemt paroli?
+        [zero] Noņemt { $total } paroļu?
+        [one] Noņemt { $total } paroli?
+       *[other] Noņemt { $total } paroles?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
