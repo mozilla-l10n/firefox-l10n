@@ -317,6 +317,19 @@ newtab-custom-recent-subtitle = Жуырдағы сайттар мен құра�
 newtab-custom-weather-toggle =
     .label = Ауа райы
     .description = Бүгінге қысқа болжам
+newtab-custom-widget-weather-toggle =
+    .label = Ауа райы
+newtab-custom-widget-trending-search-toggle =
+    .label = Трендтік іздеулер
+newtab-custom-widget-lists-toggle =
+    .label = Тізімдер
+newtab-custom-widget-timer-toggle =
+    .label = Таймер
+newtab-custom-widget-section-title = Виджеттер
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Жабу
+    .aria-label = Мәзірді жабу
 newtab-custom-close-button = Жабу
 newtab-custom-settings = Көбірек баптауларды басқару
 
@@ -329,6 +342,7 @@ newtab-wallpaper-custom-color = Түсті таңдау
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Сурет файл өлшемі шегінен { $file_size } МБ асып кетті. Шағындау файлды жүктеп салып көріңіз.
+newtab-wallpaper-error-upload-file-type = Файлыңызды жүктеп жіберу мүмкін болмады. Сурет файлымен әрекетті қайталаңыз.
 newtab-wallpaper-error-file-type = Файлыңызды жүктеп жіберу мүмкін болмады. Басқа файл түрімен әрекетті қайталаңыз.
 newtab-wallpaper-light-red-panda = Қызыл панда
 newtab-wallpaper-light-mountain = Ақ тау
@@ -566,3 +580,20 @@ newtab-trending-searches-learn-more = Көбірек білу
 newtab-widget-lists-label-new =
     .label = Жаңа
 newtab-widget-task-list-menu-copy = Көшіріп алу
+newtab-widget-lists-menu-edit = Тізім атауын түзету
+newtab-widget-lists-input-menu-delete = Өшіру
+newtab-widget-lists-input-menu-edit = Түзету
+newtab-widget-lists-name-label-default =
+    .label = Тапсырмалар тізімі
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Тапсырмалар тізімі
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Жаңа тізім
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Таймер
+newtab-widget-timer-notification-focus = Фокустау уақыты аяқталды. Жақсы жұмыс. Үзіліс керек пе?
+newtab-widget-timer-notification-break = Сіздің үзілісіңіз аяқталды. Фокустауға дайынсыз ба?

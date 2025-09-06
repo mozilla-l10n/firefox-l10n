@@ -192,3 +192,16 @@ link-preview-reading-time =
         [one] оқу уақыты { $range } минут
        *[other] оқу уақыты { $range } минут
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Бұл сілтемені алдын ала қарай алмаймыз
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Сілтемеден өту
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Бірнәрсе қате кетті.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Қайтадан көру
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Сілтемені алдын ала қарау баптаулары
+# Onboarding card Close button
+link-preview-onboarding-close = Жабу

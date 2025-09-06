@@ -359,6 +359,11 @@ windows-10-eos-sync-toast-secondary-label = Кейінірек еске салу
 windows-10-eos-sync-callout-next-button = Келесі
 windows-10-eos-sync-callout-get-started-button = Бастау
 
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Жаңалықтарын білу
+windows-10-eos-feature-toast-dismiss-button = Елемеу
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when

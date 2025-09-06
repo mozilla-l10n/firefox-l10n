@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Жекелік шолу
        *[other] { -brand-full-name } Жекелік шолу
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Жекелік шолу
 
 ##
 
@@ -143,6 +146,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Хабарлама панелін ашу
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Орналасуды сұрау панелін ашу
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Осы сайт үшін жергілікті құрылғыға қол жеткізуді басқарыңыз
 urlbar-xr-notification-anchor =
     .tooltiptext = Виртуалды шынайылық рұқсаттар панелін ашу
 urlbar-storage-access-anchor =

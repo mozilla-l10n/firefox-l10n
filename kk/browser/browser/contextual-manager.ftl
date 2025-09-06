@@ -332,4 +332,6 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Иә, парольді өшіру
        *[other] Иә, парольдерді өшіру
     }
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Басты парольді енгізіңіз
 contextual-manager-primary-password-learn-more-link = Көбірек білу
