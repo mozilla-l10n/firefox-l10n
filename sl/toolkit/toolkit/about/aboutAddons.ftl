@@ -473,7 +473,10 @@ available-updates-heading = Razpoložljive posodobitve
 recent-updates-heading = Nedavne posodobitve
 release-notes-loading = Nalaganje …
 release-notes-error = Pri nalaganju opomb k izdaji je prišlo do napake.
+addon-permissions-heading = Dovoljenja
 addon-permissions-empty2 = Ta razširitev ne zahteva nobenih dovoljenj.
+addon-permissions-required-label = Zahtevana:
+addon-permissions-optional-label = Izbirna:
 addon-permissions-empty = Ta razširitev ne zahteva nobenih dovoljenj
 addon-permissions-required = Zahtevana dovoljenja za osnovno delovanje:
 addon-permissions-optional = Izbirna dovoljenja za dodatno delovanje:
@@ -569,6 +572,9 @@ permissions-data-addon-button = Dovoljenja in podatki
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Uporablja razširitev { $extensionName }
+addon-permissions-data-collection-heading = Zbiranje podatkov
+addon-permissions-data-collection-empty = Razvijalec pravi, da ta razširitev ne zahteva zbiranja podatkov.
+addon-data-collection-provided = Navedel razvijalec razširitve
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

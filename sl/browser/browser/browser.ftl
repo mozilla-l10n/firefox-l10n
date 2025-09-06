@@ -1520,8 +1520,50 @@ trustpanel-list-label-cryptominer =
         [few] { $count } kriptorudarji
        *[other] { $count } kriptorudarjev
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je zavrnil { $count } sledilca družbenega omrežja.
+        [two] { -brand-product-name } je zavrnil { $count } sledilca družbenih omrežij.
+        [few] { -brand-product-name } je zavrnil { $count } sledilce družbenih omrežij.
+       *[other] { -brand-product-name } je zavrnil { $count } sledilcev družbenih omrežij.
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dovolil { $count } sledilca družbenega omrežja.
+        [two] { -brand-product-name } je dovolil { $count } sledilca družbenih omrežij.
+        [few] { -brand-product-name } je dovolil { $count } sledilce družbenih omrežij.
+       *[other] { -brand-product-name } je dovolil { $count } sledilcev družbenih omrežij.
+    }
 trustpanel-social-tracking-tab-list-header = Ta spletna mesta vam poskušajo slediti:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je zavrnil { $count } piškotek za sledenje med spletnimi mesti
+        [two] { -brand-product-name } je zavrnil { $count } piškotka za sledenje med spletnimi mesti
+        [few] { -brand-product-name } je zavrnil { $count } piškotke za sledenje med spletnimi mesti
+       *[other] { -brand-product-name } je zavrnil { $count } piškotkov za sledenje med spletnimi mesti
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dovolil { $count } piškotek za sledenje med spletnimi mesti
+        [two] { -brand-product-name } je dovolil { $count } piškotka za sledenje med spletnimi mesti
+        [few] { -brand-product-name } je dovolil { $count } piškotke za sledenje med spletnimi mesti
+       *[other] { -brand-product-name } je dovolil { $count } piškotkov za sledenje med spletnimi mesti
+    }
 trustpanel-tracking-cookies-tab-list-header = Ta spletna mesta vam poskušajo slediti:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je zavrnil { $count } sledilca
+        [two] { -brand-product-name } je zavrnil { $count } sledilca
+        [few] { -brand-product-name } je zavrnil { $count } sledilce
+       *[other] { -brand-product-name } je zavrnil { $count } sledilcev
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dovolil { $count } sledilca
+        [two] { -brand-product-name } je dovolil { $count } sledilca
+        [few] { -brand-product-name } je dovolil { $count } sledilce
+       *[other] { -brand-product-name } je dovolil { $count } sledilcev
+    }
 trustpanel-tracking-content-tab-list-header = Ta spletna mesta vam poskušajo slediti:
 trustpanel-fingerprinter-blocking-tab-header =
     { $count ->
@@ -1530,5 +1572,26 @@ trustpanel-fingerprinter-blocking-tab-header =
         [few] { -brand-product-name } je zavrnil { $count } sledilce prstnih odtisov
        *[other] { -brand-product-name } je zavrnil { $count } sledilcev prstnih odtisov
     }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dovolil { $count } sledilca prstnih odtisov
+        [two] { -brand-product-name } je dovolil { $count } sledilca prstnih odtisov
+        [few] { -brand-product-name } je dovolil { $count } sledilce prstnih odtisov
+       *[other] { -brand-product-name } je dovolil { $count } sledilcev prstnih odtisov
+    }
 trustpanel-fingerprinter-list-header = Ta spletna mesta vam poskušajo vzeti prstni odtis:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je zavrnil { $count } kriptorudarja
+        [two] { -brand-product-name } je zavrnil { $count } kriptorudarja
+        [few] { -brand-product-name } je zavrnil { $count } kriptorudarje
+       *[other] { -brand-product-name } je zavrnil { $count } kriptorudarjev
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dovolil { $count } kriptorudarja
+        [two] { -brand-product-name } je dovolil { $count } kriptorudarja
+        [few] { -brand-product-name } je dovolil { $count } kriptorudarje
+       *[other] { -brand-product-name } je dovolil { $count } kriptorudarjev
+    }
 trustpanel-cryptominer-tab-list-header = Ta spletna mesta poskušajo rudariti kriptovalute:

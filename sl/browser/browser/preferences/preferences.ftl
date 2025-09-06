@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Spletnim mestom sporočaj, naj ne prodajajo ali delijo mojih podatkov
     .accesskey = n
 non-technical-privacy-header = Nastavitve zasebnosti spletnih mest
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Zapri
+do-not-track-removal2 =
+    .label = Signala "Brez sledenja" ne podpiramo več
 
 ## Browser Restart Dialog
 
@@ -1274,12 +1278,20 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Več o tem
 content-blocking-etp-standard-tcp-title = Vključuje popolno zaščito pred piškotki, našo najzmogljivejšo možnost zasebnosti doslej
 content-blocking-warning-title = Opozorilo!
 content-blocking-and-isolating-etp-warning-description-3 = Ta nastavitev lahko povzroči, da nekatere strani ne bodo prikazovale vsebine ali delovale pravilno. Za spletna mesta, za katera nam je znano, da jih vaša nastavitev lahko prizadene, ponujamo izbirne izjeme. Da zmanjšate možnosti kvarjenja spletnih strani, dovolite te izjeme sledilcev. Če se stran zdi pokvarjena, lahko zanjo izklopite zaščito pred sledenjem, naložite vso vsebino in nam prijavite težavo, da jo bomo lahko odpravili za vse uporabnike.
+content-blocking-warning-title-2 = Nekatere strani lahko s strogo zaščito pred sledenjem ne delujejo pravilno
 content-blocking-and-isolating-etp-warning-description-2 = Ta nastavitev lahko povzroči, da nekatera spletna mesta ne delujejo pravilno ali da se vsebina ne prikaže. Če se vam zdi spletno mesto pokvarjeno, lahko za nalaganje vse vsebine izklopite zaščito pred sledenjem.
 content-blocking-warning-learn-how = Naučite se, kako
 content-blocking-baseline-exceptions =
     .label = Dovoli { -brand-short-name(sklon: "dajalnik") } samodejno uveljavljanje izjem, potrebnih za izogibanje popolnemu nedelovanju spletnih strani.
 content-blocking-convenience-exceptions =
     .label = Samodejno uveljavljaj tudi izjeme, potrebne le za odpravljanje manjših težav in omogočanje praktičnih funkcij.
+content-blocking-baseline-label = Popravljaj večje težave s stranmi (priporočeno)
+content-blocking-convenience-label = Popravljaj manjše težave s stranmi
+content-blocking-exceptions-subheader = Popravljaj težave s stranmi
+content-blocking-baseline-uncheck-warning-dialog-title = Ali ste prepričani, da želite izklopiti popravke?
+content-blocking-baseline-uncheck-warning-dialog-body = Ta nastavitev pomaga odpraviti najpogostejše težave s stranmi. Če jo boste izklopili, nekatere strani morda ne bodo delovale, { -brand-short-name } pa pri odpravljanju teh težav ne bo mogel pomagati.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Izklopi popravke
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Ohrani popravke vklopljene
 content-blocking-reload-description = Za uveljavitev sprememb boste morali znova naložiti zavihke.
 content-blocking-reload-tabs-button =
     .label = Znova naloži vse zavihke

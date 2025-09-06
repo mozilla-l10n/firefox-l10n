@@ -326,6 +326,7 @@ fxa-menu-message-sign-in-button = Prijava
 fxa-menu-message-sync-button = Začni s sinhronizacijo
 fxa-menu-message-sync-devices-primary-text = Sinhronizirajte vse svoje naprave
 fxa-menu-message-sync-devices-secondary-text = Imejte svoje podatke – kot so zaznamki in gesla – pri roki, kjerkoli uporabljate { -brand-short-name(sklon: "tozilnik") }.
+fxa-menu-message-sync-devices-secondary-text2 = V trenutku prikličite svoje zaznamke, gesla, zgodovino in druge podatke – kjerkoli ste prijavljeni v { -brand-short-name(sklon: "tozilnik") }.
 fxa-menu-message-sync-devices-collapsed-text = Sinhronizirajte vse svoje naprave
 fxa-menu-message-backup-data-primary-text = Varnostno kopirajte podatke brskalnika
 fxa-menu-message-backup-data-secondary-text = Samodejno zavarujte zaznamke, gesla in druge podatke z vseh svojih naprav.
@@ -372,6 +373,7 @@ windows-10-eos-sync-toast-secondary-label = Opomni me pozneje
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-primary-button = Varnostno kopirajte { -brand-shorter-name(sklon: "tozilnik") }
 windows-10-eos-challenger-pin-primary-button = Pripni { -brand-shorter-name(sklon: "tozilnik") }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokira kriptorudarje, sledilce družbenih omrežij in sledilce prstnih odtisov.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sledilci ne morejo identificirati vaše naprave ali vam slediti po spletu – ker jim mi ne pustimo.
@@ -393,3 +395,15 @@ windows-10-eos-feature-toast-title = Navpični zavihki in skupine zavihkov so tu
 windows-10-eos-feature-toast-subtitle = Na priljubljeno zahtevo je { -brand-product-name } pravkar dodal nove funkcije, ki poskrbijo, da je vaše brskanje enostavnejše in osredotočeno.
 windows-10-eos-feature-toast-whats-new-button = Oglejte si, kaj je novega
 windows-10-eos-feature-toast-dismiss-button = Zapri
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>Stroga zaščita pred sledenjem lahko povzroči nedelovanje strani.</strong> Pogoste težave lahko odpravite tako, da odblokirate nujne elemente, četudi ti lahko vsebujejo sledilce.
+etp-strict-exceptions-infobar-learn-more = Več o tem
+etp-strict-exceptions-infobar-button = Uveljavi popravke
+    .accesskey = a

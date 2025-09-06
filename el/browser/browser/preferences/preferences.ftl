@@ -626,7 +626,7 @@ home-prefs-recommended-by-description-generic = Εξαιρετικό περιε�
 
 home-prefs-recommended-by-learn-more = Πώς λειτουργεί
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = Χορηγούμενες ιστορίες
+    .label = Χορηγούμενα άρθρα
 home-prefs-recommended-by-option-recent-saves =
     .label = Εμφάνιση πρόσφατων αποθηκεύσεων
 home-prefs-highlights-option-visited-pages =
