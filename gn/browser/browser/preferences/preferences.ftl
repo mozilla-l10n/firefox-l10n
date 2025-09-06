@@ -1279,6 +1279,7 @@ content-blocking-convenience-exceptions =
 content-blocking-baseline-label = Emyatyrõ apañuái tendagua (ñemoñe’ẽmbyre)
 content-blocking-convenience-label = Emyatyrõ apañuái tendagua
 content-blocking-exceptions-subheader = Emyatyrõ tenda apañuái
+content-blocking-baseline-uncheck-warning-dialog-title = ¿Ehejasépa añetehápe ko’ã ñemoĩporãha?
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Eipe’a myatyrõha
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Emyandy myatyrõha
 content-blocking-reload-description = Emonyhẽjeyva’erã umi tendayke oiko hag̃ua ko’ã moambuepyre.
