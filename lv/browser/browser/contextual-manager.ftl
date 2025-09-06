@@ -62,8 +62,26 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Paroles ir importētas
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Jaunas: { $added }, atjauninātas: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Jaunas: { $added }, atjauninātas: { $modified }, dublikāti: { $no_change }, kļūdas: { $error }
+contextual-manager-passwords-import-detailed-report = Apskatīt izvērstu pārskatu
 contextual-manager-passwords-import-success-button = Gatavs
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Nevarēja importēt paroles
+    .message = Jāpārliecinās, ka datnē ir kolonna tīmekļvietnēm, lietotājvārdiem un parolēm.
+contextual-manager-passwords-import-error-button-try-again = Mēģināt vēlreiz
 contextual-manager-passwords-import-error-button-cancel = Atcelt
+contextual-manager-passwords-import-learn-more = Uzzināt par paroļu importēšanu
+contextual-manager-passwords-export-success-heading =
+    .heading = Paroles ir eksportētas
 contextual-manager-passwords-export-success-button = Gatavs
 contextual-manager-export-passwords-dialog-confirm-button = Turpināt eksportēt
 # Title of the file picker dialog
