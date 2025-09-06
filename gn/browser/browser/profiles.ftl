@@ -95,6 +95,8 @@ profiles-light-theme = Tesakã
 profiles-dark-theme = Ypytũ
 # The default system theme
 profiles-system-theme = Apopyvusu
+profiles-system-theme-title =
+    .title = Emoĩ téma apopyvusugua
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Sa’yju narã overáva
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,11 +112,23 @@ profiles-terracotta-theme-2 = Pytã ladríllo
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Ehecha ygáu
 profiles-gray-theme = Hũngy
+profiles-gray-theme-title =
+    .title = Emoĩ téma hũngýva
 profiles-yellow-theme = Sa’yju
+profiles-yellow-theme-title =
+    .title = Emoĩ téma sa’yjúva
 profiles-orange-theme = Narãha
+profiles-orange-theme-title =
+    .title = Emoĩ téma narãva
 profiles-red-theme = Ñanduti
+profiles-red-theme-title =
+    .title = Emoĩ téma pytãva
 profiles-pink-theme = Pytãngy
+profiles-pink-theme-title =
+    .title = Emoĩ téma pytãngýva
 profiles-purple-theme = Pytãũ
+profiles-purple-theme-title =
+    .title = Emoĩ téma pytãũva
 profiles-violet-theme = Líla
 profiles-blue-theme = Hovy
 profiles-green-theme = Vérde
