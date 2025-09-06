@@ -95,6 +95,8 @@ profiles-light-theme = ნათელი
 profiles-dark-theme = მუქი
 # The default system theme
 profiles-system-theme = სისტემის
+profiles-system-theme-title =
+    .title = სისტემის იერსახის გამოყენება
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = ხავერდოვანი ყვითელი
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = აგურისფერი
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = ხავსისფერი
 profiles-gray-theme = რუხი
+profiles-gray-theme-title =
+    .title = რუხი გაფორმების გამოყენება
 profiles-yellow-theme = ყვითელი
+profiles-yellow-theme-title =
+    .title = ყვითელი გაფორმების გამოყენება
 profiles-orange-theme = ნარინჯისფერი
+profiles-orange-theme-title =
+    .title = ნარინჯისფერი გაფორმების გამოყენება
 profiles-red-theme = წითელი
+profiles-red-theme-title =
+    .title = წითელი გაფორმების გამოყენება
 profiles-pink-theme = ვარდისფერი
+profiles-pink-theme-title =
+    .title = ვარდისფერი გაფორმების გამოყენება
 profiles-purple-theme = მოიისფრო
+profiles-purple-theme-title =
+    .title = მოიისფრო გაფორმების გამოყენება
 profiles-violet-theme = იისფერი
+profiles-violet-theme-title =
+    .title = იისფერი გაფორმების გამოყენება
 profiles-blue-theme = ლურჯი
+profiles-blue-theme-title =
+    .title = ლურჯი გაფორმების გამოყენება
 profiles-green-theme = მწვანე
+profiles-green-theme-title =
+    .title = მწვანე გაფორმების გამოყენება
 profiles-cyan-theme = მოცისფრო
+profiles-cyan-theme-title =
+    .title = მოცისფრო გაფორმების გამოყენება
+profiles-custom-theme-title =
+    .title = მორგებული გაფორმების გამოყენება
 
 ## Alternative text for default profile icons
 

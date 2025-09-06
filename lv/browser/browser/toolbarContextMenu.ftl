@@ -31,6 +31,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Atkal atvērt aizvērtās cilnes
         }
     .accesskey = A
+toolbar-context-turn-on-vertical-tabs =
+    .label = Ieslēgt vertikālās cilnes
+toolbar-context-turn-off-vertical-tabs =
+    .label = Ieslēgt vertikālās cilnes
+toolbar-context-customize-sidebar =
+    .label = Pielāgot sānjoslu
 toolbar-context-menu-manage-extension =
     .label = Pārvaldīt paplašinājumu
     .accesskey = P
@@ -55,9 +61,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Rādīt paneli, kad sākas lejupielāde
     .accesskey = R
-toolbar-context-menu-remove-from-toolbar =
-    .label = Aizvākt no rīkjoslas
-    .accesskey = r
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Vienmēr rādīt rīkjoslā
+    .accesskey = V
 toolbar-context-menu-view-customize-toolbar =
     .label = Pielāgot…
     .accesskey = P

@@ -472,7 +472,10 @@ available-updates-heading = ხელმისწვდომი განახ
 recent-updates-heading = ბოლო განახლებები
 release-notes-loading = იტვირთება...
 release-notes-error = სამწუხაროდ, ვერსიის მონაცემების ჩვენებისას მოხდა შეცდომა.
+addon-permissions-heading = ნებართვები
 addon-permissions-empty2 = გაფართოება არ ითხოვს რამე ნებართვას.
+addon-permissions-required-label = აუცილებელი:
+addon-permissions-optional-label = არააუცილებელი:
 addon-permissions-empty = გაფართოება არ ითხოვს რამე ნებართვას
 addon-permissions-required = მოთხოვნილი ნებართვები ძირითადი შესაძლებლობებისთვის:
 addon-permissions-optional = მოთხოვნილი ნებართვები დამატებითი შესაძლებლობებისთვის:
@@ -568,6 +571,10 @@ permissions-data-addon-button = ნებართვები და მონ�
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = იყენებს გაფართოება { $extensionName }
+addon-permissions-data-collection-heading = მონაცემთა აღრიცხვა
+addon-permissions-data-collection-empty = შემქმნელის თქმით ეს გაფართოება არ საჭიროებს მონაცემთა აღრიცხვას.
+addon-data-collection-provided = ინფორმაცია გაფართოების შემმუშავებლისგანაა
+addon-data-collection-learnmore = ვრცლად მონაცემთა აღრიცხვის შესახებ
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
