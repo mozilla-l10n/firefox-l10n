@@ -32,10 +32,16 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Aizvērt cilnes pa kreisi
     .accesskey = k
+close-tabs-to-the-start-vertical =
+    .label = Aizvērt cilnes augšpusē
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Aizvērt visas cilnes pa labi
+    .accesskey = i
+close-tabs-to-the-end-vertical =
+    .label = Aizvērt cilnes apakšā
     .accesskey = i
 close-other-tabs =
     .label = Aizvērt citas cilnes
@@ -82,6 +88,16 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Dalīties
     .accesskey = D
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Jauna cilne pa labi
+    .accesskey = p
+tab-context-new-tab-open-vertical =
+    .label = Jauna cilne zemāk
+    .accesskey = n
+tab-context-new-group =
+    .label = Jauna grupa
+    .accesskey = g
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -121,3 +137,12 @@ tab-context-send-tabs-to-device =
            *[other] Sūtīt { $tabCount } cilnes uz ierīci
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Izlādēt cilni
+            [zero] Izlādēt { $tabCount } cilni
+            [one] Izlādēt { $tabCount } cilnes
+           *[other] Izlādēt { $tabCount } ciļņu
+        }
+    .accesskey = i

@@ -6,13 +6,22 @@ contextual-manager-filter-input =
     .placeholder = Meklēt paroles
     .key = F
     .aria-label = Meklēt paroles
+contextual-manager-menu-more-options-button =
+    .title = Vairāk iespēju
+contextual-manager-more-options-popup =
+    .aria-label = Vairāk iespēju
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Pievienot paroli
 contextual-manager-passwords-command-import-from-browser = Importēt datus no cita pārlūka…
 contextual-manager-passwords-command-import = Importēt no datnes…
+contextual-manager-passwords-command-export = Eksportēt paroles
+contextual-manager-passwords-command-remove-all = Noņemt visas paroles
+contextual-manager-passwords-command-options = Iespējas
+contextual-manager-passwords-command-settings = Iestatījumi
 contextual-manager-passwords-command-help = Palīdzība
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Lai eksportētu savas paroles, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +44,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Lai kop�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopēt saglabāto paroli
+contextual-manager-passwords-import-file-picker-title = Importēt paroles
 contextual-manager-passwords-import-file-picker-import-button = Importēt
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,6 +60,8 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV dokuments
        *[other] TSV datne
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Paroles ir importētas
 contextual-manager-passwords-import-success-button = Gatavs
 contextual-manager-passwords-import-error-button-cancel = Atcelt
 contextual-manager-passwords-export-success-button = Gatavs

@@ -160,6 +160,15 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Kopēt saiti
     .accesskey = s
+main-context-menu-preview-link =
+    .label = Priekšskatīt saiti
+    .accesskey = P
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = Kopēt tīru saiti
+    .accesskey = s
 
 ## Media (video/audio) controls
 ##
@@ -261,6 +270,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Skatīt aprakstu
     .accesskey = p
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Meklēt attēlu ar { $engine }
 main-context-menu-video-save-as =
     .label = Saglabāt video kā…
     .accesskey = g
@@ -310,6 +323,9 @@ main-context-menu-manage-passwords =
 main-context-menu-keyword =
     .label = Pievienot šim meklējumam atslēgvārdu…
     .accesskey = a
+main-context-menu-add-engine =
+    .label = Pievienot meklēšanas dzini
+    .accesskey = m
 main-context-menu-link-send-to-device =
     .label = Sūtīt saiti uz ierīci
     .accesskey = I
@@ -380,3 +396,5 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = Atklāt paroli
     .accesskey = A
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = Jaunums
