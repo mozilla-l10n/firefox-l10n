@@ -71,6 +71,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es fragmentiert ist, d.h. sein Inhalt ist über mehrere Spalten oder Seiten verteilt.
 inactive-css-no-width-height = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil seine Breite und Höhe nicht gesetzt werden kann.
+inactive-css-no-principal-box = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es keine Principal-Box erzeugt.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -110,6 +111,7 @@ inactive-css-resize-fix = Versuchen Sie, <strong>overflow</strong> auf einen and
 inactive-css-ruby-element-fix = Versuchen Sie, die <strong>font-size</strong> des Ruby-Textes zu ändern. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Versuchen Sie, die Anzahl der Zeilen zu reduzieren. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Vermeiden Sie ein Teilen des Inhalts des Elements z.B. indem Sie die Spalten entfernen oder <strong>page-break-inside:avoid</strong> verwenden. { learn-more }
+inactive-css-no-principal-box-fix = Versuchen Sie, einen <strong>display</strong>-Wert hinzuzufügen, der eine Principal-Box erstellt, wie <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> oder <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
