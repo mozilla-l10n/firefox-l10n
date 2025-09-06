@@ -436,7 +436,10 @@ available-updates-heading = Қолжетімді жаңартулар
 recent-updates-heading = Соңғы жаңартулар
 release-notes-loading = Жүктелуде…
 release-notes-error = Кешіріңіз, шығарылым ескертпесін жүктеп алу кезінде қате кетті.
+addon-permissions-heading = Рұқсаттар
 addon-permissions-empty2 = Бұл кеңейту ешқандай рұқсаттарды қажет етпейді.
+addon-permissions-required-label = Керек етілген:
+addon-permissions-optional-label = Қосымша:
 addon-permissions-empty = Бұл кеңейту ешқандай рұқсаттарды қажет етпейді
 addon-permissions-required = Негізгі мүмкіндіктері үшін керек рұқсаттар:
 addon-permissions-optional = Қосымша мүмкіндіктері үшін керек рұқсаттар:
@@ -525,6 +528,7 @@ plugins-widevine-description = Бұл плагин шифрленген меди
 ## feature is enabled.
 
 addon-permissions-required-data-collection = Міндетті деректерді жинау:
+addon-permissions-optional-data-collection = Қосымша деректер жинау:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Рұқсаттар мен деректер
 # This is a description for extension that use this AI model
