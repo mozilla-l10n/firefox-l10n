@@ -575,6 +575,7 @@ mlmodel-extension-label = Uporablja razširitev { $extensionName }
 addon-permissions-data-collection-heading = Zbiranje podatkov
 addon-permissions-data-collection-empty = Razvijalec pravi, da ta razširitev ne zahteva zbiranja podatkov.
 addon-data-collection-provided = Navedel razvijalec razširitve
+addon-data-collection-learnmore = Več o zbiranju podatkov
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

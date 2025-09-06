@@ -60,3 +60,6 @@ experimental-features-fx-web-apps =
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Seznami na { -firefox-home-brand-name(sklon: "mestnik") }
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Časovnik na { -firefox-home-brand-name(sklon: "mestnik") }
