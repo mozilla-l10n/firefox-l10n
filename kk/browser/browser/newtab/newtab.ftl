@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Бұл әрекетті болдырмау м
 
 newtab-topsite-sponsored = Демеуленген
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (бекітілген)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -574,15 +582,33 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for trending searches
 
+newtab-trending-searches-show-trending =
+    .title = Трендтік іздеулерді көрсету
+newtab-trending-searches-hide-trending =
+    .title = Трендтік іздеулерді жасыру
 newtab-trending-searches-learn-more = Көбірек білу
+newtab-trending-searches-dismiss = Трендтік іздеулерді жасыру
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Трендтік іздеулер
 
 ## Strings for task / to-do list productivity widget
 
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Мүмкіндіктер шексіз. Біреуін қосыңыз.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = Жаңа
+newtab-widget-lists-label-beta =
+    .label = Бета
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Аяқталған ({ $number })
 newtab-widget-task-list-menu-copy = Көшіріп алу
 newtab-widget-lists-menu-edit = Тізім атауын түзету
+newtab-widget-lists-menu-create = Жаңа тізімді жасау
+newtab-widget-lists-menu-delete = Бұл тізімді өшіру
+newtab-widget-lists-menu-copy = Тізімді алмасу буферіне көшіру
 newtab-widget-lists-menu-hide = Барлық тізімдерді жасыру
 newtab-widget-lists-menu-learn-more = Көбірек білу
 newtab-widget-lists-input-add-an-item =
@@ -610,6 +636,10 @@ newtab-widget-timer-notification-break = Сіздің үзілісіңіз ая�
 newtab-widget-timer-notification-warning = Хабарламалар сөндірулі
 newtab-widget-timer-mode-focus =
     .label = Фокустау
+newtab-widget-timer-mode-break =
+    .label = Үзіліс
+newtab-widget-timer-play =
+    .title = Ойнату
 newtab-widget-timer-pause =
     .title = Аялдату
 newtab-widget-timer-reset =

@@ -95,6 +95,8 @@ profiles-light-theme = Ашық түсті
 profiles-dark-theme = Күңгірт түсті
 # The default system theme
 profiles-system-theme = Жүйелік
+profiles-system-theme-title =
+    .title = Жүйелік теманы іске асыру
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Сары қырмызыгүл
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -109,6 +111,24 @@ profiles-ocean-theme-2 = Көгілдір мұхит
 profiles-terracotta-theme-2 = Қызыл кірпіш
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Жасыл мүк
+profiles-gray-theme = Сұр
+profiles-gray-theme-title =
+    .title = Сұр теманы іске асыру
+profiles-yellow-theme = Сары
+profiles-yellow-theme-title =
+    .title = Сары теманы іске асыру
+profiles-orange-theme = Қызғылт сары
+profiles-orange-theme-title =
+    .title = Қызғылт сары теманы іске асыру
+profiles-red-theme = Қызыл
+profiles-red-theme-title =
+    .title = Қызыл теманы іске асыру
+profiles-pink-theme = Қызғылт
+profiles-purple-theme = Қызыл көк
+profiles-violet-theme = Күлгін
+profiles-blue-theme = Көк
+profiles-green-theme = Жасыл
+profiles-cyan-theme = Көгілдір
 
 ## Alternative text for default profile icons
 
@@ -116,6 +136,12 @@ book-avatar-alt =
     .alt = Кітап
 briefcase-avatar-alt =
     .alt = Портфель
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Кенеп
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Қолөнер
 flower-avatar-alt =
     .alt = Гүл
 folder-avatar-alt =

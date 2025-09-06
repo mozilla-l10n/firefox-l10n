@@ -4,3 +4,14 @@
 
 unexpected-script-close-button =
     .aria-label = Жабу
+unexpected-script-load-message-button-allow =
+    .label = Рұқсат ету
+    .accesskey = а
+unexpected-script-load-message-button-block =
+    .label = Блоктау
+    .accesskey = Б
+unexpected-script-load-email-textbox =
+    .placeholder = Эл. пошта адресін осында енгізіңіз
+    .aria-label = Эл. пошта адресін осында енгізіңіз
+unexpected-script-load-more-info = Көбірек ақпарат
+unexpected-script-load-learn-more = Көбірек білу
