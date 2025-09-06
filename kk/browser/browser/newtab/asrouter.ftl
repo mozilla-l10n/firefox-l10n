@@ -356,6 +356,7 @@ windows-10-eos-sync-toast-secondary-label = Кейінірек еске салу
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-sync-callout-addons-title = Windows 10 жүйесінен жаңартылған кезде қосымшаларыңызды жоғалтпаңыз.
 windows-10-eos-sync-callout-next-button = Келесі
 windows-10-eos-sync-callout-get-started-button = Бастау
 

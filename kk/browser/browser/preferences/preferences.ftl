@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Веб-сайттарға менің деректерімді сатпауды немесе олармен бөліспеуді айту
     .accesskey = с
 non-technical-privacy-header = Веб-сайттың жекелік баптаулары
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Жабу
+do-not-track-removal2 =
+    .label = Біз енді «Мені бақыламау» сигналын қолдамаймыз
 
 ## Browser Restart Dialog
 
