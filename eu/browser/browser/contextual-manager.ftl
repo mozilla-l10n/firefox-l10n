@@ -271,4 +271,6 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Zure aldaketak ez dira gordeko.
 contextual-manager-passwords-discard-changes-close-button = Itxi
 contextual-manager-passwords-discard-changes-go-back-button = Joan atzera
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Idatzi pasahitz nagusia
 contextual-manager-primary-password-learn-more-link = Argibide gehiago

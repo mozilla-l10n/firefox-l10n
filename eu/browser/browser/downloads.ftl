@@ -185,6 +185,8 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Fitxategiak zure gailuan mantentzen dira
 downloads-private-browsing-accept-button =
     .label = Ulertuta
     .accesskey = U
