@@ -38,17 +38,48 @@ genai-prompt-prefix-selection = Estic a la pàgina «{ $tabTitle }» i he selecc
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Fes una pregunta al bot de conversa d'IA
+    .label = Pregunta al bot de conversa d’IA
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Fes una pregunta a { $provider }
+genai-menu-remove-generic =
+    .label = Elimina el bot de conversa d’IA
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Elimina { $provider }
+genai-menu-remove-sidebar =
+    .label = Elimina de la barra lateral
+genai-menu-new-badge = Nou
+genai-menu-summarize-page = Resumeix la pàgina
 genai-input-ask-generic =
-    .placeholder = Fes una pregunta al bot de conversa d'IA…
+    .placeholder = Pregunta al bot de conversa d’IA…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Fes una pregunta a { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = El bot de conversa d’IA no rebrà tota la vostra selecció
+    .message =
+        { $selectionLength ->
+           *[other] Heu seleccionat uns { $selectionLength } caràcters. Només es poden enviar uns { $maxLength } al bot de conversa d’IA.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } no rebrà la selecció completa
+    .message =
+        { $selectionLength ->
+           *[other] Heu seleccionat uns { $selectionLength } caràcters. Només es poden enviar uns { $maxLength } a { $provider }.
+        }
 genai-shortcuts-hide =
     .label = Amaga la drecera del bot de conversa
+genai-menu-choose-chatbot =
+    .label = Trieu un bot de conversa d’IA
+genai-menu-ask-generic-2 =
+    .label = Pregunta al bot de conversa d’IA
+    .accesskey = P
 
 ## Chatbot header
 
