@@ -128,10 +128,76 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Dzēst visu
        *[other] Dzēst visu
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Tas izņems paroli, kas saglabātas { -brand-short-name }, un visus brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+        [zero] Tas izņems paroles, kas saglabātas { -brand-short-name }, un visus brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+        [one] Tas izņems paroli, kas saglabātas { -brand-short-name }, un visus brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+       *[other] Tas izņems paroles, kas saglabātas { -brand-short-name }, un visus brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Tas noņems paroli, kas saglabāta pakalpojumā { -brand-short-name } visās jūsu sinhronizētajās ierīcēs, un noņems visus brīdinājumus par datu noplūdi. Šo darbību nevar atsaukt.
+        [zero] Tas noņems visas paroles, kas saglabātas pakalpojumā { -brand-short-name } visās jūsu sinhronizētajās ierīcēs, un noņems visus brīdinājumus par datu noplūdi. Šo darbību nevar atsaukt.
+        [one] Tas noņems paroli, kas saglabāta pakalpojumā { -brand-short-name } visās jūsu sinhronizētajās ierīcēs, un noņems visus brīdinājumus par datu noplūdi. Šo darbību nevar atsaukt.
+       *[other] Tas noņems visas paroles, kas saglabātas pakalpojumā { -brand-short-name } visās jūsu sinhronizētajās ierīcēs, un noņems visus brīdinājumus par datu noplūdi. Šo darbību nevar atsaukt.
+    }
+contextual-manager-passwords-origin-label = Tīmekļvietne
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Lietotājvārds
+    .data-after = Nokopēts
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Parole
+    .data-after = Nokopēta
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrēt paroles
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Pievienota parole { $url }
+contextual-manager-passwords-add-password-success-button = Apskatīt
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = { $url } jau pastāv parole un lietotājvārds
+contextual-manager-passwords-password-already-exists-error-button = Doties uz paroli
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Parole saglabāta
 contextual-manager-passwords-update-password-success-button = Gatavs
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Lietotājvārds saglabāts
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Pievienots lietotājvārds
+contextual-manager-passwords-update-username-success-heading =
+    .heading = Lietotājvārds saglabāts
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Parole noņemta
+            [zero] Paroles noņemtas
+            [one] Parole noņemta
+           *[other] Paroles noņemtas
+        }
 contextual-manager-passwords-delete-password-success-button = Gatavs
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Visas ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Brīdinājumi ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Izņemt paroli?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = To nevar atsaukt.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Atpakaļ
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Noņemt
 # This message gives the user the option to cancel their attempt to remove a login.
