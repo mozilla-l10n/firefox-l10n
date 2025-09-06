@@ -4,3 +4,11 @@
 
 unexpected-script-close-button =
     .aria-label = Закрыць
+unexpected-script-load-message-button-allow =
+    .label = Дазволіць
+    .accesskey = Д
+unexpected-script-load-message-button-block =
+    .label = Блакаваць
+    .accesskey = Б
+unexpected-script-load-more-info = Падрабязней
+unexpected-script-load-learn-more = Даведацца больш
