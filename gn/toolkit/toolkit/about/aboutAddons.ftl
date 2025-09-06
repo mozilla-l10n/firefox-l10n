@@ -555,6 +555,8 @@ permissions-data-addon-button = Ñemoneĩ ha mba’ekuaarã
 mlmodel-extension-label = Oiporúva pe jepysokue { $extensionName }
 addon-permissions-data-collection-heading = Mba’ekuaarã ñembyaty
 addon-permissions-data-collection-empty = Pe mboguatahára he’i ko jepysokue noikotevẽiha mba’ekuaarã ñembyaty.
+addon-data-collection-provided = Marandu ome’ẽva jepysokue mboguatahára
+addon-data-collection-learnmore = Eikuaave mba’ekuaarã ñembyaty rehegua
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
