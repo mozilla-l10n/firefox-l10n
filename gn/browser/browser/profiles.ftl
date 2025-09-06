@@ -130,9 +130,19 @@ profiles-purple-theme = Pytãũ
 profiles-purple-theme-title =
     .title = Emoĩ téma pytãũva
 profiles-violet-theme = Líla
+profiles-violet-theme-title =
+    .title = Emoĩ téma lilaũva
 profiles-blue-theme = Hovy
+profiles-blue-theme-title =
+    .title = Emoĩ téma hovýva
 profiles-green-theme = Vérde
+profiles-green-theme-title =
+    .title = Emoĩ téma hovýũva
 profiles-cyan-theme = Hovyũ
+profiles-cyan-theme-title =
+    .title = Emoĩ téma siánva
+profiles-custom-theme-title =
+    .title = Emoĩ téma nemba’etéva
 
 ## Alternative text for default profile icons
 
