@@ -71,6 +71,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 fxa-adoption-addresses-backup-title = Ñañongatu jo’a ko’ã kundaharape ñongatupyre
 fxa-adoption-addresses-backup-subtitle = Emo’ã umi kundaharape ñongatupyre embojuehévo umi mba’e’oka ipapapýva ndive.
 fxa-adoption-credit-cards-backup-title = Ñañongatu jo’a jehepyme’ẽrã rehegua
+fxa-adoption-credit-cards-backup-subtitle = Emo’ã nde jehepyme’ẽrã rape embojuehévo ne mba’e’okakuérape ipapapýva reheve.
 fxa-adoption-primary-button-label = Eñemboheraguapy
 
 ## Protections panel
@@ -318,6 +319,7 @@ fxa-menu-message-sign-in-button = Eñemboheraguapy
 fxa-menu-message-sync-button = Embojuehe ñepyrũ
 fxa-menu-message-sync-devices-primary-text = Embojuehe opavave mba’e’oka
 fxa-menu-message-sync-devices-secondary-text = Eñemomarandu pya’e — ikatúva techaukaha ha ñe’ẽñemi — tenda eiporuhápe { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Eraha nde rechaukaha, ñe’ẽñemi, tembiasakue ha hetave opaite hendápe eñepyrũ haguépe tembiapo { -brand-short-name }-pe.
 fxa-menu-message-sync-devices-collapsed-text = Embojuehe opavave mba’e’oka
 fxa-menu-message-backup-data-primary-text = Eykeko kundahára mba’ekuaarã
 fxa-menu-message-backup-data-secondary-text = Ñemo’ã ijeheguíva techaukaha, ñe’ẽñemi ha ambue marandu opaite ne mba’e’okápe.

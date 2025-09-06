@@ -250,6 +250,8 @@ link-preview-key-points-disclaimer = Umi kyta jarýi omoheñóiva IA ha orekokua
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Ñemboheko ñepyrgua • <strong>{ $progress } %</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Ehecháta pyaʼeve umi kyta jarýi ambue oútavape.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Ehecha hechaha ypy
 # Onboarding card Close button
