@@ -373,6 +373,7 @@ windows-10-eos-sync-toast-secondary-label = Opomni me pozneje
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } ni prednameščen kot drugi brskalniki tehnoloških velikanov. To je bistvo.
 windows-10-eos-challenger-sync-primary-button = Varnostno kopirajte { -brand-shorter-name(sklon: "tozilnik") }
 windows-10-eos-challenger-pin-primary-button = Pripni { -brand-shorter-name(sklon: "tozilnik") }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokira kriptorudarje, sledilce družbenih omrežij in sledilce prstnih odtisov.
