@@ -569,7 +569,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novas janelas e abas
-home-new-windows-tabs-description2 = Escolha o que aparece quando você abre sua página inicial, novas janelas e novas abas.
+home-new-windows-tabs-description2 = Escolha o que aparece ao abrir a página inicial, novas janelas e novas abas.
 
 ## Home Section - Home Page Customization
 
@@ -583,7 +583,7 @@ home-mode-choice-default-fx =
 home-mode-choice-custom =
     .label = Endereço personalizado…
 home-mode-choice-blank =
-    .label = Página em branco
+    .label = Página vazia
 home-homepage-custom-url =
     .placeholder = Cole uma URL...
 # This string has a special case for '1' and [other] (default). If necessary for

@@ -95,6 +95,8 @@ profiles-light-theme = Sáng
 profiles-dark-theme = Tối
 # The default system theme
 profiles-system-theme = Hệ thống
+profiles-system-theme-title =
+    .title = Áp dụng chủ đề hệ thống
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Vàng cúc vạn thọ
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Đỏ gạch
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Xanh rêu
 profiles-gray-theme = Xám
+profiles-gray-theme-title =
+    .title = Áp dụng chủ đề màu xám
 profiles-yellow-theme = Vàng
+profiles-yellow-theme-title =
+    .title = Áp dụng chủ đề màu vàng
 profiles-orange-theme = Da cam
+profiles-orange-theme-title =
+    .title = Áp dụng chủ đề màu cam
 profiles-red-theme = Đỏ
+profiles-red-theme-title =
+    .title = Áp dụng chủ đề màu đỏ
 profiles-pink-theme = Hồng
+profiles-pink-theme-title =
+    .title = Áp dụng chủ đề màu hồng
 profiles-purple-theme = Tía
+profiles-purple-theme-title =
+    .title = Áp dụng chủ đề màu tía
 profiles-violet-theme = Tím
+profiles-violet-theme-title =
+    .title = Áp dụng chủ đề màu tím
 profiles-blue-theme = Xanh dương
+profiles-blue-theme-title =
+    .title = Áp dụng chủ đề màu xanh lục
 profiles-green-theme = Xanh lục
+profiles-green-theme-title =
+    .title = Áp dụng chủ đề màu xanh lục
 profiles-cyan-theme = Xanh lơ
+profiles-cyan-theme-title =
+    .title = Áp dụng chủ đề màu xanh lơ
+profiles-custom-theme-title =
+    .title = Áp dụng chủ đề màu tuỳ chỉnh
 
 ## Alternative text for default profile icons
 
