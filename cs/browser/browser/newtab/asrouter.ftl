@@ -543,17 +543,35 @@ windows-10-eos-challenger-pin-callout-subtitle = Připněte si { -brand-shorter-
 windows-10-eos-challenger-sync-primary-button = Zálohovat { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Připnout { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokuje kryptoměny, sledovací prvky sociálních sítí a otisky prohlížeče.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sledovací prvky nemohou identifikovat vaše zařízení ani vás sledovat na webu — protože jim to neumožňujeme.
+windows-10-eos-sync-callout-privacy-screen-2-title = Zabezpečte svá hesla a záložky pro další zařízení.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle =
+    { -brand-shorter-name.case-status ->
+        [with-cases] Zálohování { -brand-shorter-name(case: "gen") } usnadňuje přenášení dat a nastavení soukromí s sebou.
+       *[no-cases] Zálohování { -brand-shorter-name } usnadňuje přenášení dat a nastavení soukromí s sebou.
+    }
 windows-10-eos-sync-callout-privacy-info-button = Podívejte se, co je blokováno
 windows-10-eos-callout-addons-title = Vyzkoušejte doplňky: jednoduché aktualizace, velké dopady
 windows-10-eos-callout-addons-subtitle = Tato rozšíření byla vybrána, aby vám pomohla zůstat produktivní, chránění a bez rozptylování.
 windows-10-eos-callout-addons-primary-button = Podívejte se na náš výběr
 windows-10-eos-sync-callout-addons-title = Při aktualizaci z Windows 10 nepřijdete o své doplňky.
+windows-10-eos-sync-callout-addons-subtitle =
+    { -brand-product-name.case-status ->
+        [with-cases] Synchronizujte nyní, aby vaše doplňky { -brand-product-name(case: "gen") } byly vždy k dispozici, a to i po změně zařízení.
+       *[no-cases] Synchronizujte nyní, aby vaše doplňky aplikace { -brand-product-name } byly vždy k dispozici, a to i po změně zařízení.
+    }
 windows-10-eos-sync-callout-next-button = Další
 windows-10-eos-sync-callout-get-started-button = Začít
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Svislé panely a skupiny panelů jsou tady!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle =
+    { -brand-product-name.case-status ->
+        [with-cases] Na základě mnohých požadavků prohlížeč { -brand-product-name } právě přidal nové funkce, aby bylo prohlížení efektivnější a cílené.
+       *[no-cases] Na základě mnohých požadavků prohlížeč { -brand-product-name } právě přidal nové funkce, aby bylo prohlížení efektivnější a cílené.
+    }
 windows-10-eos-feature-toast-whats-new-button = Co je nového
 windows-10-eos-feature-toast-dismiss-button = Zavřít
 
@@ -564,4 +582,7 @@ windows-10-eos-feature-toast-dismiss-button = Zavřít
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Přísná ochrana proti sledování může způsobit chyby stránek.</strong> Běžné problémy odstraníte odblokováním základních prvků, které by mohly obsahovat sledovací prvky.
 etp-strict-exceptions-infobar-learn-more = Zjistit více
+etp-strict-exceptions-infobar-button = Použít opravy
+    .accesskey = P

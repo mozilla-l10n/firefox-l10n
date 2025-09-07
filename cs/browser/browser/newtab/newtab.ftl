@@ -328,6 +328,7 @@ newtab-custom-stories-toggle =
     .description = Výjimečný obsah spravovaný rodinou { -brand-product-name(case: "gen") }
 newtab-custom-stories-personalized-toggle =
     .label = Články
+newtab-custom-stories-personalized-checkbox-label = Personalizované příběhy na základě vaší aktivity
 newtab-custom-pocket-sponsored = Sponzorované články
 newtab-custom-pocket-show-recent-saves = Zobrazit nedávno uložené
 newtab-custom-recent-title = Nedávná aktivita
@@ -363,6 +364,7 @@ newtab-wallpaper-custom-color = Vybrat barvu
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Obrázek překročil limit velikosti souboru { $file_size } MB. Zkuste nahrát menší soubor.
+newtab-wallpaper-error-upload-file-type = Váš soubor se nám nepodařilo nahrát. Zkuste to prosím znovu se souborem obrázku.
 newtab-wallpaper-error-file-type = Váš soubor se nám nepodařilo nahrát. Zkuste to prosím znovu s jiným typem souboru.
 newtab-wallpaper-light-red-panda = Panda červená
 newtab-wallpaper-light-mountain = Bílá hora
