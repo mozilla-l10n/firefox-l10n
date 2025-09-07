@@ -25,3 +25,8 @@ taskbar-tab-shortcut-description = { $name } Teksaĵa programo
 # use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
 # should be fine.)
 taskbar-tab-shortcut-folder = Teksaĵaj programoj de { -brand-short-name }
+
+## These strings are used as the tooltip for the mute/unmute button.
+
+taskbar-tab-audio-mute =
+    .tooltiptext = Silentigi langeton
