@@ -82,7 +82,7 @@ about-glean-label-for-controls-submit =
     (Wszystkie pingi wysłane od tej chwili do ponownego uruchomienia aplikacji będą oznaczone jako
     <code>{ $debug-tag }</code>.)
 about-glean-li-for-visit-gdpv =
-    <a data-l10n-name="gdpv-tagged-pings-link">Otwórz stronę programu { glean-debug-ping-viewer-brand-name }, aby zobaczyć pingi z wybranym znacznikiem</a>.
+    <a data-l10n-name="gdpv-tagged-pings-link">Otwórz stronę { glean-debug-ping-viewer-brand-name }, aby zobaczyć pingi z wybranym znacznikiem</a>.
     Od naciśnięcia przycisku do pojawienia się pingu nie powinno upłynąć więcej niż kilka sekund.
     Czasami może to zająć kilka minut.
 # Do not translate strings between <code> </code> tags.
