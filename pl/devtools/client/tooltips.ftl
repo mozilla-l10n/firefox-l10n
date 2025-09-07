@@ -34,6 +34,7 @@ inactive-css-not-display-block-on-floated = Wartość <strong>display</strong> z
 inactive-css-not-display-block-on-floated-2 = Wartość <strong>display</strong> została zmieniona przez silnik na <strong>{ $display }</strong>, ponieważ element to <strong>floated</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> nie ma na nic wpływu, ponieważ nie może być używane na elementach Grid lub Flex.
 inactive-css-not-block = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ ma zastosowanie tylko na elementach na poziomie bloku.
+inactive-css-not-block-container = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ ma zastosowanie tylko na elementach kontenera bloku.
 inactive-css-not-floated = <strong>{ $property }</strong> nie ma na nic wpływu, ponieważ ma zastosowanie tylko na elementach pływających.
 inactive-css-property-is-impossible-to-override-in-visited = Zastąpienie <strong>{ $property }</strong> jest niemożliwe z powodu ograniczenia <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie jest on elementem pozycjonowanym.
@@ -71,6 +72,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ jest on sfragmentaryzowany, tj. jego zawartość jest podzielona na wiele kolumn lub stron.
 inactive-css-no-width-height = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie można ustawić jego szerokości i wysokości.
+inactive-css-no-principal-box = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ nie tworzy on naczelnego pudełka.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -93,6 +95,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Spróbuj 
 inactive-css-not-display-block-on-floated-fix = Spróbuj usunąć <strong>float</strong> lub dodać <strong>display:block</strong>. { learn-more }
 inactive-css-only-non-grid-or-flex-item-fix = Spróbuj zmienić wartość <strong>display</strong> kontenera elementu na coś innego niż <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> lub <strong>inline-grid</strong>, albo usunąć <strong>float</strong>. { learn-more }
 inactive-css-not-block-fix = Spróbuj dodać własności takie jak <strong>display:block</strong> lub <strong>float:left</strong>. { learn-more }
+inactive-css-not-block-container-fix = Spróbuj dodać <strong>display:block</strong>, <strong>display:inline-block</strong> lub <strong>display:flow-root</strong>. { learn-more }
 inactive-css-not-floated-fix = Spróbuj dodać własność <strong>float</strong> o wartości innej niż <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Spróbuj ustawić jego własność <strong>position</strong> na coś innego niż <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Upewnij się, że dodajesz własność do zastąpionego elementu. { learn-more }
@@ -109,6 +112,7 @@ inactive-css-resize-fix = Spróbuj ustawić <strong>overflow</strong> na wartoś
 inactive-css-ruby-element-fix = Spróbuj zmienić <strong>font-size</strong> tekstu rubi. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Spróbuj zmniejszyć liczbę wierszy. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Unikaj dzielenia zawartości elementu, np. usuwając kolumny lub używając <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Spróbuj dodać wartość <strong>display</strong> tworzącą naczelne pudełko, taką jak <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> lub <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
