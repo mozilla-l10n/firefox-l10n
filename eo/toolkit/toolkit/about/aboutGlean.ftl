@@ -124,4 +124,7 @@ about-glean-button-dictionary-link = Dokumentaro
 about-glean-button-watch = Observi
 # Meaning "to stop watching"
 about-glean-button-unwatch = Ne plu observi
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Etikeditaj statistikoj ne estas ankoraŭ subtenataj en la vido de <code>about:glean</code>.
+about-glean-unknown-metric-type-warning = Nekonata tipo de statistiko.
 about-glean-about-data-explanation = Por vidi la liston de kolektitaj datumoj, bonvolu konsulti la <a data-l10n-name="glean-dictionary-link">vortaron de { -glean-brand-name }</a>.

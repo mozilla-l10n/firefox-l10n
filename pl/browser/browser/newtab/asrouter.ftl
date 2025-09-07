@@ -377,3 +377,19 @@ windows-10-eos-challenger-sync-callout-subtitle = Jeśli zrobisz kopię zapasow�
 windows-10-eos-challenger-pin-callout-subtitle = Przypnij { -brand-shorter-name(case: "acc") } do paska zadań, aby wybrana przez Ciebie przeglądarka była zawsze dostępna, kiedy jej potrzebujesz.
 windows-10-eos-challenger-sync-primary-button = Utwórz kopię zapasową { -brand-shorter-name(case: "gen") }
 windows-10-eos-challenger-pin-primary-button = Przypnij { -brand-shorter-name(case: "acc") }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokuje generatory kryptowalut, elementy śledzące serwisów społecznościowych i elementy zbierające informacje o konfiguracji.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Elementy śledzące nie mogą zidentyfikować Twojego urządzenia ani śledzić Cię w sieci — ponieważ im na to nie pozwalamy.
+windows-10-eos-sync-callout-privacy-screen-2-title = Zabezpiecz swoje hasła i zakładki, zanim przejdziesz na nowe urządzenie.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Utworzenie kopii zapasowej { -brand-shorter-name(case: "gen") } ułatwia zabranie ze sobą swoich danych i ustawień prywatności.
+windows-10-eos-sync-callout-privacy-info-button = Zobacz, co jest blokowane
+windows-10-eos-callout-addons-title = Wypróbuj dodatki: proste ulepszenia, duże efekty
+windows-10-eos-callout-addons-subtitle = Wybraliśmy te rozszerzenia, aby pomóc Ci zachować produktywność, bezpieczeństwo i koncentrację.
+windows-10-eos-callout-addons-primary-button = Zobacz, co wybraliśmy
+windows-10-eos-sync-callout-addons-title = Nie strać dodatków podczas aktualizacji systemu Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Synchronizuj teraz, aby dodatki { -brand-product-name(case: "gen") } były zawsze dostępne, nawet po zmianie urządzenia.
+windows-10-eos-sync-callout-next-button = Dalej
+windows-10-eos-sync-callout-get-started-button = Zacznij teraz
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Pionowe karty i grupy kart już są dostępne!

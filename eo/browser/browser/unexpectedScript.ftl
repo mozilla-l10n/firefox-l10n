@@ -15,3 +15,19 @@ unexpected-script-load-message-button-block =
     .label = Bloki
     .accesskey = B
 unexpected-script-load-title = Neatendita ŝargado de skripto
+unexpected-script-load-detail-1-allow = { -brand-short-name } <strong>PERMESOS</strong> la ŝargadon de neatenditajn privilegiajn skriptojn, inkluzive de la malsupra. Tio igos vian instalitan { -brand-short-name } <strong>malpli</strong> sekura.
+unexpected-script-load-detail-1-block = { -brand-short-name } <strong>BLOKOS</strong> la ŝargadon de neatenditajn privilegiajn skriptojn, inkluzive de la malsupra. Tio igos vian instalitan { -brand-short-name } <strong>pli</strong> sekura.
+# In this text "the functionality" refers to whatever the unexpected script is doing.
+# Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
+# They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
+unexpected-script-load-detail-2 = Eĉ se vi akceptas tiun ĉi skripton, bonvolu raporti ĝin al { -vendor-short-name } por helpi nin klarigi kiel kaj kial ĝi estis ŝargita. <em>Se tiu informo, la funkciados ĉesos funkcii en la estonteco.</em>
+unexpected-script-load-report-checkbox =
+    .label = Raporti la retadreson de tiu ĉi skripto al { -vendor-short-name }
+unexpected-script-load-email-checkbox =
+    .label = Aldoni mian retpoŝton, tiel ke { -vendor-short-name } povas kontakti min, se bezonatas
+unexpected-script-load-email-textbox =
+    .placeholder = Tajpu repoŝtan adreson ĉi tie
+    .aria-label = Tajpu repoŝtan adreson ĉi tie
+unexpected-script-load-more-info = Pli da informo
+unexpected-script-load-learn-more = Pli da informo
+unexpected-script-load-telemetry-disabled = Raportado estas malaktiva ĉar telemezurado estas malaktiva en la agordoj. Aktivigu telemezuradon por povi raporti.

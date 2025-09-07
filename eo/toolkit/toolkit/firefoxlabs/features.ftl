@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Montro de retpaĝoj
 experimental-features-group-customize-browsing =
     .label = Personecigu vian retumon
+experimental-features-group-productivity =
+    .label = Produktemo
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Pasvortoj en la flanka strio
@@ -56,3 +58,10 @@ experimental-features-fx-web-apps =
     .label = Aldoni retejojn al via taska ilaro
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Malfermu la retejojn kiujn vi vizitas ofte, kiel programo Teksaĵa rekte el via taska ilaro. Serĉu la emblemon "Aldoni al taska ilaro" dekstre de la adresa strio, por malfermi la retejon en aparta polurita fenestro kun ĉiuj protektoj de { -brand-product-name }.<a data-l10n-name="connect">Dividi komentojn</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Listoj en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Tenu vian liston de farendaĵoj ĉekape kiam vi malfermas novan langeton. Ĉu temas pri paklistoj ĉu pri aĉetumlistoj, planu per { -brand-product-name }. <a data-l10n-name="connect">Dividi komentojn</a>
