@@ -129,6 +129,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Пра чат-боты ШІ ў { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Паколькі старонка доўгая, вось частковая зводка.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Падсумаваць змест старонкі
@@ -222,10 +227,19 @@ link-preview-reading-time =
         [few] { $range } хвіліны чытання
        *[many] { $range } хвілін чытання
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Мы не можам папярэдне праглядзець гэту спасылку
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Наведаць спасылку
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Мы не можам пералічыць ключавыя моманты для гэтай вэб-старонкі.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Нешта пайшло не так.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Паспрабаваць зноў
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Налады папярэдняга прагляду спасылак
 # Header for the key points section
 link-preview-key-points-header = Ключавыя моманты
 # Disclaimer for AI-generated key points
