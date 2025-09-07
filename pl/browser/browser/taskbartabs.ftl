@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Dodaj kartę do paska zadań
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Usuń kartę z paska zadań
+taskbar-tab-urlbar-button-show = Wyświetl działanie strony aplikacji internetowej
+taskbar-tab-urlbar-button-hide = Ukryj działanie strony aplikacji internetowej
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

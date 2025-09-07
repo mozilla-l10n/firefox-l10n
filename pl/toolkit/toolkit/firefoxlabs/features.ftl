@@ -64,3 +64,12 @@ experimental-features-fx-web-apps-description = Otwieraj często odwiedzane witr
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listy na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
+experimental-features-newtab-widget-lists-description = Miej swoją listę rzeczy do zrobienia zawsze przed oczami, otwierając nową kartę. Od list rzeczy do spakowania po listy zakupów — planuj wszystko w { -brand-product-name(case: "loc") }. <a data-l10n-name="connect">Podziel się opinią</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Minutnik na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
+experimental-features-newtab-widget-timer-description = Ustaw minutnik, który pomoże Ci się skupić, utrzymać plan lub przypomni o konieczności naładowania baterii. <a data-l10n-name="connect">Podziel się opinią</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listy i minutnik na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
+experimental-features-newtab-widget-lists-and-timer-description = Miej swoją listę rzeczy do zrobienia zawsze przed oczami, otwierając nową kartę. Od list rzeczy do spakowania po listy zakupów — planuj wszystko w { -brand-product-name(case: "loc") }. Ustaw minutnik, który pomoże Ci się skupić, utrzymać plan lub przypomni o konieczności naładowania baterii. <a data-l10n-name="connect">Podziel się opinią</a>
