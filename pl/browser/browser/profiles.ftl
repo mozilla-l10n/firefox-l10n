@@ -95,6 +95,8 @@ profiles-light-theme = Jasny
 profiles-dark-theme = Ciemny
 # The default system theme
 profiles-system-theme = Motyw systemu
+profiles-system-theme-title =
+    .title = Motyw systemowy
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Nagietkowa żółć
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -109,6 +111,38 @@ profiles-ocean-theme-2 = Błękit morza
 profiles-terracotta-theme-2 = Ceglasta czerwień
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Zielony mech
+profiles-gray-theme = Szary
+profiles-gray-theme-title =
+    .title = Szary motyw
+profiles-yellow-theme = Żółty
+profiles-yellow-theme-title =
+    .title = Żółty motyw
+profiles-orange-theme = Pomarańczowy
+profiles-orange-theme-title =
+    .title = Pomarańczowy motyw
+profiles-red-theme = Czerwony
+profiles-red-theme-title =
+    .title = Czerwony motyw
+profiles-pink-theme = Różowy
+profiles-pink-theme-title =
+    .title = Różowy motyw
+profiles-purple-theme = Purpurowy
+profiles-purple-theme-title =
+    .title = Purpurowy motyw
+profiles-violet-theme = Fioletowy
+profiles-violet-theme-title =
+    .title = Fioletowy motyw
+profiles-blue-theme = Niebieski
+profiles-blue-theme-title =
+    .title = Niebieski motyw
+profiles-green-theme = Zielony
+profiles-green-theme-title =
+    .title = Zielony motyw
+profiles-cyan-theme = Turkusowy
+profiles-cyan-theme-title =
+    .title = Turkusowy motyw
+profiles-custom-theme-title =
+    .title = Własny motyw
 
 ## Alternative text for default profile icons
 
