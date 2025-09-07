@@ -240,9 +240,29 @@ link-preview-generation-retry = Паспрабаваць зноў
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Налады папярэдняга прагляду спасылак
+link-preview-settings-enable =
+    .label = Уключыць папярэдні прагляд спасылак
+    .description = Глядзіце назву старонкі, апісанне і многа іншага калі выкарыстоўваеце спалучэнне клавіш або націск правай кнопкі мышы на спасылцы.
+link-preview-settings-key-points =
+    .label = Дазволіць штучнаму інтэлекту чытаць пачатак старонкі і генераваць ключавыя моманты
+link-preview-settings-long-press =
+    .label = Хуткі доступ: Націсніце і ўтрымлівайце спасылку на працягу 1 секунды (доўгае націсканне)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Бачыць больш з дапамогай штучнага інтэлекту?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } выкарыстоўвае штучны інтэлект для чытання пачатку старонкі і пералічэння некаторых ключавых момантаў. Каб забяспечыць прыярытэт вашай прыватнасці, гэта адбываецца на вашай прыладзе.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Новае: Націсніце і ўтрымлівайце любую спасылку для папярэдняга прагляду
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Каб вырашыць, ці варта адкрываць спасылку, паглядзіце кароткае апісанне, час чытання і іншыя звесткі. Таксама даступна па націсканні правай кнопкай мышы.
 # Header for the key points section
 link-preview-key-points-header = Ключавыя моманты
 # Disclaimer for AI-generated key points
 link-preview-key-points-disclaimer = Ключавыя моманты згенераваны штучным інтэлектам і могуць утрымліваць памылкі.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Першая ўстаноўка • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Наступным разам вы ўбачыце ключавыя моманты хутчэй.
 # Onboarding card Close button
 link-preview-onboarding-close = Закрыць
