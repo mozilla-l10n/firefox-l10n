@@ -638,3 +638,42 @@ newtab-widget-lists-input-add-an-item =
     .placeholder = Aldoni elementon
 newtab-widget-lists-input-error = Bonvolu enigi tekston por aldoni elementon.
 newtab-widget-lists-input-menu-open-link = Malfermi ligilon
+newtab-widget-lists-input-menu-move-up = Movi supren
+newtab-widget-lists-input-menu-move-down = Movi malsupren
+newtab-widget-lists-input-menu-delete = Forigi
+newtab-widget-lists-input-menu-edit = Modifi
+newtab-widget-lists-name-label-default =
+    .label = Listo de taskoj
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Listo de taskoj
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Nova listo
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Tempumilo
+newtab-widget-timer-notification-focus = La koncentriĝa periodo finiĝis. Bone farita. Ĉu fari paŭzon?
+newtab-widget-timer-notification-break = Via paŭzo estas finita. Ĉu preta rekoncentriĝi?
+newtab-widget-timer-notification-warning = Sciigoj malŝaltitaj
+newtab-widget-timer-mode-focus =
+    .label = Koncentriĝo
+newtab-widget-timer-mode-break =
+    .label = Paŭzo
+newtab-widget-timer-play =
+    .title = Komenci
+newtab-widget-timer-pause =
+    .title = Paŭzigi
+newtab-widget-timer-reset =
+    .title = Rekomenci
+newtab-widget-timer-menu-notifications = Malŝalti sciigojn
+newtab-widget-timer-menu-notifications-on = Ŝalti sciigojn
+newtab-widget-timer-menu-hide = Kaŝi tempumilon
+newtab-widget-timer-menu-learn-more = Pli da informo
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Rulumu por vidi pli
+newtab-widget-message-title = Resti koncentrita danke al listoj kaj integrita tempumilo
+newtab-promo-card-title = Subtenu { -brand-product-name }
+newtab-promo-card-body = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
+newtab-promo-card-cta = Pli da informo

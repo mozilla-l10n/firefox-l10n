@@ -1270,12 +1270,27 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Lue lisää
 content-blocking-etp-standard-tcp-title = Sisältää totaalisen evästesuojan, kaikkien aikojen tehokkaimman tietosuojaominaisuuden
 content-blocking-warning-title = Huomio!
 content-blocking-and-isolating-etp-warning-description-3 = Tämä asetus saattaa estää joidenkin verkkosivustojen sisällön näyttämisen tai aiheuttaa toimintahäiriöitä. Tarjoamme valinnaisia poikkeuksia verkkosivustoille, joihin tiedämme määrityksesi vaikuttavan. Voit vähentää rikkinäisten verkkosivustojen todennäköisyyttä sallimalla nämä seurainpoikkeukset. Jos sivusto näyttää rikkinäiseltä, voit poistaa seurannansuojauksen käytöstä kyseiseltä sivustolta, jolloin kaikki sisältö latautuu, ja ilmoittaa ongelmasta, jotta voimme auttaa korjaamaan sen kaikille.
+content-blocking-warning-title-2 = Jotkin sivustot saattavat rikkoutua tiukalla seurannan suojauksella
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } suosittelee käyttämään ”Korjaa sivuston ongelmat”-asetuksia sivuston rikkinäisten ominaisuuksien ja sisällön vähentämiseksi. Jos sivusto vaikuttaa rikkinäiseltä, kokeile poistaa seurantasuojaus käytöstä kyseiseltä sivustolta, jotta kaikki sisältö latautuu.
 content-blocking-and-isolating-etp-warning-description-2 = Tämä asetus saattaa aiheuttaa sen, että jotkin verkkosivustot eivät näytä sisältöä tai toimi oikein. Jos sivusto vaikuttaa rikkoutuneen, saatat haluta poistaa seurannan suojauksen käytöstä kyseisen sivuston kohdalta, jotta kaikki sisältö voidaan ladata.
 content-blocking-warning-learn-how = Lue lisää
 content-blocking-baseline-exceptions =
     .label = Salli { -brand-short-name }in automaattisesti soveltaa poikkeuksia, joita tarvitaan verkkosivustojen merkittävien rikkoutumisten välttämiseksi.
+content-blocking-baseline-exceptions-2 =
+    .label = Auttaa lataamaan sivustoja ja ominaisuuksia poistamalla estoja vain tärkeiltä elementeiltä, jotka saattavat sisältää seuraimia. Kattaa yleisimmät ongelmat.
 content-blocking-convenience-exceptions =
     .label = Käytä myös automaattisesti poikkeuksia, jotka ovat tarpeen vain pienten ongelmien korjaamiseksi ja mukavuusominaisuuksien käyttöön ottamiseksi.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Palauttaa esimerkiksi videot artikkelissa tai kommenttiosiot poistamalla mahdollisesti seuraimia sisältävien elementtien eston. Tämä voi vähentää sivuston ongelmia, mutta tarjoaa vähemmän suojaa. On käytettävä korjausten kanssa merkittävissä ongelmissa.
+content-blocking-baseline-label = Korjaa merkittävät sivuston ongelmat (suositus)
+content-blocking-convenience-label = Korjaa pienet sivuston ongelmat
+content-blocking-exceptions-subheader = Korjaa sivuston ongelmat
+content-blocking-baseline-uncheck-warning-dialog-title = Haluatko varmasti poistaa korjaukset käytöstä?
+content-blocking-baseline-uncheck-warning-dialog-body = Tämä asetus auttaa korjaamaan yleisimpiä sivusto-ongelmia. Jos poistat sen käytöstä, jotkin sivustot eivät välttämättä toimi, eikä { -brand-short-name } pysty auttamaan näiden ongelmien vianmäärityksessä.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Poista korjaukset käytöstä
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Pidä korjaukset käytössä
 content-blocking-reload-description = Kaikki välilehdet tarvitsee päivittää, jotta muutokset tulevat voimaan.
 content-blocking-reload-tabs-button =
     .label = Päivitä kaikki välilehdet

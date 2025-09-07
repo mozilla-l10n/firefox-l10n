@@ -162,6 +162,13 @@ about-glean-metrics-table-header-value = Hodnota
 about-glean-metrics-table-header-actions = Akce
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtr
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Tím se níže uvedená tabulka vyfiltruje na základě kategorie, názvu, typu a hodnoty (pokud je hodnota jednoduchého typu).
 about-glean-button-load-all = Načíst všechny hodnoty
 about-glean-button-load-value = Načíst
 # "Docs" is shorthand for "documentation"
@@ -169,6 +176,9 @@ about-glean-button-dictionary-link = Dokumenty
 about-glean-button-watch = Sledovat
 # Meaning "to stop watching"
 about-glean-button-unwatch = Přestat sledovat
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = V zobrazení <code>about:glean</code> zatím nejsou podporovány označené metriky.
+about-glean-unknown-metric-type-warning = Neznámý typ metriky.
 about-glean-about-data-explanation =
     Chcete-li si prohlédnout seznam shromážděných údajů, podívejte se na stránku
     <a data-l10n-name="glean-dictionary-link">slovníku { -glean-brand-name }</a>.

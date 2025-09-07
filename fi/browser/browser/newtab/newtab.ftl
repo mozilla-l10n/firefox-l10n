@@ -340,6 +340,7 @@ newtab-custom-widget-lists-toggle =
     .label = Listat
 newtab-custom-widget-timer-toggle =
     .label = Ajastin
+newtab-custom-widget-section-title = Widgetit
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Sulje

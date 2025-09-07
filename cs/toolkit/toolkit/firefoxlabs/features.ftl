@@ -80,3 +80,8 @@ experimental-features-newtab-widget-lists-description =
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Časovač na { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Nastavte si časovač, který vás nakopne k udržení cíle, nebo vám připomene, abyste se soustředili. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Seznamy a časovač na { -firefox-home-brand-name(case: "loc") }
+experimental-features-newtab-widget-lists-and-timer-description = Mějte svůj seznam úkolů v první řadě při otevření nového panelu. V aplikaci { -brand-product-name } plánujte, ať už balicí seznam či nákupní seznam. Nastavte si časovač, který vás nakopne k udržení cíle, nebo vám připomene, abyste se soustředili. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
