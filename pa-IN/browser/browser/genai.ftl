@@ -235,6 +235,13 @@ link-preview-generation-retry = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = ਲਿੰਕ ਝਲਕ ਲਈ ਸੈਟਿੰਗਾਂ
+link-preview-settings-enable =
+    .label = ਲਿੰਕ ਝਲਕਾਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
+    .description = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਸ਼ਾਰਟਕੱਟ ਵਰਤਦੇ ਜਾਂ ਲਿੰਕ ਉੱਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰਦੇ ਹੋ ਤਾਂ ਸਫ਼ਾ ਟਾਈਟਲ, ਵਰਣਨ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਵੇਖੋ।
+link-preview-settings-key-points =
+    .label = AI ਨੂੰ ਸਫ਼ੇ ਦੇ ਸ਼ੁਰੂ ਤੋਂ ਪੜ੍ਹਨ ਅਤੇ ਮੁੱਖ ਬਿੰਦੂ ਤਿਆਰ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ।
+link-preview-settings-long-press =
+    .label = ਸ਼ਾਰਟਕੱਟ: ਲਿੰਕ ਨੂੰ 1 ਸਕਿੰਟ ਲਈ ਕਲਿੱਕ ਕਰਕੇ ਰੱਖੋ (ਲਗਾਤਾਰ ਦਬਾਈ ਰੱਖੋ)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = AI ਨਾਲ ਹੋਰ ਵੇਖਣਾ ਹੈ?
 # Onboarding card title for long press

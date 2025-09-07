@@ -10,6 +10,7 @@ unexpected-script-load-message-button-allow =
 unexpected-script-load-message-button-block =
     .label = ਪਾਬੰਦੀ
     .accesskey = B
+unexpected-script-load-title = ਅਣਚਾਹੀ ਸਕ੍ਰਿਪਟ ਲੋਡ
 unexpected-script-load-email-textbox =
     .placeholder = ਈਮੇਲ ਇੱਥੇ ਦਿਓ
     .aria-label = ਈਮੇਲ ਇੱਥੇ ਦਿਓ
