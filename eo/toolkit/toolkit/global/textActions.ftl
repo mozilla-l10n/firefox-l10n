@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Viŝi
 text-action-highlight-selection =
     .label = Elstarigi elektaĵon
+# Comment is a verb. This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection =
+    .label = Komentarii elektaĵon
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =
