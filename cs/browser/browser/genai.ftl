@@ -267,8 +267,21 @@ link-preview-generation-retry = Zkusit znovu
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Nastavení náhledu odkazů
+link-preview-settings-enable =
+    .label = Povolit náhledy odkazů
+    .description = Při použití zástupce nebo klepnutí pravým tlačítkem myši na odkaz se zobrazí název stránky, popis a další informace.
+link-preview-settings-key-points =
+    .label = Umožnit umělé inteligenci přečíst začátek stránky a vygenerovat klíčové body.
+link-preview-settings-long-press =
+    .label = Zkratka: Klepněte na odkaz a podržte jej 1 sekundu (dlouhý stisk).
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Chcete vidět víc s pomocí umělé inteligence?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } používá umělou inteligenci k přečtení začátku stránky a vygenerování několika klíčových bodů. Aby bylo upřednostněno vaše soukromí, děje se tak na vašem zařízení.
+       *[no-cases] Aplikace { -brand-short-name } používá umělou inteligenci k přečtení začátku stránky a vygenerování několika klíčových bodů. Aby bylo upřednostněno vaše soukromí, děje se tak na vašem zařízení.
+    }
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Novinka: Klepněte a podržte prst na libovolném odkazu pro náhled
 # Onboarding card description for long press

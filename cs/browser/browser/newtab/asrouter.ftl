@@ -450,6 +450,11 @@ fxa-menu-message-sync-devices-secondary-text =
         [with-cases] Okamžitě získáte své informace — například záložky a hesla — všude tam, kde použijete { -brand-short-name(case: "acc") }.
        *[no-cases] Okamžitě získáte své informace — například záložky a hesla — všude tam, kde použijete aplikaci { -brand-short-name }.
     }
+fxa-menu-message-sync-devices-secondary-text2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Okamžitě získáte své záložky, hesla a další informace všude, kde jste přihlášeni do { -brand-short-name(case: "gen") }.
+       *[no-cases] Okamžitě získáte své záložky, hesla a další informace všude, kde jste přihlášeni do aplikace { -brand-short-name }.
+    }
 fxa-menu-message-sync-devices-collapsed-text = Synchronizace všech zařízení
 fxa-menu-message-backup-data-primary-text = Zálohujte si údaje prohlížeče
 fxa-menu-message-backup-data-secondary-text = Automaticky chraňte záložky, hesla a další informace na všech svých zařízeních.
@@ -528,6 +533,16 @@ windows-10-eos-sync-toast-secondary-label = Upozornit mě později
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = Jde o to, že { -brand-product-name } není předinstalován jako jiné prohlížeče od velkých technologických společností.
+windows-10-eos-challenger-sync-callout-subtitle =
+    { -brand-product-name.case-status ->
+        [with-cases] Když si zálohujete záložky a hesla ve { -brand-product-name(case: "loc") }, můžete vybraný prohlížeč snáze přenést do dalšího zařízení.
+       *[no-cases] Když si zálohujete záložky a hesla v aplikaci { -brand-product-name }, můžete vybraný prohlížeč snáze přenést do dalšího zařízení.
+    }
+windows-10-eos-challenger-pin-callout-subtitle = Připněte si { -brand-shorter-name } na hlavní panel, abyste měli vybraný prohlížeč vždy po ruce, když ho potřebujete.
+windows-10-eos-challenger-sync-primary-button = Zálohovat { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Připnout { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokuje kryptoměny, sledovací prvky sociálních sítí a otisky prohlížeče.
 windows-10-eos-sync-callout-privacy-info-button = Podívejte se, co je blokováno
 windows-10-eos-callout-addons-title = Vyzkoušejte doplňky: jednoduché aktualizace, velké dopady
 windows-10-eos-callout-addons-subtitle = Tato rozšíření byla vybrána, aby vám pomohla zůstat produktivní, chránění a bez rozptylování.
