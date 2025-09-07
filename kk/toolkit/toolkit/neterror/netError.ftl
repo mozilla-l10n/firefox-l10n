@@ -54,6 +54,8 @@ neterror-dns-not-found-hint-try-again = Әрекетті кейінірек қа
 neterror-dns-not-found-hint-check-network = Желі байланысын тексеріңіз
 neterror-dns-not-found-hint-firewall = { -brand-short-name } үшін интернетке кіруге рұқсаты бар екенін тексеріңіз (сіз байланысқан, бірақ файрволл артында болуыңыз мүмкін)
 neterror-dns-not-found-offline-hint-different-device = Басқа құрылғыда қосылып көріңіз.
+neterror-dns-not-found-offline-hint-modem = Модемді немесе роутерді тексеріңіз.
+neterror-dns-not-found-offline-hint-reconnect = Wi-Fi желісінен ажырап, қайта қосылыңыз.
 
 ## TRR-only specific messages
 ## Variables:

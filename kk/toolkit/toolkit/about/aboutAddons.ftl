@@ -535,9 +535,12 @@ permissions-data-addon-button = Рұқсаттар мен деректер
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = { $extensionName } кеңейтуімен қолданылуда
+addon-permissions-data-collection-heading = Деректерді жинау
+addon-permissions-data-collection-empty = Әзірлеуші бұл кеңейту деректер жинауды қажет етпейтінін хабарлады.
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-smart-tab-topic-engine = { -brand-short-name } мұны беттер топтары үшін атауларды ұсыну үшін пайдаланады
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Құрылғыдағы ЖИ
 addon-category-mlmodel-title =

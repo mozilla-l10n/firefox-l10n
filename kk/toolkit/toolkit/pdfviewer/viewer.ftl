@@ -302,12 +302,21 @@ pdfjs-highlight-floating-button1 =
     .title = Ерекшелеу
     .aria-label = Ерекшелеу
 pdfjs-highlight-floating-button-label = Ерекшелеу
+pdfjs-comment-floating-button =
+    .title = Түсіндірме
+    .aria-label = Түсіндірме
+pdfjs-comment-floating-button-label = Түсіндірме
 pdfjs-editor-signature-button =
     .title = Қолтаңбаны қосу
 pdfjs-editor-signature-button-label = Қолтаңбаны қосу
 
 ## Default editor aria labels
 
+# Used when a signature editor is selected/hovered.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-signature-editor1 =
+    .aria-description = Қолтаңба түзеткіші: { $description }
 pdfjs-editor-stamp-editor =
     .aria-label = Сурет редакторы
 
