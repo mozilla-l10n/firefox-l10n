@@ -17,6 +17,10 @@ unexpected-script-load-message-button-block =
 unexpected-script-load-title = Нақши ногаҳон бор карда шуд
 unexpected-script-load-detail-1-allow = Браузери «{ -brand-short-name }» ба нақшҳои ногаҳон ва имтиёзнок <strong>ИҶОЗАТ МЕДИҲАД</strong>, аз он ҷумла нақши зеринро бор мекунад. Ин амал дараҷаи бехатариро ҳангоми насби «{ -brand-short-name }»<strong>паст</strong> мекунад.
 unexpected-script-load-detail-1-block = Браузери «{ -brand-short-name }» ба нақшҳои ногаҳон ва имтиёзнок <strong>ИҶОЗАТ НАМЕДИҲАД</strong>, аз он ҷумла нақши зеринро бор намекунад. Ин амал дараҷаи бехатариро ҳангоми насби «{ -brand-short-name }»<strong>баландтар</strong> мекунад.
+# In this text "the functionality" refers to whatever the unexpected script is doing.
+# Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
+# They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
+unexpected-script-load-detail-2 = Ҳатто агар шумо ба ин нақш иҷозат диҳед, лутфан, дар бораи он ба «{ -vendor-short-name }» гузориш диҳед, то мо фаҳмем, ки он чӣ тавр ва чаро бор карда шудааст. <em>Бе ин маълумот, вазифаҳои низом метавонанд дар оянда вайрон шаванд.</em>
 unexpected-script-load-report-checkbox =
     .label = Фиристодани гузориш дар бораи нишонии «URL»-и ин нақш ба «{ -vendor-short-name }»
 unexpected-script-load-email-checkbox =
