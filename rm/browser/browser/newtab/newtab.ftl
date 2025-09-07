@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Questa acziun na po betg vegnir revocada.
 
 newtab-topsite-sponsored = Sponsurisà
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (fixà)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -311,6 +319,9 @@ newtab-custom-pocket-subtitle = Cuntegn excepziunal, tschernì da { -pocket-bran
 newtab-custom-stories-toggle =
     .label = Istorgias recumandadas
     .description = Cuntegn excepziunal curà da { -brand-product-name }
+newtab-custom-stories-personalized-toggle =
+    .label = Artitgels
+newtab-custom-stories-personalized-checkbox-label = Artitgels persunalisads a basa da tia activitad
 newtab-custom-pocket-sponsored = Artitgels sponsurads
 newtab-custom-pocket-show-recent-saves = Mussar ils elements memorisads dacurt
 newtab-custom-recent-title = Activitad recenta

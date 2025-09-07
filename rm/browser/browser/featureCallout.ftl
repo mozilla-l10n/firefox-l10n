@@ -112,6 +112,18 @@ fxa-adoption-passwords-subtitle = Protegia tes pleds-clav ed als sincronisescha 
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Sa registrar
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Betg perda cun la midada a Windows 11 tut quai che ti has memorisà.
+windows-10-eos-sync-urgency-subtitle-1 = Sincronisescha ussa per che tes segnapaginas, pleds-clav e parameters da { -brand-short-name } restian segirs e possian vegnir restaurads a moda simpla.
+windows-10-eos-sync-urgency-title-2 = Ti dis adia a Windows 10? Protegia tias datas cura che ti midas.
+windows-10-eos-sync-urgency-subtitle-2 = Era sche ti n’utiliseschas betg mintga di { -brand-short-name }, fa diever da la sincronisaziun per che tes segnapaginas e tes pleds-clav restian segirads ed accessibels.
+windows-10-eos-sync-new-device-title-1 = Betg ristga da stuair cumenzar a l’entschatta sin il nov apparat.
+windows-10-eos-sync-new-device-subtitle-1 = Activescha la sincronisaziun per prender cun tai tes segnapaginas, pleds-clav e parameters preferids da { -brand-short-name } cura che ti fas la midada.
+windows-10-eos-sync-new-device-title-2 = Ti midas ad in nov apparat? Guarda da betg perder quai ch’è impurtant.
+windows-10-eos-sync-new-device-subtitle-2 = Tuttina quant savens che ti dovras { -brand-short-name }, la sincronisaziun protegia tes segnapaginas, pleds-clav e parameters.
+windows-10-eos-sync-new-device-primary-label = Sincronisar ussa
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mussar ils titels dals tabs en la panela laterala

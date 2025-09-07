@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Modus privat
        *[other] Modus privat da { -brand-full-name }
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Modus privat
 
 ##
 
@@ -809,6 +812,64 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsurisà
 urlbar-result-market-opt-in-title = Infurmaziuns da la bursa directamain en tia trav da tschertgar
 # This string is shown as description when Market suggestion are disabled.
 urlbar-result-market-opt-in-description = Mussar actualitads da la bursa ed autras infurmaziuns da noss partenaris cura che ti cundividas dumondas da tschertga cun { -vendor-short-name }. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Mussar propostas
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Betg ussa
+urlbar-result-realtime-opt-in-dismiss = Serrar
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Betg mussar questas propostas
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Betg mussar propostas en connex cun la bursa
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Grazia per tes resun. Ti na vegns betg pli a vesair propostas cun cuntegns da la bursa.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Grazia per tes resun. Ti na vegns betg pli a vesair questas propostas.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · En { $daysUntilStart } di
+       *[other] { $name } · En { $daysUntilStart } dis
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Cumenza en { $daysUntilStart } di
+       *[other] { $name } · Cumenza en { $daysUntilStart } dis
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Finescha en { $daysUntilEnd } di
+       *[other] { $name } · Finescha en { $daysUntilEnd } dis
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Oz
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Finescha oz
 
 ## Strings used for buttons in the urlbar
 
@@ -843,6 +904,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Per questa giada, tschertgar cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Parameters da tschertga
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nov
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1170,6 +1233,10 @@ tabs-toolbar-list-all-tabs =
     .label = Far ina glista da tut ils tabs
     .tooltiptext = Far ina glista da tut ils tabs
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Depona qua il tab per al fixar
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1340,3 +1407,136 @@ onboarding-checklist-button-label = Finir la configuraziun
 onboarding-aw-finish-setup-button =
     .label = Cumplettar la configuraziun
     .tooltiptext = Cumplettar la configuraziun da { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = La protecziun avanzada cunter il fastizar è activada
+trustpanel-etp-label-disabled = La protecziun avanzada cunter il fastizar è deactivada
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protecziun avanzada cunter il fastizar: Activada per { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protecziun avanzada cunter il fastizar: Deactivada per { $host }
+trustpanel-etp-description-enabled = Sche insatge para da betg funcziunar sin questa website, emprova da deactivar las protecziuns.
+trustpanel-etp-description-disabled = { -brand-product-name } è da l’avis che concerns na duessan betg ta persequitar. Nus bloccain uschè blers fastizaders sco pussaivel sche ti activeschas las protecziuns.
+trustpanel-connection-label-secure = Connexiun segirada
+trustpanel-connection-label-insecure = Connexiun betg segirada
+trustpanel-header-enabled = { -brand-product-name } è attent
+trustpanel-description-enabled = Ti es protegì. Sche nus scuvrin insatge, t’infurmain nus
+trustpanel-header-disabled = Ti has deactivà las protecziuns
+trustpanel-description-disabled = { -brand-product-name } è ord funcziun. Nus recumandain da puspè activar las protecziuns.
+trustpanel-clear-cookies-button = Stizzar ils cookies e las datas da websites
+trustpanel-privacy-link = Parameters da la protecziun da datas
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Stizzar ils cookies e las datas da websites per { $host }
+trustpanel-clear-cookies-description = Sche ti allontaneschas cookies e datas da websites, po quai avair per consequenza che ti vegns deconnectà da websites e perdas il cuntegn da chanasters da cumpra.
+trustpanel-clear-cookies-subview-button-clear = Stizzar
+trustpanel-clear-cookies-subview-button-cancel = Interrumper
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Protecziuns da la connexiun per { $host }
+trustpanel-connection-secure = Ti es connectà a moda segira cun questa website.
+trustpanel-connection-not-secure = Ti n’es betg connectà a moda segira cun questa website.
+trustpanel-siteinformation-morelink = Dapli infurmaziuns davart la website
+trustpanel-blocker-see-all = Mussar tut
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Protecziuns cunter il fastizar per { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> fastizader bloccà sin questa website
+       *[other] <span>{ $count }</span> fastizaders bloccads sin questa website
+    }
+trustpanel-blocker-description = { -brand-product-name } è da l’avis che interpresas na duessan betg ta persequitar. Perquai bloccain nus tut quai ch’è pussaivel.
+trustpanel-blocked-header = { -brand-product-name } ha bloccà il suandant per tai:
+trustpanel-tracking-header = { -brand-product-name } ha permess il suandant per che las websites na giajan betg en paglia:
+trustpanel-tracking-description = Senza fastizaders na funcziunan tscherts buttuns, formulars e champs d’annunzia eventualmain betg.
+trustpanel-insecure-section-header = La connexiun n’è betg segira
+trustpanel-insecure-description = Las datas che ti tramettas a questa website n’èn betg criptadas. Ellas pon potenzialmain vegnir consultadas, enguladas u modifitgadas.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie interpaginal che fastizescha
+       *[other] { $count } cookies interpaginals che fastizeschan
+    }
+trustpanel-list-label-tracking-content = Cuntegn che fastizescha
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } improntader
+       *[other] { $count } improntaders
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } fastizader da social media
+       *[other] { $count } fastizaders da social media
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } criptominier
+       *[other] { $count } criptominier
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloccà { $count } fastizader da social media
+       *[other] { -brand-product-name } ha bloccà { $count } fastizaders da social media
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha permess { $count } fastizader da social media
+       *[other] { -brand-product-name } ha permess { $count } fastizaders da social media
+    }
+trustpanel-social-tracking-tab-list-header = Questas websites emprovan da ta fastizar:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloccà { $count } cookie che fastizescha a moda interpaginala
+       *[other] { -brand-product-name } ha bloccà { $count } cookies che fastizeschan a moda interpaginala
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha permess { $count } cookie che fastizescha a moda interpaginala
+       *[other] { -brand-product-name } ha permess { $count } cookies che fastizeschan a moda interpaginala
+    }
+trustpanel-tracking-cookies-tab-list-header = Questas websites emprovan da ta fastizar:
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloccà { $count } fastizader
+       *[other] { -brand-product-name } ha bloccà { $count } fastizaders
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha permess { $count } fastizader
+       *[other] { -brand-product-name } ha permess { $count } fastizaders
+    }
+trustpanel-tracking-content-tab-list-header = Questas websites emprovan da ta fastizar:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloccà { $count } improntader
+       *[other] { -brand-product-name } ha bloccà { $count } improntaders
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha permess { $count } improntader
+       *[other] { -brand-product-name } ha permess { $count } improntaders
+    }
+trustpanel-fingerprinter-list-header = Questas websites emprovan da detectar tia impronta digitala:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloccà { $count } criptominier
+       *[other] { -brand-product-name } ha bloccà { $count } criptominiers
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha permess { $count } criptominier
+       *[other] { -brand-product-name } ha permess { $count } criptominiers
+    }
+trustpanel-cryptominer-tab-list-header = Questas websites emprovan da minar criptomunaida:

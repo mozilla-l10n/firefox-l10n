@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importar dad in auter
 contextual-manager-passwords-command-import = Importar dad ina datoteca…
 contextual-manager-passwords-command-export = Exportar ils pleds-clav
 contextual-manager-passwords-command-remove-all = Stizzar tut ils pleds-clav
+contextual-manager-passwords-command-options = Opziuns
 contextual-manager-passwords-command-settings = Parameters
 contextual-manager-passwords-command-help = Agid
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -65,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Nov: { $added }, actualisà: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Nov: { $added }, actualisà: { $modified }, duplicats: { $no_change }, errurs: { $error }
 contextual-manager-passwords-import-detailed-report = Mussar in rapport detaglià
 contextual-manager-passwords-import-success-button = Finì
 contextual-manager-passwords-import-error-heading-and-message =
@@ -152,6 +159,10 @@ contextual-manager-passwords-password-already-exists-error-button = Ir al pled-c
 contextual-manager-passwords-update-password-success-heading =
     .heading = Memorisà il pled-clav
 contextual-manager-passwords-update-password-success-button = Finì
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Memorisà il num d’utilisader
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Agiuntà il num d’utilisader
 contextual-manager-passwords-update-username-success-heading =
     .heading = Memorisà il num d’utilisader
 # Message to confirm successful removal of a password/passwords.
@@ -205,12 +216,15 @@ contextual-manager-passwords-title = Pleds-clav
 
 contextual-manager-passwords-create-label =
     .label = Agiuntar in pled-clav
+contextual-manager-passwords-update-label =
+    .label = Actualisar il pled-clav
 contextual-manager-passwords-edit-label =
     .label = Modifitgar il pled-clav
 contextual-manager-passwords-remove-label =
     .title = Allontanar il pled-clav
 contextual-manager-passwords-origin-tooltip = Endatescha l’adressa exacta per s’annunziar en questa website.
 contextual-manager-passwords-username-tooltip = Endatescha il num d’utilisader, l’adressa dad e-mail u il numer dal conto che ti utiliseschas per s’annunziar.
+contextual-manager-passwords-password-tooltip-2 = Endatescha il pled-clav per s’annunziar cun quest conto.
 contextual-manager-passwords-password-tooltip = Endatescha il pled-clav utilisà per s’annunziar en quest conto.
 
 ## Password Card
@@ -287,6 +301,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Na chattà nagins pleds-clav
+contextual-manager-passwords-no-passwords-found-message-2 = Emprova cun in auter term e tschertga anc ina giada.
 contextual-manager-passwords-no-passwords-found-message = Na chattà nagins pleds-clav. Tschertga in auter term ed emprova anc ina giada.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -301,6 +316,8 @@ contextual-manager-passwords-no-passwords-message = Tut ils pleds-clav èn cript
 contextual-manager-passwords-no-passwords-get-started-message = Als agiuntescha qua per cumenzar.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Agiuntar manualmain
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Memorisescha tes pleds-clav en in lieu segir
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -316,3 +333,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] Gea, allontanar il pled-clav
        *[other] Gea, allontanar ils pleds-clav
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Per consultar tes pleds-clav memorisads, endatescha tes pled-clav principal.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Endatescha il pled-clav principal
+contextual-manager-primary-password-learn-more-link = Ulteriuras infurmaziuns
