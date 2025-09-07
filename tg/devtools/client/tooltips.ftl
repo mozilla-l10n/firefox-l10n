@@ -111,6 +111,7 @@ inactive-css-resize-fix = Кӯшиш кунед, ки <strong>overflow</strong>-
 inactive-css-ruby-element-fix = Кӯшиш кунед, ки <strong>font-size</strong>-ро дар матни «ruby» иваз намоед. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Кӯшиш кунед, ки шумораи сатрҳоро кам кунед. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Аз тақсимшавии муҳтавои унсур худдорӣ намоед, масалан, бо нест кардани сутунҳо ё бо истифода аз қимати <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Кӯшиш кунед, ки қимати «<strong>display</strong>»-ро, ки қуттии асосиро ба монанди <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> ё <strong>grid</strong> месозад, илова намоед. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
