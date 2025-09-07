@@ -164,6 +164,7 @@ redirectLoop-title = Pętla przekierowań
 unknownSocketType-title = Nieoczekiwana odpowiedź serwera
 nssFailure2-title = Nie udało się nawiązać bezpiecznego połączenia
 csp-xfo-error-title = { -brand-short-name } nie może otworzyć tej strony
+corruptedContentErrorv2-title = Błąd: treść uszkodzona
 corruptedContentError-title = Błąd: treść uszkodzona
 sslv3Used-title = Nie udało się nawiązać bezpiecznego połączenia
 inadequateSecurityError-title = Połączenie nie gwarantuje bezpieczeństwa

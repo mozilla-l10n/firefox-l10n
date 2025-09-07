@@ -68,3 +68,6 @@ text-action-search-text-box-clear =
     .title = Tyhjennä
 text-action-highlight-selection =
     .label = Korosta valinta
+# Comment is a verb. This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection =
+    .label = Kommentoi valintaa

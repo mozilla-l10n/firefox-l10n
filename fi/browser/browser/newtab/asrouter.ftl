@@ -319,6 +319,7 @@ fxa-menu-message-sign-in-button = Kirjaudu sisään
 fxa-menu-message-sync-button = Aloita synkronointi
 fxa-menu-message-sync-devices-primary-text = Synkronoi kaikki laitteesi
 fxa-menu-message-sync-devices-secondary-text = Hyödynnä tietojasi, kuten kirjanmerkkejä ja salasanoja, kaikkialla missä käytät { -brand-short-name }ia.
+fxa-menu-message-sync-devices-secondary-text2 = Kirjanmerkit, salasanat ja paljon muuta välittömästi – kaikkialla missä olet kirjautuneena { -brand-short-name }iin.
 fxa-menu-message-sync-devices-collapsed-text = Synkronoi kaikki laitteesi
 fxa-menu-message-backup-data-primary-text = Varmuuskopioi selaimesi tiedot
 fxa-menu-message-backup-data-secondary-text = Suojaa automaattisesti kirjanmerkit, salasanat ja muut tiedot kaikilla laitteillasi.
@@ -365,10 +366,13 @@ windows-10-eos-sync-toast-secondary-label = Muistuta myöhemmin
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } ei ole esiasennettu kuten muut suurten teknologiayritysten selaimet. Juuri siinä se pointti onkin.
+windows-10-eos-challenger-sync-callout-subtitle = Kun varmuuskopioit { -brand-product-name }-kirjanmerkkisi ja -salasanasi, valitsemasi selaimen siirtäminen seuraavalle laitteellesi on aiempaa helpompaa.
 windows-10-eos-challenger-pin-callout-subtitle = Kiinnitä { -brand-shorter-name } tehtäväpalkkiin, jotta valitsemasi selain on aina käytettävissäsi tarvittaessa.
 windows-10-eos-challenger-sync-primary-button = Varmuuskopioi { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Kiinnitä { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } estää kryptolouhijat, sosiaalisen median seuraimet ja yksilöijät.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Seuraimet eivät voi yksilöidä laitettasi tai seurata sinua verkossa – koska emme anna niiden tehdä niin.
 windows-10-eos-sync-callout-privacy-screen-2-title = Turvaa salasanasi ja kirjanmerkkisi seuraavaa laitettasi varten.
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = { -brand-shorter-name }in varmuuskopioinnin avulla voit helposti siirtää tai ottaa mukaan tietosi ja yksityisyysasetuksesi.
 windows-10-eos-sync-callout-privacy-info-button = Katso mitä on estetty
@@ -383,6 +387,9 @@ windows-10-eos-sync-callout-get-started-button = Aloitetaan
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Pystysuuntaiset välilehdet ja välilehtiryhmät ovat täällä!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Yleisön pyynnöstä { -brand-product-name } on juuri julkaissut uusia ominaisuuksia, jotka tekevät selaamisestasi aiempaa sujuvampaa ja keskittyneempää.
+windows-10-eos-feature-toast-whats-new-button = Katso, mikä on uutta
 windows-10-eos-feature-toast-dismiss-button = Hylkää
 
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
@@ -392,4 +399,7 @@ windows-10-eos-feature-toast-dismiss-button = Hylkää
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Tiukka seurannan suojaus voi aiheuttaa sivustojen toimintahäiriöitä.</strong> Korjaa yleisiä ongelmia poistamalla seuraimia mahdollisesti sisältävien olennaisten elementtien esto.
 etp-strict-exceptions-infobar-learn-more = Lue lisää
+etp-strict-exceptions-infobar-button = Toteuta korjaukset
+    .accesskey = a

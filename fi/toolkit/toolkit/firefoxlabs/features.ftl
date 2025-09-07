@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Verkkosivun näyttö
 experimental-features-group-customize-browsing =
     .label = Mukauta selaamistasi
+experimental-features-group-productivity =
+    .label = Tuottavuus
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Salasanat sivupalkissa
@@ -56,3 +58,18 @@ experimental-features-fx-web-apps =
     .label = Lisää sivustoja tehtäväpalkkiin
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description = Avaa usein vierailemiasi sivustoja verkkosovelluksena tehtäväpalkista. Etsi osoiterivin oikealta puolelta Lisää välilehti tehtäväpalkkiin -kuvake, niin sivusto avautuu pelkistetyssä ikkunassa, jossa on kaikki { -brand-product-name }in suojaukset. <a data-l10n-name="connect">Jaa palautetta</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Listat { -firefox-home-brand-name }issa
+experimental-features-newtab-widget-lists-description = Pidä tehtävälistasi mielessäsi, kun avaat uuden välilehden. Pakkauslistoista ostoslistoihin, tee suunnitelmasi { -brand-product-name }issa. <a data-l10n-name="connect">Jaa palautetta</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Ajastin { -firefox-home-brand-name }issa
+experimental-features-newtab-widget-timer-description = Aseta ajastin pitämään sinut keskittyneenä, kannustamaan sinua pysymään aikataulussa tai muistuttamaan sinua lataamaan akkujasi. <a data-l10n-name="connect">Jaa palautetta</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listat ja ajastin { -firefox-home-brand-name }issa
+experimental-features-newtab-widget-lists-and-timer-description = Pidä tehtävälistasi mielessäsi, kun avaat uuden välilehden. Pakkauslistoista ostoslistoihin, tee suunnitelmasi { -brand-product-name }issa. Aseta ajastin pitämään sinut keskittyneenä, kannustamaan sinua pysymään aikataulussa tai muistuttamaan sinua lataamaan akkujasi. <a data-l10n-name="connect">Jaa palautetta</a>

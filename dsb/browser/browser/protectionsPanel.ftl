@@ -60,7 +60,7 @@ protections-panel-no-trackers-found = Žedne pśeslědowaki, kótarež { -brand-
 protections-panel-content-blocking-tracking-protection = Slědujuce wopśimjeśe
 protections-panel-content-blocking-socialblock = Pśeslědowaki socialnych medijow
 protections-panel-content-blocking-cryptominers-label = Kryptokopanje
-protections-panel-content-blocking-fingerprinters-label = Palcowe wótśišće
+protections-panel-content-blocking-fingerprinters-label = Zběrarje palcowych wótśišćow
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -108,7 +108,7 @@ protections-panel-site-not-working-view-send-report = Rozpšawu pósłaś
 
 protections-panel-cross-site-tracking-cookies = Toś te cookieje wam wót sedła do sedła slěduju, aby daty wó tom zběrali, což online gótujośo. Stajaju se wót tśeśich póbitowarjow kaž na pśikład wabjarjow a analyzowych pśedewześćow.
 protections-panel-cryptominers = Kryptokopanje liceńske wugbaśe wašogo systema wužywa, aby digitalne pjenjeze dobyło. Kryptokopanske skripty wašu bateriju proznje, wašo licadło spómałšuju a mógu wašu pśetrjebu energije pówušyś.
-protections-panel-fingerprinters = Palcowe wótśišće zběraju nastajenja z wašogo wobglědowaka a licadła, aby profil wó was napórali. Gaž toś ten digitalny palcowy wótśišć wužywaśo, mógu wam pśez rozdźělne websedła slědowaś.
+protections-panel-fingerprinters = Zběrarje palcowych wótśišćow zběraju nastajenja z wašogo wobglědowaka a licadła, aby profil wó was napórali. Gaž toś ten digitalny palcowy wótśišć wužywaśo, mógu wam pśez rozdźělne websedła slědowaś.
 protections-panel-tracking-content = Websedła mógu eksterne wabjenje, wideo a druge wośimjeśe ze slědujucym kodom zacytaś. Gaž slědujuce wopśimjeśe blokěrujośo, móžo to pomagaś, sedła malsnjej zacytaś, ale někotare tłocaški, formulary a pśizjawjeńske póla snaź wěcej njebudu funkcioněrowaś.
 protections-panel-social-media-trackers = Socialne seśi placěruju pśeslědowaki na drugich websedłach, aby slědowali, což online gótujośo, wiźiśo a se wobglědujośo. To pśedewześam socialnych medijow dowólujo, wěcej wó was zgónił ako w profilach socialnych medijow źěliśo.
 protections-panel-description-shim-allowed = Blokěrowanje někotarych dołojce markěrowanych pśeslědowakow jo se pó zdźělach wótpórało na toś tom boku, dokulaž sćo interagěrował z nimi.

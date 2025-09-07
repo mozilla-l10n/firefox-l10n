@@ -674,6 +674,11 @@ newtab-widget-timer-menu-learn-more = Pli da informo
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Rulumu por vidi pli
 newtab-widget-message-title = Resti koncentrita danke al listoj kaj integrita tempumilo
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Rapidaj memorigaĵoj, ĉiutagaj farendaĵoj, koncentriĝaj seancoj kaj ripozaj paŭzoj — akurate plenumu taskojn.
 newtab-promo-card-title = Subtenu { -brand-product-name }
 newtab-promo-card-body = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
 newtab-promo-card-cta = Pli da informo
+newtab-promo-card-dismiss-button =
+    .title = Ignori
+    .aria-label = Ignori

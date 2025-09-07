@@ -216,13 +216,13 @@ bar-tooltip-tracker =
            *[other] { $count } slědujucych wopśimjeśow ({ $percentage } %)
         }
 bar-tooltip-fingerprinter =
-    .title = Palcowe wótśišće
+    .title = Zběrarje palcowych wótśišćow
     .aria-label =
         { $count ->
-            [one] { $count } palcowy wótśišć ({ $percentage } %)
-            [two] { $count } palcowej wótśišća ({ $percentage } %)
-            [few] { $count } palcowe wótśišće ({ $percentage } %)
-           *[other] { $count } palcowych wótśišćow ({ $percentage } %)
+            [one] { $count } zběraŕ palcowych wótśišćow ({ $percentage } %)
+            [two] { $count } zběrarja palcowych wótśišćow ({ $percentage } %)
+            [few] { $count } zběrarje palcowych wótśišćow ({ $percentage } %)
+           *[other] { $count } zběrarjow palcowych wótśišćow ({ $percentage } %)
         }
 bar-tooltip-cryptominer =
     .title = kryptokopaki

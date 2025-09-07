@@ -22,7 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Cookiejowe wuwześe za { $domain } wulašowaś
-tracking-protection-icon-active = Blokěrowanje pśeslědowakow socialnych medijow, sedła pśesegajucych slědujucych cookiejow a palcowych wótśišćow.
+tracking-protection-icon-active = Blokěrowanje pśeslědowakow socialnych medijow, sedła pśesegajucych slědujucych cookiejow a zběrarjow palcowych wótśišćow.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Polěpšony slědowański šćit jo znjemóžnjony za toś to sedło.
@@ -41,7 +41,7 @@ protections-header = Šćit za { $host }
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
 protections-blocking-fingerprinters =
-    .title = Palcowe wótśišće su zablokěrowane
+    .title = Zběrarje palcowych wótśišćow su blokěrowane
 protections-blocking-cryptominers =
     .title = Kryptokopanje jo zablokěrowane
 protections-blocking-cookies-trackers =
@@ -57,7 +57,7 @@ protections-blocking-tracking-content =
 protections-blocking-social-media-trackers =
     .title = Pśeslědowaki socialnych medijow su zablokěrowane
 protections-not-blocking-fingerprinters =
-    .title = Palcowe wótśišće se njeblokěruju
+    .title = Zběrarje palcowych wótśišćow se njeblokěruju
 protections-not-blocking-cryptominers =
     .title = Kryptokopanje se njeblokěrujo
 protections-not-blocking-cookies-third-party =
