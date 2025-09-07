@@ -827,6 +827,26 @@ urlbar-result-dates-countdown =
         [one] { $name } · { $daysUntilStart } күннен кейін
        *[other] { $name } · { $daysUntilStart } күннен кейін
     }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · { $daysUntilStart } күннен кейін басталады
+       *[other] { $name } · { $daysUntilStart } күннен кейін басталады
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · { $daysUntilStart } күннен кейін аяқталады
+       *[other] { $name } · { $daysUntilStart } күннен кейін аяқталады
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
@@ -1415,7 +1435,14 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-tracking-description = Трекерлерсіз кейбір батырмалар, формалар және кіру өрістері жұмыс істемеуі мүмкін.
 trustpanel-insecure-section-header = Сіздің байланысыңыз қауіпсіз емес
+trustpanel-insecure-description = Бұл сайтқа жіберіп жатқан деректер шифрленбеген. Оны көруге, ұрлауға немесе өзгертуге болады.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } сайтаралық бақылайтын cookie файлы
+       *[other] { $count } сайтаралық бақылайтын cookie файлы
+    }
 trustpanel-list-label-tracking-content = Бақылайтын мазмұн
 trustpanel-list-label-fingerprinter =
     { $count ->
@@ -1432,7 +1459,28 @@ trustpanel-list-label-cryptominer =
         [one] { $count } криптомайнер
        *[other] { $count } криптомайнер
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } әлеуметтік медиа трекерін бұғаттады
+       *[other] { -brand-product-name } { $count } әлеуметтік медиа трекерін бұғаттады
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } әлеуметтік медиа трекерін рұқсат етті
+       *[other] { -brand-product-name } { $count } әлеуметтік медиа трекерін рұқсат етті
+    }
 trustpanel-social-tracking-tab-list-header = Бұл сайттар сізді қадағалауға тырысуда:
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } сайтаралық бақылау cookie файлын бұғаттады
+       *[other] { -brand-product-name } { $count } сайтаралық бақылау cookie файлын бұғаттады
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } сайтаралық бақылау cookie файлын рұқсат етті
+       *[other] { -brand-product-name } { $count } сайтаралық бақылау cookie файлын рұқсат етті
+    }
+trustpanel-tracking-cookies-tab-list-header = Бұл сайттар сізді қадағалауға тырысуда:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } { $count } трекерді бұғаттады

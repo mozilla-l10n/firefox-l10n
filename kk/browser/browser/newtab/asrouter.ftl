@@ -356,6 +356,8 @@ windows-10-eos-sync-toast-secondary-label = Кейінірек еске салу
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } сақтық көшірмесін жасау
+windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } бекіту
 windows-10-eos-sync-callout-addons-title = Windows 10 жүйесінен жаңартылған кезде қосымшаларыңызды жоғалтпаңыз.
 windows-10-eos-sync-callout-next-button = Келесі
 windows-10-eos-sync-callout-get-started-button = Бастау
@@ -373,3 +375,5 @@ windows-10-eos-feature-toast-dismiss-button = Елемеу
 ## to fix common site breakage by unblocking essential elements.
 
 etp-strict-exceptions-infobar-learn-more = Көбірек білу
+etp-strict-exceptions-infobar-button = Түзетулерді іске асыру
+    .accesskey = а

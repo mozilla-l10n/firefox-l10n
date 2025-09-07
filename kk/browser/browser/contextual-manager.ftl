@@ -302,6 +302,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Парольдер табылмады
+contextual-manager-passwords-no-passwords-found-message-2 = Басқа терминді қолданып қайта іздеңіз.
 contextual-manager-passwords-no-passwords-found-message = Парольдер табылмады. Басқа терминді іздеп, әрекетті қайталаңыз.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -316,6 +317,8 @@ contextual-manager-passwords-no-passwords-message = Барлық парольд�
 contextual-manager-passwords-no-passwords-get-started-message = Бастау үшін оларды осында қосыңыз.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Қолмен қосу
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Парольдеріңізді қауіпсіз жерде сақтаңыз
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -332,6 +335,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Иә, парольді өшіру
        *[other] Иә, парольдерді өшіру
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Сақталған парольдерді көру үшін басты парольді енгізіңіз.
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Басты парольді енгізіңіз
 contextual-manager-primary-password-learn-more-link = Көбірек білу

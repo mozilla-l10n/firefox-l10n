@@ -99,6 +99,7 @@ perplexity-callout-theme-2-title = Perplexity қолданып көріңіз: �
 perplexity-callout-theme-1-subtitle-1 = Perplexity қолданып көріңіз. Дереккөздері көрсетілген толық жауаптарды алғыңыз келсе, оны іздеу батырмасынан таңдаңыз.
 perplexity-callout-theme-1-subtitle-2 = Сұрақтар қойыңыз. Толық, дәлелді жауаптар алыңыз. Perplexity қолданып көру үшін оны іздеу батырмасынан таңдаңыз.
 perplexity-callout-theme-2-subtitle-1 = Perplexity сұраңыз. Толық жауаптар мен дереккөздері беріледі.
+perplexity-callout-theme-2-subtitle-2 = Сұрақтар қойыңыз. Толық, дәлелді жауаптар алыңыз.
 perplexity-callout-primary-label = Perplexity сұрау
 perplexity-callout-secondary-label-1 = Елемеу
 perplexity-callout-secondary-label-2 = Түсіндім
@@ -114,6 +115,8 @@ fxa-adoption-passwords-primary-button-label = Тіркелу
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = Қазір синхрондау
+windows-10-eos-sync-general-title-2 = Қазір парольдер бен бетбелгілеріңіздің көшірмесін жасап алу үшін қолайлы сәт.
+windows-10-eos-sync-tour-title-1 = Беттер тым көп пе? Беттерді топтарға біріктіріп ретке келтіріңіз.
 
 ## Sidebar Strings
 

@@ -168,6 +168,15 @@ permissions-site-camera-disable-label =
     .label = Камераңызға қатынауға жаңа сұранымдарды блоктау
 permissions-site-camera-disable-desc = Бұл төменде тізілмеген веб-сайттарға камераңызға қатынауға рұқсат сұрауға тыйым салады. Камераңызға қатынауды блоктау веб-сайттардың кейбір мүмкіндіктерін сындыра алады.
 
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Баптаулар - Жергілікті желі құрылғылары
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Бұл веб-сайттар Wi-Fi немесе жергілікті желіге қосылған құрылғылардағы қолданбалар мен қызметтерге қол жеткізуді сұрады. Сайттарға мұны істеуге рұқсат беру немесе блоктауды таңдауға болады.
+permissions-site-local-network-disable-label =
+    .label = Wi-Fi немесе жергілікті желіге қосылған құрылғылардағы қолданбалар мен қызметтерге қол жеткізуге арналған жаңа сұрауларды бұғаттау.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

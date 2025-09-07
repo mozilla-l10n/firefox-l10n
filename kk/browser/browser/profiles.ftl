@@ -127,8 +127,16 @@ profiles-pink-theme = Қызғылт
 profiles-purple-theme = Қызыл көк
 profiles-violet-theme = Күлгін
 profiles-blue-theme = Көк
+profiles-blue-theme-title =
+    .title = Көк теманы іске асыру
 profiles-green-theme = Жасыл
+profiles-green-theme-title =
+    .title = Жасыл теманы іске асыру
 profiles-cyan-theme = Көгілдір
+profiles-cyan-theme-title =
+    .title = Көгілдір теманы іске асыру
+profiles-custom-theme-title =
+    .title = Таңдауыңызша теманы іске асыру
 
 ## Alternative text for default profile icons
 
@@ -201,6 +209,10 @@ bike-avatar-alt =
 
 book-avatar = Кітап
 briefcase-avatar = Портфель
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Кенеп
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Қолөнер
 custom-avatar = Таңдауыңызша аватар
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = Бастапқы таңбаша
@@ -228,5 +240,7 @@ soccer-avatar = Футбол
 sparkle-single-avatar = Шоқ
 star-avatar = Жұлдызша
 video-game-controller-avatar = Видео ойын контроллері
+custom-avatar-crop-back-button =
+    .aria-label = Артқа
 barbell-avatar = Штанга
 bike-avatar = Велосипед
