@@ -14,4 +14,6 @@ existing-user-tou-accept = Қабул кардан
 
 ## Existing User Terms of Use Spotlight
 
+# Full Spotlight body message, with inline links to the Terms of Use, Privacy Notice, and Learn More FAQ that will be added at runtime.
+tou-existing-user-spotlight-body = Мо <a data-l10n-name="terms-of-use">Шартҳои истифодаро</a> бо тартиби нав ҷорӣ кардем ва ба<a data-l10n-name="privacy-notice">Огоҳномаи махфият</a> тағйиру иловаҳо ворид намудем.<br><br> Лутфан, вақтро ҷудо намуда, ҳуҷҷатҳои мазкурро баррасӣ кунед ва ризоияти худро иброз намоед. <a data-l10n-name="learn-more">Маълумоти бештар</a>.
 tou-existing-user-spotlight-remind-me-later = Баъдтар ёдоварӣ кунед
