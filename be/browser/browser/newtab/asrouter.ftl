@@ -323,6 +323,7 @@ fxa-menu-message-sign-in-button = Увайсці
 fxa-menu-message-sync-button = Пачаць сінхранізацыю
 fxa-menu-message-sync-devices-primary-text = Сінхранізуйце ўсе вашы прылады
 fxa-menu-message-sync-devices-secondary-text = Імгненна атрымайце вашу інфармацыю (напр., закладкі і паролі) ўсюды, дзе вы карыстаецеся { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Імгненна атрымлівайце свае закладкі, паролі і многае іншае — усюды, дзе вы ўвайшлі ў { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Сінхранізуйце ўсе вашы прылады
 fxa-menu-message-backup-data-primary-text = Зрабіце рэзервовую копію дадзеных браўзера
 fxa-menu-message-backup-data-secondary-text = Аўтаматычна абараняйце закладкі, паролі і іншую інфармацыю на ўсіх вашых прыладах.
@@ -369,8 +370,13 @@ windows-10-eos-sync-toast-secondary-label = Нагадаць пазней
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } не загружаны загадзя, як іншыя браўзеры буйных тэхналагічных кампаній. У гэтым і сэнс.
+windows-10-eos-challenger-sync-callout-subtitle = Калі вы створыце рэзервовую копію закладак і пароляў { -brand-product-name }, вам будзе прасцей перанесці абраны вамі браўзер на наступную прыладу.
+windows-10-eos-challenger-pin-callout-subtitle = Замацуйце { -brand-shorter-name } на панэлі задач, каб абраны вамі браўзер заўсёды быў пад рукой, калі ён спатрэбіцца.
 windows-10-eos-challenger-sync-primary-button = Рэзервовая копія { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Замацаваць { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } блакуе крыптамайнеры, трэкеры сацыяльных сетак і збіральнікі лічбавых адбіткаў.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Трэкеры не могуць ідэнтыфікаваць вашу прыладу або сачыць за вамі ў інтэрнэце — таму што мы ім гэтага не дазваляем.
 windows-10-eos-sync-callout-next-button = Далей
 windows-10-eos-sync-callout-get-started-button = Пачаць
 
