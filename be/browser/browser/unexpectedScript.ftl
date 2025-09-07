@@ -30,3 +30,4 @@ unexpected-script-load-email-textbox =
     .aria-label = Увядзіце тут адрас электроннай пошты
 unexpected-script-load-more-info = Падрабязней
 unexpected-script-load-learn-more = Даведацца больш
+unexpected-script-load-telemetry-disabled = Справаздачнасць адключана, бо тэлеметрыя адключана ў наладах. Уключыце тэлеметрыю, каб магчы паведамляць.
