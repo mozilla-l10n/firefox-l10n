@@ -97,4 +97,24 @@ about-glean-about-data-list-item-dictionary = Por esplori la liston de datumoj k
 about-glean-about-data-list-item-about-telemetry = Por esplori la datumojn kolektitaj de antaŭaj telemezuroj, bonvolu konsulti <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer = Por esplori senerarigajn etikedojn, vidi tutajn "pings", vidi elsendfluojn de nunaj eventoj aŭ vidi mezurojn, bonvolu konsulti <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = Por registri efikecan profilon kaj vidi ĉiujn registritajn mezurojn, bonvolu uzi <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Ĉiuj statistikoj
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategorio
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Nomo
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Tipo
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Valoro
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Agoj
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtri
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Tio ĉi filtros la malsupran tabelon surbase de kategorio, nomo, tipo kaj valoro (se la valoro estas de simpla tipo)
 about-glean-about-data-explanation = Por vidi la liston de kolektitaj datumoj, bonvolu konsulti la <a data-l10n-name="glean-dictionary-link">vortaron de { -glean-brand-name }</a>.
