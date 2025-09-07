@@ -377,3 +377,29 @@ windows-10-eos-sync-callout-privacy-screen-2-title = Protektu viajn pasvortojn k
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Sekurkopio de { -brand-shorter-name } faciligas la taskon kunporti kun vi viajn datumojn kaj privatecajn agordojn.
 windows-10-eos-sync-callout-privacy-info-button = Montri blokataĵojn
 windows-10-eos-callout-addons-title = Provu aldonaĵojn: simplaj ĝisdatigoj, rimarkeblaj efikoj
+windows-10-eos-callout-addons-subtitle = Tiuj ĉi etendaĵoj estis elektitaj por helpi vin resti produktema, protektita kaj koncentrita.
+windows-10-eos-callout-addons-primary-button = Montri niajn elektojn
+windows-10-eos-sync-callout-addons-title = Vi ne perdos viajn aldonaĵojn kiam vi ĝisdatigos el Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Spegulu nun, tiel ke viaj aldonaĵoj de { -brand-product-name } estos ĉiam haveblaj, eĉ post ŝanĝo de aparato.
+windows-10-eos-sync-callout-next-button = Antaŭen
+windows-10-eos-sync-callout-get-started-button = Unuaj paŝoj
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Alvenis vertikalaj langetoj kaj grupoj de langetoj!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Pro populara peto, { -brand-product-name } ĵus aldonis novajn trajtojn por igi vian retumon simpla kaj sendistra.
+windows-10-eos-feature-toast-whats-new-button = Montri la novaĵojn
+windows-10-eos-feature-toast-dismiss-button = Ignori
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>Rigora protekto kontraŭ spurado povas misfunkciigi retejojn.</strong> Solvu oftajn problemojn per malblokado de nepraj elementoj, kiuj povus tamen enhavi spurilojn.
+etp-strict-exceptions-infobar-learn-more = Pli da informo
+etp-strict-exceptions-infobar-button = Apliki korektojn
+    .accesskey = A
