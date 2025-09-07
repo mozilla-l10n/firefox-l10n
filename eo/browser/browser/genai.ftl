@@ -244,3 +244,22 @@ link-preview-settings-long-press =
     .label = Ŝparvojo: alklaku la ligilon dum unu sekundo (longa premo)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Ĉu pli da informo pere de AI?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } uzas AI por legi la komencon de la paĝo kaj eltiri kelkajn ĉefajn punktojn. Por protekti vian privatecon, tiuj agoj okazas surloke, en via aparato.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nova: longe alklaku ligilon por havi antaŭvidon
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Vidu mallonga priskribon, taksitan tempon de legado, kaj aliajn aferojn por decidi ĉu indas viziti la ligilon. Tio atingeblas ankaŭ per dekstra alklako.
+# Header for the key points section
+link-preview-key-points-header = Ĉefaj punktoj
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Ĉefaj punktoj estas eltiritaj de AI kaj povas enhavi erarojn.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Agordo antaŭ unua uzo • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Venontfoje vi vidos ĉefajn punktojn pli rapide.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Montri antaŭvidon
+# Onboarding card Close button
+link-preview-onboarding-close = Fermi

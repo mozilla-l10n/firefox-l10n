@@ -66,3 +66,17 @@ experimental-features-fx-web-apps-description =
         [with-cases] Otevřete často navštěvované weby jako webovou aplikaci z panelu úloh. Hledejte ikonu “Přidat panel na panel úloh” vpravo na adresním řádku, abyste daný web spustili ve zjednodušeném okně se všemi ochranami { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
        *[no-cases] Otevřete často navštěvované weby jako webovou aplikaci z panelu úloh. Hledejte ikonu “Přidat panel na panel úloh” vpravo na adresním řádku, abyste daný web spustili ve zjednodušeném okně se všemi ochranami { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
     }
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Seznamy na { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description =
+    { -brand-product-name.case-status ->
+        [with-cases] Při otevření nového panelu mějte seznam úkolů vždy na očích. Od balicích seznamů až po nákupní seznamy - své plány si připravte ve { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+       *[no-cases] Při otevření nového panelu mějte seznam úkolů vždy na očích. Od balicích seznamů až po nákupní seznamy - své plány si připravte v aplikaci { -brand-product-name }. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+    }
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Časovač na { -firefox-home-brand-name }
