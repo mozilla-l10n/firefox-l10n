@@ -118,8 +118,31 @@ profiles-yellow-theme = Flava
 profiles-yellow-theme-title =
     .title = Apliki flavan etoson
 profiles-orange-theme = Oranĝa
+profiles-orange-theme-title =
+    .title = Apliki oranĝan etoson
 profiles-red-theme = Ruĝa
+profiles-red-theme-title =
+    .title = Apliki ruĝan etoson
 profiles-pink-theme = Roza
+profiles-pink-theme-title =
+    .title = Apliki rozan etoson
+profiles-purple-theme = Purpura
+profiles-purple-theme-title =
+    .title = Apliki purpuran etoson
+profiles-violet-theme = Viola
+profiles-violet-theme-title =
+    .title = Apliki violan etoson
+profiles-blue-theme = Blua
+profiles-blue-theme-title =
+    .title = Apliki bluan etoson
+profiles-green-theme = Verda
+profiles-green-theme-title =
+    .title = Apliki verdan etoson
+profiles-cyan-theme = Cejanblua
+profiles-cyan-theme-title =
+    .title = Apliki cejanbluan etoson
+profiles-custom-theme-title =
+    .title = Apliki personecigitan etoson
 
 ## Alternative text for default profile icons
 

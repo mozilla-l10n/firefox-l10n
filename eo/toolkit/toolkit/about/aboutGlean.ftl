@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Neaŭtomataj testoj
 about-glean-category-adhoc-testing = Specifaj "ad hoc" testoj
 about-glean-category-profiler = Kiel uzi la rulanalizilon
 about-glean-category-about-data = Pri datumoj
+about-glean-category-metrics-table = Tabelo de statistikoj
 about-glean-upload-enabled = Alŝuto de datumoj aktiva.
 about-glean-upload-disabled = Alŝuto de datumoj malaktiva.
 about-glean-upload-enabled-local = Alŝuto de datumoj aktiva, nur por lokaj serviloj.

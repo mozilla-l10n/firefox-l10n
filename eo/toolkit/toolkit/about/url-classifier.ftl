@@ -10,7 +10,7 @@ url-classifier-search-result-title = Rezultoj
 url-classifier-search-result-uri = URI: { $uri }
 # Variables:
 #   $list (string) - List of tables where the page is blocked
-url-classifier-search-result-list = Listo de tabuloj: { $list }
+url-classifier-search-result-list = Listo de tabeloj: { $list }
 url-classifier-search-input = Retadreso
 url-classifier-search-error-invalid-url = Nevalida retadreso
 url-classifier-search-error-no-features = Neniu trajto elektita
