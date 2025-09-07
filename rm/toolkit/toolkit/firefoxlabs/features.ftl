@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Visualisaziun paginas-web
 experimental-features-group-customize-browsing =
     .label = Persunalisescha tia navigaziun
+experimental-features-group-productivity =
+    .label = Productivitad
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Pleds-clav en la trav laterala
@@ -41,3 +43,33 @@ experimental-features-link-previews-description =
         [macos] Per vegnir a savair dapli davart ina pagina d’internet avant che cliccar, plazzescha il punctader da la mieur sin ina colliaziun e smatga Shift (⇧) plus Option (⌥) u Alt. Previstas pon includer detagls sco il titel ed il temp necessari per leger. Per tschertas paginas d’internet po la IA era leger il text da la pagina e generar puncts clav. L’IA è optimada per leger e generar text englais. Per priorisar la protecziun da tias datas vegn la IA exequida localmain sin tes computer. <a data-l10n-name="connect">Dar in resun</a>
        *[other] Per vegnir a savair dapli davart ina pagina d’internet avant che cliccar, plazzescha il punctader da la mieur sin ina colliaziun e smatga Shift + Alt. Previstas pon includer detagls sco il titel ed il temp necessari per leger. Per tschertas paginas d’internet po la IA era leger il text da la pagina e generar puncts clav. L’IA è optimada per leger e generar text englais. Per priorisar la protecziun da tias datas vegn la IA exequida localmain sin tes computer. <a data-l10n-name="connect">Dar in resun</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Per vegnir a savair dapli davart ina pagina-web avant che cliccar, tegna la mieur sur ina colliaziun e smatga Shift (⇧) plus Option (⌥) u Alt. Previstas pon cuntegnair detagls sco il titel ed il temp da lectura. <a data-l10n-name="connect">Dà in resun</a>
+       *[other] Per vegnir a savair dapli davart ina pagina-web avant che cliccar, tegna la mieur sur ina colliaziun e smatga Shift + Alt. Previstas pon cuntegnair detagls sco il titel ed il temp da lectura. <a data-l10n-name="connect">Dà in resun</a>
+    }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Secziuns tenor tema e «Suandar» / «Bloccar» per artitgels sin novs tabs
+experimental-features-newtab-sections-follow-block-description = Organisescha tes artitgels sin tia pagina da novs tabs en secziuns tematicas (sport, mangiar, divertiment e dapli) per in’experientscha pli structurada e survesaivla. Fa diever da nossas novas controllas «Suandar» e «Bloccar» per persunalisar il cuntegn che ta vegn mussà. <a data-l10n-name="connect">Dà in resun</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Agiuntar websites a tia taskbar
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Avra websites che ti visitas savens sco web app directamain en la taskbar. Tschertga l’icona «Agiuntar a la taskbar» a dretga da la trav d’adressas per avrir quella website en ina fanestra optimada cun tut las protecziuns da { -brand-product-name }. <a data-l10n-name="connect">Dà in resun</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Glistas en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Tegna en egl tia glista d’incumbensas cura che ti avras in nov tab. Tuttina sch’i sa tracta da glistas da pachetar u da glistas da cumpra, fa tes plans en { -brand-product-name }. <a data-l10n-name="connect">Dà in resun</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Svegliarin en { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Drizza in svegliarin per restar concentrà, betg perder il fil u ta regurdar da far ina pausa. <a data-l10n-name="connect">Dà in resun</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Glistas e svegliarins en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Tegna en egl tia glista d’incumbensas cura che ti avras in nov tab. Tuttina sch’i sa tracta da glistas da pachetar u da glistas da cumpra, fa tes plans en { -brand-product-name }. Drizza in svegliarin per restar concentrà, betg perder il fil u ta regurdar da far ina pausa. <a data-l10n-name="connect">Dà in resun</a>
