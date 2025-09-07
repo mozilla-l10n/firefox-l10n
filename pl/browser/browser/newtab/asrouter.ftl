@@ -321,8 +321,11 @@ fxa-menu-message-close-button =
     .title = Zamknij
     .aria-label = Zamknij
 fxa-menu-message-sign-up-button = Utwórz konto
+fxa-menu-message-sign-in-button = Zaloguj się
+fxa-menu-message-sync-button = Zacznij synchronizować
 fxa-menu-message-sync-devices-primary-text = Synchronizuj wszystkie swoje urządzenia
 fxa-menu-message-sync-devices-secondary-text = Miej błyskawiczny dostęp do swoich informacji — takich jak zakładki i hasła — wszędzie tam, gdzie używasz { -brand-short-name(case: "gen") }.
+fxa-menu-message-sync-devices-secondary-text2 = Miej błyskawiczny dostęp do swoich zakładek, haseł i nie tylko wszędzie tam, gdzie zalogujesz się do { -brand-short-name(case: "gen") }.
 fxa-menu-message-sync-devices-collapsed-text = Synchronizuj wszystkie swoje urządzenia
 fxa-menu-message-backup-data-primary-text = Utwórz kopię zapasową danych przeglądarki
 fxa-menu-message-backup-data-secondary-text = Automatycznie chroń zakładki, hasła i inne informacje na wszystkich urządzeniach.
@@ -366,3 +369,11 @@ windows-10-eos-sync-toast-title = Aktualizujesz system do Windows 11? Nie trać
 windows-10-eos-sync-toast-subtitle = Zrób kopię zapasową swoich danych, aby { -brand-short-name } był zawsze gotowy do użycia, na tym komputerze lub nowym.
 windows-10-eos-sync-toast-primary-label = Zacznij teraz
 windows-10-eos-sync-toast-secondary-label = Przypomnij później
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } nie jest preinstalowany jak inne przeglądarki wielkich korporacji. O to właśnie chodzi.
+windows-10-eos-challenger-sync-callout-subtitle = Jeśli zrobisz kopię zapasową swoich zakładek i haseł { -brand-product-name(case: "gen") }, łatwiej Ci będzie zabrać wybraną przez Ciebie przeglądarkę ze sobą na nowe urządzenie.
+windows-10-eos-challenger-pin-callout-subtitle = Przypnij { -brand-shorter-name(case: "acc") } do paska zadań, aby wybrana przez Ciebie przeglądarka była zawsze dostępna, kiedy jej potrzebujesz.
+windows-10-eos-challenger-sync-primary-button = Utwórz kopię zapasową { -brand-shorter-name(case: "gen") }
+windows-10-eos-challenger-pin-primary-button = Przypnij { -brand-shorter-name(case: "acc") }

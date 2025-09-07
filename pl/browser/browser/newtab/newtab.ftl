@@ -678,6 +678,11 @@ newtab-widget-timer-menu-learn-more = Więcej informacji
 # Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
 newtab-widget-keep-scrolling = Przewiń, aby zobaczyć więcej
 newtab-widget-message-title = Nie trać koncentracji dzięki listom i wbudowanemu minutnikowi
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Od szybkich przypomnień po codzienne listy zadań, od sesji skupienia po przerwy na rozciągnięcie — nie trać koncentracji ani czasu.
 newtab-promo-card-title = Wspieraj { -brand-product-name(case: "acc") }
 newtab-promo-card-body = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci
 newtab-promo-card-cta = Więcej informacji
+newtab-promo-card-dismiss-button =
+    .title = Zamknij
+    .aria-label = Zamknij

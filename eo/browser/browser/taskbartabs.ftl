@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Aldoni langeton al la taska ilaro
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Forigi langeton el la taska ilaro
+taskbar-tab-urlbar-button-show = Montri agon de retaplikaĵa paĝo
+taskbar-tab-urlbar-button-hide = Kaŝi agon de retaplikaĵa paĝo
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
@@ -30,3 +32,5 @@ taskbar-tab-shortcut-folder = Teksaĵaj programoj de { -brand-short-name }
 
 taskbar-tab-audio-mute =
     .tooltiptext = Silentigi langeton
+taskbar-tab-audio-unmute =
+    .tooltiptext = Malsilentigi langeton
