@@ -109,6 +109,10 @@ about-glean-adhoc-note =
     Xin lưu ý rằng bạn đang sử dụng API Glean JS bằng cách sử dụng bảng điều khiển devtools.
     Điều này có nghĩa là danh mục chỉ số và tên chỉ số được định dạng trong
     <code>camelCase</code> sẽ không giống như ở Rust và C++ API.
+about-glean-profiler-explanation =
+    Để xem toàn bộ số liệu đã ghi lại, bạn có thể sử dụng { -profiler-brand-name }.
+    Đầu tiên, bạn phải <a data-l10n-name="firefox-profiler-link">ghi lại hồ sơ hiệu suất</a>.
+    Sau khi bạn đã ghi lại hồ sơ hiệu suất, chọn <q>Marker Chart</q> và nhìn vào các đánh dấu bên dưới <q>Telemetry</q>.
 about-glean-profiler-explanation-profiler =
     Trong hồ sơ hiệu suất, bạn có thể xem tất cả số liệu được thu thập, thời điểm chúng được
     thu thập và chính xác những giá trị nào được thu thập. Bằng cách di chuột vào các điểm đánh dấu riêng lẻ,
