@@ -377,6 +377,14 @@ windows-10-eos-challenger-sync-primary-button = Рэзервовая копія 
 windows-10-eos-challenger-pin-primary-button = Замацаваць { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } блакуе крыптамайнеры, трэкеры сацыяльных сетак і збіральнікі лічбавых адбіткаў.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Трэкеры не могуць ідэнтыфікаваць вашу прыладу або сачыць за вамі ў інтэрнэце — таму што мы ім гэтага не дазваляем.
+windows-10-eos-sync-callout-privacy-screen-2-title = Забяспечце свае паролі і закладкі для наступнай прылады.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Рэзервовае капіяванне { -brand-shorter-name } дазваляе лёгка забраць з сабой вашы дадзеныя і налады прыватнасці.
+windows-10-eos-sync-callout-privacy-info-button = Паглядзець, што заблакавана
+windows-10-eos-callout-addons-title = Паспрабуйце дадаткі: простыя паляпшэнні, вялікі ўплыў
+windows-10-eos-callout-addons-subtitle = Гэтыя пашырэнні былі выбраны, каб дапамагчы вам заставацца прадуктыўнымі, абароненымі і не губляць увагу.
+windows-10-eos-callout-addons-primary-button = Паглядзіце нашы выбары
+windows-10-eos-sync-callout-addons-title = Не страцьце свае дадаткі пры абнаўленні з Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Сінхранізуйце зараз, каб вашы дадаткі { -brand-product-name } былі заўсёды даступныя, нават пасля змены прылады.
 windows-10-eos-sync-callout-next-button = Далей
 windows-10-eos-sync-callout-get-started-button = Пачаць
 
