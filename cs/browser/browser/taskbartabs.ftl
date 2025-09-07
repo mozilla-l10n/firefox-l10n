@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Přidat panel na panel úloh
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Odebrat panel z panelu úloh
+taskbar-tab-urlbar-button-show = Zobrazí akci Zobrazit webovou aplikaci
+taskbar-tab-urlbar-button-hide = Zobrazí akci Skrýt webovou aplikaci
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

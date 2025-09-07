@@ -667,6 +667,7 @@ newtab-widget-lists-menu-hide = Skrýt všechny seznamy
 newtab-widget-lists-menu-learn-more = Zjistit více
 newtab-widget-lists-input-add-an-item =
     .placeholder = Přidat položku
+newtab-widget-lists-input-error = Položku přidáte zadáním textu.
 newtab-widget-lists-input-menu-open-link = Otevřít odkaz
 newtab-widget-lists-input-menu-move-up = Posunout výše
 newtab-widget-lists-input-menu-move-down = Posunout níže
