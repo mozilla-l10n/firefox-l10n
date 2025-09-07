@@ -817,6 +817,16 @@ urlbar-result-menu-dont-show-market =
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · { $daysUntilStart } күннен кейін
+       *[other] { $name } · { $daysUntilStart } күннен кейін
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
