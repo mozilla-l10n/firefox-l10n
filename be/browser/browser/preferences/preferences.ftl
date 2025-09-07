@@ -1285,6 +1285,16 @@ content-blocking-baseline-exceptions-2 =
     .label = Дапамагае загружаць сайты і функцыі, разблакоўваючы толькі неабходныя элементы, якія могуць утрымліваць трэкеры. Ахоплівае найбольш распаўсюджаныя праблемы.
 content-blocking-convenience-exceptions =
     .label = Таксама аўтаматычна ўжываць выключэнні, якія патрабуюцца толькі для выпраўлення нязначных праблем і даступнасці зручных функцый.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Аднаўляе такія рэчы, як відэа ў артыкуле або раздзелах каментарыяў, разблакоўваючы элементы, якія могуць утрымліваць трэкеры. Гэта можа паменшыць праблемы з сайтам, але забяспечвае меншую ахову. Неабходна выкарыстоўваць разам з выпраўленнямі сур'ёзных праблем.
+content-blocking-baseline-label = Выпраўляць сур'ёзныя праблемы з сайтамі (рэкамендуецца)
+content-blocking-convenience-label = Выпраўленне нязначных праблем з сайтамі
+content-blocking-exceptions-subheader = Выпраўленне праблем з сайтамі
+content-blocking-baseline-uncheck-warning-dialog-title = Вы ўпэўнены, што хочаце адключыць выпраўленні?
+content-blocking-baseline-uncheck-warning-dialog-body = Гэты параметр дапамагае выправіць найбольш распаўсюджаныя праблемы з сайтамі. Калі вы яго адключыце, некаторыя сайты могуць не працаваць, а { -brand-short-name } не зможа дапамагчы ў вырашэнні гэтых праблем.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Выключыць выпраўленні
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Пакінуць выпраўленні ўключанымі
 content-blocking-reload-description = Вам трэба будзе перазагрузіць свае карткі, каб прымяніць гэтыя змены.
 content-blocking-reload-tabs-button =
     .label = Перачытаць усе карткі
