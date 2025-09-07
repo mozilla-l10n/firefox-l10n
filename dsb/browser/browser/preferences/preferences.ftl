@@ -1337,7 +1337,7 @@ content-blocking-known-fingerprinters-label =
 # The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-suspected-fingerprinters-label =
-    .label = Suspektne  zběrarje palcowych wótśišćow
+    .label = Suspektne zběrarje palcowych wótśišćow
     .accesskey = S
 
 ## Privacy Section - Tracking

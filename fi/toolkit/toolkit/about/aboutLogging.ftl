@@ -27,10 +27,41 @@ about-logging-logging-preset-selector-text = Lokituksen esiasetus:
 ## Logging presets
 
 about-logging-preset-networking-label = Verkko
+about-logging-preset-networking-cookie-label = Evästeet
+about-logging-preset-networking-websocket-label = WebSocketit
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Median toisto
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-ml-label = Koneoppiminen
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-gfx-label = Grafiikka
 # Error handling
 about-logging-error = Virhe:
+
+##
+
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Tapahtui virhe: { $errorText }
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+
+about-logging-save-button = Tallenna
+about-logging-upload-button = Lähetä
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Tallennettu polkuun { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Lähetetään profiilidataa: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Lähetetty osoitteeseen <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Jaa URL-osoite
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Profiilin lähettämisessä tapahtui virhe: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Tiedostoa tallennettaessa tapahtui virhe: { $errorText }

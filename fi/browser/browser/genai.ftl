@@ -226,6 +226,8 @@ link-preview-reading-time =
 link-preview-error-message = Emme voi esikatsella tätä linkkiä
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Käy linkin osoitteessa
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Emme voi luoda pääkohtia tälle verkkosivulle.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Jokin meni pieleen.
 # Text for the retry link when generation fails
@@ -233,5 +235,31 @@ link-preview-generation-retry = Yritä uudelleen
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Linkin esikatselun asetukset
+link-preview-settings-enable =
+    .label = Ota linkkien esikatselut käyttöön
+    .description = Näe sivun otsikko, kuvaus ja muuta, kun käytät oikotietä tai hiiren oikean napsautusta linkin päällä.
+link-preview-settings-key-points =
+    .label = Anna tekoälyn lukea sivun alku ja luoda pääkohdat
+link-preview-settings-long-press =
+    .label = Oikotie: Napsauta linkkiä ja pidä sitä painettuna 1 sekunnin ajan (pitkä painallus)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Enemmän näköä tekoälyn avulla?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } käyttää tekoälyä sivun alun lukemiseen ja muutaman keskeisen kohdan luomiseen. Tietosuojasi takaamiseksi tämä tapahtuu laitteellasi.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Uutta: Esikatselua varten napsauta ja pidä mitä tahansa linkkiä painettuna
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Näe lyhyt kuvaus, lukuaika ja muita tietoja päättääksesi, kannattaako linkki avata. Saatavilla myös hiiren kakkospainikkeella.
+# Header for the key points section
+link-preview-key-points-header = Pääkohdat
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Pääkohdat ovat tekoälyn luomia ja niissä voi olla virheitä.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Käyttöönoton määritys • <strong>{ $progress } %</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Näet pääkohdat nopeammin ensi kerralla.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Näe esikatselu
 # Onboarding card Close button
 link-preview-onboarding-close = Sulje

@@ -363,3 +363,17 @@ windows-10-eos-sync-toast-title = Ĉu vi planas ĝisdatigi al Windows 11? Ne per
 windows-10-eos-sync-toast-subtitle = Faru sekurkopion de viaj datumoj, tiel ke { -brand-short-name } estos preta por uzo, ĉu en tiu ĉi komputilo ĉu en la venonta.
 windows-10-eos-sync-toast-primary-label = Unuaj paŝoj
 windows-10-eos-sync-toast-secondary-label = Rememorigi poste
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } ne estas antaŭinstalita kiel aliaj retumiloj de gigantaj entreprenoj. Ĝuste pri tio temas.
+windows-10-eos-challenger-sync-callout-subtitle = Kiam vi faras sekurkopion de viaj legosignoj kaj pasvortoj de { -brand-product-name }, estos pli facile transmeti ion al via elektita retumilo en alia aparato.
+windows-10-eos-challenger-pin-callout-subtitle = Alpinglu { -brand-shorter-name } al via taska ilaro, tiel ke via elektita retumilo estos ĉiam ĉemane kiam vi ĝin bezonos.
+windows-10-eos-challenger-sync-primary-button = Fari sekurkopion de via { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Alpingli { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokas minilojn de ĉifromono, sociretajn spurilojn kaj identigilojn de ciferecaj spuroj.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Spurioj ne povas identigi vian aparaton aŭ sekvi vin tra la reto, ĉar ni ne permesas tion al ili.
+windows-10-eos-sync-callout-privacy-screen-2-title = Protektu viajn pasvortojn kaj legosignojn por via venonta aparato.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Sekurkopio de { -brand-shorter-name } faciligas la taskon kunporti kun vi viajn datumojn kaj privatecajn agordojn.
+windows-10-eos-sync-callout-privacy-info-button = Montri blokataĵojn
+windows-10-eos-callout-addons-title = Provu aldonaĵojn: simplaj ĝisdatigoj, rimarkeblaj efikoj
