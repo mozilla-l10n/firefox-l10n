@@ -264,5 +264,7 @@ link-preview-key-points-disclaimer = Ключавыя моманты згене�
 link-preview-setup = Першая ўстаноўка • <strong>{ $progress }%</strong>
 # Message indicating faster performance after initial setup
 link-preview-setup-faster-next-time = Наступным разам вы ўбачыце ключавыя моманты хутчэй.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Глядзець папярэдні прагляд
 # Onboarding card Close button
 link-preview-onboarding-close = Закрыць
