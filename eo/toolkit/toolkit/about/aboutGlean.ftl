@@ -117,4 +117,11 @@ about-glean-label-for-filter-metrics = Filtri
 # Value refers to the underlying value of a given metric.
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = Tio ĉi filtros la malsupran tabelon surbase de kategorio, nomo, tipo kaj valoro (se la valoro estas de simpla tipo)
+about-glean-button-load-all = Ŝargi ĉiujn valorojn
+about-glean-button-load-value = Ŝargi
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumentaro
+about-glean-button-watch = Observi
+# Meaning "to stop watching"
+about-glean-button-unwatch = Ne plu observi
 about-glean-about-data-explanation = Por vidi la liston de kolektitaj datumoj, bonvolu konsulti la <a data-l10n-name="glean-dictionary-link">vortaron de { -glean-brand-name }</a>.

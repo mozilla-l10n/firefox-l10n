@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Informowanie witryn, że mają nie sprzedawać ani nie udostępniać moich danych.
     .accesskey = n
 non-technical-privacy-header = Preferencje dotyczące prywatności na witrynach
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Zamknij
+do-not-track-removal2 =
+    .label = Nagłówek „Do Not Track” (prośba o nieśledzenie) nie jest już obsługiwany
 
 ## Browser Restart Dialog
 
@@ -1270,6 +1274,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Więcej informacji
 content-blocking-etp-standard-tcp-title = Zawiera całkowitą ochronę ciasteczek, naszą najpotężniejszą funkcję ochrony prywatności w historii
 content-blocking-warning-title = Ostrzeżenie
 content-blocking-and-isolating-etp-warning-description-3 = To ustawienie może spowodować, że część witryn nie będzie wyświetlać treści lub poprawnie działać. Zapewniamy opcjonalne wyjątki dla witryn, o których wiemy, że używana konfiguracja może mieć na nie wpływ. Aby zmniejszyć ryzyko błędnie działających witryn, zezwól na te wyjątki. Jeśli witryna wydaje się błędnie działać, można wyłączyć dla niej ochronę przed śledzeniem, aby wczytać całą treść i zgłosić problem, abyśmy mogli pomóc rozwiązać go dla wszystkich.
+content-blocking-warning-title-2 = Ścisła ochrona przed śledzeniem może powodować nieprawidłowe działanie niektórych stron
 content-blocking-and-isolating-etp-warning-description-2 = To ustawienie może spowodować niepoprawne działanie lub wyświetlanie niektórych stron. Jeśli dana strona wydaje się niewłaściwie działać, możesz wyłączyć dla niej ochronę przed śledzeniem, aby wczytać ją w całości.
 content-blocking-warning-learn-how = Więcej informacji
 content-blocking-baseline-exceptions =
