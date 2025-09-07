@@ -65,3 +65,11 @@ experimental-features-fx-web-apps-description = Malfermu la retejojn kiujn vi vi
 experimental-features-newtab-widget-lists =
     .label = Listoj en { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-description = Tenu vian liston de farendaĵoj ĉekape kiam vi malfermas novan langeton. Ĉu temas pri paklistoj ĉu pri aĉetumlistoj, planu per { -brand-product-name }. <a data-l10n-name="connect">Dividi komentojn</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Tempumilo en { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Metu tempumilon por resti koncentrita, malhelpi devojiĝon aŭ memorigi ke estas tempo paŭzi. <a data-l10n-name="connect">Dividi komentojn</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listoj kaj tempumiloj en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Tenu vian liston de farendaĵoj ĉekape kiam vi malfermas novan langeton. Ĉu temas pri paklistoj ĉu pri aĉetumlistoj, planu per { -brand-product-name }. Metu tempumilon por resti koncentrita, malhelpi devojiĝon aŭ memorigi ke estas tempo paŭzi. <a data-l10n-name="connect">Dividi komentojn</a>

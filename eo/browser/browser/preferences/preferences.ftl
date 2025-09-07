@@ -1270,6 +1270,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Pli da informo
 content-blocking-etp-standard-tcp-title = Tio inkluzivas plenan protekton kontraŭ kuketoj, nia ĝisnune plej pova privateca trajto
 content-blocking-warning-title = Atentu!
 content-blocking-and-isolating-etp-warning-description-3 = Tiu ĉi agordo povas mismontri aŭ misfunkciigi retejojn. Ni permesas la eblon aldoni esceptojn por retejoj sur kiuj, laŭ nia scio, viaj agordoj povus malbone efiki.  Por redukti la eblon misfunkciigi retejojn, permesu tiujn esceptojn por spuriloj. Se retejo misfunkcias, vi povas malŝalti la protekton por ĝi, tiel ke la tuta enhavo estos ŝargita, kaj raporti la problemon, tiel ke ni povas helpi solvi tion por ĉiuj.
+content-blocking-warning-title-2 = Rigora blokado de spuriloj povas misfunkciigi retejojn
 content-blocking-and-isolating-etp-warning-description-2 = Tiu ĉi agordo povas mismontri aŭ misfunkciigi retejojn. Se iu retejo ne bone funkcias aŭ videblas, vi povas malaktivigi la protekton kontaŭ spurado por tiu retejo, tiel ke ĝi ŝargos la tutan enhavon.
 content-blocking-warning-learn-how = Pli da informo
 content-blocking-baseline-exceptions =
