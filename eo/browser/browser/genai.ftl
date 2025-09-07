@@ -238,3 +238,9 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Aktivigi la antaŭmontradon de ligiloj
     .description = Montri la titolon de la paĝo, priskribon, kaj pli da informo kiam vi uzas la ŝparvojon aŭ alklakas ligilon per la dekstra butono.
+link-preview-settings-key-points =
+    .label = Permesi al AI legi la komencon de la paĝo kaj eltiri ĉefajn punktojn
+link-preview-settings-long-press =
+    .label = Ŝparvojo: alklaku la ligilon dum unu sekundo (longa premo)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Ĉu pli da informo pere de AI?
