@@ -1285,6 +1285,16 @@ content-blocking-baseline-exceptions-2 =
     .label = Pomaga wczytywać strony i funkcje przez odblokowanie tylko niezbędnych rzeczy, które mogą zawierać elementy śledzące. Rozwiązuje najczęstsze problemy.
 content-blocking-convenience-exceptions =
     .label = Automatyczne stosowanie także wyjątków wymaganych tylko do rozwiązania pomniejszych problemów i zapewnienia dostępu do funkcji ułatwiających korzystanie z witryny.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Przywraca między innymi filmy w artykułach czy sekcje komentarzy przez odblokowanie rzeczy, które mogą zawierać elementy śledzące. Może to ograniczyć problemy ze stronami, ale zmniejsza poziom ochrony. Wymaga włączenia opcji naprawiania poważnych problemów.
+content-blocking-baseline-label = Naprawianie poważnych problemów ze stronami (zalecane)
+content-blocking-convenience-label = Naprawianie drobnych problemów ze stronami
+content-blocking-exceptions-subheader = Naprawianie problemów ze stronami
+content-blocking-baseline-uncheck-warning-dialog-title = Czy na pewno wyłączyć naprawianie?
+content-blocking-baseline-uncheck-warning-dialog-body = To ustawienie pomaga naprawiać najczęstsze problemy ze stronami. Wyłączenie może spowodować niepoprawne działanie niektórych stron, a { -brand-short-name } nie będzie mógł pomagać w rozwiązywaniu tych problemów.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Wyłącz naprawianie
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Nie wyłączaj naprawiania
 content-blocking-reload-description = Zastosowanie tych zmian wymaga odświeżenia kart.
 content-blocking-reload-tabs-button =
     .label = Odśwież wszystkie karty
