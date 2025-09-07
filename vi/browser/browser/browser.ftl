@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Duyệt web riêng tư
        *[other] { -brand-full-name } duyệt web riêng tư
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Duyệt web riêng tư
 
 ##
 

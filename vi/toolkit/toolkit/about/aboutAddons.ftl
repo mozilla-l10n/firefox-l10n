@@ -473,7 +473,10 @@ available-updates-heading = Cập nhật có sẵn
 recent-updates-heading = Cập nhật gần đây
 release-notes-loading = Đang tải…
 release-notes-error = Xin lỗi, nhưng có lỗi xảy ra khi mở ghi chú phát hành.
+addon-permissions-heading = Quyền hạn
 addon-permissions-empty2 = Tiện ích mở rộng này không yêu cầu bất kỳ quyền nào.
+addon-permissions-required-label = Bắt buộc:
+addon-permissions-optional-label = Không bắt buộc:
 addon-permissions-empty = Tiện ích mở rộng này không yêu cầu bất kỳ quyền nào
 addon-permissions-required = Các quyền cần thiết cho chức năng cốt lõi:
 addon-permissions-optional = Các quyền tùy chọn cho chức năng được bổ sung:
@@ -569,6 +572,10 @@ permissions-data-addon-button = Quyền hạn và dữ liệu
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Được sử dụng bởi tiện ích mở rộng { $extensionName }
+addon-permissions-data-collection-heading = Thu thập dữ liệu
+addon-permissions-data-collection-empty = Nhà phát triển cho biết tiện ích mở rộng này không yêu cầu thu thập dữ liệu.
+addon-data-collection-provided = Thông tin được cung cấp bởi nhà phát triển tiện ích mở rộng
+addon-data-collection-learnmore = Tìm hiểu thêm về thu thập dữ liệu
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
