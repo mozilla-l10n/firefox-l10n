@@ -124,6 +124,13 @@ windows-10-eos-sync-new-device-title-2 = Переходите на новий п
 windows-10-eos-sync-new-device-subtitle-2 = Незалежно від того, як часто ви користуєтеся { -brand-short-name }, синхронізація захищає ваші закладки, паролі та налаштування.
 windows-10-eos-sync-new-device-primary-label = Синхронізувати
 windows-10-eos-sync-general-title-1 = Захистіть свій { -brand-short-name }.
+windows-10-eos-sync-general-subtitle-1 = Створюйте резервні копії та синхронізуйте свої паролі, закладки, налаштування та інші дані, щоб завжди мати до них доступ.
+windows-10-eos-sync-general-title-2 = Зараз саме час створити резервну копію паролів і закладок.
+windows-10-eos-sync-general-subtitle-2 = Синхронізуйте зараз, щоб захистити дані за допомогою { -brand-short-name }, і завжди мати до них доступ звідусіль.
+windows-10-eos-sync-tour-title-1 = Забагато вкладок? Наведіть лад, скориставшись групами вкладок.
+windows-10-eos-sync-tour-subtitle-1 = Перетягніть одну вкладку на іншу, щоб створити групу та впорядкувати роботу.
+windows-10-eos-sync-tour-title-2 = Підготуйтеся до переходу на Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Синхронізуйте свої закладки, паролі та налаштування, щоб створити їх резервну копію заздалегідь.
 
 ## Sidebar Strings
 

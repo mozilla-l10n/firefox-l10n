@@ -91,6 +91,16 @@ genai-shortcuts-hide =
     .label = Приховати ярлик чат-бота
 genai-menu-choose-chatbot =
     .label = Вибрати чат-бота з ШІ
+genai-menu-ask-generic-2 =
+    .label = Запитати в чат-бота з ШІ
+    .accesskey = З
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Запитати в { $provider }
+    .accesskey = п
+genai-menu-no-provider-2 =
+    .label = Запитати в чат-бота з ШІ
+    .accesskey = а
 
 ## Chatbot header
 
@@ -114,6 +124,11 @@ genai-options-hide-shortcut =
     .label = Приховувати ярлик під час вибору тексту
 genai-options-about-chatbot =
     .label = Про чат-боти з ШІ в { -brand-short-name }
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Оскільки сторінка завелика, показано частковий підсумок.
 
 ## Chatbot footer
 
@@ -208,3 +223,44 @@ link-preview-reading-time =
         [few] { $range } хв читання
        *[many] { $range } хв читання
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Перегляд цього посилання недоступний
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Відвідати посилання
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Неможливо створити ключові тези для цієї вебсторінки.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Щось пішло не так.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Повторити спробу
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Налаштування перегляду посилань
+link-preview-settings-enable =
+    .label = Увімкнути перегляд посилань
+    .description = Перегляд заголовка сторінки, опису та іншої інформації під час використання комбінації клавіш або натискання посилання правою кнопкою миші.
+link-preview-settings-key-points =
+    .label = Дозволити ШІ читати початок сторінки та генерувати ключові тези
+link-preview-settings-long-press =
+    .label = Комбінація клавіш: натисніть і утримуйте посилання протягом 1 секунди (тривале натискання)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Переглядати більше за допомогою ШІ?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } використовує штучний інтелект для зчитування початку сторінки та генерування кількох ключових тез. Задля вашої приватності це відбувається на вашому пристрої.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Новинка: натисніть і утримуйте будь-яке посилання для перегляду
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Перегляньте короткий опис, час читання та іншу інформацію, щоб вирішити, чи варто відкривати посилання. Також доступно натисканням правою кнопкою миші.
+# Header for the key points section
+link-preview-key-points-header = Ключові тези
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Ключові тези генеруються штучним інтелектом і можуть бути неточними.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Перше налаштування • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Наступного разу ви побачите ключові тези швидше.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Відкрити перегляд
+# Onboarding card Close button
+link-preview-onboarding-close = Закрити

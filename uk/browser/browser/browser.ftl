@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Приватний перегляд
        *[other] Приватний перегляд { -brand-full-name }
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Приватний перегляд
 
 ##
 
@@ -1338,6 +1341,7 @@ firefox-relay-offer-why-to-use-relay = Наші захищені та прост
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Усі електронні листи, надіслані на ваші маски електронної пошти, будуть перенаправлені на <strong>{ $useremail }</strong> (якщо ви не вирішите їх заблокувати).
 firefox-relay-offer-legal-notice = Натискаючи “Використовувати маску електронної пошти”, ви погоджуєтеся з <label data-l10n-name="tos-url">Умовами надання послуг</label> і <label data-l10n-name="privacy-url">Положенням про приватність</label>.
+firefox-relay-offer-legal-notice-1 = Реєструючись і створюючи маску електронної пошти, ви погоджуєтеся з <label data-l10n-name="tos-url">Умовами надання послуг</label> і <label data-l10n-name="privacy-url">Положенням про приватність</label>.
 
 ## Add-on Pop-up Notifications
 

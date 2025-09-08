@@ -20,9 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = К
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Захистіть свою електронну адресу:
+firefox-relay-opt-in-title-2 = Отримайте безплатну маску е-пошти
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = використайте маску електронної пошти { -relay-brand-name }
+firefox-relay-use-mask-title-1 = Використовуйте маску електронної пошти
+firefox-relay-opt-in-subtitle-2 = Захистіть свою поштову скриньку від спаму
 firefox-relay-use-mask-title = Використати маску електронної пошти { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Уникайте спаму за допомогою безплатної маски електронної пошти
@@ -73,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Отримайте безплатну маску е-пошти
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Захистіть свою поштову скриньку від спаму, використовуючи безплатну <label data-l10n-name="firefox-relay-learn-more-url">маску електронної пошти</label>, щоб приховати вашу справжню адресу. Електронні листи з <label data-l10n-name="firefox-fxa-and-relay-offer-domain">цього сайту</label> все одно надходитимуть до вашої поштової скриньки, але ваша адреса електронної пошти буде прихована.
 firefox-relay-and-fxa-popup-notification-first-sentence = Захистіть свою поштову скриньку від спаму, використовуючи безплатну <label data-l10n-name="firefox-relay-learn-more-url">маску електронної пошти { -relay-brand-name }</label>, щоб приховати вашу справжню адресу. Електронні листи з <label data-l10n-name="firefox-fxa-and-relay-offer-domain">цього сайту</label> все одно надходитимуть до вашої поштової скриньки, але ваша адреса електронної пошти буде прихована.
+firefox-relay-offer-why-to-use-relay-1 = Захистіть свою поштову скриньку від спаму, використовуючи безплатну <label data-l10n-name="firefox-relay-learn-more-url">маску електронної пошти { -relay-brand-name }</label>, щоб приховати вашу справжню адресу. Електронні листи з <label data-l10n-name="firefox-fxa-and-relay-offer-domain">цього сайту</label> все одно надходитимуть до вашої поштової скриньки, але ваша адреса електронної пошти буде прихована.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Щоб скористатися маскою е-пошти, спершу зареєструйтеся або ввійдіть у свій обліковий запис
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Зареєструватись
