@@ -17,3 +17,10 @@ webauthn-specific-passkey-label = Kunci sandi untuk { $domain }
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt = Verifikasi pengguna gagal. Anda memiliki { $retriesLeft } percobaan tersisa. Coba lagi.
 webauthn-uv-invalid-short-prompt = Verifikasi pengguna gagal. Coba lagi.
+
+## WebAuthn prompts
+
+webauthn-allow = Izinkan
+    .accesskey = I
+webauthn-block = Blokir
+    .accesskey = B
