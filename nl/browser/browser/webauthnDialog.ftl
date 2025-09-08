@@ -28,6 +28,39 @@ webauthn-uv-invalid-short-prompt = Gebruikersverificatie mislukt. Probeer het op
 
 ## WebAuthn prompts
 
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = Raak uw beveiligingssleutel aan om door te gaan met { $hostname }.
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = { $hostname } vraagt om uitgebreide informatie over uw beveiligingssleutel, wat van invloed kan zijn op uw privacy.
+webauthn-register-direct-prompt-hint = { -brand-short-name } kan dit voor u anonimiseren, maar de website kan deze sleutel weigeren. Indien geweigerd, kunt u het opnieuw proberen.
+# Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = Meerdere accounts gevonden voor { $hostname }. Selecteer welke u wilt gebruiken of annuleer.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Meerdere apparaten gevonden voor { $hostname }. Selecteer er een.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = Gebruikersverificatie mislukt op { $hostname }. Er zijn geen pogingen meer en uw apparaat is vergrendeld, omdat te vaak de verkeerde pincode is ingevoerd. Het apparaat moet worden geherinitialiseerd.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = Gebruikersverificatie mislukt op { $hostname }. Er zijn te veel mislukte pogingen achter elkaar geprobeerd en pinauthenticatie is tijdelijk geblokkeerd. Uw apparaat heeft een stroomcyclus nodig (loskoppelen en opnieuw inpluggen).
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = Gebruikersverificatie mislukt op { $hostname }. Er waren te veel mislukte pogingen en de ingebouwde gebruikersverificatiemethode is geblokkeerd.
+webauthn-already-registered-prompt = Dit apparaat is al geregistreerd. Probeer een ander apparaat.
+webauthn-cancel = Annuleren
+    .accesskey = A
 webauthn-allow = Toestaan
     .accesskey = T
 webauthn-block = Blokkeren
