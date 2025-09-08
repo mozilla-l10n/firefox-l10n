@@ -261,3 +261,42 @@ custom-avatar-drag-handle =
     .aria-label = Wulkosć přitřihanskeho wobłuka změnić
 barbell-avatar = Hantla
 bike-avatar = Koleso
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Awatar hantle nałožić
+bike-avatar-tooltip =
+    .tooltiptext = Awatar kolesa nałožić
+book-avatar-tooltip =
+    .tooltiptext = Awatar knihi nałožić
+briefcase-avatar-tooltip =
+    .tooltiptext = Awatar listowki nałožić
+picture-avatar-tooltip =
+    .tooltiptext = Awatar wobraza nałožić
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Awatar rjemjesła nałožić
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Awatar globusa nałožić
+diamond-avatar-tooltip =
+    .tooltiptext = Awatar diamanta nałožić
+flower-avatar-tooltip =
+    .tooltiptext = Awatar kwětki nałožić
+folder-avatar-tooltip =
+    .tooltiptext = Awatar rjadowaka nałožić
+hammer-avatar-tooltip =
+    .tooltiptext = Awatar hamora nałožić
+heart-avatar-tooltip =
+    .tooltiptext = Awatar wutroby nałožić
+heart-rate-avatar-tooltip =
+    .tooltiptext = Awatar pukota wutroby nałožić
+clock-avatar-tooltip =
+    .tooltiptext = Awatar časnika nałožić
+leaf-avatar-tooltip =
+    .tooltiptext = Awatar łopjena nałožić
+lightbulb-avatar-tooltip =
+    .tooltiptext = Awatar žehlawki nałožić
+makeup-avatar-tooltip =
+    .tooltiptext = Awatar make-up nałožić
