@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } hat { $count } sosjale-mediatracker tastien
        *[other] { -brand-product-name } hat { $count } sosjale-mediatrackers tastien
     }
-trustpanel-social-tracking-tab-list-header = Dizze websites probearje jo te folgjen:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } hat { $count } cross-site-trackingcookie blokkearre
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } hat { $count } cross-site-trackingcookie tastien
        *[other] { -brand-product-name } hat { $count } cross-site-trackingcookies tastien
     }
-trustpanel-tracking-cookies-tab-list-header = Dizze websites probearje jo te folgjen:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } hat { $count } tracker blokkearre

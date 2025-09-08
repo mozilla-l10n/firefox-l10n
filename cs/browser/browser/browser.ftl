@@ -1696,7 +1696,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [many] { -brand-product-name } povolil { $count } sledovacích prvků sociálních sítí
        *[other] { -brand-product-name } povolil { $count } sledovacích prvků sociálních sítí
     }
-trustpanel-social-tracking-tab-list-header = Tyto stránky se vás snaží sledovat:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } zablokoval { $count } sledovací cookie třetí strany
@@ -1711,7 +1710,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [many] { -brand-product-name } povolil { $count } sledovacích cookies třetích stran
        *[other] { -brand-product-name } povolil { $count } sledovacích cookies třetích stran
     }
-trustpanel-tracking-cookies-tab-list-header = Tyto stránky se vás snaží sledovat:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } zablokoval { $count } sledovací prvek

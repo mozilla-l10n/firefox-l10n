@@ -167,8 +167,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Notandanafn vistað
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Notandanafni bætt við
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Notandanafn vistað
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

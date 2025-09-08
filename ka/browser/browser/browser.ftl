@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } ნებას რთავს სოცქსელის { $count } მეთვალყურეს
        *[other] { -brand-product-name } ნებას რთავს სოცქსელის { $count } მეთვალყურეს
     }
-trustpanel-social-tracking-tab-list-header = მოცემული საიტები ცდილობს თვალის დევნებას:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } ზღუდავს { $count } საიტთაშორის მეთვალყურეს
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } ნებას რთავს { $count } საიტთაშორის მეთვალყურეს
        *[other] { -brand-product-name } ნებას რთავს { $count } საიტთაშორის მეთვალყურეს
     }
-trustpanel-tracking-cookies-tab-list-header = მოცემული საიტები ცდილობს თვალის დევნებას:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } ზღუდავს { $count } მეთვალყურეს

@@ -129,8 +129,6 @@ contextual-manager-passwords-password-already-exists-error-button = انتقل �
 contextual-manager-passwords-update-password-success-heading =
     .heading = حُفظت كلمة السر
 contextual-manager-passwords-update-password-success-button = تمّ
-contextual-manager-passwords-update-username-success-heading =
-    .heading = حُفظ اسم المستخدم
 contextual-manager-passwords-delete-password-success-button = تمّ
 #
 # Radiobutton label to display total number of passwords

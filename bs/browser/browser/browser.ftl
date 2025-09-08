@@ -1486,7 +1486,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [few] { -brand-product-name } je dozvolio { $count } programa za praćenje na društvenim mrežama
        *[other] { -brand-product-name } je dozvolio { $count } programa za praćenje na društvenim mrežama
     }
-trustpanel-social-tracking-tab-list-header = Ove stranice pokušavaju da vas prate:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } je blokirao { $count } međustranični kolačić za praćenje
@@ -1499,7 +1498,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [few] { -brand-product-name } je dozvolio { $count } međustranična kolačića za praćenje
        *[other] { -brand-product-name } je dozvolio { $count } međustraničnih kolačića za praćenje
     }
-trustpanel-tracking-cookies-tab-list-header = Ove stranice pokušavaju da vas prate:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } je blokirao { $count } program za praćenje

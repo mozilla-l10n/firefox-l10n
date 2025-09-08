@@ -167,8 +167,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Gebruikersnaam opgeslagen
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Gebruikersnaam toegevoegd
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Gebruikersnaam opgeslagen
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

@@ -156,8 +156,6 @@ contextual-manager-passwords-password-already-exists-error-button = Va ae passwo
 contextual-manager-passwords-update-password-success-heading =
     .heading = Password salvade
 contextual-manager-passwords-update-password-success-button = Fat
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Non utent salvât
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

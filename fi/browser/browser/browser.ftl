@@ -1496,7 +1496,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } salli { $count } sosiaalisen median seuraimen
        *[other] { -brand-product-name } salli { $count } sosiaalisen median seurainta
     }
-trustpanel-social-tracking-tab-list-header = Nämä sivustot yrittävät seurata sinua:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } esti { $count } sivustorajat ylittävän seurainevästeen
@@ -1507,7 +1506,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } salli { $count } sivustorajat ylittävän seurainevästeen
        *[other] { -brand-product-name } salli { $count } sivustorajat ylittävää seurainevästettä
     }
-trustpanel-tracking-cookies-tab-list-header = Nämä sivustot yrittävät seurata sinua:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } esti { $count } seuraimen

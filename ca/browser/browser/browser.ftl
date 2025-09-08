@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] El { -brand-product-name } ha permès { $count } element de seguiment de xarxes socials
        *[other] El { -brand-product-name } ha permès { $count } elements de seguiment de xarxes socials
     }
-trustpanel-social-tracking-tab-list-header = Aquests llocs us intenten fer seguiment:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] El { -brand-product-name } ha blocat { $count } galeta de seguiment entre llocs
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] El { -brand-product-name } ha permès { $count } galeta de seguiment entre llocs
        *[other] El { -brand-product-name } ha permès { $count } galetes de seguiment entre llocs
     }
-trustpanel-tracking-cookies-tab-list-header = Aquests llocs us intenten fer seguiment:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] El { -brand-product-name } ha blocat { $count } element de seguiment

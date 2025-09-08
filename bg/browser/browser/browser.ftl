@@ -1437,7 +1437,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } разреши { $count } проследяване от социални медии
        *[other] { -brand-product-name } разреши { $count } проследявания от социални медии
     }
-trustpanel-social-tracking-tab-list-header = Следните сайтове се опитват да ви проследяват:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } спря { $count } бисквитка за проследяване в различни сайтове
@@ -1448,7 +1447,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } разреши { $count } проследяваща бисквитка в различни сайтове
        *[other] { -brand-product-name } разреши { $count } проследяващи бисквитки в различни сайтове
     }
-trustpanel-tracking-cookies-tab-list-header = Следните сайтове се опитват да ви проследяват:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } спря { $count } проследяване

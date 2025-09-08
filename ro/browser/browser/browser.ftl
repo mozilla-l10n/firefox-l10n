@@ -1517,7 +1517,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [few] { -brand-product-name } a permis { $count } elemente de urmărire de rețele sociale
        *[other] { -brand-product-name } a permis { $count } de elemente de urmărire de rețele sociale
     }
-trustpanel-social-tracking-tab-list-header = Aceste site-uri încearcă să te urmărească:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } a blocat { $count } cookie de urmărire intersite-uri
@@ -1530,7 +1529,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [few] { -brand-product-name } a permis { $count } cookie-uri de urmărire intersite-uri
        *[other] { -brand-product-name } a permis { $count } de cookie-uri de urmărire intersite-uri
     }
-trustpanel-tracking-cookies-tab-list-header = Aceste site-uri încearcă să te urmărească:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } a blocat { $count } element de urmărire

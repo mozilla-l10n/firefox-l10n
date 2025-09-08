@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Bok
 briefcase-avatar = Portfölj
+clock-avatar = Klocka
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Standardfavoritikon
 diamond-avatar = Diamant
 flower-avatar = Blomma
 folder-avatar = Mapp
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Glob
 hammer-avatar = Hammare
 heart-avatar = Hjärta
 heart-rate-avatar = Hjärtfrekvens
@@ -238,10 +241,12 @@ message-avatar = Meddelande
 musical-note-avatar = Musiknot
 palette-avatar = Palett
 paw-print-avatar = Tassavtryck
+picture-avatar = Bild
 plane-avatar = Flygplan
 # Present refers to a gift box, not the current time period
 present-avatar = Present
 shopping-avatar = Varukorg
+soccer-ball-avatar = Fotboll
 soccer-avatar = Fotboll
 sparkle-single-avatar = Gnistra
 star-avatar = Stjärna
@@ -256,3 +261,66 @@ custom-avatar-drag-handle =
     .aria-label = Ändra storlek på beskärningsyta
 barbell-avatar = Skivstång
 bike-avatar = Cykel
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Använd skivavatar
+bike-avatar-tooltip =
+    .tooltiptext = Använd cykelavatar
+book-avatar-tooltip =
+    .tooltiptext = Använd bokavatar
+briefcase-avatar-tooltip =
+    .tooltiptext = Använd portföljavatar
+picture-avatar-tooltip =
+    .tooltiptext = Använd bildavatar
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Tillämpa hantverksavatar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Använd jordglobavatar
+diamond-avatar-tooltip =
+    .tooltiptext = Lägg till diamond-avatar
+flower-avatar-tooltip =
+    .tooltiptext = Använd blommavatar
+folder-avatar-tooltip =
+    .tooltiptext = Använd mappavatar
+hammer-avatar-tooltip =
+    .tooltiptext = Använd hammare avatar
+heart-avatar-tooltip =
+    .tooltiptext = Använd hjärtaavatar
+heart-rate-avatar-tooltip =
+    .tooltiptext = Använd pulsavatar
+clock-avatar-tooltip =
+    .tooltiptext = Använd klockavatar
+leaf-avatar-tooltip =
+    .tooltiptext = Använd lövavatar
+lightbulb-avatar-tooltip =
+    .tooltiptext = Använd glödlampavatar
+makeup-avatar-tooltip =
+    .tooltiptext = Applicera makeup-avatar
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Använd meddelandeavatar
+musical-note-avatar-tooltip =
+    .tooltiptext = Lägg till avatar för noter
+palette-avatar-tooltip =
+    .tooltiptext = Använd palettavatar
+paw-print-avatar-tooltip =
+    .tooltiptext = Använd tafsprintavatar
+plane-avatar-tooltip =
+    .tooltiptext = Använd planavatar
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Använd nuvarande avatar
+shopping-avatar-tooltip =
+    .tooltiptext = Använd kundvagnsavatar
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Lägg till avatar för fotboll
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Lägg till sparkle-avatar
+star-avatar-tooltip =
+    .tooltiptext = Använd stjärnavatar
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Använd avatar för TV-spelskontroller

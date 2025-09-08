@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] O { -brand-product-name } permitiu { $count } rastreador de mídias sociais
        *[other] O { -brand-product-name } permitiu { $count } rastreadores de mídias sociais
     }
-trustpanel-social-tracking-tab-list-header = Estes sites estão tentando rastrear você:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] O { -brand-product-name } bloqueou { $count } cookie de rastreamento entre sites
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] O { -brand-product-name } permitiu { $count } cookie de rastreamento entre sites
        *[other] O { -brand-product-name } permitiu { $count } cookies de rastreamento entre sites
     }
-trustpanel-tracking-cookies-tab-list-header = Estes sites estão tentando rastrear você:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] O { -brand-product-name } bloqueou { $count } rastreador

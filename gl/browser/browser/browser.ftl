@@ -1429,7 +1429,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } permitiu { $count } rastrexador de redes sociais
        *[other] { -brand-product-name } permitiu { $count } rastrexadores de redes sociais
     }
-trustpanel-social-tracking-tab-list-header = Estes sitios están tentando rastrexarte:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } bloqueou { $count } cookie de seguimento entre sitios
@@ -1440,7 +1439,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } permitiu { $count } cookie de seguimento entre sitios
        *[other] { -brand-product-name } permitiu { $count } cookies de seguimento entre sitios
     }
-trustpanel-tracking-cookies-tab-list-header = Estes sitios están tentando rastrexarte:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } bloqueou { $count } rastrexador

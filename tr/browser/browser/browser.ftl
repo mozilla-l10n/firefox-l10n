@@ -1499,7 +1499,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } { $count } sosyal medya takip koduna izin verdi
        *[other] { -brand-product-name } { $count } sosyal medya takip koduna izin verdi
     }
-trustpanel-social-tracking-tab-list-header = Bu siteler sizi izlemeye çalışıyor:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } { $count } siteler arası takip çerezini engelledi
@@ -1510,7 +1509,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } { $count } siteler arası takip çerezine izin verdi
        *[other] { -brand-product-name } { $count } siteler arası takip çerezine izin verdi
     }
-trustpanel-tracking-cookies-tab-list-header = Bu siteler sizi izlemeye çalışıyor:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } { $count } takip kodunu engelledi

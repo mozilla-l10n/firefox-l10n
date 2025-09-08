@@ -163,8 +163,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = ਵਰਤੋਂਕਾਰ-ਨਾਂ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = ਵਰਤੋਂਕਾਰ-ਨਾਂ ਨੂੰ ਜੋੜਿਆ
-contextual-manager-passwords-update-username-success-heading =
-    .heading = ਵਰਤੋਂਕਾਰ-ਨਾਂ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

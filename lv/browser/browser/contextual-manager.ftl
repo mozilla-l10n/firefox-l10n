@@ -172,8 +172,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Lietotājvārds saglabāts
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Pievienots lietotājvārds
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Lietotājvārds saglabāts
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

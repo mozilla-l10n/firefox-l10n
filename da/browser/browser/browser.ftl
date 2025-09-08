@@ -1498,7 +1498,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } tillod { $count } sporing via sociale medier
        *[other] { -brand-product-name } tillod { $count } sporinger via sociale medier
     }
-trustpanel-social-tracking-tab-list-header = Disse websteder forsøger at spore dig:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blokerede { $count } sporings-cookie på tværs af websteder
@@ -1509,7 +1508,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } tillod { $count } sporings-cookie på tværs af websteder
        *[other] { -brand-product-name } tillod { $count } sporings-cookies på tværs af websteder
     }
-trustpanel-tracking-cookies-tab-list-header = Disse websteder forsøger at spore dig:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blokerede { $count } sporings-mekanisme

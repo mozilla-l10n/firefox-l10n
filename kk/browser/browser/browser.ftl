@@ -1469,7 +1469,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } { $count } әлеуметтік медиа трекерін рұқсат етті
        *[other] { -brand-product-name } { $count } әлеуметтік медиа трекерін рұқсат етті
     }
-trustpanel-social-tracking-tab-list-header = Бұл сайттар сізді қадағалауға тырысуда:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } { $count } сайтаралық бақылау cookie файлын бұғаттады
@@ -1480,7 +1479,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } { $count } сайтаралық бақылау cookie файлын рұқсат етті
        *[other] { -brand-product-name } { $count } сайтаралық бақылау cookie файлын рұқсат етті
     }
-trustpanel-tracking-cookies-tab-list-header = Бұл сайттар сізді қадағалауға тырысуда:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } { $count } трекерді бұғаттады

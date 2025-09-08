@@ -172,8 +172,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Імя карыстальніка захавана
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Імя карыстальніка дададзена
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Імя карыстальніка захавана
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

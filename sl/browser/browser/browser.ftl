@@ -1534,7 +1534,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [few] { -brand-product-name } je dovolil { $count } sledilce družbenih omrežij.
        *[other] { -brand-product-name } je dovolil { $count } sledilcev družbenih omrežij.
     }
-trustpanel-social-tracking-tab-list-header = Ta spletna mesta vam poskušajo slediti:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } je zavrnil { $count } piškotek za sledenje med spletnimi mesti
@@ -1549,7 +1548,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [few] { -brand-product-name } je dovolil { $count } piškotke za sledenje med spletnimi mesti
        *[other] { -brand-product-name } je dovolil { $count } piškotkov za sledenje med spletnimi mesti
     }
-trustpanel-tracking-cookies-tab-list-header = Ta spletna mesta vam poskušajo slediti:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } je zavrnil { $count } sledilca

@@ -1417,7 +1417,5 @@ trustpanel-tracking-description = دون المتعقّبات، قد لا تعم
 trustpanel-insecure-section-header = اتّصالك غير آمن
 trustpanel-insecure-description = البيانات التي ترسلها إلى هذا الموقع غير مُعمّاة، مما قد يعرضها للعرض أو السرقة أو التعديل.
 trustpanel-list-label-tracking-content = المحتوى الذي يتعقّبك
-trustpanel-social-tracking-tab-list-header = تحاول هذه المواقع تتبعك:
-trustpanel-tracking-cookies-tab-list-header = تحاول هذه المواقع تتبعك:
 trustpanel-tracking-content-tab-list-header = تحاول هذه المواقع تتبعك:
 trustpanel-fingerprinter-list-header = تحاول هذه المواقع تبصيمك:

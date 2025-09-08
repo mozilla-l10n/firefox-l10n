@@ -140,8 +140,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Isem n useqdac yettwasekles
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Yettwarna yisem n useqdac
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Isem n useqdac ttwaskelsen
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

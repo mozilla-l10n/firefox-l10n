@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } hat { $count } Social-Media-Tracker erlaubt
        *[other] { -brand-product-name } hat { $count } Social-Media-Tracker erlaubt
     }
-trustpanel-social-tracking-tab-list-header = Diese Websites versuchen, Sie zu verfolgen:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } hat { $count } Cookie zur seitenübergreifenden Aktivitätenverfolgung blockiert
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } hat { $count } Cookie zur seitenübergreifenden Aktivitätenverfolgung erlaubt
        *[other] { -brand-product-name } hat { $count } Cookies zur seitenübergreifenden Aktivitätenverfolgung erlaubt
     }
-trustpanel-tracking-cookies-tab-list-header = Diese Websites versuchen, Sie zu verfolgen:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } hat { $count } Element zur Aktivitätenverfolgung blockiert

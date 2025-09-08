@@ -161,8 +161,6 @@ contextual-manager-passwords-password-already-exists-error-button = Idi na lozin
 contextual-manager-passwords-update-password-success-heading =
     .heading = Lozinka je spremljena
 contextual-manager-passwords-update-password-success-button = Gotovo
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Korisničko ime je spremljeno
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

@@ -1512,7 +1512,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [few] { -brand-product-name } дозволив { $count } елементи стеження соціальних мереж
        *[many] { -brand-product-name } дозволив { $count } елементів стеження соціальних мереж
     }
-trustpanel-social-tracking-tab-list-header = Ці сайти намагаються стежити за вами:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } заблокував { $count } файл cookie для стеження між сайтами
@@ -1525,7 +1524,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [few] { -brand-product-name } дозволив { $count } файли cookie для стеження між сайтами
        *[many] { -brand-product-name } дозволив { $count } файлів cookie для стеження між сайтами
     }
-trustpanel-tracking-cookies-tab-list-header = Ці сайти намагаються стежити за вами:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } заблокував { $count } елемент стеження

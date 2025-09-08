@@ -1518,7 +1518,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [few] { -brand-product-name } дазволіў { $count } трэкеры сацыяльных сетак
        *[many] { -brand-product-name } дазволіў { $count } трэкераў сацыяльных сетак
     }
-trustpanel-social-tracking-tab-list-header = Гэтыя сайты спрабуюць вас асачыць:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } заблакаваў { $count } міжсайтавы кукі сачэння
@@ -1531,7 +1530,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [few] { -brand-product-name } дазволіў { $count } міжсайтавыя кукі сачэння
        *[many] { -brand-product-name } дазволіў { $count } міжсайтавых кукі сачэння
     }
-trustpanel-tracking-cookies-tab-list-header = Гэтыя сайты спрабуюць вас асачыць:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } заблакаваў { $count } трэкер

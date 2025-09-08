@@ -1534,7 +1534,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [few] { -brand-product-name } jo dowólił { $count } pśeslědowaki socialnych medijow
        *[other] { -brand-product-name } jo dowólił { $count } pśeslědowaki socialnych medijow
     }
-trustpanel-social-tracking-tab-list-header = Toś te sedła wopytuju wam slědowaś:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } jo blokěrował { $count } sedła pśesegajucy slědujucy cookie
@@ -1549,7 +1548,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [few] { -brand-product-name } jo dowólił { $count } sedła pśesegajuce slědujuce cookieje
        *[other] { -brand-product-name } jo dowólił { $count } sedła pśesegajucych slědujucych cookiejow
     }
-trustpanel-tracking-cookies-tab-list-header = Toś te sedła wopytuju wam slědowaś:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } jo blokěrował { $count } pśeslědowak

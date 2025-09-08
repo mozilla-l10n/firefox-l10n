@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } allowed { $count } social media tracker
        *[other] { -brand-product-name } allowed { $count } social media trackers
     }
-trustpanel-social-tracking-tab-list-header = These sites are trying to track you:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blocked { $count } cross-site tracking cookie
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } allowed { $count } cross-site tracking cookie
        *[other] { -brand-product-name } allowed { $count } cross-site tracking cookies
     }
-trustpanel-tracking-cookies-tab-list-header = These sites are trying to track you:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blocked { $count } tracker

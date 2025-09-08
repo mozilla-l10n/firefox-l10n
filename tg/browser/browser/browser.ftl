@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] «{ -brand-product-name }» { $count } воситаи пайгирии шабакаҳои иҷтимоиро иҷозат медиҳад
        *[other] «{ -brand-product-name }» { $count } воситаи пайгирии шабакаҳои иҷтимоиро иҷозат медиҳад
     }
-trustpanel-social-tracking-tab-list-header = Сомонаҳои зерин кӯшиш мекунанд, ки шуморо пайгирӣ кунанд:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] «{ -brand-product-name }» { $count } кукии васоити пайгирии байнисомонавиро манъ кард
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] «{ -brand-product-name }» { $count } кукии васоити пайгирии байнисомонавиро иҷозат медиҳад
        *[other] «{ -brand-product-name }» { $count } кукии васоити пайгирии байнисомонавиро иҷозат медиҳад
     }
-trustpanel-tracking-cookies-tab-list-header = Сомонаҳои зерин кӯшиш мекунанд, ки шуморо пайгирӣ кунанд:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] «{ -brand-product-name }» { $count } воситаи пайгириро манъ кард

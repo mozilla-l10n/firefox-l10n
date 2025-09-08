@@ -1498,7 +1498,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } a autorisé { $count } traqueur de réseaux sociaux
        *[other] { -brand-product-name } a autorisé { $count } traqueurs de réseaux sociaux
     }
-trustpanel-social-tracking-tab-list-header = Les sites suivants tentent de vous pister :
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } a bloqué { $count } cookie de pistage intersites
@@ -1509,7 +1508,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } a autorisé { $count } cookie de pistage intersites
        *[other] { -brand-product-name } a autorisé { $count } cookies de pistage intersites
     }
-trustpanel-tracking-cookies-tab-list-header = Les sites suivants tentent de vous pister :
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } a bloqué { $count } traqueur

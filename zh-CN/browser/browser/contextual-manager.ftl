@@ -162,8 +162,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = 用户名已保存
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = 用户名已添加
-contextual-manager-passwords-update-username-success-heading =
-    .heading = 用户名已保存
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

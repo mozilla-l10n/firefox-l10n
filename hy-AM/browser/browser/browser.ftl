@@ -1374,5 +1374,4 @@ trustpanel-list-label-cryptominer =
         [one] { $count } Կրիպտոմայներ
        *[other] { $count } Կրիպտոմայներներ
     }
-trustpanel-tracking-cookies-tab-list-header = Հետևյալ կայքերը փորձում են հետագծել ձեզ՝
 trustpanel-tracking-content-tab-list-header = Հետևյալ կայքերը փորձում են հետևել ձեզ՝

@@ -163,8 +163,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Nomo de uzanto konservita
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Nomo de uzanto aldonita
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Nomo de uzanto konservita
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

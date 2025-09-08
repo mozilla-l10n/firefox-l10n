@@ -1497,7 +1497,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } ਨੇ { $count } ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਟਰੈਕਰ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
        *[other] { -brand-product-name } ਨੇ { $count } ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਟਰੈਕਰਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
     }
-trustpanel-social-tracking-tab-list-header = ਇਹ ਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਟਰੈਕ ਕਰਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀਆਂ ਹਨ:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } ਨੇ { $count } ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
@@ -1508,7 +1507,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } ਨੇ { $count } ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
        *[other] { -brand-product-name } ਨੇ { $count } ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
     }
-trustpanel-tracking-cookies-tab-list-header = ਇਹ ਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਟਰੈਕ ਕਰਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀਆਂ ਹਨ:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } ਨੇ { $count } ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ

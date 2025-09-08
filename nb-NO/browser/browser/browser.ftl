@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } tillot { $count } sporer via sosiale medier
        *[other] { -brand-product-name } tillot { $count } sporere via sosiale medier
     }
-trustpanel-social-tracking-tab-list-header = Disse nettstedene prøver å spore deg:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blokkerte { $count } sporingsinfokapsel på tvers av nettsteder
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } tillot { $count } sporingsinfokapsel på tvers av nettsteder
        *[other] { -brand-product-name } tillot { $count } sporingsinfokapsler på tvers av nettsteder
     }
-trustpanel-tracking-cookies-tab-list-header = Disse nettstedene prøver å spore deg:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blokkerte { $count } sporer

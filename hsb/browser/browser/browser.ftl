@@ -1534,7 +1534,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [few] { -brand-product-name } je { $count } přesćěhowaki socialnych medijow dowolił
        *[other] { -brand-product-name } je { $count } přesćěhowakow socialnych medijow dowolił
     }
-trustpanel-social-tracking-tab-list-header = Tute sydła pospytuja wam slědować:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } je { $count } sydła přesahowacy slědowacy plack zablokował
@@ -1549,7 +1548,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [few] { -brand-product-name } je { $count } sydła přesahowace slědowace placki dowolił
        *[other] { -brand-product-name } je { $count } sydła přesahowacych slědowacych plackow dowolił
     }
-trustpanel-tracking-cookies-tab-list-header = Tute sydła pospytuja wam slědować:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } je { $count } přesćěhowak zablokował

@@ -1518,7 +1518,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [few] { -brand-product-name } zezwolił na { $count } elementy śledzące serwisów społecznościowych
        *[many] { -brand-product-name } zezwolił na { $count } elementów śledzących serwisów społecznościowych
     }
-trustpanel-social-tracking-tab-list-header = Te witryny próbują Cię śledzić:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } zablokował { $count } ciasteczko śledzące między witrynami
@@ -1531,7 +1530,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [few] { -brand-product-name } zezwolił na { $count } ciasteczka śledzące między witrynami
        *[many] { -brand-product-name } zezwolił na { $count } ciasteczek śledzących między witrynami
     }
-trustpanel-tracking-cookies-tab-list-header = Te witryny próbują Cię śledzić:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } zablokował { $count } element śledzący

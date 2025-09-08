@@ -163,8 +163,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Пайдаланушы аты сақталды
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Пайдаланушы аты қосылды
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Пайдаланушы аты сақталды
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

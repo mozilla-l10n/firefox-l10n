@@ -1493,7 +1493,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } leyfði { $count } samfélagsmiðlarekjara
        *[other] { -brand-product-name } leyfði { $count } samfélagsmiðlarekjara
     }
-trustpanel-social-tracking-tab-list-header = Þessi vefsvæði eru að reyna að rekja ferðir þínar:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } lokaði á { $count } rekjara þvert á vefsvæði
@@ -1504,7 +1503,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } leyfði { $count } rekjara þvert á vefsvæði
        *[other] { -brand-product-name } leyfði { $count } rekjara þvert á vefsvæði
     }
-trustpanel-tracking-cookies-tab-list-header = Þessi vefsvæði eru að reyna að rekja ferðir þínar:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } lokaði á { $count } rekjara

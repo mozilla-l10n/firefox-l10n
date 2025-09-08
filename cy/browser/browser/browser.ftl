@@ -1566,7 +1566,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [many] Mae { -brand-product-name } wedi caniatáu { $count } thraciwr cyfryngau cymdeithasol
        *[other] Mae { -brand-product-name } wedi caniatáu { $count } traciwr cyfryngau cymdeithasol
     }
-trustpanel-social-tracking-tab-list-header = Mae'r gwefannau hyn yn ceisio'ch tracio chi:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [zero] Mae { -brand-product-name } wedi rhwystro { $count } cwcis tracio traws-gwefan
@@ -1585,7 +1584,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [many] Mae { -brand-product-name } wedi caniatáu { $count } chwci tracio traws-gwefan
        *[other] Mae { -brand-product-name } wedi caniatáu { $count } cwci tracio traws-gwefan
     }
-trustpanel-tracking-cookies-tab-list-header = Mae'r gwefannau hyn yn ceisio'ch tracio chi:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [zero] Mae { -brand-product-name } wedi rhwystro { $count } tracwyr

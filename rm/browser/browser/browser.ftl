@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } ha permess { $count } fastizader da social media
        *[other] { -brand-product-name } ha permess { $count } fastizaders da social media
     }
-trustpanel-social-tracking-tab-list-header = Questas websites emprovan da ta fastizar:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } ha bloccà { $count } cookie che fastizescha a moda interpaginala
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } ha permess { $count } cookie che fastizescha a moda interpaginala
        *[other] { -brand-product-name } ha permess { $count } cookies che fastizeschan a moda interpaginala
     }
-trustpanel-tracking-cookies-tab-list-header = Questas websites emprovan da ta fastizar:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } ha bloccà { $count } fastizader

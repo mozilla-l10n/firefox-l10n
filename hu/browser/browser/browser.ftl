@@ -1498,7 +1498,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] A { -brand-product-name } engedélyezett { $count } közösségimédia-követőt
        *[other] A { -brand-product-name } engedélyezett { $count } közösségimédia-követőt
     }
-trustpanel-social-tracking-tab-list-header = Ezek a webhelyek próbálják követni Önt:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] A { -brand-product-name } blokkolt { $count } webhelyek közötti nyomkövető sütit
@@ -1509,7 +1508,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] A { -brand-product-name } engedélyezett { $count } webhelyek közötti nyomkövető sütit
        *[other] A { -brand-product-name } engedélyezett { $count } webhelyek közötti nyomkövető sütit
     }
-trustpanel-tracking-cookies-tab-list-header = Ezek a webhelyek próbálják követni Önt:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] A { -brand-product-name } blokkolt { $count } követőt

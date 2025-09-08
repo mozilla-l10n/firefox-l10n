@@ -162,8 +162,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Brukarnamn lagra
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Brukarnamn lagt til
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Brukarnamn lagra
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

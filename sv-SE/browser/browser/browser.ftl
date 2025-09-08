@@ -1334,6 +1334,7 @@ firefox-relay-offer-why-to-use-relay = Våra säkra, lättanvända alias skyddar
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Alla e-postmeddelanden som skickas till dina e-postalias kommer att vidarebefordras till <strong>{ $useremail }</strong> (om du inte bestämmer dig för att blockera dem).
 firefox-relay-offer-legal-notice = Genom att klicka på "Använd e-postalias" godkänner du <label data-l10n-name="tos-url">användarvillkoren</label> och <label data-l10n-name="privacy-url">sekretessmeddelandet</label>.
+firefox-relay-offer-legal-notice-1 = Genom att registrera dig och skapa ett e-postalias godkänner du <label data-l10n-name="tos-url">användarvillkoren</label> och <label data-l10n-name="privacy-url">sekretessmeddelandet</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1495,7 +1496,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } tillät { $count } social mediespårare
        *[other] { -brand-product-name } tillät { $count } sociala mediespårare
     }
-trustpanel-social-tracking-tab-list-header = Dessa webbplatser försöker spåra dig:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blockerade { $count } global spårningskaka
@@ -1506,7 +1506,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } tillät { $count } global spårningskaka
        *[other] { -brand-product-name } tillät { $count } globala spårningskakor
     }
-trustpanel-tracking-cookies-tab-list-header = Dessa webbplatser försöker spåra dig:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blockerade { $count } spårare

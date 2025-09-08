@@ -161,8 +161,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Poruhára réra ñongatupyre
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Poruhára réra juajupyre
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Poruhára réra ñongatupyre
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

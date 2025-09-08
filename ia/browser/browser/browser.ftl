@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } permitteva { $count } traciator de medios social
        *[other] { -brand-product-name } permitteva { $count } traciatores de medios social
     }
-trustpanel-social-tracking-tab-list-header = Iste sitos cerca traciar te:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blocava { $count } traciamento cookie inter-sito
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } permitteva { $count } cookie traciator inter-sitos
        *[other] { -brand-product-name } permitteva { $count } cookies traciator inter-sitos
     }
-trustpanel-tracking-cookies-tab-list-header = Iste sitos cerca traciar te:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blocava { $count } traciator

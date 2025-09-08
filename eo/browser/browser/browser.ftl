@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } permesis { $count } sociretan spurilon
        *[other] { -brand-product-name } permesis { $count } sociretajn spurilojn
     }
-trustpanel-social-tracking-tab-list-header = Tiuj ĉi retejoj klopodas spuri vin:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blokis { $count } interretejan spurilan kuketon
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } permesis { $count } interretejan spurilan kuketon
        *[other] { -brand-product-name } permesis { $count }  interretejajn spurilajn kuketojn
     }
-trustpanel-tracking-cookies-tab-list-header = Tiuj ĉi retejoj klopodas spuri vin:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } blokis { $count } spurilon

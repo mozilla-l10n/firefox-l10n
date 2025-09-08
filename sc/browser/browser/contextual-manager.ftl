@@ -171,8 +171,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Nòmine de utente sarvadu
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Nòmine de utente agiuntu
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Nòmine de utente sarvadu
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

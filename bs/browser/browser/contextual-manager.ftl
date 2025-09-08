@@ -172,8 +172,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Korisničko ime sačuvano
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Korisničko ime je dodano
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Korisničko ime sačuvano
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

@@ -163,8 +163,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = S’ha desat el nom d’usuari
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = S’ha afegit el nom d’usuari
-contextual-manager-passwords-update-username-success-heading =
-    .heading = S’ha desat el nom d’usuari
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

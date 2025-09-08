@@ -1495,7 +1495,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } at permìtidu { $count } sighidura de retes sotziales
        *[other] { -brand-product-name } at permìtidu { $count } sighiduras de retes sotziales
     }
-trustpanel-social-tracking-tab-list-header = Custos sitos sunt chirchende de ti sighire:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } at blocadu { $count } testimòngiu de sighidura intre sitos
@@ -1506,7 +1505,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } at permìtidu { $count } testimòngiu de sighidura intre sitos
        *[other] { -brand-product-name } at permìtidu { $count } testimòngios de sighidura intre sitos
     }
-trustpanel-tracking-cookies-tab-list-header = Custos sitos sunt chirchende de ti sighire:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } at blocadu { $count } sighidura

@@ -177,8 +177,6 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Wužiwarske mjeno je so składowało
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Wužiwarske mjeno je so přidało
-contextual-manager-passwords-update-username-success-heading =
-    .heading = Wužiwarske mjeno je so składowało
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
