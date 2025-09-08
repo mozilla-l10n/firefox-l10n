@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Käyttäjän vahvistus epäonnistui. Sinulla on { $retriesLeft } yritystä jäljellä. Yritä uudelleen.
     }
 webauthn-uv-invalid-short-prompt = Käyttäjän vahvistus epäonnistui. Yritä uudelleen.
+
+## WebAuthn prompts
+
+webauthn-allow = Salli
+    .accesskey = A
+webauthn-block = Estä
+    .accesskey = B
