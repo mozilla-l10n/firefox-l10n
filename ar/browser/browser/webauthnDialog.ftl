@@ -29,3 +29,24 @@ webauthn-user-presence-prompt = المس مفتاح الأمن للمواصلة 
 #  $hostname (String): the origin (website) asking for the extended information.
 webauthn-register-direct-prompt = يطلب الموقع { $hostname } معلومات إضافية تخصّ مفتاح الأمان لديك، وهذا قد يؤثر على خصوصيتك.
 webauthn-register-direct-prompt-hint = يمكن لمتصفّح { -brand-short-name } تجهيل هذه المعلومات، ولكن قد يؤدي ذلك إلى رفض الموقع لهذا المفتاح. يمكنك إعادة المحاولة لو حدث ذلك.
+# Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = عُثر على حسابات متعددة لـ { $hostname }. حدّد الحساب الذي تريد استخدامه أو إلغاؤه.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = عُثر على أجهزة متعددة لـ { $hostname }. يُرجى اختيار جهاز واحد.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = فشل التحقق من المستخدم على { $hostname }. لم يتبقَّ أي محاولات، وقد قُفل جهازك بسبب إدخال رقم تعريف شخصي خاطئ مراتٍ عديدة. يحتاج الجهاز إلى إعادة ضبط.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = فشل التحقق من المستخدم على { $hostname }. كانت هناك محاولات فاشلة كثيرة متتالية، وحُظر استثاق رقم التعريف الشخصي (PIN) مؤقتًا. يحتاج جهازك إلى إعادة تشغيل (فصله وإعادة توصيله).
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = فشل التحقق من المستخدم على { $hostname }. قد تحتاج إلى تعيين رقم تعريف شخصي (PIN) على جهازك.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = فشل التحقق من المستخدم على { $hostname }. كان هناك عدد كبير جدًا من المحاولات الفاشلة، وحُظرت طريقة التحقق المُدمجة من المستخدم.
+webauthn-already-registered-prompt = هذا الجهاز مُسجَّل مُسبقًا. جرِّب جهازًا آخر.
+webauthn-cancel = ألغِ
+    .accesskey = غ
