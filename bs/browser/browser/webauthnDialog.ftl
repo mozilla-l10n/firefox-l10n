@@ -66,3 +66,7 @@ webauthn-uv-blocked-prompt = Verifikacija korisnika nije uspjela na { $hostname 
 webauthn-already-registered-prompt = Ovaj uređaj je već registrovan. Pokušajte s drugim uređajem.
 webauthn-cancel = Otkaži
     .accesskey = c
+webauthn-allow = Dozvoli
+    .accesskey = A
+webauthn-block = Blokiraj
+    .accesskey = B
