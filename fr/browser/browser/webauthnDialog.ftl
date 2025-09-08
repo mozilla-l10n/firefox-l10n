@@ -28,6 +28,18 @@ webauthn-uv-invalid-short-prompt = Échec de la vérification utilisateur. Rées
 
 ## WebAuthn prompts
 
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = { $hostname } demande des informations détaillées sur votre clé de sécurité, ce qui peut avoir des répercussions sur votre vie privée.
+webauthn-register-direct-prompt-hint = { -brand-short-name } peut anonymiser cela pour vous, mais le site web peut refuser cette clé. En cas de refus, vous pouvez réessayer.
 webauthn-allow = Autoriser
     .accesskey = A
 webauthn-block = Bloquer
