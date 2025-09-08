@@ -58,6 +58,12 @@ webauthn-pin-auth-blocked-prompt = A verificação do utilizador falhou em { $ho
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-not-set-prompt = A verificação do utilizador falhou em { $hostname }. Pode ser necessário definir um PIN no seu dispositivo.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = A verificação do utilizador falhou em { $hostname }. Ocorreram muitas tentativas falhadas e o método integrado de verificação do utilizador foi bloqueado.
+webauthn-already-registered-prompt = Este dispositivo já está registado. Tente um dispositivo diferente.
+webauthn-cancel = Cancelar
+    .accesskey = c
 webauthn-allow = Permitir
     .accesskey = P
 webauthn-block = Bloquear
