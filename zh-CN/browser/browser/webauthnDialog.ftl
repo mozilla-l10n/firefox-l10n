@@ -17,3 +17,10 @@ webauthn-specific-passkey-label = { $domain } 的通行密钥
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt = 用户验证失败。您还有 { $retriesLeft } 次尝试机会，请重试。
 webauthn-uv-invalid-short-prompt = 用户验证失败，请重试。
+
+## WebAuthn prompts
+
+webauthn-allow = 允许
+    .accesskey = A
+webauthn-block = 阻止
+    .accesskey = B
