@@ -40,3 +40,28 @@ webauthn-uv-invalid-short-prompt = Averìguu de s'impitadore faddidu. Torra a pr
 #  $hostname (String): the origin (website) asking for the extended information.
 webauthn-register-direct-prompt = { $hostname } rechedet informatziones detalliadas in contu de sa crae de seguresa tua chi podent cumpromìtere sa riservadesa tua.
 webauthn-register-direct-prompt-hint = { -brand-short-name } podet fàghere custa rechesta anònima pro tue, ma su situ diat pòdere refudare sa crae. Si sutzedet, nche podes torrare a proare.
+# Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = Agatados prus contos pro { $hostname }. Sèbera·nde unu de impreare o annulla.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Agatados prus dispositivos pro { $hostname }. Sèbera·nde unu.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = S’averìguu de s’utente no est renèssidu pro { $hostname }. No abarrant intentos e su dispositivu est istadu blocadu, ca est istadu frunidu unu PIN isballiadu tropu bortas. Su dispositivu bolet ripristinadu.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = S’averìguu de s’utente no est renèssidu pro { $hostname }. Sunt faddidos tropu intentos, unu in fatu de s’àteru, e s’autenticatzione cun PIN est istada blocada in manera temporànea. Su dispositivu tuo bolet istudadu e aviadu (disconnete e torra·ddu a pònnere).
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = S’averìguu de s’utente no est renèssidu pro { $hostname }. Diat podet èssere pretzisu a cunfigurare unu PIN in su dispositivu tuo.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = Averìguu de s’utente faddidu in { $hostname }. Ddoe sunt istados tropu intentos faddidos e su mètodu de averìguu integradu de s’utente est istadu blocadu.
+webauthn-already-registered-prompt = Custu dispositivu est giai registradu. Proa·nde unu diferente.
+webauthn-cancel = Annulla
+    .accesskey = a
+webauthn-allow = Permite
+    .accesskey = A
+webauthn-block = Bloca
+    .accesskey = B
