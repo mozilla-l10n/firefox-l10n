@@ -271,3 +271,5 @@ book-avatar-tooltip =
     .tooltiptext = החלת תמונה מייצגת של ספר
 briefcase-avatar-tooltip =
     .tooltiptext = החלת תמונה מייצגת של מזוודה
+picture-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של תמונה

@@ -227,8 +227,6 @@ default-favicon-avatar = Standardfavoritikon
 diamond-avatar = Diamant
 flower-avatar = Blomma
 folder-avatar = Mapp
-# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-globe-avatar = Glob
 hammer-avatar = Hammare
 heart-avatar = Hjärta
 heart-rate-avatar = Hjärtfrekvens
@@ -241,12 +239,10 @@ message-avatar = Meddelande
 musical-note-avatar = Musiknot
 palette-avatar = Palett
 paw-print-avatar = Tassavtryck
-picture-avatar = Bild
 plane-avatar = Flygplan
 # Present refers to a gift box, not the current time period
 present-avatar = Present
 shopping-avatar = Varukorg
-soccer-ball-avatar = Fotboll
 soccer-avatar = Fotboll
 sparkle-single-avatar = Gnistra
 star-avatar = Stjärna

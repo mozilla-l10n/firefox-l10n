@@ -1269,6 +1269,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = מידע נוסף
 content-blocking-etp-standard-tcp-title = כולל הגנת עוגיות מלאה, תכונת הפרטיות העוצמתית ביותר שלנו אי פעם
 content-blocking-warning-title = לתשומת לבך!
 content-blocking-and-isolating-etp-warning-description-3 = הגדרה זו עלולה לגרום לאתרים מסוימים לא להציג תוכן או לתפקד כראוי. אנו מספקים חריגות אופציונליות עבור אתרים שאנו יודעים שעשויים להיות מושפעים מהתצורה שלך. כדי להפחית את הסיכוי לאתרים שבורים, יש לאפשר את החריגות האלו. אם אתר נראה שבור, ניתן לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן ולדווח על הבעיה כדי שנוכל לסייע לתקן אותה עבור כולם.
+content-blocking-warning-title-2 = ייתכן שחלק מהאתרים לא יעבדו כשורה כשהגנת מעקב מחמירה פעילה
 content-blocking-and-isolating-etp-warning-description-2 = הגדרה זו עלולה לגרום לאתרים מסויימים שלא להציג תוכן או שלא לעבוד כראוי. אם נראה שאתר מסויים שבור, באפשרותך לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן.
 content-blocking-warning-learn-how = מידע נוסף
 content-blocking-baseline-exceptions =
