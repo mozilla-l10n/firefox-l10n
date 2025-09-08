@@ -25,6 +25,14 @@ firefox-relay-opt-in-title-1 = Protegiu la vostra adreça electrònica:
 firefox-relay-opt-in-subtitle-1 = Utilitza una màscara d'adreça electrònica del { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Utilitzeu una màscara d'adreça electrònica
 firefox-relay-use-mask-title = Utilitza una màscara d'adreça electrònica del { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Eviteu el correu brossa amb una màscara d'adreça electrònica gratuïta
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Amagueu la vostra adreça electrònica real
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Obteniu una màscara d'adreça electrònica gratuïta
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Protegiu la vostra safata d'entrada del correu brossa
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Utilitza una màscara d'adreça electrònica
     .accesskey = U
@@ -34,6 +42,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ara no
     .accesskey = n
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Inicia la sessió al { -brand-product-name } i utilitza la màscara
+    .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = No tornis a mostrar-ho
+    .accesskey = D
 
 ## The "basic-info" variation of the Relay offer popup
 
