@@ -260,3 +260,14 @@ custom-avatar-drag-handle =
     .aria-label = שינוי גודל אזור החיתוך
 barbell-avatar = משקולת
 bike-avatar = אופניים
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של משקולת
+bike-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של אופניים
+book-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של ספר
+briefcase-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של מזוודה
