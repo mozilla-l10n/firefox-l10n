@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Staðfesting notanda mistókst. Þú átt { $retriesLeft } tilraunir eftir. Reyndu aftur.
     }
 webauthn-uv-invalid-short-prompt = Staðfesting notanda mistókst. Reyndu aftur.
+
+## WebAuthn prompts
+
+webauthn-allow = Heimila
+    .accesskey = A
+webauthn-block = Loka á
+    .accesskey = B
