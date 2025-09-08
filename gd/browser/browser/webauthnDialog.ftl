@@ -19,6 +19,18 @@ webauthn-pin-required-prompt = Cuir a-steach am PIN airson an uidheim agad.
 # Variables:
 #  $hostname (String): the origin (website) asking for the security key.
 webauthn-user-presence-prompt = Suath ris an iuchair tèarainteachd agad a leantainn air adhart le { $hostname }.
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = Tha { $hostname } ag iarraidh an fhiosrachaidh leudaichte mun iuchair tèarainteachd agad agus dh’fhaoidte gum bi buaidh aige seo air do phrìobhaideachd.
+webauthn-register-direct-prompt-hint = ’S urrainn dha { -brand-short-name } seo a neo-ainmeachadh dhut ach dh’fhaoidte gun diùlt an làrach-in an iuchair seo. Ma thèid a dhiùltadh, ’s urrainn dhut feuchainn ris a-rithist.
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
 webauthn-select-sign-result-prompt = Chaidh iomadh cunntas a lorg airson { $hostname }. Tagh am fear a tha thu airson cleachdadh no sguir dheth.
