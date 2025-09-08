@@ -20,3 +20,13 @@ webauthn-uv-invalid-long-prompt =
        *[other] No s'ha pogut verificar l'usuari. Us queden { $retriesLeft } intents. Torneu-ho a provar.
     }
 webauthn-uv-invalid-short-prompt = No s'ha pogut verificar l'usuari. Torneu-ho a provar.
+
+## WebAuthn prompts
+
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = Toqueu la clau de seguretat per continuar a { $hostname }.
+webauthn-allow = Permet
+    .accesskey = P
+webauthn-block = Bloca
+    .accesskey = B
