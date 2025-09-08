@@ -227,6 +227,8 @@ default-favicon-avatar = Προεπιλεγμένο εικονίδιο
 diamond-avatar = Διαμάντι
 flower-avatar = Λουλούδι
 folder-avatar = Φάκελος
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Υδρόγειος σφαίρα
 hammer-avatar = Σφυρί
 heart-avatar = Καρδιά
 heart-rate-avatar = Καρδιακός ρυθμός
@@ -259,3 +261,66 @@ custom-avatar-drag-handle =
     .aria-label = Αλλαγή μεγέθους περιοχής περικοπής
 barbell-avatar = Μπάρα
 bike-avatar = Ποδήλατο
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας μπάρας
+bike-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας ποδηλάτου
+book-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας βιβλίου
+briefcase-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας χαρτοφύλακα
+picture-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας φωτογραφίας
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας χειροτεχνιών
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας υδρογείου σφαίρας
+diamond-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας διαμαντιού
+flower-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας λουλουδιού
+folder-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας φακέλου
+hammer-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας σφυριού
+heart-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας καρδιάς
+heart-rate-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας καρδιακού ρυθμού
+clock-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας ρολογιού
+leaf-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας φύλλου
+lightbulb-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας λαμπτήρα
+makeup-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας μακιγιάζ
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας μηνύματος
+musical-note-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας μουσικής νότας
+palette-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας παλέτας
+paw-print-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας πατημασιάς ζώου
+plane-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας αεροπλάνου
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας δώρου
+shopping-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας καλαθιού αγορών
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας μπάλας ποδοσφαίρου
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας λάμψης
+star-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας αστεριού
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Εφαρμογή εικόνας χειριστηρίου βιντεοπαιχνιδιού
