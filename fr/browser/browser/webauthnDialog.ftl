@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Échec de la vérification utilisateur. { $retriesLeft } tentatives restantes. Réessayez.
     }
 webauthn-uv-invalid-short-prompt = Échec de la vérification utilisateur. Réessayez.
+
+## WebAuthn prompts
+
+webauthn-allow = Autoriser
+    .accesskey = A
+webauthn-block = Bloquer
+    .accesskey = B
