@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Gebruikersverificatie mislukt. U hebt nog { $retriesLeft } pogingen over. Probeer het opnieuw.
     }
 webauthn-uv-invalid-short-prompt = Gebruikersverificatie mislukt. Probeer het opnieuw.
+
+## WebAuthn prompts
+
+webauthn-allow = Toestaan
+    .accesskey = T
+webauthn-block = Blokkeren
+    .accesskey = B
