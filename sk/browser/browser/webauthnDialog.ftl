@@ -29,3 +29,18 @@ webauthn-uv-invalid-long-prompt =
        *[other] Overenie používateľa zlyhalo. Zostáva vám { $retriesLeft } pokusov. Skúste to znova.
     }
 webauthn-uv-invalid-short-prompt = Overenie používateľa zlyhalo. Skúste to znova.
+
+## WebAuthn prompts
+
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = Stránka { $hostname } požaduje rozšírené informácie o vašom bezpečnostnom kľúči, čo môže ovplyvniť vaše súkromie.
+webauthn-register-direct-prompt-hint = { -brand-short-name } to môže za vás anonymizovať, ale stránka môže takýto kľúč odmietnuť. V prípade odmietnutia to môžete skúsiť znova.
