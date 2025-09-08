@@ -99,4 +99,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> שיתו�
 about-logging-upload-error = אירעה שגיאה בעת העלאת הפרופיל: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = אירעה שגיאה בעת אחסון הפרופיל שהועלה: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = אירעה שגיאה בעת שמירת הקובץ: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = פרופיל { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = פרופילים שהועלו
+about-logging-no-uploaded-profiles = עדיין לא הועלו פרופילים.
+about-logging-delete-uploaded-profile = מחיקה
+about-logging-view-uploaded-profile = צפייה בפרופיל
+about-logging-delete-profile-confirm-title = מחיקת פרופיל
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = האם ברצונך למחוק את הפרופיל ״{ $profileName }״? לא ניתן לבטל פעולה זו.
+about-logging-deleting-profile = מתבצעת מחיקה…
