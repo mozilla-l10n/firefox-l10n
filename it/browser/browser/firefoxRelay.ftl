@@ -90,3 +90,4 @@ firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-p
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Successivo
     .accesskey = S
+

@@ -125,3 +125,4 @@ about-logging-delete-profile-confirm-title = Elimina profilo
 #   $profileName (string) - The name of the profile being deleted.
 about-logging-delete-profile-confirm = Eliminare il profilo “{ $profileName }”? Questa operazione non può essere annullata.
 about-logging-deleting-profile = Eliminazione in corso…
+
