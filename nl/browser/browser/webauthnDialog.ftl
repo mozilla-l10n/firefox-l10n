@@ -57,6 +57,9 @@ webauthn-device-blocked-prompt = Gebruikersverificatie mislukt op { $hostname }.
 webauthn-pin-auth-blocked-prompt = Gebruikersverificatie mislukt op { $hostname }. Er zijn te veel mislukte pogingen achter elkaar geprobeerd en pinauthenticatie is tijdelijk geblokkeerd. Uw apparaat heeft een stroomcyclus nodig (loskoppelen en opnieuw inpluggen).
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = Gebruikersverificatie op { $hostname } mislukt. Mogelijk moet u een pincode instellen op uw apparaat.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
 webauthn-uv-blocked-prompt = Gebruikersverificatie mislukt op { $hostname }. Er waren te veel mislukte pogingen en de ingebouwde gebruikersverificatiemethode is geblokkeerd.
 webauthn-already-registered-prompt = Dit apparaat is al geregistreerd. Probeer een ander apparaat.
 webauthn-cancel = Annuleren
