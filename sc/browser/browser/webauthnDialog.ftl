@@ -28,6 +28,9 @@ webauthn-uv-invalid-short-prompt = Averìguu de s'impitadore faddidu. Torra a pr
 
 ## WebAuthn prompts
 
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = Toca sa crae tua de seguresa pro sighire cun { $hostname }.
 # The website is asking for extended information about your
 # hardware authenticator that shouldn't be generally necessary. Permitting
 # this is safe if you only use one account at this website. If you have
