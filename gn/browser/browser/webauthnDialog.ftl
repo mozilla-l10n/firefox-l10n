@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Pe putuhára jehechajey ndoikói. Opyta ndéve { $retriesLeft } ejapo hag̃ua. Eha’ãjey ag̃ave.
     }
 webauthn-uv-invalid-short-prompt = Poruhára rechajey ndoikói. Eha’ã ag̃ave.
+
+## WebAuthn prompts
+
+webauthn-allow = Moneĩ
+    .accesskey = A
+webauthn-block = Joko
+    .accesskey = B
