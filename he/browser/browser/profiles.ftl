@@ -165,7 +165,7 @@ hammer-avatar-alt =
 heart-avatar-alt =
     .alt = לב
 heart-rate-avatar-alt =
-    .alt = לב
+    .alt = קצב לב
 history-avatar-alt =
     .alt = היסטוריה
 leaf-avatar-alt =
@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = ספר
 briefcase-avatar = מזוודה
+clock-avatar = שעון
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = משטח ציור
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -230,7 +231,7 @@ folder-avatar = תיקייה
 globe-avatar = גלובוס
 hammer-avatar = פטיש
 heart-avatar = לב
-heart-rate-avatar = לב
+heart-rate-avatar = קצב לב
 history-avatar = היסטוריה
 leaf-avatar = עלה
 lightbulb-avatar = נורה
@@ -273,3 +274,19 @@ briefcase-avatar-tooltip =
     .tooltiptext = החלת תמונה מייצגת של מזוודה
 picture-avatar-tooltip =
     .tooltiptext = החלת תמונה מייצגת של תמונה
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של כפתור
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של גלובוס
+diamond-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של יהלום
+flower-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של פרח
+folder-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של תיקייה
+hammer-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של פטיש
+heart-avatar-tooltip =
+    .tooltiptext = החלת תמונה מייצגת של לב

@@ -1270,10 +1270,14 @@ content-blocking-etp-standard-tcp-title = כולל הגנת עוגיות מלא�
 content-blocking-warning-title = לתשומת לבך!
 content-blocking-and-isolating-etp-warning-description-3 = הגדרה זו עלולה לגרום לאתרים מסוימים לא להציג תוכן או לתפקד כראוי. אנו מספקים חריגות אופציונליות עבור אתרים שאנו יודעים שעשויים להיות מושפעים מהתצורה שלך. כדי להפחית את הסיכוי לאתרים שבורים, יש לאפשר את החריגות האלו. אם אתר נראה שבור, ניתן לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן ולדווח על הבעיה כדי שנוכל לסייע לתקן אותה עבור כולם.
 content-blocking-warning-title-2 = ייתכן שחלק מהאתרים לא יעבדו כשורה כשהגנת מעקב מחמירה פעילה
-content-blocking-and-isolating-etp-warning-description-2 = הגדרה זו עלולה לגרום לאתרים מסויימים שלא להציג תוכן או שלא לעבוד כראוי. אם נראה שאתר מסויים שבור, באפשרותך לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן.
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = ‏{ -brand-short-name } ממליץ להשתמש בהגדרות ״תיקון בעיות באתרים״ כדי להפחית תכונות ותוכן שבורים באתרים. אם נראה שאתר מסוים לא פועל כשורה, ניתן לנסות לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן.
+content-blocking-and-isolating-etp-warning-description-2 = הגדרה זו עלולה לגרום לאתרים מסוימים שלא להציג תוכן או שלא לעבוד כראוי. אם נראה שאתר מסוים שבור, באפשרותך לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן.
 content-blocking-warning-learn-how = מידע נוסף
 content-blocking-baseline-exceptions =
     .label = לאפשר ל־{ -brand-short-name } להחיל באופן אוטומטי חריגות הנדרשות כדי להימנע משבירה של אתרים.
+content-blocking-baseline-exceptions-2 =
+    .label = מסייע בטעינת אתרים ותכונות על־ידי ביטול חסימה של אלמנטים חיוניים בלבד שעשויים להכיל רכיבי מעקב. זה מכסה את רוב הבעיות הנפוצות.
 content-blocking-convenience-exceptions =
     .label = להחיל באופן אוטומטי גם חריגות הנדרשות לתקן בעיות קלות ולהפוך תכונות נוחיות לזמינות.
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)

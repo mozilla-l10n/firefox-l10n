@@ -150,7 +150,7 @@ genai-onboarding-gemini-analyze = ניתוח תמונות (בחינם) ומסמ�
 genai-onboarding-gemini-price = אפשרויות בחינם ובתשלום; נדרש חשבון
 genai-onboarding-huggingchat-generate = יצירת טקסט וקוד
 genai-onboarding-huggingchat-switch = מעבר בין סט מגוון של דגמים פתוחים
-genai-onboarding-huggingchat-price-2 = בחינם; נדרש חשבון לאחר מספר מסויים של בקשות
+genai-onboarding-huggingchat-price-2 = בחינם; נדרש חשבון לאחר מספר מסוים של בקשות
 genai-onboarding-lechat-generate = יצירת טקסט וקוד
 genai-onboarding-lechat-price = בחינם, נדרש חשבון
 
