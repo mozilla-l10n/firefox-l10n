@@ -47,6 +47,15 @@ webauthn-register-direct-prompt-hint = Το { -brand-short-name } μπορεί �
 #  $hostname (String): the origin (website) for which an account needs to be selected.
 webauthn-select-sign-result-prompt = Βρέθηκαν πολλαπλοί λογαριασμοί για το { $hostname }. Επιλέξτε έναν για χρήση ή κάντε ακύρωση.
 # Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Βρέθηκαν πολλαπλές συσκευές για το { $hostname }. Επιλέξτε μία.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = Η επαλήθευση χρήστη απέτυχε στο { $hostname }. Δεν απομένουν προσπάθειες και η συσκευή σας έχει κλειδωθεί, επειδή εισήχθη εσφαλμένο PIN πάρα πολλές φορές. Η συσκευή απαιτεί επαναφορά.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = Η επαλήθευση χρήστη απέτυχε στο { $hostname }. Έγιναν πολλές αποτυχημένες προσπάθειες στη σειρά και η ταυτοποίηση μέσω PIN έχει αποκλειστεί προσωρινά. Η συσκευή σας απαιτεί κύκλο τροφοδοσίας (αποσύνδεση από την παροχή ρεύματος και εκ νέου σύνδεση).
+# Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-not-set-prompt = Η επαλήθευση χρήστη απέτυχε στο { $hostname }. Ίσως χρειάζεται να ορίσετε ένα PIN στη συσκευή σας.
 # Variables:
