@@ -62,6 +62,8 @@ webauthn-pin-not-set-prompt = { $hostname } sitesinde kullanıcı doğrulaması 
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-uv-blocked-prompt = { $hostname } üzerinde kullanıcı doğrulaması başarısız oldu. Çok fazla başarısız deneme yapıldığı için yerleşik kullanıcı doğrulama yöntemi engellendi.
 webauthn-already-registered-prompt = Bu cihaz zaten kayıtlı. Başka bir cihaz deneyin.
+webauthn-cancel = Vazgeç
+    .accesskey = a
 webauthn-allow = İzin ver
     .accesskey = z
 webauthn-block = Engelle
