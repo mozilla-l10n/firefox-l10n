@@ -31,6 +31,18 @@ webauthn-uv-invalid-short-prompt = Falló la verificación de usuario. Pruebe nu
 # Variables:
 #  $hostname (String): the origin (website) asking for the security key.
 webauthn-user-presence-prompt = Toque su clave de seguridad para continuar con { $hostname }.
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = { $hostname } solicita información ampliada sobre su llave de seguridad, lo que puede afectar su privacidad.
+webauthn-register-direct-prompt-hint = { -brand-short-name } puede anonimizar esto por usted, pero el sitio web puede rechazar esta clave. Si se rechaza, puede intentarlo de nuevo.
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
 webauthn-select-sign-result-prompt = Se encontraron múltiples cuentas para { $hostname }. Seleccione cual usar o cancelar.
