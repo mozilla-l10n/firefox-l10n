@@ -52,3 +52,7 @@ webauthn-uv-blocked-prompt = Falló la verificación de usuario en { $hostname }
 webauthn-already-registered-prompt = Este dispositivo ya está registrado. Intente un dispositivo diferente.
 webauthn-cancel = Cancelar
     .accesskey = c
+webauthn-allow = Permitir
+    .accesskey = e
+webauthn-block = Bloquear
+    .accesskey = B
