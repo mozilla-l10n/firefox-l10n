@@ -102,3 +102,23 @@ about-logging-upload-error = Une erreur s’est produite lors de l’envoi du pr
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Une erreur s’est produite lors de l’enregistrement du fichier : { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Profils envoyés
+about-logging-no-uploaded-profiles = Aucun profil n’a encore été envoyé.
+about-logging-delete-uploaded-profile = Supprimer
+about-logging-view-uploaded-profile = Afficher le profil
+about-logging-delete-profile-confirm-title = Supprimer le profil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Voulez-vous vraiment supprimer le profil « { $profileName } » ? Cette action est irréversible.
+about-logging-deleting-profile = Suppression…

@@ -866,9 +866,9 @@ urlbar-result-dates-countdown-range =
 #   $daysUntilEnd (integer) - The number of days until the event ends.
 urlbar-result-dates-ongoing =
     { $daysUntilEnd ->
-        [one] { $name } · Kończy się za { $daysUntilStart } dzień
-        [few] { $name } · Kończy się za { $daysUntilStart } dni
-       *[many] { $name } · Kończy się za { $daysUntilStart } dni
+        [one] { $name } · Kończy się za { $daysUntilEnd } dzień
+        [few] { $name } · Kończy się za { $daysUntilEnd } dni
+       *[many] { $name } · Kończy się za { $daysUntilEnd } dni
     }
 # The name of an event and a note that it is happening today separated by a
 # middot.
