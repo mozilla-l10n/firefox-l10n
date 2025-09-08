@@ -17,3 +17,10 @@ webauthn-specific-passkey-label = Passkey cho { $domain }
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt = Xác minh người dùng không thành công. Bạn còn { $retriesLeft } lần thử. Hãy thử lại.
 webauthn-uv-invalid-short-prompt = Xác minh người dùng không thành công. Hãy thử lại.
+
+## WebAuthn prompts
+
+webauthn-allow = Cho phép
+    .accesskey = A
+webauthn-block = Chặn
+    .accesskey = B
