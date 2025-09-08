@@ -44,3 +44,7 @@ webauthn-uv-invalid-short-prompt = Overenie používateľa zlyhalo. Skúste to z
 #  $hostname (String): the origin (website) asking for the extended information.
 webauthn-register-direct-prompt = Stránka { $hostname } požaduje rozšírené informácie o vašom bezpečnostnom kľúči, čo môže ovplyvniť vaše súkromie.
 webauthn-register-direct-prompt-hint = { -brand-short-name } to môže za vás anonymizovať, ale stránka môže takýto kľúč odmietnuť. V prípade odmietnutia to môžete skúsiť znova.
+webauthn-allow = Povoliť
+    .accesskey = o
+webauthn-block = Zakázať
+    .accesskey = k
