@@ -25,3 +25,12 @@ webauthn-uv-invalid-long-prompt =
        *[other] Fallou a verificación do usuario. Quedan { $retriesLeft } intentos. Ténteo de novo.
     }
 webauthn-uv-invalid-short-prompt = Fallou a verificación do usuario. Ténteo de novo.
+
+## WebAuthn prompts
+
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = Fallou a verificación do usuario en { $hostname }. Houbo demasiados intentos errados e bloqueouse o método de verificación do usuario integrado.
+webauthn-already-registered-prompt = Este dispositivo xa está rexistrado. Probe cun dispositivo diferente.
+webauthn-cancel = Cancelar
+    .accesskey = c
