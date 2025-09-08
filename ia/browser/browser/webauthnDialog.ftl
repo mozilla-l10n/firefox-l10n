@@ -54,6 +54,9 @@ webauthn-select-device-prompt = Plure apparatos trovate pro { $hostname }. Elige
 webauthn-device-blocked-prompt = Le verification del usator falleva in { $hostname }. Il non ha plus tentativas disponibile e tu apparato ha essite blocate perque le PIN errate era fornite troppe vices. Le apparato besonia de esser reinitiate.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = Le verification del usator ha fallite sur { $hostname }. Il habeva troppo de tentativas fallite in sequentia e le authentication per PIN ha essite temporarimente blocate. Tu apparato require un cyclo de currente (disconnecte lo del prisa e reconnecte lo).
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-not-set-prompt = Verification usator fallite sur { $hostname }. Il poterea besoniar predefinir un PIN sur le apparato.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
@@ -61,3 +64,7 @@ webauthn-uv-blocked-prompt = Verification del usator fallite sur { $hostname }. 
 webauthn-already-registered-prompt = Iste apparato es jam registrate. Tenta uno differente.
 webauthn-cancel = Cancellar
     .accesskey = c
+webauthn-allow = Permitter
+    .accesskey = A
+webauthn-block = Blocar
+    .accesskey = B
