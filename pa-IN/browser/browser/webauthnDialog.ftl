@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] ਵਰਤੋਂਕਾਰ ਤਸਦੀਕੀਕਰਨ ਅਸਫ਼ਲ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ { $retriesLeft } ਕੋਸ਼ਿਸ਼ਾਂ ਬਾਕੀ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
     }
 webauthn-uv-invalid-short-prompt = ਵਰਤੋਂਕਾਰ ਤਸਦੀਕੀਕਰਨ ਅਸਫ਼ਲ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+
+## WebAuthn prompts
+
+webauthn-allow = ਮਨਜ਼ੂਰ
+    .accesskey = A
+webauthn-block = ਪਾਬੰਦੀ
+    .accesskey = B
