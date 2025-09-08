@@ -27,3 +27,10 @@ webauthn-uv-invalid-long-prompt =
        *[many] Не вдалося перевірити користувача. У вас залишилося { $retriesLeft } спроб.
     }
 webauthn-uv-invalid-short-prompt = Помилка перевірки користувача. Повторіть спробу.
+
+## WebAuthn prompts
+
+webauthn-allow = Дозволити
+    .accesskey = о
+webauthn-block = Блокувати
+    .accesskey = Б
