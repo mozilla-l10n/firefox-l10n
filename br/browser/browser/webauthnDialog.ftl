@@ -5,3 +5,8 @@
 webauthn-pin-invalid-short-prompt = Kod PIN direizh. Klaskit en-dro.
 webauthn-pin-required-prompt = Skrivit PIN ho trevnad mar plij.
 webauthn-select-sign-result-unknown-account = Kont dianav
+
+## WebAuthn prompts
+
+webauthn-cancel = Nullañ
+    .accesskey = N
