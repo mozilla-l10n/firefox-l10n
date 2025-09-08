@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] მომხმარებლის დამოწმება ვერ მოხერხდა. დარჩენილია { $retriesLeft } მცდელობა. კვლავ სცადეთ.
     }
 webauthn-uv-invalid-short-prompt = მომხმარებლის დამოწმება ვერ მოხერხდა. კვლავ სცადეთ.
+
+## WebAuthn prompts
+
+webauthn-allow = ნებართვა
+    .accesskey = ნ
+webauthn-block = აკრძალვა
+    .accesskey = ა
