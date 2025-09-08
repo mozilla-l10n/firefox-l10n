@@ -20,6 +20,21 @@ webauthn-uv-invalid-short-prompt = 用户验证失败，请重试。
 
 ## WebAuthn prompts
 
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = 请触摸您的安全密钥以继续使用 { $hostname }。
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = { $hostname } 请求您的安全密钥的扩展信息，这可能会影响您的隐私。
+webauthn-register-direct-prompt-hint = { -brand-short-name } 可将此信息匿名化，但网站可能会拒绝此密钥。若被拒绝，您可以重试。
 webauthn-allow = 允许
     .accesskey = A
 webauthn-block = 阻止
