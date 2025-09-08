@@ -32,6 +32,12 @@ webauthn-uv-invalid-short-prompt = Preverjanje uporabnika ni uspelo. Poskusite z
 
 ## WebAuthn prompts
 
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = Preverjanje uporabnika na { $hostname } ni uspelo. Bilo je preveč neuspelih poskusov in vgrajena metoda za preverjanje uporabnika je bila zavrnjena.
+webauthn-already-registered-prompt = Ta naprava je že registrirana. Poskusite z drugo napravo.
+webauthn-cancel = Prekliči
+    .accesskey = p
 webauthn-allow = Dovoli
     .accesskey = D
 webauthn-block = Prepovej
