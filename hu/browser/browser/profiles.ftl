@@ -211,7 +211,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = Kerékpár
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Könyv
 briefcase-avatar = Aktatáska

@@ -44,6 +44,6 @@ profiles-system-theme = Системна
 shopping-avatar-alt =
     .alt = Количка за пазаруване
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 shopping-avatar = Количка за пазаруване

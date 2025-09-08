@@ -125,7 +125,7 @@ star-avatar-alt =
 custom-avatar-alt =
     .alt = Власний аватар
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Книга
 briefcase-avatar = Портфель

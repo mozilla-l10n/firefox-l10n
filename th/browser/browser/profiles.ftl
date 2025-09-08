@@ -189,7 +189,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = จักรยาน
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = หนังสือ
 briefcase-avatar = กระเป๋าเอกสาร

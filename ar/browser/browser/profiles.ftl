@@ -76,6 +76,6 @@ profiles-system-theme = النظام
 custom-avatar-alt =
     .alt = صورة رمزية مخصّصة
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 custom-avatar = صورة رمزية مخصّصة

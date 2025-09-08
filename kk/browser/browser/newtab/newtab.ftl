@@ -559,9 +559,6 @@ newtab-download-mobile-highlight-body-variant-c = { -brand-product-name } бра
 newtab-download-mobile-highlight-image =
     .aria-label = Мобильді { -brand-product-name } жүктеп алу үшін QR коды
 
-## Strings for shortcuts highlight
-
-
 ## Strings for reporting ads and content
 
 newtab-report-ads-reason-not-interested =

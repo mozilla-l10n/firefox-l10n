@@ -108,7 +108,7 @@ shopping-avatar-alt =
 star-avatar-alt =
     .alt = Isteddu
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Libru
 briefcase-avatar = Valìgia

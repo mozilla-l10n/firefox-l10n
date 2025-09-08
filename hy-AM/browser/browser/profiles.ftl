@@ -93,7 +93,7 @@ profiles-marigold-theme-2 = Նարգիզ դեղին
 book-avatar-alt =
     .alt = Գիրք
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 shopping-avatar = Զամբյուղ
 star-avatar = Աստղ

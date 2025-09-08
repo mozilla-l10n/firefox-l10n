@@ -125,7 +125,7 @@ star-avatar-alt =
 custom-avatar-alt =
     .alt = Avatar personalizât
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Libri
 briefcase-avatar = Valisute

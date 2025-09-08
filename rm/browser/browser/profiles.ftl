@@ -114,7 +114,7 @@ shopping-avatar-alt =
 star-avatar-alt =
     .alt = Staila
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Cudesch
 briefcase-avatar = Valischetta

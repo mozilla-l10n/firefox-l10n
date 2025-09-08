@@ -90,6 +90,6 @@ profiles-system-theme = سیستم
 book-avatar-alt =
     .alt = کتاب
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = کتاب

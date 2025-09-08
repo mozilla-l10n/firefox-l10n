@@ -174,7 +174,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = Bicikl
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Knjiga
 briefcase-avatar = Aktovka

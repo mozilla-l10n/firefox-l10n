@@ -211,7 +211,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = Дучарха
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Китоб
 briefcase-avatar = Ҷузвгир

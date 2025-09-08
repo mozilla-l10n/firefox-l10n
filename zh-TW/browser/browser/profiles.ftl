@@ -211,7 +211,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = 單車
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = 書本
 briefcase-avatar = 公事包

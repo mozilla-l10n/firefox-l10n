@@ -98,7 +98,7 @@ shopping-avatar-alt =
 star-avatar-alt =
     .alt = Estrella
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Libro
 briefcase-avatar = Maletín

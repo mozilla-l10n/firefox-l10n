@@ -133,7 +133,7 @@ custom-avatar-alt =
 diamond-avatar-alt =
     .alt = Amkuẓ
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Adlis
 briefcase-avatar = Aqrab

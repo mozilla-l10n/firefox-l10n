@@ -211,7 +211,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = ველოსიპედი
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = წიგნი
 briefcase-avatar = პორტფელი

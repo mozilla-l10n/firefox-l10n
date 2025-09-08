@@ -188,7 +188,7 @@ default-favicon-avatar-alt =
 diamond-avatar-alt =
     .alt = Timantti
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Kirja
 briefcase-avatar = Salkku

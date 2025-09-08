@@ -117,7 +117,7 @@ shopping-avatar-alt =
 star-avatar-alt =
     .alt = Yll
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Libër
 briefcase-avatar = Dosje

@@ -89,7 +89,7 @@ shopping-avatar-alt =
 star-avatar-alt =
     .alt = നക്ഷത്രം
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = പുസ്തകം
 briefcase-avatar = പെട്ടി

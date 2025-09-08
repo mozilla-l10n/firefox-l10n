@@ -125,7 +125,7 @@ star-avatar-alt =
 custom-avatar-alt =
     .alt = Avatar personalizado
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Livro
 briefcase-avatar = Pasta

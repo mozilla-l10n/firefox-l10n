@@ -231,7 +231,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = Kolo
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Kniha
 briefcase-avatar = Kufřík

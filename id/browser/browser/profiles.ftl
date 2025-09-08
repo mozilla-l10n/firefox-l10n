@@ -112,7 +112,7 @@ shopping-avatar-alt =
 star-avatar-alt =
     .alt = Bintang
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Buku
 briefcase-avatar = Tas Kerja

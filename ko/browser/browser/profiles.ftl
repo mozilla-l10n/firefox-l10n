@@ -211,7 +211,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = 자전거
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = 책
 briefcase-avatar = 서류 가방

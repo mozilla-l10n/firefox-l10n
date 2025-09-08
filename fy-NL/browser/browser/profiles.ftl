@@ -177,7 +177,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = Fyts
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Boek
 briefcase-avatar = Wurkmap

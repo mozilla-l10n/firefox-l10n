@@ -211,7 +211,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = Велосипед
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Книга
 briefcase-avatar = Портфель

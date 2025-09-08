@@ -191,7 +191,7 @@ diamond-avatar-alt =
 bike-avatar-alt =
     .alt = Hjól
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Bók
 briefcase-avatar = Skjalataska

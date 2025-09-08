@@ -211,7 +211,7 @@ barbell-avatar-alt =
 bike-avatar-alt =
     .alt = Xe đạp
 
-## Labels for default avatar icons
+## Tooltips for default avatar icons
 
 book-avatar = Sách
 briefcase-avatar = Cặp tài liệu
