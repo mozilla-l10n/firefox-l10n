@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] A felhasználó ellenőrzése sikertelen. Még { $retriesLeft } próbálkozása van hátra. Próbálja újra.
     }
 webauthn-uv-invalid-short-prompt = A felhasználó ellenőrzése sikertelen. Próbálja újra.
+
+## WebAuthn prompts
+
+webauthn-allow = Engedélyezés
+    .accesskey = E
+webauthn-block = Tiltás
+    .accesskey = T
