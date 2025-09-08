@@ -101,6 +101,9 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> URL dźě
 about-logging-upload-error = Při nahrawanju profila je zmylk nastał: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Při składowanju nahrateho profila je zmylk nastał: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Při składowanju dataje je zmylk nastał: { $errorText }
 
 ## Uploaded Profiles section
@@ -117,4 +120,8 @@ about-logging-no-uploaded-profiles = Hišće njejsu so profile nahrali.
 about-logging-delete-uploaded-profile = Zhašeć
 about-logging-view-uploaded-profile = Profil pokazać
 about-logging-delete-profile-confirm-title = Profil zhašeć
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Chceće woprawdźe profil „{ $profileName }“ zhašeć? To njeda so cofnyć.
 about-logging-deleting-profile = Zhaša so…

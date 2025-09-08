@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = M
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Šćitajśo swóju e-mailowu adresu:
+firefox-relay-opt-in-title-2 = Wobstarajśo se dermotnu e-mailowu masku
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = E-mailowu masku { -relay-brand-name } wužywaś
 firefox-relay-use-mask-title-1 = E-mailowu masku wužywaś
+firefox-relay-opt-in-subtitle-2 = Šćitajśo swój dochad posta pśed spamom
 firefox-relay-use-mask-title = E-mailowu masku { -relay-brand-name } wužywaś
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Spamoju z dermotnej e-mailoweju masku zajźowaś
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Wobstarajśo se dermotnu e-mailowu masku
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Wužywajśo dermotnu <label data-l10n-name="firefox-relay-learn-more-url">e-mailowu masku</label>, aby swój dochad posta pśed spamom šćitał, aby se waša napšawdna adresa schowała. Mejlki z <label data-l10n-name="firefox-fxa-and-relay-offer-domain">toś togo sedła</label> se hyšćo k wašomu dochadoju posta dostanu, ale ze schowaneju e-mailoweju adresu.
 firefox-relay-and-fxa-popup-notification-first-sentence = Wužywajśo dermotnu <label data-l10n-name="firefox-relay-learn-more-url">e-mailowu masku { -relay-brand-name }</label>, aby swój dochad posta pśed spamom šćitał, aby se waša napšawdna adresa schowała. Mejlki z <label data-l10n-name="firefox-fxa-and-relay-offer-domain">toś togo sedła</label> se hyšćo k wašomu dochadoju posta dostanu, ale ze schowaneju e-mailoweju adresu.
+firefox-relay-offer-why-to-use-relay-1 = Wužywajśo dermotnu <label data-l10n-name="firefox-relay-learn-more-url">e-mailowu masku { -relay-brand-name }</label>, aby swój dochad posta pśed spamom šćitał, aby se waša napšawdna adresa schowała. Mejlki z <label data-l10n-name="firefox-fxa-and-relay-offer-domain">toś togo sedła</label> se hyšćo k wašomu dochadoju posta dostanu, ale ze schowaneju e-mailoweju adresu.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Registrěrujśo se nejpjerwjej abo pśizjawśo se pla swójogo konta, aby e-mailowu masku wužywał
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrěrowaś

@@ -1351,6 +1351,7 @@ firefox-relay-offer-why-to-use-relay = Naše wěste, lažko wužywajobne maski w
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Wšykne mejlki, kótarež se na waše e-mailowe maski sćelu, se do <strong>{ $useremail }</strong> dalej pósrědnjaju (snaźkuli rozsuźujośo je blokěrowaś).
 firefox-relay-offer-legal-notice = Gaž na „E-mailowu masku wužywaś“ klikaśo, zwólijośo do <label data-l10n-name="tos-url">wužywańskich wuměnjenjow</label>> a <label data-l10n-name="privacy-url">powěźeńki priwatnosći</label>.
+firefox-relay-offer-legal-notice-1 = Gaž se registrěrujośo a e-mailowu masku napórajośo, zwólijośo do <label data-l10n-name="tos-url">wužywańskich wuměnjenjow</label>> a <label data-l10n-name="privacy-url">powěźeńki priwatnosći</label>.
 
 ## Add-on Pop-up Notifications
 

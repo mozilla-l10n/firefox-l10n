@@ -314,6 +314,9 @@ newtab-custom-pocket-subtitle = 由 { -brand-product-name } 旗下 { -pocket-bra
 newtab-custom-stories-toggle =
     .label = 推荐文章
     .description = 由 { -brand-product-name } 推荐的精选内容
+newtab-custom-stories-personalized-toggle =
+    .label = 文章
+newtab-custom-stories-personalized-checkbox-label = 根据您的阅读记录为您推荐文章
 newtab-custom-pocket-sponsored = 赞助内容
 newtab-custom-pocket-show-recent-saves = 显示近期保存内容
 newtab-custom-recent-title = 近期动态
@@ -349,6 +352,7 @@ newtab-wallpaper-custom-color = 选择颜色
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = 图像超出文件大小上限（{ $file_size }MB），请尝试上传较小的文件。
+newtab-wallpaper-error-upload-file-type = 无法上传文件，请尝试使用图像文件。
 newtab-wallpaper-error-file-type = 无法上传文件，请尝试使用其他文件类型。
 newtab-wallpaper-light-red-panda = 小熊猫
 newtab-wallpaper-light-mountain = 白山山脉

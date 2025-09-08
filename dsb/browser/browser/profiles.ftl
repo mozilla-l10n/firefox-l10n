@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Knigły
 briefcase-avatar = Listowka
+clock-avatar = Zeger
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Standardny fawikon
 diamond-avatar = Diamant
 flower-avatar = Kwětk
 folder-avatar = Zarědnik
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globus
 hammer-avatar = Klapac
 heart-avatar = Wutšoba
 heart-rate-avatar = Dybot wutšoby
@@ -238,10 +241,12 @@ message-avatar = Powěsć
 musical-note-avatar = Muzikowa nota
 palette-avatar = Paleta
 paw-print-avatar = Wótśišć pace
+picture-avatar = Wobraz
 plane-avatar = Lětadło
 # Present refers to a gift box, not the current time period
 present-avatar = Dar
 shopping-avatar = Nakupowański wózyk
+soccer-ball-avatar = Kopańcowe balo
 soccer-avatar = Kopańca
 sparkle-single-avatar = Błyskanje
 star-avatar = Gwězda
@@ -256,3 +261,24 @@ custom-avatar-drag-handle =
     .aria-label = Wjelikosć pśirězowańskego wobceŕka změniś
 barbell-avatar = Hantla
 bike-avatar = Kólaso
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Awatar hantle nałožyś
+bike-avatar-tooltip =
+    .tooltiptext = Awatar kólasa nałožyś
+book-avatar-tooltip =
+    .tooltiptext = Awatar knigłow nałožyś
+briefcase-avatar-tooltip =
+    .tooltiptext = Awatar listowki nałožyś
+picture-avatar-tooltip =
+    .tooltiptext = Awatar wobraza nałožyś
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Awatar rucnikaŕstwa nałožyś
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Awatar globusa nałožyś
+diamond-avatar-tooltip =
+    .tooltiptext = Awatar diamanta nałožyś
