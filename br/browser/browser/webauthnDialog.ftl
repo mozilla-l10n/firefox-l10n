@@ -10,3 +10,7 @@ webauthn-select-sign-result-unknown-account = Kont dianav
 
 webauthn-cancel = Nullañ
     .accesskey = N
+webauthn-allow = Aotren
+    .accesskey = A
+webauthn-block = Stankañ
+    .accesskey = S
