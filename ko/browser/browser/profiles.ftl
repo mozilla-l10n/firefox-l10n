@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = 책
 briefcase-avatar = 서류 가방
+clock-avatar = 시계
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = 캔버스
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = 기본 파비콘
 diamond-avatar = 다이아몬드
 flower-avatar = 꽃
 folder-avatar = 폴더
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = 지구
 hammer-avatar = 망치
 heart-avatar = 하트
 heart-rate-avatar = 심박수
@@ -238,10 +241,12 @@ message-avatar = 메시지
 musical-note-avatar = 음표
 palette-avatar = 팔레트
 paw-print-avatar = 발자국
+picture-avatar = 사진
 plane-avatar = 비행기
 # Present refers to a gift box, not the current time period
 present-avatar = 선물
 shopping-avatar = 장바구니
+soccer-ball-avatar = 축구공
 soccer-avatar = 축구
 sparkle-single-avatar = 불꽃
 star-avatar = 별
@@ -256,3 +261,60 @@ custom-avatar-drag-handle =
     .aria-label = 자르기 영역 크기 조정
 barbell-avatar = 바벨
 bike-avatar = 자전거
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = 바벨 아바타 적용
+bike-avatar-tooltip =
+    .tooltiptext = 자전거 아바타 적용
+book-avatar-tooltip =
+    .tooltiptext = 책 아바타 적용
+briefcase-avatar-tooltip =
+    .tooltiptext = 서류 가방 아바타 적용
+picture-avatar-tooltip =
+    .tooltiptext = 사진 아바타 적용
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = 공예 아바타 적용
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = 지구 아바타 적용
+diamond-avatar-tooltip =
+    .tooltiptext = 다이아몬드 아바타 적용
+flower-avatar-tooltip =
+    .tooltiptext = 꽃 아바타 적용
+folder-avatar-tooltip =
+    .tooltiptext = 폴더 아바타 적용
+hammer-avatar-tooltip =
+    .tooltiptext = 망치 아바타 적용
+heart-avatar-tooltip =
+    .tooltiptext = 하트 아바타 적용
+heart-rate-avatar-tooltip =
+    .tooltiptext = 심박수 아바타 적용
+clock-avatar-tooltip =
+    .tooltiptext = 시계 아바타 적용
+leaf-avatar-tooltip =
+    .tooltiptext = 잎 아바타 적용
+lightbulb-avatar-tooltip =
+    .tooltiptext = 전구 아바타 적용
+makeup-avatar-tooltip =
+    .tooltiptext = 화장 아바타 적용
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = 메시지 아바타 적용
+musical-note-avatar-tooltip =
+    .tooltiptext = 음표 아바타 적용
+palette-avatar-tooltip =
+    .tooltiptext = 팔레트 아바타 적용
+paw-print-avatar-tooltip =
+    .tooltiptext = 발자국 아바타 적용
+plane-avatar-tooltip =
+    .tooltiptext = 비행기 아바타 적용
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = 선물 아바타 적용
+shopping-avatar-tooltip =
+    .tooltiptext = 장바구니 아바타 적용
+soccer-ball-avatar-tooltip =
+    .tooltiptext = 축구공 아바타 적용
