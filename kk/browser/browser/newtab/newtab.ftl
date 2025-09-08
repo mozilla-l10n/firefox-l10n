@@ -559,6 +559,9 @@ newtab-download-mobile-highlight-body-variant-c = { -brand-product-name } бра
 newtab-download-mobile-highlight-image =
     .aria-label = Мобильді { -brand-product-name } жүктеп алу үшін QR коды
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-ads-reason-not-interested =
@@ -642,6 +645,10 @@ newtab-widget-timer-play =
     .title = Ойнату
 newtab-widget-timer-pause =
     .title = Аялдату
+newtab-widget-timer-label-play =
+    .label = Ойнату
+newtab-widget-timer-label-pause =
+    .label = Аялдату
 newtab-widget-timer-reset =
     .title = Тастау
 newtab-widget-timer-menu-notifications = Хабарламаларды сөндіру

@@ -25,3 +25,40 @@ webauthn-uv-invalid-long-prompt =
        *[other] Erabiltzailearen egiaztapenak huts egin du. { $retriesLeft } saiakera gelditzen dira. Saiatu berriro.
     }
 webauthn-uv-invalid-short-prompt = Erabiltzailearen egiaztapenak huts egin du. Saiatu berriro.
+
+## WebAuthn prompts
+
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = Ukitu zure segurtasun-giltza { $hostname } ostalariarekin jarraitzeko.
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = Zure segurtasun-gakoari buruzko informazio gehigarria ari da eskatzen { $hostname }, eta eragina izan lezake zure pribatutasunean.
+webauthn-register-direct-prompt-hint = { -brand-short-name }(e)k hau zuretzat anonimo egin dezake baina webguneak gakoa uka lezake. Ukatuz gero, berriro saia zaitezke.
+# Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = Hainbat kontu aurkitu dira { $hostname } ostalarirako. Hautatu zein erabili behar den edo utzi.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Hainbat gailu aurkitu dira { $hostname } ostalarirako. Hautatu bat mesedez.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = Erabiltzailearen egiaztapenak huts egin du { $hostname } ostalarian. Saiakerarik ez da gelditzen eta zure gailua blokeatu egin da, PIN okerra gehiegitan eman delako. Gailuak berrezartzea eskatzen du.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = Erabiltzailearen egiaztapenak huts egin du { $hostname } ostalarian. Saiakera oker gehiegi egon dira segidan eta PIN bidezko egiaztapena blokeatu egin da behin-behinean. Zure gailuak piztea/itzaltze zikloa eskatzen du (desentxufatzea eta berriro entxufatzea).
+webauthn-already-registered-prompt = Gailu hau erregistratuta dago jada. Probatu beste gailu batekin.
+webauthn-cancel = Utzi
+    .accesskey = U
+webauthn-allow = Baimendu
+    .accesskey = A
+webauthn-block = Blokeatu
+    .accesskey = B

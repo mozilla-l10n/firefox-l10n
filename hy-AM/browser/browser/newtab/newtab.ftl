@@ -398,6 +398,9 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Celestial
+
+
 ## New Tab Weather
 
 # Variables:
@@ -498,6 +501,15 @@ newtab-section-mangage-topics-followed-topics = Հետևված
 newtab-section-mangage-topics-blocked-topics = Արգելափակված
 newtab-custom-wallpaper-cta = Փորձել
 
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting ads and content
 
 newtab-report-ads-reason-inappropriate =
@@ -572,6 +584,10 @@ newtab-widget-timer-play =
     .title = Նվագարկել
 newtab-widget-timer-pause =
     .title = Դադար
+newtab-widget-timer-label-play =
+    .label = Նվագարկել
+newtab-widget-timer-label-pause =
+    .label = Դադար
 newtab-widget-timer-reset =
     .title = Վերակայել
 newtab-widget-timer-menu-notifications = Անջատել ծանուցումները

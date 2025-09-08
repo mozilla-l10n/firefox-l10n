@@ -25,3 +25,30 @@ webauthn-uv-invalid-long-prompt =
        *[other] Asenqed n useqdac yecceḍ. { $retriesLeft } yineɛruḍen n i d-yeqqimen. Ɛreḍ tikkelt niḍen.
     }
 webauthn-uv-invalid-short-prompt = Asenqed n useqdac yecceḍ. Ɛreḍ tikkelt niḍen.
+
+## WebAuthn prompts
+
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = Sit ɣef tsarut-ik·im n tɣellist i wakken ad tkemmleḍ s { $hostname }.
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = { $hostname } issutur talɣut lqayen ɣef tsarut-ik·im n tɣellist, ayen ara iḥazen tudert-ik·im tabaḍnit.
+webauthn-register-direct-prompt-hint = { -brand-short-name } yezmer ad ak·am-yerr ayagi d udrig, maca asmel web yezmer ad yagi tasarut-a. Ma yella tettwagdel, tzemreḍ ad talseḍ tikkelt-nniḍen.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Aṭas n yibenkan ttwafen i { $hostname }. Ttxil-k·m fren yiwen.
+webauthn-cancel = Sefsex
+    .accesskey = c
+webauthn-allow = Sireg
+    .accesskey = A
+webauthn-block = Sewḥel
+    .accesskey = B

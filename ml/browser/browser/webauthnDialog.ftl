@@ -9,3 +9,9 @@ webauthn-select-sign-result-unknown-account = അറിയാത്ത അക്
 #   $domain (String): the domain of the site.
 webauthn-specific-passkey-label = { $domain }-നുള്ള ഒളിവാക്കു്
 webauthn-uv-invalid-short-prompt = ഉപയോക്തൃ പരിശോധന തോറ്റു. വീണ്ടും ശ്രമിക്കുക.
+
+## WebAuthn prompts
+
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = { $hostname } കൂടെ തുടരുകാൻ താങ്ങളുടെ സുരക്ഷത്താക്കോലിൽ തൊടുക.

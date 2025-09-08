@@ -11,3 +11,8 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = ভুল পিন। আবার চেষ্টা কর.
 webauthn-pin-required-prompt = আপনার ডিভাইসের জন্য পিন লিখুন.
+
+## WebAuthn prompts
+
+webauthn-cancel = বাতিল
+    .accesskey = c
