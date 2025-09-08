@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Книга
 briefcase-avatar = Портфель
+clock-avatar = Часы
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Значок по умолчанию
 diamond-avatar = Бриллиант
 flower-avatar = Цветок
 folder-avatar = Папка
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Глобус
 hammer-avatar = Молоток
 heart-avatar = Сердце
 heart-rate-avatar = Пульс
@@ -238,10 +241,12 @@ message-avatar = Сообщение
 musical-note-avatar = Звуковая нота
 palette-avatar = Палитра
 paw-print-avatar = Отпечаток лапы
+picture-avatar = Фото
 plane-avatar = Самолет
 # Present refers to a gift box, not the current time period
 present-avatar = Присутствие
 shopping-avatar = Тележка покупателя
+soccer-ball-avatar = Футбольный мяч
 soccer-avatar = Футбол
 sparkle-single-avatar = Искра
 star-avatar = Звёздочка
@@ -256,3 +261,60 @@ custom-avatar-drag-handle =
     .aria-label = Изменить размер области кадрирования
 barbell-avatar = Штанга
 bike-avatar = Велосипед
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Установить аватар со штангой
+bike-avatar-tooltip =
+    .tooltiptext = Установить аватар с байком
+book-avatar-tooltip =
+    .tooltiptext = Установить аватар с книгой
+briefcase-avatar-tooltip =
+    .tooltiptext = Установить аватар с портфелей
+picture-avatar-tooltip =
+    .tooltiptext = Установить аватар-изображение
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Установить самодельный аватар
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Установить аватар с глобусом
+diamond-avatar-tooltip =
+    .tooltiptext = Установить аватар с бриллиантом
+flower-avatar-tooltip =
+    .tooltiptext = Установить аватар с цветком
+folder-avatar-tooltip =
+    .tooltiptext = Установить аватар с папкой
+hammer-avatar-tooltip =
+    .tooltiptext = Установить аватар с молотком
+heart-avatar-tooltip =
+    .tooltiptext = Установить аватар с сердцем
+heart-rate-avatar-tooltip =
+    .tooltiptext = Настроить аватар с частотой сердцебиения
+clock-avatar-tooltip =
+    .tooltiptext = Установить аватар с часами
+leaf-avatar-tooltip =
+    .tooltiptext = Применить аватар с листом
+lightbulb-avatar-tooltip =
+    .tooltiptext = Установить аватар с ёлкой
+makeup-avatar-tooltip =
+    .tooltiptext = Установить аватар с макияжем
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Установить аватар с сообщением
+musical-note-avatar-tooltip =
+    .tooltiptext = Установить аватар с музыкальной нотой
+palette-avatar-tooltip =
+    .tooltiptext = Применить аватар с палитрой
+paw-print-avatar-tooltip =
+    .tooltiptext = Установить аватар с отпечатком лапы
+plane-avatar-tooltip =
+    .tooltiptext = Установить аватар с самолётом
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Применить аватар с подарком
+shopping-avatar-tooltip =
+    .tooltiptext = Применить аватар с корзиной покупок
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Установить аватар с футбольным мячом

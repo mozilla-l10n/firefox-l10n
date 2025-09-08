@@ -235,6 +235,7 @@ bike-avatar-alt =
 
 book-avatar = Kniha
 briefcase-avatar = Kufřík
+clock-avatar = Hodiny
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Plátno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -246,6 +247,8 @@ default-favicon-avatar = Výchozí ikona stránky
 diamond-avatar = Diamant
 flower-avatar = Květina
 folder-avatar = Složka
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Zeměkoule
 hammer-avatar = Kladivo
 heart-avatar = Srdce
 heart-rate-avatar = Srdeční frekvence
@@ -258,10 +261,12 @@ message-avatar = Zpráva
 musical-note-avatar = Hudební nota
 palette-avatar = Paleta
 paw-print-avatar = Otisk tlapky
+picture-avatar = Obrázek
 plane-avatar = Letadlo
 # Present refers to a gift box, not the current time period
 present-avatar = Dárek
 shopping-avatar = Nákupní košík
+soccer-ball-avatar = Fotbalový míč
 soccer-avatar = Fotbal
 sparkle-single-avatar = Sparkle
 star-avatar = Hvězdička

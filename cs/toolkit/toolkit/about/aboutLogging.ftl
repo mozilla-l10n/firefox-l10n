@@ -102,3 +102,16 @@ about-logging-upload-error = Při nahrávání profilu nastala chyba: { $errorTe
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Při ukládání souboru nastala chyba: { $errorText }
+
+## Uploaded Profiles section
+
+about-logging-uploaded-profiles-title = Nahrané profily
+about-logging-no-uploaded-profiles = Zatím nebyl nahrán žádný profil.
+about-logging-delete-uploaded-profile = Smazat
+about-logging-view-uploaded-profile = Zobrazit profil
+about-logging-delete-profile-confirm-title = Smazat profil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Opravdu chcete smazat profil „{ $profileName }“? Tuto akci nelze vzít zpět.
+about-logging-deleting-profile = Mazání…
