@@ -25,3 +25,30 @@ webauthn-uv-invalid-long-prompt =
        *[other] Falló la verificación de usuario. Quedan { $retriesLeft } intentos restantes. Pruebe nuevamente.
     }
 webauthn-uv-invalid-short-prompt = Falló la verificación de usuario. Pruebe nuevamente.
+
+## WebAuthn prompts
+
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = Toque su clave de seguridad para continuar con { $hostname }.
+# Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = Se encontraron múltiples cuentas para { $hostname }. Seleccione cual usar o cancelar.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Se encontraron múltiples dispositivos para { $hostname }. Seleccione uno.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = Falló la verificación de usuario en { $hostname }. No quedan intentos restantes y el dispositivo se ha bloqueado porque el PIN incorrecto se ingresó demasiadas veces. El dispositivo necesita un reinicio.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = Falló la verificación de usuario en { $hostname }. Hubo demasiados intentos fallidos y la autenticación por PIN ha sido bloqueada temporalmente. El dispositivo necesita ser desconectado y vuelto a insertar.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = La verificación de usuario falló en { $hostname }. Es posible que deba establecer un PIN en su dispositivo.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = Falló la verificación de usuario en { $hostname }. Hubo demasiados intentos fallidos y el método de verificación de usuario incorporado ha sido bloqueado.
+webauthn-already-registered-prompt = Este dispositivo ya está registrado. Intente un dispositivo diferente.
+webauthn-cancel = Cancelar
+    .accesskey = c
