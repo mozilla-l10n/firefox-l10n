@@ -17,3 +17,10 @@ webauthn-specific-passkey-label = { $domain }의 패스키
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt = 사용자 확인에 실패했습니다. { $retriesLeft }번의 시도가 남았습니다. 다시 시도하세요.
 webauthn-uv-invalid-short-prompt = 사용자 확인에 실패했습니다. 다시 시도하세요.
+
+## WebAuthn prompts
+
+webauthn-allow = 허용
+    .accesskey = A
+webauthn-block = 차단
+    .accesskey = B
