@@ -58,3 +58,13 @@ webauthn-pin-auth-blocked-prompt = { $hostname } تے صارف دی تصدیق �
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-not-set-prompt = { $hostname }اُتے صارف دی تصدیق ناکام تھی ڳئی۔ تُہاکوں آپݨی ڈیوائس اُتّے پِن مرتب کرݨ دی لوڑ پے سڳدی ہِے۔
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = { $hostname }اُتے صارف دی تصدیق نا کام تھی ڳئی۔ ٻہوں وَدھ ناکام کوشِشاں تھئیاں اَتے پہلاں کنوں موجود صارف دی تصدیق دے طریقے کوں ہَٹَک ݙِتّا ڳِیا ہِے۔
+webauthn-already-registered-prompt = اِیہ ڈیوائس پہلے کنوں رجسٹرڈ ہِے۔ ہِک ان٘جو ان٘ج ڈیوائس اَزماؤ۔
+webauthn-cancel = منسوخ کرو
+    .accesskey = c
+webauthn-allow = اجازت ݙیوو
+    .accesskey = A
+webauthn-block = بلاک کرو
+    .accesskey = B
