@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Bok
 briefcase-avatar = Dokumentmappe
+clock-avatar = Klokke
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Lerret
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Standard favikon
 diamond-avatar = Diamant
 flower-avatar = Blomst
 folder-avatar = Mappe
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globus
 hammer-avatar = Hammer
 heart-avatar = Hjerte
 heart-rate-avatar = Hjertefrekvens
@@ -238,10 +241,12 @@ message-avatar = Melding
 musical-note-avatar = Musikknote
 palette-avatar = Palett
 paw-print-avatar = Poteavtrykk
+picture-avatar = Bilde
 plane-avatar = Fly
 # Present refers to a gift box, not the current time period
 present-avatar = Gave
 shopping-avatar = Handlevogn
+soccer-ball-avatar = Fotball
 soccer-avatar = Fotball
 sparkle-single-avatar = Glitre
 star-avatar = Stjerne
@@ -256,3 +261,36 @@ custom-avatar-drag-handle =
     .aria-label = Endre størrelsen på beskjæringsområdet
 barbell-avatar = Vektstang
 bike-avatar = Sykkel
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Bruk vektstang-avatar
+bike-avatar-tooltip =
+    .tooltiptext = Bruk sykkel-avatar
+book-avatar-tooltip =
+    .tooltiptext = Bruk bok-avatar
+briefcase-avatar-tooltip =
+    .tooltiptext = Bruk koffert-avatar
+picture-avatar-tooltip =
+    .tooltiptext = Bruk bilde-avatar
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Bruk håndverks-avatar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Bruk globus-avatar
+diamond-avatar-tooltip =
+    .tooltiptext = Bruk diamant-avatar
+flower-avatar-tooltip =
+    .tooltiptext = Bruk blomster-avatar
+folder-avatar-tooltip =
+    .tooltiptext = Bruk mappe-avatar
+hammer-avatar-tooltip =
+    .tooltiptext = Bruk hammer-avatar
+heart-avatar-tooltip =
+    .tooltiptext = Bruk hjerte-avatar
+heart-rate-avatar-tooltip =
+    .tooltiptext = Bruk hjertefrekvens-avatar
+clock-avatar-tooltip =
+    .tooltiptext = Bruk klokke-avatar
