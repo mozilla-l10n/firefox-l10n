@@ -28,6 +28,27 @@ webauthn-uv-invalid-short-prompt = Verificación de usuario fallida. Prueba de n
 
 ## WebAuthn prompts
 
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = { $hostname } está pidiendo más información acerca de tu clave de seguridad, lo cual puede afectar tu privacidad.
+webauthn-register-direct-prompt-hint = { -brand-short-name } puede anonimizar esto para ti, pero el sitio web puede rechazar esta clave. Si se rechaza, puedes intentarlo de nuevo.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = La verificación del usuario falló en { $hostname }. Es posible que debas configurar un PIN en tu dispositivo.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = La verificación del usuario falló en { $hostname }. Hubo demasiados intentos fallidos y el método de verificación de usuario integrado ha sido bloqueado.
+webauthn-already-registered-prompt = Este dispositivo ya está registrado. Prueba con un dispositivo diferente.
+webauthn-cancel = Cancelar
+    .accesskey = c
 webauthn-allow = Permitir
     .accesskey = A
 webauthn-block = Bloquear
