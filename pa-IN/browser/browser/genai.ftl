@@ -244,8 +244,12 @@ link-preview-settings-long-press =
     .label = ਸ਼ਾਰਟਕੱਟ: ਲਿੰਕ ਨੂੰ 1 ਸਕਿੰਟ ਲਈ ਕਲਿੱਕ ਕਰਕੇ ਰੱਖੋ (ਲਗਾਤਾਰ ਦਬਾਈ ਰੱਖੋ)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = AI ਨਾਲ ਹੋਰ ਵੇਖਣਾ ਹੈ?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } ਸਫ਼ੇ ਨੂੰ ਸ਼ੁਰੂ ਤੋਂ ਪੜ੍ਹਨ ਅਤੇ ਕੁਝ ਖਾਸ ਬਿੰਦੂ ਤਿਆਰ ਕਰਨ ਲਈ AI ਨੂੰ ਵਰਤਦਾ ਹੈ। ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਲਈ ਇਹ ਤੁਹਾਡੇ ਉੱਤੇ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = ਨਵਾਂ: ਝਲਕ ਲਈ ਕਿਸੇ ਵੀ ਲਿੰਕ ਨੂੰ ਕਲਿੱਕ ਕਰਕੇ ਰੱਖੋ
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = ਲਿੰਕ ਖੋਲ੍ਹਣ ਦਾ ਫਾਇਦਾ ਹੈ ਕਿ ਨਹੀਂ, ਇਹ ਪਤਾ ਕਰਨ ਵਾਸਤੇ ਸੰਖੇਪ ਸਾਰ, ਪੜ੍ਹਨ ਲਈ ਲੱਗਣ ਵਾਲਾ ਸਮਾਂ ਅਤੇ ਹੋਰ ਜਾਣਕਾਰੀ ਨਾਲ ਫੈਸਲਾ ਕਰੋ। ਸੱਜਾ ਕਲਿੱਕ ਕਰਕੇ ਵੀ ਮੌਜੂਦ ਹੈ।
 # Header for the key points section
 link-preview-key-points-header = ਮੁੱਖ ਬਿੰਦੂ
 # Disclaimer for AI-generated key points
