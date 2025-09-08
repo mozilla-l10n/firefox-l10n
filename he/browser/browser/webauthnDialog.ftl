@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] אימות המשתמש נכשל. נותרו לך עוד { $retriesLeft } ניסיונות. נא לנסות שוב.
     }
 webauthn-uv-invalid-short-prompt = אימות המשתמש נכשל. נא לנסות שוב.
+
+## WebAuthn prompts
+
+webauthn-allow = לאפשר
+    .accesskey = א
+webauthn-block = לחסום
+    .accesskey = ח
