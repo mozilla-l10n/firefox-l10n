@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Kontrolo de uzanto malsukcesa. Vi ankoraŭ havas { $retriesLeft } provojn. Provu denove.
     }
 webauthn-uv-invalid-short-prompt = Kontrolo de uzanto malsukcesa. Provu denove.
+
+## WebAuthn prompts
+
+webauthn-allow = Permesi
+    .accesskey = P
+webauthn-block = Bloki
+    .accesskey = B
