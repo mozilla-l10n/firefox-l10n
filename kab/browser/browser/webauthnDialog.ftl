@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Asenqed n useqdac yecceḍ. { $retriesLeft } yineɛruḍen n i d-yeqqimen. Ɛreḍ tikkelt niḍen.
     }
 webauthn-uv-invalid-short-prompt = Asenqed n useqdac yecceḍ. Ɛreḍ tikkelt niḍen.
+
+## WebAuthn prompts
+
+webauthn-allow = Sireg
+    .accesskey = A
+webauthn-block = Sewḥel
+    .accesskey = B
