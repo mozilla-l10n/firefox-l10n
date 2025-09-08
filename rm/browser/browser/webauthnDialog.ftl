@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] La verificaziun da l'utilisader n'è betg reussida. Ti has anc { $retriesLeft } tentativas. Emprova anc ina giada.
     }
 webauthn-uv-invalid-short-prompt = La verificaziun da l'utilisader n'è betg reussida. Emprova anc ina giada.
+
+## WebAuthn prompts
+
+webauthn-allow = Permetter
+    .accesskey = P
+webauthn-block = Bloccar
+    .accesskey = B
