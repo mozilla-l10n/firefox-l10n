@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Поверително сърфиране
        *[other] { -brand-full-name } Поверително сърфиране
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Поверително сърфиране
 
 ##
 
@@ -807,11 +810,16 @@ urlbar-result-weather-provider-sponsored = { $provider } · Спонсорира
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Вземете данни от борсата директно в лентата за търсене
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Показване на подсказки
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Не сега
 urlbar-result-realtime-opt-in-dismiss = Прекратяване
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Без показване на тези предложения
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Благодарим за обратната връзка. Вече няма да виждате тези предложения.
 
 ## Strings used for buttons in the urlbar
 

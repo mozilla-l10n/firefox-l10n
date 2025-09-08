@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Navegación privada
        *[other] { -brand-full-name } Navegación privada
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Navegación privada
 
 ##
 
@@ -143,6 +146,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Abrir panel de mensajes
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Abrir panel de solicitud de ubicación
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Administra el acceso a dispositivos locales para este sitio
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Administra el compartir el acceso a tu red local con este sitio
 urlbar-xr-notification-anchor =
     .tooltiptext = Abrir el panel de permisos de realidad virtual
 urlbar-storage-access-anchor =
@@ -189,6 +196,35 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Obtener ayudar
     .accesskey = O
+urlbar-result-menu-dismiss-suggestion =
+    .label = Ignorar esta sugerencia
+    .accesskey = D
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Saber más sobre { -firefox-suggest-brand-name }
+    .accesskey = L
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Administrar { -firefox-suggest-brand-name }
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Reportar ubicación inexacta
+urlbar-result-menu-show-less-frequently =
+    .label = Mostrar con menor frecuencia
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = No mostrar condiciones meterológicas
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Abrir menú
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Gracias por tus comentarios
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Gracias por tus comentarios. Ya no verás las condiciones meteorológicas.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -214,6 +250,10 @@ urlbar-search-mode-actions = Acciones
 
 urlbar-geolocation-blocked =
     .tooltiptext = Está bloqueada tu información de ubicación para este sitio web.
+urlbar-localhost-blocked =
+    .tooltiptext = Has bloqueado las conexiones a dispositivos locales para este sitio.
+urlbar-local-network-blocked =
+    .tooltiptext = Has bloqueado las conexiones a la red local para este sitio.
 urlbar-xr-blocked =
     .tooltiptext = Bloqueaste el acceso de dispositivos de realidad virtual para este sitio web.
 urlbar-web-notifications-blocked =
@@ -320,10 +360,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ver complementos
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = extensiones, temas, complementos
 quickactions-cmd-addons2 = complementos
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Administrar marcadores
 quickactions-cmd-bookmarks = marcadores
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Limpiar historial reciente
+quickactions-cmd-clearrecenthistory = limpiar historial reciente, historial
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Limpiar historial
 quickactions-cmd-clearhistory = limpiar historial
@@ -332,9 +379,20 @@ quickactions-downloads2 = Ver descargas
 quickactions-cmd-downloads = descargas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administrar extensiones
+quickactions-cmd-extensions2 = extensiones, complementos
 quickactions-cmd-extensions = extensiones
+# Opens Firefox View
+quickactions-firefoxview = Abrir { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = abrir { -firefoxview-brand-name }, { -firefoxview-brand-name }, abrir vista, ver
+# Opens SUMO home page
+quickactions-help = ayuda de { -brand-product-name }
+quickactions-cmd-help = ayuda, soporte
 # Opens the devtools web inspector
 quickactions-inspector2 = Abrir herramientas para desarrolladores
+quickactions-cmd-inspector2 = inspector, devtools, herramientas de desarrollo
 quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins2 = Administrar contraseñas
@@ -347,6 +405,7 @@ quickactions-print2 = Imprimir página
 quickactions-cmd-print = imprimir
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Guardar página como PDF
+quickactions-cmd-savepdf2 = pdf, guardar página
 # Opens a new private browsing window
 quickactions-private2 = Abrir ventana privada
 quickactions-cmd-private = navegación privada
@@ -358,18 +417,26 @@ quickactions-restart = Reiniciar { -brand-short-name }
 quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot3 = Tomar captura de pantalla
+quickactions-cmd-screenshot2 = captura de pantalla, tomar una captura de pantalla
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings2 = Administrar ajustes
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = ajustes, preferencias, opciones, administrar
 quickactions-cmd-settings = ajustes, preferencias, opciones
 # Opens about:addons page in the themes section
 quickactions-themes = Administrar temas
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = temas, complementos
 quickactions-cmd-themes = temas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Actualizar { -brand-short-name }
 quickactions-cmd-update = actualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ver código fuente de esta página
+quickactions-cmd-viewsource2 = ver código fuente, fuente, código fuente de la página
 quickactions-cmd-viewsource = ver fuente, fuente
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -567,6 +634,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Término de búsqueda o dirección
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Ingresar dirección
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -646,6 +717,8 @@ urlbar-result-action-visit = Visitar
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Cambiar a pestaña · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Grupo sin nombre
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Visitar desde el portapapeles
 # Directs a user to press the Tab key to perform a search with the specified
@@ -683,6 +756,57 @@ urlbar-result-action-undefined-calculator-result = indefinido
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> en { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> en { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> en { $city }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
 ## Strings used for buttons in the urlbar
 
