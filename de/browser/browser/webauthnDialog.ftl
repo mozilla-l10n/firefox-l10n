@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Benutzerüberprüfung fehlgeschlagen. Sie haben noch { $retriesLeft } Versuch. Versuchen Sie es erneut.
     }
 webauthn-uv-invalid-short-prompt = Benutzerüberprüfung fehlgeschlagen. Versuchen Sie es erneut.
+
+## WebAuthn prompts
+
+webauthn-allow = Erlauben
+    .accesskey = E
+webauthn-block = Blockieren
+    .accesskey = B
