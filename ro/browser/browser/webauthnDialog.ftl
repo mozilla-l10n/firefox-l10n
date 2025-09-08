@@ -27,3 +27,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Verificarea utilizatorului a eșuat. Mai ai { $retriesLeft } de încercări. Încearcă din nou.
     }
 webauthn-uv-invalid-short-prompt = Verificarea utilizatorului a eșuat. Încearcă din nou.
+
+## WebAuthn prompts
+
+webauthn-allow = Permite
+    .accesskey = A
+webauthn-block = Blochează
+    .accesskey = B
