@@ -21,3 +21,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Потврђивање корисника није успело. Преостало вам је { $retriesLeft } покушаја. Покушајте поново.
     }
 webauthn-uv-invalid-short-prompt = Потврђивање корисника није успело. Покушајте поново.
+
+## WebAuthn prompts
+
+webauthn-allow = Дозволи
+    .accesskey = Д
+webauthn-block = Блокирај
+    .accesskey = Б
