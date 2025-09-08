@@ -20,6 +20,18 @@ webauthn-uv-invalid-short-prompt = การตรวจสอบยืนยั
 
 ## WebAuthn prompts
 
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = { $hostname } ขอข้อมูลแบบขยายเกี่ยวกับคีย์ความปลอดภัยของคุณ ซึ่งอาจส่งผลกระทบต่อความเป็นส่วนตัวของคุณได้
+webauthn-register-direct-prompt-hint = { -brand-short-name } สามารถปกปิดตัวตนสิ่งนี้ให้คุณได้ แต่เว็บไซต์อาจจะปฏิเสธคีย์นี้ หากถูกปฏิเสธ คุณสามารถลองใหม่อีกครั้งได้
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
 webauthn-select-sign-result-prompt = พบบัญชีหลายบัญชีสำหรับ { $hostname } ให้เลือกบัญชีที่จะใช้หรือยกเลิก
@@ -32,3 +44,7 @@ webauthn-device-blocked-prompt = การยืนยันผู้ใช้�
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-auth-blocked-prompt = การยืนยันผู้ใช้ล้มเหลวบน { $hostname } มีความพยายามที่ล้มเหลวติดต่อกันหลายครั้งเกินไปและการยืนยันตัวตนด้วย PIN ได้ถูกปิดกั้นชั่วคราว คุณจำเป็นต้องปิดและเปิดอุปกรณ์ของคุณใหม่ (ถอดปลั๊กแล้วเสียบปลั๊กใหม่)
+webauthn-allow = อนุญาต
+    .accesskey = อ
+webauthn-block = ปิดกั้น
+    .accesskey = ป
