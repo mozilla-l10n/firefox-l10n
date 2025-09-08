@@ -41,6 +41,18 @@ webauthn-uv-invalid-short-prompt = Brugergodkendelse slog fejl. Prøv igen.
 webauthn-register-direct-prompt = { $hostname } anmoder om udvidet information om din sikkerhedsnøgle, hvilket kan påvirke din privatlivssikkerhed.
 webauthn-register-direct-prompt-hint = { -brand-short-name } kan anonymisere dette for dig, men webstedet kan måske afvise nøglen. Du kan prøve igen, hvis den bliver afvist.
 # Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = Der blev fundet flere konti for { $hostname }. Vælg hvilken, du vil anvende, eller afbryd.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Der blev fundet flere enheder for { $hostname }. Vælg én.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = Bekræftelse af bruger mislykkedes på { $hostname }. Der er ikke nogen forsøg tilbage, og din enhed er blevet låst, fordi den forkerte pinkode blev indtastet for mange gange. Enheden behøver at blive nulstillet.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = Bekræftelse af bruger mislykkedes på { $hostname }. Der er foretaget for mange forsøg i træk, og autentificering via pinkode er midlertidigt blevet blokeret. Enheden behøver at blive genstartet (fjern strømkablet og sæt det i igen).
+# Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-not-set-prompt = Bekræftelse af bruger mislykkedes på { $hostname }. Det er måske nødvendigt at indstille en pinkode på din enhed.
 # Variables:
