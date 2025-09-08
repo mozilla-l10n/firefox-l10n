@@ -29,3 +29,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Preverjanje uporabnika ni uspelo. Imate še { $retriesLeft } poskusov. Poskusite znova.
     }
 webauthn-uv-invalid-short-prompt = Preverjanje uporabnika ni uspelo. Poskusite znova.
+
+## WebAuthn prompts
+
+webauthn-allow = Dovoli
+    .accesskey = D
+webauthn-block = Prepovej
+    .accesskey = P
