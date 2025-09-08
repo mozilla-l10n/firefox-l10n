@@ -110,6 +110,8 @@ certificate-viewer-export = 내보내기
 
 # Label for a tab where we haven't found a better label:
 certificate-viewer-unknown-group-label = (알 수 없음)
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = 인증서
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

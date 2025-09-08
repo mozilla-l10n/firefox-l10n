@@ -101,4 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> URL 공�
 about-logging-upload-error = 프로필을 업로드하는 동안 오류가 발생했습니다: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = 업로드된 프로필을 저장하는 동안 오류가 발생했습니다: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = 파일을 저장하는 중 오류가 발생했습니다: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = { DATETIME($date, dateStyle: "short", timeStyle: "medium") } 프로필
+about-logging-uploaded-profiles-title = 업로드한 프로필
+about-logging-no-uploaded-profiles = 아직 프로필이 업로드되지 않았습니다.
+about-logging-delete-uploaded-profile = 삭제
+about-logging-view-uploaded-profile = 프로필 보기
+about-logging-delete-profile-confirm-title = 프로필 삭제
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = “{ $profileName }” 프로필을 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.
+about-logging-deleting-profile = 삭제 중…
