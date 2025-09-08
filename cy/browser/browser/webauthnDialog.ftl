@@ -33,3 +33,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Methodd dilysu defnyddiwr. Mae gennych { $retriesLeft } ymgais ar ôl. Ceisiwch eto.
     }
 webauthn-uv-invalid-short-prompt = Methodd dilysu defnyddiwr. Ceisiwch eto.
+
+## WebAuthn prompts
+
+webauthn-allow = Caniatáu
+    .accesskey = C
+webauthn-block = Rhwystro
+    .accesskey = R
