@@ -32,6 +32,9 @@ webauthn-uv-invalid-short-prompt = Ověření uživatele selhalo. Zkuste to znov
 
 ## WebAuthn prompts
 
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = Chcete-li pokračovat s { $hostname }, dotkněte se svého bezpečnostního klíče.
 # The website is asking for extended information about your
 # hardware authenticator that shouldn't be generally necessary. Permitting
 # this is safe if you only use one account at this website. If you have
@@ -44,6 +47,27 @@ webauthn-uv-invalid-short-prompt = Ověření uživatele selhalo. Zkuste to znov
 #  $hostname (String): the origin (website) asking for the extended information.
 webauthn-register-direct-prompt = Server { $hostname } požaduje podrobnější informace o vašem bezpečnostním klíči, které mohou ovlivnit vaše soukromí.
 webauthn-register-direct-prompt-hint = { -brand-short-name } může tyto informace anonymizovat, což ale může vést k tomu, že server tento klíč odmítne. Pokud se tak stane, můžete zkusit akci provést znovu.
+# Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = Pro server { $hostname } bylo nalezeno více účtů. Vyberte, který chcete použít, nebo akci zrušte.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Pro server { $hostname } bylo nalezeno několik zařízení. Vyberte jedno z nich.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = Uživatele pro server { $hostname } se nepodařilo ověřit. Nezbývají žádné další pokusy a z důvodu opakovaného zadání nesprávného PINu bylo vaše zařízení uzamčeno. Zařízení nyní potřebuje obnovit.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = Uživatele pro server { $hostname } se nepodařilo ověřit. Kvůli příliš mnoha neúspěšným pokusům bylo ověření pomocí PINu dočasně zablokováno. Vaše zařízení potřebuje odpojit a znovu připojit k napájení.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = Ověření uživatele selhalo na { $hostname }. Možná budete muset na svém zařízení nastavit PIN.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = Ověření uživatele na adrese { $hostname } selhalo. Došlo k příliš mnoha neúspěšným pokusům a vestavěná metoda ověření uživatele byla zablokována.
+webauthn-already-registered-prompt = Toto zařízení je již zaregistrováno. Zkuste jiné zařízení.
+webauthn-cancel = Zrušit
+    .accesskey = Z
 webauthn-allow = Povolit
     .accesskey = P
 webauthn-block = Blokovat
