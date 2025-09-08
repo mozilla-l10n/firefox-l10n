@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Erabiltzailearen egiaztapenak huts egin du. { $retriesLeft } saiakera gelditzen dira. Saiatu berriro.
     }
 webauthn-uv-invalid-short-prompt = Erabiltzailearen egiaztapenak huts egin du. Saiatu berriro.
+
+## WebAuthn prompts
+
+webauthn-allow = Baimendu
+    .accesskey = A
+webauthn-block = Blokeatu
+    .accesskey = B
