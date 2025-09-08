@@ -95,6 +95,16 @@ genai-shortcuts-hide =
     .label = Sakrij prečicu za chatbot
 genai-menu-choose-chatbot =
     .label = Odaberite AI chatbota
+genai-menu-ask-generic-2 =
+    .label = Pitajte AI Chatbota
+    .accesskey = z
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Pitajte { $provider }
+    .accesskey = z
+genai-menu-no-provider-2 =
+    .label = Pitajte AI chatbota
+    .accesskey = z
 
 ## Chatbot header
 
@@ -118,6 +128,11 @@ genai-options-hide-shortcut =
     .label = Sakrijte prečicu prilikom odabira teksta
 genai-options-about-chatbot =
     .label = O AI chatbotovima u { -brand-short-name }u
+
+## Chatbot message
+
+genai-page-warning =
+    .message = S obzirom na to da je stranica dugačka, ovo je djelimičan sažetak.
 
 ## Chatbot footer
 
@@ -212,3 +227,27 @@ link-preview-reading-time =
         [few] Vrijeme čitanja u minutama: { $range }
        *[other] Vrijeme čitanja u minutama: { $range }
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Ne možemo pregledati ovaj link
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Posjetite link
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Ne možemo generirati ključne tačke za ovu web stranicu.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Nešto je pošlo po zlu.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Pokušaj ponovo
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Postavke pregleda linka
+link-preview-settings-enable =
+    .label = Omogući preglede linkova
+    .description = Pogledajte naslov stranice, opis i još mnogo toga kada koristite prečicu ili kliknete desnim klikom miša na link.
+link-preview-settings-key-points =
+    .label = Omogućite vještačkoj inteligenciji da pročita početak stranice i generiše ključne tačke
+link-preview-settings-long-press =
+    .label = Prečica: Kliknite i držite link 1 sekundu (dugi pritisak)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Vidite li više s umjetnom inteligencijom?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } koristi vještačku inteligenciju za čitanje početka stranice i generisanje nekoliko ključnih tačaka. Kako bi se dala prednost vašoj privatnosti, ovo se događa na vašem uređaju.

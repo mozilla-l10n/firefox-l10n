@@ -126,6 +126,11 @@ windows-10-eos-sync-new-device-primary-label = Sinhronizuj sada
 windows-10-eos-sync-general-title-1 = Zaštitite { -brand-short-name } koji ste stvorili.
 windows-10-eos-sync-general-subtitle-1 = Napravite sigurnosnu kopiju i sinhronizujte svoje lozinke, zabilješke, postavke i ostale podatke kako biste sačuvali ono što vam je važno.
 windows-10-eos-sync-general-title-2 = Sada je pravo vrijeme da napravite sigurnosnu kopiju lozinki i zabilješki.
+windows-10-eos-sync-general-subtitle-2 = Sinhronizujte odmah da biste zaštitili stvari kojima vjerujete { -brand-short-name }u — i vratite ih bilo gdje, bilo kada.
+windows-10-eos-sync-tour-title-1 = Previše tabova? Uredite grupe tabova.
+windows-10-eos-sync-tour-subtitle-1 = Prevucite jedan tab preko drugog da biste kreirali grupu i održali stvari organizovanim.
+windows-10-eos-sync-tour-title-2 = Organizujte se za Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sinhronizujte svoje zabilješke, lozinke i postavke kako biste napravili njihovu sigurnosnu kopiju prije prebacivanja.
 
 ## Sidebar Strings
 
