@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Mislykka brukarstadfestingar. Du har { $retriesLeft } forsøk att. Prøv på nytt.
     }
 webauthn-uv-invalid-short-prompt = Mislykka brukarstadfesting. Prøv på nytt.
+
+## WebAuthn prompts
+
+webauthn-allow = Tillat
+    .accesskey = T
+webauthn-block = Blokker
+    .accesskey = B
