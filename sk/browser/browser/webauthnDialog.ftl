@@ -32,6 +32,9 @@ webauthn-uv-invalid-short-prompt = Overenie používateľa zlyhalo. Skúste to z
 
 ## WebAuthn prompts
 
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = Ak chcete pokračovať s { $hostname }, dotknite sa bezpečnostného kľúča.
 # The website is asking for extended information about your
 # hardware authenticator that shouldn't be generally necessary. Permitting
 # this is safe if you only use one account at this website. If you have
@@ -44,6 +47,27 @@ webauthn-uv-invalid-short-prompt = Overenie používateľa zlyhalo. Skúste to z
 #  $hostname (String): the origin (website) asking for the extended information.
 webauthn-register-direct-prompt = Stránka { $hostname } požaduje rozšírené informácie o vašom bezpečnostnom kľúči, čo môže ovplyvniť vaše súkromie.
 webauthn-register-direct-prompt-hint = { -brand-short-name } to môže za vás anonymizovať, ale stránka môže takýto kľúč odmietnuť. V prípade odmietnutia to môžete skúsiť znova.
+# Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = Pre { $hostname } bolo nájdených viacero účtov. Vyberte, ktoré chcete použiť alebo zrušiť.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Pre { $hostname } bolo nájdených viacero zariadení. Vyberte jedno.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = Overenie používateľa pre { $hostname } zlyhalo. Nezostali žiadne pokusy a vaše zariadenie bolo uzamknuté, pretože ste príliš veľa krát zadali nesprávny kód PIN. Zariadenie potrebuje reset.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = Overenie používateľa pre { $hostname } zlyhalo. Vyskytlo sa príliš veľa neúspešných pokusov za sebou a overenie PIN bolo dočasne zablokované. Vaše zariadenie je potrebné odpojiť a znova pripojiť k napájaniu.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = Overenie používateľa na { $hostname } zlyhalo. Možno budete musieť na svojom zariadení nastaviť kód PIN.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = Overenie používateľa na stránke { $hostname } zlyhalo. Použili ste príliš veľa neúspešných pokusov a vstavaná metóda overenia používateľa bola zablokovaná.
+webauthn-already-registered-prompt = Toto zariadenie je už zaregistrované. Skúste iné zariadenie.
+webauthn-cancel = Zrušiť
+    .accesskey = Z
 webauthn-allow = Povoliť
     .accesskey = o
 webauthn-block = Zakázať
