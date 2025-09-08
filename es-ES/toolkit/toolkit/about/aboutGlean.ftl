@@ -138,6 +138,16 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Para registrar un perfil de rendimiento y ver todas las métricas registradas, utilice
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Categoría
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Nombre
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Tipo
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Valor
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Acciones
 about-glean-about-data-explanation =
     Para navegar por la lista de datos recopilados, consulte el
     <a data-l10n-name="glean-dictionary-link">diccionario { -glean-brand-name }</a>.

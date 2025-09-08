@@ -45,6 +45,7 @@ avatar-selector-save-button =
     .label = Guardar
 avatar-selector-upload-file = Subir un archivo
 avatar-selector-drag-file = O arrastre un archivo aquí
+avatar-selector-crop = Recortar
 edit-profile-page-no-name = Póngale nombre a este perfil para encontrarlo fácilmente en el futuro. Se puede renombrar en cualquier momento.
 edit-profile-page-duplicate-name = El nombre del perfil ya está en uso. Pruebe con un nombre nuevo.
 edit-profile-page-profile-saved = Guardado
@@ -93,6 +94,8 @@ profiles-light-theme = Claro
 profiles-dark-theme = Oscuro
 # The default system theme
 profiles-system-theme = Sistema
+profiles-system-theme-title =
+    .title = Aplicar tema del sistema
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Amarillo caléndula
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -107,6 +110,15 @@ profiles-ocean-theme-2 = Azul océano
 profiles-terracotta-theme-2 = Rojo ladrillo
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verde musgo
+profiles-gray-theme = Gris
+profiles-gray-theme-title =
+    .title = Aplicar tema gris
+profiles-yellow-theme = Amarillo
+profiles-orange-theme = Naranja
+profiles-cyan-theme-title =
+    .title = Aplicar tema cian
+profiles-custom-theme-title =
+    .title = Aplicar tema personalizado
 
 ## Alternative text for default profile icons
 
@@ -114,22 +126,64 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Maletín
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Lienzo
 flower-avatar-alt =
     .alt = Flor
 heart-avatar-alt =
     .alt = Corazón
 shopping-avatar-alt =
     .alt = Carrito de la compra
+soccer-avatar-alt =
+    .alt = Fútbol
+sparkle-single-avatar-alt =
+    .alt = Chispas
 star-avatar-alt =
     .alt = Estrella
+video-game-controller-avatar-alt =
+    .alt = Mando de consola
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Icono predeterminado
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamante
+barbell-avatar-alt =
+    .alt = Barra con pesas
+bike-avatar-alt =
+    .alt = Bicicleta
 
 ## Tooltips for default avatar icons
 
 book-avatar = Libro
 briefcase-avatar = Maletín
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Lienzo
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Artesanía
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamante
 flower-avatar = Flor
+folder-avatar = Carpeta
+hammer-avatar = Martillo
 heart-avatar = Corazón
+heart-rate-avatar = Frecuencia cardíaca
+leaf-avatar = Hoja
+lightbulb-avatar = Bombilla
+makeup-avatar = Maquillaje
+musical-note-avatar = Nota musical
+palette-avatar = Paleta
+paw-print-avatar = Huella
+plane-avatar = Avión
+# Present refers to a gift box, not the current time period
+present-avatar = Regalo
 shopping-avatar = Carrito de la compra
+soccer-avatar = Fútbol
+sparkle-single-avatar = Chispas
 star-avatar = Estrella
+video-game-controller-avatar = Mando de consola
+barbell-avatar = Barra con pesas
+bike-avatar = Bicicleta

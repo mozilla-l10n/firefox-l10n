@@ -471,6 +471,7 @@ available-updates-heading = Actualizaciones disponibles
 recent-updates-heading = Actualizaciones recientes
 release-notes-loading = Cargando…
 release-notes-error = Lo sentimos, pero ha sucedido un error al cargar las notas de versión.
+addon-permissions-heading = Permisos
 addon-permissions-empty2 = Esta extensión no requiere ningún permiso.
 addon-permissions-empty = Esta extensión no requiere ningún permiso.
 addon-permissions-required = Permisos requeridos para la funcionalidad principal:
