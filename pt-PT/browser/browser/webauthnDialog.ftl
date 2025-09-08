@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] A verificação do utilizador falhou. Restam { $retriesLeft } tentativas. Tente novamente.
     }
 webauthn-uv-invalid-short-prompt = A verificação do utilizador falhou. Tente novamente.
+
+## WebAuthn prompts
+
+webauthn-allow = Permitir
+    .accesskey = P
+webauthn-block = Bloquear
+    .accesskey = B
