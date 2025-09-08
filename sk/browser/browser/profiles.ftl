@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Kniha
 briefcase-avatar = Aktovka
+clock-avatar = Hodiny
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Plátno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Predvolená ikona stránky
 diamond-avatar = Diamant
 flower-avatar = Kvetina
 folder-avatar = Priečinok
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Zemeguľa
 hammer-avatar = Kladivo
 heart-avatar = Srdce
 heart-rate-avatar = Srdcová frekvencia
@@ -238,10 +241,12 @@ message-avatar = Správa
 musical-note-avatar = Hudobná nota
 palette-avatar = Paleta
 paw-print-avatar = Odtlačok laby
+picture-avatar = Obrázok
 plane-avatar = Lietadlo
 # Present refers to a gift box, not the current time period
 present-avatar = Darček
 shopping-avatar = Nákupný košík
+soccer-ball-avatar = Futbalová lopta
 soccer-avatar = Futbal
 sparkle-single-avatar = Trblietanie
 star-avatar = Hviezdička
@@ -256,3 +261,66 @@ custom-avatar-drag-handle =
     .aria-label = Zmeniť veľkosť oblasti orezania
 barbell-avatar = Činka
 bike-avatar = Bicykel
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Použiť avatara s činkou
+bike-avatar-tooltip =
+    .tooltiptext = Použiť avatara na bicykli
+book-avatar-tooltip =
+    .tooltiptext = Použiť avatar s knihou
+briefcase-avatar-tooltip =
+    .tooltiptext = Použiť avatara kufríka
+picture-avatar-tooltip =
+    .tooltiptext = Použiť obrázkový avatar
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Použiť avatara remeselníka
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Použiť avatar zemegule
+diamond-avatar-tooltip =
+    .tooltiptext = Použiť diamantový avatar
+flower-avatar-tooltip =
+    .tooltiptext = Použiť kvetinového avatara
+folder-avatar-tooltip =
+    .tooltiptext = Použiť avatar priečinka
+hammer-avatar-tooltip =
+    .tooltiptext = Použite avatara s kladivom
+heart-avatar-tooltip =
+    .tooltiptext = Použiť avatara so srdiečkom
+heart-rate-avatar-tooltip =
+    .tooltiptext = Použiť avatar srdcovej frekvencie
+clock-avatar-tooltip =
+    .tooltiptext = Použiť avatar hodín
+leaf-avatar-tooltip =
+    .tooltiptext = Použiť avatar listu
+lightbulb-avatar-tooltip =
+    .tooltiptext = Použiť avatar žiarovky
+makeup-avatar-tooltip =
+    .tooltiptext = Použite avatara líčenia
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Použiť avatar správy
+musical-note-avatar-tooltip =
+    .tooltiptext = Použiť avatar hudobnej noty
+palette-avatar-tooltip =
+    .tooltiptext = Použiť avatar palety
+paw-print-avatar-tooltip =
+    .tooltiptext = Použiť avatar s odtlačkom laby
+plane-avatar-tooltip =
+    .tooltiptext = Použiť avatar lietadla
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Použiť avatar s darčekom
+shopping-avatar-tooltip =
+    .tooltiptext = Použiť avatar nákupného košíka
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Použiť avatar futbalovej lopty
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Použi trblietavý avatar
+star-avatar-tooltip =
+    .tooltiptext = Použiť hviezdičkový avatar
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Použiť avatar herného ovládača

@@ -323,4 +323,4 @@ sparkle-single-avatar-tooltip =
 star-avatar-tooltip =
     .tooltiptext = Använd stjärnavatar
 video-game-controller-avatar-tooltip =
-    .tooltiptext = Använd avatar för TV-spelskontroller
+    .tooltiptext = Använd avatar för TV-spelskontroll
