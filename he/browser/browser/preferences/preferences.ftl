@@ -70,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = סגירה
+do-not-track-removal2 =
+    .label = איננו תומכים עוד בחיווי ”נא לא לעקוב”
 
 ## Browser Restart Dialog
 

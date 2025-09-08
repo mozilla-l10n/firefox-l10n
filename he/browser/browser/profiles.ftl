@@ -226,6 +226,8 @@ default-favicon-avatar = סמל ברירת מחדל
 diamond-avatar = יהלום
 flower-avatar = פרח
 folder-avatar = תיקייה
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = גלובוס
 hammer-avatar = פטיש
 heart-avatar = לב
 heart-rate-avatar = לב
@@ -238,10 +240,12 @@ message-avatar = הודעה
 musical-note-avatar = תו מוזיקלי
 palette-avatar = לוח צבעים
 paw-print-avatar = טביעת כפה
+picture-avatar = תמונה
 plane-avatar = מטוס
 # Present refers to a gift box, not the current time period
 present-avatar = מתנה
 shopping-avatar = עגלת קניות
+soccer-ball-avatar = כדורגל
 soccer-avatar = כדורגל
 sparkle-single-avatar = ניצוץ
 star-avatar = כוכב

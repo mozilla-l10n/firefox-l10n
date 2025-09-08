@@ -1337,6 +1337,7 @@ firefox-relay-offer-why-to-use-relay = המסכות המאובטחות והקל�
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = כל הודעות הדוא״ל שנשלחות למסכות הדוא״ל שלך יועברו אל <strong>{ $useremail }</strong> (אלא אם תבחר לחסום אותם).
 firefox-relay-offer-legal-notice = לחיצה על ״שימוש במסכת דוא״ל״ מהווה הסכמה ל<label data-l10n-name="tos-url">תנאי השירות</label> <label data-l10n-name="privacy-url">ולהצהרת הפרטיות</label>.
+firefox-relay-offer-legal-notice-1 = ההרשמה ויצירת מסכת דוא״ל מהוות הסכמה ל<label data-l10n-name="tos-url">תנאי השירות</label> <label data-l10n-name="privacy-url">ולהצהרת הפרטיות</label>.
 
 ## Add-on Pop-up Notifications
 

@@ -102,3 +102,10 @@ about-logging-upload-error = Det oppstod ein feil under opplasting av profilen: 
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Det oppstod ein feil under lagring av fila: { $errorText }
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = Slett
+about-logging-view-uploaded-profile = Vis profil
+about-logging-delete-profile-confirm-title = Slett profilen
+about-logging-deleting-profile = Slettar…
