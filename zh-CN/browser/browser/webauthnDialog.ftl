@@ -49,6 +49,9 @@ webauthn-device-blocked-prompt = { $hostname } 上的用户验证未通过，且
 webauthn-pin-auth-blocked-prompt = { $hostname } 的用户验证失败。因连续尝试失败次数过多，已暂时禁止 PIN 身份验证。您需要重新上电设备（拔下重插）。
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = 在 { $hostname } 上的用户验证失败。您可能需要先在设备上设置一个 PIN 码。
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
 webauthn-uv-blocked-prompt = { $hostname } 上的用户验证失败。由于失败次数过多，内置用户验证方式已禁用。
 webauthn-already-registered-prompt = 此设备已注册，请使用其他设备。
 webauthn-cancel = 取消
