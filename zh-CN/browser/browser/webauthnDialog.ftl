@@ -35,6 +35,24 @@ webauthn-user-presence-prompt = 请触摸您的安全密钥以继续使用 { $ho
 #  $hostname (String): the origin (website) asking for the extended information.
 webauthn-register-direct-prompt = { $hostname } 请求您的安全密钥的扩展信息，这可能会影响您的隐私。
 webauthn-register-direct-prompt-hint = { -brand-short-name } 可将此信息匿名化，但网站可能会拒绝此密钥。若被拒绝，您可以重试。
+# Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = 找到 { $hostname } 的多个账户。请选择要使用哪一个，或取消。
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = 找到 { $hostname } 的多台设备。请选择其一。
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = { $hostname } 上的用户验证未通过，且尝试机会已用完。由于 PIN 输入错误次数过多，此设备已被锁定，需进行重置。
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = { $hostname } 的用户验证失败。因连续尝试失败次数过多，已暂时禁止 PIN 身份验证。您需要重新上电设备（拔下重插）。
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = { $hostname } 上的用户验证失败。由于失败次数过多，内置用户验证方式已禁用。
+webauthn-already-registered-prompt = 此设备已注册，请使用其他设备。
+webauthn-cancel = 取消
+    .accesskey = c
 webauthn-allow = 允许
     .accesskey = A
 webauthn-block = 阻止
