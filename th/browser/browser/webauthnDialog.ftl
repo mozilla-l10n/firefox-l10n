@@ -20,6 +20,9 @@ webauthn-uv-invalid-short-prompt = การตรวจสอบยืนยั
 
 ## WebAuthn prompts
 
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = สัมผัสคีย์ความปลอดภัยของคุณเพื่อไปยัง { $hostname } ต่อ
 # The website is asking for extended information about your
 # hardware authenticator that shouldn't be generally necessary. Permitting
 # this is safe if you only use one account at this website. If you have
@@ -44,6 +47,15 @@ webauthn-device-blocked-prompt = การยืนยันผู้ใช้�
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-auth-blocked-prompt = การยืนยันผู้ใช้ล้มเหลวบน { $hostname } มีความพยายามที่ล้มเหลวติดต่อกันหลายครั้งเกินไปและการยืนยันตัวตนด้วย PIN ได้ถูกปิดกั้นชั่วคราว คุณจำเป็นต้องปิดและเปิดอุปกรณ์ของคุณใหม่ (ถอดปลั๊กแล้วเสียบปลั๊กใหม่)
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = การยืนยันผู้ใช้ล้มเหลวบน { $hostname } คุณอาจต้องตั้งค่า PIN บนอุปกรณ์ของคุณ
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = การตรวจสอบยืนยันผู้ใช้ล้มเหลวบน { $hostname } เนื่องจากลองไม่สำเร็จจำนวนหลายครั้งเกินไป และวิธีการตรวจสอบยืนยันผู้ใช้ในตัวถูกปิดกั้น
+webauthn-already-registered-prompt = อุปกรณ์นี้ถูกลงทะเบียนไปแล้ว โปรดลองใช้อุปกรณ์อื่น
+webauthn-cancel = ยกเลิก
+    .accesskey = ย
 webauthn-allow = อนุญาต
     .accesskey = อ
 webauthn-block = ปิดกั้น
