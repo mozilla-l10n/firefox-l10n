@@ -180,7 +180,7 @@ message-avatar-alt =
 musical-note-avatar-alt =
     .alt = 音符
 palette-avatar-alt =
-    .alt = 調色盤：
+    .alt = 調色盤
 paw-print-avatar-alt =
     .alt = 掌印
 plane-avatar-alt =
@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = 書本
 briefcase-avatar = 公事包
+clock-avatar = 時鐘
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = 畫布
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = 預設最愛圖示
 diamond-avatar = 鑽石
 flower-avatar = 花朵
 folder-avatar = 資料夾
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = 地球
 hammer-avatar = 榔頭
 heart-avatar = 愛心
 heart-rate-avatar = 心律
@@ -238,10 +241,12 @@ message-avatar = 簡訊
 musical-note-avatar = 音符
 palette-avatar = 調色盤
 paw-print-avatar = 掌印
+picture-avatar = 照片
 plane-avatar = 飛機
 # Present refers to a gift box, not the current time period
 present-avatar = 禮物
 shopping-avatar = 購物車
+soccer-ball-avatar = 足球
 soccer-avatar = 足球
 sparkle-single-avatar = 火花
 star-avatar = 星星
@@ -256,3 +261,38 @@ custom-avatar-drag-handle =
     .aria-label = 調整裁切大小
 barbell-avatar = 槓鈴
 bike-avatar = 單車
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = 套用槓鈴圖示
+bike-avatar-tooltip =
+    .tooltiptext = 套用單車圖示
+book-avatar-tooltip =
+    .tooltiptext = 套用書本圖示
+briefcase-avatar-tooltip =
+    .tooltiptext = 套用公事包圖示
+picture-avatar-tooltip =
+    .tooltiptext = 套用照片圖示
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = 套用手作圖示
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = 套用地球圖示
+diamond-avatar-tooltip =
+    .tooltiptext = 套用鑽石圖示
+flower-avatar-tooltip =
+    .tooltiptext = 套用花朵圖示
+folder-avatar-tooltip =
+    .tooltiptext = 套用資料夾圖示
+hammer-avatar-tooltip =
+    .tooltiptext = 套用榔頭圖示
+plane-avatar-tooltip =
+    .tooltiptext = 套用飛機圖示
+shopping-avatar-tooltip =
+    .tooltiptext = 套用購物車圖示
+soccer-ball-avatar-tooltip =
+    .tooltiptext = 套用足球圖示
+video-game-controller-avatar-tooltip =
+    .tooltiptext = 套用遊戲手把圖示

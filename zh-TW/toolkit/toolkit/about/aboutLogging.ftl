@@ -101,4 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> 分享網
 about-logging-upload-error = 上傳效能檢測檔時發生錯誤：{ $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = 儲存已上傳的檢測檔時發生錯誤：{ $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = 儲存檔案時發生錯誤：{ $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = 檢測檔 { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = 已上傳的檢測檔
+about-logging-no-uploaded-profiles = 尚未上傳任何檢測檔。
+about-logging-delete-uploaded-profile = 刪除
+about-logging-view-uploaded-profile = 檢視檢測檔
+about-logging-delete-profile-confirm-title = 刪除檢測檔
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = 您確定要刪除檢測檔「{ $profileName }」嗎？此動作無法復原。
+about-logging-deleting-profile = 刪除中…

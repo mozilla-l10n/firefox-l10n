@@ -1332,6 +1332,7 @@ firefox-relay-offer-why-to-use-relay = 我們安全易用的轉寄信箱，可�
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = 所有寄到您的轉寄信箱中的郵件，將會再轉寄到 <strong>{ $useremail }</strong>，除非您決定要封鎖此轉寄信箱。
 firefox-relay-offer-legal-notice = 若點擊「使用轉寄信箱」，代表您同意<label data-l10n-name="tos-url">服務條款</label>與<label data-l10n-name="privacy-url">隱私權公告</label>。
+firefox-relay-offer-legal-notice-1 = 若註冊並建立轉寄信箱，代表您同意<label data-l10n-name="tos-url">服務條款</label>與<label data-l10n-name="privacy-url">隱私權公告</label>。
 
 ## Add-on Pop-up Notifications
 
