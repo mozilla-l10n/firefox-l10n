@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Η επαλήθευση χρήστη απέτυχε. Σας απομένουν { $retriesLeft } προσπάθειες. Δοκιμάστε ξανά.
     }
 webauthn-uv-invalid-short-prompt = Η επαλήθευση χρήστη απέτυχε. Δοκιμάστε ξανά.
+
+## WebAuthn prompts
+
+webauthn-allow = Αποδοχή
+    .accesskey = Α
+webauthn-block = Φραγή
+    .accesskey = Φ
