@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Kniha
 briefcase-avatar = Listowka
+clock-avatar = Časnik
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Standardny fawikon
 diamond-avatar = Diamant
 flower-avatar = Kwětka
 folder-avatar = Rjadowak
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globus
 hammer-avatar = Hamor
 heart-avatar = Wutroba
 heart-rate-avatar = Pukot wutroby
@@ -238,10 +241,12 @@ message-avatar = Powěsć
 musical-note-avatar = Hudźbna nota
 palette-avatar = Paleta
 paw-print-avatar = Wotćišć pacy
+picture-avatar = Wobraz
 plane-avatar = Lětadło
 # Present refers to a gift box, not the current time period
 present-avatar = Dar
 shopping-avatar = Nakupowanski wozyčk
+soccer-ball-avatar = Koparski bul
 soccer-avatar = Kopańca
 sparkle-single-avatar = Zybolenje
 star-avatar = Hwězda
