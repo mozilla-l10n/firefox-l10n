@@ -101,11 +101,20 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartir
 about-logging-upload-error = Un error ha occurrite durante le incargamento del profilo: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Un error eveniva immagazinante le profilo cargate: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Un error ha occurrite durante le salvamento del file: { $errorText }
 
 ## Uploaded Profiles section
 
+about-logging-uploaded-profiles-title = Profilos cargate
+about-logging-no-uploaded-profiles = Necun profilo ha essite cargate ancora.
 about-logging-delete-uploaded-profile = Deler
 about-logging-view-uploaded-profile = Vider le profilo
 about-logging-delete-profile-confirm-title = Deler profilo
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Desira tu vermente deler le profilo “{ $profileName }”? Isto non potera plus esser disfacite.
 about-logging-deleting-profile = Deletion…

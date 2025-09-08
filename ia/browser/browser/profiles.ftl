@@ -261,3 +261,66 @@ custom-avatar-drag-handle =
     .aria-label = Redimensionar area de retalio
 barbell-avatar = Barra con pesos
 bike-avatar = Bicyclo
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Applicar avatar del barra con pesos
+bike-avatar-tooltip =
+    .tooltiptext = Applicar avatar del bicyclo
+book-avatar-tooltip =
+    .tooltiptext = Applicar avatar del libro
+briefcase-avatar-tooltip =
+    .tooltiptext = Applicar avatar del coffretto
+picture-avatar-tooltip =
+    .tooltiptext = Applicar avatar del photo
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Applicar avatar del nave
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Applicar avatar del globo
+diamond-avatar-tooltip =
+    .tooltiptext = Applicar avatar del diamante
+flower-avatar-tooltip =
+    .tooltiptext = Applicar avatar del flor
+folder-avatar-tooltip =
+    .tooltiptext = Applicar avatar del plica
+hammer-avatar-tooltip =
+    .tooltiptext = Applicar avatar del martello
+heart-avatar-tooltip =
+    .tooltiptext = Applicar avatar del corde
+heart-rate-avatar-tooltip =
+    .tooltiptext = Applicar avatar del frequentia cardiac
+clock-avatar-tooltip =
+    .tooltiptext = Applicar avatar del horologio
+leaf-avatar-tooltip =
+    .tooltiptext = Applicar avatar del folio
+lightbulb-avatar-tooltip =
+    .tooltiptext = Applicar avatar del lampa
+makeup-avatar-tooltip =
+    .tooltiptext = Applicar avatar del make-up
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Applicar avatar del message
+musical-note-avatar-tooltip =
+    .tooltiptext = Applicar avatar del nota musical
+palette-avatar-tooltip =
+    .tooltiptext = Applicar avatar del paletta
+paw-print-avatar-tooltip =
+    .tooltiptext = Applicar avatar del vestigio de pata
+plane-avatar-tooltip =
+    .tooltiptext = Applicar avatar del avion
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Applicar avatar del dono
+shopping-avatar-tooltip =
+    .tooltiptext = Applicar avatar del carretto de compras
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Applicar avatar del ballon de football
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Applicar avatar del scintillation
+star-avatar-tooltip =
+    .tooltiptext = Applicar avatar del stella
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Applicar avatar del controlator de video-joco
