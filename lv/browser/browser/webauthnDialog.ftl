@@ -27,3 +27,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Lietotāja verifikācija neizdevās. Jums ir atlikuši { $retriesLeft } mēģinājumu. Mēģini vēlreiz.
     }
 webauthn-uv-invalid-short-prompt = Lietotāja verifikācija neizdevās. Mēģiniet vēlreiz.
+
+## WebAuthn prompts
+
+webauthn-allow = Atļaut
+    .accesskey = A
+webauthn-block = Bloķēt
+    .accesskey = B
