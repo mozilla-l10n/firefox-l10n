@@ -28,6 +28,21 @@ webauthn-uv-invalid-short-prompt = User verification failed. Try again.
 
 ## WebAuthn prompts
 
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = Touch your security key to continue with { $hostname }.
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = { $hostname } is requesting extended information about your security key, which may affect your privacy.
+webauthn-register-direct-prompt-hint = { -brand-short-name } can anonymize this for you, but the website might decline this key. If declined, you can try again.
 webauthn-allow = Allow
     .accesskey = A
 webauthn-block = Block
