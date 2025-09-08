@@ -44,6 +44,21 @@ webauthn-user-presence-prompt = Trykk på sikkerhetsnøkkelen din for å fortset
 webauthn-register-direct-prompt = { $hostname } ber om utvidet informasjon om sikkerhetsnøkkelen din, noe som kan påvirke personvernet ditt.
 webauthn-register-direct-prompt-hint = { -brand-short-name } kan anonymisere dette for deg, men nettstedet kan avslå denne nøkkelen. Hvis du blir avvist, kan du prøve på nytt.
 # Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = Flere kontoer funnet for { $hostname }. Velg hvilken du vil bruke, eller avbryt.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Flere enheter funnet for { $hostname }. Velg en.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = Brukerbekreftelse mislyktes på { $hostname }. Det er ingen forsøk igjen, og enheten din har blitt låst, fordi feil PIN-kode ble oppgitt for mange ganger. Enheten må tilbakestilles.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = Brukerbekreftelse mislyktes på { $hostname }. Det var for mange mislykkede forsøk på rad, og PIN-autentisering er midlertidig blokkert. Enheten din trenger å bli startet om (trekk ut strømkabelen og sett inn igjen).
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = Brukerbekreftelse mislyktes på { $hostname }. Det kan hende du må angi en PIN-kode på enheten.
+# Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-uv-blocked-prompt = Brukerbekreftelse mislyktes på { $hostname }. Det var for mange mislykkede forsøk, og den innebygde brukerbekreftelsesmetoden er blokkert.
 webauthn-already-registered-prompt = Denne enheten er allerede registrert. Prøv en annen enhet.
