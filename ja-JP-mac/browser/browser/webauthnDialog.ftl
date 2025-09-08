@@ -23,6 +23,18 @@ webauthn-uv-invalid-short-prompt = ユーザー確認に失敗しました。も
 # Variables:
 #  $hostname (String): the origin (website) asking for the security key.
 webauthn-user-presence-prompt = セキュリティキーにタッチして { $hostname } で続行してください。
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = { $hostname } があなたのプライバシーに影響する追加のセキュリティキーについての情報を求めています。
+webauthn-register-direct-prompt-hint = { -brand-short-name } はキーを匿名化できますが、その場合はウェブサイトに拒否されることがあります。拒否されても再試行できます。
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
 webauthn-select-sign-result-prompt = { $hostname } 用の複数のアカウントが見つかりました。使用するアカウントを選択するか、キャンセルしてください。
@@ -44,3 +56,7 @@ webauthn-uv-blocked-prompt = { $hostname } でユーザー確認に失敗しま�
 webauthn-already-registered-prompt = この端末はすでに登録されています。別の端末をお試しください。
 webauthn-cancel = キャンセル
     .accesskey = c
+webauthn-allow = 許可
+    .accesskey = A
+webauthn-block = ブロック
+    .accesskey = B
