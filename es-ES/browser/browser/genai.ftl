@@ -93,6 +93,13 @@ genai-shortcuts-hide =
     .label = Ocultar el acceso directo del chatbot
 genai-menu-choose-chatbot =
     .label = Elija un chatbot IA
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Preguntar a { $provider }
+    .accesskey = P
+genai-menu-no-provider-2 =
+    .label = Preguntar a un chatbot de IA
+    .accesskey = P
 
 ## Chatbot header
 
@@ -209,3 +216,9 @@ link-preview-reading-time =
         [one] { $range } minuto de tiempo de lectura
        *[other] { $range } minutos de tiempo de lectura
     }
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Visitar enlace
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Se ha producido un error.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Reintentar

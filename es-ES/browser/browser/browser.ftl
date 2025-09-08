@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name }  — Navegación privada
        *[other] { -brand-full-name } Navegación privada
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Navegación privada
 
 ##
 
@@ -1445,3 +1448,17 @@ trustpanel-connection-secure = Está conectado de forma segura a este sitio.
 trustpanel-connection-not-secure = No está conectado de forma segura a este sitio.
 trustpanel-siteinformation-morelink = Más información del sitio
 trustpanel-blocker-see-all = Ver todo
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Protecciones contra el rastreo para { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> rastreador bloqueado en este sitio
+       *[other] <span>{ $count }</span> rastreadores bloqueados en este sitio
+    }
+trustpanel-blocker-description = { -brand-product-name } cree que las empresas deberían seguirte menos. Por eso bloqueamos a todas las que podemos.
