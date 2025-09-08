@@ -25,3 +25,10 @@ webauthn-uv-invalid-long-prompt =
        *[other] Brugergodkendelse slog fejl. Du har { $retriesLeft } forsøg tilbage. Prøv igen.
     }
 webauthn-uv-invalid-short-prompt = Brugergodkendelse slog fejl. Prøv igen.
+
+## WebAuthn prompts
+
+webauthn-allow = Tillad
+    .accesskey = T
+webauthn-block = Bloker
+    .accesskey = B
