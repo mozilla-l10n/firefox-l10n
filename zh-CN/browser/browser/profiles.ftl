@@ -95,6 +95,8 @@ profiles-light-theme = 明亮
 profiles-dark-theme = 深邃
 # The default system theme
 profiles-system-theme = 系统
+profiles-system-theme-title =
+    .title = 应用系统主题
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = 万寿菊黄
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = 砖红
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = 苔绿
 profiles-gray-theme = 灰色
+profiles-gray-theme-title =
+    .title = 应用灰色主题
 profiles-yellow-theme = 黄色
+profiles-yellow-theme-title =
+    .title = 应用黄色主题
 profiles-orange-theme = 橙色
+profiles-orange-theme-title =
+    .title = 应用橙色主题
 profiles-red-theme = 红色
+profiles-red-theme-title =
+    .title = 应用红色主题
 profiles-pink-theme = 粉色
+profiles-pink-theme-title =
+    .title = 应用粉色主题
 profiles-purple-theme = 紫色
+profiles-purple-theme-title =
+    .title = 应用紫色主题
 profiles-violet-theme = 菫色
+profiles-violet-theme-title =
+    .title = 应用菫色主题
 profiles-blue-theme = 蓝色
+profiles-blue-theme-title =
+    .title = 应用蓝色主题
 profiles-green-theme = 绿色
+profiles-green-theme-title =
+    .title = 应用绿色主题
 profiles-cyan-theme = 青色
+profiles-cyan-theme-title =
+    .title = 应用青色主题
+profiles-custom-theme-title =
+    .title = 应用自定义主题
 
 ## Alternative text for default profile icons
 
