@@ -56,15 +56,19 @@ experimental-features-newtab-sections-follow-block-description = Мақолаҳ�
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Илова кардани сомонаҳо ба навори вазифаи худ
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Сомонаҳои дӯстдоштаи худро ҳамчун барномаи веб аз навори вазифаҳои худ кушоед. Нишонеро бо номи «Илова кардани варақа ба навори вазифа» дар тарафи рости навори нишонӣ ҷустуҷӯ кунед, то тавонед тавассути он сомонаро бо тамоми имкониятҳои муҳофизати «{ -brand-product-name }» дар равзанаи беҳтаршуда оғоз намоед. <a data-l10n-name="connect">Назари худро изҳор намоед</a>
 
 ## New Tab Productivity Widgets
 
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Рӯйхатҳо дар «{ -firefox-home-brand-name }»
+experimental-features-newtab-widget-lists-description = Ҳангоми кушодани варақаи нав, рӯйхати корҳои худро ҳамеша боинтизом дар хотир нигоҳ доред. Аз рӯйхатҳои бастабандӣ то рӯйхатҳои харидорӣ, нақшаҳои худро дар «{ -brand-product-name }» ба тартиб дароред. <a data-l10n-name="connect">Назари худро изҳор намоед</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Вақтсанҷ дар «{ -firefox-home-brand-name }»
+experimental-features-newtab-widget-timer-description = Вақтсанҷро таъин кунед, то тавонед диққати худро нигоҳ доред, худро барои риояи нақша ҳидоят намоед ё дар бораи зарурати барқарор кардани нерӯ хотиррасон кунед. <a data-l10n-name="connect">Назари худро изҳор намоед</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Рӯйхатҳо ва вақтсанҷ дар «{ -firefox-home-brand-name }»
