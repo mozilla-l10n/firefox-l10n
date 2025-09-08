@@ -309,3 +309,14 @@ palette-avatar-tooltip =
     .tooltiptext = Awatar palety nałožić
 paw-print-avatar-tooltip =
     .tooltiptext = Awatar pacy nałožić
+plane-avatar-tooltip =
+    .tooltiptext = Awatar lětadła nałožić
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Awatar dara nałožić
+shopping-avatar-tooltip =
+    .tooltiptext = Awatar nakupowanskeho wozyka nałožić
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Awatar koparskeho bula nałožić
+star-avatar-tooltip =
+    .tooltiptext = Awatar hwězdy nałožić

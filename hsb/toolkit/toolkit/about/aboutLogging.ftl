@@ -113,6 +113,7 @@ about-logging-save-error = Při składowanju dataje je zmylk nastał: { $errorTe
 #   $date (date) - The date and time when the profile was uploaded
 about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
 about-logging-uploaded-profiles-title = Nahrate profile
+about-logging-no-uploaded-profiles = Hišće njejsu so profile nahrali.
 about-logging-delete-uploaded-profile = Zhašeć
 about-logging-view-uploaded-profile = Profil pokazać
 about-logging-delete-profile-confirm-title = Profil zhašeć

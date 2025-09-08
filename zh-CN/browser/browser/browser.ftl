@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — 隐私浏览
        *[other] { -brand-full-name } 隐私浏览
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = 隐私浏览
 
 ##
 
@@ -1313,6 +1316,7 @@ firefox-relay-offer-why-to-use-relay = 我们安全易用的马甲邮箱可隐�
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = 发送到马甲邮箱的所有电子邮件都将转发到 <strong>{ $useremail }</strong>（除非您选择拦截）。
 firefox-relay-offer-legal-notice = 点击“使用马甲邮箱”，即表示您同意<label data-l10n-name="tos-url">服务条款</label>和<label data-l10n-name="privacy-url">隐私声明</label>。
+firefox-relay-offer-legal-notice-1 = 注册和创建马甲邮箱，即表示您同意我们的<label data-l10n-name="tos-url">服务条款</label>和<label data-l10n-name="privacy-url">隐私声明</label>。
 
 ## Add-on Pop-up Notifications
 

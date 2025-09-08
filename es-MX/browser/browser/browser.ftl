@@ -808,6 +808,72 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Obtén datos del mercado de valores directamente en tu barra de búsqueda
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Muestra actualizaciones del mercado y más de nuestros socios al compartir datos de consultas de búsqueda con { -vendor-short-name }. <a data-l10n-name="learn-more-link">Aprender más</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Mostrar sugerencias
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ahora no
+urlbar-result-realtime-opt-in-dismiss = Descartar
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = No mostrar estas sugerencias
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = No mostrar sugerencias de mercados
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Gracias por tu opinión. Ya no verás sugerencias de mercados.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Gracias por tu opinión. Ya no verás estas sugerencias.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · En { $daysUntilStart } día
+       *[other] { $name } · En { $daysUntilStart } días
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Inicia en { $daysUntilStart } día
+       *[other] { $name } · Inicia en { $daysUntilStart } días
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Termina en { $daysUntilEnd } día
+       *[other] { $name } · Termina en { $daysUntilEnd } días
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Hoy
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Termina hoy
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -834,11 +900,15 @@ urlbar-searchmode-actions =
     .label = Acciones
 urlbar-searchmode-exit-button =
     .tooltiptext = Cerrar
+urlbar-searchmode-default =
+    .tooltiptext = Motor de búsqueda predeterminado
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Esta vez busca con:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Configuración de Búsqueda
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nuevo
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -889,6 +959,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendencia en { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Patrocinado
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = No mostrar búsquedas de tendencia
@@ -1085,6 +1158,9 @@ panel-save-update-password = Contraseña
 # "More" item in macOS share menu
 menu-share-more =
     .label = Más…
+menu-share-copy-link =
+    .label = Copiar enlace
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = Cerrar
 
@@ -1132,6 +1208,8 @@ navbar-accessible =
     .aria-label = Navegación
 navbar-downloads =
     .label = Descargas
+navbar-overflow-2 =
+    .tooltiptext = Más herramientas
 navbar-overflow =
     .tooltiptext = Más herramientas…
 # Variables:
@@ -1157,6 +1235,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Mostrar todas las pestañas
     .tooltiptext = Mostrar todas las pestañas
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Soltar la pestaña aquí para pegar
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1260,6 +1342,15 @@ popup-notification-addon-install-unsigned =
     .value = (No verificado)
 popup-notification-xpinstall-prompt-learn-more = Saber más sobre cómo instalar complementos de forma segura
 popup-notification-xpinstall-prompt-block-url = Ver detalles
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Permitir que la extensión se ejecute en ventanas privadas
+    .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Compartir datos técnicos y de interacción con el desarrollador de la extensión
+    .accesskey = S
 
 ## Pop-up warning
 
@@ -1310,3 +1401,21 @@ file-picker-crashed-save-nowhere = El diálogo de archivo de Windows ha fallado.
 file-picker-crashed-show-in-folder =
     .label = Mostrar en carpeta
     .accessKey = M
+
+## Onboarding Finish Setup checklist
+
+onboarding-checklist-button-label = Finalizar los ajustes
+onboarding-aw-finish-setup-button =
+    .label = Finalizar los ajustes
+    .tooltiptext = Finalizar los ajustes de { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Protección de seguimiento mejorada habilitada
+trustpanel-etp-label-disabled = Protección de seguimiento mejorada deshabilitada
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-description = { -brand-product-name } piensa que las empresas deberían seguirte menos. Por eso bloqueamos a todas las que podemos.
+trustpanel-blocked-header = { -brand-product-name } bloqueó estas cosas por ti:
