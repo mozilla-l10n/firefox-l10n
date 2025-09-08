@@ -28,6 +28,42 @@ webauthn-uv-invalid-short-prompt = Staðfesting notanda mistókst. Reyndu aftur.
 
 ## WebAuthn prompts
 
+# Variables:
+#  $hostname (String): the origin (website) asking for the security key.
+webauthn-user-presence-prompt = Snertu öryggislykilinn þinn til að halda áfram með { $hostname }.
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = { $hostname } er að biðja um ítarlegar upplýsingar um öryggislykilinn þinn, sem gæti haft áhrif á friðhelgi þína.
+webauthn-register-direct-prompt-hint = { -brand-short-name } getur gert þetta nafnlaust fyrir þig, en vefsvæðið gæti hafnað þessum lykli. Ef þessu er hafnað geturðu reynt aftur.
+# Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = Margir reikningar fundust fyrir { $hostname }. Veldu hvern þeirra eigi að nota eða hættu við.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Mörg tæki fundust fyrir { $hostname }. Veldu eitt þeirra.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = Staðfesting notanda mistókst á { $hostname }. Engar tilraunir eru eftir og tækinu þínu hefur verið læst vegna þess að rangt PIN-númer var gefið upp of oft. Tækið þarfnast endurstillingar.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = Staðfesting notanda mistókst á { $hostname }. Það voru of margar misheppnaðar tilraunir í röð og PIN-staðfesting hefur verið lokað tímabundið. Endurtengja þarf tækið þitt (tengdu og settu aftur í samband).
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = Staðfesting notanda mistókst á { $hostname }. Þú gætir þurft að stilla PIN-númer á tækinu þínu.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = Staðfesting notanda mistókst á { $hostname }. Það voru of margar misheppnaðar tilraunir og innbyggðu aðferðinni við staðfestingu notanda hefur verið læst.
+webauthn-already-registered-prompt = Þetta tæki er þegar skráð. Prófaðu annað tæki.
+webauthn-cancel = Hætta við
+    .accesskey = æ
 webauthn-allow = Heimila
     .accesskey = A
 webauthn-block = Loka á
