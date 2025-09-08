@@ -27,3 +27,16 @@ webauthn-uv-invalid-long-prompt =
        *[other] Provjera korisnika nije uspjela. Imate još { $retriesLeft } pokušaja. Pokušajte ponovno.
     }
 webauthn-uv-invalid-short-prompt = Provjera korisnika nije uspjela. Pokušajte ponovno.
+
+## WebAuthn prompts
+
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = Provjera korisnika za { $hostname } nije uspjela. Bilo je previše neuspjelih pokušaja i ugrađena metoda provjere korisnika je blokirana.
+webauthn-already-registered-prompt = Ovaj uređaj je već registriran. Pokušajte s drugim uređajem.
+webauthn-cancel = Odustani
+    .accesskey = d
+webauthn-allow = Dozvoli
+    .accesskey = D
+webauthn-block = Blokiraj
+    .accesskey = B
