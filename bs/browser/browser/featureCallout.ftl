@@ -124,6 +124,8 @@ windows-10-eos-sync-new-device-title-2 = Prelazite na novi uređaj? Ne gubite on
 windows-10-eos-sync-new-device-subtitle-2 = Bez obzira koliko često koristite { -brand-short-name }, sinhronizacija štiti vaše zabilješke, lozinke i postavke.
 windows-10-eos-sync-new-device-primary-label = Sinhronizuj sada
 windows-10-eos-sync-general-title-1 = Zaštitite { -brand-short-name } koji ste stvorili.
+windows-10-eos-sync-general-subtitle-1 = Napravite sigurnosnu kopiju i sinhronizujte svoje lozinke, zabilješke, postavke i ostale podatke kako biste sačuvali ono što vam je važno.
+windows-10-eos-sync-general-title-2 = Sada je pravo vrijeme da napravite sigurnosnu kopiju lozinki i zabilješki.
 
 ## Sidebar Strings
 

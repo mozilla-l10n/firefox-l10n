@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — privatno pregledanje
        *[other] { -brand-full-name } privatno pregledanje
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Privatno pretraživanje
 
 ##
 
@@ -832,6 +835,19 @@ urlbar-result-dismissal-acknowledgment-market = Hvala na povratnim informacijama
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Hvala na povratnim informacijama. Više nećete vidjeti ove prijedloge.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Danas
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Završava se danas
 
 ## Strings used for buttons in the urlbar
 
