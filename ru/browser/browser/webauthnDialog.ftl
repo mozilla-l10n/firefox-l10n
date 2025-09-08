@@ -33,6 +33,18 @@ webauthn-uv-invalid-short-prompt = Проверка пользователя н�
 # Variables:
 #  $hostname (String): the origin (website) asking for the security key.
 webauthn-user-presence-prompt = Коснитесь вашего ключа безопасности, чтобы продолжить с { $hostname }.
+# The website is asking for extended information about your
+# hardware authenticator that shouldn't be generally necessary. Permitting
+# this is safe if you only use one account at this website. If you have
+# multiple accounts at this website, and you use the same hardware
+# authenticator, then the website could link those accounts together.
+# And this is true even if you use a different profile / browser (or even Tor
+# Browser). To avoid this, you should use different hardware authenticators
+# for different accounts on this website.
+# Variables:
+#  $hostname (String): the origin (website) asking for the extended information.
+webauthn-register-direct-prompt = { $hostname } запрашивает расширенную информацию о вашем ключе безопасности, что может повлиять на вашу приватность.
+webauthn-register-direct-prompt-hint = { -brand-short-name } может сделать этот запрос анонимным для вас, но веб-сайт может отклонить этот ключ. В случае отклонения вы сможете попробовать ещё раз.
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
 webauthn-select-sign-result-prompt = Для { $hostname } найдено несколько учётных записей. Выберите, какую использовать, или отмените.
