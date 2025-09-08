@@ -109,8 +109,12 @@ windows-10-eos-sync-new-device-title-2 = Canvieu de dispositiu? No perdeu les co
 windows-10-eos-sync-new-device-subtitle-2 = Independentment de la freqüència amb què utilitzeu el { -brand-short-name }, la sincronització protegeix les adreces d'interès, les contrasenyes i la configuració.
 windows-10-eos-sync-new-device-primary-label = Sincronitza ara
 windows-10-eos-sync-general-title-1 = Protegiu el { -brand-short-name } que us heu fet vostre.
+windows-10-eos-sync-general-subtitle-1 = Feu una còpia de seguretat de les contrasenyes, les adreces d'interès, la configuració i altres dades i sincronitzeu-les per protegir el que us és imprescindible.
+windows-10-eos-sync-general-title-2 = Ara és un bon moment per fer una còpia de seguretat de les contrasenyes i les adreces d'interès.
+windows-10-eos-sync-general-subtitle-2 = Sincronitzeu ara per protegir les coses que confieu al { -brand-short-name } i recuperar-les a qualsevol lloc i en qualsevol moment.
 windows-10-eos-sync-tour-title-1 = Massa pestanyes? Endreceu-les amb els grups de pestanyes.
 windows-10-eos-sync-tour-subtitle-1 = Arrossegueu una pestanya a sobre d’una altra per crear un grup i tenir-ho tot organitzat.
+windows-10-eos-sync-tour-title-2 = Organitzeu-vos per al Windows 11.
 
 ## Sidebar Strings
 
@@ -132,6 +136,14 @@ vertical-tabs-callout-2-subtitle = Aquesta disposició permet examinar ràpidame
 sidebar-pins-callout-title = Heu perdut la pista de les vostres pestanyes importants?
 sidebar-pins-callout-subtitle = Proveu de fixar-les: es mantindran a la part superior de la llista de pestanyes. Feu clic amb el botó dret a la pestanya que vulgueu fixar i trieu «Fixa la pestanya».
 sidebar-pins-callout-cta-button = Fixa la pestanya
+
+## Pinning Tabs Strings
+
+pin-tabs-callout-1-title = Tingueu les pestanyes importants a l'abast
+pin-tabs-callout-1-subtitle = Arrossegueu una pestanya fins al principi de la barra de pestanyes per fixar-la, o feu clic amb el botó dret i trieu Fixa la pestanya.
+pin-tabs-callout-cta-1-button = Fixa aquesta pestanya
+pin-tabs-callout-2-title = Fixeu les pestanyes que visiteu més
+pin-tabs-callout-2-subtitle = Per a fixar qualsevol pestanya, arrossegueu-la fins al principi de la barra de pestanyes, o feu clic amb el botó dret i trieu Fixa la pestanya.
 
 ## Sidebar Onboarding Strings
 
