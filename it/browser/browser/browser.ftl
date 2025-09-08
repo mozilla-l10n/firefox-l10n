@@ -1488,7 +1488,6 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } ha consentito { $count } tracciante dei social media
        *[other] { -brand-product-name } ha consentito { $count } traccianti dei social media
     }
-trustpanel-social-tracking-tab-list-header = Questi siti stanno cercando di tracciarti:
 trustpanel-tracking-cookies-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } ha bloccato { $count } cookie tracciante intersito
@@ -1499,7 +1498,6 @@ trustpanel-tracking-cookies-not-blocking-tab-header =
         [one] { -brand-product-name } ha consentito { $count } cookie tracciante intersito
        *[other] { -brand-product-name } ha consentito { $count } cookie traccianti intersito
     }
-trustpanel-tracking-cookies-tab-list-header = Questi siti stanno cercando di tracciarti:
 trustpanel-tracking-content-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } ha bloccato { $count } elemento tracciante
@@ -1517,4 +1515,3 @@ trustpanel-fingerprinter-list-header = Questi siti stanno cercando di acquisire 
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } ha bloccato { $count } cryptominer
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } ha consentito { $count } cryptominer
 trustpanel-cryptominer-tab-list-header = Questi siti stanno tentando di effettuare cryptomining:
-
