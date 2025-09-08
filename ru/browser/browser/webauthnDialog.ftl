@@ -60,6 +60,12 @@ webauthn-pin-auth-blocked-prompt = Ошибка проверки пользов�
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-not-set-prompt = Ошибка проверки пользователя на { $hostname }. Возможно, вам потребуется установить PIN-код на вашем устройстве.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = Ошибка проверки пользователя на { $hostname }. Было слишком много неудачных попыток, и встроенный метод проверки пользователя был заблокирован.
+webauthn-already-registered-prompt = Это устройство уже зарегистрировано. Попробуйте другое устройство.
+webauthn-cancel = Отмена
+    .accesskey = о
 webauthn-allow = Разрешить
     .accesskey = A
 webauthn-block = Блокировать
