@@ -23,6 +23,7 @@ firefox-relay-opt-in-title-1 = Protegiu la vostra adreça electrònica:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Utilitza una màscara d'adreça electrònica del { -relay-brand-name }
+firefox-relay-use-mask-title-1 = Utilitzeu una màscara d'adreça electrònica
 firefox-relay-use-mask-title = Utilitza una màscara d'adreça electrònica del { -relay-brand-name }
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Utilitza una màscara d'adreça electrònica

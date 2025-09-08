@@ -326,6 +326,8 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Manos de pelle clar e de pelle obscur que se da le cinque
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vision de un sol ponente per un fenestra con un vulpe e un planta de interno sur un appoio del fenestra
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Un mano pinge con spray un collage multicolor de un oculo verde, un scarpa orange, un ballon de basket rubie, auriculares purpuree, un corde blau e un corona jalne
 
 ## Device migration onboarding
 

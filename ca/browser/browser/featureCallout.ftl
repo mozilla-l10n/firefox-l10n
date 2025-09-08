@@ -115,6 +115,7 @@ windows-10-eos-sync-general-subtitle-2 = Sincronitzeu ara per protegir les coses
 windows-10-eos-sync-tour-title-1 = Massa pestanyes? Endreceu-les amb els grups de pestanyes.
 windows-10-eos-sync-tour-subtitle-1 = Arrossegueu una pestanya a sobre d’una altra per crear un grup i tenir-ho tot organitzat.
 windows-10-eos-sync-tour-title-2 = Organitzeu-vos per al Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sincronitzeu les adreces d'interès, les contrasenyes i la configuració per a fer-ne una còpia de seguretat abans de fer el canvi.
 
 ## Sidebar Strings
 
@@ -144,6 +145,9 @@ pin-tabs-callout-1-subtitle = Arrossegueu una pestanya fins al principi de la ba
 pin-tabs-callout-cta-1-button = Fixa aquesta pestanya
 pin-tabs-callout-2-title = Fixeu les pestanyes que visiteu més
 pin-tabs-callout-2-subtitle = Per a fixar qualsevol pestanya, arrossegueu-la fins al principi de la barra de pestanyes, o feu clic amb el botó dret i trieu Fixa la pestanya.
+pin-tabs-callout-cta-2-button = Fixa aquesta pestanya
+pin-tabs-callout-3-title = Tingueu els llocs importants a l'abast
+pin-tabs-callout-4-title = Fixeu els llocs que visiteu més
 
 ## Sidebar Onboarding Strings
 

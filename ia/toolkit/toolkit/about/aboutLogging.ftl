@@ -102,3 +102,10 @@ about-logging-upload-error = Un error ha occurrite durante le incargamento del p
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Un error ha occurrite durante le salvamento del file: { $errorText }
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = Deler
+about-logging-view-uploaded-profile = Vider le profilo
+about-logging-delete-profile-confirm-title = Deler profilo
+about-logging-deleting-profile = Deletion…

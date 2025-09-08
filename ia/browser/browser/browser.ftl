@@ -1334,6 +1334,7 @@ firefox-relay-offer-why-to-use-relay = Nostre mascas, secur e facile a usar, occ
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Tote le messages inviate a tu mascas de e-mail essera reexpedite a <strong>{ $useremail }</strong> (si tu non decide de blocar los).
 firefox-relay-offer-legal-notice = Si tu clicca sur “Usar masca de e-mail”, tu accepta le <label data-l10n-name="tos-url">Terminos de servicio</label> e le <label data-l10n-name="privacy-url">Aviso de confidentialitate</label>.
+firefox-relay-offer-legal-notice-1 = Si tu te inscribe e crea un “masca de e-mail”, tu accepta le <label data-l10n-name="tos-url">Terminos de servicio</label> e le <label data-l10n-name="privacy-url">Aviso de confidentialitate</label>.
 
 ## Add-on Pop-up Notifications
 

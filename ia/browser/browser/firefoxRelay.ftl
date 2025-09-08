@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = G
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protege tu adresse de e-mail:
+firefox-relay-opt-in-title-2 = Obtene un masca de e-mail gratuite
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Usa le masca email de { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Usar un masca de e-mail
+firefox-relay-opt-in-subtitle-2 = Protege tu cassa de ingresso de spam
 firefox-relay-use-mask-title = Usa le masca email de { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Impedi le spam con un masca de e-mail gratuite
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Obtene un masca de e-mail gratuite
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protege tu cassa de entrata contra le spam usante un <label data-l10n-name="firefox-relay-learn-more-url">masca de e-mail</label> gratuite pro celar tu adresse real. Le messages de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">iste sito</label> continuara a arrivar in tu cassa de entrata, ma con tu adresse de e-mail celate.
 firefox-relay-and-fxa-popup-notification-first-sentence = Protege tu cassa de entrata contra le spam per un <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } masca de e-mail</label> gratuite pro celar tu adresse real. Le messages de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">iste sito</label> continuara a arrivar in tu cassa de entrata, ma con tu adresse de e-mail celate.
+firefox-relay-offer-why-to-use-relay-1 = Protege tu cassa de entrata contra le spam per un <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } masca de e-mail</label> gratuite pro celar tu adresse real. Le messages de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">iste sito</label> continuara a arrivar in tu cassa de entrata, ma con tu adresse de e-mail celate.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primo, inscribe te o aperi session pro usar un masca de e-mail
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Inscriber se
