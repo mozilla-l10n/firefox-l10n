@@ -73,11 +73,18 @@ bookmarks-toolbar-callout-1-secondary-button-label = No, gràcies
 bookmarks-toolbar-callout-2a-primary-button-label = Entesos
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Amaga la barra d'eines
+bookmarks-toolbar-callout-2b-primary-button-label = Mantén obert
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = No, gràcies
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Necessiteu la resposta correcta, immediatament?
+perplexity-callout-theme-2-title = Proveu Perplexity: una nova manera de cercar
+perplexity-callout-theme-1-subtitle-1 = Proveu Perplexity. Trieu-lo des del botó de cerca quan vulgueu respostes completes, amb les fonts incloses.
+perplexity-callout-theme-1-subtitle-2 = Feu preguntes. Obteniu respostes completes i ben citades. Per a provar Perplexity, trieu-lo al botó de cerca.
+perplexity-callout-theme-2-subtitle-1 = Pregunteu-ho a Perplexity. Obtindreu respostes completes, amb les fonts incloses.
+perplexity-callout-theme-2-subtitle-2 = Feu preguntes. Obteniu respostes completes i ben citades.
 perplexity-callout-primary-label = Demana-ho al Perplexity
 perplexity-callout-secondary-label-1 = Descarta
 perplexity-callout-secondary-label-2 = Entesos
@@ -95,6 +102,13 @@ fxa-adoption-passwords-primary-button-label = Registre
 windows-10-eos-sync-urgency-title-1 = Quan passeu al Windows 11, no perdeu tot allò que heu desat.
 windows-10-eos-sync-urgency-subtitle-1 = Sincronitzeu ara mateix per conservar les vostres adreces d’interès, contrasenyes i els paràmetres del { -brand-short-name } amb total seguretat i fàcils de restaurar.
 windows-10-eos-sync-urgency-title-2 = Us esteu acomiadant del Windows 10? Protegiu les vostres dades quan feu el canvi.
+windows-10-eos-sync-urgency-subtitle-2 = Fins i tot si no feu servir el { -brand-short-name } diàriament, sincronitzeu-lo per tal que les adreces d'interès i les contrasenyes estiguin protegides i siguin accessibles.
+windows-10-eos-sync-new-device-title-1 = No us arrisqueu a començar de nou al pròxim dispositiu.
+windows-10-eos-sync-new-device-subtitle-1 = Sincronitzeu-lo per a endur-vos les adreces d’interès, les contrasenyes i els paràmetres preferits del { -brand-short-name } quan us desplaceu.
+windows-10-eos-sync-new-device-title-2 = Canvieu de dispositiu? No perdeu les coses importants.
+windows-10-eos-sync-new-device-subtitle-2 = Independentment de la freqüència amb què utilitzeu el { -brand-short-name }, la sincronització protegeix les adreces d'interès, les contrasenyes i la configuració.
+windows-10-eos-sync-new-device-primary-label = Sincronitza ara
+windows-10-eos-sync-general-title-1 = Protegiu el { -brand-short-name } que us heu fet vostre.
 windows-10-eos-sync-tour-title-1 = Massa pestanyes? Endreceu-les amb els grups de pestanyes.
 windows-10-eos-sync-tour-subtitle-1 = Arrossegueu una pestanya a sobre d’una altra per crear un grup i tenir-ho tot organitzat.
 
