@@ -300,3 +300,12 @@ lightbulb-avatar-tooltip =
     .tooltiptext = Awatar žehlawki nałožić
 makeup-avatar-tooltip =
     .tooltiptext = Awatar make-up nałožić
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Awatar powěsće nałožić
+musical-note-avatar-tooltip =
+    .tooltiptext = Awatar hudźbneje noty nałožić
+palette-avatar-tooltip =
+    .tooltiptext = Awatar palety nałožić
+paw-print-avatar-tooltip =
+    .tooltiptext = Awatar pacy nałožić

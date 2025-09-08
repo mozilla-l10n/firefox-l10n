@@ -102,3 +102,18 @@ about-logging-upload-error = Při nahrawanju profila je zmylk nastał: { $errorT
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Při składowanju dataje je zmylk nastał: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Nahrate profile
+about-logging-delete-uploaded-profile = Zhašeć
+about-logging-view-uploaded-profile = Profil pokazać
+about-logging-delete-profile-confirm-title = Profil zhašeć
+about-logging-deleting-profile = Zhaša so…
