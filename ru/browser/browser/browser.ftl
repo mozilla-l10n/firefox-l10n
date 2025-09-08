@@ -1342,6 +1342,7 @@ firefox-relay-offer-why-to-use-relay = Наши безопасные и прос
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Все электронные письма, отправленные на ваши псевдонимы электронной почты, будут перенаправлены на <strong>{ $useremail }</strong> (если вы не решите их заблокировать).
 firefox-relay-offer-legal-notice = Нажимая «Использовать псевдоним электронной почты», вы соглашаетесь с <label data-l10n-name="tos-url">Условиями использования</label> и <label data-l10n-name="privacy-url">Примечанием о конфиденциальности</label>.
+firefox-relay-offer-legal-notice-1 = Регистрируясь и создавая псевдоним электронной почты, вы соглашаетесь с <label data-l10n-name="tos-url">Условиями использования</label> и <label data-l10n-name="privacy-url">Уведомлением о конфиденциальности</label>.
 
 ## Add-on Pop-up Notifications
 
