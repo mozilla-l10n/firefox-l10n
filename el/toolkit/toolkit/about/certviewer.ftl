@@ -110,6 +110,8 @@ certificate-viewer-export = Εξαγωγή
 
 # Label for a tab where we haven't found a better label:
 certificate-viewer-unknown-group-label = (άγνωστο)
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = certificate
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

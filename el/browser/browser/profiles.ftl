@@ -33,7 +33,7 @@ edit-profile-page-theme-header-2 =
     .label = Θέμα
 edit-profile-page-explore-themes = Εξερευνήστε περισσότερα θέματα
 edit-profile-page-avatar-header-2 =
-    .label = Εικόνα προφίλ
+    .label = Εικόνα χρήστη
 edit-profile-page-delete-button =
     .label = Διαγραφή
 edit-profile-page-avatar-selector-opener-link = Επεξεργασία
@@ -199,7 +199,7 @@ star-avatar-alt =
 video-game-controller-avatar-alt =
     .alt = Χειριστήριο βιντεοπαιχνιδιού
 custom-avatar-alt =
-    .alt = Προσαρμοσμένο avatar
+    .alt = Προσαρμοσμένη εικόνα χρήστη
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Προεπιλεγμένο εικονίδιο
@@ -215,11 +215,12 @@ bike-avatar-alt =
 
 book-avatar = Βιβλίο
 briefcase-avatar = Χαρτοφύλακας
+clock-avatar = Ρολόι
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Καμβάς
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Χειροτεχνίες
-custom-avatar = Προσαρμοσμένο εικονίδιο
+custom-avatar = Προσαρμοσμένη εικόνα χρήστη
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = Προεπιλεγμένο εικονίδιο
 # Diamond refers to the precious stone, not the geometric shape
@@ -238,10 +239,12 @@ message-avatar = Μήνυμα
 musical-note-avatar = Μουσική νότα
 palette-avatar = Παλέτα
 paw-print-avatar = Πατημασιά ζώου
+picture-avatar = Εικόνα
 plane-avatar = Αεροπλάνο
 # Present refers to a gift box, not the current time period
 present-avatar = Δώρο
 shopping-avatar = Καλάθι αγορών
+soccer-ball-avatar = Μπάλα ποδοσφαίρου
 soccer-avatar = Ποδόσφαιρο
 sparkle-single-avatar = Λάμψη
 star-avatar = Αστέρι
