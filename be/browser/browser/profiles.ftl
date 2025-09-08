@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Кніга
 briefcase-avatar = Партфель
+clock-avatar = Гадзіннік
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Палатно
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Тыповы значок сайта
 diamond-avatar = Алмаз
 flower-avatar = Кветка
 folder-avatar = Папка
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Глобус
 hammer-avatar = Малаток
 heart-avatar = Сэрца
 heart-rate-avatar = Частата пульсу
@@ -238,10 +241,12 @@ message-avatar = Паведамленне
 musical-note-avatar = Музычная нота
 palette-avatar = Палітра
 paw-print-avatar = Адбітак лапы
+picture-avatar = Малюнак
 plane-avatar = Самалёт
 # Present refers to a gift box, not the current time period
 present-avatar = Падарунак
 shopping-avatar = Кошык
+soccer-ball-avatar = Футбольны мяч
 soccer-avatar = Футбол
 sparkle-single-avatar = Бліскавіца
 star-avatar = Зорка
