@@ -43,6 +43,21 @@ webauthn-user-presence-prompt = Toque na sua chave de segurança para continuar 
 #  $hostname (String): the origin (website) asking for the extended information.
 webauthn-register-direct-prompt = { $hostname } está a solicitar informações adicionais sobre a sua chave de segurança, o que pode afetar a sua privacidade.
 webauthn-register-direct-prompt-hint = O { -brand-short-name } pode anonimizar esta informação por si, mas o site pode recusar esta chave. Se for recusada, pode tentar novamente.
+# Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = Múltiplas contas encontradas para { $hostname }. Selecione qual usar ou cancelar.
+# Variables:
+#  $hostname (String): the origin (website) for which a device needs to be selected.
+webauthn-select-device-prompt = Múltiplos dispositivos encontrados para { $hostname }. Por favor, escolha um.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-device-blocked-prompt = A verificação do utilizador falhou em { $hostname }. Não existem mais tentativas disponíveis e o seu dispositivo foi bloqueado porque foi fornecido um PIN incorreto demasiadas vezes. O dispositivo precisa de ser reinicializado.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-auth-blocked-prompt = A verificação do utilizador falhou em { $hostname }. Ocorreram demasiadas tentativas consecutivas falhadas e a autenticação através do PIN foi temporariamente bloqueada. O seu dispositivo precisa de um ciclo de energia (desligue e reintroduza o dispositivo).
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = A verificação do utilizador falhou em { $hostname }. Pode ser necessário definir um PIN no seu dispositivo.
 webauthn-allow = Permitir
     .accesskey = P
 webauthn-block = Bloquear
