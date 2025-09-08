@@ -115,3 +115,13 @@ about-logging-save-error = Det oppstod en feil under lagring av filen: { $errorT
 # Variables:
 #   $date (date) - The date and time when the profile was uploaded
 about-logging-uploaded-profile-name = Profil { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Opplastede profiler
+about-logging-no-uploaded-profiles = Ingen profiler er lastet opp ennå.
+about-logging-delete-uploaded-profile = Slett
+about-logging-view-uploaded-profile = Vis profil
+about-logging-delete-profile-confirm-title = Slett profil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Er du sikker på at du vil slette profilen «{ $profileName }»? Dette kan ikke angres.
+about-logging-deleting-profile = Sletter…
