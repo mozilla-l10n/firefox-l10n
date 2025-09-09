@@ -478,7 +478,10 @@ available-updates-heading = Beschikbare updates
 recent-updates-heading = Recente updates
 release-notes-loading = Laden…
 release-notes-error = Sorry, maar er is een fout opgetreden bij het laden van de uitgaveopmerkingen.
+addon-permissions-heading = Toestemmingen
 addon-permissions-empty2 = Voor deze extensie zijn geen toestemmingen vereist.
+addon-permissions-required-label = Vereist:
+addon-permissions-optional-label = Optioneel:
 addon-permissions-empty = Voor deze extensie zijn geen toestemmingen vereist
 addon-permissions-required = Vereiste toestemmingen voor kernfunctionaliteit:
 addon-permissions-optional = Optionele toestemmingen voor extra functionaliteit:
@@ -574,6 +577,10 @@ permissions-data-addon-button = Toestemmingen en gegevens
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Gebruikt door de extensie { $extensionName }
+addon-permissions-data-collection-heading = Gegevensverzameling
+addon-permissions-data-collection-empty = De ontwikkelaar zegt dat deze extensie geen gegevensverzameling vereist.
+addon-data-collection-provided = Info verstrekt door de extensieontwikkelaar
+addon-data-collection-learnmore = Meer info over gegevensverzameling
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

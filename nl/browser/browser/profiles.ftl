@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Boek
 briefcase-avatar = Werkmap
+clock-avatar = Klok
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Standaardfavicon
 diamond-avatar = Diamant
 flower-avatar = Bloem
 folder-avatar = Map
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Wereldbol
 hammer-avatar = Hamer
 heart-avatar = Hart
 heart-rate-avatar = Hartslag
@@ -238,10 +241,12 @@ message-avatar = Bericht
 musical-note-avatar = Muzieknoot
 palette-avatar = Palet
 paw-print-avatar = Pootafdruk
+picture-avatar = Afbeelding
 plane-avatar = Vliegtuig
 # Present refers to a gift box, not the current time period
 present-avatar = Kado
 shopping-avatar = Winkelwagen
+soccer-ball-avatar = Voetbal
 soccer-avatar = Voetbal
 sparkle-single-avatar = Glitter
 star-avatar = Ster
@@ -256,3 +261,66 @@ custom-avatar-drag-handle =
     .aria-label = Formaat van bijsnijdgebied wijzigen
 barbell-avatar = Halter
 bike-avatar = Fiets
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Barbell-avatar toepassen
+bike-avatar-tooltip =
+    .tooltiptext = Fietsavatar toepassen
+book-avatar-tooltip =
+    .tooltiptext = Boekavatar toepassen
+briefcase-avatar-tooltip =
+    .tooltiptext = Aktetas-avatar toepassen
+picture-avatar-tooltip =
+    .tooltiptext = Afbeeldingsavatar toepassen
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Handwerkavatar toepassen
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Wereldbolavatar toepassen
+diamond-avatar-tooltip =
+    .tooltiptext = Diamantavatar toepassen
+flower-avatar-tooltip =
+    .tooltiptext = Bloemavatar toepassen
+folder-avatar-tooltip =
+    .tooltiptext = Mapavatar toepassen
+hammer-avatar-tooltip =
+    .tooltiptext = Hamer-avatar toepassen
+heart-avatar-tooltip =
+    .tooltiptext = Hartavatar toepassen
+heart-rate-avatar-tooltip =
+    .tooltiptext = Hartslagavatar toepassen
+clock-avatar-tooltip =
+    .tooltiptext = Klokavatar toepassen
+leaf-avatar-tooltip =
+    .tooltiptext = Bladavatar toepassen
+lightbulb-avatar-tooltip =
+    .tooltiptext = Gloeilampavatar toepassen
+makeup-avatar-tooltip =
+    .tooltiptext = Make-upavatar toepassen
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Berichtavatar toepassen
+musical-note-avatar-tooltip =
+    .tooltiptext = Muzieknootavatar toepassen
+palette-avatar-tooltip =
+    .tooltiptext = Paletavatar toepassen
+paw-print-avatar-tooltip =
+    .tooltiptext = Pootafdrukavatar toepassen
+plane-avatar-tooltip =
+    .tooltiptext = Vliegtuigavatar toepassen
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Cadeau-avatar toepassen
+shopping-avatar-tooltip =
+    .tooltiptext = Winkelwagenavatar toepassen
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Voetbalavatar toepassen
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Glitteravatar toepassen
+star-avatar-tooltip =
+    .tooltiptext = Steravatar toepassen
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Gamecontroller-avatar toepassen
