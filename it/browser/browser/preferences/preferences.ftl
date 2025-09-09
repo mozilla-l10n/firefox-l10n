@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Alcuni siti potrebbero non funzionare corrett
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } consiglia di utilizzare le impostazioni “Risolvi problemi con i siti” per ridurre malfunzionamenti e problemi con i contenuti. Se un sito non funziona correttamente, prova a disattivare la protezione antitracciamento per caricare tutti i contenuti.
 content-blocking-and-isolating-etp-warning-description-2 = Questa impostazione potrebbe causare in alcuni siti la mancata visualizzazione di contenuti o altri problemi di funzionamento. Se una pagina non viene visualizzata correttamente, provare a disattivare la protezione antitracciamento per quel sito per ricaricare tutti i contenuti.
 content-blocking-warning-learn-how = Scopri come
+content-blocking-baseline-exceptions-3 =
+    .label = Risolvi problemi gravi con i siti (opzione consigliata)
+    .description = Favorisce il corretto caricamento e funzionamento dei siti sbloccando solo elementi essenziali che potrebbero contenere elementi traccianti. Questa soluzione permette di risolvere i problemi più comuni.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Risolvi problemi minori con i siti
+    .description = Consente di ripristinare elementi come i video negli articoli o le sezioni dei commenti sbloccando componenti che potrebbero includere elementi traccianti. Questo può diminuire i problemi del sito, ma garantisce una protezione minore. È necessario utilizzarlo insieme alle correzioni per problemi gravi.
 content-blocking-baseline-exceptions =
     .label = Consenti a { -brand-short-name } di applicare automaticamente le eccezioni necessarie per evitare problemi significativi con i siti web.
 content-blocking-baseline-exceptions-2 =
