@@ -101,4 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartir
 about-logging-upload-error = Ocurrió un error al subir el perfil: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Ocurrió un error al guardar el perfil subido: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Ocurrió un error al guardar el archivo: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Perfil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Perfiles subidos
+about-logging-no-uploaded-profiles = Todavía no se ha subido ningún perfil.
+about-logging-delete-uploaded-profile = Borrar
+about-logging-view-uploaded-profile = Ver perfil
+about-logging-delete-profile-confirm-title = Borrar perfil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = ¿Está seguro de querer borrar el perfil “{ $profileName }”? Esto no se puede deshacer.
+about-logging-deleting-profile = Borrando…
