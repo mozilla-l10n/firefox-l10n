@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Troppe schede? Fai un po’ di ordine con i g
 windows-10-eos-sync-tour-subtitle-1 = Trascina una scheda sopra l’altra per creare un gruppo e mantenere tutto in ordine.
 windows-10-eos-sync-tour-title-2 = Preparati per Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Sincronizza i tuoi segnalibri, password e impostazioni per effettuarne il backup prima di cambiare.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Mostra meno suggerimenti
+windows-10-eos-sync-dismiss-button-label = Chiudi
+windows-10-eos-sync-callout-primary-advance-button-label = Successivo
 
 ## Sidebar Strings
 
