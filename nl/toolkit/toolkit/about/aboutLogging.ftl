@@ -122,3 +122,8 @@ about-logging-no-uploaded-profiles = Er zijn nog geen profielen geüpload.
 about-logging-delete-uploaded-profile = Verwijderen
 about-logging-view-uploaded-profile = Profiel bekijken
 about-logging-delete-profile-confirm-title = Profiel verwijderen
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Weet u zeker dat u het profiel ‘{ $profileName }’ wilt verwijderen? Dit kan niet ongedaan worden gemaakt.
+about-logging-deleting-profile = Verwijderen…
