@@ -1335,6 +1335,7 @@ firefox-relay-offer-why-to-use-relay = Nuestras máscaras seguras y fáciles de 
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Todos los correos electrónicos enviados a tus máscaras de correo electrónico se reenviarán a <strong>{ $useremail }</strong> (a menos que decidas bloquearlos).
 firefox-relay-offer-legal-notice = Al hacer clic en "Usar máscara de correo electrónico", aceptas <label data-l10n-name="tos-url">Los Términos de Servicio</label> y <label data-l10n-name="privacy-url">El Aviso de Privacidad</label>.
+firefox-relay-offer-legal-notice-1 = Al iniciar sesión y crear una máscara de correo electrónico, aceptas los <label data-l10n-name="tos-url">Términos de servicio</label> y el <label data-l10n-name="privacy-url">Aviso de privacidad</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1413,9 +1414,52 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Protección de seguimiento mejorada habilitada
 trustpanel-etp-label-disabled = Protección de seguimiento mejorada deshabilitada
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protección mejorada contra rastreo: Activada para { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protección mejorada contra rastreo: Desactivada para { $host }
+trustpanel-etp-description-enabled = Si algo parece que no funciona en este sitio, intenta desactivar las protecciones.
+trustpanel-etp-description-disabled = { -brand-product-name } piensa que las empresas deberían seguirte menos. Bloqueamos tantos rastreadores como podemos cuando se activan las protecciones.
+trustpanel-connection-label-secure = Conexión segura
+trustpanel-connection-label-insecure = Conexión insegura
+trustpanel-header-enabled = { -brand-product-name } está en guardia
+trustpanel-description-enabled = Estás bajo protección. Si detectamos algo, te lo haremos saber
+trustpanel-header-disabled = Desactivaste las protecciones
+trustpanel-description-disabled = { -brand-product-name } está fuera de servicio. Te sugerimos volver a activar las protecciones.
+trustpanel-clear-cookies-button = Limpiar cookies y datos del sitio
+trustpanel-privacy-link = Ajustes de privacidad
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Borrar cookies y datos del sitio para { $host }
+trustpanel-clear-cookies-description = Eliminar cookies y datos del sitio puede cerrar sesión en los sitios web y limpiar los carritos de compras.
+trustpanel-clear-cookies-subview-button-clear = Limpiar
+trustpanel-clear-cookies-subview-button-cancel = Cancelar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Protecciones de conexión para { $host }
+trustpanel-connection-secure = Se estableció una conexión segura con este sitio.
+trustpanel-connection-not-secure = No se estableció una conexión segura con este sitio.
+trustpanel-siteinformation-morelink = Más información del sitio
+trustpanel-blocker-see-all = Ver todo
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Protecciones contra el rastreo para { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> Rastreador bloqueado para este sitio
+       *[other] <span>{ $count }</span> Rastreadores bloqueadores para este sitio
+    }
 trustpanel-blocker-description = { -brand-product-name } piensa que las empresas deberían seguirte menos. Por eso bloqueamos a todas las que podemos.
 trustpanel-blocked-header = { -brand-product-name } bloqueó estas cosas por ti:
+trustpanel-tracking-header = { -brand-product-name } permitió estas cosas para que los sitios no fallen:

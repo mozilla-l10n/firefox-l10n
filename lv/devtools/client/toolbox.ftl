@@ -12,9 +12,8 @@
 ## the label.
 
 toolbox-meatball-menu-dock-bottom-label = Pieslēgt apakšā
-toolbox-meatball-menu-dock-left-label = Pieslēgt pa kreizi
+toolbox-meatball-menu-dock-left-label = Pieslēgt pa kreisi
 toolbox-meatball-menu-dock-right-label = Pieslēgt pa labi
-toolbox-meatball-menu-dock-separate-window-label = Atsevišķs logs
 toolbox-meatball-menu-splitconsole-label = Rādīt dalīto konsoli
 toolbox-meatball-menu-hideconsole-label = Paslēpt dalīto konsoli
 toolbox-meatball-menu-settings-label = Iestatījumi
