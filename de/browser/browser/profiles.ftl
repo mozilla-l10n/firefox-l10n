@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Buch
 briefcase-avatar = Aktenkoffer
+clock-avatar = Uhr
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Standard-Favicon
 diamond-avatar = Diamant
 flower-avatar = Blume
 folder-avatar = Ordner
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globus
 hammer-avatar = Hammer
 heart-avatar = Herz
 heart-rate-avatar = Herzfrequenz
@@ -242,6 +245,7 @@ plane-avatar = Flugzeug
 # Present refers to a gift box, not the current time period
 present-avatar = Geschenk
 shopping-avatar = Einkaufswagen
+soccer-ball-avatar = Fußball
 soccer-avatar = Fußball
 sparkle-single-avatar = Funkeln
 star-avatar = Stern

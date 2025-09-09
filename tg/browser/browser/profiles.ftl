@@ -303,6 +303,10 @@ makeup-avatar-tooltip =
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-tooltip =
     .tooltiptext = Татбиқи аватар бо паём
+musical-note-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо нотаи мусиқӣ
+palette-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо рангубор
 # Present refers to a gift box, not the current time period
 present-avatar-tooltip =
     .tooltiptext = Татбиқи аватар бо туҳфа
