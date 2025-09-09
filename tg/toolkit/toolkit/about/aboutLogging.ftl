@@ -103,6 +103,9 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Мубо�
 about-logging-upload-error = Ҳангоми боркунии профил хато ба миён омад: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Ҳангоми нигоҳдории профили боршуда хато ба миён омад: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Ҳангоми нигоҳ доштани файл хато ба миён омад: { $errorText }
 
 ## Uploaded Profiles section
