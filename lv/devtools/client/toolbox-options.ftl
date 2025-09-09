@@ -32,15 +32,39 @@ options-show-user-agent-styles-tooltip =
     .title = Šīs iespējas ieslēgšana parādīs pārlūka ielādētos noklusējuma stilus
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Saīsināt DOM atribūtus
+options-collapse-attrs-tooltip =
+    .title = Saīsināt garus atribūtus inspektorā
+# The label for the checkbox option to enable the "drag to update" feature
+options-inspector-draggable-properties-label = Kšķiniet un velciet, lai rediģētu izmēru vērtības
+options-inspector-draggable-properties-tooltip =
+    .title = Kšķiniet un velciet, lai rediģētu izmēru vērtības inspektora kārtulu skatā.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Izmantot vienkāršākus izcēlējus ar preferences-reduced-motion
+options-inspector-simplified-highlighters-tooltip =
+    .title = Ieslēdz vienkāršotus izcēlējus, ja ir ieslēgta opcija prefers-reduced-motion. Lai izvairītos no mirgošanas efektiem, ap izceltajiem elementiem zīmē līnijas, nevis aizpildītus taisnstūrus.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Fokusēt uz nākamo ievades elementu ar <kbd>Enter</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Ja šī opcija ir ieslēgta, nospiežot taustiņu Enter, rediģējot atlasītāju, rekvizīta nosaukumu vai vērtību, fokuss tiks pārvietots uz nākamo ievades elementu.
 
 ## "Default Color Unit" options for the Inspector
 
-options-default-color-unit-label = Noklusētā krāsu vienība
+options-default-color-unit-label = Noklusējuma krāsu vienība
 options-default-color-unit-authored = Kā norādīts
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Krāsu nosaukumi
+
+## Web Console section
+
+# The heading
+options-webconsole-label = Tīmekļa konsole
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Ieslēgt dalīto konsoli
 
 ## Style Editor section
 

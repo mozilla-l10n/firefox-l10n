@@ -1472,3 +1472,65 @@ trustpanel-list-label-tracking-cookies =
        *[other] { $count } cookies de rastreo entre sitios
     }
 trustpanel-list-label-tracking-content = Contenido de rastreo
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } detectores de huellas digitales
+       *[other] { $count } detectores de huellas digitales
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } rastreador de redes sociales
+       *[other] { $count } rastreadores de redes sociales
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } criptominero
+       *[other] { $count } criptomineros
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } rastreador de redes sociales
+       *[other] { -brand-product-name } bloqueó { $count } rastreadores de redes sociales
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } rastreador de redes sociales
+       *[other] { -brand-product-name } permitió { $count } rastreadores de redes sociales
+    }
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } cookie de rastreo entre sitios
+       *[other] { -brand-product-name } bloqueó { $count } cookies de rastreo entre sitios
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } cookie de rastreo entre sitios
+       *[other] { -brand-product-name } permitió { $count } cookies de rastreo entre sitios
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } rastreador
+       *[other] { -brand-product-name } bloqueó { $count } rastreadores
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } rastreador
+       *[other] { -brand-product-name } permitió { $count } rastreadores
+    }
+trustpanel-tracking-content-tab-list-header = Estos sitios están tratando de seguirte:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } detector de huellas digitales
+       *[other] { -brand-product-name } bloqueó { $count } detectores de huellas digitales
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } detector de huellas digitales
+       *[other] { -brand-product-name } permitió { $count } detectores de huellas digitales
+    }
+trustpanel-fingerprinter-list-header = Estos sitios están tratando de identificarte:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bloqueó { $count } criptominero
+       *[other] { -brand-product-name } bloqueó { $count } criptomineros
+    }
