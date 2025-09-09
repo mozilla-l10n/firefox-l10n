@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Llyfr
 briefcase-avatar = Bag Dogfennau
+clock-avatar = Cloc
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Cynfas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Favicon rhagosodedig
 diamond-avatar = Diemwnt
 flower-avatar = Blodyn
 folder-avatar = Ffolder
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Glôb
 hammer-avatar = Morthwyl
 heart-avatar = Calon
 heart-rate-avatar = Cyfradd y galon
@@ -238,10 +241,12 @@ message-avatar = Neges
 musical-note-avatar = Nodyn cerddorol
 palette-avatar = Palet
 paw-print-avatar = Ôl pawen
+picture-avatar = Darlun
 plane-avatar = Awyren
 # Present refers to a gift box, not the current time period
 present-avatar = Anrheg
 shopping-avatar = Cart siopa
+soccer-ball-avatar = Pêl pêl-droed
 soccer-avatar = Pêl-droed
 sparkle-single-avatar = Pefriog
 star-avatar = Seren
@@ -256,3 +261,16 @@ custom-avatar-drag-handle =
     .aria-label = Newid maint ardal tocio
 barbell-avatar = Barbell
 bike-avatar = Beic
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Gosod afatar barbell
+bike-avatar-tooltip =
+    .tooltiptext = Gosod afatar beic
+book-avatar-tooltip =
+    .tooltiptext = Gosod afatar llyfr
+briefcase-avatar-tooltip =
+    .tooltiptext = Gosod afatar ces gwaith
+picture-avatar-tooltip =
+    .tooltiptext = Gosod afatar darlun
