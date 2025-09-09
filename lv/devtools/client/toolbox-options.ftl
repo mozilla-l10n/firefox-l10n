@@ -86,16 +86,16 @@ options-screenshot-clipboard-only-label = Ekrānattēls tikai uz starpliktuvi
 options-screenshot-clipboard-tooltip2 =
     .title = Saglabā ekrānattēlu starpliktuvē
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
-options-screenshot-audio-label = Atskaņot fotografēšanas skaņu
+options-screenshot-audio-label = Atskaņot kameras slēdža skaņu
 options-screenshot-audio-tooltip =
-    .title = Ļauj kamerai atskaņot skaņu uzņemot ekrānattēlu
+    .title = Ļauj kamerai atskaņot skaņu, uzņemot ekrānattēlu
 
 ## Editor section
 
 # The heading
 options-sourceeditor-label = Redaktora iestatījumi
 options-sourceeditor-detectindentation-tooltip =
-    .title = Minēt atkāpes atkarībā no koda konteksta
+    .title = Minēt atkāpes atkarībā no pirmkoda konteksta
 options-sourceeditor-detectindentation-label = Noteikt atkāpes
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = Automātiski likt aizverošās iekavas
@@ -103,16 +103,16 @@ options-sourceeditor-autoclosebrackets-label = Automātiski likt aizverošās ie
 options-sourceeditor-expandtab-tooltip =
     .title = Izmantot atstarpes tabulācijas simbola vietā
 options-sourceeditor-expandtab-label = Veidot atkāpes ar atstarpēm
-options-sourceeditor-tabsize-label = Atkāpes izmērs
-options-sourceeditor-keybinding-label = Taustiņu saites
-options-sourceeditor-keybinding-default-label = Noklusētā
+options-sourceeditor-tabsize-label = Tabulācijas izmērs
+options-sourceeditor-keybinding-label = Piesaistītie taustiņi
+options-sourceeditor-keybinding-default-label = Noklusējuma
 
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Papildu iestatījumi
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = Deaktivēt HTTP kešatmiņu (ja ir atvērti izstrādātāju rīki)
+options-disable-http-cache-label = Izslēgt HTTP kešatmiņu (ja ir atvērti izstrādātāju rīki)
 options-disable-http-cache-tooltip =
     .title = Šīs iespējas ieslēgšana deaktivēs HTTP kešatmiņu visām cilnēm, kurām ir atvērta šo rīku josla. Pakalpojumu strādņus šī konfigurācijas iespēja neietekmē.
 # The label for checkbox that toggles JavaScript on or off
