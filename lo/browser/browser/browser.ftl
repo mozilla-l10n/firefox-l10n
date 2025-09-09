@@ -1216,6 +1216,8 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header = <span>{ $count }</span> ຕົວຕິດຕາມຖືກບລັອກຢູ່ໃນເວັບໄຊນີ້
+trustpanel-blocker-description = { -brand-product-name } ຄິດວ່າບໍລິສັດຄວນຕິດຕາມທ່ານໜ້ອຍລົງ. ດັ່ງນັ້ນພວກເຮົາສະກັດຫຼາຍເທົ່າທີ່ພວກເຮົາສາມາດເຮັດໄດ້.
 trustpanel-tracking-description = ຖ້າບໍ່ມີຕົວຕິດຕາມ, ບາງປຸ່ມ, ແບບຟອມ, ແລະ ຊ່ອງເຂົ້າສູ່ລະບົບອາດຈະບໍ່ເຮັດວຽກ.
 trustpanel-insecure-section-header = ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ
 trustpanel-insecure-description = ຂໍ້​ມູນ​ທີ່​ທ່ານ​ກໍາ​ລັງ​ສົ່ງ​ໄປ​ຫາ​ເວັບ​ໄຊ​ນີ້​ແມ່ນ​ບໍ່​ໄດ້​ເຂົ້າ​ລະ​ຫັດ​. ມັນສາມາດຖືກເບິ່ງ, ຖືກລັກ, ຫຼື ປ່ຽນແປງ.
