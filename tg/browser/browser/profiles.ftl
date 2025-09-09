@@ -227,6 +227,8 @@ default-favicon-avatar = Нишони пешфарзи сомона
 diamond-avatar = Алмос
 flower-avatar = Гул
 folder-avatar = Ҷузвдон
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Ҷаҳон
 hammer-avatar = Болға
 heart-avatar = Дил
 heart-rate-avatar = Набзи дил
@@ -244,6 +246,7 @@ plane-avatar = Ҳавопаймо
 # Present refers to a gift box, not the current time period
 present-avatar = Туҳфа
 shopping-avatar = Сабади харидорӣ
+soccer-ball-avatar = Тӯби футбол
 soccer-avatar = Футбол
 sparkle-single-avatar = Шарора
 star-avatar = Ситора
@@ -258,3 +261,16 @@ custom-avatar-drag-handle =
     .aria-label = Иваз кардани минтақаи буриш
 barbell-avatar = Вазна
 bike-avatar = Дучарха
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо вазна
+bike-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо дучарха
+book-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо китоб
+briefcase-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо ҷузвдон
+picture-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо акс
