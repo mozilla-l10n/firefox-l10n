@@ -116,22 +116,32 @@ options-disable-http-cache-label = Izslēgt HTTP kešatmiņu (ja ir atvērti izs
 options-disable-http-cache-tooltip =
     .title = Šīs iespējas ieslēgšana deaktivēs HTTP kešatmiņu visām cilnēm, kurām ir atvērta šo rīku josla. Pakalpojumu strādņus šī konfigurācijas iespēja neietekmē.
 # The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Deaktivēt JavaScript *
+options-disable-javascript-label = Izslēgt JavaScript *
 options-disable-javascript-tooltip =
-    .title = Šī iestatījuma ieslēgšana deaktivēs JavaScript aktīvajā cilnē. Aizverot cilni vai rīku joslu šis iestatījums netiks saglabāts.
+    .title = Šī iestatījuma ieslēgšana izslēgs JavaScript aktīvajā cilnē. Aizverot cilni vai izstrādātāju rīkus, šis iestatījums netiks saglabāts.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = Aktivizēt pārlūka un papildinājumu atkļūdošanas rīkus
+options-enable-chrome-label = Ieslēgt pārlūka un papildinājumu atkļūdošanas rīku kastes
 options-enable-chrome-tooltip =
-    .title = Šīs iespējas aktivizēšana ļaus izmantot dažādus rīkus pārlūka kontekstā (Rīki > Izstrādātāju rīki > Pārlūka rīki) un ļaus atkļūdot papildinājumus
+    .title = Šīs iespējas ieslēgšana ļaus izmantot dažādus rīkus pārlūka kontekstā (Rīki > Izstrādātāju rīki > Pārlūka rīki) un ļaus atkļūdot papildinājumus
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
-options-enable-remote-label = Aktivēt attālināto atkļūdošanu
+options-enable-remote-label = Ieslēgt attālināto atkļūdošanu
+options-enable-remote-tooltip2 =
+    .title = Ieslēdzot šo opciju, varēsiet attālināti atkļūdot šo pārlūka instanci
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Izmantojiet taustiņu F12, lai atvērtu vai aizvērtu izstrādātāju rīkus
+options-enable-f12-tooltip =
+    .title = Ieslēdzot šo opciju, taustiņš F12 tiks piesaistīts izstrādātāju rīku atvēršanai vai aizvēršanai.
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Ieslēgt pielāgotus formatētājus
+options-enable-custom-formatters-tooltip =
+    .title = Ieslēdzot šo opciju, vietnes varēs definēt pielāgotus formatētājus DOM objektiem
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
-options-enable-service-workers-http-label = Aktivizēt pakalpojumu strādņus pa HTTP (kad rīks ir atvērts)
+options-enable-service-workers-http-label = Ieslēgt pakalpojumu strādņus pa HTTP (kad rīks ir atvērts)
 options-enable-service-workers-http-tooltip =
-    .title = Šīs iespējas aktivizēšana ļaus aktivizēt pakalpojumu strādņus pa HTTP visās cilnēs, kurās ir atvērts šis rīks.
+    .title = Šīs iespējas ieslēgšana ļaus aktivizēt pakalpojumu strādņus pa HTTP visās cilnēs, kurās ir atvērts šis rīks.
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = Aktivizēt koda kartes
+options-source-maps-label = Ieslēgt pirmkoda kartes
 options-source-maps-tooltip =
-    .title = Ja aktivēsiet šo iespēju kodi tika kartēti rīkos.
+    .title = Ja ieslēgsiet šo iespēju, pirmkods tika kartēts rīkos.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Tikai šo sesiju, pārlādē lapu
