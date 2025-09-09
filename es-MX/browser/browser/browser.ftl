@@ -1463,3 +1463,12 @@ trustpanel-blocker-section-header =
 trustpanel-blocker-description = { -brand-product-name } piensa que las empresas deberían seguirte menos. Por eso bloqueamos a todas las que podemos.
 trustpanel-blocked-header = { -brand-product-name } bloqueó estas cosas por ti:
 trustpanel-tracking-header = { -brand-product-name } permitió estas cosas para que los sitios no fallen:
+trustpanel-tracking-description = Sin rastreadores, algunos botones, formularios y campos de inicio de sesión podrían no funcionar.
+trustpanel-insecure-section-header = Tu conexión no es segura
+trustpanel-insecure-description = Los datos que estás enviando a este sitio no están encriptados. Podrían ser vistos, robados o alterados.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie de rastreo entre sitios
+       *[other] { $count } cookies de rastreo entre sitios
+    }
+trustpanel-list-label-tracking-content = Contenido de rastreo

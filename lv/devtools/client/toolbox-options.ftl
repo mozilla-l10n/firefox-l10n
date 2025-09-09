@@ -9,31 +9,29 @@
 ## Default Developer Tools section
 
 # The heading
-options-select-default-tools-label = Noklusētie izstrādātāju rīki
+options-select-default-tools-label = Noklusējuma izstrādātāju rīki
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
-options-tool-not-supported-label = * Netiek atbalstīts konkrētajam rīkam
+options-tool-not-supported-label = * Nav atbalstīts pašreizējam rīkjoslas mērķim
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Papildinājumu instalētie izstrādātāju rīki
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
-options-select-enabled-toolbox-buttons-label = Pieejamās rīku pogas
+options-select-enabled-toolbox-buttons-label = Pieejamās rīku kastes pogas
 # The label for the heading of the radiobox corresponding to the theme
-options-select-dev-tools-theme-label = Tēmas
+options-select-dev-tools-theme-label = Motīvi
 
 ## Inspector section
 
 # The heading
-options-context-inspector = Pārraugs
+options-context-inspector = Inspektors
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Rādīt pārlūka stilus
 options-show-user-agent-styles-tooltip =
-    .title = Šīs iespējas ieslēgšana parādīs noklusētos stilus, kas ir ielādēti pārlūkā
+    .title = Šīs iespējas ieslēgšana parādīs pārlūka ielādētos noklusējuma stilus
 # The label for the checkbox option to enable collapse attributes
-options-collapse-attrs-label = Apgriezt DOM atribūtus
-options-collapse-attrs-tooltip =
-    .title = Apgriezt garus atribūtus inspektorā
+options-collapse-attrs-label = Saīsināt DOM atribūtus
 
 ## "Default Color Unit" options for the Inspector
 
