@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Libro
 briefcase-avatar = Maletín
+clock-avatar = Reloj
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Favicon predeterminado
 diamond-avatar = Diamante
 flower-avatar = Flor
 folder-avatar = Carpeta
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globo
 hammer-avatar = Martillo
 heart-avatar = Corazón
 heart-rate-avatar = Frecuencia cardíaca
@@ -238,10 +241,12 @@ message-avatar = Mensaje
 musical-note-avatar = Nota musical
 palette-avatar = Paleta
 paw-print-avatar = Huella de pata
+picture-avatar = Imagen
 plane-avatar = Avión
 # Present refers to a gift box, not the current time period
 present-avatar = Regalo
 shopping-avatar = Carrito de compras
+soccer-ball-avatar = Pelota de fútbol
 soccer-avatar = Fútbol
 sparkle-single-avatar = Destello
 star-avatar = Estrella
@@ -256,3 +261,24 @@ custom-avatar-drag-handle =
     .aria-label = Redimensionar área de recorte
 barbell-avatar = Barra con pesas
 bike-avatar = Bicicleta
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de barra
+bike-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de bicicleta
+book-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de libro
+briefcase-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de maletín
+picture-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de imagen
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de artesanía
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de globo
+diamond-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de diamante
