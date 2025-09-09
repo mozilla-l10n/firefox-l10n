@@ -298,6 +298,9 @@ lightbulb-avatar-tooltip =
     .tooltiptext = Anvend lyspære-avatar
 makeup-avatar-tooltip =
     .tooltiptext = Anvend makeup-avatar
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Anvend beskeds-avatar
 musical-note-avatar-tooltip =
     .tooltiptext = Anvend node-avatar
 palette-avatar-tooltip =
