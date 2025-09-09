@@ -312,3 +312,13 @@ plane-avatar-tooltip =
 # Present refers to a gift box, not the current time period
 present-avatar-tooltip =
     .tooltiptext = Aplicar avatar de regalo
+shopping-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de carrito de compras
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de pelota de fútbol
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de chispa
+star-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de estrella
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de control de videojuego
