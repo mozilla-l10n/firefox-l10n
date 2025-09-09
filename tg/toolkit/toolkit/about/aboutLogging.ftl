@@ -107,9 +107,20 @@ about-logging-save-error = Ҳангоми нигоҳ доштани файл х�
 
 ## Uploaded Profiles section
 
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Профили { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
 about-logging-uploaded-profiles-title = Профилҳои боршуда
 about-logging-no-uploaded-profiles = То ҳол ягон профил бор карда нашудааст.
 about-logging-delete-uploaded-profile = Нест кардан
 about-logging-view-uploaded-profile = Дидани профил
 about-logging-delete-profile-confirm-title = Нест кардани профил
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Шумо мутмаин ҳастед, ки мехоҳед профили «{ $profileName }»-ро нест кунед? Ин амал бекор карда намешавад.
 about-logging-deleting-profile = Нест карда мешавад…

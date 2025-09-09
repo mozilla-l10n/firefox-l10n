@@ -277,3 +277,36 @@ picture-avatar-tooltip =
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-tooltip =
     .tooltiptext = Татбиқи аватар бо моҳирӣ
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо ҷаҳон
+diamond-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо алмос
+flower-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо гул
+folder-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо феҳрист
+hammer-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо болға
+heart-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо дил
+heart-rate-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо тапиши дил
+clock-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо соат
+leaf-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо барг
+lightbulb-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо чароғак
+makeup-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо ороиш
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо паём
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо туҳфа
+shopping-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо сабади харидорӣ
+star-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо ситора
