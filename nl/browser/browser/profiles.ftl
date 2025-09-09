@@ -95,6 +95,8 @@ profiles-light-theme = Licht
 profiles-dark-theme = Donker
 # The default system theme
 profiles-system-theme = Systeem
+profiles-system-theme-title =
+    .title = Systeemthema toepassen
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Goudsbloemgeel
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,15 +112,37 @@ profiles-terracotta-theme-2 = Steenrood
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mosgroen
 profiles-gray-theme = Grijs
+profiles-gray-theme-title =
+    .title = Grijs thema toepassen
 profiles-yellow-theme = Geel
+profiles-yellow-theme-title =
+    .title = Geel thema toepassen
 profiles-orange-theme = Oranje
+profiles-orange-theme-title =
+    .title = Oranje thema toepassen
 profiles-red-theme = Rood
+profiles-red-theme-title =
+    .title = Rood thema toepassen
 profiles-pink-theme = Roze
+profiles-pink-theme-title =
+    .title = Roze thema toepassen
 profiles-purple-theme = Paars
+profiles-purple-theme-title =
+    .title = Paars thema toepassen
 profiles-violet-theme = Lila
+profiles-violet-theme-title =
+    .title = Lila thema toepassen
 profiles-blue-theme = Blauw
+profiles-blue-theme-title =
+    .title = Blauw thema toepassen
 profiles-green-theme = Groen
+profiles-green-theme-title =
+    .title = Groen thema toepassen
 profiles-cyan-theme = Cyaan
+profiles-cyan-theme-title =
+    .title = Cyaan thema toepassen
+profiles-custom-theme-title =
+    .title = Aangepast thema toepassen
 
 ## Alternative text for default profile icons
 

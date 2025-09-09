@@ -319,6 +319,8 @@ newtab-custom-pocket-subtitle = Uitzonderlijke inhoud, samengesteld door { -pock
 newtab-custom-stories-toggle =
     .label = Aanbevolen verhalen
     .description = Uitzonderlijke inhoud, verzameld door de { -brand-product-name }-familie
+newtab-custom-stories-personalized-toggle =
+    .label = Verhalen
 newtab-custom-pocket-sponsored = Gesponsorde verhalen
 newtab-custom-pocket-show-recent-saves = Onlangs opgeslagen items tonen
 newtab-custom-recent-title = Recente activiteit
@@ -354,6 +356,7 @@ newtab-wallpaper-custom-color = Kies een kleur
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = De afbeelding heeft de bestandsgroottelimiet van { $file_size } MB overschreden. Probeer een kleiner bestand te uploaden.
+newtab-wallpaper-error-upload-file-type = We konden uw bestand niet uploaden. Probeer het opnieuw met een afbeeldingsbestand.
 newtab-wallpaper-error-file-type = We konden uw bestand niet uploaden. Probeer het opnieuw met een ander bestandstype.
 newtab-wallpaper-light-red-panda = Rode panda
 newtab-wallpaper-light-mountain = Witte berg
