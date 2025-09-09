@@ -260,3 +260,37 @@ custom-avatar-drag-handle =
     .aria-label = Größe des Zuschneidebereiches anpassen
 barbell-avatar = Hantel
 bike-avatar = Fahrrad
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Langhantel-Avatar anwenden
+bike-avatar-tooltip =
+    .tooltiptext = Fahrrad-Avatar anwenden
+book-avatar-tooltip =
+    .tooltiptext = Buch-Avatar anwenden
+briefcase-avatar-tooltip =
+    .tooltiptext = Aktenkoffer-Avatar anwenden
+picture-avatar-tooltip =
+    .tooltiptext = Bild-Avatar anwenden
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Globus-Avatar anwenden
+diamond-avatar-tooltip =
+    .tooltiptext = Diamant-Avatar anwenden
+flower-avatar-tooltip =
+    .tooltiptext = Blumen-Avatar anwenden
+folder-avatar-tooltip =
+    .tooltiptext = Ordner-Avatar anwenden
+hammer-avatar-tooltip =
+    .tooltiptext = Hammer-Avatar anwenden
+heart-avatar-tooltip =
+    .tooltiptext = Herz-Avatar anwenden
+heart-rate-avatar-tooltip =
+    .tooltiptext = Herzfrequenz-Avatar anwenden
+clock-avatar-tooltip =
+    .tooltiptext = Uhr-Avatar anwenden
+leaf-avatar-tooltip =
+    .tooltiptext = Blatt-Avatar anwenden
+lightbulb-avatar-tooltip =
+    .tooltiptext = Glühbirnen-Avatar anwenden
