@@ -274,3 +274,8 @@ briefcase-avatar-tooltip =
     .tooltiptext = Anvend attachemappe-avatar
 picture-avatar-tooltip =
     .tooltiptext = Anvende billede-avatar
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Anvend håndværks-avatar
+clock-avatar-tooltip =
+    .tooltiptext = Anvend ur-avatar
