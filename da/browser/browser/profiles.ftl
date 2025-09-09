@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Bog
 briefcase-avatar = Attachemappe
+clock-avatar = Ur
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Lærred
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Standard-favicon
 diamond-avatar = Diamant
 flower-avatar = Blomst
 folder-avatar = Mappe
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Klode
 hammer-avatar = Hammer
 heart-avatar = Hjerte
 heart-rate-avatar = Hjerterytme
@@ -238,10 +241,12 @@ message-avatar = Meddelelse
 musical-note-avatar = Node (musik)
 palette-avatar = Palet
 paw-print-avatar = Poteaftryk
+picture-avatar = Billede
 plane-avatar = Fly
 # Present refers to a gift box, not the current time period
 present-avatar = Gave
 shopping-avatar = Indkøbsvogn
+soccer-ball-avatar = Fodbold
 soccer-avatar = Fodbold
 sparkle-single-avatar = Glitter
 star-avatar = Stjerne
@@ -256,3 +261,16 @@ custom-avatar-drag-handle =
     .aria-label = Ændr størrelsen på beskæringsområdet
 barbell-avatar = Vægtstang
 bike-avatar = Cykel
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Anvend vægtstangs-avatar
+bike-avatar-tooltip =
+    .tooltiptext = Anvend cykel-avatar
+book-avatar-tooltip =
+    .tooltiptext = Anvend bog-avatar
+briefcase-avatar-tooltip =
+    .tooltiptext = Anvend attachemappe-avatar
+picture-avatar-tooltip =
+    .tooltiptext = Anvende billede-avatar
