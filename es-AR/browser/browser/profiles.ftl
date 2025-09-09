@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Libro
 briefcase-avatar = Maletín
+clock-avatar = Reloj
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Favicon predeterminado
 diamond-avatar = Diamante
 flower-avatar = Flor
 folder-avatar = Carpeta
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globo terráqueo
 hammer-avatar = Martillo
 heart-avatar = Corazón
 heart-rate-avatar = Frecuencia cardíaca
@@ -238,6 +241,7 @@ message-avatar = Mensaje
 musical-note-avatar = Nota musical
 palette-avatar = Paleta
 paw-print-avatar = Huella
+picture-avatar = Foto
 plane-avatar = Avión
 # Present refers to a gift box, not the current time period
 present-avatar = Regalo

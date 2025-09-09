@@ -241,6 +241,7 @@ message-avatar = Nachricht
 musical-note-avatar = Musiknote
 palette-avatar = Palette
 paw-print-avatar = Tatzenabdruck
+picture-avatar = Bild
 plane-avatar = Flugzeug
 # Present refers to a gift box, not the current time period
 present-avatar = Geschenk
@@ -273,6 +274,9 @@ briefcase-avatar-tooltip =
     .tooltiptext = Aktenkoffer-Avatar anwenden
 picture-avatar-tooltip =
     .tooltiptext = Bild-Avatar anwenden
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Handwerk-Avatar anwenden
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-tooltip =
     .tooltiptext = Globus-Avatar anwenden
@@ -294,3 +298,29 @@ leaf-avatar-tooltip =
     .tooltiptext = Blatt-Avatar anwenden
 lightbulb-avatar-tooltip =
     .tooltiptext = Glühbirnen-Avatar anwenden
+makeup-avatar-tooltip =
+    .tooltiptext = Make-up-Avatar anwenden
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Nachrichten-Avatar anwenden
+musical-note-avatar-tooltip =
+    .tooltiptext = Musiknoten-Avatar anwenden
+palette-avatar-tooltip =
+    .tooltiptext = Palette-Avatar anwenden
+paw-print-avatar-tooltip =
+    .tooltiptext = Pfotenabdruck-Avatar anwenden
+plane-avatar-tooltip =
+    .tooltiptext = Flugzeug-Avatar anwenden
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Geschenk-Avatar anwenden
+shopping-avatar-tooltip =
+    .tooltiptext = Einkaufswagen-Avatar anwenden
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Fußball-Avatar anwenden
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Glitter-Avatar anwenden
+star-avatar-tooltip =
+    .tooltiptext = Stern-Avatar anwenden
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Videospiel-Controller-Avatar anwenden
