@@ -65,6 +65,8 @@ options-default-color-unit-name = Krāsu nosaukumi
 options-webconsole-label = Tīmekļa konsole
 # The label for the checkbox that toggle whether the Split console is enabled
 options-webconsole-split-console-label = Ieslēgt dalīto konsoli
+options-webconsole-split-console-tooltip =
+    .title = Atveriet sadalīto konsoli ar taustiņu Escape
 
 ## Style Editor section
 
@@ -73,12 +75,16 @@ options-styleeditor-label = Stila redaktors
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Automātiski pabeigt CSS
 options-stylesheet-autocompletion-tooltip =
-    .title = Rakstos automātiski pabeigt CSS likumus, to vērtības un selektorus
+    .title = Rakstos automātiski pabeigt CSS kārtulas, to vērtības un selektorus
 
 ## Screenshot section
 
 # The heading
 options-screenshot-label = Ekrānattēla uzvedība
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Ekrānattēls tikai uz starpliktuvi
+options-screenshot-clipboard-tooltip2 =
+    .title = Saglabā ekrānattēlu starpliktuvē
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Atskaņot fotografēšanas skaņu
 options-screenshot-audio-tooltip =
