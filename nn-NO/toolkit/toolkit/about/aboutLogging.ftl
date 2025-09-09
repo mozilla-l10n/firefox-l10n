@@ -101,11 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Del URL
 about-logging-upload-error = Det oppstod ein feil under opplasting av profilen: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Det oppstod ein feil under lagring av den opplasta profilen: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Det oppstod ein feil under lagring av fila: { $errorText }
 
 ## Uploaded Profiles section
 
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profil { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Opplasta profilar
+about-logging-no-uploaded-profiles = Ingen profilar er lasta opp enno.
 about-logging-delete-uploaded-profile = Slett
 about-logging-view-uploaded-profile = Vis profil
 about-logging-delete-profile-confirm-title = Slett profilen
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Er du sikker på at du vil slette profilen «{ $profileName }»? Dette kan ikkje angrast.
 about-logging-deleting-profile = Slettar…
