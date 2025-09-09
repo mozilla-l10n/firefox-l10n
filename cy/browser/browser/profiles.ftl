@@ -274,3 +274,47 @@ briefcase-avatar-tooltip =
     .tooltiptext = Gosod afatar ces gwaith
 picture-avatar-tooltip =
     .tooltiptext = Gosod afatar darlun
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Gosod afatar crefft
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Gosod afatar glôb
+diamond-avatar-tooltip =
+    .tooltiptext = Gosod afatar diamwnt
+flower-avatar-tooltip =
+    .tooltiptext = Gosod afatar blodyn
+folder-avatar-tooltip =
+    .tooltiptext = Gosod afatar ffolder
+hammer-avatar-tooltip =
+    .tooltiptext = Gosod afatar morthwyl
+heart-avatar-tooltip =
+    .tooltiptext = Gosod afatar calon
+heart-rate-avatar-tooltip =
+    .tooltiptext = Gosod afatar curiad calon
+clock-avatar-tooltip =
+    .tooltiptext = Gosod afatar cloc
+leaf-avatar-tooltip =
+    .tooltiptext = Gosod afatar deilen
+lightbulb-avatar-tooltip =
+    .tooltiptext = Gosod afatar bwlb golau
+makeup-avatar-tooltip =
+    .tooltiptext = Gosod afatar colur
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Gosod afatar neges
+musical-note-avatar-tooltip =
+    .tooltiptext = Gosod afatar nodyn cerddorol
+palette-avatar-tooltip =
+    .tooltiptext = Gosod afatar palet
+paw-print-avatar-tooltip =
+    .tooltiptext = Gosod afatar ôl pawen
+plane-avatar-tooltip =
+    .tooltiptext = Gosod afatar awyren
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Gosod afatar anrheg
+shopping-avatar-tooltip =
+    .tooltiptext = Gosod afatar cert siopa
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Gosod afatar pêl pêl-droed
