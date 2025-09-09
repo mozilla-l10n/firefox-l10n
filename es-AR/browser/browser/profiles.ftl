@@ -246,6 +246,7 @@ plane-avatar = Avión
 # Present refers to a gift box, not the current time period
 present-avatar = Regalo
 shopping-avatar = Carrito de compras
+soccer-ball-avatar = Pelota de fútbol
 soccer-avatar = Fútbol
 sparkle-single-avatar = Destello
 star-avatar = Estrella
@@ -260,3 +261,55 @@ custom-avatar-drag-handle =
     .aria-label = Redimensionar área de recorte
 barbell-avatar = Barra con pesas
 bike-avatar = Bicicleta
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de barra con pesas
+bike-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de bicicleta
+book-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de libro
+briefcase-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de portafolios
+picture-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de foto
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de globo terráqueo
+diamond-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de diamante
+flower-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de flor
+folder-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de carpeta
+hammer-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de martillo
+heart-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de corazón
+clock-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de reloj
+leaf-avatar-tooltip =
+    .tooltiptext = Aplicar avatar hoja
+lightbulb-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de lamparita
+makeup-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de maquillaje
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de mensaje
+musical-note-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de nota musical
+palette-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de paleta
+plane-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de avión
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de regalo
+shopping-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de carrito de compras
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de pelota de fútbol
+star-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de estrella
