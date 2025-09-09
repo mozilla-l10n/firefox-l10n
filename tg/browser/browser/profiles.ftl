@@ -274,3 +274,6 @@ briefcase-avatar-tooltip =
     .tooltiptext = Татбиқи аватар бо ҷузвдон
 picture-avatar-tooltip =
     .tooltiptext = Татбиқи аватар бо акс
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Татбиқи аватар бо моҳирӣ
