@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = И
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Нишонии почтаи электронии худро ҳифз намоед:
+firefox-relay-opt-in-title-2 = Ниқоби почтаи электронии ройгонро ба даст оред
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Истифодаи ниқоби муҳофизатии почтаи эл. «{ -relay-brand-name }»
 firefox-relay-use-mask-title-1 = Аз ниқоби почтаи электронӣ истифода баред
+firefox-relay-opt-in-subtitle-2 = Паёмдони худро аз мактубҳои номатлуб ҳифз намоед
 firefox-relay-use-mask-title = Истифодаи ниқоби муҳофизатии почтаи эл. «{ -relay-brand-name }»
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Ба воситаи ниқоби почтаи электронии ройгон худро аз мактубҳои номатлуб ҳифз намоед
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Ниқоби почтаи электронии ройгонро ба даст оред
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Тавассути пинҳон кардани нишонии почтаи электронии ҳақиқии худ бо истифода аз <label data-l10n-name="firefox-relay-learn-more-url">ниқоби почтаи электронии</label> ройгон, паёмдони худро аз мактубҳои номатлуб ҳифз намоед. Паёмҳои электронӣ аз <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ин сомона</label> ба паёмдони шумо то ҳол ворид мешаванд, аммо нишонии почтаи электронии шумо пинҳон карда мешавад.
 firefox-relay-and-fxa-popup-notification-first-sentence = Тавассути пинҳон кардани нишонии почтаи электронии ҳақиқии худ бо истифодаи ройгон аз <label data-l10n-name="firefox-relay-learn-more-url">ниқоби почтаи электронии «{ -relay-brand-name }»</label>, паёмдони худро аз мактубҳои номатлуб ҳифз намоед. Паёмҳои электронӣ аз <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ин сомона</label> ба паёмдони шумо то ҳол ворид мешаванд, аммо нишонии почтаи электронии шумо пинҳон карда мешавад.
+firefox-relay-offer-why-to-use-relay-1 = Тавассути пинҳон кардани нишонии почтаи электронии ҳақиқии худ бо истифодаи ройгон аз <label data-l10n-name="firefox-relay-learn-more-url">ниқоби почтаи электронии «{ -relay-brand-name }»</label>, паёмдони худро аз мактубҳои номатлуб ҳифз намоед. Паёмҳои электронӣ аз <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ин сомона</label> ба паёмдони шумо то ҳол ворид мешаванд, аммо нишонии почтаи электронии шумо пинҳон карда мешавад.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Барои истифода кардани ниқоби почтаи электронӣ, пеш аз ҳама, сабти ном кунед ё ба ҳисоби худ ворид шавед
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Бақайдгирӣ

@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Китоб
 briefcase-avatar = Ҷузвгир
+clock-avatar = Соат
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Саҳна
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -238,6 +239,7 @@ message-avatar = Паём
 musical-note-avatar = Нотаи мусиқӣ
 palette-avatar = Рангубор
 paw-print-avatar = Панҷа
+picture-avatar = Акс
 plane-avatar = Ҳавопаймо
 # Present refers to a gift box, not the current time period
 present-avatar = Туҳфа

@@ -104,3 +104,12 @@ about-logging-upload-error = Ҳангоми боркунии профил хат
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Ҳангоми нигоҳ доштани файл хато ба миён омад: { $errorText }
+
+## Uploaded Profiles section
+
+about-logging-uploaded-profiles-title = Профилҳои боршуда
+about-logging-no-uploaded-profiles = То ҳол ягон профил бор карда нашудааст.
+about-logging-delete-uploaded-profile = Нест кардан
+about-logging-view-uploaded-profile = Дидани профил
+about-logging-delete-profile-confirm-title = Нест кардани профил
+about-logging-deleting-profile = Нест карда мешавад…
