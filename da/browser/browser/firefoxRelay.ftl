@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = A
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Beskyt din mailadresse:
+firefox-relay-opt-in-title-2 = Få en gratis mail-maske
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Brug { -relay-brand-name }-mail-maske
 firefox-relay-use-mask-title-1 = Maskér din mailadresse
+firefox-relay-opt-in-subtitle-2 = Beskyt din indbakke mod spam
 firefox-relay-use-mask-title = Brug { -relay-brand-name }-mail-maske
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Slip for spam med en gratis mail-maske
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Få en gratis mail-maske
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Beskyt din indbakke mod spam ved at bruge en gratis <label data-l10n-name="firefox-relay-learn-more-url">mail-maske</label> til at skjule din rigtige mailadresse. Mails afsendt fra <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dette websted</label> bliver stadig leveret til din indbakke, men din rigtige mailadresse er skjult.
 firefox-relay-and-fxa-popup-notification-first-sentence = Beskyt din indbakke mod spam ved at bruge en gratis mail-maske fra <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }</label> til at skjule din rigtige mailadresse. Mails afsendt fra <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dette websted</label> bliver stadig leveret til din indbakke, men din rigtige mailadresse er skjult.
+firefox-relay-offer-why-to-use-relay-1 = Beskyt din indbakke mod spam ved at bruge en gratis mail-maske fra <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }</label> til at skjule din rigtige mailadresse. Mails afsendt fra <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dette websted</label> bliver stadig leveret til din indbakke, men din rigtige mailadresse er skjult.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Start med at oprette en konto eller logge ind for at bruge en mail-maske
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Opret en konto

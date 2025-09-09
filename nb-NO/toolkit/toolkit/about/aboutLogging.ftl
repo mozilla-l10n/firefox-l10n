@@ -101,7 +101,7 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Del URL
 about-logging-upload-error = Det oppstod en feil under opplasting av profilen: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
-about-logging-profile-storage-error = Det oppsto en feil under lagring av den opplastede profilen: { $errorText }
+about-logging-profile-storage-error = Det oppstod en feil under lagring av den opplastede profilen: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Det oppstod en feil under lagring av filen: { $errorText }
