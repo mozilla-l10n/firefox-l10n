@@ -101,4 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Rhannu UR
 about-logging-upload-error = Digwyddodd gwall wrth lwytho'r proffil i fyny: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Digwyddodd gwall wrth gadw'r proffil wedi'i lwytho: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Digwyddodd gwall wrth gadw'r ffeil: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Proffil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Proffiliau Wedi'u Llwytho
+about-logging-no-uploaded-profiles = Heb lwytho unrhyw broffiliau eto.
+about-logging-delete-uploaded-profile = Dileu
+about-logging-view-uploaded-profile = Gweld Proffil
+about-logging-delete-profile-confirm-title = Dileu Proffil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Ydych chi'n siŵr eich bod am ddileu proffil " { $profileName } "? Does dim modd dadwneud hyn.
+about-logging-deleting-profile = Wrthi'n dileu…
