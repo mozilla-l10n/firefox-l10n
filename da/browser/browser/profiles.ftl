@@ -176,7 +176,7 @@ makeup-avatar-alt =
     .alt = Makeup
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
-    .alt = Meddelelse
+    .alt = Besked
 musical-note-avatar-alt =
     .alt = Node (musik)
 palette-avatar-alt =
@@ -282,6 +282,8 @@ globe-avatar-tooltip =
     .tooltiptext = Anvende klode-avatar
 diamond-avatar-tooltip =
     .tooltiptext = Anvend diamant-avatar
+flower-avatar-tooltip =
+    .tooltiptext = Anvend blomst-avatar
 folder-avatar-tooltip =
     .tooltiptext = Anvend mappe-avatar
 hammer-avatar-tooltip =
@@ -312,6 +314,8 @@ plane-avatar-tooltip =
 # Present refers to a gift box, not the current time period
 present-avatar-tooltip =
     .tooltiptext = Anvend gave-avatar
+shopping-avatar-tooltip =
+    .tooltiptext = Anvend indkøbsvogn-avatar
 soccer-ball-avatar-tooltip =
     .tooltiptext = Anvend fodbold-avatar
 sparkle-single-avatar-tooltip =
