@@ -17,6 +17,10 @@ unexpected-script-load-message-button-block =
 unexpected-script-load-title = 非预期的脚本加载
 unexpected-script-load-detail-1-allow = { -brand-short-name } 将<strong>允许</strong>加载非预期的特权脚本（包括下方所示的脚本）。这将<strong>降低</strong> { -brand-short-name } 安装的安全性
 unexpected-script-load-detail-1-block = { -brand-short-name } 将<strong>阻止</strong>加载非预期的特权脚本（包括下方所示的脚本）。这可<strong>提高</strong> { -brand-short-name } 安装的安全性。
+# In this text "the functionality" refers to whatever the unexpected script is doing.
+# Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
+# They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
+unexpected-script-load-detail-2 = 即使您允许此脚本加载，也请向 { -vendor-short-name } 报告，以帮助理解其加载方式和原因。<em>若不提供此信息，其功能将来可能会失效。</em>
 unexpected-script-load-report-checkbox =
     .label = 向 { -vendor-short-name } 报告此脚本的网址
 unexpected-script-load-email-checkbox =
