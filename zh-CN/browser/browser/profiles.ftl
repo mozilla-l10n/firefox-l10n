@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = 书本
 briefcase-avatar = 公文包
+clock-avatar = 时钟
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = 画布
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = 默认网站图标
 diamond-avatar = 钻石
 flower-avatar = 花朵
 folder-avatar = 文件夹
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = 地球
 hammer-avatar = 锤子
 heart-avatar = 爱心
 heart-rate-avatar = 心率
@@ -238,10 +241,12 @@ message-avatar = 信息
 musical-note-avatar = 音符
 palette-avatar = 调色板
 paw-print-avatar = 爪印
+picture-avatar = 照片
 plane-avatar = 飞机
 # Present refers to a gift box, not the current time period
 present-avatar = 礼物
 shopping-avatar = 购物车
+soccer-ball-avatar = 足球
 soccer-avatar = 足球
 sparkle-single-avatar = 星芒
 star-avatar = 星星
@@ -256,3 +261,66 @@ custom-avatar-drag-handle =
     .aria-label = 调整裁剪区域大小
 barbell-avatar = 杠铃
 bike-avatar = 自行车
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = 应用杠铃图标
+bike-avatar-tooltip =
+    .tooltiptext = 应用自行车图标
+book-avatar-tooltip =
+    .tooltiptext = 应用书本图标
+briefcase-avatar-tooltip =
+    .tooltiptext = 应用公文包图标
+picture-avatar-tooltip =
+    .tooltiptext = 应用照片图标
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = 应用手工图标
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = 应用地球图标
+diamond-avatar-tooltip =
+    .tooltiptext = 应用钻石图标
+flower-avatar-tooltip =
+    .tooltiptext = 应用花朵图标
+folder-avatar-tooltip =
+    .tooltiptext = 应用文件夹图标
+hammer-avatar-tooltip =
+    .tooltiptext = 应用锤子图标
+heart-avatar-tooltip =
+    .tooltiptext = 应用爱心图标
+heart-rate-avatar-tooltip =
+    .tooltiptext = 应用心率图标
+clock-avatar-tooltip =
+    .tooltiptext = 应用时钟图标
+leaf-avatar-tooltip =
+    .tooltiptext = 应用树叶图标
+lightbulb-avatar-tooltip =
+    .tooltiptext = 应用灯泡图标
+makeup-avatar-tooltip =
+    .tooltiptext = 应用化妆图标
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = 应用信息图标
+musical-note-avatar-tooltip =
+    .tooltiptext = 应用音符图标
+palette-avatar-tooltip =
+    .tooltiptext = 应用调色板图标
+paw-print-avatar-tooltip =
+    .tooltiptext = 应用爪印图标
+plane-avatar-tooltip =
+    .tooltiptext = 应用飞机图标
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = 应用礼物图标
+shopping-avatar-tooltip =
+    .tooltiptext = 应用购物车图标
+soccer-ball-avatar-tooltip =
+    .tooltiptext = 应用足球图标
+sparkle-single-avatar-tooltip =
+    .tooltiptext = 应用星芒图标
+star-avatar-tooltip =
+    .tooltiptext = 应用星星图标
+video-game-controller-avatar-tooltip =
+    .tooltiptext = 应用视频游戏控制器图标

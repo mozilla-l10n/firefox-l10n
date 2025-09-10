@@ -124,3 +124,4 @@ about-logging-delete-profile-confirm-title = 删除分析记录
 # Variables:
 #   $profileName (string) - The name of the profile being deleted.
 about-logging-delete-profile-confirm = 您确定要删除分析记录“{ $profileName }”吗？此操作不可撤销。
+about-logging-deleting-profile = 正在删除…

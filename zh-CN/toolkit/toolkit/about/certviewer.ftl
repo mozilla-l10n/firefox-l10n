@@ -110,6 +110,8 @@ certificate-viewer-export = 导出
 
 # Label for a tab where we haven't found a better label:
 certificate-viewer-unknown-group-label = （未知）
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = 证书
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = 网页显示
 experimental-features-group-customize-browsing =
     .label = 定制浏览体验
+experimental-features-group-productivity =
+    .label = 效率
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = 在侧栏中显示密码
