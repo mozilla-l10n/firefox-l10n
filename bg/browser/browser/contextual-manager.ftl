@@ -117,13 +117,19 @@ contextual-manager-passwords-update-password-success-button = Готово
 contextual-manager-passwords-delete-password-success-button = Готово
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Премахване на парола?
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Назад
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Премахване
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Отказ
+contextual-manager-passwords-alert-back-button =
+    .label = Назад
+contextual-manager-passwords-change-password-button = Промяна на парола
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Препоръчва се промяна на паролата
     .message = Тази парола може да бъде лесно налучкана. Сменете я с цел по-добра защита на вашия профил.
+contextual-manager-passwords-vulnerable-password-link-message = Откъде { -brand-product-name } разбира за слабите пароли?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Добавете потребителско име
     .message = Добавете потребителско име за по-бързо вписване.
