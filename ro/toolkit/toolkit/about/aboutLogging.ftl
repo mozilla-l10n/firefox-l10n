@@ -101,4 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Partajeaz
 about-logging-upload-error = A apărut o eroare la încărcarea profilului: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = A apărut o eroare la stocarea profilului încărcat: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = A apărut o eroare la salvarea fișierului: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Profiluri încărcate
+about-logging-no-uploaded-profiles = Încă nu a fost încărcat niciun profil.
+about-logging-delete-uploaded-profile = Șterge
+about-logging-view-uploaded-profile = Vezi profilul
+about-logging-delete-profile-confirm-title = Șterge profilul
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Sigur vrei să ștergi profilul „{ $profileName }”? Acțiunea este ireversibilă.
+about-logging-deleting-profile = Se șterge…
