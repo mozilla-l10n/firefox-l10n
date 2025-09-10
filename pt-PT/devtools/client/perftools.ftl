@@ -148,6 +148,7 @@ perftools-presets-graphics-description = Predefinição para investigar bugs gr�
 perftools-presets-media-label = Multimédia
 perftools-presets-media-description2 = Predefinição para investigar bugs de áudio e vídeo no { -brand-shorter-name }.
 perftools-presets-ml-label = Aprendizagem Automática
+perftools-presets-ml-description2 = Pré-ajuste para investigar erros de aprendizagem automática no { -brand-shorter-name }.
 perftools-presets-networking-label = Rede
 perftools-presets-networking-description = Predefinição para investigar bugs de rede no { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
