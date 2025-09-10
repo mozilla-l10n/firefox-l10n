@@ -1337,6 +1337,7 @@ firefox-relay-offer-why-to-use-relay = Onze veilige, gebruiksvriendelijke masker
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Alle e-mailberichten die naar uw e-mailmaskers worden verzonden, worden doorgestuurd naar <strong>{ $useremail }</strong> (tenzij u besluit ze te blokkeren).
 firefox-relay-offer-legal-notice = Door op ‘E-mailmasker gebruiken’ te klikken, gaat u akkoord met de <label data-l10n-name="tos-url">Servicevoorwaarden</label> en <label data-l10n-name="privacy-url">Privacyverklaring</label>.
+firefox-relay-offer-legal-notice-1 = Door te registreren en een e-mailmasker aan te maken, gaat u akkoord met de <label data-l10n-name="tos-url">Servicevoorwaarden</label> en <label data-l10n-name="privacy-url">Privacyverklaring</label>.
 
 ## Add-on Pop-up Notifications
 

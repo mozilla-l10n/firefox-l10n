@@ -111,6 +111,20 @@ fp-learn-more-about-secure-connection-failures = Pelajari lebih lanjut tentang k
 fp-learn-more-about-cert-issues = Pelajari lebih lanjut tentang jenis masalah sertifikat ini
 fp-learn-more-about-time-related-errors = Pelajari lebih lanjut tentang pemecahan masalah kesalahan terkait waktu
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+cert-error-revoked-certificate = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } telah dicabut dan tidak dipercaya lagi.
+cert-error-bad-signature = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena tanda tangan pada sertifikat yang disediakan untuk { $hostname } tidak valid.
+cert-error-key-pinning-failure = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } menggunakan kunci publik yang berbeda dari yang diharapkan.
+cert-error-bad-der = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } tidak dikodekan dengan benar.
+cert-error-cert-not-in-name-space = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } tidak mengikuti batasan nama dari sertifikat yang menerbitkannya.
+cert-error-inadequate-cert-type = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } tidak diizinkan untuk digunakan oleh server web.
+cert-error-path-len-constraint-invalid = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } memiliki terlalu banyak sertifikat antara di jalur ke sertifikat root.
+cert-error-invalid-key = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } memiliki kunci yang tidak valid. Kemungkinan besar, terlalu kecil untuk aman.
+cert-error-unknown-critical-extension = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } berisi ekstensi kritikal yang tidak didukung.
+cert-error-extension-value-invalid = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } berisi ekstensi yang tidak valid.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Tidak dapat tersambung
@@ -118,6 +132,7 @@ deniedPortAccess-title = Penggunaan alamat ini dibatasi
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Kami kesulitan menemukan situsnya.
+internet-connection-offline-title = Sepertinya ada masalah dengan koneksi internet Anda.
 dns-not-found-trr-only-title2 = Kemungkinan risiko keamanan mencari domain ini
 dns-not-found-native-fallback-title2 = Kemungkinan risiko keamanan mencari domain ini
 fileNotFound-title = Berkas tidak ditemukan

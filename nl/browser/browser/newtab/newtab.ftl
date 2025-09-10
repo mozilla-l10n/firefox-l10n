@@ -321,6 +321,7 @@ newtab-custom-stories-toggle =
     .description = Uitzonderlijke inhoud, verzameld door de { -brand-product-name }-familie
 newtab-custom-stories-personalized-toggle =
     .label = Verhalen
+newtab-custom-stories-personalized-checkbox-label = Gepersonaliseerde verhalen op basis van uw activiteit
 newtab-custom-pocket-sponsored = Gesponsorde verhalen
 newtab-custom-pocket-show-recent-saves = Onlangs opgeslagen items tonen
 newtab-custom-recent-title = Recente activiteit
