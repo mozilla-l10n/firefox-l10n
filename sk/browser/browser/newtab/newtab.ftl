@@ -80,7 +80,7 @@ newtab-topsites-add-button = Pridať
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = Ste si istí, že chcete odstrániť všetky výskyty tejto stránky zo svojej histórie prehliadania?
+newtab-confirm-delete-history-p1 = Naozaj chcete odstrániť všetky výskyty tejto stránky z histórie prehliadania?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Túto akciu nie je možné vrátiť späť.
 
