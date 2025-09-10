@@ -261,3 +261,62 @@ custom-avatar-drag-handle =
     .aria-label = Redimensionner la zone de recadrage
 barbell-avatar = Haltères
 bike-avatar = Vélo
+
+## Tooltips for default avatar icons
+
+bike-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de vélo
+book-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de livre
+briefcase-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de porte-documents
+picture-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar d’image
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar d’artisanat
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de globe
+diamond-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de diamant
+flower-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de fleur
+folder-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de dossier
+hammer-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de marteau
+heart-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de cœur
+heart-rate-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de fréquence cardiaque
+clock-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar d’horloge
+leaf-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de feuille
+lightbulb-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar d’ampoule
+makeup-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de maquillage
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de message
+musical-note-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de note de musique
+palette-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de palette
+paw-print-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar d’empreinte de patte
+plane-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar d’avion
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de cadeau
+shopping-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de chariot
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de ballon de foot
+star-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar d’étoile
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar de manette de jeu vidéo
