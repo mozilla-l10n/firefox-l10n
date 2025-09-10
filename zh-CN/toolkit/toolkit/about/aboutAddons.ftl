@@ -552,6 +552,7 @@ permissions-data-addon-button = 权限与数据
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = 扩展“{ $extensionName }”使用此模型
 addon-permissions-data-collection-heading = 数据收集
+addon-permissions-data-collection-empty = 开发者称此扩展无需收集数据。
 addon-data-collection-provided = 扩展开发者提供的信息
 addon-data-collection-learnmore = 详细了解数据收集
 
