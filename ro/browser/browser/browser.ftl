@@ -1344,6 +1344,7 @@ firefox-relay-offer-why-to-use-relay = Măștile noastre sigure și ușor de fol
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Toate mesajele trimise către măștile tale de e-mail vor fi redirecționate către <strong>{ $useremail }</strong>(asta dacă nu vrei să le blochezi).
 firefox-relay-offer-legal-notice = Dând click pe „Folosește masca de e-mail”, ești de acord cu <label data-l10n-name="tos-url">Condițiile de utilizare a serviciilor</label> și <label data-l10n-name="privacy-url">Notificarea privind confidențialitatea</label>.
+firefox-relay-offer-legal-notice-1 = Prin crearea unui cont și a unei măști de e-mail, ești de acord cu <label data-l10n-name="tos-url">Condițiile de utilizare a serviciilor</label> și <label data-l10n-name="privacy-url">Notificarea privind confidențialitatea</label>.
 
 ## Add-on Pop-up Notifications
 

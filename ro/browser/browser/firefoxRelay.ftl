@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = M
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protejează-ți adresa de e-mail:
+firefox-relay-opt-in-title-2 = Obține o mască de e-mail gratuită
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Folosește masca de e-mail { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Folosește o mască de e-mail
+firefox-relay-opt-in-subtitle-2 = Protejează-ți căsuța poștală de mesaje nedorite
 firefox-relay-use-mask-title = Folosește masca de e-mail { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Previi mesajele nedorite cu o mască de e-mail gratuită
@@ -74,6 +76,9 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Obține o mască de e-mail gratuită
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protejează-ți căsuța poștală de mesaje nedorite folosind o <label data-l10n-name="firefox-relay-learn-more-url">mască de e-mail</label> gratuită ca să îți ascunzi adresa reală. Mesajele pe e-mail de la <label data-l10n-name="firefox-fxa-and-relay-offer-domain">acest site</label> vor ajunge în continuare în căsuța ta poștală, dar cu adresa ta de e-mail ascunsă.
 firefox-relay-and-fxa-popup-notification-first-sentence =
+    Protejează-ți căsuța poștală de mesaje nedorite folosind o 
+    <label data-l10n-name="firefox-relay-learn-more-url"> mască de e-mail { -relay-brand-name }</label> gratuită ca să îți ascunzi adresa reală. Mesajele pe e-mail de la <label data-l10n-name="firefox-fxa-and-relay-offer-domain">acest site</label> vor ajunge în continuare în căsuța ta poștală, dar cu adresa ta de e-mail ascunsă.
+firefox-relay-offer-why-to-use-relay-1 =
     Protejează-ți căsuța poștală de mesaje nedorite folosind o 
     <label data-l10n-name="firefox-relay-learn-more-url"> mască de e-mail { -relay-brand-name }</label> gratuită ca să îți ascunzi adresa reală. Mesajele pe e-mail de la <label data-l10n-name="firefox-fxa-and-relay-offer-domain">acest site</label> vor ajunge în continuare în căsuța ta poștală, dar cu adresa ta de e-mail ascunsă.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Mai întâi, fă-ți un cont sau intră în cont ca să folosești o mască de e-mail

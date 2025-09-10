@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Carte
 briefcase-avatar = Valiză
+clock-avatar = Ceas
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Pânză
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Pictogramă favorită implicită
 diamond-avatar = Diamant
 flower-avatar = Floare
 folder-avatar = Dosar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Glob
 hammer-avatar = Ciocan
 heart-avatar = Inimă
 heart-rate-avatar = Frecvență cardiacă
@@ -238,10 +241,12 @@ message-avatar = Mesaj
 musical-note-avatar = Notă muzicală
 palette-avatar = Paletă
 paw-print-avatar = Amprentă de labă
+picture-avatar = Imagine
 plane-avatar = Avion
 # Present refers to a gift box, not the current time period
 present-avatar = Cadou
 shopping-avatar = Coș de cumpărături
+soccer-ball-avatar = Minge de fotbal
 soccer-avatar = Fotbal
 sparkle-single-avatar = Scânteie
 star-avatar = Stea
@@ -256,3 +261,60 @@ custom-avatar-drag-handle =
     .aria-label = Redimensionează zona de decupare
 barbell-avatar = Halteră
 bike-avatar = Bicicletă
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu halteră
+bike-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu bicicletă
+book-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu carte
+briefcase-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu servietă
+picture-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu imagine
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu meșteșuguri
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu glob
+diamond-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu diamant
+flower-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu floare
+folder-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu dosar
+hammer-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu ciocan
+heart-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu inimă
+heart-rate-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu bătăi de inimă
+clock-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu ceas
+leaf-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu frunză
+lightbulb-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu bec
+makeup-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu machiaj
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu mesaj
+musical-note-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu notă muzicală
+palette-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu paletă de culori
+paw-print-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu amprentă de labă
+plane-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu avion
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu cadou
+shopping-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu coș de cumpărături
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Aplică avatarul cu minge de fotbal
