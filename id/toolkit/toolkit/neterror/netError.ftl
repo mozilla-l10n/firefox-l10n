@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Jika Anda memasukkan alamat yang be
 neterror-dns-not-found-hint-try-again = Coba lagi nanti
 neterror-dns-not-found-hint-check-network = Periksa sambungan jaringan Anda
 neterror-dns-not-found-hint-firewall = Periksa apakah { -brand-short-name } memiliki izin untuk mengakses web (Anda mungkin tersambung tetapi berada di balik firewall)
+neterror-dns-not-found-offline-hint-header = <strong>Apa yang dapat Anda lakukan?</strong>
+neterror-dns-not-found-offline-hint-different-device = Coba sambungkan di perangkat lain.
+neterror-dns-not-found-offline-hint-modem = Periksa modem atau router Anda.
+neterror-dns-not-found-offline-hint-reconnect = Putuskan dan sambungkan kembali ke Wi-Fi.
 
 ## TRR-only specific messages
 ## Variables:

@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Bersihkan
 text-action-highlight-selection =
     .label = Sorot Pilihan
+# Comment is a verb. This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection =
+    .label = Komentari Pilihan
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =
@@ -77,6 +80,10 @@ text-action-copy-link-to-highlight =
 # and it strips trackers etc.
 text-action-copy-clean-link-to-highlight =
     .label = Salin Tautan ke Sorotan
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = Hapus Sorotan
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
