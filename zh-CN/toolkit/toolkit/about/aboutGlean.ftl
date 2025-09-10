@@ -86,6 +86,7 @@ about-glean-about-data-list-item-dictionary = 若要浏览 { -glean-brand-name }
 about-glean-about-data-list-item-about-telemetry = 若要浏览旧版遥测正在收集的数据，请查阅 <a data-l10n-name="about-telemetry-link">about:telemetry</a>。
 about-glean-about-data-list-item-debug-ping-viewer = 若要浏览调试标签、查看所有 ping、查看实时事件流、查看可视化指标，请查阅 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>。
 about-glean-about-data-list-item-firefox-profiler = 若要记录性能分析、查看已记录的所有指标，请使用 <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>。
+about-glean-metrics-table-header = 所有指标
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = 类别
 # This message refers to the name of a given metric.
@@ -96,6 +97,8 @@ about-glean-metrics-table-header-type = 类型
 about-glean-metrics-table-header-value = 值
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = 操作
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = 筛选
 about-glean-button-load-all = 加载所有值
 about-glean-button-load-value = 加载
 # "Docs" is shorthand for "documentation"
