@@ -8,7 +8,7 @@ about-logging-page-title = 日志管理器
 about-logging-current-log-file = 当前日志文件：
 about-logging-new-log-file = 新日志文件：
 about-logging-currently-enabled-log-modules = 当前已启用日志模块：
-about-logging-log-tutorial = 参见 <a data-l10n-name="logging">HTTP 日志</a> 了解如何使用此工具。
+about-logging-log-tutorial = 参见 <a data-l10n-name="logging">HTTP 日志</a>了解如何使用此工具。
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = 打开目录
 about-logging-set-log-file = 设置日志文件
@@ -101,4 +101,26 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> 分享网
 about-logging-upload-error = 上传分析记录时发生错误：{ $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = 存储已上传的分析记录时出错：{ $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = 保存文件时发生错误：{ $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = 分析记录 { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = 已上传的分析记录
+about-logging-no-uploaded-profiles = 未上传过分析记录。
+about-logging-delete-uploaded-profile = 删除
+about-logging-view-uploaded-profile = 查看分析记录
+about-logging-delete-profile-confirm-title = 删除分析记录
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = 您确定要删除分析记录“{ $profileName }”吗？此操作不可撤销。
