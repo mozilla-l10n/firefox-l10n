@@ -33,6 +33,10 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } está a rever o que im
 contentanalysis-operationtype-clipboard = área de transferência
 contentanalysis-operationtype-dropped-text = texto largado
 contentanalysis-operationtype-print = impressão
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = envio de “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = transferência de “{ $filename }”
 contentanalysis-warndialogtitle = Este conteúdo pode ser inseguro
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -73,6 +77,10 @@ contentanalysis-block-dialog-title-upload-file = Não tem permissão para carreg
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = De acordo com as políticas de proteção de dados da sua organização, não tem permissão para carregar o ficheiro “{ $filename }”. Contacte o administrador para mais informações.
+contentanalysis-block-dialog-title-download-file = Não tem permissão para transferir este ficheiro
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = De acordo com as políticas de proteção de dados da sua organização, não tem permissão para transferir o ficheiro “{ $filename }”. Contacte o seu administrador para mais informação.
 contentanalysis-block-dialog-title-clipboard = Não tem permissão para colar este conteúdo
 contentanalysis-block-dialog-body-clipboard = De acordo com as políticas de proteção de dados da sua organização, não tem permissão para colar este conteúdo. Contacte o administrador para mais informações.
 contentanalysis-block-dialog-title-dropped-text = Não tem permissão para largar este conteúdo
