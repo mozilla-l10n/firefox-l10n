@@ -264,6 +264,8 @@ bike-avatar = Vélo
 
 ## Tooltips for default avatar icons
 
+barbell-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar d’haltères
 bike-avatar-tooltip =
     .tooltiptext = Appliquer l’avatar de vélo
 book-avatar-tooltip =
@@ -316,6 +318,8 @@ shopping-avatar-tooltip =
     .tooltiptext = Appliquer l’avatar de chariot
 soccer-ball-avatar-tooltip =
     .tooltiptext = Appliquer l’avatar de ballon de foot
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Appliquer l’avatar d’étincelle
 star-avatar-tooltip =
     .tooltiptext = Appliquer l’avatar d’étoile
 video-game-controller-avatar-tooltip =
