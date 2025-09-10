@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Sách
 briefcase-avatar = Cặp tài liệu
+clock-avatar = Đồng hồ
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +227,8 @@ default-favicon-avatar = Biểu tượng mặc định
 diamond-avatar = Kim cương
 flower-avatar = Hoa
 folder-avatar = Thư mục
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Khối cầu
 hammer-avatar = Búa
 heart-avatar = Trái tim
 heart-rate-avatar = Nhịp tim
@@ -238,10 +241,12 @@ message-avatar = Tin nhắn
 musical-note-avatar = Nốt nhạc
 palette-avatar = Bảng màu
 paw-print-avatar = Dấu chân
+picture-avatar = Bức tranh
 plane-avatar = Máy bay
 # Present refers to a gift box, not the current time period
 present-avatar = Hộp quà
 shopping-avatar = Giỏ hàng
+soccer-ball-avatar = Bóng đá
 soccer-avatar = Bóng đá
 sparkle-single-avatar = Lấp lánh
 star-avatar = Dấu sao
@@ -256,3 +261,66 @@ custom-avatar-drag-handle =
     .aria-label = Thay đổi kích thước vùng cắt
 barbell-avatar = Thanh tạ
 bike-avatar = Xe đạp
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện thanh tạ
+bike-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện xe đạp
+book-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện sách
+briefcase-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện cặp tài liệu
+picture-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện bức tranh
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện cúc áo
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện khối cầu
+diamond-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện kim cương
+flower-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện bông hoa
+folder-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện thư mục
+hammer-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện búa
+heart-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện trái tim
+heart-rate-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện nhịp tim
+clock-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện đồng hồ
+leaf-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện lá cây
+lightbulb-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện bóng đèn
+makeup-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện trang điểm
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện tin nhắn
+musical-note-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện nốt nhạc
+palette-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện bảng màu
+paw-print-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện dấu chân
+plane-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện máy bay
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện hộp quà
+shopping-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện giỏ hàng
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện bóng đá
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện lấp lánh
+star-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện dấu sao
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Áp dụng hình đại diện bộ điều khiển trò chơi điện tử
