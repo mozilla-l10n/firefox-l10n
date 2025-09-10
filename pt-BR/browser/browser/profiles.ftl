@@ -215,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Livro
 briefcase-avatar = Maleta
+clock-avatar = Relógio
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Tela de pintura
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
