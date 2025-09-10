@@ -1280,6 +1280,7 @@ content-blocking-baseline-label = 修复严重网站问题（推荐）
 content-blocking-convenience-label = 修复轻微网站问题
 content-blocking-exceptions-subheader = 修复网站问题
 content-blocking-baseline-uncheck-warning-dialog-title = 您确定要关闭修复吗？
+content-blocking-baseline-uncheck-warning-dialog-body = 此设置有助于修复最常见的网站问题。关闭此功能后，部分网站可能无法正常运行，且 { -brand-short-name } 将无法协助解决相关问题。
 content-blocking-baseline-uncheck-warning-dialog-ok-button = 关闭修复
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = 保持修复
 content-blocking-reload-description = 需要重新加载标签页才能应用变更。
