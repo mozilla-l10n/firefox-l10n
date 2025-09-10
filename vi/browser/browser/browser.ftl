@@ -1316,6 +1316,7 @@ firefox-relay-offer-why-to-use-relay = Mặt nạ an toàn, dễ sử dụng c�
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Tất cả email gửi đến email ẩn danh của bạn sẽ được chuyển đến <strong>{ $useremail }</strong> (trừ khi bạn quyết định chặn chúng).
 firefox-relay-offer-legal-notice = Bằng cách nhấp vào “Sử dụng email ẩn danh”, bạn đồng ý với <label data-l10n-name="tos-url">điều khoản sử dụng</label> và <label data-l10n-name="privacy-url">thông báo về quyền riêng tư</label>.
+firefox-relay-offer-legal-notice-1 = Bằng cách đăng ký và tạo email ẩn danh, bạn đồng ý với <label data-l10n-name="tos-url">điều khoản sử dụng</label> và <label data-l10n-name="privacy-url">thông báo về quyền riêng tư</label>.
 
 ## Add-on Pop-up Notifications
 

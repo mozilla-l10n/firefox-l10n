@@ -101,4 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Chia sẻ
 about-logging-upload-error = Đã xảy ra lỗi khi tải lên hồ sơ: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Đã xảy ra lỗi khi lưu trữ hồ sơ đã tải lên: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Đã xảy ra lỗi khi lưu tập tin: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profile { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Hồ sơ đã tải lên
+about-logging-no-uploaded-profiles = Chưa có hồ sơ nào được tải lên.
+about-logging-delete-uploaded-profile = Xóa
+about-logging-view-uploaded-profile = Xem hồ sơ
+about-logging-delete-profile-confirm-title = Xóa hồ sơ
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Bạn có chắc chắn muốn xóa hồ sơ “{ $profileName }” không? Thao tác này không thể hoàn tác.
+about-logging-deleting-profile = Đang xóa…
