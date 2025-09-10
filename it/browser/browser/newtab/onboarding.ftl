@@ -479,3 +479,23 @@ dismiss-button-label = Chiudi
 sync-to-mobile-button-label = Sincronizza con dispositivi mobili
 desktop-to-mobile-qr-code-alt =
     .aria-label = Codice QR per scaricare { -brand-product-name } per dispositivi mobili
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Ripristina da backup
+restore-from-backup-title = Facciamo tornare { -brand-short-name } come piace a te
+restore-from-backup-subtitle = Ripristina segnalibri, cronologia e tutti gli altri dati per tornare a navigare
+restore-from-backup-secondary-button = Non ripristinare
+restore-from-backup-find-backup-guidance = <a data-l10n-name="find-backup"> Non riesci a trovare il backup? </a>
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Rieccoci! I tuoi dati di { -brand-short-name } sono stati ripristinati.
+restored-from-backup-success-with-checklist-subtitle = Vuoi tenere sempre a portata di clic il tuo browser preferito attento alla privacy?
+restored-from-backup-success-no-checklist-subtitle = Puoi attivare il backup per questo dispositivo nelle <a data-l10n-name="settings">Impostazioni</a>.
+restored-from-backup-success-with-checklist-primary-button = Salva e continua
+restored-from-backup-success-with-checklist-secondary-button = Salta questo passaggio
+restored-from-backup-success-no-checklist-primary-button = Continua
+restored-from-backup-error-title = Uhm… Si è verificato un problema con il file di backup.
+restored-from-backup-error-subtitle = Se hai un altro file di backup di { -brand-short-name }, prova a ripristinare da quello. <a data-l10n-name="restore-problems">Hai ancora problemi?</a>
+restored-from-backup-error-primary-button = Chiudi

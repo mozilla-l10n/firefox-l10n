@@ -159,6 +159,8 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Valigetta
+picture-avatar-alt =
+    .alt = Quadro
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Tela
@@ -175,6 +177,8 @@ heart-avatar-alt =
     .alt = Cuore
 heart-rate-avatar-alt =
     .alt = Frequenza cardiaca
+clock-avatar-alt =
+    .alt = Orologio
 history-avatar-alt =
     .alt = Cronologia
 leaf-avatar-alt =
@@ -199,6 +203,8 @@ present-avatar-alt =
     .alt = Regalo
 shopping-avatar-alt =
     .alt = Carrello
+soccer-ball-avatar-alt =
+    .alt = Pallone da calcio
 soccer-avatar-alt =
     .alt = Pallone da calcio
 sparkle-single-avatar-alt =
@@ -209,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = Controller per videogiochi
 custom-avatar-alt =
     .alt = Icona personalizzata
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globo
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Icona predefinita
