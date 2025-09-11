@@ -248,3 +248,18 @@ link-preview-optin-title = Mear sjen mei AI?
 link-preview-optin-message = { -brand-short-name } brûkt AI om it begjin fan de side te lêzen en in pear haadpunten oan te meitsjen. Om jo privacy prioriteit te jaan, bart dit op jo apparaat.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Nij: in keppeling yndrukt hâlde foar in foarbyld
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Besjoch in koarte beskriuwing, lêstiid en mear om te besluten oft de keppeling it iepenjen wurdich is. Ek beskikber fia de rjochtermûsknop.
+# Header for the key points section
+link-preview-key-points-header = Haadpunten
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Haadpunten wurde troch AI oanmakke en kinne flaters befetsje.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Earste ynstallaasje • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Jo sjogge de folgjende kear de haadpunten flugger.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Foarbyld besjen
+# Onboarding card Close button
+link-preview-onboarding-close = Slute

@@ -392,3 +392,15 @@ windows-10-eos-feature-toast-title = Fertikale ljepblêden en ljepblêdgroepen b
 windows-10-eos-feature-toast-subtitle = Op populêr fersyk hat { -brand-product-name } krekt nije funksjes frijjûn om jo blêdzjen streamline en fokust te hâlden.
 windows-10-eos-feature-toast-whats-new-button = Besjoch wat nij is
 windows-10-eos-feature-toast-dismiss-button = Slute
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>Strange beskerming tsjin folgjen kin derfoar soargje dat websites net goed wurkje.</strong> Los faak foarkommende problemen op troch essinsjele eleminten dy’t trackers befetsje kinne te deblokkearjen.
+etp-strict-exceptions-infobar-learn-more = Mear ynfo
+etp-strict-exceptions-infobar-button = Oplossingen tapasse
+    .accesskey = t

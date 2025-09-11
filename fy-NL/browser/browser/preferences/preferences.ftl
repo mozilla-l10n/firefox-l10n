@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Fertel websites dat se myn gegevens net ferkeapje of diele meie
     .accesskey = s
 non-technical-privacy-header = Websiteprivacyfoarkarren
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Slute
+do-not-track-removal2 =
+    .label = Wy stypje it ‘Net folgje’-sinjaal net mear
 
 ## Browser Restart Dialog
 
@@ -1266,10 +1270,15 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Mear ynfo
 content-blocking-etp-standard-tcp-title = Befettet Totale cookiebeskerming, ús krêftichste privacyfunksje ea
 content-blocking-warning-title = Let op!
 content-blocking-and-isolating-etp-warning-description-3 = Dizze ynstelling kin derfoar soargje dat guon websites ynhâld net werjaan of goed funksjonearje. Wy biede opsjonele útsûnderingen foar websites wêrfan wy witte dat se beynfloede wurde kinne troch jo konfiguraasje. Om de kâns op defekte websites te ferminderjen, kinne jo dizze trackerútsûnderingen tastean. As in website net liket te wurkjen, kinne jo beskerming tsjin folgjen foar dy website útskeakelje om alle ynhâld te laden en it probleem te melden, sadat wy it foar elkenien oplosse kinne.
+content-blocking-warning-title-2 = Guon websites wurkje mooglik net goed mei strikte beskerming tsjin folgjen
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } advisearret it gebrûk fan de ynstellingen foar ‘Problemen mei website oplosse’ oan om defekte websitefunksjes en -ynhâld te ferminderjen. As in website net liket te wurkjen, probearje dan beskerming tsjin folgjen foar dy website út te skeakeljen om alle ynhâld te laden.
 content-blocking-and-isolating-etp-warning-description-2 = Dizze ynstelling kin derfoar soargje dat guon websites ynhâld net toane of net korrekt wurkje. As in website net liket te wurkjen, dan kinne jo beskerming tsjin folgjen foar dy website útskeakelje om alle ynhâld te laden.
 content-blocking-warning-learn-how = Mear ynfo
 content-blocking-baseline-exceptions =
     .label = { -brand-short-name } tastean om automatysk útsûnderingen ta te passen dy’t nedich binne om grutte defekten fan de website foar te kommen.
+content-blocking-baseline-exceptions-2 =
+    .label = Helpt websites en funksjes te laden troch allinnich essinsjele eleminten dy’t trackers befetsje kinne te deblokkearjen. Dekt de meast foarkommende problemen.
 content-blocking-convenience-exceptions =
     .label = Ek automatysk útsûnderingen tapasse dy’t allinnich nedich binne om lytse problemen op te lossen en gemaksfunksjes beskikber te meitsjen.
 content-blocking-reload-description = Jo moatte jo ljepblêden fernije om dizze wizigingen ta te passen.
