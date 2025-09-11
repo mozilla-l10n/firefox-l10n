@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Alguns sites podem não funcionar corretament
 content-blocking-and-isolating-etp-warning-description-4 = O { -brand-short-name } recomenda usar a configuração “Corrigir problemas em sites” para reduzir funcionalidades e conteúdos com problemas em sites. Se um site parecer não funcionar corretamente, experimente desativar a proteção contra rastreamento no site para carregar todo o conteúdo.
 content-blocking-and-isolating-etp-warning-description-2 = Esta configuração pode fazer com que alguns sites não exibam conteúdo ou não funcionem corretamente. Se um site parece ter sido afetado, você pode desativar a proteção contra rastreamento nesse site para carregar todo o conteúdo.
 content-blocking-warning-learn-how = Saiba como
+content-blocking-baseline-exceptions-3 =
+    .label = Corrigir principais problemas em sites (recomendado)
+    .description = Ajuda a carregar sites e recursos, desbloqueando apenas elementos essenciais que podem conter rastreadores. Abrange os problemas mais comuns.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Corrigir problemas menores em sites
+    .description = Restaura coisas como vídeos em um artigo ou seções de comentários, ao desbloquear elementos que podem conter rastreadores. Isso pode reduzir problemas em sites, mas oferece menos proteção. Deve ser usado com correções de principais problemas.
 content-blocking-baseline-exceptions =
     .label = Permitir que o { -brand-short-name } aplique automaticamente exceções necessárias para evitar os principais problemas em sites.
 content-blocking-baseline-exceptions-2 =
