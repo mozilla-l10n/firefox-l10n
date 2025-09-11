@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Sıkı izlenme koruması bazı siteleri bozab
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name }, site özelliklerinin ve içeriklerinin bozulma ihtimalini azaltmak için “Site sorunlarını düzelt” ayarlarını kullanmanızı önerir. Bir site bozuk görünüyorsa o sitenin tüm içeriğini yüklemek için izlenme korumasını kapatmayı deneyin.
 content-blocking-and-isolating-etp-warning-description-2 = Bu ayar, bazı web sitelerinin içeriğinin görünmemesine veya düzgün çalışmamasına neden olabilir. Site bozuk görünüyorsa o sitenin tüm içeriğinin yüklemesi için izlenme korumasını kapatabilirsiniz.
 content-blocking-warning-learn-how = Nasıl yapılacağını öğrenin
+content-blocking-baseline-exceptions-3 =
+    .label = Önemli site sorunlarını düzelt (önerilir)
+    .description = Yalnızca takip kodu içerebilecek temel öğelerin engelini kaldırarak sitelerin ve özelliklerin yüklenmesine yardımcı olur. En yaygın sorunları kapsar.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Küçük site sorunlarını düzelt
+    .description = Takip kodu içerebilecek öğelerin engelini kaldırarak, makalelerdeki veya yorum bölümlerindeki videolar gibi öğeleri geri yükler. Bu işlem site sorunlarını azaltabilir ama daha az koruma sağlar. Büyük sorunlara yönelik düzeltmelerle birlikte kullanılmalıdır.
 content-blocking-baseline-exceptions =
     .label = Bazı sitelerin ciddi şekilde bozulmasını önlemek için { -brand-short-name } gerekli istisnaları otomatik olarak uygulasın.
 content-blocking-baseline-exceptions-2 =
