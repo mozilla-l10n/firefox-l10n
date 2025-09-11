@@ -248,6 +248,10 @@ menu-profiles-manage-profiles =
     .label = Kelola profil
 menu-profiles-new-profile =
     .label = Profil baru
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (kini)
 
 ## Tools Menu
 

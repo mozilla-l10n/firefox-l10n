@@ -444,10 +444,16 @@ onboarding-checklist-sign-up = Daftar atau masuk ke akun Anda
 
 tab-groups-onboarding-feature-callout-title = Coba grup tab untuk mengurangi tercecer, lebih fokus
 tab-groups-onboarding-feature-callout-subtitle = Atur dengan menyeret satu tab di atas tab lainnya untuk membuat grup pertama Anda.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Temukan grup tab Anda di menu Cantumkan Daftar Semua Tab kapan saja.
 tab-groups-onboarding-create-group-title-2 = Temukan grup tab Anda di sini kapan saja.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Temukan grup Anda dengan mencarinya di bilah alamat.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Saat Anda menutup grup tab, buka kembali dari menu Cantumkan Daftar Semua Tab kapan saja.
 tab-groups-onboarding-saved-groups-title-2 = Saat Anda menutup grup tab, Anda dapat membukanya kembali di sini kapan saja.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Temukan grup tertutup Anda dengan mencarinya di bilah alamat.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Buka kembali grup tab Anda dari menu Cantumkan Daftar Semua Tab kapan saja.
 tab-groups-onboarding-session-restore-title = Buka kembali grup tab Anda di sini kapan saja.
 tab-groups-onboarding-dismiss = Oke
 

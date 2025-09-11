@@ -39,6 +39,7 @@ about-networking-dns-lookup = Pencarian DNS
 about-networking-dns-lookup-button = Selesaikan
 about-networking-dns-domain = Domain:
 about-networking-dns-lookup-table-column = IP
+about-networking-dns-https-rrs-lookup-table-column = RR HTTPS
 about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = Statistik RCWN
 about-networking-rcwn-status = Status RCWN

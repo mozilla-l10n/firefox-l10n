@@ -273,6 +273,22 @@ contextual-manager-view-alert-heading =
     .heading = Lihat peringatan
 contextual-manager-view-alert-button =
     .tooltiptext = Tinjau peringatan
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Lihat peringatan
+           *[other] Lihat peringatan
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Tinjau peringatan
+           *[other] Tinjau peringatan
+        }
 contextual-manager-show-password-button =
     .aria-label = Tampilkan Sandi
     .title = Tampilkan Sandi
