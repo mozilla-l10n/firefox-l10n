@@ -1271,6 +1271,7 @@ content-blocking-etp-standard-tcp-title = Inkluderar totalt skydd mot kakor, vå
 content-blocking-warning-title = Se upp!
 content-blocking-and-isolating-etp-warning-description-3 = Den här inställningen kan göra att vissa webbplatser inte visar innehåll eller fungerar korrekt. Vi tillhandahåller valfria undantag för webbplatser som vi vet kan påverkas av din konfiguration. För att minska risken för trasiga webbplatser, tillåt dessa spårningsundantag. Om en webbplats verkar trasig kan du stänga av spårningsskydd för den webbplatsen för att läsa in allt innehåll och rapportera problemet så att vi kan hjälpa till att åtgärda det för alla.
 content-blocking-warning-title-2 = Vissa webbplatser kan sluta fungera med det strikta spårningsskyddet
+content-blocking-warning-title-custom = Vissa webbplatser kan bryta mot anpassat spårningsskydd
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } rekommenderar att du använder inställningarna för "Åtgärda webbplatsproblem" för att minska skadade webbplatsfunktioner och innehåll. Om en webbplats verkar trasig kan du prova att stänga av spårningsskydd för den webbplatsen för att ladda allt innehåll.
 content-blocking-and-isolating-etp-warning-description-2 = Denna inställning kan göra att vissa webbplatser inte visar innehåll eller fungerar korrekt. Om en webbplats verkar trasig kanske du vill inaktivera spårningsskydd för den webbplatsen för att ladda allt innehåll.
@@ -1389,6 +1390,9 @@ permissions-autoplay = Automatisk uppspelning
 permissions-autoplay-settings =
     .label = Inställningar…
     .accesskey = n
+permissions-block-popups2 =
+    .label = Blockera popup-fönster och omdirigeringar från tredje part
+    .accesskey = B
 permissions-block-popups =
     .label = Blockera popup-fönster
     .accesskey = B

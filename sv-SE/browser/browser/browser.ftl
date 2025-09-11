@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Privat surfning
+popups-infobar-dont-show-message2 =
+    .label = Visa inte det här meddelandet när popup-fönster eller omdirigeringar från tredje part blockeras
+    .accesskey = V
+edit-popup-settings2 =
+    .label = Hantera popup-inställningar och omdirigeringsinställningar för tredje part...
+    .accesskey = H
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Du har blockerat den här webbsidan från att få dela din skärm.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Du har blockerat beständig lagring för den här webbplatsen.
+urlbar-popup-blocked2 =
+    .tooltiptext = Du har blockerat popup-fönster och omdirigeringar från tredje part för den här webbplatsen.
 urlbar-popup-blocked =
     .tooltiptext = Du har blockerat popup-fönster för den här webbplatsen.
 urlbar-autoplay-media-blocked =
@@ -1170,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blockera popup-fönster för { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Tillåt popup-fönster och omdirigeringar från tredje part för { $uriHost }
+    .accesskey = T
 
 ##
 
@@ -1361,10 +1372,26 @@ popup-warning-message =
         [one] { -brand-short-name } hindrade att denna webbplats öppnar ett popup-fönster.
        *[other] { -brand-short-name } hindrade att denna webbplats öppnar { $popupCount } popup-fönster.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } hindrade den här webbplatsen från att omdirigera.
+        [1] { -brand-short-name } hindrade den här webbplatsen från att öppna ett popup-fönster och omdirigera.
+        [one] { -brand-short-name } hindrade den här webbplatsen från att öppna { $popupCount } popup-fönster och omdirigera.
+       *[other] { -brand-short-name } hindrade den här webbplatsen från att öppna { $popupCount } popup-fönster och omdirigera.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } hindrade den här webbplatsen från att öppna fler än { $popupCount } popup-fönster.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } hindrade den här webbplatsen från att öppna mer än { $popupCount } popup-fönster och omdirigera.
+       *[other] { -brand-short-name } hindrade den här webbplatsen från att öppna mer än { $popupCount } popup-fönster och omdirigera.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1380,6 +1407,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Visa “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Visa “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

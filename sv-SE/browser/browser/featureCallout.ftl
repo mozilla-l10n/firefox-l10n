@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = För många flikar? Städa med flikgrupper.
 windows-10-eos-sync-tour-subtitle-1 = Dra en flik ovanpå en annan för att skapa en grupp och hålla ordning på saker.
 windows-10-eos-sync-tour-title-2 = Gör dig redo för Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synkronisera dina bokmärken, lösenord och inställningar för att säkerhetskopiera dem innan du byter.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Visa färre rekommendationer
+windows-10-eos-sync-dismiss-button-label = Ignorera
+windows-10-eos-sync-callout-primary-advance-button-label = Nästa
 
 ## Sidebar Strings
 

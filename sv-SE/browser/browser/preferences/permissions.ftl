@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Du kan inaktivera Endast HTTPS-läge för specifika webbplatser. { -brand-short-name } försöker inte uppgradera anslutningen för att säkra HTTPS för dessa webbplatser. Undantag gäller inte privata fönster.
 permissions-exceptions-https-only-desc2 = Du kan stänga av endast HTTPS-läge för specifika webbplatser. { -brand-short-name } kommer inte att försöka uppgradera anslutningen till säker HTTPS för dessa webbplatser.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Tillåtna webbplatser - Popup-fönster och omdirigeringar från tredje part
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Du kan ange vilka webbplatser som får öppna popup-fönster och omdirigeras av ramar från tredje part.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

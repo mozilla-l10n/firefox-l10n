@@ -476,3 +476,22 @@ dismiss-button-label = Ignorera
 sync-to-mobile-button-label = Synka till mobil
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kod för att ladda ner { -brand-product-name } för mobil
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Återställ från säkerhetskopia
+restore-from-backup-title = Låt oss få tillbaka { -brand-short-name } som du vill ha det
+restore-from-backup-subtitle = Återställ alla dina bokmärken, historik och annan data för att komma tillbaka till surfningen.
+restore-from-backup-secondary-button = Återställ inte
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Vi är tillbaka! Din data för { -brand-short-name } har återställts.
+restored-from-backup-success-with-checklist-subtitle = Vill du behålla din favoritwebbläsare med fokus på integritet ett klick bort?
+restored-from-backup-success-no-checklist-subtitle = Du kan aktivera säkerhetskopiering för den här enheten i <a data-l10n-name="settings">Inställningar</a>.
+restored-from-backup-success-with-checklist-primary-button = Spara och fortsätt
+restored-from-backup-success-with-checklist-secondary-button = Hoppa över det här steget
+restored-from-backup-success-no-checklist-primary-button = Fortsätt
+restored-from-backup-error-title = Hmm, det uppstod ett problem med din säkerhetskopia.
+restored-from-backup-error-subtitle = Om du har en annan { -brand-short-name } säkerhetskopia, prova att återställa från den. <a data-l10n-name="restore-problems">Har du fortfarande problem?</a>
+restored-from-backup-error-primary-button = Stäng
