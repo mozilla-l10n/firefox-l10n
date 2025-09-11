@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = b
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Beskermje jo e-mailadres:
+firefox-relay-opt-in-title-2 = Untfang in fergees e-mailmasker
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = { -relay-brand-name }-e-mailmasker brûke
 firefox-relay-use-mask-title-1 = In e-mailmasker brûke
+firefox-relay-opt-in-subtitle-2 = Beskermje jo Postfek YN tsjin spam
 firefox-relay-use-mask-title = { -relay-brand-name }-e-mailmasker brûke
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Foarkom spam mei in fergees e-mailmasker
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Untfang in fergees e-mailmasker
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Beskermje jo Postfek YN tsjin spam troch in fergees <label data-l10n-name="firefox-relay-learn-more-url">e-mailmasker</label> te brûken om jo echte adres te ferbergjen. E-mailberjochten fan <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dizze website</label> sille noch hieltyd yn jo Postfek YN komme, mar mei jo e-mailadres ferburgen.
 firefox-relay-and-fxa-popup-notification-first-sentence = Beskermje jo Postfek YN tsjin spam troch in fergees <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }-e-mailmasker</label> te brûken om jo echte adres te ferbergjen. E-mailberjochten fan <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dizze website</label> sille noch hieltyd yn jo Postfek YN komme, mar mei jo e-mailadres ferburgen.
+firefox-relay-offer-why-to-use-relay-1 = Beskermje jo Postfek YN tsjin spam troch in fergees <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }-e-mailmasker</label> te brûken om jo echte adres te ferbergjen. E-mailberjochten fan <label data-l10n-name="firefox-fxa-and-relay-offer-domain">dizze website</label> sille noch hieltyd yn jo Postfek YN komme, mar mei jo e-mailadres ferburgen.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Registrearje of meld jo earst oan by jo account om in e-mailmasker te brûken
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrearje

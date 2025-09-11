@@ -125,6 +125,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Oer AI-chatbots yn { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Omdat de side lang is, is dit foar in part de gearfetting.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Side gearfetsje
@@ -217,3 +222,29 @@ link-preview-reading-time =
         [one] { $range } minút lêstiid
        *[other] { $range } minuten lêstiid
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Wy kinne dizze foarbyld fan dizze keppeling toane
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Keppeling besykje
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Wy kinne gjin haadpunten foar dizze website oanmeitsje.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Der is wat misgien.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Opnij probearje
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Ynstellingen foar keppelingsfoarbyld
+link-preview-settings-enable =
+    .label = Keppelingsfoarbylden ynskeakelje
+    .description = De sidetitel, beskriuwing en mear besjen, as jo de fluchkeppeling brûke of mei jo rjochtermûsknop op in keppeling klikke.
+link-preview-settings-key-points =
+    .label = AI tastean om it begjin fan de side te lêzen en haadpunten oan te meitsjen
+link-preview-settings-long-press =
+    .label = Fluchkeppeling: klik en hâld de keppeling 1 sekonde yndrukt (lang yndrukke)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Mear sjen mei AI?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } brûkt AI om it begjin fan de side te lêzen en in pear haadpunten oan te meitsjen. Om jo privacy prioriteit te jaan, bart dit op jo apparaat.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nij: in keppeling yndrukt hâlde foar in foarbyld
