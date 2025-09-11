@@ -1263,6 +1263,13 @@ content-blocking-warning-title-2 = 使用嚴格的追蹤保護功能時，某些
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } 建議使用「修正網站問題」選項，減少發生網站功能或內容故障的可能。若網站看來故障了，也可以針對該網站關閉追蹤保護，以載入所有內容。
 content-blocking-and-isolating-etp-warning-description-2 = 此設定可能會造成某些網站無法顯示內容或正常運作。若網站運作不正常，您可能會想要對該網站關掉追蹤保護功能，載入完整內容。
 content-blocking-warning-learn-how = 了解要怎麼做
+content-blocking-baseline-exceptions-3 =
+    .label = 修正網站的主要問題（建議）
+    .description = 不封鎖可能包含追蹤器的重要功能，以幫助載入網站內容與功能。能解決大多數常見問題。
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = 修正網站的小問題
+    .description = 不封鎖可能包含追蹤器的網頁元素，以恢復文章中的影片，或是留言區塊等功能。這個選項可更加減少網站問題，但同時也較無保護。必須用於修正網站的主要問題。
 content-blocking-baseline-exceptions =
     .label = 允許 { -brand-short-name } 自動套用必要的例外規則，以避免主要網站故障。
 content-blocking-baseline-exceptions-2 =
