@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Einige Websites können möglicherweise wegen
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } empfiehlt die Verwendung der Einstellungen "Probleme mit Webseiten beheben", um fehlerhafte Funktionen und Inhalte von Websites zu reduzieren. Wenn eine Webseite defekt zu sein scheint, versuchen Sie, den Tracking-Schutz für diese Website zu deaktivieren, um alle Inhalte zu laden.
 content-blocking-and-isolating-etp-warning-description-2 = Diese Einstellung kann dazu führen, dass einige Websites nicht korrekt Inhalte anzeigen oder funktionieren. Wenn eine Website defekt zu sein scheint, können Sie den Schutz vor Aktivitätenverfolgung für diese Website deaktivieren, um alle Inhalte zu laden.
 content-blocking-warning-learn-how = Weitere Informationen
+content-blocking-baseline-exceptions-3 =
+    .label = Größere Probleme mit Websites beheben (empfohlen)
+    .description = Hilft beim Laden von Webseiten und Funktionen, indem nur wichtige Elemente freigeschaltet werden, die Tracker enthalten könnten. Deckt die häufigsten Probleme ab.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Kleinere Probleme mit Websites beheben
+    .description = Stellt Dinge wie Videos in einem Artikel oder Kommentarabschnitten wieder her, indem es Elemente freigibt, die Tracker enthalten könnten. Dies kann Probleme mit der Website reduzieren, bietet aber weniger Schutz. Muss mit Korrekturen für größere Probleme verwendet werden.
 content-blocking-baseline-exceptions =
     .label = { -brand-short-name } erlauben, Ausnahmen automatisch anzuwenden, um größere Probleme mit Websites zu vermeiden.
 content-blocking-baseline-exceptions-2 =
