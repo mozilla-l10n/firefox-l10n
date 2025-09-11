@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Meramban Privat
        *[other] Meramban Privat { -brand-full-name }
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Penjelajahan Pribadi
 
 ##
 
@@ -389,6 +392,7 @@ quickactions-help = Bantuan { -brand-product-name }
 quickactions-cmd-help = bantuan, dukungan
 # Opens the devtools web inspector
 quickactions-inspector2 = Buka Perangkat Pengembang
+quickactions-cmd-inspector2 = inspector, inspektur, devtools, dev tools, perkakas pengembang
 quickactions-cmd-inspector = inspektur, perangkat pengembang
 # Opens about:logins
 quickactions-logins2 = Kelola sandi
@@ -808,6 +812,7 @@ urlbar-result-market-opt-in-description = Tampilkan pembaruan pasar dan lainnya 
 urlbar-result-realtime-opt-in-allow = Tampilkan saran
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Jangan sekarang
+urlbar-result-realtime-opt-in-dismiss = Tutup
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Jangan tampilkan saran ini
 # This string is shown in the result menu.
@@ -1311,6 +1316,7 @@ firefox-relay-offer-why-to-use-relay = Topeng aman dan mudah digunakan dari kami
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Semua surel yang dikirim ke topeng surel Anda akan diteruskan ke <strong>{ $useremail }</strong> (kecuali jika Anda memutuskan untuk memblokir mereka).
 firefox-relay-offer-legal-notice = Dengan mengklik “Gunakan masker surel”, Anda setuju dengan <label data-l10n-name="tos-url">Ketentuan Layanan</label> dan <label data-l10n-name="privacy-url">Pernyataan Privasi</label>.
+firefox-relay-offer-legal-notice-1 = Dengan mendaftar dan membuat topeng surel, Anda menyetujui <label data-l10n-name="tos-url">Ketentuan Layanan</label> dan <label data-l10n-name="privacy-url">Pernyataan Privasi</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1434,6 +1440,7 @@ trustpanel-tracking-description = Tanpa pelacak, beberapa tombol, formulir, dan 
 trustpanel-insecure-section-header = Sambungan Anda tidak aman
 trustpanel-insecure-description = Data yang Anda kirim ke situs ini tidak dienkripsi. Itu bisa dilihat, dicuri, atau diubah.
 trustpanel-list-label-tracking-cookies = { $count } Kuki pelacak lintas situs
+trustpanel-list-label-tracking-content = Melacak konten
 trustpanel-list-label-fingerprinter = { $count } Penyidik Jari
 trustpanel-list-label-social-tracking = { $count } Pelacak media sosial
 trustpanel-list-label-cryptominer = { $count } Penambang Mata Uang Kripto

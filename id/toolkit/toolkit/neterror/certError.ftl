@@ -124,6 +124,12 @@ cert-error-path-len-constraint-invalid = { -brand-short-name } memblokir kunjung
 cert-error-invalid-key = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } memiliki kunci yang tidak valid. Kemungkinan besar, terlalu kecil untuk aman.
 cert-error-unknown-critical-extension = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } berisi ekstensi kritikal yang tidak didukung.
 cert-error-extension-value-invalid = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } berisi ekstensi yang tidak valid.
+cert-error-untrusted-issuer = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } dikeluarkan oleh otoritas sertifikat yang tidak dipercaya lagi.
+cert-error-untrusted-cert = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } ditandai sebagai tidak tepercaya.
+cert-error-invalid-integer-encoding = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } mengandung pengodean bilangan bulat yang tidak valid. Penyebab umum termasuk nomor seri negatif, modulus RSA negatif, dan pengodean yang lebih panjang dari yang diperlukan.
+cert-error-unsupported-keyalg = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena sertifikat yang disediakan untuk { $hostname } memiliki jenis kunci yang tidak didukung.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena otoritas sertifikat yang mengeluarkan sertifikat yang disediakan untuk { $hostname } tidak dipercaya lagi.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } memblokir kunjungan Anda ke situs ini karena algoritme tanda tangan dari sertifikat yang disediakan untuk { $hostname } tidak cocok dengan bidang algoritme tanda tangannya.
 
 ## Messages used for certificate error titles
 
@@ -158,6 +164,7 @@ redirectLoop-title = Laman tidak teralihkan dengan benar
 unknownSocketType-title = Jawaban yang tidak diharapkan dari server
 nssFailure2-title = Sambungan Aman Gagal
 csp-xfo-error-title = { -brand-short-name } Tidak Dapat Membuka Laman Ini
+corruptedContentErrorv2-title = Galat Konten Rusak
 corruptedContentError-title = Galat Konten Rusak
 sslv3Used-title = Gagal Tersambung dengan Aman
 inadequateSecurityError-title = Sambungan Anda tidak aman
