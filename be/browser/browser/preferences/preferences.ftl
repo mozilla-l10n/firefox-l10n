@@ -1279,6 +1279,13 @@ content-blocking-warning-title-2 = Некаторыя сайты могуць п
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } рэкамендуе выкарыстоўваць налады «Выпраўленне праблем з сайтамі», каб паменшыць колькасць няспраўных функцый і змесціва сайтаў. Калі сайт здаецца няспраўным, паспрабуйце адключыць ахову ад сачэння для гэтага сайта, каб загрузіць усё змесціва.
 content-blocking-and-isolating-etp-warning-description-2 = Гэта налада можа прывесці да таго, што некаторыя вэб-сайты не будуць паказваць змесціва ці працаваць карэктна. Калі сайт здаецца няспраўным, вы можаце адключыць ахову ад сачэння на гэтым сайце, каб чытаць увесь змест.
 content-blocking-warning-learn-how = Даведацца, як
+content-blocking-baseline-exceptions-3 =
+    .label = Выпраўляць сур'ёзныя праблемы з сайтамі (рэкамендуецца)
+    .description = Дапамагае загружаць сайты і функцыі, разблакоўваючы толькі неабходныя элементы, якія могуць утрымліваць трэкеры. Ахоплівае найбольш распаўсюджаныя праблемы.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Выпраўленне нязначных праблем з сайтамі
+    .description = Аднаўляе такія рэчы, як відэа ў артыкуле або раздзелах каментарыяў, разблакоўваючы элементы, якія могуць утрымліваць трэкеры. Гэта можа паменшыць праблемы з сайтам, але забяспечвае меншую ахову. Неабходна выкарыстоўваць разам з выпраўленнямі сур'ёзных праблем.
 content-blocking-baseline-exceptions =
     .label = Дазволіць { -brand-short-name } аўтаматычна ўжываць выключэнні, неабходныя для прадухілення сур'ёзных паломак вэб-сайтаў.
 content-blocking-baseline-exceptions-2 =
