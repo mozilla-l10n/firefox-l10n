@@ -5,6 +5,7 @@
 
 ## Preonboarding modal screen strings
 
+preonboarding-title = به { -brand-product-name } خوش آمدید
 preonboarding-primary-cta-v2 = ادامه
 preonboarding-terms-of-use-header-button-title-b-v2 = شرایط استفاده
 preonboarding-privacy-notice-header-button-title-b-v2 = نکات حفظ محرمانگی
