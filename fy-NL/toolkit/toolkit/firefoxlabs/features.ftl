@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Websitewerjefte
 experimental-features-group-customize-browsing =
     .label = Pas jo browser oan
+experimental-features-group-productivity =
+    .label = Produktiviteit
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Wachtwurden yn de sydbalke
@@ -67,3 +69,7 @@ experimental-features-newtab-widget-lists-description = Hâld jo takelist boppe-
 experimental-features-newtab-widget-timer =
     .label = Timer op { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = Stel in timer yn om jo te fokusjen, jo oan te moedigjen om op koers te bliuwen, of jo te werinnerjen om op te laden. <a data-l10n-name="connect">Kommentaar diele</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listen en timer op { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Hâld jo to-dolist in gedachten wannear’t jo in nij ljepblêd iepenje. Fan paklisten oant boodskippelistkes, meitsje jo plannen yn { -brand-product-name }. Stel in timer yn om jo fokust te hâlden, in triuwke yn de rêch te jaan om op it goede spoar te bliuwen of jo yn it sin te bringen dat jo oplade moatte. <a data-l10n-name="connect">Kommentaar diele</a>

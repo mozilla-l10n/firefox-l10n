@@ -288,6 +288,16 @@ folder-avatar-tooltip =
     .tooltiptext = Mapavatar tapasse
 hammer-avatar-tooltip =
     .tooltiptext = Hammeravatar tapasse
+heart-avatar-tooltip =
+    .tooltiptext = Hertavatar tapasse
+heart-rate-avatar-tooltip =
+    .tooltiptext = Hartslachavatar tapasse
+clock-avatar-tooltip =
+    .tooltiptext = Klokavatar tapasse
+leaf-avatar-tooltip =
+    .tooltiptext = Blêdavatar tapasse
+lightbulb-avatar-tooltip =
+    .tooltiptext = Gloeilampe-avatar tapasse
 makeup-avatar-tooltip =
     .tooltiptext = Make-upavatar tapasse
 # Message refers to a text message, not a traditional letter/envelope message

@@ -120,3 +120,8 @@ about-logging-no-uploaded-profiles = Der binne noch gjin profilen oplaad.
 about-logging-delete-uploaded-profile = Fuortsmite
 about-logging-view-uploaded-profile = Profyl besjen
 about-logging-delete-profile-confirm-title = Profyl fuortsmite
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Binne jo wis dat jo it profyl ‘{ $profileName }’ fuortsmite wolle? Dit kin net ûngedien makke wurde.
+about-logging-deleting-profile = Fuortsmite…
