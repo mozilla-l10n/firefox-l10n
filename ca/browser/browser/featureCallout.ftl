@@ -66,13 +66,28 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = Més opcions
 
+## Login Status Advisory Callout (points to the account icon)
+
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Teniu la sessió tancada. Feu clic a la icona del compte per a iniciar la sessió.
+
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Voleu afegir aquest lloc a la barra d'eines de les adreces d'interès?
+bookmarks-toolbar-callout-1-subtitle = L'adreça d'interès es desarà just a sota de la barra d'adreces per a accedir-hi ràpidament.
 bookmarks-toolbar-callout-1-primary-button-label = Afegeix a les adreces d’interès
 bookmarks-toolbar-callout-1-secondary-button-label = No, gràcies
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Afegiu més adreces d'interès fàcilment
+bookmarks-toolbar-callout-2a-subtitle = Podeu arrossegar i deixar anar pestanyes aquí per a tenir més llocs preferits a l'abast.
 bookmarks-toolbar-callout-2a-primary-button-label = Entesos
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Amaga la barra d'eines
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Voleu mantenir la barra d'eines de les adreces d'interès oberta?
+bookmarks-toolbar-callout-2b-subtitle = Podeu afegir altres llocs que visiteu més sovint. Només heu d'arrossegar i deixar anar les pestanyes aquí per tenir els llocs web preferits a l'abast.
 bookmarks-toolbar-callout-2b-primary-button-label = Mantén obert
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = No, gràcies
