@@ -1429,6 +1429,13 @@ content-blocking-warning-title-2 = Některé stránky nemusí s přísnou ochran
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } doporučuje použít nastavení “Opravit problémy webu”, aby se omezily nefunkční funkce a obsah webu. Pokud se web jeví jako nefunkční, zkuste pro něj vypnout ochranu sledování, aby se načetl veškerý obsah.
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavení může způsobit, že některé stránky nebudou fungovat správně. Pro řešení případných problémů můžete ochranu proti sledování na takových stránkách vypnout.
 content-blocking-warning-learn-how = Jak na to
+content-blocking-baseline-exceptions-3 =
+    .label = Oprava velkých problémů se stránkami (doporučeno)
+    .description = Pomáhá načítat weby a funkce tím, že odblokovává pouze podstatné prvky, které mohou obsahovat sledovací prvky. Pokrývá většinu běžných problémů.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Oprava menších problémů se stránkami
+    .description = Obnoví například videa v článku nebo sekce komentářů odblokováním prvků, které mohou obsahovat sledovací prvky. To může omezit problémy s webem, ale nabízí menší ochranu. Musí být použita s opravami závažných problémů.
 content-blocking-baseline-exceptions =
     .label =
         { -brand-short-name.case-status ->
