@@ -144,12 +144,23 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = 사용자 지정 테마 적용
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>데이터 수집 설정이 변경되었습니다.</strong> 다른 프로필에서 변경한 사항이 이 기기의 모든 프로필에 적용됩니다.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = 설정 보기
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = 닫기
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = 책
 briefcase-avatar-alt =
     .alt = 서류 가방
+picture-avatar-alt =
+    .alt = 사진
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = 캔버스
@@ -166,6 +177,8 @@ heart-avatar-alt =
     .alt = 하트
 heart-rate-avatar-alt =
     .alt = 심박수
+clock-avatar-alt =
+    .alt = 시계
 history-avatar-alt =
     .alt = 기록
 leaf-avatar-alt =
@@ -190,6 +203,8 @@ present-avatar-alt =
     .alt = 선물
 shopping-avatar-alt =
     .alt = 장바구니
+soccer-ball-avatar-alt =
+    .alt = 축구공
 soccer-avatar-alt =
     .alt = 축구
 sparkle-single-avatar-alt =
@@ -200,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = 비디오 게임 컨트롤러
 custom-avatar-alt =
     .alt = 아바타 사용자 지정
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = 지구
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = 기본 파비콘
