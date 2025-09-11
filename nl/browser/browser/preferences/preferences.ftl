@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Sommige websites werken mogelijk niet goed me
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } raadt het gebruik van de instellingen voor ‘Problemen met website oplossen’ aan om defecte websitefuncties en -inhoud te verminderen. Als een website niet lijkt te werken, probeer dan bescherming tegen volgen voor die website uit te schakelen om alle inhoud te laden.
 content-blocking-and-isolating-etp-warning-description-2 = Deze instelling kan ervoor zorgen dat sommige websites inhoud niet tonen of niet correct werken. Als een website niet lijkt te werken, dan kunt u bescherming tegen volgen voor die website uitschakelen om alle inhoud te laden.
 content-blocking-warning-learn-how = Meer info
+content-blocking-baseline-exceptions-3 =
+    .label = Grote problemen met de website verhelpen (aanbevolen)
+    .description = Helpt websites en functies te laden door alleen essentiële elementen die trackers kunnen bevatten te deblokkeren. Dekt de meest voorkomende problemen.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Kleine problemen met de website oplossen
+    .description = Herstelt zaken als video’s in een artikel of commentaarsecties door elementen die trackers kunnen bevatten te deblokkeren. Dit kan problemen met de website verminderen, maar biedt minder bescherming. Moet worden gebruikt met oplossingen voor grote problemen.
 content-blocking-baseline-exceptions =
     .label = { -brand-short-name } toestaan om automatisch uitzonderingen toe te passen die nodig zijn om grote defecten van de website te voorkomen.
 content-blocking-baseline-exceptions-2 =

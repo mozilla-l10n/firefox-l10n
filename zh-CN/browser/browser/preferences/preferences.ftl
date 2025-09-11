@@ -1267,6 +1267,13 @@ content-blocking-warning-title-2 = 严格级别跟踪保护可能导致某些网
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } 建议使用“修复网站问题”设置，以避免网站功能和内容出现异常。若网站异常，可尝试为其关闭跟踪保护，以加载所有内容。
 content-blocking-and-isolating-etp-warning-description-2 = 此设置可能会导致某些网站无法显示内容或正常工作。若网站异常，则可能需要关闭该网站的跟踪保护功能，以加载全部内容。
 content-blocking-warning-learn-how = 了解要如何做
+content-blocking-baseline-exceptions-3 =
+    .label = 修复严重网站问题（推荐）
+    .description = 仅取消屏蔽可能包含跟踪器的必要元素，有助于加载网站和功能。可解决大多数常见问题。
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = 修复轻微网站问题
+    .description = 取消屏蔽可能包含跟踪器的元素，以恢复文章内视频和评论区等内容。此操作可避免网站出现问题，但会降低保护效果。需配合修复严重问题功能使用。
 content-blocking-baseline-exceptions =
     .label = 必要情况下，允许 { -brand-short-name } 自动进行例外处理，以避免网站发生严重故障。
 content-blocking-baseline-exceptions-2 =

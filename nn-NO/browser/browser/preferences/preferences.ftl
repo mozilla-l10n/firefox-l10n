@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Nokre nettstadar kan slutte å fungere med st
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } tilrår å bruke innstillingane «Fiks nettstadproblem» for å redusere øydelagde funksjonar og innhald på nettstadar. Viss ein nettstad verkar øydelagd, kan du prøve å slå av sporingsvern for den nettstaden for å laste alt innhald.
 content-blocking-and-isolating-etp-warning-description-2 = Denne innstillinga kan føre til at enkelte nettstadar ikkje viser innhald eller fungerer rett. Dersom ein nettstad verkar øydelagd, kan det vere lurt å slå av sporingsvernet for nettsaden for å få laste inn alt innhaldet.
 content-blocking-warning-learn-how = Les korleis
+content-blocking-baseline-exceptions-3 =
+    .label = Fiks større nettstadsproblem (tilrådd)
+    .description = Hjelper med å laste inn nettstadar og funksjonar ved å oppheve blokkering av berre nødvendige element som kan innehalde sporarar. Dekkjer dei fleste vanlege problem.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Fiks mindre nettstadsproblem
+    .description = Gjenopprettar ting som videoar i ein artikkel eller kommentarfelt ved å oppheve blokkering av element som kan innehalde sporarar. Dette kan redusere problem på nettstadar, men gir mindre vern. Må brukast saman med fiksar for større problem.
 content-blocking-baseline-exceptions =
     .label = Tillat at { -brand-short-name } automatisk brukar unntak som trengst for å unngå større nettstadfeil.
 content-blocking-baseline-exceptions-2 =

@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Vissa webbplatser kan sluta fungera med det s
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } rekommenderar att du använder inställningarna för "Åtgärda webbplatsproblem" för att minska skadade webbplatsfunktioner och innehåll. Om en webbplats verkar trasig kan du prova att stänga av spårningsskydd för den webbplatsen för att ladda allt innehåll.
 content-blocking-and-isolating-etp-warning-description-2 = Denna inställning kan göra att vissa webbplatser inte visar innehåll eller fungerar korrekt. Om en webbplats verkar trasig kanske du vill inaktivera spårningsskydd för den webbplatsen för att ladda allt innehåll.
 content-blocking-warning-learn-how = Lär dig hur
+content-blocking-baseline-exceptions-3 =
+    .label = Åtgärda större webbplatsproblem (rekommenderas)
+    .description = Hjälper till att ladda webbplatser och funktioner genom att endast avblockera viktiga element som kan innehålla spårare. Täcker de vanligaste problemen.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Åtgärda mindre webbplatsproblem
+    .description = Återställer saker som videor i en artikel eller kommentarsfält genom att avblockera element som kan innehålla spårare. Detta kan minska webbplatsproblem men erbjuder mindre skydd. Måste användas med korrigeringar för större problem.
 content-blocking-baseline-exceptions =
     .label = Tillåt { -brand-short-name } att automatiskt tillämpa undantag som krävs för att undvika större webbplatsfel.
 content-blocking-baseline-exceptions-2 =

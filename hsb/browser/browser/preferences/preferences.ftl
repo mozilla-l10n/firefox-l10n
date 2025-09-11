@@ -1283,6 +1283,13 @@ content-blocking-warning-title-2 = Někotre sydła snano ze striktnym přesćěh
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } poruča, nastajenja „Sydłowe problemy rozrisać“ wužiwać, zo byšće wobškodźene sydłowe funkcije a wobškodźeny sydłowy wobsah redukował. Jeli so zda, zo sydło je wobškodźene, spytajće přesćěhowanski škit za te sydło znjemóžnić, zo byšće wšón wobsah začitał.
 content-blocking-and-isolating-etp-warning-description-2 = Tute nastajenje móže zwinować, zo někotre websydła wobsah njepokazuja abo korektnje njefunguja. Jeli sydło zda so wobškodźene być, móžeće slědowanski škit za te sydło znjemóžnić, zo byšće cyły wobsah začitał.
 content-blocking-warning-learn-how = Zhońće kak
+content-blocking-baseline-exceptions-3 =
+    .label = Wulke sydłowe problemy rozrisać (doporučene)
+    .description = Zběhnje blokowanje jenož wažnych elementow, kotrež móhli přesćěhowaki wobsahować, zo by pomhało, sydła a funkcije začitać. Funguje za najhusćiše problemy.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Snadne sydłowe problemy rozrisać
+    .description = Wobnowja wěcy kaž wideja w nastawku abo komentarowych wotrězkach, hdyž so elementy hižo njeblokuja, kotrež móhli přesćěhowaki wobsahować. To móže sydłowe problemy redukować, skići wšak mjenje škita. Dyrbi so z rozrisanjemi za wulke problemy wužiwać.
 content-blocking-baseline-exceptions =
     .label = Dowolće { -brand-short-name } wuwzaća awtomatisce nałožić, kotrež su trěbne, zo bychu so wulke problemy z websydłami wobešli.
 content-blocking-baseline-exceptions-2 =

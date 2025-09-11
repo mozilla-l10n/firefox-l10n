@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Noen nettsteder kan slutte å fungere med str
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } anbefaler å bruke innstillingene «Fiks nettstedsproblemer» for å redusere ødelagte funksjoner og innhold på nettsteder. Hvis et nettsted virker ødelagt, kan du prøve å slå av sporingsbeskyttelse for det nettstedet for å laste alt innhold.
 content-blocking-and-isolating-etp-warning-description-2 = Denne innstillingen kan føre til at enkelte nettsteder ikke viser innhold eller fungerer riktig. Hvis et nettsted virker ødelagt, kan det være lurt å slå av sporingsbeskyttelse for det nettstedet for å laste inn alt innholdet.
 content-blocking-warning-learn-how = Les hvordan
+content-blocking-baseline-exceptions-3 =
+    .label = Fiks større nettstedsproblemer (anbefalt)
+    .description = Hjelper med å laste inn nettsteder og funksjoner ved å oppheve blokkering av bare nødvendige elementer som kan inneholde sporere. Dekker de fleste vanlige problemer.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Fiks mindre nettstedsproblemer
+    .description = Gjenoppretter ting som videoer i en artikkel eller kommentarfelt ved å oppheve blokkering av elementer som kan inneholde sporere. Dette kan redusere problemer på nettsteder, men gir mindre beskyttelse. Må brukes sammen med fikser for større problemer.
 content-blocking-baseline-exceptions =
     .label = Tillat at { -brand-short-name } automatisk bruker unntak som kreves for å unngå større nettstedsfeil.
 content-blocking-baseline-exceptions-2 =

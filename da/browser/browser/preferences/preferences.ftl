@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Nogle websteder fungerer muligvis ikke som de
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } anbefaler, at du bruger indstillingerne "Løs problemer med websted" for at reducere problemer med websteder, der ikke virker som de skal. Hvis et websted ikke virker som forventet, så prøv at slå beskyttelse mod sporing fra for webstedet for at indlæse alt indhold.
 content-blocking-and-isolating-etp-warning-description-2 = Denne indstilling kan medføre, at nogle websteder ikke viser indhold eller ikke fungerer som de skal. Hvis et websted ikke ser ud til at fungere korrekt, så prøv at slå beskyttelse mod sporing fra for webstedet for at indlæse alt indhold.
 content-blocking-warning-learn-how = Læs hvordan
+content-blocking-baseline-exceptions-3 =
+    .label = Løs store problemer med websted (anbefalet)
+    .description = Hjælper med at indlæse websteder og funktioner ved at ophæve blokeringen af vigtige elementer, der kan indeholde sporings-mekanismer. Kan løse de mest almindelige problemer.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Løs mindre problemer med websted
+    .description = Gendanner elementer som videoer i en artikel eller kommentar-sektioner ved at fjerne blokering af elementer, der kan indeholde sporings-mekanismer. Dette kan reducere problemer med websteder, men giver dårligere beskyttelse. Skal anvendes samme med rettelser, når det handler om store problemer.
 content-blocking-baseline-exceptions =
     .label = Tillad at { -brand-short-name } automatisk anvender undtagelser, som er nødvendige for at undgå alvorlige problemer med indlæsning af websteder.
 content-blocking-baseline-exceptions-2 =

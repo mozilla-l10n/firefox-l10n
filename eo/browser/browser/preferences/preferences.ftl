@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Rigora blokado de spuriloj povas misfunkciigi
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } rekomendas uzi la agordojn en “Solvi retejajn problemojn” por redukti misfunkciantajn trajtojn kaj enhavon. Se retejo aspektas misfunkciante, provu malŝalti la protekton kontraŭ spurado por tiu retejo, por ŝargi la tutan enhavon.
 content-blocking-and-isolating-etp-warning-description-2 = Tiu ĉi agordo povas mismontri aŭ misfunkciigi retejojn. Se iu retejo ne bone funkcias aŭ videblas, vi povas malaktivigi la protekton kontaŭ spurado por tiu retejo, tiel ke ĝi ŝargos la tutan enhavon.
 content-blocking-warning-learn-how = Pli da informo
+content-blocking-baseline-exceptions-3 =
+    .label = Solvi gravajn retejajn problemojn (rekomendata)
+    .description = Tio ĉi helpas retejojn kaj trajtojn per malblokado de (nur) nepraj elementoj, kiuj tamen povus enhave spurilojn. La plimulto de oftaj problemoj estas solveblaj ĉi tiel.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Solvi negravajn retejajn problemojn
+    .description = Tio ĉi remetas aferojn kiel filmetojn aŭ komentan sekcion en artikolon pero malblokado de elementoj kiuj povus enhavi spurilojn. Tio povas redukti problemojn en la retejo sed malplibonigas la protekton. Oni uzu tion kune kun korektoj por gravaj problemoj.
 content-blocking-baseline-exceptions =
     .label = Permesi al { -brand-short-name } aŭtomate apliki esceptojn, kiuj bezonatas por eviti gravan misfunkciadon en retejoj.
 content-blocking-baseline-exceptions-2 =

@@ -1279,6 +1279,13 @@ content-blocking-warning-title-2 = Unele site-uri ar putea funcționa necorespun
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recomandă folosirea setărilor „Rezolvă problemele site-urilor” pentru reducerea funcționalităților și conținutului nefuncțional de pe site-uri. Dacă un site pare nefuncțional, încearcă să dezactivezi protecția împotriva urmăririi pentru site-ul respectiv ca să se încarce tot conținutul.
 content-blocking-and-isolating-etp-warning-description-2 = Această setare poate poate determina unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Dacă un site pare să fie defect, ai posibilitatea de a dezactiva protecția de urmărire pentru acel site pentru a încărca tot conținutul.
 content-blocking-warning-learn-how = Află cum
+content-blocking-baseline-exceptions-3 =
+    .label = Remediază problemele majore ale site-urilor (recomandat)
+    .description = Ajută la încărcarea site-urilor și a funcționalităților prin deblocarea numai a elementelor esențiale care ar putea conține elemente de urmărire. Rezolvă majoritatea problemelor frecvente.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Remediază problemele minore ale site-urilor
+    .description = Restaurează elemente cum ar fi videoclipuri într-un articol sau secțiunile de comentarii prin deblocarea componentelor care ar putea conține elemente de urmărire. Poate reduce problemele site-urilor dar oferă mai puțină protecție. Trebuie folosită cu remediile pentru probleme majore.
 content-blocking-baseline-exceptions =
     .label = Permite { -brand-short-name } să aplice automat excepțiile necesare pentru a evita întreruperi majore ale site-ului web.
 content-blocking-baseline-exceptions-2 =

@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Some sites may break with strict tracking pro
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recommends using the “Fix site issues” settings to reduce broken site features and content. If a site seems broken, try turning off tracking protection for that site to load all content.
 content-blocking-and-isolating-etp-warning-description-2 = This setting may cause some web sites to not display content or work correctly. If a site seems broken, you may want to turn off tracking protection for that site to load all content.
 content-blocking-warning-learn-how = Learn how
+content-blocking-baseline-exceptions-3 =
+    .label = Fix major site issues (recommended)
+    .description = Helps load sites and features by unblocking only essential elements that may contain trackers. Covers most common problems.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Fix minor site issues
+    .description = Restores things like videos in an article or comment sections by unblocking elements that may contain trackers. This can reduce site issues but offers less protection. Must be used with fixes for major issues.
 content-blocking-baseline-exceptions =
     .label = Allow { -brand-short-name } to automatically apply exceptions required to avoid major website breakage.
 content-blocking-baseline-exceptions-2 =

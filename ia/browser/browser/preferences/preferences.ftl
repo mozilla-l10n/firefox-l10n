@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Alcun sitos pote non functionar con le protec
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recommenda usar le configurationes “Reparar problemas de sito” pro reducer functiones e contento de sito corrupte. Si un sito pare corrupte, tenta disactivar le protection de traciamento pro ille sito pro cargar tote le contento.
 content-blocking-and-isolating-etp-warning-description-2 = Iste parametro pote causar alcun sitos web a non monstrar contento o non pote functionar correctemente. Si un sito pare corrupte, prova disactivar protection de traciamento pro ille sito pote cargar tote le contento.
 content-blocking-warning-learn-how = Apprende como
+content-blocking-baseline-exceptions-3 =
+    .label = Resolver problemas major de sitos (recommendate)
+    .description = Adjuta cargar sitos e functiones disblocante solo elementos essential que pote continer traciatores. Coperi le major parte del problemas commun.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Resolver problemas minor de sitos
+    .description = Restaura cosas como videos in un articulo o commenta sectiones disblocante elementos que pote continer traciatores. Isto pote reducer le problemas de sito, ma offere minus protection. Debe esser usate con le correctiones pro le problemas major.
 content-blocking-baseline-exceptions =
     .label = Permitter a { -brand-short-name } de automaticamente applicar le exceptiones necessari pro evitar le principal problemas de sito web.
 content-blocking-baseline-exceptions-2 =

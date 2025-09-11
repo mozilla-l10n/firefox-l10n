@@ -1259,6 +1259,13 @@ content-blocking-warning-title-2 = บางไซต์อาจใช้งา
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } แนะนำให้ใช้การตั้งค่า “แก้ไขปัญหาของไซต์” เพื่อลดคุณลักษณะและเนื้อหาไซต์ที่ใช้งานไม่ได้ ถ้าไซต์ดูเหมือนจะใช้งานไม่ได้ ให้ลองปิดการป้องกันการติดตามสำหรับไซต์นั้นเพื่อโหลดทุกเนื้อหา
 content-blocking-and-isolating-etp-warning-description-2 = การตั้งค่านี้อาจส่งผลให้บางเว็บไซต์ไม่แสดงผลเนื้อหาหรือไม่ทำงานอย่างถูกต้อง ถ้าไซต์ดูเหมือนจะใช้การไม่ได้ คุณอาจต้องปิดการป้องกันการติดตามสำหรับไซต์นั้นเพื่อโหลดเนื้อหาทั้งหมด
 content-blocking-warning-learn-how = เรียนรู้วิธี
+content-blocking-baseline-exceptions-3 =
+    .label = แก้ไขปัญหาหลัก ๆ ของไซต์ (แนะนำ)
+    .description = ช่วยโหลดไซต์และคุณลักษณะโดยเลิกปิดกั้นเฉพาะองค์ประกอบจำเป็นที่อาจมีตัวติดตาม ครอบคลุมปัญหาที่พบบ่อยส่วนใหญ่
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = แก้ไขปัญหาเล็ก ๆ ของไซต์
+    .description = เรียกคืนสิ่งต่าง ๆ เช่นวิดีโอในบทความหรือส่วนความคิดเห็น โดยเลิกปิดกั้นองค์ประกอบที่อาจมีตัวติดตาม นี่สามารถลดปัญหาของไซต์ได้ แต่จะให้การป้องกันน้อยลง และต้องใช้พร้อมด้วยการแก้ไขปัญหาหลัก ๆ
 content-blocking-baseline-exceptions =
     .label = อนุญาตให้ { -brand-short-name } ใช้ข้อยกเว้นที่จำเป็นโดยอัตโนมัติเพื่อหลีกเลี่ยงไม่ให้เว็บไซต์เสียหายอย่างรุนแรง
 content-blocking-baseline-exceptions-2 =

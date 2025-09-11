@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Jotkin sivustot saattavat rikkoutua tiukalla 
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } suosittelee käyttämään ”Korjaa sivuston ongelmat”-asetuksia sivuston rikkinäisten ominaisuuksien ja sisällön vähentämiseksi. Jos sivusto vaikuttaa rikkinäiseltä, kokeile poistaa seurantasuojaus käytöstä kyseiseltä sivustolta, jotta kaikki sisältö latautuu.
 content-blocking-and-isolating-etp-warning-description-2 = Tämä asetus saattaa aiheuttaa sen, että jotkin verkkosivustot eivät näytä sisältöä tai toimi oikein. Jos sivusto vaikuttaa rikkoutuneen, saatat haluta poistaa seurannan suojauksen käytöstä kyseisen sivuston kohdalta, jotta kaikki sisältö voidaan ladata.
 content-blocking-warning-learn-how = Lue lisää
+content-blocking-baseline-exceptions-3 =
+    .label = Korjaa merkittävät sivuston ongelmat (suositus)
+    .description = Auttaa lataamaan sivustoja ja ominaisuuksia poistamalla estoja vain tärkeiltä elementeiltä, jotka saattavat sisältää seuraimia. Kattaa yleisimmät ongelmat.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Korjaa pienet sivuston ongelmat
+    .description = Palauttaa esimerkiksi videot artikkelissa tai kommenttiosiot poistamalla mahdollisesti seuraimia sisältävien elementtien eston. Tämä voi vähentää sivuston ongelmia, mutta tarjoaa vähemmän suojaa. On käytettävä korjausten kanssa merkittävissä ongelmissa.
 content-blocking-baseline-exceptions =
     .label = Salli { -brand-short-name }in automaattisesti soveltaa poikkeuksia, joita tarvitaan verkkosivustojen merkittävien rikkoutumisten välttämiseksi.
 content-blocking-baseline-exceptions-2 =

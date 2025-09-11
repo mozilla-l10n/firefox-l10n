@@ -1279,6 +1279,13 @@ content-blocking-warning-title-2 = Ścisła ochrona przed śledzeniem może powo
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } zaleca korzystanie z ustawień „Naprawianie problemów ze stronami”, aby ograniczyć liczbę niedziałających funkcji i treści stron. Jeśli strona wydaje się niepoprawnie działać, spróbuj wyłączyć na niej ochronę przed śledzeniem, aby wczytać całą treść.
 content-blocking-and-isolating-etp-warning-description-2 = To ustawienie może spowodować niepoprawne działanie lub wyświetlanie niektórych stron. Jeśli dana strona wydaje się niewłaściwie działać, możesz wyłączyć dla niej ochronę przed śledzeniem, aby wczytać ją w całości.
 content-blocking-warning-learn-how = Więcej informacji
+content-blocking-baseline-exceptions-3 =
+    .label = Naprawianie poważnych problemów ze stronami (zalecane)
+    .description = Pomaga wczytywać strony i funkcje przez odblokowanie tylko niezbędnych rzeczy, które mogą zawierać elementy śledzące. Rozwiązuje najczęstsze problemy.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Naprawianie drobnych problemów ze stronami
+    .description = Przywraca między innymi filmy w artykułach czy sekcje komentarzy przez odblokowanie rzeczy, które mogą zawierać elementy śledzące. Może to ograniczyć problemy ze stronami, ale zmniejsza poziom ochrony. Wymaga włączenia opcji naprawiania poważnych problemów.
 content-blocking-baseline-exceptions =
     .label = { -brand-short-name } może automatycznie stosować wyjątki wymagane, aby uniknąć poważnych problemów z działaniem witryny.
 content-blocking-baseline-exceptions-2 =
