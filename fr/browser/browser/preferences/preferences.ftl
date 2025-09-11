@@ -1275,6 +1275,13 @@ content-blocking-warning-title-2 = Il se peut que certains sites ne fonctionnent
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recommande d’utiliser les paramètres « Résoudre les problèmes des sites » pour réduire le nombre de fonctionnalités et de contenus défectueux. Si un site semble cassé, essayez de désactiver la protection contre le pistage pour ce site afin de charger tout le contenu.
 content-blocking-and-isolating-etp-warning-description-2 = Ce paramètre peut empêcher certains sites web d’afficher du contenu ou de fonctionner correctement. Si un site semble cassé, vous pouvez désactiver la protection contre le pistage pour que ce site puisse charger tout le contenu.
 content-blocking-warning-learn-how = Me montrer comment faire
+content-blocking-baseline-exceptions-3 =
+    .label = Résoudre les problèmes majeurs des sites (recommandé)
+    .description = Aide à charger les sites et les fonctionnalités en débloquant uniquement les éléments essentiels pouvant contenir des traqueurs. Corrige les problèmes les plus courants.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Résoudre les problèmes mineurs des sites
+    .description = Restaure des éléments tels que des vidéos dans un article ou des sections de commentaires en débloquant des éléments qui peuvent contenir des traqueurs. Cela peut réduire les problèmes des sites, mais offre une moins bonne protection. Doit être utilisé avec les correctifs pour les problèmes majeurs.
 content-blocking-baseline-exceptions =
     .label = Autoriser { -brand-short-name } à appliquer automatiquement les exceptions nécessaires pour éviter tout dysfonctionnement majeur des sites web.
 content-blocking-baseline-exceptions-2 =
