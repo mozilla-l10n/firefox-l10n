@@ -93,10 +93,17 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = 특정 웹 사이트에 HTTPS 전용 모드를 끌 수 있습니다. { -brand-short-name }는 해당 사이트에 연결을 보안 HTTPS로 업그레이드를 시도하지 않습니다. 사생활 보호 창에는 예외가 적용되지 않습니다.
 permissions-exceptions-https-only-desc2 = 특정 웹 사이트에 HTTPS 전용 모드를 끌 수 있습니다. { -brand-short-name }는 해당 사이트에 연결을 보안 HTTPS로 업그레이드를 시도하지 않습니다.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = 허용된 웹 사이트 - 팝업 및 제3자 리디렉션
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = 팝업 창을 열고 제3자 프레임에 의해 리디렉션되도록 허용된 웹 사이트를 지정할 수 있습니다.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
-    .title = 웹 사이트 허용 - 팝업
+    .title = 허용된 웹 사이트 - 팝업
     .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = 팝업 창을 열 수 있는 웹 사이트를 지정할 수 있습니다. 허용하려는 사이트의 정확한 주소를 입력한 후 허용을 누르세요.
 
@@ -117,7 +124,7 @@ permissions-exceptions-saved-passwords-desc = { -brand-short-name }는 다음 �
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = 웹 사이트 허용 - 부가 기능 설치
+    .title = 허용된 웹 사이트 - 부가 기능 설치
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = 부가 기능을 설치 가능하도록 웹 사이트를 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 누르세요.
 
