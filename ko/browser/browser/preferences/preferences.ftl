@@ -1259,6 +1259,13 @@ content-blocking-warning-title-2 = 일부 사이트는 엄격한 추적 방지 �
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name }는 손상된 사이트 기능 및 콘텐츠를 줄이기 위해 "사이트 문제 해결" 설정을 사용할 것을 권장합니다. 사이트가 손상된 것 같으면 해당 사이트에 대한 추적 방지 기능을 해제하여 모든 콘텐츠를 로드해 보세요.
 content-blocking-and-isolating-etp-warning-description-2 = 이 설정으로 인해 일부 웹 사이트가 콘텐츠를 표시하지 않거나 제대로 작동하지 않을 수 있습니다. 사이트가 손상된 것 같으면 해당 사이트에 대한 추적 방지 기능을 해제하여 모든 콘텐츠를 로드할 수 있습니다.
 content-blocking-warning-learn-how = 방법 알아보기
+content-blocking-baseline-exceptions-3 =
+    .label = 주요 사이트 문제 해결 (권장)
+    .description = 추적기가 포함되어 있을 수 있는 필수 요소만 차단 해제하여 사이트와 기능을 로드하는 데 도움을 줍니다. 가장 일반적인 문제를 다룹니다.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = 사소한 사이트 문제 해결
+    .description = 추적기를 포함할 수 있는 요소를 차단 해제하여 글이나 댓글 섹션의 동영상과 같은 것을 복원합니다. 이렇게 하면 사이트 문제를 줄일 수 있지만 보호 수준은 낮습니다. 주요 문제에 대한 수정 사항과 함께 사용해야 합니다.
 content-blocking-baseline-exceptions =
     .label = { -brand-short-name }가 주요 웹 사이트 손상을 방지하는 데 필요한 예외를 자동으로 적용하도록 허용합니다.
 content-blocking-baseline-exceptions-2 =
