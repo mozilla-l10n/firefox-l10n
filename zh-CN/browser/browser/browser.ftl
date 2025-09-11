@@ -364,13 +364,13 @@ quickactions-addons = 查看附加组件
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = 扩展, 主题, 附加组件, extensions, themes, addons, add-ons
-quickactions-cmd-addons2 = 附加组件
+quickactions-cmd-addons2 = 附加组件, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = 管理书签
 quickactions-cmd-bookmarks = 书签, bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = 清除最近的历史记录
-quickactions-cmd-clearrecenthistory = 清除最近历史记录, 历史记录, 历史, clear recent history, history
+quickactions-cmd-clearrecenthistory = 清除最近的历史记录, 历史记录, 历史, clear recent history, history
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 清除历史
 quickactions-cmd-clearhistory = 清除历史, clear history
@@ -389,7 +389,7 @@ quickactions-firefoxview = 打开 { -firefoxview-brand-name }
 quickactions-cmd-firefoxview = 打开 { -firefoxview-brand-name }, { -firefoxview-brand-name }, 打开 view, view
 # Opens SUMO home page
 quickactions-help = { -brand-product-name } 帮助
-quickactions-cmd-help = 帮助, 支持
+quickactions-cmd-help = 帮助, 支持, help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 打开开发者工具
 quickactions-cmd-inspector2 = 检查器, 开发者工具, inspector, devtools, dev tools
@@ -399,7 +399,7 @@ quickactions-logins2 = 管理密码
 quickactions-cmd-logins = 登录信息, 密码, logins, passwords
 # Opens about:addons page in the plugins section
 quickactions-plugins = 管理插件
-quickactions-cmd-plugins = 插件
+quickactions-cmd-plugins = 插件, plugins
 # Opens the print dialog
 quickactions-print2 = 打印页面
 quickactions-cmd-print = 打印, print
@@ -423,21 +423,20 @@ quickactions-cmd-screenshot = 截图, screenshot
 quickactions-settings2 = 管理设置
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = 设置, 首选项, 偏好设置, 选项, 管理, settings, preferences, options, manage
-quickactions-cmd-settings = 设置, 偏好设置, 选项, settings, preferences, options
+quickactions-cmd-settings = 设置, 首选项, 偏好设置, 偏好, 选项, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = 管理主题
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = 主题, 附加组件, 附加组件, themes, add-ons, addons
-quickactions-cmd-themes = 主题
+quickactions-cmd-themes = 主题, themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
 quickactions-cmd-update = 更新, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = 查看页面源代码
 quickactions-cmd-viewsource2 = 查看源代码, 源代码, 页面源代码, 查看源码, 源码, 页面源码, view source, source, page source
-quickactions-cmd-viewsource = 查看源代码, 源代码, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = 详细了解“快捷操作”
