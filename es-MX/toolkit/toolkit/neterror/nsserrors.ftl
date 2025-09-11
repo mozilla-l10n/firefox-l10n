@@ -13,7 +13,7 @@ psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa 
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Recibiste un certificado no válido. Ponte en contacto con el administrador del servidor o envíales un correo con la siguiente información:
-
+    
     Su certificado contiene el mismo número de serie que otro certificado expedido por la autoridad certificadora. Obtengan un nuevo certificado que contenga un número de serie único.
 ssl-error-export-only-server = No es posible comunicar de forma segura. El otro extremo de la conexión no admite cifrado de grado alto.
 ssl-error-us-only-server = No es posible comunicar de forma segura. El otro extremo de la conexión requiere cifrado de grado alto que no está admitido.
