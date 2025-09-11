@@ -1278,6 +1278,10 @@ content-blocking-warning-learn-how = Meer info
 content-blocking-baseline-exceptions-3 =
     .label = Grote problemen met de website verhelpen (aanbevolen)
     .description = Helpt websites en functies te laden door alleen essentiële elementen die trackers kunnen bevatten te deblokkeren. Dekt de meest voorkomende problemen.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Kleine problemen met de website oplossen
+    .description = Herstelt zaken als video’s in een artikel of commentaarsecties door elementen die trackers kunnen bevatten te deblokkeren. Dit kan problemen met de website verminderen, maar biedt minder bescherming. Moet worden gebruikt met oplossingen voor grote problemen.
 content-blocking-baseline-exceptions =
     .label = { -brand-short-name } toestaan om automatisch uitzonderingen toe te passen die nodig zijn om grote defecten van de website te voorkomen.
 content-blocking-baseline-exceptions-2 =
