@@ -217,4 +217,4 @@ actions-callout-title = 完成常用操作、进行基础设置
 # "print" - quickactions-cmd-print
 # "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
-actions-callout-subtitle = 键入操作名即可快速进行操作，例如：“打印页面”/“print”、“清除历史”/“clear”。
+actions-callout-subtitle = 键入操作名即可快速进行操作。例如，打印页面：“打印”/“print”，清除历史：“清除”/“clear”。

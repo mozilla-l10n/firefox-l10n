@@ -422,7 +422,7 @@ quickactions-cmd-screenshot = 截图, screenshot
 # Opens about:preferences
 quickactions-settings2 = 管理设置
 # "manage" should match the corresponding command, which is “Manage settings” in English.
-quickactions-cmd-settings2 = 设置, 首选项, 偏好设置, 选项, 管理, settings, preferences, options, manage
+quickactions-cmd-settings2 = 设置, 首选项, 偏好设置, 偏好, 选项, 管理, settings, preferences, options, manage
 quickactions-cmd-settings = 设置, 首选项, 偏好设置, 偏好, 选项, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = 管理主题
@@ -437,6 +437,7 @@ quickactions-cmd-update = 更新, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = 查看页面源代码
 quickactions-cmd-viewsource2 = 查看源代码, 源代码, 页面源代码, 查看源码, 源码, 页面源码, view source, source, page source
+quickactions-cmd-viewsource = 查看源代码, 查看源码, 源代码, 源码, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = 详细了解“快捷操作”
