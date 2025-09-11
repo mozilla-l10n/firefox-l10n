@@ -476,3 +476,10 @@ dismiss-button-label = 닫기
 sync-to-mobile-button-label = 모바일에 동기화
 desktop-to-mobile-qr-code-alt =
     .aria-label = 모바일용 { -brand-product-name } 다운로드를 위한 QR 코드
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = 백업에서 복원
+restore-from-backup-title = { -brand-short-name }를 원하는 대로 되돌려 드립니다
+restore-from-backup-subtitle = 탐색을 재개하기 위해 모든 북마크, 방문 기록 및 기타 데이터를 복구하세요.
+restore-from-backup-secondary-button = 복원하지 않음
