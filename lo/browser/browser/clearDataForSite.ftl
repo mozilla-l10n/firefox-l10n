@@ -6,3 +6,5 @@ clear-data-for-site-cookies = ຄຸກກີ້ ແລະ ຂໍ້ມູນເ
 clear-data-for-site-cache = ໄຟລ໌ ແລະ ໜ້າທີ່ຖືກເກັບໄວ້
 cclear-data-for-site-permissions = ການອະນຸຍາດ ແລະ ການຕັ້ງຄ່າ
 clear-data-for-site-exceptions = ບຸກມາກ ແລະ ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້ຈະບໍ່ຖືກລຶບ
+clear-data-for-site-dialog-accept-button = ລົບລ້າງຂໍ້ມູນ
+clear-data-for-site-dialog-cancel-button = ຍົກເລີກ

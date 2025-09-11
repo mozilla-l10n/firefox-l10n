@@ -366,6 +366,7 @@ windows-10-eos-sync-toast-secondary-label = 稍后提醒
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } 不像其他科技巨头旗下浏览器那样是系统预装应用，这就是原因。
 windows-10-eos-challenger-sync-callout-subtitle = 备份 { -brand-product-name } 书签和密码后，新设备上也能轻松接续使用您选择的浏览器。
+windows-10-eos-challenger-pin-callout-subtitle = 将 { -brand-shorter-name } 固定到任务栏，以便随时访问。
 windows-10-eos-challenger-sync-primary-button = 备份 { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = 固定 { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } 可拦截加密货币挖矿程序、社交媒体跟踪器、数字指纹跟踪程序。

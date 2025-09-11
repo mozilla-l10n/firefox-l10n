@@ -25,3 +25,5 @@ confirmation-hint-screenshot-copied = ສຳເນົາຮູບໜ້າຈໍ
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed = ປິດ { $tabCount } ແທັບ
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = ຍ້າຍໄປເມນູແລ້ວ
