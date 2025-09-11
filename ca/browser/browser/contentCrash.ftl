@@ -31,6 +31,20 @@ pending-crash-reports-send =
     .label = Envia
 pending-crash-reports-always-send =
     .label = Envia'ls sempre
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Hi ha un informe de fallada pendent d’enviar relacionat amb errors que s’estan investigant. Si l’envieu, ens ajudarà a millorar el { -brand-product-name }. Si tanqueu aquesta notificació, l’informe s’ignorarà.
+       *[other] Hi ha { $reportCount } informes de fallada pendents d’enviar relacionats amb errors que s’estan investigant. Si els envieu, ens ajudaran a millorar el { -brand-product-name }. Si tanqueu aquesta notificació, els informes s’ignoraran.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Hi ha un informe de fallada pendent d'enviar que coincideix amb els errors que s'estan investigant. Si l'envieu, ens ajudarà a millorar el { -brand-product-name }. Si tanqueu aquesta notificació, l'informe s'ignorarà.
+       *[other] Hi ha { $reportCount } informes de fallada pendents d'enviar que coincideixen amb els errors que s'estan investigant. Si els envieu, ens ajudaran a millorar el { -brand-product-name }. Si tanqueu aquesta notificació, els informes s'ignoraran.
+    }
 requested-crash-reports-dont-show-again =
     .label = No tornis a mostrar-ho
     .accesskey = N

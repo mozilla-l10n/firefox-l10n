@@ -116,7 +116,7 @@ genai-onboarding-choose-header = Trieu el bot de conversa d’IA que voleu utili
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Trieu el bot de conversa d'IA que voleu utilitzar a la barra lateral del { -brand-short-name }. Seleccioneu un bot de conversa per veure'n els detalls. Podeu canviar-los en qualsevol moment. <a data-l10n-name="learn-more">Més informació</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-choose-description = Canvieu quan vulgueu. Per a obtenir ajuda per triar, <a data-l10n-name="learn-more">obteniu més informació sobre cada chatbot</a>.
+genai-onboarding-choose-description = Canvieu-lo quan vulgueu. Si us cal ajuda, <a data-l10n-name="learn-more">vegeu més informació sobre cada bot de conversa d'IA</a>.
 genai-onboarding-primary = Continua
 genai-onboarding-secondary = Tanca
 genai-onboarding-claude-tooltip =

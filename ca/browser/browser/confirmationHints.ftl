@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] S'ha tancat { $tabCount } pestanya
        *[other] S'han tancat { $tabCount } pestanyes
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = S'ha mogut al menú
