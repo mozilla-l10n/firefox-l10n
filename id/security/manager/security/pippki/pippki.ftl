@@ -85,6 +85,8 @@ client-auth-cert-details-stored-on = Disimpan di: { $storedOn }
 client-auth-cert-remember-label = Ingat pilihan ini:
 client-auth-cert-remember-never =
     .label = Sekali
+client-auth-cert-remember-always =
+    .label = Secara permanen
 client-auth-cert-remember-temporarily =
     .label = Untuk sesi ini
 
