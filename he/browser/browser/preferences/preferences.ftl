@@ -1274,6 +1274,13 @@ content-blocking-warning-title-2 = ייתכן שחלק מהאתרים לא יע�
 content-blocking-and-isolating-etp-warning-description-4 = ‏{ -brand-short-name } ממליץ להשתמש בהגדרות ״תיקון בעיות באתרים״ כדי להפחית תכונות ותוכן שבורים באתרים. אם נראה שאתר מסוים לא פועל כשורה, ניתן לנסות לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן.
 content-blocking-and-isolating-etp-warning-description-2 = הגדרה זו עלולה לגרום לאתרים מסוימים שלא להציג תוכן או שלא לעבוד כראוי. אם נראה שאתר מסוים שבור, באפשרותך לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן.
 content-blocking-warning-learn-how = מידע נוסף
+content-blocking-baseline-exceptions-3 =
+    .label = תיקון בעיות משמעותיות באתרים (מומלץ)
+    .description = מסייע בטעינת אתרים ותכונות על־ידי ביטול חסימה של אלמנטים חיוניים בלבד שעשויים להכיל רכיבי מעקב. זה מכסה את רוב הבעיות הנפוצות.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = תיקון בעיות קלות באתרים
+    .description = משחזר דברים כמו סרטונים במאמר או מקטעי תגובות על־ידי ביטול חסימה של אלמנטים שעשויים להכיל רכיבי מעקב. פעולה זו יכולה להפחית בעיות באתרים אך מציעה הגנה פחותה יותר. יש להשתמש בו עם תיקונים לבעיות משמעותיות.
 content-blocking-baseline-exceptions =
     .label = לאפשר ל־{ -brand-short-name } להחיל באופן אוטומטי חריגות הנדרשות כדי להימנע משבירה של אתרים.
 content-blocking-baseline-exceptions-2 =
