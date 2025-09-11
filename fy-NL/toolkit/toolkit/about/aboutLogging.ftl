@@ -101,4 +101,22 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> URL diele
 about-logging-upload-error = Der is in flater bard by it opladen fan it profyl: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Der is in flater bard by it bewarjen fan it opladen profyl: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Der is in flater bard by it bewarjen fan it bestân: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profyl { DATETIME($date, dateStyle: "koart", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Opladen profilen
+about-logging-no-uploaded-profiles = Der binne noch gjin profilen oplaad.
+about-logging-delete-uploaded-profile = Fuortsmite
+about-logging-view-uploaded-profile = Profyl besjen
+about-logging-delete-profile-confirm-title = Profyl fuortsmite

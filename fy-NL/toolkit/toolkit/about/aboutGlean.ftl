@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Hânmjittich teste
 about-glean-category-adhoc-testing = Ad-hocteste
 about-glean-category-profiler = De Profiler brûke
 about-glean-category-about-data = Oer gegevens
+about-glean-category-metrics-table = Tabel mei statistiken
 about-glean-upload-enabled = Gegevensoplaad is ynskeakele.
 about-glean-upload-disabled = Gegevensoplaad is útskeakele.
 about-glean-upload-enabled-local = Gegevensoplaad is allinnich ynskeakele foar ferstjoeren nei in lokale server.
@@ -141,6 +142,36 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Brûk foar it opnimmen fan in prestaasjeprofyl en it besjen fan alle opnommen statistiken de
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Alle statistiken
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategory
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Namme
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Type
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Wearde
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Aksjes
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filterje
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Dit filteret de ûndersteande tabel op basis fan kategory, namme, type en wearde (as de wearde in ienfâldich type is).
+about-glean-button-load-all = Alle wearden lade
+about-glean-button-load-value = Lade
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokuminten
+about-glean-button-watch = Folgje
+# Meaning "to stop watching"
+about-glean-button-unwatch = Net mear folgje
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Labele statistiken wurde noch net stipe yn de <code>about:glean</code>-werjefte.
+about-glean-unknown-metric-type-warning = Unbekend statistyktype.
 about-glean-about-data-explanation =
     Besjoch, om troch de list mei sammele gegevens te blêdzjen, de
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-biblioteek</a>.

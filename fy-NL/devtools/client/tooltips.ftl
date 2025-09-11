@@ -94,6 +94,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Probearje
 inactive-css-not-display-block-on-floated-fix = Probearje <strong>float</strong> fuort te smiten of <strong>display:block</strong> ta te foegjen. { learn-more }
 inactive-css-only-non-grid-or-flex-item-fix = Probearje de wearde fan <strong>display</strong> fan de kontener fan it elemint te wizigjen nei wat oars as <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> of <strong>inline-grid</strong>, of <strong>float</strong> fuort te smiten. { learn-more }
 inactive-css-not-block-fix = Probearje eigenskippen lykas <strong>display:block</strong> of <strong>float:left</strong> ta te foegjen. { learn-more }
+inactive-css-not-block-container-fix = Probearje <strong>display:block</strong>, <strong>display:inline-block</strong> of <strong>display:flow-root</strong> ta te foegjen. { learn-more }
 inactive-css-not-floated-fix = Probearje de eigenskip <strong>float</strong> ta te foegjen mei in oare wearde as <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Probearje de eigenskip <strong>position</strong> op wat oars as <strong>static</strong> yn te stellen. { learn-more }
 inactive-css-only-replaced-elements-fix = Soargje derfoar dat jo de eigenskip oan in ferfongen elemint tafoegje. { learn-more }

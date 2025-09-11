@@ -474,7 +474,10 @@ available-updates-heading = Beskikbere fernijingen
 recent-updates-heading = Resinte fernijingen
 release-notes-loading = Lade…
 release-notes-error = Sorry, mar der wie in flater mei it laden fan de útjefteopmerkingen.
+addon-permissions-heading = Tastimmingen
 addon-permissions-empty2 = Foar dizze útwreiding binne gjin tastimmingen fereaske.
+addon-permissions-required-label = Fereaske:
+addon-permissions-optional-label = Opsjoneel:
 addon-permissions-empty = Foar dizze útwreiding binne gjin tastimmingen fereaske
 addon-permissions-required = Fereaske tastimmingen foar kernfunksjonaliteit:
 addon-permissions-optional = Opsjonele tastimmingen foar ekstra funksjonaliteit:
@@ -570,6 +573,10 @@ permissions-data-addon-button = Tastimmingen en gegevens
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Brûkt troch de útwreiding { $extensionName }
+addon-permissions-data-collection-heading = Gegevenssamling
+addon-permissions-data-collection-empty = De ûntwikkeler seit dat dizze útwreiding gjin gegevenssamling fereasket.
+addon-data-collection-provided = Ynfo levere troch de ûntwikkeler fan de útwreiding
+addon-data-collection-learnmore = Mear ynfo oer gegevenssamling
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

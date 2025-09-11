@@ -112,6 +112,37 @@ profiles-terracotta-theme-2 = Stienread
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Moasgrien
 profiles-gray-theme = Griis
+profiles-gray-theme-title =
+    .title = Griis tema tapasse
+profiles-yellow-theme = Giel
+profiles-yellow-theme-title =
+    .title = Giel tema tapasse
+profiles-orange-theme = Oranje
+profiles-orange-theme-title =
+    .title = Oranje tema tapasse
+profiles-red-theme = Read
+profiles-red-theme-title =
+    .title = Read tema tapasse
+profiles-pink-theme = Rôs
+profiles-pink-theme-title =
+    .title = Rôze tema tapasse
+profiles-purple-theme = Pears
+profiles-purple-theme-title =
+    .title = Pears tema tapasse
+profiles-violet-theme = Lila
+profiles-violet-theme-title =
+    .title = Lila tema tapasse
+profiles-blue-theme = Blau
+profiles-blue-theme-title =
+    .title = Blau tema tapasse
+profiles-green-theme = Grien
+profiles-green-theme-title =
+    .title = Grien tema tapasse
+profiles-cyan-theme = Syaan
+profiles-cyan-theme-title =
+    .title = Syaan tema tapasse
+profiles-custom-theme-title =
+    .title = Oanpast tema tapasse
 
 ## Alternative text for default profile icons
 
@@ -184,6 +215,7 @@ bike-avatar-alt =
 
 book-avatar = Boek
 briefcase-avatar = Wurkmap
+clock-avatar = Klok
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -195,6 +227,8 @@ default-favicon-avatar = Standertfavicon
 diamond-avatar = Diamant
 flower-avatar = Blom
 folder-avatar = Map
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Wrâldbol
 hammer-avatar = Hammer
 heart-avatar = Hert
 heart-rate-avatar = Hertslach
@@ -207,10 +241,12 @@ message-avatar = Berjocht
 musical-note-avatar = Muzyknoat
 palette-avatar = Palet
 paw-print-avatar = Poatôfdruk
+picture-avatar = Ofbylding
 plane-avatar = Fleantúch
 # Present refers to a gift box, not the current time period
 present-avatar = Kado
 shopping-avatar = Winkelwein
+soccer-ball-avatar = Fuotbal
 soccer-avatar = Fuotbal
 sparkle-single-avatar = Glitter
 star-avatar = Stjer
@@ -228,6 +264,30 @@ bike-avatar = Fyts
 
 ## Tooltips for default avatar icons
 
+barbell-avatar-tooltip =
+    .tooltiptext = Barbell-avatar tapasse
+bike-avatar-tooltip =
+    .tooltiptext = Fytsavatar tapasse
+book-avatar-tooltip =
+    .tooltiptext = Boekavatar tapasse
+briefcase-avatar-tooltip =
+    .tooltiptext = Aktetas-avatar tapasse
+picture-avatar-tooltip =
+    .tooltiptext = Ofbyldingsavatar tapasse
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Hânwurkavatar tapasse
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Wrâldbolavatar tapasse
+diamond-avatar-tooltip =
+    .tooltiptext = Diamantavatar tapasse
+flower-avatar-tooltip =
+    .tooltiptext = Blomavatar tapasse
+folder-avatar-tooltip =
+    .tooltiptext = Mapavatar tapasse
+hammer-avatar-tooltip =
+    .tooltiptext = Hammeravatar tapasse
 makeup-avatar-tooltip =
     .tooltiptext = Make-upavatar tapasse
 # Message refers to a text message, not a traditional letter/envelope message
