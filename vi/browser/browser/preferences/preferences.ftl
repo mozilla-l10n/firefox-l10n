@@ -1259,6 +1259,13 @@ content-blocking-warning-title-2 = Một số trang web có thể bị phá vỡ
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } đề xuất sử dụng cài đặt "Khắc phục sự cố trang web" để giảm thiểu các tính năng và nội dung bị lỗi. Nếu một trang web có vẻ bị lỗi, hãy thử tắt trình chống theo dõi cho trang web đó để tải toàn bộ nội dung.
 content-blocking-and-isolating-etp-warning-description-2 = Cài đặt này có thể khiến một số trang web không hiển thị nội dung hoặc hoạt động không chính xác. Nếu trang web có vẻ bị hỏng, bạn có thể muốn tắt trình chống theo dõi để trang web đó tải tất cả nội dung.
 content-blocking-warning-learn-how = Tìm hiểu cách thức
+content-blocking-baseline-exceptions-3 =
+    .label = Sửa các sự cố lớn của trang web (đề xuất)
+    .description = Giúp tải trang web và tính năng bằng cách chỉ bỏ chặn các thành phần thiết yếu có thể chứa trình theo dõi. Xử lý hầu hết các sự cố thường gặp.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Sửa các sự cố nhỏ của trang web
+    .description = Khôi phục những nội dung như video trong bài viết hoặc phần bình luận bằng cách bỏ chặn các thành phần có thể chứa trình theo dõi. Điều này có thể giảm thiểu sự cố trang web nhưng lại kém bảo vệ hơn. Phải được sử dụng cùng với các bản sửa lỗi cho các sự cố nghiêm trọng.
 content-blocking-baseline-exceptions =
     .label = Cho phép { -brand-short-name } tự động áp dụng các ngoại lệ cần thiết để tránh gây ra lỗi nghiêm trọng cho trang web.
 content-blocking-baseline-exceptions-2 =
