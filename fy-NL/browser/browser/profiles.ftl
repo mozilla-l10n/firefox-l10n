@@ -95,6 +95,8 @@ profiles-light-theme = Ljocht
 profiles-dark-theme = Donker
 # The default system theme
 profiles-system-theme = Systeem
+profiles-system-theme-title =
+    .title = Systeemtema tapasse
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Goudsjeblomgiel
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -109,6 +111,7 @@ profiles-ocean-theme-2 = Oseaanblau
 profiles-terracotta-theme-2 = Stienread
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Moasgrien
+profiles-gray-theme = Griis
 
 ## Alternative text for default profile icons
 
@@ -222,3 +225,32 @@ custom-avatar-drag-handle =
     .aria-label = Grutte fan bysnijgebiet wizigje
 barbell-avatar = Halter
 bike-avatar = Fyts
+
+## Tooltips for default avatar icons
+
+makeup-avatar-tooltip =
+    .tooltiptext = Make-upavatar tapasse
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Berjochtavatar tapasse
+musical-note-avatar-tooltip =
+    .tooltiptext = Muzyknoatavatar tapasse
+palette-avatar-tooltip =
+    .tooltiptext = Paletavatar tapasse
+paw-print-avatar-tooltip =
+    .tooltiptext = Poatôfdrukavatar tapasse
+plane-avatar-tooltip =
+    .tooltiptext = Fleantúchavatar tapasse
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Kado-avatar tapasse
+shopping-avatar-tooltip =
+    .tooltiptext = Winkelweinavatar tapasse
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Fuotbalavatar tapasse
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Glitteravatar tapasse
+star-avatar-tooltip =
+    .tooltiptext = Stjeravatar tapasse
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Gamecontroller-avatar tapasse

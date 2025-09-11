@@ -34,6 +34,7 @@ inactive-css-not-display-block-on-floated = De wearde <strong>display</strong> i
 inactive-css-not-display-block-on-floated-2 = De wearde <strong>display</strong> is troch de engine yn <strong>{ $display }</strong> wizige, omdat it elemint <strong>floated</strong> is.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> hat gjin effekt, omdat it net brûkt wurde kin op grid- of flexitem.
 inactive-css-not-block = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat dit allinnich fan tapassing is op eleminten op bloknivo.
+inactive-css-not-block-container = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat dit allinnich fan tapassing is op eleminten op blokcontainer-eleminten.
 inactive-css-not-floated = <strong>{ $property }</strong> hat gjin effekt, omdat it allinnich fan tapassing is op swevende eleminten.
 inactive-css-property-is-impossible-to-override-in-visited = It is net mooglik om <strong>{ $property }</strong> te oerskriuwen fanwegen de beheining <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin posisjonearre elemint is.

@@ -1281,6 +1281,16 @@ content-blocking-baseline-exceptions-2 =
     .label = Helpt websites en funksjes te laden troch allinnich essinsjele eleminten dy’t trackers befetsje kinne te deblokkearjen. Dekt de meast foarkommende problemen.
 content-blocking-convenience-exceptions =
     .label = Ek automatysk útsûnderingen tapasse dy’t allinnich nedich binne om lytse problemen op te lossen en gemaksfunksjes beskikber te meitsjen.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Werstelt saken as fideo’s yn in artikel of kommentaarseksjes troch eleminten dy’t trackers befetsje kinne te deblokkearjen. Dit kin problemen mei de website ferminderje, mar biedt minder beskerming. Moat brûkt wurde mei oplossingen foar grutte problemen.
+content-blocking-baseline-label = Grutte problemen mei de website oplosse (oanrekommandearre)
+content-blocking-convenience-label = Lytse problemen mei de website oplosse
+content-blocking-exceptions-subheader = Problemen mei de website oplosse
+content-blocking-baseline-uncheck-warning-dialog-title = Binne jo wis dat jo oplossingen útskeakelje wolle?
+content-blocking-baseline-uncheck-warning-dialog-body = Dizze ynstelling helpt de meast foarkommende websiteproblemen op te lossen. As jo it útskeakelje, wurkje guon siden miskien net, en { -brand-short-name } sil net helpe kinne by it oplossen fan dizze problemen.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Oplossingen útskeakelje
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Oplossingen ynskeakele hâlde
 content-blocking-reload-description = Jo moatte jo ljepblêden fernije om dizze wizigingen ta te passen.
 content-blocking-reload-tabs-button =
     .label = Alle ljepblêden fernije
