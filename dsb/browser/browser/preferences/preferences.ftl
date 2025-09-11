@@ -1283,6 +1283,13 @@ content-blocking-warning-title-2 = Někotare sedła snaź ze striktnym pśeslěd
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } pórucujo, nastajenja „Sedłowe problemy rozwězaś“ wužywaś, aby wy wobškóźone sedłowe funkcije a wobškóźone sedłowe wopśimjeśe reducěrował. Jolic se zda, až sedło jo wobškóźone, wopytajśo pśeslědowański šćit za to sedło znjemóžniś, aby wšykno wopśimjeśe zacytał.
 content-blocking-and-isolating-etp-warning-description-2 = Toś to nastajenje móžo zwinowaś, až někotare websedła wopśimjeśe njepokazuju abo korektnje njefunkcioněruju. Jolic sedło zda se wobškóźone byś, móžośo slědowański šćit za to sedło znjemóžniś, aby cełe wopśimjeśe zacytał.
 content-blocking-warning-learn-how = Zgóńśo kak
+content-blocking-baseline-exceptions-3 =
+    .label = Wjelike sedłowe problemy rozwězaś (dopórucone)
+    .description = Wótpórajo blokěrowanje jano wažnych elementow, kótarež mógli pśeslědowaki wopśimowaś, aby pomagało, sedła a funkcije zacytaś. Funkcioněrujo za nejcesćejše problemy.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Snadne sedłowe problemy rozwězaś
+    .description = Wótnowja wěcy ako wideo w nastawku abo komentarowych wótrězkach, gaž se elementy wěcej njeblokěruju, kótarež mógli pśeslědowaki wopśimowaś. To móžo swdłowe problemy reducěrowaś, bitujo pak mjenjej šćita. Musy se z rozwězanjami za wjelike problemy wužywaś.
 content-blocking-baseline-exceptions =
     .label = Dowólśo { -brand-short-name } wuwześa awtomatiski nałožyś, kótarež su trjebne, aby se wjelikich problemow z websedłami wobinuli.
 content-blocking-baseline-exceptions-2 =
