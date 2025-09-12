@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Шумо метавонед реҷаи «Танҳо HTTPS»-ро барои сомонаҳои мушаххас хомӯш кунед. «{ -brand-short-name }» кӯшиш намекунад, ки барои ин сомонаҳои пайвастшавиро ба «HTTPS»-и бехатар такмил диҳад. Чунин истисноҳо ба равзанаҳои хусусӣ татбиқ намешаванд.
 permissions-exceptions-https-only-desc2 = Шумо метавонед реҷаи «Танҳо HTTPS»-ро барои сомонаҳои мушаххас хомӯш кунед. { -brand-short-name } кӯшиш намекунад, ки барои ин сомонаҳои пайвастшавиро ба HTTPS-и бехатар такмил диҳад.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Сомонаҳои иҷозатшуда - равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
