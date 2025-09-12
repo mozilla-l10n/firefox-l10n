@@ -672,3 +672,7 @@ desktop-to-mobile-qr-code-alt =
             [with-cases] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobilní zařízení
            *[no-cases] QR kód pro stažení aplikace { -brand-product-name } pro mobilní zařízení
         }
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Obnova ze zálohy

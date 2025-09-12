@@ -164,12 +164,21 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Použít vlastní motiv
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Zobrazit nastavení
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Zavřít
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Kniha
 briefcase-avatar-alt =
     .alt = Kufřík
+picture-avatar-alt =
+    .alt = Obrázek
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canvas
@@ -186,6 +195,8 @@ heart-avatar-alt =
     .alt = Srdce
 heart-rate-avatar-alt =
     .alt = Srdeční frekvence
+clock-avatar-alt =
+    .alt = Hodiny
 history-avatar-alt =
     .alt = Historie
 leaf-avatar-alt =
@@ -210,6 +221,8 @@ present-avatar-alt =
     .alt = Dárek
 shopping-avatar-alt =
     .alt = Nákupní košík
+soccer-ball-avatar-alt =
+    .alt = Fotbalový míč
 soccer-avatar-alt =
     .alt = Fotbal
 sparkle-single-avatar-alt =
@@ -220,6 +233,9 @@ video-game-controller-avatar-alt =
     .alt = Ovladač pro videohry
 custom-avatar-alt =
     .alt = Vlastní avatar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Zeměkoule
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Výchozí ikona stránky

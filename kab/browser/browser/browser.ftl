@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Tunigin tusligt
        *[other] { -brand-full-name } Tunigin tusligt
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Tunigin tusligt
 
 ##
 
@@ -415,6 +418,10 @@ quickactions-cmd-settings2 = iɣewwaren, ismenyafen, tixtiṛiyin, sefrek
 quickactions-cmd-settings = iɣewwaren, ismenyifen, tixtiṛiyin
 # Opens about:addons page in the themes section
 quickactions-themes = Sefrek isental
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = isental, izegrar
 quickactions-cmd-themes = Isental
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Leqqem { -brand-short-name }
