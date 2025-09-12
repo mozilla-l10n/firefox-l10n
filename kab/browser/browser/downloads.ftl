@@ -185,6 +185,9 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Ifuyla ad qqimen deg yibenk-ik
+downloads-private-browsing-message = S kra n win yesseqdacen ibenk-a yezmer ad iwali isadaren, xas akken tmedleḍ akk isfuyla usligin.
 downloads-private-browsing-delete-button =
     .label = Kkes ifuyla s wudem awurman
     .accesskey = K

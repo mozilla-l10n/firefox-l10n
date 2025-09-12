@@ -145,6 +145,7 @@ translations-settings-title =
     .style = min-width: 36em
 translations-settings-close-key =
     .key = w
+translations-settings-always-translate-langs-description = Tasuqilt ad d-tili s wudem awurman i tutlayin-a
 translations-settings-never-translate-langs-description = Ur d-tettwasumar ara tsuqilt i tutlayin-a
 translations-settings-never-translate-sites-description = Ur d-tettwasumar ara tsuqilt i yismal-a
 translations-settings-languages-column =

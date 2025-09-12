@@ -249,6 +249,13 @@ menu-profiles-manage-profiles =
     .label = Sefrek imaɣunen
 menu-profiles-new-profile =
     .label = Amaɣnu amaynut
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (amiran)
+menu-profiles-menu =
+    .label = Imeɣna
+    .accesskey = m
 
 ## Tools Menu
 
@@ -258,6 +265,9 @@ menu-tools =
 menu-tools-downloads =
     .label = Isadaren
     .accesskey = i
+menu-tools-extensions-and-themes =
+    .label = Isiɣzaf akked yisental
+    .accesskey = s
 menu-tools-addons-and-themes =
     .label = Izegrar d yisental
     .accesskey = I

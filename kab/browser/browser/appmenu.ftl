@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Ldi amaɣnay deg ugalis
+    .tooltiptext = Ldi amaɣnay deg ugalis
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,8 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Uzwirfren yettufeṣṣlen i usekyed n yibugen n umeslaw d tvidyut deg { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Allalen n teywalt
+profiler-popup-presets-ml-label =
+    .label = Almad n tmacint
 profiler-popup-presets-networking-description = Uzwirfren yettufeṣṣlen i usekyed n yibugen n uzeṭṭa deg { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Azeṭṭa
