@@ -486,7 +486,6 @@ restore-from-backup-secondary-top-button = Ripristina da backup
 restore-from-backup-title = Facciamo tornare { -brand-short-name } come piace a te
 restore-from-backup-subtitle = Ripristina segnalibri, cronologia e tutti gli altri dati per tornare a navigare
 restore-from-backup-secondary-button = Non ripristinare
-restore-from-backup-find-backup-guidance = <a data-l10n-name="find-backup"> Non riesci a trovare il backup? </a>
 
 ## Restored from Backup spotlight
 
