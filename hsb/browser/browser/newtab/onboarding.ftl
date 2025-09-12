@@ -477,3 +477,15 @@ dismiss-button-label = Zaćisnyć
 sync-to-mobile-button-label = Z mobilnym gratom synchronizować
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kod za sćehnjenje { -brand-product-name } za mobilny grat
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Ze zawěsćenja wobnowić
+restore-from-backup-secondary-button = Njewobnowić
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Składować a pokročować
+restored-from-backup-success-with-checklist-secondary-button = Tutón krok přeskočić
+restored-from-backup-success-no-checklist-primary-button = Dale
+restored-from-backup-error-primary-button = Začinić

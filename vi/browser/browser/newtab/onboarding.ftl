@@ -476,3 +476,22 @@ dismiss-button-label = Bỏ qua
 sync-to-mobile-button-label = Đồng bộ trên di động
 desktop-to-mobile-qr-code-alt =
     .aria-label = Mã QR để tải xuống { -brand-product-name } dành cho di động
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Khôi phục từ bản sao lưu
+restore-from-backup-title = Hãy để { -brand-short-name } trở lại theo cách bạn muốn
+restore-from-backup-subtitle = Khôi phục tất cả dấu trang, lịch sử và dữ liệu khác để tiếp tục duyệt web.
+restore-from-backup-secondary-button = Không khôi phục
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Chúng tôi đã trở lại! Dữ liệu { -brand-short-name } của bạn đã được khôi phục.
+restored-from-backup-success-with-checklist-subtitle = Bạn có muốn giữ trình duyệt yêu thích của mình tập trung vào quyền riêng tư chỉ bằng một cú nhấp chuột không?
+restored-from-backup-success-no-checklist-subtitle = Bạn có thể bật sao lưu cho thiết bị này trong <a data-l10n-name="settings">Cài đặt</a>.
+restored-from-backup-success-with-checklist-primary-button = Lưu và tiếp tục
+restored-from-backup-success-with-checklist-secondary-button = Bỏ qua bước này
+restored-from-backup-success-no-checklist-primary-button = Tiếp tục
+restored-from-backup-error-title = Hmm, có vẻ như tập tin sao lưu bạn đã có vấn đề.
+restored-from-backup-error-subtitle = Nếu bạn có tập tin sao lưu { -brand-short-name } khác, hãy thử khôi phục tập tin đó. <a data-l10n-name="restore-problems">Bạn vẫn gặp sự cố?</a>
+restored-from-backup-error-primary-button = Đóng

@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Přewjele rajtarkow? Čińće porjad ze skupi
 windows-10-eos-sync-tour-subtitle-1 = Ćehńće jedyn rajtark na druhi, zo byšće skupinu wutworił a dźeržće wšitko w porjadku.
 windows-10-eos-sync-tour-title-2 = Budźće za Windows 11 přihotowany.
 windows-10-eos-sync-tour-subtitle-2 = Synchronizujće swoje zapołožki, hesła a nastajenja, zo byšće je zawěsćił, prjedy hač přećahujeće.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Mjenje poručenjow pokazać
+windows-10-eos-sync-dismiss-button-label = Zaćisnyć
+windows-10-eos-sync-callout-primary-advance-button-label = Dale
 
 ## Sidebar Strings
 

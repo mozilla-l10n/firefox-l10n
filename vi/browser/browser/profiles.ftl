@@ -144,12 +144,23 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Áp dụng chủ đề màu tuỳ chỉnh
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Cài đặt thu thập dữ liệu đã thay đổi.</strong> Những thay đổi được thực hiện trong một hồ sơ khác sẽ áp dụng cho tất cả các hồ sơ trên thiết bị này.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Xem cài đặt
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Bỏ qua
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Sách
 briefcase-avatar-alt =
     .alt = Cặp tài liệu
+picture-avatar-alt =
+    .alt = Bức tranh
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canvas
@@ -166,6 +177,8 @@ heart-avatar-alt =
     .alt = Trái tim
 heart-rate-avatar-alt =
     .alt = Nhịp tim
+clock-avatar-alt =
+    .alt = Đồng hồ
 history-avatar-alt =
     .alt = Lịch sử
 leaf-avatar-alt =
@@ -190,6 +203,8 @@ present-avatar-alt =
     .alt = Hộp quà
 shopping-avatar-alt =
     .alt = Giỏ hàng
+soccer-ball-avatar-alt =
+    .alt = Bóng đá
 soccer-avatar-alt =
     .alt = Bóng đá
 sparkle-single-avatar-alt =
@@ -200,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = Bộ điều khiển trò chơi điện tử
 custom-avatar-alt =
     .alt = Tuỳ chỉnh ảnh đại diện
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Khối cầu
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Biểu tượng mặc định

@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Quá nhiều thẻ? Hãy sắp xếp lại b�
 windows-10-eos-sync-tour-subtitle-1 = Kéo thẻ lên trên thẻ khác để tạo nhóm và sắp xếp mọi thứ ngăn nắp.
 windows-10-eos-sync-tour-title-2 = Sắp xếp mọi thứ cho Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Đồng bộ hóa dấu trang, mật khẩu và cài đặt của bạn để sao lưu trước khi chuyển sang.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Hiển thị ít đề xuất hơn
+windows-10-eos-sync-dismiss-button-label = Bỏ qua
+windows-10-eos-sync-callout-primary-advance-button-label = Tiếp theo
 
 ## Sidebar Strings
 

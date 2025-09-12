@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Bạn có thể tắt Chế độ chỉ HTTPS cho các trang web cụ thể. { -brand-short-name } sẽ không cố gắng nâng cấp kết nối để bảo mật HTTPS cho các trang web đó. Các trường hợp ngoại lệ không áp dụng cho các cửa sổ riêng tư.
 permissions-exceptions-https-only-desc2 = Bạn có thể tắt Chế độ chỉ HTTPS cho các trang web cụ thể. { -brand-short-name } sẽ không nâng cấp kết nối để bảo mật HTTPS cho các trang web đó.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Các trang web được phép - Cửa sổ bật lên và chuyển hướng của bên thứ ba
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Bạn có thể chỉ định trang web nào được phép mở cửa sổ bật lên và được chuyển hướng bởi frame của bên thứ ba.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
