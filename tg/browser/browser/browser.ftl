@@ -1372,10 +1372,24 @@ popup-warning-message =
         [one] { -brand-short-name } ин сомонаро аз кушодани равзанаи зоҳиршаванда манъ кард.
        *[other] { -brand-short-name } ин сомонаро аз кушодани { $popupCount } равзанаи зоҳиршаванда манъ кард.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] Браузери «{ -brand-short-name }» ин сомонаро аз тағйири масир пешгирӣ кард.
+        [1] Браузери «{ -brand-short-name }» ин сомонаро аз кушодани равзанаи зоҳиршаванда ва тағйири масир пешгирӣ кард.
+       *[other] Браузери «{ -brand-short-name }» ин сомонаро аз кушодани { $popupCount } равзанаи зоҳиршаванда ва тағйири масир пешгирӣ кард.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } ин сомонаро аз кушодани зиёда аз { $popupCount } равзанаи зоҳиршаванда манъ кард.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+       *[other] Браузери «{ -brand-short-name }» ин сомонаро аз кушодани зиёда аз { $popupCount } равзанаи зоҳиршаванда ва тағйири масир пешгирӣ кард.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->

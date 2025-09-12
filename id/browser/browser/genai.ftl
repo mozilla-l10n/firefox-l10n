@@ -166,6 +166,9 @@ genai-chatbot-summarize-title = Baru! Ringkas laman dalam satu klik
 genai-chatbot-summarize-button = Ringkas laman
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Klik kanan pada chatbot AI Anda di bilah samping dan pilih “Ringkas Laman”.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Buka chatbot AI Anda di bilah samping dan pilih "Ringkas halaman" di bagian bawah.
+genai-chatbot-summarize-footer-generic-subtitle = Tambahkan chatbot AI ke bilah samping { -brand-short-name } untuk meringkas laman dengan cepat.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -196,3 +199,18 @@ genai-model-optin-optout =
     .label = Batal
 genai-model-optin-cancel =
     .label = Batal
+
+## Link previews
+
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time = { $range } mnt waktu membaca
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Kami tidak dapat mempratinjau tautan ini
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Kunjungi tautan
