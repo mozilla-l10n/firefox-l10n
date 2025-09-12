@@ -98,6 +98,7 @@ permissions-exceptions-https-only-desc2 = Móžóśo modus Jano-HTTPS za wěste 
 permissions-exceptions-popup-window3 =
     .title = Dowólone websedła – wuskokujuce wokna a dalejpósrědnjenja tśeśich póbitowarjow
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Móžośo póstajiś, kótare websedła směju wuskokujuce wokna wócyniś a se pśez wobłuki tśeśich póbitowarjow dalej pósrědniś.
 
 ## Exceptions - Pop-ups
 

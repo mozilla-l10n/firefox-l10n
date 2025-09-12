@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Priwatny modus
+popups-infobar-dont-show-message2 =
+    .label = Toś tu powěźeńku njepokazaś, gaž se wuskokujuce wokna abo dalejpósrědnjenja tśeśich póbitowarjow blokěruju
+    .accesskey = T
+edit-popup-settings2 =
+    .label = Nastajenja wuskokujucych woknow a tśeśich póbitowarjow zastojaś…
+    .accesskey = N
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Sćo toś tomu websedłoju źělenje swójeje wobrazowki zakazał.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Sćo trajny składowak za toś to websedło blokěrował.
+urlbar-popup-blocked2 =
+    .tooltiptext = Sćo blokěrował wuskokujuce wokna a dalejpósrědnjenja tśeśich póbitowarjow za toś to websedło.
 urlbar-popup-blocked =
     .tooltiptext = Sćo wuskokujuce wokna za toś to websedło blokěrował.
 urlbar-autoplay-media-blocked =
@@ -1187,6 +1195,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Wuskokujuce wokna za { $uriHost } blokěrowaś
     .accesskey = u
+popups-infobar-allow2 =
+    .label = Wuskokujuce wokna a dalejpósrědnjenja tśeśich póbitowarjow za { $uriHost } dowóliś
+    .accesskey = k
 
 ##
 
