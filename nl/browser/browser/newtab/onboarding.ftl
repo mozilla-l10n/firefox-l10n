@@ -488,6 +488,11 @@ restore-from-backup-secondary-button = Niet herstellen
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = We zijn terug! { -brand-short-name }-gegevens zijn hersteld.
+restored-from-backup-success-with-checklist-subtitle = Wilt u uw favoriete op privacy gerichte browser één klik verwijderd houden?
+restored-from-backup-success-no-checklist-subtitle = U kunt back-ups voor dit apparaat inschakelen in <a data-l10n-name="settings">Instellingen</a>.
+restored-from-backup-success-with-checklist-primary-button = Opslaan en doorgaan
 restored-from-backup-success-with-checklist-secondary-button = Deze stap overslaan
 restored-from-backup-success-no-checklist-primary-button = Doorgaan
+restored-from-backup-error-title = Hmm, er is een probleem met uw reservekopiebestand.
+restored-from-backup-error-subtitle = Als u een ander { -brand-short-name }-reservekopiebestand hebt, probeer dat dan terug te zetten. <a data-l10n-name="restore-problems">Ondervindt u nog steeds problemen?</a>
 restored-from-backup-error-primary-button = Sluiten

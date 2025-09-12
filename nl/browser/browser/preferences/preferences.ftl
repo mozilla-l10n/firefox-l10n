@@ -1271,6 +1271,7 @@ content-blocking-etp-standard-tcp-title = Bevat Totale cookiebescherming, onze k
 content-blocking-warning-title = Let op!
 content-blocking-and-isolating-etp-warning-description-3 = Deze instelling kan ervoor zorgen dat sommige websites inhoud niet weergeven of niet goed functioneren. We bieden optionele uitzonderingen voor websites waarvan we weten dat deze kunnen worden beïnvloed door uw configuratie. Sta deze trackeruitzonderingen toe om de kans op defecte websites te verkleinen. Als een website niet lijkt te werken, kunt u bescherming tegen volgen voor die website uitschakelen om alle inhoud te laden en het probleem te melden, zodat we het voor iedereen kunnen helpen oplossen.
 content-blocking-warning-title-2 = Sommige websites werken mogelijk niet goed met strikte bescherming tegen volgen
+content-blocking-warning-title-custom = Sommige websites werken mogelijk niet goed met aangepaste bescherming tegen volgen
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } raadt het gebruik van de instellingen voor ‘Problemen met website oplossen’ aan om defecte websitefuncties en -inhoud te verminderen. Als een website niet lijkt te werken, probeer dan bescherming tegen volgen voor die website uit te schakelen om alle inhoud te laden.
 content-blocking-and-isolating-etp-warning-description-2 = Deze instelling kan ervoor zorgen dat sommige websites inhoud niet tonen of niet correct werken. Als een website niet lijkt te werken, dan kunt u bescherming tegen volgen voor die website uitschakelen om alle inhoud te laden.
@@ -1389,6 +1390,9 @@ permissions-autoplay = Automatisch afspelen
 permissions-autoplay-settings =
     .label = Instellingen…
     .accesskey = I
+permissions-block-popups2 =
+    .label = Pop-ups en omleidingen van derden blokkeren
+    .accesskey = b
 permissions-block-popups =
     .label = Pop-upvensters blokkeren
     .accesskey = P

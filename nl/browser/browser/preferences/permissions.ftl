@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = U kunt de Alleen-HTTPS-modus voor specifieke websites uitschakelen. { -brand-short-name } zal voor die websites niet proberen de verbinding naar veilige HTTPS te upgraden. Uitzonderingen zijn niet van toepassing op privévensters.
 permissions-exceptions-https-only-desc2 = U kunt de Alleen-HTTPS-modus voor specifieke websites uitschakelen. { -brand-short-name } zal voor die websites niet proberen de verbinding naar veilige HTTPS te upgraden.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Toegestane websites - pop-ups en doorleidingen van derden
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = U kunt opgeven welke websites pop-upvensters mogen openen en door frames van derden mogen worden doorgestuurd.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
