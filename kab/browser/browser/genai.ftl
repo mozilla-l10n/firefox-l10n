@@ -28,10 +28,18 @@ genai-input-ask-provider =
     .placeholder = Ssuter { $provider }…
 genai-shortcuts-hide =
     .label = Ffer anegzum n chatbot
+genai-menu-choose-chatbot =
+    .label = Fren AI chatbot
+genai-menu-ask-generic-2 =
+    .label = Ssuter AI chatbot
+    .accesskey = z
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
     .label = Ssuter { $provider }
     .accesskey = h
+genai-menu-no-provider-2 =
+    .label = Ssuter AI chatbot
+    .accesskey = z
 
 ## Chatbot header
 
@@ -119,5 +127,7 @@ link-preview-visit-link = Rzu ɣer useɣwen
 link-preview-generation-error-unexpected = Yella wacu ur neddi ara akken ilaq.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Ɛreḍ tikkelt nniḍen
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Wali uagr akked AI?
 # Onboarding card Close button
 link-preview-onboarding-close = Mdel
