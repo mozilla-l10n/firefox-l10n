@@ -79,6 +79,7 @@ policy-ExtensionSettings = Wšě aspekty instalacije rozšěrjenjow rjadować.
 policy-ExtensionUpdate = Awtomatiske aktualizacije rozšěrjenjow zmóžnić abo znjemóžnić.
 policy-FirefoxHome2 = { -firefox-home-brand-name } konfigurować.
 policy-FirefoxSuggest = { -firefox-suggest-brand-name } konfigurować.
+policy-GenerativeAI = Konfigurujće generatiwne funkcije KI.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Wunuzujće direktnu nawigaciju do intranetneho sydła, město toho zo byšće pytał, hdyž jednotliwe słowne zapiski do adresoweho pola zapodawaće.
 policy-Handlers = Standardne nałoženske předźěłaki konfigurować
 policy-HardwareAcceleration = Jeli njewěrno, hardwarowe pospěšenje znjemóžnić.

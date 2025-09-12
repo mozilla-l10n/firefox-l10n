@@ -481,11 +481,18 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Ze zawěsćenja wobnowić
+restore-from-backup-title = Dóstańmy { -brand-short-name } wróćo, kaž so wam spodoba
+restore-from-backup-subtitle = Wobnowće wšě waše zapołožki, historiju a druhe daty, zo byšće so k přehladowanju wróćił.
 restore-from-backup-secondary-button = Njewobnowić
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Smy wróćo! Waše daty { -brand-short-name } su so wobnowili.
+restored-from-backup-success-with-checklist-subtitle = Chceće swój najlubši wobhladowak z fokusom na priwatnosć jenož jedyn klik preč wobchować?
+restored-from-backup-success-no-checklist-subtitle = Móžeće zawěsćenje za tutón grat w <a data-l10n-name="settings">nastajenjach</a> zmóžnić.
 restored-from-backup-success-with-checklist-primary-button = Składować a pokročować
 restored-from-backup-success-with-checklist-secondary-button = Tutón krok přeskočić
 restored-from-backup-success-no-checklist-primary-button = Dale
+restored-from-backup-error-title = Hmm, je problem z wašej zawěsćenskej dataju.
+restored-from-backup-error-subtitle = Jeli druhu zawěsćensku dataju { -brand-short-name } maće, spytajće z njeje wobnowić. <a data-l10n-name="restore-problems">Maće hišće problemy?</a>
 restored-from-backup-error-primary-button = Začinić

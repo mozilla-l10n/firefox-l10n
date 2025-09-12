@@ -35,6 +35,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Explica-ho
     .value = Explica els conceptes clau d'aquesta selecció amb paraules senzilles. Fes servir exemples.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Corregeix
+    .value = Revisa la selecció i cerca errors ortogràfics i gramaticals. Identifica qualsevol error i proporciona una versió corregida del text. Mantén el significat i la precisió factual i fes primer la llista de les correccions proposades i, seguidament, la versió final corregida del text.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -49,6 +53,9 @@ genai-menu-ask-provider =
     .label = Fes una pregunta a { $provider }
 genai-menu-open-generic =
     .label = Obre el bot de conversa d’IA
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Obre { $provider }
 genai-menu-remove-generic =
     .label = Elimina el bot de conversa d’IA
 # $provider (string) - name of the provider
@@ -87,6 +94,10 @@ genai-menu-choose-chatbot =
 genai-menu-ask-generic-2 =
     .label = Pregunta al bot de conversa d’IA
     .accesskey = P
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Fes una pregunta a { $provider }
+    .accesskey = { "" }
 genai-menu-no-provider-2 =
     .label = Pregunta a un bot de conversa d’IA
     .accesskey = P
@@ -113,6 +124,15 @@ genai-options-hide-shortcut =
     .label = Amaga la drecera en seleccionar text
 genai-options-about-chatbot =
     .label = Quant als bots de conversa d'IA en el { -brand-short-name }
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Com que la pàgina és llarga, aquest és un resum parcial.
+
+## Chatbot footer
+
+genai-page-button-summarize = Resumeix la pàgina
 
 ## Chatbot onboarding
 
@@ -143,6 +163,9 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Més informació sobre Le Chat
 genai-onboarding-select-header = Seleccioneu el text per a veure suggeriments
+genai-onboarding-select-description = Quan seleccioneu text, us suggerirem indicacions que podeu enviar al bot de conversa. També podeu escriure les  indicacions que vulgueu.
+genai-onboarding-select-primary = Comenceu a xatejar
+genai-chatbot-contextual-title = Utilitzeu un bot de conversa d'IA sense canviar de pestanya
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
