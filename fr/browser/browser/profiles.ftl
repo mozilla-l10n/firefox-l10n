@@ -144,6 +144,11 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Appliquer le thème personnalisé
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Voir les paramètres
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =

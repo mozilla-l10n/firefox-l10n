@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Privat nettlesing
+popups-infobar-dont-show-message2 =
+    .label = Ikke vis denne meldingen når sprettoppvinduer eller tredjepartsviderekoblinger er blokkert
+    .accesskey = k
+edit-popup-settings2 =
+    .label = Behandle innstillinger for sprettoppvinduer og tredjepartsviderekoblinger …
+    .accesskey = B
 
 ##
 
