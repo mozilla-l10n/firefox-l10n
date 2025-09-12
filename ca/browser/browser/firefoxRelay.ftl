@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = m
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protegiu la vostra adreça electrònica:
+firefox-relay-opt-in-title-2 = Obteniu una màscara d'adreça electrònica gratuïta
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Utilitza una màscara d'adreça electrònica del { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Utilitzeu una màscara d'adreça electrònica
+firefox-relay-opt-in-subtitle-2 = Protegiu la vostra safata d'entrada del correu brossa
 firefox-relay-use-mask-title = Utilitza una màscara d'adreça electrònica del { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Eviteu el correu brossa amb una màscara d'adreça electrònica gratuïta
@@ -45,24 +47,43 @@ firefox-relay-opt-in-confirmation-postpone =
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Inicia la sessió al { -brand-product-name } i utilitza la màscara
     .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Registra't
+    .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = No tornis a mostrar-ho
     .accesskey = D
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Ara no
+    .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Primer, registreu-vos o inicieu la sessió al vostre compte per a utilitzar una màscara d'adreça electrònica
+firefox-relay-offer-legal-notice-control = Si us registreu i creeu una màscara d'adreça electrònica, accepteu les <label data-l10n-name="tos-url"> Condicions del servei</label> i l'<label data-l10n-name="privacy-url"> Avís de privadesa </label>
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Eviteu el correu brossa amb una màscara d'adreça electrònica gratuïta
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Eviteu el correu brossa amagant la vostra adreça electrònica real amb una <label data-l10n-name="firefox-relay-learn-more-url">màscara d'adreça electrònica</label> gratuïta. Els correus electrònics d'<label data-l10n-name="firefox-fxa-and-relay-offer-domain">aquest lloc</label> continuaran arribant a la vostra safata d'entrada, però amb la vostra adreça electrònica amagada.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Primer, registreu-vos o inicieu la sessió al vostre compte per a utilitzar una màscara d'adreça electrònica
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registre
     .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Obteniu una màscara d'adreça electrònica gratuïta
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protegiu la vostra safata d'entrada del correu brossa utilitzant una <label data-l10n-name="firefox-relay-learn-more-url">màscara d'adreça electrònica</label> gratuïta per amagar la vostra adreça real. Els correus electrònics d'<label data-l10n-name="firefox-fxa-and-relay-offer-domain">aquest lloc</label> continuaran arribant a la vostra safata d'entrada, però amb la vostra adreça electrònica amagada.
+firefox-relay-and-fxa-popup-notification-first-sentence = Protegiu la vostra safata d'entrada del correu brossa utilitzant una <label data-l10n-name="firefox-relay-learn-more-url">màscara d'adreça electrònica { -relay-brand-name }</label> gratuïta per amagar la vostra adreça real. Els correus electrònics d'<label data-l10n-name="firefox-fxa-and-relay-offer-domain">aquest lloc</label> continuaran arribant a la vostra safata d'entrada, però amb la vostra adreça electrònica amagada.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primer, registreu-vos o inicieu la sessió al vostre compte per a utilitzar una màscara d'adreça electrònica gratuïta
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registre
     .accesskey = R
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Protegiu-vos del correu brossa amb una màscara d'adreça electrònica
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Següent
     .accesskey = S

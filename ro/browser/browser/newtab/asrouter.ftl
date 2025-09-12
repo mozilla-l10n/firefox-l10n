@@ -350,10 +350,10 @@ multi-cta-fox-doodle-main-browser-primary-button-label = Setează { -brand-short
 multi-cta-fox-doodle-quick-reminder-subtitle = Iată o scurtă reamintire că poți păstra browserul tău preferat care îți respectă viața privată la doar un clic distanță.
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->
-        [macos] Păstrează-ți browserul preferat care îți respectă intimitatea la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și păstrează-l în Dock.
-       *[other] Păstrează-ți browserul preferat care îți respectă intimitatea la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și fixează-l în bara de sarcini.
+        [macos] Păstrează-ți browserul preferat care îți respectă viața privată la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și păstrează-l în Dock.
+       *[other] Păstrează-ți browserul preferat care îți respectă viața privată la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și fixează-l în bara de sarcini.
     }
-multi-cta-fox-doodle-msix-privacy-focused-subtitle = Păstrează-ți browserul preferat care îți respectă intimitatea la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și fixează-l în bara de sarcini și meniul de start.
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Păstrează-ți browserul preferat care îți respectă viața privată la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și fixează-l în bara de sarcini și meniul de start.
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 

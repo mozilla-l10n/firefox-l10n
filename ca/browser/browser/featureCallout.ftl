@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Massa pestanyes? Endreceu-les amb els grups d
 windows-10-eos-sync-tour-subtitle-1 = Arrossegueu una pestanya a sobre d’una altra per crear un grup i tenir-ho tot organitzat.
 windows-10-eos-sync-tour-title-2 = Organitzeu-vos per al Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Sincronitzeu les adreces d'interès, les contrasenyes i la configuració per a fer-ne una còpia de seguretat abans de fer el canvi.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Mostra menys recomanacions
+windows-10-eos-sync-dismiss-button-label = Descarta
+windows-10-eos-sync-callout-primary-advance-button-label = Següent
 
 ## Sidebar Strings
 

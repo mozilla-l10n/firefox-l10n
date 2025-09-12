@@ -1372,10 +1372,26 @@ popup-warning-message =
         [one] El { -brand-short-name } ha impedit que aquest lloc obrís una finestra emergent.
        *[other] El { -brand-short-name } ha impedit que aquest lloc obrís { $popupCount } finestres emergents.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } ha evitat que aquest lloc redirigeixi.
+        [1] { -brand-short-name } ha evitat que aquest lloc obri una finestra emergent i redirigeixi.
+        [one] { -brand-short-name } ha evitat que aquest lloc obri una finestra emergent i redirigeixi.
+       *[other] { -brand-short-name } ha evitat que aquest lloc obri { $popupCount } finestres emergents i redirigeixi.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = El { -brand-short-name } ha impedit que aquest lloc obrís més de { $popupCount } finestres emergents.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ha evitat que aquest lloc obri més d'{ $popupCount } finestra emergent i redirigeixi.
+       *[other] { -brand-short-name } ha evitat que aquest lloc obri més de { $popupCount } finestres emergents i redirigeixi.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
