@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = 탭이 너무 많나요? 탭 그룹으로 깔
 windows-10-eos-sync-tour-subtitle-1 = 그룹을 만들고 정리하려면 한 탭을 다른 탭 위로 드래그하세요.
 windows-10-eos-sync-tour-title-2 = Windows 11에 맞게 정리하세요.
 windows-10-eos-sync-tour-subtitle-2 = 전환하기 전에 북마크, 비밀번호 및 설정을 동기화하여 백업하세요.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = 추천 적게 표시
+windows-10-eos-sync-dismiss-button-label = 닫기
+windows-10-eos-sync-callout-primary-advance-button-label = 다음
 
 ## Sidebar Strings
 
