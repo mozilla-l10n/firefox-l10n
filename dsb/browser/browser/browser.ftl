@@ -1391,6 +1391,17 @@ popup-warning-message =
         [few] { -brand-short-name } jo wócynjanjeju { $popupCount } wuskokujucych woknow pśez toś to sydło zajźował.
        *[other] { -brand-short-name } jo wócynjanjeju { $popupCount } wuskokujucych woknow pśez toś to sydło zajźował.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } jo zajźował, až toś to sedło dalej pósrědnja.
+        [1] { -brand-short-name } jo zajźował, až toś to sedło { $popupCount } wuskokujuce woknow wócynja a dalej pósrědnja.
+        [one] { -brand-short-name } jo zajźował, až toś to sedło { $popupCount } wuskokujuce wokno wócynja a dalej pósrědnja.
+        [two] { -brand-short-name } jo zajźował, až toś to sedło { $popupCount } wuskokujucej woknje wócynja a dalej pósrědnja.
+        [few] { -brand-short-name } jo zajźował, až toś to sedło { $popupCount } wuskokujuce wokna wócynja a dalej pósrědnja.
+       *[other] { -brand-short-name } jo zajźował, až toś to sedło { $popupCount } wuskokujucych woknow wócynja a dalej pósrědnja.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1400,6 +1411,15 @@ popup-warning-exceeded-message =
         [two] { -brand-short-name } jo zawoborał toś tomu sedłoju wócynjanje wušej { $popupCount } wuskokujuceju woknowu.
         [few] { -brand-short-name } jo zawoborał toś tomu sedłoju wócynjanje wušej { $popupCount } wuskokujucych woknow.
        *[other] { -brand-short-name } jo zawoborał toś tomu sedłoju wócynjanje wušej { $popupCount } wuskokujucych woknow.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } jo zajźował, až toś to sedło wěcej ako { $popupCount } wuskokujuce wokno wócynja a dalej pósrědnja.
+        [two] { -brand-short-name } jo zajźował, až toś to sedło wěcej ako { $popupCount } wuskokujucej woknje wócynja a dalej pósrědnja.
+        [few] { -brand-short-name } jo zajźował, až toś to sedło wěcej ako { $popupCount } wuskokujuce wokna wócynja a dalej pósrědnja.
+       *[other] { -brand-short-name } jo zajźował, až toś to sedło wěcej ako { $popupCount } wuskokujucych woknow wócynja a dalej pósrědnja.
     }
 popup-warning-button =
     .label =
