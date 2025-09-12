@@ -131,6 +131,9 @@ windows-10-eos-sync-tour-title-1 = Troppe schedas? Pone los in ordine con gruppo
 windows-10-eos-sync-tour-subtitle-1 = Trahe un scheda supra le summitate de un altere pro crear un gruppo e mantener le cosas organisate.
 windows-10-eos-sync-tour-title-2 = Sia organisate pro Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synchronisa tu marcapaginas, contrasignos, e parametros, pro los reservar ante que tu passa.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Monstrar minus recommendationes
+windows-10-eos-sync-callout-primary-advance-button-label = Sequente
 
 ## Sidebar Strings
 

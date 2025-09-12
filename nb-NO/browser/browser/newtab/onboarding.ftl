@@ -476,3 +476,19 @@ dismiss-button-label = Ignorer
 sync-to-mobile-button-label = Synkroniser til mobil
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kode for å laste ned { -brand-product-name } for mobil
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Gjenopprett fra sikkerhetskopi
+restore-from-backup-title = La oss få { -brand-short-name } tilbake slik du liker det
+restore-from-backup-subtitle = Gjenopprett alle bokmerkene, historikken og andre data for å komme tilbake til nettlesing.
+restore-from-backup-secondary-button = Ikke gjenopprett
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Vi er tilbake! Dine { -brand-short-name }-data er gjenopprettet.
+restored-from-backup-success-with-checklist-subtitle = Vil du ha din favoritt-nettleser med fokus på personvern bare ett klikk unna?
+restored-from-backup-success-no-checklist-subtitle = Du kan slå på sikkerhetskopiering for denne enheten i <a data-l10n-name="settings">innstillinger</a>.
+restored-from-backup-success-with-checklist-primary-button = Lagre og fortsett
+restored-from-backup-success-with-checklist-secondary-button = Hopp over dette trinnet
+restored-from-backup-success-no-checklist-primary-button = Fortsett

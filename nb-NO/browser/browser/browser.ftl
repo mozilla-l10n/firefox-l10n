@@ -272,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Du har blokkert dette nettstedet fra å dele din skjerm.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Du har blokkert vedvarende lagring for denne nettsiden.
+urlbar-popup-blocked2 =
+    .tooltiptext = Du har blokkert sprettoppvinduer og tredjepartsviderekoblinger for dette nettstedet.
 urlbar-popup-blocked =
     .tooltiptext = Du har blokkert sprettoppvinduer for dette nettstedet.
 urlbar-autoplay-media-blocked =
@@ -1176,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blokker sprettoppvinduer fra { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Tillat sprettoppvinduer og tredjepartsviderekoblinger for { $uriHost }
+    .accesskey = s
 
 ##
 
@@ -1367,10 +1372,24 @@ popup-warning-message =
         [one] { -brand-short-name } forhindret dette nettstedet fra å åpne et sprettoppvindu.
        *[other] { -brand-short-name } forhindret dette nettstedet fra å åpne { $popupCount } sprettoppvinduer.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } forhindret dette nettstedet fra å viderekoble.
+        [1] { -brand-short-name } forhindret dette nettstedet fra å åpne et sprettoppvindu og viderekoble.
+       *[other] { -brand-short-name } forhindret dette nettstedet fra å åpne { $popupCount } sprettoppvinduer og viderekoble.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } forhindret dette nettstedet fra å åpne mer enn { $popupCount } sprettopp-vinduer.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+       *[other] { -brand-short-name } forhindret dette nettstedet fra å åpne mer enn { $popupCount } sprettoppvinduer og viderekoble.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1386,6 +1405,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Åpne «{ $popupURI }»
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Vis «{ $redirectURI }»
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

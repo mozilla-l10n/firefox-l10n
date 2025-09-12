@@ -476,3 +476,14 @@ dismiss-button-label = Clauder
 sync-to-mobile-button-label = Synchronisar con apparato mobile
 desktop-to-mobile-qr-code-alt =
     .aria-label = Codice QR pro discargar { -brand-product-name } pro apparato mobile
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-button = Non restaurar
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Salvar e continuar
+restored-from-backup-success-with-checklist-secondary-button = Saltar iste passo
+restored-from-backup-success-no-checklist-primary-button = Continuar
+restored-from-backup-error-primary-button = Clauder

@@ -144,6 +144,11 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Applicar thema personalisate
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Vider le parametros
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
@@ -166,6 +171,8 @@ heart-avatar-alt =
     .alt = Corde
 heart-rate-avatar-alt =
     .alt = Frequentia cardiac
+clock-avatar-alt =
+    .alt = Horologio
 history-avatar-alt =
     .alt = Chronologia
 leaf-avatar-alt =
@@ -190,6 +197,8 @@ present-avatar-alt =
     .alt = Presente
 shopping-avatar-alt =
     .alt = Carretta de compras
+soccer-ball-avatar-alt =
+    .alt = Ballon de football
 soccer-avatar-alt =
     .alt = Ballon de football
 sparkle-single-avatar-alt =
@@ -200,6 +209,9 @@ video-game-controller-avatar-alt =
     .alt = Controlator de video-joco
 custom-avatar-alt =
     .alt = Avatar personalisate
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globo
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Icone predefinite
