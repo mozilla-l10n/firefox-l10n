@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Prea multe file? Fă ordine folosind grupuri 
 windows-10-eos-sync-tour-subtitle-1 = Trage o filă peste alta și creează un grup. Ține totul organizat.
 windows-10-eos-sync-tour-title-2 = Pregătește-te pentru Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Sincronizează-ți marcajele, parolele și setările ca să le ai când faci schimbarea.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Arată mai puține recomandări
+windows-10-eos-sync-dismiss-button-label = Respinge
+windows-10-eos-sync-callout-primary-advance-button-label = Înainte
 
 ## Sidebar Strings
 

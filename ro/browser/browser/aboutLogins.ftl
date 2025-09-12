@@ -115,6 +115,7 @@ about-logins-login-intro-heading-message = Salvează-ți parolele într-un loc s
 login-intro-description2 = Toate parolele pe care le salvezi în { -brand-product-name } sunt criptate. În plus, suntem atenți la încălcarea securității datelor și te alertăm dacă te afectează. <a data-l10n-name="breach-alert-link">Află mai multe</a>
 login-intro-instructions-fxa2 = Fă-ți un cont sau intră în contul tău de pe dispozitivul pe care sunt salvate datele de autentificare.
 login-intro-instructions-fxa-settings = Mergi la Setări > Sincronizare > Activează sincronizarea… Bifează caseta de selectare Date de autentificare și parole.
+login-intro-instructions-fxa-passwords-help = Intră pe<a data-l10n-name="passwords-help-link">asistență pentru parole</a> pentru mai mult ajutor.
 about-logins-intro-browser-only-import = Dacă ai date de autentificare salvate în alt browser, le poți<a data-l10n-name="import-link">importa în { -brand-product-name }</a>
 about-logins-intro-import2 = Dacă ai date de autentificare salvate în afara { -brand-product-name }, le poți <a data-l10n-name="import-browser-link">importa dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>
 about-logins-intro-import3 = Selectează butonul cu semnul plus de mai sus pentru a adăuga o parolă acum. Poți și <a data-l10n-name="import-browser-link">importa parole dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</ a>.
@@ -175,7 +176,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 about-logins-edit-login-os-auth-dialog-message-win = Pentru a edita datele de autentificare, introdu datele de autentificare Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvatelogin-intro-instructions-fxa-passwords-help = Vizitează <a data-l10n-name="passwords-help-link">asistența pentru parole</a> pentru mai mult ajutor.
+about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvate
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =

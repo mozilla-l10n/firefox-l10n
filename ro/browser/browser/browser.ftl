@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navigare privată
+popups-infobar-dont-show-message2 =
+    .label = Nu mai afișa mesajul când sunt blocate ferestrele pop-up și redirecționările către terți
+    .accesskey = D
+edit-popup-settings2 =
+    .label = Gestionează setările pentru ferestre pop-up și redirecționări către terți
+    .accesskey = M
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Ai blocat partajarea ecranului pe acest site web.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ai blocat stocarea persistentă a datelor pentru acest site web.
+urlbar-popup-blocked2 =
+    .tooltiptext = Ai blocat ferestrele pop-up și redirecționările către terți pentru acest site.
 urlbar-popup-blocked =
     .tooltiptext = Ai blocat ferestrele pop-up pe acest site.
 urlbar-autoplay-media-blocked =
@@ -1180,6 +1188,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blochează ferestrele pop-up pentru { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Permite ferestre pop-up și redirecționări către terți pentru { $uriHost }
+    .accesskey = p
 
 ##
 
@@ -1372,6 +1383,16 @@ popup-warning-message =
         [few] { -brand-short-name } a împiedicat acest site să deschidă { $popupCount } ferestre pop-up.
        *[other] { -brand-short-name } a împiedicat acest site să deschidă { $popupCount } de ferestre pop-up.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } a împiedicat acest site să redirecționeze.
+        [1] { -brand-short-name } a împiedicat acest site să deschidă o fereastră pop-up și să redirecționeze.
+        [one] { -brand-short-name } a împiedicat acest site să deschidă { $popupCount } fereastră pop-up și să redirecționeze.
+        [few] { -brand-short-name } a împiedicat acest site să deschidă { $popupCount } ferestre pop-up și să redirecționeze.
+       *[other] { -brand-short-name } a împiedicat acest site să deschidă { $popupCount } de ferestre pop-up și să redirecționeze.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1379,6 +1400,14 @@ popup-warning-exceeded-message =
     { $popupCount ->
         [few] { -brand-short-name } a împiedicat acest site să deschidă mai mult de { $popupCount } ferestre pop-up.
        *[other] { -brand-short-name } a împiedicat acest site să deschidă mai mult de { $popupCount } de ferestre pop-up.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } a împiedicat acest site să deschidă mai mult de { $popupCount } fereastră pop-up și să redirecționeze.
+        [few] { -brand-short-name } a împiedicat acest site să deschidă mai mult de { $popupCount } ferestre pop-up și să redirecționeze.
+       *[other] { -brand-short-name } a împiedicat acest site să deschidă mai mult de { $popupCount } de ferestre pop-up și să redirecționeze.
     }
 popup-warning-button =
     .label =
@@ -1395,6 +1424,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Afișează „{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Afișează „{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

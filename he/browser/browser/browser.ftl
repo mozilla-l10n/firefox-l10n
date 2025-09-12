@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = גלישה פרטית
+popups-infobar-dont-show-message2 =
+    .label = לא להציג הודעה זו כאשר חלונות קופצים או הפניות מצד שלישי נחסמים
+    .accesskey = ל
+edit-popup-settings2 =
+    .label = ניהול הגדרות חלונות קופצים והפניות צד שלישי…
+    .accesskey = נ
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = חסמת מפני האתר הזה את האפשרות לשתף את המסך שלך.
 urlbar-persistent-storage-blocked =
     .tooltiptext = חסמת את האתר הזה משמירת נתונים קבועים.
+urlbar-popup-blocked2 =
+    .tooltiptext = חסמת חלונות קופצים והפניות מצד שלישי עבור אתר זה.
 urlbar-popup-blocked =
     .tooltiptext = חסמת חלונות קופצים עבור אתר זה.
 urlbar-autoplay-media-blocked =
@@ -1173,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = לחסום חלונות קופצים עבור { $uriHost }
     .accesskey = ח
+popups-infobar-allow2 =
+    .label = לאפשר חלונות קופצים והפניות מצד שלישי עבור { $uriHost }
+    .accesskey = א
 
 ##
 
