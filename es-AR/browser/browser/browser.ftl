@@ -123,6 +123,9 @@ browser-main-private-suffix-for-content = Navegación privada
 popups-infobar-dont-show-message2 =
     .label = No mostrar este mensaje cuando se bloqueen ventanas emergentes o redirecciones de terceros
     .accesskey = d
+edit-popup-settings2 =
+    .label = Administrar la configuración de ventanas emergentes y redirecciones de terceros…
+    .accesskey = m
 
 ##
 
@@ -269,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Se ha bloqueado este sitio web para que no comparta la pantalla.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Se ha bloqueado el almacenamiento persistente para este sitio web.
+urlbar-popup-blocked2 =
+    .tooltiptext = Ha bloqueado ventanas emergentes y redirecciones de terceros para este sitio web.
 urlbar-popup-blocked =
     .tooltiptext = Se han bloqueado las ventanas emergentes para este sitio web.
 urlbar-autoplay-media-blocked =
@@ -1176,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloquear ventanas emergentes para { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Permitir ventanas emergentes y redirecciones de terceros para { $uriHost }
+    .accesskey = P
 
 ##
 
@@ -1384,6 +1392,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mostrar '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Mostrar “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

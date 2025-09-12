@@ -477,3 +477,20 @@ dismiss-button-label = Descartar
 sync-to-mobile-button-label = Sincronizar con móvil
 desktop-to-mobile-qr-code-alt =
     .aria-label = Código QR para descargar { -brand-product-name } para móviles
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Restaurar desde copia de seguridad
+restore-from-backup-subtitle = Recuperar todos los marcadores, historial y otros datos para volver a navegar.
+restore-from-backup-secondary-button = No restaurar
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = ¡Estamos de vuelta! Los datos de { -brand-short-name } han sido restaurados.
+restored-from-backup-success-no-checklist-subtitle = Se puede habilitar la copia de seguridad para este dispositivo en <a data-l10n-name="settings">Configuración</a>.
+restored-from-backup-success-with-checklist-primary-button = Guardar y continuar
+restored-from-backup-success-with-checklist-secondary-button = Saltear este paso
+restored-from-backup-success-no-checklist-primary-button = Continuar
+restored-from-backup-error-title = Hmm, hubo un problema con el archivo de respaldo.
+restored-from-backup-error-subtitle = Si tiene otro archivo de respaldo de { -brand-short-name }, intente restaurar desde ese. <a data-l10n-name="restore-problems">¿Sigue teniendo problemas?</a>
+restored-from-backup-error-primary-button = Cerrar

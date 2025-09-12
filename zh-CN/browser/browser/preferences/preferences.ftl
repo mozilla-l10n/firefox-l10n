@@ -1282,7 +1282,7 @@ content-blocking-convenience-exceptions =
     .label = 同时进行仅为修复轻微问题及恢复便利功能的例外处理。
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
 content-blocking-convenience-exceptions-2 =
-    .label = 取消屏蔽可能包含跟踪器的元素，以恢复文章内视频和评论区等内容。此操作可避免网站出现问题，但会降低保护效果。需配合修复严重问题功能使用。
+    .label = 取消屏蔽可能包含跟踪器的元素，以恢复文章内视频和评论区等内容。此操作可避免网站出现问题，但会减弱保护效果。需配合修复严重问题功能使用。
 content-blocking-baseline-label = 修复严重网站问题（推荐）
 content-blocking-convenience-label = 修复轻微网站问题
 content-blocking-exceptions-subheader = 修复网站问题

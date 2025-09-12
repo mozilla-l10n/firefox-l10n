@@ -144,12 +144,23 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Aplicar tema personalizado
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>La configuración de recopilación de datos cambió.</strong> Los cambios realizados en otro perfil se aplican a todos los perfiles en este dispositivo.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Ver configuración
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Descartar
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Maletín
+picture-avatar-alt =
+    .alt = Foto
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canvas
@@ -166,6 +177,8 @@ heart-avatar-alt =
     .alt = Corazón
 heart-rate-avatar-alt =
     .alt = Frecuencia cardíaca
+clock-avatar-alt =
+    .alt = Reloj
 history-avatar-alt =
     .alt = Historial
 leaf-avatar-alt =
@@ -190,6 +203,8 @@ present-avatar-alt =
     .alt = Regalo
 shopping-avatar-alt =
     .alt = Carrito de compras
+soccer-ball-avatar-alt =
+    .alt = Pelota de fútbol
 soccer-avatar-alt =
     .alt = Fútbol
 sparkle-single-avatar-alt =
@@ -200,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = Controlador de videojuegos
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globo terráqueo
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Favicon predeterminado
