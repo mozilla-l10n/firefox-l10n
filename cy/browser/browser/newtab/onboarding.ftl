@@ -481,15 +481,15 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Adfer o'r Copi Wrth Gefn
-restore-from-backup-title = Gadewch i ni gael { -brand-short-name } yn ôl sut rydych chi'n ei hoffi
-restore-from-backup-subtitle = Adfer eich holl nodau tudalen, hanes, a data arall i fynd yn ôl i bori.
+restore-from-backup-title = Gadewch i ni gael { -brand-short-name } yn ôl i sut rydych chi'n ei hoffi
+restore-from-backup-subtitle = Adferwch eich holl nodau tudalen, hanes, a data arall i fynd yn ôl i bori.
 restore-from-backup-secondary-button = Peidio ag adfer
 
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Rydyn ni'n ôl! Mae eich data { -brand-short-name } wedi'i adfer.
 restored-from-backup-success-with-checklist-subtitle = Eisiau cadw'ch hoff borwr sy'n canolbwyntio ar breifatrwydd un clic i ffwrdd?
-restored-from-backup-success-no-checklist-subtitle = Gallwch droi copi wrth gefn ar gyfer y ddyfais hon ymlaen yn <a data-l10n-name="settings">Gosodiadau</a>.
+restored-from-backup-success-no-checklist-subtitle = Gallwch droi ymlaen copïo wrth gefn ar gyfer y ddyfais hon yn <a data-l10n-name="settings">Gosodiadau</a>.
 restored-from-backup-success-with-checklist-primary-button = Cadw a pharhau
 restored-from-backup-success-with-checklist-secondary-button = Hepgor y cam hwn
 restored-from-backup-success-no-checklist-primary-button = Parhau

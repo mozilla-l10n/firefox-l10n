@@ -76,14 +76,14 @@ permissions-invalid-uri-label = נא להכניס שם מארח חוקי
 permissions-exceptions-etp-window2 =
     .title = חריגות עבור הגנת מעקב מתקדמת
     .style = { permissions-window2.style }
-permissions-exceptions-manage-etp-desc = באפשרותך לציין לאלו אתרים הגנת המעקב המתקדמת תהיה כבויה. יש להקליד את הכתובת המדויקת של האתר שברצונך לנהל ואז ללחוץ על הוספת חריגה.
+permissions-exceptions-manage-etp-desc = באפשרותך לציין לאילו אתרים הגנת המעקב המתקדמת תהיה כבויה. יש להקליד את הכתובת המדויקת של האתר שברצונך לנהל ולאחר מכן ללחוץ על ״הוספת חריגה״.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .title = חריגות - עוגיות ונתוני אתרים
     .style = { permissions-window2.style }
-permissions-exceptions-cookie-desc = באפשרותך לציין לאלו אתרים מותר או אסור תמיד להשתמש בעוגיות ונתוני אתרים.  יש להקליד את הכתובת המדויקת של האתר שברצונך לנהל ואז ללחוץ על ״לחסום״, ״לאפשר למשך ההפעלה״, או ״לאפשר״.
+permissions-exceptions-cookie-desc = באפשרותך לציין אילו אתרים תמיד מורשים או אסורים להשתמש בעוגיות ונתוני אתרים. יש להקליד את הכתובת המדויקת של האתר שברצונך לנהל ולאחר מכן ללחוץ על ״לחסום״, ״לאפשר למשך ההפעלה״, או ״לאפשר״.
 
 ## Exceptions - HTTPS-Only Mode
 
@@ -126,7 +126,7 @@ permissions-exceptions-saved-passwords-desc = { -brand-short-name } לא ישמ�
 permissions-exceptions-addons-window2 =
     .title = אתרים מורשים - התקנת תוספות
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = באפשרותך לציין אילו אתרים מורשים להתקין תוספות. יש להקליד את הכתובת המדויקת של האתר שברצונך להרשות וללחוץ על הרשה.
+permissions-exceptions-addons-desc = באפשרותך לציין אילו אתרים מורשים להתקין תוספות. יש להקליד את הכתובת המדויקת של האתר שברצונך לאפשר ולאחר מכן ללחוץ על ״לאפשר״.
 
 ## Site Permissions - Autoplay
 

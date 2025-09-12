@@ -272,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Rydych wedi rhwystro'r wefan rhag rhannu eich sgrin.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Rydych wedi rhwystro storio data parhaus ar gyfer y wefan hon.
+urlbar-popup-blocked2 =
+    .tooltiptext = Rydych wedi rhwystro llamlenni ac ailgyfeiriadau trydydd parti ar y wefan hon.
 urlbar-popup-blocked =
     .tooltiptext = Rydych wedi rhwystro llamlenni ar gyfer y wefan hon.
 urlbar-autoplay-media-blocked =
@@ -1208,7 +1210,7 @@ popups-infobar-block =
     .label = Rhwystro llamlenni ar gyfer { $uriHost }
     .accesskey = l
 popups-infobar-allow2 =
-    .label = Caniatáu llamlenni ac ailgyfeirio trydydd parti ar gyfer { $uriHost }
+    .label = Caniatáu llamlenni ac ailgyfeirio trydydd parti ar { $uriHost }
     .accesskey = C
 
 ##

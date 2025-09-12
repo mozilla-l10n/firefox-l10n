@@ -147,7 +147,7 @@ profiles-custom-theme-title =
 ## Data collection settings changed (multi-profile)
 
 # Full infobar message with inline bold title followed by body text
-multiprofile-data-collection-message = <strong>Mae gosodiadau casglu data wedi newid.</strong> Mae'r newidiadau a wnaed mewn proffil arall yn berthnasol i bob proffil ar y ddyfais hon.
+multiprofile-data-collection-message = <strong>Mae gosodiadau casglu data wedi newid.</strong> Mae'r newidiadau a wnaed mewn proffil arall yn cael ei osod i bob proffil ar y ddyfais hon.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Gweld y gosodiadau
 # Secondary button label to dismiss the infobar without action
