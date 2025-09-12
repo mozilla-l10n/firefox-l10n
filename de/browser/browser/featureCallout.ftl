@@ -131,6 +131,8 @@ windows-10-eos-sync-tour-title-1 = Zu viele Tabs? Mit Tab-Gruppen können Sie au
 windows-10-eos-sync-tour-subtitle-1 = Ziehen Sie einen Tab über den anderen, um eine Gruppe zu erstellen und Ordnung zu halten.
 windows-10-eos-sync-tour-title-2 = Bleiben Sie organisiert für Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synchronisieren Sie Lesezeichen, Passwörter und Einstellungen, um sie vor dem Wechseln zu sichern.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Weniger Empfehlungen anzeigen
 
 ## Sidebar Strings
 

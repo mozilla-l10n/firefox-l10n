@@ -144,12 +144,19 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Aangepast thema toepassen
 
+## Data collection settings changed (multi-profile)
+
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Sluiten
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Boek
 briefcase-avatar-alt =
     .alt = Werkmap
+picture-avatar-alt =
+    .alt = Afbeelding
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canvas
@@ -166,6 +173,8 @@ heart-avatar-alt =
     .alt = Hart
 heart-rate-avatar-alt =
     .alt = Hartslag
+clock-avatar-alt =
+    .alt = Klok
 history-avatar-alt =
     .alt = Geschiedenis
 leaf-avatar-alt =
@@ -190,6 +199,8 @@ present-avatar-alt =
     .alt = Kado
 shopping-avatar-alt =
     .alt = Winkelwagen
+soccer-ball-avatar-alt =
+    .alt = Voetbal
 soccer-avatar-alt =
     .alt = Voetbal
 sparkle-single-avatar-alt =
@@ -200,6 +211,9 @@ video-game-controller-avatar-alt =
     .alt = Videogamecontroller
 custom-avatar-alt =
     .alt = Aangepaste avatar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Wereldbol
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Standaardfavicon

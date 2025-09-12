@@ -144,12 +144,23 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Aplică o temă personalizată
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Setările privind colectarea datelor au fost modificate.</strong> Modificările efectuate într-un alt profil se aplică tuturor profilurilor de pe acest dispozitiv.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Vezi setările
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Respinge
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Carte
 briefcase-avatar-alt =
     .alt = Valiză
+picture-avatar-alt =
+    .alt = Imagine
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Pânză
@@ -166,6 +177,8 @@ heart-avatar-alt =
     .alt = Inimă
 heart-rate-avatar-alt =
     .alt = Frecvență cardiacă
+clock-avatar-alt =
+    .alt = Ceas
 history-avatar-alt =
     .alt = Istorie
 leaf-avatar-alt =
@@ -190,6 +203,8 @@ present-avatar-alt =
     .alt = Cadou
 shopping-avatar-alt =
     .alt = Coș de cumpărături
+soccer-ball-avatar-alt =
+    .alt = Minge de fotbal
 soccer-avatar-alt =
     .alt = Fotbal
 sparkle-single-avatar-alt =
@@ -200,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = Controler de jocuri video
 custom-avatar-alt =
     .alt = Avatar personalizat
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Glob
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Pictogramă favorită implicită

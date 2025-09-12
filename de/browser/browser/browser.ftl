@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Privater Modus
+popups-infobar-dont-show-message2 =
+    .label = Diese Nachricht nicht anzeigen, wenn Pop-ups oder Drittanbieter-Weiterleitungen blockiert sind
+    .accesskey = D
+edit-popup-settings2 =
+    .label = Weiterleitungseinstellungen für Pop-ups und Drittanbieter verwalten…
+    .accesskey = W
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Sie haben den Zugriff auf Ihren Bildschirm durch diese Website blockiert.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Sie haben die Verwendung von dauerhaftem Speicher für diese Website blockiert.
+urlbar-popup-blocked2 =
+    .tooltiptext = Sie haben Pop-ups und Drittanbieter-Weiterleitungen für diese Webseite blockiert.
 urlbar-popup-blocked =
     .tooltiptext = Sie haben das Anzeigen von Pop-ups für diese Website blockiert.
 urlbar-autoplay-media-blocked =
@@ -1169,6 +1177,9 @@ popups-infobar-allow =
     .accesskey = P
 popups-infobar-block =
     .label = Pop-ups von { $uriHost } blockieren
+    .accesskey = P
+popups-infobar-allow2 =
+    .label = Pop-ups und Drittanbieter-Weiterleitungen für { $uriHost } erlauben
     .accesskey = P
 
 ##

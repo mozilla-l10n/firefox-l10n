@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Te veel tabbladen? Ruim op met tabbladgroepen
 windows-10-eos-sync-tour-subtitle-1 = Sleep het ene tabblad op het andere om een groep aan te maken en dingen geordend te houden.
 windows-10-eos-sync-tour-title-2 = Ordenen voor Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synchroniseer uw bladwijzers, wachtwoorden en instellingen om er een reservekopie van te maken voordat u overschakelt.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Minder aanbevelingen tonen
+windows-10-eos-sync-dismiss-button-label = Sluiten
+windows-10-eos-sync-callout-primary-advance-button-label = Volgende
 
 ## Sidebar Strings
 

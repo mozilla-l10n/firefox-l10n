@@ -588,7 +588,7 @@ home-mode-choice-custom =
 home-mode-choice-blank =
     .label = Pagină goală
 home-homepage-custom-url =
-    .placeholder = Lipește un URL…
+    .placeholder = Inserează un URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -1275,6 +1275,7 @@ content-blocking-etp-standard-tcp-title = Include protecția totală a cookie-ur
 content-blocking-warning-title = Atenție!
 content-blocking-and-isolating-etp-warning-description-3 = Setarea poate face ca unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Oferim excepții opționale pentru site-urile web despre care știm că pot fi afectate de configurația ta. Pentru a reduce șansa apariției de site-uri web defecte, permite aceste excepții pentru elementele de urmărire. Dacă un site pare defect, poți dezactiva protecția împotriva urmăririi pentru site-ul respectiv ca să încarce tot conținutul și raportează problema ca să putem ajuta la remedierea ei pentru toți.
 content-blocking-warning-title-2 = Unele site-uri ar putea funcționa necorespunzător cu protecție strictă împotriva urmăririi
+content-blocking-warning-title-custom = Se poate ca unele site-uri să nu funcționeze cu protecția personalizată împotriva urmăririi
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recomandă folosirea setărilor „Rezolvă problemele site-urilor” pentru reducerea funcționalităților și conținutului nefuncțional de pe site-uri. Dacă un site pare nefuncțional, încearcă să dezactivezi protecția împotriva urmăririi pentru site-ul respectiv ca să se încarce tot conținutul.
 content-blocking-and-isolating-etp-warning-description-2 = Această setare poate poate determina unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Dacă un site pare să fie defect, ai posibilitatea de a dezactiva protecția de urmărire pentru acel site pentru a încărca tot conținutul.
@@ -1393,6 +1394,9 @@ permissions-autoplay = Redare automată
 permissions-autoplay-settings =
     .label = Setări…
     .accesskey = t
+permissions-block-popups2 =
+    .label = Blochează ferestrele pop-up și redirecționările părți terțe
+    .accesskey = B
 permissions-block-popups =
     .label = Blochează ferestrele pop-up
     .accesskey = B

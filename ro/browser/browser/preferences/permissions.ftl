@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Poți opri modul numai HTTPS pentru anumite site-uri web. { -brand-short-name } nu va încerca să actualizeze conexiunea la HTTPS securizat pentru aceste site-uri. Excepțiile nu se aplică ferestrelor private.
 permissions-exceptions-https-only-desc2 = Poți opri modul Numai HTTPS pentru anumite site-uri web. { -brand-short-name } nu va încerca să treacă conexiunea pe HTTPS securizat pentru site-urile respective.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Site-uri web admise - ferestre pop-up și redirecționări către părți terțe
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Poți specifica ce site-uri au voie să deschidă ferestre pop-up și să fie redirecționate prin cadre de la terți.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

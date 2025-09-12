@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Privénavigatie
+popups-infobar-dont-show-message2 =
+    .label = Dit bericht niet tonen wanneer pop-ups of omleidingen van derden worden geblokkeerd
+    .accesskey = n
+edit-popup-settings2 =
+    .label = Instellingen voor pop-ups en omleidingen van derden beheren…
+    .accesskey = b
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = U hebt het delen van uw scherm voor deze website geblokkeerd.
 urlbar-persistent-storage-blocked =
     .tooltiptext = U hebt permanente opslag voor deze website geblokkeerd.
+urlbar-popup-blocked2 =
+    .tooltiptext = U hebt pop-ups en omleidingen van derden voor deze website geblokkeerd.
 urlbar-popup-blocked =
     .tooltiptext = U hebt pop-ups voor deze website geblokkeerd.
 urlbar-autoplay-media-blocked =
@@ -1173,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Pop-ups van { $uriHost } blokkeren
     .accesskey = P
+popups-infobar-allow2 =
+    .label = Pop-ups en omleidingen van derden toestaan voor { $uriHost }
+    .accesskey = P
 
 ##
 
@@ -1364,10 +1375,26 @@ popup-warning-message =
         [one] { -brand-short-name } heeft voorkomen dat deze website een pop-upvenster opende.
        *[other] { -brand-short-name } heeft voorkomen dat deze website { $popupCount } pop-upvensters opende.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } heeft voorkomen dat deze website doorstuurde
+        [1] { -brand-short-name } heeft voorkomen dat deze website een pop-upvenster opende en doorstuurde.
+        [one] { -brand-short-name } heeft voorkomen dat deze website een pop-upvenster opende en doorstuurde.
+       *[other] { -brand-short-name } heeft voorkomen dat deze website { $popupCount } pop-upvensters opende en doorstuurde.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } heeft voorkomen dat deze website meer dan { $popupCount } pop-upvensters opende.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } heeft voorkomen dat deze website meer dan { $popupCount } pop-upvenster opende en doorstuurde.
+       *[other] { -brand-short-name } heeft voorkomen dat deze website meer dan { $popupCount } pop-upvensters opende en doorstuurde.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1383,6 +1410,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = “{ $popupURI }” tonen
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = ‘{ $redirectURI }’ tonen
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

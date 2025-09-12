@@ -477,3 +477,22 @@ dismiss-button-label = Respinge
 sync-to-mobile-button-label = Sincronizează pe mobil
 desktop-to-mobile-qr-code-alt =
     .aria-label = Cod QR pentru descărcarea { -brand-product-name } pentru mobil
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Restaurează din copia de rezervă
+restore-from-backup-title = Hai să facem { -brand-short-name } iar cum îți place
+restore-from-backup-subtitle = Recuperează-ți toate marcajele, istoricul și alte date ca să revii la navigare.
+restore-from-backup-secondary-button = Nu restaura
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Ne-am întors! Datele tale din { -brand-short-name } au fost restaurate.
+restored-from-backup-success-with-checklist-subtitle = Vrei să-ți ții browserul preferat, axat pe confidențialitate, la un singur clic distanță?
+restored-from-backup-success-no-checklist-subtitle = Poți activa copiile de rezervă pe acest dispozitiv în <a data-l10n-name="settings">Setări</a>.
+restored-from-backup-success-with-checklist-primary-button = Salvează și continuă
+restored-from-backup-success-with-checklist-secondary-button = Omite acest pas
+restored-from-backup-success-no-checklist-primary-button = Continuă
+restored-from-backup-error-title = Hmm, a apărut o problemă cu fișierul de copie de rezervă.
+restored-from-backup-error-subtitle = Dacă ai un alt fișier de rezervă { -brand-short-name }, încearcă să restaurezi din el. <a data-l10n-name="restore-problems">Încă ai probleme?</a>
+restored-from-backup-error-primary-button = Închide

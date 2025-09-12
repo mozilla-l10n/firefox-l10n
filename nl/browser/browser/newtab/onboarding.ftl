@@ -477,3 +477,13 @@ dismiss-button-label = Sluiten
 sync-to-mobile-button-label = Synchroniseren met mobiel
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-code om { -brand-product-name } voor mobiel te downloaden
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Herstellen vanuit reservekopie
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-secondary-button = Deze stap overslaan
+restored-from-backup-success-no-checklist-primary-button = Doorgaan
+restored-from-backup-error-primary-button = Sluiten
