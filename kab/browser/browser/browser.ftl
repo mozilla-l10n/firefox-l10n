@@ -253,6 +253,8 @@ urlbar-screen-blocked =
     .tooltiptext = Tesweḥleḍ asmelweb-a seg beṭṭu n ugdil-inek.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Tesweḥleḍ asekles n yisefka i usmelweb-a.
+urlbar-popup-blocked2 =
+    .tooltiptext = Tesweḥleḍ isfuyla udhimen d wis kraḍ yettuwellhen seg usmel-a wab.
 urlbar-popup-blocked =
     .tooltiptext = Tesweḥleḍ asfaylu udhim i usmel-agi.
 urlbar-autoplay-media-blocked =
@@ -366,6 +368,7 @@ quickactions-downloads2 = Sken isadaren
 quickactions-cmd-downloads = isadaren
 # Opens about:addons page in the extensions section
 quickactions-extensions = Sefrek isiɣzaf
+quickactions-cmd-extensions2 = isiɣzaf, izegrar
 quickactions-cmd-extensions = Isiɣzaf
 # Opens Firefox View
 quickactions-firefoxview = Mdel { -firefoxview-brand-name }
