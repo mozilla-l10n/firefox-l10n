@@ -482,3 +482,16 @@ desktop-to-mobile-qr-code-alt =
 restore-from-backup-secondary-top-button = Восстановить из резервной копии
 restore-from-backup-title = Давайте снова сделаем { -brand-short-name } таким, как вам нравится
 restore-from-backup-subtitle = Восстановите все ваши закладки, историю и другие данные, чтобы вернуться к веб-сёрфингу.
+restore-from-backup-secondary-button = Не восстанавливать
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Мы вернулись! Ваши данные { -brand-short-name } были восстановлены.
+restored-from-backup-success-with-checklist-subtitle = Хотите, чтобы ваш любимый, ориентированный на приватность браузер был под рукой?
+restored-from-backup-success-no-checklist-subtitle = Вы можете включить резервное копирование для этого устройства в <a data-l10n-name="settings">настройках</a>.
+restored-from-backup-success-with-checklist-primary-button = Сохранить и продолжить
+restored-from-backup-success-with-checklist-secondary-button = Пропустить этот шаг
+restored-from-backup-success-no-checklist-primary-button = Продолжить
+restored-from-backup-error-title = Хм, с вашим файлом резервной копии возникла проблема.
+restored-from-backup-error-subtitle = Если у вас есть другой файл резервной копии { -brand-short-name }, попробуйте восстановить из него. <a data-l10n-name="restore-problems">Все ещё есть проблемы?</a>
+restored-from-backup-error-primary-button = Закрыть
