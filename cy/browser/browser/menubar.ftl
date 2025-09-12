@@ -257,6 +257,9 @@ menu-profiles-new-profile =
 #  $profileName (String): the name of the users profile
 menu-profiles-current =
     .label = { $profileName } (cyfredol)
+menu-profiles-menu =
+    .label = Proffiliau
+    .accesskey = P
 
 ## Tools Menu
 

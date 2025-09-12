@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = באפשרותך לכבות את מצב HTTPS בלבד עבור אתרים מסוימים. { -brand-short-name } לא ינסה לשדרג את החיבור ל־HTTPS מאובטח עבור אתרים אלו. החריגות אינן חלות בחלונות פרטיים.
 permissions-exceptions-https-only-desc2 = באפשרותך לכבות את מצב HTTPS בלבד עבור אתרים מסוימים. { -brand-short-name } לא ינסה לשדרג את החיבור ל־HTTPS מאובטח עבור אתרים אלו.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = אתרים מותרים - חלונות קופצים והפניות מצד שלישי
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

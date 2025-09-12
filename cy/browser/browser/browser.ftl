@@ -269,6 +269,8 @@ urlbar-screen-blocked =
     .tooltiptext = Rydych wedi rhwystro'r wefan rhag rhannu eich sgrin.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Rydych wedi rhwystro storio data parhaus ar gyfer y wefan hon.
+urlbar-popup-blocked2 =
+    .tooltiptext = Rydych wedi rhwystro llamlenni ac ailgyfeiriadau trydydd parti ar gyfer y wefan hon.
 urlbar-popup-blocked =
     .tooltiptext = Rydych wedi rhwystro llamlenni ar gyfer y wefan hon.
 urlbar-autoplay-media-blocked =
@@ -1204,6 +1206,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Rhwystro llamlenni ar gyfer { $uriHost }
     .accesskey = l
+popups-infobar-allow2 =
+    .label = Caniatáu llamlenni ac ailgyfeirio trydydd parti ar gyfer { $uriHost }
+    .accesskey = C
 
 ##
 
@@ -1399,6 +1404,19 @@ popup-warning-message =
         [many] Rhwystrodd { -brand-short-name } y wefan rhag agor { $popupCount } llamlen.
        *[other] Rhwystrodd { -brand-short-name } y wefan rhag agor { $popupCount } llamlen.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] Rhwystrodd { -brand-short-name } y wefan hon rhag agor { $popupCount } llamlenni ac ailgyfeirio.
+        [1] Rhwystrodd { -brand-short-name } y wefan hon rhag agor { $popupCount } llamlen ac ailgyfeirio.
+        [zero] Rhwystrodd { -brand-short-name } y wefan hon rhag agor { $popupCount } llamlenni ac ailgyfeirio.
+        [one] Rhwystrodd { -brand-short-name } y wefan hon rhag agor { $popupCount } llamlen ac ailgyfeirio.
+        [two] Rhwystrodd { -brand-short-name } y wefan hon rhag agor { $popupCount } lamlen ac ailgyfeirio.
+        [few] Rhwystrodd { -brand-short-name } y wefan hon rhag agor { $popupCount } llamlen ac ailgyfeirio.
+        [many] Rhwystrodd { -brand-short-name } y wefan hon rhag agor { $popupCount } llamlen ac ailgyfeirio.
+       *[other] Rhwystrodd { -brand-short-name } y wefan hon rhag agor { $popupCount } llamlen ac ailgyfeirio.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1410,6 +1428,17 @@ popup-warning-exceeded-message =
         [few] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen.
         [many] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen.
        *[other] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [zero] Rhwystrodd { -brand-short-name } y wefan hon rhag agor { $popupCount } llamlenni ac ailgyfeirio.
+        [one] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen ac ailgyfeirio.
+        [two] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } lamlen ac ailgyfeirio.
+        [few] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen ac ailgyfeirio.
+        [many] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen ac ailgyfeirio.
+       *[other] Rhwystrodd { -brand-short-name } y wefan hon rhag agor mwy na { $popupCount } llamlen ac ailgyfeirio.
     }
 popup-warning-button =
     .label =
@@ -1426,6 +1455,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Dangos '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Dangos “ { $redirectURI } ”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

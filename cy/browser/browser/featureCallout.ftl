@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Gormod o dabiau? Tacluswch gyda grwpiau tab.
 windows-10-eos-sync-tour-subtitle-1 = Llusgwch un tab ar ben y llall i greu grŵp a chadw pethau'n drefnus.
 windows-10-eos-sync-tour-title-2 = Byddwch yn drefnus ar gyfer Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Cydweddwch eich nodau tudalen, cyfrineiriau a gosodiadau i wneud copïau wrth gefn ohonyn nhw cyn i chi newid.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Dangos llai o argymhellion
+windows-10-eos-sync-dismiss-button-label = Cau
+windows-10-eos-sync-callout-primary-advance-button-label = Nesaf
 
 ## Sidebar Strings
 
