@@ -1375,10 +1375,21 @@ popup-warning-message =
         [one] { -brand-short-name } a empêché ce site d’ouvrir une fenêtre popup.
        *[other] { -brand-short-name } a empêché ce site d’ouvrir { $popupCount } fenêtres popup.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } a empêché ce site d’effectuer une redirection.
+        [1] { -brand-short-name } a empêché ce site d’ouvrir une fenêtre popup et d’effectuer une redirection.
+       *[other] { -brand-short-name } a empêché ce site d’ouvrir { $popupCount } fenêtres popup et d’effectuer une redirection.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } a empêché ce site d’ouvrir plus de { $popupCount } fenêtres popup.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message = { -brand-short-name } a empêché ce site d’ouvrir plus de { $popupCount } fenêtres popup et d’effectuer une redirection.
 popup-warning-button =
     .label =
         { PLATFORM() ->
