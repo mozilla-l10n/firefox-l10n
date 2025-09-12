@@ -297,3 +297,16 @@ custom-avatar-drag-handle =
     .aria-label = Změnit velikost oblasti oříznutí
 barbell-avatar = Činka
 bike-avatar = Kolo
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Použít avatar činky
+bike-avatar-tooltip =
+    .tooltiptext = Použít avatar kola
+book-avatar-tooltip =
+    .tooltiptext = Použít avatar knihy
+briefcase-avatar-tooltip =
+    .tooltiptext = Použít avatar aktovky
+picture-avatar-tooltip =
+    .tooltiptext = Použít obrázkový avatar
