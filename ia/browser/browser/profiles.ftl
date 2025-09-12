@@ -146,8 +146,12 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Parametros de collecta de datos cambiate.</strong> Le cambios facite in un altere profilo se applica a tote le profilos sur iste apparato.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Vider le parametros
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Clauder
 
 ## Alternative text for default profile icons
 
@@ -155,6 +159,8 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Valise
+picture-avatar-alt =
+    .alt = Imagine
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canevas

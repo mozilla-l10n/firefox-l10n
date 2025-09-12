@@ -133,6 +133,7 @@ windows-10-eos-sync-tour-title-2 = Sia organisate pro Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synchronisa tu marcapaginas, contrasignos, e parametros, pro los reservar ante que tu passa.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Monstrar minus recommendationes
+windows-10-eos-sync-dismiss-button-label = Clauder
 windows-10-eos-sync-callout-primary-advance-button-label = Sequente
 
 ## Sidebar Strings

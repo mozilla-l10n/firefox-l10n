@@ -479,11 +479,19 @@ desktop-to-mobile-qr-code-alt =
 
 ## Restore from Backup Flow about:welcome screens
 
+restore-from-backup-secondary-top-button = Restaurar ab le copia de salveguarda
+restore-from-backup-title = Que nos reobtene { -brand-short-name } como illo te place
+restore-from-backup-subtitle = Recupera tote tu marcapaginas, chronologia, e altere datos pro retornar a navigar.
 restore-from-backup-secondary-button = Non restaurar
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Nos es retro! Le datos de tu { -brand-short-name } ha essite restaurate.
+restored-from-backup-success-with-checklist-subtitle = Vole tu tener tu navigator preferite e attente al confidentialitate a portata de clic?
+restored-from-backup-success-no-checklist-subtitle = Tu pote activar le preservation de salveguarda pro iste apparato in <a data-l10n-name="settings">Parametros</a>.
 restored-from-backup-success-with-checklist-primary-button = Salvar e continuar
 restored-from-backup-success-with-checklist-secondary-button = Saltar iste passo
 restored-from-backup-success-no-checklist-primary-button = Continuar
+restored-from-backup-error-title = Hmm, il habeva un problema con tu file de salveguarda.
+restored-from-backup-error-subtitle = Si tu ha un altere file de salveguarda de { -brand-short-name }, tenta restaurar ab illo. <a data-l10n-name="restore-problems">Ancora ha tu problemas?</a>
 restored-from-backup-error-primary-button = Clauder

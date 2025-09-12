@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navigation private
+popups-infobar-dont-show-message2 =
+    .label = Non monstrar iste message quando le quadros resaltante o le re-directiones de tertie-partes es blocate
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Gerer le configurationes de quadros resaltante e re-directiones de tertie-partes…
+    .accesskey = G
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Tu ha blocate iste sito web de compartir tu schermo.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Tu ha blocate le immagazinage persistente pro iste sito web.
+urlbar-popup-blocked2 =
+    .tooltiptext = Tu ha blocate quadros resaltante e re-directiones de tertie-partes pro iste sito web.
 urlbar-popup-blocked =
     .tooltiptext = Tu ha blocate le fenestras emergente pro iste sito web.
 urlbar-autoplay-media-blocked =
@@ -1170,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blocar le quadros emergente de { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Permitter quadros resaltante e re-directiones de tertie-partes pro { $uriHost }
+    .accesskey = P
 
 ##
 
@@ -1361,10 +1372,26 @@ popup-warning-message =
         [one] { -brand-short-name } ha impedite a iste sito de aperir un fenestra emergente.
        *[other] { -brand-short-name } ha impedite a iste sito de aperir { $popupCount } fenestras emergente.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } impediva a iste sito de rediriger.
+        [1] { -brand-short-name } impediva a iste sito de aperir un fenestra resaltante e rediriger.
+        [one] { -brand-short-name } impediva a iste sito de aperir { $popupCount } fenestra resaltante e rediriger.
+       *[other] { -brand-short-name } impediva a iste sito de aperir { $popupCount } fenestras resaltante e rediriger.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } impediva a iste sito de aperir plus de { $popupCount } fenestras emergente.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } impediva a iste sito de aperir plus que { $popupCount } fenestra resaltante e rediriger.
+       *[other] { -brand-short-name } impediva a iste sito de aperir plus que { $popupCount } fenestras resaltante e rediriger.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
