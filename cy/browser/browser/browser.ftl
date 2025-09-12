@@ -123,6 +123,9 @@ browser-main-private-suffix-for-content = Pori Preifat
 popups-infobar-dont-show-message2 =
     .label = Peidiwch â dangos y neges hon pan fydd llamlenni neu ailgyfeiriadau trydydd parti yn cael eu rhwystro
     .accesskey = P
+edit-popup-settings2 =
+    .label = Rheoli gosodiadau llamlenni ac ailgyfeirio trydydd parti…
+    .accesskey = R
 
 ##
 
@@ -269,8 +272,6 @@ urlbar-screen-blocked =
     .tooltiptext = Rydych wedi rhwystro'r wefan rhag rhannu eich sgrin.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Rydych wedi rhwystro storio data parhaus ar gyfer y wefan hon.
-urlbar-popup-blocked2 =
-    .tooltiptext = Rydych wedi rhwystro llamlenni ac ailgyfeiriadau trydydd parti ar gyfer y wefan hon.
 urlbar-popup-blocked =
     .tooltiptext = Rydych wedi rhwystro llamlenni ar gyfer y wefan hon.
 urlbar-autoplay-media-blocked =

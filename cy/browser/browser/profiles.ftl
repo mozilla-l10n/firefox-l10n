@@ -144,12 +144,23 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Gosod thema gyfaddas
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Mae gosodiadau casglu data wedi newid.</strong> Mae'r newidiadau a wnaed mewn proffil arall yn berthnasol i bob proffil ar y ddyfais hon.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Gweld y gosodiadau
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Cau
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Llyfr
 briefcase-avatar-alt =
     .alt = Bag Dogfennau
+picture-avatar-alt =
+    .alt = Llun
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Cynfas
@@ -166,6 +177,8 @@ heart-avatar-alt =
     .alt = Calon
 heart-rate-avatar-alt =
     .alt = Cyfradd y galon
+clock-avatar-alt =
+    .alt = Cloc
 history-avatar-alt =
     .alt = Hanes
 leaf-avatar-alt =
@@ -190,6 +203,8 @@ present-avatar-alt =
     .alt = Anrheg
 shopping-avatar-alt =
     .alt = Cart siopa
+soccer-ball-avatar-alt =
+    .alt = Pêl pêl-droed
 soccer-avatar-alt =
     .alt = Pêl-droed
 sparkle-single-avatar-alt =
@@ -200,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = Rheolydd gêm fideo
 custom-avatar-alt =
     .alt = Afatar cyfaddas
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Glôb
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Favicon rhagosodedig

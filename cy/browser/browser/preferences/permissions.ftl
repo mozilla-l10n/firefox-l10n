@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Gallwch ddiffodd Modd HTTPS-yn-Unig ar gyfer gwefannau penodol. Ni fydd { -brand-short-name } yn ceisio uwchraddio'r cysylltiad i sicrhau HTTPS ar gyfer y gwefannau hynny. Nid oes eithriadau ar gyfer ffenestri preifat.
 permissions-exceptions-https-only-desc2 = Gallwch ddiffodd y Modd HTTPS-yn-Unig ar gyfer gwefannau penodol. Ni fydd { -brand-short-name } yn ceisio uwchraddio'r cysylltiad i sicrhau HTTPS ar gyfer y gwefannau hynny.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Gwefannau sy'n cael eu Caniatáu - Llamlenni ac Ailgyfeiriadau Trydydd Parti
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Gallwch chi nodi pa wefannau sy'n cael agor llamlenni a chael eich ailgyfeirio gan fframiau trydydd parti.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

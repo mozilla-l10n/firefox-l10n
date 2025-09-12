@@ -105,7 +105,7 @@ permissions-exceptions-popup-desc2 = באפשרותך לציין אילו אתר
 permissions-exceptions-popup-window2 =
     .title = אתרים מורשים - חלונות קופצים
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = באפשרותך לציין לאלו אתרים מותר לפתוח חלונות קופצים. יש להקליד את הכתובת המדויקת של האתר שברצונך לאפשר ולאחר מכן ללחוץ על ״לאפשר״.
+permissions-exceptions-popup-desc = באפשרותך לציין אילו אתרים מורשים לפתוח חלונות קופצים. יש להקליד את הכתובת המדויקת של האתר שברצונך לאפשר ולאחר מכן ללחוץ על ״לאפשר״.
 
 ## Exceptions - Saved Logins
 

@@ -1287,6 +1287,7 @@ content-blocking-etp-standard-tcp-title = Yn cynnwys Diogelwch Cwcis Llwyr, ein 
 content-blocking-warning-title = Rhybudd!
 content-blocking-and-isolating-etp-warning-description-3 = Gall y gosodiad hwn achosi i rai gwefannau beidio â dangos cynnwys neu swyddogaeth yn gywir. Rydym yn darparu eithriadau dewisol ar gyfer gwefannau rydym yn gwybod y gall eich ffurfweddid effeithio arnyn nhw. Er mwyn lleihau'r siawns o wefannau sydd wedi torri, caniatewch yr eithriadau i'r tracwyr hyn. Os yw gwefan yn ymddangos ei fod wedi torri, gallwch ddiffodd y diogelu rhag tracio'r wefan honno i lwytho'r holl gynnwys ac adrodd am y mater fel y gallwn helpu i'w drwsio i bawb.
 content-blocking-warning-title-2 = Efallai y bydd rhai gwefannau'n torri diogelwch tracio llym
+content-blocking-warning-title-custom = Mae'n bosibl y bydd rhai gwefannau'n torri gyda diogelu tracio cyfaddas
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = Mae { -brand-short-name } yn argymell defnyddio'r gosodiadau “Datrys problemau gwefan” i leihau nodweddion a chynnwys gwefan sydd wedi torri. Os yw gwefan yn ymddangos ei fod wedi torri, ceisiwch ddiffodd diogelwch rhag tracio er mwyn i'r wefan honno lwytho'r holl gynnwys.
 content-blocking-and-isolating-etp-warning-description-2 = Gall y gosodiad hwn beri i rai gwefannau beidio a dangos cynnwys na gweithio'n iawn. Os yw gwefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd diogelu rhag tracio i'r wefan honno lwytho'r holl gynnwys.
@@ -1405,6 +1406,9 @@ permissions-autoplay = Awtochwarae
 permissions-autoplay-settings =
     .label = Gosodiadau…
     .accesskey = G
+permissions-block-popups2 =
+    .label = Rhwystro llamlenni ac ailgyfeiriadau trydydd parti
+    .accesskey = l
 permissions-block-popups =
     .label = Rhwystro ffenestri llamlen
     .accesskey = R
