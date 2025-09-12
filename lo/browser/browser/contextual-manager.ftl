@@ -151,6 +151,7 @@ contextual-manager-passwords-edit-label =
     .label = ແກ້ໄຂລະຫັດຜ່ານ
 contextual-manager-passwords-remove-label =
     .title = ເອົາລະຫັດຜ່ານອອກ
+contextual-manager-passwords-password-tooltip-2 = ໃສ່ລະຫັດຜ່ານເພື່ອເຂົ້າສູ່ລະບົບບັນຊີນີ້.
 
 ## Password Card
 
