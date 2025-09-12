@@ -46,18 +46,18 @@ downloads-cmd-use-system-default =
     .accesskey = V
 # This version is shown when the download's mime type has a valid file handler.
 downloads-cmd-use-system-default-named =
-    .label = 用 { $handler } 打开
+    .label = 用“{ $handler }”打开
     .accesskey = I
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
-    .label = 一律使用系统查看器打开
+    .label = 总是用系统查看器打开
     .accesskey = w
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 # This version is shown when the download's mime type has a valid file handler.
 downloads-cmd-always-use-system-default-named =
-    .label = 总是使用 { $handler } 打开
+    .label = 总是用“{ $handler }”打开
     .accesskey = w
 
 ##

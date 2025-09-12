@@ -110,3 +110,14 @@ genai-model-optin-optout =
     .label = Sefsex
 genai-model-optin-cancel =
     .label = Sefsex
+
+## Link previews
+
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Rzu ɣer useɣwen
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Yella wacu ur neddi ara akken ilaq.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Ɛreḍ tikkelt nniḍen
+# Onboarding card Close button
+link-preview-onboarding-close = Mdel
