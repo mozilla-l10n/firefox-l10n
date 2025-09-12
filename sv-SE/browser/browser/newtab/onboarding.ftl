@@ -480,13 +480,14 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Återställ från säkerhetskopia
+restore-from-backup-title = Låt oss få tillbaka { -brand-short-name } som du gillar den
 restore-from-backup-subtitle = Återställ alla dina bokmärken, din historik och annan data för att kunna surfa igen.
 restore-from-backup-secondary-button = Återställ inte
 
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Vi är tillbaka! Din data för { -brand-short-name } har återställts.
-restored-from-backup-success-with-checklist-subtitle = Vill du behålla din favoritwebbläsare med fokus på integritet ett klick bort?
+restored-from-backup-success-with-checklist-subtitle = Vill du behålla din favoritwebbläsare med fokus på integritet, med bara ett klick?
 restored-from-backup-success-no-checklist-subtitle = Du kan aktivera säkerhetskopiering för den här enheten i <a data-l10n-name="settings">Inställningar</a>.
 restored-from-backup-success-with-checklist-primary-button = Spara och fortsätt
 restored-from-backup-success-with-checklist-secondary-button = Hoppa över det här steget

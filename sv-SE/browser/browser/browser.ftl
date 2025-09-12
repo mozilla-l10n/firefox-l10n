@@ -1376,10 +1376,9 @@ popup-warning-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 redirect-warning-with-popup-message =
     { $popupCount ->
-        [0] { -brand-short-name } hindrade den här webbplatsen från att omdirigera.
-        [1] { -brand-short-name } hindrade den här webbplatsen från att öppna ett popup-fönster och omdirigera.
-        [one] { -brand-short-name } hindrade den här webbplatsen från att öppna { $popupCount } popup-fönster och omdirigera.
-       *[other] { -brand-short-name } hindrade den här webbplatsen från att öppna { $popupCount } popup-fönster och omdirigera.
+        [0] { -brand-short-name } förhindrade den här webbplatsen från att omdirigera.
+        [1] { -brand-short-name } förhindrade att den här webbplatsen öppnade ett popup-fönster och omdirigerade.
+       *[other] { -brand-short-name } prevented this site from opening { $popupCount } pop-up windows and redirecting.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
@@ -1389,8 +1388,7 @@ popup-warning-exceeded-message = { -brand-short-name } hindrade den här webbpla
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-with-redirect-message =
     { $popupCount ->
-        [one] { -brand-short-name } hindrade den här webbplatsen från att öppna mer än { $popupCount } popup-fönster och omdirigera.
-       *[other] { -brand-short-name } hindrade den här webbplatsen från att öppna mer än { $popupCount } popup-fönster och omdirigera.
+       *[other] { -brand-short-name } förhindrade att den här webbplatsen öppnade fler än { $popupCount } popup-fönster och omdirigerade.
     }
 popup-warning-button =
     .label =

@@ -1352,10 +1352,21 @@ popup-notification-addon-technical-and-interaction-checkbox =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message = { -brand-short-name }가 이 사이트에서 팝업 창 { $popupCount }개를 차단했습니다.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name }가 이 사이트에서 리디렉션을 차단했습니다.
+        [1] { -brand-short-name }가 이 사이트에서 팝업 창을 열고 리디렉션하는 것을 차단했습니다.
+       *[other] { -brand-short-name }가 이 사이트에서 팝업 창 { $popupCount }개를 열고 리디렉션하는 것을 차단했습니다.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name }가 이 사이트에서 팝업 창 { $popupCount }개 이상을 차단했습니다.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message = { -brand-short-name }가 이 사이트에서 팝업 창 { $popupCount }개 이상을 열고 리디렉션하는 것을 차단했습니다.
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1371,6 +1382,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = 표시: “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = 표시: “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
