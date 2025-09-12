@@ -97,7 +97,7 @@ genai-menu-ask-generic-2 =
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
     .label = Fes una pregunta a { $provider }
-    .accesskey = { "" }
+    .accesskey = F
 genai-menu-no-provider-2 =
     .label = Pregunta a un bot de conversa d’IA
     .accesskey = P

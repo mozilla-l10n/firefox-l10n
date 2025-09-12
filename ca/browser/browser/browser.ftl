@@ -122,7 +122,7 @@ browser-main-private-window-title =
 browser-main-private-suffix-for-content = Navegació privada
 popups-infobar-dont-show-message2 =
     .label = No mostris aquest missatge quan les finestres emergents o les redireccions de tercers estiguin bloquejades
-    .accesskey = { "" }
+    .accesskey = N
 edit-popup-settings2 =
     .label = Gestioneu la configuració de les finestres emergents i la redirecció de tercers…
     .accesskey = { "" }
@@ -1180,7 +1180,7 @@ popups-infobar-block =
     .accesskey = p
 popups-infobar-allow2 =
     .label = Permet les finestres emergents i les redireccions de tercers per a { $uriHost }
-    .accesskey = { "" }
+    .accesskey = P
 
 ##
 
