@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navegació privada
+popups-infobar-dont-show-message2 =
+    .label = No mostris aquest missatge quan les finestres emergents o les redireccions de tercers estiguin bloquejades
+    .accesskey = { "" }
+edit-popup-settings2 =
+    .label = Gestioneu la configuració de les finestres emergents i la redirecció de tercers…
+    .accesskey = { "" }
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Heu blocat la compartició de la pantalla en aquest lloc web.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Heu blocat l'emmagatzematge persistent per a aquest lloc web.
+urlbar-popup-blocked2 =
+    .tooltiptext = Heu blocat les finestres emergents i les redireccions de tercers per a aquest lloc web.
 urlbar-popup-blocked =
     .tooltiptext = Heu blocat les finestres emergents per a aquest lloc web.
 urlbar-autoplay-media-blocked =
@@ -1170,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloca les finestres emergents per a { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Permet les finestres emergents i les redireccions de tercers per a { $uriHost }
+    .accesskey = { "" }
 
 ##
 
@@ -1334,6 +1345,7 @@ firefox-relay-offer-why-to-use-relay = Les màscares, segures i fàcils d'utilit
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Tots els missatges de correu enviats a les vostres màscares d'adreça electrònica es reenviaran a <strong>{ $useremail }</strong> (tret que decidiu blocar-los).
 firefox-relay-offer-legal-notice = En fer clic a «Utilitza una màscara d'adreça electrònica», accepteu les <label data-l10n-name="tos-url">condicions d'ús del servei</label> i l'<label data-l10n-name="privacy-url">avís de privadesa</label>.
+firefox-relay-offer-legal-notice-1 = En registrar-vos i crear una màscara d'adreça electrònica, accepteu les <label data-l10n-name="tos-url">Condicions del servei</label> i l'<label data-l10n-name="privacy-url">Avís de privadesa</label>.
 
 ## Add-on Pop-up Notifications
 
