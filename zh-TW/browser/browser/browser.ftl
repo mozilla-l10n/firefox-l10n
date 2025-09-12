@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = 隱私瀏覽模式
+popups-infobar-dont-show-message2 =
+    .label = 封鎖彈出型視窗或第三方重新導向時，不要顯示此訊息
+    .accesskey = D
+edit-popup-settings2 =
+    .label = 管理彈出型視窗與第三方重新導向選項…
+    .accesskey = M
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = 您已封鎖此網站分享您螢幕畫面的權限。
 urlbar-persistent-storage-blocked =
     .tooltiptext = 您已封鎖此網站儲存資料至持續性儲存空間。
+urlbar-popup-blocked2 =
+    .tooltiptext = 您已封鎖此網站的彈出型視窗與第三方重新導向。
 urlbar-popup-blocked =
     .tooltiptext = 您封鎖了此網站的彈出型視窗。
 urlbar-autoplay-media-blocked =
@@ -1170,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = 封鎖 { $uriHost } 的彈出型視窗
     .accesskey = p
+popups-infobar-allow2 =
+    .label = 允許 { $uriHost } 的彈出型視窗與第三方重新導向
+    .accesskey = p
 
 ##
 
@@ -1359,10 +1370,21 @@ popup-warning-message =
         [1] { -brand-short-name } 封鎖了此網站開啟的彈出型視窗。
        *[other] { -brand-short-name } 封鎖了此網站的 { $popupCount } 個彈出型視窗。
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } 封鎖了此網站的重新導向。
+        [1] { -brand-short-name } 封鎖了此網站的彈出型視窗與重新導向。
+       *[other] { -brand-short-name } 封鎖了此網站的 { $popupCount } 個彈出型視窗與重新導向。
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } 封鎖了此網站開啟超過 { $popupCount } 個彈出型視窗。
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message = { -brand-short-name } 已封鎖此網站超過 { $popupCount } 個彈出型視窗與重新導向。
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1378,6 +1400,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = 顯示「{ $popupURI }」
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = 顯示「{ $redirectURI }」
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

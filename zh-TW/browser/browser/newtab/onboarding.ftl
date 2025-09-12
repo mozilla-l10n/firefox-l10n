@@ -464,3 +464,8 @@ dismiss-button-label = 知道了！
 sync-to-mobile-button-label = 同步到行動裝置
 desktop-to-mobile-qr-code-alt =
     .aria-label = { -brand-product-name } 行動版的下載 QR Code
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = 從備份還原
+restore-from-backup-title = 讓我們把 { -brand-short-name } 還原成您習慣的樣子

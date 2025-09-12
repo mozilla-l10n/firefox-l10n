@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = 有太多分頁了？使用分頁群組整理
 windows-10-eos-sync-tour-subtitle-1 = 將一個分頁拖曳到另一個分頁上，即可建立群組。
 windows-10-eos-sync-tour-title-2 = 讓 Windows 11 更有條理。
 windows-10-eos-sync-tour-subtitle-2 = 在您升級之前先同步書籤、密碼、設定。
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = 減少顯示建議
+windows-10-eos-sync-dismiss-button-label = 知道了！
+windows-10-eos-sync-callout-primary-advance-button-label = 下一步
 
 ## Sidebar Strings
 
