@@ -144,12 +144,21 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Swójsku drastwu nałožyś
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Nastajenja pokazaś
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Zachyśiś
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Knigły
 briefcase-avatar-alt =
     .alt = Listowka
+picture-avatar-alt =
+    .alt = Wobraz
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canvas
@@ -166,6 +175,8 @@ heart-avatar-alt =
     .alt = Wutšoba
 heart-rate-avatar-alt =
     .alt = Dybot wutšoby
+clock-avatar-alt =
+    .alt = Zeger
 history-avatar-alt =
     .alt = Historija
 leaf-avatar-alt =
@@ -190,6 +201,8 @@ present-avatar-alt =
     .alt = Dar
 shopping-avatar-alt =
     .alt = Nakupowański wózyk
+soccer-ball-avatar-alt =
+    .alt = Kopańcowe balo
 soccer-avatar-alt =
     .alt = Kopańca
 sparkle-single-avatar-alt =
@@ -200,6 +213,9 @@ video-game-controller-avatar-alt =
     .alt = Kontroler za wideograśa
 custom-avatar-alt =
     .alt = Swójski awatar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globus
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Standardny fawikon

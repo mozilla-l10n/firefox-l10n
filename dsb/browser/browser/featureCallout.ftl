@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Pśewjele rejtarikow? Zrumujśo z kupkami rej
 windows-10-eos-sync-tour-subtitle-1 = Śěgniśo jaden rejtarik na drugi, aby kupku napórał a źaržćo wšykno w rěchu.
 windows-10-eos-sync-tour-title-2 = Buźćo za Windows 11 pśigótowany.
 windows-10-eos-sync-tour-subtitle-2 = Synchronizěrujśo swóje cytańske znamjenja, gronidła a nastajenja, aby je zawěsćił, nježli až pśeśěgujośo.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Mjenjej pórucenjow pokazaś
+windows-10-eos-sync-dismiss-button-label = Zachyśiś
+windows-10-eos-sync-callout-primary-advance-button-label = Dalej
 
 ## Sidebar Strings
 

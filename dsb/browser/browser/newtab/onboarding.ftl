@@ -477,3 +477,18 @@ dismiss-button-label = Zachyśiś
 sync-to-mobile-button-label = Z mobilnym rědom synchronizěrowaś
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kod za ześěgnjenje { -brand-product-name } za mobilne rědy
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Ze zawěsćenja wótnowiś
+restore-from-backup-title = Dostańmy { -brand-short-name } slědk, ako se wam spódoba
+restore-from-backup-secondary-button = Njewótnowiś
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Smy slědk! Waše daty { -brand-short-name } su se wótnowili.
+restored-from-backup-success-with-checklist-primary-button = Składowaś a pókšacowaś
+restored-from-backup-success-with-checklist-secondary-button = Toś ten kšac pśeskócyś
+restored-from-backup-success-no-checklist-primary-button = Dalej
+restored-from-backup-error-title = Hmm, dajo problem z wašeju zawěsćeńskeju dataju.
+restored-from-backup-error-primary-button = Zacyniś
