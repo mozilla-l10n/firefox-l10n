@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Messages used as headers in the main pane
+
+compatibility-all-elements-header = Всички
+
 ## Message used as labels for the type of issue
 
 compatibility-issue-deprecated = (изведено от употреба)

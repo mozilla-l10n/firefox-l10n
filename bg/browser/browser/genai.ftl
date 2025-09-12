@@ -119,6 +119,7 @@ genai-onboarding-lechat-tooltip =
 genai-onboarding-lechat-learn = Научете повече за Le Chat
 genai-onboarding-select-header = Изберете текст, за да видите предложения
 genai-onboarding-select-primary = Започнете разговор
+genai-chatbot-contextual-button = Избор на чатбот
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

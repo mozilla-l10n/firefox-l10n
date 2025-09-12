@@ -43,18 +43,38 @@ serviceworker-worker-updated = Обновена на <time>{ DATETIME($date, day
 serviceworker-worker-status-running = Включена
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Спряна
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = Не са открити обслужващи нишки
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Научете повече
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 # <a> and <span> are links that will open the webconsole and the debugger, respectively.
 serviceworker-empty-suggestions2 = Ако текущата страница трябва да има обслужваща нишка, (service worker), може да потърсите грешки в <a>конзолата</a> или да преминете през регистрацията на нишката (service worker) в <span>дебъгера</span>.
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Манифест на приложението
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Не е открит манифест на уеб приложението
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Научете как да добавите манифест
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Грешки и предупреждения
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Идентичност
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Пиктограми
 # Text displayed while we are loading the manifest file
 manifest-loading = Зареждане на manifest…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Манифестът е зареден.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = Възникна грешка при зареждане на манифеста:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Грешка в Firefox DevTools
+# Text displayed when the page has no manifest available
+manifest-non-existing = Не е намерен манифест за проверка.
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
