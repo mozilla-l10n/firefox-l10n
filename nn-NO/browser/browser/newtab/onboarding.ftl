@@ -476,3 +476,10 @@ dismiss-button-label = Ignorer
 sync-to-mobile-button-label = Synkronisder til mobil
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kode for å laste ned { -brand-product-name } for mobil
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Lagre og hald fram
+restored-from-backup-success-with-checklist-secondary-button = Hopp over dette steget
+restored-from-backup-success-no-checklist-primary-button = Hald fram
+restored-from-backup-error-primary-button = Lat att
