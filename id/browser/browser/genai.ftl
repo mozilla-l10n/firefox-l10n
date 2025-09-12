@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Tanyakan { $provider }
+genai-menu-open-generic =
+    .label = Buka Chatbot AI
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Buka { $provider }
 genai-menu-remove-generic =
     .label = Hapus chatbot AI
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Hapus { $provider }
+genai-menu-remove-sidebar =
+    .label = Hapus dari Bilah Samping
+genai-menu-new-badge = Baru
+genai-menu-summarize-page = Ringkaskan Laman
 genai-input-ask-generic =
     .placeholder = Tanyakan chatbot AI…
 # $provider (string) - name of the provider
@@ -74,6 +83,18 @@ genai-shortcuts-selected-warning =
     .message = Anda telah memilih sekitar { $selectionLength } karakter. Banyaknya karakter yang dapat kami kirim ke { $provider } adalah sekitar { $maxLength }.
 genai-shortcuts-hide =
     .label = Sembunyikan pintasan bot obrolan
+genai-menu-choose-chatbot =
+    .label = Pilih Chatbot AI
+genai-menu-ask-generic-2 =
+    .label = Tanyakan Chatbot AI
+    .accesskey = z
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Tanya { $provider }
+    .accesskey = z
+genai-menu-no-provider-2 =
+    .label = Tanyakan pada Chatbot AI
+    .accesskey = z
 
 ## Chatbot header
 
@@ -97,6 +118,15 @@ genai-options-hide-shortcut =
     .label = Sembunyikan pintasan saat memilih teks
 genai-options-about-chatbot =
     .label = Tentang bot obrolan AI dalam { -brand-short-name }
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Karena lamannya panjang, ini adalah ringkasan sebagian.
+
+## Chatbot footer
+
+genai-page-button-summarize = Ringkas laman
 
 ## Chatbot onboarding
 

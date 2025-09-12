@@ -80,3 +80,24 @@ add-engine-keyword-exists = Kata kunci tersebut sudah digunakan. Coba yang lain.
 add-engine-name-exists = Nama tersebut sudah digunakan. Silakan pilih yang lain.
 add-engine-no-name = Tambahkan nama.
 add-engine-no-url = Masukkan URL.
+add-engine-invalid-url = URL tersebut tampaknya salah. Silakan periksa dan coba lagi.
+add-engine-invalid-protocol = URL tersebut tampaknya salah. Gunakan URL yang diawali dengan http atau https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Coba sertakan %s sebagai pengganti istilah pencarian.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Coba sertakan %s sebagai pengganti istilah pencarian.
+
+## The following strings are used as labels for the dialog's buttons.
+
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Tambahkan Mesin
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Tingkat Lanjut
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Simpan Mesin
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Tingkat Lanjut
