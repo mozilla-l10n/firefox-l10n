@@ -146,6 +146,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Datenerfassungseinstellungen geändert.</strong> Die Änderungen, die in einem anderen Profil vorgenommen wurden, gelten für alle Profile auf diesem Gerät.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Einstellungen anzeigen
 # Secondary button label to dismiss the infobar without action

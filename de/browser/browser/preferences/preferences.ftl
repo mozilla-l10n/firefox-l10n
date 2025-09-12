@@ -1271,6 +1271,7 @@ content-blocking-etp-standard-tcp-title = Beinhaltet den vollständigen Cookie-S
 content-blocking-warning-title = Achtung!
 content-blocking-and-isolating-etp-warning-description-3 = Diese Einstellung kann dazu führen, dass einige Websites Inhalte nicht korrekt anzeigen oder nicht funktionieren. Wir bieten optionale Ausnahmen für Websites, von denen wir wissen, dass sie von Ihrer Konfiguration betroffen sein können. Um das Risiko fehlerhafter Websites zu reduzieren, erlauben Sie diese Ausnahmen für die Aktivitätenverfolgung. Wenn eine Website defekt zu sein scheint, können Sie den Schutz vor Aktivitätenverfolgung für diese Website deaktivieren, um alle Inhalte zu laden und das Problem zu melden, damit wir bei der Behebung des Problems helfen können.
 content-blocking-warning-title-2 = Einige Websites können möglicherweise wegen dem strengen Schutz vor Aktivitätenverfolgung nicht funktionieren.
+content-blocking-warning-title-custom = Einige Websites können möglicherweise wegen dem benutzerdefinierten Schutz vor Aktivitätenverfolgung nicht funktionieren.
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } empfiehlt die Verwendung der Einstellungen "Probleme mit Webseiten beheben", um fehlerhafte Funktionen und Inhalte von Websites zu reduzieren. Wenn eine Webseite defekt zu sein scheint, versuchen Sie, den Tracking-Schutz für diese Website zu deaktivieren, um alle Inhalte zu laden.
 content-blocking-and-isolating-etp-warning-description-2 = Diese Einstellung kann dazu führen, dass einige Websites nicht korrekt Inhalte anzeigen oder funktionieren. Wenn eine Website defekt zu sein scheint, können Sie den Schutz vor Aktivitätenverfolgung für diese Website deaktivieren, um alle Inhalte zu laden.
@@ -1389,6 +1390,9 @@ permissions-autoplay = Automatische Wiedergabe
 permissions-autoplay-settings =
     .label = Einstellungen…
     .accesskey = E
+permissions-block-popups2 =
+    .label = Blockieren Sie Pop-ups und Drittanbieter-Weiterleitungen
+    .accesskey = B
 permissions-block-popups =
     .label = Pop-up-Fenster blockieren
     .accesskey = P

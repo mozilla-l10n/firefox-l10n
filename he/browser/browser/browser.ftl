@@ -1373,7 +1373,15 @@ popup-notification-addon-technical-and-interaction-checkbox =
 popup-warning-message =
     { $popupCount ->
         [one] { -brand-short-name } מנע מאתר זה לפתוח חלון קופץ.
-       *[other] { -brand-short-name } מנע מאתר זה מלפתוח { $popupCount } חלונות קופצים.
+       *[other] { -brand-short-name } מנע מאתר זה לפתוח { $popupCount } חלונות קופצים.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } מנע מאתר זה לבצע הפניה.
+        [one] { -brand-short-name } מנע מאתר זה לפתוח חלון קופץ ולבצע הפניה.
+       *[other] { -brand-short-name } מנע מאתר זה לפתוח { $popupCount } חלונות קופצים ולבצע הפניה.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
@@ -1382,6 +1390,13 @@ popup-warning-exceeded-message =
     { $popupCount ->
         [one] ‏
        *[other] { -brand-short-name } מנע מאתר זה לפתוח יותר מ־{ $popupCount } חלונות קופצים.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } מנע מאתר זה לפתוח יותר מחלון קופץ אחד ולבצע הפניה.
+       *[other] { -brand-short-name } מנע מאתר זה לפתוח יותר מ־{ $popupCount } חלונות קופצים ולבצע הפניה.
     }
 popup-warning-button =
     .label =
@@ -1398,6 +1413,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = הצגת “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = הצגת ״{ $redirectURI }״
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

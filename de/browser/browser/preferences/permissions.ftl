@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Sie können den Nur-HTTPS-Modus für bestimmte Websites deaktivieren. { -brand-short-name } versucht dann nicht, die Verbindung zu ändern, um HTTPS für diese Websites sicherzustellen. Ausnahmen gelten nicht für private Fenster.
 permissions-exceptions-https-only-desc2 = Sie können den Nur-HTTPS-Modus für bestimmte Websites deaktivieren. { -brand-short-name } versucht dann nicht, die Verbindung zu ändern, um HTTPS für diese Websites sicherzustellen.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Erlaube Websites - Pop-ups und Drittanbieter-Weiterleitungen
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Sie können festlegen, welche Websites Pop-up-Fenster öffnen und von Frames von Drittanbietern umgeleitet werden dürfen.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
