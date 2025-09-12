@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = 사생활 보호 모드
+popups-infobar-dont-show-message2 =
+    .label = 팝업이나 제3자 리디렉션이 차단될 때 이 메시지를 표시하지 않음
+    .accesskey = D
+edit-popup-settings2 =
+    .label = 팝업 및 제3자 리디렉션 설정 관리…
+    .accesskey = M
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = 이 사이트의 화면 공유를 차단했습니다.
 urlbar-persistent-storage-blocked =
     .tooltiptext = 이 사이트의 영구 저장소 사용을 차단했습니다.
+urlbar-popup-blocked2 =
+    .tooltiptext = 이 사이트의 팝업과 제3자 리디렉션을 차단했습니다.
 urlbar-popup-blocked =
     .tooltiptext = 이 사이트의 팝업을 차단했습니다.
 urlbar-autoplay-media-blocked =
@@ -1153,6 +1161,9 @@ popups-infobar-allow =
     .accesskey = p
 popups-infobar-block =
     .label = { $uriHost }의 팝업 차단
+    .accesskey = p
+popups-infobar-allow2 =
+    .label = { $uriHost }에 대한 팝업 및 제3자 리디렉션 허용
     .accesskey = p
 
 ##

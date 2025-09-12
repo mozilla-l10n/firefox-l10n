@@ -480,8 +480,7 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Återställ från säkerhetskopia
-restore-from-backup-title = Låt oss få tillbaka { -brand-short-name } som du vill ha det
-restore-from-backup-subtitle = Återställ alla dina bokmärken, historik och annan data för att komma tillbaka till surfningen.
+restore-from-backup-subtitle = Återställ alla dina bokmärken, din historik och annan data för att kunna surfa igen.
 restore-from-backup-secondary-button = Återställ inte
 
 ## Restored from Backup spotlight
