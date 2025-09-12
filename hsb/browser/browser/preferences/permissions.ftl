@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Móžeće modus Jenož-HTTPS za wěste websydła znjemóžnić. { -brand-short-name } njespyta, zwisk za te sydła na wěsty HTTPS aktualizować. Wuwzaća za priwatne wokna njepłaća.
 permissions-exceptions-https-only-desc2 = Móžeće modus Jenož-HTTPS za wěste websydła znjemóžnić. { -brand-short-name } njespyta, zwisk za te sydła na wěsty HTTPS aktualizować.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Dowolene websydła – wuskakowace wokna a dalesposrědkowanja třećich poskićowarjow
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Móžeće postajić, kotre websydła smědźa wuskakowace wokna wočinić a so přez wobłuki třećich poskićowarjow dale sposrědkować.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

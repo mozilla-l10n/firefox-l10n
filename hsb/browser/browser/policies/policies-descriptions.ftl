@@ -118,6 +118,7 @@ policy-PostQuantumKeyAgreementEnabled = Dojednanje wo postkwantowym kluču za TL
 policy-PDFjs = PDF.js znjemóžnić abo konfigurować, zatwarjeny PDF-wobhladowak w { -brand-short-name }.
 policy-Permissions2 = Prawa za kameru, mikrofon, adresu, zdźělenki a awtomatiske wothraće konfigurować.
 policy-PictureInPicture = Wobraz-we-wobrazu zmóžnić abo znjemóžnić.
+policy-PopupBlocking2 = Wěstym websydłam dowolić, wuskakowace wokna pokazać a so přez wobłuki třećich poskićowarjow dale posrědkuja.
 policy-PopupBlocking = Wěstym websydłam dowolić, wuskakowace wokna po standardźe pokazać.
 policy-Preferences = Hódnotu za podsadźbu nastajenjow stajić a zawrěć
 policy-PrivateBrowsingModeAvailability = Nastajće disponujomnosć priwatneho modusa.

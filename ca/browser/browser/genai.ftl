@@ -166,6 +166,10 @@ genai-onboarding-select-header = Seleccioneu el text per a veure suggeriments
 genai-onboarding-select-description = Quan seleccioneu text, us suggerirem indicacions que podeu enviar al bot de conversa. També podeu escriure les  indicacions que vulgueu.
 genai-onboarding-select-primary = Comenceu a xatejar
 genai-chatbot-contextual-title = Utilitzeu un bot de conversa d'IA sense canviar de pestanya
+genai-chatbot-contextual-subtitle = Xategeu i navegueu costat per costat quan afegiu un bot de conversa d'IA a la barra lateral del { -brand-short-name }.
+genai-chatbot-contextual-button = Trieu un bot de conversa
+genai-chatbot-summarize-title = Nou! Resumiu pàgines amb un sol clic
+genai-chatbot-summarize-button = Resumeix la pàgina
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
