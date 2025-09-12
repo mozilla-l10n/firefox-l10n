@@ -144,12 +144,21 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Εφαρμογή προσαρμοσμένου θέματος
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Προβολή ρυθμίσεων
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Απόρριψη
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Βιβλίο
 briefcase-avatar-alt =
     .alt = Χαρτοφύλακας
+picture-avatar-alt =
+    .alt = Εικόνα
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Καμβάς
@@ -166,6 +175,8 @@ heart-avatar-alt =
     .alt = Καρδιά
 heart-rate-avatar-alt =
     .alt = Καρδιακός ρυθμός
+clock-avatar-alt =
+    .alt = Ρολόι
 history-avatar-alt =
     .alt = Ιστορικό
 leaf-avatar-alt =
@@ -190,6 +201,8 @@ present-avatar-alt =
     .alt = Δώρο
 shopping-avatar-alt =
     .alt = Καλάθι αγορών
+soccer-ball-avatar-alt =
+    .alt = Μπάλα ποδοσφαίρου
 soccer-avatar-alt =
     .alt = Ποδόσφαιρο
 sparkle-single-avatar-alt =
@@ -200,6 +213,9 @@ video-game-controller-avatar-alt =
     .alt = Χειριστήριο βιντεοπαιχνιδιού
 custom-avatar-alt =
     .alt = Προσαρμοσμένη εικόνα χρήστη
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Υδρόγειος σφαίρα
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Προεπιλεγμένο εικονίδιο

@@ -476,3 +476,7 @@ dismiss-button-label = Απόρριψη
 sync-to-mobile-button-label = Συγχρονισμός με κινητή συσκευή
 desktop-to-mobile-qr-code-alt =
     .aria-label = Κωδικός QR για τη λήψη του { -brand-product-name } για κινητές συσκευές
+
+## Restored from Backup spotlight
+
+restored-from-backup-error-primary-button = Κλείσιμο

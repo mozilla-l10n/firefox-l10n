@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Έχετε πάρα πολλές καρτέλ
 windows-10-eos-sync-tour-subtitle-1 = Σύρετε τη μια καρτέλα πάνω στην άλλη για να δημιουργήσετε μια ομάδα και να οργανώσετε τις καρτέλες σας.
 windows-10-eos-sync-tour-title-2 = Οργανωθείτε για τα Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Συγχρονίστε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και τις ρυθμίσεις σας για να δημιουργήσετε αντίγραφα ασφαλείας πριν από τη μετάβαση.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Εμφάνιση λιγότερων προτάσεων
+windows-10-eos-sync-dismiss-button-label = Απόρριψη
+windows-10-eos-sync-callout-primary-advance-button-label = Επόμενο
 
 ## Sidebar Strings
 

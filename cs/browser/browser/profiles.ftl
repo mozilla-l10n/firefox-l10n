@@ -310,3 +310,33 @@ briefcase-avatar-tooltip =
     .tooltiptext = Použít avatar aktovky
 picture-avatar-tooltip =
     .tooltiptext = Použít obrázkový avatar
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Použít avatara řemesla
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Použít avatar zeměkoule
+diamond-avatar-tooltip =
+    .tooltiptext = Použít diamantový avatar
+flower-avatar-tooltip =
+    .tooltiptext = Použít květinový avatar
+folder-avatar-tooltip =
+    .tooltiptext = Použít avatar složky
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Použít avatar zprávy
+musical-note-avatar-tooltip =
+    .tooltiptext = Použít avatar hudební noty
+palette-avatar-tooltip =
+    .tooltiptext = Použít avatar palety
+paw-print-avatar-tooltip =
+    .tooltiptext = Použít avatar s potiskem tlapky
+plane-avatar-tooltip =
+    .tooltiptext = Použít avatar letadla
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Použít současný avatar
+shopping-avatar-tooltip =
+    .tooltiptext = Použít avatar nákupního košíku
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Použít avatar fotbalového míče
