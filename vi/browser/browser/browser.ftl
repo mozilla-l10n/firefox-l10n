@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Duyệt web riêng tư
+popups-infobar-dont-show-message2 =
+    .label = Không hiển thị thông báo này khi cửa sổ bật lên hoặc chuyển hướng của bên thứ ba bị chặn
+    .accesskey = D
+edit-popup-settings2 =
+    .label = Quản lý cài đặt cửa sổ bật lên và chuyển hướng của bên thứ ba…
+    .accesskey = M
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Bạn đã chặn việc chia sẻ màn hình của mình với trang web này.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bạn đã chặn lưu dữ liệu vào bộ nhớ lâu dài ở trang này.
+urlbar-popup-blocked2 =
+    .tooltiptext = Bạn đã chặn cửa sổ bật lên và chuyển hướng của bên thứ ba cho trang web này.
 urlbar-popup-blocked =
     .tooltiptext = Bạn đã chặn cửa sổ bật lên ở trang web này.
 urlbar-autoplay-media-blocked =
@@ -1154,6 +1162,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Chặn cửa sổ bật lên từ { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Cho phép cửa sổ bật lên và chuyển hướng của bên thứ ba cho { $uriHost }
+    .accesskey = p
 
 ##
 
@@ -1339,10 +1350,24 @@ popup-notification-addon-technical-and-interaction-checkbox =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message = { -brand-short-name } đã chặn trang web này mở { $popupCount } cửa sổ bật lên.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } đã chặn trang web này chuyển hướng.
+        [1] { -brand-short-name } đã chặn trang web này mở một cửa sổ bật lên và chuyển hướng.
+       *[other] { -brand-short-name } đã chặn trang web này mở { $popupCount } cửa sổ bật lên và chuyển hướng.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } đã ngăn trang web này mở nhiều hơn { $popupCount } cửa sổ bật lên.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+       *[other] { -brand-short-name } đã chặn trang web này mở nhiều hơn { $popupCount } cửa sổ bật lên và chuyển hướng.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1358,6 +1383,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Hiển thị '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Hiện “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

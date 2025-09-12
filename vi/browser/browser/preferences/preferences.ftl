@@ -1255,6 +1255,7 @@ content-blocking-etp-standard-tcp-title = Bao gồm Trình chống cookie chung,
 content-blocking-warning-title = Hãy cân nhắc!
 content-blocking-and-isolating-etp-warning-description-3 = Cài đặt này có thể khiến một số trang web không hiển thị nội dung hoặc hoạt động không đúng. Chúng tôi cung cấp các ngoại lệ tùy chọn cho các trang web mà chúng tôi biết có thể bị ảnh hưởng bởi cấu hình của bạn. Để giảm khả năng trang web bị hỏng, hãy cho phép các ngoại lệ theo dõi này. Nếu một trang web có vẻ bị hỏng, bạn có thể tắt tính năng trình chống theo dõi cho trang web đó để tải toàn bộ nội dung và báo cáo sự cố để chúng tôi có thể giúp khắc phục sự cố cho mọi người.
 content-blocking-warning-title-2 = Một số trang web có thể bị phá vỡ bởi chế độ trình chống theo dõi nghiêm ngặt
+content-blocking-warning-title-custom = Một số trang web có thể bị hỏng với tính năng trình chống theo dõi tùy chỉnh
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } đề xuất sử dụng cài đặt "Khắc phục sự cố trang web" để giảm thiểu các tính năng và nội dung bị lỗi. Nếu một trang web có vẻ bị lỗi, hãy thử tắt trình chống theo dõi cho trang web đó để tải toàn bộ nội dung.
 content-blocking-and-isolating-etp-warning-description-2 = Cài đặt này có thể khiến một số trang web không hiển thị nội dung hoặc hoạt động không chính xác. Nếu trang web có vẻ bị hỏng, bạn có thể muốn tắt trình chống theo dõi để trang web đó tải tất cả nội dung.
@@ -1373,6 +1374,9 @@ permissions-autoplay = Tự động phát
 permissions-autoplay-settings =
     .label = Cài đặt…
     .accesskey = t
+permissions-block-popups2 =
+    .label = Chặn cửa sổ bật lên và chuyển hướng của bên thứ ba
+    .accesskey = B
 permissions-block-popups =
     .label = Chặn các cửa sổ bật lên
     .accesskey = B
