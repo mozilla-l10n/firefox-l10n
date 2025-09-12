@@ -118,6 +118,7 @@ policy-PostQuantumKeyAgreementEnabled = Dojadnanje wó postkwantowem klucu za TL
 policy-PDFjs = PDF.js znjemóžniś abo konfigurěrowaś, zatwarjony PDF-wobglědowak w { -brand-short-name }.
 policy-Permissions2 = Pšawa za kameru, mikrofon, stojnišćo, powěźeńki a awtomatiske wótgraśe konfigurěrowaś.
 policy-PictureInPicture = Wobraz-we-wobrazu zmóžniś abo znjemóžniś.
+policy-PopupBlocking2 = Wěstym websedłam dowóliś, wuskokujuce wokna pokazaś a se pśez wobłuki tśeśich póbitowarjow dalej pósrědnjaju.
 policy-PopupBlocking = Wěstym websedłam dowóliś, wuskokujuce wokna pó standarźe pokazaś.
 policy-Preferences = Gódnotu za pódsajźbu nastajenjow stajiś a zastajiś
 policy-PrivateBrowsingModeAvailability = Nastajśo k-dispoziciji-byśe priwatnego modusa.

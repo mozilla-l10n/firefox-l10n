@@ -482,13 +482,17 @@ desktop-to-mobile-qr-code-alt =
 
 restore-from-backup-secondary-top-button = Ze zawěsćenja wótnowiś
 restore-from-backup-title = Dostańmy { -brand-short-name } slědk, ako se wam spódoba
+restore-from-backup-subtitle = Wótnowśo wšykne waše cytańske znamjenja, historiju a druge daty, aby se k pśeglědowanjeju wrośił.
 restore-from-backup-secondary-button = Njewótnowiś
 
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Smy slědk! Waše daty { -brand-short-name } su se wótnowili.
+restored-from-backup-success-with-checklist-subtitle = Cośo swój nejlubšy wobglědowak z fokusom na priwatnosć jano jaden kliknjenje pšec wobchowaś?
+restored-from-backup-success-no-checklist-subtitle = Móžośo zawěsćenje za toś ten rěd w <a data-l10n-name="settings">nastajenjach</a> zmóžniś.
 restored-from-backup-success-with-checklist-primary-button = Składowaś a pókšacowaś
 restored-from-backup-success-with-checklist-secondary-button = Toś ten kšac pśeskócyś
 restored-from-backup-success-no-checklist-primary-button = Dalej
 restored-from-backup-error-title = Hmm, dajo problem z wašeju zawěsćeńskeju dataju.
+restored-from-backup-error-subtitle = Jolic drugu zawěsćeńsku dataju { -brand-short-name } maśo, wopytajśo z njeje wótnowiś. <a data-l10n-name="restore-problems">Maśo hyšći problemy?</a>
 restored-from-backup-error-primary-button = Zacyniś

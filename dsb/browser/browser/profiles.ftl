@@ -146,6 +146,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Nastajenja za gromaźenje datow su se změnili.</strong> Změny, kótarež su se pśewjadli w drugem profilu, se na wšykne profile na toś tom rěźe nałožuju.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Nastajenja pokazaś
 # Secondary button label to dismiss the infobar without action

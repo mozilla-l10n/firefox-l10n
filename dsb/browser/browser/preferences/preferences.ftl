@@ -1279,6 +1279,7 @@ content-blocking-etp-standard-tcp-title = Wopśimujo dopołny šćit pśed cooki
 content-blocking-warning-title = Glědajśo!
 content-blocking-and-isolating-etp-warning-description-3 = Toś to nastajenje mógło zawinowaś, až někotare websedła wopśimjeśe njepokazuju abo korektnje njefunkcioněruju. Bitujomy opcionalne wuwześa za websedła, wó kótarychž wěmy, až daju se pśez wašu konfiguraciju wobwliwowaś. Aby skóncowane websydła reducěrował, zmóžniśo toś te wuwześa za pśeslědowaki. Jolic se zda, až sedło jo skóńcowane, móžośo šćit pśeśiwo slědowanjeju za to sedło znjemóžniś, aby wšo wopśimjeśe zacytał a problem k wěsći dał, aby my mógli pomagaś, ten problem za wše rozwězaś.
 content-blocking-warning-title-2 = Někotare sedła snaź ze striktnym pśeslědowańskim šćitom korektnje njefunkcioněruju
+content-blocking-warning-title-custom = Někotare sedła snaź ze swójskim pśeslědowańskim šćitom korektnje njefunkcioněruju
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } pórucujo, nastajenja „Sedłowe problemy rozwězaś“ wužywaś, aby wy wobškóźone sedłowe funkcije a wobškóźone sedłowe wopśimjeśe reducěrował. Jolic se zda, až sedło jo wobškóźone, wopytajśo pśeslědowański šćit za to sedło znjemóžniś, aby wšykno wopśimjeśe zacytał.
 content-blocking-and-isolating-etp-warning-description-2 = Toś to nastajenje móžo zwinowaś, až někotare websedła wopśimjeśe njepokazuju abo korektnje njefunkcioněruju. Jolic sedło zda se wobškóźone byś, móžośo slědowański šćit za to sedło znjemóžniś, aby cełe wopśimjeśe zacytał.
@@ -1397,6 +1398,9 @@ permissions-autoplay = Awtomatiske wótgraśe
 permissions-autoplay-settings =
     .label = Nastajenja…
     .accesskey = N
+permissions-block-popups2 =
+    .label = Wuskokujuce wokna a dalejpósrědnjenja tśeśich póbitowarjow blokěrowaś…
+    .accesskey = u
 permissions-block-popups =
     .label = Wuskokujuce wokno blokěrowaś
     .accesskey = k

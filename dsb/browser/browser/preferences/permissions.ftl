@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Móžóśo modus Jano-HTTPS za wěste websedła znjemóžniś. { -brand-short-name } njewopytajo, zwisk za te sedła na wěsty HTTPS aktualizěrowaś. Wuwześa za priwatne wokna njepłaśe.
 permissions-exceptions-https-only-desc2 = Móžóśo modus Jano-HTTPS za wěste websedła znjemóžniś. { -brand-short-name } njewopytajo, zwisk za te sedła na wěsty HTTPS aktualizěrowaś.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Dowólone websedła – wuskokujuce wokna a dalejpósrědnjenja tśeśich póbitowarjow
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
