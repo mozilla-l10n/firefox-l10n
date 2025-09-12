@@ -477,3 +477,21 @@ dismiss-button-label = Ignorer
 sync-to-mobile-button-label = Synchroniser avec votre appareil mobile
 desktop-to-mobile-qr-code-alt =
     .aria-label = Code QR pour télécharger { -brand-product-name } pour mobile
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Restaurer à partir d’une sauvegarde
+restore-from-backup-subtitle = Récupérez tous vos marque-pages, votre historique et d’autres données pour reprendre votre navigation.
+restore-from-backup-secondary-button = Ne pas restaurer
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = De retour ! Vos données { -brand-short-name } ont été restaurées.
+restored-from-backup-success-with-checklist-subtitle = Vous voulez garder votre navigateur préféré, centré sur la confidentialité, accessible en un clic ?
+restored-from-backup-success-no-checklist-subtitle = Vous pouvez activer la sauvegarde pour cet appareil dans les <a data-l10n-name="settings">paramètres</a>.
+restored-from-backup-success-with-checklist-primary-button = Enregistrer et continuer
+restored-from-backup-success-with-checklist-secondary-button = Ignorer cette étape
+restored-from-backup-success-no-checklist-primary-button = Continuer
+restored-from-backup-error-title = Hum, il y a eu un problème avec votre fichier de sauvegarde.
+restored-from-backup-error-subtitle = Si vous disposez d’un autre fichier de sauvegarde de { -brand-short-name }, essayez de restaurer à partir de celui-ci. <a data-l10n-name="restore-problems">Vous avez toujours des problèmes ?</a>
+restored-from-backup-error-primary-button = Fermer

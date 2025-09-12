@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navigation privée
+popups-infobar-dont-show-message2 =
+    .label = Ne pas afficher ce message lorsque des popups ou des redirections tierces sont bloquées
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Gérer les paramètres des popups et des redirections tierces…
+    .accesskey = G
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Vous avez empêché ce site de partager votre écran.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Vous avez empêché ce site d’utiliser le stockage persistant.
+urlbar-popup-blocked2 =
+    .tooltiptext = Vous avez bloqué les popups et les redirections tierces pour ce site web.
 urlbar-popup-blocked =
     .tooltiptext = Vous avez bloqué des popups pour ce site web.
 urlbar-autoplay-media-blocked =
@@ -1173,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloquer les popups pour { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Autoriser les popups et les redirections tierces pour { $uriHost }
+    .accesskey = A
 
 ##
 
@@ -1383,6 +1394,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Afficher « { $popupURI } »
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Afficher « { $redirectURI } »
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

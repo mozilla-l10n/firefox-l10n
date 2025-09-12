@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Vous avez trop d’onglets ? Faites de la pl
 windows-10-eos-sync-tour-subtitle-1 = Déposez un onglet au-dessus d’un autre pour créer un groupe et mettre de l’ordre dans vos onglets.
 windows-10-eos-sync-tour-title-2 = Préparez-vous pour Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synchronisez vos marque-pages, mots de passe et paramètres pour les sauvegarder avant d’effectuer la mise à niveau.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Afficher moins de recommandations
+windows-10-eos-sync-dismiss-button-label = Ignorer
+windows-10-eos-sync-callout-primary-advance-button-label = Suivant
 
 ## Sidebar Strings
 
