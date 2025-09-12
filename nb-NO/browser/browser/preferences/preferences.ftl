@@ -1271,6 +1271,7 @@ content-blocking-etp-standard-tcp-title = Inkluderer total beskyttelse mot infok
 content-blocking-warning-title = Se opp!
 content-blocking-and-isolating-etp-warning-description-3 = Denne innstillingen kan føre til at enkelte nettsteder ikke viser innhold eller fungerer som de skal. Vi tilbyr valgfrie unntak for nettsteder som vi vet kan bli påvirket av konfigurasjonen din. For å redusere sjansen for nettsteder som ikke fungerer, bør du tillate disse sporingsunntakene. Hvis et nettsted ser ut til å være ødelagt, kan du slå av sporingsbeskyttelse for det nettstedet for å laste inn alt innhold og rapportere problemet, slik at vi kan hjelpe med å fikse det for alle.
 content-blocking-warning-title-2 = Noen nettsteder kan slutte å fungere med streng sporingsbeskyttelse
+content-blocking-warning-title-custom = Noen nettsteder kan slutte å fungere med tilpasset sporingsbeskyttelse
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } anbefaler å bruke innstillingene «Fiks nettstedsproblemer» for å redusere ødelagte funksjoner og innhold på nettsteder. Hvis et nettsted virker ødelagt, kan du prøve å slå av sporingsbeskyttelse for det nettstedet for å laste alt innhold.
 content-blocking-and-isolating-etp-warning-description-2 = Denne innstillingen kan føre til at enkelte nettsteder ikke viser innhold eller fungerer riktig. Hvis et nettsted virker ødelagt, kan det være lurt å slå av sporingsbeskyttelse for det nettstedet for å laste inn alt innholdet.
@@ -1389,6 +1390,9 @@ permissions-autoplay = Automatisk avspilling
 permissions-autoplay-settings =
     .label = Innstillinger…
     .accesskey = t
+permissions-block-popups2 =
+    .label = Blokker sprettoppvinduer og tredjepartvideresendinger
+    .accesskey = B
 permissions-block-popups =
     .label = Blokker sprettoppvinduer
     .accesskey = B

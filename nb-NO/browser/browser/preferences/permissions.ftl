@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Du kan slå av kun-HTTPS-modus for bestemte nettsteder. { -brand-short-name } prøver ikke å oppgradere tilkoblingen til sikker HTTPS for disse nettstedene. Unntak gjelder ikke private vinduer.
 permissions-exceptions-https-only-desc2 = Du kan slå av kun-HTTPS-modus for bestemte nettsteder. { -brand-short-name } prøver ikke å oppgradere tilkoblingen til sikker HTTPS for disse nettstedene.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Tillatte nettsteder – sprettoppvinduer og tredjepartvideresendinger
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Du kan angi hvilke nettsteder som har lov til å åpne sprettoppvinduer og bli videresendt av tredjepartsrammer.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

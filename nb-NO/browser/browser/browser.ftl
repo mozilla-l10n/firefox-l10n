@@ -121,10 +121,10 @@ browser-main-private-window-title =
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Privat nettlesing
 popups-infobar-dont-show-message2 =
-    .label = Ikke vis denne meldingen når sprettoppvinduer eller tredjepartsviderekoblinger er blokkert
+    .label = Ikke vis denne meldingen når sprettoppvinduer eller tredjepartvideresendinger er blokkert
     .accesskey = k
 edit-popup-settings2 =
-    .label = Behandle innstillinger for sprettoppvinduer og tredjepartsviderekoblinger …
+    .label = Behandle innstillinger for sprettoppvinduer og tredjepartvideresendinger …
     .accesskey = B
 
 ##
@@ -273,7 +273,7 @@ urlbar-screen-blocked =
 urlbar-persistent-storage-blocked =
     .tooltiptext = Du har blokkert vedvarende lagring for denne nettsiden.
 urlbar-popup-blocked2 =
-    .tooltiptext = Du har blokkert sprettoppvinduer og tredjepartsviderekoblinger for dette nettstedet.
+    .tooltiptext = Du har blokkert sprettoppvinduer og tredjepartvideresendinger for dette nettstedet.
 urlbar-popup-blocked =
     .tooltiptext = Du har blokkert sprettoppvinduer for dette nettstedet.
 urlbar-autoplay-media-blocked =
@@ -1179,7 +1179,7 @@ popups-infobar-block =
     .label = Blokker sprettoppvinduer fra { $uriHost }
     .accesskey = p
 popups-infobar-allow2 =
-    .label = Tillat sprettoppvinduer og tredjepartsviderekoblinger for { $uriHost }
+    .label = Tillat sprettoppvinduer og tredjepartvideresendinger for { $uriHost }
     .accesskey = s
 
 ##
@@ -1376,9 +1376,9 @@ popup-warning-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 redirect-warning-with-popup-message =
     { $popupCount ->
-        [0] { -brand-short-name } forhindret dette nettstedet fra å viderekoble.
-        [1] { -brand-short-name } forhindret dette nettstedet fra å åpne et sprettoppvindu og viderekoble.
-       *[other] { -brand-short-name } forhindret dette nettstedet fra å åpne { $popupCount } sprettoppvinduer og viderekoble.
+        [0] { -brand-short-name } forhindret dette nettstedet fra å videresende.
+        [1] { -brand-short-name } forhindret dette nettstedet fra å åpne et sprettoppvindu og videresende.
+       *[other] { -brand-short-name } forhindret dette nettstedet fra å åpne { $popupCount } sprettoppvinduer og videresende.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
@@ -1388,7 +1388,7 @@ popup-warning-exceeded-message = { -brand-short-name } forhindret dette nettsted
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-with-redirect-message =
     { $popupCount ->
-       *[other] { -brand-short-name } forhindret dette nettstedet fra å åpne mer enn { $popupCount } sprettoppvinduer og viderekoble.
+       *[other] { -brand-short-name } forhindret dette nettstedet fra å åpne mer enn { $popupCount } sprettoppvinduer og videresende.
     }
 popup-warning-button =
     .label =

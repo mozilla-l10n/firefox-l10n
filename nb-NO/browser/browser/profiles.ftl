@@ -146,6 +146,10 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Innstillingene for datainnsamling er endret.</strong> Endringene som er gjort i en annen profil gjelder for alle profiler på denne enheten.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Vis innstillinger
 # Secondary button label to dismiss the infobar without action
 multiprofile-data-collection-dismiss = Ignorer
 

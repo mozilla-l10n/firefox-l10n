@@ -492,3 +492,6 @@ restored-from-backup-success-no-checklist-subtitle = Du kan slå på sikkerhetsk
 restored-from-backup-success-with-checklist-primary-button = Lagre og fortsett
 restored-from-backup-success-with-checklist-secondary-button = Hopp over dette trinnet
 restored-from-backup-success-no-checklist-primary-button = Fortsett
+restored-from-backup-error-title = Hmm, det oppstod et problem med sikkerhetskopifilen din.
+restored-from-backup-error-subtitle = Hvis du har en annen sikkerhetskopifil for { -brand-short-name }, kan du prøve å gjenopprette fra den. <a data-l10n-name="restore-problems">Har du fortsatt problemer?</a>
+restored-from-backup-error-primary-button = Lukk
