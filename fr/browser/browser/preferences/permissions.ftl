@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Vous pouvez désactiver le mode HTTPS uniquement pour des sites web spécifiques. { -brand-short-name } n’essaiera pas de mettre à niveau vers une connexion HTTPS sécurisée pour ces sites. Les exceptions ne s’appliquent pas aux fenêtres privées.
 permissions-exceptions-https-only-desc2 = Vous pouvez désactiver le mode HTTPS uniquement pour des sites web spécifiques. { -brand-short-name } n’essaiera pas de mettre à niveau vers une connexion HTTPS sécurisée pour ces sites.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Sites autorisés - Popups et redirections tierces
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

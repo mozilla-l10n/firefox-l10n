@@ -1271,6 +1271,7 @@ content-blocking-etp-standard-tcp-title = Inclut la protection totale contre les
 content-blocking-warning-title = Attention !
 content-blocking-and-isolating-etp-warning-description-3 = Ce paramètre peut empêcher certains sites web d’afficher du contenu ou de fonctionner correctement. Nous proposons des exceptions facultatives pour les sites web que nous savons susceptibles d’être affectés par vos paramètres. Afin de diminuer le risque de dysfonctionnement des sites, il est conseillé d’autoriser ces exceptions pour les traqueurs. Si un site semble cassé, vous pouvez désactiver la protection contre le pistage pour ce site, charger l’ensemble du contenu et signaler le problème afin que nous puissions le résoudre pour tout le monde.
 content-blocking-warning-title-2 = Il se peut que certains sites ne fonctionnent pas correctement lorsque la protection stricte contre le pistage est activée
+content-blocking-warning-title-custom = Il se peut que certains sites ne fonctionnent pas correctement lorsque la protection personnalisée contre le pistage est activée
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recommande d’utiliser les paramètres « Résoudre les problèmes des sites » pour réduire le nombre de fonctionnalités et de contenus défectueux. Si un site semble cassé, essayez de désactiver la protection contre le pistage pour ce site afin de charger tout le contenu.
 content-blocking-and-isolating-etp-warning-description-2 = Ce paramètre peut empêcher certains sites web d’afficher du contenu ou de fonctionner correctement. Si un site semble cassé, vous pouvez désactiver la protection contre le pistage pour que ce site puisse charger tout le contenu.
@@ -1389,6 +1390,9 @@ permissions-autoplay = Lecture automatique
 permissions-autoplay-settings =
     .label = Paramètres…
     .accesskey = a
+permissions-block-popups2 =
+    .label = Bloquer les popups et les redirections tierces
+    .accesskey = B
 permissions-block-popups =
     .label = Bloquer les fenêtres popup
     .accesskey = B
