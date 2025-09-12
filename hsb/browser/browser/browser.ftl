@@ -1391,6 +1391,17 @@ popup-warning-message =
         [few] { -brand-short-name } je zadźěwał, zo tute sydło { $popupCount } wuskakowace wokna wočinja.
        *[other] { -brand-short-name } je zadźěwał, zo tute sydło { $popupCount } wuskakowacych woknow wočinja.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } je zadźěwał, zo tute sydło dale posrědkuje.
+        [1] { -brand-short-name } je zadźěwał, zo tute sydło wuskakowace wokno wočinja a dale posrědkuje.
+        [one] { -brand-short-name } je zadźěwał, zo tute sydło { $popupCount } wuskakowace wokno wočinja a dale posrědkuje.
+        [two] { -brand-short-name } je zadźěwał, zo tute sydło { $popupCount } wuskakowacej woknje wočinja a dale posrědkuje.
+        [few] { -brand-short-name } je zadźěwał, zo tute sydło { $popupCount } wuskakowace wokna wočinja a dale posrědkuje.
+       *[other] { -brand-short-name } je zadźěwał, zo tute sydło { $popupCount } wuskakowacych woknow wočinja a dale posrědkuje.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1400,6 +1411,15 @@ popup-warning-exceeded-message =
         [two] { -brand-short-name } je tute sydło při wočinjenju wyše { $popupCount } wuskakowaceju woknow haćił.
         [few] { -brand-short-name } je tute sydło při wočinjenju wyše { $popupCount } wuskakowacych woknow haćił.
        *[other] { -brand-short-name } je tute sydło pśi wočinjenju wyše { $popupCount } wuskakowacych woknow haćił.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } je zadźěwał, zo tute sydło wjace hač { $popupCount } wuskakowace wokno wočinja a dale posrědkuje.
+        [two] { -brand-short-name } je zadźěwał, zo tute sydło wjace hač { $popupCount } wuskakowacej woknje wočinja a dale posrědkuje.
+        [few] { -brand-short-name } je zadźěwał, zo tute sydło wjace hač { $popupCount } wuskakowace wokna wočinja a dale posrědkuje.
+       *[other] { -brand-short-name } je zadźěwał, zo tute sydło wjace hač { $popupCount } wuskakowacych woknow wočinja a dale posrědkuje.
     }
 popup-warning-button =
     .label =

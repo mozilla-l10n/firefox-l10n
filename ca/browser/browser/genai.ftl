@@ -11,6 +11,7 @@ genai-settings-chat-copilot-links = En triar Copilot, accepteu les <a data-l10n-
 genai-settings-chat-gemini-links = En triar Google Gemini, accepteu les <a data-l10n-name="link1">condicions del servei de Google</a>, la <a data-l10n-name="link2">política d'ús prohibit d'IA generativa</a> i l'<a data-l10n-name="link3">avís de privadesa de Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = En triar HuggingChat, accepteu l'<a data-l10n-name="link1">avís de privadesa de HuggingChat</a> i la <a data-l10n-name="link2">política de privadesa de Hugging Face</a>.
 genai-settings-chat-lechat-links = En triar Le Chat Mistral, accepteu les <a data-l10n-name="link1">condicions del servei</a> i la <a data-l10n-name="link2">política de privadesa</a> de Mistral AI .
+genai-settings-chat-localhost-links = Porteu el vostre bot de conversa local privat com ara <a data-l10n-name="link1">llamafile</a> del grup d'Innovació de { -vendor-short-name }.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -26,6 +27,10 @@ genai-prompts-summarize =
 genai-prompts-simplify =
     .label = Simplifica el llenguatge
     .value = Reescriu la selecció amb frases curtes i paraules entenedores. Mantén el significat i l’exactitud dels fets.
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Pregunta'm
+    .value = Fes-me preguntes sobre aquesta selecció. Fes-me diversos tipus de preguntes, com per exemple d'elecció múltiple, de cert o fals i de resposta curta. Espera la meva resposta abans de passar a la pregunta següent.
 # Prompt purpose: helps users understand words, phrases, concepts
 genai-prompts-explain =
     .label = Explica-ho
