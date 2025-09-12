@@ -477,3 +477,21 @@ dismiss-button-label = Verwerfen
 sync-to-mobile-button-label = Mit Mobilgerät synchronisieren
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-Code zum Herunterladen von { -brand-product-name } für Mobilgeräte
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Aus Backup wiederherstellen
+restore-from-backup-subtitle = Stellen Sie alle Lesezeichen, Chronik und andere Daten wieder her, um zum Surfen zurückzukehren.
+restore-from-backup-secondary-button = Nicht wiederherstellen
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Wir sind zurück! Ihre { -brand-short-name }-Daten wurden wiederhergestellt.
+restored-from-backup-success-with-checklist-subtitle = Möchten Sie Ihren bevorzugten Browser mit Fokus auf Datenschutz nur einen Klick entfernt haben?
+restored-from-backup-success-no-checklist-subtitle = Sie können die Datensicherung für dieses Gerät in den <a data-l10n-name="settings">Einstellungen</a> aktivieren.
+restored-from-backup-success-with-checklist-primary-button = Speichern und weiter
+restored-from-backup-success-with-checklist-secondary-button = Diesen Schritt überspringen
+restored-from-backup-success-no-checklist-primary-button = Weiter
+restored-from-backup-error-title = Hmm, es ist ein Problem mit Ihrer Sicherungsdatei aufgetreten.
+restored-from-backup-error-subtitle = Wenn Sie eine andere { -brand-short-name }-Backupdatei haben, versuchen Sie es mit dieser. <a data-l10n-name="restore-problems">Haben Sie weiterhin Probleme?</a>
+restored-from-backup-error-primary-button = Schließen
