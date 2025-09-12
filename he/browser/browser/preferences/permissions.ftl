@@ -98,6 +98,7 @@ permissions-exceptions-https-only-desc2 = באפשרותך לכבות את מצ�
 permissions-exceptions-popup-window3 =
     .title = אתרים מותרים - חלונות קופצים והפניות מצד שלישי
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = באפשרותך לציין אילו אתרים מורשים לפתוח חלונות קופצים ולהיות מופנים מחדש על־ידי מסגרות מצד שלישי.
 
 ## Exceptions - Pop-ups
 
@@ -125,7 +126,7 @@ permissions-exceptions-saved-passwords-desc = { -brand-short-name } לא ישמ�
 permissions-exceptions-addons-window2 =
     .title = אתרים מורשים - התקנת תוספות
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = באפשרותך לציין לאלו אתרים מותר להתקין תוספות. יש להקליד את הכתובת המדויקת של האתר שברצונך לאפשר ולאחר מכן ללחוץ על ״לאפשר״.
+permissions-exceptions-addons-desc = באפשרותך לציין אילו אתרים מורשים להתקין תוספות. יש להקליד את הכתובת המדויקת של האתר שברצונך להרשות וללחוץ על הרשה.
 
 ## Site Permissions - Autoplay
 
@@ -138,7 +139,7 @@ permissions-site-autoplay-window2 =
 permissions-site-notification-window2 =
     .title = הגדרות - הרשאות להתרעות
     .style = { permissions-window2.style }
-permissions-site-notification-desc = האתרים הבאים ביקשו לשלוח אליך התרעות. ניתן לציין לאילו אתרים מותר לשלוח אליך התרעות. ניתן גם לחסום בקשות חדשות לשליחת התרעות.
+permissions-site-notification-desc = האתרים הבאים ביקשו לשלוח אליך התרעות. באפשרותך לציין אילו אתרים מורשים לשלוח אליך התרעות. ניתן גם לחסום בקשות חדשות לשליחת התרעות.
 permissions-site-notification-disable-label =
     .label = חסימת בקשות חדשות להפעלת התרעות
 permissions-site-notification-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה לשליחת התרעות. חסימת התרעות עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
@@ -148,7 +149,7 @@ permissions-site-notification-disable-desc = הגדרה זו תמנע מאתרי
 permissions-site-location-window2 =
     .title = הגדרות - הרשאות מיקום
     .style = { permissions-window2.style }
-permissions-site-location-desc = האתרים הבאים ביקשו לגשת לנתוני המיקום שלך. באפשרותך לציין לאילו אתרים מותר לגשת לנתוני המיקום שלך. ניתן גם לחסום בקשות חדשות לגשת לנתוני המיקום שלך.
+permissions-site-location-desc = האתרים הבאים ביקשו לגשת לנתוני המיקום שלך. באפשרותך לציין אילו אתרים מורשים לגשת לנתוני המיקום שלך. ניתן גם לחסום בקשות חדשות לגשת לנתוני המיקום שלך.
 permissions-site-location-disable-label =
     .label = חסימת בקשות חדשות לקבלת גישה לנתוני המיקום שלך
 permissions-site-location-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה לנתוני המיקום שלך. חסימת הגישה לנתוני המיקום שלך עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
@@ -158,7 +159,7 @@ permissions-site-location-disable-desc = הגדרה זו תמנע מאתרים �
 permissions-site-xr-window2 =
     .title = הגדרות - הרשאות מציאות מדומה
     .style = { permissions-window2.style }
-permissions-site-xr-desc = האתרים הבאים ביקשו לגשת למכשירי המציאות המדומה שלך. באפשרותך לציין לאילו אתרים מותר לגשת למכשירי המציאות המדומה שלך. ניתן גם לחסום בקשות חדשות לגשת למכשירי המציאות המדומה שלך.
+permissions-site-xr-desc = האתרים הבאים ביקשו לגשת למכשירי המציאות המדומה שלך. באפשרותך לציין אילו אתרים מורשים לגשת למכשירי המציאות המדומה שלך. ניתן גם לחסום בקשות חדשות לגשת למכשירי המציאות המדומה שלך.
 permissions-site-xr-disable-label =
     .label = חסימת בקשות חדשות לקבלת גישה למכשירי המציאות המדומה שלך
 permissions-site-xr-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה למכשירי המציאות המדומה שלך. חסימת הגישה למכשירי המציאות המדומה שלך עשויה להפריע לפעולה של מגוון תכונות באתרים.
@@ -168,7 +169,7 @@ permissions-site-xr-disable-desc = הגדרה זו תמנע מאתרים שלא 
 permissions-site-camera-window2 =
     .title = הגדרות - הרשאות מצלמה
     .style = { permissions-window2.style }
-permissions-site-camera-desc = האתרים הבאים ביקשו לגשת למצלמה שלך. באפשרותך לציין לאילו אתרים מותר לגשת למצלמה שלך. ניתן גם לחסום בקשות חדשות לגשת למצלמה שלך.
+permissions-site-camera-desc = האתרים הבאים ביקשו לגשת למצלמה שלך. באפשרותך לציין אילו אתרים מורשים לגשת למצלמה שלך. ניתן גם לחסום בקשות חדשות לגשת למצלמה שלך.
 permissions-site-camera-disable-label =
     .label = חסימת בקשות חדשות לקבלת גישה למצלמה שלך
 permissions-site-camera-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה למצלמה שלך. חסימת הגישה למצלמה שלך עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
@@ -198,7 +199,7 @@ permissions-site-local-network-disable-desc = הגדרה זו תמנע מאתר�
 permissions-site-microphone-window2 =
     .title = הגדרות - הרשאות מיקרופון
     .style = { permissions-window2.style }
-permissions-site-microphone-desc = האתרים הבאים ביקשו לגשת למיקרופון שלך. באפשרותך לציין לאילו אתרים מותר לגשת למיקרופון שלך. ניתן גם לחסום בקשות חדשות לקבלת גישה למיקרופון שלך.
+permissions-site-microphone-desc = האתרים הבאים ביקשו לגשת למיקרופון שלך. באפשרותך לציין אילו אתרים מורשים לגשת למיקרופון שלך. ניתן גם לחסום בקשות חדשות לקבלת גישה למיקרופון שלך.
 permissions-site-microphone-disable-label =
     .label = חסימת בקשות חדשות לקבלת גישה למיקרופון שלך
 permissions-site-microphone-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה למיקרופון שלך. חסימת הגישה למיקרופון שלך עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
