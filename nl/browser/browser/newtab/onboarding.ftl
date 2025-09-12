@@ -481,9 +481,13 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Herstellen vanuit reservekopie
+restore-from-backup-title = Laten we { -brand-short-name } terugkrijgen zoals u het wilt
+restore-from-backup-subtitle = Herstel al uw bladwijzers, geschiedenis en andere gegevens om terug te keren naar surfen.
+restore-from-backup-secondary-button = Niet herstellen
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = We zijn terug! { -brand-short-name }-gegevens zijn hersteld.
 restored-from-backup-success-with-checklist-secondary-button = Deze stap overslaan
 restored-from-backup-success-no-checklist-primary-button = Doorgaan
 restored-from-backup-error-primary-button = Sluiten
