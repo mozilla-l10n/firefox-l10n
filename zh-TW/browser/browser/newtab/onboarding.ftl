@@ -469,3 +469,13 @@ desktop-to-mobile-qr-code-alt =
 
 restore-from-backup-secondary-top-button = 從備份還原
 restore-from-backup-title = 讓我們把 { -brand-short-name } 還原成您習慣的樣子
+restore-from-backup-subtitle = 還原您所有書籤、瀏覽紀錄與其他資料，即可繼續上網。
+restore-from-backup-secondary-button = 不要還原
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = 歡迎回來！已將您的 { -brand-short-name } 資料還原成功！
+restored-from-backup-success-with-checklist-primary-button = 儲存並繼續
+restored-from-backup-success-with-checklist-secondary-button = 跳過這步
+restored-from-backup-success-no-checklist-primary-button = 繼續
+restored-from-backup-error-primary-button = 關閉

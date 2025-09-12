@@ -144,12 +144,21 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = 套用自訂佈景主題
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = 檢視選項
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = 知道了！
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = 書本
 briefcase-avatar-alt =
     .alt = 公事包
+picture-avatar-alt =
+    .alt = 照片
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = 畫布
@@ -166,6 +175,8 @@ heart-avatar-alt =
     .alt = 愛心
 heart-rate-avatar-alt =
     .alt = 心律
+clock-avatar-alt =
+    .alt = 時鐘
 history-avatar-alt =
     .alt = 歷史
 leaf-avatar-alt =
@@ -190,6 +201,8 @@ present-avatar-alt =
     .alt = 禮物
 shopping-avatar-alt =
     .alt = 購物車
+soccer-ball-avatar-alt =
+    .alt = 足球
 soccer-avatar-alt =
     .alt = 足球
 sparkle-single-avatar-alt =
@@ -200,6 +213,9 @@ video-game-controller-avatar-alt =
     .alt = 遊戲手把
 custom-avatar-alt =
     .alt = 自訂大頭照
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = 地球
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = 預設最愛圖示

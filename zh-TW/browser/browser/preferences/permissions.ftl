@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = 您可以針對特定網站關閉純 HTTPS 模式。連線到這些網站時，{ -brand-short-name } 不會嘗試升級為安全的 HTTPS 連線。例外網站不會在隱私保護視窗中生效。
 permissions-exceptions-https-only-desc2 = 您可以針對特定網站關閉純 HTTPS 模式。連線到這些網站時，{ -brand-short-name } 不會嘗試升級為安全的 HTTPS 連線。
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = 允許彈出型視窗與第三方重新導向的網站
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = 您可以指定要針對哪些網站允許開啟彈出型視窗，並讓第三方畫框重新導向網頁。
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
