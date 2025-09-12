@@ -54,5 +54,29 @@ install-search-engine-no = Tidak
 add-engine-window =
     .title = Tambah Mesin Pencari
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Sunting Mesin Pencari
+    .style = min-width: 32em;
 add-engine-button = Tambahkan Mesin Khusus
 add-engine-name = Nama mesin pencari
+add-engine-url2 = URL dengan %s sebagai pengganti istilah pencarian
+add-engine-keyword2 = Kata kunci (opsional)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST data dengan %s sebagai pengganti istilah pencarian (biarkan kosong untuk GET)
+add-engine-suggest-url = URL saran dengan %s sebagai pengganti istilah pencarian (opsional)
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+add-engine-name-placeholder =
+    .placeholder = mis., Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = mis., https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = mis., @mdn
+
+## The following strings are used as error messages.
+
+add-engine-keyword-exists = Kata kunci tersebut sudah digunakan. Coba yang lain.
+add-engine-name-exists = Nama tersebut sudah digunakan. Silakan pilih yang lain.
+add-engine-no-name = Tambahkan nama.
+add-engine-no-url = Masukkan URL.
