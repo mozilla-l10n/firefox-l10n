@@ -133,6 +133,7 @@ windows-10-eos-sync-tour-title-2 = Bleiben Sie organisiert für Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synchronisieren Sie Lesezeichen, Passwörter und Einstellungen, um sie vor dem Wechseln zu sichern.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Weniger Empfehlungen anzeigen
+windows-10-eos-sync-dismiss-button-label = Schließen
 windows-10-eos-sync-callout-primary-advance-button-label = Weiter
 
 ## Sidebar Strings

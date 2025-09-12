@@ -432,3 +432,14 @@ dismiss-button-label = סגירה
 sync-to-mobile-button-label = סנכרון לנייד
 desktop-to-mobile-qr-code-alt =
     .aria-label = קוד QR להורדת { -brand-product-name } לנייד
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-subtitle = רוצה לשמור על הדפדפן המועדף עליך, שממוקד בפרטיות, במרחק לחיצה אחת?
+restored-from-backup-success-no-checklist-subtitle = ניתן להפעיל גיבוי עבור מכשיר זה ב<a data-l10n-name="settings">הגדרות</a>.
+restored-from-backup-success-with-checklist-primary-button = שמירה והמשך
+restored-from-backup-success-with-checklist-secondary-button = דילוג על השלב הזה
+restored-from-backup-success-no-checklist-primary-button = המשך
+restored-from-backup-error-title = הממ, הייתה בעיה עם קובץ הגיבוי שלך.
+restored-from-backup-error-subtitle = אם יש לך קובץ גיבוי נוסף של { -brand-short-name }, כדאי לנסות לשחזר ממנו. <a data-l10n-name="restore-problems">עדיין יש לך בעיות?</a>
+restored-from-backup-error-primary-button = סגירה

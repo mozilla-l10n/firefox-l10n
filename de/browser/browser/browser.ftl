@@ -1385,6 +1385,13 @@ redirect-warning-with-popup-message =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } hat diese Website daran gehindert, mehr als { $popupCount } Pop-up-Fenster öffnen.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } hat diese Website daran gehindert, mehr als { $popupCount } Pop-up-Fenster zu öffnen und weiterzuleiten.
+       *[other] { -brand-short-name } hat diese Website daran gehindert, mehr als { $popupCount } Pop-up-Fenster zu öffnen und weiterzuleiten.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
