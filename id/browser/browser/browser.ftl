@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Penjelajahan Pribadi
+popups-infobar-dont-show-message2 =
+    .label = Jangan tampilkan pesan ini saat pop-up atau pengalihan pihak ketiga diblokir
+    .accesskey = d
+edit-popup-settings2 =
+    .label = Kelola pengaturan pop-up dan pengalihan pihak ketiga…
+    .accesskey = n
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Anda telah memblokir situs ini untuk berbagi layar Anda.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Anda telah memblokir penyimpanan tetap untuk situs web ini.
+urlbar-popup-blocked2 =
+    .tooltiptext = Anda telah memblokir pop-up dan pengalihan pihak ketiga untuk situs web ini.
 urlbar-popup-blocked =
     .tooltiptext = Anda telah memblokir pop-up untuk situs web ini.
 urlbar-autoplay-media-blocked =
@@ -1154,6 +1162,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blokir pop-up untuk { $uriHost }
     .accesskey = i
+popups-infobar-allow2 =
+    .label = Izinkan pop-up dan pengalihan pihak ketiga untuk { $uriHost }
+    .accesskey = p
 
 ##
 
@@ -1339,10 +1350,21 @@ popup-notification-addon-technical-and-interaction-checkbox =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message = { -brand-short-name } telah mencegah situs ini untuk membuka { $popupCount } jendela pop-up.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } mencegah situs ini mengalihkan.
+        [1] { -brand-short-name } mencegah situs ini membuka jendela pop-up dan mengalihkan.
+       *[other] { -brand-short-name } mencegah situs ini membuka { $popupCount } jendela pop-up  dan mengalihkan.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } mencegah situs ini membuka lebih dari { $popupCount } jendela pop-up.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message = { -brand-short-name } mencegah situs ini membuka lebih dari { $popupCount } jendela pop-up dan mengalihkan.
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1358,6 +1380,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Tampilkan “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Tampilkan “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

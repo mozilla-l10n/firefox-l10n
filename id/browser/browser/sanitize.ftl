@@ -59,6 +59,7 @@ history-section-label = Riwayat
 item-history-and-downloads =
     .label = Riwayat Penjelajahan dan Unduhan
     .accesskey = R
+item-history-and-downloads-description2 = Bersihkan situs dan riwayat unduhan
 item-cookies =
     .label = Kuki
     .accesskey = K
