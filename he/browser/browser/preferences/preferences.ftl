@@ -1270,6 +1270,7 @@ content-blocking-etp-standard-tcp-title = כולל הגנת עוגיות מלא�
 content-blocking-warning-title = לתשומת לבך!
 content-blocking-and-isolating-etp-warning-description-3 = הגדרה זו עלולה לגרום לאתרים מסוימים לא להציג תוכן או לתפקד כראוי. אנו מספקים חריגות אופציונליות עבור אתרים שאנו יודעים שעשויים להיות מושפעים מהתצורה שלך. כדי להפחית את הסיכוי לאתרים שבורים, יש לאפשר את החריגות האלו. אם אתר נראה שבור, ניתן לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן ולדווח על הבעיה כדי שנוכל לסייע לתקן אותה עבור כולם.
 content-blocking-warning-title-2 = ייתכן שחלק מהאתרים לא יעבדו כשורה כשהגנת מעקב מחמירה פעילה
+content-blocking-warning-title-custom = ייתכן שחלק מהאתרים לא יעבדו כשורה כשהגנת מעקב מותאמת אישית פעילה
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = ‏{ -brand-short-name } ממליץ להשתמש בהגדרות ״תיקון בעיות באתרים״ כדי להפחית תכונות ותוכן שבורים באתרים. אם נראה שאתר מסוים לא פועל כשורה, ניתן לנסות לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן.
 content-blocking-and-isolating-etp-warning-description-2 = הגדרה זו עלולה לגרום לאתרים מסוימים שלא להציג תוכן או שלא לעבוד כראוי. אם נראה שאתר מסוים שבור, באפשרותך לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן.
@@ -1388,6 +1389,9 @@ permissions-autoplay = ניגון אוטומטי
 permissions-autoplay-settings =
     .label = הגדרות…
     .accesskey = ה
+permissions-block-popups2 =
+    .label = חסימת חלונות קופצים והפניות מצד שלישי
+    .accesskey = ח
 permissions-block-popups =
     .label = חסימת חלונות קופצים
     .accesskey = ח

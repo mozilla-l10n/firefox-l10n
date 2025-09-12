@@ -144,12 +144,23 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = החלת ערכת נושא מותאמת אישית
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>הגדרות איסוף הנתונים השתנו.</strong> השינויים שבוצעו בפרופיל אחר חלים על כל הפרופילים במכשיר זה.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = הצגת ההגדרות
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = סגירה
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = ספר
 briefcase-avatar-alt =
     .alt = מזוודה
+picture-avatar-alt =
+    .alt = תמונה
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = משטח ציור
@@ -166,6 +177,8 @@ heart-avatar-alt =
     .alt = לב
 heart-rate-avatar-alt =
     .alt = קצב לב
+clock-avatar-alt =
+    .alt = שעון
 history-avatar-alt =
     .alt = היסטוריה
 leaf-avatar-alt =
@@ -190,6 +203,8 @@ present-avatar-alt =
     .alt = מתנה
 shopping-avatar-alt =
     .alt = עגלת קניות
+soccer-ball-avatar-alt =
+    .alt = כדורגל
 soccer-avatar-alt =
     .alt = כדורגל
 sparkle-single-avatar-alt =
@@ -200,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = בקר משחקי וידאו
 custom-avatar-alt =
     .alt = תמונה מייצגת מותאמת אישית
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = גלובוס
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = סמל ברירת מחדל
