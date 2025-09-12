@@ -476,3 +476,9 @@ dismiss-button-label = Скрыть
 sync-to-mobile-button-label = Синхронизировать с мобильным
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-код для загрузки { -brand-product-name } для мобильных устройств
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Восстановить из резервной копии
+restore-from-backup-title = Давайте снова сделаем { -brand-short-name } таким, как вам нравится
+restore-from-backup-subtitle = Восстановите все ваши закладки, историю и другие данные, чтобы вернуться к веб-сёрфингу.

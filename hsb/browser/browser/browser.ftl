@@ -1195,6 +1195,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Wuskakowace wokna za { $uriHost } blokować
     .accesskey = u
+popups-infobar-allow2 =
+    .label = Wuskakowace wokna a dalesposrědkowanja třećich poskićowarjow za { $uriHost } dowolić
+    .accesskey = u
 
 ##
 
