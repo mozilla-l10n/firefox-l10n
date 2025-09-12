@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Тамошобинии махфӣ
+popups-infobar-dont-show-message2 =
+    .label = Ин паёмро нишон надиҳед вақте ки равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм манъ карда мешаванд
+    .accesskey = И
+edit-popup-settings2 =
+    .label = Идоракунии танзимоти равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм…
+    .accesskey = И
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Шумо барои ин сомона мубодилаи экрани худро манъ кардед.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Шумо барои ин сомона захирагоҳи доимии худро манъ кардед.
+urlbar-popup-blocked2 =
+    .tooltiptext = Шумо барои ин сомона равзанаҳои зоҳиршаванда ва тағйири масирро аз тарафҳои сеюм манъ кардед.
 urlbar-popup-blocked =
     .tooltiptext = Шумо барои ин сомона равзанаҳои зоҳиршавандаро манъ кардед.
 urlbar-autoplay-media-blocked =
@@ -1170,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Манъ кардани равзанаҳои зоҳиршаванда барои { $uriHost }
     .accesskey = М
+popups-infobar-allow2 =
+    .label = Иҷозат додани равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм барои { $uriHost }
+    .accesskey = И
 
 ##
 
@@ -1380,6 +1391,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Намоиш додани “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Намоиши «{ $redirectURI }»
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

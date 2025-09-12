@@ -477,3 +477,15 @@ dismiss-button-label = Нодида гузарондан
 sync-to-mobile-button-label = Ҳамоҳангсозӣ бо дастгоҳи мобилӣ
 desktop-to-mobile-qr-code-alt =
     .aria-label = Рамзи «QR» барои боргирӣ кардани версияи мобилии «{ -brand-product-name }»
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Барқарорсозӣ аз нусхаи эҳтиётӣ
+restore-from-backup-secondary-button = Барқарор карда нашавад
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Нигоҳ доред ва идома диҳед
+restored-from-backup-success-with-checklist-secondary-button = Нодида гузарондани ин қадам
+restored-from-backup-success-no-checklist-primary-button = Идома додан
+restored-from-backup-error-primary-button = Пӯшидан

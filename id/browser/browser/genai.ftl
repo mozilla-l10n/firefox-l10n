@@ -159,6 +159,13 @@ genai-onboarding-lechat-learn = Pelajari lebih lanjut tentang Le Chat
 genai-onboarding-select-header = Pilih teks untuk melihat saran
 genai-onboarding-select-description = Saat Anda memilih teks, kami akan menyarankan perintah yang dapat Anda kirim ke bot obrolan. Anda juga dapat menulis di prompt Anda sendiri.
 genai-onboarding-select-primary = Mulai mengobrol
+genai-chatbot-contextual-title = Gunakan chatbot AI tanpa berpindah tab
+genai-chatbot-contextual-subtitle = Mengobrol dan meramban secara berdampingan saat Anda menambahkan chatbot AI di bilah samping { -brand-short-name }.
+genai-chatbot-contextual-button = Pilih chatbot
+genai-chatbot-summarize-title = Baru! Ringkas laman dalam satu klik
+genai-chatbot-summarize-button = Ringkas laman
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Klik kanan pada chatbot AI Anda di bilah samping dan pilih “Ringkas Laman”.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
