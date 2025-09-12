@@ -223,3 +223,31 @@ link-preview-generation-retry = Coba lagi
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Pengaturan Pratinjau Tautan
+link-preview-settings-enable =
+    .label = Fungsikan pratinjau tautan
+    .description = Lihat judul halaman, deskripsi, dan yang lain ketika Anda memakai pintasan atau klik kanan pada suatu tautan.
+link-preview-settings-key-points =
+    .label = Izinkan AI untuk membaca awal laman dan menghasilkan poin-poin penting
+link-preview-settings-long-press =
+    .label = Pintasan: Klik dan tahan tautan selama 1 detik (tekan lama)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Lihat lebih banyak dengan AI?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } menggunakan AI untuk membaca awal laman dan menghasilkan beberapa poin kunci. Untuk memprioritaskan privasi Anda, ini terjadi pada perangkat Anda.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Baru: Klik dan tahan tautan apa saja untuk pratinjau
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Lihat deskripsi singkat, waktu membaca, dan lainnya untuk memutuskan apakah tautan layak dibuka. Juga tersedia di klik kanan.
+# Header for the key points section
+link-preview-key-points-header = Poin-poin penting
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Poin-poin kunci dihasilkan oleh AI dan mungkin memiliki kesalahan.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Penyiapan pertama kali • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Anda akan melihat poin-poin penting lebih cepat di lain waktu.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Lihat pratinjau
+# Onboarding card Close button
+link-preview-onboarding-close = Tutup
