@@ -146,6 +146,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>資料收集選項已變更。</strong>於另一個設定檔中變更的設定，對此裝置中的所有設定檔都生效。
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = 檢視選項
 # Secondary button label to dismiss the infobar without action

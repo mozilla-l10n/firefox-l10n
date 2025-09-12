@@ -475,7 +475,11 @@ restore-from-backup-secondary-button = 不要還原
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = 歡迎回來！已將您的 { -brand-short-name } 資料還原成功！
+restored-from-backup-success-with-checklist-subtitle = 想要維持讓您最愛的隱私保護瀏覽器，只要滑鼠一點就能立即使用嗎？
+restored-from-backup-success-no-checklist-subtitle = 您可以在<a data-l10n-name="settings">設定</a>當中，替此裝置開啟備份功能。
 restored-from-backup-success-with-checklist-primary-button = 儲存並繼續
 restored-from-backup-success-with-checklist-secondary-button = 跳過這步
 restored-from-backup-success-no-checklist-primary-button = 繼續
+restored-from-backup-error-title = 嗯…您的備份檔案有點問題。
+restored-from-backup-error-subtitle = 若您有其他的 { -brand-short-name } 備份檔，請嘗試還原該檔案。<a data-l10n-name="restore-problems">還有問題嗎？</a>
 restored-from-backup-error-primary-button = 關閉
