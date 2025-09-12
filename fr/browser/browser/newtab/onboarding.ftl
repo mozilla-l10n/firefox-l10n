@@ -481,6 +481,7 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Restaurer à partir d’une sauvegarde
+restore-from-backup-title = Reconfigurons { -brand-short-name } à votre goût
 restore-from-backup-subtitle = Récupérez tous vos marque-pages, votre historique et d’autres données pour reprendre votre navigation.
 restore-from-backup-secondary-button = Ne pas restaurer
 

@@ -98,6 +98,7 @@ permissions-exceptions-https-only-desc2 = Vous pouvez désactiver le mode HTTPS 
 permissions-exceptions-popup-window3 =
     .title = Sites autorisés - Popups et redirections tierces
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Vous pouvez spécifier quels sites web sont autorisés à ouvrir des fenêtres popup et être redirigés par des cadres tiers.
 
 ## Exceptions - Pop-ups
 
