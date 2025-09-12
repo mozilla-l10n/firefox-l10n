@@ -218,3 +218,4 @@ actions-callout-title = Completa le attività più comuni o accedi alle impostaz
 # "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Prova a digitare un’azione come “stampa” per stampare una pagina o “cancella” per cancellare la cronologia.
+

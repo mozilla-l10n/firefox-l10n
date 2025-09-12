@@ -11,3 +11,4 @@ fxa-qrcode-pair-step2-signin = 2. Apri il menu (<img data-l10n-name="ios-menu-ic
 fxa-qrcode-pair-step3 = 3. Tocca <strong>Pronto per la scansione</strong> e inquadra questo codice con il tuo dispositivo
 fxa-qrcode-error-title = Associazione non riuscita
 fxa-qrcode-error-body = Riprova.
+

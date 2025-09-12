@@ -12,3 +12,4 @@ site-permissions-open-blocked-popups =
     }
 # This string is used to display the option to unblock a third-party redirect.
 site-permissions-unblock-redirect = Sblocca reindirizzamenti di terze parti…
+
