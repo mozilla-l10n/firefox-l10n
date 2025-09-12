@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = ¿Demasiadas pestañas? Ordénalas con grupos
 windows-10-eos-sync-tour-subtitle-1 = Arrastra una pestaña sobre otra para crear un grupo y mantener las cosas organizadas.
 windows-10-eos-sync-tour-title-2 = Organízate para Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Sincroniza tus marcadores, contraseñas y ajustes para hacer una copia de seguridad de ellos antes de cambiar.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Mostrar menos recomendaciones
+windows-10-eos-sync-dismiss-button-label = Ocultar
+windows-10-eos-sync-callout-primary-advance-button-label = Siguiente
 
 ## Sidebar Strings
 

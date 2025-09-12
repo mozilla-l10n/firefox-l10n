@@ -476,3 +476,15 @@ dismiss-button-label = Ocultar
 sync-to-mobile-button-label = Sincronización con el móvil
 desktop-to-mobile-qr-code-alt =
     .aria-label = Código QR para descargar { -brand-product-name } para móviles
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Restaurar desde una copia de seguridad
+restore-from-backup-title = Recuperemos { -brand-short-name } como te gusta
+restore-from-backup-subtitle = Recupera todos tus marcadores, historial y otros datos para volver a navegar.
+restore-from-backup-secondary-button = No restaurar
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = ¡Estamos de vuelta! Tus datos de { -brand-short-name } han sido restaurados.
+restored-from-backup-success-with-checklist-subtitle = ¿Quieres tener tu navegador preferido centrado en la privacidad a un solo clic de distancia?
