@@ -8,6 +8,9 @@
 newtab-page-title = Tab Baru
 newtab-settings-button =
     .title = Ubahsuai laman Tab Baru Anda
+newtab-customize-panel-icon-button =
+    .title = Ubahsuai laman ini
+newtab-customize-panel-icon-button-label = Sesuaikan
 newtab-personalize-settings-icon-label =
     .title = Personalisasikan Tab Baru
     .aria-label = Pengaturan
@@ -85,6 +88,14 @@ newtab-confirm-delete-history-p2 = Tindakan ini tidak bisa diurungkan.
 
 newtab-topsite-sponsored = Bersponsor
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (disematkan)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -120,6 +131,8 @@ newtab-menu-delete-pocket = Hapus dari { -pocket-brand-name }
 newtab-menu-archive-pocket = Arsip di { -pocket-brand-name }
 newtab-menu-show-privacy-info = Sponsor kami & privasi Anda
 newtab-menu-about-fakespot = Tentang { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Laporkan
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Blokir
@@ -189,6 +202,8 @@ newtab-label-sponsored-by = Disponsori oleh { $sponsor }
 #   $source (string) - The name of a company or their domain
 #   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } ・ { $timeToRead } mnt
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = Disponsori
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -299,6 +314,9 @@ newtab-custom-pocket-subtitle = Konten luar biasa yang dikelola oleh { -pocket-b
 newtab-custom-stories-toggle =
     .label = Cerita yang direkomendasikan
     .description = Konten luar biasa yang dikurasi oleh keluarga { -brand-product-name }
+newtab-custom-stories-personalized-toggle =
+    .label = Cerita
+newtab-custom-stories-personalized-checkbox-label = Cerita yang dipersonalisasi berdasarkan aktivitas Anda
 newtab-custom-pocket-sponsored = Konten bersponsor
 newtab-custom-pocket-show-recent-saves = Tampilkan penyimpanan terbaru
 newtab-custom-recent-title = Aktivitas terbaru
@@ -306,6 +324,15 @@ newtab-custom-recent-subtitle = Pilihan situs dan konten terbaru
 newtab-custom-weather-toggle =
     .label = Cuaca
     .description = Sekilas prakiraan cuaca hari ini
+newtab-custom-widget-weather-toggle =
+    .label = Cuaca
+newtab-custom-widget-lists-toggle =
+    .label = Daftar
+newtab-custom-widget-section-title = Widget
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Tutup
+    .aria-label = Tutup menu
 newtab-custom-close-button = Tutup
 newtab-custom-settings = Kelola pengaturan lainnya
 
@@ -318,6 +345,7 @@ newtab-wallpaper-custom-color = Pilih warna
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Gambar melebihi batas ukuran berkas sebesar { $file_size }MB. Coba unggah berkas yang lebih kecil.
+newtab-wallpaper-error-upload-file-type = Kami tidak dapat mengunggah berkas Anda. Silakan coba lagi dengan berkas gambar.
 newtab-wallpaper-error-file-type = Kami tidak dapat mengunggah berkas Anda. Silakan coba lagi dengan jenis berkas yang berbeda.
 newtab-wallpaper-light-red-panda = Panda merah
 newtab-wallpaper-light-mountain = Pegunungan putih
@@ -488,6 +516,7 @@ newtab-topic-selection-button-pick-interests = Pilih minat Anda
 newtab-section-follow-button = Ikuti
 newtab-section-following-button = Mengikuti
 newtab-section-unfollow-button = Berhenti mengikuti
+newtab-section-follow-highlight-subtitle = Ikuti minat Anda untuk melihat lebih banyak hal yang Anda sukai.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -519,6 +548,12 @@ newtab-custom-wallpaper-title = Wallpaper kustom ada di sini
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Unggah wallpaper sendiri atau pilih warna kustom untuk menjadikan { -brand-product-name } lebih personal.
 newtab-custom-wallpaper-cta = Coba sekarang
+
+## Strings for download mobile highlight
+
+newtab-download-mobile-highlight-title = Unduh { -brand-product-name } untuk seluler
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Pindai kode untuk menjelajah dengan aman saat bepergian.
 
 ## Strings for reporting ads and content
 

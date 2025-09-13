@@ -32,3 +32,5 @@ taskbar-tab-shortcut-folder = Aplikasi Web { -brand-short-name }
 
 taskbar-tab-audio-mute =
     .tooltiptext = Bisukan Tab
+taskbar-tab-audio-unmute =
+    .tooltiptext = Suarakan Tab
