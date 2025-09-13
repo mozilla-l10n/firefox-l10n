@@ -272,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Você bloqueou o compartilhamento de tela neste site.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Você bloqueou o armazenamento persistente deste site.
+urlbar-popup-blocked2 =
+    .tooltiptext = Você bloqueou abertura de janelas e redirecionamento de terceiros neste site.
 urlbar-popup-blocked =
     .tooltiptext = Você bloqueou abertura de janelas ou abas neste site.
 urlbar-autoplay-media-blocked =
@@ -1176,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloquear abertura de janelas ou abas de { $uriHost }
     .accesskey = B
+popups-infobar-allow2 =
+    .label = Permitir abertura de janelas e redirecionamento de terceiros em { $uriHost }
+    .accesskey = P
 
 ##
 
@@ -1385,6 +1390,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mostrar “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Mostrar “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

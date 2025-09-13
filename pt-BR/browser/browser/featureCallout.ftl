@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Muitas abas? Organize com grupos de abas.
 windows-10-eos-sync-tour-subtitle-1 = Arraste uma aba sobre outra para criar um grupo e manter as coisas organizadas.
 windows-10-eos-sync-tour-title-2 = Prepare-se para o Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Sincronize seus favoritos, senhas e configurações para ter cópia de segurança antes de mudar.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Mostrar menos recomendações
+windows-10-eos-sync-dismiss-button-label = Descartar
+windows-10-eos-sync-callout-primary-advance-button-label = Próximo
 
 ## Sidebar Strings
 
