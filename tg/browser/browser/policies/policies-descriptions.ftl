@@ -79,6 +79,7 @@ policy-ExtensionSettings = Ҳамаи тарафҳои насбкунии вас
 policy-ExtensionUpdate = Навсозиҳои худкори васеъшавиро фаъол ё ғайрифаъол мекунад.
 policy-FirefoxHome2 = «{ -firefox-home-brand-name }»-ро танзим мекунад.
 policy-FirefoxSuggest = Танзимоти «{ -firefox-suggest-brand-name }».
+policy-GenerativeAI = Хусусиятҳои зеҳни сунъии (AI) эҷодкориро танзим мекунад.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Гузариши маҷбурии мустақим ба сомонаи шабакаи дохилӣ ба ивази амали ҷустуҷӯ ҳангоми воридкунии калимаҳои алоҳида дар навори нишонӣ.
 policy-Handlers = Коркарди пешфарзи барномаро танзим мекунад.
 policy-HardwareAcceleration = Дар ҳолати «false» суръатафзои сахтафзор хомӯш карда мешавад.
