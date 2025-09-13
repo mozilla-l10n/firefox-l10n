@@ -28,3 +28,11 @@ update-adminDisabled = دؽوۉدار سیستوم تووݩ ورۊ رسۊویا 
 update-policy-disabled = ورۊ رسۊویا و دست سازمووݩ ایسا قیر فعال وابیڌه
 update-noUpdatesFound = { -brand-short-name } ورۊ هڌ
 aboutdialog-update-checking-failed = واجۊری سی ورۊ رسۊویا شکست خرد.
+update-otherInstanceHandlingUpdates = { -brand-short-name } هونی ز ی نمووه دی ورۊ ابۊ
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
+aboutdialog-update-manual-with-link = ورۊ رسۊویا من <label data-l10n-name="manual-link">{ $displayUrl }</label> هڌسووݩ
+settings-update-manual-with-link = ورۊ رسۊویا من <a data-l10n-name="manual-link">{ $displayUrl }</a> هڌسووݩ
+update-unsupported = ری ای سیستوم نترین بیشتر ز یو ورۊ کۊنین. <label data-l10n-name="unsupported-link">قلوه دووسته بۊین</label>
