@@ -125,7 +125,7 @@ popups-infobar-dont-show-message2 =
     .accesskey = N
 edit-popup-settings2 =
     .label = Gestioneu la configuració de les finestres emergents i la redirecció de tercers…
-    .accesskey = { "" }
+    .accesskey = G
 
 ##
 
@@ -1407,6 +1407,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mostra «{ $popupURI }»
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Mostra “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

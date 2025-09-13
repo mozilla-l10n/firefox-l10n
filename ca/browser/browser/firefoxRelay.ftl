@@ -55,7 +55,7 @@ firefox-relay-and-fxa-opt-in-confirmation-disable =
     .accesskey = D
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Ara no
-    .accesskey = N
+    .accesskey = A
 
 ## The "control" variation of the Relay offer popup
 
