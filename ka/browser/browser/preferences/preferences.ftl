@@ -1230,8 +1230,8 @@ content-blocking-rfp-incompatibility-warning = თუ ჩართული გ�
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = ჩვეულებრივი
-    .accesskey = ჩ
+    .label = საშუალო
+    .accesskey = უ
 enhanced-tracking-protection-setting-strict =
     .label = მკაცრი
     .accesskey = კ

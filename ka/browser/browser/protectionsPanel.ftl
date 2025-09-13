@@ -13,8 +13,8 @@ protections-popup-footer-protection-label-strict = მკაცრი
     .label = მკაცრი
 protections-popup-footer-protection-label-custom = მორგებული
     .label = მორგებული
-protections-popup-footer-protection-label-standard = ჩვეულებრივი
-    .label = ჩვეულებრივი
+protections-popup-footer-protection-label-standard = საშუალო
+    .label = საშუალო
 
 ##
 
