@@ -477,6 +477,21 @@ sync-to-mobile-button-label = Συγχρονισμός με κινητή συσ�
 desktop-to-mobile-qr-code-alt =
     .aria-label = Κωδικός QR για τη λήψη του { -brand-product-name } για κινητές συσκευές
 
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Επαναφορά από αντίγραφο ασφαλείας
+restore-from-backup-title = Ας επαναφέρουμε το { -brand-short-name } όπως σας αρέσει
+restore-from-backup-subtitle = Ανακτήστε όλους τους σελιδοδείκτες, το ιστορικό και άλλα δεδομένα σας για να συνεχίσετε την περιήγηση.
+restore-from-backup-secondary-button = Να μην γίνει επαναφορά
+
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Επιστρέψαμε! Έγινε επαναφορά των δεδομένων σας στο { -brand-short-name }.
+restored-from-backup-success-with-checklist-subtitle = Θέλετε να κρατήσετε το αγαπημένο σας πρόγραμμα περιήγησης με ένα κλικ μακριά;
+restored-from-backup-success-no-checklist-subtitle = Μπορείτε να ενεργοποιήσετε τη δημιουργία αντιγράφων ασφαλείας σε αυτήν τη συσκευή στις <a data-l10n-name="settings">Ρυθμίσεις</a>.
+restored-from-backup-success-with-checklist-primary-button = Αποθήκευση και συνέχεια
+restored-from-backup-success-with-checklist-secondary-button = Παράβλεψη βήματος
+restored-from-backup-success-no-checklist-primary-button = Συνέχεια
+restored-from-backup-error-title = Παρουσιάστηκε πρόβλημα με το αντίγραφο ασφαλείας σας.
+restored-from-backup-error-subtitle = Αν έχετε κάποιο άλλο αντίγραφο ασφαλείας του αρχείου { -brand-short-name }, δοκιμάστε να κάνετε επαναφορά από αυτό. <a data-l10n-name="restore-problems">Ακόμα έχετε προβλήματα;</a>
 restored-from-backup-error-primary-button = Κλείσιμο

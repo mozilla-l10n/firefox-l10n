@@ -144,12 +144,21 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Emoĩ téma nemba’etéva
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Ehecha ñemboheko
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Mboyke
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Aranduka
 briefcase-avatar-alt =
     .alt = Kuatiaryru
+picture-avatar-alt =
+    .alt = Ta’ãnga
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canvas
@@ -166,6 +175,8 @@ heart-avatar-alt =
     .alt = Korasõ
 heart-rate-avatar-alt =
     .alt = Korasõ tytýi
+clock-avatar-alt =
+    .alt = Aravopapaha
 history-avatar-alt =
     .alt = Tembiasakue
 leaf-avatar-alt =
@@ -190,6 +201,8 @@ present-avatar-alt =
     .alt = Oĩva
 shopping-avatar-alt =
     .alt = Mba’yruguata’i jejoguaha
+soccer-ball-avatar-alt =
+    .alt = Mangapy pelóta
 soccer-avatar-alt =
     .alt = Mangapykuaa
 sparkle-single-avatar-alt =
@@ -200,6 +213,9 @@ video-game-controller-avatar-alt =
     .alt = Videojuego rechaha
 custom-avatar-alt =
     .alt = Avatar mboavapyre
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Yvy ra’ãnga
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Favicon ypykuéva
@@ -215,6 +231,7 @@ bike-avatar-alt =
 
 book-avatar = Aranduka
 briefcase-avatar = Kuatiaryru
+clock-avatar = Aravopapaha
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +243,8 @@ default-favicon-avatar = Favicon ypykuéva
 diamond-avatar = Itavera
 flower-avatar = Yvoty
 folder-avatar = Ñongatuha
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Yvy ra’ãnga
 hammer-avatar = Mbotaha
 heart-avatar = Korasõ
 heart-rate-avatar = Korasõ tytýi
@@ -238,10 +257,12 @@ message-avatar = Ñe’ẽmondo
 musical-note-avatar = Purahéi nóta
 palette-avatar = Paléta
 paw-print-avatar = Pypore
+picture-avatar = Ta’ãnga
 plane-avatar = Aviõ
 # Present refers to a gift box, not the current time period
 present-avatar = Oĩva
 shopping-avatar = Mba’yruguata’i jejoguaha
+soccer-ball-avatar = Mangapy pelóta
 soccer-avatar = Mangapykuaa
 sparkle-single-avatar = Mba’erendy
 star-avatar = Mbyja
@@ -256,3 +277,10 @@ custom-avatar-drag-handle =
     .aria-label = Emoambue ñekytirã tuichakue
 barbell-avatar = Bárra mba’epohýi reheve
 bike-avatar = Vísi
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Embohéra avatar rupa
+bike-avatar-tooltip =
+    .tooltiptext = Embohéra bicicleta avatar

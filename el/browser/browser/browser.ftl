@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Ιδιωτική περιήγηση
+popups-infobar-dont-show-message2 =
+    .label = Να μην εμφανίζεται αυτό το μήνυμα όταν αποκλείονται αναδυόμενα παράθυρα ή ανακατευθύνσεις τρίτων
+    .accesskey = D
+edit-popup-settings2 =
+    .label = Διαχείριση αναδυόμενων παραθύρων και ρυθμίσεων ανακατεύθυνσης τρίτων…
+    .accesskey = M
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Έχετε αποκλείσει την κοινή χρήση οθόνης σε αυτόν τον ιστότοπο.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Έχετε αποκλείσει τη μόνιμη αποθήκευση σε αυτόν τον ιστότοπο.
+urlbar-popup-blocked2 =
+    .tooltiptext = Έχετε αποκλείσει αναδυόμενα παράθυρα και ανακατευθύνσεις τρίτων σε αυτόν τον ιστότοπο.
 urlbar-popup-blocked =
     .tooltiptext = Έχετε αποκλείσει τα αναδυόμενα παράθυρα σε αυτόν τον ιστότοπο.
 urlbar-autoplay-media-blocked =
@@ -1170,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Φραγή αναδυόμενων παραθύρων στο { $uriHost }
     .accesskey = δ
+popups-infobar-allow2 =
+    .label = Αποδοχή αναδυόμενων παραθύρων και ανακατευθύνσεων τρίτων για το { $uriHost }
+    .accesskey = p
 
 ##
 
@@ -1380,6 +1391,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Εμφάνιση του «{ $popupURI }»
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Εμφάνιση του «{ $redirectURI }»
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

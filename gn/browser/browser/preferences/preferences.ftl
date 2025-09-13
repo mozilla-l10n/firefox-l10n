@@ -1270,6 +1270,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Kuaave
 content-blocking-etp-standard-tcp-title = Oikehápe Total Cookie Protection, ore ñemigua rembiapoite imbaretevéva ko’ag̃aite peve
 content-blocking-warning-title = ¡Ema’ẽmi!
 content-blocking-warning-title-2 = Oĩ tenda ikatúva ombyai ñemo’ã jehapykueho rehegua.
+content-blocking-warning-title-custom = Oĩ tenda ikatúva ombyai ñemo’ã jehapykueho rehegua.
 content-blocking-and-isolating-etp-warning-description-2 = Ko ñemoĩporã ikatu peteĩva ñanduti renda ndohechaukái tetepy térã ndoikoporãmbái. Peteĩ tenda ndojehechaukaporãirõ, ikatu oipe’a ñemo’ã jehapykuehogua omyanyhẽmba hag̃ua tetepy.
 content-blocking-warning-learn-how = Mba’éichapa eikuaáta
 content-blocking-baseline-exceptions =
