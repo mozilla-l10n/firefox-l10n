@@ -117,6 +117,15 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Navegação privada
        *[other] Navegação privada do { -brand-full-name }
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Navegação privada
+popups-infobar-dont-show-message2 =
+    .label = Não mostrar esta mensagem quando os pop-ups ou redirecionamentos de terceiros estão bloqueados
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Gerir definições de pop-ups e redirecionamento de terceiros…
+    .accesskey = G
 
 ##
 
@@ -143,6 +152,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Abrir painel de mensagem
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Abrir painel de solicitação de localização
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Gerir o acesso local ao dispositivo para este site
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Gerir a partilha do seu acesso à rede local com este site
 urlbar-xr-notification-anchor =
     .tooltiptext = Abrir painel de permissão da realidade virtual
 urlbar-storage-access-anchor =
@@ -209,6 +222,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Mostrar com menos frequência
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Não mostrar sugestões de meteorologia
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Abrir menu
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Obrigado pela sua opinião
