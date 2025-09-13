@@ -170,6 +170,7 @@ genai-chatbot-contextual-subtitle = Xategeu i navegueu costat per costat quan af
 genai-chatbot-contextual-button = Trieu un bot de conversa
 genai-chatbot-summarize-title = Nou! Resumiu pàgines amb un sol clic
 genai-chatbot-summarize-button = Resumeix la pàgina
+genai-chatbot-summarize-footer-generic-subtitle = Afegiu un bot de conversa d'IA a la barra lateral del { -brand-short-name } per a resumir ràpidament les pàgines.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -194,6 +195,8 @@ genai-onboarding-lechat-price = Gratuït; cal un compte
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Continua
 genai-model-optin-optout =
     .label = Cancel·la
 genai-model-optin-cancel =
@@ -201,6 +204,20 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } minut de temps de lectura
+       *[other] { $range } minuts de temps de lectura
+    }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = No podem previsualitzar aquest enllaç
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visita l’enllaç
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
@@ -209,3 +226,6 @@ link-preview-generation-error-missing-data = No podem generar els punts clau d�
 link-preview-generation-error-unexpected = Alguna cosa ha anat malament.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Torna-ho a provar
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Configuració de previsualització d'enllaços
