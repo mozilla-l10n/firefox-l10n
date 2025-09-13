@@ -310,3 +310,12 @@ heart-rate-avatar-tooltip =
     .tooltiptext = Embohéra korasõ tytýi avatar
 clock-avatar-tooltip =
     .tooltiptext = Embohéra aravopapaha avatar
+leaf-avatar-tooltip =
+    .tooltiptext = Embohéra togue avatar
+lightbulb-avatar-tooltip =
+    .tooltiptext = Embohéra lamparíta avatar
+makeup-avatar-tooltip =
+    .tooltiptext = Embohéra makilláge avatar
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Embohéra ñe’ẽmondo avatar

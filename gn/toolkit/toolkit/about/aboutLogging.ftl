@@ -102,3 +102,9 @@ about-logging-upload-error = Oiko peteĩ jejavy ehupikuévo pe mba’ete: { $err
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Oiko peteĩ jejavy eñongatukuévo mba’ete: { $errorText }
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = Mboguete
+about-logging-view-uploaded-profile = Ehecha mba’ete
+about-logging-delete-profile-confirm-title = Mba’ete Mboguete
