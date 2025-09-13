@@ -294,12 +294,16 @@ fxa-menu-message-close-button =
     .aria-label = Tanca
 fxa-menu-message-sign-up-button = Registre
 fxa-menu-message-sign-in-button = Inicia la sessió
+fxa-menu-message-sync-button = Inicia la sincronització
 fxa-menu-message-sync-devices-primary-text = Sincronitzeu tots els dispositius
 fxa-menu-message-sync-devices-collapsed-text = Sincronitzeu tots els dispositius
 fxa-menu-message-backup-data-primary-text = Feu una còpia de seguretat de les dades del navegador
 fxa-menu-message-backup-data-secondary-text = Protegiu automàticament les adreces d'interès, les contrasenyes i altra informació a tots els vostres dispositius.
 fxa-menu-message-backup-data-collapsed-text = Feu una còpia de seguretat de les dades del navegador
 fxa-menu-message-backup-sync-primary-text = Protegiu i sincronitzeu les vostres dades
+fxa-menu-message-backup-sync-secondary-text = La sincronització fa una còpia de seguretat de la major part de les vostres dades perquè pugueu accedir-hi a qualsevol lloc on feu servir el { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Sincronitzeu i feu una còpia de seguretat de les dades
+fxa-menu-message-mobile-primary-text = Envieu pestanyes al telèfon
 
 ## Multi-CTA Fox Doodle Spotlight
 
