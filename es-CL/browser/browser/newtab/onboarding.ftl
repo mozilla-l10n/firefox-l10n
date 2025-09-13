@@ -488,3 +488,10 @@ restore-from-backup-secondary-button = No restaurar
 
 restored-from-backup-success-title = ¡Estamos de vuelta! Tus datos de { -brand-short-name } han sido restaurados.
 restored-from-backup-success-with-checklist-subtitle = ¿Quieres tener tu navegador preferido centrado en la privacidad a un solo clic de distancia?
+restored-from-backup-success-no-checklist-subtitle = Puedes activar la copia de seguridad para este dispositivo en <a data-l10n-name="settings">Ajustes</a>.
+restored-from-backup-success-with-checklist-primary-button = Guardar y continuar
+restored-from-backup-success-with-checklist-secondary-button = Saltar este paso
+restored-from-backup-success-no-checklist-primary-button = Continuar
+restored-from-backup-error-title = Hmm, hubo un problema con tu archivo de respaldo.
+restored-from-backup-error-subtitle = Si tienes otro archivo de respaldo { -brand-short-name }, intenta restaurar desde ese. <a data-l10n-name="restore-problems">¿Aún tiene problemas?</a>
+restored-from-backup-error-primary-button = Cerrar

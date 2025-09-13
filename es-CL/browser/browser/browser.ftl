@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navegación privada
+popups-infobar-dont-show-message2 =
+    .label = No mostrar este mensaje cuando las ventanas emergentes o las redirecciones de terceros estén bloqueadas
+    .accesskey = D
+edit-popup-settings2 =
+    .label = Administrar la configuración de ventanas emergentes y redireccionamientos de terceros…
+    .accesskey = M
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Has bloqueado a este sitio la posibilidad de compartir tu pantalla.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Has bloqueado el almacenamiento persistente para este sitio.
+urlbar-popup-blocked2 =
+    .tooltiptext = Has bloqueado las ventanas emergentes y las redirecciones de terceros para este sitio web.
 urlbar-popup-blocked =
     .tooltiptext = Bloqueaste las ventanas emergentes para este sitio web.
 urlbar-autoplay-media-blocked =
@@ -1173,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloquear ventanas emergentes para { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Permitir ventanas emergentes y redirecciones de terceros para { $uriHost }
+    .accesskey = p
 
 ##
 
@@ -1364,10 +1375,26 @@ popup-warning-message =
         [one] { -brand-short-name } ha evitado que este sitio abra una ventana emergente.
        *[other] { -brand-short-name } ha evitado que este sitio abra { $popupCount } ventanas emergentes.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } ha evitado que este sitio redireccionara.
+        [1] { -brand-short-name } ha evitado que este sitio abra { $popupCount } ventana emergente y redireccionara.
+        [one] { -brand-short-name } ha evitado que este sitio abra { $popupCount } ventana emergente y redireccionara.
+       *[other] { -brand-short-name } ha evitado que este sitio abra { $popupCount } ventanas emergentes y redireccionara.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventanas emergentes.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ha evitado que este sitio abra { $popupCount } ventana emergente y redireccionara.
+       *[other] { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventanas emergentes y redireccionara.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->

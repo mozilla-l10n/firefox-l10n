@@ -1271,6 +1271,7 @@ content-blocking-etp-standard-tcp-title = Incluye la protección total contra co
 content-blocking-warning-title = ¡Atención!
 content-blocking-and-isolating-etp-warning-description-3 = Este ajuste puede provocar que algunos sitios web no muestren el contenido o no funcionen correctamente. Ofrecemos excepciones opcionales para los sitios web que sabemos que pueden verse afectados por tu configuración. Para reducir la probabilidad de que los sitios web fallen, habilita estas excepciones de seguimiento. Si un sitio web parece estar dañado, puedes desactivar la protección de seguimiento para que cargue todo el contenido e informar del problema para que podamos solucionarlo.
 content-blocking-warning-title-2 = Algunos sitios pueden romper la estricta protección de seguimiento.
+content-blocking-warning-title-custom = Algunos sitios pueden romper la protección de seguimiento personalizada.
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recomienda usar la configuración "Solucionar problemas del sitio" para reducir el número de funciones y contenido defectuosos. Si un sitio parece estar dañado, desactiva la protección de rastreo para que cargue todo el contenido.
 content-blocking-and-isolating-etp-warning-description-2 = Este ajuste puede hacer que algunos sitios web no muestren contenido o que no funcionen correctamente. Si un sitio parece roto, puede que desees desactivar la protección contra seguimiento para que ese sitio cargue todo el contenido.
@@ -1389,6 +1390,9 @@ permissions-autoplay = Autoreproducción
 permissions-autoplay-settings =
     .label = Ajustes…
     .accesskey = t
+permissions-block-popups2 =
+    .label = Bloquear ventanas emergentes y redirecciones de terceros
+    .accesskey = B
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
