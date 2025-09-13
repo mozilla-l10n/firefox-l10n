@@ -8,7 +8,7 @@ about-logging-page-title = აღრიცხვების მმართვ�
 about-logging-current-log-file = მიმდინარე აღრიცხვის ფაილი:
 about-logging-new-log-file = აღრიცხვის ახალი ფაილი:
 about-logging-currently-enabled-log-modules = აღრიცხვის ამჟამად მოქმედი მოდულები:
-about-logging-log-tutorial = ეწვიეთ ბმულს <a data-l10n-name="logging">HTTP აღრიცხვა,</a> ამ ხელსაწყოს მოხმარების წესების გასაცნობად.
+about-logging-log-tutorial = იხილეთ <a data-l10n-name="logging">HTTP-აღრიცხვა</a> ამ ხელსაწყოს მოხმარების წესების გასაცნობად.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = საქაღალდის გახსნა
 about-logging-set-log-file = აღრიცხვის ფაილის მითითება
@@ -24,7 +24,7 @@ about-logging-log-modules-selection = აღრიცხვის მოდუ�
 about-logging-new-log-modules = აღრიცხვის ახალი მოდულები:
 about-logging-logging-output-selection = აღრიცხულის გამოტანა
 about-logging-logging-to-file = აღრიცხვა ფაილში
-about-logging-logging-to-profiler = აღრიცხვა { -profiler-brand-name }-ში
+about-logging-logging-to-profiler = აღრიცხავს { -profiler-brand-name }
 about-logging-no-log-modules = არცერთი
 about-logging-no-log-file = არცერთი
 about-logging-logging-preset-selector-text = აღრიცხვის მზა პარამეტრები:
