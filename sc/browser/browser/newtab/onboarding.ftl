@@ -439,6 +439,7 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Agata is grupos chi
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Cando as a serrare unu grupu de ischedas, dd’as a pòdere torrare a abèrrere in cale si siat momentu dae su menù Elenca totu is ischedas.
 tab-groups-onboarding-saved-groups-title-2 = Cando as a serrare unu grupu de ischedas, dd’as a pòdere torrare a abèrrere dae inoghe in cale si siat momentu.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Agata is grupos serrados chirchende·ddos in sa barra de indiritzos.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Torra a abèrrere is grupos de ischedas in cale si siat momentu dae su menù Elenca totu is ischedas
 tab-groups-onboarding-session-restore-title = Torra a abèrrere grupos de ischedas inoghe cando ti serbat.
