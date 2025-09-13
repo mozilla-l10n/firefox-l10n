@@ -481,3 +481,7 @@ desktop-to-mobile-qr-code-alt =
 
 restore-from-backup-subtitle = Recupere todos os seus favoritos, histórico e outros dados para retomar a navegação.
 restore-from-backup-secondary-button = Não restaurar
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Estamos de volta! Seus dados do { -brand-short-name } foram restaurados.

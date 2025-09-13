@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navegação privativa
+popups-infobar-dont-show-message2 =
+    .label = Não mostrar esta mensagem ao bloquear abertura de janelas ou redirecionamento de terceiros
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Gerenciar configurações de abertura de janelas e redirecionamento de terceiros…
+    .accesskey = G
 
 ##
 

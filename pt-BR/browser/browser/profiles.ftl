@@ -239,10 +239,12 @@ message-avatar = Mensagem
 musical-note-avatar = Nota musical
 palette-avatar = Paleta
 paw-print-avatar = Pegada de pata
+picture-avatar = Foto
 plane-avatar = Avião
 # Present refers to a gift box, not the current time period
 present-avatar = Presente
 shopping-avatar = Carrinho de compras
+soccer-ball-avatar = Bola de futebol
 soccer-avatar = Futebol
 sparkle-single-avatar = Faísca
 star-avatar = Estrela

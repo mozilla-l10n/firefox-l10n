@@ -102,3 +102,10 @@ about-logging-upload-error = Aconteceu um erro ao enviar o profile: { $errorText
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Aconteceu um erro ao salvar o arquivo: { $errorText }
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = Excluir
+about-logging-view-uploaded-profile = Ver perfil
+about-logging-delete-profile-confirm-title = Excluir perfil
+about-logging-deleting-profile = Excluindo…
