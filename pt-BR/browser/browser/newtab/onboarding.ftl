@@ -476,3 +476,8 @@ dismiss-button-label = Descartar
 sync-to-mobile-button-label = Sincronização com dispositivos móveis
 desktop-to-mobile-qr-code-alt =
     .aria-label = Código QR para baixar o { -brand-product-name } para dispositivos móveis
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-subtitle = Recupere todos os seus favoritos, histórico e outros dados para retomar a navegação.
+restore-from-backup-secondary-button = Não restaurar
