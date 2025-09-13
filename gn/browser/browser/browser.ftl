@@ -269,6 +269,8 @@ urlbar-screen-blocked =
     .tooltiptext = Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba’erechaha.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ejokóma mba’ekuaarã ñembyaty hi’aréva ko ñanduti renda pegua.
+urlbar-popup-blocked2 =
+    .tooltiptext = Ejokóma ovetã apysẽ ha moma’ẽ mohapyha ko ñanduti rendápe g̃uarãre.
 urlbar-popup-blocked =
     .tooltiptext = Ejokoukákuri ovetã apysẽva ko ñandutirendápe g̃uarã.
 urlbar-autoplay-media-blocked =
@@ -1381,6 +1383,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = “{ $popupURI }” jehechauka
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Mba’eguasu “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

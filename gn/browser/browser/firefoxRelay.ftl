@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = M
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Emo’ã ñanduti veve kundaharape:
+firefox-relay-opt-in-title-2 = Ereko ñanduti veve rovamo’ãha reigua
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Eiporu ñanduti veve rovamo’ãha { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Eiporu ñanduti veve rovamo’ãha
+firefox-relay-opt-in-subtitle-2 = Emo’ã ñanduti veve g̃uahẽha spam-gui
 firefox-relay-use-mask-title = Eiporu ñanduti veve rovamo’ãha { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Emboyke spam ñanduti veve rovamo’ãha reigua ndive
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Ereko ñanduti veve rovamo’ãha reigua
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Emo’ã ñe’ẽmondo g̃uahẽha spam-gui eiporúvo <label data-l10n-name="firefox-relay-learn-more-url"> ñanduti veve rovamo’ãha</label> reigua eñomi hag̃ua ñanduti veve tee. Umi ñanduti veve <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ko tenda</label> oikéta ñe’ẽmondo g̃uahẽhápe, katu ñanduti veve ñeñomíme.
 firefox-relay-and-fxa-popup-notification-first-sentence = Emo’ã ñe’ẽmondo g̃uahẽha spam-gui eiporúvo <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } ñanduti veve rovamo’ãha</label> reigua eñomi hag̃ua ñanduti veve tee. Umi ñanduti veve <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ko tenda</label> oikéta ñe’ẽmondo g̃uahẽhápe, katu ñanduti veve ñeñomíme.
+firefox-relay-offer-why-to-use-relay-1 = Emo’ã ñe’ẽmondo g̃uahẽha spam-gui eiporúvo <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } ñanduti veve rovamo’ãha</label> reigua eñomi hag̃ua ñanduti veve tee. Umi ñanduti veve <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ko tenda</label> oikéta ñe’ẽmondo g̃uahẽhápe, katu ñanduti veve ñeñomíme.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Ñepyrũrã, eñemboheraguapy térã eike ne mba’etépe eiporu hag̃ua ñanduti veve rovamo’ãha
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Eñemboheraguapy
