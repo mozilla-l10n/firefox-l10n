@@ -481,6 +481,7 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Барқарорсозӣ аз нусхаи эҳтиётӣ
+restore-from-backup-subtitle = Барои бозгашт ба тамошобинӣ, ҳамаи хатбаракҳо, таърих ва маълумоти дигари худро барқарор созед.
 restore-from-backup-secondary-button = Барқарор карда нашавад
 
 ## Restored from Backup spotlight
@@ -488,4 +489,6 @@ restore-from-backup-secondary-button = Барқарор карда нашава�
 restored-from-backup-success-with-checklist-primary-button = Нигоҳ доред ва идома диҳед
 restored-from-backup-success-with-checklist-secondary-button = Нодида гузарондани ин қадам
 restored-from-backup-success-no-checklist-primary-button = Идома додан
+restored-from-backup-error-title = Ҳм, дар файли нусхаи эҳтиётии шумо мушкилӣ ба миён омад.
+restored-from-backup-error-subtitle = Агар шумо барои «{ -brand-short-name }» файли нусхаи эҳтиётии дигар дошта бошед, кӯшиш кунед, ки маълумотро аз он файл барқарор созед. <a data-l10n-name="restore-problems">Ҳанӯз мушкилӣ мекашед?</a>
 restored-from-backup-error-primary-button = Пӯшидан

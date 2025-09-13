@@ -108,6 +108,11 @@ profiles-terracotta-theme-2 = Vermelho tijolo
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verde musgo
 
+## Data collection settings changed (multi-profile)
+
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Dispensar
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =

@@ -256,6 +256,10 @@ urlbar-search-mode-actions = Ações
 
 urlbar-geolocation-blocked =
     .tooltiptext = Bloqueou a informação de localização para este site.
+urlbar-localhost-blocked =
+    .tooltiptext = Bloqueou as ligações locais do dispositivo para este site.
+urlbar-local-network-blocked =
+    .tooltiptext = Bloqueou ligações à rede local para este site.
 urlbar-xr-blocked =
     .tooltiptext = Bloqueou o acesso ao dispositivo de realidade virtual para este website.
 urlbar-web-notifications-blocked =
@@ -268,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Impediu este site de partilhar o seu ecrã.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Impediu o armazenamento de dados para este site.
+urlbar-popup-blocked2 =
+    .tooltiptext = Bloqueou pop-ups e redirecionamentos de terceiros para este site.
 urlbar-popup-blocked =
     .tooltiptext = Bloqueou pop-ups para este site.
 urlbar-autoplay-media-blocked =
@@ -810,6 +816,72 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Obtenha dados do mercado de ações diretamente na sua barra de pesquisa
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Mostrar atualizações de mercado e muito mais dos nossos parceiros quando partilhar dados de consultas de pesquisas com a { -vendor-short-name }. <a data-l10n-name="learn-more-link">Saber mais</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Mostrar sugestões
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Agora não
+urlbar-result-realtime-opt-in-dismiss = Dispensar
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Não mostrar estas sugestões
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Não mostrar sugestões de mercados
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Obrigado pela sua opinião. Não irá ver mais as sugestões de mercados.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Obrigado pelo seu feedback. Deixará de ver estas sugestões.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Em { $daysUntilStart } dia
+       *[other] { $name } · Em { $daysUntilStart } dias
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Começa em { $daysUntilStart } dia
+       *[other] { $name } · Começa em { $daysUntilStart } dias
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Termina em { $daysUntilEnd } dia
+       *[other] { $name } · Termina em { $daysUntilEnd } dias
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Hoje
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Termina hoje
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -843,6 +915,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Desta vez, pesquisar com:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Definições de pesquisa
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Novo
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1107,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloquear pop-ups de { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Permitir pop-ups e redirecionamentos de terceiros para { $uriHost }
+    .accesskey = P
 
 ##
 
@@ -1169,6 +1246,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Listar todos os separadores
     .tooltiptext = Listar todos os separadores
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Solte o separador aqui para fixar
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1267,6 +1348,7 @@ firefox-relay-offer-why-to-use-relay = As nossas máscaras seguras e simples de 
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Todos os e-mails enviados para as suas máscaras de e-mail serão encaminhados para <strong>{ $useremail }</strong> (a menos que decida bloqueá-los).
 firefox-relay-offer-legal-notice = Ao clicar em “Usar máscara de e-mail”, concorda com os <label data-l10n-name="tos-url">Termos do Serviço</label> e <label data-l10n-name="privacy-url">Informações de Privacidade</label>.
+firefox-relay-offer-legal-notice-1 = Ao registar-se e criar uma máscara de e-mail, concorda com os <label data-l10n-name="tos-url">Termos do Serviço</label> e <label data-l10n-name="privacy-url">Informações de Privacidade</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1344,3 +1426,17 @@ onboarding-checklist-button-label = Terminar configuração
 onboarding-aw-finish-setup-button =
     .label = Terminar configuração
     .tooltiptext = Terminar configuração do { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = A proteção melhorada contra a monitorização está ativada
+trustpanel-etp-label-disabled = A proteção melhorada contra a monitorização está desativada
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Proteção melhorada contra a monitorização: Ativada para { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Proteção melhorada contra a monitorização: Desativada para { $host }
+trustpanel-etp-description-enabled = Se parecer que algo não está a funcionar neste site, experimente desativar as proteções.
