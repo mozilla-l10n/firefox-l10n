@@ -477,3 +477,16 @@ dismiss-button-label = Mboyke
 sync-to-mobile-button-label = Ñembojuehe pumbyry ndive
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR ayvu emboguejy hag̃ua { -brand-product-name } pumbyrýpe
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Erujey tekorosãrã ñongatuha guive
+restore-from-backup-secondary-button = Ani eguerujey
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Eñongatu ha eku’ejey
+restored-from-backup-success-with-checklist-secondary-button = Ehejánte kóva
+restored-from-backup-success-no-checklist-primary-button = Eku’ejey
+restored-from-backup-error-title = Hmm, iñapañuái marandurenda jeykekoha.
+restored-from-backup-error-primary-button = Mboty
