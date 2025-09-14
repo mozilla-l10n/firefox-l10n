@@ -101,6 +101,9 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Emoheraku
 about-logging-upload-error = Oiko peteĩ jejavy ehupikuévo pe mba’ete: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Oiko peteĩ jejavy eñongatukuévo mba’ete henyhẽpyréva: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Oiko peteĩ jejavy eñongatukuévo mba’ete: { $errorText }
 
 ## Uploaded Profiles section
@@ -113,6 +116,8 @@ about-logging-save-error = Oiko peteĩ jejavy eñongatukuévo mba’ete: { $erro
 #   $date (date) - The date and time when the profile was uploaded
 about-logging-uploaded-profile-name = Mba’ete { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
 about-logging-uploaded-profiles-title = Mba’ete hupipyre
+about-logging-no-uploaded-profiles = Nodjehupíri gueteri mba’ete.
 about-logging-delete-uploaded-profile = Mboguete
 about-logging-view-uploaded-profile = Ehecha mba’ete
 about-logging-delete-profile-confirm-title = Mba’ete Mboguete
+about-logging-deleting-profile = Oguehína…
