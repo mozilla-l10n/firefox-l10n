@@ -19,3 +19,33 @@ fxaccounts-sign-in-text = رزماتووه من دسگایل دیری خوتوو
 fxaccounts-sign-in-sync-button = سی هوم گوم کردن و من بیاین
 fxaccounts-avatar-button =
     .title = دؽوۉداری هساو
+
+## The ⋯ menu that is in the top corner of the page
+
+menu =
+    .title = گۊشیڌن نومگه
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = و من ٱووردن ز ی گشت گر دی…
+about-logins-menu-menuitem-import-from-a-file = و من ٱووردن ز ی فایل…
+about-logins-menu-menuitem-export-logins = و در کشیڌن و من ٱووڌنا…
+about-logins-menu-menuitem-remove-all-logins = پاک کردن پوی و من ٱووڌنا…
+about-logins-menu-menuitem-export-logins2 = و در کشیڌن رزما…
+about-logins-menu-menuitem-remove-all-logins2 = پاک کردن پوی رزما…
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] ترجیهات
+       *[other] سامووا دیاری
+    }
+about-logins-menu-menuitem-help = هیاری
+
+## Login List
+
+login-list =
+    .aria-label = و من ٱووڌنا ی جۊر وا کلمه پیتینیڌه بیڌه
+# Variables
+#   $count (number) - Number of logins
+login-list-count =
+    { $count ->
+        [one] { $count } و من ٱووڌن
+       *[other] { $count } و من ٱووڌن
+    }
