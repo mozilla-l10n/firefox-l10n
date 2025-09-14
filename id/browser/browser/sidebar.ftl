@@ -21,10 +21,24 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (berkas lokal)
 sidebar-history-delete =
     .title = Hapus dari Riwayat
 sidebar-history-clear =
     .label = Hapus riwayat
+sidebar-history-sort-by-heading = Urut berdasarkan:
+sidebar-history-sort-option-date =
+    .label = Tanggal
+sidebar-history-sort-option-site =
+    .label = Situs
+sidebar-history-sort-option-date-and-site =
+    .label = Tanggal dan situs
+sidebar-history-sort-option-last-visited =
+    .label = Terakhir dikunjungi
 
 ## Labels for sidebar search
 
@@ -54,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Bentangkan bilah samping saat sorot
+sidebar-manage-extensions = Kelola Ekstensi
 
 ## Labels for sidebar context menu items
 
@@ -63,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Hapus ekstensi
 sidebar-context-menu-report-extension =
     .label = Laporkan ekstensi
+sidebar-context-menu-open-in-tab =
+    .label = Buka di Tab Baru
+sidebar-context-menu-open-in-container-tab =
+    .label = Buka di Tab Kontainer Baru
 sidebar-context-menu-open-in-window =
     .label = Buka di Jendela Baru
 sidebar-context-menu-open-in-private-window =
     .label = Buka di Jendela Pribadi Baru
+sidebar-context-menu-forget-site =
+    .label = Bersihkan Semua Data untuk Situs Web…
 sidebar-context-menu-bookmark-tab =
     .label = Markahi Tab…
 sidebar-context-menu-copy-link =
@@ -81,6 +102,19 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Tutup tab di { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Hapus dari { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Hapus dari Bilah Samping
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page-2 =
+    .label = Hapus Laman dari Riwayat
+sidebar-history-context-menu-bookmark-page =
+    .label = Markahl Laman…
+sidebar-history-context-menu-delete-pages =
+    .label = Hapus Laman dari Riwayat
 
 ## Labels for sidebar menu items.
 
@@ -96,6 +130,8 @@ sidebar-menu-customize-label =
     .label = Sesuaikan bilah sisi
 sidebar-menu-contextual-password-manager-label =
     .label = Sandi
+sidebar-menu-more-tools-label =
+    .label = Alat lainnya
 
 ## Tooltips for sidebar menu items.
 
@@ -179,3 +215,7 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = Sembunyikan bilah samping ({ $shortcut })
     .label = Bilah Samping
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = Seret tab penting ke sini agar tetap dalam jangkauan
