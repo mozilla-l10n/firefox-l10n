@@ -1275,6 +1275,7 @@ content-blocking-etp-standard-tcp-title = Zahŕňa Úplnú ochranu súborov cook
 content-blocking-warning-title = Pozor!
 content-blocking-and-isolating-etp-warning-description-3 = Toto nastavenie môže spôsobiť, že niektoré webové stránky nebudú zobrazovať obsah alebo nebudú správne fungovať. Pre webové stránky, o ktorých vieme, že ich môže vaša konfigurácia ovplyvniť, poskytujeme voliteľné výnimky. Ak chcete znížiť riziko nefunkčných webových stránok, povoľte tieto výnimky sledovania. Ak sa stránka javí ako nefunkčná, môžete pre túto stránku vypnúť ochranu sledovania, aby sa načítal všetok obsah a problém sa nahlásil, aby sme ho mohli pomôcť vyriešiť pre všetkých.
 content-blocking-warning-title-2 = Niektoré stránky nemusia fungovať správne s prísnou ochranou pred sledovaním
+content-blocking-warning-title-custom = Niektoré stránky nemusia fungovať správne s vlastnou ochranou pred sledovaním
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } odporúča použiť nastavenia v sekcii “Oprava problémov so stránkami” na zníženie počtu nefunkčných funkcií a obsahu stránok. Ak sa stránka zdá byť nefunkčná, skúste pre túto stránku vypnúť ochranu pred sledovaním, aby sa načítal všetok obsah.
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavenie môže ovplyvniť fungovanie niektorých stránok. Ak sa vám stránka zdá rozbitá, vypnutie ochrany pred sledovaním by vám mohlo pomôcť načítať všetok obsah.
@@ -1393,6 +1394,9 @@ permissions-autoplay = Automatické prehrávanie
 permissions-autoplay-settings =
     .label = Nastavenia…
     .accesskey = N
+permissions-block-popups2 =
+    .label = Blokovať vyskakovacie okná a presmerovania tretích strán
+    .accesskey = B
 permissions-block-popups =
     .label = Blokovať nevyžiadané vyskakovacie okná
     .accesskey = B

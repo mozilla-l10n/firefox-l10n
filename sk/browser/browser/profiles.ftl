@@ -144,12 +144,23 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Použiť vlastnú tému
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Nastavenia zhromažďovania údajov boli zmenené.</strong> Zmeny vykonané v inom profile sa vzťahujú na všetky profily v tomto zariadení.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Zobraziť nastavenia
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Zavrieť
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Kniha
 briefcase-avatar-alt =
     .alt = Aktovka
+picture-avatar-alt =
+    .alt = Obrázok
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Plátno
@@ -166,6 +177,8 @@ heart-avatar-alt =
     .alt = Srdce
 heart-rate-avatar-alt =
     .alt = Srdcová frekvencia
+clock-avatar-alt =
+    .alt = Hodiny
 history-avatar-alt =
     .alt = História
 leaf-avatar-alt =
@@ -190,6 +203,8 @@ present-avatar-alt =
     .alt = Darček
 shopping-avatar-alt =
     .alt = Nákupný košík
+soccer-ball-avatar-alt =
+    .alt = Futbalová lopta
 soccer-avatar-alt =
     .alt = Futbal
 sparkle-single-avatar-alt =
@@ -200,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = Ovládač videohier
 custom-avatar-alt =
     .alt = Vlastný avatar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Zemeguľa
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Predvolená ikona stránky

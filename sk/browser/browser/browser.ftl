@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Súkromné prehliadanie
+popups-infobar-dont-show-message2 =
+    .label = Nezobrazovať túto správu, keď sú zablokované vyskakovacie okná alebo presmerovania tretích strán
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Spravovať nastavenia vyskakovacích okien a presmerovaní tretích strán…
+    .accesskey = S
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Tejto stránke ste zakázali zdieľanie vašej obrazovky.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Tejto stránke ste zakázali ukladanie údajov do trvalého úložiska.
+urlbar-popup-blocked2 =
+    .tooltiptext = Pre túto webovú stránku ste zablokovali vyskakovacie okná a presmerovania tretích strán.
 urlbar-popup-blocked =
     .tooltiptext = Tejto stránke ste zablokovali zobrazovanie vyskakovacích okien.
 urlbar-autoplay-media-blocked =
@@ -1183,6 +1191,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blokovať vyskakovacie okná z { $uriHost }
     .accesskey = o
+popups-infobar-allow2 =
+    .label = Povoliť vyskakovacie okná a presmerovania tretích strán pre { $uriHost }
+    .accesskey = P
 
 ##
 
@@ -1375,6 +1386,17 @@ popup-warning-message =
         [few] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacích okien.
        *[other] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacích okien.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } zabránil tejto stránke v presmerovaní.
+        [1] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacieho ona a presmerovania.
+        [one] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacieho ona a presmerovania.
+        [few] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacích okien a presmerovaní.
+        [many] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacích okien a presmerovaní.
+       *[other] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacích okien a presmerovaní.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1383,6 +1405,15 @@ popup-warning-exceeded-message =
         [one] { -brand-short-name } zabránil tejto stránke v otvorení jedného okna.
         [few] { -brand-short-name } zabránil tejto stránke v otvorení viac než { $popupCount } okien.
        *[other] { -brand-short-name } zabránil tejto stránke v otvorení viac než { $popupCount } okien.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacieho okna a presmerovania.
+        [few] { -brand-short-name } zabránil tejto stránke v otvorení viac ako { $popupCount } vyskakovacích okien a presmerovaní.
+        [many] { -brand-short-name } zabránil tejto stránke v otvorení viac ako { $popupCount } vyskakovacích okien a presmerovaní.
+       *[other] { -brand-short-name } zabránil tejto stránke v otvorení viac ako { $popupCount } vyskakovacích okien a presmerovaní.
     }
 popup-warning-button =
     .label =
@@ -1399,6 +1430,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Zobraziť { $popupURI }
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Zobraziť “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

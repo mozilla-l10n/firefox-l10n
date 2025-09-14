@@ -476,3 +476,22 @@ dismiss-button-label = Zavrieť
 sync-to-mobile-button-label = Synchronizácia s mobilným telefónom
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR kód na stiahnutie { -brand-product-name(case: "gen") } pre mobilné zariadenia
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Obnoviť zo zálohy
+restore-from-backup-title = Vráťme { -brand-short-name } späť tak, ako sa vám páči
+restore-from-backup-subtitle = Obnovte všetky svoje záložky, históriu a ďalšie údaje, aby ste sa mohli vrátiť k prehliadaniu.
+restore-from-backup-secondary-button = Neobnovovať
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Sme späť! Vaše údaje { -brand-short-name(case: "gen") } boli obnovené.
+restored-from-backup-success-with-checklist-subtitle = Chcete mať svoj obľúbený prehliadač zameraný na súkromie na dosah ruky len jedno kliknutie?
+restored-from-backup-success-no-checklist-subtitle = Zálohovanie pre toto zariadenie môžete zapnúť v <a data-l10n-name="settings">Nastaveniach</a>.
+restored-from-backup-success-with-checklist-primary-button = Uložiť a pokračovať
+restored-from-backup-success-with-checklist-secondary-button = Preskočiť tento krok
+restored-from-backup-success-no-checklist-primary-button = Pokračovať
+restored-from-backup-error-title = Hmm, vyskytol sa problém so záložným súborom.
+restored-from-backup-error-subtitle = Ak máte iný záložný súbor { -brand-short-name(case: "gen") }, skúste obnoviť z neho. <a data-l10n-name="restore-problems">Stále máte problémy?</a>
+restored-from-backup-error-primary-button = Zavrieť

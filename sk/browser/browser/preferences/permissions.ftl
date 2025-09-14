@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Pre konkrétne webové stránky môžete vypnúť režim "Len HTTPS". Pre tieto stránky sa { -brand-short-name } nebude snažiť inovovať pripojenie na zabezpečené HTTPS. Výnimky sa nevzťahujú na súkromné okná.
 permissions-exceptions-https-only-desc2 = Pre konkrétne webové stránky môžete vypnúť režim "Len HTTPS". Pre tieto stránky sa { -brand-short-name } nebude snažiť inovovať pripojenie na zabezpečené HTTPS.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Povolené webové stránky – vyskakovacie okná a presmerovania tretích strán
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Môžete určiť, ktoré webové stránky môžu otvárať vyskakovacie okná a byť presmerované rámcami tretích strán.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Príliš veľa kariet? Urobte si poriadok pom
 windows-10-eos-sync-tour-subtitle-1 = Potiahnutím jednej karty na druhú vytvoríte skupinu a udržíte veci usporiadané.
 windows-10-eos-sync-tour-title-2 = Urobte si poriadok pre Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synchronizujte si záložky, heslá a nastavenia, aby ste si ich pred prechodom zálohovali.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Zobrazovať menej odporúčaní
+windows-10-eos-sync-dismiss-button-label = Zavrieť
+windows-10-eos-sync-callout-primary-advance-button-label = Ďalej
 
 ## Sidebar Strings
 
