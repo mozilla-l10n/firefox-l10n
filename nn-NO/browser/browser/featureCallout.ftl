@@ -179,7 +179,7 @@ sidebar-customization-callout-2-subtitle = Legg til og fjern verktøy. Plasser f
 
 sidebar-callout-survey-title = Hjelp til med å forbetre { -brand-short-name }
 sidebar-callout-survey-satisfaction-question = Kor fornøgd er du med sidestolpeopplevinga i { -brand-short-name }?
-sidebar-callout-survey-privacy-notice-link = Personvernerklæring
+sidebar-callout-survey-privacy-notice-link = Personvernfråsegn
 sidebar-callout-survey-very-satisfied = Veldig fornøgd
 sidebar-callout-survey-satisfied = Fornøgd
 sidebar-callout-survey-neutral = Nøytral

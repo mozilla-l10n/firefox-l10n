@@ -1333,8 +1333,8 @@ firefox-relay-offer-why-to-use-relay = Dei sikre, brukarvennlege aliasa våre ve
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Alle e-postar som vert sende til e-postaliasa dine vil bli vidaresende til <strong>{ $useremail }</strong> (med mindre du bestemmer deg for å blokkere dei).
-firefox-relay-offer-legal-notice = Ved å klikke «Bruk e-postalias» godtek du <label data-l10n-name="tos-url">tenestevilkåra</label> og <label data-l10n-name="privacy-url">personvernerklæringa</label>.
-firefox-relay-offer-legal-notice-1 = Ved å registrere deg og opprette eit e-postalias godtek du <label data-l10n-name="tos-url">tenestevilkåra</label> og <label data-l10n-name="privacy-url">personvernerklæringa</label>.
+firefox-relay-offer-legal-notice = Ved å klikke «Bruk e-postalias» godtek du <label data-l10n-name="tos-url">tenestevilkåra</label> og <label data-l10n-name="privacy-url">personvernfråsegna</label>.
+firefox-relay-offer-legal-notice-1 = Ved å registrere deg og opprette eit e-postalias godtek du <label data-l10n-name="tos-url">tenestevilkåra</label> og <label data-l10n-name="privacy-url">personvernfråsegna</label>.
 
 ## Add-on Pop-up Notifications
 

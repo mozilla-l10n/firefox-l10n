@@ -370,7 +370,7 @@ onboarding-new-user-familiarity-based-survey-title = Kor godt kjend er du med { 
 onboarding-new-user-survey-subtitle = Tilbakemeldinga di bidreg til å gjere { -brand-short-name } endå betre.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Neste
-onboarding-new-user-survey-legal-link-label = Ved å velje «{ onboarding-new-user-survey-next-button-label }» godtek du { -brand-product-name } si <a data-l10n-name="privacy_notice">personvernerklæring</a >
+onboarding-new-user-survey-legal-link-label = Ved å velje «{ onboarding-new-user-survey-next-button-label }» godtek du { -brand-product-name } si <a data-l10n-name="privacy_notice">personvernfråsegn</a >
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Eg er heilt ny
 onboarding-new-user-survey-time-based-option-2 = Mindre enn 1 månad

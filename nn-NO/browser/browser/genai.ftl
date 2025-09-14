@@ -5,12 +5,12 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-chatgpt-links = Ved å velje ChatGPT, godkjenner du <a data-l10n-name="link1">brukarvilkåra</a> og <a data-l10n-name="link2">personvernerklæringa</a> for OpenAI.
-genai-settings-chat-claude-links = Ved å velje Antropic Claude, godkjenner du <a data-l10n-name="link1">brukarvilkåra</a>, <a data-l10n-name="link2">användarpolicy</a> og <a data-l10n-name="link3">personvernerklæringa</a> for Antropics.
-genai-settings-chat-copilot-links = Ved å velje Copilot godkjenner du <a data-l10n-name="link1">vilklåra for Copilot AI Experiences</a> og <a data-l10n-name="link2">personvernerklæringa til Microsoft</a>.
-genai-settings-chat-gemini-links = Ved å velje Google Gemini godkjenner du <a data-l10n-name="link1">tenestevilkåra til Google</a>, <a data-l10n-name="link2">retningslinjene for forboden bruk av generativ AI</a > og <a data-l10n-name="link3">personvernerklæringa for Gemini Apps</a>.
-genai-settings-chat-huggingchat-links = Ved å velje HuggingChat godkjenner du <a data-l10n-name="link1">personvernerklæringa til HuggingChat</a> og <a data-l10n-name="link2">personvernerklæringa til Hugging Face</a>.
-genai-settings-chat-lechat-links = Ved å velje Le Chat Mistral godkjenner du <a data-l10n-name="link1">tenestevilkåra</a> og <a data-l10n-name="link2">personvernerklæringa</a> for Mistral AI .
+genai-settings-chat-chatgpt-links = Ved å velje ChatGPT, godkjenner du <a data-l10n-name="link1">brukarvilkåra</a> og <a data-l10n-name="link2">personvernfråsegna</a> for OpenAI.
+genai-settings-chat-claude-links = Ved å velje Antropic Claude, godkjenner du <a data-l10n-name="link1">brukarvilkåra</a>, <a data-l10n-name="link2">användarpolicy</a> og <a data-l10n-name="link3">personvernfråsegna</a> for Antropics.
+genai-settings-chat-copilot-links = Ved å velje Copilot godkjenner du <a data-l10n-name="link1">vilklåra for Copilot AI Experiences</a> og <a data-l10n-name="link2">personvernfråsegna til Microsoft</a>.
+genai-settings-chat-gemini-links = Ved å velje Google Gemini godkjenner du <a data-l10n-name="link1">tenestevilkåra til Google</a>, <a data-l10n-name="link2">retningslinjene for forboden bruk av generativ AI</a > og <a data-l10n-name="link3">personvernfråsegna for Gemini Apps</a>.
+genai-settings-chat-huggingchat-links = Ved å velje HuggingChat godkjenner du <a data-l10n-name="link1">personvernfråsegna til HuggingChat</a> og <a data-l10n-name="link2">personvernfråsegna til Hugging Face</a>.
+genai-settings-chat-lechat-links = Ved å velje Le Chat Mistral godkjenner du <a data-l10n-name="link1">tenestevilkåra</a> og <a data-l10n-name="link2">personvernfråsegna</a> for Mistral AI .
 genai-settings-chat-localhost-links = Ta med din egen privata lokale samtalerobot som <a data-l10n-name="link1">llamafile</a> frå { -vendor-short-name }s innovasjonsgruppe.
 
 ## Chatbot prompts
