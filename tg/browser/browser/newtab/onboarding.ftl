@@ -481,11 +481,14 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Барқарорсозӣ аз нусхаи эҳтиётӣ
+restore-from-backup-title = Биёед браузери «{ -brand-short-name }»-ро ба ҳолате баргардонем, ки ба шумо маъқул аст
 restore-from-backup-subtitle = Барои бозгашт ба тамошобинӣ, ҳамаи хатбаракҳо, таърих ва маълумоти дигари худро барқарор созед.
 restore-from-backup-secondary-button = Барқарор карда нашавад
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Мо баргаштем! Маълумоти «{ -brand-short-name }»-и шумо барқарор карда шуд.
+restored-from-backup-success-no-checklist-subtitle = Шумо метавонед таҳияи нусхаи эҳтиётиро барои ин дастгоҳ дар <a data-l10n-name="settings">Танзимот</a> фаъол созед.
 restored-from-backup-success-with-checklist-primary-button = Нигоҳ доред ва идома диҳед
 restored-from-backup-success-with-checklist-secondary-button = Нодида гузарондани ин қадам
 restored-from-backup-success-no-checklist-primary-button = Идома додан
