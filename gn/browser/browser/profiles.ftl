@@ -330,3 +330,13 @@ plane-avatar-tooltip =
 # Present refers to a gift box, not the current time period
 present-avatar-tooltip =
     .tooltiptext = Embohéra jopói avatar
+shopping-avatar-tooltip =
+    .tooltiptext = Embohéra karríto jejoguaha avatar
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Embohéra mangapy pelóta avatar
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Embohéra mimbi avatar
+star-avatar-tooltip =
+    .tooltiptext = Embohéra mbyja avatar
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Embohéra videojuego ñangarekoha avatar

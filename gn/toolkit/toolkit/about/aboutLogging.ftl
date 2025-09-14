@@ -105,6 +105,14 @@ about-logging-save-error = Oiko peteĩ jejavy eñongatukuévo mba’ete: { $erro
 
 ## Uploaded Profiles section
 
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Mba’ete { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Mba’ete hupipyre
 about-logging-delete-uploaded-profile = Mboguete
 about-logging-view-uploaded-profile = Ehecha mba’ete
 about-logging-delete-profile-confirm-title = Mba’ete Mboguete
