@@ -1391,8 +1391,8 @@ popup-warning-message =
 redirect-warning-with-popup-message =
     { $popupCount ->
         [0] { -brand-short-name } zabránil tejto stránke v presmerovaní.
-        [1] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacieho ona a presmerovania.
-        [one] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacieho ona a presmerovania.
+        [1] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacieho okna a presmerovania.
+        [one] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacieho okna a presmerovania.
         [few] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacích okien a presmerovaní.
         [many] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacích okien a presmerovaní.
        *[other] { -brand-short-name } zabránil tejto stránke v otvorení { $popupCount } vyskakovacích okien a presmerovaní.
