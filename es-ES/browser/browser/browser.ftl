@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navegación privada
+popups-infobar-dont-show-message2 =
+    .label = No mostrar este mensaje cuando las ventanas emergentes o las redirecciones de terceros estén bloqueadas
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Administrar la configuración de ventanas emergentes y redireccionamientos de terceros…
+    .accesskey = A
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Ha impedido que este sitio web comparta su pantalla.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ha bloqueado el almacenamiento de datos para este sitio web.
+urlbar-popup-blocked2 =
+    .tooltiptext = Ha bloqueado las ventanas emergentes y las redirecciones de terceros para este sitio web.
 urlbar-popup-blocked =
     .tooltiptext = Ha bloqueado las ventanas emergentes en este sitio web.
 urlbar-autoplay-media-blocked =
@@ -1173,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloquear ventanas emergentes para { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Permitir ventanas emergentes y redirecciones de terceros para { $uriHost }
+    .accesskey = P
 
 ##
 
@@ -1337,6 +1348,7 @@ firefox-relay-offer-why-to-use-relay = Nuestras máscaras seguras y fáciles de 
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Todos los correos electrónicos enviados a sus máscaras de correo electrónico se reenviarán a <strong>{ $useremail }</strong> (a menos que decida bloquearlos).
 firefox-relay-offer-legal-notice = Al hacer clic en “Usar máscara de correo electrónico”, acepta los <label data-l10n-name="tos-url">Términos del servicio</label> y el <label data-l10n-name="privacy-url">Aviso de privacidad </label>.
+firefox-relay-offer-legal-notice-1 = Al iniciar sesión y crear  una máscara de correo electrónico, acepta los <label data-l10n-name="tos-url">Términos del servicio</label> y el <label data-l10n-name="privacy-url">Aviso de privacidad</label>.
 
 ## Add-on Pop-up Notifications
 
