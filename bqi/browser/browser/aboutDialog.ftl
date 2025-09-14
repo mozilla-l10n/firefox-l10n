@@ -37,3 +37,33 @@ aboutdialog-update-manual-with-link = ورۊ رسۊویا من <label data-l10n-
 settings-update-manual-with-link = ورۊ رسۊویا من <a data-l10n-name="manual-link">{ $displayUrl }</a> هڌسووݩ
 update-unsupported = ری ای سیستوم نترین بیشتر ز یو ورۊ کۊنین. <label data-l10n-name="unsupported-link">قلوه دووسته بۊین</label>
 update-restarting = ر وندن دووارته…
+
+##
+
+bottomLinks-license = دووسمندیا موجوز
+bottom-links-terms = شرتا و کار گرؽڌن
+bottom-links-privacy = نوکات زفت مهرموویی
+bottomLinks-rights = هوقۊق منتورووݩ دیندایی
+bottomLinks-privacy = سیاست زفت مهرمووه ای
+# Example of resulting string: 66.0.1 (64-bit)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version = { $version } ({ $bits } بیتی)
+# Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version-nightly = { $version } ‫({ $isodate }) ({ $bits } بیتی)
+# Example of resulting string: 131.0a1 (aarch64)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch = { $version } ({ $arch })
+# Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })
