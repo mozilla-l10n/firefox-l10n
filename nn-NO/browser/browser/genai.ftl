@@ -21,8 +21,8 @@ genai-settings-chat-localhost-links = Ta med din egen privata lokale samtalerobo
 
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
-    .label = Oppsummer
-    .value = Oppsummer utvalet med eit presist og konsist språk. Bruk overskrifter og punktlister i samandraget for å gjere det lett å skanne. Hald oppe betydninga og faktanøyaktigheita.
+    .label = Samanfatt
+    .value = Samanfatt utvalet med eit presist og konsist språk. Bruk overskrifter og punktlister i samandraget for å gjere det lett å skanne. Hald oppe betydninga og faktanøyaktigheita.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Forenkle språket
