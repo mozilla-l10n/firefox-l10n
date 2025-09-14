@@ -117,6 +117,10 @@ fxa-adoption-passwords-primary-button-label = Тіркелу
 windows-10-eos-sync-new-device-primary-label = Қазір синхрондау
 windows-10-eos-sync-general-title-2 = Қазір парольдер бен бетбелгілеріңіздің көшірмесін жасап алу үшін қолайлы сәт.
 windows-10-eos-sync-tour-title-1 = Беттер тым көп пе? Беттерді топтарға біріктіріп ретке келтіріңіз.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Азырақ ұсыныстарды көрсету
+windows-10-eos-sync-dismiss-button-label = Елемеу
+windows-10-eos-sync-callout-primary-advance-button-label = Келесі
 
 ## Sidebar Strings
 
