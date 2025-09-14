@@ -1394,6 +1394,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mostrar '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Mostrar “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1474,3 +1478,7 @@ trustpanel-blocker-section-header =
        *[other] <span>{ $count }</span> rastreadores bloqueados en este sitio
     }
 trustpanel-blocker-description = { -brand-product-name } cree que las empresas deberían seguirte menos. Por eso bloqueamos a todas las que podemos.
+trustpanel-blocked-header = { -brand-product-name } bloqueó estos elementos:
+trustpanel-tracking-header = { -brand-product-name } permitió estos elementos para que los sitios no fallasen:
+trustpanel-tracking-description = Sin rastreadores, algunos botones, formularios y campos de inicio de sesión podrían no funcionar.
+trustpanel-insecure-section-header = Su conexión no es segura
