@@ -277,6 +277,8 @@ tab-group-editor-color-selector2-gray = Сірий
 tab-group-editor-color-selector2-red = Червоний
     .title = Червоний
 tab-group-description = { $tabGroupName } – група вкладок
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Згорнуто
+tab-group-label-tooltip-expanded = { $tabGroupName } — Розгорнуто
 tab-context-unnamed-group =
     .label = Група без назви
 tab-group-name-default = Група без назви
@@ -323,6 +325,17 @@ tab-context-ungroup-tab =
            *[other] Вилучити з груп
         }
     .accesskey = л
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] Ще { $tabCount } вкладка
+        [few] Ще { $tabCount } вкладки
+       *[many] Ще { $tabCount } вкладок
+    }
 
 ## Open/saved tab group context menu
 

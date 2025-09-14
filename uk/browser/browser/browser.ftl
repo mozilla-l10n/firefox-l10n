@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Приватний перегляд
+popups-infobar-dont-show-message2 =
+    .label = Не показувати це повідомлення, коли блокуються спливні вікна або сторонні переспрямування
+    .accesskey = е
+edit-popup-settings2 =
+    .label = Керувати налаштуваннями спливних вікон і стороннім переспрямуванням…
+    .accesskey = К
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Ви заблокували доступ до екрана для цього вебсайту.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ви заблокували постійне сховище для цього вебсайту.
+urlbar-popup-blocked2 =
+    .tooltiptext = Ви заблокували спливні вікна та сторонні переспрямування для цього вебсайту.
 urlbar-popup-blocked =
     .tooltiptext = Ви заблокували спливні вікна для цього вебсайту.
 urlbar-autoplay-media-blocked =
@@ -1177,6 +1185,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Блокувати спливні вікна для { $uriHost }
     .accesskey = о
+popups-infobar-allow2 =
+    .label = Дозволити спливні вікна та сторонні переспрямування для { $uriHost }
+    .accesskey = з
 
 ##
 
@@ -1369,6 +1380,14 @@ popup-warning-message =
         [few] { -brand-short-name } заблокував { $popupCount } спливні вікна з цього сайту.
        *[many] { -brand-short-name } заблокував { $popupCount } спливних вікон з цього сайту.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } заблокував переспрямування з цього сайту.
+        [1] { -brand-short-name } заблокував для цього сайту відкриття спливного вікна і переспрямування.
+       *[other] { -brand-short-name } заблокував для цього сайту відкриття $popupCount спливних вікон і переспрямувань.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1377,6 +1396,14 @@ popup-warning-exceeded-message =
         [one] { -brand-short-name } заблокував більше { $popupCount } спливного вікна з цього сайту.
         [few] { -brand-short-name } заблокував більше { $popupCount } спливних вікон з цього сайту.
        *[many] { -brand-short-name } заблокував більше { $popupCount } спливних вікон з цього сайту.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } заблокував для цього сайту відкриття щонайменше { $popupCount } спливного вікна та переспрямування.
+        [few] { -brand-short-name } заблокував для цього сайту відкриття щонайменше { $popupCount } спливних вікон і переспрямувань.
+       *[many] { -brand-short-name } заблокував для цього сайту відкриття щонайменше { $popupCount } спливних вікон і переспрямувань.
     }
 popup-warning-button =
     .label =
@@ -1393,6 +1420,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Показати “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Показати “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

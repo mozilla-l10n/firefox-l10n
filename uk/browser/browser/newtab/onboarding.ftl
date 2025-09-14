@@ -445,10 +445,16 @@ onboarding-checklist-sign-up = Зареєструйте обліковий за�
 
 tab-groups-onboarding-feature-callout-title = Спробуйте групи вкладок – менше безладу й більше уваги
 tab-groups-onboarding-feature-callout-subtitle = Впорядкуйте свою роботу, перетягнувши одну вкладку на іншу, щоб створити групу.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Будь-коли знаходьте свої групи вкладок у меню "Список усіх вкладок".
 tab-groups-onboarding-create-group-title-2 = Знайдіть свої групи вкладок тут будь-коли.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Знайдіть свої групи за допомогою пошуку в панелі адреси.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Закриваючи групу вкладок, ви зможете будь-коли знову відкрити її з меню "Список усіх вкладок".
 tab-groups-onboarding-saved-groups-title-2 = Коли ви закриєте групу вкладок, то зможете будь-коли знову відкрити її тут.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Знайдіть закриті групи за допомогою пошуку в панелі адреси.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Повторно відкривайте свої групи вкладок з меню "Список усіх вкладок" коли завгодно.
 tab-groups-onboarding-session-restore-title = Повторно відкривайте свої групи вкладок тут будь-коли.
 tab-groups-onboarding-dismiss = OK
 
@@ -471,3 +477,22 @@ dismiss-button-label = Відхилити
 sync-to-mobile-button-label = Синхронізувати з мобільним
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-код для завантаження { -brand-product-name } для мобільних пристроїв
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Відновлення з резервної копії
+restore-from-backup-title = Відновіть усі дані { -brand-short-name }
+restore-from-backup-subtitle = Відновіть усі свої закладки, історію та інші дані, щоб безперебійно продовжити роботу.
+restore-from-backup-secondary-button = Не відновлювати
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Все готово! Ваші дані { -brand-short-name } відновлено.
+restored-from-backup-success-with-checklist-subtitle = Хочете завжди мати під рукою свій улюблений, приватний браузер?
+restored-from-backup-success-no-checklist-subtitle = Активуйте резервне копіювання для цього пристрою в <a data-l10n-name="settings">Налаштуваннях</a>.
+restored-from-backup-success-with-checklist-primary-button = Зберегти й продовжити
+restored-from-backup-success-with-checklist-secondary-button = Пропустити цей крок
+restored-from-backup-success-no-checklist-primary-button = Продовжити
+restored-from-backup-error-title = От халепа... Виникла проблема з вашою резервною копією.
+restored-from-backup-error-subtitle = Якщо у вас є інший файл резервної копії { -brand-short-name }, спробуйте відновити дані з нього. <a data-l10n-name="restore-problems">Не вдається усунути проблему?</a>
+restored-from-backup-error-primary-button = Закрити

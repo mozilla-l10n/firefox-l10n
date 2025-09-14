@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Забагато вкладок? Наведі
 windows-10-eos-sync-tour-subtitle-1 = Перетягніть одну вкладку на іншу, щоб створити групу та впорядкувати роботу.
 windows-10-eos-sync-tour-title-2 = Підготуйтеся до переходу на Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Синхронізуйте свої закладки, паролі та налаштування, щоб створити їх резервну копію заздалегідь.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Показувати менше рекомендацій
+windows-10-eos-sync-dismiss-button-label = Відхилити
+windows-10-eos-sync-callout-primary-advance-button-label = Далі
 
 ## Sidebar Strings
 

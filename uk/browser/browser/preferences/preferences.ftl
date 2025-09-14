@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Вказувати вебсайтам не продавати мої дані та не ділитися ними
     .accesskey = к
 non-technical-privacy-header = Налаштування приватності вебсайтів
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Закрити
+do-not-track-removal2 =
+    .label = Ми більше не підтримуємо сигнал "Не відстежувати"
 
 ## Browser Restart Dialog
 
@@ -1270,12 +1274,35 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Докладніше
 content-blocking-etp-standard-tcp-title = Включає Total Cookie Protection – нашу найпотужнішу функцію приватності
 content-blocking-warning-title = Увага!
 content-blocking-and-isolating-etp-warning-description-3 = Цей параметр може вплинути на належну роботу вебсайтів та їх вмісту. Ми забезпечуємо необов'язкові винятки для вебсайтів, на які може вплинути ваша конфігурація. Щоб зменшити ймовірність пошкодження вебсайтів, дозвольте ці винятки відстеження. Якщо сайт виглядає пошкодженим, ви можете вимкнути захист від стеження для нього, щоб завантажити весь вміст і повідомити про проблему, щоб ми могли виправити її для всіх користувачів.
+content-blocking-warning-title-2 = Надійний захист від стеження може порушити роботу певних вебсайтів
+content-blocking-warning-title-custom = Власний захист від стеження може порушити роботу певних вебсайтів
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } рекомендує використовувати налаштування "Усунення проблем із сайтами", щоб зменшити ймовірність пошкодження функцій та вмісту вебсайтів.
 content-blocking-and-isolating-etp-warning-description-2 = Цей параметр може спричиняти неправильну роботу деяких вебсайтів. Якщо сайт здається пошкодженим, ви можете вимкнути захист від стеження для такого сайту, щоб завантажити весь вміст.
 content-blocking-warning-learn-how = Навчитися
+content-blocking-baseline-exceptions-3 =
+    .label = Усувати значні проблеми з сайтами (рекомендовано)
+    .description = Для належної роботи вебсайтів розблоковуються лише необхідні об'єкти, що можуть містити елементи стеження. Усувається більшість проблем.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Усувати незначні проблеми з сайтами
+    .description = Відновлення вмісту, як-от вбудованих відео в статтях або розділів з коментарями шляхом розблокування лише необхідних об'єктів, що можуть містити елементи стеження. Цей параметр має використовуватися разом з функцією усунення значних проблем.
 content-blocking-baseline-exceptions =
     .label = Дозволити { -brand-short-name } автоматично застосовувати винятки для запобігання збоям у роботі вебсайтів.
+content-blocking-baseline-exceptions-2 =
+    .label = Для належної роботи вебсайтів розблоковуються лише необхідні об'єкти, що можуть містити елементи стеження. Усувається більшість проблем.
 content-blocking-convenience-exceptions =
     .label = Також автоматично застосовувати винятки, необхідні для виправлення лише незначних проблем і забезпечення доступності зручних функцій.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
+content-blocking-convenience-exceptions-2 =
+    .label = Відновлення вмісту, як-от вбудованих відео в статтях або розділів з коментарями шляхом розблокування лише необхідних об'єктів, що можуть містити елементи стеження. Цей параметр має використовуватися разом з функцією усунення значних проблем.
+content-blocking-baseline-label = Усувати значні проблеми з сайтами (рекомендовано)
+content-blocking-convenience-label = Усувати незначні проблеми з сайтами
+content-blocking-exceptions-subheader = Усунення проблем із сайтами
+content-blocking-baseline-uncheck-warning-dialog-title = Ви дійсно хочете вимкнути усунення проблем?
+content-blocking-baseline-uncheck-warning-dialog-body = Цей параметр допомагає усувати найпоширеніші проблеми з вебсайтами. Якщо його вимкнути, деякі сайти можуть не працювати, і { -brand-short-name } не зможе допомогти.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Вимкнути усунення проблем
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Не вимикати
 content-blocking-reload-description = Вам необхідно перезавантажити вкладки для застосування змін.
 content-blocking-reload-tabs-button =
     .label = Перезавантажити всі вкладки
@@ -1330,6 +1357,14 @@ permissions-location = Розташування
 permissions-location-settings =
     .label = Налаштування…
     .accesskey = л
+permissions-localhost = Програми та служби пристрою
+permissions-localhost-settings =
+    .label = Налаштування…
+    .accesskey = Н
+permissions-local-network = Пристрої локальної мережі
+permissions-local-network-settings =
+    .label = Налаштування…
+    .accesskey = Н
 permissions-xr = Віртуальна реальність
 permissions-xr-settings =
     .label = Налаштування…
@@ -1359,6 +1394,9 @@ permissions-autoplay = Автовідтворення
 permissions-autoplay-settings =
     .label = Налаштування…
     .accesskey = т
+permissions-block-popups2 =
+    .label = Блокувати спливні вікна та сторонні переспрямування
+    .accesskey = Б
 permissions-block-popups =
     .label = Блокувати спливні вікна
     .accesskey = Б
