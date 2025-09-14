@@ -49,3 +49,26 @@ login-list-count =
         [one] { $count } و من ٱووڌن
        *[other] { $count } و من ٱووڌن
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } ز { $total } و من ٱووڌن
+       *[other] { $count } ز { $total } و من ٱووڌن
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } رزم
+       *[other] { $count } رزم
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } ز { $total } رزم
+       *[other] { $count } ز { $total } رزم
+    }
