@@ -319,3 +319,14 @@ makeup-avatar-tooltip =
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-tooltip =
     .tooltiptext = Embohéra ñe’ẽmondo avatar
+musical-note-avatar-tooltip =
+    .tooltiptext = Embohéra nota musical avatar
+palette-avatar-tooltip =
+    .tooltiptext = Embohéra paléta avatar
+paw-print-avatar-tooltip =
+    .tooltiptext = Embohéra pypore avatar
+plane-avatar-tooltip =
+    .tooltiptext = Embohéra aviõ avatar
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Embohéra jopói avatar
