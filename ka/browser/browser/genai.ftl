@@ -114,7 +114,7 @@ genai-header-options-button =
 genai-header-close-button =
     .title = დახურვა
 genai-provider-view-details =
-    .label = იხილეთ თანამოსაუბრის მონაცემები
+    .label = ვრცლად თანამოსაუბრის შესახებ
 genai-options-reload-generic =
     .label = ახლიდან ჩაიტვირთოს თანამოსაუბრე
 # $provider (string) - name of the provider
