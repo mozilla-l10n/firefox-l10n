@@ -70,7 +70,7 @@ cert-error-details-cert-chain-label = Certificate chain:
 open-in-new-window-for-csp-or-xfo-error = საიტის გახსნა ახალ ფანჯარაში
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
-csp-xfo-blocked-long-desc = თქვენი უსაფრთხოებისთვის { $hostname } არ იძლევა საშუალებას და { -brand-short-name } ვერ აჩვენებს გვერდს, რომელიც სხვა საიტშია ჩამაგრებული. ამ გვერდის სანახავად, მისი ცალკე ფანჯარაში გახსნა დაგჭირდებათ.
+csp-xfo-blocked-long-desc = თქვენივე უსაფრთხოებისთვის { $hostname } არ იძლევა ნებართვას და { -brand-short-name } ვერ აჩვენებს გვერდს, რომელიც სხვა საიტშია ჩამაგრებული. ამ გვერდის სანახავად მისი ცალკე ფანჯარაში გახსნა მოგიწევთ.
 fp-certerror-view-certificate-link = იხილეთ საიტის სერტიფიკატი
 fp-certerror-return-to-previous-page-recommended-button = უკან დაბრუნება (სასურველია)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
