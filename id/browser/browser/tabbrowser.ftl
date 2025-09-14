@@ -12,6 +12,15 @@ tabbrowser-menuitem-close =
 # Variables:
 #   $tabGroupName (String): the user-defined name of the current tab group.
 tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -216,6 +225,8 @@ tab-group-editor-color-selector2-gray = Kelabu
 tab-group-editor-color-selector2-red = Merah
     .title = Merah
 tab-group-description = { $tabGroupName } — Grup Tab
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Diciutkan
+tab-group-label-tooltip-expanded = { $tabGroupName } — Diperluas
 tab-context-unnamed-group =
     .label = Grup tanpa nama
 tab-group-name-default = Grup Tanpa Nama
@@ -236,6 +247,8 @@ tab-context-move-tab-to-group =
            *[other] Tambahkan Tab ke Grup
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = Grup Tertutup
 tab-group-editor-action-new-tab =
     .label = Tab baru di grup
 tab-group-editor-action-new-window =
@@ -260,6 +273,12 @@ tab-context-ungroup-tab =
            *[other] Hapus dari Grup
         }
     .accesskey = H
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip = { $tabCount } tab lagi
 
 ## Open/saved tab group context menu
 

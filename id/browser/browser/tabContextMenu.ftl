@@ -126,3 +126,10 @@ tab-context-move-tabs =
 tab-context-send-tabs-to-device =
     .label = Kirim Tab ke { $tabCount } Peranti
     .accesskey = k
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Bongkar Tab
+           *[other] Bongkar { $tabCount } Tab
+        }
+    .accesskey = B
