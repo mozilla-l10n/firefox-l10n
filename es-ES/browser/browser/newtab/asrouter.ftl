@@ -346,8 +346,17 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantenga su navegador favorito centrado en la privacidad a un solo clic de distancia. Configure { -brand-short-name } como su navegador predeterminado para abrir enlaces y fíjelo a su barra de tareas y menú Inicio.
 
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-next-button = Siguiente
+windows-10-eos-sync-callout-get-started-button = Comenzar
+
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = ¡Ya están aquí las pestañas verticales y los grupos de pestañas!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Por petición popular, { -brand-product-name } acaba de incorporar nuevas funcionalidades para mantener su navegación optimizada y enfocada.
+windows-10-eos-feature-toast-whats-new-button = Novedades
 windows-10-eos-feature-toast-dismiss-button = Descartar
 
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar

@@ -476,3 +476,17 @@ dismiss-button-label = Descartar
 sync-to-mobile-button-label = Sincronización con el móvil
 desktop-to-mobile-qr-code-alt =
     .aria-label = Código QR para descargar { -brand-product-name } para móviles
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Restaurar desde una copia de seguridad
+restore-from-backup-title = Recuperemos { -brand-short-name } tal y como le gusta
+restore-from-backup-secondary-button = No restaurar
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Guardar y continuar
+restored-from-backup-success-with-checklist-secondary-button = Saltar este paso
+restored-from-backup-success-no-checklist-primary-button = Continuar
+restored-from-backup-error-title = Hmm, hubo un problema con su archivo de respaldo.
+restored-from-backup-error-primary-button = Cerrar

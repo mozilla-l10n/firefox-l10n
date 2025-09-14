@@ -162,6 +162,8 @@ heart-avatar-alt =
     .alt = Corazón
 heart-rate-avatar-alt =
     .alt = Frecuencia cardíaca
+clock-avatar-alt =
+    .alt = Reloj
 leaf-avatar-alt =
     .alt = Hoja
 lightbulb-avatar-alt =
@@ -181,6 +183,8 @@ present-avatar-alt =
     .alt = Regalo
 shopping-avatar-alt =
     .alt = Carrito de la compra
+soccer-ball-avatar-alt =
+    .alt = Balón de fútbol
 soccer-avatar-alt =
     .alt = Fútbol
 sparkle-single-avatar-alt =
@@ -191,6 +195,9 @@ video-game-controller-avatar-alt =
     .alt = Mando de consola
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globo terráqueo
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Icono predeterminado
@@ -206,30 +213,111 @@ bike-avatar-alt =
 
 book-avatar = Libro
 briefcase-avatar = Maletín
+clock-avatar = Reloj
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Lienzo
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Artesanía
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Icono predeterminado
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamante
 flower-avatar = Flor
 folder-avatar = Carpeta
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globo terráqueo
 hammer-avatar = Martillo
 heart-avatar = Corazón
 heart-rate-avatar = Frecuencia cardíaca
+history-avatar = Historial
 leaf-avatar = Hoja
 lightbulb-avatar = Bombilla
 makeup-avatar = Maquillaje
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Mensaje
 musical-note-avatar = Nota musical
 palette-avatar = Paleta
 paw-print-avatar = Huella
+picture-avatar = Imagen
 plane-avatar = Avión
 # Present refers to a gift box, not the current time period
 present-avatar = Regalo
 shopping-avatar = Carrito de la compra
+soccer-ball-avatar = Balón de fútbol
 soccer-avatar = Fútbol
 sparkle-single-avatar = Chispas
 star-avatar = Estrella
 video-game-controller-avatar = Mando de consola
+custom-avatar-crop-back-button =
+    .aria-label = Atrás
+custom-avatar-crop-view =
+    .aria-label = Recortar la vista de la imagen
+custom-avatar-crop-area =
+    .aria-label = Ajustar área de recorte
+custom-avatar-drag-handle =
+    .aria-label = Redimensionar área de recorte
 barbell-avatar = Barra con pesas
 bike-avatar = Bicicleta
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de barra con pesas
+bike-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de bicicleta
+book-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de libro
+briefcase-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de maletín
+picture-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de imagen
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de artesanía
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de globo terráqueo
+diamond-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de diamante
+flower-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de flor
+folder-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de carpeta
+hammer-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de martillo
+heart-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de corazón
+heart-rate-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de frecuencia cardíaca
+clock-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de reloj
+leaf-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de hoja
+lightbulb-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de bombilla
+makeup-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de maquillaje
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de mensaje
+musical-note-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de nota musical
+palette-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de paleta
+paw-print-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de huella
+plane-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de avión
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de regalo
+shopping-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de carrito de compras
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de balón de fútbol
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de destello
+star-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de estrella
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de mando de consola

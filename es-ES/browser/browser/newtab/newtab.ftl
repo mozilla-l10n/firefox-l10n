@@ -550,6 +550,10 @@ newtab-custom-wallpaper-title = Los fondos de pantalla personalizados están aqu
 newtab-custom-wallpaper-subtitle = Suba su propio fondo de pantalla o elija un color personalizado para personalizar su { -brand-product-name }.
 newtab-custom-wallpaper-cta = Inténtelo
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-cta = Pruébelo ahora
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Descargar { -brand-product-name } para móvil
@@ -559,6 +563,11 @@ newtab-download-mobile-highlight-body-variant-b = Continúe donde lo dejó al si
 newtab-download-mobile-highlight-body-variant-c = ¿Sabía usted que puede llevar { -brand-product-name } con usted? El mismo navegador. En su bolsillo.
 newtab-download-mobile-highlight-image =
     .aria-label = Código QR para descargar { -brand-product-name } para móviles
+
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-title = Sus favoritos en la punta de sus dedos
+newtab-shortcuts-highlight-subtitle = Añada un acceso directo para mantener sus favoritos a un clic de distancia.
 
 ## Strings for reporting ads and content
 
@@ -596,6 +605,8 @@ newtab-trending-searches-title = Tendencias de búsqueda
 
 ## Strings for task / to-do list productivity widget
 
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Las posibilidades son infinitas. Añada una.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = Nuevo
@@ -643,12 +654,22 @@ newtab-widget-timer-play =
     .title = Comenzar
 newtab-widget-timer-pause =
     .title = Pausar
+newtab-widget-timer-label-play =
+    .label = Comenzar
+newtab-widget-timer-label-pause =
+    .label = Pausar
 newtab-widget-timer-reset =
     .title = Restablecer
 newtab-widget-timer-menu-notifications = Desactivar notificaciones
 newtab-widget-timer-menu-notifications-on = Activar notificaciones
 newtab-widget-timer-menu-hide = Ocultar temporizador
 newtab-widget-timer-menu-learn-more = Saber más
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Deslice para ver más
+newtab-widget-message-title = Manténgase concentrado con listas y un temporizador incorporado
 newtab-promo-card-title = Apoyar a { -brand-product-name }
 newtab-promo-card-body = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor
 newtab-promo-card-cta = Saber más
+newtab-promo-card-dismiss-button =
+    .title = Descartar
+    .aria-label = Descartar

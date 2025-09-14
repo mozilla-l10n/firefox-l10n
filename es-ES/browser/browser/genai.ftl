@@ -234,3 +234,6 @@ link-preview-generation-error-missing-data = No podemos generar los puntos clave
 link-preview-generation-error-unexpected = Se ha producido un error.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Reintentar
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Ajustes de previsualización de enlace
