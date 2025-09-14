@@ -144,12 +144,21 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Özel temayı uygula
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Ayarları göster
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Kapat
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Kitap
 briefcase-avatar-alt =
     .alt = Çanta
+picture-avatar-alt =
+    .alt = Resim
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Kanvas
@@ -166,6 +175,8 @@ heart-avatar-alt =
     .alt = Kalp
 heart-rate-avatar-alt =
     .alt = Nabız
+clock-avatar-alt =
+    .alt = Saat
 history-avatar-alt =
     .alt = Tarih
 leaf-avatar-alt =
@@ -190,6 +201,8 @@ present-avatar-alt =
     .alt = Armağan
 shopping-avatar-alt =
     .alt = Alışveriş arabası
+soccer-ball-avatar-alt =
+    .alt = Futbol topu
 soccer-avatar-alt =
     .alt = Futbol
 sparkle-single-avatar-alt =
@@ -200,6 +213,9 @@ video-game-controller-avatar-alt =
     .alt = Video oyun kumandası
 custom-avatar-alt =
     .alt = Özel avatar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Dünya
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Varsayılan site simgesi
@@ -215,6 +231,7 @@ bike-avatar-alt =
 
 book-avatar = Kitap
 briefcase-avatar = Çanta
+clock-avatar = Saat
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Tuval
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +243,8 @@ default-favicon-avatar = Varsayılan site simgesi
 diamond-avatar = Elmas
 flower-avatar = Çiçek
 folder-avatar = Klasör
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Dünya
 hammer-avatar = Çekiç
 heart-avatar = Kalp
 heart-rate-avatar = Nabız
@@ -238,10 +257,12 @@ message-avatar = Mesaj
 musical-note-avatar = Müzik notası
 palette-avatar = Palet
 paw-print-avatar = Pati izi
+picture-avatar = Resim
 plane-avatar = Uçak
 # Present refers to a gift box, not the current time period
 present-avatar = Armağan
 shopping-avatar = Alışveriş arabası
+soccer-ball-avatar = Futbol topu
 soccer-avatar = Futbol
 sparkle-single-avatar = Parıltı
 star-avatar = Yıldız
@@ -256,3 +277,51 @@ custom-avatar-drag-handle =
     .aria-label = Kırpma alanını yeniden boyutlandır
 barbell-avatar = Halter
 bike-avatar = Bisiklet
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Halter avatarını uygula
+bike-avatar-tooltip =
+    .tooltiptext = Bisiklet avatarını uygula
+book-avatar-tooltip =
+    .tooltiptext = Kitap avatarını uygula
+briefcase-avatar-tooltip =
+    .tooltiptext = Çanta avatarını uygula
+picture-avatar-tooltip =
+    .tooltiptext = Resim avatarını uygula
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Zanaat avatarını uygula
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Dünya avatarını uygula
+diamond-avatar-tooltip =
+    .tooltiptext = Elmas avatarını uygula
+flower-avatar-tooltip =
+    .tooltiptext = Çiçek avatarını uygula
+folder-avatar-tooltip =
+    .tooltiptext = Klasör avatarını uygula
+hammer-avatar-tooltip =
+    .tooltiptext = Çekiç avatarını uygula
+heart-avatar-tooltip =
+    .tooltiptext = Kalp avatarını uygula
+clock-avatar-tooltip =
+    .tooltiptext = Saat avatarını uygula
+leaf-avatar-tooltip =
+    .tooltiptext = Yaprak avatarını uygula
+lightbulb-avatar-tooltip =
+    .tooltiptext = Ampul avatarını uygula
+makeup-avatar-tooltip =
+    .tooltiptext = Makyaj avatarını uygula
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Mesaj avatarını uygula
+palette-avatar-tooltip =
+    .tooltiptext = Palet avatarını uygula
+plane-avatar-tooltip =
+    .tooltiptext = Uçak avatarını uygula
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Futbol topu avatarını uygula
+star-avatar-tooltip =
+    .tooltiptext = Yıldız avatarını uygula

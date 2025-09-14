@@ -103,4 +103,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Adresi pa
 about-logging-upload-error = Profil karşıya yüklenirken bir hata oluştu: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Yüklenen profil depolanırken bir hata oluştu: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Dosya kaydedilirken bir hata oluştu: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Yüklenen profiller
+about-logging-no-uploaded-profiles = Henüz hiç profil yüklenmedi.
+about-logging-delete-uploaded-profile = Sil
+about-logging-view-uploaded-profile = Profili görüntüle
+about-logging-delete-profile-confirm-title = Profili sil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = “{ $profileName }” profilini silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.
+about-logging-deleting-profile = Siliniyor…

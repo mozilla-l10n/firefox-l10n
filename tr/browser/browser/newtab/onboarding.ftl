@@ -477,3 +477,10 @@ dismiss-button-label = Kapat
 sync-to-mobile-button-label = Mobil cihazla eşitleyin
 desktop-to-mobile-qr-code-alt =
     .aria-label = Mobil cihazlar için { -brand-product-name }’u indirebileceğiniz QR kodu
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Kaydet ve devam et
+restored-from-backup-success-with-checklist-secondary-button = Bu adımı atla
+restored-from-backup-success-no-checklist-primary-button = Devam et
+restored-from-backup-error-primary-button = Kapat

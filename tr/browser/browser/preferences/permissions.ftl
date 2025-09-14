@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Belirli web siteleri için yalnızca HTTPS modunu kapatabilirsiniz. Böylece { -brand-short-name }, bu sitelerde HTTPS güvenliğini sağlamak üzere bağlantıyı yükseltme girişiminde bulunmaz. İstisnalar gizli pencerelerde geçerli değildir.
 permissions-exceptions-https-only-desc2 = Belirli web siteleri için yalnızca HTTPS modunu kapatabilirsiniz. Böylece { -brand-short-name }, bu sitelerde HTTPS güvenliğini sağlamak üzere bağlantıyı yükseltme girişiminde bulunmaz.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = İzin Verilen Siteler - Açılır Pencereler ve Üçüncü Taraf Yönlendirmeler
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

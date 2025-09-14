@@ -79,6 +79,7 @@ policy-ExtensionSettings = Uzantı kurulumunun tüm yönlerini yönet.
 policy-ExtensionUpdate = Otomatik uzantı güncellemelerini aç veya kapat.
 policy-FirefoxHome2 = { -firefox-home-brand-name }'i yapılandır.
 policy-FirefoxSuggest = { -firefox-suggest-brand-name }’ni yapılandır.
+policy-GenerativeAI = Üretken yapay zekâ özelliklerini yapılandır.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Adres çubuğuna tek bir sözcük yazıldığında arama yapmak yerine doğrudan intranet sitesine git.
 policy-Handlers = Varsayılan uygulama işleyicilerini yapılandır.
 policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.

@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Gizli Gezinti
+popups-infobar-dont-show-message2 =
+    .label = Açılır pencereler veya üçüncü taraf yönlendirmeleri engellendiğinde bu mesajı gösterme
+    .accesskey = A
+edit-popup-settings2 =
+    .label = Açılır pencere ve üçüncü taraf yönlendirme ayarlarını yönet…
+    .accesskey = A
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Bu sitenin ekranınızı paylaşmasını engellediniz.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bu sitenin kalıcı veri depolamasını engellediniz.
+urlbar-popup-blocked2 =
+    .tooltiptext = Bu sitede açılır pencereleri ve üçüncü taraf yönlendirmeleri engellediniz.
 urlbar-popup-blocked =
     .tooltiptext = Bu sitedeki açılır pencereleri engellediniz.
 urlbar-autoplay-media-blocked =
@@ -1172,6 +1180,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = { $uriHost } açılır pencerelerini engelle
     .accesskey = p
+popups-infobar-allow2 =
+    .label = { $uriHost } için açılır pencerelere ve üçüncü taraf yönlendirmelerine izin ver
+    .accesskey = p
 
 ##
 
@@ -1334,6 +1345,7 @@ firefox-relay-offer-why-to-use-relay = Güvenli, kullanımı kolay maskelerimiz 
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = E-posta maskelerinize gönderilen tüm e-postalar <strong>{ $useremail }</strong> adresine yönlendirilecektir (siz engellemeye karar vermediğiniz sürece).
 firefox-relay-offer-legal-notice = “E-posta maskesi kullan”a tıkladığınızda <label data-l10n-name="tos-url">Hizmet Koşulları</label>’nı ve <label data-l10n-name="privacy-url">Gizlilik Bildirimi</label>’ni kabul etmiş sayılırsınız.
+firefox-relay-offer-legal-notice-1 = Kaydolup e-posta maskesi oluşturduğunuzda <label data-l10n-name="tos-url">Hizmet Koşulları</label>’nı ve <label data-l10n-name="privacy-url">Gizlilik Bildirimi</label>’ni kabul etmiş sayılırsınız.
 
 ## Add-on Pop-up Notifications
 

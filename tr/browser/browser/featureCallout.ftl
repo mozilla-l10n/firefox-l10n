@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Çok fazla sekmeniz mi var? Sekmelerinizi gru
 windows-10-eos-sync-tour-subtitle-1 = Sekmeleri üst üste sürükleyerek grup oluşturup sekmeleri daha düzenli tutabilirsiniz.
 windows-10-eos-sync-tour-title-2 = Windows 11 için hazırlıklarınızı yapın.
 windows-10-eos-sync-tour-subtitle-2 = Geçiş yapmadan önce yer imlerinizi, parolalarınızı ve ayarlarınızı yedeklemek için eşitleme yapın.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Daha az öneri göster
+windows-10-eos-sync-dismiss-button-label = Kapat
+windows-10-eos-sync-callout-primary-advance-button-label = İleri
 
 ## Sidebar Strings
 
