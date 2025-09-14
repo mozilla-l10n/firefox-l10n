@@ -37,7 +37,7 @@ genai-prompts-explain =
     .value = Magyarázza le a kulcsfogalmakat a kijelölésben, egyszerű szavakat használva. Használjon példákat is.
 # Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
 genai-prompts-proofread =
-    .label = Lektorálás
+    .label = Lektorálja
     .value = Lektorálja a kijelölést helyesírási és nyelvtani hibák szempontjából. Azonosítsa a hibákat, és adja vissza a szöveg javított változatát. Tartsa meg a jelentést és a tényszerű információkat, és először írja ki a javasolt javításokat, majd azt kövesse a szöveg javított változata.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
