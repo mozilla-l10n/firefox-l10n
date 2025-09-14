@@ -1482,3 +1482,78 @@ trustpanel-blocked-header = { -brand-product-name } bloqueó estos elementos:
 trustpanel-tracking-header = { -brand-product-name } permitió estos elementos para que los sitios no fallasen:
 trustpanel-tracking-description = Sin rastreadores, algunos botones, formularios y campos de inicio de sesión podrían no funcionar.
 trustpanel-insecure-section-header = Su conexión no es segura
+trustpanel-insecure-description = Los datos enviados a este sitio no están cifrados. Podrían ser vistos, robados o alterados.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie de rastreo entre sitios
+       *[other] { $count } cookies de rastreo entre sitios
+    }
+trustpanel-list-label-tracking-content = Contenido de rastreo
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } detector de huellas digitales
+       *[other] { $count } detectores de huellas digitales
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } rastreador de redes sociales
+       *[other] { $count } rastreadores de redes sociales
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } criptominero
+       *[other] { $count } criptomineros
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloqueado { $count } rastreador de redes sociales
+       *[other] { -brand-product-name } ha bloqueado { $count } rastreadores de redes sociales
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha permitido { $count } rastreador de redes sociales
+       *[other] { -brand-product-name } ha permitido { $count } rastreadores de redes sociales
+    }
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloqueado { $count } cookie de rastreo entre sitios
+       *[other] { -brand-product-name } ha bloqueado { $count } cookies de rastreo entre sitios
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha permitido { $count } cookie de rastreo entre sitios
+       *[other] { -brand-product-name } ha permitido { $count } cookies de rastreo entre sitios
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloqueado { $count } rastreador
+       *[other] { -brand-product-name } ha bloqueado { $count } rastreadores
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha permitido { $count } rastreador
+       *[other] { -brand-product-name } ha permitido { $count } rastreadores
+    }
+trustpanel-tracking-content-tab-list-header = Estos sitios están intentando rastrearle:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloqueado { $count } detector de huellas digitales
+       *[other] { -brand-product-name } ha bloqueado { $count } detectores de huellas digitales
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha permitido { $count } detector de huellas digitales
+       *[other] { -brand-product-name } ha permitido { $count } detectores de huellas digitales
+    }
+trustpanel-fingerprinter-list-header = Estos sitios están tratando de identificarle:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha bloqueado { $count } criptominero
+       *[other] { -brand-product-name } ha bloqueado { $count } criptomineros
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } ha permitido { $count } criptominero
+       *[other] { -brand-product-name } ha permitido { $count } criptomineros
+    }
+trustpanel-cryptominer-tab-list-header = Estos sitios están tratando de minar criptomonedas:

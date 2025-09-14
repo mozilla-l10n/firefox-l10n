@@ -93,6 +93,9 @@ genai-shortcuts-hide =
     .label = Ocultar el acceso directo del chatbot
 genai-menu-choose-chatbot =
     .label = Elija un chatbot IA
+genai-menu-ask-generic-2 =
+    .label = Preguntar al chatbot IA
+    .accesskey = P
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
     .label = Preguntar a { $provider }
@@ -123,6 +126,11 @@ genai-options-hide-shortcut =
     .label = Ocultar acceso directo al seleccionar texto
 genai-options-about-chatbot =
     .label = Acerca de los chatbots de IA en { -brand-short-name }
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Dado que la página es larga, éste es un resumen parcial.
 
 ## Chatbot footer
 
@@ -216,8 +224,12 @@ link-preview-reading-time =
         [one] { $range } minuto de tiempo de lectura
        *[other] { $range } minutos de tiempo de lectura
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = No podemos previsualizar este enlace
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visitar enlace
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = No podemos generar los puntos clave de esta página web.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Se ha producido un error.
 # Text for the retry link when generation fails

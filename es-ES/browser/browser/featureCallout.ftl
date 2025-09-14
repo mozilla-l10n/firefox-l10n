@@ -114,6 +114,8 @@ fxa-adoption-passwords-primary-button-label = Registrarse
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = No pierda todo lo que haya guardado cuando se pase a Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sincronice ahora para mantener los marcadores, contraseñas y configuraciones de { -brand-short-name } seguros y fáciles de restaurar.
 windows-10-eos-sync-urgency-title-2 = ¿Diciéndole adiós a Windows 10? Proteja sus datos al cambiar.
 windows-10-eos-sync-urgency-subtitle-2 = Incluso si no usa { -brand-short-name } a diario, use la sincronización para mantener los marcadores y contraseñas seguros y accesibles.
 windows-10-eos-sync-new-device-title-1 = No se arriesgue a empezar de nuevo en su próximo dispositivo.
@@ -121,6 +123,18 @@ windows-10-eos-sync-new-device-subtitle-1 = Sincronice para llevar sus marcadore
 windows-10-eos-sync-new-device-title-2 = ¿Cambia de dispositivo? No pierda lo importante.
 windows-10-eos-sync-new-device-subtitle-2 = No importa la frecuencia con la que use { -brand-short-name }, la sincronización protege sus marcadores, contraseñas y configuración.
 windows-10-eos-sync-new-device-primary-label = Sincronizar ahora
+windows-10-eos-sync-general-title-1 = Proteja el { -brand-short-name } que hizo suyo.
+windows-10-eos-sync-general-subtitle-1 = Haga una copia de seguridad y sincronice sus contraseñas, marcadores, configuraciones y otros datos para preservar aquello con lo que cuenta.
+windows-10-eos-sync-general-title-2 = Ahora es un buen momento para hacer una copia de seguridad de sus contraseñas y marcadores.
+windows-10-eos-sync-general-subtitle-2 = Sincronice ahora para proteger las cosas en las que confía { -brand-short-name } y recupérelas en cualquier lugar y en cualquier momento.
+windows-10-eos-sync-tour-title-1 = ¿Demasiadas pestañas? Ordénelas con grupos de pestañas.
+windows-10-eos-sync-tour-subtitle-1 = Arrastre una pestaña sobre otra para crear un grupo y mantener todo organizado.
+windows-10-eos-sync-tour-title-2 = Prepárese para Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sincronice sus marcadores, contraseñas y configuraciones para hacer una copia de seguridad antes de cambiar.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Mostrar menos recomendaciones
+windows-10-eos-sync-dismiss-button-label = Descartar
+windows-10-eos-sync-callout-primary-advance-button-label = Siguiente
 
 ## Sidebar Strings
 
