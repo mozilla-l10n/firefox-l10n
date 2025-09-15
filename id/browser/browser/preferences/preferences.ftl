@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Beritahu situs untuk tidak menjual atau membagikan data saya
     .accesskey = s
 non-technical-privacy-header = Pengaturan Privasi Situs
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Tutup
+do-not-track-removal2 =
+    .label = Kami tidak lagi mendukung sinyal "Jangan Lacak"
 
 ## Browser Restart Dialog
 
@@ -248,6 +252,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Pengaturan kontrol kontras Anda menimpa penampilan situs web.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Pilihan warna Anda mengesampingkan tampilan situs web. <a data-l10n-name="colors-link">Kelola warna</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
@@ -338,6 +346,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Tanyakan selalu tempat menyimpan berkas
     .accesskey = T
+download-private-browsing-delete =
+    .label = Hapus berkas yang diunduh dalam penjelajahan pribadi saat semua jendela pribadi ditutup
+    .accesskey = d
 applications-header = Aplikasi
 applications-description = Pilih cara { -brand-short-name } menangani berkas yang Anda unduh dari Web atau aplikasi yang Anda gunakan saat menjelajah.
 applications-filter =
@@ -492,6 +503,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Jelajah Web
+browsing-group-label =
+    .aria-label = Meramban
 browsing-use-autoscroll =
     .label = Gunakan penggeseran otomatis
     .accesskey = G
@@ -626,6 +639,12 @@ home-prefs-weather-header =
     .label = Cuaca
 home-prefs-weather-description = Sekilas prakiraan hari ini
 home-prefs-weather-learn-more-link = Pelajari lebih lanjut
+home-prefs-trending-search-description = Topik populer dan sering dicari
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Dukung { -brand-product-name }
+home-prefs-mission-message = Sponsor kami mendukung misi kami untuk membangun web yang lebih baik
+home-prefs-mission-message-learn-more-link = Cari tahu bagaimana
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -690,6 +709,9 @@ search-remove-engine =
 search-add-engine =
     .label = Tambah
     .accesskey = a
+search-edit-engine =
+    .label = Sunting
+    .accesskey = S
 search-find-more-link = Temukan lebih banyak mesin pencari
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
