@@ -72,3 +72,5 @@ login-list-filtered-count2 =
         [one] { $count } ز { $total } رزم
        *[other] { $count } ز { $total } رزم
     }
+about-logins-list-section-nothing = بؽ هوشدار
+about-logins-list-section-today = ٱمرۊز
