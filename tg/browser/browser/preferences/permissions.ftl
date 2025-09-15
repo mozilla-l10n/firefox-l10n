@@ -98,6 +98,7 @@ permissions-exceptions-https-only-desc2 = Шумо метавонед реҷаи
 permissions-exceptions-popup-window3 =
     .title = Сомонаҳои иҷозатшуда - равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Шумо метавонед муайян кунед, ки ба кадом сомонаҳо барои кушодани равзанаҳои зоҳиршаванда ва интиқол аз чорчӯбаҳои тарафи сеюм иҷозат дода мешавад.
 
 ## Exceptions - Pop-ups
 

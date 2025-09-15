@@ -146,6 +146,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Танзимоти ҷамъоварии маълумот тағйир ёфт.</strong> Тағйироте, ки дар профили дигар анҷом дода шудаанд, ба ҳамаи профилҳои ин дастгоҳ татбиқ карда мешаванд.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Намоиши танзимот
 # Secondary button label to dismiss the infobar without action
