@@ -74,3 +74,19 @@ login-list-filtered-count2 =
     }
 about-logins-list-section-nothing = بؽ هوشدار
 about-logins-list-section-today = ٱمرۊز
+about-logins-list-section-yesterday = دۊش
+about-logins-list-section-week = 7 رۊز گوڌشته
+
+## Login
+
+login-item-new-login-title = وورکل و من ٱووڌن نۊ
+# Header for adding a password
+about-logins-login-item-new-login-title = ٱووردن رزم
+login-item-edit-button = آلشت
+about-logins-login-item-remove-button = پاک کردن
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = نوم منتوری
+about-logins-login-item-username =
+    .placeholder = (بؽ نوم منتوری)
+login-item-copy-username-button-text = لف گیری
