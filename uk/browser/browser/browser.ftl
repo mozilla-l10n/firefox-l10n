@@ -1386,7 +1386,7 @@ redirect-warning-with-popup-message =
     { $popupCount ->
         [0] { -brand-short-name } заблокував переспрямування з цього сайту.
         [1] { -brand-short-name } заблокував для цього сайту відкриття спливного вікна і переспрямування.
-       *[other] { -brand-short-name } заблокував для цього сайту відкриття $popupCount спливних вікон і переспрямувань.
+       *[other] { -brand-short-name } заблокував для цього сайту відкриття { $popupCount } спливних вікон і переспрямувань.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
