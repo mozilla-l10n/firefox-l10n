@@ -79,6 +79,7 @@ policy-ExtensionSettings = Διαχείριση όλων των πτυχών τ�
 policy-ExtensionUpdate = Ενεργοποίηση ή απενεργοποίηση αυτόματων ενημερώσεων επεκτάσεων.
 policy-FirefoxHome2 = Διαμόρφωση του { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Ρύθμιση των { -firefox-suggest-brand-name(case: "gen") }.
+policy-GenerativeAI = Ρύθμιση λειτουργιών δημιουργικής τεχνητής νοημοσύνης.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Αναγκαστική πλοήγηση στον ιστότοπο ενδοδικτύου, αντί για αναζήτηση κατά την πληκτρολόγηση μίας λέξης στη γραμμή διευθύνσεων.
 policy-Handlers = Ρύθμιση παραμέτρων χειριστών προεπιλεγμένης εφαρμογής.
 policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοποίηση επιτάχυνσης υλικού.
