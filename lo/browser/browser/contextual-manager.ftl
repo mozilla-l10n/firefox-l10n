@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = ນຳເຂົ້າ
 contextual-manager-passwords-command-import = ນຳເຂົ້າຈາກໄຟລ໌...
 contextual-manager-passwords-command-export = ສົ່ງອອກລະຫັດຜ່ານ
 contextual-manager-passwords-command-remove-all = ເອົາລະຫັດຜ່ານທັງໝົດອອກ
+contextual-manager-passwords-command-options = ຕົວເລືອກ
 contextual-manager-passwords-command-settings = ການຕັ້ງຄ່າ
 contextual-manager-passwords-command-help = ຊ່ວຍເຫຼືອ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -115,6 +116,8 @@ contextual-manager-passwords-password-already-exists-error-button = ໄປທີ
 contextual-manager-passwords-update-password-success-heading =
     .heading = ບັນທຶກລະຫັດຜ່ານແລ້ວ!
 contextual-manager-passwords-update-password-success-button = ສຳເລັດ
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = ບັນທຶກຊື່ຜູ້ໃຊ້ແລ້ວ
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = ເພີ່ມຊື່ຜູ້ໃຊ້ແລ້ວ
 contextual-manager-passwords-delete-password-success-button = ສຳເລັດ
@@ -157,6 +160,8 @@ contextual-manager-passwords-password-tooltip-2 = ໃສ່ລະຫັດຜ່
 
 contextual-manager-passwords-list-label =
     .aria-label = ລະຫັດຜ່ານ
+contextual-manager-website-icon =
+    .alt = ໄອຄອນເວັບໄຊທ໌
 contextual-manager-copy-icon =
     .alt = ສຳເນົາ
 contextual-manager-check-icon-username =
@@ -203,6 +208,8 @@ contextual-manager-passwords-no-passwords-found-header =
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = ເພີ່ມພວກມັນໃສ່ບ່ອນນີ້ເພື່ອເລີ່ມຕົ້ນ.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = ເພີ່ມດ້ວຍຕົນເອງ
 

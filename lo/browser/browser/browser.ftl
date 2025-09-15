@@ -1235,3 +1235,5 @@ trustpanel-tracking-content-not-blocking-tab-header = { -brand-product-name } �
 trustpanel-tracking-content-tab-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມຕິດຕາມທ່ານ:
 trustpanel-fingerprinter-blocking-tab-header = { -brand-product-name } ຖືກປິດກັ້ນ { $count } ເຄື່ອງພິມລາຍນິ້ວມື
 trustpanel-fingerprinter-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } ເຄື່ອງພິມລາຍນິ້ວມື
+trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } cryptominers
+trustpanel-cryptominer-tab-list-header = ເວັບເຫຼົ່ານີ້ກໍາລັງພະຍາຍາມ cryptomine:

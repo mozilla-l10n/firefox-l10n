@@ -69,6 +69,12 @@ split-dismiss-button-default-label =
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-secondary-button-label = ບໍ່, ຂອບໃຈ
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = ເພີ່ມບຸກມາກເພີ່ມເຕີມໄດ້ຢ່າງງ່າຍດາຍ
+
+## Perplexity callout strings
+
+perplexity-callout-theme-1-subtitle-1 = ພະຍາຍາມສັບສົນ. ເລືອກມັນຈາກປຸ່ມຄົ້ນຫາໃນເວລາທີ່ທ່ານຕ້ອງການຄໍາຕອບທີ່ສົມບູນ, ແຫຼ່ງຂໍ້ມູນລວມ.
 
 ## Sidebar Strings
 
