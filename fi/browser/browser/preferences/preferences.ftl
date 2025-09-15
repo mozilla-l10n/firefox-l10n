@@ -1271,6 +1271,7 @@ content-blocking-etp-standard-tcp-title = Sisältää totaalisen evästesuojan, 
 content-blocking-warning-title = Huomio!
 content-blocking-and-isolating-etp-warning-description-3 = Tämä asetus saattaa estää joidenkin verkkosivustojen sisällön näyttämisen tai aiheuttaa toimintahäiriöitä. Tarjoamme valinnaisia poikkeuksia verkkosivustoille, joihin tiedämme määrityksesi vaikuttavan. Voit vähentää rikkinäisten verkkosivustojen todennäköisyyttä sallimalla nämä seurainpoikkeukset. Jos sivusto näyttää rikkinäiseltä, voit poistaa seurannansuojauksen käytöstä kyseiseltä sivustolta, jolloin kaikki sisältö latautuu, ja ilmoittaa ongelmasta, jotta voimme auttaa korjaamaan sen kaikille.
 content-blocking-warning-title-2 = Jotkin sivustot saattavat rikkoutua tiukalla seurannan suojauksella
+content-blocking-warning-title-custom = Jotkin sivustot saattavat rikkoutua mukautetulla seurannan suojauksella
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } suosittelee käyttämään ”Korjaa sivuston ongelmat”-asetuksia sivuston rikkinäisten ominaisuuksien ja sisällön vähentämiseksi. Jos sivusto vaikuttaa rikkinäiseltä, kokeile poistaa seurantasuojaus käytöstä kyseiseltä sivustolta, jotta kaikki sisältö latautuu.
 content-blocking-and-isolating-etp-warning-description-2 = Tämä asetus saattaa aiheuttaa sen, että jotkin verkkosivustot eivät näytä sisältöä tai toimi oikein. Jos sivusto vaikuttaa rikkoutuneen, saatat haluta poistaa seurannan suojauksen käytöstä kyseisen sivuston kohdalta, jotta kaikki sisältö voidaan ladata.
@@ -1389,6 +1390,9 @@ permissions-autoplay = Automaattinen toisto
 permissions-autoplay-settings =
     .label = Asetukset…
     .accesskey = t
+permissions-block-popups2 =
+    .label = Estä ponnahdusikkunat ja kolmannen osapuolen uudelleenohjaukset
+    .accesskey = ä
 permissions-block-popups =
     .label = Estä ponnahdusikkunat
     .accesskey = E
