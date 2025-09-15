@@ -319,6 +319,9 @@ newtab-custom-pocket-subtitle = Kivételes tartalmak a { -pocket-brand-name } v�
 newtab-custom-stories-toggle =
     .label = Ajánlott történetek
     .description = Kivételes tartalmak a { -brand-product-name } család válogatásában
+newtab-custom-stories-personalized-toggle =
+    .label = Történetek
+newtab-custom-stories-personalized-checkbox-label = Személyre szabott történetek a tevékenysége alapján
 newtab-custom-pocket-sponsored = Szponzorált történetek
 newtab-custom-pocket-show-recent-saves = Legutóbbi mentések megjelenítése
 newtab-custom-recent-title = Legutóbbi tevékenység
@@ -354,6 +357,7 @@ newtab-wallpaper-custom-color = Válasszon színt
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = A kép túllépte a { $file_size } MB-os fájlméretkorlátot. Próbáljon meg egy kisebb fájlt feltölteni.
+newtab-wallpaper-error-upload-file-type = Nem tudtuk feltölteni a fájlt. Próbálja meg újra egy képfájllal.
 newtab-wallpaper-error-file-type = Nem tudtuk feltölteni a fájlt. Próbálja meg újra egy másik fájltípussal.
 newtab-wallpaper-light-red-panda = Vörös panda
 newtab-wallpaper-light-mountain = Fehér hegy
