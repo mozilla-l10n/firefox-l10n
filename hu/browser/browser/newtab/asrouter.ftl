@@ -366,6 +366,7 @@ windows-10-eos-sync-toast-secondary-label = Figyelmeztetés később
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-callout-subtitle = Ha biztonsági mentést készít a { -brand-product-name } könyvjelzőiről és jelszavairól, könnyebben áthozhatja a választott böngészőjét a következő eszközére.
 windows-10-eos-challenger-pin-callout-subtitle = Rögzítse a { -brand-shorter-name } böngészőt a tálcán, hogy mindig ott legyen, ha szüksége van rá.
 windows-10-eos-challenger-sync-primary-button = Mentse le a { -brand-shorter-name } adatait
 windows-10-eos-challenger-pin-primary-button = A { -brand-shorter-name } kitűzése

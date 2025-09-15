@@ -238,6 +238,12 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Hivatkozások előnézetének engedélyezése
     .description = Az oldal címének, leírásának és egyéb információinak megjelenítése gyorsbillentyű vagy jobb kattintás használatával.
+link-preview-settings-key-points =
+    .label = Engedélyezés, hogy az MI elolvassa az oldal elejét, és kulcspontokat állítson elő
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = A(z) { -brand-short-name } MI segítségével olvassa be az oldal elejét, és néhány kulcspontot állít elő. Az adatvédelmét előtérbe helyezve, mindez a saját eszközén történik.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Új: Kattintson és tartsa lenyomva bármelyik hivatkozást az előnézethez
 # Header for the key points section
 link-preview-key-points-header = Kulcspontok
 # Disclaimer for AI-generated key points
