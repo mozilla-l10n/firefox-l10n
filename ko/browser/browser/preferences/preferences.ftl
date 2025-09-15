@@ -645,7 +645,7 @@ home-prefs-trending-search-description = 인기 있고 자주 검색되는 주�
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } 지원
-home-prefs-mission-message = 스폰서는 더 나은 웹을 만들려는 우리의 사명을 지원합니다
+home-prefs-mission-message = 스폰서는 더 나은 웹을 만들려는 저희를 지원합니다
 home-prefs-mission-message-learn-more-link = 방법 알아보기
 # Variables:
 #   $num (number) - Number of rows displayed
