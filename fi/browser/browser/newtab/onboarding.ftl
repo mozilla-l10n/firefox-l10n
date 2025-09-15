@@ -477,3 +477,22 @@ dismiss-button-label = Hylkää
 sync-to-mobile-button-label = Synkronoi mobiililaitteeseen
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-koodi { -brand-product-name }in mobiiliversion lataamiseksi
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Palauta varmuuskopiosta
+restore-from-backup-title = Palautetaan { -brand-short-name } mieleiseksesi
+restore-from-backup-subtitle = Palauta kaikki kirjanmerkit, historia ja muut tiedot, jotta voit jatkaa selaamista.
+restore-from-backup-secondary-button = Älä palauta
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Olemme palanneet! { -brand-short-name }-tietosi on palautettu.
+restored-from-backup-success-with-checklist-subtitle = Haluatko pitää yksityisyyttä varjelevan suosikkiselaimesi yhden napsautuksen päässä?
+restored-from-backup-success-no-checklist-subtitle = Voit ottaa varmuuskopioinnin käyttöön tälle laitteelle <a data-l10n-name="settings">asetuksissa</a>.
+restored-from-backup-success-with-checklist-primary-button = Tallenna ja jatka
+restored-from-backup-success-with-checklist-secondary-button = Ohita tämä vaihe
+restored-from-backup-success-no-checklist-primary-button = Jatka
+restored-from-backup-error-title = Hmm, varmuuskopiotiedostossasi oli ongelma.
+restored-from-backup-error-subtitle = Jos sinulla on toinen { -brand-short-name }-varmuuskopiotiedosto, yritä palauttaa siitä. <a data-l10n-name="restore-problems">Onko ongelmia edelleen?</a>
+restored-from-backup-error-primary-button = Sulje

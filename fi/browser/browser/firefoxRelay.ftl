@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = m
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Suojaa sähköpostiosoitteesi:
+firefox-relay-opt-in-title-2 = Hanki ilmainen sähköpostimaski
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Käytä { -relay-brand-name } -sähköpostimaskia
 firefox-relay-use-mask-title-1 = Käytä sähköpostimaskia
+firefox-relay-opt-in-subtitle-2 = Suojaa postilaatikkosi roskapostilta
 firefox-relay-use-mask-title = Käytä { -relay-brand-name } -sähköpostimaskia
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Estä roskaposti ilmaisella sähköpostimaskilla
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Hanki ilmainen sähköpostimaski
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Suojaa postilaatikkosi roskapostilta piilottamalla todellinen osoitteesi ilmaisella <label data-l10n-name="firefox-relay-learn-more-url">sähköpostimaskilla</label>. Sähköpostit <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tältä sivustolta</label> tulevat edelleen postilaatikkoosi, mutta sähköpostiosoitteesi on piilotettu.
 firefox-relay-and-fxa-popup-notification-first-sentence = Suojaa postilaatikkosi roskapostilta käyttämällä ilmaista <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }-sähköpostimaskia</label> piilottaaksesi todellisen osoitteesi. Sähköpostit <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tältä sivustolta</label> tulevat edelleen postilaatikkoosi, mutta oikea sähköpostiosoitteesi on piilotettu.
+firefox-relay-offer-why-to-use-relay-1 = Suojaa postilaatikkosi roskapostilta käyttämällä ilmaista <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name }-sähköpostimaskia</label> piilottaaksesi todellisen osoitteesi. Sähköpostit <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tältä sivustolta</label> tulevat edelleen postilaatikkoosi, mutta oikea sähköpostiosoitteesi on piilotettu.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Rekisteröidy ensin tai kirjaudu sisään tilillesi käyttääksesi sähköpostimaskia
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Rekisteröidy

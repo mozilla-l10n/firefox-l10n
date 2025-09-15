@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Liikaa välilehtiä? Järjestä ne välilehti
 windows-10-eos-sync-tour-subtitle-1 = Vedä yksi välilehti toisen päälle luodaksesi ryhmän ja pitääksesi asiat järjestyksessä.
 windows-10-eos-sync-tour-title-2 = Järjestäydy Windows 11:tä varten.
 windows-10-eos-sync-tour-subtitle-2 = Synkronoi kirjanmerkit, salasanat ja asetukset varmuuskopioidaksesi ne ennen vaihtamista.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Näytä vähemmän suosituksia
+windows-10-eos-sync-dismiss-button-label = Hylkää
+windows-10-eos-sync-callout-primary-advance-button-label = Seuraava
 
 ## Sidebar Strings
 

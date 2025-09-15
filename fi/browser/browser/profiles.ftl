@@ -144,6 +144,15 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Käytä mukautettua teemaa
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Tiedonkeruun asetuksia on muutettu.</strong> Toisessa profiilissa tehdyt muutokset koskevat kaikkia tämän laitteen profiileja.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Näytä asetukset
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Hylkää
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
