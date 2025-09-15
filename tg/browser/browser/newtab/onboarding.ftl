@@ -488,6 +488,7 @@ restore-from-backup-secondary-button = Барқарор карда нашава�
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Мо баргаштем! Маълумоти «{ -brand-short-name }»-и шумо барқарор карда шуд.
+restored-from-backup-success-with-checklist-subtitle = Мехоҳед, ки браузери дӯстдоштаи худро, ки ба махфият нигаронида шудааст, дар зери даст нигоҳ доред?
 restored-from-backup-success-no-checklist-subtitle = Шумо метавонед таҳияи нусхаи эҳтиётиро барои ин дастгоҳ дар <a data-l10n-name="settings">Танзимот</a> фаъол созед.
 restored-from-backup-success-with-checklist-primary-button = Нигоҳ доред ва идома диҳед
 restored-from-backup-success-with-checklist-secondary-button = Нодида гузарондани ин қадам
