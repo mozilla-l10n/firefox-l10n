@@ -1030,14 +1030,14 @@ autofill-addresses-checkbox = 주소 저장 및 채우기
     .accesskey = a
 autofill-saved-addresses-button = 저장된 주소
     .accesskey = S
-autofill-payment-methods-checkbox-message = 결제 방법 저장 및 작성
+autofill-payment-methods-checkbox-message = 결제 방법 저장 및 채우기
     .accesskey = m
 autofill-payment-methods-checkbox-submessage = 신용/직불 카드 포함
     .accesskey = I
 autofill-saved-payment-methods-button = 저장된 결제 방법
     .accesskey = v
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = 결제 방법을 작성하고 관리하려면 기기 로그인이 필요합니다.
+autofill-reauth-payment-methods-checkbox = 결제 방법을 채우고 관리하려면 기기 로그인이 필요합니다.
     .accesskey = o
 
 ## Privacy Section - History

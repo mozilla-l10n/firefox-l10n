@@ -20,7 +20,7 @@ autofill-manage-edit-button = 수정…
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = 주소를 저장하시겠습니까?
-address-capture-save-doorhanger-description = 양식을 빠르게 작성할 수 있도록 정보를 { -brand-short-name }에 저장하세요.
+address-capture-save-doorhanger-description = 양식을 빠르게 채울 수 있도록 정보를 { -brand-short-name }에 저장하세요.
 address-capture-update-doorhanger-header = 주소를 업데이트하시겠습니까?
 address-capture-edit-doorhanger-header = 주소 편집
 address-capture-save-button =
