@@ -90,3 +90,46 @@ login-item-username-label = نوم منتوری
 about-logins-login-item-username =
     .placeholder = (بؽ نوم منتوری)
 login-item-copy-username-button-text = لف گیری
+login-item-copied-username-button-text = لف گیری وابی!
+login-item-password-label = رزم
+login-item-password-reveal-checkbox =
+    .aria-label = نشووݩ داڌن رزم
+login-item-password-conceal-checkbox =
+    .aria-label = بؽڌار کردن رزم
+login-item-copy-password-button-text = لف گیری
+login-item-copied-password-button-text = لف گیری وابی!
+login-item-save-changes-button = زفت آلشتکاریا
+about-logins-login-item-save-changes-button = زفت
+login-item-save-new-button = زفت
+login-item-cancel-button = لقو
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = وورکل وابیڌه من
+login-item-timeline-action-updated = ورۊ رسۊوی وابیڌه من
+login-item-timeline-action-used = و کار گرؽڌه من
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## Primary Password notification
+
+master-password-reload-button =
+    .label = و من ٱووڌن
+    .accesskey = و
+
+## Dialogs
+
+confirmation-dialog-cancel-button = لقو
+confirmation-dialog-dismiss-button =
+    .title = لقو
+about-logins-confirm-remove-dialog-title = پاک کردن ای و من ٱووڌن؟
+confirm-delete-dialog-message = ای کار وورگندنی نؽ.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = رزم پاک بۊ؟
