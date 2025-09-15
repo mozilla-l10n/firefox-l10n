@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Weboldal megjelenítése
 experimental-features-group-customize-browsing =
     .label = Szabja testre a böngészést
+experimental-features-group-productivity =
+    .label = Produktivitás
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Jelszavak az oldalsávban
