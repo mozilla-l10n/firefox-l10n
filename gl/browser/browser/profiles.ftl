@@ -268,3 +268,5 @@ flower-avatar-tooltip =
     .tooltiptext = Aplicar o avatar de flores
 folder-avatar-tooltip =
     .tooltiptext = Aplicar o avatar de cartafol
+hammer-avatar-tooltip =
+    .tooltiptext = Aplicar o avatar de martelo
