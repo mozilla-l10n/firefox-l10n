@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Tefolle ljepblêden? Romje it op mei ljepblê
 windows-10-eos-sync-tour-subtitle-1 = Sleep it iene ljepblêd boppe op it oare om in groep oan te meitsjen en dingen organisearre te hâlden.
 windows-10-eos-sync-tour-title-2 = Oarderje foar Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Syngronisearje jo blêdwizers, wachtwurden en ynstellingen om der in reservekopy fan te meitsjen eardat jo oerskeakelje.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Minder oanrekommandearre toane
+windows-10-eos-sync-dismiss-button-label = Slute
+windows-10-eos-sync-callout-primary-advance-button-label = Folgjende
 
 ## Sidebar Strings
 

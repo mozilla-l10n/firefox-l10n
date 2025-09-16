@@ -477,3 +477,8 @@ dismiss-button-label = Slute
 sync-to-mobile-button-label = Syngronisearje mei mobyl
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-koade om { -brand-product-name } foar mobyl te downloaden
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Weromsette fan reservekopy út
+restore-from-backup-title = Litte wy { -brand-short-name } weromkrije sa as jo it wolle
