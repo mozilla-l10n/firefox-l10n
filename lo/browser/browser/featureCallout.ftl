@@ -73,6 +73,9 @@ bookmarks-toolbar-callout-1-secondary-button-label = ບໍ່, ຂອບໃຈ
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = ເພີ່ມບຸກມາກເພີ່ມເຕີມໄດ້ຢ່າງງ່າຍດາຍ
 bookmarks-toolbar-callout-2a-subtitle = ທ່ານສາມາດລາກ ແລະ ວາງແຖບຕ່າງໆໄດ້ທີ່ນີ້ ເພື່ອຮັກສາເວັບໄຊທີ່ທ່ານມັກຫຼາຍຂື້ນຢູ່ໃນການເຂົ້າເຖິງ.
+bookmarks-toolbar-callout-2a-primary-button-label = ເຂົ້າໃຈແລ້ວ
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = ເຊື່ອງແຖບເຄື່ອງມື
 
 ## Perplexity callout strings
 
