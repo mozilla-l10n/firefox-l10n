@@ -676,3 +676,4 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Obnova ze zálohy
+restore-from-backup-secondary-button = Neobnovovat

@@ -148,6 +148,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Anonymní prohlížení
+popups-infobar-dont-show-message2 =
+    .label = Nezobrazovat, pokud jsou blokována vyskakovací okna nebo přesměrování třetích stran
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Spravovat nastavení vyskakovacích oken a přesměrování třetích stran…
+    .accesskey = S
 
 ##
 
@@ -294,6 +300,8 @@ urlbar-screen-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali sdílení vaší obrazovky.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali ukládání dat natrvalo.
+urlbar-popup-blocked2 =
+    .tooltiptext = Pro tuto webovou stránku jste zablokovali vyskakovací okna a přesměrování třetích stran.
 urlbar-popup-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali otevírání vyskakovacích oken.
 urlbar-autoplay-media-blocked =
