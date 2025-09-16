@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ripristina nei siti sp
 ##
 
 policy-LocalFileLinks = Consenti a determinati siti web di usare link a file locali.
+policy-LocalNetworkAccess = Attiva o disattiva i controlli di accesso alla rete locale.
 policy-ManagedBookmarks = Configura un elenco di segnalibri gestiti da un amministratore e non modificabili dall’utente.
 policy-ManualAppUpdateOnly = Consenti solo aggiornamenti manuali e non segnalare all’utente la disponibilità di aggiornamenti.
 policy-PrimaryPassword = Richiedi o impedisci l’utilizzo di una password principale.
