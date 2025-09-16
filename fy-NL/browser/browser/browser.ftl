@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Priveenavigaasje
+popups-infobar-dont-show-message2 =
+    .label = Dit berjocht net toane wannear’t pop-ups of omliedingen fan tredden blokkearre wurde
+    .accesskey = n
+edit-popup-settings2 =
+    .label = Ynstellingen foar pop-ups en omliedingen fan tredden beheare…
+    .accesskey = b
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Jo hawwe jo it dielen fan jo skerm foar dizze website blokkearre.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Jo hawwe permaninte opslach foar dizze website blokkearre.
+urlbar-popup-blocked2 =
+    .tooltiptext = Jo hawwe pop-ups en omliedingen fan tredden foar dizze website blokkearre.
 urlbar-popup-blocked =
     .tooltiptext = Jo hawwe pop-ups foar dizze website blokkearre.
 urlbar-autoplay-media-blocked =
@@ -1173,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Pop-upfinsters fan { $uriHost } blokkearje
     .accesskey = P
+popups-infobar-allow2 =
+    .label = Pop-ups en omliedingen fan tredden tastean foar { $uriHost }
+    .accesskey = P
 
 ##
 
@@ -1363,6 +1374,15 @@ popup-warning-message =
     { $popupCount ->
         [one] { -brand-short-name } hat opkeard dat dizze website in pop-upfinster iepene.
        *[other] { -brand-short-name } hat opkeard dat dizze website { $popupCount } pop-upfinsters iepene.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } hat opkeard dat dizze website trochstjoerde
+        [1] { -brand-short-name } hat opkeard dat dizze website in pop-upfinster iepene en trochstjoerde.
+        [one] { -brand-short-name } hat opkeard dat dizze website in pop-upfinster iepene en trochstjoerde.
+       *[other] { -brand-short-name } hat opkeard dat dizze website { $popupCount } pop-upfinsters iepene en trochstjoerde.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
