@@ -482,3 +482,14 @@ desktop-to-mobile-qr-code-alt =
 
 restore-from-backup-secondary-top-button = Weromsette fan reservekopy út
 restore-from-backup-title = Litte wy { -brand-short-name } weromkrije sa as jo it wolle
+restore-from-backup-subtitle = Werstel al jo blêdwizers, skiednis en oare gegevens om werom te kearen nei sneupen.
+restore-from-backup-secondary-button = Net weromsette
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Wy binne werom! { -brand-short-name }-gegevens binne weromset.
+restored-from-backup-success-with-checklist-subtitle = Wolle jo jo favorite op privacy rjochte browser ien klik tichteby hâlde?
+restored-from-backup-success-with-checklist-primary-button = Bewarje en trochgean
+restored-from-backup-success-with-checklist-secondary-button = Dizze stap oerslaan
+restored-from-backup-success-no-checklist-primary-button = Trochgean
+restored-from-backup-error-primary-button = Slute
