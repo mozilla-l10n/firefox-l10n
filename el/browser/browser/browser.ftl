@@ -1372,10 +1372,26 @@ popup-warning-message =
         [one] Το { -brand-short-name } εμπόδισε το άνοιγμα ενός αναδυόμενου παραθύρου στον ιστότοπο.
        *[other] Το { -brand-short-name } εμπόδισε το άνοιγμα { $popupCount } αναδυόμενων παραθύρων στον ιστότοπο.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] Το { -brand-short-name } εμπόδισε την ανακατεύθυνση στον ιστότοπο.
+        [1] Το { -brand-short-name } εμπόδισε το άνοιγμα και την ανακατεύθυνση αναδυόμενου παραθύρου στον ιστότοπο.
+        [one] Το { -brand-short-name } εμπόδισε το άνοιγμα και την ανακατεύθυνση αναδυόμενου παραθύρου στον ιστότοπο.
+       *[other] Το { -brand-short-name } εμπόδισε το άνοιγμα και την ανακατεύθυνση { $popupCount } αναδυόμενων παραθύρων στον ιστότοπο.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = Το { -brand-short-name } εμπόδισε το άνοιγμα περισσότερων από { $popupCount } αναδυόμενων παραθύρων στον ιστότοπο.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] Το { -brand-short-name } εμπόδισε το άνοιγμα και την ανακατεύθυνση { $popupCount } αναδυόμενου παραθύρου στον ιστότοπο.
+       *[other] Το { -brand-short-name } εμπόδισε το άνοιγμα και την ανακατεύθυνση περισσότερων από { $popupCount } αναδυόμενων παραθύρων στον ιστότοπο.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
