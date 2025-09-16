@@ -1481,6 +1481,7 @@ trustpanel-blocker-section-header =
 trustpanel-blocker-description = { -brand-product-name } oguerovia umi mba’apohaguasu nde rapykueho’ivéta. Upévare rojokopa roipotávape.
 trustpanel-blocked-header = { -brand-product-name } ojoko ko’ã mba’e ndéve g̃uarã:
 trustpanel-tracking-header = { -brand-product-name } omoneĩ ko’ã mba’e tendakuéra oikoite hag̃ua:
+trustpanel-tracking-description = Tapykueho’ỹre, heta votõ, myanyhẽha ha jeikeha renda ikatu ndoikoporãi.
 trustpanel-insecure-section-header = Nde jeike nahekorosãihína
 trustpanel-list-label-tracking-cookies =
     { $count ->
