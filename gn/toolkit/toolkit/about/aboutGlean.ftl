@@ -146,6 +146,8 @@ about-glean-button-dictionary-link = Kuatiaite
 about-glean-button-watch = Ñema’ẽ
 # Meaning "to stop watching"
 about-glean-button-unwatch = Anive ehecha
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Umi métrica teramoĩ ndive ndojokupytýi jehechahápe <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Peteĩ métrica ojekuaa’ỹva.
 about-glean-about-data-explanation =
     Eikundaha hag̃ua mba’ekuaarã mbyatypyre rysýire, eporandu pe
