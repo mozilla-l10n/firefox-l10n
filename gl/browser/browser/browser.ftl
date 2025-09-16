@@ -816,6 +816,24 @@ urlbar-result-realtime-opt-in-allow = Amosar suxestións
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Agora non
 urlbar-result-realtime-opt-in-dismiss = Rexeitar
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Non mostrar estas suxestións
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Non mostrar suxestións do mercado
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $nome } · Hoxe
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Remata hoxe
 
 ## Strings used for buttons in the urlbar
 

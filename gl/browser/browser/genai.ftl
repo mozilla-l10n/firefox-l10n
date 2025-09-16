@@ -219,3 +219,9 @@ link-preview-reading-time =
         [one] { $range } minuto de tempo de lectura
        *[other] { $range } minutos de tempo de lectura
     }
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Visitar a ligazón
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Algo saíu mal.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Tentar de novo

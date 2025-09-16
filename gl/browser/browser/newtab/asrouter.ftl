@@ -68,6 +68,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronizar marcadores agora ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botón de peche
     .title = Pechar
+fxa-adoption-primary-button-label = Rexistrarse
 
 ## Protections panel
 
@@ -311,6 +312,8 @@ fxa-menu-message-close-button =
     .title = Pechar
     .aria-label = Pechar
 fxa-menu-message-sign-up-button = Rexistrarse
+fxa-menu-message-sign-in-button = Identificarse
+fxa-menu-message-sync-button = Comezar a sincronización
 fxa-menu-message-sync-devices-primary-text = Sincroniza todos os teus dispositivos
 fxa-menu-message-sync-devices-secondary-text = Obtén a túa información ao instante, como marcadores e contrasinais, alí onde uses { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincroniza todos os teus dispositivos
@@ -356,3 +359,26 @@ windows-10-eos-sync-toast-title = Actualizando a Windows 11? Non perdas os marca
 windows-10-eos-sync-toast-subtitle = Fai unha copia de seguranza dos teus datos para que { -brand-short-name } estea listo para funcionar en calquera momento, neste PC ou no seguinte.
 windows-10-eos-sync-toast-primary-label = Comezar
 windows-10-eos-sync-toast-secondary-label = Lembrarmo máis tarde
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-primary-button = Facer unha copia de seguranza de { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-info-button = Consulta o que está bloqueado
+windows-10-eos-sync-callout-next-button = Seguinte
+windows-10-eos-sync-callout-get-started-button = Comezar
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Ver as novidades
+windows-10-eos-feature-toast-dismiss-button = Rexeitar
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Máis información
+etp-strict-exceptions-infobar-button = Aplicar correccións
+    .accesskey = A

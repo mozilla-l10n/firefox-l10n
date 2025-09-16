@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importar desde outro 
 contextual-manager-passwords-command-import = Importar dun ficheiro ...
 contextual-manager-passwords-command-export = Exportar contrasinais
 contextual-manager-passwords-command-remove-all = Retirar todos os contrasinais
+contextual-manager-passwords-command-options = Opcións
 contextual-manager-passwords-command-settings = Configuración
 contextual-manager-passwords-command-help = Axuda
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -162,6 +163,10 @@ contextual-manager-passwords-password-already-exists-error-button = Ir ao contra
 contextual-manager-passwords-update-password-success-heading =
     .heading = Contrasinal gardado
 contextual-manager-passwords-update-password-success-button = Feito
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Nome de usuario gardado
+contextual-manager-passwords-update-username-success-heading-2 =
+    .heading = Nome de usuario engadido
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -214,12 +219,15 @@ contextual-manager-passwords-title = Contrasinais
 
 contextual-manager-passwords-create-label =
     .label = Engadir contrasinal
+contextual-manager-passwords-update-label =
+    .label = Actualizar o contrasinal
 contextual-manager-passwords-edit-label =
     .label = Editar contrasinal
 contextual-manager-passwords-remove-label =
     .title = Eliminar contrasinal
 contextual-manager-passwords-origin-tooltip = Introduce o enderezo exacto onde iniciarás sesión neste sitio.
 contextual-manager-passwords-username-tooltip = Introduce o nome de usuario, o enderezo de correo electrónico ou o número de conta que utilizas para iniciar sesión.
+contextual-manager-passwords-password-tooltip-2 = Introduce o contrasinal para iniciar sesión nesta conta.
 contextual-manager-passwords-password-tooltip = Introduce o contrasinal utilizado para iniciar sesión nesta conta.
 
 ## Password Card
@@ -328,3 +336,4 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Si, eliminar contrasinal
        *[other] Si, eliminar contrasinais
     }
+contextual-manager-primary-password-learn-more-link = Máis información

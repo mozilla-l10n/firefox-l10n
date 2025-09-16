@@ -477,3 +477,8 @@ dismiss-button-label = Rexeitar
 sync-to-mobile-button-label = Sincronizar co móbil
 desktop-to-mobile-qr-code-alt =
     .aria-label = Código QR para descargar { -brand-product-name } para móbiles
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Restaurar desde a copia de seguranza
+restore-from-backup-secondary-button = Non restaurar
