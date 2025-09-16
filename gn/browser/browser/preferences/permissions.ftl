@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Ikatu eipe’a HTTPS ayvu añoite ñanduti rendaitépe. { -brand-short-name } nomoambuemo’ãi HTTPS jeike hekorosãva umi tendápe g̃uarã. Umi ykepegua ndoiporúi ovetãnguéra ñemiguáva.
 permissions-exceptions-https-only-desc2 = Ikatu eipe’a HTTPS ayvu ñanduti peteĩva pegua. { -brand-short-name } nombohekopyahumo’ãi HTTPS jeike hekorosãva umi tendápe g̃uarã.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Ñanduti rogue moneĩmbyre - Ovetã apysẽ ha ñemoma’ẽ mohapyha gotyo
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
