@@ -1271,6 +1271,7 @@ content-blocking-etp-standard-tcp-title = Befettet Totale cookiebeskerming, ús 
 content-blocking-warning-title = Let op!
 content-blocking-and-isolating-etp-warning-description-3 = Dizze ynstelling kin derfoar soargje dat guon websites ynhâld net werjaan of goed funksjonearje. Wy biede opsjonele útsûnderingen foar websites wêrfan wy witte dat se beynfloede wurde kinne troch jo konfiguraasje. Om de kâns op defekte websites te ferminderjen, kinne jo dizze trackerútsûnderingen tastean. As in website net liket te wurkjen, kinne jo beskerming tsjin folgjen foar dy website útskeakelje om alle ynhâld te laden en it probleem te melden, sadat wy it foar elkenien oplosse kinne.
 content-blocking-warning-title-2 = Guon websites wurkje mooglik net goed mei strikte beskerming tsjin folgjen
+content-blocking-warning-title-custom = Guon websites wurkje mooglik net goed mei oanpaste beskerming tsjin folgjen
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } advisearret it gebrûk fan de ynstellingen foar ‘Problemen mei website oplosse’ oan om defekte websitefunksjes en -ynhâld te ferminderjen. As in website net liket te wurkjen, probearje dan beskerming tsjin folgjen foar dy website út te skeakeljen om alle ynhâld te laden.
 content-blocking-and-isolating-etp-warning-description-2 = Dizze ynstelling kin derfoar soargje dat guon websites ynhâld net toane of net korrekt wurkje. As in website net liket te wurkjen, dan kinne jo beskerming tsjin folgjen foar dy website útskeakelje om alle ynhâld te laden.
@@ -1389,6 +1390,9 @@ permissions-autoplay = Automatysk ôfspylje
 permissions-autoplay-settings =
     .label = Ynstellingen…
     .accesskey = Y
+permissions-block-popups2 =
+    .label = Pop-ups en omliedingen fan tredden blokkearje
+    .accesskey = b
 permissions-block-popups =
     .label = Pop-upfinsters blokkearje
     .accesskey = P

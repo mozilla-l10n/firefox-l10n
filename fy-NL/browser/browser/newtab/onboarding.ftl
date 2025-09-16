@@ -489,7 +489,10 @@ restore-from-backup-secondary-button = Net weromsette
 
 restored-from-backup-success-title = Wy binne werom! { -brand-short-name }-gegevens binne weromset.
 restored-from-backup-success-with-checklist-subtitle = Wolle jo jo favorite op privacy rjochte browser ien klik tichteby hâlde?
+restored-from-backup-success-no-checklist-subtitle = Jo kinne reservekopyen foar dit apparaat ynskeakelje yn <a data-l10n-name="settings">Ynstellingen</a>.
 restored-from-backup-success-with-checklist-primary-button = Bewarje en trochgean
 restored-from-backup-success-with-checklist-secondary-button = Dizze stap oerslaan
 restored-from-backup-success-no-checklist-primary-button = Trochgean
+restored-from-backup-error-title = Hmm, der is in probleem mei jo reservekopybestân.
+restored-from-backup-error-subtitle = As jo in oar { -brand-short-name }-reservekopybestân hawwe, probearje dan derfan werom te setten. <a data-l10n-name="restore-problems">Noch hieltyd problemen?</a>
 restored-from-backup-error-primary-button = Slute

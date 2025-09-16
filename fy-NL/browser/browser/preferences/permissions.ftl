@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Jo kinne de Allinnich-HTTPS-modus foar spesifike websites útskeakelje. { -brand-short-name } sil foar dy websites net probearje de ferbining nei feilige HTTPS te fernijen. Utsûnderingen binne net fan tapassing op priveefinsters.
 permissions-exceptions-https-only-desc2 = Jo kinne de Allinnich-HTTPS-modus foar spesifike websites útskeakelje. { -brand-short-name } sil foar dy websites net probearje de ferbining nei feilige HTTPS te fernijen.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Tastiene websites - pop-ups en trochferwizingen fan tredden
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Jo kinne opjaan hokker websites pop-upfinsters iepenje meie en troch frames fan tredden trochferwiisd wurde meie.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
