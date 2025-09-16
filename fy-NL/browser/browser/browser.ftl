@@ -1383,6 +1383,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = “{ $popupURI }” sjen litte
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = ‘{ $redirectURI }’ toane
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
