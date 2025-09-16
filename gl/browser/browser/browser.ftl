@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Navegación privada
        *[other] { -brand-full-name } Navegación privada
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Navegación privada
 
 ##
 
@@ -804,6 +807,15 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Amosar suxestións
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Agora non
+urlbar-result-realtime-opt-in-dismiss = Rexeitar
 
 ## Strings used for buttons in the urlbar
 
