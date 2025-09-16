@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Внасяне от �
 contextual-manager-passwords-command-import = Внасяне от файл…
 contextual-manager-passwords-command-export = Изнасяне на пароли
 contextual-manager-passwords-command-remove-all = Премахване на всички пароли
+contextual-manager-passwords-command-options = Настройки
 contextual-manager-passwords-command-settings = Настройки
 contextual-manager-passwords-command-help = Помощ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -113,6 +114,9 @@ contextual-manager-passwords-username-label = Потребителско име
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Парола
     .data-after = Копирана
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Филтриране на пароли
+contextual-manager-passwords-add-password-success-button = Преглед
 contextual-manager-passwords-update-password-success-button = Готово
 contextual-manager-passwords-delete-password-success-button = Готово
 # This message is displayed to make sure that a user wants to delete an existing login.
