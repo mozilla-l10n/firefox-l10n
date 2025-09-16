@@ -146,6 +146,7 @@ contextual-manager-passwords-edit-label =
     .label = Редактиране на паролата
 contextual-manager-passwords-remove-label =
     .title = Премахване на паролата
+contextual-manager-passwords-username-tooltip = Въведете потребителското име, имейл адреса или номера на профила, които използвате за вход.
 
 ## Password Card
 
@@ -168,6 +169,15 @@ contextual-manager-view-alert-heading =
     .heading = Преглед на известието
 contextual-manager-view-alert-button =
     .tooltiptext = Преглед на известието
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Преглед на известието
+            [one] Преглед на известието
+           *[other] Преглед на известията
+        }
 contextual-manager-show-password-button =
     .aria-label = Показване на паролата
     .title = Показване на паролата

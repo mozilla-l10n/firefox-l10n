@@ -120,6 +120,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Kundaha ñemi
+popups-infobar-dont-show-message2 =
+    .label = Ani ehechauka ko ñe’ẽmondo ovetã iñapysẽva térã mbohapejey mbohapyháva gotyo ojejokóma
+    .accesskey = D
 edit-popup-settings2 =
     .label = Eñangareko ovetã apysẽ ñemboheko ha moma’ẽ mohapyhávare…
     .accesskey = M
@@ -1175,6 +1178,9 @@ popups-infobar-allow =
     .accesskey = p
 popups-infobar-block =
     .label = Ovetã apysẽ { $uriHost }-pe g̃uarã joko
+    .accesskey = p
+popups-infobar-allow2 =
+    .label = Emoneĩ ovetã iñapysẽva ha embohapejey mbohapyháva { $uriHost }-pe g̃uarã
     .accesskey = p
 
 ##
