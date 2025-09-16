@@ -110,12 +110,21 @@ profiles-terracotta-theme-2 = Vermello ladrillo
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verde musgo
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Ver configuración
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Rexeitar
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Maletín
+picture-avatar-alt =
+    .alt = Imaxe
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Lenzo
@@ -132,6 +141,8 @@ heart-avatar-alt =
     .alt = Corazón
 heart-rate-avatar-alt =
     .alt = Frecuencia cardíaca
+clock-avatar-alt =
+    .alt = Reloxo
 history-avatar-alt =
     .alt = Historial
 leaf-avatar-alt =
@@ -156,6 +167,8 @@ present-avatar-alt =
     .alt = Agasallo
 shopping-avatar-alt =
     .alt = Carro da compra
+soccer-ball-avatar-alt =
+    .alt = Balón de fútbol
 soccer-avatar-alt =
     .alt = Fútbol
 sparkle-single-avatar-alt =
@@ -166,6 +179,9 @@ video-game-controller-avatar-alt =
     .alt = Controlador de videoxogos
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globo
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Favicon predeterminado
@@ -181,6 +197,7 @@ bike-avatar-alt =
 
 book-avatar = Libro
 briefcase-avatar = Maletín
+clock-avatar = Reloxo
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Lenzo
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -192,6 +209,8 @@ default-favicon-avatar = Favicon predeterminado
 diamond-avatar = Diamante
 flower-avatar = Flor
 folder-avatar = Cartafol
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globo
 hammer-avatar = Martelo
 heart-avatar = Corazón
 heart-rate-avatar = Frecuencia cardíaca
@@ -204,13 +223,48 @@ message-avatar = Mensaxe
 musical-note-avatar = Nota musical
 palette-avatar = Paleta
 paw-print-avatar = Pegada da pata
+picture-avatar = Imaxe
 plane-avatar = Avión
 # Present refers to a gift box, not the current time period
 present-avatar = Agasallo
 shopping-avatar = Carro da compra
+soccer-ball-avatar = Balón de fútbol
 soccer-avatar = Fútbol
 sparkle-single-avatar = Brillo
 star-avatar = Estrela
 video-game-controller-avatar = Controlador de videoxogos
+custom-avatar-crop-back-button =
+    .aria-label = Atrás
+custom-avatar-crop-view =
+    .aria-label = Vista de imaxe recortada
+custom-avatar-crop-area =
+    .aria-label = Axustar a área de corte
+custom-avatar-drag-handle =
+    .aria-label = Cambiar o tamaño da área de corte
 barbell-avatar = Barra
 bike-avatar = Bicicleta
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Aplicar o avatar de barra con pesas
+bike-avatar-tooltip =
+    .tooltiptext = Aplicar o avatar de bicicleta
+book-avatar-tooltip =
+    .tooltiptext = Aplicar o avatar do libro
+briefcase-avatar-tooltip =
+    .tooltiptext = Aplicar o avatar de maletín
+picture-avatar-tooltip =
+    .tooltiptext = Aplicar o avatar de imaxe
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Aplicar o avatar de artesanía
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Aplicar o avatar de globo
+diamond-avatar-tooltip =
+    .tooltiptext = Aplicar o avatar de diamante
+flower-avatar-tooltip =
+    .tooltiptext = Aplicar o avatar de flores
+folder-avatar-tooltip =
+    .tooltiptext = Aplicar o avatar de cartafol

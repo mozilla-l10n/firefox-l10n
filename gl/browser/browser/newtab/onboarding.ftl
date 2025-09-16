@@ -482,3 +482,12 @@ desktop-to-mobile-qr-code-alt =
 
 restore-from-backup-secondary-top-button = Restaurar desde a copia de seguranza
 restore-from-backup-secondary-button = Non restaurar
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Xa estamos de volta! Os teus datos de { -brand-short-name } restauráronse.
+restored-from-backup-success-with-checklist-primary-button = Gardar e continuar
+restored-from-backup-success-with-checklist-secondary-button = Ignorar este paso
+restored-from-backup-success-no-checklist-primary-button = Continuar
+restored-from-backup-error-title = Hmm, houbo un problema co ficheiro de copia de seguranza.
+restored-from-backup-error-primary-button = Pechar

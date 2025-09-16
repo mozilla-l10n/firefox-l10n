@@ -79,6 +79,7 @@ policy-ExtensionSettings = Xestionar todos os aspectos da instalación de extens
 policy-ExtensionUpdate = Activar ou desactivar as actualizacións automáticas de extensións.
 policy-FirefoxHome2 = Configurar { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Configurar { -firefox-suggest-brand-name }.
+policy-GenerativeAI = Configurar as funcións de IA xerativa.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Forzar a navegación directa no sitio da intranet en lugar de buscar ao escribir entradas dunha soa palabra na barra de enderezos.
 policy-Handlers = Configurar os manipuladores de aplicativos predeterminados.
 policy-HardwareAcceleration = Se é falso, desactiva a aceleración por hardware.
