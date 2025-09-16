@@ -1271,6 +1271,7 @@ content-blocking-etp-standard-tcp-title = Includes Total Cookie Protection, our 
 content-blocking-warning-title = Heads up!
 content-blocking-and-isolating-etp-warning-description-3 = This setting may cause some web sites to not display content or function correctly. We provide optional exceptions for web sites that we know can be affected by your configuration. To reduce the chance of broken web sites, allow these tracker exceptions. If a site appears broken, you can turn off tracking protection for that site to load all content and report the issue so we can help fix it for everyone.
 content-blocking-warning-title-2 = Some sites may break with strict tracking protection
+content-blocking-warning-title-custom = Some sites may break with custom tracking protection
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recommends using the “Fix site issues” settings to reduce broken site features and content. If a site seems broken, try turning off tracking protection for that site to load all content.
 content-blocking-and-isolating-etp-warning-description-2 = This setting may cause some web sites to not display content or work correctly. If a site seems broken, you may want to turn off tracking protection for that site to load all content.
@@ -1389,6 +1390,9 @@ permissions-autoplay = Autoplay
 permissions-autoplay-settings =
     .label = Settings…
     .accesskey = t
+permissions-block-popups2 =
+    .label = Block pop-ups and third-party redirects
+    .accesskey = B
 permissions-block-popups =
     .label = Block pop-up windows
     .accesskey = B

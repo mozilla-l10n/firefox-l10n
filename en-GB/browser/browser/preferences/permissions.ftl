@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = You can turn off HTTPS-Only Mode for specific websites. { -brand-short-name } won’t attempt to upgrade the connection to secure HTTPS for those sites. Exceptions do not apply to private windows.
 permissions-exceptions-https-only-desc2 = You can turn off HTTPS-Only Mode for specific web sites. { -brand-short-name } won’t attempt to upgrade the connection to secure HTTPS for those sites.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Allowed Web Sites - Pop-ups and Third-Party Redirects
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = You can specify which web sites are allowed to open pop-up windows and be redirected by third-party frames.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
