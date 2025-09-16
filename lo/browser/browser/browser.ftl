@@ -1037,6 +1037,10 @@ tabs-toolbar-list-all-tabs =
     .label = ສະແດງລາຍຊື່ແຖບທັງໝົດ
     .tooltiptext = ສະແດງລາຍຊື່ແຖບທັງໝົດ
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = ວາງແຖບໃສ່ບ່ອນນີ້ເພື່ອປັກໝຸດ
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon

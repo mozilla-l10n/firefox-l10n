@@ -250,6 +250,10 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = ເບິ່ງຄຳອະທິບາຍ
     .accesskey = D
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = ຄົ້ນຫາຮູບພາບດ້ວຍ { $engine }
 main-context-menu-video-save-as =
     .label = ບັນທຶກວີດີໂອນີ້ໄວ້ທີ່…
     .accesskey = v
