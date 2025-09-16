@@ -1478,6 +1478,7 @@ trustpanel-blocker-section-header =
         [one] <span>{ $count }</span> Tapykuehoha jokopyre ko tendápe g̃uarã
        *[other] <span>{ $count }</span> Tapykuehohakuéra jokopyre ko tendápe g̃uarã
     }
+trustpanel-blocker-description = { -brand-product-name } oguerovia umi mba’apohaguasu nde rapykueho’ivéta. Upévare rojokopa roipotávape.
 trustpanel-blocked-header = { -brand-product-name } ojoko ko’ã mba’e ndéve g̃uarã:
 trustpanel-tracking-header = { -brand-product-name } omoneĩ ko’ã mba’e tendakuéra oikoite hag̃ua:
 trustpanel-insecure-section-header = Nde jeike nahekorosãihína
