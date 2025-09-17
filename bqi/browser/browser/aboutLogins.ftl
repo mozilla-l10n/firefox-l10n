@@ -6,13 +6,13 @@
 about-logins-page-title = و من ٱووڌنا وو رزما
 about-logins-login-filter =
     .placeholder = پیتینیڌن و من ٱووڌنا
-    .key = پ
+    .key = F
 create-new-login-button =
     .title = وورکل و من ٱووڌن نۊ
 about-logins-page-title-name = رزما
 about-logins-login-filter2 =
     .placeholder = پیتینیڌن رزما
-    .key = ب
+    .key = F
 create-login-button =
     .title = ٱووردن رزم
 fxaccounts-sign-in-text = رزماتووه من دسگایل دیری خوتووݩ داشته بۊین

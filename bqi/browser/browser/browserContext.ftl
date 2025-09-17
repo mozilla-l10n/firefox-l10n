@@ -51,3 +51,44 @@ toolbar-button-stop-reload =
 toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name(capitalization: "sentence") }
     .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = هساو منتوری
+    .tooltiptext = هساو منتوری
+
+## Media (video/audio) controls
+##
+## The accesskey for "Play" and "Pause" are the
+## same because the two context-menu items are
+## mutually exclusive.
+
+main-context-menu-media-play =
+    .label = پشک
+    .accesskey = پ
+main-context-menu-media-pause =
+    .label = واڌاشتن
+    .accesskey = و
+
+##
+
+main-context-menu-media-mute =
+    .label = بؽ دونگ
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = وا دونگ
+    .accesskey = m
+main-context-menu-media-play-speed-2 =
+    .label = ترات
+    .accesskey = d
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
