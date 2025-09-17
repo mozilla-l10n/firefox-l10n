@@ -476,3 +476,17 @@ dismiss-button-label = Skrij
 sync-to-mobile-button-label = Sinhronizacija z mobilno napravo
 desktop-to-mobile-qr-code-alt =
     .aria-label = Koda QR za prenos { -brand-product-name(sklon: "rodilnik") } za mobilne naprave
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Obnovitev iz varnostne kopije
+restore-from-backup-title = Povrnite si { -brand-short-name(sklon: "tozilnik") }, kakršen vam je všeč
+restore-from-backup-secondary-button = Ne obnovi
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Spet smo nazaj! Vaši podatki { -brand-short-name(sklon: "rodilnik") } so bili obnovljeni.
+restored-from-backup-success-with-checklist-primary-button = Shrani in nadaljuj
+restored-from-backup-success-with-checklist-secondary-button = Preskoči ta korak
+restored-from-backup-success-no-checklist-primary-button = Nadaljuj
+restored-from-backup-error-primary-button = Zapri

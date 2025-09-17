@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = Preveč zavihkov? Uredite jih s skupinami zav
 windows-10-eos-sync-tour-subtitle-1 = Povlecite en zavihek na drugega, da ustvarite skupino in ohranite red.
 windows-10-eos-sync-tour-title-2 = Bodite organizirani za Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Sinhronizirajte zaznamke, gesla in nastavitve, da jih varnostno kopirate pred prehodom.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Prikazuj manj priporočil
+windows-10-eos-sync-dismiss-button-label = Zapri
+windows-10-eos-sync-callout-primary-advance-button-label = Naprej
 
 ## Sidebar Strings
 

@@ -101,4 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Deli URL
 about-logging-upload-error = Pri nalaganju profila je prišlo do napake: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Pri shranjevanju naloženega profila je prišlo do napake: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Pri shranjevanju datoteke je prišlo do napake: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Naloženi profili
+about-logging-no-uploaded-profiles = Naložen ni bil še noben profil.
+about-logging-delete-uploaded-profile = Izbriši
+about-logging-view-uploaded-profile = Prikaži profil
+about-logging-delete-profile-confirm-title = Izbriši profil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Ali ste prepričani, da želite izbrisati profil "{ $profileName }"? Dejanja ni mogoče razveljaviti.
+about-logging-deleting-profile = Brisanje …

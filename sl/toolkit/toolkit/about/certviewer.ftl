@@ -110,6 +110,8 @@ certificate-viewer-export = Izvozi
 
 # Label for a tab where we haven't found a better label:
 certificate-viewer-unknown-group-label = (neznano)
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = digitalno potrdilo
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
