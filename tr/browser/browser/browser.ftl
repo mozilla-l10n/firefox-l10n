@@ -1372,6 +1372,15 @@ popup-warning-message =
         [one] { -brand-short-name } bu sitenin açılır pencere açmasını engelledi.
        *[other] { -brand-short-name } bu sitenin { $popupCount } açılır pencere açmasını engelledi.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } bu sitenin sizi yönlendirmesini engelledi.
+        [1] { -brand-short-name } bu sitenin açılır pencere açmasını ve sizi yönlendirmesini engelledi.
+        [one] { -brand-short-name } bu sitenin { $popupCount } açılır pencere açmasını ve sizi yönlendirmesini engelledi.
+       *[other] { -brand-short-name } bu sitenin { $popupCount } açılır pencere açmasını ve sizi yönlendirmesini engelledi.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1379,6 +1388,13 @@ popup-warning-exceeded-message =
     { $popupCount ->
         [one] { -brand-short-name } bu sitenin { $popupCount } açılır pencere açmasını engelledi.
        *[other] { -brand-short-name } bu sitenin { $popupCount } açılır pencere açmasını engelledi.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } bu sitenin en az { $popupCount } açılır pencere açmasını ve sizi yönlendirmesini engelledi.
+       *[other] { -brand-short-name } bu sitenin en az { $popupCount } açılır pencere açmasını ve sizi yönlendirmesini engelledi.
     }
 popup-warning-button =
     .label =
@@ -1395,6 +1411,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = “{ $popupURI }” penceresini göster
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = “{ $redirectURI }” sayfasını göster
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

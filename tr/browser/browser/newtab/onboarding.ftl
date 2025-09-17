@@ -478,6 +478,10 @@ sync-to-mobile-button-label = Mobil cihazla eşitleyin
 desktop-to-mobile-qr-code-alt =
     .aria-label = Mobil cihazlar için { -brand-product-name }’u indirebileceğiniz QR kodu
 
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Yedekten geri yükle
+
 ## Restored from Backup spotlight
 
 restored-from-backup-success-with-checklist-primary-button = Kaydet ve devam et
