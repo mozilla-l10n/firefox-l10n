@@ -149,10 +149,15 @@ about-logins-confirm-export-dialog-confirm-button = و در کشیڌن…
 
 ## Vulnerable Password notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = راو و { $hostname }
 about-logins-vulnerable-alert-learn-more-link = قلوه دووسته بۊین
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = و در کشیڌن فایل و من ٱووڌنا
 about-logins-export-file-picker-export-button = و در کشیڌن
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -165,10 +170,25 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 about-logins-import-file-picker-import-button = و من ٱووردن
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] سند CSV
+       *[other] فایل CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] سند TSV
+       *[other] فایل TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = و من ٱووردن دووسمندیا کامل وابی
 about-logins-import-dialog-error-learn-more = قلوه دووسته بۊین
 about-logins-import-dialog-error-cancel = لقو
