@@ -481,9 +481,14 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Yedekten geri yükle
+restore-from-backup-title = { -brand-short-name } tarayıcısını sevdiğiniz eski haline döndürelim
+restore-from-backup-subtitle = Yer imlerinizi, geçmişinizi ve diğer verilerinizi geri yükleyerek gezinmeye kaldığınız yerden devam edin.
+restore-from-backup-secondary-button = Geri yükleme yapma
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Her şey hazır! { -brand-short-name } verileriniz geri yüklendi.
+restored-from-backup-success-with-checklist-subtitle = Gizlilik odaklı favori tarayıcınızı bir tık kadar yakınınızda tutmak ister misiniz?
 restored-from-backup-success-with-checklist-primary-button = Kaydet ve devam et
 restored-from-backup-success-with-checklist-secondary-button = Bu adımı atla
 restored-from-backup-success-no-checklist-primary-button = Devam et
