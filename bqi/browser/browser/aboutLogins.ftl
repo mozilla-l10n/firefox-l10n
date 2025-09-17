@@ -72,6 +72,15 @@ login-list-filtered-count2 =
         [one] { $count } ز { $total } رزم
        *[other] { $count } ز { $total } رزم
     }
+login-list-name-option = نوم (A-Z)
+login-list-name-reverse-option = نوم (Z-A)
+login-list-username-option = نوم منتوری (A-Z)
+login-list-username-reverse-option = نوم منتوری (Z-A)
+about-logins-login-list-alerts-option = هوشدارا
+login-list-last-changed-option = آلشتکاری دیندایی
+login-list-last-used-option = و کار گرؽڌن دیندایی
+login-list-intro-title = هیچ دووسمندی و من ٱووڌنی نجۊرست
+login-list-intro-title2 = هیچ رزمی زفت نوابیڌه
 about-logins-list-section-nothing = بؽ هوشدار
 about-logins-list-section-today = ٱمرۊز
 about-logins-list-section-yesterday = دۊش
@@ -133,3 +142,33 @@ about-logins-confirm-remove-dialog-title = پاک کردن ای و من ٱووڌ
 confirm-delete-dialog-message = ای کار وورگندنی نؽ.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = رزم پاک بۊ؟
+
+##
+
+about-logins-confirm-export-dialog-confirm-button = و در کشیڌن…
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-learn-more-link = قلوه دووسته بۊین
+
+## Login Export Dialog
+
+about-logins-export-file-picker-export-button = و در کشیڌن
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] سند CSV
+       *[other] فایل CSV
+    }
+
+## Login Import Dialog
+
+about-logins-import-file-picker-import-button = و من ٱووردن
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-error-learn-more = قلوه دووسته بۊین
+about-logins-import-dialog-error-cancel = لقو
