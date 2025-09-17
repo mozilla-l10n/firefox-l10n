@@ -4,4 +4,4 @@
 
 menu-copy =
     .label = لف گیری
-    .accesskey = ل
+    .accesskey = C

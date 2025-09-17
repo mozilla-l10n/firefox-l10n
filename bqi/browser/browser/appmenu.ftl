@@ -100,7 +100,7 @@ appmenu-manage-history =
 
 appmenu-about =
     .label = زبار { -brand-shorter-name }
-    .accesskey = ز
+    .accesskey = A
 appmenu-get-help =
     .label = گرؽڌن هیاری
-    .accesskey = گ
+    .accesskey = h

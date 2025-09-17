@@ -4,4 +4,4 @@
 
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = خا
-    .buttonaccesskey = خ
+    .buttonaccesskey = O

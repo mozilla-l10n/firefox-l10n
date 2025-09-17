@@ -4,14 +4,14 @@
 
 xpinstall-disabled-button =
     .label = و کار وندن
-    .accesskey = و
+    .accesskey = n
 
 ## Add-on removal warning
 
 addon-removal-button = پاک کردن
 addon-install-cancel-button =
     .label = لقو
-    .accesskey = ل
+    .accesskey = C
 addon-install-accept-button =
     .label = ٱووردن
-    .accesskey = ٱ
+    .accesskey = A

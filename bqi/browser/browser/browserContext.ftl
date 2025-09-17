@@ -21,11 +21,11 @@ toolbar-button-forward-2 =
 
 main-context-menu-reload =
     .aria-label = گۊشیڌن دووارته
-    .accesskey = گ
+    .accesskey = R
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = گۊشیڌن دووارته
-    .accesskey = گ
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -33,11 +33,11 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = واڌاشتن
-    .accesskey = و
+    .accesskey = S
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = واڌاشتن
-    .accesskey = و
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -66,10 +66,10 @@ toolbar-button-account =
 
 main-context-menu-media-play =
     .label = پشک
-    .accesskey = پ
+    .accesskey = P
 main-context-menu-media-pause =
     .label = واڌاشتن
-    .accesskey = و
+    .accesskey = P
 
 ##
 

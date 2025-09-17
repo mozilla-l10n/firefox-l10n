@@ -4,4 +4,4 @@
 
 synced-tabs-context-copy =
     .label = لف گیری
-    .accesskey = ل
+    .accesskey = C

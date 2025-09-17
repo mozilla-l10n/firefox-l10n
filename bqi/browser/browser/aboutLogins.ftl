@@ -131,7 +131,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 master-password-reload-button =
     .label = و من ٱووڌن
-    .accesskey = و
+    .accesskey = L
 
 ## Dialogs
 
