@@ -66,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = ໃໝ່: { $added }, ອັບເດດ: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = ໃໝ່: { $added }, ອັບເດດ: { $modified }, ຊໍ້າກັນ: { $no_change }, ຂໍ້ຜິດພາດ: { $error }
 contextual-manager-passwords-import-detailed-report = ເບິ່ງບົດລາຍງານລາຍລະອຽດ
 contextual-manager-passwords-import-success-button = ສຳເລັດ
 contextual-manager-passwords-import-error-button-try-again = ລອງໃໝ່ອີກຄັ້ງ
@@ -107,6 +113,12 @@ contextual-manager-passwords-remove-all-confirm-button =
        *[other] ລົບອອກທັງໝົດ
     }
 contextual-manager-passwords-origin-label = ເວັບໄຊທ໌
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = ກັ່ນຕອງລະຫັດຜ່ານ
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = ເພີ່ມລະຫັດຜ່ານສຳລັບ { $url }
 contextual-manager-passwords-add-password-success-button = ເບິ່ງ
 # Variables
 #   $url (string) - The url associated with the existing login
@@ -120,6 +132,14 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = ບັນທຶກຊື່ຜູ້ໃຊ້ແລ້ວ
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = ເພີ່ມຊື່ຜູ້ໃຊ້ແລ້ວ
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] ລຶບລະຫັດຜ່ານອອກແລ້ວ
+           *[other] ລຶບລະຫັດຜ່ານອອກແລ້ວ
+        }
 contextual-manager-passwords-delete-password-success-button = ສຳເລັດ
 #
 # Radiobutton label to display total number of passwords
@@ -224,3 +244,5 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] ແມ່ນແລ້ວ, ເອົາລະຫັດຜ່ານອອກ
        *[other] ແມ່ນແລ້ວ, ເອົາລະຫັດຜ່ານອອກ
     }
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = ໃສ່ລະຫັດຜ່ານຫຼັກ
