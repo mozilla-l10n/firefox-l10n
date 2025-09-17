@@ -66,6 +66,37 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = Opsi lainnya
 
+## Login Status Advisory Callout (points to the account icon)
+
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Anda keluar. Klik ikon akun untuk masuk.
+
+## Bookmarks toolbar callout strings
+
+bookmarks-toolbar-callout-1-title = Tambahkan situs ini ke bilah alat markah Anda?
+bookmarks-toolbar-callout-1-subtitle = Markah Anda akan disimpan tepat di bawah bilah alamat untuk akses cepat.
+bookmarks-toolbar-callout-1-primary-button-label = Tambah markah
+bookmarks-toolbar-callout-1-secondary-button-label = Tidak, Terima Kasih
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Tambahkan markah lainnya dengan mudah
+bookmarks-toolbar-callout-2a-subtitle = Anda dapat menyeret dan menjatuhkan tab di sini untuk menjaga lebih banyak situs favorit Anda dalam jangkauan.
+bookmarks-toolbar-callout-2a-primary-button-label = Paham
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Sembunyikan Bilah Alat
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Biarkan bilah alat markah Anda tetap terbuka?
+bookmarks-toolbar-callout-2b-subtitle = Anda dapat menambahkan situs lain yang lebih sering Anda kunjungi. Cukup seret dan lepas tab di sini untuk menjaga situs web favorit dalam jangkauan.
+bookmarks-toolbar-callout-2b-primary-button-label = Biarkan terbuka
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Tidak, terima kasih
+
+## Perplexity callout strings
+
+perplexity-callout-theme-1-title = Butuh jawaban yang tepat, segera?
+perplexity-callout-theme-2-title = Coba Perplexity: cara baru untuk mencari
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Tampilkan judul tab di bilah samping
