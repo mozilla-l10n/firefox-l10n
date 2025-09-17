@@ -47,3 +47,60 @@ appmenuitem-fullscreen =
 
 appmenu-remote-tabs-sign-into-sync =
     .label = و من ٱووڌن سی هوم گوم کردن…
+appmenu-fxa-signed-in-label = و من ٱووڌن
+
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-header-text = { -profiler-brand-name }
+profiler-popup-learn-more-button =
+    .label = قلوه دووسته بۊین
+profiler-popup-settings =
+    .value = سامووا
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = آلشت سامووا…
+profiler-popup-recording-screen = هونی زفت اکونه…
+profiler-popup-start-recording-button =
+    .label = ناهاڌن پا زفت کردن
+profiler-popup-discard-button =
+    .label = دیر وندن
+profiler-popup-capture-button =
+    .label = گرؽڌن
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-media-label =
+    .label = وارسگر
+profiler-popup-presets-debug-label =
+    .label = موشکل زودایی
+profiler-popup-presets-custom-label =
+    .label = سفارشی
+
+## History panel
+
+appmenu-manage-history =
+    .label = دؽوۉداری ویرگار
+
+## Help panel
+
+appmenu-about =
+    .label = زبار { -brand-shorter-name }
+    .accesskey = ز
+appmenu-get-help =
+    .label = گرؽڌن هیاری
+    .accesskey = گ
