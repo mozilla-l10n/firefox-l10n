@@ -11,3 +11,13 @@ account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = هساو منتوری
+
+## These strings are used in a notification shown when we're opening
+## a single tab another device sent us to display.
+## The body for this notification is the URL of the received tab.
+
+# Used when a tab from a remote device arrives but the URL must be truncated.
+# Should display the URL with an indication that it's been truncated.
+# Variables:
+#   $url (String): the portion of the URL that remains after truncation.
+account-single-tab-arriving-truncated-url = { $url }…

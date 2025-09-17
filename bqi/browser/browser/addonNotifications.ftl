@@ -8,6 +8,7 @@ xpinstall-disabled-button =
 
 ## Add-on removal warning
 
+addon-removal-button = پاک کردن
 addon-install-cancel-button =
     .label = لقو
     .accesskey = ل
