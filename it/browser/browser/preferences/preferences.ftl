@@ -1593,4 +1593,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
