@@ -120,6 +120,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = 隐私浏览
+edit-popup-settings2 =
+    .label = 管理弹出式窗口和第三方重定向设置…
+    .accesskey = M
 
 ##
 
