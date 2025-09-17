@@ -23,3 +23,27 @@ appmenuitem-find-in-page =
     .label = جوستن من بلگه…
 appmenuitem-translate =
     .label = ولرنیڌن بلگه…
+appmenuitem-zoom =
+    .value = گپ نمایی
+appmenuitem-more-tools =
+    .label = ٱوزارا قلوه
+appmenuitem-help =
+    .label = هیاری
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = سامووا
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-zoom-enlarge =
+    .label = گپ نمایی
+appmenuitem-zoom-reduce =
+    .label = کۊچیر نمایی
+appmenuitem-fullscreen =
+    .label = پوی بلگه
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+appmenu-remote-tabs-sign-into-sync =
+    .label = و من ٱووڌن سی هوم گوم کردن…
