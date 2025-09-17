@@ -4,4 +4,4 @@
 
 text-action-copy =
     .label = لف گیری
-    .accesskey = ل
+    .accesskey = C
