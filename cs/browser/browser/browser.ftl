@@ -1281,6 +1281,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blokovat vyskakovací okna pro { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Povolit vyskakovací okna a přesměrování třetích stran pro { $uriHost }
+    .accesskey = P
 
 ##
 
