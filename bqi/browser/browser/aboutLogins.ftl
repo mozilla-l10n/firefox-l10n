@@ -190,5 +190,7 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = و من ٱووردن دووسمندیا کامل وابی
+about-logins-import-dialog-done = ٱنجوم وابی
+about-logins-import-dialog-error-title = ختا و من ٱووڌن دووسمندیا
 about-logins-import-dialog-error-learn-more = قلوه دووسته بۊین
 about-logins-import-dialog-error-cancel = لقو
