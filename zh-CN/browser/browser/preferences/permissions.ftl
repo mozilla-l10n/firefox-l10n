@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = 您可以关闭特定网站的 HTTPS-Only 模式。{ -brand-short-name } 将不再尝试将这些网站的连接升级为安全的 HTTPS。“例外”不会应用至隐私窗口。
 permissions-exceptions-https-only-desc2 = 您可以关闭特定网站的 HTTPS-Only 模式。{ -brand-short-name } 将不再尝试将这些网站的连接升级为安全的 HTTPS。
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = 有特殊权限的网站 - 弹出式窗口和第三方重定向
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = 您可以指定哪些网站可以打开弹出式窗口，以及由第三方框架重定向。
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

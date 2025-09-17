@@ -131,6 +131,10 @@ windows-10-eos-sync-tour-title-1 = 标签页太多了？用标签页群组收拾
 windows-10-eos-sync-tour-subtitle-1 = 将标签页拖放到另一个标签页之上即可创建群组，让标签页井井有条。
 windows-10-eos-sync-tour-title-2 = 做足准备换用 Windows 11。
 windows-10-eos-sync-tour-subtitle-2 = 在更换系统前，同步并备份书签、密码、设置。
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = 减少显示建议
+windows-10-eos-sync-dismiss-button-label = 知道了
+windows-10-eos-sync-callout-primary-advance-button-label = 下一步
 
 ## Sidebar Strings
 

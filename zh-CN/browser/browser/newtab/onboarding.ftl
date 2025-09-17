@@ -460,3 +460,21 @@ dismiss-button-label = 知道了
 sync-to-mobile-button-label = 同步到移动设备
 desktop-to-mobile-qr-code-alt =
     .aria-label = 用于下载移动版 { -brand-product-name } 的二维码
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = 从备份恢复
+restore-from-backup-subtitle = 恢复您的所有书签、历史记录和其他数据，立即接续浏览。
+restore-from-backup-secondary-button = 不恢复
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = 都回来了！您的 { -brand-short-name } 数据已恢复。
+restored-from-backup-success-with-checklist-subtitle = 想一键打开您最爱的隐私为先浏览器吗？
+restored-from-backup-success-no-checklist-subtitle = 您可以在<a data-l10n-name="settings">设置</a>中为此设备开启备份。
+restored-from-backup-success-with-checklist-primary-button = 保存并继续
+restored-from-backup-success-with-checklist-secondary-button = 跳过此步骤
+restored-from-backup-success-no-checklist-primary-button = 继续
+restored-from-backup-error-title = 嗯… 您的备份文件似乎存在问题。
+restored-from-backup-error-subtitle = 若您还有其他 { -brand-short-name } 备份文件，请尝试从那份文件恢复。<a data-l10n-name="restore-problems">仍有问题？</a>
+restored-from-backup-error-primary-button = 关闭

@@ -269,6 +269,8 @@ urlbar-screen-blocked =
     .tooltiptext = 您已阻止此网站共享您的屏幕。
 urlbar-persistent-storage-blocked =
     .tooltiptext = 您已阻止此网站使用持久存储。
+urlbar-popup-blocked2 =
+    .tooltiptext = 您已拦截此网站的弹出式窗口和第三方重定向。
 urlbar-popup-blocked =
     .tooltiptext = 您已拦截此网站的弹出窗口。
 urlbar-autoplay-media-blocked =
@@ -1157,6 +1159,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = 阻止 { $uriHost } 弹出窗口
     .accesskey = p
+popups-infobar-allow2 =
+    .label = 允许 { $uriHost } 的弹出式窗口和第三方重定向
+    .accesskey = p
 
 ##
 
@@ -1342,10 +1347,21 @@ popup-notification-addon-technical-and-interaction-checkbox =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message = { -brand-short-name } 阻止了此网站的 { $popupCount } 个弹窗。
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } 已阻止此网站重定向。
+        [1] { -brand-short-name } 已阻止此网站打开弹出式窗口和重定向。
+       *[other] { -brand-short-name } 已阻止此网站打开 { $popupCount } 个弹出式窗口和重定向。
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } 阻止了此网站打开超过 { $popupCount } 个弹出式窗口。
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message = { -brand-short-name } 已阻止此网站打开超过 { $popupCount } 个弹出式窗口和重定向。
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1361,6 +1377,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = 显示“{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = 显示“{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

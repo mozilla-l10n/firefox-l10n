@@ -1263,6 +1263,7 @@ content-blocking-etp-standard-tcp-title = 包含我们迄今最强大的隐私�
 content-blocking-warning-title = 注意！
 content-blocking-and-isolating-etp-warning-description-3 = 此设置可能导致部分网站无法正常使用或显示内容。对于已知可能受您的配置影响的网站，我们提供了可选的例外处理方式。若要尽量避免网站出现问题，请允许对这部分跟踪器进行例外处理。若网站似乎出现问题，您可为其关闭跟踪保护，以加载所有内容；并反馈相关问题，以便我们为全体用户修复。
 content-blocking-warning-title-2 = 严格级别跟踪保护可能导致某些网站异常
+content-blocking-warning-title-custom = 自定义跟踪保护可能导致某些网站异常
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } 建议使用“修复网站问题”设置，以避免网站功能和内容出现异常。若网站异常，可尝试为其关闭跟踪保护，以加载所有内容。
 content-blocking-and-isolating-etp-warning-description-2 = 此设置可能会导致某些网站无法显示内容或正常工作。若网站异常，则可能需要关闭该网站的跟踪保护功能，以加载全部内容。
@@ -1381,6 +1382,9 @@ permissions-autoplay = 自动播放
 permissions-autoplay-settings =
     .label = 设置…
     .accesskey = t
+permissions-block-popups2 =
+    .label = 拦截弹出式窗口和第三方重定向
+    .accesskey = B
 permissions-block-popups =
     .label = 阻止弹出式窗口
     .accesskey = B
