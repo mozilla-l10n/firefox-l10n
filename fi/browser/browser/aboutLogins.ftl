@@ -259,7 +259,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Kyllä, poista salasana
-       *[other] Yes, remove passwords
+       *[other] Kyllä, poista salasanat
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
