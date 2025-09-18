@@ -111,6 +111,7 @@ about-glean-button-dictionary-link = Documentazione
 about-glean-button-watch = Osserva
 # Meaning "to stop watching"
 about-glean-button-unwatch = Smetti di osservare
+about-glean-no-data-to-display = Nessun dato da visualizzare.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Le metriche con etichetta non sono ancora supportate in <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo di metrica sconosciuto.
