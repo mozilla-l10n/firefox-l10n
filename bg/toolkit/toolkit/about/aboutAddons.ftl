@@ -271,6 +271,7 @@ discopane-notice-recommendations2 =
         Някои от тези препоръки са персонализирани. Те се основават на други
         инсталирани разширения, предпочитания запазени в профила и статистика за използване.
 discopane-notice-learn-more = Научете повече
+colorway-removal-notice-learn-more = Научете повече
 privacy-policy = Политика за поверителност
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -483,3 +484,8 @@ plugins-openh264-name = Видео кодек OpenH264, доставен от Ci
 plugins-openh264-description = Тази приставка се инсталира автоматично от Mozilla за съвместимост със спецификацията на WebRTC, и за да направи възможни обаждания към устройства изискващи видео кодек H.264. Посетете http://www.openh264.org/, за да разгледате изходния код и да научите повече за реализацията.
 plugins-widevine-name = Модул за декриптиране на съдържание Widevine, предоставен от Google Inc.
 plugins-widevine-description = Тази приставка позволява възпроизвеждане на шифрована медия в съответствие със съответната спецификация. Шифровани (кодирани) медии обикновено се използват от сайтовете за защита срещу копиране на платено медийно съдържание. Посетете https://www.w3.org/TR/encrypted-media/ за повече информация относно разширенията за шифровани медии.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+addon-data-collection-learnmore = Научете повече за събирането на данни

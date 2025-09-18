@@ -18,6 +18,7 @@ profile-card =
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профил { $number }
+new-profile-page-learn-more = Научете повече
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 

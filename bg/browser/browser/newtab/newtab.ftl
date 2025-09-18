@@ -455,3 +455,13 @@ newtab-custom-wallpaper-cta = Опитайте
 ## Strings for trending searches
 
 newtab-trending-searches-learn-more = Научете повече
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-menu-learn-more = Научете повече
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-menu-learn-more = Научете повече
+newtab-promo-card-cta = Научете повече

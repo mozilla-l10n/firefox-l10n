@@ -22,6 +22,8 @@ autofill-manage-edit-button = Промяна…
 address-capture-not-now-button =
     .label = Не сега
     .accessKey = Н
+address-capture-learn-more-button =
+    .label = Научете повече
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Промяна на адрес
 autofill-address-given-name = Име
