@@ -170,11 +170,14 @@ contextual-manager-passwords-add-username-button = ເພີ່ມຊື່ຜ�
 
 contextual-manager-passwords-create-label =
     .label = ເພີ່ມລະຫັດຜ່ານ
+contextual-manager-passwords-update-label =
+    .label = ອັບເດດລະຫັດຜ່ານ
 contextual-manager-passwords-edit-label =
     .label = ແກ້ໄຂລະຫັດຜ່ານ
 contextual-manager-passwords-remove-label =
     .title = ເອົາລະຫັດຜ່ານອອກ
 contextual-manager-passwords-password-tooltip-2 = ໃສ່ລະຫັດຜ່ານເພື່ອເຂົ້າສູ່ລະບົບບັນຊີນີ້.
+contextual-manager-passwords-password-tooltip = ໃສ່ລະຫັດຜ່ານທີ່ໃຊ້ເພື່ອເຂົ້າສູ່ລະບົບບັນຊີນີ້.
 
 ## Password Card
 

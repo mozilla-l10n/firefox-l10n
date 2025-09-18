@@ -21,11 +21,15 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = ຖາມ { $provider }
+genai-menu-open-generic =
+    .label = ເປີດ AI Chatbot
 genai-menu-remove-generic =
     .label = ເອົາ AI chatbot ອອກ
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = ລຶບ { $provider }
+genai-menu-new-badge = ໃໝ່
+genai-menu-summarize-page = ສະຫຼຸບໜ້າ
 genai-input-ask-generic =
     .placeholder = ຖາມ AI chatbot…
 # $provider (string) - name of the provider
@@ -33,6 +37,8 @@ genai-input-ask-provider =
     .placeholder = ຖາມ { $provider }…
 genai-shortcuts-hide =
     .label = ເຊື່ອງທາງລັດ chatbot
+genai-menu-choose-chatbot =
+    .label = ເລືອກ AI Chatbot
 
 ## Chatbot header
 
