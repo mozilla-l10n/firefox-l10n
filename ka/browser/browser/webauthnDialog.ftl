@@ -30,7 +30,7 @@ webauthn-uv-invalid-short-prompt = მომხმარებლის და�
 
 # Variables:
 #  $hostname (String): the origin (website) asking for the security key.
-webauthn-user-presence-prompt = შეეხეთ დაცვის გამღებს, რომ შეძლოთ ინახულოთ { $hostname }.
+webauthn-user-presence-prompt = შეეხეთ უსაფრთხოების გასაღებს, რომ შეძლოთ ინახულოთ { $hostname }.
 # The website is asking for extended information about your
 # hardware authenticator that shouldn't be generally necessary. Permitting
 # this is safe if you only use one account at this website. If you have
@@ -41,7 +41,7 @@ webauthn-user-presence-prompt = შეეხეთ დაცვის გამ�
 # for different accounts on this website.
 # Variables:
 #  $hostname (String): the origin (website) asking for the extended information.
-webauthn-register-direct-prompt = { $hostname } ითხოვს თქვენს დაცვის გამღებზე ვრცელ მონაცემებს, შედეგად კი შესაძლებელია ხელყონ თქვენი პირადულობა.
+webauthn-register-direct-prompt = { $hostname } ითხოვს უსაფრთხოების თქვენს გასაღებზე ვრცელ მონაცემებს, შედეგად კი შესაძლებელია ხელყონ თქვენი პირადულობა.
 webauthn-register-direct-prompt-hint = { -brand-short-name } მოახერხებს ვინაობის დაფარვას, თუმცა საიტმა შესაძლოა, უარი განაცხადოს ამ სახით მიღებაზე. უარის შემთხვევაში, შეგეძლებათ ხელახლა სცადოთ.
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
