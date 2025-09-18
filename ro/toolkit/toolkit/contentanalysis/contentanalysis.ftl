@@ -68,7 +68,7 @@ contentanalysis-invalid-agent-signature-message-content = Verificarea semnături
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Încărcare „{ $filename }” refuzată.
 contentanalysis-error-message-dropped-text = Tragere și plasare refuzate.
-contentanalysis-error-message-clipboard = Lipire refuzată.
+contentanalysis-error-message-clipboard = Inserare refuzată.
 contentanalysis-error-message-print = Imprimare refuzată.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -82,8 +82,8 @@ contentanalysis-block-dialog-title-download-file = Nu ai permisiunea de a descă
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-download-file = Conform politicilor de protecție a datelor ale organizației tale, nu ai permisiunea de a descărca fișierul „{ $filename }”. Contactează administratorul pentru mai multe informații.
-contentanalysis-block-dialog-title-clipboard = Nu ai permisiunea de a lipi acest conținut
-contentanalysis-block-dialog-body-clipboard = Conform politicilor de protecție a datelor ale organizației tale, nu ai permisiunea de a lipi acest conținut. Contactează administratorul pentru mai multe informații.
+contentanalysis-block-dialog-title-clipboard = Nu ai permisiunea să inserezi acest conținut
+contentanalysis-block-dialog-body-clipboard = Conform politicilor de protecție a datelor ale organizației tale, nu ai permisiunea de a insera acest conținut. Contactează administratorul pentru mai multe informații.
 contentanalysis-block-dialog-title-dropped-text = Nu ai permisiunea de a plasa acest conținut
 contentanalysis-block-dialog-body-dropped-text = Conform politicilor de protecție a datelor ale organizației tale, nu ai permisiunea de a trage și plasa acest conținut. Contactează administratorul pentru mai multe informații.
 contentanalysis-block-dialog-title-print = Nu ai permisiunea de a imprima acest document
