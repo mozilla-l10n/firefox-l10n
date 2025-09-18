@@ -451,3 +451,7 @@ newtab-topic-selection-button-pick-interests = Изберете вашите и�
 ## Strings for custom wallpaper highlight
 
 newtab-custom-wallpaper-cta = Опитайте
+
+## Strings for trending searches
+
+newtab-trending-searches-learn-more = Научете повече

@@ -29,5 +29,5 @@ preonboarding-header-button-description = 더 알아보기
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = { -vendor-short-name }로 기술 및 상호 작용 데이터 보내기
 preonboarding-checklist-interaction-data-description = 기기, 하드웨어 구성 및 { -brand-product-name } 사용 방식에 대한 데이터는 모든 사용자를 위해 기능, 성능, 안정성을 개선하는 데 도움이 됩니다.
-preonboarding-checklist-crash-reports-label = 자동으로 충돌 보고서 제출
+preonboarding-checklist-crash-reports-label = 자동으로 충돌 보고서 보내기
 preonboarding-checklist-crash-reports-description = 충돌 보고서를 통해 브라우저의 문제를 진단하고 수정할 수 있습니다. 보고서에는 개인 정보나 민감한 정보가 포함되어 있을 수 있습니다.

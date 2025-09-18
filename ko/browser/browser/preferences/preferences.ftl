@@ -1431,7 +1431,7 @@ addon-recommendations-description = 탐색 경험을 향상시키기 위한 확�
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = 이 빌드 구성에서는 데이터 보고를 하지 않습니다.
 collection-backlogged-crash-reports2 =
-    .label = 자동으로 충돌 보고서 제출
+    .label = 자동으로 충돌 보고서 보내기
     .accesskey = c
 collection-backlogged-crash-reports-description = { -vendor-short-name }가 브라우저의 문제를 진단하고 해결하는 데 도움이 됩니다. 보고서에는 개인 정보나 민감한 정보가 포함되어 있을 수 있습니다.
 addon-recommendations =

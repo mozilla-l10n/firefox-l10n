@@ -200,3 +200,4 @@ contextual-manager-passwords-add-manually = Ръчно добавяне
 
 contextual-manager-passwords-discard-changes-close-button = Затваряне
 contextual-manager-passwords-discard-changes-go-back-button = Връщане назад
+contextual-manager-primary-password-learn-more-link = Научете повече

@@ -358,3 +358,12 @@ windows-10-eos-sync-callout-get-started-button = Въведение
 
 windows-10-eos-feature-toast-whats-new-button = Вижте какво ново
 windows-10-eos-feature-toast-dismiss-button = Прекратяване
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Научете повече
