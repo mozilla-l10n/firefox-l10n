@@ -677,3 +677,9 @@ desktop-to-mobile-qr-code-alt =
 
 restore-from-backup-secondary-top-button = Obnova ze zálohy
 restore-from-backup-secondary-button = Neobnovovat
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Uložit a pokračovat
+restored-from-backup-success-with-checklist-secondary-button = Přeskočit tento krok
+restored-from-backup-success-no-checklist-primary-button = Pokračovat
