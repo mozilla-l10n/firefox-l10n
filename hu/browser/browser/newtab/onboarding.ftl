@@ -476,3 +476,8 @@ dismiss-button-label = Eltüntetés
 sync-to-mobile-button-label = Szinkronizálás mobilra
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kód a mobilos { -brand-product-name } letöltéséhez
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Helyreállítás biztonsági mentésből
+restore-from-backup-title = Kapja vissza a { -brand-short-name }ot, ahogy Önnek tetszik
