@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Återgå till föråld
 ##
 
 policy-LocalFileLinks = Tillåt specifika webbplatser att länka till lokala filer.
+policy-LocalNetworkAccess = Aktivera eller inaktivera kontroller av lokala nätverksåtkomst.
 policy-ManagedBookmarks = Konfigurerar en lista över bokmärken som hanteras av en administratör som inte kan ändras av användaren.
 policy-ManualAppUpdateOnly = Tillåt endast manuella uppdateringar och meddela inte användaren om uppdateringar.
 policy-PrimaryPassword = Kräv eller förhindra användandet av ett huvudlösenord.
@@ -141,6 +142,7 @@ policy-SupportMenu = Lägg till ett anpassat menyalternativ med hjälp i hjälpm
 policy-TranslateEnabled = Aktivera eller inaktivera webböversättning.
 policy-UserMessaging = Visa inte vissa meddelanden till användaren.
 policy-UseSystemPrintDialog = Skriv ut med hjälp av systemets utskriftsdialog.
+policy-VisualSearchEnabled = Aktivera eller inaktivera visuell sökning.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blockera besök på webbplatser. Läs dokumentationen för mer detaljer om hur de anges.
 policy-Windows10SSO = Tillåt Windows enkel inloggning för Microsoft-, arbets- och skolkonton.
