@@ -403,3 +403,5 @@ etp-strict-exceptions-infobar-message = <strong>Муҳофизати ҷиддӣ 
 etp-strict-exceptions-infobar-learn-more = Маълумоти бештар
 etp-strict-exceptions-infobar-button = Татбиқ кардани ислоҳҳо
     .accesskey = Т
+etp-strict-exceptions-infobar-not-now = Ҳоло не
+    .accesskey = Ҳ

@@ -34,3 +34,17 @@ taskbar-tab-audio-mute =
     .tooltiptext = Хомӯш кардани садо дар варақа
 taskbar-tab-audio-unmute =
     .tooltiptext = Фаъол кардани садо дар варақа
+
+## These are used as part of the window title, possibly after the content's
+## title.
+##
+## Variables:
+##  $name (String): The name of the installed web app.
+##  $container (String): The name of the user's container (e.g. 'Work',
+##  'Personal').
+##  $profile (String): The name of the user's current profile.
+
+taskbar-tab-title-default = «{ $name }» дар «{ -brand-full-name }»
+taskbar-tab-title-container = «{ $name }» ({ $container }) дар «{ -brand-full-name }»
+taskbar-tab-title-profile = «{ $name }» дар «{ $profile }» — «{ -brand-full-name }»
+taskbar-tab-title-container-profile = «{ $name }» ({ $container }) дар «{ $profile }» — «{ -brand-full-name }»

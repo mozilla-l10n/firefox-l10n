@@ -95,6 +95,7 @@ inactive-css-not-display-block-on-floated-fix = Кӯшиш кунед, ки <str
 inactive-css-only-non-grid-or-flex-item-fix = Кӯшиш кунед, ки қимати <strong>display</strong>-ро барои дарбаргирандаи унсур ба ягон қимати дигар, ба ғайр аз <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> ё <strong>inline-grid</strong> иваз намоед ё <strong>float</strong>-ро тоза намоед. { learn-more }
 inactive-css-not-block-fix = Кӯшиш кунед, ки <strong>display:block</strong> ё <strong>float:left</strong>-ро илова намоед. { learn-more }
 inactive-css-not-block-container-fix = Кӯшиш кунед, ки <strong>display:block</strong>, <strong>display:inline-block</strong> ё <strong>display:flow-root</strong>-ро илова намоед. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = Кӯшиш кунед, ки зеринро илова намоед: <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> or <strong>display:flow-root</strong>. { learn-more }
 inactive-css-not-floated-fix = Кӯшиш кунед, ки хусусияти <strong>float</strong>-ро бо қимати ғайр аз <strong>none</strong> илова намоед. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Кӯшиш кунед, ки хусусияти <strong>position</strong>-и онро ба хусусияте танзим кунед, ки аз <strong>static</strong> фарқ мекунад. { learn-more }
 inactive-css-only-replaced-elements-fix = Боварӣ ҳосил кунед, ки шумо хусусиятро ба унсури ивазшуда илова мекунед. { learn-more }

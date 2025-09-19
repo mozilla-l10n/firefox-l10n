@@ -112,6 +112,12 @@ fxa-adoption-passwords-subtitle = Ниҳонвожаҳои худро тавас
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Бақайдгирӣ
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Наворҳои ахбори дӯстдоштаи худро дар навори вазифаи худ нигоҳ доред
+taskbar-tabs-email-callout-title = Почтаи электронии худро дар навори вазифаи худ нигоҳ доред
+taskbar-tabs-value-prop-callout-title = Илова кардани ин сомона ба навори вазифаи худ
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ҳангоми гузариши ҳамвор ба низоми амалкунандаи «Windows 11» ҳамаи чизҳои нигоҳдошташудаи худро аз даст надиҳед.
