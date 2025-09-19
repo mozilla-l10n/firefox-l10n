@@ -121,6 +121,7 @@ taskbar-tabs-chat-callout-subtitle = Startujće swoje četowe sydła kaž nało�
 taskbar-tabs-email-callout-title = Wobchowajće swoju e-mejl w swojej nadawkowej lajsće
 taskbar-tabs-email-callout-subtitle = Startujće swoju webmejl kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.
 taskbar-tabs-media-callout-title = Wobstarajće sej streaming ze swojeje nadawkoweje lajsty wróćo
+taskbar-tabs-media-callout-subtitle = Startujće swoje streamingowe sydła kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.
 taskbar-tabs-value-prop-callout-title = Wašej nadawkowej lajsće tute sydło přidać
 taskbar-tabs-value-prop-callout-subtitle = Startujće w swójskim woknje a zjednorjenym wužiwarskim powjerchu z jeničkim klikom.
 
