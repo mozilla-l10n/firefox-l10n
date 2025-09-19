@@ -403,3 +403,5 @@ etp-strict-exceptions-infobar-message = <strong>Strengt sporingsvern kan føre t
 etp-strict-exceptions-infobar-learn-more = Les meir
 etp-strict-exceptions-infobar-button = Bruk fiksar
     .accesskey = B
+etp-strict-exceptions-infobar-not-now = Ikkje no
+    .accesskey = k
