@@ -13,8 +13,13 @@ pocket-panel-saved-saving-tags = هونی زفت ابۊ…
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-learn-more = قلوه دووسته بۊین
 pocket-panel-signup-login = و من ٱووڌن
 pocket-panel-signup-signup-email = نوم نویسی وا ایمیل
+
+## Pocket panel header component
+
+pocket-panel-header-sign-in = و من ٱووڌن
 
 ## Pocket panel buttons
 

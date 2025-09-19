@@ -1373,6 +1373,15 @@ popup-warning-message =
         [one] { -brand-short-name } evitó que este sitio abra una ventana emergente.
        *[other] { -brand-short-name } evitó que este sitio abra { $popupCount } ventanas emergentes.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } evitó que este sitio redirija.
+        [1] { -brand-short-name } evitó que este sitio abra una ventana emergente y redirija.
+        [one] { -brand-short-name } evitó que este sitio abra una ventana emergente y redirija.
+       *[other] { -brand-short-name } evitó que este sitio abra { $popupCount } ventanas emergentes y redirija.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
