@@ -116,7 +116,7 @@ fxa-adoption-passwords-primary-button-label = Registrować
 
 taskbar-tabs-social-callout-title = Wobchowajće swoje najlubše kanale w swojej nadawkowej lajsće
 taskbar-tabs-social-callout-subtitle = Startujće swoje socialne sydła kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.
-taskbar-tabs-chat-callout-title = Četujće ze swojeje nadawkowej lajsty
+taskbar-tabs-chat-callout-title = Četujće ze swojeje nadawkoweje lajsty
 taskbar-tabs-chat-callout-subtitle = Startujće swoje četowe sydła kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.
 taskbar-tabs-email-callout-title = Wobchowajće swoju e-mejl w swojej nadawkowej lajsće
 taskbar-tabs-email-callout-subtitle = Startujće swoju webmejl kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.

@@ -112,6 +112,14 @@ fxa-adoption-passwords-subtitle = Synchronizěrujśo swóje gronidła ze swójim
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrěrowaś
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Wobchowajśo swóje nejlubše kanale w swójej nadawkowej rědce
+taskbar-tabs-social-callout-subtitle = Startujśo swóje socialne sedła ako nałoženje w optiměrowanem woknje, kótarež se pśez  { -brand-short-name } šćita.
+taskbar-tabs-chat-callout-title = Chattujśo ze swójeje nadawkoweje rědki
+taskbar-tabs-chat-callout-subtitle = Startujśo swóje chattowe sedła ako nałoženje w optiměrowanem woknje, kótarež se pśez  { -brand-short-name } šćita.
+taskbar-tabs-email-callout-title = Wobchowajśo swóju e-mail w swójej nadawkowej rědce
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Njezgubujśo nic, což sćo składował, gaž do Windows 11 pśeśěgujośo.
