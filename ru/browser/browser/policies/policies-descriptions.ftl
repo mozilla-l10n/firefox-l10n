@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Переключить
 ##
 
 policy-LocalFileLinks = Разрешает определённым веб-сайтам ссылаться на локальные файлы.
+policy-LocalNetworkAccess = Включает или отключает проверки доступа к локальной сети.
 policy-ManagedBookmarks = Настраивает список закладок, управляемых администратором и недоступных для изменения пользователем.
 policy-ManualAppUpdateOnly = Разрешать только обновления вручную и не уведомлять пользователя об обновлениях.
 policy-PrimaryPassword = Требовать или не допускать использование основного пароля.
@@ -141,6 +142,7 @@ policy-SupportMenu = Добавляет настраиваемый пункт м
 policy-TranslateEnabled = Включает или отключает перевод веб-страниц.
 policy-UserMessaging = Позволяет не показывать определённые сообщения пользователю.
 policy-UseSystemPrintDialog = Использует для печати системный диалог печати.
+policy-VisualSearchEnabled = Включает или отключает визуальный поиск.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Блокирует посещение веб-сайтов. Для получения дополнительной информации о формате обратитесь к документации.
 policy-Windows10SSO = Разрешает единый вход Windows для учётных записей Microsoft, учётных записей на работе и в учебных заведениях.
