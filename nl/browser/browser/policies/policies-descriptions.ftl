@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Op specifieke websites
 ##
 
 policy-LocalFileLinks = Specifieke websites toestaan te koppelen naar lokale bestanden.
+policy-LocalNetworkAccess = Controles op lokale netwerktoegang in- of uitschakelen.
 policy-ManagedBookmarks = Configureert een lijst met bladwijzers die wordt beheerd door een beheerder en die niet door de gebruiker kan worden gewijzigd.
 policy-ManualAppUpdateOnly = Alleen handmatige updates toestaan en de gebruiker niet over updates informeren.
 policy-PrimaryPassword = Een hoofdwachtwoord vereisen of voorkomen.
@@ -141,6 +142,7 @@ policy-SupportMenu = Een aangepast menu-item voor ondersteuning aan het menu Hel
 policy-TranslateEnabled = Vertaling van webpagina’s in- of uitschakelen.
 policy-UserMessaging = Bepaalde berichten niet aan de gebruiker tonen.
 policy-UseSystemPrintDialog = Afdrukken via het afdrukdialoogvenster van het systeem.
+policy-VisualSearchEnabled = Visueel zoeken inschakelen of uitschakelen.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Het bezoeken van websites blokkeren. Zie de documentatie voor meer informatie over de notatie.
 policy-Windows10SSO = Windows-single-sign-on toestaan voor Microsoft- werk- en schoolaccounts.
