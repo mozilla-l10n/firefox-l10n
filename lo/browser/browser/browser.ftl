@@ -1136,6 +1136,9 @@ popup-warning-message = { -brand-short-name } ປ້ອງກັນບໍ່ໃ�
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } ປ້ອງກັນບໍ່ໃຫ້ເວັບໄຊທ໌ນີ້ເປີດຫຼາຍກວ່າ { $popupCount } ໜ້າຕ່າງປັອບອັບ.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message = { -brand-short-name } ປ້ອງກັນບໍ່ໃຫ້ເວັບໄຊທ໌ນີ້ເປີດຫຼາຍກວ່າ { $popupCount } ປ່ອງຢ້ຽມປັອບອັບ ແລະ ປ່ຽນເສັ້ນທາງ.
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1151,6 +1154,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = ສະແດງ '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = ສະແດງ “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1225,6 +1232,7 @@ trustpanel-blocker-header =
 trustpanel-blocker-section-header = <span>{ $count }</span> ຕົວຕິດຕາມຖືກບລັອກຢູ່ໃນເວັບໄຊນີ້
 trustpanel-blocker-description = { -brand-product-name } ຄິດວ່າບໍລິສັດຄວນຕິດຕາມທ່ານໜ້ອຍລົງ. ດັ່ງນັ້ນພວກເຮົາສະກັດຫຼາຍເທົ່າທີ່ພວກເຮົາສາມາດເຮັດໄດ້.
 trustpanel-blocked-header = { -brand-product-name } ບລັອກສິ່ງເຫຼົ່ານີ້ສຳລັບທ່ານ:
+trustpanel-tracking-header = { -brand-product-name } ອະນຸຍາດໃຫ້ສິ່ງເຫຼົ່ານີ້ເພື່ອບໍ່ໃຫ້ເວັບໄຊທ໌ພັງ:
 trustpanel-tracking-description = ຖ້າບໍ່ມີຕົວຕິດຕາມ, ບາງປຸ່ມ, ແບບຟອມ, ແລະ ຊ່ອງເຂົ້າສູ່ລະບົບອາດຈະບໍ່ເຮັດວຽກ.
 trustpanel-insecure-section-header = ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ
 trustpanel-insecure-description = ຂໍ້​ມູນ​ທີ່​ທ່ານ​ກໍາ​ລັງ​ສົ່ງ​ໄປ​ຫາ​ເວັບ​ໄຊ​ນີ້​ແມ່ນ​ບໍ່​ໄດ້​ເຂົ້າ​ລະ​ຫັດ​. ມັນສາມາດຖືກເບິ່ງ, ຖືກລັກ, ຫຼື ປ່ຽນແປງ.
@@ -1234,10 +1242,15 @@ trustpanel-list-label-fingerprinter = { $count } ລາຍນິ້ວດິຈ�
 trustpanel-list-label-social-tracking = { $count } ຕົວຕິດຕາມສື່ສັງຄົມ
 trustpanel-list-label-cryptominer = { $count } Cryptominers
 trustpanel-social-tracking-blocking-tab-header = { -brand-product-name } ບລັອກ { $count } ຕົວຕິດຕາມສື່ສັງຄົມ
+trustpanel-social-tracking-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } ຕົວຕິດຕາມສື່ສັງຄົມ
+trustpanel-tracking-cookies-blocking-tab-header = { -brand-product-name } ບລັອກ { $count } ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ
+trustpanel-tracking-cookies-not-blocking-tab-header = { -brand-product-name } ອະ​ນຸ​ຍາດ​ໃຫ້ { $count } cookies ການ​ຕິດ​ຕາມ​ຂ້າມ​ເວັບ​ໄຊ
 trustpanel-tracking-content-blocking-tab-header = { -brand-product-name } ບລັອກຕົວຕິດຕາມ { $count } ແລ້ວ
 trustpanel-tracking-content-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } trackers
 trustpanel-tracking-content-tab-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມຕິດຕາມທ່ານ:
 trustpanel-fingerprinter-blocking-tab-header = { -brand-product-name } ຖືກປິດກັ້ນ { $count } ເຄື່ອງພິມລາຍນິ້ວມື
 trustpanel-fingerprinter-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } ເຄື່ອງພິມລາຍນິ້ວມື
+trustpanel-fingerprinter-list-header = ເວັບໄຊເຫຼົ່ານີ້ກຳລັງພະຍາຍາມສ້າງລາຍນິ້ວມືຂອງທ່ານ:
+trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } ຖືກປິດກັ້ນ { $count } cryptominers
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } cryptominers
 trustpanel-cryptominer-tab-list-header = ເວັບເຫຼົ່ານີ້ກໍາລັງພະຍາຍາມ cryptomine:
