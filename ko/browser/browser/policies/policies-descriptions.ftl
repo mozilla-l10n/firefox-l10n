@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 지정된 사이트의
 ##
 
 policy-LocalFileLinks = 특정 웹 사이트가 로컬 파일을 링크하도록 허용합니다.
+policy-LocalNetworkAccess = 로컬 네트워크 액세스 확인을 사용하거나 사용하지 않게 합니다.
 policy-ManagedBookmarks = 사용자가 변경할 수 없는 관리자가 관리하는 북마크 목록을 구성합니다.
 policy-ManualAppUpdateOnly = 수동 업데이트만 허용하고 사용자에게 업데이트에 대해 알리지 않습니다.
 policy-PrimaryPassword = 기본 비밀번호 사용을 요구하거나 금지합니다.
@@ -141,6 +142,7 @@ policy-SupportMenu = 도움말 메뉴에 사용자 지정 지원 메뉴 항목�
 policy-TranslateEnabled = 웹 페이지 번역을 사용하거나 사용하지 않게 합니다.
 policy-UserMessaging = 사용자에게 특정 메시지를 표시하지 않습니다.
 policy-UseSystemPrintDialog = 시스템 인쇄 대화 상자를 사용하여 인쇄합니다.
+policy-VisualSearchEnabled = 시각적 검색을 사용하거나 사용하지 않게 합니다.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 특정 웹 사이트 방문을 차단합니다. 자세한 형식에 대해서는 문서를 참고하세요.
 policy-Windows10SSO = Microsoft, 회사 및 학교 계정에 Windows Single Sign-On을 허용합니다.

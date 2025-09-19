@@ -35,6 +35,7 @@ inactive-css-not-display-block-on-floated-2 = 요소가 <strong>floated</strong>
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong>는 그리드 또는 플렉스 항목에 사용할 수 없으므로 효과가 없습니다.
 inactive-css-not-block = <strong>{ $property }</strong>는 블록 수준 요소에만 적용되므로 이 요소에는 영향을 미치지 않습니다.
 inactive-css-not-block-container = <strong>{ $property }</strong>는 블록 컨테이너 요소에만 적용되므로 이 요소에는 영향을 미치지 않습니다.
+inactive-css-not-block-flex-grid-container = <strong>{ $property }</strong>는 블록, 플렉스 및 그리드 컨테이너 요소에만 적용되므로 이 요소에는 영향을 미치지 않습니다.
 inactive-css-not-floated = <strong>{ $property }</strong>는 floated 요소에만 적용되므로 효과가 없습니다.
 inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</strong> 제한으로 인해 <strong>{ $property }</strong>를 재정의 할 수 없습니다.
 inactive-css-position-property-on-unpositioned-box = 위치가 지정된 요소가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
