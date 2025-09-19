@@ -115,6 +115,7 @@ fxa-adoption-passwords-primary-button-label = Бақайдгирӣ
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Наворҳои ахбори дӯстдоштаи худро дар навори вазифаи худ нигоҳ доред
+taskbar-tabs-chat-callout-title = Аз навори вазифаи худ суҳбат кунед
 taskbar-tabs-email-callout-title = Почтаи электронии худро дар навори вазифаи худ нигоҳ доред
 taskbar-tabs-value-prop-callout-title = Илова кардани ин сомона ба навори вазифаи худ
 
