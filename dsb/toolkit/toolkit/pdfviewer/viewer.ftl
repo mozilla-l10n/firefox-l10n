@@ -638,6 +638,12 @@ pdfjs-editor-edit-comment-manager-cancel-button = Pśetergnuś
 pdfjs-editor-edit-comment-manager-save-button = Składowaś
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = Komentar wobźěłaś
+# No existing comment
+pdfjs-editor-edit-comment-dialog-title-when-adding = Komentar pśidaś
+pdfjs-editor-edit-comment-dialog-text-input =
+    .placeholder = Zachopśo pisaś…
+pdfjs-editor-edit-comment-dialog-cancel-button = Pśetergnuś
+pdfjs-editor-edit-comment-dialog-save-button = Składowaś
 
 ## Edit a comment button in the editor toolbar
 
