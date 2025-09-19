@@ -116,6 +116,11 @@ fxa-adoption-passwords-primary-button-label = Registrer deg
 
 taskbar-tabs-social-callout-subtitle = Start sosiale nettsteder som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
 taskbar-tabs-chat-callout-subtitle = Start chat-nettsteder som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
+taskbar-tabs-email-callout-subtitle = Start e-post-nettsteder som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
+taskbar-tabs-media-callout-title = Gå tilbake til strømming fra oppgavelinjen
+taskbar-tabs-media-callout-subtitle = Start strømmetjenestene som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Legg til dette nettstedet på oppgavelinjen
+taskbar-tabs-value-prop-callout-subtitle = Start den i et eget vindu og et forenklet grensesnitt med et enkelt klikk.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
