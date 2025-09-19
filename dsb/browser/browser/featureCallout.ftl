@@ -119,6 +119,11 @@ taskbar-tabs-social-callout-subtitle = Startujśo swóje socialne sedła ako na�
 taskbar-tabs-chat-callout-title = Chattujśo ze swójeje nadawkoweje rědki
 taskbar-tabs-chat-callout-subtitle = Startujśo swóje chattowe sedła ako nałoženje w optiměrowanem woknje, kótarež se pśez  { -brand-short-name } šćita.
 taskbar-tabs-email-callout-title = Wobchowajśo swóju e-mail w swójej nadawkowej rědce
+taskbar-tabs-email-callout-subtitle = Startujśo swóje webmail ako nałoženje w optiměrowanem woknje, kótarež se pśez  { -brand-short-name } šćita.
+taskbar-tabs-media-callout-title = Wobstarajśo se streaming ze swójeje nadawkoweje rědki slědk
+taskbar-tabs-media-callout-subtitle = Startujśo swóje streamingowe sedła ako nałoženje w optiměrowanem woknje, kótarež se pśez  { -brand-short-name } šćita.
+taskbar-tabs-value-prop-callout-title = Nadawkowej rědce toś to sedło pśidaś
+taskbar-tabs-value-prop-callout-subtitle = Startujśo w swójskem woknje a zjadnorjonem wužywaŕskem pówjerchu z jadnučkim kliknjenim.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
