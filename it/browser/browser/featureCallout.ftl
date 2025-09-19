@@ -121,7 +121,7 @@ taskbar-tabs-chat-callout-subtitle = Apri le tue chat preferite come un’app, i
 taskbar-tabs-email-callout-title = Mantieni la tua email nella barra delle applicazioni
 taskbar-tabs-email-callout-subtitle = Apri la tua webmail come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
 taskbar-tabs-media-callout-title = Riprendi lo streaming dalla barra delle applicazioni
-taskbar-tabs-media-callout-subtitle = Åpri i tuoi siti di streaming preferiti come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+taskbar-tabs-media-callout-subtitle = Apri i tuoi siti di streaming preferiti come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Aggiungi questo sito alla barra delle applicazioni
 taskbar-tabs-value-prop-callout-subtitle = Aprilo in una finestra separata e con un’interfaccia ottimizzata con un solo clic.
 
@@ -231,4 +231,3 @@ actions-callout-title = Completa le attività più comuni o accedi alle impostaz
 # "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Prova a digitare un’azione come “stampa” per stampare una pagina o “cancella” per cancellare la cronologia.
-
