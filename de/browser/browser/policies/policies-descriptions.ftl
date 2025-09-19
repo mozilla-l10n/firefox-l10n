@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Veraltetes Cookie-Verh
 ##
 
 policy-LocalFileLinks = Festgelegten Websites Zugriff auf lokale Dateien erlauben
+policy-LocalNetworkAccess = Überprüfung des lokalen Netzwerkzugriffs aktivieren oder deaktivieren
 policy-ManagedBookmarks = Eine Liste von Lesezeichen festlegen, die von einem Administrator verwaltet wird und vom Benutzer nicht geändert werden kann.
 policy-ManualAppUpdateOnly = Nur manuelle Updates erlauben und den Benutzer nicht über Updates benachrichtigen.
 policy-PrimaryPassword = Benutzung eines Hauptpassworts erfordern oder verhindern
@@ -141,6 +142,7 @@ policy-SupportMenu = Benutzerdefinierten Eintrag zum Menü "Hilfe" hinzufügen
 policy-TranslateEnabled = Übersetzung von Webseiten aktivieren oder deaktivieren
 policy-UserMessaging = Anzeige von bestimmten Nachrichten deaktivieren
 policy-UseSystemPrintDialog = Mit Druckdialog des Systems drucken
+policy-VisualSearchEnabled = Visuelle Suche aktivieren oder deaktivieren
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bestimmte Website-Aufrufe blockieren. Weitere Details in der Dokumentation.
 policy-Windows10SSO = Windows Single Sign-on für Microsoft-, Geschäfts- und Schulkonten erlauben

@@ -112,6 +112,10 @@ fxa-adoption-passwords-subtitle = Schützen Sie Ihre Passwörter, indem Sie dies
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrieren
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Behalten Sie Ihre Lieblings-Feeds in der Taskleiste
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Verlieren Sie beim Umstieg zu Windows 11 nicht alles, was Sie gespeichert haben.
