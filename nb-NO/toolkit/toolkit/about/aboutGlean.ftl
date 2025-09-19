@@ -161,6 +161,7 @@ about-glean-button-dictionary-link = Dokumentasjon
 about-glean-button-watch = Overvåk
 # Meaning "to stop watching"
 about-glean-button-unwatch = Fjern overvåking
+about-glean-no-data-to-display = Ingen data å vise.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Merkede målinger støttes ikke i <code>about:glean</code>-visningen ennå.
 about-glean-unknown-metric-type-warning = Ukjent målingstype.

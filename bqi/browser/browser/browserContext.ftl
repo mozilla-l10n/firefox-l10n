@@ -120,3 +120,8 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = ایمیل کردن شؽوات…
     .accesskey = g
+
+##
+
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = نۊ

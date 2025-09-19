@@ -112,6 +112,19 @@ fxa-adoption-passwords-subtitle = 암호화를 통해 비밀번호를 기기에 
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = 가입
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = 작업 표시줄에 즐겨찾는 피드를 고정하세요
+taskbar-tabs-social-callout-subtitle = 소셜 사이트를 { -brand-short-name }로 보호되는 간소화된 창에서 앱처럼 실행하세요.
+taskbar-tabs-chat-callout-title = 작업 표시줄에서 채팅하세요
+taskbar-tabs-chat-callout-subtitle = 채팅 사이트를 { -brand-short-name }로 보호되는 간소화된 창에서 앱처럼 실행하세요.
+taskbar-tabs-email-callout-title = 작업 표시줄에 이메일을 고정하세요
+taskbar-tabs-email-callout-subtitle = 웹메일을 { -brand-short-name }로 보호되는 간소화된 창에서 앱처럼 실행하세요.
+taskbar-tabs-media-callout-title = 작업 표시줄에서 스트리밍을 다시 시작하세요
+taskbar-tabs-media-callout-subtitle = 스트리밍 사이트를 { -brand-short-name }로 보호되는 간소화된 창에서 앱처럼 실행하세요.
+taskbar-tabs-value-prop-callout-title = 이 사이트를 작업 표시줄에 추가
+taskbar-tabs-value-prop-callout-subtitle = 한 번의 클릭으로 자체 창과 간소화된 인터페이스에서 실행하세요.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Windows 11로 전환하여 저장한 모든 항목을 잃어버리지 마세요.

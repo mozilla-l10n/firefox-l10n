@@ -117,6 +117,7 @@ fxa-adoption-passwords-primary-button-label = Registrarse
 taskbar-tabs-social-callout-subtitle = Abra sus redes sociales como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Chat desde la barra de tareas
 taskbar-tabs-chat-callout-subtitle = Abra sus sitios de chat como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-email-callout-title = Mantener el correo electrónico en la barra de tareas
 taskbar-tabs-email-callout-subtitle = Abra su webmail como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-media-callout-subtitle = Abra sus sitios de streaming como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Agregar este sitio a la barra de tareas

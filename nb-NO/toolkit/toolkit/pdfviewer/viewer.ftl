@@ -386,6 +386,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Lukk sidestolpen
     .aria-label = Lukk sidestolpen
 pdfjs-editor-comments-sidebar-close-button-label = Lukk sidestolpen
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Ser du noe verdt å merke seg? Marker det og legg igjen en kommentar.
 pdfjs-editor-comments-sidebar-no-comments-link = Les mer
 
 ## Alt-text dialog
