@@ -98,6 +98,7 @@ inactive-css-not-display-block-on-floated-fix = Spytajće <strong>float</strong>
 inactive-css-only-non-grid-or-flex-item-fix = Spytajće hódnotu <strong>display</strong> elementoweho kontejnera do něšto druheho hač <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> abo <strong>inline-grid</strong> změnić abo <strong>float</strong> wotstronić. { learn-more }
 inactive-css-not-block-fix = Spytajće kajkosće kaž <strong>display:block</strong> abo <strong>float:left</strong> přidać. { learn-more }
 inactive-css-not-block-container-fix = Spytajće <strong>display:block</strong>, <strong>display:inline-block</strong> abo <strong>display:flow-root</strong> přidać. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = Spytajće <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> abo <strong>display:flow-root</strong> přidać. { learn-more }
 inactive-css-not-floated-fix = Spytajće kajkosć <strong>float</strong> z druhej hódnotu hač <strong>none</strong> přidać. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Spytajće jeho kajkosć <strong>position</strong> na něšto druhe hač <strong>static</strong> nastajić. { learn-more }
 inactive-css-only-replaced-elements-fix = Zawěsćće, zo kajkosć wuměnjenemu elementej přidawaće. { learn-more }

@@ -114,6 +114,10 @@ fxa-adoption-passwords-primary-button-label = Registrować
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = Wobchowajće swoje najlubše kanale w swojej nadawkowej lajsće
+taskbar-tabs-chat-callout-title = Četujće ze swojeje nadawkowej lajsty
+taskbar-tabs-chat-callout-subtitle = Startujće swoje četowe sydła kaž nałoženje w optimowanym woknje, kotrež so přez  { -brand-short-name } škita.
+taskbar-tabs-email-callout-title = Wobchowajće swoju e-mejl w swojej nadawkowej lajsće
 taskbar-tabs-value-prop-callout-title = Wašej nadawkowej lajsće tute sydło přidać
 
 ## Windows 10 EoS Sync messages group 1 callouts

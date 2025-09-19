@@ -392,6 +392,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Bóčnicu začinić
     .aria-label = Bóčnicu začinić
 pdfjs-editor-comments-sidebar-close-button-label = Bóčnicu začinić
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Widźiće něšto přispomnjenja hódneho? Wuzběhńće to a zawostajće komentar.
 pdfjs-editor-comments-sidebar-no-comments-link = Dalše informacije
 
 ## Alt-text dialog
