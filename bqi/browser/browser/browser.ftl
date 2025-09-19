@@ -50,3 +50,5 @@ urlbar-searchmode-history =
     .label = ویرگار
 urlbar-searchmode-exit-button =
     .tooltiptext = بستن
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = نۊ

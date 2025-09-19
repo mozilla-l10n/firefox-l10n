@@ -2,8 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Error page actions
-
-neterror-copy-to-clipboard-button = لف گیری هؽل من کلیپ بورد
-neterror-learn-more-link = قلوه دووسته بۊین…
+about-httpsonly-link-learn-more = قلوه دووسته بۊین…

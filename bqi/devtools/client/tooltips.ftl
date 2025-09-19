@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Error page actions
+### Localization for Developer Tools tooltips.
 
-neterror-copy-to-clipboard-button = لف گیری هؽل من کلیپ بورد
-neterror-learn-more-link = قلوه دووسته بۊین…
+learn-more = <span data-l10n-name="link">قلوه دووسته بۊین</span>

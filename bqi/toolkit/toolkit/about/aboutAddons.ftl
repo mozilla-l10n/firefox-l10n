@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Error page actions
+## Recommended add-ons page
 
-neterror-copy-to-clipboard-button = لف گیری هؽل من کلیپ بورد
-neterror-learn-more-link = قلوه دووسته بۊین…
+discopane-notice-learn-more = قلوه دووسته بۊین
+colorway-removal-notice-learn-more = قلوه دووسته بۊین

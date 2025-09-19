@@ -17,3 +17,7 @@
 #   $total (Int) - Total number of pages
 
 onboarding-theme-primary-button-label = ٱنجوم وابی
+
+## UI strings for the sidebar and vertical tabs
+
+onboarding-flair-text = نۊ!

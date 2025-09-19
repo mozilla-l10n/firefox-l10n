@@ -29,6 +29,9 @@ newtab-trending-searches-learn-more = قلوه دووسته بۊین
 
 ## Strings for task / to-do list productivity widget
 
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = نۊ
 newtab-widget-task-list-menu-copy = لف گیری
 newtab-widget-lists-menu-copy = لف گیری نومگه من کلیپ بورد
 newtab-widget-lists-menu-learn-more = قلوه دووسته بۊین
