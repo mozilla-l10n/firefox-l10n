@@ -410,3 +410,5 @@ etp-strict-exceptions-infobar-message = <strong>Striktne přesćěhowanski škit
 etp-strict-exceptions-infobar-learn-more = Dalše informacije
 etp-strict-exceptions-infobar-button = Rozrisanja nałožić
     .accesskey = R
+etp-strict-exceptions-infobar-not-now = Nic nětko
+    .accesskey = N
