@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 對指定的網站恢�
 ##
 
 policy-LocalFileLinks = 允許特定網站鏈結到本機檔案。
+policy-LocalNetworkAccess = 開啟或關閉本機網路存取檢查。
 policy-ManagedBookmarks = 設定由管理員控管的書籤清單，使用者無法更改。
 policy-ManualAppUpdateOnly = 只允許手動更新，也不通知使用者已有更新推出。
 policy-PrimaryPassword = 要求使用或不允許使用主控密碼。
@@ -141,6 +142,7 @@ policy-SupportMenu = 於說明選單內新增自訂的技術支援項目。
 policy-TranslateEnabled = 啟用或停用網頁翻譯功能。
 policy-UserMessaging = 不要對使用者顯示某些訊息。
 policy-UseSystemPrintDialog = 使用系統列印對話框列印。
+policy-VisualSearchEnabled = 開啟或關閉視覺化搜尋功能。
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 封鎖網站，不讓使用者開啟。請參考文件取得設定格式的詳細資料。
 policy-Windows10SSO = 允許使用 Windows 單一登入系統，登入微軟、工作單位、學校提供的帳號。

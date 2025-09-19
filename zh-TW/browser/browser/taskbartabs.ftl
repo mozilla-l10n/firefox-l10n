@@ -34,3 +34,17 @@ taskbar-tab-audio-mute =
     .tooltiptext = 分頁靜音
 taskbar-tab-audio-unmute =
     .tooltiptext = 取消分頁靜音
+
+## These are used as part of the window title, possibly after the content's
+## title.
+##
+## Variables:
+##  $name (String): The name of the installed web app.
+##  $container (String): The name of the user's container (e.g. 'Work',
+##  'Personal').
+##  $profile (String): The name of the user's current profile.
+
+taskbar-tab-title-default = 用 { -brand-full-name } 開啟 { $name }
+taskbar-tab-title-container = 用 { -brand-full-name } 開啟 { $name }（{ $container }）
+taskbar-tab-title-profile = { $profile } 的 { $name } — { -brand-full-name }
+taskbar-tab-title-container-profile = { $profile } 的 { $name }（{ $container }）— { -brand-full-name }

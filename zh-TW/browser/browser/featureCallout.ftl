@@ -119,7 +119,11 @@ taskbar-tabs-social-callout-subtitle = 用如同應用程式一般的方式，�
 taskbar-tabs-chat-callout-title = 從工具列直接聊天
 taskbar-tabs-chat-callout-subtitle = 用如同應用程式一般的方式，以流線化的視窗開啟您的聊天網站，同時受到 { -brand-short-name } 保護。
 taskbar-tabs-email-callout-title = 在工具列收發信件
-taskbar-tabs-email-callout-subtitle = 用如同應用程式一般的方式，以流線化的視窗開啟您的網頁郵件帳號，同時受到 { -brand-short-name } 保護。
+taskbar-tabs-email-callout-subtitle = 用如同應用程式一般的方式，以流線化的視窗開啟您的網頁郵件，同時受到 { -brand-short-name } 保護。
+taskbar-tabs-media-callout-title = 從工作列直接開啟影音串流網站
+taskbar-tabs-media-callout-subtitle = 用如同應用程式一般的方式，以流線化的視窗開啟您的影音串流網站，同時受到 { -brand-short-name } 保護。
+taskbar-tabs-value-prop-callout-title = 將此網站新增至工具列
+taskbar-tabs-value-prop-callout-subtitle = 只要一點，即可透過簡化的介面，用獨立視窗開啟此網站。
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
