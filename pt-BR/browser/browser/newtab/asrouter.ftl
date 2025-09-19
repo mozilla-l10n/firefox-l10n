@@ -404,3 +404,5 @@ etp-strict-exceptions-infobar-message = <strong>A proteção rigorosa contra ras
 etp-strict-exceptions-infobar-learn-more = Saiba mais
 etp-strict-exceptions-infobar-button = Aplicar correções
     .accesskey = A
+etp-strict-exceptions-infobar-not-now = Agora não
+    .accesskey = A
