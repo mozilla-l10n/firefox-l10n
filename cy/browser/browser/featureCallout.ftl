@@ -114,10 +114,10 @@ fxa-adoption-passwords-primary-button-label = Ymuno
 
 ## Taskbar Tabs callout strings
 
-taskbar-tabs-social-callout-title = Cadwch eich hoff ffrydiau yn eich bar tasgau
-taskbar-tabs-social-callout-subtitle = Agorwch eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
+taskbar-tabs-social-callout-title = Cadw'ch hoff ffrydiau yn eich bar tasgau
+taskbar-tabs-social-callout-subtitle = Agor eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Sgwrsio o'ch bar tasgau
-taskbar-tabs-chat-callout-subtitle = Agorwch eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
+taskbar-tabs-chat-callout-subtitle = Agor eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
 taskbar-tabs-email-callout-title = Cadw eich e-bost yn eich bar tasgau
 taskbar-tabs-email-callout-subtitle = Agor eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
 taskbar-tabs-media-callout-title = Ewch yn ôl i ffrydio o'ch bar tasgau
