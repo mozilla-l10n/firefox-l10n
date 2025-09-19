@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Le impostazioni per l’aspetto dei siti web sono sostituite dalle attuali impostazioni per il contrasto.
+preferences-web-appearance-link =
+    .label = Gestisci i temi di { -brand-short-name } in Estensioni e temi
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Le impostazioni per l’aspetto dei siti web sono sostituite dall’attuale selezione di colori. <a data-l10n-name="colors-link">Gestisci colori</a>
