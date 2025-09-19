@@ -487,6 +487,7 @@ restore-from-backup-secondary-button = No restaurar
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = ¡Estamos de vuelta! Los datos de { -brand-short-name } han sido restaurados.
+restored-from-backup-success-with-checklist-subtitle = ¿Quiere mantener a su navegador favorito que hace foco en la privacidad a un clic de distancia?
 restored-from-backup-success-no-checklist-subtitle = Se puede habilitar la copia de seguridad para este dispositivo en <a data-l10n-name="settings">Configuración</a>.
 restored-from-backup-success-with-checklist-primary-button = Guardar y continuar
 restored-from-backup-success-with-checklist-secondary-button = Saltear este paso

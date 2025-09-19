@@ -5,6 +5,10 @@
 
 ## Back
 
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = وورگشتن
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -92,3 +96,27 @@ main-context-menu-media-play-speed-faster-2 =
     .label = 1.5×
 main-context-menu-media-play-speed-fastest-2 =
     .label = 2×
+
+##
+
+main-context-menu-media-video-fullscreen =
+    .label = پوی بلگه
+    .accesskey = F
+main-context-menu-image-copy =
+    .label = لف گیری ز شؽوات
+    .accesskey = y
+main-context-menu-image-copy-link =
+    .label = لف گیری ز لینگ شؽوات
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = لف گیری ز لینگ ویدیو
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = لف گیری ز لینگ دونگ
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = زفت کردن شؽوات و عونوان…
+    .accesskey = v
+main-context-menu-image-email =
+    .label = ایمیل کردن شؽوات…
+    .accesskey = g

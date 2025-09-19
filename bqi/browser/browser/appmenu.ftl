@@ -47,6 +47,10 @@ appmenuitem-fullscreen =
 
 appmenu-remote-tabs-sign-into-sync =
     .label = و من ٱووڌن سی هوم گوم کردن…
+appmenu-remote-tabs-opensettings =
+    .label = سامووا
+appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+appmenu-account-header = هساو منتوری
 appmenu-fxa-signed-in-label = و من ٱووڌن
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record

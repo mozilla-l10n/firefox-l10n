@@ -404,3 +404,5 @@ etp-strict-exceptions-infobar-message = <strong>Una protección de rastreo estri
 etp-strict-exceptions-infobar-learn-more = Conocer más
 etp-strict-exceptions-infobar-button = Aplicar correcciones
     .accesskey = A
+etp-strict-exceptions-infobar-not-now = No ahora
+    .accesskey = N

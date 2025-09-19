@@ -95,6 +95,7 @@ inactive-css-not-display-block-on-floated-fix = Probeer <strong>float</strong> t
 inactive-css-only-non-grid-or-flex-item-fix = Probeer de waarde van <strong>display</strong> van de container van het element te wijzigen naar iets anders dan <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> of <strong>inline-grid</strong>, of <strong>float</strong> te verwijderen. { learn-more }
 inactive-css-not-block-fix = Probeer eigenschappen zoals <strong>display:block</strong> of <strong>float:left</strong> toe te voegen. { learn-more }
 inactive-css-not-block-container-fix = Probeer <strong>display:block</strong>, <strong>display:inline-block</strong> of <strong>display:flow-root</strong> toe te voegen. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = Probeer <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> of <strong>display:flow-root</strong> toe te voegen. { learn-more }
 inactive-css-not-floated-fix = Probeer de eigenschap <strong>float</strong> toe te voegen met een andere waarde dan <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Probeer de eigenschap <strong>position</strong> op iets anders dan <strong>static</strong> in te stellen. { learn-more }
 inactive-css-only-replaced-elements-fix = Zorg ervoor dat u de eigenschap aan een vervangen element toevoegt. { learn-more }
