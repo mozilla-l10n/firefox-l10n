@@ -112,6 +112,15 @@ fxa-adoption-passwords-subtitle = 加密後同步到其他裝置中，以保護�
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = 註冊
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = 將您最愛的資訊來源放置於工具列
+taskbar-tabs-social-callout-subtitle = 用如同應用程式一般的方式，以流線化的視窗開啟您的社交網路帳號，同時受到 { -brand-short-name } 保護。
+taskbar-tabs-chat-callout-title = 從工具列直接聊天
+taskbar-tabs-chat-callout-subtitle = 用如同應用程式一般的方式，以流線化的視窗開啟您的聊天網站，同時受到 { -brand-short-name } 保護。
+taskbar-tabs-email-callout-title = 在工具列收發信件
+taskbar-tabs-email-callout-subtitle = 用如同應用程式一般的方式，以流線化的視窗開啟您的網頁郵件帳號，同時受到 { -brand-short-name } 保護。
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = 別在您升級到 Windows 11 之後遺失所有儲存的資料。
