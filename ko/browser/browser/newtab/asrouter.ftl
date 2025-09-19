@@ -401,3 +401,5 @@ etp-strict-exceptions-infobar-message = <strong>엄격한 추적 방지로 인�
 etp-strict-exceptions-infobar-learn-more = 더 알아보기
 etp-strict-exceptions-infobar-button = 해결 사항 적용
     .accesskey = A
+etp-strict-exceptions-infobar-not-now = 나중에
+    .accesskey = N

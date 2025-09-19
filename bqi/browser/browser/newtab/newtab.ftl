@@ -5,6 +5,7 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = بلگه نۊ
 
 ## Top Sites - Delete history confirmation dialog.
 

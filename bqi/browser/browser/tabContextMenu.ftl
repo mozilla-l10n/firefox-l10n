@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-tabbrowser-empty-tab-title = بلگه نۊ
 
-##
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-group-editor-done =
-    .label = ٱنجوم وابی
-    .accessKey = D
+tab-context-new-tab =
+    .label = بلگه نۊ
+    .accesskey = w

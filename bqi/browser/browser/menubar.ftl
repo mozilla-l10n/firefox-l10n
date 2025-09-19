@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = بلگه نۊ
+    .accesskey = T
 menu-file-print =
     .label = چاپ
     .accesskey = P
