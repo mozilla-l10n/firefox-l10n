@@ -82,6 +82,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ոչ, շնորհակալ �
 ## Perplexity callout strings
 
 perplexity-callout-theme-1-title = Անմիջապես ճիշտ պատասխանն է պետք՞։
+perplexity-callout-primary-label = Հարցրեք շփոթվածությանը
 perplexity-callout-secondary-label-1 = Բաց թողնել
 perplexity-callout-secondary-label-2 = Հասկացա
 
@@ -94,6 +95,7 @@ fxa-adoption-passwords-primary-button-label = Գրանցվել
 
 windows-10-eos-sync-new-device-primary-label = Համաժամեցնել
 windows-10-eos-sync-tour-title-2 = Կազմակերպվեք Windows 11-ի համար։
+windows-10-eos-sync-callout-primary-advance-button-label = Հաջորդը
 
 ## Sidebar Strings
 

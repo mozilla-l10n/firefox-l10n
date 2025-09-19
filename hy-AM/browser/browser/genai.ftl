@@ -27,11 +27,19 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Հարցրեք { $provider }-ին
+genai-menu-open-generic =
+    .label = Բաց AI չաթբոտը
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Բացել { $provider }-ը
 genai-menu-remove-generic =
     .label = Հեռացնել ԱԲ չաթբոտը
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Հեռացնել { $provider }-ը
+genai-menu-remove-sidebar =
+    .label = Հեռացնել կողային վահանակից
+genai-menu-new-badge = Նոր
 genai-menu-summarize-page = Ամփոփել էջը
 genai-input-ask-generic =
     .placeholder = Հարցրեք ԱԲ չաթբոտին…
@@ -143,3 +151,25 @@ genai-model-optin-optout =
     .label = Չեղարկել
 genai-model-optin-cancel =
     .label = Չեղարկել
+
+## Link previews
+
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Անցնել հղումը
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Մենք չենք կարող այս վեբ էջի համար հիմնական կետեր ստեղծել։
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Ինչ-որ բան այն չէ։
+# Text for the retry link when generation fails
+link-preview-generation-retry = Կրկին փորձել
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Հղման նախադիտման կարգավորումներ
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Նոր. Սեղմեք և պահեք ցանկացած հղում՝ նախադիտման համար
+# Header for the key points section
+link-preview-key-points-header = Հիմնական կետեր
+# Onboarding card See a preview button
+link-preview-onboarding-button = Դիտել նախադիտումը
+# Onboarding card Close button
+link-preview-onboarding-close = Փակել

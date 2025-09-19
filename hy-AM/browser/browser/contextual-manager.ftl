@@ -66,8 +66,12 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Նոր՝ { $added }, Թարմացված՝ { $modified }
 contextual-manager-passwords-import-detailed-report = Դիտել մանրամասն զեկույցը
 contextual-manager-passwords-import-success-button = Պատրաստ է
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Գաղտնաբառերը չհաջողվեց ներմուծել
+    .message = Համոզվեք, որ ձեր ֆայլերը ներառում են սյունակներ կայքերի, օգտվողների և գաղտնաբառերի մասին:
 contextual-manager-passwords-import-error-button-try-again = Կրկին փորձել
 contextual-manager-passwords-import-error-button-cancel = Չեղարկել
+contextual-manager-passwords-import-learn-more = Իմացեք գաղտնաբառերի ներմուծման մասին
 contextual-manager-passwords-export-success-heading =
     .heading = Գաղտնաբառերն արտահանվել են
 contextual-manager-passwords-export-success-button = Պատրաստ է
@@ -113,6 +117,9 @@ contextual-manager-passwords-remove-all-confirm-button =
     }
 contextual-manager-passwords-origin-label = Կայք
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Օգտվողի անուն
+    .data-after = Պատճենվեց
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Գաղտնաբառ
     .data-after = Պատճենվեց
 contextual-manager-passwords-radiogroup-label =
@@ -130,6 +137,8 @@ contextual-manager-passwords-password-already-exists-error-button = Անցնել
 contextual-manager-passwords-update-password-success-heading =
     .heading = Գաղտնաբառը պահվել է
 contextual-manager-passwords-update-password-success-button = Պատրաստ է
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Օգտվողի անունը պահվեց
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Օգտվողի անունն ավելացվեց
 # Message to confirm successful removal of a password/passwords.
@@ -159,6 +168,8 @@ contextual-manager-passwords-remove-login-card-back-message = Ետ
 contextual-manager-passwords-remove-login-card-remove-button = Հեռացնել
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Չեղարկել
+contextual-manager-passwords-alert-card =
+    .aria-label = Գաղտնաբառի զգուշացում
 contextual-manager-passwords-alert-back-button =
     .label = Ետ
 contextual-manager-passwords-alert-list =
@@ -170,10 +181,13 @@ contextual-manager-passwords-title = Գաղտնաբառեր
 
 contextual-manager-passwords-create-label =
     .label = Ավելացնել գաղտնաբառ
+contextual-manager-passwords-update-label =
+    .label = Թարմացնել գաղտնաբառը
 contextual-manager-passwords-edit-label =
     .label = Խմբագրել գաղտնաբառը
 contextual-manager-passwords-remove-label =
     .title = Հեռացնել գաղտնաբառը
+contextual-manager-passwords-password-tooltip-2 = Մուտքագրեք գաղտնաբառը՝ այս հաշիվ մուտք գործելու համար։
 
 ## Password Card
 
@@ -200,6 +214,11 @@ contextual-manager-origin-login-line =
 contextual-manager-origin-login-line-with-alert =
     .aria-label = Այցելել { $url } (զգուշացում)
     .title = Այցելել { $url } (զգուշացում)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Պատճենել օգտվողի անունը { $username }
+    .title = Պատճենել օգտվողի անունը { $username }
 contextual-manager-password-login-line =
     .aria-label = Պատճենել գաղտնաբառը
     .title = Պատճենել գաղտնաբառը

@@ -283,3 +283,27 @@ multi-cta-fox-doodle-start-browsing-primary-button-label = Սկսել դիտար
 
 windows-10-eos-sync-toast-primary-label = Սկսել
 windows-10-eos-sync-toast-secondary-label = Հիշեցնել ավելի ուշ
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-pin-primary-button = Ամրացնել { -brand-shorter-name }-ը
+windows-10-eos-sync-callout-privacy-info-button = Տեսեք, թե ինչն է արգելափակված
+windows-10-eos-callout-addons-primary-button = Տեսեք մեր ընտրությունները
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Ինչն է նոր
+windows-10-eos-feature-toast-dismiss-button = Բաց թողնել
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Իմանալ ավելին
+etp-strict-exceptions-infobar-button = Գործադրել ուղղումները
+    .accesskey = A
+etp-strict-exceptions-infobar-not-now = Ոչ հիմա
+    .accesskey = N
