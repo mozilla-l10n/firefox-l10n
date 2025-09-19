@@ -315,8 +315,11 @@ fxa-menu-message-close-button =
     .title = Close
     .aria-label = Close
 fxa-menu-message-sign-up-button = Sign up
+fxa-menu-message-sign-in-button = Sign in
+fxa-menu-message-sync-button = Start syncing
 fxa-menu-message-sync-devices-primary-text = Sync all your devices
 fxa-menu-message-sync-devices-secondary-text = Instantly get your info — like bookmarks and passwords — everywhere you use { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Instantly get your bookmarks, passwords, and more — everywhere you’re signed in to { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sync all your devices
 fxa-menu-message-backup-data-primary-text = Back up your browser data
 fxa-menu-message-backup-data-secondary-text = Automatically protect bookmarks, passwords, and other info on all your devices.
@@ -360,3 +363,17 @@ windows-10-eos-sync-toast-title = Upgrading to Windows 11? Don’t lose bookmark
 windows-10-eos-sync-toast-subtitle = Back up your data so { -brand-short-name } is ready to go any time, on this PC or the next one.
 windows-10-eos-sync-toast-primary-label = Get started
 windows-10-eos-sync-toast-secondary-label = Remind me later
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } isn’t preloaded like other Big Tech browsers. That’s the point.
+windows-10-eos-challenger-sync-callout-subtitle = When you back up your { -brand-product-name } bookmarks and passwords, it’s easier to bring the browser you chose to your next device.
+windows-10-eos-challenger-pin-callout-subtitle = Pin { -brand-shorter-name } to your taskbar so the browser you chose is always there when you need it.
+windows-10-eos-challenger-sync-primary-button = Back up { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Pin { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blocks cryptominers, social media trackers, and fingerprinters.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Trackers can’t ID your device or follow you across the web — because we don’t let them.
+windows-10-eos-sync-callout-privacy-screen-2-title = Secure your passwords and bookmarks for your next device.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Backing up { -brand-shorter-name } makes it easy to bring your data and privacy settings with you.
+windows-10-eos-sync-callout-privacy-info-button = See what’s blocked
+windows-10-eos-callout-addons-title = Try add-ons: simple upgrades, big impacts
