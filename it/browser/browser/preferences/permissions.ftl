@@ -230,4 +230,3 @@ permissions-doh-remove =
 permissions-doh-remove-all =
     .label = Rimuovi tutti
     .accesskey = u
-

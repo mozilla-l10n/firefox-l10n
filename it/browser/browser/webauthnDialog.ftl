@@ -68,4 +68,3 @@ webauthn-allow = Consenti
     .accesskey = C
 webauthn-block = Blocca
     .accesskey = B
-
