@@ -34,3 +34,17 @@ taskbar-tab-audio-mute =
     .tooltiptext = Couper le son de l’onglet
 taskbar-tab-audio-unmute =
     .tooltiptext = Réactiver le son de l’onglet
+
+## These are used as part of the window title, possibly after the content's
+## title.
+##
+## Variables:
+##  $name (String): The name of the installed web app.
+##  $container (String): The name of the user's container (e.g. 'Work',
+##  'Personal').
+##  $profile (String): The name of the user's current profile.
+
+taskbar-tab-title-default = { $name } dans { -brand-full-name }
+taskbar-tab-title-container = { $name } ({ $container }) dans { -brand-full-name }
+taskbar-tab-title-profile = { $name } dans { $profile } — { -brand-full-name }
+taskbar-tab-title-container-profile = { $name } ({ $container }) dans { $profile } — { -brand-full-name }
