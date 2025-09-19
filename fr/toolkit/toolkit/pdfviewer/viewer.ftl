@@ -382,6 +382,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Fermer le panneau latéral
     .aria-label = Fermer le panneau latéral
 pdfjs-editor-comments-sidebar-close-button-label = Fermer le panneau latéral
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Vous remarquez quelque chose d’intéressant ? Mettez-le en surbrillance et ajoutez un commentaire.
 pdfjs-editor-comments-sidebar-no-comments-link = En savoir plus
 
 ## Alt-text dialog

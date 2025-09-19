@@ -168,6 +168,7 @@ about-glean-button-dictionary-link = Dokumenty
 about-glean-button-watch = Wobkedźbować
 # Meaning "to stop watching"
 about-glean-button-unwatch = Hižo njewobkedźbować
+about-glean-no-data-to-display = Za pokazowanje daty njejsu.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Popisane metriki so w napohledźe <code>about:glean</code> hišće njepodpěruja.
 about-glean-unknown-metric-type-warning = Njeznaty typ metriki.
