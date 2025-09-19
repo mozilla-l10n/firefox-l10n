@@ -404,3 +404,5 @@ etp-strict-exceptions-infobar-message = <strong>Sıkı izlenme koruması bazı s
 etp-strict-exceptions-infobar-learn-more = Daha fazla bilgi al
 etp-strict-exceptions-infobar-button = Düzeltmeleri uygula
     .accesskey = D
+etp-strict-exceptions-infobar-not-now = Şimdi değil
+    .accesskey = d

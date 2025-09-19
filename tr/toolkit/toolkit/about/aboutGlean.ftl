@@ -152,6 +152,7 @@ about-glean-button-dictionary-link = Belgeler
 about-glean-button-watch = İzle
 # Meaning "to stop watching"
 about-glean-button-unwatch = İzlemeyi bırak
+about-glean-no-data-to-display = Görüntülenecek veri yok.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Etiketli ölçümler henüz <code>about:glean</code> görünümünde desteklenmiyor.
 about-glean-unknown-metric-type-warning = Bilinmeyen ölçüm türü.

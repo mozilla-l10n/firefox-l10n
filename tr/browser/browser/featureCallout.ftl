@@ -112,6 +112,11 @@ fxa-adoption-passwords-subtitle = Parolalarınızı şifreleyip diğer cihazlar�
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Kaydol
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-chat-callout-title = Görev çubuğunuzdan sohbet edin
+taskbar-tabs-value-prop-callout-title = Bu siteyi görev çubuğunuza ekleyin
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Windows 11’e geçerken daha önce kaydettiğiniz şeyleri kaybetmeyin.

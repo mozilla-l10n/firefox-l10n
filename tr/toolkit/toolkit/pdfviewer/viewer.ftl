@@ -370,6 +370,10 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Metin düzenleyicisi
     .default-content = Yazmaya başlayın…
+pdfjs-editor-comments-sidebar-close-button =
+    .title = Kenar çubuğunu kapat
+    .aria-label = Kenar çubuğunu kapat
+pdfjs-editor-comments-sidebar-close-button-label = Kenar çubuğunu kapat
 
 ## Alt-text dialog
 
@@ -586,6 +590,15 @@ pdfjs-editor-add-signature-cancel-button = Vazgeç
 pdfjs-editor-add-signature-add-button = Ekle
 pdfjs-editor-edit-signature-update-button = Güncelle
 
+## Comment popup
+
+pdfjs-editor-edit-comment-popup-button-label = Yorumu düzenle
+pdfjs-editor-edit-comment-popup-button =
+    .title = Yorumu düzenle
+pdfjs-editor-delete-comment-popup-button-label = Yorumu sil
+pdfjs-editor-delete-comment-popup-button =
+    .title = Yorumu sil
+
 ##  Edit a comment dialog
 
 pdfjs-editor-edit-comment-actions-button-label = Eylemler
@@ -600,6 +613,14 @@ pdfjs-editor-edit-comment-manager-text-input =
     .placeholder = Yorumunuzu yazın
 pdfjs-editor-edit-comment-manager-cancel-button = Vazgeç
 pdfjs-editor-edit-comment-manager-save-button = Kaydet
+# An existing comment is edited
+pdfjs-editor-edit-comment-dialog-title-when-editing = Yorumu düzenle
+# No existing comment
+pdfjs-editor-edit-comment-dialog-title-when-adding = Yorum ekle
+pdfjs-editor-edit-comment-dialog-text-input =
+    .placeholder = Yazmaya başlayın…
+pdfjs-editor-edit-comment-dialog-cancel-button = Vazgeç
+pdfjs-editor-edit-comment-dialog-save-button = Kaydet
 
 ## Edit a comment button in the editor toolbar
 

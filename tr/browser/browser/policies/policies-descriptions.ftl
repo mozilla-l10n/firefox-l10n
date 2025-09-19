@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Belirtilen sitelerdeki
 ##
 
 policy-LocalFileLinks = Belirli web sitelerinin yerel dosyalara bağlantı vermesine izin ver.
+policy-LocalNetworkAccess = Yerel ağ erişim denetimlerini aç veya kapat.
 policy-ManagedBookmarks = Yönetici tarafından yönetilen ve kullanıcı tarafından değiştirilemeyen yer imlerinin listesini yapılandır.
 policy-ManualAppUpdateOnly = Yalnızca elle güncellemeye izin ver ve kullanıcıyı güncellemeler hakkında bilgilendirme.
 policy-PrimaryPassword = Ana parola kullanılmasını zorunlu tut veya yasakla.
@@ -140,6 +141,7 @@ policy-SupportMenu = Yardım menüsüne özel bir destek menüsü öğesi ekle.
 policy-TranslateEnabled = Web sayfası çevirilerini etkinleştir veya devre dışı bırak.
 policy-UserMessaging = Kullanıcıya belirli mesajları gösterme.
 policy-UseSystemPrintDialog = Sistem yazdırma iletişim kutusunu kullanarak yazdır.
+policy-VisualSearchEnabled = Görsel aramayı aç veya kapat.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Web sitelerinin ziyaret edilmesini engelle. Biçimle ilgili daha fazla bilgi için belgelendirmeye bakın.
 policy-Windows10SSO = Microsoft, iş ve okul hesapları için Windows çoklu oturum açmaya izin ver.
