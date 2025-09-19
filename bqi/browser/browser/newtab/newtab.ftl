@@ -15,7 +15,26 @@ newtab-confirm-delete-history-p2 = ای کار وورگندنی نؽ.
 
 newtab-privacy-modal-button-done = ٱنجوم وابی
 
+## Pocket Content Section.
+
+newtab-pocket-learn-more = قلوه دووسته بۊین
+
+## New Tab Weather
+
+newtab-weather-menu-learn-more = قلوه دووسته بۊین
+
+## Strings for trending searches
+
+newtab-trending-searches-learn-more = قلوه دووسته بۊین
+
 ## Strings for task / to-do list productivity widget
 
 newtab-widget-task-list-menu-copy = لف گیری
 newtab-widget-lists-menu-copy = لف گیری نومگه من کلیپ بورد
+newtab-widget-lists-menu-learn-more = قلوه دووسته بۊین
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-menu-learn-more = قلوه دووسته بۊین
+newtab-promo-card-cta = قلوه دووسته بۊین

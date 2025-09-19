@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The translation panel appears from the url bar, and this view is the default
+## translation view.
+
+translations-panel-learn-more-link = قلوه دووسته بۊین
+
 ## Firefox Translations language management in about:preferences.
 
 # Text displayed on the copy button before it is clicked.
