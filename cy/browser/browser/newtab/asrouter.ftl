@@ -416,3 +416,5 @@ etp-strict-exceptions-infobar-message = <strong>Gall diogelwch tracio llym achos
 etp-strict-exceptions-infobar-learn-more = Dysgu rhagor
 etp-strict-exceptions-infobar-button = Datrys
     .accesskey = D
+etp-strict-exceptions-infobar-not-now = Nid nawr
+    .accesskey = N

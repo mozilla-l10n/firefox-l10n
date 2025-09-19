@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Dychwelyd at ymddygiad
 ##
 
 policy-LocalFileLinks = Caniatáu i wefannau penodol gysylltu i ffeiliau lleol.
+policy-LocalNetworkAccess = Galluogi neu analluogi gwiriadau mynediad rhwydwaith lleol.
 policy-ManagedBookmarks = Yn ffurfweddu rhestr o nodau tudalen sy'n cael eu rheoli gan weinyddwr nad yw'r defnyddiwr yn gallu eu newid.
 policy-ManualAppUpdateOnly = Caniatáu diweddariadau â llaw yn unig a pheidio â hysbysu'r defnyddiwr am ddiweddariadau.
 policy-PrimaryPassword = Ei gwneud yn ofynnol neu atal defnyddio Prif Gyfrinair.
@@ -141,6 +142,7 @@ policy-SupportMenu = Ychwanegu eitem ddewislen cymorth cyfaddas i'r ddewislen cy
 policy-TranslateEnabled = Galluogi neu analluogi cyfieithu tudalennau gwe.
 policy-UserMessaging = Peidio â dangos rhai negeseuon i'r defnyddiwr.
 policy-UseSystemPrintDialog = Argraffu gan ddefnyddio deialog argraffu'r system.
+policy-VisualSearchEnabled = Galluogi neu analluogi chwilio gweledol.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Rhwystro gwefannau rhag derbyn ymweliadau. Gw. dogfennaeth am ragor o wybodaeth ar y fformat.
 policy-Windows10SSO = Caniatáu mewngofnodiad unigol ar gyfer cyfrifon Microsoft, gwaith ac ysgol.

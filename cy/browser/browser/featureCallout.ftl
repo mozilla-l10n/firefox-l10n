@@ -112,6 +112,19 @@ fxa-adoption-passwords-subtitle = Diogelwch eich cyfrineiriau trwy eu cydweddu Ã
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Ymuno
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Cadwch eich hoff ffrydiau yn eich bar tasgau
+taskbar-tabs-social-callout-subtitle = Agorwch eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Sgwrsio o'ch bar tasgau
+taskbar-tabs-chat-callout-subtitle = Agorwch eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
+taskbar-tabs-email-callout-title = Cadw eich e-bost yn eich bar tasgau
+taskbar-tabs-email-callout-subtitle = Agor eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
+taskbar-tabs-media-callout-title = Ewch yn Ã´l i ffrydio o'ch bar tasgau
+taskbar-tabs-media-callout-subtitle = Agor eich gwefannau cymdeithasol fel ap mewn ffenestr symlach sydd wedi'i diogelu gan { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Ychwanegu'r wefan hon at eich bar tasgau
+taskbar-tabs-value-prop-callout-subtitle = Ei agor yn ei ffenestr ei hun a rhyngwyneb symlach gydag un clic.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Peidiwch colli popeth rydych chi wedi'u cadw pan fyddwch chi'n symud i Windows 11.
