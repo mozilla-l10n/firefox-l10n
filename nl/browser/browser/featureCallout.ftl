@@ -112,6 +112,17 @@ fxa-adoption-passwords-subtitle = Bescherm uw wachtwoorden door ze versleuteld m
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registreren
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Houd uw favoriete feeds in uw taakbalk
+taskbar-tabs-social-callout-subtitle = Start uw sociale websites als een app in een gestroomlijnd venster, beschermd door { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Chat vanaf uw taakbalk
+taskbar-tabs-chat-callout-subtitle = Start uw chatwebsites als een app in een gestroomlijnd venster, beschermd door { -brand-short-name }.
+taskbar-tabs-email-callout-title = Houd uw e-mail in uw taakbalk
+taskbar-tabs-email-callout-subtitle = Start uw webmail als een app in een gestroomlijnd venster, beschermd door { -brand-short-name }.
+taskbar-tabs-media-callout-title = Terug naar streaming vanaf uw taakbalk
+taskbar-tabs-media-callout-subtitle = Start uw streamingwebsites als een app in een gestroomlijnd venster, beschermd door { -brand-short-name }.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Verlies niet alles wat u hebt opgeslagen als u overstapt naar Windows 11.

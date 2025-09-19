@@ -115,6 +115,13 @@ fxa-adoption-passwords-primary-button-label = Registrieren
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Behalten Sie Ihre Lieblings-Feeds in der Taskleiste
+taskbar-tabs-social-callout-subtitle = Starten Sie Ihre sozialen Websites wie eine App in einem optimierten Fenster, das von { -brand-short-name } geschützt wird.
+taskbar-tabs-chat-callout-title = Chatten Sie über die Taskleiste
+taskbar-tabs-chat-callout-subtitle = Starten Sie Ihre Chat-Websites wie eine App in einem optimierten Fenster, das von { -brand-short-name } geschützt wird.
+taskbar-tabs-email-callout-subtitle = Starten Sie Ihre Webmail-Seite wie eine App in einem optimierten Fenster, das von { -brand-short-name } geschützt wird.
+taskbar-tabs-media-callout-subtitle = Starten Sie Ihre Streaming-Websites wie eine App in einem optimierten Fenster, das von { -brand-short-name } geschützt wird.
+taskbar-tabs-value-prop-callout-title = Diese Website zur Taskleiste hinzufügen
+taskbar-tabs-value-prop-callout-subtitle = Starten Sie es in einem eigenen Fenster und einer vereinfachten Benutzeroberfläche mit einem einzigen Klick.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

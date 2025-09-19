@@ -386,6 +386,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Sidebar schließen
     .aria-label = Sidebar schließen
 pdfjs-editor-comments-sidebar-close-button-label = Sidebar schließen
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Haben Sie etwas Bemerkenswertes entdeckt? Heben Sie es hervor und hinterlassen Sie einen Kommentar.
 pdfjs-editor-comments-sidebar-no-comments-link = Weitere Informationen
 
 ## Alt-text dialog
