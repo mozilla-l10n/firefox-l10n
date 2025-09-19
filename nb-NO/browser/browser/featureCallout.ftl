@@ -115,6 +115,7 @@ fxa-adoption-passwords-primary-button-label = Registrer deg
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-subtitle = Start sosiale nettsteder som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
+taskbar-tabs-chat-callout-subtitle = Start chat-nettsteder som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

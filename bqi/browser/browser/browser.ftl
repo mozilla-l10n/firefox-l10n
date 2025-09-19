@@ -14,6 +14,8 @@ urlbar-result-menu-learn-more =
 ## the action.
 
 quickactions-cmd-extensions = وردنی یل
+# Opens the print dialog
+quickactions-print2 = چاپ بلگه
 quickactions-cmd-print = چاپ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = وانۊ کردن { -brand-short-name }

@@ -14,3 +14,8 @@ contextual-manager-passwords-export-file-picker-default-filename = رزما
 contextual-manager-passwords-export-file-picker-export-button = و در کشیڌن
 contextual-manager-passwords-update-password-success-button = ٱنجوم وابی
 contextual-manager-passwords-delete-password-success-button = ٱنجوم وابی
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+
+contextual-manager-primary-password-learn-more-link = قلوه دووسته بۊین
