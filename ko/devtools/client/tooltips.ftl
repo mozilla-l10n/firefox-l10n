@@ -92,6 +92,7 @@ inactive-css-not-display-block-on-floated-fix = <strong>float</strong>를 제거
 inactive-css-only-non-grid-or-flex-item-fix = 요소 컨테이너의 <strong>display</strong> 값을 <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, <strong>inline-grid</strong> 이외의 값으로 변경하거나 <strong>float</strong>를 제거해보세요. { learn-more }
 inactive-css-not-block-fix = <strong>display:block</strong> 또는 <strong>float:left</strong>와 같은 속성을 추가해 보세요. { learn-more }
 inactive-css-not-block-container-fix = <strong>display:block</strong>, <strong>display:inline-block</strong> 또는 <strong>display:flow-root</strong>를 추가해 보세요. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> 또는 <strong>display:flow-root</strong>를 추가해보세요. { learn-more }
 inactive-css-not-floated-fix = <strong>none</strong> 이외의 값으로 <strong>float</strong> 속성을 추가해 보세요. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = <strong>position</strong> 속성을 <strong>static</strong> 이외의 것으로 설정해 보세요. { learn-more }
 inactive-css-only-replaced-elements-fix = 대체된 요소에 속성을 추가하고 있는지 확인하세요. { learn-more }
