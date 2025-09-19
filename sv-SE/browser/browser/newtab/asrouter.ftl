@@ -405,4 +405,4 @@ etp-strict-exceptions-infobar-learn-more = Läs mer
 etp-strict-exceptions-infobar-button = Tillämpa korrigeringar
     .accesskey = T
 etp-strict-exceptions-infobar-not-now = Inte nu
-    .accesskey = I
+    .accesskey = n

@@ -120,9 +120,10 @@ taskbar-tabs-chat-callout-title = Chatta från aktivitetsfältet
 taskbar-tabs-chat-callout-subtitle = Starta dina chattsidor som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
 taskbar-tabs-email-callout-title = Behåll din e-post i aktivitetsfältet
 taskbar-tabs-email-callout-subtitle = Starta din webbmail som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
-taskbar-tabs-media-callout-subtitle = Starta dina streamingsajter som en app i ett strömlinjeformat fönster som skyddas av { -brand-short-name }.
+taskbar-tabs-media-callout-title = Gå tillbaka till strömning från aktivitetsfältet
+taskbar-tabs-media-callout-subtitle = Starta dina strömningssajter som en app i ett strömlinjeformat fönster skyddat av { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Lägg till den här sidan i aktivitetsfältet
-taskbar-tabs-value-prop-callout-subtitle = Starta den i sitt eget fönster och ett förenklat gränssnitt med ett enda klick.
+taskbar-tabs-value-prop-callout-subtitle = Starta den i ett eget fönster och ett förenklat gränssnitt med ett enda klick.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
