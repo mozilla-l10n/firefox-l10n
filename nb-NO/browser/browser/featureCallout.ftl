@@ -114,8 +114,11 @@ fxa-adoption-passwords-primary-button-label = Registrer deg
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = Behold favorittkildene dine på oppgavelinjen
 taskbar-tabs-social-callout-subtitle = Start sosiale nettsteder som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Chat fra oppgavelinjen din
 taskbar-tabs-chat-callout-subtitle = Start chat-nettsteder som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
+taskbar-tabs-email-callout-title = Behold e-posten din på oppgavelinjen
 taskbar-tabs-email-callout-subtitle = Start e-post-nettsteder som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.
 taskbar-tabs-media-callout-title = Gå tilbake til strømming fra oppgavelinjen
 taskbar-tabs-media-callout-subtitle = Start strømmetjenestene som en app i et strømlinjeformet vindu beskyttet av { -brand-short-name }.

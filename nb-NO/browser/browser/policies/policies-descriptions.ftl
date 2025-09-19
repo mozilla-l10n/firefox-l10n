@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbake til foreld
 ##
 
 policy-LocalFileLinks = Tillat at bestemte nettsteder kobler til lokale filer.
+policy-LocalNetworkAccess = Aktiver eller deaktiver kontroller for lokal nettverkstilgang.
 policy-ManagedBookmarks = Konfigurerer en liste over bokmerker som administreres av en administrator og som ikke kan endres av brukeren.
 policy-ManualAppUpdateOnly = Tillat kun manuelle oppdateringer og gi ikke brukeren varsel om oppdateringer.
 policy-PrimaryPassword = Krev eller forhindre bruk av hovedpassord.
