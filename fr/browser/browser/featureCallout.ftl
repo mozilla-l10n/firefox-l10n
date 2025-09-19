@@ -118,6 +118,7 @@ taskbar-tabs-social-callout-title = Conservez vos fils d’actualité préféré
 taskbar-tabs-social-callout-subtitle = Ouvrez vos réseaux sociaux sous forme d’application dans une fenêtre épurée et sécurisée par { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Discutez depuis la barre des tâches
 taskbar-tabs-chat-callout-subtitle = Ouvrez vos sites de discussion sous forme d’application dans une fenêtre épurée et sécurisée par { -brand-short-name }.
+taskbar-tabs-email-callout-subtitle = Ouvrez votre messagerie web sous forme d’application dans une fenêtre épurée et sécurisée par { -brand-short-name }.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

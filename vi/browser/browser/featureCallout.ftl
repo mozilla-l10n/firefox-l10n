@@ -112,6 +112,19 @@ fxa-adoption-passwords-subtitle = Bảo vệ mật khẩu của bạn bằng cá
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Đăng ký
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Giữ các nguồn cấp dữ liệu yêu thích của bạn trong thanh tác vụ
+taskbar-tabs-social-callout-subtitle = Khởi chạy các trang mạng xã hội của bạn như một ứng dụng trong một cửa sổ được sắp xếp hợp lý được bảo vệ bởi { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Trò chuyện từ thanh tác vụ của bạn
+taskbar-tabs-chat-callout-subtitle = Khởi chạy các trang trò chuyện của bạn như một ứng dụng trong một cửa sổ được sắp xếp hợp lý được bảo vệ bởi { -brand-short-name }.
+taskbar-tabs-email-callout-title = Giữ email của bạn trong thanh tác vụ
+taskbar-tabs-email-callout-subtitle = Khởi chạy email của bạn như một ứng dụng trong cửa sổ được sắp xếp hợp lý được bảo vệ bởi { -brand-short-name }.
+taskbar-tabs-media-callout-title = Phát trực tuyến từ thanh tác vụ của bạn
+taskbar-tabs-media-callout-subtitle = Khởi chạy trang web phát trực tuyến của bạn như một ứng dụng trong cửa sổ được sắp xếp hợp lý được bảo vệ bởi { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Thêm trang web này vào thanh tác vụ của bạn
+taskbar-tabs-value-prop-callout-subtitle = Khởi chạy nó trong cửa sổ riêng nó và giao diện đơn giản chỉ bằng một cú nhấp chuột.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Đừng mất mọi thứ bạn đã lưu khi chuyển sang Windows 11.
