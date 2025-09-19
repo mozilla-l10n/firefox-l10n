@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Scuro
     .title = Preferisci una combinazione di colori scura per lo sfondo e i contenuti dei siti.
+web-appearance-group =
+    .aria-label = Aspetto dei siti web
 preferences-web-appearance-choice-auto = Automatico
 preferences-web-appearance-choice-light = Chiaro
 preferences-web-appearance-choice-dark = Scuro
@@ -1508,6 +1510,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificati
+certs-description = Configura i certificati utilizzati da { -brand-short-name } per l’autenticazione.
 certs-enable-ocsp =
     .label = Interroga risponditori OCSP per confermare la validità attuale dei certificati
     .accesskey = P
