@@ -308,6 +308,10 @@ pdfjs-comment-floating-button =
     .title = Je’erei
     .aria-label = Je’erei
 pdfjs-comment-floating-button-label = Je’erei
+pdfjs-editor-comment-button =
+    .title = Je’erei
+    .aria-label = Je’erei
+pdfjs-editor-comment-button-label = Je’erei
 pdfjs-editor-signature-button =
     .title = Embojuaju teraguapy
 pdfjs-editor-signature-button-label = Embojuaju teraguapy
@@ -370,6 +374,18 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Moñe’ẽrã moheñoiha
     .default-content = Eñepyrũ ehai…
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] Je’erei
+       *[other] Je’ereieta
+    }
+pdfjs-editor-comments-sidebar-close-button =
+    .title = Emboty ta'ãngarupa yke
+    .aria-label = Emboty ta'ãngarupa yke
+pdfjs-editor-comments-sidebar-close-button-label = Emboty ta'ãngarupa yke
 pdfjs-editor-comments-sidebar-no-comments-link = Kuaave
 
 ## Alt-text dialog
