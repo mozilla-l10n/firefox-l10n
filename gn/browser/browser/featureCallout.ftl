@@ -112,6 +112,10 @@ fxa-adoption-passwords-subtitle = Emo’ã ne ñe’ẽñeminguéra embojuehévo
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Eñemboheraguapy
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-chat-callout-title = Echatea ne rembiaporã rupa guive
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-title-1 = Aníke eñepyrũ jey tembiapo mba’e’oka oútavape.

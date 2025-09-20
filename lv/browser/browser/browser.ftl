@@ -189,6 +189,32 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Atmest šo ieteikumu
     .accesskey = t
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Uzzināt vairāk par { -firefox-suggest-brand-name }
+    .accesskey = U
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Pārvaldīt { -firefox-suggest-brand-name }
+    .accesskey = P
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Ziņot par nepareizu atrašanās vietu
+urlbar-result-menu-show-less-frequently =
+    .label = Rādīt retāk
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Nerādīt laikapstākļu ieteikumus
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Atvērt izvēlni
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Paldies par atsauksmi!
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Paldies par atsauksmi! Tev vairs netiks rādīti laikapstākļu ieteikumi.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -214,8 +240,12 @@ urlbar-search-mode-actions = Darbības
 
 urlbar-geolocation-blocked =
     .tooltiptext = Jūs esat bloķējis atrašanās vietas informācijas koplietošanu ar šo tīmekļa vietni.
+urlbar-localhost-blocked =
+    .tooltiptext = Jūs šai vietnei liedzāt vietējo ierīču savienojumus.
+urlbar-local-network-blocked =
+    .tooltiptext = Jūs šai vietnei liedzāt vietējā tīkla savienojumus.
 urlbar-xr-blocked =
-    .tooltiptext = Jūs esat bloķējis virtuālās realitātes ierīces piekļuvi šai vietnei.
+    .tooltiptext = Jūs liedzāt virtuālajām realitātes ierīcēm piekļūt šai vietnei.
 urlbar-web-notifications-blocked =
     .tooltiptext = Jūs esat bloķējis paziņojumu saņemšanu no šīs tīmekļa vietnes.
 urlbar-camera-blocked =
@@ -235,7 +265,7 @@ urlbar-canvas-blocked =
 urlbar-midi-blocked =
     .tooltiptext = Jūs esat bloķējis MIDI piekļuvi šai tīmekļa vietnei.
 urlbar-install-blocked =
-    .tooltiptext = Jūs esat bloķējis papildinājumu instalēšanu šai tīmekļa vietnei.
+    .tooltiptext = Jūs liedzāt papildinājumu instalēšanu šai tīmekļa vietnei.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -320,10 +350,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Skatīt papildinājumus
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = paplašinājumi, motīvi, papildinājumi
 quickactions-cmd-addons2 = papildinājumi
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Pārvaldīt grāmatzīmes
 quickactions-cmd-bookmarks = grāmatzīmes
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Notīrīt neseno vēsturi
+quickactions-cmd-clearrecenthistory = notīrīt neseno vēsturi, vēsturi
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Notīrīt vēsturi
 quickactions-cmd-clearhistory = notīrīt vēsturi
@@ -333,6 +370,8 @@ quickactions-cmd-downloads = lejupielādes
 # Opens about:addons page in the extensions section
 quickactions-extensions = Pārvaldīt paplašinājumus
 quickactions-cmd-extensions = paplašinājumi
+# Opens Firefox View
+quickactions-firefoxview = Atvērt { -firefoxview-brand-name }
 # Opens the devtools web inspector
 quickactions-inspector2 = Atvērt izstrādātāju rīkus
 quickactions-cmd-inspector = inspektors, izstrādātāju rīki
