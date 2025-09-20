@@ -112,6 +112,10 @@ fxa-adoption-passwords-subtitle = Protege tu contrasignos synchronisante los a t
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Inscriber se
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-chat-callout-title = Chatta ab tu barra de activitates
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Non perde omne cosa que tu ha salvate quando tu te move a Windows 11.
