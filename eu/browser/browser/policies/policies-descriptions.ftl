@@ -97,6 +97,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Leheneratu SameSite po
 ##
 
 policy-LocalFileLinks = Baimendu gune zehatzei fitxategi lokalen loturak egitea.
+policy-LocalNetworkAccess = Gaitu edo desgaitu sare lokaleko sarbidearen egiaztapenak.
 policy-ManagedBookmarks = Administratzaileak kudeatutako eta erabiltzaileak aldatu ezin duen laster-marken zerrenda konfiguratzen du.
 policy-ManualAppUpdateOnly = Baimendu eskuzko eguneraketak soilik eta ez jakinarazi erabiltzailea eguneratzeei buruz.
 policy-PrimaryPassword = Behartu edo eragotzi pasahitz nagusia erabiltzea.
@@ -117,6 +118,7 @@ policy-PostQuantumKeyAgreementEnabled = Gaitu TLSrako post-quantum gako-hitzarme
 policy-PDFjs = Desgaitu edo konfiguratu PDF.js, { -brand-short-name }(r)en integratutako PDF ikustailea.
 policy-Permissions2 = Konfiguratu kamera, mikrofonoa, kokapena, jakinarazpenak eta erreprodukzio automatikoa erabiltzeko baimenak.
 policy-PictureInPicture = Gaitu edo desgaitu bideo beste leiho batean ikusteko eginbidea.
+policy-PopupBlocking2 = Baimendu hainbat webguneri popup leihoak bistaratzea eta hirugarrenen markoengandik birbideratuak izatea.
 policy-PopupBlocking = Baimendu zenbait webguneri lehenespenez popup leihoak bistaratzea.
 policy-Preferences = Ezarri eta blokeatu hobespen-azpimultzo baten balioak.
 policy-PrivateBrowsingModeAvailability = Ezarri nabigatze pribatuko moduaren erabilgarritasuna.
@@ -139,6 +141,7 @@ policy-SupportMenu = Gehitu euskarrirako menu-elementu pertsonalizatua laguntzar
 policy-TranslateEnabled = Gaitu edo desgaitu web orrien itzulpena.
 policy-UserMessaging = Ez erakutsi zenbait mezu erabiltzaileari.
 policy-UseSystemPrintDialog = Inprimatu sistemaren inprimatzeko elkarrizketa-koadroa erabiliz…
+policy-VisualSearchEnabled = Gaitu edo desgaitu bilaketa bisuala.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokeatu zenbait webgune bisitatzea. Irakurri dokumentazioa formatuaren gaineko xehetasun gehiagorako.
 policy-Windows10SSO = Baimendu Windows saio-hasiera bakarra (SSO) Microsoft-, laneko eta eskolako kontuentzat.
