@@ -66,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Ipyahu: { $added }, Hekopyahu: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Ipyahúva: { $added }, Hekopyahúva: { $modified }, Ikõiva: { $no_change }, Javy: { $error }
 contextual-manager-passwords-import-detailed-report = Ehecha porã marandu’i
 contextual-manager-passwords-import-success-button = Apopyre
 contextual-manager-passwords-import-error-heading-and-message =

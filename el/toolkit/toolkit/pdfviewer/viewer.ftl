@@ -308,6 +308,10 @@ pdfjs-comment-floating-button =
     .title = Σχόλιο
     .aria-label = Σχόλιο
 pdfjs-comment-floating-button-label = Σχόλιο
+pdfjs-editor-comment-button =
+    .title = Σχόλιο
+    .aria-label = Σχόλιο
+pdfjs-editor-comment-button-label = Σχόλιο
 pdfjs-editor-signature-button =
     .title = Προσθήκη υπογραφής
 pdfjs-editor-signature-button-label = Προσθήκη υπογραφής
@@ -370,6 +374,14 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Επεξεργασία κειμένου
     .default-content = Ξεκινήστε να πληκτρολογείτε…
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] Σχόλια
+       *[other] Σχόλια
+    }
 
 ## Alt-text dialog
 
