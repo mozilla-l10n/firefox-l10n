@@ -97,6 +97,16 @@ fxa-adoption-passwords-subtitle = ניתן להגן על הססמאות שלך �
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = הרשמה
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = לשמור את העדכונים המועדפים עליך בשורת המשימות שלך
+taskbar-tabs-social-callout-subtitle = ניתן להפעיל את אתרי הרשתות החברתיות שלך כמו יישומון, בחלון פשוט ונקי המוגן על־ידי { -brand-short-name }.
+taskbar-tabs-chat-callout-title = צ’אט משורת המשימות שלך
+taskbar-tabs-chat-callout-subtitle = ניתן להפעיל את אתרי הצא’ט שלך כמו יישומון, בחלון פשוט ונקי המוגן על־ידי { -brand-short-name }.
+taskbar-tabs-email-callout-title = לשמור את הדוא״ל שלך בשורת המשימות שלך
+taskbar-tabs-email-callout-subtitle = ניתן להפעיל את הדוא״ל האינטרנטי שלך כמו יישומון, בחלון פשוט ונקי המוגן על־ידי { -brand-short-name }.
+taskbar-tabs-media-callout-title = לחזור לסטרימינג משורת המשימות שלך
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = לא לאבד את כל מה ששמרת בעת המעבר ל־Windows 11.
