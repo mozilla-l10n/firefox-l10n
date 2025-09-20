@@ -93,6 +93,7 @@ policy-LegacyProfiles = השבתת התכונה האוכפת פרופיל נפר
 ##
 
 policy-LocalFileLinks = לאפשר לאתרים מסויימים לקשר לקבצים מקומיים.
+policy-LocalNetworkAccess = הפעלה או השבתה של בדיקות גישה לרשת מקומית
 policy-ManagedBookmarks = הגדרת רשימה של סימניות המנוהלת על־ידי מנהל מערכת ושאינה ניתנת לשינוי על־ידי המשתמש.
 policy-ManualAppUpdateOnly = לאפשר עדכונים באופן ידני בלבד ולא להודיע למשתמש על עדכונים.
 policy-PrimaryPassword = לדרוש או למנוע שימוש בססמה ראשית.
@@ -136,6 +137,7 @@ policy-SupportMenu = הוספת תפריט תמיכה בהתאמה אישית ל
 policy-TranslateEnabled = הפעלה או השבתה של תרגום דפי אינטרנט.
 policy-UserMessaging = לא להציג למשתמש הודעות מסוימות.
 policy-UseSystemPrintDialog = הדפסה באמצעות תיבת הדו־שיח להדפסה של המערכת.
+policy-VisualSearchEnabled = הפעלה או השבתה של חיפוש חזותי
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = חסימת ביקור באתרים. יש לעיין בתיעוד לקבלת פרטים נוספים על התבנית.
 # Entra is the name of a Microsoft product.

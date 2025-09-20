@@ -34,3 +34,15 @@ taskbar-tab-audio-mute =
     .tooltiptext = השתקת לשונית
 taskbar-tab-audio-unmute =
     .tooltiptext = ביטול השתקת לשונית
+
+## These are used as part of the window title, possibly after the content's
+## title.
+##
+## Variables:
+##  $name (String): The name of the installed web app.
+##  $container (String): The name of the user's container (e.g. 'Work',
+##  'Personal').
+##  $profile (String): The name of the user's current profile.
+
+taskbar-tab-title-default = ‏{ $name } ב־{ -brand-full-name }
+taskbar-tab-title-container = ‏{ $name } (‏{ $container }) ב־{ -brand-full-name }

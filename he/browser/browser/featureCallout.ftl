@@ -106,6 +106,9 @@ taskbar-tabs-chat-callout-subtitle = ניתן להפעיל את אתרי הצא�
 taskbar-tabs-email-callout-title = לשמור את הדוא״ל שלך בשורת המשימות שלך
 taskbar-tabs-email-callout-subtitle = ניתן להפעיל את הדוא״ל האינטרנטי שלך כמו יישומון, בחלון פשוט ונקי המוגן על־ידי { -brand-short-name }.
 taskbar-tabs-media-callout-title = לחזור לסטרימינג משורת המשימות שלך
+taskbar-tabs-media-callout-subtitle = ניתן להפעיל את אתרי הסטרימינג שלך כמו יישומון, בחלון פשוט ונקי המוגן על־ידי { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = הוספת אתר זה לשורת המשימות שלך
+taskbar-tabs-value-prop-callout-subtitle = ניתן להפעיל אותו בחלון משל עצמו ובממשק פשוט בלחיצה אחת.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

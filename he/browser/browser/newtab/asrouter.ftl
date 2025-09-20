@@ -397,3 +397,5 @@ etp-strict-exceptions-infobar-message = <strong>הגנת מעקב מחמירה �
 etp-strict-exceptions-infobar-learn-more = מידע נוסף
 etp-strict-exceptions-infobar-button = להחיל תיקונים
     .accesskey = ת
+etp-strict-exceptions-infobar-not-now = לא כעת
+    .accesskey = ל
