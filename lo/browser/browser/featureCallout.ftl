@@ -76,10 +76,20 @@ bookmarks-toolbar-callout-2a-subtitle = ທ່ານສາມາດລາກ ແ
 bookmarks-toolbar-callout-2a-primary-button-label = ເຂົ້າໃຈແລ້ວ
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = ເຊື່ອງແຖບເຄື່ອງມື
+bookmarks-toolbar-callout-2b-primary-button-label = ສືບຕໍ່ເປີດ
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = ບໍ່, ຂອບໃຈ
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = ຕ້ອງການຄໍາຕອບທີ່ຖືກຕ້ອງ, ທັນທີບໍ?
+perplexity-callout-theme-2-title = ລອງ Perplexity: ວິທີການໃຫມ່ໃນການຄົ້ນຫາ
 perplexity-callout-theme-1-subtitle-1 = ພະຍາຍາມສັບສົນ. ເລືອກມັນຈາກປຸ່ມຄົ້ນຫາໃນເວລາທີ່ທ່ານຕ້ອງການຄໍາຕອບທີ່ສົມບູນ, ແຫຼ່ງຂໍ້ມູນລວມ.
+perplexity-callout-theme-1-subtitle-2 = ຖາມຄໍາຖາມ. ໄດ້ຮັບຄໍາຕອບທີ່ສົມບູນ, ອ້າງອີງດີ. ເພື່ອລອງໃຊ້ Perplexity, ເລືອກມັນຈາກປຸ່ມຄົ້ນຫາ.
+perplexity-callout-theme-2-subtitle-1 = ຖາມ Perplexity. ທ່ານ​ຈະ​ໄດ້​ຮັບ​ຄໍາ​ຕອບ​ທີ່​ສົມ​ບູນ​, ລວມ​ແຫຼ່ງ​ຂໍ້​ມູນ​.
+perplexity-callout-theme-2-subtitle-2 = ຖາມຄໍາຖາມ. ໄດ້ຮັບຄໍາຕອບທີ່ສົມບູນ, ອ້າງອີງດີ.
+perplexity-callout-primary-label = ຖາມ Perplexity
+perplexity-callout-secondary-label-1 = ຍົກເລີກ
 
 ## Sidebar Strings
 
