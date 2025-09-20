@@ -158,7 +158,7 @@ contextual-manager-passwords-radiogroup-label =
 # Variables
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
-    .heading = Pievienota parole { $url }
+    .heading = Pievienota { $url } parole
 contextual-manager-passwords-add-password-success-button = Apskatīt
 # Variables
 #   $url (string) - The url associated with the existing login
@@ -285,9 +285,33 @@ contextual-manager-view-alert-heading =
     .heading = Skatīt brīdinājumu
 contextual-manager-view-alert-button =
     .tooltiptext = Pārskatīt brīdinājumu
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Skatīt brīdinājumu
+            [zero] Skatīt brīdinājumus
+            [one] Skatīt brīdinājumu
+           *[other] Skatīt brīdinājumus
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Pārskatīt brīdinājumu
+            [zero] Pārskatīt brīdinājumus
+            [one] Pārskatīt brīdinājumu
+           *[other] Pārskatīt brīdinājumus
+        }
 contextual-manager-show-password-button =
     .aria-label = Rādīt paroli
     .title = Rādīt paroli
 contextual-manager-hide-password-button =
     .aria-label = Slēpt paroli
     .title = Slēpt paroli
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Netika atrasta neviena parole
+contextual-manager-passwords-no-passwords-found-message = Nav atrasta neviena parole. Meklējiet citu termu un mēģiniet vēlreiz.
