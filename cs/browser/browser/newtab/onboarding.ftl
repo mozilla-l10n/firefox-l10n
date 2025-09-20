@@ -683,3 +683,4 @@ restore-from-backup-secondary-button = Neobnovovat
 restored-from-backup-success-with-checklist-primary-button = Uložit a pokračovat
 restored-from-backup-success-with-checklist-secondary-button = Přeskočit tento krok
 restored-from-backup-success-no-checklist-primary-button = Pokračovat
+restored-from-backup-error-primary-button = Zavřít
