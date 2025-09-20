@@ -14,3 +14,15 @@ all-tabs-menu-manage-user-context =
     .accesskey = o
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Aizvērt visas dublētās cilnes
+all-tabs-menu-synced-tabs =
+    .label = Cilnes no citām ierīcēm
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Nesenas ciļņu kopas
+all-tabs-menu-current-window-header = Pašreizējais logs
+# This opens the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Rādīt visu
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Ciļņu kopas

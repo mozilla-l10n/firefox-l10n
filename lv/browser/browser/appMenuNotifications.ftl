@@ -30,6 +30,9 @@ appmenu-update-restart2 =
     .secondarybuttonlabel = Atmest
     .secondarybuttonaccesskey = m
 appmenu-update-restart-message2 = Iegūstiet jaunāko { -brand-shorter-name } versiju. Atvērtās cilnes un logi tiks atjaunoti.
+appmenu-theme-installed =
+    .secondarybuttonlabel = Atsaukt
+    .secondarybuttonaccesskey = A
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } nevar automātiski atjaunināt uz jaunāko versiju.
     .buttonlabel = Tomēr atjaunināt { -brand-shorter-name }
@@ -41,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Labi
     .buttonaccesskey = L
 appmenu-addon-post-install-message3 = Pārvaldiet savus paplašinājumus un motīvus, izmantojot lietotnes izvēlni.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Atļaujas un datu iestatījumus jebkurā brīdī var atjaunināt <a data-l10n-name="settings-link">paplašinājuma iestatījumos</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Piespraust paplašinājumu rīkjoslai
+    .accesskey = P
 appmenu-addon-post-install-incognito-checkbox =
     .label = Ļaut šim paplašinājumam darboties privātajos logos
     .accesskey = p
@@ -51,10 +60,10 @@ appmenu-new-tab-controlled-changes =
     .secondarybuttonlabel = Pārvaldīt jaunās cilnes
     .secondarybuttonaccesskey = j
 appmenu-homepage-controlled-changes =
-    .label = Jūsu sākumlapa ir mainījusies.
+    .label = Ir mainījusies sākuma lapa.
     .buttonlabel = Paturēt izmaiņas
     .buttonaccesskey = P
-    .secondarybuttonlabel = Pārvaldīt mājaslapu
+    .secondarybuttonlabel = Pārvaldīt sākuma lapu
     .secondarybuttonaccesskey = m
 appmenu-tab-hide-controlled =
     .label = Piekļūt paslēptajām cilnēm
