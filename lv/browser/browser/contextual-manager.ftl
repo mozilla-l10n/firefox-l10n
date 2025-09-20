@@ -314,4 +314,41 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Netika atrasta neviena parole
+contextual-manager-passwords-no-passwords-found-message-2 = Izmēģiniet citu termu un meklējiet vēlreiz.
 contextual-manager-passwords-no-passwords-found-message = Nav atrasta neviena parole. Meklējiet citu termu un mēģiniet vēlreiz.
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Saglabājiet savas paroles drošā vietā.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Visas paroles ir šifrētas, un mēs sekosim līdzi paroļu noplūdēm un pārkāpumiem, ja tie uz jums attieksies.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Pievienojiet tos šeit, lai sāktu.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Pievienot pašrocīgi
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Saglabājiet savas paroles drošā vietā
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Aizvērt nesaglabājot?
+    .message = Jūsu izmaiņas netiks saglabātas.
+contextual-manager-passwords-discard-changes-close-button = Aizvērt
+contextual-manager-passwords-discard-changes-go-back-button = Iet atpakaļ
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Jā, izņemt paroli
+        [zero] Jā, izņemt paroles
+        [one] Jā, izņemt paroli
+       *[other] Jā, izņemt paroles
+    }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Lai skatītu saglabātās paroles, ievadiet savu galveno paroli.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Ievadiet galveno paroli
