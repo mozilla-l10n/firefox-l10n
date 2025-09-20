@@ -407,22 +407,34 @@ quickactions-restart = Pārstartēt { -brand-short-name }
 quickactions-cmd-restart = pārstartēt
 # Opens the screenshot tool
 quickactions-screenshot3 = Uzņemt ekrānuzņēmumu
+quickactions-cmd-screenshot2 = ekrānuzņēmums, veikt ekrānuzņēmumu, ekrānattēls
 quickactions-cmd-screenshot = ekrānuzņēmums
 # Opens about:preferences
 quickactions-settings2 = Pārvaldīt iestatījumus
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = iestatījumi, preferences, opcijas, iespējas, pārvaldīt
 quickactions-cmd-settings = iestatījumi, preferences, opcijas
 # Opens about:addons page in the themes section
 quickactions-themes = Pārvaldīt motīvus
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = motīvi, papildinājumi, paplašinājumi
 quickactions-cmd-themes = motīvi
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atjaunināt { -brand-short-name }
 quickactions-cmd-update = atjaunināt
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Skatīt lapas pirmkodu
+quickactions-cmd-viewsource2 = apskatīt pirmkodu, pirmkods, lapas pirmkods
 quickactions-cmd-viewsource = apskatīt pirmkodu, pirmkods
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Uzzināt vairāk par ātrajām darbībām
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Spiediet Tab, lai atlasītu:
 
 ## Bookmark Panel
 
@@ -456,7 +468,7 @@ bookmark-panel =
 
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-identity-site-information = Informācija par { $host } vietni
+identity-site-information = Informācija par vietni { $host }
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
@@ -538,7 +550,7 @@ browser-tab-audio-playing2 = ATSKAŅO
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = APKLUSINĀTS
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AUTOMĀTISKĀ ATSKAŅOŠANA BLOĶĒTA
+browser-tab-audio-blocked = LIEGTA AUTOMĀTISKĀ ATSKAŅOŠANA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ATTĒLS-ATTĒLĀ
 
@@ -615,7 +627,7 @@ urlbar-search-mode-indicator-close =
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
+    .placeholder = Meklējiet vai ievadiet adresi
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -651,7 +663,7 @@ urlbar-placeholder-search-mode-other-actions =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Meklēt ar { $name } vai ievadiet mājas lapas adresi
+    .placeholder = Meklēt ar { $name } vai ievadiet adresi
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
