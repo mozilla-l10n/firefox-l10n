@@ -433,6 +433,10 @@ sync-to-mobile-button-label = סנכרון לנייד
 desktop-to-mobile-qr-code-alt =
     .aria-label = קוד QR להורדת { -brand-product-name } לנייד
 
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = שחזור מגיבוי
+
 ## Restored from Backup spotlight
 
 restored-from-backup-success-with-checklist-subtitle = רוצה לשמור על הדפדפן המועדף עליך, שממוקד בפרטיות, במרחק לחיצה אחת?
