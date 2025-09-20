@@ -627,6 +627,7 @@ pdfjs-editor-edit-comment-dialog-title-when-editing = Επεξεργασία σ�
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = Προσθήκη σχολίου
 pdfjs-editor-edit-comment-dialog-cancel-button = Ακύρωση
+pdfjs-editor-edit-comment-dialog-save-button = Αποθήκευση
 
 ## Edit a comment button in the editor toolbar
 
