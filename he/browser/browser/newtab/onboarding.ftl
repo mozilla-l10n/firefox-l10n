@@ -436,9 +436,13 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = שחזור מגיבוי
+restore-from-backup-title = בואו נחזיר את { -brand-short-name } למצב הקודם כמו שאהבת
+restore-from-backup-subtitle = שחזור כל הסימניות, ההיסטוריה ונתונים האחרים שלך כדי לחזור לגלוש.
+restore-from-backup-secondary-button = לא לשחזר
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = חזרנו! הנתונים של ה־{ -brand-short-name } שלך שוחזרו.
 restored-from-backup-success-with-checklist-subtitle = רוצה לשמור על הדפדפן המועדף עליך, שממוקד בפרטיות, במרחק לחיצה אחת?
 restored-from-backup-success-no-checklist-subtitle = ניתן להפעיל גיבוי עבור מכשיר זה ב<a data-l10n-name="settings">הגדרות</a>.
 restored-from-backup-success-with-checklist-primary-button = שמירה והמשך
