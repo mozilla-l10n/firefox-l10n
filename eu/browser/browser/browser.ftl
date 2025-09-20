@@ -1345,3 +1345,8 @@ trustpanel-blocker-see-all = Ikusi guztiak
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Jarraipenaren babesak { $host } ostalarirako
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-list-label-tracking-content = Edukiaren jarraipena

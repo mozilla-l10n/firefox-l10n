@@ -79,6 +79,7 @@ policy-ExtensionSettings = Kudeatu hedapenen instalazioko arlo guztiak.
 policy-ExtensionUpdate = Gaitu edo desgaitu hedapenen eguneraketa automatikoa.
 policy-FirefoxHome2 = Konfiguratu { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Konfiguratu { -firefox-suggest-brand-name }.
+policy-GenerativeAI = Konfiguratu AA sortzaileko eginbideak.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Hitz bakarreko sarrerak helbide-barran idaztean, behartu intranet gunerako nabigazio zuzena bilaketa egin ordez.
 policy-Handlers = Konfiguratu aplikazio-maneiatzaile lehenetsiak.
 policy-HardwareAcceleration = Ez badago ezarrita, hardware-azelerazioa desgaituko da.
