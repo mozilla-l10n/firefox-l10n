@@ -383,10 +383,10 @@ pdfjs-free-text2 =
 #   $count (Number) - the number of comments.
 pdfjs-editor-comments-sidebar-title =
     { $count ->
-        [one] komentár
-        [few] komentáre
-        [many] komentárov
-       *[other] komentárov
+        [one] Komentár
+        [few] Komentáre
+        [many] Komentárov
+       *[other] Komentárov
     }
 pdfjs-editor-comments-sidebar-close-button =
     .title = Zavrieť bočný panel

@@ -118,6 +118,12 @@ taskbar-tabs-social-callout-title = Uložte si svoje obľúbené kanály na pane
 taskbar-tabs-social-callout-subtitle = Spúšťajte svoje sociálne siete ako aplikáciu v zjednodušenom okne chránenom prehliadačom { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Chat z panela úloh
 taskbar-tabs-chat-callout-subtitle = Spúšťajte svoje chatovacie stránky ako aplikáciu v zjednodušenom okne chránenom prehliadačom { -brand-short-name }.
+taskbar-tabs-email-callout-title = Uchovávajte si e‑maily na paneli úloh
+taskbar-tabs-email-callout-subtitle = Spúšťajte svoj webový e‑mail ako aplikáciu v zjednodušenom okne chránenom prehliadačom { -brand-short-name }.
+taskbar-tabs-media-callout-title = Vráťte sa k streamovaniu z panela úloh
+taskbar-tabs-media-callout-subtitle = Spúšťajte svoje streamovacie stránky ako aplikáciu v zjednodušenom okne chránenom prehliadačom { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Pridajte túto stránku na panel úloh
+taskbar-tabs-value-prop-callout-subtitle = Spúšťajte ju v samostatnom okne a zjednodušenom rozhraní jediným kliknutím.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
