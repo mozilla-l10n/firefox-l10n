@@ -370,6 +370,7 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Moñe’ẽrã moheñoiha
     .default-content = Eñepyrũ ehai…
+pdfjs-editor-comments-sidebar-no-comments-link = Kuaave
 
 ## Alt-text dialog
 
@@ -584,6 +585,12 @@ pdfjs-editor-add-signature-error-close-button = Mboty
 pdfjs-editor-add-signature-cancel-button = Heja
 pdfjs-editor-add-signature-add-button = Mbojuaju
 pdfjs-editor-edit-signature-update-button = Mbohekopyahu
+
+## Comment popup
+
+pdfjs-editor-edit-comment-popup-button-label = Je’erei mbosako’i
+pdfjs-editor-edit-comment-popup-button =
+    .title = Je’erei mbosako’i
 
 ##  Edit a comment dialog
 

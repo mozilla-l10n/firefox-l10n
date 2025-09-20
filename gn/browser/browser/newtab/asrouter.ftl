@@ -387,3 +387,5 @@ windows-10-eos-feature-toast-dismiss-button = Mboyke
 etp-strict-exceptions-infobar-learn-more = Eikuaave
 etp-strict-exceptions-infobar-button = Emboheko ñemyatyrõ
     .accesskey = A
+etp-strict-exceptions-infobar-not-now = Ani ko’ág̃a
+    .accesskey = N

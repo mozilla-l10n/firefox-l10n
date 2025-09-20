@@ -138,6 +138,7 @@ policy-SupportMenu = Embojuaju mba’eporu poravorãgua ñemomba’epyréva pyty
 policy-TranslateEnabled = Emyandy térã embogue ñanduti rogue moñe’ẽasa.
 policy-UserMessaging = Ani ehechauka heta ñe’ẽmondo poruhárape.
 policy-UseSystemPrintDialog = Eguenohẽ kuatiáre eiporuhápe apopyvusúpe ñe’ẽñemi kuatiáre ñeguenohẽ rehegua.
+policy-VisualSearchEnabled = Embojuruja térã eipe’a pe jehekaha.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Ejoko ñanduti rendápe jeike. Emoñe’ẽ kuatiaita ehechakuaa hag̃ua mba’emimi ko ysaja rehegua.
 policy-Windows10SSO = Emoneĩ tembiapo ñepyrũ Windows rupi Microsoft-pe, mba’apo ha mbo’ehaogua mba’ete.

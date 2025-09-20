@@ -115,6 +115,7 @@ fxa-adoption-passwords-primary-button-label = Eñemboheraguapy
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-chat-callout-title = Echatea ne rembiaporã rupa guive
+taskbar-tabs-email-callout-title = Ereko ne ñanduti veve tembiaporã rupápe
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

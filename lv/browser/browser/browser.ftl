@@ -369,11 +369,20 @@ quickactions-downloads2 = Skatīt lejupielādes
 quickactions-cmd-downloads = lejupielādes
 # Opens about:addons page in the extensions section
 quickactions-extensions = Pārvaldīt paplašinājumus
+quickactions-cmd-extensions2 = paplašinājumi, papildinājumi
 quickactions-cmd-extensions = paplašinājumi
 # Opens Firefox View
 quickactions-firefoxview = Atvērt { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = atvērt { -firefoxview-brand-name }, { -firefoxview-brand-name }, atvērt skatu, skats
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } palīdzība
+quickactions-cmd-help = palīdzība, atbalsts
 # Opens the devtools web inspector
 quickactions-inspector2 = Atvērt izstrādātāju rīkus
+quickactions-cmd-inspector2 = inspektors, pārraugs, izstrādātāju rīki
 quickactions-cmd-inspector = inspektors, izstrādātāju rīki
 # Opens about:logins
 quickactions-logins2 = Pārvaldīt paroles
@@ -386,6 +395,7 @@ quickactions-print2 = Drukāt lapu
 quickactions-cmd-print = drukāt
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Saglabāt lapu kā PDF
+quickactions-cmd-savepdf2 = pdf, saglabāt lapu
 # Opens a new private browsing window
 quickactions-private2 = Atvērt privāto logu
 quickactions-cmd-private = privātā pārlūkošana
