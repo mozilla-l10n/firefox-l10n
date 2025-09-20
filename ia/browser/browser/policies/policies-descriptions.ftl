@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Usar le comportamento 
 ##
 
 policy-LocalFileLinks = Permitter a sitos web specific de ligar a files local.
+policy-LocalNetworkAccess = Activar o disactivar controlos de accesso al rete local.
 policy-ManagedBookmarks = Configura un lista de marcapaginas, gerite per un administrator, que non pote esser cambiate per le usator.
 policy-ManualAppUpdateOnly = Solo consentir actualisationes manual e non allertar le usator re actualisationes.
 policy-PrimaryPassword = Requirer o impedir usar un contrasigno primari.
@@ -141,6 +142,7 @@ policy-SupportMenu = Adder un selection de supporto personalisate al menu de adj
 policy-TranslateEnabled = Activar o disactivar le traduction del pagina web.
 policy-UserMessaging = Non monstrar al usator certe messages.
 policy-UseSystemPrintDialog = Imprimer usante le fenestra de impression del systema…
+policy-VisualSearchEnabled = Activar o disactivar recerca visual.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blocar le accesso a sitos web. Vider documentation pro plus detalios sur le formato.
 policy-Windows10SSO = Permitter le autorisation unic de Windows pro le contos de labor e schola de Microsoft.

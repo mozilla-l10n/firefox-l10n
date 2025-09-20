@@ -386,6 +386,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Clauder le barra lateral
     .aria-label = Clauder le barra lateral
 pdfjs-editor-comments-sidebar-close-button-label = Clauder le barra lateral
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Vide tu alco notabile? Evidentia lo e lassa un commentario.
 pdfjs-editor-comments-sidebar-no-comments-link = Pro saper plus
 
 ## Alt-text dialog

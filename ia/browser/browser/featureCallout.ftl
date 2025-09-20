@@ -117,6 +117,13 @@ fxa-adoption-passwords-primary-button-label = Inscriber se
 taskbar-tabs-social-callout-title = Tene tu fluxos favorite in tu barra del cargas
 taskbar-tabs-social-callout-subtitle = Lancea tu sitos social como un application in un fenestra simplificate protecte per { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Chatta ab tu barra de activitates
+taskbar-tabs-chat-callout-subtitle = Lancea tu sitos de chat como un application in un fenestra simplificate protecte per { -brand-short-name }.
+taskbar-tabs-email-callout-title = Tene tu email in tu barra del cargas
+taskbar-tabs-email-callout-subtitle = Lancea tu email web como un application in un fenestra simplificate protecte per { -brand-short-name }.
+taskbar-tabs-media-callout-title = Retorna a diffunder de tu barra del cargas
+taskbar-tabs-media-callout-subtitle = Lancea tu sitos de diffusion multimedial como un application in un fenestra simplificate protecte per { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Adde iste sito a tu barra del cargas
+taskbar-tabs-value-prop-callout-subtitle = Lancea lo in su proprie fenestra e interfacie simplificate con un sol clic.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
