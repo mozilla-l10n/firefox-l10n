@@ -104,6 +104,20 @@ perplexity-callout-secondary-label-2 = Paham
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
 fxa-adoption-passwords-title = Sandi disimpan. Silakan dicadangkan.
+fxa-adoption-passwords-subtitle = Lindungi kata sandi Anda dengan menyinkronkan mereka ke perangkat Anda dengan enkripsi.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Daftar
+
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Simpan asupan favorit Anda di bilah tugas
+taskbar-tabs-social-callout-subtitle = Luncurkan situs sosial Anda seperti aplikasi di jendela ramping yang dilindungi oleh { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Mengobrol dari bilah tugas
+
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = Jangan kehilangan semua yang telah Anda simpan saat pindah ke Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sinkronkan sekarang untuk menjaga markah, sandi, dan setelan { -brand-short-name } Anda aman dan mudah dipulihkan.
 
 ## Sidebar Strings
 

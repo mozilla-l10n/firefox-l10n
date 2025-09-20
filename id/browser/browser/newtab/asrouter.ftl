@@ -66,6 +66,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Sinkronkan markah sekarang…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tombol tutup
     .title = T
+fxa-adoption-primary-button-label = Daftar
 
 ## Protections panel
 
@@ -308,8 +309,11 @@ fxa-menu-message-close-button =
     .title = Tutup
     .aria-label = Tutup
 fxa-menu-message-sign-up-button = Daftar
+fxa-menu-message-sign-in-button = Masuk
+fxa-menu-message-sync-button = Mulai menyinkronkan
 fxa-menu-message-sync-devices-primary-text = Sinkronkan semua perangkat Anda
 fxa-menu-message-sync-devices-secondary-text = Dapatkan info Anda secara instan — seperti markah dan sandi — di mana pun Anda menggunakan { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Seketika dapatkan markah, sandi, dan lainnya — di mana pun Anda masuk ke { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sinkronkan semua perangkat Anda
 fxa-menu-message-backup-data-primary-text = Cadangkan data peramban Anda
 fxa-menu-message-backup-data-secondary-text = Secara otomatis melindungi markah, sandi, dan info lainnya di semua perangkat Anda.
@@ -340,3 +344,8 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Simpan peramban favorit Anda yang berfokus pada privasi hanya dengan sekali klik. Tetapkan { -brand-short-name } sebagai peramban baku Anda untuk membuka tautan dan sematkan ke bilah tugas Anda.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Simpan peramban favorit Anda yang berfokus pada privasi hanya dengan sekali klik. Tetapkan { -brand-short-name } sebagai peramban baku Anda untuk membuka tautan dan sematkan ke bilah tugas dan menu Mulai Anda.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Meningkatkan dari Windows 10 segera?
+windows-10-eos-sync-spotlight-subtitle = Cadangkan kata sandi dan markah Anda sehingga Anda siap untuk melompat ke perangkat apa pun.

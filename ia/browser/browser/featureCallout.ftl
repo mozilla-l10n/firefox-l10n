@@ -114,6 +114,7 @@ fxa-adoption-passwords-primary-button-label = Inscriber se
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = Tene tu fluxos favorite in tu barra del cargas
 taskbar-tabs-chat-callout-title = Chatta ab tu barra de activitates
 
 ## Windows 10 EoS Sync messages group 1 callouts
