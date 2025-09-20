@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Uzņēmuma politikas
+aboutpolicies-page-heading =
+    .heading = Par pamatnostādnēm
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Aktivēta
 errors-tab = Kļūdas

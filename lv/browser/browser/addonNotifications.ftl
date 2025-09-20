@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xpinstall-prompt = { -brand-short-name } liedza šai lapai vaicāt atļauju instalēt datorā programmatūru.
+xpinstall-prompt = { -brand-short-name } liedza šai vietnei vaicāt atļauju instalēt datorā programmatūru.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -49,7 +49,7 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Sistēmas administrators ir bloķējis { $addonName } ({ $addonId }).
+addon-install-blocked-by-policy = Sistēmas pārvaldītājs ir liedzis { $addonName } ({ $addonId }).
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Jūsu sistēmas administrators neļāva šai vietnei lūgt instalēt datorā programmatūru.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
@@ -59,7 +59,7 @@ addon-domain-blocked-by-policy = Jūsu sistēmas administrators neļāva šai vi
 addon-installation-blocked-by-policy = Jūsu organizācija ir bloķējusi { $addonName } ({ $addonId }).
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-install-domain-blocked-by-policy = Jūsu organizācija neļāva šai vietnei lūgt instalēt programmatūru šajā datorā.
-addon-install-full-screen-blocked = Nevar. Papildinājuma instalēšana nav atļauta, kamēr ir pilnekrāna režīms vai pirms tas tiek ieslēgts.
+addon-install-full-screen-blocked = Papildinājumu instalēšana nav ļauta, kamēr vai pirms tiek izmantots pilnekrāna skats.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } pievienots { -brand-short-name }
@@ -81,6 +81,8 @@ addon-removal-title = Vai noņemt { $name }?
 addon-removal-message = Vai noņemt { $name } no { -brand-shorter-name }?
 addon-removal-button = Noņemt
 addon-removal-abuse-report-checkbox = Ziņot par šo paplašinājumu { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Ja izmantojat iespējas vai paplašinājumus, kuri izmanto šo modeli, tas tiks pievienots no jauna.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -102,9 +104,9 @@ addon-install-accept-button =
 
 addon-confirm-install-message =
     { $addonCount ->
-        [zero] Lapa vēlas instalēt { $addonCount } papildinājumus { -brand-short-name }:
-        [one] Lapa vēlas instalēt { $addonCount } papildinājumu { -brand-short-name }:
-       *[other] Lapa vēlas instalēt { $addonCount } papildinājumus { -brand-short-name }:
+        [zero] Šī vietne vēlas instalēt { $addonCount } papildinājumu { -brand-short-name }:
+        [one] Šī vietne vēlas instalēt { $addonCount } papildinājumu { -brand-short-name }:
+       *[other] Šī vietne vēlas instalēt { $addonCount } papildinājumus { -brand-short-name }:
     }
 addon-confirm-install-unsigned-message =
     { $addonCount ->
@@ -131,14 +133,18 @@ addon-install-error-corrupt-file = No šīs vietnes lejupielādētu papildināju
 addon-install-error-file-access = { $addonName } nevar uzinstalēt, jo { -brand-short-name } nevar izmainīt nepieciešamo datni.
 addon-install-error-not-signed = { -brand-short-name } liedza vietnei uzinstalēt nepārbaudītu papildinājumu.
 addon-install-error-invalid-domain = Papildinājumu { $addonName } nevar instalēt no šīs vietas.
+addon-install-error-no-addon-name-file-access = Papildinājumu nevarēja instalēt, jo { -brand-short-name } nevar izmainīt nepieciešamo datni.
 addon-local-install-error-network-failure = Šo papildinājumu nevarēja uzinstalēt datņu sistēmas kļūdas dēļ.
 addon-local-install-error-incorrect-hash = Šo papildinājumu nevarēja uzinstalēt, jo tas neatbilst papildinājumam, ko sagaida { -brand-short-name }.
 addon-local-install-error-corrupt-file = Šo papildinājumu nevarēja uzinstalēt, jo tas šķiet bojāts.
 addon-local-install-error-file-access = { $addonName } nevarēja uzinstalēt, jo { -brand-short-name } nevar izmainīt nepieciešamo datni.
 addon-local-install-error-not-signed = Šo papildinājumu nevarēja uzinstalēt, jo tas nav pārbaudīts.
+addon-local-install-no-addon-name-error-file-access = Papildinājumu nevarēja instalēt, jo { -brand-short-name } nevar izmainīt nepieciešamo datni.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } nevarēja uzinstalēt, jo tas nav saderīgs ar { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } pārkāpj Mozilla pamatnostādnes, un to { -brand-short-name } nevar instalēt.
 addon-install-error-blocklisted = { $addonName } nevar uzinstalēt, jo tas rada lielu drošības un stabilitātes risku.
+addon-install-error-soft-blocked = { $addonName } pārkāpj Mozilla pamatnostādnes, un to { -brand-short-name } nevar instalēt.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Kā galalietotājs jūs nevarat instalēt { $addonName }, to var instalēt tikai organizācija, kas izmanto uzņēmuma politikas.
