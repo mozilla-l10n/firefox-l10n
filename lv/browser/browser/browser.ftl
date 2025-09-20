@@ -628,6 +628,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Meklējiet vai ievadiet adresi
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Ievadiet adresi
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -680,6 +684,8 @@ urlbar-go-button =
     .tooltiptext = Iet uz adresi, kas ir atrašanās vietas joslā
 urlbar-page-action-button =
     .tooltiptext = Lapas darbības
+urlbar-revert-button =
+    .tooltiptext = Rādīt adresi atrašanās vietas joslā
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -734,12 +740,88 @@ urlbar-result-action-copy-to-clipboard = Kopēt
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = nav noteikts
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = { $city }, { $region }, { $country }: <strong>{ $temperature }°{ $unit }</strong>
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = { $city }: <strong>{ $temperature }°{ $unit }</strong>
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · apmaksāts
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Rādīt ieteikumus
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Ne tagad
+urlbar-result-realtime-opt-in-dismiss = Noraidīt
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Nerādīt šos ieteikumus
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Nerādīt tirgus ieteikumus
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Paldies par atsauksmi! Vairs neredzēsiet tirgus ieteikumus.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Paldies par atsauksmi! Vairs neredzēsiet šos ieteikumus.
 
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = Meklēt ar { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } — meklēt { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } — meklēt ar { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Izvēlieties meklēšanas dzini
 urlbar-searchmode-bookmarks =
     .label = Grāmatzīmes
 urlbar-searchmode-tabs =
@@ -748,6 +830,12 @@ urlbar-searchmode-history =
     .label = Vēsture
 urlbar-searchmode-actions =
     .label = Darbības
+urlbar-searchmode-exit-button =
+    .tooltiptext = Aizvērt
+urlbar-searchmode-default =
+    .tooltiptext = Noklusējuma meklēšanas dzinis
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Jauns
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -783,6 +871,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = Tendences meklētājā { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Apmaksāts
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Nerādīt tendences meklēšanas vaicājumos
@@ -979,6 +1070,9 @@ panel-save-update-password = Parole
 # "More" item in macOS share menu
 menu-share-more =
     .label = Vairāk…
+menu-share-copy-link =
+    .label = Kopēt saiti
+    .accesskey = K
 ui-tour-info-panel-close =
     .tooltiptext = Aizvērt
 
@@ -989,13 +1083,13 @@ popups-infobar-allow =
     .label = Atļaut uznirstošos logus vietnei { $uriHost }
     .accesskey = u
 popups-infobar-block =
-    .label = Bloķēt uznirstošos logus vietnei { $uriHost }
+    .label = Liegt vietnes { $uriHost } uznirstošos logus
     .accesskey = u
 
 ##
 
 popups-infobar-dont-show-message =
-    .label = Nerādīt šo paziņojumu, ja uznirstošie logi ir bloķēti
+    .label = Nerādīt šo paziņojumu, ja ir liegti uznirstošie logi
     .accesskey = N
 edit-popup-settings =
     .label = Pārvaldīt uznirstošo logu iestatījumus…
@@ -1026,6 +1120,8 @@ navbar-accessible =
     .aria-label = Navigācija
 navbar-downloads =
     .label = Lejupielādes
+navbar-overflow-2 =
+    .tooltiptext = Vairāk rīku
 navbar-overflow =
     .tooltiptext = Vairāk rīku…
 # Variables:
@@ -1052,6 +1148,10 @@ tabs-toolbar-list-all-tabs =
     .label = Visu ciļņu saraksts
     .tooltiptext = Visu ciļņu saraksts
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Nometiet šeit cilni, lai to piespraustu
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1070,12 +1170,18 @@ data-reporting-notification-button =
     .accesskey = d
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privātā pārlūkošana
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Privātā pārlūkošana
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Datu zuduma novēršana (DLP), ko nodrošina { $agentName }. Spiediet, lai uzzinātu vairāk.
 content-analysis-panel-title = Datu aizsardzība
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Tava organizācija izmanto <b>{ $agentName }</b>, lai aizsargātos pret datu zaudēšanu. <a data-l10n-name="info">Uzzināt vairāk</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1100,6 +1206,15 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Paplašinājumi
         Daži paplašinājumi nav atļauti
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = Paplašinājumi
+    .tooltiptext =
+        Paplašinājumi
+        Daži paplašinājumi ir izslēgti
 
 ## Private browsing reset button
 
@@ -1132,7 +1247,7 @@ refresh-blocked-allow =
 firefox-relay-offer-why-to-use-relay = Mūsu drošās, ērti lietojamās maskas aizsargā jūsu identitāti un novērš mēstules, slēpjot jūsu e-pasta adresi.
 # Variables:
 #  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-provides = Visas e-pasta vēstules, kas ir nosūtītas uz jūsu e-pasta maskām, tiks pārsūtītas uz <strong>{ $useremail }</strong> (ja vien neizlemsit tās bloķēt).
+firefox-relay-offer-what-relay-provides = Visas e-pasta vēstules, kas ir nosūtītas uz jūsu e-pasta maskām, tiks pārsūtītas uz <strong>{ $useremail }</strong> (ja vien neizlemsiet tās aizturēt).
 firefox-relay-offer-legal-notice = Noklikšķinot uz “Izmantot e-pasta masku”, jūs piekrītat <label data-l10n-name="tos-url">pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">privātuma paziņojumam </label>.
 
 ## Add-on Pop-up Notifications
@@ -1140,6 +1255,16 @@ firefox-relay-offer-legal-notice = Noklikšķinot uz “Izmantot e-pasta masku�
 popup-notification-addon-install-unsigned =
     .value = (Nepārbaudīts)
 popup-notification-xpinstall-prompt-learn-more = Uzziniet vairāk par papildinājumu drošu instalēšanu
+popup-notification-xpinstall-prompt-block-url = Apskatīt informāciju
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Ļaut paplašinājumam darboties privātos logos
+    .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Kopīgot tehniskos un mijiedarbības datus ar paplašinājuma izstrādātāju
+    .accesskey = K
 
 ## Pop-up warning
 
@@ -1196,3 +1321,15 @@ file-picker-crashed-save-nowhere = Nevarēja atvērt Windows datņu dialoglodzi�
 file-picker-crashed-show-in-folder =
     .label = Rādīt mapē
     .accessKey = m
+
+## Onboarding Finish Setup checklist
+
+onboarding-checklist-button-label = Pabeigt iestatīšanu
+onboarding-aw-finish-setup-button =
+    .label = Pabeigt iestatīšanu
+    .tooltiptext = Pabeigt { -brand-short-name } iestatīšanu
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Uzlabotā aizsardzība pret izsekošanu ir ieslēgta
+trustpanel-etp-label-disabled = Uzlabotā aizsardzība pret izsekošanu ir izslēgta
