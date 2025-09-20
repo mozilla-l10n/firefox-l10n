@@ -114,11 +114,13 @@ fxa-adoption-passwords-primary-button-label = Eñemboheraguapy
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = Ereko teñoiha erohoryvéva tembiaporã rupápe
 taskbar-tabs-chat-callout-title = Echatea ne rembiaporã rupa guive
 taskbar-tabs-email-callout-title = Ereko ne ñanduti veve tembiaporã rupápe
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Ani ehundi opa mba’e eñongatuva’ekue ehasávo Windows 11 ndive.
 windows-10-eos-sync-new-device-title-1 = Aníke eñepyrũ jey tembiapo mba’e’oka oútavape.
 windows-10-eos-sync-new-device-title-2 = ¿Emoambuese ne mba’e’oka? Ani eheja pe emomba’éva.
 windows-10-eos-sync-new-device-primary-label = Embojuehe ko’ág̃a

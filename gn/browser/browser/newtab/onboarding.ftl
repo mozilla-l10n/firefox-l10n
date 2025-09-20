@@ -481,6 +481,7 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Erujey tekorosãrã ñongatuha guive
+restore-from-backup-title = Toiko ko { -brand-short-name }-gui eipotahaichaite
 restore-from-backup-secondary-button = Ani eguerujey
 
 ## Restored from Backup spotlight

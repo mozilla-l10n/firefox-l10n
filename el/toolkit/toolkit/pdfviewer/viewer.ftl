@@ -382,6 +382,7 @@ pdfjs-editor-comments-sidebar-title =
         [one] Σχόλια
        *[other] Σχόλια
     }
+pdfjs-editor-comments-sidebar-no-comments-link = Μάθετε περισσότερα
 
 ## Alt-text dialog
 
@@ -598,6 +599,15 @@ pdfjs-editor-add-signature-cancel-button = Ακύρωση
 pdfjs-editor-add-signature-add-button = Προσθήκη
 pdfjs-editor-edit-signature-update-button = Ενημέρωση
 
+## Comment popup
+
+pdfjs-editor-edit-comment-popup-button-label = Επεξεργασία σχολίου
+pdfjs-editor-edit-comment-popup-button =
+    .title = Επεξεργασία σχολίου
+pdfjs-editor-delete-comment-popup-button-label = Αφαίρεση σχολίου
+pdfjs-editor-delete-comment-popup-button =
+    .title = Αφαίρεση σχολίου
+
 ##  Edit a comment dialog
 
 pdfjs-editor-edit-comment-actions-button-label = Ενέργειες
@@ -612,6 +622,11 @@ pdfjs-editor-edit-comment-manager-text-input =
     .placeholder = Εισαγάγετε το σχόλιό σας
 pdfjs-editor-edit-comment-manager-cancel-button = Ακύρωση
 pdfjs-editor-edit-comment-manager-save-button = Αποθήκευση
+# An existing comment is edited
+pdfjs-editor-edit-comment-dialog-title-when-editing = Επεξεργασία σχολίου
+# No existing comment
+pdfjs-editor-edit-comment-dialog-title-when-adding = Προσθήκη σχολίου
+pdfjs-editor-edit-comment-dialog-cancel-button = Ακύρωση
 
 ## Edit a comment button in the editor toolbar
 
