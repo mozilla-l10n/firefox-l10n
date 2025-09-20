@@ -407,3 +407,5 @@ etp-strict-exceptions-infobar-message = <strong>Prísna ochrana pred sledovaním
 etp-strict-exceptions-infobar-learn-more = Ďalšie informácie
 etp-strict-exceptions-infobar-button = Použiť opravy
     .accesskey = o
+etp-strict-exceptions-infobar-not-now = Teraz nie
+    .accesskey = T

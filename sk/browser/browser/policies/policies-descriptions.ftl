@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Povolí zastarané pre
 ##
 
 policy-LocalFileLinks = Povolí určitým webovým stránkam odkazovať na súbory uložené na pevnom disku.
+policy-LocalNetworkAccess = Povolí alebo zakáže kontroly prístupu k lokálnej sieti.
 policy-ManagedBookmarks = Konfiguruje zoznam záložiek spravovaný správcom, ktoré používateľ nemôže zmeniť.
 policy-ManualAppUpdateOnly = Povolí iba manuálne aktualizácie a neinformuje používateľa o aktualizáciách.
 policy-PrimaryPassword = Vyžadovanie alebo zabránenie používania hlavného hesla.
@@ -141,6 +142,7 @@ policy-SupportMenu = Pridá vlastnú položku do ponuky pomocníka.
 policy-TranslateEnabled = Povolí alebo zakáže preklad webových stránok.
 policy-UserMessaging = Používateľovi sa nebudú zobrazovať určité oznámenia.
 policy-UseSystemPrintDialog = Tlač pomocou systémového dialógového okna tlače.
+policy-VisualSearchEnabled = Povolí alebo zakáže vizuálne vyhľadávanie.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Zablokuje prístup na určité webové stránky. Ďalšie informácie o formáte nájdete v dokumentácii.
 policy-Windows10SSO = Povolí jednotné prihlásenie systému Windows pre konto Microsoft a pracovné a školské účty.

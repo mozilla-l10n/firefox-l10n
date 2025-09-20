@@ -112,6 +112,13 @@ fxa-adoption-passwords-subtitle = Chráňte svoje heslá synchronizáciou so zar
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Zaregistrovať sa
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Uložte si svoje obľúbené kanály na paneli úloh
+taskbar-tabs-social-callout-subtitle = Spúšťajte svoje sociálne siete ako aplikáciu v zjednodušenom okne chránenom prehliadačom { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Chat z panela úloh
+taskbar-tabs-chat-callout-subtitle = Spúšťajte svoje chatovacie stránky ako aplikáciu v zjednodušenom okne chránenom prehliadačom { -brand-short-name }.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Nestraťte všetko, čo ste si uložili, keď prejdete na Windows 11.

@@ -34,3 +34,17 @@ taskbar-tab-audio-mute =
     .tooltiptext = Stlmiť zvuk na karte
 taskbar-tab-audio-unmute =
     .tooltiptext = Zapnúť zvuk na karte
+
+## These are used as part of the window title, possibly after the content's
+## title.
+##
+## Variables:
+##  $name (String): The name of the installed web app.
+##  $container (String): The name of the user's container (e.g. 'Work',
+##  'Personal').
+##  $profile (String): The name of the user's current profile.
+
+taskbar-tab-title-default = { $name } vo { -brand-full-name(case: "loc") }
+taskbar-tab-title-container = { $name } ({ $container }) vo { -brand-full-name(case: "loc") }
+taskbar-tab-title-profile = { $name } v profile { $profile } — { -brand-full-name }
+taskbar-tab-title-container-profile = { $name } ({ $container }) v profile { $profile } — { -brand-full-name }
