@@ -72,6 +72,7 @@ login-list-filtered-count2 =
         [one] { $count } ز { $total } رزم
        *[other] { $count } ز { $total } رزم
     }
+login-list-sort-label-text = ترتیب و ری:
 login-list-name-option = نوم (A-Z)
 login-list-name-reverse-option = نوم (Z-A)
 login-list-username-option = نوم منتوری (A-Z)
@@ -81,6 +82,9 @@ login-list-last-changed-option = آلشتکاری دیندایی
 login-list-last-used-option = و کار گرؽڌن دیندایی
 login-list-intro-title = هیچ دووسمندی و من ٱووڌنی نجۊرست
 login-list-intro-title2 = هیچ رزمی زفت نوابیڌه
+login-list-intro-description = هرسا ک رزمی ن من { -brand-product-name } زفت اکۊنین، هونووݩ ن ایچونا ابینین.
+about-logins-login-list-empty-search-title = هیچ دووسمندی و من ٱووڌنی نجۊرست
+about-logins-login-list-empty-search-title2 = هیچ رزمی نجۊرست
 about-logins-list-section-nothing = بؽ هوشدار
 about-logins-list-section-today = ٱمرۊز
 about-logins-list-section-yesterday = دۊش
@@ -142,13 +146,23 @@ about-logins-confirm-remove-dialog-title = پاک کردن ای و من ٱووڌ
 confirm-delete-dialog-message = ای کار وورگندنی نؽ.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = رزم پاک بۊ؟
+about-logins-confirm-remove-dialog-confirm-button = پاک کردن
 
 ##
 
 about-logins-confirm-export-dialog-confirm-button = و در کشیڌن…
+confirm-discard-changes-dialog-confirm-button = دیر وندن
+
+## Breach Alert notification
+
+about-logins-breach-alert-title = رخنه من وبگه
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = راو و { $hostname }
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = رزم آسیب پزیر
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = راو و { $hostname }
