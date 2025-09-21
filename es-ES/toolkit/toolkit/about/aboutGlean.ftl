@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Prueba manual
 about-glean-category-adhoc-testing = Prueba ad hoc
 about-glean-category-profiler = Usando el perfilador
 about-glean-category-about-data = Acerca de los datos
+about-glean-category-metrics-table = Tabla de métricas
 about-glean-upload-enabled = La carga de datos está activada.
 about-glean-upload-disabled = La carga de datos está desactivada.
 about-glean-upload-enabled-local = La carga de datos está activada solo para enviar a un servidor local.
@@ -138,6 +139,7 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Para registrar un perfil de rendimiento y ver todas las métricas registradas, utilice
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Todas las métricas
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Categoría
 # This message refers to the name of a given metric.
@@ -148,6 +150,24 @@ about-glean-metrics-table-header-type = Tipo
 about-glean-metrics-table-header-value = Valor
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Acciones
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtro
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Esto filtrará la tabla a continuación según categoría, nombre, tipo y valor (si el valor es un tipo simple).
+about-glean-button-load-all = Cargar todos los valores
+about-glean-button-load-value = Cargar
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Documentos
+about-glean-button-watch = Observar
+# Meaning "to stop watching"
+about-glean-button-unwatch = Dejar de observar
+about-glean-no-data-to-display = No hay datos para mostrar.
+about-glean-unknown-metric-type-warning = Tipo de métrica desconocido.
 about-glean-about-data-explanation =
     Para navegar por la lista de datos recopilados, consulte el
     <a data-l10n-name="glean-dictionary-link">diccionario { -glean-brand-name }</a>.

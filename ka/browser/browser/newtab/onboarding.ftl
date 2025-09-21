@@ -484,3 +484,13 @@ restore-from-backup-secondary-top-button = აღდგენა მარქა
 restore-from-backup-title = დაიბრუნეთ { -brand-short-name } ისეთი, როგორიც მოგწონდათ.
 restore-from-backup-subtitle = აღადგინეთ თქვენი სანიშნები, ისტორია და სხვა მონაცემები, რომ დაუბრუნდეთ გვერდების მონახულებას.
 restore-from-backup-secondary-button = აღდგენის გარეშე
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = დავბრუნდით! { -brand-short-name } აღდგენილია თქვენი მონაცემებით.
+restored-from-backup-success-with-checklist-primary-button = შეინახეთ და განაგრძეთ
+restored-from-backup-success-with-checklist-secondary-button = ამ ნაბიჯის გამოტოვება
+restored-from-backup-success-no-checklist-primary-button = განაგრძეთ
+restored-from-backup-error-title = ჰმ, ხარვეზი წარმოიქმნა სამარქაფო ფაილთან დაკავშირებით.
+restored-from-backup-error-subtitle = თუ სხვა ფაილშიც გაქვთ { -brand-short-name } დამარქაფებული, მოსინჯეთ მაგ ფაილიდან აღდგენა. <a data-l10n-name="restore-problems">კვლავ ხარვეზებია?</a>
+restored-from-backup-error-primary-button = დახურვა

@@ -29,6 +29,7 @@ about-logging-no-log-modules = Ninguno
 about-logging-no-log-file = Ninguno
 about-logging-logging-preset-selector-text = Registro preestablecido:
 about-logging-with-profiler-stacks-checkbox = Activar análisis de la pila para mensajes de registro
+about-logging-with-javascript-tracing-checkbox = Activar rastreo de JavaScript
 about-logging-menu =
     .title = Opciones avanzadas
 
@@ -52,6 +53,7 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Módulos de registro para diagnosticar problemas con los decodificadores y codificadores de audio/vídeo de WebCodecs y los decodificadores de imágenes
 about-logging-preset-ml-label = Machine Learning
 about-logging-preset-ml-description = Módulos de registro para diagnosticar problemas de machine learning
+about-logging-preset-web-compat-label = Compatibilidad web
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Módulos de registro para diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Gráficos
@@ -99,3 +101,14 @@ about-logging-upload-error = Ha ocurrido un error al subir el perfil: { $errorTe
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Ha ocurrido un error al guardar el archivo: { $errorText }
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = Eliminar
+about-logging-view-uploaded-profile = Ver perfil
+about-logging-delete-profile-confirm-title = Eliminar perfil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = ¿Seguro que quiere eliminar el perfil "{ $profileName }"? Esta acción no se puede deshacer.
+about-logging-deleting-profile = Eliminando…
