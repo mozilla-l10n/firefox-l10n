@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = მხოლოდ-HTTPS-რეჟიმი შეგიძლიათ გამორთოთ ცალკეულ საიტებზე. { -brand-short-name } აღარ შეეცდება კავშირის გადაყვანას დაცულ HTTPS-ზე ამ საიტებისთვის. გამონაკლისები არ შეეხება პირად ფანჯრებს.
 permissions-exceptions-https-only-desc2 = მხოლოდ HTTPS რეჟიმი შეგიძლიათ გამორთოთ ცალკეულ საიტებზე. { -brand-short-name } აღარ შეეცდება კავშირის გადაყვანას დაცულ HTTPS-ზე ამ საიტებისთვის.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = ნებადართული ვებსაიტები – ამომხტომები და გარეშე მხარის მიერ გადამისამართებები
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = შეგიძლიათ მიუთითოთ საიტები, რომელთაც ყოველთვის შეეძლება ამომხტომი ფანჯრების ჩვენება და გარეშე მხარის მიერ გადამისამართების გაყოლა.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
