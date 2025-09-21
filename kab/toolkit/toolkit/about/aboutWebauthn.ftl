@@ -7,7 +7,7 @@
 
 # Page title
 # 'WebAuthn' is a protocol name and should not be translated
-about-webauthn-page-title = Γef WebAuthn
+about-webauthn-page-title = Ɣef WebAuthn
 
 ## Section titles
 

@@ -19,6 +19,8 @@ experimental-features-group-developer-tools =
     .label = Ifecka n tneflit
 experimental-features-group-customize-browsing =
     .label = Sagen tunigin-ik
+experimental-features-group-productivity =
+    .label = Tiffurest
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Tiskanin n useɣwen

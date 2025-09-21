@@ -9,3 +9,7 @@
 existing-user-tou-learn-more = Issin ugar
 # Text for primary button
 existing-user-tou-accept = Qbel
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Smekti-y-id ticki
