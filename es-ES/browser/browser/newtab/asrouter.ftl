@@ -68,6 +68,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronizando marcadores...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Cerrar botón
     .title = Cerrar
+fxa-adoption-addresses-backup-title = Hagamos una copia de seguridad de las direcciones guardadas
+fxa-adoption-addresses-backup-subtitle = Proteja sus direcciones guardadas sincronizándolas a sus dispositivos usando cifrado.
+fxa-adoption-credit-cards-backup-title = Hagamos una copia de seguridad de los métodos de pago
+fxa-adoption-credit-cards-backup-subtitle = Proteja sus métodos de pago sincronizándolos a sus dispositivos usando cifrado.
 fxa-adoption-primary-button-label = Registrarse
 
 ## Protections panel
@@ -315,6 +319,7 @@ fxa-menu-message-sign-in-button = Iniciar sesión
 fxa-menu-message-sync-button = Empezar a sincronizar
 fxa-menu-message-sync-devices-primary-text = Sincronizar todos sus dispositivos
 fxa-menu-message-sync-devices-secondary-text = Consiga su información instantáneamente — como marcadores y contraseñas — en cualquier lugar que se use { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Acceda a sus marcadores, contraseñas, historial y más instantáneamente en cualquier lugar donde inicie sesión en { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronizar todos sus dispositivos
 fxa-menu-message-backup-data-primary-text = Realiza una copia de seguridad de los datos de su navegador
 fxa-menu-message-backup-data-secondary-text = Protección automática de marcadores, contraseñas y otra información en todos sus dispositivos.
@@ -345,6 +350,11 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Mantenga su navegador favorito centrado en la privacidad a un solo clic de distancia. Configure { -brand-short-name } como su navegador predeterminado para abrir enlaces y fíjelo a su barra de tareas.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantenga su navegador favorito centrado en la privacidad a un solo clic de distancia. Configure { -brand-short-name } como su navegador predeterminado para abrir enlaces y fíjelo a su barra de tareas y menú Inicio.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = ¿Actualizará desde Windows 10 pronto?
+windows-10-eos-sync-spotlight-subtitle = Haga una copia de seguridad de las contraseñas y marcadores para estar listo para dar el salto a cualquier dispositivo.
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 

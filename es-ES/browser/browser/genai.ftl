@@ -237,3 +237,31 @@ link-preview-generation-retry = Reintentar
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Ajustes de previsualización de enlace
+link-preview-settings-enable =
+    .label = Activar vista previa de enlaces
+    .description = Vea el título de la página, descripción y más cuando use el acceso directo o haga clic con el botón derecho sobre un enlace.
+link-preview-settings-key-points =
+    .label = Permitir que el motor de IA lea el comienzo de la página y genere puntos clave
+link-preview-settings-long-press =
+    .label = Atajo. Haga clic en el enlace durante 1 segundo (mantenga presionado el botón)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = ¿Ver más con IA?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } utiliza IA para leer el comienzo de la página y generar puntos clave. Para proteger su privacidad, todo esto se lleva a cabo en su dispositivo.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nuevo: Mantenga presionado el enlace para obtener una vista previa
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Obtenga una breve descripción, conozca cuánto tiempo le tomará leer la página y más información para decidir si vale la pena abrir el enlace. Esta opción también está disponible si hace clic derecho en el enlace.
+# Header for the key points section
+link-preview-key-points-header = Puntos clave
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Los puntos clave se generan con IA y podrían contener errores.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Configuración inicial • <strong>{ $progress } %</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = La próxima vez, la generación de puntos clave será más rápida.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Ver una vista previa
+# Onboarding card Close button
+link-preview-onboarding-close = Cerrar
