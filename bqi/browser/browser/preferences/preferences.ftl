@@ -74,6 +74,9 @@ permissions-location-settings =
 permissions-localhost-settings =
     .label = سامووا…
     .accesskey = t
+permissions-local-network-settings =
+    .label = سامووا…
+    .accesskey = t
 permissions-xr-settings =
     .label = سامووا…
     .accesskey = t
@@ -106,6 +109,12 @@ addon-recommendations-link = قلوه دووسته بۊین
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-enable-safe-browsing-link = قلوه دووسته بۊین
+
+## Privacy Section - Certificates
+
+space-alert-over-5gb-settings-button =
+    .label = گۊشیڌن سامووا
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 

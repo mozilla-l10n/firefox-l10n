@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Labels for sidebar customize panel
+
+sidebar-customize-firefox-settings = دؽوۉداری { -brand-short-name } سامووا
+sidebar-settings =
+    .label = سامووا نوار کلی
+
 ## Labels for sidebar context menu items
 
 sidebar-context-menu-copy-link =
