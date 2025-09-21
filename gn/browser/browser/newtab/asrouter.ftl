@@ -368,6 +368,7 @@ windows-10-eos-challenger-pin-primary-button = Papyñemi { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-info-button = Ehecha pe jejokopyre
 windows-10-eos-callout-addons-title = Eiporu moĩmbaha: hekopyahúva, iporã añetéva
 windows-10-eos-callout-addons-primary-button = Ehecha ore poravopyre
+windows-10-eos-sync-callout-addons-title = Ani okañy ne moĩmbahaha embohekopyahúvo Windows 10 guive.
 windows-10-eos-sync-callout-next-button = Upeigua
 windows-10-eos-sync-callout-get-started-button = Eñepyrũ
 
