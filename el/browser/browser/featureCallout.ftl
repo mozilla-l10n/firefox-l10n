@@ -112,6 +112,10 @@ fxa-adoption-passwords-subtitle = Προστατέψτε τους κωδικού
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Εγγραφή
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-value-prop-callout-title = Προσθήκη αυτού του ιστοτόπου στη γραμμή εργασιών
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Μην χάσετε ό,τι έχετε αποθηκεύσει κατά τη μεταφορά στα Windows 11.

@@ -403,3 +403,5 @@ etp-strict-exceptions-infobar-message = <strong>Η αυστηρή προστασ
 etp-strict-exceptions-infobar-learn-more = Μάθετε περισσότερα
 etp-strict-exceptions-infobar-button = Εφαρμογή διορθώσεων
     .accesskey = Ε
+etp-strict-exceptions-infobar-not-now = Όχι τώρα
+    .accesskey = Ν

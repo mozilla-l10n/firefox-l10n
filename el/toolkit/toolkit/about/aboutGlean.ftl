@@ -167,6 +167,7 @@ about-glean-button-dictionary-link = Έγγραφα
 about-glean-button-watch = Παρακολούθηση
 # Meaning "to stop watching"
 about-glean-button-unwatch = Διακοπή παρακολούθησης
+about-glean-no-data-to-display = Δεν υπάρχουν δεδομένα προς εμφάνιση.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Οι μετρήσεις με ετικέτα δεν υποστηρίζονται ακόμα στην προβολή <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Άγνωστος τύπος μέτρησης.

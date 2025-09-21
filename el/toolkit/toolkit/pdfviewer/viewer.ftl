@@ -382,6 +382,12 @@ pdfjs-editor-comments-sidebar-title =
         [one] Σχόλια
        *[other] Σχόλια
     }
+pdfjs-editor-comments-sidebar-close-button =
+    .title = Κλείσιμο πλευρικής στήλης
+    .aria-label = Κλείσιμο πλευρικής στήλης
+pdfjs-editor-comments-sidebar-close-button-label = Κλείσιμο πλευρικής στήλης
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Βλέπετε κάτι αξιοσημείωτο; Επισημάνετε το και αφήστε ένα σχόλιο.
 pdfjs-editor-comments-sidebar-no-comments-link = Μάθετε περισσότερα
 
 ## Alt-text dialog
@@ -626,6 +632,8 @@ pdfjs-editor-edit-comment-manager-save-button = Αποθήκευση
 pdfjs-editor-edit-comment-dialog-title-when-editing = Επεξεργασία σχολίου
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = Προσθήκη σχολίου
+pdfjs-editor-edit-comment-dialog-text-input =
+    .placeholder = Ξεκινήστε να πληκτρολογείτε…
 pdfjs-editor-edit-comment-dialog-cancel-button = Ακύρωση
 pdfjs-editor-edit-comment-dialog-save-button = Αποθήκευση
 

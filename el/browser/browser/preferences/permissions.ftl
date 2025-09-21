@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Μπορείτε να απενεργοποιήσετε τη λειτουργία «Μόνο HTTPS» για συγκεκριμένες ιστοτόπους. Το { -brand-short-name } δεν θα επιχειρήσει να κάνει αναβάθμιση σε ασφαλή σύνδεση HTTPS στους ιστοτόπους αυτούς. Οι εξαιρέσεις δεν ισχύουν για ιδιωτικά παράθυρα.
 permissions-exceptions-https-only-desc2 = Μπορείτε να απενεργοποιήσετε τη λειτουργία «Μόνο HTTPS» για συγκεκριμένους ιστοτόπους. Το { -brand-short-name } δεν θα επιχειρήσει να κάνει αναβάθμιση σε ασφαλή σύνδεση HTTPS σε αυτούς τους ιστοτόπους.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Επιτρεπόμενες ιστοσελίδες - Αναδυόμενα παράθυρα και ανακατευθύνσεις τρίτων
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
