@@ -15,6 +15,8 @@ about-logging-set-log-file = Ezarri erregistro-fitxategia
 about-logging-set-log-modules = Ezarri erregistro-moduluak:
 about-logging-start-logging = Hasi erregistratzen
 about-logging-stop-logging = Gelditu erregistratzen
+about-logging-copy-as-url = Kopiatu uneko ezarpenak URL gisa
+about-logging-url-copied = Erregistroaren ezarpenak arbelean kopiatu dira aurrezarpen URL gisa
 about-logging-buttons-disabled = Erregistroa ingurune-aldagaien bidez konfiguratuta, konfigurazio dinamikoa ez dago erabilgarri.
 about-logging-some-elements-disabled = Erregistroa URL bidez konfiguratuta, zenbait konfigurazio-aukera ez daude erabilgarri
 about-logging-info = Info:
@@ -27,6 +29,7 @@ about-logging-no-log-modules = Bat ere ez
 about-logging-no-log-file = Bat ere ez
 about-logging-logging-preset-selector-text = Erregistroaren aurrezarpena:
 about-logging-with-profiler-stacks-checkbox = Gaitu pilen trazak erregistro-mezuentzat
+about-logging-with-javascript-tracing-checkbox = Gaitu JavaScript-en aztarna uztea
 about-logging-menu =
     .title = Aukera aurreratuak
 
