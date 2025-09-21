@@ -1495,6 +1495,7 @@ trustpanel-blocked-header = { -brand-product-name } ojoko ko’ã mba’e ndéve
 trustpanel-tracking-header = { -brand-product-name } omoneĩ ko’ã mba’e tendakuéra oikoite hag̃ua:
 trustpanel-tracking-description = Tapykueho’ỹre, heta votõ, myanyhẽha ha jeikeha renda ikatu ndoikoporãi.
 trustpanel-insecure-section-header = Nde jeike nahekorosãihína
+trustpanel-insecure-description = Umi mba’ekuaarã emondóva ko tendápe ndaipapapýi. Ikatu ojehecha, oñemonda térã oñemoambue.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } Kookie rapykuehoha tenda pa’ũgua
