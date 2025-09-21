@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Прыватнае агляданне
+popups-infobar-dont-show-message2 =
+    .label = Не паказваць гэтае паведамленне, калі блакуюцца выплыўныя вокны або староннія перанакіраванні
+    .accesskey = в
+edit-popup-settings2 =
+    .label = Кіраваць наладамі выплыўных акон і перанакіравання на староннія сайты
+    .accesskey = ь
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Вы заблакавалі гэтаму сайту магчымасць бачыць ваш экран.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Вы заблакавалі захоўванне звестак для гэтага сайта.
+urlbar-popup-blocked2 =
+    .tooltiptext = Вы заблакавалі выплыўныя вокны і староннія перанакіраванні для гэтага сайта.
 urlbar-popup-blocked =
     .tooltiptext = Вы заблакавалі выплыўныя вокны для гэтага сайта.
 urlbar-autoplay-media-blocked =
@@ -1180,6 +1188,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Блакаваць выплыўныя вокны з { $uriHost }
     .accesskey = Д
+popups-infobar-allow2 =
+    .label = Дазволіць выплыўныя вокны і перанакіраванні на староннія сайты для { $uriHost }
+    .accesskey = з
 
 ##
 
