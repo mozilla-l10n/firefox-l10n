@@ -1373,6 +1373,15 @@ popup-warning-message =
         [one] { -brand-short-name } ndohejái ko tenda oipe’a peteĩ ovetã apysẽ.
        *[other] { -brand-short-name } ndohejái ko tenda oipe’a { $popupCount } ovetã apysẽ.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } ndohejái ko tenda toñemoĩporãjey.
+        [1] { -brand-short-name } omboyke ko tenda ombojurujávo peteĩ ovetã iñapysẽva ha ombohapejeýta.
+        [one] { -brand-short-name } omboyke ko tenda ombojurujávo { $popupCount } ovetã iñapysẽva ha ombohapejeýta.
+       *[other] { -brand-short-name } omboyke ko tenda ombojurujávo { $popupCount } ovetã iñapysẽva ha ombohapejeýta.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
