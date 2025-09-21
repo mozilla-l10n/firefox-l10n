@@ -117,6 +117,9 @@ fxa-adoption-passwords-primary-button-label = Eñemboheraguapy
 taskbar-tabs-social-callout-title = Ereko teñoiha erohoryvéva tembiaporã rupápe
 taskbar-tabs-chat-callout-title = Echatea ne rembiaporã rupa guive
 taskbar-tabs-email-callout-title = Ereko ne ñanduti veve tembiaporã rupápe
+taskbar-tabs-media-callout-title = Mba’ekuaarãita ko tendápe mondopyre ndaipapapýi. Ikatu ojehecha, oñemonda térã oñembyai.
+taskbar-tabs-value-prop-callout-title = Embojuaju tenda ne rembiaporãre
+taskbar-tabs-value-prop-callout-subtitle = Eiporúke ne rovetã teetépe ha jehechaha momichĩmbyréva peteĩ jekutúpe.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -125,6 +128,7 @@ windows-10-eos-sync-new-device-title-1 = Aníke eñepyrũ jey tembiapo mba’e�
 windows-10-eos-sync-new-device-title-2 = ¿Emoambuese ne mba’e’oka? Ani eheja pe emomba’éva.
 windows-10-eos-sync-new-device-primary-label = Embojuehe ko’ág̃a
 windows-10-eos-sync-general-title-1 = Emo’ã pe { -brand-short-name } eñemoba’ehague.
+windows-10-eos-sync-general-title-2 = Ko’ag̃aite eñongatu jey ne ñe’ẽñemi ha techaukahakuéra.
 windows-10-eos-sync-tour-title-1 = ¿Heta tendayke? Emohenda tendayke aty ndive.
 windows-10-eos-sync-tour-title-2 = Emohenda Windows 11-pe g̃uarã.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
