@@ -164,6 +164,8 @@ about-logins-confirm-remove-dialog-confirm-button = پاک کردن
 about-logins-confirm-export-dialog-confirm-button = و در کشیڌن…
 about-logins-alert-import-title = و من ٱووردن دووسمندیا کامل وابی
 about-logins-alert-import-message = نشووݩ داڌن جۊزعیات و من ٱووردن دووسمندیا
+confirm-discard-changes-dialog-title = آلشتکاریا زفت نوابیڌه نیڌه گرؽڌه بۊن؟
+confirm-discard-changes-dialog-message = پوی آلشتکاریا زفت نوابیڌه ز بین ارون.
 confirm-discard-changes-dialog-confirm-button = دیر وندن
 
 ## Breach Alert notification
