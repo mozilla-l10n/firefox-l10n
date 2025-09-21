@@ -117,8 +117,11 @@ fxa-adoption-passwords-primary-button-label = Eñemboheraguapy
 taskbar-tabs-social-callout-title = Ereko teñoiha erohoryvéva tembiaporã rupápe
 taskbar-tabs-social-callout-subtitle = Embojuruja ava ñandutieta peteĩ tembiporu’íramo ovetã oikóvape omo’ãva { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Echatea ne rembiaporã rupa guive
+taskbar-tabs-chat-callout-subtitle = Embojuruja tenda echateaha peteĩ tembiporu’íramo ovetã oikóvape omo’ãva { -brand-short-name }.
 taskbar-tabs-email-callout-title = Ereko ne ñanduti veve tembiaporã rupápe
+taskbar-tabs-email-callout-subtitle = Embojuruja ne ñanduti veve peteĩ tembiporu’íramo ovetã oikóvape omo’ãva { -brand-short-name }.
 taskbar-tabs-media-callout-title = Mba’ekuaarãita ko tendápe mondopyre ndaipapapýi. Ikatu ojehecha, oñemonda térã oñembyai.
+taskbar-tabs-media-callout-subtitle = Embojuruja ne streaming renda peteĩ tembiporu’íramo ovetã oikóvape omo’ãva { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Embojuaju tenda ne rembiaporãre
 taskbar-tabs-value-prop-callout-subtitle = Eiporúke ne rovetã teetépe ha jehechaha momichĩmbyréva peteĩ jekutúpe.
 
@@ -126,7 +129,9 @@ taskbar-tabs-value-prop-callout-subtitle = Eiporúke ne rovetã teetépe ha jehe
 
 windows-10-eos-sync-urgency-title-1 = Ani ehundi opa mba’e eñongatuva’ekue ehasávo Windows 11 ndive.
 windows-10-eos-sync-urgency-subtitle-1 = Embojoaju ereko hag̃ua { -brand-short-name } rechaukaha, ñe’ẽñemi ha ñemboheko hekorosã ha hasy’ỹva iguerujey.
+windows-10-eos-sync-urgency-title-2 = ¿Erévo ehejataha Windows 10? Emo’ã ne mba’ekuaarã emoambuekuévo.
 windows-10-eos-sync-new-device-title-1 = Aníke eñepyrũ jey tembiapo mba’e’oka oútavape.
+windows-10-eos-sync-new-device-subtitle-1 = Embojoaju egueraha hag̃ua { -brand-short-name } rechaukaha, ñe’ẽñemi ha ñemboheko emoambuekuévo ne mba’e’oka.
 windows-10-eos-sync-new-device-title-2 = ¿Emoambuese ne mba’e’oka? Ani eheja pe emomba’éva.
 windows-10-eos-sync-new-device-primary-label = Embojuehe ko’ág̃a
 windows-10-eos-sync-general-title-1 = Emo’ã pe { -brand-short-name } eñemoba’ehague.
