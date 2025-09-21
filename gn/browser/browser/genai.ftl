@@ -239,6 +239,8 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Embojuruja juajuha hecha ypy
     .description = Eikutu ápe emboguejy hag̃ua kuatiarogue reratee, hape ha hetave eiporúvo jeike pya’eha térã eikutu akatúa gotyo juajuhápe.
+link-preview-settings-long-press =
+    .label = Mbopya’eha: Eikutu ha ejopy juajuha ári peteĩ aravo’ive aja (ejopy are).
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Ehechave IA ndive?
 # Onboarding card title for long press
