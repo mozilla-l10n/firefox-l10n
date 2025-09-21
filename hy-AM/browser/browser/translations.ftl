@@ -88,7 +88,7 @@ translations-panel-error-unsupported-hint-unknown = Ներողություն, մ
 ## translate them as `Source language:` and `Target language:`
 
 translations-panel-from-label = Թարգմանել հետևյալից
-translations-panel-to-label = Թարգմանել հետևյալով
+translations-panel-to-label = Թարգմանել հետևյալի՝
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
