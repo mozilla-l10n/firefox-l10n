@@ -50,5 +50,27 @@ urlbar-searchmode-history =
     .label = ویرگار
 urlbar-searchmode-exit-button =
     .tooltiptext = بستن
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = سامووا پیتینیڌن
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
 urlbar-searchmode-new = نۊ
+
+## Customize Toolbar Buttons
+
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = سامووا
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] گۊشیڌن سامووا ({ $shortcut })
+           *[other] گۊشیڌن سامووا
+        }
+
+## EME notification panel
+
+eme-notifications-drm-content-playing-manage = دؽوۉداری سامووا
+
+## The urlbar trust panel
+
+trustpanel-privacy-link = سامووا هریم سیخومی

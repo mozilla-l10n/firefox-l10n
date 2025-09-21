@@ -5,6 +5,7 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-settings = سامووا
 contextual-manager-passwords-import-success-button = ٱنجوم وابی
 contextual-manager-passwords-import-error-button-cancel = لقو
 contextual-manager-passwords-export-success-button = ٱنجوم وابی

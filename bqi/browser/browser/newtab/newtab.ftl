@@ -6,6 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = بلگه نۊ
+newtab-settings-dialog-label =
+    .aria-label = سامووا
 
 ## Top Sites - Delete history confirmation dialog.
 
@@ -15,10 +17,15 @@ newtab-confirm-delete-history-p2 = ای کار وورگندنی نؽ.
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ٱنجوم وابی
+newtab-privacy-modal-button-manage = دؽوۉداری سامووا موئتوا هؽزگر
 
 ## Pocket Content Section.
 
 newtab-pocket-learn-more = قلوه دووسته بۊین
+
+## Customization Menu
+
+newtab-custom-settings = دؽوۉداری سامووا قلوه
 
 ## New Tab Weather
 

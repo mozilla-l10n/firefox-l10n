@@ -40,6 +40,8 @@ update-restarting = ر وندن دووارته…
 
 ##
 
+aboutdialog-help-user = { -brand-product-name } هیاری
+aboutdialog-submit-feedback = سبت منشڌ
 bottomLinks-license = دووسمندیا موجوز
 bottom-links-terms = شرتا و کار گرؽڌن
 bottom-links-privacy = نوکات زفت مهرموویی

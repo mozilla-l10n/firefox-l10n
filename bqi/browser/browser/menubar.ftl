@@ -11,3 +11,13 @@ menu-file-new-tab =
 menu-file-print =
     .label = چاپ
     .accesskey = P
+
+## Tools Menu
+
+menu-settings =
+    .label = سامووا
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
