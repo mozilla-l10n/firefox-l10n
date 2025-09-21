@@ -169,6 +169,7 @@ about-glean-button-dictionary-link = ცნობარი
 about-glean-button-watch = მიდევნება
 # Meaning "to stop watching"
 about-glean-button-unwatch = მიტოვება
+about-glean-no-data-to-display = საჩვენებელი მონაცემები არაა.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = მონიშნული აზომვები ჯერ არაა მხარდაჭერილი და ვერ გამოაჩენს <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = აზომვის უცნობი სახეობა.

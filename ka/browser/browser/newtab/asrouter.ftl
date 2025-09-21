@@ -404,3 +404,5 @@ etp-strict-exceptions-infobar-message = <strong>თვალთვალის�
 etp-strict-exceptions-infobar-learn-more = ვრცლად
 etp-strict-exceptions-infobar-button = გამოსწორება
     .accesskey = წ
+etp-strict-exceptions-infobar-not-now = ახლა არა
+    .accesskey = რ

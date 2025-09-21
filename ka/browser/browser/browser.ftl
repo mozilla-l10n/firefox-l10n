@@ -120,6 +120,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = პირადი თვალიერება
+popups-infobar-dont-show-message2 =
+    .label = არ გამოჩნდეს ეს ცნობა, როცა ამომხტომები ან გარეშე მხარის მიერ გადამისამართება შეზღუდულია
+    .accesskey = რ
 
 ##
 
