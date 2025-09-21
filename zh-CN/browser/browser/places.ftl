@@ -62,10 +62,10 @@ places-history =
 places-bookmarks-search =
     .placeholder = 搜索书签
 places-delete-domain-data =
-    .label = 抹去此网站相关信息
+    .label = 抹去此网站相关数据
     .accesskey = F
 places-forget-domain-data =
-    .label = 抹去此网站相关信息…
+    .label = 抹去此网站相关数据…
     .accesskey = F
 places-sortby-name =
     .label = 按名称排序
@@ -134,11 +134,11 @@ places-untag-bookmark =
 places-manage-bookmarks =
     .label = 管理书签
     .accesskey = M
-places-forget-about-this-site-confirmation-title = 抹去此网站相关信息
+places-forget-about-this-site-confirmation-title = 抹去此网站相关数据
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-msg = 此操作将移除与 { $hostOrBaseDomain } 相关的数据，包括历史记录、Cookie、缓存和内容首选项。书签和密码将会保留。您确定要继续吗？
-places-forget-about-this-site-forget = 清除
+places-forget-about-this-site-forget = 抹去
 places-library3 =
     .title = 我的足迹
 places-organize-button =

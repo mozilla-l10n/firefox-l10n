@@ -30,7 +30,7 @@ fxviewtabrow-just-now-timestamp = 刚刚
 
 fxviewtabrow-delete = 删除
     .accesskey = D
-fxviewtabrow-forget-about-this-site = 忘记此网站…
+fxviewtabrow-forget-about-this-site = 抹去此网站相关数据…
     .accesskey = F
 fxviewtabrow-open-in-window = 新建窗口打开
     .accesskey = N

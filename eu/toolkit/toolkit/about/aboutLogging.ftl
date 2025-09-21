@@ -49,6 +49,12 @@ about-logging-preset-media-playback-label = Multimedia erreproduzitzea
 about-logging-preset-media-playback-description = Multimediaren erreprodukzio-arazoak (ez bideo-deien arazoak) diagnostikatzeko erregistro-moduluak
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = WebRTC deiak diagnostikatzeko erregistro-moduluak
+about-logging-preset-webcodecs-label = WebCodecs
+about-logging-preset-webcodecs-description = WebCodecs audio/bideo deskodetzaile eta kodetzaileen arazoak diagnostikatzeko erregistro-moduluak
+about-logging-preset-ml-label = Ikasketa automatikoa
+about-logging-preset-ml-description = Ikasketa automatikoaren arazoak diagnostikatzeko erregistro-moduluak
+about-logging-preset-web-compat-label = Web Compat
+about-logging-preset-web-compat-description = Web bateragarritasun arazoak diagnostikatzeko erregistro-moduluak
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU arazoak diagnostikatzeko erregistro-moduluak
 about-logging-preset-gfx-label = Grafikoak
@@ -69,13 +75,53 @@ about-logging-unknown-profiler-preset = Profil sortzailearen "{ $v }" aurrezarpe
 about-logging-unknown-option = about:logging "{ $k }" aukera ezezaguna
 about-logging-configuration-url-ignored = Konfigurazio URLa ezikusita
 about-logging-file-and-profiler-override = Ezin da fitxategiaren irteera behartu eta aldi berean profil sortzailearen aukerak baliogabetu
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Errorea gertatu da: { $errorText }
 about-logging-configured-via-url = Aukera URL bidez konfiguratuta
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Profilaren datuak kapturatu egin dira. Gorde edo igo nahi dituzu?
 about-logging-save-button = Gorde
 about-logging-upload-button = Igo
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = { $path } bidean gordeta
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Profilaren datuak igotzen: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = <a data-l10n-name="uploaded-message-url">{ $url }</a> URLra igota
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Partekatu URLa
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Errorea gertatu da profila igotzean: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Errorea gertatu da igotako profila biltegiratzean: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Errorea gertatu da profila gordetzean: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profila { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Igotako profilak
+about-logging-no-uploaded-profiles = Ez da profilik igo oraindik.
+about-logging-delete-uploaded-profile = Ezabatu
+about-logging-view-uploaded-profile = Ikusi profila
+about-logging-delete-profile-confirm-title = Ezabatu profila
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Ziur zaude "{ $profileName }" profila ezabatu nahi duzula? Ekintza hau ezin da desegin.
+about-logging-deleting-profile = Ezabatzen…
