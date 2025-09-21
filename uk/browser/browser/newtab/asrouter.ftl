@@ -407,3 +407,5 @@ etp-strict-exceptions-infobar-message = <strong>Надійний захист в
 etp-strict-exceptions-infobar-learn-more = Докладніше
 etp-strict-exceptions-infobar-button = Застосувати усунення проблем
     .accesskey = З
+etp-strict-exceptions-infobar-not-now = Не зараз
+    .accesskey = е
