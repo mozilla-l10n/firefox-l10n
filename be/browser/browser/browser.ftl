@@ -1383,6 +1383,16 @@ popup-warning-message =
         [few] { -brand-short-name } прадухіліў адкрыццё { $popupCount } выплыўных вокнаў з гэтага сайта.
        *[many] { -brand-short-name } прадухіліў адкрыццё { $popupCount } выплыўных вокнаў з гэтага сайта.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } перашкодзіў гэтаму сайту перанакіроўваць карыстальнікаў.
+        [1] { -brand-short-name } перашкодзіў гэтаму сайту адкрыць выплыўные акно і перанакіроўваць карыстальнікаў.
+        [one] { -brand-short-name } перашкодзіў гэтаму сайту адкрыць { $popupCount } выплыўнае акно і перанакіроўваць карыстальнікаў.
+        [few] { -brand-short-name } перашкодзіў гэтаму сайту адкрыць { $popupCount } выплыўныя акна і перанакіроўваць карыстальнікаў.
+       *[many] { -brand-short-name } перашкодзіў гэтаму сайту адкрыць { $popupCount } выплыўных акон і перанакіроўваць карыстальнікаў.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1391,6 +1401,14 @@ popup-warning-exceeded-message =
         [one] { -brand-short-name } прадухіліў адкрыццё гэтага сайта ў выплыўным акне.
         [few] { -brand-short-name } прадухіліў больш за { $popupCount } выплыўныя акны з гэтага сайта.
        *[many] { -brand-short-name } прадухіліў больш за { $popupCount } выплыўных акон з гэтага сайта.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } перашкодзіў гэтаму сайту адкрыць больш за { $popupCount } выплыўные акно і перанакіроўваць карыстальнікаў.
+        [few] { -brand-short-name } перашкодзіў гэтаму сайту адкрыць больш за { $popupCount } выплыўныя акна і перанакіроўваць карыстальнікаў.
+       *[many] { -brand-short-name } перашкодзіў гэтаму сайту адкрыць больш за { $popupCount } выплыўных акон і перанакіроўваць карыстальнікаў.
     }
 popup-warning-button =
     .label =
@@ -1407,6 +1425,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Паказаць '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Паказаць “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
