@@ -185,6 +185,8 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = ໄຟລ໌ຢູ່ໃນອຸປະກອນຂອງທ່ານ
 downloads-private-browsing-message = ທຸກຄົນທີ່ໃຊ້ອຸປະກອນນີ້ສາມາດເຫັນການດາວໂຫຼດໄດ້, ເຖິງແມ່ນວ່າທ່ານຈະປິດໜ້າຈໍສ່ວນຕົວທັງໝົດກໍຕາມ.
 downloads-private-browsing-delete-button =
     .label = ລຶບໄຟລ໌ອັດຕະໂນມັດ

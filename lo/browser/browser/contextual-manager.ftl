@@ -235,6 +235,8 @@ contextual-manager-passwords-no-passwords-found-header =
 contextual-manager-passwords-no-passwords-get-started-message = ເພີ່ມພວກມັນໃສ່ບ່ອນນີ້ເພື່ອເລີ່ມຕົ້ນ.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = ເພີ່ມດ້ວຍຕົນເອງ
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = ບັນທຶກລະຫັດຜ່ານຂອງທ່ານໄວ້ໃນບ່ອນທີ່ປອດໄພ
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -247,5 +249,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [1] ແມ່ນແລ້ວ, ເອົາລະຫັດຜ່ານອອກ
        *[other] ແມ່ນແລ້ວ, ເອົາລະຫັດຜ່ານອອກ
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = ເພື່ອເບິ່ງລະຫັດຜ່ານທີ່ບັນທຶກໄວ້ຂອງທ່ານ, ກະລຸນາໃສ່ລະຫັດຜ່ານຫຼັກຂອງທ່ານ.
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = ໃສ່ລະຫັດຜ່ານຫຼັກ
+contextual-manager-primary-password-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ

@@ -66,8 +66,16 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = ຕົວເລືອກເພີ່ມເຕີມ
 
+## Login Status Advisory Callout (points to the account icon)
+
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = ທ່ານອອກຈາກລະບົບແລ້ວ. ຄລິກໄອຄອນບັນຊີເພື່ອເຂົ້າສູ່ລະບົບ.
+
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = ເພີ່ມເວັບໄຊນີ້ໃສ່ແຖບເຄື່ອງມືບຸກມາກຂອງທ່ານບໍ?
 bookmarks-toolbar-callout-1-primary-button-label = ເພີ່ມບຸກມາກ
 bookmarks-toolbar-callout-1-secondary-button-label = ບໍ່, ຂອບໃຈ
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
@@ -76,6 +84,9 @@ bookmarks-toolbar-callout-2a-subtitle = ທ່ານສາມາດລາກ ແ
 bookmarks-toolbar-callout-2a-primary-button-label = ເຂົ້າໃຈແລ້ວ
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = ເຊື່ອງແຖບເຄື່ອງມື
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = ເປີດແຖບເຄື່ອງມືບຸກມາກໄວ້ບໍ?
+bookmarks-toolbar-callout-2b-subtitle = ທ່ານສາມາດເພີ່ມສະຖານທີ່ອື່ນໆທີ່ທ່ານເຂົ້າເບິ່ງເລື້ອຍໆ. ພຽງ​ແຕ່​ລາກ​ແລະ​ວາງ​ແຖບ​ຢູ່​ທີ່​ນີ້​ເພື່ອ​ຮັກ​ສາ​ເວັບ​ໄຊ​ທ​໌​ທີ່​ມັກ​ຢູ່​ໃນ​ການ​ບັນ​ລຸ​ໄດ້​.
 bookmarks-toolbar-callout-2b-primary-button-label = ສືບຕໍ່ເປີດ
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = ບໍ່, ຂອບໃຈ
@@ -90,6 +101,23 @@ perplexity-callout-theme-2-subtitle-1 = ຖາມ Perplexity. ທ່ານ​ຈ
 perplexity-callout-theme-2-subtitle-2 = ຖາມຄໍາຖາມ. ໄດ້ຮັບຄໍາຕອບທີ່ສົມບູນ, ອ້າງອີງດີ.
 perplexity-callout-primary-label = ຖາມ Perplexity
 perplexity-callout-secondary-label-1 = ຍົກເລີກ
+perplexity-callout-secondary-label-2 = ເຂົ້າໃຈແລ້ວ!
+
+## Account Adoption Passwords callout strings
+
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = ບັນທຶກລະຫັດຜ່ານແລ້ວ. ໃຫ້ສຳຮອງມັນໄວ້.
+fxa-adoption-passwords-subtitle = ປົກປ້ອງລະຫັດຜ່ານຂອງທ່ານໂດຍການຊິງຄ໌ກັບອຸປະກອນຂອງທ່ານດ້ວຍການເຂົ້າລະຫັດ.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = ລົງ​ທະ​ບຽນ
+
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = ຮັກສາຟີດທີ່ທ່ານມັກຢູ່ໃນແຖບວຽກຂອງທ່ານ
+
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = ຢ່າສູນເສຍທຸກຢ່າງທີ່ທ່ານໄດ້ບັນທຶກໄວ້ເມື່ອທ່ານຍ້າຍໄປ Windows 11.
 
 ## Sidebar Strings
 
