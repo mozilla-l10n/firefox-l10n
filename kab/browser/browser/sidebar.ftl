@@ -64,6 +64,10 @@ sidebar-show-on-the-right =
     .label = Awi agalis adisan ɣer ayeffus
 sidebar-show-on-the-left =
     .label = Awi agalis adisan ɣer zelmeḍ
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Derrec afeggag adisan
 sidebar-manage-extensions = Sefrek isiɣzaf
 
 ## Labels for sidebar context menu items
@@ -98,6 +102,8 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Mdel iccer ɣef { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Kkes seg { -brand-short-name }
 sidebar-context-menu-unpin-extension =
     .label = Kkes seg ufeggag adisan
 
@@ -189,6 +195,11 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Derrec afeggag adisan ({ $shortcut })
+    .label = Ifeggagen idisanen
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =
