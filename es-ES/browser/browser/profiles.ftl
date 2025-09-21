@@ -45,6 +45,7 @@ avatar-selector-save-button =
     .label = Guardar
 avatar-selector-upload-file = Subir un archivo
 avatar-selector-drag-file = O arrastre un archivo aquí
+avatar-selector-add-image = Añadir una imagen
 avatar-selector-crop = Recortar
 edit-profile-page-no-name = Póngale nombre a este perfil para encontrarlo fácilmente en el futuro. Se puede renombrar en cualquier momento.
 edit-profile-page-duplicate-name = El nombre del perfil ya está en uso. Pruebe con un nombre nuevo.
@@ -143,15 +144,27 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Aplicar tema personalizado
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Ver ajustes
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Descartar
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Maletín
+picture-avatar-alt =
+    .alt = Imagen
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Lienzo
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Artesanía
 flower-avatar-alt =
     .alt = Flor
 folder-avatar-alt =
@@ -164,12 +177,17 @@ heart-rate-avatar-alt =
     .alt = Frecuencia cardíaca
 clock-avatar-alt =
     .alt = Reloj
+history-avatar-alt =
+    .alt = Historial
 leaf-avatar-alt =
     .alt = Hoja
 lightbulb-avatar-alt =
     .alt = Bombilla
 makeup-avatar-alt =
     .alt = Maquillaje
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Mensaje
 musical-note-avatar-alt =
     .alt = Nota musical
 palette-avatar-alt =
@@ -218,6 +236,7 @@ clock-avatar = Reloj
 canvas-avatar = Lienzo
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Artesanía
+custom-avatar = Avatar personalizado
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar = Icono predeterminado
 # Diamond refers to the precious stone, not the geometric shape

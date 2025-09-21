@@ -355,9 +355,28 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantenga su navegador favor
 
 windows-10-eos-sync-spotlight-title = ¿Actualizará desde Windows 10 pronto?
 windows-10-eos-sync-spotlight-subtitle = Haga una copia de seguridad de las contraseñas y marcadores para estar listo para dar el salto a cualquier dispositivo.
+windows-10-eos-sync-spotlight-primary-label = Haga una copia de seguridad de { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = ¿Actualizando a Windows 11? No pierda marcadores ni contraseñas.
+windows-10-eos-sync-toast-subtitle = Haga una copia de seguridad de sus datos para que { -brand-short-name } esté listo en cualquier momento, en este ordenador o en el siguiente.
+windows-10-eos-sync-toast-primary-label = Comenzar
+windows-10-eos-sync-toast-secondary-label = Recordármelo más tarde
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } no está precargado como otros navegadores de las grandes tecnológicas. Esa es la cuestión.
+windows-10-eos-challenger-sync-callout-subtitle = Al hacer una copia de seguridad de los marcadores y contraseñas de { -brand-product-name }, es más fácil llevar el navegador elegido a su próximo dispositivo.
+windows-10-eos-challenger-pin-callout-subtitle = Fije { -brand-shorter-name } a la barra de tareas para que el navegador elegido esté siempre ahí cuando lo necesite.
+windows-10-eos-challenger-sync-primary-button = Hacer copia de seguridad de { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Fijar { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } bloquea criptomineros, rastreadores de redes sociales y creadores de huellas digitales.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Los rastreadores no pueden identificar su dispositivo ni seguirlo por la web, porque nosotros no se lo permitimos.
+windows-10-eos-sync-callout-privacy-screen-2-title = Proteja sus contraseñas y marcadores para su próximo dispositivo.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Hacer una copia de seguridad de { -brand-shorter-name } facilita llevar sus datos y configuración de privacidad con usted.
+windows-10-eos-sync-callout-privacy-info-button = Ver lo que está bloqueado
+windows-10-eos-callout-addons-title = Pruebe complementos: actualizaciones simples, grandes impactos
 windows-10-eos-sync-callout-next-button = Siguiente
 windows-10-eos-sync-callout-get-started-button = Comenzar
 

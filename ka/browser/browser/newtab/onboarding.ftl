@@ -477,3 +477,10 @@ dismiss-button-label = აცილება
 sync-to-mobile-button-label = დასინქრონება მობილურზე
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-კოდი, რომ ჩამოტვირთოთ { -brand-product-name } მობილურზე
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = აღდგენა მარქაფიდან
+restore-from-backup-title = დაიბრუნეთ { -brand-short-name } ისეთი, როგორიც მოგწონდათ.
+restore-from-backup-subtitle = აღადგინეთ თქვენი სანიშნები, ისტორია და სხვა მონაცემები, რომ დაუბრუნდეთ გვერდების მონახულებას.
+restore-from-backup-secondary-button = აღდგენის გარეშე
