@@ -8,7 +8,7 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
-opensearch-error-duplicate-title = Tucḍa deg usebded
+opensearch-error-duplicate-title = Tuccḍa deg usebded
 opensearch-error-duplicate-desc = { -brand-short-name } ur yezmir ara ad isebded azegrir n unadi si «{ $location-url }» acku yella umsadday s yisem-agi yakan.
 opensearch-error-format-title = amasal arameɣtu
 opensearch-error-format-desc = { -brand-short-name } ur izmir ara ad isbed amsaɣ seg: { $location-url }
@@ -53,5 +53,37 @@ install-search-engine-no = Ala
 add-engine-window =
     .title = Rnu amsedday n unadi
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Ẓreg amsedday n unadi
+    .style = min-width: 32em;
 add-engine-button = Rnu amsedday n unadi udmawan
 add-engine-name = Isem n umsedday n unadi
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+add-engine-name-placeholder =
+    .placeholder = amedya, Aẓeṭṭa n ineflayen n Mozilla
+add-engine-url-placeholder =
+    .placeholder = amedya, https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = amedya @mdn
+
+## The following strings are used as error messages.
+
+add-engine-no-name = Ttxil-k⋅m rnu isem.
+add-engine-no-url = Ma ulac aɣilif sekcem tansa URL.
+
+## The following strings are used as labels for the dialog's buttons.
+
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Rnu Amsedday
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Talqayt
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Sekles Amsedday
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Talqayt

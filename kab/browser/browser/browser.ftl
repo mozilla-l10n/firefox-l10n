@@ -809,6 +809,14 @@ urlbar-result-realtime-opt-in-allow = Sken isumar
 urlbar-result-realtime-opt-in-not-now = Mačči tura
 urlbar-result-realtime-opt-in-dismiss = Zgel
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Ass-a
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1298,6 +1306,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Sken '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Sken-d “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
