@@ -447,7 +447,10 @@ available-updates-heading = Ileqman yellan
 recent-updates-heading = Ileqman n melmi kan
 release-notes-loading = Asali…
 release-notes-error = Suref-aɣ, teḍṛa-d tuccḍa deg usali n iwenniten n lqem.
+addon-permissions-heading = Tisirag
 addon-permissions-empty2 = Asiɣzef ur yesri kra n tsiregt.
+addon-permissions-required-label = Yettawsra:
+addon-permissions-optional-label = D axetṛan:
 addon-permissions-empty = Asiɣzef-agi ur yesra ara tisirag
 addon-permissions-required = Tisirag yettwasran i tmahilin n uzadur:
 addon-permissions-optional = Tisirag tifrayanin i tmahilin yettwarnan:
@@ -475,6 +478,9 @@ shortcuts-heading = Sefrek inegzumen n isiɣzaf
 default-heading-search-label = Aff-d ugar n yizegrar
 addons-heading-search-input =
     .placeholder = Nadi addons.mozilla.org
+addons-heading-search-button =
+    .title = Nadi addons.mozilla.org
+    .aria-label = Nadi addons.mozilla.org
 addon-page-options-button =
     .title = Ifecka i yizegrar imaṛṛa
 
@@ -536,3 +542,27 @@ addon-permissions-required-data-collection = Yesra alqaḍ n yisefka:
 addon-permissions-optional-data-collection = Alqaḍ n yisefka axetṛan:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Tisirag akked yisefka
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Yesseqdac-it usiɣzaf { $extensionName }
+addon-permissions-data-collection-heading = Alqaḍ n yisefka
+addon-data-collection-learnmore = Issin ugar ɣef ulqaḍ n yifeska
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = AI ɣef yibenk
+addon-category-mlmodel-title =
+    .title = AI ɣef yibenk
+mlmodel-heading = Sefrek tumudmiwin AI ɣef yibenk
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Kkes
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Tiddi n ufaylu
+mlmodel-addon-detail-last-used-label = Aseqdec aneggaru
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Isqed-it
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Wali-t deg Huggin Face
