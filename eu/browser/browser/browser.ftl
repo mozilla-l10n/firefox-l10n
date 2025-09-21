@@ -1349,4 +1349,24 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] Guneen arteko cookie jarraipen-egileak: { $count }
+       *[other] Guneen arteko cookie jarraipen-egileak: { $count }
+    }
 trustpanel-list-label-tracking-content = Edukiaren jarraipena
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] Hatz-marka bidezko jarraipen-elementuak: { $count }
+       *[other] Hatz-marka bidezko jarraipen-elementuak: { $count }
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] Sare sozialetako jarraipen-elementuak: { $count }
+       *[other] Sare sozialetako jarraipen-elementuak: { $count }
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] Kriptomeatzariak: { $count }
+       *[other] Kriptomeatzariak: { $count }
+    }

@@ -174,3 +174,47 @@ genai-model-optin-optout =
     .label = Utzi
 genai-model-optin-cancel =
     .label = Utzi
+
+## Link previews
+
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Ezin dugu lotura honen aurrebistarik sortu
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Bisitatu lotura
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Ezin ditugu webgune honen puntu nagusiak sortu.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Zerbait oker joan da.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Saiatu berriro
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Loturen aurrebisten ezarpenak
+link-preview-settings-enable =
+    .label = Gaitu loturen aurrebistak
+    .description = Ikusi orriaren izenburua, azalpena eta gehiago lasterbidea erabiltzean edo loturan eskuin-klika egitean.
+link-preview-settings-key-points =
+    .label = Baimendu AAri orriaren hasiera irakurri eta puntu nagusiak sortzea
+link-preview-settings-long-press =
+    .label = Lasterbidea: egin klik eta mantendu sakatuta lotura segundo batez (sakatze luzea)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Gehiago ikusi nahi duzu AArekin?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name }(e)k AA darabil orriaren hasiera irakurri eta puntu nagusiak sortzeko. Zure pribatutasuna lehenesteko, prozesu hau zure gailuan gertatzen da.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Berria: egin klik eta mantendu sakatuta edozein loturaren aurrebista izateko
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Ikusi azalpen laburra, irakurketa denbora eta gehiago erabakitzeko lotura irekitzeak merezi duen. Eskuin-klikean ere erabilgarri dago.
+# Header for the key points section
+link-preview-key-points-header = Puntu nagusiak
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Puntu nagusiak AAk sortutakoak dira eta akatsak izan litzake.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Lehen aldiko konfigurazioa • <strong>%{ $progress }</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Puntu nagusiak azkarrago ikusiko dituzu hurrengoan.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Ikusi aurrebista
+# Onboarding card Close button
+link-preview-onboarding-close = Itxi

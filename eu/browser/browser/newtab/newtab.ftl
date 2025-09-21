@@ -299,6 +299,8 @@ newtab-custom-pocket-subtitle = { -brand-product-name } familiakide den { -pocke
 newtab-custom-stories-toggle =
     .label = Gomendatutako istorioak
     .description = { -brand-product-name } familiak aukeratutako eduki aparta
+newtab-custom-stories-personalized-toggle =
+    .label = Istorioak
 newtab-custom-pocket-sponsored = Babesleen istorioak
 newtab-custom-pocket-show-recent-saves = Erakutsi gordetako azkenak
 newtab-custom-recent-title = Azken jarduera
@@ -306,6 +308,9 @@ newtab-custom-recent-subtitle = Azken gune eta edukien hautapena
 newtab-custom-weather-toggle =
     .label = Eguraldia
     .description = Gaurko eguraldi-iragarpena
+newtab-custom-trending-search-toggle =
+    .label = Bilaketa-joerak
+    .description = Ezagunak diren eta askotan bilatutako gaiak
 newtab-custom-widget-weather-toggle =
     .label = Eguraldia
 newtab-custom-widget-trending-search-toggle =
@@ -493,3 +498,12 @@ newtab-report-cancel = Utzi
 newtab-report-submit = Bidali
 newtab-toast-thanks-for-reporting =
     .message = Eskerrik asko hau jakinarazteagatik.
+
+## Strings for task / to-do list productivity widget
+
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Berria
+newtab-widget-lists-label-beta =
+    .label = Beta
+newtab-widget-task-list-menu-copy = Kopiatu
