@@ -112,6 +112,11 @@ fxa-adoption-passwords-subtitle = დაიცავით თქვენი �
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = ანგარიშის შექმნა
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-value-prop-callout-title = დაამატეთ ეს საიტი ამოცანათა ზოლზე
+taskbar-tabs-value-prop-callout-subtitle = გაუშვით ცალკე ფანჯარაში და გამარტივებული გარსით მხოლოდ ერთი დაწკაპებით.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = ნუ დაკარგავთ შენახულ მონაცემებს, როცა დააპირებთ დააყენოთ Windows 11.
@@ -131,6 +136,10 @@ windows-10-eos-sync-tour-title-1 = ზედმეტად ბევრი ჩ�
 windows-10-eos-sync-tour-subtitle-1 = ზემოდან გადაადეთ ერთი ჩანართი მეორეს ჯგუფის შესაქმნელად მოწესრიგებული ჩვენებისთვის.
 windows-10-eos-sync-tour-title-2 = მოემზადეთ, სანამ მოვა Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = დაასინქრონეთ თქვენი სანიშნები, პაროლები და პარამეტრები დამარქაფებისთვის ახალ სისტემაზე გადასვლამდე.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = ნაკლები ამგვარი შემოთავაზებები
+windows-10-eos-sync-dismiss-button-label = აცილება
+windows-10-eos-sync-callout-primary-advance-button-label = შემდეგი
 
 ## Sidebar Strings
 

@@ -488,6 +488,8 @@ restore-from-backup-secondary-button = აღდგენის გარეშ�
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = დავბრუნდით! { -brand-short-name } აღდგენილია თქვენი მონაცემებით.
+restored-from-backup-success-with-checklist-subtitle = გსურთ, პირადულობის უზრუნველმყოფი ბრაუზერი მუდამ გქონდეთ თითის ერთ გაწვდენაზე?
+restored-from-backup-success-no-checklist-subtitle = შეგიძლიათ ჩართოთ დამარქაფება ამ მოწყობილობისთვის <a data-l10n-name="settings">პარამეტრებიდან</a>.
 restored-from-backup-success-with-checklist-primary-button = შეინახეთ და განაგრძეთ
 restored-from-backup-success-with-checklist-secondary-button = ამ ნაბიჯის გამოტოვება
 restored-from-backup-success-no-checklist-primary-button = განაგრძეთ

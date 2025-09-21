@@ -144,12 +144,21 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = მორგებული გაფორმების გამოყენება
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = პარამეტრების ნახვა
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = აცილება
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = წიგნი
 briefcase-avatar-alt =
     .alt = პორტფელი
+picture-avatar-alt =
+    .alt = სურათი
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = გამოსახულება
@@ -166,6 +175,8 @@ heart-avatar-alt =
     .alt = გული
 heart-rate-avatar-alt =
     .alt = გულისცემა
+clock-avatar-alt =
+    .alt = საათი
 history-avatar-alt =
     .alt = ისტორია
 leaf-avatar-alt =
@@ -190,6 +201,8 @@ present-avatar-alt =
     .alt = საჩუქარი
 shopping-avatar-alt =
     .alt = საყიდლების კალათა
+soccer-ball-avatar-alt =
+    .alt = ფეხბურთის ბურთი
 soccer-avatar-alt =
     .alt = ფეხბურთი
 sparkle-single-avatar-alt =
@@ -200,6 +213,9 @@ video-game-controller-avatar-alt =
     .alt = ვიდეოთამაშის სამართავი
 custom-avatar-alt =
     .alt = მორგებული გამოსახულება
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = გლობუსი
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = ნაგულისხმევი ხატულა
@@ -215,6 +231,7 @@ bike-avatar-alt =
 
 book-avatar = წიგნი
 briefcase-avatar = პორტფელი
+clock-avatar = საათი
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = გამოსახულება
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +243,8 @@ default-favicon-avatar = ნაგულისხმევი ხატულა
 diamond-avatar = ალმასი
 flower-avatar = ყვავილი
 folder-avatar = საქაღალდე
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = გლობუსი
 hammer-avatar = ჩაქუჩი
 heart-avatar = გული
 heart-rate-avatar = გულისცემა
@@ -238,10 +257,12 @@ message-avatar = შეტყობინება
 musical-note-avatar = მუსიკალური ნოტი
 palette-avatar = საღებავების დაფა
 paw-print-avatar = თათის ნაკვალევი
+picture-avatar = სურათი
 plane-avatar = თვითმფრინავი
 # Present refers to a gift box, not the current time period
 present-avatar = საჩუქარი
 shopping-avatar = საყიდლების კალათა
+soccer-ball-avatar = ფეხბურთის ბურთი
 soccer-avatar = ფეხბურთი
 sparkle-single-avatar = ნაპერწკალი
 star-avatar = ვარსკვლავი

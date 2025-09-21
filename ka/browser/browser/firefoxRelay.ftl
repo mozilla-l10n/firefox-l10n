@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = მ
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = დაიცავით საკუთარი ელფოსტის მისამართი:
+firefox-relay-opt-in-title-2 = მიიღეთ უფასო ნიღაბი
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = გამოიყენეთ { -relay-brand-name } ელფოსტის შესანიღბად
 firefox-relay-use-mask-title-1 = გამოიყენეთ ელფოსტის ნიღაბი
+firefox-relay-opt-in-subtitle-2 = დაიცავით საფოსტო ყუთი ჯართისგან
 firefox-relay-use-mask-title = გამოიყენეთ { -relay-brand-name } ელფოსტის შესანიღბად
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = აირიდეთ ჯართი ელფოსტის უფასო შენიღბვით.
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = მიიღეთ უფასო ნიღაბი
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = დაიცავით საფოსტო ყუთი უსარგებლო წერილებისგან <label data-l10n-name="firefox-relay-learn-more-url">ელფოსტის უფასო ნიღბით</label>, რომელიც დაფარავს ნამდვილ მისამართს. წერილები <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ამ საიტიდან</label> ჩვეულებრივ მოგივათ, მაგრამ თქვენი მისამართი შენიღბული იქნება.
 firefox-relay-and-fxa-popup-notification-first-sentence = დაიცავით საფოსტო ყუთი უსარგებლო წერილებისგან <label data-l10n-name="firefox-relay-learn-more-url">ელფოსტის უფასო ნიღბით, რომელსაც { -relay-brand-name }</label> გთავაზობთ და რომელიც დაფარავს ნამდვილ მისამართს. წერილები <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ამ საიტიდან</label> ჩვეულებრივ მოგივათ, მაგრამ თქვენი მისამართი შენიღბული იქნება.
+firefox-relay-offer-why-to-use-relay-1 = დაიცავით საფოსტო ყუთი უსარგებლო წერილებისგან <label data-l10n-name="firefox-relay-learn-more-url">ელფოსტის უფასო ნიღბით, რომელსაც { -relay-brand-name }</label> გთავაზობთ და რომელიც დაფარავს ნამდვილ მისამართს. წერილები <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ამ საიტიდან</label> ჩვეულებრივ მოგივათ, მაგრამ თქვენი მისამართი შენიღბული იქნება.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = ჯერ შექმენით ანგარიში ან შედით, რომ გამოიყენოთ ელფოსტის ნიღაბი
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = ანგარიშის შექმნა

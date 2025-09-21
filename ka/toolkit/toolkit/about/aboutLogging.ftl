@@ -102,3 +102,7 @@ about-logging-upload-error = შეცდომა წარმოიშვა �
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = შეცდომა წარმოიშვა ფაილის შენახვისას: { $errorText }
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = წაშლა
