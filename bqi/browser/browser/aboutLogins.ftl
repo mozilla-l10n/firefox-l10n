@@ -87,6 +87,15 @@ about-logins-login-list-empty-search-title = هیچ دووسمندی و من ٱ�
 about-logins-login-list-empty-search-title2 = هیچ رزمی نجۊرست
 about-logins-login-list-empty-search-description = هیچ نتیجه ی جۊری وا پیتینیڌن ایسا نجۊرست.
 login-list-item-title-new-login = و من ٱووڌن نۊ
+login-list-item-subtitle-new-login = دووسمندیا و من ٱووڌن خوتووݩ ن بزنین
+login-list-item-title-new-login2 = ٱووردن رزم
+login-list-item-subtitle-missing-username = (بؽ نوم منتوری)
+about-logins-list-item-breach-icon =
+    .title = وبگه هک وابیڌه
+about-logins-list-item-vulnerable-password-icon =
+    .title = رزم آسیب پزیر
+about-logins-list-section-breach = وبگه یل هک وابیڌه
+about-logins-list-section-vulnerable = رزما آسیب پزیر
 about-logins-list-section-nothing = بؽ هوشدار
 about-logins-list-section-today = ٱمرۊز
 about-logins-list-section-yesterday = دۊش
@@ -153,6 +162,8 @@ about-logins-confirm-remove-dialog-confirm-button = پاک کردن
 ##
 
 about-logins-confirm-export-dialog-confirm-button = و در کشیڌن…
+about-logins-alert-import-title = و من ٱووردن دووسمندیا کامل وابی
+about-logins-alert-import-message = نشووݩ داڌن جۊزعیات و من ٱووردن دووسمندیا
 confirm-discard-changes-dialog-confirm-button = دیر وندن
 
 ## Breach Alert notification
