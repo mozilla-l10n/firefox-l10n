@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AllowFileSelectionDialogs = Позволяване на диалози за избор на файл.
 policy-AppAutoUpdate = Включва или изключва автоматичното обновяване на приложението.
 policy-BlockAboutConfig = Забранява достъпа до страницата „about:config“.
 policy-BlockAboutProfiles = Забранява достъпа до страницата „about:profiles“.
