@@ -121,6 +121,7 @@ taskbar-tabs-chat-callout-subtitle = Сомонаҳои сӯҳбатхонаҳо
 taskbar-tabs-email-callout-title = Почтаи электронии худро дар навори вазифаи худ нигоҳ доред
 taskbar-tabs-email-callout-subtitle = Сомонаҳои почтаи электронии веби худро ҳамчун барнома дар равзанаи хуб танзимшуда ва ҳифзшуда аз тарафи «{ -brand-short-name }» оғоз намоед.
 taskbar-tabs-media-callout-title = Ба пахши онлайн тавассути навори вазифаи худ баргардед
+taskbar-tabs-media-callout-subtitle = Сомонаҳои пахши онлайни худро ҳамчун барнома дар равзанаи хуб танзимшуда ва ҳифзшуда аз тарафи «{ -brand-short-name }» оғоз намоед.
 taskbar-tabs-value-prop-callout-title = Илова кардани ин сомона ба навори вазифаи худ
 
 ## Windows 10 EoS Sync messages group 1 callouts
