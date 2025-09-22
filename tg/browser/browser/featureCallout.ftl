@@ -115,8 +115,11 @@ fxa-adoption-passwords-primary-button-label = Бақайдгирӣ
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Наворҳои ахбори дӯстдоштаи худро дар навори вазифаи худ нигоҳ доред
+taskbar-tabs-social-callout-subtitle = Сомонаҳои шабакаҳои иҷтимоии худро ҳамчун барнома дар равзанаи хуб танзимшуда ва ҳифзшуда аз тарафи «{ -brand-short-name }» оғоз намоед.
 taskbar-tabs-chat-callout-title = Аз навори вазифаи худ суҳбат кунед
+taskbar-tabs-chat-callout-subtitle = Сомонаҳои сӯҳбатхонаҳои худро ҳамчун барнома дар равзанаи хуб танзимшуда ва ҳифзшуда аз тарафи «{ -brand-short-name }» оғоз намоед.
 taskbar-tabs-email-callout-title = Почтаи электронии худро дар навори вазифаи худ нигоҳ доред
+taskbar-tabs-email-callout-subtitle = Сомонаҳои почтаи электронии веби худро ҳамчун барнома дар равзанаи хуб танзимшуда ва ҳифзшуда аз тарафи «{ -brand-short-name }» оғоз намоед.
 taskbar-tabs-value-prop-callout-title = Илова кардани ин сомона ба навори вазифаи худ
 
 ## Windows 10 EoS Sync messages group 1 callouts
