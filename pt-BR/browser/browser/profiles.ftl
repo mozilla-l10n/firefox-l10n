@@ -148,6 +148,10 @@ profiles-custom-theme-title =
 
 # Full infobar message with inline bold title followed by body text
 multiprofile-data-collection-message = <strong>Mudou a configuração de coleta de dados.</strong> As alterações feitas em outro perfil se aplicam a todos os perfis neste dispositivo.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Mostrar configurações
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Descartar
 
 ## Alternative text for default profile icons
 
@@ -155,6 +159,8 @@ book-avatar-alt =
     .alt = Livro
 briefcase-avatar-alt =
     .alt = Maleta
+picture-avatar-alt =
+    .alt = Foto
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Tela de pintura
@@ -171,6 +177,8 @@ heart-avatar-alt =
     .alt = Coração
 heart-rate-avatar-alt =
     .alt = Frequência cardíaca
+clock-avatar-alt =
+    .alt = Relógio
 history-avatar-alt =
     .alt = Histórico
 leaf-avatar-alt =
@@ -195,6 +203,8 @@ present-avatar-alt =
     .alt = Presente
 shopping-avatar-alt =
     .alt = Carrinho de compras
+soccer-ball-avatar-alt =
+    .alt = Bola de futebol
 soccer-avatar-alt =
     .alt = Futebol
 sparkle-single-avatar-alt =
@@ -205,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = Controlador de videogame
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globo
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Ícone padrão
@@ -232,6 +245,8 @@ default-favicon-avatar = Ícone padrão
 diamond-avatar = Diamante
 flower-avatar = Flor
 folder-avatar = Pasta
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globo
 hammer-avatar = Martelo
 heart-avatar = Coração
 heart-rate-avatar = Frequência cardíaca
@@ -264,3 +279,23 @@ custom-avatar-drag-handle =
     .aria-label = Redimensionar área de corte
 barbell-avatar = Haltere
 bike-avatar = Bicicleta
+
+## Tooltips for default avatar icons
+
+bike-avatar-tooltip =
+    .tooltiptext = Usar avatar de bicicleta
+book-avatar-tooltip =
+    .tooltiptext = Usar avatar de livro
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Usar avatar de globo
+diamond-avatar-tooltip =
+    .tooltiptext = Usar avatar de diamante
+flower-avatar-tooltip =
+    .tooltiptext = Usar avatar de flor
+folder-avatar-tooltip =
+    .tooltiptext = Usar avatar da pasta
+hammer-avatar-tooltip =
+    .tooltiptext = Usar avatar de martelo
+heart-avatar-tooltip =
+    .tooltiptext = Usar avatar de coração
