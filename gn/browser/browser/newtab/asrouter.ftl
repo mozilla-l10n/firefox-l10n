@@ -354,10 +354,12 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Ereko ne kundahára erohory
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = ¿Embohekopyahu Windows 10 pya’e?
+windows-10-eos-sync-spotlight-subtitle = Eñongatu jey ne ñe’ẽñemi ha techaukaha ikatu hag̃uáicha ehasa oimeraẽva mba’e’okápe.
 windows-10-eos-sync-spotlight-primary-label = Eñongatuve tekorosãrã ne { -brand-short-name } rehegua
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = ¿Embohekopyahu Windows 11-pe? Ani ehundi techaukaha térã ñe’ẽñemi.
 windows-10-eos-sync-toast-primary-label = Emoñepyrũ
 windows-10-eos-sync-toast-secondary-label = Chemomandu’a ag̃ave
 
