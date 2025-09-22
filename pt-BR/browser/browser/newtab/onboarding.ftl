@@ -485,3 +485,7 @@ restore-from-backup-secondary-button = Não restaurar
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Estamos de volta! Seus dados do { -brand-short-name } foram restaurados.
+restored-from-backup-success-with-checklist-primary-button = Salvar e continuar
+restored-from-backup-success-with-checklist-secondary-button = Pular essa etapa
+restored-from-backup-success-no-checklist-primary-button = Continuar
+restored-from-backup-error-title = Hmm, houve um problema com seu arquivo de backup.
