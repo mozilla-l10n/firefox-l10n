@@ -6,6 +6,7 @@ fxa-pair-device-dialog-sync2 =
     .style = min-width: 32em;
 fxa-qrcode-pair-title = Sincronize o { -brand-product-name } em seu celular ou tablet
 fxa-qrcode-pair-step1 = 1. Abra o { -brand-product-name } no dispositivo móvel.
+fxa-qrcode-pair-step2-device-steps = 2. Abra o menu e toque em <strong>Entrar</strong>
 fxa-qrcode-pair-step2-signin = 2. Abra o menu (<img data-l10n-name="ios-menu-icon"/> no iOS ou <img data-l10n-name="android-menu-icon"/> no Android) e toque em <strong>Sincronizar e salvar dados</strong>
 fxa-qrcode-pair-step3 = 3. Toque em <strong>Pronto para digitalizar</strong> e aponte a câmera para este código
 fxa-qrcode-error-title = Conexão falhou.

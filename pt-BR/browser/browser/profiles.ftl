@@ -144,6 +144,11 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Aplicar tema personalizado
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Mudou a configuração de coleta de dados.</strong> As alterações feitas em outro perfil se aplicam a todos os perfis neste dispositivo.
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =

@@ -489,3 +489,5 @@ restored-from-backup-success-with-checklist-primary-button = Salvar e continuar
 restored-from-backup-success-with-checklist-secondary-button = Pular essa etapa
 restored-from-backup-success-no-checklist-primary-button = Continuar
 restored-from-backup-error-title = Hmm, houve um problema com seu arquivo de backup.
+restored-from-backup-error-subtitle = Se você tiver outro arquivo de backup do { -brand-short-name }, tente restaurar a partir dele. <a data-l10n-name="restore-problems">Ainda com problemas?</a>
+restored-from-backup-error-primary-button = Fechar
