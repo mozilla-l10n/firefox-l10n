@@ -477,3 +477,7 @@ dismiss-button-label = Afvis
 sync-to-mobile-button-label = Synkroniser til mobilen
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kode til at hente { -brand-product-name } til mobilen
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Gendan fra sikkerhedskopi
