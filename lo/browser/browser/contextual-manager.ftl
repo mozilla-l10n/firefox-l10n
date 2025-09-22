@@ -165,6 +165,7 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-alert-list =
     .aria-label = ບັນຊີລາຍຊື່ເຕືອນ
 contextual-manager-passwords-add-username-button = ເພີ່ມຊື່ຜູ້ໃຊ້
+contextual-manager-passwords-title = ລະຫັດຜ່ານ
 
 ## Login Form
 
@@ -176,6 +177,8 @@ contextual-manager-passwords-edit-label =
     .label = ແກ້ໄຂລະຫັດຜ່ານ
 contextual-manager-passwords-remove-label =
     .title = ເອົາລະຫັດຜ່ານອອກ
+contextual-manager-passwords-origin-tooltip = ໃສ່ທີ່ຢູ່ທີ່ແນ່ນອນທີ່ທ່ານຈະເຂົ້າສູ່ລະບົບເວັບໄຊນີ້.
+contextual-manager-passwords-username-tooltip = ໃສ່ຊື່ຜູ້ໃຊ້, ທີ່ຢູ່ອີເມວ ຫຼື ເລກບັນຊີທີ່ທ່ານໃຊ້ເພື່ອເຂົ້າສູ່ລະບົບ.
 contextual-manager-passwords-password-tooltip-2 = ໃສ່ລະຫັດຜ່ານເພື່ອເຂົ້າສູ່ລະບົບບັນຊີນີ້.
 contextual-manager-passwords-password-tooltip = ໃສ່ລະຫັດຜ່ານທີ່ໃຊ້ເພື່ອເຂົ້າສູ່ລະບົບບັນຊີນີ້.
 

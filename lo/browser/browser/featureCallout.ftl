@@ -114,10 +114,12 @@ fxa-adoption-passwords-primary-button-label = ລົງ​ທະ​ບຽນ
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = ຮັກສາຟີດທີ່ທ່ານມັກຢູ່ໃນແຖບວຽກຂອງທ່ານ
+taskbar-tabs-email-callout-title = ຮັກສາອີເມວຂອງທ່ານໃນແຖບວຽກຂອງທ່ານ
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = ຢ່າສູນເສຍທຸກຢ່າງທີ່ທ່ານໄດ້ບັນທຶກໄວ້ເມື່ອທ່ານຍ້າຍໄປ Windows 11.
+windows-10-eos-sync-new-device-title-1 = ຢ່າສ່ຽງຕໍ່ການເລີ່ມຕົ້ນໃໝ່ໃນອຸປະກອນຕໍ່ໄປຂອງທ່ານ.
 
 ## Sidebar Strings
 
