@@ -360,13 +360,16 @@ windows-10-eos-sync-spotlight-primary-label = Eñongatuve tekorosãrã ne { -bra
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = ¿Embohekopyahu Windows 11-pe? Ani ehundi techaukaha térã ñe’ẽñemi.
+windows-10-eos-sync-toast-subtitle = Eñongatu jey ne mba’ekuaarã { -brand-short-name } oiko porã hag̃ua, ko mohendaha térã oútavape.
 windows-10-eos-sync-toast-primary-label = Emoñepyrũ
 windows-10-eos-sync-toast-secondary-label = Chemomandu’a ag̃ave
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } nahenyhẽi ipyahúpe ambue kundaháraicha. Upéva pe amombe’uséva.
 windows-10-eos-challenger-sync-primary-button = Ñongatu jo’a { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Papyñemi { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } ojoko apopyrã criptomoneda rehegua, ava ñandutieta jehapykueho ha poruhára jeikuaa.
 windows-10-eos-sync-callout-privacy-info-button = Ehecha pe jejokopyre
 windows-10-eos-callout-addons-title = Eiporu moĩmbaha: hekopyahúva, iporã añetéva
 windows-10-eos-callout-addons-primary-button = Ehecha ore poravopyre
