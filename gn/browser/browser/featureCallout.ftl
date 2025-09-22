@@ -140,6 +140,7 @@ windows-10-eos-sync-general-subtitle-2 = Embojuehe emo’ã hag̃ua umi mba’e 
 windows-10-eos-sync-tour-title-1 = ¿Heta tendayke? Emohenda tendayke aty ndive.
 windows-10-eos-sync-tour-subtitle-1 = Embosyryry tendayke ambue ári emoheñói hag̃ua aty ha emohenda porã rekávo.
 windows-10-eos-sync-tour-title-2 = Emohenda Windows 11-pe g̃uarã.
+windows-10-eos-sync-tour-subtitle-2 = Embojuehe techaukaha, ñe’ẽñemi ha ñemboheko eñongatu jey hag̃ua emoambue mboyve.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Ehechauka’ive ñemoñe’ẽ
 windows-10-eos-sync-dismiss-button-label = Mboyke
