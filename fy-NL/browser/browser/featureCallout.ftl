@@ -112,6 +112,10 @@ fxa-adoption-passwords-subtitle = Beskermje jo wachtwurden troch se fersifere me
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registrearje
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Hâld jo favorite feeds yn jo taakbalke
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ferlies net alles wat jo bewarre hawwe as jo oerstappe nei Windows 11.
