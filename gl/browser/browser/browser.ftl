@@ -828,7 +828,7 @@ urlbar-result-menu-dont-show-market =
 # middot.
 # Variables:
 #   $name (string) - The name of the event.
-urlbar-result-dates-today = { $nome } · Hoxe
+urlbar-result-dates-today = { $name } · Hoxe
 # The name of multiple day long event and a note that it is ends today
 # separated by a middot.
 # Variables:

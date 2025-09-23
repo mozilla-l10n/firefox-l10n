@@ -192,6 +192,16 @@ about-logins-confirm-delete-dialog-title = رزم پاک بۊ؟
 about-logins-confirm-delete-dialog-message = ایسا نترین ای کاری ک ٱنجوم داڌین ن لقو کۊنین وو وورگرتین.
 about-logins-confirm-remove-dialog-confirm-button = پاک کردن
 
+## Variables
+##   $count (number) - Number of items
+
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] پاک کردن
+        [one] پاک کردن
+       *[other] پاک کردن پوی
+    }
+
 ##
 
 about-logins-confirm-export-dialog-confirm-button = و در کشیڌن…
