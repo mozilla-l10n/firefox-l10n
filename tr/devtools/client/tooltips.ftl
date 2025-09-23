@@ -35,6 +35,7 @@ inactive-css-not-display-block-on-floated-2 = Bu eleman <strong>floated</strong>
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> özelliği grid veya flex öğelerinde kullanılamadığı için etkisi yoktur.
 inactive-css-not-block = Yalnızca blok seviyesindeki elemanlara uygulanabileceği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-block-container = Yalnızca blok kapsayıcı elemanlara uygulanabileceği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
+inactive-css-not-block-flex-grid-container = Yalnızca blok, flex ve grid kapsayıcı elemanlara uygulanabileceği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-floated = <strong>{ $property }</strong> özelliği yalnızca floated elemanlara uygulanabileceği için etkisi yoktur.
 inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</strong> kısıtlaması nedeniyle <strong>{ $property }</strong> geçersiz kılınamaz.
 inactive-css-position-property-on-unpositioned-box = Bu elemanın pozisyonu olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.

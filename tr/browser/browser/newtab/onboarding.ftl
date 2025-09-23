@@ -489,6 +489,7 @@ restore-from-backup-secondary-button = Geri yükleme yapma
 
 restored-from-backup-success-title = Her şey hazır! { -brand-short-name } verileriniz geri yüklendi.
 restored-from-backup-success-with-checklist-subtitle = Gizlilik odaklı favori tarayıcınızı bir tık kadar yakınınızda tutmak ister misiniz?
+restored-from-backup-success-no-checklist-subtitle = Bu cihaz için yedeklemeyi <a data-l10n-name="settings">Ayarlar</a>’dan etkinleştirebilirsiniz.
 restored-from-backup-success-with-checklist-primary-button = Kaydet ve devam et
 restored-from-backup-success-with-checklist-secondary-button = Bu adımı atla
 restored-from-backup-success-no-checklist-primary-button = Devam et

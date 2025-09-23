@@ -115,6 +115,7 @@ fxa-adoption-passwords-primary-button-label = Kaydol
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-chat-callout-title = Görev çubuğunuzdan sohbet edin
+taskbar-tabs-email-callout-title = E-postanızı görev çubuğunuzda tutun
 taskbar-tabs-value-prop-callout-title = Bu siteyi görev çubuğunuza ekleyin
 
 ## Windows 10 EoS Sync messages group 1 callouts

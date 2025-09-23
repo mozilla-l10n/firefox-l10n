@@ -308,6 +308,10 @@ pdfjs-comment-floating-button =
     .title = Yorum ekle
     .aria-label = Yorum ekle
 pdfjs-comment-floating-button-label = Yorum ekle
+pdfjs-editor-comment-button =
+    .title = Yorum ekle
+    .aria-label = Yorum ekle
+pdfjs-editor-comment-button-label = Yorum ekle
 pdfjs-editor-signature-button =
     .title = İmza ekle
 pdfjs-editor-signature-button-label = İmza ekle
@@ -370,10 +374,19 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Metin düzenleyicisi
     .default-content = Yazmaya başlayın…
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] Yorum
+       *[other] Yorumlar
+    }
 pdfjs-editor-comments-sidebar-close-button =
     .title = Kenar çubuğunu kapat
     .aria-label = Kenar çubuğunu kapat
 pdfjs-editor-comments-sidebar-close-button-label = Kenar çubuğunu kapat
+pdfjs-editor-comments-sidebar-no-comments-link = Daha fazla bilgi alın
 
 ## Alt-text dialog
 
