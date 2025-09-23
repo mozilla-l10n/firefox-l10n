@@ -98,6 +98,7 @@ permissions-exceptions-https-only-desc2 = Ви можете вимкнути HTT
 permissions-exceptions-popup-window3 =
     .title = Дозволені сайти – спливні вікна та сторонні переспрямування
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Ви можете вказати вебсайти, для яких дозволяється відкриття спливних вікон і переспрямування за допомогою сторонніх фреймів.
 
 ## Exceptions - Pop-ups
 
@@ -173,6 +174,26 @@ permissions-site-camera-desc = Зазначені тут вебсайти зап
 permissions-site-camera-disable-label =
     .label = Блокувати нові запити про отримання доступу до вашої камери
 permissions-site-camera-disable-desc = Це не дозволить будь-яким переліченим вгорі вебсайтам запитувати дозвіл на отримання доступу до вашої камери. Блокування доступу до камери може вплинути на деякі функції вебсайтів.
+
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Налаштування – Програми та служби пристрою
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Ці вебсайти подали запит на доступ до програм і служб на цьому пристрої. Ви можете дозволити або заборонити доступ.
+permissions-site-localhost-disable-label =
+    .label = Блокувати нові запити на доступ до програм і служб на цьому пристрої
+permissions-site-localhost-disable-desc = Ця дія заборонить будь-яким вебсайтам, крім зазначених вище, запитувати доступ до програм і служб на цьому пристрої. Це може вплинути на роботу певних функцій вебсайтів.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Налаштування – Пристрої локальної мережі
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Ці вебсайти запитують доступ до програм і служб на пристроях, під'єднаних до вашої мережі Wi-Fi або локальної мережі. Ви можете дозволити або заборонити доступ.
+permissions-site-local-network-disable-label =
+    .label = Блокувати нові запити на доступ до програм і служб на пристроях, під'єднаних до вашої мережі Wi-Fi або локальної мережі.
+permissions-site-local-network-disable-desc = Ця дія заборонить будь-яким веб-сайтам, крім зазначених вище, запитувати доступ до програм і служб на пристроях, під'єднаних до вашої мережі Wi-Fi або локальної мережі. Це може вплинути на роботу певних функцій вебсайтів.
 
 ## Site Permissions - Microphone
 
