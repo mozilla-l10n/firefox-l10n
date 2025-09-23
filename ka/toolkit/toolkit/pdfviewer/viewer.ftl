@@ -379,8 +379,8 @@ pdfjs-free-text2 =
 #   $count (Number) - the number of comments.
 pdfjs-editor-comments-sidebar-title =
     { $count ->
-        [one] შენიშვნები
-       *[other] შენიშვნები
+        [one] შენიშვნა
+       *[other] შენიშვნა
     }
 pdfjs-editor-comments-sidebar-close-button =
     .title = გვერდითი ზოლის დახურვა
