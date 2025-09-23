@@ -35,6 +35,12 @@ network-proxy-connection-settings =
     .label = سامووا…
     .accesskey = e
 
+## Search Section
+
+search-edit-engine =
+    .label = آلشت
+    .accesskey = E
+
 ## Containers Section
 
 containers-back-button2 =

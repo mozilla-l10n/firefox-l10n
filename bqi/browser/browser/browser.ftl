@@ -31,6 +31,9 @@ quickactions-cmd-refresh = وانۊ کردن
 ## Bookmark Panel
 
 bookmarks-edit-bookmark = آلشت نشووک
+bookmark-panel-show-editor-checkbox =
+    .label = نشووݩ داڌن آلشتگر مجال زفت کردن
+    .accesskey = S
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -65,6 +68,11 @@ urlbar-searchmode-popup-search-settings-menuitem =
     .label = سامووا پیتینیڌن
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
 urlbar-searchmode-new = نۊ
+
+##
+
+bookmarks-subview-edit-bookmark =
+    .label = آلشت ای نشووک…
 
 ## Customize Toolbar Buttons
 

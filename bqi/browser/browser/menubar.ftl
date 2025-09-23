@@ -12,6 +12,17 @@ menu-file-print =
     .label = چاپ
     .accesskey = P
 
+## Edit Menu
+
+menu-edit =
+    .label = آلشت
+    .accesskey = E
+
+## Bookmarks Menu
+
+menu-edit-bookmark =
+    .label = آلشت ای نشووک…
+
 ## Tools Menu
 
 menu-settings =

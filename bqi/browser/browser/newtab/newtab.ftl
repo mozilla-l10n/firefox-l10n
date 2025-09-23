@@ -9,10 +9,25 @@ newtab-page-title = بلگه نۊ
 newtab-settings-dialog-label =
     .aria-label = سامووا
 
+## Top Sites - General form dialog.
+
+newtab-topsites-edit-shortcut-header = آلشت ر نهنگ
+
 ## Top Sites - Delete history confirmation dialog.
 
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ای کار وورگندنی نؽ.
+
+## Context Menu - Action Tooltips.
+
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = آلشت ای وبگه
+    .aria-label = آلشت ای وبگه
+
+## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
+
+newtab-menu-edit-topsites = آلشت
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -41,8 +56,10 @@ newtab-trending-searches-learn-more = قلوه دووسته بۊین
 newtab-widget-lists-label-new =
     .label = نۊ
 newtab-widget-task-list-menu-copy = لف گیری
+newtab-widget-lists-menu-edit = آلشت نومگه نوم
 newtab-widget-lists-menu-copy = لف گیری نومگه من کلیپ بورد
 newtab-widget-lists-menu-learn-more = قلوه دووسته بۊین
+newtab-widget-lists-input-menu-edit = آلشت
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
