@@ -7,7 +7,7 @@
 
 neterror-page-title = Проблема під час завантаження сторінки
 certerror-page-title = Обережно: Попереду ймовірна загроза безпеки
-certerror-sts-page-title = З'єднання не встановлено: Ймовірна загроза безпеки
+certerror-sts-page-title = З'єднання не встановлено: ймовірна загроза безпеці
 neterror-blocked-by-policy-page-title = Заблокована сторінка
 neterror-captive-portal-page-title = Вхід в мережу
 neterror-dns-not-found-title = Сервер не знайдено
@@ -136,7 +136,7 @@ neterror-inadequate-security-code = Код помилки: NS_ERROR_NET_INADEQUA
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Ваш комп'ютер вважає, що це { DATETIME($now, dateStyle: "medium") }, тому { -brand-short-name } не може встановити захищене з'єднання. Для відвідання <b>{ $hostname }</b>, оновіть системні налаштування дати, часу та часового поясу, після чого оновіть <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Неможливо відобразити сторінку, яку ви намагаєтесь переглянути, тому що виявлено помилку мережевого протоколу.
-neterror-network-protocol-error-contact-website = Зв'яжіться з власниками вебсайту, щоб повідомити їх про цю проблему.
+neterror-network-protocol-error-contact-website = Будь ласка, зв'яжіться з власниками вебсайту і повідомте їх про цю проблему.
 certerror-expired-cert-second-para = Схоже, що термін дії сертифіката вебсайту завершився, що не дозволяє { -brand-short-name } встановити безпечне з'єднання. Якщо ви відвідаєте цей сайт, зловмисники можуть викрасти інформацію, наприклад, паролі, адреси електронної пошти чи дані кредитних карток.
 certerror-expired-cert-sts-second-para = Схоже, що термін дії сертифіката вебсайту завершився, що не дозволяє { -brand-short-name } встановити безпечне з'єднання.
 certerror-what-can-you-do-about-it-title = Як ви можете це виправити?

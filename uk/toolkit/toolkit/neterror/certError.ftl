@@ -171,7 +171,7 @@ blockedByPolicy-title = Заблокована сторінка
 clockSkewError-title = Годинник вашого комп'ютера налаштовано неправильно
 networkProtocolError-title = Помилка мережевого протоколу
 nssBadCert-title = Обережно: Попереду ймовірна загроза безпеки
-nssBadCert-sts-title = З'єднання не встановлено: Ймовірна загроза безпеки
+nssBadCert-sts-title = З'єднання не встановлено: ймовірна загроза безпеці
 certerror-mitm-title = Програмне забезпечення не дозволяє { -brand-short-name } безпечно з'єднатися з цим сайтом
 
 ## Felt Privacy V1 Strings
