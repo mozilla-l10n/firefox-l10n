@@ -163,6 +163,15 @@ about-logins-edit-login-os-auth-dialog-message2-macosx = آلشت رزم زفت 
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = رزم زفت وابیڌه ن وادیاری بیارین
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = لف گیری رزم زفت وابیڌه
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = و در کشیڌن نوما منتوری وو رزما زفت وابیڌه
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = و در کشیڌن رزما زفت وابیڌه
 
 ## Primary Password notification
 
@@ -179,6 +188,8 @@ about-logins-confirm-remove-dialog-title = پاک کردن ای و من ٱووڌ
 confirm-delete-dialog-message = ای کار وورگندنی نؽ.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = رزم پاک بۊ؟
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = ایسا نترین ای کاری ک ٱنجوم داڌین ن لقو کۊنین وو وورگرتین.
 about-logins-confirm-remove-dialog-confirm-button = پاک کردن
 
 ##
