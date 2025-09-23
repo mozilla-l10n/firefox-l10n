@@ -196,6 +196,10 @@ migration-safari-password-import-step1 = En el Safari, obriu el menú «Safari»
 migration-safari-password-import-step2 = Seleccioneu el botó <img data-l10n-name="safari-icon-3dots"/> i trieu «Exporta totes les contrasenyes»
 migration-safari-password-import-step3 = Deseu el fitxer de contrasenyes
 migration-safari-password-import-step4 = Utilitzeu «Selecciona el fitxer» a continuació per a triar el fitxer de contrasenyes que heu desat
+migration-chrome-windows-password-import-header = Com es poden importar contrasenyes des de Chrome
+migration-chrome-windows-password-import-steps-header = A Chrome:
+migration-chrome-windows-password-import-step1 = Obriu el menú principal <img data-l10n-name="chrome-icon-3dots"/> i aneu a Contrasenyes i Emplenament automàtic > Gestor de contrasenyes de Google.
+migration-chrome-windows-password-import-step2 = Seleccioneu "Configuració" al menú.
 migration-manual-password-import-skip-button = Omet
 migration-manual-password-import-select-button = Selecciona el fitxer
 migration-safari-password-import-skip-button = Omet

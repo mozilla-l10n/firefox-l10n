@@ -240,3 +240,24 @@ link-preview-settings-key-points =
     .label = Permet que la IA llegeixi el principi de la pàgina i generi punts clau
 link-preview-settings-long-press =
     .label = Drecera: Feu clic i manteniu premut l'enllaç durant 1 segon
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Voleu veure més amb la IA?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } utilitza la IA per a llegir el principi de la pàgina i generar uns quants punts clau. Per a prioritzar la vostra privadesa, això passa al vostre dispositiu.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Novetat: Feu clic i manteniu premut qualsevol enllaç per a obtenir una vista prèvia
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Vegeu una descripció breu, el temps de lectura i més informació per decidir si val la pena obrir l'enllaç. També disponible fent clic amb el botó dret.
+# Header for the key points section
+link-preview-key-points-header = Punts clau
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Els punts clau es generen amb IA i poden tenir errors.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Configuració inicial • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Veureu els punts clau més de pressa la propera vegada.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Mostra una vista prèvia
+# Onboarding card Close button
+link-preview-onboarding-close = Tanca
