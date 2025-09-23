@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Додати вкладку до панелі завдань
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Вилучити вкладку з панелі завдань
+taskbar-tab-urlbar-button-show = Показувати дії для сторінки вебпрограми
+taskbar-tab-urlbar-button-hide = Приховати дії для сторінки вебпрограми
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

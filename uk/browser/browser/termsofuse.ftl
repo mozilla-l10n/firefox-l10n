@@ -6,7 +6,7 @@
 ## Existing User Terms of Use InfoBar
 
 #  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
-existing-user-tou-message = <strong>Оновлення</strong> Ми представили <a data-l10n-name="terms-of-use-link">Умови користування</a> та оновили наше <a data-l10n-name="privacy-notice-link">Положення про приватність</a> { -brand-short-name }. Знайдіть хвилинку, щоб ознайомитися з ними та прийняти.
+existing-user-tou-message = <strong>Оновлення</strong> Ми запровадили <a data-l10n-name="terms-of-use-link">Умови користування</a> та оновили наше <a data-l10n-name="privacy-notice-link">Положення про приватність</a> { -brand-short-name }. Знайдіть хвилинку, щоб ознайомитися з ними та прийняти.
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = Докладніше
 # Text for primary button
