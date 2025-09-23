@@ -115,6 +115,15 @@ fxa-adoption-passwords-primary-button-label = Registre
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Tingueu els vostres canals preferits a la barra de tasques
+taskbar-tabs-social-callout-subtitle = Inicieu les vostres xarxes socials com una aplicació en una finestra simplificada protegida pel { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Xategeu des de la barra de tasques
+taskbar-tabs-chat-callout-subtitle = Inicieu els vostres llocs de xat com una aplicació en una finestra simplificada protegida pel { -brand-short-name }.
+taskbar-tabs-email-callout-title = Tingueu el correu electrònic a la barra de tasques
+taskbar-tabs-email-callout-subtitle = Inicieu el vostre correu web com una aplicació en una finestra simplificada protegida pel { -brand-short-name }.
+taskbar-tabs-media-callout-title = Torneu a la transmissió des de la barra de tasques
+taskbar-tabs-media-callout-subtitle = Inicieu els vostres llocs de transmissió com una aplicació en una finestra simplificada protegida pel { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Afegiu aquest lloc a la barra de tasques
+taskbar-tabs-value-prop-callout-subtitle = Inicieu-lo a la seva pròpia finestra i en una interfície simplificada amb un sol clic.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

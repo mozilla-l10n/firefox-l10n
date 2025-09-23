@@ -170,6 +170,10 @@ genai-chatbot-contextual-subtitle = Xategeu i navegueu costat per costat quan af
 genai-chatbot-contextual-button = Trieu un bot de conversa
 genai-chatbot-summarize-title = Nou! Resumiu pàgines amb un sol clic
 genai-chatbot-summarize-button = Resumeix la pàgina
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Feu clic amb el botó dret al vostre bot de conversa d'IA a la barra lateral i trieu "Resumeix la pàgina".
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Obriu el bot de conversa d'IA a la barra lateral i trieu "Resumeix la pàgina" a la part inferior.
 genai-chatbot-summarize-footer-generic-subtitle = Afegiu un bot de conversa d'IA a la barra lateral del { -brand-short-name } per a resumir ràpidament les pàgines.
 
 ## Chatbot onboarding choices
@@ -229,3 +233,10 @@ link-preview-generation-retry = Torna-ho a provar
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Configuració de previsualització d'enllaços
+link-preview-settings-enable =
+    .label = Habilita les previsualitzacions d'enllaços
+    .description = Vegeu el títol de la pàgina, la descripció i més quan utilitzeu la drecera o feu clic amb el botó dret en un enllaç.
+link-preview-settings-key-points =
+    .label = Permet que la IA llegeixi el principi de la pàgina i generi punts clau
+link-preview-settings-long-press =
+    .label = Drecera: Feu clic i manteniu premut l'enllaç durant 1 segon
