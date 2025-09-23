@@ -209,6 +209,8 @@ contextual-manager-username-login-line =
 contextual-manager-password-login-line =
     .aria-label = ສຳເນົາລະຫັດຜ່ານ
     .title = ສຳເນົາລະຫັດຜ່ານ
+contextual-manager-edit-login-button = ແກ້ໄຂ
+    .tooltiptext = ແກ້ໄຂລະຫັດຜ່ານ
 contextual-manager-view-alert-heading =
     .heading = ເບິ່ງການແຈ້ງເຕືອນ
 contextual-manager-view-alert-button =
@@ -221,6 +223,14 @@ contextual-manager-view-alert-heading-2 =
             [1] ເບິ່ງການແຈ້ງເຕືອນ
            *[other] ເບິ່ງການແຈ້ງເຕືອນ
         }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] ທົບທວນຄືນການແຈ້ງເຕືອນ
+           *[other] ທົບທວນຄືນການແຈ້ງເຕືອນ
+        }
 contextual-manager-show-password-button =
     .aria-label = ສະແດງລະຫັດຜ່ານ
     .title = ສະແດງລະຫັດຜ່ານ
@@ -230,6 +240,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = ບໍ່ພົບລະຫັດຜ່ານ
+contextual-manager-passwords-no-passwords-found-message = ບໍ່ພົບລະຫັດຜ່ານ. ຄົ້ນຫາຄຳສັບອື່ນ ແລະ ລອງໃໝ່ອີກ.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
