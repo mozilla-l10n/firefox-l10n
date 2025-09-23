@@ -123,6 +123,9 @@ browser-main-private-suffix-for-content = Privát böngészés
 popups-infobar-dont-show-message2 =
     .label = Ne jelenjen meg ez az üzenet, ha a felugró ablakok vagy a harmadik féltől származó átirányítások blokkolva vannak
     .accesskey = N
+edit-popup-settings2 =
+    .label = Felugró ablakok és harmadik féltől származó átirányítási beállítások kezelése…
+    .accesskey = F
 
 ##
 
@@ -269,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Blokkolta a képernyőmegosztást ezen az oldalon.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Blokkolta az állandó adattárolást ezen az oldalon.
+urlbar-popup-blocked2 =
+    .tooltiptext = Blokkolta a felugró ablakokat és a harmadik féltől származó átirányításokat ezen az oldalon.
 urlbar-popup-blocked =
     .tooltiptext = Blokkolta a felugró ablakokat ezen az oldalon.
 urlbar-autoplay-media-blocked =
@@ -1176,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Felugró ablakok tiltása innen: { $uriHost }
     .accesskey = u
+popups-infobar-allow2 =
+    .label = Felugró ablakok és harmadik féltől származó átirányítások engedélyezése itt: { $uriHost }
+    .accesskey = e
 
 ##
 
@@ -1340,6 +1348,7 @@ firefox-relay-offer-why-to-use-relay = Biztonságos, könnyen használható masz
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Az e-mail-maszkjaira küldött levelek a(z) <strong>{ $useremail }</strong> címre lesznek továbbítva (hacsak nem dönt úgy, hogy letiltja őket).
 firefox-relay-offer-legal-notice = Az „E-mail-maszk használata” gombra kattintással elfogadja a <label data-l10n-name="tos-url">Szolgáltatási feltételeket</label> és az <label data-l10n-name="privacy-url">Adatvédelmi nyilatkozatot</label>.
+firefox-relay-offer-legal-notice-1 = A regisztrációval és az e-mail-maszk létrehozásával elfogadja a <label data-l10n-name="tos-url">Szolgáltatási feltételeket</label> és az <label data-l10n-name="privacy-url">Adatvédelmi nyilatkozatot</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1366,10 +1375,26 @@ popup-warning-message =
         [one] A { -brand-short-name } megakadályozta, hogy ez a webhely felugró ablakot nyisson meg.
        *[other] A { -brand-short-name } megakadályozta, hogy ez a webhely { $popupCount } felugró ablakot nyisson meg.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] A { -brand-short-name } megakadályozta, hogy a webhely átirányítsa.
+        [1] A { -brand-short-name } megakadályozta, hogy a webhely egy felugró ablakot nyisson meg és átirányítsa.
+        [one] A { -brand-short-name } megakadályozta, hogy a webhely egy felugró ablakot nyisson meg és átirányítsa.
+       *[other] A { -brand-short-name } megakadályozta, hogy a webhely { $popupCount } felugró ablakot nyisson meg és átirányítsa.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = A { -brand-short-name } megakadályozta, hogy ez a webhely több mint { $popupCount } felugró ablakot nyisson meg.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] A { -brand-short-name } megakadályozta, hogy a webhely több mint { $popupCount } felugró ablakot nyisson meg és átirányítsa.
+       *[other] A { -brand-short-name } megakadályozta, hogy a webhely több mint { $popupCount } felugró ablakot nyisson meg és átirányítsa.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1385,6 +1410,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = „{ $popupURI }” megjelenítése
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = „{ $redirectURI }” megjelenítése
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
