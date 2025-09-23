@@ -382,8 +382,8 @@ pdfjs-free-text2 =
 pdfjs-editor-comments-sidebar-title =
     { $count ->
         [one] Комментарий
-        [few] Комментария
-       *[many] Комментариев
+        [few] Комментарии
+       *[many] Комментарии
     }
 pdfjs-editor-comments-sidebar-close-button =
     .title = Закрыть боковую панель
