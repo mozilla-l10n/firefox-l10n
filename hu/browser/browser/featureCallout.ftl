@@ -115,6 +115,11 @@ fxa-adoption-passwords-primary-button-label = Regisztráció
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Tartsa a kedvenc hírforrásait a tálcán
+taskbar-tabs-social-callout-subtitle = Indítsa el közösségi oldalait alkalmazásként egy { -brand-short-name } által védett, letisztult ablakban.
+taskbar-tabs-chat-callout-title = Csevegés a tálcáról
+taskbar-tabs-chat-callout-subtitle = Indítsa el csevegőoldalait alkalmazásként egy { -brand-short-name } által védett, letisztult ablakban.
+taskbar-tabs-email-callout-title = Tartsa a postafiókját a tálcán
+taskbar-tabs-email-callout-subtitle = Indítsa el webes levelezését alkalmazásként egy { -brand-short-name } által védett, letisztult ablakban.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
