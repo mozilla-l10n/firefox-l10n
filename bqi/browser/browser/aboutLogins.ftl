@@ -101,6 +101,11 @@ about-logins-list-section-today = ٱمرۊز
 about-logins-list-section-yesterday = دۊش
 about-logins-list-section-week = 7 رۊز گوڌشته
 
+## Introduction screen
+
+about-logins-login-intro-heading-logged-in = هیچ و من ٱووڌن هوم گوم سازی وابیڌه ای نجۊرست.
+about-logins-login-intro-heading-message = رزماتووݩ ن من ی جاگه ٱمن زفت کۊنین
+
 ## Login
 
 login-item-new-login-title = وورکل و من ٱووڌن نۊ
@@ -108,6 +113,7 @@ login-item-new-login-title = وورکل و من ٱووڌن نۊ
 about-logins-login-item-new-login-title = ٱووردن رزم
 login-item-edit-button = آلشت
 about-logins-login-item-remove-button = پاک کردن
+login-item-origin-label = نشۊوی وبگه
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = نوم منتوری
