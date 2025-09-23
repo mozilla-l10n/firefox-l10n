@@ -9,6 +9,13 @@ urlbar-result-menu-learn-more =
     .label = قلوه دووسته بۊین
     .accesskey = L
 
+##
+
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = آلشت ای نشووک ({ $shortcut })
+
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
@@ -20,6 +27,10 @@ quickactions-cmd-print = چاپ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = وانۊ کردن { -brand-short-name }
 quickactions-cmd-refresh = وانۊ کردن
+
+## Bookmark Panel
+
+bookmarks-edit-bookmark = آلشت نشووک
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

@@ -108,3 +108,8 @@ appmenu-about =
 appmenu-get-help =
     .label = گرؽڌن هیاری
     .accesskey = h
+
+## Profiles panel
+
+appmenu-edit-profile =
+    .aria-label = آلشت پوروفایل

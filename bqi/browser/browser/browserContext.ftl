@@ -62,6 +62,25 @@ toolbar-button-account =
     .label = هساو منتوری
     .tooltiptext = هساو منتوری
 
+## Simple menu items
+
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = آلشت نشووک
+    .accesskey = m
+main-context-menu-edit-bookmark =
+    .aria-label = آلشت نشووک
+    .accesskey = m
+    .tooltiptext = آلشت نشووک
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = آلشت نشووک
+    .accesskey = m
+    .tooltiptext = آلشت نشووک ({ $shortcut })
+
 ## Media (video/audio) controls
 ##
 ## The accesskey for "Play" and "Pause" are the
