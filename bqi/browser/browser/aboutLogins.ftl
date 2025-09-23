@@ -114,6 +114,8 @@ about-logins-login-item-new-login-title = ٱووردن رزم
 login-item-edit-button = آلشت
 about-logins-login-item-remove-button = پاک کردن
 login-item-origin-label = نشۊوی وبگه
+login-item-tooltip-message = موتمعن بۊین ک ای نشۊوی وا نشۊوی دییق وبگهی ک و منس ٱوۊڌین ی جۊر هڌ.
+about-logins-origin-tooltip2 = نشۊوی کامل ن بزنین وو موتمعن بۊین وا جایی ک و منس ٱوۊڌین دییق ی جۊر بۊ.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = نوم منتوری
@@ -147,6 +149,20 @@ login-item-timeline-action-used = و کار گرؽڌه من
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = آلشت دووسمندیا و من ٱووڌن زفت وابیڌه
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = آلشت رزم زفت وابیڌه
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = رزم زفت وابیڌه ن وادیاری بیارین
 
 ## Primary Password notification
 
