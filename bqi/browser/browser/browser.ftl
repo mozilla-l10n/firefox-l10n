@@ -35,6 +35,12 @@ bookmark-panel-show-editor-checkbox =
     .label = نشووݩ داڌن آلشتگر مجال زفت کردن
     .accesskey = S
 
+## URL Bar
+
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = وردنی:
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
@@ -89,6 +95,12 @@ toolbar-settings-button =
 ## EME notification panel
 
 eme-notifications-drm-content-playing-manage = دؽوۉداری سامووا
+
+## Unified extensions (toolbar) button
+
+unified-extensions-button =
+    .label = وردنی یل
+    .tooltiptext = وردنی یل
 
 ## The urlbar trust panel
 

@@ -34,6 +34,11 @@ newtab-menu-edit-topsites = آلشت
 newtab-privacy-modal-button-done = ٱنجوم وابی
 newtab-privacy-modal-button-manage = دؽوۉداری سامووا موئتوا هؽزگر
 
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
+newtab-section-menu-manage-webext = دؽوۉداری وردنی
+
 ## Pocket Content Section.
 
 newtab-pocket-learn-more = قلوه دووسته بۊین

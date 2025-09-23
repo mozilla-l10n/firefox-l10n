@@ -25,6 +25,9 @@ menu-edit-bookmark =
 
 ## Tools Menu
 
+menu-tools-extensions-and-themes =
+    .label = وردنی یل وو تما
+    .accesskey = E
 menu-settings =
     .label = سامووا
     .accesskey =

@@ -8,6 +8,11 @@
 ### widowed word, so test on various window sizes if you also want this.
 
 
+## Custom Return To AMO onboarding strings
+
+return-to-amo-add-extension-label = ازاف کردن وردنی
+return-to-amo-extension-install-complete-label = وردنی پۊرست
+
 ## Multistage onboarding strings (about:welcome pages)
 
 
