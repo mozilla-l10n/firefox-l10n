@@ -589,6 +589,15 @@ pdfjs-editor-add-signature-cancel-button = ยกเลิก
 pdfjs-editor-add-signature-add-button = เพิ่ม
 pdfjs-editor-edit-signature-update-button = อัปเดต
 
+## Comment popup
+
+pdfjs-editor-edit-comment-popup-button-label = แก้ไขความคิดเห็น
+pdfjs-editor-edit-comment-popup-button =
+    .title = แก้ไขความคิดเห็น
+pdfjs-editor-delete-comment-popup-button-label = เอาความคิดเห็นออก
+pdfjs-editor-delete-comment-popup-button =
+    .title = เอาความคิดเห็นออก
+
 ##  Edit a comment dialog
 
 pdfjs-editor-edit-comment-actions-button-label = การกระทำ
@@ -603,6 +612,14 @@ pdfjs-editor-edit-comment-manager-text-input =
     .placeholder = ป้อนความคิดเห็นของคุณ
 pdfjs-editor-edit-comment-manager-cancel-button = ยกเลิก
 pdfjs-editor-edit-comment-manager-save-button = บันทึก
+# An existing comment is edited
+pdfjs-editor-edit-comment-dialog-title-when-editing = แก้ไขความคิดเห็น
+# No existing comment
+pdfjs-editor-edit-comment-dialog-title-when-adding = เพิ่มความคิดเห็น
+pdfjs-editor-edit-comment-dialog-text-input =
+    .placeholder = เริ่มพิมพ์…
+pdfjs-editor-edit-comment-dialog-cancel-button = ยกเลิก
+pdfjs-editor-edit-comment-dialog-save-button = บันทึก
 
 ## Edit a comment button in the editor toolbar
 
