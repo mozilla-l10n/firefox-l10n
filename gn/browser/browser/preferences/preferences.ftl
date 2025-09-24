@@ -1279,6 +1279,10 @@ content-blocking-warning-learn-how = Mba’éichapa eikuaáta
 content-blocking-baseline-exceptions-3 =
     .label = Emyatyrõ ñanduti rogue (ñemoñe’ẽmbyre)
     .description = Oipytyvõ henyhẽ hag̃ua ñanduti rogue ha tembiapoite ojokóvo mba’eporurã añoite orekokuaáva tapykuehoha. Omyatyrõ opaichaguanunga apañuái.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Emyatyrõ apañuái tendagua
+    .description = Erujey mba’eporu ikatúva ta’ãngamýi jehaipyre térã je’epyre vore, emboty’óvo mba’eporu orekóva tapykuehoha apopyvusu. Kóva omoĩporãkuaa apañuái ñanduti roguépe, hákatu ome’ẽkuaa ñemo’ã sa’imi. Ojeporuva’erã ambue moĩporã ndive umi apañuái ivaivévape g̃uarã.
 content-blocking-baseline-exceptions =
     .label = Emoneĩ { -brand-short-name } toku’e ijehegui tekotevẽva emboykekuaa hag̃ua ñanduti rogue jejavy guasu.
 content-blocking-convenience-exceptions =
