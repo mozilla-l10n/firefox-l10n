@@ -8,4 +8,7 @@
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-title = ی قرد ز وردنی یل موجاز نؽڌن
+unified-extensions-mb-quarantined-domain-learn-more = قلوه دووسته بۊین
+    .aria-label = قلوه دووسته بۊین: ی قرد ز وردنی یل موجاز نؽڌن
 unified-extensions-mb-about-addons-link = راو و سامووا وردنی

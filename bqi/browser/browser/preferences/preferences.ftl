@@ -15,6 +15,7 @@ settings-page-title = سامووا
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = جوستن من سامووا
+addons-button-label = وردنی یل وو تما
 
 ## General Section
 
