@@ -377,3 +377,5 @@ windows-10-eos-feature-toast-dismiss-button = Елемеу
 etp-strict-exceptions-infobar-learn-more = Көбірек білу
 etp-strict-exceptions-infobar-button = Түзетулерді іске асыру
     .accesskey = а
+etp-strict-exceptions-infobar-not-now = Қазір емес
+    .accesskey = м

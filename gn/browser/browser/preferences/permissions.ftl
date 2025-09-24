@@ -179,6 +179,8 @@ permissions-site-camera-disable-desc = Kóva omboykéta ñanduti renda noĩriva 
 permissions-site-localhost-window =
     .title = Ñemobheko – Tembiporu’i ha mba’e’oka rehegua
     .style = { permissions-window2.style }
+permissions-site-localhost-disable-label =
+    .label = ¿Ejoko mba’ejerure pyahu tembiporu’ípe jeikerã ha mba’eporurã ko mba’e’okápe?
 
 ## Site Permissions - Local network
 
