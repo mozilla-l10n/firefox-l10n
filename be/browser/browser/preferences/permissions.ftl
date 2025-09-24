@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Вы можаце выключыць рэжым толькі HTTPS для пэўных вэб-сайтаў. { -brand-short-name } не будзе спрабаваць пераключыць злучэнне на бяспечны HTTPS для гэтых сайтаў. Выключэнні не распаўсюджваюцца на прыватныя вокны.
 permissions-exceptions-https-only-desc2 = Вы можаце выключыць рэжым толькі HTTPS для пэўных вэб-сайтаў. { -brand-short-name } не будзе спрабаваць пераключыць злучэнне на бяспечны HTTPS для гэтых сайтаў.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Дазволеныя сайты — выплыўныя вокны і староннія перанакіраванні
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
