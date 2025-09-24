@@ -122,6 +122,45 @@ unified-extensions-button =
     .label = وردنی یل
     .tooltiptext = وردنی یل
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-permissions-needed =
+    .label = وردنی یل
+    .tooltiptext =
+        وردنی یل
+        موجوزایی ک اخو
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-quarantined =
+    .label = وردنی یل
+    .tooltiptext =
+        وردنی یل
+        ی قرد ز وردنی یل موجاز نؽڌن
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = وردنی یل
+    .tooltiptext =
+        وردنی یل
+        ی قرد ز وردنی یل قیرفعال هڌن
+
+## Add-on Pop-up Notifications
+
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = بهلین وردنی من نیمدری سیخومی ر بوۊفته
+    .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = داده یل فنی وو تعامولی ن وا برنومه نویس وردنی یک رسۊوی کۊنین
+    .accesskey = S
+
 ## The urlbar trust panel
 
 trustpanel-privacy-link = سامووا هریم سیخومی
