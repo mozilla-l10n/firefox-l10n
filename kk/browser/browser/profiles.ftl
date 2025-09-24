@@ -124,8 +124,14 @@ profiles-red-theme = Қызыл
 profiles-red-theme-title =
     .title = Қызыл теманы іске асыру
 profiles-pink-theme = Қызғылт
+profiles-pink-theme-title =
+    .title = Қызғылт теманы іске асыру
 profiles-purple-theme = Қызыл көк
+profiles-purple-theme-title =
+    .title = Қызылкүлгін теманы іске асыру
 profiles-violet-theme = Күлгін
+profiles-violet-theme-title =
+    .title = Күлгін теманы іске асыру
 profiles-blue-theme = Көк
 profiles-blue-theme-title =
     .title = Көк теманы іске асыру
@@ -138,12 +144,21 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Таңдауыңызша теманы іске асыру
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Баптауларды қарау
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Елемеу
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Кітап
 briefcase-avatar-alt =
     .alt = Портфель
+picture-avatar-alt =
+    .alt = Сурет
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Кенеп
@@ -160,6 +175,8 @@ heart-avatar-alt =
     .alt = Жүрек
 heart-rate-avatar-alt =
     .alt = Жүрек соғу жиілігі
+clock-avatar-alt =
+    .alt = Сағат
 history-avatar-alt =
     .alt = Тарих
 leaf-avatar-alt =
@@ -184,6 +201,8 @@ present-avatar-alt =
     .alt = Сыйлық
 shopping-avatar-alt =
     .alt = Кәрзеңке
+soccer-ball-avatar-alt =
+    .alt = Футбол добы
 soccer-avatar-alt =
     .alt = Футбол
 sparkle-single-avatar-alt =
@@ -236,6 +255,7 @@ plane-avatar = Ұшақ
 # Present refers to a gift box, not the current time period
 present-avatar = Сыйлық
 shopping-avatar = Кәрзеңке
+soccer-ball-avatar = Футбол добы
 soccer-avatar = Футбол
 sparkle-single-avatar = Шоқ
 star-avatar = Жұлдызша

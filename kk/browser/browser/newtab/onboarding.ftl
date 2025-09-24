@@ -475,3 +475,4 @@ desktop-to-mobile-qr-code-alt =
 restored-from-backup-success-with-checklist-primary-button = Сақтау және жалғастыру
 restored-from-backup-success-with-checklist-secondary-button = Бұл қадамды аттап кету
 restored-from-backup-success-no-checklist-primary-button = Жалғастыру
+restored-from-backup-error-primary-button = Жабу
