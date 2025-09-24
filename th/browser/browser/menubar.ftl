@@ -252,6 +252,9 @@ menu-profiles-new-profile =
 #  $profileName (String): the name of the users profile
 menu-profiles-current =
     .label = { $profileName } (ปัจจุบัน)
+menu-profiles-menu =
+    .label = โปรไฟล์
+    .accesskey = ป
 
 ## Tools Menu
 

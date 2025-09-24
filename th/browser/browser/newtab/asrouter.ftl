@@ -401,3 +401,5 @@ etp-strict-exceptions-infobar-message = <strong>การป้องกัน�
 etp-strict-exceptions-infobar-learn-more = เรียนรู้เพิ่มเติม
 etp-strict-exceptions-infobar-button = ปรับใช้การแก้ไข
     .accesskey = ป
+etp-strict-exceptions-infobar-not-now = ยังไม่ทำตอนนี้
+    .accesskey = ม

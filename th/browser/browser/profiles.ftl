@@ -112,9 +112,17 @@ profiles-terracotta-theme-2 = แดงอิฐ
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = เขียวมอส
 profiles-gray-theme = เทา
+profiles-gray-theme-title =
+    .title = นำชุดตกแต่งสีเทาไปใช้
 profiles-yellow-theme = เหลือง
+profiles-yellow-theme-title =
+    .title = นำชุดตกแต่งสีเหลืองไปใช้
 profiles-orange-theme = ส้ม
+profiles-orange-theme-title =
+    .title = นำชุดตกแต่งสีส้มไปใช้
 profiles-red-theme = แดง
+profiles-red-theme-title =
+    .title = นำชุดตกแต่งสีแดงไปใช้
 profiles-pink-theme = ชมพู
 profiles-purple-theme = ม่วงเพอร์เพิล
 profiles-violet-theme = ม่วงไวโอเล็ต

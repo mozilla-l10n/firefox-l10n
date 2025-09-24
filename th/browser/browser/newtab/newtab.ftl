@@ -320,6 +320,7 @@ newtab-custom-stories-toggle =
     .description = เนื้อหาคัดสรรพิเศษโดยผลิตภัณฑ์ตระกูล { -brand-product-name }
 newtab-custom-stories-personalized-toggle =
     .label = เรื่องราว
+newtab-custom-stories-personalized-checkbox-label = เรื่องราวที่ปรับแต่งตามกิจกรรมของคุณ
 newtab-custom-pocket-sponsored = เรื่องราวที่ได้รับการสนับสนุน
 newtab-custom-pocket-show-recent-saves = แสดงบันทึกล่าสุด
 newtab-custom-recent-title = กิจกรรมล่าสุด
@@ -355,6 +356,7 @@ newtab-wallpaper-custom-color = เลือกสี
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = ภาพมีขนาดเกินขีดจำกัดขนาดไฟล์ที่ { $file_size } MB โปรดลองอัปโหลดไฟล์ที่มีขนาดเล็กกว่านี้
+newtab-wallpaper-error-upload-file-type = เราไม่สามารถอัปโหลดไฟล์ของคุณได้ โปรดลองอีกครั้งด้วยไฟล์ภาพ
 newtab-wallpaper-error-file-type = เราไม่สามารถอัปโหลดไฟล์ของคุณได้ โปรดลองอีกครั้งด้วยชนิดไฟล์ที่ต่างจากนี้
 newtab-wallpaper-light-red-panda = แพนด้าแดง
 newtab-wallpaper-light-mountain = ภูเขาสีขาว

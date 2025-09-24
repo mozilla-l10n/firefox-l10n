@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = คุณสามารถปิดโหมด HTTPS-Only สำหรับแต่ละเว็บไซต์ได้ { -brand-short-name } จะไม่พยายามอัปเกรดการเชื่อมต่อเป็น HTTPS แบบปลอดภัยสำหรับไซต์เหล่านั้น ข้อยกเว้นจะไม่นำไปใช้กับหน้าต่างส่วนตัว
 permissions-exceptions-https-only-desc2 = คุณสามารถปิดโหมด HTTPS-Only สำหรับแต่ละเว็บไซต์ได้ { -brand-short-name } จะไม่พยายามอัปเกรดการเชื่อมต่อเป็น HTTPS แบบปลอดภัยสำหรับไซต์เหล่านั้น
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = เว็บไซต์ที่อนุญาต - ป๊อปอัปและการเปลี่ยนทางจากบุคคลที่สาม
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตให้เปิดหน้าต่างป๊อปอัปและเปลี่ยนเส้นทางด้วยเฟรมจากบุคคลที่สามได้
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

@@ -9,8 +9,12 @@
 # The entry name is the label on the desktop icon, among other things.
 desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
+desktop-entry-comment-1 = เบราว์เซอร์ที่รวดเร็วและเป็นส่วนตัว
+# The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = เรียกดูเวิลด์ไวด์เว็บ
 desktop-entry-generic-name = เว็บเบราว์เซอร์
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name-1 = { -brand-full-name }
 # Combine Name and GenericName. This string is specific to GNOME.
 desktop-entry-x-gnome-full-name = เว็บเบราว์เซอร์ { -brand-shortcut-name }
 # Keywords are search terms used to find this application.

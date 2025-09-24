@@ -477,3 +477,22 @@ dismiss-button-label = ปิด
 sync-to-mobile-button-label = ซิงค์กับมือถือ
 desktop-to-mobile-qr-code-alt =
     .aria-label = คิวอาร์โค้ดสำหรับดาวน์โหลด { -brand-product-name } สำหรับมือถือ
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = เรียกคืนจากข้อมูลสำรอง
+restore-from-backup-title = มาทำให้ { -brand-short-name } กลับมาเป็นแบบที่คุณชอบกันเถอะ
+restore-from-backup-subtitle = กู้คืนที่คั่นหน้า ประวัติ และข้อมูลอื่นๆ ทั้งหมดของคุณเพื่อกลับมาท่องเว็บได้อีกครั้ง
+restore-from-backup-secondary-button = ไม่ต้องเรียกคืน
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = เรากลับมาแล้ว! การเรียกคืนข้อมูลใน { -brand-short-name } ของคุณเสร็จเรียบร้อย
+restored-from-backup-success-with-checklist-subtitle = ต้องการให้เบราว์เซอร์ที่เน้นความเป็นส่วนตัวที่คุณชื่นชอบอยู่ห่างออกไปเพียงคลิกเดียวใช่ไหม?
+restored-from-backup-success-no-checklist-subtitle = คุณสามารถเปิดการสำรองข้อมูลสำหรับอุปกรณ์นี้ได้ใน<a data-l10n-name="settings">การตั้งค่า</a>
+restored-from-backup-success-with-checklist-primary-button = บันทึกและดำเนินการต่อ
+restored-from-backup-success-with-checklist-secondary-button = ข้ามขั้นตอนนี้
+restored-from-backup-success-no-checklist-primary-button = ดำเนินการต่อ
+restored-from-backup-error-title = อืม มีปัญหาเกิดขึ้นกับไฟล์ข้อมูลสำรองของคุณ
+restored-from-backup-error-subtitle = หากคุณมีไฟล์ข้อมูลสำรอง { -brand-short-name } ไฟล์อื่น ให้ลองเรียกคืนจากไฟล์นั้น <a data-l10n-name="restore-problems">ยังคงเจอปัญหาอยู่ใช่ไหม?</a>
+restored-from-backup-error-primary-button = ปิด

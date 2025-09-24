@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = จ
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = ปกป้องที่อยู่อีเมลของคุณ:
+firefox-relay-opt-in-title-2 = รับตัวปกปิดอีเมลฟรี
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = ใช้ตัวปกปิดอีเมลของ { -relay-brand-name }
 firefox-relay-use-mask-title-1 = ใช้ตัวปกปิดอีเมล
+firefox-relay-opt-in-subtitle-2 = ป้องกันกล่องจดหมายของคุณจากสแปม
 firefox-relay-use-mask-title = ใช้ตัวปกปิดอีเมลของ { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = ป้องกันสแปมด้วยตัวปกปิดอีเมลฟรี
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = รับตัวปกปิดอีเมลฟรี
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = ป้องกันกล่องจดหมายของคุณจากสแปมโดยใช้<label data-l10n-name="firefox-relay-learn-more-url">ตัวปกปิดอีเมล</label>ฟรีเพื่อซ่อนที่อยู่จริงของคุณ อีเมลจาก<label data-l10n-name="firefox-fxa-and-relay-offer-domain">ไซต์นี้</label>จะยังคงเข้ามายังกล่องจดหมายของคุณ แต่อีเมลของคุณจะถูกซ่อนไว้
 firefox-relay-and-fxa-popup-notification-first-sentence = ป้องกันกล่องจดหมายของคุณจากสแปมโดยใช้<label data-l10n-name="firefox-relay-learn-more-url">ตัวปกปิดอีเมล { -relay-brand-name }</label> ฟรีเพื่อซ่อนที่อยู่จริงของคุณ อีเมลจาก<label data-l10n-name="firefox-fxa-and-relay-offer-domain">ไซต์นี้</label>จะยังคงเข้ามายังกล่องจดหมายของคุณ แต่อีเมลของคุณจะถูกซ่อนไว้
+firefox-relay-offer-why-to-use-relay-1 = ป้องกันกล่องจดหมายของคุณจากสแปมโดยใช้<label data-l10n-name="firefox-relay-learn-more-url">ตัวปกปิดอีเมล { -relay-brand-name }</label> ฟรีเพื่อซ่อนที่อยู่จริงของคุณ อีเมลจาก<label data-l10n-name="firefox-fxa-and-relay-offer-domain">ไซต์นี้</label>จะยังคงเข้ามายังกล่องจดหมายของคุณ แต่อีเมลของคุณจะถูกซ่อนไว้
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = ขั้นตอนแรก ให้ลงทะเบียนหรือลงชื่อเข้าใช้บัญชีของคุณเพื่อใช้ตัวปกปิดอีเมล
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = ลงทะเบียน

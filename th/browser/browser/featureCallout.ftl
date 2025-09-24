@@ -123,6 +123,7 @@ taskbar-tabs-email-callout-subtitle = เปิดเว็บเมลของ
 taskbar-tabs-media-callout-title = กลับมาสตรีมต่อได้จากแถบงานของคุณ
 taskbar-tabs-media-callout-subtitle = เปิดไซต์สตรีมมิ่งของคุณให้เหมือนแอปในหน้าต่างที่เรียบง่ายและปลอดภัยด้วย { -brand-short-name }
 taskbar-tabs-value-prop-callout-title = เพิ่มไซต์นี้ลงในแถบงานของคุณ
+taskbar-tabs-value-prop-callout-subtitle = เปิดไซต์ในหน้าต่างของตัวเองพร้อมส่วนติดต่อที่เรียบง่ายด้วยการคลิกเพียงครั้งเดียว
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -143,6 +144,10 @@ windows-10-eos-sync-tour-title-1 = เปิดแท็บเยอะไปไ
 windows-10-eos-sync-tour-subtitle-1 = ลากแท็บหนึ่งไปทับอีกแท็บหนึ่งเพื่อสร้างกลุ่ม และจัดระเบียบสิ่งต่าง ๆ ให้เรียบร้อย
 windows-10-eos-sync-tour-title-2 = เตรียมพร้อมสำหรับ Windows 11 ด้วยการจัดระเบียบ
 windows-10-eos-sync-tour-subtitle-2 = ซิงค์ที่คั่นหน้า รหัสผ่าน และการตั้งค่าของคุณ เพื่อสำรองข้อมูลก่อนที่คุณจะเปลี่ยนไปใช้ระบบใหม่
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = แสดงคำแนะนำน้อยลง
+windows-10-eos-sync-dismiss-button-label = ปิด
+windows-10-eos-sync-callout-primary-advance-button-label = ถัดไป
 
 ## Sidebar Strings
 
