@@ -338,3 +338,7 @@ soccer-ball-avatar-tooltip =
     .tooltiptext = นำรูปประจำตัวลูกฟุตบอลไปใช้
 sparkle-single-avatar-tooltip =
     .tooltiptext = นำรูปประจำตัวประกายดาวไปใช้
+star-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวดาวไปใช้
+video-game-controller-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวตัวควบคุมวิดีโอเกมไปใช้

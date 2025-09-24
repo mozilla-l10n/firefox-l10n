@@ -1398,14 +1398,14 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
-collection-header = การเก็บรวบรวมและใช้ข้อมูลของ { -brand-short-name }
-collection-header2 = การเก็บรวบรวมและใช้ข้อมูลของ { -brand-short-name }
+collection-header = การรวบรวมและใช้ข้อมูลของ { -brand-short-name }
+collection-header2 = การรวบรวมและใช้ข้อมูลของ { -brand-short-name }
     .searchkeywords = การวัดและส่งข้อมูลทางไกล
 preferences-collection-description = เราพยายามที่จะมอบทางเลือกให้กับคุณและรวบรวมข้อมูลอย่างน้อยที่สุดเท่าที่จำเป็นเพื่อปรับปรุง { -brand-product-name } ให้กับทุกคน
 preferences-collection-privacy-notice = ดูประกาศความเป็นส่วนตัว
 preferences-across-profiles = การตั้งค่าเหล่านี้จะมีผลกับโปรไฟล์ { -brand-product-name } ทุกอันบนอุปกรณ์นี้
 preferences-view-profiles = ดูโปรไฟล์ทั้งหมด
-collection-description = เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องให้บริการและปรับปรุง { -brand-short-name } สำหรับทุกคน เราขออนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ
+collection-description = เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องให้บริการและปรับปรุง { -brand-short-name } สำหรับทุกคน เราขออนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ
 collection-privacy-notice = ข้อกำหนดความเป็นส่วนตัว
 collection-health-report-telemetry-disabled = คุณจะไม่อนุญาตให้ { -vendor-short-name } เก็บข้อมูลทางเทคนิคและการโต้ตอบอีกต่อไป ข้อมูลที่ผ่านมาทั้งหมดจะถูกลบภายใน 30 วัน
 collection-health-report-telemetry-disabled-link = เรียนรู้เพิ่มเติม

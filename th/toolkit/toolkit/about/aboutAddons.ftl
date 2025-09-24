@@ -466,6 +466,8 @@ release-notes-loading = กำลังโหลด…
 release-notes-error = ขออภัย แต่เกิดข้อผิดพลาดในการโหลดบันทึกประจำรุ่น
 addon-permissions-heading = การอนุญาต
 addon-permissions-empty2 = ส่วนขยายนี้ไม่จำเป็นต้องขอสิทธิ์ใด
+addon-permissions-required-label = ที่จำเป็น:
+addon-permissions-optional-label = ที่เลือกได้:
 addon-permissions-empty = ส่วนขยายนี้ไม่จำเป็นต้องขอสิทธิ์ใด
 addon-permissions-required = สิทธิ์ที่ต้องการสำหรับฟังก์ชันการทำงานหลัก:
 addon-permissions-optional = สิทธิ์เผื่อเลือกสำหรับฟังก์ชันการทำงานเพิ่มเติม:
@@ -561,8 +563,10 @@ permissions-data-addon-button = การกำหนดสิทธิ์แล
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = ใช้โดยส่วนขยาย { $extensionName }
-addon-permissions-data-collection-heading = การเก็บรวบรวมข้อมูล
+addon-permissions-data-collection-heading = การรวบรวมข้อมูล
 addon-permissions-data-collection-empty = ผู้พัฒนาระบุว่าส่วนขยายนี้ไม่ต้องการการรวบรวมข้อมูล
+addon-data-collection-provided = ข้อมูลที่จัดเตรียมโดยผู้พัฒนาส่วนขยาย
+addon-data-collection-learnmore = เรียนรู้เพิ่มเติมเกี่ยวกับการรวบรวมข้อมูล
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
