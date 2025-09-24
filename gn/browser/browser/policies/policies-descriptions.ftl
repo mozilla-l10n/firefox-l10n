@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ejevy SameSite reko gu
 ##
 
 policy-LocalFileLinks = Emoneĩ ñanduti renda moha’eñopyrépe ojuajúvo marandurenda pypeguáva.
+policy-LocalNetworkAccess = Embojuruja térã eipe’a umi jehechajey ñandutípe jeikerã.
 policy-ManagedBookmarks = Emboheko peteĩ techaukaha rysýi iñangarekohára omoneĩ’ỹva poruhápe ñemoambue.
 policy-ManualAppUpdateOnly = Emoneĩ ñembohekopyahu po rupigua añoite ha ani emomarandu poruhárape ñembohekopyahu rehegua.
 policy-PrimaryPassword = Ejerure térã emboyke ñe’ẽñemi ñepyrũgua jeporu.
