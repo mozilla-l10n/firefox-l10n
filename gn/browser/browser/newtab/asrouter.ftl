@@ -368,9 +368,11 @@ windows-10-eos-sync-toast-secondary-label = Chemomandu’a ag̃ave
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } nahenyhẽi ipyahúpe ambue kundaháraicha. Upéva pe amombe’uséva.
 windows-10-eos-challenger-sync-callout-subtitle = Eñongatu jeývo tekorosãrã { -brand-product-name } rechaukaha ha ñe’ẽñemi, ndahasýi egueraha hag̃ua ne kundahára ambue mba’e’okápe.
+windows-10-eos-challenger-pin-callout-subtitle = Embojuaju { -brand-shorter-name } tembiaporã rupáre ikatu hag̃ua kundahára eiporavóva oĩ eikotevẽ jave.
 windows-10-eos-challenger-sync-primary-button = Ñongatu jo’a { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Papyñemi { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } ojoko apopyrã criptomoneda rehegua, ava ñandutieta jehapykueho ha poruhára jeikuaa.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Umi tapykuehoha ndohechakuaái imba’e’oka avei osegívo ñandutípe, ore noromoneĩri chupekuéra.
 windows-10-eos-sync-callout-privacy-screen-2-title = Emo’ã ñe’ẽñemi ha techaukaha eiporu hag̃ua ambue mba’e’okápe.
 windows-10-eos-sync-callout-privacy-info-button = Ehecha pe jejokopyre
 windows-10-eos-callout-addons-title = Eiporu moĩmbaha: hekopyahúva, iporã añetéva
