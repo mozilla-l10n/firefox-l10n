@@ -2,7 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
+cfr-doorhanger-extension-heading = وردنی پؽشنهاڌ بیڌه
+
+##
+
 cfr-doorhanger-extension-learn-more-link = قلوه دووسته بۊین
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
+cfr-doorhanger-extension-notification2 = پؽشنهاڌ
+    .tooltiptext = وردنی پؽشنهاڌی
+    .a11y-announcement = وردنی پؽشنهاڌی من دسرس هڌ
 
 ## Protections panel
 

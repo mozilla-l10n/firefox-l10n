@@ -26,3 +26,7 @@ onboarding-theme-primary-button-label = ٱنجوم وابی
 ## UI strings for the sidebar and vertical tabs
 
 onboarding-flair-text = نۊ!
+
+## New user onboarding checklist
+
+onboarding-checklist-extension = ازاف کردن ی وردنی
