@@ -124,11 +124,34 @@ profiles-red-theme = แดง
 profiles-red-theme-title =
     .title = นำชุดตกแต่งสีแดงไปใช้
 profiles-pink-theme = ชมพู
-profiles-purple-theme = ม่วงเพอร์เพิล
-profiles-violet-theme = ม่วงไวโอเล็ต
+profiles-pink-theme-title =
+    .title = นำชุดตกแต่งสีชมพูไปใช้
+profiles-purple-theme = ม่วงอุ่น
+profiles-purple-theme-title =
+    .title = นำชุดตกแต่งสีม่วงอุ่นไปใช้
+profiles-violet-theme = ม่วงเย็น
+profiles-violet-theme-title =
+    .title = นำชุดตกแต่งสีม่วงเย็นไปใช้
 profiles-blue-theme = น้ำเงิน
+profiles-blue-theme-title =
+    .title = นำชุดตกแต่งสีน้ำเงินไปใช้
 profiles-green-theme = เขียว
-profiles-cyan-theme = น้ำเงินเขียว
+profiles-green-theme-title =
+    .title = นำชุดตกแต่งสีเขียวไปใช้
+profiles-cyan-theme = ฟ้าอมเขียว
+profiles-cyan-theme-title =
+    .title = นำชุดตกแต่งสีฟ้าอมเขียวไปใช้
+profiles-custom-theme-title =
+    .title = นำชุดตกแต่งกำหนดเองไปใช้
+
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>เปลี่ยนการตั้งค่าการรวบรวมข้อมูลแล้ว</strong> การเปลี่ยนแปลงที่ทำในอีกโปรไฟล์หนึ่งจะนำไปใช้กับโปรไฟล์ทั้งหมดบนอุปกรณ์นี้
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = ดูการตั้งค่า
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = ปิด
 
 ## Alternative text for default profile icons
 
@@ -136,6 +159,8 @@ book-avatar-alt =
     .alt = หนังสือ
 briefcase-avatar-alt =
     .alt = กระเป๋าเอกสาร
+picture-avatar-alt =
+    .alt = รูปภาพ
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = ผ้าใบ
@@ -152,6 +177,8 @@ heart-avatar-alt =
     .alt = หัวใจ
 heart-rate-avatar-alt =
     .alt = คลื่นหัวใจ
+clock-avatar-alt =
+    .alt = นาฬิกา
 history-avatar-alt =
     .alt = ประวัติศาสตร์
 leaf-avatar-alt =
@@ -176,6 +203,8 @@ present-avatar-alt =
     .alt = ของขวัญ
 shopping-avatar-alt =
     .alt = รถเข็นซื้อของ
+soccer-ball-avatar-alt =
+    .alt = ลูกฟุตบอล
 soccer-avatar-alt =
     .alt = ฟุตบอล
 sparkle-single-avatar-alt =
@@ -186,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = ตัวควบคุมวิดีโอเกม
 custom-avatar-alt =
     .alt = อวตารกำหนดเอง
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = ลูกโลก
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = favicon เริ่มต้น
@@ -201,6 +233,7 @@ bike-avatar-alt =
 
 book-avatar = หนังสือ
 briefcase-avatar = กระเป๋าเอกสาร
+clock-avatar = นาฬิกา
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = ผ้าใบ
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -212,6 +245,8 @@ default-favicon-avatar = favicon เริ่มต้น
 diamond-avatar = เพชร
 flower-avatar = ดอกไม้
 folder-avatar = โฟลเดอร์
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = ลูกโลก
 hammer-avatar = ค้อน
 heart-avatar = หัวใจ
 heart-rate-avatar = คลื่นหัวใจ
@@ -224,10 +259,12 @@ message-avatar = ข้อความ
 musical-note-avatar = โน้ตดนตรี
 palette-avatar = จานสี
 paw-print-avatar = รอยเท้า
+picture-avatar = รูปภาพ
 plane-avatar = เครื่องบิน
 # Present refers to a gift box, not the current time period
 present-avatar = ของขวัญ
 shopping-avatar = รถเข็นซื้อของ
+soccer-ball-avatar = ลูกฟุตบอล
 soccer-avatar = ฟุตบอล
 sparkle-single-avatar = ประกายดาว
 star-avatar = ดาว
@@ -242,3 +279,62 @@ custom-avatar-drag-handle =
     .aria-label = ปรับขนาดพื้นที่ครอบตัด
 barbell-avatar = บาร์เบล
 bike-avatar = จักรยาน
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวบาร์เบลไปใช้
+bike-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวจักรยานไปใช้
+book-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวหนังสือไปใช้
+briefcase-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวกระเป๋าเอกสารไปใช้
+picture-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวรูปภาพไปใช้
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวงานฝีมือไปใช้
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวลูกโลกไปใช้
+diamond-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวเพชรไปใช้
+flower-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวดอกไม้ไปใช้
+folder-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวโฟลเดอร์ไปใช้
+hammer-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวค้อนไปใช้
+heart-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวหัวใจไปใช้
+heart-rate-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวคลื่นหัวใจไปใช้
+clock-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวนาฬิกาไปใช้
+leaf-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวใบไม้ไปใช้
+lightbulb-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวหลอดไฟไปใช้
+makeup-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวเครื่องสำอางไปใช้
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวข้อความไปใช้
+musical-note-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวโน้ตดนตรีไปใช้
+palette-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวจานสีไปใช้
+paw-print-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวรอยเท้าไปใช้
+plane-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวเครื่องบินไปใช้
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวของขวัญไปใช้
+shopping-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวรถเข็นซื้อของไปใช้
+soccer-ball-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวลูกฟุตบอลไปใช้
+sparkle-single-avatar-tooltip =
+    .tooltiptext = นำรูปประจำตัวประกายดาวไปใช้
