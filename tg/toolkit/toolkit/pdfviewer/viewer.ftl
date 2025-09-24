@@ -386,6 +386,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Пӯшидани навори ҷонибӣ
     .aria-label = Пӯшидани навори ҷонибӣ
 pdfjs-editor-comments-sidebar-close-button-label = Пӯшидани навори ҷонибӣ
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Чизи диққатангезро мушоҳида кардед? Онро қайд кунед ва ба он шарҳ гузоред.
 pdfjs-editor-comments-sidebar-no-comments-link = Маълумоти бештар
 
 ## Alt-text dialog

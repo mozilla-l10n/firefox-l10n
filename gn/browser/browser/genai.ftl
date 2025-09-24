@@ -249,6 +249,8 @@ link-preview-optin-title = ¿Ehechave IA ndive?
 link-preview-optin-message = { -brand-short-name } oiporu IA omoñe’ẽ hag̃ua kuatiarogue ñepyrũ ha tomoheñói mba’e porã. Omo’ã hag̃ua nde rekorosã, ko’ãva oikopaite ne mba’e’okápe.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Ipyahu: Eikutu ha ejopy are juajuha hecha ypy ojekuaa hag̃ua
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Ehecháke ñemoha’ãnga’i, moñe’ẽrã ha ambue mba’emimi eikuaa hag̃ua embojuruja juajuha. Erekokuaa eikutúvo akatúa gotyo anguja’i.
 # Header for the key points section
 link-preview-key-points-header = Kyta ha’etéva
 # Disclaimer for AI-generated key points
