@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = การท่องเว็บแบบส่วนตัว
+popups-infobar-dont-show-message2 =
+    .label = ไม่ต้องแสดงข้อความนี้เมื่อป๊อปอัปหรือการเปลี่ยนเส้นทางจากบุคคลที่สามถูกปิดกั้น
+    .accesskey = ม
+edit-popup-settings2 =
+    .label = จัดการการตั้งค่าป๊อปอัปและการเปลี่ยนเส้นทางจากบุคคลที่สาม…
+    .accesskey = จ
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = คุณได้ปิดกั้นเว็บไซต์นี้จากการแบ่งปันหน้าจอของคุณ
 urlbar-persistent-storage-blocked =
     .tooltiptext = คุณได้ปิดกั้นที่เก็บข้อมูลถาวรสำหรับเว็บไซต์นี้
+urlbar-popup-blocked2 =
+    .tooltiptext = คุณได้ปิดกั้นป๊อปอัปและการเปลี่ยนเส้นทางจากบุคคลที่สามสำหรับเว็บไซต์นี้
 urlbar-popup-blocked =
     .tooltiptext = คุณได้ปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้
 urlbar-autoplay-media-blocked =
@@ -1158,6 +1166,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = ปิดกั้นป๊อปอัปสำหรับ { $uriHost }
     .accesskey = ป
+popups-infobar-allow2 =
+    .label = อนุญาตป๊อปอัปและการเปลี่ยนเส้นทางจากบุคคลที่สามสำหรับ { $uriHost }
+    .accesskey = ป
 
 ##
 
@@ -1322,6 +1333,7 @@ firefox-relay-offer-why-to-use-relay = ตัวปกปิดที่ปล�
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = อีเมลทั้งหมดที่ส่งไปยังตัวปกปิดอีเมลของคุณจะถูกส่งต่อไปยัง <strong>{ $useremail }</strong> (นอกจากคุณจะตัดสินใจปิดกั้นอีเมลเหล่านั้น)
 firefox-relay-offer-legal-notice = การคลิก “ใช้ตัวปกปิดอีเมล” ถือว่าคุณยอมรับ<label data-l10n-name="tos-url">เงื่อนไขการใช้บริการ</label>และ<label data-l10n-name="privacy-url">ข้อกำหนดความเป็นส่วนตัว</label>
+firefox-relay-offer-legal-notice-1 = เมื่อลงทะเบียนและสร้างตัวปกปิดอีเมล แสดงว่าคุณยอมรับ<label data-l10n-name="tos-url">เงื่อนไขการให้บริการ</label>และ<label data-l10n-name="privacy-url">ประกาศความเป็นส่วนตัว</label>
 
 ## Add-on Pop-up Notifications
 
@@ -1344,10 +1356,21 @@ popup-notification-addon-technical-and-interaction-checkbox =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message = { -brand-short-name } ได้ป้องกันไม่ให้ไซต์นี้เปิด { $popupCount } หน้าต่างป๊อปอัป
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } ได้ป้องกันไม่ให้ไซต์นี้เปลี่ยนเส้นทาง
+        [1] { -brand-short-name } ได้ป้องกันไม่ให้ไซต์นี้เปิดหน้าต่างป๊อปอัปและเปลี่ยนเส้นทาง
+       *[other] { -brand-short-name } ได้ป้องกันไม่ให้ไซต์นี้เปิด { $popupCount } หน้าต่างป๊อปอัปและเปลี่ยนเส้นทาง
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } ได้ป้องกันไม่ให้ไซต์นี้เปิดมากกว่า { $popupCount } หน้าต่างป๊อปอัป
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message = { -brand-short-name } ได้ป้องกันไม่ให้ไซต์นี้เปิดหน้าต่างป๊อปอัปมากกว่า { $popupCount } บานและเปลี่ยนเส้นทาง
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1363,6 +1386,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = แสดง “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = แสดง “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

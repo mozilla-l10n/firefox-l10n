@@ -127,9 +127,26 @@ profiles-pink-theme = Rosa
 profiles-pink-theme-title =
     .title = Àplica su tema rosa
 profiles-purple-theme = Tanadu
+profiles-purple-theme-title =
+    .title = Àplica su tema tanadu
 profiles-blue-theme = Asulu
+profiles-blue-theme-title =
+    .title = Àplica su tema asulu
 profiles-green-theme = Birde
+profiles-green-theme-title =
+    .title = Àplica su tema birde
 profiles-cyan-theme = Colore de chelu
+profiles-cyan-theme-title =
+    .title = Àplica su tema in colore de chelu
+profiles-custom-theme-title =
+    .title = Àplica su tema personalizadu
+
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Cunfiguratzione de vista
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Iscarta
 
 ## Alternative text for default profile icons
 
@@ -137,6 +154,8 @@ book-avatar-alt =
     .alt = Libru
 briefcase-avatar-alt =
     .alt = Valìgia
+picture-avatar-alt =
+    .alt = Cuadru
 flower-avatar-alt =
     .alt = Frore
 folder-avatar-alt =
@@ -145,28 +164,81 @@ hammer-avatar-alt =
     .alt = Marteddu
 heart-avatar-alt =
     .alt = Coro
+clock-avatar-alt =
+    .alt = Rellògiu
 history-avatar-alt =
     .alt = Cronologia
 leaf-avatar-alt =
     .alt = Fògia
+lightbulb-avatar-alt =
+    .alt = Lampadina
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Messàgiu
+musical-note-avatar-alt =
+    .alt = Nota musicale
+plane-avatar-alt =
+    .alt = Aparèchiu
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Regalu
 shopping-avatar-alt =
     .alt = Carrellu de s’ispesa
+soccer-ball-avatar-alt =
+    .alt = Bòcia de fùbalu
+soccer-avatar-alt =
+    .alt = Fùbalu
 star-avatar-alt =
     .alt = Isteddu
+video-game-controller-avatar-alt =
+    .alt = Cumandu de videogiogu
 custom-avatar-alt =
     .alt = Avatar personalizadu
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamante
+bike-avatar-alt =
+    .alt = Bitzicleta
 
 ## Tooltips for default avatar icons
 
 book-avatar = Libru
 briefcase-avatar = Valìgia
+clock-avatar = Rellògiu
+custom-avatar = Avatar personalizadu
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamante
 flower-avatar = Frore
+folder-avatar = Cartella
+hammer-avatar = Marteddu
 heart-avatar = Coro
+history-avatar = Cronologia
+leaf-avatar = Fògia
+lightbulb-avatar = Lampadina
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Messàgiu
+musical-note-avatar = Nota musicale
+picture-avatar = Cuadru
+plane-avatar = Aparèchiu
+# Present refers to a gift box, not the current time period
+present-avatar = Regalu
 shopping-avatar = Carrellu de s’ispesa
+soccer-ball-avatar = Bòcia de fùbalu
+soccer-avatar = Fùbalu
 star-avatar = Isteddu
+video-game-controller-avatar = Cumandu de videogiogu
+bike-avatar = Bitzicleta
 
 ## Tooltips for default avatar icons
 
+bike-avatar-tooltip =
+    .tooltiptext = Imprea sa bitzicleta comente avatar
+book-avatar-tooltip =
+    .tooltiptext = Imprea su libru comente avatar
+picture-avatar-tooltip =
+    .tooltiptext = Imprea su cuadru comente avatar
+diamond-avatar-tooltip =
+    .tooltiptext = Imprea su diamante comente avatar
 flower-avatar-tooltip =
     .tooltiptext = Imprea su frore comente avatar
 folder-avatar-tooltip =

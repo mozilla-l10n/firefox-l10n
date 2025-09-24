@@ -110,6 +110,10 @@ fxa-adoption-passwords-subtitle = Ampara is craes tuas sincronizende·ddas e tzi
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registra·ti
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-value-prop-callout-title = Agiunghe custu situ a sa barra de tareas
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Non perdas totu su chi as sarvadu durante sa tràmuda a Windows 11.
