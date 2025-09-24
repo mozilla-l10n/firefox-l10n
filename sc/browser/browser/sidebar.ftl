@@ -25,6 +25,14 @@ sidebar-history-delete =
     .title = Cantzella dae sa cronologia
 sidebar-history-clear =
     .label = Isbòida sa cronologia
+sidebar-history-sort-option-date =
+    .label = Data
+sidebar-history-sort-option-site =
+    .label = Situ
+sidebar-history-sort-option-date-and-site =
+    .label = Data e situ
+sidebar-history-sort-option-last-visited =
+    .label = Ùrtima bìsita
 
 ## Labels for sidebar search
 
@@ -54,6 +62,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ismànnia sa barra laterale a su passàgiu de su puntadore
+sidebar-manage-extensions = Gesti is estensiones
 
 ## Labels for sidebar context menu items
 
@@ -63,6 +72,10 @@ sidebar-context-menu-remove-extension =
     .label = Boga s’estensione
 sidebar-context-menu-report-extension =
     .label = Sinnala s’estensione
+sidebar-context-menu-open-in-tab =
+    .label = Aberi in un’ischeda noa
+sidebar-context-menu-open-in-container-tab =
+    .label = Aberi in un’ischeda de cuntenutu noa
 sidebar-context-menu-open-in-window =
     .label = Aberi in una ventana noa
 sidebar-context-menu-open-in-private-window =
@@ -81,6 +94,19 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Serra s’ischeda in { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Boga dae { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Boga dae sa barra laterale
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page-2 =
+    .label = Cantzella sa pàgina dae sa cronologia
+sidebar-history-context-menu-bookmark-page =
+    .label = Agiunghe a is sinnalibros…
+sidebar-history-context-menu-delete-pages =
+    .label = Cantzella pàginas dae sa cronologia
 
 ## Labels for sidebar menu items.
 
@@ -96,6 +122,8 @@ sidebar-menu-customize-label =
     .label = Personaliza sa barra laterale
 sidebar-menu-contextual-password-manager-label =
     .label = Craes
+sidebar-menu-more-tools-label =
+    .label = Àteras ainas
 
 ## Tooltips for sidebar menu items.
 

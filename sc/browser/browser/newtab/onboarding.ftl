@@ -462,3 +462,10 @@ dismiss-button-label = Iscarta
 sync-to-mobile-button-label = Sincroniza cun dispositivos mòbiles
 desktop-to-mobile-qr-code-alt =
     .aria-label = Còdighe QR pro iscarrigare { -brand-product-name } pro dispositivos mòbiles
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Sarva e sighi
+restored-from-backup-success-with-checklist-secondary-button = Brinca custu passu
+restored-from-backup-success-no-checklist-primary-button = Sighi
+restored-from-backup-error-primary-button = Serra

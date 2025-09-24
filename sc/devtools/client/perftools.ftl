@@ -41,6 +41,11 @@ perftools-button-add-directory = Agiunghe una cartella
 perftools-button-remove-directory = Cantzella sa seletzione
 perftools-button-edit-settings = Modìfica sa cunfiguratzione...
 
+## More actions menu
+
+perftools-menu-more-actions-button =
+    .title = Àteras atziones
+
 ## Profiler presets
 
 
@@ -61,6 +66,8 @@ perftools-presets-graphics-label = Gràficas
 perftools-presets-graphics-description = Profilu pro compidare faddinas de gràfica in { -brand-shorter-name }.
 perftools-presets-media-label = Cuntenutos multimediales
 perftools-presets-media-description2 = Profilu pro compidare faddinas de àudio e vìdeu in { -brand-shorter-name }.
+perftools-presets-ml-label = Aprendimentu automàticu
+perftools-presets-ml-description2 = Profilu pro compidare faddinas de aprendimentu automàticu in { -brand-shorter-name }.
 perftools-presets-networking-label = Rete
 perftools-presets-networking-description = Profilu pro compidare faddinas de rete in { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).

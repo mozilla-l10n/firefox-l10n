@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = G
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Ampara s’indiritzu tuo de posta eletrònica:
+firefox-relay-opt-in-title-2 = Lea un’alias de posta eletrònica a in donu
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Imprea un’alias de posta eletrònica de { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Imprea un’alias de posta
+firefox-relay-opt-in-subtitle-2 = Ampara sa casella de posta dae s’àliga
 firefox-relay-use-mask-title = Imprea un’alias de posta eletrònica de { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Èvita s’àliga cun un’alias de posta eletrònica a in donu
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Lea un’alias de posta eletrònica a in donu
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Ampara sa cartella de intrada tua de s’àliga impreende un’<label data-l10n-name="firefox-relay-learn-more-url">alias de posta eletrònica</label> de badas pro cuare s’indiritzu reale tuo. Is messàgios de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">custu situ</label> ant a lòmpere a sa cartella de intrada tua, però cun s’indiritzu reale cuadu.
 firefox-relay-and-fxa-popup-notification-first-sentence = Ampara sa cartella de intrada tua de s’àliga impreende un’ <label data-l10n-name="firefox-relay-learn-more-url">alias de posta eletrònica</label> de { -relay-brand-name } de badas pro cuare s’indiritzu reale tuo. Is messàgios de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">custu situ</label> ant a lòmpere a sa cartella de intrada tua, però cun s’indiritzu reale cuadu.
+firefox-relay-offer-why-to-use-relay-1 = Ampara sa cartella de intrada tua dae s’àliga impreende un’<label data-l10n-name="firefox-relay-learn-more-url">alias de posta eletrònica</label> de { -relay-brand-name } de badas pro cuare s’indiritzu reale tuo. Is messàgios de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">custu situ</label> ant a lòmpere a sa cartella de intrada tua, però cun s’indiritzu reale cuadu.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = A primu, registra·ti o identìfica·ti cun su profilu tuo pro impreare un’alias de posta eletrònica
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registra·ti

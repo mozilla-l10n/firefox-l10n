@@ -44,6 +44,9 @@ avatar-selector-cancel-button =
 avatar-selector-save-button =
     .label = Sarva
 avatar-selector-upload-file = Càrriga un’archìviu
+avatar-selector-drag-file = O trìsina un’archìviu inoghe
+avatar-selector-add-image = Agiunghe un’immàgine
+avatar-selector-crop = Sega
 edit-profile-page-no-name = Pone unu nòmine a custu profilu pro t’agiudare a dd’agatare prus tardu. Faghet a cambiare su nòmine in cale si siat momentu.
 edit-profile-page-duplicate-name = Su nòmine de su profilu esistit giai. Proa·nde unu nou.
 edit-profile-page-profile-saved = Sarvadu
@@ -92,6 +95,41 @@ profiles-light-theme = Craru
 profiles-dark-theme = Iscuru
 # The default system theme
 profiles-system-theme = Sistema
+profiles-system-theme-title =
+    .title = Àplica su tema de sistema
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme-2 = Grogu sitzia
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme-2 = Ispicu craru
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = Birde menta
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme-2 = Rosa manniòlia
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = Asulu otzèanu
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme-2 = Ruju matone
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme-2 = Birde lanaritzu
+profiles-gray-theme = Chinisu
+profiles-gray-theme-title =
+    .title = Àplica tema in colore de chinisu
+profiles-yellow-theme = Grogu
+profiles-yellow-theme-title =
+    .title = Àplica su tema grogu
+profiles-orange-theme = Arantzu
+profiles-orange-theme-title =
+    .title = Àplica su tema arantzu
+profiles-red-theme = Ruju
+profiles-red-theme-title =
+    .title = Àplica su tema ruju
+profiles-pink-theme = Rosa
+profiles-pink-theme-title =
+    .title = Àplica su tema rosa
+profiles-purple-theme = Tanadu
+profiles-blue-theme = Asulu
+profiles-green-theme = Birde
+profiles-cyan-theme = Colore de chelu
 
 ## Alternative text for default profile icons
 
@@ -101,12 +139,22 @@ briefcase-avatar-alt =
     .alt = Valìgia
 flower-avatar-alt =
     .alt = Frore
+folder-avatar-alt =
+    .alt = Cartella
+hammer-avatar-alt =
+    .alt = Marteddu
 heart-avatar-alt =
     .alt = Coro
+history-avatar-alt =
+    .alt = Cronologia
+leaf-avatar-alt =
+    .alt = Fògia
 shopping-avatar-alt =
     .alt = Carrellu de s’ispesa
 star-avatar-alt =
     .alt = Isteddu
+custom-avatar-alt =
+    .alt = Avatar personalizadu
 
 ## Tooltips for default avatar icons
 
@@ -116,3 +164,38 @@ flower-avatar = Frore
 heart-avatar = Coro
 shopping-avatar = Carrellu de s’ispesa
 star-avatar = Isteddu
+
+## Tooltips for default avatar icons
+
+flower-avatar-tooltip =
+    .tooltiptext = Imprea su frore comente avatar
+folder-avatar-tooltip =
+    .tooltiptext = Imprea sa cartella comente avatar
+hammer-avatar-tooltip =
+    .tooltiptext = Imprea su marteddu comente avatar
+heart-avatar-tooltip =
+    .tooltiptext = Imprea su coro comente avatar
+clock-avatar-tooltip =
+    .tooltiptext = Imprea su rellògiu comente avatar
+leaf-avatar-tooltip =
+    .tooltiptext = Imprea sa fògia comente avatar
+lightbulb-avatar-tooltip =
+    .tooltiptext = Imprea sa lampadina comente avatar
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Imprea su messàgiu comente avatar
+musical-note-avatar-tooltip =
+    .tooltiptext = Imprea sa nota musicale comente avatar
+plane-avatar-tooltip =
+    .tooltiptext = Imprea s'aparèchiu comente avatar
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Imprea su regalu comente avatar
+shopping-avatar-tooltip =
+    .tooltiptext = Imprea su carrutzu de s’ispesa comente avatar
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Imprea sa bòcia de fùbalu comente avatar
+star-avatar-tooltip =
+    .tooltiptext = Imprea s’isteddu comente avatar
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Imprea su cumandu de videogiogu comente avatar

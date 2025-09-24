@@ -120,6 +120,8 @@ windows-10-eos-sync-general-title-2 = Est unu momentu bonu pro fàghere una còp
 windows-10-eos-sync-tour-title-1 = Tropu ischedas? Organiza·ti cun is grupos de ischedas.
 windows-10-eos-sync-tour-title-2 = Prepara·ti pro Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Sincroniza is sinnalibros, is craes e is cunfiguratziones comente còpia de seguresa in antis de fàghere su càmbiu.
+windows-10-eos-sync-dismiss-button-label = Iscarta
+windows-10-eos-sync-callout-primary-advance-button-label = Imbeniente
 
 ## Sidebar Strings
 
