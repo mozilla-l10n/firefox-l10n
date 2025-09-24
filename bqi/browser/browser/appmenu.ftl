@@ -15,6 +15,8 @@ appmenuitem-downloads =
     .label = دانلودا
 appmenuitem-passwords =
     .label = رزما
+appmenuitem-extensions-and-themes =
+    .label = وردنی یل وو تما
 appmenuitem-extensions =
     .label = وردنی یل
 appmenuitem-print =
@@ -108,6 +110,11 @@ appmenu-about =
 appmenu-get-help =
     .label = گرؽڌن هیاری
     .accesskey = h
+
+## More Tools
+
+appmenu-developer-tools-extensions =
+    .label = وردنی یل سی برنومه نویسووݩ
 
 ## Profiles panel
 
