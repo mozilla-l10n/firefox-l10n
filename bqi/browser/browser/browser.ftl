@@ -16,10 +16,26 @@ urlbar-result-menu-learn-more =
 urlbar-star-edit-bookmark =
     .tooltiptext = آلشت ای نشووک ({ $shortcut })
 
+## Page Action Context Menu
+
+page-action-manage-extension2 =
+    .label = دؽوۉداری وردنی
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = پاک کردن وردنی
+    .accesskey = v
+
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = وردنی یل، تما، addons، add-ons
+# Opens about:addons page in the extensions section
+quickactions-extensions = دؽوۉداری وردنی یل
+quickactions-cmd-extensions2 = وردنی یل، addons، add-ons
 quickactions-cmd-extensions = وردنی یل
 # Opens the print dialog
 quickactions-print2 = چاپ بلگه
@@ -34,6 +50,10 @@ bookmarks-edit-bookmark = آلشت نشووک
 bookmark-panel-show-editor-checkbox =
     .label = نشووݩ داڌن آلشتگر مجال زفت کردن
     .accesskey = S
+
+## Identity Panel
+
+identity-extension-page = ای بلگه و دست ی وردنی بار ونی وابیڌه
 
 ## URL Bar
 
