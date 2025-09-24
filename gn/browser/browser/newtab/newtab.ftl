@@ -565,6 +565,7 @@ newtab-custom-wallpaper-cta = Eha’ãjey
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-title = Eiporavo mba’erechaha rugua ejapo hag̃ua { -brand-product-name } nemba’erã.
+newtab-new-user-custom-wallpaper-subtitle = Pe tendayke pyahu toñeñandu porã mba’erechaha rugua ha sa’y eipotáva ndive.
 newtab-new-user-custom-wallpaper-cta = Eiporu ko’ág̃a
 
 ## Strings for download mobile highlight

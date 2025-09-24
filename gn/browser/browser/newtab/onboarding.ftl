@@ -482,10 +482,12 @@ desktop-to-mobile-qr-code-alt =
 
 restore-from-backup-secondary-top-button = Erujey tekorosãrã ñongatuha guive
 restore-from-backup-title = Toiko ko { -brand-short-name }-gui eipotahaichaite
+restore-from-backup-subtitle = Erujey techaukaha, tembiasakue ha ambue mba’ekuaarã eike hag̃ua ñandutípe.
 restore-from-backup-secondary-button = Ani eguerujey
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = ¡Roju jeýma! Mba’ekuaarãita { -brand-short-name } mba’e ojegueru jeýma.
 restored-from-backup-success-with-checklist-primary-button = Eñongatu ha eku’ejey
 restored-from-backup-success-with-checklist-secondary-button = Ehejánte kóva
 restored-from-backup-success-no-checklist-primary-button = Eku’ejey
