@@ -469,3 +469,9 @@ dismiss-button-label = Елемеу
 sync-to-mobile-button-label = Мобильді құрылғымен синхрондау
 desktop-to-mobile-qr-code-alt =
     .aria-label = Мобильді { -brand-product-name } жүктеп алу үшін QR коды
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Сақтау және жалғастыру
+restored-from-backup-success-with-checklist-secondary-button = Бұл қадамды аттап кету
+restored-from-backup-success-no-checklist-primary-button = Жалғастыру

@@ -488,6 +488,8 @@ restore-from-backup-secondary-button = Ani eguerujey
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = ¡Roju jeýma! Mba’ekuaarãita { -brand-short-name } mba’e ojegueru jeýma.
+restored-from-backup-success-with-checklist-subtitle = ¿Eipotápa kundahára ehayhuvéva, ohecháva nde rekoñemi, peteĩ jekutúpe?
+restored-from-backup-success-no-checklist-subtitle = Embojuruja ñongatu tekorosãrã ko mba’e’okápe <a data-l10n-name="settings">Ñemboheko</a>.
 restored-from-backup-success-with-checklist-primary-button = Eñongatu ha eku’ejey
 restored-from-backup-success-with-checklist-secondary-button = Ehejánte kóva
 restored-from-backup-success-no-checklist-primary-button = Eku’ejey
