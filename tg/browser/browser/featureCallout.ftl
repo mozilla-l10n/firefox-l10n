@@ -123,6 +123,7 @@ taskbar-tabs-email-callout-subtitle = Сомонаҳои почтаи элект
 taskbar-tabs-media-callout-title = Ба пахши онлайн тавассути навори вазифаи худ баргардед
 taskbar-tabs-media-callout-subtitle = Сомонаҳои пахши онлайни худро ҳамчун барнома дар равзанаи хуб танзимшуда ва ҳифзшуда аз тарафи «{ -brand-short-name }» оғоз намоед.
 taskbar-tabs-value-prop-callout-title = Илова кардани ин сомона ба навори вазифаи худ
+taskbar-tabs-value-prop-callout-subtitle = Онро дар равзанаи хусусии алоҳида ва интерфейси содакардашуда бо як пахш оғоз намоед.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

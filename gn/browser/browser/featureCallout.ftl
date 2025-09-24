@@ -137,6 +137,7 @@ windows-10-eos-sync-new-device-title-2 = ¿Emoambuese ne mba’e’oka? Ani ehej
 windows-10-eos-sync-new-device-subtitle-2 = Taha’eha’éva mboy jeýpa eipuru { -brand-short-name }, ñembojuehe omo’ã nde rechaukaha, ñe’ẽñemi ha ñemboheko rehe.
 windows-10-eos-sync-new-device-primary-label = Embojuehe ko’ág̃a
 windows-10-eos-sync-general-title-1 = Emo’ã pe { -brand-short-name } eñemoba’ehague.
+windows-10-eos-sync-general-subtitle-1 = Eñongatu jey ha embojuehe ne ñe’ẽñemi, techaukaha, ñemboheko ha ambue mba’ekuaarã eñongatu hag̃ua erekóva.
 windows-10-eos-sync-general-title-2 = Ko’ag̃aite eñongatu jey ne ñe’ẽñemi ha techaukahakuéra.
 windows-10-eos-sync-general-subtitle-2 = Embojuehe emo’ã hag̃ua umi mba’e ejeroviaha { -brand-short-name } rehe ha erujey oimehágui ha ejapose vove.
 windows-10-eos-sync-tour-title-1 = ¿Heta tendayke? Emohenda tendayke aty ndive.
