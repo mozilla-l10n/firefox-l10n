@@ -96,7 +96,7 @@ permissions-exceptions-https-only-desc2 = Belirli web siteleri için yalnızca H
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
-    .title = İzin Verilen Siteler - Açılır Pencereler ve Üçüncü Taraf Yönlendirmeler
+    .title = İzin Verilen Siteler - Açılır Pencereler ve Üçüncü Taraf Yönlendirmeleri
     .style = { permissions-window2.style }
 
 ## Exceptions - Pop-ups

@@ -114,6 +114,8 @@ fxa-adoption-passwords-primary-button-label = Kaydol
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = En sevdiğiniz sosyal ağları görev çubuğunuzda tutun
+taskbar-tabs-social-callout-subtitle = Sosyal medya sitelerini { -brand-short-name } güvencesiyle korunan daha yalın bir pencerede açabilirsiniz.
 taskbar-tabs-chat-callout-title = Görev çubuğunuzdan sohbet edin
 taskbar-tabs-email-callout-title = E-postanızı görev çubuğunuzda tutun
 taskbar-tabs-value-prop-callout-title = Bu siteyi görev çubuğunuza ekleyin

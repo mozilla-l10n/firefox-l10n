@@ -124,7 +124,7 @@ popups-infobar-dont-show-message2 =
     .label = Açılır pencereler veya üçüncü taraf yönlendirmeleri engellendiğinde bu mesajı gösterme
     .accesskey = A
 edit-popup-settings2 =
-    .label = Açılır pencere ve üçüncü taraf yönlendirme ayarlarını yönet…
+    .label = Açılır pencere ve üçüncü taraf yönlendirmesi ayarlarını yönet…
     .accesskey = A
 
 ##
@@ -273,7 +273,7 @@ urlbar-screen-blocked =
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bu sitenin kalıcı veri depolamasını engellediniz.
 urlbar-popup-blocked2 =
-    .tooltiptext = Bu sitede açılır pencereleri ve üçüncü taraf yönlendirmeleri engellediniz.
+    .tooltiptext = Bu sitede açılır pencereleri ve üçüncü taraf yönlendirmelerini engellediniz.
 urlbar-popup-blocked =
     .tooltiptext = Bu sitedeki açılır pencereleri engellediniz.
 urlbar-autoplay-media-blocked =

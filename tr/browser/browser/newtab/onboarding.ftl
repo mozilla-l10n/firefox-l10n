@@ -493,4 +493,5 @@ restored-from-backup-success-no-checklist-subtitle = Bu cihaz için yedeklemeyi 
 restored-from-backup-success-with-checklist-primary-button = Kaydet ve devam et
 restored-from-backup-success-with-checklist-secondary-button = Bu adımı atla
 restored-from-backup-success-no-checklist-primary-button = Devam et
+restored-from-backup-error-title = Yedekleme dosyanızla ilgili bir sorun var.
 restored-from-backup-error-primary-button = Kapat
