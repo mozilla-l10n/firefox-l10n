@@ -122,6 +122,8 @@ taskbar-tabs-email-callout-title = Hâld jo e-mail yn jo taakbalke
 taskbar-tabs-email-callout-subtitle = Start jo webmail lykas in app yn in streamline finster beskerme troch { -brand-short-name }.
 taskbar-tabs-media-callout-title = Tebek nei streaming fan jo taakbalke ôf
 taskbar-tabs-media-callout-subtitle = Start jo streamingwebsites lykas in app yn in streamline finster beskerme troch { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Foegje dizze website ta oan jo taakbalke
+taskbar-tabs-value-prop-callout-subtitle = Start it mei ien klik yn in eigen finster en mei in ferienfâldige interface.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
