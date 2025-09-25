@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revierte al comportami
 ##
 
 policy-LocalFileLinks = Permitir a sitios web específicos enlazar a archivos locales.
+policy-LocalNetworkAccess = Habilitar o deshabilitar las comprobaciones de acceso a la red local.
 policy-ManagedBookmarks = Configura una lista de marcadores administrada por un administrador que el usuario no puede cambiar.
 policy-ManualAppUpdateOnly = Permita solo actualizaciones manuales y no notificar al usuario acerca de actualizaciones.
 policy-PrimaryPassword = Requerir o evitar usando una contraseña primaria.
@@ -141,6 +142,7 @@ policy-SupportMenu = Añadir un menú de ayuda personalizado al menú de ayuda.
 policy-TranslateEnabled = Activa o desactiva la traducción de páginas web.
 policy-UserMessaging = No mostrar ciertos mensajes al usuario.
 policy-UseSystemPrintDialog = Imprimir usando el diálogo de impresión del sistema.
+policy-VisualSearchEnabled = Habilitar o deshabilitar la búsqueda visual.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear contenidos para que no sean visitados. Mira la documentación para más detalles sobre el formato.
 policy-Windows10SSO = Permitir un solo inicio de sesión de Windows para Microsoft, cuentas de trabajo y cuentas escolares.
