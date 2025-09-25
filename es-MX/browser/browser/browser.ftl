@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navegación privada
+popups-infobar-dont-show-message2 =
+    .label = No mostrar este mensaje cuando las ventanas emergentes o las redirecciones de terceros estén bloqueadas
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Administrar la configuración de ventanas emergentes y redireccionamientos de terceros…
+    .accesskey = A
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Este sitio web está bloqueado para compartir tu pantalla.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Has bloqueado el almacenamiento persistente para este sitio.
+urlbar-popup-blocked2 =
+    .tooltiptext = Has bloqueado las ventanas emergentes y las redirecciones de terceros para este sitio web.
 urlbar-popup-blocked =
     .tooltiptext = Tienes bloqueadas las pop-ups para este sitio web.
 urlbar-autoplay-media-blocked =

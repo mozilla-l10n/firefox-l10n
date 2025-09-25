@@ -79,7 +79,17 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Eliminar
        *[other] Eliminar todas
     }
-contextual-manager-passwords-update-password-success-button = Hecho
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Contraseña
+    .data-after = Copiado
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrar contraseñas
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Contraseña agregada para { $url }
+contextual-manager-passwords-add-password-success-button = Ver
+contextual-manager-passwords-update-password-success-button = Listo
 contextual-manager-passwords-delete-password-success-button = Hecho
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ¿Eliminar contraseña?
