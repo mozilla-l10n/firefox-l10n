@@ -340,7 +340,7 @@ newtab-custom-widget-trending-search-toggle =
 newtab-custom-widget-lists-toggle =
     .label = Seznami
 newtab-custom-widget-timer-toggle =
-    .label = Odštevalnik
+    .label = Časovnik
 newtab-custom-widget-section-title = Pripomočki
 # Tooltip for close button
 newtab-custom-close-menu-button =
