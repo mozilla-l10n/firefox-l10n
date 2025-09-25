@@ -115,6 +115,13 @@ fxa-adoption-passwords-primary-button-label = Registrearje
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Hâld jo favorite feeds yn jo taakbalke
+taskbar-tabs-social-callout-subtitle = Start jo sosjale websites lykas in app yn in streamline finster beskerme troch { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Chat fan jo taakbalke ôf
+taskbar-tabs-chat-callout-subtitle = Start jo chatwebsites lykas in app yn in streamline finster beskerme troch { -brand-short-name }.
+taskbar-tabs-email-callout-title = Hâld jo e-mail yn jo taakbalke
+taskbar-tabs-email-callout-subtitle = Start jo webmail lykas in app yn in streamline finster beskerme troch { -brand-short-name }.
+taskbar-tabs-media-callout-title = Tebek nei streaming fan jo taakbalke ôf
+taskbar-tabs-media-callout-subtitle = Start jo streamingwebsites lykas in app yn in streamline finster beskerme troch { -brand-short-name }.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
