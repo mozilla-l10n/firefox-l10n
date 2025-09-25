@@ -123,6 +123,8 @@ taskbar-tabs-email-callout-title = ຮັກສາອີເມວຂອງທ່
 windows-10-eos-sync-urgency-title-1 = ຢ່າສູນເສຍທຸກຢ່າງທີ່ທ່ານໄດ້ບັນທຶກໄວ້ເມື່ອທ່ານຍ້າຍໄປ Windows 11.
 windows-10-eos-sync-urgency-title-2 = ເວົ້າລາກັບ Windows 10 ບໍ? ປົກປ້ອງຂໍ້ມູນຂອງທ່ານເມື່ອທ່ານປ່ຽນ.
 windows-10-eos-sync-new-device-title-1 = ຢ່າສ່ຽງຕໍ່ການເລີ່ມຕົ້ນໃໝ່ໃນອຸປະກອນຕໍ່ໄປຂອງທ່ານ.
+windows-10-eos-sync-tour-subtitle-1 = ລາກແຖບໜຶ່ງຢູ່ເທິງສຸດຂອງອັນອື່ນເພື່ອສ້າງກຸ່ມ ແລະ ຈັດລະບຽບສິ່ງຕ່າງໆ.
+windows-10-eos-sync-tour-title-2 = ຈັດລະບຽບສຳລັບ Windows 11.
 
 ## Sidebar Strings
 
@@ -143,6 +145,13 @@ vertical-tabs-callout-2-subtitle = ຮູບແບບນີ້ເຮັດໃຫ
 sidebar-pins-callout-title = ສູນເສຍການຕິດຕາມແຖບທີ່ສໍາຄັນຂອງທ່ານບໍ?
 sidebar-pins-callout-subtitle = ລອງປັກໝຸດພວກມັນ, ເຊິ່ງເຮັດໃຫ້ພວກມັນຢູ່ເທິງສຸດຂອງລາຍການແຖບຂອງທ່ານ. ຄລິກຂວາໃສ່ແຖບທີ່ທ່ານຕ້ອງການປັກໝຸດ, ຈາກນັ້ນເລືອກແຖບ Pin.
 sidebar-pins-callout-cta-button = ປັກໝຸດແຖບ
+
+## Pinning Tabs Strings
+
+pin-tabs-callout-1-title = ຮັກສາແຖບທີ່ສໍາຄັນຢູ່ໃນຂອບເຂດ
+pin-tabs-callout-cta-1-button = ປັກໝຸດແຖບນີ້
+pin-tabs-callout-2-title = ປັກໝຸດແຖບທີ່ທ່ານເຂົ້າເບິ່ງຫຼາຍທີ່ສຸດ
+pin-tabs-callout-2-subtitle = ເພື່ອປັກໝຸດແຖບໃດກໍໄດ້, ລາກມັນໄປທີ່ຈຸດເລີ່ມຕົ້ນຂອງແຖບແຖບ. ຫຼື ຄລິກຂວາແລ້ວເລືອກແຖບ Pin.
 
 ## Sidebar Onboarding Strings
 
