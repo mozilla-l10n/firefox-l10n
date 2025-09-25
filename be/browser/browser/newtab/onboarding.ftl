@@ -476,3 +476,15 @@ dismiss-button-label = Адхіліць
 sync-to-mobile-button-label = Сінхранізаваць з мабільным
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-код для сцягвання { -brand-product-name } для мабільных прылад
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Аднавіць з рэзервовай копіі
+restore-from-backup-secondary-button = Не аднаўляць
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Захаваць і працягнуць
+restored-from-backup-success-with-checklist-secondary-button = Прапусціць гэты крок
+restored-from-backup-success-no-checklist-primary-button = Працягнуць
+restored-from-backup-error-primary-button = Закрыць
