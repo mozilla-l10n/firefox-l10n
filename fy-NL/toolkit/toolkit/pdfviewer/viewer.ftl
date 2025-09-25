@@ -308,6 +308,10 @@ pdfjs-comment-floating-button =
     .title = Opmerking
     .aria-label = Opmerking
 pdfjs-comment-floating-button-label = Opmerking
+pdfjs-editor-comment-button =
+    .title = Opmerking
+    .aria-label = Opmerking
+pdfjs-editor-comment-button-label = Opmerking
 pdfjs-editor-signature-button =
     .title = Hantekening tafoegje
 pdfjs-editor-signature-button-label = Hantekening tafoegje
@@ -370,6 +374,20 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Tekstbewurker
     .default-content = Start mei typen…
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] Opmerking
+       *[other] Opmerkingen
+    }
+pdfjs-editor-comments-sidebar-close-button =
+    .title = De sydbalke slute
+    .aria-label = De sydbalke slute
+pdfjs-editor-comments-sidebar-close-button-label = De sydbalke slute
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Sjogge jo wat it neamen wurdich? Markearje it en lit in opmerking efter.
 
 ## Alt-text dialog
 
