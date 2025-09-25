@@ -169,6 +169,7 @@ about-glean-button-dictionary-link = Dokuminten
 about-glean-button-watch = Folgje
 # Meaning "to stop watching"
 about-glean-button-unwatch = Net mear folgje
+about-glean-no-data-to-display = Gjin gegevens om wer te jaan.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Labele statistiken wurde noch net stipe yn de <code>about:glean</code>-werjefte.
 about-glean-unknown-metric-type-warning = Unbekend statistyktype.
