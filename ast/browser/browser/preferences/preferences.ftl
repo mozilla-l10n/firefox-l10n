@@ -210,6 +210,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ficheros y aplicaciones
+downloads-header-2 =
+    .label = Descargues
 download-save-where-2 =
     .label = Guardar los ficheros en
     .accesskey = d
