@@ -344,6 +344,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Datotecas ed applicaziuns
+download-save-where-2 =
+    .label = Memorisar las datotecas en il suandant ordinatur:
+    .accesskey = o
 download-header = Telechargiadas
 download-save-where = Memorisar las datotecas en il suandant ordinatur:
     .accesskey = o
