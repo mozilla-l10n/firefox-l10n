@@ -1522,6 +1522,9 @@ space-alert-under-5gb-message2 = <strong>У { -brand-short-name } сканчае
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Рэжым толькі HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Дазваляе толькі бяспечнае злучэнне з вэб-сайтамі. { -brand-short-name } спытае перад небяспечным злучэннем.
 httpsonly-description3 = Дазваляе толькі бяспечнае злучэнне з вэб-сайтамі. { -brand-short-name } спытае перад небяспечным злучэннем.
 httpsonly-learn-more2 = Як працуе «Толькі HTTPS»
 httpsonly-description = HTTPS забяспечвае бяспечнае зашыфраванае злучэнне паміж { -brand-short-name } і вэб-сайтамі, якія вы наведваеце. Большасць сайтаў падтрымліваюць HTTPS, і калі ўключаны рэжым толькі HTTPS, { -brand-short-name } пераключа ўсе злучэнні на HTTPS.
