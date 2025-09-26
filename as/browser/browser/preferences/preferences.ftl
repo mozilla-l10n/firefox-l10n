@@ -25,6 +25,20 @@ feature-enable-requires-restart = এই বৈশিষ্ট্য সাম�
 feature-disable-requires-restart = এই বৈশিষ্ট্য অসামৰ্থবান কৰিবলে { -brand-short-name } পুনাৰম্ভ কৰিব লাগিব।
 should-restart-title = { -brand-short-name } পুনাৰম্ভ কৰক
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = আৰম্ভণি
@@ -35,6 +49,13 @@ show-tabs-in-taskbar =
     .label = টেবৰ পুৰ্বদৰ্শনসমূহ উইণ্ড'সমূহৰ কাৰ্য্যবাৰত দেখুৱাওক
     .accesskey = k
 browser-containers-learn-more = অধিক জানক
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -57,6 +78,8 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = ডাউনল'ডসমূহ
 download-header = ডাউনল'ডসমূহ
 download-save-where = ফাইলসমূহ চিহ্নিত স্থানত সংৰক্ষণ কৰিব
     .accesskey = v
@@ -160,6 +183,9 @@ network-proxy-connection-settings =
     .label = পছন্দসমূহ…
     .accesskey = e
 
+## Home Section
+
+
 ## Home Section - Home Page Customization
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -176,6 +202,12 @@ use-current-pages =
 choose-bookmark =
     .label = পত্ৰচিহ্ন ব্যৱহাৰ কৰক…
     .accesskey = B
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
 
 ##
 
@@ -205,11 +237,30 @@ search-keyword-warning-title = দ্বৈত কিৱাৰ্ড
 search-keyword-warning-engine = আপুনি "{ $name }"এ বৰ্ত্তমানে ব্যৱহাৰ কৰা কিৱাৰ্ড নিৰ্বাচন কৰিছে। অনুগ্ৰহ কৰি অন্য এটা নিৰ্বাচন কৰক।
 search-keyword-warning-bookmark = এটা পত্ৰচিহ্নৰ দ্বাৰা ব্যৱহৃত কিৱাৰ্ড আপুনি নিৰ্বাচন কৰিছে। অনুগ্ৰহ কৰি অন্য এটা নিৰ্বাচন কৰক।
 
+## Containers Section
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
 ## Variables
 ## $email (string) - Email used for Firefox account
 
 sync-signedin-unverified = আপোনাৰ ইমেইল ঠিকনা { $email } সতা সত্য নিৰূপিত নহয়।
 sync-signedin-login-failure = পুনৰ সংযোগ কৰিবলৈ অনুগ্ৰহ কৰি ছাইন ইন কৰক { $email }
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -220,6 +271,9 @@ sync-engine-history =
     .label = ইতিহাস
     .accesskey = r
 
+## The device name controls.
+
+
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
@@ -229,6 +283,12 @@ sync-verification-sent-title = বৈধতা পঠোৱা হল
 sync-verification-sent-body = { $email }-লৈ এটা সত্যাপন লিংক পঠিওৱা হৈছে।
 sync-verification-not-sent-title = সত্যাপন পঠিয়াব পৰা নগ'ল
 sync-verification-not-sent-body = আমি এই সময়ত এটা সত্যাপন মেইল পঠিয়াব নোৱাৰিলোঁ, অনুগ্ৰহ কৰি পাছত পুনৰ চেষ্টা কৰিব।
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
 
 ## Privacy Section - Passwords
 
@@ -244,6 +304,12 @@ forms-master-pw-change =
     .label = প্ৰমুখ পাছৱাৰ্ড সলনি কৰক…
     .accesskey = M
 forms-master-pw-fips-desc = পাছৱৰ্ডৰ পৰিবৰ্তন ব্যৰ্থ হল
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -271,9 +337,31 @@ history-clear-on-close-settings =
 
 sitedata-learn-more = অধিক জানক
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
+## Privacy Section - Address Bar
+
+
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = অধিক জানক
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -290,6 +378,9 @@ permissions-addon-exceptions =
 collection-health-report-telemetry-disabled-link = অধিক জানক
 collection-health-report-link = অধিক জানক
 addon-recommendations-link = অধিক জানক
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -308,6 +399,9 @@ certs-enable-ocsp =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = অধিক জানক
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
