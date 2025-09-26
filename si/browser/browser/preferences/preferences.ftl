@@ -232,6 +232,15 @@ browser-layout-show-sidebar-desc = ඔබගේ ප්‍රධාන දැක�
 language-and-appearance-header = භාෂාව සහ පෙනුම
 preferences-web-appearance-header = අඩවියේ පෙනුම
 preferences-web-appearance-description = ඔබගේ අභිප්‍රේත මත පදනම්ව ඇතැම් වියමන අඩවිවල වර්ණ රටාව සැකසෙයි. එම අඩවි සඳහා භාවිතා කිරීමට කැමති වර්ණ රටාව තෝරන්න.
+preferences-web-appearance-choice-auto2 =
+    .label = ස්වයංක්‍රීය
+    .title = ඔබගේ පද්ධතියේ සැකසුම් සහ { -brand-short-name } තේමාව මත පදනම්ව අඩවිවල පසුබිම සහ අන්තර්ගතය ස්වයංක්‍රීයව වෙනස් කරන්න.
+preferences-web-appearance-choice-light2 =
+    .label = දීප්ත
+    .title = අඩවියේ පසුබිම් හා අන්තර්ගතය සඳහා දීප්තිමත් පෙනුමක් යොදාගන්න.
+preferences-web-appearance-choice-dark2 =
+    .label = අඳුරු
+    .title = අඩවියේ පසුබිම් හා අන්තර්ගතය සඳහා අඳුරු පෙනුමක් යොදාගන්න.
 preferences-web-appearance-choice-auto = ස්වයංක්‍රීය
 preferences-web-appearance-choice-light = දීප්ත
 preferences-web-appearance-choice-dark = අඳුරු
@@ -247,6 +256,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = දිගු සහ තේමා තුළ { -brand-short-name } තේමා කළමනාකරණය කරන්න
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = ඔබගේ වර්ණ තේරීම අඩවියෙහි පෙනුම අභිබවා යයි. <a data-l10n-name="colors-link">වර්ණ කළමනාකරණය</a>
