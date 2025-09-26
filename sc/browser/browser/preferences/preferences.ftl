@@ -348,6 +348,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Archìvios e aplicatziones
+downloads-header-2 =
+    .label = Iscarrigamentos
 download-header = Iscarrigamentos
 download-save-where = Sarva archìvios in
     .accesskey = v
