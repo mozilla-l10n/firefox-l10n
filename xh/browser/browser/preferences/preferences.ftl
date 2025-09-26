@@ -130,6 +130,8 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Okukhutshelwayo
 download-save-where-2 =
     .label = Gcina iifayile kwi
     .accesskey = c
