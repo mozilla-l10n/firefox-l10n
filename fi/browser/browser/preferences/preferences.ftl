@@ -352,6 +352,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Tiedostot ja ohjelmat
+downloads-header-2 =
+    .label = Lataukset
 download-header = Lataukset
 download-save-where = Tallenna kansioon
     .accesskey = T
