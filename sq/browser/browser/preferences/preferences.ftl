@@ -348,6 +348,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Kartela dhe Aplikacione
+downloads-header-2 =
+    .label = Shkarkime
 download-header = Shkarkime
 download-save-where = Kartelat ruaji te
     .accesskey = R
