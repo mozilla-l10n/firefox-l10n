@@ -1515,6 +1515,9 @@ space-alert-under-5gb-message2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Tilstanden Kun-HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
 httpsonly-description3 = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
 httpsonly-learn-more2 = Sådan virker tilstanden kun-HTTPS
 httpsonly-description = HTTPS sørger for en sikker, krypteret forbindelse mellem { -brand-short-name } og de websteder, du besøger. De fleste websteder understøtter HTTPS, og hvis kun-HTTPS er slået til, så opgraderer { -brand-short-name } alle forbindelser til HTTPS.
