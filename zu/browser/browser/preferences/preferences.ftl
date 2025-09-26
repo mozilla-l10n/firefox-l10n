@@ -70,6 +70,9 @@ translate-exceptions =
 
 downloads-header-2 =
     .label = Okulayishiwe kwangeniswa
+download-save-where-2 =
+    .label = Gcina amafayela ku
+    .accesskey = i
 download-header = Okulayishiwe kwangeniswa
 download-save-where = Gcina amafayela ku
     .accesskey = i
