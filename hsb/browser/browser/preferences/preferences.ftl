@@ -1526,6 +1526,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hižo dosć skła
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus Jenož-HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Zmóžnja jenož wěste zwiski z websydłami. { -brand-short-name } budźe so was prašeć, prjedy hač njewěsće zwjazuje.
 httpsonly-description3 = Zmóžnja jenož wěste zwiski z websydłami. { -brand-short-name } budźe so was prašeć, prjedy hač njewěsće zwjazuje.
 httpsonly-learn-more2 = Kak Jenož-HTTPS funguje
 httpsonly-description = HTTPS wěsty, zaklučowany zwisk mjez { -brand-short-name } a websydłami skići, kotrež wopytujeće. Najwjace websydłow HTTPS podpěruje, a jeli modus Jenož-HTTPS je zmóžnjeny, { -brand-short-name } budźe wšě zwiski na HTTPS aktualizować.
