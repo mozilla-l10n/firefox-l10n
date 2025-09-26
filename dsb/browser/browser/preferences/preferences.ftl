@@ -281,6 +281,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Waše nastajenja kontrastoweje kontrole naglěd websedła pśepisuju.
+preferences-web-appearance-link =
+    .label = Drastwy { -brand-short-name } w Rozšyrjenja a drastwy zastojaś
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Waše barwowe wuběrki naglěd websedła pśepisuju. <a data-l10n-name="colors-link">Barwy zastojaś</a>
