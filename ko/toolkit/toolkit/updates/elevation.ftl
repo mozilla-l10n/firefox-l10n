@@ -21,3 +21,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = 다시 표시 안 함
     .accesskey = D
 sandbox-unprivileged-namespaces-howtofix = 이 문제를 해결하는 방법
+sandbox-content-disabled-warning = 보안 샌드박스가 비활성화되었습니다. 사용자의 설정이 지원되지 않으며 보안이 취약합니다.

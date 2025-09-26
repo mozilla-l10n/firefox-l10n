@@ -171,6 +171,11 @@ about-glean-no-data-to-display = 표시할 데이터가 없습니다.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = 레이블이 지정된 메트릭은 아직 <code>about:glean</code> 보기에서 지원되지 않습니다.
 about-glean-unknown-metric-type-warning = 알 수 없는 메트릭 유형입니다.
+about-glean-enable-new-features-promo =
+    .message = 새 기능 추가 작업 중입니다! 아직 개발 단계이지만, 활성화하시려면 여기 작업 버튼을 누르세요.
+    .heading = 새 기능이 곧 출시됩니다!
+about-glean-enable-new-features-button = 새 기능 활성화
+about-glean-disable-new-features-button = 새 기능 비활성화
 about-glean-about-data-explanation =
     수집된 데이터 목록을 찾아보려면 
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 사전</a>을 참조하세요.
