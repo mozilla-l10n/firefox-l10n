@@ -121,6 +121,7 @@ taskbar-tabs-email-callout-title = ຮັກສາອີເມວຂອງທ່
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = ຢ່າສູນເສຍທຸກຢ່າງທີ່ທ່ານໄດ້ບັນທຶກໄວ້ເມື່ອທ່ານຍ້າຍໄປ Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = ຊິ້ງຂໍ້ມູນດຽວນີ້ເພື່ອຮັກສາບຸກມາກ { -brand-short-name } ຂອງທ່ານ, ລະຫັດຜ່ານ ແລະ ການຕັ້ງຄ່າໃຫ້ປອດໄພ ແລະ ງ່າຍຕໍ່ການຟື້ນຟູ.
 windows-10-eos-sync-urgency-title-2 = ເວົ້າລາກັບ Windows 10 ບໍ? ປົກປ້ອງຂໍ້ມູນຂອງທ່ານເມື່ອທ່ານປ່ຽນ.
 windows-10-eos-sync-new-device-title-1 = ຢ່າສ່ຽງຕໍ່ການເລີ່ມຕົ້ນໃໝ່ໃນອຸປະກອນຕໍ່ໄປຂອງທ່ານ.
 windows-10-eos-sync-tour-subtitle-1 = ລາກແຖບໜຶ່ງຢູ່ເທິງສຸດຂອງອັນອື່ນເພື່ອສ້າງກຸ່ມ ແລະ ຈັດລະບຽບສິ່ງຕ່າງໆ.

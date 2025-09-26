@@ -245,6 +245,8 @@ contextual-manager-passwords-no-passwords-found-message = ບໍ່ພົບລ�
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = ບັນທຶກລະຫັດຜ່ານຂອງທ່ານໄວ້ໃນບ່ອນທີ່ປອດໄພ.
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = ເພີ່ມພວກມັນໃສ່ບ່ອນນີ້ເພື່ອເລີ່ມຕົ້ນ.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
