@@ -352,6 +352,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fichiers et applications
+downloads-header-2 =
+    .label = Téléchargements
 download-header = Téléchargements
 download-save-where = Enregistrer les fichiers dans le dossier
     .accesskey = n
