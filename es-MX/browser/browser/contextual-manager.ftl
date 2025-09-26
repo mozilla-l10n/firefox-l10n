@@ -89,6 +89,8 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-heading =
     .heading = Contraseña agregada para { $url }
 contextual-manager-passwords-add-password-success-button = Ver
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Contraseña guardada
 contextual-manager-passwords-update-password-success-button = Listo
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords

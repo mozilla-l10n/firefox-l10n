@@ -1181,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloquear ventanas emergentes de { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Permite ventanas emergentes y redirecciones de terceros para { $uriHost }
+    .accesskey = P
 
 ##
 
