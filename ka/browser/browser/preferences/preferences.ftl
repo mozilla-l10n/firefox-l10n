@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = სიმკვეთრის თქვენ მიერ შერჩეული პარამეტრები ჩაანაცვლებს საიტის გაფორმებას.
+preferences-web-appearance-link =
+    .label = გააფორმეთ { -brand-short-name } გაფართოებებისა და თემების განყოფილებიდან
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = თქვენ მიერ შერჩეული ფერები ჩაანაცვლებს საიტის გაფორმებას. <a data-l10n-name="colors-link">ფერების მართვა</a>
