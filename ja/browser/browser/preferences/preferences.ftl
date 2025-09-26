@@ -340,6 +340,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ファイルとプログラム
+downloads-header-2 =
+    .label = ダウンロード
+download-save-where-2 =
+    .label = 次のフォルダーに保存する
+    .accesskey = v
 download-header = ダウンロード
 download-save-where = 次のフォルダーに保存する
     .accesskey = v
