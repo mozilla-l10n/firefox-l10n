@@ -281,6 +281,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Vaše nastavitve kontrasta vplivajo na videz spletnih strani.
+preferences-web-appearance-link =
+    .label = Upravljajte teme { -brand-short-name(sklon: "rodilnik") } na strani Razširitve in teme
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vaše izbire barv so nastavljene, da preglasijo videz spletnih strani. <a data-l10n-name="colors-link">Upravljanje barv</a>
