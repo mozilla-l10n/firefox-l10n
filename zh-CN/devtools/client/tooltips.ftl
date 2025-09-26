@@ -92,6 +92,7 @@ inactive-css-not-display-block-on-floated-fix = 请尝试移除 <strong>float</s
 inactive-css-only-non-grid-or-flex-item-fix = 请尝试将此元素所属容器的 <strong>display</strong> 值更改为 <strong>flex</strong>、<strong>grid</strong>、<strong>inline-flex</strong>、<strong>inline-grid</strong> 以外的值，或是移除 <strong>float</strong> 属性。{ learn-more }
 inactive-css-not-block-fix = 请尝试添加 <strong>display:block</strong> 或 <strong>float:left</strong> 等属性。{ learn-more }
 inactive-css-not-block-container-fix = 请尝试添加 <strong>display:block</strong>、<strong>display:inline-block</strong> 或 <strong>display:flow-root</strong>。{ learn-more }
+inactive-css-not-block-flex-grid-container-fix = 请尝试添加 <strong>display:block</strong>、<strong>display:inline-block</strong>、<strong>display:flex</strong>、<strong>display:inline-flex</strong>、<strong>display:grid</strong>、<strong>display:inline-grid</strong> 或 <strong>display:flow-root</strong>。{ learn-more }
 inactive-css-not-floated-fix = 请尝试添加 <strong>float</strong> 属性，使用 <strong>none</strong> 以外的值。{ learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = 请尝试将其 <strong>position</strong> 属性设为非 <strong>static</strong> 的值。{ learn-more }
 inactive-css-only-replaced-elements-fix = 请确保您在对可替换元素添加此属性。{ learn-more }

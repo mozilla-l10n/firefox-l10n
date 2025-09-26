@@ -142,6 +142,7 @@ policy-SupportMenu = 向帮助菜单自选添加技术支持项目。
 policy-TranslateEnabled = 启用或禁用网页翻译。
 policy-UserMessaging = 不向用户显示某些消息。
 policy-UseSystemPrintDialog = 使用系统打印对话框打印。
+policy-VisualSearchEnabled = 启用或禁用按图搜索。
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 阻止访问某些网站。参阅文档了解该格式的更多详情。
 policy-Windows10SSO = 允许面向 Microsoft 账户（个人/工作/学校）的 Windows 单点登录。
