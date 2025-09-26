@@ -355,6 +355,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fișiere și aplicații
+download-save-where-2 =
+    .label = Salvează fișierele în
+    .accesskey = v
 download-header = Descărcări
 download-save-where = Salvează fișierele în
     .accesskey = v
