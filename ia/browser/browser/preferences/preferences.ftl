@@ -1076,9 +1076,16 @@ autofill-reauth-payment-methods-checkbox = Requirer apertura de session sur le a
 autofill-payment-methods-title = Methodos de pagamento
 autofill-payment-methods-header =
     .aria-label = Methodos de pagamento
+autofill-payment-methods-checkbox-message-2 =
+    .label = Salvar e compilar informationes de pagamento automaticamente
+    .accesskey = p
 autofill-payment-methods-manage-payments-button =
     .label = Gerer methodos de pagamento
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Requirer apertura de session sur le apparato pro compilar automaticamente e gerer methodos de pagamentos
+    .accesskey = o
 autofill-addresses-title = Adresses e plus
 autofill-addresses-header =
     .aria-label = Adresses e plus
@@ -1530,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificatos
+certs-description = Configurar le certificatos que { -brand-short-name } usa pro authentication.
 certs-enable-ocsp =
     .label = Querer le servitores responditor OCSP pro confirmar le validitate actual del certificatos
     .accesskey = Q
