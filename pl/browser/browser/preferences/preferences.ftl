@@ -355,6 +355,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Pliki i aplikacje
+downloads-header-2 =
+    .label = Pobieranie
+download-save-where-2 =
+    .label = Pobierane pliki zapisuj do:
+    .accesskey = o
 download-header = Pobieranie
 download-save-where = Pobierane pliki zapisuj do:
     .accesskey = o
