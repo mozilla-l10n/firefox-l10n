@@ -1445,6 +1445,9 @@ space-alert-under-5gb-message2 = <strong>La memoria da { -brand-short-name } è 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus mo HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Permetta mo connexiuns segiradas cun websites. { -brand-short-name } vegn a dumandar avant che connectar a moda betg segirada.
 httpsonly-description3 = Permetta mo connexiuns segiradas cun websites. { -brand-short-name } vegn a dumandar avant che connectar a moda betg segirada.
 httpsonly-learn-more2 = Co il modus mo HTTPS funcziuna
 httpsonly-description = HTTPS porscha ina connexiun segira, criptada tranter { -brand-short-name } e las websites che ti visitas. Las bleras websites sustegnan HTTPS e sch'il modus «mo HTTPS» è activà, connectescha { -brand-short-name } automaticamain cun HTTPS.
