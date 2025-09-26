@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Тазимоти идоракунии тазоди рангҳои шумо ба намуди зоҳирии сомонаҳо татбиқ мешавад.
+preferences-web-appearance-link =
+    .label = Мавзуъҳои «{ -brand-short-name }»-ро дар бахши Васеъшавиҳо ва мавзуъҳо идора кунед
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Интихоби нақшаи ранги шумо ба намуди зоҳирии сомонаҳо татбиқ мешавад. <a data-l10n-name="colors-link">Рангҳоро идора кунед</a>
