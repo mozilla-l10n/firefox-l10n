@@ -66,6 +66,8 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Файл татаж авах үед
 download-header = Файл татаж авах үед
 download-save-where = Файлыг энд хадгал
     .accesskey = д
@@ -177,8 +179,7 @@ use-current-pages =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
