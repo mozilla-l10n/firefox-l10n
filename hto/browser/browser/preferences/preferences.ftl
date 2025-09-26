@@ -71,6 +71,11 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Yúnua
+download-save-where-2 =
+    .label = Dáma jone bénomo
+    .accesskey = D
 download-header = Yúnua
 download-save-where = Dáma jone bénomo
     .accesskey = D
@@ -170,8 +175,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
