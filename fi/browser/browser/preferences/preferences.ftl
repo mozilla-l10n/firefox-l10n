@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Kontrastiasetukset ohittavat verkkosivuston ulkoasun.
+preferences-web-appearance-link =
+    .label = Hallinnoi { -brand-short-name }in teemoja Laajennukset ja teemat -osiossa
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Värivalintasi ohittavat verkkosivuston ulkoasun. <a data-l10n-name="colors-link">Hallinnoi värejä</a>
