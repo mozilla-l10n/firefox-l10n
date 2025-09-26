@@ -352,6 +352,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = קבצים ויישומים
+download-save-where-2 =
+    .label = שמירת קבצים אל
+    .accesskey = ק
 download-header = הורדות
 download-save-where = שמירת קבצים אל
     .accesskey = ק
