@@ -320,6 +320,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Датотеке и програми
+downloads-header-2 =
+    .label = Преузимања
+download-save-where-2 =
+    .label = Локација за чување датотека:
+    .accesskey = Л
 download-header = Преузимања
 download-save-where = Локација за чување датотека:
     .accesskey = Л
