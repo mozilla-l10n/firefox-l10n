@@ -1477,6 +1477,9 @@ space-alert-under-5gb-message2 = <strong>Est acabbende s'ispàtziu in su discu p
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modalidade HTTPS ebbia
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Permitit isceti connessiones seguras a is sitos. { -brand-short-name } at a preguntare in antis de si connètere in manera non segura.
 httpsonly-description3 = Permitit isceti connessiones seguras a is sitos. { -brand-short-name } at a preguntare in antis de si connètere in manera non segura.
 httpsonly-learn-more2 = Comente funtzionat sa modalidade «isceti HTTPS»
 httpsonly-description = HTTPS garantit una connessione segura e tzifrada intre { -brand-short-name } e is sitos web chi ses bisitende. Sa majoria de is sitos sunt cumpatìbiles cun HTTPS; si sa Modalidade HTTPS ebbia est ativada, { -brand-short-name } at a impreare HTTPS in totu is connessiones.
