@@ -1511,6 +1511,9 @@ space-alert-under-5gb-message2 = <strong>Elĉerpiĝas la diska spaco por { -bran
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-nura reĝimo
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Nur permesi sekurajn konektojn al retejoj. { -brand-short-name } demandos antaŭ ol konektiĝi nesekure.
 httpsonly-description3 = Nur permesi sekurajn konektojn al retejoj. { -brand-short-name } demandos antaŭ ol konektiĝi nesekure.
 httpsonly-learn-more2 = Kiel funkcias HTTPS-nura reĝimo
 httpsonly-description = HTTPS provizas sekuran, ĉifritan konekton inter { -brand-short-name } kaj la vizitataj retejoj. Plimulto de la retejoj subtenas HTTPS kaj, se la HTTPS-nura reĝimo estas aktiva, { -brand-short-name } movos ĉiujn konektojn al HTTPS.
