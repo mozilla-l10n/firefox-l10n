@@ -352,6 +352,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Filer och program
+downloads-header-2 =
+    .label = Filhämtningar
 download-header = Filhämtningar
 download-save-where = Spara filer till
     .accesskey = a
