@@ -427,6 +427,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Soubory a aplikace
+downloads-header-2 =
+    .label = Stahování
+download-save-where-2 =
+    .label = Ukládat všechny soubory do složky
+    .accesskey = v
 download-header = Stahování
 download-save-where = Ukládat všechny soubory do složky
     .accesskey = v
