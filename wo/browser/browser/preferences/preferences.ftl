@@ -64,6 +64,8 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Yeb yi
 download-save-where-2 =
     .label = Aar dencukaay yi ci biir wayndare bi
     .accesskey = n
