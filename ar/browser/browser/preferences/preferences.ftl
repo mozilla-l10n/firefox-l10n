@@ -351,6 +351,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = الملفات و التطبيقات
+downloads-header-2 =
+    .label = التّنزيلات
 download-header = التّنزيلات
 download-save-where = احفظ الملفّات في
     .accesskey = ظ
