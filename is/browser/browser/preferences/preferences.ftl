@@ -352,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Skrár og forrit
+downloads-header-2 =
+    .label = Niðurhal
+download-save-where-2 =
+    .label = Vista skrár yfir í
+    .accesskey = V
 download-header = Niðurhal
 download-save-where = Vista skrár yfir í
     .accesskey = V
