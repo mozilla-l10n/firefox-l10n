@@ -90,6 +90,15 @@ contextual-manager-passwords-add-password-success-heading =
     .heading = Contraseña agregada para { $url }
 contextual-manager-passwords-add-password-success-button = Ver
 contextual-manager-passwords-update-password-success-button = Listo
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Contraseña eliminada
+            [one] Contraseñas eliminadas
+           *[other] Contraseñas eliminadas
+        }
 contextual-manager-passwords-delete-password-success-button = Hecho
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ¿Eliminar contraseña?
