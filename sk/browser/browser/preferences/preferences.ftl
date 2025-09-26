@@ -355,6 +355,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Súbory a aplikácie
+downloads-header-2 =
+    .label = Sťahovanie súborov
 download-header = Sťahovanie súborov
 download-save-where = Všetky súbory ukladať do
     .accesskey = v
