@@ -352,6 +352,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Αρχεία και εφαρμογές
+downloads-header-2 =
+    .label = Λήψεις
 download-header = Λήψεις
 download-save-where = Αποθήκευση αρχείων σε
     .accesskey = θ
