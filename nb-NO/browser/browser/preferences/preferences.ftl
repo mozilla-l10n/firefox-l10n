@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Få rask tilgang til bokmerker, faner fra tel
 language-and-appearance-header = Språk og utseende
 preferences-web-appearance-header = Utseende på nettstedet
 preferences-web-appearance-description = Noen nettsteder tilpasser fargeskjemaet basert på dine innstillinger. Velg hvilket fargeskjema du vil bruke for disse nettstedene.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatisk
+    .title = Endre nettsidebakgrunn og innhold automatisk basert på systeminnstillingene og { -brand-short-name }-temaet.
+preferences-web-appearance-choice-light2 =
+    .label = Lyst
+    .title = Bruk et lyst utseende for nettsidebakgrunn og innhold.
+preferences-web-appearance-choice-dark2 =
+    .label = Mørkt
+    .title = Bruk et mørkt utseende for nettsidebakgrunn og innhold.
 preferences-web-appearance-choice-auto = Automatisk
 preferences-web-appearance-choice-light = Lyst
 preferences-web-appearance-choice-dark = Mørkt
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Kontrastinnstillingene dine overstyrer nettstedets utseende.
+preferences-web-appearance-link =
+    .label = Behandle { -brand-short-name }-temaer i Tillegg og temaer
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Fargevalgene dine overstyrer nettstedets utseende. <a data-l10n-name="colors-link">Behandle farger</a>
