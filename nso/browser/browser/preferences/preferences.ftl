@@ -71,6 +71,9 @@ translate-exceptions =
 
 downloads-header-2 =
     .label = Ditaollo
+download-save-where-2 =
+    .label = Boloka difaele go
+    .accesskey = k
 download-header = Ditaollo
 download-save-where = Boloka difaele go
     .accesskey = k
