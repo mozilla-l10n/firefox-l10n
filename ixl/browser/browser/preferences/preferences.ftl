@@ -24,6 +24,17 @@ should-restart-title = La xe'tisal { -brand-short-name }
 cancel-no-restart-button = Ya'sakan
 restart-later = Xamtel la xe'tisal
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = ichukax tok'eb'al
@@ -34,6 +45,10 @@ browser-containers-learn-more = Ootzi ka'te
 browser-containers-settings =
     .label = Ib'anax tuche'…
     .accesskey = I
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 
 ##
 
@@ -48,6 +63,8 @@ confirm-browser-language-change-button = B'anb'e as a xe'tisa
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Eq'omal ku'tzan
 download-header = Eq'omal ku'tzan
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
@@ -112,10 +129,19 @@ network-proxy-connection-settings =
     .label = Ib'anax tuche'…
     .accesskey = I
 
+## Home Section
+
+
 ## Home Section - Home Page Customization
 
 home-mode-choice-custom =
     .label = Eetz chitu' URLs…
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
 
 ##
 
@@ -133,10 +159,24 @@ search-remove-engine =
 containers-remove-button =
     .label = Sojsa el
 
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Firefox account - Signed in
 
 sync-manage-account = La eel isuuchil u atinb'ale'
     .accesskey = o
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
 
 ## The list of things currently syncing.
 
@@ -159,9 +199,25 @@ sync-device-name-save =
     .label = Kola
     .accesskey = v
 
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Section - Passwords
 
 forms-breach-alerts-learn-more-link = Ootzi ka'te
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -172,6 +228,12 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Ootzi ka'te
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -198,6 +260,9 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -228,12 +293,24 @@ collection-health-report-telemetry-disabled-link = Ootzi ka'te
 collection-health-report-link = Ootzi ka'te
 addon-recommendations-link = Ootzi ka'te
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-enable-safe-browsing-link = Ootzi ka'te
+
+## Privacy Section - Certificates
+
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
