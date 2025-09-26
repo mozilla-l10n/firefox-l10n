@@ -223,6 +223,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Mga File at Application
+downloads-header-2 =
+    .label = Mga Download
 download-save-where-2 =
     .label = i-Save ang mga file sa
     .accesskey = S
