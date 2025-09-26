@@ -288,6 +288,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ᱨᱮᱫᱽ ᱟᱨ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱚ
+downloads-header-2 =
+    .label = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ
 download-header = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ
 download-save-where = ᱨᱮ ᱨᱮᱫ ᱠᱚ ᱥᱟᱺᱪᱟᱣ
     .accesskey = v
