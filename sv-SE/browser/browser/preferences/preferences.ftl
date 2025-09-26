@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Mörkt
     .title = Använd ett mörkt utseende för webbplatsbakgrunder och innehåll.
+web-appearance-group =
+    .aria-label = Webbplatsens utseende
 preferences-web-appearance-choice-auto = Automatisk
 preferences-web-appearance-choice-light = Ljust
 preferences-web-appearance-choice-dark = Mörkt
@@ -1071,6 +1073,28 @@ autofill-saved-payment-methods-button = Sparade betalningsmetoder
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Kräv enhetsinloggning för att fylla i och hantera betalningsmetoder
     .accesskey = K
+autofill-payment-methods-title = Betalningsmetoder
+autofill-payment-methods-header =
+    .aria-label = Betalningsmetoder
+autofill-payment-methods-checkbox-message-2 =
+    .label = Spara och autofyll betalningsinfo
+    .accesskey = S
+autofill-payment-methods-manage-payments-button =
+    .label = Hantera betalningsmetoder
+    .accesskey = H
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Kräv enhetsinloggning för att autofylla och hantera betalningsmetoder
+    .accesskey = K
+autofill-addresses-title = Adresser och mer
+autofill-addresses-header =
+    .aria-label = Adresser och mer
+autofill-addresses-checkbox-message =
+    .label = Spara och fyll i adresser automatiskt
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Hantera adresser och mer
+    .accesskey = H
 
 ## Privacy Section - History
 
@@ -1513,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikat
+certs-description = Konfigurera certifikaten som { -brand-short-name } använder för autentisering.
 certs-enable-ocsp =
     .label = Fråga OCSP responder-servrar för att bekräfta certifikatens aktuella giltighet
     .accesskey = F

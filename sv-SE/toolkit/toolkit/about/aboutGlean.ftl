@@ -152,6 +152,11 @@ about-glean-no-data-to-display = Ingen data att visa.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Märkt mätvärden stöds ännu inte i <code>about:glean</code>-vyn.
 about-glean-unknown-metric-type-warning = Okänd mätvärdestyp.
+about-glean-enable-new-features-promo =
+    .message = Vi arbetar med att lägga till nya funktioner! De är fortfarande i aktiv utveckling, men klicka på åtgärdsknappen här om du vill aktivera dem.
+    .heading = Nya funktioner är på väg!
+about-glean-enable-new-features-button = Aktivera nya funktioner
+about-glean-disable-new-features-button = Inaktivera nya funktioner
 about-glean-about-data-explanation =
     För att bläddra i listan över insamlade data, vänligen konsultera
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } ordbok</a>.
