@@ -340,6 +340,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = 파일 및 애플리케이션
+download-save-where-2 =
+    .label = 저장 위치
+    .accesskey = v
 download-header = 다운로드
 download-save-where = 저장 위치
     .accesskey = v
