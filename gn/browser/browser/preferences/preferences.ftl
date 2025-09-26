@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Sa’y poravopyre omboyke mba’éichapa ojehecha ñanduti renda.
+preferences-web-appearance-link =
+    .label = Eñangareko téma { -brand-short-name } mba’ére Jepysokue ha téma rupi
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Sa’y poravopyre omboyke mba’éichapa ojehecha ñanduti renda. <a data-l10n-name="colors-link">Eñangareko sa’ýre</a>
