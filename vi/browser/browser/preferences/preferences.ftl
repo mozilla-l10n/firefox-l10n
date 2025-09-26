@@ -340,6 +340,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Tập tin và ứng dụng
+downloads-header-2 =
+    .label = Tải xuống
 download-header = Tải xuống
 download-save-where = Lưu tập tin vào
     .accesskey = v
