@@ -1522,6 +1522,9 @@ space-alert-under-5gb-message2 = <strong>Aplikácii { -brand-short-name } dochá
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Režim "Len HTTPS"
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Umožňuje iba zabezpečené pripojenie k webovým stránkam. { -brand-short-name } sa opýta pred použitím nezabezpečeného pripojenia.
 httpsonly-description3 = Umožňuje iba zabezpečené pripojenie k webovým stránkam. { -brand-short-name } sa opýta pred použitím nezabezpečeného pripojenia.
 httpsonly-learn-more2 = Ako funguje režim Len HTTPS
 httpsonly-description = Protokol HTTPS poskytuje bezpečné a šifrované spojenie medzi aplikáciou { -brand-short-name } a webmi, ktoré navštevujete. Väčšina webových stránok podporuje protokol HTTPS a ak je povolený režim "Len HTTPS", { -brand-short-name } zmení všetky pripojenia na zabezpečené.
