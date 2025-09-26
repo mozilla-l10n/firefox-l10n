@@ -352,6 +352,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Files e applicationes
+download-save-where-2 =
+    .label = Salvar le files in
+    .accesskey = S
 download-header = Discargamentos
 download-save-where = Salvar le files in
     .accesskey = S
