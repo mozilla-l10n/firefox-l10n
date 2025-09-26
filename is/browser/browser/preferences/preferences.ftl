@@ -1473,6 +1473,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er að verða upp
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Einungis-HTTPS-hamur
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
 httpsonly-description3 = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
 httpsonly-learn-more2 = Hvernig virkar Einungis-HTTPS
 httpsonly-description = HTTPS veitir örugga, dulkóðaða tengingu milli { -brand-short-name } og vefsvæðanna sem þú heimsækir. Flest vefsvæði styðja HTTPS og ef Einungis-HTTPS-hamur er virkt mun { -brand-short-name } verða allar tengingar uppfærðar í HTTPS.
