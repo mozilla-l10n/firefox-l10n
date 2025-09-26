@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Αποκτήστε γρήγορη πρόσβ�
 language-and-appearance-header = Γλώσσα και εμφάνιση
 preferences-web-appearance-header = Εμφάνιση ιστοτόπου
 preferences-web-appearance-description = Ορισμένοι ιστότοποι προσαρμόζουν το σύνολο χρωμάτων τους με βάση τις προτιμήσεις σας. Επιλέξτε ποιο σύνολο χρωμάτων θέλετε να χρησιμοποιήσετε για αυτούς τους ιστοτόπους.
+preferences-web-appearance-choice-auto2 =
+    .label = Αυτόματο
+    .title = Αυτόματη αλλαγή παρασκηνίου και περιεχομένου ιστοτόπων βάσει των ρυθμίσεων του συστήματός σας και του θέματος του { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Ανοιχτόχρωμο
+    .title = Χρήση ανοιχτόχρωμης εμφάνισης για φόντο και περιεχόμενο ιστοτόπων.
+preferences-web-appearance-choice-dark2 =
+    .label = Σκουρόχρωμο
+    .title = Χρήση σκουρόχρωμης εμφάνισης για φόντο και περιεχόμενο ιστοτόπων.
 preferences-web-appearance-choice-auto = Αυτόματο
 preferences-web-appearance-choice-light = Ανοιχτόχρωμο
 preferences-web-appearance-choice-dark = Σκουρόχρωμο
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Οι ρυθμίσεις σας για τον έλεγχο αντίθεσης υπερισχύουν της εμφάνισης του ιστοτόπου.
+preferences-web-appearance-link =
+    .label = Διαχειριστείτε τα θέματα του { -brand-short-name } στην ενότητα Επεκτάσεις και θέματα
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Οι επιλογές χρωμάτων σας υπερισχύουν της εμφάνισης του ιστοτόπου. <a data-l10n-name="colors-link">Διαχείριση χρωμάτων</a>
