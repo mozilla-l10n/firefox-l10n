@@ -1518,6 +1518,9 @@ space-alert-under-5gb-message2 = <strong>Le spatio de disco disponibile a { -bra
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo solo HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Solo permitte connexiones secur a sitos web. { -brand-short-name } demandara ante connecter in maniera non secur.
 httpsonly-description3 = Solo permitte connexiones secur a sitos web. { -brand-short-name } demandara ante connecter in maniera non secur.
 httpsonly-learn-more2 = Como functiona Solo-HTTPS
 httpsonly-description = HTTPS offere un connexion secur e cryptate inter { -brand-short-name } e le sitos web que tu visita. Le major parte del sitos web supporta le HTTPS, e si es activate Modo HTTPS-solo, alora { -brand-short-name } promovera tote le connexiones a HTTPS.
