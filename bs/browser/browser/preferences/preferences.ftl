@@ -351,6 +351,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fajlovi i aplikacije
+downloads-header-2 =
+    .label = Preuzimanja
 download-header = Preuzimanja
 download-save-where = Spasi fajlove u
     .accesskey = v
