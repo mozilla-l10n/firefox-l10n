@@ -352,6 +352,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dateien und Anwendungen
+downloads-header-2 =
+    .label = Downloads
 download-header = Downloads
 download-save-where = Alle Dateien in folgendem Ordner abspeichern:
     .accesskey = e
