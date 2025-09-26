@@ -358,6 +358,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Datoteke in programi
+downloads-header-2 =
+    .label = Prenosi
 download-header = Prenosi
 download-save-where = Shrani datoteke v
     .accesskey = S
