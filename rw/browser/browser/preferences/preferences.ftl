@@ -58,6 +58,9 @@ translate-exceptions =
 
 downloads-header-2 =
     .label = Ibyakuruwe
+download-save-where-2 =
+    .label = Kubika dosiye mu
+    .accesskey = K
 download-header = Ibyakuruwe
 download-save-where = Kubika dosiye mu
     .accesskey = K
