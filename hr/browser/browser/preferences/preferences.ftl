@@ -1476,6 +1476,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } pone
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = „Samo HTTPS” modus
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Dozvoljava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 httpsonly-description3 = Dozvoljava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 httpsonly-learn-more2 = Kako funkcionira modus „Samo HTTPS”
 httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između { -brand-short-name(case: "gen") } i web stranica koje posjećuješ. Većina web stranica podržava HTTPS, a ako je aktiviran „Samo HTTPS” modus, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
