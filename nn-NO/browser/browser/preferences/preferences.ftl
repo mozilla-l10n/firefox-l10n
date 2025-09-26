@@ -352,6 +352,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Filer og program
+download-save-where-2 =
+    .label = Lagre filer i
+    .accesskey = L
 download-header = Nedlastingar
 download-save-where = Lagre filer i
     .accesskey = L
