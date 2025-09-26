@@ -364,6 +364,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ffeiliau a Rhaglenni
+download-save-where-2 =
+    .label = Cadw ffeiliau yn
+    .accesskey = a
 download-header = Llwythi i lawr
 download-save-where = Cadw ffeiliau yn
     .accesskey = a
