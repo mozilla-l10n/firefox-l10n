@@ -352,6 +352,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ფაილები და პროგრამები
+downloads-header-2 =
+    .label = ჩამოტვირთვები
 download-save-where-2 =
     .label = ფაილების შესანახი მდებარეობა
     .accesskey = შ
