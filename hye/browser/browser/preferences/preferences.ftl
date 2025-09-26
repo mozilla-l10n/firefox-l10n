@@ -272,6 +272,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Նիշեր եւ յաւելուածներ
+downloads-header-2 =
+    .label = Ներբեռնումներ
+download-save-where-2 =
+    .label = Նիշերը պահել
+    .accesskey = ե
 download-header = Ներբեռնումներ
 download-save-where = Նիշերը պահել
     .accesskey = ե
