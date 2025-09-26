@@ -57,10 +57,10 @@ category-experimental =
 pane-experimental-subtitle = 注意して進んでください
 pane-experimental-search-results-header = { -brand-short-name } の実験的な機能: 注意して進んでください
 pane-experimental-description2 = 高度な設定を変更すると、{ -brand-short-name } の性能と安全性に影響を及ぼす可能性があります。
-pane-experimental-description3 = 実験的な機能を試してみてください！ 現在開発中ですが、{ -brand-short-name } の動作にインパクトを与えることでしょう。
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = 実験的な機能を試してみてください！ 現在開発中ですが、{ -brand-short-name } の動作にインパクトを与えることでしょう。
 pane-experimental-reset =
     .label = 既定値に戻す
     .accesskey = R
@@ -1249,6 +1249,9 @@ content-blocking-fingerprinters = フィンガープリント採取
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = 既知および疑わしいフィンガープリント採取
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = 包括的 Cookie 保護機能により現在のサイトへの Cookie が制限されているため、トラッカーはサイトを横断してあなたを追跡する Cookie を利用できません。
@@ -1501,6 +1504,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } を実行する�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only モード
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = 安全な接続だけをウェブサイトに許可します。接続が安全でない場合は { -brand-short-name } に確認を求められます。
 httpsonly-description3 = 安全な接続だけをウェブサイトに許可します。接続が安全でない場合は { -brand-short-name } に確認を求められます。
 httpsonly-learn-more2 = HTTPS-Only モードの動作について
 httpsonly-description = HTTPS は { -brand-short-name } とあなたが訪れるウェブサイトとの間に、暗号化された安全な接続を提供します。多くのウェブサイトは HTTPS に対応しており、HTTPS-Only モードを有効にすると { -brand-short-name } はすべての接続を HTTPS に切り替えます。
