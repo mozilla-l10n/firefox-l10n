@@ -479,6 +479,7 @@ desktop-to-mobile-qr-code-alt =
 
 ## Restore from Backup Flow about:welcome screens
 
+restore-from-backup-secondary-top-button = Restaurar do backup
 restore-from-backup-subtitle = Recupere todos os seus favoritos, histórico e outros dados para retomar a navegação.
 restore-from-backup-secondary-button = Não restaurar
 

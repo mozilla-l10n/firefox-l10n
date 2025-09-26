@@ -79,6 +79,7 @@ policy-ExtensionSettings = Gerenciar todos os aspectos da instalação de extens
 policy-ExtensionUpdate = Ativar ou desativar atualizações automáticas de extensões.
 policy-FirefoxHome2 = Configurar a { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Configurar o { -firefox-suggest-brand-name }.
+policy-GenerativeAI = Configurar recursos de IA generativa
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Forçar navegação direta em site da intranet em vez de pesquisar ao digitar uma única palavra na barra de endereços.
 policy-Handlers = Configurar manipuladores de aplicativos padrão.
 policy-HardwareAcceleration = Caso definido como "false", desativar a aceleração de hardware.
@@ -97,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reverter para o compor
 ##
 
 policy-LocalFileLinks = Permitir que sites específicos tenham links para arquivos locais.
+policy-LocalNetworkAccess = Ativar ou desativar verificações de acesso à rede local.
 policy-ManagedBookmarks = Configura uma lista de favoritos controlados por um administrador, que não podem ser alterados pelo usuário.
 policy-ManualAppUpdateOnly = Permitir apenas atualizações manuais e não notificar o usuário sobre atualizações disponíveis.
 policy-PrimaryPassword = Exigir ou impedir usar uma senha principal.
@@ -139,6 +141,7 @@ policy-SupportMenu = Adicionar um item de menu de suporte personalizado ao menu 
 policy-TranslateEnabled = Ativar ou desativar tradução de páginas web.
 policy-UserMessaging = Não mostrar determinadas mensagens para o usuário.
 policy-UseSystemPrintDialog = Imprimir usando o diálogo de impressão do sistema.
+policy-VisualSearchEnabled = Ativar ou desativar pesquisa visual.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear o acesso a determinados sites. Confira a documentação para mais detalhes sobre o formato.
 policy-Windows10SSO = Permitir autenticação única (single sign-on) do Windows em contas da Microsoft no trabalho e na escola.

@@ -308,6 +308,7 @@ pdfjs-comment-floating-button =
     .title = Comentário
     .aria-label = Comentário
 pdfjs-comment-floating-button-label = Comentário
+pdfjs-editor-comment-button-label = Comentar
 pdfjs-editor-signature-button =
     .title = Adicionar assinatura
 pdfjs-editor-signature-button-label = Adicionar assinatura
@@ -370,6 +371,8 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Editor de texto
     .default-content = Comece a digitar…
+pdfjs-editor-comments-sidebar-close-button-label = Fechar painel lateral
+pdfjs-editor-comments-sidebar-no-comments-link = Saiba mais
 
 ## Alt-text dialog
 
@@ -586,6 +589,12 @@ pdfjs-editor-add-signature-cancel-button = Cancelar
 pdfjs-editor-add-signature-add-button = Adicionar
 pdfjs-editor-edit-signature-update-button = Atualizar
 
+## Comment popup
+
+pdfjs-editor-edit-comment-popup-button-label = Editar comentário
+pdfjs-editor-edit-comment-popup-button =
+    .title = Editar comentário
+
 ##  Edit a comment dialog
 
 pdfjs-editor-edit-comment-actions-button-label = Ações
@@ -600,6 +609,10 @@ pdfjs-editor-edit-comment-manager-text-input =
     .placeholder = Digite seu comentário
 pdfjs-editor-edit-comment-manager-cancel-button = Cancelar
 pdfjs-editor-edit-comment-manager-save-button = Salvar
+# An existing comment is edited
+pdfjs-editor-edit-comment-dialog-title-when-editing = Editar comentário
+pdfjs-editor-edit-comment-dialog-cancel-button = Cancelar
+pdfjs-editor-edit-comment-dialog-save-button = Salvar
 
 ## Edit a comment button in the editor toolbar
 
