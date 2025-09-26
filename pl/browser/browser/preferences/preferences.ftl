@@ -250,6 +250,15 @@ browser-layout-show-sidebar-desc = Szybki dostęp do zakładek, kart z telefonu
 language-and-appearance-header = Język i wygląd
 preferences-web-appearance-header = Wygląd witryn internetowych
 preferences-web-appearance-description = Część witryn dostosowuje swój schemat kolorów na podstawie preferencji użytkownika. Wybierz schemat kolorów używany na tych witrynach.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatyczny
+    .title = Automatycznie zmieniaj tła i treści witryn na podstawie ustawień systemu i motywu przeglądarki { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Jasny
+    .title = Używaj jasnego wyglądu teł i treści witryn.
+preferences-web-appearance-choice-dark2 =
+    .label = Ciemny
+    .title = Używaj ciemnego wyglądu teł i treści witryn.
 preferences-web-appearance-choice-auto = Automatyczny
 preferences-web-appearance-choice-light = Jasny
 preferences-web-appearance-choice-dark = Ciemny
@@ -269,6 +278,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Ustawienia sterowania kontrastem mają pierwszeństwo przed ustawieniami wyglądu witryn.
+preferences-web-appearance-link =
+    .label = Zarządzaj motywami { -brand-short-name(case: "gen") } w Rozszerzenia i motywy
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Wybrane kolory mają pierwszeństwo przed ustawieniami wyglądu witryn. <a data-l10n-name="colors-link">Zarządzaj kolorami</a>
