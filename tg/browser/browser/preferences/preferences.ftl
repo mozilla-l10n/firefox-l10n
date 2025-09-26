@@ -1517,6 +1517,9 @@ space-alert-under-5gb-message2 = <strong>Фазои диски «{ -brand-short-
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Реҷаи «Танҳо HTTPS»
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Ин имкон танҳо ба пайвастҳои бехатар ба сомонаҳо иҷозат медиҳад. «{ -brand-short-name }» пеш аз сохтани пайвастшавии ҳифзнашуда иҷозат мепурсад.
 httpsonly-description3 = Ин имкон танҳо ба пайвастҳои бехатар ба сомонаҳо иҷозат медиҳад. «{ -brand-short-name }» пеш аз сохтани пайвастшавии ҳифзнашуда иҷозат мепурсад.
 httpsonly-learn-more2 = Чӣ тавр реҷаи «Танҳо HTTPS» кор мекунад
 httpsonly-description = HTTPS байни «{ -brand-short-name }» ва сомонаҳое, ки шумо истифода мебаред, пайвастшавии бехатар ва рамзгузоришударо таъмин менамояд. Бисёр сомонаҳо «HTTPS»-ро дастгирӣ менамоянд, ва агар Реҷаи «Танҳо HTTPS» фаъол шуда бошад, он гоҳ браузери «{ -brand-short-name }» ҳамаи пайвастҳоро ба «HTTPS» такмил медиҳад.
