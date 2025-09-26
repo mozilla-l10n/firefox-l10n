@@ -84,6 +84,9 @@ translate-exceptions =
 
 downloads-header-2 =
     .label = ଆହରଣ
+download-save-where-2 =
+    .label = ରେ ଫାଇଲଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ
+    .accesskey = v
 download-header = ଆହରଣ
 download-save-where = ରେ ଫାଇଲଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ
     .accesskey = v
