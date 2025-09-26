@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Dine indstillinger for kontrast tilsidesætter webstedets udseende.
+preferences-web-appearance-link =
+    .label = Håndter { -brand-short-name }-temaer i Udvidelser og temaer
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Dine farvevalg tilsidesætter webstedets udseende. <a data-l10n-name="colors-link">Håndter farver</a>
