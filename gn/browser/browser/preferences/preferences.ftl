@@ -1509,6 +1509,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } opyta disco pa’
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS año ayvu
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Omoneĩ jeike tekorosãme añoite ñanduti roguépe. { -brand-short-name } oporandúta eike mboyve tekorosã’ỹme.
 httpsonly-description3 = Omoneĩ jeike tekorosãme añoite ñanduti roguépe. { -brand-short-name } oporandúta eike mboyve tekorosã’ỹme.
 httpsonly-learn-more2 = Mba’éichapa oku’e HTTPS ayvu ha’eño
 httpsonly-description = HTTPS ome’ẽ jeikekatu ha ipapapýva { -brand-short-name } ha ñanduti renda eike hague pa’ũme. Heta ñanduti renda omoneĩ HTTPS, ha pe ayvu ha’eñóva-HTTPS oñemoneĩma, upévare { -brand-short-name } ombohekopyahúta opaite HTTPS-pe jeike.
