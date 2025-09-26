@@ -71,6 +71,9 @@ translate-exceptions =
 
 downloads-header-2 =
     .label = Ntwe
+download-save-where-2 =
+    .label = Sie mfael kɔ
+    .accesskey = e
 download-header = Ntwe
 download-save-where = Sie mfael kɔ
     .accesskey = e
