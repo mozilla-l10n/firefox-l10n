@@ -120,4 +120,8 @@ about-logging-no-uploaded-profiles = Nodjehupíri gueteri mba’ete.
 about-logging-delete-uploaded-profile = Mboguete
 about-logging-view-uploaded-profile = Ehecha mba’ete
 about-logging-delete-profile-confirm-title = Mba’ete Mboguete
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = ¿Emboguesépa añetehápe ko “{ $profileName }”? Ndaikatúi ojeipe’a.
 about-logging-deleting-profile = Oguehína…
