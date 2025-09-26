@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = הגדרות בקרת הניגודיות שלך דורסות את מראה האתר.
+preferences-web-appearance-link =
+    .label = ניהול ערכות נושא של { -brand-short-name } בהרחבות וערכות נושא
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = בחירות הצבעים שלך דורסות את מראה האתר. <a data-l10n-name="colors-link">ניהול צבעים</a>
