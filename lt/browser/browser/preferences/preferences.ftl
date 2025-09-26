@@ -283,6 +283,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Failai ir programos
+downloads-header-2 =
+    .label = Atsiuntimai
 download-save-where-2 =
     .label = Atsiunčiamus failus įrašyti į:
     .accesskey = f
