@@ -232,6 +232,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ഫയലുകളും ആപ്ലിക്കേഷനുകളും
+downloads-header-2 =
+    .label = ഇറക്കിവയ്ക്കലുകൾ
 download-save-where-2 =
     .label = ഫയലുകള്‍ ഇവിടെ സൂക്ഷിക്കുക
     .accesskey = v
