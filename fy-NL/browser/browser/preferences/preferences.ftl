@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Benaderje fluch blêdwizers, ljepblêden fan 
 language-and-appearance-header = Taal en úterlik
 preferences-web-appearance-header = Uterlik fan de website
 preferences-web-appearance-description = Guon websites passe harren kleureskema oan op basis fan jo foarkarren. Kies hokker kleureskema jo foar dy websites brûke wolle.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatysk
+    .title = Automatysk website-eftergrûnen en -ynhâld wizigje op basis fan jo systeemynstellingen en { -brand-short-name }-tema.
+preferences-web-appearance-choice-light2 =
+    .label = Ljocht
+    .title = In ljochte útstrieling foar website-eftergrûnen en -ynhâld brûke.
+preferences-web-appearance-choice-dark2 =
+    .label = Donker
+    .title = In donkere útstrieling foar website-eftergrûnen en -ynhâld brûke.
 preferences-web-appearance-choice-auto = Automatysk
 preferences-web-appearance-choice-light = Ljocht
 preferences-web-appearance-choice-dark = Donker
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Jo ynstellingen foar kontrastregeling hawwe foarrang op it uterlik fan de website.
+preferences-web-appearance-link =
+    .label = Jo kinne { -brand-short-name }-tema’s beheare yn Utwreidingen en tema’s
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Jo kleurseleksjes hawwe foarrang op it uterlik fan de website. <a data-l10n-name="colors-link">Kleuren beheare</a>
