@@ -56,6 +56,8 @@ choose-button =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = பதிவிறக்கங்கள்
 download-header = பதிவிறக்கங்கள்
 download-save-where = கோப்புகளை இங்கே சேமிக்க
     .accesskey = v
@@ -156,8 +158,7 @@ network-proxy-connection-settings =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
