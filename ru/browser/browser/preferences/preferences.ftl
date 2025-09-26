@@ -355,6 +355,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Файлы и приложения
+downloads-header-2 =
+    .label = Загрузки
+download-save-where-2 =
+    .label = Путь для сохранения файлов
+    .accesskey = ь
 download-header = Загрузки
 download-save-where = Путь для сохранения файлов
     .accesskey = ь
