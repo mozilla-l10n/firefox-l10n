@@ -307,6 +307,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Datnes un lietotnes
+downloads-header-2 =
+    .label = Lejupielādes
+download-save-where-2 =
+    .label = Vieta, kur saglabāt datnes:
+    .accesskey = k
 download-header = Lejupielādes
 download-save-where = Vieta, kur saglabāt datnes:
     .accesskey = k
