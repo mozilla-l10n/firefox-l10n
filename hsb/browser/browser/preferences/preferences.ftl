@@ -358,6 +358,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dataje a nałoženja
+download-save-where-2 =
+    .label = Dataje składować do
+    .accesskey = k
 download-header = Sćehnjenja
 download-save-where = Dataje składować do
     .accesskey = k
