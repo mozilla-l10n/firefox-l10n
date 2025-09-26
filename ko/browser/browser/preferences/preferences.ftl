@@ -1502,6 +1502,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS 전용 모드
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = 웹 사이트에 보안 연결만 허용합니다. { -brand-short-name }는 안전하지 않은 연결을 하기 전에 묻습니다.
 httpsonly-description3 = 웹 사이트에 보안 연결만 허용합니다. { -brand-short-name }는 안전하지 않은 연결을 하기 전에 묻습니다.
 httpsonly-learn-more2 = HTTPS 전용 모드 작동 방식
 httpsonly-description = HTTPS는 { -brand-short-name }와 사용자가 방문한 웹 사이트 간에 안전한 암호화된 연결을 제공합니다. 대부분의 웹 사이트는 HTTPS를 지원하며, HTTPS 전용 모드를 사용하도록 설정한 경우 { -brand-short-name }는 모든 연결을 HTTPS로 업그레이드합니다.
