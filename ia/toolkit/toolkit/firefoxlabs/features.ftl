@@ -76,3 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = Mantene tu age
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Recerca chronologic semantic
+experimental-features-semantic-history-search-description = Usa un Machine Learning model local pro suggerer entratas ab le chronologia relative a tu recercas basate sur le comprension del lingua natural in the barra de adresses de { -brand-product-name }. <a data-l10n-name="connect">Compartir commento</a>

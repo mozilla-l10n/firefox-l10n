@@ -73,3 +73,6 @@ experimental-features-newtab-widget-timer-description = Stajće časoměr, zo by
 experimental-features-newtab-widget-lists-and-timer =
     .label = Lisćiny a časoměr w { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Wobchowajće swoju nadawkowu lisćinu we wóčku, hdyž nowy rajtark wočinjeće. Wot zapakowanskich lisćinow do nakupowanskich lisćinow, čińće swoje plany w { -brand-product-name }. Nastajće časoměr, zo byšće koncentrowany wostał, postorčće so, zo byšće w ćěri wostał abo dopomńće so, zo byšće swoje mocy zaso natankował. <a data-l10n-name="connect">Měnjenje zdźělić</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantiske pytanje historije

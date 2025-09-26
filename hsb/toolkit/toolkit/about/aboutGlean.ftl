@@ -172,6 +172,8 @@ about-glean-no-data-to-display = Za pokazowanje daty njejsu.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Popisane metriki so w napohledźe <code>about:glean</code> hišće njepodpěruja.
 about-glean-unknown-metric-type-warning = Njeznaty typ metriki.
+about-glean-enable-new-features-button = Nowe funkcije zmóžnić
+about-glean-disable-new-features-button = Nowe funkcije znjemóžnić
 about-glean-about-data-explanation =
     Zo byšće lisćinu zhromadźenych datow přepytał, skonsultujće
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.

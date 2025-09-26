@@ -1100,6 +1100,9 @@ autofill-addresses-header =
 autofill-addresses-checkbox-message =
     .label = Adresy składować a awtomatisce wupjelnić
     .accesskey = A
+autofill-addresses-manage-addresses-button =
+    .label = Adresy a wjace rjadować
+    .accesskey = r
 
 ## Privacy Section - History
 
@@ -1542,6 +1545,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikaty
+certs-description = Konfigurujće certifikaty, kotrež { -brand-short-name } za awtentifikaciju wužiwa.
 certs-enable-ocsp =
     .label = Pola wotmołwnych serwerow OCSP so naprašować, zo by aktualnu płaćiwosć certifikatow wobkrućiło
     .accesskey = P
