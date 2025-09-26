@@ -298,6 +298,19 @@ browser-layout-show-sidebar-desc = Získejte rychlý přístup k záložkám, pa
 language-and-appearance-header = Zobrazení a jazyk stránek
 preferences-web-appearance-header = Vzhled webových stránek
 preferences-web-appearance-description = Některé stránky dokáží upravit svůj vzhled podle vašeho nastavení. Vyberte vzhled, který chcete na takových stránkách použít.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatický
+    .title =
+        { -brand-short-name.case-status ->
+            [with-cases] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
+           *[no-cases] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a aplikace { -brand-short-name }.
+        }
+preferences-web-appearance-choice-light2 =
+    .label = Světlý
+    .title = Použije pro pozadí a obsah webových stránek vzhled se světlým barevným tématem.
+preferences-web-appearance-choice-dark2 =
+    .label = Tmavý
+    .title = Použije pro pozadí a obsah webových stránek vzhled s tmavým barevným tématem.
 preferences-web-appearance-choice-auto = Automatický
 preferences-web-appearance-choice-light = Světlý
 preferences-web-appearance-choice-dark = Tmavý
