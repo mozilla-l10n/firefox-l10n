@@ -312,6 +312,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fichièrs e aplicacions
+downloads-header-2 =
+    .label = Telecargaments
 download-header = Telecargaments
 download-save-where = Enregistrar los fichièrs dins lo dossièr
     .accesskey = n
