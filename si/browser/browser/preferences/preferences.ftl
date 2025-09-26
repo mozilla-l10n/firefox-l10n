@@ -320,6 +320,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ගොනු සහ යෙදුම්
+downloads-header-2 =
+    .label = බාගැනීම්
+download-save-where-2 =
+    .label = වෙත ගොනු සුරකින්න
+    .accesskey = v
 download-header = බාගැනීම්
 download-save-where = වෙත ගොනු සුරකින්න
     .accesskey = v
