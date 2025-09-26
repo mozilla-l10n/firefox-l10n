@@ -1522,6 +1522,9 @@ space-alert-under-5gb-message2 = <strong>Для { -brand-short-name } закін
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-режим
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Дозволяє лише захищені з'єднання з вебсайтами. { -brand-short-name } запитає перш ніж встановлювати незахищене з'єднання.
 httpsonly-description3 = Дозволяє лише захищені з'єднання з вебсайтами. { -brand-short-name } запитає перш ніж встановлювати незахищене з'єднання.
 httpsonly-learn-more2 = Як працює HTTPS-режим
 httpsonly-description = HTTPS забезпечує захищене, зашифроване з'єднання між { -brand-short-name } та відвідуваними вебсайтами. Більшість вебсайтів підтримують HTTPS, тому якщо увімкнено HTTPS-режим, { -brand-short-name } перенаправлятиме усі з'єднання до HTTPS.
