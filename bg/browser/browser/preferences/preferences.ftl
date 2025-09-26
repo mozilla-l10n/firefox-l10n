@@ -344,6 +344,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Файлове и приложения
+downloads-header-2 =
+    .label = Изтегляния
 download-save-where-2 =
     .label = Запазване на файловете в
     .accesskey = З
