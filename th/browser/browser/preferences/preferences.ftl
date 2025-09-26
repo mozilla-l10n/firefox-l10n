@@ -340,6 +340,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ไฟล์และแอปพลิเคชัน
+downloads-header-2 =
+    .label = การดาวน์โหลด
+download-save-where-2 =
+    .label = บันทึกไฟล์ไปยัง
+    .accesskey = ฟ
 download-header = การดาวน์โหลด
 download-save-where = บันทึกไฟล์ไปยัง
     .accesskey = ฟ
