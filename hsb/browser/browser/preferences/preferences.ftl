@@ -281,6 +281,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Waše nastajenja kontrastoweje kontrole napohlad websydła přepisuja.
+preferences-web-appearance-link =
+    .label = Drasty { -brand-short-name } w Rozšěrjenja a drasty rjadować
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Waše barbowe wuběry napohlad websydła přepisuja. <a data-l10n-name="colors-link">Barby rjadować</a>
