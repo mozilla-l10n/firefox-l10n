@@ -355,6 +355,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Файлы і праграмы
+downloads-header-2 =
+    .label = Сцягванні
 download-header = Сцягванні
 download-save-where = Захоўваць файлы ў
     .accesskey = З
