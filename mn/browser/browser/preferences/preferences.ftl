@@ -68,6 +68,9 @@ translate-exceptions =
 
 downloads-header-2 =
     .label = Файл татаж авах үед
+download-save-where-2 =
+    .label = Файлыг энд хадгал
+    .accesskey = д
 download-header = Файл татаж авах үед
 download-save-where = Файлыг энд хадгал
     .accesskey = д
