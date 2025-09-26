@@ -128,6 +128,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 files-and-applications-title = ಕಡತಗಳು ಮತ್ತು ಅನ್ವಯಕಗಳು
+downloads-header-2 =
+    .label = ಡೌನ್‍ಲೋಡ್‍ಗಳು
 download-save-where-2 =
     .label = ಕಡತಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸು
     .accesskey = v
