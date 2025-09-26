@@ -1502,6 +1502,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Chế độ chỉ HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Chỉ cho phép các kết nối an toàn đến các trang web. { -brand-short-name } sẽ hỏi trước khi kết nối không an toàn.
 httpsonly-description3 = Chỉ cho phép các kết nối an toàn đến các trang web. { -brand-short-name } sẽ hỏi trước khi kết nối không an toàn.
 httpsonly-learn-more2 = Chế độ Chỉ HTTPS hoạt động như thế nào
 httpsonly-description = HTTPS cung cấp kết nối được mã hóa an toàn giữa { -brand-short-name } và các trang web bạn truy cập. Hầu hết các trang web đều hỗ trợ HTTPS và nếu chế độ chỉ HTTPS được bật, thì { -brand-short-name } sẽ nâng cấp tất cả các kết nối lên HTTPS.
