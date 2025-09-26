@@ -352,6 +352,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dosieroj kaj programoj
+downloads-header-2 =
+    .label = Elŝutoj
 download-save-where-2 =
     .label = Konservi dosierojn en
     .accesskey = d
