@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Greifen Sie schnell auf Lesezeichen, Tabs von
 language-and-appearance-header = Sprache und Erscheinungsbild
 preferences-web-appearance-header = Erscheinungsbild von Websites
 preferences-web-appearance-description = Einige Websites passen ihr Farbschema basierend auf Ihren Einstellungen an. Wählen Sie aus, welches Farbschema Sie für diese Websites verwenden möchten.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatisch
+    .title = Automatisch die Seitenhintergründe und -inhalte auf der Grundlage von Systemeinstellungen und { -brand-short-name }-Theme anpassen
+preferences-web-appearance-choice-light2 =
+    .label = Hell
+    .title = Ein helles Erscheinungsbild für Hintergründe und Inhalte von Websites verwenden
+preferences-web-appearance-choice-dark2 =
+    .label = Dunkel
+    .title = Ein dunkles Erscheinungsbild für Hintergründe und Inhalte von Websites verwenden
 preferences-web-appearance-choice-auto = Automatisch
 preferences-web-appearance-choice-light = Hell
 preferences-web-appearance-choice-dark = Dunkel
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Ihre Kontrast-Einstellungen überschreiben das Erscheinungsbild von Websites.
+preferences-web-appearance-link =
+    .label = Verwalten Sie { -brand-short-name }-Themes in Erweiterungen & Themes.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ihre Farbauswahl überschreibt das Erscheinungsbild von Websites. <a data-l10n-name="colors-link">Farben verwalten</a>
