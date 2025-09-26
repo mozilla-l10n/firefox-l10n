@@ -250,6 +250,15 @@ browser-layout-show-sidebar-desc = Accesează rapid marcaje, file de pe telefon,
 language-and-appearance-header = Limbă și aspect
 preferences-web-appearance-header = Aspectul site-urilor web
 preferences-web-appearance-description = Unele site-uri web își adaptează schema de culori pe baza preferințelor tale. Alege schema de culori pe care dorești să o folosești pentru aceste site-uri.
+preferences-web-appearance-choice-auto2 =
+    .label = Automat
+    .title = Schimbă automat fundalurile și conținutul site-urilor web în funcție de setările sistemului și de tema { -brand-short-name }
+preferences-web-appearance-choice-light2 =
+    .label = Deschis
+    .title = Folosește un aspect deschis pentru fundalurile și conținutul site-urilor web.
+preferences-web-appearance-choice-dark2 =
+    .label = Întunecat
+    .title = Folosește un aspect întunecat pentru fundalurile și conținutul site-urilor web.
 preferences-web-appearance-choice-auto = Automat
 preferences-web-appearance-choice-light = Deschis
 preferences-web-appearance-choice-dark = Întunecat
@@ -269,6 +278,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Setările de reglare a contrastului au prioritate față de aspectul site-ului web.
+preferences-web-appearance-link =
+    .label = Gestionează temele { -brand-short-name } în Extensii și teme
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Alegerile tale de culoare suprascriu aspectul site-urilor web. <a data-l10n-name="colors-link">Gestionează culorile</a>
