@@ -297,6 +297,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ֆայլեր և հավելվածներ
+downloads-header-2 =
+    .label = Ներբեռնումներ
 download-save-where-2 =
     .label = Ֆայլերը պահպանել`
     .accesskey = ե
