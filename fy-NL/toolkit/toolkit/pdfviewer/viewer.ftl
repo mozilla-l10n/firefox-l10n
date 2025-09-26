@@ -388,6 +388,7 @@ pdfjs-editor-comments-sidebar-close-button =
 pdfjs-editor-comments-sidebar-close-button-label = De sydbalke slute
 # Instructional copy to add a comment by selecting text or an annotations.
 pdfjs-editor-comments-sidebar-no-comments1 = Sjogge jo wat it neamen wurdich? Markearje it en lit in opmerking efter.
+pdfjs-editor-comments-sidebar-no-comments-link = Mear ynfo
 
 ## Alt-text dialog
 
@@ -604,6 +605,15 @@ pdfjs-editor-add-signature-cancel-button = Annulearje
 pdfjs-editor-add-signature-add-button = Tafoegje
 pdfjs-editor-edit-signature-update-button = Bywurkje
 
+## Comment popup
+
+pdfjs-editor-edit-comment-popup-button-label = Opmerking bewurkje
+pdfjs-editor-edit-comment-popup-button =
+    .title = Opmerking bewurkje
+pdfjs-editor-delete-comment-popup-button-label = Opmerking fuortsmite
+pdfjs-editor-delete-comment-popup-button =
+    .title = Opmerking fuortsmite
+
 ##  Edit a comment dialog
 
 pdfjs-editor-edit-comment-actions-button-label = Aksjes
@@ -618,6 +628,13 @@ pdfjs-editor-edit-comment-manager-text-input =
     .placeholder = Fier jo opmerking yn
 pdfjs-editor-edit-comment-manager-cancel-button = Annulearje
 pdfjs-editor-edit-comment-manager-save-button = Bewarje
+# An existing comment is edited
+pdfjs-editor-edit-comment-dialog-title-when-editing = Opmerking bewurkje
+# No existing comment
+pdfjs-editor-edit-comment-dialog-title-when-adding = Opmerking tafoegje
+pdfjs-editor-edit-comment-dialog-text-input =
+    .placeholder = Begjin mei typen…
+pdfjs-editor-edit-comment-dialog-cancel-button = Annulearje
 
 ## Edit a comment button in the editor toolbar
 
