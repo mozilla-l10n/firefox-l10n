@@ -1518,6 +1518,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Alleen-HTTPS-modus
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Staat alleen beveiligde verbindingen met websites toe. { -brand-short-name } zal vragen voordat een onveilige verbinding wordt gemaakt.
 httpsonly-description3 = Staat alleen beveiligde verbindingen met websites toe. { -brand-short-name } zal vragen voordat een onveilige verbinding wordt gemaakt.
 httpsonly-learn-more2 = Hoe Alleen-HTTPS werkt
 httpsonly-description = HTTPS biedt een veilige, versleutelde verbinding tussen { -brand-short-name } en de door u bezochte websites. De meeste websites ondersteunen HTTPS en als de Alleen-HTTPS-modus is ingeschakeld, zal { -brand-short-name } alle verbindingen upgraden naar HTTPS.
