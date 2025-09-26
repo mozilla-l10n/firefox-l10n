@@ -263,6 +263,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = 대비 제어 설정이 웹 사이트 화면 배색보다 우선합니다.
+preferences-web-appearance-link =
+    .label = 확장 기능 및 테마에서 { -brand-short-name } 테마 관리
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 선택한 색상이 웹 사이트 화면 배색보다 우선합니다. <a data-l10n-name="colors-link">색상 관리</a>
