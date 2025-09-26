@@ -1000,7 +1000,7 @@ forms-primary-pw-use =
     .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = 비밀번호를 입력하고 관리하는 데 기기 로그인 요구
+    .label = 비밀번호 채우기 및 관리에 기기 로그인 요구
 forms-primary-pw-learn-more-link = 더 알아보기
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1066,6 +1066,19 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = 결제 방법 관리
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = 자동 채우기 및 결제 방법 관리에 기기 로그인 요구
+    .accesskey = o
+autofill-addresses-title = 주소 및 기타
+autofill-addresses-header =
+    .aria-label = 주소 및 기타
+autofill-addresses-checkbox-message =
+    .label = 주소 저장 및 자동 채우기
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = 주소 및 기타 관리
+    .accesskey = M
 
 ## Privacy Section - History
 
@@ -1508,6 +1521,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = 인증서
+certs-description = { -brand-short-name }가 인증에 사용하는 인증서를 구성합니다.
 certs-enable-ocsp =
     .label = 인증서의 현재 유효성을 확인하기 위해 OCSP 응답기 서버에 쿼리
     .accesskey = Q
