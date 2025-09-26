@@ -334,6 +334,12 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Vaše nastavení kontrastu má přednost před vzhledem webu.
+preferences-web-appearance-link =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Vzhled { -brand-short-name(case: "gen") } nastavíte ve správci doplňků
+           *[no-cases] Vzhled aplikace { -brand-short-name } nastavíte ve správci doplňků
+        }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vaše nastavení upravuje vzhled stránky. <a data-l10n-name="colors-link">Nastavit barvy</a>
