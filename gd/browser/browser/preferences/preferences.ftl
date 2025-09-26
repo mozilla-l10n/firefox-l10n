@@ -291,6 +291,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Faidhlichean is aplacaidean
+downloads-header-2 =
+    .label = Luchdaidhean a-nuas
 download-header = Luchdaidhean a-nuas
 download-save-where = Sàbhail faidhlichean ann an
     .accesskey = S
