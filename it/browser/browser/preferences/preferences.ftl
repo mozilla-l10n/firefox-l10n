@@ -1073,6 +1073,28 @@ autofill-saved-payment-methods-button = Metodi di pagamento salvati
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Richiedi conferma dell’accesso al dispositivo per compilare automaticamente e gestire i metodi di pagamento
     .accesskey = u
+autofill-payment-methods-title = Metodi di pagamento
+autofill-payment-methods-header =
+    .aria-label = Metodi di pagamento
+autofill-payment-methods-checkbox-message-2 =
+    .label = Salva e compila automaticamente i metodi di pagamento
+    .accesskey = m
+autofill-payment-methods-manage-payments-button =
+    .label = Gestisci metodi di pagamento
+    .accesskey = G
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Richiedi conferma dell’accesso al dispositivo per compilare automaticamente e gestire i metodi di pagamento
+    .accesskey = s
+autofill-addresses-title = Indirizzi e altri dati
+autofill-addresses-header =
+    .aria-label = Indirizzi e altri dati
+autofill-addresses-checkbox-message =
+    .label = Salva e compila automaticamente gli indirizzi
+    .accesskey = z
+autofill-addresses-manage-addresses-button =
+    .label = Gestisci indirizzi e altri dati
+    .accesskey = d
 
 ## Privacy Section - History
 
