@@ -352,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Bestannen en Tapassingen
+downloads-header-2 =
+    .label = Downloads
+download-save-where-2 =
+    .label = Bestannen bewarje yn
+    .accesskey = e
 download-header = Downloads
 download-save-where = Bestannen bewarje yn
     .accesskey = e
