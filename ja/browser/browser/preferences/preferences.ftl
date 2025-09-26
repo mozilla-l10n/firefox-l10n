@@ -263,6 +263,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = コントラスト制御の設定でウェブサイトの外観を上書きします。
+preferences-web-appearance-link =
+    .label = アドオンとテーマ で { -brand-short-name } のテーマを管理する
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 選択した配色でウェブサイトの外観を上書きします。<a data-l10n-name="colors-link">配色の管理</a>
