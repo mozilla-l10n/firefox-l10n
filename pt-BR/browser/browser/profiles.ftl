@@ -299,3 +299,27 @@ hammer-avatar-tooltip =
     .tooltiptext = Usar avatar de martelo
 heart-avatar-tooltip =
     .tooltiptext = Usar avatar de coração
+clock-avatar-tooltip =
+    .tooltiptext = Usar avatar de relógio
+leaf-avatar-tooltip =
+    .tooltiptext = Usar avatar de folha
+makeup-avatar-tooltip =
+    .tooltiptext = Usar avatar de maquiagem
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Usar avatar de mensagem
+musical-note-avatar-tooltip =
+    .tooltiptext = Usar avatar de nota musical
+plane-avatar-tooltip =
+    .tooltiptext = Usar avatar de avião
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Usar avatar de presente
+shopping-avatar-tooltip =
+    .tooltiptext = Usar avatar de carrinho de compras
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Usar avatar de bola de futebol
+star-avatar-tooltip =
+    .tooltiptext = Usar avatar de estrela
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Usar avatar de controle de videogame
