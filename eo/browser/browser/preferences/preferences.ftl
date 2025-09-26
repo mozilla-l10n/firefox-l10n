@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Viaj agordoj de kontrasto modifas la aspekton de retejoj.
+preferences-web-appearance-link =
+    .label = Administri la etosojn de { -brand-short-name } en Etendaĵoj kaj etosoj
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Via elekto de koloroj superregas la aspekton de retejoj. <a data-l10n-name="colors-link">Administri kolorojn</a>
