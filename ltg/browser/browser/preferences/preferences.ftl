@@ -158,6 +158,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Faili i programys
+downloads-header-2 =
+    .label = Lejupīluodes
 download-save-where-2 =
     .label = Vīta, kur saglobuot failus:
     .accesskey = k
