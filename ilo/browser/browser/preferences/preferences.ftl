@@ -24,9 +24,30 @@ should-restart-title = Irugi manen ti { -brand-short-name }
 cancel-no-restart-button = Ibabawi
 restart-later = Irugi Manen Intono Madamdama
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Pagirugian
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -44,6 +65,11 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Downloads
+download-save-where-2 =
+    .label = Pagidulinan ti intar
+    .accesskey = v
 download-header = Downloads
 download-save-where = Pagidulinan ti intar
     .accesskey = v
@@ -93,11 +119,26 @@ performance-allow-hw-accel =
 
 browsing-title = Panagsursur
 
+## General Section - Proxy
+
+
+## Home Section
+
+
 ## Home Section - Home Page Customization
 
 choose-bookmark =
     .label = Aramaten ti pannanda...
     .accesskey = m
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
 
 ## Search Section
 
@@ -107,6 +148,29 @@ search-choose-keyword-column =
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Napamindua a Balikas-tulbek
 
+## Containers Section
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -115,6 +179,19 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Pakasaritaan
     .accesskey = r
+
+## The device name controls.
+
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
 
 ## Privacy Section - Passwords
 
@@ -128,6 +205,12 @@ forms-master-pw-change =
     .label = Sukatan ti Kontrasenias a Maestro...
     .accesskey = M
 forms-master-pw-fips-desc = Napaay ti Panagsukat ti Kontrasenias
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -143,15 +226,58 @@ sitedata-total-size-calculating = Bilbilangen ti kadakkel dagiti datos ti sitio 
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dagiti indulin a galietas, datos ti sitio ken dadduma nga impempen ket agnanaed iti { $value } a { $unit } iti disk.
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-addon-exceptions =
     .label = Laksid...
     .accesskey = E
 
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
 ## Privacy Section - Certificates
 
 certs-header = Sertipiko
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
