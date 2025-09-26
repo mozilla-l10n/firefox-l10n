@@ -278,6 +278,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Ваші налаштування контрастності мають перевагу над зовнішнім виглядом вебсайту.
+preferences-web-appearance-link =
+    .label = Керуйте темами { -brand-short-name } у розділі Розширення й теми
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Вибрані кольори мають перевагу над зовнішнім виглядом вебсайту. <a data-l10n-name="colors-link">Керувати кольорами</a>
