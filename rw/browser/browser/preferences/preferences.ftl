@@ -56,6 +56,8 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Ibyakuruwe
 download-header = Ibyakuruwe
 download-save-where = Kubika dosiye mu
     .accesskey = K
@@ -143,8 +145,7 @@ use-current-pages =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
