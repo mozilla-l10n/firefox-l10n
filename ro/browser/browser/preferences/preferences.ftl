@@ -1519,6 +1519,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } rămâne fără s
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mod numai HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
 httpsonly-description3 = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
 httpsonly-learn-more2 = Cum funcționează Numai HTTPS
 httpsonly-description = HTTPS oferă o conexiune criptată și securizată între { -brand-short-name } și site-urile web pe care intri. Cele mai multe site-uri au suport pentru HTTPS și, dacă este activat modul numai HTTPS, atunci { -brand-short-name } va folosi HTTPS pentru toate conexiunile.
