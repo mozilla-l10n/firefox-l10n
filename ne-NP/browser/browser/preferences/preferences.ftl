@@ -146,6 +146,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = फाइलहरू र अनुप्रयोगहरू
+downloads-header-2 =
+    .label = डाउनलोडहरू
 download-save-where-2 =
     .label = फाइलहरू यहाँ सङ्ग्रह गर्नुहोस्
     .accesskey = v
