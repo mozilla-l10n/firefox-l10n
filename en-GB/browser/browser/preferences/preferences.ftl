@@ -1518,6 +1518,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } is running out of
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only Mode
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Only allows secure connections to web sites. { -brand-short-name } will ask before connecting insecurely.
 httpsonly-description3 = Only allows secure connections to web sites. { -brand-short-name } will ask before connecting insecurely.
 httpsonly-learn-more2 = How HTTPS-Only works
 httpsonly-description = HTTPS provides a secure, encrypted connection between { -brand-short-name } and the web sites you visit. Most web sites support HTTPS, and if HTTPS-Only Mode is enabled, then { -brand-short-name } will upgrade all connections to HTTPS.
