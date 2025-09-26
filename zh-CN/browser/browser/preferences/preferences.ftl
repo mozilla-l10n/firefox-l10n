@@ -348,6 +348,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = 文件与应用程序
+download-save-where-2 =
+    .label = 保存文件至
+    .accesskey = v
 download-header = 下载
 download-save-where = 保存文件至
     .accesskey = v
