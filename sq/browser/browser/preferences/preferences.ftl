@@ -1459,6 +1459,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name }-it po i mbarohet 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mënyra Vetëm-HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Lejon vetëm lidhje të siguruara te sajtet. { -brand-short-name }-i do të pyesë, para lidhjes në mënyrë jo të siguruar.
 httpsonly-description3 = Lejon vetëm lidhje të siguruara te sajtet. { -brand-short-name }-i do të pyesë, para lidhjes në mënyrë jo të siguruar.
 httpsonly-learn-more2 = Si funksionon Vetëm-HTTPS-ja
 httpsonly-description = HTTPS-ja furnizon një lidhje të siguruar, të fshehtëzuar, mes { -brand-short-name }-it dhe sajtit që vizitoni. Shumica e sajteve e mbulojnë përdorimin e HTTPS-së dhe, nëse është aktivizuar mënyrë Vetëm-HTTPS, atëherë { -brand-short-name }-i do t’i kalojë krejt lidhjet nën mënyrën HTTPS.
