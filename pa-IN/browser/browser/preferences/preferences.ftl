@@ -352,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ਫ਼ਾਈਲਾਂ ਅਤੇ ਐਪਲੀਕੇਸ਼ਨਾਂ
+downloads-header-2 =
+    .label = ਡਾਊਨਲੋਡ
+download-save-where-2 =
+    .label = ਫ਼ਾਈਲਾਂ ਨੂੰ ਸੰਭਾਲੋ
+    .accesskey = v
 download-header = ਡਾਊਨਲੋਡ
 download-save-where = ਫ਼ਾਈਲਾਂ ਨੂੰ ਸੰਭਾਲੋ
     .accesskey = v
