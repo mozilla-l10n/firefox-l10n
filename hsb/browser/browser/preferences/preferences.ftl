@@ -262,6 +262,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Ćmowy
     .title = Ćmowy napohlad za pozadki websydłow a wobsah wužiwać.
+web-appearance-group =
+    .aria-label = Napohlad websydła
 preferences-web-appearance-choice-auto = Awtomatiski
 preferences-web-appearance-choice-light = Swětły
 preferences-web-appearance-choice-dark = Ćmowy
@@ -1079,6 +1081,25 @@ autofill-saved-payment-methods-button = Składowane płaćenske metody
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Gratowe přizjewjenje za wupjelnjenje a rjadowanje płaćenskich metodow žadać
     .accesskey = r
+autofill-payment-methods-title = Płaćenske metody
+autofill-payment-methods-header =
+    .aria-label = Płaćenske metody
+autofill-payment-methods-checkbox-message-2 =
+    .label = Płaćenske informacije składować a wupjelnić
+    .accesskey = P
+autofill-payment-methods-manage-payments-button =
+    .label = Płaćenske metody rjadować
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Gratowe přizjewjenje za awtomatiske wupjelnjenje a rjadowanje płaćenskich metodow požadać
+    .accesskey = G
+autofill-addresses-title = Adresy a wjace
+autofill-addresses-header =
+    .aria-label = Adresy a wjace
+autofill-addresses-checkbox-message =
+    .label = Adresy składować a awtomatisce wupjelnić
+    .accesskey = A
 
 ## Privacy Section - History
 

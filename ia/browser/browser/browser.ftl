@@ -1459,6 +1459,7 @@ trustpanel-connection-label-insecure = Connexion non secur
 trustpanel-header-enabled = { -brand-product-name } es in alerta
 trustpanel-description-enabled2 = Tu es protegite. Si nos discoperi alco, lo facera saper vos.
 trustpanel-header-enabled-insecure = Sia attente in iste sito
+trustpanel-description-enabled-insecure = { -brand-product-name } notava alco suspecte.
 trustpanel-description-enabled = Tu es protegite. Si nos discoperi alco, lo facera saper vos
 trustpanel-header-disabled = Tu disactivava le protectiones
 trustpanel-description-disabled = { -brand-product-name } es foras de servicio. Nos consilia reactivar le protectiones.

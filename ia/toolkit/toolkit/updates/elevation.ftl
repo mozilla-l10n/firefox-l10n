@@ -25,3 +25,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Non plus monstrar.
     .accesskey = N
 sandbox-unprivileged-namespaces-howtofix = Como remediar iste problema
+sandbox-content-disabled-warning = Le cassa de arena de securitate es disactivate. Tu configuration non es supportate e es minus secur.
