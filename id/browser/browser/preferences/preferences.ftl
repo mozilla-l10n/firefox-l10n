@@ -235,6 +235,15 @@ browser-layout-show-sidebar-desc = Akses markah, tab dari ponsel Anda, chatbot A
 language-and-appearance-header = Bahasa dan Tampilan
 preferences-web-appearance-header = Tampilan situs web
 preferences-web-appearance-description = Beberapa situs web menyesuaikan skema warnanya berdasarkan preferensi Anda. Pilih skema warna mana yang ingin Anda gunakan untuk situs tersebut.
+preferences-web-appearance-choice-auto2 =
+    .label = Otomatis
+    .title = Ubah latar belakang situs dan konten secara otomatis berdasarkan pengaturan sistem dan tema { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Terang
+    .title = Gunakan tampilan terang untuk latar belakang dan konten situs web.
+preferences-web-appearance-choice-dark2 =
+    .label = Gelap
+    .title = Gunakan tampilan gelap untuk latar belakang dan konten situs web.
 preferences-web-appearance-choice-auto = Otomatis
 preferences-web-appearance-choice-light = Terang
 preferences-web-appearance-choice-dark = Gelap
@@ -254,6 +263,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Pengaturan kontrol kontras Anda menimpa penampilan situs web.
+preferences-web-appearance-link =
+    .label = Kelola tema { -brand-short-name } di Ekstensi & Tema
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Pilihan warna Anda mengesampingkan tampilan situs web. <a data-l10n-name="colors-link">Kelola warna</a>
