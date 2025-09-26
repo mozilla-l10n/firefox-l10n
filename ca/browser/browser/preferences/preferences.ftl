@@ -221,6 +221,15 @@ browser-layout-show-sidebar =
 language-and-appearance-header = Llengua i aparença
 preferences-web-appearance-header = Aparença dels llocs web
 preferences-web-appearance-description = Alguns llocs web adapten l'esquema de colors d'acord amb les vostres preferències. Trieu quin esquema de colors voleu per aquests llocs.
+preferences-web-appearance-choice-auto2 =
+    .label = Automàtic
+    .title = Canvia automàticament els fons i el contingut dels llocs web en funció dels vostres paràmetres del sistema i del tema del { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Clar
+    .title = Usa un aspecte clar per al fons i el contingut dels llocs web.
+preferences-web-appearance-choice-dark2 =
+    .label = Fosc
+    .title = Usa un aspecte fosc per al fons i el contingut dels llocs web.
 preferences-web-appearance-choice-auto = Automàtic
 preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Fosc
@@ -236,6 +245,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Gestioneu els temes del { -brand-short-name } a Extensions i temes
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = La vostra selecció de colors modifica l'aparença dels llocs web. <a data-l10n-name="colors-link">Gestiona els colors</a>
