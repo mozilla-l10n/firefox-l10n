@@ -401,3 +401,5 @@ etp-strict-exceptions-infobar-message = <strong>严格级别跟踪保护可能�
 etp-strict-exceptions-infobar-learn-more = 详细了解
 etp-strict-exceptions-infobar-button = 应用修复
     .accesskey = A
+etp-strict-exceptions-infobar-not-now = 暂时不要
+    .accesskey = N

@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 对指定的网站恢�
 ##
 
 policy-LocalFileLinks = 允许特定网站链接到本地文件。
+policy-LocalNetworkAccess = 启用或禁用本地网络访问检查。
 policy-ManagedBookmarks = 配置由管理员控制的书签列表，用户无法更改。
 policy-ManualAppUpdateOnly = 只允许手动更新，并且不通知用户有可用更新。
 policy-PrimaryPassword = 要求或禁止使用主密码。

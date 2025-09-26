@@ -464,6 +464,7 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = 从备份恢复
+restore-from-backup-title = 按您需要，取回熟悉的 { -brand-short-name } 体验
 restore-from-backup-subtitle = 恢复您的所有书签、历史记录和其他数据，立即接续浏览。
 restore-from-backup-secondary-button = 不恢复
 
