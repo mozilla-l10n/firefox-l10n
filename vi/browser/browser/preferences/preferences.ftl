@@ -263,6 +263,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Cài đặt kiểm soát độ tương phản của bạn đang ghi đè lên giao diện của trang web.
+preferences-web-appearance-link =
+    .label = Quản lý chủ đề { -brand-short-name } trong Tiện ích mở rộng & chủ đề
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Các lựa chọn màu sắc của bạn đang ghi đè diện mạo trang web. <a data-l10n-name="colors-link">Quản lý màu</a>
