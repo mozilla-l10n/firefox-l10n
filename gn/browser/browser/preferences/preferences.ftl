@@ -352,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Marandurenda ha Tembiporu’i
+downloads-header-2 =
+    .label = Ñemboguejy
+download-save-where-2 =
+    .label = Marandurenda ñongatu ko’ápe
+    .accesskey = v
 download-header = Ñemboguejy
 download-save-where = Marandurenda ñongatu ko’ápe
     .accesskey = v
