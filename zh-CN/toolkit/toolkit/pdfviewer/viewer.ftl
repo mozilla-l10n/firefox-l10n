@@ -300,6 +300,10 @@ pdfjs-comment-floating-button =
     .title = 批注
     .aria-label = 批注
 pdfjs-comment-floating-button-label = 批注
+pdfjs-editor-comment-button =
+    .title = 批注
+    .aria-label = 批注
+pdfjs-editor-comment-button-label = 批注
 pdfjs-editor-signature-button =
     .title = 添加签名
 pdfjs-editor-signature-button-label = 添加签名
@@ -362,6 +366,14 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = 文本编辑器
     .default-content = 在此键入…
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title = 批注
+pdfjs-editor-comments-sidebar-close-button =
+    .title = 关闭侧栏
+    .aria-label = 关闭侧栏
+pdfjs-editor-comments-sidebar-close-button-label = 关闭侧栏
 # Instructional copy to add a comment by selecting text or an annotations.
 pdfjs-editor-comments-sidebar-no-comments1 = 发现值得注意的地方？可为其添加高亮并批注。
 pdfjs-editor-comments-sidebar-no-comments-link = 详细了解

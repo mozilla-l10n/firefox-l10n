@@ -113,6 +113,7 @@ about-glean-button-dictionary-link = 文档
 about-glean-button-watch = 监视
 # Meaning "to stop watching"
 about-glean-button-unwatch = 取消监视
+about-glean-no-data-to-display = 没有可显示的数据。
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = <code>about:glean</code> 视图中暂未支持带标签的指标。
 about-glean-unknown-metric-type-warning = 指标类型未知。

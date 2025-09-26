@@ -35,6 +35,7 @@ inactive-css-not-display-block-on-floated-2 = 由于是 <strong>floated</strong>
 inactive-css-only-non-grid-or-flex-item = 由于不能用于网格和弹性项目，<strong>{ $property }</strong> 并未生效。
 inactive-css-not-block = 由于仅适用于块级元素，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-block-container = 由于仅适用于块容器元素，<strong>{ $property }</strong> 对此元素无效。
+inactive-css-not-block-flex-grid-container = 由于仅适用于块、弹性、网格容器元素，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-floated = 由于仅适用于浮动元素，<strong>{ $property }</strong> 并未生效。
 inactive-css-property-is-impossible-to-override-in-visited = 由于 <strong>:visited</strong> 的限制，无法覆盖 <strong>{ $property }</strong>。
 inactive-css-position-property-on-unpositioned-box = 由于不是定位元素，<strong>{ $property }</strong> 对此元素无效。
