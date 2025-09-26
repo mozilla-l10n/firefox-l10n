@@ -289,6 +289,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Restroù hag arloadoù
+downloads-header-2 =
+    .label = Pellgargadurioù
+download-save-where-2 =
+    .label = Enrollañ restroù e-barzh
+    .accesskey = o
 download-header = Pellgargadurioù
 download-save-where = Enrollañ restroù e-barzh
     .accesskey = o
