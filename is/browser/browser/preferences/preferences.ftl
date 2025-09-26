@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Stillingar þínar fyrir birtuskil yfirtaka útlit vefsvæðisins.
+preferences-web-appearance-link =
+    .label = Sýslaðu með { -brand-short-name } þemu í Forritsaukar og þemu
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Litaval þitt yfirtekur útlit vefsvæðisins. <a data-l10n-name="colors-link">Sýsla með liti</a>
