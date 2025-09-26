@@ -112,6 +112,8 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 files-and-applications-title = फाइलफोर आरो एप्लिकेसन
+downloads-header-2 =
+    .label = दावनल'दफोर
 download-save-where-2 =
     .label = फाइलफोरखौ सेब खालाम बेयाव
     .accesskey = ब
