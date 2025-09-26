@@ -352,6 +352,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fájlok és alkalmazások
+downloads-header-2 =
+    .label = Letöltések
 download-header = Letöltések
 download-save-where = Fájlok mentése
     .accesskey = m
