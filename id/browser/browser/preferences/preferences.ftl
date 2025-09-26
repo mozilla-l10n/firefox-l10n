@@ -340,6 +340,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Berkas dan Aplikasi
+downloads-header-2 =
+    .label = Unduhan
 download-header = Unduhan
 download-save-where = Simpan berkas di
     .accesskey = S
