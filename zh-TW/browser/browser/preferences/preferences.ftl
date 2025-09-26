@@ -263,6 +263,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = 您選擇的對比設定會蓋過網站外觀的配色。
+preferences-web-appearance-link =
+    .label = 到擴充套件與佈景主題管理 { -brand-short-name } 的佈景主題
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 您選擇的配色會蓋過網站外觀的配色。<a data-l10n-name="colors-link">管理色彩</a>。
