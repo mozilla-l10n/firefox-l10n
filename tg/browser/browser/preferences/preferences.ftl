@@ -352,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Файлҳо ва барномаҳо
+downloads-header-2 =
+    .label = Боргириҳо
+download-save-where-2 =
+    .label = Нигоҳ доштани файлҳо ба
+    .accesskey = Н
 download-header = Боргириҳо
 download-save-where = Нигоҳ доштани файлҳо ба
     .accesskey = Н
