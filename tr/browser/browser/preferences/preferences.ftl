@@ -352,6 +352,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dosyalar ve uygulamalar
+download-save-where-2 =
+    .label = Dosya kayıt yeri
+    .accesskey = a
 download-header = İndirme
 download-save-where = Dosya kayıt yeri
     .accesskey = a
