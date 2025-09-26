@@ -276,6 +276,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Failid ja rakendused
+downloads-header-2 =
+    .label = Allalaadimised
 download-header = Allalaadimised
 download-save-where = Failid salvestatakse asukohta
     .accesskey = v
