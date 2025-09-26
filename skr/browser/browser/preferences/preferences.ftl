@@ -304,6 +304,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = فائلاں تے ایپلی کیشن
+downloads-header-2 =
+    .label = ڈاؤن لوڈ
+download-save-where-2 =
+    .label = تے فائل ہتھیکڑی کرو
+    .accesskey = v
 download-header = ڈاؤن لوڈ
 download-save-where = تے فائل ہتھیکڑی کرو
     .accesskey = v
