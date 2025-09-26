@@ -153,6 +153,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Beureukaih ngön Aplikasi
+downloads-header-2 =
+    .label = Beureukah ka teucok
 download-save-where-2 =
     .label = Keubah beureukaih u
     .accesskey = b
