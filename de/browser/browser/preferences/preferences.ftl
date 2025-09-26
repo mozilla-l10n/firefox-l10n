@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Greifen Sie schnell auf Lesezeichen, Tabs von
 language-and-appearance-header = Sprache und Erscheinungsbild
 preferences-web-appearance-header = Erscheinungsbild von Websites
 preferences-web-appearance-description = Einige Websites passen ihr Farbschema basierend auf Ihren Einstellungen an. Wählen Sie aus, welches Farbschema Sie für diese Websites verwenden möchten.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatisch
+    .title = Automatisch die Seitenhintergründe und -inhalte auf der Grundlage von Systemeinstellungen und { -brand-short-name }-Theme anpassen
+preferences-web-appearance-choice-light2 =
+    .label = Hell
+    .title = Ein helles Erscheinungsbild für Hintergründe und Inhalte von Websites verwenden
+preferences-web-appearance-choice-dark2 =
+    .label = Dunkel
+    .title = Ein dunkles Erscheinungsbild für Hintergründe und Inhalte von Websites verwenden
 preferences-web-appearance-choice-auto = Automatisch
 preferences-web-appearance-choice-light = Hell
 preferences-web-appearance-choice-dark = Dunkel
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Ihre Kontrast-Einstellungen überschreiben das Erscheinungsbild von Websites.
+preferences-web-appearance-link =
+    .label = Verwalten Sie { -brand-short-name }-Themes in Erweiterungen & Themes.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ihre Farbauswahl überschreibt das Erscheinungsbild von Websites. <a data-l10n-name="colors-link">Farben verwalten</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dateien und Anwendungen
+downloads-header-2 =
+    .label = Downloads
+download-save-where-2 =
+    .label = Alle Dateien in folgendem Ordner abspeichern:
+    .accesskey = e
 download-header = Downloads
 download-save-where = Alle Dateien in folgendem Ordner abspeichern:
     .accesskey = e
@@ -1518,6 +1534,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } verfügt über nu
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Nur-HTTPS-Modus
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Erlaubt nur sichere Verbindungen zu Websites. { -brand-short-name } wird nachfragen, bevor eine unsichere Verbindung hergestellt wird.
 httpsonly-description3 = Erlaubt nur sichere Verbindungen zu Websites. { -brand-short-name } wird nachfragen, bevor eine unsichere Verbindung hergestellt wird.
 httpsonly-learn-more2 = So funktioniert Nur-HTTPS
 httpsonly-description = HTTPS bietet eine sichere, verschlüsselte Verbindung zwischen { -brand-short-name } und den von Ihnen besuchten Websites. Die meisten Websites unterstützen HTTPS und wenn der Nur-HTTPS-Modus aktiviert ist, wird { -brand-short-name } alle Verbindungen zu HTTPS aufrüsten.

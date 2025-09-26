@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Eike pya’e techaukaha, pumbyry rendayke, ch
 language-and-appearance-header = Ñe’ẽ ha Mba’ejeguarã
 preferences-web-appearance-header = Mba’éicha ojehecha ñanduti renda
 preferences-web-appearance-description = Heta ñanduti renda omohenda isa’y jeporukuaa umi ojeguerohoryvévaicha. Eiporavo sa’y jeporukuaa reipotáva umi tendápe g̃uarã.
+preferences-web-appearance-choice-auto2 =
+    .label = ijeheguietéva
+    .title = Iñambue ijehegui pe ñanduti renda rugua ha hetepy oĩháicha apopyvusu ñemboheko ha { -brand-short-name } téma.
+preferences-web-appearance-choice-light2 =
+    .label = Tesakã
+    .title = Eiporu jehecharã sakã tugua ha tetepy ñanduti renda pegua.
+preferences-web-appearance-choice-dark2 =
+    .label = Ypytũ
+    .title = Eiporu jehecharã pytũva tugua ha tetepy ñanduti renda pegua.
 preferences-web-appearance-choice-auto = ijeheguietéva
 preferences-web-appearance-choice-light = Tesakã
 preferences-web-appearance-choice-dark = Ypytũ
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Sa’y poravopyre omboyke mba’éichapa ojehecha ñanduti renda.
+preferences-web-appearance-link =
+    .label = Eñangareko téma { -brand-short-name } mba’ére Jepysokue ha téma rupi
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Sa’y poravopyre omboyke mba’éichapa ojehecha ñanduti renda. <a data-l10n-name="colors-link">Eñangareko sa’ýre</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Marandurenda ha Tembiporu’i
+downloads-header-2 =
+    .label = Ñemboguejy
+download-save-where-2 =
+    .label = Marandurenda ñongatu ko’ápe
+    .accesskey = v
 download-header = Ñemboguejy
 download-save-where = Marandurenda ñongatu ko’ápe
     .accesskey = v
@@ -1509,6 +1525,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } opyta disco pa’
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS año ayvu
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Omoneĩ jeike tekorosãme añoite ñanduti roguépe. { -brand-short-name } oporandúta eike mboyve tekorosã’ỹme.
 httpsonly-description3 = Omoneĩ jeike tekorosãme añoite ñanduti roguépe. { -brand-short-name } oporandúta eike mboyve tekorosã’ỹme.
 httpsonly-learn-more2 = Mba’éichapa oku’e HTTPS ayvu ha’eño
 httpsonly-description = HTTPS ome’ẽ jeikekatu ha ipapapýva { -brand-short-name } ha ñanduti renda eike hague pa’ũme. Heta ñanduti renda omoneĩ HTTPS, ha pe ayvu ha’eñóva-HTTPS oñemoneĩma, upévare { -brand-short-name } ombohekopyahúta opaite HTTPS-pe jeike.

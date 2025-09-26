@@ -192,6 +192,12 @@ containers-remove-cancel-button = Չհեռացնել այս պարունակը
 language-and-appearance-header = Լեզուն եւ տեսքը
 preferences-web-appearance-header = Վեբ կայքի տեսքը
 preferences-web-appearance-description = Որոշ կայքեր հարմարեցնում են իրենց գունաւորումը՝ Ձեր նախասիրութիւններին համապատասխան: Ընտրէք գունաւորումը, որը ցանկանում էք աւգտագործել այդ կայքերի համար:
+preferences-web-appearance-choice-light2 =
+    .label = Լուսաւոր
+    .title = Աւգտագործէք լուսաւոր տեսք կայքի ետնապատկերի եւ բովանդակաութեան համար։
+preferences-web-appearance-choice-dark2 =
+    .label = Մուգ
+    .title = Աւգտագործէք մուգ տեսք կայքի ետնապատկերի եւ բովանդակաութեան համար։
 preferences-web-appearance-choice-light = Լուսաւոր
 preferences-web-appearance-choice-dark = Մուգ
 preferences-web-appearance-choice-tooltip-light =
@@ -202,6 +208,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Կառավարէք { -brand-short-name } հիմնապատկերները  Յաւելումներ եւ հիմնապատկերներ{ " " }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ձեր ընտրած գոյները փոխում են կայքի տեսքը: <a data-l10n-name="colors-link"> Կառավարէք գոյները </a>
@@ -264,6 +272,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Նիշեր եւ յաւելուածներ
+downloads-header-2 =
+    .label = Ներբեռնումներ
+download-save-where-2 =
+    .label = Նիշերը պահել
+    .accesskey = ե
 download-header = Ներբեռնումներ
 download-save-where = Նիշերը պահել
     .accesskey = ե
@@ -845,6 +858,9 @@ primary-password-os-auth-dialog-message-win = Գլխաւոր գաղտնաբառ 
 primary-password-os-auth-dialog-message-macosx = Ստեղծել Հիմնական Բագղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Պատմութիւն
@@ -928,6 +944,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
     .accesskey = ց
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1105,6 +1127,9 @@ collection-health-report-disabled = Տուեալների զեկուցումը ա
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
     .accesskey = թ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1152,6 +1177,9 @@ httpsonly-radio-enabled-pbm =
     .label = Միացնել «Միայն HTTPS» աշխատակերպը գաղտնի դիտարկման ժամանակ
 httpsonly-radio-disabled =
     .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

@@ -66,6 +66,11 @@ choose-button =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Jêbarkirî
+download-save-where-2 =
+    .label = Pelan tomar bike li
+    .accesskey = t
 download-header = Jêbarkirî
 download-save-where = Pelan tomar bike li
     .accesskey = t
@@ -186,8 +191,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##

@@ -242,6 +242,15 @@ browser-layout-show-sidebar =
 language-and-appearance-header = Tutlayt d urwes
 preferences-web-appearance-header = Arwes n usmel web
 preferences-web-appearance-description = Kra n yismal web ṭṭafaren aɣanib n yiniten yebnan ɣef yismenyifen-inek•inem. Fren anwa aɣanib n yiniten i tebɣiḍ ad t-tesqedceḍ i yismal-a.
+preferences-web-appearance-choice-auto2 =
+    .label = Awurman
+    .title = Senfel s wudem awurman igilalen n d ugbur n yismal web almend n yiɣewwaren-ik·im n unagraw d usentel n { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Acaεlal
+    .title = Seqdec arwes aceɛlal i ugilal akked ugbur n yismal web.
+preferences-web-appearance-choice-dark2 =
+    .label = Aberkan
+    .title = Seqdec arwes aberkan i ugilal akked ugbur n yismal web.
 preferences-web-appearance-choice-auto = Awurman
 preferences-web-appearance-choice-light = Acaεlal
 preferences-web-appearance-choice-dark = Aberkan
@@ -261,6 +270,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Iɣewwaren n usenqed ugnil ttbeddilent arwes n usmel web.
+preferences-web-appearance-link =
+    .label = Sefrek isental n { -brand-short-name } deg yiseɣzaf & yisental
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tifranin-ik•im n yiniten ttbeddilent arwes n usmel web. <a data-l10n-name="colors-link">Sefrek initen</a>
@@ -333,6 +344,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ifuyla d isnasen
+downloads-header-2 =
+    .label = Isadaren
+download-save-where-2 =
+    .label = Sekles ifuyla ɣer
+    .accesskey = S
 download-header = Isadaren
 download-save-where = Sekles ifuyla ɣer
     .accesskey = S

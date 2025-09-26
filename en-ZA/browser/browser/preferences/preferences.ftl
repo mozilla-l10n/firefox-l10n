@@ -87,6 +87,11 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Downloads
+download-save-where-2 =
+    .label = Save files to
+    .accesskey = v
 download-header = Downloads
 download-save-where = Save files to
     .accesskey = v
@@ -211,8 +216,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##

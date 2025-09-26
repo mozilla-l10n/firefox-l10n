@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Бетбелгілерге, телефонн�
 language-and-appearance-header = Тіл және сыртқы түрі
 preferences-web-appearance-header = Веб-сайттың сыртқы түрі
 preferences-web-appearance-description = Кейбір веб-сайттар түс схемасын сіздің қалауыңызға қарай бейімдейді. Сол сайттар үшін қандай түс схемасын пайдаланғыңыз келетінін таңдаңыз.
+preferences-web-appearance-choice-auto2 =
+    .label = Автоматты түрде
+    .title = Жүйе баптаулары мен { -brand-short-name } темасы негізінде веб-сайттың фоны мен мазмұнын автоматты түрде өзгертіңіз.
+preferences-web-appearance-choice-light2 =
+    .label = Ашық түсті
+    .title = Веб-сайттар фоны мен мазмұны үшін ашық түсті көріністі пайдалану.
+preferences-web-appearance-choice-dark2 =
+    .label = Күңгірт түсті
+    .title = Веб-сайттар фоны мен мазмұны үшін күңгірт түсті көріністі пайдалану.
 preferences-web-appearance-choice-auto = Автоматты түрде
 preferences-web-appearance-choice-light = Ашық түсті
 preferences-web-appearance-choice-dark = Күңгірт түсті
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Сіздің контрастты басқару параметрлері веб-сайттың сыртқы көрінісін үстінен басады.
+preferences-web-appearance-link =
+    .label = { -brand-short-name } темаларын Кеңейтулер және темалар ішінен басқарыңыз
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Сіздің түс таңдауларыңыз веб-сайттың сыртқы көрінісін үстінен басады. <a data-l10n-name="colors-link">Түстерді басқару</a>
@@ -340,6 +351,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Файлдар және қолданбалар
+downloads-header-2 =
+    .label = Жүктемелер
+download-save-where-2 =
+    .label = Файлдарды келесі жерге сақтау
+    .accesskey = д
 download-header = Жүктемелер
 download-save-where = Файлдарды келесі жерге сақтау
     .accesskey = д

@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Rapidemente accede marcapaginas, schedas de t
 language-and-appearance-header = Lingua e apparentia
 preferences-web-appearance-header = Apparentia del sito web
 preferences-web-appearance-description = Alcun sitos web adapta lor schema de colores a base de tu preferentias. Elige le schema de colores que tu vole usar pro ille sitos.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatic
+    .title = Cambiar automaticamente fundos e contento del sito web in base a tu parametros de systema e al thema de { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Clar
+    .title = Usa un apparentia clar pro fundos e contento del sito web.
+preferences-web-appearance-choice-dark2 =
+    .label = Obscur
+    .title = Usa un apparentia obscur pro fundos e contento del sito web.
 preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Obscur
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Tu parametros de controlo de contrasto substitue le apparentia de sitos web.
+preferences-web-appearance-link =
+    .label = Gere le themas de { -brand-short-name } in Extensiones e themas
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tu selectiones color supplanta le apparentia del sito web.<a data-l10n-name="colors-link">Gere le colores</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Files e applicationes
+downloads-header-2 =
+    .label = Discargamentos
+download-save-where-2 =
+    .label = Salvar le files in
+    .accesskey = S
 download-header = Discargamentos
 download-save-where = Salvar le files in
     .accesskey = S
@@ -1518,6 +1534,9 @@ space-alert-under-5gb-message2 = <strong>Le spatio de disco disponibile a { -bra
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo solo HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Solo permitte connexiones secur a sitos web. { -brand-short-name } demandara ante connecter in maniera non secur.
 httpsonly-description3 = Solo permitte connexiones secur a sitos web. { -brand-short-name } demandara ante connecter in maniera non secur.
 httpsonly-learn-more2 = Como functiona Solo-HTTPS
 httpsonly-description = HTTPS offere un connexion secur e cryptate inter { -brand-short-name } e le sitos web que tu visita. Le major parte del sitos web supporta le HTTPS, e si es activate Modo HTTPS-solo, alora { -brand-short-name } promovera tote le connexiones a HTTPS.

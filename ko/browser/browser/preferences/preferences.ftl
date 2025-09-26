@@ -235,6 +235,15 @@ browser-layout-show-sidebar-desc = 주 화면을 떠나지 않고 북마크, 휴
 language-and-appearance-header = 언어 및 모양
 preferences-web-appearance-header = 웹 사이트 모양
 preferences-web-appearance-description = 일부 웹 사이트는 사용자 설정에 따라 색 구성표를 조정합니다. 이러한 사이트에 사용할 색 구성표를 선택하세요.
+preferences-web-appearance-choice-auto2 =
+    .label = 자동
+    .title = 시스템 설정 및 { -brand-short-name } 테마에 따라 웹 사이트 배경과 콘텐츠를 자동으로 변경합니다.
+preferences-web-appearance-choice-light2 =
+    .label = 밝게
+    .title = 웹 사이트 배경 및 콘텐츠에 밝은 화면 배색을 사용합니다.
+preferences-web-appearance-choice-dark2 =
+    .label = 어둡게
+    .title = 웹 사이트 배경 및 콘텐츠에 어두운 화면 배색을 사용합니다.
 preferences-web-appearance-choice-auto = 자동
 preferences-web-appearance-choice-light = 밝게
 preferences-web-appearance-choice-dark = 어둡게
@@ -254,6 +263,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = 대비 제어 설정이 웹 사이트 화면 배색보다 우선합니다.
+preferences-web-appearance-link =
+    .label = 확장 기능 및 테마에서 { -brand-short-name } 테마 관리
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 선택한 색상이 웹 사이트 화면 배색보다 우선합니다. <a data-l10n-name="colors-link">색상 관리</a>
@@ -329,6 +340,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = 파일 및 애플리케이션
+downloads-header-2 =
+    .label = 다운로드
+download-save-where-2 =
+    .label = 저장 위치
+    .accesskey = v
 download-header = 다운로드
 download-save-where = 저장 위치
     .accesskey = v
@@ -1502,6 +1518,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS 전용 모드
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = 웹 사이트에 보안 연결만 허용합니다. { -brand-short-name }는 안전하지 않은 연결을 하기 전에 묻습니다.
 httpsonly-description3 = 웹 사이트에 보안 연결만 허용합니다. { -brand-short-name }는 안전하지 않은 연결을 하기 전에 묻습니다.
 httpsonly-learn-more2 = HTTPS 전용 모드 작동 방식
 httpsonly-description = HTTPS는 { -brand-short-name }와 사용자가 방문한 웹 사이트 간에 안전한 암호화된 연결을 제공합니다. 대부분의 웹 사이트는 HTTPS를 지원하며, HTTPS 전용 모드를 사용하도록 설정한 경우 { -brand-short-name }는 모든 연결을 HTTPS로 업그레이드합니다.

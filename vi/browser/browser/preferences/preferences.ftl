@@ -235,6 +235,15 @@ browser-layout-show-sidebar-desc = Nhanh chóng truy cập dấu trang, thẻ t�
 language-and-appearance-header = Ngôn ngữ và chủ đề
 preferences-web-appearance-header = Diện mạo trang web
 preferences-web-appearance-description = Một số trang web điều chỉnh bảng màu của họ dựa trên tùy chỉnh của bạn. Chọn bảng màu mà bạn muốn sử dụng cho các trang web đó.
+preferences-web-appearance-choice-auto2 =
+    .label = Tự động
+    .title = Tự động thay đổi hình nền và nội dung trang web dựa trên cài đặt hệ thống và chủ đề { -brand-short-name } của bạn.
+preferences-web-appearance-choice-light2 =
+    .label = Sáng
+    .title = Sử dụng giao diện sáng cho hình nền và nội dung trang web.
+preferences-web-appearance-choice-dark2 =
+    .label = Tối
+    .title = Sử dụng giao diện tối cho hình nền và nội dung trang web.
 preferences-web-appearance-choice-auto = Tự động
 preferences-web-appearance-choice-light = Sáng
 preferences-web-appearance-choice-dark = Tối
@@ -254,6 +263,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Cài đặt kiểm soát độ tương phản của bạn đang ghi đè lên giao diện của trang web.
+preferences-web-appearance-link =
+    .label = Quản lý chủ đề { -brand-short-name } trong Tiện ích mở rộng & chủ đề
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Các lựa chọn màu sắc của bạn đang ghi đè diện mạo trang web. <a data-l10n-name="colors-link">Quản lý màu</a>
@@ -329,6 +340,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Tập tin và ứng dụng
+downloads-header-2 =
+    .label = Tải xuống
+download-save-where-2 =
+    .label = Lưu tập tin vào
+    .accesskey = v
 download-header = Tải xuống
 download-save-where = Lưu tập tin vào
     .accesskey = v
@@ -1502,6 +1518,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Chế độ chỉ HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Chỉ cho phép các kết nối an toàn đến các trang web. { -brand-short-name } sẽ hỏi trước khi kết nối không an toàn.
 httpsonly-description3 = Chỉ cho phép các kết nối an toàn đến các trang web. { -brand-short-name } sẽ hỏi trước khi kết nối không an toàn.
 httpsonly-learn-more2 = Chế độ Chỉ HTTPS hoạt động như thế nào
 httpsonly-description = HTTPS cung cấp kết nối được mã hóa an toàn giữa { -brand-short-name } và các trang web bạn truy cập. Hầu hết các trang web đều hỗ trợ HTTPS và nếu chế độ chỉ HTTPS được bật, thì { -brand-short-name } sẽ nâng cấp tất cả các kết nối lên HTTPS.

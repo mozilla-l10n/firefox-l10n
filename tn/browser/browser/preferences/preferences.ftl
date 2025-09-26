@@ -73,6 +73,11 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Dikopololo
+download-save-where-2 =
+    .label = Bolokela difaele ko
+    .accesskey = B
 download-header = Dikopololo
 download-save-where = Bolokela difaele ko
     .accesskey = B
@@ -158,8 +163,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##

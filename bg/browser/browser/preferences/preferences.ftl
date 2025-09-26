@@ -243,6 +243,15 @@ browser-layout-show-sidebar-desc = Бърз достъп до отметки, р
 language-and-appearance-header = Език и изглед
 preferences-web-appearance-header = Изглед на страниците
 preferences-web-appearance-description = Някои страници адаптират цветовете си въз основа на вашите предпочитания. Изберете цветовата схема, която да бъде използвана за такива страници.
+preferences-web-appearance-choice-auto2 =
+    .label = Автоматично
+    .title = Автоматична промяна на фона и съдържанието на страницата въз основа на вашите системни настройки и темата на { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Светла
+    .title = Да се ползва светъл външен вид за фон и съдържание на страниците.
+preferences-web-appearance-choice-dark2 =
+    .label = Тъмна
+    .title = Да се ползва тъмен външен вид за фон и съдържание на страниците.
 preferences-web-appearance-choice-auto = Автоматично
 preferences-web-appearance-choice-light = Светла
 preferences-web-appearance-choice-dark = Тъмна
@@ -258,6 +267,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Управлявайте темите на { -brand-short-name } в Управление на добавки
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Избраните от вас цветове променят външния вид на сайта. <a data-l10n-name="colors-link">Управление на цветове</a>
@@ -333,6 +344,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Файлове и приложения
+downloads-header-2 =
+    .label = Изтегляния
+download-save-where-2 =
+    .label = Запазване на файловете в
+    .accesskey = З
 download-header = Изтегляния
 download-save-where = Запазване на файловете в
     .accesskey = З

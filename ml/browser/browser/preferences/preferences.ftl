@@ -65,6 +65,17 @@ should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാര�
 cancel-no-restart-button = റദ്ദാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
@@ -221,6 +232,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ഫയലുകളും ആപ്ലിക്കേഷനുകളും
+downloads-header-2 =
+    .label = ഇറക്കിവയ്ക്കലുകൾ
+download-save-where-2 =
+    .label = ഫയലുകള്‍ ഇവിടെ സൂക്ഷിക്കുക
+    .accesskey = v
 download-header = ഇറക്കിവയ്ക്കലുകൾ
 download-save-where = ഫയലുകള്‍ ഇവിടെ സൂക്ഷിക്കുക
     .accesskey = v
@@ -817,6 +833,9 @@ sitedata-settings =
     .label = ഡാറ്റ ക്രമീകരിക്കുക
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = കൂടുതല്‍ അറിയുക
@@ -919,6 +938,9 @@ content-blocking-known-fingerprinters-label =
 content-blocking-suspected-fingerprinters-label =
     .label = സംശയിക്കപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങൾ
     .accesskey = വ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -1026,6 +1048,9 @@ certs-devices =
 space-alert-over-5gb-settings-button =
     .label = ക്രമീകരണങ്ങൾ തുറക്കുക
     .accesskey = ത
+
+## Privacy Section - HTTPS-Only
+
 
 ## DoH Section
 

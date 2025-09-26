@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Få hurtig adgang til bogmærker, faneblade f
 language-and-appearance-header = Sprog og udseende
 preferences-web-appearance-header = Websteds-udseende
 preferences-web-appearance-description = Nogle websteder tilpasser deres farvetema efter dine præferencer. Vælg, hvilket farvetema, du ønsker at bruge til disse websteder.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatisk
+    .title = Skift automatisk websteders baggrund og indhold baseret på dine systemindstillinger og  { -brand-short-name }-tema.
+preferences-web-appearance-choice-light2 =
+    .label = Lyst
+    .title = Brug lyst udseende for websteders baggrund og indhold.
+preferences-web-appearance-choice-dark2 =
+    .label = Mørkt
+    .title = Brug mørkt udseende for websteders baggrund og indhold.
 preferences-web-appearance-choice-auto = Automatisk
 preferences-web-appearance-choice-light = Lyst
 preferences-web-appearance-choice-dark = Mørkt
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Dine indstillinger for kontrast tilsidesætter webstedets udseende.
+preferences-web-appearance-link =
+    .label = Håndter { -brand-short-name }-temaer i Udvidelser og temaer
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Dine farvevalg tilsidesætter webstedets udseende. <a data-l10n-name="colors-link">Håndter farver</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Filer og programmer
+downloads-header-2 =
+    .label = Filhentning
+download-save-where-2 =
+    .label = Gem filer i:
+    .accesskey = m
 download-header = Filhentning
 download-save-where = Gem filer i:
     .accesskey = m
@@ -1515,6 +1531,9 @@ space-alert-under-5gb-message2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Tilstanden Kun-HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
 httpsonly-description3 = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
 httpsonly-learn-more2 = Sådan virker tilstanden kun-HTTPS
 httpsonly-description = HTTPS sørger for en sikker, krypteret forbindelse mellem { -brand-short-name } og de websteder, du besøger. De fleste websteder understøtter HTTPS, og hvis kun-HTTPS er slået til, så opgraderer { -brand-short-name } alle forbindelser til HTTPS.

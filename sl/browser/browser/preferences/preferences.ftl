@@ -253,6 +253,15 @@ browser-layout-show-sidebar-desc = Hitro dostopajte do zaznamkov in zavihkov na 
 language-and-appearance-header = Jezik in videz
 preferences-web-appearance-header = Videz spletnih strani
 preferences-web-appearance-description = Nekatera spletna mesta lahko prilagodijo barvno shemo glede na vaše nastavitve. Izberite barvno shemo, ki jo želite uporabiti za ta spletna mesta.
+preferences-web-appearance-choice-auto2 =
+    .label = Samodejno
+    .title = Samodejno prilagodi ozadja in vsebino spletnih mest glede na nastavitve sistema in temo { -brand-short-name(sklon: "rodilnik") }.
+preferences-web-appearance-choice-light2 =
+    .label = Svetla
+    .title = Spletna mesta naj uporabljajo svetle barve ozadij in vsebine.
+preferences-web-appearance-choice-dark2 =
+    .label = Temna
+    .title = Spletna mesta naj uporabljajo temne barve ozadij in vsebine.
 preferences-web-appearance-choice-auto = Samodejno
 preferences-web-appearance-choice-light = Svetla
 preferences-web-appearance-choice-dark = Temna
@@ -272,6 +281,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Vaše nastavitve kontrasta vplivajo na videz spletnih strani.
+preferences-web-appearance-link =
+    .label = Upravljajte teme { -brand-short-name(sklon: "rodilnik") } na strani Razširitve in teme
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vaše izbire barv so nastavljene, da preglasijo videz spletnih strani. <a data-l10n-name="colors-link">Upravljanje barv</a>
@@ -347,6 +358,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Datoteke in programi
+downloads-header-2 =
+    .label = Prenosi
+download-save-where-2 =
+    .label = Shrani datoteke v
+    .accesskey = S
 download-header = Prenosi
 download-save-where = Shrani datoteke v
     .accesskey = S
@@ -1505,6 +1521,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Način "samo HTTPS"
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Dovoli samo varne povezave na spletna mesta. Pred vzpostavitvijo nezavarovane povezave naj { -brand-short-name } vpraša
 httpsonly-description3 = Dovoli samo varne povezave na spletna mesta. Pred vzpostavitvijo nezavarovane povezave naj { -brand-short-name } vpraša
 httpsonly-learn-more2 = Kako deluje način "samo HTTPS"
 httpsonly-description = HTTPS zagotavlja varno, šifrirano povezavo med { -brand-short-name(sklon: "orodnik") } in spletnimi mesti, ki jih obiščete. Večina spletnih mest podpira HTTPS in če je omogočen način "samo HTTPS", bo { -brand-short-name } nadgradil vse povezave na HTTPS.

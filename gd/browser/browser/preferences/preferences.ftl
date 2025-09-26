@@ -203,6 +203,15 @@ containers-remove-cancel-button = Na thoir an soitheach seo air falbh
 language-and-appearance-header = Cànan is coltas
 preferences-web-appearance-header = Coltas nan làrach
 preferences-web-appearance-description = Cuiridh cuid a làraichean-lìn gleus air sgeama an dathan a-rèir nan roghainnean agad-sa. Tagh an sgeama dhathan a bu mhiann leat dha na làraichean ud.
+preferences-web-appearance-choice-auto2 =
+    .label = Fèin-obrachail
+    .title = Cuir na cùlaibhean aig làraichean-lìn is aig susbaint air gleus a-rèir roghainnean an t-siostaim agad agus an ùrlair aig { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Soilleir
+    .title = Cleachd coltas soilleir airson cùlaibhean is susbaint làraichean-lìn.
+preferences-web-appearance-choice-dark2 =
+    .label = Dorcha
+    .title = Cleachd coltas dorcha airson cùlaibhean is susbaint làraichean-lìn.
 preferences-web-appearance-choice-auto = Fèin-obrachail
 preferences-web-appearance-choice-light = Soilleir
 preferences-web-appearance-choice-dark = Dorcha
@@ -218,6 +227,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Stiùirich ùrlaran { -brand-short-name } ann an roghainnean nan leudachan ⁊ ùrlaran
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tha na dathan a thagh thu a’ tar-àithn coltas na làraich-lìn. <a data-l10n-name="colors-link">Stiùirich na dathan</a>
@@ -280,6 +291,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Faidhlichean is aplacaidean
+downloads-header-2 =
+    .label = Luchdaidhean a-nuas
+download-save-where-2 =
+    .label = Sàbhail faidhlichean ann an
+    .accesskey = S
 download-header = Luchdaidhean a-nuas
 download-save-where = Sàbhail faidhlichean ann an
     .accesskey = S
@@ -876,6 +892,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Eachdraidh
@@ -1166,6 +1185,9 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

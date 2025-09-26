@@ -64,6 +64,11 @@ choose-button =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Zladënczi
+download-save-where-2 =
+    .label = Zapiszë lopczi do
+    .accesskey = o
 download-header = Zladënczi
 download-save-where = Zapiszë lopczi do
     .accesskey = o
@@ -184,8 +189,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##

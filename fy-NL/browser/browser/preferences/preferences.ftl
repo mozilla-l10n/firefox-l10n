@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Benaderje fluch blêdwizers, ljepblêden fan 
 language-and-appearance-header = Taal en úterlik
 preferences-web-appearance-header = Uterlik fan de website
 preferences-web-appearance-description = Guon websites passe harren kleureskema oan op basis fan jo foarkarren. Kies hokker kleureskema jo foar dy websites brûke wolle.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatysk
+    .title = Automatysk website-eftergrûnen en -ynhâld wizigje op basis fan jo systeemynstellingen en { -brand-short-name }-tema.
+preferences-web-appearance-choice-light2 =
+    .label = Ljocht
+    .title = In ljochte útstrieling foar website-eftergrûnen en -ynhâld brûke.
+preferences-web-appearance-choice-dark2 =
+    .label = Donker
+    .title = In donkere útstrieling foar website-eftergrûnen en -ynhâld brûke.
 preferences-web-appearance-choice-auto = Automatysk
 preferences-web-appearance-choice-light = Ljocht
 preferences-web-appearance-choice-dark = Donker
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Jo ynstellingen foar kontrastregeling hawwe foarrang op it uterlik fan de website.
+preferences-web-appearance-link =
+    .label = Jo kinne { -brand-short-name }-tema’s beheare yn Utwreidingen en tema’s
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Jo kleurseleksjes hawwe foarrang op it uterlik fan de website. <a data-l10n-name="colors-link">Kleuren beheare</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Bestannen en Tapassingen
+downloads-header-2 =
+    .label = Downloads
+download-save-where-2 =
+    .label = Bestannen bewarje yn
+    .accesskey = e
 download-header = Downloads
 download-save-where = Bestannen bewarje yn
     .accesskey = e
@@ -1518,6 +1534,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin ski
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Allinnich-HTTPS-modus
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Stiet allinnich befeilige ferbiningen mei websites ta. { -brand-short-name } sil freegje eardat in ûnfeilige ferbining makke wurdt.
 httpsonly-description3 = Stiet allinnich befeilige ferbiningen mei websites ta. { -brand-short-name } sil freegje eardat in ûnfeilige ferbining makke wurdt.
 httpsonly-learn-more2 = Hoe Allinnich-HTTPS wurket
 httpsonly-description = HTTPS biedt in feilige, fersifere ferbining tusken { -brand-short-name } en de troch jo besochte websites. De measte websites stypje HTTPS en as de Allinnich-HTTPS-modus ynskeakele is, sil { -brand-short-name } alle ferbiningen fernije nei HTTPS.

@@ -246,6 +246,15 @@ browser-layout-show-sidebar-desc = Brzo pristupi zabilješkama, karticama s tele
 language-and-appearance-header = Jezik i izgled
 preferences-web-appearance-header = Izgled web stranice
 preferences-web-appearance-description = Neke web stranice prilagođavaju svoju shemu boja prema tvojim preferencijama. Odaberi koju shemu boja želiš koristiti na tim stranicama.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatski
+    .title = Automatski promijeni pozadinu i sadržaj web stranice na temelju postavki tvog sustava i { -brand-short-name } teme.
+preferences-web-appearance-choice-light2 =
+    .label = Svijetla
+    .title = Koristi svijetli izgled za pozadinu i sadržaj web stranice.
+preferences-web-appearance-choice-dark2 =
+    .label = Tamna
+    .title = Koristi tamni izgled za pozadinu i sadržaj web stranice.
 preferences-web-appearance-choice-auto = Automatski
 preferences-web-appearance-choice-light = Svijetla
 preferences-web-appearance-choice-dark = Tamna
@@ -265,6 +274,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Tvoje postavke kontrole kontrasta poništavaju izgled web stranice.
+preferences-web-appearance-link =
+    .label = Upravljaj temama za { -brand-short-name } u odjeljku Dodaci i teme
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tvoj izbor boja nadvladava izgled web stranice. <a data-l10n-name="colors-link">Upravljaj bojama</a>
@@ -340,6 +351,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Datoteke i aplikacije
+downloads-header-2 =
+    .label = Preuzimanja
+download-save-where-2 =
+    .label = Spremi datoteke u
+    .accesskey = u
 download-header = Preuzimanja
 download-save-where = Spremi datoteke u
     .accesskey = u
@@ -1476,6 +1492,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } pone
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = „Samo HTTPS” modus
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Dozvoljava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 httpsonly-description3 = Dozvoljava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 httpsonly-learn-more2 = Kako funkcionira modus „Samo HTTPS”
 httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između { -brand-short-name(case: "gen") } i web stranica koje posjećuješ. Većina web stranica podržava HTTPS, a ako je aktiviran „Samo HTTPS” modus, tada će { -brand-short-name } nadograditi sve veze na HTTPS.

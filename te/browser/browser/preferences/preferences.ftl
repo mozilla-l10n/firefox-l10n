@@ -66,6 +66,17 @@ should-restart-ok = ఇప్పుడు { -brand-short-name } ను పున
 cancel-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = వెతుకుడు ఫలితాలు
@@ -191,6 +202,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = దస్త్రాలు & అనువర్తనాలు
+downloads-header-2 =
+    .label = దింపుకోళ్ళు
+download-save-where-2 =
+    .label = ఫైళ్ళను ఇక్కడ భద్రపరచు
+    .accesskey = v
 download-header = దింపుకోళ్ళు
 download-save-where = ఫైళ్ళను ఇక్కడ భద్రపరచు
     .accesskey = v
@@ -680,6 +696,9 @@ forms-windows-sso-learn-more-link = ఇంకా తెలుసుకోండ�
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = చరిత్ర
@@ -754,6 +773,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = మినహాయింపులను నిర్వహించండి…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -913,6 +935,9 @@ addon-recommendations-link = ఇంకా తెలుసుకోండి
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

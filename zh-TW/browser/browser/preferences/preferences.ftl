@@ -235,6 +235,15 @@ browser-layout-show-sidebar-desc = 不用離開主畫面就能快速開啟書籤
 language-and-appearance-header = 語言與外觀
 preferences-web-appearance-header = 網站外觀
 preferences-web-appearance-description = 某些網站可依照您的偏好來調整顯示配色，可在此決定要針對這些網站使用哪種配色模式。
+preferences-web-appearance-choice-auto2 =
+    .label = 自動
+    .title = 依照系統設定與 { -brand-short-name } 佈景主題設定，自動更改網頁與背景與內容。
+preferences-web-appearance-choice-light2 =
+    .label = 亮色
+    .title = 在網站背景與內容使用亮色外觀。
+preferences-web-appearance-choice-dark2 =
+    .label = 暗色
+    .title = 在網站背景與內容使用暗色外觀。
 preferences-web-appearance-choice-auto = 自動
 preferences-web-appearance-choice-light = 亮色
 preferences-web-appearance-choice-dark = 暗色
@@ -254,6 +263,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = 您選擇的對比設定會蓋過網站外觀的配色。
+preferences-web-appearance-link =
+    .label = 到擴充套件與佈景主題管理 { -brand-short-name } 的佈景主題
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 您選擇的配色會蓋過網站外觀的配色。<a data-l10n-name="colors-link">管理色彩</a>。
@@ -329,6 +340,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = 檔案與應用程式
+downloads-header-2 =
+    .label = 下載
+download-save-where-2 =
+    .label = 儲存檔案到
+    .accesskey = v
 download-header = 下載
 download-save-where = 儲存檔案到
     .accesskey = v
@@ -1506,6 +1522,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = 純 HTTPS 模式
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = 僅允許對網站使用安全連線。{ -brand-short-name } 會在進行不安全連線前先詢問。
 httpsonly-description3 = 僅允許對網站使用安全連線。{ -brand-short-name } 會在進行不安全連線前先詢問。
 httpsonly-learn-more2 = 純 HTTPS 模式的運作原理是什麼？
 httpsonly-description = HTTPS 讓您與要造訪的網站間，能夠有安全而加密過的連線。大部分的網站都支援 HTTPS，開啟純 HTTPS 模式後，{ -brand-short-name } 就會將所有的連線都升級為 HTTPS 連線。

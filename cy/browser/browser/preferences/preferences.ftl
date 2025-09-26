@@ -259,6 +259,15 @@ browser-layout-show-sidebar-desc = Cael mynediad cyflym at nodau tudalen, tabiau
 language-and-appearance-header = Iaith a Gwedd
 preferences-web-appearance-header = Gwedd gwefan
 preferences-web-appearance-description = Mae rhai gwefannau yn addasu eu cynllun lliw yn seiliedig ar eich dewisiadau. Dewiswch pa gynllun lliw yr hoffech ei ddefnyddio ar gyfer y gwefannau hynny.
+preferences-web-appearance-choice-auto2 =
+    .label = Awtomatig
+    .title = Newidiwch gefndir a chynnwys gwefan yn awtomatig yn seiliedig ar osodiadau eich system a thema { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Golau
+    .title = Defnyddio gwedd olau ar gyfer cefndiroedd gwefannau a chynnwys.
+preferences-web-appearance-choice-dark2 =
+    .label = Tywyll
+    .title = Defnyddio gwedd dywyll ar gyfer cefndiroedd gwefan a chynnwys.
 preferences-web-appearance-choice-auto = Awtomatig
 preferences-web-appearance-choice-light = Golau
 preferences-web-appearance-choice-dark = Tywyll
@@ -278,6 +287,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Mae eich gosodiadau rheoli cyferbyniad yn drech na gwedd y wefan.
+preferences-web-appearance-link =
+    .label = Rheoli themâu { -brand-short-name } yn Estyniadau a Themâu
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Mae eich dewisiadau lliw yn drech nag gwedd gwefan. <a data-l10n-name="colors-link">Rheoli lliwiau</a>
@@ -353,6 +364,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ffeiliau a Rhaglenni
+downloads-header-2 =
+    .label = Llwythi i lawr
+download-save-where-2 =
+    .label = Cadw ffeiliau yn
+    .accesskey = a
 download-header = Llwythi i lawr
 download-save-where = Cadw ffeiliau yn
     .accesskey = a
@@ -1534,6 +1550,9 @@ space-alert-under-5gb-message2 = <strong>Mae { -brand-short-name } yn brin o le 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modd HTTPS-yn-Unig
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Dim ond yn caniatáu cysylltiadau diogel â gwefannau. Bydd { -brand-short-name } yn gofyn cyn cysylltu'n anniogel.
 httpsonly-description3 = Dim ond yn caniatáu cysylltiadau diogel â gwefannau. Bydd { -brand-short-name } yn gofyn cyn cysylltu'n anniogel.
 httpsonly-learn-more2 = Sut mae HTTPS-yn Unig yn gweithio
 httpsonly-description = Mae HTTPS yn darparu cysylltiad diogel, wedi'i amgryptio rhwng  { -brand-short-name } a'r gwefannau rydych chi'n ymweld â nhw. Mae'r mwyafrif o wefannau yn cefnogi HTTPS, ac os yw Modd HTTPS-yn-Unig wedi'i alluogi, yna bydd { -brand-short-name } yn uwchraddio'r holl gysylltiadau â HTTPS.

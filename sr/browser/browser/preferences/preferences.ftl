@@ -232,6 +232,15 @@ containers-remove-cancel-button = Не уклањај
 language-and-appearance-header = Језик и изглед
 preferences-web-appearance-header = Изглед веб странице
 preferences-web-appearance-description = Неке веб странице прилагођавају своју шему боја према вашим жељама. Изаберите шему боја коју желите да користите за те сајтове.
+preferences-web-appearance-choice-auto2 =
+    .label = Аутоматски
+    .title = Аутоматски промените позадину и садржај веб сајта на основу подешавања система и { -brand-short-name } теме.
+preferences-web-appearance-choice-light2 =
+    .label = Светла
+    .title = Користите светлу тему за позадину и садржај веб странице.
+preferences-web-appearance-choice-dark2 =
+    .label = Тамна
+    .title = Користите тамну тему за позадину и садржај веб странице.
 preferences-web-appearance-choice-auto = Аутоматски
 preferences-web-appearance-choice-light = Светла
 preferences-web-appearance-choice-dark = Тамна
@@ -247,6 +256,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Управљајте { -brand-short-name } темама у менију Проширења и теме
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ваш избор боја мења изглед веб странице. <a data-l10n-name="colors-link">Управљајте бојама</a>
@@ -309,6 +320,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Датотеке и програми
+downloads-header-2 =
+    .label = Преузимања
+download-save-where-2 =
+    .label = Локација за чување датотека:
+    .accesskey = Л
 download-header = Преузимања
 download-save-where = Локација за чување датотека:
     .accesskey = Л
@@ -1269,6 +1285,9 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

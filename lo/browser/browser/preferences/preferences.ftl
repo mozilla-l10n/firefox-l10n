@@ -159,6 +159,15 @@ containers-remove-cancel-button = ຢ່າເອົາ Container ນີ້ອ�
 language-and-appearance-header = ພາສາແລະລັກສະນະທີ່ປະກົດ
 preferences-web-appearance-header = ຮູບລັກສະນະຂອງເວັບໄຊທ໌
 preferences-web-appearance-description = ບາງເວັບໄຊທ໌ປັບປ່ຽນສີຂອງເຂົາເຈົ້າໂດຍອີງໃສ່ຄວາມມັກຂອງທ່ານ. ເລືອກຮູບແບບສີທີ່ທ່ານຕ້ອງການໃຊ້ສໍາລັບເວັບໄຊທ໌ເຫຼົ່ານັ້ນ.
+preferences-web-appearance-choice-auto2 =
+    .label = ອັດຕະໂນມັດ
+    .title = ປ່ຽນພື້ນຫຼັງເວັບໄຊທ໌ ແລະເນື້ອຫາໂດຍອັດຕະໂນມັດຕາມການຕັ້ງຄ່າລະບົບ ແລະຫົວຂໍ້ { -brand-short-name } ຂອງເຈົ້າ.
+preferences-web-appearance-choice-light2 =
+    .label = ແຈ້ງ
+    .title = ໃຊ້ລັກສະນະແສງສະຫວ່າງສໍາລັບພື້ນຫລັງເວັບໄຊທ໌ແລະເນື້ອຫາ.
+preferences-web-appearance-choice-dark2 =
+    .label = ມືດ
+    .title = ໃຊ້ຮູບລັກສະນະທີ່ມືດມົວສໍາລັບພື້ນຫລັງເວັບໄຊທ໌ແລະເນື້ອຫາ.
 preferences-web-appearance-choice-auto = ອັດຕະໂນມັດ
 preferences-web-appearance-choice-light = ແຈ້ງ
 preferences-web-appearance-choice-dark = ມືດ
@@ -174,6 +183,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = ຈັດການຮູບແບບສີສັນ { -brand-short-name } ໃນ ສ່ວນຂະຫຍາຍ ແລະຮູບແບບສີສັນ
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = ການເລືອກສີຂອງທ່ານແມ່ນ overriding ຮູບລັກສະນະເວັບໄຊທ໌. <a data-l10n-name="colors-link">ຈັດການສີ</a>
@@ -233,6 +244,11 @@ use-system-locale =
 ## General Section - Files and Applications
 
 files-and-applications-title = ໄຟລ໌ແລະແອັບພລິເຄຊັນ
+downloads-header-2 =
+    .label = ດາວໂຫລດ
+download-save-where-2 =
+    .label = ບັນທຶກເອກະສານໃສ່
+    .accesskey = v
 download-header = ດາວໂຫລດ
 download-save-where = ບັນທຶກເອກະສານໃສ່
     .accesskey = v
@@ -796,6 +812,9 @@ primary-password-os-auth-dialog-message-win = ເພື່ອສ້າງລະ�
 primary-password-os-auth-dialog-message-macosx = ສ້າງລະຫັດຜ່ານຫຼັກ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ປະຫວັດ
@@ -1075,6 +1094,9 @@ privacy-segmentation-radio-off =
     .label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

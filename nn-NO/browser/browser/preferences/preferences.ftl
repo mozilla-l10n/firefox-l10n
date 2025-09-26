@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Få rask tilgang til bokmerke, faner frå mob
 language-and-appearance-header = Språk og utsjånad
 preferences-web-appearance-header = Utsjånaden på nettstaden
 preferences-web-appearance-description = Nokre nettstadar tilpassar fargeskjemaet basert på innstillingane dine. Vel kva for fargeskjema du vil bruke for desse nettstadane.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatisk
+    .title = Endre nettsidebakgrunn og innhald automatisk basert på systeminnstillingane og { -brand-short-name }-temaet.
+preferences-web-appearance-choice-light2 =
+    .label = Lyst
+    .title = Bruk ein lys utsjånad for nettsidebakgrunn og innhald.
+preferences-web-appearance-choice-dark2 =
+    .label = Mørkt
+    .title = Bruk ein mørk utsjånad for nettsidebakgrunn og innhald.
 preferences-web-appearance-choice-auto = Automatisk
 preferences-web-appearance-choice-light = Lyst
 preferences-web-appearance-choice-dark = Mørkt
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Kontrastinnstillingane dine overstyrer utsjånaden til nettstaden.
+preferences-web-appearance-link =
+    .label = Handsam { -brand-short-name }-tema i Utvidingar og tema
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Fargevala dine overstyrer utsjånaden til nettstaden. <a data-l10n-name="colors-link">Handsam fargar</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Filer og program
+downloads-header-2 =
+    .label = Nedlastingar
+download-save-where-2 =
+    .label = Lagre filer i
+    .accesskey = L
 download-header = Nedlastingar
 download-save-where = Lagre filer i
     .accesskey = L
@@ -1511,6 +1527,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Berre HTTPS-modus
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Tillèt berre sikre tilkoplingar til nettstadar. { -brand-short-name } vil spørje før du koplar til på ein usikker måte.
 httpsonly-description3 = Tillèt berre sikre tilkoplingar til nettstadar. { -brand-short-name } vil spørje før du koplar til på ein usikker måte.
 httpsonly-learn-more2 = Korleis Berre-HTTPS fungerer
 httpsonly-description = HTTPS gir eit trygt, kryptert samband mellom { -brand-short-name } og nettstadane du besøkjer. Dei fleste nettstadar støttar HTTPS, og dersom berre HTTPS-modus er slått på, vil { -brand-short-name } oppgradere alle tilkoplingar til HTTPS.

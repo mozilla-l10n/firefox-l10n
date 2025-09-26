@@ -250,6 +250,15 @@ browser-layout-show-sidebar-desc = Accesează rapid marcaje, file de pe telefon,
 language-and-appearance-header = Limbă și aspect
 preferences-web-appearance-header = Aspectul site-urilor web
 preferences-web-appearance-description = Unele site-uri web își adaptează schema de culori pe baza preferințelor tale. Alege schema de culori pe care dorești să o folosești pentru aceste site-uri.
+preferences-web-appearance-choice-auto2 =
+    .label = Automat
+    .title = Schimbă automat fundalurile și conținutul site-urilor web în funcție de setările sistemului și de tema { -brand-short-name }
+preferences-web-appearance-choice-light2 =
+    .label = Deschis
+    .title = Folosește un aspect deschis pentru fundalurile și conținutul site-urilor web.
+preferences-web-appearance-choice-dark2 =
+    .label = Întunecat
+    .title = Folosește un aspect întunecat pentru fundalurile și conținutul site-urilor web.
 preferences-web-appearance-choice-auto = Automat
 preferences-web-appearance-choice-light = Deschis
 preferences-web-appearance-choice-dark = Întunecat
@@ -269,6 +278,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Setările de reglare a contrastului au prioritate față de aspectul site-ului web.
+preferences-web-appearance-link =
+    .label = Gestionează temele { -brand-short-name } în Extensii și teme
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Alegerile tale de culoare suprascriu aspectul site-urilor web. <a data-l10n-name="colors-link">Gestionează culorile</a>
@@ -344,6 +355,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fișiere și aplicații
+downloads-header-2 =
+    .label = Descărcări
+download-save-where-2 =
+    .label = Salvează fișierele în
+    .accesskey = v
 download-header = Descărcări
 download-save-where = Salvează fișierele în
     .accesskey = v
@@ -1519,6 +1535,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } rămâne fără s
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mod numai HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
 httpsonly-description3 = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
 httpsonly-learn-more2 = Cum funcționează Numai HTTPS
 httpsonly-description = HTTPS oferă o conexiune criptată și securizată între { -brand-short-name } și site-urile web pe care intri. Cele mai multe site-uri au suport pentru HTTPS și, dacă este activat modul numai HTTPS, atunci { -brand-short-name } va folosi HTTPS pentru toate conexiunile.

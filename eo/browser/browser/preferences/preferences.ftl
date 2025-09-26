@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Rapide aliru legosignojn aŭ langetojn el via
 language-and-appearance-header = Lingvo kaj aspekto
 preferences-web-appearance-header = Aspekto de retejoj
 preferences-web-appearance-description = Kelkaj retejoj adaptas siajn kolorarojn al viaj preferoj. Elektu la koloraron kiun vi ŝatus uzi por tiuj retejoj.
+preferences-web-appearance-choice-auto2 =
+    .label = Aŭtomate
+    .title = Aŭtomate ŝanĝi enhavon kaj fonojn de retejoj laŭ viaj sistemaj agordoj kaj laŭ la etoso de { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Hela
+    .title = Uzi helan aspekton por fono enhavo de retejoj.
+preferences-web-appearance-choice-dark2 =
+    .label = Malhela
+    .title = Uzi malhelan aspekton por fono enhavo de retejoj.
 preferences-web-appearance-choice-auto = Aŭtomate
 preferences-web-appearance-choice-light = Hela
 preferences-web-appearance-choice-dark = Malhela
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Viaj agordoj de kontrasto modifas la aspekton de retejoj.
+preferences-web-appearance-link =
+    .label = Administri la etosojn de { -brand-short-name } en Etendaĵoj kaj etosoj
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Via elekto de koloroj superregas la aspekton de retejoj. <a data-l10n-name="colors-link">Administri kolorojn</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dosieroj kaj programoj
+downloads-header-2 =
+    .label = Elŝutoj
+download-save-where-2 =
+    .label = Konservi dosierojn en
+    .accesskey = d
 download-header = Elŝutoj
 download-save-where = Konservi dosierojn en
     .accesskey = d
@@ -1511,6 +1527,9 @@ space-alert-under-5gb-message2 = <strong>Elĉerpiĝas la diska spaco por { -bran
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-nura reĝimo
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Nur permesi sekurajn konektojn al retejoj. { -brand-short-name } demandos antaŭ ol konektiĝi nesekure.
 httpsonly-description3 = Nur permesi sekurajn konektojn al retejoj. { -brand-short-name } demandos antaŭ ol konektiĝi nesekure.
 httpsonly-learn-more2 = Kiel funkcias HTTPS-nura reĝimo
 httpsonly-description = HTTPS provizas sekuran, ĉifritan konekton inter { -brand-short-name } kaj la vizitataj retejoj. Plimulto de la retejoj subtenas HTTPS kaj, se la HTTPS-nura reĝimo estas aktiva, { -brand-short-name } movos ĉiujn konektojn al HTTPS.

@@ -156,6 +156,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = கோப்புகள் மற்றும் செயலிகள்
+downloads-header-2 =
+    .label = பதிவிறக்கங்கள்
+download-save-where-2 =
+    .label = கோப்புகளை இங்கு சேமி
+    .accesskey = v
 download-header = பதிவிறக்கங்கள்
 download-save-where = கோப்புகளை இங்கு சேமி
     .accesskey = v
@@ -474,6 +479,12 @@ sync-sign-in =
     .label = புகுபதிகை
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -549,6 +560,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = கடவுச்சொல்லை மாற்ற முடியவில்லை
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = வரலாறு
@@ -610,6 +627,12 @@ sitedata-settings =
     .label = தரவை நிர்வகி
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = முகவரி பட்டை
@@ -642,6 +665,15 @@ enhanced-tracking-protection-setting-strict =
 enhanced-tracking-protection-setting-custom =
     .label = தனிப்பயன்
     .accesskey = C
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -693,6 +725,9 @@ addon-recommendations-link = மேலும் அறிக
 # or builds with no Telemetry support available.
 collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -723,6 +758,12 @@ certs-view =
 certs-devices =
     .label = பாதுகாப்பு சாதனங்கள்…
     .accesskey = D
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

@@ -195,6 +195,15 @@ containers-remove-cancel-button = Palikti šį sudėtinį rodinį
 language-and-appearance-header = Kalba ir išvaizda
 preferences-web-appearance-header = Svetainių išvaizda
 preferences-web-appearance-description = Kai kurios svetainės pritaiko savo spalvų schemą pagal jūsų nustatymus. Pasirinkite, kurią spalvų schemą norėtumėte naudoti tokioms svetainėms.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatinis
+    .title = Automatiškai keiskite svetainės foną ir turinį pagal sistemos nustatymus ir „{ -brand-short-name }“ grafinį apvalkalą.
+preferences-web-appearance-choice-light2 =
+    .label = Šviesus
+    .title = Naudoti šviesias spalvas svetainių fonui ir turiniui.
+preferences-web-appearance-choice-dark2 =
+    .label = Tamsus
+    .title = Naudoti tamsias spalvas svetainių fonui ir turiniui.
 preferences-web-appearance-choice-auto = Automatinis
 preferences-web-appearance-choice-light = Šviesus
 preferences-web-appearance-choice-dark = Tamsus
@@ -210,6 +219,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Tvarkykite { -brand-short-name } apvalkalus prieduose ir grafiniuose apvalkaluose
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Jūsų spalvų pasirinkimai pakeičia svetainių išvaizdą. <a data-l10n-name="colors-link">Tvarkyti spalvas</a>
@@ -272,6 +283,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Failai ir programos
+downloads-header-2 =
+    .label = Atsiuntimai
+download-save-where-2 =
+    .label = Atsiunčiamus failus įrašyti į:
+    .accesskey = f
 download-header = Atsiuntimai
 download-save-where = Atsiunčiamus failus įrašyti į:
     .accesskey = f
@@ -865,6 +881,9 @@ primary-password-os-auth-dialog-message-win = Norėdami sukurti pagrindinį slap
 primary-password-os-auth-dialog-message-macosx = sukurti pagrindinį slaptažodį
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Žurnalas
@@ -948,6 +967,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tvarkyti išimtis…
     .accesskey = m
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1137,6 +1162,9 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Rodyti detalią informaciją
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1184,6 +1212,9 @@ httpsonly-radio-enabled-pbm =
     .label = Įjungti tik HTTPS veikseną privačiojo naršymo languose
 httpsonly-radio-disabled =
     .label = Neįjungti tik HTTPS veiksenos
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

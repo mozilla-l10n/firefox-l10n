@@ -253,6 +253,15 @@ browser-layout-show-sidebar-desc = Mějśo malsny pśistup k cytańskim znamjenj
 language-and-appearance-header = Rěc a wuglěd
 preferences-web-appearance-header = Naglěd websedła
 preferences-web-appearance-description = Někotare websedła swóju barwowu šemu na zakłaźe wašych nastajenjow pśiměrjuju. Wubjeŕśo, kótaru barwowu šemu cośo za te sedła wužywaś.
+preferences-web-appearance-choice-auto2 =
+    .label = Awtomatiski
+    .title = Změńśo awtomatiski slězyny websedła a wopśimjeśe na zakłaźe swójich systemowych nastajenjow a drastwy { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Swětły
+    .title = Swětły naglěd za slězyny websedłow a wopśimjeśe wužywaś.
+preferences-web-appearance-choice-dark2 =
+    .label = Śamny
+    .title = Śamny naglěd za slězyny websedłow a wopśimjeśe wužywaś.
 preferences-web-appearance-choice-auto = Awtomatiski
 preferences-web-appearance-choice-light = Swětły
 preferences-web-appearance-choice-dark = Śamny
@@ -272,6 +281,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Waše nastajenja kontrastoweje kontrole naglěd websedła pśepisuju.
+preferences-web-appearance-link =
+    .label = Drastwy { -brand-short-name } w Rozšyrjenja a drastwy zastojaś
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Waše barwowe wuběrki naglěd websedła pśepisuju. <a data-l10n-name="colors-link">Barwy zastojaś</a>
@@ -347,6 +358,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dataje a nałoženja
+downloads-header-2 =
+    .label = Ześěgnjenja
+download-save-where-2 =
+    .label = Dataje składowaś do
+    .accesskey = D
 download-header = Ześěgnjenja
 download-save-where = Dataje składowaś do
     .accesskey = D
@@ -1526,6 +1542,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } njama wěcej dos�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus Jano-HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Zmóžnja jano wěste zwiski z websedłami. { -brand-short-name } buźo se was pšašaś, nježli až njewěsće zwězujo.
 httpsonly-description3 = Zmóžnja jano wěste zwiski z websedłami. { -brand-short-name } buźo se was pšašaś, nježli až njewěsće zwězujo.
 httpsonly-learn-more2 = Kak Jano-HTTPS funkcioněrujo
 httpsonly-description = HTTPS wěsty, skoděrowany zwisk mjazy { -brand-short-name } a websedłami bitujo, ku kótarymž se woglědujośo. Nejwěcej websedłow HTTPS pódpěra, a jolic modus Jano-HTTPS jo zmóžnjony, { -brand-short-name } buźo wše zwiski na HTTPS aktualizěrowaś.

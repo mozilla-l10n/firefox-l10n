@@ -245,6 +245,15 @@ browser-layout-show-sidebar-desc = Acceda rápidamente a marcadores, pestañas d
 language-and-appearance-header = Idioma y apariencia
 preferences-web-appearance-header = Apariencia del sitio web
 preferences-web-appearance-description = Algunos sitios web adaptan su combinación de colores según las preferencias. Elija qué combinación de colores le gustaría usar para esos sitios.
+preferences-web-appearance-choice-auto2 =
+    .label = Automático
+    .title = Cambia automáticamente el fondo y el contenido del sitio web de acuerdo a la configuración de su sistema y al tema de { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Claro
+    .title = Usar una apariencia clara para los fondos y el contenido del sitio web.
+preferences-web-appearance-choice-dark2 =
+    .label = Oscuro
+    .title = Usar una apariencia oscura para los fondos y el contenido del sitio web.
 preferences-web-appearance-choice-auto = Automático
 preferences-web-appearance-choice-light = Claro
 preferences-web-appearance-choice-dark = Oscuro
@@ -264,6 +273,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Sus ajustes de contraste prevalecen sobre la apariencia del sitio web.
+preferences-web-appearance-link =
+    .label = Administre los temas de { -brand-short-name } en Extensiones y temas
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Sus selecciones de color anulan la apariencia del sitio web. <a data-l10n-name="colors-link">Administrar colores</a>
@@ -339,6 +350,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Archivos y aplicaciones
+downloads-header-2 =
+    .label = Descargas
+download-save-where-2 =
+    .label = Guardar archivos en
+    .accesskey = G
 download-header = Descargas
 download-save-where = Guardar archivos en
     .accesskey = G
@@ -1493,6 +1509,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo solo-HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Solo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
 httpsonly-description3 = Solo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
 httpsonly-learn-more2 = Cómo funciona el modo solo-HTTPS
 httpsonly-description = HTTPS proporciona una conexión segura y cifrada entre { -brand-short-name } y los sitios web que visita. La mayoría de los sitios web admiten HTTPS, y si el modo solo-HTTPS está habilitado, entonces { -brand-short-name } actualizará todas las conexiones a HTTPS.

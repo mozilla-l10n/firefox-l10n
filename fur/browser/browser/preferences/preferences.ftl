@@ -243,6 +243,15 @@ browser-layout-show-sidebar-desc = Rive intun lamp a segnelibris, schedis dal to
 language-and-appearance-header = Lenghe e aspiet
 preferences-web-appearance-header = Aspiet dai sîts web
 preferences-web-appearance-description = Cualchi sît web al adate il so scheme di colôrs in base aes tôs preferencis. Sielç cuâl scheme di colôrs doprâ par chei sîts.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatic
+    .title = Cambie in automatic i fonts e il contignût in base aes impostazions dal sisteme e al teme di { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Clâr
+    .title = Dopre un aspiet clâr pal fonts e pai contignûts dai sîts.
+preferences-web-appearance-choice-dark2 =
+    .label = Scûr
+    .title = Dopre un aspiet scûr pal fonts e pai contignûts dai sîts.
 preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Clâr
 preferences-web-appearance-choice-dark = Scûr
@@ -262,6 +271,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Lis tôs impostazions di control dal contrast a stan sostituint l'aspiet dai sîts web.
+preferences-web-appearance-link =
+    .label = Gjestìs i temis di { -brand-short-name } in Estensions e temis
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = L'aspiet dal sît web al è stât sostituît de tô selezion di colôrs. <a data-l10n-name="colors-link"> Gjestìs i colôrs</a>
@@ -337,6 +348,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Files e aplicazions
+downloads-header-2 =
+    .label = Discjamâts
+download-save-where-2 =
+    .label = Salve i files in
+    .accesskey = S
 download-header = Discjamâts
 download-save-where = Salve i files in
     .accesskey = S
@@ -1477,6 +1493,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } al sta finint il 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modalitât Dome-HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
 httpsonly-description3 = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
 httpsonly-learn-more2 = Cemût che e funzione la modalitât dome-HTTPS
 httpsonly-description = HTTPS al da une conession sigure e cifrade tra { -brand-short-name } e i sîts web che tu visitis. La plui part dai sîts web e supuarte HTTPS e se la modalitât Dome-HTTPS e je ative, alore { -brand-short-name } al doprarà HTTPS in dutis lis conessions.

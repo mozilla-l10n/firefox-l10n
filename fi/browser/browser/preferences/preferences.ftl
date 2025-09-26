@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Käytä nopeasti kirjanmerkkejä, välilehti�
 language-and-appearance-header = Kieli ja ulkoasu
 preferences-web-appearance-header = Verkkosivuston ulkoasu
 preferences-web-appearance-description = Jotkin verkkosivustot mukauttavat värimaailmaansa valintasi mukaan. Valitse, mitä värimaailmaa haluat käyttää tällaisilla sivustoilla.
+preferences-web-appearance-choice-auto2 =
+    .label = Automaattinen
+    .title = Muuta automaattisesti verkkosivustojen taustaa ja sisältöä järjestelmäasetustesi ja { -brand-short-name }-teeman perusteella.
+preferences-web-appearance-choice-light2 =
+    .label = Vaalea
+    .title = Käytä vaaleaa ulkoasua verkkosivuston taustalle ja sisällölle.
+preferences-web-appearance-choice-dark2 =
+    .label = Tumma
+    .title = Käytä tummaa ulkoasua verkkosivuston taustalle ja sisällölle.
 preferences-web-appearance-choice-auto = Automaattinen
 preferences-web-appearance-choice-light = Vaalea
 preferences-web-appearance-choice-dark = Tumma
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Kontrastiasetukset ohittavat verkkosivuston ulkoasun.
+preferences-web-appearance-link =
+    .label = Hallinnoi { -brand-short-name }in teemoja Laajennukset ja teemat -osiossa
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Värivalintasi ohittavat verkkosivuston ulkoasun. <a data-l10n-name="colors-link">Hallinnoi värejä</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Tiedostot ja ohjelmat
+downloads-header-2 =
+    .label = Lataukset
+download-save-where-2 =
+    .label = Tallenna kansioon
+    .accesskey = T
 download-header = Lataukset
 download-save-where = Tallenna kansioon
     .accesskey = T
@@ -1515,6 +1531,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") }
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Vain HTTPS -tila
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Sallii vain suojatut yhteydet verkkosivustoille. { -brand-short-name } kysyy, ennen kuin muodostaa suojaamattoman yhteyden.
 httpsonly-description3 = Sallii vain suojatut yhteydet verkkosivustoille. { -brand-short-name } kysyy, ennen kuin muodostaa suojaamattoman yhteyden.
 httpsonly-learn-more2 = Miten ”Vain HTTPS”-tila toimii
 httpsonly-description = HTTPS:n avulla { -brand-short-name } muodostaa suojatun ja salatun yhteyden vierailemiisi sivustoihin. Useimmat sivustot tukevat HTTPS:ää, ja jos ”Vain HTTPS”-tila on käytössä, { -brand-short-name } muuntaa kaikki yhteydet käyttämään HTTPS:ää.

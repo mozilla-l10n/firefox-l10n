@@ -32,6 +32,20 @@ should-restart-title = { -brand-short-name } फेर आरंभ करू
 should-restart-ok = { -brand-short-name } केँ अखन फेर आरंभ करू
 restart-later = कनि काल मे फेर सँ शुरू करू
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = आरंभन
@@ -41,6 +55,13 @@ tabs-group-header = टैब
 show-tabs-in-taskbar =
     .label = विंडो कार्यपट्टी मे टैब पूर्वावलोकन देखाउ
     .accesskey = k
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -63,6 +84,11 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = डाउनलोड
+download-save-where-2 =
+    .label = एतय फाइल सहेजू
+    .accesskey = v
 download-header = डाउनलोड
 download-save-where = एतय फाइल सहेजू
     .accesskey = v
@@ -161,6 +187,9 @@ network-proxy-connection-settings =
     .label = सेटिंग…
     .accesskey = e
 
+## Home Section
+
+
 ## Home Section - Home Page Customization
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -238,6 +267,13 @@ search-keyword-warning-title = बीजशब्द अनुकृति
 search-keyword-warning-engine = अहाँ एकटा बीजशब्द चुनने छी जे अखन "{ $name }" क द्वारा प्रयोग मे अछि . कृप्या दूसरा चुनू.
 search-keyword-warning-bookmark = अहाँ एकटाटा बीजशब्द चुनने छी जे अखन पुस्तकचिह्नक द्वारा प्रयोग मे अछि. कृप्या दूसरा चुनू.
 
+## Containers Section
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Firefox account - Signed in
 
 sync-profile-picture =
@@ -251,6 +287,15 @@ sync-profile-picture-with-alt =
 
 sync-signedin-unverified = { $email } सत्यापित नहि अछि.
 sync-signedin-login-failure = फिनु सँ कनेक्ट करबाक लेल साइन इन करू { $email }
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -270,6 +315,12 @@ sync-device-name-header = युक्ति नाम
 
 sync-verification-sent-title = सत्यापन भेजल गेल
 
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -285,6 +336,12 @@ forms-master-pw-change =
     .label = मुख्य गुड़किल्ली बदलू…
     .accesskey = M
 forms-master-pw-fips-desc = गुड़किल्ली बदलनाइ विफल
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -307,6 +364,15 @@ history-clear-on-close-settings =
     .label = सेटिंग…
     .accesskey = t
 
+## Privacy Section - Site Data
+
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-locbar-bookmarks-option =
@@ -315,6 +381,22 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = टैब खोलू
     .accesskey = O
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -326,12 +408,30 @@ permissions-addon-exceptions =
     .label = अपवाद…
     .accesskey = E
 
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
 ## Privacy Section - Certificates
 
 certs-header = प्रमाणपत्र
 certs-enable-ocsp =
     .label = OCSP रेस्पांडर सर्वर कए प्रश्न करू जाहि स प्रमाणपत्रक मोजुदा वैधताक पुष्टि भए सकय (Q)
     .accesskey = Q
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

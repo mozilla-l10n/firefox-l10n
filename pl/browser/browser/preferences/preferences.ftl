@@ -250,6 +250,15 @@ browser-layout-show-sidebar-desc = Szybki dostęp do zakładek, kart z telefonu
 language-and-appearance-header = Język i wygląd
 preferences-web-appearance-header = Wygląd witryn internetowych
 preferences-web-appearance-description = Część witryn dostosowuje swój schemat kolorów na podstawie preferencji użytkownika. Wybierz schemat kolorów używany na tych witrynach.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatyczny
+    .title = Automatycznie zmieniaj tła i treści witryn na podstawie ustawień systemu i motywu przeglądarki { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Jasny
+    .title = Używaj jasnego wyglądu teł i treści witryn.
+preferences-web-appearance-choice-dark2 =
+    .label = Ciemny
+    .title = Używaj ciemnego wyglądu teł i treści witryn.
 preferences-web-appearance-choice-auto = Automatyczny
 preferences-web-appearance-choice-light = Jasny
 preferences-web-appearance-choice-dark = Ciemny
@@ -269,6 +278,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Ustawienia sterowania kontrastem mają pierwszeństwo przed ustawieniami wyglądu witryn.
+preferences-web-appearance-link =
+    .label = Zarządzaj motywami { -brand-short-name(case: "gen") } w Rozszerzenia i motywy
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Wybrane kolory mają pierwszeństwo przed ustawieniami wyglądu witryn. <a data-l10n-name="colors-link">Zarządzaj kolorami</a>
@@ -344,6 +355,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Pliki i aplikacje
+downloads-header-2 =
+    .label = Pobieranie
+download-save-where-2 =
+    .label = Pobierane pliki zapisuj do:
+    .accesskey = o
 download-header = Pobieranie
 download-save-where = Pobierane pliki zapisuj do:
     .accesskey = o
@@ -1515,6 +1531,9 @@ space-alert-under-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zac
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Tryb używania wyłącznie protokołu HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Zezwala wyłącznie na zabezpieczone połączenia z witrynami. { -brand-short-name } będzie pytał przed niezabezpieczonym połączeniem.
 httpsonly-description3 = Zezwala wyłącznie na zabezpieczone połączenia z witrynami. { -brand-short-name } będzie pytał przed niezabezpieczonym połączeniem.
 httpsonly-learn-more2 = Jak działa tryb używania wyłącznie protokołu HTTPS
 httpsonly-description = Protokół HTTPS zapewnia zabezpieczone, zaszyfrowane połączenie między przeglądarką { -brand-short-name } a odwiedzanymi witrynami. Większość witryn obsługuje HTTPS, a jeśli tryb używania wyłącznie protokołu HTTPS jest włączony, to { -brand-short-name } przełączy wszystkie połączenia na HTTPS.

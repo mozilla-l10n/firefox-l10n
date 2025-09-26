@@ -242,6 +242,15 @@ browser-layout-show-sidebar-desc = Izan laster-marketa, telefonoko fitxeta, AA t
 language-and-appearance-header = Hizkuntza eta itxura
 preferences-web-appearance-header = Webgunearen itxura
 preferences-web-appearance-description = Zenbait webgunek beraiek kolore-eskema zure hobespenetara moldatzen dute. Aukeratu gune horietarako zein kolore-eskema erabili nahi duzun.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatikoa
+    .title = Aldatu automatikoki webguneen atzeko planoak eta edukia zure sistemaren ezarpenetan eta { -brand-short-name }(r)en itxuran oinarrituta.
+preferences-web-appearance-choice-light2 =
+    .label = Argia
+    .title = Erabili itxura argia webguneen atzeko plano eta edukiarentzat.
+preferences-web-appearance-choice-dark2 =
+    .label = Iluna
+    .title = Erabili itxura iluna webguneen atzeko plano eta edukiarentzat.
 preferences-web-appearance-choice-auto = Automatikoa
 preferences-web-appearance-choice-light = Argia
 preferences-web-appearance-choice-dark = Iluna
@@ -261,6 +270,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Zure kontrastearen kontrol-ezarpenek webgunearen itxura baliogabetzen dute.
+preferences-web-appearance-link =
+    .label = Kudeatu { -brand-short-name }(r)en itxurak Hedapenak eta itxura atalean
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Zure kolore-hautapenek webgunearen itxura baliogabetzen dute. <a data-l10n-name="colors-link">Kudeatu koloreak</a>
@@ -336,6 +347,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fitxategiak eta aplikazioak
+downloads-header-2 =
+    .label = Deskargak
+download-save-where-2 =
+    .label = Gorde fitxategiak hemen:
+    .accesskey = G
 download-header = Deskargak
 download-save-where = Gorde fitxategiak hemen:
     .accesskey = G
@@ -1333,6 +1349,9 @@ privacy-segmentation-radio-off =
     .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

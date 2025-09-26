@@ -243,6 +243,15 @@ browser-layout-show-sidebar-desc = Hyni shpejt e shpejt te faqerojtësit, skedat
 language-and-appearance-header = Gjuhë dhe Dukje
 preferences-web-appearance-header = Dukje sajti
 preferences-web-appearance-description = Disa sajte e përshtatin skemën e ngjyrave të tyre bazuar në parapëlqimet tuaja. Zgjidhni cilën skemë ngjyre do të donit të përdoret për këto sajte.
+preferences-web-appearance-choice-auto2 =
+    .label = Vetvetiu
+    .title = Bëni të ndryshojnë vetvetiu sfonde dhe lëndë sajti, bazuar në rregullimet e sistemit tuaj dhe temën e { -brand-short-name }-it.
+preferences-web-appearance-choice-light2 =
+    .label = E çelët
+    .title = Përdorni një pamje të çelët për sfonde dhe lëndë sajtesh.
+preferences-web-appearance-choice-dark2 =
+    .label = E errët
+    .title = Përdorni një pamje të errët për sfonde dhe lëndë sajtesh.
 preferences-web-appearance-choice-auto = Vetvetiu
 preferences-web-appearance-choice-light = E çelët
 preferences-web-appearance-choice-dark = E errët
@@ -262,6 +271,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Rregullimet tuaja për kontroll kontrasti po anashkalojnë ato të sajtit për dukjen.
+preferences-web-appearance-link =
+    .label = Administroni tema { -brand-short-name }, që nga Zgjerime & Tema
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Përzgjedhjet tuaja për ngjyrat po anashkalojnë pamjen e sajtit. <a data-l10n-name="colors-link">Administroni ngjyra</a>
@@ -337,6 +348,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Kartela dhe Aplikacione
+downloads-header-2 =
+    .label = Shkarkime
+download-save-where-2 =
+    .label = Kartelat ruaji te
+    .accesskey = R
 download-header = Shkarkime
 download-save-where = Kartelat ruaji te
     .accesskey = R
@@ -1459,6 +1475,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name }-it po i mbarohet 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mënyra Vetëm-HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Lejon vetëm lidhje të siguruara te sajtet. { -brand-short-name }-i do të pyesë, para lidhjes në mënyrë jo të siguruar.
 httpsonly-description3 = Lejon vetëm lidhje të siguruara te sajtet. { -brand-short-name }-i do të pyesë, para lidhjes në mënyrë jo të siguruar.
 httpsonly-learn-more2 = Si funksionon Vetëm-HTTPS-ja
 httpsonly-description = HTTPS-ja furnizon një lidhje të siguruar, të fshehtëzuar, mes { -brand-short-name }-it dhe sajtit që vizitoni. Shumica e sajteve e mbulojnë përdorimin e HTTPS-së dhe, nëse është aktivizuar mënyrë Vetëm-HTTPS, atëherë { -brand-short-name }-i do t’i kalojë krejt lidhjet nën mënyrën HTTPS.

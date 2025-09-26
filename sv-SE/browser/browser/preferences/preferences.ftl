@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Snabb åtkomst till bokmärken, flikar från 
 language-and-appearance-header = Språk och utseende
 preferences-web-appearance-header = Webbplatsens utseende
 preferences-web-appearance-description = Vissa webbplatser anpassar sitt färgschema baserat på dina inställningar. Välj vilket färgschema du vill använda för dessa webbplatser.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatisk
+    .title = Ändra automatiskt webbplatsbakgrunder och innehåll baserat på dina systeminställningar och { -brand-short-name }-tema.
+preferences-web-appearance-choice-light2 =
+    .label = Ljust
+    .title = Använd ett ljust utseende för webbplatsbakgrunder och innehåll.
+preferences-web-appearance-choice-dark2 =
+    .label = Mörkt
+    .title = Använd ett mörkt utseende för webbplatsbakgrunder och innehåll.
 preferences-web-appearance-choice-auto = Automatisk
 preferences-web-appearance-choice-light = Ljust
 preferences-web-appearance-choice-dark = Mörkt
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Dina inställningar för kontrastkontroll åsidosätter webbplatsens utseende.
+preferences-web-appearance-link =
+    .label = Hantera { -brand-short-name } teman i Tillägg och teman
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Dina färgval åsidosätter webbplatsens utseende. <a data-l10n-name="colors-link">Hantera färger</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Filer och program
+downloads-header-2 =
+    .label = Filhämtningar
+download-save-where-2 =
+    .label = Spara filer till
+    .accesskey = a
 download-header = Filhämtningar
 download-save-where = Spara filer till
     .accesskey = a
@@ -1518,6 +1534,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } håller på att f
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Endast HTTPS-läge
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Tillåter endast säkra anslutningar till webbplatser. { -brand-short-name } kommer att fråga innan du ansluter osäkert.
 httpsonly-description3 = Tillåter endast säkra anslutningar till webbplatser. { -brand-short-name } kommer att fråga innan du ansluter osäkert.
 httpsonly-learn-more2 = Hur endast HTTPS fungerar
 httpsonly-description = HTTPS ger en säker, krypterad anslutning mellan { -brand-short-name } och de webbplatser du besöker. De flesta webbplatser stöder HTTPS och om endast HTTPS-läget är aktiverat kommer { -brand-short-name } att uppgradera alla anslutningar till HTTPS.

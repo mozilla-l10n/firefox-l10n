@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Αποκτήστε γρήγορη πρόσβ�
 language-and-appearance-header = Γλώσσα και εμφάνιση
 preferences-web-appearance-header = Εμφάνιση ιστοτόπου
 preferences-web-appearance-description = Ορισμένοι ιστότοποι προσαρμόζουν το σύνολο χρωμάτων τους με βάση τις προτιμήσεις σας. Επιλέξτε ποιο σύνολο χρωμάτων θέλετε να χρησιμοποιήσετε για αυτούς τους ιστοτόπους.
+preferences-web-appearance-choice-auto2 =
+    .label = Αυτόματο
+    .title = Αυτόματη αλλαγή παρασκηνίου και περιεχομένου ιστοτόπων βάσει των ρυθμίσεων του συστήματός σας και του θέματος του { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Ανοιχτόχρωμο
+    .title = Χρήση ανοιχτόχρωμης εμφάνισης για φόντο και περιεχόμενο ιστοτόπων.
+preferences-web-appearance-choice-dark2 =
+    .label = Σκουρόχρωμο
+    .title = Χρήση σκουρόχρωμης εμφάνισης για φόντο και περιεχόμενο ιστοτόπων.
 preferences-web-appearance-choice-auto = Αυτόματο
 preferences-web-appearance-choice-light = Ανοιχτόχρωμο
 preferences-web-appearance-choice-dark = Σκουρόχρωμο
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Οι ρυθμίσεις σας για τον έλεγχο αντίθεσης υπερισχύουν της εμφάνισης του ιστοτόπου.
+preferences-web-appearance-link =
+    .label = Διαχειριστείτε τα θέματα του { -brand-short-name } στην ενότητα Επεκτάσεις και θέματα
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Οι επιλογές χρωμάτων σας υπερισχύουν της εμφάνισης του ιστοτόπου. <a data-l10n-name="colors-link">Διαχείριση χρωμάτων</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Αρχεία και εφαρμογές
+downloads-header-2 =
+    .label = Λήψεις
+download-save-where-2 =
+    .label = Αποθήκευση αρχείων σε
+    .accesskey = θ
 download-header = Λήψεις
 download-save-where = Αποθήκευση αρχείων σε
     .accesskey = θ
@@ -1518,6 +1534,9 @@ space-alert-under-5gb-message2 = <strong>Το { -brand-short-name } δεν δι�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Λειτουργία «Μόνο HTTPS»
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Επιτρέπει μόνο τις ασφαλείς συνδέσεις με ιστοτόπους. Το { -brand-short-name } θα σας ρωτήσει πριν πραγματοποιήσει μη ασφαλή σύνδεση.
 httpsonly-description3 = Επιτρέπει μόνο τις ασφαλείς συνδέσεις με ιστοτόπους. Το { -brand-short-name } θα σας ρωτήσει πριν πραγματοποιήσει μη ασφαλή σύνδεση.
 httpsonly-learn-more2 = Πώς λειτουργεί η δυνατότητα «Μόνο HTTPS»
 httpsonly-description = Το HTTPS παρέχει μια ασφαλή, κρυπτογραφημένη σύνδεση μεταξύ του { -brand-short-name } και των ιστοτόπων που επισκέπτεστε. Οι περισσότεροι ιστότοποι υποστηρίζουν το HTTPS και αν είναι ενεργή η λειτουργία «Μόνο HTTPS», τότε το { -brand-short-name } θα αναβαθμίζει όλες τις συνδέσεις σε HTTPS.

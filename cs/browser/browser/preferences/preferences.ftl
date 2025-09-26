@@ -298,6 +298,19 @@ browser-layout-show-sidebar-desc = Získejte rychlý přístup k záložkám, pa
 language-and-appearance-header = Zobrazení a jazyk stránek
 preferences-web-appearance-header = Vzhled webových stránek
 preferences-web-appearance-description = Některé stránky dokáží upravit svůj vzhled podle vašeho nastavení. Vyberte vzhled, který chcete na takových stránkách použít.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatický
+    .title =
+        { -brand-short-name.case-status ->
+            [with-cases] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
+           *[no-cases] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a aplikace { -brand-short-name }.
+        }
+preferences-web-appearance-choice-light2 =
+    .label = Světlý
+    .title = Použije pro pozadí a obsah webových stránek vzhled se světlým barevným tématem.
+preferences-web-appearance-choice-dark2 =
+    .label = Tmavý
+    .title = Použije pro pozadí a obsah webových stránek vzhled s tmavým barevným tématem.
 preferences-web-appearance-choice-auto = Automatický
 preferences-web-appearance-choice-light = Světlý
 preferences-web-appearance-choice-dark = Tmavý
@@ -321,6 +334,12 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Vaše nastavení kontrastu má přednost před vzhledem webu.
+preferences-web-appearance-link =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Vzhled { -brand-short-name(case: "gen") } nastavíte ve správci doplňků
+           *[no-cases] Vzhled aplikace { -brand-short-name } nastavíte ve správci doplňků
+        }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vaše nastavení upravuje vzhled stránky. <a data-l10n-name="colors-link">Nastavit barvy</a>
@@ -408,6 +427,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Soubory a aplikace
+downloads-header-2 =
+    .label = Stahování
+download-save-where-2 =
+    .label = Ukládat všechny soubory do složky
+    .accesskey = v
 download-header = Stahování
 download-save-where = Ukládat všechny soubory do složky
     .accesskey = v
@@ -1749,6 +1773,9 @@ space-alert-under-5gb-message2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Režim „pouze HTTPS“
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Umožňuje pouze zabezpečená připojení k webovým stránkám. { -brand-short-name } se před použitím nezabezpečeným připojení zeptá.
 httpsonly-description3 = Umožňuje pouze zabezpečená připojení k webovým stránkám. { -brand-short-name } se před použitím nezabezpečeným připojení zeptá.
 httpsonly-learn-more2 = Jak funguje režim „pouze HTTPS“.
 httpsonly-description =

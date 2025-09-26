@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Quickly access bookmarks, tabs from your phon
 language-and-appearance-header = Language and Appearance
 preferences-web-appearance-header = Web site appearance
 preferences-web-appearance-description = Some web sites adapt their colour scheme based on your preferences. Choose which colour scheme you’d like to use for those sites.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatic
+    .title = Automatically change web site backgrounds and content based on your system settings and { -brand-short-name } theme.
+preferences-web-appearance-choice-light2 =
+    .label = Light
+    .title = Use a light appearance for web site backgrounds and content.
+preferences-web-appearance-choice-dark2 =
+    .label = Dark
+    .title = Use a dark appearance for web site backgrounds and content.
 preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Light
 preferences-web-appearance-choice-dark = Dark
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Your contrast control settings are overriding web site appearance.
+preferences-web-appearance-link =
+    .label = Manage { -brand-short-name } themes in Extensions & Themes
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Your colour selections are overriding web site appearance. <a data-l10n-name="colors-link">Manage colours</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Files and Applications
+downloads-header-2 =
+    .label = Downloads
+download-save-where-2 =
+    .label = Save files to
+    .accesskey = v
 download-header = Downloads
 download-save-where = Save files to
     .accesskey = v
@@ -1518,6 +1534,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } is running out of
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only Mode
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Only allows secure connections to web sites. { -brand-short-name } will ask before connecting insecurely.
 httpsonly-description3 = Only allows secure connections to web sites. { -brand-short-name } will ask before connecting insecurely.
 httpsonly-learn-more2 = How HTTPS-Only works
 httpsonly-description = HTTPS provides a secure, encrypted connection between { -brand-short-name } and the web sites you visit. Most web sites support HTTPS, and if HTTPS-Only Mode is enabled, then { -brand-short-name } will upgrade all connections to HTTPS.

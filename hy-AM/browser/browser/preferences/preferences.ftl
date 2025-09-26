@@ -224,6 +224,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Կառավարեք { -brand-short-name } ձևավորումները Ընդլայնումներ և Ձևավորումներում
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Կառավարեք { -brand-short-name } ձևավորումները <a data-l10n-name="themes-link">Ընդլայնումներ և Ձևավորումներում</a>
@@ -295,6 +297,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ֆայլեր և հավելվածներ
+downloads-header-2 =
+    .label = Ներբեռնումներ
+download-save-where-2 =
+    .label = Ֆայլերը պահպանել`
+    .accesskey = ե
 download-header = Ներբեռնումներ
 download-save-where = Ֆայլերը պահպանել`
     .accesskey = ե
@@ -1052,6 +1059,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 

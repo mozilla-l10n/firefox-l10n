@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Benader snel bladwijzers, tabbladen van uw te
 language-and-appearance-header = Taal en Vormgeving
 preferences-web-appearance-header = Uiterlijk van de website
 preferences-web-appearance-description = Sommige websites passen hun kleurenschema aan op basis van uw voorkeuren. Kies welk kleurenschema u voor die websites wilt gebruiken.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatisch
+    .title = Automatisch website-achtergronden en -inhoud wijzigen op basis van uw systeeminstellingen en { -brand-short-name }-thema.
+preferences-web-appearance-choice-light2 =
+    .label = Licht
+    .title = Een lichte uitstraling voor website-achtergronden en -inhoud gebruiken.
+preferences-web-appearance-choice-dark2 =
+    .label = Donker
+    .title = Een donkere uitstraling voor website-achtergronden en -inhoud gebruiken.
 preferences-web-appearance-choice-auto = Automatisch
 preferences-web-appearance-choice-light = Licht
 preferences-web-appearance-choice-dark = Donker
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Uw instellingen voor contrastregeling hebben voorrang op het uiterlijk van de website.
+preferences-web-appearance-link =
+    .label = U kunt { -brand-short-name }-thema’s beheren in Extensies en thema’s
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Uw kleurselecties hebben voorrang op het uiterlijk van de website. <a data-l10n-name="colors-link">Kleuren beheren</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Bestanden en Toepassingen
+downloads-header-2 =
+    .label = Downloads
+download-save-where-2 =
+    .label = Bestanden opslaan in
+    .accesskey = o
 download-header = Downloads
 download-save-where = Bestanden opslaan in
     .accesskey = o
@@ -1518,6 +1534,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Alleen-HTTPS-modus
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Staat alleen beveiligde verbindingen met websites toe. { -brand-short-name } zal vragen voordat een onveilige verbinding wordt gemaakt.
 httpsonly-description3 = Staat alleen beveiligde verbindingen met websites toe. { -brand-short-name } zal vragen voordat een onveilige verbinding wordt gemaakt.
 httpsonly-learn-more2 = Hoe Alleen-HTTPS werkt
 httpsonly-description = HTTPS biedt een veilige, versleutelde verbinding tussen { -brand-short-name } en de door u bezochte websites. De meeste websites ondersteunen HTTPS en als de Alleen-HTTPS-modus is ingeschakeld, zal { -brand-short-name } alle verbindingen upgraden naar HTTPS.

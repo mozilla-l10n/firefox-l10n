@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Ana görünümünüzden ayrılmadan yer imler
 language-and-appearance-header = Dil ve görünüm
 preferences-web-appearance-header = Web sitesi görünümü
 preferences-web-appearance-description = Bazı web siteleri renk şemalarını tercihlerinize göre uyarlar. Bu sitelerde kullanmak istediğiniz renk şemasını seçin.
+preferences-web-appearance-choice-auto2 =
+    .label = Otomatik
+    .title = Web sitesi arka planlarını ve içeriğini sistem ayarlarıma ve { -brand-short-name } temama göre otomatik olarak değiştir.
+preferences-web-appearance-choice-light2 =
+    .label = Açık
+    .title = Web sitesi arka planları ve içeriğinde açık bir görünüm kullan.
+preferences-web-appearance-choice-dark2 =
+    .label = Koyu
+    .title = Web sitesi arka planları ve içeriğinde koyu bir görünüm kullan.
 preferences-web-appearance-choice-auto = Otomatik
 preferences-web-appearance-choice-light = Açık
 preferences-web-appearance-choice-dark = Koyu
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Kontrast denetimi ayarlarınız web sitesi görünümünü geçersiz kılıyor.
+preferences-web-appearance-link =
+    .label = { -brand-short-name } temalarını Uzantılar ve Temalar sayfasından yönetebilirsiniz.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Renk seçimleriniz web sitesi görünümünü geçersiz kılıyor. <a data-l10n-name="colors-link">Renkleri yönet</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dosyalar ve uygulamalar
+downloads-header-2 =
+    .label = İndirme
+download-save-where-2 =
+    .label = Dosya kayıt yeri
+    .accesskey = a
 download-header = İndirme
 download-save-where = Dosya kayıt yeri
     .accesskey = a
@@ -1518,6 +1534,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } tarafından kulll
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Yalnızca HTTPS modu
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Web sitelerine yalnızca güvenli bağlantı kurulmasına izin verir. { -brand-short-name } güvensiz bir bağlantı kurmadan önce size sorar.
 httpsonly-description3 = Web sitelerine yalnızca güvenli bağlantı kurulmasına izin verir. { -brand-short-name } güvensiz bir bağlantı kurmadan önce size sorar.
 httpsonly-learn-more2 = Yalnızca HTTPS modu nasıl çalışır?
 httpsonly-description = HTTPS, ziyaret ettiğiniz sitelerle { -brand-short-name } arasında güvenli ve şifrelenmiş bağlantı sağlar. Çoğu site HTTPS desteği sunar. “Yalnızca HTTPS” modunu açarsanız { -brand-short-name } tüm bağlantılarda HTTPS kullanmaya çalışır.

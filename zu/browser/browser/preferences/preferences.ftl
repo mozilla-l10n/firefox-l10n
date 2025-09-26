@@ -68,6 +68,11 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Okulayishiwe kwangeniswa
+download-save-where-2 =
+    .label = Gcina amafayela ku
+    .accesskey = i
 download-header = Okulayishiwe kwangeniswa
 download-save-where = Gcina amafayela ku
     .accesskey = i
@@ -188,8 +193,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##

@@ -253,6 +253,15 @@ browser-layout-show-sidebar-desc = Mějće spěšny přistup k zapołožkam, raj
 language-and-appearance-header = Rěč a zwonkowne
 preferences-web-appearance-header = Napohlad websydła
 preferences-web-appearance-description = Někotre websydła swoju barbowu šemu na zakładźe wašich nastajenjow přiměrjeja. Wubjerće, kotru barbowu šemu chceće za te sydła wužiwać.
+preferences-web-appearance-choice-auto2 =
+    .label = Awtomatiski
+    .title = Změńće awtomatisce pozadki websydła a wobsah na zakładźe swojich systemowych nastajenjow a drasty { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Swětły
+    .title = Swětły napohlad za pozadki websydłow a wobsah wužiwać.
+preferences-web-appearance-choice-dark2 =
+    .label = Ćmowy
+    .title = Ćmowy napohlad za pozadki websydłow a wobsah wužiwać.
 preferences-web-appearance-choice-auto = Awtomatiski
 preferences-web-appearance-choice-light = Swětły
 preferences-web-appearance-choice-dark = Ćmowy
@@ -272,6 +281,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Waše nastajenja kontrastoweje kontrole napohlad websydła přepisuja.
+preferences-web-appearance-link =
+    .label = Drasty { -brand-short-name } w Rozšěrjenja a drasty rjadować
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Waše barbowe wuběry napohlad websydła přepisuja. <a data-l10n-name="colors-link">Barby rjadować</a>
@@ -347,6 +358,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dataje a nałoženja
+downloads-header-2 =
+    .label = Sćehnjenja
+download-save-where-2 =
+    .label = Dataje składować do
+    .accesskey = k
 download-header = Sćehnjenja
 download-save-where = Dataje składować do
     .accesskey = k
@@ -1526,6 +1542,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hižo dosć skła
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus Jenož-HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Zmóžnja jenož wěste zwiski z websydłami. { -brand-short-name } budźe so was prašeć, prjedy hač njewěsće zwjazuje.
 httpsonly-description3 = Zmóžnja jenož wěste zwiski z websydłami. { -brand-short-name } budźe so was prašeć, prjedy hač njewěsće zwjazuje.
 httpsonly-learn-more2 = Kak Jenož-HTTPS funguje
 httpsonly-description = HTTPS wěsty, zaklučowany zwisk mjez { -brand-short-name } a websydłami skići, kotrež wopytujeće. Najwjace websydłow HTTPS podpěruje, a jeli modus Jenož-HTTPS je zmóžnjeny, { -brand-short-name } budźe wšě zwiski na HTTPS aktualizować.

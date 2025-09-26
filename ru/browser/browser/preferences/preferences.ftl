@@ -250,6 +250,15 @@ browser-layout-show-sidebar-desc = Быстрый доступ к закладк
 language-and-appearance-header = Язык и внешний вид
 preferences-web-appearance-header = Внешний вид сайтов
 preferences-web-appearance-description = Некоторые сайты изменяют свою цветовую схему в зависимости от ваших предпочтений. Выберите цветовую схему, которую вы хотите использовать для этих сайтов.
+preferences-web-appearance-choice-auto2 =
+    .label = Автоматически
+    .title = Автоматически менять фон и содержимое сайтов в зависимости от ваших системных настроек и темы { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Светлая
+    .title = Использовать светлый вид для фона и содержимого сайтов.
+preferences-web-appearance-choice-dark2 =
+    .label = Тёмная
+    .title = Использовать тёмный вид для фона и содержимого сайтов.
 preferences-web-appearance-choice-auto = Автоматически
 preferences-web-appearance-choice-light = Светлая
 preferences-web-appearance-choice-dark = Тёмная
@@ -269,6 +278,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Ваши настройки контрастности переопределяют внешний вид сайтов.
+preferences-web-appearance-link =
+    .label = Управляйте темами { -brand-short-name } в разделе «Расширения и темы»
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Выбранные вами цвета изменяют внешний вид сайтов. <a data-l10n-name="colors-link">Управлять цветами</a>
@@ -344,6 +355,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Файлы и приложения
+downloads-header-2 =
+    .label = Загрузки
+download-save-where-2 =
+    .label = Путь для сохранения файлов
+    .accesskey = ь
 download-header = Загрузки
 download-save-where = Путь для сохранения файлов
     .accesskey = ь
@@ -1522,6 +1538,9 @@ space-alert-under-5gb-message2 = <strong>У { -brand-short-name } заканчи
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Режим «Только HTTPS»
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Разрешает только защищённые соединения с веб-сайтами. { -brand-short-name } будет спрашивать перед незащищённым соединением.
 httpsonly-description3 = Разрешает только защищённые соединения с веб-сайтами. { -brand-short-name } будет спрашивать перед незащищённым соединением.
 httpsonly-learn-more2 = Как работает «Только HTTPS»
 httpsonly-description = HTTPS обеспечивает безопасное и зашифрованное соединение между { -brand-short-name } и сайтами, которые вы посещаете. Большинство сайтов поддерживают HTTPS, и если включён режим «Только HTTPS», то { -brand-short-name } переключит все соединения на HTTPS.

@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = קבלת גישה מהירה לסימניות
 language-and-appearance-header = שפה ותצוגה
 preferences-web-appearance-header = מראה האתר
 preferences-web-appearance-description = חלק מהאתרים מתאימים את ערכת הצבעים שלהם בהתאם להעדפות שלך. ניתן לבחור באיזו ערכת צבעים ברצונך להשתמש עבור אתרים אלה.
+preferences-web-appearance-choice-auto2 =
+    .label = אוטומטי
+    .title = שינוי אוטומטי של הרקעים והתכנים של אתרים בהתבסס על הגדרות המערכת שלך וערכת הנושא של { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = בהיר
+    .title = שימוש במראה בהיר עבור רקעים ותכנים של אתרים.
+preferences-web-appearance-choice-dark2 =
+    .label = כהה
+    .title = שימוש במראה כהה עבור רקעים ותכנים של אתרים.
 preferences-web-appearance-choice-auto = אוטומטי
 preferences-web-appearance-choice-light = בהיר
 preferences-web-appearance-choice-dark = כהה
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = הגדרות בקרת הניגודיות שלך דורסות את מראה האתר.
+preferences-web-appearance-link =
+    .label = ניהול ערכות נושא של { -brand-short-name } בהרחבות וערכות נושא
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = בחירות הצבעים שלך דורסות את מראה האתר. <a data-l10n-name="colors-link">ניהול צבעים</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = קבצים ויישומים
+downloads-header-2 =
+    .label = הורדות
+download-save-where-2 =
+    .label = שמירת קבצים אל
+    .accesskey = ק
 download-header = הורדות
 download-save-where = שמירת קבצים אל
     .accesskey = ק
@@ -1516,6 +1532,9 @@ space-alert-under-5gb-message2 = <strong>ל־{ -brand-short-name } אוזל שט
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = מצב HTTPS בלבד
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = מאפשר רק חיבורים מאובטחים לאתרי אינטרנט. { -brand-short-name } ישאל לפני התחברות באמצעות חיבור לא מאובטח.
 httpsonly-description3 = מאפשר רק חיבורים מאובטחים לאתרי אינטרנט. { -brand-short-name } ישאל לפני התחברות באמצעות חיבור לא מאובטח.
 httpsonly-learn-more2 = כיצד עובד מצב HTTPS בלבד
 httpsonly-description = ‏HTTPS מספק חיבור מאובטח ומוצפן בין { -brand-short-name } לבין האתרים שמבקרים בהם. רוב האתרים תומכים ב־HTTPS, ואם מצב HTTPS בלבד מופעל, { -brand-short-name } ישדרג את כל החיבורים ל־HTTPS.

@@ -214,6 +214,15 @@ settings-tabs-show-image-in-preview =
 language-and-appearance-header = زبان تے ظاہری شکل
 preferences-web-appearance-header = ویب سائٹ دی ظاہری شکل
 preferences-web-appearance-description = کجھ ویب سائٹاں تہاݙیاں ترجیحاں دی بنیاد تے اپݨی رنگ سکیم کوں اپݨیندیدیاں ہن۔ منتخب کرو جو تساں انہاں سائٹاں کیتے کیڑھی رنگ سکیم استعمال کرݨ چاہندے او۔
+preferences-web-appearance-choice-auto2 =
+    .label = خود بخود
+    .title = اپݨے سسٹم دیاں ترتیباں تے { -brand-short-name } تھیم دی بنیاد تے ویب سائٹ دے پس منظر تے مواد کوں خودکار طور تے تبدیل کرو۔
+preferences-web-appearance-choice-light2 =
+    .label = پھکا
+    .title = ویب سائٹ دے پس منظر تے مواد کیتے ہلکی شکل دا استعمال کرو۔
+preferences-web-appearance-choice-dark2 =
+    .label = شوخ
+    .title = ویب سائٹ دے پس منظر تے مواد کیتے گہرے رنگ دا استعمال کرو۔
 preferences-web-appearance-choice-auto = خود بخود
 preferences-web-appearance-choice-light = پھکا
 preferences-web-appearance-choice-dark = شوخ
@@ -229,6 +238,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = ایکسٹینشنز تے تھیمز وِچ { -brand-short-name } تھیمز دا انتظام کرو
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = تہاݙے رنگاں دے انتخاب ویب سائٹ دی ظاہری شکل کوں زیر کر یندے پئے او۔ <a data-l10n-name="colors-link">رنگاں دا بندوبست کرو</a>
@@ -293,6 +304,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = فائلاں تے ایپلی کیشن
+downloads-header-2 =
+    .label = ڈاؤن لوڈ
+download-save-where-2 =
+    .label = تے فائل ہتھیکڑی کرو
+    .accesskey = v
 download-header = ڈاؤن لوڈ
 download-save-where = تے فائل ہتھیکڑی کرو
     .accesskey = v

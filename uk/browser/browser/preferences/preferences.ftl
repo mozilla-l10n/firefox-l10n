@@ -250,6 +250,15 @@ browser-layout-show-sidebar-desc = Швидкий доступ до заклад
 language-and-appearance-header = Мова і зовнішній вигляд
 preferences-web-appearance-header = Зовнішній вигляд сайтів
 preferences-web-appearance-description = Деякі вебсайти адаптують свою колірну схему відповідно до ваших уподобань. Виберіть, яку колірну схему ви хочете використовувати для цих сайтів.
+preferences-web-appearance-choice-auto2 =
+    .label = Автоматично
+    .title = Автоматично змінювати тло і вміст вебсайту відповідно до системних налаштувань і теми { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Світла
+    .title = Використовувати світлий вигляд тла та вмісту вебсайтів.
+preferences-web-appearance-choice-dark2 =
+    .label = Темна
+    .title = Використовувати темний вигляд тла та вмісту вебсайтів.
 preferences-web-appearance-choice-auto = Автоматично
 preferences-web-appearance-choice-light = Світла
 preferences-web-appearance-choice-dark = Темна
@@ -269,6 +278,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Ваші налаштування контрастності мають перевагу над зовнішнім виглядом вебсайту.
+preferences-web-appearance-link =
+    .label = Керуйте темами { -brand-short-name } у розділі Розширення й теми
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Вибрані кольори мають перевагу над зовнішнім виглядом вебсайту. <a data-l10n-name="colors-link">Керувати кольорами</a>
@@ -344,6 +355,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Файли і програми
+downloads-header-2 =
+    .label = Завантаження
+download-save-where-2 =
+    .label = Зберігати файли до
+    .accesskey = ф
 download-header = Завантаження
 download-save-where = Зберігати файли до
     .accesskey = ф
@@ -1522,6 +1538,9 @@ space-alert-under-5gb-message2 = <strong>Для { -brand-short-name } закін
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-режим
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Дозволяє лише захищені з'єднання з вебсайтами. { -brand-short-name } запитає перш ніж встановлювати незахищене з'єднання.
 httpsonly-description3 = Дозволяє лише захищені з'єднання з вебсайтами. { -brand-short-name } запитає перш ніж встановлювати незахищене з'єднання.
 httpsonly-learn-more2 = Як працює HTTPS-режим
 httpsonly-description = HTTPS забезпечує захищене, зашифроване з'єднання між { -brand-short-name } та відвідуваними вебсайтами. Більшість вебсайтів підтримують HTTPS, тому якщо увімкнено HTTPS-режим, { -brand-short-name } перенаправлятиме усі з'єднання до HTTPS.

@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Accédez rapidement aux marque-pages, aux ong
 language-and-appearance-header = Langue et apparence
 preferences-web-appearance-header = Apparence des sites web
 preferences-web-appearance-description = Certains sites web adaptent leur jeu de couleurs en fonction de vos préférences. Choisissez le jeu de couleurs que vous souhaitez utiliser pour ces sites.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatique
+    .title = Modifiez automatiquement les arrière-plans et le contenu des sites web en fonction de vos paramètres système et du thème de { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Clair
+    .title = Utiliser un thème clair pour les arrière-plans et le contenu des sites web.
+preferences-web-appearance-choice-dark2 =
+    .label = Sombre
+    .title = Utiliser un thème sombre pour les arrière-plans et le contenu des sites web.
 preferences-web-appearance-choice-auto = Automatique
 preferences-web-appearance-choice-light = Clair
 preferences-web-appearance-choice-dark = Sombre
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Vos paramètres de contrôle du contraste modifient l’apparence des sites web.
+preferences-web-appearance-link =
+    .label = Gérez les thèmes de { -brand-short-name } depuis la section Extensions et thèmes
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vos sélections de couleurs changent l’apparence des sites web. <a data-l10n-name="colors-link">Gérer les couleurs</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fichiers et applications
+downloads-header-2 =
+    .label = Téléchargements
+download-save-where-2 =
+    .label = Enregistrer les fichiers dans le dossier
+    .accesskey = n
 download-header = Téléchargements
 download-save-where = Enregistrer les fichiers dans le dossier
     .accesskey = n
@@ -1518,6 +1534,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } n’a plus assez 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mode HTTPS uniquement
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Ce mode autorise seulement les connexions sécurisées aux sites web. { -brand-short-name } demande avant d’établir une connexion non sécurisée.
 httpsonly-description3 = Ce mode autorise seulement les connexions sécurisées aux sites web. { -brand-short-name } demande avant d’établir une connexion non sécurisée.
 httpsonly-learn-more2 = Fonctionnement du mode HTTPS uniquement
 httpsonly-description = HTTPS procure une connexion sûre et chiffrée entre { -brand-short-name } et les sites web sur lesquels vous vous rendez. La plupart des sites web prennent en charge HTTPS. Si le mode HTTPS uniquement est activé, { -brand-short-name } surclassera alors toutes les connexions en HTTPS.

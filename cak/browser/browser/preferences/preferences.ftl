@@ -255,6 +255,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Taq Yakb'äl chuqa' taq Chokoy
+downloads-header-2 =
+    .label = Taq qasanïk
+download-save-where-2 =
+    .label = Keyak yakb'äl pa
+    .accesskey = y
 download-header = Taq qasanïk
 download-save-where = Keyak yakb'äl pa
     .accesskey = y
@@ -842,6 +847,9 @@ primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tz
 primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Natab'äl
@@ -1127,6 +1135,9 @@ privacy-segmentation-radio-off =
     .label = Tokisäx ruchilab'exik { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Tik'ut pe ri cholajin retamab'al
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

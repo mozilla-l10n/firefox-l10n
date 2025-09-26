@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Fáðu einfaldan aðgang að bókamerkjum, fl
 language-and-appearance-header = Tungumál og útlit
 preferences-web-appearance-header = Útlit vefsvæðis
 preferences-web-appearance-description = Sum vefsvæði aðlaga litastef sín að óskum þínum. Veldu hvaða litastef þú vilt nota fyrir þessi vefsvæði.
+preferences-web-appearance-choice-auto2 =
+    .label = Sjálfvirkt
+    .title = Breyta sjálfvirkt bakgrunni og útliti efnis á vefsvæðum byggt á kerfisstillingum þínum og { -brand-short-name } þema.
+preferences-web-appearance-choice-light2 =
+    .label = Ljóst
+    .title = Nota ljóst útlit fyrir bakgrunn og efni vefsvæðisins.
+preferences-web-appearance-choice-dark2 =
+    .label = Dökkt
+    .title = Nota dökkt útlit fyrir bakgrunn og efni vefsvæðisins.
 preferences-web-appearance-choice-auto = Sjálfvirkt
 preferences-web-appearance-choice-light = Ljóst
 preferences-web-appearance-choice-dark = Dökkt
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Stillingar þínar fyrir birtuskil yfirtaka útlit vefsvæðisins.
+preferences-web-appearance-link =
+    .label = Sýslaðu með { -brand-short-name } þemu í Forritsaukar og þemu
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Litaval þitt yfirtekur útlit vefsvæðisins. <a data-l10n-name="colors-link">Sýsla með liti</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Skrár og forrit
+downloads-header-2 =
+    .label = Niðurhal
+download-save-where-2 =
+    .label = Vista skrár yfir í
+    .accesskey = V
 download-header = Niðurhal
 download-save-where = Vista skrár yfir í
     .accesskey = V
@@ -1473,6 +1489,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er að verða upp
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Einungis-HTTPS-hamur
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
 httpsonly-description3 = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
 httpsonly-learn-more2 = Hvernig virkar Einungis-HTTPS
 httpsonly-description = HTTPS veitir örugga, dulkóðaða tengingu milli { -brand-short-name } og vefsvæðanna sem þú heimsækir. Flest vefsvæði styðja HTTPS og ef Einungis-HTTPS-hamur er virkt mun { -brand-short-name } verða allar tengingar uppfærðar í HTTPS.

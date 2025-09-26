@@ -250,6 +250,15 @@ browser-layout-show-sidebar-desc = Získajte rýchly prístup k záložkám, kar
 language-and-appearance-header = Jazyk a vzhľad stránok
 preferences-web-appearance-header = Vzhľad webových stránok
 preferences-web-appearance-description = Niektoré webové stránky prispôsobujú svoju farebnú schému podľa vašich preferencií. Vyberte farebnú schému, ktorú chcete použiť pre tieto stránky.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatická
+    .title = Automaticky meniť pozadie a obsah webových stránok na základe vašich systémových nastavení a témy vzhľadu prehliadača { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Svetlá
+    .title = Svetlá téma vzhľadu pre pozadie a obsah webových stránok
+preferences-web-appearance-choice-dark2 =
+    .label = Tmavá
+    .title = Tmavá téma vzhľadu pre pozadie a obsah webových stránok
 preferences-web-appearance-choice-auto = Automatická
 preferences-web-appearance-choice-light = Svetlá
 preferences-web-appearance-choice-dark = Tmavá
@@ -269,6 +278,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Vaše nastavenia kontrastu majú prednosť pred nastaveniami vzhľadu vo webovej stránke.
+preferences-web-appearance-link =
+    .label = Témy vzhľadu { -brand-short-name(case: "gen") } môžete spravovať v okne Správcu doplnkov.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Váš výber farieb má prednosť pred vzhľadom webových stránok. <a data-l10n-name="colors-link">Spravovať farby</a>
@@ -344,6 +355,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Súbory a aplikácie
+downloads-header-2 =
+    .label = Sťahovanie súborov
+download-save-where-2 =
+    .label = Všetky súbory ukladať do
+    .accesskey = v
 download-header = Sťahovanie súborov
 download-save-where = Všetky súbory ukladať do
     .accesskey = v
@@ -1522,6 +1538,9 @@ space-alert-under-5gb-message2 = <strong>Aplikácii { -brand-short-name } dochá
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Režim "Len HTTPS"
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Umožňuje iba zabezpečené pripojenie k webovým stránkam. { -brand-short-name } sa opýta pred použitím nezabezpečeného pripojenia.
 httpsonly-description3 = Umožňuje iba zabezpečené pripojenie k webovým stránkam. { -brand-short-name } sa opýta pred použitím nezabezpečeného pripojenia.
 httpsonly-learn-more2 = Ako funguje režim Len HTTPS
 httpsonly-description = Protokol HTTPS poskytuje bezpečné a šifrované spojenie medzi aplikáciou { -brand-short-name } a webmi, ktoré navštevujete. Väčšina webových stránok podporuje protokol HTTPS a ak je povolený režim "Len HTTPS", { -brand-short-name } zmení všetky pripojenia na zabezpečené.

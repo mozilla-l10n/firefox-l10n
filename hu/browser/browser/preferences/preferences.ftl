@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Érje el gyorsan a könyvjelzőket és a lapo
 language-and-appearance-header = Nyelv és megjelenés
 preferences-web-appearance-header = Weboldal megjelenése
 preferences-web-appearance-description = Egyes webhelyek az Ön beállításai alapján módosítják a színsémájukat. Válassza ki, hogy melyik színsémát szeretné használni ezeken a webhelyeken.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatikus
+    .title = Automatikusan módosíthatja a webhely hátterét és tartalmát a rendszerbeállítások és a { -brand-short-name } témája alapján.
+preferences-web-appearance-choice-light2 =
+    .label = Világos
+    .title = Világos megjelenés használata a webhelyek hátteréhez és tartalmához.
+preferences-web-appearance-choice-dark2 =
+    .label = Sötét
+    .title = Sötét megjelenés használata a webhelyek hátteréhez és tartalmához.
 preferences-web-appearance-choice-auto = Automatikus
 preferences-web-appearance-choice-light = Világos
 preferences-web-appearance-choice-dark = Sötét
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = A kontrasztbeállításai felülírják a webhely megjelenését.
+preferences-web-appearance-link =
+    .label = Kezelje a { -brand-short-name } témáit a Kiegészítők és témák lapon
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Az Ön színválasztásai felülírják a webhely megjelenését. <a data-l10n-name="colors-link">Színek kezelése</a>
@@ -341,6 +352,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fájlok és alkalmazások
+downloads-header-2 =
+    .label = Letöltések
+download-save-where-2 =
+    .label = Fájlok mentése
+    .accesskey = m
 download-header = Letöltések
 download-save-where = Fájlok mentése
     .accesskey = m
@@ -1499,6 +1515,9 @@ space-alert-under-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Csak HTTPS mód
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Csak a biztonságos kapcsolatokat engedélyezi. A { -brand-short-name } megkérdezi, mielőtt nem biztonságosan csatlakozna.
 httpsonly-description3 = Csak a biztonságos kapcsolatokat engedélyezi. A { -brand-short-name } megkérdezi, mielőtt nem biztonságosan csatlakozna.
 httpsonly-learn-more2 = Hogyan működik a Csak HTTPS mód
 httpsonly-description = A HTTPS biztonságos, titkosított kapcsolatot biztosít a { -brand-short-name } és a meglátogatott webhelyek között. A legtöbb webhely támogatja a HTTPS-t, és ha a Csak HTTPS mód engedélyezve van, akkor a { -brand-short-name } HTTPS-re frissíti az összes kapcsolatot.

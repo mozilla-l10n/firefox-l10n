@@ -249,6 +249,15 @@ browser-layout-show-sidebar-desc = الوصول بسرعة إلى العلاما
 language-and-appearance-header = اللغة و المظهر
 preferences-web-appearance-header = مظهر الموقع
 preferences-web-appearance-description = تكيف بعض المواقع مخطط ألوانها بناء على تفضيلاتك. أختر مخطط الألوان الذي تريد إستخدامه لهذه المواقع.
+preferences-web-appearance-choice-auto2 =
+    .label = تلقائي
+    .title = غيّر تلقائيًا خلفيات الموقع و المحتوى بناءً على إعدادات نظامك و سمة { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = فاتح
+    .title = استخدم مظهرًا فاتحً لخلفيات موقع الويب ومحتواه.
+preferences-web-appearance-choice-dark2 =
+    .label = داكن
+    .title = استخدم مظهرًا داكنًا لخلفيات موقع الويب ومحتواه.
 preferences-web-appearance-choice-auto = تلقائي
 preferences-web-appearance-choice-light = فاتح
 preferences-web-appearance-choice-dark = داكن
@@ -268,6 +277,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = إعدادات التحكم في التباين لديك تتغلب على مظهر موقع الوِب.
+preferences-web-appearance-link =
+    .label = أدِر سمات { -brand-short-name } في الامتدادات والسمات{ " " }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = إن اختياراتك للألوان تهيمن على مظهر موقع الويب. <a data-l10n-name="colors-link">إدارة الألوان</a>
@@ -340,6 +351,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = الملفات و التطبيقات
+downloads-header-2 =
+    .label = التّنزيلات
+download-save-where-2 =
+    .label = احفظ الملفّات في
+    .accesskey = ظ
 download-header = التّنزيلات
 download-save-where = احفظ الملفّات في
     .accesskey = ظ
@@ -1413,6 +1429,9 @@ space-alert-under-5gb-message2 = <strong>مساحة القرص قاربت على
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = وضع HTTPS فقط
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = يسمح فقط بالاتصالات الآمنة بمواقع الوب. سيسأل { -brand-short-name } قبل الاتصال بشكل غير آمن.
 httpsonly-description3 = يسمح فقط بالاتصالات الآمنة بمواقع الوب. سيسأل { -brand-short-name } قبل الاتصال بشكل غير آمن.
 httpsonly-learn-more2 = كيف يعمل HTTPS-Only
 httpsonly-description = يقدّم بروتوكول HTTPS اتصالًا آمنًا ومعمًى بين { -brand-short-name } والمواقع التي تزورها. تدعم أغلب المواقع HTTPS، ولو فعّلت وضع ”HTTPS فقط“ فسيُرقّي { -brand-short-name } كل الاتصالات لتكون ببروتوكول HTTPS.

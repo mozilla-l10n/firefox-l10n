@@ -243,6 +243,15 @@ browser-layout-show-sidebar-desc = Acceda directamain als segnapaginas, als tabs
 language-and-appearance-header = Lingua ed apparientscha
 preferences-web-appearance-header = Apparientscha da websites
 preferences-web-appearance-description = Tschertas websites adatteschan lur schema da colurs tut tenor tias preferenzas. Tscherna il schema da colur che ti utilisassas gugent per questas websites.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatic
+    .title = Adattar automaticamain ils funds davos da websites e cuntegn tenor ils parameters da tes sistem ed il design da { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Cler
+    .title = Utilisar ina apparientscha clera per il fund davos ed il cuntegn da websites.
+preferences-web-appearance-choice-dark2 =
+    .label = Stgir
+    .title = Utilisar ina apparientscha stgira per il fund davos ed il cuntegn da websites.
 preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Cler
 preferences-web-appearance-choice-dark = Stgir
@@ -258,6 +267,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Administrescha ils designs da { -brand-short-name } en Extensiuns e designs
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tias tschernas da colurs surscrivan l'apparientscha da websites. <a data-l10n-name="colors-link">Administrar las colurs</a>
@@ -333,6 +344,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Datotecas ed applicaziuns
+downloads-header-2 =
+    .label = Telechargiadas
+download-save-where-2 =
+    .label = Memorisar las datotecas en il suandant ordinatur:
+    .accesskey = o
 download-header = Telechargiadas
 download-save-where = Memorisar las datotecas en il suandant ordinatur:
     .accesskey = o
@@ -1445,6 +1461,9 @@ space-alert-under-5gb-message2 = <strong>La memoria da { -brand-short-name } è 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus mo HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Permetta mo connexiuns segiradas cun websites. { -brand-short-name } vegn a dumandar avant che connectar a moda betg segirada.
 httpsonly-description3 = Permetta mo connexiuns segiradas cun websites. { -brand-short-name } vegn a dumandar avant che connectar a moda betg segirada.
 httpsonly-learn-more2 = Co il modus mo HTTPS funcziuna
 httpsonly-description = HTTPS porscha ina connexiun segira, criptada tranter { -brand-short-name } e las websites che ti visitas. Las bleras websites sustegnan HTTPS e sch'il modus «mo HTTPS» è activà, connectescha { -brand-short-name } automaticamain cun HTTPS.

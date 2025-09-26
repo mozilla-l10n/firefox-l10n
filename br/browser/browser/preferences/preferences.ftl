@@ -229,6 +229,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Merañ neuzioù eus { -brand-short-name } e-barzh Askouezhioù ha neuzioù
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Merañ neuzioù eus { -brand-short-name } e-barzh <a data-l10n-name="themes-link">Askouezhioù ha neuzioù</a>
@@ -287,6 +289,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Restroù hag arloadoù
+downloads-header-2 =
+    .label = Pellgargadurioù
+download-save-where-2 =
+    .label = Enrollañ restroù e-barzh
+    .accesskey = o
 download-header = Pellgargadurioù
 download-save-where = Enrollañ restroù e-barzh
     .accesskey = o
@@ -1012,6 +1019,9 @@ sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = Gouzout hiroc’h
@@ -1217,6 +1227,9 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

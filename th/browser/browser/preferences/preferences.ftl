@@ -235,6 +235,15 @@ browser-layout-show-sidebar-desc = เข้าถึงที่คั่นห
 language-and-appearance-header = ภาษาและรูปลักษณ์
 preferences-web-appearance-header = รูปลักษณ์ของเว็บไซต์
 preferences-web-appearance-description = บางเว็บไซต์ปรับโทนสีตามค่าปรับแต่งของคุณ เลือกชุดสีที่คุณต้องการใช้สำหรับไซต์เหล่านั้น
+preferences-web-appearance-choice-auto2 =
+    .label = อัตโนมัติ
+    .title = เปลี่ยนพื้นหลังและเนื้อหาของเว็บไซต์โดยอัตโนมัติตามการตั้งค่าระบบและชุดตกแต่งของ { -brand-short-name }
+preferences-web-appearance-choice-light2 =
+    .label = สว่าง
+    .title = ใช้รูปลักษณ์แบบสว่างสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
+preferences-web-appearance-choice-dark2 =
+    .label = มืด
+    .title = ใช้รูปลักษณ์แบบมืดสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
 preferences-web-appearance-choice-auto = อัตโนมัติ
 preferences-web-appearance-choice-light = สว่าง
 preferences-web-appearance-choice-dark = มืด
@@ -254,6 +263,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = การตั้งค่าการควบคุมความคมชัดของคุณมีผลเหนือรูปลักษณ์ของเว็บไซต์
+preferences-web-appearance-link =
+    .label = จัดการชุดตกแต่งของ { -brand-short-name } ใน ส่วนขยายและชุดตกแต่ง
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = การเลือกสีของคุณมีผลเหนือรูปลักษณ์ของเว็บไซต์ <a data-l10n-name="colors-link">จัดการสี</a>
@@ -329,6 +340,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ไฟล์และแอปพลิเคชัน
+downloads-header-2 =
+    .label = การดาวน์โหลด
+download-save-where-2 =
+    .label = บันทึกไฟล์ไปยัง
+    .accesskey = ฟ
 download-header = การดาวน์โหลด
 download-save-where = บันทึกไฟล์ไปยัง
     .accesskey = ฟ
@@ -1502,6 +1518,9 @@ space-alert-under-5gb-message2 = <strong>พื้นที่ดิสก์ข
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = โหมด HTTPS-Only
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = อนุญาตเฉพาะการเชื่อมต่อที่ปลอดภัยกับเว็บไซต์เท่านั้น { -brand-short-name } จะถามก่อนเชื่อมต่อแบบไม่ปลอดภัย
 httpsonly-description3 = อนุญาตเฉพาะการเชื่อมต่อที่ปลอดภัยกับเว็บไซต์เท่านั้น { -brand-short-name } จะถามก่อนเชื่อมต่อแบบไม่ปลอดภัย
 httpsonly-learn-more2 = HTTPS-Only ทำงานอย่างไร
 httpsonly-description = HTTPS จะจัดให้มีการเชื่อมต่อแบบเข้ารหัสที่ปลอดภัยระหว่าง { -brand-short-name } และเว็บไซต์ที่คุณเยี่ยมชม เว็บไซต์ส่วนใหญ่จะรองรับ HTTPS และถ้าเปิดใช้งานโหมด HTTPS-Only แล้ว { -brand-short-name } จะอัปเกรดการเชื่อมต่อทั้งหมดเป็น HTTPS

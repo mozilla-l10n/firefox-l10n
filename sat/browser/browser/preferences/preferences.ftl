@@ -200,6 +200,15 @@ containers-remove-cancel-button = ᱱᱚᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱟᱞ�
 language-and-appearance-header = ᱯᱟᱹᱨᱥᱤ ᱟᱨ ᱧᱮᱞᱚᱜ
 preferences-web-appearance-header = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱧᱮᱞᱚᱜ
 preferences-web-appearance-description = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱨᱚᱝ ᱦᱤᱥᱟᱹᱵᱽ ᱛᱮ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱵᱚᱫᱚᱞ ᱟ ᱾ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱚᱱᱟ ᱥᱟᱭᱤᱴ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱨᱚᱝ ᱥᱠᱤᱢᱮᱢ ᱵᱟᱪᱷᱟᱣ ᱟ ᱾
+preferences-web-appearance-choice-auto2 =
+    .label = ᱟᱡ ᱛᱮ
+    .title = ᱟᱢᱟᱜ ᱥᱤᱥᱴᱚᱢ ᱥᱟᱡᱟᱣ ᱟᱨ { -brand-short-name } ᱛᱷᱤᱢ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱟᱡ ᱛᱮ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱮᱜᱽᱨᱟᱣᱱᱰ ᱟᱨ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
+preferences-web-appearance-choice-light2 =
+    .label = ᱢᱟᱨᱥᱟᱞ
+    .title = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱮᱜᱽᱨᱟᱣᱱᱰ ᱟᱨ ᱡᱤᱱᱤᱥ ᱞᱟᱹᱜᱤᱫ ᱟᱨᱥᱟᱞ ᱧᱮᱞ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
+preferences-web-appearance-choice-dark2 =
+    .label = ᱧᱩᱛ
+    .title = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱮᱜᱽᱨᱟᱣᱱᱰ ᱟᱨ ᱡᱤᱱᱤᱥ ᱞᱟᱹᱜᱤᱫ ᱧᱩᱛ ᱧᱮᱞ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
 preferences-web-appearance-choice-auto = ᱟᱡ ᱛᱮ
 preferences-web-appearance-choice-light = ᱢᱟᱨᱥᱟᱞ
 preferences-web-appearance-choice-dark = ᱧᱩᱛ
@@ -215,6 +224,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = { -brand-short-name } ᱛᱷᱤᱢ ᱫᱚ  ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ ᱨᱮ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = ᱟᱢᱟᱜ ᱨᱚᱝ ᱵᱟᱪᱷᱟᱣ ᱠᱚ ᱫᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱧᱮᱞ ᱨᱮ ᱢᱮᱥᱟᱜ ᱠᱟᱱᱟ ᱾ <a data-l10n-name="colors-link">ᱨᱚᱝ ᱢᱮᱱᱮᱡᱽ ᱢᱮ</a>
@@ -277,6 +288,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ᱨᱮᱫᱽ ᱟᱨ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱚ
+downloads-header-2 =
+    .label = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ
+download-save-where-2 =
+    .label = ᱨᱮ ᱨᱮᱫ ᱠᱚ ᱥᱟᱺᱪᱟᱣ
+    .accesskey = v
 download-header = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ
 download-save-where = ᱨᱮ ᱨᱮᱫ ᱠᱚ ᱥᱟᱺᱪᱟᱣ
     .accesskey = v
@@ -877,6 +893,9 @@ primary-password-os-auth-dialog-message-win = ᱢᱤᱫᱴᱟᱝ ᱫᱟᱵᱟᱝ
 primary-password-os-auth-dialog-message-macosx = ᱢᱤᱫᱴᱟᱝ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱛᱮᱭᱟᱨ ᱢᱮ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ᱱᱟᱜᱟᱢ
@@ -1179,6 +1198,9 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 privacy-segmentation-radio-on =
     .label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

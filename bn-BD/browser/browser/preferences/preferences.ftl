@@ -161,6 +161,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ফাইল ও অ্যাপ্লিকেশন
+downloads-header-2 =
+    .label = ডাউনলোড
+download-save-where-2 =
+    .label = ফাইল সংরক্ষণের স্থান
+    .accesskey = v
 download-header = ডাউনলোড
 download-save-where = ফাইল সংরক্ষণের স্থান
     .accesskey = v
@@ -351,8 +356,7 @@ choose-bookmark =
 home-prefs-search-header =
     .label = ওয়েব অনুসন্ধান
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
