@@ -377,6 +377,7 @@ windows-10-eos-sync-callout-privacy-screen-2-title = Emo’ã ñe’ẽñemi ha 
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Eñongatu jeývo tekorosãrã { -brand-shorter-name } ndahasýi eraha hag̃ua ne mba’ekuaarã ha ñemigua ñemboheko nendive.
 windows-10-eos-sync-callout-privacy-info-button = Ehecha pe jejokopyre
 windows-10-eos-callout-addons-title = Eiporu moĩmbaha: hekopyahúva, iporã añetéva
+windows-10-eos-callout-addons-subtitle = Ko’ã jepysokue ojeporavókuri nepytyvõ hag̃ua nde rapykuere rechauka, ñemo’ã ha vyrorei’ỹre.
 windows-10-eos-callout-addons-primary-button = Ehecha ore poravopyre
 windows-10-eos-sync-callout-addons-title = Ani okañy ne moĩmbahaha embohekopyahúvo Windows 10 guive.
 windows-10-eos-sync-callout-next-button = Upeigua

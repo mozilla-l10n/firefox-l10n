@@ -386,6 +386,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Emboty ta'ãngarupa yke
     .aria-label = Emboty ta'ãngarupa yke
 pdfjs-editor-comments-sidebar-close-button-label = Emboty ta'ãngarupa yke
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = ¿Ehechápa peteĩ mbaʼe iporãva? Emomba’e ha eheja jehaipy.
 pdfjs-editor-comments-sidebar-no-comments-link = Kuaave
 
 ## Alt-text dialog
