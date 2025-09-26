@@ -163,6 +163,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ཡིག་ཆ་དང་ཉེར་སྤྱོད
+downloads-header-2 =
+    .label = མར་འཇུག
 download-save-where-2 =
     .label = ཡིག་ཆ་ཉར་ཚགས་གནས
     .accesskey = v
