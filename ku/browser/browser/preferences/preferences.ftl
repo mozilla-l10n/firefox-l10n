@@ -68,6 +68,9 @@ choose-button =
 
 downloads-header-2 =
     .label = Jêbarkirî
+download-save-where-2 =
+    .label = Pelan tomar bike li
+    .accesskey = t
 download-header = Jêbarkirî
 download-save-where = Pelan tomar bike li
     .accesskey = t
