@@ -348,6 +348,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Files e aplicazions
+downloads-header-2 =
+    .label = Discjamâts
 download-save-where-2 =
     .label = Salve i files in
     .accesskey = S
