@@ -1518,6 +1518,9 @@ space-alert-under-5gb-message2 = <strong>O { -brand-short-name } está ficando s
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo somente HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Só permite conexões seguras com sites. O { -brand-short-name } pergunta antes de conectar em modo não seguro.
 httpsonly-description3 = Só permite conexões seguras com sites. O { -brand-short-name } pergunta antes de conectar em modo não seguro.
 httpsonly-learn-more2 = Como funciona somente HTTPS
 httpsonly-description = HTTPS fornece uma conexão criptografada segura entre o { -brand-short-name } e os sites que você visita. A maioria dos sites oferece suporte a HTTPS. Se o modo somente HTTPS estiver ativado, o { -brand-short-name } muda todas as conexões para HTTPS.
