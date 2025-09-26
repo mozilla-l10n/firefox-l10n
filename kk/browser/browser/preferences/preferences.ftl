@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Сіздің контрастты басқару параметрлері веб-сайттың сыртқы көрінісін үстінен басады.
+preferences-web-appearance-link =
+    .label = { -brand-short-name } темаларын Кеңейтулер және темалар ішінен басқарыңыз
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Сіздің түс таңдауларыңыз веб-сайттың сыртқы көрінісін үстінен басады. <a data-l10n-name="colors-link">Түстерді басқару</a>
