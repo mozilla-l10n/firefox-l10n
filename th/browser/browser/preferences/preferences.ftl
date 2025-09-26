@@ -263,6 +263,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = การตั้งค่าการควบคุมความคมชัดของคุณมีผลเหนือรูปลักษณ์ของเว็บไซต์
+preferences-web-appearance-link =
+    .label = จัดการชุดตกแต่งของ { -brand-short-name } ใน ส่วนขยายและชุดตกแต่ง
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = การเลือกสีของคุณมีผลเหนือรูปลักษณ์ของเว็บไซต์ <a data-l10n-name="colors-link">จัดการสี</a>
