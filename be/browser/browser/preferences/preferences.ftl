@@ -250,6 +250,15 @@ browser-layout-show-sidebar-desc = Атрымлівайце хуткі дост�
 language-and-appearance-header = Мова і выгляд
 preferences-web-appearance-header = Выгляд вэб-сайтаў
 preferences-web-appearance-description = Некаторыя вэб-сайты адаптуюць сваю колеравую схему ў залежнасці ад вашых пераваг. Выберыце, якую колеравую схему вы хочаце выкарыстоўваць для гэтых сайтаў.
+preferences-web-appearance-choice-auto2 =
+    .label = Аўтаматычная
+    .title = Аўтаматычна змяняць фон і змесціва вэб-сайтаў у залежнасці ад налад сістэмы і тэмы { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Светлая
+    .title = Выкарыстоўваць светлы выгляд для фону і змесціва сайтаў.
+preferences-web-appearance-choice-dark2 =
+    .label = Цёмная
+    .title = Выкарыстоўваць цёмны выгляд для фону і змесціва сайтаў.
 preferences-web-appearance-choice-auto = Аўтаматычная
 preferences-web-appearance-choice-light = Светлая
 preferences-web-appearance-choice-dark = Цёмная
@@ -269,6 +278,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Вашы налады кантраснасці перавызначаюць знешні выгляд сайта.
+preferences-web-appearance-link =
+    .label = Кіруйце тэмамі { -brand-short-name } у пашырэннях і тэмах
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ваш выбар колераў мае перавагу над знешнім выглядам вэб-сайта. <a data-l10n-name="colors-link">Кіраваць колерамі</a>
