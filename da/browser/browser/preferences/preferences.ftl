@@ -352,6 +352,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Filer og programmer
+downloads-header-2 =
+    .label = Filhentning
 download-header = Filhentning
 download-save-where = Gem filer i:
     .accesskey = m
