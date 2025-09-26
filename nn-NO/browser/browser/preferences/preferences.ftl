@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Få rask tilgang til bokmerke, faner frå mob
 language-and-appearance-header = Språk og utsjånad
 preferences-web-appearance-header = Utsjånaden på nettstaden
 preferences-web-appearance-description = Nokre nettstadar tilpassar fargeskjemaet basert på innstillingane dine. Vel kva for fargeskjema du vil bruke for desse nettstadane.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatisk
+    .title = Endre nettsidebakgrunn og innhald automatisk basert på systeminnstillingane og { -brand-short-name }-temaet.
+preferences-web-appearance-choice-light2 =
+    .label = Lyst
+    .title = Bruk ein lys utsjånad for nettsidebakgrunn og innhald.
+preferences-web-appearance-choice-dark2 =
+    .label = Mørkt
+    .title = Bruk ein mørk utsjånad for nettsidebakgrunn og innhald.
 preferences-web-appearance-choice-auto = Automatisk
 preferences-web-appearance-choice-light = Lyst
 preferences-web-appearance-choice-dark = Mørkt
@@ -266,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Kontrastinnstillingane dine overstyrer utsjånaden til nettstaden.
+preferences-web-appearance-link =
+    .label = Handsam { -brand-short-name }-tema i Utvidingar og tema
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Fargevala dine overstyrer utsjånaden til nettstaden. <a data-l10n-name="colors-link">Handsam fargar</a>
