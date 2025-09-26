@@ -347,6 +347,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fitxategiak eta aplikazioak
+download-save-where-2 =
+    .label = Gorde fitxategiak hemen:
+    .accesskey = G
 download-header = Deskargak
 download-save-where = Gorde fitxategiak hemen:
     .accesskey = G
