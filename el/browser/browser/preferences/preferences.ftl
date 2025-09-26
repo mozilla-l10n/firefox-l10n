@@ -1518,6 +1518,9 @@ space-alert-under-5gb-message2 = <strong>Το { -brand-short-name } δεν δι�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Λειτουργία «Μόνο HTTPS»
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Επιτρέπει μόνο τις ασφαλείς συνδέσεις με ιστοτόπους. Το { -brand-short-name } θα σας ρωτήσει πριν πραγματοποιήσει μη ασφαλή σύνδεση.
 httpsonly-description3 = Επιτρέπει μόνο τις ασφαλείς συνδέσεις με ιστοτόπους. Το { -brand-short-name } θα σας ρωτήσει πριν πραγματοποιήσει μη ασφαλή σύνδεση.
 httpsonly-learn-more2 = Πώς λειτουργεί η δυνατότητα «Μόνο HTTPS»
 httpsonly-description = Το HTTPS παρέχει μια ασφαλή, κρυπτογραφημένη σύνδεση μεταξύ του { -brand-short-name } και των ιστοτόπων που επισκέπτεστε. Οι περισσότεροι ιστότοποι υποστηρίζουν το HTTPS και αν είναι ενεργή η λειτουργία «Μόνο HTTPS», τότε το { -brand-short-name } θα αναβαθμίζει όλες τις συνδέσεις σε HTTPS.
