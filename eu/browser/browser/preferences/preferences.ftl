@@ -270,6 +270,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Zure kontrastearen kontrol-ezarpenek webgunearen itxura baliogabetzen dute.
+preferences-web-appearance-link =
+    .label = Kudeatu { -brand-short-name }(r)en itxurak Hedapenak eta itxura atalean
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Zure kolore-hautapenek webgunearen itxura baliogabetzen dute. <a data-l10n-name="colors-link">Kudeatu koloreak</a>
