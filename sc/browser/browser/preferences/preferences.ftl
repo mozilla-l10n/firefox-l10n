@@ -247,6 +247,15 @@ browser-layout-show-sidebar-desc = Atzede a sa lestra a sinnalibros, ischedas da
 language-and-appearance-header = Limbas e aspetu
 preferences-web-appearance-header = Aspetu de is sitos web
 preferences-web-appearance-description = Unos cantos sitos web adatant s'ischema de colore suo de acordu cun is preferèntzias tuas. Sèbera cale ischema de colore dias bòlere impreare pro cussos sitos.
+preferences-web-appearance-choice-auto2 =
+    .label = Automàticu
+    .title = Càmbia in automàticu isfundos e cuntenutos de su situ subra sa base de is cunfiguratziones tuas de sistema e de su tema de { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Craru
+    .title = Imprea un'aspetu craru pro is isfundos e is cuntenutos de is sitos web.
+preferences-web-appearance-choice-dark2 =
+    .label = Iscuru
+    .title = Imprea un'aspetu iscuru pro is isfundos e is cuntenutos de is sitos web.
 preferences-web-appearance-choice-auto = Automàticu
 preferences-web-appearance-choice-light = Craru
 preferences-web-appearance-choice-dark = Iscuru
@@ -262,6 +271,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Gesti is temas de { -brand-short-name } in Estensiones e temas
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Is seletziones de colore tuas sunt sostituende s'aspetu de su situ web. <a data-l10n-name="colors-link">Gesti is colores</a>
