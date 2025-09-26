@@ -1481,6 +1481,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } ponestaje prostor
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Način rada samo za HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Omogućava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 httpsonly-description3 = Omogućava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 httpsonly-learn-more2 = Kako funkcionira samo HTTPS
 httpsonly-description = HTTPS pruža sigurnu, šifrovanu vezu između { -brand-short-name } i web stranica koje posjećujete. Većina web stranica podržava HTTPS, a ako je omogućen način rada samo za HTTPS, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
