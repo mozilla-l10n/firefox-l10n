@@ -351,6 +351,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Файлдар және қолданбалар
+downloads-header-2 =
+    .label = Жүктемелер
 download-header = Жүктемелер
 download-save-where = Файлдарды келесі жерге сақтау
     .accesskey = д
