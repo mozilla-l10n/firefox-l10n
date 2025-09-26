@@ -70,6 +70,9 @@ translate-exceptions =
 
 downloads-header-2 =
     .label = Hupakia
+download-save-where-2 =
+    .label = Hifadhi faili kwa
+    .accesskey = f
 download-header = Hupakia
 download-save-where = Hifadhi faili kwa
     .accesskey = f
