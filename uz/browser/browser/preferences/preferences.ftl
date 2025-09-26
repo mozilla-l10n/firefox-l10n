@@ -44,17 +44,6 @@ should-restart-ok = { -brand-short-name }ni hozir qayta ishga tushirish
 cancel-no-restart-button = Bekor qilish
 restart-later = Keyinroq qayta ishga tushirish
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = Qidiruv natijalari
@@ -651,12 +640,6 @@ forms-master-pw-change =
     .accesskey = u
 forms-master-pw-fips-desc = Maxfiy soʻzni oʻzgartirib boʻlmadi
 
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Tarix
@@ -706,12 +689,6 @@ sitedata-settings =
     .label = Ma’lumotlarni boshqarish
     .accesskey = M
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Privacy Section - Address Bar
 
 addressbar-header = Manzil paneli
@@ -726,22 +703,6 @@ addressbar-locbar-openpage-option =
     .label = Varaqlarni ochish
     .accesskey = o
 addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni o‘zgartirish
-
-## Privacy Section - Content Blocking
-
-
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
-
-##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -791,9 +752,6 @@ addon-recommendations-link = Batafsil
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -823,12 +781,6 @@ certs-view =
 certs-devices =
     .label = Xavfsizlik qurilmalari
     .accesskey = X
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

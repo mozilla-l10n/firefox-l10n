@@ -1302,9 +1302,6 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:

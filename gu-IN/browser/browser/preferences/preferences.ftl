@@ -486,12 +486,6 @@ sync-sign-in =
     .label = સાઇન ઇન કરો
     .accesskey = g
 
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
-
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -571,12 +565,6 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = પાસવર્ડ બદલવાનું નિષ્ફળ
 
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = ઇતિહાસ
@@ -650,12 +638,6 @@ sitedata-clear =
 sitedata-settings =
     .label = ડેટા સંચાલન કરો…
     .accesskey = M
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Privacy Section - Address Bar
 
@@ -780,9 +762,6 @@ addon-recommendations-link = વધુ શીખો
 # or builds with no Telemetry support available.
 collection-health-report-disabled = આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -813,12 +792,6 @@ certs-view =
 certs-devices =
     .label = સુરક્ષા ઉપકરણો…
     .accesskey = D
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 
