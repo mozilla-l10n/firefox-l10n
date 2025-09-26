@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Uw instellingen voor contrastregeling hebben voorrang op het uiterlijk van de website.
+preferences-web-appearance-link =
+    .label = U kunt { -brand-short-name }-thema’s beheren in Extensies en thema’s
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Uw kleurselecties hebben voorrang op het uiterlijk van de website. <a data-l10n-name="colors-link">Kleuren beheren</a>
