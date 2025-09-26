@@ -246,6 +246,15 @@ browser-layout-show-sidebar-desc = Brzo pristupite zabilješkama, karticama s te
 language-and-appearance-header = Jezik i izled
 preferences-web-appearance-header = Izgled web stranice
 preferences-web-appearance-description = Neke web stranice prilagođavaju svoju shemu boja na osnovu vaših preferencija. Odaberite šemu boja koju želite koristiti za te stranice.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatski
+    .title = Automatski promijenite pozadinu i sadržaj web stranice na osnovu postavki vašeg sistema i teme { -brand-short-name }a.
+preferences-web-appearance-choice-light2 =
+    .label = Svijetla
+    .title = Koristite svijetli izgled za pozadinu i sadržaj web stranice.
+preferences-web-appearance-choice-dark2 =
+    .label = Tamna
+    .title = Koristite taman izgled za pozadinu i sadržaj web stranice.
 preferences-web-appearance-choice-auto = Automatski
 preferences-web-appearance-choice-light = Svijetla
 preferences-web-appearance-choice-dark = Tamna
@@ -265,6 +274,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Vaše postavke kontrole kontrasta poništavaju izgled web stranice.
+preferences-web-appearance-link =
+    .label = Upravljajte temama { -brand-short-name }a u Proširenja i teme
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vaši odabiri boja nadjačavaju izgled web stranice. <a data-l10n-name="colors-link">Upravljaj bojama</a>
