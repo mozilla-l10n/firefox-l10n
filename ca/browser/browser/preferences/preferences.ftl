@@ -311,6 +311,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fitxers i aplicacions
+downloads-header-2 =
+    .label = Baixades
 download-header = Baixades
 download-save-where = Desa els fitxers a
     .accesskey = s
