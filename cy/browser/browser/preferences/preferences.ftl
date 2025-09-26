@@ -1534,6 +1534,9 @@ space-alert-under-5gb-message2 = <strong>Mae { -brand-short-name } yn brin o le 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modd HTTPS-yn-Unig
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Dim ond yn caniatáu cysylltiadau diogel â gwefannau. Bydd { -brand-short-name } yn gofyn cyn cysylltu'n anniogel.
 httpsonly-description3 = Dim ond yn caniatáu cysylltiadau diogel â gwefannau. Bydd { -brand-short-name } yn gofyn cyn cysylltu'n anniogel.
 httpsonly-learn-more2 = Sut mae HTTPS-yn Unig yn gweithio
 httpsonly-description = Mae HTTPS yn darparu cysylltiad diogel, wedi'i amgryptio rhwng  { -brand-short-name } a'r gwefannau rydych chi'n ymweld â nhw. Mae'r mwyafrif o wefannau yn cefnogi HTTPS, ac os yw Modd HTTPS-yn-Unig wedi'i alluogi, yna bydd { -brand-short-name } yn uwchraddio'r holl gysylltiadau â HTTPS.
