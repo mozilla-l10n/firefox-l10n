@@ -241,6 +241,15 @@ browser-layout-show-sidebar =
 language-and-appearance-header = Idioma y apariencia
 preferences-web-appearance-header = Apariencia del sitio web
 preferences-web-appearance-description = Algunos sitios web adaptan su combinación de colores según tus preferencias. Elige qué combinación de colores te gustaría usar para esos sitios.
+preferences-web-appearance-choice-auto2 =
+    .label = Automático
+    .title = Cambia automáticamente los fondos y el contenido del sitio web de acuerdo a la configuración de tu sistema y al tema de { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Claro
+    .title = Usa una apariencia clara para los fondos y el contenido del sitio web.
+preferences-web-appearance-choice-dark2 =
+    .label = Oscuro
+    .title = Usa una apariencia oscura para los fondos y el contenido del sitio web.
 preferences-web-appearance-choice-auto = Automático
 preferences-web-appearance-choice-light = Claro
 preferences-web-appearance-choice-dark = Oscuro
@@ -256,6 +265,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Administra los temas de { -brand-short-name } en Extensiones y Temas
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tus selecciones de color anulan la apariencia del sitio web. <a data-l10n-name="colors-link">Administrar colores</a>
