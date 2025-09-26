@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Tu parametros de controlo de contrasto substitue le apparentia de sitos web.
+preferences-web-appearance-link =
+    .label = Gere le themas de { -brand-short-name } in Extensiones e themas
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tu selectiones color supplanta le apparentia del sito web.<a data-l10n-name="colors-link">Gere le colores</a>
