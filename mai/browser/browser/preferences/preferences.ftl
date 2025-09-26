@@ -86,6 +86,9 @@ translate-exceptions =
 
 downloads-header-2 =
     .label = डाउनलोड
+download-save-where-2 =
+    .label = एतय फाइल सहेजू
+    .accesskey = v
 download-header = डाउनलोड
 download-save-where = एतय फाइल सहेजू
     .accesskey = v
