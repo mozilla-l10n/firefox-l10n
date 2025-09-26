@@ -67,6 +67,8 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Ebiwanuddwa
 download-save-where-2 =
     .label = Teleka fayiro ku
     .accesskey = l
