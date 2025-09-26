@@ -80,6 +80,9 @@ translate-exceptions =
 
 downloads-header-2 =
     .label = ডাউনল'ডসমূহ
+download-save-where-2 =
+    .label = ফাইলসমূহ চিহ্নিত স্থানত সংৰক্ষণ কৰিব
+    .accesskey = v
 download-header = ডাউনল'ডসমূহ
 download-save-where = ফাইলসমূহ চিহ্নিত স্থানত সংৰক্ষণ কৰিব
     .accesskey = v
