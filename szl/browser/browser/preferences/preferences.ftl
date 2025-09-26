@@ -275,6 +275,11 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Zbiory i aplikacyje
+downloads-header-2 =
+    .label = Pobrania
+download-save-where-2 =
+    .label = Spamiyntuj zbiory do
+    .accesskey = v
 download-header = Pobrania
 download-save-where = Spamiyntuj zbiory do
     .accesskey = v
