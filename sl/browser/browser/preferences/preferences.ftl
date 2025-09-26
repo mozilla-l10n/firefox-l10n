@@ -1505,6 +1505,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Način "samo HTTPS"
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Dovoli samo varne povezave na spletna mesta. Pred vzpostavitvijo nezavarovane povezave naj { -brand-short-name } vpraša
 httpsonly-description3 = Dovoli samo varne povezave na spletna mesta. Pred vzpostavitvijo nezavarovane povezave naj { -brand-short-name } vpraša
 httpsonly-learn-more2 = Kako deluje način "samo HTTPS"
 httpsonly-description = HTTPS zagotavlja varno, šifrirano povezavo med { -brand-short-name(sklon: "orodnik") } in spletnimi mesti, ki jih obiščete. Večina spletnih mest podpira HTTPS in če je omogočen način "samo HTTPS", bo { -brand-short-name } nadgradil vse povezave na HTTPS.
