@@ -180,6 +180,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = फ़ाइल व अनुप्रयोग
+downloads-header-2 =
+    .label = डाउनलोड
 download-save-where-2 =
     .label = यहाँ फ़ाइल सहेजें
     .accesskey = v
