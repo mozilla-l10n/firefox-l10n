@@ -231,7 +231,7 @@ link-preview-settings-enable =
 link-preview-settings-key-points =
     .label = AI가 페이지의 시작 부분을 읽고 요점을 생성하도록 허용
 link-preview-settings-long-press =
-    .label = 단축키: 링크를 1초 동안 누르고 있기 (길게 누르기)
+    .label = 단축키: 링크를 1초 동안 길게 누르기
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = AI로 더 보고 싶으세요?
 # Message that appears when user is shown the opt-in flow for link previews

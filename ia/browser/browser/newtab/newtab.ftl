@@ -642,6 +642,9 @@ newtab-widget-lists-input-menu-move-up = Mover in alto
 newtab-widget-lists-input-menu-move-down = Mover in basso
 newtab-widget-lists-input-menu-delete = Deler
 newtab-widget-lists-input-menu-edit = Modificar
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Crear un nove lista
 newtab-widget-lists-name-label-default =
     .label = Agenda
 newtab-widget-lists-name-placeholder-default =
