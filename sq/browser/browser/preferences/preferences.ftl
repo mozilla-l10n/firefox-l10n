@@ -271,6 +271,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Rregullimet tuaja për kontroll kontrasti po anashkalojnë ato të sajtit për dukjen.
+preferences-web-appearance-link =
+    .label = Administroni tema { -brand-short-name }, që nga Zgjerime & Tema
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Përzgjedhjet tuaja për ngjyrat po anashkalojnë pamjen e sajtit. <a data-l10n-name="colors-link">Administroni ngjyra</a>
