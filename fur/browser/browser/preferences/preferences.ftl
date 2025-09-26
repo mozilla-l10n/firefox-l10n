@@ -271,6 +271,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Lis tôs impostazions di control dal contrast a stan sostituint l'aspiet dai sîts web.
+preferences-web-appearance-link =
+    .label = Gjestìs i temis di { -brand-short-name } in Estensions e temis
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = L'aspiet dal sît web al è stât sostituît de tô selezion di colôrs. <a data-l10n-name="colors-link"> Gjestìs i colôrs</a>
