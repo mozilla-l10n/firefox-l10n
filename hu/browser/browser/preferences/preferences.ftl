@@ -275,6 +275,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = A kontrasztbeállításai felülírják a webhely megjelenését.
+preferences-web-appearance-link =
+    .label = Kezelje a { -brand-short-name } témáit a Kiegészítők és témák lapon
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Az Ön színválasztásai felülírják a webhely megjelenését. <a data-l10n-name="colors-link">Színek kezelése</a>
