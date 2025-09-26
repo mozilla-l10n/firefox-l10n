@@ -271,6 +271,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = A túa configuración de control de contraste prevalence sobre a apariencia do sitio web.
+preferences-web-appearance-link =
+    .label = Xestiona os temas de { -brand-short-name } en Extensións e temas
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = As túas escollas de cores substitúen a aparencia do sitio web. <a data-l10n-name="colors-link">Xestionar as cores</a>
