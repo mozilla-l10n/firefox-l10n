@@ -224,6 +224,15 @@ settings-tabs-show-image-in-preview =
 language-and-appearance-header = Lenga e aparéncia
 preferences-web-appearance-header = Aparéncia dels sites web
 preferences-web-appearance-description = D’unes sites web adaptan lor jòc de colors segon vòstras preferéncias. Causissètz lo jòc de colors que volètz emplegar per aqueles sites.
+preferences-web-appearance-choice-auto2 =
+    .label = Automatic
+    .title = Cambiament automatic dels rèireplans e dels contenguts dels sites Web segon los paramètres sistèma e del tèma de { -brand-short-name }.
+preferences-web-appearance-choice-light2 =
+    .label = Clar
+    .title = Utilizar una aparéncia clara pels rèireplans e lo contengut dels sites web.
+preferences-web-appearance-choice-dark2 =
+    .label = Escur
+    .title = Utilizar una aparéncia escura pels rèireplans e lo contengut dels sites web.
 preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Escur
@@ -239,6 +248,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Gerissètz los tèmas de { -brand-short-name } dins Extensions e tèma
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vòstras seleccion de colors subrecargan l’aparéncia dels sites web. <a data-l10n-name="colors-link">Gerir las colors</a>
