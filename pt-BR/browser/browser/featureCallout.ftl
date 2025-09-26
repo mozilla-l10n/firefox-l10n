@@ -115,6 +115,8 @@ fxa-adoption-passwords-primary-button-label = Criar uma conta
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Mantenha seus canais preferidos na barra de tarefas
+taskbar-tabs-social-callout-subtitle = Abra sites de mídias sociais como um aplicativo, em uma janela simplificada e protegida pelo { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Converse a partir da barra de tarefas
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
