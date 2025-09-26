@@ -121,6 +121,9 @@ check-user-spelling =
 
 downloads-header-2 =
     .label = Zumandiyaney
+download-save-where-2 =
+    .label = Tukey gaabu ga
+    .accesskey = g
 download-header = Zumandiyaney
 download-save-where = Tukey gaabu ga
     .accesskey = g
