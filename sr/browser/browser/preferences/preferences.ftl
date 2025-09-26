@@ -247,6 +247,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-web-appearance-link =
+    .label = Управљајте { -brand-short-name } темама у менију Проширења и теме
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ваш избор боја мења изглед веб странице. <a data-l10n-name="colors-link">Управљајте бојама</a>
@@ -1269,6 +1271,9 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
