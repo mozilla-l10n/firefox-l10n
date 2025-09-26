@@ -1502,6 +1502,9 @@ space-alert-under-5gb-message2 = <strong>พื้นที่ดิสก์ข
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = โหมด HTTPS-Only
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = อนุญาตเฉพาะการเชื่อมต่อที่ปลอดภัยกับเว็บไซต์เท่านั้น { -brand-short-name } จะถามก่อนเชื่อมต่อแบบไม่ปลอดภัย
 httpsonly-description3 = อนุญาตเฉพาะการเชื่อมต่อที่ปลอดภัยกับเว็บไซต์เท่านั้น { -brand-short-name } จะถามก่อนเชื่อมต่อแบบไม่ปลอดภัย
 httpsonly-learn-more2 = HTTPS-Only ทำงานอย่างไร
 httpsonly-description = HTTPS จะจัดให้มีการเชื่อมต่อแบบเข้ารหัสที่ปลอดภัยระหว่าง { -brand-short-name } และเว็บไซต์ที่คุณเยี่ยมชม เว็บไซต์ส่วนใหญ่จะรองรับ HTTPS และถ้าเปิดใช้งานโหมด HTTPS-Only แล้ว { -brand-short-name } จะอัปเกรดการเชื่อมต่อทั้งหมดเป็น HTTPS
