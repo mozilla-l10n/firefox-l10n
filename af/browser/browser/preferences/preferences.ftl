@@ -33,6 +33,17 @@ should-restart-ok = Herbegin { -brand-short-name } nou
 cancel-no-restart-button = Kanselleer
 restart-later = Herbegin later
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Soekresultate
@@ -140,6 +151,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Lêers en Toepassings
+downloads-header-2 =
+    .label = Aflaaie
 download-header = Aflaaie
 download-save-where = Stoor lêers na
     .accesskey = o
@@ -392,6 +405,9 @@ sync-sign-in =
     .label = Meld aan
     .accesskey = M
 
+## Sync section - enabling or disabling sync.
+
+
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = Boekmerke
@@ -471,6 +487,12 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = Kon nie wagwoord verander nie
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Geskiedenis
@@ -510,6 +532,12 @@ history-clear-on-close-settings =
 sitedata-header = Koekies en webwerf-data
 sitedata-learn-more = Meer inligting
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-locbar-history-option =
@@ -527,6 +555,10 @@ addressbar-suggestions-settings = &Verander voorkeure vir voorstelle vanaf soeke
 
 content-blocking-enhanced-tracking-protection = Gevorderde beskerming van spoorsnyers
 content-blocking-learn-more = Meer inligting
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
 
 ##
 
@@ -582,6 +614,9 @@ permissions-addon-exceptions =
 
 collection-health-report-link = Meer inligting
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -604,6 +639,12 @@ certs-header = Sertifikate
 certs-enable-ocsp =
     .label = Bevestig huidige geldigheid van sertifikate deur OCSP-bedieners te vra
     .accesskey = B
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
