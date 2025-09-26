@@ -352,6 +352,8 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Bestanden en Toepassingen
+downloads-header-2 =
+    .label = Downloads
 download-save-where-2 =
     .label = Bestanden opslaan in
     .accesskey = o
