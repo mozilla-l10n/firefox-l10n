@@ -244,6 +244,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = 어둡게
     .title = 웹 사이트 배경 및 콘텐츠에 어두운 화면 배색을 사용합니다.
+web-appearance-group =
+    .aria-label = 웹 사이트 모양
 preferences-web-appearance-choice-auto = 자동
 preferences-web-appearance-choice-light = 밝게
 preferences-web-appearance-choice-dark = 어둡게
@@ -1055,6 +1057,15 @@ autofill-saved-payment-methods-button = 저장된 결제 방법
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = 결제 방법을 채우고 관리하려면 기기 로그인이 필요합니다.
     .accesskey = o
+autofill-payment-methods-title = 결제 방법
+autofill-payment-methods-header =
+    .aria-label = 결제 방법
+autofill-payment-methods-checkbox-message-2 =
+    .label = 결제 정보 저장 및 자동 채우기
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = 결제 방법 관리
+    .accesskey = m
 
 ## Privacy Section - History
 
