@@ -344,6 +344,9 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ifuyla d isnasen
+download-save-where-2 =
+    .label = Sekles ifuyla ɣer
+    .accesskey = S
 download-header = Isadaren
 download-save-where = Sekles ifuyla ɣer
     .accesskey = S
