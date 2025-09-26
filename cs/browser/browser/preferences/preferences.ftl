@@ -1749,6 +1749,9 @@ space-alert-under-5gb-message2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Režim „pouze HTTPS“
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Umožňuje pouze zabezpečená připojení k webovým stránkám. { -brand-short-name } se před použitím nezabezpečeným připojení zeptá.
 httpsonly-description3 = Umožňuje pouze zabezpečená připojení k webovým stránkám. { -brand-short-name } se před použitím nezabezpečeným připojení zeptá.
 httpsonly-learn-more2 = Jak funguje režim „pouze HTTPS“.
 httpsonly-description =
