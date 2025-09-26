@@ -47,6 +47,8 @@ close-button =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Zotsitsidwa
 download-header = Zotsitsidwa
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -91,8 +93,7 @@ applications-use-other-label =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
