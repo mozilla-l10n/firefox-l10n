@@ -1515,6 +1515,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") }
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Vain HTTPS -tila
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Sallii vain suojatut yhteydet verkkosivustoille. { -brand-short-name } kysyy, ennen kuin muodostaa suojaamattoman yhteyden.
 httpsonly-description3 = Sallii vain suojatut yhteydet verkkosivustoille. { -brand-short-name } kysyy, ennen kuin muodostaa suojaamattoman yhteyden.
 httpsonly-learn-more2 = Miten ”Vain HTTPS”-tila toimii
 httpsonly-description = HTTPS:n avulla { -brand-short-name } muodostaa suojatun ja salatun yhteyden vierailemiisi sivustoihin. Useimmat sivustot tukevat HTTPS:ää, ja jos ”Vain HTTPS”-tila on käytössä, { -brand-short-name } muuntaa kaikki yhteydet käyttämään HTTPS:ää.
