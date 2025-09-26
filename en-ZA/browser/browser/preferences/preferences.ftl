@@ -87,6 +87,8 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+downloads-header-2 =
+    .label = Downloads
 download-save-where-2 =
     .label = Save files to
     .accesskey = v
