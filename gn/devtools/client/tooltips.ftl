@@ -70,6 +70,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’eporúpe oñemboja’opágui, techapyrã: hetepy oñemboja’o heta yta térã kutiaroguépe.
 inactive-css-no-width-height = <strong>{ $property }</strong>ndorekói mab’eve ko mba’eporúpe nombohapekuaáigui ipe ha ijyvatekue.
+inactive-css-no-principal-box = <strong>{ $property }</strong> ndojapói mba’eve ko mba’eporúpe nomoheñói rupi peteĩ kora tuichavéva.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

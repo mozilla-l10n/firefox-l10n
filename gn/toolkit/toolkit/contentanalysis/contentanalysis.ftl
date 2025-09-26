@@ -78,6 +78,9 @@ contentanalysis-block-dialog-title-upload-file = Noñemoneĩri ndéve ehupikuaa 
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Tendaguasu mba’ekuaarã ñemo’ã porureko he’iháicha, ndaikatumo’ãi emyanyhẽ marandurenda “{ $filename }”. Eñe’ẽ iñangarekohára ndive eikuaave hag̃ua.
 contentanalysis-block-dialog-title-download-file = Ndererekói ñemoneĩ emboguejývo ko marandurenda
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = He’iháicha pe mba’ekuaarã ñemo’ã porureko, noñemoneĩri emboguejy hag̃ua “{ $filename }” marandurenda. Eikuaave hag̃ua, eñe’ẽ ne ñangarekoha ndive.
 contentanalysis-block-dialog-title-clipboard = Noñemoĩri ndéve embojakuaa hag̃ua ko tetepy
 contentanalysis-block-dialog-body-clipboard = Tendaguasu mba’ekuaarã ñemo’ã porureko he’iháicha, ndaikatumo’ãi emboja ko tetepy. Eñe’ẽ iñangarekohára ndive eikuaave hag̃ua.
 contentanalysis-block-dialog-title-dropped-text = Noñemoĩri ndéve epoikuaa hag̃ua ko tetepy
