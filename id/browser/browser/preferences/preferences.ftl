@@ -1451,6 +1451,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } kehabisan ruang d
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mode Hanya HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Hanya mengizinkan sambungan aman ke situs web. { -brand-short-name } akan bertanya sebelum menyambung secara tidak aman.
 httpsonly-description3 = Hanya mengizinkan sambungan aman ke situs web. { -brand-short-name } akan bertanya sebelum menyambung secara tidak aman.
 httpsonly-learn-more2 = Bagaimana cara kerja HTTPS-Only
 httpsonly-description = HTTPS menyediakan koneksi yang aman, terenkripsi antara { -brand-short-name } dan situs web yang Anda kunjungi. Kebanyakan situs web mendukung HTTPS, dan jika Mode Hanya HTTPS diaktifkan, maka { -brand-short-name } akan meningkatkan semua koneksi ke HTTPS.
