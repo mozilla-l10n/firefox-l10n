@@ -1477,6 +1477,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } al sta finint il 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modalitât Dome-HTTPS
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
 httpsonly-description3 = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
 httpsonly-learn-more2 = Cemût che e funzione la modalitât dome-HTTPS
 httpsonly-description = HTTPS al da une conession sigure e cifrade tra { -brand-short-name } e i sîts web che tu visitis. La plui part dai sîts web e supuarte HTTPS e se la modalitât Dome-HTTPS e je ative, alore { -brand-short-name } al doprarà HTTPS in dutis lis conessions.
