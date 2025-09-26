@@ -244,6 +244,8 @@ use-system-locale =
 ## General Section - Files and Applications
 
 files-and-applications-title = ໄຟລ໌ແລະແອັບພລິເຄຊັນ
+downloads-header-2 =
+    .label = ດາວໂຫລດ
 download-save-where-2 =
     .label = ບັນທຶກເອກະສານໃສ່
     .accesskey = v
