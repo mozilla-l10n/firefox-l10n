@@ -1510,6 +1510,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 运行所需的�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only 模式
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = 仅允许与网站进行安全连接。{ -brand-short-name } 将在进行不安全连接前询问。
 httpsonly-description3 = 仅允许与网站进行安全连接。{ -brand-short-name } 将在进行不安全连接前询问。
 httpsonly-learn-more2 = HTTPS-Only 模式的运作原理
 httpsonly-description = HTTPS 可在 { -brand-short-name } 和您访问的网站之间提供安全、加密的连接。现今，大多数网站都支持 HTTPS，若选择启用 HTTPS-Only 模式，{ -brand-short-name } 将会升级所有连接为 HTTPS。
