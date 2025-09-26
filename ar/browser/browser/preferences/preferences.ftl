@@ -268,6 +268,8 @@ preferences-web-appearance-choice-input-dark =
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = إعدادات التحكم في التباين لديك تتغلب على مظهر موقع الوِب.
+preferences-web-appearance-link =
+    .label = أدِر سمات { -brand-short-name } في الامتدادات والسمات{ " " }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = إن اختياراتك للألوان تهيمن على مظهر موقع الويب. <a data-l10n-name="colors-link">إدارة الألوان</a>
