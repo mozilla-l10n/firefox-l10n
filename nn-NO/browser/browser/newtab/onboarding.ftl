@@ -477,6 +477,10 @@ sync-to-mobile-button-label = Synkronisder til mobil
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kode for å laste ned { -brand-product-name } for mobil
 
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-button = Ikkje gjenopprett
+
 ## Restored from Backup spotlight
 
 restored-from-backup-success-with-checklist-primary-button = Lagre og hald fram

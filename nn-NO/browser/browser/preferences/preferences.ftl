@@ -1071,6 +1071,9 @@ autofill-saved-payment-methods-button = Lagra betalingsmetodar
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Krev einingsinnlogging for å fylle ut og behandle betalingsmåtar
     .accesskey = o
+autofill-payment-methods-title = Betalingsmåtar
+autofill-payment-methods-header =
+    .aria-label = Betalingsmåtar
 
 ## Privacy Section - History
 
