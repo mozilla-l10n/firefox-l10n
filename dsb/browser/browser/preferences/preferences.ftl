@@ -1094,6 +1094,15 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Rědowe pśizjawjenje za awtomatiske wupołnjenje a zastojanje płaśeńskich metodow pominaś
     .accesskey = R
+autofill-addresses-title = Adrese a wěcej
+autofill-addresses-header =
+    .aria-label = Adrese a wěcej
+autofill-addresses-checkbox-message =
+    .label = Adrese składowaś a awtomatiski wupołniś
+    .accesskey = A
+autofill-addresses-manage-addresses-button =
+    .label = Adrese a wěcej zastojaś
+    .accesskey = z
 
 ## Privacy Section - History
 
@@ -1536,6 +1545,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikaty
+certs-description = Konfigurěrujśo certifikaty, kótarež { -brand-short-name } za awtentifikaciju wužywa.
 certs-enable-ocsp =
     .label = Pla wótegronowych serwerow OCSP se napšašowaś, aby aktualnu płaśiwosć certifikatow wobkšuśiło
     .accesskey = P

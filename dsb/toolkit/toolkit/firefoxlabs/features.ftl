@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Stajśo casowe měritko,
 experimental-features-newtab-widget-lists-and-timer =
     .label = Lisćiny a casowe měritko w { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Wobchowajśo lisćinu swójich nadawkow we wócyma, gaž nowy rejtarik wócynjaśo. Wót zapakowańskich lisćinow do nakupowańskich lisćinow, cyńśo swóje plany w { -brand-product-name }. Nastajśo casowe měritko, aby koncentrěrowany wóstał, tłusniśo se, aby na droze wóstał abo dopomnjejśo se, aby swóje mócy zasej natankował. <a data-l10n-name="connect">Měnjenje k wěsći daś</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantiske pytanje historije
+experimental-features-semantic-history-search-description = Wužywajśo lokalny model mašinowego wuknjenja, aby zapiski z historije naraźił, kótarež sw na waše pytanje na zakłaźe pśirodnego rěcnego rozměśa w adresowem pólu { -brand-product-name } póśěguju. <a data-l10n-name="connect">Měnjenje k wěsći daś</a>
