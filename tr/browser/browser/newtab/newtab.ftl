@@ -642,6 +642,9 @@ newtab-widget-lists-input-menu-move-up = Yukarı taşı
 newtab-widget-lists-input-menu-move-down = Aşağı taşı
 newtab-widget-lists-input-menu-delete = Sil
 newtab-widget-lists-input-menu-edit = Düzenle
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Yeni liste oluştur
 newtab-widget-lists-name-label-default =
     .label = Görev listesi
 newtab-widget-lists-name-placeholder-default =

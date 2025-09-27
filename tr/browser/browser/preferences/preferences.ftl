@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Koyu
     .title = Web sitesi arka planları ve içeriğinde koyu bir görünüm kullan.
+web-appearance-group =
+    .aria-label = Web sitesi görünümü
 preferences-web-appearance-choice-auto = Otomatik
 preferences-web-appearance-choice-light = Açık
 preferences-web-appearance-choice-dark = Koyu
@@ -1071,6 +1073,18 @@ autofill-saved-payment-methods-button = Kayıtlı ödeme yöntemleri
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Ödeme yöntemlerini doldurmak ve yönetmek için cihazdan giriş yapmayı zorunlu tut
     .accesskey = Ö
+autofill-payment-methods-title = Ödeme yöntemleri
+autofill-payment-methods-header =
+    .aria-label = Ödeme yöntemleri
+autofill-payment-methods-checkbox-message-2 =
+    .label = Ödeme bilgilerini kaydet ve otomatik doldur
+    .accesskey = Ö
+autofill-payment-methods-manage-payments-button =
+    .label = Ödeme yöntemlerini yönet
+    .accesskey = m
+autofill-addresses-title = Adresler ve daha fazlası
+autofill-addresses-header =
+    .aria-label = Adresler ve daha fazlası
 
 ## Privacy Section - History
 

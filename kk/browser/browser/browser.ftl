@@ -1436,6 +1436,7 @@ trustpanel-etp-description-enabled = Бұл сайтта бірдеңе бұзы
 trustpanel-etp-description-disabled = { -brand-product-name } компаниялар сізді азырақ бақылауы керек деп есептейді. Қорғанысты іске қосқанда, біз мүмкіндігінше көп трекерлерді бұғаттаймыз.
 trustpanel-connection-label-secure = Байланыс қауіпсіз
 trustpanel-connection-label-insecure = Байланыс қауіпсіз емес
+trustpanel-header-enabled = { -brand-product-name } сақшылықта
 trustpanel-description-enabled = Сіз қорғалғансыз. Бірдеңені байқасақ, сізге хабарлаймыз
 trustpanel-header-disabled = Сіз қорғаныстарды сөндірдіңіз
 trustpanel-description-disabled = { -brand-product-name } жұмыстан тыс. Біз қорғаныстарды қайта іске қосуды ұсынамыз.
