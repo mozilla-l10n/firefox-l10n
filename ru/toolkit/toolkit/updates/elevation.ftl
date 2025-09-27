@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Больше не показывать
     .accesskey = В
 sandbox-unprivileged-namespaces-howtofix = Как решить эту проблему
+sandbox-content-disabled-warning = Песочница безопасности отключена. Ваша конфигурация не поддерживается и менее безопасна.

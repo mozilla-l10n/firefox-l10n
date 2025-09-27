@@ -171,6 +171,11 @@ about-glean-no-data-to-display = Нет данных для отображени
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Метрики с метками пока не поддерживаются при просмотре <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Неизвестный тип метрики.
+about-glean-enable-new-features-promo =
+    .message = Мы работаем над добавлением новых функций! Они всё ещё находятся в активной разработке, но нажмите по кнопке действия здесь, если хотите их включить.
+    .heading = Новые функции уже в пути!
+about-glean-enable-new-features-button = Включить новые функции
+about-glean-disable-new-features-button = Отключить новые функции
 about-glean-about-data-explanation =
     Чтобы просмотреть список собранных данных, обратитесь к
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Словарю</a>.

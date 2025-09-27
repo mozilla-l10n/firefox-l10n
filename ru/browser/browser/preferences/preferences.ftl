@@ -259,6 +259,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Тёмная
     .title = Использовать тёмный вид для фона и содержимого сайтов.
+web-appearance-group =
+    .aria-label = Внешний вид сайтов
 preferences-web-appearance-choice-auto = Автоматически
 preferences-web-appearance-choice-light = Светлая
 preferences-web-appearance-choice-dark = Тёмная
@@ -1075,6 +1077,28 @@ autofill-saved-payment-methods-button = Сохраненные способы о
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Требовать вход на устройстве для заполнения и управления способами оплаты
     .accesskey = щ
+autofill-payment-methods-title = Способы оплаты
+autofill-payment-methods-header =
+    .aria-label = Способы оплаты
+autofill-payment-methods-checkbox-message-2 =
+    .label = Сохранять и автозаполнять платежную информацию
+    .accesskey = з
+autofill-payment-methods-manage-payments-button =
+    .label = Управление способами оплаты
+    .accesskey = ь
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Требовать входа с устройства для автозаполнения и управления способами платежей
+    .accesskey = щ
+autofill-addresses-title = Адреса и другое
+autofill-addresses-header =
+    .aria-label = Адреса и другое
+autofill-addresses-checkbox-message =
+    .label = Сохранять и автоматически заполнять адреса
+    .accesskey = Ы
+autofill-addresses-manage-addresses-button =
+    .label = Управление адресами и другим
+    .accesskey = Ь
 
 ## Privacy Section - History
 
@@ -1517,6 +1541,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Сертификаты
+certs-description = Настроить сертификаты, которые { -brand-short-name } использует для аутентификации.
 certs-enable-ocsp =
     .label = Запрашивать у OCSP-серверов подтверждение текущего статуса сертификатов
     .accesskey = п
