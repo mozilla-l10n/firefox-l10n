@@ -1071,6 +1071,25 @@ autofill-saved-payment-methods-button = Gespeicherte Zahlungsmethoden
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Anmeldung am Gerät zum Ausfüllen und Verwalten von Zahlungsmethoden verlangen
     .accesskey = u
+autofill-payment-methods-title = Zahlungsmethoden
+autofill-payment-methods-header =
+    .aria-label = Zahlungsmethoden
+autofill-payment-methods-checkbox-message-2 =
+    .label = Zahlungsinformationen speichern und automatisch ausfüllen
+    .accesskey = Z
+autofill-payment-methods-manage-payments-button =
+    .label = Zahlungsmethode verwalten
+    .accesskey = v
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Anmeldung am Gerät anfordern, um Zahlungsmethoden automatisch auszufüllen und zu verwalten
+    .accesskey = A
+autofill-addresses-title = Adressen und mehr
+autofill-addresses-header =
+    .aria-label = Adressen und mehr
+autofill-addresses-checkbox-message =
+    .label = Adressen speichern und automatisch ausfüllen
+    .accesskey = s
 
 ## Privacy Section - History
 
