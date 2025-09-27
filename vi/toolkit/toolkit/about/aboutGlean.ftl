@@ -173,6 +173,11 @@ about-glean-no-data-to-display = Không có dữ liệu để hiển thị.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Các số liệu được gắn nhãn vẫn chưa được hỗ trợ trong chế độ xem của <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Kiểu số liệu không xác định.
+about-glean-enable-new-features-promo =
+    .message = Chúng tôi đang nỗ lực bổ sung các tính năng mới! Các tính năng này vẫn đang trong quá trình phát triển, nhưng hãy nhấp vào nút hành động ở đây nếu bạn muốn bật chúng.
+    .heading = Các tính năng mới sắp ra mắt!
+about-glean-enable-new-features-button = Kích hoạt các tính năng mới
+about-glean-disable-new-features-button = Vô hiệu hóa các tính năng mới
 about-glean-about-data-explanation =
     Để duyệt danh sách dữ liệu đã thu thập, vui lòng tham khảo
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>.
