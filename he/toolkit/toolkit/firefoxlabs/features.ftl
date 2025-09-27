@@ -69,3 +69,6 @@ experimental-features-newtab-widget-timer-description = ניתן להגדיר ש
 experimental-features-newtab-widget-lists-and-timer =
     .label = רשימות ושעון עצר ב־{ -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = לזכור את רשימת המשימות שלך בעת פתיחת כל לשונית חדשה. מרשימת אריזה ועד רשימת קניות, ניתן לערוך את התוכניות שלך ב־{ -brand-product-name }. ניתן להגדיר שעון עצר כדי להשאיר אותך במיקוד, לעודד אותך להישאר במסלול, או להזכיר לך להתרענן. <a data-l10n-name="connect">שיתוף משוב</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = חיפוש היסטוריה סמנטי

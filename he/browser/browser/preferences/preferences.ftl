@@ -1077,6 +1077,12 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-addresses-title = כתובות ועוד
 autofill-addresses-header =
     .aria-label = כתובות ועוד
+autofill-addresses-checkbox-message =
+    .label = שמירה ומילוי אוטומטי של כתובות
+    .accesskey = ש
+autofill-addresses-manage-addresses-button =
+    .label = ניהול כתובות ועוד
+    .accesskey = נ
 
 ## Privacy Section - History
 
@@ -1518,6 +1524,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = אישורים
+certs-description = הגדרת התצורה של האישורים שבהם { -brand-short-name } משתמש לצורך אימות.
 certs-enable-ocsp =
     .label = תשאול שרתי OCSP לאימות תקפות נוכחית של אישורי אבטחה
     .accesskey = ת
