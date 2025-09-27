@@ -156,4 +156,6 @@ about-glean-no-data-to-display = Görüntülenecek veri yok.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Etiketli ölçümler henüz <code>about:glean</code> görünümünde desteklenmiyor.
 about-glean-unknown-metric-type-warning = Bilinmeyen ölçüm türü.
+about-glean-enable-new-features-button = Yeni özellikleri etkinleştir
+about-glean-disable-new-features-button = Yeni özellikleri devre dışı bırak
 about-glean-about-data-explanation = Toplanan verilerin listesine göz atmak için lütfen <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.

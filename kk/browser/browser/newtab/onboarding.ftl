@@ -470,8 +470,14 @@ sync-to-mobile-button-label = Мобильді құрылғымен синхро
 desktop-to-mobile-qr-code-alt =
     .aria-label = Мобильді { -brand-product-name } жүктеп алу үшін QR коды
 
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Сақтық көшірмеден қалпына келтіру
+restore-from-backup-secondary-button = Қалпына келтірмеу
+
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Біз қайтып келдік! { -brand-short-name } деректері қалпына келтірілді.
 restored-from-backup-success-with-checklist-primary-button = Сақтау және жалғастыру
 restored-from-backup-success-with-checklist-secondary-button = Бұл қадамды аттап кету
 restored-from-backup-success-no-checklist-primary-button = Жалғастыру

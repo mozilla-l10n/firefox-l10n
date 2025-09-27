@@ -358,6 +358,10 @@ windows-10-eos-sync-toast-secondary-label = Кейінірек еске салу
 
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } сақтық көшірмесін жасау
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } бекіту
+windows-10-eos-sync-callout-privacy-info-button = Ненің бұғатталғанын қарау
+windows-10-eos-callout-addons-title = Қосымшаларды қолданып көріңіз: қарапайым жаңарту, үлкен әсер
+windows-10-eos-callout-addons-subtitle = Бұл кеңейтулер сіздің өнімділігіңізді арттырып, қорғалған әрі алаңдаушылықсыз болуыңызға көмектесу үшін таңдалды.
+windows-10-eos-callout-addons-primary-button = Біздің таңдауларымызды қараңыз
 windows-10-eos-sync-callout-addons-title = Windows 10 жүйесінен жаңартылған кезде қосымшаларыңызды жоғалтпаңыз.
 windows-10-eos-sync-callout-next-button = Келесі
 windows-10-eos-sync-callout-get-started-button = Бастау
