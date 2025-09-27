@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Dunkel
     .title = Ein dunkles Erscheinungsbild für Hintergründe und Inhalte von Websites verwenden
+web-appearance-group =
+    .aria-label = Erscheinungsbild von Websites
 preferences-web-appearance-choice-auto = Automatisch
 preferences-web-appearance-choice-light = Hell
 preferences-web-appearance-choice-dark = Dunkel
@@ -1090,6 +1092,9 @@ autofill-addresses-header =
 autofill-addresses-checkbox-message =
     .label = Adressen speichern und automatisch ausfüllen
     .accesskey = s
+autofill-addresses-manage-addresses-button =
+    .label = Adressen und mehr verwalten
+    .accesskey = m
 
 ## Privacy Section - History
 
@@ -1532,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Zertifikate
+certs-description = Zertifikate konfigurieren, die { -brand-short-name } zur Authentifizierung verwendet.
 certs-enable-ocsp =
     .label = Aktuelle Gültigkeit von Zertifikaten durch Anfrage bei OCSP-Server bestätigen lassen
     .accesskey = G
