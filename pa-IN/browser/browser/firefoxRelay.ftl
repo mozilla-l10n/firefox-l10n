@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = M
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = ਆਪਣੇ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਦੀ ਸੁਰੱਖਿਅਤ ਕਰੋ:
+firefox-relay-opt-in-title-2 = ਇੱਕ ਮੁਫ਼ਤ ਈਮੇਲ ਮਾਸਕ ਲਵੋ
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = { -relay-brand-name } ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ
 firefox-relay-use-mask-title-1 = ਈਮੇਲ ਮਾਸਕ ਨੂੰ ਵਰਤੋਂ
+firefox-relay-opt-in-subtitle-2 = ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸਮੈਪ ਤੋਂ ਬਚਾਓ
 firefox-relay-use-mask-title = { -relay-brand-name } ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = ਮੁਫ਼ਤ ਈਮੇਲ ਮਾਸਕ ਨਾਲ ਸਪੈਮ ਨੂੰ ਰੋਕੋ
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = ਮੁਫ਼ਤ ਈਮੇਲ ਮਾਸਕ ਲਵੋ
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮੁਫ਼ਤ <label data-l10n-name="firefox-relay-learn-more-url">ਈਮੇਲ ਮਾਸਕ</label> ਨੂੰ ਵਰਤ ਕੇ ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਬਚਾਓ। <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ਇਸ ਸਾਈਟ</label> ਤੋਂ ਈਮੇਲਾਂ ਨੂੰ ਹਾਲੇ ਵੀ ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਵਿੱਚ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਪਰ ਤੁਹਾਡੀ ਈਮੇਲ ਓਹਲੇ ਹੀ ਰਹੇਗਾ।
 firefox-relay-and-fxa-popup-notification-first-sentence = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮੁਫ਼ਤ <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } ਈਮੇਲ ਮਾਸਕ</label> ਨੂੰ ਵਰਤ ਕੇ ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਬਚਾਓ। <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ਇਸ ਸਾਈਟ</label> ਤੋਂ ਈਮੇਲਾਂ ਨੂੰ ਹਾਲੇ ਵੀ ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਵਿੱਚ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਪਰ ਤੁਹਾਡੀ ਈਮੇਲ ਓਹਲੇ ਹੀ ਰਹੇਗਾ।
+firefox-relay-offer-why-to-use-relay-1 = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮੁਫ਼ਤ <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } ਈਮੇਲ ਮਾਸਕ</label> ਨੂੰ ਵਰਤ ਕੇ ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਬਚਾਓ। <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ਇਸ ਸਾਈਟ</label> ਤੋਂ ਈਮੇਲਾਂ ਨੂੰ ਹਾਲੇ ਵੀ ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਵਿੱਚ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਪਰ ਤੁਹਾਡੀ ਈਮੇਲ ਓਹਲੇ ਹੀ ਰਹੇਗਾ।
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = ਪਹਿਲਾਂ, ਈਮੇਲ ਮਾਸਕ ਵਰਤਣ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ ਜਾਂ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = ਸਾਈਨ ਅੱਪ ਕਰੋ

@@ -110,6 +110,13 @@ fxa-adoption-passwords-subtitle = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂ�
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = ਸਾਈਟ ਅੱਪ
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਫ਼ੀਡ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਰੱਖੋ
+taskbar-tabs-chat-callout-title = ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਰਾਹੀਂ ਗੱਲਬਾਤ ਕਰੋ
+taskbar-tabs-email-callout-title = ਆਪਣੀ ਈਮੇਲ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਰੱਖੋ
+taskbar-tabs-value-prop-callout-title = ਇਸ ਸਾਈਟ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਜੋੜੋ
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = ਜਦੋਂ ਤੁਸੀਂ Windows 11 ਉੱਤੇ ਜਾਓ ਤਾਂ ਆਪਣੀਆਂ ਸੰਭਾਲੀਆਂ ਹੋਈਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਨਾ ਗੁਆਓ।
