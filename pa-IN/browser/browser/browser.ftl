@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
+popups-infobar-dont-show-message2 =
+    .label = ਜਦੋਂ ਪੌਪ-ਅੱਪ ਜਾਂ ਤੀਜੀ-ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਜਾਵੇ ਤਾਂ ਇਹ ਸੁਨੇਹਾ ਨਾ ਵੇਖਓ
+    .accesskey = D
+edit-popup-settings2 =
+    .label = …ਪੌਪ-ਅੱਪ ਅਤੇ ਤੀਜੀ-ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .accesskey = M
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਨਾਲ ਆਪਣੀ ਸਕਰੀਨ ਨੂੰ ਸਾਂਝਾ ਕਰਨ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।
 urlbar-persistent-storage-blocked =
     .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਪੱਕੀ ਸਟੋਰੇਜ਼ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।
+urlbar-popup-blocked2 =
+    .tooltiptext = ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਪੌਪ-ਅੱਪ ਅਤੇ ਤੀਜੀ-ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।
 urlbar-popup-blocked =
     .tooltiptext = ਇਸ ਵੈੱਬਸਾਈਟ ਵਾਸਤੇ ਤੁਸੀਂ ਪੋਪਅੱਪ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।
 urlbar-autoplay-media-blocked =
@@ -1172,6 +1180,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = { $uriHost } ਵਾਸਤੇ ਪੋਪਅੱਪ ਪਾਬੰਦੀ
     .accesskey = p
+popups-infobar-allow2 =
+    .label = { $uriHost } ਲਈ ਪੌਪ-ਅੱਪ ਅਤੇ ਤੀਜੀ-ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ
+    .accesskey = p
 
 ##
 
@@ -1336,6 +1347,7 @@ firefox-relay-offer-why-to-use-relay = ਸਾਡਾ ਸੁਰੱਖਿਅਤ ਅ
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = ਤੁਹਾਡੇ ਈਮੇਲ ਮਾਸਕ ਲਈ ਭੇਜੀਆਂ ਸਾਰੀਆਂ ਈਮੇਲਾਂ ਨੂੰ <strong>{ $useremail }</strong> ਉੱਤੇ ਭੇਜਿਆ ਜਾਵੇਗਾ (ਜਦ ਤੱਕ ਕਿ ਤੁਸੀ ਉਹਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਨਹੀਂ ਲਾਉਂਦੇ)।
 firefox-relay-offer-legal-notice = “ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ” ਨੂੰ ਕਲਿੱਕ ਕਰਕੇ ਤੁਸੀਂ <label data-l10n-name="tos-url">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</label> ਅਤੇ <label data-l10n-name="privacy-url">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</label> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
+firefox-relay-offer-legal-notice-1 = ਸਾਈਨ ਅੱਪ ਕਰਕੇ ਅਤੇ ਈਮੇਲ ਮਾਸਕ ਬਣਾ ਕੇ ਤੁਸੀਂ <label data-l10n-name="tos-url">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</label> ਅਤੇ <label data-l10n-name="privacy-url">ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ</label> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 
 ## Add-on Pop-up Notifications
 
@@ -1362,10 +1374,24 @@ popup-warning-message =
         [one] { -brand-short-name } ਨੇ ਇਹ ਸਾਇਟ ਤੋਂ ਪੋਪਅੱਪ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਤੋਂ ਰੋਕੀ ਹੈ।
        *[other] { -brand-short-name } ਨੇ ਇਹ ਸਾਇਟ ਤੋਂ { $popupCount } ਪੋਪਅੱਪ ਵਿੰਡੋਜ਼ ਖੋਲ੍ਹਣ ਤੋਂ ਰੋਕੀਆਂ ਹਨ।
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਰੀ-ਡਾਇਰੈਕਟ ਕਰਨ ਤੋਂ ਰੋਕਿਆ ਹੈ।
+        [1] { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਪੌਪ-ਅੱਪ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਅਤੇ ਰੀ-ਡਾਇਰੈਕਟ ਕਰਨ ਤੋਂ ਰੋਕਿਆ ਹੈ।
+       *[other] { -brand-short-name } prevented this site from opening { $popupCount } pop-up windows and redirecting.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਤੋਂ { $popupCount } ਤੋਂ ਵੱਧ ਪੌਪ-ਅੱਪ ਵਿੰਡੋਆਂ ਖੋਲ੍ਹਣ ‘ਤੇ ਰੋਕ ਲਾਈ ਹੈ।
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+       *[other] { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ { $popupCount } ਤੋਂ ਵੱਧ ਪੌਪ-ਅੱਪ ਵਿੰਡੋਆਂ ਖੋਲ੍ਹਣ ਅਤੇ ਰੀ-ਡਾਇਰੈਕਟ ਕਰਨ ਤੋਂ ਰੋਕਿਆ ਹੈ।
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1381,6 +1407,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' ਨੂੰ ਵੇਖੋ
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = “{ $redirectURI }” ਨੂੰ ਵੇਖਾਓ
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1427,6 +1457,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } ਨੂੰ ਲੱ�
 trustpanel-connection-label-secure = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਹੈ
 trustpanel-connection-label-insecure = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ
 trustpanel-header-enabled = { -brand-product-name } ਪਹਿਰੇ ਉੱਤੇ ਹੈ
+trustpanel-description-enabled2 = ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਹੋ। ਜੇ ਸਾਨੂੰ ਕੁਝ ਲੱਭਿਆ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਦੱਸਾਂਗੇ।
+trustpanel-header-enabled-insecure = ਇਸ ਸਾਈਟ ਉੱਤੇ ਸਾਵਧਾਨ ਰਹੋ
+trustpanel-description-enabled-insecure = { -brand-product-name } ਨੂੰ ਕੁਝ ਸ਼ੱਕੀ ਜਾਪਿਆ ਹੈ।
 trustpanel-description-enabled = ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਹੋ। ਜੇ ਸਾਨੂੰ ਕੁਝ ਲੱਭਿਆ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਦੱਸਾਂਗੇ
 trustpanel-header-disabled = ਤੁਸੀਂ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਬੰਦ ਕੀਤਾ ਹੈ
 trustpanel-description-disabled = { -brand-product-name } ਛੁੱਟੀ ਉੱਤੇ ਹੈ। ਅਸੀਂ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰਨ ਦੀ ਸਲਾਹ ਦਿੰਦੇ ਹਾਂ।
