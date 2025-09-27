@@ -830,6 +830,11 @@ urlbar-result-realtime-opt-in-dismiss-all =
 # This string is shown in the result menu.
 urlbar-result-menu-dont-show-market =
     .label = Нарық ұсыныстарын көрсетпеу
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Пікіріңізге рахмет. Енді сіз нарық ұсыныстарын көрмейсіз.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Пікіріңізге рахмет. Енді бұл ұсыныстарды көрмейсіз.
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
@@ -1173,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = { $uriHost } үшін "атып шығатын" терезелерді болдырмау
     .accesskey = т
+popups-infobar-allow2 =
+    .label = { $uriHost } үшін қалқымалы терезелер мен үшінші тарапқа қайта бағыттауларға рұқсат беру
+    .accesskey = ы
 
 ##
 
@@ -1337,6 +1345,7 @@ firefox-relay-offer-why-to-use-relay = Біздің қауіпсіз, қолда
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Электрондық пошта маскаларына жіберілген барлық хаттар <strong>{ $useremail }</strong> адресіне жіберіледі (егер сіз оларды блоктауды шешпесеңіз).
 firefox-relay-offer-legal-notice = "Электронды пошта маскасын қолдану" шерту арқылы, сіз <label data-l10n-name="tos-url">Қызмет көрсету шарттары</label> мен <label data-l10n-name="privacy-url">Жекелік ескертуімен</label> келісесіз.
+firefox-relay-offer-legal-notice-1 = Тіркелу және эл. пошта маскасын жасау арқылы, сіз <label data-l10n-name="tos-url">Қызмет көрсету шарттары</label> мен <label data-l10n-name="privacy-url">Жекелік ескертуімен</label> келісесіз.
 
 ## Add-on Pop-up Notifications
 
