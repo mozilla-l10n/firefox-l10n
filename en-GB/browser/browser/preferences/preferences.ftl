@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Dark
     .title = Use a dark appearance for web site backgrounds and content.
+web-appearance-group =
+    .aria-label = Web site appearance
 preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Light
 preferences-web-appearance-choice-dark = Dark
@@ -1071,6 +1073,28 @@ autofill-saved-payment-methods-button = Saved payment methods
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Require device sign in to fill and manage payment methods
     .accesskey = o
+autofill-payment-methods-title = Payment methods
+autofill-payment-methods-header =
+    .aria-label = Payment methods
+autofill-payment-methods-checkbox-message-2 =
+    .label = Save and autofill payment info
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Manage payment methods
+    .accesskey = M
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Require device sign in to autofill and manage payments methods
+    .accesskey = o
+autofill-addresses-title = Addresses and more
+autofill-addresses-header =
+    .aria-label = Addresses and more
+autofill-addresses-checkbox-message =
+    .label = Save and autofill addresses
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Manage addresses and more
+    .accesskey = M
 
 ## Privacy Section - History
 
@@ -1513,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificates
+certs-description = Configure the certificates that { -brand-short-name } uses for authentication.
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
