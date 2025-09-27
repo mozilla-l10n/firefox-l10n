@@ -1062,6 +1062,19 @@ autofill-saved-payment-methods-button = Сақталған төлем әдіст
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Төлем әдістерін толтыру және басқару үшін құрылғыға кіруді талап ету
     .accesskey = д
+autofill-payment-methods-title = Төлем әдістері
+autofill-payment-methods-header =
+    .aria-label = Төлем әдістері
+autofill-payment-methods-checkbox-message-2 =
+    .label = Төлем әдістерін сақтау және автотолтыру
+    .accesskey = Т
+autofill-payment-methods-manage-payments-button =
+    .label = Төлем әдістерін басқару
+    .accesskey = б
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Төлем әдістерін автотолтыру және басқару үшін құрылғыға кіруді талап ету
+    .accesskey = о
 
 ## Privacy Section - History
 
