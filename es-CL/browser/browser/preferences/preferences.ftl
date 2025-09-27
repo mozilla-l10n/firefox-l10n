@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Oscuro
     .title = Usa una apariencia oscura para los fondos y el contenido de los sitios web.
+web-appearance-group =
+    .aria-label = Apariencia del sitio web
 preferences-web-appearance-choice-auto = Automático
 preferences-web-appearance-choice-light = Claro
 preferences-web-appearance-choice-dark = Oscuro
@@ -1071,6 +1073,25 @@ autofill-saved-payment-methods-button = Métodos de pago guardados
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Requerir la autenticación del sistema para completar y administrar métodos de pago
     .accesskey = o
+autofill-payment-methods-title = Métodos de pago
+autofill-payment-methods-header =
+    .aria-label = Métodos de pago
+autofill-payment-methods-checkbox-message-2 =
+    .label = Guardar y completar automáticamente la información de pago
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Administrar métodos de pago
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Requerir la autenticación del sistema para autocompletar y administrar métodos de pago
+    .accesskey = o
+autofill-addresses-title = Direcciones y más
+autofill-addresses-header =
+    .aria-label = Direcciones y más
+autofill-addresses-checkbox-message =
+    .label = Guardar y autocompletar direcciones
+    .accesskey = S
 
 ## Privacy Section - History
 
