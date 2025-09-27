@@ -123,6 +123,9 @@ browser-main-private-suffix-for-content = Privat browsing
 popups-infobar-dont-show-message2 =
     .label = Vis ikke denne besked, når pop op-vinduer eller tredjeparts-omdirigeringer er blokeret.
     .accesskey = V
+edit-popup-settings2 =
+    .label = Håndter indstillinger for pop op-vinduer og tredjeparts-omdirigeringer…
+    .accesskey = H
 
 ##
 
@@ -269,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Du har blokeret skærmdeling for dette websted.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Du har blokeret vedvarende lager for dette websted.
+urlbar-popup-blocked2 =
+    .tooltiptext = Du har blokeret pop op-vinduer og tredjeparts-omdirigeringer for dette websted.
 urlbar-popup-blocked =
     .tooltiptext = Du har blokeret pop op-vinduer for dette websted.
 urlbar-autoplay-media-blocked =
@@ -1371,6 +1376,13 @@ popup-warning-message =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } forhindrede dette websted i at åbne mere end { $popupCount } pop op-vinduer.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } forhindrede dette websted i at åbne mere end { $popupCount } pop op-vindue og omdirigere.
+       *[other] { -brand-short-name } forhindrede dette websted i at åbne mere end { $popupCount } pop op-vinduer og omdirigere.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1386,6 +1398,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Vis '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Vis "{ $redirectURI }"
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
