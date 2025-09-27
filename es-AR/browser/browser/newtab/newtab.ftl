@@ -645,6 +645,9 @@ newtab-widget-lists-input-menu-move-up = Mover arriba
 newtab-widget-lists-input-menu-move-down = Mover abajo
 newtab-widget-lists-input-menu-delete = Borrar
 newtab-widget-lists-input-menu-edit = Editar
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Crear una nueva lista
 newtab-widget-lists-name-label-default =
     .label = Lista de tareas
 newtab-widget-lists-name-placeholder-default =
