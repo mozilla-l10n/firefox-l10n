@@ -1092,6 +1092,9 @@ autofill-addresses-header =
 autofill-addresses-checkbox-message =
     .label = Guardar y autocompletar direcciones
     .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Administrar direcciones y más
+    .accesskey = M
 
 ## Privacy Section - History
 
@@ -1534,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-description = Configura los certificados que { -brand-short-name } utiliza para la autenticación.
 certs-enable-ocsp =
     .label = Consultar a los servidores de respuesta OCSP para confirmar la validez actual de los certificados
     .accesskey = Q

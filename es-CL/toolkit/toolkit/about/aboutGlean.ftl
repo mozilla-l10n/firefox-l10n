@@ -166,6 +166,8 @@ about-glean-no-data-to-display = No hay datos para mostrar.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Las métricas etiquetadas aún no son compatibles con la vista <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo de métrica desconocido.
+about-glean-enable-new-features-button = Habilitar nuevas funcionalidades
+about-glean-disable-new-features-button = Deshabilitar nuevas funcionalidades
 about-glean-about-data-explanation =
     Para revisar la lista de datos recolectados, consulta el
     <a data-l10n-name="glean-dictionary-link">diccionario de { -glean-brand-name }</a>.
