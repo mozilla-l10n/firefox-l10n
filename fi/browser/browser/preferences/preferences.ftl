@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Tumma
     .title = Käytä tummaa ulkoasua verkkosivuston taustalle ja sisällölle.
+web-appearance-group =
+    .aria-label = Verkkosivuston ulkoasu
 preferences-web-appearance-choice-auto = Automaattinen
 preferences-web-appearance-choice-light = Vaalea
 preferences-web-appearance-choice-dark = Tumma
@@ -1071,6 +1073,15 @@ autofill-saved-payment-methods-button = Tallennetut maksutavat
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Vaadi laitteen sisäänkirjautumista maksutapojen täyttämiseksi ja hallitsemiseksi
     .accesskey = o
+autofill-payment-methods-title = Maksutavat
+autofill-payment-methods-header =
+    .aria-label = Maksutavat
+autofill-payment-methods-checkbox-message-2 =
+    .label = Tallenna ja täytä maksutiedot automaattisesti
+    .accesskey = ä
+autofill-payment-methods-manage-payments-button =
+    .label = Hallitse maksutapoja
+    .accesskey = m
 
 ## Privacy Section - History
 

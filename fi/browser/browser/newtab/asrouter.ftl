@@ -403,3 +403,5 @@ etp-strict-exceptions-infobar-message = <strong>Tiukka seurannan suojaus voi aih
 etp-strict-exceptions-infobar-learn-more = Lue lisää
 etp-strict-exceptions-infobar-button = Toteuta korjaukset
     .accesskey = a
+etp-strict-exceptions-infobar-not-now = Ei nyt
+    .accesskey = E

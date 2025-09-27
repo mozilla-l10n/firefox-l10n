@@ -646,6 +646,9 @@ newtab-widget-lists-input-menu-move-up = Siirrä ylös
 newtab-widget-lists-input-menu-move-down = Siirrä alas
 newtab-widget-lists-input-menu-delete = Poista
 newtab-widget-lists-input-menu-edit = Muokkaa
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Luo uusi lista
 newtab-widget-lists-name-label-default =
     .label = Tehtävälista
 newtab-widget-lists-name-placeholder-default =
