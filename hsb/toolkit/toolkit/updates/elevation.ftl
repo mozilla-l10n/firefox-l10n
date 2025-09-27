@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Hižo so njepokazać
     .accesskey = H
 sandbox-unprivileged-namespaces-howtofix = Kak tutón problem rozrisać
+sandbox-content-disabled-warning = Pěskowy kašćik je znjemóžnjeny. Waša konfiguracija so njepodpěruje a je mjenje wěsta.
