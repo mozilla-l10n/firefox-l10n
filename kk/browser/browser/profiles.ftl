@@ -213,6 +213,9 @@ video-game-controller-avatar-alt =
     .alt = Видео ойын контроллері
 custom-avatar-alt =
     .alt = Таңдауыңызша аватар
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Глобус
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Бастапқы таңбаша
@@ -228,6 +231,7 @@ bike-avatar-alt =
 
 book-avatar = Кітап
 briefcase-avatar = Портфель
+clock-avatar = Сағат
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Кенеп
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -239,6 +243,8 @@ default-favicon-avatar = Бастапқы таңбаша
 diamond-avatar = Бриллиант
 flower-avatar = Гүл
 folder-avatar = Бума
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Глобус
 hammer-avatar = Балға
 heart-avatar = Жүрек
 heart-rate-avatar = Жүрек соғу жиілігі
@@ -251,6 +257,7 @@ message-avatar = Хабарлама
 musical-note-avatar = Музыкалық нота
 palette-avatar = Палитра
 paw-print-avatar = Табан ізі
+picture-avatar = Сурет
 plane-avatar = Ұшақ
 # Present refers to a gift box, not the current time period
 present-avatar = Сыйлық
