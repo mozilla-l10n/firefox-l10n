@@ -230,6 +230,14 @@ about-logins-vulnerable-alert-learn-more-link = قلوه دووسته بۊین
 
 # Title of the file picker dialog
 about-logins-export-file-picker-title = و در کشیڌن فایل و من ٱووڌنا
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = و من ٱووڌنا.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = و در کشیڌن رزما ز { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = رزما.csv
 about-logins-export-file-picker-export-button = و در کشیڌن
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -241,6 +249,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = و من ٱووردن فایل و من ٱووڌنا
 about-logins-import-file-picker-import-button = و من ٱووردن
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
