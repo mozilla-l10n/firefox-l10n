@@ -262,6 +262,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Śamny
     .title = Śamny naglěd za slězyny websedłow a wopśimjeśe wužywaś.
+web-appearance-group =
+    .aria-label = Naglěd websedła
 preferences-web-appearance-choice-auto = Awtomatiski
 preferences-web-appearance-choice-light = Swětły
 preferences-web-appearance-choice-dark = Śamny
@@ -1079,6 +1081,19 @@ autofill-saved-payment-methods-button = Skłaźone płaśeńske metody
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Rědowe pśizjawjenje za wupołnjenje a zastojanje płaśeńskcih metodow pominaś
     .accesskey = d
+autofill-payment-methods-title = Płaśeńske metody
+autofill-payment-methods-header =
+    .aria-label = Płaśeńske metody
+autofill-payment-methods-checkbox-message-2 =
+    .label = Płaśeńske metody składowaś a awtomatiski wupołniś
+    .accesskey = P
+autofill-payment-methods-manage-payments-button =
+    .label = Płaśeńsku metodu zastojaś
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Rědowe pśizjawjenje za awtomatiske wupołnjenje a zastojanje płaśeńskich metodow pominaś
+    .accesskey = R
 
 ## Privacy Section - History
 

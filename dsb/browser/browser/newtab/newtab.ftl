@@ -648,6 +648,9 @@ newtab-widget-lists-input-menu-move-up = Górjej
 newtab-widget-lists-input-menu-move-down = Dołoj
 newtab-widget-lists-input-menu-delete = Lašowaś
 newtab-widget-lists-input-menu-edit = Wobźěłaś
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Nowu lisćinu napóraś
 newtab-widget-lists-name-label-default =
     .label = Lisćiny nadawkow
 newtab-widget-lists-name-placeholder-default =
