@@ -18,3 +18,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .accesskey = N
 sandbox-unprivileged-namespaces-howtofix = Come risolvere il problema
 sandbox-content-disabled-warning = La sandbox di sicurezza è disattivata. Questa configurazione non è supportata ed è meno sicura.
+
