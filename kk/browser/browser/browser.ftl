@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Жекелік шолу
+popups-infobar-dont-show-message2 =
+    .label = Бұл хабарламаны қалқымалы терезелер немесе үшінші тарапқа қайта бағыттаулар бұғатталған кезде көрсетпеу
+    .accesskey = п
+edit-popup-settings2 =
+    .label = Қалқымалы терезе мен үшінші тарапқа қайта бағыттау баптауларын басқару
+    .accesskey = б
 
 ##
 
@@ -250,6 +256,10 @@ urlbar-search-mode-actions = Әрекеттер
 
 urlbar-geolocation-blocked =
     .tooltiptext = Сіз орналасу ақпаратымен бөлісуді бұл вебсайтқа блоктадыңыз.
+urlbar-localhost-blocked =
+    .tooltiptext = Сіз осы веб-сайт үшін жергілікті құрылғы қосылымдарын бұғаттадыңыз.
+urlbar-local-network-blocked =
+    .tooltiptext = Сіз осы веб-сайт үшін жергілікті желі қосылымдарын бұғаттадыңыз.
 urlbar-xr-blocked =
     .tooltiptext = Сіз виртуалды шынайылық құрылғысын қолдануды бұл вебсайтқа блоктадыңыз.
 urlbar-web-notifications-blocked =
@@ -262,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Сіз экраныңызбен бөлісуді бұл вебсайтқа блоктадыңыз.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Сіз тұрақты деректер қоймасын қолдануды бұл вебсайтқа блоктадыңыз.
+urlbar-popup-blocked2 =
+    .tooltiptext = Сіз осы веб-сайт үшін қалқымалы терезелер мен үшінші тарапқа қайта бағыттауларды бұғаттадыңыз.
 urlbar-popup-blocked =
     .tooltiptext = Бұл веб-сайт үшін атып шығатын терезелерді бұғаттадыңыз.
 urlbar-autoplay-media-blocked =
@@ -804,6 +816,10 @@ urlbar-result-weather-provider-sponsored = { $provider } · Демеушілік
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Қор нарығы деректерін іздеу жолағыңыздан тікелей алыңыз
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Іздеу сұраулары деректерін { -vendor-short-name } компаниясымен бөліскен кезде, серіктестерімізден нарық жаңартуларын және басқа ақпаратты көрсетіңіз. <a data-l10n-name="learn-more-link">Көбірек білу</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Ұсыныстарды көрсету
 # This string is shown in split button to dismiss activation the Realtime suggestion.
