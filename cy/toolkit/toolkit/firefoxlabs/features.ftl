@@ -76,4 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = Cadwch eich rh
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Chwiliad Hanes Semantig
-experimental-features-semantic-history-search-description = Defnyddiwch fodel Dysgu Pririanyddol lleol i awgrymu cofnodion o hanes sy'n gysylltiedig â'ch chwilio yn seiliedig ar ddealltwriaeth iaith naturiol ym mDefnyddiwch fodel Dysgu Peirianyddol lleol i awgrymu cofnodion o hanes sy'n gysylltiedig â'ch chwilio yn seiliedig ar ddealltwriaeth iaith naturiol ym mar cyfeiriad { -brand-product-name }. <a data-l10n-name="connect">Rhannu adborth</a>
+experimental-features-semantic-history-search-description = Defnyddiwch fodel Dysgu Peirianyddol lleol i awgrymu cofnodion o hanes sy'n gysylltiedig â'ch chwilio yn seiliedig ar ddealltwriaeth iaith naturiol ym mar cyfeiriad { -brand-product-name }. <a data-l10n-name="connect">Rhannu adborth</a>
