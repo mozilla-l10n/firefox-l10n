@@ -244,6 +244,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Tối
     .title = Sử dụng giao diện tối cho hình nền và nội dung trang web.
+web-appearance-group =
+    .aria-label = Diện mạo trang web
 preferences-web-appearance-choice-auto = Tự động
 preferences-web-appearance-choice-light = Sáng
 preferences-web-appearance-choice-dark = Tối
@@ -1055,6 +1057,28 @@ autofill-saved-payment-methods-button = Phương thức thanh toán đã lưu
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Yêu cầu thiết bị đăng nhập để điền và quản lý phương thức thanh toán
     .accesskey = o
+autofill-payment-methods-title = Phương thức thanh toán
+autofill-payment-methods-header =
+    .aria-label = Phương thức thanh toán
+autofill-payment-methods-checkbox-message-2 =
+    .label = Lưu và tự động điền thông tin thanh toán
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Quản lý phương thức thanh toán
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Yêu cầu đăng nhập thiết bị để tự động điền và quản lý phương thức thanh toán
+    .accesskey = o
+autofill-addresses-title = Địa chỉ và nhiều hơn nữa
+autofill-addresses-header =
+    .aria-label = Địa chỉ và nhiều hơn nữa
+autofill-addresses-checkbox-message =
+    .label = Lưu và tự động điền địa chỉ
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Quản lý địa chỉ và nhiều hơn nữa
+    .accesskey = M
 
 ## Privacy Section - History
 
@@ -1497,6 +1521,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Chứng nhận
+certs-description = Cấu hình chứng chỉ mà { -brand-short-name } sử dụng để xác thực.
 certs-enable-ocsp =
     .label = Truy vấn máy chủ đáp ứng giao thức OCSP để xác minh hiệu lực của các chứng chỉ
     .accesskey = Q

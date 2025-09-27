@@ -21,3 +21,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Đừng hiện lại nữa
     .accesskey = D
 sandbox-unprivileged-namespaces-howtofix = Làm thế nào để giải quyết vấn đề này
+sandbox-content-disabled-warning = Hộp cát bảo mật đã bị vô hiệu hóa. Cấu hình của bạn không được hỗ trợ và kém an toàn hơn.

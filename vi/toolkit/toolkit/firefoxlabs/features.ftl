@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Đặt bộ hẹn giờ 
 experimental-features-newtab-widget-lists-and-timer =
     .label = Danh sách và bộ đếm giờ trên { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Hãy luôn ghi nhớ danh sách việc cần làm khi mở một tab mới. Từ danh sách đóng gói đến danh sách mua sắm, hãy lên kế hoạch trong { -brand-product-name }. Đặt hẹn giờ để giúp bạn tập trung, nhắc nhở bạn đi đúng hướng hoặc nạp lại năng lượng. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Tìm kiếm lịch sử theo ngữ nghĩa
+experimental-features-semantic-history-search-description = Sử dụng mô hình học máy (Machine Learning) cục bộ để đề xuất các mục từ lịch sử có liên quan đến tìm kiếm của bạn dựa trên sự hiểu biết ngôn ngữ tự nhiên trong thanh địa chỉ { -brand-product-name }. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
