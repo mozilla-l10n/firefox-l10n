@@ -640,6 +640,9 @@ newtab-widget-lists-input-menu-move-up = להזיז מעלה
 newtab-widget-lists-input-menu-move-down = להזיז מטה
 newtab-widget-lists-input-menu-delete = מחיקה
 newtab-widget-lists-input-menu-edit = עריכה
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + יצירת רשימה חדשה
 newtab-widget-lists-name-label-default =
     .label = רשימת משימות
 newtab-widget-lists-name-placeholder-default =

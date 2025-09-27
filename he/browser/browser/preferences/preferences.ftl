@@ -1070,6 +1070,13 @@ autofill-saved-payment-methods-button = אמצעי תשלום שמורים
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = לדרוש פרטי התחברות של המכשיר כדי למלא ולנהל אמצעי תשלום
     .accesskey = ד
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = לדרוש פרטי התחברות של המכשיר כדי למלא אוטומטית ולנהל אמצעי תשלום
+    .accesskey = פ
+autofill-addresses-title = כתובות ועוד
+autofill-addresses-header =
+    .aria-label = כתובות ועוד
 
 ## Privacy Section - History
 
