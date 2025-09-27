@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Configure un temporizado
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listas y temporizadores en { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Mantenga su lista de tareas pendientes al abrir una nueva pestaña. Desde listas de empaque hasta listas de compras, haga sus planes en { -brand-product-name }. Configure un temporizador para mantenerse enfocado, dar un empujoncito para mantenerse en el camino correcto o recordarle que recargue energías. <a data-l10n-name="connect">Compartir opinión</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Búsqueda semántica en el historial
+experimental-features-semantic-history-search-description = Use un modelo local de Machine Learning para sugerir entradas del historial que estén relacionadas con las búsquedas según la comprensión del lenguaje natural en la barra de direcciones de { -brand-product-name }. <a data-l10n-name="connect">Compartir opinión</a>
