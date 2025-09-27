@@ -1082,6 +1082,19 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = Administrar métodos de pago
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Requerir inicio de sesión en el dispositivo para autocompletar y administrar métodos de pago
+    .accesskey = o
+autofill-addresses-title = Direcciones y más
+autofill-addresses-header =
+    .aria-label = Direcciones y más
+autofill-addresses-checkbox-message =
+    .label = Guardar y autocompletar direcciones
+    .accesskey = s
+autofill-addresses-manage-addresses-button =
+    .label = Administrar direcciones y más
+    .accesskey = m
 
 ## Privacy Section - History
 
@@ -1524,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-description = Configurar los certificados que { -brand-short-name } usa para la autenticación.
 certs-enable-ocsp =
     .label = Solicitar a los servidores de respuesta de OCSP que confirmen la validez actual de los certificados
     .accesskey = O
