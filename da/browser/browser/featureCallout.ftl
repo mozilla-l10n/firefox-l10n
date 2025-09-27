@@ -112,6 +112,10 @@ fxa-adoption-passwords-subtitle = Beskyt dine adgangskoder ved at kryptere og sy
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Tilmeld dig
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Behold dine yndlingsfeeds i din proceslinje
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Mist ikke alt, hvad du har gemt, når du skifter til Windows 11.

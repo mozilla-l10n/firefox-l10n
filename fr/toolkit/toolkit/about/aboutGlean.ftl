@@ -128,4 +128,9 @@ about-glean-no-data-to-display = Aucune donnée à afficher.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Les statistiques étiquetées ne sont pas encore prises en charge dans la vue <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Type de statistique inconnu.
+about-glean-enable-new-features-promo =
+    .message = Nous sommes en train d’ajouter de nouvelles fonctionnalités ! Elles sont toujours en développement, mais cliquez sur le bouton d’action ici si vous souhaitez les activer.
+    .heading = De nouvelles fonctionnalités arrivent !
+about-glean-enable-new-features-button = Activer les nouvelles fonctionnalités
+about-glean-disable-new-features-button = Désactiver les nouvelles fonctionnalités
 about-glean-about-data-explanation = Pour visualiser la liste des données collectées, veuillez consulter le <a data-l10n-name="glean-dictionary-link">dictionnaire de { -glean-brand-name }</a>

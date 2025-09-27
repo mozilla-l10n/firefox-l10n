@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Sombre
     .title = Utiliser un thème sombre pour les arrière-plans et le contenu des sites web.
+web-appearance-group =
+    .aria-label = Apparence des sites web
 preferences-web-appearance-choice-auto = Automatique
 preferences-web-appearance-choice-light = Clair
 preferences-web-appearance-choice-dark = Sombre
@@ -1071,6 +1073,28 @@ autofill-saved-payment-methods-button = Moyens de paiement enregistrés
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Exiger la connexion à l’appareil pour renseigner et gérer les moyens de paiement
     .accesskey = x
+autofill-payment-methods-title = Moyens de paiement
+autofill-payment-methods-header =
+    .aria-label = Moyens de paiement
+autofill-payment-methods-checkbox-message-2 =
+    .label = Enregistrer et renseigner automatiquement les informations de paiement
+    .accesskey = E
+autofill-payment-methods-manage-payments-button =
+    .label = Gérer les moyens de paiement
+    .accesskey = G
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Exiger la connexion à l’appareil pour renseigner automatiquement et gérer les moyens de paiement
+    .accesskey = E
+autofill-addresses-title = Adresses et autres informations
+autofill-addresses-header =
+    .aria-label = Adresses et autres informations
+autofill-addresses-checkbox-message =
+    .label = Enregistrer et remplir automatiquement les adresses
+    .accesskey = E
+autofill-addresses-manage-addresses-button =
+    .label = Gérer les adresses et les autres informations
+    .accesskey = G
 
 ## Privacy Section - History
 
@@ -1513,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificats
+certs-description = Configurer les certificats que { -brand-short-name } utilise pour l’authentification.
 certs-enable-ocsp =
     .label = Interroger le répondeur OCSP pour confirmer la validité de vos certificats
     .accesskey = I

@@ -73,3 +73,6 @@ experimental-features-newtab-widget-timer-description = Réglez un minuteur pour
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listes et minuteur dans { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Gardez votre liste de tâches en tête lorsque vous ouvrez un nouvel onglet. Qu’il s’agisse de listes pour faire vos valises ou faire les courses, concrétisez vos projets dans { -brand-product-name }. Réglez un minuteur pour maintenir votre concentration, vous encourager à ne pas vous égarer, ou vous rappeler de faire une pause. <a data-l10n-name="connect">Donnez votre avis</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Recherche sémantique dans l’historique
