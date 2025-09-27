@@ -624,6 +624,8 @@ pdfjs-editor-edit-comment-manager-cancel-button = Avbryt
 pdfjs-editor-edit-comment-manager-save-button = Lagre
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = Rediger kommentar
+pdfjs-editor-edit-comment-dialog-cancel-button = Avbryt
+pdfjs-editor-edit-comment-dialog-save-button = Lagre
 
 ## Edit a comment button in the editor toolbar
 
