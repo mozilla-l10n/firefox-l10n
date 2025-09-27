@@ -272,6 +272,11 @@ main-context-menu-image-desc =
     .accesskey = D
 # Variables
 #   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Tìm kiếm hình ảnh với { $engine }
+    .accesskey = e
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
 main-context-menu-visual-search =
     .label = Tìm kiếm hình ảnh với { $engine }
 main-context-menu-video-save-as =

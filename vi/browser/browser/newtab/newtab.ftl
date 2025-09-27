@@ -645,6 +645,9 @@ newtab-widget-lists-input-menu-move-up = Di chuyển lên
 newtab-widget-lists-input-menu-move-down = Di chuyển xuống
 newtab-widget-lists-input-menu-delete = Xóa
 newtab-widget-lists-input-menu-edit = Chỉnh sửa
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Tạo một danh sách mới
 newtab-widget-lists-name-label-default =
     .label = Danh sách nhiệm vụ
 newtab-widget-lists-name-placeholder-default =
