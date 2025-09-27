@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Peidio â dangos eto
     .accesskey = P
 sandbox-unprivileged-namespaces-howtofix = Sut i ddatrys y mater hwn
+sandbox-content-disabled-warning = Mae'r blwch tywod diogelwch wedi'i analluogi. Nid yw eich ffurfweddiad yn cael ei gefnogi ac mae'n llai diogel.

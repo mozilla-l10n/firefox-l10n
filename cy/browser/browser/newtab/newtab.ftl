@@ -651,6 +651,9 @@ newtab-widget-lists-input-menu-move-up = Symud i fyny
 newtab-widget-lists-input-menu-move-down = Symud i lawr
 newtab-widget-lists-input-menu-delete = Dileu
 newtab-widget-lists-input-menu-edit = Golygu
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Creu rhestr newydd
 newtab-widget-lists-name-label-default =
     .label = Rhestr tasgau
 newtab-widget-lists-name-placeholder-default =

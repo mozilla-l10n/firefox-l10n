@@ -172,6 +172,11 @@ about-glean-no-data-to-display = Dim data i'w ddangos.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Nid yw metrigau wedi'u labelu'n cael eu cefnogi eto yn y wedd <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Math metrig anhysbys.
+about-glean-enable-new-features-promo =
+    .message = Rydym yn gweithio ar ychwanegu nodweddion newydd! Maen nhw'n dal i gael eu datblygu, ond cliciwch y botwm gweithredu yma os hoffech eu galluogi.
+    .heading = Mae nodweddion newydd ar eu ffordd!
+about-glean-enable-new-features-button = Galluogi nodweddion newydd
+about-glean-disable-new-features-button = Analluogi nodweddion newydd
 about-glean-about-data-explanation =
     I bori drwy'r rhestr o ddata a gasglwyd, edrychwch ar y
     <a data-l10n-name="glean-dictionary-link"> { -glean-brand-name } Geiriadur</a>.

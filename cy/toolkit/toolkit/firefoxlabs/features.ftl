@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Gosodwch yr amserydd i g
 experimental-features-newtab-widget-lists-and-timer =
     .label = Rhestrau ac amseryddion ar { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Cadwch eich rhestr tasgau ar flaen eich meddwl pan fyddwch chi'n agor tab newydd. O restrau pacio i restrau siopa, gwnewch eich cynlluniau yn { -brand-product-name }. Gosodwch amserydd er mwyn canolbwyntio, eich cadw ar y trywydd iawn, neu eich atgoffa i orffwys. <a data-l10n-name="connect">Rhannu adborth</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Chwiliad Hanes Semantig
+experimental-features-semantic-history-search-description = Defnyddiwch fodel Dysgu Pririanyddol lleol i awgrymu cofnodion o hanes sy'n gysylltiedig â'ch chwilio yn seiliedig ar ddealltwriaeth iaith naturiol ym mDefnyddiwch fodel Dysgu Peirianyddol lleol i awgrymu cofnodion o hanes sy'n gysylltiedig â'ch chwilio yn seiliedig ar ddealltwriaeth iaith naturiol ym mar cyfeiriad { -brand-product-name }. <a data-l10n-name="connect">Rhannu adborth</a>

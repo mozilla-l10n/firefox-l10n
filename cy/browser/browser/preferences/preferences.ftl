@@ -268,6 +268,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Tywyll
     .title = Defnyddio gwedd dywyll ar gyfer cefndiroedd gwefan a chynnwys.
+web-appearance-group =
+    .aria-label = Gwedd gwefan
 preferences-web-appearance-choice-auto = Awtomatig
 preferences-web-appearance-choice-light = Golau
 preferences-web-appearance-choice-dark = Tywyll
@@ -1087,6 +1089,28 @@ autofill-saved-payment-methods-button = Dulliau talu wedi'u cadw
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Gofyn am fewngofnodi dyfais i lenwi a rheoli dulliau talu
     .accesskey = t
+autofill-payment-methods-title = Dulliau talu
+autofill-payment-methods-header =
+    .aria-label = Dulliau talu
+autofill-payment-methods-checkbox-message-2 =
+    .label = Cadw ac awtolenwi manylion talu
+    .accesskey = t
+autofill-payment-methods-manage-payments-button =
+    .label = Rheoli dulliau talu
+    .accesskey = d
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Disgwyl i ddyfais fewngofnodi i awtolenwi a rheoli dulliau talu
+    .accesskey = f
+autofill-addresses-title = Cyfeiriadau a mwy
+autofill-addresses-header =
+    .aria-label = Cyfeiriadau a mwy
+autofill-addresses-checkbox-message =
+    .label = Cadw ac awtolenwi cyfeiriadau
+    .accesskey = C
+autofill-addresses-manage-addresses-button =
+    .label = Rheoli cyfeiriadau a mwy
+    .accesskey = R
 
 ## Privacy Section - History
 
@@ -1529,6 +1553,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Tystysgrifau
+certs-description = Ffurfweddu'r tystysgrifau mae { -brand-short-name } yn eu defnyddio ar gyfer dilysu.
 certs-enable-ocsp =
     .label = Gofyn i weinyddion atebwr OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau
     .accesskey = G
