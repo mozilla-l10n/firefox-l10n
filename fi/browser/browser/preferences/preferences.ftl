@@ -1082,6 +1082,13 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = Hallitse maksutapoja
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Vaadi laitekirjautuminen maksutapojen automaattiseen täyttöön ja hallintaan
+    .accesskey = o
+autofill-addresses-checkbox-message =
+    .label = Tallenna ja täytä osoitteet automaattisesti
+    .accesskey = s
 
 ## Privacy Section - History
 
@@ -1152,6 +1159,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Sivustorajat ylittävät seuraimet
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Sivustorajat ylittävät seurainevästeet
+sitedata-option-block-cross-site-cookies2 =
+    .label = Eristä sivustorajat ylittävät evästeet
 sitedata-option-block-cross-site-cookies =
     .label = Sivustorajat ylittävät evästeet, eristä muut sivustorajat ylittävät evästeet
 sitedata-option-block-unvisited =
@@ -1276,6 +1285,7 @@ content-blocking-private-windows = Seurantaan tarkoitettu sisältö yksityisiss�
 content-blocking-cross-site-cookies-in-all-windows2 = Sivustorajat ylittävät evästeet kaikissa ikkunoissa
 content-blocking-cross-site-tracking-cookies = Sivustorajat ylittävät seurainevästeet
 content-blocking-all-cross-site-cookies-private-windows = Sivustorajat ylittävät evästeet yksityisissä ikkunoissa
+content-blocking-isolate-cross-site-cookies = Eristä sivustorajat ylittävät evästeet
 content-blocking-cross-site-tracking-cookies-plus-isolate = Sivustorajat ylittävät seuraimet, eristä jäljelle jäävät evästeet
 content-blocking-social-media-trackers = Sosiaalisen median seuraimet
 content-blocking-all-cookies = Kaikki evästeet
@@ -1521,6 +1531,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Varmenteet
+certs-description = Määritä { -brand-short-name }in todennukseen käyttämät varmenteet.
 certs-enable-ocsp =
     .label = Vahvista varmenteiden kelpoisuus OCSP-vastaajapalvelimilta
     .accesskey = C

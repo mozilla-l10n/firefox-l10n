@@ -25,3 +25,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Älä näytä uudelleen
     .accesskey = Ä
 sandbox-unprivileged-namespaces-howtofix = Kuinka korjata tämä ongelma
+sandbox-content-disabled-warning = Suojauksen hiekkalaatikko on poistettu käytöstä. Kokoonpanoasi ei tueta, ja se on vähemmän turvallinen.

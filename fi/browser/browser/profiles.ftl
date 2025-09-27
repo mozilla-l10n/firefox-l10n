@@ -172,6 +172,8 @@ heart-avatar-alt =
     .alt = Sydän
 heart-rate-avatar-alt =
     .alt = Syke
+clock-avatar-alt =
+    .alt = Kello
 leaf-avatar-alt =
     .alt = Lehti
 # Message refers to a text message, not a traditional letter/envelope message
@@ -217,6 +219,7 @@ leaf-avatar = Lehti
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Viesti
 musical-note-avatar = Nuotti
+picture-avatar = Kuva
 # Present refers to a gift box, not the current time period
 present-avatar = Lahja
 shopping-avatar = Ostoskärryt
