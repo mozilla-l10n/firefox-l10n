@@ -23,3 +23,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = לא להציג שוב
     .accesskey = ל
 sandbox-unprivileged-namespaces-howtofix = כיצד לתקן בעיה זו
+sandbox-content-disabled-warning = ארגז החול של האבטחה מושבת. התצורה שלך אינה נתמכת ופחות מאובטחת.
