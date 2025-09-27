@@ -1077,6 +1077,12 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Төлем әдістерін автотолтыру және басқару үшін құрылғыға кіруді талап ету
     .accesskey = о
+autofill-addresses-title = Адрестер және т.б
+autofill-addresses-header =
+    .aria-label = Адрестер және т.б
+autofill-addresses-checkbox-message =
+    .label = Адрестерді сақтау және автотолтыру
+    .accesskey = с
 
 ## Privacy Section - History
 

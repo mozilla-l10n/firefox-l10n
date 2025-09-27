@@ -25,6 +25,11 @@ experimental-features-group-webpage-display =
     .label = Веб-парақтың көрсетілімі
 experimental-features-group-customize-browsing =
     .label = Шолуыңызды баптаңыз
+experimental-features-group-productivity =
+    .label = Өнімділік
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Бүйір панеліндегі парольдер
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Жаңа бет үшін таңдауыңызша тұсқағазды немесе түсті таңдау
