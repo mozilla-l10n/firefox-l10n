@@ -96,6 +96,7 @@ permissions-microphone-settings =
 permissions-speaker-settings =
     .label = سامووا…
     .accesskey = t
+permissions-notification = وارسۊویا
 permissions-notification-settings =
     .label = سامووا…
     .accesskey = t
