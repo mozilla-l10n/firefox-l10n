@@ -25,3 +25,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Дигар нишон дода нашавад
     .accesskey = Д
 sandbox-unprivileged-namespaces-howtofix = Чӣ тавр ин масъаларо ислоҳ кардан мумкин аст
+sandbox-content-disabled-warning = Минтақаи санҷиши масъалаҳои амниятӣ ғайрифаъол аст. Танзимоти шумо дастгирӣ намешавад ва дараҷаи пасти бехатарӣ дорад.

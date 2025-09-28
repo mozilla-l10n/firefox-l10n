@@ -1091,6 +1091,9 @@ autofill-addresses-header =
 autofill-addresses-checkbox-message =
     .label = Нигоҳ доштан ва ба таври худкор пур кардани нишониҳо
     .accesskey = Н
+autofill-addresses-manage-addresses-button =
+    .label = Идоракунии нишониҳо ва ғайра
+    .accesskey = И
 
 ## Privacy Section - History
 
@@ -1533,6 +1536,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Гувоҳномаҳо
+certs-description = Танзим кардани гувоҳиномаҳое, ки «{ -brand-short-name }» барои санҷиши ҳаққоният истифода мебарад.
 certs-enable-ocsp =
     .label = Фиристодани дархостҳо ба серверҳои OCSP барои тасдиқ кардани эътиборнокии ҷории гувоҳномаҳо
     .accesskey = Ф

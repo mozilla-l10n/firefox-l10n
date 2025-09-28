@@ -150,4 +150,9 @@ about-glean-no-data-to-display = Ягон маълумот барои намои
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Нишондиҳандаҳои барчаспдор ҳоло дар намуди <code>about:glean</code> дастгирӣ карда намешаванд.
 about-glean-unknown-metric-type-warning = Навъи нишондиҳандаҳои номаълум.
+about-glean-enable-new-features-promo =
+    .message = Мо барои илова кардани хусусиятҳои нав кор карда истодаем! Онҳо ҳоло ҳам дар вазъи таҳияи фаъол қарор доранд, аммо агар шумо хоҳед, ки онҳоро фаъол созед, тугмаи амалро дар ин ҷой зер кунед.
+    .heading = Хусусиятҳои нав ба наздикӣ дастрас мешаванд!
+about-glean-enable-new-features-button = Фаъол кардани хусусиятҳои нав
+about-glean-disable-new-features-button = Ғайрифаъол кардани хусусиятҳои нав
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
