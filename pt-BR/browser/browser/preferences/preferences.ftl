@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Escuro
     .title = Usar uma aparência escura no fundo e conteúdo de sites.
+web-appearance-group =
+    .aria-label = Aparência de sites
 preferences-web-appearance-choice-auto = Automático
 preferences-web-appearance-choice-light = Claro
 preferences-web-appearance-choice-dark = Escuro
@@ -1071,6 +1073,28 @@ autofill-saved-payment-methods-button = Métodos de pagamento salvos
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Exigir autenticação do dispositivo para preencher e gerenciar métodos de pagamento
     .accesskey = o
+autofill-payment-methods-title = Métodos de pagamento
+autofill-payment-methods-header =
+    .aria-label = Métodos de pagamento
+autofill-payment-methods-checkbox-message-2 =
+    .label = Salvar e preencher automaticamente informações de pagamento
+    .accesskey = g
+autofill-payment-methods-manage-payments-button =
+    .label = Gerenciar métodos de pagamento
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Exigir autenticação do dispositivo para preencher automaticamente e gerenciar métodos de pagamento
+    .accesskey = o
+autofill-addresses-title = Endereços e outras informações
+autofill-addresses-header =
+    .aria-label = Endereços e outras informações
+autofill-addresses-checkbox-message =
+    .label = Salvar e preencher endereços automaticamente
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Gerenciar endereços e outras informações
+    .accesskey = G
 
 ## Privacy Section - History
 
@@ -1513,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-description = Configurar os certificados que o { -brand-short-name } usa para autenticação.
 certs-enable-ocsp =
     .label = Consultar servidores OCSP para confirmar a validade atual dos certificados
     .accesskey = o

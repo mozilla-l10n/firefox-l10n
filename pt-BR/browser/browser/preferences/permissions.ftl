@@ -95,6 +95,9 @@ permissions-exceptions-https-only-desc2 = Você pode desativar o modo somente HT
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
+permissions-exceptions-popup-window3 =
+    .title = Sites permitidos - Abertura de janelas e redirecionamento de terceiros
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Você pode especificar quais sites têm permissão para abrir janelas e ser redirecionados por frames de terceiros.
 
 ## Exceptions - Pop-ups
