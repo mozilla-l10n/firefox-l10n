@@ -349,3 +349,16 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Simpan peramban favorit And
 
 windows-10-eos-sync-spotlight-title = Meningkatkan dari Windows 10 segera?
 windows-10-eos-sync-spotlight-subtitle = Cadangkan kata sandi dan markah Anda sehingga Anda siap untuk melompat ke perangkat apa pun.
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Pelajari lebih lanjut
+etp-strict-exceptions-infobar-button = Terapkan perbaikan
+    .accesskey = a
+etp-strict-exceptions-infobar-not-now = Jangan sekarang
+    .accesskey = n

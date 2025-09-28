@@ -69,5 +69,8 @@ newtab-widget-lists-input-menu-edit = آلشت
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-warning = وارسۊویا کۊر هڌن
+newtab-widget-timer-menu-notifications = کۊر کردن وارسۊویا
+newtab-widget-timer-menu-notifications-on = رۊشن کردن وارسۊویا
 newtab-widget-timer-menu-learn-more = قلوه دووسته بۊین
 newtab-promo-card-cta = قلوه دووسته بۊین

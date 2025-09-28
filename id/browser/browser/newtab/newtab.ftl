@@ -549,11 +549,20 @@ newtab-custom-wallpaper-title = Wallpaper kustom ada di sini
 newtab-custom-wallpaper-subtitle = Unggah wallpaper sendiri atau pilih warna kustom untuk menjadikan { -brand-product-name } lebih personal.
 newtab-custom-wallpaper-cta = Coba sekarang
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-cta = Coba sekarang
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Unduh { -brand-product-name } untuk seluler
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Pindai kode untuk menjelajah dengan aman saat bepergian.
+
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-title = Favorit Anda di ujung jari Anda
+newtab-shortcuts-highlight-subtitle = Tambahkan pintasan untuk menjaga situs favorit Anda dengan sekali klik.
 
 ## Strings for reporting ads and content
 
@@ -563,5 +572,42 @@ newtab-report-ads-reason-not-interested =
     .label = Saya tidak tertarik
 newtab-report-ads-reason-inappropriate =
     .label = Tidak pantas
+newtab-report-content-wrong-category =
+    .label = Kategori salah
+newtab-report-content-outdated =
+    .label = Kedaluwarsa
 newtab-report-cancel = Batal
 newtab-report-submit = Kirim
+newtab-toast-thanks-for-reporting =
+    .message = Terima kasih telah melaporkan ini.
+
+## Strings for trending searches
+
+newtab-trending-searches-learn-more = Pelajari lebih lanjut
+
+## Strings for task / to-do list productivity widget
+
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Baru
+newtab-widget-lists-label-beta =
+    .label = Beta
+newtab-widget-task-list-menu-copy = Salin
+newtab-widget-lists-menu-edit = Sunting nama daftar
+newtab-widget-lists-menu-create = Buat daftar baru
+newtab-widget-lists-menu-delete = Hapus daftar ini
+newtab-widget-lists-menu-copy = Salin daftar ke papan klip
+newtab-widget-lists-menu-hide = Sembunyikan semua daftar
+newtab-widget-lists-menu-learn-more = Pelajari lebih lanjut
+newtab-widget-lists-input-menu-open-link = Buka tautan
+newtab-widget-lists-input-menu-move-up = Pindah ke atas
+newtab-widget-lists-input-menu-move-down = Pindah ke bawah
+newtab-widget-lists-input-menu-delete = Hapus
+newtab-widget-lists-input-menu-edit = Sunting
+newtab-widget-lists-name-label-default =
+    .label = Daftar tugas
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Daftar tugas
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Daftar baru
