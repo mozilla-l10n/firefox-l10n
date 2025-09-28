@@ -115,6 +115,8 @@ fxa-adoption-passwords-primary-button-label = Registrer deg
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-chat-callout-title = Chatt frå oppgåvelinja di
+taskbar-tabs-value-prop-callout-title = Legg til denne nettstaden i oppgåvelinja
+taskbar-tabs-value-prop-callout-subtitle = Start han i eit eige vindauge og eit forenkla grensesnitt med eit enkelt klikk.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -135,6 +137,8 @@ windows-10-eos-sync-tour-title-1 = For mange faner? Rydd opp med fanegrupper.
 windows-10-eos-sync-tour-subtitle-1 = Dra éi fane oppå ei anna for å opprette ei gruppe og halde ting organisert.
 windows-10-eos-sync-tour-title-2 = Gjer deg klar for Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synkroniser bokmerka, passorda og innstillingane dine for å sikringskopiere dei før du byter.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Vis færre tilrådingar
 windows-10-eos-sync-dismiss-button-label = Ignorer
 windows-10-eos-sync-callout-primary-advance-button-label = Neste
 

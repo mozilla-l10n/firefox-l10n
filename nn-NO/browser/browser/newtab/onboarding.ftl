@@ -479,6 +479,7 @@ desktop-to-mobile-qr-code-alt =
 
 ## Restore from Backup Flow about:welcome screens
 
+restore-from-backup-secondary-top-button = Gjenopprett frå sikkerheitskopi
 restore-from-backup-secondary-button = Ikkje gjenopprett
 
 ## Restored from Backup spotlight

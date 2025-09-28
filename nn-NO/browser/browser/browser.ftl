@@ -1380,6 +1380,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Vis «{ $popupURI }»
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Vis «{ $redirectURI }»
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1426,6 +1430,8 @@ trustpanel-etp-description-disabled = { -brand-product-name } meiner at selskap 
 trustpanel-connection-label-secure = Tilkoplinga er trygg
 trustpanel-connection-label-insecure = Tilkoplinga er ikkje trygg
 trustpanel-header-enabled = { -brand-product-name } er på vakt
+trustpanel-description-enabled2 = Du er verna. Om vi oppdagar noko seier vi ifrå.
+trustpanel-header-enabled-insecure = Ver forsiktig på denne nettstaden
 trustpanel-description-enabled = Du er verna. Om vi oppdagar noko seier vi ifrå
 trustpanel-header-disabled = Du har slått av vern
 trustpanel-description-disabled = { -brand-product-name } er deaktivert. Vi foreslår at du skrur på vernet igjen.
