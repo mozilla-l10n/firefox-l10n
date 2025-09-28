@@ -8,3 +8,5 @@
 permissions-site-notification-window2 =
     .title = سامووا-موجوزا وارسۊوی
     .style = { permissions-window2.style }
+permissions-site-notification-disable-label =
+    .label = درخاستا نۊ سی هشتن وارسۊویا ن مسدۊد کۊنین
