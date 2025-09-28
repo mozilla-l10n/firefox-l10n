@@ -1082,9 +1082,19 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = Ödeme yöntemlerini yönet
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Ödeme yöntemlerini otomatik doldurmak ve yönetmek için cihazdan giriş yapmayı zorunlu tut
+    .accesskey = Ö
 autofill-addresses-title = Adresler ve daha fazlası
 autofill-addresses-header =
     .aria-label = Adresler ve daha fazlası
+autofill-addresses-checkbox-message =
+    .label = Adresleri kaydedip otomatik doldur
+    .accesskey = A
+autofill-addresses-manage-addresses-button =
+    .label = Adresleri ve daha fazlasını yönet
+    .accesskey = d
 
 ## Privacy Section - History
 

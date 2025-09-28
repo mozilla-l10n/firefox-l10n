@@ -96,6 +96,7 @@ inactive-css-not-display-block-on-floated-fix = <strong>float</strong>’u silme
 inactive-css-only-non-grid-or-flex-item-fix = Elemanın kapsayıcısının <strong>display</strong> değerini <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> veya <strong>inline-grid</strong> dışında bir değerle değiştirmeyi veya <strong>float</strong> özelliğini kaldırmayı deneyin. { learn-more }
 inactive-css-not-block-fix = <strong>display:block</strong> veya <strong>float:left</strong> gibi özellikler eklemeyi deneyin. { learn-more }
 inactive-css-not-block-container-fix = <strong>display:block</strong>, <strong>display:inline-block</strong> veya <strong>display:flow-root</strong> eklemeyi deneyin. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> veya <strong>display:flow-root</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-floated-fix = <strong>float</strong> özelliğini <strong>none</strong> dışında bir değerle eklemeyi deneyin. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = <strong>position</strong> özelliğini <strong>static</strong> dışında bir şey yapmayı deneyin. { learn-more }
 inactive-css-only-replaced-elements-fix = Bu özelliği, değiştirilen bir elemana eklediğinizden emin olun. { learn-more }
