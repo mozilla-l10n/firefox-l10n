@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Puede desactivar el modo solo HTTPS para sitios web específicos. { -brand-short-name } no intentará cambiar la conexión a HTTPS seguro para esos sitios. Las excepciones no se aplican a las ventanas privadas.
 permissions-exceptions-https-only-desc2 = Puede desactivar el modo solo HTTPS para sitios web específicos. { -brand-short-name } no intentará actualizar la conexión a HTTPS seguro para esos sitios.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Sitios permitidos - Ventanas emergentes y redirecciones de terceros
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Puede especificar qué sitios web pueden abrir ventanas emergentes y ser redireccionados por marcos de terceros.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
@@ -167,6 +174,26 @@ permissions-site-camera-desc = Los siguientes sitios web han solicitado acceso a
 permissions-site-camera-disable-label =
     .label = Bloquear nuevas solicitudes de acceso a su cámara
 permissions-site-camera-disable-desc = Esto evitará que cualquier sitio web no listado arriba solicite permiso para acceder a su cámara. Bloquear el acceso a su cámara puede afectar a las características de algunos sitios web.
+
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Ajustes - Aplicaciones y servicios del dispositivo
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Estos sitios han solicitado acceso a aplicaciones y servicios en este dispositivo. Puede elegir permitir o bloquear sitios para que no hagan esto.
+permissions-site-localhost-disable-label =
+    .label = Bloquear nuevas solicitudes de acceso a aplicaciones y servicios en este dispositivo
+permissions-site-localhost-disable-desc = Esto evitará que cualquier sitio web no incluido en la lista solicite acceso a aplicaciones y servicios en este dispositivo. Hacer esto puede romper algunas características del sitio web.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Ajustes - Dispositivos de red local
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Estos sitios han solicitado acceso a aplicaciones y servicios en dispositivos conectados al Wi-Fi o red local. Puede elegir permitir o bloquear sitios para que no hagan esto.
+permissions-site-local-network-disable-label =
+    .label = Bloquear nuevas solicitudes de acceso a aplicaciones y servicios en dispositivos conectados a su Wi-Fi o red local.
+permissions-site-local-network-disable-desc = Esto evitará que cualquier sitio web no incluido en la lista solicite acceso a aplicaciones y servicios en  dispositivos conectados a su Wi-Fi  o red local. Hacer esto puede romper algunas características del sitio web.
 
 ## Site Permissions - Microphone
 

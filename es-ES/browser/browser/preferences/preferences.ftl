@@ -70,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Cerrar
+do-not-track-removal2 =
+    .label = Ya no admitimos la señal “No rastrear”
 
 ## Browser Restart Dialog
 
@@ -254,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Oscuro
     .title = Usar una apariencia oscura para los fondos y el contenido del sitio web.
+web-appearance-group =
+    .aria-label = Apariencia del sitio web
 preferences-web-appearance-choice-auto = Automático
 preferences-web-appearance-choice-light = Claro
 preferences-web-appearance-choice-dark = Oscuro
@@ -1069,6 +1073,28 @@ autofill-saved-payment-methods-button = Métodos de pago guardados
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Requerir inicio de sesión en el dispositivo para introducir y administrar métodos de pago
     .accesskey = o
+autofill-payment-methods-title = Métodos de pago
+autofill-payment-methods-header =
+    .aria-label = Métodos de pago
+autofill-payment-methods-checkbox-message-2 =
+    .label = Guardar y autocompletar métodos de pago
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Administrar métodos de pago
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Requerir inicio de sesión en el dispositivo para autocompletar y administrar métodos de pago
+    .accesskey = o
+autofill-addresses-title = Direcciones y más
+autofill-addresses-header =
+    .aria-label = Direcciones y más
+autofill-addresses-checkbox-message =
+    .label = Guardar y autocompletar direcciones
+    .accesskey = G
+autofill-addresses-manage-addresses-button =
+    .label = Administrar direcciones y más
+    .accesskey = A
 
 ## Privacy Section - History
 
@@ -1139,6 +1165,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Rastreadores entre sitios
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cookies de rastreo entre sitios
+sitedata-option-block-cross-site-cookies2 =
+    .label = Aislar cookies entre sitios
 sitedata-option-block-cross-site-cookies =
     .label = Cookies de rastreo de sitios cruzados, y aislamiento de otras cookies de sitios cruzados
 sitedata-option-block-unvisited =
@@ -1263,6 +1291,7 @@ content-blocking-private-windows = Rastreo de contenido en ventanas privadas
 content-blocking-cross-site-cookies-in-all-windows2 = Cookies de sitios cruzados en todas las ventanas
 content-blocking-cross-site-tracking-cookies = Cookies de rastreo entre sitios
 content-blocking-all-cross-site-cookies-private-windows = Cookies de sitios cruzados en ventanas privadas
+content-blocking-isolate-cross-site-cookies = Aislar cookies entre sitios
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies de rastreo de sitios cruzados, y aislamiento del resto de las cookies
 content-blocking-social-media-trackers = Rastreadores sociales
 content-blocking-all-cookies = Todas las cookies
