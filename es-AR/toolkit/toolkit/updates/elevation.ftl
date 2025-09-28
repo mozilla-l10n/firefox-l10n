@@ -25,3 +25,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = No mostrar nuevamente
     .accesskey = s
 sandbox-unprivileged-namespaces-howtofix = Cómo solucionar este problema
+sandbox-content-disabled-warning = El espacio aislado de seguridad está deshabilitado. La configuración actual no está soportada y es menos segura.
