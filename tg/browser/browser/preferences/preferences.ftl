@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Торик
     .title = Намуди зоҳирии торикро барои заминаҳо ва муҳтавои сомонаҳо истифода баред.
+web-appearance-group =
+    .aria-label = Намуди зоҳирии сомона
 preferences-web-appearance-choice-auto = Худкор
 preferences-web-appearance-choice-light = Равшан
 preferences-web-appearance-choice-dark = Торик
@@ -1070,6 +1072,25 @@ autofill-saved-payment-methods-button = Тарзҳои пардохти ниго
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Дархости ворид шудан дар дастгоҳ барои пур кардан ва идора намудани тарзҳои пардохт
     .accesskey = Д
+autofill-payment-methods-title = Тарзҳои пардохт
+autofill-payment-methods-header =
+    .aria-label = Тарзҳои пардохт
+autofill-payment-methods-checkbox-message-2 =
+    .label = Нигоҳ доштан ва ба таври худкор пур кардани маълумоти пардохт
+    .accesskey = Н
+autofill-payment-methods-manage-payments-button =
+    .label = Идоракунии тарзҳои пардохт
+    .accesskey = И
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Дархости воридшавӣ дар дастгоҳ барои ба таври худкор пур кардан ва идора намудани тарзҳои пардохт
+    .accesskey = Д
+autofill-addresses-title = Нишониҳо ва ғайра
+autofill-addresses-header =
+    .aria-label = Нишониҳо ва ғайра
+autofill-addresses-checkbox-message =
+    .label = Нигоҳ доштан ва ба таври худкор пур кардани нишониҳо
+    .accesskey = Н
 
 ## Privacy Section - History
 

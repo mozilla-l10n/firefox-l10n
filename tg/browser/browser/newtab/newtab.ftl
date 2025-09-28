@@ -644,6 +644,9 @@ newtab-widget-lists-input-menu-move-up = Ба боло гузоштан
 newtab-widget-lists-input-menu-move-down = Ба поён гузоштан
 newtab-widget-lists-input-menu-delete = Нест кардан
 newtab-widget-lists-input-menu-edit = Таҳрир кардан
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Эҷод кардани рӯйхати нав
 newtab-widget-lists-name-label-default =
     .label = Рӯйхати вазифаҳо
 newtab-widget-lists-name-placeholder-default =
