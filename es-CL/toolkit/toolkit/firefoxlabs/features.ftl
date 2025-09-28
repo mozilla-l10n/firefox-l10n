@@ -76,3 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = Mantén tu lis
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Búsqueda semántica de historial
+experimental-features-semantic-history-search-description = Utiliza un modelo de aprendizaje automático local para sugerir entradas del historial relacionadas con sus búsquedas según la comprensión del lenguaje natural en la barra de direcciones { -brand-product-name }. <a data-l10n-name="connect">Compartir comentarios</a>

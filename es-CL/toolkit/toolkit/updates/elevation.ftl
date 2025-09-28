@@ -21,3 +21,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = No volver a mostrar
     .accesskey = D
 sandbox-unprivileged-namespaces-howtofix = Cómo arreglar este problema
+sandbox-content-disabled-warning = El entorno de seguridad está deshabilitado. Tu configuración no es compatible y es menos segura.
