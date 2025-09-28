@@ -377,6 +377,10 @@ windows-10-eos-sync-callout-privacy-screen-2-title = Proteja sus contraseñas y 
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Hacer una copia de seguridad de { -brand-shorter-name } facilita llevar sus datos y configuración de privacidad con usted.
 windows-10-eos-sync-callout-privacy-info-button = Ver lo que está bloqueado
 windows-10-eos-callout-addons-title = Pruebe complementos: actualizaciones simples, grandes impactos
+windows-10-eos-callout-addons-subtitle = Estas extensiones se han elegido para ayudarle a mantenerse productivo, protegido y sin distracciones.
+windows-10-eos-callout-addons-primary-button = Vea nuestra selección
+windows-10-eos-sync-callout-addons-title = No pierda sus complementos al actualizar desde Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sincronice ahora para que sus complementos de { -brand-product-name } estén siempre disponibles, incluso después de cambiar de dispositivo.
 windows-10-eos-sync-callout-next-button = Siguiente
 windows-10-eos-sync-callout-get-started-button = Comenzar
 
@@ -395,4 +399,9 @@ windows-10-eos-feature-toast-dismiss-button = Descartar
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Una protección contra el rastreo estricta puede causar errores en los sitios web .</strong> Solucione problemas comunes desbloqueando elementos esenciales que podrían contener rastreadores.
 etp-strict-exceptions-infobar-learn-more = Saber más
+etp-strict-exceptions-infobar-button = Aplicar correcciones
+    .accesskey = A
+etp-strict-exceptions-infobar-not-now = Ahora no
+    .accesskey = n

@@ -1388,6 +1388,13 @@ redirect-warning-with-popup-message =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventanas emergentes.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventana emergente y redireccionara.
+       *[other] { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventanas emergentes y redireccionara.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1453,6 +1460,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } piensa que las emp
 trustpanel-connection-label-secure = Conexión segura
 trustpanel-connection-label-insecure = Conexión no segura
 trustpanel-header-enabled = { -brand-product-name } está en guardia
+trustpanel-description-enabled2 = Está protegido. Si detectamos algo, se lo haremos saber.
+trustpanel-header-enabled-insecure = Tenga cuidado en este sitio
+trustpanel-description-enabled-insecure = { -brand-product-name } notó algo sospechoso.
 trustpanel-description-enabled = Está protegido. Si detectamos algo, se lo haremos saber.
 trustpanel-header-disabled = Ha desactivado las protecciones
 trustpanel-description-disabled = { -brand-product-name } está fuera de servicio. Le sugerimos volver a activar las protecciones.
