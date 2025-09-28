@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Kembalikan ke perilaku
 ##
 
 policy-LocalFileLinks = Izinkan situs web tertentu untuk bertaut dengan berkas lokal.
+policy-LocalNetworkAccess = Aktifkan atau nonaktifkan pemeriksaan akses jaringan lokal.
 policy-ManagedBookmarks = Mengonfigurasi daftar markah yang dikelola oleh administrator yang tidak dapat diubah oleh pengguna.
 policy-ManualAppUpdateOnly = Izinkan pembaruan manual saja dan jangan beri tahu pengguna tentang pembaruan.
 policy-PrimaryPassword = Membutuhkan atau mencegah penggunaan Sandi Utama.
@@ -141,6 +142,7 @@ policy-SupportMenu = Tambahkan item menu dukungan khusus pada menu bantuan.
 policy-TranslateEnabled = Aktifkan atau nonaktifkan terjemahan laman web.
 policy-UserMessaging = Jangan tampilkan pesan tertentu kepada pengguna.
 policy-UseSystemPrintDialog = Cetak menggunakan dialog sistem.
+policy-VisualSearchEnabled = Aktifkan atau nonaktifkan pencarian visual.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokir situs web agar tidak dikunjungi. Lihat dokumentasi lebih lanjut untuk formatnya.
 policy-Windows10SSO = Izinkan sistem masuk tunggal Windows untuk akun Microsoft, kantor, dan sekolah.

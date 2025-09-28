@@ -34,6 +34,17 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Hapus
+edit-profile-page-avatar-selector-opener-link = Sunting
+avatar-selector-icon-tab = Ikon
+avatar-selector-custom-tab = Ubahan
+avatar-selector-cancel-button =
+    .label = Batal
+avatar-selector-save-button =
+    .label = Simpan
+avatar-selector-upload-file = Unggah berkas
+avatar-selector-drag-file = Atau seret berkas ke sini
+avatar-selector-add-image = Tambahkan gambar
+avatar-selector-crop = Pangkas
 edit-profile-page-no-name = Beri nama profil ini untuk membantu Anda menemukannya nanti. Ubah namanya kapan saja.
 edit-profile-page-duplicate-name = Nama profil sudah digunakan. Coba nama baru.
 edit-profile-page-profile-saved = Disimpan
@@ -82,6 +93,8 @@ profiles-light-theme = Terang
 profiles-dark-theme = Gelap
 # The default system theme
 profiles-system-theme = Sistem
+profiles-system-theme-title =
+    .title = Terapkan tema sistem
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Marigold kuning
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -96,6 +109,15 @@ profiles-ocean-theme-2 = Biru laut
 profiles-terracotta-theme-2 = Merah bata
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Hijau lumut
+profiles-gray-theme = Abu-abu
+profiles-gray-theme-title =
+    .title = Terapkan tema abu-abu
+profiles-yellow-theme = Kuning
+profiles-yellow-theme-title =
+    .title = Terapkan tema kuning
+profiles-orange-theme = Jingga
+profiles-red-theme = Merah
+profiles-pink-theme = Merah Jambu
 
 ## Alternative text for default profile icons
 
@@ -103,6 +125,9 @@ book-avatar-alt =
     .alt = Buku
 briefcase-avatar-alt =
     .alt = Tas Kerja
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Kanvas
 flower-avatar-alt =
     .alt = Bunga
 heart-avatar-alt =

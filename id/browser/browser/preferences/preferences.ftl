@@ -736,6 +736,7 @@ search-keyword-warning-title = Kata Kunci Ganda
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Anda telah memilih kata kunci yang sama dengan "{ $name }". Silakan pilih kata lain.
 search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sama dengan nama Markah. Silakan pilih kata lain.
+remove-engine-remove = Buang
 
 ## Containers Section
 
@@ -1046,6 +1047,28 @@ autofill-saved-payment-methods-button = Metode pembayaran tersimpan
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Wajibkan info masuk perangkat untuk mengisi dan mengelola metode pembayaran
     .accesskey = W
+autofill-payment-methods-title = Metode pembayaran
+autofill-payment-methods-header =
+    .aria-label = Metode pembayaran
+autofill-payment-methods-checkbox-message-2 =
+    .label = Simpan dan isi otomatis info pembayaran
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Kelola metode pembayaran
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Wajibkan masuk perangkat untuk mengisi otomatis dan mengelola metode pembayaran
+    .accesskey = o
+autofill-addresses-title = Alamat dan lainnya
+autofill-addresses-header =
+    .aria-label = Alamat dan lainnya
+autofill-addresses-checkbox-message =
+    .label = Simpan dan isi otomatis alamat
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Kelola alamat dan lainnya
+    .accesskey = m
 
 ## Privacy Section - History
 
@@ -1116,6 +1139,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Pelacak lintas situs
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Kuki pelacak lintas situs
+sitedata-option-block-cross-site-cookies2 =
+    .label = Isolasikan kuki lintas situs
 sitedata-option-block-cross-site-cookies =
     .label = Kuki pelacak lintas situs dan mengisolasi kuki lintas situs lainnya
 sitedata-option-block-unvisited =
@@ -1240,6 +1265,7 @@ content-blocking-private-windows = Melacak konten di Jendela Pribadi
 content-blocking-cross-site-cookies-in-all-windows2 = Kuki lintas situs di semua jendela
 content-blocking-cross-site-tracking-cookies = Kuki pelacakan lintas situs
 content-blocking-all-cross-site-cookies-private-windows = Kuki lintas situs di Jendela Pribadi
+content-blocking-isolate-cross-site-cookies = Isolasikan kuki lintas situs
 content-blocking-cross-site-tracking-cookies-plus-isolate = Kuki pelacak lintas situs, dan isolasi kuki tersisa
 content-blocking-social-media-trackers = Pelacak media sosial
 content-blocking-all-cookies = Semua kuki

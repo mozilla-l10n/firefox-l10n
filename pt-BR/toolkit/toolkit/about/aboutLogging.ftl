@@ -115,6 +115,8 @@ about-logging-save-error = Aconteceu um erro ao salvar o arquivo: { $errorText }
 # Variables:
 #   $date (date) - The date and time when the profile was uploaded
 about-logging-uploaded-profile-name = Profile { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Profiles enviados
+about-logging-no-uploaded-profiles = Nenhum profile foi enviado ainda.
 about-logging-delete-uploaded-profile = Excluir
 about-logging-view-uploaded-profile = Ver perfil
 about-logging-delete-profile-confirm-title = Excluir perfil
