@@ -611,3 +611,15 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Daftar baru
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-label-play =
+    .label = Putar
+newtab-widget-timer-label-pause =
+    .label = Jeda
+newtab-widget-timer-menu-notifications = Matikan notifikasi
+newtab-widget-timer-menu-notifications-on = Hidupkan notifikasi
+newtab-widget-timer-menu-learn-more = Pelajari lebih lanjut
+newtab-promo-card-title = Dukung { -brand-product-name }
