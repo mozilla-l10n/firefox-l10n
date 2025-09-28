@@ -47,3 +47,4 @@ taskbar-tab-audio-unmute =
 taskbar-tab-title-default = { $name } no { -brand-full-name }
 taskbar-tab-title-container = { $name } ({ $container }) no { -brand-full-name }
 taskbar-tab-title-profile = { $name } em { $profile } - { -brand-full-name }
+taskbar-tab-title-container-profile = { $name } ({ $container }) em { $profile } — { -brand-full-name }

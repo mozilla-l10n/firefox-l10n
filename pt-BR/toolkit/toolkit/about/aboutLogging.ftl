@@ -101,6 +101,9 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartil
 about-logging-upload-error = Aconteceu um erro ao enviar o profile: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Ocorreu um erro ao armazenar o profile enviado: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Aconteceu um erro ao salvar o arquivo: { $errorText }
 
 ## Uploaded Profiles section
