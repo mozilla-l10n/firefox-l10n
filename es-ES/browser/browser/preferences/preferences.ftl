@@ -1338,6 +1338,7 @@ content-blocking-baseline-label = Corregir problemas importantes del sitio (reco
 content-blocking-convenience-label = Corregir problemas menores del sitio
 content-blocking-exceptions-subheader = Corregir problemas del sitio
 content-blocking-baseline-uncheck-warning-dialog-title = ¿Está seguro de querer desactivar las correcciones?
+content-blocking-baseline-uncheck-warning-dialog-body = Esta configuración ayuda a solucionar los problemas más comunes del sitio. Si se desactiva, es posible que algunos sitios no funcionen y { -brand-short-name } no podrá ayudar a solucionar esos problemas.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Desactivar correcciones
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Mantener las correcciones activadas
 content-blocking-reload-description = Tiene que recargar las pestañas para que los cambios surtan efecto.
@@ -1535,6 +1536,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-description = Configurar los certificados que { -brand-short-name } usa para la autenticación.
 certs-enable-ocsp =
     .label = Consultar a los servidores respondedores OCSP para confirmar la validez actual de los certificados
     .accesskey = u
