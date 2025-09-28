@@ -1312,6 +1312,7 @@ content-blocking-etp-standard-tcp-rollout-description = La protección total con
 content-blocking-etp-standard-tcp-rollout-learn-more = Saber más
 content-blocking-etp-standard-tcp-title = Incluye la protección total contra cookies , nuestra herramienta de privacidad más potente hasta ahora
 content-blocking-warning-title = ¡Atención!
+content-blocking-and-isolating-etp-warning-description-3 = Esta configuración puede provocar que algunos sitios web no muestren contenido o no funcionen correctamente. Ofrecemos excepciones opcionales para los sitios web que sabemos que pueden verse afectados por su configuración. Para reducir la probabilidad de que los sitios web fallen, active estas excepciones de seguimiento. Si un sitio web parece estar dañado, puede desactivar la protección contra el rastreo para que cargue todo el contenido e informar del problema para que podamos solucionarlo.
 content-blocking-warning-title-2 = Algunos sitios se pueden romper la estricta protección de seguimiento.
 content-blocking-warning-title-custom = Algunos sitios se pueden romper con la protección contra el rastreo personalizada.
 # “Fix site issues” references the string content-blocking-exceptions-subheader
