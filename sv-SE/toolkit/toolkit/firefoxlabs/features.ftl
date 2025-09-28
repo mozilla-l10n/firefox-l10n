@@ -76,4 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = Ha din att-gö
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantisk historiksökning
-experimental-features-semantic-history-search-description = Använd en lokal Machine Learning-modell för att föreslå poster från historiken som är relaterade till dina sökningar baserat på naturlig språkförståelse i adressfältet { -brand-product-name }. <a data-l10n-name="connect">Dela feedback</a>
+experimental-features-semantic-history-search-description = Använd en lokal maskininlärningsmodell för att föreslå poster från historiken som är relaterade till dina sökningar baserat på förståelse av naturligt språk i adressfältet för { -brand-product-name }. <a data-l10n-name="connect">Dela feedback</a>
