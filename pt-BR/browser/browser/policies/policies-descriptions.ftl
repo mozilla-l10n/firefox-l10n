@@ -119,6 +119,7 @@ policy-PostQuantumKeyAgreementEnabled = Ativar aceitação de chave pós-quantum
 policy-PDFjs = Desativar ou configurar o PDF.js, o visor de PDF integrado no { -brand-short-name }.
 policy-Permissions2 = Configurar permissões de câmera, microfone, localização, notificações e reprodução automática.
 policy-PictureInPicture = Ativar ou desativar picture-in-picture.
+policy-PopupBlocking2 = Permitir que determinados sites abram janelas e sejam redirecionados por frames de terceiros.
 policy-PopupBlocking = Permitir por padrão que determinados sites abram janelas ou abas.
 policy-Preferences = Definir e bloquear o valor de um subconjunto de preferências.
 policy-PrivateBrowsingModeAvailability = Definir disponibilidade do modo de navegação privativa.
