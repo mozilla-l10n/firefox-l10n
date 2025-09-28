@@ -272,6 +272,11 @@ main-context-menu-image-desc =
     .accesskey = φ
 # Variables
 #   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Αναζήτηση εικόνας με { $engine }
+    .accesskey = ν
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
 main-context-menu-visual-search =
     .label = Αναζήτηση εικόνας με { $engine }
 main-context-menu-video-save-as =

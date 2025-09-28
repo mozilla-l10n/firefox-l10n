@@ -114,6 +114,7 @@ fxa-adoption-passwords-primary-button-label = Εγγραφή
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = Διατηρήστε τις αγαπημένες σας ροές στη γραμμή εργασιών
 taskbar-tabs-value-prop-callout-title = Προσθήκη αυτού του ιστοτόπου στη γραμμή εργασιών
 
 ## Windows 10 EoS Sync messages group 1 callouts

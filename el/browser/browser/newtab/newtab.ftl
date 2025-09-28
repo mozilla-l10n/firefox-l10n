@@ -646,6 +646,9 @@ newtab-widget-lists-input-menu-move-up = Μετακίνηση πάνω
 newtab-widget-lists-input-menu-move-down = Μετακίνηση κάτω
 newtab-widget-lists-input-menu-delete = Διαγραφή
 newtab-widget-lists-input-menu-edit = Επεξεργασία
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Δημιουργία νέας λίστας
 newtab-widget-lists-name-label-default =
     .label = Λίστα εργασιών
 newtab-widget-lists-name-placeholder-default =

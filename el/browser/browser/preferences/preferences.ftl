@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Σκουρόχρωμο
     .title = Χρήση σκουρόχρωμης εμφάνισης για φόντο και περιεχόμενο ιστοτόπων.
+web-appearance-group =
+    .aria-label = Εμφάνιση ιστοτόπων
 preferences-web-appearance-choice-auto = Αυτόματο
 preferences-web-appearance-choice-light = Ανοιχτόχρωμο
 preferences-web-appearance-choice-dark = Σκουρόχρωμο
@@ -1071,6 +1073,24 @@ autofill-saved-payment-methods-button = Αποθηκευμένες μέθοδο�
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Απαίτηση σύνδεσης μέσω συσκευής για συμπλήρωση και διαχείριση μεθόδων πληρωμής
     .accesskey = σ
+autofill-payment-methods-title = Μέθοδοι πληρωμής
+autofill-payment-methods-header =
+    .aria-label = Μέθοδοι πληρωμής
+autofill-payment-methods-checkbox-message-2 =
+    .label = Αποθήκευση και αυτόματη συμπλήρωση στοιχείων πληρωμής
+    .accesskey = π
+autofill-payment-methods-manage-payments-button =
+    .label = Διαχείριση μεθόδων πληρωμής
+    .accesskey = μ
+autofill-addresses-title = Διευθύνσεις και άλλα
+autofill-addresses-header =
+    .aria-label = Διευθύνσεις και άλλα
+autofill-addresses-checkbox-message =
+    .label = Αποθήκευση και αυτόματη συμπλήρωση διευθύνσεων
+    .accesskey = Α
+autofill-addresses-manage-addresses-button =
+    .label = Διαχείριση διευθύνσεων και άλλων
+    .accesskey = Δ
 
 ## Privacy Section - History
 
