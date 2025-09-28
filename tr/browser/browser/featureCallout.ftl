@@ -115,10 +115,14 @@ fxa-adoption-passwords-primary-button-label = Kaydol
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = En sevdiğiniz sosyal ağları görev çubuğunuzda tutun
-taskbar-tabs-social-callout-subtitle = Sosyal medya sitelerini { -brand-short-name } güvencesiyle korunan daha yalın bir pencerede açabilirsiniz.
+taskbar-tabs-social-callout-subtitle = Sosyal medya sitelerini { -brand-short-name } güvencesiyle korunan yalın bir pencerede uygulama gibi açabilirsiniz.
 taskbar-tabs-chat-callout-title = Görev çubuğunuzdan sohbet edin
+taskbar-tabs-chat-callout-subtitle = Sohbet sitelerini { -brand-short-name } güvencesiyle korunan yalın bir pencerede uygulama gibi açabilirsiniz.
 taskbar-tabs-email-callout-title = E-postanızı görev çubuğunuzda tutun
+taskbar-tabs-email-callout-subtitle = Web tabanlı e-postalarınızı { -brand-short-name } güvencesiyle korunan yalın bir pencerede uygulama gibi açabilirsiniz.
+taskbar-tabs-media-callout-subtitle = Video yayın sitelerini { -brand-short-name } güvencesiyle korunan daha yalın bir pencerede açabilirsiniz.
 taskbar-tabs-value-prop-callout-title = Bu siteyi görev çubuğunuza ekleyin
+taskbar-tabs-value-prop-callout-subtitle = Tek tıklamayla kendi penceresinde ve basitleştirilmiş bir arayüzde başlatın.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

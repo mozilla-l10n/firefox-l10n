@@ -73,3 +73,6 @@ experimental-features-newtab-widget-timer-description = Odaklanmak, işinizi vak
 experimental-features-newtab-widget-lists-and-timer =
     .label = { -firefox-home-brand-name } listeleri ve sayacı
 experimental-features-newtab-widget-lists-and-timer-description = Yapılacaklar listeniz her yeni sekmede gözünüzün önünde olsun. İster alışveriş listenizi, ister valizinize koyacaklarınızın listesini, isterseniz de her türlü planı { -brand-product-name } ile yapın. Odaklanmak, işinizi vaktinde tamamlamak ve mola vermeyi de unutmamak için sayaç ayarlayın. <a data-l10n-name="connect">Görüş bildirin</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantik geçmiş araması

@@ -1537,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikalar
+certs-description = { -brand-short-name } tarayıcısının kimlik doğrulama için kullandığı sertifikaları yapılandırın.
 certs-enable-ocsp =
     .label = Sertifikaların geçerliliğini doğrulamak için OCSP otomatik yanıt sunucularını sorgula
     .accesskey = d
