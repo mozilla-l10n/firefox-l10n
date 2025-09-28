@@ -645,6 +645,9 @@ newtab-widget-lists-input-menu-move-up = เลื่อนขึ้น
 newtab-widget-lists-input-menu-move-down = เลื่อนลง
 newtab-widget-lists-input-menu-delete = ลบ
 newtab-widget-lists-input-menu-edit = แก้ไข
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + สร้างรายการใหม่
 newtab-widget-lists-name-label-default =
     .label = รายการงาน
 newtab-widget-lists-name-placeholder-default =

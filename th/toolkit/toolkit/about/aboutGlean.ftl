@@ -151,9 +151,11 @@ about-glean-button-dictionary-link = เอกสาร
 about-glean-button-watch = เฝ้าดู
 # Meaning "to stop watching"
 about-glean-button-unwatch = เลิกเฝ้าดู
+about-glean-no-data-to-display = ไม่มีข้อมูลให้แสดง
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = เมตริกที่มีป้ายกำกับยังไม่รองรับในมุมมอง <code>about:glean</code>
 about-glean-unknown-metric-type-warning = ไม่รู้จักชนิดเมตริก
+about-glean-enable-new-features-button = เปิดใช้งานคุณสมบัติใหม่
 about-glean-about-data-explanation =
     ถ้าต้องการเรียกดูรายการข้อมูลที่รวบรวม โปรดดูที่
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>

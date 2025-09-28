@@ -73,3 +73,6 @@ experimental-features-newtab-widget-timer-description = ตั้งเวลา
 experimental-features-newtab-widget-lists-and-timer =
     .label = รายการและตัวจับเวลาบน { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = ให้รายการสิ่งที่ต้องทำของคุณอยู่อันดับแรกสุดเสมอเมื่อเปิดแท็บใหม่ ตั้งแต่รายการจัดของไปจนถึงรายการช็อปปิ้ง วางแผนทุกอย่างได้ง่าย ๆ ใน { -brand-product-name } ตั้งเวลาเพื่อให้คุณมีสมาธิ กระตุ้นให้คุณทำตามแผนที่วางไว้ หรือเตือนให้คุณเติมพลัง <a data-l10n-name="connect">แบ่งปันข้อเสนอแนะ</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = ค้นหาประวัติการเข้าชมตามความหมาย

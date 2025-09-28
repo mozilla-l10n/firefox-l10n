@@ -110,6 +110,8 @@ certificate-viewer-export = ส่งออก
 
 # Label for a tab where we haven't found a better label:
 certificate-viewer-unknown-group-label = (ไม่ทราบ)
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = ใบรับรอง
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

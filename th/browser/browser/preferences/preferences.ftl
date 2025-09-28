@@ -244,6 +244,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = มืด
     .title = ใช้รูปลักษณ์แบบมืดสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
+web-appearance-group =
+    .aria-label = รูปลักษณ์ของเว็บไซต์
 preferences-web-appearance-choice-auto = อัตโนมัติ
 preferences-web-appearance-choice-light = สว่าง
 preferences-web-appearance-choice-dark = มืด
@@ -1055,6 +1057,21 @@ autofill-saved-payment-methods-button = วิธีการชำระเง�
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = กำหนดให้ต้องลงชื่อเข้าในอุปกรณ์เพื่อกรอกและจัดการวิธีการชำระเงิน
     .accesskey = ก
+autofill-payment-methods-title = วิธีการชำระเงิน
+autofill-payment-methods-header =
+    .aria-label = วิธีการชำระเงิน
+autofill-payment-methods-manage-payments-button =
+    .label = จัดการวิธีการชำระเงิน
+    .accesskey = m
+autofill-addresses-title = ที่อยู่และอื่นๆ
+autofill-addresses-header =
+    .aria-label = ที่อยู่และอื่นๆ
+autofill-addresses-checkbox-message =
+    .label = บันทึกและป้อนที่อยู่อัตโนมัติ
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = จัดการที่อยู่และอื่นๆ
+    .accesskey = M
 
 ## Privacy Section - History
 
