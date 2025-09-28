@@ -79,6 +79,7 @@ policy-ExtensionSettings = Hallitse kaikkia laajennusten asennukseen liittyviä 
 policy-ExtensionUpdate = Ota käyttöön tai poista käytöstä laajennusten automaattipäivitykset.
 policy-FirefoxHome2 = Määritä { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Määritä { -firefox-suggest-brand-name }.
+policy-GenerativeAI = Määritä generatiivisen tekoälyn ominaisuudet.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Pakota suora intranet-sivustonavigointi internethaun sijaan, kun yksittäisiä sanoja kirjoitetaan osoitepalkkiin.
 policy-Handlers = Määritä oletussovelluskäsittelijät.
 policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöstä.

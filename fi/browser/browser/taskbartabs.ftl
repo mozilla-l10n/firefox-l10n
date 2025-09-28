@@ -34,3 +34,17 @@ taskbar-tab-audio-mute =
     .tooltiptext = Vaimenna välilehti
 taskbar-tab-audio-unmute =
     .tooltiptext = Palauta ääni
+
+## These are used as part of the window title, possibly after the content's
+## title.
+##
+## Variables:
+##  $name (String): The name of the installed web app.
+##  $container (String): The name of the user's container (e.g. 'Work',
+##  'Personal').
+##  $profile (String): The name of the user's current profile.
+
+taskbar-tab-title-default = { $name } { -brand-full-name }issa
+taskbar-tab-title-container = { $name } (eristystila { $container }) { -brand-full-name }issa
+taskbar-tab-title-profile = { $name } profiilissa { $profile } — { -brand-full-name }
+taskbar-tab-title-container-profile = { $name } ({ $container }) profiilissa { $profile } — { -brand-full-name }

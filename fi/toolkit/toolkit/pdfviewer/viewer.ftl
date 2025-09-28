@@ -370,6 +370,8 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Tekstimuokkain
     .default-content = Aloita kirjoittaminen…
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Näetkö jotain huomionarvoista? Korosta se ja jätä kommentti.
 pdfjs-editor-comments-sidebar-no-comments-link = Lue lisää
 
 ## Alt-text dialog
