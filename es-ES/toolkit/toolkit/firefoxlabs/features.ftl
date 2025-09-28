@@ -56,9 +56,24 @@ experimental-features-newtab-sections-follow-block-description = Organice las hi
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Añadir sitios a la barra de tareas
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Abra los sitios que visita con frecuencia como una aplicación web desde la barra de tareas. Busque el icono “Añadir pestaña a la barra de tareas” a la derecha de la barra de direcciones para iniciar ese sitio en una ventana simplificada con todas las protecciones de { -brand-product-name }. <a data-l10n-name="connect">Compartir comentarios</a>
 
 ## New Tab Productivity Widgets
 
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listas en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Mantenga la lista de tareas pendientes al abrir una nueva pestaña. Desde listas de la compara hasta listas para preparar el equipaje, haga sus planes en { -brand-product-name }. <a data-l10n-name="connect">Compartir comentarios</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Temporizador en { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Configure un temporizador para poder concentrarse, evitar distracciones o recordarle tomarse un descanso. <a data-l10n-name="connect">Compartir comentarios.</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listas y temporizadores en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Mantenga su lista de tareas pendientes al abrir una nueva pestaña. Desde listas de la compra hasta listas para preparar el equipaje, haga sus planes en { -brand-product-name }. Configure un temporizador para mantenerse concentrado, dar un empujoncito para mantenerse en el camino correcto o recordarle que recargue energías. <a data-l10n-name="connect">Compartir comentarios</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Búsqueda semántica en el historial
+experimental-features-semantic-history-search-description = Use un modelo local de Machine Learning para sugerir entradas del historial que estén relacionadas con las búsquedas según la comprensión del lenguaje natural en la barra de direcciones de { -brand-product-name }. <a data-l10n-name="connect">Compartir comentarios</a>

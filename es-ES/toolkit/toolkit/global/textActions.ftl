@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Limpiar
 text-action-highlight-selection =
     .label = Resaltar selección
+# Comment is a verb. This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection =
+    .label = Comentar selección
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =
@@ -77,6 +80,10 @@ text-action-copy-link-to-highlight =
 # and it strips trackers etc.
 text-action-copy-clean-link-to-highlight =
     .label = Copiar enlace limpio al texto resaltado
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = Quitar resaltado
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
