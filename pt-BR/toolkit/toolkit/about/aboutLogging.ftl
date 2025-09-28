@@ -108,6 +108,13 @@ about-logging-save-error = Aconteceu um erro ao salvar o arquivo: { $errorText }
 
 ## Uploaded Profiles section
 
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profile { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
 about-logging-delete-uploaded-profile = Excluir
 about-logging-view-uploaded-profile = Ver perfil
 about-logging-delete-profile-confirm-title = Excluir perfil
