@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Donker
     .title = In donkere útstrieling foar website-eftergrûnen en -ynhâld brûke.
+web-appearance-group =
+    .aria-label = Uterlik fan de website
 preferences-web-appearance-choice-auto = Automatysk
 preferences-web-appearance-choice-light = Ljocht
 preferences-web-appearance-choice-dark = Donker
@@ -1071,6 +1073,28 @@ autofill-saved-payment-methods-button = Bewarre betellingsmetoaden
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Apparaatoanmelding foar ynfoljen en behearen fan betellingsmetoaden fereaskje
     .accesskey = m
+autofill-payment-methods-title = Betellingsmetoaden
+autofill-payment-methods-header =
+    .aria-label = Betellingsmetoaden
+autofill-payment-methods-checkbox-message-2 =
+    .label = Betellingsmetoaden bewarje en automatysk ynfolje
+    .accesskey = B
+autofill-payment-methods-manage-payments-button =
+    .label = Betellingsmetoaden beheare
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Apparaatoanmelding foar automatysk ynfoljen en behearen fan betellingsmetoaden fereaskje
+    .accesskey = A
+autofill-addresses-title = Adressen en mear
+autofill-addresses-header =
+    .aria-label = Adressen en mear
+autofill-addresses-checkbox-message =
+    .label = Adressen bewarje en automatysk ynfolje
+    .accesskey = d
+autofill-addresses-manage-addresses-button =
+    .label = Adressen en mear beheare
+    .accesskey = h
 
 ## Privacy Section - History
 
@@ -1513,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikaten
+certs-description = Konfigurearje de sertifikaten dy’t { -brand-short-name } foar autentikaasje brûkt.
 certs-enable-ocsp =
     .label = Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen
     .accesskey = F

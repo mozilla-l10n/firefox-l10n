@@ -272,6 +272,11 @@ main-context-menu-image-desc =
     .accesskey = o
 # Variables
 #   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Ofbylding sykje mei { $engine }
+    .accesskey = e
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
 main-context-menu-visual-search =
     .label = Ofbylding sykje mei { $engine }
 main-context-menu-video-save-as =
