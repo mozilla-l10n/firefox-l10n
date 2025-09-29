@@ -99,6 +99,7 @@ policy-ExtensionSettings = Správa všech aspektů instalace rozšíření.
 policy-ExtensionUpdate = Vypnutí nebo zapnutí automatických aktualizací rozšíření.
 policy-FirefoxHome2 = Nakonfiguruje { -firefox-home-brand-name(case: "acc", capitalization: "lower") }.
 policy-FirefoxSuggest = Nakonfiguruje { -firefox-suggest-brand-name(case: "acc", capitalization: "lower") }.
+policy-GenerativeAI = Nastavení generativních funkcí umělé inteligence.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Vynutí přímou navigaci v intranetu namísto vyhledávání při zadání jednotlivých slov do adresního řádku.
 policy-Handlers = Nastavení výchozích aplikací pro odkazy a typy souborů.
 policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelerace.
@@ -117,6 +118,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Nastaví staré výcho
 ##
 
 policy-LocalFileLinks = Povolí vybraným stránkám odkazovat na soubory uložené na místním disku.
+policy-LocalNetworkAccess = Povolení nebo zakázání kontroly přístupu k místní síti.
 policy-ManagedBookmarks = Nastavení seznamu záložek spravovaných správcem. Takové záložky uživatel nemůže měnit.
 policy-ManualAppUpdateOnly = Povolit pouze ruční aktualizace a uživatele na dostupnost aktualizací neupozorňovat.
 policy-PrimaryPassword = Vyžadovat nebo zabránit používání hlavního hesla.
