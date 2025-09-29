@@ -5,6 +5,11 @@
 translations-panel-settings-button =
     .aria-label = دؽوۉداری سامووا ولرنیڌن
 
+## Options in the Firefox Translations settings.
+
+translations-panel-settings-manage-languages =
+    .label = دؽوۉداری زووا
+
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 

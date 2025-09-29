@@ -25,6 +25,11 @@ browser-containers-settings =
     .label = سامووا…
     .accesskey = i
 
+## General Section - Language & Appearance
+
+language-and-appearance-header = زووݩ وو شؽوات
+language-header = زووݩ
+
 ##
 
 play-drm-content-learn-more = قلوه دووسته بۊین
