@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Malhela
     .title = Uzi malhelan aspekton por fono enhavo de retejoj.
+web-appearance-group =
+    .aria-label = Aspekto de retejoj
 preferences-web-appearance-choice-auto = Aŭtomate
 preferences-web-appearance-choice-light = Hela
 preferences-web-appearance-choice-dark = Malhela
@@ -1071,6 +1073,28 @@ autofill-saved-payment-methods-button = Konservitaj pagmetodoj
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Postuli komencon de seanco en la aparato por enigi kaj administri pagmetodojn
     .accesskey = p
+autofill-payment-methods-title = Pagmetodoj
+autofill-payment-methods-header =
+    .aria-label = Pagmetodoj
+autofill-payment-methods-checkbox-message-2 =
+    .label = Konservi kaj aŭtomate plenigi pagmetodojn
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Administri pagmetodojn
+    .accesskey = A
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Postuli komencon de seanco en la aparato por aŭtomate plenigi kaj administri pagmetodojn
+    .accesskey = s
+autofill-addresses-title = Adresoj kaj pli
+autofill-addresses-header =
+    .aria-label = Adresoj kaj pli
+autofill-addresses-checkbox-message =
+    .label = Konservi kaj aŭtomate plenigi adresojn
+    .accesskey = a
+autofill-addresses-manage-addresses-button =
+    .label = Administri adresojn kaj pli
+    .accesskey = A
 
 ## Privacy Section - History
 
@@ -1141,6 +1165,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Interetejaj spuriloj
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Interretejaj spurilaj kuketoj
+sitedata-option-block-cross-site-cookies2 =
+    .label = Izoli interretejajn kuketojn
 sitedata-option-block-cross-site-cookies =
     .label = Interretejaj spurilaj kuketoj, kaj izoli aliajn interretejajn kuketojn
 sitedata-option-block-unvisited =
@@ -1265,6 +1291,7 @@ content-blocking-private-windows = Spurila enhavo en privataj fenestroj
 content-blocking-cross-site-cookies-in-all-windows2 = Interretejajn kuketojn en ĉiuj fenestroj
 content-blocking-cross-site-tracking-cookies = Interretejaj spuriloj
 content-blocking-all-cross-site-cookies-private-windows = Interretejajn kuketojn en privataj fenestroj
+content-blocking-isolate-cross-site-cookies = Izoli interretejajn kuketojn
 content-blocking-cross-site-tracking-cookies-plus-isolate = Interretejaj spurilaj kuketoj, kaj izoli ceterajn kuketojn
 content-blocking-social-media-trackers = Sociretaj spuriloj
 content-blocking-all-cookies = Ĉiuj kuketoj
@@ -1287,6 +1314,7 @@ content-blocking-etp-standard-tcp-title = Tio inkluzivas plenan protekton kontra
 content-blocking-warning-title = Atentu!
 content-blocking-and-isolating-etp-warning-description-3 = Tiu ĉi agordo povas mismontri aŭ misfunkciigi retejojn. Ni permesas la eblon aldoni esceptojn por retejoj sur kiuj, laŭ nia scio, viaj agordoj povus malbone efiki.  Por redukti la eblon misfunkciigi retejojn, permesu tiujn esceptojn por spuriloj. Se retejo misfunkcias, vi povas malŝalti la protekton por ĝi, tiel ke la tuta enhavo estos ŝargita, kaj raporti la problemon, tiel ke ni povas helpi solvi tion por ĉiuj.
 content-blocking-warning-title-2 = Rigora blokado de spuriloj povas misfunkciigi retejojn
+content-blocking-warning-title-custom = Personecigita blokado de spuriloj povas misfunkciigi retejojn
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } rekomendas uzi la agordojn en “Solvi retejajn problemojn” por redukti misfunkciantajn trajtojn kaj enhavon. Se retejo aspektas misfunkciante, provu malŝalti la protekton kontraŭ spurado por tiu retejo, por ŝargi la tutan enhavon.
 content-blocking-and-isolating-etp-warning-description-2 = Tiu ĉi agordo povas mismontri aŭ misfunkciigi retejojn. Se iu retejo ne bone funkcias aŭ videblas, vi povas malaktivigi la protekton kontaŭ spurado por tiu retejo, tiel ke ĝi ŝargos la tutan enhavon.
@@ -1405,6 +1433,9 @@ permissions-autoplay = Aŭtomata ludado
 permissions-autoplay-settings =
     .label = Agordoj…
     .accesskey = A
+permissions-block-popups2 =
+    .label = Bloki ŝprucaĵojn kaj redirektojn al aliaj retejoj
+    .accesskey = B
 permissions-block-popups =
     .label = Bloki ŝprucfenestrojn
     .accesskey = B
@@ -1506,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Atestiloj
+certs-description = Agordi la atestilojn uzatajn de { -brand-short-name } por aŭtentigo.
 certs-enable-ocsp =
     .label = Peti al OCSP respondaj serviloj konfirmon pri la nuna valideco de atestiloj
     .accesskey = P
