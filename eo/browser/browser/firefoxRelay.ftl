@@ -20,10 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = A
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protektu vian retpoŝtan adreson:
+firefox-relay-opt-in-title-2 = Ricevu senpagan retpoŝtan maskon
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Uzi retpoŝtan maskon de { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Uzi retpoŝtan maskon
+firefox-relay-opt-in-subtitle-2 = Protektu vian retpoŝtan enirkeston kontraŭ trudmesaĝoj
 firefox-relay-use-mask-title = Uzi retpoŝtan maskon de { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Evitu trudmesaĝojn per senpaga retpoŝta masko
@@ -74,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Ricevu senpagan retpoŝtan maskon
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protektu vian enirkeston kontraŭ trudmesaĝoj per senpaga <label data-l10n-name="firefox-relay-learn-more-url">retpoŝta masko</label>, kiu kaŝas vian realan retpoŝtan adreson. Retpoŝtaj mesaĝoj de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tiu ĉi retejo</label> plu alvenos al via enirkesto, sed via retpoŝta adreso estos kaŝita.
 firefox-relay-and-fxa-popup-notification-first-sentence = Protektu vian enirkeston kontraŭ trudmesaĝoj per senpaga <label data-l10n-name="firefox-relay-learn-more-url">retpoŝta masko de { -relay-brand-name }</label>, kiu kaŝas vian realan retpoŝtan adreson. Retpoŝtaj mesaĝoj de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tiu ĉi retejo</label> plu alvenos al via enirkesto, sed via retpoŝta adreso estos kaŝita.
+firefox-relay-offer-why-to-use-relay-1 = Protektu vian enirkeston kontraŭ trudmesaĝoj per senpaga <label data-l10n-name="firefox-relay-learn-more-url">retpoŝta masko de { -relay-brand-name }</label>, kiu kaŝas vian realan retpoŝtan adreson. Retpoŝtaj mesaĝoj de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">tiu ĉi retejo</label> plu alvenos al via enirkesto, sed via retpoŝta adreso estos kaŝita.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Unue kreu konton aŭ komencu seancon por uzi retpoŝtan maskon
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Krei konton
