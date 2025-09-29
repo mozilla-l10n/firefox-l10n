@@ -867,6 +867,27 @@ urlbar-result-dates-countdown-range =
         [one] { $name } · sākas pēc { $daysUntilStart } dienas
        *[other] { $name } · sākas pēc { $daysUntilStart } dienām
     }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [zero] { $name } · beidzas pēc { $daysUntilEnd } dienām
+        [one] { $name } · beidzas pēc { $daysUntilEnd } dienas
+       *[other] { $name } · beidzas pēc { $daysUntilEnd } dienām
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · šodien
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · beidzas šodien
 
 ## Strings used for buttons in the urlbar
 
@@ -1167,6 +1188,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Liegt vietnes { $uriHost } uznirstošos logus
     .accesskey = u
+popups-infobar-allow2 =
+    .label = Atļaut uznirstošos logus un trešo pušu pāradresācijas vietnei { $uriHost }
+    .accesskey = p
 
 ##
 
@@ -1331,6 +1355,7 @@ firefox-relay-offer-why-to-use-relay = Mūsu drošās, ērti lietojamās maskas 
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Visas e-pasta vēstules, kas ir nosūtītas uz jūsu e-pasta maskām, tiks pārsūtītas uz <strong>{ $useremail }</strong> (ja vien neizlemsiet tās aizturēt).
 firefox-relay-offer-legal-notice = Noklikšķinot uz “Izmantot e-pasta masku”, jūs piekrītat <label data-l10n-name="tos-url">pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">privātuma paziņojumam </label>.
+firefox-relay-offer-legal-notice-1 = Reģistrējoties un izveidojot e-pasta masku, jūs piekrītat <label data-l10n-name="tos-url">Pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">Paziņojumam par privātumu</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1358,6 +1383,16 @@ popup-warning-message =
         [one] { -brand-short-name } liedza lapai atvērt { $popupCount } jaunus logus.
        *[other] { -brand-short-name } liedza lapai atvērt { $popupCount } jaunus logus.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } neļāva šai vietnei pāradresēt.
+        [1] { -brand-short-name } neļāva šai vietnei atvērt uznirstošo logu un pāradresēt.
+        [zero] { -brand-short-name } neļāva šai vietnei atvērt { $popupCount } uznirstošos logus un pāradresēt.
+        [one] { -brand-short-name } neļāva šai vietnei atvērt { $popupCount } uznirstošo logu un pāradresēt.
+       *[other] { -brand-short-name } neļāva šai vietnei atvērt { $popupCount } uznirstošos logus un pāradresēt.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1366,6 +1401,14 @@ popup-warning-exceeded-message =
         [zero] Neļaut { -brand-short-name } atvērt vairāk kā { $popupCount } uznirstošo logu
         [one] Neļaut { -brand-short-name } atvērt vairāk kā { $popupCount } uznirstošos logus
        *[other] Neļaut { -brand-short-name } atvērt vairāk kā { $popupCount } uznirstošo logu
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [zero] { -brand-short-name } neļāva šai vietnei atvērt vairāk nekā { $popupCount } uznirstošos logus un pāradresēt.
+        [one] { -brand-short-name } neļāva šai vietnei atvērt vairāk nekā { $popupCount } uznirstošo logu un pāradresēt.
+       *[other] { -brand-short-name } neļāva šai vietnei atvērt vairāk nekā { $popupCount } uznirstošos logus un pāradresēt.
     }
 popup-warning-button =
     .label =
@@ -1382,6 +1425,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Rādīt “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Rādīt “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1468,6 +1515,13 @@ trustpanel-tracking-header = { -brand-product-name } atļāva šo, lai vietnes n
 trustpanel-tracking-description = Bez izsekotājiem dažas pogas, veidlapas un pieteikšanās lauki var nedarboties.
 trustpanel-insecure-section-header = Tavs savienojums nav drošs
 trustpanel-insecure-description = Dati, kas tiek sūtīti šai vietnei, nav šifrēti. Tos var apskatīt, nozagt vai izmanīt.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [zero] { $count } vietņu izsekošanas sīkdatnes
+        [one] { $count } vietņu izsekošanas sīkdatne
+       *[other] { $count } vietņu izsekošanas sīkdatnes
+    }
+trustpanel-list-label-tracking-content = Izsekojošs saturs
 trustpanel-list-label-social-tracking =
     { $count ->
         [zero] { $count } sociālo mediju izsekotāju
