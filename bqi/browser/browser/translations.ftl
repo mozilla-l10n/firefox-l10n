@@ -4,16 +4,46 @@
 
 translations-panel-settings-button =
     .aria-label = دؽوۉداری سامووا ولرنیڌن
+# Text displayed on a language dropdown when the language is in beta
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-displayname-beta =
+    .label = { $language } آزمایشی
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = دؽوۉداری زووا
+# Text displayed for the option to always translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-always-translate-language =
+    .label = { $language } ن هی ولرن
+translations-panel-settings-always-translate-unknown-language =
+    .label = هی ای زووݩ ولرنیڌه بۊ
+# Text displayed for the option to never translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-never-translate-language =
+    .label = { $language } ن هرگشت نولرن
+translations-panel-settings-never-translate-unknown-language =
+    .label = هرگشت ای زووݩ ن نولرنین
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
 translations-panel-learn-more-link = قلوه دووسته بۊین
+translations-panel-error-load-languages = زووا قابل و بار ونی نبیڌن
+translations-panel-error-change-button =
+    .label = آلشت زووݩ بونچک
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = وابخشی، ایما هنی ز { $language } لادراری نؽکۊنیم.
+translations-panel-error-unsupported-hint-unknown = وابخشی، ایما هنی ز ای زووݩ لادراری نؽکۊنیم.
 
 ## Firefox Translations language management in about:preferences.
 
