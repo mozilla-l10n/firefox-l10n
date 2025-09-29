@@ -1082,6 +1082,10 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = Behandle betalingsmåter
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Krev enhetspålogging for å automatisk fylle ut og behandle betalingsmåter
+    .accesskey = r
 autofill-addresses-title = Adresser og mer
 autofill-addresses-header =
     .aria-label = Adresser og mer

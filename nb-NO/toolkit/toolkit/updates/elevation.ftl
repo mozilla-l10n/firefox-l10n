@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Ikke vis igjen
     .accesskey = k
 sandbox-unprivileged-namespaces-howtofix = Slik løser du dette problemet
+sandbox-content-disabled-warning = Sikkerhetssandkassen er deaktivert. Konfigurasjonen din støttes ikke og er mindre sikker.
