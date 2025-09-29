@@ -76,3 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = Hâld jo to-do
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantysk skiednis sykje
+experimental-features-semantic-history-search-description = In lokaal Machine Learning-model brûke om items út de skiednis dy’t relatearre binne oan jo sykaksjes foar te stellen basearre op begryp fan natuerlike taal yn de { -brand-product-name }-adresbalke. <a data-l10n-name="connect">Kommentaar diele</a>

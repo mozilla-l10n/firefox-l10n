@@ -25,3 +25,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Net mear toane
     .accesskey = t
 sandbox-unprivileged-namespaces-howtofix = Hoe dit probleem op te lossen
+sandbox-content-disabled-warning = De befeiligingssandbox is útskeakele. Jo konfiguraasje wurdt net stipe en minder feilich.
