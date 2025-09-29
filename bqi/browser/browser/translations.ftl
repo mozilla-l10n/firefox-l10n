@@ -45,14 +45,40 @@ translations-panel-error-change-button =
 translations-panel-error-unsupported-hint-known = وابخشی، ایما هنی ز { $language } لادراری نؽکۊنیم.
 translations-panel-error-unsupported-hint-unknown = وابخشی، ایما هنی ز ای زووݩ لادراری نؽکۊنیم.
 
+## The translation panel appears from the url bar, and this view is the "restore" view
+## that lets a user restore a page to the original language, or translate into another
+## language.
+
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = ای بلگه ز { $fromLanguage } و { $toLanguage } ولرنیڌه وابیڌه
+translations-panel-choose-language =
+    .label = ی زووݩ ن پسند کۊنین
+
 ## Firefox Translations language management in about:preferences.
 
 translations-manage-settings-button =
     .label = سامووا…
     .accesskey = t
+translations-manage-description = دانلود زووا سی ولرنیڌن آفلاین.
+translations-manage-all-language = پوی زووا
+translations-manage-download-description = دانلود زووا سی ولرنیڌن آفلاین
 translations-settings-title =
     .title = سامووا ولرنیڌن
     .style = min-width: 36em
+translations-settings-languages-column =
+    .label = زووا
+translations-settings-remove-language-button =
+    .label = پاک کردن زووݩ
+    .accesskey = R
+translations-settings-remove-all-languages-button =
+    .label = پاک کردن پوی زووا
+    .accesskey = e
 # Text displayed on the copy button before it is clicked.
 select-translations-panel-copy-button =
     .label = لف گیری
