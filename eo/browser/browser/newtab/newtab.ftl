@@ -642,6 +642,9 @@ newtab-widget-lists-input-menu-move-up = Movi supren
 newtab-widget-lists-input-menu-move-down = Movi malsupren
 newtab-widget-lists-input-menu-delete = Forigi
 newtab-widget-lists-input-menu-edit = Modifi
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Krei novan liston
 newtab-widget-lists-name-label-default =
     .label = Listo de taskoj
 newtab-widget-lists-name-placeholder-default =

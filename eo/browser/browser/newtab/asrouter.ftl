@@ -403,3 +403,5 @@ etp-strict-exceptions-infobar-message = <strong>Rigora protekto kontraŭ spurado
 etp-strict-exceptions-infobar-learn-more = Pli da informo
 etp-strict-exceptions-infobar-button = Apliki korektojn
     .accesskey = A
+etp-strict-exceptions-infobar-not-now = Ne nun
+    .accesskey = N
