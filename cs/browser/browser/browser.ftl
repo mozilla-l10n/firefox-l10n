@@ -1566,6 +1566,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Zobrazit „{ $popupURI }“
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Zobrazit “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1616,6 +1620,8 @@ trustpanel-etp-description-disabled =
 trustpanel-connection-label-secure = Zabezpečené spojení
 trustpanel-connection-label-insecure = Spojení není zabezpečené
 trustpanel-header-enabled = { -brand-product-name } je ve střehu
+trustpanel-description-enabled2 = Jste chráněni. Pokud něco zjistíme, dáme vám vědět.
+trustpanel-header-enabled-insecure = Buďte na této stránce opatrní
 trustpanel-description-enabled = Jste chráněni. Pokud něco zjistíme, dáme vám vědět
 trustpanel-header-disabled = Vypnuli jste ochranu
 trustpanel-description-disabled = { -brand-product-name } není ve střehu. Doporučujeme vám znovu zapnout ochranu.

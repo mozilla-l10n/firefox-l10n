@@ -110,6 +110,22 @@ browser-main-window-titles-mac =
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
+# Note: only on macOS do we use a `-` separator between the brand name and the
+# "Private Browsing" suffix.
+browser-main-private-window-title =
+    { PLATFORM() ->
+        [macos] { -brand-full-name } — privātā pārlūkošana
+       *[other] { -brand-full-name } privātā pārlūkošana
+    }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Privātā pārlūkošana
+popups-infobar-dont-show-message2 =
+    .label = Nerādīt šo ziņojumu, ja ir bloķēti uznirstošie logi vai trešo pušu pāradresācijas
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Pārvaldīt uznirstošo logu un trešo pušu pāradresācijas iestatījumus…
+    .accesskey = P
 
 ##
 
@@ -256,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Jūs esat bloķējis ekrāna koplietošanu ar šo tīmekļa vietni.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Jūs esat bloķējis šīs vietnes pastāvīgo krātuvi.
+urlbar-popup-blocked2 =
+    .tooltiptext = Jūs esat bloķējis uznirstošos logus un trešo pušu pāradresācijas šai vietnei.
 urlbar-popup-blocked =
     .tooltiptext = Jūs esat bloķējis uzlecošo logu rādīšanu šajā tīmekļa vietnē.
 urlbar-autoplay-media-blocked =
@@ -805,6 +823,10 @@ urlbar-result-weather-provider-sponsored = { $provider } · apmaksāts
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Skatiet akciju tirgus datus savā meklēšanas joslā
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Rādīt tirgus jaunumus un citu informāciju no mūsu partneriem, daloties ar meklēšanas vaicājumu datiem ar { -vendor-short-name }. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Rādīt ieteikumus
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -820,6 +842,31 @@ urlbar-result-dismissal-acknowledgment-market = Paldies par atsauksmi! Vairs ner
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Paldies par atsauksmi! Vairs neredzēsiet šos ieteikumus.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [zero] { $name } · pēc { $daysUntilStart } dienām
+        [one] { $name } · pēc { $daysUntilStart } dienas
+       *[other] { $name } · pēc { $daysUntilStart } dienām
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [zero] { $name } · sākas pēc { $daysUntilStart } dienām
+        [one] { $name } · sākas pēc { $daysUntilStart } dienas
+       *[other] { $name } · sākas pēc { $daysUntilStart } dienām
+    }
 
 ## Strings used for buttons in the urlbar
 
@@ -1421,3 +1468,10 @@ trustpanel-tracking-header = { -brand-product-name } atļāva šo, lai vietnes n
 trustpanel-tracking-description = Bez izsekotājiem dažas pogas, veidlapas un pieteikšanās lauki var nedarboties.
 trustpanel-insecure-section-header = Tavs savienojums nav drošs
 trustpanel-insecure-description = Dati, kas tiek sūtīti šai vietnei, nav šifrēti. Tos var apskatīt, nozagt vai izmanīt.
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [zero] { $count } sociālo mediju izsekotāju
+        [one] { $count } sociālo mediju izsekotājs
+       *[other] { $count } sociālo mediju izsekotāji
+    }
+trustpanel-tracking-content-tab-list-header = Šīs vietnes mēģina jūs izsekot:

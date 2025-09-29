@@ -673,6 +673,9 @@ newtab-widget-lists-input-menu-move-up = Posunout výše
 newtab-widget-lists-input-menu-move-down = Posunout níže
 newtab-widget-lists-input-menu-delete = Smazat
 newtab-widget-lists-input-menu-edit = Upravit
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Vytvořit nový seznam
 newtab-widget-lists-name-label-default =
     .label = Seznam úkolů
 newtab-widget-lists-name-placeholder-default =

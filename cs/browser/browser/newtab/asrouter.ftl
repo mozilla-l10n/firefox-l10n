@@ -586,3 +586,5 @@ etp-strict-exceptions-infobar-message = <strong>Přísná ochrana proti sledová
 etp-strict-exceptions-infobar-learn-more = Zjistit více
 etp-strict-exceptions-infobar-button = Použít opravy
     .accesskey = P
+etp-strict-exceptions-infobar-not-now = Nyní ne
+    .accesskey = N
