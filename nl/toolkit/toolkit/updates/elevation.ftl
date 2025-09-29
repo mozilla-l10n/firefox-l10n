@@ -25,3 +25,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Niet meer tonen
     .accesskey = t
 sandbox-unprivileged-namespaces-howtofix = Hoe dit probleem op te lossen
+sandbox-content-disabled-warning = De beveiligingssandbox is uitgeschakeld. Uw configuratie wordt niet ondersteund en is minder veilig.

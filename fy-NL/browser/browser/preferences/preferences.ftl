@@ -1537,7 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikaten
-certs-description = Konfigurearje de sertifikaten dy’t { -brand-short-name } foar autentikaasje brûkt.
+certs-description = De sertifikaten dy’t { -brand-short-name } brûkt foar autentikaasje konfigurearje.
 certs-enable-ocsp =
     .label = Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen
     .accesskey = F

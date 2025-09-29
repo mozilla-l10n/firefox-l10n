@@ -73,3 +73,4 @@ experimental-features-newtab-widget-timer-description = Stel een timer in om u g
 experimental-features-newtab-widget-lists-and-timer =
     .label = Lijsten en timer op { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Houd uw to-dolijst in gedachten wanneer u een nieuw tabblad opent. Van paklijsten tot boodschappenlijstjes, maak uw plannen in { -brand-product-name }. Stel een timer in om u gefocust te houden, een duwtje in de rug te geven om op het goede spoor te blijven of u eraan te herinneren dat u moet opladen. <a data-l10n-name="connect">Feedback delen</a>
+experimental-features-semantic-history-search-description = Een lokaal Machine Learning-model gebruiken om items uit de geschiedenis die gerelateerd zijn aan uw zoekopdrachten voor te stellen op basis van begrip van natuurlijke taal in de { -brand-product-name }-adresbalk. <a data-l10n-name="connect">Feedback delen</a>

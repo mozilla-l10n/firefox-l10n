@@ -646,6 +646,9 @@ newtab-widget-lists-input-menu-move-up = Omhoog verplaatsen
 newtab-widget-lists-input-menu-move-down = Omlaag verplaatsen
 newtab-widget-lists-input-menu-delete = Verwijderen
 newtab-widget-lists-input-menu-edit = Bewerken
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Een nieuwe lijst aanmaken
 newtab-widget-lists-name-label-default =
     .label = Takenlijst
 newtab-widget-lists-name-placeholder-default =

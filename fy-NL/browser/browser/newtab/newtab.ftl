@@ -648,7 +648,7 @@ newtab-widget-lists-input-menu-delete = Fuortsmite
 newtab-widget-lists-input-menu-edit = Bewurkje
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
-    .label = + Nije list oanmeitsje
+    .label = + In nije list oanmeitsje
 newtab-widget-lists-name-label-default =
     .label = Takelist
 newtab-widget-lists-name-placeholder-default =

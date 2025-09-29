@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Donker
     .title = Een donkere uitstraling voor website-achtergronden en -inhoud gebruiken.
+web-appearance-group =
+    .aria-label = Uiterlijk van de website
 preferences-web-appearance-choice-auto = Automatisch
 preferences-web-appearance-choice-light = Licht
 preferences-web-appearance-choice-dark = Donker
@@ -1071,6 +1073,28 @@ autofill-saved-payment-methods-button = Opgeslagen betalingsmethoden
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Apparaataanmelding voor invullen en beheren van betalingsmethoden vereisen
     .accesskey = m
+autofill-payment-methods-title = Betalingsmethoden
+autofill-payment-methods-header =
+    .aria-label = Betalingsmethoden
+autofill-payment-methods-checkbox-message-2 =
+    .label = Betalingsgegevens opslaan en automatisch invullen
+    .accesskey = B
+autofill-payment-methods-manage-payments-button =
+    .label = Betalingsmethoden beheren
+    .accesskey = b
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Apparaataanmelding voor automatisch invullen en beheren van betalingsmethoden vereisen
+    .accesskey = o
+autofill-addresses-title = Adressen en meer
+autofill-addresses-header =
+    .aria-label = Adressen en meer
+autofill-addresses-checkbox-message =
+    .label = Adressen opslaan en automatisch invullen
+    .accesskey = o
+autofill-addresses-manage-addresses-button =
+    .label = Adressen en meer beheren
+    .accesskey = b
 
 ## Privacy Section - History
 
@@ -1513,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificaten
+certs-description = De certificaten die { -brand-short-name } gebruikt voor authenticatie configureren.
 certs-enable-ocsp =
     .label = OCSP-responderservers vragen om de huidige geldigheid van certificaten te bevestigen
     .accesskey = v
