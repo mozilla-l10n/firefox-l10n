@@ -282,10 +282,19 @@ bike-avatar = Bicicleta
 
 ## Tooltips for default avatar icons
 
+barbell-avatar-tooltip =
+    .tooltiptext = Usar avatar de haltere
 bike-avatar-tooltip =
     .tooltiptext = Usar avatar de bicicleta
 book-avatar-tooltip =
     .tooltiptext = Usar avatar de livro
+briefcase-avatar-tooltip =
+    .tooltiptext = Usar avatar de maleta
+picture-avatar-tooltip =
+    .tooltiptext = Usar avatar de imagem
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Usar avatar de artesanato
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-tooltip =
     .tooltiptext = Usar avatar de globo
@@ -305,6 +314,8 @@ clock-avatar-tooltip =
     .tooltiptext = Usar avatar de relógio
 leaf-avatar-tooltip =
     .tooltiptext = Usar avatar de folha
+lightbulb-avatar-tooltip =
+    .tooltiptext = Usar avatar de lâmpada
 makeup-avatar-tooltip =
     .tooltiptext = Usar avatar de maquiagem
 # Message refers to a text message, not a traditional letter/envelope message
@@ -312,6 +323,8 @@ message-avatar-tooltip =
     .tooltiptext = Usar avatar de mensagem
 musical-note-avatar-tooltip =
     .tooltiptext = Usar avatar de nota musical
+palette-avatar-tooltip =
+    .tooltiptext = Usar avatar da paleta
 plane-avatar-tooltip =
     .tooltiptext = Usar avatar de avião
 # Present refers to a gift box, not the current time period
