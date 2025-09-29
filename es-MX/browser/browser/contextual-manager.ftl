@@ -6,12 +6,17 @@ contextual-manager-filter-input =
     .placeholder = Buscar Contraseñas
     .key = F
     .aria-label = Buscar Contraseñas
+contextual-manager-menu-more-options-button =
+    .title = Más opciones
+contextual-manager-more-options-popup =
+    .aria-label = Más opciones
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Agregar contraseña
 contextual-manager-passwords-command-import-from-browser = Importar desde otro navegador…
 contextual-manager-passwords-command-import = Importar desde un archivo…
+contextual-manager-passwords-command-export = Exportar contraseñas
 contextual-manager-passwords-command-help = Ayuda
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Para exportar tus contraseñas, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
