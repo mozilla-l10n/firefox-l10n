@@ -1128,7 +1128,7 @@ sitedata-total-size-calculating = 사이트 데이터와 캐시 크기 계산 �
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = 현재 저장된 쿠키, 사이트 데이터 및 캐시가 { $value } { $unit }의 디스크를 사용하고 있습니다.
+sitedata-total-size = 저장된 쿠키, 사이트 데이터 및 캐시가 현재 { $value } { $unit }의 디스크 공간을 사용하고 있습니다.
 sitedata-learn-more = 더 알아보기
 sitedata-delete-on-close =
     .label = { -brand-short-name }를 닫을 때 쿠키와 사이트 데이터를 삭제
