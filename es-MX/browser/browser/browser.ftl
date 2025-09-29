@@ -1373,10 +1373,26 @@ popup-warning-message =
         [one] { -brand-short-name } evitó que este sitio abriera una ventana emergente
        *[other] { -brand-short-name } evitó que este sitio abriera { $popupCount } ventanas emergentes.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } has evitado que este sitio te redirigiera.
+        [1] { -brand-short-name } has evitado que este sitio abriera una ventana emergente y te redirigiera.
+        [one] { "" }
+       *[other] { -brand-short-name } has evitado que este sitio abra más de { $popupCount } ventanas emergentes y te redirigiera
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } ha evitado que este sitio abra más de { $popupCount } ventanas emergentes.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } has evitado que este sitio abra más de { $popupCount } ventanas emergentes.
+       *[other] { "" }
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1392,6 +1408,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mostrar “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Mostrar “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1438,6 +1458,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } piensa que las emp
 trustpanel-connection-label-secure = Conexión segura
 trustpanel-connection-label-insecure = Conexión insegura
 trustpanel-header-enabled = { -brand-product-name } está en guardia
+trustpanel-description-enabled2 = Estás bajo protección. Si detectamos algo, te lo haremos saber.
+trustpanel-header-enabled-insecure = Ten cuidado en este sitio
+trustpanel-description-enabled-insecure = { -brand-product-name } notó algo sospechoso.
 trustpanel-description-enabled = Estás bajo protección. Si detectamos algo, te lo haremos saber
 trustpanel-header-disabled = Desactivaste las protecciones
 trustpanel-description-disabled = { -brand-product-name } está fuera de servicio. Te sugerimos volver a activar las protecciones.
@@ -1545,3 +1568,9 @@ trustpanel-cryptominer-blocking-tab-header =
         [one] { -brand-product-name } bloqueó { $count } criptominero
        *[other] { -brand-product-name } bloqueó { $count } criptomineros
     }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } permitió { $count } criptominero
+       *[other] { -brand-product-name } permitió { $count } criptomineros
+    }
+trustpanel-cryptominer-tab-list-header = Estos sitios están intentando minar criptomonedas:

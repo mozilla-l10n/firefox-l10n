@@ -1475,6 +1475,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } uzskata, ka uzņē
 trustpanel-connection-label-secure = Savienojums drošs
 trustpanel-connection-label-insecure = Savienojums nav drošs
 trustpanel-header-enabled = { -brand-product-name } ir sardzē
+trustpanel-description-enabled2 = Jūs esat aizsargāts. Ja mēs kaut ko pamanīsim, mēs par to ziņosim.
+trustpanel-header-enabled-insecure = Šajā vietnē jāuzmanās
+trustpanel-description-enabled-insecure = { -brand-product-name } pamanīja kaut ko aizdomīgu.
 trustpanel-description-enabled = Jūs esat aizsargāts. Ja mēs kaut ko pamanīsim, mēs par to ziņosim
 trustpanel-header-disabled = Jūs izslēdzāt aizsardzību
 trustpanel-description-disabled = { -brand-product-name } šobrīd nedarbojas. Mēs iesakām atkal ieslēgt aizsardzību.
@@ -1539,5 +1542,17 @@ trustpanel-list-label-cryptominer =
         [zero] { $count } kriptovalūtu racēju
         [one] { $count } kriptovalūtu racējs
        *[other] { $count } kriptovalūtu racēji
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } bloķēja { $count } sociālo mediju izsekotāju
+        [one] { -brand-product-name } bloķēja { $count } sociālo mediju izsekotāju
+       *[other] { -brand-product-name } bloķēja { $count } sociālo mediju izsekotājus
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } atļāva { $count } sociālo mediju izsekotāju
+        [one] { -brand-product-name } atļāva { $count } sociālo mediju izsekotāju
+       *[other] { -brand-product-name } atļāva { $count } sociālo mediju izsekotājus
     }
 trustpanel-tracking-content-tab-list-header = Šīs vietnes mēģina jūs izsekot:
