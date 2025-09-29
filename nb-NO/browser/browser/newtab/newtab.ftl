@@ -645,6 +645,9 @@ newtab-widget-lists-input-menu-move-up = Flytt opp
 newtab-widget-lists-input-menu-move-down = Flytt ned
 newtab-widget-lists-input-menu-delete = Slett
 newtab-widget-lists-input-menu-edit = Rediger
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Lag en ny liste
 newtab-widget-lists-name-label-default =
     .label = Oppgaveliste
 newtab-widget-lists-name-placeholder-default =

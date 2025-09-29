@@ -165,6 +165,8 @@ about-glean-no-data-to-display = Ingen data å vise.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Merkede målinger støttes ikke i <code>about:glean</code>-visningen ennå.
 about-glean-unknown-metric-type-warning = Ukjent målingstype.
+about-glean-enable-new-features-button = Slå på nye funksjoner
+about-glean-disable-new-features-button = Slå av nye funksjoner
 about-glean-about-data-explanation =
     For å se gjennom listen over innsamlede data, se
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.

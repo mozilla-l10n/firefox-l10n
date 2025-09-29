@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Mørkt
     .title = Bruk et mørkt utseende for nettsidebakgrunn og innhold.
+web-appearance-group =
+    .aria-label = Utseende på nettstedet
 preferences-web-appearance-choice-auto = Automatisk
 preferences-web-appearance-choice-light = Lyst
 preferences-web-appearance-choice-dark = Mørkt
@@ -1071,6 +1073,24 @@ autofill-saved-payment-methods-button = Lagrede betalingsmåter
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Krev enhetsinnlogging for å fylle ut og behandle betalingsmåter
     .accesskey = o
+autofill-payment-methods-title = Betalingsmåter
+autofill-payment-methods-header =
+    .aria-label = Betalingsmåter
+autofill-payment-methods-checkbox-message-2 =
+    .label = Lagre og fyll ut betalingsinformasjon automatisk
+    .accesskey = a
+autofill-payment-methods-manage-payments-button =
+    .label = Behandle betalingsmåter
+    .accesskey = m
+autofill-addresses-title = Adresser og mer
+autofill-addresses-header =
+    .aria-label = Adresser og mer
+autofill-addresses-checkbox-message =
+    .label = Lagre og autoutfyll adresser
+    .accesskey = L
+autofill-addresses-manage-addresses-button =
+    .label = Behandle adresser og mer
+    .accesskey = B
 
 ## Privacy Section - History
 
@@ -1513,6 +1533,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikater
+certs-description = Konfigurer sertifikatene som { -brand-short-name } bruker for autentisering.
 certs-enable-ocsp =
     .label = Spør OCSP-servere om å bekrefte gyldigheten til sertifikater
     .accesskey = O
