@@ -3,6 +3,15 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
+## Taskbar Tab urlbar button, will appear if
+## browser.taskbarTabs.enabled = true and the user
+## navigates to a website.
+
+taskbar-tab-urlbar-button-open =
+    .tooltiptext = Rnu iccer ɣer uffag n temsekra
+taskbar-tab-urlbar-button-close =
+    .tooltiptext = Kkes iccer seg ufeggag n temsekra
+
 ## These strings are used as the tooltip for the mute/unmute button.
 
 taskbar-tab-audio-mute =

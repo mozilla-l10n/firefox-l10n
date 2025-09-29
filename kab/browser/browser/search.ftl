@@ -58,6 +58,7 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = Rnu amsedday n unadi udmawan
 add-engine-name = Isem n umsedday n unadi
+add-engine-keyword2 = Anasiw (d afrayan)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
