@@ -311,6 +311,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Tmavý
     .title = Použije pro pozadí a obsah webových stránek vzhled s tmavým barevným tématem.
+web-appearance-group =
+    .aria-label = Vzhled webových stránek
 preferences-web-appearance-choice-auto = Automatický
 preferences-web-appearance-choice-light = Světlý
 preferences-web-appearance-choice-dark = Tmavý
@@ -1213,6 +1215,18 @@ autofill-saved-payment-methods-button = Uložené platební metody
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Vyžadovat heslo k účtu na zařízení na vyplnění a správu způsobů plateb
     .accesskey = o
+autofill-payment-methods-title = Platební metody
+autofill-payment-methods-header =
+    .aria-label = Platební metody
+autofill-payment-methods-checkbox-message-2 =
+    .label = Ukládat a automaticky vyplňovat platební metody
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Spravovat platební metody
+    .accesskey = S
+autofill-addresses-title = Adresy a další
+autofill-addresses-header =
+    .aria-label = Adresy a další
 
 ## Privacy Section - History
 
@@ -1291,6 +1305,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Sledovací prvky
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Sledovací cross-site cookies
+sitedata-option-block-cross-site-cookies2 =
+    .label = Izolovat cross-site cookies
 sitedata-option-block-cross-site-cookies =
     .label = Sledovací cross-site cookies, ostatní izolovat
 sitedata-option-block-unvisited =
@@ -1427,6 +1443,7 @@ content-blocking-private-windows = Sledující obsah v anonymních oknech
 content-blocking-cross-site-cookies-in-all-windows2 = Cookies třetích stran ve všech oknech
 content-blocking-cross-site-tracking-cookies = Sledovací cookies
 content-blocking-all-cross-site-cookies-private-windows = Cookies třetích stran v anonymních oknech
+content-blocking-isolate-cross-site-cookies = Izolovat cross-site cookies
 content-blocking-cross-site-tracking-cookies-plus-isolate = Sledovací cookies třetích stran, ostatní izolovat
 content-blocking-social-media-trackers = Sledující prvky sociálních sítí
 content-blocking-all-cookies = Všechny cookies

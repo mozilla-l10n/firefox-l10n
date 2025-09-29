@@ -151,6 +151,7 @@ policy-PDFjs =
     }
 policy-Permissions2 = Nastavení oprávnění pro kameru, mikrofon, zjišťování polohy, oznámení a automatické přehrávání.
 policy-PictureInPicture = Povolení nebo zakázání režimu obraz v obraze.
+policy-PopupBlocking2 = Umožní určitým webovým stránkám zobrazovat vyskakovací okna a být přesměrovány v rámci třetích stran
 policy-PopupBlocking = Povolení zobrazování vyskakovacích oken ve výchozím stavu.
 policy-Preferences = Nastavení a uzamčení hodnoty pro podmnožinu předvoleb.
 policy-PrivateBrowsingModeAvailability = Nastaví dostupnost v režimu anonymního prohlížení.
@@ -173,6 +174,7 @@ policy-SupportMenu = Přidání vlastní položky nabídky s nápovědou.
 policy-TranslateEnabled = Povolí nebo zakáže překlad webových stránek.
 policy-UserMessaging = Nezobrazovat uživateli určité zprávy.
 policy-UseSystemPrintDialog = Vytisknout pomocí systémového dialogu.
+policy-VisualSearchEnabled = Povolení nebo zakázání vizuálního vyhledávání.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokování návštěvy webových stránek. Více informací o formátu najdete v dokumentaci.
 policy-Windows10SSO = Povolení jednotného přihlašování Windows pro pracovní a školní účty a účty Microsoft.

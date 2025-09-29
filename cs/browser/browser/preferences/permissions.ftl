@@ -93,6 +93,10 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Zde můžete určit, které servery mohou používat nezabezpečený protokol HTTP. Na těchto serverech se { -brand-short-name } nebude pokoušet o automatické navázání spojení skrze protokol HTTPS. Pro anonymní okna tento seznam výjimek neplatí.
 permissions-exceptions-https-only-desc2 = Zde můžete určit, které servery mohou používat nezabezpečený protokol HTTP. Na těchto serverech se { -brand-short-name } nebude pokoušet o automatické navázání spojení skrze protokol HTTPS.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-desc2 = Zde můžete určit, které servery mohou otevírat vyskakovací okna a být přesměrovány pomocí rámů třetích stran.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
