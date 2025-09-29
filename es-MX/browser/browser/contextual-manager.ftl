@@ -196,6 +196,7 @@ contextual-manager-passwords-list-label =
     .aria-label = Contraseñas
 contextual-manager-copy-icon =
     .alt = Copiar
+contextual-manager-passwords-no-passwords-found-message-2 = Prueba con un término diferente y busca nuevamente.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -207,6 +208,8 @@ contextual-manager-passwords-no-passwords-message = Todas tus contraseñas está
 contextual-manager-passwords-no-passwords-get-started-message = Guarda tus contraseñas para empezar.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Agregar manualmente
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Guarda tus contraseñas en un lugar seguro
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -223,3 +226,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Sí, eliminar la contraseña
        *[other] Sí, eliminar las contraseñas
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Para ver tus contraseñas guardadas, ingresa tu contraseña principal.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Ingresar contraseña principal
+contextual-manager-primary-password-learn-more-link = Saber más
