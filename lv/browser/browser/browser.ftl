@@ -711,6 +711,8 @@ urlbar-result-action-visit = Apmeklēt
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Pārslēgties uz cilni · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Kopa bez nosaukuma
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Apmeklēt no starpliktuves
 # Directs a user to press the Tab key to perform a search with the specified
@@ -759,6 +761,19 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = { $city }, { $region }: <strong>{ $temperature }°{ $unit }</strong>
 # The title of a weather suggestion in the urlbar including a region and
 # country. The temperature and unit substring should be inside a <strong> tag.
 # If the temperature and unit are not adjacent in the localization, it's OK to
@@ -834,8 +849,22 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Aizvērt
 urlbar-searchmode-default =
     .tooltiptext = Noklusējuma meklēšanas dzinis
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description = Šajā reizē meklēt ar:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Meklēšanās iestatījumi
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
 urlbar-searchmode-new = Jauns
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, izvēlēties meklētājprogrammu
+    .tooltiptext = { $engine }, izvēlēties meklētājprogrammu
+urlbar-searchmode-button-no-engine =
+    .label = Nav atlasīta neviena saīsne, jāizvēlas saīsne
+    .tooltiptext = Nav atlasīta neviena saīsne, jāizvēlas saīsne
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -845,6 +874,12 @@ urlbar-result-action-search-bookmarks = Meklēt grāmatzīmēs
 urlbar-result-action-search-history = Meklēt vēsturē
 urlbar-result-action-search-tabs = Meklēt cilnēs
 urlbar-result-action-search-actions = Meklēšanas darbības
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Pārslēgties uz { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Atvērt { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -1333,3 +1368,16 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Uzlabotā aizsardzība pret izsekošanu ir ieslēgta
 trustpanel-etp-label-disabled = Uzlabotā aizsardzība pret izsekošanu ir izslēgta
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Uzlabotā aizsardzība pret izsekošanu: ieslēgta { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Uzlabotā aizsardzība pret izsekošanu: izslēgta { $host }
+trustpanel-etp-description-enabled = Ja kaut kas šajā vietnē izskatās salūzis, jāmēģina izslēgt aizsardzība.
+trustpanel-etp-description-disabled = { -brand-product-name } uzskata, ka uzņēmumiem vajadzētu tevi mazāk izsekot. Mēs aizturam tik daudz izsekotāju, cik vien mēs varam, kad ir ieslēgta aizsardzība.
+trustpanel-connection-label-secure = Savienojums drošs
+trustpanel-connection-label-insecure = Savienojums nav drošs
+trustpanel-header-enabled = { -brand-product-name } ir sardzē
