@@ -120,4 +120,8 @@ about-logging-no-uploaded-profiles = Nenhum profile foi enviado ainda.
 about-logging-delete-uploaded-profile = Excluir
 about-logging-view-uploaded-profile = Ver perfil
 about-logging-delete-profile-confirm-title = Excluir perfil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Tem certeza que quer excluir o profile “{ $profileName }”? Isto não pode ser desfeito.
 about-logging-deleting-profile = Excluindo…

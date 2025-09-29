@@ -120,6 +120,7 @@ taskbar-tabs-chat-callout-title = Converse a partir da barra de tarefas
 taskbar-tabs-chat-callout-subtitle = Abra sites de conversa como um aplicativo, em uma janela simplificada e protegida pelo { -brand-short-name }.
 taskbar-tabs-email-callout-title = Mantenha seu email na barra de tarefas
 taskbar-tabs-email-callout-subtitle = Abra webmail como um aplicativo, em uma janela simplificada e protegida pelo { -brand-short-name }.
+taskbar-tabs-media-callout-title = Volte ao streaming a partir da barra de tarefas
 taskbar-tabs-media-callout-subtitle = Abra sites de streaming como um aplicativo, em uma janela simplificada e protegida pelo { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Adicionar este site à barra de tarefas
 taskbar-tabs-value-prop-callout-subtitle = Abra em uma janela separada de interface simplificada com um único clique.
