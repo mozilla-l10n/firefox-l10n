@@ -325,6 +325,8 @@ musical-note-avatar-tooltip =
     .tooltiptext = Usar avatar de nota musical
 palette-avatar-tooltip =
     .tooltiptext = Usar avatar da paleta
+paw-print-avatar-tooltip =
+    .tooltiptext = Usar avatar de pagada de pata
 plane-avatar-tooltip =
     .tooltiptext = Usar avatar de avião
 # Present refers to a gift box, not the current time period
@@ -334,6 +336,8 @@ shopping-avatar-tooltip =
     .tooltiptext = Usar avatar de carrinho de compras
 soccer-ball-avatar-tooltip =
     .tooltiptext = Usar avatar de bola de futebol
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Usar avatar de brilho
 star-avatar-tooltip =
     .tooltiptext = Usar avatar de estrela
 video-game-controller-avatar-tooltip =
