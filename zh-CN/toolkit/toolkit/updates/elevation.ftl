@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = 不再显示
     .accesskey = D
 sandbox-unprivileged-namespaces-howtofix = 解决办法
+sandbox-content-disabled-warning = 安全沙盒已禁用。您的配置不受支持，且安全性较低。

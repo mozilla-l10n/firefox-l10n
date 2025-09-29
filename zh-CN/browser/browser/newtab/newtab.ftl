@@ -641,6 +641,9 @@ newtab-widget-lists-input-menu-move-up = 上移
 newtab-widget-lists-input-menu-move-down = 下移
 newtab-widget-lists-input-menu-delete = 删除
 newtab-widget-lists-input-menu-edit = 编辑
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + 创建新清单
 newtab-widget-lists-name-label-default =
     .label = 任务清单
 newtab-widget-lists-name-placeholder-default =

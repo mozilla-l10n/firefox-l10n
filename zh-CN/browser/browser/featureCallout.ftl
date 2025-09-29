@@ -112,6 +112,17 @@ fxa-adoption-passwords-subtitle = 将密码加密同步到您的其他设备，�
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = 注册
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-subtitle = 如打开应用般，在简化窗口中打开社交网站，同时仍享 { -brand-short-name } 保护。
+taskbar-tabs-chat-callout-title = 从任务栏直达聊天框
+taskbar-tabs-chat-callout-subtitle = 如打开应用般，在简化窗口中打开聊天网站，同时仍享 { -brand-short-name } 保护。
+taskbar-tabs-email-callout-title = 从任务栏直达邮箱
+taskbar-tabs-email-callout-subtitle = 如打开应用般，在简化窗口中打开网页版邮箱，同时仍享 { -brand-short-name } 保护。
+taskbar-tabs-media-callout-title = 从任务栏直连直播
+taskbar-tabs-media-callout-subtitle = 如打开应用般，在简化窗口中打开直播网站，同时仍享 { -brand-short-name } 保护。
+taskbar-tabs-value-prop-callout-title = 将此网站添加到任务栏
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = 换用 Windows 11 前，别忘了带走珍贵的数据。

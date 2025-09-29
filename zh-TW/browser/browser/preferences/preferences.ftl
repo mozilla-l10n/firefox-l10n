@@ -244,6 +244,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = 暗色
     .title = 在網站背景與內容使用暗色外觀。
+web-appearance-group =
+    .aria-label = 網站外觀
 preferences-web-appearance-choice-auto = 自動
 preferences-web-appearance-choice-light = 亮色
 preferences-web-appearance-choice-dark = 暗色
@@ -1059,6 +1061,24 @@ autofill-saved-payment-methods-button = 儲存的付款方式
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = 填寫與管理付款資訊時需進行裝置登入驗證
     .accesskey = o
+autofill-payment-methods-title = 付款方式
+autofill-payment-methods-header =
+    .aria-label = 付款方式
+autofill-payment-methods-checkbox-message-2 =
+    .label = 儲存並自動填寫付款資訊
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = 管理付款方式
+    .accesskey = m
+autofill-addresses-title = 地址與更多資訊
+autofill-addresses-header =
+    .aria-label = 地址與更多資訊
+autofill-addresses-checkbox-message =
+    .label = 儲存並自動填寫地址
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = 管理地址與更多資訊
+    .accesskey = M
 
 ## Privacy Section - History
 

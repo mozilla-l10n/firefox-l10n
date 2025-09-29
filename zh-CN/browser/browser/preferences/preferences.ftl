@@ -252,6 +252,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = 深色
     .title = 在网站背景和内容使用深色外观。
+web-appearance-group =
+    .aria-label = 网站外观
 preferences-web-appearance-choice-auto = 自动
 preferences-web-appearance-choice-light = 浅色
 preferences-web-appearance-choice-dark = 深色
@@ -1063,6 +1065,28 @@ autofill-saved-payment-methods-button = 保存的付款方式
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = 填写和管理付款方式前需验证设备登录信息
     .accesskey = o
+autofill-payment-methods-title = 付款方式
+autofill-payment-methods-header =
+    .aria-label = 付款方式
+autofill-payment-methods-checkbox-message-2 =
+    .label = 保存和自动填写付款信息
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = 管理付款方式
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = 自动填写和管理付款方式前需验证设备登录信息
+    .accesskey = o
+autofill-addresses-title = 地址等信息
+autofill-addresses-header =
+    .aria-label = 地址等信息
+autofill-addresses-checkbox-message =
+    .label = 保存并自动填写地址
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = 管理地址等信息
+    .accesskey = M
 
 ## Privacy Section - History
 
@@ -1505,6 +1529,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = 证书
+certs-description = 配置 { -brand-short-name } 用于进行身份验证的证书。
 certs-enable-ocsp =
     .label = 查询 OCSP 响应服务器，以确认证书当前是否有效
     .accesskey = Q

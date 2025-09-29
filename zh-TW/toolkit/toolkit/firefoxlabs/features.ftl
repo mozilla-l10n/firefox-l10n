@@ -73,3 +73,6 @@ experimental-features-newtab-widget-timer-description = 設定計時器讓您保
 experimental-features-newtab-widget-lists-and-timer =
     .label = { -firefox-home-brand-name } 當中的清單與計時器
 experimental-features-newtab-widget-lists-and-timer-description = 開啟新分頁時自動列出待辦清單，不論是要打包的項目，還是購物清單都可以在 { -brand-product-name } 當中安排。設定計時器讓您保持專心，並且搖晃視窗請您保持進度，或提醒該小歇一下了。<a data-l10n-name="connect">分享意見回饋</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = 語意化紀錄搜尋
