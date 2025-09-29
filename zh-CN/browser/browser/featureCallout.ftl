@@ -114,6 +114,7 @@ fxa-adoption-passwords-primary-button-label = 注册
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = 从任务栏直达推荐内容
 taskbar-tabs-social-callout-subtitle = 如打开应用般，在简化窗口中打开社交网站，同时仍享 { -brand-short-name } 保护。
 taskbar-tabs-chat-callout-title = 从任务栏直达聊天框
 taskbar-tabs-chat-callout-subtitle = 如打开应用般，在简化窗口中打开聊天网站，同时仍享 { -brand-short-name } 保护。

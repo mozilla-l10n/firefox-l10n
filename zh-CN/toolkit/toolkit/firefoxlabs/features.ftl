@@ -76,3 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = 在新标签�
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = 历史记录语义搜索
+experimental-features-semantic-history-search-description = 使用本地机器学习模型，基于对自然语言的理解，从历史记录中筛选与搜索词相关的条目，并在 { -brand-product-name } 地址栏中建议。<a data-l10n-name="connect">分享反馈</a>
