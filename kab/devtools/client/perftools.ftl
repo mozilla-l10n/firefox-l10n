@@ -69,6 +69,11 @@ perftools-button-add-directory = Rnu akaram
 perftools-button-remove-directory = Kkes tafrant
 perftools-button-edit-settings = Ẓreg iɣewwaren…
 
+## More actions menu
+
+perftools-menu-more-actions-button =
+    .title = Ugar n tigawin
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =
@@ -141,6 +146,7 @@ perftools-presets-graphics-label = Udlifen
 perftools-presets-graphics-description = Uzwirfren yettufeṣṣlen i usekyed n yibugen udlifen deg { -brand-shorter-name }.
 perftools-presets-media-label = Amidyat
 perftools-presets-media-description2 = Uzwirfren yettufeṣṣlen i usekyed n yibugen n umeslaw d tvidyut deg { -brand-shorter-name }.
+perftools-presets-ml-label = Tigzi n tmacint
 perftools-presets-networking-label = Azeṭṭa
 perftools-presets-networking-description = Uzwirfren yettufeṣṣlen i usekyed n yibugen n uzeṭṭa deg { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).

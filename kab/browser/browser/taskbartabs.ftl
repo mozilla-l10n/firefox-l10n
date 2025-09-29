@@ -11,6 +11,22 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Rnu iccer ɣer uffag n temsekra
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Kkes iccer seg ufeggag n temsekra
+taskbar-tab-urlbar-button-show = Sken tigawt n usebter n usnas web
+taskbar-tab-urlbar-button-hide = Ffer tigawt n usebter n usnas web
+# This string is used in the description of a Windows Start Menu
+# shortcut for a Taskbar Tab.
+# Variables:
+#   $name (string) - A name associated to the website. This might be
+#                    pulled from a Web Application Manifest, generated
+#                    via a heuristic, or simply be the hostname of the
+#                    site.
+taskbar-tab-shortcut-description = Asnas web { $name }
+# This string is used as the name of the folder that contains Taskbar
+# Tabs. Don't use any characters that can't go in a folder name, or
+# they will be replaced by underscores. (This generally means to not
+# use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
+# should be fine.)
+taskbar-tab-shortcut-folder = Isnasen web n { -brand-short-name }
 
 ## These strings are used as the tooltip for the mute/unmute button.
 
@@ -28,6 +44,7 @@ taskbar-tab-audio-unmute =
 ##  'Personal').
 ##  $profile (String): The name of the user's current profile.
 
+taskbar-tab-title-default = { $name } deg { -brand-full-name }
 taskbar-tab-title-container = { $name } ({ $container }) deg { -brand-full-name }
 taskbar-tab-title-profile = { $name } deg { $profile } — { -brand-full-name }
 taskbar-tab-title-container-profile = { $name } ({ $container }) deg { $profile } — { -brand-full-name }
