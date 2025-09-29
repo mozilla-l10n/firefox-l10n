@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Codec support table
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
 
-media-codec-support-lack-of-extension = پۊرنیڌن وردنی
-
-##
-
-intl-app-title = سامووا برنومه
+about-processes-extension-process = وردنی یل ({ $pid })

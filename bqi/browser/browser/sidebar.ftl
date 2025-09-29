@@ -8,8 +8,15 @@
 sidebar-customize-firefox-settings = دؽوۉداری { -brand-short-name } سامووا
 sidebar-settings =
     .label = سامووا نوار کلی
+sidebar-manage-extensions = دؽوۉداری وردنی یل
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = دؽوۉداری وردنی
+sidebar-context-menu-remove-extension =
+    .label = پاک کردن وردنی
+sidebar-context-menu-report-extension =
+    .label = گوزارش وردنی
 sidebar-context-menu-copy-link =
     .label = لف گیری لینگ

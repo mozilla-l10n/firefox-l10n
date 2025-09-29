@@ -5,6 +5,8 @@
 addons-settings-button = { -brand-short-name } سامووا
 sidebar-settings-button-title =
     .title = { -brand-short-name } سامووا
+show-all-extensions-button =
+    .label = نشووݩ داڌن پوی وردنی یل
 addon-category-extension = وردنی یل
 addon-category-extension-title =
     .title = وردنی یل
@@ -34,3 +36,4 @@ recommended-extensions-heading = وردنی یل پؽشنهاڌ بیڌه
 ## Page headings
 
 locale-heading = زووا خوتووݩ ن دؽوۉداری کۊنین
+shortcuts-heading = دؽوۉداری ر نهنگا وردنی

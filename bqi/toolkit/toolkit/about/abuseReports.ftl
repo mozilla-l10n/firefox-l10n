@@ -2,11 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## Codec support table
-
-media-codec-support-lack-of-extension = پۊرنیڌن وردنی
-
-##
-
-intl-app-title = سامووا برنومه
+abuse-report-title-extension = گوزارش ای وردنی و { -vendor-short-name }
