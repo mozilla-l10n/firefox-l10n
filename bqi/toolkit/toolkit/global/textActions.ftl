@@ -5,3 +5,6 @@
 text-action-copy =
     .label = لف گیری
     .accesskey = C
+text-action-spell-dictionaries =
+    .label = زووا
+    .accesskey = L

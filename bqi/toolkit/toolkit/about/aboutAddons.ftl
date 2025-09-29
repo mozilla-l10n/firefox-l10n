@@ -8,6 +8,9 @@ sidebar-settings-button-title =
 addon-category-extension = وردنی یل
 addon-category-extension-title =
     .title = وردنی یل
+addon-category-locale = زووا
+addon-category-locale-title =
+    .title = زووا
 
 ## These are global warnings
 
@@ -27,3 +30,7 @@ colorway-removal-notice-learn-more = قلوه دووسته بۊین
 ##
 
 recommended-extensions-heading = وردنی یل پؽشنهاڌ بیڌه
+
+## Page headings
+
+locale-heading = زووا خوتووݩ ن دؽوۉداری کۊنین
