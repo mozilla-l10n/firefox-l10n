@@ -1381,3 +1381,43 @@ trustpanel-etp-description-disabled = { -brand-product-name } uzskata, ka uzņē
 trustpanel-connection-label-secure = Savienojums drošs
 trustpanel-connection-label-insecure = Savienojums nav drošs
 trustpanel-header-enabled = { -brand-product-name } ir sardzē
+trustpanel-description-enabled = Jūs esat aizsargāts. Ja mēs kaut ko pamanīsim, mēs par to ziņosim
+trustpanel-header-disabled = Jūs izslēdzāt aizsardzību
+trustpanel-description-disabled = { -brand-product-name } šobrīd nedarbojas. Mēs iesakām atkal ieslēgt aizsardzību.
+trustpanel-clear-cookies-button = Notīrīt sīkdatnes un vietnes datus
+trustpanel-privacy-link = Privātuma iestatījumi
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Notīrīt { $host } sīkdatnes un vietnes datus
+trustpanel-clear-cookies-description = Sīkdatņu un vietnes datu noņemšana tīmekļvietnēs var nozīmēt izrakstīšanu no sesijas un iepirkumu grozu iztīrīšanu.
+trustpanel-clear-cookies-subview-button-clear = Notīrīt
+trustpanel-clear-cookies-subview-button-cancel = Atcelt
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Savienojuma aizsardzība { $host }
+trustpanel-connection-secure = Savienojums ar šo vietni ir drošs.
+trustpanel-connection-not-secure = Savienojums ar šo vietni nav drošs.
+trustpanel-siteinformation-morelink = Vairāk informācijas par vietni
+trustpanel-blocker-see-all = Redzēt visu
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Aizsardzība pret izsekošanu { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [zero] Šajā vietnē aizturēti <span>{ $count }</span> izsekotāju
+        [one] Šajā vietnē aizturēts <span>{ $count }</span> izsekotājs
+       *[other] Šajā vietnē aizturēti <span>{ $count }</span> izsekotāji
+    }
+trustpanel-blocker-description = { -brand-product-name } uzskata, ka uzņēmumiem vajadzētu jūs mazāk izsekot. Tādēļ mēs aizturam tik daudz, cik vien varam.
+trustpanel-blocked-header = { -brand-product-name } aizturēja šo:
+trustpanel-tracking-header = { -brand-product-name } atļāva šo, lai vietnes nesalūztu:
+trustpanel-tracking-description = Bez izsekotājiem dažas pogas, veidlapas un pieteikšanās lauki var nedarboties.
+trustpanel-insecure-section-header = Tavs savienojums nav drošs
+trustpanel-insecure-description = Dati, kas tiek sūtīti šai vietnei, nav šifrēti. Tos var apskatīt, nozagt vai izmanīt.
