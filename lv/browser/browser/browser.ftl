@@ -1522,10 +1522,22 @@ trustpanel-list-label-tracking-cookies =
        *[other] { $count } vietņu izsekošanas sīkdatnes
     }
 trustpanel-list-label-tracking-content = Izsekojošs saturs
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [zero] { $count } ciparnosdpiedumu
+        [one] { $count } ciparnosdpiedums
+       *[other] { $count } ciparnosdpiedumi
+    }
 trustpanel-list-label-social-tracking =
     { $count ->
         [zero] { $count } sociālo mediju izsekotāju
         [one] { $count } sociālo mediju izsekotājs
        *[other] { $count } sociālo mediju izsekotāji
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [zero] { $count } kriptovalūtu racēju
+        [one] { $count } kriptovalūtu racējs
+       *[other] { $count } kriptovalūtu racēji
     }
 trustpanel-tracking-content-tab-list-header = Šīs vietnes mēģina jūs izsekot:
