@@ -266,6 +266,8 @@ urlbar-screen-blocked =
     .tooltiptext = Забранили сте на страницата споделянето на вашия екран.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Забранили сте на страницата достъп до хранилището за постоянни данни.
+urlbar-popup-blocked2 =
+    .tooltiptext = Забранили сте на този сайт да показва изскачащи прозорци и пренасочвания към трети страни.
 urlbar-popup-blocked =
     .tooltiptext = Забранили сте на страницата да отваря изскачащи прозорци.
 urlbar-autoplay-media-blocked =
@@ -820,6 +822,49 @@ urlbar-result-realtime-opt-in-dismiss-all =
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Благодарим за обратната връзка. Вече няма да виждате тези предложения.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · След { $daysUntilStart } ден
+       *[other] { $name } · След { $daysUntilStart } дни
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Започва след { $daysUntilStart } ден
+       *[other] { $name } · Започва след { $daysUntilStart } дни
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Приключва след { $daysUntilEnd } ден
+       *[other] { $name } · Приключва след { $daysUntilEnd } дни
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Днес
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Приключва днес
 
 ## Strings used for buttons in the urlbar
 
