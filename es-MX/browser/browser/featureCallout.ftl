@@ -88,6 +88,18 @@ bookmarks-toolbar-callout-2a-secondary-button-label = Ocultar barra de herramien
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = ¿Quieres mantener abierta la barra de marcadores?
 bookmarks-toolbar-callout-2b-subtitle = Puedes agregar otros sitios que visites con más frecuencia. Simplemente arrastra y suelta las pestañas aquí para tener tus sitios web favoritos a la mano.
+bookmarks-toolbar-callout-2b-primary-button-label = Mantener abierto
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = No, gracias
+
+## Perplexity callout strings
+
+perplexity-callout-theme-1-title = ¿Necesita la respuesta correcta de inmediato?
+perplexity-callout-theme-2-title = Prueba Perplexity: una nueva forma de buscar
+perplexity-callout-theme-1-subtitle-1 = Prueba Perplexity. Selecciónalo en el botón de búsqueda cuando quieras respuestas completas, incluidas las fuentes.
+perplexity-callout-theme-1-subtitle-2 = Haz preguntas. Obtén respuestas completas y bien citadas. Para probar Perplexity, selecciónalo en el botón de búsqueda.
+perplexity-callout-primary-label = Pregúntale a Perplexity
+perplexity-callout-secondary-label-1 = Descartar
 
 ## Sidebar Strings
 
@@ -106,7 +118,15 @@ vertical-tabs-callout-2-subtitle = Este diseño facilita la exploración rápida
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = ¿Estás perdiendo el rastro de tus pestañas importantes?
+sidebar-pins-callout-subtitle = Intenta Anclar para que se mantengan en la parte superior de la lista de pestañas. Haz clic derecho en la pestaña que desees anclar y luego selecciona Anclar pestaña.
 sidebar-pins-callout-cta-button = Anclar pestaña
+
+## Sidebar Onboarding Strings
+
+sidebar-customization-callout-1-subtitle = La barra lateral { -brand-product-name } te brinda acceso rápido a tu historial de navegación, pestañas de otros dispositivos y un chatbot de IA, todo sin salir de tu vista principal.
+sidebar-customization-callout-callout-button = Personalizar barra lateral
+sidebar-customization-callout-dismiss-button = Ocultar barra lateral
 
 ## Sidebar Callout Survey Strings
 
