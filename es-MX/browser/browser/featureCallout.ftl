@@ -77,12 +77,20 @@ login-status-advisory-title = Has cerrado sesión. Haz clic en el ícono de la c
 
 bookmarks-toolbar-callout-1-title = ¿Agregar este sitio web a tu barra de marcadores?
 bookmarks-toolbar-callout-1-subtitle = Tu marcador se guardará justo debajo de la barra de direcciones para un acceso rápido.
+bookmarks-toolbar-callout-1-primary-button-label = Agregar marcador
+bookmarks-toolbar-callout-1-secondary-button-label = No, gracias
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Importa marcadores fácilmente
 
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar títulos de las pestañas en la barra lateral
 sidebar-button-callout-subtitle = Usa el botón de la barra lateral para expandirla y poder ver los títulos de las pestañas.
 sidebar-button-callout-vertical-tabs = Para mostrar tus pestañas, selecciona el botón de la barra lateral en la barra de herramientas.
+
+## Sidebar Vertical Tabs Strings
+
+vertical-tabs-callout-1-title = ¿Abrumado por tantas pestañas?
 
 ## Sidebar Callout Survey Strings
 
