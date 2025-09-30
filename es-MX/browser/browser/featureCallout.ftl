@@ -81,6 +81,8 @@ bookmarks-toolbar-callout-1-primary-button-label = Agregar marcador
 bookmarks-toolbar-callout-1-secondary-button-label = No, gracias
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Importa marcadores fácilmente
+bookmarks-toolbar-callout-2a-subtitle = Puedes arrastrar y soltar pestañas aquí para tener más de tus sitios favoritos a la mano.
+bookmarks-toolbar-callout-2a-primary-button-label = Lo entiendo
 
 ## Sidebar Strings
 
@@ -92,6 +94,7 @@ sidebar-button-callout-vertical-tabs = Para mostrar tus pestañas, selecciona el
 
 vertical-tabs-callout-1-title = ¿Abrumado por tantas pestañas?
 vertical-tabs-callout-1-subtitle = Prueba nuestro nuevo diseño de pestañas verticales para explorar rápidamente tu lista de pestañas. Los primeros usuarios informan que este diseño les ayuda a sentirse más organizados. Cambia cuando quieras.
+vertical-tabs-callout-1-cta-button = Prueba las pestañas verticales
 
 ## Sidebar Callout Survey Strings
 
