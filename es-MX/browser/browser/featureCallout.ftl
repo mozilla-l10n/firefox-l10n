@@ -100,6 +100,28 @@ perplexity-callout-theme-1-subtitle-1 = Prueba Perplexity. Selecciónalo en el b
 perplexity-callout-theme-1-subtitle-2 = Haz preguntas. Obtén respuestas completas y bien citadas. Para probar Perplexity, selecciónalo en el botón de búsqueda.
 perplexity-callout-primary-label = Pregúntale a Perplexity
 perplexity-callout-secondary-label-1 = Descartar
+perplexity-callout-secondary-label-2 = Enterado
+
+## Account Adoption Passwords callout strings
+
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Contraseña guardada. Hagamos una copia de seguridad.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Regístrate
+
+## Taskbar Tabs callout strings
+
+taskbar-tabs-email-callout-title = Mantén tu correo electrónico en la barra de tareas
+taskbar-tabs-email-callout-subtitle = Inicia tu correo web como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Agrega este sitio a tu barra de tareas
+
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = No pierdas todo lo que hayas guardado al migrar a Windows 11.
+windows-10-eos-sync-new-device-title-1 = No te arriesgues a empezar desde cero en tu próximo dispositivo.
+windows-10-eos-sync-new-device-primary-label = Sincronizar ahora
+windows-10-eos-sync-dismiss-button-label = Descartar
+windows-10-eos-sync-callout-primary-advance-button-label = Siguiente
 
 ## Sidebar Strings
 
@@ -121,6 +143,10 @@ vertical-tabs-callout-2-subtitle = Este diseño facilita la exploración rápida
 sidebar-pins-callout-title = ¿Estás perdiendo el rastro de tus pestañas importantes?
 sidebar-pins-callout-subtitle = Intenta Anclar para que se mantengan en la parte superior de la lista de pestañas. Haz clic derecho en la pestaña que desees anclar y luego selecciona Anclar pestaña.
 sidebar-pins-callout-cta-button = Anclar pestaña
+
+## Pinning Tabs Strings
+
+pin-tabs-callout-4-title = Anclar los sitios que visitas con más frecuencia
 
 ## Sidebar Onboarding Strings
 
