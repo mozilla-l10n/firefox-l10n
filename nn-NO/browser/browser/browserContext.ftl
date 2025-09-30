@@ -272,6 +272,11 @@ main-context-menu-image-desc =
     .accesskey = k
 # Variables
 #   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Søk etter bilde med { $engine }
+    .accesskey = e
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
 main-context-menu-visual-search =
     .label = Søk etter bilde med { $engine }
 main-context-menu-video-save-as =
