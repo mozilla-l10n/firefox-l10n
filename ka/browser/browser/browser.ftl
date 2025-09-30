@@ -1168,7 +1168,7 @@ ui-tour-info-panel-close =
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow =
-    .label = ამომხტომი ფანჯრების დაშვება – { $uriHost }
+    .label = ნებართვა, რომ ამომხტომ ფანჯრებს აჩვენებს { $uriHost }
     .accesskey = დ
 popups-infobar-block =
     .label = ამომხტომი ფანჯრების აკრძალვა – { $uriHost }
