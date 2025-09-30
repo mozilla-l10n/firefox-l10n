@@ -1173,6 +1173,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = ამომხტომი ფანჯრების აკრძალვა – { $uriHost }
     .accesskey = დ
+popups-infobar-allow2 =
+    .label = ნებართვა, რომ ამომხტომი ფანჯრების ჩვენებასა და გარეშე გადამისამართებებს შეძლებს { $uriHost }
+    .accesskey = ხ
 
 ##
 
@@ -1360,13 +1363,13 @@ popup-notification-addon-technical-and-interaction-checkbox =
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message =
     { $popupCount ->
-        [one] { -brand-short-name } ზღუდავს საიტზე ამომხტარი ფანჯრის გახსნას.
-       *[other] { -brand-short-name } ზღუდავს საიტზე ამომხტარი { $popupCount } ფანჯრის გახსნას.
+        [one] { -brand-short-name } უზღუდავს საიტს ამომხტომი ფანჯრის ჩვენებას.
+       *[other] { -brand-short-name } უზღუდავს საიტს { $popupCount } ამომხტომი ფანჯრის ჩვენებას.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
-popup-warning-exceeded-message = { -brand-short-name } ზღუდავს საიტზე ამომხტარი { $popupCount }-ზე მეტი ფანჯრის გახსნას.
+popup-warning-exceeded-message = { -brand-short-name } უზღუდავს საიტს { $popupCount }-ზე მეტი ფანჯრის ჩვენებას.
 popup-warning-button =
     .label =
         { PLATFORM() ->
