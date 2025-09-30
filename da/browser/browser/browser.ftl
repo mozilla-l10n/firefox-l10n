@@ -1181,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloker pop op-vinduer for { $uriHost }
     .accesskey = T
+popups-infobar-allow2 =
+    .label = Tillad pop op-vinduer og tredjeparts-omdirigeringer for { $uriHost }
+    .accesskey = T
 
 ##
 
@@ -1371,6 +1374,14 @@ popup-warning-message =
     { $popupCount ->
         [one] { -brand-short-name } forhindrede dette websted i at åbne et pop op-vindue.
        *[other] { -brand-short-name } forhindrede dette websted i at åbne { $popupCount } pop op-vinduer.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } forhindrede dette websted i at omdirigere.
+        [1] { -brand-short-name } forhindrede dette websted i at åbne et pop op-vindue og omdirigere.
+       *[other] { -brand-short-name } forhindrede dette websted i at åbne { $popupCount } pop op-vinduer og omdirigere.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
