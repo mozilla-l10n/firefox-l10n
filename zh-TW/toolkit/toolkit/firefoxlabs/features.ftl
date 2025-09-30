@@ -76,3 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = 開啟新分�
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = 語意化紀錄搜尋
+experimental-features-semantic-history-search-description = 使用本機上的機器學習模型，根據 { -brand-product-name } 網址列中輸入的自然語言理解來建議瀏覽紀錄內容。<a data-l10n-name="connect">提供意見回饋</a>

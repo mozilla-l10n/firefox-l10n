@@ -1070,6 +1070,10 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = 管理付款方式
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = 自動填寫與管理付款資訊時，需進行裝置登入驗證
+    .accesskey = o
 autofill-addresses-title = 地址與更多資訊
 autofill-addresses-header =
     .aria-label = 地址與更多資訊
@@ -1521,6 +1525,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = 憑證
+certs-description = 設定 { -brand-short-name } 要用來驗證身分的憑證。
 certs-enable-ocsp =
     .label = 向 OCSP 回應伺服器查詢，以確認憑證有效性
     .accesskey = Q
