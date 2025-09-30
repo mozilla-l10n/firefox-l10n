@@ -1366,10 +1366,25 @@ popup-warning-message =
         [one] { -brand-short-name } უზღუდავს საიტს ამომხტომი ფანჯრის ჩვენებას.
        *[other] { -brand-short-name } უზღუდავს საიტს { $popupCount } ამომხტომი ფანჯრის ჩვენებას.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } უზღუდავს საიტს გარე გადამისამართებას.
+        [1] { -brand-short-name } უზღუდავს საიტს ამომხტომის ჩვენებასა და გარე გადამისამართებას.
+        [one] { -brand-short-name } უზღუდავს საიტს { $popupCount } ამომხტომის ჩვენებასა და გარე გადამისამართებას.
+       *[other] { -brand-short-name } უზღუდავს საიტს { $popupCount } ამომხტომის ჩვენებასა და გარე გადამისამართებას.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } უზღუდავს საიტს { $popupCount }-ზე მეტი ფანჯრის ჩვენებას.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+       *[other] { -brand-short-name } უზღუდავს საიტს { $popupCount }-ზე მეტი ამომხტომის ჩვენებასა და გადამისამართებას.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
