@@ -75,5 +75,5 @@ experimental-features-newtab-widget-lists-and-timer =
 experimental-features-newtab-widget-lists-and-timer-description = Hâld jo to-dolist in gedachten wannear’t jo in nij ljepblêd iepenje. Fan paklisten oant boodskippelistkes, meitsje jo plannen yn { -brand-product-name }. Stel in timer yn om jo fokust te hâlden, in triuwke yn de rêch te jaan om op it goede spoar te bliuwen of jo yn it sin te bringen dat jo oplade moatte. <a data-l10n-name="connect">Kommentaar diele</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
-    .label = Semantysk skiednis sykje
+    .label = Skiednis semantysk trochsykje
 experimental-features-semantic-history-search-description = In lokaal Machine Learning-model brûke om items út de skiednis dy’t relatearre binne oan jo sykaksjes foar te stellen basearre op begryp fan natuerlike taal yn de { -brand-product-name }-adresbalke. <a data-l10n-name="connect">Kommentaar diele</a>
