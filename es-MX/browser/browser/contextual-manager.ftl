@@ -177,10 +177,32 @@ contextual-manager-passwords-radiobutton-all = Todo ({ $total })
 contextual-manager-passwords-radiobutton-alerts = Alertas ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ¿Eliminar contraseña?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = No puedes deshacer esto.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Atrás
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Eliminar
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancelar
+contextual-manager-passwords-alert-card =
+    .aria-label = Alertas de contraseña
+contextual-manager-passwords-alert-back-button =
+    .label = Atrás
+contextual-manager-passwords-alert-list =
+    .aria-label = Lista de alertas
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Se recomienda cambio de contraseña
+    .message = Se ha denunciado el robo o la filtración de contraseñas de este sitio web. Cambie su contraseña para proteger su cuenta.
+contextual-manager-passwords-breached-origin-link-message = ¿Cómo sabe { -brand-product-name } acerca de las filtraciones?
+contextual-manager-passwords-change-password-button = Cambiar contraseña
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Se recomienda cambio de contraseña
+    .message = Esta contraseña es fácil de adivinar. Cambie su contraseña para proteger su cuenta.
+contextual-manager-passwords-vulnerable-password-link-message = ¿Cómo sabes { -brand-product-name } que una contraseña es débil?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Añadir un nombre de usuario
+    .message = Añadirlo para iniciar sesión más rápido.
 
 ## Login Form
 
