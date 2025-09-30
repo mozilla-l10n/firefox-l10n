@@ -493,5 +493,5 @@ restored-from-backup-success-with-checklist-primary-button = Guardar y continuar
 restored-from-backup-success-with-checklist-secondary-button = Saltar este paso
 restored-from-backup-success-no-checklist-primary-button = Continuar
 restored-from-backup-error-title = Hmm, hubo un problema con tu archivo de respaldo.
-restored-from-backup-error-subtitle = Si tienes otro archivo de respaldo { -brand-short-name }, intenta restaurar desde ese. <a data-l10n-name="restore-problems">¿Aún tiene problemas?</a>
+restored-from-backup-error-subtitle = Si tienes otro archivo de respaldo { -brand-short-name }, intenta restaurar desde ese. <a data-l10n-name="restore-problems">¿Aún tienes problemas?</a>
 restored-from-backup-error-primary-button = Cerrar
