@@ -209,7 +209,7 @@ preferences-web-appearance-choice-input-light =
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-web-appearance-link =
-    .label = Կառավարէք { -brand-short-name } հիմնապատկերները  Յաւելումներ եւ հիմնապատկերներ{ " " }
+    .label = Կառավարէք { -brand-short-name } հիմնապատկերները  Յաւելումներ եւ հիմնապատկերներ
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ձեր ընտրած գոյները փոխում են կայքի տեսքը: <a data-l10n-name="colors-link"> Կառավարէք գոյները </a>
