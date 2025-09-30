@@ -83,6 +83,11 @@ bookmarks-toolbar-callout-1-secondary-button-label = No, gracias
 bookmarks-toolbar-callout-2a-title = Importa marcadores fácilmente
 bookmarks-toolbar-callout-2a-subtitle = Puedes arrastrar y soltar pestañas aquí para tener más de tus sitios favoritos a la mano.
 bookmarks-toolbar-callout-2a-primary-button-label = Lo entiendo
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Ocultar barra de herramientas
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = ¿Quieres mantener abierta la barra de marcadores?
+bookmarks-toolbar-callout-2b-subtitle = Puedes agregar otros sitios que visites con más frecuencia. Simplemente arrastra y suelta las pestañas aquí para tener tus sitios web favoritos a la mano.
 
 ## Sidebar Strings
 
@@ -95,6 +100,13 @@ sidebar-button-callout-vertical-tabs = Para mostrar tus pestañas, selecciona el
 vertical-tabs-callout-1-title = ¿Abrumado por tantas pestañas?
 vertical-tabs-callout-1-subtitle = Prueba nuestro nuevo diseño de pestañas verticales para explorar rápidamente tu lista de pestañas. Los primeros usuarios informan que este diseño les ayuda a sentirse más organizados. Cambia cuando quieras.
 vertical-tabs-callout-1-cta-button = Prueba las pestañas verticales
+vertical-tabs-callout-2-cta-button = Prueba ahora
+vertical-tabs-callout-2-title = ¿Tienes muchas pestañas abiertas? Prueba con pestañas verticales.
+vertical-tabs-callout-2-subtitle = Este diseño facilita la exploración rápida de la lista de pestañas. Además, puedes ajustar el ancho para ver más o menos títulos de las pestañas.
+
+## Sidebar Vertical Tabs Pinning Strings
+
+sidebar-pins-callout-cta-button = Anclar pestaña
 
 ## Sidebar Callout Survey Strings
 
