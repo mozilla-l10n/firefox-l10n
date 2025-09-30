@@ -380,6 +380,7 @@ windows-10-eos-callout-addons-title = Eiporu moĩmbaha: hekopyahúva, iporã añ
 windows-10-eos-callout-addons-subtitle = Ko’ã jepysokue ojeporavókuri nepytyvõ hag̃ua nde rapykuere rechauka, ñemo’ã ha vyrorei’ỹre.
 windows-10-eos-callout-addons-primary-button = Ehecha ore poravopyre
 windows-10-eos-sync-callout-addons-title = Ani okañy ne moĩmbahaha embohekopyahúvo Windows 10 guive.
+windows-10-eos-sync-callout-addons-subtitle = Embojuehe ne moĩmbaha { -brand-product-name } rehegua toĩ eiporu hag̃ua, emoambuérõ jepe ne mba’e’oka.
 windows-10-eos-sync-callout-next-button = Upeigua
 windows-10-eos-sync-callout-get-started-button = Eñepyrũ
 
