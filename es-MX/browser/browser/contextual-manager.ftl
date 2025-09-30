@@ -154,6 +154,8 @@ contextual-manager-passwords-password-already-exists-error-button = Ir a la cont
 contextual-manager-passwords-update-password-success-heading =
     .heading = Contraseña guardada
 contextual-manager-passwords-update-password-success-button = Listo
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Nombre de usuario actualizado
 contextual-manager-passwords-update-username-success-heading-2 =
     .heading = Nombre de usuario actualizado
 # Message to confirm successful removal of a password/passwords.
@@ -170,6 +172,9 @@ contextual-manager-passwords-delete-password-success-button = Hecho
 # Radiobutton label to display total number of passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-radiobutton-all = Todo ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Alertas ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ¿Eliminar contraseña?
 # This message confirms that the user wants to remove an existing login.
