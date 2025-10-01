@@ -68,6 +68,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronizar marcadores ahora...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botón Cerrar
     .title = Cerrar
+fxa-adoption-addresses-backup-title = Hagamos una copia de seguridad de tus direcciones guardadas
+fxa-adoption-addresses-backup-subtitle = Protege tus direcciones guardadas sincronizándolas con tus dispositivos con encriptación.
+fxa-adoption-credit-cards-backup-title = Respaldemos tus métodos de pago
+fxa-adoption-primary-button-label = Registrate
 
 ## Protections panel
 
@@ -311,6 +315,8 @@ fxa-menu-message-close-button =
     .title = Cerrar
     .aria-label = Cerrar
 fxa-menu-message-sign-up-button = Registrarse
+fxa-menu-message-sign-in-button = Iniciar sesión
+fxa-menu-message-sync-button = Empezar a sincronizar
 fxa-menu-message-sync-devices-primary-text = Sincronizar todos tus dispositivos
 fxa-menu-message-sync-devices-secondary-text = Obtén tu información al instante — como marcadores y contraseñas — en cualquier lugar en que uses { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronizar todos tus dispositivos
@@ -343,3 +349,29 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Mantén tu navegador favorito centrado en la privacidad a un solo clic de distancia. Configura { -brand-short-name } como tu navegador predeterminado para abrir enlaces y fíjalo a tu barra de tareas.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantén tu navegador preferido centrado en la privacidad a un solo clic de distancia. Configura { -brand-short-name } como tu navegador predeterminado para abrir enlaces y fíjalo a tu menú inicio.
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-primary-button = Copia de seguridad { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Pin { -brand-shorter-name }
+windows-10-eos-sync-callout-next-button = Siguiente
+windows-10-eos-sync-callout-get-started-button = Empezar
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = ¡Las pestañas verticales y los grupos de pestañas ya están aquí!
+windows-10-eos-feature-toast-whats-new-button = Ve lo nuevo
+windows-10-eos-feature-toast-dismiss-button = Descartar
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Saber más
+etp-strict-exceptions-infobar-button = Aplicar correcciones
+    .accesskey = A
+etp-strict-exceptions-infobar-not-now = Ahora no
+    .accesskey = N
