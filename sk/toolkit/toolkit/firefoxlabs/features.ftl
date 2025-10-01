@@ -76,4 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = Majte svoj zoz
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Sémantické vyhľadávanie v histórii
-experimental-features-semantic-history-search-description = Použite lokálny model strojového učenia na ponúkanie návrhov položiek z histórie, ktoré súvisia s vašimi vyhľadávaniami na základe porozumenia prirodzenému jazyku v adresnom paneli { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+experimental-features-semantic-history-search-description = V adresnom paneli { -brand-product-name(case: "gen") } použite lokálny model strojového učenia na ponúkanie návrhov položiek z histórie, ktoré súvisia s vašimi vyhľadávaniami na základe porozumenia prirodzenému jazyku. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
