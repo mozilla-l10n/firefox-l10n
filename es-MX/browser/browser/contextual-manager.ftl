@@ -224,6 +224,8 @@ contextual-manager-passwords-edit-label =
     .label = Editar contraseña
 contextual-manager-passwords-remove-label =
     .title = Eliminar contraseña
+contextual-manager-passwords-origin-tooltip = Ingresa la dirección exacta donde iniciarás sesión en este sitio.
+contextual-manager-passwords-username-tooltip = Ingresa el nombre de usuario, la dirección de correo electrónico o el número de cuenta que utilizas para iniciar sesión.
 contextual-manager-passwords-password-tooltip-2 = Introduce la contraseña para iniciar sesión en esta cuenta.
 contextual-manager-passwords-password-tooltip = Introduce la contraseña utilizada para iniciar sesión en esta cuenta.
 
@@ -257,6 +259,12 @@ contextual-manager-origin-login-line-with-alert =
 contextual-manager-username-login-line =
     .aria-label = Copiar nombre de usuario { $username }
     .title = Copiar nombre de usuario { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Copiar nombre de usuario { $username } (Advertencia)
+    .title = Copiar nombre de usuario { $username } (Advertencia)
 contextual-manager-password-login-line =
     .aria-label = Copiar contraseña
     .title = Copiar contraseña

@@ -65,7 +65,6 @@ neterror-dns-not-found-trr-third-party-warning2 = Puedes continuar con tu soluci
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } no pudo conectarse a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La conexión a { $trrDomain } tomó más tiempo de lo esperado.
 neterror-dns-not-found-trr-offline = No estás conectado a Internet.
-neterror-dns-not-found-trr-unknown-host2 = Este sitio web no fue encontrado por { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Hubo un problema con { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL inválida.
 neterror-dns-not-found-system-sleep = El sistema está en modo suspensión
@@ -99,6 +98,9 @@ neterror-proxy-connect-failure-settings = Comprueba que la configuración del pr
 neterror-proxy-connect-failure-contact-admin = Comunícate con el administrador de la red para comprobar que el servidor proxy está funcionando.
 neterror-content-encoding-error = Contacta a los propietarios del sitio web para informarles sobre este problema.
 neterror-unsafe-content-type = Contacta a los propietarios del sitio web para informarles sobre este problema.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } no confía en { $hostname } porque la conexión no es segura. Prueba a cambiar la URL a HTTPS.
 neterror-nss-failure-not-verified = La página que estás tratando de ver no se puede mostrar porque la autenticidad de los datos recibidos no pueden ser verificados.
 neterror-nss-failure-contact-website = Por favor contacta a los propietarios del sitio web para informarles de este problema.
 # Variables:
