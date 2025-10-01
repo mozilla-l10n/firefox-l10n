@@ -150,6 +150,7 @@ pin-tabs-callout-4-title = Anclar los sitios que visitas con más frecuencia
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Barra lateral: tu espacio para herramientas y pestañas
 sidebar-customization-callout-1-subtitle = La barra lateral { -brand-product-name } te brinda acceso rápido a tu historial de navegación, pestañas de otros dispositivos y un chatbot de IA, todo sin salir de tu vista principal.
 sidebar-customization-callout-callout-button = Personalizar barra lateral
 sidebar-customization-callout-dismiss-button = Ocultar barra lateral

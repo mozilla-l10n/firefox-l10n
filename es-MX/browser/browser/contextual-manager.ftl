@@ -203,23 +203,100 @@ contextual-manager-passwords-vulnerable-password-link-message = ¿Cómo sabes { 
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Añadir un nombre de usuario
     .message = Añadirlo para iniciar sesión más rápido.
+contextual-manager-passwords-add-username-button = Agregar nombre de usuario
+contextual-manager-passwords-title = Contraseñas
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Agregar contraseña
+contextual-manager-passwords-update-label =
+    .label = Actualizar contraseña
+contextual-manager-passwords-edit-label =
+    .label = Editar contraseña
+contextual-manager-passwords-remove-label =
+    .title = Eliminar contraseña
+contextual-manager-passwords-password-tooltip-2 = Introduce la contraseña para iniciar sesión en esta cuenta.
+contextual-manager-passwords-password-tooltip = Introduce la contraseña utilizada para iniciar sesión en esta cuenta.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Contraseñas
+contextual-manager-website-icon =
+    .alt = Icono del sitio web
 contextual-manager-copy-icon =
     .alt = Copiar
+contextual-manager-check-icon-username =
+    .alt = Copiado
+contextual-manager-check-icon-password =
+    .alt = Copiado
+contextual-manager-alert-icon =
+    .alt = Advertencia
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Visita { $url }
+    .title = Visita { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Visita { $url } (Advertencia)
+    .title = Visita { $url } (Advertencia)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Copiar nombre de usuario { $username }
+    .title = Copiar nombre de usuario { $username }
+contextual-manager-password-login-line =
+    .aria-label = Copiar contraseña
+    .title = Copiar contraseña
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Copiar contraseña desde
+    .title = Copiar contraseña desde
+contextual-manager-edit-login-button = Editar
+    .tooltiptext = Editar Contraseña
+contextual-manager-view-alert-heading =
+    .heading = Ver alerta
+contextual-manager-view-alert-button =
+    .tooltiptext = Revisar alerta
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Ver alerta
+            [one] Ver alerta
+           *[other] Ver alertas
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Revisa la alerta
+            [one] Revisa la alerta
+           *[other] Revisa las alertas
+        }
+contextual-manager-show-password-button =
+    .aria-label = Mostrar contraseña
+    .title = Mostrar contraseña
+contextual-manager-hide-password-button =
+    .aria-label = Ocultar contraseña
+    .title = Ocultar contraseña
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = No se encontraron contraseñas
 contextual-manager-passwords-no-passwords-found-message-2 = Prueba con un término diferente y busca nuevamente.
+contextual-manager-passwords-no-passwords-found-message = No se han encontrado contraseñas. Busca un término diferente e intenta de nuevo.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Guarda tus contraseñas en un lugar seguro.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Todas tus contraseñas están cifradas y estaremos atentos a las filtraciones y alertas si se ven afectadas.
