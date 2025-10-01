@@ -167,6 +167,13 @@ genai-onboarding-lechat-learn = Obtén más información sobre Le Chat
 genai-onboarding-select-header = Selecciona texto para ver sugerencias
 genai-onboarding-select-description = Cuando selecciones texto, te sugeriremos indicaciones que puedes enviar al chatbot. También puedes escribir tus propias indicaciones.
 genai-onboarding-select-primary = Empezar a chatear
+genai-chatbot-contextual-title = Usa un chatbot de IA sin cambiar de pestaña
+genai-chatbot-contextual-subtitle = Chatea y navega lado a lado cuando agregues un chatbot de IA en la barra lateral { -brand-short-name }.
+genai-chatbot-contextual-button = Elige un chatbot
+genai-chatbot-summarize-title = ¡Nuevo! Resume páginas con un solo clic
+genai-chatbot-summarize-button = Resumir página
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Haz clic derecho en tu chatbot de IA en la barra lateral y selecciona “Resumir página”.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
