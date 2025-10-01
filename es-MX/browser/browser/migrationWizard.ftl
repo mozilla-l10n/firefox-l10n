@@ -196,6 +196,7 @@ migration-safari-password-import-step1 = En Safari, abre el menú "Safari" y ve 
 migration-safari-password-import-step2 = Selecciona el botón <img data-l10n-name="safari-icon-3dots"/> y elige “Exportar todas las contraseñas”
 migration-safari-password-import-step3 = Guarda el archivo de contraseñas
 migration-safari-password-import-step4 = Usa “Seleccionar archivo” a continuación para elegir el archivo de contraseñas que guardaste
+migration-chrome-windows-password-import-header = Cómo importar contraseñas desde Chrome
 migration-manual-password-import-skip-button = Saltar
 migration-manual-password-import-select-button = Seleccionar archivo
 migration-safari-password-import-skip-button = Saltar
