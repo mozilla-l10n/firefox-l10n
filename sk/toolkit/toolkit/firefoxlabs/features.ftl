@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Nastavte si časovač, k
 experimental-features-newtab-widget-lists-and-timer =
     .label = Zoznamy a časovač na { -firefox-home-brand-name(case: "loc") }
 experimental-features-newtab-widget-lists-and-timer-description = Majte svoj zoznam úloh na pamäti, keď otvoríte novú kartu. Od zoznamov na balenie až po nákupné zoznamy, robte si plány priamo vo { -brand-product-name(case: "loc") }. Nastavte si časovač, aby ste sa sústredili, aby vás povzbudil, aby ste zostali na správnej ceste, alebo aby ste si pripomenul dobitie batérií. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Sémantické vyhľadávanie v histórii
+experimental-features-semantic-history-search-description = Použite lokálny model strojového učenia na ponúkanie návrhov položiek z histórie, ktoré súvisia s vašimi vyhľadávaniami na základe porozumenia prirodzenému jazyku v adresnom paneli { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>

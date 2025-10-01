@@ -259,6 +259,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Tmavá
     .title = Tmavá téma vzhľadu pre pozadie a obsah webových stránok
+web-appearance-group =
+    .aria-label = Vzhľad webových stránok
 preferences-web-appearance-choice-auto = Automatická
 preferences-web-appearance-choice-light = Svetlá
 preferences-web-appearance-choice-dark = Tmavá
@@ -1075,6 +1077,28 @@ autofill-saved-payment-methods-button = Uložené spôsoby platby
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Vyžadovať heslo k účtu na zariadení na vyplnenie a správu spôsobov platby
     .accesskey = u
+autofill-payment-methods-title = Spôsoby platby
+autofill-payment-methods-header =
+    .aria-label = Spôsoby platby
+autofill-payment-methods-checkbox-message-2 =
+    .label = Ukladať a automaticky dopĺňať platobné informácie
+    .accesskey = f
+autofill-payment-methods-manage-payments-button =
+    .label = Spravovať spôsoby platby
+    .accesskey = l
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Vyžadovať heslo k účtu na zariadení na automatické vyplnenie a správu spôsobov platby
+    .accesskey = t
+autofill-addresses-title = Adresy a ďalšie
+autofill-addresses-header =
+    .aria-label = Adresy a ďalšie
+autofill-addresses-checkbox-message =
+    .label = Ukladať a automaticky dopĺňať adresy
+    .accesskey = d
+autofill-addresses-manage-addresses-button =
+    .label = Spravovať adresy a ďalšie
+    .accesskey = a
 
 ## Privacy Section - History
 
@@ -1517,6 +1541,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikáty
+certs-description = Nakonfigurujte certifikáty, ktoré { -brand-short-name } používa na overovanie.
 certs-enable-ocsp =
     .label = Aktuálnu platnosť certifikátov overovať na serveroch OCSP
     .accesskey = A
