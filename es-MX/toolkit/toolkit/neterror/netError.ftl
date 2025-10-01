@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Iniciar sesión en la red
 neterror-dns-not-found-title = Servidor no encontrado
 neterror-malformed-uri-page-title = URL inválida
 general-body-title = Ten cuidado. Algo no parece estar bien.
+problem-with-this-site-title = Parece que hay un problema con este sitio
 
 ## Error page actions
 
@@ -53,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Si ingresaste la dirección correct
 neterror-dns-not-found-hint-try-again = Intentar de nuevo más tarde
 neterror-dns-not-found-hint-check-network = Comprueba tu conexión de red
 neterror-dns-not-found-hint-firewall = Verifica que { -brand-short-name } tenga permiso para acceder a la web (es posible que estés conectado pero detrás de un firewall)
+neterror-dns-not-found-offline-hint-header = <strong>¿Qué puedes hacer al respecto?</strong>
+neterror-dns-not-found-offline-hint-different-device = Intenta conectarte desde un dispositivo diferente.
+neterror-dns-not-found-offline-hint-modem = Revisa el módem o router.
+neterror-dns-not-found-offline-hint-reconnect = Desconectarse y volver a conectarse a Wi-Fi.
 
 ## TRR-only specific messages
 ## Variables:
@@ -65,6 +70,7 @@ neterror-dns-not-found-trr-third-party-warning2 = Puedes continuar con tu soluci
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } no pudo conectarse a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La conexión a { $trrDomain } tomó más tiempo de lo esperado.
 neterror-dns-not-found-trr-offline = No estás conectado a Internet.
+neterror-dns-not-found-trr-unknown-host2 = Este sitio web no fue encontrado por { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Hubo un problema con { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL inválida.
 neterror-dns-not-found-system-sleep = El sistema está en modo suspensión
