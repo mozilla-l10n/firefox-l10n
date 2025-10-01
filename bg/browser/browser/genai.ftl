@@ -125,6 +125,10 @@ genai-onboarding-lechat-learn = Научете повече за Le Chat
 genai-onboarding-select-header = Изберете текст, за да видите предложения
 genai-onboarding-select-primary = Започнете разговор
 genai-chatbot-contextual-button = Избор на чатбот
+genai-chatbot-summarize-title = Ново! Обобщавайте страниците с един клик
+genai-chatbot-summarize-button = Обобщаване на страницата
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Кликнете с десния бутон на мишката върху вашия AI чатбот в страничната лента и изберете „Обобщаване на страницата“.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
