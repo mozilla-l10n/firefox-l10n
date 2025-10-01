@@ -130,3 +130,11 @@ tab-context-send-tabs-to-device =
            *[other] Изпращане на { $tabCount } раздела до устройство
         }
     .accesskey = у
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Освобождаване на раздели
+            [one] Освобождаване на { $tabCount } раздел
+           *[other] Освобождаване на { $tabCount } раздела
+        }
+    .accesskey = О

@@ -51,6 +51,7 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Попитайте { $provider }
+genai-menu-summarize-page = Обобщаване на страницата
 genai-input-ask-generic =
     .placeholder = Попитайте AI чатбота…
 # $provider (string) - name of the provider
@@ -93,6 +94,10 @@ genai-options-hide-shortcut =
     .label = Скриване на пряк път при избиране на текст
 genai-options-about-chatbot =
     .label = Относно AI чатботовете в { -brand-short-name }
+
+## Chatbot footer
+
+genai-page-button-summarize = Обобщаване на страницата
 
 ## Chatbot onboarding
 

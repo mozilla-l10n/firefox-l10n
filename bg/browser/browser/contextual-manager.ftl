@@ -137,6 +137,7 @@ contextual-manager-passwords-vulnerable-password-link-message = Откъде { -
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Добавете потребителско име
     .message = Добавете потребителско име за по-бързо вписване.
+contextual-manager-passwords-add-username-button = Добавяне на потребителско име
 
 ## Login Form
 
