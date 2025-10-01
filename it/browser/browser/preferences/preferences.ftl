@@ -1183,7 +1183,6 @@ sitedata-settings =
     .accesskey = d
 sitedata-cookies-exceptions =
     .label = Gestisci eccezioni…
-    .accesskey = z
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1640,4 +1639,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
