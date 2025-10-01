@@ -106,6 +106,7 @@ perplexity-callout-secondary-label-2 = Enterado
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
 fxa-adoption-passwords-title = Contraseña guardada. Hagamos una copia de seguridad.
+fxa-adoption-passwords-subtitle = Protege tus contraseñas sincronizándolas con tus dispositivos con encriptación.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Regístrate
 
@@ -154,6 +155,7 @@ sidebar-customization-callout-1-title = Barra lateral: tu espacio para herramien
 sidebar-customization-callout-1-subtitle = La barra lateral { -brand-product-name } te brinda acceso rápido a tu historial de navegación, pestañas de otros dispositivos y un chatbot de IA, todo sin salir de tu vista principal.
 sidebar-customization-callout-callout-button = Personalizar barra lateral
 sidebar-customization-callout-dismiss-button = Ocultar barra lateral
+sidebar-customization-callout-2-subtitle = Agrega y elimina herramientas. Coloca tus pestañas en la barra lateral. Prueba un chatbot con IA. Personaliza tu barra lateral como quieras.
 
 ## Sidebar Callout Survey Strings
 

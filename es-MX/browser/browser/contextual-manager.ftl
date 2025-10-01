@@ -132,6 +132,14 @@ contextual-manager-passwords-remove-all-message =
         [one] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. No se puede deshacer esta acción.
        *[other] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. No se puede deshacer esta acción.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. Esta acción no se puede deshacer.
+        [one] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. Esta acción no se puede deshacer.
+       *[other] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. Esta acción no se puede deshacer.
+    }
 contextual-manager-passwords-origin-label = Sitio web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Nombre de usuario

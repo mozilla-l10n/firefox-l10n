@@ -51,11 +51,20 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Preguntar { $provider }
+genai-menu-open-generic =
+    .label = Abrir chatbot de IA
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Abrir { $provider }
 genai-menu-remove-generic =
     .label = Eliminar el chatbot de IA
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Eliminar { $provider }
+genai-menu-remove-sidebar =
+    .label = Eliminar de la barra lateral
+genai-menu-new-badge = Nuevo
+genai-menu-summarize-page = Resumir página
 genai-input-ask-generic =
     .placeholder = Preguntar al chatbot IA…
 # $provider (string) - name of the provider
@@ -82,6 +91,18 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Ocultar el atajo del chatbot
+genai-menu-choose-chatbot =
+    .label = Elige un chatbot de IA
+genai-menu-ask-generic-2 =
+    .label = Pregunta al chatbot de IA
+    .accesskey = z
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Pregunta a { $provider }
+    .accesskey = z
+genai-menu-no-provider-2 =
+    .label = Pregunta a un chatbot de IA
+    .accesskey = z
 
 ## Chatbot header
 
@@ -106,11 +127,23 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Acerca de los chatbots de IA en { -brand-short-name }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Dado que la página es larga, este es un resumen parcial.
+
+## Chatbot footer
+
+genai-page-button-summarize = Resumir página
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Resume, haz una lluvia de ideas y más mientras navegas
+genai-onboarding-choose-header = Elige un chatbot de IA para usar en la barra lateral { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Elige un chatbot de IA para usar en la barra lateral { -brand-short-name }. Te mostraremos detalles sobre cada chatbot cuando lo selecciones. Cambia cuando quieras. <a data-l10n-name="learn-more">Más información</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Cambia cuando quieras. Para ayudarte a elegir, <a data-l10n-name="learn-more">obtén más información sobre cada chatbot</a>.
 genai-onboarding-primary = Continuar
 genai-onboarding-secondary = Cerrar
 genai-onboarding-claude-tooltip =
