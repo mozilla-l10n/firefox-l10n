@@ -174,6 +174,10 @@ genai-chatbot-summarize-title = ¡Nuevo! Resume páginas con un solo clic
 genai-chatbot-summarize-button = Resumir página
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Haz clic derecho en tu chatbot de IA en la barra lateral y selecciona “Resumir página”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Haz clic derecho en el botón de destellos en la barra lateral y selecciona "Resumir página". La primera vez, también seleccionarás un chatbot de IA.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Abre tu chatbot de IA en la barra lateral y elige “Resumir página” en la parte inferior.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -195,3 +199,47 @@ genai-onboarding-huggingchat-switch = Cambiar entre un conjunto diverso de model
 genai-onboarding-huggingchat-price-2 = Gratuito; se requiere una cuenta después de una cierta cantidad de solicitudes
 genai-onboarding-lechat-generate = Generar texto y código
 genai-onboarding-lechat-price = Gratis; se requiere cuenta
+
+## Model Optin Component
+
+genai-model-optin-continue =
+    .label = Continuar
+genai-model-optin-optout =
+    .label = Cancelar
+genai-model-optin-cancel =
+    .label = Cancelar
+
+## Link previews
+
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } minuto de tiempo de lectura
+       *[other] { $range } minutos de tiempo de lectura
+    }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = No podemos obtener una vista previa de este enlace
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Visita el enlace
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = No podemos generar puntos clave para esta página web.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Algo salió mal.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Intenta de nuevo
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Ajustes de previsualización del enlace
+link-preview-settings-enable =
+    .label = Habilitar vistas previas de enlaces
+    .description = Ve el título de la página, la descripción y más cuando utilices el acceso directo o hagas clic derecho en un enlace.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Obtén una vista previa
+# Onboarding card Close button
+link-preview-onboarding-close = Cerrar

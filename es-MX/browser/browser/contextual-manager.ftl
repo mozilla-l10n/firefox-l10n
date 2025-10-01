@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Buscar Contraseñas
+    .placeholder = Buscar contraseñas
     .key = F
-    .aria-label = Buscar Contraseñas
+    .aria-label = Buscar contraseñas
 contextual-manager-menu-more-options-button =
     .title = Más opciones
 contextual-manager-more-options-popup =
@@ -175,7 +175,7 @@ contextual-manager-passwords-delete-password-success-heading =
             [one] Contraseñas eliminadas
            *[other] Contraseñas eliminadas
         }
-contextual-manager-passwords-delete-password-success-button = Hecho
+contextual-manager-passwords-delete-password-success-button = Listo
 #
 # Radiobutton label to display total number of passwords
 #   $total (number) - Total number of passwords
