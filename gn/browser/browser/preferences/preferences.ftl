@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Ypytũ
     .title = Eiporu jehecharã pytũva tugua ha tetepy ñanduti renda pegua.
+web-appearance-group =
+    .aria-label = Mba’éicha ojehecha ñanduti rogue
 preferences-web-appearance-choice-auto = ijeheguietéva
 preferences-web-appearance-choice-light = Tesakã
 preferences-web-appearance-choice-dark = Ypytũ
@@ -1071,6 +1073,28 @@ autofill-saved-payment-methods-button = Mba’éicha ehepyme’ẽta ñongatupyr
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Emoñepyrũ tembiapo mba’e’okápe emoinge ha eñangareko hag̃ua jehepyme’ẽrã
     .accesskey = o
+autofill-payment-methods-title = Mba’éicha ehepyme’ẽta
+autofill-payment-methods-header =
+    .aria-label = Mba’éicha ehepyme’ẽta
+autofill-payment-methods-checkbox-message-2 =
+    .label = Eñongatu ha emyanyhẽ mba’éicha ehepyme’ẽta
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Eñangareko mba’éichapa ehepyme’ẽta
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Emoñepyrũ tembiapo mba’e’okápe emoimba ha eñangareko hag̃ua jehepyme’ẽrãre
+    .accesskey = o
+autofill-addresses-title = Kundaharape ha hetave
+autofill-addresses-header =
+    .aria-label = Kundaharape ha hetave
+autofill-addresses-checkbox-message =
+    .label = Eñongatu ha emyanyhẽ kundaharape
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Eñangareko kundaharape ha hetave
+    .accesskey = M
 
 ## Privacy Section - History
 

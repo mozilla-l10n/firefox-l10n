@@ -54,7 +54,7 @@ about-networking-rcwn-avg-short = Promedio corto
 about-networking-rcwn-avg-long = Promedio largo
 about-networking-rcwn-std-dev-long = Desviación estándar larga
 about-networking-rcwn-cache-slow = Cuenta lenta de caché
-about-networking-rcwn-cache-not-slow = Cuenta de caché no lenta
+about-networking-rcwn-cache-not-slow = Cuenta lenta de caché
 about-networking-networkid = ID de red
 about-networking-networkid-id = ID de red
 # Note: do not translate about:logging, as it is a URL.

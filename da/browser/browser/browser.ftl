@@ -1181,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloker pop op-vinduer for { $uriHost }
     .accesskey = T
+popups-infobar-allow2 =
+    .label = Tillad pop op-vinduer og tredjeparts-omdirigeringer for { $uriHost }
+    .accesskey = T
 
 ##
 
@@ -1372,6 +1375,14 @@ popup-warning-message =
         [one] { -brand-short-name } forhindrede dette websted i at åbne et pop op-vindue.
        *[other] { -brand-short-name } forhindrede dette websted i at åbne { $popupCount } pop op-vinduer.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } forhindrede dette websted i at omdirigere.
+        [1] { -brand-short-name } forhindrede dette websted i at åbne et pop op-vindue og omdirigere.
+       *[other] { -brand-short-name } forhindrede dette websted i at åbne { $popupCount } pop op-vinduer og omdirigere.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1448,6 +1459,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } mener, at virksomh
 trustpanel-connection-label-secure = Forbindelsen er sikker
 trustpanel-connection-label-insecure = Forbindelsen er ikke sikker
 trustpanel-header-enabled = { -brand-product-name } beskytter dig
+trustpanel-description-enabled2 = Du er beskyttet. Vi giver dig besked, hvis vi opdager noget.
+trustpanel-header-enabled-insecure = Vær forsigtig på dette websted
+trustpanel-description-enabled-insecure = { -brand-product-name } bemærkede noget mistænkeligt.
 trustpanel-description-enabled = Du er beskyttet. Vi giver dig besked, hvis vi opdager noget.
 trustpanel-header-disabled = Du har slået beskyttelse fra
 trustpanel-description-disabled = { -brand-product-name } er ikke aktiveret. Vi foreslår, at du slår beskyttelse til igen.

@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Iniciar sesión en la red
 neterror-dns-not-found-title = Servidor no encontrado
 neterror-malformed-uri-page-title = URL inválida
 general-body-title = Ten cuidado. Algo no parece estar bien.
+problem-with-this-site-title = Parece que hay un problema con este sitio
 
 ## Error page actions
 
@@ -53,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Si ingresaste la dirección correct
 neterror-dns-not-found-hint-try-again = Intentar de nuevo más tarde
 neterror-dns-not-found-hint-check-network = Comprueba tu conexión de red
 neterror-dns-not-found-hint-firewall = Verifica que { -brand-short-name } tenga permiso para acceder a la web (es posible que estés conectado pero detrás de un firewall)
+neterror-dns-not-found-offline-hint-header = <strong>¿Qué puedes hacer al respecto?</strong>
+neterror-dns-not-found-offline-hint-different-device = Intenta conectarte desde un dispositivo diferente.
+neterror-dns-not-found-offline-hint-modem = Revisa el módem o router.
+neterror-dns-not-found-offline-hint-reconnect = Desconectarse y volver a conectarse a Wi-Fi.
 
 ## TRR-only specific messages
 ## Variables:
@@ -99,6 +104,9 @@ neterror-proxy-connect-failure-settings = Comprueba que la configuración del pr
 neterror-proxy-connect-failure-contact-admin = Comunícate con el administrador de la red para comprobar que el servidor proxy está funcionando.
 neterror-content-encoding-error = Contacta a los propietarios del sitio web para informarles sobre este problema.
 neterror-unsafe-content-type = Contacta a los propietarios del sitio web para informarles sobre este problema.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } no confía en { $hostname } porque la conexión no es segura. Prueba a cambiar la URL a HTTPS.
 neterror-nss-failure-not-verified = La página que estás tratando de ver no se puede mostrar porque la autenticidad de los datos recibidos no pueden ser verificados.
 neterror-nss-failure-contact-website = Por favor contacta a los propietarios del sitio web para informarles de este problema.
 # Variables:

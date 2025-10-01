@@ -392,6 +392,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Zavřít postranní lištu
     .aria-label = Zavřít postranní lištu
 pdfjs-editor-comments-sidebar-close-button-label = Zavřít postranní lištu
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Vidíte něco pozoruhodného? Zvýrazněte to a zanechte komentář.
 pdfjs-editor-comments-sidebar-no-comments-link = Zjistit více
 
 ## Alt-text dialog

@@ -144,10 +144,10 @@ autofill-card-network = 卡片类型
 
 autofill-card-network-amex = 美国运通
 autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = 大来卡（Diners Club）
-autofill-card-network-discover = 发现卡（Discover）
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
 autofill-card-network-jcb = JCB
 autofill-card-network-mastercard = 万事达卡
 autofill-card-network-mir = MIR
-autofill-card-network-unionpay = 银联（Union Pay）
+autofill-card-network-unionpay = 银联
 autofill-card-network-visa = Visa

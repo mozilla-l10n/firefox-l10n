@@ -55,3 +55,6 @@ experimental-features-newtab-widget-timer =
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Tysýi ha aravopapaha { -firefox-home-brand-name }-pe
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Ejeka he’iséva rembiasakue

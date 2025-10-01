@@ -51,6 +51,7 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Попитайте { $provider }
+genai-menu-summarize-page = Обобщаване на страницата
 genai-input-ask-generic =
     .placeholder = Попитайте AI чатбота…
 # $provider (string) - name of the provider
@@ -94,6 +95,10 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Относно AI чатботовете в { -brand-short-name }
 
+## Chatbot footer
+
+genai-page-button-summarize = Обобщаване на страницата
+
 ## Chatbot onboarding
 
 genai-onboarding-header = Обобщавайте, обмисляйте и още, докато разглеждате
@@ -120,6 +125,10 @@ genai-onboarding-lechat-learn = Научете повече за Le Chat
 genai-onboarding-select-header = Изберете текст, за да видите предложения
 genai-onboarding-select-primary = Започнете разговор
 genai-chatbot-contextual-button = Избор на чатбот
+genai-chatbot-summarize-title = Ново! Обобщавайте страниците с един клик
+genai-chatbot-summarize-button = Обобщаване на страницата
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Кликнете с десния бутон на мишката върху вашия AI чатбот в страничната лента и изберете „Обобщаване на страницата“.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

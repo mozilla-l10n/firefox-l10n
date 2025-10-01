@@ -647,6 +647,9 @@ newtab-widget-lists-input-menu-move-up = Рухаць угору
 newtab-widget-lists-input-menu-move-down = Рухаць уніз
 newtab-widget-lists-input-menu-delete = Выдаліць
 newtab-widget-lists-input-menu-edit = Змяніць
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Стварыць новы спіс
 newtab-widget-lists-name-label-default =
     .label = Спіс задач
 newtab-widget-lists-name-placeholder-default =

@@ -31,3 +31,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Znovu nezobrazovat
     .accesskey = Z
 sandbox-unprivileged-namespaces-howtofix = Jak vyřešit tento problém
+sandbox-content-disabled-warning = Bezpečnostní sandbox je vypnut. Vaše konfigurace není podporována a je méně bezpečná.

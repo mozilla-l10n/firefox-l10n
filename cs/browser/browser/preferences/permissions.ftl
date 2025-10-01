@@ -95,6 +95,9 @@ permissions-exceptions-https-only-desc2 = Zde můžete určit, které servery mo
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
+permissions-exceptions-popup-window3 =
+    .title = Povolené webové stránky - vyskakovací okna a přesměrování třetích stran
+    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Zde můžete určit, které servery mohou otevírat vyskakovací okna a být přesměrovány pomocí rámů třetích stran.
 
 ## Exceptions - Pop-ups

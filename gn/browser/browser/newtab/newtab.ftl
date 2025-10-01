@@ -645,6 +645,9 @@ newtab-widget-lists-input-menu-move-up = Jehupi
 newtab-widget-lists-input-menu-move-down = Emongu’e yvy gotyo
 newtab-widget-lists-input-menu-delete = Mboguete
 newtab-widget-lists-input-menu-edit = Mbosako’i
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Emoheñói tysýi pyahu
 newtab-widget-lists-name-label-default =
     .label = Tembiaporã rysýi
 newtab-widget-lists-name-placeholder-default =

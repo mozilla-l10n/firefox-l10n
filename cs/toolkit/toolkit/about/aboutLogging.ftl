@@ -101,10 +101,20 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Sdílet a
 about-logging-upload-error = Při nahrávání profilu nastala chyba: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Při ukládání nahraného profilu došlo k chybě: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Při ukládání souboru nastala chyba: { $errorText }
 
 ## Uploaded Profiles section
 
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
 about-logging-uploaded-profiles-title = Nahrané profily
 about-logging-no-uploaded-profiles = Zatím nebyl nahrán žádný profil.
 about-logging-delete-uploaded-profile = Smazat

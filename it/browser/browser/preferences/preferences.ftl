@@ -1140,7 +1140,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie e dati dei siti web
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Calcolo dimensioni…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = I cookie, la cronologia, i dati salvati dai siti web e la cache stanno utilizzando <strong>{ $value } { $unit }</strong> di spazio su disco
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1149,6 +1155,8 @@ sitedata-learn-more = Ulteriori informazioni
 sitedata-delete-on-close =
     .label = Elimina cookie e dati dei siti web alla chiusura di { -brand-short-name }
     .accesskey = c
+sitedata-delete-on-close-private-browsing3 =
+    .message = In base alle impostazioni della cronologia, i cookie e i dati dei siti web verranno eliminati alla chiusura di { -brand-short-name }.
 sitedata-delete-on-close-private-browsing = Se la modalità Navigazione anonima è sempre attiva, i cookie e i dati dei siti web verranno eliminati alla chiusura di { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = In base alle impostazioni della cronologia, i cookie e i dati dei siti web verranno eliminati alla chiusura di { -brand-short-name }.
 sitedata-allow-cookies-option =
@@ -1175,6 +1183,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Tutti i cookie intersito (alcuni siti potrebbero non funzionare correttamente)
 sitedata-option-block-all =
     .label = Tutti i cookie (alcuni siti non funzioneranno correttamente)
+sitedata-clear2 =
+    .label = Elimina dati di navigazione…
+    .accesskey = i
+sitedata-settings2 =
+    .label = Gestisci dati di navigazione
+    .accesskey = d
 sitedata-clear =
     .label = Elimina dati…
     .accesskey = i
@@ -1183,7 +1197,10 @@ sitedata-settings =
     .accesskey = d
 sitedata-cookies-exceptions =
     .label = Gestisci eccezioni…
+sitedata-cookies-exceptions2 =
+    .label = Gestisci eccezioni
     .accesskey = z
+    .description = È possibile specificare quali siti web potranno o meno salvare cookie e dati.
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1640,4 +1657,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
