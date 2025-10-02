@@ -146,6 +146,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>მონაცემთა შეგროვების პარამეტრები შეცვლილია.</strong> სხვა პროფილში ცვლილებები აისახება ამ მოწყობილობის ყველა პროფილში.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = პარამეტრების ნახვა
 # Secondary button label to dismiss the infobar without action
@@ -277,3 +279,8 @@ custom-avatar-drag-handle =
     .aria-label = ამოსაჭრელი ზომების შეცვლა
 barbell-avatar = ორბირთულა
 bike-avatar = ველოსიპედი
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = ორბირთულას გამოსახულების შერჩევა

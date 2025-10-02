@@ -90,16 +90,38 @@ about-logging-upload-button = ატვირთვა
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = შესანახი მდებარეობა { $path }
 # Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = აიტვირთება აღწერილობითი მონაცემები: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
 #   $url (string) - The URL where the profile can be found
 about-logging-uploaded = ატვირთულია მისამართზე <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> URL-ბმულის გაზიარება
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
-about-logging-upload-error = შეცდომა წარმოიშვა პროფილის ატვირთვისას: { $errorText }
+about-logging-upload-error = შეცდომა წარმოიშვა აღწერილობის ატვირთვისას: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = შეცდომა წარმოიშვა ატვირთული აღწერილობის შენახვისას: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = შეცდომა წარმოიშვა ფაილის შენახვისას: { $errorText }
 
 ## Uploaded Profiles section
 
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = აღწერილობა { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = ატვირთული აღწერილობები
+about-logging-no-uploaded-profiles = აღწერილობები ჯერ არ ატვირთულა.
 about-logging-delete-uploaded-profile = წაშლა
+about-logging-view-uploaded-profile = აღწერილობის ნახვა
+about-logging-delete-profile-confirm-title = აღწერილობის წაშლა
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = ნამდვილად გსურთ წაიშალოს აღწერილობა „{ $profileName }“? ეს ქმედება შეუქცევადია.
+about-logging-deleting-profile = იშლება…
