@@ -1076,6 +1076,25 @@ autofill-reauth-payment-methods-checkbox = საჭიროა მოწყო
 autofill-payment-methods-title = გადახდის საშუალებები
 autofill-payment-methods-header =
     .aria-label = გადახდის საშუალებები
+autofill-payment-methods-checkbox-message-2 =
+    .label = შეინახეთ და შეავსეთ გადახდის მონაცემები
+    .accesskey = დ
+autofill-payment-methods-manage-payments-button =
+    .label = გადახდის საშუალებების მართვა
+    .accesskey = მ
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = საჭიროა მოწყობილობით დამოწმება გადახდის მონაცემების შესავსებად და სამართავად
+    .accesskey = ვ
+autofill-addresses-title = მისამართები და სხვა
+autofill-addresses-header =
+    .aria-label = მისამართები და სხვა
+autofill-addresses-checkbox-message =
+    .label = მისამართების შენახვა და თვითშევსება
+    .accesskey = ნ
+autofill-addresses-manage-addresses-button =
+    .label = მისამართების მართვა და სხვა
+    .accesskey = მ
 
 ## Privacy Section - History
 
@@ -1518,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = სერტიფიკატები
+certs-description = იმ სერტიფიკატების გამართვა, რომელთაც { -brand-short-name } იყენებს დამოწმებისთვის.
 certs-enable-ocsp =
     .label = სერტიფიკატების დამოწმება OCSP-მოთხოვნით
     .accesskey = O

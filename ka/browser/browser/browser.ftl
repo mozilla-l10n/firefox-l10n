@@ -123,6 +123,9 @@ browser-main-private-suffix-for-content = პირადი თვალიე�
 popups-infobar-dont-show-message2 =
     .label = არ გამოჩნდეს ეს ცნობა, როცა ამომხტომები ან გარეშე მხარის მიერ გადამისამართება შეზღუდულია
     .accesskey = რ
+edit-popup-settings2 =
+    .label = ამომხტომებისა და გარე გადამისამართებების მართვა…
+    .accesskey = ვ
 
 ##
 
@@ -269,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = ამ საიტისთვის თქვენი ეკრანის გაზიარების უფლება შეზღუდული გაქვთ.
 urlbar-persistent-storage-blocked =
     .tooltiptext = ამ საიტისთვის, მუდმივ მეხსიერებასთან წვდომა შეზღუდული გაქვთ.
+urlbar-popup-blocked2 =
+    .tooltiptext = ამ საიტისთვის ამომხტომები და გარე გადამისამართებები შეზღუდული გაქვთ.
 urlbar-popup-blocked =
     .tooltiptext = ამ საიტზე, ამომხტომი ფანჯრები შეზღუდული გაქვთ.
 urlbar-autoplay-media-blocked =
@@ -1340,6 +1345,7 @@ firefox-relay-offer-why-to-use-relay = ჩვენი დაცული, ა�
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = თქვენი ელფოსტის ნიღბებზე შემოსული ყველა წერილი გადამისამართდება <strong>{ $useremail }</strong>-ზე (თუ თავად არ შეზღუდავთ).
 firefox-relay-offer-legal-notice = „ელფოსტის ნიღბის გამოყენებაზე“ დაწკაპებით ეთანხმებით <label data-l10n-name="tos-url">მომსახურების პირობებსა</label> და <label data-l10n-name="privacy-url">პირადულობის განაცხადს</label>.
+firefox-relay-offer-legal-notice-1 = ანგარიშისა და ელფოსტის ნიღბის შექმნით ეთანხმებით <label data-l10n-name="tos-url">მომსახურების პირობებსა</label> და <label data-l10n-name="privacy-url">პირადულობის განაცხადს</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1400,6 +1406,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = გაიხსნას „{ $popupURI }“
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = გამოჩნდეს „{ $redirectURI }“
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1446,6 +1456,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } მიიჩნე
 trustpanel-connection-label-secure = კავშირი დაცულია
 trustpanel-connection-label-insecure = დაუცველი კავშირი
 trustpanel-header-enabled = { -brand-product-name } სადარაჯოზეა
+trustpanel-description-enabled2 = დაცული ხართ. თუ რამეს შევამჩნევთ, გაცნობებთ.
+trustpanel-header-enabled-insecure = ფრთხილად იყავით ამ საიტზე
+trustpanel-description-enabled-insecure = { -brand-product-name } რაღაც საეჭვოს წააწყდა.
 trustpanel-description-enabled = დაცული ხართ. თუ რამეს შევნიშნავთ, გეცნობებათ.
 trustpanel-header-disabled = გამორთული გაქვთ დაცვა
 trustpanel-description-disabled = { -brand-product-name } უქმადაა. გირჩევთ, კვლავ ჩართოთ დაცვა.
