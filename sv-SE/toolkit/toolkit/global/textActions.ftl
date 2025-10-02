@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Rensa
 text-action-highlight-selection =
     .label = Markera urval
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Lägg till en kommentar till markering
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Kommentarval

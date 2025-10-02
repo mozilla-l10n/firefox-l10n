@@ -1140,7 +1140,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kakor och webbplatsdata
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Beräkning av webbplatsdata och cachestorlek…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Dina lagrade kakor, historik, webbplatsdata och cache använder för närvarande <strong>{ $value } { $unit }</strong> diskutrymme.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1177,6 +1183,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Alla globala kakor (kan orsaka fel på webbplatser)
 sitedata-option-block-all =
     .label = Alla kakor (kommer att orsaka fel på webbplatser)
+sitedata-clear2 =
+    .label = Rensa webbläsardata
+    .accesskey = R
+sitedata-settings2 =
+    .label = Hantera webbläsardata
+    .accesskey = H
 sitedata-clear =
     .label = Rensa data…
     .accesskey = R
@@ -1186,6 +1198,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Hantera undantag…
     .accesskey = u
+sitedata-cookies-exceptions2 =
+    .label = Hantera undantag
+    .accesskey = H
+    .description = Du kan ange vilka webbplatser som alltid eller aldrig får använda kakor och webbplatsdata.
 
 ## Privacy Section - Cookie Banner Handling
 
