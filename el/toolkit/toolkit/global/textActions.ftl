@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Απαλοιφή
 text-action-highlight-selection =
     .label = Επισήμανση επιλογής
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Προσθήκη σχολίου στην επιλογή
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Ενότητα σχολίων

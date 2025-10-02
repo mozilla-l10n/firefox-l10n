@@ -478,6 +478,7 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Εναλλαγή σε 
 newtab-weather-menu-change-temperature-units-celsius = Εναλλαγή σε Κελσίου
 newtab-weather-menu-hide-weather = Απόκρυψη καιρού στη νέα καρτέλα
 newtab-weather-menu-learn-more = Μάθετε περισσότερα
+newtab-weather-menu-detect-my-location = Εντοπισμός τοποθεσίας
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Τα δεδομένα καιρού δεν είναι διαθέσιμα αυτήν τη στιγμή.
 newtab-weather-opt-in-not-now =
