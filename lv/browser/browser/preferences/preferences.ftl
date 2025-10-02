@@ -1031,6 +1031,8 @@ sitedata-learn-more = Uzzināt vairāk
 sitedata-delete-on-close =
     .label = Dzēst sīkdatnes un vietnes datus, kad { -brand-short-name } ir aizvērts
     .accesskey = D
+sitedata-delete-on-close-private-browsing3 =
+    .message = Pamatojoties uz jūsu vēstures iestatījumiem, { -brand-short-name } dzēš sīkdatnes un vietņu datus no jūsu sesijas, kad aizverat pārlūkprogrammu.
 sitedata-delete-on-close-private-browsing = Pastāvīgās privātās pārlūkošanas režīmā sīkdatnes un vietņu dati vienmēr tiks notīrīti, kad tiek aizvērts { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = Pamatojoties uz jūsu vēstures iestatījumiem, { -brand-short-name } dzēš sīkdatnes un vietņu datus no jūsu sesijas, kad aizverat pārlūkprogrammu.
 sitedata-allow-cookies-option =
@@ -1301,6 +1303,9 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
