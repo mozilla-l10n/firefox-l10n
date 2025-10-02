@@ -477,8 +477,14 @@ newtab-weather-menu-change-temperature-units-fahrenheit = 화씨로 전환
 newtab-weather-menu-change-temperature-units-celsius = 섭씨로 전환
 newtab-weather-menu-hide-weather = 새 탭에서 날씨 숨기기
 newtab-weather-menu-learn-more = 더 알아보기
+newtab-weather-menu-detect-my-location = 내 위치 감지
 # This message is shown if user is working offline
 newtab-weather-error-not-available = 지금은 날씨 데이터를 사용할 수 없습니다.
+newtab-weather-opt-in-see-weather = 현재 위치의 날씨를 보시겠습니까?
+newtab-weather-opt-in-not-now =
+    .label = 나중에
+newtab-weather-opt-in-yes =
+    .label = 예
 
 ## Topic Labels
 
