@@ -123,6 +123,7 @@ taskbar-tabs-email-callout-subtitle = 如打开应用般，在简化窗口中打
 taskbar-tabs-media-callout-title = 从任务栏直连直播
 taskbar-tabs-media-callout-subtitle = 如打开应用般，在简化窗口中打开直播网站，同时仍享 { -brand-short-name } 保护。
 taskbar-tabs-value-prop-callout-title = 将此网站添加到任务栏
+taskbar-tabs-value-prop-callout-subtitle = 只需一点，即可在有着简化界面的独立窗口中打开此网站。
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
