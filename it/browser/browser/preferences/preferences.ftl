@@ -501,7 +501,7 @@ update-setting-write-failure-title2 = Errore durante il salvataggio delle impost
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-    
+
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -1197,6 +1197,7 @@ sitedata-settings =
     .accesskey = d
 sitedata-cookies-exceptions =
     .label = Gestisci eccezioni…
+    .accesskey = z
 sitedata-cookies-exceptions2 =
     .label = Gestisci eccezioni
     .accesskey = z
