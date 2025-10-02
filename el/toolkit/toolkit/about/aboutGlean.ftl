@@ -171,6 +171,8 @@ about-glean-no-data-to-display = Δεν υπάρχουν δεδομένα προ
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Οι μετρήσεις με ετικέτα δεν υποστηρίζονται ακόμα στην προβολή <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Άγνωστος τύπος μέτρησης.
+about-glean-enable-new-features-button = Ενεργοποίηση νέων λειτουργιών
+about-glean-disable-new-features-button = Απενεργοποίηση νέων λειτουργιών
 about-glean-about-data-explanation =
     Για να περιηγηθείτε στη λίστα των συλλεγμένων δεδομένων, συμβουλευτείτε το
     <a data-l10n-name="glean-dictionary-link">Λεξικό του { -glean-brand-name }</a>.
