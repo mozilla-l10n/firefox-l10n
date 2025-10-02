@@ -171,6 +171,8 @@ about-glean-button-unwatch = Fjern overvågning
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Målinger med etiketter er ikke understøttet i <code>about:glean</code>-visningen endnu.
 about-glean-unknown-metric-type-warning = Ukendt type af måling.
+about-glean-enable-new-features-button = Aktiver nye funktioner
+about-glean-disable-new-features-button = Deaktiver nye funktioner
 about-glean-about-data-explanation =
     Konsulter <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbogen</a> for at gennemse 
     listen med indsamlede data.
