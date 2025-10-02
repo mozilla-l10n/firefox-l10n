@@ -619,7 +619,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = 주석 추가
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = 입력하세요…
 pdfjs-editor-edit-comment-dialog-cancel-button = 취소
-pdfjs-editor-edit-comment-dialog-save-button = 저장
 
 ## Edit a comment button in the editor toolbar
 

@@ -643,7 +643,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = Komentar přidać
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Započńće pisać…
 pdfjs-editor-edit-comment-dialog-cancel-button = Přetorhnyć
-pdfjs-editor-edit-comment-dialog-save-button = Składować
 
 ## Edit a comment button in the editor toolbar
 

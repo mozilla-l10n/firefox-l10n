@@ -639,7 +639,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = Gehitu iruzkina
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Hasi idazten…
 pdfjs-editor-edit-comment-dialog-cancel-button = Utzi
-pdfjs-editor-edit-comment-dialog-save-button = Gorde
 
 ## Edit a comment button in the editor toolbar
 

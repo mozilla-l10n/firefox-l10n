@@ -651,7 +651,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = Ychwanegu sylw
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Cychwyn teipio…
 pdfjs-editor-edit-comment-dialog-cancel-button = Diddymu
-pdfjs-editor-edit-comment-dialog-save-button = Cadw
 
 ## Edit a comment button in the editor toolbar
 

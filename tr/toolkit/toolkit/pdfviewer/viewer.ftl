@@ -633,7 +633,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = Yorum ekle
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Yazmaya başlayın…
 pdfjs-editor-edit-comment-dialog-cancel-button = Vazgeç
-pdfjs-editor-edit-comment-dialog-save-button = Kaydet
 
 ## Edit a comment button in the editor toolbar
 

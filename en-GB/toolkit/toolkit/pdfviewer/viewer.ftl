@@ -635,7 +635,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = Add comment
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Start typing…
 pdfjs-editor-edit-comment-dialog-cancel-button = Cancel
-pdfjs-editor-edit-comment-dialog-save-button = Save
 
 ## Edit a comment button in the editor toolbar
 

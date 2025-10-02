@@ -619,7 +619,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = เพิ่มความ
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = เริ่มพิมพ์…
 pdfjs-editor-edit-comment-dialog-cancel-button = ยกเลิก
-pdfjs-editor-edit-comment-dialog-save-button = บันทึก
 
 ## Edit a comment button in the editor toolbar
 

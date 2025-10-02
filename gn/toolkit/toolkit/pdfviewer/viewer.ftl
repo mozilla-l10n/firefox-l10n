@@ -634,7 +634,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = Je’erei mbojuaju
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Ehai ñepyrũ…
 pdfjs-editor-edit-comment-dialog-cancel-button = Eheja
-pdfjs-editor-edit-comment-dialog-save-button = Eñongatu
 
 ## Edit a comment button in the editor toolbar
 

@@ -635,7 +635,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = Aldoni komenton
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Ektajpi…
 pdfjs-editor-edit-comment-dialog-cancel-button = Nuligi
-pdfjs-editor-edit-comment-dialog-save-button = Konservi
 
 ## Edit a comment button in the editor toolbar
 

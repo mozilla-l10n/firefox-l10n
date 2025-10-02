@@ -635,7 +635,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = Илова кардани �
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Нависед…
 pdfjs-editor-edit-comment-dialog-cancel-button = Бекор кардан
-pdfjs-editor-edit-comment-dialog-save-button = Нигоҳ доштан
 
 ## Edit a comment button in the editor toolbar
 

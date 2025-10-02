@@ -619,7 +619,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = 新增註解
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = 在此打字…
 pdfjs-editor-edit-comment-dialog-cancel-button = 取消
-pdfjs-editor-edit-comment-dialog-save-button = 儲存
 
 ## Edit a comment button in the editor toolbar
 

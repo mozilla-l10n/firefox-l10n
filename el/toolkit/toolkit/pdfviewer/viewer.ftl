@@ -635,7 +635,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = Προσθήκη σχολί
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Ξεκινήστε να πληκτρολογείτε…
 pdfjs-editor-edit-comment-dialog-cancel-button = Ακύρωση
-pdfjs-editor-edit-comment-dialog-save-button = Αποθήκευση
 
 ## Edit a comment button in the editor toolbar
 

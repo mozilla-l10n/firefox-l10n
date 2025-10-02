@@ -619,7 +619,6 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = Thêm bình luận
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Bắt đầu nhập…
 pdfjs-editor-edit-comment-dialog-cancel-button = Hủy bỏ
-pdfjs-editor-edit-comment-dialog-save-button = Lưu
 
 ## Edit a comment button in the editor toolbar
 
