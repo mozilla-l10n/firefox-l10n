@@ -4,6 +4,10 @@
 
 unexpected-script-close-button =
     .aria-label = Mboty
+# This string is used in the notification bar
+# Variables:
+#   $origin (string) - The top level domain the unexpected script was loaded from
+unexpected-script-load-message = <strong>{ -brand-short-name } ojuhu peteĩ script jerovu oñemoneĩ’ỹva oúva { $origin }</strong> guive
 unexpected-script-load-message-button-allow =
     .label = Moneĩ
     .accesskey = A
