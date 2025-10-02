@@ -168,9 +168,13 @@ about-glean-button-dictionary-link = Dokumentation
 about-glean-button-watch = Overvåg
 # Meaning "to stop watching"
 about-glean-button-unwatch = Fjern overvågning
+about-glean-no-data-to-display = Ingen data at vise.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Målinger med etiketter er ikke understøttet i <code>about:glean</code>-visningen endnu.
 about-glean-unknown-metric-type-warning = Ukendt type af måling.
+about-glean-enable-new-features-promo =
+    .message = Vi arbejder på at tilføje nye funktioner. De er stadig under udvikling, men klik på aktiveringsknappen her, hvis du vil aktivere dem.
+    .heading = Nye funktioner er undervejs!
 about-glean-enable-new-features-button = Aktiver nye funktioner
 about-glean-disable-new-features-button = Deaktiver nye funktioner
 about-glean-about-data-explanation =
