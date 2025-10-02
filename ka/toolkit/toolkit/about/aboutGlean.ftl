@@ -173,6 +173,9 @@ about-glean-no-data-to-display = საჩვენებელი მონა�
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = მონიშნული აზომვები ჯერ არაა მხარდაჭერილი და ვერ გამოაჩენს <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = აზომვის უცნობი სახეობა.
+about-glean-enable-new-features-promo =
+    .message = მუდმივად ვმუშაობთ ახალი შესაძლებლობების დამატებაზე! ჯერ კიდევ არ დასრულებულა შემუშავება, მაგრამ თუ მაინც გსურთ მონიშვნა, დააწკაპეთ ამოქმედების ღილაკს.
+    .heading = ახალი შესაძლებლობები ახლოვდება!
 about-glean-enable-new-features-button = ახალი შესაძლებლობების ჩართვა
 about-glean-disable-new-features-button = ახალი შესაძლებლობების გამორთვა
 about-glean-about-data-explanation =
