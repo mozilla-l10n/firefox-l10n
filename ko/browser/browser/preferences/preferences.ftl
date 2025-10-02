@@ -1124,7 +1124,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = 쿠키 및 사이트 데이터
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = 사이트 데이터와 캐시 크기 계산 중…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = 저장된 쿠키, 기록, 사이트 데이터 및 캐시가 현재 <strong>{ $value } { $unit }</strong>의 디스크 공간을 사용하고 있습니다.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1161,6 +1167,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = 모든 교차 사이트 쿠키 (웹 사이트가 제대로 작동 안 할 수 있음)
 sitedata-option-block-all =
     .label = 모든 쿠키 (웹 사이트가 제대로 작동 안하게 됨)
+sitedata-clear2 =
+    .label = 탐색 데이터 지우기
+    .accesskey = l
+sitedata-settings2 =
+    .label = 탐색 데이터 관리
+    .accesskey = M
 sitedata-clear =
     .label = 데이터 지우기…
     .accesskey = l
@@ -1170,6 +1182,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = 예외 관리…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = 예외 관리
+    .accesskey = x
+    .description = 쿠키 및 사이트 데이터 사용을 항상 허용하거나 허용하지 않을 웹 사이트를 지정할 수 있습니다.
 
 ## Privacy Section - Cookie Banner Handling
 

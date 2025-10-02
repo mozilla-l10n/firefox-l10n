@@ -485,6 +485,8 @@ newtab-weather-opt-in-not-now =
     .label = 나중에
 newtab-weather-opt-in-yes =
     .label = 예
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = 뉴욕
 
 ## Topic Labels
 

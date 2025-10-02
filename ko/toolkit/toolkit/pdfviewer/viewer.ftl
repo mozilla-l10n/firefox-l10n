@@ -597,6 +597,8 @@ pdfjs-editor-edit-comment-popup-button =
 pdfjs-editor-delete-comment-popup-button-label = 주석 제거
 pdfjs-editor-delete-comment-popup-button =
     .title = 주석 제거
+pdfjs-show-comment-button =
+    .title = 주석 보기
 
 ##  Edit a comment dialog
 
@@ -614,8 +616,10 @@ pdfjs-editor-edit-comment-manager-cancel-button = 취소
 pdfjs-editor-edit-comment-manager-save-button = 저장
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = 주석 편집
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = 업데이트
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = 주석 추가
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = 추가
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = 입력하세요…
 pdfjs-editor-edit-comment-dialog-cancel-button = 취소
