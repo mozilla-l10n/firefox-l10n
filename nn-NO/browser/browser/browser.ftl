@@ -123,6 +123,9 @@ browser-main-private-suffix-for-content = Privat nettlesing
 popups-infobar-dont-show-message2 =
     .label = Ikkje vis denne meldinga når sprettoppvindauge eller tredjepartvidaresendingar er blokkerte
     .accesskey = k
+edit-popup-settings2 =
+    .label = Handsame innstillingar for sprettoppvindauge og tredjepartvidaresendingar…
+    .accesskey = H
 
 ##
 
