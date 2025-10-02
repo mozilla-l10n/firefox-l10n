@@ -25,3 +25,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = მომავალში ჩვენების გარეშე
     .accesskey = გ
 sandbox-unprivileged-namespaces-howtofix = როგორ შეიძლება ამის მოგვარება
+sandbox-content-disabled-warning = უსაფრთხოების განცალკევებული გარემო გათიშულია. თქვენი გამართულობა მხარდაუჭერელი და ნაკლებ დაცულია.
