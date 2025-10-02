@@ -164,6 +164,8 @@ contextual-manager-passwords-alert-back-button =
     .label = ກັບຄືນ
 contextual-manager-passwords-alert-list =
     .aria-label = ບັນຊີລາຍຊື່ເຕືອນ
+contextual-manager-passwords-breached-origin-link-message = { -brand-product-name } ຮູ້ກ່ຽວກັບການລະເມີດແນວໃດ?
+contextual-manager-passwords-change-password-button = ປ່ຽນລະຫັດຜ່ານ
 contextual-manager-passwords-add-username-button = ເພີ່ມຊື່ຜູ້ໃຊ້
 contextual-manager-passwords-title = ລະຫັດຜ່ານ
 

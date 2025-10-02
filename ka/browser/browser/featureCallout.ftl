@@ -114,6 +114,14 @@ fxa-adoption-passwords-primary-button-label = ანგარიშის შე
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = დატოვეთ სასურველი სიახლეების არხები ამოცანათა ზოლში
+taskbar-tabs-social-callout-subtitle = გახსენით სოცქსელების საიტები პროგრამის მსგავსად სადა იერსახის ფანჯარაში, რომელსაც დაიცავს { -brand-short-name }.
+taskbar-tabs-chat-callout-title = ისაუბრეთ პირდაპირ ამოცანათა ზოლიდან
+taskbar-tabs-chat-callout-subtitle = გახსენით სასაუბრო საიტები პროგრამის მსგავსად სადა იერსახის ფანჯარაში, რომელსაც დაიცავს { -brand-short-name }.
+taskbar-tabs-email-callout-title = დატოვეთ ელფოსტა ამოცანათა ზოლში
+taskbar-tabs-email-callout-subtitle = გახსენით ელფოსტის საიტები პროგრამის მსგავსად სადა იერსახის ფანჯარაში, რომელსაც დაიცავს { -brand-short-name }.
+taskbar-tabs-media-callout-title = დაუბრუნდით პირდაპირ ეთერს ამოცანათა ზოლიდან
+taskbar-tabs-media-callout-subtitle = გახსენით ნაკადის ეთერში გასაშვები საიტები პროგრამის მსგავსად სადა იერსახის ფანჯარაში, რომელსაც დაიცავს { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = დაამატეთ ეს საიტი ამოცანათა ზოლზე
 taskbar-tabs-value-prop-callout-subtitle = გაუშვით ცალკე ფანჯარაში და გამარტივებული გარსით მხოლოდ ერთი დაწკაპებით.
 
