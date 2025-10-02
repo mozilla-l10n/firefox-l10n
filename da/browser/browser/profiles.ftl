@@ -166,6 +166,8 @@ heart-avatar-alt =
     .alt = Hjerte
 heart-rate-avatar-alt =
     .alt = Hjerterytme
+clock-avatar-alt =
+    .alt = Ur
 history-avatar-alt =
     .alt = Historie
 leaf-avatar-alt =
@@ -190,6 +192,8 @@ present-avatar-alt =
     .alt = Gave
 shopping-avatar-alt =
     .alt = Indkøbsvogn
+soccer-ball-avatar-alt =
+    .alt = Fodbold
 soccer-avatar-alt =
     .alt = Fodbold
 sparkle-single-avatar-alt =
@@ -200,6 +204,9 @@ video-game-controller-avatar-alt =
     .alt = Videospils-controller
 custom-avatar-alt =
     .alt = Tilpas avatar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Klode
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Standard-favicon
