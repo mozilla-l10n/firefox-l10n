@@ -8,6 +8,9 @@
 newtab-page-title = Nueva pestaña
 newtab-settings-button =
     .title = Personaliza tu página de nueva pestaña
+newtab-customize-panel-icon-button =
+    .title = Personaliza esta página
+newtab-customize-panel-icon-button-label = Personalizar
 newtab-personalize-settings-icon-label =
     .title = Personalizar nueva pestaña
     .aria-label = Ajustes
@@ -120,12 +123,20 @@ newtab-menu-delete-pocket = Eliminar de { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivar en { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nuestros patrocinadores y tu privacidad
 newtab-menu-about-fakespot = Acerca de { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = Reporte
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bloquear
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Dejar de seguir tema
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+newtab-menu-manage-sponsored-content = Gestionar contenido patrocinado
+newtab-menu-our-sponsors-and-your-privacy = Nuestros patrocinadores y tu privacidad
+newtab-menu-report-this-ad = Reportar este anuncio
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -183,6 +194,8 @@ newtab-label-sponsored-by = Patrocinado por { $sponsor }
 #   $source (string) - The name of a company or their domain
 #   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } min
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = Patrocinado
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -294,6 +307,9 @@ newtab-custom-pocket-subtitle = Contenido excepcional seleccionado por { -pocket
 newtab-custom-stories-toggle =
     .label = Historias recomendadas
     .description = Contenido excepcional seleccionado por la familia { -brand-product-name }
+newtab-custom-stories-personalized-toggle =
+    .label = Historias
+newtab-custom-stories-personalized-checkbox-label = Historias personalizadas basadas en tu actividad
 newtab-custom-pocket-sponsored = Historias patrocinadas
 newtab-custom-pocket-show-recent-saves = Mostrar guardados recientemente
 newtab-custom-recent-title = Actividad reciente
@@ -301,6 +317,19 @@ newtab-custom-recent-subtitle = Una selección de sitios y contenidos recientes
 newtab-custom-weather-toggle =
     .label = Clima
     .description = El pronóstico estimado para hoy
+newtab-custom-widget-weather-toggle =
+    .label = Clima
+newtab-custom-widget-trending-search-toggle =
+    .label = Búsquedas más populares
+newtab-custom-widget-lists-toggle =
+    .label = Listas
+newtab-custom-widget-timer-toggle =
+    .label = Temporizador
+newtab-custom-widget-section-title = Widgets
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Cerrar
+    .aria-label = Cerrar menú
 newtab-custom-close-button = Cerrar
 newtab-custom-settings = Administrar más ajustes
 
@@ -376,6 +405,7 @@ newtab-wallpaper-starry-canyon = Noche estrellada azul
 newtab-wallpaper-suspension-bridge = Fotografía de un puente colgante gris durante el día
 newtab-wallpaper-sand-dunes = Dunas de arena blanca
 newtab-wallpaper-palm-trees = Silueta de palmeras de coco durante la hora dorada
+newtab-wallpaper-blue-flowers = Fotografía de primer plano de flores de pétalos azules en flor
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
