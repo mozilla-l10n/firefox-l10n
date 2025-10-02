@@ -472,8 +472,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = מעבר לפרנהי�
 newtab-weather-menu-change-temperature-units-celsius = מעבר לצלזיוס
 newtab-weather-menu-hide-weather = הסתרת מזג האוויר בלשונית החדשה
 newtab-weather-menu-learn-more = מידע נוסף
+newtab-weather-menu-detect-my-location = זיהוי המיקום שלי
 # This message is shown if user is working offline
 newtab-weather-error-not-available = נתוני מזג האוויר אינם זמינים כעת.
+newtab-weather-opt-in-see-weather = האם ברצונך לראות את מזג האוויר עבור המיקום שלך?
+newtab-weather-opt-in-not-now =
+    .label = לא כעת
+newtab-weather-opt-in-yes =
+    .label = כן
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = New York City
 
 ## Topic Labels
 

@@ -1128,6 +1128,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = עוגיות ונתוני אתרים
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = חישוב גודל נתוני אתרים ומטמון…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
