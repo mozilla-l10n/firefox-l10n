@@ -1134,6 +1134,10 @@ sitedata-total-size-calculating = חישוב גודל נתוני אתרים ומ
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = העוגיות, ההיסטוריה, נתוני האתרים והמטמון השמורים שלך משתמשים כרגע ב־<strong>{ $value } { $unit }</strong> משטח הדיסק.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = העוגיות, נתוני האתרים והמטמון השמורים שלך משתמשים כרגע ב־{ $value } { $unit } משטח הדיסק.
 sitedata-learn-more = מידע נוסף
 sitedata-delete-on-close =
@@ -1167,6 +1171,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = כל העוגיות חוצות האתרים (עשוי לשבש פעילות של חלק מהאתרים)
 sitedata-option-block-all =
     .label = כל העוגיות (ישבש פעילות של אתרים)
+sitedata-clear2 =
+    .label = מחיקת נתוני גלישה
+    .accesskey = מ
+sitedata-settings2 =
+    .label = ניהול נתוני גלישה
+    .accesskey = נ
 sitedata-clear =
     .label = ניקוי נתונים…
     .accesskey = נ
@@ -1176,6 +1186,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = ניהול חריגות…
     .accesskey = ח
+sitedata-cookies-exceptions2 =
+    .label = ניהול חריגות
+    .accesskey = ח
+    .description = באפשרותך לציין אילו אתרים תמיד מורשים או אסורים להשתמש בעוגיות ונתוני אתרים.
 
 ## Privacy Section - Cookie Banner Handling
 

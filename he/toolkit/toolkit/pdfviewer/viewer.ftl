@@ -613,6 +613,8 @@ pdfjs-editor-edit-comment-popup-button =
 pdfjs-editor-delete-comment-popup-button-label = הסרת הערה
 pdfjs-editor-delete-comment-popup-button =
     .title = הסרת הערה
+pdfjs-show-comment-button =
+    .title = הצגת הערה
 
 ##  Edit a comment dialog
 
@@ -630,8 +632,10 @@ pdfjs-editor-edit-comment-manager-cancel-button = ביטול
 pdfjs-editor-edit-comment-manager-save-button = שמירה
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = עריכת הערה
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = עדכון
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = הוספת הערה
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = הוספה
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = להתחיל להקליד…
 pdfjs-editor-edit-comment-dialog-cancel-button = ביטול
