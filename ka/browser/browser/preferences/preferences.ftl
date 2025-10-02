@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = მუქი
     .title = გამოიყენეთ მუქი იერსახე ვებსაიტის ფონისა და შიგთავსისთვის.
+web-appearance-group =
+    .aria-label = საიტის იერსახე
 preferences-web-appearance-choice-auto = თვითშერჩევა
 preferences-web-appearance-choice-light = ნათელი
 preferences-web-appearance-choice-dark = მუქი
@@ -1071,6 +1073,9 @@ autofill-saved-payment-methods-button = შენახული გადახ
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = საჭიროა მოწყობილობით დამოწმება პაროლების შესავსებად და სამართავად
     .accesskey = ო
+autofill-payment-methods-title = გადახდის საშუალებები
+autofill-payment-methods-header =
+    .aria-label = გადახდის საშუალებები
 
 ## Privacy Section - History
 
