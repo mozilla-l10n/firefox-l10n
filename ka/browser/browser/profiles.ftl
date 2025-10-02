@@ -284,3 +284,31 @@ bike-avatar = ველოსიპედი
 
 barbell-avatar-tooltip =
     .tooltiptext = ორბირთულას გამოსახულების შერჩევა
+bike-avatar-tooltip =
+    .tooltiptext = ველოსიპედის გამოსახულების შერჩევა
+book-avatar-tooltip =
+    .tooltiptext = წიგნის გამოსახულების შერჩევა
+briefcase-avatar-tooltip =
+    .tooltiptext = პორტფელის გამოსახულების შერჩევა
+picture-avatar-tooltip =
+    .tooltiptext = სურათის გამოსახულების შერჩევა
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = ხელობის გამოსახულების შერჩევა
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = მსოფლიოს გამოსახულების შერჩევა
+diamond-avatar-tooltip =
+    .tooltiptext = ალმასის გამოსახულების შერჩევა
+flower-avatar-tooltip =
+    .tooltiptext = ყვავილის გამოსახულების შერჩევა
+folder-avatar-tooltip =
+    .tooltiptext = საქაღალდის გამოსახულების შერჩევა
+hammer-avatar-tooltip =
+    .tooltiptext = უროს გამოსახულების შერჩევა
+heart-avatar-tooltip =
+    .tooltiptext = გულის გამოსახულების შერჩევა
+heart-rate-avatar-tooltip =
+    .tooltiptext = გულისცემის გამოსახულების შერჩევა
+clock-avatar-tooltip =
+    .tooltiptext = საათის გამოსახულების შერჩევა
