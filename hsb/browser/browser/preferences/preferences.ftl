@@ -1148,7 +1148,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Placki a sydłowe daty
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Wulkosć sydłowych datow a pufrowaka so wuličuje…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Waše składowane placki, historiju, sydłowe daty a pufrowak so tuchwilu <strong>{ $value } { $unit }</strong> tačeloweho ruma wužiwaja.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1185,6 +1191,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Wšě sydła přesahowace placki (móže zawinować, zo websydła njefunguja)
 sitedata-option-block-all =
     .label = Wšě placki (móže zawinować, zo websydła hižo njefunguja)
+sitedata-clear2 =
+    .label = Přehladowanske daty zhašeć
+    .accesskey = h
+sitedata-settings2 =
+    .label = Přehladowanske daty rjadować
+    .accesskey = r
 sitedata-clear =
     .label = Daty zhašeć…
     .accesskey = z
@@ -1194,6 +1206,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Wuwzaća rjadować…
     .accesskey = W
+sitedata-cookies-exceptions2 =
+    .label = Wuwzaća rjadować
+    .accesskey = u
+    .description = Móžeće podać, kotre websydła přeco smědźa placki a sydłowe daty wužiwać a kotre nic.
 
 ## Privacy Section - Cookie Banner Handling
 

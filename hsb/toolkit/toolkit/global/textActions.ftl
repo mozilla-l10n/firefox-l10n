@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Wuprózdnić
 text-action-highlight-selection =
     .label = Wuběr wuzběhnyć
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Wuběrej komentar přidać
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Wuběr komentować
