@@ -112,6 +112,19 @@ fxa-adoption-passwords-subtitle = Protejează-ți parolele sincronizându-le cu 
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Înregistrează-te
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Păstrează-ți fluxurile preferate în bara de activități
+taskbar-tabs-social-callout-subtitle = Lansează-ți rețelele de socializare ca pe o aplicație într-o fereastră simplificată, protejată de { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Chat din bara de activități
+taskbar-tabs-chat-callout-subtitle = Lansează-ți rețelele de chat ca pe o aplicație într-o fereastră simplificată, protejată de { -brand-short-name }.
+taskbar-tabs-email-callout-title = Păstrează-ți e-mailul în bara de activități
+taskbar-tabs-email-callout-subtitle = Lansează-ți poșta electronică ca pe o aplicație într-o fereastră simplificată, protejată de { -brand-short-name }.
+taskbar-tabs-media-callout-title = Revino la redarea în flux din bara de activități
+taskbar-tabs-media-callout-subtitle = Lansează-ți site-urile de streaming ca pe o aplicație într-o fereastră simplificată, protejată de { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Adaugă acest site în bara de sarcini
+taskbar-tabs-value-prop-callout-subtitle = Lansează-l în propria fereastră și o interfață simplificată cu un singur clic.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Nu pierde tot ce ai salvat când treci la Windows 11.

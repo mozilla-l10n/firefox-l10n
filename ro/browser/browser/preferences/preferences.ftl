@@ -259,6 +259,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Întunecat
     .title = Folosește un aspect întunecat pentru fundalurile și conținutul site-urilor web.
+web-appearance-group =
+    .aria-label = Aspectul site-urilor web
 preferences-web-appearance-choice-auto = Automat
 preferences-web-appearance-choice-light = Deschis
 preferences-web-appearance-choice-dark = Întunecat
@@ -1075,6 +1077,28 @@ autofill-saved-payment-methods-button = Metode de plată salvate
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Trebuie să intri în cont pe dispozitiv ca să completezi și să gestionezi metode de plată
     .accesskey = o
+autofill-payment-methods-title = Metode de plată
+autofill-payment-methods-header =
+    .aria-label = Metode de plată
+autofill-payment-methods-checkbox-message-2 =
+    .label = Salvează și completează automat informațiile pentru plăți
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Gestionează metodele de plată
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Trebuie să intri în cont pe dispozitiv ca să completezi automat și să gestionezi metodele de plată
+    .accesskey = o
+autofill-addresses-title = Adrese și multe altele
+autofill-addresses-header =
+    .aria-label = Adrese și multe altele
+autofill-addresses-checkbox-message =
+    .label = Salvează și completează automat adrese
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Gestionează adresele și multe altele
+    .accesskey = M
 
 ## Privacy Section - History
 
@@ -1145,6 +1169,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Elemente de urmărire inter-site-uri
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cookie-uri de urmărire inter-site-uri
+sitedata-option-block-cross-site-cookies2 =
+    .label = Izolează cookie-urile inter-site-uri
 sitedata-option-block-cross-site-cookies =
     .label = Cookie-uri de urmărire inter-site-uri și izolează celelate cookie-uri inter-site-uri
 sitedata-option-block-unvisited =
@@ -1269,6 +1295,7 @@ content-blocking-private-windows = Conținutul de urmărire în ferestre private
 content-blocking-cross-site-cookies-in-all-windows2 = Cookie-uri inter-site-uri în toate ferestrele
 content-blocking-cross-site-tracking-cookies = Cookie-uri de urmărire inter-site-uri
 content-blocking-all-cross-site-cookies-private-windows = Cookie-uri inter-site-uri în ferestrele private
+content-blocking-isolate-cross-site-cookies = Izolează cookie-urile inter-site-uri
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie-uri de urmărire inter-site-uri și izolează restul cookie-urilor
 content-blocking-social-media-trackers = Elementele de urmărire ale rețelelor sociale
 content-blocking-all-cookies = Toate cookie-urile
@@ -1514,6 +1541,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificate
+certs-description = Configurează certificatele pe care { -brand-short-name } le folosește pentru autentificare.
 certs-enable-ocsp =
     .label = Interoghează serverele de răspuns OCSP pentru confirmarea valabilității actuale a certificatelor
     .accesskey = h

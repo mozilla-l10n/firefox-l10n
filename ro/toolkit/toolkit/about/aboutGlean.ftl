@@ -170,9 +170,15 @@ about-glean-button-dictionary-link = Documente
 about-glean-button-watch = Monitorizează
 # Meaning "to stop watching"
 about-glean-button-unwatch = Oprește monitorizarea
+about-glean-no-data-to-display = Nu sunt date de afișat.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Metricile etichetate încă nu sunt acceptate în vizualizarea <code>about:glean</code>
 about-glean-unknown-metric-type-warning = Tip necunoscut de metrică.
+about-glean-enable-new-features-promo =
+    .message = Lucrăm la adăugarea de funcții noi! Sunt încă în curs de dezvoltare, dar dă clic pe butonul de aici dacă vrei să le activezi.
+    .heading = Vin funcții noi!
+about-glean-enable-new-features-button = Activează funcții noi
+about-glean-disable-new-features-button = Dezactivează funcțiile noi
 about-glean-about-data-explanation =
     Ca să răsfoiești lista de date colectate, vezi
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dicționarul</a>.

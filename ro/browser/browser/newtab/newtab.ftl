@@ -643,6 +643,9 @@ newtab-widget-lists-input-menu-move-up = Mută în sus
 newtab-widget-lists-input-menu-move-down = Mută în jos
 newtab-widget-lists-input-menu-delete = Șterge
 newtab-widget-lists-input-menu-edit = Editează
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Creează o listă nouă
 newtab-widget-lists-name-label-default =
     .label = Listă de sarcini
 newtab-widget-lists-name-placeholder-default =

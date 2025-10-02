@@ -407,3 +407,5 @@ etp-strict-exceptions-infobar-message = <strong>Protecția strictă împotriva u
 etp-strict-exceptions-infobar-learn-more = Află mai multe
 etp-strict-exceptions-infobar-button = Aplică remediile
     .accesskey = A
+etp-strict-exceptions-infobar-not-now = Nu acum
+    .accesskey = N

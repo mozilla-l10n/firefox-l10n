@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Setează un cronometru c
 experimental-features-newtab-widget-lists-and-timer =
     .label = Liste și cronometru pe { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Fă o prioritate din lista de sarcini când deschizi o filă nouă. De la liste de împachetare la liste de cumpărături, fă-ți planurile în { -brand-product-name }. Setează un cronometru care să te țină concentrat(ă), să te îndemne să te ții de treabă sau să îți reamintească să iei o pauză. <a data-l10n-name="connect">Trimite feedback</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Căutare istorică semantică
+experimental-features-semantic-history-search-description = Folosește un model local de învățare automată pentru a sugera intrări din istoric care sunt legate de căutările tale, pe baza înțelegerii limbajului natural din bara de adrese { -brand-product-name }. <a data-l10n-name="connect">Trimite feedback</a>
