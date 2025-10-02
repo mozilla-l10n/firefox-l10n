@@ -477,8 +477,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Bytt til Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Bytt til Celsius
 newtab-weather-menu-hide-weather = Skjul været på ny fane
 newtab-weather-menu-learn-more = Les mer
+newtab-weather-menu-detect-my-location = Oppdag posisjonen min
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Værdata er ikke tilgjengelig akkurat nå.
+newtab-weather-opt-in-see-weather = Vil du se været for din plassering?
+newtab-weather-opt-in-not-now =
+    .label = Ikke nå
+newtab-weather-opt-in-yes =
+    .label = Ja
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = New York City
 
 ## Topic Labels
 

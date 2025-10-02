@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Leeren
 text-action-highlight-selection =
     .label = Auswahl hervorheben
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Kommentar zur Auswahl hinzufügen
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Auswahl kommentieren

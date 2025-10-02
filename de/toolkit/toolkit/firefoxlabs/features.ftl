@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Stellen Sie einen Timer 
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listen und Timer auf { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Behalten Sie Ihre Aufgabenliste im Blick, wenn Sie einen neuen Tab öffnen. Von Packlisten bis hin zu Einkaufslisten, planen Sie alles in { -brand-product-name }. Stellen Sie einen Timer ein, um konzentriert zu bleiben, sich selbst anzuspornen oder sich daran zu erinnern, neue Energie zu tanken. <a data-l10n-name="connect">Feedback teilen</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantische Chroniksuche
+experimental-features-semantic-history-search-description = Verwenden Sie ein lokales Machine-Learning-Modell, um Einträge aus der Chronik, die sich auf Ihre Suchanfragen beziehen, basierend auf dem Verständnis natürlicher Sprache in der { -brand-product-name }-Adressleiste vorzuschlagen. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>

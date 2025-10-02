@@ -338,3 +338,9 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Åpne gruppe i nytt vindu
+
+## Split View
+
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on tabs inside of a tab split view
+tabbrowser-tab-label-tab-split-view = Delt visning

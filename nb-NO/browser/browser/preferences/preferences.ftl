@@ -1140,7 +1140,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Infokapsler og nettstedsdata
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Regner ut størrelse på nettstedsdata og hurtiglager…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Dine lagrede infokapsler, historikk, nettstedsdata og hurtiglager bruker for øyeblikket <strong>{ $value } { $unit }</strong> diskplass.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1177,6 +1183,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Alle infokapsler på tvers av nettsteder (kan føre til at nettsteder ikke fungerer)
 sitedata-option-block-all =
     .label = Alle infokapsler (vil føre til feil på nettsteder)
+sitedata-clear2 =
+    .label = Fjern nettleserdata
+    .accesskey = j
+sitedata-settings2 =
+    .label = Behandle nettleserdata
+    .accesskey = B
 sitedata-clear =
     .label = Tøm data…
     .accesskey = a
@@ -1186,6 +1198,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Behandle unntak…
     .accesskey = B
+sitedata-cookies-exceptions2 =
+    .label = Behandle unntak
+    .accesskey = e
+    .description = Du kan angi hvilke nettsteder som alltid eller aldri har lov til å bruke infokapsler og nettstedsdata.
 
 ## Privacy Section - Cookie Banner Handling
 

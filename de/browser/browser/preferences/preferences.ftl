@@ -1140,7 +1140,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies und Website-Daten
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Größe von Website-Daten und Cache wird berechnet…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Die gespeicherten Cookies, Chronik, Website-Daten und der Cache belegen derzeit <strong>{ $value } { $unit }</strong> Speicherplatz.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1177,6 +1183,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Alle seitenübergreifenden Cookies (einige Websites funktionieren dann eventuell nicht mehr)
 sitedata-option-block-all =
     .label = Alle Cookies (einige Websites funktionieren dann nicht mehr)
+sitedata-clear2 =
+    .label = Surf-Daten löschen
+    .accesskey = l
+sitedata-settings2 =
+    .label = Surf-Daten verwalten
+    .accesskey = v
 sitedata-clear =
     .label = Daten entfernen…
     .accesskey = e
@@ -1186,6 +1198,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Ausnahmen verwalten…
     .accesskey = u
+sitedata-cookies-exceptions2 =
+    .label = Ausnahmen verwalten
+    .accesskey = A
+    .description = Sie können festlegen, welche Websites immer oder nie Cookies und Seitendaten verwenden dürfen.
 
 ## Privacy Section - Cookie Banner Handling
 
