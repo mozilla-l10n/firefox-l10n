@@ -551,3 +551,28 @@ newtab-download-mobile-highlight-body-variant-b = Continúa donde lo dejaste cua
 ## Strings for reporting ads and content
 
 newtab-report-cancel = Cancelar
+newtab-report-submit = Enviar
+
+## Strings for task / to-do list productivity widget
+
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nuevo
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Completado ({ $number })
+newtab-widget-task-list-menu-copy = Copiar
+newtab-widget-lists-menu-edit = Editar el nombre de la lista
+newtab-widget-lists-menu-create = Crear una nueva lista
+newtab-widget-lists-menu-delete = Eliminar esta lista
+newtab-widget-lists-menu-copy = Copiar la lista al portapapeles
+newtab-widget-lists-menu-hide = Ocultar todas las listas
+newtab-widget-lists-menu-learn-more = Saber más
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Agregar un elemento
+newtab-widget-lists-input-error = Incluye texto para agregar un elemento.
+newtab-widget-lists-input-menu-open-link = Abrir el enlace
+newtab-widget-lists-input-menu-move-up = Mover hacia arriba
