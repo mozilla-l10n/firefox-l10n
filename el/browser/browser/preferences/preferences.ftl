@@ -1082,6 +1082,10 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = Διαχείριση μεθόδων πληρωμής
     .accesskey = μ
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Απαίτηση σύνδεσης μέσω συσκευής για αυτόματη συμπλήρωση και διαχείριση μεθόδων πληρωμής
+    .accesskey = π
 autofill-addresses-title = Διευθύνσεις και άλλα
 autofill-addresses-header =
     .aria-label = Διευθύνσεις και άλλα
@@ -1533,6 +1537,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Πιστοποιητικά
+certs-description = Ρυθμίστε τα πιστοποιητικά που χρησιμοποιεί το { -brand-short-name } για ταυτοποίηση.
 certs-enable-ocsp =
     .label = Αίτημα σε διακομιστές OCSP για την επιβεβαίωση της τρέχουσας εγκυρότητας των πιστοποιητικών
     .accesskey = δ
