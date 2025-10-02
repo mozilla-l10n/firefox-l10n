@@ -27,14 +27,14 @@ neterror-return-to-previous-page-button = Regresar
 neterror-return-to-previous-page-recommended-button = Volver (recomendado)
 neterror-try-again-button = Intentar de nuevo
 neterror-add-exception-button = Continuar siempre para este sitio
-neterror-settings-button = Cambiar la configuración de DNS
+neterror-settings-button = Cambiar los ajustes de DNS
 neterror-view-certificate-link = Ver certificado
 neterror-trr-continue-this-time = Continuar esta vez
 neterror-disable-native-feedback-warning = Continuar siempre
 
 ##
 
-neterror-pref-reset = Parece que la configuración de seguridad de la red podría estar provocando esto. ¿Quieres la configuración predeterminada para restaurar?
+neterror-pref-reset = Parece que la configuración de seguridad de tu red podría estar causando este problema. ¿Quieres que se restablezcan las configuraciones predeterminadas?
 neterror-error-reporting-automatic = Informa errores de este tipo para ayudar a { -vendor-short-name } a identificar y bloquear sitios maliciosos.
 
 ## Specific error messages
