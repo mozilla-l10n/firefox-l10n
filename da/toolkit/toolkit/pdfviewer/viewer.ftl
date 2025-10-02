@@ -370,6 +370,18 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Teksteditor
     .default-content = Begynd at skrive…
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] Kommentar
+       *[other] Kommentarer
+    }
+pdfjs-editor-comments-sidebar-close-button =
+    .title = Luk sidepanelet
+    .aria-label = Luk sidepanelet
+pdfjs-editor-comments-sidebar-close-button-label = Luk sidepanelet
 
 ## Alt-text dialog
 
