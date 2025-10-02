@@ -483,6 +483,13 @@ newtab-weather-menu-learn-more = Dalšne informacije
 newtab-weather-menu-detect-my-location = Mójo stojnišćo namakaś
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Wjedrowe daty njejsu tuchylu k dispoziciji
+newtab-weather-opt-in-see-weather = Cośo wjedro za swóje stojnišćo wiźeś?
+newtab-weather-opt-in-not-now =
+    .label = Nic něnto
+newtab-weather-opt-in-yes =
+    .label = Jo
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = New York City
 
 ## Topic Labels
 

@@ -1148,7 +1148,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookieje a sedłowe daty
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Wjelikosć sedłowych datow a purfowaka se wulicijo…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Waše skłaźone cookieje, historija, sedłowe daty a pufrowak se tuchylu <strong>{ $value } { $unit }<strong> platowego ruma wužywaju.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1185,6 +1191,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Wšykne sedła pśesegajuce cookieje (móžo zawinowaś, až websedła njefunkcioněruju)
 sitedata-option-block-all =
     .label = Wšykne cookieje (móžo zawinowaś, až websedła wěcej njefunkcioněruju)
+sitedata-clear2 =
+    .label = Pśeglědowańske daty lašowaś
+    .accesskey = l
+sitedata-settings2 =
+    .label = Pśeglědowańske daty zastojaś
+    .accesskey = z
 sitedata-clear =
     .label = Daty lašowaś…
     .accesskey = l
@@ -1194,6 +1206,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Wuwześa zastojaś…
     .accesskey = u
+sitedata-cookies-exceptions2 =
+    .label = Wuwześa zastojaś
+    .accesskey = u
+    .description = Móžośo pódaś, kótare websedła směju pśecej cookieje a sedłowe daty wužywaś a kótare nic.
 
 ## Privacy Section - Cookie Banner Handling
 
