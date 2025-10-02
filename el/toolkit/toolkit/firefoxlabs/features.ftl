@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Ξεκινήστε μι�
 experimental-features-newtab-widget-lists-and-timer =
     .label = Λίστες και αντίστροφη μέτρηση στην { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Κρατήστε τη λίστα με τις εκκρεμότητές σας πάντα σε πρώτο πλάνο όταν ανοίγετε μια νέα καρτέλα. Από λίστες αποσκευών μέχρι λίστες αγορών, οργανώστε τα σχέδιά σας στο { -brand-product-name }. Ρυθμίστε μια αντίστροφη μέτρηση για να παραμείνετε συγκεντρωμένοι ή να κάνετε ένα αναζωογονητικό διάλειμμα. <a data-l10n-name="connect">Αποστολή σχολίων</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Εννοιολογική αναζήτηση ιστορικού
+experimental-features-semantic-history-search-description = Χρησιμοποιήστε ένα τοπικό μοντέλο μηχανικής μάθησης στη γραμμή διευθύνσεων του { -brand-product-name }, για την εμφάνιση προτεινόμενων καταχωρήσεων από το ιστορικό σας, που σχετίζονται με τις αναζητήσεις σας, με βάση την κατανόηση της φυσικής γλώσσας. <a data-l10n-name="connect">Αποστολή σχολίων</a>
