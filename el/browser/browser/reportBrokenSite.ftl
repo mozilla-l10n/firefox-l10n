@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Αναφορά προβληματικού ι
 report-broken-site-panel-header =
     .label = Αναφορά προβληματικού ιστοτόπου
     .title = Αναφορά προβληματικού ιστοτόπου
+report-broken-site-panel-learn-more-link = Μάθετε περισσότερα
 report-broken-site-panel-intro = Συμβάλετε στη βελτίωση του { -brand-product-name } για όλους. Η { -vendor-short-name } χρησιμοποιεί τις πληροφορίες που στέλνετε για να διορθώσει προβλήματα ιστοτόπων.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Τι δεν λειτουργεί;

@@ -1140,6 +1140,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie και δεδομένα ιστοτόπων
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδομένων ιστοτόπου και προσωρινής μνήμης…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1177,6 +1179,9 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Όλα τα cookie μεταξύ ιστοτόπων (πιθανή δυσλειτουργία ιστοτόπων)
 sitedata-option-block-all =
     .label = Όλα τα cookie (προκαλεί δυσλειτουργία ιστοτόπων)
+sitedata-settings2 =
+    .label = Διαχείριση δεδομένων περιήγησης
+    .accesskey = Δ
 sitedata-clear =
     .label = Απαλοιφή δεδομένων…
     .accesskey = ι

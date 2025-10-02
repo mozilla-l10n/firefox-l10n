@@ -613,6 +613,8 @@ pdfjs-editor-edit-comment-popup-button =
 pdfjs-editor-delete-comment-popup-button-label = Αφαίρεση σχολίου
 pdfjs-editor-delete-comment-popup-button =
     .title = Αφαίρεση σχολίου
+pdfjs-show-comment-button =
+    .title = Εμφάνιση σχολίου
 
 ##  Edit a comment dialog
 
@@ -630,8 +632,10 @@ pdfjs-editor-edit-comment-manager-cancel-button = Ακύρωση
 pdfjs-editor-edit-comment-manager-save-button = Αποθήκευση
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = Επεξεργασία σχολίου
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = Ενημέρωση
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = Προσθήκη σχολίου
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = Προσθήκη
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Ξεκινήστε να πληκτρολογείτε…
 pdfjs-editor-edit-comment-dialog-cancel-button = Ακύρωση

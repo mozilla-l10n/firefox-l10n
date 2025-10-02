@@ -480,6 +480,12 @@ newtab-weather-menu-hide-weather = Απόκρυψη καιρού στη νέα �
 newtab-weather-menu-learn-more = Μάθετε περισσότερα
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Τα δεδομένα καιρού δεν είναι διαθέσιμα αυτήν τη στιγμή.
+newtab-weather-opt-in-not-now =
+    .label = Όχι τώρα
+newtab-weather-opt-in-yes =
+    .label = Ναι
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Νέα Υόρκη
 
 ## Topic Labels
 
