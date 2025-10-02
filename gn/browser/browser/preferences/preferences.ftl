@@ -1528,6 +1528,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Mboajepyréva
+certs-description = Emboheko umi mboajepyre { -brand-short-name } oiporúva omoneĩkuaa hag̃ua.
 certs-enable-ocsp =
     .label = Mohendahavusu mbohovái porandu OCSP rehegua emoañete hag̃ua oiko gueteriha umi mboajepyre ag̃aguáva.
     .accesskey = Q

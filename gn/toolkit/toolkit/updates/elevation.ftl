@@ -22,3 +22,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Anive ehechauka
     .accesskey = D
 sandbox-unprivileged-namespaces-howtofix = Mba’éicha emoĩporã ko apañuái
+sandbox-content-disabled-warning = Pe tekorosã jeregua oñemboguetéma. Iñemboheko ndojokupytýi ha nahekorosãi.
