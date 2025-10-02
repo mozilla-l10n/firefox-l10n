@@ -1178,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blokker sprettoppvindauge frå { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Tillat sprettoppvindauge og tredjepartvidaresendingar for { $uriHost }
+    .accesskey = T
 
 ##
 
