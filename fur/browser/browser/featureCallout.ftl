@@ -119,6 +119,11 @@ taskbar-tabs-social-callout-subtitle = Vierç i sît dai social come se a fossin
 taskbar-tabs-chat-callout-title = Chate de sbare des aplicazions
 taskbar-tabs-chat-callout-subtitle = Invie i tiei sîts pes chats come che a fossin une aplicazion, intun barcon otimizât e protet di { -brand-short-name }.
 taskbar-tabs-email-callout-title = Mantel la tô e-mail te sbare des aplicazions
+taskbar-tabs-email-callout-subtitle = Invie la tô webmail come une aplicazion intun barcon otimizât e protet di { -brand-short-name }.
+taskbar-tabs-media-callout-title = Ripie la trasmission de sbare des aplicazions
+taskbar-tabs-media-callout-subtitle = Vierç i tiei sîts di streaming preferîts come che a fossin aplicazions, intun barcon otimizât e protet di { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Zonte chest sît ae sbare des aplicazions
+taskbar-tabs-value-prop-callout-subtitle = Vierzilu tal so barcon e une interface semplificade cuntun sôl clic.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -127,6 +132,12 @@ windows-10-eos-sync-urgency-subtitle-1 = Sincronize daurman par tignî i segneli
 windows-10-eos-sync-urgency-title-2 = Stâstu saludant par simpri Windows 10? Protêç i tiei dâts al passaç di sisteme operatîf.
 windows-10-eos-sync-urgency-subtitle-2 = Ancje se no tu dopris { -brand-short-name } ogni dì, dopre la sincronizazion par tignî al sigûr e a puartade di man i segnelibris e lis passwords.
 windows-10-eos-sync-new-device-title-1 = No sta riscjâ di tornâ a scomençâ dal inizi sul to prossim dispositîf.
+windows-10-eos-sync-new-device-subtitle-1 = Sincronize par puartâti daûr i tiei segnelibris, lis passwords e lis impostazions preferidis di { -brand-short-name } al passaç di sisteme operatîf.
+windows-10-eos-sync-new-device-title-2 = Desideristu passâ a un gnûf dispositîf? No sta pierdi ce che al è impuartant.
+windows-10-eos-sync-new-device-subtitle-2 = Nol impuarte trop dispès che tu dopris { -brand-short-name }, la sincronizazion e protêç i tiei segnelibris, lis passwords e lis impostazions.
+windows-10-eos-sync-new-device-primary-label = Sincronize cumò
+windows-10-eos-sync-general-subtitle-1 = Fâs il backup e sincronize lis tôs passwords, i segnelibris, lis impostazions e altris dâts par preservâ lis robis che ti coventin.
+windows-10-eos-sync-general-title-2 = Al è il moment just par fâ il backup di passwords e segnelibris.
 
 ## Sidebar Strings
 

@@ -2,14 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = { -brand-short-name } aneqqis n truẓi
+crashreporter-apology = Nesḥassef
 crashreporter-plea = Iwakken ad ɣ-d-tefkeḍ tallalt i tifin akked useɣti n wugur-agi, tzemreḍ ad ɣ-d-tazeneḍ assaɣ n uɣelluy.
+crashreporter-error-details-header = Talqayt :
 crashreporter-no-run-message = Asnas-agi ittuselkem deffir n uɣelluy iwakken ad yazen ugur yeḍṛan i umaẓrag n usnas. Ur issefk ara ad ittusenker s srid.
 crashreporter-button-details = Aglam leqqayen…
 crashreporter-loading-details = Asali…
 crashreporter-view-report-title = Agbur n ussaɣ
 crashreporter-comment-prompt = Rnu awennit (Iwenniten ad ten-walin akk yemdanen)
 crashreporter-report-info = Assaɣ-agi yegber diɣen talɣut tatiknikant ɣef waddad n usnas m'akken yeɣli.
+crashreporter-checkbox-test-hardware = Senqed uguren n warrum d twila ɣef yibenk-inu.
+crashreporter-checkbox-send-report = Mel i { -vendor-short-name } yerzan taruẓi-a i wakken ad tt-iṣeggem.
+crashreporter-checkbox-include-url = Seddu tansa n usebter iɣef lliɣ.
 crashreporter-submit-status = Aneqqis-inek n uɣelluy ad ittwazen send amdal neɣ asenker n wahil.
+crashreporter-submit-waiting-hardware-tests = Asenqed uguren n warrum d twila ɣef yibenk…
 crashreporter-submit-in-progress = Tuzzna n ussaɣ…
 crashreporter-submit-success = Assaɣ yettwazen akken iwata!
 crashreporter-submit-failure = Yeḍra-d wugur di tuzzna n ussaɣ.

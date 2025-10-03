@@ -1086,6 +1086,15 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Kræv login på enhed for at autofylde og håndtere betalingsmetoder
     .accesskey = o
+autofill-addresses-title = Adresser med mere
+autofill-addresses-header =
+    .aria-label = Adresser med mere
+autofill-addresses-checkbox-message =
+    .label = Gem og autofyld adresser
+    .accesskey = G
+autofill-addresses-manage-addresses-button =
+    .label = Håndter adresser med mere
+    .accesskey = H
 
 ## Privacy Section - History
 
@@ -1137,6 +1146,10 @@ sitedata-total-size-calculating = Udregner størrelse på cache og websteds-data
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Gemte cookies, historik, websteds-data og cache bruger lige nu <strong>{ $value } { $unit }</strong> diskplads.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dine gemte cookies, websteds-data og cache bruger lige nu { $value } { $unit } diskplads.
 sitedata-learn-more = Læs mere
 sitedata-delete-on-close =
@@ -1170,6 +1183,9 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Alle cookies på tværs af websteder (kan forhindre websteder i at fungere)
 sitedata-option-block-all =
     .label = Alle cookies (vil forhindre websteder i at fungere)
+sitedata-clear2 =
+    .label = Ryd browserdata
+    .accesskey = y
 sitedata-clear =
     .label = Ryd data…
     .accesskey = R
