@@ -409,7 +409,7 @@ newtab-wallpaper-abstract-purple-green = Sfumatura di luce viola e verde
 newtab-wallpaper-abstract-blue-purple-waves = Forme ondulate blu e viola
 newtab-wallpaper-abstract-black-waves = Forme ondulate nere
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Fotografie
 newtab-wallpaper-beach-at-sunrise = Spiaggia all’alba
@@ -695,4 +695,3 @@ newtab-promo-card-cta = Ulteriori informazioni
 newtab-promo-card-dismiss-button =
     .title = Chiudi
     .aria-label = Chiudi
-
