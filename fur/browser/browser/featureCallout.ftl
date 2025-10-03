@@ -112,6 +112,22 @@ fxa-adoption-passwords-subtitle = Protêç lis tôs passwords sincronizantlis cu
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Regjistriti
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Ten i tiei feeds preferîts te sbare des aplicazions
+taskbar-tabs-social-callout-subtitle = Vierç i sît dai social come se a fossin aplicazions, intun barcon otimizât e protet di { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Chate de sbare des aplicazions
+taskbar-tabs-chat-callout-subtitle = Invie i tiei sîts pes chats come che a fossin une aplicazion, intun barcon otimizât e protet di { -brand-short-name }.
+taskbar-tabs-email-callout-title = Mantel la tô e-mail te sbare des aplicazions
+
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-title-1 = No sta pierdi dut ce che tu âs salvât cuant che tu passis a Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sincronize daurman par tignî i segnelibris, lis passwords e lis impostazions di { -brand-short-name } al sigûr e par podêlis ripristinâ in mût sempliç.
+windows-10-eos-sync-urgency-title-2 = Stâstu saludant par simpri Windows 10? Protêç i tiei dâts al passaç di sisteme operatîf.
+windows-10-eos-sync-urgency-subtitle-2 = Ancje se no tu dopris { -brand-short-name } ogni dì, dopre la sincronizazion par tignî al sigûr e a puartade di man i segnelibris e lis passwords.
+windows-10-eos-sync-new-device-title-1 = No sta riscjâ di tornâ a scomençâ dal inizi sul to prossim dispositîf.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostre i titui des schedis te sbare laterâl

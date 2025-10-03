@@ -1082,6 +1082,10 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = Håndter betalingsmetoder
     .accesskey = b
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Kræv login på enhed for at autofylde og håndtere betalingsmetoder
+    .accesskey = o
 
 ## Privacy Section - History
 
