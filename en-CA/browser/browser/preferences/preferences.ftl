@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Tell websites not to sell or share my data
     .accesskey = s
 non-technical-privacy-header = Website Privacy Preferences
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Close
+do-not-track-removal2 =
+    .label = We no longer support the “Do Not Track” signal
 
 ## Browser Restart Dialog
 
@@ -252,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Dark
     .title = Use a dark appearance for website backgrounds and content.
+web-appearance-group =
+    .aria-label = Website appearance
 preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Light
 preferences-web-appearance-choice-dark = Dark
@@ -1067,6 +1073,28 @@ autofill-saved-payment-methods-button = Saved payment methods
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Require device sign in to fill and manage payment methods
     .accesskey = o
+autofill-payment-methods-title = Payment methods
+autofill-payment-methods-header =
+    .aria-label = Payment methods
+autofill-payment-methods-checkbox-message-2 =
+    .label = Save and autofill payment info
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Manage payment methods
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Require device sign in to autofill and manage payments methods
+    .accesskey = o
+autofill-addresses-title = Addresses and more
+autofill-addresses-header =
+    .aria-label = Addresses and more
+autofill-addresses-checkbox-message =
+    .label = Save and autofill addresses
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Manage addresses and more
+    .accesskey = M
 
 ## Privacy Section - History
 
@@ -1112,7 +1140,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies and Site Data
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Calculating site data and cache size…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Your stored cookies, history, site data, and cache are currently using <strong>{ $value } { $unit }</strong> of disk space.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1139,6 +1173,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Cross-site trackers
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cross-site tracking cookies
+sitedata-option-block-cross-site-cookies2 =
+    .label = Isolate cross-site cookies
 sitedata-option-block-cross-site-cookies =
     .label = Cross-site tracking cookies, and isolate other cross-site cookies
 sitedata-option-block-unvisited =

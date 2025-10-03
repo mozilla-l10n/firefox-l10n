@@ -377,3 +377,31 @@ windows-10-eos-sync-callout-privacy-screen-2-title = Secure your passwords and b
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Backing up { -brand-shorter-name } makes it easy to bring your data and privacy settings with you.
 windows-10-eos-sync-callout-privacy-info-button = See what’s blocked
 windows-10-eos-callout-addons-title = Try add-ons: simple upgrades, big impacts
+windows-10-eos-callout-addons-subtitle = These extensions were chosen to help you stay productive, protected, and distraction-free.
+windows-10-eos-callout-addons-primary-button = See our picks
+windows-10-eos-sync-callout-addons-title = Don’t lose your add-ons when you upgrade from Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sync now so your { -brand-product-name } add-ons are always available, even after a device change.
+windows-10-eos-sync-callout-next-button = Next
+windows-10-eos-sync-callout-get-started-button = Get started
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Vertical tabs and tab groups are here!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = By popular request, { -brand-product-name } just dropped new features to keep your browsing streamlined and focused.
+windows-10-eos-feature-toast-whats-new-button = See what’s new
+windows-10-eos-feature-toast-dismiss-button = Dismiss
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>Strict tracking protection can cause sites to break.</strong> Fix common issues by unblocking essential elements that could contain trackers.
+etp-strict-exceptions-infobar-learn-more = Learn more
+etp-strict-exceptions-infobar-button = Apply fixes
+    .accesskey = A
+etp-strict-exceptions-infobar-not-now = Not now
+    .accesskey = N

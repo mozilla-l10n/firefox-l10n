@@ -79,6 +79,7 @@ policy-ExtensionSettings = Manage all aspects of extension installation.
 policy-ExtensionUpdate = Enable or disable automatic extension updates.
 policy-FirefoxHome2 = Configure { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Configure { -firefox-suggest-brand-name }.
+policy-GenerativeAI = Configure generative AI features.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Force direct intranet site navigation instead of searching when typing single word entries in the address bar.
 policy-Handlers = Configure default application handlers.
 policy-HardwareAcceleration = If false, turn off hardware acceleration.
@@ -97,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revert to legacy SameS
 ##
 
 policy-LocalFileLinks = Allow specific websites to link to local files.
+policy-LocalNetworkAccess = Enable or disable local network access checks.
 policy-ManagedBookmarks = Configures a list of bookmarks managed by an administrator that cannot be changed by the user.
 policy-ManualAppUpdateOnly = Allow manual updates only and do not notify the user about updates.
 policy-PrimaryPassword = Require or prevent using a Primary Password.
@@ -117,6 +119,7 @@ policy-PostQuantumKeyAgreementEnabled = Enable post-quantum key agreement for TL
 policy-PDFjs = Disable or configure PDF.js, the built-in PDF viewer in { -brand-short-name }.
 policy-Permissions2 = Configure permissions for camera, microphone, location, notifications, and autoplay.
 policy-PictureInPicture = Enable or disable Picture-in-Picture.
+policy-PopupBlocking2 = Allow certain websites to display popups and be redirected by third-party frames.
 policy-PopupBlocking = Allow certain websites to display popups by default.
 policy-Preferences = Set and lock the value for a subset of preferences.
 policy-PrivateBrowsingModeAvailability = Set availability of private browsing mode.
@@ -139,6 +142,7 @@ policy-SupportMenu = Add a custom support menu item to the help menu.
 policy-TranslateEnabled = Enable or disable webpage translation.
 policy-UserMessaging = Don’t show certain messages to the user.
 policy-UseSystemPrintDialog = Print using the system print dialog.
+policy-VisualSearchEnabled = Enable or disable visual search.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Block websites from being visited. See documentation for more details on the format.
 policy-Windows10SSO = Allow Windows single sign-on for Microsoft, work, and school accounts.

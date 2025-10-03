@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Private Browsing
+popups-infobar-dont-show-message2 =
+    .label = Don’t show this message when pop-ups or third-party redirects are blocked
+    .accesskey = D
+edit-popup-settings2 =
+    .label = Manage pop-up and third-party redirect settings…
+    .accesskey = M
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = You have blocked this website from sharing your screen.
 urlbar-persistent-storage-blocked =
     .tooltiptext = You have blocked persistent storage for this website.
+urlbar-popup-blocked2 =
+    .tooltiptext = You have blocked pop-ups and third-party redirects for this website.
 urlbar-popup-blocked =
     .tooltiptext = You have blocked pop-ups for this website.
 urlbar-autoplay-media-blocked =
@@ -1170,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Block pop-ups for { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Allow pop-ups and third-party redirects for { $uriHost }
+    .accesskey = p
 
 ##
 
@@ -1380,6 +1391,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Show “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Show “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1426,6 +1441,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } thinks companies s
 trustpanel-connection-label-secure = Connection secure
 trustpanel-connection-label-insecure = Connection not secure
 trustpanel-header-enabled = { -brand-product-name } is on guard
+trustpanel-description-enabled2 = You’re protected. If we spot something, we’ll let you know.
+trustpanel-header-enabled-insecure = Be careful on this site
+trustpanel-description-enabled-insecure = { -brand-product-name } noticed something suspicious.
 trustpanel-description-enabled = You’re protected. If we spot something, we’ll let you know
 trustpanel-header-disabled = You turned off protections
 trustpanel-description-disabled = { -brand-product-name } is off-duty. We suggest turning protections back on.

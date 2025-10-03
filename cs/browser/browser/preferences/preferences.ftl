@@ -1494,6 +1494,7 @@ content-blocking-etp-standard-tcp-title = Zahrnuje úplnou ochranu před cookies
 content-blocking-warning-title = Pozor!
 content-blocking-and-isolating-etp-warning-description-3 = Toto nastavení může způsobit, že některé webové stránky nezobrazí obsah nebo nebudou fungovat správně. Pro webové stránky, o kterých víme, že mohou být ovlivněny vaší konfigurací, poskytujeme volitelné výjimky. Chcete-li snížit pravděpodobnost nefunkčnosti webových stránek, povolte tyto výjimky pro sledování. Pokud se některý web jeví jako nefunkční, můžete pro něj vypnout ochranu proti sledování, aby se načetl veškerý obsah, a nahlásit problém, abychom jej mohli pomoci všem opravit.
 content-blocking-warning-title-2 = Některé stránky nemusí s přísnou ochranou před sledováním fungovat správně
+content-blocking-warning-title-custom = Některé stránky nemusí fungovat s vlastní ochranou proti sledování správně
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } doporučuje použít nastavení “Opravit problémy webu”, aby se omezily nefunkční funkce a obsah webu. Pokud se web jeví jako nefunkční, zkuste pro něj vypnout ochranu sledování, aby se načetl veškerý obsah.
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavení může způsobit, že některé stránky nebudou fungovat správně. Pro řešení případných problémů můžete ochranu proti sledování na takových stránkách vypnout.
@@ -1620,6 +1621,9 @@ permissions-autoplay = Automatické přehrávání
 permissions-autoplay-settings =
     .label = Nastavení…
     .accesskey = t
+permissions-block-popups2 =
+    .label = Blokovat vyskakovací okna a přesměrování třetích stran
+    .accesskey = B
 permissions-block-popups =
     .label = Blokovat vyskakovací okna
     .accesskey = B
@@ -1785,6 +1789,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikáty
+certs-description = Nakonfigurujte certifikáty, které { -brand-short-name } používá pro autentizaci.
 certs-enable-ocsp =
     .label = Aktuální platnost certifikátů ověřovat na serverech OCSP
     .accesskey = o
