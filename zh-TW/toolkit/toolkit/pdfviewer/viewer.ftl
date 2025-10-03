@@ -614,8 +614,10 @@ pdfjs-editor-edit-comment-manager-cancel-button = 取消
 pdfjs-editor-edit-comment-manager-save-button = 儲存
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = 編輯註解
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = 更新
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = 新增註解
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = 新增
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = 在此打字…
 pdfjs-editor-edit-comment-dialog-cancel-button = 取消

@@ -1144,7 +1144,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Куки и данные сайтов
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Вычисление объема данных сайтов и кеша…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Ваши сохранённые куки, история, данные сайтов и кеш сейчас занимают на диске <strong>{ $value } { $unit }</strong>.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1181,6 +1187,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Все межсайтовые куки (может нарушить работу сайтов)
 sitedata-option-block-all =
     .label = Все куки (нарушит работу веб-сайтов)
+sitedata-clear2 =
+    .label = Удалять данные веб-сёрфинга
+    .accesskey = Ш
+sitedata-settings2 =
+    .label = Управление данными веб-сёрфинга
+    .accesskey = Ь
 sitedata-clear =
     .label = Удалить данные…
     .accesskey = а
@@ -1190,6 +1202,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Управление исключениями…
     .accesskey = ю
+sitedata-cookies-exceptions2 =
+    .label = Управление исключениями
+    .accesskey = Ч
+    .description = Вы можете указать, каким веб-сайтам всегда разрешено или никогда не разрешено использовать куки и данные сайта.
 
 ## Privacy Section - Cookie Banner Handling
 

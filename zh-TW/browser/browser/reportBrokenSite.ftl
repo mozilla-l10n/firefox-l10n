@@ -6,6 +6,7 @@ report-broken-site-mainview-title = 回報網站問題
 report-broken-site-panel-header =
     .label = 回報網站問題
     .title = 回報網站問題
+report-broken-site-panel-learn-more-link = 更多資訊
 report-broken-site-panel-intro = 請幫助我們讓每個人的 { -brand-product-name } 變得更好。{ -vendor-short-name } 會使用您傳送的資訊來修正網站問題。
 report-broken-site-panel-url = 網址
 report-broken-site-panel-reason-label = 哪個部分故障了？
