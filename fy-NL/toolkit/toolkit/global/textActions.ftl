@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Wiskje
 text-action-highlight-selection =
     .label = Seleksje markearje
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Opmerking oan seleksje tafoegje
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Seleksje fan kommentaar foarsjen
