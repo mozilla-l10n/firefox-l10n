@@ -144,12 +144,19 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Anvend tilpasset tema
 
+## Data collection settings changed (multi-profile)
+
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Afvis
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Bog
 briefcase-avatar-alt =
     .alt = Attachemappe
+picture-avatar-alt =
+    .alt = Billede
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Lærred

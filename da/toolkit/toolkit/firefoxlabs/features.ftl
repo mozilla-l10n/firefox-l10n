@@ -73,4 +73,7 @@ experimental-features-newtab-widget-timer-description = Sæt en timer for at hol
 experimental-features-newtab-widget-lists-and-timer =
     .label = Lister og timer på { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Se din liste med opgaver, når du åbner et nyt faneblad. Planlæg alt fra projekter til dine indkøbslister i { -brand-product-name }. Sæt en timer for at holde fokus, undgå distraktioner eller huske på at holde pauser. <a data-l10n-name="connect">Del feedback</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantisk historiksøgning
 experimental-features-semantic-history-search-description = Brug en lokal maskinlærings-model til at foreslå poster fra historikken relateret til dine søgninger - baseret på forståelse af naturligt sprog i adressefeltet i { -brand-product-name }. <a data-l10n-name="connect">Del feedback</a>

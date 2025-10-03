@@ -488,7 +488,9 @@ restore-from-backup-secondary-button = Gendan ikke
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Så er vi tilbage! Dine { -brand-short-name }-data er blevet gendannet.
+restored-from-backup-success-no-checklist-subtitle = Du kan slå sikkerhedskopiering for denne enhed til i <a data-l10n-name="settings">Indstillinger</a>.
 restored-from-backup-success-with-checklist-primary-button = Gem og fortsæt
 restored-from-backup-success-with-checklist-secondary-button = Spring dette trin over
 restored-from-backup-success-no-checklist-primary-button = Fortsæt
+restored-from-backup-error-title = Hmm, der var et problem med din sikkerhedskopi.
 restored-from-backup-error-primary-button = Luk
