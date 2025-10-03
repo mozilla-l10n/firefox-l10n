@@ -478,8 +478,14 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Wisselen naar Fahrenhe
 newtab-weather-menu-change-temperature-units-celsius = Wisselen naar Celsius
 newtab-weather-menu-hide-weather = Weer op nieuw tabblad verbergen
 newtab-weather-menu-learn-more = Meer info
+newtab-weather-menu-detect-my-location = Mijn locatie detecteren
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Weergegevens zijn momenteel niet beschikbaar.
+newtab-weather-opt-in-see-weather = Wilt u het weer voor uw locatie zien?
+newtab-weather-opt-in-not-now =
+    .label = Niet nu
+newtab-weather-opt-in-yes =
+    .label = Ja
 
 ## Topic Labels
 

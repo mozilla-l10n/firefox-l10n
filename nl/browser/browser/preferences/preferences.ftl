@@ -1140,7 +1140,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies en websitegegevens
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Grootte van websitegegevens en buffer berekenen…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Uw opgeslagen cookies, geschiedenis, websitegegevens en buffer gebruiken momenteel <strong>{ $value } { $unit }</strong> aan schijfruimte.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1177,6 +1183,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Alle cross-sitecookies (kan ervoor zorgen dat websites niet goed werken)
 sitedata-option-block-all =
     .label = Alle cookies (zal ervoor zorgen dat websites niet goed werken)
+sitedata-clear2 =
+    .label = Navigatiegegevens wissen
+    .accesskey = w
+sitedata-settings2 =
+    .label = Navigatiegegevens beheren
+    .accesskey = b
 sitedata-clear =
     .label = Gegevens wissen…
     .accesskey = e
@@ -1186,6 +1198,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Uitzonderingen beheren…
     .accesskey = z
+sitedata-cookies-exceptions2 =
+    .label = Uitzonderingen beheren
+    .accesskey = z
+    .description = U kunt opgeven welke websites altijd of nooit cookies en websitegegevens mogen gebruiken.
 
 ## Privacy Section - Cookie Banner Handling
 

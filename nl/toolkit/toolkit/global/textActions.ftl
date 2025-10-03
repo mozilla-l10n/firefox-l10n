@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Wissen
 text-action-highlight-selection =
     .label = Selectie markeren
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Opmerking aan selectie toevoegen
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Opmerking bij de selectie plaatsen
