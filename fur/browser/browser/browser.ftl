@@ -833,6 +833,52 @@ urlbar-result-menu-dont-show-market =
     .label = No sta mostrâ sugjeriments sui marcjâts
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Graciis pe tô opinion. No tu viodarâs plui sugjeriments sui marcjâts.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Graciis pe tô opinion. No tu viodarâs plui chescj sugjeriments.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Ca di { $daysUntilStart } dì
+       *[other] { $name } · Ca di { $daysUntilStart } dîs
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Al partìs ca di { $daysUntilStart } dì
+       *[other] { $name } · Al partìs ca di { $daysUntilStart } dîs
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Al finìs ca di { $daysUntilEnd } dì
+       *[other] { $name } · Al finìs ca di { $daysUntilEnd } dîs
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Vuê
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Al finìs vuê
 
 ## Strings used for buttons in the urlbar
 
@@ -867,6 +913,8 @@ urlbar-searchmode-default =
 urlbar-searchmode-popup-description = Cheste volte cîr cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Impostazions ricercje
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Novitâts
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1131,6 +1179,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloche i barcons a comparse par { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Permet barcons a comparse e indreçaments di tiercis bandis par { $uriHost }
+    .accesskey = P
 
 ##
 
@@ -1193,6 +1244,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Liste dutis lis schedis
     .tooltiptext = Liste dutis lis schedis
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Mole achì la schede par fissâle
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1291,6 +1346,7 @@ firefox-relay-offer-why-to-use-relay = Lis nestris mascaris di pueste eletronich
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Dutis lis e-mails inviadis ae tô mascare e-mail a vignaran mandadis indenant a <strong>{ $useremail }</strong> (gjavant che no tu decidis di blocâlis).
 firefox-relay-offer-legal-notice = Fasint clic su “Dopre mascare di pueste eletroniche”, tu acetis lis <label data-l10n-name="tos-url">Cundizions di utilizazion dal servizi</label> e la <label data-l10n-name="privacy-url">Informative su la riservatece</label>.
+firefox-relay-offer-legal-notice-1 = Se tu ti regjistris e tu creis une mascare di pueste eletroniche tu acetis lis <label data-l10n-name="tos-url">cundizions di utilizazion dal servizi</label> e la <label data-l10n-name="privacy-url">informative su la riservatece</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1364,3 +1420,17 @@ onboarding-checklist-button-label = Finìs la configurazion
 onboarding-aw-finish-setup-button =
     .label = Finìs di configurâ
     .tooltiptext = Finìs di configurâ { -brand-short-name }
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = La protezion miorade da lis spiis e je ative
+trustpanel-etp-label-disabled = La protezion miorade da lis spiis e je disativade
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Protezion miorade da lis spiis: ative par { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Protezion miorade da lis spiis: disativade par { $host }
+trustpanel-etp-description-enabled = Se alc nol va su chest sît, prove a disativâ lis protezions.
