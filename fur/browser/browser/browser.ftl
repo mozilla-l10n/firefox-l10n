@@ -1482,3 +1482,12 @@ trustpanel-blocker-see-all = Viôt ducj
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protezions da lis spiis par { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> spie blocade su chest sît
+       *[other] <span>{ $count }</span> spiis blocadis su chest sît
+    }

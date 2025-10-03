@@ -1190,6 +1190,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = 管理例外…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = 管理例外
+    .accesskey = x
+    .description = 您可以指定一律允许或不允许哪些网站使用 Cookie 和网站数据。
 
 ## Privacy Section - Cookie Banner Handling
 
