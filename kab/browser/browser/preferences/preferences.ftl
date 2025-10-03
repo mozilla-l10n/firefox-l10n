@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Ssuter i yismal web ur snuzuyen, ur beṭṭun isefka-w
     .accesskey = s
 non-technical-privacy-header = Ismenyifen n tbaḍnit n yismal web
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Mdel
+do-not-track-removal2 =
+    .label = Dayen, ur nettεawan ara tamuli “Ur ṭṭafar ara”
 
 ## Browser Restart Dialog
 
@@ -251,6 +255,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Aberkan
     .title = Seqdec arwes aberkan i ugilal akked ugbur n yismal web.
+web-appearance-group =
+    .aria-label = Arwes n usmel web
 preferences-web-appearance-choice-auto = Awurman
 preferences-web-appearance-choice-light = Acaεlal
 preferences-web-appearance-choice-dark = Aberkan
@@ -520,6 +526,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Tunigin
+browsing-group-label =
+    .aria-label = Tunigin
 browsing-use-autoscroll =
     .label = Seqdec adrurem awurman
     .accesskey = d
@@ -653,6 +661,9 @@ home-prefs-weather-header =
     .label = Tagnawt
 home-prefs-weather-description = Taḥawact ɣef liḥala n tegnawt assa
 home-prefs-weather-learn-more-link = Issin ugar
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Allel { -brand-product-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1026,6 +1037,15 @@ autofill-saved-payment-methods-button = Isseklas tarrayin n uxelleṣ
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Ssuter tuqqna ɣer yibenk i wakken ad tesferkeḍ tarrayin n uxelleṣ
     .accesskey = u
+autofill-payment-methods-title = Tarrayin n uxelleṣ
+autofill-payment-methods-header =
+    .aria-label = Tarrayin n uxelleṣ
+autofill-addresses-title = Tansiwin d wayen niḍen
+autofill-addresses-header =
+    .aria-label = Tansiwin d wayen niḍen
+autofill-addresses-checkbox-message =
+    .label = Asekles d taččart tawurmant n tansiwin
+    .accesskey = A
 
 ## Privacy Section - History
 
@@ -1071,6 +1091,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Inagan n tuqna akked isefka n usmel
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Asiḍen n teɣzi n yisefka akked tuɣzi n tuffirt…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1095,6 +1117,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Ineḍfaṛen gar yismal
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Inagan n tuqqna i uḍfaṛ gar yismal
+sitedata-option-block-cross-site-cookies2 =
+    .label = Ɛzel inagan n tuqqna gar yismal
 sitedata-option-block-cross-site-cookies =
     .label = Inagan n tuqqna n uḍfar gar yismal d uɛzal n yinagan-nniḍen n tuqqna
 sitedata-option-block-unvisited =
@@ -1103,6 +1127,9 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Akk inagan n tuqna gar yismal (izmer ad yiṛeẓ ismal web)
 sitedata-option-block-all =
     .label = Akk inagan n tuqqna (ad rẓen isaml web)
+sitedata-clear2 =
+    .label = Sfeḍ isefka n tunigin
+    .accesskey = I
 sitedata-clear =
     .label = Sfeḍ isefka…
     .accesskey = l
@@ -1213,6 +1240,7 @@ content-blocking-private-windows = Agbur yettwaseqdec i uḍfaṛ deg yisfuyla n
 content-blocking-cross-site-cookies-in-all-windows2 = Inagan n tuqqna deg meṛṛa yisfuyla
 content-blocking-cross-site-tracking-cookies = Inagan n tuqqna i uḍfaṛ gar yismal
 content-blocking-all-cross-site-cookies-private-windows = Inagan n tuqqna deg yisfuyla usligen
+content-blocking-isolate-cross-site-cookies = Ɛzel inagan n tuqqna gar yismal
 content-blocking-cross-site-tracking-cookies-plus-isolate = Inagan n tuqqna n uḍfar gar yismal d uɛzal n yinagan n tuqqna i d-yeqqimen
 content-blocking-social-media-trackers = Ineḍfaṛen n iẓeḍwa inmettiyen
 content-blocking-all-cookies = Inagan n tuqqna meṛṛa
@@ -1285,6 +1313,13 @@ permissions-location = Adig
 permissions-location-settings =
     .label = Iɣewwaṛen…
     .accesskey = z
+permissions-localhost-settings =
+    .label = Iɣewwaren
+    .accesskey = t
+permissions-local-network = Ibenkan n uzeṭṭa adigan
+permissions-local-network-settings =
+    .label = Iɣewwaren…
+    .accesskey = t
 permissions-xr = Tilawt tuhlist
 permissions-xr-settings =
     .label = Iɣewwaṛen

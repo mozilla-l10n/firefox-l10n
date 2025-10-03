@@ -421,3 +421,14 @@ dismiss-button-label = Zgel
 sync-to-mobile-button-label = Mtawi ɣer uziraz
 desktop-to-mobile-qr-code-alt =
     .aria-label = Tangalt QR i usader n { -brand-product-name } i uziraz
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-button = Ur d-ttarr ara
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Sekles syen kemmel
+restored-from-backup-success-with-checklist-secondary-button = Zgel amecwaṛ-a
+restored-from-backup-success-no-checklist-primary-button = Kemmel
+restored-from-backup-error-primary-button = Mdel
