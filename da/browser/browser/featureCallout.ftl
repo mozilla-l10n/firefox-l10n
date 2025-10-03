@@ -115,6 +115,7 @@ fxa-adoption-passwords-primary-button-label = Tilmeld dig
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Behold dine yndlingsfeeds i din proceslinje
+taskbar-tabs-social-callout-subtitle = Få vist dine sociale medier som en app i et separat vindue beskyttet af { -brand-short-name }.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
