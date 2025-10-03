@@ -1198,6 +1198,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Administrar excepciones…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Administrar excepciones
+    .accesskey = x
+    .description = Se puede especificar que sitios siempre o nunca permitirán usar cookies y datos del sitio.
 
 ## Privacy Section - Cookie Banner Handling
 
