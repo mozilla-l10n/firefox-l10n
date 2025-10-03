@@ -1140,7 +1140,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = ფუნთუშები და საიტის მონაცემები
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = ითვლება საიტის მუდმივი და დროებითი მონაცემების მოცულობა…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = თქვენ მიერ შენახულ ფუნთუშებს, საიტის მონაცემებს, მარაგებს ამჟამად დისკზე უკავია { $value } { $unit } მოცულობა.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1177,6 +1183,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = ყველა საიტთაშორისი ფუნთუშა (იწვევს ზოგი საიტის გაუმართაობას)
 sitedata-option-block-all =
     .label = ყველა ფუნთუშა (იწვევს საიტების გაუმართაობას)
+sitedata-clear2 =
+    .label = დათვალიერების მონაცემების წაშლა
+    .accesskey = წ
+sitedata-settings2 =
+    .label = დათვალიერების მონაცემების მართვა
+    .accesskey = თ
 sitedata-clear =
     .label = მონაცემთა გასუფთავება…
     .accesskey = მ
@@ -1186,6 +1198,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = გამონაკლისების მართვა
     .accesskey = კ
+sitedata-cookies-exceptions2 =
+    .label = გამონაკლისების მართვა
+    .accesskey = ლ
+    .description = შეგიძლიათ მიუთითოთ ვებსაიტები, რომლებიც ყოველთვის ან არასდროს გამოიყენებს ფუნთუშებსა და საიტის მონაცემებს.
 
 ## Privacy Section - Cookie Banner Handling
 

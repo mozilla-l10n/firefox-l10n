@@ -613,6 +613,8 @@ pdfjs-editor-edit-comment-popup-button =
 pdfjs-editor-delete-comment-popup-button-label = შენიშვნის მოცილება
 pdfjs-editor-delete-comment-popup-button =
     .title = შენიშვნის მოცილება
+pdfjs-show-comment-button =
+    .title = შენიშვნის გამოჩენა
 
 ##  Edit a comment dialog
 
@@ -630,8 +632,10 @@ pdfjs-editor-edit-comment-manager-cancel-button = გაუქმება
 pdfjs-editor-edit-comment-manager-save-button = შენახვა
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = შენიშვნის ჩასწორება
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = განახლება
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = შენიშვნის დამატება
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = დამატება
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = აკრიფეთ…
 pdfjs-editor-edit-comment-dialog-cancel-button = გაუქმება
