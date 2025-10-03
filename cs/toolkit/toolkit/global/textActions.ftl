@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Vymazat
 text-action-highlight-selection =
     .label = Zvýraznit výběr
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Přidat komentář k výběru
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Přidat komentář k výběru
