@@ -1458,6 +1458,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } al pense che lis a
 trustpanel-connection-label-secure = Conession sigure
 trustpanel-connection-label-insecure = Conession no sigure
 trustpanel-header-enabled = { -brand-product-name } è in vuaite
+trustpanel-description-enabled2 = Protezion ative. Se o cjatìn alc, tal fasarìn savê.
+trustpanel-header-enabled-insecure = Sta atent su chest sît
+trustpanel-description-enabled-insecure = { -brand-product-name } al à cjatât alc di suspiet.
 trustpanel-description-enabled = Protezion ative. Se o cjatìn alc ti fasarìn savê
 trustpanel-header-disabled = Tu âs disativât lis protezions
 trustpanel-description-disabled = { -brand-product-name } al è fûr servizi. Ti conseìn di tornâ a ativâ lis protezions.
@@ -1496,3 +1499,35 @@ trustpanel-blocked-header = { -brand-product-name } ti à blocât chescj element
 trustpanel-tracking-header = { -brand-product-name } al à consintût chescj elements par evitâ che i sîts no funzionin:
 trustpanel-tracking-description = Al è pussibil che cence spiis cualchi boton, formulari e cualchi cjamp di acès nol funzioni.
 trustpanel-insecure-section-header = La conession no je sigure
+trustpanel-insecure-description = I dâts che tu stâs mandant a chest sît no son cifrâts. A podaressin vignî viodûts, robâts o modificâts.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie inter-sît che al spie
+       *[other] { $count } cookies inter-sît che a spiin
+    }
+trustpanel-list-label-tracking-content = Contignûts che a spiin
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } rilevadôr di stamp numeric
+       *[other] { $count } rilevadôrs di stamp numeric
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } spie di social media
+       *[other] { $count } spiis di social media
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } minadôr di criptomonede
+       *[other] { $count } minadôrs di criptomonede
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } al à blocât { $count } spie di social media
+       *[other] { -brand-product-name } al à blocât { $count } spiis di social media
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } al à consintût { $count } spie di social media
+       *[other] { -brand-product-name } al à consintût { $count } spiis di social media
+    }
