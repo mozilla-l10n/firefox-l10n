@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Limpiar
 text-action-highlight-selection =
     .label = Resaltar selección
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Agregar comentario a la selección
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Comentar selección
