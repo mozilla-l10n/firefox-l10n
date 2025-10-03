@@ -1324,6 +1324,10 @@ content-blocking-warning-learn-how = 방법 알아보기
 content-blocking-baseline-exceptions-3 =
     .label = 주요 사이트 문제 해결 (권장)
     .description = 추적기가 포함되어 있을 수 있는 필수 요소만 차단 해제하여 사이트와 기능을 로드하는 데 도움을 줍니다. 대부분의 일반적인 문제를 해결합니다.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = 사소한 사이트 문제 해결
+    .description = 추적기가 포함되어 있을 수 있는 요소를 차단 해제하여 글이나 댓글란의 동영상 등을 복원합니다. 이는 사이트 문제를 줄일 수 있지만 보호 수준은 낮아집니다. 주요 사이트 문제 해결과 함께 사용해야 합니다.
 content-blocking-baseline-exceptions =
     .label = { -brand-short-name }가 주요 웹 사이트 손상을 방지하는 데 필요한 예외를 자동으로 적용하도록 허용합니다.
 content-blocking-baseline-exceptions-2 =
@@ -1332,7 +1336,7 @@ content-blocking-convenience-exceptions =
     .label = 또한 사소한 문제를 해결하고 편의 기능을 사용할 수 있도록 하는 데에만 필요한 예외를 자동으로 적용합니다.
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
 content-blocking-convenience-exceptions-2 =
-    .label = 추적기를 포함할 수 있는 요소를 차단 해제하여 글이나 댓글 섹션의 동영상과 같은 것을 복원합니다. 이렇게 하면 사이트 문제를 줄일 수 있지만 보호 수준은 낮습니다. 주요 문제에 대한 수정 사항과 함께 사용해야 합니다.
+    .label = 추적기가 포함되어 있을 수 있는 요소를 차단 해제하여 글이나 댓글란의 동영상 등을 복원합니다. 이는 사이트 문제를 줄일 수 있지만 보호 수준은 낮아집니다. 주요 사이트 문제 해결과 함께 사용해야 합니다.
 content-blocking-baseline-label = 주요 사이트 문제 해결 (권장)
 content-blocking-convenience-label = 사소한 사이트 문제 해결
 content-blocking-exceptions-subheader = 사이트 문제 해결
