@@ -1134,6 +1134,10 @@ sitedata-total-size-calculating = 正在計算網站資料與快取大小…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = 您儲存的 Cookie、歷史、網站資料與快取目前使用了 <strong>{ $value } { $unit }</strong> 磁碟空間。
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = 您儲存的 Cookie、網站資料與快取目前使用了 { $value } { $unit } 磁碟空間
 sitedata-learn-more = 了解更多
 sitedata-delete-on-close =
@@ -1182,6 +1186,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = 管理例外網站…
     .accesskey = X
+sitedata-cookies-exceptions2 =
+    .label = 管理例外網站
+    .accesskey = x
+    .description = 您可以指定哪些網站總是可以，或永遠不可儲存 Cookie 與網站資料。
 
 ## Privacy Section - Cookie Banner Handling
 

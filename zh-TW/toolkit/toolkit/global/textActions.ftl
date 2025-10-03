@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = 清除
 text-action-highlight-selection =
     .label = 強調選擇範圍
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = 對選擇範圍加入註解
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = 對選擇範圍加入註解

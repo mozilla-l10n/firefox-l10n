@@ -466,4 +466,18 @@ multi-profile-callout-cta = Crear un perfil
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Descarga, sincroniza y ¡listo!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Escanea el código QR para descargar { -brand-product-name } para móvil. Una vez instalado, seleccione "Sincronizar con el móvil" para acceder a sus contraseñas, marcadores y mucho más sobre la marcha.
 dismiss-button-label = Descartar
+sync-to-mobile-button-label = Sincronización con el móvil
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Código QR para descargar { -brand-product-name } para móvil
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Guardar y continuar
+restored-from-backup-success-with-checklist-secondary-button = Omitir este paso
+restored-from-backup-success-no-checklist-primary-button = Continuar
+restored-from-backup-error-title = Hmm, hubo un problema con tu archivo de respaldo.
+restored-from-backup-error-subtitle = Si tienes otro archivo de respaldo { -brand-short-name }, intenta restaurar desde ese. <a data-l10n-name="restore-problems">¿Aún tienes problemas?</a>
+restored-from-backup-error-primary-button = Cerrar

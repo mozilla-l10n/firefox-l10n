@@ -597,6 +597,8 @@ pdfjs-editor-edit-comment-popup-button =
 pdfjs-editor-delete-comment-popup-button-label = 移除註解
 pdfjs-editor-delete-comment-popup-button =
     .title = 移除註解
+pdfjs-show-comment-button =
+    .title = 顯示註解
 
 ##  Edit a comment dialog
 
