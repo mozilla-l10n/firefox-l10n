@@ -1144,7 +1144,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies a údaje stránok
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Výpočet veľkosti údajov stránky a vyrovnávacej pamäte…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Vaše uložené súbory cookie, história, údaje stránok a vyrovnávacia pamäť momentálne využívajú <strong>{ $value } { $unit }</strong> miesta na disku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1181,6 +1187,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Všetky súbory cookie tretích strán (môže spôsobiť nefunkčnosť niektorých stránok)
 sitedata-option-block-all =
     .label = Všetky cookies (obmedzí fungovanie niektorých stránok)
+sitedata-clear2 =
+    .label = Vymazať údaje prehliadania
+    .accesskey = m
+sitedata-settings2 =
+    .label = Spravovať údaje prehliadania
+    .accesskey = S
 sitedata-clear =
     .label = Vymazať údaje…
     .accesskey = m
@@ -1190,6 +1202,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Spravovať výnimky…
     .accesskey = v
+sitedata-cookies-exceptions2 =
+    .label = Spravovať výnimky
+    .accesskey = r
+    .description = Môžete určiť, ktoré webové stránky môžu vždy alebo nesmú nikdy používať súbory cookie a údaje stránok.
 
 ## Privacy Section - Cookie Banner Handling
 
