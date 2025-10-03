@@ -481,6 +481,10 @@ newtab-weather-menu-hide-weather = Skjul vejr på Nyt faneblad
 newtab-weather-menu-learn-more = Læs mere
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Vejrdata er ikke tilgængelige lige nu.
+newtab-weather-opt-in-not-now =
+    .label = Ikke nu
+newtab-weather-opt-in-yes =
+    .label = Ja
 
 ## Topic Labels
 
