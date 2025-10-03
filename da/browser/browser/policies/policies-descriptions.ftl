@@ -117,6 +117,7 @@ policy-PostQuantumKeyAgreementEnabled = Aktiver nøgleaftaler for TLS, som er si
 policy-PDFjs = Deaktiver eller konfigurer PDF.js, den indbyggede PDF-læser i { -brand-short-name }.
 policy-Permissions2 = Indstil tilladelser for kamera, mikrofon, position, beskeder og automatisk afspilning.
 policy-PictureInPicture = Slå Billede-i-billede til eller fra.
+policy-PopupBlocking2 = Tillad bestemte websteder at vise pop op-vinduer og blive omdirigeret af tredjeparts-frames.
 policy-PopupBlocking = Tillad bestemte websteder at vise pop op-vinduer som standard.
 policy-Preferences = Indstil og lås værdien for en undergruppe af indstillingerne.
 policy-PrivateBrowsingModeAvailability = Indstil adgang til privat browsing-tilstand.
@@ -139,6 +140,7 @@ policy-SupportMenu = Føj et tilpasset menupunkt til menuen Hjælp.
 policy-TranslateEnabled = Aktiver eller deaktiver oversættelser af websider.
 policy-UserMessaging = Vis ikke bestemte beskeder til brugeren.
 policy-UseSystemPrintDialog = Udskriv ved at bruge systemets udskriftsdialog.
+policy-VisualSearchEnabled = Slå visuel søgning til eller fra.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloker websteder fra at blive besøgt. Se dokumentationen for detaljer om formatet.
 policy-Windows10SSO = Tillad Windows enkeltlogon for Microsoft-, arbejds- og skole-konti.

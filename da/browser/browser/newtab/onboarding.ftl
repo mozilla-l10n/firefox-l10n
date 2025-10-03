@@ -493,4 +493,5 @@ restored-from-backup-success-with-checklist-primary-button = Gem og fortsæt
 restored-from-backup-success-with-checklist-secondary-button = Spring dette trin over
 restored-from-backup-success-no-checklist-primary-button = Fortsæt
 restored-from-backup-error-title = Hmm, der var et problem med din sikkerhedskopi.
+restored-from-backup-error-subtitle = Hvis du har en anden { -brand-short-name }-sikkerhedskopi, kan du prøve at gendanne fra den. <a data-l10n-name="restore-problems">Har du stadig problemer?</a>
 restored-from-backup-error-primary-button = Luk

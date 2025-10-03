@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Du kan slå tilstanden Kun-HTTPS fra for bestemte websteder. { -brand-short-name } vil ikke forsøge at opgradere til en sikker forbindelse for de valgte websteder. Undtagelser gælder ikke for private vinduer.
 permissions-exceptions-https-only-desc2 = Du kan slå tilstanden Kun-HTTPS fra for bestemte websteder. { -brand-short-name } vil ikke forsøge at opgradere til en sikker forbindelse for de valgte websteder.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Tillade websteder - Pop op-vinduer og tredjeparts-omdirigeringer
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Du kan angive, hvilke websteder der må åbne pop op-vinduer og blive omdirigeret af tredjeparts-frames.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

@@ -386,6 +386,7 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Luk sidepanelet
     .aria-label = Luk sidepanelet
 pdfjs-editor-comments-sidebar-close-button-label = Luk sidepanelet
+pdfjs-editor-comments-sidebar-no-comments-link = Læs mere
 
 ## Alt-text dialog
 
@@ -602,6 +603,17 @@ pdfjs-editor-add-signature-cancel-button = Annuller
 pdfjs-editor-add-signature-add-button = Tilføj
 pdfjs-editor-edit-signature-update-button = Opdater
 
+## Comment popup
+
+pdfjs-editor-edit-comment-popup-button-label = Rediger kommentar
+pdfjs-editor-edit-comment-popup-button =
+    .title = Rediger kommentar
+pdfjs-editor-delete-comment-popup-button-label = Fjern kommentar
+pdfjs-editor-delete-comment-popup-button =
+    .title = Fjern kommentar
+pdfjs-show-comment-button =
+    .title = Vis kommentar
+
 ##  Edit a comment dialog
 
 pdfjs-editor-edit-comment-actions-button-label = Handlinger
@@ -616,6 +628,15 @@ pdfjs-editor-edit-comment-manager-text-input =
     .placeholder = Indtast din kommentar
 pdfjs-editor-edit-comment-manager-cancel-button = Annuller
 pdfjs-editor-edit-comment-manager-save-button = Gem
+# An existing comment is edited
+pdfjs-editor-edit-comment-dialog-title-when-editing = Rediger kommentar
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = Opdater
+# No existing comment
+pdfjs-editor-edit-comment-dialog-title-when-adding = Tilføj kommentar
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = Tilføj
+pdfjs-editor-edit-comment-dialog-text-input =
+    .placeholder = Begynd at skrive…
+pdfjs-editor-edit-comment-dialog-cancel-button = Annuller
 
 ## Edit a comment button in the editor toolbar
 
