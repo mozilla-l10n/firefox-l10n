@@ -5,4 +5,3 @@
 moz-button-more-options =
     .title = Altre opzioni
     .aria-label = Altre opzioni
-

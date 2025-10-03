@@ -439,6 +439,10 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -480,8 +484,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Passa a Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Passa a Celsius
 newtab-weather-menu-hide-weather = Nascondi meteo in Nuova scheda
 newtab-weather-menu-learn-more = Ulteriori informazioni
+newtab-weather-menu-detect-my-location = Rileva la mia posizione
 # This message is shown if user is working offline
 newtab-weather-error-not-available = I dati sul meteo non sono al momento disponibili.
+newtab-weather-opt-in-see-weather = Vuoi vedere il meteo per la tua posizione?
+newtab-weather-opt-in-not-now =
+    .label = Non adesso
+newtab-weather-opt-in-yes =
+    .label = Sì
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = New York City
 
 ## Topic Labels
 
@@ -695,4 +707,3 @@ newtab-promo-card-cta = Ulteriori informazioni
 newtab-promo-card-dismiss-button =
     .title = Chiudi
     .aria-label = Chiudi
-
