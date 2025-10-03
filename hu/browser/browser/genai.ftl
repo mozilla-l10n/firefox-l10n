@@ -228,6 +228,8 @@ link-preview-reading-time =
 link-preview-error-message = A hivatkozás előnézete nem jeleníthető meg
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Hivatkozás meglátogatása
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Nem tudunk kulcspontokat előállítani ehhez a weboldalhoz.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Valami hiba történt.
 # Text for the retry link when generation fails
@@ -240,10 +242,14 @@ link-preview-settings-enable =
     .description = Az oldal címének, leírásának és egyéb információinak megjelenítése gyorsbillentyű vagy jobb kattintás használatával.
 link-preview-settings-key-points =
     .label = Engedélyezés, hogy az MI elolvassa az oldal elejét, és kulcspontokat állítson elő
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Megtekint többet az MI-vel?
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = A(z) { -brand-short-name } MI segítségével olvassa be az oldal elejét, és néhány kulcspontot állít elő. Az adatvédelmét előtérbe helyezve, mindez a saját eszközén történik.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Új: Kattintson és tartsa lenyomva bármelyik hivatkozást az előnézethez
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Tekintsen meg egy rövid leírást, az olvasáshoz szükséges időt, és egyebeket, hogy eldöntse megéri-e megnyitni a hivatkozást. Jobb kattintással is elérhető.
 # Header for the key points section
 link-preview-key-points-header = Kulcspontok
 # Disclaimer for AI-generated key points

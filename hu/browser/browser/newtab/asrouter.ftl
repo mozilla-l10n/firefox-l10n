@@ -400,3 +400,5 @@ etp-strict-exceptions-infobar-message = <strong>A szigorú követésvédelem a w
 etp-strict-exceptions-infobar-learn-more = További tudnivalók
 etp-strict-exceptions-infobar-button = Javítások alkalmazása
     .accesskey = J
+etp-strict-exceptions-infobar-not-now = Most nem
+    .accesskey = n

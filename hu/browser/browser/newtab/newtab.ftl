@@ -478,8 +478,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Váltás Fahrenheitre
 newtab-weather-menu-change-temperature-units-celsius = Váltás Celsiusra
 newtab-weather-menu-hide-weather = Időjárás elrejtése az Új lapon
 newtab-weather-menu-learn-more = További tudnivalók
+newtab-weather-menu-detect-my-location = Saját hely észlelése
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Az időjárásadatok most nem érhetők el
+newtab-weather-opt-in-see-weather = Szeretné látni a helye időjárását?
+newtab-weather-opt-in-not-now =
+    .label = Most nem
+newtab-weather-opt-in-yes =
+    .label = Igen
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = New York City
 
 ## Topic Labels
 
@@ -646,6 +654,9 @@ newtab-widget-lists-input-menu-move-up = Mozgatás felfelé
 newtab-widget-lists-input-menu-move-down = Mozgatás lefelé
 newtab-widget-lists-input-menu-delete = Törlés
 newtab-widget-lists-input-menu-edit = Szerkesztés
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Új lista létrehozása
 newtab-widget-lists-name-label-default =
     .label = Feladatlista
 newtab-widget-lists-name-placeholder-default =

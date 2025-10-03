@@ -79,6 +79,7 @@ policy-ExtensionSettings = Kezelje a kiegészítők telepítésének összes von
 policy-ExtensionUpdate = Az automatikus kiegészítőfrissítések engedélyezése vagy letiltása.
 policy-FirefoxHome2 = A { -firefox-home-brand-name } beállítása.
 policy-FirefoxSuggest = A { -firefox-suggest-brand-name } beállítása.
+policy-GenerativeAI = Generatív MI funkciók beállítása.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = A közvetlen intranetes navigáció kényszerítése a keresés helyett, amikor egyetlen szót ír be a címsorba.
 policy-Handlers = Alapértelmezett alkalmazáskezelők beállítása
 policy-HardwareAcceleration = Ha hamis, akkor kikapcsolja a hardveres gyorsítást.
@@ -97,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = A sütik örökölt Sa
 ##
 
 policy-LocalFileLinks = Lehetővé teszi, hogy bizonyos webhelyek helyi fájlokra hivatkozzanak.
+policy-LocalNetworkAccess = Helyi hálózati hozzáférési ellenőrzések engedélyezése vagy letiltása.
 policy-ManagedBookmarks = Beállítja a rendszergazda által kezelt könyvjelzők listáját, amelyet a felhasználó nem módosíthat.
 policy-ManualAppUpdateOnly = Csak a kézi frissítések engedélyezése, és ne értesítse a felhasználót a frissítésekről.
 policy-PrimaryPassword = Elsődleges jelszó használatának előírása vagy megakadályozása.
@@ -139,6 +141,7 @@ policy-SupportMenu = Egyéni támogatási menüpont hozzáadása a súgó menüh
 policy-TranslateEnabled = Weboldalak fordításának engedélyezése vagy letiltása.
 policy-UserMessaging = Ne mutasson bizonyos üzeneteket a felhasználónak.
 policy-UseSystemPrintDialog = Nyomtatás a rendszer nyomtatási párbeszédablakával.
+policy-VisualSearchEnabled = Vizuális keresés engedélyezése vagy letiltása.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Weboldalak felkeresésének blokkolása. Lásd a dokumentációt a formátum részleteiért.
 policy-Windows10SSO = Lehetővé teszi a Windows egyszeri bejelentkezésének használatát a microsoftos, munkahelyi és iskolai fiókok számára.

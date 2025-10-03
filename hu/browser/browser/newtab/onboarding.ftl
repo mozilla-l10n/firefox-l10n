@@ -481,3 +481,16 @@ desktop-to-mobile-qr-code-alt =
 
 restore-from-backup-secondary-top-button = Helyreállítás biztonsági mentésből
 restore-from-backup-title = Kapja vissza a { -brand-short-name }ot, ahogy Önnek tetszik
+restore-from-backup-subtitle = Állítsa helyre az összes könyvjelzőjét, előzményét és egyéb adatait, hogy visszatérjen a böngészéshez.
+restore-from-backup-secondary-button = Ne állítsa helyre
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Visszatértünk! A { -brand-short-name } adatai helyre lettek állítva.
+restored-from-backup-success-with-checklist-subtitle = Szeretné egy kattintásnyira tartani a kedvenc adatvédelem-központú böngészőjét?
+restored-from-backup-success-no-checklist-subtitle = A mentést ezen az eszközön a <a data-l10n-name="settings">Beállításokban</a> kapcsolhatja be.
+restored-from-backup-success-with-checklist-primary-button = Mentés és folytatás
+restored-from-backup-success-with-checklist-secondary-button = Lépés kihagyása
+restored-from-backup-success-no-checklist-primary-button = Folytatás
+restored-from-backup-error-title = Hmm, probléma volt a biztonsági mentési fájljával.
+restored-from-backup-error-primary-button = Bezárás

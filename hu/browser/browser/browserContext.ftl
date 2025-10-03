@@ -272,6 +272,11 @@ main-context-menu-image-desc =
     .accesskey = L
 # Variables
 #   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Kép keresése a(z) { $engine } segítségével
+    .accesskey = e
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
 main-context-menu-visual-search =
     .label = Kép keresése a(z) { $engine } segítségével
 main-context-menu-video-save-as =

@@ -121,6 +121,9 @@ taskbar-tabs-chat-callout-subtitle = Indítsa el csevegőoldalait alkalmazáské
 taskbar-tabs-email-callout-title = Tartsa a postafiókját a tálcán
 taskbar-tabs-email-callout-subtitle = Indítsa el webes levelezését alkalmazásként egy { -brand-short-name } által védett, letisztult ablakban.
 taskbar-tabs-media-callout-title = Visszatérés a közvetítésekhez a tálcáról
+taskbar-tabs-media-callout-subtitle = Indítsa el az élő közvetítési oldalait alkalmazásként egy { -brand-short-name } által védett, letisztult ablakban.
+taskbar-tabs-value-prop-callout-title = A webhely hozzáadása a tálcához
+taskbar-tabs-value-prop-callout-subtitle = Indítsa el a saját ablakában és egyszerűsített felülettel, egyetlen kattintással.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -141,6 +144,10 @@ windows-10-eos-sync-tour-title-1 = Túl sok lap? Tegyen rendet a lapcsoportokkal
 windows-10-eos-sync-tour-subtitle-1 = Húzzon egy lap egy másikra, hogy csoportot hozzon létre, és rendszerezze a dolgokat.
 windows-10-eos-sync-tour-title-2 = Készüljön elő a Windows 11-re.
 windows-10-eos-sync-tour-subtitle-2 = Váltás előtt szinkronizálja a könyvjelzőit, jelszavait és beállításait, hogy biztonsági mentést készítsen róluk.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Kevesebb javaslat megjelenítése
+windows-10-eos-sync-dismiss-button-label = Eltüntetés
+windows-10-eos-sync-callout-primary-advance-button-label = Tovább
 
 ## Sidebar Strings
 
