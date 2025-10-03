@@ -1531,3 +1531,46 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } al à consintût { $count } spie di social media
        *[other] { -brand-product-name } al à consintût { $count } spiis di social media
     }
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } al à blocât { $count } cookie inter-sît che al spie
+       *[other] { -brand-product-name } al à blocât { $count } cookies inter-sît che a spiin
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } al à consintût { $count } cookie inter-sît che al spie
+       *[other] { -brand-product-name } al à consintût { $count } cookies inter-sît che a spiin
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } al à blocât { $count } spie
+       *[other] { -brand-product-name } al à blocât { $count } spiis
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } al à consintût { $count } spie
+       *[other] { -brand-product-name } al à consintût { $count } spiis
+    }
+trustpanel-tracking-content-tab-list-header = Chescj sîts a stan cirint di spiâti:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } al à blocât { $count } rilevadôr di stamp numeric
+       *[other] { -brand-product-name } al à blocât { $count } rilevadôrs di stamp numeric
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } al à consintût { $count } rilevadôr di stamp numeric
+       *[other] { -brand-product-name } al à consintût { $count } rilevadôrs di stamp numeric
+    }
+trustpanel-fingerprinter-list-header = Chescj sîts a stan cirint di tirâ sù il to rilevadôr di stamp numeric:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } al à blocât { $count } minadôr di criptomonede
+       *[other] { -brand-product-name } al à blocât { $count } minadôrs di criptomonede
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } al à consintût { $count } minadôr di criptomonede
+       *[other] { -brand-product-name } al à consintût { $count } minadôrs di criptomonede
+    }
+trustpanel-cryptominer-tab-list-header = Chescj sîts a stan cirint di fâti tirâ sù criptomonedis:

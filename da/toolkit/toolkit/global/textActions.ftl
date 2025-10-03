@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Ryd
 text-action-highlight-selection =
     .label = Fremhæv markering
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Føj kommentar til markering
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Kommenter fremhævning
