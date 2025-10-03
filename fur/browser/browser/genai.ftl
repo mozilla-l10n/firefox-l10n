@@ -244,3 +244,5 @@ link-preview-settings-key-points =
     .label = Permet ae IA di lei l'inizi de pagjine e gjenerâ i ponts clâf
 link-preview-settings-long-press =
     .label = Scurte: fâs clic e ten fracât il colegament par 1 secont (pression lungje)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Viodi di plui cu la IA?
