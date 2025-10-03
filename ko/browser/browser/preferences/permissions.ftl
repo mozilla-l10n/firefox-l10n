@@ -81,7 +81,7 @@ permissions-exceptions-manage-etp-desc = 향상된 추적 방지를 끌 웹사�
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = 예외 - 쿠키와 사이트 데이터
+    .title = 예외 - 쿠키 및 사이트 데이터
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = 웹 사이트별로 쿠키나 사이트 데이터를 항상 사용하거나 사용하지 않도록 설정할 수 있습니다.  관리할 사이트의 정확한 주소를 입력하고 '차단'이나 '세션 허용', '허용'을 누르세요.
 
