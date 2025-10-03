@@ -25,6 +25,8 @@ return-to-amo-subtitle = Genial, has instalado { -brand-short-name }
 return-to-amo-addon-title = Ahora obtengamos <img data-l10n-name="icon"/> <b>{ $addon-name }</b> para ti.
 return-to-amo-add-extension-label = Agregar la extensión
 return-to-amo-add-theme-label = Agregar el tema
+return-to-amo-theme-install-complete-label = Tema instalado
+return-to-amo-extension-install-complete-label = Extensión instalada
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -442,10 +444,13 @@ onboarding-checklist-sign-up = Regístrate o inicia sesión en tu cuenta
 
 tab-groups-onboarding-feature-callout-title = Prueba los grupos de pestañas para lograr menos desorden y más concentración
 tab-groups-onboarding-feature-callout-subtitle = Organízate arrastrando una pestaña encima de otra para crear tu primer grupo.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Encuentra tus grupos de pestañas en el menú Listar todas las pestañas, en cualquier momento.
 tab-groups-onboarding-create-group-title-2 = Encuentra tus grupos de pestañas aquí en cualquier momento.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Encuentra tus grupos buscándolos en la barra de direcciones.
 tab-groups-onboarding-saved-groups-title-2 = Cuando cierras un grupo de pestañas, puedes volver a abrirlo aquí en cualquier momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encuentra tus grupos cerrados buscándolos en la barra de direcciones.
+tab-groups-onboarding-session-restore-title = Vuelve a abrir tus grupos de pestañas aquí en cualquier momento.
 tab-groups-onboarding-dismiss = Aceptar
 
 ## Multi Profiles feature onboarding messages
@@ -459,4 +464,6 @@ multi-profile-callout-cta = Crear un perfil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Descarga, sincroniza y ¡listo!
 dismiss-button-label = Descartar
