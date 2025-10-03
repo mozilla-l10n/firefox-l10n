@@ -178,6 +178,7 @@ genai-chatbot-summarize-sidebar-provider-subtitle = Haz clic derecho en tu chatb
 genai-chatbot-summarize-sidebar-generic-subtitle = Haz clic derecho en el botón de destellos en la barra lateral y selecciona "Resumir página". La primera vez, también seleccionarás un chatbot de IA.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Abre tu chatbot de IA en la barra lateral y elige “Resumir página” en la parte inferior.
+genai-chatbot-summarize-footer-generic-subtitle = Agrega un chatbot de IA en la barra lateral { -brand-short-name } para resumir páginas rápidamente.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -239,6 +240,27 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Habilitar vistas previas de enlaces
     .description = Ve el título de la página, la descripción y más cuando utilices el acceso directo o hagas clic derecho en un enlace.
+link-preview-settings-key-points =
+    .label = Permite que la IA lea el comienzo de la página y genere puntos clave
+link-preview-settings-long-press =
+    .label = Atajo: Haz clic y mantén presionado el enlace durante 1 segundo (pulsación larga)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = ¿Ver más con IA?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } usa IA para leer el inicio de la página y generar algunos puntos clave. Para priorizar tu privacidad, esto se realiza en tu dispositivo.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nuevo: Haz clic y mantén presionado cualquier enlace para obtener una vista previa
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Consulta una breve descripción, el tiempo de lectura y más información para decidir si vale la pena abrir el enlace. También esta disponible con el botón derecho del ratón.
+# Header for the key points section
+link-preview-key-points-header = Puntos clave
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Los puntos clave son generados por IA y pueden contener errores.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Configuración por primera vez • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Verás los puntos clave más rápidamente la próxima vez.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Obtén una vista previa
 # Onboarding card Close button
