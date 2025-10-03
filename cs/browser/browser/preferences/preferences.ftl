@@ -1336,6 +1336,9 @@ sitedata-option-block-all =
 sitedata-clear2 =
     .label = Vymazat data prohlížení
     .accesskey = V
+sitedata-settings2 =
+    .label = Spravovat data prohlížení
+    .accesskey = p
 sitedata-clear =
     .label = Vymazat data…
     .accesskey = V
@@ -1345,6 +1348,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Výjimky…
     .accesskey = k
+sitedata-cookies-exceptions2 =
+    .label = Spravovat výjimky
+    .accesskey = v
+    .description = Můžete určit, které webové stránky mají vždy nebo nikdy povoleno používat soubory cookie a data stránek.
 
 ## Privacy Section - Cookie Banner Handling
 
