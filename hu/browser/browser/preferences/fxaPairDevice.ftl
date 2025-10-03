@@ -6,6 +6,7 @@ fxa-pair-device-dialog-sync2 =
     .style = min-width: 32em;
 fxa-qrcode-pair-title = Szinkronizálja a telefonján vagy a táblagépén lévő { -brand-product-name(case: "accusative") }
 fxa-qrcode-pair-step1 = 1. Nyissa meg a { -brand-product-name(case: "accusative") } a mobileszközén.
+fxa-qrcode-pair-step2-device-steps = 2. Ugorjon a menühöz és koppintson a <strong>Bejelentkezés</strong> gombra
 fxa-qrcode-pair-step2-signin = 2. Ugorjon a menühöz (<img data-l10n-name="ios-menu-icon"/> iOS-en vagy <img data-l10n-name="android-menu-icon"/> Androidon), és koppintson a <strong>Adatok szinkronizálása és mentése</strong> elemre
 fxa-qrcode-pair-step3 = 3. Koppintson a <strong>Beolvasásra kész</strong> lehetőségre, és tartsa telefonját a kód felé
 fxa-qrcode-error-title = A párosítás sikertelen.

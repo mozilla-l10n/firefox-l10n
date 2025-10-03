@@ -35,6 +35,7 @@ inactive-css-not-display-block-on-floated-2 = A <strong>display</strong> érték
 inactive-css-only-non-grid-or-flex-item = A(z) <strong>{ $property }</strong> hatástalan, mert rács- vagy flexibilis elemekre nem használható.
 inactive-css-not-block = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mert csak a blokkszintű elemekre vonatkozik.
 inactive-css-not-block-container = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mert csak a blokkszintű tárolóelemekre vonatkozik.
+inactive-css-not-block-flex-grid-container = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mert csak a blokkszintű, flex és rácsos tárolóelemekre vonatkozik.
 inactive-css-not-floated = A(z) <strong>{ $property }</strong> hatástalan, mert csak a lebegő elemekre vonatkozik.
 inactive-css-property-is-impossible-to-override-in-visited = A(z) <strong>{ $property }</strong> felülbírálása a <strong>:visited</strong> korlátozás miatt lehetetlen.
 inactive-css-position-property-on-unpositioned-box = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem pozicionált elem.

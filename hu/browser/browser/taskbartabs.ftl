@@ -34,3 +34,17 @@ taskbar-tab-audio-mute =
     .tooltiptext = Lap némítása
 taskbar-tab-audio-unmute =
     .tooltiptext = Lap némításának feloldása
+
+## These are used as part of the window title, possibly after the content's
+## title.
+##
+## Variables:
+##  $name (String): The name of the installed web app.
+##  $container (String): The name of the user's container (e.g. 'Work',
+##  'Personal').
+##  $profile (String): The name of the user's current profile.
+
+taskbar-tab-title-default = { $name } a { -brand-full-name }ban
+taskbar-tab-title-container = { $name } ({ $container }) a { -brand-full-name }ban
+taskbar-tab-title-profile = { $name } ebben: { $profile } – { -brand-full-name }
+taskbar-tab-title-container-profile = { $name } ({ $container }) ebben: { $profile } – { -brand-full-name }

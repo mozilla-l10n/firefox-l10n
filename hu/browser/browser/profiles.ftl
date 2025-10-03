@@ -190,6 +190,8 @@ present-avatar-alt =
     .alt = Ajándék
 shopping-avatar-alt =
     .alt = Bevásárlókosár
+soccer-ball-avatar-alt =
+    .alt = Focilabda
 soccer-avatar-alt =
     .alt = Foci
 sparkle-single-avatar-alt =
@@ -200,6 +202,9 @@ video-game-controller-avatar-alt =
     .alt = Videójáték-vezérlő
 custom-avatar-alt =
     .alt = Egyéni profilkép
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Földgömb
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Alapértelmezett favicon
@@ -215,6 +220,7 @@ bike-avatar-alt =
 
 book-avatar = Könyv
 briefcase-avatar = Aktatáska
+clock-avatar = Óra
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Vászon
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +232,8 @@ default-favicon-avatar = Alapértelmezett favicon
 diamond-avatar = Gyémánt
 flower-avatar = Virág
 folder-avatar = Mappa
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Földgömb
 hammer-avatar = Kalapács
 heart-avatar = Szív
 heart-rate-avatar = Pulzusszám
@@ -238,10 +246,12 @@ message-avatar = Üzenet
 musical-note-avatar = Hangjegy
 palette-avatar = Paletta
 paw-print-avatar = Mancslenyomat
+picture-avatar = Kép
 plane-avatar = Repülő
 # Present refers to a gift box, not the current time period
 present-avatar = Ajándék
 shopping-avatar = Bevásárlókosár
+soccer-ball-avatar = Focilabda
 soccer-avatar = Foci
 sparkle-single-avatar = Szikrák
 star-avatar = Csillag
@@ -256,3 +266,66 @@ custom-avatar-drag-handle =
     .aria-label = Vágási terület átméretezése
 barbell-avatar = Súlyzó
 bike-avatar = Kerékpár
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Súlyzó profilkép alkalmazása
+bike-avatar-tooltip =
+    .tooltiptext = Kerékpár profilkép alkalmazása
+book-avatar-tooltip =
+    .tooltiptext = Könyv profilkép alkalmazása
+briefcase-avatar-tooltip =
+    .tooltiptext = Aktatáska profilkép alkalmazása
+picture-avatar-tooltip =
+    .tooltiptext = Kép profilkép alkalmazása
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Kézműves profilkép alkalmazása
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Földgömb profilkép alkalmazása
+diamond-avatar-tooltip =
+    .tooltiptext = Gyémánt profilkép alkalmazása
+flower-avatar-tooltip =
+    .tooltiptext = Virág profilkép alkalmazása
+folder-avatar-tooltip =
+    .tooltiptext = Mappa profilkép alkalmazása
+hammer-avatar-tooltip =
+    .tooltiptext = Kalapács profilkép alkalmazása
+heart-avatar-tooltip =
+    .tooltiptext = Szív profilkép alkalmazása
+heart-rate-avatar-tooltip =
+    .tooltiptext = Szívverés profilkép alkalmazása
+clock-avatar-tooltip =
+    .tooltiptext = Óra profilkép alkalmazása
+leaf-avatar-tooltip =
+    .tooltiptext = Levél profilkép alkalmazása
+lightbulb-avatar-tooltip =
+    .tooltiptext = Villanykörte profilkép alkalmazása
+makeup-avatar-tooltip =
+    .tooltiptext = Smink profilkép alkalmazása
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Üzenet profilkép alkalmazása
+musical-note-avatar-tooltip =
+    .tooltiptext = Hangjegy profilkép alkalmazása
+palette-avatar-tooltip =
+    .tooltiptext = Paletta profilkép alkalmazása
+paw-print-avatar-tooltip =
+    .tooltiptext = Mancslenyomat profilkép alkalmazása
+plane-avatar-tooltip =
+    .tooltiptext = Repülőgép profilkép alkalmazása
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Ajándék profilkép alkalmazása
+shopping-avatar-tooltip =
+    .tooltiptext = Bevásárlókocsi profilkép alkalmazása
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Focilabda profilkép alkalmazása
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Csillogás profilkép alkalmazása
+star-avatar-tooltip =
+    .tooltiptext = Csillag profilkép alkalmazása
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Videojáték-vezérlő profilkép alkalmazása
