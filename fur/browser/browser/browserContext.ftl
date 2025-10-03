@@ -270,6 +270,15 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Visualize descrizion
     .accesskey = d
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Cîr imagjin cun { $engine }
+    .accesskey = C
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Cîr imagjin cun { $engine }
 main-context-menu-video-save-as =
     .label = Salve video come…
     .accesskey = v
@@ -392,3 +401,5 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = Rivele password
     .accesskey = v
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = Novitâts

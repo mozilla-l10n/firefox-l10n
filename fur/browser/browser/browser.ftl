@@ -117,6 +117,15 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Navigazion privade
        *[other] { -brand-full-name } Navigazion privade
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Navigazion privade
+popups-infobar-dont-show-message2 =
+    .label = No sta mostrâ chest messaç cuant che a vegnin blocâts i barcons a comparse o indreçaments di tiercis bandis
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Gjestìs impostazions di barcons a comparse e di indreçaments di tiercis bandis…
+    .accesskey = G
 
 ##
 
@@ -143,6 +152,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Vierç panel dai messaçs
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Vierç il panel des richiestis di posizion
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Gjestìs l'acès ai dispositîfs locâi par chest sît
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Gjestìs la condivision dal acès ae rêt locâl cun chest sît
 urlbar-xr-notification-anchor =
     .tooltiptext = Vierç il panel dai permès pe realtât virtuâl
 urlbar-storage-access-anchor =
@@ -209,6 +222,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Mostre mancul dispès
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = No sta mostrâ sugjeriments sul meteo
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Vierç menù
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Graciis pe tô opinion
@@ -240,6 +256,10 @@ urlbar-search-mode-actions = Azions
 
 urlbar-geolocation-blocked =
     .tooltiptext = Tu âs blocât lis informazions di posizion par chest sît web.
+urlbar-localhost-blocked =
+    .tooltiptext = Lis conessions ai dispositîfs locâi a son blocadis par chest sît web.
+urlbar-local-network-blocked =
+    .tooltiptext = Lis conessions ae rêt locâl a son blocadis par chest sît web.
 urlbar-xr-blocked =
     .tooltiptext = Tu âs blocât l'acès dai dispositîfs di realtât virtuâl par chest sît web.
 urlbar-web-notifications-blocked =
@@ -252,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Tu âs blocât la condivision dal schermi par chest sît web.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Tu âs blocât la archiviazion persistente par chest sît web.
+urlbar-popup-blocked2 =
+    .tooltiptext = I barcons a comparse e i indreçaments di tiercis bandis a son blocâts par chest sît web.
 urlbar-popup-blocked =
     .tooltiptext = Tu âs blocât i barcons a comparse par chest sît web.
 urlbar-autoplay-media-blocked =
@@ -791,6 +813,26 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizât
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Oten i dâts sui marcjâts azionaris dret de sbare di ricercje
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Mostre i inzornaments sui marcjâts e ancjemò altri dai nestris colaboradôrs cuant che tu condividis i dâts relatîfs ai tiermins di ricercje cun { -vendor-short-name }. <a data-l10n-name="learn-more-link">Plui informazions</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Mostre sugjeriments
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = No cumò
+urlbar-result-realtime-opt-in-dismiss = Siere
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = No sta mostrâ chescj sugjeriments
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = No sta mostrâ sugjeriments sui marcjâts
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Graciis pe tô opinion. No tu viodarâs plui sugjeriments sui marcjâts.
 
 ## Strings used for buttons in the urlbar
 

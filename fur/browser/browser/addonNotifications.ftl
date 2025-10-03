@@ -125,11 +125,13 @@ addon-install-error-corrupt-file = Impussibil instalâ il component adizionâl d
 addon-install-error-file-access = No si à podût instalâ { $addonName } parcè che { -brand-short-name } nol pues modificâ il file necessari.
 addon-install-error-not-signed = { -brand-short-name } al à impedît a chest sît di instalâ un component adizionâl no verificât.
 addon-install-error-invalid-domain = Nol è pussibil instalâ il component adizionâl { $addonName } di cheste direzion.
+addon-install-error-no-addon-name-file-access = Nol è stât pussibil instalâ il component adizionâl parcè che { -brand-short-name } nol rive a modificâ il file necessari.
 addon-local-install-error-network-failure = Impussibil instalâ chest component adizionâl par vie di un erôr tal filesystem.
 addon-local-install-error-incorrect-hash = Impussibil instalâ chest component adizionâl parcè che nol corispuint al component adizionâl { -brand-short-name } spietât.
 addon-local-install-error-corrupt-file = Impussibil instalâ chest component adizionâl parcè che al somee ruvinât.
 addon-local-install-error-file-access = No si à podût instalâ { $addonName } parcè che { -brand-short-name } nol pues modificâ il file necessari.
 addon-local-install-error-not-signed = Impussibil instalâ chest component adizionâl parcè che nol è stât verificât.
+addon-local-install-no-addon-name-error-file-access = Nol è stât pussibil instalâ il component adizionâl parcè che { -brand-short-name } nol rive a modificâ il file necessari.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Nol è stât pussibil instalâ { $addonName } parcè che no je compatibile cun { -brand-short-name } { $appVersion }.
