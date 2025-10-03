@@ -10,6 +10,8 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Ssuter { $provider }
+genai-menu-open-generic =
+    .label = Ldi AI Chatbot
 # $provider (string) - name of the provider
 genai-menu-open-provider =
     .label = Ldi { $provider }
@@ -21,6 +23,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Kkes seg ufeggag n yifecka
 genai-menu-new-badge = Amaynut
+genai-menu-summarize-page = Segzel asebter
 genai-input-ask-generic =
     .placeholder = Ssuter deg AI chatbot…
 # $provider (string) - name of the provider

@@ -19,9 +19,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = g
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Mmesten tansa-k n yimayl:
+firefox-relay-opt-in-title-2 = Awi agelmus n yimayl n baṭel
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Seqdec ugelmus n yimayl n { -relay-brand-name }
+firefox-relay-use-mask-title-1 = Seqdec agelmus n yimayl
+firefox-relay-opt-in-subtitle-2 = Mmesten tabewwaḍt-ik seg yispamen
 firefox-relay-use-mask-title = Seqdec ugelmus n yimayl n { -relay-brand-name }
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Ffer tansa-k⋅m n yimayl n tidet

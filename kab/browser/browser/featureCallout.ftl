@@ -86,6 +86,10 @@ perplexity-callout-secondary-label-2 = Awi-t
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Kcem
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Eǧǧ urtan i tesmenyafayeḍ deg ufeggag n temsekriyin
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = Mtawi tura

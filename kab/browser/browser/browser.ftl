@@ -811,11 +811,46 @@ urlbar-result-realtime-opt-in-dismiss = Zgel
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Deg { $daysUntilStart } wass
+       *[other] { $name } · Deg { $daysUntilStart } wussan
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Ad yebdu deg { $daysUntilStart } wass
+       *[other] { $name } · Ad yebdu deg { $daysUntilStart } wussan
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Ad ifakk deg { $daysUntilStart } wass
+       *[other] { $name } · Ad ifakk deg { $daysUntilStart } wussan
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
 #   $name (string) - The name of the event.
 urlbar-result-dates-today = { $name } · Ass-a
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Ad ifakk ass-a
 
 ## Strings used for buttons in the urlbar
 
@@ -1336,15 +1371,33 @@ onboarding-aw-finish-setup-button =
 trustpanel-etp-description-enabled = Ma yella wayen ur nteddu ara ɣef usmel-a, εreḍ ad tsenseḍ ammesten.
 trustpanel-connection-label-secure = Taɣellist n tuqqna
 trustpanel-connection-label-insecure = Tuqqna taraɣelsant
+trustpanel-description-enabled2 = Tettummestneḍ. Ma yella ncukk deg kra, ad ak-d-nini.
+trustpanel-header-enabled-insecure = Ḥader asmel-a
 trustpanel-header-disabled = Tsenseḍ ammesten
 trustpanel-clear-cookies-button = Sfeḍ inagan n tuqna akked isefka n usmel
 trustpanel-privacy-link = Iɣewwaren n tbaḍnit
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Sfeḍ inagan n tuqqna akked yisefka n usmel i { $host }
 trustpanel-clear-cookies-subview-button-clear = Sfeḍ
 trustpanel-clear-cookies-subview-button-cancel = Sefsex
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Ammesten n tuqqna i { $host }
+trustpanel-connection-secure = Aqli-k teqqneḍ s wudem aɣelsan ɣeṛ usmel-a.
+trustpanel-connection-not-secure = Aqli-k ur teqqineḍ ara s wudem aɣelsan ɣeṛ usmel-a.
+trustpanel-siteinformation-morelink = Ugar n telɣut n usmel
 trustpanel-blocker-see-all = Wali akk
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Ammesten n uḍfar i { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-insecure-section-header = Tuqqna-inek d taraɣellsant
 trustpanel-list-label-tracking-content = Agbur n uḍfaṛ
+trustpanel-tracking-content-tab-list-header = Ismal-a ttaɛraḍen ad ak⋅akem-ḍefren:
