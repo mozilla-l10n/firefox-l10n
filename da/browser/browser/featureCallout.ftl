@@ -118,6 +118,12 @@ taskbar-tabs-social-callout-title = Behold dine yndlingsfeeds i din proceslinje
 taskbar-tabs-social-callout-subtitle = Få vist dine sociale medier som en app i et separat vindue beskyttet af { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Chat fra din proceslinje
 taskbar-tabs-chat-callout-subtitle = Få vist dine chat-websteder som en app i et separat vindue beskyttet af { -brand-short-name }.
+taskbar-tabs-email-callout-title = Få adgang til din mail i proceslinjen
+taskbar-tabs-email-callout-subtitle = Start din webmail som en app i et separat vindue beskyttet af { -brand-short-name }.
+taskbar-tabs-media-callout-title = Fortsæt streaming fra din proceslinje
+taskbar-tabs-media-callout-subtitle = Åbn dine streaming-websteder som en app i et separat vindue beskyttet af { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Føj dette websted til din proceslinje
+taskbar-tabs-value-prop-callout-subtitle = Åbn det i sit eget vindue med en forenklet brugerflade med et enkelt klik.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

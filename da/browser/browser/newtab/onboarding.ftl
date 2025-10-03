@@ -481,3 +481,10 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Gendan fra sikkerhedskopi
+restore-from-backup-title = Lad os få { -brand-short-name } til at se ud, som den plejer
+restore-from-backup-subtitle = Gendan din historik, dine bogmærker og andre data for at fortsætte, hvor du slap.
+restore-from-backup-secondary-button = Gendan ikke
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Så er vi tilbage! Dine { -brand-short-name }-data er blevet gendannet.
