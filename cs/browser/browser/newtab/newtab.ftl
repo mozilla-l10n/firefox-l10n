@@ -485,8 +485,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Přepnout na stupně F
 newtab-weather-menu-change-temperature-units-celsius = Přepnout na stupně Celsia
 newtab-weather-menu-hide-weather = Skrýt počasí na novém panelu
 newtab-weather-menu-learn-more = Zjistit více
+newtab-weather-menu-detect-my-location = Zjistit mou polohu
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Údaje o počasí nejsou momentálně dostupné.
+newtab-weather-opt-in-see-weather = Chcete vidět počasí pro vaši oblast?
+newtab-weather-opt-in-not-now =
+    .label = Teď ne
+newtab-weather-opt-in-yes =
+    .label = Ano
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = New York
 
 ## Topic Labels
 
