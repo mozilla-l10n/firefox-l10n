@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = გასუფთავება
 text-action-highlight-selection =
     .label = მონიშნულის გამორჩევა
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = შენიშვნის დართვა მონიშნულზე
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = წარწერის დართვა მონიშნულზე
