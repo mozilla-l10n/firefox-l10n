@@ -1224,9 +1224,19 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = Spravovat platební metody
     .accesskey = S
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Vyžadovat přihlášení zařízení k automatickému vyplňování a správě platebních metod
+    .accesskey = V
 autofill-addresses-title = Adresy a další
 autofill-addresses-header =
     .aria-label = Adresy a další
+autofill-addresses-checkbox-message =
+    .label = Ukládat a automaticky vyplňovat adresy
+    .accesskey = U
+autofill-addresses-manage-addresses-button =
+    .label = Spravovat adresy a další
+    .accesskey = S
 
 ## Privacy Section - History
 
@@ -1276,7 +1286,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies a data stránek
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Výpočet velikosti mezipaměti a dat stránek…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Uložené cookies, historie, data stránek a mezipaměť aktuálně zabírají <strong>{ $value } { $unit }</strong> místa na disku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1317,6 +1333,9 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Všechny cross-site cookies (může omezit fungování některých stránek)
 sitedata-option-block-all =
     .label = Všechny cookies (omezí fungování některých stránek)
+sitedata-clear2 =
+    .label = Vymazat data prohlížení
+    .accesskey = V
 sitedata-clear =
     .label = Vymazat data…
     .accesskey = V
