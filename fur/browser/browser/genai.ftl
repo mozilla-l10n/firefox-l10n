@@ -246,3 +246,22 @@ link-preview-settings-long-press =
     .label = Scurte: fâs clic e ten fracât il colegament par 1 secont (pression lungje)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Viodi di plui cu la IA?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } al dopre la IA par lei l'inizi de pagjine e creâ cualchi pont clâf. Par tutelâ la tô riservatece, dut al ven fat sul to dispositîf.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Novitât: fâs clic e ten fracât suntun colegament par viodi la anteprime
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Viôt une descrizion curte, il timp di leture e altris informazions par valutâ se vierzi il colegament o mancul. Tu puedis fâlu ancje cul clic di diestre
+# Header for the key points section
+link-preview-key-points-header = Ponts clâf
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = I ponts clâf a son gjenerâts de inteligjence artificiâl e a podaressin vê erôrs.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Configurazion iniziâl • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = La prossime volte i ponts clâf a vignaran visualizâts prime.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Viôt une anteprime
+# Onboarding card Close button
+link-preview-onboarding-close = Siere

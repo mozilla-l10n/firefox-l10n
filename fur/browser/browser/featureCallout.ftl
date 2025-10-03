@@ -136,6 +136,7 @@ windows-10-eos-sync-new-device-subtitle-1 = Sincronize par puartâti daûr i tie
 windows-10-eos-sync-new-device-title-2 = Desideristu passâ a un gnûf dispositîf? No sta pierdi ce che al è impuartant.
 windows-10-eos-sync-new-device-subtitle-2 = Nol impuarte trop dispès che tu dopris { -brand-short-name }, la sincronizazion e protêç i tiei segnelibris, lis passwords e lis impostazions.
 windows-10-eos-sync-new-device-primary-label = Sincronize cumò
+windows-10-eos-sync-general-title-1 = Protêç la esperience personalizade che tu âs creât par { -brand-short-name }.
 windows-10-eos-sync-general-subtitle-1 = Fâs il backup e sincronize lis tôs passwords, i segnelibris, lis impostazions e altris dâts par preservâ lis robis che ti coventin.
 windows-10-eos-sync-general-title-2 = Al è il moment just par fâ il backup di passwords e segnelibris.
 windows-10-eos-sync-general-subtitle-2 = Sincronize cumò par protezi la robe che tu âs afidât a { -brand-short-name } — e par recuperâle dapardut là che ti covente e in ogni moment.

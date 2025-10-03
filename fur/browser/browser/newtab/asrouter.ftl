@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronize i segnelibris cumò…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Boton par sierâ
     .title = Siere
+fxa-adoption-addresses-backup-title = Fâs il backup des direzions salvadis
+fxa-adoption-addresses-backup-subtitle = Protêç lis direzions che tu âs salvât, sincronizantlis cui tiei dispositîfs doprant la criptografie.
+fxa-adoption-credit-cards-backup-title = Fâs il backup dai tiei metodis di paiament
+fxa-adoption-credit-cards-backup-subtitle = Protêç i tiei metodis di paiament sincronizantju cui tiei dispositîfs doprant la criptografie.
+fxa-adoption-primary-button-label = Regjistriti
 
 ## Protections panel
 
@@ -311,6 +316,8 @@ fxa-menu-message-close-button =
     .title = Siere
     .aria-label = Siere
 fxa-menu-message-sign-up-button = Regjistriti
+fxa-menu-message-sign-in-button = Jentre
+fxa-menu-message-sync-button = Scomence la sincronizazion
 fxa-menu-message-sync-devices-primary-text = Sincronize ducj i tiei dispositîfs
 fxa-menu-message-sync-devices-secondary-text = Oten intun lamp lis tôs informazions — come segnelibris e passwords — dapardut là che tu dopris { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronize ducj i tiei dispositîfs

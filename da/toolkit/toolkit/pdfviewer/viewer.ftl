@@ -386,6 +386,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Luk sidepanelet
     .aria-label = Luk sidepanelet
 pdfjs-editor-comments-sidebar-close-button-label = Luk sidepanelet
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Har du fundet noget interessant? Fremhæv det og gem en kommentar.
 pdfjs-editor-comments-sidebar-no-comments-link = Læs mere
 
 ## Alt-text dialog

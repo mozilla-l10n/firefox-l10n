@@ -73,7 +73,7 @@ text-action-comment-selection-1 =
     .label = Lägg till en kommentar till markering
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
-    .label = Kommentarval
+    .label = Kommentera urval
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =
