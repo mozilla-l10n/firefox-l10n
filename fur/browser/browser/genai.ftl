@@ -93,6 +93,16 @@ genai-shortcuts-hide =
     .label = Plate la scurte pai chatbot
 genai-menu-choose-chatbot =
     .label = Sielç un chatbot IA
+genai-menu-ask-generic-2 =
+    .label = Domande al chatbot IA
+    .accesskey = z
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Domande a { $provider }
+    .accesskey = z
+genai-menu-no-provider-2 =
+    .label = Domande a un chatbot IA
+    .accesskey = z
 
 ## Chatbot header
 
@@ -116,6 +126,11 @@ genai-options-hide-shortcut =
     .label = Plate scurte cuant che al ven selezionât un test
 genai-options-about-chatbot =
     .label = Informazions sui chatbots IA in { -brand-short-name }
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Stant che la pagjine e je masse lungje, cheste e je la sintesi parziâl.
 
 ## Chatbot footer
 
@@ -209,3 +224,23 @@ link-preview-reading-time =
         [one] Timp di leture { $range } minût
        *[other] Timp di leture { $range } minûts
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = No rivìn a visualizâ la anteprime di chest colegament
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Visite il colegament
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = No rivìn a gjenerâ i ponts clâf par cheste pagjine web.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Alc al è lât strucj.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Torne prove
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Impostazions anteprime colegament
+link-preview-settings-enable =
+    .label = Ative anteprimis colegament
+    .description = Viôt il titul de pagjine, la descrizion e altri cuant che tu dopris la scurte o il clic diestri suntun colegament.
+link-preview-settings-key-points =
+    .label = Permet ae IA di lei l'inizi de pagjine e gjenerâ i ponts clâf
+link-preview-settings-long-press =
+    .label = Scurte: fâs clic e ten fracât il colegament par 1 secont (pression lungje)

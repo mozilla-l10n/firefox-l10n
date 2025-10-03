@@ -20,9 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = M
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protêç lis tôs direzions e-mail:
+firefox-relay-opt-in-title-2 = Oten une mascare di pueste eletroniche gratuite
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Dopre une mascare di pueste eletroniche { -relay-brand-name }
+firefox-relay-use-mask-title-1 = Dopre une mascare di e-mail
+firefox-relay-opt-in-subtitle-2 = Protêç la tô casele di pueste dal spam
 firefox-relay-use-mask-title = Dopre une mascare di pueste eletroniche { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Evite il spam cuntune mascare di pueste eletroniche gratuite
@@ -73,6 +76,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 firefox-relay-and-fxa-popup-notification-header-with-domain = Oten une mascare di pueste eletroniche gratuite
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protêç dal spam la tô casele di pueste doprant une <label data-l10n-name="firefox-relay-learn-more-url">mascare di pueste eletroniche</label> par platâ la tô vere direzion. Lis e-mails di <label data-l10n-name="firefox-fxa-and-relay-offer-domain">chest sît</label> a continuaran a rivâ te tô casele di pueste, ma la tô direzion e-mail e restarà platade.
 firefox-relay-and-fxa-popup-notification-first-sentence = Protêç dal spam la tô casele di pueste doprant une <label data-l10n-name="firefox-relay-learn-more-url">mascare di pueste eletroniche { -relay-brand-name }</label> par platâ la tô vere direzion. Lis e-mails di <label data-l10n-name="firefox-fxa-and-relay-offer-domain">chest sît</label> a continuaran a rivâ te tô casele di pueste, ma la tô direzion e-mail e restarà platade.
+firefox-relay-offer-why-to-use-relay-1 = Protêç dal spam la tô casele di pueste doprant une <label data-l10n-name="firefox-relay-learn-more-url">mascare di pueste eletroniche { -relay-brand-name }</label> par platâ la tô vere direzion. Lis e-mails di <label data-l10n-name="firefox-fxa-and-relay-offer-domain">chest sît</label> a continuaran a rivâ te tô casele di pueste, ma la tô direzion e-mail e restarà platade.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Par doprâ la mascare di pueste eletroniche prime, regjistriti o jentre sul to account
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Regjistriti

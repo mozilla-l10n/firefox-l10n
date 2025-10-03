@@ -138,6 +138,15 @@ windows-10-eos-sync-new-device-subtitle-2 = Nol impuarte trop dispès che tu dop
 windows-10-eos-sync-new-device-primary-label = Sincronize cumò
 windows-10-eos-sync-general-subtitle-1 = Fâs il backup e sincronize lis tôs passwords, i segnelibris, lis impostazions e altris dâts par preservâ lis robis che ti coventin.
 windows-10-eos-sync-general-title-2 = Al è il moment just par fâ il backup di passwords e segnelibris.
+windows-10-eos-sync-general-subtitle-2 = Sincronize cumò par protezi la robe che tu âs afidât a { -brand-short-name } — e par recuperâle dapardut là che ti covente e in ogni moment.
+windows-10-eos-sync-tour-title-1 = Masse schedis? Rangje par ben cui grups di schedis.
+windows-10-eos-sync-tour-subtitle-1 = Strissine une schede parsore di une altre par creâ un grup e mantignî dut in ordin.
+windows-10-eos-sync-tour-title-2 = Prepariti par Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sincronize i tiei segnelibris, lis passwords e lis impostazions par fâur il backup prime dal passaç di sisteme operatîf.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Mostre mancul racomandazions
+windows-10-eos-sync-dismiss-button-label = Siere
+windows-10-eos-sync-callout-primary-advance-button-label = Sucessîf
 
 ## Sidebar Strings
 

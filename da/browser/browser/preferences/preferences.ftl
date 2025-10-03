@@ -1543,6 +1543,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikater
+certs-description = Konfigurer certifikaterne, som { -brand-short-name } bruger til godkendelse.
 certs-enable-ocsp =
     .label = Send forespørgsel til OCSP responder-servere for at bekræfte certifikaters aktuelle gyldighed
     .accesskey = O

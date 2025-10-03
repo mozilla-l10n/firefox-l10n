@@ -27,6 +27,20 @@ crashreporter-button-ok = IH
 crashreporter-button-close = Mdel
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Asulay n uɣelluy: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Tzemreḍ ad twaliḍ talqayt n truẓi-a di { $url }.
 
 # Error strings
 
+# $path (String) - the file path
+crashreporter-error-opening-file = Yecceḍ ulday n ufaylu ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = Yecceḍ usali n ufaylu ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = Yecceḍ usnulfu n uakaram ({ $path })
+crashreporter-error-no-home-dir = Ixuṣṣ ukaram agejdan
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Yecceḍ usenkez n { $from } ɣer { $to }
+crashreporter-error-version-eol = Taggara n lqem n ufaylu: ineqqisen n truẓi dayen ur ttwaqbalen ara.
+crashreporter-error-failed-to-generate-minidump = Asnas yecceḍ deg usirew n telɣut n truẓi.

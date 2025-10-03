@@ -82,6 +82,13 @@ client-auth-cert-details-issued-by = Yessuffeɣ-it-id: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Yettwasekles di : { $storedOn }
+client-auth-cert-remember-label = Cfu ɣef ugemmen-agi:
+client-auth-cert-remember-never =
+    .label = Yiwet n tikkelt
+client-auth-cert-remember-always =
+    .label = S wudem ameɣlal
+client-auth-cert-remember-temporarily =
+    .label = I tɣimit-a
 
 ## Set password (p12) dialog
 

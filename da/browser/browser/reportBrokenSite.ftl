@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Rapporter problem med websted
 report-broken-site-panel-header =
     .label = Rapporter problem med websted
     .title = Rapporter problem med websted
+report-broken-site-panel-learn-more-link = Læs mere
 report-broken-site-panel-intro = Hjælp med at gøre { -brand-product-name } bedre for alle. { -vendor-short-name } bruger de oplysninger, du sender os, til at løse problemer med webstedet.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Hvad virker ikke?
