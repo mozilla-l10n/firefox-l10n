@@ -473,8 +473,11 @@ newtab-weather-menu-change-temperature-units-fahrenheit = 切换为华氏度
 newtab-weather-menu-change-temperature-units-celsius = 切换为摄氏度
 newtab-weather-menu-hide-weather = 隐藏新标签页上的天气信息
 newtab-weather-menu-learn-more = 详细了解
+newtab-weather-menu-detect-my-location = 检测我的位置
 # This message is shown if user is working offline
 newtab-weather-error-not-available = 目前无法获取天气数据。
+newtab-weather-opt-in-not-now =
+    .label = 暂时不要
 
 ## Topic Labels
 
