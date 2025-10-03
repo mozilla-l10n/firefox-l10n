@@ -1071,6 +1071,9 @@ autofill-saved-payment-methods-button = Gemte betalingsmetoder
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Kræv login på enhed for at udfylde og håndtere betalingsmetoder
     .accesskey = o
+autofill-payment-methods-title = Betalingsmetoder
+autofill-payment-methods-header =
+    .aria-label = Betalingsmetoder
 
 ## Privacy Section - History
 
