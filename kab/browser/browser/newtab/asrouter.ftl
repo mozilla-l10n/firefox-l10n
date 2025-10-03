@@ -68,6 +68,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Mtawi ticraḍ n yisebtar tura...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Taqeffalt n umdal
     .title = Amdal
+fxa-adoption-primary-button-label = Kcem
 
 ## Protections panel
 
@@ -299,6 +300,8 @@ fxa-menu-message-close-button =
     .title = Mdel
     .aria-label = Mdel
 fxa-menu-message-sign-up-button = Jerred
+fxa-menu-message-sign-in-button = Kcem
+fxa-menu-message-sync-button = Bdu amtawi
 fxa-menu-message-sync-devices-primary-text = Mtawi akk ibenkan-ik
 fxa-menu-message-sync-devices-collapsed-text = Mtawi akk ibenkan-ik
 fxa-menu-message-backup-data-primary-text = Ḥrez isefka n tunigin
@@ -325,3 +328,20 @@ multi-cta-fox-doodle-main-browser-primary-button-label = Err { -brand-short-name
 
 windows-10-eos-sync-toast-primary-label = Bdu
 windows-10-eos-sync-toast-secondary-label = Smekti-y-id ticki
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-pin-primary-button = Senteḍ { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-info-button = Wali acu yettusweḥlen
+windows-10-eos-sync-callout-next-button = Aḍfir
+windows-10-eos-sync-callout-get-started-button = Bdu
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-not-now = Mačči tura
+    .accesskey = M

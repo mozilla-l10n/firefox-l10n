@@ -67,8 +67,13 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Ɣef AI chatbots deg { -brand-short-name }
 
+## Chatbot footer
+
+genai-page-button-summarize = Segzel asebter
+
 ## Chatbot onboarding
 
+genai-onboarding-choose-header = Fren AI chatbot i useqdec deg ufeggag adisan { -brand-short-name }
 genai-onboarding-primary = Kemmel
 genai-onboarding-secondary = Mdel
 genai-onboarding-claude-tooltip =
@@ -92,6 +97,7 @@ genai-onboarding-lechat-learn = Issi ugar ɣef Chat
 genai-onboarding-select-header = Fren aḍris i uwali n yisumar
 genai-onboarding-select-primary = Bdu ameslay
 genai-chatbot-contextual-button = Fren chatbot
+genai-chatbot-summarize-button = Segzel asebter
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
