@@ -1119,6 +1119,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies og websteds-data
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Udregner størrelse på cache og websteds-data…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1146,6 +1148,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Sporings-teknologier på tværs af websteder
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Sporings-cookies på tværs af websteder
+sitedata-option-block-cross-site-cookies2 =
+    .label = Isoler cookies på tværs af websteder
 sitedata-option-block-cross-site-cookies =
     .label = Sporings-cookies på tværs af websteder, og isolér andre cookies på tværs af websteder
 sitedata-option-block-unvisited =
