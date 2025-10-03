@@ -1144,10 +1144,10 @@ sitedata-delete-on-close-private-browsing3 =
 sitedata-delete-on-close-private-browsing = 영구 사생활 보호 모드에서는 { -brand-short-name }를 닫으면 쿠키와 사이트 데이터가 항상 지워집니다.
 sitedata-delete-on-close-private-browsing2 = 기록 설정에 따라 { -brand-short-name }는 브라우저를 닫을 때 세션에서 쿠키와 사이트 데이터를 삭제합니다.
 sitedata-allow-cookies-option =
-    .label = 쿠키와 사이트 데이터 허용
+    .label = 쿠키 및 사이트 데이터 허용
     .accesskey = A
 sitedata-disallow-cookies-option =
-    .label = 쿠키와 사이트 데이터 차단
+    .label = 쿠키 및 사이트 데이터 차단
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -1323,11 +1323,7 @@ content-blocking-and-isolating-etp-warning-description-2 = 이 설정으로 인�
 content-blocking-warning-learn-how = 방법 알아보기
 content-blocking-baseline-exceptions-3 =
     .label = 주요 사이트 문제 해결 (권장)
-    .description = 추적기가 포함되어 있을 수 있는 필수 요소만 차단 해제하여 사이트와 기능을 로드하는 데 도움을 줍니다. 가장 일반적인 문제를 다룹니다.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
-content-blocking-convenience-exceptions-3 =
-    .label = 사소한 사이트 문제 해결
-    .description = 추적기를 포함할 수 있는 요소를 차단 해제하여 글이나 댓글 섹션의 동영상과 같은 것을 복원합니다. 이렇게 하면 사이트 문제를 줄일 수 있지만 보호 수준은 낮습니다. 주요 문제에 대한 수정 사항과 함께 사용해야 합니다.
+    .description = 추적기가 포함되어 있을 수 있는 필수 요소만 차단 해제하여 사이트와 기능을 로드하는 데 도움을 줍니다. 대부분의 일반적인 문제를 해결합니다.
 content-blocking-baseline-exceptions =
     .label = { -brand-short-name }가 주요 웹 사이트 손상을 방지하는 데 필요한 예외를 자동으로 적용하도록 허용합니다.
 content-blocking-baseline-exceptions-2 =
