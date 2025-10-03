@@ -477,8 +477,14 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Cambiar a Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Cambiar a Celsius
 newtab-weather-menu-hide-weather = Ocultar clima en Nueva pestaña
 newtab-weather-menu-learn-more = Conocer más
+newtab-weather-menu-detect-my-location = Detectar mi ubicación
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Los datos meteorológicos no están disponibles en este momento.
+newtab-weather-opt-in-see-weather = ¿Quiere ver el clima de su ubicación?
+newtab-weather-opt-in-not-now =
+    .label = No ahora
+newtab-weather-opt-in-yes =
+    .label = Sí
 
 ## Topic Labels
 
