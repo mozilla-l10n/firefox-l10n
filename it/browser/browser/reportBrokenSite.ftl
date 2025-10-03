@@ -49,3 +49,4 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Grazie per aiutare { -brand-product-name } a rendere il Web più aperto, accessibile e migliore per tutti.
 report-broken-site-panel-invalid-url-label = Inserire un URL valido
 report-broken-site-panel-missing-reason-label = Scegliere un motivo
+
