@@ -136,6 +136,10 @@ windows-10-eos-sync-tour-title-1 = For mange faneblade? Ryd op med fanebladsgrup
 windows-10-eos-sync-tour-subtitle-1 = Træk et faneblade oven på et andet for at oprette en gruppe og holde tingene organiseret.
 windows-10-eos-sync-tour-title-2 = Forbered dig til Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synkroniser dine bogmærker, adgangskoder og indstillinger for at sikkerhedskopiere dem, før du skifter.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Vis færre anbefalinger
+windows-10-eos-sync-dismiss-button-label = Afvis
+windows-10-eos-sync-callout-primary-advance-button-label = Næste
 
 ## Sidebar Strings
 
