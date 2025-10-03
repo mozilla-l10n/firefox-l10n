@@ -1373,10 +1373,26 @@ popup-warning-message =
         [one] { -brand-short-name } al à impedît a chest sît di vierzi un barcon a comparse.
        *[other] { -brand-short-name } al à impedît a chest sît di vierzi { $popupCount } barcons a comparse.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } al à impedît a chest sît di indreçâ.
+        [1] { -brand-short-name } al à impedît a chest sît di vierzi un barcon a comparse e di indreçâ.
+        [one] { -brand-short-name } al à impedît a chest sît di vierzi un barcon a comparse e di indreçâ.
+       *[other] { -brand-short-name } al à impedît a chest sît di vierzi { $popupCount } barcons a comparse e di indreçâ.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } al à impedît a chest sît di vierzi plui di { $popupCount } barcons a comparse.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } al à impedît a chest sît di vierzi plui di { $popupCount } barcon a comparse e di indreçâ.
+       *[other] { -brand-short-name } al à impedît a chest sît di vierzi plui di { $popupCount } barcons a comparse e di indreçâ.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1392,6 +1408,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mostre “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Mostre “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1442,3 +1462,23 @@ trustpanel-description-enabled = Protezion ative. Se o cjatìn alc ti fasarìn s
 trustpanel-header-disabled = Tu âs disativât lis protezions
 trustpanel-description-disabled = { -brand-product-name } al è fûr servizi. Ti conseìn di tornâ a ativâ lis protezions.
 trustpanel-clear-cookies-button = Nete vie i cookies e i dâts dai sîts
+trustpanel-privacy-link = Impostazions di riservatece
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Nete cookies e dâts dai sîts par { $host }
+trustpanel-clear-cookies-description = La rimozion di cookies e dai sîts web e podarès disconetiti dai sîts o disvuedâ i carei des spesis in spiete.
+trustpanel-clear-cookies-subview-button-clear = Nete
+trustpanel-clear-cookies-subview-button-cancel = Anule
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Protezions pe conession a { $host }
+trustpanel-connection-secure = La conession cun chest sît e je sigure.
+trustpanel-connection-not-secure = La conession cun chest sît no je sigure.
+trustpanel-siteinformation-morelink = Plui informazions sul sît
+trustpanel-blocker-see-all = Viôt ducj
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Protezions da lis spiis par { $host }

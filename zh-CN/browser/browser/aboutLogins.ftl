@@ -223,8 +223,8 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
-        [1] 是的，移除此登录信息
-       *[other] 是的，移除这些登录信息
+        [1] 是，移除此登录信息
+       *[other] 是，移除这些登录信息
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->

@@ -45,11 +45,11 @@ abuse-report-messagebar-error-recent-submit = 由于最近发送过另一份举�
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove-extension = 是的，移除它
+abuse-report-messagebar-action-remove-extension = 是，移除它
 abuse-report-messagebar-action-keep-extension = 不了，我想继续使用
-abuse-report-messagebar-action-remove-sitepermission = 是的，移除它
+abuse-report-messagebar-action-remove-sitepermission = 是，移除它
 abuse-report-messagebar-action-keep-sitepermission = 不用，请保留
-abuse-report-messagebar-action-remove-theme = 是的，移除它
+abuse-report-messagebar-action-remove-theme = 是，移除它
 abuse-report-messagebar-action-keep-theme = 不了，我想继续使用
 abuse-report-messagebar-action-retry = 重试
 abuse-report-messagebar-action-cancel = 取消

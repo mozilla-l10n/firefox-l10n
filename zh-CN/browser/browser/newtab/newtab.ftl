@@ -479,6 +479,10 @@ newtab-weather-error-not-available = 目前无法获取天气数据。
 newtab-weather-opt-in-see-weather = 您想看到当前位置的天气信息吗？
 newtab-weather-opt-in-not-now =
     .label = 暂时不要
+newtab-weather-opt-in-yes =
+    .label = 好的
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = 纽约市
 
 ## Topic Labels
 

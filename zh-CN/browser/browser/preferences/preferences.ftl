@@ -1138,6 +1138,10 @@ sitedata-total-size-calculating = 正在计算网站数据和缓存的大小…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = 您已存储的 Cookie、历史记录、网站数据和缓存目前使用了 <strong>{ $value } { $unit }</strong> 磁盘空间。
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = 您已存储的 Cookie、网站数据和缓存目前使用了 { $value } { $unit } 磁盘空间。
 sitedata-learn-more = 详细了解
 sitedata-delete-on-close =
