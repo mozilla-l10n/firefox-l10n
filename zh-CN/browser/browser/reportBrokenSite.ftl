@@ -6,6 +6,7 @@ report-broken-site-mainview-title = 反馈网站问题
 report-broken-site-panel-header =
     .label = 反馈网站问题
     .title = 反馈网站问题
+report-broken-site-panel-intro-text = 您的反馈可帮助我们了解并修复 { -brand-product-name } 中的问题，从而为全体用户改进使用体验。
 report-broken-site-panel-learn-more-link = 详细了解
 report-broken-site-panel-intro = 帮助改善所有用户的 { -brand-product-name } 使用体验。{ -vendor-short-name } 会借助您发送的信息来修复网站问题。
 report-broken-site-panel-url = 网址

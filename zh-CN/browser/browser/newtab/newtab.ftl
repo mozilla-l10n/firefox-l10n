@@ -476,6 +476,7 @@ newtab-weather-menu-learn-more = 详细了解
 newtab-weather-menu-detect-my-location = 检测我的位置
 # This message is shown if user is working offline
 newtab-weather-error-not-available = 目前无法获取天气数据。
+newtab-weather-opt-in-see-weather = 您想看到当前位置的天气信息吗？
 newtab-weather-opt-in-not-now =
     .label = 暂时不要
 
