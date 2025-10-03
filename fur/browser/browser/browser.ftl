@@ -1434,3 +1434,6 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Protezion miorade da lis spiis: disativade par { $host }
 trustpanel-etp-description-enabled = Se alc nol va su chest sît, prove a disativâ lis protezions.
+trustpanel-etp-description-disabled = { -brand-product-name } al pense che lis aziendis a varessin di stâti daûr di mancul. Cuant che tu ativis lis protezions, nô o blochìn dutis lis spiis che o rivìn a blocâ.
+trustpanel-connection-label-secure = Conession sigure
+trustpanel-connection-label-insecure = Conession no sigure
