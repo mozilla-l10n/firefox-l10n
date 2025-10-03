@@ -121,7 +121,7 @@ browser-main-private-window-title =
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Privat browsing
 popups-infobar-dont-show-message2 =
-    .label = Vis ikke denne besked, når pop op-vinduer eller tredjeparts-omdirigeringer er blokeret.
+    .label = Vis ikke besked, når pop op-vinduer eller tredjeparts-omdirigeringer blokeres
     .accesskey = V
 edit-popup-settings2 =
     .label = Håndter indstillinger for pop op-vinduer og tredjeparts-omdirigeringer…

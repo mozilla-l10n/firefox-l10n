@@ -1195,6 +1195,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Håndter undtagelser…
     .accesskey = u
+sitedata-cookies-exceptions2 =
+    .label = Håndter undtagelser
+    .accesskey = u
+    .description = Du kan angive, hvilke websteder der altid eller aldrig har tilladelse til at anvende cookies og websteds-data.
 
 ## Privacy Section - Cookie Banner Handling
 
