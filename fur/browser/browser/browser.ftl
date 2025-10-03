@@ -1491,3 +1491,8 @@ trustpanel-blocker-section-header =
         [one] <span>{ $count }</span> spie blocade su chest sît
        *[other] <span>{ $count }</span> spiis blocadis su chest sît
     }
+trustpanel-blocker-description = { -brand-product-name } al pense che lis aziendis a varessin di stâti daûr di mancul. Par cheste reson o blochìn dut ce che o rivìn a blocâ.
+trustpanel-blocked-header = { -brand-product-name } ti à blocât chescj elements par parâti:
+trustpanel-tracking-header = { -brand-product-name } al à consintût chescj elements par evitâ che i sîts no funzionin:
+trustpanel-tracking-description = Al è pussibil che cence spiis cualchi boton, formulari e cualchi cjamp di acès nol funzioni.
+trustpanel-insecure-section-header = La conession no je sigure

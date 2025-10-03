@@ -1076,6 +1076,12 @@ autofill-reauth-payment-methods-checkbox = Kræv login på enhed for at udfylde 
 autofill-payment-methods-title = Betalingsmetoder
 autofill-payment-methods-header =
     .aria-label = Betalingsmetoder
+autofill-payment-methods-checkbox-message-2 =
+    .label = Gem og autofyld betalingsmetoder
+    .accesskey = a
+autofill-payment-methods-manage-payments-button =
+    .label = Håndter betalingsmetoder
+    .accesskey = b
 
 ## Privacy Section - History
 
