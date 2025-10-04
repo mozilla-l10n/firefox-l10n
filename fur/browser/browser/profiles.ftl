@@ -46,6 +46,7 @@ avatar-selector-save-button =
 avatar-selector-upload-file = Cjame in rêt un file
 avatar-selector-drag-file = O strissine un file achì
 avatar-selector-add-image = Zonte une imagjin
+avatar-selector-crop = Ritaie
 edit-profile-page-no-name = Da un non a chest profîl par judâti a cjatâlu plui indevant. Tu puedis cambiâi non cuant che tu vûs.
 edit-profile-page-duplicate-name = Non dal profîl za in ûs. Prove cuntun altri non.
 edit-profile-page-profile-saved = Salvât
@@ -94,6 +95,8 @@ profiles-light-theme = Clâr
 profiles-dark-theme = Scûr
 # The default system theme
 profiles-system-theme = Sisteme
+profiles-system-theme-title =
+    .title = Apliche il teme di sisteme
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Zâl madalenis
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -108,6 +111,34 @@ profiles-ocean-theme-2 = Blu ocean
 profiles-terracotta-theme-2 = Ros modon
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Vert muscli
+profiles-gray-theme = Grîs
+profiles-gray-theme-title =
+    .title = Apliche il teme grîs
+profiles-yellow-theme = Zâl
+profiles-yellow-theme-title =
+    .title = Apliche il teme zâl
+profiles-orange-theme = Naranç
+profiles-orange-theme-title =
+    .title = Apliche il teme naranç
+profiles-red-theme = Ros
+profiles-red-theme-title =
+    .title = Apliche il teme ros
+profiles-pink-theme = Rose
+profiles-pink-theme-title =
+    .title = Apliche il teme rose
+profiles-purple-theme = Viole
+profiles-purple-theme-title =
+    .title = Apliche il teme viole
+profiles-violet-theme = Viole
+profiles-violet-theme-title =
+    .title = Apliche il teme viole
+profiles-blue-theme = Blu
+profiles-blue-theme-title =
+    .title = Apliche il teme blu
+profiles-green-theme = Vert
+profiles-green-theme-title =
+    .title = Apliche il teme vert
+profiles-cyan-theme = Ciano
 
 ## Data collection settings changed (multi-profile)
 
@@ -124,15 +155,51 @@ briefcase-avatar-alt =
     .alt = Valisute
 picture-avatar-alt =
     .alt = Cuadri
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Tele
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Artesanât
 flower-avatar-alt =
     .alt = Rose
+folder-avatar-alt =
+    .alt = Cartele
+hammer-avatar-alt =
+    .alt = Martiel
 heart-avatar-alt =
     .alt = Cûr
+heart-rate-avatar-alt =
+    .alt = Frecuence cardiache
 clock-avatar-alt =
     .alt = Orloi
+history-avatar-alt =
+    .alt = Cronologjie
+leaf-avatar-alt =
+    .alt = Fuee
+lightbulb-avatar-alt =
+    .alt = Lampadine
+makeup-avatar-alt =
+    .alt = Sbelet
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Messaç
+musical-note-avatar-alt =
+    .alt = Note musicâl
+palette-avatar-alt =
+    .alt = Palete
+paw-print-avatar-alt =
+    .alt = Olme di çate
+plane-avatar-alt =
+    .alt = Avion
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Regâl
 shopping-avatar-alt =
     .alt = Carel de spese
 soccer-ball-avatar-alt =
+    .alt = Balon
+soccer-avatar-alt =
     .alt = Balon
 star-avatar-alt =
     .alt = Stele

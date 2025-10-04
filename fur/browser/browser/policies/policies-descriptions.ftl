@@ -79,6 +79,7 @@ policy-ExtensionSettings = Gjestìs ducj i aspiets relatîfs ae instalazion des 
 policy-ExtensionUpdate = Ative o disative i inzornaments automatics des estensions.
 policy-FirefoxHome2 = Configure { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Configure { -firefox-suggest-brand-name }.
+policy-GenerativeAI = Configure lis funzions di IA gjenerative.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Cuant che si scrîf une peraule singule te sbare de direzion, sfuarce la navigazion direte su sîts intranet invezit di cirî in rêt.
 policy-Handlers = Configure i gjestôrs di aplicazion predefinîts.
 policy-HardwareAcceleration = Se false (fals), distude la acelerazion vie hardware.
@@ -97,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ripristine sui sîts s
 ##
 
 policy-LocalFileLinks = Permet a specifics sîts web di colegâsi a files locâi.
+policy-LocalNetworkAccess = Ative o disative i controi di acès ae rêt locâl.
 policy-ManagedBookmarks = Al configure une liste di segnelibris gjestîts di un aministradôr che l'utent nol pues modificâ.
 policy-ManualAppUpdateOnly = Permet dome i inzornaments manuâi e no sta visâ l'utent se a son disponibii inzornaments.
 policy-PrimaryPassword = Domande o impedìs la utilizazion i une password primarie.
@@ -117,6 +119,7 @@ policy-PostQuantumKeyAgreementEnabled = Ative l'acuardi de clâf post-cuantistic
 policy-PDFjs = Disative o configure PDF.js, il visualizadôr PDF integrât in { -brand-short-name }.
 policy-Permissions2 = Configure i permès par fotocjamare, microfon, posizion, notifichis e pe riproduzion automatiche.
 policy-PictureInPicture = Ative o disative il Picture-in-Picture.
+policy-PopupBlocking2 = Permet a cierts sîts web di mostrâ barcons a comparse e di jessi indreçâts di ricuadris di tiercis bandis.
 policy-PopupBlocking = Permet a cierts sîts web di visualizâ i barcons a comparse in maniere predefinide.
 policy-Preferences = Stabilìs e bloche il valôr par un grup di preferencis.
 policy-PrivateBrowsingModeAvailability = Met la disponibilitât de modalitât di navigazion privade.
@@ -139,6 +142,7 @@ policy-SupportMenu = Zonte un element personalizât dal menù di supuart al men�
 policy-TranslateEnabled = Ative o disative la traduzion des pagjinis web.
 policy-UserMessaging = No sta mostrâ cierts messaçs al utent.
 policy-UseSystemPrintDialog = Stampe doprant il dialic di stampe dal sisteme.
+policy-VisualSearchEnabled = Ative o disative la ricercje visive.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloche l'acès a cierts sîts web. Consulte la documentazion par vê plui detais sul formât.
 policy-Windows10SSO = Permet di doprâ l'acès unic di Windows pai accounts Microsoft, di vore e di scuele.

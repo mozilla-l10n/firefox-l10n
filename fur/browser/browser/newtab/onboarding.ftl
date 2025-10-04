@@ -449,8 +449,12 @@ tab-groups-onboarding-feature-callout-subtitle = Organiziti strissinant une sche
 tab-groups-onboarding-create-group-title-3 = Cjate i tiei grups di schedis in ogni moment tal menù “Liste di dutis lis schedis”.
 tab-groups-onboarding-create-group-title-2 = Cjate achì i tiei grups di schedis in ogni moment.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Cîr i tiei grups cu la sbare de direzion par cjatâju.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Cuant che tu sieris un grup di schedis, al è pussibil tornâ a vierzilu dal menù “Liste di dutis lis schedis” in ogni moment.
 tab-groups-onboarding-saved-groups-title-2 = Cuant che tu sieris un grup di schedis, tu puedis tornâ a vierzilu in ogni moment.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Cîr cu la sbare de direzion i tiei grups che tu âs sierât, par cjatâju.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Torne vierç i grups di schedis al menù “Liste di dutis lis schedis” in ogni moment.
 tab-groups-onboarding-session-restore-title = Torne vierzi achì i grups di schedis in ogni moment.
 tab-groups-onboarding-dismiss = Va ben
 
@@ -473,3 +477,22 @@ dismiss-button-label = Siere
 sync-to-mobile-button-label = Sincronize cun dispositîfs mobii
 desktop-to-mobile-qr-code-alt =
     .aria-label = Codiç QR par discjariâ { -brand-product-name } par dispositîfs mobii
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Ripristine dal backup
+restore-from-backup-title = Fasìn tornâ { -brand-short-name } come che ti plâs a ti
+restore-from-backup-subtitle = Ripristine segnelibris, cronologjie e ducj chei altris dâts par tornâ a navigâ.
+restore-from-backup-secondary-button = No sta ripristinâ
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Ve ca che o sin! I tiei dâts di { -brand-short-name } a son stâts ripristinâts.
+restored-from-backup-success-with-checklist-subtitle = Desideristu tignî a puartade di clic il to navigadôr preferît e orientât ae riservatece?
+restored-from-backup-success-no-checklist-subtitle = Tu puedis ativâ il backup par chest dispositîf tes <a data-l10n-name="settings">Impostazions</a>.
+restored-from-backup-success-with-checklist-primary-button = Salve e continue
+restored-from-backup-success-with-checklist-secondary-button = Salte chest passaç
+restored-from-backup-success-no-checklist-primary-button = Continue
+restored-from-backup-error-title = Mmh… Al è vignût fûr un probleme cul file di backup.
+restored-from-backup-error-subtitle = Se tu âs un altri file backup di { -brand-short-name }, prove a ripristinâ cun chel. <a data-l10n-name="restore-problems">Âstu ancjemò problemis?</a>
+restored-from-backup-error-primary-button = Siere
