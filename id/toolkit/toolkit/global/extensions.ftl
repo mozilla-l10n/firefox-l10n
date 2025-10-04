@@ -15,7 +15,25 @@ webext-perms-header-with-perms = Tambahkan { $extension }? Ekstensi ini akan mem
 webext-perms-header-unsigned = Tambahkan { $extension }? Ekstensi ini tidak diverifikasi. Ekstensi berbahaya dapat mencuri informasi pribadi Anda atau membahayakan komputer Anda. Hanya tambahkan ekstensi ini jika Anda percaya sumbernya.
 webext-perms-header-unsigned-with-perms = Tambahkan { $extension }? Ekstensi ini tidak diverifikasi. Ekstensi berbahaya dapat mencuri informasi pribadi Anda atau membahayakan komputer Anda. Hanya tambahkan ekstensi ini jika Anda percaya sumbernya. Ekstensi ini akan memiliki izin untuk:
 webext-perms-sideload-header = { $extension } ditambahkan
+webext-perms-optional-perms-header2 = { $extension } meminta izin tambahan
 webext-perms-optional-perms-header = { $extension } meminta izin tambahan.
+webext-perms-header2 = Tambahkan { $extension }
+webext-perms-list-intro-unsigned = Ekstensi yang tidak diverifikasi ini dapat membahayakan privasi Anda atau membahayakan perangkat Anda. Hanya tambahkan jika Anda mempercayai sumbernya.
+
+## Headers used in the webextension permissions dialog, inside the content.
+
+webext-perms-header-required-perms = Izin yang diperlukan:
+webext-perms-header-optional-settings = Pengaturan opsional:
+webext-perms-header-update-required-perms = Izin baru yang diperlukan:
+webext-perms-header-optional-required-perms = Izin baru:
+webext-perms-header-data-collection-perms = Pengumpulan data yang diperlukan:
+webext-perms-header-data-collection-is-none = Pengumpulan data:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Pengumpulan data baru yang diperlukan:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Pengumpulan data baru:
 
 ##
 
@@ -33,6 +51,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Batal
     .accesskey = B
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } telah diperbarui. Anda harus menyetujui izin baru sebelum versi yang diperbarui akan dipasang. Memilih “Batal” akan mempertahankan versi ekstensi Anda saat ini.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } telah diperbarui. Anda harus menyetujui izin barunya sebelum dapat memasang versi terbaru. Dengan memilih “Batal” maka ekstensi versi Anda saat ini akan dipertahankan. Ektstensi ini akan memiliki izin untuk:
@@ -72,6 +93,16 @@ webext-perms-host-description-one-domain = Mengakses data Anda untuk situs pada 
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains = Mengakses data Anda untuk situs dalam { $domainCount } domain
+
+## Strings for data collection permissions in the permission prompt.
+
+webext-perms-description-data-none = Pengembang mengatakan ekstensi ini tidak memerlukan pengumpulan data.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Pengembang mengatakan ekstensi ini mengumpulkan: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Pengembang mengatakan ekstensi akan mengumpulkan: { $permissions }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
