@@ -320,6 +320,7 @@ fxa-menu-message-sign-in-button = Jentre
 fxa-menu-message-sync-button = Scomence la sincronizazion
 fxa-menu-message-sync-devices-primary-text = Sincronize ducj i tiei dispositîfs
 fxa-menu-message-sync-devices-secondary-text = Oten intun lamp lis tôs informazions — come segnelibris e passwords — dapardut là che tu dopris { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Rive intun lamp ai tiei segnelibris, aes tôs passwors e a tant altri — dapardut là che tu dopris l'acès a { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronize ducj i tiei dispositîfs
 fxa-menu-message-backup-data-primary-text = Fâs il backup dai dâts dal navigadôr
 fxa-menu-message-backup-data-secondary-text = Protêç in automatic segnelibris, passwords e altris informazions su ducj i tiei dispositîfs.
@@ -350,3 +351,9 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Manten il to navigadôr preferît incentrât su la riservatece simpri a puartade di clic. Met { -brand-short-name } tant che navigadôr predefinît par vierzi colegaments, zontilu ae sbare des ativitâts.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Manten il to navigadôr preferît incentrât su la riservatece simpri a puartade di clic. Met { -brand-short-name } tant che navigadôr predefinît par vierzi colegaments e fissilu te sbare des ativitâts e tal menù Start.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Pensistu di fâ l'inzornament di Windows 10 ca di pôc?
+windows-10-eos-sync-spotlight-subtitle = Fâs il backup di passwords e segnelibris par prontâti a passâ suntun altri dispositîf.
+windows-10-eos-sync-spotlight-primary-label = Fâs il backup dal to { -brand-short-name }
