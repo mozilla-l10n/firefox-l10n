@@ -1521,6 +1521,17 @@ popup-warning-message =
                *[other] Aplikace { -brand-short-name } zabránila stránce otevřít { $popupCount } vyskakovacích oken.
             }
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } zabránil této stránce v přesměrování.
+        [1] { -brand-short-name } zabránil této stránce v otevření { $popupCount } vyskakovacího okna a přesměrování.
+        [one] { -brand-short-name } zabránil této stránce v otevření { $popupCount } vyskakovacího okna a přesměrování.
+        [few] { -brand-short-name } zabránil této stránce v otevření { $popupCount } vyskakovacích oken a přesměrování.
+        [many] { -brand-short-name } zabránil této stránce v otevření { $popupCount } vyskakovacích oken a přesměrování.
+       *[other] { -brand-short-name } zabránil této stránce v otevření { $popupCount } vyskakovacích oken a přesměrování.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1550,6 +1561,15 @@ popup-warning-exceeded-message =
                 [few] Aplikace { -brand-short-name } zabránila stránce otevřít více než { $popupCount } vyskakovací okna
                *[other] Aplikace { -brand-short-name } zabránila stránce otevřít více než { $popupCount } vyskakovacích oken.
             }
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } zabránil této stránce v otevření více než { $popupCount } vyskakovacího okna a přesměrování.
+        [few] { -brand-short-name } zabránil této stránce v otevření více než { $popupCount } vyskakovacích oken a přesměrování.
+        [many] { -brand-short-name } zabránil této stránce v otevření více než { $popupCount } vyskakovacích oken a přesměrování.
+       *[other] { -brand-short-name } zabránil této stránce v otevření více než { $popupCount } vyskakovacích oken a přesměrování.
     }
 popup-warning-button =
     .label =
@@ -1622,6 +1642,7 @@ trustpanel-connection-label-insecure = Spojení není zabezpečené
 trustpanel-header-enabled = { -brand-product-name } je ve střehu
 trustpanel-description-enabled2 = Jste chráněni. Pokud něco zjistíme, dáme vám vědět.
 trustpanel-header-enabled-insecure = Buďte na této stránce opatrní
+trustpanel-description-enabled-insecure = { -brand-product-name } si všiml něčeho podezřelého.
 trustpanel-description-enabled = Jste chráněni. Pokud něco zjistíme, dáme vám vědět
 trustpanel-header-disabled = Vypnuli jste ochranu
 trustpanel-description-disabled = { -brand-product-name } není ve střehu. Doporučujeme vám znovu zapnout ochranu.

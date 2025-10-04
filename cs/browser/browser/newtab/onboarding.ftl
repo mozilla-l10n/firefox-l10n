@@ -676,11 +676,21 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Obnova ze zálohy
+restore-from-backup-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Získejte { -brand-short-name(case: "acc") } podle svých představ
+       *[no-cases] Získejte aplikaci { -brand-short-name } podle svých představ
+    }
 restore-from-backup-subtitle = Obnovte všechny své záložky, historii a další data, abyste se mohli vrátit k prohlížení.
 restore-from-backup-secondary-button = Neobnovovat
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Jsme zpět! Vaše data { -brand-short-name(case: "gen") } byla obnovena.
+       *[no-cases] Jsme zpět! Vaše data aplikace { -brand-short-name } byla obnovena.
+    }
 restored-from-backup-success-with-checklist-subtitle = Chcete mít svůj oblíbený prohlížeč zaměřený na ochranu soukromí po ruce?
 restored-from-backup-success-no-checklist-subtitle = Zálohování pro toto zařízení můžete zapnout v <a data-l10n-name="settings">Nastavení</a>.
 restored-from-backup-success-with-checklist-primary-button = Uložit a pokračovat
