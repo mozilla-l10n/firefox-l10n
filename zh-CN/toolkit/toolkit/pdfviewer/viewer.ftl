@@ -598,7 +598,7 @@ pdfjs-editor-delete-comment-popup-button-label = 移除批注
 pdfjs-editor-delete-comment-popup-button =
     .title = 移除批注
 pdfjs-show-comment-button =
-    .title = 显示评论
+    .title = 显示批注
 
 ##  Edit a comment dialog
 

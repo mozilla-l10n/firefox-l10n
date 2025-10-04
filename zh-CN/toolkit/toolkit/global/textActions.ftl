@@ -70,7 +70,7 @@ text-action-highlight-selection =
     .label = 高亮选中部分
 # This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection-1 =
-    .label = 为选中部分添加评论
+    .label = 为选中部分添加批注
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = 为选中部分添加批注

@@ -1074,6 +1074,12 @@ autofill-reauth-payment-methods-checkbox = Krev einingsinnlogging for å fylle u
 autofill-payment-methods-title = Betalingsmåtar
 autofill-payment-methods-header =
     .aria-label = Betalingsmåtar
+autofill-addresses-title = Adresser og meir
+autofill-addresses-header =
+    .aria-label = Adresser og meir
+autofill-addresses-checkbox-message =
+    .label = Lagre og autoutfyll adresser
+    .accesskey = L
 
 ## Privacy Section - History
 
@@ -1119,6 +1125,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Infokapslar og sidedata
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Reknar ut storleik på nettstad-data og snøgglager…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1146,6 +1154,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Sporing på tvers av nettstadar
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Sporingsinfokapslar på tvers av nettstadar
+sitedata-option-block-cross-site-cookies2 =
+    .label = Isoler infokapslar på tvers av nettstadar
 sitedata-option-block-cross-site-cookies =
     .label = Sporingsinfokapslear på tvers av nettstadar, isolering av andre infokapslar på tvers av nettstadar
 sitedata-option-block-unvisited =
