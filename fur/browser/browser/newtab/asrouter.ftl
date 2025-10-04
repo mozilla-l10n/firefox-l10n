@@ -400,7 +400,7 @@ windows-10-eos-feature-toast-dismiss-button = Siere
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
-etp-strict-exceptions-infobar-message = <strong>Une protezion da lis spiis rigorose e pues causâ il malfunzionament di cualchi sît.</strong> Risolf i problemis plui comuns lant a sblocâ i elements essenziâls che a podaressin contignî lis spiis.
+etp-strict-exceptions-infobar-message = <strong>Une protezion da lis spiis restritive e pues causâ il malfunzionament di cualchi sît.</strong> Risolf i problemis plui comuns lant a sblocâ i elements essenziâls che a podaressin contignî lis spiis.
 etp-strict-exceptions-infobar-learn-more = Plui informazions
 etp-strict-exceptions-infobar-button = Apliche corezions
     .accesskey = A

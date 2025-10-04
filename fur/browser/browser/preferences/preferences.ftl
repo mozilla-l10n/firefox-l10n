@@ -1086,6 +1086,15 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Domande conferme dal acès al dispositîf par compilâ in automatic e gjestî i metodis di paiament
     .accesskey = o
+autofill-addresses-title = Recapits e altris dâts
+autofill-addresses-header =
+    .aria-label = Recapits e altris dâts
+autofill-addresses-checkbox-message =
+    .label = Salve e compile in automatic i recapits
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Gjestìs recapits e altris dâts
+    .accesskey = G
 
 ## Privacy Section - History
 
@@ -1131,7 +1140,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e dâts dai sîts
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Daûr a calcolâ la dimension dai dâts dai sîts e de cache…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = In chest moment i cookies, la cronologjie, i dâts salvâts dai sîts web e la cache a stan doprant <strong>{ $value } { $unit }</strong> di spazi su disc.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1158,6 +1173,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Spiis (trackers) inter-sît
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cookies inter-sît che a spiin
+sitedata-option-block-cross-site-cookies2 =
+    .label = Isole i cookies inter-sît
 sitedata-option-block-cross-site-cookies =
     .label = Cookies inter-sît che a spiin e isole altris cookies inter-sît
 sitedata-option-block-unvisited =
@@ -1166,6 +1183,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Ducj i cookies inter-sît (cualchi sît al podarès funzionâ mâl)
 sitedata-option-block-all =
     .label = Ducj i cookies (al causarà malfunzionaments dai sîts web)
+sitedata-clear2 =
+    .label = Nete dâts di navigazion
+    .accesskey = N
+sitedata-settings2 =
+    .label = Gjestìs dâts di navigazion
+    .accesskey = G
 sitedata-clear =
     .label = Nete fûr i dâts…
     .accesskey = û
@@ -1175,6 +1198,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gjestìs ecezions…
     .accesskey = c
+sitedata-cookies-exceptions2 =
+    .label = Gjestìs ecezions
+    .accesskey = c
+    .description = Tu puedis specificâ i sîts web che ur ven simpri o mai concedude la utilizazion di cookies e dâts dai sîts.
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1282,6 +1309,7 @@ content-blocking-private-windows = Contignûts che a spiin tai barcons privâts
 content-blocking-cross-site-cookies-in-all-windows2 = Cookies inter-sît in ducj i barcons
 content-blocking-cross-site-tracking-cookies = Cookies inter-sît che a spiin
 content-blocking-all-cross-site-cookies-private-windows = Cookies inter-sît tai barcons privâts
+content-blocking-isolate-cross-site-cookies = Isole i cookies inter-sît
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies inter-sît che a spiin e isole i cookies che a restin
 content-blocking-social-media-trackers = Spiis (trackers) dai social media
 content-blocking-all-cookies = Ducj i cookies
@@ -1303,10 +1331,16 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Plui informazions
 content-blocking-etp-standard-tcp-title = Al inclût Protezion Totâl dai Cookies, la nestre miôr funzionalitât pal massim de riservatece
 content-blocking-warning-title = Atenzion!
 content-blocking-and-isolating-etp-warning-description-3 = Cheste impostazion e podarès impedî la juste visualizazion dai contignûts o il just funzionament di cualchi sît web. O din ecezions facoltativis pai sîts web che o savìn che a mostrin incompatibilitâts cun cheste configurazion. Par diminuî la pussibilitât di malfunzionaments, permet chestis ecezions pes spiis. Se un sît nol funzione ben, tu puedis disativâ la protezion da lis spiis par cjariâ ducj i contignûts e segnalâ il probleme, judantnus a risolvilu par ducj i utents.
+content-blocking-warning-title-2 = Al è pussibil che cualchi sît nol funzioni ben cuntune protezion da lis spiis restritive
+content-blocking-warning-title-custom = Al è pussibil che cualchi sît nol funzioni ben cuntune protezion da lis spiis personalizade
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } al consee di doprâ lis impostazions “Risolf problemis cui sîts” par diminuî i malfunzionaments e i problemis cui contignûts. Se un sît nol funzione ben, prove a disativâ la protezion da lis spiis par cjariâ ducj i contignûts.
 content-blocking-and-isolating-etp-warning-description-2 = In cualchi sît cheste impostazion e podarès impedî la visualizazion dai contignûts o di lavorâ ben. Se un sît al somee vuast, tu puedis disativâ la protezion da lis spiis par chel sît e cjariâ ducj i contignûts.
 content-blocking-warning-learn-how = Impare cemût
 content-blocking-baseline-exceptions =
     .label = Permet a { -brand-short-name } di aplicâ in automatic lis ecezions necessariis par evitâ i problemis plui impuartants cui sîts web.
+content-blocking-baseline-exceptions-2 =
+    .label = Al jude a cjariâ e a funzionâ ben i sîts, lant a sblocâ nome i elements essenziâi che a podaressin contignî spiis. Cheste soluzion e permet di risolvi i problemis plui comuns.
 content-blocking-convenience-exceptions =
     .label = Apliche in automatic ancje lis ecezions che a coventin nome par risolvi i problemis plui piçui e rindi disponibilis funzions utilis.
 content-blocking-reload-description = Tu varâs di tornâ a cjariâ lis tôs schedis par aplicâ chestis modifichis.
