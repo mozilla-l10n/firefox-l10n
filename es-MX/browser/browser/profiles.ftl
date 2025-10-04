@@ -36,6 +36,17 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Eliminar
+edit-profile-page-avatar-selector-opener-link = Editar
+avatar-selector-icon-tab = Ícono
+avatar-selector-custom-tab = Personalizar
+avatar-selector-cancel-button =
+    .label = Cancelar
+avatar-selector-save-button =
+    .label = Guardar
+avatar-selector-upload-file = Subir un archivo
+avatar-selector-drag-file = O arrastra un archivo aquí
+avatar-selector-add-image = Agregar una imagen
+avatar-selector-crop = Recortar
 edit-profile-page-no-name = Dale un nombre a este perfil para ayudarte a encontrarlo después. Cambia el nombre en cualquier momento.
 edit-profile-page-duplicate-name = Ese nombre ya se está utilizando. Intenta con otro.
 edit-profile-page-profile-saved = Guardado
@@ -84,6 +95,8 @@ profiles-light-theme = Claro
 profiles-dark-theme = Oscuro
 # The default system theme
 profiles-system-theme = Sistema
+profiles-system-theme-title =
+    .title = Aplicar tema del sistema
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Amarillo calendula
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -98,6 +111,11 @@ profiles-ocean-theme-2 = Azul océano
 profiles-terracotta-theme-2 = Rojo ladrillo
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verde musgo
+profiles-gray-theme = Gris
+profiles-gray-theme-title =
+    .title = Aplicar tema gris
+profiles-yellow-theme = Amarillo
+profiles-orange-theme = Naranja
 
 ## Alternative text for default profile icons
 
@@ -105,6 +123,9 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Maletín
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Canvas
 flower-avatar-alt =
     .alt = Flor
 heart-avatar-alt =
