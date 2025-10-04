@@ -115,7 +115,43 @@ profiles-gray-theme = Gris
 profiles-gray-theme-title =
     .title = Aplicar tema gris
 profiles-yellow-theme = Amarillo
+profiles-yellow-theme-title =
+    .title = Aplicar tema amarillo
 profiles-orange-theme = Naranja
+profiles-orange-theme-title =
+    .title = Aplicar tema naranja
+profiles-red-theme = Rojo
+profiles-red-theme-title =
+    .title = Aplicar tema rojo
+profiles-pink-theme = Rosa
+profiles-pink-theme-title =
+    .title = Aplicar tema rosa
+profiles-purple-theme = Morado
+profiles-purple-theme-title =
+    .title = Aplicar tema morado
+profiles-violet-theme = Violeta
+profiles-violet-theme-title =
+    .title = Aplicar tema violeta
+profiles-blue-theme = Azul
+profiles-blue-theme-title =
+    .title = Aplicar tema azul
+profiles-green-theme = Verde
+profiles-green-theme-title =
+    .title = Aplicar tema verde
+profiles-cyan-theme = Cian
+profiles-cyan-theme-title =
+    .title = Aplicar tema cian
+profiles-custom-theme-title =
+    .title = Aplicar tema personalizado
+
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Se cambiaron las configuraciones de recopilación de datos.</strong> Los cambios realizados en otro perfil se aplican a todos los perfiles de este dispositivo.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Ver configuración
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Descartar
 
 ## Alternative text for default profile icons
 
@@ -126,14 +162,53 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Artesanía
 flower-avatar-alt =
     .alt = Flor
+folder-avatar-alt =
+    .alt = Carpeta
+hammer-avatar-alt =
+    .alt = Martillo
 heart-avatar-alt =
     .alt = Corazón
+heart-rate-avatar-alt =
+    .alt = Frecuencia cardíaca
+history-avatar-alt =
+    .alt = Historial
+leaf-avatar-alt =
+    .alt = Hoja
+lightbulb-avatar-alt =
+    .alt = Bombilla
+makeup-avatar-alt =
+    .alt = Constituir
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Mensaje
+musical-note-avatar-alt =
+    .alt = Nota musical
+palette-avatar-alt =
+    .alt = Paleta
+paw-print-avatar-alt =
+    .alt = Huella de pata
+plane-avatar-alt =
+    .alt = Avión
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Presente
 shopping-avatar-alt =
     .alt = Carrito de compras
+soccer-avatar-alt =
+    .alt = Fútbol
+sparkle-single-avatar-alt =
+    .alt = Brillar
 star-avatar-alt =
     .alt = Estrella
+video-game-controller-avatar-alt =
+    .alt = Controlador de videojuegos
+custom-avatar-alt =
+    .alt = Avatar personalizado
 
 ## Tooltips for default avatar icons
 
