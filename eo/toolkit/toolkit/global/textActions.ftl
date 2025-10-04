@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Viŝi
 text-action-highlight-selection =
     .label = Elstarigi elektaĵon
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Aldoni komenton al elektaĵo
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Komentarii elektaĵon

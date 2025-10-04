@@ -476,3 +476,8 @@ dismiss-button-label = Ignori
 sync-to-mobile-button-label = Speguli en poŝaparato
 desktop-to-mobile-qr-code-alt =
     .aria-label = Kodo QR por elŝuti { -brand-product-name } por poŝaparatoj
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Reakiri el sekurkopio
+restore-from-backup-title = Rehavu ni { -brand-short-name } tiel kiel vi ĝin ŝatas

@@ -79,6 +79,7 @@ policy-ExtensionSettings = Administri ĉiujn agordojn por instalo de etendaĵoj.
 policy-ExtensionUpdate = Aktivigi aŭ malaktivigi aŭtomatan ĝisdatigon de etendaĵoj.
 policy-FirefoxHome2 = Agordi { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Agordi { -firefox-suggest-brand-name }.
+policy-GenerativeAI = Agordi trajtojn de genera AI.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Kiam izolitaj vortoj estas tajpitaj en la adresa strio, devige iri al intraneta retejo anstataŭ serĉi.
 policy-Handlers = Agordi la normajn programajn traktilojn.
 policy-HardwareAcceleration = Se estas "malvera" la aparata akcelo estos malŝaltita.
@@ -97,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reiri al la tradicia k
 ##
 
 policy-LocalFileLinks = Permesi al kelkaj difinitaj retejoj havi ligilojn al lokaj dosieroj.
+policy-LocalNetworkAccess = Aktivigi aŭ malaktivigi kontrolojn pri aliro al la loka reto.
 policy-ManagedBookmarks = Agordi liston de legosignoj, kiun kreas administrato kaj kiun la uzanto ne povas modifi.
 policy-ManualAppUpdateOnly = Permesi nur neaŭtomatajn ĝisdatigojn kaj ne sciigi la uzanton pri disponeblaj ĝisdatigoj.
 policy-PrimaryPassword = Postuli aŭ eviti la uzon de ĉefa pasvorto.
@@ -117,6 +119,7 @@ policy-PostQuantumKeyAgreementEnabled = Aktivigi la akcepton de postkvantuma ŝl
 policy-PDFjs = Malaktivigi aŭ agordi PDF.js, la integritan legilon de PDF en { -brand-short-name }.
 policy-Permissions2 = Agordi permesojn por filmilo, mikrofono, pozicio,sciigoj kaj aŭtomata ludado.
 policy-PictureInPicture = Aktivigi aŭ malaktivigi la reĝimon bildo en bildo
+policy-PopupBlocking2 = Permesi al kelkaj retejoj montri ŝprucaĵojn kaj esti redirektitaj de kadroj de aliaj
 policy-PopupBlocking = Norme permesi al kelkaj retejoj montri ŝprucfenestrojn.
 policy-Preferences = Difini kaj bloki la valoron por aro de preferoj.
 policy-PrivateBrowsingModeAvailability = Agordi la disponeblon de la reĝimo de privata retumo.
@@ -139,6 +142,7 @@ policy-SupportMenu = Aldoni personecigitan menueron al la helpa menuo.
 policy-TranslateEnabled = Aktivigi aŭ malaktivigi tradukon de retpaĝoj.
 policy-UserMessaging = Ne montri specifajn mesaĝojn al la uzanto.
 policy-UseSystemPrintDialog = Presi per la sistema presa dialogo.
+policy-VisualSearchEnabled = Aktivigi aŭ malaktivigi vidan serĉon.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloki viziton al kelkaj retejoj. Vidu la dokumentaron por havi pli da informo pri la formo.
 policy-Windows10SSO = Permesi nurfojan komencon de seancon de Windows por kontoj laboraj, lernejaj aŭ de Microsoft.
