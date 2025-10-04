@@ -132,10 +132,15 @@ clock-avatar-alt =
     .alt = Orloi
 shopping-avatar-alt =
     .alt = Carel de spese
+soccer-ball-avatar-alt =
+    .alt = Balon
 star-avatar-alt =
     .alt = Stele
 custom-avatar-alt =
     .alt = Avatar personalizât
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globi
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Icone predefinide
@@ -151,6 +156,7 @@ bike-avatar-alt =
 
 book-avatar = Libri
 briefcase-avatar = Valisute
+clock-avatar = Orloi
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Tele
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -166,5 +172,23 @@ hammer-avatar = Martiel
 heart-avatar = Cûr
 heart-rate-avatar = Frecuence cardiache
 history-avatar = Cronologjie
+leaf-avatar = Fuee
+lightbulb-avatar = Lampadine
+makeup-avatar = Sbelet
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Messaç
+musical-note-avatar = Note musicâl
+palette-avatar = Palete
+paw-print-avatar = Olme di çate
+plane-avatar = Avion
+# Present refers to a gift box, not the current time period
+present-avatar = Regâl
 shopping-avatar = Carel de spese
+soccer-avatar = Balon
+sparkle-single-avatar = Faliscje
 star-avatar = Stele
+video-game-controller-avatar = Controller par video zûcs
+custom-avatar-crop-back-button =
+    .aria-label = Indaûr
+barbell-avatar = Belancîr
+bike-avatar = Biciclete
