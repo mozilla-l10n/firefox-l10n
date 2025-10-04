@@ -159,6 +159,8 @@ book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Maletín
+picture-avatar-alt =
+    .alt = Imagen
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Canvas
@@ -175,6 +177,8 @@ heart-avatar-alt =
     .alt = Corazón
 heart-rate-avatar-alt =
     .alt = Frecuencia cardíaca
+clock-avatar-alt =
+    .alt = Reloj
 history-avatar-alt =
     .alt = Historial
 leaf-avatar-alt =
@@ -209,12 +213,34 @@ video-game-controller-avatar-alt =
     .alt = Controlador de videojuegos
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Favicon predeterminado
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamante
+barbell-avatar-alt =
+    .alt = Barra con pesas
+bike-avatar-alt =
+    .alt = Bicicleta
 
 ## Tooltips for default avatar icons
 
 book-avatar = Libro
 briefcase-avatar = Maletín
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Canvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Artesanía
+custom-avatar = Avatar personalizado
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamante
 flower-avatar = Flor
+folder-avatar = Carpeta
+hammer-avatar = Martillo
 heart-avatar = Corazón
+heart-rate-avatar = Frecuencia cardíaca
+history-avatar = Historial
+leaf-avatar = Hoja
 shopping-avatar = Carrito de compras
 star-avatar = Destacar
