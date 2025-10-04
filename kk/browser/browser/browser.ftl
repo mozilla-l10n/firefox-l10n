@@ -1469,6 +1469,11 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] Бұл сайтта <span>{ $count }</span> трекер бұғатталған
+       *[other] Бұл сайтта <span>{ $count }</span> трекер бұғатталған
+    }
 trustpanel-tracking-description = Трекерлерсіз кейбір батырмалар, формалар және кіру өрістері жұмыс істемеуі мүмкін.
 trustpanel-insecure-section-header = Сіздің байланысыңыз қауіпсіз емес
 trustpanel-insecure-description = Бұл сайтқа жіберіп жатқан деректер шифрленбеген. Оны көруге, ұрлауға немесе өзгертуге болады.

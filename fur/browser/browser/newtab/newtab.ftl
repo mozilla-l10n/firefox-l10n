@@ -575,6 +575,8 @@ newtab-custom-wallpaper-cta = Provilu
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-title = Sielç un fonts par personalizâ il to { -brand-product-name }
+newtab-new-user-custom-wallpaper-subtitle = Rint ogni gnove schede come se e fos cjase tô, cun fonts e colôrs personalizâts.
+newtab-new-user-custom-wallpaper-cta = Provilu daurman
 
 ## Strings for download mobile highlight
 
@@ -624,3 +626,49 @@ newtab-trending-searches-learn-more = Plui informazions
 newtab-trending-searches-dismiss = Plate ricercjis di tindince
 # "Trending searches refers to popular searches from search engines
 newtab-trending-searches-title = Ricercjis di tindince
+
+## Strings for task / to-do list productivity widget
+
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Lis pussibilitâts a son infinidis. Zonte une.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Novitâts
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Completadis ({ $number })
+newtab-widget-task-list-menu-copy = Copie
+newtab-widget-lists-menu-edit = Modifiche non liste
+newtab-widget-lists-menu-create = Cree gnove liste
+newtab-widget-lists-menu-delete = Elimine cheste liste
+newtab-widget-lists-menu-copy = Copie liste intes notis
+newtab-widget-lists-menu-hide = Plate dutis lis listis
+newtab-widget-lists-menu-learn-more = Plui informazions
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Zonte un element
+newtab-widget-lists-input-error = Inclût test par zontâ un element.
+newtab-widget-lists-input-menu-open-link = Vierç colegament
+newtab-widget-lists-input-menu-move-up = Sposte in sù
+newtab-widget-lists-input-menu-move-down = Sposte in jù
+newtab-widget-lists-input-menu-delete = Elimine
+newtab-widget-lists-input-menu-edit = Modifiche
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Cree une gnove liste
+newtab-widget-lists-name-label-default =
+    .label = Liste di ativitâts
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Liste di ativitâts
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Gnove liste
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Temporizadôr
+newtab-widget-timer-notification-focus = Il timp par concentrâti al è finît. Ben fate. Ti coventie une pause?
+newtab-widget-timer-notification-break = La tô pause e je finide. Sêstu pront(e) par concentrâti?

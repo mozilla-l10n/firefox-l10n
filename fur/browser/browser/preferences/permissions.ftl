@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Tu puedis disativâ la modalitât Dome-HTTPS par specifics sîts web. { -brand-short-name } nol cirarà di puartâ la conession par chei sîts su HTTPS sigûr. Lis ecezions no vegnin aplicadis ai barcons privâts.
 permissions-exceptions-https-only-desc2 = Tu puedis disativâ la modalitât dome HTTPS par specifics sîts web. { -brand-short-name } nol cirarà di inzornâ la conession ae version sigure HTTPS par chei sîts.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Sîts web cun permès - Barcons a comparse e indreçaments di tiercis bandis
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Tu puedis specificâ i sîts web che a puedin vierzi barcons a comparse e che a puedin jessi indreçâts di ricuadris di tiercis bandis.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
@@ -167,6 +174,15 @@ permissions-site-camera-desc = Chescj sîts web a àn domandât di doprâ la tô
 permissions-site-camera-disable-label =
     .label = Bloche lis gnovis richiestis che a domandin di acedi ae tô fotocjamare
 permissions-site-camera-disable-desc = Chest al impedirà a ducj i sîts web che no son listâts achì parsore di domandâ il permès par doprâ la tô fotocjamare. Blocant l'acès ae tô fotocjamare cualchi sît web al podarès vê malfunzionaments.
+
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Impostazions - Aplicazions e servizis dal dispositîf
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Chescj sîts web a àn domandât l’acès a aplicazions e servizis su chest dispositîfs. Tu puedis sielzi di permeti o impedî ai sîts di fâ cheste operazion.
+permissions-site-localhost-disable-label =
+    .label = Bloche gnovis domandis di acès a aplicazions e servizis su chest dispositîf
 
 ## Site Permissions - Microphone
 

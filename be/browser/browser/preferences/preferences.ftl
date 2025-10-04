@@ -259,6 +259,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Цёмная
     .title = Выкарыстоўваць цёмны выгляд для фону і змесціва сайтаў.
+web-appearance-group =
+    .aria-label = Выгляд вэб-сайтаў
 preferences-web-appearance-choice-auto = Аўтаматычная
 preferences-web-appearance-choice-light = Светлая
 preferences-web-appearance-choice-dark = Цёмная
@@ -1075,6 +1077,28 @@ autofill-saved-payment-methods-button = Захаваныя спосабы апл
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Патрабаваць уваход на прыладзе для запаўнення спосабаў аплаты і кіравання імі
     .accesskey = ў
+autofill-payment-methods-title = Спосабы аплаты
+autofill-payment-methods-header =
+    .aria-label = Спосабы аплаты
+autofill-payment-methods-checkbox-message-2 =
+    .label = Захоўваць і запаўняць спосабы аплаты
+    .accesskey = З
+autofill-payment-methods-manage-payments-button =
+    .label = Кіраваць спосабамі аплаты
+    .accesskey = ь
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Патрабаваць уваход на прыладзе для аўтазапаўнення спосабаў аплаты і кіравання імі
+    .accesskey = ў
+autofill-addresses-title = Адрасы і іншае
+autofill-addresses-header =
+    .aria-label = Адрасы і іншае
+autofill-addresses-checkbox-message =
+    .label = Захоўваць і аўтаматычна запаўняць адрасы
+    .accesskey = ы
+autofill-addresses-manage-addresses-button =
+    .label = Кіраванне адрасамі і іншае
+    .accesskey = р
 
 ## Privacy Section - History
 
@@ -1120,6 +1144,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Кукі і дадзеныя сайтаў
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Падлік памеру дадзеных сайтаў і кэша…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
