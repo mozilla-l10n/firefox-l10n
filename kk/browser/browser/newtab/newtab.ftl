@@ -624,6 +624,9 @@ newtab-widget-lists-input-menu-move-up = Жоғары жылжыту
 newtab-widget-lists-input-menu-move-down = Төмен жылжыту
 newtab-widget-lists-input-menu-delete = Өшіру
 newtab-widget-lists-input-menu-edit = Түзету
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Жаңа тізімді жасау
 newtab-widget-lists-name-label-default =
     .label = Тапсырмалар тізімі
 newtab-widget-lists-name-placeholder-default =
