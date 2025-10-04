@@ -55,7 +55,7 @@ app-basics-show-update-history = Жаңартулар тарихын көрсе�
 app-basics-binary = Қолданбаның бинарлы файлы
 app-basics-profile-dir =
     { PLATFORM() ->
-        [linux] Профайл бумасы
+        [linux] Профиль бумасы
        *[other] Профиль сақталатын бума
     }
 app-basics-enabled-plugins = Іске қосулы плагиндер
@@ -186,6 +186,7 @@ media-capabilities-enumerate = Дерекқор жазбаларын шығар�
 media-codec-support-sw-decoding = Бағдарламалық декодтау
 media-codec-support-hw-decoding = Құрылғылық декодтау
 media-codec-support-sw-encoding = Бағдарламалық кодтау
+media-codec-support-hw-encoding = Құрылғылық кодтау
 media-codec-support-codec-name = Кодек атауы
 media-codec-support-supported = Қолдауы бар
 media-codec-support-unsupported = Қолдауы жоқ

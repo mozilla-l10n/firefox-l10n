@@ -476,6 +476,10 @@ newtab-weather-menu-hide-weather = Yeni sekmede hava durumunu gizle
 newtab-weather-menu-learn-more = Daha fazla bilgi al
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Hava durumu verileri şu anda mevcut değil.
+newtab-weather-opt-in-not-now =
+    .label = Şimdi değil
+newtab-weather-opt-in-yes =
+    .label = Evet
 
 ## Topic Labels
 

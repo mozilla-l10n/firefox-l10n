@@ -112,6 +112,10 @@ fxa-adoption-passwords-subtitle = Парольдеріңізді құрылғы�
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Тіркелу
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-email-callout-title = Эл. поштаңызды тапсырмалар тақтасында сақтаңыз
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = Қазір синхрондау

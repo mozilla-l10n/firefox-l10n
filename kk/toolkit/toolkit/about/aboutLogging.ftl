@@ -87,3 +87,4 @@ about-logging-no-uploaded-profiles = Профильдер әлі жүктеп с
 about-logging-delete-uploaded-profile = Өшіру
 about-logging-view-uploaded-profile = Профильді қарау
 about-logging-delete-profile-confirm-title = Профильді өшіру
+about-logging-deleting-profile = Өшіру…
