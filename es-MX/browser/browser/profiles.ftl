@@ -186,7 +186,7 @@ leaf-avatar-alt =
 lightbulb-avatar-alt =
     .alt = Bombilla
 makeup-avatar-alt =
-    .alt = Constituir
+    .alt = Maquillaje
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Mensaje
@@ -239,6 +239,8 @@ canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Artesanía
 custom-avatar = Avatar personalizado
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Favicon predeterminado
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamante
 flower-avatar = Flor
@@ -251,7 +253,7 @@ heart-rate-avatar = Frecuencia cardíaca
 history-avatar = Historial
 leaf-avatar = Hoja
 lightbulb-avatar = Bombilla
-makeup-avatar = Constituir
+makeup-avatar = Maquillaje
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Mensaje
 musical-note-avatar = Nota musical
@@ -314,3 +316,29 @@ leaf-avatar-tooltip =
     .tooltiptext = Aplicar avatar de hoja
 lightbulb-avatar-tooltip =
     .tooltiptext = Aplicar avatar de bombilla
+makeup-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de maquillaje
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de mensaje
+musical-note-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de nota musical
+palette-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de paleta
+paw-print-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de huella de pata
+plane-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de avión
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Aplicar avatar actual
+shopping-avatar-tooltip =
+    .tooltiptext = Aplicar avatar al carrito de compras
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de balón de fútbol
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Aplicar avatar brillante
+star-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de estrella
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de controlador de videojuego
