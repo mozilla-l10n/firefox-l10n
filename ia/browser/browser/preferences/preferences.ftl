@@ -1140,6 +1140,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e datos de sitos
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Calculo del dimension de datos de sito e de cache…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1177,6 +1179,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Tote le cookies inter-sitos (pote causar que le sitos web collabe)
 sitedata-option-block-all =
     .label = Tote le cookies (impedira alcun sitos web de functionar)
+sitedata-clear2 =
+    .label = Vacuar datos de navigation
+    .accesskey = i
+sitedata-settings2 =
+    .label = Geler datos de navigation
+    .accesskey = G
 sitedata-clear =
     .label = Eliminar datos...
     .accesskey = l
@@ -1186,6 +1194,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gerer exceptiones…
     .accesskey = G
+sitedata-cookies-exceptions2 =
+    .label = Gerer exceptiones
+    .accesskey = x
+    .description = Tu pote specificar que sitos web es sempre o jammais permittite usar  cookies e datos del sito.
 
 ## Privacy Section - Cookie Banner Handling
 
