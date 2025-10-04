@@ -481,3 +481,17 @@ desktop-to-mobile-qr-code-alt =
 
 restore-from-backup-secondary-top-button = Reakiri el sekurkopio
 restore-from-backup-title = Rehavu ni { -brand-short-name } tiel kiel vi ĝin ŝatas
+restore-from-backup-subtitle = Reakiru ĉiujn viajn legosignojn, historion kaj aliajn datumojn por daŭrigi vian retumon.
+restore-from-backup-secondary-button = Ne reakiri
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Ni revenis! Viaj datumoj de { -brand-short-name } estis reakiritaj.
+restored-from-backup-success-with-checklist-subtitle = Ĉu vi volas gardi vian plej ŝatatan retumilon, kiu ĉefe zorgas pri via privateco, je unu alklako?
+restored-from-backup-success-no-checklist-subtitle = Vi povas ŝalti sekurkopiojn por tiu ĉi aparato en <a data-l10n-name="settings">Agordoj</a>.
+restored-from-backup-success-with-checklist-primary-button = Konservi kaj daŭrigi
+restored-from-backup-success-with-checklist-secondary-button = Pretersalti tiun ĉi paŝon
+restored-from-backup-success-no-checklist-primary-button = Daŭrigi
+restored-from-backup-error-title = Hmm, estis problemo kun via sekurkopia dosiero.
+restored-from-backup-error-subtitle = Se vi havas alian sekurkopian dosieron de { -brand-short-name }, klopodu reakiri el tiu. <a data-l10n-name="restore-problems">Ĉu plu estas problemoj?</a>
+restored-from-backup-error-primary-button = Fermi
