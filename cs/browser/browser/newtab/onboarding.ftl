@@ -697,4 +697,9 @@ restored-from-backup-success-with-checklist-primary-button = Uložit a pokračov
 restored-from-backup-success-with-checklist-secondary-button = Přeskočit tento krok
 restored-from-backup-success-no-checklist-primary-button = Pokračovat
 restored-from-backup-error-title = Hmm, vyskytl se problém se záložním souborem.
+restored-from-backup-error-subtitle =
+    { -brand-short-name.case-status ->
+        [with-cases] Pokud máte další zálohu { -brand-short-name(case: "gen") }, zkuste provést obnovu z tohoto souboru. <a data-l10n-name="restore-problems">Stále přetrvávají problémy?</a>
+       *[no-cases] Pokud máte další zálohu aplikace { -brand-short-name }, zkuste provést obnovu z tohoto souboru. <a data-l10n-name="restore-problems">Stále přetrvávají problémy?</a>
+    }
 restored-from-backup-error-primary-button = Zavřít
