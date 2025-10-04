@@ -1090,9 +1090,9 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Патрабаваць уваход на прыладзе для аўтазапаўнення спосабаў аплаты і кіравання імі
     .accesskey = ў
-autofill-addresses-title = Адрасы і іншае
+autofill-addresses-title = Адрасы і іншае
 autofill-addresses-header =
-    .aria-label = Адрасы і іншае
+    .aria-label = Адрасы і іншае
 autofill-addresses-checkbox-message =
     .label = Захоўваць і аўтаматычна запаўняць адрасы
     .accesskey = ы
@@ -1150,6 +1150,10 @@ sitedata-total-size-calculating = Падлік памеру дадзеных с�
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Вашы захаваныя кукі, гісторыя, дадзеныя сайтаў і кэш зараз займаюць <strong>{ $value } { $unit }</strong> на дыску.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Вашы захаваныя кукі, дадзеныя сайтаў і кэш зараз займаюць { $value } { $unit } на дыску.
 sitedata-learn-more = Даведацца больш
 sitedata-delete-on-close =
@@ -1183,6 +1187,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Усе міжсайтавыя кукі (можа парушыць працу сайтаў)
 sitedata-option-block-all =
     .label = Усе кукі (будзе перашкаджаць працы сайтаў)
+sitedata-clear2 =
+    .label = Ачысціць звесткі аглядання
+    .accesskey = д
+sitedata-settings2 =
+    .label = Кіраваць звесткамі аглядання
+    .accesskey = ь
 sitedata-clear =
     .label = Выдаліць дадзеныя…
     .accesskey = ы
@@ -1192,6 +1202,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Кіраваць выключэннямі…
     .accesskey = ч
+sitedata-cookies-exceptions2 =
+    .label = Кіраваць выключэннямі
+    .accesskey = ч
+    .description = Вы можаце ўказаць, якім сайтам заўсёды можна або ніколі нельга выкарыстоўваць кукі і дадзеныя сайтаў
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1545,6 +1559,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Сертыфікаты
+certs-description = Наладзьце сертыфікаты, якія { -brand-short-name } выкарыстоўвае для аўтэнтыфікацыі.
 certs-enable-ocsp =
     .label = Звяртацца да сервера OCSP за пацверджаннем дзейснасці сертыфікатаў
     .accesskey = З

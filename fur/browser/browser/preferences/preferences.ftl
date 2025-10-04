@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Dîs ai sîts web di no sta vendi o condividi i miei dâts
     .accesskey = s
 non-technical-privacy-header = Preferencis pe riservatece dai sîts web
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -68,6 +70,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Siere
+do-not-track-removal2 =
+    .label = No supuartìn plui il segnâl “Do Not Track”
 
 ## Browser Restart Dialog
 
@@ -252,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Scûr
     .title = Dopre un aspiet scûr pal fonts e pai contignûts dai sîts.
+web-appearance-group =
+    .aria-label = Aspiet dai sîts web
 preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Clâr
 preferences-web-appearance-choice-dark = Scûr
@@ -1066,6 +1072,19 @@ autofill-saved-payment-methods-button = Metodis di paiament salvâts
     .accesskey = v
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Domande la conferme dal acès al dispositîf par compilâ in automatic e gjestî i metodis di paiament
+    .accesskey = o
+autofill-payment-methods-title = Metodis di paiament
+autofill-payment-methods-header =
+    .aria-label = Metodis di paiament
+autofill-payment-methods-checkbox-message-2 =
+    .label = Salve e auto-compile lis informazions di paiament
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Gjestìs i metodis di paiament
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Domande conferme dal acès al dispositîf par compilâ in automatic e gjestî i metodis di paiament
     .accesskey = o
 
 ## Privacy Section - History

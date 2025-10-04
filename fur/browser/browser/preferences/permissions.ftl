@@ -183,6 +183,17 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = Chescj sîts web a àn domandât l’acès a aplicazions e servizis su chest dispositîfs. Tu puedis sielzi di permeti o impedî ai sîts di fâ cheste operazion.
 permissions-site-localhost-disable-label =
     .label = Bloche gnovis domandis di acès a aplicazions e servizis su chest dispositîf
+permissions-site-localhost-disable-desc = Cussì tu impedirâs a ducj i sîts web che no son te liste chi parsore di domandâ il permès par acedi a aplicazions e servizis su chest dispositîf. Chest al podarès puartâ a vê malfunzionaments di cualchi sît web.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Impostazions - Dispositîfs di rêt locâl
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Chescj sîts web a àn domandât l’acès a aplicazions e servizis su dispositîfs colegâts ae tô rêt Wi-Fi o locâl. Tu puedis sielzi di permeti o impedî ai sîts di fâ cheste operazion.
+permissions-site-local-network-disable-label =
+    .label = Bloche gnovis domandis di acès a aplicazions e servizis su dispositîfs colegâts ae tô rêt Wi-Fi o locâl.
+permissions-site-local-network-disable-desc = Cussì tu impedirâs a ducj i sîts web che no son te liste chi parsore di domandâ il permès par acedi a aplicazions e servizis su dispositîfs colegâts al to Wi-Fi o ai dispositîfs di rêt locâl. Chest al podarès puartâ a vê malfunzionaments di cualchi sît web.
 
 ## Site Permissions - Microphone
 
