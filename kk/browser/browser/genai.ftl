@@ -203,5 +203,8 @@ link-preview-generation-retry = Қайтадан көру
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Сілтемені алдын ала қарау баптаулары
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Алғашқы баптау • <strong>{ $progress }%</strong>
 # Onboarding card Close button
 link-preview-onboarding-close = Жабу

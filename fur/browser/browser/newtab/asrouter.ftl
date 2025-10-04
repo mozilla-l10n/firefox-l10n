@@ -380,3 +380,11 @@ windows-10-eos-sync-callout-privacy-info-button = Viôt ce che al ven blocât
 windows-10-eos-callout-addons-title = Prove i components adizionâi: piçui inzornaments, grancj risultâts
 windows-10-eos-callout-addons-subtitle = Chestis estensions a son stadis sieltis par judâti a restâ produtîf, protet e libar des distrazions.
 windows-10-eos-callout-addons-primary-button = Viôt lis nestris sieltis
+windows-10-eos-sync-callout-addons-title = No sta pierdi i tiei components adizionâi cuant che tu inzornis di Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sincronize daurman in mût che i tiei components adizionâi par { -brand-product-name } a sedin simpri disponibii, ancje dopo che tu âs cambiât dispositîf.
+windows-10-eos-sync-callout-next-button = Sucessîf
+windows-10-eos-sync-callout-get-started-button = Scomence
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Schedis verticâls e grups di schedis: velis achì!
