@@ -139,6 +139,10 @@ profiles-green-theme = Vert
 profiles-green-theme-title =
     .title = Apliche il teme vert
 profiles-cyan-theme = Ciano
+profiles-cyan-theme-title =
+    .title = Apliche il teme ciano
+profiles-custom-theme-title =
+    .title = Apliche il teme personalizât
 
 ## Data collection settings changed (multi-profile)
 
@@ -201,6 +205,8 @@ soccer-ball-avatar-alt =
     .alt = Balon
 soccer-avatar-alt =
     .alt = Balon
+sparkle-single-avatar-alt =
+    .alt = Faliscje
 star-avatar-alt =
     .alt = Stele
 custom-avatar-alt =
