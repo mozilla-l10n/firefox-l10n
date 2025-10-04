@@ -236,6 +236,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Mostrar en el lateral, en la barra lateral
 browser-layout-show-sidebar =
     .label = Mostrar barra lateral
+browser-layout-show-sidebar-desc = Accede rápidamente a marcadores, pestañas de tu teléfono, chatbots de IA y mucho más sin salir de la vista principal.
 
 ## General Section - Language & Appearance
 
@@ -274,6 +275,14 @@ preferences-web-appearance-override-warning = Tus selecciones de color anulan la
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Administra los temas de { -brand-short-name } en <a data-l10n-name="themes-link">Extensiones y Temas</a>
+preferences-contrast-control-header = Control de contraste
+preferences-contrast-control-description = Los sitios web tienen una gran variedad de colores de primer plano y de fondo. Configura { -brand-short-name } para utilizar los mismos colores en todos los sitios web y mejorar la legibilidad.
+preferences-contrast-control-use-platform-settings =
+    .label = Automático (utiliza la configuración del sistema)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Apagar
+    .accesskey = A
 preferences-colors-header = Colores
 preferences-colors-description = Anula los colores predeterminados de { -brand-short-name } para texto, fondos de sitios web y enlaces.
 preferences-colors-manage-button =
