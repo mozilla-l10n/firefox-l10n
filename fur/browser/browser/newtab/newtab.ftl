@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = No si pues tornâ indaûr di cheste operazion
 
 newtab-topsite-sponsored = Sponsorizât
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (fissât)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -312,6 +320,9 @@ newtab-custom-pocket-subtitle = Contignûts ecezionâi curâts di { -pocket-bran
 newtab-custom-stories-toggle =
     .label = Storiis conseadis
     .description = Contignûts ecezionâl curât de famee di prodots { -brand-product-name }
+newtab-custom-stories-personalized-toggle =
+    .label = Storiis
+newtab-custom-stories-personalized-checkbox-label = Storiis personalizadis in base ae tô ativitât
 newtab-custom-pocket-sponsored = Storiis sponsorizadis
 newtab-custom-pocket-show-recent-saves = Mostre salvaments resints
 newtab-custom-recent-title = Ativitât resinte
@@ -322,6 +333,19 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Ricercjis di tindince
     .description = Argoments popolârs e cirûts dispès
+newtab-custom-widget-weather-toggle =
+    .label = Meteo
+newtab-custom-widget-trending-search-toggle =
+    .label = Ricercjis di tindince
+newtab-custom-widget-lists-toggle =
+    .label = Listis
+newtab-custom-widget-timer-toggle =
+    .label = Temporizadôr
+newtab-custom-widget-section-title = Widgets
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Siere
+    .aria-label = Siere menù
 newtab-custom-close-button = Siere
 newtab-custom-settings = Gjestìs plui impostazions
 
@@ -334,6 +358,7 @@ newtab-wallpaper-custom-color = Sielç un colôr
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = La imagjin e va fûr de dimension massime ametude ({ $file_size } MB). Prove a cjariâ un file plui piçul.
+newtab-wallpaper-error-upload-file-type = No sin rivâts a cjariâ in rêt il to file. Torne prove cuntun file di imagjin.
 newtab-wallpaper-error-file-type = No rivìn a cjariâ il to file. Torne prove cuntun altri gjenar di file.
 newtab-wallpaper-light-red-panda = Panda ros
 newtab-wallpaper-light-mountain = Montagne blancje
@@ -454,8 +479,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Passe a Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Passe a Celsius
 newtab-weather-menu-hide-weather = Plate il meteo ae Gnove schede
 newtab-weather-menu-learn-more = Plui informazions
+newtab-weather-menu-detect-my-location = Rileve la mê posizion
 # This message is shown if user is working offline
 newtab-weather-error-not-available = I dâts sul meteo in chest moment no son disponibii.
+newtab-weather-opt-in-see-weather = Desideristu viodi il timp pe tô posizion?
+newtab-weather-opt-in-not-now =
+    .label = No cumò
+newtab-weather-opt-in-yes =
+    .label = Sì
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = New York
 
 ## Topic Labels
 
@@ -538,6 +571,10 @@ newtab-custom-wallpaper-title = I fonts personalizâts a son achì
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Cjame il to font o sielç un colôr personalizât par fâ to { -brand-product-name }.
 newtab-custom-wallpaper-cta = Provilu
+
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = Sielç un fonts par personalizâ il to { -brand-product-name }
 
 ## Strings for download mobile highlight
 

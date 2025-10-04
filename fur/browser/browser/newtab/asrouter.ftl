@@ -388,3 +388,21 @@ windows-10-eos-sync-callout-get-started-button = Scomence
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Schedis verticâls e grups di schedis: velis achì!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Daûr fuarte domande, { -brand-product-name } al à dât fûr gnovis funzions par mantignî la tô navigazion ordenade e cence distrazions.
+windows-10-eos-feature-toast-whats-new-button = Scuvierç lis novitâts
+windows-10-eos-feature-toast-dismiss-button = Siere
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>Une protezion da lis spiis rigorose e pues causâ il malfunzionament di cualchi sît.</strong> Risolf i problemis plui comuns lant a sblocâ i elements essenziâls che a podaressin contignî lis spiis.
+etp-strict-exceptions-infobar-learn-more = Plui informazions
+etp-strict-exceptions-infobar-button = Apliche corezions
+    .accesskey = A
+etp-strict-exceptions-infobar-not-now = No cumò
+    .accesskey = N
