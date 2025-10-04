@@ -327,6 +327,9 @@ newtab-custom-recent-subtitle = Жуырдағы сайттар мен құра�
 newtab-custom-weather-toggle =
     .label = Ауа райы
     .description = Бүгінге қысқа болжам
+newtab-custom-trending-search-toggle =
+    .label = Трендтік іздеулер
+    .description = Әйгілі және жиі ізделген тақырыптар
 newtab-custom-widget-weather-toggle =
     .label = Ауа райы
 newtab-custom-widget-trending-search-toggle =
@@ -475,6 +478,8 @@ newtab-weather-menu-hide-weather = Жаңа бетте ауа райын жас�
 newtab-weather-menu-learn-more = Көбірек білу
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Ауа-райы деректері қазір қолжетімді емес.
+newtab-weather-opt-in-not-now =
+    .label = Қазір емес
 
 ## Topic Labels
 
