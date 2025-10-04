@@ -1140,7 +1140,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kuketoj kaj retejaj datumoj
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Kalkulo de datuma kaj stapla grando de retejo…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Viaj konservitaj kuketoj, historio, retejaj datumoj kaj staplo uzas nuntempe entute <strong>{ $value } { $unit }</strong> da diska spaco.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1177,6 +1183,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Ĉiuj interretejaj kuketoj (tio povas misfunkciigi kelkajn retejojn)
 sitedata-option-block-all =
     .label = Ĉiuj kuketoj (tio misfunkciigos retejojn)
+sitedata-clear2 =
+    .label = Viŝi retumajn datumojn
+    .accesskey = V
+sitedata-settings2 =
+    .label = Administri retumajn datumojn
+    .accesskey = A
 sitedata-clear =
     .label = Viŝi datumojn…
     .accesskey = V
@@ -1186,6 +1198,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Administri esceptojn…
     .accesskey = e
+sitedata-cookies-exceptions2 =
+    .label = Administri esceptojn
+    .accesskey = e
+    .description = Vi povas specifi, kiuj retejoj ĉiam aŭ neniam rajtas uzi kuketojn kaj retejajn datumojn.
 
 ## Privacy Section - Cookie Banner Handling
 

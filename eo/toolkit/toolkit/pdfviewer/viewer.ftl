@@ -613,6 +613,8 @@ pdfjs-editor-edit-comment-popup-button =
 pdfjs-editor-delete-comment-popup-button-label = Forigi komenton
 pdfjs-editor-delete-comment-popup-button =
     .title = Forigi komenton
+pdfjs-show-comment-button =
+    .title = Montri komenton
 
 ##  Edit a comment dialog
 
@@ -630,8 +632,10 @@ pdfjs-editor-edit-comment-manager-cancel-button = Nuligi
 pdfjs-editor-edit-comment-manager-save-button = Konservi
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = Modifi komenton
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = Ĝisdatigi
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = Aldoni komenton
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = Aldoni
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Ektajpi…
 pdfjs-editor-edit-comment-dialog-cancel-button = Nuligi
