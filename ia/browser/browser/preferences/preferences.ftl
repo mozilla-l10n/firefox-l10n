@@ -1146,6 +1146,10 @@ sitedata-total-size-calculating = Calculo del dimension de datos de sito e de ca
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Tu cookies, chronologia, datos de sito e cache occupa actualmente <strong>{ $value } { $unit } </strong> de spatio de disco.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tu cookies, datos de sito e cache occupa actualmente { $value } { $unit } de spatio de disco.
 sitedata-learn-more = Saper plus
 sitedata-delete-on-close =

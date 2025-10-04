@@ -613,6 +613,8 @@ pdfjs-editor-edit-comment-popup-button =
 pdfjs-editor-delete-comment-popup-button-label = Remover commento
 pdfjs-editor-delete-comment-popup-button =
     .title = Remover commento
+pdfjs-show-comment-button =
+    .title = Monstrar commento
 
 ##  Edit a comment dialog
 
@@ -630,8 +632,10 @@ pdfjs-editor-edit-comment-manager-cancel-button = Cancellar
 pdfjs-editor-edit-comment-manager-save-button = Salvar
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = Rediger commento
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = Actualisar
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = Adder commento
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = Adder
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Comenciar a scriber…
 pdfjs-editor-edit-comment-dialog-cancel-button = Cancellar
