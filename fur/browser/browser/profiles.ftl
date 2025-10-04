@@ -45,6 +45,7 @@ avatar-selector-save-button =
     .label = Salve
 avatar-selector-upload-file = Cjame in rêt un file
 avatar-selector-drag-file = O strissine un file achì
+avatar-selector-add-image = Zonte une imagjin
 edit-profile-page-no-name = Da un non a chest profîl par judâti a cjatâlu plui indevant. Tu puedis cambiâi non cuant che tu vûs.
 edit-profile-page-duplicate-name = Non dal profîl za in ûs. Prove cuntun altri non.
 edit-profile-page-profile-saved = Salvât
@@ -108,28 +109,62 @@ profiles-terracotta-theme-2 = Ros modon
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Vert muscli
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Visualize impostazions
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Siere
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Libri
 briefcase-avatar-alt =
     .alt = Valisute
+picture-avatar-alt =
+    .alt = Cuadri
 flower-avatar-alt =
     .alt = Rose
 heart-avatar-alt =
     .alt = Cûr
+clock-avatar-alt =
+    .alt = Orloi
 shopping-avatar-alt =
     .alt = Carel de spese
 star-avatar-alt =
     .alt = Stele
 custom-avatar-alt =
     .alt = Avatar personalizât
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Icone predefinide
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Belancîr
+bike-avatar-alt =
+    .alt = Biciclete
 
 ## Tooltips for default avatar icons
 
 book-avatar = Libri
 briefcase-avatar = Valisute
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Tele
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Artesanât
+custom-avatar = Icone personalizade
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Icone predefinide
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Rose
+folder-avatar = Cartele
+hammer-avatar = Martiel
 heart-avatar = Cûr
+heart-rate-avatar = Frecuence cardiache
+history-avatar = Cronologjie
 shopping-avatar = Carel de spese
 star-avatar = Stele
