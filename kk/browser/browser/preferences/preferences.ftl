@@ -1167,6 +1167,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Барлық сайтаралық cookies файлдары (веб-сайттар сынуына әкеп соғуы мүмкін)
 sitedata-option-block-all =
     .label = Барлық cookies файлдары (веб-сайттар жұмысының бұзылуына себеп болады)
+sitedata-clear2 =
+    .label = Шолу деректерін тазарту
+    .accesskey = з
+sitedata-settings2 =
+    .label = Шолу деректерін басқару
+    .accesskey = б
 sitedata-clear =
     .label = Деректерді өшіру…
     .accesskey = ш
@@ -1176,6 +1182,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Ережеден тыс жағдайларды басқару…
     .accesskey = ж
+sitedata-cookies-exceptions2 =
+    .label = Ережеден тыс жағдайларды басқару
+    .accesskey = ы
+    .description = Қай веб-сайттарға cookie файлдары мен сайт деректерін әрқашан немесе ешқашан қолдануға рұқсат етілетінін көрсете аласыз.
 
 ## Privacy Section - Cookie Banner Handling
 

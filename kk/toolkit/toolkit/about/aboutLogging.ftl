@@ -79,3 +79,11 @@ about-logging-upload-button = Жүктеп жіберу
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = { $path } ішіне сақталды
+
+## Uploaded Profiles section
+
+about-logging-uploaded-profiles-title = Жүктеп салынған профильдер
+about-logging-no-uploaded-profiles = Профильдер әлі жүктеп салынбаған.
+about-logging-delete-uploaded-profile = Өшіру
+about-logging-view-uploaded-profile = Профильді қарау
+about-logging-delete-profile-confirm-title = Профильді өшіру

@@ -206,5 +206,7 @@ link-preview-settings-button =
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Алғашқы баптау • <strong>{ $progress }%</strong>
+# Onboarding card See a preview button
+link-preview-onboarding-button = Алдын ала қарауды қарау
 # Onboarding card Close button
 link-preview-onboarding-close = Жабу

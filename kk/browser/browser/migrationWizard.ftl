@@ -198,6 +198,9 @@ migration-safari-password-import-step3 = Парольдер файлын сақ�
 migration-safari-password-import-step4 = Сақталған парольдер файлын таңдау үшін төмендегі "Файлды таңдау" батырмасын пайдаланыңыз
 migration-chrome-windows-password-import-header = Chrome браузерінен парольдерді қалай импорттауға болады
 migration-chrome-windows-password-import-steps-header = Chrome браузерінде:
+migration-chrome-windows-password-import-step1 = <img data-l10n-name="chrome-icon-3dots"/> негізгі мәзірін ашып, Парольдер және автотолтыру > Google парольдер басқарушысы тармағына өтіңіз.
+migration-chrome-windows-password-import-step2 = Мәзірден "Баптаулар" тармағын таңдаңыз.
+migration-chrome-windows-password-import-step3 = "Файлды жүктеп алу" тармағын таңдап, оны құрылғыға сақтаңыз.
 migration-manual-password-import-skip-button = Аттап кету
 migration-manual-password-import-select-button = Файлды таңдау
 migration-safari-password-import-skip-button = Аттап кету
