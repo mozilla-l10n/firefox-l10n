@@ -369,3 +369,14 @@ windows-10-eos-sync-toast-secondary-label = Visimi plui indevant
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } nol è preinstalât tant che i navigadôrs des grandis compagniis di tecnologjichis. Chest al è il pont.
 windows-10-eos-challenger-sync-callout-subtitle = Fasint il backup di segnelibris e passwords di { -brand-product-name }, tu podarâs trasferî in mût plui sempliç il to navigadôr preferît sul to prossim dispositîf.
+windows-10-eos-challenger-pin-callout-subtitle = Fisse { -brand-shorter-name } te tô sbare des aplicazions cussì di tignî simpri disponibil cuant che ti covente il to navigadôr preferît.
+windows-10-eos-challenger-sync-primary-button = Fâs il backup di { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Fisse { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } al bloche i minadôrs di criptomonede, lis spiis dai social media e i rilevadôrs di stamp numeric.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Lis spiis no rivaran a identificâ il to dispositîf o stâti daûr pal web — parcè che nô ur al impedìn.
+windows-10-eos-sync-callout-privacy-screen-2-title = Protêç passwords e segnelibris pal to prossim dispositîf.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Fasint il backup di { -brand-shorter-name } tu puedis puartâti daûr i tiei dâts e lis tôs impostazions pe riservatece.
+windows-10-eos-sync-callout-privacy-info-button = Viôt ce che al ven blocât
+windows-10-eos-callout-addons-title = Prove i components adizionâi: piçui inzornaments, grancj risultâts
+windows-10-eos-callout-addons-subtitle = Chestis estensions a son stadis sieltis par judâti a restâ produtîf, protet e libar des distrazions.
+windows-10-eos-callout-addons-primary-button = Viôt lis nestris sieltis
