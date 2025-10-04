@@ -1329,6 +1329,7 @@ trustpanel-etp-toggle-off =
 trustpanel-etp-description-enabled = Zerbaitek apurtuta badirudi gune honetan, saiatu babesak desaktibatzen.
 trustpanel-connection-label-secure = Konexio segurua
 trustpanel-connection-label-insecure = Konexio ez-segurua
+trustpanel-header-enabled-insecure = Argi ibili gune honetan
 trustpanel-clear-cookies-button = Garbitu cookieak eta guneetako datuak
 trustpanel-privacy-link = Pribatutasun-ezarpenak
 trustpanel-clear-cookies-subview-button-clear = Garbitu

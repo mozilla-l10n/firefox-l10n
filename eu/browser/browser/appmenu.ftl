@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Ireki analizatzailearen panela
+    .tooltiptext = Ireki analizatzailearen panela
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,8 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = { -brand-shorter-name }(r)en audio eta bideo programa-erroreak ikertzeko aurrezarpena.
 profiler-popup-presets-media-label =
     .label = Multimedia
+profiler-popup-presets-ml-label =
+    .label = Ikasketa automatikoa
 profiler-popup-presets-networking-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena.
 profiler-popup-presets-networking-label =
     .label = Sarea

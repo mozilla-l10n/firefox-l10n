@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Ezarri tenporizadorea zu
 experimental-features-newtab-widget-lists-and-timer =
     .label = { -firefox-home-brand-name }(e)ko zerrendak eta tenporizadorea
 experimental-features-newtab-widget-lists-and-timer-description = Mantendu zure zereginen zerrenda ikusgai fitxa berria irekitzen duzunean. Ekipajea prestatzetik erosketa-zerrendetara, egin zure planak { -brand-product-name }(e)n. Ezarri tenporizadorea zure fokua mantentzeko, bide onetik jarraitu eta deskantsua hartzea gogorarazteko. <a data-l10n-name="connect">Partekatu iritzia</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Bilaketa semantikoaren historia
+experimental-features-semantic-history-search-description = Erabili ikasketa automatikoko modelo lokala zure historiarekin zerikusia duten eta lengoaia naturalaren ezagutzan oinarrituta dauden sarreren gomendioak { -brand-product-name } helbide-barran jasotzeko. <a data-l10n-name="connect">Eman iritzia</a>

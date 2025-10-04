@@ -357,3 +357,15 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Manten il to navigadôr pre
 windows-10-eos-sync-spotlight-title = Pensistu di fâ l'inzornament di Windows 10 ca di pôc?
 windows-10-eos-sync-spotlight-subtitle = Fâs il backup di passwords e segnelibris par prontâti a passâ suntun altri dispositîf.
 windows-10-eos-sync-spotlight-primary-label = Fâs il backup dal to { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Desideristu passâ a Windows 11? No sta pierdi segnelibris e passwords.
+windows-10-eos-sync-toast-subtitle = Fâs il backup dai tiei dâts in mût che { -brand-short-name } al sedi pront pal ûs in ogni moment, su chest computer o sul prossim.
+windows-10-eos-sync-toast-primary-label = Scomence
+windows-10-eos-sync-toast-secondary-label = Visimi plui indevant
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } nol è preinstalât tant che i navigadôrs des grandis compagniis di tecnologjichis. Chest al è il pont.
+windows-10-eos-challenger-sync-callout-subtitle = Fasint il backup di segnelibris e passwords di { -brand-product-name }, tu podarâs trasferî in mût plui sempliç il to navigadôr preferît sul to prossim dispositîf.

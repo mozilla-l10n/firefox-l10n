@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Garbitu
 text-action-highlight-selection =
     .label = Nabarmendu hautapena
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Gehitu iruzkina hautapenean
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Iruzkindu hautapena

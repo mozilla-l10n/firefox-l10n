@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Ez erakutsi berriro
     .accesskey = z
 sandbox-unprivileged-namespaces-howtofix = Nola konpondu arazo hau
+sandbox-content-disabled-warning = Segurtasunerako isolamendua desgaituta dago. Zure konfigurazioa ez da onartzen eta ez da horren segurua.
