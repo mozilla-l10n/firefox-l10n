@@ -121,3 +121,10 @@ about-glean-enable-new-features-promo =
 about-glean-enable-new-features-button = Attiva nuove funzioni
 about-glean-disable-new-features-button = Disattiva nuove funzioni
 about-glean-about-data-explanation = Per sfogliare l’elenco dei dati raccolti, consultare il <a data-l10n-name="glean-dictionary-link">Dizionario { -glean-brand-name }</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Ping integrati
+about-glean-ping-list-optgroup-custom =
+    .label = Ping personalizzati

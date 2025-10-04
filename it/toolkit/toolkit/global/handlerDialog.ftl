@@ -20,6 +20,17 @@ permission-dialog-description-file-app = Consentire a questo file di aprire un l
 permission-dialog-description-extension-app = Consentire all’estensione { $extension } di aprire un link di tipo { $scheme } con { $appName }?
 permission-dialog-description-system-app = Aprire il link di tipo { $scheme } con { $appName }?
 permission-dialog-description-system-noapp = Aprire il link di tipo { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Consentire a questo sito di aprire il tuo portafoglio digitale?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = L’apertura di un link <strong>{ $scheme }</strong> consente a <strong>{ $host }</strong> di richiedere la tua vera identità in <strong>{ $appName }</strong>. Procedere solo se si considera il sito attendibile.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = L’apertura di un link <strong>{ $scheme }</strong> consente a questo sito di richiedere la tua vera identità in <strong>{ $appName }</strong>. Procedere solo se si considera il sito attendibile.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = L’apertura di un link <strong>{ $scheme }</strong> consente a <strong>{ $host }</strong> di richiedere la tua vera identità nel tuo portafoglio digitale. Procedere solo se si considera il sito attendibile.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = L’apertura di un link <strong>{ $scheme }</strong> consente a questo sito di richiedere la tua vera identità nel tuo portafoglio digitale. Procedere solo se si considera il sito attendibile.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
