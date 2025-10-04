@@ -486,6 +486,13 @@ newtab-weather-menu-learn-more = Rhagor
 newtab-weather-menu-detect-my-location = Canfod fy lleoliad
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Nid yw data tywydd ar gael ar hyn o bryd.
+newtab-weather-opt-in-see-weather = Hoffech chi weld weld tywydd eich lleoliad?
+newtab-weather-opt-in-not-now =
+    .label = Nid nawr
+newtab-weather-opt-in-yes =
+    .label = Iawn
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Dinas Efrog Newydd
 
 ## Topic Labels
 

@@ -629,6 +629,8 @@ pdfjs-editor-edit-comment-popup-button =
 pdfjs-editor-delete-comment-popup-button-label = Tynnu sylw
 pdfjs-editor-delete-comment-popup-button =
     .title = Tynnu sylw
+pdfjs-show-comment-button =
+    .title = Dangos sylw
 
 ##  Edit a comment dialog
 
@@ -646,8 +648,10 @@ pdfjs-editor-edit-comment-manager-cancel-button = Diddymu
 pdfjs-editor-edit-comment-manager-save-button = Cadw
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = Golygu sylw
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = Diweddaru
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = Ychwanegu sylw
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = Ychwanegu
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Cychwyn teipio…
 pdfjs-editor-edit-comment-dialog-cancel-button = Diddymu

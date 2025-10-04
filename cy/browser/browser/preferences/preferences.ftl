@@ -1156,7 +1156,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cwcis a Data Gwefan
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Cyfrifo maint data gwefan a storfa dros dro…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Mae'r cwcis, data gwefan a storfa dros dro yn defnyddio { $value } { $unit } o le ar ddisg ar hyn o bryd.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1193,6 +1199,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Pob cwci traws-safle (gall achosi i wefannau dorri)
 sitedata-option-block-all =
     .label = Pob cwci (bydd yn achosi i wefannau dorri)
+sitedata-clear2 =
+    .label = Clirio eich hanes pori
+    .accesskey = h
+sitedata-settings2 =
+    .label = Rheoli data pori
+    .accesskey = R
 sitedata-clear =
     .label = Clirio Data…
     .accesskey = l
@@ -1202,6 +1214,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Rheoli Eithriadau…
     .accesskey = R
+sitedata-cookies-exceptions2 =
+    .label = Rheoli eithriadau
+    .accesskey = e
+    .description = Gallwch bennu pa wefannau sy'n cael neu beidio cael defnyddio cwcis neu ddata gwefannau.
 
 ## Privacy Section - Cookie Banner Handling
 

@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Clirio
 text-action-highlight-selection =
     .label = Amlygu Adran
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Ychwanegu Sylw at y Dewis
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Dewis Sylw
