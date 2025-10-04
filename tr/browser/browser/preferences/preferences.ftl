@@ -1140,7 +1140,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Çerezler ve site verileri
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Site verilerinin ve önbelleğin boyutu hesaplanıyor…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Depolanmış çerezleriniz, geçmişiniz, site verileriniz ve önbelleğiniz şu anda <strong>{ $value } { $unit }</strong> disk alanı kullanıyor.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1177,6 +1183,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Tüm siteler arası çerezler (Bazı siteler düzgün çalışmayabilir)
 sitedata-option-block-all =
     .label = Tüm çerezler (Birçok site düzgün çalışmayabilir)
+sitedata-clear2 =
+    .label = Gezinti verilerini temizle
+    .accesskey = G
+sitedata-settings2 =
+    .label = Gezinti verilerini yönet
+    .accesskey = z
 sitedata-clear =
     .label = Verileri temizle…
     .accesskey = l

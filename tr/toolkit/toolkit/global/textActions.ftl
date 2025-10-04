@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Temizle
 text-action-highlight-selection =
     .label = Seçimi vurgula
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Seçime yorum ekle
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Seçime yorum ekle

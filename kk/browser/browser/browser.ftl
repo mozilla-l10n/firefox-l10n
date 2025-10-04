@@ -1391,6 +1391,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = "{ $popupURI }" көрсету
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = “{ $redirectURI }” көрсету
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1449,6 +1453,10 @@ trustpanel-clear-cookies-header =
 trustpanel-clear-cookies-description = Cookie файлдары мен сайт деректерін өшіру сізді веб-сайттардан шығаруы және сауда қоржындарын тазалауы мүмкін.
 trustpanel-clear-cookies-subview-button-clear = Тазарту
 trustpanel-clear-cookies-subview-button-cancel = Бас тарту
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = { $host } үшін байланыс қорғаныстары
 trustpanel-connection-secure = Бұл сайтқа қауіпсіз түрде байланысқансыз.
 trustpanel-connection-not-secure = Бұл сайтқа қауіпсіз түрде байланысқан емессіз.
 trustpanel-siteinformation-morelink = Сайт туралы қосымша ақпарат

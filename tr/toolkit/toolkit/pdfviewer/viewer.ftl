@@ -611,6 +611,8 @@ pdfjs-editor-edit-comment-popup-button =
 pdfjs-editor-delete-comment-popup-button-label = Yorumu sil
 pdfjs-editor-delete-comment-popup-button =
     .title = Yorumu sil
+pdfjs-show-comment-button =
+    .title = Yorumu göster
 
 ##  Edit a comment dialog
 
@@ -628,8 +630,10 @@ pdfjs-editor-edit-comment-manager-cancel-button = Vazgeç
 pdfjs-editor-edit-comment-manager-save-button = Kaydet
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = Yorumu düzenle
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = Güncelle
 # No existing comment
 pdfjs-editor-edit-comment-dialog-title-when-adding = Yorum ekle
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = Ekle
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Yazmaya başlayın…
 pdfjs-editor-edit-comment-dialog-cancel-button = Vazgeç
