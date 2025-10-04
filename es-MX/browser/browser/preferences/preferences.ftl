@@ -194,7 +194,7 @@ browser-containers-enabled =
 browser-containers-learn-more = Saber más
 browser-containers-settings =
     .label = Configuración…
-    .accesskey = i
+    .accesskey = C
 containers-disable-alert-title = ¿Cerrar todo el contenedor de pestañas?
 
 ## Variables:
@@ -283,6 +283,9 @@ preferences-contrast-control-use-platform-settings =
 preferences-contrast-control-off =
     .label = Apagar
     .accesskey = A
+preferences-contrast-control-custom =
+    .label = Personalizado
+    .accesskey = P
 preferences-colors-header = Colores
 preferences-colors-description = Anula los colores predeterminados de { -brand-short-name } para texto, fondos de sitios web y enlaces.
 preferences-colors-manage-button =
@@ -1146,6 +1149,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Barra de direcciones
 addressbar-suggest = Cuando se use la barra de direcciones, sugerir
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Barra de direcciones — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Elige el tipo de sugerencias que aparecen en la barra de direcciones.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Más información
 addressbar-locbar-history-option =
     .label = Historial de navegación
     .accesskey = H
@@ -1178,7 +1188,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostrar las sugerencias de búsqueda más populares
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Sugerencias de { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Obtén sugerencias de la web relacionadas con tu búsqueda.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Sugerencias de patrocinadores
+addressbar-locbar-suggest-sponsored-desc = Soporte { -brand-short-name } con sugerencias patrocinadas ocasionales.
 addressbar-quickactions-learn-more = Saber más
+addressbar-dismissed-suggestions-label = Sugerencias descartadas
+addressbar-restore-dismissed-suggestions-description = Restaurar las sugerencias descartadas de los patrocinadores y { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Restaurar
 
 ## Privacy Section - Content Blocking
 
@@ -1291,6 +1312,7 @@ permissions-location = Ubicación
 permissions-location-settings =
     .label = Ajustes…
     .accesskey = l
+permissions-local-network = Dispositivos de red local
 permissions-xr = Realidad virtual
 permissions-xr-settings =
     .label = Ajustes…
@@ -1311,7 +1333,7 @@ permissions-speaker-settings =
 permissions-notification = Notificaciones
 permissions-notification-settings =
     .label = Ajustes…
-    .accesskey = n
+    .accesskey = A
 permissions-notification-link = Saber más
 permissions-notification-pause =
     .label = Pausar las notificaciones hasta que { -brand-short-name } reinicie

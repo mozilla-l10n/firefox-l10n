@@ -299,8 +299,8 @@ menu-settings =
     .label = Configuración
     .accesskey =
         { PLATFORM() ->
-            [windows] S
-           *[other] n
+            [windows] C
+           *[other] C
         }
 menu-tools-layout-debugger =
     .label = Depurador de diseño
