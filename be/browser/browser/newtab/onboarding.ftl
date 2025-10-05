@@ -487,7 +487,11 @@ restore-from-backup-secondary-button = Не аднаўляць
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Мы вярнуліся! Вашы дадзеныя { -brand-short-name } адноўлены.
+restored-from-backup-success-with-checklist-subtitle = Хочаце мець свой любімы браўзер, арыентаваны на прыватнасць, на адлегласці ўсяго ў адзін націск?
+restored-from-backup-success-no-checklist-subtitle = Вы можаце ўключыць рэзервовае капіраванне для гэтай прылады ў <a data-l10n-name="settings">Наладах</a>.
 restored-from-backup-success-with-checklist-primary-button = Захаваць і працягнуць
 restored-from-backup-success-with-checklist-secondary-button = Прапусціць гэты крок
 restored-from-backup-success-no-checklist-primary-button = Працягнуць
+restored-from-backup-error-title = Гм, узнікла праблема з вашым рэзервовым файлам.
+restored-from-backup-error-subtitle = Калі ў вас ёсць іншы файл рэзервовай копіі { -brand-short-name }, паспрабуйце аднавіць з яго. <a data-l10n-name="restore-problems">Усё яшчэ ёсць праблемы?</a>
 restored-from-backup-error-primary-button = Закрыць
