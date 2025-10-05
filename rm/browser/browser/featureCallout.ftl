@@ -112,6 +112,19 @@ fxa-adoption-passwords-subtitle = Protegia tes pleds-clav ed als sincronisescha 
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Sa registrar
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Tegna tes feeds preferids en la taskbar
+taskbar-tabs-social-callout-subtitle = Avra tias websites da social media sco ina app en ina fanestra optimada e protegida da { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Scriva en il chat via la taskbar
+taskbar-tabs-chat-callout-subtitle = Avra tias websites da chat sco ina app en ina fanestra optimada e protegida da { -brand-short-name }.
+taskbar-tabs-email-callout-title = Tegna tes conto dad e-mail en tia trav d’incumbensas
+taskbar-tabs-email-callout-subtitle = Avra tias websites dad e-mail sco ina app en ina fanestra optimada e protegida da { -brand-short-name }.
+taskbar-tabs-media-callout-title = Reprenda il stream en la taskbar
+taskbar-tabs-media-callout-subtitle = Avra tias websites da streaming sco ina app en ina fanestra optimada e protegida da { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Agiuntescha questa website a tia taskbar
+taskbar-tabs-value-prop-callout-subtitle = Al lantscha en sia atgna fanestra ed en in’interfatscha simplifitgada cun in singul clic.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Betg perda cun la midada a Windows 11 tut quai che ti has memorisà.
@@ -123,6 +136,18 @@ windows-10-eos-sync-new-device-subtitle-1 = Activescha la sincronisaziun per pre
 windows-10-eos-sync-new-device-title-2 = Ti midas ad in nov apparat? Guarda da betg perder quai ch’è impurtant.
 windows-10-eos-sync-new-device-subtitle-2 = Tuttina quant savens che ti dovras { -brand-short-name }, la sincronisaziun protegia tes segnapaginas, pleds-clav e parameters.
 windows-10-eos-sync-new-device-primary-label = Sincronisar ussa
+windows-10-eos-sync-general-title-1 = Protegia il { -brand-short-name } che ti has adattà a tes basegns.
+windows-10-eos-sync-general-subtitle-1 = Segirescha e sincronisescha tes pleds-clav, ils segnapaginas, ils parameters ed autras datas, per mantegnair quai ch’è impurtant per tai.
+windows-10-eos-sync-general-title-2 = Ussa è in bun mument per segirar tes pleds-clav e segnapaginas.
+windows-10-eos-sync-general-subtitle-2 = Sincronisescha ussa per proteger las datas che ti has surdà en confidenza a { -brand-short-name } – e las recuperescha nua ch’i saja, da tut temp.
+windows-10-eos-sync-tour-title-1 = Memia blers tabs? Fa urden cun gruppas da tabs.
+windows-10-eos-sync-tour-subtitle-1 = Tira e depona in tab sin in auter per crear ina gruppa e tegnair tut en rughel.
+windows-10-eos-sync-tour-title-2 = Ta prepara per Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sincronisescha tes segnapaginas, pleds-clav e parameters per als segirar avant che actualisar.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Mussar pli paucas recumandaziuns
+windows-10-eos-sync-dismiss-button-label = Serrar
+windows-10-eos-sync-callout-primary-advance-button-label = Enavant
 
 ## Sidebar Strings
 

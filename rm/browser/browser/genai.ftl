@@ -91,6 +91,16 @@ genai-shortcuts-hide =
     .label = Zuppentar las scursanidas a chatbots
 genai-menu-choose-chatbot =
     .label = Tscherna in chatbot IA
+genai-menu-ask-generic-2 =
+    .label = Dumandar in chatbot IA
+    .accesskey = z
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Dumandar { $provider }
+    .accesskey = z
+genai-menu-no-provider-2 =
+    .label = Dumandar in chatbot IA
+    .accesskey = z
 
 ## Chatbot header
 
@@ -114,6 +124,11 @@ genai-options-hide-shortcut =
     .label = Zuppentar la scursanida cun selecziunar text
 genai-options-about-chatbot =
     .label = Davart chatbots IA en { -brand-short-name }
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Cunquai che la pagina è memia lunga, suonda ina resumaziun parziala.
 
 ## Chatbot footer
 
@@ -207,3 +222,27 @@ link-preview-reading-time =
         [one] { $range } minuta temp da lectura
        *[other] { $range } minutas temp da lectura
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Impussibel da mussar ina prevista da questa colliaziun
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Visitar la colliaziun
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = I n’è betg reussì da generar puncts-clav per questa pagina-web.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Igl ha dà in problem.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Empruvar anc ina giada
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Parameters da la prevista da colliaziuns
+link-preview-settings-enable =
+    .label = Activar la prevista da colliaziuns
+    .description = Mussar il titel da la pagina, la descripziun e dapli cura che ti utiliseschas la scursanida u cliccas cun la tasta dretga da la mieur sin ina colliaziun.
+link-preview-settings-key-points =
+    .label = Permetter a l’IA da leger l’entschatta da la pagina e generar puncts-clav
+link-preview-settings-long-press =
+    .label = Scursanida: Clicca e tegna durant 1 secunda la colliaziun (smatgar ditg)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Vesair dapli cun IA?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } utilisescha l’IA per leger il cumenzament da la pagina e generar in per puncts-clav. Per resguardar tia sfera privata, capita quai sin tes apparat.

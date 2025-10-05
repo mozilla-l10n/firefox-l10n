@@ -343,3 +343,33 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Endrizza tes navigatur preferì e spezialisà en la protecziun da datas uschia ch’el è accessibel cun mo in clic. Definescha { -brand-short-name } sco tes navigatur standard per avrir colliaziuns ed al fixescha en tia taskbar.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Endrizza tes navigatur preferì e spezialisà en la protecziun da datas uschia ch’el è accessibel cun mo in clic. Definescha { -brand-short-name } sco tes navigatur standard per avrir colliaziuns ed al fixescha en tia taskbar ed en il menu «Start».
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-callout-addons-primary-button = Scuvrir nossa selecziun
+windows-10-eos-sync-callout-addons-title = Betg perda tes supplements cura che ti actualiseschas Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sincronisescha ussa per ch’ils supplements da { -brand-product-name } stettian adina a disposiziun, era suenter avair midà apparat.
+windows-10-eos-sync-callout-next-button = Enavant
+windows-10-eos-sync-callout-get-started-button = Cumenzar
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Ils tabs verticals e las gruppas da tabs èn qua!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = { -brand-product-name } ha reagì a la gronda dumonda e gist publitgà novas funcziuns che ta pussibiliteschan da navigar a moda effizienta e focussada.
+windows-10-eos-feature-toast-whats-new-button = Scuvrir las novaziuns
+windows-10-eos-feature-toast-dismiss-button = Serrar
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>La protecziun stricta cunter fastizaders po avair per consequenza che paginas na funcziunan betg endretg.</strong> Curregia problems frequents cun debloccar elements essenzials che pudessan cuntegnair fastizaders.
+etp-strict-exceptions-infobar-learn-more = Ulteriuras infurmaziuns
+etp-strict-exceptions-infobar-button = Applitgar las correcturas
+    .accesskey = A
+etp-strict-exceptions-infobar-not-now = Betg ussa
+    .accesskey = B

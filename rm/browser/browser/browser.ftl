@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Modus privat
+popups-infobar-dont-show-message2 =
+    .label = Betg mussar quest messadi cura che pop-ups u renviaments da terzas partidas vegnan bloccads
+    .accesskey = B
+edit-popup-settings2 =
+    .label = Administrar ils parameters per pop-ups u renviaments da terzas partidas…
+    .accesskey = A
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Ti has bloccà la pussaivladad da questa website da cundivider tes visur.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ti has bloccà la memoria durabla per questa website.
+urlbar-popup-blocked2 =
+    .tooltiptext = Ti has bloccà pop-ups e renviaments da terzas partidas per questa website.
 urlbar-popup-blocked =
     .tooltiptext = Ti has bloccà pop-ups per questa website.
 urlbar-autoplay-media-blocked =
@@ -1170,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloccar popups da { $uriHost }
     .accesskey = P
+popups-infobar-allow2 =
+    .label = Permetter pop-ups e renviaments da terzas partidas per { $uriHost }
+    .accesskey = p
 
 ##
 
@@ -1230,8 +1241,8 @@ tabs-toolbar =
 tabs-toolbar-new-tab =
     .label = Nov tab
 tabs-toolbar-list-all-tabs =
-    .label = Far ina glista da tut ils tabs
-    .tooltiptext = Far ina glista da tut ils tabs
+    .label = Glista da tut ils tabs
+    .tooltiptext = Glista da tut ils tabs
 
 ## Drop indicator text for pinned tabs when no tabs are pinned.
 
@@ -1334,6 +1345,7 @@ firefox-relay-offer-why-to-use-relay = Noss alias segirs ch'èn simpels d'utilis
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Tut ils e-mails tramess a tes alias vegnan renviads a <strong>{ $useremail }</strong> (nun che ti decidias d'als bloccar).
 firefox-relay-offer-legal-notice = Cun cliccar sin «Utilisar alias dad e-mail», acceptas ti las <label data-l10n-name="tos-url">cundiziuns d'utilisaziun</label> e las <label data-l10n-name="privacy-url">infurmaziuns davart la protecziun da datas</label>.
+firefox-relay-offer-legal-notice-1 = Cun crear in conto ed in alias dad e-mail, acceptas ti las <label data-l10n-name="tos-url">cundiziuns d’utilisaziun</label> e la <label data-l10n-name="privacy-url">decleraziun davart la protecziun da datas</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1360,10 +1372,24 @@ popup-warning-message =
         [one] { -brand-short-name } ha impedì questa website d'avrir ina fanestra popup.
        *[other] { -brand-short-name } ha impedì questa website d'avrir { $popupCount } fanestras popup.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } ha impedì che questa website renvieschia.
+        [1] { -brand-short-name } ha impedì che questa website avria ina fanestra pop-up e renvieschia.
+       *[other] { -brand-short-name } ha impedì che questa website avria { $popupCount } fanestras pop-up e renvieschia.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } ha impedì che questa website avria dapli che { $popupCount } fanestras pop-up.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+       *[other] { -brand-short-name } ha impedì che questa website avria dapli che { $popupCount } fanestras pop-up e renvieschia.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1379,6 +1405,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mussar: '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Mussar «{ $redirectURI }»
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 

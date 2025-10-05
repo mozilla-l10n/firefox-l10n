@@ -20,9 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = A
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protegia tia adressa dad e-mail:
+firefox-relay-opt-in-title-2 = Va per in alias dad e-mail gratuit
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Utilisescha in alias dad e-mail da { -relay-brand-name }
+firefox-relay-use-mask-title-1 = Utilisar in alias dad e-mail
+firefox-relay-opt-in-subtitle-2 = Protegia tia chascha da posta entrada da messadis nungiavischads
 firefox-relay-use-mask-title = Utilisescha in alias dad e-mail da { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Evitescha messadis nungiavischads cun agid d’in alias dad e-mail gratuit
@@ -72,6 +75,8 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Va per in alias dad e-mail gratuit
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Protegia tia posta entrada da messadis nungiavischads cun utilisar in <label data-l10n-name="firefox-relay-learn-more-url">alias dad e-mail</label> gratuit per zuppentar ti’adressa dad e-mail reala. E-mails da <label data-l10n-name="firefox-fxa-and-relay-offer-domain">questa website</label> vegnan anc adina ad arrivar en tia posta entrada, ma ti’adressa dad e-mail resta zuppentada.
+firefox-relay-and-fxa-popup-notification-first-sentence = Protegia tia posta entrada da messadis nungiavischads cun utilisar in <label data-l10n-name="firefox-relay-learn-more-url">alias dad e-mail { -relay-brand-name }</label> gratuit per zuppentar ti’adressa dad e-mail reala. E-mails da <label data-l10n-name="firefox-fxa-and-relay-offer-domain">questa website</label> vegnan anc adina ad arrivar en tia posta entrada, ma ti’adressa dad e-mail resta zuppentada.
+firefox-relay-offer-why-to-use-relay-1 = Protegia tia posta entrada da messadis nungiavischads cun utilisar in <label data-l10n-name="firefox-relay-learn-more-url">alias dad e-mail { -relay-brand-name }</label> gratuit per zuppentar ti’adressa dad e-mail reala. E-mails da <label data-l10n-name="firefox-fxa-and-relay-offer-domain">questa website</label> vegnan anc adina ad arrivar en tia posta entrada, ma ti’adressa dad e-mail resta zuppentada.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = L’emprim pass: ta registrescha u acceda a tes conto per utilisar in alias dad e-mail
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Sa registrar
