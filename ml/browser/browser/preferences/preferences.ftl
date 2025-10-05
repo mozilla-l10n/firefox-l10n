@@ -55,6 +55,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = അടയ്ക്കുക
+do-not-track-removal2 =
+    .label = ഞങ്ങൾ ഇനി "പിന്തുൎതു്" മുന്നറിയിപ്പ് വ്യവസ്ഥയെ പിന്തുണയ്ക്കാരില്ല
 
 ## Browser Restart Dialog
 
@@ -64,6 +66,17 @@ should-restart-title = { -brand-short-name } വീണ്ടും ആരംഭ�
 should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാരംഭിക്കുക
 cancel-no-restart-button = റദ്ദാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -822,6 +835,9 @@ sitedata-settings =
     .label = ഡാറ്റ ക്രമീകരിക്കുക
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = കൂടുതല്‍ അറിയുക
@@ -924,6 +940,9 @@ content-blocking-known-fingerprinters-label =
 content-blocking-suspected-fingerprinters-label =
     .label = സംശയിക്കപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങൾ
     .accesskey = വ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -1031,6 +1050,9 @@ certs-devices =
 space-alert-over-5gb-settings-button =
     .label = ക്രമീകരണങ്ങൾ തുറക്കുക
     .accesskey = ത
+
+## Privacy Section - HTTPS-Only
+
 
 ## DoH Section
 
