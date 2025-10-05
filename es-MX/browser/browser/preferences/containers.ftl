@@ -8,7 +8,7 @@ containers-window-new2 =
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = Preferencias del contenedor { $name }
+    .title = Configuración del contenedor { $name }
     .style = min-width: 45em
 containers-window-close =
     .key = w
