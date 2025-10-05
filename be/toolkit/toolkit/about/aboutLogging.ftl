@@ -102,3 +102,8 @@ about-logging-upload-error = Пры зацягванні профілю здар
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Пры захаванні файла здарылася памылка: { $errorText }
+
+## Uploaded Profiles section
+
+about-logging-view-uploaded-profile = Паглядзець профіль
+about-logging-delete-profile-confirm-title = Выдаліць профіль
