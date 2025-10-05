@@ -144,12 +144,23 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Apliki personecigitan etoson
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>La agordoj pri datumkolektado estis ŝanĝitaj.</strong> La ŝanĝoj faritaj en alia profilo aplikeblas al ĉiuj profiloj en tiu ĉi aparato.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Montri agordojn
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Ignori
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Libro
 briefcase-avatar-alt =
     .alt = Teko
+picture-avatar-alt =
+    .alt = Bildo
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Kanvaso
@@ -166,6 +177,8 @@ heart-avatar-alt =
     .alt = Koro
 heart-rate-avatar-alt =
     .alt = Korbata frekvenco
+clock-avatar-alt =
+    .alt = Horloĝo
 history-avatar-alt =
     .alt = Historio
 leaf-avatar-alt =
@@ -190,6 +203,8 @@ present-avatar-alt =
     .alt = Donaco
 shopping-avatar-alt =
     .alt = Aĉetĉareto
+soccer-ball-avatar-alt =
+    .alt = Piedpilko
 soccer-avatar-alt =
     .alt = Piedpilko
 sparkle-single-avatar-alt =
@@ -200,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = Regilo de videa ludo
 custom-avatar-alt =
     .alt = Personecigita avataro
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Terglobo
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Norma emblemo
@@ -215,6 +233,7 @@ bike-avatar-alt =
 
 book-avatar = Libro
 briefcase-avatar = Teko
+clock-avatar = Horloĝo
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Kanvaso
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +245,8 @@ default-favicon-avatar = Norma emblemo
 diamond-avatar = Diamanto
 flower-avatar = Floro
 folder-avatar = Dosierujo
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Terglobo
 hammer-avatar = Martelo
 heart-avatar = Koro
 heart-rate-avatar = Korbata frekvenco
@@ -238,10 +259,12 @@ message-avatar = Mesaĝo
 musical-note-avatar = Tono muzika
 palette-avatar = Paletro
 paw-print-avatar = Spuro
+picture-avatar = Bildo
 plane-avatar = Aviadilo
 # Present refers to a gift box, not the current time period
 present-avatar = Donaco
 shopping-avatar = Aĉetĉareto
+soccer-ball-avatar = Piedpilko
 soccer-avatar = Piedpilko
 sparkle-single-avatar = Brilo
 star-avatar = Stelo
@@ -256,3 +279,19 @@ custom-avatar-drag-handle =
     .aria-label = Ŝanĝi grandon de eltondita areo
 barbell-avatar = Haltero
 bike-avatar = Biciklo
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Apliki avataron de haltero
+bike-avatar-tooltip =
+    .tooltiptext = Apliki avataron de biciklo
+book-avatar-tooltip =
+    .tooltiptext = Apliki avataron de libro
+briefcase-avatar-tooltip =
+    .tooltiptext = Apliki avataron de teko
+picture-avatar-tooltip =
+    .tooltiptext = Apliki avataron de bildo
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Apliki avataron de manfaritaĵo
