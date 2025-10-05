@@ -112,6 +112,19 @@ fxa-adoption-passwords-subtitle = Абараніце свае паролі, сі
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Зарэгістравацца
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Трымайце свае любімыя стужкі на панэлі задач
+taskbar-tabs-social-callout-subtitle = Запускайце свае сацыяльныя сеткі як праграму ў аптымізаваным акне, абароненым { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Чат з панэлі задач
+taskbar-tabs-chat-callout-subtitle = Запускайце свае сайты чатаў як праграму ў аптымізаваным акне, абароненым { -brand-short-name }.
+taskbar-tabs-email-callout-title = Трымайце сваю электронную пошту ў панэлі задач
+taskbar-tabs-email-callout-subtitle = Запускайце вэб-пошту як звычайную праграму ў аптымізаваным акне, абароненым { -brand-short-name }.
+taskbar-tabs-media-callout-title = Вяртайцеся да струменевай трансляцыі з панэлі задач
+taskbar-tabs-media-callout-subtitle = Запускайце свае стрымінгавыя сайты як праграму ў аптымізаваным акне, абароненым { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Дадаць гэты сайт на панэль задач
+taskbar-tabs-value-prop-callout-subtitle = Запускайце яго ў асобным акне і спрошчаным інтэрфейсе адным націскам мышы.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Не страцьце ўсё, што вы захавалі, пры пераходзе на Windows 11.
@@ -131,6 +144,10 @@ windows-10-eos-sync-tour-title-1 = Занадта шмат картак? Нав�
 windows-10-eos-sync-tour-subtitle-1 = Перацягніце адну картку на іншую, каб стварыць групу і падтрымаць парадак.
 windows-10-eos-sync-tour-title-2 = Будзьце арганізаванымі для Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Сінхранізуйце свае закладкі, паролі і налады, каб стварыць іх рэзервовую копію перад пераключэннем.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Паказваць менш рэкамендацый
+windows-10-eos-sync-dismiss-button-label = Адхіліць
+windows-10-eos-sync-callout-primary-advance-button-label = Далей
 
 ## Sidebar Strings
 

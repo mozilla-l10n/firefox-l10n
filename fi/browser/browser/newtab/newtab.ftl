@@ -478,8 +478,14 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Vaihda Fahrenheitiin
 newtab-weather-menu-change-temperature-units-celsius = Vaihda Celsiukseen
 newtab-weather-menu-hide-weather = Piilota sää uudessa välilehdessä
 newtab-weather-menu-learn-more = Lue lisää
+newtab-weather-menu-detect-my-location = Havaitse sijaintini
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Säätiedot eivät ole tällä hetkellä saatavilla.
+newtab-weather-opt-in-see-weather = Haluatko nähdä sijaintisi sään?
+newtab-weather-opt-in-not-now =
+    .label = Ei nyt
+newtab-weather-opt-in-yes =
+    .label = Kyllä
 
 ## Topic Labels
 

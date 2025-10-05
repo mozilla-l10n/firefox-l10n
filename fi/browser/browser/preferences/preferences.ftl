@@ -1086,9 +1086,15 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Vaadi laitekirjautuminen maksutapojen automaattiseen täyttöön ja hallintaan
     .accesskey = o
+autofill-addresses-title = Osoitteita ja muuta
+autofill-addresses-header =
+    .aria-label = Osoitteita ja muuta
 autofill-addresses-checkbox-message =
     .label = Tallenna ja täytä osoitteet automaattisesti
     .accesskey = s
+autofill-addresses-manage-addresses-button =
+    .label = Hallitse osoitteita ja muuta
+    .accesskey = m
 
 ## Privacy Section - History
 
@@ -1134,7 +1140,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Evästeet ja sivustotiedot
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Lasketaan sivustotietojen ja välimuistin kokoa…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Tallennetut evästeet, historia, sivustotiedot ja välimuisti vievät tällä hetkellä <strong>{ $value } { $unit }</strong> levytilaa.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1171,6 +1183,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Kaikki sivustorajat ylittävät evästeet (voi aiheuttaa sivustojen toimimattomuutta)
 sitedata-option-block-all =
     .label = Kaikki evästeet (aiheuttaa sivustovirheitä)
+sitedata-clear2 =
+    .label = Tyhjennä selaustiedot
+    .accesskey = y
+sitedata-settings2 =
+    .label = Hallitse selaustietoja
+    .accesskey = j
 sitedata-clear =
     .label = Tyhjennä tiedot…
     .accesskey = y
@@ -1180,6 +1198,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Hallitse poikkeuksia…
     .accesskey = p
+sitedata-cookies-exceptions2 =
+    .label = Hallitse poikkeuksia
+    .accesskey = k
+    .description = Voit määrittää, mitkä verkkosivustot voivat aina tai ei koskaan käyttää evästeitä ja sivustotietoa.
 
 ## Privacy Section - Cookie Banner Handling
 
