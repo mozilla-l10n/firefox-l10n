@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Zatvori
+do-not-track-removal2 =
+    .label = Više ne podržavamo signal “Ne prati”.
 
 ## Browser Restart Dialog
 
