@@ -112,6 +112,12 @@ fxa-adoption-passwords-subtitle = Protektu viajn pasvortojn per ĉifrado kaj kon
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registriĝi
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Tenu viajn plej ŝatatajn kanalojn en via taska ilaro
+taskbar-tabs-social-callout-subtitle = Lanĉi viajn sociretajn retejojn kiel programon en simpligita fenestro, protektita de { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Retbabilu el via taska ilaro
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ne perdu viajn konservitajn aferojn kiam vi iras al Windows 11.
