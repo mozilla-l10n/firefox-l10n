@@ -146,6 +146,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Impostazions di racuelte dâts modificadis.</strong> Lis modifichis fatis intun altri profîl a vegnin aplicadis a ducj i profîi su chest dispositîf.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Visualize impostazions
 # Secondary button label to dismiss the infobar without action
@@ -209,6 +211,8 @@ sparkle-single-avatar-alt =
     .alt = Faliscje
 star-avatar-alt =
     .alt = Stele
+video-game-controller-avatar-alt =
+    .alt = Controller par video zûcs
 custom-avatar-alt =
     .alt = Avatar personalizât
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
