@@ -143,6 +143,7 @@ redirectLoop-title = Cirquit da sviament
 unknownSocketType-title = Resposta nuncorrecta
 nssFailure2-title = La connexiun segira n'è betg reussida
 csp-xfo-error-title = { -brand-short-name } na po betg avrir questa pagina
+corruptedContentErrorv2-title = Errur da cuntegn donnegià
 corruptedContentError-title = Errur da cuntegn donnegià
 sslv3Used-title = Impussibel da connectar a moda segira
 inadequateSecurityError-title = Tia connexiun n'è betg segirada

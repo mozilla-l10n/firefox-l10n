@@ -215,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = Controller da gieus da video
 custom-avatar-alt =
     .alt = Avatar persunalisà
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globus
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Icona predefinida
@@ -230,6 +233,7 @@ bike-avatar-alt =
 
 book-avatar = Cudesch
 briefcase-avatar = Valischetta
+clock-avatar = Ura
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Taila
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -241,6 +245,8 @@ default-favicon-avatar = Icona predefinida
 diamond-avatar = Diamant
 flower-avatar = Flur
 folder-avatar = Ordinatur
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globus
 hammer-avatar = Martè
 heart-avatar = Cor
 heart-rate-avatar = Frequenza dal cor
@@ -253,12 +259,63 @@ message-avatar = Messadi
 musical-note-avatar = Nota musicala
 palette-avatar = Paletta
 paw-print-avatar = Fastiz da toppa
+picture-avatar = Maletg
 plane-avatar = Aviun
+# Present refers to a gift box, not the current time period
+present-avatar = Regal
 shopping-avatar = Charret da cumpras
+soccer-ball-avatar = Ballape
+soccer-avatar = Ballape
+sparkle-single-avatar = Sbrinzlas
 star-avatar = Staila
+video-game-controller-avatar = Controller da gieus da video
+custom-avatar-crop-back-button =
+    .aria-label = Enavos
+custom-avatar-crop-view =
+    .aria-label = Vista per retagliar il maletg
+custom-avatar-crop-area =
+    .aria-label = Adattar la zona dal retagl
+custom-avatar-drag-handle =
+    .aria-label = Redimensiunar la zona da retagl
+barbell-avatar = Ballantschera
+bike-avatar = Velo
 
 ## Tooltips for default avatar icons
 
+barbell-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da la ballantschera
+bike-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal velo
+book-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal cudesch
+briefcase-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da la mappa d’actas
+picture-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal maletg
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da l’artisanadi
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal globus
+diamond-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal diamant
+flower-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da la flur
+folder-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da l’ordinatur
+hammer-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal martè
+heart-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal cor
+heart-rate-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da la frequenza dal cor
+clock-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da l’ura
+leaf-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da la feglia
+lightbulb-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal pair electric
 makeup-avatar-tooltip =
     .tooltiptext = Applitgar l’avatar dal bellet
 # Message refers to a text message, not a traditional letter/envelope message

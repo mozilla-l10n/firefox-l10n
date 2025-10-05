@@ -21,3 +21,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Betg pli mussar
     .accesskey = B
 sandbox-unprivileged-namespaces-howtofix = Co schliar quest problem
+sandbox-content-disabled-warning = La sandbox da segirezza è deactivada. Questa configuraziun na vegn betg sustegnida ed è main segira.

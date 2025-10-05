@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Sche l'adressa endatada constat, po
 neterror-dns-not-found-hint-try-again = Empruvar pli tard anc ina giada
 neterror-dns-not-found-hint-check-network = Controllar la connexiun cun la rait
 neterror-dns-not-found-hint-firewall = Verifitgar che { -brand-short-name } ha il dretg d'acceder al web (eventualmain es ti connectà, ma davos ina firewall)
+neterror-dns-not-found-offline-hint-header = <strong>Tge pos ti far per schliar il problem?</strong>
+neterror-dns-not-found-offline-hint-different-device = Emprova da ta connectar cun agid d’in auter apparat.
+neterror-dns-not-found-offline-hint-modem = Controllescha tes modem u router.
+neterror-dns-not-found-offline-hint-reconnect = Ta deconnectescha da tes WLAN e ta reconnectescha lura puspè.
 
 ## TRR-only specific messages
 ## Variables:
