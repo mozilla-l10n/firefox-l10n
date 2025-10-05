@@ -101,9 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Падз�
 about-logging-upload-error = Пры зацягванні профілю здарылася памылка: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Пры захаванні зацягнутага профілю здарылася памылка: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Пры захаванні файла здарылася памылка: { $errorText }
 
 ## Uploaded Profiles section
 
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Профіль { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Зацягнутыя профілі
+about-logging-no-uploaded-profiles = Ніводнага профілю яшчэ не зацягнута.
+about-logging-delete-uploaded-profile = Выдаліць
 about-logging-view-uploaded-profile = Паглядзець профіль
 about-logging-delete-profile-confirm-title = Выдаліць профіль
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Вы ўпэўнены, што хочаце выдаліць профіль «{ $profileName }»? Гэта дзеянне нельга адмяніць.
+about-logging-deleting-profile = Выдаленне…
