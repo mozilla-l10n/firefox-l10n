@@ -21,6 +21,11 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (datotecas localas)
 sidebar-history-delete =
     .title = Stizzar da la cronologia
 sidebar-history-clear =
@@ -63,6 +68,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Extender la trav laterala cun passar cun la mieur
+sidebar-manage-extensions = Administrar las extensiuns
 
 ## Labels for sidebar context menu items
 
@@ -72,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Allontanar l’extensiun
 sidebar-context-menu-report-extension =
     .label = Rapportar l’extensiun
+sidebar-context-menu-open-in-tab =
+    .label = Avrir en in nov tab
+sidebar-context-menu-open-in-container-tab =
+    .label = Avrir en in nov tab da container
 sidebar-context-menu-open-in-window =
     .label = Avrir en ina nova fanestra
 sidebar-context-menu-open-in-private-window =
     .label = Avrir en ina nova fanestra privata
+sidebar-context-menu-forget-site =
+    .label = Stizzar tut las datas per la website…
 sidebar-context-menu-bookmark-tab =
     .label = Agiuntar in segnapagina per il tab…
 sidebar-context-menu-copy-link =
@@ -90,6 +102,19 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Serrar il tab sin { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = Allontanar da { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = Allontanar da la trav laterala
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page-2 =
+    .label = Stizzar la pagina da la cronologia
+sidebar-history-context-menu-bookmark-page =
+    .label = Agiuntar in segnapagina per la pagina…
+sidebar-history-context-menu-delete-pages =
+    .label = Stizzar questas paginas da la cronologia
 
 ## Labels for sidebar menu items.
 
@@ -105,6 +130,8 @@ sidebar-menu-customize-label =
     .label = Persunalisar la trav laterala
 sidebar-menu-contextual-password-manager-label =
     .label = Pleds-clav
+sidebar-menu-more-tools-label =
+    .label = Ulteriurs utensils
 
 ## Tooltips for sidebar menu items.
 
@@ -188,3 +215,7 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = Zuppentar la trav laterala ({ $shortcut })
     .label = Travs lateralas
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = Tira nà qua ils tabs impurtants per als avair adina per mauns

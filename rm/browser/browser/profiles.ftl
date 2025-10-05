@@ -98,6 +98,46 @@ profiles-ocean-theme-2 = Blau dad ocean
 profiles-terracotta-theme-2 = Cotschen da quadrels
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verd da mistgel
+profiles-gray-theme-title =
+    .title = Applitgar il design grisch
+profiles-yellow-theme = Mellen
+profiles-yellow-theme-title =
+    .title = Applitgar il design mellen
+profiles-orange-theme = Oransch
+profiles-orange-theme-title =
+    .title = Applitgar il design oransch
+profiles-red-theme = Cotschen
+profiles-red-theme-title =
+    .title = Applitgar il design cotschen
+profiles-pink-theme = Rosa
+profiles-pink-theme-title =
+    .title = Applitgar il design pinc
+profiles-purple-theme = Lila
+profiles-purple-theme-title =
+    .title = Applitgar il design lila
+profiles-violet-theme = Violet
+profiles-violet-theme-title =
+    .title = Applitgar il design violet
+profiles-blue-theme = Blau
+profiles-blue-theme-title =
+    .title = Applitgar il design blau
+profiles-green-theme = Verd
+profiles-green-theme-title =
+    .title = Applitgar il design grisch
+profiles-cyan-theme = Cian
+profiles-cyan-theme-title =
+    .title = Applitgar il design cian
+profiles-custom-theme-title =
+    .title = Applitgar il design persunalisà
+
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Ils parameters da la collecziun da datas èn vegnids midads.</strong> Las midadas fatgas en in auter profil valan per tut ils profils sin quest apparat.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Vesair ils parameters
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Serrar
 
 ## Alternative text for default profile icons
 
@@ -105,20 +145,97 @@ book-avatar-alt =
     .alt = Cudesch
 briefcase-avatar-alt =
     .alt = Valischetta
+picture-avatar-alt =
+    .alt = Maletg
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar-alt =
+    .alt = Taila
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Artisanadi
 flower-avatar-alt =
     .alt = Flur
+folder-avatar-alt =
+    .alt = Ordinatur
+hammer-avatar-alt =
+    .alt = Marti
 heart-avatar-alt =
     .alt = Cor
+heart-rate-avatar-alt =
+    .alt = Frequenza dal cor
+history-avatar-alt =
+    .alt = Cronologia
+leaf-avatar-alt =
+    .alt = Feglia
+lightbulb-avatar-alt =
+    .alt = Pair electric
+makeup-avatar-alt =
+    .alt = Bellet
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Messadi
+musical-note-avatar-alt =
+    .alt = Nota musicala
+palette-avatar-alt =
+    .alt = Paletta
+paw-print-avatar-alt =
+    .alt = Fastiz da toppa
+plane-avatar-alt =
+    .alt = Aviun
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Regal
 shopping-avatar-alt =
     .alt = Charret da cumpras
+soccer-avatar-alt =
+    .alt = Ballape
+sparkle-single-avatar-alt =
+    .alt = Sbrinzlas
 star-avatar-alt =
     .alt = Staila
+video-game-controller-avatar-alt =
+    .alt = Controller da gieus da video
+custom-avatar-alt =
+    .alt = Avatar persunalisà
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Icona predefinida
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
+barbell-avatar-alt =
+    .alt = Ballantschera
+bike-avatar-alt =
+    .alt = Velo
 
 ## Tooltips for default avatar icons
 
 book-avatar = Cudesch
 briefcase-avatar = Valischetta
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Taila
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Artisanadi
+custom-avatar = Avatar persunalisà
 flower-avatar = Flur
 heart-avatar = Cor
 shopping-avatar = Charret da cumpras
 star-avatar = Staila
+
+## Tooltips for default avatar icons
+
+plane-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da l’aviun
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal regal
+shopping-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal charret da cumpras
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal ballape
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da las sbrinzlas
+star-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da la staila
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal controller da gieus

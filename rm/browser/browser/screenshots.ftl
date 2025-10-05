@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Copiar
 screenshots-component-download-button-2 = Telechargiar
     .title = Telechargiar ({ $shortcut })
     .aria-label = Telechargiar
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Maletg dal visur
+    .tooltiptext = Far in maletg dal visur ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

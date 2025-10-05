@@ -34,6 +34,8 @@ inactive-css-not-display-block-on-floated = The <strong>display</strong> value h
 inactive-css-not-display-block-on-floated-2 = The <strong>display</strong> value has been changed by the engine to <strong>{ $display }</strong> because the element is <strong>floated</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> has no effect because it cannot be used on grid or flex items.
 inactive-css-not-block = <strong>{ $property }</strong> has no effect on this element because it only applies to block-level elements.
+inactive-css-not-block-container = <strong>{ $property }</strong> has no effect on this element because it only applies to block container elements.
+inactive-css-not-block-flex-grid-container = <strong>{ $property }</strong> has no effect on this element because it only applies to block, flex, and grid container elements.
 inactive-css-not-floated = <strong>{ $property }</strong> has no effect because it only applies to floated elements.
 inactive-css-property-is-impossible-to-override-in-visited = It’s impossible to override <strong>{ $property }</strong> due to <strong>:visited</strong> restriction.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> has no effect on this element since it’s not a positioned element.
@@ -70,6 +72,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> has no effect on this element because it is fragmented, i.e. its content is split across multiple columns or pages.
 inactive-css-no-width-height = <strong>{ $property }</strong> has no effect on this element since its width and height cannot be set.
+inactive-css-no-principal-box = <strong>{ $property }</strong> has no effect on this element since it does not create a principal box.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -92,6 +95,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Try addin
 inactive-css-not-display-block-on-floated-fix = Try removing <strong>float</strong> or adding <strong>display:block</strong>. { learn-more }
 inactive-css-only-non-grid-or-flex-item-fix = Try changing the value of <strong>display</strong> of the element’s container to something else than <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, or <strong>inline-grid</strong>, or removing <strong>float</strong>. { learn-more }
 inactive-css-not-block-fix = Try adding properties like <strong>display:block</strong> or <strong>float:left</strong>. { learn-more }
+inactive-css-not-block-container-fix = Try adding <strong>display:block</strong>, <strong>display:inline-block</strong> or <strong>display:flow-root</strong>. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = Try adding <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> or <strong>display:flow-root</strong>. { learn-more }
 inactive-css-not-floated-fix = Try adding the <strong>float</strong> property with a value other than <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Try setting its <strong>position</strong> property to something other than <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Ensure you are adding the property to a replaced element. { learn-more }
@@ -108,6 +113,7 @@ inactive-css-resize-fix = Try setting <strong>overflow</strong> to a value other
 inactive-css-ruby-element-fix = Try changing the <strong>font-size</strong> of the ruby text. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Try to reduce the number of lines. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Avoid splitting the element’s content e.g. by removing the columns or by using <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Try adding a <strong>display</strong> value that creates a principal box, such as <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, or <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

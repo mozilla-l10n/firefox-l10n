@@ -54,5 +54,50 @@ install-search-engine-no = Na
 add-engine-window =
     .title = Agiuntar ina maschina da tschertgar
     .style = min-width: 40em;
+edit-engine-window =
+    .title = Modifitgar la maschina da tschertgar
+    .style = min-width: 32em;
 add-engine-button = Agiuntar ina maschina persunalisada
 add-engine-name = Num da la maschina da tschertgar
+add-engine-url2 = URL cun %s empè dal term da tschertga
+add-engine-keyword2 = Pled magic (opziunal)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Datas POST cun %s empè dal term da tschertga (laschar vid per GET)
+add-engine-suggest-url = URL per las propostas cun %s empè dal term da tschertga (opziunal)
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+add-engine-name-placeholder =
+    .placeholder = p.ex. Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = p.ex. https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = p.ex. @mdn
+
+## The following strings are used as error messages.
+
+add-engine-keyword-exists = Quest pled magic vegn gia duvrà. Emprova cun in auter.
+add-engine-name-exists = Quest num vegn gia duvrà. Tscherna per plaschair in auter.
+add-engine-no-name = Agiuntescha per plaschair in num.
+add-engine-no-url = Endatescha per plaschair in URL.
+add-engine-invalid-url = Quest URL vesa ora curius. Al controllescha per plaschair ed emprova anc ina giada.
+add-engine-invalid-protocol = Quest URL vesa ora curius. Utilisescha in URL che cumenza cun «http» u «https».
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Emprova d’includer %s empè dal term da tschertga.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Emprova d’includer %s empè dal term da tschertga.
+
+## The following strings are used as labels for the dialog's buttons.
+
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Agiuntar la maschina
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Avanzà
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Memorisar la maschina
+    .buttonaccesskeyaccept = s
+    .buttonlabelextra1 = Avanzà
