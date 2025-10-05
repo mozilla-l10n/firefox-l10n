@@ -59,6 +59,7 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = Таңдауыңызша жүйені қосу
 add-engine-name = Іздеу жүйесінің аты
+add-engine-url2 = Іздеу сөзінің орнында %s бар URL
 add-engine-keyword2 = Кілт сөз (міндетті емес)
 
 ## The following placeholders are shown in the inputs when adding a new engine.

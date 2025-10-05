@@ -269,5 +269,74 @@ star-avatar = Жұлдызша
 video-game-controller-avatar = Видео ойын контроллері
 custom-avatar-crop-back-button =
     .aria-label = Артқа
+custom-avatar-crop-view =
+    .aria-label = Суретті қию көрінісі
+custom-avatar-crop-area =
+    .aria-label = Кию аймағын көрсету
+custom-avatar-drag-handle =
+    .aria-label = Кию аймағының өлшемін өзгерту
 barbell-avatar = Штанга
 bike-avatar = Велосипед
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Штанга аватарын іске асыру
+bike-avatar-tooltip =
+    .tooltiptext = Велосипед аватарын іске асыру
+book-avatar-tooltip =
+    .tooltiptext = Кітап аватарын іске асыру
+briefcase-avatar-tooltip =
+    .tooltiptext = Портфель аватарын іске асыру
+picture-avatar-tooltip =
+    .tooltiptext = Сурет аватарын іске асыру
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Қолөнер аватарын іске асыру
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Глобус аватарын іске асыру
+diamond-avatar-tooltip =
+    .tooltiptext = Алмаз аватарын іске асыру
+flower-avatar-tooltip =
+    .tooltiptext = Гүл аватарын іске асыру
+folder-avatar-tooltip =
+    .tooltiptext = Бума аватарын іске асыру
+hammer-avatar-tooltip =
+    .tooltiptext = Балға аватарын іске асыру
+heart-avatar-tooltip =
+    .tooltiptext = Жүрек аватарын іске асыру
+heart-rate-avatar-tooltip =
+    .tooltiptext = Жүрек соғу аватарын іске асыру
+clock-avatar-tooltip =
+    .tooltiptext = Сағат аватарын іске асыру
+leaf-avatar-tooltip =
+    .tooltiptext = Жапырақ аватарын іске асыру
+lightbulb-avatar-tooltip =
+    .tooltiptext = Шам аватарын іске асыру
+makeup-avatar-tooltip =
+    .tooltiptext = Макияж аватарын іске асыру
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Хабарлама аватарын іске асыру
+musical-note-avatar-tooltip =
+    .tooltiptext = Музыкалық нота аватарын іске асыру
+palette-avatar-tooltip =
+    .tooltiptext = Палитра аватарын іске асыру
+paw-print-avatar-tooltip =
+    .tooltiptext = Табан ізінің аватарын іске асыру
+plane-avatar-tooltip =
+    .tooltiptext = Ұшақ аватарын іске асыру
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Сыйлық аватарын іске асыру
+shopping-avatar-tooltip =
+    .tooltiptext = Сауда арбасының аватарын іске асыру
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Футбол добының аватарын іске асыру
+sparkle-single-avatar-tooltip =
+    .tooltiptext = От шоғы аватарын іске асыру
+star-avatar-tooltip =
+    .tooltiptext = Жұлдызша аватарын іске асыру
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Видео ойыны контроллерінің аватарын іске асыру

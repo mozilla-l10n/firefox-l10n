@@ -131,6 +131,10 @@ about-glean-button-dictionary-link = Құжаттар
 about-glean-button-watch = Бақылау
 # Meaning "to stop watching"
 about-glean-button-unwatch = Бақыламау
+about-glean-no-data-to-display = Көрсетілетін деректер жоқ.
+about-glean-unknown-metric-type-warning = Белгісіз метрика түрі.
+about-glean-enable-new-features-button = Жаңа мүмкіндіктерді іске қосу
+about-glean-disable-new-features-button = Жаңа мүмкіндіктерді сөндіру
 about-glean-about-data-explanation =
     Жиналған деректер тізімін шолу үшін,
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Сөздігін</a> шолыңыз.

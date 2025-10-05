@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Сынған сайт туралы хаба�
 report-broken-site-panel-header =
     .label = Сынған сайт туралы хабарлау
     .title = Сынған сайт туралы хабарлау
+report-broken-site-panel-learn-more-link = Көбірек білу
 report-broken-site-panel-intro = { -brand-product-name } әркім үшін жақсырақ болуына көмектесіңіз. { -vendor-short-name } веб-сайт мәселелерін шешу үшін сіз жіберген ақпаратты пайдаланады.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Не сынған?
