@@ -246,3 +246,20 @@ link-preview-settings-long-press =
 link-preview-optin-title = Vesair dapli cun IA?
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = { -brand-short-name } utilisescha l’IA per leger il cumenzament da la pagina e generar in per puncts-clav. Per resguardar tia sfera privata, capita quai sin tes apparat.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nov: Clicca e tegna x-ina colliaziun per ina prevista
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Mussa ina curta descripziun, il temp da lectura e dapli per decider sch’i vala la paina d’avrir ina colliaziun. Ins po era acceder a la funcziun cun cliccar cun la tasta dretga da la mieur.
+# Header for the key points section
+link-preview-key-points-header = Puncts-clav
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Puncts-clav vegnan generads cun IA e pon cuntegnair sbagls.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Configuraziun iniziala • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = La proxima giada vegnan ils puncts-clav mussads pli svelt.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Vesair ina prevista
+# Onboarding card Close button
+link-preview-onboarding-close = Serrar

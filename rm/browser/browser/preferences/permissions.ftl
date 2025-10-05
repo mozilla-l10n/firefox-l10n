@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Ti pos deactivar il modus Mo-HTTPS per websites specificas. { -brand-short-name } na vegn lura betg a dumandar da midar la connexiun al HTTPS segirà per questas websites. Las excepziuns na valan betg en fanestras privatas.
 permissions-exceptions-https-only-desc2 = Ti pos deactivar il modus Mo-HTTPS per websites specificas. { -brand-short-name } na vegn lura betg a dumandar da midar la connexiun al HTTPS segirà per questas websites.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Websites permessas – Pop-ups e renviaments da terzas partidas
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Igl è pussaivel da specifitgar tge websites che dastgan avrir fanestras pop-up e dastgan vegnir renviadas da frames da terzas partidas.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
@@ -167,6 +174,22 @@ permissions-site-camera-desc = Las suandantas paginas han dumandà l'access a ti
 permissions-site-camera-disable-label =
     .label = Bloccar novas dumondas d'access a tia camera
 permissions-site-camera-disable-desc = Qua tras vegn impedì ch'ina pagina betg menziunada survart ta dumondia la permissiun da pudair acceder a tia camera. Cun bloccar l'access a tia camera vegnan eventualmain tangadas tschertas funcziuns da paginas d'internet.
+
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Parameters - Apps e servetschs da l’apparat
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Questas websites han dumandà l’access a las apps ed als servetschs sin quest apparat. Ti pos permetter u bloccar l’access per las websites.
+permissions-site-localhost-disable-label =
+    .label = Bloccar novas dumondas d’access ad apps ed a servetschs sin quest apparat
+permissions-site-localhost-disable-desc = Quai impedescha che tut las websites betg enumeradas survart possian dumandar l’access ad apps e servetschs sin quest apparat. Quai po avair per consequenza che tschertas parts da websites na funcziunan betg endretg.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Parameters – Apparats da la rait locala
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Microphone
 

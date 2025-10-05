@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronisar ussa ils segnapaginas…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Buttun per serrar
     .title = Serrar
+fxa-adoption-addresses-backup-title = Far copias da segirezza da las adressas memorisadas
+fxa-adoption-addresses-backup-subtitle = Protegia tias adressas memorisadas cun las sincronisar a moda criptada cun tes apparats.
+fxa-adoption-credit-cards-backup-title = Far copias da segirezza da las metodas da pajament
+fxa-adoption-credit-cards-backup-subtitle = Protegia tias metodas da pajament cun las sincronisar a moda criptada cun tes apparats.
+fxa-adoption-primary-button-label = Crear in conto
 
 ## Protections panel
 
@@ -311,8 +316,11 @@ fxa-menu-message-close-button =
     .title = Serrar
     .aria-label = Serrar
 fxa-menu-message-sign-up-button = Sa registrar
+fxa-menu-message-sign-in-button = S’annunziar
+fxa-menu-message-sync-button = Cumenzar a sincronisar
 fxa-menu-message-sync-devices-primary-text = Sincronisescha tut tes apparats
 fxa-menu-message-sync-devices-secondary-text = Acceda immediatamain a tias datas – sco segnapaginas e pleds-clav – dapertut là nua che ti utiliseschas { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Acceda en in batterdegl a tes segnapaginas, pleds-clav e dapli – sin tut ils apparats connectads cun { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronisescha tut tes apparats
 fxa-menu-message-backup-data-primary-text = Fa copias da segirezza da tias datas dal navigatur
 fxa-menu-message-backup-data-secondary-text = Protegia automaticamain segnapaginas, pleds-clav ed autras infurmaziuns sin tut tes apparats.
@@ -343,6 +351,11 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Endrizza tes navigatur preferì e spezialisà en la protecziun da datas uschia ch’el è accessibel cun mo in clic. Definescha { -brand-short-name } sco tes navigatur standard per avrir colliaziuns ed al fixescha en tia taskbar.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Endrizza tes navigatur preferì e spezialisà en la protecziun da datas uschia ch’el è accessibel cun mo in clic. Definescha { -brand-short-name } sco tes navigatur standard per avrir colliaziuns ed al fixescha en tia taskbar ed en il menu «Start».
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Actualiseschas ti prest Windows 10?
+windows-10-eos-sync-spotlight-subtitle = Segirescha tes pleds-clav e tes segnapaginas per che ti sajas pront da midar a mintga apparat.
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 

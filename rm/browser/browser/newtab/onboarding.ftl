@@ -445,10 +445,16 @@ onboarding-checklist-sign-up = Crear in conto u s’annunziar en tes conto
 
 tab-groups-onboarding-feature-callout-title = Emprova las gruppas da tabs per dapli urden e concentraziun
 tab-groups-onboarding-feature-callout-subtitle = Optimescha l’organisaziun cun trair in tab sin in auter per crear tia emprima gruppa.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Ti chattas tias gruppas da tabs adina en il menu «Glista da tut ils tabs».
 tab-groups-onboarding-create-group-title-2 = Ti chattas qua da tut temp tias gruppas da tabs.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Chatta tias gruppas cun las tschertgar en la trav d’adressas.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Cura che ti serras ina gruppa da tabs, la pos ti reavrir da tut temp en il menu «Glista da tut ils tabs».
 tab-groups-onboarding-saved-groups-title-2 = Sche ti serras ina gruppa da tabs, pos ti la reavrir qua da tut temp.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Chatta tias gruppas serradas cun las tschertgar en la trav d’adressas.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Reavra da tut temp tias gruppas da tabs en il menu «Glista da tut ils tabs».
 tab-groups-onboarding-session-restore-title = Reavra qua tias gruppas da tabs da tut temp.
 tab-groups-onboarding-dismiss = OK
 
@@ -471,3 +477,22 @@ dismiss-button-label = Serrar
 sync-to-mobile-button-label = Sincronisaziun cun apparats mobils
 desktop-to-mobile-qr-code-alt =
     .aria-label = Code QR per telechargiar { -brand-product-name } per apparats mobils
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Restaurar dad ina copia da segirezza
+restore-from-backup-title = Reconstruin il { -brand-short-name } che ta plascha
+restore-from-backup-subtitle = Recuperescha tut tes segnapaginas, la cronologia ed autras datas per reprender tia navigaziun.
+restore-from-backup-secondary-button = Betg restaurar
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Nus essan puspè qua! Las datas da { -brand-short-name } èn vegnidas restauradas.
+restored-from-backup-success-with-checklist-subtitle = Vuls ti che tes navigatur preferì che dat la prioritad a la sfera privata saja accessibel cun in clic?
+restored-from-backup-success-no-checklist-subtitle = Ti pos activar backups per quest apparat en ils <a data-l10n-name="settings">parameters</a>.
+restored-from-backup-success-with-checklist-primary-button = Memorisar e cuntinuar
+restored-from-backup-success-with-checklist-secondary-button = Sursiglir quest pass
+restored-from-backup-success-no-checklist-primary-button = Cuntinuar
+restored-from-backup-error-title = Hmm, igl ha dà in problem cun tia datoteca da backup.
+restored-from-backup-error-subtitle = Sche ti has in’autra datoteca da backup da { -brand-short-name }, emprova da restaurar cun agid da lezza. <a data-l10n-name="restore-problems">Na funcziuni anc adina betg?</a>
+restored-from-backup-error-primary-button = Serrar
