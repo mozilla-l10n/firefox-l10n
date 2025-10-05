@@ -386,6 +386,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Kenar çubuğunu kapat
     .aria-label = Kenar çubuğunu kapat
 pdfjs-editor-comments-sidebar-close-button-label = Kenar çubuğunu kapat
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Not almaya değer bir şey mi gördünüz? Onu işaretleyip yorum yazabilirsiniz.
 pdfjs-editor-comments-sidebar-no-comments-link = Daha fazla bilgi alın
 
 ## Alt-text dialog
