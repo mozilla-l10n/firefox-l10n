@@ -115,8 +115,15 @@ fxa-adoption-passwords-primary-button-label = Registriĝi
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Tenu viajn plej ŝatatajn kanalojn en via taska ilaro
-taskbar-tabs-social-callout-subtitle = Lanĉi viajn sociretajn retejojn kiel programon en simpligita fenestro, protektita de { -brand-short-name }.
+taskbar-tabs-social-callout-subtitle = Lanĉu viajn sociretajn retejojn kiel programon en simpligita fenestro, protektita de { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Retbabilu el via taska ilaro
+taskbar-tabs-chat-callout-subtitle = Lanĉu viajn retbabilajn retejojn kiel programon en simpligita fenestro, protektita de { -brand-short-name }.
+taskbar-tabs-email-callout-title = Tenu vian retpoŝton en via taska ilaro
+taskbar-tabs-email-callout-subtitle = Lanĉu vian retpoŝtan retejon kiel programon en simpligita fenestro, protektita de { -brand-short-name }.
+taskbar-tabs-media-callout-title = Reiru al la elsendfluo el via taska ilaro
+taskbar-tabs-media-callout-subtitle = Lanĉu viajn elsendfluajn retejojn kiel programon en simpligita fenestro, protektita de { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Aldoni tiun ĉi retejon al via taska ilaro
+taskbar-tabs-value-prop-callout-subtitle = Lanĉu ĝin en aparta propra fenestro kun simpligita fasado, per unu alklako.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -137,6 +144,8 @@ windows-10-eos-sync-tour-title-1 = Ĉu tro multe da langetoj? Aranĝu ilin per g
 windows-10-eos-sync-tour-subtitle-1 = Trenu langeton sur alia por krei grupon kaj organizi aferojn.
 windows-10-eos-sync-tour-title-2 = Prepariĝu por Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Spegulu viajn legosignojn, pasvortojn kaj agordojn por havi sekurkopion antaŭ ol vi transiras al la nova sistemo.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Montri malpli da rekomendoj
 windows-10-eos-sync-dismiss-button-label = Ignori
 windows-10-eos-sync-callout-primary-advance-button-label = Antaŭen
 

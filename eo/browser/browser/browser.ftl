@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Privata retumo
+popups-infobar-dont-show-message2 =
+    .label = Ne montri tiun ĉi mesaĝon kiam ŝprucaĵoj aŭ redirektoj de aliaj retejoj estas blokitaj
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Administri agordojn pri ŝprucaĵoj kaj redirektoj de aliaj retejoj…
+    .accesskey = A
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Vi blokis dividon de la ekrano por tiu retejo.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Vi blokis la daŭran konservejon por ĉi tiu retejo.
+urlbar-popup-blocked2 =
+    .tooltiptext = Vi blokis ŝprucaĵojn kaj redirektojn de aliaj en tiu ĉi retejo.
 urlbar-popup-blocked =
     .tooltiptext = Vi blokis ŝprucfenestrojn por tiu ĉi retejo.
 urlbar-autoplay-media-blocked =
@@ -1170,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloki ŝprucfenestrojn por { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Permesi ŝprucaĵojn kaj redirektoj de aliaj por { $uriHost }
+    .accesskey = P
 
 ##
 
@@ -1334,6 +1345,7 @@ firefox-relay-offer-why-to-use-relay = Niaj sekuraj kaj facile uzeblaj maskoj pr
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Ĉiuj retpoŝtaj mesaĝoj senditaj al viaj retpoŝtaj maskoj estos plusenditaj al <strong>{ $useremail }</strong> (krom se vi decidas ilin bloki).
 firefox-relay-offer-legal-notice = Se vi alklakas "Uzi retpoŝtan maskon" vi akceptas la <label data-l10n-name="tos-url">kondiĉojn de uzo</label> kaj <label data-l10n-name="privacy-url">rimarkon pri privateco</label>.
+firefox-relay-offer-legal-notice-1 = Se vi kreas konton kaj retpoŝtan maskon vi akceptas la <label data-l10n-name="tos-url">kondiĉojn de uzo</label> kaj <label data-l10n-name="privacy-url">rimarkon pri privateco</label>.
 
 ## Add-on Pop-up Notifications
 
