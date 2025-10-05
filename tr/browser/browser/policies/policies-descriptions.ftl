@@ -119,6 +119,7 @@ policy-PostQuantumKeyAgreementEnabled = TLS için post-quantum anahtar anlaşmas
 policy-PDFjs = Dahili { -brand-short-name } PDF görüntüleyicisi olan PDF.js’i devre dışı bırak veya yapılandır.
 policy-Permissions2 = Kamera, mikrofon, konum, bildirim ve otomatik oynatma izinlerini yapılandır.
 policy-PictureInPicture = Görüntü içinde görüntü özelliğini aç veya kapat.
+policy-PopupBlocking2 = Belirli sitelerin açılır pencere göstermesine ve üçüncü taraf çerçeveler tarafından yeniden yönlendirilmesine izin ver.
 policy-PopupBlocking = Belirli web sitelerin varsayılan olarak açılır pencere açmasına izin ver.
 policy-Preferences = Bir tercihler alt kümesinin değerini ayarlayıp kilitle.
 policy-PrivateBrowsingModeAvailability = Gizli gezinti modunun kullanılabilirliğini ayarla.

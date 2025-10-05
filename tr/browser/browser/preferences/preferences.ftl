@@ -1198,6 +1198,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = İstisnaları yönet…
     .accesskey = İ
+sitedata-cookies-exceptions2 =
+    .label = İstisnaları yönet
+    .accesskey = s
+    .description = Hangi sitelerin çerezleri ve site verilerini her zaman kullanabileceğini veya hiçbir zaman kullanamayacağını belirleyebilirsiniz.
 
 ## Privacy Section - Cookie Banner Handling
 

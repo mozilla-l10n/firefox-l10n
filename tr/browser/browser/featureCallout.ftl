@@ -120,6 +120,7 @@ taskbar-tabs-chat-callout-title = Görev çubuğunuzdan sohbet edin
 taskbar-tabs-chat-callout-subtitle = Sohbet sitelerini { -brand-short-name } güvencesiyle korunan yalın bir pencerede uygulama gibi açabilirsiniz.
 taskbar-tabs-email-callout-title = E-postanızı görev çubuğunuzda tutun
 taskbar-tabs-email-callout-subtitle = Web tabanlı e-postalarınızı { -brand-short-name } güvencesiyle korunan yalın bir pencerede uygulama gibi açabilirsiniz.
+taskbar-tabs-media-callout-title = Görev çubuğunuzdan videolarınıza geri dönün
 taskbar-tabs-media-callout-subtitle = Video yayın sitelerini { -brand-short-name } güvencesiyle korunan daha yalın bir pencerede açabilirsiniz.
 taskbar-tabs-value-prop-callout-title = Bu siteyi görev çubuğunuza ekleyin
 taskbar-tabs-value-prop-callout-subtitle = Tek tıklamayla kendi penceresinde ve basitleştirilmiş bir arayüzde başlatın.

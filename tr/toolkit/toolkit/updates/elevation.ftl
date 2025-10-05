@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Bir daha gösterme
     .accesskey = B
 sandbox-unprivileged-namespaces-howtofix = Bu sorunu nasıl çözebilirim?
+sandbox-content-disabled-warning = Güvenlik sanal alanı devre dışı. Yapılandırmanız desteklenmiyor ve yeterince güvenli değil.

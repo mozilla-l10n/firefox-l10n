@@ -98,6 +98,7 @@ permissions-exceptions-https-only-desc2 = Belirli web siteleri için yalnızca H
 permissions-exceptions-popup-window3 =
     .title = İzin Verilen Siteler - Açılır Pencereler ve Üçüncü Taraf Yönlendirmeleri
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Hangi sitelerin açılır pencere gösterebileceğini ve üçüncü taraf çerçeveler tarafından yeniden yönlendirilebileceğini belirleyebilirsiniz.
 
 ## Exceptions - Pop-ups
 
