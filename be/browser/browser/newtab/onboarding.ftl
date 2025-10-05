@@ -480,10 +480,13 @@ desktop-to-mobile-qr-code-alt =
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Аднавіць з рэзервовай копіі
+restore-from-backup-title = Давайце вернем { -brand-short-name } так, як вам падабаецца
+restore-from-backup-subtitle = Аднавіце ўсе свае закладкі, гісторыю і іншыя дадзеныя, каб вярнуцца да аглядання.
 restore-from-backup-secondary-button = Не аднаўляць
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Мы вярнуліся! Вашы дадзеныя { -brand-short-name } адноўлены.
 restored-from-backup-success-with-checklist-primary-button = Захаваць і працягнуць
 restored-from-backup-success-with-checklist-secondary-button = Прапусціць гэты крок
 restored-from-backup-success-no-checklist-primary-button = Працягнуць
