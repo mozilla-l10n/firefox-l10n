@@ -123,6 +123,7 @@ sidebar-menu-close-bookmarks-tooltip = Cerrar marcadores ({ $shortcut })
 
 sidebar-menu-open-ai-chatbot-tooltip-generic = Chatbot de IA abierta ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Abrir { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Cerrar el chatbot de IA ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Cerrar { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
