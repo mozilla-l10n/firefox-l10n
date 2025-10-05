@@ -131,3 +131,10 @@ tab-context-send-tabs-to-device =
            *[other] Trametter { $tabCount } tabs ad in apparat
         }
     .accesskey = n
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Stgargiar il tab
+           *[other] Unload { $tabCount } Tabs
+        }
+    .accesskey = S

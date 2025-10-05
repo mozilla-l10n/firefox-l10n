@@ -36,6 +36,17 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Stizzar
+edit-profile-page-avatar-selector-opener-link = Modifitgar
+avatar-selector-icon-tab = Icona
+avatar-selector-custom-tab = Persunalisà
+avatar-selector-cancel-button =
+    .label = Interrumper
+avatar-selector-save-button =
+    .label = Memorisar
+avatar-selector-upload-file = Transferir ina datoteca
+avatar-selector-drag-file = U tira ina datoteca nà qua
+avatar-selector-add-image = Agiuntar in maletg
+avatar-selector-crop = Retagliar
 edit-profile-page-no-name = Dà in num a quest profil per facilitar da chattar el pli tard. Ti al pos renumnar da tut temp.
 edit-profile-page-duplicate-name = Quest num da profil vegn gia duvrà. Emprova cun in auter num.
 edit-profile-page-profile-saved = Memorisà
@@ -84,6 +95,8 @@ profiles-light-theme = Cler
 profiles-dark-theme = Stgir
 # The default system theme
 profiles-system-theme = Sistem
+profiles-system-theme-title =
+    .title = Applitgar il design dal sistem
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Mellen da calendula
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -98,6 +111,7 @@ profiles-ocean-theme-2 = Blau dad ocean
 profiles-terracotta-theme-2 = Cotschen da quadrels
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verd da mistgel
+profiles-gray-theme = Grisch
 profiles-gray-theme-title =
     .title = Applitgar il design grisch
 profiles-yellow-theme = Mellen
@@ -163,6 +177,8 @@ heart-avatar-alt =
     .alt = Cor
 heart-rate-avatar-alt =
     .alt = Frequenza dal cor
+clock-avatar-alt =
+    .alt = Ura
 history-avatar-alt =
     .alt = Cronologia
 leaf-avatar-alt =
@@ -187,6 +203,8 @@ present-avatar-alt =
     .alt = Regal
 shopping-avatar-alt =
     .alt = Charret da cumpras
+soccer-ball-avatar-alt =
+    .alt = Ballape
 soccer-avatar-alt =
     .alt = Ballape
 sparkle-single-avatar-alt =
@@ -217,13 +235,41 @@ canvas-avatar = Taila
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Artisanadi
 custom-avatar = Avatar persunalisà
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Icona predefinida
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Flur
+folder-avatar = Ordinatur
+hammer-avatar = Martè
 heart-avatar = Cor
+heart-rate-avatar = Frequenza dal cor
+history-avatar = Cronologia
+leaf-avatar = Feglia
+lightbulb-avatar = Pair electric
+makeup-avatar = Bellet
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Messadi
+musical-note-avatar = Nota musicala
+palette-avatar = Paletta
+paw-print-avatar = Fastiz da toppa
+plane-avatar = Aviun
 shopping-avatar = Charret da cumpras
 star-avatar = Staila
 
 ## Tooltips for default avatar icons
 
+makeup-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal bellet
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal messadi
+musical-note-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da la nota musicala
+palette-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar da la paletta
+paw-print-avatar-tooltip =
+    .tooltiptext = Applitgar l’avatar dal fastiz da la toppa
 plane-avatar-tooltip =
     .tooltiptext = Applitgar l’avatar da l’aviun
 # Present refers to a gift box, not the current time period

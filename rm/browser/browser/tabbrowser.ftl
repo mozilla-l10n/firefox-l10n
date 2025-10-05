@@ -200,7 +200,7 @@ tabbrowser-tab-audio-playing-description = Reproducziun dad audio
 # Variables:
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
-    .label = Enumerar tut ils { $tabCount } tabs
+    .label = Glista da tut ils { $tabCount } tabs
 
 ## Tab manager menu buttons
 ## Variables:
@@ -255,6 +255,8 @@ tab-group-editor-color-selector2-gray = Grisch
 tab-group-editor-color-selector2-red = Cotschen
     .title = Cotschen
 tab-group-description = { $tabGroupName } – Gruppa da tabs
+tab-group-label-tooltip-collapsed = { $tabGroupName } — reducì
+tab-group-label-tooltip-expanded = { $tabGroupName } — extendì
 tab-context-unnamed-group =
     .label = Gruppa senza num
 tab-group-name-default = Gruppa senza num
@@ -275,6 +277,8 @@ tab-context-move-tab-to-group =
            *[other] Agiuntar ils tabs a la gruppa
         }
     .accesskey = g
+tab-context-move-tab-to-group-saved-groups =
+    .label = Gruppas serradas
 tab-group-editor-action-new-tab =
     .label = Nov tab en la gruppa
 tab-group-editor-action-new-window =
@@ -299,6 +303,16 @@ tab-context-ungroup-tab =
            *[other] Allontanar da las gruppas
         }
     .accesskey = A
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } ulteriur tab
+       *[other] { $tabCount } ulteriurs tabs
+    }
 
 ## Open/saved tab group context menu
 

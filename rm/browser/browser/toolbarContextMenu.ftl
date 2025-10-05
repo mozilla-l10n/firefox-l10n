@@ -59,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Mussar la panela cura che la telechargiada cumenza
     .accesskey = M
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Adina mussar en la trav d’utensils
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Allontanar da la trav d'utensils
     .accesskey = l

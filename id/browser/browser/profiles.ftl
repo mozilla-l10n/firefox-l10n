@@ -129,12 +129,27 @@ profiles-pink-theme-title =
 profiles-purple-theme = Ungu
 profiles-purple-theme-title =
     .title = Terapkan tema ungu
-profiles-violet-theme = Ungu
+profiles-violet-theme = Violet
 profiles-violet-theme-title =
-    .title = Terapkan tema ungu
+    .title = Terapkan tema violet
 profiles-blue-theme = Biru
+profiles-blue-theme-title =
+    .title = Terapkan tema biru
 profiles-green-theme = Hijau
+profiles-green-theme-title =
+    .title = Terapkan tema hijau
 profiles-cyan-theme = Sian
+profiles-cyan-theme-title =
+    .title = Terapkan tema sian
+profiles-custom-theme-title =
+    .title = Terapkan tema ubahan
+
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Lihat pengaturan
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Tutup
 
 ## Alternative text for default profile icons
 
@@ -142,6 +157,8 @@ book-avatar-alt =
     .alt = Buku
 briefcase-avatar-alt =
     .alt = Tas Kerja
+picture-avatar-alt =
+    .alt = Gambar
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Kanvas
@@ -158,6 +175,8 @@ heart-avatar-alt =
     .alt = Hati
 heart-rate-avatar-alt =
     .alt = Detak jantung
+clock-avatar-alt =
+    .alt = Jam
 history-avatar-alt =
     .alt = Riwayat
 leaf-avatar-alt =
@@ -171,18 +190,53 @@ message-avatar-alt =
     .alt = Pesan
 musical-note-avatar-alt =
     .alt = Not musik
+palette-avatar-alt =
+    .alt = Palet
+paw-print-avatar-alt =
+    .alt = Cetakan tapak kaki
+plane-avatar-alt =
+    .alt = Pesawat
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Hadiah
 shopping-avatar-alt =
     .alt = Keranjang belanja
+soccer-avatar-alt =
+    .alt = Sepak Bola
+sparkle-single-avatar-alt =
+    .alt = Berkilau
 star-avatar-alt =
     .alt = Bintang
 custom-avatar-alt =
     .alt = Avatar ubahan
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar-alt =
+    .alt = Favicon baku
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Berlian
+barbell-avatar-alt =
+    .alt = Barbel
+bike-avatar-alt =
+    .alt = Sepeda
 
 ## Tooltips for default avatar icons
 
 book-avatar = Buku
 briefcase-avatar = Tas Kerja
+# Canvas refers to an artist's painting canvas, not the general material
+canvas-avatar = Kanvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Kerajinan
+custom-avatar = Avatar ubahan
+# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+default-favicon-avatar = Favicon baku
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Berlian
 flower-avatar = Bunga
+folder-avatar = Folder
+hammer-avatar = Palu
 heart-avatar = Hati
+heart-rate-avatar = Detak jantung
 shopping-avatar = Keranjang belanja
 star-avatar = Bintang
