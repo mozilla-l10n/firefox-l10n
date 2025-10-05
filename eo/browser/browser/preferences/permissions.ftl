@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Vi povas malŝalti la HTTPS-nuran reĝimon por specifaj retejoj. { -brand-short-name } ne klopodos plibonigi la konekton pero uzo de HTTPS por tiuj retejoj. Esceptoj ne aplikeblas al privataj fenestroj.
 permissions-exceptions-https-only-desc2 = Vi povas malŝalti la HTTPS-nuran reĝimon por specifaj retejoj. { -brand-short-name } ne klopodos plibonigi la konekton pero uzo de HTTPS por tiuj retejoj.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Permesitaj retejoj - ŝprucaĵoj kaj redirektoj al aliaj retejoj
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Vi povas specifi, kiuj retejoj rajtas malfermi ŝprucaĵojn esti redirektitaj de kadroj de aliaj.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

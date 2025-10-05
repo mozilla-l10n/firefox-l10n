@@ -76,3 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = Tenu vian list
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantika serĉo en historio
+experimental-features-semantic-history-search-description = Uzi lokan modelon de maŝinlerno por sugesti elementojn el la historio kiu estas rilatitaj kun viaj serĉoj, bazita sur la kompreno de natura lingvo en la adresa strio de { -brand-product-name }. <a data-l10n-name="connect">Dividi komentojn</a>
