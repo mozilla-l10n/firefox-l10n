@@ -7,6 +7,8 @@ profile-window-body = Jaga pekerjaan dan penjelajahan pribadi Anda, termasuk hal
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Pilih profil saat { -brand-short-name } terbuka
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } akan terbuka ke profil yang terakhir Anda gunakan.
 profile-window-create-profile = Buat profil
 profile-card-edit-button =
     .title = Edit Profil
@@ -116,8 +118,23 @@ profiles-yellow-theme = Kuning
 profiles-yellow-theme-title =
     .title = Terapkan tema kuning
 profiles-orange-theme = Jingga
+profiles-orange-theme-title =
+    .title = Terapkan tema oranye
 profiles-red-theme = Merah
+profiles-red-theme-title =
+    .title = Terapkan tema merah
 profiles-pink-theme = Merah Jambu
+profiles-pink-theme-title =
+    .title = Terapkan tema merah muda
+profiles-purple-theme = Ungu
+profiles-purple-theme-title =
+    .title = Terapkan tema ungu
+profiles-violet-theme = Ungu
+profiles-violet-theme-title =
+    .title = Terapkan tema ungu
+profiles-blue-theme = Biru
+profiles-green-theme = Hijau
+profiles-cyan-theme = Sian
 
 ## Alternative text for default profile icons
 
@@ -128,14 +145,38 @@ briefcase-avatar-alt =
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Kanvas
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Kerajinan
 flower-avatar-alt =
     .alt = Bunga
+folder-avatar-alt =
+    .alt = Folder
+hammer-avatar-alt =
+    .alt = Palu
 heart-avatar-alt =
     .alt = Hati
+heart-rate-avatar-alt =
+    .alt = Detak jantung
+history-avatar-alt =
+    .alt = Riwayat
+leaf-avatar-alt =
+    .alt = Daun
+lightbulb-avatar-alt =
+    .alt = Bohlam
+makeup-avatar-alt =
+    .alt = Riasan
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Pesan
+musical-note-avatar-alt =
+    .alt = Not musik
 shopping-avatar-alt =
     .alt = Keranjang belanja
 star-avatar-alt =
     .alt = Bintang
+custom-avatar-alt =
+    .alt = Avatar ubahan
 
 ## Tooltips for default avatar icons
 
