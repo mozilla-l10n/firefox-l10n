@@ -101,4 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/>Dividi ret
 about-logging-upload-error = Eraro okazis dum alŝuto de profilo: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Eraro okazis dum konservo de alŝutita profilo: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Eraro okazis dum konservo de profilo: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profilo { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Alŝutitaj profiloj
+about-logging-no-uploaded-profiles = Neniu profilo alŝutita ĝis nun.
+about-logging-delete-uploaded-profile = Forigi
+about-logging-view-uploaded-profile = Montri profilon
+about-logging-delete-profile-confirm-title = Forigi profilon
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Ĉu vi certe volas forigi la profilon “{ $profileName }”? Tiu ĉi ago ne malfareblas.
+about-logging-deleting-profile = Forigo…

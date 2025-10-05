@@ -19,3 +19,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Ne montri denove
     .accesskey = N
 sandbox-unprivileged-namespaces-howtofix = Solvi tiun ĉi problemon
+sandbox-content-disabled-warning = La izola agento estas malaktiva. Via agordaro ne estas subtenata kaj ĝi estas mapli sekura.
