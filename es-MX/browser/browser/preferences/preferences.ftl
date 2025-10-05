@@ -1402,6 +1402,7 @@ collection-health-report-disabled2 = El reporte de datos está deshabilitado par
 collection-backlogged-crash-reports2 =
     .label = Enviar automáticamente informes de fallos
     .accesskey = c
+collection-backlogged-crash-reports-description = Esto ayuda a { -vendor-short-name } a diagnosticar y solucionar problemas con el navegador. Los informes pueden incluir datos personales o confidenciales.
 addon-recommendations =
     .label = Permitir que { -brand-short-name } haga recomendaciones personalizadas de extensiones
 addon-recommendations-link = Saber más
@@ -1467,12 +1468,17 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo solo HTTPS
+httpsonly-description3 = Sólo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
+httpsonly-learn-more2 = Cómo funciona HTTPS-Only
 httpsonly-description = HTTPS proporciona una conexión segura y cifrada entre { -brand-short-name } y los sitios web que visitas. La mayoría de los sitios web admiten HTTPS, y si el modo HTTPS-Only está habilitado, entonces { -brand-short-name } actualizará todas las conexiones a HTTPS.
 httpsonly-learn-more = Saber más
 httpsonly-radio-enabled =
     .label = Habilitar el modo solo HTTPS en todas las ventanas
 httpsonly-radio-enabled-pbm =
     .label = Habilitar el modo solo HTTPS solo en ventanas privadas
+httpsonly-radio-disabled3 =
+    .label = No habilitar el modo solo HTTPS
+    .description = { -brand-short-name } todavía puedes actualizar algunas conexiones
 httpsonly-radio-disabled =
     .label = No habilitar el modo solo HTTPS
 
