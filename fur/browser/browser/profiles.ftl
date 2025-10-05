@@ -245,6 +245,8 @@ default-favicon-avatar = Icone predefinide
 diamond-avatar = Diamant
 flower-avatar = Rose
 folder-avatar = Cartele
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globi
 hammer-avatar = Martiel
 heart-avatar = Cûr
 heart-rate-avatar = Frecuence cardiache
@@ -257,15 +259,62 @@ message-avatar = Messaç
 musical-note-avatar = Note musicâl
 palette-avatar = Palete
 paw-print-avatar = Olme di çate
+picture-avatar = Cuadri
 plane-avatar = Avion
 # Present refers to a gift box, not the current time period
 present-avatar = Regâl
 shopping-avatar = Carel de spese
+soccer-ball-avatar = Balon
 soccer-avatar = Balon
 sparkle-single-avatar = Faliscje
 star-avatar = Stele
 video-game-controller-avatar = Controller par video zûcs
 custom-avatar-crop-back-button =
     .aria-label = Indaûr
+custom-avatar-crop-view =
+    .aria-label = Viodude ritai imagjin
+custom-avatar-crop-area =
+    .aria-label = Regole la aree di ritai
+custom-avatar-drag-handle =
+    .aria-label = Ridimensione la aree di ritai
 barbell-avatar = Belancîr
 bike-avatar = Biciclete
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Dopre la icone belancîr
+bike-avatar-tooltip =
+    .tooltiptext = Dopre la icone biciclete
+book-avatar-tooltip =
+    .tooltiptext = Dopre la icone libri
+briefcase-avatar-tooltip =
+    .tooltiptext = Dopre la icone valisute
+picture-avatar-tooltip =
+    .tooltiptext = Dopre la icone cuadri
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Dopre la icone artesanât
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Dopre la icone globi
+diamond-avatar-tooltip =
+    .tooltiptext = Dopre la icone diamant
+flower-avatar-tooltip =
+    .tooltiptext = Dopre la icone rose
+folder-avatar-tooltip =
+    .tooltiptext = Dopre la icone cartele
+hammer-avatar-tooltip =
+    .tooltiptext = Dopre la icone martiel
+heart-avatar-tooltip =
+    .tooltiptext = Dopre la icone cûr
+heart-rate-avatar-tooltip =
+    .tooltiptext = Dopre la icone frecuence cardiache
+clock-avatar-tooltip =
+    .tooltiptext = Dopre la icone orloi
+leaf-avatar-tooltip =
+    .tooltiptext = Dopre la icone fuee
+lightbulb-avatar-tooltip =
+    .tooltiptext = Dopre la icone lampadine
+makeup-avatar-tooltip =
+    .tooltiptext = Dopre la icone sbelet

@@ -356,9 +356,29 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Endrizza tes navigatur pref
 
 windows-10-eos-sync-spotlight-title = Actualiseschas ti prest Windows 10?
 windows-10-eos-sync-spotlight-subtitle = Segirescha tes pleds-clav e tes segnapaginas per che ti sajas pront da midar a mintga apparat.
+windows-10-eos-sync-spotlight-primary-label = Segirescha tes { -brand-short-name }
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Actualiseschas ti a Windows 11? Betg perda tes segnapaginas e tes pleds-clav.
+windows-10-eos-sync-toast-subtitle = Segirescha tias datas per che { -brand-short-name } saja da tut temp pront per il diever, sin quest computer e sin il proxim.
+windows-10-eos-sync-toast-primary-label = Cumenzar
+windows-10-eos-sync-toast-secondary-label = Ma regurdar pli tard
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } n’è betg preinstallà sco ils navigaturs da concerns da tecnologia. Quai è il punct.
+windows-10-eos-challenger-sync-callout-subtitle = Sche ti segireschas tes segnapaginas e tes pleds-clav da { -brand-product-name }, èsi pli simpel da midar cun il navigatur che ti has tschernì sin tes nov apparat.
+windows-10-eos-challenger-pin-callout-subtitle = Fixescha { -brand-shorter-name } en tia taskbar per ch’il navigatur che ti has tschernì saja adina per mauns cura che ti al dovras.
+windows-10-eos-challenger-sync-primary-button = Segirar { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blochescha criptominiers, fastizaders da social media ed improntaders.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Fastizaders na pon betg identifitgar tes apparat u ta persequitar en il web – perquai che nus n’als dain betg la pussaivladad.
+windows-10-eos-sync-callout-privacy-screen-2-title = Segirescha tes pleds-clav e tes segnapaginas per tes proxim apparat.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Cun segirar { -brand-shorter-name } daventi simpel da prender tias datas e tes parameters per la protecziun da datas cun tai.
+windows-10-eos-sync-callout-privacy-info-button = Vesair tge che vegn bloccà
+windows-10-eos-callout-addons-title = Emprova supplements: simplas actualisaziuns, gronds resultats
+windows-10-eos-callout-addons-subtitle = Questas extensiuns èn vegnidas selecziunadas per ta gidar a restar productiv, protegì e concentrà.
 windows-10-eos-callout-addons-primary-button = Scuvrir nossa selecziun
 windows-10-eos-sync-callout-addons-title = Betg perda tes supplements cura che ti actualiseschas Windows 10.
 windows-10-eos-sync-callout-addons-subtitle = Sincronisescha ussa per ch’ils supplements da { -brand-product-name } stettian adina a disposiziun, era suenter avair midà apparat.

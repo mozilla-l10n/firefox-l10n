@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Dir a websites da betg vender u cundivider mias datas
     .accesskey = s
 non-technical-privacy-header = Preferenzas per la protecziun da datas da websites
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -254,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Stgir
     .title = Utilisar ina apparientscha stgira per il fund davos ed il cuntegn da websites.
+web-appearance-group =
+    .aria-label = Apparientscha da websites
 preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Cler
 preferences-web-appearance-choice-dark = Stgir
@@ -269,6 +273,10 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Tes parameters da controlla dal cuntrast modifitgeschan aspects da l’apparientscha da websites.
 preferences-web-appearance-link =
     .label = Administrescha ils designs da { -brand-short-name } en Extensiuns e designs
 # This can appear when using windows HCM or "Override colors: always" without
@@ -368,6 +376,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Adina dumandar nua ch'ina datoteca duai vegnir memorisada
     .accesskey = A
+download-private-browsing-delete =
+    .label = Stizzar las datotecas telechargiadas en il modus privat cura che tut las fanestras privatas èn serradas
+    .accesskey = d
 applications-header = Applicaziuns
 applications-description = Tscherna co che { -brand-short-name } duai tractar las datotecas che ti telechargias dal web u las applicaziuns che ti utiliseschas durant navigar.
 applications-filter =
@@ -522,6 +533,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Navigaziun
+browsing-group-label =
+    .aria-label = Navigaziun
 browsing-use-autoscroll =
     .label = Activar la defilada automatica
     .accesskey = o
@@ -656,6 +669,14 @@ home-prefs-weather-header =
     .label = Aura
 home-prefs-weather-description = La previsiun da l’aura actuala en in’egliada
 home-prefs-weather-learn-more-link = Ulteriuras infurmaziuns
+home-prefs-trending-search-header =
+    .label = Tschertgas frequentas
+home-prefs-trending-search-description = Temas populars e tschertgads frequentamain
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Sustegnair { -brand-product-name }
+home-prefs-mission-message = Noss sponsurs sustegnan noss engaschi per crear in meglier web
+home-prefs-mission-message-learn-more-link = Vegnir a savair co quai va
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -724,6 +745,9 @@ search-remove-engine =
 search-add-engine =
     .label = Agiuntar
     .accesskey = A
+search-edit-engine =
+    .label = Modifitgar
+    .accesskey = M
 search-find-more-link = Chattar ulteriuras maschinas da tschertgar
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -732,6 +756,13 @@ search-keyword-warning-title = Duplitgar il pled magic
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ti has tschernì in pled magic che vegn gia utilisà da "{ $name }". Tscherna per plaschair in auter.
 search-keyword-warning-bookmark = Ti has tschernì in pled magic che vegn gia utilisà d'in segnapagina. Tscherna per plaschair in auter.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Igl exista gia ina maschina da tschertgar cun il num «{ $name }». Tscherna per plaschair in auter num.
+remove-engine-confirmation = Vuls ti propi allontanar questa maschina da tschertgar?
+remove-engine-remove = Allontanar
+remove-addon-engine-alert = Per allontanar questa maschina da tschertgar, allontanescha il supplement associà.
 
 ## Containers Section
 
@@ -1042,6 +1073,28 @@ autofill-saved-payment-methods-button = Metodas da pajament memorisadas
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Pretender l’endataziun da las datas d’annunzia da l’apparat per laschar endatar automaticamain metodas da pajament e per las administrar
     .accesskey = o
+autofill-payment-methods-title = Metodas da pajament
+autofill-payment-methods-header =
+    .aria-label = Metodas da pajament
+autofill-payment-methods-checkbox-message-2 =
+    .label = Memorisar ed endatar automaticamain las datas da pajament
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Administrar la metodas da pajament
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Pretender l’endataziun da las datas d’annunzia da l’apparat per laschar endatar automaticamain metodas da pajament e per las administrar
+    .accesskey = o
+autofill-addresses-title = Adressas e dapli
+autofill-addresses-header =
+    .aria-label = Adressas e dapli
+autofill-addresses-checkbox-message =
+    .label = Memorisar ed endatar automaticamain las adressas
+    .accesskey = s
+autofill-addresses-manage-addresses-button =
+    .label = Administrar las adressas e dapli
+    .accesskey = m
 
 ## Privacy Section - History
 
@@ -1114,6 +1167,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Fastizaders tranter websites
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cookies che fastizeschan tranter websites
+sitedata-option-block-cross-site-cookies2 =
+    .label = Isolar cookies interpaginals
 sitedata-option-block-cross-site-cookies =
     .label = Cookies che fastizeschan tranter websites ed isolar tschels cookies interpaginals
 sitedata-option-block-unvisited =
@@ -1238,6 +1293,7 @@ content-blocking-private-windows = Cuntegn che fastizescha en fanestras privatas
 content-blocking-cross-site-cookies-in-all-windows2 = Cookies interpaginals en tut las fanestras
 content-blocking-cross-site-tracking-cookies = Cookies che fastizeschan tranter websites
 content-blocking-all-cross-site-cookies-private-windows = Cookies interpaginals en fanestras privatas
+content-blocking-isolate-cross-site-cookies = Isolar cookies interpaginals
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies che fastizeschan tranter paginas ed isolar ils cookies restants
 content-blocking-social-media-trackers = Fastizaders da raits socialas
 content-blocking-all-cookies = Tut ils cookies

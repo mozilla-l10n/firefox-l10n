@@ -190,6 +190,10 @@ permissions-site-localhost-disable-desc = Quai impedescha che tut las websites b
 permissions-site-local-network-window =
     .title = Parameters – Apparats da la rait locala
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = Questas websites han dumandà l’access ad apps e servetschs sin apparats connectads cun tia rait WLAN locala. Ti pos permetter u bloccar l’access per tschertas websites.
+permissions-site-local-network-disable-label =
+    .label = Bloccar las novas dumondas d’acceder ad apps ed a servetschs sin apparats connectads cun tia rait WLAN u cun tia rait locala.
+permissions-site-local-network-disable-desc = Quai impedescha che tut las websites betg enumeradas survart possian dumandar l’access ad apps e servetschs sin apparats connectads cun tes WLAN u cun tia rait locala. Quai po avair per consequenza che tschertas parts da websites na funcziunan betg endretg.
 
 ## Site Permissions - Microphone
 
