@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Itxi
+do-not-track-removal2 =
+    .label = Jada ez dugu onartzen "Do Not Track" seinalea
 
 ## Browser Restart Dialog
 
@@ -1349,6 +1351,9 @@ privacy-segmentation-radio-off =
     .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

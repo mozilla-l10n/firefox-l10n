@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Mbylleni
+do-not-track-removal2 =
+    .label = S’e mbulojmë më sinjalin “Mos Më Gjurmoni”
 
 ## Browser Restart Dialog
 

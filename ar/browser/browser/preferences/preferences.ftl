@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = أغلق
+do-not-track-removal2 =
+    .label = لم نعد ندعم إشارة "لا تتعقبني"
 
 ## Browser Restart Dialog
 

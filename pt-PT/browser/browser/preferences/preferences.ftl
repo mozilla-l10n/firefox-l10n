@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Fechar
+do-not-track-removal2 =
+    .label = Nós já não suportamos o sinal “Do Not Track”
 
 ## Browser Restart Dialog
 

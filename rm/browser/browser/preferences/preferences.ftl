@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Serrar
+do-not-track-removal2 =
+    .label = Nus na sustegnain betg pli il signal «Betg ma fastizar»
 
 ## Browser Restart Dialog
 

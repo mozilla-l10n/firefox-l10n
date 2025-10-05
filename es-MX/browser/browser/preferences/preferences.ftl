@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Cerrar
+do-not-track-removal2 =
+    .label = Ya no admitimos la señal “No rastrear”
 
 ## Browser Restart Dialog
 
