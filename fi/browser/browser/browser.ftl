@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Yksityinen selaus
+popups-infobar-dont-show-message2 =
+    .label = Älä näytä tätä viestiä, kun ponnahdusikkunat tai kolmannen osapuolen uudelleenohjaukset on estetty
+    .accesskey = d
+edit-popup-settings2 =
+    .label = Hallitse ponnahdusikkunoiden ja kolmannen osapuolen uudelleenohjausten asetuksia…
+    .accesskey = m
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Olet estänyt tämän sivuston jakamasta näyttöäsi.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Olet estänyt pysyvän tallennustilan käytön tältä sivustolta.
+urlbar-popup-blocked2 =
+    .tooltiptext = Olet estänyt ponnahdusikkunat ja kolmannen osapuolen uudelleenohjaukset tällä verkkosivustolla.
 urlbar-popup-blocked =
     .tooltiptext = Olet estänyt ponnahdusikkunat tältä sivustolta.
 urlbar-autoplay-media-blocked =
@@ -1171,6 +1179,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Estä ponnahdusikkunat osoitteesta { $uriHost }
     .accesskey = S
+popups-infobar-allow2 =
+    .label = Salli ponnahdusikkunat ja kolmannen osapuolen uudelleenohjaukset sivustolle { $uriHost }
+    .accesskey = p
 
 ##
 
@@ -1335,6 +1346,7 @@ firefox-relay-offer-why-to-use-relay = Turvalliset ja helppokäyttöiset maskit 
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Kaikki sähköpostimaskeihisi lähetetyt sähköpostit välitetään edelleen osoitteeseen <strong>{ $useremail }</strong> (ellet päätä estää saapuvia viestejä).
 firefox-relay-offer-legal-notice = Napsauttamalla “Käytä sähköpostimaskia” hyväksyt <label data-l10n-name="tos-url">käyttöehdot</label> ja <label data-l10n-name="privacy-url">tietosuojakäytännön</label>.
+firefox-relay-offer-legal-notice-1 = Rekisteröitymällä ja luomalla sähköpostimaskin hyväksyt <label data-l10n-name="tos-url">käyttöehdot</label> ja <label data-l10n-name="privacy-url">tietosuojakäytännön</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1361,10 +1373,26 @@ popup-warning-message =
         [one] { -brand-short-name } esti tätä sivustoa avaamasta ponnahdusikkunaa.
        *[other] { -brand-short-name } esti tätä sivustoa avaamasta { $popupCount } ponnahdusikkunaa.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } esti tätä sivustoa uudelleenohjaamasta.
+        [1] { -brand-short-name } esti tätä sivustoa avaamasta ponnahdusikkunaa ja uudelleenohjaamasta.
+        [one] { -brand-short-name } esti tätä sivustoa avaamasta { $popupCount } ponnahdusikkunaa ja uudelleenohjaamasta.
+       *[other] { -brand-short-name } esti tätä sivustoa avaamasta { $popupCount } ponnahdusikkunaa ja uudelleenohjaamasta.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } esti tätä sivustoa avaamasta enemmän kuin { $popupCount } ponnahdusikkunaa.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } esti tätä sivustoa avaamasta yli { $popupCount } ponnahdusikkunaa ja uudelleenohjaamasta.
+       *[other] { -brand-short-name } esti tätä sivustoa avaamasta yli { $popupCount } ponnahdusikkunaa ja uudelleenohjaamasta.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1430,6 +1458,7 @@ trustpanel-etp-description-disabled = { -brand-product-name } on sitä mieltä, 
 trustpanel-connection-label-secure = Yhteys on suojattu
 trustpanel-connection-label-insecure = Yhteys ei ole suojattu
 trustpanel-header-enabled = { -brand-product-name } on valppaana
+trustpanel-description-enabled2 = Olet suojattu. Jos havaitsemme jotain, ilmoitamme sinulle.
 trustpanel-header-enabled-insecure = Ole varovainen tällä sivustolla
 trustpanel-description-enabled-insecure = { -brand-product-name } huomasi jotain epäilyttävää.
 trustpanel-description-enabled = Olet suojattu. Jos havaitsemme jotain, ilmoitamme sinulle
