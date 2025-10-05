@@ -1372,6 +1372,14 @@ popup-warning-message =
         [one] { -brand-short-name } ne permesis al tiu ĉi retejo malfermi ŝprucfenestron.
        *[other] { -brand-short-name } ne permesis al tiu ĉi retejo malfermi { $popupCount } ŝprucfenestrojn.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } blokis redirekton de tiu ĉi retejo.
+        [1] { -brand-short-name } blokis malfermon de ŝprucaĵo kaj redirekton de tiu ĉi retejo.
+       *[other] { -brand-short-name } prevented this site from opening { $popupCount } pop-up windows and redirecting.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
