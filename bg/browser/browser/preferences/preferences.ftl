@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Затваряне
+do-not-track-removal2 =
+    .label = Вече не поддържаме сигнала „Без проследяване“.
 
 ## Browser Restart Dialog
 
