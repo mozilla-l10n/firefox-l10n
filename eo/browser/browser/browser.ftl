@@ -1376,14 +1376,21 @@ popup-warning-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 redirect-warning-with-popup-message =
     { $popupCount ->
-        [0] { -brand-short-name } blokis redirekton de tiu ĉi retejo.
-        [1] { -brand-short-name } blokis malfermon de ŝprucaĵo kaj redirekton de tiu ĉi retejo.
-       *[other] { -brand-short-name } prevented this site from opening { $popupCount } pop-up windows and redirecting.
+        [0] { -brand-short-name } malpermesis al tiu ĉi retejo redirekton.
+        [1] { -brand-short-name } malpermesis al tiu ĉi retejo malfermon de ŝprucaĵo kaj redirekton.
+       *[other] { -brand-short-name } malpermesis al tiu ĉi retejo malfermon de { $popupCount } ŝprucaĵojn kaj redirektojn.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } malpermesis al tiu ĉi retejo malfermi pli ol { $popupCount } ŝprucfenestrojn.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } malpermesis al tiu ĉi retejo malfermon de pli ol { $popupCount } ŝprucaĵojn kaj redirektojn.
+       *[other] { -brand-short-name } malpermesis al tiu ĉi retejo malfermon de pli ol { $popupCount } ŝprucaĵojn kaj redirektojn.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1399,6 +1406,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Montri '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Montri “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1445,6 +1456,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } konsideras ke entr
 trustpanel-connection-label-secure = Sekura konekto
 trustpanel-connection-label-insecure = Nesekura konekto
 trustpanel-header-enabled = { -brand-product-name } staras garde
+trustpanel-description-enabled2 = Vi estas protektita. Se ni malkovras ion, ni sciigos vin.
+trustpanel-header-enabled-insecure = Estu singarda en tiu ĉi retejo
+trustpanel-description-enabled-insecure = { -brand-product-name } rimarkis ion suspektindan.
 trustpanel-description-enabled = Vi estas protektita. Se ni malkovras ion, ni sciigos vin
 trustpanel-header-disabled = Vi malŝaltis protektojn
 trustpanel-description-disabled = { -brand-product-name } ne deĵoras. Ni sugestas reaktivigi protektojn.
