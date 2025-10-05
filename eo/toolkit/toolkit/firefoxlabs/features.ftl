@@ -73,3 +73,6 @@ experimental-features-newtab-widget-timer-description = Metu tempumilon por rest
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listoj kaj tempumiloj en { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Tenu vian liston de farendaĵoj ĉekape kiam vi malfermas novan langeton. Ĉu temas pri paklistoj ĉu pri aĉetumlistoj, planu per { -brand-product-name }. Metu tempumilon por resti koncentrita, malhelpi devojiĝon aŭ memorigi ke estas tempo paŭzi. <a data-l10n-name="connect">Dividi komentojn</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantika serĉo en historio
