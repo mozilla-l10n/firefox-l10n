@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Ачысціць
 text-action-highlight-selection =
     .label = Падфарбаваць вылучэнне
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Дадаць каментарый да вылучэння
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Каментаваць вылучанае
