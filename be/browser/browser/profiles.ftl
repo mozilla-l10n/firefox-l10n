@@ -144,12 +144,23 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Ужыць уласную тэму
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Налады збору дадзеных зменены.</strong> Змены, зробленыя ў іншым профілі, прымяняюцца да ўсіх профіляў на гэтай прыладзе.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Паглядзець налады
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Адхіліць
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Кніга
 briefcase-avatar-alt =
     .alt = Партфель
+picture-avatar-alt =
+    .alt = Выява
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Палатно
@@ -166,6 +177,8 @@ heart-avatar-alt =
     .alt = Сэрца
 heart-rate-avatar-alt =
     .alt = Частата пульсу
+clock-avatar-alt =
+    .alt = Гадзіннік
 history-avatar-alt =
     .alt = Гісторыя
 leaf-avatar-alt =
@@ -190,6 +203,8 @@ present-avatar-alt =
     .alt = Падарунак
 shopping-avatar-alt =
     .alt = Кошык
+soccer-ball-avatar-alt =
+    .alt = Футбольны мяч
 soccer-avatar-alt =
     .alt = Футбол
 sparkle-single-avatar-alt =
@@ -200,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = Кантролер для відэагульняў
 custom-avatar-alt =
     .alt = Уласны аватар
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Глобус
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Тыповы значок сайта
@@ -261,3 +279,36 @@ custom-avatar-drag-handle =
     .aria-label = Змяніць памер вобласці абрэзкі
 barbell-avatar = Штанга
 bike-avatar = Веласіпед
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Ужыць аватар са штангай
+bike-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з байкам
+book-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з кнігай
+briefcase-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з партфелем
+picture-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з выявай
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з апаратам
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з глобусам
+diamond-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з дыяментам
+flower-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з кветкай
+folder-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з папкай
+hammer-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з малатком
+heart-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з сэрцам
+heart-rate-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з пульсам
+clock-avatar-tooltip =
+    .tooltiptext = Ужыць аватар з гадзіннікам
