@@ -481,3 +481,10 @@ desktop-to-mobile-qr-code-alt =
 
 restore-from-backup-secondary-top-button = Przywróć z kopii zapasowej
 restore-from-backup-title = Wróćmy do { -brand-short-name(case: "gen") } takiego, jak lubisz
+restore-from-backup-subtitle = Odzyskaj wszystkie swoje zakładki, historię i inne dane, aby wrócić do przeglądania.
+restore-from-backup-secondary-button = Nie przywracaj
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Wróciliśmy! Twoje dane { -brand-short-name(case: "gen") } zostały przywrócone.
+restored-from-backup-success-with-checklist-subtitle = Chcesz mieć swoją ulubioną przeglądarkę dbającą o prywatność pod jednym kliknięciem?
