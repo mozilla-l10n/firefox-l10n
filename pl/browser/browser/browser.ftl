@@ -1383,6 +1383,16 @@ popup-warning-message =
         [few] { -brand-short-name } uniemożliwił tej witrynie otwarcie { $popupCount } wyskakujących okien.
        *[many] { -brand-short-name } uniemożliwił tej witrynie otwarcie { $popupCount } wyskakujących okien.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } uniemożliwił tej witrynie przekierowanie.
+        [1] { -brand-short-name } uniemożliwił tej witrynie otwarcie wyskakującego okna i przekierowanie.
+        [one] { -brand-short-name } uniemożliwił tej witrynie otwarcie wyskakującego okna i przekierowanie.
+        [few] { -brand-short-name } uniemożliwił tej witrynie otwarcie { $popupCount } wyskakujących okien i przekierowanie.
+       *[many] { -brand-short-name } uniemożliwił tej witrynie otwarcie { $popupCount } wyskakujących okien i przekierowanie.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1391,6 +1401,14 @@ popup-warning-exceeded-message =
         [one] { -brand-short-name } uniemożliwił tej witrynie otwarcie wyskakującego okna.
         [few] { -brand-short-name } uniemożliwił tej witrynie otwarcie więcej niż { $popupCount } wyskakujących okien.
        *[many] { -brand-short-name } uniemożliwił tej witrynie otwarcie więcej niż { $popupCount } wyskakujących okien.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } uniemożliwił tej witrynie otwarcie wyskakującego okna i przekierowanie.
+        [few] { -brand-short-name } uniemożliwił tej witrynie otwarcie więcej niż { $popupCount } wyskakujących okien i przekierowanie.
+       *[many] { -brand-short-name } uniemożliwił tej witrynie otwarcie więcej niż { $popupCount } wyskakujących okien i przekierowanie.
     }
 popup-warning-button =
     .label =
@@ -1404,9 +1422,9 @@ popup-warning-button =
            *[other] P
         }
 # Variables:
-#   $popupURI (String): the URI for the pop-up window
-popup-show-popup-menuitem =
-    .label = Wyświetl „{ $popupURI }”
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Otwórz „{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
