@@ -21,3 +21,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Nu mai afișa
     .accesskey = D
 sandbox-unprivileged-namespaces-howtofix = Cum se rezolvă
+sandbox-content-disabled-warning = Sandboxul de securitate este dezactivat. Configurația ta nu are suport și prezintă o securitate mai scăzută.

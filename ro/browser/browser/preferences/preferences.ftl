@@ -1144,7 +1144,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie-uri și date ale site-urilor
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Se calculează datele site-urilor și mărimea cache-ului…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Cookie-urile stocate, istoricul, datele despre site-uri și cache-ul folosesc acum <strong>{ $value } { $unit }</strong> de spațiu pe disc.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1181,6 +1187,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Toate cookie-urile intersite-uri (pot cauza întreruperi ale site-urilor web)
 sitedata-option-block-all =
     .label = Toate cookie-urile (va împiedica funcționarea corectă a site-urilor web)
+sitedata-clear2 =
+    .label = Șterge datele de navigare
+    .accesskey = l
+sitedata-settings2 =
+    .label = Gestionează datele de navigare
+    .accesskey = M
 sitedata-clear =
     .label = Șterge datele…
     .accesskey = l
@@ -1190,6 +1202,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gestionează excepțiile…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Gestionează excepțiile
+    .accesskey = x
+    .description = Poți specifica ce site-uri au întotdeauna permisiunea sau interdicția de a folosi cookie-uri și date despre site-uri.
 
 ## Privacy Section - Cookie Banner Handling
 

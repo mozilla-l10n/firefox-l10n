@@ -475,8 +475,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Treci pe Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Treci pe Celsius
 newtab-weather-menu-hide-weather = Ascunde vremea în fila nouă
 newtab-weather-menu-learn-more = Află mai multe
+newtab-weather-menu-detect-my-location = Detectează-mi locația
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Datele meteo nu sunt disponibile momentan.
+newtab-weather-opt-in-see-weather = Vrei să vezi vremea pentru locația ta?
+newtab-weather-opt-in-not-now =
+    .label = Nu acum
+newtab-weather-opt-in-yes =
+    .label = Da
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = New York City
 
 ## Topic Labels
 
