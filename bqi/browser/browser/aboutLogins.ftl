@@ -201,10 +201,18 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] پاک کردن
        *[other] پاک کردن پوی
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] پاک کردن { $count }  رزم ز پوی دسگا یل؟
+       *[other] پاک کردن پوی { $count }  رزم ز پوی دسگا یل؟
+    }
 
 ##
 
+about-logins-confirm-export-dialog-title = و در کشیڌن دووسمندیا و من ٱووڌن وو رزما
 about-logins-confirm-export-dialog-confirm-button = و در کشیڌن…
+about-logins-confirm-export-dialog-confirm-button2 = رئڌن وا پؽش سی و در کشیڌن
 about-logins-alert-import-title = و من ٱووردن دووسمندیا کامل وابی
 about-logins-alert-import-message = نشووݩ داڌن جۊزعیات و من ٱووردن دووسمندیا
 confirm-discard-changes-dialog-title = آلشتکاریا زفت نوابیڌه نیڌه گرؽڌه بۊن؟
@@ -251,6 +259,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = و من ٱووردن فایل و من ٱووڌنا
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = و من ٱووردن رزما و { -brand-short-name }
 about-logins-import-file-picker-import-button = و من ٱووردن
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

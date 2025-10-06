@@ -1539,6 +1539,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = ใบรับรอง
+certs-description = กำหนดค่าใบรับรองที่จะให้ { -brand-short-name } ใช้เพื่อยืนยันตัวตน
 certs-enable-ocsp =
     .label = สืบค้นเซิร์ฟเวอร์ตอบกลับ OCSP เพื่อยืนยันความถูกต้องของใบรับรองปัจจุบัน
     .accesskey = ฟ
