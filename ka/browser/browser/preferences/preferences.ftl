@@ -1146,7 +1146,7 @@ sitedata-total-size-calculating = ითვლება საიტის მ�
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = თქვენ მიერ შენახულ ფუნთუშებს, საიტის მონაცემებს, მარაგებს ამჟამად დისკზე უკავია { $value } { $unit } მოცულობა.
+sitedata-total-size2 = თქვენ მიერ შენახულ ფუნთუშებს, საიტის მონაცემებს, მარაგებს ამჟამად დისკზე უკავია <strong>{ $value } { $unit }</strong> მოცულობა.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
