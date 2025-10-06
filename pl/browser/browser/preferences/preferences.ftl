@@ -259,6 +259,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Ciemny
     .title = Używaj ciemnego wyglądu teł i treści witryn.
+web-appearance-group =
+    .aria-label = Wygląd witryn internetowych
 preferences-web-appearance-choice-auto = Automatyczny
 preferences-web-appearance-choice-light = Jasny
 preferences-web-appearance-choice-dark = Ciemny
@@ -1075,6 +1077,15 @@ autofill-saved-payment-methods-button = Zachowane metody płatności
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Wymaganie zalogowania się na urządzeniu, aby wypełniać metody płatności i zarządzać nimi.
     .accesskey = W
+autofill-payment-methods-title = Metody płatności
+autofill-payment-methods-header =
+    .aria-label = Metody płatności
+autofill-payment-methods-checkbox-message-2 =
+    .label = Zachowywanie i automatyczne wypełnianie informacji płatniczych.
+    .accesskey = m
+autofill-payment-methods-manage-payments-button =
+    .label = Zarządzaj metodami płatności
+    .accesskey = Z
 
 ## Privacy Section - History
 

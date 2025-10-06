@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Określ, na których witrynach nie korzystać z trybu używania wyłącznie protokołu HTTPS. { -brand-short-name } nie będzie próbował przełączyć na zabezpieczone połączenie HTTPS na tych witrynach. Wyjątki nie są uwzględniane w oknach prywatnych.
 permissions-exceptions-https-only-desc2 = Określ, na których witrynach nie korzystać z trybu używania wyłącznie protokołu HTTPS. { -brand-short-name } nie będzie próbował przełączyć na zabezpieczone połączenie HTTPS na tych witrynach.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Wyskakujące okna i zewnętrzne przekierowania — uprawnione witryny
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Określ, które witryny mogą otwierać wyskakujące okna i być przekierowywane przez zewnętrzne ramki.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
