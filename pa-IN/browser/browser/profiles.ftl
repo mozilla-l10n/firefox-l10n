@@ -144,12 +144,21 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = ਪਸੰਦੀਦਾ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = ਸੈਟਿੰਗਾਂ ਨੂੁੰ ਵੇਖੋ
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = ਖ਼ਾਰਜ ਕਰੋ
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = ਕਿਤਾਬ
 briefcase-avatar-alt =
     .alt = ਅਟੈਚੀ
+picture-avatar-alt =
+    .alt = ਤਸਵੀਰ
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = ਕੈਨਵਸ
@@ -166,6 +175,8 @@ heart-avatar-alt =
     .alt = ਦਿਲ
 heart-rate-avatar-alt =
     .alt = ਦਿਲ ਦੀ ਧੜਕਨ
+clock-avatar-alt =
+    .alt = ਘੜੀ
 history-avatar-alt =
     .alt = ਅਤੀਤ
 leaf-avatar-alt =
@@ -190,6 +201,8 @@ present-avatar-alt =
     .alt = ਤੋਹਫ਼ਾ
 shopping-avatar-alt =
     .alt = ਖਰੀਦਦਾਰੀ ਕਾਰਟ
+soccer-ball-avatar-alt =
+    .alt = ਫੁੱਟਬਾਲ
 soccer-avatar-alt =
     .alt = ਫੁੱਟਬਾਲ
 sparkle-single-avatar-alt =
@@ -200,6 +213,9 @@ video-game-controller-avatar-alt =
     .alt = ਵੀਡੀਓ ਗੇਮ ਕੰਟਰੋਲਰ
 custom-avatar-alt =
     .alt = ਪਸੰਦੀਦਾ ਅਵਤਾਰ
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = ਗਲੋਬ
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = ਮੂਲ ਫੇਵੀਕੌਨ
@@ -215,6 +231,7 @@ bike-avatar-alt =
 
 book-avatar = ਕਿਤਾਬ
 briefcase-avatar = ਅਟੈਚੀ
+clock-avatar = ਘੜੀ
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = ਕੈਨਵਸ
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +243,8 @@ default-favicon-avatar = ਮੂਲ ਫੇਵੀਕੌਨ
 diamond-avatar = ਹੀਰਾ
 flower-avatar = ਫੁੱਲ
 folder-avatar = ਫੋਲਡਰ
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = ਗਲੋਬ
 hammer-avatar = ਹਥੌੜਾ
 heart-avatar = ਦਿਲ
 heart-rate-avatar = ਦਿਲ ਦੀ ਧੜਕਨ
@@ -238,10 +257,12 @@ message-avatar = ਸੁਨੇਹਾ
 musical-note-avatar = ਸੰਗੀਤ ਦਾ ਨੋਡ
 palette-avatar = ਰੰਗ-ਪੱਟੀ
 paw-print-avatar = ਪੰਜਾ
+picture-avatar = ਤਸਵੀਰ
 plane-avatar = ਜਹਾਜ਼
 # Present refers to a gift box, not the current time period
 present-avatar = ਤੋਹਫ਼ਾ
 shopping-avatar = ਖਰੀਦਦਾਰੀ ਕਾਰਟ
+soccer-ball-avatar = ਫੁੱਟਬਾਲ
 soccer-avatar = ਫੁੱਟਬਾਲ
 sparkle-single-avatar = ਚਮਕ
 star-avatar = ਤਾਰਾ
@@ -256,3 +277,51 @@ custom-avatar-drag-handle =
     .aria-label = ਕਰੋਪ ਕਰਨ ਵਾਲੇ ਖੇਤਰ ਦਾ ਆਕਾਰ ਬਦਲੋ
 barbell-avatar = ਬਾਰਬੈੱਲ
 bike-avatar = ਸਾਈਕਲ
+
+## Tooltips for default avatar icons
+
+bike-avatar-tooltip =
+    .tooltiptext = ਸਾਈਕਲ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+book-avatar-tooltip =
+    .tooltiptext = ਕਿਤਾਬ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+briefcase-avatar-tooltip =
+    .tooltiptext = ਟੈਚੀ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+picture-avatar-tooltip =
+    .tooltiptext = ਤਸਵੀਰ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = ਕਲਾਕਾਰੀ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = ਗਲੋਬ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+diamond-avatar-tooltip =
+    .tooltiptext = ਹੀਰੇ ਦੇ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+flower-avatar-tooltip =
+    .tooltiptext = ਫੁੱਲ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+folder-avatar-tooltip =
+    .tooltiptext = ਫੋਲਡਰ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+hammer-avatar-tooltip =
+    .tooltiptext = ਹਥੌੜੀ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+heart-avatar-tooltip =
+    .tooltiptext = ਦਿਲ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+heart-rate-avatar-tooltip =
+    .tooltiptext = ਦਿਲ ਦੀ ਧੜਕਨ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+clock-avatar-tooltip =
+    .tooltiptext = ਘੜੀ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+leaf-avatar-tooltip =
+    .tooltiptext = ਪੱਤੇ ਦੇ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+lightbulb-avatar-tooltip =
+    .tooltiptext = ਬਲੱਬ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+makeup-avatar-tooltip =
+    .tooltiptext = ਮੇਕਅੱਪ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = ਸੁਨੇਹੇ ਦੇ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+musical-note-avatar-tooltip =
+    .tooltiptext = ਸੰਗੀਤ ਨੋਟ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+plane-avatar-tooltip =
+    .tooltiptext = ਜਹਾਜ਼ ਦੇ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+star-avatar-tooltip =
+    .tooltiptext = ਤਾਰੇ ਦੇ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
+video-game-controller-avatar-tooltip =
+    .tooltiptext = ਵੀਡੀਓ ਗੇਮ ਕੰਟਰੋਲਰ ਦੇ ਅਵਤਾਰ ਨੂੰ ਲਾਓ

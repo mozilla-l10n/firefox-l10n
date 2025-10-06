@@ -308,6 +308,10 @@ pdfjs-comment-floating-button =
     .title = ਟਿੱਪਣੀ
     .aria-label = ਟਿੱਪਣੀ
 pdfjs-comment-floating-button-label = ਟਿੱਪਣੀ
+pdfjs-editor-comment-button =
+    .title = ਟਿੱਪਣੀ
+    .aria-label = ਟਿੱਪਣੀ
+pdfjs-editor-comment-button-label = ਟਿੱਪਣੀ
 pdfjs-editor-signature-button =
     .title = ਦਸਤਖ਼ਤ ਜੋੜੋ
 pdfjs-editor-signature-button-label = ਦਸਤਖ਼ਤ ਜੋੜੋ
@@ -370,6 +374,19 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = ਲਿਖਤ ਐਡੀਟਰ
     .default-content = …ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰੋ
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] ਟਿੱਪਣੀ
+       *[other] ਟਿੱਪਣੀਆਂ
+    }
+pdfjs-editor-comments-sidebar-close-button =
+    .title = ਬਾਹੀ ਨੂੰ ਬੰਦ ਕਰੋ
+    .aria-label = ਬਾਹੀ ਨੂੰ ਬੰਦ ਕਰੋ
+pdfjs-editor-comments-sidebar-close-button-label = ਬਾਹੀ ਨੂੰ ਬੰਦ ਕਰੋ
+pdfjs-editor-comments-sidebar-no-comments-link = ਹੋਰ ਜਾਣੋ
 
 ## Alt-text dialog
 
@@ -585,6 +602,15 @@ pdfjs-editor-add-signature-error-close-button = ਬੰਦ ਕਰੋ
 pdfjs-editor-add-signature-cancel-button = ਰੱਦ ਕਰੋ
 pdfjs-editor-add-signature-add-button = ਜੋੜੋ
 pdfjs-editor-edit-signature-update-button = ਅੱਪਡੇਟ
+
+## Comment popup
+
+pdfjs-editor-edit-comment-popup-button-label = ਟਿੱਪਣੀ ਨੂੰ ਸੋਧੋ
+pdfjs-editor-edit-comment-popup-button =
+    .title = ਟਿੱਪਣੀ ਨੂੰ ਸੋਧੋ
+pdfjs-editor-delete-comment-popup-button-label = ਟਿੱਪਣੀ ਨੂੰ ਹਟਾਓ
+pdfjs-editor-delete-comment-popup-button =
+    .title = ਟਿੱਪਣੀ ਨੂੰ ਹਟਾਓ
 
 ##  Edit a comment dialog
 

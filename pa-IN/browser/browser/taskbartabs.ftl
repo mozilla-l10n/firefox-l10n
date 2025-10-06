@@ -34,3 +34,17 @@ taskbar-tab-audio-mute =
     .tooltiptext = ਟੈਬ ਨੂੰ ਮੌਨ ਕਰੋ
 taskbar-tab-audio-unmute =
     .tooltiptext = ਟੈਬ ਨੂੰ ਅਣ-ਮੌਨ ਕਰੋ
+
+## These are used as part of the window title, possibly after the content's
+## title.
+##
+## Variables:
+##  $name (String): The name of the installed web app.
+##  $container (String): The name of the user's container (e.g. 'Work',
+##  'Personal').
+##  $profile (String): The name of the user's current profile.
+
+taskbar-tab-title-default = { -brand-full-name } ਵਿੱਚ { $name }
+taskbar-tab-title-container = { -brand-full-name } ਵਿੱਚ { $name } ({ $container })
+taskbar-tab-title-profile = { $profile } ਵਿੱਚ { $name } — { -brand-full-name }
+taskbar-tab-title-container-profile = { $profile } ਵਿੱਚ { $name } ({ $container }) — { -brand-full-name }
