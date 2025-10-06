@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = Czatbot SI
 menu-view-contextual-password-manager =
     .label = Hasła
 sidebar-options-menu-button =
@@ -116,6 +118,8 @@ sidebar-history-context-menu-delete-pages =
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = Czatbot SI
 sidebar-menu-history-label =
     .label = Historia
 sidebar-menu-synced-tabs-label =
@@ -153,7 +157,9 @@ sidebar-menu-close-bookmarks-tooltip = Zamknij zakładki ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Otwórz czatbota SI ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Otwórz { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Zamknij czatbota SI ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Zamknij { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.

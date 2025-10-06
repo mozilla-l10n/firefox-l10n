@@ -155,9 +155,13 @@ about-glean-button-dictionary-link = Dokumentacja
 about-glean-button-watch = Obserwuj
 # Meaning "to stop watching"
 about-glean-button-unwatch = Przestań obserwować
+about-glean-no-data-to-display = Brak danych do wyświetlenia.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Oznaczone statystyki nie są jeszcze obsługiwane na stronie <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Nieznany typ statystyk.
+about-glean-enable-new-features-promo =
+    .message = Pracujemy nad dodawaniem nowych funkcji! Są one wciąż w fazie rozwoju, ale kliknij ten przycisk, jeśli chcesz je włączyć.
+    .heading = Nowe funkcje już wkrótce!
 about-glean-about-data-explanation =
     <a data-l10n-name="glean-dictionary-link">Słownik { -glean-brand-name }</a>
     umożliwia przeglądanie listy zebranych danych.
