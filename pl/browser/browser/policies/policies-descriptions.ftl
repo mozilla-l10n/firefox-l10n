@@ -79,6 +79,7 @@ policy-ExtensionSettings = Zarządzanie wszystkimi aspektami instalacji rozszerz
 policy-ExtensionUpdate = Włączenie lub wyłączenie automatycznego aktualizowania rozszerzeń.
 policy-FirefoxHome2 = Konfiguracja { -firefox-home-brand-name(case: "gen", capitalization: "lower") }.
 policy-FirefoxSuggest = Konfiguracja { -firefox-suggest-brand-name(case: "gen", capitalization: "lower") }.
+policy-GenerativeAI = Konfiguracja funkcji korzystających z generatywnej sztucznej inteligencji.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Wymuszenie bezpośredniej nawigacji na witrynie intranetowej zamiast wyszukiwania podczas wpisywania pojedynczych słów na pasku adresu.
 policy-Handlers = Konfiguracja domyślnych aplikacji obsługujących typy plików.
 policy-HardwareAcceleration = Wartość „fałsz” wyłącza przyspieszanie sprzętowe.
@@ -97,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Wracanie do starego za
 ##
 
 policy-LocalFileLinks = Zezwalanie podanym witrynom na odnośniki do lokalnych plików.
+policy-LocalNetworkAccess = Włączenie lub wyłączenie sprawdzania dostępu do sieci lokalnej.
 policy-ManagedBookmarks = Ustawienie listy zakładek zarządzanych przez administratora, których użytkownik nie może zmieniać.
 policy-ManualAppUpdateOnly = Zezwalanie tylko na aktualizacje ręczne i wyłączenie powiadamiania użytkownika o aktualizacjach.
 policy-PrimaryPassword = Wymaganie lub uniemożliwienie używania hasła głównego.
@@ -117,6 +119,7 @@ policy-PostQuantumKeyAgreementEnabled = Włączenie postkwantowego uzgadniania k
 policy-PDFjs = Wyłączenie lub konfiguracja PDF.js, wbudowanej przeglądarki plików PDF w programie { -brand-short-name }.
 policy-Permissions2 = Konfiguracja uprawnień kamery, mikrofonu, położenia, powiadomień i automatycznego odtwarzania.
 policy-PictureInPicture = Włączenie lub wyłączenie funkcji „Obraz w obrazie”.
+policy-PopupBlocking2 = Zezwalanie pewnym witrynom na otwieranie wyskakujących okien i bycie przekierowywanymi przez zewnętrzne ramki.
 policy-PopupBlocking = Domyślne zezwalanie pewnym witrynom na otwieranie wyskakujących okien.
 policy-Preferences = Ustawienie i zablokowanie wartości dla podzbioru preferencji.
 policy-PrivateBrowsingModeAvailability = Ustawienie dostępności trybu prywatnego.

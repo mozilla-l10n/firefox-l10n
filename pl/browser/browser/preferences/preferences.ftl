@@ -1313,6 +1313,7 @@ content-blocking-private-windows = treści z elementami śledzącymi w oknach 
 content-blocking-cross-site-cookies-in-all-windows2 = ciasteczka między witrynami we wszystkich oknach
 content-blocking-cross-site-tracking-cookies = ciasteczka śledzące między witrynami
 content-blocking-all-cross-site-cookies-private-windows = ciasteczka między witrynami w prywatnych oknach
+content-blocking-isolate-cross-site-cookies = izolowanie ciasteczek między witrynami
 content-blocking-cross-site-tracking-cookies-plus-isolate = ciasteczka śledzące między witrynami i izolowanie pozostałych
 content-blocking-social-media-trackers = elementy śledzące serwisów społecznościowych
 content-blocking-all-cookies = wszystkie ciasteczka
@@ -1335,6 +1336,7 @@ content-blocking-etp-standard-tcp-title = Zawiera całkowitą ochronę ciastecze
 content-blocking-warning-title = Ostrzeżenie
 content-blocking-and-isolating-etp-warning-description-3 = To ustawienie może spowodować, że część witryn nie będzie wyświetlać treści lub poprawnie działać. Zapewniamy opcjonalne wyjątki dla witryn, o których wiemy, że używana konfiguracja może mieć na nie wpływ. Aby zmniejszyć ryzyko błędnie działających witryn, zezwól na te wyjątki. Jeśli witryna wydaje się błędnie działać, można wyłączyć dla niej ochronę przed śledzeniem, aby wczytać całą treść i zgłosić problem, abyśmy mogli pomóc rozwiązać go dla wszystkich.
 content-blocking-warning-title-2 = Ścisła ochrona przed śledzeniem może powodować niepoprawne działanie niektórych stron
+content-blocking-warning-title-custom = Własna ochrona przed śledzeniem może powodować niepoprawne działanie niektórych stron
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } zaleca korzystanie z ustawień „Naprawianie problemów ze stronami”, aby ograniczyć liczbę niedziałających funkcji i treści stron. Jeśli strona wydaje się niepoprawnie działać, spróbuj wyłączyć na niej ochronę przed śledzeniem, aby wczytać całą treść.
 content-blocking-and-isolating-etp-warning-description-2 = To ustawienie może spowodować niepoprawne działanie lub wyświetlanie niektórych stron. Jeśli dana strona wydaje się niewłaściwie działać, możesz wyłączyć dla niej ochronę przed śledzeniem, aby wczytać ją w całości.
@@ -1453,6 +1455,9 @@ permissions-autoplay = Automatyczne odtwarzanie
 permissions-autoplay-settings =
     .label = Ustawienia…
     .accesskey = n
+permissions-block-popups2 =
+    .label = Blokowanie wyskakujących okien i zewnętrznych przekierowań
+    .accesskey = B
 permissions-block-popups =
     .label = Blokowanie wyskakujących okien
     .accesskey = B
@@ -1554,6 +1559,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certyfikaty
+certs-description = Skonfiguruj certyfikaty, których { -brand-short-name } używa do uwierzytelniania.
 certs-enable-ocsp =
     .label = Odpytywanie serwerów OCSP w celu potwierdzenia wiarygodności certyfikatów
     .accesskey = O

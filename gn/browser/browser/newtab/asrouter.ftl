@@ -399,6 +399,7 @@ windows-10-eos-feature-toast-dismiss-button = Mboyke
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Ñemo’ã jehapykueho rovake ikatu hína ombyai ñanduti rogue.</strong> Emyatyrõ apañuái ejorávo umi mba’eporurã ikatukuaáva oguereko tapykuehoha.
 etp-strict-exceptions-infobar-learn-more = Eikuaave
 etp-strict-exceptions-infobar-button = Emboheko ñemyatyrõ
     .accesskey = A

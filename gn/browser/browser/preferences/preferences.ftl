@@ -1140,6 +1140,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kookie ha tenda mbakuaarã
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Eikuaase tenda mba’ekuaarã ha kache tuichakue…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)

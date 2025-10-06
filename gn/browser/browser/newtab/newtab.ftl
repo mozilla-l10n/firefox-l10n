@@ -477,8 +477,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Eva Fahrenheit ndive
 newtab-weather-menu-change-temperature-units-celsius = Eva Celsius ndive
 newtab-weather-menu-hide-weather = Eñomi arareko Tendayke Pyahúpe
 newtab-weather-menu-learn-more = Eikuaave
+newtab-weather-menu-detect-my-location = Ehecha che rendaite
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Marandu ára rehegua ndaipóri ko’ag̃aite.
+newtab-weather-opt-in-see-weather = ¿Ehechasépa ne rendaitepegua arareko?
+newtab-weather-opt-in-not-now =
+    .label = Ani ko’ág̃a
+newtab-weather-opt-in-yes =
+    .label = Héẽ
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Táva Nueva York
 
 ## Topic Labels
 
