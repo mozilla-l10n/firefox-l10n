@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Tryb prywatny
+popups-infobar-dont-show-message2 =
+    .label = Nie pokazuj tej wiadomości, kiedy wyskakujące okna lub zewnętrzne przekierowania są blokowane
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Zarządzaj ustawieniami wyskakujących okien i zewnętrznych przekierowań…
+    .accesskey = Z
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Udostępnianie obrazu ekranu tej witrynie zostało zablokowane
 urlbar-persistent-storage-blocked =
     .tooltiptext = Przechowywanie danych na komputerze przez tę witrynę zostało zablokowane
+urlbar-popup-blocked2 =
+    .tooltiptext = Wyskakujące okna i zewnętrzne przekierowania na tej witrynie są blokowane
 urlbar-popup-blocked =
     .tooltiptext = Wyskakujące okna na tej witrynie są blokowane
 urlbar-autoplay-media-blocked =
@@ -1180,6 +1188,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blokuj wyskakujące okna z { $uriHost }
     .accesskey = B
+popups-infobar-allow2 =
+    .label = Pozwól { $uriHost } otwierać wyskakujące okna i zewnętrzne przekierowania
+    .accesskey = w
 
 ##
 
