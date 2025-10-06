@@ -25,3 +25,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Ne prikazuj več
     .accesskey = N
 sandbox-unprivileged-namespaces-howtofix = Kako odpraviti to težavo
+sandbox-content-disabled-warning = Varnostni peskovnik je onemogočen. Vaša nastavitev ni podprta in je manj varna.

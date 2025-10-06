@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Mopotĩ
 text-action-highlight-selection =
     .label = Embosa’y jeporavopy
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Embojuaju je’epy jeporavorãme
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Je’epyre poravopy

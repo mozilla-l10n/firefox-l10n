@@ -481,12 +481,17 @@ desktop-to-mobile-qr-code-alt =
 
 restore-from-backup-secondary-top-button = Obnovitev iz varnostne kopije
 restore-from-backup-title = Povrnite si { -brand-short-name(sklon: "tozilnik") }, kakršen vam je všeč
+restore-from-backup-subtitle = Obnovite zaznamke, zgodovino in druge podatke ter nadaljujte z brskanjem.
 restore-from-backup-secondary-button = Ne obnovi
 
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Spet smo nazaj! Vaši podatki { -brand-short-name(sklon: "rodilnik") } so bili obnovljeni.
+restored-from-backup-success-with-checklist-subtitle = Želite imeti svoj najljubši zaseben brskalnik le klik stran?
+restored-from-backup-success-no-checklist-subtitle = Varnostno kopiranje za to napravo lahko vključite v <a data-l10n-name="settings">nastavitvah</a>.
 restored-from-backup-success-with-checklist-primary-button = Shrani in nadaljuj
 restored-from-backup-success-with-checklist-secondary-button = Preskoči ta korak
 restored-from-backup-success-no-checklist-primary-button = Nadaljuj
+restored-from-backup-error-title = Hmm, prišlo je do težave z datoteko z varnostno kopijo.
+restored-from-backup-error-subtitle = Če imate drugo datoteko z varnostno kopijo { -brand-short-name(sklon: "rodilnik") }, poskusite podatke obnoviti iz nje. <a data-l10n-name="restore-problems">Imate še vedno težave?</a>
 restored-from-backup-error-primary-button = Zapri

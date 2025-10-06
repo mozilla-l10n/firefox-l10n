@@ -144,12 +144,21 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Uveljavi temo po meri
 
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Prikaži nastavitve
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Zapri
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Knjiga
 briefcase-avatar-alt =
     .alt = Aktovka
+picture-avatar-alt =
+    .alt = Slika
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Platno
@@ -166,6 +175,8 @@ heart-avatar-alt =
     .alt = Srce
 heart-rate-avatar-alt =
     .alt = Srčni utrip
+clock-avatar-alt =
+    .alt = Ura
 history-avatar-alt =
     .alt = Zgodovina
 leaf-avatar-alt =
@@ -190,6 +201,8 @@ present-avatar-alt =
     .alt = Darilo
 shopping-avatar-alt =
     .alt = Nakupovalni voziček
+soccer-ball-avatar-alt =
+    .alt = Nogometna žoga
 soccer-avatar-alt =
     .alt = Nogomet
 sparkle-single-avatar-alt =
@@ -200,6 +213,9 @@ video-game-controller-avatar-alt =
     .alt = Krmilnik za videoigre
 custom-avatar-alt =
     .alt = Slika profila po meri
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Zemljina obla
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Privzeta ikona
@@ -215,6 +231,7 @@ bike-avatar-alt =
 
 book-avatar = Knjiga
 briefcase-avatar = Aktovka
+clock-avatar = Ura
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Platno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +243,8 @@ default-favicon-avatar = Privzeta ikona
 diamond-avatar = Diamant
 flower-avatar = Cvet
 folder-avatar = Mapa
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Zemljina obla
 hammer-avatar = Kladivo
 heart-avatar = Srce
 heart-rate-avatar = Srčni utrip
@@ -238,10 +257,12 @@ message-avatar = Sporočilo
 musical-note-avatar = Nota
 palette-avatar = Paleta
 paw-print-avatar = Odtis tace
+picture-avatar = Slika
 plane-avatar = Letalo
 # Present refers to a gift box, not the current time period
 present-avatar = Darilo
 shopping-avatar = Nakupovalni voziček
+soccer-ball-avatar = Nogometna žoga
 soccer-avatar = Nogomet
 sparkle-single-avatar = Iskra
 star-avatar = Zvezdica

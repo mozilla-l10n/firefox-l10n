@@ -98,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ponastavi zastarelo ve
 ##
 
 policy-LocalFileLinks = Določenim spletnim mestom dovoli povezovanje na krajevne datoteke.
+policy-LocalNetworkAccess = Omogoči ali onemogoči preverjanje dostopa do lokalnega omrežja.
 policy-ManagedBookmarks = Nastavi seznam zaznamkov, ki jih upravlja skrbnik in jih uporabnik ne more spremeniti.
 policy-ManualAppUpdateOnly = Dovoli samo ročne posodobitve in ne obveščaj uporabnika o posodobitvah.
 policy-PrimaryPassword = Zahtevaj ali prepreči uporabo glavnega gesla.
@@ -141,6 +142,7 @@ policy-SupportMenu = Dodaj poljubno povezavo za podporo v meni Pomoč.
 policy-TranslateEnabled = Omogoči ali onemogoči prevajanje spletnih strani.
 policy-UserMessaging = Uporabniku ne prikazuj določenih sporočil.
 policy-UseSystemPrintDialog = Tiskaj s pomočjo pogovornega okna sistema.
+policy-VisualSearchEnabled = Omogoči ali onemogoči vizualno iskanje.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Prepreči obisk določenih spletnih mest. Za več podrobnosti o obliki glejte dokumentacijo.
 policy-Windows10SSO = Dovoli enotno prijavo v sistem Windows za Microsoftove, službene in šolske račune.

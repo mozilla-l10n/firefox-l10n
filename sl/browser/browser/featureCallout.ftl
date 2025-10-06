@@ -112,6 +112,12 @@ fxa-adoption-passwords-subtitle = Zaščitite svoja gesla, tako da jih šifriran
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registracija
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Imejte svoje priljubljene vire v opravilni vrstici
+taskbar-tabs-value-prop-callout-title = Dodajte si to stran v opravilno vrstico
+taskbar-tabs-value-prop-callout-subtitle = Zaženite jo v svojem oknu in v poenostavljenem vmesniku z enim klikom.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ne izgubite vsega, kar ste shranili, ko preidete na Windows 11.

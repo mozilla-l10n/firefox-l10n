@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Počisti
 text-action-highlight-selection =
     .label = Označi izbrano besedilo
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Dodaj komentar k izbiri
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Komentiraj izbor
