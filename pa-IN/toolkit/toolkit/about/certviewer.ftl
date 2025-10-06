@@ -110,6 +110,8 @@ certificate-viewer-export = ਬਰਾਮਦ
 
 # Label for a tab where we haven't found a better label:
 certificate-viewer-unknown-group-label = (ਅਣਪਛਾਤਾ)
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = ਸਰਟੀਫਿਕੇਟ
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

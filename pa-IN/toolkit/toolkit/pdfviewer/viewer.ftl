@@ -611,6 +611,8 @@ pdfjs-editor-edit-comment-popup-button =
 pdfjs-editor-delete-comment-popup-button-label = ਟਿੱਪਣੀ ਨੂੰ ਹਟਾਓ
 pdfjs-editor-delete-comment-popup-button =
     .title = ਟਿੱਪਣੀ ਨੂੰ ਹਟਾਓ
+pdfjs-show-comment-button =
+    .title = ਟਿੱਪਣੀ ਨੂੰ ਵੇਖਾਓ
 
 ##  Edit a comment dialog
 
@@ -626,6 +628,15 @@ pdfjs-editor-edit-comment-manager-text-input =
     .placeholder = ਆਪਣੀ ਟਿੱਪਣੀ ਦਿਓ
 pdfjs-editor-edit-comment-manager-cancel-button = ਰੱਦ ਕਰੋ
 pdfjs-editor-edit-comment-manager-save-button = ਸੰਭਾਲੋ
+# An existing comment is edited
+pdfjs-editor-edit-comment-dialog-title-when-editing = ਟਿੱਪਣੀ ਨੂੰ ਸੋਧੋ
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = ਅੱਪਡੇਟ ਕਰੋ
+# No existing comment
+pdfjs-editor-edit-comment-dialog-title-when-adding = ਟਿੱਪਣੀ ਜੋੜੋ
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = ਜੋੜੋ
+pdfjs-editor-edit-comment-dialog-text-input =
+    .placeholder = …ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰੋ
+pdfjs-editor-edit-comment-dialog-cancel-button = ਰੱਦ ਕਰੋ
 
 ## Edit a comment button in the editor toolbar
 
