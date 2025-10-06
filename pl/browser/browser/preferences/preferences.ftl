@@ -1085,7 +1085,20 @@ autofill-payment-methods-checkbox-message-2 =
     .accesskey = m
 autofill-payment-methods-manage-payments-button =
     .label = Zarządzaj metodami płatności
+    .accesskey = d
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Wymaganie zalogowania się na urządzeniu, aby automatycznie wypełniać metody płatności i zarządzać nimi.
+    .accesskey = W
+autofill-addresses-title = Adresy i nie tylko
+autofill-addresses-header =
+    .aria-label = Adresy i nie tylko
+autofill-addresses-checkbox-message =
+    .label = Zachowywanie i automatyczne wypełnianie adresów.
     .accesskey = Z
+autofill-addresses-manage-addresses-button =
+    .label = Zarządzaj adresami i nie tylko
+    .accesskey = d
 
 ## Privacy Section - History
 
@@ -1131,7 +1144,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Ciasteczka i dane witryn
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Obliczanie rozmiaru danych i pamięci podręcznej witryn…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Przechowywane ciasteczka, historia, dane i pamięć podręczna witryn zajmują <strong>{ $value } { $unit }</strong> na dysku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1158,6 +1177,8 @@ sitedata-option-block-cross-site-trackers =
     .label = śledzące między witrynami
 sitedata-option-block-cross-site-tracking-cookies =
     .label = ciasteczka śledzące między witrynami
+sitedata-option-block-cross-site-cookies2 =
+    .label = izolowanie ciasteczek między witrynami
 sitedata-option-block-cross-site-cookies =
     .label = ciasteczka śledzące między witrynami i izolowanie innych ciasteczek między witrynami
 sitedata-option-block-unvisited =
@@ -1166,6 +1187,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = wszystkie między witrynami (może powodować problemy)
 sitedata-option-block-all =
     .label = wszystkie (powoduje problemy)
+sitedata-clear2 =
+    .label = Wyczyść dane przeglądania
+    .accesskey = a
+sitedata-settings2 =
+    .label = Zachowane dane przeglądania
+    .accesskey = c
 sitedata-clear =
     .label = Wyczyść dane…
     .accesskey = a
@@ -1175,6 +1202,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Wyjątki…
     .accesskey = W
+sitedata-cookies-exceptions2 =
+    .label = Wyjątki
+    .accesskey = W
+    .description = Określ zasady akceptacji ciasteczek i danych witryn.
 
 ## Privacy Section - Cookie Banner Handling
 

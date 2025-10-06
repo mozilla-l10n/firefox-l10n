@@ -387,6 +387,8 @@ windows-10-eos-sync-callout-get-started-button = Eñepyrũ
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = ¡Tendaykeita ñembo’y ha tendayke aty oĩma ápe!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Ojejerure rupi, { -brand-product-name } ombosako’i tembiapoite ipyahúva ikundahára oiko porãve hag̃ua tenondeve.
 windows-10-eos-feature-toast-whats-new-button = Ehecha mba’epyahu
 windows-10-eos-feature-toast-dismiss-button = Mboyke
 
