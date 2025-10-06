@@ -107,6 +107,11 @@ taskbar-tabs-social-callout-subtitle = Uruchamiaj serwisy społecznościowe jak 
 taskbar-tabs-chat-callout-title = Rozmawiaj z paska zadań
 taskbar-tabs-chat-callout-subtitle = Uruchamiaj komunikatory jak aplikacje w uproszczonym oknie chronionym przez { -brand-short-name(case: "acc") }.
 taskbar-tabs-email-callout-title = Dodaj pocztę e-mail do paska zadań
+taskbar-tabs-email-callout-subtitle = Uruchamiaj pocztę e-mail jak aplikację w uproszczonym oknie chronionym przez { -brand-short-name(case: "acc") }.
+taskbar-tabs-media-callout-title = Wróć do streamu z paska zadań
+taskbar-tabs-media-callout-subtitle = Uruchamiaj serwisy streamingowe jak aplikacje w uproszczonym oknie chronionym przez { -brand-short-name(case: "acc") }.
+taskbar-tabs-value-prop-callout-title = Dodaj tę witrynę do paska zadań
+taskbar-tabs-value-prop-callout-subtitle = Uruchamiaj ją jednym kliknięciem w osobnym oknie i z uproszczonym interfejsem.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -127,6 +132,10 @@ windows-10-eos-sync-tour-title-1 = Za dużo kart? Uporządkuj je za pomocą grup
 windows-10-eos-sync-tour-subtitle-1 = Przeciągnij jedną kartę na drugą, aby utworzyć grupę i zachować porządek.
 windows-10-eos-sync-tour-title-2 = Przygotuj się na przejście na system Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Synchronizuj zakładki, hasła i ustawienia, aby mieć ich kopię zapasową przed przejściem.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Pokazuj mniej poleceń
+windows-10-eos-sync-dismiss-button-label = Zamknij
+windows-10-eos-sync-callout-primary-advance-button-label = Dalej
 
 ## Sidebar Strings
 
