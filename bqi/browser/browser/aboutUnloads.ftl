@@ -6,6 +6,8 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-column-host = میزبووݩ
+about-unloads-column-last-accessed = دسرسی دیندایی
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } مگابایت
 about-unloads-memory-in-mb-tooltip =
