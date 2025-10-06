@@ -155,11 +155,11 @@ pin-tabs-callout-4-title = Przypnij witryny, które odwiedzasz najczęściej
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Panel boczny: miejsce na narzędzia i karty
-sidebar-customization-callout-1-subtitle = Panel boczny { -brand-product-name(case: "gen") } umożliwia szybki dostęp do historii przeglądania, kart z innych urządzeń i nie tylko — bez wychodzenia z głównego okna.
+sidebar-customization-callout-1-subtitle = Panel boczny { -brand-product-name(case: "gen") } umożliwia szybki dostęp do historii przeglądania, kart z innych urządzeń i czatbota opartego na sztucznej inteligencji — bez wychodzenia z głównego okna.
 sidebar-customization-callout-callout-button = Dostosuj panel boczny
 sidebar-customization-callout-dismiss-button = Ukryj panel boczny
 sidebar-customization-callout-2-title = Używaj panelu bocznego { -brand-product-name(case: "gen") } po swojemu
-sidebar-customization-callout-2-subtitle = Dodawaj i usuwaj narzędzia. Przenieś karty do panelu bocznego. Tylko od Ciebie zależy, jak dostosujesz swój panel boczny.
+sidebar-customization-callout-2-subtitle = Dodawaj i usuwaj narzędzia. Przenieś karty do panelu bocznego. Wypróbuj czatbota opartego na sztucznej inteligencji. Tylko od Ciebie zależy, jak dostosujesz swój panel boczny.
 
 ## Sidebar Callout Survey Strings
 
@@ -186,6 +186,7 @@ sidebar-callout-survey-saved-websites-2 = Szybki dostęp do zakładek
 sidebar-callout-survey-none-of-above = Żadna z powyższych
 sidebar-callout-survey-submit = Wyślij
 sidebar-callout-survey-thank-you = Dziękujemy za opinię!
+sidebar-genai-survey-satisfaction-question = Jak ocenisz swoje zadowolenie z dostępu do czatbota opartego na sztucznej inteligencji w panelu bocznym?
 unified-search-callout-title = Przełączaj się między wyszukiwarkami
 unified-search-callout-subtitle = Wybierz tę, która najlepiej odpowiada temu, co chcesz znaleźć.
 unified-search-callout-primary-label = Dalej

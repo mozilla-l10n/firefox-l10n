@@ -243,7 +243,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Z boku, w panelu bocznym
 browser-layout-show-sidebar =
     .label = Panel boczny
-browser-layout-show-sidebar-desc = Szybki dostęp do zakładek, kart z telefonu i nie tylko bez wychodzenia z głównego okna
+browser-layout-show-sidebar-desc = Szybki dostęp do zakładek, kart z telefonu, czatbotów opartych na sztucznej inteligencji i nie tylko bez wychodzenia z głównego okna
 
 ## General Section - Language & Appearance
 
