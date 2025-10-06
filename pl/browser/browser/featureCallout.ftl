@@ -187,6 +187,9 @@ sidebar-callout-survey-none-of-above = Żadna z powyższych
 sidebar-callout-survey-submit = Wyślij
 sidebar-callout-survey-thank-you = Dziękujemy za opinię!
 sidebar-genai-survey-satisfaction-question = Jak ocenisz swoje zadowolenie z dostępu do czatbota opartego na sztucznej inteligencji w panelu bocznym?
+sidebar-genai-survey-productive-question =
+    W jakim stopniu zgadzasz się lub nie zgadzasz z tym stwierdzeniem:<br/>
+    „Czatbot oparty na sztucznej inteligencji w panelu bocznym pomaga mi zwiększyć produktywność”?
 unified-search-callout-title = Przełączaj się między wyszukiwarkami
 unified-search-callout-subtitle = Wybierz tę, która najlepiej odpowiada temu, co chcesz znaleźć.
 unified-search-callout-primary-label = Dalej
