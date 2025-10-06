@@ -44,7 +44,7 @@ taskbar-tab-audio-unmute =
 ##  'Personal').
 ##  $profile (String): The name of the user's current profile.
 
-taskbar-tab-title-default = { $title } en { -brand-full-name }
+taskbar-tab-title-default = { $name } en { -brand-full-name }
 taskbar-tab-title-container = { $name } ({ $container }) en { -brand-full-name }
 taskbar-tab-title-profile = { $name } en { $profile } — { -brand-full-name }
 taskbar-tab-title-container-profile = { $name } ({ $container }) en { $profile } — { -brand-full-name }
