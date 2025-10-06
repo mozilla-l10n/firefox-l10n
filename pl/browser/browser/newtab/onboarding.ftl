@@ -425,6 +425,10 @@ onboarding-horizontal-tabs-description =
     .aria-description = Okno przeglądarki wyświetlające karty na górze.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Wypróbuj czatbota sztucznej inteligencji w panelu bocznym
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Streszczaj treść stron, przeprowadzaj burze mózgów, twórz wersje robocze wiadomości — nie przerywając przeglądania. Wybieraj spośród wielu dostawców. Zmień dostawcę w dowolnej chwili. <a data-l10n-name="learn-more">Więcej informacji</a>
+onboarding-genai-sidebar-primary-button = Wybierz czatbota
+onboarding-genai-sidebar-secondary-button = Zacznij przeglądać Internet
 
 ## New user onboarding checklist
 
@@ -472,3 +476,8 @@ dismiss-button-label = Zamknij
 sync-to-mobile-button-label = Synchronizuj z telefonem
 desktop-to-mobile-qr-code-alt =
     .aria-label = Kod QR do pobrania { -brand-product-name(case: "gen") } na telefon
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Przywróć z kopii zapasowej
+restore-from-backup-title = Wróćmy do { -brand-short-name(case: "gen") } takiego, jak lubisz
