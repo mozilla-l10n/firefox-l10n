@@ -488,3 +488,10 @@ restore-from-backup-secondary-button = Nie przywracaj
 
 restored-from-backup-success-title = Wróciliśmy! Twoje dane { -brand-short-name(case: "gen") } zostały przywrócone.
 restored-from-backup-success-with-checklist-subtitle = Chcesz mieć swoją ulubioną przeglądarkę dbającą o prywatność pod jednym kliknięciem?
+restored-from-backup-success-no-checklist-subtitle = W <a data-l10n-name="settings">ustawieniach</a> można włączyć tworzenie kopii zapasowej na tym urządzeniu.
+restored-from-backup-success-with-checklist-primary-button = Zachowaj i kontynuuj
+restored-from-backup-success-with-checklist-secondary-button = Pomiń ten krok
+restored-from-backup-success-no-checklist-primary-button = Kontynuuj
+restored-from-backup-error-title = Niestety, wystąpił problem z plikiem kopii zapasowej.
+restored-from-backup-error-subtitle = Jeśli masz inny plik kopii zapasowej { -brand-short-name(case: "gen") }, spróbuj przywrócić z niego. <a data-l10n-name="restore-problems">Nadal masz problemy?</a>
+restored-from-backup-error-primary-button = Zamknij
