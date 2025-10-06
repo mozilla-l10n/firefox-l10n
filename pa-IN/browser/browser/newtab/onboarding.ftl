@@ -483,3 +483,11 @@ desktop-to-mobile-qr-code-alt =
 restore-from-backup-secondary-top-button = ਬੈਕਅੱਪ ਤੋਂ ਬਹਾਲ ਕਰੋ
 restore-from-backup-subtitle = ਵਾਪਸ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਆਪਣੇ ਸਾਰੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰੋ।
 restore-from-backup-secondary-button = ਬਹਾਲ ਨਾ ਕਰੋ
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = ਅਸੀਂ ਆ ਗਏ ਹਾਂ! ਤੁਹਾਡੇ { -brand-short-name } ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ।
+restored-from-backup-success-with-checklist-primary-button = ਸੰਭਾਲੋ ਅਤੇ ਜਾਰੀ ਰੱਖੋ
+restored-from-backup-success-with-checklist-secondary-button = ਇਹ ਪੜਾਅ ਛੱਡੋ
+restored-from-backup-success-no-checklist-primary-button = ਜਾਰੀ ਰੱਖੋ
+restored-from-backup-error-primary-button = ਬੰਦ ਕਰੋ

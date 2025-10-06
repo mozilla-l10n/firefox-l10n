@@ -256,6 +256,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = ਗੂੜ੍ਹਾ
     .title = ਵੈੱਬਸਾਈਟ ਬੈਕਗਰਾਊਂਡ ਤੇ ਸਮੱਗਰੀ ਲਈ ਗੂੜ੍ਹੀ ਦਿੱਖ ਵਰਤੋਂ।
+web-appearance-group =
+    .aria-label = ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ
 preferences-web-appearance-choice-auto = ਆਟੋਮੈਟਿਕ
 preferences-web-appearance-choice-light = ਹਲਕਾ
 preferences-web-appearance-choice-dark = ਗੂੜ੍ਹਾ
@@ -1071,6 +1073,24 @@ autofill-saved-payment-methods-button = ਸੰਭਾਲੇ ਹੋਏ ਭੁਗ�
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਨੂੰ ਭਰਨ ਅਤੇ ਇੰਤਜ਼ਾਮ ਕਰਨ ਲਈ ਡਿਵਾਈਸ ਲਾਗਇਨ ਚਾਹੀਦਾ ਹੈ
     .accesskey = o
+autofill-payment-methods-title = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
+autofill-payment-methods-header =
+    .aria-label = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
+autofill-payment-methods-checkbox-message-2 =
+    .label = ਭੁਗਤਾਨ ਜਾਣਕਾਰੀ ਨੂੰ ਸੰਭਾਲੋ ਅਤੇ ਆਪੇ ਭਰੋ
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = ਭੁਗਤਾਨ ਢੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+    .accesskey = m
+autofill-addresses-title = ਸਿਰਨਾਵਾਂ ਅਤੇ ਹੋਰ
+autofill-addresses-header =
+    .aria-label = ਸਿਰਨਾਵਾਂ ਅਤੇ ਹੋਰ
+autofill-addresses-checkbox-message =
+    .label = ਸਿਰਨਾਵਿਆਂ ਨੂੰ ਸੰਭਾਲੋ ਅਤੇ ਆਪਣੇ-ਆਪ ਭਰੋ
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = ਸਿਰਨਾਵਿਆਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+    .accesskey = M
 
 ## Privacy Section - History
 
@@ -1116,6 +1136,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = ਸਾਈਟ ਡਾਟੇ ਅਤੇ ਕੈਸ਼ ਆਕਾਰ ਦੀ ਗਿਣਤੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1143,6 +1165,8 @@ sitedata-option-block-cross-site-trackers =
     .label = ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਰ
 sitedata-option-block-cross-site-tracking-cookies =
     .label = ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼
+sitedata-option-block-cross-site-cookies2 =
+    .label = ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ ਨੂੰ ਨਿਖੇੜੋ
 sitedata-option-block-cross-site-cookies =
     .label = ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕ ਕਰਨ ਵਾਲੇ ਕੂਕੀਜ਼ ਅਤੇ ਹੋਰ ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ ਨੂੰ ਵੱਖੋ-ਵੱਖ ਕਰੋ
 sitedata-option-block-unvisited =
@@ -1151,6 +1175,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = ਸਭ ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ (ਇਹ ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਬਣ ਸਕਦਾ ਹੈ)
 sitedata-option-block-all =
     .label = ਸਾਰੇ ਕੂਕੀਜ਼ (ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋਵੇਗਾ)
+sitedata-clear2 =
+    .label = ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਡਾਟੇ ਨੂੰ ਮਿਟਾਓ
+    .accesskey = l
+sitedata-settings2 =
+    .label = ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਡਾਟੇ ਦਾ ਇੰਤਜ਼ਾਮ
+    .accesskey = M
 sitedata-clear =
     .label = …ਡਾਟੇ ਨੂੰ ਮਿਟਾਓ
     .accesskey = l
@@ -1269,6 +1299,7 @@ content-blocking-private-windows = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆ�
 content-blocking-cross-site-cookies-in-all-windows2 = ਸਾਰੀਆਂ ਵਿੰਡੋਆਂ ਵਿੱਚ ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼
 content-blocking-cross-site-tracking-cookies = ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼
 content-blocking-all-cross-site-cookies-private-windows = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼
+content-blocking-isolate-cross-site-cookies = ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ ਨੂੰ ਨਿਖੇੜੋ
 content-blocking-cross-site-tracking-cookies-plus-isolate = ਅੰਤਰ-ਸਾਈਟ  ਟਰੈਕ ਕਰਨ ਵਾਲੇ ਕੂਕੀਜ਼ ਅਤੇ ਬਾਕੀ ਕੂਕੀਜ਼ ਵੱਖ ਕਰੋ
 content-blocking-social-media-trackers = ਸਮਾਜਿਕ ਮੀਡਿਆ ਟਰੈਕਰ
 content-blocking-all-cookies = ਸਾਰੇ ਕੂਕੀਜ਼

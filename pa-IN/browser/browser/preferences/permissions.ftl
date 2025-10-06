@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = ਤੁਸੀਂ ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਸਿਰਫ਼-HTTPS ਢੰਗ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। { -brand-short-name } ਉਹਨਾਂ ਸਾਈਟਾਂ ਲਈ ਸੁਰੱਖਿਅਤ HTTPS ਕਨੈਕਸ਼ਨ ਵਾਸਤੇ ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਨਹੀਂ ਕਰੇਗਾ। ਛੋਟਾਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਉੱਤੇ ਲਾਗੂ ਨਹੀਂ ਹੁੰਦੀਆਂ ਹਨ।
 permissions-exceptions-https-only-desc2 = ਤੁਸੀਂ ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਸਿਰਫ਼-HTTPS ਢੰਗ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। { -brand-short-name } ਉਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਕਨੈਕਸ਼ਨ ਨੂੰ ਸੁਰੱਖਿਅਤ HTTPS ਵਾਸਤੇ ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਨਹੀਂ ਕਰੇਗਾ।
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = ਮਨਜ਼ੂਰ ਕੀਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਪੌਪਅੱਪ ਅਤੇ ਤੀਜੀ ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
