@@ -1398,6 +1398,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mostrar “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Mostrar “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1440,3 +1444,40 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Proteção melhorada contra a monitorização: Desativada para { $host }
 trustpanel-etp-description-enabled = Se parecer que algo não está a funcionar neste site, experimente desativar as proteções.
+trustpanel-etp-description-disabled = O { -brand-product-name } acha que as empresas devem segui-lo menos. Nós bloqueamos o maior número possível de rastreadores quando ativa  as proteções.
+trustpanel-connection-label-secure = Ligação segura
+trustpanel-connection-label-insecure = Ligação não segura
+trustpanel-header-enabled = { -brand-product-name } está a proteger
+trustpanel-description-enabled = Está protegido. Se detetarmos algo, iremos informá-lo.
+trustpanel-header-disabled = Você desativou as proteções
+trustpanel-description-disabled = { -brand-product-name } não está ao serviço. Sugerimos que volte a ativar as proteções.
+trustpanel-clear-cookies-button = Limpar cookies e dados de sites
+trustpanel-privacy-link = Definições de privacidade
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Limpar cookies e dados de site para { $host }
+trustpanel-clear-cookies-description = Remover os cookies e os dados de sites pode terminar a sua sessão nos sites e limpar os carrinhos de compras.
+trustpanel-clear-cookies-subview-button-clear = Limpar
+trustpanel-clear-cookies-subview-button-cancel = Cancelar
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Proteções da ligação para { $host }
+trustpanel-connection-secure = A sua ligação a este site é segura.
+trustpanel-connection-not-secure = A sua ligação a este site não é segura.
+trustpanel-siteinformation-morelink = Mais informação do site
+trustpanel-blocker-see-all = Ver tudo
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Proteções de rastreamento para { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> rastreador bloqueado neste site
+       *[other] <span>{ $count }</span> rastreadores bloqueados neste site
+    }
