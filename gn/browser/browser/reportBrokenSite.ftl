@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Emombe’u tenda vai
 report-broken-site-panel-header =
     .label = Emombe’u tenda vai
     .title = Emombe’u tenda vai
+report-broken-site-panel-learn-more-link = Eikuaave
 report-broken-site-panel-intro = Eipytyvõ { -brand-product-name } oiko porãve hag̃ua. { -vendor-short-name } oiporu marandu mondopyre anive hag̃ua iñapañuái ñanduti renda.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Mba’épa oñembyai

@@ -1179,6 +1179,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Opaite kookie tenda pa’ũgua (ojavykakuaa ñanduti rendápe)
 sitedata-option-block-all =
     .label = Opaite umi kookie (ombojavýta ñanduti renda)
+sitedata-clear2 =
+    .label = Embogue kundahára rapykuere
+    .accesskey = l
+sitedata-settings2 =
+    .label = Eñangareko kundahára mba’ekuaarãre
+    .accesskey = M
 sitedata-clear =
     .label = Mba’ekuaarã mopotĩ…
     .accesskey = l
@@ -1188,6 +1194,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Emongu’e oĩ’ỹva…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Eñangareko oĩ’ỹva…
+    .accesskey = x
+    .description = Eremi mba’e ñanduti roguépa tapia térã araka’eve oiporu kookie ha tenda mba’ekuaarã.
 
 ## Privacy Section - Cookie Banner Handling
 
