@@ -1060,9 +1060,16 @@ autofill-reauth-payment-methods-checkbox = กำหนดให้ต้อง�
 autofill-payment-methods-title = วิธีการชำระเงิน
 autofill-payment-methods-header =
     .aria-label = วิธีการชำระเงิน
+autofill-payment-methods-checkbox-message-2 =
+    .label = บันทึกและกรอกข้อมูลการชำระเงินอัตโนมัติ
+    .accesskey = ช
 autofill-payment-methods-manage-payments-button =
     .label = จัดการวิธีการชำระเงิน
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = กำหนดให้ต้องลงชื่อเข้าในอุปกรณ์เพื่อกรอกและจัดการวิธีการชำระเงินอัตโนมัติ
+    .accesskey = ล
 autofill-addresses-title = ที่อยู่และอื่นๆ
 autofill-addresses-header =
     .aria-label = ที่อยู่และอื่นๆ
@@ -1117,7 +1124,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = คุกกี้และข้อมูลไซต์
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = กำลังคำนวณขนาดข้อมูลไซต์และแคช…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = คุกกี้ ประวัติ ข้อมูลไซต์ และแคชที่จัดเก็บไว้ของคุณใช้พื้นที่ดิสก์ไป <strong>{ $value } { $unit }</strong>
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1154,6 +1167,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = คุกกี้ข้ามไซต์ทั้งหมด (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)
 sitedata-option-block-all =
     .label = คุกกี้ทั้งหมด (จะส่งผลให้เว็บไซต์ไม่สมบูรณ์)
+sitedata-clear2 =
+    .label = ล้างข้อมูลการเรียกดู
+    .accesskey = ล
+sitedata-settings2 =
+    .label = จัดการข้อมูลการเรียกดู
+    .accesskey = จ
 sitedata-clear =
     .label = ล้างข้อมูล…
     .accesskey = ล
@@ -1163,6 +1182,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = จัดการข้อยกเว้น…
     .accesskey = ข
+sitedata-cookies-exceptions2 =
+    .label = จัดการข้อยกเว้น
+    .accesskey = ข
+    .description = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์ได้
 
 ## Privacy Section - Cookie Banner Handling
 

@@ -477,8 +477,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = เปลี่ยน�
 newtab-weather-menu-change-temperature-units-celsius = เปลี่ยนเป็นเซลเซียส
 newtab-weather-menu-hide-weather = ซ่อนพยากรณ์อากาศในแท็บใหม่
 newtab-weather-menu-learn-more = เรียนรู้เพิ่มเติม
+newtab-weather-menu-detect-my-location = ตรวจจับตำแหน่งที่ตั้งของฉัน
 # This message is shown if user is working offline
 newtab-weather-error-not-available = ไม่มีข้อมูลพยากรณ์อากาศในขณะนี้
+newtab-weather-opt-in-see-weather = คุณต้องการดูสภาพอากาศสำหรับตำแหน่งที่ตั้งของคุณหรือไม่?
+newtab-weather-opt-in-not-now =
+    .label = ยังไม่ทำตอนนี้
+newtab-weather-opt-in-yes =
+    .label = ใช่
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = นครนิวยอร์ก
 
 ## Topic Labels
 
