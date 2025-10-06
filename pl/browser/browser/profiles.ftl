@@ -144,12 +144,23 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Własny motyw
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Ustawienia zbierania danych uległy zmianie.</strong> Zmiany wprowadzone w innym profilu mają zastosowanie do wszystkich profili na tym urządzeniu.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Wyświetl ustawienia
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Zamknij
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Książka
 briefcase-avatar-alt =
     .alt = Aktówka
+picture-avatar-alt =
+    .alt = Zdjęcie
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar-alt =
     .alt = Płótno
@@ -166,6 +177,8 @@ heart-avatar-alt =
     .alt = Serce
 heart-rate-avatar-alt =
     .alt = Tętno
+clock-avatar-alt =
+    .alt = Zegar
 history-avatar-alt =
     .alt = Historia
 leaf-avatar-alt =
@@ -190,6 +203,8 @@ present-avatar-alt =
     .alt = Prezent
 shopping-avatar-alt =
     .alt = Wózek sklepowy
+soccer-ball-avatar-alt =
+    .alt = Piłka nożna
 soccer-avatar-alt =
     .alt = Piłka nożna
 sparkle-single-avatar-alt =
@@ -200,6 +215,9 @@ video-game-controller-avatar-alt =
     .alt = Pad
 custom-avatar-alt =
     .alt = Własny awatar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globus
 # Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 default-favicon-avatar-alt =
     .alt = Domyślna ikona witryny
@@ -215,6 +233,7 @@ bike-avatar-alt =
 
 book-avatar = Książka
 briefcase-avatar = Aktówka
+clock-avatar = Zegar
 # Canvas refers to an artist's painting canvas, not the general material
 canvas-avatar = Płótno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
@@ -226,6 +245,8 @@ default-favicon-avatar = Domyślna ikona witryny
 diamond-avatar = Diament
 flower-avatar = Kwiatek
 folder-avatar = Folder
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globus
 hammer-avatar = Młotek
 heart-avatar = Serce
 heart-rate-avatar = Tętno
@@ -238,10 +259,12 @@ message-avatar = Wiadomość
 musical-note-avatar = Nutka
 palette-avatar = Paleta
 paw-print-avatar = Odcisk łapy
+picture-avatar = Zdjęcie
 plane-avatar = Samolot
 # Present refers to a gift box, not the current time period
 present-avatar = Prezent
 shopping-avatar = Wózek sklepowy
+soccer-ball-avatar = Piłka nożna
 soccer-avatar = Piłka nożna
 sparkle-single-avatar = Iskra
 star-avatar = Gwiazda
