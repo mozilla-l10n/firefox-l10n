@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Nie pokazuj ponownie
     .accesskey = N
 sandbox-unprivileged-namespaces-howtofix = Jak rozwiązać ten problem
+sandbox-content-disabled-warning = Piaskownica bezpieczeństwa jest wyłączona. Używana konfiguracja jest nieobsługiwana i mniej bezpieczna.
