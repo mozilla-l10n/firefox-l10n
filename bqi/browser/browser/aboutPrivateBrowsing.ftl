@@ -11,6 +11,7 @@ about-private-browsing-search-btn =
 about-private-browsing-handoff-no-engine =
     .title = پیتینیڌن یا زیڌن نشۊوی
 about-private-browsing-handoff-text-no-engine = پیتینیڌن یا زیڌن نشۊوی
+about-private-browsing-not-private = ایسا من ی نیمدری سیخومی نؽڌین.
 about-private-browsing-learn-more-link = قلوه دووسته بۊین
 about-private-browsing-focus-promo-cta = دانلود { -focus-brand-name }
 
