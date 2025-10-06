@@ -112,8 +112,24 @@ fxa-adoption-passwords-subtitle = Proteja as suas palavras-passe, sincronizando-
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Registar
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Mantenha as suas feeds favoritas na sua barra de tarefas
+taskbar-tabs-social-callout-subtitle = Inicie os seus sites sociais, como uma aplicação numa janela simplificada e protegida pelo { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Conversar a partir da sua barra de tarefas
+taskbar-tabs-chat-callout-subtitle = Inicie os seus sites de conversação como uma aplicação numa janela simplificada e protegida pelo { -brand-short-name }.
+taskbar-tabs-email-callout-title = Mantenha o seu correio eletrónico na sua barra de tarefas
+taskbar-tabs-email-callout-subtitle = Inicie o seu correio eletrónico como uma aplicação numa janela simplificada protegida pelo { -brand-short-name }.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Não perca tudo o que guardou quando mudar para o Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sincronize agora para manter os seus marcadores, palavras-passe e definições do { -brand-short-name } seguros e simples de restaurar.
+windows-10-eos-sync-urgency-title-2 = A dizer adeus ao Windows 10? Proteja os seus dados quando mudar.
+windows-10-eos-sync-urgency-subtitle-2 = Mesmo que não utilize o { -brand-short-name } diariamente, sincronize para manter os marcadores e as palavras-passe seguros e acessíveis.
+windows-10-eos-sync-new-device-title-1 = Não corra o risco de começar do zero no seu próximo dispositivo.
+windows-10-eos-sync-new-device-subtitle-1 = Sincronize para levar os seus marcadores, palavras-passe e definições preferidas do { -brand-short-name } consigo quando mudar.
+windows-10-eos-sync-new-device-title-2 = A mudar para um novo dispositivo? Não perca o que é importante.
 windows-10-eos-sync-dismiss-button-label = Dispensar
 
 ## Sidebar Strings

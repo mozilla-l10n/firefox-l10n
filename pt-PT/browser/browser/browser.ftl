@@ -1448,6 +1448,8 @@ trustpanel-etp-description-disabled = O { -brand-product-name } acha que as empr
 trustpanel-connection-label-secure = Ligação segura
 trustpanel-connection-label-insecure = Ligação não segura
 trustpanel-header-enabled = { -brand-product-name } está a proteger
+trustpanel-description-enabled2 = Está protegido. Se detetarmos algo, iremos fornecer-lhe essa informação.
+trustpanel-header-enabled-insecure = Tenha cuidado neste site
 trustpanel-description-enabled = Está protegido. Se detetarmos algo, iremos informá-lo.
 trustpanel-header-disabled = Você desativou as proteções
 trustpanel-description-disabled = { -brand-product-name } não está ao serviço. Sugerimos que volte a ativar as proteções.
@@ -1481,3 +1483,27 @@ trustpanel-blocker-section-header =
         [one] <span>{ $count }</span> rastreador bloqueado neste site
        *[other] <span>{ $count }</span> rastreadores bloqueados neste site
     }
+trustpanel-blocker-description = O { -brand-product-name } acha que as empresas devem segui-lo menos. Por isso, bloqueamos o máximo que conseguirmos.
+trustpanel-blocked-header = O { -brand-product-name } bloqueou estas coisas para si:
+trustpanel-tracking-header = O { -brand-product-name } permitiu estas coisas, e assim, os sites não têm problemas:
+trustpanel-tracking-description = Sem rastreadores, alguns botões, formulários e campos de autenticação podem não funcionar.
+trustpanel-insecure-section-header = A sua ligação não é segura
+trustpanel-insecure-description = Os dados que está a enviar para este site não estão encriptados. Podem ser visualizados, roubados ou alterados.
+trustpanel-list-label-tracking-content = Conteúdo de monitorização
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } identificador conhecido
+       *[other] { $count } identificadores conhecidos
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } rastreador das redes sociais
+       *[other] { $count } rastreadores das redes sociais
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } criptominerador
+       *[other] { $count } criptomineradores
+    }
+trustpanel-tracking-content-tab-list-header = Estes sites estão a tentar monitorizá-lo:
+trustpanel-cryptominer-tab-list-header = Estes sites estão a tentar criptominerar:

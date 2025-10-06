@@ -124,7 +124,7 @@ permissions-exceptions-addons-desc = Puedes especificar los sitios web que podr�
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Configuración. Reproducción automática
+    .title = Configuración - Reproducción automática
     .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Puedes administrar aquí los sitios que no siguen la configuración predeterminada de reproducción automática.
 

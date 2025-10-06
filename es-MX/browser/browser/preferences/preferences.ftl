@@ -196,7 +196,7 @@ browser-containers-enabled =
 browser-containers-learn-more = Saber más
 browser-containers-settings =
     .label = Configuración…
-    .accesskey = C
+    .accesskey = o
 containers-disable-alert-title = ¿Cerrar todo el contenedor de pestañas?
 
 ## Variables:
