@@ -408,4 +408,6 @@ windows-10-eos-feature-toast-dismiss-button = Zamknij
 etp-strict-exceptions-infobar-message = <strong>Ścisła ochrona przed śledzeniem może powodować niepoprawne działanie stron.</strong> Napraw najczęstsze problemy przez odblokowanie niezbędnych rzeczy, które mogą zawierać elementy śledzące.
 etp-strict-exceptions-infobar-learn-more = Więcej informacji
 etp-strict-exceptions-infobar-button = Napraw stronę
+    .accesskey = w
+etp-strict-exceptions-infobar-not-now = Nie teraz
     .accesskey = N
