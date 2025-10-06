@@ -279,3 +279,66 @@ custom-avatar-drag-handle =
     .aria-label = Zmień rozmiar obszaru przycinania
 barbell-avatar = Sztanga
 bike-avatar = Rower
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Użyj sztangi jako awatara
+bike-avatar-tooltip =
+    .tooltiptext = Użyj roweru jako awatara
+book-avatar-tooltip =
+    .tooltiptext = Użyj książki jako awatara
+briefcase-avatar-tooltip =
+    .tooltiptext = Użyj aktówki jako awatara
+picture-avatar-tooltip =
+    .tooltiptext = Użyj zdjęcia jako awatara
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Użyj rękodzieła jako awatara
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Użyj globusa jako awatara
+diamond-avatar-tooltip =
+    .tooltiptext = Użyj diamentu jako awatara
+flower-avatar-tooltip =
+    .tooltiptext = Użyj kwiatka jako awatara
+folder-avatar-tooltip =
+    .tooltiptext = Użyj folderu jako awatara
+hammer-avatar-tooltip =
+    .tooltiptext = Użyj młotka jako awatara
+heart-avatar-tooltip =
+    .tooltiptext = Użyj serca jako awatara
+heart-rate-avatar-tooltip =
+    .tooltiptext = Użyj tętna jako awatara
+clock-avatar-tooltip =
+    .tooltiptext = Użyj zegara jako awatara
+leaf-avatar-tooltip =
+    .tooltiptext = Użyj liścia jako awatara
+lightbulb-avatar-tooltip =
+    .tooltiptext = Użyj żarówki jako awatara
+makeup-avatar-tooltip =
+    .tooltiptext = Użyj makijażu jako awatara
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Użyj wiadomości jako awatara
+musical-note-avatar-tooltip =
+    .tooltiptext = Użyj nutki jako awatara
+palette-avatar-tooltip =
+    .tooltiptext = Użyj palety jako awatara
+paw-print-avatar-tooltip =
+    .tooltiptext = Użyj odcisku łapy jako awatara
+plane-avatar-tooltip =
+    .tooltiptext = Użyj samolotu jako awatara
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Użyj prezentu jako awatara
+shopping-avatar-tooltip =
+    .tooltiptext = Użyj wózku sklepowego jako awatara
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Użyj piłki nożnej jako awatara
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Użyj iskry jako awatara
+star-avatar-tooltip =
+    .tooltiptext = Użyj gwiazdy jako awatara
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Użyj pada jako awatara
