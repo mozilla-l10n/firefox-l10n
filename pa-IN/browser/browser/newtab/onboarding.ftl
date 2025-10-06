@@ -477,3 +477,9 @@ dismiss-button-label = ਖ਼ਾਰਜ ਕਰੋ
 sync-to-mobile-button-label = ਮੋਬਾਈਲ ਨਾਲ ਸਿੰਕ ਕਰੋ
 desktop-to-mobile-qr-code-alt =
     .aria-label = ਮੋਬਾਈਲ ਵਾਸਤੇ { -brand-product-name } ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ QR ਕੋਡ
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = ਬੈਕਅੱਪ ਤੋਂ ਬਹਾਲ ਕਰੋ
+restore-from-backup-subtitle = ਵਾਪਸ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਆਪਣੇ ਸਾਰੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰੋ।
+restore-from-backup-secondary-button = ਬਹਾਲ ਨਾ ਕਰੋ

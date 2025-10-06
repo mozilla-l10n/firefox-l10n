@@ -396,3 +396,5 @@ windows-10-eos-feature-toast-dismiss-button = ਖਾਰਜ ਕਰੋ
 etp-strict-exceptions-infobar-learn-more = ਹੋਰ ਜਾਣੋ
 etp-strict-exceptions-infobar-button = ਸੁਧਾਰ ਲਾਗੂ ਕਰੋ
     .accesskey = A
+etp-strict-exceptions-infobar-not-now = ਹੁਣੇ ਨਹੀਂ
+    .accesskey = N
