@@ -1375,6 +1375,14 @@ popup-warning-message =
         [one] O { -brand-short-name } impediu este site de abrir janelas pop-up.
        *[other] O { -brand-short-name } impediu este site de abrir { $popupCount } janelas pop-up.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] O { -brand-short-name } impediu este site de redirecionar.
+        [1] O { -brand-short-name } impediu este site de abrir e redirecionar uma janela de pop-up.
+       *[other] { -brand-short-name } prevented this site from opening { $popupCount } pop-up windows and redirecting.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.

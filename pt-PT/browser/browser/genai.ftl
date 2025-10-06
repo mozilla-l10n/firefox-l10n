@@ -93,6 +93,16 @@ genai-shortcuts-hide =
     .label = Ocultar atalho do chatbot
 genai-menu-choose-chatbot =
     .label = Escolher um Chatbot de IA
+genai-menu-ask-generic-2 =
+    .label = Perguntar ao Chatbot de IA
+    .accesskey = z
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Perguntar ao { $provider }
+    .accesskey = z
+genai-menu-no-provider-2 =
+    .label = Perguntar a um Chatbot de IA
+    .accesskey = z
 
 ## Chatbot header
 
@@ -116,6 +126,11 @@ genai-options-hide-shortcut =
     .label = Ocultar atalho ao selecionar texto
 genai-options-about-chatbot =
     .label = Sobre os chatbots de IA no { -brand-short-name }
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Como a página é longa, este é um resumo parcial.
 
 ## Chatbot footer
 
@@ -209,3 +224,19 @@ link-preview-reading-time =
         [one] { $range } minuto de tempo de leitura
        *[other] { $range } minutos de tempo de leitura
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Não podemos pré-visualizar esta ligação
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Visitar ligação
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Não conseguimos gerar pontos-chave para esta página da Internet.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Algo correu mal.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Tentar novamente
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Definições de pré-visualização de ligações
+link-preview-settings-enable =
+    .label = Ativar pré-visualizações de ligações
+    .description = Veja o título, descrição e mais informações da página quando utiliza um atalho ou utiliza menu de contexto numa ligação.
