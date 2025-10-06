@@ -1422,9 +1422,13 @@ popup-warning-button =
            *[other] P
         }
 # Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = Wyświetl „{ $popupURI }”
+# Variables:
 #   $redirectURI (String): the URI for the redirect
 popup-trigger-redirect-menuitem =
-    .label = Otwórz „{ $redirectURI }”
+    .label = Wyświetl „{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1471,6 +1475,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } uważa, że firmy 
 trustpanel-connection-label-secure = Zabezpieczone połączenie
 trustpanel-connection-label-insecure = Niezabezpieczone połączenie
 trustpanel-header-enabled = { -brand-product-name } jest na straży
+trustpanel-description-enabled2 = Ochrona jest włączona. Jeśli coś zauważymy, damy Ci znać.
+trustpanel-header-enabled-insecure = Zachowaj ostrożność na tej witrynie
+trustpanel-description-enabled-insecure = { -brand-product-name } zauważył coś podejrzanego.
 trustpanel-description-enabled = Ochrona jest włączona. Jeśli coś zauważymy, damy Ci znać.
 trustpanel-header-disabled = Wyłączono ochronę
 trustpanel-description-disabled = { -brand-product-name } jest po służbie. Zalecamy ponowne włączenie ochrony.
