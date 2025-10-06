@@ -285,4 +285,7 @@ about-logins-import-dialog-title = و من ٱووردن دووسمندیا کا�
 about-logins-import-dialog-done = ٱنجوم وابی
 about-logins-import-dialog-error-title = ختا و من ٱووڌن دووسمندیا
 about-logins-import-dialog-error-learn-more = قلوه دووسته بۊین
+about-logins-import-dialog-error-try-import-again = قپ ریت دووارته سی و من ٱووردن…
 about-logins-import-dialog-error-cancel = لقو
+about-logins-import-report-title = خولاسه و من ٱووردن دووسمندیا
+about-logins-import-report-row-description-added = و من ٱووڌن نۊ ٱوورده وابی

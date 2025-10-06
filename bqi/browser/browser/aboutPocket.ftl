@@ -8,6 +8,9 @@
 
 ## about:pocket-saved panel
 
+# Placeholder text for tag input
+pocket-panel-saved-add-tags =
+    .placeholder = ٱووردن برچسب
 pocket-panel-saved-save-tags = زفت
 pocket-panel-saved-saving-tags = هونی زفت ابۊ…
 
