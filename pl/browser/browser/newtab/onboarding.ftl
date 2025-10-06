@@ -423,6 +423,8 @@ onboarding-horizontal-tabs-tooltip =
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Okno przeglądarki wyświetlające karty na górze.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Wypróbuj czatbota sztucznej inteligencji w panelu bocznym
 
 ## New user onboarding checklist
 

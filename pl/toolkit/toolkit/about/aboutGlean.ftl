@@ -162,6 +162,8 @@ about-glean-unknown-metric-type-warning = Nieznany typ statystyk.
 about-glean-enable-new-features-promo =
     .message = Pracujemy nad dodawaniem nowych funkcji! Są one wciąż w fazie rozwoju, ale kliknij ten przycisk, jeśli chcesz je włączyć.
     .heading = Nowe funkcje już wkrótce!
+about-glean-enable-new-features-button = Włącz nowe funkcje
+about-glean-disable-new-features-button = Wyłącz nowe funkcje
 about-glean-about-data-explanation =
     <a data-l10n-name="glean-dictionary-link">Słownik { -glean-brand-name }</a>
     umożliwia przeglądanie listy zebranych danych.

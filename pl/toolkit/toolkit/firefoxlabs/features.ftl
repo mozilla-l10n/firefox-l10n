@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Ustaw minutnik, który p
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listy i minutnik na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
 experimental-features-newtab-widget-lists-and-timer-description = Miej swoją listę rzeczy do zrobienia zawsze przed oczami, otwierając nową kartę. Od list rzeczy do spakowania po listy zakupów — planuj wszystko w { -brand-product-name(case: "loc") }. Ustaw minutnik, który pomoże Ci się skupić, utrzymać plan lub przypomni o konieczności naładowania baterii. <a data-l10n-name="connect">Podziel się opinią</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantyczne wyszukiwanie w historii
+experimental-features-semantic-history-search-description = Korzystanie z lokalnego modelu uczenia maszynowego do podpowiadania stron z historii powiązanych z danym wyszukiwaniem na podstawie rozumienia języka naturalnego na pasku adresu { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Podziel się opinią</a>
