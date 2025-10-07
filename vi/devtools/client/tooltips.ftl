@@ -76,6 +76,7 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Hãy thử thê
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Hãy thử thêm <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Hãy thử xóa <strong>float</strong> hoặc thêm <strong>display:block</strong>. { learn-more }
 inactive-css-not-block-fix = Hãy thử thêm thuộc tính <strong>display:grid</strong> hoặc <strong>display:flex</strong>. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = Hãy thử thêm <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> hoặc <strong>display:flow-root</strong>. { learn-more }
 inactive-css-not-floated-fix = Hãy thử thêm thuộc tính <strong>float</strong> có giá trị khác <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Hãy thử đặt thuộc tính <strong>position</strong> của nó thành một thứ khác ngoài <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Đảm bảo bạn đang thêm thuộc tính vào phần tử được thay thế. { learn-more }
