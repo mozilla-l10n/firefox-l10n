@@ -477,8 +477,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Chuyển sang độ F
 newtab-weather-menu-change-temperature-units-celsius = Chuyển sang độ C
 newtab-weather-menu-hide-weather = Ẩn thời tiết trên thẻ mới
 newtab-weather-menu-learn-more = Tìm hiểu thêm
+newtab-weather-menu-detect-my-location = Phát hiện vị trí của tôi
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Dữ liệu thời tiết hiện không có sẵn.
+newtab-weather-opt-in-see-weather = Bạn có muốn xem thời tiết ở nơi bạn ở không?
+newtab-weather-opt-in-not-now =
+    .label = Không phải bây giờ
+newtab-weather-opt-in-yes =
+    .label = Đồng ý
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Thành phố New York
 
 ## Topic Labels
 

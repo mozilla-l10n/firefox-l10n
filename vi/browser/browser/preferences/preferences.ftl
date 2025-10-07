@@ -1124,7 +1124,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie và dữ liệu trang
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Đang tính toán kích thước bộ nhớ đệm và dữ liệu trang…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Cookie, lịch sử, dữ liệu trang web và bộ nhớ đệm của bạn hiện đang sử dụng <strong>{ $value } { $unit }</strong> dung lượng đĩa.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1161,6 +1167,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Tất cả cookie liên trang web (có thể khiến trang web bị hỏng)
 sitedata-option-block-all =
     .label = Tất cả các cookie (có thể khiến các trang web bị hỏng)
+sitedata-clear2 =
+    .label = Xoá dữ liệu duyệt web
+    .accesskey = l
+sitedata-settings2 =
+    .label = Quản lý dữ liệu duyệt web
+    .accesskey = M
 sitedata-clear =
     .label = Xóa dữ liệu...
     .accesskey = l
@@ -1170,6 +1182,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Quản lý ngoại lệ…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Quản lý ngoại lệ
+    .accesskey = x
+    .description = Bạn có thể chỉ định trang web nào luôn được phép hoặc không bao giờ được phép sử dụng cookie và dữ liệu trang web.
 
 ## Privacy Section - Cookie Banner Handling
 
