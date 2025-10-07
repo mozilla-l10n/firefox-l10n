@@ -480,6 +480,63 @@ sync-to-mobile-button-label = Sincronizza con dispositivi mobili
 desktop-to-mobile-qr-code-alt =
     .aria-label = Codice QR per scaricare { -brand-product-name } per dispositivi mobili
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Vuoi aggiornare a Windows 11?
+    Facciamo subito il backup dei dati di { -brand-product-name }.
+create-backup-screen-1-subtitle = Proteggi automaticamente password, segnalibri e altri dati in 1–2 minuti.
+create-backup-screen-1-flair = Consigliato
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Ulteriori informazioni</a>
+create-backup-screen-1-sync-label = Sincronizza con { -brand-product-name }
+create-backup-screen-1-sync-body = Esegue il salvataggio di tutti i dispositivi in cui è stato effettuato l’accesso
+create-backup-screen-1-backup-label = Salva su PC
+create-backup-screen-1-backup-body = Salva sul dispositivo o su OneDrive
+create-backup-select-tile-button-label = Seleziona
+create-backup-back-button-label = Indietro
+create-backup-show-fewer =
+    .label = Visualizza meno elementi di questo tipo
+create-backup-screen-2-title = Scegli i dati di { -brand-product-name } da salvare
+create-backup-screen-2-subtitle = Richiede solo un minuto. Il salvataggio dei dati viene effettuato una volta al giorno.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configurazione semplificata
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Segnalibri, cronologia, impostazioni e altri dati
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Non include password e pagamenti
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Non crittato
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Tutti i dati
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Include password e metodi di pagamento
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Crittato con una password
+create-backup-screen-3-title = Crea una password per il file di backup
+create-backup-screen-3-subtitle = Obbligatorio per crittare i tuoi dati. Conservala in un posto facile da ricordare.
+fx-backup-opt-in-header = Scegli la posizione del file
+fx-backup-opt-in-filepath-label = Scegli una posizione che intendi trasferire sul nuovo dispositivo, ad esempio OneDrive.
+fx-backup-opt-in-create-password-label = Inserisci la password
+fx-backup-opt-in-confirm-btn-label = Continua
+fx-backup-opt-in-cancel-btn-label = Indietro
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Il backup è pianificato
+fx-backup-confirmation-screen-close-button = Chiudi
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Tutti i dati di navigazione inclusi
+fx-backup-confirmation-screen-all-data-item-text-2 = Salvato sul dispositivo
+fx-backup-confirmation-screen-all-data-item-text-3 = Crittato e protetto da password
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Segnalibri, cronologia, impostazioni e altri dati inclusi
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Salvato sul dispositivo
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Password e metodi di pagamento non inclusi
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Vai alle <a data-l10n-name="settings">impostazioni</a> per includere i dati sensibili.
+fx-backup-confirmation-screen-item-subtext-1 = Il backup verrà avviato tra pochi minuti e verrà eseguito una volta al giorno. Puoi controllare il progresso nelle <a data-l10n-name="settings">impostazioni</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } cercherà il tuo backup in caso di reinstallazione.
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Ripristina da backup
