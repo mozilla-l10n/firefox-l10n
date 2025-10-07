@@ -485,17 +485,17 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-title =
     Vuoi aggiornare a Windows 11?
     Facciamo subito il backup dei dati di { -brand-product-name }.
-create-backup-screen-1-subtitle = Proteggi automaticamente password, segnalibri e altri dati in 1–2 minuti.
+create-backup-screen-1-subtitle = Proteggi automaticamente password, segnalibri e altri dati. Bastano un paio di minuti.
 create-backup-screen-1-flair = Consigliato
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Ulteriori informazioni</a>
 create-backup-screen-1-sync-label = Sincronizza con { -brand-product-name }
 create-backup-screen-1-sync-body = Esegue il salvataggio di tutti i dispositivi in cui è stato effettuato l’accesso
-create-backup-screen-1-backup-label = Salva su PC
+create-backup-screen-1-backup-label = Salva sul computer
 create-backup-screen-1-backup-body = Salva sul dispositivo o su OneDrive
 create-backup-select-tile-button-label = Seleziona
 create-backup-back-button-label = Indietro
 create-backup-show-fewer =
-    .label = Visualizza meno elementi di questo tipo
+    .label = Visualizza meno messaggi come questo
 create-backup-screen-2-title = Scegli i dati di { -brand-product-name } da salvare
 create-backup-screen-2-subtitle = Richiede solo un minuto. Il salvataggio dei dati viene effettuato una volta al giorno.
 # Label for the "Easy setup" backup option
@@ -514,7 +514,7 @@ create-backup-screen-2-all-list-2 = Include password e metodi di pagamento
 create-backup-screen-2-all-list-3 = Crittato con una password
 create-backup-screen-3-title = Crea una password per il file di backup
 create-backup-screen-3-subtitle = Obbligatorio per crittare i tuoi dati. Conservala in un posto facile da ricordare.
-fx-backup-opt-in-header = Scegli la posizione del file
+fx-backup-opt-in-header = Scegli dove salvare il file
 fx-backup-opt-in-filepath-label = Scegli una posizione che intendi trasferire sul nuovo dispositivo, ad esempio OneDrive.
 fx-backup-opt-in-create-password-label = Inserisci la password
 fx-backup-opt-in-confirm-btn-label = Continua
