@@ -119,6 +119,7 @@ policy-PostQuantumKeyAgreementEnabled = Embojuruja ñe’ẽñemi jokupyty post-
 policy-PDFjs = Eipe’a térã emboheko PDF.js, PDF jehechaha oĩva { -brand-short-name } ryepýpe.
 policy-Permissions2 = Emboheko ñemoneĩ ta’ãnganohẽha, ñe’ẽatãha, tendaite, marandu’í ha ñembohetápe g̃uarã.
 policy-PictureInPicture = Emyandy térã embogue Picture-in-Picture.
+policy-PopupBlocking2 = Eheja peteĩva ñanduti rogue tohechauka ovetã apysẽ ha toñemondo mbohapyha rupive.
 policy-PopupBlocking = Emoneĩ ndahetái ñanduti rendápe ohechaukávo ovetã iñapysẽva ijypykue rupi.
 policy-Preferences = Emboheko ha ejoko tepykue jeguerohoryvéva aty’ípe g̃uarã.
 policy-PrivateBrowsingModeAvailability = Emboheko ñeikundaha ñemiguáva rekópe.
