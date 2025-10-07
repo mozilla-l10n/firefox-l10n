@@ -478,6 +478,12 @@ newtab-weather-menu-hide-weather = Нинҳон кардани обу ҳаво �
 newtab-weather-menu-learn-more = Маълумоти бештар
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Айни ҳол маълумот дар бораи обу ҳаво дастнорас аст.
+newtab-weather-opt-in-not-now =
+    .label = Ҳоло не
+newtab-weather-opt-in-yes =
+    .label = Ҳа
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Шаҳри Ню-Йорк
 
 ## Topic Labels
 

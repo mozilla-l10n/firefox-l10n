@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Пок кардан
 text-action-highlight-selection =
     .label = Ҷудокунии интихоб
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Илова кардани шарҳ ба қисми интихобшуда
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Шарҳ додан ба қисми интихобшуда

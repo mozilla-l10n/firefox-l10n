@@ -1139,6 +1139,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Кукиҳо ва иттилооти сомона
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Ҳисобкунии ҳаҷми маълумоти сомона ва андозаи зерҳофиза…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1176,6 +1178,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Ҳамаи кукиҳои байнисомонавӣ (метавонанд фаъолияти сомонаҳоро вайрон кунанд)
 sitedata-option-block-all =
     .label = Ҳамаи кукиҳо (метавонанд фаъолияти сомонаҳоро вайрон кунанд)
+sitedata-clear2 =
+    .label = Пок кардани маълумоти тамошобинӣ
+    .accesskey = П
+sitedata-settings2 =
+    .label = Идора кардани маълумоти тамошобинӣ
+    .accesskey = И
 sitedata-clear =
     .label = Пок кардани маълумот…
     .accesskey = П
