@@ -283,15 +283,15 @@ tab-group-name-default = Grup fără nume
 tab-context-move-tab-to-new-group =
     .label =
         { $tabCount ->
-            [1] Adaugă fila în grupul nou
-           *[other] Adaugă filele în grupul nou
+            [1] Adaugă fila într-un grup nou
+           *[other] Adaugă filele într-un grup nou
         }
     .accesskey = G
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
-            [1] Adaugă fila în grupul nou
-           *[other] Adaugă filele în grupul nou
+            [1] Adaugă fila într-un grup nou
+           *[other] Adaugă filele într-un grup nou
         }
     .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
