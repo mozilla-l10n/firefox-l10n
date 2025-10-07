@@ -1249,7 +1249,7 @@ permissions-autoplay-settings =
     .label = Կարգավորումներ...
     .accesskey = t
 permissions-block-popups =
-    .label = Կանխել Pop-up պատուհանները
+    .label = Կանխել ելնող պատուհանները
     .accesskey = Կ
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
