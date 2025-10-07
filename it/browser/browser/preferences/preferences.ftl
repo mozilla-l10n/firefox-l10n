@@ -1336,7 +1336,6 @@ content-blocking-etp-standard-tcp-rollout-description = La Protezione totale per
 content-blocking-etp-standard-tcp-rollout-learn-more = Ulteriori informazioni
 content-blocking-etp-standard-tcp-title = Include Protezione totale per i cookie, lo strumento più potente per la protezione della privacy che abbiamo mai realizzato
 content-blocking-warning-title = Attenzione
-content-blocking-and-isolating-etp-warning-description-3 = Questa impostazione potrebbe causare la mancata visualizzazione di contenuti o impedire il corretto funzionamento di alcuni siti web. Sono disponibili delle eccezioni facoltative per i siti web che presentano incompatibilità note con questa configurazione. Per ridurre la possibilità di malfunzionamenti, consenti queste eccezioni per gli elementi traccianti. Se un sito non funziona correttamente, puoi disattivare la protezione antitracciamento per caricare tutti i contenuti e segnalare il problema, aiutandoci a risolverlo per tutti gli utenti.
 content-blocking-warning-title-2 = Alcuni siti potrebbero non funzionare correttamente con una protezione antitracciamento restrittiva
 content-blocking-warning-title-custom = Alcuni siti potrebbero non funzionare correttamente con una protezione antitracciamento personalizzata
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1350,18 +1349,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Risolvi problemi minori con i siti
     .description = Consente di ripristinare elementi come i video negli articoli o le sezioni dei commenti sbloccando componenti che potrebbero includere elementi traccianti. Questo può diminuire i problemi del sito, ma garantisce una protezione minore. È necessario utilizzarlo insieme alle correzioni per problemi gravi.
-content-blocking-baseline-exceptions =
-    .label = Consenti a { -brand-short-name } di applicare automaticamente le eccezioni necessarie per evitare problemi significativi con i siti web.
-content-blocking-baseline-exceptions-2 =
-    .label = Favorisce il corretto caricamento e funzionamento dei siti sbloccando solo elementi essenziali che potrebbero contenere elementi traccianti. Questa soluzione permette di risolvere i problemi più comuni.
-content-blocking-convenience-exceptions =
-    .label = Applica automaticamente anche le eccezioni necessarie solo per risolvere problemi minori e rendere disponibili funzioni utili.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Consente di ripristinare elementi come i video negli articoli o le sezioni dei commenti sbloccando componenti che potrebbero includere elementi traccianti. Questo può diminuire i problemi del sito, ma garantisce una protezione minore. È necessario utilizzarlo insieme alle correzioni per problemi gravi.
-content-blocking-baseline-label = Risolvi problemi gravi con i siti (opzione consigliata)
-content-blocking-convenience-label = Risolvi problemi minori con i siti
-content-blocking-exceptions-subheader = Risolvi problemi con i siti
 content-blocking-baseline-uncheck-warning-dialog-title = Disattivare le correzioni?
 content-blocking-baseline-uncheck-warning-dialog-body = Questa impostazione consente di risolvere i problemi più comuni con i siti. Disattivandola, alcuni siti potrebbero non funzionare e { -brand-short-name } non sarà in grado di aiutarti a risolvere questi problemi.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Disattiva correzioni
