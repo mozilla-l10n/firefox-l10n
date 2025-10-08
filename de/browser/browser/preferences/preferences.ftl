@@ -127,6 +127,10 @@ startup-header = Start
 always-check-default =
     .label = Immer überprüfen, ob { -brand-short-name } der Standardbrowser ist
     .accesskey = p
+is-default-browser =
+    .message = { -brand-short-name } ist derzeit der Standardbrowser
+is-not-default-browser =
+    .message = { -brand-short-name } ist nicht Ihr Standardbrowser
 is-default = { -brand-short-name } ist derzeit der Standardbrowser
 is-not-default = { -brand-short-name } ist nicht Ihr Standardbrowser
 set-as-my-default-browser =
@@ -1330,7 +1334,6 @@ content-blocking-etp-standard-tcp-rollout-description = Der vollständige Cookie
 content-blocking-etp-standard-tcp-rollout-learn-more = Weitere Informationen
 content-blocking-etp-standard-tcp-title = Beinhaltet den vollständigen Cookie-Schutz, unsere leistungsfähigste Datenschutzfunktion aller Zeiten
 content-blocking-warning-title = Achtung!
-content-blocking-and-isolating-etp-warning-description-3 = Diese Einstellung kann dazu führen, dass einige Websites Inhalte nicht korrekt anzeigen oder nicht funktionieren. Wir bieten optionale Ausnahmen für Websites, von denen wir wissen, dass sie von Ihrer Konfiguration betroffen sein können. Um das Risiko fehlerhafter Websites zu reduzieren, erlauben Sie diese Ausnahmen für die Aktivitätenverfolgung. Wenn eine Website defekt zu sein scheint, können Sie den Schutz vor Aktivitätenverfolgung für diese Website deaktivieren, um alle Inhalte zu laden und das Problem zu melden, damit wir bei der Behebung des Problems helfen können.
 content-blocking-warning-title-2 = Einige Websites können möglicherweise wegen dem strengen Schutz vor Aktivitätenverfolgung nicht funktionieren.
 content-blocking-warning-title-custom = Einige Websites können möglicherweise wegen dem benutzerdefinierten Schutz vor Aktivitätenverfolgung nicht funktionieren.
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1347,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Kleinere Probleme mit Websites beheben
     .description = Stellt Dinge wie Videos in einem Artikel oder Kommentarabschnitten wieder her, indem es Elemente freigibt, die Tracker enthalten könnten. Dies kann Probleme mit der Website reduzieren, bietet aber weniger Schutz. Muss mit Korrekturen für größere Probleme verwendet werden.
-content-blocking-baseline-exceptions =
-    .label = { -brand-short-name } erlauben, Ausnahmen automatisch anzuwenden, um größere Probleme mit Websites zu vermeiden.
-content-blocking-baseline-exceptions-2 =
-    .label = Hilft beim Laden von Webseiten und Funktionen, indem nur wichtige Elemente freigeschaltet werden, die Tracker enthalten könnten. Deckt die häufigsten Probleme ab.
-content-blocking-convenience-exceptions =
-    .label = Wenden Sie auch automatisch Ausnahmen an, die nur erforderlich sind, um kleinere Probleme zu beheben und Komfortfunktionen zur Verfügung zu stellen.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Stellt Dinge wie Videos in einem Artikel oder Kommentarabschnitten wieder her, indem es Elemente freigibt, die Tracker enthalten könnten. Dies kann Probleme mit der Website reduzieren, bietet aber weniger Schutz. Muss mit Korrekturen für größere Probleme verwendet werden.
-content-blocking-baseline-label = Größere Probleme mit Websites beheben (empfohlen)
-content-blocking-convenience-label = Kleinere Probleme mit Websites beheben
-content-blocking-exceptions-subheader = Probleme mit der Website beheben
 content-blocking-baseline-uncheck-warning-dialog-title = Sollen die Korrekturen wirklich deaktiviert werden?
 content-blocking-baseline-uncheck-warning-dialog-body = Diese Einstellung hilft bei der Behebung der häufigsten Probleme mit der Website. Wenn Sie sie deaktivieren, funktionieren einige Websites möglicherweise nicht und { -brand-short-name } kann nicht bei der Behebung dieser Probleme helfen.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Fehlerbehebungen deaktivieren
@@ -1555,7 +1546,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Zertifikate
-certs-description = Zertifikate konfigurieren, die { -brand-short-name } zur Authentifizierung verwendet.
 certs-enable-ocsp =
     .label = Aktuelle Gültigkeit von Zertifikaten durch Anfrage bei OCSP-Server bestätigen lassen
     .accesskey = G
@@ -1573,6 +1563,7 @@ space-alert-over-5gb-settings-button =
     .accesskey = E
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } verfügt über nur noch wenig freien Speicherplatz.</strong> Website-Inhalte werden vielleicht nicht richtig angezeigt. Sie können gespeicherte Daten im Menü Einstellungen > Datenschutz & Sicherheit > Cookies und Website-Daten löschen.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } verfügt über nur noch wenig freien Speicherplatz.</strong> Website-Inhalte werden vielleicht nicht richtig angezeigt. Besuchen Sie "Weitere Informationen", um die Speichernutzung für ein besseres Weberlebnis zu optimieren.
+certs-description = Zertifikate konfigurieren, die { -brand-short-name } zur Authentifizierung verwendet.
 
 ## Privacy Section - HTTPS-Only
 
