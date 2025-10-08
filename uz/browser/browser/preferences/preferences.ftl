@@ -827,6 +827,7 @@ certs-view =
 certs-devices =
     .label = Xavfsizlik qurilmalari
     .accesskey = X
+certs-devices-enable-fips = FIPS’ni yoqib qo‘yish
 
 ## Privacy Section - HTTPS-Only
 
