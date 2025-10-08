@@ -1568,6 +1568,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = { -brand-short-name } dowóliś, kórjenjowym certifikatam tśeśich póbitowarjow awtomatiski dowěriś, kótarež instalěrujośo
     .accesskey = k
+certs-devices-enable-fips = FIPS zmóžniś
 space-alert-over-5gb-settings-button =
     .label = Nastajenja wócyniś
     .accesskey = c
