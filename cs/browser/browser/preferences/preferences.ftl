@@ -1809,6 +1809,9 @@ space-alert-under-5gb-message2 =
        *[no-cases] <strong>Aplikaci { -brand-short-name } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Klepněte na „Dozvědět se více“ o optimalizaci využití disku k lepšímu prohlížení webu.
     }
 certs-description = Nakonfigurujte certifikáty, které { -brand-short-name } používá pro autentizaci.
+certs-description2 =
+    .label = Certifikáty
+    .description = Nakonfigurujte certifikáty, které { -brand-short-name } používá pro autentizaci.
 
 ## Privacy Section - HTTPS-Only
 
