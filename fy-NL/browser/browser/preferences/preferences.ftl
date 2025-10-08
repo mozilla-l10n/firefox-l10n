@@ -1560,6 +1560,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = { -brand-short-name } tastean om troch jo ynstallearre rootsertifikaten fan tredden automatysk te fertrouwen
     .accesskey = t
+certs-devices-enable-fips = FIPS ynskeakelje
 space-alert-over-5gb-settings-button =
     .label = Ynstellingen iepenje
     .accesskey = i
