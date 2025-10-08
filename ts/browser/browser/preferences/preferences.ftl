@@ -246,6 +246,7 @@ forms-master-pw-fips-desc = Ku cinca phasiwedi swi tsandzile
 
 ## Privacy Section - Certificates
 
+certs-devices-enable-fips = FIPS yi kotekile
 
 ## Privacy Section - HTTPS-Only
 
