@@ -1101,6 +1101,7 @@ certs-view =
 certs-devices =
     .label = Siccarness Devices…
     .accesskey = D
+certs-devices-enable-fips = Enable FIPS
 space-alert-over-5gb-settings-button =
     .label = Open Settins
     .accesskey = O
