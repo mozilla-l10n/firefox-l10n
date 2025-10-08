@@ -319,6 +319,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Гэрчилгээ
+certs-devices-enable-fips = FIPS зөвшөөр
 
 ## Privacy Section - HTTPS-Only
 
