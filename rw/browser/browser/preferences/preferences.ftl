@@ -267,6 +267,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Ibyemezo
+certs-devices-enable-fips = Gukoresha FIPS
 
 ## Privacy Section - HTTPS-Only
 
