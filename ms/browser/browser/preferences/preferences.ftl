@@ -767,6 +767,7 @@ certs-view =
 certs-devices =
     .label = Peranti Keselamatan…
     .accesskey = P
+certs-devices-enable-fips = Dayakan FIPS
 
 ## Privacy Section - HTTPS-Only
 
