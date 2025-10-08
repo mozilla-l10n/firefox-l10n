@@ -1330,7 +1330,6 @@ content-blocking-etp-standard-tcp-rollout-description = Totale cookiebeskerming 
 content-blocking-etp-standard-tcp-rollout-learn-more = Mear ynfo
 content-blocking-etp-standard-tcp-title = Befettet Totale cookiebeskerming, ús krêftichste privacyfunksje ea
 content-blocking-warning-title = Let op!
-content-blocking-and-isolating-etp-warning-description-3 = Dizze ynstelling kin derfoar soargje dat guon websites ynhâld net werjaan of goed funksjonearje. Wy biede opsjonele útsûnderingen foar websites wêrfan wy witte dat se beynfloede wurde kinne troch jo konfiguraasje. Om de kâns op defekte websites te ferminderjen, kinne jo dizze trackerútsûnderingen tastean. As in website net liket te wurkjen, kinne jo beskerming tsjin folgjen foar dy website útskeakelje om alle ynhâld te laden en it probleem te melden, sadat wy it foar elkenien oplosse kinne.
 content-blocking-warning-title-2 = Guon websites wurkje mooglik net goed mei strikte beskerming tsjin folgjen
 content-blocking-warning-title-custom = Guon websites wurkje mooglik net goed mei oanpaste beskerming tsjin folgjen
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1343,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Lytse problemen mei de website oplosse
     .description = Werstelt saken as fideo’s yn in artikel of kommentaarseksjes troch eleminten dy’t trackers befetsje kinne te deblokkearjen. Dit kin problemen mei de website ferminderje, mar biedt minder beskerming. Moat brûkt wurde mei oplossingen foar grutte problemen.
-content-blocking-baseline-exceptions =
-    .label = { -brand-short-name } tastean om automatysk útsûnderingen ta te passen dy’t nedich binne om grutte defekten fan de website foar te kommen.
-content-blocking-baseline-exceptions-2 =
-    .label = Helpt websites en funksjes te laden troch allinnich essinsjele eleminten dy’t trackers befetsje kinne te deblokkearjen. Dekt de meast foarkommende problemen.
-content-blocking-convenience-exceptions =
-    .label = Ek automatysk útsûnderingen tapasse dy’t allinnich nedich binne om lytse problemen op te lossen en gemaksfunksjes beskikber te meitsjen.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Werstelt saken as fideo’s yn in artikel of kommentaarseksjes troch eleminten dy’t trackers befetsje kinne te deblokkearjen. Dit kin problemen mei de website ferminderje, mar biedt minder beskerming. Moat brûkt wurde mei oplossingen foar grutte problemen.
-content-blocking-baseline-label = Grutte problemen mei de website oplosse (oanrekommandearre)
-content-blocking-convenience-label = Lytse problemen mei de website oplosse
-content-blocking-exceptions-subheader = Problemen mei de website oplosse
 content-blocking-baseline-uncheck-warning-dialog-title = Binne jo wis dat jo oplossingen útskeakelje wolle?
 content-blocking-baseline-uncheck-warning-dialog-body = Dizze ynstelling helpt de meast foarkommende websiteproblemen op te lossen. As jo it útskeakelje, wurkje guon siden miskien net, en { -brand-short-name } sil net helpe kinne by it oplossen fan dizze problemen.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Oplossingen útskeakelje
@@ -1555,7 +1542,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikaten
-certs-description = De sertifikaten dy’t { -brand-short-name } brûkt foar autentikaasje konfigurearje.
 certs-enable-ocsp =
     .label = Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen
     .accesskey = F
