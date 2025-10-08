@@ -1551,6 +1551,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung lượng đĩa.</strong> Nội dung trang web có thể không hiển thị chính xác. Bạn có thể xóa dữ liệu được lưu trữ trong Cài đặt > Riêng tư & Bảo mật > Cookie và dữ liệu trang.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung lượng đĩa. </strong>Nội dung trang web có thể không hiển thị chính xác. Truy cập “Tìm hiểu thêm” để tối ưu hóa việc sử dụng đĩa của bạn để có trải nghiệm duyệt web tốt hơn.
 certs-description = Cấu hình chứng chỉ mà { -brand-short-name } sử dụng để xác thực.
+certs-description2 =
+    .label = Chứng nhận
+    .description = Cấu hình chứng chỉ mà { -brand-short-name } sử dụng để xác thực.
 
 ## Privacy Section - HTTPS-Only
 
