@@ -1583,6 +1583,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>Mae { -brand-short-name } yn brin o le ar ddisg.</strong> Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Mae modd i chi glirio data wedi ei storio yn Dewisiadau > Preifatrwydd a Diogelwch > Cwcis a Data Gwefan.
 space-alert-under-5gb-message2 = <strong>Mae { -brand-short-name } yn brin o le ar ddisg.</strong> Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Ewch i “Learn More” i wella'r defnydd o'r disg ar gyfer gwell profiad pori.
 certs-description = Ffurfweddu'r tystysgrifau mae { -brand-short-name } yn eu defnyddio ar gyfer dilysu.
+certs-description2 =
+    .label = Tystysgrifau
+    .description = Ffurfweddu'r tystysgrifau mae { -brand-short-name } yn eu defnyddio ar gyfer dilysu.
 
 ## Privacy Section - HTTPS-Only
 
