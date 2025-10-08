@@ -1567,6 +1567,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } håller på att få slut på diskutrymme.</strong> Webbplatsens innehåll kanske inte visas korrekt. Du kan rensa lagrad data i Inställningar>Sekretess & säkerhet>Kakor och webbplatsdata.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } håller på att få slut på diskutrymme.</strong> Webbplatsens innehåll kanske inte visas korrekt. Besök "Läs mer" för att optimera din diskanvändning för bättre surfupplevelse.
 certs-description = Konfigurera certifikaten som { -brand-short-name } använder för autentisering.
+certs-description2 =
+    .label = Certifikat
+    .description = Konfigurera certifikaten som { -brand-short-name } använder för autentisering.
 
 ## Privacy Section - HTTPS-Only
 
