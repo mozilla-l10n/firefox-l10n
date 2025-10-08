@@ -127,6 +127,10 @@ startup-header = Vid start
 always-check-default =
     .label = Kontrollera alltid om { -brand-short-name } är din standardwebbläsare
     .accesskey = a
+is-default-browser =
+    .message = { -brand-short-name } är din standardwebbläsare
+is-not-default-browser =
+    .message = { -brand-short-name } är inte din standardwebbläsare
 is-default = { -brand-short-name } är din standardwebbläsare
 is-not-default = { -brand-short-name } är inte din standardwebbläsare
 set-as-my-default-browser =
@@ -1330,7 +1334,6 @@ content-blocking-etp-standard-tcp-rollout-description = Totalt skydd mot kakor i
 content-blocking-etp-standard-tcp-rollout-learn-more = Lär dig mer
 content-blocking-etp-standard-tcp-title = Inkluderar totalt skydd mot kakor, vår mest kraftfulla integritetsfunktion någonsin
 content-blocking-warning-title = Se upp!
-content-blocking-and-isolating-etp-warning-description-3 = Den här inställningen kan göra att vissa webbplatser inte visar innehåll eller fungerar korrekt. Vi tillhandahåller valfria undantag för webbplatser som vi vet kan påverkas av din konfiguration. För att minska risken för trasiga webbplatser, tillåt dessa spårningsundantag. Om en webbplats verkar trasig kan du stänga av spårningsskydd för den webbplatsen för att läsa in allt innehåll och rapportera problemet så att vi kan hjälpa till att åtgärda det för alla.
 content-blocking-warning-title-2 = Vissa webbplatser kan sluta fungera med det strikta spårningsskyddet
 content-blocking-warning-title-custom = Vissa webbplatser kan sluta fungera med anpassat spårningsskydd
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1347,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Åtgärda mindre webbplatsproblem
     .description = Återställer saker som videor i en artikel eller kommentarsfält genom att avblockera element som kan innehålla spårare. Detta kan minska webbplatsproblem men erbjuder mindre skydd. Måste användas med korrigeringar för större problem.
-content-blocking-baseline-exceptions =
-    .label = Tillåt { -brand-short-name } att automatiskt tillämpa undantag som krävs för att undvika större webbplatsfel.
-content-blocking-baseline-exceptions-2 =
-    .label = Hjälper till att ladda webbplatser och funktioner genom att endast avblockera viktiga element som kan innehålla spårare. Täcker de vanligaste problemen.
-content-blocking-convenience-exceptions =
-    .label = Tillämpa även undantag automatiskt som bara krävs för att åtgärda mindre problem och göra bekvämlighetsfunktioner tillgängliga.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Återställer saker som videor i en artikel eller kommentarsfält genom att avblockera element som kan innehålla spårare. Detta kan minska webbplatsproblem men erbjuder mindre skydd. Måste användas med korrigeringar för större problem.
-content-blocking-baseline-label = Åtgärda större webbplatsproblem (rekommenderas)
-content-blocking-convenience-label = Åtgärda mindre webbplatsproblem
-content-blocking-exceptions-subheader = Åtgärda webbplatsproblem
 content-blocking-baseline-uncheck-warning-dialog-title = Är du säker på att du vill inaktivera korrigeringar?
 content-blocking-baseline-uncheck-warning-dialog-body = Den här inställningen hjälper till att åtgärda de vanligaste webbplatsproblemen. Om du inaktiverar den kanske vissa webbplatser inte fungerar, och { -brand-short-name } kommer inte att kunna hjälpa till att felsöka dessa problem.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Stäng av korrigeringar
@@ -1555,7 +1546,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikat
-certs-description = Konfigurera certifikaten som { -brand-short-name } använder för autentisering.
 certs-enable-ocsp =
     .label = Fråga OCSP responder-servrar för att bekräfta certifikatens aktuella giltighet
     .accesskey = F
@@ -1573,6 +1563,7 @@ space-alert-over-5gb-settings-button =
     .accesskey = n
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } håller på att få slut på diskutrymme.</strong> Webbplatsens innehåll kanske inte visas korrekt. Du kan rensa lagrad data i Inställningar>Sekretess & säkerhet>Kakor och webbplatsdata.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } håller på att få slut på diskutrymme.</strong> Webbplatsens innehåll kanske inte visas korrekt. Besök "Läs mer" för att optimera din diskanvändning för bättre surfupplevelse.
+certs-description = Konfigurera certifikaten som { -brand-short-name } använder för autentisering.
 
 ## Privacy Section - HTTPS-Only
 
