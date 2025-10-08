@@ -127,6 +127,10 @@ startup-header = Aviar
 always-check-default =
     .label = Adina controllar sche { -brand-short-name } è il navigatur da standard
     .accesskey = d
+is-default-browser =
+    .message = { -brand-short-name } è actualmain il navigatur da standard
+is-not-default-browser =
+    .message = { -brand-short-name } n'è betg il navigatur da standard
 is-default = { -brand-short-name } è actualmain il navigatur da standard
 is-not-default = { -brand-short-name } n'è betg il navigatur da standard
 set-as-my-default-browser =
@@ -1314,7 +1318,6 @@ content-blocking-etp-standard-tcp-rollout-description = La protecziun totala cun
 content-blocking-etp-standard-tcp-rollout-learn-more = Ulteriuras infurmaziuns
 content-blocking-etp-standard-tcp-title = Includa la protecziun totala cunter cookies, nossa funcziunalitad la pli ferma per la protecziun da datas d'enfin qua
 content-blocking-warning-title = Attenziun!
-content-blocking-and-isolating-etp-warning-description-3 = Quest parameter po avair per consequenza che tschertas websites na mussan betg cuntegn u ch’ellas na funcziunan betg endretg. Nus purschain excepziuns opziunalas per websites da las qualas nus savain ch’ellas pon esser pertutgadas da tia configuraziun. Per reducir la probabilitad che websites na funcziunan betg endretg, permetta questas excepziuns per fastizaders. Sch’ina website para rutta, pos ti deactivar la protecziun cunter fastizaders per quella website e chargiar l’entir cuntegn. Lura pos ti annunziar il problem per che nus possian gidar a schliar el per tuts.
 content-blocking-warning-title-2 = Tschertas websites na funcziunan eventualmain betg endretg sche la protecziun stricta cunter il fastizar è activada
 content-blocking-warning-title-custom = Tschertas websites na funcziunan eventualmain betg endretg cun la protecziun persunalisada cunter il fastizar
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1328,18 +1331,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Schliar ils problems pli pitschens da websites
     .description = Restaurescha p.ex. videos en in artitgel u secziuns da commentaris cun debloccar elements che pon cuntegnair fastizaders. Quai po diminuir ils problems cun websites, ma reducescha la protecziun. Sto vegnir utilisà en cumbinaziun cun soluziuns per ils problems ils pli gravants.
-content-blocking-baseline-exceptions =
-    .label = Permetter a { -brand-short-name } d’applitgar automaticamain las excepziuns necessarias per evitar problems pli gronds cun websites.
-content-blocking-baseline-exceptions-2 =
-    .label = Gida a chargiar websites e funcziuns cun debloccar mo ils elements essenzials che pon cuntegnair fastizaders. Quai schlia ils problems ils pli frequents.
-content-blocking-convenience-exceptions =
-    .label = Era applitgar automaticamain excepziuns ch’èn mo necessarias per schliar problems pli pitschens e pussibilitar uschia che funcziuns da confort stettian a disposiziun.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Restaurescha p.ex. videos en in artitgel u secziuns da commentaris cun debloccar elements che pon cuntegnair fastizaders. Quai po diminuir ils problems cun websites, ma reducescha la protecziun. Sto vegnir utilisà en cumbinaziun cun soluziuns per ils problems ils pli gravants.
-content-blocking-baseline-label = Schliar ils problems ils pli gravants da websites (recumandà)
-content-blocking-convenience-label = Schliar ils problems pli pitschens da websites
-content-blocking-exceptions-subheader = Schliar ils problems da websites
 content-blocking-baseline-uncheck-warning-dialog-title = Vuls ti propi deactivar las soluziuns?
 content-blocking-baseline-uncheck-warning-dialog-body = Quest parameter gida a schliar ils problems da websites ils pli frequents. Sche ti al deactiveschas, na funcziunan tschertas websites eventualmain betg e { -brand-short-name } na vegn betg a pudair gidar a schliar quests problems.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Deactivar las soluziuns
@@ -1539,7 +1530,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificats
-certs-description = Configurar ils certificats che { -brand-short-name } utilisescha per l’autentificaziun.
 certs-enable-ocsp =
     .label = Laschar confermar la validitad da certificats entras dumandar servers da OCSP
     .accesskey = c
@@ -1557,6 +1547,7 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>La capacitad da memorisar da { -brand-short-name } è prest exausta.</strong> Il cuntegn da websites na vegn eventualmain betg visualisà endretg. Ti pos stizzar datas memorisadas en Parameters > Protecziun da datas & segirezza > Cookies e datas da websites.
 space-alert-under-5gb-message2 = <strong>La memoria da { -brand-short-name } è prest plaina.</strong> Il cuntegn da websites na vegn eventualmain betg pli visualisà endretg. Clicca sin «Ulteriuras infurmaziuns» per optimar l'utilisaziun da la memoria e per meglierar la prestaziun durant la navigaziun.
+certs-description = Configurar ils certificats che { -brand-short-name } utilisescha per l’autentificaziun.
 
 ## Privacy Section - HTTPS-Only
 
