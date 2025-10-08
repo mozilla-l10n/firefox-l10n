@@ -349,6 +349,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Sertîfîka
+certs-devices-enable-fips = FIPS 'ê çalak bike
 
 ## Privacy Section - HTTPS-Only
 
