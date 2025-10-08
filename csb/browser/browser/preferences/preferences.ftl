@@ -341,6 +341,7 @@ collection-health-report-link = Wicy wëdowiedzë
 ## Privacy Section - Certificates
 
 certs-header = Certifikatë
+certs-devices-enable-fips = Włączë FIPS
 
 ## Privacy Section - HTTPS-Only
 
