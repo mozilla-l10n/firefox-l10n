@@ -1548,7 +1548,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificati
-certs-description = Configura i certificati utilizzati da { -brand-short-name } per l’autenticazione.
 certs-enable-ocsp =
     .label = Interroga risponditori OCSP per confermare la validità attuale dei certificati
     .accesskey = P
