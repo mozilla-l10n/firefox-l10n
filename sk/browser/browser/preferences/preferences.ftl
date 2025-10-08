@@ -1564,6 +1564,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Povoliť { -brand-short-name(case: "dat") } automaticky dôverovať koreňovým certifikátom tretích strán, ktoré nainštalujete
     .accesskey = f
+certs-devices-enable-fips = Povoliť FIPS
 space-alert-over-5gb-settings-button =
     .label = Otvoriť nastavenia
     .accesskey = O
