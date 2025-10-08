@@ -1322,7 +1322,6 @@ content-blocking-etp-standard-tcp-rollout-description = Η Ολική προστ
 content-blocking-etp-standard-tcp-rollout-learn-more = Μάθετε περισσότερα
 content-blocking-etp-standard-tcp-title = Περιλαμβάνει την Ολική προστασία cookie, την πιο ισχυρή μας λειτουργία απορρήτου
 content-blocking-warning-title = Προσοχή!
-content-blocking-and-isolating-etp-warning-description-3 = Αυτή η ρύθμιση ενδέχεται να προκαλέσει την αδυναμία προβολής ή τη μη εύρυθμη λειτουργία ορισμένων ιστοτόπων. Παρέχουμε προαιρετικές εξαιρέσεις για ιστοτόπους που γνωρίζουμε ότι μπορούν να επηρεαστούν από τις ρυθμίσεις σας. Για να μειώσετε την πιθανότητα δυσλειτουργικών ιστοτόπων, επιτρέψτε αυτές τις εξαιρέσεις ιχνηλατών. Εάν ένας ιστότοπος δεν εμφανίζεται σωστά, μπορείτε να απενεργοποιήσετε την προστασία από καταγραφή για να γίνει φόρτωση όλου του περιεχομένου του συγκεκριμένου ιστοτόπου και να αναφέρετε το ζήτημα, ώστε να το διορθώσουμε για όλους.
 content-blocking-warning-title-2 = Ορισμένοι ιστότοποι ενδέχεται να μην λειτουργούν με την αυστηρή προστασία από καταγραφή
 content-blocking-warning-title-custom = Ορισμένοι ιστότοποι ενδέχεται να μην λειτουργούν με την προσαρμοσμένη προστασία από καταγραφή
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1336,18 +1335,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Διόρθωση μικρών ζητημάτων ιστοτόπου
     .description = Επαναφέρει στοιχεία, όπως βίντεο σε άρθρα ή ενότητες σχολίων, άροντας τον αποκλεισμό των στοιχείων που ενδέχεται να περιέχουν ιχνηλάτες. Αυτό μπορεί να μειώσει τα ζητήματα σε ιστοτόπους, αλλά προσφέρει λιγότερη προστασία. Πρέπει να χρησιμοποιείται με τις διορθώσεις σημαντικών ζητημάτων.
-content-blocking-baseline-exceptions =
-    .label = Να επιτρέπεται στο { -brand-short-name } η αυτόματη εφαρμογή των απαιτούμενων εξαιρέσεων για την αποτροπή σημαντικών δυσλειτουργιών στους ιστοτόπους.
-content-blocking-baseline-exceptions-2 =
-    .label = Βοηθά στη φόρτωση ιστοτόπων και λειτουργιών άροντας τον αποκλεισμό μόνο των βασικών στοιχείων που ενδέχεται να περιέχουν ιχνηλάτες. Διορθώνει τα πιο κοινά προβλήματα.
-content-blocking-convenience-exceptions =
-    .label = Να εμφαρμόζονται επίσης αυτόματα εξαιρέσεις που απαιτούνται μόνο για τη διόρθωση μικρών ζητημάτων και την ενεργοποίηση βολικών λειτουργιών.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Επαναφέρει στοιχεία, όπως βίντεο σε άρθρα ή ενότητες σχολίων, άροντας τον αποκλεισμό των στοιχείων που ενδέχεται να περιέχουν ιχνηλάτες. Αυτό μπορεί να μειώσει τα ζητήματα σε ιστοτόπους, αλλά προσφέρει λιγότερη προστασία. Πρέπει να χρησιμοποιείται με τις διορθώσεις σημαντικών ζητημάτων.
-content-blocking-baseline-label = Διόρθωση σημαντικών ζητημάτων ιστοτόπου (προτείνεται)
-content-blocking-convenience-label = Διόρθωση μικρών ζητημάτων ιστοτόπου
-content-blocking-exceptions-subheader = Διόρθωση ζητημάτων ιστοτόπου
 content-blocking-baseline-uncheck-warning-dialog-title = Θέλετε σίγουρα να απενεργοποιήσετε τις διορθώσεις;
 content-blocking-baseline-uncheck-warning-dialog-body = Αυτή η ρύθμιση συμβάλλει στη διόρθωση των πιο κοινών προβλημάτων των ιστοτόπων. Αν την απενεργοποιήσετε, ορισμένοι ιστότοποι ενδέχεται να μην λειτουργούν και το { -brand-short-name } δεν θα μπορεί να βοηθήσει στην επίλυση αυτών των ζητημάτων.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Απενεργοποίηση διορθώσεων
@@ -1547,7 +1534,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Πιστοποιητικά
-certs-description = Ρυθμίστε τα πιστοποιητικά που χρησιμοποιεί το { -brand-short-name } για ταυτοποίηση.
 certs-enable-ocsp =
     .label = Αίτημα σε διακομιστές OCSP για την επιβεβαίωση της τρέχουσας εγκυρότητας των πιστοποιητικών
     .accesskey = δ
