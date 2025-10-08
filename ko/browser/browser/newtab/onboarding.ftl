@@ -489,6 +489,42 @@ create-backup-screen-1-sync-label = { -brand-product-name } 동기화
 create-backup-screen-1-sync-body = 로그인한 모든 기기 백업
 create-backup-screen-1-backup-label = PC에 백업
 create-backup-screen-1-backup-body = 기기 또는 OneDrive에 저장
+create-backup-select-tile-button-label = 선택
+create-backup-back-button-label = 뒤로
+create-backup-show-fewer =
+    .label = 이처럼 간단히 보기
+create-backup-screen-2-title = 백업할 { -brand-product-name } 데이터 선택
+create-backup-screen-2-subtitle = 1분밖에 걸리지 않습니다. 사용자의 데이터는 하루에 한번 백업됩니다.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = 쉬운 설정
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = 북마크, 기록, 설정 등
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = 비밀번호 및 결제는 포함하지 않음
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = 암호화되지 않음
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = 모든 데이터
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = 비밀번호 및 결제 포함
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = 비밀번호로 암호화됨
+create-backup-screen-3-title = 백업 파일 비밀번호 생성
+create-backup-screen-3-subtitle = 데이터를 암호화하는 데 필요합니다. 기억할 수 있는 장소에 보관하세요.
+fx-backup-opt-in-header = 파일 위치 선택
+fx-backup-opt-in-filepath-label = OneDrive와 같은 새 기기로 전송하고자 하는 곳을 선택하세요.
+fx-backup-opt-in-create-password-label = 비밀번호 입력
+fx-backup-opt-in-confirm-btn-label = 계속
+fx-backup-opt-in-cancel-btn-label = 뒤로
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = 백업이 예약됨
+fx-backup-confirmation-screen-close-button = 닫기
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = 모든 탐색 데이터 포함됨
 
 ## Restore from Backup Flow about:welcome screens
 
