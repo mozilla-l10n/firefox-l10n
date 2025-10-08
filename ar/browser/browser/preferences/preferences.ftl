@@ -1428,6 +1428,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = اسمح بأن يثق { -brand-short-name } تلقائيا بشهادات جذر من أطراف خارجية تقوم بتثبيتها
     .accesskey = ه
+certs-devices-enable-fips = مكّن FIPS
 space-alert-over-5gb-settings-button =
     .label = افتح الإعدادات
     .accesskey = ف
