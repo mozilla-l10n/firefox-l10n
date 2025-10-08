@@ -1334,7 +1334,6 @@ content-blocking-etp-standard-tcp-rollout-description = Úplná ochrana súborov
 content-blocking-etp-standard-tcp-rollout-learn-more = Ďalšie informácie
 content-blocking-etp-standard-tcp-title = Zahŕňa Úplnú ochranu súborov cookie, našu najvýkonnejšiu funkciu ochrany súkromia vôbec
 content-blocking-warning-title = Pozor!
-content-blocking-and-isolating-etp-warning-description-3 = Toto nastavenie môže spôsobiť, že niektoré webové stránky nebudú zobrazovať obsah alebo nebudú správne fungovať. Pre webové stránky, o ktorých vieme, že ich môže vaša konfigurácia ovplyvniť, poskytujeme voliteľné výnimky. Ak chcete znížiť riziko nefunkčných webových stránok, povoľte tieto výnimky sledovania. Ak sa stránka javí ako nefunkčná, môžete pre túto stránku vypnúť ochranu sledovania, aby sa načítal všetok obsah a problém sa nahlásil, aby sme ho mohli pomôcť vyriešiť pre všetkých.
 content-blocking-warning-title-2 = Niektoré stránky nemusia fungovať správne s prísnou ochranou pred sledovaním
 content-blocking-warning-title-custom = Niektoré stránky nemusia fungovať správne s vlastnou ochranou pred sledovaním
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1348,18 +1347,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Opraviť menšie problémy so stránkami
     .description = Obnovuje veci ako videá v článku alebo sekcie komentárov odblokovaním prvkov, ktoré môžu obsahovať sledovacie prvky. Toto môže znížiť problémy so stránkou, ale ponúka menšiu ochranu. Musí sa použiť s opravami závažných problémov.
-content-blocking-baseline-exceptions =
-    .label = Povoliť { -brand-short-name(case: "dat") } automaticky aplikovať výnimky potrebné na zabránenie závažným poruchám webových stránok.
-content-blocking-baseline-exceptions-2 =
-    .label = Pomáha načítavať stránky a funkcie odblokovaním iba základných prvkov, ktoré môžu obsahovať sledovacie programy. Zahŕňa najbežnejšie problémy.
-content-blocking-convenience-exceptions =
-    .label = Automaticky tiež aplikovať výnimky, ktoré sú potrebné iba na opravu menších problémov či sprístupnenie funkcií na zvýšenie pohodlia.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Obnovuje veci ako videá v článku alebo sekcie komentárov odblokovaním prvkov, ktoré môžu obsahovať sledovacie prvky. Toto môže znížiť problémy so stránkou, ale ponúka menšiu ochranu. Musí sa použiť s opravami závažných problémov.
-content-blocking-baseline-label = Opraviť hlavné problémy so stránkami (odporúčané)
-content-blocking-convenience-label = Opraviť menšie problémy so stránkami
-content-blocking-exceptions-subheader = Oprava problémov so stránkami
 content-blocking-baseline-uncheck-warning-dialog-title = Naozaj chcete vypnúť opravy?
 content-blocking-baseline-uncheck-warning-dialog-body = Toto nastavenie pomáha riešiť najčastejšie problémy so stránkami. Ak ho vypnete, niektoré stránky nemusia fungovať a { -brand-short-name } vám nebude vedieť pomôcť s riešením týchto problémov.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Vypnúť opravy
@@ -1559,7 +1546,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikáty
-certs-description = Nakonfigurujte certifikáty, ktoré { -brand-short-name } používa na overovanie.
 certs-enable-ocsp =
     .label = Aktuálnu platnosť certifikátov overovať na serveroch OCSP
     .accesskey = A
@@ -1577,6 +1563,7 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>Aplikácii { -brand-short-name } dochádza miesto na disku.</strong> Obsah webovej stránky sa nemusí zobrazovať správne. Uložené údaje stránok môžete odstrániť v ponuke Možnosti > Súkromie a bezpečnosť > Cookies a údaje stránok.
 space-alert-under-5gb-message2 = <strong>Aplikácii { -brand-short-name } dochádza miesto na disku.</strong> Obsah webovej stránky sa nemusí zobrazovať správne. Kliknutím na “Ďalšie informácie” sa dozviete viac o optimalizovaní vyžitia disku pre lepší zážitok z prehliadania.
+certs-description = Nakonfigurujte certifikáty, ktoré { -brand-short-name } používa na overovanie.
 
 ## Privacy Section - HTTPS-Only
 
