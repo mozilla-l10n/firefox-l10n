@@ -1164,6 +1164,7 @@ certs-view =
 certs-devices =
     .label = Անվտանգութեան սարքեր...
     .accesskey = D
+certs-devices-enable-fips = Միացնել FIPS֊ը
 space-alert-over-5gb-settings-button =
     .label = Բացել կարգաւորումները
     .accesskey = O
