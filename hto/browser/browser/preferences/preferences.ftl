@@ -36,6 +36,10 @@ restart-later = Úire abɨdo taineye
 ## General Section
 
 startup-header = Táɨnia
+is-default-browser =
+    .message = { -brand-short-name } ó makara ja beno íte
+is-not-default-browser =
+    .message = { -brand-short-name } ó makara ja beno íte
 is-default = { -brand-short-name } ó makara ja beno íte
 is-not-default = { -brand-short-name } ó makara ja beno íte
 tabs-group-header = Úitɨraɨ
