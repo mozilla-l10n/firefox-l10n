@@ -20,6 +20,17 @@ permission-dialog-description-file-app = Tillåt att den här filen öppnar län
 permission-dialog-description-extension-app = Tillåt tillägget { $extension } att öppna { $scheme }-länken med { $appName }?
 permission-dialog-description-system-app = Öppna länken { $scheme } med { $appName }?
 permission-dialog-description-system-noapp = Öppna länken { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Tillåt den här sidan att öppna din digitala plånbok?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Genom att öppna en <strong>{ $scheme }</strong>-länk kan <strong>{ $host }</strong> begära din riktiga identitet med <strong>{ $appName }</strong>. Fortsätt bara om du litar på den här sidan.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Genom att öppna en <strong>{ $scheme }</strong>-länk kan den här webbplatsen begära din riktiga identitet med <strong>{ $appName }</strong>. Fortsätt bara om du litar på den här sidan.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Att öppna en <strong>{ $scheme }</strong>-länk gör att <strong>{ $host }</strong> kan begära din riktiga identitet från din digitala plånbok. Fortsätt bara om du litar på den här sidan.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Att öppna en <strong>{ $scheme }</strong>-länk gör att den här webbplatsen kan begära din riktiga identitet från din digitala plånbok. Fortsätt bara om du litar på den här sidan.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

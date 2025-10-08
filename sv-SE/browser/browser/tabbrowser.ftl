@@ -253,9 +253,17 @@ tab-group-editor-color-selector2-red = Röd
 tab-group-description = { $tabGroupName } — Flikgrupp
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Komprimerad
 tab-group-label-tooltip-expanded = { $tabGroupName } — Utökad
+tab-group-preview-name =
+    .aria-label = Flikar i en komprimerad grupp
 tab-context-unnamed-group =
     .label = Namnlös grupp
 tab-group-name-default = Namnlös grupp
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Fliklista öppen
+tab-group-preview-closed-description = Fliklistan stängd
 
 ##
 

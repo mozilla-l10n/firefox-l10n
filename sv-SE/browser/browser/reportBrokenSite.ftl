@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Tack för att du hjälper { -brand-product-name } att göra webben mer öppen, tillgänglig och bättre för alla.
 report-broken-site-panel-invalid-url-label = Ange en giltig URL
 report-broken-site-panel-missing-reason-label = Välj en anledning
+report-broken-site-panel-blocked-trackers-label =
+    .label = Skicka webbadresser blockerade av spårningsskydd
+report-broken-site-panel-blocked-trackers-description = Förbättrat spårningsskydd kan blockera spårare och skript som vissa webbplatser behöver för att fungera korrekt.
