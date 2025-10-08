@@ -112,12 +112,15 @@ fxa-adoption-passwords-primary-button-label = Registra·ti
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-chat-callout-title = Tzarra dae sa barra de tareas
+taskbar-tabs-email-callout-title = Tene sa posta eletrònica tua in sa barra de is tareas
 taskbar-tabs-value-prop-callout-title = Agiunghe custu situ a sa barra de tareas
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Non perdas totu su chi as sarvadu durante sa tràmuda a Windows 11.
 windows-10-eos-sync-urgency-subtitle-1 = Sincroniza immoe pro mantènnere is sinnalibros, is craes e is cunfiguratziones de { -brand-short-name } in seguresa e ddos potzas recuperare.
+windows-10-eos-sync-urgency-title-2 = A ses lassende Windows 10? Ampara is datos tuos cando cando passas a un’àteru sistema.
 windows-10-eos-sync-new-device-primary-label = Sincroniza immoe
 windows-10-eos-sync-general-title-1 = Ampara sa versione personalizada tua de { -brand-short-name }.
 windows-10-eos-sync-general-title-2 = Est unu momentu bonu pro fàghere una còpia de seguresa de is craes e is sinnalibros.
