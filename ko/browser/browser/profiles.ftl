@@ -261,6 +261,10 @@ custom-avatar-crop-area =
     .aria-label = 자르기 영역 조정
 custom-avatar-drag-handle =
     .aria-label = 자르기 영역 크기 조정
+profiles-appmenu-callout-tour-title = 새 프로필이 사용하기에 좋습니다
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = ☰ 메뉴에서 프로필 이름을 눌러, 다른 프로필을 만들거나, 현재 프로필을 편집하거나, 또는 여러 프로필 간에 전환할 수 있습니다.
+profiles-appmenu-callout-tour-primary-button = 사용법 보기
 barbell-avatar = 바벨
 bike-avatar = 자전거
 
