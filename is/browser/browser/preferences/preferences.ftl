@@ -1488,6 +1488,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Leyfa { -brand-short-name } að treysta sjálfkrafa þeim rótarskilríkjum utanaðkomandi aðila sem þú setur upp
     .accesskey = t
+certs-devices-enable-fips = Virkja FIPS
 space-alert-over-5gb-settings-button =
     .label = Opna stillingar
     .accesskey = O
