@@ -1571,6 +1571,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>Aplikácii { -brand-short-name } dochádza miesto na disku.</strong> Obsah webovej stránky sa nemusí zobrazovať správne. Uložené údaje stránok môžete odstrániť v ponuke Možnosti > Súkromie a bezpečnosť > Cookies a údaje stránok.
 space-alert-under-5gb-message2 = <strong>Aplikácii { -brand-short-name } dochádza miesto na disku.</strong> Obsah webovej stránky sa nemusí zobrazovať správne. Kliknutím na “Ďalšie informácie” sa dozviete viac o optimalizovaní vyžitia disku pre lepší zážitok z prehliadania.
 certs-description = Nakonfigurujte certifikáty, ktoré { -brand-short-name } používa na overovanie.
+certs-description2 =
+    .label = Certifikáty
+    .description = Nakonfigurujte certifikáty, ktoré { -brand-short-name } používa na overovanie.
 
 ## Privacy Section - HTTPS-Only
 
