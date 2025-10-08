@@ -1492,6 +1492,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Izinkan { -brand-short-name } untuk secara otomatis mempercayai sertifikat akar pihak ketiga yang Anda pasang
     .accesskey = s
+certs-devices-enable-fips = Aktifkan FIPS
 space-alert-over-5gb-settings-button =
     .label = Buka Pengaturan
     .accesskey = B
