@@ -1300,7 +1300,6 @@ content-blocking-etp-standard-tcp-rollout-description = Totalt vern mot infokaps
 content-blocking-etp-standard-tcp-rollout-learn-more = Les meir
 content-blocking-etp-standard-tcp-title = Inkluderer totalt vern mot infokapslar, den kraftigaste personvernfunksjonen vår nokon gong
 content-blocking-warning-title = Viktig!
-content-blocking-and-isolating-etp-warning-description-3 = Denne innstillinga kan føre til at enkelte nettstadar ikkje viser innhald eller fungerer som dei skal. Vi tilbyr valfrie unntak for nettstadar som vi veit kan bli påverka av konfigurasjonen din. For å redusere sjansen for nettstadar som ikkje fungerer, bør du tillate desse sporingsunntaka. Om ein nettstad ser ut til å vere øydelagt, kan du slå av sporingsvern for den nettstaden for å laste inn alt innhald og rapportere problemet, slik at vi kan hjelpe til med å fikse det for alle.
 content-blocking-warning-title-2 = Nokre nettstadar kan slutte å fungere med strengt sporingsvern
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } tilrår å bruke innstillingane «Fiks nettstadproblem» for å redusere øydelagde funksjonar og innhald på nettstadar. Viss ein nettstad verkar øydelagd, kan du prøve å slå av sporingsvern for den nettstaden for å laste alt innhald.
@@ -1313,18 +1312,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Fiks mindre nettstadsproblem
     .description = Gjenopprettar ting som videoar i ein artikkel eller kommentarfelt ved å oppheve blokkering av element som kan innehalde sporarar. Dette kan redusere problem på nettstadar, men gir mindre vern. Må brukast saman med fiksar for større problem.
-content-blocking-baseline-exceptions =
-    .label = Tillat at { -brand-short-name } automatisk brukar unntak som trengst for å unngå større nettstadfeil.
-content-blocking-baseline-exceptions-2 =
-    .label = Hjelper med å laste inn nettstadar og funksjonar ved å oppheve blokkering av berre nødvendige element som kan innehalde sporarar. Dekkjer dei fleste vanlege problem.
-content-blocking-convenience-exceptions =
-    .label = Bruk også unntak automatisk som berre er nødvendige for å fikse mindre problem og gjere praktiske funksjonar tilgjengelege.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Gjenopprettar ting som videoar i ein artikkel eller kommentarfelt ved å oppheve blokkering av element som kan innehalde sporarar. Dette kan redusere problem på nettstadar, men gir mindre vern. Må brukast saman med fiksar for større problem.
-content-blocking-baseline-label = Fiks større nettstadsproblem (tilrådd)
-content-blocking-convenience-label = Fiks mindre nettstadsproblem
-content-blocking-exceptions-subheader = Fiks nettstadsproblem
 content-blocking-baseline-uncheck-warning-dialog-title = Er du sikker på at du vil slå av fiksane?
 content-blocking-baseline-uncheck-warning-dialog-body = Denne innstillinga bidreg til å fikse dei vanlegaste nettstadproblema. Om du slår henne av, kan det hende at nokre nettstadar ikkje fungerer, og { -brand-short-name } vil ikkje kunne hjelpe med å feilsøke desse problema.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Slå av fiksane
