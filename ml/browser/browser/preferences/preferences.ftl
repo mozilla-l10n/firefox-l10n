@@ -1051,6 +1051,7 @@ certs-view =
 certs-devices =
     .label = സുരക്ഷാ ഉപകരണങ്ങള്‍…
     .accesskey = D
+certs-devices-enable-fips = FIPS പ്രാപ്തമാക്കുക
 space-alert-over-5gb-settings-button =
     .label = ക്രമീകരണങ്ങൾ തുറക്കുക
     .accesskey = ത
