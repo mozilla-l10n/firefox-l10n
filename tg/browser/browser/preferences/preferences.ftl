@@ -1551,6 +1551,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Ба «{ -brand-short-name }» иҷозат диҳед, то ки он ба гувоҳиномаҳои решагии тарафҳои сеюме, ки шумо насб мекунед, ба таври худкор эътимод кунад
     .accesskey = Б
+certs-devices-enable-fips = Фаъол кардани FIPS
 space-alert-over-5gb-settings-button =
     .label = Кушодани танзимот
     .accesskey = К
