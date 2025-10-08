@@ -40,6 +40,17 @@ should-restart-ok = ئێستا { -brand-short-name } پێبکەرەوە
 cancel-no-restart-button = پاشگەزبوونەوە
 restart-later = دوواتر پێبکەوە
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = گەڕانی ئەنجامەکان
@@ -50,6 +61,10 @@ startup-header = دەستپێکردن
 always-check-default =
     .label = هەموو کات چێکی ئەوە بکە کە { -brand-short-name } وێبگەڕی بنەڕەتییە
     .accesskey = y
+is-default-browser =
+    .message = { -brand-short-name } ئێستا وێبگەڕی بنەڕەتییە
+is-not-default-browser =
+    .message = { -brand-short-name } ئێستا وێبگەڕی بنەڕەتی نیە
 is-default = { -brand-short-name } ئێستا وێبگەڕی بنەڕەتییە
 is-not-default = { -brand-short-name } ئێستا وێبگەڕی بنەڕەتی نیە
 set-as-my-default-browser =
@@ -637,6 +652,9 @@ forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سە
 primary-password-os-auth-dialog-message-macosx = درووستکردنی وشەی تێپەڕی سەرەکی
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = مێژوو
@@ -691,6 +709,12 @@ sitedata-clear =
 sitedata-settings =
     .label = بەڕێوەبردنی زانیارییەکان...
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -826,6 +850,9 @@ collection-health-report-telemetry-disabled-link = زیاتر بزانە
 collection-health-report-link = زیاتر بزانە
 addon-recommendations-link = زیاتر بزانە
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -837,6 +864,12 @@ security-enable-safe-browsing-link = زیاتر بزانە
 ## Privacy Section - Certificates
 
 certs-header = بڕوانامە
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
