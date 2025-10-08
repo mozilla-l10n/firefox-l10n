@@ -1334,7 +1334,6 @@ content-blocking-etp-standard-tcp-rollout-description = Поўная ахова 
 content-blocking-etp-standard-tcp-rollout-learn-more = Падрабязней
 content-blocking-etp-standard-tcp-title = Уключае поўную ахову ад кукаў, нашу наймагутнейшую функцыю прыватнасці
 content-blocking-warning-title = Увага!
-content-blocking-and-isolating-etp-warning-description-3 = Гэта налада можа прывесці да таго, што некаторыя сайты не будуць паказваць змесціва або працаваць няправільна. Мы прапануем неабавязковыя выключэнні для сайтаў, на якія, як мы ведаем, можа паўплываць ваша канфігурацыя. Каб паменшыць імавернасць пашкоджання сайтаў, дазвольце гэтыя выключэнні для трэкераў. Калі сайт выглядае зламаным, вы можаце адключыць ахову ад сачэння для гэтага сайта, каб загрузіць усё змесціва, і паведаміць аб праблеме, каб мы маглі дапамагчы выправіць яе для ўсіх.
 content-blocking-warning-title-2 = Некаторыя сайты могуць перастаць працаваць са строгай аховай ад сачэння
 content-blocking-warning-title-custom = Некаторыя сайты могуць перастаць працаваць з адмысловай аховай ад сачэння
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1348,18 +1347,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Выпраўленне нязначных праблем з сайтамі
     .description = Аднаўляе такія рэчы, як відэа ў артыкуле або раздзелах каментарыяў, разблакоўваючы элементы, якія могуць утрымліваць трэкеры. Гэта можа паменшыць праблемы з сайтам, але забяспечвае меншую ахову. Неабходна выкарыстоўваць разам з выпраўленнямі сур'ёзных праблем.
-content-blocking-baseline-exceptions =
-    .label = Дазволіць { -brand-short-name } аўтаматычна ўжываць выключэнні, неабходныя для прадухілення сур'ёзных паломак вэб-сайтаў.
-content-blocking-baseline-exceptions-2 =
-    .label = Дапамагае загружаць сайты і функцыі, разблакоўваючы толькі неабходныя элементы, якія могуць утрымліваць трэкеры. Ахоплівае найбольш распаўсюджаныя праблемы.
-content-blocking-convenience-exceptions =
-    .label = Таксама аўтаматычна ўжываць выключэнні, якія патрабуюцца толькі для выпраўлення нязначных праблем і даступнасці зручных функцый.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Аднаўляе такія рэчы, як відэа ў артыкуле або раздзелах каментарыяў, разблакоўваючы элементы, якія могуць утрымліваць трэкеры. Гэта можа паменшыць праблемы з сайтам, але забяспечвае меншую ахову. Неабходна выкарыстоўваць разам з выпраўленнямі сур'ёзных праблем.
-content-blocking-baseline-label = Выпраўляць сур'ёзныя праблемы з сайтамі (рэкамендуецца)
-content-blocking-convenience-label = Выпраўленне нязначных праблем з сайтамі
-content-blocking-exceptions-subheader = Выпраўленне праблем з сайтамі
 content-blocking-baseline-uncheck-warning-dialog-title = Вы ўпэўнены, што хочаце адключыць выпраўленні?
 content-blocking-baseline-uncheck-warning-dialog-body = Гэты параметр дапамагае выправіць найбольш распаўсюджаныя праблемы з сайтамі. Калі вы яго адключыце, некаторыя сайты могуць не працаваць, а { -brand-short-name } не зможа дапамагчы ў вырашэнні гэтых праблем.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Выключыць выпраўленні
@@ -1559,7 +1546,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Сертыфікаты
-certs-description = Наладзьце сертыфікаты, якія { -brand-short-name } выкарыстоўвае для аўтэнтыфікацыі.
 certs-enable-ocsp =
     .label = Звяртацца да сервера OCSP за пацверджаннем дзейснасці сертыфікатаў
     .accesskey = З
@@ -1577,6 +1563,7 @@ space-alert-over-5gb-settings-button =
     .accesskey = А
 space-alert-over-5gb-message2 = <strong>У { -brand-short-name } сканчаецца месца на дыску</strong>. Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Вы можаце выдаліць захаваныя дадзеныя ў Налады > Прыватнасць і бяспека > Кукі і дадзеныя сайтаў.
 space-alert-under-5gb-message2 = <strong>У { -brand-short-name } сканчаецца месца на дыску.</strong> Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Клікніце “Падрабязней”, каб аптымізаваць выкарыстанне вашага дыска для паляпшэння вэб-сёрфінгу.
+certs-description = Наладзьце сертыфікаты, якія { -brand-short-name } выкарыстоўвае для аўтэнтыфікацыі.
 
 ## Privacy Section - HTTPS-Only
 
