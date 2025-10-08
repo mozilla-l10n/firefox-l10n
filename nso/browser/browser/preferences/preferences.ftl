@@ -41,6 +41,8 @@ should-restart-title = Thoma { -brand-short-name } ka leswa
 ## General Section
 
 startup-header = Thoma
+is-default-browser =
+    .message = { -brand-short-name } gona bjale ke praosara ya gago ya tirelwa
 is-default = { -brand-short-name } gona bjale ke praosara ya gago ya tirelwa
 tabs-group-header = Dithepe
 show-tabs-in-taskbar =
