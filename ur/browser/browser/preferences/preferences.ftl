@@ -943,6 +943,7 @@ certs-view =
 certs-devices =
     .label = سلامتی آلات
     .accesskey = D
+certs-devices-enable-fips = ایف آئی پی ایس اہل بنائیں
 space-alert-over-5gb-settings-button =
     .label = سیٹنگز کھولیں
     .accesskey = O
