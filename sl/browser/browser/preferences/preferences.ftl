@@ -1516,6 +1516,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Dovoli { -brand-short-name(sklon: "dajalnik") }, da samodejno zaupa korenskim digitalnim potrdilom tretjih oseb, ki jih namestite
     .accesskey = t
+certs-devices-enable-fips = Omogoči FIPS
 space-alert-over-5gb-settings-button =
     .label = Odpri nastavitve
     .accesskey = O
