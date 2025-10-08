@@ -1560,6 +1560,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Considera automaticamente attendibili i certificati radice installati dall’utente in { -brand-short-name }
     .accesskey = t
+certs-devices-enable-fips = Attiva FIPS
 space-alert-over-5gb-settings-button =
     .label = Apri impostazioni
     .accesskey = A
