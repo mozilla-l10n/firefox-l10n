@@ -646,6 +646,7 @@ certs-header = Sertifikate
 certs-enable-ocsp =
     .label = Bevestig huidige geldigheid van sertifikate deur OCSP-bedieners te vra
     .accesskey = B
+certs-devices-enable-fips = Aktiveer FIPS
 
 ## Privacy Section - HTTPS-Only
 
