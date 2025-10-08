@@ -41,6 +41,8 @@ should-restart-title = Маны { -brand-short-name } хат ыыт
 ## General Section
 
 startup-header = Саҥаттан
+is-default-browser =
+    .message = Билигин куруук холбонор браузер - { -brand-short-name }
 is-default = Билигин куруук холбонор браузер - { -brand-short-name }
 tabs-group-header = Кыбытыктар
 show-tabs-in-taskbar =
