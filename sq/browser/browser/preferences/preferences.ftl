@@ -1476,6 +1476,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Lejojeni { -brand-short-name }-in të besojë automatikisht dëshmi rrënjë palësh të treta që instaloni
     .accesskey = L
+certs-devices-enable-fips = Aktivizo FIPS
 space-alert-over-5gb-settings-button =
     .label = Hap Rregullimet
     .accesskey = H
