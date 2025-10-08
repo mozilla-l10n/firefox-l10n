@@ -1395,6 +1395,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = ඔබ ස්ථාපනය කරන තෙවන පාර්ශ්ව මූල සහතික ස්වයංක්‍රීයව විශ්වාසයට { -brand-short-name } වෙත ඉඩ දෙන්න
     .accesskey = t
+certs-devices-enable-fips = FIPS සබල කරන්න
 space-alert-over-5gb-settings-button =
     .label = සැකසුම් අරින්න
     .accesskey = O
