@@ -1560,6 +1560,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = ნებართვა, რომ { -brand-short-name } თავისთავად სანდოდ მიიჩნევს გარეშე მხარის ძირეულ სერტიფიკატებს, რომელთაც ჩააყენებთ
     .accesskey = ბ
+certs-devices-enable-fips = FIPS-ის ჩართვა
 space-alert-over-5gb-settings-button =
     .label = პარამეტრების გახსნა
     .accesskey = ხ
