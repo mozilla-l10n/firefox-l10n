@@ -350,6 +350,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Abasobɔde nkrataa
+certs-devices-enable-fips = Ekyisobozisa FIPS
 
 ## Privacy Section - HTTPS-Only
 
