@@ -1567,6 +1567,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } tarafından kulllanılabilen disk alanı azaldı.</strong> Site içerikleri düzgün görüntülenemeyebilir. Depolanan verileri Ayarlar > Gizlilik ve Güvenlik > Çerezler ve site verileri kısmından temizleyebilirsiniz.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } tarafından kulllanılabilen disk alanı azaldı.</strong> Site içerikleri düzgün görüntülenemeyebilir. Daha iyi bir gezinti deneyimi içi disk kullanımınızı iyileştirmek isterseniz “Daha fazla bilgi al” sayfasını ziyaret edin.
 certs-description = { -brand-short-name } tarayıcısının kimlik doğrulama için kullandığı sertifikaları yapılandırın.
+certs-description2 =
+    .label = Sertifikalar
+    .description = { -brand-short-name } tarayıcısının kimlik doğrulama için kullandığı sertifikaları yapılandırın.
 
 ## Privacy Section - HTTPS-Only
 
