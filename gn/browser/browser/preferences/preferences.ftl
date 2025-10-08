@@ -1337,13 +1337,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Emyatyrõ apañuái tendagua
     .description = Erujey mba’eporu ikatúva ta’ãngamýi jehaipyre térã je’epyre vore, emboty’óvo mba’eporu orekóva tapykuehoha apopyvusu. Kóva omoĩporãkuaa apañuái ñanduti roguépe, hákatu ome’ẽkuaa ñemo’ã sa’imi. Ojeporuva’erã ambue moĩporã ndive umi apañuái ivaivévape g̃uarã.
-content-blocking-baseline-exceptions =
-    .label = Emoneĩ { -brand-short-name } toku’e ijehegui tekotevẽva emboykekuaa hag̃ua ñanduti rogue jejavy guasu.
-content-blocking-convenience-exceptions =
-    .label = Avei toku’e ijeheguiete umi oĩ’ỹva tekotevẽtéva apañuái’i ñemyatyrõrã ha toiko tembiapoitégui ojeporukuaáva.
-content-blocking-baseline-label = Emyatyrõ apañuái tendagua (ñemoñe’ẽmbyre)
-content-blocking-convenience-label = Emyatyrõ apañuái tendagua
-content-blocking-exceptions-subheader = Emyatyrõ tenda apañuái
 content-blocking-baseline-uncheck-warning-dialog-title = ¿Ehejasépa añetehápe ko’ã ñemoĩporãha?
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Eipe’a myatyrõha
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Emyandy myatyrõha
@@ -1542,7 +1535,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Mboajepyréva
-certs-description = Emboheko umi mboajepyre { -brand-short-name } oiporúva omoneĩkuaa hag̃ua.
 certs-enable-ocsp =
     .label = Mohendahavusu mbohovái porandu OCSP rehegua emoañete hag̃ua oiko gueteriha umi mboajepyre ag̃aguáva.
     .accesskey = Q
@@ -1560,6 +1552,7 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } henyhẽma idísco.</strong> Umi tetepy ñanduti rendagua ikatu ndojehechaporãi. Omopotĩkuaa mba’ekuaarã tenda ñongatupyre Ñemoĩporãme > Tekoñemi ha Tekorosã > Kookie ha tenda mba’ekuaarã.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } opyta disco pa’ũ’ỹre.</strong> Ikatu ñanduti renda retepy ndojehechaukaporãi. Eike “Kuaavépe” eiporu porã hag̃ua nde disco ne kundaha hekoresãi hag̃ua avei.
+certs-description = Emboheko umi mboajepyre { -brand-short-name } oiporúva omoneĩkuaa hag̃ua.
 
 ## Privacy Section - HTTPS-Only
 
