@@ -1576,6 +1576,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Caniatáu i { -brand-short-name } ymddiried yn awtomatig yn nhystysgrifau gwraidd trydydd parti rydych yn eu gosod
     .accesskey = y
+certs-devices-enable-fips = Galluogi FIPS
 space-alert-over-5gb-settings-button =
     .label = Agor y Gosodiadau
     .accesskey = A
