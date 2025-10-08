@@ -1560,6 +1560,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Tillad { -brand-short-name } at automatisk stole på rodcertifikater fra tredjeparter, som du installerer
     .accesskey = r
+certs-devices-enable-fips = Aktiver FIPS
 space-alert-over-5gb-settings-button =
     .label = Åbn indstillinger
     .accesskey = b
