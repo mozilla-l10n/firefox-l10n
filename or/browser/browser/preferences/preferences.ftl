@@ -391,6 +391,7 @@ certs-header = ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ
 certs-enable-ocsp =
     .label = OCSP ଉତ୍ତର ପ୍ରଦାନକାରୀ ସର୍ଭରଗୁଡ଼ିକୁ ପ୍ରଚଳିକ ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ ବୈଧତାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ ପଚାରନ୍ତୁ
     .accesskey = Q
+certs-devices-enable-fips = FIPSକୁ ସକ୍ରିୟ କରନ୍ତୁ
 
 ## Privacy Section - HTTPS-Only
 
