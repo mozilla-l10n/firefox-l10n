@@ -1544,6 +1544,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = 사용자가 설치한 제3자 루트 인증서를 { -brand-short-name }가 자동으로 신뢰하도록 허용
     .accesskey = t
+certs-devices-enable-fips = FIPS 사용
 space-alert-over-5gb-settings-button =
     .label = 설정 열기
     .accesskey = O
