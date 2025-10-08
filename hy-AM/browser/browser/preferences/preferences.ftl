@@ -107,6 +107,10 @@ startup-header = Մեկնարկը
 always-check-default =
     .label = Միշտ ստուգել, թե արդյոք { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչն է
     .accesskey = շ
+is-default-browser =
+    .message = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչն է
+is-not-default-browser =
+    .message = { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչը չէ
 is-default = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչն է
 is-not-default = { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչը չէ
 set-as-my-default-browser =
@@ -1059,6 +1063,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
