@@ -785,6 +785,7 @@ certs-view =
 certs-devices =
     .label = လုံခြုံရေး ကိရိယာများ...
     .accesskey = D
+certs-devices-enable-fips = FIPS ကို ဖွင့်ထားပါ
 
 ## Privacy Section - HTTPS-Only
 
