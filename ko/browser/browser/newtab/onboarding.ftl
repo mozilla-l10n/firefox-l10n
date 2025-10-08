@@ -525,6 +525,14 @@ fx-backup-confirmation-screen-close-button = 닫기
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
 fx-backup-confirmation-screen-all-data-item-text-1 = 모든 탐색 데이터 포함됨
+fx-backup-confirmation-screen-all-data-item-text-2 = 기기에 저장됨
+fx-backup-confirmation-screen-all-data-item-text-3 = 암호화 및 비밀번호로 보호됨
+fx-backup-confirmation-screen-easy-setup-item-text-1 = 북마크, 기록, 설정 및 기타 데이터가 포함됨
+fx-backup-confirmation-screen-easy-setup-item-text-2 = 기기에 저장됨
+fx-backup-confirmation-screen-easy-setup-item-text-3 = 비밀번호와 결제는 포함되지 않음
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = 민감한 데이터를 포함하려면 <a data-l10n-name="settings">설정</a>으로 이동하세요.
+fx-backup-confirmation-screen-item-subtext-1 = 몇 분 후에 백업이 시작되며, 하루에 한번씩 실행됩니다. <a data-l10n-name="settings">설정</a>에서 진행 상황을 확인할 수 있습니다.
+fx-backup-confirmation-screen-item-subtext-2 = 다시 설치해야 하는 경우 { -brand-short-name }가 백업을 찾습니다.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -544,3 +552,17 @@ restored-from-backup-success-no-checklist-primary-button = 계속
 restored-from-backup-error-title = 백업 파일에 문제가 있습니다.
 restored-from-backup-error-subtitle = 다른 { -brand-short-name } 백업 파일이 있는 경우, 그 파일로 복원을 시도하세요. <a data-l10n-name="restore-problems">여전히 문제가 있나요?</a>
 restored-from-backup-error-primary-button = 닫기
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = { -brand-short-name } 경험 사용자 지정
+onboarding-personalization-subtitle = 몇 가지 질문에 답변하시면 { -brand-short-name } 사용을 향상시킬 수 있는 기능 및 확장 기능을 추천해 드립니다.
+onboarding-personalization-use-case-title = 무엇에 { -brand-short-name }를 사용하시겠습니까?
+onboarding-personalization-use-case-personal-option = 개인
+onboarding-personalization-use-case-school-option = 학교
+onboarding-personalization-use-case-work-option = 직장
+onboarding-personalization-motivation-title = 가장 중요하게 생각하는 { -brand-short-name }의 기능은 무엇입니까?
+onboarding-personalization-motivation-privacy-option = 개인 정보 및 보안
+onboarding-personalization-motivation-productivity-option = 생산성
+onboarding-personalization-motivation-other-option = 기타
