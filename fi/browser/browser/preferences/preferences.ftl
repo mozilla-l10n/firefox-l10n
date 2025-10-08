@@ -1567,6 +1567,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") } loppuu kohta levytila.</strong> Sivustojen sisällöt eivät ehkä näy oikein. Voit tyhjentää sivustotiedot avaamalla Asetukset > Tietosuoja ja turvallisuus > Evästeet ja sivustotiedot.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") } loppuu kohta levytila.</strong> Sivustojen sisällöt eivät ehkä näy oikein. Voit lukea levyn käytön optimoimisesta selaamisen sujuvoittamiseksi painamalla ”Lue lisää”.
 certs-description = Määritä { -brand-short-name }in todennukseen käyttämät varmenteet.
+certs-description2 =
+    .label = Varmenteet
+    .description = Määritä { -brand-short-name }in todennukseen käyttämät varmenteet.
 
 ## Privacy Section - HTTPS-Only
 
