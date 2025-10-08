@@ -1520,6 +1520,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = { -brand-short-name } қолданбасына сіз орнатқан үшінші жақты түбірлік сертификаттарына автоматты түрде сенуге рұқсат беру
     .accesskey = т
+certs-devices-enable-fips = FIPS қолдану
 space-alert-over-5gb-settings-button =
     .label = Баптауларды ашу
     .accesskey = Б
