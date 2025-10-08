@@ -127,6 +127,8 @@ startup-header = Inicio
 always-check-default =
     .label = Comprobar siempre si { -brand-short-name } es su navegador predeterminado
     .accesskey = o
+is-default-browser =
+    .message = { -brand-short-name } es su navegador predeterminado
 is-default = { -brand-short-name } es su navegador predeterminado
 is-not-default = { -brand-short-name } no es su navegador predeterminado
 set-as-my-default-browser =
@@ -1314,7 +1316,6 @@ content-blocking-etp-standard-tcp-rollout-description = La protección total con
 content-blocking-etp-standard-tcp-rollout-learn-more = Saber más
 content-blocking-etp-standard-tcp-title = Incluye la protección total contra cookies , nuestra herramienta de privacidad más potente hasta ahora
 content-blocking-warning-title = ¡Atención!
-content-blocking-and-isolating-etp-warning-description-3 = Esta configuración puede provocar que algunos sitios web no muestren contenido o no funcionen correctamente. Ofrecemos excepciones opcionales para los sitios web que sabemos que pueden verse afectados por su configuración. Para reducir la probabilidad de que los sitios web fallen, active estas excepciones de seguimiento. Si un sitio web parece estar dañado, puede desactivar la protección contra el rastreo para que cargue todo el contenido e informar del problema para que podamos solucionarlo.
 content-blocking-warning-title-2 = Algunos sitios se pueden romper la estricta protección de seguimiento.
 content-blocking-warning-title-custom = Algunos sitios se pueden romper con la protección contra el rastreo personalizada.
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1328,18 +1329,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Corregir problemas menores del sitio
     .description = Restaura elementos como vídeos en un artículo o secciones de comentarios desbloqueando elementos que puedan contener rastreadores. Esto puede reducir los problemas del sitio, pero ofrece menos protección. Debe usarse junto con correcciones para problemas graves.
-content-blocking-baseline-exceptions =
-    .label = Permitir que { -brand-short-name } aplique automáticamente las excepciones requeridas para evitar problemas importantes del sitio web.
-content-blocking-baseline-exceptions-2 =
-    .label = Ayuda a cargar sitios y funciones desbloqueando solo elementos esenciales que pueden contener rastreadores. Cubre los problemas más comunes.
-content-blocking-convenience-exceptions =
-    .label = También aplicar excepciones automáticamente que solo sean necesarias para solucionar problemas menores y hacer que estén disponibles funciones útiles.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Restaura cosas como vídeos en un artículo o secciones de comentarios desbloqueando elementos que pueden contener rastreadores. Esto puede reducir los problemas del sitio pero ofrece menos protección. Debe usarse con correcciones para problemas importantes.
-content-blocking-baseline-label = Corregir problemas importantes del sitio (recomendado)
-content-blocking-convenience-label = Corregir problemas menores del sitio
-content-blocking-exceptions-subheader = Corregir problemas del sitio
 content-blocking-baseline-uncheck-warning-dialog-title = ¿Está seguro de querer desactivar las correcciones?
 content-blocking-baseline-uncheck-warning-dialog-body = Esta configuración ayuda a solucionar los problemas más comunes del sitio. Si se desactiva, es posible que algunos sitios no funcionen y { -brand-short-name } no podrá ayudar a solucionar esos problemas.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Desactivar correcciones
@@ -1539,7 +1528,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificados
-certs-description = Configurar los certificados que { -brand-short-name } usa para la autenticación.
 certs-enable-ocsp =
     .label = Consultar a los servidores respondedores OCSP para confirmar la validez actual de los certificados
     .accesskey = u
