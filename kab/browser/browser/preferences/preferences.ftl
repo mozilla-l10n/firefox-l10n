@@ -1453,6 +1453,7 @@ certs-view =
 certs-devices =
     .label = Ibenkan n tɣellist…
     .accesskey = B
+certs-devices-enable-fips = Rmed FIPS
 space-alert-over-5gb-settings-button =
     .label = Ldi iɣewwaren
     .accesskey = L
