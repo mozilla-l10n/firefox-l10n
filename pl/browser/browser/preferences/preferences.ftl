@@ -1564,12 +1564,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = { -brand-short-name } może automatycznie ufać zewnętrznym certyfikatom głównym zainstalowanym przez użytkownika
     .accesskey = m
+certs-devices-enable-fips = Włącz FIPS
 space-alert-over-5gb-settings-button =
     .label = Otwórz ustawienia
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Ustawienia → Prywatność i bezpieczeństwo → Ciasteczka i dane witryn.
 space-alert-under-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
 certs-description = Skonfiguruj certyfikaty, których { -brand-short-name } używa do uwierzytelniania.
+certs-description2 =
+    .label = Certyfikaty
+    .description = Skonfiguruj certyfikaty, których { -brand-short-name } używa do uwierzytelniania.
 
 ## Privacy Section - HTTPS-Only
 
