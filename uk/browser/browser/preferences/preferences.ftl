@@ -1294,7 +1294,6 @@ content-blocking-etp-standard-tcp-rollout-description = Функція Total Coo
 content-blocking-etp-standard-tcp-rollout-learn-more = Докладніше
 content-blocking-etp-standard-tcp-title = Включає Total Cookie Protection – нашу найпотужнішу функцію приватності
 content-blocking-warning-title = Увага!
-content-blocking-and-isolating-etp-warning-description-3 = Цей параметр може вплинути на належну роботу вебсайтів та їх вмісту. Ми забезпечуємо необов'язкові винятки для вебсайтів, на які може вплинути ваша конфігурація. Щоб зменшити ймовірність пошкодження вебсайтів, дозвольте ці винятки відстеження. Якщо сайт виглядає пошкодженим, ви можете вимкнути захист від стеження для нього, щоб завантажити весь вміст і повідомити про проблему, щоб ми могли виправити її для всіх користувачів.
 content-blocking-warning-title-2 = Надійний захист від стеження може порушити роботу певних вебсайтів
 content-blocking-warning-title-custom = Власний захист від стеження може порушити роботу певних вебсайтів
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1308,18 +1307,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Усувати незначні проблеми з сайтами
     .description = Відновлення вмісту, як-от вбудованих відео в статтях або розділів з коментарями шляхом розблокування лише необхідних об'єктів, що можуть містити елементи стеження. Цей параметр має використовуватися разом з функцією усунення значних проблем.
-content-blocking-baseline-exceptions =
-    .label = Дозволити { -brand-short-name } автоматично застосовувати винятки для запобігання збоям у роботі вебсайтів.
-content-blocking-baseline-exceptions-2 =
-    .label = Для належної роботи вебсайтів розблоковуються лише необхідні об'єкти, що можуть містити елементи стеження. Усувається більшість проблем.
-content-blocking-convenience-exceptions =
-    .label = Також автоматично застосовувати винятки, необхідні для виправлення лише незначних проблем і забезпечення доступності зручних функцій.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Відновлення вмісту, як-от вбудованих відео в статтях або розділів з коментарями шляхом розблокування лише необхідних об'єктів, що можуть містити елементи стеження. Цей параметр має використовуватися разом з функцією усунення значних проблем.
-content-blocking-baseline-label = Усувати значні проблеми з сайтами (рекомендовано)
-content-blocking-convenience-label = Усувати незначні проблеми з сайтами
-content-blocking-exceptions-subheader = Усунення проблем із сайтами
 content-blocking-baseline-uncheck-warning-dialog-title = Ви дійсно хочете вимкнути усунення проблем?
 content-blocking-baseline-uncheck-warning-dialog-body = Цей параметр допомагає усувати найпоширеніші проблеми з вебсайтами. Якщо його вимкнути, деякі сайти можуть не працювати, і { -brand-short-name } не зможе допомогти.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Вимкнути усунення проблем
