@@ -1365,6 +1365,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Permet que el { -brand-short-name } confiï automàticament en els certificats arrel de tercers que instal·leu
     .accesskey = t
+certs-devices-enable-fips = Habilita els FIPS
 space-alert-over-5gb-settings-button =
     .label = Obre els paràmetres
     .accesskey = O
