@@ -426,6 +426,7 @@ certs-header = Certificates
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
+certs-devices-enable-fips = Enable FIPS
 
 ## Privacy Section - HTTPS-Only
 
