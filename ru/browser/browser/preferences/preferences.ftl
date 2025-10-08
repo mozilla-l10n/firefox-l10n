@@ -1564,6 +1564,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Разрешить { -brand-short-name } автоматически доверять установленным вами сторонним корневым сертификатам.
     .accesskey = е
+certs-devices-enable-fips = Использовать FIPS
 space-alert-over-5gb-settings-button =
     .label = Открыть Настройки
     .accesskey = к
