@@ -1544,6 +1544,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = ยอมให้ { -brand-short-name } เชื่อถือใบรับรองหลักของบุคคลที่สามที่คุณติดตั้งโดยอัตโนมัติ
     .accesskey = ช
+certs-devices-enable-fips = เปิดใช้งาน FIPS
 space-alert-over-5gb-settings-button =
     .label = เปิดการตั้งค่า
     .accesskey = ป
