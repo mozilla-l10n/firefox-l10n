@@ -922,6 +922,7 @@ certs-view =
 certs-devices =
     .label = सुरक्षा उपकरण…
     .accesskey = D
+certs-devices-enable-fips = FIPS सक्रिय करें
 space-alert-over-5gb-settings-button =
     .label = सेटिंग खोलें
     .accesskey = O
