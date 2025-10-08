@@ -1560,12 +1560,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Permet a { -brand-short-name } di considerâ atendibii in automatic i certificâts lidrîs di tiercis parts che tu instalis
     .accesskey = t
+certs-devices-enable-fips = Ative FIPS
 space-alert-over-5gb-settings-button =
     .label = Vierç Impostazions
     .accesskey = I
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } al sta finint il spazi su disc.</strong> Al è pussibil che i contignûts dai sîts web no vignedin visualizâts ben. Tu puedis netâ i dâts archiviâts in Impostazions > Riservatece e sigurece > Cookies e dâts di sîts.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } al sta finint il spazi su disc.</strong> Al è pussibil che i contignûts dai sîts web no vignedin visualizâts ben. Visite “Plui informazions” par otimizâ la utilizazion dal to disc cussì di vê une esperience di navigazion miorade.
 certs-description = Configure i certificâts doprâts di { -brand-short-name } pe autenticazion.
+certs-description2 =
+    .label = Certificâts
+    .description = Configure i certificâts doprâts di { -brand-short-name } pe autenticazion.
 
 ## Privacy Section - HTTPS-Only
 
