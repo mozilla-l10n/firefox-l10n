@@ -1389,6 +1389,7 @@ certs-view =
 certs-devices =
     .label = Segurtasun-gailuak…
     .accesskey = S
+certs-devices-enable-fips = Gaitu FIPS
 space-alert-over-5gb-settings-button =
     .label = Ireki ezarpenak
     .accesskey = k
