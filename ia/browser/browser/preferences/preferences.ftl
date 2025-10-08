@@ -1567,6 +1567,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>Le spatio de disco disponibile a { -brand-short-name } es quasi exhaurite.</strong> Le contento de sitos web pote non monstrar se correctemente. Tu pote eliminar datos immagazinate in Parametros > Confidentialitate & Securitate > Cookies e Datos de sito.
 space-alert-under-5gb-message2 = <strong>Le spatio de disco disponibile a { -brand-short-name } es quasi exhaurite.</strong> Le contento de sitos web pote non monstrar se correctemente. Visita “Apprender plus” pro optimisar le uso de tu disco pro un melior experientia de navigation.
 certs-description = Configurar le certificatos que { -brand-short-name } usa pro authentication.
+certs-description2 =
+    .label = Certificatos
+    .description = Configurar le certificatos que { -brand-short-name } usa pro authentication.
 
 ## Privacy Section - HTTPS-Only
 
