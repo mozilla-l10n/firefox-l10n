@@ -1567,6 +1567,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } verfügt über nur noch wenig freien Speicherplatz.</strong> Website-Inhalte werden vielleicht nicht richtig angezeigt. Sie können gespeicherte Daten im Menü Einstellungen > Datenschutz & Sicherheit > Cookies und Website-Daten löschen.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } verfügt über nur noch wenig freien Speicherplatz.</strong> Website-Inhalte werden vielleicht nicht richtig angezeigt. Besuchen Sie "Weitere Informationen", um die Speichernutzung für ein besseres Weberlebnis zu optimieren.
 certs-description = Zertifikate konfigurieren, die { -brand-short-name } zur Authentifizierung verwendet.
+certs-description2 =
+    .label = Zertifikate
+    .description = Zertifikate konfigurieren, die { -brand-short-name } zur Authentifizierung verwendet.
 
 ## Privacy Section - HTTPS-Only
 
