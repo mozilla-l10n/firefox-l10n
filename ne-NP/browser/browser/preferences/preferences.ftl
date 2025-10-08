@@ -690,6 +690,7 @@ certs-view =
 certs-devices =
     .label = सुरक्षा उपकरणहरू…
     .accesskey = D
+certs-devices-enable-fips = FIPS सक्षम पार्नुहोस्
 
 ## Privacy Section - HTTPS-Only
 
