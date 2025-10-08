@@ -1084,6 +1084,7 @@ certs-view =
 certs-devices =
     .label = Mga Security Device...
     .accesskey = D
+certs-devices-enable-fips = I-enable ang FIPS
 space-alert-over-5gb-settings-button =
     .label = Buksan ang Mga Setting
     .accesskey = O
