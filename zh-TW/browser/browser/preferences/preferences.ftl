@@ -1555,6 +1555,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間不足。</strong>網站內容可能無法正確顯示。您可以到「選項 > 隱私權與安全性 > Cookie 與網站資料」清除目前儲存的網站資料。
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間不足。</strong>網站內容可能無法正確顯示。請點擊「瞭解更多」清理磁碟空間，讓您有更好的瀏覽體驗。
 certs-description = 設定 { -brand-short-name } 要用來驗證身分的憑證。
+certs-description2 =
+    .label = 憑證
+    .description = 設定 { -brand-short-name } 要用來驗證身分的憑證。
 
 ## Privacy Section - HTTPS-Only
 
