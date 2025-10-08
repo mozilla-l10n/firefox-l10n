@@ -1318,7 +1318,6 @@ content-blocking-etp-standard-tcp-rollout-description = הגנת עוגיות מ
 content-blocking-etp-standard-tcp-rollout-learn-more = מידע נוסף
 content-blocking-etp-standard-tcp-title = כולל הגנת עוגיות מלאה, תכונת הפרטיות העוצמתית ביותר שלנו אי פעם
 content-blocking-warning-title = לתשומת לבך!
-content-blocking-and-isolating-etp-warning-description-3 = הגדרה זו עלולה לגרום לאתרים מסוימים לא להציג תוכן או לתפקד כראוי. אנו מספקים חריגות אופציונליות עבור אתרים שאנו יודעים שעשויים להיות מושפעים מהתצורה שלך. כדי להפחית את הסיכוי לאתרים שבורים, יש לאפשר את החריגות האלו. אם אתר נראה שבור, ניתן לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן ולדווח על הבעיה כדי שנוכל לסייע לתקן אותה עבור כולם.
 content-blocking-warning-title-2 = ייתכן שחלק מהאתרים לא יעבדו כשורה כשהגנת מעקב מחמירה פעילה
 content-blocking-warning-title-custom = ייתכן שחלק מהאתרים לא יעבדו כשורה כשהגנת מעקב מותאמת אישית פעילה
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1332,18 +1331,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = תיקון בעיות קלות באתרים
     .description = משחזר דברים כמו סרטונים במאמר או מקטעי תגובות על־ידי ביטול חסימה של אלמנטים שעשויים להכיל רכיבי מעקב. פעולה זו יכולה להפחית בעיות באתרים אך מציעה הגנה פחותה יותר. יש להשתמש בו עם תיקונים לבעיות משמעותיות.
-content-blocking-baseline-exceptions =
-    .label = לאפשר ל־{ -brand-short-name } להחיל באופן אוטומטי חריגות הנדרשות כדי להימנע משבירה של אתרים.
-content-blocking-baseline-exceptions-2 =
-    .label = מסייע בטעינת אתרים ותכונות על־ידי ביטול חסימה של אלמנטים חיוניים בלבד שעשויים להכיל רכיבי מעקב. זה מכסה את רוב הבעיות הנפוצות.
-content-blocking-convenience-exceptions =
-    .label = להחיל באופן אוטומטי גם חריגות הנדרשות לתקן בעיות קלות ולהפוך תכונות נוחיות לזמינות.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = משחזר דברים כמו סרטונים במאמר או מקטעי תגובות על־ידי ביטול חסימה של אלמנטים שעשויים להכיל רכיבי מעקב. פעולה זו יכולה להפחית בעיות באתרים אך מציעה הגנה פחותה יותר. יש להשתמש בו עם תיקונים לבעיות משמעותיות.
-content-blocking-baseline-label = תיקון בעיות משמעותיות באתרים (מומלץ)
-content-blocking-convenience-label = תיקון בעיות קלות באתרים
-content-blocking-exceptions-subheader = תיקון בעיות באתרים
 content-blocking-baseline-uncheck-warning-dialog-title = האם ברצונך לכבות את התיקונים?
 content-blocking-baseline-uncheck-warning-dialog-body = הגדרה זו מסייעת לתקן את בעיות האתרים הנפוצות ביותר. אם הגדרה זו תכובה, ייתכן שחלק מהאתרים לא יפעלו, ו־{ -brand-short-name } לא יוכל לסייע בפתרון בעיות אלו.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = כיבוי התיקונים
@@ -1542,7 +1529,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = אישורים
-certs-description = הגדרת התצורה של האישורים שבהם { -brand-short-name } משתמש לצורך אימות.
 certs-enable-ocsp =
     .label = תשאול שרתי OCSP לאימות תקפות נוכחית של אישורי אבטחה
     .accesskey = ת
