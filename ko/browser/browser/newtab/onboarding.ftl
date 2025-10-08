@@ -477,6 +477,19 @@ sync-to-mobile-button-label = 모바일에 동기화
 desktop-to-mobile-qr-code-alt =
     .aria-label = 모바일용 { -brand-product-name } 다운로드를 위한 QR 코드
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Windows 11로 업그레이드하십니까?
+    { -brand-product-name } 데이터를 백업하세요.
+create-backup-screen-1-subtitle = 비밀번호, 북마크 등을 1~2분 안에 자동으로 보호합니다.
+create-backup-screen-1-flair = 권장
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">더 알아보기</a>
+create-backup-screen-1-sync-label = { -brand-product-name } 동기화
+create-backup-screen-1-sync-body = 로그인한 모든 기기 백업
+create-backup-screen-1-backup-label = PC에 백업
+create-backup-screen-1-backup-body = 기기 또는 OneDrive에 저장
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = 백업에서 복원
