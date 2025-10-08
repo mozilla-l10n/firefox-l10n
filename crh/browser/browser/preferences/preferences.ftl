@@ -815,6 +815,7 @@ certs-view =
 certs-devices =
     .label = Emniyet Cihazları…
     .accesskey = C
+certs-devices-enable-fips = FIPS etkinleştir
 
 ## Privacy Section - HTTPS-Only
 
