@@ -1560,6 +1560,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Permesi al { -brand-short-name } aŭtomate fidi radikajn atestilojn de aliaj, kiuj estis instalitaj de vi
     .accesskey = f
+certs-devices-enable-fips = Ebligi FIPS
 space-alert-over-5gb-settings-button =
     .label = Malfermi agordojn
     .accesskey = a
