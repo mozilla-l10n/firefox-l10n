@@ -765,6 +765,7 @@ certs-view =
 certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
+certs-devices-enable-fips = FIPS সক্রিয় করা হবে
 
 ## Privacy Section - HTTPS-Only
 
