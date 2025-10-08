@@ -703,6 +703,7 @@ certs-view =
 certs-devices =
     .label = Gléasanna Slándála…
     .accesskey = d
+certs-devices-enable-fips = Cumasaigh FIPS
 
 ## Privacy Section - HTTPS-Only
 
