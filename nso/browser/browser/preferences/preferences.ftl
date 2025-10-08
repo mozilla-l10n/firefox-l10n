@@ -350,6 +350,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Ditifikeiti
+certs-devices-enable-fips = Kgontšha FIPS
 
 ## Privacy Section - HTTPS-Only
 
