@@ -864,6 +864,7 @@ security-enable-safe-browsing-link = زیاتر بزانە
 ## Privacy Section - Certificates
 
 certs-header = بڕوانامە
+certs-devices-enable-fips = FIPS چالاک بکە
 
 ## Privacy Section - HTTPS-Only
 
