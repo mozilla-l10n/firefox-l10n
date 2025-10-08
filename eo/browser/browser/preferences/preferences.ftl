@@ -127,6 +127,10 @@ startup-header = Starto
 always-check-default =
     .label = Ĉiam kontroli ĉu { -brand-short-name } estas via ĉefa retumilo
     .accesskey = i
+is-default-browser =
+    .message = { -brand-short-name } estas nuntempe via ĉefa retumilo
+is-not-default-browser =
+    .message = { -brand-short-name } ne estas via ĉefa retumilo
 is-default = { -brand-short-name } estas nuntempe via ĉefa retumilo
 is-not-default = { -brand-short-name } ne estas via ĉefa retumilo
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Malfermi antaŭajn fenestrojn kaj langetojn
     .accesskey = a
+startup-windows-launch-on-login-profile-disabled =
+    .message = Aktivigu tiun ĉi preferon per marko de “{ profile-manager-use-selected.label }” en la fenestro "Elekti profilon de uzanto".
 windows-launch-on-login =
     .label = Aŭtomate malfermi { -brand-short-name } kiam la komputilo ŝaltiĝas
     .accesskey = A
@@ -1330,7 +1336,6 @@ content-blocking-etp-standard-tcp-rollout-description = La totala protekto kontr
 content-blocking-etp-standard-tcp-rollout-learn-more = Pli da informo
 content-blocking-etp-standard-tcp-title = Tio inkluzivas plenan protekton kontraŭ kuketoj, nia ĝisnune plej pova privateca trajto
 content-blocking-warning-title = Atentu!
-content-blocking-and-isolating-etp-warning-description-3 = Tiu ĉi agordo povas mismontri aŭ misfunkciigi retejojn. Ni permesas la eblon aldoni esceptojn por retejoj sur kiuj, laŭ nia scio, viaj agordoj povus malbone efiki.  Por redukti la eblon misfunkciigi retejojn, permesu tiujn esceptojn por spuriloj. Se retejo misfunkcias, vi povas malŝalti la protekton por ĝi, tiel ke la tuta enhavo estos ŝargita, kaj raporti la problemon, tiel ke ni povas helpi solvi tion por ĉiuj.
 content-blocking-warning-title-2 = Rigora blokado de spuriloj povas misfunkciigi retejojn
 content-blocking-warning-title-custom = Personecigita blokado de spuriloj povas misfunkciigi retejojn
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1349,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Solvi negravajn retejajn problemojn
     .description = Tio ĉi remetas aferojn kiel filmetojn aŭ komentan sekcion en artikolon pero malblokado de elementoj kiuj povus enhavi spurilojn. Tio povas redukti problemojn en la retejo sed malplibonigas la protekton. Oni uzu tion kune kun korektoj por gravaj problemoj.
-content-blocking-baseline-exceptions =
-    .label = Permesi al { -brand-short-name } aŭtomate apliki esceptojn, kiuj bezonatas por eviti gravan misfunkciadon en retejoj.
-content-blocking-baseline-exceptions-2 =
-    .label = Tio ĉi helpas retejojn kaj trajtojn per malblokado de (nur) nepraj elementoj, kiuj tamen povus enhave spurilojn. La plimulto de oftaj problemoj estas solveblaj ĉi tiel.
-content-blocking-convenience-exceptions =
-    .label = Aŭtomate apliki esceptojn ankaŭ kiam ili bezonatas por solvi negravajn problemojn aŭ por permesi aliron al praktikaj trajtoj.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Tio ĉi remetas aferojn kiel filmetojn aŭ komentan sekcion en artikolon pero malblokado de elementoj kiuj povus enhavi spurilojn. Tio povas redukti problemojn en la retejo sed malplibonigas la protekton. Oni uzu tion kune kun korektoj por gravaj problemoj.
-content-blocking-baseline-label = Solvi gravajn retejajn problemojn (rekomendata)
-content-blocking-convenience-label = Solvi negravajn retejajn problemojn
-content-blocking-exceptions-subheader = Solvi retejajn problemojn
 content-blocking-baseline-uncheck-warning-dialog-title = Ĉu vi certe volas malŝalti korektojn?
 content-blocking-baseline-uncheck-warning-dialog-body = Tiu ĉi agordo helpas solvi la plej oftajn retejajn problemojn. Se vi malŝaltas ĝin, kelkaj retejoj povus ne plu funkcii kaj { -brand-short-name } ne povos helpi vin solvi tiujn problemojn.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Malŝalti korektojn
@@ -1555,7 +1548,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Atestiloj
-certs-description = Agordi la atestilojn uzatajn de { -brand-short-name } por aŭtentigo.
 certs-enable-ocsp =
     .label = Peti al OCSP respondaj serviloj konfirmon pri la nuna valideco de atestiloj
     .accesskey = P
@@ -1568,11 +1560,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Permesi al { -brand-short-name } aŭtomate fidi radikajn atestilojn de aliaj, kiuj estis instalitaj de vi
     .accesskey = f
+certs-devices-enable-fips = Ebligi FIPS
 space-alert-over-5gb-settings-button =
     .label = Malfermi agordojn
     .accesskey = a
 space-alert-over-5gb-message2 = <strong>Elĉerpiĝas la diska spaco por { -brand-short-name }.</strong> Enhavo de retejoj povas aperi malĝuste. Vi povas viŝi konservitajn retejajn datumojn en Agordoj > Privateco kaj sekureco > Kuketoj kaj retejaj datumoj.
 space-alert-under-5gb-message2 = <strong>Elĉerpiĝas la diska spaco por { -brand-short-name }</strong>. Enhavo de retejoj povas aperi malĝuste. Vizitu “Pli da informo” por optimumigi la uzon de diska spaco, por pli bona retuma sperto.
+certs-description = Agordi la atestilojn uzatajn de { -brand-short-name } por aŭtentigo.
+certs-description2 =
+    .label = Atestiloj
+    .description = Agordi la atestilojn uzatajn de { -brand-short-name } por aŭtentigo.
 
 ## Privacy Section - HTTPS-Only
 

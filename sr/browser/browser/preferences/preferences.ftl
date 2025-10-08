@@ -142,6 +142,10 @@ startup-header = Покретање
 always-check-default =
     .label = Проверавај да ли је { -brand-short-name } подразумевани прегледач
     .accesskey = р
+is-default-browser =
+    .message = { -brand-short-name } је тренутно подразумевани прегледач
+is-not-default-browser =
+    .message = { -brand-short-name } није подразумевани прегледач
 is-default = { -brand-short-name } је тренутно подразумевани прегледач
 is-not-default = { -brand-short-name } није подразумевани прегледач
 set-as-my-default-browser =
@@ -1286,6 +1290,9 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1316,6 +1323,7 @@ certs-view =
 certs-devices =
     .label = Безбедносни уређаји…
     .accesskey = Б
+certs-devices-enable-fips = Омогући FIPS
 space-alert-over-5gb-settings-button =
     .label = Отвори подешавања
     .accesskey = О

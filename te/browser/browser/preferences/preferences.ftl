@@ -66,6 +66,17 @@ should-restart-ok = ఇప్పుడు { -brand-short-name } ను పున
 cancel-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = వెతుకుడు ఫలితాలు
@@ -77,6 +88,10 @@ startup-header = మొదలవడం
 always-check-default =
     .label = { -brand-short-name } మీ అప్రమేయ విహారిణియేనా అని ఎల్లప్పుడూ పరిశీలించు
     .accesskey = w
+is-default-browser =
+    .message = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి
+is-not-default-browser =
+    .message = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి కాదు
 is-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి
 is-not-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి కాదు
 set-as-my-default-browser =
@@ -685,6 +700,9 @@ forms-windows-sso-learn-more-link = ఇంకా తెలుసుకోండ�
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = చరిత్ర
@@ -759,6 +777,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = మినహాయింపులను నిర్వహించండి…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -919,6 +940,9 @@ addon-recommendations-link = ఇంకా తెలుసుకోండి
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -949,6 +973,7 @@ certs-view =
 certs-devices =
     .label = రక్షణ పరికరాలు…
     .accesskey = D
+certs-devices-enable-fips = FIPS చేతనంచేయి
 space-alert-over-5gb-settings-button =
     .label = అమరికలను తెరువు
     .accesskey = O

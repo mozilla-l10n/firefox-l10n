@@ -127,6 +127,10 @@ startup-header = Opstarte
 always-check-default =
     .label = Altyd kontrolearje oft { -brand-short-name } de standertbrowser is
     .accesskey = k
+is-default-browser =
+    .message = { -brand-short-name } is op dit stuit jo standertbrowser
+is-not-default-browser =
+    .message = { -brand-short-name } is net jo standertbrowser
 is-default = { -brand-short-name } is op dit stuit jo standertbrowser
 is-not-default = { -brand-short-name } is net jo standertbrowser
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Foarige finsters en ljepblêden iepenje
     .accesskey = f
+startup-windows-launch-on-login-profile-disabled =
+    .message = Skeakelje dizze foarkar yn troch ‘{ profile-manager-use-selected.label }’ yn it finster ‘Brûkersprofyl kieze’ oan te finken.
 windows-launch-on-login =
     .label = { -brand-short-name } automatysk iepenje by it opstarten fan jo computer
     .accesskey = a
@@ -1330,7 +1336,6 @@ content-blocking-etp-standard-tcp-rollout-description = Totale cookiebeskerming 
 content-blocking-etp-standard-tcp-rollout-learn-more = Mear ynfo
 content-blocking-etp-standard-tcp-title = Befettet Totale cookiebeskerming, ús krêftichste privacyfunksje ea
 content-blocking-warning-title = Let op!
-content-blocking-and-isolating-etp-warning-description-3 = Dizze ynstelling kin derfoar soargje dat guon websites ynhâld net werjaan of goed funksjonearje. Wy biede opsjonele útsûnderingen foar websites wêrfan wy witte dat se beynfloede wurde kinne troch jo konfiguraasje. Om de kâns op defekte websites te ferminderjen, kinne jo dizze trackerútsûnderingen tastean. As in website net liket te wurkjen, kinne jo beskerming tsjin folgjen foar dy website útskeakelje om alle ynhâld te laden en it probleem te melden, sadat wy it foar elkenien oplosse kinne.
 content-blocking-warning-title-2 = Guon websites wurkje mooglik net goed mei strikte beskerming tsjin folgjen
 content-blocking-warning-title-custom = Guon websites wurkje mooglik net goed mei oanpaste beskerming tsjin folgjen
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1349,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Lytse problemen mei de website oplosse
     .description = Werstelt saken as fideo’s yn in artikel of kommentaarseksjes troch eleminten dy’t trackers befetsje kinne te deblokkearjen. Dit kin problemen mei de website ferminderje, mar biedt minder beskerming. Moat brûkt wurde mei oplossingen foar grutte problemen.
-content-blocking-baseline-exceptions =
-    .label = { -brand-short-name } tastean om automatysk útsûnderingen ta te passen dy’t nedich binne om grutte defekten fan de website foar te kommen.
-content-blocking-baseline-exceptions-2 =
-    .label = Helpt websites en funksjes te laden troch allinnich essinsjele eleminten dy’t trackers befetsje kinne te deblokkearjen. Dekt de meast foarkommende problemen.
-content-blocking-convenience-exceptions =
-    .label = Ek automatysk útsûnderingen tapasse dy’t allinnich nedich binne om lytse problemen op te lossen en gemaksfunksjes beskikber te meitsjen.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Werstelt saken as fideo’s yn in artikel of kommentaarseksjes troch eleminten dy’t trackers befetsje kinne te deblokkearjen. Dit kin problemen mei de website ferminderje, mar biedt minder beskerming. Moat brûkt wurde mei oplossingen foar grutte problemen.
-content-blocking-baseline-label = Grutte problemen mei de website oplosse (oanrekommandearre)
-content-blocking-convenience-label = Lytse problemen mei de website oplosse
-content-blocking-exceptions-subheader = Problemen mei de website oplosse
 content-blocking-baseline-uncheck-warning-dialog-title = Binne jo wis dat jo oplossingen útskeakelje wolle?
 content-blocking-baseline-uncheck-warning-dialog-body = Dizze ynstelling helpt de meast foarkommende websiteproblemen op te lossen. As jo it útskeakelje, wurkje guon siden miskien net, en { -brand-short-name } sil net helpe kinne by it oplossen fan dizze problemen.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Oplossingen útskeakelje
@@ -1555,7 +1548,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikaten
-certs-description = De sertifikaten dy’t { -brand-short-name } brûkt foar autentikaasje konfigurearje.
 certs-enable-ocsp =
     .label = Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen
     .accesskey = F
@@ -1568,11 +1560,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = { -brand-short-name } tastean om troch jo ynstallearre rootsertifikaten fan tredden automatysk te fertrouwen
     .accesskey = t
+certs-devices-enable-fips = FIPS ynskeakelje
 space-alert-over-5gb-settings-button =
     .label = Ynstellingen iepenje
     .accesskey = i
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin skiifromte mear.</strong> Ynhâld fan websites wurdt mooglik net goed werjûn. Jo kinne bewarre gegevens wiskje yn Ynstellingen > Privacy & Befeiliging > Cookies en websitegegevens.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin skiifromte mear.</strong> Ynhâld fan websites wurdt mooglik net goed werjûn. Besykje ‘Mear ynfo’ om jo skiifgebrûk te optimalisearjen foar bettere prestaasjes.
+certs-description = De sertifikaten dy’t { -brand-short-name } brûkt foar autentikaasje konfigurearje.
+certs-description2 =
+    .label = Sertifikaten
+    .description = De sertifikaten dy’t { -brand-short-name } brûkt foar autentikaasje konfigurearje.
 
 ## Privacy Section - HTTPS-Only
 

@@ -163,6 +163,10 @@ startup-header = Spuštění
 always-check-default =
     .label = Kontrolovat, jestli je { -brand-short-name } výchozím webovým prohlížečem
     .accesskey = w
+is-default-browser =
+    .message = { -brand-short-name } je vaším výchozím prohlížečem
+is-not-default-browser =
+    .message = { -brand-short-name } aktuálně není výchozím prohlížečem
 is-default = { -brand-short-name } je vaším výchozím prohlížečem
 is-not-default = { -brand-short-name } aktuálně není výchozím prohlížečem
 set-as-my-default-browser =
@@ -171,6 +175,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Otevřít okna a panely z minula
     .accesskey = p
+startup-windows-launch-on-login-profile-disabled =
+    .message = Povolte tuto předvolbu zaškrtnutím "{ profile-manager-use-selected.label }" v okně "Výběr profilu uživatele".
 windows-launch-on-login =
     .label =
         { -brand-short-name.case-status ->
@@ -1492,7 +1498,6 @@ content-blocking-etp-standard-tcp-rollout-description = Úplná ochrana před co
 content-blocking-etp-standard-tcp-rollout-learn-more = Zjistit více
 content-blocking-etp-standard-tcp-title = Zahrnuje úplnou ochranu před cookies, naši nejsilnější funkci zaměřenou na soukromí
 content-blocking-warning-title = Pozor!
-content-blocking-and-isolating-etp-warning-description-3 = Toto nastavení může způsobit, že některé webové stránky nezobrazí obsah nebo nebudou fungovat správně. Pro webové stránky, o kterých víme, že mohou být ovlivněny vaší konfigurací, poskytujeme volitelné výjimky. Chcete-li snížit pravděpodobnost nefunkčnosti webových stránek, povolte tyto výjimky pro sledování. Pokud se některý web jeví jako nefunkční, můžete pro něj vypnout ochranu proti sledování, aby se načetl veškerý obsah, a nahlásit problém, abychom jej mohli pomoci všem opravit.
 content-blocking-warning-title-2 = Některé stránky nemusí s přísnou ochranou před sledováním fungovat správně
 content-blocking-warning-title-custom = Některé stránky nemusí fungovat s vlastní ochranou proti sledování správně
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1506,22 +1511,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Oprava menších problémů se stránkami
     .description = Obnoví například videa v článku nebo sekce komentářů odblokováním prvků, které mohou obsahovat sledovací prvky. To může omezit problémy s webem, ale nabízí menší ochranu. Musí být použita s opravami závažných problémů.
-content-blocking-baseline-exceptions =
-    .label =
-        { -brand-short-name.case-status ->
-            [with-cases] Povolit { -brand-short-name(case: "gen") } automatické použití výjimek, které jsou nutné k zabránění větší nefunkčnosti webových stránek.
-           *[no-cases] Povolit aplikaci { -brand-short-name } automatické použití výjimek, které jsou nutné k zabránění větší nefunkčnosti webových stránek.
-        }
-content-blocking-baseline-exceptions-2 =
-    .label = Pomáhá načítat weby a funkce tím, že odblokovává pouze podstatné prvky, které mohou obsahovat sledovací prvky. Pokrývá většinu běžných problémů.
-content-blocking-convenience-exceptions =
-    .label = Automaticky také aplikovat výjimky, které jsou potřeba jen k opravě menších problémů a zpřístupnění komfortních funkcí.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Obnoví například videa v článku nebo sekce komentářů odblokováním prvků, které mohou obsahovat sledovací prvky. To může omezit problémy s webem, ale nabízí menší ochranu. Musí být použita s opravami závažných problémů.
-content-blocking-baseline-label = Oprava velkých problémů se stránkami (doporučeno)
-content-blocking-convenience-label = Oprava menších problémů se stránkami
-content-blocking-exceptions-subheader = Oprava problémů se stránkami
 content-blocking-baseline-uncheck-warning-dialog-title = Opravdu chcete vypnout opravy?
 content-blocking-baseline-uncheck-warning-dialog-body = Toto nastavení pomáhá řešit nejčastější problémy s webem. Pokud jej vypnete, některé weby nemusí fungovat a { -brand-short-name } nebude moci pomoci s řešením těchto problémů.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Vypnout opravy
@@ -1789,7 +1778,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikáty
-certs-description = Nakonfigurujte certifikáty, které { -brand-short-name } používá pro autentizaci.
 certs-enable-ocsp =
     .label = Aktuální platnost certifikátů ověřovat na serverech OCSP
     .accesskey = o
@@ -1806,6 +1794,7 @@ certs-thirdparty-toggle =
            *[no-cases] Povolit aplikaci { -brand-short-name } automatickou důvěru v nainstalované kořenové certifikáty třetích stran, které nainstalujete.
         }
     .accesskey = P
+certs-devices-enable-fips = Povolit FIPS
 space-alert-over-5gb-settings-button =
     .label = Otevřít nastavení
     .accesskey = O
@@ -1819,6 +1808,10 @@ space-alert-under-5gb-message2 =
         [with-cases] <strong>{ -brand-short-name(case: "dat") } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Klepněte na „Dozvědět se více“ o optimalizaci využití disku k lepšímu prohlížení webu.
        *[no-cases] <strong>Aplikaci { -brand-short-name } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Klepněte na „Dozvědět se více“ o optimalizaci využití disku k lepšímu prohlížení webu.
     }
+certs-description = Nakonfigurujte certifikáty, které { -brand-short-name } používá pro autentizaci.
+certs-description2 =
+    .label = Certifikáty
+    .description = Nakonfigurujte certifikáty, které { -brand-short-name } používá pro autentizaci.
 
 ## Privacy Section - HTTPS-Only
 

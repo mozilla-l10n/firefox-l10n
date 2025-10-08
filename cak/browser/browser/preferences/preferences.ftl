@@ -108,6 +108,10 @@ startup-header = Tikirisab'äl
 always-check-default =
     .label = Junelïk tinik'öx we { -brand-short-name } ja ri' ri awokik'amaya'l
     .accesskey = e
+is-default-browser =
+    .message = { -brand-short-name } ja awokik'amaya'l kan k'o wi
+is-not-default-browser =
+    .message = { -brand-short-name } man ja ta ri awokik'amaya'l kan k'o wi
 is-default = { -brand-short-name } ja awokik'amaya'l kan k'o wi
 is-not-default = { -brand-short-name } man ja ta ri awokik'amaya'l kan k'o wi
 set-as-my-default-browser =
@@ -847,6 +851,9 @@ primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tz
 primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Natab'äl
@@ -1133,6 +1140,9 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Tik'ut pe ri cholajin retamab'al
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1163,6 +1173,7 @@ certs-view =
 certs-devices =
     .label = Taq Rokisab'al Jikomal…
     .accesskey = R
+certs-devices-enable-fips = Titzij ruwäch FIPS
 space-alert-over-5gb-settings-button =
     .label = Tijaq taq runuk'ulem
     .accesskey = T

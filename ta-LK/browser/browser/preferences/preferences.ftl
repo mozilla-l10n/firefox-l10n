@@ -35,6 +35,8 @@ close-button =
 ## General Section
 
 startup-header = ஆரம்பிக்க
+is-default-browser =
+    .message = தற்போதைய பொது இருப்பு உலாவி: { -brand-short-name }
 is-default = தற்போதைய பொது இருப்பு உலாவி: { -brand-short-name }
 
 ## Variables:

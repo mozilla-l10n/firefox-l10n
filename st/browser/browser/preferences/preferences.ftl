@@ -246,6 +246,7 @@ forms-master-pw-fips-desc = Phetolo ya Phasewete e Hlolehile
 
 ## Privacy Section - Certificates
 
+certs-devices-enable-fips = Bulela FIPS
 
 ## Privacy Section - HTTPS-Only
 

@@ -39,6 +39,10 @@ should-restart-title = { -brand-short-name } परतून सुरू कर
 ## General Section
 
 startup-header = सुरवेक
+is-default-browser =
+    .message = { -brand-short-name } तुमचो सद्याचो मूळ ब्रावजर
+is-not-default-browser =
+    .message = { -brand-short-name } हे तुमचे मुळावे ब्रावजर न्ही
 is-default = { -brand-short-name } तुमचो सद्याचो मूळ ब्रावजर
 is-not-default = { -brand-short-name } हे तुमचे मुळावे ब्रावजर न्ही
 tabs-group-header = टॅब्जा
@@ -378,6 +382,7 @@ certs-header = प्रमाणपत्रां
 certs-enable-ocsp =
     .label = प्रमाणपत्रांची सद्याची वैधता विचारपाक OCSP प्रतिसाद दिवपी सर्वरांक प्रस्न विचारात
     .accesskey = प
+certs-devices-enable-fips = एफआयपीएस सक्षम
 
 ## Privacy Section - HTTPS-Only
 

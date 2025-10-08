@@ -127,6 +127,10 @@ startup-header = 起動
 always-check-default =
     .label = { -brand-short-name } が既定のブラウザーか確認する
     .accesskey = y
+is-default-browser =
+    .message = { -brand-short-name } は既定のブラウザーに設定されています
+is-not-default-browser =
+    .message = { -brand-short-name } は既定のブラウザーに設定されていません
 is-default = { -brand-short-name } は既定のブラウザーに設定されています
 is-not-default = { -brand-short-name } は既定のブラウザーに設定されていません
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = 前回のウィンドウとタブを開く
     .accesskey = s
+startup-windows-launch-on-login-profile-disabled =
+    .message = この設定を有効にするには、[ユーザープロファイルの選択] ウィンドウで [{ profile-manager-use-selected.label }] にチェックを入れてください。
 windows-launch-on-login =
     .label = コンピューターの起動時に { -brand-short-name } を自動的に開く
     .accesskey = O
@@ -1299,7 +1305,6 @@ content-blocking-etp-standard-tcp-rollout-description = 包括的 Cookie 保護�
 content-blocking-etp-standard-tcp-rollout-learn-more = 詳細情報
 content-blocking-etp-standard-tcp-title = 包括的 Cookie 保護機能が含まれます。これまでで最も強力なプライバシー保護機能です
 content-blocking-warning-title = 注意！
-content-blocking-and-isolating-etp-warning-description-3 = この設定では、一部のウェブサイトでコンテンツが表示されないか正しく機能しない可能性があります。この設定の影響を受けることが知られているウェブサイトでは任意の例外を提供しています。ウェブサイトでの問題発生を軽減するため、これらのトラッカーを例外として許可してください。サイトが動作しない場合は、そのサイトでトラッキング防止をオフにし、すべてのコンテンツを読み込んでみてください。また、問題を報告していただければ、解決に役立てることができます。
 content-blocking-warning-title-2 = 厳格なトラッキング防止で一部のウェブサイトが動作しない可能性があります
 content-blocking-warning-title-custom = カスタム設定のトラッキング防止で一部のウェブサイトが動作しない可能性があります
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1313,18 +1318,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = サイトの軽微な問題を修正
     .description = トラッカーを含む要素のブロックを解除して記事内の動画やコメントセクションなどのコンテンツを復元します。これはサイトの問題を軽減しますが、提供される保護が少なくなります。必ず、主要な問題を修正する設定と併用してください。
-content-blocking-baseline-exceptions =
-    .label = ウェブサイトの動作不具合を避けるため { -brand-short-name } が自動的に必要な例外を追加することを許可する
-content-blocking-baseline-exceptions-2 =
-    .label = トラッカーを含む主要な要素だけブロックを解除してサイトの読み込みと機能の動作を助けます。数多くの問題をカバーしています。
-content-blocking-convenience-exceptions =
-    .label = また、小さな問題を解決するのに必要な例外だけを自動的に適用して便利な機能が利用できるようにする
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = トラッカーを含む要素のブロックを解除して記事内の動画やコメントセクションなどのコンテンツを復元します。これはサイトの問題を軽減しますが、提供される保護が少なくなります。必ず、主要な問題を修正する設定と併用してください。
-content-blocking-baseline-label = サイトの主要な問題を修正 (推奨)
-content-blocking-convenience-label = サイトの軽微な問題を修正
-content-blocking-exceptions-subheader = サイトの問題を修正
 content-blocking-baseline-uncheck-warning-dialog-title = 修正をオフにしてもよろしいですか？
 content-blocking-baseline-uncheck-warning-dialog-body = この設定は数多くのサイトの問題の修正を助けます。オフにすると、一部のサイトが動作しない可能性があり、これらの問題を { -brand-short-name } が解決できなくなります。
 content-blocking-baseline-uncheck-warning-dialog-ok-button = 修正をオフにする
@@ -1524,7 +1517,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = 証明書
-certs-description = { -brand-short-name } が認証に使用する証明書を設定します。
 certs-enable-ocsp =
     .label = OCSP レスポンダーサーバーに問い合わせて証明書の現在の正当性を確認する
     .accesskey = Q
@@ -1537,11 +1529,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = ユーザーがインストールしたサードパーティのルート証明書を自動的に信頼することを { -brand-short-name } に許可する
     .accesskey = t
+certs-devices-enable-fips = FIPS を有効にする
 space-alert-over-5gb-settings-button =
     .label = 設定を開く
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } を実行するためのディスク領域が足りません。</strong>ウェブサイトが正しく表示されない可能性があります。[設定] > [プライバシーとセキュリティ] > [Cookie とサイトデータ] から、保存されたデータを削除してください。
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } を実行するためのディスク領域が足りません。</strong>ウェブサイトが正しく表示されない可能性があります。快適なブラウジングのために、[詳細情報] のリンク先を読み、ディスク使用量を最適化してください。
+certs-description = { -brand-short-name } が認証に使用する証明書を設定します。
+certs-description2 =
+    .label = 証明書
+    .description = { -brand-short-name } が認証に使用する証明書を設定します。
 
 ## Privacy Section - HTTPS-Only
 

@@ -127,6 +127,10 @@ startup-header = Uruchamianie
 always-check-default =
     .label = Sprawdzanie, czy { -brand-short-name } jest domyślną przeglądarką
     .accesskey = e
+is-default-browser =
+    .message = { -brand-short-name } jest obecnie domyślną przeglądarką
+is-not-default-browser =
+    .message = { -brand-short-name } nie jest obecnie domyślną przeglądarką
 is-default = { -brand-short-name } jest obecnie domyślną przeglądarką
 is-not-default = { -brand-short-name } nie jest obecnie domyślną przeglądarką
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Otwieranie poprzednich okien i kart
     .accesskey = w
+startup-windows-launch-on-login-profile-disabled =
+    .message = Włącz tę preferencję, zaznaczając opcję „{ profile-manager-use-selected.label }” w oknie „Wybierz profil użytkownika”.
 windows-launch-on-login =
     .label = Automatyczne otwieranie { -brand-short-name(case: "gen") } po włączeniu komputera
     .accesskey = A
@@ -1334,7 +1340,6 @@ content-blocking-etp-standard-tcp-rollout-description = Całkowita ochrona ciast
 content-blocking-etp-standard-tcp-rollout-learn-more = Więcej informacji
 content-blocking-etp-standard-tcp-title = Zawiera całkowitą ochronę ciasteczek, naszą najpotężniejszą funkcję ochrony prywatności w historii
 content-blocking-warning-title = Ostrzeżenie
-content-blocking-and-isolating-etp-warning-description-3 = To ustawienie może spowodować, że część witryn nie będzie wyświetlać treści lub poprawnie działać. Zapewniamy opcjonalne wyjątki dla witryn, o których wiemy, że używana konfiguracja może mieć na nie wpływ. Aby zmniejszyć ryzyko błędnie działających witryn, zezwól na te wyjątki. Jeśli witryna wydaje się błędnie działać, można wyłączyć dla niej ochronę przed śledzeniem, aby wczytać całą treść i zgłosić problem, abyśmy mogli pomóc rozwiązać go dla wszystkich.
 content-blocking-warning-title-2 = Ścisła ochrona przed śledzeniem może powodować niepoprawne działanie niektórych stron
 content-blocking-warning-title-custom = Własna ochrona przed śledzeniem może powodować niepoprawne działanie niektórych stron
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1348,18 +1353,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Naprawianie drobnych problemów ze stronami
     .description = Przywraca między innymi filmy w artykułach czy sekcje komentarzy przez odblokowanie rzeczy, które mogą zawierać elementy śledzące. Może to ograniczyć problemy ze stronami, ale zmniejsza poziom ochrony. Wymaga włączenia opcji naprawiania poważnych problemów.
-content-blocking-baseline-exceptions =
-    .label = { -brand-short-name } może automatycznie stosować wyjątki wymagane, aby uniknąć poważnych problemów z działaniem witryny.
-content-blocking-baseline-exceptions-2 =
-    .label = Pomaga wczytywać strony i funkcje przez odblokowanie tylko niezbędnych rzeczy, które mogą zawierać elementy śledzące. Rozwiązuje najczęstsze problemy.
-content-blocking-convenience-exceptions =
-    .label = Automatyczne stosowanie także wyjątków wymaganych tylko do rozwiązania pomniejszych problemów i zapewnienia dostępu do funkcji ułatwiających korzystanie z witryny.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Przywraca między innymi filmy w artykułach czy sekcje komentarzy przez odblokowanie rzeczy, które mogą zawierać elementy śledzące. Może to ograniczyć problemy ze stronami, ale zmniejsza poziom ochrony. Wymaga włączenia opcji naprawiania poważnych problemów.
-content-blocking-baseline-label = Naprawianie poważnych problemów ze stronami (zalecane)
-content-blocking-convenience-label = Naprawianie drobnych problemów ze stronami
-content-blocking-exceptions-subheader = Naprawianie problemów ze stronami
 content-blocking-baseline-uncheck-warning-dialog-title = Czy na pewno wyłączyć naprawianie?
 content-blocking-baseline-uncheck-warning-dialog-body = To ustawienie pomaga naprawiać najczęstsze problemy ze stronami. Wyłączenie może spowodować niepoprawne działanie niektórych stron, a { -brand-short-name } nie będzie mógł pomagać w rozwiązywaniu tych problemów.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Wyłącz naprawianie
@@ -1559,7 +1552,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certyfikaty
-certs-description = Skonfiguruj certyfikaty, których { -brand-short-name } używa do uwierzytelniania.
 certs-enable-ocsp =
     .label = Odpytywanie serwerów OCSP w celu potwierdzenia wiarygodności certyfikatów
     .accesskey = O
@@ -1572,11 +1564,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = { -brand-short-name } może automatycznie ufać zewnętrznym certyfikatom głównym zainstalowanym przez użytkownika
     .accesskey = m
+certs-devices-enable-fips = Włącz FIPS
 space-alert-over-5gb-settings-button =
     .label = Otwórz ustawienia
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Ustawienia → Prywatność i bezpieczeństwo → Ciasteczka i dane witryn.
 space-alert-under-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
+certs-description = Skonfiguruj certyfikaty, których { -brand-short-name } używa do uwierzytelniania.
+certs-description2 =
+    .label = Certyfikaty
+    .description = Skonfiguruj certyfikaty, których { -brand-short-name } używa do uwierzytelniania.
 
 ## Privacy Section - HTTPS-Only
 

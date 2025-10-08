@@ -127,6 +127,10 @@ startup-header = Käynnistys
 always-check-default =
     .label = Tarkista aina, onko { -brand-short-name } oletusselain
     .accesskey = i
+is-default-browser =
+    .message = { -brand-short-name } on järjestelmän oletusselain
+is-not-default-browser =
+    .message = { -brand-short-name } ei ole järjestelmän oletusselain
 is-default = { -brand-short-name } on järjestelmän oletusselain
 is-not-default = { -brand-short-name } ei ole järjestelmän oletusselain
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Avaa aiemmat ikkunat ja välilehdet
     .accesskey = A
+startup-windows-launch-on-login-profile-disabled =
+    .message = Ota tämä asetus käyttöön valitsemalla "{ profile-manager-use-selected.label }" "Valitse käyttäjäprofiili"-ikkunassa.
 windows-launch-on-login =
     .label = Avaa { -brand-short-name } automaattisesti, kun tietokoneesi käynnistyy
     .accesskey = O
@@ -1330,7 +1336,6 @@ content-blocking-etp-standard-tcp-rollout-description = Totaalinen evästesuoja 
 content-blocking-etp-standard-tcp-rollout-learn-more = Lue lisää
 content-blocking-etp-standard-tcp-title = Sisältää totaalisen evästesuojan, kaikkien aikojen tehokkaimman tietosuojaominaisuuden
 content-blocking-warning-title = Huomio!
-content-blocking-and-isolating-etp-warning-description-3 = Tämä asetus saattaa estää joidenkin verkkosivustojen sisällön näyttämisen tai aiheuttaa toimintahäiriöitä. Tarjoamme valinnaisia poikkeuksia verkkosivustoille, joihin tiedämme määrityksesi vaikuttavan. Voit vähentää rikkinäisten verkkosivustojen todennäköisyyttä sallimalla nämä seurainpoikkeukset. Jos sivusto näyttää rikkinäiseltä, voit poistaa seurannansuojauksen käytöstä kyseiseltä sivustolta, jolloin kaikki sisältö latautuu, ja ilmoittaa ongelmasta, jotta voimme auttaa korjaamaan sen kaikille.
 content-blocking-warning-title-2 = Jotkin sivustot saattavat rikkoutua tiukalla seurannan suojauksella
 content-blocking-warning-title-custom = Jotkin sivustot saattavat rikkoutua mukautetulla seurannan suojauksella
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1349,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Korjaa pienet sivuston ongelmat
     .description = Palauttaa esimerkiksi videot artikkelissa tai kommenttiosiot poistamalla mahdollisesti seuraimia sisältävien elementtien eston. Tämä voi vähentää sivuston ongelmia, mutta tarjoaa vähemmän suojaa. On käytettävä korjausten kanssa merkittävissä ongelmissa.
-content-blocking-baseline-exceptions =
-    .label = Salli { -brand-short-name }in automaattisesti soveltaa poikkeuksia, joita tarvitaan verkkosivustojen merkittävien rikkoutumisten välttämiseksi.
-content-blocking-baseline-exceptions-2 =
-    .label = Auttaa lataamaan sivustoja ja ominaisuuksia poistamalla estoja vain tärkeiltä elementeiltä, jotka saattavat sisältää seuraimia. Kattaa yleisimmät ongelmat.
-content-blocking-convenience-exceptions =
-    .label = Käytä myös automaattisesti poikkeuksia, jotka ovat tarpeen vain pienten ongelmien korjaamiseksi ja mukavuusominaisuuksien käyttöön ottamiseksi.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Palauttaa esimerkiksi videot artikkelissa tai kommenttiosiot poistamalla mahdollisesti seuraimia sisältävien elementtien eston. Tämä voi vähentää sivuston ongelmia, mutta tarjoaa vähemmän suojaa. On käytettävä korjausten kanssa merkittävissä ongelmissa.
-content-blocking-baseline-label = Korjaa merkittävät sivuston ongelmat (suositus)
-content-blocking-convenience-label = Korjaa pienet sivuston ongelmat
-content-blocking-exceptions-subheader = Korjaa sivuston ongelmat
 content-blocking-baseline-uncheck-warning-dialog-title = Haluatko varmasti poistaa korjaukset käytöstä?
 content-blocking-baseline-uncheck-warning-dialog-body = Tämä asetus auttaa korjaamaan yleisimpiä sivusto-ongelmia. Jos poistat sen käytöstä, jotkin sivustot eivät välttämättä toimi, eikä { -brand-short-name } pysty auttamaan näiden ongelmien vianmäärityksessä.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Poista korjaukset käytöstä
@@ -1555,7 +1548,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Varmenteet
-certs-description = Määritä { -brand-short-name }in todennukseen käyttämät varmenteet.
 certs-enable-ocsp =
     .label = Vahvista varmenteiden kelpoisuus OCSP-vastaajapalvelimilta
     .accesskey = C
@@ -1568,11 +1560,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Salli { -brand-short-name }in luottaa automaattisesti asentamiisi kolmannen osapuolen juurivarmenteisiin
     .accesskey = t
+certs-devices-enable-fips = Ota FIPS käyttöön
 space-alert-over-5gb-settings-button =
     .label = Avaa asetukset
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") } loppuu kohta levytila.</strong> Sivustojen sisällöt eivät ehkä näy oikein. Voit tyhjentää sivustotiedot avaamalla Asetukset > Tietosuoja ja turvallisuus > Evästeet ja sivustotiedot.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") } loppuu kohta levytila.</strong> Sivustojen sisällöt eivät ehkä näy oikein. Voit lukea levyn käytön optimoimisesta selaamisen sujuvoittamiseksi painamalla ”Lue lisää”.
+certs-description = Määritä { -brand-short-name }in todennukseen käyttämät varmenteet.
+certs-description2 =
+    .label = Varmenteet
+    .description = Määritä { -brand-short-name }in todennukseen käyttämät varmenteet.
 
 ## Privacy Section - HTTPS-Only
 

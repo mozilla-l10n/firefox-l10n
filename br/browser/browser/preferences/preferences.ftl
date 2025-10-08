@@ -113,6 +113,10 @@ startup-header = Loc'hañ
 always-check-default =
     .label = Gwiriañ atav ma'z eo { -brand-short-name } ho merdeer dre ziouer
     .accesskey = w
+is-default-browser =
+    .message = Ho merdeer dre ziouer eo { -brand-short-name }
+is-not-default-browser =
+    .message = N'eo ket { -brand-short-name } ho merdeer dre ziouer
 is-default = Ho merdeer dre ziouer eo { -brand-short-name }
 is-not-default = N'eo ket { -brand-short-name } ho merdeer dre ziouer
 set-as-my-default-browser =
@@ -1019,6 +1023,9 @@ sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = Gouzout hiroc’h
@@ -1225,6 +1232,9 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1255,6 +1265,7 @@ certs-view =
 certs-devices =
     .label = Trevnadoù diogelroez…
     .accesskey = T
+certs-devices-enable-fips = Gweredekaat FIPS
 space-alert-over-5gb-settings-button =
     .label = Digeriñ an arventennoù
     .accesskey = D

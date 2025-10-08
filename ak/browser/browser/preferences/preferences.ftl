@@ -41,6 +41,8 @@ should-restart-title = San hyɛ { -brand-short-name } ase
 ## General Section
 
 startup-header = Nhyɛase
+is-default-browser =
+    .message = { -brand-short-name } yɛ wo brawsa a ɛyɛ difɔlt seisei
 is-default = { -brand-short-name } yɛ wo brawsa a ɛyɛ difɔlt seisei
 tabs-group-header = Ntab
 show-tabs-in-taskbar =
@@ -348,6 +350,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Abasobɔde nkrataa
+certs-devices-enable-fips = Ekyisobozisa FIPS
 
 ## Privacy Section - HTTPS-Only
 

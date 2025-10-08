@@ -100,6 +100,10 @@ startup-header = ເລີ່ມເຮັດວຽກ
 always-check-default =
     .label = ກວດສອບທຸກຄັ້ງວ່າ { -brand-short-name } ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານຫລືບໍ່
     .accesskey = ກ
+is-default-browser =
+    .message = { -brand-short-name } ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານໃນຂະນະນີ້
+is-not-default-browser =
+    .message = { -brand-short-name } ບໍ່ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານ
 is-default = { -brand-short-name } ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານໃນຂະນະນີ້
 is-not-default = { -brand-short-name } ບໍ່ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານ
 set-as-my-default-browser =
@@ -812,6 +816,9 @@ primary-password-os-auth-dialog-message-win = ເພື່ອສ້າງລະ�
 primary-password-os-auth-dialog-message-macosx = ສ້າງລະຫັດຜ່ານຫຼັກ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ປະຫວັດ
@@ -1091,6 +1098,9 @@ privacy-segmentation-radio-off =
     .label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

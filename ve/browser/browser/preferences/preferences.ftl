@@ -246,6 +246,7 @@ forms-master-pw-fips-desc = U Shandukiswa ha Phasiwede ho Kundelwa
 
 ## Privacy Section - Certificates
 
+certs-devices-enable-fips = Yo Tendela FIPS
 
 ## Privacy Section - HTTPS-Only
 

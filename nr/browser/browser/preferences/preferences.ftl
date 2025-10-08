@@ -246,6 +246,7 @@ forms-master-pw-fips-desc = Ukutjhugululwa Kwenomboro Yokungena Kuhlulekile
 
 ## Privacy Section - Certificates
 
+certs-devices-enable-fips = Kghonakalisa iFIPS
 
 ## Privacy Section - HTTPS-Only
 

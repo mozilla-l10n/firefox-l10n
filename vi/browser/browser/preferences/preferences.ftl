@@ -127,6 +127,10 @@ startup-header = Khởi động
 always-check-default =
     .label = Luôn kiểm tra xem { -brand-short-name } có phải trình duyệt mặc định không
     .accesskey = y
+is-default-browser =
+    .message = { -brand-short-name } đang là trình duyệt mặc định của bạn
+is-not-default-browser =
+    .message = { -brand-short-name } không phải là trình duyệt mặc định
 is-default = { -brand-short-name } đang là trình duyệt mặc định của bạn
 is-not-default = { -brand-short-name } không phải là trình duyệt mặc định
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Mở các cửa sổ và thẻ trước đó
     .accesskey = s
+startup-windows-launch-on-login-profile-disabled =
+    .message = Kích hoạt tùy chỉnh này bằng cách đánh dấu hộp kiểm “{ profile-manager-use-selected.label }” trong cửa sổ “Chọn hồ sơ người dùng”.
 windows-launch-on-login =
     .label = Tự động mở { -brand-short-name } khi máy tính của bạn khởi động
     .accesskey = O
@@ -1314,7 +1320,6 @@ content-blocking-etp-standard-tcp-rollout-description = Trình chống cookie ch
 content-blocking-etp-standard-tcp-rollout-learn-more = Tìm hiểu thêm
 content-blocking-etp-standard-tcp-title = Bao gồm Trình chống cookie chung, tính năng bảo mật mạnh mẽ nhất từ trước đến nay của chúng tôi
 content-blocking-warning-title = Hãy cân nhắc!
-content-blocking-and-isolating-etp-warning-description-3 = Cài đặt này có thể khiến một số trang web không hiển thị nội dung hoặc hoạt động không đúng. Chúng tôi cung cấp các ngoại lệ tùy chọn cho các trang web mà chúng tôi biết có thể bị ảnh hưởng bởi cấu hình của bạn. Để giảm khả năng trang web bị hỏng, hãy cho phép các ngoại lệ theo dõi này. Nếu một trang web có vẻ bị hỏng, bạn có thể tắt tính năng trình chống theo dõi cho trang web đó để tải toàn bộ nội dung và báo cáo sự cố để chúng tôi có thể giúp khắc phục sự cố cho mọi người.
 content-blocking-warning-title-2 = Một số trang web có thể bị phá vỡ bởi chế độ trình chống theo dõi nghiêm ngặt
 content-blocking-warning-title-custom = Một số trang web có thể bị hỏng với tính năng trình chống theo dõi tùy chỉnh
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1328,18 +1333,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Sửa các sự cố nhỏ của trang web
     .description = Khôi phục những nội dung như video trong bài viết hoặc phần bình luận bằng cách bỏ chặn các thành phần có thể chứa trình theo dõi. Điều này có thể giảm thiểu sự cố trang web nhưng lại kém bảo vệ hơn. Phải được sử dụng cùng với các bản sửa lỗi cho các sự cố nghiêm trọng.
-content-blocking-baseline-exceptions =
-    .label = Cho phép { -brand-short-name } tự động áp dụng các ngoại lệ cần thiết để tránh gây ra lỗi nghiêm trọng cho trang web.
-content-blocking-baseline-exceptions-2 =
-    .label = Giúp tải trang web và tính năng bằng cách chỉ bỏ chặn các thành phần thiết yếu có thể chứa trình theo dõi. Xử lý hầu hết các sự cố thường gặp.
-content-blocking-convenience-exceptions =
-    .label = Ngoài ra, tự động áp dụng các ngoại lệ chỉ cần thiết để khắc phục các sự cố nhỏ và cung cấp các tính năng tiện lợi.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Khôi phục những nội dung như video trong bài viết hoặc phần bình luận bằng cách bỏ chặn các thành phần có thể chứa trình theo dõi. Điều này có thể giảm thiểu sự cố trang web nhưng lại kém bảo vệ hơn. Phải được sử dụng cùng với các bản sửa lỗi cho các sự cố nghiêm trọng.
-content-blocking-baseline-label = Sửa các sự cố lớn của trang web (đề xuất)
-content-blocking-convenience-label = Sửa các sự cố nhỏ của trang web
-content-blocking-exceptions-subheader = Sửa lỗi trang web
 content-blocking-baseline-uncheck-warning-dialog-title = Bạn có chắc chắn muốn tắt tính năng sửa lỗi không?
 content-blocking-baseline-uncheck-warning-dialog-body = Cài đặt này giúp khắc phục những sự cố thường gặp nhất của trang web. Nếu bạn tắt cài đặt này, một số trang web có thể không hoạt động và { -brand-short-name } sẽ không thể hỗ trợ khắc phục những sự cố đó.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Tắt sửa lỗi
@@ -1539,7 +1532,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Chứng nhận
-certs-description = Cấu hình chứng chỉ mà { -brand-short-name } sử dụng để xác thực.
 certs-enable-ocsp =
     .label = Truy vấn máy chủ đáp ứng giao thức OCSP để xác minh hiệu lực của các chứng chỉ
     .accesskey = Q
@@ -1552,11 +1544,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Cho phép { -brand-short-name } tự động tin cậy chứng chỉ gốc của bên thứ ba mà bạn cài đặt
     .accesskey = t
+certs-devices-enable-fips = Bật FIPS
 space-alert-over-5gb-settings-button =
     .label = Mở Cài đặt
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung lượng đĩa.</strong> Nội dung trang web có thể không hiển thị chính xác. Bạn có thể xóa dữ liệu được lưu trữ trong Cài đặt > Riêng tư & Bảo mật > Cookie và dữ liệu trang.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung lượng đĩa. </strong>Nội dung trang web có thể không hiển thị chính xác. Truy cập “Tìm hiểu thêm” để tối ưu hóa việc sử dụng đĩa của bạn để có trải nghiệm duyệt web tốt hơn.
+certs-description = Cấu hình chứng chỉ mà { -brand-short-name } sử dụng để xác thực.
+certs-description2 =
+    .label = Chứng nhận
+    .description = Cấu hình chứng chỉ mà { -brand-short-name } sử dụng để xác thực.
 
 ## Privacy Section - HTTPS-Only
 

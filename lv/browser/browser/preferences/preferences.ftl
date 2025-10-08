@@ -121,6 +121,10 @@ startup-header = Palaišana
 always-check-default =
     .label = Vienmēr pārbaudīt vai { -brand-short-name } ir noklusējuma pārlūks
     .accesskey = t
+is-default-browser =
+    .message = { -brand-short-name } šobrīd ir jūsu noklusējuma pārlūks
+is-not-default-browser =
+    .message = { -brand-short-name } šobrīd nav jūsu noklusējuma pārlūks
 is-default = { -brand-short-name } šobrīd ir jūsu noklusējuma pārlūks
 is-not-default = { -brand-short-name } šobrīd nav jūsu noklusējuma pārlūks
 set-as-my-default-browser =
@@ -1304,6 +1308,9 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1337,6 +1344,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Ļaut { -brand-short-name } automātiski uzticēties instalētajiem trešās puses saknes sertifikātiem
     .accesskey = t
+certs-devices-enable-fips = Ieslēgt FIPS
 space-alert-over-5gb-settings-button =
     .label = Atvērt iestatījumus
     .accesskey = A

@@ -99,6 +99,10 @@ startup-header = Startup
 always-check-default =
     .label = Laging suriin kung { -brand-short-name } ang iyong default na browser
     .accesskey = y
+is-default-browser =
+    .message = { -brand-short-name } ang iyong kasalukuyang ginagamit na browser.
+is-not-default-browser =
+    .message = Hindi { -brand-short-name } ang iyong default na browser
 is-default = { -brand-short-name } ang iyong kasalukuyang ginagamit na browser.
 is-not-default = Hindi { -brand-short-name } ang iyong default na browser
 set-as-my-default-browser =
@@ -866,6 +870,12 @@ sitedata-cookies-exceptions =
     .label = I-manage ang mga Exception…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Address Bar
@@ -1041,6 +1051,9 @@ collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa b
 privacy-segmentation-radio-on =
     .label = Ipakita ang detalyadong impormasyon
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1071,6 +1084,7 @@ certs-view =
 certs-devices =
     .label = Mga Security Device...
     .accesskey = D
+certs-devices-enable-fips = I-enable ang FIPS
 space-alert-over-5gb-settings-button =
     .label = Buksan ang Mga Setting
     .accesskey = O
@@ -1086,6 +1100,9 @@ httpsonly-radio-enabled-pbm =
     .label = I-enable ang HTTPS-Only Mode sa mga private window lamang
 httpsonly-radio-disabled =
     .label = Huwag i-enable ang HTTPS-Only Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

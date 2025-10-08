@@ -127,6 +127,10 @@ startup-header = 시작 페이지
 always-check-default =
     .label = { -brand-short-name }가 기본 브라우저인지 항상 확인
     .accesskey = w
+is-default-browser =
+    .message = 현재 { -brand-short-name }가 기본 브라우저입니다
+is-not-default-browser =
+    .message = { -brand-short-name }가 기본 브라우저가 아닙니다
 is-default = 현재 { -brand-short-name }가 기본 브라우저입니다
 is-not-default = { -brand-short-name }가 기본 브라우저가 아닙니다
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = 이전 창 및 탭 열기
     .accesskey = s
+startup-windows-launch-on-login-profile-disabled =
+    .message = “사용자 프로필 선택” 창에서 “{ profile-manager-use-selected.label }”에 체크하여 이 설정을 활성화하세요.
 windows-launch-on-login =
     .label = 컴퓨터가 시작될 때 자동으로 { -brand-short-name } 열기
     .accesskey = O
@@ -1314,7 +1320,6 @@ content-blocking-etp-standard-tcp-rollout-description = 전체 쿠키 보호는 
 content-blocking-etp-standard-tcp-rollout-learn-more = 더 알아보기
 content-blocking-etp-standard-tcp-title = 가장 강력한 개인 정보 보호 기능인 전체 쿠키 보호 포함
 content-blocking-warning-title = 주의하세요!
-content-blocking-and-isolating-etp-warning-description-3 = 이 설정으로 인해 일부 웹 사이트는 콘텐츠를 표시하지 않거나 제대로 작동하지 않을 수 있습니다. 사용자 설정의 영향을 받을 수 있는 웹사이트에 대해서는 선택적 예외를 제공하고 있습니다. 웹 사이트가 깨질 가능성을 줄이려면 다음 추적기 예외를 허용하세요. 사이트가 손상된 것처럼 보이면 해당 사이트의 추적 방지 기능을 해제하여 모든 콘텐츠를 로드하고 모든 사용자를 위해 문제를 해결할 수 있도록 문제를 보고할 수 있습니다.
 content-blocking-warning-title-2 = 일부 사이트는 엄격한 추적 방지 기능으로 인해 손상될 수 있음
 content-blocking-warning-title-custom = 일부 사이트는 사용자 지정 추적 방지 기능으로 인해 손상될 수 있음
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1328,18 +1333,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = 사소한 사이트 문제 해결
     .description = 추적기가 포함되어 있을 수 있는 요소를 차단 해제하여 글이나 댓글란의 동영상 등을 복원합니다. 이는 사이트 문제를 줄일 수 있지만 보호 수준은 낮아집니다. 주요 사이트 문제 해결과 함께 사용해야 합니다.
-content-blocking-baseline-exceptions =
-    .label = { -brand-short-name }가 주요 웹 사이트 손상을 방지하는 데 필요한 예외를 자동으로 적용하도록 허용합니다.
-content-blocking-baseline-exceptions-2 =
-    .label = 추적기가 포함되어 있을 수 있는 필수 요소만 차단 해제하여 사이트와 기능을 로드하는 데 도움을 줍니다. 가장 일반적인 문제를 다룹니다.
-content-blocking-convenience-exceptions =
-    .label = 또한 사소한 문제를 해결하고 편의 기능을 사용할 수 있도록 하는 데에만 필요한 예외를 자동으로 적용합니다.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = 추적기가 포함되어 있을 수 있는 요소를 차단 해제하여 글이나 댓글란의 동영상 등을 복원합니다. 이는 사이트 문제를 줄일 수 있지만 보호 수준은 낮아집니다. 주요 사이트 문제 해결과 함께 사용해야 합니다.
-content-blocking-baseline-label = 주요 사이트 문제 해결 (권장)
-content-blocking-convenience-label = 사소한 사이트 문제 해결
-content-blocking-exceptions-subheader = 사이트 문제 해결
 content-blocking-baseline-uncheck-warning-dialog-title = 정말로 사이트 문제 해결을 끄시겠습니까?
 content-blocking-baseline-uncheck-warning-dialog-body = 이 설정은 가장 일반적인 사이트 문제를 해결하는 데 도움이 됩니다. 이 기능을 끄면 일부 사이트가 작동하지 않을 수 있으며 { -brand-short-name }가 이러한 문제 해결을 돕지 못할 수 있습니다.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = 끄기
@@ -1539,7 +1532,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = 인증서
-certs-description = { -brand-short-name }가 인증에 사용하는 인증서를 구성합니다.
 certs-enable-ocsp =
     .label = 인증서의 현재 유효성을 확인하기 위해 OCSP 응답기 서버에 쿼리
     .accesskey = Q
@@ -1552,11 +1544,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = 사용자가 설치한 제3자 루트 인증서를 { -brand-short-name }가 자동으로 신뢰하도록 허용
     .accesskey = t
+certs-devices-enable-fips = FIPS 사용
 space-alert-over-5gb-settings-button =
     .label = 설정 열기
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량이 부족합니다.</strong> 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인 정보 및 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량이 부족합니다.</strong> 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 더 나은 인터넷 경험을 위해 디스크 용량을 최적화하는 방법을 알아보려면 “더 알아보기”를 방문하세요.
+certs-description = { -brand-short-name }가 인증에 사용하는 인증서를 구성합니다.
+certs-description2 =
+    .label = 인증서
+    .description = { -brand-short-name }가 인증에 사용하는 인증서를 구성합니다.
 
 ## Privacy Section - HTTPS-Only
 

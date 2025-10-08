@@ -127,6 +127,10 @@ startup-header = Opstarten
 always-check-default =
     .label = Altijd controleren of { -brand-short-name } uw standaardbrowser is
     .accesskey = c
+is-default-browser =
+    .message = { -brand-short-name } is momenteel uw standaardbrowser
+is-not-default-browser =
+    .message = { -brand-short-name } is niet uw standaardbrowser
 is-default = { -brand-short-name } is momenteel uw standaardbrowser
 is-not-default = { -brand-short-name } is niet uw standaardbrowser
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Eerdere vensters en tabbladen openen
     .accesskey = s
+startup-windows-launch-on-login-profile-disabled =
+    .message = Schakel deze voorkeur in door ‘{ profile-manager-use-selected.label }’ in het venster ‘Gebruikersprofiel kiezen’ aan te vinken.
 windows-launch-on-login =
     .label = { -brand-short-name } automatisch openen bij het opstarten van uw computer
     .accesskey = a
@@ -1330,7 +1336,6 @@ content-blocking-etp-standard-tcp-rollout-description = Totale cookiebescherming
 content-blocking-etp-standard-tcp-rollout-learn-more = Meer info
 content-blocking-etp-standard-tcp-title = Bevat Totale cookiebescherming, onze krachtigste privacyfunctie ooit
 content-blocking-warning-title = Let op!
-content-blocking-and-isolating-etp-warning-description-3 = Deze instelling kan ervoor zorgen dat sommige websites inhoud niet weergeven of niet goed functioneren. We bieden optionele uitzonderingen voor websites waarvan we weten dat deze kunnen worden beïnvloed door uw configuratie. Sta deze trackeruitzonderingen toe om de kans op defecte websites te verkleinen. Als een website niet lijkt te werken, kunt u bescherming tegen volgen voor die website uitschakelen om alle inhoud te laden en het probleem te melden, zodat we het voor iedereen kunnen helpen oplossen.
 content-blocking-warning-title-2 = Sommige websites werken mogelijk niet goed met strikte bescherming tegen volgen
 content-blocking-warning-title-custom = Sommige websites werken mogelijk niet goed met aangepaste bescherming tegen volgen
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1349,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Kleine problemen met de website oplossen
     .description = Herstelt zaken als video’s in een artikel of commentaarsecties door elementen die trackers kunnen bevatten te deblokkeren. Dit kan problemen met de website verminderen, maar biedt minder bescherming. Moet worden gebruikt met oplossingen voor grote problemen.
-content-blocking-baseline-exceptions =
-    .label = { -brand-short-name } toestaan om automatisch uitzonderingen toe te passen die nodig zijn om grote defecten van de website te voorkomen.
-content-blocking-baseline-exceptions-2 =
-    .label = Helpt websites en functies te laden door alleen essentiële elementen die trackers kunnen bevatten te deblokkeren. Dekt de meest voorkomende problemen.
-content-blocking-convenience-exceptions =
-    .label = Ook automatisch uitzonderingen toepassen die alleen nodig zijn om kleine problemen op te lossen en gemaksfuncties beschikbaar te maken.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Herstelt zaken als video’s in een artikel of commentaarsecties door elementen die trackers kunnen bevatten te deblokkeren. Dit kan problemen met de website verminderen, maar biedt minder bescherming. Moet worden gebruikt met oplossingen voor grote problemen.
-content-blocking-baseline-label = Grote problemen met de website verhelpen (aanbevolen)
-content-blocking-convenience-label = Kleine problemen met de website oplossen
-content-blocking-exceptions-subheader = Problemen met website oplossen
 content-blocking-baseline-uncheck-warning-dialog-title = Weet u zeker dat u oplossingen wilt uitschakelen?
 content-blocking-baseline-uncheck-warning-dialog-body = Deze instelling helpt bij het oplossen van de meest voorkomende websiteproblemen. Als u de functie uitschakelt, werken sommige websites mogelijk niet, en kan { -brand-short-name } niet helpen bij het oplossen van die problemen.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Oplossingen uitschakelen
@@ -1555,7 +1548,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificaten
-certs-description = De certificaten die { -brand-short-name } gebruikt voor authenticatie configureren.
 certs-enable-ocsp =
     .label = OCSP-responderservers vragen om de huidige geldigheid van certificaten te bevestigen
     .accesskey = v
@@ -1568,11 +1560,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = { -brand-short-name } toestaan om door u geïnstalleerde rootcertificaten van derden automatisch te vertrouwen
     .accesskey = t
+certs-devices-enable-fips = FIPS inschakelen
 space-alert-over-5gb-settings-button =
     .label = Instellingen openen
     .accesskey = o
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen schijfruimte meer.</strong> Inhoud van websites wordt mogelijk niet goed weergegeven. U kunt opgeslagen gegevens wissen in Instellingen > Privacy & Beveiliging > Cookies en websitegegevens.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen schijfruimte meer.</strong> Inhoud van websites wordt mogelijk niet goed weergegeven. Bezoek ‘Meer info’ om uw schijfgebruik te optimaliseren voor betere prestaties.
+certs-description = De certificaten die { -brand-short-name } gebruikt voor authenticatie configureren.
+certs-description2 =
+    .label = Certificaten
+    .description = De certificaten die { -brand-short-name } gebruikt voor authenticatie configureren.
 
 ## Privacy Section - HTTPS-Only
 

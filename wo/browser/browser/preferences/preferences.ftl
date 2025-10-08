@@ -17,13 +17,39 @@ focus-search =
 close-button =
     .aria-label = Tëj
 
+## Browser Restart Dialog
+
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Tàmbali
+is-default-browser =
+    .message = { -brand-short-name } mooy leegi sa joowukaay ñakk ndigal
 is-default = { -brand-short-name } mooy leegi sa joowukaay ñakk ndigal
 show-tabs-in-taskbar =
     .label = Wone seenub koñ yi ci banqaasu sas bu windows
     .accesskey = n
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -142,6 +168,9 @@ network-proxy-connection-settings =
     .label = Parameetar…
     .accesskey = P
 
+## Home Section
+
+
 ## Home Section - Home Page Customization
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -159,6 +188,15 @@ choose-bookmark =
     .label = Mandarga xët...
     .accesskey = M
 
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -171,6 +209,29 @@ search-keyword-warning-title = Caabi baat bi dafa seex
 search-keyword-warning-engine = Tànn nga caabi baat bu « { $name } » di jëfandikoo, tànnal beneen.
 search-keyword-warning-bookmark = Tànn nga caabi baat bu benn mandarga xët di jëfandikoo, tànnal beneen.
 
+## Containers Section
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -179,6 +240,19 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Jaar jaar
     .accesskey = r
+
+## The device name controls.
+
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
 
 ## Privacy Section - Passwords
 
@@ -192,6 +266,12 @@ forms-master-pw-change =
     .label = Soppi baatu jàll bi gëna am solo…
     .accesskey = o
 forms-master-pw-fips-desc = Baatu jàll bi lajj na
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -215,6 +295,34 @@ history-clear-on-close-settings =
     .label = Parameetar…
     .accesskey = P
 
+## Privacy Section - Site Data
+
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-block-popups =
@@ -224,9 +332,28 @@ permissions-addon-exceptions =
     .label = Seppi yi…
     .accesskey = S
 
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
 ## Privacy Section - Certificates
 
 certs-header = Sarsifikaa
+certs-devices-enable-fips = Suqali FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

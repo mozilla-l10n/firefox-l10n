@@ -127,6 +127,10 @@ startup-header = เริ่มการทำงาน
 always-check-default =
     .label = ตรวจสอบเสมอว่า { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณหรือไม่
     .accesskey = ต
+is-default-browser =
+    .message = { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณในขณะนี้
+is-not-default-browser =
+    .message = { -brand-short-name } ไม่ได้เป็นเบราว์เซอร์เริ่มต้นของคุณ
 is-default = { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณในขณะนี้
 is-not-default = { -brand-short-name } ไม่ได้เป็นเบราว์เซอร์เริ่มต้นของคุณ
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = เปิดหน้าต่างและแท็บก่อนหน้า
     .accesskey = ก
+startup-windows-launch-on-login-profile-disabled =
+    .message = เปิดใช้งานค่าปรับแต่งนี้โดยทำเครื่องหมายที่ “{ profile-manager-use-selected.label }” ในหน้าต่าง “เลือกโปรไฟล์ผู้ใช้”
 windows-launch-on-login =
     .label = เปิด { -brand-short-name } โดยอัตโนมัติตอนเปิดเครื่องคอมพิวเตอร์
     .accesskey = ป
@@ -1314,7 +1320,6 @@ content-blocking-etp-standard-tcp-rollout-description = การป้องก
 content-blocking-etp-standard-tcp-rollout-learn-more = เรียนรู้เพิ่มเติม
 content-blocking-etp-standard-tcp-title = มาพร้อมกับการป้องกันคุกกี้แบบทั้งหมด คุณลักษณะความเป็นส่วนตัวที่ทรงพลังที่สุดของเรา
 content-blocking-warning-title = ระวัง!
-content-blocking-and-isolating-etp-warning-description-3 = การตั้งค่านี้อาจทำให้บางเว็บไซต์ไม่สามารถแสดงเนื้อหาหรือทำงานได้อย่างถูกต้อง เราให้ข้อยกเว้นที่เลือกได้สำหรับเว็บไซต์ที่เรารู้ว่าอาจได้รับผลกระทบจากการกำหนดค่าของคุณ เพื่อลดโอกาสที่เว็บไซต์จะใช้งานไม่ได้ ให้อนุญาตข้อยกเว้นตัวติดตามเหล่านี้ ถ้าไซต์ดูเหมือนจะใช้งานไม่ได้ คุณสามารถปิดการป้องกันการติดตามสำหรับไซต์นั้นเพื่อโหลดทุกเนื้อหาและรายงานปัญหาเพื่อให้เราช่วยแก้ไขปัญหานั้นได้สำหรับทุกคน
 content-blocking-warning-title-2 = บางไซต์อาจใช้งานไม่ได้ด้วยการป้องกันการติดตามแบบเข้มงวด
 content-blocking-warning-title-custom = บางไซต์อาจใช้งานไม่ได้ถ้ามีการป้องกันการติดตามแบบกำหนดเอง
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1328,18 +1333,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = แก้ไขปัญหาเล็ก ๆ ของไซต์
     .description = เรียกคืนสิ่งต่าง ๆ เช่นวิดีโอในบทความหรือส่วนความคิดเห็น โดยเลิกปิดกั้นองค์ประกอบที่อาจมีตัวติดตาม นี่สามารถลดปัญหาของไซต์ได้ แต่จะให้การป้องกันน้อยลง และต้องใช้พร้อมด้วยการแก้ไขปัญหาหลัก ๆ
-content-blocking-baseline-exceptions =
-    .label = อนุญาตให้ { -brand-short-name } ใช้ข้อยกเว้นที่จำเป็นโดยอัตโนมัติเพื่อหลีกเลี่ยงไม่ให้เว็บไซต์เสียหายอย่างรุนแรง
-content-blocking-baseline-exceptions-2 =
-    .label = ช่วยโหลดไซต์และคุณลักษณะโดยเลิกปิดกั้นเฉพาะองค์ประกอบจำเป็นที่อาจมีตัวติดตาม ครอบคลุมปัญหาที่พบบ่อยส่วนใหญ่
-content-blocking-convenience-exceptions =
-    .label = เปิดใช้งานข้อยกเว้นที่จำเป็นเฉพาะเพื่อแก้ไขปัญหาเล็กน้อยและเปิดใช้คุณลักษณะอำนวยความสะดวกโดยอัตโนมัติด้วย
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = เรียกคืนสิ่งต่าง ๆ เช่นวิดีโอในบทความหรือส่วนความคิดเห็น โดยเลิกปิดกั้นองค์ประกอบที่อาจมีตัวติดตาม นี่สามารถลดปัญหาของไซต์ได้ แต่จะให้การป้องกันน้อยลง และต้องใช้พร้อมด้วยการแก้ไขปัญหาหลัก ๆ
-content-blocking-baseline-label = แก้ไขปัญหาหลัก ๆ ของไซต์ (แนะนำ)
-content-blocking-convenience-label = แก้ไขปัญหาเล็ก ๆ ของไซต์
-content-blocking-exceptions-subheader = แก้ไขปัญหาของไซต์
 content-blocking-baseline-uncheck-warning-dialog-title = คุณแน่ใจหรือไม่ว่าต้องการปิดการแก้ไข?
 content-blocking-baseline-uncheck-warning-dialog-body = การตั้งค่านี้จะช่วยแก้ไขปัญหาไซต์ที่พบบ่อยที่สุดได้ ถ้าคุณปิดการตั้งค่านี้ บางไซต์อาจไม่ทำงาน และ { -brand-short-name } จะไม่สามารถช่วยแก้ไขปัญหาเหล่านั้นได้
 content-blocking-baseline-uncheck-warning-dialog-ok-button = ปิดการแก้ไข
@@ -1539,7 +1532,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = ใบรับรอง
-certs-description = กำหนดค่าใบรับรองที่จะให้ { -brand-short-name } ใช้เพื่อยืนยันตัวตน
 certs-enable-ocsp =
     .label = สืบค้นเซิร์ฟเวอร์ตอบกลับ OCSP เพื่อยืนยันความถูกต้องของใบรับรองปัจจุบัน
     .accesskey = ฟ
@@ -1552,11 +1544,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = ยอมให้ { -brand-short-name } เชื่อถือใบรับรองหลักของบุคคลที่สามที่คุณติดตั้งโดยอัตโนมัติ
     .accesskey = ช
+certs-devices-enable-fips = เปิดใช้งาน FIPS
 space-alert-over-5gb-settings-button =
     .label = เปิดการตั้งค่า
     .accesskey = ป
 space-alert-over-5gb-message2 = <strong>พื้นที่ดิสก์ของ { -brand-short-name } กำลังจะเต็ม</strong> เนื้อหาเว็บไซต์อาจแสดงผลไม่ถูกต้อง คุณสามารถล้างข้อมูลที่ถูกจัดเก็บไว้ได้ใน การตั้งค่า > ความเป็นส่วนตัวและความปลอดภัย > คุกกี้และข้อมูลไซต์
 space-alert-under-5gb-message2 = <strong>พื้นที่ดิสก์ของ { -brand-short-name } กำลังจะเต็ม</strong> เนื้อหาเว็บไซต์อาจแสดงผลไม่ถูกต้อง เยี่ยมชม “เรียนรู้เพิ่มเติม” เพื่อเพิ่มประสิทธิภาพการใช้งานดิสก์ของคุณสำหรับประสบการณ์การเรียกดูที่ดีขึ้น
+certs-description = กำหนดค่าใบรับรองที่จะให้ { -brand-short-name } ใช้เพื่อยืนยันตัวตน
+certs-description2 =
+    .label = ใบรับรอง
+    .description = กำหนดค่าใบรับรองที่จะให้ { -brand-short-name } ใช้เพื่อยืนยันตัวตน
 
 ## Privacy Section - HTTPS-Only
 

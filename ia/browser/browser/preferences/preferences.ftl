@@ -127,6 +127,10 @@ startup-header = Al initio
 always-check-default =
     .label = Sempre verificar si { -brand-short-name } es tu navigator predefinite
     .accesskey = S
+is-default-browser =
+    .message = { -brand-short-name } es actualmente tu navigator predefinite
+is-not-default-browser =
+    .message = { -brand-short-name } non es tu navigator predefinite
 is-default = { -brand-short-name } es actualmente tu navigator predefinite
 is-not-default = { -brand-short-name } non es tu navigator predefinite
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Aperir le previe fenestras e schedas
     .accesskey = s
+startup-windows-launch-on-login-profile-disabled =
+    .message = Activa iste preferentia verificante “{ profile-manager-use-selected.label }” in le fenestra “Seliger profilo de usator”.
 windows-launch-on-login =
     .label = Aperir { -brand-short-name } automaticamente quando on accende tu computator
     .accesskey = A
@@ -1330,7 +1336,6 @@ content-blocking-etp-standard-tcp-rollout-description = Le protection total cont
 content-blocking-etp-standard-tcp-rollout-learn-more = Pro saper plus
 content-blocking-etp-standard-tcp-title = Include Protection total del cookies, nostre plus potente functionalitate de confidentialitate de unquam
 content-blocking-warning-title = Attention!
-content-blocking-and-isolating-etp-warning-description-3 = Iste configuration pote causar que alcun sitos web non monstra contento o non functiona correctemente. Nos forni exceptiones optional pro sitos web que nos sape pote esser afficite per tu configuration. Pro reducer le risco de sitos web corrupte, permitte le exceptiones de iste traciator. Si un sito appare corrupte, tu pote disactivar le protection de traciamento pro ille sito pro cargar tote le contento e reportar le problema assi nos pote adjutar a resolver lo pro totes.
 content-blocking-warning-title-2 = Alcun sitos pote non functionar con le protection stricte contra le traciamento
 content-blocking-warning-title-custom = Alcun sitos pote corrumper se con le protection personalisate contra le traciamento
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1349,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Resolver problemas minor de sitos
     .description = Restaura cosas como videos in un articulo o commenta sectiones disblocante elementos que pote continer traciatores. Isto pote reducer le problemas de sito, ma offere minus protection. Debe esser usate con le correctiones pro le problemas major.
-content-blocking-baseline-exceptions =
-    .label = Permitter a { -brand-short-name } de automaticamente applicar le exceptiones necessari pro evitar le principal problemas de sito web.
-content-blocking-baseline-exceptions-2 =
-    .label = Adjuta cargar sitos e functiones disblocante solo elementos essential que pote continer traciatores. Coperi le major parte del problemas commun.
-content-blocking-convenience-exceptions =
-    .label = Applicar exceptiones automaticamente, alsi solo necessari pro remediar minor problemas e render disponibile functiones utile.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Restaura cosas como videos in un articulo o commenta sectiones disblocante elementos que pote continer traciatores. Isto pote reducer le problemas de sito, ma offere minus protection. Debe esser usate con le correctiones pro le problemas major.
-content-blocking-baseline-label = Resolver problemas major de sitos (recommendate)
-content-blocking-convenience-label = Resolver problemas minor de sitos
-content-blocking-exceptions-subheader = Resolver problemas de sito
 content-blocking-baseline-uncheck-warning-dialog-title = Desira tu vermente disactivar le correctiones?
 content-blocking-baseline-uncheck-warning-dialog-body = Iste parametro adjuta a reparar le plus commun problemas de sito. Si tu lo disactiva, alcun sitos pote non functionar, e { -brand-short-name } non potera adjutar solver ille problemas.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Disactivar correctiones
@@ -1555,7 +1548,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificatos
-certs-description = Configurar le certificatos que { -brand-short-name } usa pro authentication.
 certs-enable-ocsp =
     .label = Querer le servitores responditor OCSP pro confirmar le validitate actual del certificatos
     .accesskey = Q
@@ -1568,11 +1560,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Permitte que { -brand-short-name } fide automaticamente in le certificatos radice de tertie partes que se installa
     .accesskey = t
+certs-devices-enable-fips = Activar FIPS
 space-alert-over-5gb-settings-button =
     .label = Aperir le parametros
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>Le spatio de disco disponibile a { -brand-short-name } es quasi exhaurite.</strong> Le contento de sitos web pote non monstrar se correctemente. Tu pote eliminar datos immagazinate in Parametros > Confidentialitate & Securitate > Cookies e Datos de sito.
 space-alert-under-5gb-message2 = <strong>Le spatio de disco disponibile a { -brand-short-name } es quasi exhaurite.</strong> Le contento de sitos web pote non monstrar se correctemente. Visita “Apprender plus” pro optimisar le uso de tu disco pro un melior experientia de navigation.
+certs-description = Configurar le certificatos que { -brand-short-name } usa pro authentication.
+certs-description2 =
+    .label = Certificatos
+    .description = Configurar le certificatos que { -brand-short-name } usa pro authentication.
 
 ## Privacy Section - HTTPS-Only
 

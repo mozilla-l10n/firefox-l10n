@@ -127,6 +127,10 @@ startup-header = ჩართვისას
 always-check-default =
     .label = ყოველთვის შემოწმდეს, არის თუ არა { -brand-short-name } ნაგულისხმევი ბრაუზერი
     .accesskey = ვ
+is-default-browser =
+    .message = ამჟამად { -brand-short-name } ნაგულისხმევი ბრაუზერია
+is-not-default-browser =
+    .message = { -brand-short-name } ნაგულისხმევი ბრაუზერი არაა
 is-default = ამჟამად { -brand-short-name } ნაგულისხმევი ბრაუზერია
 is-not-default = { -brand-short-name } ნაგულისხმევი ბრაუზერი არაა
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = წინა ფანჯრებისა და ჩანართების გახსნა
     .accesskey = გ
+startup-windows-launch-on-login-profile-disabled =
+    .message = ამ პარამეტრის ჩასართავად „{ profile-manager-use-selected.label }“ მონიშნეთ „მოხმარებლის პროფილის არჩევის“ ფანჯარაში.
 windows-launch-on-login =
     .label = გაეშვას { -brand-short-name } თავისით კომპიუტერის ჩართვისთანავე
     .accesskey = ე
@@ -1330,7 +1336,6 @@ content-blocking-etp-standard-tcp-rollout-description = ფუნთუშებ
 content-blocking-etp-standard-tcp-rollout-learn-more = ვრცლად
 content-blocking-etp-standard-tcp-title = მოიცავს ფუნთუშებისგან ყოველმხრივ დაცვასაც, ჩვენს არნახულად მძლავრ საშუალებას პირადულობისთვის
 content-blocking-warning-title = ფრთხილად!
-content-blocking-and-isolating-etp-warning-description-3 = ამ პარამეტრმა შეიძლება, ზოგ ვებსაიტზე შიგთავსის გამოსახვისა და მუშაობისას გაუმართაობები წარმოშვას. დამატებით გთავაზობთ გამონაკლისად დატოვებას იმ საიტებისა, რომლებზე ზემოქმედებაც მოსალოდნელია მოცემული სახით გამართვისას. საიტებზე გაუმართაობების შესამცირებლად, დაამატეთ აღნიშნული მეთვალყურეები გამონაკლისებში. თუ საიტი მაინც არასათანადოდ მუშაობს, შეგიძლიათ საერთოდ გამორთოთ თვალთვალისგან დაცვა, რომ სრულად ჩაიტვირთოს შიგთავსი და გამოგვიგზავნოთ ხარვეზის შესახებ მოხსენება, რაც მის საყოველთაოდ გამოსწორებაში დაგვეხმარება.
 content-blocking-warning-title-2 = ზოგი საიტის გაუმართაობას შეიძლება იწვევდეს თვალთვალისგან მკაცრი დაცვა
 content-blocking-warning-title-custom = ზოგი საიტის გაუმართაობას შეიძლება იწვევდეს თვალთვალისგან მორგებული დაცვა
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1349,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = საიტზე მცირე ხარვეზების გამოსწორება
     .description = აღადგენს სტატიებში გამქრალ ვიდეოებსა თუ გამოხმაურებების არეებს იმ ნაწილებზე შეზღუდვების მოხსნით, რომლებიც მეთვალყურეებს შეიძლება შეიცავდეს. ეს შეამცირებს საიტის ხარვეზებს, მაგრამ უზრუნველყოფს ნაკლებ დაცვას. მიზანშეწონილია მნიშვნელოვანი ხარვეზების გამოსასწორებლად.
-content-blocking-baseline-exceptions =
-    .label = ნების დართვა, რომ { -brand-short-name } თავადვე მიუთითებს საჭირო გამონაკლისებს ცნობილ საიტებზე გაუმართაობების ასარიდებლად.
-content-blocking-baseline-exceptions-2 =
-    .label = გეხმარებათ საიტებისა და შესაძლებლობების სათანადოდ ჩატვირთვაში შეზღუდვების მოხსნით მხოლოდ ძირითად ნაწილებზე, რომლებიც შესაძლოა მეთვალყურეებსაც შეიცავდეს. აგვარებს გავრცელებული ხარვეზების უმეტესობას.
-content-blocking-convenience-exceptions =
-    .label = აგრეთვე, თავადვე მიუთითებს იმ გამონაკლისებსაც, რომლებიც მხოლოდ მცირე ხარვეზების აღმოფხვრისა და მოსახერხებელი შესაძლებლობების ხელმისაწვდომობისთვისაა საჭირო.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = აღადგენს სტატიებში გამქრალ ვიდეოებსა თუ გამოხმაურებების არეებს იმ ნაწილებზე შეზღუდვების მოხსნით, რომლებიც მეთვალყურეებს შეიძლება შეიცავდეს. ეს შეამცირებს საიტის ხარვეზებს, მაგრამ უზრუნველყოფს ნაკლებ დაცვას. მიზანშეწონილია მნიშვნელოვანი ხარვეზების გამოსასწორებლად.
-content-blocking-baseline-label = საიტზე მნიშვნელოვანი ხარვეზების გამოსწორება (სასურველია)
-content-blocking-convenience-label = საიტზე მცირე ხარვეზების გამოსწორება
-content-blocking-exceptions-subheader = საიტზე ხარვეზების გამოსწორება
 content-blocking-baseline-uncheck-warning-dialog-title = ნამდვილად გსურთ ხარვეზების გამოსწორების უარყოფა?
 content-blocking-baseline-uncheck-warning-dialog-body = ეს პარამეტრი გამოგადგებათ საიტის გავრცელებული ხარვეზების გამოსწორებაში. გამორთვის შემთხვევაში ზოგი საიტი გაუმართავად იმუშავებს და { -brand-short-name } ამ ხარვეზების აღმოფხვრაში ვერ დაგეხმარებათ.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = გასწორების გამორთვა
@@ -1555,7 +1548,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = სერტიფიკატები
-certs-description = იმ სერტიფიკატების გამართვა, რომელთაც { -brand-short-name } იყენებს დამოწმებისთვის.
 certs-enable-ocsp =
     .label = სერტიფიკატების დამოწმება OCSP-მოთხოვნით
     .accesskey = O
@@ -1568,11 +1560,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = ნებართვა, რომ { -brand-short-name } თავისთავად სანდოდ მიიჩნევს გარეშე მხარის ძირეულ სერტიფიკატებს, რომელთაც ჩააყენებთ
     .accesskey = ბ
+certs-devices-enable-fips = FIPS-ის ჩართვა
 space-alert-over-5gb-settings-button =
     .label = პარამეტრების გახსნა
     .accesskey = ხ
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } იუწყება, რომ დისკზე ადგილი ეწურება.</strong> საიტების შიგთავსი, შეიძლება არ გამოჩნდეს სათანადოდ. შენახული მონაცემების წაშლა და ადგილის გამოთავისუფლება შეგიძლიათ მენიუდან – პარამეტრები > პირადულობა და უსაფრთხოება > ფუნთუშები და საიტის მონაცემები.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } იუწყება, რომ დისკზე ადგილი ეწურება.</strong> საიტების შიგთავსი, შეიძლება არ გამოჩნდეს სათანადოდ. იხილეთ „ვრცლად“, თუ როგორ გამოათავისუფლოთ ადგილი დისკზე, გვერდების შეუფერხებლად მოსანახულებლად.
+certs-description = იმ სერტიფიკატების გამართვა, რომელთაც { -brand-short-name } იყენებს დამოწმებისთვის.
+certs-description2 =
+    .label = სერტიფიკატები
+    .description = იმ სერტიფიკატების გამართვა, რომელთაც { -brand-short-name } იყენებს დამოწმებისთვის.
 
 ## Privacy Section - HTTPS-Only
 

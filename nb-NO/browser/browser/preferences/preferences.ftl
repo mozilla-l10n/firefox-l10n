@@ -127,6 +127,10 @@ startup-header = Startside
 always-check-default =
     .label = Kontroller alltid om { -brand-short-name } er standardnettleser
     .accesskey = a
+is-default-browser =
+    .message = { -brand-short-name } er din standard nettleser
+is-not-default-browser =
+    .message = { -brand-short-name } er ikke valgt som standard nettleser
 is-default = { -brand-short-name } er din standard nettleser
 is-not-default = { -brand-short-name } er ikke valgt som standard nettleser
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Åpne tidligere vinduer og faner
     .accesskey = p
+startup-windows-launch-on-login-profile-disabled =
+    .message = Aktiver denne innstillingen ved å merke av for «{ profile-manager-use-selected.label }» i «Velg brukerprofil»-vinduet.
 windows-launch-on-login =
     .label = Åpne { -brand-short-name } automatisk når datamaskinen din starter opp
     .accesskey = p
@@ -1330,7 +1336,6 @@ content-blocking-etp-standard-tcp-rollout-description = Total beskyttelse mot in
 content-blocking-etp-standard-tcp-rollout-learn-more = Les mer
 content-blocking-etp-standard-tcp-title = Inkluderer total beskyttelse mot infokapsler, vår kraftigste personvernfunksjon noensinne
 content-blocking-warning-title = Se opp!
-content-blocking-and-isolating-etp-warning-description-3 = Denne innstillingen kan føre til at enkelte nettsteder ikke viser innhold eller fungerer som de skal. Vi tilbyr valgfrie unntak for nettsteder som vi vet kan bli påvirket av konfigurasjonen din. For å redusere sjansen for nettsteder som ikke fungerer, bør du tillate disse sporingsunntakene. Hvis et nettsted ser ut til å være ødelagt, kan du slå av sporingsbeskyttelse for det nettstedet for å laste inn alt innhold og rapportere problemet, slik at vi kan hjelpe med å fikse det for alle.
 content-blocking-warning-title-2 = Noen nettsteder kan slutte å fungere med streng sporingsbeskyttelse
 content-blocking-warning-title-custom = Noen nettsteder kan slutte å fungere med tilpasset sporingsbeskyttelse
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1349,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Fiks mindre nettstedsproblemer
     .description = Gjenoppretter ting som videoer i en artikkel eller kommentarfelt ved å oppheve blokkering av elementer som kan inneholde sporere. Dette kan redusere problemer på nettsteder, men gir mindre beskyttelse. Må brukes sammen med fikser for større problemer.
-content-blocking-baseline-exceptions =
-    .label = Tillat at { -brand-short-name } automatisk bruker unntak som kreves for å unngå større nettstedsfeil.
-content-blocking-baseline-exceptions-2 =
-    .label = Hjelper med å laste inn nettsteder og funksjoner ved å oppheve blokkering av bare nødvendige elementer som kan inneholde sporere. Dekker de fleste vanlige problemer.
-content-blocking-convenience-exceptions =
-    .label = Bruk også unntak automatisk som bare er nødvendige for å fikse mindre problemer og gjøre praktiske funksjoner tilgjengelige.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Gjenoppretter ting som videoer i en artikkel eller kommentarfelt ved å oppheve blokkering av elementer som kan inneholde sporere. Dette kan redusere problemer på nettsteder, men gir mindre beskyttelse. Må brukes sammen med fikser for større problemer.
-content-blocking-baseline-label = Fiks større nettstedsproblemer (anbefalt)
-content-blocking-convenience-label = Fiks mindre nettstedsproblemer
-content-blocking-exceptions-subheader = Fiks nettstedsproblemer
 content-blocking-baseline-uncheck-warning-dialog-title = Er du sikker på at du vil slå av fiksene?
 content-blocking-baseline-uncheck-warning-dialog-body = Denne innstillingen bidrar til å fikse de vanligste nettstedsproblemene. Hvis du slår den av, kan det hende at noen nettsteder ikke fungerer, og { -brand-short-name } vil ikke kunne hjelpe med å feilsøke disse problemene.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Slå av fiksene
@@ -1555,7 +1548,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikater
-certs-description = Konfigurer sertifikatene som { -brand-short-name } bruker for autentisering.
 certs-enable-ocsp =
     .label = Spør OCSP-servere om å bekrefte gyldigheten til sertifikater
     .accesskey = O
@@ -1568,11 +1560,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Tillat at { -brand-short-name } automatisk stoler på tredjeparts rotsertifikater du installerer
     .accesskey = T
+certs-devices-enable-fips = Bruk FIPS
 space-alert-over-5gb-settings-button =
     .label = Åpne Innstillinger
     .accesskey = p
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innholdet på nettstedet ikke vises ordentlig. Du kan tømme lagret data i Innstillinger > Personern og sikkerhet > Infokapsler og nettstedsdata.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innholdet på nettsiden ikke vises ordentlig. Gå til «Les mer» for å optimalisere diskbruken din for en bedre nettleseropplevelse.
+certs-description = Konfigurer sertifikatene som { -brand-short-name } bruker for autentisering.
+certs-description2 =
+    .label = Sertifikater
+    .description = Konfigurer sertifikatene som { -brand-short-name } bruker for autentisering.
 
 ## Privacy Section - HTTPS-Only
 

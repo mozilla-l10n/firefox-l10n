@@ -127,6 +127,10 @@ startup-header = 啟動
 always-check-default =
     .label = 總是檢查 { -brand-short-name } 是否為您的預設瀏覽器
     .accesskey = w
+is-default-browser =
+    .message = { -brand-short-name } 是您目前的預設瀏覽器
+is-not-default-browser =
+    .message = { -brand-short-name } 不是您的預設瀏覽器
 is-default = { -brand-short-name } 是您目前的預設瀏覽器
 is-not-default = { -brand-short-name } 不是您的預設瀏覽器
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = 開啟先前的視窗與分頁
     .accesskey = s
+startup-windows-launch-on-login-profile-disabled =
+    .message = 勾選「選擇使用者設定檔」視窗中的「{ profile-manager-use-selected.label }」開啟此設定。
 windows-launch-on-login =
     .label = 電腦開機時自動開啟 { -brand-short-name }
     .accesskey = O
@@ -1318,7 +1324,6 @@ content-blocking-etp-standard-tcp-rollout-description = 全方位 Cookie 保護�
 content-blocking-etp-standard-tcp-rollout-learn-more = 了解更多
 content-blocking-etp-standard-tcp-title = 包含我們有史以來最強大的隱私保護功能 — 全方位 Cookie 保護
 content-blocking-warning-title = 注意！
-content-blocking-and-isolating-etp-warning-description-3 = 此設定可能會造成某些網站無法顯示內容或無法正常運作。我們會提供可能受您設定影響的例外規則。若要減少網站故障的機會，請放行此例外規則。若某個網站發生異常，您也可以針對該網站關閉追蹤保護功能，載入該網站所有內容，並且回報給我們，為所有人修正問題。
 content-blocking-warning-title-2 = 使用嚴格的追蹤保護功能時，某些網站可能會故障
 content-blocking-warning-title-custom = 自訂追蹤保護功能時，某些網站可能會故障
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1332,18 +1337,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = 修正網站的小問題
     .description = 不封鎖可能包含追蹤器的網頁元素，以恢復文章中的影片，或是留言區塊等功能。這個選項可更加減少網站問題，但同時也較無保護。必須用於修正網站的主要問題。
-content-blocking-baseline-exceptions =
-    .label = 允許 { -brand-short-name } 自動套用必要的例外規則，以避免主要網站故障。
-content-blocking-baseline-exceptions-2 =
-    .label = 不封鎖可能包含追蹤器的重要功能，以幫助載入網站內容與功能。能解決大多數常見問題。
-content-blocking-convenience-exceptions =
-    .label = 也自動套用為了修正小問題、並提供各種方便功能所需的例外規則。
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = 不封鎖可能包含追蹤器的網頁元素，以恢復文章中的影片，或是留言區塊等功能。這個選項可更加減少網站問題，但同時也較無保護。必須用於修正網站的主要問題。
-content-blocking-baseline-label = 修正網站的主要問題（建議）
-content-blocking-convenience-label = 修正網站的小問題
-content-blocking-exceptions-subheader = 修正網站問題
 content-blocking-baseline-uncheck-warning-dialog-title = 您確定要關閉修正功能嗎？
 content-blocking-baseline-uncheck-warning-dialog-body = 此選項可幫助修正大部分常見的網站問題。若您關閉此選項，某些網站可能會無法正常運作，{ -brand-short-name } 也無法幫助排解這類問題。
 content-blocking-baseline-uncheck-warning-dialog-ok-button = 關閉修正
@@ -1543,7 +1536,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = 憑證
-certs-description = 設定 { -brand-short-name } 要用來驗證身分的憑證。
 certs-enable-ocsp =
     .label = 向 OCSP 回應伺服器查詢，以確認憑證有效性
     .accesskey = Q
@@ -1556,11 +1548,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = 允許 { -brand-short-name } 自動信任您安裝的第三方根憑證
     .accesskey = t
+certs-devices-enable-fips = 啟用 FIPS
 space-alert-over-5gb-settings-button =
     .label = 開啟選項
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間不足。</strong>網站內容可能無法正確顯示。您可以到「選項 > 隱私權與安全性 > Cookie 與網站資料」清除目前儲存的網站資料。
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間不足。</strong>網站內容可能無法正確顯示。請點擊「瞭解更多」清理磁碟空間，讓您有更好的瀏覽體驗。
+certs-description = 設定 { -brand-short-name } 要用來驗證身分的憑證。
+certs-description2 =
+    .label = 憑證
+    .description = 設定 { -brand-short-name } 要用來驗證身分的憑證。
 
 ## Privacy Section - HTTPS-Only
 

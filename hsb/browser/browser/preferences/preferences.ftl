@@ -127,6 +127,10 @@ startup-header = Startować
 always-check-default =
     .label = Přeco kontrolować, hač { -brand-short-name } je waš standardny wobhladowak
     .accesskey = c
+is-default-browser =
+    .message = { -brand-short-name } je tuchwilu waš standardny wobhladowak
+is-not-default-browser =
+    .message = { -brand-short-name } tuchwilu waš standardny wobhladowak njeje
 is-default = { -brand-short-name } je tuchwilu waš standardny wobhladowak
 is-not-default = { -brand-short-name } tuchwilu waš standardny wobhladowak njeje
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Předchadne wokna a rajtarki wočinić
     .accesskey = P
+startup-windows-launch-on-login-profile-disabled =
+    .message = Markěrujće “{ profile-manager-use-selected.label }” we woknje „Wužiwarski profil wubrać“, zo byšće tute nastajenje zmóžnił.
 windows-launch-on-login =
     .label = { -brand-short-name } awtomatisce wočinić, hdyž so waš ličak startuje
     .accesskey = a
@@ -1338,7 +1344,6 @@ content-blocking-etp-standard-tcp-rollout-description = Dospołny plackowy škit
 content-blocking-etp-standard-tcp-rollout-learn-more = Dalše informacije
 content-blocking-etp-standard-tcp-title = Wobsahuje dospołny škit před plackami, naša najmóčniša funkcija priwatnosće docyła
 content-blocking-warning-title = Kedźbu!
-content-blocking-and-isolating-etp-warning-description-3 = Tute nastajenje móhło zawinować, zo někotre websydła wobsah njepokazuja abo korektnje njefunguja. Skićimy opcionalne wuwzaća za websydła, wo kotrychž wěmy, zo hodźa so přez wašu konfiguraciju wobwliwować. Zo byšće skóncowane websydła redukował, zmóžńće tute wuwzaća za přesćěhowaki. Jeli so zda, zo sydło je skóncowane, móžeće škit přećiwo slědowanju za te sydło znjemóžnić, zo byšće wšón wobsah začitał a problem zdźělił, zo bychmy móhli pomhać, tón problem za wšěch rozrisać.
 content-blocking-warning-title-2 = Někotre sydła snano ze striktnym přesćěhowanskim škitom korektnje njefunguja
 content-blocking-warning-title-custom = Někotre sydła snano ze swójskim přesćěhowanskim škitom korektnje njefunguja
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1352,18 +1357,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Snadne sydłowe problemy rozrisać
     .description = Wobnowja wěcy kaž wideja w nastawku abo komentarowych wotrězkach, hdyž so elementy hižo njeblokuja, kotrež móhli přesćěhowaki wobsahować. To móže sydłowe problemy redukować, skići wšak mjenje škita. Dyrbi so z rozrisanjemi za wulke problemy wužiwać.
-content-blocking-baseline-exceptions =
-    .label = Dowolće { -brand-short-name } wuwzaća awtomatisce nałožić, kotrež su trěbne, zo bychu so wulke problemy z websydłami wobešli.
-content-blocking-baseline-exceptions-2 =
-    .label = Zběhnje blokowanje jenož wažnych elementow, kotrež móhli přesćěhowaki wobsahować, zo by pomhało, sydła a funkcije začitać. Funguje za najhusćiše problemy.
-content-blocking-convenience-exceptions =
-    .label = Nałožće tež wuwzaća awtomatisce, kotrež su trěbne, zo byšće mjeńše problemy rozrisał a wužitne funkcije k dispoziciji stajił.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Wobnowja wěcy kaž wideja w nastawku abo komentarowych wotrězkach, hdyž so elementy hižo njeblokuja, kotrež móhli přesćěhowaki wobsahować. To móže sydłowe problemy redukować, skići wšak mjenje škita. Dyrbi so z rozrisanjemi za wulke problemy wužiwać.
-content-blocking-baseline-label = Wulke sydłowe problemy rozrisać (doporučene)
-content-blocking-convenience-label = Snadne sydłowe problemy rozrisać
-content-blocking-exceptions-subheader = Sydłowe problemy rozrisać
 content-blocking-baseline-uncheck-warning-dialog-title = Chceće woprawdźe rozrisanja znjemóžnić?
 content-blocking-baseline-uncheck-warning-dialog-body = Tute nastajenje pomha, najhusćiše sydłowe problemy rozrisać. Jeli jo znjemóžnjeće, někotre sydła snano njefunguja, a { -brand-short-name } njemóže pomhać, te problemy rozrisać.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Rozrisanja znjemóžnić
@@ -1563,7 +1556,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikaty
-certs-description = Konfigurujće certifikaty, kotrež { -brand-short-name } za awtentifikaciju wužiwa.
 certs-enable-ocsp =
     .label = Pola wotmołwnych serwerow OCSP so naprašować, zo by aktualnu płaćiwosć certifikatow wobkrućiło
     .accesskey = P
@@ -1576,11 +1568,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = { -brand-short-name } dowolić, korjenjowym certifikatam třećich poskićowarjow awtomatisce dowěrić, kotrež instalujeće
     .accesskey = k
+certs-devices-enable-fips = FIPS zmóžnić
 space-alert-over-5gb-settings-button =
     .label = Nastajenja wočinić
     .accesskey = o
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } hižo dosć składowanskeho ruma nima.</strong> Wobsah websydła so snano korektnje njezwobrazni. Móžeće składowane daty w Nastajenja > Priwatnosć a wěstota > Placki a sydłowe daty zhašeć.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hižo dosć składowanskeho ruma nima.</strong> Wobsah websydła so snano korektnje njezwobrazni. Móžeće na “Dalše informacije” kliknyć, zo byšće swój składowe wužiće za lěpše přehladowanske dožiwjenje opiměrował.
+certs-description = Konfigurujće certifikaty, kotrež { -brand-short-name } za awtentifikaciju wužiwa.
+certs-description2 =
+    .label = Certifikaty
+    .description = Konfigurujće certifikaty, kotrež { -brand-short-name } za awtentifikaciju wužiwa.
 
 ## Privacy Section - HTTPS-Only
 

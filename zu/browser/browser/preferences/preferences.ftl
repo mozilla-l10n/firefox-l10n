@@ -40,6 +40,8 @@ should-restart-title = Qala kabusha i-{ -brand-short-name }
 ## General Section
 
 startup-header = Qala
+is-default-browser =
+    .message = I-{ -brand-short-name } okwamanje isibukisi sakhona sakho
 is-default = I-{ -brand-short-name } okwamanje isibukisi sakhona sakho
 tabs-group-header = Amathebhu
 show-tabs-in-taskbar =
@@ -347,6 +349,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Izitifiketi
+certs-devices-enable-fips = Yenza kusebenze i-FIPS
 
 ## Privacy Section - HTTPS-Only
 

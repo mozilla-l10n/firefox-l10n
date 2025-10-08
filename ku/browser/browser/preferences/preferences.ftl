@@ -41,6 +41,8 @@ should-restart-title = Nûdestpêkirina { -brand-short-name }
 ## General Section
 
 startup-header = Destpêk
+is-default-browser =
+    .message = { -brand-short-name } jixwe geroka te ya standard e
 is-default = { -brand-short-name } jixwe geroka te ya standard e
 tabs-group-header = Hilpekîn
 show-tabs-in-taskbar =
@@ -347,6 +349,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Sertîfîka
+certs-devices-enable-fips = FIPS 'ê çalak bike
 
 ## Privacy Section - HTTPS-Only
 

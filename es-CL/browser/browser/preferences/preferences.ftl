@@ -127,6 +127,10 @@ startup-header = Inicio
 always-check-default =
     .label = Siempre revisar al inicio si { -brand-short-name } es el navegador predeterminado
     .accesskey = w
+is-default-browser =
+    .message = { -brand-short-name } es actualmente el navegador predeterminado
+is-not-default-browser =
+    .message = { -brand-short-name } no es el navegador predeterminado
 is-default = { -brand-short-name } es actualmente el navegador predeterminado
 is-not-default = { -brand-short-name } no es el navegador predeterminado
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Abrir ventanas y pestañas anteriores
     .accesskey = s
+startup-windows-launch-on-login-profile-disabled =
+    .message = Habilita esta preferencia marcando “{ profile-manager-use-selected.label }” en la ventana “Elegir perfil de usuario”.
 windows-launch-on-login =
     .label = Abre { -brand-short-name } automáticamente cuando se inicie tu computador
     .accesskey = O
@@ -1330,7 +1336,6 @@ content-blocking-etp-standard-tcp-rollout-description = La protección total con
 content-blocking-etp-standard-tcp-rollout-learn-more = Aprender más
 content-blocking-etp-standard-tcp-title = Incluye la protección total contra cookies , nuestra herramienta de privacidad más potente a la fecha
 content-blocking-warning-title = ¡Atención!
-content-blocking-and-isolating-etp-warning-description-3 = Este ajuste puede provocar que algunos sitios web no muestren el contenido o no funcionen correctamente. Ofrecemos excepciones opcionales para los sitios web que sabemos que pueden verse afectados por tu configuración. Para reducir la probabilidad de que los sitios web fallen, habilita estas excepciones de seguimiento. Si un sitio web parece estar dañado, puedes desactivar la protección de seguimiento para que cargue todo el contenido e informar del problema para que podamos solucionarlo.
 content-blocking-warning-title-2 = Algunos sitios pueden romper la estricta protección de seguimiento.
 content-blocking-warning-title-custom = Algunos sitios pueden romper la protección de seguimiento personalizada.
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1349,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Solucionar problemas menores del sitio
     .description = Restaura elementos como vídeos en un artículo o secciones de comentarios desbloqueando elementos que puedan contener rastreadores. Esto puede reducir los problemas del sitio, pero ofrece menos protección. Debe usarse junto con correcciones para problemas graves.
-content-blocking-baseline-exceptions =
-    .label = Permitir que { -brand-short-name } aplique automáticamente las excepciones necesarias para evitar fallas importantes del sitio web.
-content-blocking-baseline-exceptions-2 =
-    .label = Facilita la carga de sitios y funciones desbloqueando únicamente los elementos esenciales que pueden contener rastreadores. Abarca los problemas más comunes.
-content-blocking-convenience-exceptions =
-    .label = También se aplican automáticamente excepciones que solo son necesarias para solucionar problemas menores y hacer que estén disponibles funciones convenientes.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Restaura elementos como vídeos en un artículo o secciones de comentarios desbloqueando elementos que puedan contener rastreadores. Esto puede reducir los problemas del sitio, pero ofrece menos protección. Debe usarse junto con correcciones para problemas graves.
-content-blocking-baseline-label = Solucionar problemas importantes del sitio (recomendado)
-content-blocking-convenience-label = Solucionar problemas menores del sitio
-content-blocking-exceptions-subheader = Solucionar problemas del sitio
 content-blocking-baseline-uncheck-warning-dialog-title = ¿Estás seguro de que deseas desactivar las correcciones?
 content-blocking-baseline-uncheck-warning-dialog-body = Esta configuración ayuda a solucionar los problemas más comunes del sitio. Si la desactivas, es posible que algunos sitios no funcionen y { -brand-short-name } no podrá ayudarte a solucionarlo.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Desactivar correcciones
@@ -1555,7 +1548,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificados
-certs-description = Configura los certificados que { -brand-short-name } utiliza para la autenticación.
 certs-enable-ocsp =
     .label = Consultar a los servidores de respuesta OCSP para confirmar la validez actual de los certificados
     .accesskey = Q
@@ -1568,11 +1560,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Permitir que { -brand-short-name } confíe automáticamente en los certificados raíz de terceros que instale
     .accesskey = t
+certs-devices-enable-fips = Activar FIPS
 space-alert-over-5gb-settings-button =
     .label = Abrir Ajustes
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name }</strong> se está quedando sin espacio en disco. Los contenidos de los sitios pueden no mostrarse correctamente. Puedes limpiar los datos almacenados en Ajustes > Privacidad y seguridad > Cookies y datos de sitio.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name }</strong> se está quedando sin espacio en disco. Los contenidos de los sitios pueden no mostrarse correctamente. Visita "Aprender más" para optimizar tu uso de disco para una mejor experiencia de navegación.
+certs-description = Configura los certificados que { -brand-short-name } utiliza para la autenticación.
+certs-description2 =
+    .label = Certificados
+    .description = Configura los certificados que { -brand-short-name } utiliza para la autenticación.
 
 ## Privacy Section - HTTPS-Only
 

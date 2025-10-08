@@ -111,6 +111,10 @@ startup-header = Aig an toiseach
 always-check-default =
     .label = Dèan cinnteach an-còmhnaidh an e { -brand-short-name } fhèin do roghainn brabhsair
     .accesskey = D
+is-default-browser =
+    .message = 'S e { -brand-short-name } am brabhsair bunaiteach agad an-dràsta
+is-not-default-browser =
+    .message = Chan e { -brand-short-name } am brabhsair bunaiteach agad an-dràsta
 is-default = 'S e { -brand-short-name } am brabhsair bunaiteach agad an-dràsta
 is-not-default = Chan e { -brand-short-name } am brabhsair bunaiteach agad an-dràsta
 set-as-my-default-browser =
@@ -892,6 +896,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Eachdraidh
@@ -1183,6 +1190,9 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1213,6 +1223,7 @@ certs-view =
 certs-devices =
     .label = Uidheaman tèarainteachd...
     .accesskey = n
+certs-devices-enable-fips = Cuir FIPS an comas
 space-alert-over-5gb-settings-button =
     .label = Fosgail na roghainnean
     .accesskey = o

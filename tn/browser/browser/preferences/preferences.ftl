@@ -38,6 +38,10 @@ should-restart-title = Simolola { -brand-short-name } sešwa
 ## General Section
 
 startup-header = Tshimololosešwa
+is-default-browser =
+    .message = { -brand-short-name } ga jaana ke sebatli sebatli sa gago sa thulaganyetsoruri
+is-not-default-browser =
+    .message = { -brand-short-name } ga se sebatli sa gago sa thulaganyetsoruri
 is-default = { -brand-short-name } ga jaana ke sebatli sebatli sa gago sa thulaganyetsoruri
 is-not-default = { -brand-short-name } ga se sebatli sa gago sa thulaganyetsoruri
 tabs-group-header = Ditab
@@ -300,6 +304,7 @@ permissions-block-popups =
 ## Privacy Section - Certificates
 
 certs-header = Ditifikeiti
+certs-devices-enable-fips = Kgontsha FIPS
 
 ## Privacy Section - HTTPS-Only
 

@@ -45,6 +45,10 @@ startup-header = Startup
 always-check-default =
     .label = Always check if { -brand-short-name } is your default browser
     .accesskey = y
+is-default-browser =
+    .message = { -brand-short-name } is currently your default browser
+is-not-default-browser =
+    .message = { -brand-short-name } is not your default browser
 is-default = { -brand-short-name } is currently your default browser
 is-not-default = { -brand-short-name } is not your default browser
 tabs-group-header = Tabs
@@ -422,6 +426,7 @@ certs-header = Certificates
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
+certs-devices-enable-fips = Enable FIPS
 
 ## Privacy Section - HTTPS-Only
 

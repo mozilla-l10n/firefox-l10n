@@ -67,6 +67,10 @@ startup-header = প্রারম্ভ
 always-check-default =
     .label = সর্বদা পরীক্ষা করুন { -brand-short-name } ডিফল্ট ব্রাউজার রূপে ব্যবহার করা যাবে কি না
     .accesskey = y
+is-default-browser =
+    .message = { -brand-short-name } বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।
+is-not-default-browser =
+    .message = { -brand-short-name } বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।
 is-default = { -brand-short-name } বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।
 is-not-default = { -brand-short-name } বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।
 set-as-my-default-browser =
@@ -761,6 +765,7 @@ certs-view =
 certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
+certs-devices-enable-fips = FIPS সক্রিয় করা হবে
 
 ## Privacy Section - HTTPS-Only
 

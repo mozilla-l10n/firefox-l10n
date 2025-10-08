@@ -80,6 +80,10 @@ startup-header = শুরুতে
 always-check-default =
     .label = সর্বদা যাচাই করবে { -brand-short-name } আপনার ডিফল্ট ব্রাউজার কি না
     .accesskey = y
+is-default-browser =
+    .message = { -brand-short-name } আপনার বর্তমান ডিফল্ট ব্রাউজার
+is-not-default-browser =
+    .message = { -brand-short-name } আপনার নির্ধারিত ব্রাউজার নয়
 is-default = { -brand-short-name } আপনার বর্তমান ডিফল্ট ব্রাউজার
 is-not-default = { -brand-short-name } আপনার নির্ধারিত ব্রাউজার নয়
 set-as-my-default-browser =
@@ -686,6 +690,9 @@ forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ইতিহাস
@@ -762,6 +769,12 @@ sitedata-clear =
 sitedata-settings =
     .label = ডাটা ব্যবস্থাপনা…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -913,6 +926,9 @@ addon-recommendations-link = আরও জানুন
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -943,6 +959,13 @@ certs-view =
 certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
+certs-devices-enable-fips = FIPS সক্রিয় করা হবে
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

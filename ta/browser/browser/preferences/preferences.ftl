@@ -64,6 +64,10 @@ startup-header = துவக்கம்
 always-check-default =
     .label = துவக்கத்தில் { -brand-short-name } முன்னிருப்பு உலாவியாக இருக்கிறதா என்று எப்போதும் சரி பார்
     .accesskey = y
+is-default-browser =
+    .message = { -brand-short-name } தற்போது உங்களுடைய இயல்புநிலை உலாவியாக உள்ளது
+is-not-default-browser =
+    .message = { -brand-short-name } உங்களுடைய முன்னிருப்பு உலாவியாக இல்லை
 is-default = { -brand-short-name } தற்போது உங்களுடைய இயல்புநிலை உலாவியாக உள்ளது
 is-not-default = { -brand-short-name } உங்களுடைய முன்னிருப்பு உலாவியாக இல்லை
 set-as-my-default-browser =
@@ -479,6 +483,12 @@ sync-sign-in =
     .label = புகுபதிகை
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -554,6 +564,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = கடவுச்சொல்லை மாற்ற முடியவில்லை
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = வரலாறு
@@ -615,6 +631,12 @@ sitedata-settings =
     .label = தரவை நிர்வகி
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = முகவரி பட்டை
@@ -647,6 +669,15 @@ enhanced-tracking-protection-setting-strict =
 enhanced-tracking-protection-setting-custom =
     .label = தனிப்பயன்
     .accesskey = C
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -698,6 +729,9 @@ addon-recommendations-link = மேலும் அறிக
 # or builds with no Telemetry support available.
 collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -728,6 +762,13 @@ certs-view =
 certs-devices =
     .label = பாதுகாப்பு சாதனங்கள்…
     .accesskey = D
+certs-devices-enable-fips = FIPSஐ செயல்படுத்து
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

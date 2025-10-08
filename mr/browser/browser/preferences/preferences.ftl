@@ -66,6 +66,10 @@ startup-header = प्रारंभीकरण
 always-check-default =
     .label = नेहमी { -brand-short-name } पूर्वनिर्धारित ब्राउझर आहे याची खात्री करा
     .accesskey = y
+is-default-browser =
+    .message = { -brand-short-name } सध्या आपले पूर्वनिर्धारित ब्राउझर आहे
+is-not-default-browser =
+    .message = { -brand-short-name } सध्या आपले पूर्वनिर्धारित ब्राउझर नाही आहे
 is-default = { -brand-short-name } सध्या आपले पूर्वनिर्धारित ब्राउझर आहे
 is-not-default = { -brand-short-name } सध्या आपले पूर्वनिर्धारित ब्राउझर नाही आहे
 set-as-my-default-browser =
@@ -614,6 +618,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = पासवर्ड बदल अयशस्वी
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = इतिहास
@@ -680,6 +690,12 @@ sitedata-clear =
 sitedata-settings =
     .label = डेटा व्यवस्थापित करा...
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -821,6 +837,9 @@ addon-recommendations-link = अधिक जाणा
 # or builds with no Telemetry support available.
 collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -851,6 +870,13 @@ certs-view =
 certs-devices =
     .label = सुरक्षा साधने
     .accesskey = D
+certs-devices-enable-fips = FIPS कार्यान्वीत करा
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

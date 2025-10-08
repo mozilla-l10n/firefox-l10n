@@ -127,6 +127,10 @@ startup-header = Startup
 always-check-default =
     .label = Always check if { -brand-short-name } is your default browser
     .accesskey = y
+is-default-browser =
+    .message = { -brand-short-name } is currently your default browser
+is-not-default-browser =
+    .message = { -brand-short-name } is not your default browser
 is-default = { -brand-short-name } is currently your default browser
 is-not-default = { -brand-short-name } is not your default browser
 set-as-my-default-browser =
@@ -135,6 +139,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Open previous windows and tabs
     .accesskey = s
+startup-windows-launch-on-login-profile-disabled =
+    .message = Enable this preference by checking “{ profile-manager-use-selected.label }” in the “Choose User Profile” window.
 windows-launch-on-login =
     .label = Open { -brand-short-name } automatically when your computer starts up
     .accesskey = O
@@ -1330,7 +1336,6 @@ content-blocking-etp-standard-tcp-rollout-description = Total Cookie Protection 
 content-blocking-etp-standard-tcp-rollout-learn-more = Learn more
 content-blocking-etp-standard-tcp-title = Includes Total Cookie Protection, our most powerful privacy feature ever
 content-blocking-warning-title = Heads up!
-content-blocking-and-isolating-etp-warning-description-3 = This setting may cause some web sites to not display content or function correctly. We provide optional exceptions for web sites that we know can be affected by your configuration. To reduce the chance of broken web sites, allow these tracker exceptions. If a site appears broken, you can turn off tracking protection for that site to load all content and report the issue so we can help fix it for everyone.
 content-blocking-warning-title-2 = Some sites may break with strict tracking protection
 content-blocking-warning-title-custom = Some sites may break with custom tracking protection
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1349,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Fix minor site issues
     .description = Restores things like videos in an article or comment sections by unblocking elements that may contain trackers. This can reduce site issues but offers less protection. Must be used with fixes for major issues.
-content-blocking-baseline-exceptions =
-    .label = Allow { -brand-short-name } to automatically apply exceptions required to avoid major website breakage.
-content-blocking-baseline-exceptions-2 =
-    .label = Helps load sites and features by unblocking only essential elements that may contain trackers. Covers most common problems.
-content-blocking-convenience-exceptions =
-    .label = Also apply exceptions automatically that are only required to fix minor issues and make convenience features available.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Restores things like videos in an article or comment sections by unblocking elements that may contain trackers. This can reduce site issues but offers less protection. Must be used with fixes for major issues.
-content-blocking-baseline-label = Fix major site issues (recommended)
-content-blocking-convenience-label = Fix minor site issues
-content-blocking-exceptions-subheader = Fix site issues
 content-blocking-baseline-uncheck-warning-dialog-title = Are you sure you want to turn off fixes?
 content-blocking-baseline-uncheck-warning-dialog-body = This setting helps fix the most common site problems. If you turn it off, some sites may not work, and { -brand-short-name } won’t be able to help troubleshoot those issues.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Turn fixes off
@@ -1555,7 +1548,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificates
-certs-description = Configure the certificates that { -brand-short-name } uses for authentication.
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
@@ -1568,11 +1560,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Allow { -brand-short-name } to automatically trust third-party root certificates you install
     .accesskey = t
+certs-devices-enable-fips = Enable FIPS
 space-alert-over-5gb-settings-button =
     .label = Open Settings
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } is running out of disk space.</strong> Web site contents may not display properly. You can clear stored data in Settings > Privacy & Security > Cookies and Site Data.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } is running out of disk space.</strong> Web site contents may not display properly. Visit “Learn more” to optimise your disk usage for better browsing experience.
+certs-description = Configure the certificates that { -brand-short-name } uses for authentication.
+certs-description2 =
+    .label = Certificates
+    .description = Configure the certificates that { -brand-short-name } uses for authentication.
 
 ## Privacy Section - HTTPS-Only
 

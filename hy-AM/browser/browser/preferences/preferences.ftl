@@ -107,6 +107,10 @@ startup-header = Մեկնարկը
 always-check-default =
     .label = Միշտ ստուգել, թե արդյոք { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչն է
     .accesskey = շ
+is-default-browser =
+    .message = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչն է
+is-not-default-browser =
+    .message = { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչը չէ
 is-default = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչն է
 is-not-default = { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչը չէ
 set-as-my-default-browser =
@@ -1060,6 +1064,9 @@ sitedata-cookies-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Թխուկների ազդերիզի արգելափակիչ
@@ -1351,6 +1358,7 @@ certs-view =
 certs-devices =
     .label = Անվտանգության սարքեր...
     .accesskey = D
+certs-devices-enable-fips = FIPS-ը միացնել
 space-alert-over-5gb-settings-button =
     .label = Բացել կարգավորումները
     .accesskey = Բ
