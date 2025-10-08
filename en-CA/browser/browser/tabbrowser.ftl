@@ -222,9 +222,7 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Current window
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = Create tab group
 tab-group-editor-title-edit = Manage tab group

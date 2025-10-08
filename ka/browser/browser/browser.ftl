@@ -1475,8 +1475,6 @@ trustpanel-clear-cookies-subview-button-cancel = გაუქმება
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = კავშირის უსაფრთხოება საიტთან { $host }
-trustpanel-connection-secure = თქვენ საიმედოდ ხართ დაკავშირებული ამ საიტთან.
-trustpanel-connection-not-secure = თქვენი კავშირი ამ საიტთან არაა დაცული.
 trustpanel-siteinformation-morelink = საიტის სხვა მონაცემები
 trustpanel-blocker-see-all = ყველას ნახვა
 # Variables

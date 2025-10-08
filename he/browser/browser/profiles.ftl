@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = מזוודה
 picture-avatar-alt =
     .alt = תמונה
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = משטח ציור
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = כפתור
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = קצב לב
 clock-avatar-alt =
     .alt = שעון
-history-avatar-alt =
-    .alt = היסטוריה
 leaf-avatar-alt =
     .alt = עלה
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = עגלת קניות
 soccer-ball-avatar-alt =
     .alt = כדורגל
-soccer-avatar-alt =
-    .alt = כדורגל
 sparkle-single-avatar-alt =
     .alt = ניצוץ
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = גלובוס
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = סמל ברירת מחדל
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = יהלום
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = ספר
 briefcase-avatar = מזוודה
 clock-avatar = שעון
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = משטח ציור
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = כפתור
 custom-avatar = תמונה מייצגת מותאמת אישית
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = סמל ברירת מחדל
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = יהלום
 flower-avatar = פרח
@@ -250,7 +236,6 @@ globe-avatar = גלובוס
 hammer-avatar = פטיש
 heart-avatar = לב
 heart-rate-avatar = קצב לב
-history-avatar = היסטוריה
 leaf-avatar = עלה
 lightbulb-avatar = נורה
 makeup-avatar = איפור
@@ -265,7 +250,6 @@ plane-avatar = מטוס
 present-avatar = מתנה
 shopping-avatar = עגלת קניות
 soccer-ball-avatar = כדורגל
-soccer-avatar = כדורגל
 sparkle-single-avatar = ניצוץ
 star-avatar = כוכב
 video-game-controller-avatar = בקר משחקי וידאו

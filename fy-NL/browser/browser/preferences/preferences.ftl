@@ -1566,7 +1566,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = i
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin skiifromte mear.</strong> Ynhâld fan websites wurdt mooglik net goed werjûn. Jo kinne bewarre gegevens wiskje yn Ynstellingen > Privacy & Befeiliging > Cookies en websitegegevens.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin skiifromte mear.</strong> Ynhâld fan websites wurdt mooglik net goed werjûn. Besykje ‘Mear ynfo’ om jo skiifgebrûk te optimalisearjen foar bettere prestaasjes.
-certs-description = De sertifikaten dy’t { -brand-short-name } brûkt foar autentikaasje konfigurearje.
 certs-description2 =
     .label = Sertifikaten
     .description = De sertifikaten dy’t { -brand-short-name } brûkt foar autentikaasje konfigurearje.

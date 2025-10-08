@@ -1476,8 +1476,6 @@ trustpanel-clear-cookies-subview-button-cancel = Ακύρωση
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Προστασία σύνδεσης για το { $host }
-trustpanel-connection-secure = Η σύνδεσή σας με αυτόν τον ιστότοπο είναι ασφαλής.
-trustpanel-connection-not-secure = Η σύνδεσή σας με αυτόν τον ιστότοπο δεν είναι ασφαλής.
 trustpanel-siteinformation-morelink = Περισσότερες πληροφορίες ιστοτόπου
 trustpanel-blocker-see-all = Προβολή όλων
 # Variables

@@ -404,7 +404,7 @@ newtab-wallpaper-abstract-purple-green = Gradient fialového a zeleného svetla
 newtab-wallpaper-abstract-blue-purple-waves = Modré a fialové vlnité tvary
 newtab-wallpaper-abstract-black-waves = Čierne vlnité tvary
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Fotografie
 newtab-wallpaper-beach-at-sunrise = Pláž pri východe slnka
@@ -673,10 +673,6 @@ newtab-widget-timer-mode-focus =
     .label = Sústredenie
 newtab-widget-timer-mode-break =
     .label = Prestávka
-newtab-widget-timer-play =
-    .title = Spustiť
-newtab-widget-timer-pause =
-    .title = Pozastaviť
 newtab-widget-timer-label-play =
     .label = Spustiť
 newtab-widget-timer-label-pause =

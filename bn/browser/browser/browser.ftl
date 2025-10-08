@@ -1144,8 +1144,6 @@ trustpanel-header-disabled = আপনি সুরক্ষা বন্ধ ক
 trustpanel-clear-cookies-button = কুকি ও সাইট ডেটা মুছে ফেলুন
 trustpanel-privacy-link = প্রাইভেসি সেটিংস
 trustpanel-clear-cookies-subview-button-cancel = বাতিল
-trustpanel-connection-secure = আপনি সুরক্ষিতভাবে এই সাইটে সংযুক্ত হয়েছেন।
-trustpanel-connection-not-secure = এই সাইটে আপনার সংযোগ সুরক্ষিত নয়।
 trustpanel-siteinformation-morelink = আরও সাইটের তথ্য
 trustpanel-blocker-see-all = সব দেখুন
 

@@ -1480,8 +1480,6 @@ trustpanel-clear-cookies-subview-button-cancel = Vazgeç
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = { $host } bağlantı korumaları
-trustpanel-connection-secure = Bu siteye güvenli bir şekilde bağlandınız.
-trustpanel-connection-not-secure = Bu siteye güvenli bir şekilde bağlanmadınız.
 trustpanel-siteinformation-morelink = Daha fazla site bilgisi
 trustpanel-blocker-see-all = Tümünü göster
 # Variables

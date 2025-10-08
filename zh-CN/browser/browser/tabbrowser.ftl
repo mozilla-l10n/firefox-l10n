@@ -192,9 +192,7 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — 当前窗口
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = 创建标签页群组
 tab-group-editor-title-edit = 管理标签页群组

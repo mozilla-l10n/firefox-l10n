@@ -274,9 +274,7 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Y ffenestr gyfredol
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = Creu grŵp tabiau
 tab-group-editor-title-edit = Rheoli grŵp tabiau

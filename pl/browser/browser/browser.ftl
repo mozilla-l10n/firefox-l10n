@@ -1494,8 +1494,6 @@ trustpanel-clear-cookies-subview-button-cancel = Anuluj
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Ochrona połączenia z witryną { $host }
-trustpanel-connection-secure = Połączenie z tą witryną jest zabezpieczone.
-trustpanel-connection-not-secure = Połączenie z tą witryną nie jest zabezpieczone.
 trustpanel-siteinformation-morelink = Więcej informacji o witrynie
 trustpanel-blocker-see-all = Pokaż wszystko
 # Variables

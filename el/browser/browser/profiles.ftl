@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Χαρτοφύλακας
 picture-avatar-alt =
     .alt = Εικόνα
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Καμβάς
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Χειροτεχνίες
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Καρδιακός ρυθμός
 clock-avatar-alt =
     .alt = Ρολόι
-history-avatar-alt =
-    .alt = Ιστορικό
 leaf-avatar-alt =
     .alt = Φύλλο
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Καλάθι αγορών
 soccer-ball-avatar-alt =
     .alt = Μπάλα ποδοσφαίρου
-soccer-avatar-alt =
-    .alt = Ποδόσφαιρο
 sparkle-single-avatar-alt =
     .alt = Λάμψη
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Υδρόγειος σφαίρα
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Προεπιλεγμένο εικονίδιο
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Διαμάντι
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Βιβλίο
 briefcase-avatar = Χαρτοφύλακας
 clock-avatar = Ρολόι
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Καμβάς
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Χειροτεχνίες
 custom-avatar = Προσαρμοσμένη εικόνα χρήστη
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Προεπιλεγμένο εικονίδιο
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Διαμάντι
 flower-avatar = Λουλούδι
@@ -250,7 +236,6 @@ globe-avatar = Υδρόγειος σφαίρα
 hammer-avatar = Σφυρί
 heart-avatar = Καρδιά
 heart-rate-avatar = Καρδιακός ρυθμός
-history-avatar = Ιστορικό
 leaf-avatar = Φύλλο
 lightbulb-avatar = Λαμπτήρας
 makeup-avatar = Μακιγιάζ
@@ -265,7 +250,6 @@ plane-avatar = Αεροπλάνο
 present-avatar = Δώρο
 shopping-avatar = Καλάθι αγορών
 soccer-ball-avatar = Μπάλα ποδοσφαίρου
-soccer-avatar = Ποδόσφαιρο
 sparkle-single-avatar = Λάμψη
 star-avatar = Αστέρι
 video-game-controller-avatar = Χειριστήριο βιντεοπαιχνιδιού

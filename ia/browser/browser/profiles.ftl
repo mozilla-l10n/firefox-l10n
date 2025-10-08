@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Valise
 picture-avatar-alt =
     .alt = Imagine
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Canevas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Artisaneria
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Frequentia cardiac
 clock-avatar-alt =
     .alt = Horologio
-history-avatar-alt =
-    .alt = Chronologia
 leaf-avatar-alt =
     .alt = Folio
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Carretta de compras
 soccer-ball-avatar-alt =
     .alt = Ballon de football
-soccer-avatar-alt =
-    .alt = Ballon de football
 sparkle-single-avatar-alt =
     .alt = Scintillation
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Globo
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Icone predefinite
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamante
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Libro
 briefcase-avatar = Valise
 clock-avatar = Horologio
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Canevas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Artisaneria
 custom-avatar = Avatar personalisate
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Icone predefinite
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamante
 flower-avatar = Flor
@@ -250,7 +236,6 @@ globe-avatar = Globo
 hammer-avatar = Martello
 heart-avatar = Corde
 heart-rate-avatar = Frequentia cardiac
-history-avatar = Chronologia
 leaf-avatar = Folio
 lightbulb-avatar = Lampa
 makeup-avatar = Make-up
@@ -265,7 +250,6 @@ plane-avatar = Avion
 present-avatar = Presente
 shopping-avatar = Carretta de compras
 soccer-ball-avatar = Ballon de football
-soccer-avatar = Ballon de football
 sparkle-single-avatar = Scintillation
 star-avatar = Stella
 video-game-controller-avatar = Controlator de video-joco

@@ -412,7 +412,7 @@ newtab-wallpaper-abstract-purple-green = Graddiant golau porffor a gwyrdd
 newtab-wallpaper-abstract-blue-purple-waves = Siapiau tonnog glas a phorffor
 newtab-wallpaper-abstract-black-waves = Siapiau tonnog du
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Ffotograffau
 newtab-wallpaper-beach-at-sunrise = Traeth ar godiad haul
@@ -681,10 +681,6 @@ newtab-widget-timer-mode-focus =
     .label = Canolbwyntio
 newtab-widget-timer-mode-break =
     .label = Seibiant
-newtab-widget-timer-play =
-    .title = Chwarae
-newtab-widget-timer-pause =
-    .title = Oedi
 newtab-widget-timer-label-play =
     .label = Chwarae
 newtab-widget-timer-label-pause =

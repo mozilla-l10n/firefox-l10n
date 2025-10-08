@@ -41,17 +41,6 @@ should-restart-ok = Рестарирај го { -brand-short-name } сега
 cancel-no-restart-button = Откажи
 restart-later = Рестартирај подоцна
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = Резултати од пребарувањето
@@ -377,10 +366,6 @@ containers-settings-button =
 containers-remove-button =
     .label = Избриши
 
-## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
 ## Firefox account - Signed in
 
 sync-profile-picture =
@@ -454,9 +439,6 @@ sync-verification-not-sent-body = Не сме во можност да испр�
 
 privacy-header = Приватност на прелистувачот
 
-## Privacy Section - Logins and Passwords
-
-
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -477,9 +459,6 @@ forms-master-pw-fips-desc = Промената на лозинката не ус
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -513,12 +492,6 @@ sitedata-learn-more = Дознајте повеќе
 sitedata-option-block-unvisited =
     .label = Колачиња од непосетени мрежни места
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Privacy Section - Address Bar
 
 addressbar-locbar-bookmarks-option =
@@ -531,10 +504,6 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Дознајте повеќе
-
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
 
 ##
 
@@ -557,9 +526,6 @@ content-blocking-cookies-label =
     .accesskey = ц
 content-blocking-expand-section =
     .tooltiptext = Повеќе информации
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -600,9 +566,6 @@ collection-health-report-link = Дознај повеќе
 collection-studies-link = Погледнете ги студиите на { -brand-short-name }
 addon-recommendations-link = Дознајте повеќе
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -625,9 +588,6 @@ certs-devices-enable-fips = Овозможи FIPS
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = Дознајте повеќе
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

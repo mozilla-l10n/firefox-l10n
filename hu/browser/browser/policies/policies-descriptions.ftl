@@ -119,6 +119,7 @@ policy-PostQuantumKeyAgreementEnabled = Kvantumszámítógép-biztos kulcsmegál
 policy-PDFjs = A PDF.js-nek, a { -brand-short-name } beépített PDF-megjelenítőjének, letiltása vagy beállítása.
 policy-Permissions2 = A kamera, mikrofon, helyadatok, értesítések és automatikus lejátszás jogosultságának beállítása.
 policy-PictureInPicture = Kép a képben engedélyezése vagy letiltása.
+policy-PopupBlocking2 = Engedélyezés, hogy bizonyos weboldalak felugró ablakokat jelenítsenek meg, és harmadik féltől származó keretek átirányítsák őket.
 policy-PopupBlocking = Bizonyos weboldalak alapértelmezetten jeleníthessenek meg felugró ablakokat.
 policy-Preferences = Értékek beállítása és zárolása a beállítások egy részhalmazánál.
 policy-PrivateBrowsingModeAvailability = A privát böngészési mód elérhetőségének beállítása.

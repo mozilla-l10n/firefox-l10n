@@ -98,6 +98,7 @@ permissions-exceptions-https-only-desc2 = Az egyes webhelyeknél kikapcsolhatja 
 permissions-exceptions-popup-window3 =
     .title = Engedélyezett webhelyek – Felugró ablakok és harmadik féltől származó átirányítások
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Megadhatja, hogy mely weboldalak nyithatnak felugró ablakokat, és melyeket irányíthatják át a harmadik féltől származó keretek.
 
 ## Exceptions - Pop-ups
 

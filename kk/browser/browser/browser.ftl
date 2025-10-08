@@ -1457,8 +1457,6 @@ trustpanel-clear-cookies-subview-button-cancel = Бас тарту
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = { $host } үшін байланыс қорғаныстары
-trustpanel-connection-secure = Бұл сайтқа қауіпсіз түрде байланысқансыз.
-trustpanel-connection-not-secure = Бұл сайтқа қауіпсіз түрде байланысқан емессіз.
 trustpanel-siteinformation-morelink = Сайт туралы қосымша ақпарат
 trustpanel-blocker-see-all = Барлығын қарау
 # Variables

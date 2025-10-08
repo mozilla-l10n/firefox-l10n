@@ -239,9 +239,7 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Trenutni prozor
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = Kreiraj grupu tabova
 tab-group-editor-title-edit = Upravljanje grupom tabova

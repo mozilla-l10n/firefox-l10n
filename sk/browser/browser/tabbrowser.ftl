@@ -244,9 +244,7 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — aktuálne okno
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = Vytvoriť skupinu kariet
 tab-group-editor-title-edit = Spravovať skupinu kariet

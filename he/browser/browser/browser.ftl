@@ -1482,8 +1482,6 @@ trustpanel-clear-cookies-subview-button-cancel = ביטול
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = הגנות חיבור עבור { $host }
-trustpanel-connection-secure = התחברת לאתר זה באופן מאובטח.
-trustpanel-connection-not-secure = החיבור שלך לאתר זה אינו מאובטח.
 trustpanel-siteinformation-morelink = פרטי אתר נוספים
 trustpanel-blocker-see-all = צפייה בהכל
 # Variables

@@ -408,7 +408,7 @@ newtab-wallpaper-abstract-purple-green = Фиолетово-зеленый св�
 newtab-wallpaper-abstract-blue-purple-waves = Синие и фиолетовые волнистые формы
 newtab-wallpaper-abstract-black-waves = Чёрные волнообразные формы
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Фотографии
 newtab-wallpaper-beach-at-sunrise = Пляж на восходе
@@ -677,10 +677,6 @@ newtab-widget-timer-mode-focus =
     .label = Фокусировка
 newtab-widget-timer-mode-break =
     .label = Перерыв
-newtab-widget-timer-play =
-    .title = Воспроизвести
-newtab-widget-timer-pause =
-    .title = Приостановить
 newtab-widget-timer-label-play =
     .label = Воспроизвести
 newtab-widget-timer-label-pause =

@@ -139,8 +139,6 @@ contextual-manager-passwords-update-password-success-heading =
 contextual-manager-passwords-update-password-success-button = Eginda
 contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Erabiltzaile-izena gordeta
-contextual-manager-passwords-update-username-success-heading-2 =
-    .heading = Erabiltzaile-izena gehituta
 contextual-manager-passwords-delete-password-success-button = Eginda
 #
 # Radiobutton label to display total number of passwords

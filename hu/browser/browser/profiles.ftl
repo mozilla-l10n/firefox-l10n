@@ -144,15 +144,23 @@ profiles-cyan-theme-title =
 profiles-custom-theme-title =
     .title = Egyéni téma alkalmazása
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Az adatgyűjtési beállítások megváltoztak.</strong> A másik profilban végzett módosítások ezen eszköz összes profiljára érvényesek.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Beállítások megtekintése
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Eltüntetés
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
     .alt = Könyv
 briefcase-avatar-alt =
     .alt = Aktatáska
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Vászon
+picture-avatar-alt =
+    .alt = Kép
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Kézművesség
@@ -166,8 +174,8 @@ heart-avatar-alt =
     .alt = Szív
 heart-rate-avatar-alt =
     .alt = Pulzusszám
-history-avatar-alt =
-    .alt = Előzmények
+clock-avatar-alt =
+    .alt = Óra
 leaf-avatar-alt =
     .alt = Levél
 lightbulb-avatar-alt =
@@ -192,8 +200,6 @@ shopping-avatar-alt =
     .alt = Bevásárlókosár
 soccer-ball-avatar-alt =
     .alt = Focilabda
-soccer-avatar-alt =
-    .alt = Foci
 sparkle-single-avatar-alt =
     .alt = Szikrák
 star-avatar-alt =
@@ -205,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Földgömb
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Alapértelmezett favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Gyémánt
@@ -221,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Könyv
 briefcase-avatar = Aktatáska
 clock-avatar = Óra
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Vászon
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Kézművesség
 custom-avatar = Egyéni profilkép
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Alapértelmezett favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Gyémánt
 flower-avatar = Virág
@@ -237,7 +236,6 @@ globe-avatar = Földgömb
 hammer-avatar = Kalapács
 heart-avatar = Szív
 heart-rate-avatar = Pulzusszám
-history-avatar = Előzmények
 leaf-avatar = Levél
 lightbulb-avatar = Villanykörte
 makeup-avatar = Smink
@@ -252,7 +250,6 @@ plane-avatar = Repülő
 present-avatar = Ajándék
 shopping-avatar = Bevásárlókosár
 soccer-ball-avatar = Focilabda
-soccer-avatar = Foci
 sparkle-single-avatar = Szikrák
 star-avatar = Csillag
 video-game-controller-avatar = Videójáték-vezérlő

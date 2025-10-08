@@ -403,7 +403,7 @@ newtab-wallpaper-abstract-purple-green = Fjólublár og grænn ljósleitur litst
 newtab-wallpaper-abstract-blue-purple-waves = Blá og fjólublá bylgjuform
 newtab-wallpaper-abstract-black-waves = Svört bylgjuform
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Ljósmyndir
 newtab-wallpaper-beach-at-sunrise = Strönd við sólarupprás
@@ -644,10 +644,6 @@ newtab-widget-timer-mode-focus =
     .label = Einbeiting
 newtab-widget-timer-mode-break =
     .label = Hlé
-newtab-widget-timer-play =
-    .title = Spila
-newtab-widget-timer-pause =
-    .title = Í bið
 newtab-widget-timer-label-play =
     .label = Spila
 newtab-widget-timer-label-pause =

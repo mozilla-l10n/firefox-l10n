@@ -1391,8 +1391,6 @@ trustpanel-clear-cookies-subview-button-cancel = Չեղարկել
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Միացման անվտանգություն { $host }-ի համար
-trustpanel-connection-secure = Դուք անվտանգ կապակցվել եք այս կայքի հետ։
-trustpanel-connection-not-secure = Այս կայքի հետ դուք կապակցված եք անապահով կերպով։
 trustpanel-siteinformation-morelink = Մանրամասն տեղեկություններ
 trustpanel-blocker-see-all = Տեսնել բոլորը
 # Variables

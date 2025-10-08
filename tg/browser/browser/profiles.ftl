@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Ҷузвгир
 picture-avatar-alt =
     .alt = Акс
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Саҳна
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Чизи дӯстдошта
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Набзи дил
 clock-avatar-alt =
     .alt = Соат
-history-avatar-alt =
-    .alt = Таърих
 leaf-avatar-alt =
     .alt = Барг
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Сабади харидорӣ
 soccer-ball-avatar-alt =
     .alt = Тӯби футбол
-soccer-avatar-alt =
-    .alt = Футбол
 sparkle-single-avatar-alt =
     .alt = Шарора
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Ҷаҳон
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Нишони пешфарзи сомона
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Алмос
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Китоб
 briefcase-avatar = Ҷузвгир
 clock-avatar = Соат
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Саҳна
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Чизи дӯстдошта
 custom-avatar = Аватари фармоишӣ
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Нишони пешфарзи сомона
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Алмос
 flower-avatar = Гул
@@ -250,7 +236,6 @@ globe-avatar = Ҷаҳон
 hammer-avatar = Болға
 heart-avatar = Дил
 heart-rate-avatar = Набзи дил
-history-avatar = Таърих
 leaf-avatar = Барг
 lightbulb-avatar = Чароғ
 makeup-avatar = Ороиш
@@ -265,7 +250,6 @@ plane-avatar = Ҳавопаймо
 present-avatar = Туҳфа
 shopping-avatar = Сабади харидорӣ
 soccer-ball-avatar = Тӯби футбол
-soccer-avatar = Футбол
 sparkle-single-avatar = Шарора
 star-avatar = Ситора
 video-game-controller-avatar = Танзимгари бозии видеоӣ

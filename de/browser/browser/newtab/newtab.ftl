@@ -407,7 +407,7 @@ newtab-wallpaper-abstract-purple-green = Lilafarbener und grüner Lichtverlauf
 newtab-wallpaper-abstract-blue-purple-waves = Blaue und lila gewellte Formen
 newtab-wallpaper-abstract-black-waves = Schwarze gewellte Formen
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Fotos
 newtab-wallpaper-beach-at-sunrise = Strand bei Sonnenaufgang
@@ -676,10 +676,6 @@ newtab-widget-timer-mode-focus =
     .label = Fokussieren
 newtab-widget-timer-mode-break =
     .label = Pause
-newtab-widget-timer-play =
-    .title = Starten
-newtab-widget-timer-pause =
-    .title = Pausieren
 newtab-widget-timer-label-play =
     .label = Starten
 newtab-widget-timer-label-pause =

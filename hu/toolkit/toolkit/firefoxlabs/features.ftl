@@ -68,6 +68,12 @@ experimental-features-newtab-widget-lists-description = Tartsa fejben a teendői
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Időzítő a { -firefox-home-brand-name }on
+experimental-features-newtab-widget-timer-description = Állítson be egy időzítőt, hogy fókuszált maradjon, és emlékeztesse a feladatnál maradásra vagy a feltöltődésre. <a data-l10n-name="connect">Visszajelzés megosztása</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listák és időzítők a { -firefox-home-brand-name }on
+experimental-features-newtab-widget-lists-and-timer-description = Tartsa fejben a teendőit, amikor megnyit egy új lapot. Csomagolólistáktól a bevásárlólistákig, tervezzen a { -brand-product-name } segítségével. Állítson be egy időzítőt, hogy fókuszált maradjon, és emlékeztesse a feladatnál maradásra vagy a feltöltődésre. <a data-l10n-name="connect">Visszajelzés megosztása</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Szemantikus előzménykereső
+experimental-features-semantic-history-search-description = Használjon helyi gépi tanulási modellt, hogy olyan bejegyzéseket javasoljon az előzményekből, amelyek kapcsolódnak a { -brand-product-name } címsorából indított kereséseihez. <a data-l10n-name="connect">Visszajelzés megosztása</a>

@@ -408,7 +408,7 @@ newtab-wallpaper-abstract-purple-green = Preliv vijolične in zelene svetlobe
 newtab-wallpaper-abstract-blue-purple-waves = Modre in vijolične valovite oblike
 newtab-wallpaper-abstract-black-waves = Črne valovite oblike
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Fotografije
 newtab-wallpaper-beach-at-sunrise = Plaža ob sončnem vzhodu
@@ -666,10 +666,6 @@ newtab-widget-timer-mode-focus =
     .label = Osredotočite se
 newtab-widget-timer-mode-break =
     .label = Premor
-newtab-widget-timer-play =
-    .title = Predvajaj
-newtab-widget-timer-pause =
-    .title = Ustavi
 newtab-widget-timer-label-play =
     .label = Predvajaj
 newtab-widget-timer-label-pause =

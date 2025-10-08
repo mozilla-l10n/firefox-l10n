@@ -406,7 +406,7 @@ newtab-wallpaper-abstract-purple-green = 보라색과 녹색 빛 그라데이션
 newtab-wallpaper-abstract-blue-purple-waves = 파란색과 보라색 물결 모양
 newtab-wallpaper-abstract-black-waves = 검은 물결 모양
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = 사진
 newtab-wallpaper-beach-at-sunrise = 일출의 해변
@@ -675,10 +675,6 @@ newtab-widget-timer-mode-focus =
     .label = 집중
 newtab-widget-timer-mode-break =
     .label = 휴식
-newtab-widget-timer-play =
-    .title = 재생
-newtab-widget-timer-pause =
-    .title = 일시 중지
 newtab-widget-timer-label-play =
     .label = 재생
 newtab-widget-timer-label-pause =

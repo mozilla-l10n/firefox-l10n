@@ -406,7 +406,7 @@ newtab-wallpaper-abstract-purple-green = Fargeovergang med lilla og grønt lys
 newtab-wallpaper-abstract-blue-purple-waves = Blå og lilla bølgjeformer
 newtab-wallpaper-abstract-black-waves = Svarte bølgjeformer
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Fotografi
 newtab-wallpaper-beach-at-sunrise = Strand ved soloppgang
@@ -675,10 +675,6 @@ newtab-widget-timer-mode-focus =
     .label = Fokus
 newtab-widget-timer-mode-break =
     .label = Pause
-newtab-widget-timer-play =
-    .title = Spel av
-newtab-widget-timer-pause =
-    .title = Pause
 newtab-widget-timer-label-play =
     .label = Spel av
 newtab-widget-timer-label-pause =

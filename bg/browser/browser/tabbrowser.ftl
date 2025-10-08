@@ -197,9 +197,7 @@ tabbrowser-manager-unmute-tab =
 tabbrowser-manager-close-tab =
     .tooltiptext = Затваряне на раздела
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = Създаване на група от раздели
 tab-group-editor-title-edit = Управление на група от раздели

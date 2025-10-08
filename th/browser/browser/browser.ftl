@@ -1455,8 +1455,6 @@ trustpanel-clear-cookies-subview-button-cancel = ยกเลิก
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = การป้องกันการเชื่อมต่อสำหรับ { $host }
-trustpanel-connection-secure = คุณได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
-trustpanel-connection-not-secure = คุณไม่ได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
 trustpanel-siteinformation-morelink = ข้อมูลไซต์เพิ่มเติม
 trustpanel-blocker-see-all = ดูทั้งหมด
 # Variables

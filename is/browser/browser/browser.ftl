@@ -1439,8 +1439,6 @@ trustpanel-clear-cookies-subview-button-cancel = Hætta við
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Tengivarnir fyrir { $host }
-trustpanel-connection-secure = Þú ert með örugga tengingu við þetta vefsvæði.
-trustpanel-connection-not-secure = Þú ert ekki með örugga tengingu við þetta vefsvæði.
 trustpanel-siteinformation-morelink = Meiri upplýsingar um vefsvæði
 trustpanel-blocker-see-all = Sjá allt
 # Variables

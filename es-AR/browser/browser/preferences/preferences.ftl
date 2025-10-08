@@ -1566,7 +1566,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = P
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en el disco. </strong> Puede que los contenidos de los sitios web no se muestren adecuadamente. Puede eliminar los datos almacenados en Preferencias > Privacidad y seguridad > Cookies y Datos del sitio.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en el disco.</strong> Los contenidos del sitio web pueden no mostrarse correctamente. Visite "Conocer más" para optimizar el uso del disco y mejorar la experiencia de navegación.
-certs-description = Configurar los certificados que { -brand-short-name } usa para la autenticación.
 certs-description2 =
     .label = Certificados
     .description = Configurar los certificados que { -brand-short-name } usa para la autenticación.

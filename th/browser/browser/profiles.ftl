@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = กระเป๋าเอกสาร
 picture-avatar-alt =
     .alt = รูปภาพ
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = ผ้าใบ
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = งานฝีมือ
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = คลื่นหัวใจ
 clock-avatar-alt =
     .alt = นาฬิกา
-history-avatar-alt =
-    .alt = ประวัติศาสตร์
 leaf-avatar-alt =
     .alt = ใบไม้
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = รถเข็นซื้อของ
 soccer-ball-avatar-alt =
     .alt = ลูกฟุตบอล
-soccer-avatar-alt =
-    .alt = ฟุตบอล
 sparkle-single-avatar-alt =
     .alt = ประกายดาว
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = ลูกโลก
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = favicon เริ่มต้น
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = เพชร
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = หนังสือ
 briefcase-avatar = กระเป๋าเอกสาร
 clock-avatar = นาฬิกา
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = ผ้าใบ
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = งานฝีมือ
 custom-avatar = รูปประจำตัวกำหนดเอง
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = favicon เริ่มต้น
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = เพชร
 flower-avatar = ดอกไม้
@@ -250,7 +236,6 @@ globe-avatar = ลูกโลก
 hammer-avatar = ค้อน
 heart-avatar = หัวใจ
 heart-rate-avatar = คลื่นหัวใจ
-history-avatar = ประวัติศาสตร์
 leaf-avatar = ใบไม้
 lightbulb-avatar = หลอดไฟ
 makeup-avatar = เครื่องสำอาง
@@ -265,7 +250,6 @@ plane-avatar = เครื่องบิน
 present-avatar = ของขวัญ
 shopping-avatar = รถเข็นซื้อของ
 soccer-ball-avatar = ลูกฟุตบอล
-soccer-avatar = ฟุตบอล
 sparkle-single-avatar = ประกายดาว
 star-avatar = ดาว
 video-game-controller-avatar = ตัวควบคุมวิดีโอเกม

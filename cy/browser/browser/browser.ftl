@@ -1527,8 +1527,6 @@ trustpanel-clear-cookies-subview-button-cancel = Diddymu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Diogelu cysylltiadau ar gyfer { $host }
-trustpanel-connection-secure = Rydych wedi'ch cysylltu'n ddiogel â'r wefan hon.
-trustpanel-connection-not-secure = Nid ydych wedi'ch cysylltu'n ddiogel â'r wefan hon.
 trustpanel-siteinformation-morelink = Rhagor o fanylion y wefan
 trustpanel-blocker-see-all = Gweld y Cyfan
 # Variables

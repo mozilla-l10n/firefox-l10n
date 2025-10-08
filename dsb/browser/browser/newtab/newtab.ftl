@@ -409,7 +409,7 @@ newtab-wallpaper-abstract-purple-green = Wioletny a zeleny swětłowy pśeběg
 newtab-wallpaper-abstract-blue-purple-waves = Módre a wioletne žwałkate formy
 newtab-wallpaper-abstract-black-waves = Carne žwałkate formy
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Fota
 newtab-wallpaper-beach-at-sunrise = Pśibrjog pśi zejźenju słyńca
@@ -678,10 +678,6 @@ newtab-widget-timer-mode-focus =
     .label = Fokus
 newtab-widget-timer-mode-break =
     .label = Pawza
-newtab-widget-timer-play =
-    .title = Wótgraś
-newtab-widget-timer-pause =
-    .title = Pawza
 newtab-widget-timer-label-play =
     .label = Wótgraś
 newtab-widget-timer-label-pause =

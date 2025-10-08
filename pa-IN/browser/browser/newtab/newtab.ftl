@@ -406,7 +406,7 @@ newtab-wallpaper-abstract-purple-green = ਜਾਮਨੀ ਅਤੇ ਹਰਾ ਫ
 newtab-wallpaper-abstract-blue-purple-waves = ਨੀਲੀਆਂ ਤੇ ਜਾਮਨੀ ਲਹਿਰਦਾਰ ਸ਼ਕਲਾਂ
 newtab-wallpaper-abstract-black-waves = ਕਾਲੀਆਂ ਲਹਿਰਦਾਰ ਸ਼ਕਲਾਂ
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = ਫ਼ੋਟੋਗਰਾਫ਼
 newtab-wallpaper-beach-at-sunrise = ਬੀਚ ਉੱਤੇ ਚੜ੍ਹਦਾ ਸੂਰਜ
@@ -675,10 +675,6 @@ newtab-widget-timer-mode-focus =
     .label = ਫੋਕਸ
 newtab-widget-timer-mode-break =
     .label = ਬਰੇਕ
-newtab-widget-timer-play =
-    .title = ਖੇਡਣ
-newtab-widget-timer-pause =
-    .title = ਵਿਰਾਮ
 newtab-widget-timer-label-play =
     .label = ਖੇਡਣ
 newtab-widget-timer-label-pause =

@@ -404,7 +404,7 @@ newtab-wallpaper-abstract-purple-green = Gradient de lumină violet și verde
 newtab-wallpaper-abstract-blue-purple-waves = Forme ondulate albastre și violete
 newtab-wallpaper-abstract-black-waves = Forme ondulate negre
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Fotografii
 newtab-wallpaper-beach-at-sunrise = Plajă la răsărit
@@ -673,10 +673,6 @@ newtab-widget-timer-mode-focus =
     .label = Concentrează-te
 newtab-widget-timer-mode-break =
     .label = Pauză
-newtab-widget-timer-play =
-    .title = Redă
-newtab-widget-timer-pause =
-    .title = Pauză
 newtab-widget-timer-label-play =
     .label = Redă
 newtab-widget-timer-label-pause =

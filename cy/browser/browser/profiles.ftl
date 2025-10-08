@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Bag Dogfennau
 picture-avatar-alt =
     .alt = Llun
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Cynfas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Crefft
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Cyfradd y galon
 clock-avatar-alt =
     .alt = Cloc
-history-avatar-alt =
-    .alt = Hanes
 leaf-avatar-alt =
     .alt = Deilen
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Cart siopa
 soccer-ball-avatar-alt =
     .alt = Pêl pêl-droed
-soccer-avatar-alt =
-    .alt = Pêl-droed
 sparkle-single-avatar-alt =
     .alt = Pefriog
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Glôb
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Favicon rhagosodedig
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diemwnt
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Llyfr
 briefcase-avatar = Bag Dogfennau
 clock-avatar = Cloc
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Cynfas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Crefft
 custom-avatar = Afatar cyfaddas
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Favicon rhagosodedig
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diemwnt
 flower-avatar = Blodyn
@@ -250,7 +236,6 @@ globe-avatar = Glôb
 hammer-avatar = Morthwyl
 heart-avatar = Calon
 heart-rate-avatar = Cyfradd y galon
-history-avatar = Hanes
 leaf-avatar = Deilen
 lightbulb-avatar = Bwlb golau
 makeup-avatar = Colur
@@ -265,7 +250,6 @@ plane-avatar = Awyren
 present-avatar = Anrheg
 shopping-avatar = Cart siopa
 soccer-ball-avatar = Pêl pêl-droed
-soccer-avatar = Pêl-droed
 sparkle-single-avatar = Pefriog
 star-avatar = Seren
 video-game-controller-avatar = Rheolydd gêm fideo

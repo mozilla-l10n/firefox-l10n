@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Valiză
 picture-avatar-alt =
     .alt = Imagine
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Pânză
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Meșteșug
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Frecvență cardiacă
 clock-avatar-alt =
     .alt = Ceas
-history-avatar-alt =
-    .alt = Istorie
 leaf-avatar-alt =
     .alt = Frunză
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Coș de cumpărături
 soccer-ball-avatar-alt =
     .alt = Minge de fotbal
-soccer-avatar-alt =
-    .alt = Fotbal
 sparkle-single-avatar-alt =
     .alt = Scânteie
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Glob
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Pictogramă favorită implicită
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Carte
 briefcase-avatar = Valiză
 clock-avatar = Ceas
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Pânză
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Meșteșug
 custom-avatar = Avatar personalizat
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Pictogramă favorită implicită
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Floare
@@ -250,7 +236,6 @@ globe-avatar = Glob
 hammer-avatar = Ciocan
 heart-avatar = Inimă
 heart-rate-avatar = Frecvență cardiacă
-history-avatar = Istorie
 leaf-avatar = Frunză
 lightbulb-avatar = Bec
 makeup-avatar = Machiaj
@@ -265,7 +250,6 @@ plane-avatar = Avion
 present-avatar = Cadou
 shopping-avatar = Coș de cumpărături
 soccer-ball-avatar = Minge de fotbal
-soccer-avatar = Fotbal
 sparkle-single-avatar = Scânteie
 star-avatar = Stea
 video-game-controller-avatar = Controler de jocuri video

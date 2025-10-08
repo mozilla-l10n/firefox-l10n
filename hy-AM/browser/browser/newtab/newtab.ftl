@@ -380,7 +380,7 @@ newtab-wallpaper-abstract-blue-purple = Կապույտ և մանուշակագո
 newtab-wallpaper-abstract-white-curves = Սպիտակ՝ ստվերագծված կորերով
 newtab-wallpaper-abstract-purple-green = Մանուշակագույն և կանաչ լույսի գրադիենտ
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Լուսանկարներ
 newtab-wallpaper-beach-at-sunrise = Լողափ արևածագին
@@ -600,10 +600,6 @@ newtab-widget-timer-mode-focus =
     .label = Կենտրոնացում
 newtab-widget-timer-mode-break =
     .label = Ընդմիջում
-newtab-widget-timer-play =
-    .title = Նվագարկել
-newtab-widget-timer-pause =
-    .title = Դադար
 newtab-widget-timer-label-play =
     .label = Նվագարկել
 newtab-widget-timer-label-pause =

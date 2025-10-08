@@ -173,9 +173,7 @@ tabbrowser-manager-unmute-tab =
 tabbrowser-manager-close-tab =
     .tooltiptext = Tampar l’onglet
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-edit = Gerir lo grop d’onglets
 tab-group-editor-name-label = Nom

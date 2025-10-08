@@ -1386,8 +1386,6 @@ trustpanel-clear-cookies-subview-button-cancel = Sefsex
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Ammesten n tuqqna i { $host }
-trustpanel-connection-secure = Aqli-k teqqneḍ s wudem aɣelsan ɣeṛ usmel-a.
-trustpanel-connection-not-secure = Aqli-k ur teqqineḍ ara s wudem aɣelsan ɣeṛ usmel-a.
 trustpanel-siteinformation-morelink = Ugar n telɣut n usmel
 trustpanel-blocker-see-all = Wali akk
 # Variables

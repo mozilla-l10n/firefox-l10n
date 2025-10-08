@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = პორტფელი
 picture-avatar-alt =
     .alt = სურათი
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = გამოსახულება
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = ხელსაქმე
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = გულისცემა
 clock-avatar-alt =
     .alt = საათი
-history-avatar-alt =
-    .alt = ისტორია
 leaf-avatar-alt =
     .alt = ფოთოლი
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = საყიდლების კალათა
 soccer-ball-avatar-alt =
     .alt = ფეხბურთის ბურთი
-soccer-avatar-alt =
-    .alt = ფეხბურთი
 sparkle-single-avatar-alt =
     .alt = ნაპერწკალი
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = გლობუსი
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = ნაგულისხმევი ხატულა
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = ალმასი
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = წიგნი
 briefcase-avatar = პორტფელი
 clock-avatar = საათი
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = გამოსახულება
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = ხელსაქმე
 custom-avatar = მორგებული გამოსახულება
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = ნაგულისხმევი ხატულა
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = ალმასი
 flower-avatar = ყვავილი
@@ -250,7 +236,6 @@ globe-avatar = გლობუსი
 hammer-avatar = ჩაქუჩი
 heart-avatar = გული
 heart-rate-avatar = გულისცემა
-history-avatar = ისტორია
 leaf-avatar = ფოთოლი
 lightbulb-avatar = ნათურა
 makeup-avatar = საცხი
@@ -265,7 +250,6 @@ plane-avatar = თვითმფრინავი
 present-avatar = საჩუქარი
 shopping-avatar = საყიდლების კალათა
 soccer-ball-avatar = ფეხბურთის ბურთი
-soccer-avatar = ფეხბურთი
 sparkle-single-avatar = ნაპერწკალი
 star-avatar = ვარსკვლავი
 video-game-controller-avatar = ვიდეოთამაშის სამართავი

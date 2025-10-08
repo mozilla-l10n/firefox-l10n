@@ -222,9 +222,7 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Ventana atuale
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = Crea unu grupu de ischedas
 tab-group-editor-title-edit = Gesti su grupu de ischedas

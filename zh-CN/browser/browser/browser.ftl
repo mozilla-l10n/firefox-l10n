@@ -1449,8 +1449,6 @@ trustpanel-clear-cookies-subview-button-cancel = 取消
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = 连接保护：{ $host }
-trustpanel-connection-secure = 您已安全地连接至此网站。
-trustpanel-connection-not-secure = 您并未安全地连接至此网站。
 trustpanel-siteinformation-morelink = 更多网站信息
 trustpanel-blocker-see-all = 查看全部
 # Variables

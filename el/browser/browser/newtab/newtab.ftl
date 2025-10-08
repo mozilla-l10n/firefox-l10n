@@ -407,7 +407,7 @@ newtab-wallpaper-abstract-purple-green = Διαβάθμιση μοβ και πρ
 newtab-wallpaper-abstract-blue-purple-waves = Μπλε και μοβ κυματιστές μορφές
 newtab-wallpaper-abstract-black-waves = Μαύρες κυματιστές μορφές
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Φωτογραφίες
 newtab-wallpaper-beach-at-sunrise = Παραλία στην ανατολή του ήλιου
@@ -675,10 +675,6 @@ newtab-widget-timer-mode-focus =
     .label = Συγκέντρωση
 newtab-widget-timer-mode-break =
     .label = Διάλειμμα
-newtab-widget-timer-play =
-    .title = Αναπαραγωγή
-newtab-widget-timer-pause =
-    .title = Παύση
 newtab-widget-timer-label-play =
     .label = Αναπαραγωγή
 newtab-widget-timer-label-pause =

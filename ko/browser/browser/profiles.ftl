@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = 서류 가방
 picture-avatar-alt =
     .alt = 사진
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = 캔버스
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = 공예
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = 심박수
 clock-avatar-alt =
     .alt = 시계
-history-avatar-alt =
-    .alt = 기록
 leaf-avatar-alt =
     .alt = 잎
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = 장바구니
 soccer-ball-avatar-alt =
     .alt = 축구공
-soccer-avatar-alt =
-    .alt = 축구
 sparkle-single-avatar-alt =
     .alt = 불꽃
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = 지구
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = 기본 파비콘
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = 다이아몬드
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = 책
 briefcase-avatar = 서류 가방
 clock-avatar = 시계
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = 캔버스
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = 공예
 custom-avatar = 사용자 지정 아바타
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = 기본 파비콘
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = 다이아몬드
 flower-avatar = 꽃
@@ -250,7 +236,6 @@ globe-avatar = 지구
 hammer-avatar = 망치
 heart-avatar = 하트
 heart-rate-avatar = 심박수
-history-avatar = 기록
 leaf-avatar = 잎
 lightbulb-avatar = 전구
 makeup-avatar = 화장
@@ -265,7 +250,6 @@ plane-avatar = 비행기
 present-avatar = 선물
 shopping-avatar = 장바구니
 soccer-ball-avatar = 축구공
-soccer-avatar = 축구
 sparkle-single-avatar = 불꽃
 star-avatar = 별
 video-game-controller-avatar = 비디오 게임 컨트롤러

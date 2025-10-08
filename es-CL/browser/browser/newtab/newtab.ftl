@@ -403,7 +403,7 @@ newtab-wallpaper-abstract-purple-green = Gradiente de luz violeta y verde
 newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas de color azul y morado
 newtab-wallpaper-abstract-black-waves = Formas onduladas negras
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Fotografías
 newtab-wallpaper-beach-at-sunrise = Playa al amanecer
@@ -672,10 +672,6 @@ newtab-widget-timer-mode-focus =
     .label = Focus
 newtab-widget-timer-mode-break =
     .label = Descanso
-newtab-widget-timer-play =
-    .title = Reproducir
-newtab-widget-timer-pause =
-    .title = Pausar
 newtab-widget-timer-label-play =
     .label = Reproducir
 newtab-widget-timer-label-pause =

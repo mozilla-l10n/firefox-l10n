@@ -185,8 +185,6 @@ contextual-manager-passwords-update-password-success-heading =
 contextual-manager-passwords-update-password-success-button = Gorffen
 contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Enw defnyddiwr wedi'i gadw
-contextual-manager-passwords-update-username-success-heading-2 =
-    .heading = Enw defnyddiwr wedi'i ychwanegu
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

@@ -403,7 +403,7 @@ newtab-wallpaper-abstract-purple-green = Mor ve yeşil ışık geçişi
 newtab-wallpaper-abstract-blue-purple-waves = Mavi ve mor dalgalı şekiller
 newtab-wallpaper-abstract-black-waves = Siyah dalgalı şekiller
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Fotoğraflar
 newtab-wallpaper-beach-at-sunrise = Gün doğumunda sahil
@@ -672,10 +672,6 @@ newtab-widget-timer-mode-focus =
     .label = Odaklan
 newtab-widget-timer-mode-break =
     .label = Mola ver
-newtab-widget-timer-play =
-    .title = Başlat
-newtab-widget-timer-pause =
-    .title = Duraklat
 newtab-widget-timer-label-play =
     .label = Başlat
 newtab-widget-timer-label-pause =

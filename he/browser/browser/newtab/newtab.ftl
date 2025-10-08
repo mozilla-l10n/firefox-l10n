@@ -401,7 +401,7 @@ newtab-wallpaper-abstract-purple-green = מעברי צבע סגול וירוק
 newtab-wallpaper-abstract-blue-purple-waves = צורות גליות בצבע כחול וסגול
 newtab-wallpaper-abstract-black-waves = צורות גליות בצבע שחור
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = תצלומים
 newtab-wallpaper-beach-at-sunrise = זריחה בחוף הים
@@ -670,10 +670,6 @@ newtab-widget-timer-mode-focus =
     .label = ריכוז
 newtab-widget-timer-mode-break =
     .label = הפסקה
-newtab-widget-timer-play =
-    .title = הפעלה
-newtab-widget-timer-pause =
-    .title = השהייה
 newtab-widget-timer-label-play =
     .label = הפעלה
 newtab-widget-timer-label-pause =

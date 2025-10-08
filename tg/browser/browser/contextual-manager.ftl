@@ -160,8 +160,6 @@ contextual-manager-passwords-update-password-success-heading =
 contextual-manager-passwords-update-password-success-button = Тайёр
 contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Номи корбар нигоҳ дошта шуд
-contextual-manager-passwords-update-username-success-heading-2 =
-    .heading = Номи корбар илова карда шуд
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

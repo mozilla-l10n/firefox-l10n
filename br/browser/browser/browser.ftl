@@ -1247,6 +1247,5 @@ file-picker-crashed-show-in-folder =
 
 trustpanel-clear-cookies-subview-button-clear = Skarzhañ
 trustpanel-clear-cookies-subview-button-cancel = Nullañ
-trustpanel-connection-not-secure = N’oc’h ket kennasket d’al lec’hienn-mañ en un doare sur.
 trustpanel-siteinformation-morelink = Muioc’h a ditouroù diwar-benn al lec’hienn
 trustpanel-blocker-see-all = Gwelet pep tra

@@ -1494,8 +1494,6 @@ trustpanel-clear-cookies-subview-button-cancel = Atcelt
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Savienojuma aizsardzība { $host }
-trustpanel-connection-secure = Savienojums ar šo vietni ir drošs.
-trustpanel-connection-not-secure = Savienojums ar šo vietni nav drošs.
 trustpanel-siteinformation-morelink = Vairāk informācijas par vietni
 trustpanel-blocker-see-all = Redzēt visu
 # Variables

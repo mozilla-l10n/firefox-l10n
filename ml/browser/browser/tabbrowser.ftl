@@ -89,9 +89,7 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — നിലവിലുള്ള ജാലകം
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = ടാബുക്കൂട്ടം ഉണ്ടാക്കുക
 tab-group-editor-name-label = പേരു്

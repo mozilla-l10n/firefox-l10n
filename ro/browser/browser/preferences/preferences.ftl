@@ -1570,7 +1570,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } rămâne fără spațiu pe disc. </strong>Este posibil ca conținutul site-urilor web să nu fie afișat corespunzător. Poți șterge datele stocate în Setări > Confidențialitate și securitate > Cookie-uri și date ale site-urilor.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } rămâne fără spațiu pe disc.</strong> Este posibil va conținutul site-urilor web să nu fie afișat corespunzător. Intră pe „Află mai multe” ca să îți optimizezi utilizarea spațiului pe disc pentru o mai bună experiență la navigare.
-certs-description = Configurează certificatele pe care { -brand-short-name } le folosește pentru autentificare.
 certs-description2 =
     .label = Certificate
     .description = Configurează certificatele pe care { -brand-short-name } le folosește pentru autentificare.

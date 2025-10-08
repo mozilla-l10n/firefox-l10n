@@ -1064,9 +1064,6 @@ sitedata-cookies-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
 
-## Privacy Section - Cookie Banner Handling
-
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Թխուկների ազդերիզի արգելափակիչ

@@ -135,9 +135,7 @@ tabbrowser-context-unmute-selected-tabs =
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Ilista ang lahat ng { $tabCount } na tab
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = Gumawa ng tab group
 tab-group-editor-color-selector =

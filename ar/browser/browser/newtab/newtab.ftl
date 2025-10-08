@@ -370,7 +370,7 @@ newtab-wallpaper-abstract-orange = أشكال برتقالية
 newtab-wallpaper-gradient-orange = تدرج اللون البرتقالي والوردي
 newtab-wallpaper-abstract-blue-purple = الأشكال الزرقاء والأرجوانية
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-white-mountains = جبال بيضاء
 newtab-wallpaper-feature-highlight-header = جرب دفقة من الألوان

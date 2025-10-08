@@ -159,9 +159,6 @@ briefcase-avatar-alt =
     .alt = Tas Kerja
 picture-avatar-alt =
     .alt = Gambar
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Kanvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Kerajinan
@@ -177,8 +174,6 @@ heart-rate-avatar-alt =
     .alt = Detak jantung
 clock-avatar-alt =
     .alt = Jam
-history-avatar-alt =
-    .alt = Riwayat
 leaf-avatar-alt =
     .alt = Daun
 lightbulb-avatar-alt =
@@ -201,17 +196,12 @@ present-avatar-alt =
     .alt = Hadiah
 shopping-avatar-alt =
     .alt = Keranjang belanja
-soccer-avatar-alt =
-    .alt = Sepak Bola
 sparkle-single-avatar-alt =
     .alt = Berkilau
 star-avatar-alt =
     .alt = Bintang
 custom-avatar-alt =
     .alt = Avatar ubahan
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Favicon baku
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Berlian
@@ -224,13 +214,9 @@ bike-avatar-alt =
 
 book-avatar = Buku
 briefcase-avatar = Tas Kerja
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Kanvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Kerajinan
 custom-avatar = Avatar ubahan
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Favicon baku
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Berlian
 flower-avatar = Bunga

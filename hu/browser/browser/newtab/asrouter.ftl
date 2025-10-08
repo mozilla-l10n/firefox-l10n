@@ -320,6 +320,7 @@ fxa-menu-message-sign-in-button = Bejelentkezés
 fxa-menu-message-sync-button = Szinkronizálás indítása
 fxa-menu-message-sync-devices-primary-text = Szinkronizálja az összes eszközét
 fxa-menu-message-sync-devices-secondary-text = Azonnal kapja meg az adatait – mint a könyvjelzők és a jelszavak – mindenhol, ahol a { -brand-short-name }ot használja.
+fxa-menu-message-sync-devices-secondary-text2 = Azonnal kapja meg a könyvjelzőit, jelszavait és a többit – bárhol, ahol bejelentkezik a { -brand-short-name }ba.
 fxa-menu-message-sync-devices-collapsed-text = Szinkronizálja az összes eszközét
 fxa-menu-message-backup-data-primary-text = Készítsen biztonsági mentést a böngészési adatairól
 fxa-menu-message-backup-data-secondary-text = Automatikusan védje meg a könyvjelzőket, jelszavakat és egyéb információkat az összes eszközén.
@@ -366,15 +367,18 @@ windows-10-eos-sync-toast-secondary-label = Figyelmeztetés később
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = A { -brand-product-name } nincs előre telepítve, mint a többi nagy technológiai vállalat böngészője. Pont ez a lényeg.
 windows-10-eos-challenger-sync-callout-subtitle = Ha biztonsági mentést készít a { -brand-product-name } könyvjelzőiről és jelszavairól, könnyebben áthozhatja a választott böngészőjét a következő eszközére.
 windows-10-eos-challenger-pin-callout-subtitle = Rögzítse a { -brand-shorter-name } böngészőt a tálcán, hogy mindig ott legyen, ha szüksége van rá.
 windows-10-eos-challenger-sync-primary-button = Mentse le a { -brand-shorter-name } adatait
 windows-10-eos-challenger-pin-primary-button = A { -brand-shorter-name } kitűzése
 windows-10-eos-sync-callout-privacy-screen-1-title = A { -brand-product-name } blokkolja a kriptobányászokat, a közösségi média nyomkövetőit és az ujjlenyomat-készítőket.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = A nyomkövetők nem tudják azonosítani az eszközét, és nem követhetik az interneten — mert nem hagyjuk nekik.
+windows-10-eos-sync-callout-privacy-screen-2-title = Helyezze biztonságba a jelszavait és a könyvjelzőit a következő eszközéhez.
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = A { -brand-shorter-name } biztonsági mentésével könnyen magával viheti az adatait és az adatvédelmi beállításait.
 windows-10-eos-sync-callout-privacy-info-button = Nézze meg, mi lett blokkolva
 windows-10-eos-callout-addons-title = Próbálja ki a kiegészítőket: egyszerű frissítések, nagy hatások
+windows-10-eos-callout-addons-subtitle = Ezeket a kiegészítőket azért választottuk, hogy segítsenek Önnek abban, hogy produktív, védett és zavartalan maradjon.
 windows-10-eos-callout-addons-primary-button = Lássa a választásainkat
 windows-10-eos-sync-callout-addons-title = Ne veszítse el kiegészítőit, amikor Windows 10-ről frissít.
 windows-10-eos-sync-callout-addons-subtitle = Szinkronizáljon most, hogy a { -brand-product-name } kiegészítői mindig elérhetőek legyenek, még eszközváltás után is.

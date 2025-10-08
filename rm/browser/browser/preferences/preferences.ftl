@@ -1550,7 +1550,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>La capacitad da memorisar da { -brand-short-name } è prest exausta.</strong> Il cuntegn da websites na vegn eventualmain betg visualisà endretg. Ti pos stizzar datas memorisadas en Parameters > Protecziun da datas & segirezza > Cookies e datas da websites.
 space-alert-under-5gb-message2 = <strong>La memoria da { -brand-short-name } è prest plaina.</strong> Il cuntegn da websites na vegn eventualmain betg pli visualisà endretg. Clicca sin «Ulteriuras infurmaziuns» per optimar l'utilisaziun da la memoria e per meglierar la prestaziun durant la navigaziun.
-certs-description = Configurar ils certificats che { -brand-short-name } utilisescha per l’autentificaziun.
 certs-description2 =
     .label = Certificats
     .description = Configurar ils certificats che { -brand-short-name } utilisescha per l’autentificaziun.

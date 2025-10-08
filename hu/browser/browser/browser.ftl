@@ -1479,8 +1479,6 @@ trustpanel-clear-cookies-subview-button-cancel = Mégse
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = A(z) { $host } kapcsolatának védelmei
-trustpanel-connection-secure = Biztonságosan kapcsolódik ehhez az oldalhoz.
-trustpanel-connection-not-secure = Nem biztonságosan kapcsolódik ehhez az oldalhoz.
 trustpanel-siteinformation-morelink = További webhely-információk
 trustpanel-blocker-see-all = Összes megjelenítése
 # Variables

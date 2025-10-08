@@ -262,6 +262,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Sötét
     .title = Sötét megjelenés használata a webhelyek hátteréhez és tartalmához.
+web-appearance-group =
+    .aria-label = Webhely megjelenése
 preferences-web-appearance-choice-auto = Automatikus
 preferences-web-appearance-choice-light = Világos
 preferences-web-appearance-choice-dark = Sötét
@@ -1077,6 +1079,28 @@ autofill-saved-payment-methods-button = Mentett fizetési módok
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Az eszköz által biztosított bejelentkezés megkövetelése a fizetési módok kitöltéséhez és kezeléséhez
     .accesskey = o
+autofill-payment-methods-title = Fizetési módok
+autofill-payment-methods-header =
+    .aria-label = Fizetési módok
+autofill-payment-methods-checkbox-message-2 =
+    .label = Fizetési információk mentése és automatikus kitöltése
+    .accesskey = f
+autofill-payment-methods-manage-payments-button =
+    .label = Fizetési módok kezelése
+    .accesskey = k
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Az eszköz által biztosított bejelentkezés megkövetelése a fizetési módok automatikus kitöltéséhez és kezeléséhez
+    .accesskey = m
+autofill-addresses-title = Címek és egyebek
+autofill-addresses-header =
+    .aria-label = Címek és egyebek
+autofill-addresses-checkbox-message =
+    .label = Címek mentése és automatikus kitöltése
+    .accesskey = C
+autofill-addresses-manage-addresses-button =
+    .label = Címek és egyebek kezelése
+    .accesskey = k
 
 ## Privacy Section - History
 
@@ -1122,7 +1146,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Sütik és oldaladatok
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Az oldaladatok és a gyorsítótár méretének kiszámítása…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = A tárolt sütik, előzmények, oldaladatok és a gyorsítótár jelenleg <strong>{ $value } { $unit }</strong> területet foglalnak el a lemezen.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1149,6 +1179,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Weboldalak közti nyomkövetők
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Webhelyek közötti nyomkövető sütik
+sitedata-option-block-cross-site-cookies2 =
+    .label = Webhelyek közötti sütik elkülönítése
 sitedata-option-block-cross-site-cookies =
     .label = Webhelyek közötti követő és egyéb webhelyek közötti sütik elkülönítése
 sitedata-option-block-unvisited =
@@ -1157,6 +1189,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Összes webhelyek közötti süti (egyes weboldalak működésképtelenné fognak válni)
 sitedata-option-block-all =
     .label = Minden süti (egyes weboldalak működésképtelenné fognak válni)
+sitedata-clear2 =
+    .label = Böngészési adatok törlése
+    .accesskey = t
+sitedata-settings2 =
+    .label = Böngészési adatok kezelése
+    .accesskey = k
 sitedata-clear =
     .label = Adatok törlése…
     .accesskey = t
@@ -1166,6 +1204,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Kivételek kezelése…
     .accesskey = K
+sitedata-cookies-exceptions2 =
+    .label = Kivételek kezelése
+    .accesskey = v
+    .description = Megadhatja, hogy mely webhelyek használhatnak mindig vagy soha sütiket és oldaladatokat.
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1273,6 +1315,7 @@ content-blocking-private-windows = Követés elleni védelem a privát ablakokba
 content-blocking-cross-site-cookies-in-all-windows2 = Webhelyek közötti sütik az összes ablakban
 content-blocking-cross-site-tracking-cookies = Webhelyek közötti nyomkövető sütik
 content-blocking-all-cross-site-cookies-private-windows = Webhelyek közötti sütik a privát ablakokban
+content-blocking-isolate-cross-site-cookies = Webhelyek közötti sütik elkülönítése
 content-blocking-cross-site-tracking-cookies-plus-isolate = Webhelyek közötti követők, és a fennmaradó sütik elkülönítése
 content-blocking-social-media-trackers = Közösségimédia-követők
 content-blocking-all-cookies = Minden süti
@@ -1294,10 +1337,18 @@ content-blocking-etp-standard-tcp-rollout-learn-more = További tudnivalók
 content-blocking-etp-standard-tcp-title = Tartalmazza a Teljes sütivédelmet, a valaha volt leghatékonyabb adatvédelmi funkciónkat
 content-blocking-warning-title = Figyelem!
 content-blocking-warning-title-2 = Egyes oldalak meghibásodhatnak a szigorú védelemmel
+content-blocking-warning-title-custom = Egyes oldalak meghibásodhatnak az egyéni védelemmel
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = A { -brand-short-name } a „Webhelyek javítása” beállítás használatát javasolja, hogy csökkentse a hibás funkciók és tartalmak számát. Ha egy webhely hibásnak tűnik, próbálja meg kikapcsolni a követésvédelmet azon az oldalon, hogy betöltse az összes tartalmat.
 content-blocking-and-isolating-etp-warning-description-2 = A beállítás azt eredményezheti, hogy egyes webhelyek nem megfelelően jelennek meg vagy működnek. Ha egy oldal hibásnak tűnik, akkor az összes tartalom betöltéséhez kikapcsolhatja a követés elleni védelmet.
 content-blocking-warning-learn-how = Tudja meg, hogyan
+content-blocking-baseline-exceptions-3 =
+    .label = Nagy webhelyhibák javítása (ajánlott)
+    .description = Segít a webhelyek és funkciók betöltésében azáltal, hogy feloldja az esetlegesen nyomkövetőket tartalmazó létfontosságú elemeket. Ez lefedi a legtöbb problémát.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Kisebb webhelyhibák javítása
+    .description = Visszaállítja az olyan esetlegesen nyomkövetőket tartalmazó dolgokat, mint a cikkekben szereplő videók vagy a hozzászólások. Ez csökkenti a webhelyek problémáit, de kevesebb védelmet nyújt. A legnagyobb problémák javításaival együtt használandó.
 content-blocking-baseline-uncheck-warning-dialog-title = Biztos, hogy kikapcsolja a javításokat?
 content-blocking-baseline-uncheck-warning-dialog-body = Ez a beállítás segít megoldani a leggyakoribb webhely-problémákat. Ha kikapcsolja, előfordulhat, hogy egyes webhelyek nem fognak működni, és a { -brand-short-name } nem fog tudni segíteni a hibaelhárításban.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Javítások kikapcsolása
@@ -1393,6 +1444,9 @@ permissions-autoplay = Automatikus lejátszás
 permissions-autoplay-settings =
     .label = Beállítások…
     .accesskey = B
+permissions-block-popups2 =
+    .label = Felugró ablakok és külső átirányítások blokkolása
+    .accesskey = b
 permissions-block-popups =
     .label = Felugró ablakok tiltása
     .accesskey = F

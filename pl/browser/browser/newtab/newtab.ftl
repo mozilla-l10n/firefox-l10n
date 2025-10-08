@@ -407,7 +407,7 @@ newtab-wallpaper-abstract-purple-green = Gradient fioletowego i zielonego świa
 newtab-wallpaper-abstract-blue-purple-waves = Niebieskie i fioletowe faliste kształty
 newtab-wallpaper-abstract-black-waves = Czarne faliste kształty
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Zdjęcia
 newtab-wallpaper-beach-at-sunrise = Plaża o wschodzie słońca
@@ -676,10 +676,6 @@ newtab-widget-timer-mode-focus =
     .label = Skupienie
 newtab-widget-timer-mode-break =
     .label = Przerwa
-newtab-widget-timer-play =
-    .title = Rozpocznij
-newtab-widget-timer-pause =
-    .title = Wstrzymaj
 newtab-widget-timer-label-play =
     .label = Rozpocznij
 newtab-widget-timer-label-pause =

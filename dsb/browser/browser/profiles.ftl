@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Listowka
 picture-avatar-alt =
     .alt = Wobraz
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Rucnikaŕstwo
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Dybot wutšoby
 clock-avatar-alt =
     .alt = Zeger
-history-avatar-alt =
-    .alt = Historija
 leaf-avatar-alt =
     .alt = Łopjeno
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Nakupowański wózyk
 soccer-ball-avatar-alt =
     .alt = Kopańcowe balo
-soccer-avatar-alt =
-    .alt = Kopańca
 sparkle-single-avatar-alt =
     .alt = Błyskanje
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Globus
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Standardny fawikon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Knigły
 briefcase-avatar = Listowka
 clock-avatar = Zeger
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Rucnikaŕstwo
 custom-avatar = Swójski awatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Standardny fawikon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Kwětk
@@ -250,7 +236,6 @@ globe-avatar = Globus
 hammer-avatar = Klapac
 heart-avatar = Wutšoba
 heart-rate-avatar = Dybot wutšoby
-history-avatar = Historija
 leaf-avatar = Łopjeno
 lightbulb-avatar = Žaglawka
 makeup-avatar = Makeup
@@ -265,7 +250,6 @@ plane-avatar = Lětadło
 present-avatar = Dar
 shopping-avatar = Nakupowański wózyk
 soccer-ball-avatar = Kopańcowe balo
-soccer-avatar = Kopańca
 sparkle-single-avatar = Błyskanje
 star-avatar = Gwězda
 video-game-controller-avatar = Kontroler za wideograśa

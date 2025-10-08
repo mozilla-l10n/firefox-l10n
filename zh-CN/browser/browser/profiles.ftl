@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = 公文包
 picture-avatar-alt =
     .alt = 照片
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = 画布
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = 手工
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = 心率
 clock-avatar-alt =
     .alt = 时钟
-history-avatar-alt =
-    .alt = 历史记录
 leaf-avatar-alt =
     .alt = 叶子
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = 购物车
 soccer-ball-avatar-alt =
     .alt = 足球
-soccer-avatar-alt =
-    .alt = 足球
 sparkle-single-avatar-alt =
     .alt = 星芒
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = 地球
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = 默认网站图标
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = 钻石
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = 书本
 briefcase-avatar = 公文包
 clock-avatar = 时钟
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = 画布
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = 手工
 custom-avatar = 自定义图标
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = 默认网站图标
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = 钻石
 flower-avatar = 花朵
@@ -250,7 +236,6 @@ globe-avatar = 地球
 hammer-avatar = 锤子
 heart-avatar = 爱心
 heart-rate-avatar = 心率
-history-avatar = 历史记录
 leaf-avatar = 叶子
 lightbulb-avatar = 灯泡
 makeup-avatar = 化妆
@@ -265,7 +250,6 @@ plane-avatar = 飞机
 present-avatar = 礼物
 shopping-avatar = 购物车
 soccer-ball-avatar = 足球
-soccer-avatar = 足球
 sparkle-single-avatar = 星芒
 star-avatar = 星星
 video-game-controller-avatar = 视频游戏控制器

@@ -67,9 +67,7 @@ tabbrowser-context-unmute-tab =
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = అన్ని { $tabCount } ట్యాబ్లను జాబితాచేయి
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-name-label = పేరు
 tab-group-editor-cancel =

@@ -1566,7 +1566,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } is running out of disk space.</strong> Web site contents may not display properly. You can clear stored data in Settings > Privacy & Security > Cookies and Site Data.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } is running out of disk space.</strong> Web site contents may not display properly. Visit “Learn more” to optimise your disk usage for better browsing experience.
-certs-description = Configure the certificates that { -brand-short-name } uses for authentication.
 certs-description2 =
     .label = Certificates
     .description = Configure the certificates that { -brand-short-name } uses for authentication.

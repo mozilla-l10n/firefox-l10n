@@ -194,9 +194,7 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Cửa sổ hiện tại
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = Tạo nhóm thẻ
 tab-group-editor-title-edit = Quản lý nhóm thẻ

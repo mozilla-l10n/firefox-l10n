@@ -1505,8 +1505,6 @@ trustpanel-clear-cookies-subview-button-cancel = Pśetergnuś
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Zwiskowy šćit za { $host }
-trustpanel-connection-secure = Sćo wěsće zwězany z toś tym sedłom.
-trustpanel-connection-not-secure = Njejsćo wěsće zwězany z toś tym sedłom.
 trustpanel-siteinformation-morelink = Dalšne sedłowe informacije
 trustpanel-blocker-see-all = Wšykne pokazaś
 # Variables

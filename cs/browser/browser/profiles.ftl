@@ -181,9 +181,6 @@ briefcase-avatar-alt =
     .alt = Kufřík
 picture-avatar-alt =
     .alt = Obrázek
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Řemeslo
@@ -199,8 +196,6 @@ heart-rate-avatar-alt =
     .alt = Srdeční frekvence
 clock-avatar-alt =
     .alt = Hodiny
-history-avatar-alt =
-    .alt = Historie
 leaf-avatar-alt =
     .alt = List
 lightbulb-avatar-alt =
@@ -225,8 +220,6 @@ shopping-avatar-alt =
     .alt = Nákupní košík
 soccer-ball-avatar-alt =
     .alt = Fotbalový míč
-soccer-avatar-alt =
-    .alt = Fotbal
 sparkle-single-avatar-alt =
     .alt = Sparkle
 star-avatar-alt =
@@ -238,9 +231,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Zeměkoule
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Výchozí ikona stránky
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -254,13 +244,9 @@ bike-avatar-alt =
 book-avatar = Kniha
 briefcase-avatar = Kufřík
 clock-avatar = Hodiny
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Plátno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Řemeslo
 custom-avatar = Vlastní avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Výchozí ikona stránky
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Květina
@@ -270,7 +256,6 @@ globe-avatar = Zeměkoule
 hammer-avatar = Kladivo
 heart-avatar = Srdce
 heart-rate-avatar = Srdeční frekvence
-history-avatar = Historie
 leaf-avatar = List
 lightbulb-avatar = Žárovka
 makeup-avatar = Líčení
@@ -285,7 +270,6 @@ plane-avatar = Letadlo
 present-avatar = Dárek
 shopping-avatar = Nákupní košík
 soccer-ball-avatar = Fotbalový míč
-soccer-avatar = Fotbal
 sparkle-single-avatar = Sparkle
 star-avatar = Hvězdička
 video-game-controller-avatar = Ovladač pro videohry

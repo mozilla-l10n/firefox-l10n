@@ -132,9 +132,6 @@ book-avatar-alt =
     .alt = Bók
 briefcase-avatar-alt =
     .alt = Skjalataska
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Myndflötur
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Handverk
@@ -148,8 +145,6 @@ heart-avatar-alt =
     .alt = Hjarta
 heart-rate-avatar-alt =
     .alt = Hjartsláttur
-history-avatar-alt =
-    .alt = Ferill
 leaf-avatar-alt =
     .alt = Lauf
 lightbulb-avatar-alt =
@@ -172,8 +167,6 @@ present-avatar-alt =
     .alt = Gjöf
 shopping-avatar-alt =
     .alt = Innkaupakarfa
-soccer-avatar-alt =
-    .alt = Fótbolti
 sparkle-single-avatar-alt =
     .alt = Glitrandi
 star-avatar-alt =
@@ -182,9 +175,6 @@ video-game-controller-avatar-alt =
     .alt = Leikjastýring
 custom-avatar-alt =
     .alt = Sérsniðin auðkennismynd
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Sjálfgefið veftákn
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Demantur
@@ -195,13 +185,9 @@ bike-avatar-alt =
 
 book-avatar = Bók
 briefcase-avatar = Skjalataska
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Myndflötur
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Handverk
 custom-avatar = Sérsniðin auðkennismynd
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Sjálfgefið veftákn
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Demantur
 flower-avatar = Blóm

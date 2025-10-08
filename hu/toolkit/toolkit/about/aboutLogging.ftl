@@ -103,4 +103,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Webcím m
 about-logging-upload-error = Hiba történt a profil feltöltésekor: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Hiba történt a feltöltött profil tárolása során: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Hiba történt a fájl mentésekor: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Feltöltött profilok
+about-logging-no-uploaded-profiles = Még egy profil sem lett feltöltve.
+about-logging-delete-uploaded-profile = Törlés
+about-logging-view-uploaded-profile = Profil megtekintése
+about-logging-delete-profile-confirm-title = Profil törlése
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Biztos, hogy törli ezt a profilt: „{ $profileName }”? Ez nem vonható vissza.
+about-logging-deleting-profile = Törlés…

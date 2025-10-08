@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Briefcase
 picture-avatar-alt =
     .alt = Picture
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Craft
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Heart rate
 clock-avatar-alt =
     .alt = Clock
-history-avatar-alt =
-    .alt = History
 leaf-avatar-alt =
     .alt = Leaf
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Shopping basket
 soccer-ball-avatar-alt =
     .alt = Football
-soccer-avatar-alt =
-    .alt = Football
 sparkle-single-avatar-alt =
     .alt = Sparkle
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Globe
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Default favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamond
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Book
 briefcase-avatar = Briefcase
 clock-avatar = Clock
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Craft
 custom-avatar = Custom avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Default favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamond
 flower-avatar = Flower
@@ -250,7 +236,6 @@ globe-avatar = Globe
 hammer-avatar = Hammer
 heart-avatar = Heart
 heart-rate-avatar = Heart rate
-history-avatar = History
 leaf-avatar = Leaf
 lightbulb-avatar = Lightbulb
 makeup-avatar = Makeup
@@ -265,7 +250,6 @@ plane-avatar = Plane
 present-avatar = Present
 shopping-avatar = Shopping basket
 soccer-ball-avatar = Football
-soccer-avatar = Football
 sparkle-single-avatar = Sparkle
 star-avatar = Star
 video-game-controller-avatar = Video game controller

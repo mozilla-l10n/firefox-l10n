@@ -406,7 +406,7 @@ newtab-wallpaper-abstract-purple-green = Isfumadura de lughe tanada e birde
 newtab-wallpaper-abstract-blue-purple-waves = Formas a undas biaitas e tanadas
 newtab-wallpaper-abstract-black-waves = Formas a undas nieddas
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Fotografias
 newtab-wallpaper-beach-at-sunrise = Ispiàgia in s'arbeschidòrgiu
@@ -664,10 +664,6 @@ newtab-widget-timer-mode-focus =
     .label = Cuntzentratzione
 newtab-widget-timer-mode-break =
     .label = Pàusa
-newtab-widget-timer-play =
-    .title = Avia
-newtab-widget-timer-pause =
-    .title = Pàusa
 newtab-widget-timer-label-play =
     .label = Avia
 newtab-widget-timer-label-pause =

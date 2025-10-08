@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Ne jelenjen meg újra
     .accesskey = N
 sandbox-unprivileged-namespaces-howtofix = Hogyan javíthatja a problémát
+sandbox-content-disabled-warning = A biztonsági homokozó le van tiltva. A konfiguráció nem támogatott és kevésbé biztonságos.

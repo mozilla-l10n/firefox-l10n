@@ -392,7 +392,7 @@ newtab-wallpaper-abstract-purple-green = Purple and green light gradient
 newtab-wallpaper-abstract-blue-purple-waves = Blue and purple wavy shapes
 newtab-wallpaper-abstract-black-waves = Black wavy shapes
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Photographs
 newtab-wallpaper-beach-at-sunrise = Beach at sunrise
@@ -606,8 +606,6 @@ newtab-trending-searches-title = Trending searches
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
-newtab-widget-timer-pause =
-    .title = Pause
 newtab-widget-timer-label-play =
     .label = Play
 newtab-widget-timer-label-pause =

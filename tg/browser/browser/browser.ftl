@@ -1474,8 +1474,6 @@ trustpanel-clear-cookies-subview-button-cancel = Бекор кардан
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Муҳофизати пайваст бо { $host }
-trustpanel-connection-secure = Шумо ба ин сомона тавассути шабакаи муҳофизатшуда пайваст шудед.
-trustpanel-connection-not-secure = Шумо ба ин сомона тавассути шабакаи муҳофизатнашуда пайваст шудед.
 trustpanel-siteinformation-morelink = Маълумоти бештар дар бораи сомона
 trustpanel-blocker-see-all = Ҳамаро дидан
 # Variables

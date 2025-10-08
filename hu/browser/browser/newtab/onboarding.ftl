@@ -493,4 +493,5 @@ restored-from-backup-success-with-checklist-primary-button = Mentés és folytat
 restored-from-backup-success-with-checklist-secondary-button = Lépés kihagyása
 restored-from-backup-success-no-checklist-primary-button = Folytatás
 restored-from-backup-error-title = Hmm, probléma volt a biztonsági mentési fájljával.
+restored-from-backup-error-subtitle = Ha van másik { -brand-short-name } biztonsági mentési fájlja, akkor próbálja meg abból a fájlból helyreállítani. <a data-l10n-name="restore-problems">Továbbra is fennáll a problémája?</a>
 restored-from-backup-error-primary-button = Bezárás

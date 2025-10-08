@@ -377,7 +377,7 @@ newtab-wallpaper-abstract-orange = Forma laranjak
 newtab-wallpaper-gradient-orange = Gradiente laranja eta arrosa
 newtab-wallpaper-abstract-blue-purple = Forma urdin eta moreak
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Argazkiak
 newtab-wallpaper-beach-at-sunrise = Hondartza egunsentian
@@ -540,10 +540,6 @@ newtab-widget-timer-mode-focus =
     .label = Kontzentratzeko denbora
 newtab-widget-timer-mode-break =
     .label = Atsedena
-newtab-widget-timer-play =
-    .title = Erreproduzitu
-newtab-widget-timer-pause =
-    .title = Pausatu
 newtab-widget-timer-label-play =
     .label = Erreproduzitu
 newtab-widget-timer-label-pause =

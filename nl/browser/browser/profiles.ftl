@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Werkmap
 picture-avatar-alt =
     .alt = Afbeelding
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Knutselen
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Hartslag
 clock-avatar-alt =
     .alt = Klok
-history-avatar-alt =
-    .alt = Geschiedenis
 leaf-avatar-alt =
     .alt = Blad
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Winkelwagen
 soccer-ball-avatar-alt =
     .alt = Voetbal
-soccer-avatar-alt =
-    .alt = Voetbal
 sparkle-single-avatar-alt =
     .alt = Glitter
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Wereldbol
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Standaardfavicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Boek
 briefcase-avatar = Werkmap
 clock-avatar = Klok
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Knutselen
 custom-avatar = Aangepaste avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Standaardfavicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Bloem
@@ -250,7 +236,6 @@ globe-avatar = Wereldbol
 hammer-avatar = Hamer
 heart-avatar = Hart
 heart-rate-avatar = Hartslag
-history-avatar = Geschiedenis
 leaf-avatar = Blad
 lightbulb-avatar = Gloeilamp
 makeup-avatar = Make-up
@@ -265,7 +250,6 @@ plane-avatar = Vliegtuig
 present-avatar = Kado
 shopping-avatar = Winkelwagen
 soccer-ball-avatar = Voetbal
-soccer-avatar = Voetbal
 sparkle-single-avatar = Glitter
 star-avatar = Ster
 video-game-controller-avatar = Videogamecontroller

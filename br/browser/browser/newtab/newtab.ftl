@@ -336,7 +336,7 @@ newtab-wallpaper-abstract-purple = Furmoù limestra
 newtab-wallpaper-abstract-orange = Furmoù orañjez
 newtab-wallpaper-abstract-blue-purple = Furmoù limestra hag orañjez
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Fotoioù
 newtab-wallpaper-beach-at-sunrise = Traezhenn e-pad ar sav-heol

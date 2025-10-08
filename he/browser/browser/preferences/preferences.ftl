@@ -1553,7 +1553,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = ה
 space-alert-over-5gb-message2 = <strong>ל־{ -brand-short-name } אוזל שטח הדיסק.</strong> יתכן שתכני אתרים לא יוצגו כשורה. ניתן למחוק נתונים שמורים בהגדרות > פרטיות ואבטחה > עוגיות ונתוני אתרים.
 space-alert-under-5gb-message2 = <strong>ל־{ -brand-short-name } אוזל שטח הדיסק.</strong> יתכן שנתוני אתרים לא יוצגו כשורה. ניתן לבקר בקישור של “מידע נוסף” כדי לייעל את אופן השימוש בדיסק לחוויית גלישה טובה יותר.
-certs-description = הגדרת התצורה של האישורים שבהם { -brand-short-name } משתמש לצורך אימות.
 certs-description2 =
     .label = אישורים
     .description = הגדרת התצורה של האישורים שבהם { -brand-short-name } משתמש לצורך אימות.

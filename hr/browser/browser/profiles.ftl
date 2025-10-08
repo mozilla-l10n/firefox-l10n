@@ -116,9 +116,6 @@ book-avatar-alt =
     .alt = Knjiga
 briefcase-avatar-alt =
     .alt = Aktovka
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Platno
 flower-avatar-alt =
     .alt = Cvijet
 folder-avatar-alt =
@@ -129,8 +126,6 @@ heart-avatar-alt =
     .alt = Srce
 heart-rate-avatar-alt =
     .alt = Otkucaji srca
-history-avatar-alt =
-    .alt = Povijest
 leaf-avatar-alt =
     .alt = List
 lightbulb-avatar-alt =
@@ -153,8 +148,6 @@ present-avatar-alt =
     .alt = Poklon
 shopping-avatar-alt =
     .alt = Kolica za kupnju
-soccer-avatar-alt =
-    .alt = Nogomet
 sparkle-single-avatar-alt =
     .alt = Iskra
 star-avatar-alt =
@@ -163,9 +156,6 @@ video-game-controller-avatar-alt =
     .alt = Kontroler za videoigre
 custom-avatar-alt =
     .alt = Prilagođeni avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Standardni favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Dijamant
@@ -178,11 +168,7 @@ bike-avatar-alt =
 
 book-avatar = Knjiga
 briefcase-avatar = Aktovka
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Platno
 custom-avatar = Prilagođeni avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Standardni favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Dijamant
 flower-avatar = Cvijet
@@ -190,7 +176,6 @@ folder-avatar = Mapa
 hammer-avatar = Čekić
 heart-avatar = Srce
 heart-rate-avatar = Otkucaji srca
-history-avatar = Povijest
 leaf-avatar = List
 lightbulb-avatar = Žarulja
 makeup-avatar = Šminka

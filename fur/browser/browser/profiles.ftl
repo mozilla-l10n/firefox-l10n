@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Valisute
 picture-avatar-alt =
     .alt = Cuadri
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Tele
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Artesanât
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Frecuence cardiache
 clock-avatar-alt =
     .alt = Orloi
-history-avatar-alt =
-    .alt = Cronologjie
 leaf-avatar-alt =
     .alt = Fuee
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Carel de spese
 soccer-ball-avatar-alt =
     .alt = Balon
-soccer-avatar-alt =
-    .alt = Balon
 sparkle-single-avatar-alt =
     .alt = Faliscje
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Globi
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Icone predefinide
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Libri
 briefcase-avatar = Valisute
 clock-avatar = Orloi
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Tele
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Artesanât
 custom-avatar = Icone personalizade
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Icone predefinide
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Rose
@@ -250,7 +236,6 @@ globe-avatar = Globi
 hammer-avatar = Martiel
 heart-avatar = Cûr
 heart-rate-avatar = Frecuence cardiache
-history-avatar = Cronologjie
 leaf-avatar = Fuee
 lightbulb-avatar = Lampadine
 makeup-avatar = Sbelet
@@ -265,7 +250,6 @@ plane-avatar = Avion
 present-avatar = Regâl
 shopping-avatar = Carel de spese
 soccer-ball-avatar = Balon
-soccer-avatar = Balon
 sparkle-single-avatar = Faliscje
 star-avatar = Stele
 video-game-controller-avatar = Controller par video zûcs

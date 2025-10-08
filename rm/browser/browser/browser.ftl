@@ -1471,8 +1471,6 @@ trustpanel-clear-cookies-subview-button-cancel = Interrumper
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Protecziuns da la connexiun per { $host }
-trustpanel-connection-secure = Ti es connectà a moda segira cun questa website.
-trustpanel-connection-not-secure = Ti n’es betg connectà a moda segira cun questa website.
 trustpanel-siteinformation-morelink = Dapli infurmaziuns davart la website
 trustpanel-blocker-see-all = Mussar tut
 # Variables

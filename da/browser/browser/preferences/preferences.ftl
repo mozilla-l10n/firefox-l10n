@@ -1570,7 +1570,6 @@ space-alert-over-5gb-message2 =
 space-alert-under-5gb-message2 =
     <strong>{ -brand-short-name } er ved at løbe tør for diskplads</strong> 
     Indhold på websteder vises måske ikke korrekt. Klik på "Læs mere" for at optimere dit diskforbrug og få en bedre browsing-oplevelse.
-certs-description = Konfigurer certifikaterne, som { -brand-short-name } bruger til godkendelse.
 certs-description2 =
     .label = Certifikater
     .description = Konfigurer certifikaterne, som { -brand-short-name } bruger til godkendelse.

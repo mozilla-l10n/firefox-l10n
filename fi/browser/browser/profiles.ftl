@@ -159,9 +159,6 @@ book-avatar-alt =
     .alt = Kirja
 briefcase-avatar-alt =
     .alt = Salkku
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Kangas
 flower-avatar-alt =
     .alt = Kukka
 folder-avatar-alt =
@@ -192,9 +189,6 @@ video-game-controller-avatar-alt =
     .alt = Peliohjain
 custom-avatar-alt =
     .alt = Mukautettu profiilikuva
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Oletusarvoinen favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Timantti
@@ -203,11 +197,7 @@ diamond-avatar-alt =
 
 book-avatar = Kirja
 briefcase-avatar = Salkku
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Kangas
 custom-avatar = Mukautettu profiilikuva
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Oletusarvoinen favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Timantti
 flower-avatar = Kukka

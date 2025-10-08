@@ -1338,8 +1338,6 @@ trustpanel-clear-cookies-subview-button-cancel = Utzi
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Konexioaren babesak { $host } ostalarirako
-trustpanel-connection-secure = Modu seguruan zaude konektatuta gune honetara.
-trustpanel-connection-not-secure = Ez zaude modu seguruan konektatuta gune honetara.
 trustpanel-siteinformation-morelink = Gunearen informazio gehiago
 trustpanel-blocker-see-all = Ikusi guztiak
 # Variables

@@ -1449,8 +1449,6 @@ trustpanel-clear-cookies-subview-button-cancel = Batal
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Perlindungan sambungan untuk { $host }
-trustpanel-connection-secure = Anda terhubung dengan aman ke situs ini.
-trustpanel-connection-not-secure = Anda tidak terhubung dengan aman ke situs ini.
 trustpanel-siteinformation-morelink = Informasi situs lebih lanjut
 trustpanel-blocker-see-all = Lihat Semua
 # Variables

@@ -159,9 +159,6 @@ briefcase-avatar-alt =
     .alt = Kuatiaryru
 picture-avatar-alt =
     .alt = Ta’ãnga
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Mba’e’apokuaa
@@ -177,8 +174,6 @@ heart-rate-avatar-alt =
     .alt = Korasõ tytýi
 clock-avatar-alt =
     .alt = Aravopapaha
-history-avatar-alt =
-    .alt = Tembiasakue
 leaf-avatar-alt =
     .alt = Kuatia
 lightbulb-avatar-alt =
@@ -203,8 +198,6 @@ shopping-avatar-alt =
     .alt = Mba’yruguata’i jejoguaha
 soccer-ball-avatar-alt =
     .alt = Mangapy pelóta
-soccer-avatar-alt =
-    .alt = Mangapykuaa
 sparkle-single-avatar-alt =
     .alt = Mba’erendy
 star-avatar-alt =
@@ -216,9 +209,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Yvy ra’ãnga
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Favicon ypykuéva
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Itavera
@@ -232,13 +222,9 @@ bike-avatar-alt =
 book-avatar = Aranduka
 briefcase-avatar = Kuatiaryru
 clock-avatar = Aravopapaha
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Mba’e’apokuaa
 custom-avatar = Avatar mboavapyre
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Favicon ypykuéva
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Itavera
 flower-avatar = Yvoty
@@ -248,7 +234,6 @@ globe-avatar = Yvy ra’ãnga
 hammer-avatar = Mbotaha
 heart-avatar = Korasõ
 heart-rate-avatar = Korasõ tytýi
-history-avatar = Tembiasakue
 leaf-avatar = Kuatia
 lightbulb-avatar = Myesakãha
 makeup-avatar = Moporãha
@@ -263,7 +248,6 @@ plane-avatar = Aviõ
 present-avatar = Oĩva
 shopping-avatar = Mba’yruguata’i jejoguaha
 soccer-ball-avatar = Mangapy pelóta
-soccer-avatar = Mangapykuaa
 sparkle-single-avatar = Mba’erendy
 star-avatar = Mbyja
 video-game-controller-avatar = Videojuego rechaha

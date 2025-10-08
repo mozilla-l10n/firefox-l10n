@@ -1479,8 +1479,6 @@ trustpanel-clear-cookies-subview-button-cancel = Annulearje
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Ferbiningsbeskerming foar { $host }
-trustpanel-connection-secure = Jo hawwe in befeilige ferbining mei dizze website.
-trustpanel-connection-not-secure = Jo hawwe in ûnbefeilige ferbining mei dizze website.
 trustpanel-siteinformation-morelink = Mear website-ynformaasje
 trustpanel-blocker-see-all = Alles besjen
 # Variables

@@ -159,9 +159,6 @@ briefcase-avatar-alt =
     .alt = ਅਟੈਚੀ
 picture-avatar-alt =
     .alt = ਤਸਵੀਰ
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = ਕੈਨਵਸ
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = ਕਰਾਫਟ
@@ -177,8 +174,6 @@ heart-rate-avatar-alt =
     .alt = ਦਿਲ ਦੀ ਧੜਕਨ
 clock-avatar-alt =
     .alt = ਘੜੀ
-history-avatar-alt =
-    .alt = ਅਤੀਤ
 leaf-avatar-alt =
     .alt = ਪੱਤਾ
 lightbulb-avatar-alt =
@@ -203,8 +198,6 @@ shopping-avatar-alt =
     .alt = ਖਰੀਦਦਾਰੀ ਕਾਰਟ
 soccer-ball-avatar-alt =
     .alt = ਫੁੱਟਬਾਲ
-soccer-avatar-alt =
-    .alt = ਫੁੱਟਬਾਲ
 sparkle-single-avatar-alt =
     .alt = ਚਮਕ
 star-avatar-alt =
@@ -216,9 +209,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = ਗਲੋਬ
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = ਮੂਲ ਫੇਵੀਕੌਨ
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = ਹੀਰਾ
@@ -232,13 +222,9 @@ bike-avatar-alt =
 book-avatar = ਕਿਤਾਬ
 briefcase-avatar = ਅਟੈਚੀ
 clock-avatar = ਘੜੀ
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = ਕੈਨਵਸ
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = ਕਰਾਫਟ
 custom-avatar = ਪਸੰਦੀਦਾ ਅਵਤਾਰ
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = ਮੂਲ ਫੇਵੀਕੌਨ
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = ਹੀਰਾ
 flower-avatar = ਫੁੱਲ
@@ -248,7 +234,6 @@ globe-avatar = ਗਲੋਬ
 hammer-avatar = ਹਥੌੜਾ
 heart-avatar = ਦਿਲ
 heart-rate-avatar = ਦਿਲ ਦੀ ਧੜਕਨ
-history-avatar = ਅਤੀਤ
 leaf-avatar = ਪੱਤਾ
 lightbulb-avatar = ਲਾਈਟ-ਬਲੱਬ
 makeup-avatar = ਮੇਕਅੱਪ
@@ -263,7 +248,6 @@ plane-avatar = ਜਹਾਜ਼
 present-avatar = ਤੋਹਫ਼ਾ
 shopping-avatar = ਖਰੀਦਦਾਰੀ ਕਾਰਟ
 soccer-ball-avatar = ਫੁੱਟਬਾਲ
-soccer-avatar = ਫੁੱਟਬਾਲ
 sparkle-single-avatar = ਚਮਕ
 star-avatar = ਤਾਰਾ
 video-game-controller-avatar = ਵੀਡੀਓ ਗੇਮ ਕੰਟਰੋਲਰ

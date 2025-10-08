@@ -92,9 +92,6 @@ book-avatar-alt =
     .alt = Adlis
 briefcase-avatar-alt =
     .alt = Aqrab
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Abeckil
 flower-avatar-alt =
     .alt = Ijeǧǧigen
 folder-avatar-alt =
@@ -103,8 +100,6 @@ hammer-avatar-alt =
     .alt = Afḍis
 heart-avatar-alt =
     .alt = Ul
-history-avatar-alt =
-    .alt = Azray
 leaf-avatar-alt =
     .alt = Iferr
 lightbulb-avatar-alt =
@@ -137,8 +132,6 @@ diamond-avatar-alt =
 
 book-avatar = Adlis
 briefcase-avatar = Aqrab
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Abeckil
 custom-avatar = Sagen avaṭar
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Amkuẓ
@@ -146,7 +139,6 @@ flower-avatar = Ijeǧǧigen
 folder-avatar = Akaram
 hammer-avatar = Afḍis
 heart-avatar = Ul
-history-avatar = Azray
 leaf-avatar = Iferr
 lightbulb-avatar = Llamba
 makeup-avatar = Ḥmimuc

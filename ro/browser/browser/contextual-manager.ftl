@@ -164,8 +164,6 @@ contextual-manager-passwords-update-password-success-heading =
 contextual-manager-passwords-update-password-success-button = Terminat
 contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Nume de utilizator salvat
-contextual-manager-passwords-update-username-success-heading-2 =
-    .heading = Numele de utilizator a fost adăugat
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

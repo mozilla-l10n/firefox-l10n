@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Çanta
 picture-avatar-alt =
     .alt = Resim
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Kanvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Zanaat
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Nabız
 clock-avatar-alt =
     .alt = Saat
-history-avatar-alt =
-    .alt = Tarih
 leaf-avatar-alt =
     .alt = Yaprak
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Alışveriş arabası
 soccer-ball-avatar-alt =
     .alt = Futbol topu
-soccer-avatar-alt =
-    .alt = Futbol
 sparkle-single-avatar-alt =
     .alt = Parıltı
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Dünya
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Varsayılan site simgesi
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Elmas
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Kitap
 briefcase-avatar = Çanta
 clock-avatar = Saat
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Tuval
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Zanaat
 custom-avatar = Özel avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Varsayılan site simgesi
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Elmas
 flower-avatar = Çiçek
@@ -250,7 +236,6 @@ globe-avatar = Dünya
 hammer-avatar = Çekiç
 heart-avatar = Kalp
 heart-rate-avatar = Nabız
-history-avatar = Tarih
 leaf-avatar = Yaprak
 lightbulb-avatar = Ampul
 makeup-avatar = Makyaj
@@ -265,7 +250,6 @@ plane-avatar = Uçak
 present-avatar = Armağan
 shopping-avatar = Alışveriş arabası
 soccer-ball-avatar = Futbol topu
-soccer-avatar = Futbol
 sparkle-single-avatar = Parıltı
 star-avatar = Yıldız
 video-game-controller-avatar = Video oyun kumandası

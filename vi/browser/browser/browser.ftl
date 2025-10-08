@@ -1452,8 +1452,6 @@ trustpanel-clear-cookies-subview-button-cancel = Hủy bỏ
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Bảo vệ kết nối cho { $host }
-trustpanel-connection-secure = Bạn đang kết nối an toàn tới trang này.
-trustpanel-connection-not-secure = Bạn không được kết nối an toàn với trang web này.
 trustpanel-siteinformation-morelink = Thông tin thêm về trang web
 trustpanel-blocker-see-all = Xem tất cả
 # Variables

@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Aktovka
 picture-avatar-alt =
     .alt = Obrázok
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Plátno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Remeslo
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Srdcová frekvencia
 clock-avatar-alt =
     .alt = Hodiny
-history-avatar-alt =
-    .alt = História
 leaf-avatar-alt =
     .alt = List
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Nákupný košík
 soccer-ball-avatar-alt =
     .alt = Futbalová lopta
-soccer-avatar-alt =
-    .alt = Futbal
 sparkle-single-avatar-alt =
     .alt = Trblietanie
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Zemeguľa
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Predvolená ikona stránky
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Kniha
 briefcase-avatar = Aktovka
 clock-avatar = Hodiny
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Plátno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Remeslo
 custom-avatar = Vlastný avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Predvolená ikona stránky
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Kvetina
@@ -250,7 +236,6 @@ globe-avatar = Zemeguľa
 hammer-avatar = Kladivo
 heart-avatar = Srdce
 heart-rate-avatar = Srdcová frekvencia
-history-avatar = História
 leaf-avatar = List
 lightbulb-avatar = Žiarovka
 makeup-avatar = Líčenie
@@ -265,7 +250,6 @@ plane-avatar = Lietadlo
 present-avatar = Darček
 shopping-avatar = Nákupný košík
 soccer-ball-avatar = Futbalová lopta
-soccer-avatar = Futbal
 sparkle-single-avatar = Trblietanie
 star-avatar = Hviezdička
 video-game-controller-avatar = Ovládač videohier

@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Cặp tài liệu
 picture-avatar-alt =
     .alt = Bức tranh
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Cúc áo
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Nhịp tim
 clock-avatar-alt =
     .alt = Đồng hồ
-history-avatar-alt =
-    .alt = Lịch sử
 leaf-avatar-alt =
     .alt = Lá cây
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Giỏ hàng
 soccer-ball-avatar-alt =
     .alt = Bóng đá
-soccer-avatar-alt =
-    .alt = Bóng đá
 sparkle-single-avatar-alt =
     .alt = Lấp lánh
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Khối cầu
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Biểu tượng mặc định
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Kim cương
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Sách
 briefcase-avatar = Cặp tài liệu
 clock-avatar = Đồng hồ
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Cúc áo
 custom-avatar = Tuỳ chỉnh ảnh đại diện
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Biểu tượng mặc định
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Kim cương
 flower-avatar = Hoa
@@ -250,7 +236,6 @@ globe-avatar = Khối cầu
 hammer-avatar = Búa
 heart-avatar = Trái tim
 heart-rate-avatar = Nhịp tim
-history-avatar = Lịch sử
 leaf-avatar = Lá cây
 lightbulb-avatar = Bóng đèn
 makeup-avatar = Trang điểm
@@ -265,7 +250,6 @@ plane-avatar = Máy bay
 present-avatar = Hộp quà
 shopping-avatar = Giỏ hàng
 soccer-ball-avatar = Bóng đá
-soccer-avatar = Bóng đá
 sparkle-single-avatar = Lấp lánh
 star-avatar = Dấu sao
 video-game-controller-avatar = Bộ điều khiển trò chơi điện tử

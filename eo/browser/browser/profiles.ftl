@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Teko
 picture-avatar-alt =
     .alt = Bildo
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Kanvaso
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Manfaritaĵo
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Korbata frekvenco
 clock-avatar-alt =
     .alt = Horloĝo
-history-avatar-alt =
-    .alt = Historio
 leaf-avatar-alt =
     .alt = Folio
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Aĉetĉareto
 soccer-ball-avatar-alt =
     .alt = Piedpilko
-soccer-avatar-alt =
-    .alt = Piedpilko
 sparkle-single-avatar-alt =
     .alt = Brilo
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Terglobo
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Norma emblemo
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamanto
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Libro
 briefcase-avatar = Teko
 clock-avatar = Horloĝo
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Kanvaso
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Manfaritaĵo
 custom-avatar = Personecigita avataro
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Norma emblemo
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamanto
 flower-avatar = Floro
@@ -250,7 +236,6 @@ globe-avatar = Terglobo
 hammer-avatar = Martelo
 heart-avatar = Koro
 heart-rate-avatar = Korbata frekvenco
-history-avatar = Historio
 leaf-avatar = Folio
 lightbulb-avatar = Lumpilko
 makeup-avatar = Ŝminkaĵo
@@ -265,7 +250,6 @@ plane-avatar = Aviadilo
 present-avatar = Donaco
 shopping-avatar = Aĉetĉareto
 soccer-ball-avatar = Piedpilko
-soccer-avatar = Piedpilko
 sparkle-single-avatar = Brilo
 star-avatar = Stelo
 video-game-controller-avatar = Regilo de videa ludo

@@ -1475,8 +1475,6 @@ trustpanel-clear-cookies-subview-button-cancel = Nuligi
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Konektaj protektoj por { $host }
-trustpanel-connection-secure = Vi estas sekure konektita al tiu ĉi retejo.
-trustpanel-connection-not-secure = Vi ne estas sekure konektita al tiu ĉi retejo.
 trustpanel-siteinformation-morelink = Pli da informo pri la retejo
 trustpanel-blocker-see-all = Vidi ĉiujn
 # Variables

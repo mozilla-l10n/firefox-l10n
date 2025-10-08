@@ -403,7 +403,7 @@ newtab-wallpaper-abstract-purple-green = Gradiente purpuree e verde clar
 newtab-wallpaper-abstract-blue-purple-waves = Formas undulate blau e purpuree
 newtab-wallpaper-abstract-black-waves = Formas undulate nigre
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Photos
 newtab-wallpaper-beach-at-sunrise = Plagia al levar del sol
@@ -672,10 +672,6 @@ newtab-widget-timer-mode-focus =
     .label = Concentration
 newtab-widget-timer-mode-break =
     .label = Pausa
-newtab-widget-timer-play =
-    .title = Reproducer
-newtab-widget-timer-pause =
-    .title = Pausar
 newtab-widget-timer-label-play =
     .label = Reproducer
 newtab-widget-timer-label-pause =

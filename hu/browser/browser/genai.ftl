@@ -242,6 +242,8 @@ link-preview-settings-enable =
     .description = Az oldal címének, leírásának és egyéb információinak megjelenítése gyorsbillentyű vagy jobb kattintás használatával.
 link-preview-settings-key-points =
     .label = Engedélyezés, hogy az MI elolvassa az oldal elejét, és kulcspontokat állítson elő
+link-preview-settings-long-press =
+    .label = Gyors elérés: Kattintson a hivatkozásra, és tartsa lenyomva 1 másodpercig (hosszan nyomva)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Megtekint többet az MI-vel?
 # Message that appears when user is shown the opt-in flow for link previews

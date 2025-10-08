@@ -896,9 +896,6 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Eachdraidh
@@ -1189,9 +1186,6 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

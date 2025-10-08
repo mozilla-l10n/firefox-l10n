@@ -1494,8 +1494,6 @@ trustpanel-clear-cookies-subview-button-cancel = Адмена
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Ахова злучэння з { $host }
-trustpanel-connection-secure = Вы бяспечна злучаны з гэтым сайтам.
-trustpanel-connection-not-secure = Вы не злучаны бяспечна з гэтым сайтам.
 trustpanel-siteinformation-morelink = Больш інфармацыі пра сайт
 trustpanel-blocker-see-all = Глядзець усё
 # Variables

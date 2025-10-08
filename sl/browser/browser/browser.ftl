@@ -1471,8 +1471,6 @@ trustpanel-clear-cookies-subview-button-cancel = Prekliči
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Zaščite povezave za { $host }
-trustpanel-connection-secure = Varno ste povezani na to spletno mesto.
-trustpanel-connection-not-secure = Niste varno povezani na to spletno mesto.
 trustpanel-siteinformation-morelink = Več podatkov o strani
 trustpanel-blocker-see-all = Prikaži vse
 # Variables

@@ -1477,8 +1477,6 @@ trustpanel-clear-cookies-subview-button-cancel = Peruuta
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Yhteyden suojaukset sivustolle { $host }
-trustpanel-connection-secure = Yhteytesi tähän sivustoon on suojattu.
-trustpanel-connection-not-secure = Yhteytesi tähän sivustoon ei ole suojattu.
 trustpanel-siteinformation-morelink = Lisätietoja sivustosta
 trustpanel-blocker-see-all = Näytä kaikki
 # Variables

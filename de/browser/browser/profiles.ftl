@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Aktenkoffer
 picture-avatar-alt =
     .alt = Grafik
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Handwerk
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Herzfrequenz
 clock-avatar-alt =
     .alt = Uhr
-history-avatar-alt =
-    .alt = Chronik
 leaf-avatar-alt =
     .alt = Blatt
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Einkaufswagen
 soccer-ball-avatar-alt =
     .alt = Fußball
-soccer-avatar-alt =
-    .alt = Fußball
 sparkle-single-avatar-alt =
     .alt = Funkeln
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Globus
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Standard-Favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Buch
 briefcase-avatar = Aktenkoffer
 clock-avatar = Uhr
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Handwerk
 custom-avatar = Benutzerdefinierter Avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Standard-Favicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Blume
@@ -250,7 +236,6 @@ globe-avatar = Globus
 hammer-avatar = Hammer
 heart-avatar = Herz
 heart-rate-avatar = Herzfrequenz
-history-avatar = Chronik
 leaf-avatar = Blatt
 lightbulb-avatar = Glühbirne
 makeup-avatar = Make-up
@@ -265,7 +250,6 @@ plane-avatar = Flugzeug
 present-avatar = Geschenk
 shopping-avatar = Einkaufswagen
 soccer-ball-avatar = Fußball
-soccer-avatar = Fußball
 sparkle-single-avatar = Funkeln
 star-avatar = Stern
 video-game-controller-avatar = Videospiel-Controller

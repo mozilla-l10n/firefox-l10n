@@ -1566,7 +1566,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = a
 space-alert-over-5gb-message2 = <strong>Elĉerpiĝas la diska spaco por { -brand-short-name }.</strong> Enhavo de retejoj povas aperi malĝuste. Vi povas viŝi konservitajn retejajn datumojn en Agordoj > Privateco kaj sekureco > Kuketoj kaj retejaj datumoj.
 space-alert-under-5gb-message2 = <strong>Elĉerpiĝas la diska spaco por { -brand-short-name }</strong>. Enhavo de retejoj povas aperi malĝuste. Vizitu “Pli da informo” por optimumigi la uzon de diska spaco, por pli bona retuma sperto.
-certs-description = Agordi la atestilojn uzatajn de { -brand-short-name } por aŭtentigo.
 certs-description2 =
     .label = Atestiloj
     .description = Agordi la atestilojn uzatajn de { -brand-short-name } por aŭtentigo.

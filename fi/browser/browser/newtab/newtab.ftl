@@ -407,7 +407,7 @@ newtab-wallpaper-abstract-purple-green = Violetin ja vihreän valon liukuväriä
 newtab-wallpaper-abstract-blue-purple-waves = Sinisiä ja violetteja aaltoilevia muotoja
 newtab-wallpaper-abstract-black-waves = Mustia aaltoilevia muotoja
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Valokuvat
 newtab-wallpaper-beach-at-sunrise = Ranta auringonnousun aikaan
@@ -674,10 +674,6 @@ newtab-widget-timer-mode-focus =
     .label = Keskity
 newtab-widget-timer-mode-break =
     .label = Tauko
-newtab-widget-timer-play =
-    .title = Toista
-newtab-widget-timer-pause =
-    .title = Keskeytä
 newtab-widget-timer-label-play =
     .label = Toista
 newtab-widget-timer-label-pause =

@@ -222,9 +222,7 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Равзанаи ҷорӣ
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = Эҷод кардани гурӯҳи варақаҳо
 tab-group-editor-title-edit = Идора кардани гурӯҳи варақаҳо

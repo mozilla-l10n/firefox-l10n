@@ -406,7 +406,7 @@ newtab-wallpaper-abstract-purple-green = იისფრიდან თან�
 newtab-wallpaper-abstract-blue-purple-waves = ლურჯი და იისფერი ტალღოვანი ფორმები
 newtab-wallpaper-abstract-black-waves = შავი ტალღოვანი ფორმები
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = ფოტოსურათები
 newtab-wallpaper-beach-at-sunrise = სანაპირო მზის ამოსვლისას
@@ -675,10 +675,6 @@ newtab-widget-timer-mode-focus =
     .label = საქმიანობა
 newtab-widget-timer-mode-break =
     .label = შესვენება
-newtab-widget-timer-play =
-    .title = გაშვება
-newtab-widget-timer-pause =
-    .title = შეჩერება
 newtab-widget-timer-label-play =
     .label = გაშვება
 newtab-widget-timer-label-pause =

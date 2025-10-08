@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Партфель
 picture-avatar-alt =
     .alt = Выява
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Палатно
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Рамяство
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Частата пульсу
 clock-avatar-alt =
     .alt = Гадзіннік
-history-avatar-alt =
-    .alt = Гісторыя
 leaf-avatar-alt =
     .alt = Ліст
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Кошык
 soccer-ball-avatar-alt =
     .alt = Футбольны мяч
-soccer-avatar-alt =
-    .alt = Футбол
 sparkle-single-avatar-alt =
     .alt = Бліскавіца
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Глобус
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Тыповы значок сайта
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Алмаз
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Кніга
 briefcase-avatar = Партфель
 clock-avatar = Гадзіннік
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Палатно
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Рамяство
 custom-avatar = Уласны аватар
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Тыповы значок сайта
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Алмаз
 flower-avatar = Кветка
@@ -250,7 +236,6 @@ globe-avatar = Глобус
 hammer-avatar = Малаток
 heart-avatar = Сэрца
 heart-rate-avatar = Частата пульсу
-history-avatar = Гісторыя
 leaf-avatar = Ліст
 lightbulb-avatar = Лямпачка
 makeup-avatar = Макіяж
@@ -265,7 +250,6 @@ plane-avatar = Самалёт
 present-avatar = Падарунак
 shopping-avatar = Кошык
 soccer-ball-avatar = Футбольны мяч
-soccer-avatar = Футбол
 sparkle-single-avatar = Бліскавіца
 star-avatar = Зорка
 video-game-controller-avatar = Кантролер для відэагульняў

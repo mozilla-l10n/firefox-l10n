@@ -1493,8 +1493,6 @@ trustpanel-clear-cookies-subview-button-cancel = Anulează
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Protecții de conexiune pentru { $host }
-trustpanel-connection-secure = Ești conectat(ă) în mod securizat la acest site.
-trustpanel-connection-not-secure = Nu ești conectat(ă) în mod securizat la acest site.
 trustpanel-siteinformation-morelink = Mai multe informații despre site
 trustpanel-blocker-see-all = Afișează tot
 # Variables

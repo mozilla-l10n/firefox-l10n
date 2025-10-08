@@ -1219,8 +1219,6 @@ trustpanel-clear-cookies-subview-button-cancel = ຍົກເລີກ
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = ການປົກປ້ອງການເຊື່ອມຕໍ່ສໍາລັບ { $host }
-trustpanel-connection-secure = ທ່ານເຊື່ອມຕໍ່ຢ່າງປອດໄພກັບເວັບໄຊນີ້.
-trustpanel-connection-not-secure = ທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ຢ່າງປອດໄພກັບເວັບໄຊທ໌ນີ້.
 trustpanel-siteinformation-morelink = ຂໍ້ມູນເວັບໄຊເພີ່ມເຕີມ
 trustpanel-blocker-see-all = ເບິງທັງໝົດ
 # Variables

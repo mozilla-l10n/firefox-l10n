@@ -1451,8 +1451,6 @@ trustpanel-clear-cookies-subview-button-cancel = 취소
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = { $host }에 대한 연결 보호
-trustpanel-connection-secure = 이 사이트에 안전하게 연결되었습니다.
-trustpanel-connection-not-secure = 이 사이트에 안전하게 연결되어 있지 않습니다.
 trustpanel-siteinformation-morelink = 사이트 정보 더보기
 trustpanel-blocker-see-all = 모두 보기
 # Variables

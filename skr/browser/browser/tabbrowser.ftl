@@ -182,9 +182,7 @@ tabbrowser-manager-unmute-tab =
 tabbrowser-manager-close-tab =
     .tooltiptext = ٹیب بند کرو
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = ٹیب گروپ خلقو
 tab-group-editor-title-edit = ٹیب گروپ منیج کرو

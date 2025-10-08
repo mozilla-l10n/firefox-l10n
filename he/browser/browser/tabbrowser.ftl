@@ -220,9 +220,7 @@ tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = ‏{ $tabGroupName } - חלון נוכחי
 
-## Variables:
-##  $tabGroupName (String): The name of the tab group. Defaults to the value
-##                          of tab-group-name-default.
+##
 
 tab-group-editor-title-create = יצירת קבוצת לשוניות
 tab-group-editor-title-edit = ניהול קבוצת לשוניות

@@ -1403,8 +1403,6 @@ trustpanel-clear-cookies-subview-button-cancel = ألغِ
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = حماية الاتصال لـ { $host }
-trustpanel-connection-secure = أنت متصل مع هذا الموقع بأمان.
-trustpanel-connection-not-secure = لست متصلاً مع هذا الموقع بأمان.
 trustpanel-siteinformation-morelink = مزيد من المعلومات حول الموقع
 trustpanel-blocker-see-all = اعرض الكل
 

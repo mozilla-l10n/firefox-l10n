@@ -159,9 +159,6 @@ briefcase-avatar-alt =
     .alt = Dokumentmappe
 picture-avatar-alt =
     .alt = Bilde
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Lerret
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Handverk
@@ -177,8 +174,6 @@ heart-rate-avatar-alt =
     .alt = Hjartefrekvens
 clock-avatar-alt =
     .alt = Klokke
-history-avatar-alt =
-    .alt = Historie
 leaf-avatar-alt =
     .alt = Blad
 lightbulb-avatar-alt =
@@ -203,8 +198,6 @@ shopping-avatar-alt =
     .alt = Handlevogn
 soccer-ball-avatar-alt =
     .alt = Fotball
-soccer-avatar-alt =
-    .alt = Fotball
 sparkle-single-avatar-alt =
     .alt = Gnistre
 star-avatar-alt =
@@ -216,9 +209,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Globus
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Standard favikon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -232,13 +222,9 @@ bike-avatar-alt =
 book-avatar = Bok
 briefcase-avatar = Dokumentmappe
 clock-avatar = Klokke
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Lerret
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Handverk
 custom-avatar = Tilpass avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Standard favikon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Blomster
@@ -248,7 +234,6 @@ globe-avatar = Globus
 hammer-avatar = Hammar
 heart-avatar = Hjarte
 heart-rate-avatar = Hjartefrekvens
-history-avatar = Historikk
 leaf-avatar = Blad
 lightbulb-avatar = Lyspære
 makeup-avatar = Sminke
@@ -263,7 +248,6 @@ plane-avatar = Fly
 present-avatar = Gåve
 shopping-avatar = Handlevogn
 soccer-ball-avatar = Fotball
-soccer-avatar = Fotball
 sparkle-single-avatar = Gnistre
 star-avatar = Stjerne
 video-game-controller-avatar = Videospelkontrollar

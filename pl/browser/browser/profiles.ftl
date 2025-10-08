@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Aktówka
 picture-avatar-alt =
     .alt = Zdjęcie
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Płótno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Rękodzieło
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Tętno
 clock-avatar-alt =
     .alt = Zegar
-history-avatar-alt =
-    .alt = Historia
 leaf-avatar-alt =
     .alt = Liść
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Wózek sklepowy
 soccer-ball-avatar-alt =
     .alt = Piłka nożna
-soccer-avatar-alt =
-    .alt = Piłka nożna
 sparkle-single-avatar-alt =
     .alt = Iskra
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Globus
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Domyślna ikona witryny
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diament
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Książka
 briefcase-avatar = Aktówka
 clock-avatar = Zegar
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Płótno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Rękodzieło
 custom-avatar = Własny awatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Domyślna ikona witryny
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diament
 flower-avatar = Kwiatek
@@ -250,7 +236,6 @@ globe-avatar = Globus
 hammer-avatar = Młotek
 heart-avatar = Serce
 heart-rate-avatar = Tętno
-history-avatar = Historia
 leaf-avatar = Liść
 lightbulb-avatar = Żarówka
 makeup-avatar = Makijaż
@@ -265,7 +250,6 @@ plane-avatar = Samolot
 present-avatar = Prezent
 shopping-avatar = Wózek sklepowy
 soccer-ball-avatar = Piłka nożna
-soccer-avatar = Piłka nożna
 sparkle-single-avatar = Iskra
 star-avatar = Gwiazda
 video-game-controller-avatar = Pad

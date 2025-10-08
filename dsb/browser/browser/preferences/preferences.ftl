@@ -1574,7 +1574,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = c
 space-alert-over-5gb-message2 = <strong> { -brand-short-name } njama wěcej dosć składowańskego ruma.</strong> Wopśimjeśe websedła se snaź korektnje njezwobraznijo. Móžośo skłaźone daty w Nastajenja > Priwatnosć a wěstota > Cookieje a sedłowe daty lašowaś.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } njama wěcej dosć składowańskego ruma.</strong> Wopśimjeśe websedła se snaź korektnje njezwobraznijo. Móžośo na “Dalšne informacije” kliknuś, aby swój składowe wužyśe za lěpše pśeglědowańske dožywjenje opiměrował.
-certs-description = Konfigurěrujśo certifikaty, kótarež { -brand-short-name } za awtentifikaciju wužywa.
 certs-description2 =
     .label = Certifikaty
     .description = Konfigurěrujśo certifikaty, kótarež { -brand-short-name } za awtentifikaciju wužywa.

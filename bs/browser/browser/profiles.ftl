@@ -115,9 +115,6 @@ book-avatar-alt =
     .alt = Knjiga
 briefcase-avatar-alt =
     .alt = Aktovka
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Platno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Zanat
@@ -131,8 +128,6 @@ heart-avatar-alt =
     .alt = Srce
 heart-rate-avatar-alt =
     .alt = Puls
-history-avatar-alt =
-    .alt = Historija
 leaf-avatar-alt =
     .alt = List
 lightbulb-avatar-alt =
@@ -155,8 +150,6 @@ present-avatar-alt =
     .alt = Sadašnjost
 shopping-avatar-alt =
     .alt = Kolica za kupovinu
-soccer-avatar-alt =
-    .alt = Nogomet
 sparkle-single-avatar-alt =
     .alt = Sjaj
 star-avatar-alt =
@@ -165,9 +158,6 @@ video-game-controller-avatar-alt =
     .alt = Kontroler za videoigre
 custom-avatar-alt =
     .alt = Prilagođeni avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Zadana favikona
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Dijamant
@@ -180,13 +170,9 @@ bike-avatar-alt =
 
 book-avatar = Knjiga
 briefcase-avatar = Aktovka
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Platno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Zanat
 custom-avatar = Prilagođeni avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Zadana favikona
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Dijamant
 flower-avatar = Cvijet
@@ -194,7 +180,6 @@ folder-avatar = Direktorij
 hammer-avatar = Čekić
 heart-avatar = Srce
 heart-rate-avatar = Puls
-history-avatar = Historija
 leaf-avatar = List
 lightbulb-avatar = Sijalica
 makeup-avatar = Šminka
@@ -207,7 +192,6 @@ plane-avatar = Avion
 # Present refers to a gift box, not the current time period
 present-avatar = Sadašnjost
 shopping-avatar = Kolica za kupovinu
-soccer-avatar = Nogomet
 sparkle-single-avatar = Sjaj
 star-avatar = Zvjezdica
 video-game-controller-avatar = Kontroler za videoigre

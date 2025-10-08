@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Wurkmap
 picture-avatar-alt =
     .alt = Ofbylding
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Nifelje
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Hertslach
 clock-avatar-alt =
     .alt = Klok
-history-avatar-alt =
-    .alt = Skiednis
 leaf-avatar-alt =
     .alt = Blêd
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Winkelwein
 soccer-ball-avatar-alt =
     .alt = Fuotbal
-soccer-avatar-alt =
-    .alt = Fuotbal
 sparkle-single-avatar-alt =
     .alt = Glitter
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Wrâldbol
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Standertfavicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Boek
 briefcase-avatar = Wurkmap
 clock-avatar = Klok
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Canvas
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Nifelje
 custom-avatar = Oanpaste avatar
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Standertfavicon
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Blom
@@ -250,7 +236,6 @@ globe-avatar = Wrâldbol
 hammer-avatar = Hammer
 heart-avatar = Hert
 heart-rate-avatar = Hertslach
-history-avatar = Skiednis
 leaf-avatar = Blêd
 lightbulb-avatar = Gloeilampe
 makeup-avatar = Make-up
@@ -265,7 +250,6 @@ plane-avatar = Fleantúch
 present-avatar = Kado
 shopping-avatar = Winkelwein
 soccer-ball-avatar = Fuotbal
-soccer-avatar = Fuotbal
 sparkle-single-avatar = Glitter
 star-avatar = Stjer
 video-game-controller-avatar = Fideogamecontroller

@@ -159,9 +159,6 @@ briefcase-avatar-alt =
     .alt = Портфель
 picture-avatar-alt =
     .alt = Сурет
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Кенеп
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Қолөнер
@@ -177,8 +174,6 @@ heart-rate-avatar-alt =
     .alt = Жүрек соғу жиілігі
 clock-avatar-alt =
     .alt = Сағат
-history-avatar-alt =
-    .alt = Тарих
 leaf-avatar-alt =
     .alt = Жапырақ
 lightbulb-avatar-alt =
@@ -203,8 +198,6 @@ shopping-avatar-alt =
     .alt = Кәрзеңке
 soccer-ball-avatar-alt =
     .alt = Футбол добы
-soccer-avatar-alt =
-    .alt = Футбол
 sparkle-single-avatar-alt =
     .alt = Шоқ
 star-avatar-alt =
@@ -216,9 +209,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Глобус
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Бастапқы таңбаша
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Бриллиант
@@ -232,13 +222,9 @@ bike-avatar-alt =
 book-avatar = Кітап
 briefcase-avatar = Портфель
 clock-avatar = Сағат
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Кенеп
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Қолөнер
 custom-avatar = Таңдауыңызша аватар
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Бастапқы таңбаша
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Бриллиант
 flower-avatar = Гүл
@@ -248,7 +234,6 @@ globe-avatar = Глобус
 hammer-avatar = Балға
 heart-avatar = Жүрек
 heart-rate-avatar = Жүрек соғу жиілігі
-history-avatar = Тарих
 leaf-avatar = Жапырақ
 lightbulb-avatar = Жарық шамы
 makeup-avatar = Косметика
@@ -263,7 +248,6 @@ plane-avatar = Ұшақ
 present-avatar = Сыйлық
 shopping-avatar = Кәрзеңке
 soccer-ball-avatar = Футбол добы
-soccer-avatar = Футбол
 sparkle-single-avatar = Шоқ
 star-avatar = Жұлдызша
 video-game-controller-avatar = Видео ойын контроллері

@@ -35,17 +35,6 @@ should-restart-ok = { -brand-short-name } खौ दानो फिनजाग
 cancel-no-restart-button = नेवसि
 restart-later = उनाव फिन जागाय
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = नागिरनायनि फिन
@@ -334,10 +323,6 @@ containers-add-button =
 containers-remove-button =
     .label = बोखार
 
-## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
-## more discrete ("signed in" no longer means "and sync is connected").
-
-
 ## Firefox account - Signed in
 
 sync-manage-account = एकाउन्ट सामलाय
@@ -358,12 +343,6 @@ sync-sign-in =
     .label = साइन-इन
     .accesskey = g
 
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
-
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -381,13 +360,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = थिना दोन
     .accesskey = v
-
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-
-## Privacy Section
-
 
 ## Privacy Section - Logins and Passwords
 
@@ -411,12 +383,6 @@ forms-master-pw-change =
     .label = मा्स्थार बारग'सोदोबखौ सोलाय...
     .accesskey = म
 forms-master-pw-fips-desc = पासवर्ड सोलायनाया फेलें जाबाय
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -463,12 +429,6 @@ sitedata-clear =
     .label = दाटाफोरखौ खोमोर...
     .accesskey = I
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Privacy Section - Address Bar
 
 addressbar-locbar-history-option =
@@ -513,9 +473,6 @@ content-blocking-cookies-label =
 content-blocking-expand-section =
     .tooltiptext = गोबां फोरमायथिहोग्रा
 
-## Privacy Section - Tracking
-
-
 ## Privacy Section - Permissions
 
 permissions-header = गनायथि
@@ -552,9 +509,6 @@ collection-privacy-notice = गुमुरथि मिथिसारहोन
 collection-health-report-link = गोबां सोलों
 addon-recommendations-link = गोबां सोलों
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -572,12 +526,6 @@ certs-enable-ocsp =
 certs-view =
     .label = चार्टिफिकेटखौ नाय...
     .accesskey = C
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

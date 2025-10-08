@@ -406,7 +406,7 @@ newtab-wallpaper-abstract-purple-green = เกรเดียนท์สีอ
 newtab-wallpaper-abstract-blue-purple-waves = รูปทรงคลื่นสีน้ำเงินและสีม่วง
 newtab-wallpaper-abstract-black-waves = รูปทรงคลื่นสีดำ
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = ภาพถ่าย
 newtab-wallpaper-beach-at-sunrise = ชายหาดตอนพระอาทิตย์ขึ้น
@@ -675,10 +675,6 @@ newtab-widget-timer-mode-focus =
     .label = โฟกัส
 newtab-widget-timer-mode-break =
     .label = พัก
-newtab-widget-timer-play =
-    .title = เล่น
-newtab-widget-timer-pause =
-    .title = หยุดชั่วคราว
 newtab-widget-timer-label-play =
     .label = เล่น
 newtab-widget-timer-label-pause =

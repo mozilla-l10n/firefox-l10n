@@ -1566,7 +1566,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = o
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen schijfruimte meer.</strong> Inhoud van websites wordt mogelijk niet goed weergegeven. U kunt opgeslagen gegevens wissen in Instellingen > Privacy & Beveiliging > Cookies en websitegegevens.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen schijfruimte meer.</strong> Inhoud van websites wordt mogelijk niet goed weergegeven. Bezoek ‘Meer info’ om uw schijfgebruik te optimaliseren voor betere prestaties.
-certs-description = De certificaten die { -brand-short-name } gebruikt voor authenticatie configureren.
 certs-description2 =
     .label = Certificaten
     .description = De certificaten die { -brand-short-name } gebruikt voor authenticatie configureren.

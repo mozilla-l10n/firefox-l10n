@@ -1476,8 +1476,6 @@ trustpanel-clear-cookies-subview-button-cancel = Heja
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Tapykuehoha jeikerã { $host }-pe g̃uarã
-trustpanel-connection-secure = Eikehína tekorosãme ko tendápe.
-trustpanel-connection-not-secure = Nde jeike ko tendapegua nahekorosãi.
 trustpanel-siteinformation-morelink = Maranduve tenda rehegua
 trustpanel-blocker-see-all = Hechapa
 # Variables

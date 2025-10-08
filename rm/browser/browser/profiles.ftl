@@ -161,9 +161,6 @@ briefcase-avatar-alt =
     .alt = Valischetta
 picture-avatar-alt =
     .alt = Maletg
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Taila
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Artisanadi
@@ -179,8 +176,6 @@ heart-rate-avatar-alt =
     .alt = Frequenza dal cor
 clock-avatar-alt =
     .alt = Ura
-history-avatar-alt =
-    .alt = Cronologia
 leaf-avatar-alt =
     .alt = Feglia
 lightbulb-avatar-alt =
@@ -205,8 +200,6 @@ shopping-avatar-alt =
     .alt = Charret da cumpras
 soccer-ball-avatar-alt =
     .alt = Ballape
-soccer-avatar-alt =
-    .alt = Ballape
 sparkle-single-avatar-alt =
     .alt = Sbrinzlas
 star-avatar-alt =
@@ -218,9 +211,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Globus
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Icona predefinida
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -234,13 +224,9 @@ bike-avatar-alt =
 book-avatar = Cudesch
 briefcase-avatar = Valischetta
 clock-avatar = Ura
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Taila
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Artisanadi
 custom-avatar = Avatar persunalisà
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Icona predefinida
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Flur
@@ -250,7 +236,6 @@ globe-avatar = Globus
 hammer-avatar = Martè
 heart-avatar = Cor
 heart-rate-avatar = Frequenza dal cor
-history-avatar = Cronologia
 leaf-avatar = Feglia
 lightbulb-avatar = Pair electric
 makeup-avatar = Bellet
@@ -265,7 +250,6 @@ plane-avatar = Aviun
 present-avatar = Regal
 shopping-avatar = Charret da cumpras
 soccer-ball-avatar = Ballape
-soccer-avatar = Ballape
 sparkle-single-avatar = Sbrinzlas
 star-avatar = Staila
 video-game-controller-avatar = Controller da gieus da video

@@ -159,9 +159,6 @@ briefcase-avatar-alt =
     .alt = Aktovka
 picture-avatar-alt =
     .alt = Slika
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar-alt =
-    .alt = Platno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Ustvarjalno
@@ -177,8 +174,6 @@ heart-rate-avatar-alt =
     .alt = Srčni utrip
 clock-avatar-alt =
     .alt = Ura
-history-avatar-alt =
-    .alt = Zgodovina
 leaf-avatar-alt =
     .alt = List
 lightbulb-avatar-alt =
@@ -203,8 +198,6 @@ shopping-avatar-alt =
     .alt = Nakupovalni voziček
 soccer-ball-avatar-alt =
     .alt = Nogometna žoga
-soccer-avatar-alt =
-    .alt = Nogomet
 sparkle-single-avatar-alt =
     .alt = Iskra
 star-avatar-alt =
@@ -216,9 +209,6 @@ custom-avatar-alt =
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = Zemljina obla
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar-alt =
-    .alt = Privzeta ikona
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
@@ -232,13 +222,9 @@ bike-avatar-alt =
 book-avatar = Knjiga
 briefcase-avatar = Aktovka
 clock-avatar = Ura
-# Canvas refers to an artist's painting canvas, not the general material
-canvas-avatar = Platno
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Ustvarjalno
 custom-avatar = Slika po meri
-# Default favicon refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
-default-favicon-avatar = Privzeta ikona
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamant
 flower-avatar = Cvet
@@ -248,7 +234,6 @@ globe-avatar = Zemljina obla
 hammer-avatar = Kladivo
 heart-avatar = Srce
 heart-rate-avatar = Srčni utrip
-history-avatar = Zgodovina
 leaf-avatar = List
 lightbulb-avatar = Žarnica
 makeup-avatar = Ličila
@@ -263,7 +248,6 @@ plane-avatar = Letalo
 present-avatar = Darilo
 shopping-avatar = Nakupovalni voziček
 soccer-ball-avatar = Nogometna žoga
-soccer-avatar = Nogomet
 sparkle-single-avatar = Iskra
 star-avatar = Zvezdica
 video-game-controller-avatar = Krmilnik za videoigre

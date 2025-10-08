@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Törlés
 text-action-highlight-selection =
     .label = Kijelölés kiemelése
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Megjegyzés hozzáadása a kijelöléshez
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Megjegyzés fűzése a kijelöléshez

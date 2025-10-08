@@ -407,7 +407,7 @@ newtab-wallpaper-abstract-purple-green = Pears en griene ljochtgradiïnt
 newtab-wallpaper-abstract-blue-purple-waves = Blauwe en pearze golvjende foarmen
 newtab-wallpaper-abstract-black-waves = Swarte golvjende foarmen
 
-## Celestial
+## Firefox
 
 newtab-wallpaper-category-title-photographs = Foto’s
 newtab-wallpaper-beach-at-sunrise = Strân by sinneopgong
@@ -676,10 +676,6 @@ newtab-widget-timer-mode-focus =
     .label = Fokus
 newtab-widget-timer-mode-break =
     .label = Skoft
-newtab-widget-timer-play =
-    .title = Ofspylje
-newtab-widget-timer-pause =
-    .title = Pauzearje
 newtab-widget-timer-label-play =
     .label = Ofspylje
 newtab-widget-timer-label-pause =
