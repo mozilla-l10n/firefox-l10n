@@ -1564,6 +1564,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Permite { -brand-short-name } să acorde automat încredere certificatelor-rădăcină terțe pe care le instalezi
     .accesskey = t
+certs-devices-enable-fips = Activează FIPS
 space-alert-over-5gb-settings-button =
     .label = Deschide setările
     .accesskey = O
