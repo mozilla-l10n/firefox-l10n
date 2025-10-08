@@ -1794,6 +1794,7 @@ certs-thirdparty-toggle =
            *[no-cases] Povolit aplikaci { -brand-short-name } automatickou důvěru v nainstalované kořenové certifikáty třetích stran, které nainstalujete.
         }
     .accesskey = P
+certs-devices-enable-fips = Povolit FIPS
 space-alert-over-5gb-settings-button =
     .label = Otevřít nastavení
     .accesskey = O
