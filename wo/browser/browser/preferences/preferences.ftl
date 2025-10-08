@@ -347,6 +347,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Sarsifikaa
+certs-devices-enable-fips = Suqali FIPS
 
 ## Privacy Section - HTTPS-Only
 
