@@ -819,6 +819,7 @@ certs-view =
 certs-devices =
     .label = kaɓirɗi Kisal…
     .accesskey = k
+certs-devices-enable-fips = Daaƴtu FIPS
 
 ## Privacy Section - HTTPS-Only
 
