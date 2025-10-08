@@ -973,6 +973,7 @@ certs-view =
 certs-devices =
     .label = రక్షణ పరికరాలు…
     .accesskey = D
+certs-devices-enable-fips = FIPS చేతనంచేయి
 space-alert-over-5gb-settings-button =
     .label = అమరికలను తెరువు
     .accesskey = O
