@@ -304,6 +304,7 @@ permissions-block-popups =
 ## Privacy Section - Certificates
 
 certs-header = Ditifikeiti
+certs-devices-enable-fips = Kgontsha FIPS
 
 ## Privacy Section - HTTPS-Only
 
