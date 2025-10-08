@@ -1169,6 +1169,7 @@ certs-view =
 certs-devices =
     .label = Masziny bezpieczyństwa…
     .accesskey = M
+certs-devices-enable-fips = Załōncz FIPS
 space-alert-over-5gb-settings-button =
     .label = Ôdewrzij sztalōnki
     .accesskey = O
