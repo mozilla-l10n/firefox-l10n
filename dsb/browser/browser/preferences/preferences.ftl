@@ -127,6 +127,10 @@ startup-header = Startowaś
 always-check-default =
     .label = Pśecej kontrolěrowaś, lěc { -brand-short-name } jo waš standardny wobglědowak
     .accesskey = c
+is-default-browser =
+    .message = { -brand-short-name } jo tuchylu waš standardny wobglědowak
+is-not-default-browser =
+    .message = { -brand-short-name } njejo waš standardny wobglědowak
 is-default = { -brand-short-name } jo tuchylu waš standardny wobglědowak
 is-not-default = { -brand-short-name } njejo waš standardny wobglědowak
 set-as-my-default-browser =
@@ -1338,7 +1342,6 @@ content-blocking-etp-standard-tcp-rollout-description = Dopołny cookiejowy šć
 content-blocking-etp-standard-tcp-rollout-learn-more = Dalšne informacije
 content-blocking-etp-standard-tcp-title = Wopśimujo dopołny šćit pśed cookiejami, naša nejmóčnjejša funkcija priwatnosći scełego
 content-blocking-warning-title = Glědajśo!
-content-blocking-and-isolating-etp-warning-description-3 = Toś to nastajenje mógło zawinowaś, až někotare websedła wopśimjeśe njepokazuju abo korektnje njefunkcioněruju. Bitujomy opcionalne wuwześa za websedła, wó kótarychž wěmy, až daju se pśez wašu konfiguraciju wobwliwowaś. Aby skóncowane websydła reducěrował, zmóžniśo toś te wuwześa za pśeslědowaki. Jolic se zda, až sedło jo skóńcowane, móžośo šćit pśeśiwo slědowanjeju za to sedło znjemóžniś, aby wšo wopśimjeśe zacytał a problem k wěsći dał, aby my mógli pomagaś, ten problem za wše rozwězaś.
 content-blocking-warning-title-2 = Někotare sedła snaź ze striktnym pśeslědowańskim šćitom korektnje njefunkcioněruju
 content-blocking-warning-title-custom = Někotare sedła snaź ze swójskim pśeslědowańskim šćitom korektnje njefunkcioněruju
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1352,18 +1355,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Snadne sedłowe problemy rozwězaś
     .description = Wótnowja wěcy ako wideo w nastawku abo komentarowych wótrězkach, gaž se elementy wěcej njeblokěruju, kótarež mógli pśeslědowaki wopśimowaś. To móžo swdłowe problemy reducěrowaś, bitujo pak mjenjej šćita. Musy se z rozwězanjami za wjelike problemy wužywaś.
-content-blocking-baseline-exceptions =
-    .label = Dowólśo { -brand-short-name } wuwześa awtomatiski nałožyś, kótarež su trjebne, aby se wjelikich problemow z websedłami wobinuli.
-content-blocking-baseline-exceptions-2 =
-    .label = Wótpórajo blokěrowanje jano wažnych elementow, kótarež mógli pśeslědowaki wopśimowaś, aby pomagało, sedła a funkcije zacytaś. Funkcioněrujo za nejcesćejše problemy.
-content-blocking-convenience-exceptions =
-    .label = Nałožćo teke wuwześa awtomatiski, kótarež su trjebne, aby mjeńše problemy rozwězał a wužytne funkcije k dispoziciji stajił.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Wótnowja wěcy ako wideo w nastawku abo komentarowych wótrězkach, gaž se elementy wěcej njeblokěruju, kótarež mógli pśeslědowaki wopśimowaś. To móžo swdłowe problemy reducěrowaś, bitujo pak mjenjej šćita. Musy se z rozwězanjami za wjelike problemy wužywaś.
-content-blocking-baseline-label = Wjelike sedłowe problemy rozwězaś (dopórucone)
-content-blocking-convenience-label = Snadne sedłowe problemy rozwězaś
-content-blocking-exceptions-subheader = Sedłowe problemy rozwězaś
 content-blocking-baseline-uncheck-warning-dialog-title = Cośo napšawdu rozwězanja znjemóžniś?
 content-blocking-baseline-uncheck-warning-dialog-body = Toś to nastajenje pomaga, nejcesćejše sedłowe problemy rozwězaś. Jolic jo znjemóžnjaśo, někotare sedła snaź njefunkcioněruju, a { -brand-short-name } njamóžo pomagaś, te problemy rozwězaś.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Rozwězanja znjemóžniś
@@ -1563,7 +1554,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikaty
-certs-description = Konfigurěrujśo certifikaty, kótarež { -brand-short-name } za awtentifikaciju wužywa.
 certs-enable-ocsp =
     .label = Pla wótegronowych serwerow OCSP se napšašowaś, aby aktualnu płaśiwosć certifikatow wobkšuśiło
     .accesskey = P
