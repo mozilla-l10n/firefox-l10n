@@ -522,6 +522,7 @@ certs-header = Tabatiyan-tiirawey
 certs-enable-ocsp =
     .label = Hayyan OCSP zaabi feršikey ka sohõda tabatandi tiira booriyanoo cimandi.
     .accesskey = H
+certs-devices-enable-fips = FIPS tunandi
 
 ## Privacy Section - HTTPS-Only
 
