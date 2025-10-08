@@ -987,6 +987,7 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguranza…
     .accesskey = D
+certs-devices-enable-fips = Activar os FIPS
 
 ## Privacy Section - HTTPS-Only
 
