@@ -1575,6 +1575,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } hižo dosć składowanskeho ruma nima.</strong> Wobsah websydła so snano korektnje njezwobrazni. Móžeće składowane daty w Nastajenja > Priwatnosć a wěstota > Placki a sydłowe daty zhašeć.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hižo dosć składowanskeho ruma nima.</strong> Wobsah websydła so snano korektnje njezwobrazni. Móžeće na “Dalše informacije” kliknyć, zo byšće swój składowe wužiće za lěpše přehladowanske dožiwjenje opiměrował.
 certs-description = Konfigurujće certifikaty, kotrež { -brand-short-name } za awtentifikaciju wužiwa.
+certs-description2 =
+    .label = Certifikaty
+    .description = Konfigurujće certifikaty, kotrež { -brand-short-name } za awtentifikaciju wužiwa.
 
 ## Privacy Section - HTTPS-Only
 
