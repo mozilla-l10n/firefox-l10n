@@ -754,6 +754,7 @@ certs-view =
 certs-devices =
     .label = Drūseibys īrīces…
     .accesskey = D
+certs-devices-enable-fips = Īslēgt FIPS
 
 ## Privacy Section - HTTPS-Only
 
