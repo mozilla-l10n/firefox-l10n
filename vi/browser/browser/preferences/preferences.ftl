@@ -1544,6 +1544,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Cho phép { -brand-short-name } tự động tin cậy chứng chỉ gốc của bên thứ ba mà bạn cài đặt
     .accesskey = t
+certs-devices-enable-fips = Bật FIPS
 space-alert-over-5gb-settings-button =
     .label = Mở Cài đặt
     .accesskey = O
