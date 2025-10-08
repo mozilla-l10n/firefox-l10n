@@ -741,6 +741,7 @@ certs-view =
 certs-devices =
     .label = ឧបករណ៍​សុវត្ថិភាព…
     .accesskey = D
+certs-devices-enable-fips = បើក FIPS
 
 ## Privacy Section - HTTPS-Only
 
