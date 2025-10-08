@@ -253,9 +253,17 @@ tab-group-editor-color-selector2-red = Rosso
 tab-group-description = { $tabGroupName } — Gruppo di schede
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Compresso
 tab-group-label-tooltip-expanded = { $tabGroupName } — Espanso
+tab-group-preview-name =
+    .aria-label = Schede in un gruppo compresso
 tab-context-unnamed-group =
     .label = Gruppo senza nome
 tab-group-name-default = Gruppo senza nome
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Elenco schede aperto
+tab-group-preview-closed-description = Elenco schede chiuso
 
 ##
 
