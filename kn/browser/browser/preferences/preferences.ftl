@@ -615,6 +615,7 @@ certs-view =
 certs-devices =
     .label = ಸುರಕ್ಷತಾ ಸಾಧನಗಳು…
     .accesskey = D
+certs-devices-enable-fips = FIPS ಅನ್ನು ಶಕ್ತಗೊಳಿಸಿ
 
 ## Privacy Section - HTTPS-Only
 
