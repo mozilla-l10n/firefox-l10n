@@ -1323,6 +1323,7 @@ certs-view =
 certs-devices =
     .label = Безбедносни уређаји…
     .accesskey = Б
+certs-devices-enable-fips = Омогући FIPS
 space-alert-over-5gb-settings-button =
     .label = Отвори подешавања
     .accesskey = О
