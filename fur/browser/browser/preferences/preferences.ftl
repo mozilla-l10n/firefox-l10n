@@ -1560,6 +1560,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Permet a { -brand-short-name } di considerâ atendibii in automatic i certificâts lidrîs di tiercis parts che tu instalis
     .accesskey = t
+certs-devices-enable-fips = Ative FIPS
 space-alert-over-5gb-settings-button =
     .label = Vierç Impostazions
     .accesskey = I
