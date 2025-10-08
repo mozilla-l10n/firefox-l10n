@@ -142,6 +142,10 @@ startup-header = Покретање
 always-check-default =
     .label = Проверавај да ли је { -brand-short-name } подразумевани прегледач
     .accesskey = р
+is-default-browser =
+    .message = { -brand-short-name } је тренутно подразумевани прегледач
+is-not-default-browser =
+    .message = { -brand-short-name } није подразумевани прегледач
 is-default = { -brand-short-name } је тренутно подразумевани прегледач
 is-not-default = { -brand-short-name } није подразумевани прегледач
 set-as-my-default-browser =
@@ -1285,6 +1289,9 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
