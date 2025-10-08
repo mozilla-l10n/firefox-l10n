@@ -1547,6 +1547,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = לאפשר ל־{ -brand-short-name } לתת באופן אוטומטי אמון באישורי שורש מצד שלישי שיותקנו על ידך
     .accesskey = ל
+certs-devices-enable-fips = הפעלת FIPS
 space-alert-over-5gb-settings-button =
     .label = פתיחת הגדרות
     .accesskey = ה
