@@ -1330,7 +1330,6 @@ content-blocking-etp-standard-tcp-rollout-description = La protection totale con
 content-blocking-etp-standard-tcp-rollout-learn-more = En savoir plus
 content-blocking-etp-standard-tcp-title = Inclut la protection totale contre les cookies, notre fonctionnalité de protection de la vie privée la plus puissante
 content-blocking-warning-title = Attention !
-content-blocking-and-isolating-etp-warning-description-3 = Ce paramètre peut empêcher certains sites web d’afficher du contenu ou de fonctionner correctement. Nous proposons des exceptions facultatives pour les sites web que nous savons susceptibles d’être affectés par vos paramètres. Afin de diminuer le risque de dysfonctionnement des sites, il est conseillé d’autoriser ces exceptions pour les traqueurs. Si un site semble cassé, vous pouvez désactiver la protection contre le pistage pour ce site, charger l’ensemble du contenu et signaler le problème afin que nous puissions le résoudre pour tout le monde.
 content-blocking-warning-title-2 = Il se peut que certains sites ne fonctionnent pas correctement lorsque la protection stricte contre le pistage est activée
 content-blocking-warning-title-custom = Il se peut que certains sites ne fonctionnent pas correctement lorsque la protection personnalisée contre le pistage est activée
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1343,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Résoudre les problèmes mineurs des sites
     .description = Restaure des éléments tels que des vidéos dans un article ou des sections de commentaires en débloquant des éléments qui peuvent contenir des traqueurs. Cela peut réduire les problèmes des sites, mais offre une moins bonne protection. Doit être utilisé avec les correctifs pour les problèmes majeurs.
-content-blocking-baseline-exceptions =
-    .label = Autoriser { -brand-short-name } à appliquer automatiquement les exceptions nécessaires pour éviter tout dysfonctionnement majeur des sites web.
-content-blocking-baseline-exceptions-2 =
-    .label = Aide à charger les sites et les fonctionnalités en débloquant uniquement les éléments essentiels pouvant contenir des traqueurs. Corrige les problèmes les plus courants.
-content-blocking-convenience-exceptions =
-    .label = Appliquer également de manière automatique les exceptions qui sont uniquement nécessaires pour corriger des problèmes mineurs et pour rendre accessibles des fonctionnalités pratiques.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Restaure des éléments tels que des vidéos dans un article ou des sections de commentaires en débloquant des éléments qui peuvent contenir des traqueurs. Cela peut réduire les problèmes des sites, mais offre une moins bonne protection. Doit être utilisé avec les correctifs pour les problèmes majeurs.
-content-blocking-baseline-label = Résoudre les problèmes majeurs des sites (recommandé)
-content-blocking-convenience-label = Résoudre les problèmes mineurs des sites
-content-blocking-exceptions-subheader = Résoudre les problèmes des sites
 content-blocking-baseline-uncheck-warning-dialog-title = Voulez-vous vraiment désactiver les correctifs ?
 content-blocking-baseline-uncheck-warning-dialog-body = Ce paramètre permet de résoudre les problèmes les plus courants sur les sites. Si vous le désactivez, certains sites peuvent ne pas fonctionner et { -brand-short-name } ne sera pas en mesure de vous aider à résoudre ces problèmes.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Désactiver les correctifs
@@ -1555,7 +1542,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificats
-certs-description = Configurer les certificats que { -brand-short-name } utilise pour l’authentification.
 certs-enable-ocsp =
     .label = Interroger le répondeur OCSP pour confirmer la validité de vos certificats
     .accesskey = I
@@ -1573,6 +1559,7 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } n’a plus assez d’espace disque.</strong> Le contenu des sites web pourrait ne pas s’afficher correctement. Vous pouvez effacer les données de sites enregistrées depuis Paramètres > Vie privée et sécurité > Cookies et données de sites.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } n’a plus assez d’espace disque.</strong> Le contenu des sites web pourrait ne pas s’afficher correctement. Cliquez sur « En savoir plus » pour optimiser l’utilisation de votre disque et ainsi améliorer votre navigation.
+certs-description = Configurer les certificats que { -brand-short-name } utilise pour l’authentification.
 
 ## Privacy Section - HTTPS-Only
 
