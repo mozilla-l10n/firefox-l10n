@@ -797,6 +797,7 @@ certs-view =
 certs-devices =
     .label = Təhlükəsizlik cihazları…
     .accesskey = T
+certs-devices-enable-fips = FIPS aktivləşdir
 
 ## Privacy Section - HTTPS-Only
 
