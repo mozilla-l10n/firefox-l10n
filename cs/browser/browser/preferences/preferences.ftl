@@ -175,6 +175,8 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Otevřít okna a panely z minula
     .accesskey = p
+startup-windows-launch-on-login-profile-disabled =
+    .message = Povolte tuto předvolbu zaškrtnutím "{ profile-manager-use-selected.label }" v okně "Výběr profilu uživatele".
 windows-launch-on-login =
     .label =
         { -brand-short-name.case-status ->
