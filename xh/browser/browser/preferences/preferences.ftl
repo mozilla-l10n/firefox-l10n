@@ -550,6 +550,7 @@ certs-header = Izatifikethi
 certs-enable-ocsp =
     .label = Buza iiseva zomphenduli ze-OCSP ukuqinisekisa ukugqibelela kwangoku kwezatifikethi
     .accesskey = B
+certs-devices-enable-fips = Nika isakhono kwi-FIPS
 
 ## Privacy Section - HTTPS-Only
 
