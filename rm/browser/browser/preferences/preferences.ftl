@@ -1544,6 +1544,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Permetter a { -brand-short-name } dad automaticamain considerar certificats root da terzas partidas che ti installeschas sco fidabels
     .accesskey = t
+certs-devices-enable-fips = Activar FIPS
 space-alert-over-5gb-settings-button =
     .label = Avrir ils parameters
     .accesskey = A
