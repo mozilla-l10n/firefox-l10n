@@ -99,8 +99,7 @@ browsing-use-smooth-scrolling =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
@@ -208,6 +207,7 @@ history-header = Umlandvo
 ## Privacy Section - Certificates
 
 certs-header = Titifiketi
+certs-devices-enable-fips = Nika emandla FIPS
 
 ## Privacy Section - HTTPS-Only
 
