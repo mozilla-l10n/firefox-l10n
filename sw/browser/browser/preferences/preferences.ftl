@@ -23,14 +23,37 @@ feature-enable-requires-restart = { -brand-short-name } lazima ianze upya ili iw
 feature-disable-requires-restart = { -brand-short-name } lazima ianze upya ili ilemaze kipengele hiki.
 should-restart-title = Washa upya { -brand-short-name }
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Uwashaji
+is-default-browser =
+    .message = { -brand-short-name } kwa sasa ni kivinjari chako msingi
 is-default = { -brand-short-name } kwa sasa ni kivinjari chako msingi
 tabs-group-header = Vichupo
 show-tabs-in-taskbar =
     .label = Onyesha vihakiki vya kichupo katika mwambaa wa kazi wa Windows
     .accesskey = m
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -149,6 +172,9 @@ network-proxy-connection-settings =
     .label = Mipangilio…
     .accesskey = i
 
+## Home Section
+
+
 ## Home Section - Home Page Customization
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -166,6 +192,15 @@ choose-bookmark =
     .label = Tumia Alamisho…
     .accesskey = A
 
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
+
 ## Search Section
 
 search-remove-engine =
@@ -179,6 +214,29 @@ search-keyword-warning-title = Rudia Nenomsingi
 search-keyword-warning-engine = Umechagua nenomsingi ambalo kwa sasa linatumiwa na "{ $name }". Tafadhali chagua lingine.
 search-keyword-warning-bookmark = Umechagua nenomsingi ambalo kwa sasa linatumiwa na alamisho. Tafadhali chague lingine.
 
+## Containers Section
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -187,6 +245,19 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historia
     .accesskey = r
+
+## The device name controls.
+
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
 
 ## Privacy Section - Passwords
 
@@ -200,6 +271,12 @@ forms-master-pw-change =
     .label = Badilisha Jina Kuu la nywila…
     .accesskey = J
 forms-master-pw-fips-desc = Ubadilishaji wa Neno la Siri Umeshindwa
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -223,6 +300,34 @@ history-clear-on-close-settings =
     .label = Mipangilio…
     .accesskey = p
 
+## Privacy Section - Site Data
+
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-block-popups =
@@ -232,9 +337,27 @@ permissions-addon-exceptions =
     .label = Mambo ya kipekee…
     .accesskey = M
 
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
 ## Privacy Section - Certificates
 
 certs-header = Vyeti
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
