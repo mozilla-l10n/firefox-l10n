@@ -382,6 +382,7 @@ certs-header = प्रमाणपत्रां
 certs-enable-ocsp =
     .label = प्रमाणपत्रांची सद्याची वैधता विचारपाक OCSP प्रतिसाद दिवपी सर्वरांक प्रस्न विचारात
     .accesskey = प
+certs-devices-enable-fips = एफआयपीएस सक्षम
 
 ## Privacy Section - HTTPS-Only
 
