@@ -1564,12 +1564,16 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Дазволіць { -brand-short-name } аўтаматычна давяраць усталяваным вамі каранёвым сертыфікатам трэцяга боку
     .accesskey = е
+certs-devices-enable-fips = Дазволіць FIPS
 space-alert-over-5gb-settings-button =
     .label = Адкрыць налады
     .accesskey = А
 space-alert-over-5gb-message2 = <strong>У { -brand-short-name } сканчаецца месца на дыску</strong>. Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Вы можаце выдаліць захаваныя дадзеныя ў Налады > Прыватнасць і бяспека > Кукі і дадзеныя сайтаў.
 space-alert-under-5gb-message2 = <strong>У { -brand-short-name } сканчаецца месца на дыску.</strong> Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Клікніце “Падрабязней”, каб аптымізаваць выкарыстанне вашага дыска для паляпшэння вэб-сёрфінгу.
 certs-description = Наладзьце сертыфікаты, якія { -brand-short-name } выкарыстоўвае для аўтэнтыфікацыі.
+certs-description2 =
+    .label = Сертыфікаты
+    .description = Наладзьце сертыфікаты, якія { -brand-short-name } выкарыстоўвае для аўтэнтыфікацыі.
 
 ## Privacy Section - HTTPS-Only
 
