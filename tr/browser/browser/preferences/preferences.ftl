@@ -1560,6 +1560,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = { -brand-short-name } yüklediğim üçüncü taraf kök sertifikalarına otomatik olarak güvenebilsin
     .accesskey = t
+certs-devices-enable-fips = FIPS’i etkinleştir
 space-alert-over-5gb-settings-button =
     .label = Ayarları aç
     .accesskey = A
