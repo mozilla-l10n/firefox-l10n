@@ -1553,6 +1553,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Emoneĩ { -brand-short-name } tojerovia ijehegui jeguerohoryvéva mbohapyha omohendáva
     .accesskey = t
+certs-devices-enable-fips = Embojuruja FIPS
 space-alert-over-5gb-settings-button =
     .label = Embojuruja ñemboheko
     .accesskey = O
