@@ -1551,6 +1551,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량이 부족합니다.</strong> 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인 정보 및 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량이 부족합니다.</strong> 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 더 나은 인터넷 경험을 위해 디스크 용량을 최적화하는 방법을 알아보려면 “더 알아보기”를 방문하세요.
 certs-description = { -brand-short-name }가 인증에 사용하는 인증서를 구성합니다.
+certs-description2 =
+    .label = 인증서
+    .description = { -brand-short-name }가 인증에 사용하는 인증서를 구성합니다.
 
 ## Privacy Section - HTTPS-Only
 
