@@ -1173,6 +1173,7 @@ certs-view =
 certs-devices =
     .label = Taq Rokisab'al Jikomal…
     .accesskey = R
+certs-devices-enable-fips = Titzij ruwäch FIPS
 space-alert-over-5gb-settings-button =
     .label = Tijaq taq runuk'ulem
     .accesskey = T
