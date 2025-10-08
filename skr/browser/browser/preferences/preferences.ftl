@@ -1360,6 +1360,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = تُساں انسٹال کرین٘دے ہوئے ترِیجھی پارٹی دے جڑ دے سرٹیفیکیٹ اُتے خود کار طریقے نال بھرواسہ کرݨ دی{ -brand-short-name } اجازت ݙیؤ
     .accesskey = t
+certs-devices-enable-fips = FIPS کوں فعال کرو۔
 space-alert-over-5gb-settings-button =
     .label = ترتیباں کھولو
     .accesskey = O
