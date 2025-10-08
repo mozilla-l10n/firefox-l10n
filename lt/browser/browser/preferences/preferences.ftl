@@ -1199,6 +1199,7 @@ certs-view =
 certs-devices =
     .label = Saugumo priemonės…
     .accesskey = S
+certs-devices-enable-fips = FIPS veiksena
 space-alert-over-5gb-settings-button =
     .label = Atverti nuostatas
     .accesskey = A
