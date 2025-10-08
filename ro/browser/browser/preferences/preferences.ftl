@@ -127,6 +127,10 @@ startup-header = Pornire
 always-check-default =
     .label = Verifică întotdeauna dacă { -brand-short-name } este browserul implicit
     .accesskey = y
+is-default-browser =
+    .message = { -brand-short-name } este în prezent browserul implicit
+is-not-default-browser =
+    .message = { -brand-short-name } nu este browserul implicit
 is-default = { -brand-short-name } este în prezent browserul implicit
 is-not-default = { -brand-short-name } nu este browserul implicit
 set-as-my-default-browser =
@@ -1334,7 +1338,6 @@ content-blocking-etp-standard-tcp-rollout-description = Protecția totală a coo
 content-blocking-etp-standard-tcp-rollout-learn-more = Află mai multe
 content-blocking-etp-standard-tcp-title = Include protecția totală a cookie-urilor, cea mai puternică funcție de confidențialitate pe care am proiectat-o noi vreodată
 content-blocking-warning-title = Atenție!
-content-blocking-and-isolating-etp-warning-description-3 = Setarea poate face ca unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Oferim excepții opționale pentru site-urile web despre care știm că pot fi afectate de configurația ta. Pentru a reduce șansa apariției de site-uri web defecte, permite aceste excepții pentru elementele de urmărire. Dacă un site pare defect, poți dezactiva protecția împotriva urmăririi pentru site-ul respectiv ca să încarce tot conținutul și raportează problema ca să putem ajuta la remedierea ei pentru toți.
 content-blocking-warning-title-2 = Unele site-uri ar putea funcționa necorespunzător cu protecție strictă împotriva urmăririi
 content-blocking-warning-title-custom = Se poate ca unele site-uri să nu funcționeze cu protecția personalizată împotriva urmăririi
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1348,18 +1351,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Remediază problemele minore ale site-urilor
     .description = Restaurează elemente cum ar fi videoclipuri într-un articol sau secțiunile de comentarii prin deblocarea componentelor care ar putea conține elemente de urmărire. Poate reduce problemele site-urilor dar oferă mai puțină protecție. Trebuie folosită cu remediile pentru probleme majore.
-content-blocking-baseline-exceptions =
-    .label = Permite { -brand-short-name } să aplice automat excepțiile necesare pentru a evita întreruperi majore ale site-ului web.
-content-blocking-baseline-exceptions-2 =
-    .label = Ajută la încărcarea site-urilor și a funcționalităților prin deblocarea numai a elementelor esențiale care ar putea conține elemente de urmărire. Rezolvă majoritatea problemelor frecvente.
-content-blocking-convenience-exceptions =
-    .label = Aplică automat excepții necesare doar pentru remedierea de probleme minore și pentru a face disponibile funcționalități utile.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Restaurează elemente cum ar fi videoclipuri într-un articol sau secțiunile de comentarii prin deblocarea componentelor care ar putea conține elemente de urmărire. Poate reduce problemele site-urilor dar oferă mai puțină protecție. Trebuie folosită cu remediile pentru probleme majore.
-content-blocking-baseline-label = Remediază problemele majore ale site-urilor (recomandat)
-content-blocking-convenience-label = Remediază problemele minore ale site-urilor
-content-blocking-exceptions-subheader = Remediază problemele site-urilor
 content-blocking-baseline-uncheck-warning-dialog-title = Sigur vrei să dezactivezi remediile?
 content-blocking-baseline-uncheck-warning-dialog-body = Această setare ajută la remedierea celor mai frecvente probleme ale site-urilor. Dacă o dezactivezi, unele site-uri ar putea să nu funcționeze, iar { -brand-short-name } nu va putea să ajute la rezolvarea acestor probleme.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Dezactivează remediile
@@ -1559,7 +1550,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificate
-certs-description = Configurează certificatele pe care { -brand-short-name } le folosește pentru autentificare.
 certs-enable-ocsp =
     .label = Interoghează serverele de răspuns OCSP pentru confirmarea valabilității actuale a certificatelor
     .accesskey = h
