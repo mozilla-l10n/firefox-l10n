@@ -1552,6 +1552,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = 允许 { -brand-short-name } 自动信任您安装的第三方根证书
     .accesskey = t
+certs-devices-enable-fips = 启用FIPS
 space-alert-over-5gb-settings-button =
     .label = 打开设置
     .accesskey = O
