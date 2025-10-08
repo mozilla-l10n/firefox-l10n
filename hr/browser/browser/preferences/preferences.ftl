@@ -1493,6 +1493,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Dozvoli { -brand-short-name(case: "dat") } da automatski vjeruje korijenskim certifikatima treće strane koje instaliraš
     .accesskey = t
+certs-devices-enable-fips = Aktiviraj FIPS
 space-alert-over-5gb-settings-button =
     .label = Otvori postavke
     .accesskey = O
