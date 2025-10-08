@@ -1346,7 +1346,6 @@ content-blocking-etp-standard-tcp-rollout-description = Mae Diogelwch Cwcis Llwy
 content-blocking-etp-standard-tcp-rollout-learn-more = Darllen rhagor
 content-blocking-etp-standard-tcp-title = Yn cynnwys Diogelwch Cwcis Llwyr, ein nodwedd preifatrwydd mwyaf pwerus erioed
 content-blocking-warning-title = Rhybudd!
-content-blocking-and-isolating-etp-warning-description-3 = Gall y gosodiad hwn achosi i rai gwefannau beidio â dangos cynnwys neu swyddogaeth yn gywir. Rydym yn darparu eithriadau dewisol ar gyfer gwefannau rydym yn gwybod y gall eich ffurfweddid effeithio arnyn nhw. Er mwyn lleihau'r siawns o wefannau sydd wedi torri, caniatewch yr eithriadau i'r tracwyr hyn. Os yw gwefan yn ymddangos ei fod wedi torri, gallwch ddiffodd y diogelu rhag tracio'r wefan honno i lwytho'r holl gynnwys ac adrodd am y mater fel y gallwn helpu i'w drwsio i bawb.
 content-blocking-warning-title-2 = Efallai y bydd rhai gwefannau'n torri diogelwch tracio llym
 content-blocking-warning-title-custom = Mae'n bosibl y bydd rhai gwefannau'n torri gyda diogelu tracio cyfaddas
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1360,18 +1359,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Datrys problemau bach gwefan (argymell)
     .description = Mae'n adfer pethau fel fideos mewn erthygl neu adrannau sylwadau trwy ddadrwystro elfennau sy'n gallu cynnwys tracwyr. Gall hyn leihau problemau gwefan ond mae'n cynnig llai o ddiogelwch. Rhaid ei ddefnyddio gyda datrysiadau ar gyfer materion mawr.
-content-blocking-baseline-exceptions =
-    .label = Caniatáu i { -brand-short-name } osod yn awtomatig yr eithriadau sydd eu hangen er mwyn osgoi chwaliadau mawr i'r wefan.
-content-blocking-baseline-exceptions-2 =
-    .label = Yn helpu i lwytho gwefannau a nodweddion trwy ddadrwystro dim ond elfennau hanfodol sy'n gallu cynnwys tracwyr. Mae'n datrys y problemau mwyaf cyffredin.
-content-blocking-convenience-exceptions =
-    .label = Hefyd, gosod eithriadau'n awtomatig sydd dim ond eu hangen i drwsio mân faterion a sicrhau bod nodweddion cyfleustra ar gael.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Mae'n adfer pethau fel fideos mewn erthygl neu adrannau sylwadau trwy ddadrwystro elfennau sy'n gallu cynnwys tracwyr. Gall hyn leihau problemau gwefan ond mae'n cynnig llai o ddiogelwch. Rhaid ei ddefnyddio gyda datrysiadau ar gyfer materion mawr.
-content-blocking-baseline-label = Datrys problemau mawr gwefan (argymell)
-content-blocking-convenience-label = Datrys problemau bach gwefan (argymell)
-content-blocking-exceptions-subheader = Datrys problemau gwefan
 content-blocking-baseline-uncheck-warning-dialog-title = Ydych chi'n siŵr eich bod am ddiffodd datrysiadau?
 content-blocking-baseline-uncheck-warning-dialog-body = Mae'r gosodiad hwn yn helpu i ddatrys y problemau gwefannau mwyaf cyffredin. Os byddwch yn ei ddiffodd, efallai na fydd rhai gwefannau'n gweithio, ac ni fydd { -brand-short-name } yn gallu helpu i ddatrys y problemau hynny.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Diffodd datrysiadau
@@ -1571,7 +1558,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Tystysgrifau
-certs-description = Ffurfweddu'r tystysgrifau mae { -brand-short-name } yn eu defnyddio ar gyfer dilysu.
 certs-enable-ocsp =
     .label = Gofyn i weinyddion atebwr OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau
     .accesskey = G
