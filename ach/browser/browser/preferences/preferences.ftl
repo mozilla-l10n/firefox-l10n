@@ -806,6 +806,7 @@ certs-view =
 certs-devices =
     .label = Nyonyo me ber bedo…
     .accesskey = N
+certs-devices-enable-fips = Mii tic me FIPS
 
 ## Privacy Section - HTTPS-Only
 
