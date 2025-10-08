@@ -915,6 +915,7 @@ certs-view =
 certs-devices =
     .label = Nej sa dugumi...
     .accesskey = N
+certs-devices-enable-fips = Nachrun FIPS
 
 ## Privacy Section - HTTPS-Only
 
