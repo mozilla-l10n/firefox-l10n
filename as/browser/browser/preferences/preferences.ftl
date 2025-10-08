@@ -402,6 +402,7 @@ certs-header = প্ৰমাণপত্ৰসমূহ
 certs-enable-ocsp =
     .label = প্ৰমাণপত্ৰসমূহৰ বৰ্তমান বৈধতা সুনিশ্চিত কৰিবলে OCSP ৰেস্পণ্ডাৰক প্ৰশ্ন কৰক
     .accesskey = Q
+certs-devices-enable-fips = FIPS সামৰ্থবান কৰক
 
 ## Privacy Section - HTTPS-Only
 
