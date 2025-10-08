@@ -1564,6 +1564,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Дазволіць { -brand-short-name } аўтаматычна давяраць усталяваным вамі каранёвым сертыфікатам трэцяга боку
     .accesskey = е
+certs-devices-enable-fips = Дазволіць FIPS
 space-alert-over-5gb-settings-button =
     .label = Адкрыць налады
     .accesskey = А
