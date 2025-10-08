@@ -1171,6 +1171,7 @@ certs-view =
 certs-devices =
     .label = Turvaseadmed…
     .accesskey = T
+certs-devices-enable-fips = Luba FIPS
 space-alert-over-5gb-settings-button =
     .label = Ava sätted
     .accesskey = v
