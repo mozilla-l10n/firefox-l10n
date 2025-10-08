@@ -1560,6 +1560,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Tillat at { -brand-short-name } automatisk stoler på tredjeparts rotsertifikater du installerer
     .accesskey = T
+certs-devices-enable-fips = Bruk FIPS
 space-alert-over-5gb-settings-button =
     .label = Åpne Innstillinger
     .accesskey = p
