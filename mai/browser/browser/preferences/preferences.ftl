@@ -430,6 +430,7 @@ certs-header = प्रमाणपत्र
 certs-enable-ocsp =
     .label = OCSP रेस्पांडर सर्वर कए प्रश्न करू जाहि स प्रमाणपत्रक मोजुदा वैधताक पुष्टि भए सकय (Q)
     .accesskey = Q
+certs-devices-enable-fips = FIPS सक्रिय  करू
 
 ## Privacy Section - HTTPS-Only
 
