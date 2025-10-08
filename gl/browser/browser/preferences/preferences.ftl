@@ -1490,6 +1490,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Permitir que { -brand-short-name } confíe automaticamente nos certificados raíz de terceiros que instales
     .accesskey = c
+certs-devices-enable-fips = Activar FIPS
 space-alert-over-5gb-settings-button =
     .label = Abrir configuración
     .accesskey = o
