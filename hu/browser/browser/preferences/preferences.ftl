@@ -1506,6 +1506,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Engedélyezés, hogy a { -brand-short-name } automatikusan megbízzon a telepített harmadik féltől származó gyökértanúsítványokban
     .accesskey = t
+certs-devices-enable-fips = FIPS engedélyezése
 space-alert-over-5gb-settings-button =
     .label = Beállítások megnyitása
     .accesskey = m
