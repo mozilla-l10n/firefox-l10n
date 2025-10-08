@@ -1536,6 +1536,9 @@ space-alert-over-5gb-settings-button =
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } を実行するためのディスク領域が足りません。</strong>ウェブサイトが正しく表示されない可能性があります。“設定” > “プライバシーとセキュリティ” > “Cookie とサイトデータ” から、保存されたデータを削除してください。
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } を実行するためのディスク領域が足りません。</strong>ウェブサイトが正しく表示されない可能性があります。快適なブラウジングのために、“詳細情報” のリンク先を読み、ディスク使用量を最適化してください。
 certs-description = { -brand-short-name } が認証に使用する証明書を設定します。
+certs-description2 =
+    .label = 証明書
+    .description = { -brand-short-name } が認証に使用する証明書を設定します。
 
 ## Privacy Section - HTTPS-Only
 
