@@ -1236,6 +1236,7 @@ certs-view =
 certs-devices =
     .label = ᱡᱟᱹᱯᱛᱤ ᱥᱟᱫᱷᱚᱱ…
     .accesskey = D
+certs-devices-enable-fips = FIPS ᱦᱩᱭ ᱦᱚᱪᱚ
 space-alert-over-5gb-settings-button =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ ᱡᱷᱤᱜ ᱢᱮ
     .accesskey = O
