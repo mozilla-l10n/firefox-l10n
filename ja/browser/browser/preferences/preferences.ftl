@@ -1529,6 +1529,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = ユーザーがインストールしたサードパーティのルート証明書を自動的に信頼することを { -brand-short-name } に許可する
     .accesskey = t
+certs-devices-enable-fips = FIPS を有効にする
 space-alert-over-5gb-settings-button =
     .label = 設定を開く
     .accesskey = O
