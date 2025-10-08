@@ -1552,6 +1552,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Να επιτρέπεται στο { -brand-short-name } να εμπιστεύεται αυτόματα τα τρίτα πιστοποιητικά ρίζας που εγκαθιστάτε
     .accesskey = π
+certs-devices-enable-fips = Ενεργοποίηση FIPS
 space-alert-over-5gb-settings-button =
     .label = Άνοιγμα ρυθμίσεων
     .accesskey = Ά
