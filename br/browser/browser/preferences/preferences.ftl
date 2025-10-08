@@ -1265,6 +1265,7 @@ certs-view =
 certs-devices =
     .label = Trevnadoù diogelroez…
     .accesskey = T
+certs-devices-enable-fips = Gweredekaat FIPS
 space-alert-over-5gb-settings-button =
     .label = Digeriñ an arventennoù
     .accesskey = D
