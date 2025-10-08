@@ -1330,7 +1330,6 @@ content-blocking-etp-standard-tcp-rollout-description = ფუნთუშებ
 content-blocking-etp-standard-tcp-rollout-learn-more = ვრცლად
 content-blocking-etp-standard-tcp-title = მოიცავს ფუნთუშებისგან ყოველმხრივ დაცვასაც, ჩვენს არნახულად მძლავრ საშუალებას პირადულობისთვის
 content-blocking-warning-title = ფრთხილად!
-content-blocking-and-isolating-etp-warning-description-3 = ამ პარამეტრმა შეიძლება, ზოგ ვებსაიტზე შიგთავსის გამოსახვისა და მუშაობისას გაუმართაობები წარმოშვას. დამატებით გთავაზობთ გამონაკლისად დატოვებას იმ საიტებისა, რომლებზე ზემოქმედებაც მოსალოდნელია მოცემული სახით გამართვისას. საიტებზე გაუმართაობების შესამცირებლად, დაამატეთ აღნიშნული მეთვალყურეები გამონაკლისებში. თუ საიტი მაინც არასათანადოდ მუშაობს, შეგიძლიათ საერთოდ გამორთოთ თვალთვალისგან დაცვა, რომ სრულად ჩაიტვირთოს შიგთავსი და გამოგვიგზავნოთ ხარვეზის შესახებ მოხსენება, რაც მის საყოველთაოდ გამოსწორებაში დაგვეხმარება.
 content-blocking-warning-title-2 = ზოგი საიტის გაუმართაობას შეიძლება იწვევდეს თვალთვალისგან მკაცრი დაცვა
 content-blocking-warning-title-custom = ზოგი საიტის გაუმართაობას შეიძლება იწვევდეს თვალთვალისგან მორგებული დაცვა
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1343,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = საიტზე მცირე ხარვეზების გამოსწორება
     .description = აღადგენს სტატიებში გამქრალ ვიდეოებსა თუ გამოხმაურებების არეებს იმ ნაწილებზე შეზღუდვების მოხსნით, რომლებიც მეთვალყურეებს შეიძლება შეიცავდეს. ეს შეამცირებს საიტის ხარვეზებს, მაგრამ უზრუნველყოფს ნაკლებ დაცვას. მიზანშეწონილია მნიშვნელოვანი ხარვეზების გამოსასწორებლად.
-content-blocking-baseline-exceptions =
-    .label = ნების დართვა, რომ { -brand-short-name } თავადვე მიუთითებს საჭირო გამონაკლისებს ცნობილ საიტებზე გაუმართაობების ასარიდებლად.
-content-blocking-baseline-exceptions-2 =
-    .label = გეხმარებათ საიტებისა და შესაძლებლობების სათანადოდ ჩატვირთვაში შეზღუდვების მოხსნით მხოლოდ ძირითად ნაწილებზე, რომლებიც შესაძლოა მეთვალყურეებსაც შეიცავდეს. აგვარებს გავრცელებული ხარვეზების უმეტესობას.
-content-blocking-convenience-exceptions =
-    .label = აგრეთვე, თავადვე მიუთითებს იმ გამონაკლისებსაც, რომლებიც მხოლოდ მცირე ხარვეზების აღმოფხვრისა და მოსახერხებელი შესაძლებლობების ხელმისაწვდომობისთვისაა საჭირო.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = აღადგენს სტატიებში გამქრალ ვიდეოებსა თუ გამოხმაურებების არეებს იმ ნაწილებზე შეზღუდვების მოხსნით, რომლებიც მეთვალყურეებს შეიძლება შეიცავდეს. ეს შეამცირებს საიტის ხარვეზებს, მაგრამ უზრუნველყოფს ნაკლებ დაცვას. მიზანშეწონილია მნიშვნელოვანი ხარვეზების გამოსასწორებლად.
-content-blocking-baseline-label = საიტზე მნიშვნელოვანი ხარვეზების გამოსწორება (სასურველია)
-content-blocking-convenience-label = საიტზე მცირე ხარვეზების გამოსწორება
-content-blocking-exceptions-subheader = საიტზე ხარვეზების გამოსწორება
 content-blocking-baseline-uncheck-warning-dialog-title = ნამდვილად გსურთ ხარვეზების გამოსწორების უარყოფა?
 content-blocking-baseline-uncheck-warning-dialog-body = ეს პარამეტრი გამოგადგებათ საიტის გავრცელებული ხარვეზების გამოსწორებაში. გამორთვის შემთხვევაში ზოგი საიტი გაუმართავად იმუშავებს და { -brand-short-name } ამ ხარვეზების აღმოფხვრაში ვერ დაგეხმარებათ.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = გასწორების გამორთვა
@@ -1555,7 +1542,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = სერტიფიკატები
-certs-description = იმ სერტიფიკატების გამართვა, რომელთაც { -brand-short-name } იყენებს დამოწმებისთვის.
 certs-enable-ocsp =
     .label = სერტიფიკატების დამოწმება OCSP-მოთხოვნით
     .accesskey = O
