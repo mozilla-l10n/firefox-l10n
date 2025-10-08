@@ -1330,7 +1330,6 @@ content-blocking-etp-standard-tcp-rollout-description = Protezion totâl dai coo
 content-blocking-etp-standard-tcp-rollout-learn-more = Plui informazions
 content-blocking-etp-standard-tcp-title = Al inclût Protezion Totâl dai Cookies, la nestre miôr funzionalitât pal massim de riservatece
 content-blocking-warning-title = Atenzion!
-content-blocking-and-isolating-etp-warning-description-3 = Cheste impostazion e podarès impedî la juste visualizazion dai contignûts o il just funzionament di cualchi sît web. O din ecezions facoltativis pai sîts web che o savìn che a mostrin incompatibilitâts cun cheste configurazion. Par diminuî la pussibilitât di malfunzionaments, permet chestis ecezions pes spiis. Se un sît nol funzione ben, tu puedis disativâ la protezion da lis spiis par cjariâ ducj i contignûts e segnalâ il probleme, judantnus a risolvilu par ducj i utents.
 content-blocking-warning-title-2 = Al è pussibil che cualchi sît nol funzioni ben cuntune protezion da lis spiis restritive
 content-blocking-warning-title-custom = Al è pussibil che cualchi sît nol funzioni ben cuntune protezion da lis spiis personalizade
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1343,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Risolf problemis plui piçui cui sîts
     .description = Al ripristine robis come i videos intun articul o lis sezions dai coments, lant a sblocâ i elements che a podaressin contignî spiis. Chest al pues diminuî i problemis dai sîts ma al da mancul protezion. Tu scugnis doprâlu adun cu lis corezions pai problemis plui grivis.
-content-blocking-baseline-exceptions =
-    .label = Permet a { -brand-short-name } di aplicâ in automatic lis ecezions necessariis par evitâ i problemis plui impuartants cui sîts web.
-content-blocking-baseline-exceptions-2 =
-    .label = Al jude a cjariâ e a funzionâ ben i sîts, lant a sblocâ nome i elements essenziâi che a podaressin contignî spiis. Cheste soluzion e permet di risolvi i problemis plui comuns.
-content-blocking-convenience-exceptions =
-    .label = Apliche in automatic ancje lis ecezions che a coventin nome par risolvi i problemis plui piçui e rindi disponibilis funzions utilis.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Al ripristine robis come i videos intun articul o lis sezions dai coments, lant a sblocâ i elements che a podaressin contignî spiis. Chest al pues diminuî i problemis dai sîts ma al da mancul protezion. Tu scugnis doprâlu adun cu lis corezions pai problemis plui grivis.
-content-blocking-baseline-label = Risolf problemis plui grivis cui sîts (opzion conseade)
-content-blocking-convenience-label = Risolf problemis plui piçui cui sîts
-content-blocking-exceptions-subheader = Risolf problemis cui sîts
 content-blocking-baseline-uncheck-warning-dialog-title = Disativâ pardabon lis corezions?
 content-blocking-baseline-uncheck-warning-dialog-body = Cheste impostazion e permet di risolvi i problemis plui comuns cui sîts. Se tu le disativis, al è pussibil che cualchi sît nol funzioni e { -brand-short-name } nol rivarà a judâti a risolvi chescj problemis.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Disative corezions
@@ -1555,7 +1542,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificâts
-certs-description = Configure i certificâts doprâts di { -brand-short-name } pe autenticazion.
 certs-enable-ocsp =
     .label = Domande ai servidôrs dai rispuindidôrs OCSP di confermâ la validitât corinte dai certificâts
     .accesskey = Q
@@ -1573,6 +1559,7 @@ space-alert-over-5gb-settings-button =
     .accesskey = I
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } al sta finint il spazi su disc.</strong> Al è pussibil che i contignûts dai sîts web no vignedin visualizâts ben. Tu puedis netâ i dâts archiviâts in Impostazions > Riservatece e sigurece > Cookies e dâts di sîts.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } al sta finint il spazi su disc.</strong> Al è pussibil che i contignûts dai sîts web no vignedin visualizâts ben. Visite “Plui informazions” par otimizâ la utilizazion dal to disc cussì di vê une esperience di navigazion miorade.
+certs-description = Configure i certificâts doprâts di { -brand-short-name } pe autenticazion.
 
 ## Privacy Section - HTTPS-Only
 
