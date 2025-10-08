@@ -385,6 +385,7 @@ certs-header = سرٹیفیکٹس
 certs-enable-ocsp =
     .label = کیوری او سی ایس پی ریسپانڈر سْرور تصدیق کرنْہ باپت موجود ویلیڈیٹی سرٹیفیکٹن ہْنز
     .accesskey = ک
+certs-devices-enable-fips = FIPS  بنٲویو ممكن
 
 ## Privacy Section - HTTPS-Only
 
