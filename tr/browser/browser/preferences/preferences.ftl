@@ -1330,7 +1330,6 @@ content-blocking-etp-standard-tcp-rollout-description = Komple çerez koruması,
 content-blocking-etp-standard-tcp-rollout-learn-more = Daha fazla bilgi al
 content-blocking-etp-standard-tcp-title = Şimdiye kadarki en güçlü gizlilik özelliğimiz olan komple çerez korumasını içerir
 content-blocking-warning-title = Dikkat!
-content-blocking-and-isolating-etp-warning-description-3 = Bu ayar bazı sitelerde içeriklerin düzgün görünmemesine veya sitelerin düzgün çalışmamasına yol açabilir. Yapılandırmanızdan etkilenebileceğini bildiğimiz siteler için isteğe bağlı olarak uygulayabileceğiniz istisnalar sunuyoruz. Bozuk sitelerle karşılaşma ihtimalinizi azaltmak isterseniz bu takip kodu istisnalarına izin verin. Bir site bozuk görünüyorsa o sitede izlenme korumasını kapatarak içeriğin tamamını yükleyebilir, ardından sorunu çözmemiz için bize rapor edebilirsiniz.
 content-blocking-warning-title-2 = Sıkı izlenme koruması bazı siteleri bozabilir
 content-blocking-warning-title-custom = Özel izlenme koruması bazı siteleri bozabilir
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1343,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Küçük site sorunlarını düzelt
     .description = Takip kodu içerebilecek öğelerin engelini kaldırarak, makalelerdeki veya yorum bölümlerindeki videolar gibi öğeleri geri yükler. Bu işlem site sorunlarını azaltabilir ama daha az koruma sağlar. Büyük sorunlara yönelik düzeltmelerle birlikte kullanılmalıdır.
-content-blocking-baseline-exceptions =
-    .label = Bazı sitelerin ciddi şekilde bozulmasını önlemek için { -brand-short-name } gerekli istisnaları otomatik olarak uygulasın.
-content-blocking-baseline-exceptions-2 =
-    .label = Yalnızca takip kodu içerebilecek temel öğelerin engelini kaldırarak sitelerin ve özelliklerin yüklenmesine yardımcı olur. En yaygın sorunları kapsar.
-content-blocking-convenience-exceptions =
-    .label = Yalnızca küçük sorunları düzeltmek ve kullanışlı özellikleri çalışır halde tutmak için gereken istisnalar da otomatik olarak uygulansın.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Takip kodu içerebilecek öğelerin engelini kaldırarak, makalelerdeki veya yorum bölümlerindeki videolar gibi öğeleri geri yükler. Bu işlem site sorunlarını azaltabilir ama daha az koruma sağlar. Büyük sorunlara yönelik düzeltmelerle birlikte kullanılmalıdır.
-content-blocking-baseline-label = Önemli site sorunlarını düzelt (önerilir)
-content-blocking-convenience-label = Küçük site sorunlarını düzelt
-content-blocking-exceptions-subheader = Site sorunlarını düzelt
 content-blocking-baseline-uncheck-warning-dialog-title = Düzeltmeleri kapatmak istediğinizden emin misiniz?
 content-blocking-baseline-uncheck-warning-dialog-body = Bu ayar en yaygın site sorunlarını giderir. Bu ayarı kapatırsanız bazı siteler çalışmayabilir ve { -brand-short-name } bu sorunları gidermenize yardımcı olamaz.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Düzeltmeleri kapat
@@ -1555,7 +1542,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikalar
-certs-description = { -brand-short-name } tarayıcısının kimlik doğrulama için kullandığı sertifikaları yapılandırın.
 certs-enable-ocsp =
     .label = Sertifikaların geçerliliğini doğrulamak için OCSP otomatik yanıt sunucularını sorgula
     .accesskey = d
@@ -1573,6 +1559,7 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } tarafından kulllanılabilen disk alanı azaldı.</strong> Site içerikleri düzgün görüntülenemeyebilir. Depolanan verileri Ayarlar > Gizlilik ve Güvenlik > Çerezler ve site verileri kısmından temizleyebilirsiniz.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } tarafından kulllanılabilen disk alanı azaldı.</strong> Site içerikleri düzgün görüntülenemeyebilir. Daha iyi bir gezinti deneyimi içi disk kullanımınızı iyileştirmek isterseniz “Daha fazla bilgi al” sayfasını ziyaret edin.
+certs-description = { -brand-short-name } tarayıcısının kimlik doğrulama için kullandığı sertifikaları yapılandırın.
 
 ## Privacy Section - HTTPS-Only
 
