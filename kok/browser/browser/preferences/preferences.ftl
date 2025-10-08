@@ -39,6 +39,10 @@ should-restart-title = { -brand-short-name } परतून सुरू कर
 ## General Section
 
 startup-header = सुरवेक
+is-default-browser =
+    .message = { -brand-short-name } तुमचो सद्याचो मूळ ब्रावजर
+is-not-default-browser =
+    .message = { -brand-short-name } हे तुमचे मुळावे ब्रावजर न्ही
 is-default = { -brand-short-name } तुमचो सद्याचो मूळ ब्रावजर
 is-not-default = { -brand-short-name } हे तुमचे मुळावे ब्रावजर न्ही
 tabs-group-header = टॅब्जा
