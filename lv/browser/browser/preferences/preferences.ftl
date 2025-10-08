@@ -1344,6 +1344,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Ļaut { -brand-short-name } automātiski uzticēties instalētajiem trešās puses saknes sertifikātiem
     .accesskey = t
+certs-devices-enable-fips = Ieslēgt FIPS
 space-alert-over-5gb-settings-button =
     .label = Atvērt iestatījumus
     .accesskey = A
