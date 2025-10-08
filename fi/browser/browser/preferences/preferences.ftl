@@ -1560,6 +1560,7 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Salli { -brand-short-name }in luottaa automaattisesti asentamiisi kolmannen osapuolen juurivarmenteisiin
     .accesskey = t
+certs-devices-enable-fips = Ota FIPS käyttöön
 space-alert-over-5gb-settings-button =
     .label = Avaa asetukset
     .accesskey = A
