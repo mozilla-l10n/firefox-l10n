@@ -820,6 +820,7 @@ certs-view =
 certs-devices =
     .label = Aparati de Seguessa…
     .accesskey = S
+certs-devices-enable-fips = Abilita FIPS
 
 ## Privacy Section - HTTPS-Only
 
