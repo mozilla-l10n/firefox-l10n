@@ -1349,6 +1349,7 @@ certs-view =
 certs-devices =
     .label = Periferics de seguretat…
     .accesskey = P
+certs-devices-enable-fips = Activar FIPS
 space-alert-over-5gb-settings-button =
     .label = Dobrir los paramètres
     .accesskey = D
