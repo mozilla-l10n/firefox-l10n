@@ -1330,7 +1330,6 @@ content-blocking-etp-standard-tcp-rollout-description = La protección total de 
 content-blocking-etp-standard-tcp-rollout-learn-more = Conocer más
 content-blocking-etp-standard-tcp-title = Incluye Total Cookie Protection, nuestra función de privacidad más poderosa hasta ahora
 content-blocking-warning-title = ¡Atención!
-content-blocking-and-isolating-etp-warning-description-3 = Esta configuración puede causar que algunos sitios web no muestren contenido o no funcionen correctamente. Proporcionamos excepciones opcionales para los sitios web que sabemos que pueden verse afectados por la configuración. Para reducir la posibilidad de sitios web rotos, habilite estas excepciones de rastreador. Si un sitio parece roto, se puede desactivar la protección contra rastreo para que ese sitio cargue todo el contenido e informar el problema para que podamos ayudar a solucionarlo para todos.
 content-blocking-warning-title-2 = Algunos sitios se pueden romper con la protección de rastreo estricta
 content-blocking-warning-title-custom = Algunos sitios se pueden romper con la protección de rastreo personalizada.
 # “Fix site issues” references the string content-blocking-exceptions-subheader
@@ -1344,18 +1343,6 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Corregir problemas menores del sitio
     .description = Restaura cosas como videos en un artículo o secciones de comentarios desbloqueando elementos que pueden contener rastreadores. Esto puede reducir los problemas del sitio pero ofrece menos protección. Debe usarse con correcciones para problemas importantes.
-content-blocking-baseline-exceptions =
-    .label = Permitir que { -brand-short-name } aplique automáticamente las excepciones requeridas para evitar roturas importantes del sitio web.
-content-blocking-baseline-exceptions-2 =
-    .label = Ayuda a cargar sitios y funciones desbloqueando solo elementos esenciales que pueden contener rastreadores. Cubre los problemas más comunes.
-content-blocking-convenience-exceptions =
-    .label = También aplicar excepciones automáticamente que solo sean necesarias para solucionar problemas menores y hacer que las funciones de conveniencia estén disponibles.
-# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-2)
-content-blocking-convenience-exceptions-2 =
-    .label = Restaura cosas como videos en un artículo o secciones de comentarios desbloqueando elementos que pueden contener rastreadores. Esto puede reducir los problemas del sitio pero ofrece menos protección. Debe usarse con correcciones para problemas importantes.
-content-blocking-baseline-label = Corregir problemas importantes del sitio (recomendado)
-content-blocking-convenience-label = Corregir problemas menores del sitio
-content-blocking-exceptions-subheader = Corregir problemas del sitio
 content-blocking-baseline-uncheck-warning-dialog-title = ¿Está seguro de querer desactivar las correcciones?
 content-blocking-baseline-uncheck-warning-dialog-body = Esta configuración ayuda a solucionar los problemas más comunes del sitio. Si se desactiva, es posible que algunos sitios no funcionen y { -brand-short-name } no podrá ayudar a solucionar esos problemas.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Desactivar correcciones
@@ -1555,7 +1542,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificados
-certs-description = Configurar los certificados que { -brand-short-name } usa para la autenticación.
 certs-enable-ocsp =
     .label = Solicitar a los servidores de respuesta de OCSP que confirmen la validez actual de los certificados
     .accesskey = O
