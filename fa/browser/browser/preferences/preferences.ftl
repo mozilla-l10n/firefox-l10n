@@ -1122,6 +1122,7 @@ certs-view =
 certs-devices =
     .label = امنیت دستگاه‌ها…
     .accesskey = د
+certs-devices-enable-fips = به کار انداختن FIPS
 space-alert-over-5gb-settings-button =
     .label = باز کردن تنظیمات
     .accesskey = ب
