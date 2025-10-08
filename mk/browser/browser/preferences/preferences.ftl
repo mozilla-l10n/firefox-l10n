@@ -620,6 +620,7 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = Сертификати
+certs-devices-enable-fips = Овозможи FIPS
 
 ## Privacy Section - HTTPS-Only
 
