@@ -167,6 +167,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Apri link in schede invece di nuove finestre
     .accesskey = A
+open-external-link-next-to-active-tab =
+    .label = Apri i link da altre app accanto alla scheda attiva
 ask-on-close-multiple-tabs =
     .label = Chiedi prima di chiudere più schede
     .accesskey = d
@@ -1654,4 +1656,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-

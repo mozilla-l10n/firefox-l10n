@@ -34,6 +34,8 @@ report-broken-site-panel-reason-notsupported =
 report-broken-site-panel-reason-other =
     .label = Altro
 report-broken-site-panel-description-label = Descrizione del problema
+report-broken-site-panel-description =
+    .placeholder = Che cosa è successo? Che cosa sarebbe dovuto succedere? Disattivare la protezione antitracciamento è stato utile?
 report-broken-site-panel-description-optional-label = Descrizione del problema (facoltativo)
 report-broken-site-panel-send-more-info-link = Aggiungi ulteriori informazioni
 report-broken-site-panel-button-cancel =
@@ -52,4 +54,3 @@ report-broken-site-panel-missing-reason-label = Scegliere un motivo
 report-broken-site-panel-blocked-trackers-label =
     .label = Invia URL bloccati dalla protezione antitracciamento
 report-broken-site-panel-blocked-trackers-description = La protezione antitracciamento avanzata potrebbe bloccare elementi traccianti e script necessari per il corretto funzionamento di alcuni siti web.
-

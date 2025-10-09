@@ -512,6 +512,9 @@ create-backup-screen-2-all-label = Tutti i dati
 create-backup-screen-2-all-list-2 = Include password e metodi di pagamento
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Crittato con una password
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Dove vuoi salvare il backup?
+# Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Crea una password per il file di backup
 create-backup-screen-3-subtitle = Obbligatorio per crittare i tuoi dati. Conservala in un posto facile da ricordare.
 fx-backup-opt-in-header = Scegli dove salvare il file
@@ -569,4 +572,3 @@ onboarding-personalization-motivation-title = Quali sono le caratteristiche di {
 onboarding-personalization-motivation-privacy-option = Privacy e sicurezza
 onboarding-personalization-motivation-productivity-option = Produttività
 onboarding-personalization-motivation-other-option = Altro
-
