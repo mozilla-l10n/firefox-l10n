@@ -478,6 +478,44 @@ sync-to-mobile-button-label = Z mobilnym rědom synchronizěrowaś
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kod za ześěgnjenje { -brand-product-name } za mobilne rědy
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = Dopórucony
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Dalšne informacije</a>
+create-backup-screen-1-sync-label = Z { -brand-product-name } synchronizěrowaś
+create-backup-screen-1-backup-label = Na PC zawěsćiś
+create-backup-select-tile-button-label = Wubraś
+create-backup-back-button-label = Slědk
+create-backup-show-fewer =
+    .label = Mjenjej ako to pokazaś
+create-backup-screen-2-title = Wubjeŕśo daty { -brand-product-name }, aby zawěsćił
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Lažka konfiguracija
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Njekoděrowany
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Wšykne daty
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Z gronidłom skoděrowany
+create-backup-screen-3-title = Gronidło za zawěsćeńsku dataju napóraś
+fx-backup-opt-in-header = Městno dataje wubraś
+fx-backup-opt-in-create-password-label = Gronidło zapódaś
+fx-backup-opt-in-confirm-btn-label = Dalej
+fx-backup-opt-in-cancel-btn-label = Slědk
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Wašo zawěsćenje jo planowane
+fx-backup-confirmation-screen-close-button = Zacyniś
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Wšykne pśeglědowańske daty wopśimjone
+fx-backup-confirmation-screen-all-data-item-text-2 = Na wašom rěźe skłaźone
+fx-backup-confirmation-screen-all-data-item-text-3 = Skoděrowane a pśez gronidło šćitane
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Na wašom rěźe skłaźone
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Gronidła a płaśenja njewopśimjone
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Ze zawěsćenja wótnowiś

@@ -513,6 +513,15 @@ create-backup-screen-2-all-list-3 = Cifrât cuntune password
 create-backup-screen-3-title = Cree une password pal file di backup
 create-backup-screen-3-subtitle = Obligatori par cifrâ i tiei dâts. Tegnile intun puest che tu ti visis.
 fx-backup-opt-in-header = Sielç dulà salvâ il file
+fx-backup-opt-in-filepath-label = Sielç un puest che tu progjetis di trasferî sul gnûf dispositîf, par esempli OneDrive.
+fx-backup-opt-in-create-password-label = Inserìs la password
+fx-backup-opt-in-confirm-btn-label = Continue
+fx-backup-opt-in-cancel-btn-label = Indaûr
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Il backup al è programât
+fx-backup-confirmation-screen-close-button = Siere
 
 ## Restore from Backup Flow about:welcome screens
 

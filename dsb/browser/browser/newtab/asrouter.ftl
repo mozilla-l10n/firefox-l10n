@@ -237,6 +237,14 @@ fox-doodle-pin-secondary = Nic něnto
 set-default-pdf-handler-headline = <strong>Waše PDF se něnto w { -brand-short-name } wócynjaju.</strong> Wobźěłajśo abo signěrujćśoformulary direktnje w swójom wobglědowaku. Aby to změnił, pytajśo za „PDF“ w swójich nastajenjach.
 set-default-pdf-handler-primary = Som zrozměł
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-handler-title = { -brand-short-name } k swójomu standardnemu PDF-editoroju cyniś?
+annotations-make-default-pdf-primary-cta =
+    .label = Ako standard wužywaś
+annotations-make-default-pdf-next =
+    .label = Dalej
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Nowy rěd we wašom pśichoźe?

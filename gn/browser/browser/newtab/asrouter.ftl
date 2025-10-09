@@ -237,6 +237,10 @@ set-default-pdf-handler-primary = Aikũmby
 # If this expression doesn’t have a direct translation, please
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = ¡Emoĩ kyta líñope térã oimeraẽ hendápe!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Emoha’ãnga, ehai térã ehupi ne reraguapy, upéi emoĩ eipotahápe. Eñongatu umi nde reraguapy ehayhuvéva ambue jeyrã.
+annotations-make-default-pdf-handler-title = ¿Ejapo { -brand-short-name }-gui nde PDF mbosako’iha ypygua
+annotations-make-default-pdf-handler-subtitle = Eikekuaáta ore rembiporukuérape embojuruja vove peteĩ PDF.
 annotations-make-default-pdf-primary-cta =
     .label = Eipuru ijypykuévaramo
 annotations-make-default-pdf-next =
