@@ -496,6 +496,23 @@ create-backup-show-fewer =
     .label = Mostrar menos como este
 create-backup-screen-2-title = Seleccionar los datos de { -brand-product-name } para hacer una copia de seguridad
 create-backup-screen-2-subtitle = Solo toma un minuto. Los datos son respaldados una vez al día.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configuración fácil
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Marcadores, historial, configuración y más
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = No incluye contraseñas ni pagos
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = No cifrado
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Todos los datos
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Incluye contraseñas y pagos
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Cifrado con contraseña
+create-backup-screen-3-title = Crear una contraseña de archivo de respaldo
+create-backup-screen-3-subtitle = Necesaria para cifrar los datos. Guárdela en un lugar que recordará.
+fx-backup-opt-in-header = Elegir ubicación del archivo
 
 ## Restore from Backup Flow about:welcome screens
 
