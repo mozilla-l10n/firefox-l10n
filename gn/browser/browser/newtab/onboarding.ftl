@@ -483,6 +483,13 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-flair = Jeroviaha
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Eikuaave</a>
 create-backup-screen-1-sync-label = Embojuehe { -brand-product-name } ndive
+create-backup-screen-1-sync-body = Eykeko ne mba’e’okaita opaite eikehaguépe
+create-backup-screen-1-backup-label = Eñongatu mokõi jey nde PC-pe
+create-backup-screen-1-backup-body = Eñongatu mba’e’oka térã OneDrive-pe
+create-backup-select-tile-button-label = Eiporavo
+create-backup-back-button-label = Tapykue
+create-backup-show-fewer =
+    .label = Ehechauka’ive kóvaicha
 
 ## Restore from Backup Flow about:welcome screens
 
