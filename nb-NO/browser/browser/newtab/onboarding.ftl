@@ -482,6 +482,10 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-title =
     Oppgraderer du til Windows 11?
     La oss sikkerhetskopiere dine { -brand-product-name }-data.
+create-backup-screen-1-flair = Anbefalt
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Les mer</a>
+create-backup-screen-1-sync-label = Synkroniser med { -brand-product-name }
+create-backup-screen-1-sync-body = Sikkerhetskopierer alle påloggede enheter
 
 ## Restore from Backup Flow about:welcome screens
 
