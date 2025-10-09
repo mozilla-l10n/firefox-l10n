@@ -173,3 +173,10 @@ about-glean-disable-new-features-button = Slå av nye funksjoner
 about-glean-about-data-explanation =
     For å se gjennom listen over innsamlede data, se
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Innebygde pinger
+about-glean-ping-list-optgroup-custom =
+    .label = Tilpassede pinger
