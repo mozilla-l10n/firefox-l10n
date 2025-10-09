@@ -261,6 +261,7 @@ custom-avatar-crop-area =
     .aria-label = Bijsnijdgebied aanpassen
 custom-avatar-drag-handle =
     .aria-label = Formaat van bijsnijdgebied wijzigen
+profiles-appmenu-callout-tour-primary-button = Toon me hoe
 barbell-avatar = Halter
 bike-avatar = Fiets
 

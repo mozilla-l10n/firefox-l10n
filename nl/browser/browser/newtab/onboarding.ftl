@@ -478,6 +478,26 @@ sync-to-mobile-button-label = Synchroniseren met mobiel
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-code om { -brand-product-name } voor mobiel te downloaden
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = Aanbevolen
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Meer info</a>
+create-backup-select-tile-button-label = Selecteren
+create-backup-back-button-label = Terug
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Bladwijzers, geschiedenis, instellingen en meer
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Niet versleuteld
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Alle gegevens
+fx-backup-opt-in-create-password-label = Voer wachtwoord in
+fx-backup-opt-in-confirm-btn-label = Doorgaan
+fx-backup-opt-in-cancel-btn-label = Terug
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-close-button = Sluiten
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Herstellen vanuit reservekopie
@@ -496,3 +516,13 @@ restored-from-backup-success-no-checklist-primary-button = Doorgaan
 restored-from-backup-error-title = Hmm, er is een probleem met uw reservekopiebestand.
 restored-from-backup-error-subtitle = Als u een ander { -brand-short-name }-reservekopiebestand hebt, probeer dat dan terug te zetten. <a data-l10n-name="restore-problems">Ondervindt u nog steeds problemen?</a>
 restored-from-backup-error-primary-button = Sluiten
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = Persoonlijk
+onboarding-personalization-use-case-school-option = School
+onboarding-personalization-use-case-work-option = Werk
+onboarding-personalization-motivation-privacy-option = Privacy en beveiliging
+onboarding-personalization-motivation-productivity-option = Productiviteit
+onboarding-personalization-motivation-other-option = Overig
