@@ -437,6 +437,10 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -481,6 +485,7 @@ newtab-weather-menu-learn-more = Μάθετε περισσότερα
 newtab-weather-menu-detect-my-location = Εντοπισμός τοποθεσίας
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Τα δεδομένα καιρού δεν είναι διαθέσιμα αυτήν τη στιγμή.
+newtab-weather-opt-in-see-weather = Θέλετε να δείτε τον καιρό για την τοποθεσία σας;
 newtab-weather-opt-in-not-now =
     .label = Όχι τώρα
 newtab-weather-opt-in-yes =

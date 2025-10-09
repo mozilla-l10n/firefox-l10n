@@ -230,6 +230,13 @@ fox-doodle-pin-secondary = Όχι τώρα
 set-default-pdf-handler-headline = <strong>Τα PDF σας ανοίγουν πλέον στο { -brand-short-name }.</strong> Επεξεργαστείτε ή υπογράψτε φόρμες απευθείας από το πρόγραμμα περιήγησής σας. Για αλλαγή, αναζητήστε «PDF» στις ρυθμίσεις.
 set-default-pdf-handler-primary = Το κατάλαβα
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-primary-cta =
+    .label = Ορισμός ως προεπιλογή
+annotations-make-default-pdf-next =
+    .label = Επόμενο
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Νέα συσκευή στο μέλλον;

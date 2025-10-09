@@ -477,6 +477,56 @@ sync-to-mobile-button-label = Συγχρονισμός με κινητή συσ�
 desktop-to-mobile-qr-code-alt =
     .aria-label = Κωδικός QR για τη λήψη του { -brand-product-name } για κινητές συσκευές
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Αναβαθμίζετε σε Windows 11;
+    Ας δημιουργήσουμε αντίγραφα ασφαλείας των δεδομένων του { -brand-product-name } σας.
+create-backup-screen-1-subtitle = Προστατέψτε αυτόματα τους κωδικούς πρόσβασης, τους σελιδοδείκτες σας και πολλά άλλα σε 1–2 λεπτά.
+create-backup-screen-1-flair = Προτείνεται
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Μάθετε περισσότερα</a>
+create-backup-screen-1-sync-label = Συγχρονισμός με το { -brand-product-name }
+create-backup-screen-1-sync-body = Δημιουργεί αντίγραφα ασφαλείας για όλες τις συνδεδεμένες συσκευές
+create-backup-screen-1-backup-label = Δημιουργία αντιγράφου ασφαλείας στον υπολογιστή
+create-backup-screen-1-backup-body = Αποθήκευση στη συσκευή ή στο OneDrive σας
+create-backup-select-tile-button-label = Επιλογή
+create-backup-back-button-label = Πίσω
+create-backup-show-fewer =
+    .label = Εμφάνιση λιγότερων σαν κι αυτό
+create-backup-screen-2-title = Επιλέξτε τα δεδομένα του { -brand-product-name } για δημιουργία αντιγράφου ασφαλείας
+create-backup-screen-2-subtitle = Χρειάζεται μόνο ένα λεπτό. Δημιουργούνται αντίγραφα ασφαλείας των δεδομένων σας μία φορά την ημέρα.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Εύκολη ρύθμιση
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Σελιδοδείκτες, ιστορικό, ρυθμίσεις και πολλά άλλα
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Δεν συμπεριλαμβάνονται κωδικοί πρόσβασης και στοιχεία πληρωμής
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Όλα τα δεδομένα
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Συμπεριλαμβάνει κωδικούς πρόσβασης και στοιχεία πληρωμής
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Κρυπτογράφηση με κωδικό πρόσβασης
+fx-backup-opt-in-header = Επιλογή τοποθεσίας αρχείου
+fx-backup-opt-in-filepath-label = Επιλέξτε ένα μέρος που σκοπεύετε να μεταφέρετε σε μια νέα συσκευή, όπως το OneDrive.
+fx-backup-opt-in-create-password-label = Εισαγωγή κωδικού πρόσβασης
+fx-backup-opt-in-confirm-btn-label = Συνέχεια
+fx-backup-opt-in-cancel-btn-label = Πίσω
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Η δημιουργία αντιγράφου ασφαλείας έχει προγραμματιστεί
+fx-backup-confirmation-screen-close-button = Κλείσιμο
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Περιλαμβάνονται όλα τα δεδομένα περιήγησης
+fx-backup-confirmation-screen-all-data-item-text-2 = Αποθηκεύτηκε στη συσκευή σας
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Περιλαμβάνονται σελιδοδείκτες, ιστορικό, ρυθμίσεις και άλλα δεδομένα
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Αποθηκεύτηκε στη συσκευή σας
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Δεν περιλαμβάνονται οι κωδικοί πρόσβασης και τα στοιχεία πληρωμών
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Μεταβείτε στις <a data-l10n-name="settings">Ρυθμίσεις</a> για να συμπεριλάβετε ευαίσθητα δεδομένα.
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Επαναφορά από αντίγραφο ασφαλείας
@@ -495,3 +545,14 @@ restored-from-backup-success-no-checklist-primary-button = Συνέχεια
 restored-from-backup-error-title = Παρουσιάστηκε πρόβλημα με το αντίγραφο ασφαλείας σας.
 restored-from-backup-error-subtitle = Αν έχετε κάποιο άλλο αντίγραφο ασφαλείας του αρχείου { -brand-short-name }, δοκιμάστε να κάνετε επαναφορά από αυτό. <a data-l10n-name="restore-problems">Ακόμα έχετε προβλήματα;</a>
 restored-from-backup-error-primary-button = Κλείσιμο
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = Προσωπικό
+onboarding-personalization-use-case-school-option = Σχολείο
+onboarding-personalization-use-case-work-option = Εργασία
+onboarding-personalization-motivation-title = Ποιες λειτουργίες του { -brand-short-name } είναι πιο σημαντικές για εσάς;
+onboarding-personalization-motivation-privacy-option = Απόρρητο και ασφάλεια
+onboarding-personalization-motivation-productivity-option = Παραγωγικότητα
+onboarding-personalization-motivation-other-option = Άλλο
