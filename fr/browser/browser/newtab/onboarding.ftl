@@ -488,8 +488,12 @@ create-backup-screen-1-flair = Recommandé
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">En savoir plus</a>
 create-backup-screen-1-sync-label = Synchronisation avec { -brand-product-name }
 create-backup-screen-1-sync-body = Sauvegarde tous les appareils connectés
+create-backup-screen-1-backup-label = Sauvegarder sur l’ordinateur
+create-backup-screen-1-backup-body = Enregistre la sauvegarde sur votre appareil ou Onedrive
 create-backup-select-tile-button-label = Sélectionner
 create-backup-back-button-label = Retour
+create-backup-show-fewer =
+    .label = Afficher moins de suggestions comme celle-ci
 create-backup-screen-2-title = Choisissez les données de { -brand-product-name } à sauvegarder
 create-backup-screen-2-subtitle = Cela ne prend qu’une minute. Vos données sont sauvegardées une fois par jour.
 # Label for the "Easy setup" backup option
