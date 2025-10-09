@@ -238,6 +238,8 @@ set-default-pdf-handler-primary = Megértettem
 # If this expression doesn’t have a direct translation, please
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = Írja alá a szaggatott vonalon – vagy bárhol!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Rajzolja le, gépelje le vagy töltse fel az aláírását, majd helyezze pontosan oda, ahová szeretné. Mentse el a gyakran használt aláírásait a következő alkalomra.
 annotations-make-default-pdf-handler-title = A { -brand-short-name } legyen az alapértelmezett PDF-megjelenítője?
 annotations-make-default-pdf-handler-subtitle = Minden alkalommal hozzáférhet eszközeinkhez, amikor megnyit egy PDF-et.
 annotations-make-default-pdf-primary-cta =

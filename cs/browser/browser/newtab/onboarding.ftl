@@ -689,6 +689,39 @@ create-backup-screen-2-subtitle = Trvá to jen minutku. Vaše data jsou zálohov
 create-backup-screen-2-easy-label = Snadné nastavení
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
 create-backup-screen-2-easy-list-1 = Záložky, historie, nastavení a další
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Nezahrnuje hesla a platební metody
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Není zašifrováno
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Všechna data
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Zahrnuje hesla a platební metody
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Zašifrováno heslem
+create-backup-screen-3-title = Vytvoření hesla pro soubor se zálohou
+create-backup-screen-3-subtitle = Vyžadováno pro šifrování vašich dat. Uložte si ho na místo, které si budete pamatovat.
+fx-backup-opt-in-header = Vyberte umístění souboru
+fx-backup-opt-in-filepath-label = Vyberte místo, které plánujete přenést do nového zařízení, například OneDrive.
+fx-backup-opt-in-create-password-label = Zadejte heslo
+fx-backup-opt-in-confirm-btn-label = Pokračovat
+fx-backup-opt-in-cancel-btn-label = Zpět
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Vaše záloha je naplánována
+fx-backup-confirmation-screen-close-button = Zavřít
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Všechna data o prohlížení jsou zahrnuta
+fx-backup-confirmation-screen-all-data-item-text-2 = Uloženo do vašeho zařízení
+fx-backup-confirmation-screen-all-data-item-text-3 = Zašifrováno a chráněno heslem
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Obsahuje záložky, historii, nastavení a další data.
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Uloženo do vašeho zařízení
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Hesla a platební metody nejsou zahrnuty
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Přejděte do <a data-l10n-name="settings">Nastavení</a> a zahrňte svá důvěrná data.
+fx-backup-confirmation-screen-item-subtext-1 = Zálohování začne za několik minut a bude probíhat jednou denně. Stav můžete zkontrolovat v <a data-l10n-name="settings">Nastavení</a>.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -720,3 +753,14 @@ restored-from-backup-error-subtitle =
        *[no-cases] Pokud máte další zálohu aplikace { -brand-short-name }, zkuste provést obnovu z tohoto souboru. <a data-l10n-name="restore-problems">Stále přetrvávají problémy?</a>
     }
 restored-from-backup-error-primary-button = Zavřít
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-title =
+    { -brand-short-name.case-status ->
+        [with-cases] K čemu budete { -brand-short-name(case: "acc") } používat?
+       *[no-cases] K čemu budete aplikaci { -brand-short-name } používat?
+    }
+onboarding-personalization-use-case-personal-option = Osobní
+onboarding-personalization-use-case-school-option = Škola
