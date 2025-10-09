@@ -485,6 +485,51 @@ create-backup-screen-1-title =
     Lassen Sie uns Ihre { -brand-product-name } Daten sichern.
 create-backup-screen-1-flair = Empfohlen
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Weitere Informationen</a>
+create-backup-screen-1-sync-label = Synchronisieren mit { -brand-product-name }
+create-backup-screen-1-sync-body = Sichert alle angemeldeten Geräte
+create-backup-screen-1-backup-label = Auf PC sichern
+create-backup-screen-1-backup-body = Speichert auf Ihrem Gerät oder OneDrive
+create-backup-select-tile-button-label = Auswählen
+create-backup-back-button-label = Zurück
+create-backup-show-fewer =
+    .label = Weniger hiervon anzeigen
+create-backup-screen-2-title = Wählen Sie die zu sichernden { -brand-product-name }-Daten
+create-backup-screen-2-subtitle = Dauert nur eine Minute. Ihre Daten werden einmal täglich gesichert.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Einfache Einrichtung
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Lesezeichen, Chronik, Einstellungen und mehr
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Enthält keine Passwörter und Zahlungen
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Nicht verschlüsselt
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Alle Daten
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Enthält Passwörter und Zahlungen
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Mit Passwort verschlüsselt
+create-backup-screen-3-title = Passwort für eine Sicherungsdatei erstellen
+fx-backup-opt-in-create-password-label = Passwort eingeben
+fx-backup-opt-in-confirm-btn-label = Weiter
+fx-backup-opt-in-cancel-btn-label = Zurück
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Ihr Backup ist geplant
+fx-backup-confirmation-screen-close-button = Schließen
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Alle Browser-Daten enthalten
+fx-backup-confirmation-screen-all-data-item-text-2 = Auf Ihrem Gerät gespeichert
+fx-backup-confirmation-screen-all-data-item-text-3 = Verschlüsselt und passwortgeschützt
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Lesezeichen, Chronik, Einstellungen und andere Daten enthalten
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Auf Ihrem Gerät gespeichert
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Passwörter und Zahlungen nicht enthalten
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Gehen Sie zu den <a data-l10n-name="settings">Einstellungen</a>, um vertrauliche Daten hinzuzufügen.
+fx-backup-confirmation-screen-item-subtext-1 = Ihr Backup wird in wenigen Minuten gestartet und einmal täglich ausgeführt. Sie können den Fortschritt in den <a data-l10n-name="settings">Einstellungen</a> verfolgen.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } wird nach Ihrem Backup suchen, falls eine Neuinstallation notwendig ist.
 
 ## Restore from Backup Flow about:welcome screens
 

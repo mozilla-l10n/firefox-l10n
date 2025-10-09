@@ -495,6 +495,17 @@ create-backup-back-button-label = Indaûr
 create-backup-show-fewer =
     .label = Mostre mancul messaçs come chest
 create-backup-screen-2-title = Sielç i dâts di { -brand-product-name } di salvâ
+create-backup-screen-2-subtitle = Al puarte vie nome un minût. I dâts a vignaran salvâts une volte par dì.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configurazion semplificade
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Segnelibris, cronologjie, impostazions e altris dâts
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Nol inclût passwords e paiaments
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = No cifrât
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Ducj i dâts
 
 ## Restore from Backup Flow about:welcome screens
 
