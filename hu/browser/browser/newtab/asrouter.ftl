@@ -231,6 +231,11 @@ fox-doodle-pin-secondary = Most nem
 set-default-pdf-handler-headline = <strong>A PDF-jei mostantól a { -brand-short-name }szal nyílnak meg.</strong> Szerkessze vagy írja alá az űrlapokat közvetlenül a böngészőjében. A módosításhoz keressen a „PDF” kifejezésre a beállításokban.
 set-default-pdf-handler-primary = Megértettem
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-next =
+    .label = Tovább
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Új eszköz a jövőben?
