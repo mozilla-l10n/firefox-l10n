@@ -15,14 +15,27 @@ pocket-panel-saved-page-removed = بلگه پاک وابی
 pocket-panel-saved-page-saved = من { -pocket-brand-name } زفت وابیڌه
 pocket-panel-saved-page-saved-b = من { -pocket-brand-name } زفت وابیڌه!
 pocket-panel-saved-processing-remove = هونی بلگه پاک ابۊ…
+pocket-panel-saved-removed-updated = بلگه ز زفت وابیڌه یل پاک وابی
+pocket-panel-saved-processing-tags = هونی برچسبا ٱوورده ابۊن…
+pocket-panel-saved-remove-page = پاک کردن بلگه
 pocket-panel-saved-save-tags = زفت
 pocket-panel-saved-saving-tags = هونی زفت ابۊ…
+pocket-panel-saved-suggested-tags = برچسبا پؽشنهاڌی
+pocket-panel-saved-tags-saved = برچسبا ٱوورده وابین
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = ٱووردن برچسبا:
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-already-have = ز زیتر منتور { -pocket-brand-name } هڌین؟
 pocket-panel-signup-learn-more = قلوه دووسته بۊین
 pocket-panel-signup-login = و من ٱووڌن
 pocket-panel-signup-signup-email = نوم نویسی وا ایمیل
+
+## about:pocket-home panel
+
+pocket-panel-home-discover-more = قلوه بنیرین
+pocket-panel-home-explore-more = جوستن
 
 ## Pocket panel header component
 
