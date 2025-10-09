@@ -11,6 +11,10 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ٱووردن برچسب
+pocket-panel-saved-page-removed = بلگه پاک وابی
+pocket-panel-saved-page-saved = من { -pocket-brand-name } زفت وابیڌه
+pocket-panel-saved-page-saved-b = من { -pocket-brand-name } زفت وابیڌه!
+pocket-panel-saved-processing-remove = هونی بلگه پاک ابۊ…
 pocket-panel-saved-save-tags = زفت
 pocket-panel-saved-saving-tags = هونی زفت ابۊ…
 
