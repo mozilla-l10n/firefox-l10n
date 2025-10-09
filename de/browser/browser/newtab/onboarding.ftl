@@ -560,6 +560,7 @@ onboarding-personalization-use-case-title = Wofür werden Sie { -brand-short-nam
 onboarding-personalization-use-case-personal-option = Privat
 onboarding-personalization-use-case-school-option = Schule
 onboarding-personalization-use-case-work-option = Dienstlich
+onboarding-personalization-motivation-title = Welche Funktionen von { -brand-short-name } sind für Sie am wichtigsten?
 onboarding-personalization-motivation-privacy-option = Datenschutz und Sicherheit
 onboarding-personalization-motivation-productivity-option = Produktivität
 onboarding-personalization-motivation-other-option = Sonstiges

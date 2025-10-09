@@ -20,6 +20,14 @@ permission-dialog-description-file-app = Dieser Datei erlauben, den { $scheme }-
 permission-dialog-description-extension-app = Der Erweiterung { $extension } erlauben, den { $scheme }-Link mit { $appName } zu öffnen?
 permission-dialog-description-system-app = Den { $scheme }-Link mit { $appName } öffnen?
 permission-dialog-description-system-noapp = Den { $scheme }-Link öffnen?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Das Öffnen eines <strong>{ $scheme }</strong>-Links ermöglicht es <strong>{ $host }</strong>, Ihre echte Identität mit <strong>{ $appName }</strong> abzufragen. Nur fortfahren, wenn Sie dieser Website vertrauen.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Das Öffnen eines <strong>{ $scheme }</strong>-Links ermöglicht dieser Website, Ihre echte Identität mit <strong>{ $appName }</strong> zu erfragen. Nur fortfahren, wenn Sie dieser Website vertrauen.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Das Öffnen eines <strong>{ $scheme }</strong>-Links ermöglicht es <strong>{ $host }</strong>, Ihre echte Identität aus Ihrer digitalen Brieftasche abzurufen. Nur fortfahren, wenn Sie dieser Website vertrauen.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Öffnen eines <strong>{ $scheme }</strong>-Links ermöglicht es dieser Website, Ihre echte Identität aus Ihrer digitalen Brieftasche abzurufen. Nur fortfahren, wenn Sie dieser Website vertrauen.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
