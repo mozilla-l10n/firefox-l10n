@@ -20,6 +20,9 @@ permission-dialog-description-file-app = ¿Emoneĩ ko marandurendápe tombojuruj
 permission-dialog-description-extension-app = ¿Emoneĩ ko tenda { $extension } tombojuruja juajuha { $scheme } { $appName } ndive?
 permission-dialog-description-system-app = ¿ Embojuruja { $scheme } juajuha { $appName } ndive?
 permission-dialog-description-system-noapp = ¿Embojuruja { $scheme } juajuha?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = ¿Emoneĩ ko tenda tombojuruja ibilletéra digital?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

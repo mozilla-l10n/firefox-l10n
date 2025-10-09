@@ -48,3 +48,5 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Aguyje eipytyvõre { -brand-product-name } ñanduti ijurujave hag̃ua, jeikrei ha iporãvéva opavavépe g̃uarã.
 report-broken-site-panel-invalid-url-label = Emoinge peteĩ URL oikóva
 report-broken-site-panel-missing-reason-label = Eiporavomína mba’érepa
+report-broken-site-panel-blocked-trackers-label =
+    .label = Emondo URL jokopyre tapykueho ñemo’ãhandi

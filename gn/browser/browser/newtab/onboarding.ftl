@@ -532,6 +532,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Techaukaha, tembiasakue, 
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Eñongatu ne mba’e’okápe
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Ñe’ẽñemi ha oike’ỹhápe jehepyme’ẽita
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Eike <a data-l10n-name="settings">Ñembohekópe</a> egueroike hag̃ua mba’ekuaarã kañymbýva.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } ohekáta ne ñongatupy tekorosãrãva emohendase jeýrõ.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -554,6 +555,8 @@ restored-from-backup-error-primary-button = Mboty
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Embohéra nde { -brand-short-name } jehasakue
+onboarding-personalization-use-case-title = ¿Ma’erã eiporúta { -brand-short-name }?
 onboarding-personalization-use-case-personal-option = Avamba’e
 onboarding-personalization-use-case-school-option = Mbo’ehao
 onboarding-personalization-use-case-work-option = Mba’apo
