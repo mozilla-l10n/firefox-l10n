@@ -261,6 +261,7 @@ custom-avatar-crop-area =
     .aria-label = התאמת אזור החיתוך
 custom-avatar-drag-handle =
     .aria-label = שינוי גודל אזור החיתוך
+profiles-appmenu-callout-tour-title = הפרופיל החדש שלך מוכן לשימוש
 barbell-avatar = משקולת
 bike-avatar = אופניים
 

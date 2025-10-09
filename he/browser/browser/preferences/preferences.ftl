@@ -262,6 +262,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = כהה
     .title = שימוש במראה כהה עבור רקעים ותכנים של אתרים.
+web-appearance-group =
+    .aria-label = מראה האתר
 preferences-web-appearance-choice-auto = אוטומטי
 preferences-web-appearance-choice-light = בהיר
 preferences-web-appearance-choice-dark = כהה
@@ -1076,6 +1078,15 @@ autofill-saved-payment-methods-button = אמצעי תשלום שמורים
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = לדרוש פרטי התחברות של המכשיר כדי למלא ולנהל אמצעי תשלום
     .accesskey = ד
+autofill-payment-methods-title = אמצעי תשלום
+autofill-payment-methods-header =
+    .aria-label = אמצעי תשלום
+autofill-payment-methods-checkbox-message-2 =
+    .label = שמירה ומילוי אוטומטי של פרטי אמצעי תשלום
+    .accesskey = ת
+autofill-payment-methods-manage-payments-button =
+    .label = ניהול אמצעי תשלום
+    .accesskey = נ
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = לדרוש פרטי התחברות של המכשיר כדי למלא אוטומטית ולנהל אמצעי תשלום
