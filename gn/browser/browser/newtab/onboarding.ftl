@@ -481,6 +481,8 @@ desktop-to-mobile-qr-code-alt =
 ## Fx Backup onboarding: Create Backup spotlight
 
 create-backup-screen-1-flair = Jeroviaha
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Eikuaave</a>
+create-backup-screen-1-sync-label = Embojuehe { -brand-product-name } ndive
 
 ## Restore from Backup Flow about:welcome screens
 
