@@ -228,6 +228,22 @@ fox-doodle-pin-secondary = 나중에
 set-default-pdf-handler-headline = <strong>이제 PDF가 { -brand-short-name }에서 열립니다.</strong> 브라우저에서 직접 양식을 편집하거나 서명하세요. 변경하려면, 설정에서 "PDF"를 검색하세요.
 set-default-pdf-handler-primary = 확인
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = 서명을 어디든지 추가하세요!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = 서명을 그리거나 입력하거나 업로드한 후 원하는 위치에 정확히 배치하세요. 자주 사용하는 서명은 다음을 위해 저장하세요.
+annotations-make-default-pdf-handler-title = { -brand-short-name }를 기본 PDF 편집기로 설정하시겠습니까?
+annotations-make-default-pdf-handler-subtitle = PDF를 열 때마다 저희 도구를 사용할 수 있습니다.
+annotations-make-default-pdf-primary-cta =
+    .label = 기본으로 설정
+annotations-make-default-pdf-next =
+    .label = 다음
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = 미래의 새 기기?

@@ -227,9 +227,17 @@ tab-group-editor-color-selector2-red = 빨간색
 tab-group-description = { $tabGroupName } — 탭 그룹
 tab-group-label-tooltip-collapsed = { $tabGroupName } — 접힘
 tab-group-label-tooltip-expanded = { $tabGroupName } — 펼침
+tab-group-preview-name =
+    .aria-label = 접힌 그룹의 탭
 tab-context-unnamed-group =
     .label = 이름없는 그룹
 tab-group-name-default = 이름없는 그룹
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = 탭 목록 열림
+tab-group-preview-closed-description = 탭 목록 닫힘
 
 ##
 
