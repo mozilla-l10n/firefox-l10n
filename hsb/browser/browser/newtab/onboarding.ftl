@@ -478,6 +478,11 @@ sync-to-mobile-button-label = Z mobilnym gratom synchronizować
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kod za sćehnjenje { -brand-product-name } za mobilny grat
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = Doporučeny
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Dalše informacije</a>
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Ze zawěsćenja wobnowić
