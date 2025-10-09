@@ -1566,6 +1566,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = m
 space-alert-over-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a lemezhelyből.</strong> A weboldalak tartalma nem feltétlenül jelenik meg helyesen. Az oldalak tárolt adatait a Beállítások > Adatvédelem és biztonság > Sütik és oldaladatok alatt törölheti.
 space-alert-under-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a lemezhelyből.</strong> A weboldalak tartalma nem feltétlenül jelenik meg helyesen. A lemezhasználat optimalizálásával a böngészés simábbá tehető, olvassa el a „További tudnivalókat”.
+certs-description2 =
+    .label = Tanúsítványok
+    .description = A { -brand-short-name } által hitelesítéshez használt tanúsítványok beállítása.
 
 ## Privacy Section - HTTPS-Only
 

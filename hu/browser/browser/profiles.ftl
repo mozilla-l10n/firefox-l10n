@@ -261,6 +261,7 @@ custom-avatar-crop-area =
     .aria-label = Vágási terület beállítása
 custom-avatar-drag-handle =
     .aria-label = Vágási terület átméretezése
+profiles-appmenu-callout-tour-title = Az új profilja készen áll
 barbell-avatar = Súlyzó
 bike-avatar = Kerékpár
 

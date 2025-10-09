@@ -495,3 +495,15 @@ restored-from-backup-success-no-checklist-primary-button = Folytatás
 restored-from-backup-error-title = Hmm, probléma volt a biztonsági mentési fájljával.
 restored-from-backup-error-subtitle = Ha van másik { -brand-short-name } biztonsági mentési fájlja, akkor próbálja meg abból a fájlból helyreállítani. <a data-l10n-name="restore-problems">Továbbra is fennáll a problémája?</a>
 restored-from-backup-error-primary-button = Bezárás
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-title = Mire használja a { -brand-short-name }ot?
+onboarding-personalization-use-case-personal-option = Személyes
+onboarding-personalization-use-case-school-option = Iskola
+onboarding-personalization-use-case-work-option = Munka
+onboarding-personalization-motivation-title = A { -brand-short-name } mely funkciói a legfontosabbak az Ön számára?
+onboarding-personalization-motivation-privacy-option = Adatvédelem és biztonság
+onboarding-personalization-motivation-productivity-option = Produktivitás
+onboarding-personalization-motivation-other-option = Egyéb
