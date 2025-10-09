@@ -490,6 +490,7 @@ fx-backup-opt-in-cancel-btn-label = 返回
 
 ## Fx Backup confirmation screen strings
 
+fx-backup-confirmation-screen-title = 您的备份已安排
 fx-backup-confirmation-screen-close-button = 关闭
 
 ## Restore from Backup Flow about:welcome screens
