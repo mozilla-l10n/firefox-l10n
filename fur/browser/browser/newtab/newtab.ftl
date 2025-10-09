@@ -438,6 +438,10 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,

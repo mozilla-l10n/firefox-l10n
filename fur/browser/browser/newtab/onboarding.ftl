@@ -478,6 +478,17 @@ sync-to-mobile-button-label = Sincronize cun dispositîfs mobii
 desktop-to-mobile-qr-code-alt =
     .aria-label = Codiç QR par discjariâ { -brand-product-name } par dispositîfs mobii
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Desideristu inzornâ a Windows 11?
+    Fasìn daurman il backup dai dâts di { -brand-product-name }.
+create-backup-screen-1-subtitle = Protêç in automatic passwords, segnelibris e altri dâts in 1–2 minûts.
+create-backup-screen-1-flair = Conseâts
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Plui informazions</a>
+create-backup-screen-1-sync-label = Sincronize cun { -brand-product-name }
+create-backup-screen-1-sync-body = Fâs il backup di ducj i dispositîfs che a àn fat l’acès
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Ripristine dal backup

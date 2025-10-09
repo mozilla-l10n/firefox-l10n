@@ -504,6 +504,10 @@ create-backup-screen-2-easy-list-3 = Ipapapy’ỹva
 create-backup-screen-2-all-label = Opaite mba’ekuaarã
 # Preceded by a green check mark indicating that these are included in the "All data" backup
 create-backup-screen-2-all-list-2 = Ogueroike ñe’ẽñemi ha jehepyme’ẽ
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Ipapapýva ñe’ẽñemi ndive
+create-backup-screen-3-title = Emoheñói marandurenda ñe’ẽñemi jeykekoha
+create-backup-screen-3-subtitle = Tekotevẽva mba’ekuaarã ñembopapapyrã. Eñongatu tenda nemandu’a hag̃uáme.
 
 ## Restore from Backup Flow about:welcome screens
 

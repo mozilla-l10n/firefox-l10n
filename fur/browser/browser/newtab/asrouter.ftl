@@ -231,6 +231,22 @@ fox-doodle-pin-secondary = No cumò
 set-default-pdf-handler-headline = <strong>Cumò i tiei PDFs si vierzin in { -brand-short-name }.</strong> Modifiche o firme i formularis dret dal to navigadôr. Par cambiâ, cîr “PDF” tes impostazions.
 set-default-pdf-handler-primary = Capît
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Firme sore de linie tratinade, o là che ti va miôr!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Dissegne, scrîf o cjame la tô firme, dopo placile propite là che tu le vuelis. Salve lis tôs firmis preferidis par tornâ a doprâlis plui indevant.
+annotations-make-default-pdf-handler-title = Meti { -brand-short-name } come editôr PDF predefinît?
+annotations-make-default-pdf-handler-subtitle = Tu varâs acès ai nestris imprescj ogni volte che tu vierzis un PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Met come predefinît
+annotations-make-default-pdf-next =
+    .label = Sucessîf
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Gnûf dispositîf tal to futûr?
