@@ -569,3 +569,4 @@ onboarding-personalization-motivation-title = Quali sono le caratteristiche di {
 onboarding-personalization-motivation-privacy-option = Privacy e sicurezza
 onboarding-personalization-motivation-productivity-option = Produttività
 onboarding-personalization-motivation-other-option = Altro
+

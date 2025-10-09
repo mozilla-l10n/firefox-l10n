@@ -52,3 +52,4 @@ report-broken-site-panel-missing-reason-label = Scegliere un motivo
 report-broken-site-panel-blocked-trackers-label =
     .label = Invia URL bloccati dalla protezione antitracciamento
 report-broken-site-panel-blocked-trackers-description = La protezione antitracciamento avanzata potrebbe bloccare elementi traccianti e script necessari per il corretto funzionamento di alcuni siti web.
+
