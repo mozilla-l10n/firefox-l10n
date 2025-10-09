@@ -30,7 +30,7 @@ create-profile-last-page-header2 =
        *[other] 正在完成 { create-profile-window2.title }
     }
 profile-creation-intro = 您需要为各个配置文件取不同的名称。您可以用这里提供的名称，也可以自行指定。
-profile-prompt = 请输入新的配置文件名称:
+profile-prompt = 请输入新的配置文件名:
     .accesskey = E
 profile-default-name =
     .value = 默认用户
