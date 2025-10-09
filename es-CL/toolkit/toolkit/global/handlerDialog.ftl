@@ -20,6 +20,17 @@ permission-dialog-description-file-app = ¿Permitir a este archivo abrir el enla
 permission-dialog-description-extension-app = ¿Permitir a la extensión { $extension } abrir el enlace { $scheme } con { $appName }?
 permission-dialog-description-system-app = ¿Abrir el enlace { $scheme } con { $appName }?
 permission-dialog-description-system-noapp = ¿Abrir el enlace { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = ¿Permitir que este sitio abra tu billetera digital?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Abrir un enlace de <strong>{ $scheme }</strong> permite a <strong>{ $host }</strong> solicitar tu identidad real con <strong>{ $appName }</strong>. Continúa solo si confías en este sitio.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Abrir un enlace de <strong>{ $scheme }</strong> permite a este sitio solicitar tu identidad real con <strong>{ $appName }</strong>. Continúa solo si confías en este sitio.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Abrir un enlace de <strong>{ $scheme }</strong> permite a <strong>{ $host }</strong> solicitar tu identidad real desde tu billetera digital. Continúa solo si confías en este sitio.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Abrir un enlace de <strong>{ $scheme }</strong> permite a este sitio solicitar tu identidad real desde tu billetera digital. Continúa solo si confías en este sitio.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

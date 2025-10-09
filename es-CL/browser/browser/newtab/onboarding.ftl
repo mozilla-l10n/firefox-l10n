@@ -479,9 +479,14 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    ¿Actualizando a Windows 11?
+    Hagamos una copia de seguridad de tus datos de { -brand-product-name }.
+create-backup-screen-1-subtitle = Protege automáticamente tus contraseñas, marcadores y más en 1 a 2 minutos.
 create-backup-screen-1-flair = Recomendado
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Aprender más</a>
 create-backup-screen-1-sync-label = Sincronizar con { -brand-product-name }
+create-backup-screen-1-sync-body = Respalda todos tus dispositivos en que te has conectado
 create-backup-screen-1-backup-label = Realizar una copia de seguridad en el PC
 create-backup-screen-1-backup-body = Guarda en tu dispositivo o OneDrive
 create-backup-select-tile-button-label = Seleccionar
@@ -552,5 +557,12 @@ restored-from-backup-error-primary-button = Cerrar
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Personaliza tu { -brand-short-name } experiencia
+onboarding-personalization-subtitle = Responde algunas preguntas y te recomendaremos funciones y extensiones para mejorar tu uso de { -brand-short-name }.
+onboarding-personalization-use-case-title = ¿Para qué utilizarás { -brand-short-name }?
 onboarding-personalization-use-case-personal-option = Personal
 onboarding-personalization-use-case-school-option = Escuela
+onboarding-personalization-use-case-work-option = Trabajo
+onboarding-personalization-motivation-title = ¿Qué características de { -brand-short-name } son las más importantes para ti?
+onboarding-personalization-motivation-privacy-option = Privacidad y seguridad
+onboarding-personalization-motivation-productivity-option = Productividad
+onboarding-personalization-motivation-other-option = Otro
