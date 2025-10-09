@@ -255,9 +255,17 @@ tab-group-editor-color-selector2-red = Vörös
 tab-group-description = { $tabGroupName } – lapcsoport
 tab-group-label-tooltip-collapsed = { $tabGroupName } – összecsukva
 tab-group-label-tooltip-expanded = { $tabGroupName } – kibontva
+tab-group-preview-name =
+    .aria-label = Lapok egy összecsukott csoportban
 tab-context-unnamed-group =
     .label = Névtelen csoport
 tab-group-name-default = Névtelen csoport
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Laplista megnyitva
+tab-group-preview-closed-description = Laplista bezárva
 
 ##
 

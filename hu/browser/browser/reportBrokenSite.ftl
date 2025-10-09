@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Köszönjük, hogy segít a { -brand-product-name(case: "dative") }, hogy az internet nyíltabb, hozzáférhetőbb és jobb legyen mindenki számára.
 report-broken-site-panel-invalid-url-label = Írjon be egy érvényes webcímet
 report-broken-site-panel-missing-reason-label = Válasszon egy okot
+report-broken-site-panel-blocked-trackers-label =
+    .label = Követés elleni védelem által blokkolt webcímek elküldése
+report-broken-site-panel-blocked-trackers-description = A Fokozott követés elleni védelem blokkolhat olyan nyomkövetőket és parancsfájlokat, melyek egyes webhelyek megfelelő működéséhez szükségesek.

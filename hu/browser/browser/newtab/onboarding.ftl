@@ -477,6 +477,47 @@ sync-to-mobile-button-label = Szinkronizálás mobilra
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kód a mobilos { -brand-product-name } letöltéséhez
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-select-tile-button-label = Kiválasztás
+create-backup-back-button-label = Vissza
+create-backup-show-fewer =
+    .label = Kevesebb ilyen megjelenítése
+create-backup-screen-2-title = Válassza ki a { -brand-product-name } mentendő adatait
+create-backup-screen-2-subtitle = Csak egy percig tart. Az adatokról naponta egyszer készül biztonsági mentés.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Könnyű beállítás
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Könyvjelzők, előzmények, beállítások és egyebek
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Nem tartalmazza a jelszavakat és a fizetési módokat
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Nincs titkosítva
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Összes adat
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Tartalmazza a jelszavakat és a fizetési módokat
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Jelszóval titkosítva
+create-backup-screen-3-title = Jelszó létrehozása a biztonsági mentéshez
+create-backup-screen-3-subtitle = Az adatai titkosításához szükséges. Tárolja olyan helyen, amelyre emlékezni fog.
+fx-backup-opt-in-header = Válassza ki a fájl helyét
+fx-backup-opt-in-filepath-label = Válasszon egy helyet, amelyet tervez átmásolni egy új eszközre, például a OneDrive-re.
+fx-backup-opt-in-create-password-label = Adja meg a jelszót
+fx-backup-opt-in-confirm-btn-label = Folytatás
+fx-backup-opt-in-cancel-btn-label = Vissza
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = A biztonsági mentés be van ütemezve
+fx-backup-confirmation-screen-close-button = Bezárás
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Az összes böngészési adatot tartalmazza
+fx-backup-confirmation-screen-all-data-item-text-2 = Az eszközére mentve
+fx-backup-confirmation-screen-all-data-item-text-3 = Titkosított és jelszóval védett
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Helyreállítás biztonsági mentésből

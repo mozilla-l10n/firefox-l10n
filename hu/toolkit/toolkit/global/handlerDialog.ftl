@@ -20,6 +20,17 @@ permission-dialog-description-file-app = Engedélyezi a fájl számára, hogy me
 permission-dialog-description-extension-app = Engedélyezi a(z) { $extension } kiegészítő számára, hogy megnyissa a(z) { $scheme } hivatkozást a(z) { $appName } alkalmazással?
 permission-dialog-description-system-app = Megnyitja a(z) { $scheme } hivatkozást a(z) { $appName } alkalmazással?
 permission-dialog-description-system-noapp = Megnyitja a(z) { $scheme } hivatkozást?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Engedélyezi az oldal számára a digitális tárcáját?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = A(z) <strong>{ $scheme }</strong> hivatkozás megnyitása lehetővé teszi a(z) <strong>{ $host }</strong> számára, hogy lekérje a valódi személyazonosságát a <strong>{ $appName }</strong> alkalmazással. Csak akkor folytassa, ha megbízik ebben a webhelyben.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = A(z) <strong>{ $scheme }</strong> hivatkozás megnyitása lehetővé teszi az oldal számára, hogy lekérje a valódi személyazonosságát a <strong>{ $appName }</strong> alkalmazással. Csak akkor folytassa, ha megbízik ebben a webhelyben.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = A(z) <strong>{ $scheme }</strong> hivatkozás megnyitása lehetővé teszi a(z) <strong>{ $host }</strong> számára, hogy lekérje a valódi személyazonosságát a digitális tárcájából. Csak akkor folytassa, ha megbízik ebben a webhelyben.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = A(z) <strong>{ $scheme }</strong> hivatkozás megnyitása lehetővé teszi az oldal számára, hogy lekérje a valódi személyazonosságát a digitális tárcájából. Csak akkor folytassa, ha megbízik ebben a webhelyben.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
