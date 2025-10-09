@@ -261,6 +261,7 @@ custom-avatar-crop-area =
     .aria-label = Ajuster la zone de recadrage
 custom-avatar-drag-handle =
     .aria-label = Redimensionner la zone de recadrage
+profiles-appmenu-callout-tour-title = Votre nouveau profil est prêt
 barbell-avatar = Haltères
 bike-avatar = Vélo
 

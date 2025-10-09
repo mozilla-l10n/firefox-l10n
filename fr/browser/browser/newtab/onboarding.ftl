@@ -507,6 +507,26 @@ create-backup-screen-2-all-list-3 = Chiffré par un mot de passe
 create-backup-screen-3-title = Créez un mot de passe pour le fichier de sauvegarde
 create-backup-screen-3-subtitle = Nécessaire pour chiffrer vos données. Conservez-le en lieu sûr.
 fx-backup-opt-in-header = Choisir l’emplacement du fichier
+fx-backup-opt-in-create-password-label = Saisissez un mot de passe
+fx-backup-opt-in-confirm-btn-label = Continuer
+fx-backup-opt-in-cancel-btn-label = Retour
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Votre sauvegarde est programmée
+fx-backup-confirmation-screen-close-button = Fermer
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Toutes les données de navigation sont incluses
+fx-backup-confirmation-screen-all-data-item-text-2 = Enregistrées sur votre appareil
+fx-backup-confirmation-screen-all-data-item-text-3 = Chiffrées et protégées par un mot de passe
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Marque-pages, historique, paramètres et autres données incluses
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Enregistrées sur votre appareil
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Mots de passe et moyens de paiement non inclus
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Accédez aux <a data-l10n-name="settings">paramètres</a> pour inclure les données sensibles.
+fx-backup-confirmation-screen-item-subtext-1 = Votre sauvegarde démarrera dans quelques minutes et sera exécutée une fois par jour. Vous pouvez suivre sa progression dans les <a data-l10n-name="settings">paramètres</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } recherchera votre sauvegarde si vous devez le réinstaller.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -526,3 +546,17 @@ restored-from-backup-success-no-checklist-primary-button = Continuer
 restored-from-backup-error-title = Hum, il y a eu un problème avec votre fichier de sauvegarde.
 restored-from-backup-error-subtitle = Si vous disposez d’un autre fichier de sauvegarde de { -brand-short-name }, essayez de restaurer à partir de celui-ci. <a data-l10n-name="restore-problems">Vous avez toujours des problèmes ?</a>
 restored-from-backup-error-primary-button = Fermer
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Personnalisez votre utilisation de { -brand-short-name }
+onboarding-personalization-subtitle = Répondez à quelques questions et nous vous recommanderons des extensions et des fonctionnalités pour améliorer votre utilisation de { -brand-short-name }.
+onboarding-personalization-use-case-title = À quelles fins allez-vous utiliser { -brand-short-name } ?
+onboarding-personalization-use-case-personal-option = Personnelles
+onboarding-personalization-use-case-school-option = Scolaires
+onboarding-personalization-use-case-work-option = Professionnelles
+onboarding-personalization-motivation-title = Quelles fonctionnalités de { -brand-short-name } sont les plus importantes pour vous ?
+onboarding-personalization-motivation-privacy-option = Sécurité et vie privée
+onboarding-personalization-motivation-productivity-option = Productivité
+onboarding-personalization-motivation-other-option = Autre
