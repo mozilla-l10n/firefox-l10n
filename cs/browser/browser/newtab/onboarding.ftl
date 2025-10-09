@@ -673,6 +673,23 @@ desktop-to-mobile-qr-code-alt =
            *[no-cases] QR kód pro stažení aplikace { -brand-product-name } pro mobilní zařízení
         }
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-subtitle = Automaticky chraňte svá hesla, záložky a další data během 1–2 minut.
+create-backup-screen-1-flair = Doporučeno
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Zjistit více</a>
+create-backup-screen-1-backup-label = Zálohovat do PC
+create-backup-screen-1-backup-body = Uloží na vaše zařízení nebo na OneDrive
+create-backup-select-tile-button-label = Vybrat
+create-backup-back-button-label = Zpět
+create-backup-show-fewer =
+    .label = Zobrazovat méně podobných
+create-backup-screen-2-subtitle = Trvá to jen minutku. Vaše data jsou zálohována jednou denně.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Snadné nastavení
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Záložky, historie, nastavení a další
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Obnova ze zálohy

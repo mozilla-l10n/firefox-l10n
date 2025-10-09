@@ -311,6 +311,13 @@ set-default-pdf-handler-headline =
     }
 set-default-pdf-handler-primary = Rozumím
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-primary-cta =
+    .label = Nastavit jako výchozí
+annotations-make-default-pdf-next =
+    .label = Další
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Plánujete v blízké budoucnosti nové zařízení?

@@ -482,6 +482,7 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-title =
     Windows 11-re frissít?
     Készítsen biztonsági mentést a { -brand-product-name } adatairól.
+create-backup-screen-1-subtitle = Védje meg automatikusan a jelszavait, könyvjelzőit és egyebeit 1-2 perc alatt.
 create-backup-screen-1-flair = Ajánlott
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">További tudnivalók</a>
 create-backup-screen-1-sync-label = Szinkronizálás a { -brand-product-name }szal
