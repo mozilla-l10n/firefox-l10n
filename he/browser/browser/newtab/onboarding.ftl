@@ -446,6 +446,35 @@ create-backup-screen-2-subtitle = לוקח רק כדקה. הגתונים שלך 
 create-backup-screen-2-easy-label = הגדרה קלה
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
 create-backup-screen-2-easy-list-1 = סימניות, היסטוריה, הגדרות ועוד
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = לא מוצפן
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = כל הנתונים
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = מוצפן באמצעות ססמה
+create-backup-screen-3-title = יצירת ססמה לקובץ הגיבוי
+create-backup-screen-3-subtitle = נדרשת להצפנת הנתונים שלך. יש לאחסן אותה במקום שקל לזכור.
+fx-backup-opt-in-header = בחירת מיקום הקובץ
+fx-backup-opt-in-filepath-label = נא לבחור במקום שברצונך להעביר למכשיר חדש, כמו OneDrive.
+fx-backup-opt-in-create-password-label = נא להכניס ססמה
+fx-backup-opt-in-confirm-btn-label = המשך
+fx-backup-opt-in-cancel-btn-label = חזרה
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = הגיבוי שלך מתוזמן
+fx-backup-confirmation-screen-close-button = סגירה
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = כל נתוני הגלישה כלולים
+fx-backup-confirmation-screen-all-data-item-text-2 = נשמר למכשיר שלך
+fx-backup-confirmation-screen-all-data-item-text-3 = מוצפן ומוגן בססמה
+fx-backup-confirmation-screen-easy-setup-item-text-1 = סימניות, היסטוריה, הגדרות ושאר נתונים כלולים
+fx-backup-confirmation-screen-easy-setup-item-text-2 = נשמר למכשיר שלך
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = יש לעבור <a data-l10n-name="settings">להגדרות</a> כדי לכלול נתונים רגישים.
+fx-backup-confirmation-screen-item-subtext-1 = הגיבוי שלך יתחיל בעוד מספר דקות ויפעל פעם ביום. באפשרותך לבדוק את ההתקדמות <a data-l10n-name="settings">בהגדרות</a>.
+fx-backup-confirmation-screen-item-subtext-2 = ‏{ -brand-short-name } יחפש אחר הגיבוי שלך אם יהיה לך צורך להתקין מחדש.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -465,3 +494,10 @@ restored-from-backup-success-no-checklist-primary-button = המשך
 restored-from-backup-error-title = הממ, הייתה בעיה עם קובץ הגיבוי שלך.
 restored-from-backup-error-subtitle = אם יש לך קובץ גיבוי נוסף של { -brand-short-name }, כדאי לנסות לשחזר ממנו. <a data-l10n-name="restore-problems">עדיין יש לך בעיות?</a>
 restored-from-backup-error-primary-button = סגירה
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = התאמה אישית של חווית ה־{ -brand-short-name } שלך
+onboarding-personalization-subtitle = ניתן לענות על מספר שאלות ונמליץ על תכונות והרחבות לשיפור השימוש שלך ב־{ -brand-short-name }.
+onboarding-personalization-use-case-title = עבור מה { -brand-short-name } משמש אותך?
