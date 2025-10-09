@@ -477,6 +477,42 @@ sync-to-mobile-button-label = Синхронизировать с мобильн
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-код для загрузки { -brand-product-name } для мобильных устройств
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Переходите на Windows 11?
+    Давайте создадим резервную копию ваших данных { -brand-product-name }.
+create-backup-screen-1-subtitle = Автоматически защитите свои пароли, закладки и другое за 1-2 минуты.
+create-backup-screen-1-flair = Рекомендуемые
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Подробнее</a>
+create-backup-screen-1-sync-label = Синхронизировать с { -brand-product-name }
+create-backup-screen-1-sync-body = Резервирует все устройства, где совершён вход
+create-backup-screen-1-backup-label = Резервная копия на ПК
+create-backup-screen-1-backup-body = Сохраняет на ваше устройство или в OneDrive
+create-backup-select-tile-button-label = Выбрать
+create-backup-back-button-label = Назад
+create-backup-show-fewer =
+    .label = Показывать меньше такого
+create-backup-screen-2-title = Выберите данные { -brand-product-name } для резервирования
+create-backup-screen-2-subtitle = Займет лишь минуту. Резервная копия ваших данных сохраняется один раз в день.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Простая настройка
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Закладки, история, настройки и многое другое
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Не включает пароли и платежи
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Не зашифровано
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Все данные
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Включает пароли и платежи
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Зашифровано с паролем
+create-backup-screen-3-title = Создать пароль для резервной копии
+create-backup-screen-3-subtitle = Требуется для шифрования ваших данных. Храните его в месте, которое запомните.
+fx-backup-opt-in-header = Выберите расположение файла
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Восстановить из резервной копии

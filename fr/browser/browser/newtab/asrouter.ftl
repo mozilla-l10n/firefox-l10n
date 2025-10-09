@@ -230,6 +230,16 @@ fox-doodle-pin-secondary = Plus tard
 set-default-pdf-handler-headline = <strong>Vos fichiers PDF s’ouvrent désormais dans { -brand-short-name }.</strong> Modifiez ou signez des formulaires directement dans votre navigateur. Pour modifier ce comportement, recherchez « PDF » dans les paramètres.
 set-default-pdf-handler-primary = J’ai compris
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Ajoutez votre signature n’importe où !
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Dessinez, saisissez ou téléchargez votre signature, puis placez-la à l’endroit exact voulu. Conservez vos signatures prêtes pour une prochaine fois.
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Prévoyez-vous d’acquérir un nouvel appareil ?
