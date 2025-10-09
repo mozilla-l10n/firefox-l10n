@@ -477,6 +477,58 @@ sync-to-mobile-button-label = Sincronización con el móvil
 desktop-to-mobile-qr-code-alt =
     .aria-label = Código QR para descargar { -brand-product-name } para móviles
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = Recomendado
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Aprender más</a>
+create-backup-screen-1-sync-label = Sincronizar con { -brand-product-name }
+create-backup-screen-1-backup-label = Realizar una copia de seguridad en el PC
+create-backup-screen-1-backup-body = Guarda en tu dispositivo o OneDrive
+create-backup-select-tile-button-label = Seleccionar
+create-backup-back-button-label = Atrás
+create-backup-show-fewer =
+    .label = Mostrar menos como este
+create-backup-screen-2-title = Elige los datos de { -brand-product-name } que deseas respaldar
+create-backup-screen-2-subtitle = Solo toma un minuto. Tus datos se respaldan una vez al día.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configuración fácil
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Marcadores, historial, ajustes y más
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = No incluye contraseñas ni pagos
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = No cifrado
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Todos los datos
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Incluye contraseñas y pagos
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Cifrado con contraseña
+create-backup-screen-3-title = Crear una contraseña para el archivo de respaldo
+create-backup-screen-3-subtitle = Necesario para cifrar tus datos. Guárdalos en un lugar que puedas recordar.
+fx-backup-opt-in-header = Elegir ubicación del archivo
+fx-backup-opt-in-filepath-label = Elige un lugar que planeas transferir a un nuevo dispositivo, como OneDrive.
+fx-backup-opt-in-create-password-label = Ingresar contraseña
+fx-backup-opt-in-confirm-btn-label = Continuar
+fx-backup-opt-in-cancel-btn-label = Atrás
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Tu copia de seguridad está programada
+fx-backup-confirmation-screen-close-button = Cerrar
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Todos los datos de navegación incluidos
+fx-backup-confirmation-screen-all-data-item-text-2 = Guardado en tu dispositivo
+fx-backup-confirmation-screen-all-data-item-text-3 = Cifrado y protegido con contraseña
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Marcadores, historial, ajustes y otros datos incluidos
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Guardado en tu dispositivo
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Contraseñas y pagos no incluidos
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Ve a <a data-l10n-name="settings">Ajustes</a> para incluir datos confidenciales.
+fx-backup-confirmation-screen-item-subtext-1 = La copia de seguridad comenzará en unos minutos y se ejecutará una vez al día. Puedes consultar el progreso en <a data-l10n-name="settings">Ajustes</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } buscará tu copia de seguridad si necesitas reinstalar.
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Restaurar desde una copia de seguridad
@@ -495,3 +547,10 @@ restored-from-backup-success-no-checklist-primary-button = Continuar
 restored-from-backup-error-title = Hmm, hubo un problema con tu archivo de respaldo.
 restored-from-backup-error-subtitle = Si tienes otro archivo de respaldo { -brand-short-name }, intenta restaurar desde ese. <a data-l10n-name="restore-problems">¿Aún tienes problemas?</a>
 restored-from-backup-error-primary-button = Cerrar
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Personaliza tu { -brand-short-name } experiencia
+onboarding-personalization-use-case-personal-option = Personal
+onboarding-personalization-use-case-school-option = Escuela

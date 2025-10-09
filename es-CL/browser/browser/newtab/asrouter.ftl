@@ -231,6 +231,15 @@ fox-doodle-pin-secondary = Ahora no
 set-default-pdf-handler-headline = <strong>Tus archivos PDF ahora se abren en { -brand-short-name }.</strong> Edita o firma formularios directamente en tu navegador. Para cambiar, busca "PDF" en los ajustes.
 set-default-pdf-handler-primary = Entendido
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-handler-title = ¿Hacer de { -brand-short-name } el editor de PDF predeterminado?
+annotations-make-default-pdf-handler-subtitle = Tendrás acceso a nuestras herramientas cada vez que abras un PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Establecer como predeterminado
+annotations-make-default-pdf-next =
+    .label = Siguiente
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = ¿Nuevo dispositivo en tu futuro?
