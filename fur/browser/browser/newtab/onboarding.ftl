@@ -511,6 +511,8 @@ create-backup-screen-2-all-list-2 = Al inclût passwords e metodis di paiaments
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Cifrât cuntune password
 create-backup-screen-3-title = Cree une password pal file di backup
+create-backup-screen-3-subtitle = Obligatori par cifrâ i tiei dâts. Tegnile intun puest che tu ti visis.
+fx-backup-opt-in-header = Sielç dulà salvâ il file
 
 ## Restore from Backup Flow about:welcome screens
 
