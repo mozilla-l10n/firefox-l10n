@@ -418,4 +418,3 @@ etp-strict-exceptions-infobar-button = Applica correzioni
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Non adesso
     .accesskey = N
-

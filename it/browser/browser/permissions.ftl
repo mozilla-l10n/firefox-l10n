@@ -3,4 +3,3 @@
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
 perm-persistent-storage-remember = Ricorda questa scelta
-

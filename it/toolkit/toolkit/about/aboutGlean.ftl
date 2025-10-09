@@ -128,4 +128,3 @@ about-glean-ping-list-optgroup-built-in =
     .label = Ping integrati
 about-glean-ping-list-optgroup-custom =
     .label = Ping personalizzati
-
