@@ -249,9 +249,17 @@ tab-group-editor-color-selector2-red = Rouge
 tab-group-description = { $tabGroupName } — Groupe d’onglets
 tab-group-label-tooltip-collapsed = { $tabGroupName } — réduit
 tab-group-label-tooltip-expanded = { $tabGroupName } — développé
+tab-group-preview-name =
+    .aria-label = Onglets dans un groupe réduit
 tab-context-unnamed-group =
     .label = Groupe sans nom
 tab-group-name-default = Groupe sans nom
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Liste des onglets ouverte
+tab-group-preview-closed-description = Liste des onglets fermée
 
 ##
 

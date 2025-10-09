@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Merci d’aider { -brand-product-name } à rendre le Web plus ouvert, accessible et meilleur pour tout le monde.
 report-broken-site-panel-invalid-url-label = Veuillez saisir une URL valide
 report-broken-site-panel-missing-reason-label = Veuillez choisir un motif
+report-broken-site-panel-blocked-trackers-label =
+    .label = Adresses d’envoi bloquées par la protection contre le pistage
+report-broken-site-panel-blocked-trackers-description = La protection renforcée contre le pistage peut bloquer des traqueurs et des scripts dont certains sites web ont besoin pour fonctionner correctement.

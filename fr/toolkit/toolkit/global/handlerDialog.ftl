@@ -20,6 +20,17 @@ permission-dialog-description-file-app = Autoriser ce fichier à ouvrir le lien 
 permission-dialog-description-extension-app = Autoriser l’extension { $extension } à ouvrir le lien { $scheme } avec { $appName } ?
 permission-dialog-description-system-app = Ouvrir le lien { $scheme } avec { $appName } ?
 permission-dialog-description-system-noapp = Ouvrir le lien { $scheme } ?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Autoriser ce site à ouvrir votre portefeuille numérique ?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Ouvrir un lien <strong>{ $scheme }</strong> permet à <strong>{ $host }</strong> de demander votre véritable identité avec <strong>{ $appName }</strong>. Ne continuez que si vous faites confiance à ce site.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Ouvrir un lien <strong>{ $scheme }</strong> permet à ce site de demander votre véritable identité avec <strong>{ $appName }</strong>. Ne continuez que si vous faites confiance à ce site.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Ouvrir un lien <strong>{ $scheme }</strong> permet à <strong>{ $host }</strong> de demander votre véritable identité à votre portefeuille numérique. Ne continuez que si vous faites confiance à ce site.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Ouvrir un lien <strong>{ $scheme }</strong> permet à ce site de demander votre véritable identité à votre portefeuille numérique. Ne continuez que si vous faites confiance à ce site.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
