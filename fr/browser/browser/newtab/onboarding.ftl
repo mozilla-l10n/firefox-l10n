@@ -483,8 +483,10 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-title =
     Vous passez à Windows 11 ?
     Sauvegardons vos données { -brand-product-name }.
+create-backup-screen-1-subtitle = Protégez automatiquement vos mots de passe, marque-pages et bien plus en 1 à 2 minutes.
 create-backup-screen-1-flair = Recommandé
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">En savoir plus</a>
+create-backup-screen-1-sync-label = Synchronisation avec { -brand-product-name }
 create-backup-screen-1-sync-body = Sauvegarde tous les appareils connectés
 create-backup-select-tile-button-label = Sélectionner
 create-backup-back-button-label = Retour
@@ -507,6 +509,7 @@ create-backup-screen-2-all-list-3 = Chiffré par un mot de passe
 create-backup-screen-3-title = Créez un mot de passe pour le fichier de sauvegarde
 create-backup-screen-3-subtitle = Nécessaire pour chiffrer vos données. Conservez-le en lieu sûr.
 fx-backup-opt-in-header = Choisir l’emplacement du fichier
+fx-backup-opt-in-filepath-label = Sélectionnez un emplacement que vous prévoyez de déplacer vers un nouvel appareil, tel que OneDrive.
 fx-backup-opt-in-create-password-label = Saisissez un mot de passe
 fx-backup-opt-in-confirm-btn-label = Continuer
 fx-backup-opt-in-cancel-btn-label = Retour
