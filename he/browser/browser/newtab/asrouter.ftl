@@ -225,6 +225,22 @@ fox-doodle-pin-secondary = לא כעת
 set-default-pdf-handler-headline = <strong>מסמכי ה־PDF שלך נפתחים כעת באמצעות { -brand-short-name }.</strong> באפשרותך לערוך או לחתום על טפסים ישירות בדפדפן שלך. כדי לשנות, יש לחפש ״PDF״ בהגדרות.
 set-default-pdf-handler-primary = הבנתי
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = לחתום על הקו המקווקו - או בכל מקום אחר!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = ניתן לצייר, להקליד או להעלות את החתימה שלך, ולאחר מכן למקם אותה בדיוק במקום הרצוי. אפשר גם לשמור את החתימות המועדפות שלך לפעם הבאה.
+annotations-make-default-pdf-handler-title = להפוך את { -brand-short-name } לעורך ה־PDF ברירת המחדל שלך?
+annotations-make-default-pdf-handler-subtitle = תהיה לך גישה לכלים שלנו עם כל פתיחת קובץ PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = הגדרה כברירת מחדל
+annotations-make-default-pdf-next =
+    .label = הבא
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = יהיה לך מכשיר חדש בעתיד?

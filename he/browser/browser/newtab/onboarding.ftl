@@ -433,6 +433,20 @@ sync-to-mobile-button-label = סנכרון לנייד
 desktop-to-mobile-qr-code-alt =
     .aria-label = קוד QR להורדת { -brand-product-name } לנייד
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-sync-body = מגבה את כל המכשירים המחוברים
+create-backup-screen-1-backup-label = גיבוי למחשב
+create-backup-screen-1-backup-body = שומר במכשיר או ב־OneDrive שלך
+create-backup-select-tile-button-label = בחירה
+create-backup-back-button-label = חזרה
+create-backup-screen-2-title = בחירת הנתונים של { -brand-product-name } לגיבוי
+create-backup-screen-2-subtitle = לוקח רק כדקה. הגתונים שלך מגובים פעם ביום.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = הגדרה קלה
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = סימניות, היסטוריה, הגדרות ועוד
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = שחזור מגיבוי
