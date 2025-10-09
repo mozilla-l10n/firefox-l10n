@@ -478,6 +478,25 @@ sync-to-mobile-button-label = Sincronizar con móvil
 desktop-to-mobile-qr-code-alt =
     .aria-label = Código QR para descargar { -brand-product-name } para móviles
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    ¿Actualizando a Windows 11?
+    Hagamos una copia de seguridad de los datos de { -brand-product-name }.
+create-backup-screen-1-subtitle = Proteja automáticamente sus contraseñas, marcadores y más en 1 o 2 minutos.
+create-backup-screen-1-flair = Recomendado
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Conocer más</a>
+create-backup-screen-1-sync-label = Sincronizar con { -brand-product-name }
+create-backup-screen-1-sync-body = Hace copia de seguridad de todos los dispositivos en los que se inició sesión
+create-backup-screen-1-backup-label = Hacer copia de seguridad en PC
+create-backup-screen-1-backup-body = Guarda en el dispositivo o OneDrive
+create-backup-select-tile-button-label = Seleccionar
+create-backup-back-button-label = Atrás
+create-backup-show-fewer =
+    .label = Mostrar menos como este
+create-backup-screen-2-title = Seleccionar los datos de { -brand-product-name } para hacer una copia de seguridad
+create-backup-screen-2-subtitle = Solo toma un minuto. Los datos son respaldados una vez al día.
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Restaurar desde copia de seguridad
