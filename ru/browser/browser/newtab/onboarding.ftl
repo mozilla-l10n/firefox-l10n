@@ -512,6 +512,27 @@ create-backup-screen-2-all-list-3 = Зашифровано с паролем
 create-backup-screen-3-title = Создать пароль для резервной копии
 create-backup-screen-3-subtitle = Требуется для шифрования ваших данных. Храните его в месте, которое запомните.
 fx-backup-opt-in-header = Выберите расположение файла
+fx-backup-opt-in-filepath-label = Выберите место, которое вы планируете перенести на новое устройство, например OneDrive.
+fx-backup-opt-in-create-password-label = Введите пароль
+fx-backup-opt-in-confirm-btn-label = Продолжить
+fx-backup-opt-in-cancel-btn-label = Назад
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Ваше резервирование запланировано
+fx-backup-confirmation-screen-close-button = Закрыть
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Все данные веб-сёрфинга включены
+fx-backup-confirmation-screen-all-data-item-text-2 = Сохранено на вашем устройстве
+fx-backup-confirmation-screen-all-data-item-text-3 = Зашифровано и защищено паролем
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Закладки, журнал, настройки и другие данные включены
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Сохранено на вашем устройстве
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Пароли и платежи не включены
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Перейдите в <a data-l10n-name="settings">Настройки</a>, чтобы включить конфиденциальные данные.
+fx-backup-confirmation-screen-item-subtext-1 = Резервное копирование начнётся через несколько минут и будет запускаться один раз в день. Вы можете проверить прогресс в <a data-l10n-name="settings">Настройках</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } будет искать вашу резервную копию, если вам понадобится переустановка.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -531,3 +552,17 @@ restored-from-backup-success-no-checklist-primary-button = Продолжить
 restored-from-backup-error-title = Хм, с вашим файлом резервной копии возникла проблема.
 restored-from-backup-error-subtitle = Если у вас есть другой файл резервной копии { -brand-short-name }, попробуйте восстановить из него. <a data-l10n-name="restore-problems">Все ещё есть проблемы?</a>
 restored-from-backup-error-primary-button = Закрыть
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Персонализируйте работу { -brand-short-name }
+onboarding-personalization-subtitle = Ответьте на несколько вопросов, и мы порекомендуем вам функции и расширения, которые улучшат использование { -brand-short-name }.
+onboarding-personalization-use-case-title = Для чего вы будете использовать { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Личное использование
+onboarding-personalization-use-case-school-option = Школа
+onboarding-personalization-use-case-work-option = Работа
+onboarding-personalization-motivation-title = Какие функции { -brand-short-name } являются для вас наиболее важными?
+onboarding-personalization-motivation-privacy-option = Приватность и защита
+onboarding-personalization-motivation-productivity-option = Продуктивность
+onboarding-personalization-motivation-other-option = Другое

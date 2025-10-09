@@ -179,3 +179,10 @@ about-glean-disable-new-features-button = Отключить новые функ
 about-glean-about-data-explanation =
     Чтобы просмотреть список собранных данных, обратитесь к
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Словарю</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Встроенные пинги
+about-glean-ping-list-optgroup-custom =
+    .label = Пользовательские пинги

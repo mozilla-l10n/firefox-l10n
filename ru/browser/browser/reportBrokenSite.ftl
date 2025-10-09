@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Благодарим вас за то, что вы помогаете { -brand-product-name } сделать Интернет более открытым, доступным и лучше для всех.
 report-broken-site-panel-invalid-url-label = Введите корректный URL
 report-broken-site-panel-missing-reason-label = Пожалуйста, выберите причину
+report-broken-site-panel-blocked-trackers-label =
+    .label = URL отправки, заблокированные защитой от отслеживания
+report-broken-site-panel-blocked-trackers-description = Улучшенная защита от отслеживания может блокировать трекеры и скрипты, которые необходимы для корректной работы некоторых веб-сайтов.

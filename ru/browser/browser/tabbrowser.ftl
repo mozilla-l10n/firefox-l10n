@@ -277,9 +277,17 @@ tab-group-editor-color-selector2-red = Красный
 tab-group-description = { $tabGroupName } — Группа вкладок
 tab-group-label-tooltip-collapsed = { $tabGroupName } — свернута
 tab-group-label-tooltip-expanded = { $tabGroupName } — развернута
+tab-group-preview-name =
+    .aria-label = Вкладки в свёрнутой группе
 tab-context-unnamed-group =
     .label = Безымянная группа
 tab-group-name-default = Безымянная группа
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Список вкладок открыт
+tab-group-preview-closed-description = Список вкладок закрыт
 
 ##
 
