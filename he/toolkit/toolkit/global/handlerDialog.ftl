@@ -20,6 +20,9 @@ permission-dialog-description-file-app = האם לאפשר לקובץ זה לפ�
 permission-dialog-description-extension-app = לאפשר להרחבה { $extension } לפתוח את הקישור מסוג { $scheme } באמצעות { $appName }?
 permission-dialog-description-system-app = לפתוח את הקישור { $scheme } באמצעות { $appName }?
 permission-dialog-description-system-noapp = לפתוח את הקישור { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = לאפשר לאתר זה לפתוח את הארנק הדיגיטלי שלך?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
