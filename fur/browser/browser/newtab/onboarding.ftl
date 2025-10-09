@@ -506,6 +506,11 @@ create-backup-screen-2-easy-list-2 = Nol inclût passwords e paiaments
 create-backup-screen-2-easy-list-3 = No cifrât
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Ducj i dâts
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Al inclût passwords e metodis di paiaments
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Cifrât cuntune password
+create-backup-screen-3-title = Cree une password pal file di backup
 
 ## Restore from Backup Flow about:welcome screens
 

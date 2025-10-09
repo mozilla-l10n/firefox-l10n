@@ -261,6 +261,8 @@ custom-avatar-crop-area =
     .aria-label = Zuschneidebereich anpassen
 custom-avatar-drag-handle =
     .aria-label = Größe des Zuschneidebereiches anpassen
+profiles-appmenu-callout-tour-title = Ihr neues Profil ist bereit
+profiles-appmenu-callout-tour-primary-button = Anleitung anzeigen
 barbell-avatar = Hantel
 bike-avatar = Fahrrad
 

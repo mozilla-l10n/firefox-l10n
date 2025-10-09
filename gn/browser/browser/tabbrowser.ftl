@@ -255,9 +255,17 @@ tab-group-editor-color-selector2-red = Ñanduti
 tab-group-description = { $tabGroupName } — Tendayke aty
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Ho’apáva
 tab-group-label-tooltip-expanded = { $tabGroupName } — Tuichavéva
+tab-group-preview-name =
+    .aria-label = Tendayke aty chi’ĩmbyrépe
 tab-context-unnamed-group =
     .label = Aty hera’ỹva
 tab-group-name-default = Aty hera’ỹva
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Tendayke rysýi ijurujáva
+tab-group-preview-closed-description = Tendayke rysýi mbotypyre
 
 ##
 

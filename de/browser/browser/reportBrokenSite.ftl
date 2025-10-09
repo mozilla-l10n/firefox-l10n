@@ -49,3 +49,4 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Vielen Dank, dass Sie { -brand-product-name } dabei helfen, das Internet für alle offener, zugänglicher und besser zu machen.
 report-broken-site-panel-invalid-url-label = Bitte eine gültige Adresse eingeben
 report-broken-site-panel-missing-reason-label = Bitte wählen Sie einen Grund
+report-broken-site-panel-blocked-trackers-description = Der verbesserte Tracking-Schutz blockiert möglicherweise Tracker und Skripte, die einige Websites zum korrekten Funktionieren benötigen.

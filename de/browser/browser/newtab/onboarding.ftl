@@ -510,6 +510,7 @@ create-backup-screen-2-all-list-2 = Enthält Passwörter und Zahlungen
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Mit Passwort verschlüsselt
 create-backup-screen-3-title = Passwort für eine Sicherungsdatei erstellen
+fx-backup-opt-in-header = Dateipfad wählen
 fx-backup-opt-in-create-password-label = Passwort eingeben
 fx-backup-opt-in-confirm-btn-label = Weiter
 fx-backup-opt-in-cancel-btn-label = Zurück
@@ -549,3 +550,16 @@ restored-from-backup-success-no-checklist-primary-button = Weiter
 restored-from-backup-error-title = Hmm, es ist ein Problem mit Ihrer Sicherungsdatei aufgetreten.
 restored-from-backup-error-subtitle = Wenn Sie eine andere { -brand-short-name }-Backupdatei haben, versuchen Sie es mit dieser. <a data-l10n-name="restore-problems">Haben Sie weiterhin Probleme?</a>
 restored-from-backup-error-primary-button = Schließen
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Passen Sie Ihr { -brand-short-name }-Erlebnis an
+onboarding-personalization-subtitle = Beantworten Sie ein paar Fragen und wir empfehlen Funktionen und Erweiterungen, die Ihre Nutzung von { -brand-short-name } verbessern.
+onboarding-personalization-use-case-title = Wofür werden Sie { -brand-short-name } verwenden?
+onboarding-personalization-use-case-personal-option = Privat
+onboarding-personalization-use-case-school-option = Schule
+onboarding-personalization-use-case-work-option = Dienstlich
+onboarding-personalization-motivation-privacy-option = Datenschutz und Sicherheit
+onboarding-personalization-motivation-productivity-option = Produktivität
+onboarding-personalization-motivation-other-option = Sonstiges

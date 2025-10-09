@@ -259,6 +259,8 @@ custom-avatar-crop-area =
     .aria-label = Emoĩporã ñekytirã
 custom-avatar-drag-handle =
     .aria-label = Emoambue ñekytirã tuichakue
+profiles-appmenu-callout-tour-title = Ne mba’ete pyahu eiporukuaáma
+profiles-appmenu-callout-tour-primary-button = Ehechauka mba’éichapa
 barbell-avatar = Bárra mba’epohýi reheve
 bike-avatar = Vísi
 

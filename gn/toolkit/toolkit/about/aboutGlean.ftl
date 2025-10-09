@@ -155,3 +155,10 @@ about-glean-disable-new-features-button = Eipe’a tembiapoite pyahu
 about-glean-about-data-explanation =
     Eikundaha hag̃ua mba’ekuaarã mbyatypyre rysýire, eporandu pe
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Ñe’ẽryru</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Pings oikepyréva
+about-glean-ping-list-optgroup-custom =
+    .label = Pings mboavapyre
