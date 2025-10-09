@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = 感谢您帮助 { -brand-product-name } 打造更开放、更美好且人人可用的网络。
 report-broken-site-panel-invalid-url-label = 请输入有效的网址
 report-broken-site-panel-missing-reason-label = 请选择原因
+report-broken-site-panel-blocked-trackers-label =
+    .label = 发送被跟踪保护拦截的网址
+report-broken-site-panel-blocked-trackers-description = 增强型跟踪保护可能会拦截某些网站正常运作所需的跟踪器和脚本。

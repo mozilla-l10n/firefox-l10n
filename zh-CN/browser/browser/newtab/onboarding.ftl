@@ -511,3 +511,8 @@ restored-from-backup-success-no-checklist-primary-button = 继续
 restored-from-backup-error-title = 嗯… 您的备份文件似乎存在问题。
 restored-from-backup-error-subtitle = 若您还有其他 { -brand-short-name } 备份文件，请尝试从那份文件恢复。<a data-l10n-name="restore-problems">仍有问题？</a>
 restored-from-backup-error-primary-button = 关闭
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-subtitle = 回答几个问题，我们将为您推荐能优化 { -brand-short-name } 使用体验的功能和扩展。

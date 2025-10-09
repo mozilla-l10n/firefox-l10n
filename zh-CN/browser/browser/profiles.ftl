@@ -261,6 +261,7 @@ custom-avatar-crop-area =
     .aria-label = 调整裁剪区域
 custom-avatar-drag-handle =
     .aria-label = 调整裁剪区域大小
+profiles-appmenu-callout-tour-primary-button = 怎么做
 barbell-avatar = 杠铃
 bike-avatar = 自行车
 
