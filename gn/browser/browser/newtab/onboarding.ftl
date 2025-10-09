@@ -556,10 +556,12 @@ restored-from-backup-error-primary-button = Mboty
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Embohéra nde { -brand-short-name } jehasakue
+onboarding-personalization-subtitle = Embohovái mbovymi porandu ha romomarandúta tembiapoite ha jepysokue eipuru porãve hag̃ua { -brand-short-name }.
 onboarding-personalization-use-case-title = ¿Ma’erã eiporúta { -brand-short-name }?
 onboarding-personalization-use-case-personal-option = Avamba’e
 onboarding-personalization-use-case-school-option = Mbo’ehao
 onboarding-personalization-use-case-work-option = Mba’apo
+onboarding-personalization-motivation-title = ¿Mba’etépa umi { -brand-short-name } rehegua nde remomba’evéva?
 onboarding-personalization-motivation-privacy-option = Ñemigua ha tekorosãrã
 onboarding-personalization-motivation-productivity-option = Mba’eapopya’e
 onboarding-personalization-motivation-other-option = Ambue
