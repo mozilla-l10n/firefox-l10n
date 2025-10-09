@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = { -brand-product-name }가 웹을 모두에게 더 개방적이고 접근 가능하며 더 나은 환경으로 만드는 데 도움을 주셔서 감사합니다.
 report-broken-site-panel-invalid-url-label = 올바른 URL을 입력하세요
 report-broken-site-panel-missing-reason-label = 이유를 선택하세요
+report-broken-site-panel-blocked-trackers-label =
+    .label = 추적 방지 기능에 의해 차단된 URL 보내기
+report-broken-site-panel-blocked-trackers-description = 향상된 추적 방지 기능은 일부 웹 사이트가 제대로 작동하는 데 필요한 추적기와 스크립트를 차단할 수 있습니다.

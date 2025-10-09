@@ -179,3 +179,10 @@ about-glean-disable-new-features-button = 새 기능 비활성화
 about-glean-about-data-explanation =
     수집된 데이터 목록을 찾아보려면 
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 사전</a>을 참조하세요.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = 내장 Ping
+about-glean-ping-list-optgroup-custom =
+    .label = 사용자 지정 핑
