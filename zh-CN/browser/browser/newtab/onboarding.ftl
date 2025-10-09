@@ -469,6 +469,7 @@ create-backup-screen-1-sync-body = 备份所有已登录设备
 create-backup-screen-1-backup-label = 备份到电脑
 create-backup-screen-1-backup-body = 保存到您的设备或 OneDrive
 create-backup-select-tile-button-label = 选择
+create-backup-back-button-label = 返回
 create-backup-show-fewer =
     .label = 减少显示此类内容
 create-backup-screen-2-title = 选择要备份的 { -brand-product-name } 数据
