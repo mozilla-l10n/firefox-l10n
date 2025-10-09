@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = ניקוי
 text-action-highlight-selection =
     .label = הדגשת הבחירה
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = הוספת הערה לקטע הנבחר
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = הערה על הקטע הנבחר

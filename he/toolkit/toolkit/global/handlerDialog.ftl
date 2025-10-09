@@ -23,6 +23,14 @@ permission-dialog-description-system-noapp = לפתוח את הקישור { $sch
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = לאפשר לאתר זה לפתוח את הארנק הדיגיטלי שלך?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = פתיחת קישורי <strong>{ $scheme }</strong> מאפשרת ל־<strong>{ $host }</strong> לבקש את הזהות האמיתית שלך באמצעות <strong>{ $appName }</strong>. יש להמשיך רק אם אתר זה מהימן.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = פתיחת קישורי <strong>{ $scheme }</strong> מאפשרת לאתר זה לבקש את הזהות האמיתית שלך באמצעות <strong>{ $appName }</strong>. יש להמשיך רק אם אתר זה מהימן.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = פתיחת קישורי <strong>{ $scheme }</strong> מאפשרת ל־<strong>{ $host }</strong> לבקש את הזהות האמיתית שלך מהארנק הדיגיטלי שלך. יש להמשיך רק אם אתר זה מהימן.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = פתיחת קישורי <strong>{ $scheme }</strong> מאפשרת לאתר זה לבקש את הזהות האמיתית שלך מהארנק הדיגיטלי שלך. יש להמשיך רק אם אתר זה מהימן.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
