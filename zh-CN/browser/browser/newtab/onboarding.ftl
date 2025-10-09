@@ -472,6 +472,25 @@ create-backup-select-tile-button-label = 选择
 create-backup-show-fewer =
     .label = 减少显示此类内容
 create-backup-screen-2-title = 选择要备份的 { -brand-product-name } 数据
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = 书签、历史记录、设置等
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = 不包含密码和付款信息
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = 所有数据
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = 包含密码和付款信息
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = 使用密码加密
+create-backup-screen-3-title = 创建备份文件的密码
+fx-backup-opt-in-header = 选择文件位置
+fx-backup-opt-in-create-password-label = 请输入密码
+fx-backup-opt-in-confirm-btn-label = 继续
+fx-backup-opt-in-cancel-btn-label = 返回
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-close-button = 关闭
 
 ## Restore from Backup Flow about:welcome screens
 
