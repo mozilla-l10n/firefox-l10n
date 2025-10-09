@@ -130,6 +130,8 @@ sidebar-menu-customize-label =
     .label = Personalize sbare laterâl
 sidebar-menu-contextual-password-manager-label =
     .label = Passwords
+sidebar-menu-more-tools-label =
+    .label = Altris struments
 
 ## Tooltips for sidebar menu items.
 
