@@ -465,6 +465,25 @@ sync-to-mobile-button-label = 同步到行動裝置
 desktop-to-mobile-qr-code-alt =
     .aria-label = { -brand-product-name } 行動版的下載 QR Code
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    準備升級到 Windows 11 嗎？
+    一起來備份您的 { -brand-product-name } 資料。
+create-backup-screen-1-subtitle = 只要 1~2 分鐘，就能自動保護您的密碼、書籤與更多資料。
+create-backup-screen-1-flair = 推薦
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">更多資訊</a>
+create-backup-screen-1-sync-label = 與 { -brand-product-name } 同步
+create-backup-screen-1-sync-body = 可備份所有登入的裝置
+create-backup-screen-1-backup-label = 備份到電腦
+create-backup-screen-1-backup-body = 儲存到您的裝置或 OneDrive 當中
+create-backup-select-tile-button-label = 選擇
+create-backup-back-button-label = 上一頁
+create-backup-show-fewer =
+    .label = 減少顯示這類內容
+create-backup-screen-2-title = 請選擇要備份的 { -brand-product-name } 資料
+create-backup-screen-2-subtitle = 只要一分鐘就能完成。您的資料會每天備份一次。
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = 從備份還原

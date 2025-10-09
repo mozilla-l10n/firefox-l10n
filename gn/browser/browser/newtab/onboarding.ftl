@@ -478,6 +478,10 @@ sync-to-mobile-button-label = Ñembojuehe pumbyry ndive
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR ayvu emboguejy hag̃ua { -brand-product-name } pumbyrýpe
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = Jeroviaha
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Erujey tekorosãrã ñongatuha guive

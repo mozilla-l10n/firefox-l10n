@@ -228,6 +228,20 @@ fox-doodle-pin-secondary = 現在不要
 set-default-pdf-handler-headline = <strong>現在起，可使用 { -brand-short-name } 開啟 PDF 檔案了。</strong>可直接在瀏覽器中編輯或簽署表格內容。若要變更此行為，請到設定當中搜尋「PDF」。
 set-default-pdf-handler-primary = 知道了！
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = 可以在任何地方進行電子簽名！
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = 畫圖、打字，或上傳您的簽名圖檔，然後放到想要簽名的地方。還可以將常用的簽名樣式儲存下來，方便之後使用。
+annotations-make-default-pdf-handler-title = 要將 { -brand-short-name } 設為您的預設 PDF 編輯器嗎？
+annotations-make-default-pdf-handler-subtitle = 每次開啟 PDF 檔案時都可以使用我們的工具。
+annotations-make-default-pdf-primary-cta =
+    .label = 設為預設軟體
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = 打算要換新裝置？
