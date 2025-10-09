@@ -241,6 +241,8 @@ annotations-make-default-pdf-handler-title = 要將 { -brand-short-name } 設為
 annotations-make-default-pdf-handler-subtitle = 每次開啟 PDF 檔案時都可以使用我們的工具。
 annotations-make-default-pdf-primary-cta =
     .label = 設為預設軟體
+annotations-make-default-pdf-next =
+    .label = 下一個
 
 ## FxA sync CFR
 

@@ -1152,6 +1152,10 @@ sitedata-total-size-calculating = Eikuaase tenda mba’ekuaarã ha kache tuichak
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Umi kookie mbyatypyre, tembasakue, tenda mba’ekuaarã ha kache ko’ág̃a oiporu <strong>{ $value } { $unit }</strong> mandu’arenda.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Umi kookie, tenda mba’ekuaarã ha kache mandu’arenda oiporuhína { $value } { $unit } disco pegua pa’ũ.
 sitedata-learn-more = Kuaave
 sitedata-delete-on-close =
@@ -1344,6 +1348,7 @@ content-blocking-convenience-exceptions-3 =
     .label = Emyatyrõ apañuái tendagua
     .description = Erujey mba’eporu ikatúva ta’ãngamýi jehaipyre térã je’epyre vore, emboty’óvo mba’eporu orekóva tapykuehoha apopyvusu. Kóva omoĩporãkuaa apañuái ñanduti roguépe, hákatu ome’ẽkuaa ñemo’ã sa’imi. Ojeporuva’erã ambue moĩporã ndive umi apañuái ivaivévape g̃uarã.
 content-blocking-baseline-uncheck-warning-dialog-title = ¿Ehejasépa añetehápe ko’ã ñemoĩporãha?
+content-blocking-baseline-uncheck-warning-dialog-body = Ko ñemboheko oipytyvõta oñemyatyrõkuaa hag̃ua umi mba’e ojehúva tendápe. Ojejokórõ, ikatu oĩ tenda ndoikóiva ha %1$s ndaikatumo’ãi oipytyvõ oñemyatyrõ hag̃ua apañuái.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Eipe’a myatyrõha
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Emyandy myatyrõha
 content-blocking-reload-description = Emonyhẽjeyva’erã umi tendayke oiko hag̃ua ko’ã moambuepyre.
