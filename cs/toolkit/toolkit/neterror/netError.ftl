@@ -54,7 +54,7 @@ neterror-load-osx-permission =
        *[no-cases] Pokud se pokoušíte načíst stránku místní sítě, zkontrolujte, zda máte v nastavení Soukromí a zabezpečení systému macOS přidělena oprávnění aplikace { -brand-short-name } pro místní síť.
     }
 neterror-http-error-page = Zkontrolujte, zda jste správně zadali adresu webové stránky.
-neterror-captive-portal = Pro přístup k internetu se musíte nejdříve přihlásit k této síti.
+neterror-captive-portal = Pro přístup na internet se musíte do této sítě nejprve přihlásit.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Chtěli jste navštívit <a data-l10n-name="website">{ $hostAndPath }</a>?

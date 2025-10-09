@@ -488,6 +488,13 @@ create-backup-screen-1-flair = Conseâts
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Plui informazions</a>
 create-backup-screen-1-sync-label = Sincronize cun { -brand-product-name }
 create-backup-screen-1-sync-body = Fâs il backup di ducj i dispositîfs che a àn fat l’acès
+create-backup-screen-1-backup-label = Salve sul computer
+create-backup-screen-1-backup-body = Salve sul dispositîf o su OneDrive
+create-backup-select-tile-button-label = Selezione
+create-backup-back-button-label = Indaûr
+create-backup-show-fewer =
+    .label = Mostre mancul messaçs come chest
+create-backup-screen-2-title = Sielç i dâts di { -brand-product-name } di salvâ
 
 ## Restore from Backup Flow about:welcome screens
 

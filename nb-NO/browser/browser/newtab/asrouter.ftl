@@ -230,6 +230,22 @@ fox-doodle-pin-secondary = Ikke nå
 set-default-pdf-handler-headline = <strong>PDF-filene dine åpnes nå i { -brand-short-name }.</strong> Rediger eller fyll ut skjemaer direkte i nettleseren din. For å endre, søk etter «PDF» i innstillingene.
 set-default-pdf-handler-primary = Jeg forstår
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Skriv under på den stiplede linjen — eller hvor som helst!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Tegn, skriv eller last opp signaturen din, og plasser den nøyaktig der du vil. Lagre signaturene du bruker ofte til neste gang.
+annotations-make-default-pdf-handler-title = Bruk { -brand-short-name } som standard PDF-redigeringsprogram?
+annotations-make-default-pdf-handler-subtitle = Du får tilgang til verktøyene våre hver gang du åpner en PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Bruk som standard
+annotations-make-default-pdf-next =
+    .label = Neste
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Planlegger du å kjøpe en ny enhet i fremtiden?

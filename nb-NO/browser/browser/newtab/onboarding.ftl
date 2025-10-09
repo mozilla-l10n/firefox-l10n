@@ -477,6 +477,12 @@ sync-to-mobile-button-label = Synkroniser til mobil
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kode for å laste ned { -brand-product-name } for mobil
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Oppgraderer du til Windows 11?
+    La oss sikkerhetskopiere dine { -brand-product-name }-data.
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Gjenopprett fra sikkerhetskopi

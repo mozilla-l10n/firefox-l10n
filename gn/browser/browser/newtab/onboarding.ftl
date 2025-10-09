@@ -508,6 +508,22 @@ create-backup-screen-2-all-list-2 = Ogueroike ñe’ẽñemi ha jehepyme’ẽ
 create-backup-screen-2-all-list-3 = Ipapapýva ñe’ẽñemi ndive
 create-backup-screen-3-title = Emoheñói marandurenda ñe’ẽñemi jeykekoha
 create-backup-screen-3-subtitle = Tekotevẽva mba’ekuaarã ñembopapapyrã. Eñongatu tenda nemandu’a hag̃uáme.
+fx-backup-opt-in-header = Eiporavo marandurenda oĩha
+fx-backup-opt-in-filepath-label = Eiporavo pe mba’e’oka pyahu eguerahaukaseha, ikatúva OneDrive.
+fx-backup-opt-in-create-password-label = Emoinge ñe’ẽñemi
+fx-backup-opt-in-confirm-btn-label = Ku’ejey
+fx-backup-opt-in-cancel-btn-label = Tapykue
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Ne ñongatu tekorasãrã ijaravóma
+fx-backup-confirmation-screen-close-button = Mboty
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Oikepaite ñeikundaha mba’ekuaarã
+fx-backup-confirmation-screen-all-data-item-text-2 = Eñongatu ne mba’e’okápe
+fx-backup-confirmation-screen-all-data-item-text-3 = Ipapapy ha oñemo’ã ñe’ẽñemi ndive
 
 ## Restore from Backup Flow about:welcome screens
 
