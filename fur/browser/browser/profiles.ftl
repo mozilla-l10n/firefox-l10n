@@ -261,6 +261,10 @@ custom-avatar-crop-area =
     .aria-label = Regole la aree di ritai
 custom-avatar-drag-handle =
     .aria-label = Ridimensione la aree di ritai
+profiles-appmenu-callout-tour-title = Il to gnûf profîl al è pront
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = Tal menù ☰, tocje il non dal to profîl par creânt un altri, modificâlu o passâ di une identitât digjitâl a chê altre.
+profiles-appmenu-callout-tour-primary-button = Mostrimi cemût
 barbell-avatar = Belancîr
 bike-avatar = Biciclete
 
@@ -302,3 +306,21 @@ lightbulb-avatar-tooltip =
     .tooltiptext = Dopre la icone lampadine
 makeup-avatar-tooltip =
     .tooltiptext = Dopre la icone sbelet
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Dopre la icone messaç
+musical-note-avatar-tooltip =
+    .tooltiptext = Dopre la icone note musicâl
+palette-avatar-tooltip =
+    .tooltiptext = Dopre la icone palete
+paw-print-avatar-tooltip =
+    .tooltiptext = Dopre la icone olme di çate
+plane-avatar-tooltip =
+    .tooltiptext = Dopre la icone avion
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Dopre la icone regâl
+shopping-avatar-tooltip =
+    .tooltiptext = Dopre la icone carel de spese
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Dopre la icone balon

@@ -532,6 +532,8 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Segnelibris, cronologjie,
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Salvât sul to dispositîf
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Passwords e metodis di paiament no includûts
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Va tes <a data-l10n-name="settings">Impostazions</a> par includi i dâts sensibii.
+fx-backup-confirmation-screen-item-subtext-1 = Il backup al scomençarà ca di pôcs minûts e vignarà fat une volte par dì. Tu puedis controlâ i progrès tes <a data-l10n-name="settings">Impostazions</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } al cirarà il to backup in câs di gnove instalazion.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -551,3 +553,17 @@ restored-from-backup-success-no-checklist-primary-button = Continue
 restored-from-backup-error-title = Mmh… Al è vignût fûr un probleme cul file di backup.
 restored-from-backup-error-subtitle = Se tu âs un altri file backup di { -brand-short-name }, prove a ripristinâ cun chel. <a data-l10n-name="restore-problems">Âstu ancjemò problemis?</a>
 restored-from-backup-error-primary-button = Siere
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Personalize la tô esperience cun { -brand-short-name }
+onboarding-personalization-subtitle = Rispuint a cualchi domande e ti consearìn funzions e estensions par miorâ la tô utilizazion di { -brand-short-name }.
+onboarding-personalization-use-case-title = Par ce dopraressistu { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Ûs personâl
+onboarding-personalization-use-case-school-option = Scuele
+onboarding-personalization-use-case-work-option = Lavôr
+onboarding-personalization-motivation-title = Ce funzions di { -brand-short-name } cjatistu plui impuartantis par te?
+onboarding-personalization-motivation-privacy-option = Riservatece e sigurece
+onboarding-personalization-motivation-productivity-option = Produtivitât
+onboarding-personalization-motivation-other-option = Altri
