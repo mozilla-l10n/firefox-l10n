@@ -528,6 +528,10 @@ fx-backup-confirmation-screen-close-button = Siere
 fx-backup-confirmation-screen-all-data-item-text-1 = Includûts ducj i dâts di navigazion
 fx-backup-confirmation-screen-all-data-item-text-2 = Salvât sul to dispositîf
 fx-backup-confirmation-screen-all-data-item-text-3 = Cifrât e protet de password
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Segnelibris, cronologjie, impostazions e altris dâts includûts
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Salvât sul to dispositîf
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Passwords e metodis di paiament no includûts
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Va tes <a data-l10n-name="settings">Impostazions</a> par includi i dâts sensibii.
 
 ## Restore from Backup Flow about:welcome screens
 

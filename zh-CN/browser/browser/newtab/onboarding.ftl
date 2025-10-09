@@ -461,6 +461,18 @@ sync-to-mobile-button-label = 同步到移动设备
 desktop-to-mobile-qr-code-alt =
     .aria-label = 用于下载移动版 { -brand-product-name } 的二维码
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = 推荐
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">详细了解</a>
+create-backup-screen-1-sync-body = 备份所有已登录设备
+create-backup-screen-1-backup-label = 备份到电脑
+create-backup-screen-1-backup-body = 保存到您的设备或 OneDrive
+create-backup-select-tile-button-label = 选择
+create-backup-show-fewer =
+    .label = 减少显示此类内容
+create-backup-screen-2-title = 选择要备份的 { -brand-product-name } 数据
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = 从备份恢复

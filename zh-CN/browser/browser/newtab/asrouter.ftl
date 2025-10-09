@@ -228,6 +228,14 @@ fox-doodle-pin-secondary = 暂时不要
 set-default-pdf-handler-headline = <strong>现在起，您的 PDF 文件将在 { -brand-short-name } 中打开。</strong>您可以直接在浏览器中编辑或签署表单。若要更改，请在设置中搜索“PDF”。
 set-default-pdf-handler-primary = 明白了
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-handler-title = 要将 { -brand-short-name } 设为您的默认 PDF 编辑器吗？
+annotations-make-default-pdf-primary-cta =
+    .label = 设为默认
+annotations-make-default-pdf-next =
+    .label = 下一步
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = 打算换新设备？
