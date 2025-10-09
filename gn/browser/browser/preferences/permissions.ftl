@@ -98,6 +98,7 @@ permissions-exceptions-https-only-desc2 = Ikatu eipe’a HTTPS ayvu ñanduti pet
 permissions-exceptions-popup-window3 =
     .title = Ñanduti rogue moneĩmbyre - Ovetã apysẽ ha ñemoma’ẽ mohapyha gotyo
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Ikatúpa emombe’umi mba’e ñanduti rendápa ombojurujakuaa ovetã apysẽ ha omondo jey kora mbohapyha gotyo.
 
 ## Exceptions - Pop-ups
 
@@ -187,6 +188,8 @@ permissions-site-localhost-disable-label =
 permissions-site-local-network-window =
     .title = Ñemboheko - Mba’e’oka ñanduti rehegua
     .style = { permissions-window2.style }
+permissions-site-local-network-disable-label =
+    .label = Ojoko jeikerã pyahu tembiporu’ípe ha mba’eporurã mba’e’oka ojuajúva nde Wi-Fi rehe?
 
 ## Site Permissions - Microphone
 
