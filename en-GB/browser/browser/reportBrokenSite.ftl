@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Thank you for helping { -brand-product-name } make the web more open, accessible, and better for everyone.
 report-broken-site-panel-invalid-url-label = Please enter a valid URL
 report-broken-site-panel-missing-reason-label = Please choose a reason
+report-broken-site-panel-blocked-trackers-label =
+    .label = Send URLs blocked by tracking protection
+report-broken-site-panel-blocked-trackers-description = Enhanced Tracking Protection may block trackers and scripts that some web sites need to work properly.
