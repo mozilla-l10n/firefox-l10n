@@ -488,6 +488,25 @@ create-backup-learn-more-link = <a data-l10n-name="learn-more-label">En savoir p
 create-backup-screen-1-sync-body = Sauvegarde tous les appareils connectés
 create-backup-select-tile-button-label = Sélectionner
 create-backup-back-button-label = Retour
+create-backup-screen-2-title = Choisissez les données de { -brand-product-name } à sauvegarder
+create-backup-screen-2-subtitle = Cela ne prend qu’une minute. Vos données sont sauvegardées une fois par jour.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configuration facile
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Marque-pages, historique, paramètres, etc.
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = N’inclut pas les mots de passe ni les moyens de paiement
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Non chiffré
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Toutes les données
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Inclut les mots de passe et les moyens de paiement
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Chiffré par un mot de passe
+create-backup-screen-3-title = Créez un mot de passe pour le fichier de sauvegarde
+create-backup-screen-3-subtitle = Nécessaire pour chiffrer vos données. Conservez-le en lieu sûr.
+fx-backup-opt-in-header = Choisir l’emplacement du fichier
 
 ## Restore from Backup Flow about:welcome screens
 
