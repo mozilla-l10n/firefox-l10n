@@ -480,6 +480,10 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    ¿Embohekopyahu Windows 11-pe?
+    Ñañongatu tekorosãrãve ne mba’ekuaarã { -brand-product-name }.
+create-backup-screen-1-subtitle = Emo’ãkuaa ijeheguiete ñe’ẽñemi, techaukaha ha hetave 1 térã 2 aravo’ípe.
 create-backup-screen-1-flair = Jeroviaha
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Eikuaave</a>
 create-backup-screen-1-sync-label = Embojuehe { -brand-product-name } ndive
@@ -527,6 +531,7 @@ fx-backup-confirmation-screen-all-data-item-text-3 = Ipapapy ha oñemo’ã ñe�
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Techaukaha, tembiasakue, moĩporã ha oĩhápe mba’ekuaarã
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Eñongatu ne mba’e’okápe
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Ñe’ẽñemi ha oike’ỹhápe jehepyme’ẽita
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Eike <a data-l10n-name="settings">Ñembohekópe</a> egueroike hag̃ua mba’ekuaarã kañymbýva.
 
 ## Restore from Backup Flow about:welcome screens
 

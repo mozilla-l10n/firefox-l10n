@@ -523,6 +523,12 @@ fx-backup-opt-in-cancel-btn-label = Indaûr
 fx-backup-confirmation-screen-title = Il backup al è programât
 fx-backup-confirmation-screen-close-button = Siere
 
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Includûts ducj i dâts di navigazion
+fx-backup-confirmation-screen-all-data-item-text-2 = Salvât sul to dispositîf
+fx-backup-confirmation-screen-all-data-item-text-3 = Cifrât e protet de password
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Ripristine dal backup

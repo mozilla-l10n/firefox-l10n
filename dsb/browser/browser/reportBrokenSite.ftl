@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Wjeliki źěk, až { -brand-product-name } pomagaśo, až buźo web wěcej wótwórjony, pśistupny a lěpšy.
 report-broken-site-panel-invalid-url-label = Pšosym zapódajśo płaśiwy URL
 report-broken-site-panel-missing-reason-label = Pšosym wubjeŕśo pśicynu
+report-broken-site-panel-blocked-trackers-label =
+    .label = URL pósłaś, kótarež su se blokěrowali pśez pśeslědowański šćit
+report-broken-site-panel-blocked-trackers-description = Pólěpšony pśeslědowański šćit móžo pśeslědowaki a skripty blokěrowaś, aby někotare websedła korektnje funkcioněrowali.

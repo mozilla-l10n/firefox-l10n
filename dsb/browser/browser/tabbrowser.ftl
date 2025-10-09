@@ -287,9 +287,17 @@ tab-group-editor-color-selector2-red = Cerwjeny
 tab-group-description = { $tabGroupName } – kupka rejtarikow
 tab-group-label-tooltip-collapsed = { $tabGroupName } – schowany
 tab-group-label-tooltip-expanded = { $tabGroupName } – pokazany
+tab-group-preview-name =
+    .aria-label = Rejtariki w schowanej kupce
 tab-context-unnamed-group =
     .label = Kupka bźez mjenja
 tab-group-name-default = Kupka bźez mjenja
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Lisćina rejtarikow jo wócynjona
+tab-group-preview-closed-description = Lisćina rejtarikow jo zacynjona
 
 ##
 

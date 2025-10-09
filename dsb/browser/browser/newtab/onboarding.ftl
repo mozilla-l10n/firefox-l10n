@@ -484,6 +484,7 @@ create-backup-screen-1-flair = Dopórucony
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Dalšne informacije</a>
 create-backup-screen-1-sync-label = Z { -brand-product-name } synchronizěrowaś
 create-backup-screen-1-backup-label = Na PC zawěsćiś
+create-backup-screen-1-backup-body = Składujo na wašom rěźe abo OneDrive
 create-backup-select-tile-button-label = Wubraś
 create-backup-back-button-label = Slědk
 create-backup-show-fewer =
@@ -491,10 +492,16 @@ create-backup-show-fewer =
 create-backup-screen-2-title = Wubjeŕśo daty { -brand-product-name }, aby zawěsćił
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Lažka konfiguracija
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Cytańske znamjenja, historija, nastajenja a wěcej
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Njewopśimujo gronidła a płaśenja
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Njekoděrowany
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Wšykne daty
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Wopśimujo gronidła a płaśenja
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Z gronidłom skoděrowany
 create-backup-screen-3-title = Gronidło za zawěsćeńsku dataju napóraś
@@ -515,6 +522,7 @@ fx-backup-confirmation-screen-all-data-item-text-2 = Na wašom rěźe skłaźone
 fx-backup-confirmation-screen-all-data-item-text-3 = Skoděrowane a pśez gronidło šćitane
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Na wašom rěźe skłaźone
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Gronidła a płaśenja njewopśimjone
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Źiśo k <a data-l10n-name="settings">nastajenjam</a>, aby sensibelne daty zapśimjeł.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -534,3 +542,15 @@ restored-from-backup-success-no-checklist-primary-button = Dalej
 restored-from-backup-error-title = Hmm, dajo problem z wašeju zawěsćeńskeju dataju.
 restored-from-backup-error-subtitle = Jolic drugu zawěsćeńsku dataju { -brand-short-name } maśo, wopytajśo z njeje wótnowiś. <a data-l10n-name="restore-problems">Maśo hyšći problemy?</a>
 restored-from-backup-error-primary-button = Zacyniś
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Pśiměŕśo swójo dožywjenje { -brand-short-name }
+onboarding-personalization-use-case-title = Za co { -brand-short-name } wužywaśo?
+onboarding-personalization-use-case-personal-option = Wósobinski
+onboarding-personalization-use-case-school-option = Šula
+onboarding-personalization-use-case-work-option = Słužbny
+onboarding-personalization-motivation-privacy-option = Priwatnosć a wěstota
+onboarding-personalization-motivation-productivity-option = Produktiwita
+onboarding-personalization-motivation-other-option = Druge
