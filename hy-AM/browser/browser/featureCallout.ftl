@@ -95,6 +95,7 @@ fxa-adoption-passwords-primary-button-label = Գրանցվել
 
 windows-10-eos-sync-new-device-primary-label = Համաժամեցնել
 windows-10-eos-sync-tour-title-2 = Կազմակերպվեք Windows 11-ի համար։
+windows-10-eos-sync-dismiss-button-label = Բաց թողնել
 windows-10-eos-sync-callout-primary-advance-button-label = Հաջորդը
 
 ## Sidebar Strings

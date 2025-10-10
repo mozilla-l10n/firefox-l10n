@@ -287,6 +287,8 @@ windows-10-eos-sync-toast-secondary-label = Հիշեցնել ավելի ուշ
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-pin-primary-button = Ամրացնել { -brand-shorter-name }-ը
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name }-ն արգելափակում է կրիպտոմայներները, սոցիալական ցանցերի հետագծիչները և մատնահետքերը։
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Հետագծողները չեն կարող նույնականացնել ձեր սարքը կամ հետևել ձեզ համացանցում, քանի որ մենք դա նրանց թույլ չենք տալիս։
 windows-10-eos-sync-callout-privacy-info-button = Տեսեք, թե ինչն է արգելափակված
 windows-10-eos-callout-addons-primary-button = Տեսեք մեր ընտրությունները
 

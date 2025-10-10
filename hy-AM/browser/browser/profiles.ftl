@@ -88,6 +88,11 @@ profiles-system-theme = Համակարգային
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Նարգիզ դեղին
 
+## Data collection settings changed (multi-profile)
+
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Բաց թողնել
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
