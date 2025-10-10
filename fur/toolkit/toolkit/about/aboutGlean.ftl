@@ -148,6 +148,24 @@ about-glean-metrics-table-header-value = Valôr
 about-glean-metrics-table-header-actions = Azions
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtre
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Chest al filtrarà la tabele chi sot in base a categorie, non, gjenar e valôr (se il valôr al è di gjenar sempliç).
+about-glean-button-load-all = Cjame ducj i valôrs
+about-glean-button-load-value = Cjarie
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Documentazion
+about-glean-button-watch = Ten di voli
+# Meaning "to stop watching"
+about-glean-button-unwatch = Ferme di tignî di voli
+about-glean-no-data-to-display = Nissun dât di visualizâ.
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Lis metrichis cun etichete no son ancjemò supuartadis inte viodude <code>about:glean</code>.
+about-glean-unknown-metric-type-warning = Gjenar di metriche no cognossût.
 about-glean-about-data-explanation =
     Par sgarfâ te liste dai dâts racuelts, consulte il
     <a data-l10n-name="glean-dictionary-link">Dizionari di { -glean-brand-name }</a>.
