@@ -532,6 +532,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Techaukaha, tembiasakue, 
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Eñongatu ne mba’e’okápe
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Ñe’ẽñemi ha oike’ỹhápe jehepyme’ẽita
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Eike <a data-l10n-name="settings">Ñembohekópe</a> egueroike hag̃ua mba’ekuaarã kañymbýva.
+fx-backup-confirmation-screen-item-subtext-1 = Pe ñongatu tekorosãrã oñepyrũta ag̃aite ha oikóta peteĩ jey árape. Ikatu ehecha mba’éichapa okue’e <a data-l10n-name="settings">Ñemboheko</a>-pe.
 fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } ohekáta ne ñongatupy tekorosãrãva emohendase jeýrõ.
 
 ## Restore from Backup Flow about:welcome screens
