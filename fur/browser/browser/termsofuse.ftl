@@ -14,4 +14,6 @@ existing-user-tou-accept = Acete
 
 ## Existing User Terms of Use Spotlight
 
+# Full Spotlight body message, with inline links to the Terms of Use, Privacy Notice, and Learn More FAQ that will be added at runtime.
+tou-existing-user-spotlight-body = O vin introdusût  lis <a data-l10n-name="terms-of-use">cundizions di utilizazion</a> e inzornât la <a data-l10n-name="privacy-notice">informative su la riservatece</a>.<br><br> Ti sbruntìn a leilis e acetâlis. <a data-l10n-name="learn-more">Altris informazions</a>.
 tou-existing-user-spotlight-remind-me-later = Visimi plui indevant
