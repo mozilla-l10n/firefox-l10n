@@ -24,3 +24,4 @@ unexpected-script-load-email-textbox =
     .aria-label = Ehai ne ñanduti veve ápe
 unexpected-script-load-more-info = Maranduve
 unexpected-script-load-learn-more = Eikuaave
+unexpected-script-load-telemetry-disabled = Marandu’i ojeipe’a ojejokógui telemetría Ñembohekógui. Embojuruja telemetría ojejapo hag̃ua marandu’i.
