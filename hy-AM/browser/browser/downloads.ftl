@@ -185,6 +185,9 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Ֆայլերը մնում են ձեր սարքում
+downloads-private-browsing-message = Այս սարքն օգտագործող ցանկացած անձ կարող է տեսնել ներբեռնումները, նույնիսկ երբ դուք փակում եք բոլոր գաղտնի պատուհանները։
 downloads-private-browsing-accept-button =
     .label = Հասկացա
     .accesskey = G
