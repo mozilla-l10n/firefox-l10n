@@ -11,3 +11,7 @@ existing-user-tou-message = <strong>Inzornament</strong> O vin introdot lis <a d
 existing-user-tou-learn-more = Plui informazions
 # Text for primary button
 existing-user-tou-accept = Acete
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Visimi plui indevant

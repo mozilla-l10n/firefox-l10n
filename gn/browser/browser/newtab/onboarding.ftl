@@ -550,6 +550,7 @@ restored-from-backup-success-with-checklist-primary-button = Eñongatu ha eku’
 restored-from-backup-success-with-checklist-secondary-button = Ehejánte kóva
 restored-from-backup-success-no-checklist-primary-button = Eku’ejey
 restored-from-backup-error-title = Hmm, iñapañuái marandurenda jeykekoha.
+restored-from-backup-error-subtitle = Orekóramo ambue marandurenda jeykekoha { -brand-short-name }, eñeha’ã erujey upégui. <a data-l10n-name="restore-problems">Ereko gueteri apañuái?</a>
 restored-from-backup-error-primary-button = Mboty
 
 ## Onboarding Personalization Screen
