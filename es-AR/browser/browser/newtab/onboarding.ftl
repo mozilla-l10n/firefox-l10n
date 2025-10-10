@@ -501,7 +501,7 @@ create-backup-screen-2-easy-label = Configuración fácil
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
 create-backup-screen-2-easy-list-1 = Marcadores, historial, configuración y más
 # Preceded by a red X indicating that these are not included in the "Easy setup" backup
-create-backup-screen-2-easy-list-2 = No incluye contraseñas ni pagos
+create-backup-screen-2-easy-list-2 = No incluye contraseñas ni métodos de pago
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = No cifrado
 # Label for the "All data" backup option
