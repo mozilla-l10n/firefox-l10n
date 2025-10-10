@@ -9,7 +9,7 @@ urlbar-translations-button =
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
 urlbar-translations-button2 =
-    .tooltiptext = תרגום עמוד זה - Beta
+    .tooltiptext = תרגום דף זה - Beta
 # Note that here "Beta" should not be translated, as it is a reflection of the
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
@@ -214,7 +214,7 @@ select-translations-panel-copy-button-copied =
 select-translations-panel-done-button =
     .label = סיום
 select-translations-panel-translate-full-page-button =
-    .label = תרגום כל העמוד
+    .label = תרגום כל הדף
 select-translations-panel-translate-button =
     .label = תרגום
 select-translations-panel-try-again-button =
