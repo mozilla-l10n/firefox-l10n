@@ -228,6 +228,22 @@ fox-doodle-pin-secondary = Không phải bây giờ
 set-default-pdf-handler-headline = <strong>Các tập tin PDF của bạn bây giờ mở trong { -brand-short-name }.</strong> Chỉnh sửa hoặc ký biểu mẫu trực tiếp trong trình duyệt của bạn. Để thay đổi, tìm kiếm “PDF” trong cài đặt.
 set-default-pdf-handler-primary = Đã hiểu
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Ký vào dòng chấm chấm — hoặc bất cứ nơi nào!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Vẽ, nhập hoặc tải chữ ký của bạn lên, sau đó đặt nó chính xác ở vị trí bạn muốn. Lưu lại chữ ký yêu thích của bạn cho lần sau.
+annotations-make-default-pdf-handler-title = Đặt { -brand-short-name } làm trình chỉnh sửa PDF mặc định của bạn?
+annotations-make-default-pdf-handler-subtitle = Bạn có quyền truy cập vào các công cụ của chúng tôi mỗi khi mở tập tin PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Đặt làm mặc định
+annotations-make-default-pdf-next =
+    .label = Tiếp
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Thiết bị mới trong tương lai của bạn?

@@ -261,6 +261,9 @@ custom-avatar-crop-area =
     .aria-label = Điều chỉnh vùng cắt
 custom-avatar-drag-handle =
     .aria-label = Thay đổi kích thước vùng cắt
+profiles-appmenu-callout-tour-title = Hồ sơ mới của bạn đã sẵn sàng
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = Trong menu ☰, nhấp vào vào tên hồ sơ của bạn để mở một hồ sơ khác, chỉnh sửa hồ sơ này hoặc chuyển đổi giữa các cuộc sống kỹ thuật số của bạn.
 barbell-avatar = Thanh tạ
 bike-avatar = Xe đạp
 

@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Cảm ơn bạn đã giúp { -brand-product-name } làm cho web cởi mở hơn, dễ truy cập hơn và tốt hơn cho mọi người.
 report-broken-site-panel-invalid-url-label = Vui lòng nhập một URL hợp lệ
 report-broken-site-panel-missing-reason-label = Hãy chọn một lý do
+report-broken-site-panel-blocked-trackers-label =
+    .label = Gửi URL bị chặn bởi tính năng trình chống theo dõi
+report-broken-site-panel-blocked-trackers-description = Trình chống theo dõi nâng cao có thể chặn các trình theo dõi và tập lệnh mà một số trang web cần để hoạt động bình thường.

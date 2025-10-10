@@ -227,9 +227,17 @@ tab-group-editor-color-selector2-red = Đỏ
 tab-group-description = { $tabGroupName } — Nhóm thẻ
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Đã thu gọn
 tab-group-label-tooltip-expanded = { $tabGroupName } — Đã mở rộng
+tab-group-preview-name =
+    .aria-label = Các thẻ trong một nhóm thu gọn
 tab-context-unnamed-group =
     .label = Nhóm không tên
 tab-group-name-default = Nhóm chưa có tên
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Danh sách thẻ đang mở
+tab-group-preview-closed-description = Danh sách thẻ đã đóng
 
 ##
 
