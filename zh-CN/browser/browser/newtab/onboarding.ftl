@@ -523,5 +523,6 @@ restored-from-backup-error-primary-button = 关闭
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = 定制您的 { -brand-short-name } 使用体验
 onboarding-personalization-subtitle = 回答几个问题，我们将为您推荐能优化 { -brand-short-name } 使用体验的功能和扩展。
 onboarding-personalization-motivation-privacy-option = 隐私和安全

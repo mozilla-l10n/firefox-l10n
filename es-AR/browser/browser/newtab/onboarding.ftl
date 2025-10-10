@@ -513,6 +513,20 @@ create-backup-screen-2-all-list-3 = Cifrado con contraseña
 create-backup-screen-3-title = Crear una contraseña de archivo de respaldo
 create-backup-screen-3-subtitle = Necesaria para cifrar los datos. Guárdela en un lugar que recordará.
 fx-backup-opt-in-header = Elegir ubicación del archivo
+fx-backup-opt-in-create-password-label = Ingresar contraseña
+fx-backup-opt-in-confirm-btn-label = Continuar
+fx-backup-opt-in-cancel-btn-label = Atrás
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = La copia de seguridad está programada
+fx-backup-confirmation-screen-close-button = Cerrar
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Todos los datos de navegación incluidos
+fx-backup-confirmation-screen-all-data-item-text-2 = Guardado en el dispositivo
+fx-backup-confirmation-screen-all-data-item-text-3 = Cifrado y protegido con contraseña
 
 ## Restore from Backup Flow about:welcome screens
 

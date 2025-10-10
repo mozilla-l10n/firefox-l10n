@@ -229,6 +229,12 @@ tab-context-unnamed-group =
     .label = 未命名群组
 tab-group-name-default = 未命名群组
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = 标签页列表已打开
+tab-group-preview-closed-description = 标签页列表已关闭
+
 ##
 
 tab-context-move-tab-to-new-group =
