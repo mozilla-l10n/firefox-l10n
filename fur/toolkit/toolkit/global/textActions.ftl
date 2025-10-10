@@ -68,6 +68,12 @@ text-action-search-text-box-clear =
     .title = Nete
 text-action-highlight-selection =
     .label = Evidenzie selezion
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Zonte coment ae selezion
+# Comment is a verb. This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection =
+    .label = Comente selezion
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =
