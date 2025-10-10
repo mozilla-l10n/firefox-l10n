@@ -29,6 +29,7 @@ about-logging-no-log-modules = Nissun
 about-logging-no-log-file = Nissun
 about-logging-logging-preset-selector-text = Pre-configurazion di regjistrazion:
 about-logging-with-profiler-stacks-checkbox = Ative analisi dal stack pai messaçs di regjistri
+about-logging-with-javascript-tracing-checkbox = Ative il regjistri complet dai events JavaScript
 about-logging-menu =
     .title = Opzions avanzadis
 
@@ -52,6 +53,8 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Modui di regjistrazion par fâ diagnosis di problemis cun decodificadôrs e codificadôrs audio/video, e decodificadôrs di imagjins WebCodecs
 about-logging-preset-ml-label = Machine Learning
 about-logging-preset-ml-description = Modui di regjistrazion par fâ la diagnosi dai problemis cul machine learning
+about-logging-preset-web-compat-label = Compatibilitât web
+about-logging-preset-web-compat-description = Modui di regjistrazion par diagnosticâ problemis di compatibilitât web
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Modui di regjistrazion par diagnosticâ i problemis cun WebGPU
 about-logging-preset-gfx-label = Grafiche
@@ -98,8 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Condivît
 about-logging-upload-error = Al è capitât un erôr intant che al vignive cjariât in rêt il profîl: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Al è capitât un erôr intant che al vignive memorizât il profîl cjariât in rêt: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Al è capitât un erôr intant che al vignive salvât il file: { $errorText }
 
 ## Uploaded Profiles section
 
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profîl { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Profîi cjariâts in rêt
+about-logging-no-uploaded-profiles = Nol è stât ancjemò cjariât in rêt nissun profîl.
+about-logging-delete-uploaded-profile = Elimine
+about-logging-view-uploaded-profile = Visualize profîl
+about-logging-delete-profile-confirm-title = Elimine profîl
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Desideristu pardabon eliminâ il profîl “{ $profileName }”? Nol è pussibil tornâ indaûr di cheste operazion.
 about-logging-deleting-profile = Daûr a eliminâ…
