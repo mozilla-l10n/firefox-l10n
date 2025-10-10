@@ -527,6 +527,12 @@ fx-backup-confirmation-screen-close-button = Cerrar
 fx-backup-confirmation-screen-all-data-item-text-1 = Todos los datos de navegación incluidos
 fx-backup-confirmation-screen-all-data-item-text-2 = Guardado en el dispositivo
 fx-backup-confirmation-screen-all-data-item-text-3 = Cifrado y protegido con contraseña
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Marcadores, historial, configuración y otros datos incluidos
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Guardado en el dispositivo
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Contraseñas y métodos de pago no incluidos
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Ir a <a data-l10n-name="settings">Configuración</a> para incluir datos confidenciales.
+fx-backup-confirmation-screen-item-subtext-1 = La copia de seguridad comenzará en unos minutos y se ejecutará una vez al día. Puede verificar el progreso en <a data-l10n-name="settings">Configuración</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } buscará la copia de seguridad si necesita reinstalar.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -546,3 +552,17 @@ restored-from-backup-success-no-checklist-primary-button = Continuar
 restored-from-backup-error-title = Hmm, hubo un problema con el archivo de respaldo.
 restored-from-backup-error-subtitle = Si tiene otro archivo de respaldo de { -brand-short-name }, intente restaurar desde ese. <a data-l10n-name="restore-problems">¿Sigue teniendo problemas?</a>
 restored-from-backup-error-primary-button = Cerrar
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Personalizar la experiencia de { -brand-short-name }
+onboarding-personalization-subtitle = Responda algunas preguntas y le recomendaremos funciones y extensiones para mejorar el uso de { -brand-short-name }.
+onboarding-personalization-use-case-title = ¿Para qué usará { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Personal
+onboarding-personalization-use-case-school-option = Escuela
+onboarding-personalization-use-case-work-option = Trabajo
+onboarding-personalization-motivation-title = ¿Qué características de { -brand-short-name } son las más importantes para usted?
+onboarding-personalization-motivation-privacy-option = Privacidad y seguridad
+onboarding-personalization-motivation-productivity-option = Productividad
+onboarding-personalization-motivation-other-option = Otras
