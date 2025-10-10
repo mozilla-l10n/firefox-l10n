@@ -481,7 +481,7 @@ desktop-to-mobile-qr-code-alt =
 
 create-backup-screen-1-title = Uppgradera till Windows 11? Låt oss säkerhetskopiera din data i { -brand-product-name }.
 create-backup-screen-1-subtitle = Skydda automatiskt dina lösenord, bokmärken och mer på 1–2 minuter.
-create-backup-screen-1-flair = Rekommenderad
+create-backup-screen-1-flair = Rekommenderas
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Läs mer</a>
 create-backup-screen-1-sync-label = Synka med { -brand-product-name }
 create-backup-screen-1-sync-body = Säkerhetskopierar alla inloggade enheter
@@ -490,9 +490,9 @@ create-backup-screen-1-backup-body = Sparar till din enhet eller Onedrive
 create-backup-select-tile-button-label = Välj
 create-backup-back-button-label = Tillbaka
 create-backup-show-fewer =
-    .label = Visa färre som denna
-create-backup-screen-2-title = Välj { -brand-product-name } data att säkerhetskopiera
-create-backup-screen-2-subtitle = Tar bara en minut. Din data säkerhetskopieras en gång om dagen.
+    .label = Visa färre som detta
+create-backup-screen-2-title = Välj data i { -brand-product-name } att säkerhetskopiera
+create-backup-screen-2-subtitle = Det tar bara en minut. Din data säkerhetskopieras en gång om dagen.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Enkel installation
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
@@ -507,7 +507,7 @@ create-backup-screen-2-all-label = All data
 create-backup-screen-2-all-list-2 = Inkluderar lösenord och betalningar
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Krypterad med ett lösenord
-create-backup-screen-3-title = Skapa en lösenord för säkerhetskopian
+create-backup-screen-3-title = Skapa ett lösenord för säkerhetskopian
 create-backup-screen-3-subtitle = Krävs för att kryptera din data. Förvara den på en plats du kommer ihåg.
 fx-backup-opt-in-header = Välj filplats
 fx-backup-opt-in-filepath-label = Välj en plats som du planerar att överföra till en ny enhet, som Onedrive.
