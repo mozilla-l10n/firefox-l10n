@@ -21,3 +21,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = No sta mostrâ plui
     .accesskey = N
 sandbox-unprivileged-namespaces-howtofix = Cemût risolvi il probleme
+sandbox-content-disabled-warning = L'isolament di sigurece al è disativât. La tô configurazion no je supuartade e e je mancul sigure.

@@ -99,3 +99,7 @@ about-logging-upload-error = Al è capitât un erôr intant che al vignive cjari
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Al è capitât un erôr intant che al vignive salvât il file: { $errorText }
+
+## Uploaded Profiles section
+
+about-logging-deleting-profile = Daûr a eliminâ…

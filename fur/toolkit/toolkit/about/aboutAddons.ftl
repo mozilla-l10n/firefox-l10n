@@ -479,7 +479,10 @@ available-updates-heading = Inzornaments disponibii
 recent-updates-heading = Inzornaments resints
 release-notes-loading = Daûr a cjamâ…
 release-notes-error = Nus displâs, ma al è sucedût un erôr intant che lis notis di publicazion a vignivin cjamadis.
+addon-permissions-heading = Permès
 addon-permissions-empty2 = Cheste estension no domande nissun permès.
+addon-permissions-required-label = Obligatoris:
+addon-permissions-optional-label = Facoltatîfs:
 addon-permissions-empty = Cheste estension no domande nissun permès
 addon-permissions-required = Permès necessaris pes funzionalitâts fondamentâls:
 addon-permissions-optional = Permès facoltatîfs pes funzionalitâts adizionâls:
@@ -575,6 +578,10 @@ permissions-data-addon-button = Permès e dâts
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Doprât de estension { $extensionName }
+addon-permissions-data-collection-heading = Racuelte dâts
+addon-permissions-data-collection-empty = Il svilupadôr al dîs che cheste estension no à bisugne di tirâ sù dâts.
+addon-data-collection-provided = Informazions dadis dal svilupadôr de estension
+addon-data-collection-learnmore = Altris informazions su la racuelte dâts
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

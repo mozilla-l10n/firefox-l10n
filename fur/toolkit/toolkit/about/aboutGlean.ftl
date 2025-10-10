@@ -17,6 +17,7 @@ about-glean-category-manual-testing = Prove manuâl
 about-glean-category-adhoc-testing = Prove ad hoc
 about-glean-category-profiler = Utilizazion dal Profiladôr
 about-glean-category-about-data = Informazions sui dâts
+about-glean-category-metrics-table = Tabele des metrichis
 about-glean-upload-enabled = Il cjariament in rêt dai dâts al è atîf.
 about-glean-upload-disabled = Il cjariament in rêt dai dâts al è disativât.
 about-glean-upload-enabled-local = Il cjariament in rêt dai dâts al è atîf dome par mandâ suntun servidôr locâl.
@@ -134,6 +135,19 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Par regjistrâ un profîl des prestazions e viodi dutis lis metrichis regjistradis, dopre
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Dutis lis metrichis
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Categorie
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Non
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Gjenar
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Valôr
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Azions
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtre
 about-glean-about-data-explanation =
     Par sgarfâ te liste dai dâts racuelts, consulte il
     <a data-l10n-name="glean-dictionary-link">Dizionari di { -glean-brand-name }</a>.

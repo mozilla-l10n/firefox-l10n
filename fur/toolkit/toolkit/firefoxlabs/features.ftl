@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Visualizazion pagjine web
 experimental-features-group-customize-browsing =
     .label = Personalize la tô navigazion
+experimental-features-group-productivity =
+    .label = Produtivitât
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Passwords te sbare laterâl
@@ -51,3 +53,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Sezions par argoment e funzions Sta daûr/Bloche pes storiis te pagjine Gnove schede
 experimental-features-newtab-sections-follow-block-description = Organize lis storiis te pagjine Gnove schede in sezions par argoment (sport, mangjative, divertiment e altri) par vê une esperience plui stuturade e facile di analizâ. Dopre i gnûfs controi Sta daûr e Bloche par personalizâ i contignûts di mostrâ. <a data-l10n-name="connect">Dânus la tô opinion</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Zonte sîts ae sbare des aplicazions
