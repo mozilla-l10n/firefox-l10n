@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = أخبر مواقع الويب بعدم بيع بياناتي أو مشاركتها
     .accesskey = ش
 non-technical-privacy-header = تفضيلات خصوصية الموقع
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -533,6 +535,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = التّصفّح
+browsing-group-label =
+    .aria-label = التّصفّح
 browsing-use-autoscroll =
     .label = استخدم اللّف الآلي
     .accesskey = ف

@@ -164,6 +164,7 @@ redirectLoop-title = لا تعيد الصفحة التوجيه بشكل سليم
 unknownSocketType-title = استجابة غير متوقعة من الخادوم
 nssFailure2-title = فشل الاتصال الآمن
 csp-xfo-error-title = لا يمكن أن يعرض { -brand-short-name } الصفحة
+corruptedContentErrorv2-title = خطأ محتوى فاسد
 corruptedContentError-title = خطأ محتوى فاسد
 sslv3Used-title = تعذّر الاتصال بأمان
 inadequateSecurityError-title = اتّصالك غير آمن

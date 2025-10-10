@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = روبوت دردشة بالذكاء الاصطناعي
+menu-view-contextual-password-manager =
+    .label = كلمات السر
 sidebar-options-menu-button =
     .title = افتح القائمة
 
@@ -17,10 +21,22 @@ sidebar-history-date-this-month =
     .heading = { DATETIME($date, dateStyle: "full") }
 sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (ملفات محلية)
 sidebar-history-delete =
     .title = احذف من التأريخ
 sidebar-history-clear =
     .label = امسح التأريخ
+sidebar-history-sort-by-heading = رتّب حسب:
+sidebar-history-sort-option-date =
+    .label = التاريخ
+sidebar-history-sort-option-site =
+    .label = الموقع
+sidebar-history-sort-option-date-and-site =
+    .label = التاريخ والموقع
 
 ## Labels for sidebar search
 
@@ -44,6 +60,7 @@ sidebar-show-on-the-right =
     .label = انقل الشريط الجانبي إلى اليمين
 sidebar-show-on-the-left =
     .label = انقل الشريط الجانبي إلى اليسار
+sidebar-manage-extensions = أدِر الامتدادات
 
 ## Labels for sidebar context menu items
 
@@ -53,6 +70,10 @@ sidebar-context-menu-remove-extension =
     .label = أزِل الامتداد
 sidebar-context-menu-report-extension =
     .label = أبلِغ عن الامتداد
+sidebar-context-menu-open-in-tab =
+    .label = افتح في لسان جديد
+sidebar-context-menu-open-in-container-tab =
+    .label = افتح في لسانٍ حاوٍ جديد
 sidebar-context-menu-open-in-window =
     .label = افتح في نافذة جديدة
 sidebar-context-menu-open-in-private-window =
@@ -61,17 +82,30 @@ sidebar-context-menu-bookmark-tab =
     .label = علّم اللسان…
 sidebar-context-menu-copy-link =
     .label = انسخ الرابط
+sidebar-context-menu-hide-sidebar =
+    .label = أخفِ الشريط الجانبي
+sidebar-context-menu-enable-vertical-tabs =
+    .label = فعِّل الألسنة العمودية
 sidebar-context-menu-customize-sidebar =
     .label = تخصيص الشريط الجانبي
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = أغلق اللسان على { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = أزل من { -brand-short-name }
 sidebar-context-menu-unpin-extension =
     .label = أزل من الشريط الجانبي
 
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-bookmark-page =
+    .label = علِّم الصفحة…
+
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = روبوت دردشة بالذكاء الاصطناعي
 sidebar-menu-history-label =
     .label = التأريخ
 sidebar-menu-synced-tabs-label =
@@ -80,6 +114,10 @@ sidebar-menu-bookmarks-label =
     .label = العلامات
 sidebar-menu-customize-label =
     .label = تخصيص الشريط الجانبي
+sidebar-menu-contextual-password-manager-label =
+    .label = كلمات السر
+sidebar-menu-more-tools-label =
+    .label = المزيد من الأدوات
 
 ## Tooltips for sidebar menu items.
 
@@ -108,6 +146,8 @@ sidebar-menu-history-header =
     .heading = تاريخ
 sidebar-menu-syncedtabs-header =
     .heading = ألسنة من أجهزة أخرى
+sidebar-menu-cpm-header =
+    .heading = كلمات السر
 sidebar-panel-header-close-button =
     .tooltiptext = أغلق
 
