@@ -440,6 +440,8 @@ create-backup-screen-1-backup-label = גיבוי למחשב
 create-backup-screen-1-backup-body = שומר במכשיר או ב־OneDrive שלך
 create-backup-select-tile-button-label = בחירה
 create-backup-back-button-label = חזרה
+create-backup-show-fewer =
+    .label = להציג פחות הודעות כמו אלה
 create-backup-screen-2-title = בחירת הנתונים של { -brand-product-name } לגיבוי
 create-backup-screen-2-subtitle = לוקח רק כדקה. הגתונים שלך מגובים פעם ביום.
 # Label for the "Easy setup" backup option
@@ -476,6 +478,7 @@ fx-backup-confirmation-screen-all-data-item-text-2 = נשמר למכשיר של�
 fx-backup-confirmation-screen-all-data-item-text-3 = מוצפן ומוגן בססמה
 fx-backup-confirmation-screen-easy-setup-item-text-1 = סימניות, היסטוריה, הגדרות ושאר נתונים כלולים
 fx-backup-confirmation-screen-easy-setup-item-text-2 = נשמר למכשיר שלך
+fx-backup-confirmation-screen-easy-setup-item-text-3 = ססמאות ואמצעי תשלום אינם כלולים
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = יש לעבור <a data-l10n-name="settings">להגדרות</a> כדי לכלול נתונים רגישים.
 fx-backup-confirmation-screen-item-subtext-1 = הגיבוי שלך יתחיל בעוד מספר דקות ויפעל פעם ביום. באפשרותך לבדוק את ההתקדמות <a data-l10n-name="settings">בהגדרות</a>.
 fx-backup-confirmation-screen-item-subtext-2 = ‏{ -brand-short-name } יחפש אחר הגיבוי שלך אם יהיה לך צורך להתקין מחדש.
