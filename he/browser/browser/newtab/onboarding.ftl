@@ -446,10 +446,14 @@ create-backup-screen-2-subtitle = לוקח רק כדקה. הגתונים שלך 
 create-backup-screen-2-easy-label = הגדרה קלה
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
 create-backup-screen-2-easy-list-1 = סימניות, היסטוריה, הגדרות ועוד
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = לא כולל ססמאות ואמצעי תשלום
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = לא מוצפן
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = כל הנתונים
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = כולל ססמאות ואמצעי תשלום
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = מוצפן באמצעות ססמה
 create-backup-screen-3-title = יצירת ססמה לקובץ הגיבוי
