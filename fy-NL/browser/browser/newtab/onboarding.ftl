@@ -478,6 +478,11 @@ sync-to-mobile-button-label = Syngronisearje mei mobyl
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-koade om { -brand-product-name } foar mobyl te downloaden
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = Oanrekommandearre
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Mear ynfo</a>
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Weromsette fan reservekopy út

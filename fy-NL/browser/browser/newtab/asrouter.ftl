@@ -231,6 +231,13 @@ fox-doodle-pin-secondary = No net
 set-default-pdf-handler-headline = <strong>Jo PDF’s wurde no iepene yn { -brand-short-name }.</strong> Bewurkje of ûndertekenje formulieren streekrjocht yn jo browser. Sykje nei ‘PDF’ yn ynstellingen om te wizigjen.
 set-default-pdf-handler-primary = Begrepen
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-primary-cta =
+    .label = Ynstelle as standert
+annotations-make-default-pdf-next =
+    .label = Folgjende
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Nij apparaat yn de takomst?
