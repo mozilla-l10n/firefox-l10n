@@ -251,9 +251,19 @@ tab-group-editor-color-selector2-gray = Grîs
 tab-group-editor-color-selector2-red = Ros
     .title = Ros
 tab-group-description = { $tabGroupName } — Grup di schedis
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Strenzût
+tab-group-label-tooltip-expanded = { $tabGroupName } — Slargjât
+tab-group-preview-name =
+    .aria-label = Schedis intun grup strenzût
 tab-context-unnamed-group =
     .label = Grup cence non
 tab-group-name-default = Grup cence non
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Liste schedis vierte
+tab-group-preview-closed-description = Liste schedis sierade
 
 ##
 
@@ -300,6 +310,16 @@ tab-context-ungroup-tab =
            *[other] Gjave dai grups
         }
     .accesskey = G
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } altre schede
+       *[other] Altris { $tabCount } schedis
+    }
 
 ## Open/saved tab group context menu
 
@@ -325,3 +345,9 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Vierç grup intun gnûf barcon
+
+## Split View
+
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on tabs inside of a tab split view
+tabbrowser-tab-label-tab-split-view = Schermi dividût
