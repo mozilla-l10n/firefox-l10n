@@ -482,7 +482,7 @@ create-backup-screen-2-all-label = 所有数据
 # Preceded by a green check mark indicating that these are included in the "All data" backup
 create-backup-screen-2-all-list-2 = 包含密码和付款信息
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
-create-backup-screen-2-all-list-3 = 使用密码加密
+create-backup-screen-2-all-list-3 = 由密码加密保护
 create-backup-screen-3-title = 创建备份文件的密码
 fx-backup-opt-in-header = 选择文件位置
 fx-backup-opt-in-create-password-label = 请输入密码
@@ -493,6 +493,13 @@ fx-backup-opt-in-cancel-btn-label = 返回
 
 fx-backup-confirmation-screen-title = 您的备份已安排
 fx-backup-confirmation-screen-close-button = 关闭
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = 包含所有浏览数据
+fx-backup-confirmation-screen-all-data-item-text-2 = 已保存到您的设备
+fx-backup-confirmation-screen-easy-setup-item-text-2 = 已保存到您的设备
+fx-backup-confirmation-screen-easy-setup-item-text-3 = 不包含密码和付款信息
 
 ## Restore from Backup Flow about:welcome screens
 
