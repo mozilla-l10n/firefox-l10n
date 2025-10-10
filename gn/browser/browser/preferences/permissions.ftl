@@ -190,8 +190,10 @@ permissions-site-localhost-disable-desc = Kóva omboyke oimeraẽva ñanduti rog
 permissions-site-local-network-window =
     .title = Ñemboheko - Mba’e’oka ñanduti rehegua
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = Ko’ã tenda ojerure oike hag̃ua tembiporu’í ha mba’eporu ko mba’e’okápe ojuajúva Wi-Fi térã ñanduti oĩvare. Ikatu eiporavo ñemoneĩ térã ejoko tendaita ani ojapo péicha.
 permissions-site-local-network-disable-label =
     .label = Ojoko jeikerã pyahu tembiporu’ípe ha mba’eporurã mba’e’oka ojuajúva nde Wi-Fi rehe?
+permissions-site-local-network-disable-desc = Kóva omboykéta oimeraẽva ñanduti rogue ndaipóriva tysýipe tojerure jeike tembiporu’ípe ha mba’eporu ko mba’e’okapegua ojuajúva Wi-Fi térã ñanduti oĩvare. Jajapórõ ikatu ñambyai ñanduti rogue.
 
 ## Site Permissions - Microphone
 
