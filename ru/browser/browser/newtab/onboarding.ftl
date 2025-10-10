@@ -492,7 +492,7 @@ create-backup-screen-1-backup-body = Сохраняет на ваше устро
 create-backup-select-tile-button-label = Выбрать
 create-backup-back-button-label = Назад
 create-backup-show-fewer =
-    .label = Показывать меньше такого
+    .label = Показывать меньше предложений
 create-backup-screen-2-title = Выберите данные { -brand-product-name } для резервирования
 create-backup-screen-2-subtitle = Займет лишь минуту. Резервная копия ваших данных сохраняется один раз в день.
 # Label for the "Easy setup" backup option
@@ -500,7 +500,7 @@ create-backup-screen-2-easy-label = Простая настройка
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
 create-backup-screen-2-easy-list-1 = Закладки, история, настройки и многое другое
 # Preceded by a red X indicating that these are not included in the "Easy setup" backup
-create-backup-screen-2-easy-list-2 = Не включает пароли и платежи
+create-backup-screen-2-easy-list-2 = Не включает пароли и способы оплаты
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Не зашифровано
 # Label for the "All data" backup option
