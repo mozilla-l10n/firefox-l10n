@@ -183,6 +183,7 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = Ko’ã ñanduti rogue ojerure oike hag̃ua tembiporu’ípe ha mba’eporu ko mba’e’okápe. Ikatu emoneĩ térã ejokohína ko’ã tendápe jeike.
 permissions-site-localhost-disable-label =
     .label = ¿Ejoko mba’ejerure pyahu tembiporu’ípe jeikerã ha mba’eporurã ko mba’e’okápe?
+permissions-site-localhost-disable-desc = Kóva omboyke oimeraẽva ñanduti rogue noĩriva tysýi ojeruréva jeike tembiporu’í ha mba’eporu ko mba’e’okápe. Jajapórõ ikatu ñambyai ñanduti rogue.
 
 ## Site Permissions - Local network
 
