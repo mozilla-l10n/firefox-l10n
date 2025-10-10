@@ -742,6 +742,9 @@ search-remove-engine =
 search-add-engine =
     .label = أضِف
     .accesskey = ض
+search-edit-engine =
+    .label = حرّر
+    .accesskey = ر
 search-find-more-link = اعثر على المزيد من محركات البحث
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -750,6 +753,7 @@ search-keyword-warning-title = كرر الكلمة المفتاحية
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = لقد اخترت كلمة مفتاحية يستخدمها ”{ $name }“ حاليا. من فضلك اختر واحدة أخرى.
 search-keyword-warning-bookmark = لقد اخترت كلمة مفتاحية تستخدمها علامة حاليا. من فضلك اختر واحدة أخرى.
+remove-engine-remove = أزِل
 remove-addon-engine-alert = لإزالة محرك البحث هذا،أزِل الإضافة المرتبطة به.
 
 ## Containers Section
@@ -1117,6 +1121,9 @@ sitedata-option-block-all-cross-site-cookies =
     .label = كل الكعكات بين المواقع (قد تتسبب بتعطُل المواقع)
 sitedata-option-block-all =
     .label = كل الكعكات (يمكن أن تعطب المواقع هكذا)
+sitedata-clear2 =
+    .label = امحُ بيانات التصفح
+    .accesskey = م
 sitedata-clear =
     .label = امسح البيانات…
     .accesskey = س
