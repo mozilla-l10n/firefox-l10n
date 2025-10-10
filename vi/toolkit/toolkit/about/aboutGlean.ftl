@@ -181,3 +181,10 @@ about-glean-disable-new-features-button = Vô hiệu hóa các tính năng mới
 about-glean-about-data-explanation =
     Để duyệt danh sách dữ liệu đã thu thập, vui lòng tham khảo
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Ping tích hợp
+about-glean-ping-list-optgroup-custom =
+    .label = Ping tùy chỉnh
