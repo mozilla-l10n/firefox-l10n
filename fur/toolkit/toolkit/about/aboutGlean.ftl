@@ -166,6 +166,15 @@ about-glean-no-data-to-display = Nissun dât di visualizâ.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Lis metrichis cun etichete no son ancjemò supuartadis inte viodude <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Gjenar di metriche no cognossût.
+about-glean-enable-new-features-button = Ative gnovis funzions
+about-glean-disable-new-features-button = Disative gnovis funzions
 about-glean-about-data-explanation =
     Par sgarfâ te liste dai dâts racuelts, consulte il
     <a data-l10n-name="glean-dictionary-link">Dizionari di { -glean-brand-name }</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Pings integrâts
+about-glean-ping-list-optgroup-custom =
+    .label = Pings personalizâts

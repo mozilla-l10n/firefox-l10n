@@ -164,6 +164,7 @@ redirectLoop-title = Il gnûf-dirotament di cheste pagjine nol funzione ben
 unknownSocketType-title = Rispueste inspietade dal servidôr
 nssFailure2-title = Conession sigure falide
 csp-xfo-error-title = { -brand-short-name } nol rive a vierzi cheste pagjine
+corruptedContentErrorv2-title = Erôr: contignût comprometût
 corruptedContentError-title = Erôr di contignût comprometût
 sslv3Used-title = Impussibil conetisi in maniere sigure
 inadequateSecurityError-title = La conession no je sigure
