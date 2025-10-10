@@ -21,3 +21,13 @@ unexpected-script-load-detail-1-block = { -brand-short-name } al <strong>BLOCAR�
 # Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
 # They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
 unexpected-script-load-detail-2 = Ancje se tu decidis di permeti chest script, segnalilu a { -vendor-short-name } par capî cemût e parcè che al è stât cjariât. <em>Cence chestis informazions, un doman cheste carateristiche e podarès smeti di funzionâ.</em>
+unexpected-script-load-report-checkbox =
+    .label = Segnale l’URL di chest script a { -vendor-short-name }
+unexpected-script-load-email-checkbox =
+    .label = Inclût la mê direzion e-mail in mût che { -vendor-short-name } al podedi contatâmi se al covente
+unexpected-script-load-email-textbox =
+    .placeholder = Inserìs achì la direzion e-mail
+    .aria-label = Inserìs achì la direzion e-mail
+unexpected-script-load-more-info = Altris informazions
+unexpected-script-load-learn-more = Plui informazions
+unexpected-script-load-telemetry-disabled = Nol è pussibil inviâ segnalazions parcè che la telemetrie e je disativade tes impostazions. Ative la telemetrie par mandâ segnalazions.
