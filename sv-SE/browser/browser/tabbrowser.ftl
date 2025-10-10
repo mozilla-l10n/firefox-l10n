@@ -263,7 +263,7 @@ tab-group-name-default = Namnlös grupp
 ## whether the hover menu is open or closed.
 
 tab-group-preview-open-description = Fliklista öppen
-tab-group-preview-closed-description = Fliklistan stängd
+tab-group-preview-closed-description = Fliklista stängd
 
 ##
 

@@ -164,6 +164,6 @@ about-glean-about-data-explanation =
 ## These labels are displayed to organize the different ping types within the dropdown.
 
 about-glean-ping-list-optgroup-built-in =
-    .label = Inbyggda Pings
+    .label = Inbyggda pings
 about-glean-ping-list-optgroup-custom =
-    .label = Anpassade pingar
+    .label = Anpassade pings
