@@ -146,6 +146,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Oñemoambue ñemboheko mba’ekuaarã ñembyaty.</strong> Umi ñemoambue oikóva ambue mba’etépe ojeporu opaite mba’ete ko mba’e’okápe.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Ehecha ñemboheko
 # Secondary button label to dismiss the infobar without action
