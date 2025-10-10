@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — التصفح الخاص
        *[other] { -brand-full-name } التصفح الخاص
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = التصفح الخاص
 
 ##
 
@@ -835,6 +838,19 @@ urlbar-result-dismissal-acknowledgment-market = شكرًا لملاحظاتك. �
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = شكرًا لملاحظاتك. لن ترى هذه الاقتراحات بعد الآن.
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · اليوم
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · ينتهي اليوم
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1348,6 +1364,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = أظهر ”{ $popupURI }“
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = أظهر "{ $redirectURI }"
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1392,11 +1412,16 @@ trustpanel-etp-description-enabled = إذا كان هناك شيء يبدو مع
 trustpanel-connection-label-secure = الاتصال آمن
 trustpanel-connection-label-insecure = الاتصال غير آمن
 trustpanel-header-enabled = { -brand-product-name } على الحراسة
+trustpanel-header-enabled-insecure = كن حذرًا على هذا الموقع
 trustpanel-description-enabled = أنت محمي. إذا لاحظنا أي شيء، سنُعلمك.
 trustpanel-header-disabled = لقد أوقفت الحماية
 trustpanel-description-disabled = { -brand-product-name } خارج الخدمة. نقترح إعادة تفعيل الحماية.
 trustpanel-clear-cookies-button = امسح الكعكات و بيانات المواقع
 trustpanel-privacy-link = إعدادات الخصوصية
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = امحُ ملفات تعريف الارتباط وبيانات الموقع لـ { $host }
 trustpanel-clear-cookies-subview-button-clear = امسح
 trustpanel-clear-cookies-subview-button-cancel = ألغِ
 # Variables
@@ -1405,11 +1430,16 @@ trustpanel-site-information-header =
     .title = حماية الاتصال لـ { $host }
 trustpanel-siteinformation-morelink = مزيد من المعلومات حول الموقع
 trustpanel-blocker-see-all = اعرض الكل
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = حماية التتبع لـ { $host }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-description = { -brand-product-name } يرى أن على الشركات تقليل متابعتك. لذلك نحظر أكبر عدد ممكن منها.
+trustpanel-blocked-header = قام { -brand-product-name } بحظر هذه الأشياء من أجلك:
 trustpanel-tracking-header = سمح { -brand-product-name } بهذه الأشياء حتى لا تتعطل المواقع:
 trustpanel-tracking-description = دون المتعقّبات، قد لا تعمل بعض الأزرار والنماذج وحقول الولوج.
 trustpanel-insecure-section-header = اتّصالك غير آمن
@@ -1417,3 +1447,4 @@ trustpanel-insecure-description = البيانات التي ترسلها إلى 
 trustpanel-list-label-tracking-content = المحتوى الذي يتعقّبك
 trustpanel-tracking-content-tab-list-header = تحاول هذه المواقع تتبعك:
 trustpanel-fingerprinter-list-header = تحاول هذه المواقع تبصيمك:
+trustpanel-cryptominer-tab-list-header = تحاول هذه المواقع تعدين العُملات الرقمية:

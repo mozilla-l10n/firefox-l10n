@@ -34,6 +34,7 @@ inactive-css-not-display-block-on-floated = Pe mongu’eha omoambue <strong>jehe
 inactive-css-not-display-block-on-floated-2 = Pe mongu’eha omoambue <strong>jehecha</strong> repykue <strong>{ $display }</strong> pe mba’eporu oĩgui <strong>vevuihápe</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe, ndaha’éi rupi osẽtava renda ha avei mba’eporu hu’ũva.
 inactive-css-not-block = <strong>{ $property }</strong> ndorekói mba’evéichagua mba’evai ko mba’eporúpe ndaha’éi rupi mba’eporu osẽtava renda.
+inactive-css-not-block-container = <strong>{ $property }</strong> ndorekói mba’evéichagua mba’evai ko mba’eporúpe ndaha’éi rupi mba’eporu ikatúva block.
 inactive-css-not-floated = <strong>{ $property }</strong> ndojapói mba’eve mba’eporu ovevýiva añoitépe.
 inactive-css-property-is-impossible-to-override-in-visited = Ndakatúi eipe’aite <strong>{ $property }</strong> jejoko <strong>:jehopyre</strong> rupive.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe ndaha’éi rupi mba’eporu osẽtava renda.
