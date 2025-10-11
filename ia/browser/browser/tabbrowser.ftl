@@ -257,6 +257,11 @@ tab-context-unnamed-group =
     .label = Gruppo sin nomine
 tab-group-name-default = Gruppo sin nomine
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Lista de schedas aperte
+
 ##
 
 tab-context-move-tab-to-new-group =
