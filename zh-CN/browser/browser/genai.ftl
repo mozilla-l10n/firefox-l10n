@@ -22,7 +22,7 @@ genai-settings-chat-localhost-links = 引入您私有的本地聊天机器人，
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = 生成摘要
-    .value = 请简要概括所选内容。用标题分节、列表分点，做到一目了然。据实总结，不要脱离原意。
+    .value = 请简要概括所选内容。用标题分节、列表分点，做到一目了然。据实生成摘要，不要脱离原意。
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = 简化措辞
