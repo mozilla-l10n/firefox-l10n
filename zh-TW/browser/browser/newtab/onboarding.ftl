@@ -483,6 +483,44 @@ create-backup-show-fewer =
     .label = 減少顯示這類內容
 create-backup-screen-2-title = 請選擇要備份的 { -brand-product-name } 資料
 create-backup-screen-2-subtitle = 只要一分鐘就能完成。您的資料會每天備份一次。
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = 設定簡單
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = 書籤、瀏覽紀錄、設定與更多資訊
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = 不包含密碼與付款資訊
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = 未加密
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = 所有資料
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = 包含密碼與付款資訊
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = 使用密碼加密
+create-backup-screen-3-title = 為備份檔設定密碼
+create-backup-screen-3-subtitle = 需要有密碼才能加密資料，請將密碼保存於能記得的地方。
+fx-backup-opt-in-header = 選擇檔案位置
+fx-backup-opt-in-filepath-label = 挑一個能夠轉移到新裝置的地方，例如 OneDrive。
+fx-backup-opt-in-create-password-label = 輸入密碼
+fx-backup-opt-in-confirm-btn-label = 繼續
+fx-backup-opt-in-cancel-btn-label = 上一頁
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = 已排定備份
+fx-backup-confirmation-screen-close-button = 關閉
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = 包含所有瀏覽資料
+fx-backup-confirmation-screen-all-data-item-text-2 = 已儲存到您的裝置
+fx-backup-confirmation-screen-all-data-item-text-3 = 已加密，並用密碼保護
+fx-backup-confirmation-screen-easy-setup-item-text-1 = 包含書籤、上網紀錄、設定與其他資料
+fx-backup-confirmation-screen-easy-setup-item-text-2 = 已儲存到您的裝置
+fx-backup-confirmation-screen-easy-setup-item-text-3 = 不含密碼與付款資訊
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = 可到<a data-l10n-name="settings">設定</a>當中將敏感資料列入備份。
+fx-backup-confirmation-screen-item-subtext-1 = 將在幾分鐘後開始備份，接下來每天備份一次。可以到<a data-l10n-name="settings">設定</a>當中確認備份狀態。
+fx-backup-confirmation-screen-item-subtext-2 = 需要重新安裝時，{ -brand-short-name } 會自動尋找您的備份資料。
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -502,3 +540,17 @@ restored-from-backup-success-no-checklist-primary-button = 繼續
 restored-from-backup-error-title = 嗯…您的備份檔案有點問題。
 restored-from-backup-error-subtitle = 若您有其他的 { -brand-short-name } 備份檔，請嘗試還原該檔案。<a data-l10n-name="restore-problems">還有問題嗎？</a>
 restored-from-backup-error-primary-button = 關閉
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = 自訂您的 { -brand-short-name } 使用體驗
+onboarding-personalization-subtitle = 回答幾個小問題，我們就可推薦您能夠加強 { -brand-short-name } 使用體驗的功能與擴充套件。
+onboarding-personalization-use-case-title = 您的 { -brand-short-name } 主要用於什麼環境？
+onboarding-personalization-use-case-personal-option = 私人
+onboarding-personalization-use-case-school-option = 學校
+onboarding-personalization-use-case-work-option = 工作
+onboarding-personalization-motivation-title = { -brand-short-name } 的哪些功能，對您來說最重要？
+onboarding-personalization-motivation-privacy-option = 隱私權與安全性
+onboarding-personalization-motivation-productivity-option = 生產力
+onboarding-personalization-motivation-other-option = 其他

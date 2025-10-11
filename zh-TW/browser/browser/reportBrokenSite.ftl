@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = 感謝您協助 { -brand-product-name } 讓網路環境變得更好、更開放、更容易讓所有人使用。
 report-broken-site-panel-invalid-url-label = 請輸入有效網址
 report-broken-site-panel-missing-reason-label = 請選擇原因
+report-broken-site-panel-blocked-trackers-label =
+    .label = 傳送被追蹤保護功能封鎖的網址
+report-broken-site-panel-blocked-trackers-description = 「加強型追蹤保護」功能可能會封鎖某些網站正常運作所必需的追蹤器與指令碼。

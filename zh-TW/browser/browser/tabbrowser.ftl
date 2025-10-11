@@ -225,9 +225,17 @@ tab-group-editor-color-selector2-red = 紅色
 tab-group-description = { $tabGroupName } — 分頁群組
 tab-group-label-tooltip-collapsed = { $tabGroupName } — 摺疊
 tab-group-label-tooltip-expanded = { $tabGroupName } — 展開
+tab-group-preview-name =
+    .aria-label = 折疊群組中的分頁
 tab-context-unnamed-group =
     .label = 未命名群組
 tab-group-name-default = 未命名群組
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = 已開啟分頁清單
+tab-group-preview-closed-description = 已關閉分頁清單
 
 ##
 

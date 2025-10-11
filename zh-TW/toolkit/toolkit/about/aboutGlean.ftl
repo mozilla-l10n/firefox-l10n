@@ -119,3 +119,10 @@ about-glean-enable-new-features-promo =
 about-glean-enable-new-features-button = 開啟新功能
 about-glean-disable-new-features-button = 關閉新功能
 about-glean-about-data-explanation = 要瀏覽收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = 內建 Ping
+about-glean-ping-list-optgroup-custom =
+    .label = 自訂 Ping
