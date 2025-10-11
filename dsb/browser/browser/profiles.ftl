@@ -263,7 +263,7 @@ custom-avatar-drag-handle =
     .aria-label = Wjelikosć pśirězowańskego wobceŕka změniś
 profiles-appmenu-callout-tour-title = Waš nowy profil jo gótowy
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
-profiles-appmenu-callout-tour-subtitle = Pótusniśo w meniju ☰ swójo profilowe mě, aby druge napórał, toś to wobźěłał abo mjazy swójimi digitalnymi pśejšeł.
+profiles-appmenu-callout-tour-subtitle = Pótusniśo w meniju ☰ swójo profilowe mě, aby druge napórał, toś to wobźěłał abo mjazy swójimi digitalnymi žywjenjami pśejšeł.
 profiles-appmenu-callout-tour-primary-button = Pokažćo mě kak
 barbell-avatar = Hantla
 bike-avatar = Kólaso
