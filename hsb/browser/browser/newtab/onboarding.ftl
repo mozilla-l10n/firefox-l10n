@@ -482,6 +482,12 @@ desktop-to-mobile-qr-code-alt =
 
 create-backup-screen-1-flair = Doporučeny
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Dalše informacije</a>
+create-backup-screen-1-sync-label = Z { -brand-product-name } synchronizować
+create-backup-screen-1-sync-body = Zawěsćuje wšě přizjewjene graty
+create-backup-screen-1-backup-label = Na PC zawěsćić
+create-backup-screen-1-backup-body = Składuje na wašim graće abo OneDrive
+create-backup-select-tile-button-label = Wubrać
+create-backup-back-button-label = Wróćo
 
 ## Restore from Backup Flow about:welcome screens
 
