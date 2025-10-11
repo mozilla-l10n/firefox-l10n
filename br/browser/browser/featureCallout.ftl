@@ -121,4 +121,5 @@ sidebar-callout-survey-submit = Kas
 sidebar-callout-survey-thank-you = Trugarez da vezañ roet hoc’h ali!
 unified-search-callout-primary-label = War-lerc’h
 unified-search-callout-secondary-label = Argas
+unified-search-engines-callout-title = Klask gant ur verradenn
 unified-search-engines-callout-primary-label = Komprenet am eus

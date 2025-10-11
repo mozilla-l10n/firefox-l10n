@@ -270,6 +270,15 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Gwelout an deskrivadur
     .accesskey = d
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Klask ar skeudenn gant { $engine }
+    .accesskey = e
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Klask ar skeudenn gant { $engine }
 main-context-menu-video-save-as =
     .label = Enrollañ ar video evel…
     .accesskey = v
