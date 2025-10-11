@@ -253,6 +253,8 @@ tab-group-editor-color-selector2-red = Rubie
 tab-group-description = { $tabGroupName } — Gruppo de schedas
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Collabeva
 tab-group-label-tooltip-expanded = { $tabGroupName } — Expandeva
+tab-group-preview-name =
+    .aria-label = Schedas in un gruppo collabite
 tab-context-unnamed-group =
     .label = Gruppo sin nomine
 tab-group-name-default = Gruppo sin nomine
@@ -261,6 +263,7 @@ tab-group-name-default = Gruppo sin nomine
 ## whether the hover menu is open or closed.
 
 tab-group-preview-open-description = Lista de schedas aperte
+tab-group-preview-closed-description = Lista de schedas clause
 
 ##
 
