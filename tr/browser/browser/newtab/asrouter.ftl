@@ -231,6 +231,13 @@ fox-doodle-pin-secondary = Şimdi değil
 set-default-pdf-handler-headline = <strong>PDF’leriniz artık { -brand-short-name } ile açılıyor.</strong> Formları doğrudan tarayıcınızda düzenleyebilir ve imzalayabilirsiniz. Varsayılan ayarları değiştirmek isterseniz ayarlarda “PDF” araması yapabilirsiniz.
 set-default-pdf-handler-primary = Anladım
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-primary-cta =
+    .label = Varsayılan yap
+annotations-make-default-pdf-next =
+    .label = İleri
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Yeni bir cihaza geçmeyi düşünüyor musunuz?

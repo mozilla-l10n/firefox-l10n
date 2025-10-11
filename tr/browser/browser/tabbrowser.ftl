@@ -267,6 +267,12 @@ tab-context-unnamed-group =
     .label = Adsız grup
 tab-group-name-default = Adsız Grup
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Sekme listesi açık
+tab-group-preview-closed-description = Sekme listesi kapalı
+
 ##
 
 tab-context-move-tab-to-new-group =

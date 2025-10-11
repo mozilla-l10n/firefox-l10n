@@ -261,6 +261,7 @@ custom-avatar-crop-area =
     .aria-label = Kırpma alanını ayarla
 custom-avatar-drag-handle =
     .aria-label = Kırpma alanını yeniden boyutlandır
+profiles-appmenu-callout-tour-title = Yeni profiliniz hazır
 barbell-avatar = Halter
 bike-avatar = Bisiklet
 

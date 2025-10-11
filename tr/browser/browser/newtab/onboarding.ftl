@@ -478,6 +478,30 @@ sync-to-mobile-button-label = Mobil cihazla eşitleyin
 desktop-to-mobile-qr-code-alt =
     .aria-label = Mobil cihazlar için { -brand-product-name }’u indirebileceğiniz QR kodu
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = Önerilen
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Daha fazla bilgi alın</a>
+create-backup-screen-1-sync-label = { -brand-product-name } ile eşitle
+create-backup-screen-1-backup-body = Cihazınıza veya OneDrive’a kaydeder
+create-backup-select-tile-button-label = Seç
+create-backup-back-button-label = Geri
+create-backup-screen-2-title = Yedeklenecek { -brand-product-name } verilerinizi seçin
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Kolay kurulum
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Tüm veriler
+fx-backup-opt-in-confirm-btn-label = İleri
+fx-backup-opt-in-cancel-btn-label = Geri
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-close-button = Kapat
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Hassas verileri dahil etmek için <a data-l10n-name="settings">Ayarlar</a>’a gidin.
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Yedekten geri yükle
@@ -496,3 +520,14 @@ restored-from-backup-success-no-checklist-primary-button = Devam et
 restored-from-backup-error-title = Yedekleme dosyanızla ilgili bir sorun var.
 restored-from-backup-error-subtitle = Başka bir { -brand-short-name } yedek dosyanız varsa onu geri yüklemeyi deneyin. <a data-l10n-name="restore-problems">Hâlâ sorun mu yaşıyorsunuz?</a>
 restored-from-backup-error-primary-button = Kapat
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = { -brand-short-name } deneyiminizi özelleştirin
+onboarding-personalization-use-case-personal-option = Kişisel
+onboarding-personalization-use-case-school-option = Okul
+onboarding-personalization-use-case-work-option = İş
+onboarding-personalization-motivation-privacy-option = Gizlilik ve güvenlik
+onboarding-personalization-motivation-productivity-option = Verimlilik
+onboarding-personalization-motivation-other-option = Diğer
