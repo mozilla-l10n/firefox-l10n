@@ -446,3 +446,13 @@ newtab-custom-wallpaper-cta = Esaeañ
 
 newtab-report-cancel = Nullañ
 newtab-report-submit = Kas
+
+## Strings for task / to-do list productivity widget
+
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nevez
+newtab-widget-lists-menu-create = Krouiñ ur roll nevez
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Roll nevez

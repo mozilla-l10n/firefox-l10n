@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Gratias pro adjutar { -brand-product-name } a render le web plus aperte, accessibile, e melior pro totes.
 report-broken-site-panel-invalid-url-label = Insere un URL valide
 report-broken-site-panel-missing-reason-label = Elige un ration
+report-broken-site-panel-blocked-trackers-label =
+    .label = Inviar URLs blocate per protection contra-traciamento
+report-broken-site-panel-blocked-trackers-description = Le protection antitraciamento reinfortiate pote blocar traciatores e scripts que alcun sitos web besonia pro functionar correctemente.
