@@ -483,6 +483,7 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-title =
     Aktualizujeće na Windows 11?
     Dajće nam waše daty { -brand-product-name } zawěsćić.
+create-backup-screen-1-subtitle = Škitajće awtomatisce waše hesła, zapołožki a wjace za 1 mjeńšinu abo 2 mjeńšinje.
 create-backup-screen-1-flair = Doporučeny
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Dalše informacije</a>
 create-backup-screen-1-sync-label = Z { -brand-product-name } synchronizować
@@ -494,6 +495,7 @@ create-backup-back-button-label = Wróćo
 create-backup-show-fewer =
     .label = Mjenje wot nich pokazać
 create-backup-screen-2-title = Wubjerće daty { -brand-product-name }, kotrež so maja zawěsćić
+create-backup-screen-2-subtitle = Traje jenož mjeńšinu. Waše daty so jónu wob dźeń zawěsćuja.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Lochka konfiguracija
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
@@ -510,6 +512,7 @@ create-backup-screen-2-all-list-2 = Wobsahuje hesła a płaćenja
 create-backup-screen-2-all-list-3 = Z hesłom zaklučowany
 create-backup-screen-3-title = Hesło za zawěsćensku dataju wutworić
 fx-backup-opt-in-header = Městno dataje wubrać
+fx-backup-opt-in-filepath-label = Wubjerće městno, kotrež chceće do nowe grata přenošować, na přikład OneDrive.
 fx-backup-opt-in-create-password-label = Hesło zapodać
 fx-backup-opt-in-confirm-btn-label = Dale
 fx-backup-opt-in-cancel-btn-label = Wróćo
@@ -528,6 +531,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Zapołožki, historija, n
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Na wašim graće składowane
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Hesła a płaćenja njewobsahowane
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Dźiće k <a data-l10n-name="settings">nastajenjam</a>, zo byšće sensibelne daty zapřijał.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } budźe waše zawěsćenje pytać, jeli dyrbiće znowa instalować.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -556,6 +560,7 @@ onboarding-personalization-use-case-title = Za čo budźeće { -brand-short-name
 onboarding-personalization-use-case-personal-option = Wosobinski
 onboarding-personalization-use-case-school-option = Šula
 onboarding-personalization-use-case-work-option = Słužbny
+onboarding-personalization-motivation-title = Kotre funkcije { -brand-short-name } su najwažniše za was?
 onboarding-personalization-motivation-privacy-option = Priwatnosć a wěstota
 onboarding-personalization-motivation-productivity-option = Produktiwita
 onboarding-personalization-motivation-other-option = Druhe
