@@ -477,6 +477,35 @@ sync-to-mobile-button-label = Synchronisar con apparato mobile
 desktop-to-mobile-qr-code-alt =
     .aria-label = Codice QR pro discargar { -brand-product-name } pro apparato mobile
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Promove tu a Windows 11?
+    Que nos salveguarda tu datos de { -brand-product-name }.
+create-backup-screen-1-subtitle = Protege automaticamente tu contrasignos, marcapaginas, e plus in 1–2 minutas.
+create-backup-screen-1-flair = Recommendate
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Pro saper plus</a>
+create-backup-screen-1-sync-label = Synchronisar con { -brand-product-name }
+create-backup-screen-1-sync-body = Salveguardar tote le apparatos connexe
+create-backup-screen-1-backup-label = Salveguardar sur le computator
+create-backup-select-tile-button-label = Seliger
+create-backup-back-button-label = Retro
+create-backup-show-fewer =
+    .label = Monstrar minus como isto
+create-backup-screen-2-title = Elige le datos de { -brand-product-name } a salveguardar
+create-backup-screen-2-subtitle = Il prende solo un minuta. Tu datos es salveguardate un vice per die.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configuration facile
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Marcapaginas, chronologia, parametros, etc.
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Non includer contrasignos e pagamentos
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Non cryptate
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Tote le datos
+create-backup-screen-3-title = Crear un file contrasigno de reserva
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Restaurar ab le copia de salveguarda

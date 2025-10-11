@@ -231,6 +231,12 @@ fox-doodle-pin-secondary = Non ora
 set-default-pdf-handler-headline = <strong>Tu files pdf ora se aperi in { -brand-short-name }.</strong> Redige o firma formularios directemente in tu navigator. Pro configurar lo, cerca “PDF” in parametros.
 set-default-pdf-handler-primary = Comprendite
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-handler-title = Facer de { -brand-short-name } tu editor PDF predefinite
+annotations-make-default-pdf-next =
+    .label = Sequente
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Nove apparato in tu futuro?
