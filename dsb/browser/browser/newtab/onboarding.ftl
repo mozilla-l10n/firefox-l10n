@@ -511,6 +511,7 @@ create-backup-screen-2-all-list-2 = Wopśimujo gronidła a płaśenja
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Z gronidłom skoděrowany
 create-backup-screen-3-title = Gronidło za zawěsćeńsku dataju napóraś
+create-backup-screen-3-subtitle = Trjebne za koděrowanje wašych datow. Składujśo je na městnje, na kótarež se dopominaš.
 fx-backup-opt-in-header = Městno dataje wubraś
 fx-backup-opt-in-filepath-label = Wubjeŕśo městno, kótarež cośo do nowego rěda pśenosowaś, na pśikład OneDrive.
 fx-backup-opt-in-create-password-label = Gronidło zapódaś
@@ -531,6 +532,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Cytańske znamjenja, hist
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Na wašom rěźe skłaźone
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Gronidła a płaśenja njewopśimjone
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Źiśo k <a data-l10n-name="settings">nastajenjam</a>, aby sensibelne daty zapśimjeł.
+fx-backup-confirmation-screen-item-subtext-1 = Wašo zawěsćenje buźo za mało minutow zachopinaś a wuwjedujo se jaden raz na źeń. Móžośo procesoju w <a data-l10n-name="settings">nastajenjach</a> slědowaś.
 fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } buźo wašo zawěsćenje pytaś, jolic musyśo znowego instalěrowaś.
 
 ## Restore from Backup Flow about:welcome screens
@@ -556,6 +558,7 @@ restored-from-backup-error-primary-button = Zacyniś
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Pśiměŕśo swójo dožywjenje { -brand-short-name }
+onboarding-personalization-subtitle = Wótegrońśo na někotare pšašanja a pórucamy funkcije a rozšyrjenja, aby my wašo wužyśe { -brand-short-name } pólěpšyli.
 onboarding-personalization-use-case-title = Za co buźośo { -brand-short-name } wužywaś?
 onboarding-personalization-use-case-personal-option = Wósobinski
 onboarding-personalization-use-case-school-option = Šula
