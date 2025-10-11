@@ -20,6 +20,9 @@ permission-dialog-description-file-app = Toś tej dataji dowóliś, wótkaz typa
 permission-dialog-description-extension-app = Rozšyrjenjeju { $extension } dowóliś, wótkaz typa { $scheme } z { $appName } wócyniś?
 permission-dialog-description-system-app = Wótkaz { $scheme } z { $appName } wócyniś?
 permission-dialog-description-system-noapp = Wótkaz { $scheme } wócyniś?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Toś tomu sedłoju dowóliś, wašu digitalnu móšynu wócyniś?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
