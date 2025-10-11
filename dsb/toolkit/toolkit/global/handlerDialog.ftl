@@ -23,6 +23,14 @@ permission-dialog-description-system-noapp = Wótkaz { $scheme } wócyniś?
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = Toś tomu sedłoju dowóliś, wašu digitalnu móšynu wócyniś?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Wócynjanje wótkaza <strong>{ $scheme }</strong> <strong>{ $host }</strong> dowólujo, wašu napšawdnu identitu z <strong>{ $appName }</strong> pominaś. Pókšacujśo jano, jolic toś tomu sedłoju dowěriśo.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Wócynjanje wótkaza <strong>{ $scheme }</strong> toś tomu sedłoju dowólujo, wašu napšawdnu identitu z <strong>{ $appName }</strong> pominaś. Pókšacujśo jano, jolic toś tomu sedłoju dowěriśo.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Wócynjanje wótkaza <strong>{ $scheme }</strong> <strong>{ $host }</strong> dowólujo, wašu napšawdnu identitu z digitalneje móšyny pominaś. Pókšacujśo jano, jolic toś tomu sedłoju dowěriśo.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Wócynjanje wótkaza <strong>{ $scheme }</strong> toś tomu sedłoju dowólujo, wašu napšawdnu identitu z digitalneje móšyny pominaś. Pókšacujśo jano, jolic toś tomu sedłoju dowěriśo.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

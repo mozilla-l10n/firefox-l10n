@@ -511,6 +511,7 @@ create-backup-screen-2-all-list-2 = Wobsahuje hesła a płaćenja
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Z hesłom zaklučowany
 create-backup-screen-3-title = Hesło za zawěsćensku dataju wutworić
+create-backup-screen-3-subtitle = Trěbne za zaklučowanje wašich datow. Składujće je na městnje, na kotrež so dopominaće.
 fx-backup-opt-in-header = Městno dataje wubrać
 fx-backup-opt-in-filepath-label = Wubjerće městno, kotrež chceće do noweho grata přenošować, na přikład OneDrive.
 fx-backup-opt-in-create-password-label = Hesło zapodać
@@ -531,6 +532,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Zapołožki, historija, n
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Na wašim graće składowane
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Hesła a płaćenja njewobsahowane
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Dźiće k <a data-l10n-name="settings">nastajenjam</a>, zo byšće sensibelne daty zapřijał.
+fx-backup-confirmation-screen-item-subtext-1 = Waše zawěsćenje budźe za mało mjeńšin započinać a wuwjedźe so jónu wob dźeń. Móžeće procesej w <a data-l10n-name="settings">nastajenjach</a> slědować.
 fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } budźe waše zawěsćenje pytać, jeli dyrbiće znowa instalować.
 
 ## Restore from Backup Flow about:welcome screens
@@ -556,6 +558,7 @@ restored-from-backup-error-primary-button = Začinić
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Přiměrće swoje dožiwjenje { -brand-short-name }
+onboarding-personalization-subtitle = Wotmołwće na někotre prašenja a poručamy funkcije a rozšěrjenja, zo bychmy waše wužiće { -brand-short-name } polěpšili.
 onboarding-personalization-use-case-title = Za čo budźeće { -brand-short-name } wužiwać?
 onboarding-personalization-use-case-personal-option = Wosobinski
 onboarding-personalization-use-case-school-option = Šula
