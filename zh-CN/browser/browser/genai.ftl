@@ -163,14 +163,14 @@ genai-chatbot-contextual-title = 使用 AI 聊天机器人时，无需再切换�
 genai-chatbot-contextual-subtitle = 在 { -brand-short-name } 侧栏中添加 AI 聊天机器人，让聊天与浏览齐驱并进。
 genai-chatbot-contextual-button = 选择聊天机器人
 genai-chatbot-summarize-title = 新功能！一键生成页面摘要
-genai-chatbot-summarize-button = 总结页面
+genai-chatbot-summarize-button = 生成页面摘要
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-provider-subtitle = 右键点击侧栏中的 AI 聊天机器人，然后选择“总结页面”。
+genai-chatbot-summarize-sidebar-provider-subtitle = 右键点击侧栏中的 AI 聊天机器人，然后选择“生成页面摘要”。
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-generic-subtitle = 右键点击侧栏中的星芒按钮，然后选择“总结页面”。首次使用时，需要先选择 AI 聊天机器人。
+genai-chatbot-summarize-sidebar-generic-subtitle = 右键点击侧栏中的星芒按钮，然后选择“生成页面摘要”。首次使用时，需要先选择 AI 聊天机器人。
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
-genai-chatbot-summarize-footer-provider-subtitle = 在侧栏中打开 AI 聊天机器人，然后选择底部的“总结页面”。
-genai-chatbot-summarize-footer-generic-subtitle = 将 AI 聊天机器人添加到 { -brand-short-name } 侧栏，方便快速总结页面。
+genai-chatbot-summarize-footer-provider-subtitle = 在侧栏中打开 AI 聊天机器人，然后选择底部的“生成页面摘要”。
+genai-chatbot-summarize-footer-generic-subtitle = 将 AI 聊天机器人添加到 { -brand-short-name } 侧栏，方便快速生成页面摘要。
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

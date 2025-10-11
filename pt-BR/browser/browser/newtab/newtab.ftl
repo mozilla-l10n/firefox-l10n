@@ -433,6 +433,10 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -476,6 +480,10 @@ newtab-weather-menu-hide-weather = Ocultar tempo em nova aba
 newtab-weather-menu-learn-more = Saiba mais
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Dados sobre o tempo não estão disponíveis no momento.
+newtab-weather-opt-in-yes =
+    .label = Sim
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Cidade de Nova York
 
 ## Topic Labels
 
