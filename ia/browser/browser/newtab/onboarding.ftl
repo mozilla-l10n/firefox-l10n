@@ -523,6 +523,7 @@ fx-backup-confirmation-screen-close-button = Clauder
 
 fx-backup-confirmation-screen-all-data-item-text-1 = Tote le datos de navigation incluse
 fx-backup-confirmation-screen-all-data-item-text-2 = Salvate a tu apparato
+fx-backup-confirmation-screen-all-data-item-text-3 = Cryptate e protecte per contrasigno
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -542,3 +543,13 @@ restored-from-backup-success-no-checklist-primary-button = Continuar
 restored-from-backup-error-title = Hmm, il habeva un problema con tu file de salveguarda.
 restored-from-backup-error-subtitle = Si tu ha un altere file de salveguarda de { -brand-short-name }, tenta restaurar ab illo. <a data-l10n-name="restore-problems">Ancora ha tu problemas?</a>
 restored-from-backup-error-primary-button = Clauder
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = Personal
+onboarding-personalization-use-case-school-option = Schola
+onboarding-personalization-use-case-work-option = Labor
+onboarding-personalization-motivation-privacy-option = Confidentialitate e securitate
+onboarding-personalization-motivation-productivity-option = Productivitate
+onboarding-personalization-motivation-other-option = Altere

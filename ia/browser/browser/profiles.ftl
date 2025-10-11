@@ -261,6 +261,7 @@ custom-avatar-crop-area =
     .aria-label = Adjustar area de retalio
 custom-avatar-drag-handle =
     .aria-label = Redimensionar area de retalio
+profiles-appmenu-callout-tour-primary-button = Monstra me como
 barbell-avatar = Barra con pesos
 bike-avatar = Bicyclo
 
