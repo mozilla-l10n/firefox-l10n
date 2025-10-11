@@ -245,6 +245,7 @@ set-default-pdf-handler-primary = Sym zrozumił
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = Podpisajće na dypkowanej liniji – abo druhdźe!
 annotations-make-default-pdf-handler-title = { -brand-short-name } k swojemu standardnemu PDF-editorej činić?
+annotations-make-default-pdf-handler-subtitle = Maće přistup k našim nastrojam kóždy raz, hdyž PDF wočinjeće.
 annotations-make-default-pdf-primary-cta =
     .label = Jako standard wužiwać
 annotations-make-default-pdf-next =

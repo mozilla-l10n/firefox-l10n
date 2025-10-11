@@ -480,6 +480,9 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Aktualizujeće na Windows 11?
+    Dajće nam waše daty { -brand-product-name } zawěsćić.
 create-backup-screen-1-flair = Doporučeny
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Dalše informacije</a>
 create-backup-screen-1-sync-label = Z { -brand-product-name } synchronizować

@@ -530,6 +530,8 @@ fx-backup-confirmation-screen-all-data-item-text-3 = Cryptate e protecte per con
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Marcapaginas, chronologia, parametros, e altere datos includite
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Salvate a tu apparato
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Contrasignos e pagamentos non includite
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Va a <a data-l10n-name="settings">Parametros</a> pro includer datos sensibile.
+fx-backup-confirmation-screen-item-subtext-1 = Tu salveguarda comenciara in alcun minutas e sera exequite un vice pro die. Tu pote verificar le progresso in <a data-l10n-name="settings">Parametros</a>.
 fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } cercara tu salveguarda si tu debera reinstallar lo.
 
 ## Restore from Backup Flow about:welcome screens
@@ -554,9 +556,13 @@ restored-from-backup-error-primary-button = Clauder
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Personalisa tu experientia de { -brand-short-name }
+onboarding-personalization-subtitle = Responde a alcun questiones e nos recommendara functiones e extensiones pro meliorar tu uso de { -brand-short-name }.
+onboarding-personalization-use-case-title = Proque usara tu { -brand-short-name }?
 onboarding-personalization-use-case-personal-option = Personal
 onboarding-personalization-use-case-school-option = Schola
 onboarding-personalization-use-case-work-option = Labor
+onboarding-personalization-motivation-title = Que functiones de { -brand-short-name } es le plus importante pro te?
 onboarding-personalization-motivation-privacy-option = Confidentialitate e securitate
 onboarding-personalization-motivation-productivity-option = Productivitate
 onboarding-personalization-motivation-other-option = Altere
