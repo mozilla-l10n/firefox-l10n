@@ -234,6 +234,9 @@ set-default-pdf-handler-primary = Comprendite
 ## PDF Annotations strings
 
 annotations-make-default-pdf-handler-title = Facer de { -brand-short-name } tu editor PDF predefinite
+annotations-make-default-pdf-handler-subtitle = Tu habera accesso a nostre utensiles cata vice que tu aperi un file PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Render predefinite
 annotations-make-default-pdf-next =
     .label = Sequente
 

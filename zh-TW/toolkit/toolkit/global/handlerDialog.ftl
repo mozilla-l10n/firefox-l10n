@@ -20,6 +20,17 @@ permission-dialog-description-file-app = 要允許這個檔案使用 { $appName 
 permission-dialog-description-extension-app = 要允許擴充套件 { $extension } 使用 { $appName } 開啟 { $scheme } 鏈結嗎？
 permission-dialog-description-system-app = 要使用 { $appName } 開啟 { $scheme } 鏈結嗎？
 permission-dialog-description-system-noapp = 要開啟 { $scheme } 鏈結嗎？
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = 要允許這個網站開啟您的數位錢包嗎嗎？
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓 <strong>{ $host }</strong> 能夠透過 <strong>{ $appName }</strong> 獲得您的真實身分資料。只有在您信任此網站時才繼續。
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓此網站透過 <strong>{ $appName }</strong> 獲得您的真實身分資料。只有在您信任此網站時才繼續。
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓 <strong>{ $host }</strong> 能夠透過您的數位錢包獲得您的真實身分資料。只有在您信任此網站時才繼續。
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = 開啟 <strong>{ $scheme }</strong> 鏈結，將讓此網站透過您的數位錢包獲得您的真實身分資料。只有在您信任此網站時才繼續。
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

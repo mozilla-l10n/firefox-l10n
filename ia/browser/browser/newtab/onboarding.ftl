@@ -504,7 +504,14 @@ create-backup-screen-2-easy-list-2 = Non includer contrasignos e pagamentos
 create-backup-screen-2-easy-list-3 = Non cryptate
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Tote le datos
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Include contrasignos e pagamentos
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Cryptate con un contrasigno
 create-backup-screen-3-title = Crear un file contrasigno de reserva
+fx-backup-opt-in-header = Eliger position de file
+fx-backup-opt-in-create-password-label = Insere le contrasigno
+fx-backup-opt-in-confirm-btn-label = Continuar
 
 ## Restore from Backup Flow about:welcome screens
 

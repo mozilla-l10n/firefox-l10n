@@ -262,6 +262,8 @@ custom-avatar-crop-area =
 custom-avatar-drag-handle =
     .aria-label = 調整裁切大小
 profiles-appmenu-callout-tour-title = 您可以使用新設定檔了
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = 您可以點擊 ☰ 選單當中的設定檔名稱來建立另一組設定檔、編輯現有的設定檔，或在不同數位身分之間切換。
 profiles-appmenu-callout-tour-primary-button = 告訴我如何作
 barbell-avatar = 槓鈴
 bike-avatar = 單車
