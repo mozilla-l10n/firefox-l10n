@@ -20,6 +20,8 @@ permission-dialog-description-file-app = Permitter que iste file aperi le ligami
 permission-dialog-description-extension-app = Permitter que le extension { $extension } aperi le ligamine { $scheme } con { $appName }?
 permission-dialog-description-system-app = Aperir le ligamine { $scheme } con { $appName }?
 permission-dialog-description-system-noapp = Aperir le ligamine { $scheme }?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Aperir un ligamine <strong>{ $scheme }</strong> permitte <strong>{ $host }</strong> de peter tu real identitate con <strong>{ $appName }</strong>. Solo continua si tu te fide de iste sito.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

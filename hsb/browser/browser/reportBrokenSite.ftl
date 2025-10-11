@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Wulki dźak, zo { -brand-product-name } pomhaće, zo budźe web bóle wotewrjeny, přistupny a lěpši.
 report-broken-site-panel-invalid-url-label = Prošu zapodajće płaćiwy URL
 report-broken-site-panel-missing-reason-label = Prošu wubjerće přičinu
+report-broken-site-panel-blocked-trackers-label =
+    .label = URL pósłać, kotrež su so přez přesćěhowanski škit zablokowali
+report-broken-site-panel-blocked-trackers-description = Polěpšeny přesćěhowanski škit móže přesćěhowaki a skripty blokować, zo bychu někotre websydła korektnje fungowali.

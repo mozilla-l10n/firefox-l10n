@@ -512,6 +512,7 @@ create-backup-screen-2-all-list-3 = Cryptate con un contrasigno
 create-backup-screen-3-title = Crear un file contrasigno de reserva
 create-backup-screen-3-subtitle = Immagazina lo in un posto que tu memorara.
 fx-backup-opt-in-header = Eliger position de file
+fx-backup-opt-in-filepath-label = Elige un posto que tu projecta transferer a un nove apparato, como OneDrive.
 fx-backup-opt-in-create-password-label = Insere le contrasigno
 fx-backup-opt-in-confirm-btn-label = Continuar
 fx-backup-opt-in-cancel-btn-label = Retro
@@ -526,6 +527,10 @@ fx-backup-confirmation-screen-close-button = Clauder
 fx-backup-confirmation-screen-all-data-item-text-1 = Tote le datos de navigation incluse
 fx-backup-confirmation-screen-all-data-item-text-2 = Salvate a tu apparato
 fx-backup-confirmation-screen-all-data-item-text-3 = Cryptate e protecte per contrasigno
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Marcapaginas, chronologia, parametros, e altere datos includite
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Salvate a tu apparato
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Contrasignos e pagamentos non includite
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } cercara tu salveguarda si tu debera reinstallar lo.
 
 ## Restore from Backup Flow about:welcome screens
 

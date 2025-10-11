@@ -180,3 +180,10 @@ about-glean-disable-new-features-button = Nowe funkcije znjemóžnić
 about-glean-about-data-explanation =
     Zo byšće lisćinu zhromadźenych datow přepytał, skonsultujće
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Zatwarjene pingi
+about-glean-ping-list-optgroup-custom =
+    .label = Swójske pingi

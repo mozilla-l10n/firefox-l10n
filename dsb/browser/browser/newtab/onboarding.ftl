@@ -547,7 +547,7 @@ restored-from-backup-error-primary-button = Zacyniś
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Pśiměŕśo swójo dožywjenje { -brand-short-name }
-onboarding-personalization-use-case-title = Za co { -brand-short-name } wužywaśo?
+onboarding-personalization-use-case-title = Za co buźośo { -brand-short-name } wužywaś?
 onboarding-personalization-use-case-personal-option = Wósobinski
 onboarding-personalization-use-case-school-option = Šula
 onboarding-personalization-use-case-work-option = Słužbny

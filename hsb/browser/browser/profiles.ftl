@@ -261,6 +261,8 @@ custom-avatar-crop-area =
     .aria-label = Přitřihanski wobłuk přiměrić
 custom-avatar-drag-handle =
     .aria-label = Wulkosć přitřihanskeho wobłuka změnić
+profiles-appmenu-callout-tour-title = Waš nowy profil je hotowy
+profiles-appmenu-callout-tour-primary-button = Pokazajće mi kak
 barbell-avatar = Hantla
 bike-avatar = Koleso
 

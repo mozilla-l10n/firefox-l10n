@@ -287,9 +287,17 @@ tab-group-editor-color-selector2-red = Čerwjeny
 tab-group-description = { $tabGroupName } – skupina rajtarkow
 tab-group-label-tooltip-collapsed = { $tabGroupName } – schowany
 tab-group-label-tooltip-expanded = { $tabGroupName } – pokazany
+tab-group-preview-name =
+    .aria-label = Rajtarki w schowanej skupinje
 tab-context-unnamed-group =
     .label = Skupina bjez mjena
 tab-group-name-default = Skupina bjez mjena
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Lisćina rajtarkow je wočinjena
+tab-group-preview-closed-description = Lisćina rajtarkow je začinjena
 
 ##
 
