@@ -512,6 +512,17 @@ create-backup-screen-3-title = Crear un file contrasigno de reserva
 fx-backup-opt-in-header = Eliger position de file
 fx-backup-opt-in-create-password-label = Insere le contrasigno
 fx-backup-opt-in-confirm-btn-label = Continuar
+fx-backup-opt-in-cancel-btn-label = Retro
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Tu salveguarda es programmate
+fx-backup-confirmation-screen-close-button = Clauder
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Tote le datos de navigation incluse
+fx-backup-confirmation-screen-all-data-item-text-2 = Salvate a tu apparato
 
 ## Restore from Backup Flow about:welcome screens
 
