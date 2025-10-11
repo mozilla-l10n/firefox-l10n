@@ -488,6 +488,42 @@ create-backup-screen-1-backup-label = Na PC zawěsćić
 create-backup-screen-1-backup-body = Składuje na wašim graće abo OneDrive
 create-backup-select-tile-button-label = Wubrać
 create-backup-back-button-label = Wróćo
+create-backup-show-fewer =
+    .label = Mjenje wot nich pokazać
+create-backup-screen-2-title = Wubjerće daty { -brand-product-name }, kotrež so maja zawěsćić
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Lochka konfiguracija
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Zapołožki, historija, nastajenja a wjace
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Njewobsahuje hesła a płaćenja
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Njezaklučowany
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Wšě daty
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Wobsahuje hesła a płaćenja
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Z hesłom zaklučowany
+create-backup-screen-3-title = Hesło za zawěsćensku dataju wutworić
+fx-backup-opt-in-header = Městno dataje wubrać
+fx-backup-opt-in-create-password-label = Hesło zapodać
+fx-backup-opt-in-confirm-btn-label = Dale
+fx-backup-opt-in-cancel-btn-label = Wróćo
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Waše zawěsćenje je planowane
+fx-backup-confirmation-screen-close-button = Začinić
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Wšě přehladowanske daty wobsahowane
+fx-backup-confirmation-screen-all-data-item-text-2 = Na wašim graće składowane
+fx-backup-confirmation-screen-all-data-item-text-3 = Zaklučowane a přez hesło škitane
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Zapołožki, historija, nastajenja a druhe daty wobsahowane
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Na wašim graće składowane
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Hesła a płaćenja njewobsahowane
 
 ## Restore from Backup Flow about:welcome screens
 

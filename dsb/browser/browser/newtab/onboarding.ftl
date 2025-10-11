@@ -488,8 +488,8 @@ create-backup-screen-1-backup-body = Składujo na wašom rěźe abo OneDrive
 create-backup-select-tile-button-label = Wubraś
 create-backup-back-button-label = Slědk
 create-backup-show-fewer =
-    .label = Mjenjej ako to pokazaś
-create-backup-screen-2-title = Wubjeŕśo daty { -brand-product-name }, aby zawěsćił
+    .label = Mjenjej wót nich pokazaś
+create-backup-screen-2-title = Wubjeŕśo daty { -brand-product-name }, kótarež se maju zawěsćiś
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Lažka konfiguracija
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup

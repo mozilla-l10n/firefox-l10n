@@ -488,6 +488,7 @@ create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Pro saper p
 create-backup-screen-1-sync-label = Synchronisar con { -brand-product-name }
 create-backup-screen-1-sync-body = Salveguardar tote le apparatos connexe
 create-backup-screen-1-backup-label = Salveguardar sur le computator
+create-backup-screen-1-backup-body = Salva a tu apparato o a OneDrive
 create-backup-select-tile-button-label = Seliger
 create-backup-back-button-label = Retro
 create-backup-show-fewer =
@@ -509,6 +510,7 @@ create-backup-screen-2-all-list-2 = Include contrasignos e pagamentos
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Cryptate con un contrasigno
 create-backup-screen-3-title = Crear un file contrasigno de reserva
+create-backup-screen-3-subtitle = Immagazina lo in un posto que tu memorara.
 fx-backup-opt-in-header = Eliger position de file
 fx-backup-opt-in-create-password-label = Insere le contrasigno
 fx-backup-opt-in-confirm-btn-label = Continuar
