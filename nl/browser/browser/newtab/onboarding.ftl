@@ -480,23 +480,54 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Upgraden naar Windows 11?
+    Laten we een reservekopie van uw { -brand-product-name }-gegevens maken
+create-backup-screen-1-subtitle = Bescherm automatisch uw wachtwoorden, bladwijzers en meer in 1–2 minuten.
 create-backup-screen-1-flair = Aanbevolen
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Meer info</a>
+create-backup-screen-1-sync-label = Synchroniseren met { -brand-product-name }
+create-backup-screen-1-sync-body = Maakt een reservekopie van alle aangemelde apparaten
+create-backup-screen-1-backup-label = Reservekopie maken op pc
+create-backup-screen-1-backup-body = Slaat naar uw apparaat of OneDrive op
 create-backup-select-tile-button-label = Selecteren
 create-backup-back-button-label = Terug
+create-backup-show-fewer =
+    .label = Minder zoals dit tonen
+create-backup-screen-2-title = Kies { -brand-product-name }-gegevens om een reservekopie van te maken
+create-backup-screen-2-subtitle = Duurt maar een minuutje. Er wordt eenmaal per dag een reservekopie van uw gegevens gemaakt.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Eenvoudige instellingen
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
 create-backup-screen-2-easy-list-1 = Bladwijzers, geschiedenis, instellingen en meer
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Bevat geen wachtwoorden en betaalmethoden
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Niet versleuteld
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Alle gegevens
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Bevat wachtwoorden en betaalmethoden
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Versleuteld met een wachtwoord
+create-backup-screen-3-title = Wachtwoord voor een reservekopiebestand aanmaken
+create-backup-screen-3-subtitle = Vereist om uw gegevens te versleutelen. Bewaar het op een plek die u kunt onthouden.
+fx-backup-opt-in-header = Bestandslocatie kiezen
+fx-backup-opt-in-filepath-label = Kies een locatie die u naar een nieuw apparaat wilt overzetten, zoals OneDrive.
 fx-backup-opt-in-create-password-label = Voer wachtwoord in
 fx-backup-opt-in-confirm-btn-label = Doorgaan
 fx-backup-opt-in-cancel-btn-label = Terug
 
 ## Fx Backup confirmation screen strings
 
+fx-backup-confirmation-screen-title = Uw reservekopie is ingepland
 fx-backup-confirmation-screen-close-button = Sluiten
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Alle navigatiegegevens inbegrepen
+fx-backup-confirmation-screen-all-data-item-text-2 = Opgeslagen op uw apparaat
+fx-backup-confirmation-screen-all-data-item-text-3 = Versleuteld en beveiligd met een wachtwoord
 
 ## Restore from Backup Flow about:welcome screens
 

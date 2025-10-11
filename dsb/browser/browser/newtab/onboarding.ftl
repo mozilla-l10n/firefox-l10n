@@ -495,6 +495,7 @@ create-backup-back-button-label = Slědk
 create-backup-show-fewer =
     .label = Mjenjej wót nich pokazaś
 create-backup-screen-2-title = Wubjeŕśo daty { -brand-product-name }, kótarež se maju zawěsćiś
+create-backup-screen-2-subtitle = Trajo jano minutu. Waše daty se jaden raz na źeń zawěsćuju.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Lažka konfiguracija
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
@@ -511,6 +512,7 @@ create-backup-screen-2-all-list-2 = Wopśimujo gronidła a płaśenja
 create-backup-screen-2-all-list-3 = Z gronidłom skoděrowany
 create-backup-screen-3-title = Gronidło za zawěsćeńsku dataju napóraś
 fx-backup-opt-in-header = Městno dataje wubraś
+fx-backup-opt-in-filepath-label = Wubjeŕśo městno, kótarež cośo do nowego rěda pśenosowaś, na pśikład OneDrive.
 fx-backup-opt-in-create-password-label = Gronidło zapódaś
 fx-backup-opt-in-confirm-btn-label = Dalej
 fx-backup-opt-in-cancel-btn-label = Slědk
@@ -525,9 +527,11 @@ fx-backup-confirmation-screen-close-button = Zacyniś
 fx-backup-confirmation-screen-all-data-item-text-1 = Wšykne pśeglědowańske daty wopśimjone
 fx-backup-confirmation-screen-all-data-item-text-2 = Na wašom rěźe skłaźone
 fx-backup-confirmation-screen-all-data-item-text-3 = Skoděrowane a pśez gronidło šćitane
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Cytańske znamjenja, historija, nastajenja a druge daty wopśimjone
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Na wašom rěźe skłaźone
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Gronidła a płaśenja njewopśimjone
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Źiśo k <a data-l10n-name="settings">nastajenjam</a>, aby sensibelne daty zapśimjeł.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } buźo wašo zawěsćenje pytaś, jolic musyśo znowego instalěrowaś.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -556,6 +560,7 @@ onboarding-personalization-use-case-title = Za co buźośo { -brand-short-name }
 onboarding-personalization-use-case-personal-option = Wósobinski
 onboarding-personalization-use-case-school-option = Šula
 onboarding-personalization-use-case-work-option = Słužbny
+onboarding-personalization-motivation-title = Kótare funkcije { -brand-short-name } su nejwažnjejše za was?
 onboarding-personalization-motivation-privacy-option = Priwatnosć a wěstota
 onboarding-personalization-motivation-productivity-option = Produktiwita
 onboarding-personalization-motivation-other-option = Druge
