@@ -512,6 +512,7 @@ create-backup-screen-2-all-list-3 = Cifrado con contraseña
 create-backup-screen-3-title = Crear una contraseña para el archivo de respaldo
 create-backup-screen-3-subtitle = Necesaria para cifrar los datos. Guárdela en un lugar que pueda recordar.
 fx-backup-opt-in-header = Elegir ubicación del archivo
+fx-backup-opt-in-filepath-label = Escoja un lugar que planee transferir a un nuevo dispositivo, como OneDrive.
 fx-backup-opt-in-create-password-label = Introducir contraseña
 fx-backup-opt-in-confirm-btn-label = Continuar
 fx-backup-opt-in-cancel-btn-label = Atrás
@@ -555,6 +556,9 @@ restored-from-backup-error-primary-button = Cerrar
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Personalice su experiencia de { -brand-short-name }
+onboarding-personalization-subtitle = Responda algunas preguntas y le recomendaremos funciones y extensiones para mejorar su experiencia con { -brand-short-name }.
+onboarding-personalization-use-case-title = ¿Para qué usará { -brand-short-name }?
 onboarding-personalization-use-case-personal-option = Personal
 onboarding-personalization-use-case-school-option = Escuela
 onboarding-personalization-use-case-work-option = Trabajo

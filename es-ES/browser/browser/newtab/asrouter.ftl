@@ -232,6 +232,13 @@ set-default-pdf-handler-primary = Entendido
 
 ## PDF Annotations strings
 
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = ¡Firme en la línea de puntos o en cualquier lugar!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Dibuje, escriba o suba su firma, luego colóquela exactamente donde quiera. Guarde sus firmas favoritas para la próxima vez.
 annotations-make-default-pdf-handler-title = Hacer que{ -brand-short-name } sea su editor de PDF predeterminado
 annotations-make-default-pdf-handler-subtitle = Tendrá acceso a nuestras herramientas cada vez que abra un PDF.
 annotations-make-default-pdf-primary-cta =
