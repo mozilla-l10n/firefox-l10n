@@ -259,6 +259,7 @@ custom-avatar-crop-area =
     .aria-label = Juster skjer til-området
 custom-avatar-drag-handle =
     .aria-label = Endre storleiken på skjer til-området
+profiles-appmenu-callout-tour-primary-button = Vis meg korleis
 barbell-avatar = Vektstong
 bike-avatar = Sykkel
 

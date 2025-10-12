@@ -477,6 +477,24 @@ sync-to-mobile-button-label = Synkronisder til mobil
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kode for å laste ned { -brand-product-name } for mobil
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = Tilrådd
+create-backup-screen-1-sync-label = Synkroniser med { -brand-product-name }
+create-backup-select-tile-button-label = Vel
+create-backup-back-button-label = Tilbake
+fx-backup-opt-in-create-password-label = Skriv inn passord
+fx-backup-opt-in-confirm-btn-label = Hald fram
+fx-backup-opt-in-cancel-btn-label = Tilbake
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-close-button = Lat att
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-2 = Lagra til eininga di
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Gjenopprett frå sikkerheitskopi
@@ -489,3 +507,12 @@ restored-from-backup-success-with-checklist-primary-button = Lagre og hald fram
 restored-from-backup-success-with-checklist-secondary-button = Hopp over dette steget
 restored-from-backup-success-no-checklist-primary-button = Hald fram
 restored-from-backup-error-primary-button = Lat att
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = Personleg
+onboarding-personalization-use-case-school-option = Skule
+onboarding-personalization-use-case-work-option = Arbeid
+onboarding-personalization-motivation-productivity-option = Produktivitet
+onboarding-personalization-motivation-other-option = Anna
