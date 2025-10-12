@@ -486,6 +486,13 @@ create-backup-screen-1-flair = Anbefalt
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Les mer</a>
 create-backup-screen-1-sync-label = Synkroniser med { -brand-product-name }
 create-backup-screen-1-sync-body = Sikkerhetskopierer alle påloggede enheter
+create-backup-screen-1-backup-label = Sikkerhetskopier til PC
+create-backup-screen-1-backup-body = Lagrer på enheten din eller OneDrive
+create-backup-select-tile-button-label = Velg
+create-backup-back-button-label = Tilbake
+create-backup-show-fewer =
+    .label = Vis færre som dette
+create-backup-screen-2-title = Velg { -brand-product-name }-data som skal sikkerhetskopieres
 
 ## Restore from Backup Flow about:welcome screens
 
