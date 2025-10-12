@@ -477,6 +477,15 @@ sync-to-mobile-button-label = Sincronización con el móvil
 desktop-to-mobile-qr-code-alt =
     .aria-label = Código QR para descargar { -brand-product-name } para móviles
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    ¿Actualizando a Windows 11?
+    Hagamos una copia de seguridad de los datos de { -brand-product-name }.
+create-backup-screen-1-subtitle = Proteja automáticamente sus contraseñas, marcadores y más en 1 o 2 minutos.
+create-backup-screen-1-flair = Recomendado
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Saber más</a>
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Restaurar desde una copia de seguridad
