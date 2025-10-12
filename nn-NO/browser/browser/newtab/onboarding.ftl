@@ -481,6 +481,7 @@ desktop-to-mobile-qr-code-alt =
 
 create-backup-screen-1-flair = Tilrådd
 create-backup-screen-1-sync-label = Synkroniser med { -brand-product-name }
+create-backup-screen-1-backup-label = Sikkerheitskopier til PC
 create-backup-select-tile-button-label = Vel
 create-backup-back-button-label = Tilbake
 fx-backup-opt-in-create-password-label = Skriv inn passord
