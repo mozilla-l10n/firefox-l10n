@@ -253,9 +253,17 @@ tab-group-editor-color-selector2-red = Rojo
 tab-group-description = { $tabGroupName } — Grupo de pestañas
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Contraído
 tab-group-label-tooltip-expanded = { $tabGroupName } — Expandido
+tab-group-preview-name =
+    .aria-label = Pestañas en un grupo contraído
 tab-context-unnamed-group =
     .label = Grupo sin nombre
 tab-group-name-default = Grupo sin nombre
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Lista de pestañas abierta
+tab-group-preview-closed-description = Lista de pestañas cerrada
 
 ##
 
@@ -337,3 +345,9 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Abrir grupo en una nueva ventana
+
+## Split View
+
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on tabs inside of a tab split view
+tabbrowser-tab-label-tab-split-view = Vista dividida

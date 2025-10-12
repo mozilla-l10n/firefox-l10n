@@ -1152,6 +1152,10 @@ sitedata-total-size-calculating = Calculando el tamaño de los datos del sitio y
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Sus cookies almacenadas, el historial, los datos del sitio y caché están usando <strong>{ $value } { $unit }</strong> de espacio en disco en este momento.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Sus cookies, datos del sitio y caché almacenados ocupan actualmente un { $value } { $unit } del espacio en disco.
 sitedata-learn-more = Saber más
 sitedata-delete-on-close =
@@ -1185,6 +1189,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Todas las cookies entre sitios (puede causar errores en los sitios web)
 sitedata-option-block-all =
     .label = Todas las cookies (causará errores en sitios web)
+sitedata-clear2 =
+    .label = Eliminar datos de navegación
+    .accesskey = l
+sitedata-settings2 =
+    .label = Administrar datos de navegación
+    .accesskey = m
 sitedata-clear =
     .label = Limpiar datos…
     .accesskey = L
@@ -1194,6 +1204,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gestionar excepciones…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Administrar excepciones
+    .accesskey = x
+    .description = Puede especificar que sitios web tienen siempre permitido o prohibido usar cookies y datos de sitio.
 
 ## Privacy Section - Cookie Banner Handling
 
