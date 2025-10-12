@@ -485,6 +485,53 @@ create-backup-screen-1-title =
 create-backup-screen-1-subtitle = Proteja automáticamente sus contraseñas, marcadores y más en 1 o 2 minutos.
 create-backup-screen-1-flair = Recomendado
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Saber más</a>
+create-backup-screen-1-sync-label = Sincronizar con { -brand-product-name }
+create-backup-screen-1-sync-body = Hace una copia de seguridad de todos los dispositivos en los que se inició sesión
+create-backup-screen-1-backup-label = Hacer copia de seguridad en el PC
+create-backup-screen-1-backup-body = Guarda en el dispositivo o OneDrive
+create-backup-select-tile-button-label = Seleccionar
+create-backup-back-button-label = Atrás
+create-backup-show-fewer =
+    .label = Mostrar menos como éste
+create-backup-screen-2-title = Seleccionar los datos de { -brand-product-name } para hacer una copia de seguridad
+create-backup-screen-2-subtitle = Solo le llevará un minuto. Sus datos se respaldan una vez al día.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configuración fácil
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Marcadores, historial, ajustes y más
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = No incluye contraseñas ni métodos de pago
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = No cifrado
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Todos los datos
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Incluye contraseñas y métodos de pago
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Cifrado con contraseña
+create-backup-screen-3-title = Crear una contraseña para el archivo de respaldo
+create-backup-screen-3-subtitle = Necesaria para cifrar los datos. Guárdela en un lugar que pueda recordar.
+fx-backup-opt-in-header = Elegir ubicación del archivo
+fx-backup-opt-in-create-password-label = Introducir contraseña
+fx-backup-opt-in-confirm-btn-label = Continuar
+fx-backup-opt-in-cancel-btn-label = Atrás
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = La copia de seguridad está programada
+fx-backup-confirmation-screen-close-button = Cerrar
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Todos los datos de navegación incluidos
+fx-backup-confirmation-screen-all-data-item-text-2 = Guardado en su dispositivo
+fx-backup-confirmation-screen-all-data-item-text-3 = Cifrado y protegido con contraseña
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Marcadores, historial, ajustes y otros datos incluidos
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Guardado en su dispositivo
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Contraseñas y métodos de pago no incluidos
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Ir a <a data-l10n-name="settings">Configuración</a> para incluir datos confidenciales.
+fx-backup-confirmation-screen-item-subtext-1 = La copia de seguridad comenzará en unos minutos y se ejecutará una vez al día. Puede verificar el progreso en <a data-l10n-name="settings">Ajustes</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } buscará la copia de seguridad si necesita reinstalar.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -504,3 +551,14 @@ restored-from-backup-success-no-checklist-primary-button = Continuar
 restored-from-backup-error-title = Hmm, hubo un problema con su archivo de respaldo.
 restored-from-backup-error-subtitle = Si tiene otro archivo de respaldo de { -brand-short-name }, intente restaurar desde ése. <a data-l10n-name="restore-problems">¿Sigue teniendo problemas?</a>
 restored-from-backup-error-primary-button = Cerrar
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = Personal
+onboarding-personalization-use-case-school-option = Escuela
+onboarding-personalization-use-case-work-option = Trabajo
+onboarding-personalization-motivation-title = ¿Qué características de { -brand-short-name } son las más importantes para usted?
+onboarding-personalization-motivation-privacy-option = Privacidad y seguridad
+onboarding-personalization-motivation-productivity-option = Productividad
+onboarding-personalization-motivation-other-option = Otras

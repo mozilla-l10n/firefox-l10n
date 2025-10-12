@@ -1146,6 +1146,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies y datos del sitio
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Calculando el tamaño de los datos del sitio y del caché…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
