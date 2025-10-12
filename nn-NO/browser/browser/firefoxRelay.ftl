@@ -25,16 +25,16 @@ firefox-relay-opt-in-title-2 = Få eit gratis e-postalias
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Bruk { -relay-brand-name } e-postalias
 firefox-relay-use-mask-title-1 = Masker e-postadressa di
-firefox-relay-opt-in-subtitle-2 = Vern innboksen din mot spam
+firefox-relay-opt-in-subtitle-2 = Vern innboksen din mot søppelpost
 firefox-relay-use-mask-title = Bruk { -relay-brand-name } e-postalias
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
-firefox-relay-opt-in-title-a = Hindre spam med eit gratis e-postalias
+firefox-relay-opt-in-title-a = Hindre søppelpostmed eit gratis e-postalias
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Skjul den verkelege e-postadressa di.
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = Få eit gratis e-postalias
 # This is preceded by firefox-relay-opt-in-title-b (on a different line)
-firefox-relay-opt-in-subtitle-b = Vern innboksen din mot spam
+firefox-relay-opt-in-subtitle-b = Vern innboksen din mot søppelpost
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Bruk e-postalias
     .accesskey = B
@@ -64,8 +64,8 @@ firefox-relay-offer-legal-notice-control = Ved å registrere deg og opprette eit
 
 ## The "basic-info" variation of the Relay offer popup
 
-firefox-relay-and-fxa-popup-notification-header-basic-info = Hindre spam med eit gratis e-postalias
-firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Hindre spam ved å skjule den verkelege e-postadressa di med eit gratis <label data-l10n-name="firefox-relay-learn-more-url">e-postalias</label>. E-postar frå <label data-l10n-name="firefox-fxa-and-relay-offer-domain">denne nettstaden</label> vil framleis kome til innboksen din, men med e-posten din skjult.
+firefox-relay-and-fxa-popup-notification-header-basic-info = Hindre søppelpost med eit gratis e-postalias
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Hindre søppelpost ved å skjule den verkelege e-postadressa di med eit gratis <label data-l10n-name="firefox-relay-learn-more-url">e-postalias</label>. E-postar frå <label data-l10n-name="firefox-fxa-and-relay-offer-domain">denne nettstaden</label> vil framleis kome til innboksen din, men med e-postadressa di skjult.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Først må du registrere deg, eller logge på kontoen din, for å bruke eit e-post alias
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registrer deg
@@ -74,7 +74,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Få eit gratis e-postalias
-firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Vern innboksen din mot spam ved å bruke eit gratis <label data-l10n-name="firefox-relay-learn-more-url">e-postalias</label> for å skjule den verkelege adressa din. E-postar frå <label data-l10n-name="firefox-fxa-and-relay-offer-domain">denne nettstaden</label> vil framleis kome til innboksen din, men med e-posten din skjult.
 firefox-relay-and-fxa-popup-notification-first-sentence = Vern innboksen din mot spam ved å bruke eit gratis <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } e-postalias</label> for å skjule den verkelege adressa di. E-postar frå <label data-l10n-name="firefox-fxa-and-relay-offer-domain">denne nettstaden</label> vil framleis kome til innboksen din, men med e-postadressa di skjult.
 firefox-relay-offer-why-to-use-relay-1 = Vern innboksen din mot spam ved å bruke eit gratis <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } e-postalias</label> for å skjule den verkelege adressa di. E-postar frå <label data-l10n-name="firefox-fxa-and-relay-offer-domain">denne nettstaden</label> vil framleis kome til innboksen din, men med e-postadressa di skjult.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Først må du registrere deg, eller logge på kontoen din, for å bruke eit e-post alias

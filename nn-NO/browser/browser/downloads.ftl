@@ -206,7 +206,7 @@ downloads-files-not-downloaded =
        *[other] { $num } filer ble ikke lastet ned.
     }
 downloads-blocked-from-url = Nedlastingar frå { $url } blokkerte.
-downloads-blocked-download-detailed-info = { $url } forsøkte å laste ned flere filer automatisk. Nettstaden kan væere øydelagd eller prøver å lagre spam-filer på eininga di.
+downloads-blocked-download-detailed-info = { $url } forsøkte å laste ned flere filer automatisk. Nettstaden kan væere øydelagd eller prøver å lagre søppelpost-filer på eininga di.
 
 ##
 
