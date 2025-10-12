@@ -473,6 +473,8 @@ create-backup-back-button-label = 返回
 create-backup-show-fewer =
     .label = 减少显示此类内容
 create-backup-screen-2-title = 选择要备份的 { -brand-product-name } 数据
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = 简易设置
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
 create-backup-screen-2-easy-list-1 = 书签、历史记录、设置等
 # Preceded by a red X indicating that these are not included in the "Easy setup" backup
@@ -498,6 +500,8 @@ fx-backup-confirmation-screen-close-button = 关闭
 
 fx-backup-confirmation-screen-all-data-item-text-1 = 包含所有浏览数据
 fx-backup-confirmation-screen-all-data-item-text-2 = 已保存到您的设备
+fx-backup-confirmation-screen-all-data-item-text-3 = 已加密并受密码保护
+fx-backup-confirmation-screen-easy-setup-item-text-1 = 包含书签、历史记录、设置等数据
 fx-backup-confirmation-screen-easy-setup-item-text-2 = 已保存到您的设备
 fx-backup-confirmation-screen-easy-setup-item-text-3 = 不包含密码和付款信息
 
@@ -525,4 +529,5 @@ restored-from-backup-error-primary-button = 关闭
 
 onboarding-personalization-title = 定制您的 { -brand-short-name } 使用体验
 onboarding-personalization-subtitle = 回答几个问题，我们将为您推荐能优化 { -brand-short-name } 使用体验的功能和扩展。
+onboarding-personalization-use-case-school-option = 学习
 onboarding-personalization-motivation-privacy-option = 隐私和安全
