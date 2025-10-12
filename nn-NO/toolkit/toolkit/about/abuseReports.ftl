@@ -62,7 +62,7 @@ abuse-report-messagebar-action-cancel = Avbryt
 
 abuse-report-damage-reason-v2 = Det skada datamaskina mi eller kompromitterte dattaa mine.
 abuse-report-damage-example = Døme: Injiserte skadeleg kode eller stal data
-abuse-report-spam-reason-v2 = Den inneheld spam eller legg inn uønskt annonsering
+abuse-report-spam-reason-v2 = Den inneheld søppelpost eller legg inn uønskt annonsering
 abuse-report-spam-example = Døme: Set inn reklame på nettsider
 abuse-report-settings-reason-v2 = Den endra søkjemotoren min, startside eller ny fane utan å informere eller spørje meg
 abuse-report-settings-suggestions = Før du rapporterer utvidinga, kan du prøve å endre innstillingane dine:
