@@ -21,6 +21,18 @@ experimental-features-group-customize-browsing =
     .label = Sagen tunigin-ik
 experimental-features-group-productivity =
     .label = Tiffurest
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Awal n uɛeddi deg ufeggag adisan
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Tiskanin n useɣwen
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Rnu ismal ɣer ufeggag-ik⋅im n temsekriyin
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Tibdarin deg { -firefox-home-brand-name }

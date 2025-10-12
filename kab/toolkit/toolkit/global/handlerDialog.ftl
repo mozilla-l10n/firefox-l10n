@@ -20,6 +20,9 @@ permission-dialog-description-file-app = Mudd tasiregt i ufaylu-a ad yeldi aseɣ
 permission-dialog-description-extension-app = Sireg asiɣzef { $extension } ad yeldi aseɣwen { $scheme } s { $appName }?
 permission-dialog-description-system-app = Ldi aseɣwen { $scheme } s { $appName }?
 permission-dialog-description-system-noapp = Ldi aseɣwen { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Sireg asmel-a ad yeldi aqrab-ik⋅im umḍin?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
