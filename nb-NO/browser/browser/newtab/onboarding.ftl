@@ -493,8 +493,16 @@ create-backup-back-button-label = Tilbake
 create-backup-show-fewer =
     .label = Vis færre som dette
 create-backup-screen-2-title = Velg { -brand-product-name }-data som skal sikkerhetskopieres
+create-backup-screen-2-subtitle = Det tar bare ett minutt. Dataene dine sikkerhetskopieres én gang per dag.
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Bokmerker, historikk, innstillinger og mer
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Ikke kryptert
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Alle data
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Kryptert med et passord
+fx-backup-opt-in-header = Velg filplassering
 
 ## Restore from Backup Flow about:welcome screens
 
