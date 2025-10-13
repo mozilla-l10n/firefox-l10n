@@ -486,7 +486,7 @@ create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Läs mer</a
 create-backup-screen-1-sync-label = Synka med { -brand-product-name }
 create-backup-screen-1-sync-body = Säkerhetskopierar alla inloggade enheter
 create-backup-screen-1-backup-label = Säkerhetskopiera till PC
-create-backup-screen-1-backup-body = Sparar till din enhet eller Onedrive
+create-backup-screen-1-backup-body = Sparar till din enhet eller OneDrive
 create-backup-select-tile-button-label = Välj
 create-backup-back-button-label = Tillbaka
 create-backup-show-fewer =
