@@ -483,7 +483,7 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-title =
     Uwchraddio i Windows 11?
     Gadewch i ni wneud copi wrth gefn o'ch data { -brand-product-name }.
-create-backup-screen-1-subtitle = Diogelwch yn awtomatig eich cyfrineiriau, nodau tudalen, a mwy mewn munud neu ddau.
+create-backup-screen-1-subtitle = Diogelwch eich cyfrineiriau, nodau tudalen, a mwy yn awtomatig mewn munud neu ddau.
 create-backup-screen-1-flair = Cymeradwy
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Dysgu rhagor</a>
 create-backup-screen-1-sync-label = Cydweddu gyda { -brand-product-name }
@@ -511,7 +511,7 @@ create-backup-screen-2-all-list-2 = Yn cynnwys cyfrineiriau a thaliadau
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Wedi'i amgryptio gyda chyfrinair
 create-backup-screen-3-title = Creu cyfrinair ffeil wrth gefn
-create-backup-screen-3-subtitle = Yn rheidrwydd ar gyfer amgryptio eich data. Cadw'ch ef mewn man y byddwch yn ei gofio.
+create-backup-screen-3-subtitle = Mae ei angen ar gyfer amgryptio eich data. Cadw'ch ef mewn man y byddwch yn ei gofio.
 fx-backup-opt-in-header = Dewiswch leoliad i'r ffeil
 fx-backup-opt-in-filepath-label = Dewiswch le rydych chi'n bwriadu ei drosglwyddo i ddyfais newydd, fel OneDrive.
 fx-backup-opt-in-create-password-label = Rhowch gyfrinair
@@ -526,6 +526,14 @@ fx-backup-confirmation-screen-close-button = Cau
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
 fx-backup-confirmation-screen-all-data-item-text-1 = Yn cynnwys yr holl ddata pori
+fx-backup-confirmation-screen-all-data-item-text-2 = Wedi'i gadw i'ch dyfais
+fx-backup-confirmation-screen-all-data-item-text-3 = Wedi'i amgryptio a'i ddiogelu gan gyfrinair
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Yn cynnwys nodau tudalen, hanes, gosodiadau, a data arall
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Wedi'i gadw i'ch dyfais
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Heb gynnwys cyfrineiriau a thaliadau
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Ewch i'r <a data-l10n-name="settings">Gosodiadau</a> i gynnwys data sensitif.
+fx-backup-confirmation-screen-item-subtext-1 = Bydd eich copi wrth gefn yn dechrau mewn ychydig funudau a bydd yn rhedeg unwaith y dydd. Gallwch wirio cynnydd yn <a data-l10n-name="settings">Gosodiadau</a>.
+fx-backup-confirmation-screen-item-subtext-2 = Bydd { -brand-short-name } yn chwilio am eich copi wrth gefn os oes angen i chi ailosod.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -545,3 +553,12 @@ restored-from-backup-success-no-checklist-primary-button = Parhau
 restored-from-backup-error-title = Hmm, roedd problem gyda'ch ffeil wrth gefn.
 restored-from-backup-error-subtitle = Os oes gennych ffeil { -brand-short-name } arall wrth gefn, ceisiwch adfer o honno. <a data-l10n-name="restore-problems">Yn dal i gael problemau?</a>
 restored-from-backup-error-primary-button = Cau
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Cyfaddaswch eich profiad o  { -brand-short-name }
+onboarding-personalization-subtitle = Atebwch ychydig o gwestiynau a byddwn yn argymell nodweddion ac estyniadau i wella eich defnydd o { -brand-short-name }.
+onboarding-personalization-use-case-title = Ar gyfer beth fyddwch chi'n defnyddio { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Personol
+onboarding-personalization-use-case-school-option = Ysgol/Coleg

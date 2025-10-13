@@ -251,7 +251,7 @@ set-default-pdf-handler-primary = Iawn
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = Rhowch eich llofnod yn unrhyw le!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
-annotations-default-pdf-handler-body = Tynnwch lun, teipiwch, neu lwytho'ch llofnod, yna rhowch ef yn union lle rydych chi eisiau. Cadwch eich llofnod ar gyfer y tro nesaf.
+annotations-default-pdf-handler-body = Tynnwch lun, teipio, neu lwytho'ch llofnod, yna rhowch ef yn union lle rydych chi ei eisiau. Cadwch eich llofnod ar gyfer y tro nesaf.
 annotations-make-default-pdf-handler-title = Gwneud { -brand-short-name } eich golygydd PDF rhagosodedig?
 annotations-make-default-pdf-handler-subtitle = Bydd gyda chi fynediad at ein hoffer bob tro byddwch yn agor PDF.
 annotations-make-default-pdf-primary-cta =
