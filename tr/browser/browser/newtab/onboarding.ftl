@@ -489,8 +489,12 @@ create-backup-back-button-label = Geri
 create-backup-screen-2-title = Yedeklenecek { -brand-product-name } verilerinizi seçin
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Kolay kurulum
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Yer imleri, geçmiş, ayarlar ve daha fazlası
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Tüm veriler
+fx-backup-opt-in-header = Dosya konumunu seçin
+fx-backup-opt-in-create-password-label = Parolayı girin
 fx-backup-opt-in-confirm-btn-label = İleri
 fx-backup-opt-in-cancel-btn-label = Geri
 
@@ -500,6 +504,8 @@ fx-backup-confirmation-screen-close-button = Kapat
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
+fx-backup-confirmation-screen-all-data-item-text-1 = Tüm gezinti verileri dahil
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Yer imleri, geçmiş, ayarlar ve diğer veriler dahil
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Hassas verileri dahil etmek için <a data-l10n-name="settings">Ayarlar</a>’a gidin.
 
 ## Restore from Backup Flow about:welcome screens
@@ -528,6 +534,7 @@ onboarding-personalization-title = { -brand-short-name } deneyiminizi özelleşt
 onboarding-personalization-use-case-personal-option = Kişisel
 onboarding-personalization-use-case-school-option = Okul
 onboarding-personalization-use-case-work-option = İş
+onboarding-personalization-motivation-title = Hangi { -brand-short-name } özellikleri sizin için en önemli?
 onboarding-personalization-motivation-privacy-option = Gizlilik ve güvenlik
 onboarding-personalization-motivation-productivity-option = Verimlilik
 onboarding-personalization-motivation-other-option = Diğer
