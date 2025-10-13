@@ -463,6 +463,7 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-subtitle = 只需 1–2 分钟，即可自动保护您的密码、书签等数据。
 create-backup-screen-1-flair = 推荐
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">详细了解</a>
 create-backup-screen-1-sync-body = 备份所有已登录设备
