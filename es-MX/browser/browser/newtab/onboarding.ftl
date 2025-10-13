@@ -473,8 +473,42 @@ sync-to-mobile-button-label = Sincronización con el móvil
 desktop-to-mobile-qr-code-alt =
     .aria-label = Código QR para descargar { -brand-product-name } para móvil
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    ¿Actualizando a Windows 11?
+    Hagamos una copia de seguridad de tus datos de { -brand-product-name }.
+create-backup-screen-1-flair = Recomendados
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Más información</a>
+create-backup-screen-1-sync-label = Sincronizar con { -brand-product-name }
+create-backup-screen-1-sync-body = Realiza una copia de seguridad de todos los dispositivos en los que se ha iniciado sesión
+create-backup-screen-1-backup-label = Realiza una copia de seguridad en la PC
+create-backup-screen-1-backup-body = Guarda en tu dispositivo o OneDrive
+create-backup-select-tile-button-label = Seleccionar
+create-backup-back-button-label = Atrás
+create-backup-show-fewer =
+    .label = Mostrar menos como este
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Todos los datos
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Incluye contraseñas y pagos
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Cifrado con contraseña
+create-backup-screen-3-title = Crea una contraseña para el archivo de respaldo
+fx-backup-opt-in-create-password-label = Ingresar contraseña
+fx-backup-opt-in-confirm-btn-label = Continuar
+fx-backup-opt-in-cancel-btn-label = Atrás
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Restaurar desde una copia de seguridad
+restore-from-backup-title = Recuperemos { -brand-short-name } como te gusta
+restore-from-backup-secondary-button = No restaurar
+
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = ¡Estamos de vuelta! Tus datos de { -brand-short-name } se han restaurado.
+restored-from-backup-success-with-checklist-subtitle = ¿Quieres tener tu navegador favorito centrado en la privacidad a un solo clic de distancia?
 restored-from-backup-success-with-checklist-primary-button = Guardar y continuar
 restored-from-backup-success-with-checklist-secondary-button = Omitir este paso
 restored-from-backup-success-no-checklist-primary-button = Continuar

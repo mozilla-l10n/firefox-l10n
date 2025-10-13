@@ -526,6 +526,7 @@ newtab-section-following-button = Siguiendo
 newtab-section-unfollow-button = Dejar de seguir
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Optimiza tu feed
+newtab-section-follow-highlight-subtitle = Sigue tus intereses para ver más de lo que te gusta.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -553,6 +554,9 @@ newtab-section-mangage-topics-followed-topics = Seguido
 newtab-section-mangage-topics-followed-topics-empty-state = Aún no sigues ningún tema.
 newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-empty-state = Aún no has bloqueado ningún tema.
+newtab-custom-wallpaper-title = Los fondos de pantalla personalizados están aquí
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Sube tu propio fondo de pantalla o elige un color personalizado para hacer tuyo { -brand-product-name }.
 newtab-custom-wallpaper-cta = Intentalo
 
 ## Strings for download mobile highlight
