@@ -57,3 +57,6 @@ report-broken-site-panel-report-sent-text =
     }
 report-broken-site-panel-invalid-url-label = Vložte prosím platnou URL adresu
 report-broken-site-panel-missing-reason-label = Zvolte důvod
+report-broken-site-panel-blocked-trackers-label =
+    .label = Odesílat URL adresy blokované ochranou proti sledování
+report-broken-site-panel-blocked-trackers-description = Rozšířená ochrana proti sledování může blokovat sledovací prvky a skripty, které některé webové stránky potřebují pro správné fungování.

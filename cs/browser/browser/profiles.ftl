@@ -281,6 +281,7 @@ custom-avatar-crop-area =
     .aria-label = Upravit oblast oříznutí
 custom-avatar-drag-handle =
     .aria-label = Změnit velikost oblasti oříznutí
+profiles-appmenu-callout-tour-primary-button = Jak na to
 barbell-avatar = Činka
 bike-avatar = Kolo
 
