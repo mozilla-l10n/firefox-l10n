@@ -509,11 +509,18 @@ fx-backup-opt-in-cancel-btn-label = Tilbake
 
 ## Fx Backup confirmation screen strings
 
+fx-backup-confirmation-screen-title = Sikkerheitskopien din er planlagt
 fx-backup-confirmation-screen-close-button = Lat att
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
+fx-backup-confirmation-screen-all-data-item-text-1 = Alle nettlesardata inkluderte
 fx-backup-confirmation-screen-all-data-item-text-2 = Lagra til eininga di
+fx-backup-confirmation-screen-all-data-item-text-3 = Kryptert og passordbeskytta
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Bokmerker, historikk, innstillingar og andre data inkludert
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Lagra til eininga di
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Passord og betalingar er ikkje inkluderte
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Gå til <a data-l10n-name="settings">innstillingar</a> for å inkludere sensitive data.
 
 ## Restore from Backup Flow about:welcome screens
 
