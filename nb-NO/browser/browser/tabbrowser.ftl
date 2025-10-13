@@ -255,9 +255,17 @@ tab-group-editor-color-selector2-red = Rød
 tab-group-description = { $tabGroupName } — Fanegruppe
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Sammenfoldet
 tab-group-label-tooltip-expanded = { $tabGroupName } — Utfoldet
+tab-group-preview-name =
+    .aria-label = Faner i en sammenfoldet gruppe
 tab-context-unnamed-group =
     .label = Navnløs gruppe
 tab-group-name-default = Navnløs gruppe
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Fanelisten er åpen
+tab-group-preview-closed-description = Fanelisten er lukket
 
 ##
 
