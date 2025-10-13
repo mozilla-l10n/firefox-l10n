@@ -480,6 +480,9 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Upgrade nei Windows 11?
+    Litte wy in reservekopy fan jo { -brand-product-name }-gegevens meitjse
 create-backup-screen-1-flair = Oanrekommandearre
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Mear ynfo</a>
 
