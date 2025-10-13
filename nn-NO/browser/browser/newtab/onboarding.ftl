@@ -479,11 +479,27 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-subtitle = Vern automatisk passord, bokmerke, og meir, på 1–2 minutt.
 create-backup-screen-1-flair = Tilrådd
 create-backup-screen-1-sync-label = Synkroniser med { -brand-product-name }
 create-backup-screen-1-backup-label = Sikkerheitskopier til PC
 create-backup-select-tile-button-label = Vel
 create-backup-back-button-label = Tilbake
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Enkelt oppsett
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Bokmerke, historikk, innstillingar, og meir
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Inkluderer ikkje passord og betalingar
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Ikkje kryptert
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Alle data
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Inkluderer passord og betalingar
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Kryptert med eit passord
+create-backup-screen-3-title = Lag eit passord for sikkerheitskopifila
 fx-backup-opt-in-create-password-label = Skriv inn passord
 fx-backup-opt-in-confirm-btn-label = Hald fram
 fx-backup-opt-in-cancel-btn-label = Tilbake

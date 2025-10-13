@@ -509,6 +509,8 @@ create-backup-screen-2-all-label = Alle data
 create-backup-screen-2-all-list-2 = Inkluderer passord og betalinger
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Kryptert med et passord
+create-backup-screen-3-title = Opprett et passord for sikkerhetskopifil
+create-backup-screen-3-subtitle = Kreves for å kryptere dataene dine. Lagre dem på et sted du husker.
 fx-backup-opt-in-header = Velg filplassering
 fx-backup-opt-in-filepath-label = Velg et sted du planlegger å overføre til en ny enhet, for eksempel OneDrive.
 fx-backup-opt-in-create-password-label = Skriv inn passord
@@ -529,6 +531,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Bokmerker, historikk, inn
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Lagret på din enhet
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Passord og betalinger er ikke inkludert
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Gå til <a data-l10n-name="settings">innstillinger</a> for å inkludere sensitive data.
+fx-backup-confirmation-screen-item-subtext-1 = Sikkerhetskopieringen starter om noen få minutter og kjører én gang om dagen. Du kan sjekke fremdriften i <a data-l10n-name="settings">innstillinger</a>.
 
 ## Restore from Backup Flow about:welcome screens
 
