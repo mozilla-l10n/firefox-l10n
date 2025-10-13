@@ -168,7 +168,7 @@ main-context-menu-preview-link =
 # sites add into URLs to help them deliver a certain browsing experience.
 main-context-menu-copy-clean-link =
     .label = Saubere Link-Adresse kopieren
-    .accesskey = u
+    .accesskey = b
 
 ## Media (video/audio) controls
 ##
