@@ -482,6 +482,7 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-subtitle = Vern automatisk passord, bokmerke, og meir, på 1–2 minutt.
 create-backup-screen-1-flair = Tilrådd
 create-backup-screen-1-sync-label = Synkroniser med { -brand-product-name }
+create-backup-screen-1-sync-body = Sikkerheitskopierer alle pålogga einingar
 create-backup-screen-1-backup-label = Sikkerheitskopier til PC
 create-backup-select-tile-button-label = Vel
 create-backup-back-button-label = Tilbake
@@ -522,6 +523,8 @@ restore-from-backup-secondary-button = Ikkje gjenopprett
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Vi er tilbake! { -brand-short-name }-dataa dine er gjenoppretta.
+restored-from-backup-success-with-checklist-subtitle = Vil du ha favoritt-nettlesaren din med fokus på personvern berre eitt klikk unna?
 restored-from-backup-success-with-checklist-primary-button = Lagre og hald fram
 restored-from-backup-success-with-checklist-secondary-button = Hopp over dette steget
 restored-from-backup-success-no-checklist-primary-button = Hald fram
