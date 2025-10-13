@@ -20,6 +20,9 @@ permission-dialog-description-file-app = Bu dosya { $scheme } bağlantısını {
 permission-dialog-description-extension-app = { $extension } uzantısının { $scheme } bağlantısını { $appName } ile açmasına izin verilsin mi?
 permission-dialog-description-system-app = { $scheme } bağlantısı { $appName } ile açılsın mı?
 permission-dialog-description-system-noapp = { $scheme } bağlantısı açılsın mı?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Bu site dijital cüzdanınızı açabilsin mi?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

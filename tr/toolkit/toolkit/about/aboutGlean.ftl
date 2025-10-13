@@ -164,3 +164,5 @@ about-glean-about-data-explanation = Toplanan verilerin listesine göz atmak iç
 
 about-glean-ping-list-optgroup-built-in =
     .label = Yerleşik ping’ler
+about-glean-ping-list-optgroup-custom =
+    .label = Özel ping’ler
