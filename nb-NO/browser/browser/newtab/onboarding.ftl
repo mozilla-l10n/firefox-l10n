@@ -482,6 +482,7 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-title =
     Oppgraderer du til Windows 11?
     La oss sikkerhetskopiere dine { -brand-product-name }-data.
+create-backup-screen-1-subtitle = Beskytt automatisk passord, bokmerker og mer på 1–2 minutter.
 create-backup-screen-1-flair = Anbefalt
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Les mer</a>
 create-backup-screen-1-sync-label = Synkroniser med { -brand-product-name }
@@ -494,15 +495,40 @@ create-backup-show-fewer =
     .label = Vis færre som dette
 create-backup-screen-2-title = Velg { -brand-product-name }-data som skal sikkerhetskopieres
 create-backup-screen-2-subtitle = Det tar bare ett minutt. Dataene dine sikkerhetskopieres én gang per dag.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Enkelt oppsett
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
 create-backup-screen-2-easy-list-1 = Bokmerker, historikk, innstillinger og mer
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Inkluderer ikke passord og betalinger
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Ikke kryptert
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Alle data
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Inkluderer passord og betalinger
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Kryptert med et passord
 fx-backup-opt-in-header = Velg filplassering
+fx-backup-opt-in-filepath-label = Velg et sted du planlegger å overføre til en ny enhet, for eksempel OneDrive.
+fx-backup-opt-in-create-password-label = Skriv inn passord
+fx-backup-opt-in-confirm-btn-label = Fortsett
+fx-backup-opt-in-cancel-btn-label = Tilbake
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Sikkerhetskopien din er planlagt
+fx-backup-confirmation-screen-close-button = Lukk
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Alle nettleserdata inkludert
+fx-backup-confirmation-screen-all-data-item-text-2 = Lagret på din enhet
+fx-backup-confirmation-screen-all-data-item-text-3 = Kryptert og passordbeskyttet
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Bokmerker, historikk, innstillinger og andre data inkludert
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Lagret på din enhet
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Passord og betalinger er ikke inkludert
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Gå til <a data-l10n-name="settings">innstillinger</a> for å inkludere sensitive data.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -522,3 +548,14 @@ restored-from-backup-success-no-checklist-primary-button = Fortsett
 restored-from-backup-error-title = Hmm, det oppstod et problem med sikkerhetskopifilen din.
 restored-from-backup-error-subtitle = Hvis du har en annen sikkerhetskopifil for { -brand-short-name }, kan du prøve å gjenopprette fra den. <a data-l10n-name="restore-problems">Har du fortsatt problemer?</a>
 restored-from-backup-error-primary-button = Lukk
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = Personlig
+onboarding-personalization-use-case-school-option = Skole
+onboarding-personalization-use-case-work-option = Arbeid
+onboarding-personalization-motivation-title = Hvilke funksjoner i { -brand-short-name } er viktigst for deg?
+onboarding-personalization-motivation-privacy-option = Personvern og sikkerhet
+onboarding-personalization-motivation-productivity-option = Produktivitet
+onboarding-personalization-motivation-other-option = Annen
