@@ -243,6 +243,22 @@ fox-doodle-pin-secondary = Nid nawr
 set-default-pdf-handler-headline = <strong>Mae'ch ffeiliau PDF nawr yn agor yn { -brand-short-name }.</strong> Golygwch neu llofnodwch ffurflenni o fewn eich porwr. I newid, chwiliwch am "PDF" yn y gosodiadau.
 set-default-pdf-handler-primary = Iawn
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Rhowch eich llofnod yn unrhyw le!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Tynnwch lun, teipiwch, neu lwytho'ch llofnod, yna rhowch ef yn union lle rydych chi eisiau. Cadwch eich llofnod ar gyfer y tro nesaf.
+annotations-make-default-pdf-handler-title = Gwneud { -brand-short-name } eich golygydd PDF rhagosodedig?
+annotations-make-default-pdf-handler-subtitle = Bydd gyda chi fynediad at ein hoffer bob tro byddwch yn agor PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Gosod fel y rhagosodiad
+annotations-make-default-pdf-next =
+    .label = Nesaf
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Dyfais newydd yn eich dyfodol?
