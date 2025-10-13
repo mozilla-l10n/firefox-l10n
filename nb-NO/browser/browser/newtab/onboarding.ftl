@@ -493,6 +493,8 @@ create-backup-back-button-label = Tilbake
 create-backup-show-fewer =
     .label = Vis færre som dette
 create-backup-screen-2-title = Velg { -brand-product-name }-data som skal sikkerhetskopieres
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Ikke kryptert
 
 ## Restore from Backup Flow about:welcome screens
 
