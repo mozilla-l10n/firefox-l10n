@@ -55,3 +55,8 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Agregar motor de búsqueda personalizado
 add-engine-name = Nombre del motor de búsqueda
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+add-engine-url-placeholder =
+    .placeholder = por ejemplo, https://developer.mozilla.com/search?q=%s
