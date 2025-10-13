@@ -528,6 +528,12 @@ fx-backup-confirmation-screen-close-button = Sluiten
 fx-backup-confirmation-screen-all-data-item-text-1 = Alle navigatiegegevens inbegrepen
 fx-backup-confirmation-screen-all-data-item-text-2 = Opgeslagen op uw apparaat
 fx-backup-confirmation-screen-all-data-item-text-3 = Versleuteld en beveiligd met een wachtwoord
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Inclusief bladwijzers, geschiedenis, instellingen en andere gegevens
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Opgeslagen op uw apparaat
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Wachtwoorden en betaalmethoden niet inbegrepen
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Ga naar <a data-l10n-name="settings">Instellingen</a> om gevoelige gegevens op te nemen.
+fx-backup-confirmation-screen-item-subtext-1 = Het maken van uw reservekopie begint over een paar minuten en wordt eenmaal per dag uitgevoerd. U kunt de voortgang controleren in <a data-l10n-name="settings">Instellingen</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } zoekt naar uw reservekopie als u opnieuw moet installeren.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -551,9 +557,13 @@ restored-from-backup-error-primary-button = Sluiten
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Pas uw { -brand-short-name }-ervaring aan
+onboarding-personalization-subtitle = Beantwoord een paar vragen en we zullen functies en extensies aanbevelen om uw gebruik van { -brand-short-name } te verbeteren.
+onboarding-personalization-use-case-title = Waar gaat u { -brand-short-name } voor gebruiken?
 onboarding-personalization-use-case-personal-option = Persoonlijk
 onboarding-personalization-use-case-school-option = School
 onboarding-personalization-use-case-work-option = Werk
+onboarding-personalization-motivation-title = Welke functies van { -brand-short-name } zijn het belangrijkst voor u?
 onboarding-personalization-motivation-privacy-option = Privacy en beveiliging
 onboarding-personalization-motivation-productivity-option = Productiviteit
 onboarding-personalization-motivation-other-option = Overig

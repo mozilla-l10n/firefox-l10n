@@ -20,6 +20,17 @@ permission-dialog-description-file-app = Toestaan dat dit bestand de { $scheme }
 permission-dialog-description-extension-app = Toestaan dat de extensie { $extension } de { $scheme }-koppeling opent met { $appName }?
 permission-dialog-description-system-app = De { $scheme }-koppeling openen met { $appName }?
 permission-dialog-description-system-noapp = De { $scheme }-koppeling openen?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Deze website toestaan uw digitale portemonnee te openen?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Door een <strong>{ $scheme }</strong>-koppeling te openen, kan <strong>{ $host }</strong> uw echte identiteit opvragen met <strong>{ $appName }</strong>. Ga alleen verder als u deze website vertrouwt.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Door een <strong>{ $scheme }</strong>-koppeling te openen, kan deze website uw echte identiteit opvragen met <strong>{ $appName }</strong>. Ga alleen verder als u deze website vertrouwt.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Door een <strong>{ $scheme }</strong>-koppeling te openen, kan <strong>{ $host }</strong> uw echte identiteit bij uw digitale portemonnee opvragen. Ga alleen verder als u deze website vertrouwt.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Door een <strong>{ $scheme }</strong>-koppeling te openen, kan deze website uw echte identiteit bij uw digitale portemonnee opvragen. Ga alleen verder als u deze website vertrouwt.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

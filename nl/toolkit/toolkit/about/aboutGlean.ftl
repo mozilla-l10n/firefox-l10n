@@ -181,3 +181,10 @@ about-glean-disable-new-features-button = Nieuwe functies uitschakelen
 about-glean-about-data-explanation =
     Raadpleeg, om door de lijst met verzamelde gegevens te bladeren, de
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-bibliotheek</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Ingebouwde pings
+about-glean-ping-list-optgroup-custom =
+    .label = Aangepaste pings
