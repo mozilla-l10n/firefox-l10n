@@ -532,6 +532,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-2 = Lagret på din enhet
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Passord og betalinger er ikke inkludert
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Gå til <a data-l10n-name="settings">innstillinger</a> for å inkludere sensitive data.
 fx-backup-confirmation-screen-item-subtext-1 = Sikkerhetskopieringen starter om noen få minutter og kjører én gang om dagen. Du kan sjekke fremdriften i <a data-l10n-name="settings">innstillinger</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } vil se etter sikkerhetskopien din hvis du trenger å installere på nytt.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -555,6 +556,9 @@ restored-from-backup-error-primary-button = Lukk
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Tilpass { -brand-short-name }-opplevelsen din
+onboarding-personalization-subtitle = Svar på noen få spørsmål, så anbefaler vi funksjoner og utvidelser som kan forbedre bruken av { -brand-short-name }.
+onboarding-personalization-use-case-title = Hva skal du bruke { -brand-short-name } til?
 onboarding-personalization-use-case-personal-option = Personlig
 onboarding-personalization-use-case-school-option = Skole
 onboarding-personalization-use-case-work-option = Arbeid
