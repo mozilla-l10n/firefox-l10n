@@ -483,8 +483,52 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-title =
     Upgrade nei Windows 11?
     Litte wy in reservekopy fan jo { -brand-product-name }-gegevens meitjse
+create-backup-screen-1-subtitle = Beskermje automatysk jo wachtwurden, blêdwizers en mear yn 1–2 minuten.
 create-backup-screen-1-flair = Oanrekommandearre
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Mear ynfo</a>
+create-backup-screen-1-sync-label = Syngronisearje mei { -brand-product-name }
+create-backup-screen-1-sync-body = Makket in reservekopy fan alle oanmelde apparaten
+create-backup-screen-1-backup-label = Reservekopy meitsje op PC
+create-backup-screen-1-backup-body = Bewarret op jo apparaat of OneDrive
+create-backup-select-tile-button-label = Selektearje
+create-backup-back-button-label = Tebek
+create-backup-show-fewer =
+    .label = Minder lykas dit toane
+create-backup-screen-2-title = Kies { -brand-product-name }-gegevens om in reservekopy fan te meitsjen
+create-backup-screen-2-subtitle = It duorret mar in minút. Der wurdt ien kear deis in reservekopy fan jo gegevens makke.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Ienfâldige ynstellingen
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Blêdwizers, skiednis, ynstellingen en mear
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Befettet gjin wachtwurden en betelmetoaden
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Net fersifere
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Alle gegevens
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Befettet wachtwurden en betelmetoaden
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Fersifere mei in wachtwurd
+create-backup-screen-3-title = Wachtwurd foar in reservekopybestân oanmeitsje
+create-backup-screen-3-subtitle = Fereaske om jo gegevens te fersiferjen. Bewarje it op in plak dat jo ûnthâlde kinne.
+fx-backup-opt-in-header = Bestânslokaasje kieze
+fx-backup-opt-in-confirm-btn-label = Trochgean
+fx-backup-opt-in-cancel-btn-label = Tebek
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Jo reservekopy is ynpland
+fx-backup-confirmation-screen-close-button = Slute
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Alle navigaasjegegevens ynbegrepen
+fx-backup-confirmation-screen-all-data-item-text-2 = Bewarre op jo apparaat
+fx-backup-confirmation-screen-all-data-item-text-3 = Fersifere en befeilige mei in wachtwurd
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Ynklusyf blêdwizers, skiednis, ynstellingen en oare gegevens
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Bewarre op jo apparaat
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Wachtwurden en betelmetoaden net ynbegrepen
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -504,3 +548,11 @@ restored-from-backup-success-no-checklist-primary-button = Trochgean
 restored-from-backup-error-title = Hmm, der is in probleem mei jo reservekopybestân.
 restored-from-backup-error-subtitle = As jo in oar { -brand-short-name }-reservekopybestân hawwe, probearje dan derfan werom te setten. <a data-l10n-name="restore-problems">Noch hieltyd problemen?</a>
 restored-from-backup-error-primary-button = Slute
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = Persoanlik
+onboarding-personalization-use-case-school-option = Skoalle
+onboarding-personalization-use-case-work-option = Wurk
+onboarding-personalization-motivation-privacy-option = Privacy en befeiliging
