@@ -265,6 +265,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Темна
     .title = Використовувати темний вигляд тла та вмісту вебсайтів.
+web-appearance-group =
+    .aria-label = Зовнішній вигляд сайтів
 preferences-web-appearance-choice-auto = Автоматично
 preferences-web-appearance-choice-light = Світла
 preferences-web-appearance-choice-dark = Темна
@@ -1081,6 +1083,28 @@ autofill-saved-payment-methods-button = Збережені способи опл
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Вимагати входу на пристрої для заповнення та керування способами оплати
     .accesskey = х
+autofill-payment-methods-title = Способи оплати
+autofill-payment-methods-header =
+    .aria-label = Способи оплати
+autofill-payment-methods-checkbox-message-2 =
+    .label = Зберігати й автоматично заповнювати платіжні дані
+    .accesskey = п
+autofill-payment-methods-manage-payments-button =
+    .label = Керування способами оплати
+    .accesskey = К
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Вимагати ввійти на пристрої для автоматичного заповнення та керування способами оплати
+    .accesskey = В
+autofill-addresses-title = Адреси та інше
+autofill-addresses-header =
+    .aria-label = Адреси та інше
+autofill-addresses-checkbox-message =
+    .label = Зберігати й автоматично заповнювати адреси
+    .accesskey = б
+autofill-addresses-manage-addresses-button =
+    .label = Керування адресами та інше
+    .accesskey = К
 
 ## Privacy Section - History
 
@@ -1126,7 +1150,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Файли cookie та дані сайтів
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Обчислення розміру даних сайтів і кешу…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Ваші збережені файли cookie, історія, дані сайтів і кеш використовують <strong>{ $value } { $unit }</strong> дискового простору.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1163,6 +1193,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Усі міжсайтові файли cookie (може порушити роботу вебсайтів)
 sitedata-option-block-all =
     .label = Усі файли cookie (порушить роботу вебсайтів)
+sitedata-clear2 =
+    .label = Стерти дані перегляду
+    .accesskey = С
+sitedata-settings2 =
+    .label = Керування даними перегляду
+    .accesskey = п
 sitedata-clear =
     .label = Стерти дані…
     .accesskey = С
@@ -1172,6 +1208,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Керувати винятками…
     .accesskey = я
+sitedata-cookies-exceptions2 =
+    .label = Керування винятками
+    .accesskey = в
+    .description = Ви можете вказати сайти, яким дозволено або заборонено використовувати файли cookie та дані.
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1530,6 +1570,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = В
 space-alert-over-5gb-message2 = <strong>Для { -brand-short-name } закінчується місце на диску.</strong> Вміст вебсайтів може показуватись неналежним чином. Ви можете стерти збережені дані в меню Налаштування > Приватність і безпека > Файли cookie та дані сайтів.
 space-alert-under-5gb-message2 = <strong>Для { -brand-short-name } закінчується місце на диску.</strong> Вміст вебсайтів може показуватись неправильно. Натисніть “Докладніше”, щоб оптимізувати використання диска для кращої роботи.
+certs-description2 =
+    .label = Сертифікати
+    .description = налаштування сертифікатів, які { -brand-short-name } використовує для автентифікації.
 
 ## Privacy Section - HTTPS-Only
 
