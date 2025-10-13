@@ -478,6 +478,55 @@ sync-to-mobile-button-label = Cydweddu â'r symudol
 desktop-to-mobile-qr-code-alt =
     .aria-label = Cod QR i lwytho { -brand-product-name } i lawr ar gyfer ffôn symudol
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Uwchraddio i Windows 11?
+    Gadewch i ni wneud copi wrth gefn o'ch data { -brand-product-name }.
+create-backup-screen-1-subtitle = Diogelwch yn awtomatig eich cyfrineiriau, nodau tudalen, a mwy mewn munud neu ddau.
+create-backup-screen-1-flair = Cymeradwy
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Dysgu rhagor</a>
+create-backup-screen-1-sync-label = Cydweddu gyda { -brand-product-name }
+create-backup-screen-1-sync-body = Yn gwneud copi wrth gefn o'r holl ddyfeisiau sydd wedi'u mewngofnodi
+create-backup-screen-1-backup-label = Gwneud copi wrth gefn i gyfrifiadur
+create-backup-screen-1-backup-body = Yn cadw i'ch dyfais neu OneDrive
+create-backup-select-tile-button-label = Dewis
+create-backup-back-button-label = Nôl
+create-backup-show-fewer =
+    .label = Dangos llai fel hyn
+create-backup-screen-2-title = Dewis data { -brand-product-name } i wneud copi wrth gefn
+create-backup-screen-2-subtitle = Bydd yn cymryd dim ond munud. Mae'n gwneud copi wrth gefn o'ch data unwaith y dydd.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Gosod yn hawdd
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Nodau tudalen, hanes, gosodiadau, a mwy
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Nid yw'n cynnwys cyfrineiriau a thaliadau
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Heb ei amgryptio
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Yr holl ddata
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Yn cynnwys cyfrineiriau a thaliadau
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Wedi'i amgryptio gyda chyfrinair
+create-backup-screen-3-title = Creu cyfrinair ffeil wrth gefn
+create-backup-screen-3-subtitle = Yn rheidrwydd ar gyfer amgryptio eich data. Cadw'ch ef mewn man y byddwch yn ei gofio.
+fx-backup-opt-in-header = Dewiswch leoliad i'r ffeil
+fx-backup-opt-in-filepath-label = Dewiswch le rydych chi'n bwriadu ei drosglwyddo i ddyfais newydd, fel OneDrive.
+fx-backup-opt-in-create-password-label = Rhowch gyfrinair
+fx-backup-opt-in-confirm-btn-label = Parhau
+fx-backup-opt-in-cancel-btn-label = Nôl
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Mae eich copi wrth gefn wedi'i amserlenni
+fx-backup-confirmation-screen-close-button = Cau
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Yn cynnwys yr holl ddata pori
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Adfer o'r Copi Wrth Gefn
