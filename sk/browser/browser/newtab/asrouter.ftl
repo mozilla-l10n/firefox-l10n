@@ -234,6 +234,22 @@ fox-doodle-pin-secondary = Teraz nie
 set-default-pdf-handler-headline = <strong>Vaše súbory PDF sa teraz otvárajú vo { -brand-short-name(case: "loc") }.</strong> Upravujte formuláre alebo podpisujte priamo vo svojom prehliadači. Ak to chcete zmeniť, vyhľadajte v nastaveniach “PDF”.
 set-default-pdf-handler-primary = Rozumiem
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Podpíšte sa na bodkovanú čiaru – alebo kdekoľvek inde!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Nakreslite, napíšte alebo nahrajte svoj podpis a potom ho umiestnite presne tam, kam chcete. Uložte si svoje obľúbené podpisy na nabudúce použitie.
+annotations-make-default-pdf-handler-title = Nastaviť { -brand-short-name } ako predvolený editor PDF?
+annotations-make-default-pdf-handler-subtitle = K našim nástrojom budete mať prístup vždy, keď otvoríte PDF súbor.
+annotations-make-default-pdf-primary-cta =
+    .label = Nastaviť ako predvolený
+annotations-make-default-pdf-next =
+    .label = Ďalej
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Plánujete v blízkej budúcnosti nové zariadenie?

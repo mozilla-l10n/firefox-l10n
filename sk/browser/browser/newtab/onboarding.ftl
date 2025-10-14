@@ -477,6 +477,17 @@ sync-to-mobile-button-label = Synchronizácia s mobilným telefónom
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR kód na stiahnutie { -brand-product-name(case: "gen") } pre mobilné zariadenia
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Inovujete na Windows 11?
+    Zálohujte si údaje z vášho { -brand-product-name(case: "gen") }.
+create-backup-screen-1-subtitle = Automaticky ochráňte svoje heslá, záložky a ďalšie položky za 1 – 2 minúty.
+create-backup-screen-1-flair = Odporúčané
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Ďalšie informácie</a>
+create-backup-screen-1-sync-label = Synchronizácia s { -brand-product-name(case: "ins") }
+create-backup-screen-1-sync-body = Zálohuje všetky prihlásené zariadenia
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Obnoviť zo zálohy
