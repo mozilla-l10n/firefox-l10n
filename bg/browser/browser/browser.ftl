@@ -123,6 +123,9 @@ browser-main-private-suffix-for-content = Поверително сърфира�
 popups-infobar-dont-show-message2 =
     .label = Да не се показва това съобщение, когато са блокирани изскачащи прозорци или пренасочвания към трети страни
     .accesskey = з
+edit-popup-settings2 =
+    .label = Управление на изскачащи прозорци и пренасочвания от трети страни…
+    .accesskey = и
 
 ##
 
@@ -815,6 +818,8 @@ urlbar-result-weather-provider-sponsored = { $provider } · Спонсорира
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Вземете данни от борсата директно в лентата за търсене
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Показва пазарни новини и допълнителна информация от нашите партньори, когато споделяте данни за заявките за търсене { -vendor-short-name }. <a data-l10n-name="learn-more-link">Научете повече</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Показване на подсказки
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -822,6 +827,11 @@ urlbar-result-realtime-opt-in-not-now = Не сега
 urlbar-result-realtime-opt-in-dismiss = Прекратяване
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Без показване на тези предложения
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Без показване на пазарни предложения
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Благодарим за обратната връзка. Вече няма да виждате пазарни предложения.
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Благодарим за обратната връзка. Вече няма да виждате тези предложения.
@@ -1168,6 +1178,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Спиране на изскачащите прозорци от { $uriHost }
     .accesskey = Р
+popups-infobar-allow2 =
+    .label = Позволяване на изскачащи прозорци и пренасочвания от трети страни за { $uriHost }
+    .accesskey = и
 
 ##
 
@@ -1332,6 +1345,7 @@ firefox-relay-offer-why-to-use-relay = Нашите сигурни и лесни
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Всички имейли, изпратени до вашите имейл маски, ще бъдат препращани към <strong>{ $useremail }</strong> (освен ако не решите да ги блокирате).
 firefox-relay-offer-legal-notice = С натискането на „Използване на маска за пощата“ вие се съгласявате с <label data-l10n-name="tos-url">Условията на услугата</label> и <label data-l10n-name="privacy-url">Политиката за лични данни</label>.
+firefox-relay-offer-legal-notice-1 = С регистрирането и създаването на маска се съгласявате с <label data-l10n-name="tos-url">Условията на услугата</label> и <label data-l10n-name="privacy-url">Политиката за лични данни</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1358,10 +1372,25 @@ popup-warning-message =
         [one] { -brand-short-name } попречи на страницата да отвори изскачащ прозорец
        *[other] { -brand-short-name } попречи на страницата да отвори { $popupCount } изскачащи прозореца.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } попречи на страницата да пренасочи.
+        [one] { -brand-short-name } попречи на страницата да отвори изскачащ прозорец и пренасочи.
+       *[other] { -brand-short-name } попречи на страницата да отвори { $popupCount } изскачащи прозореца и пренасочи.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } попречи на страницата да отвори повече от { $popupCount } изскачащи прозореца.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } попречи на страницата да отвори повече от { $popupCount } изскачащ прозорец и пренасочвания.
+       *[other] { -brand-short-name } попречи на страницата да отвори повече от { $popupCount } изскачащи прозореца и пренасочвания.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1377,6 +1406,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Показване на „{ $popupURI }“
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Показване на „{ $redirectURI }“
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1423,6 +1456,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } смята, че �
 trustpanel-connection-label-secure = Връзката е защитена
 trustpanel-connection-label-insecure = Връзката не е защитена
 trustpanel-header-enabled = { -brand-product-name } ви пази
+trustpanel-description-enabled2 = Защитени сте. Ако забележим нещо, ще ви уведомим.
+trustpanel-header-enabled-insecure = Бъдете внимателни на тази страница
+trustpanel-description-enabled-insecure = { -brand-product-name } установи нещо подозрително.
 trustpanel-description-enabled = Вие сте защитени. Ако забележим нещо, ще ви уведомим
 trustpanel-header-disabled = Защитите са изключени
 trustpanel-description-disabled = { -brand-product-name } не ви защитава. Съветваме ви да включите защитите.
