@@ -505,6 +505,7 @@ fx-backup-confirmation-screen-all-data-item-text-3 = 已加密并受密码保护
 fx-backup-confirmation-screen-easy-setup-item-text-1 = 包含书签、历史记录、设置等数据
 fx-backup-confirmation-screen-easy-setup-item-text-2 = 已保存到您的设备
 fx-backup-confirmation-screen-easy-setup-item-text-3 = 不包含密码和付款信息
+fx-backup-confirmation-screen-item-subtext-2 = 需要重新安装时，{ -brand-short-name } 将查找您的备份。
 
 ## Restore from Backup Flow about:welcome screens
 
