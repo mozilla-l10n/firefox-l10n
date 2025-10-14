@@ -54,7 +54,7 @@ settings-data-change-password = Cambia password…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Attiva backup
-turn-on-scheduled-backups-description = { -brand-short-name } creerà un’istantanea dei tuoi dati ogni 60 minuti. Puoi ripristinarli se si verifica un problema o se inizi a utilizzare un nuovo dispositivo.
+turn-on-scheduled-backups-description = { -brand-short-name } creerà un’istantanea dei tuoi dati ogni 24 ore. Puoi ripristinarli se si verifica un problema o se inizi a utilizzare un nuovo dispositivo.
 turn-on-scheduled-backups-support-link = Che cosa verrà salvato?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Posizione
