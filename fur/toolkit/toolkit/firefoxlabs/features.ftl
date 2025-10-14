@@ -56,3 +56,11 @@ experimental-features-newtab-sections-follow-block-description = Organize lis st
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Zonte sîts ae sbare des aplicazions
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Vierç i sîts che tu visitis dispès tant che a fossin aplicazions, dret de sbare des aplicazions. Cîr la icone “Zonte schede ae sbare des aplicazions” ae diestre de sbare de direzion, par vierzi il sît intun barcon otimizât cun dutis lis protezions di { -brand-product-name }. <a data-l10n-name="connect">Condivît la tô opinion</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Listis su { -firefox-home-brand-name }
