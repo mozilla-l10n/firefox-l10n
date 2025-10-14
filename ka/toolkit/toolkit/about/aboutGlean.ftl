@@ -8,7 +8,7 @@
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
-glean-debug-ping-viewer-brand-name = { -glean-brand-name } გამართვის კრებულის წამკითხველი
+glean-debug-ping-viewer-brand-name = { -glean-brand-name } გამართვის უწყების წამკითხველი
 about-glean-page-title2 = { -glean-brand-name }-ის შესახებ
 about-glean-header = { -glean-brand-name }-ის შესახებ
 about-glean-interface-description =
@@ -29,8 +29,8 @@ about-glean-upload-fake-enabled =
     მონაცემთა ატვირთვა გამორთულია,
     მაგრამ მიეთითება, რომ თითქოსდა ჩართულია { glean-sdk-brand-name }
     და მონაცემები მაინც ჩაიწერება ადგილობრივად.
-    შენიშვნა: თუ დაურთავთ გამართვის ჭდეს, კრებულები მაინც აიტვირთება და იხილავს
-    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>, ამ პარამეტრების მიუხედავად.
+    შენიშვნა: თუ დაურთავთ გამართვის ჭდეს, უწყებები მაინც აიტვირთება და იხილავს
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> ამ პარამეტრების მიუხედავად.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = შესაბამისი <a data-l10n-name="fog-prefs-and-defines-doc-link">მახასიათებლები და განსაზღვრებებია</a>:
 # Variables:
