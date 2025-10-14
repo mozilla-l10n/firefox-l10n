@@ -1429,6 +1429,7 @@ trustpanel-etp-description-disabled = { -brand-product-name } pensat chi is azie
 trustpanel-connection-label-secure = Connessione segura
 trustpanel-connection-label-insecure = Connessione non segura
 trustpanel-header-enabled = { -brand-product-name } est in alerta
+trustpanel-header-enabled-insecure = Tene contu in custu situ
 trustpanel-description-enabled = Ses a suta de s’amparu nostru. Si rilevamus calicuna cosa, ti dd’amus a fàghere ischire
 trustpanel-header-disabled = As disativadu is protetziones
 trustpanel-description-disabled = { -brand-product-name } no est funtzionende. Ti cussigiamus de torrare a ativare is protetziones.

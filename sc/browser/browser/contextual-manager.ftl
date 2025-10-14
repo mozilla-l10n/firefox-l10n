@@ -205,6 +205,7 @@ contextual-manager-passwords-alert-list =
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = Cussigiamus de modificare custa crae
     .message = Unas cantas craes de custu situ sunt istadas furadas o si sunt pèrdidas. Modifica sa crae pro amparare su contu tuo.
+contextual-manager-passwords-breached-origin-link-message = Comente faghet { -brand-product-name } a ischire de is violatziones de datos?
 contextual-manager-passwords-change-password-button = Modìfica sa crae
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Racumandamus de cambiare custa crae

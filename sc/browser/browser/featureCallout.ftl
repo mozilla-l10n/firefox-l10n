@@ -153,6 +153,7 @@ sidebar-pins-callout-cta-button = Apica s’ischeda
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Tene is ischedas de importu a portada
 pin-tabs-callout-cta-1-button = Apica custa ischeda
 pin-tabs-callout-2-title = Apica is ischedas chi bìsitas de prus
 pin-tabs-callout-cta-2-button = Apica custa ischeda
