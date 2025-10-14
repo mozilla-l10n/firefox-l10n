@@ -20,6 +20,9 @@ permission-dialog-description-file-app = Permeti a chest file di vierzi un coleg
 permission-dialog-description-extension-app = Permeti ae estension { $extension } di vierzi un colegament di gjenar { $scheme } cun { $appName }?
 permission-dialog-description-system-app = Vierzi il colegament di gjenar { $scheme } cun { $appName }?
 permission-dialog-description-system-noapp = Vierzi il colegament di gjenar { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Permeti a chest sît di vierzi il to tacuin digjitâl?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

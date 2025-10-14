@@ -64,3 +64,16 @@ experimental-features-fx-web-apps-description = Vierç i sîts che tu visitis di
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listis su { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Ogni volte che tu vierzis une gnove schede, ten simpri la tô liste di robis di fâ sot voli. Che e sedi une liste de spese o par preparâ la valîs, organize i tiei plans in { -brand-product-name }. <a data-l10n-name="connect">Condivît la tô opinion</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Temporizadôr in { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Stabilìs un temporizadôr par restâ concentrât, evitâ distrazions o visâti di fâ une pause. <a data-l10n-name="connect">Condivît la tô opinion</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listis e temporizadôr su { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Ogni volte che tu vierzis une gnove schede, ten simpri sot voli la tô liste di robis di fâ. Che e sedi une liste pe spese o par prontâ la valîs , organize i tiei plans in { -brand-product-name }. Configure un temporizadôr par restâ concentrât, judâti a tignî il pas o visâti di fâ une pause. <a data-l10n-name="connect">Condivît la tô opinion</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Ricercje semantiche te cronologjie
+experimental-features-semantic-history-search-description = Dopre un model locâl di Machine Learning par sugjerî, te sbare de direzion di { -brand-product-name }, i elements de cronologjie corelâts aes tôs ricercjis, in gracie de cromprension dal lengaç naturâl. <a data-l10n-name="connect">Condivît la tô opinion</a>
