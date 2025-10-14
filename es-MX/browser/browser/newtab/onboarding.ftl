@@ -499,6 +499,17 @@ fx-backup-opt-in-create-password-label = Ingresar contraseña
 fx-backup-opt-in-confirm-btn-label = Continuar
 fx-backup-opt-in-cancel-btn-label = Atrás
 
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Tu copia de seguridad está programada
+fx-backup-confirmation-screen-close-button = Cerrar
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Todos los datos de navegación incluidos
+fx-backup-confirmation-screen-all-data-item-text-2 = Guardado en tu dispositivo
+fx-backup-confirmation-screen-all-data-item-text-3 = Encriptado y protegido con contraseña
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Restaurar desde una copia de seguridad
