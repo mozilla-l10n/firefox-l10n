@@ -543,5 +543,6 @@ restored-from-backup-error-primary-button = Lat att
 onboarding-personalization-use-case-personal-option = Personleg
 onboarding-personalization-use-case-school-option = Skule
 onboarding-personalization-use-case-work-option = Arbeid
+onboarding-personalization-motivation-privacy-option = Personvern og sikkerheit
 onboarding-personalization-motivation-productivity-option = Produktivitet
 onboarding-personalization-motivation-other-option = Anna

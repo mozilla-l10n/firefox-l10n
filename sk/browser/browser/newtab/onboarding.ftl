@@ -487,7 +487,7 @@ create-backup-screen-1-flair = Odporúčané
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Ďalšie informácie</a>
 create-backup-screen-1-sync-label = Synchronizácia s { -brand-product-name(case: "ins") }
 create-backup-screen-1-sync-body = Zálohuje všetky prihlásené zariadenia
-create-backup-screen-1-backup-label = Zálohovať do počítača
+create-backup-screen-1-backup-label = Zálohovanie do počítača
 create-backup-screen-1-backup-body = Ukladá sa do vášho zariadenia alebo na OneDrive
 create-backup-select-tile-button-label = Vybrať
 create-backup-back-button-label = Naspäť
@@ -561,3 +561,8 @@ onboarding-personalization-subtitle = Odpovedzte na niekoľko otázok a my vám 
 onboarding-personalization-use-case-title = Na čo budete používať { -brand-short-name }?
 onboarding-personalization-use-case-personal-option = Osobné použitie
 onboarding-personalization-use-case-school-option = Škola
+onboarding-personalization-use-case-work-option = Práca
+onboarding-personalization-motivation-title = Ktoré funkcie { -brand-short-name(case: "gen") } sú pre vás najdôležitejšie?
+onboarding-personalization-motivation-privacy-option = Súkromie a bezpečnosť
+onboarding-personalization-motivation-productivity-option = Produktivita
+onboarding-personalization-motivation-other-option = Iné

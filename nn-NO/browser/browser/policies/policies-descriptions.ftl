@@ -79,6 +79,7 @@ policy-ExtensionSettings = Handsam alle aspekt av utvidingsinstallasjonen.
 policy-ExtensionUpdate = Slå på eller slå av automatisk utvidingsoppdateringar.
 policy-FirefoxHome2 = Konfigurer { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Konfigurer { -firefox-suggest-brand-name }.
+policy-GenerativeAI = Konfigurer generative AI-funksjonar.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Tving direkte navigering på intranettet i staden for å søkje når du skriv inn enkeltord i adressefeltet.
 policy-Handlers = Konfigurer standard applikasjonshandsamar.
 policy-HardwareAcceleration = Om inaktiv, slå av maskinvareakselerasjon.
@@ -97,6 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbake til foreld
 ##
 
 policy-LocalFileLinks = Tillat at bestemte nettstadar koplar til lokale filer.
+policy-LocalNetworkAccess = Slå på eller slå av kontrollar for lokal nettverkstilgang.
 policy-ManagedBookmarks = Konfigurerer ei liste over bokmerke som vert administrert av ein administrator og som ikkje kan endrast av brukaren.
 policy-ManualAppUpdateOnly = Tillat berre manuelle oppdateringar og gi ikkje brukaren varsel om oppdateringar.
 policy-PrimaryPassword = Krev eller hindre bruk av eit hovudpassord.
