@@ -487,6 +487,52 @@ create-backup-screen-1-flair = Odporúčané
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Ďalšie informácie</a>
 create-backup-screen-1-sync-label = Synchronizácia s { -brand-product-name(case: "ins") }
 create-backup-screen-1-sync-body = Zálohuje všetky prihlásené zariadenia
+create-backup-screen-1-backup-label = Zálohovať do počítača
+create-backup-screen-1-backup-body = Ukladá sa do vášho zariadenia alebo na OneDrive
+create-backup-select-tile-button-label = Vybrať
+create-backup-back-button-label = Naspäť
+create-backup-show-fewer =
+    .label = Zobrazovať menej podobných informácií
+create-backup-screen-2-title = Vyberte údaje { -brand-product-name(case: "gen") }, ktoré chcete zálohovať
+create-backup-screen-2-subtitle = Trvá to len minútu. Vaše údaje sa zálohujú raz denne.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Jednoduché nastavenie
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Záložky, história, nastavenia a ďalšie
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Nezahŕňa heslá a platby
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Nie je šifrované
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Všetky údaje
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Zahŕňa heslá a platby
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Zašifrované heslom
+create-backup-screen-3-title = Vytvorte heslo pre záložný súbor
+create-backup-screen-3-subtitle = Vyžaduje sa na šifrovanie vašich údajov. Uložte si ho na miesto, ktoré si zapamätáte.
+fx-backup-opt-in-header = Vyberte umiestnenie súboru
+fx-backup-opt-in-filepath-label = Vyberte si miesto, ktoré plánujete preniesť do nového zariadenia, napríklad OneDrive.
+fx-backup-opt-in-create-password-label = Zadajte heslo
+fx-backup-opt-in-confirm-btn-label = Pokračovať
+fx-backup-opt-in-cancel-btn-label = Naspäť
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Vaše zálohovanie je naplánované
+fx-backup-confirmation-screen-close-button = Zavrieť
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Všetky údaje prehliadania sú zahrnuté
+fx-backup-confirmation-screen-all-data-item-text-2 = Uložené do vášho zariadenia
+fx-backup-confirmation-screen-all-data-item-text-3 = Šifrované a chránené heslom
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Záložky, história, nastavenia a ďalšie údaje zahrnuté
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Uložené do vášho zariadenia
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Heslá a platby nie sú zahrnuté
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Ak chcete zahrnúť citlivé údaje, prejdite do <a data-l10n-name="settings">Nastavení</a>.
+fx-backup-confirmation-screen-item-subtext-1 = Vaše zálohovanie sa spustí o niekoľko minút a bude sa spúšťať raz denne. Priebeh si môžete pozrieť v <a data-l10n-name="settings">Nastaveniach</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } vyhľadá vašu zálohu, ak ju budete potrebovať preinštalovať.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -506,3 +552,12 @@ restored-from-backup-success-no-checklist-primary-button = Pokračovať
 restored-from-backup-error-title = Hmm, vyskytol sa problém so záložným súborom.
 restored-from-backup-error-subtitle = Ak máte iný záložný súbor { -brand-short-name(case: "gen") }, skúste obnoviť z neho. <a data-l10n-name="restore-problems">Stále máte problémy?</a>
 restored-from-backup-error-primary-button = Zavrieť
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Prispôsobte si svoj zážitok z { -brand-short-name(case: "gen") }
+onboarding-personalization-subtitle = Odpovedzte na niekoľko otázok a my vám odporučíme funkcie a rozšírenia, ktoré vám pomôžu zlepšiť používanie { -brand-short-name(case: "gen") }.
+onboarding-personalization-use-case-title = Na čo budete používať { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Osobné použitie
+onboarding-personalization-use-case-school-option = Škola
