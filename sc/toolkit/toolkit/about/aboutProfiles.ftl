@@ -15,5 +15,13 @@ profiles-flush-restart-button = Torra a aviare { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profilu: { $name }
+profiles-current-profile = Custu est su profilu chi ses impreende e no ddu podes cantzellare.
+profiles-in-use-profile = Custu profilu est essende impreadu in un’àtera aplicatzione e no ddu podes cantzellare.
 profiles-rename = Muda su nòmine
 profiles-remove = Boga
+profiles-rename-profile-title = Muda su nòmine de su profilu
+# Variables:
+#   $name (String) - Name of the profile
+profiles-rename-profile = Muda su nòmine de su profilu { $name }
+profiles-delete-profile-title = Cantzella su profilu
+profiles-delete-profile-failed-message = Ddoe at àpidu una faddina proende a cantzellare custu profilu.

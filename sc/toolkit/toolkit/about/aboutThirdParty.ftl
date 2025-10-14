@@ -13,3 +13,6 @@ third-party-status-blocked = Blocadu
 third-party-button-copy-to-clipboard = Còpia is datos chene protzessare in punta de billete
 third-party-button-expand =
     .title = Ammustra informatziones detalliadas
+third-party-should-restart-title = Torra a aviare { -brand-short-name }
+third-party-restart-now = Torra a aviare immoe
+third-party-restart-later = Torra a aviare prus tardu

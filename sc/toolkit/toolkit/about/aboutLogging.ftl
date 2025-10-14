@@ -13,3 +13,11 @@ about-logging-set-log-file = Aberi s'archìviu de registru
 about-logging-preset-custom-label = Personalizadu
 # Error handling
 about-logging-error = Faddina:
+
+## Uploaded Profiles section
+
+about-logging-delete-profile-confirm-title = Cantzella su profilu
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Seguru chi boles cantzellare su profilu “{ $profileName }”? Custa atzione no dda podes annullare.

@@ -4,10 +4,18 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Sèbera unu profilu de utente
+profile-selection-button-accept =
+    .label = Avia { -brand-short-name }
 profile-selection-button-cancel =
     .label = Serra
 profile-selection-new-button =
     .label = Crea unu profilu…
+    .accesskey = C
+profile-selection-rename-button =
+    .label = Muda su nòmine de su profilu…
+    .accesskey = M
+profile-selection-delete-button =
+    .label = Cantzella su profilu…
     .accesskey = C
 profile-selection-conflict-message = Un’àtera còpia de { -brand-product-name } at fatu modìficas a is profilos. Depes torrare a aviare { -brand-short-name } prima de fàghere àteros càmbios.
 
@@ -18,5 +26,5 @@ profile-manager-work-offline =
     .label = Traballa a foras de lìnia
     .accesskey = f
 profile-manager-use-selected =
-    .label = Imprea su profilu seberadu chena pregontare a s'aviu
+    .label = Imprea su profilu seberadu sena preguntare a s’aviu
     .accesskey = p
