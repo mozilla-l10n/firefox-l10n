@@ -231,6 +231,22 @@ fox-doodle-pin-secondary = ახლა არა
 set-default-pdf-handler-headline = <strong>თქვენს PDF-ებს ახლა უკვე გახნის { -brand-short-name }.</strong> ჩაასწორეთ ან დაამატეთ ხელმოწერა პირდაპირ ბრაუზერიდან. შესაცვლელად მონახეთ „PDF“ პარამეტრებში.
 set-default-pdf-handler-primary = გასაგებია
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = ხელმოწერა წყვეტილ ხაზზე — ან სადაც მოგიხერხდებათ!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = მოხაზეთ, აკრიფეთ ან ატვირთეთ თქვენი ხელმოწერა, შემდეგ კი განათავსეთ ზუსტად სადაც გსურთ. გადაინახეთ საჭირო ხელმოწერები სხვა დროისთვისაც.
+annotations-make-default-pdf-handler-title = გახდეს { -brand-short-name } ნაგულისხმევი PDF-შემსწორებელი?
+annotations-make-default-pdf-handler-subtitle = წვდომა გექნებათ ჩვენს ხელსაწყოებთან PDF-ფაილის ყოველი გახსნისას.
+annotations-make-default-pdf-primary-cta =
+    .label = ნაგულისხმევად დაყენება
+annotations-make-default-pdf-next =
+    .label = შემდეგი
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = ახალ მოწყობილობაზე გადადიხართ?

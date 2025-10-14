@@ -20,6 +20,11 @@ permission-dialog-description-file-app = ნებას რთავთ ამ 
 permission-dialog-description-extension-app = ნებას რთავთ, რომ { $extension } შეძლებს { $scheme }-ბმულისთვის გამოიყენოს { $appName }?
 permission-dialog-description-system-app = გაიხსნას { $scheme }-ბმული პროგრამით { $appName }?
 permission-dialog-description-system-noapp = გაიხსნას { $scheme }-ბმული?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = ნებას რთავთ ამ საიტს, გახსნას თქვენი ციფრული საფულე?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = <strong>{ $scheme }</strong>-ბმულის გახსნით ეს საიტი შეძლებს გაეცნოს თქვენი ვინაობის მონაცემებს, რომელსაც მიაწვდის <strong>{ $appName }</strong>. განაგრძეთ მხოლოდ იმ შემთხვევაში, თუ ენდობით ამ საიტს.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
