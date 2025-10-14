@@ -307,9 +307,17 @@ tab-group-editor-color-selector2-red = Coch
 tab-group-description = { $tabGroupName } — Grŵp Tab
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Caewyd
 tab-group-label-tooltip-expanded = { $tabGroupName } — Ehangwyd
+tab-group-preview-name =
+    .aria-label = Tabiau mewn grŵp sydd wedi'i leihau
 tab-context-unnamed-group =
     .label = Grŵp heb ei enwi
 tab-group-name-default = Grŵp dienw
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Rhestr tabiau ar agor
+tab-group-preview-closed-description = Rhestr tabiau ar gau
 
 ##
 

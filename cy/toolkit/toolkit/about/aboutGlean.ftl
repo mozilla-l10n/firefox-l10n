@@ -180,3 +180,8 @@ about-glean-disable-new-features-button = Analluogi nodweddion newydd
 about-glean-about-data-explanation =
     I bori drwy'r rhestr o ddata a gasglwyd, edrychwch ar y
     <a data-l10n-name="glean-dictionary-link"> { -glean-brand-name } Geiriadur</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Pingiau Mewnol

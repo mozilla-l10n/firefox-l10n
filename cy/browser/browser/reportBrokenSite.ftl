@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Diolch am helpu { -brand-product-name } i wneud y we yn fwy agored, hygyrch, ac yn well i bawb.
 report-broken-site-panel-invalid-url-label = Rhowch URL dilys
 report-broken-site-panel-missing-reason-label = Dewiswch reswm
+report-broken-site-panel-blocked-trackers-label =
+    .label = Anfon URLau wedi'u rhwystro gan ddiogelwch rhag tracio
+report-broken-site-panel-blocked-trackers-description = Gall Diogelwch Tracio Uwch rwystro tracwyr a sgriptiau sydd eu hangen ar rai gwefannau i weithio'n iawn.

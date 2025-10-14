@@ -261,6 +261,10 @@ custom-avatar-crop-area =
     .aria-label = Addasu ardal wedi'i docio
 custom-avatar-drag-handle =
     .aria-label = Newid maint ardal tocio
+profiles-appmenu-callout-tour-title = Mae'ch proffil newydd yn barod
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = Yn y ddewislen ☰, tapiwch enw eich proffil i greu un arall, golygu hwn, neu symud rhwng eich bywydau digidol.
+profiles-appmenu-callout-tour-primary-button = Dangos i mi sut
 barbell-avatar = Barbell
 bike-avatar = Beic
 
