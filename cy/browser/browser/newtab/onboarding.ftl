@@ -563,6 +563,7 @@ onboarding-personalization-use-case-title = Ar gyfer beth fyddwch chi'n defnyddi
 onboarding-personalization-use-case-personal-option = Personol
 onboarding-personalization-use-case-school-option = Ysgol/Coleg
 onboarding-personalization-use-case-work-option = Gwaith
+onboarding-personalization-motivation-title = Pa nodweddion o { -brand-short-name } yw'r rhai pwysicaf i chi?
 onboarding-personalization-motivation-privacy-option = Preifatrwydd a Diogelwch
 onboarding-personalization-motivation-productivity-option = Cynhyrchedd
 onboarding-personalization-motivation-other-option = Arall

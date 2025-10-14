@@ -185,3 +185,5 @@ about-glean-about-data-explanation =
 
 about-glean-ping-list-optgroup-built-in =
     .label = Pingiau Mewnol
+about-glean-ping-list-optgroup-custom =
+    .label = Pingiau Cyfaddas

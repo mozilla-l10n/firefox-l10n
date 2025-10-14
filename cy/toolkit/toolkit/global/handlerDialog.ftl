@@ -20,6 +20,17 @@ permission-dialog-description-file-app = Caniatáu i'r ffeil hon agor y ddolen {
 permission-dialog-description-extension-app = Caniatáu i'r estyniad { $extension } agor y ddolen { $scheme } gyda { $appName }?
 permission-dialog-description-system-app = Agor dolen { $scheme } gyda { $appName } ?
 permission-dialog-description-system-noapp = Agor dolen { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Caniatáu i'r wefan hon agor eich waled ddigidol?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i <strong>{ $host }</strong> ofyn am eich hunaniaeth go iawn gyda <strong>{ $appName }</strong>. Ewch ymlaen dim ond os ydych yn ymddiried yn y wefan hon.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i <strong>{ $host }</strong> ofyn am eich hunaniaeth go iawn gyda <strong>{ $appName }</strong>. Ewch ymlaen dim ond os ydych yn ymddiried yn y wefan hon.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i <strong>{ $host }</strong> ofyn am eich hunaniaeth go iawn gyda <strong>{ $appName }</strong>. Ewch ymlaen dim ond os ydych yn ymddiried yn y wefan hon.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i <strong>{ $host }</strong> ofyn am eich hunaniaeth go iawn gyda <strong>{ $appName }</strong>. Ewch ymlaen dim ond os ydych yn ymddiried yn y wefan hon.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
