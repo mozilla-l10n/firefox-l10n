@@ -24,7 +24,13 @@ permission-dialog-description-system-noapp = გაიხსნას { $scheme 
 wallet-custom-scheme-warning-heading =
     .heading = ნებას რთავთ ამ საიტს, გახსნას თქვენი ციფრული საფულე?
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-app = <strong>{ $scheme }</strong>-ბმულის გახსნით ეს საიტი შეძლებს გაეცნოს თქვენი ვინაობის მონაცემებს, რომელსაც მიაწვდის <strong>{ $appName }</strong>. განაგრძეთ მხოლოდ იმ შემთხვევაში, თუ ენდობით ამ საიტს.
+wallet-custom-scheme-warning-host-app = <strong>{ $scheme }</strong>-ბმულის გახსნით <strong>{ $host }</strong> შეძლებს გაეცნოს თქვენი ნამდვილი ვინაობის მონაცემებს, რომელსაც მიაწვდის <strong>{ $appName }</strong>. განაგრძეთ მხოლოდ იმ შემთხვევაში, თუ ენდობით ამ საიტს.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = <strong>{ $scheme }</strong>-ბმულის გახსნით ეს საიტი შეძლებს გაეცნოს თქვენი ნამდვილი ვინაობის მონაცემებს, რომელსაც მიაწვდის <strong>{ $appName }</strong>. განაგრძეთ მხოლოდ იმ შემთხვევაში, თუ ენდობით ამ საიტს.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = <strong>{ $scheme }</strong>-ბმულის გახსნით <strong>{ $host }</strong> შეძლებს გაეცნოს თქვენი ნამდვილი ვინაობის მონაცემებს ციფრული საფულიდან. განაგრძეთ მხოლოდ იმ შემთხვევაში, თუ ენდობით ამ საიტს.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = <strong>{ $scheme }</strong>-ბმულის გახსნით ეს საიტი შეძლებს გაეცნოს თქვენი ნამდვილი ვინაობის მონაცემებს ციფრული საფულიდან. განაგრძეთ მხოლოდ იმ შემთხვევაში, თუ ენდობით ამ საიტს.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

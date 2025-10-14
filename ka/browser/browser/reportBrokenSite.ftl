@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = გმადლობთ რომ გვეხმარებით, თქვენი მხარდაჭერით { -brand-product-name } ცდილობს აქციოს ვებსივრცე მეტად გახსნილი, ხელმისაწვდომი და საყოველთაო სარგებლის მომტანი.
 report-broken-site-panel-invalid-url-label = გთხოვთ შეიყვანეთ მართებული URL-ბმული
 report-broken-site-panel-missing-reason-label = გთხოვთ მიუთითოთ მიზეზი
+report-broken-site-panel-blocked-trackers-label =
+    .label = თვალთვალისგან დაცვისას შეზღუდული ბმულების გადაგზავნა
+report-broken-site-panel-blocked-trackers-description = თვალთვალისგან გაძლიერებულმა დაცვამ ზოგიერთ საიტზე შეიძლება შეზღუდოს გამართულად მუშაობისთვის საჭირო მეთვალყურეები და სკრიპტები.

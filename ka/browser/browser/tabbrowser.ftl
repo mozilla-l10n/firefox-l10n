@@ -255,9 +255,17 @@ tab-group-editor-color-selector2-red = წითელი
 tab-group-description = { $tabGroupName } — ჩანართების ჯგუფი
 tab-group-label-tooltip-collapsed = { $tabGroupName } — ჩაკეცილი
 tab-group-label-tooltip-expanded = { $tabGroupName } — გაშლილი
+tab-group-preview-name =
+    .aria-label = ჩანართები ჩაკეცილ ჯგუფში
 tab-context-unnamed-group =
     .label = უსახელო ჯგუფი
 tab-group-name-default = უსახელო ჯგუფი
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = ჩანართების სია გახსნილია
+tab-group-preview-closed-description = ჩანართების სია დახურულია
 
 ##
 

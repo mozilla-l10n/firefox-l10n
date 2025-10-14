@@ -261,6 +261,7 @@ custom-avatar-crop-area =
     .aria-label = ამოჭრის არეების მორგება
 custom-avatar-drag-handle =
     .aria-label = ამოსაჭრელი ზომების შეცვლა
+profiles-appmenu-callout-tour-title = თქვენი ახალი პროფილი მზადაა
 barbell-avatar = ორბირთულა
 bike-avatar = ველოსიპედი
 
