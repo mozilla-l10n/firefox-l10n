@@ -277,9 +277,17 @@ tab-group-editor-color-selector2-red = Červená
 tab-group-description = { $tabGroupName } — Skupina kariet
 tab-group-label-tooltip-collapsed = { $tabGroupName } — zbalené
 tab-group-label-tooltip-expanded = { $tabGroupName } — rozbalené
+tab-group-preview-name =
+    .aria-label = Karty v zbalenej skupine
 tab-context-unnamed-group =
     .label = Nepomenovaná skupina
 tab-group-name-default = Nepomenovaná skupina
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Zoznam kariet otvorený
+tab-group-preview-closed-description = Zoznam kariet zatvorený
 
 ##
 

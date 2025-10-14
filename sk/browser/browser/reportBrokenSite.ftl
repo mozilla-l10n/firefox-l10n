@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Ďakujeme, že pomáhate { -brand-product-name(case: "dat") } urobiť web otvorenejším, prístupnejším a lepším pre každého.
 report-broken-site-panel-invalid-url-label = Zadajte platnú adresu URL
 report-broken-site-panel-missing-reason-label = Vyberte dôvod
+report-broken-site-panel-blocked-trackers-label =
+    .label = Odosielať adresy URL blokované ochranou sledovania
+report-broken-site-panel-blocked-trackers-description = Rozšírená ochrana pred sledovaním môže blokovať sledovacie prvky a skripty, ktoré niektoré webové stránky potrebujú na správne fungovanie.

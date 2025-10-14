@@ -20,6 +20,17 @@ permission-dialog-description-file-app = Chcete povoliť tomuto súboru otvoriť
 permission-dialog-description-extension-app = Povoliť rozšíreniu { $extension } otvoriť odkaz { $scheme } pomocou aplikácie { $appName }?
 permission-dialog-description-system-app = Otvoriť odkaz { $scheme } pomocou aplikácie { $appName }?
 permission-dialog-description-system-noapp = Chcete otvoriť odkaz { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Povoliť tejto stránke otvoriť vašu digitálnu peňaženku?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Otvorenie odkazu <strong>{ $scheme }</strong> umožňuje stránke <strong>{ $host }</strong> vyžiadať si vašu skutočnú identitu pomocou aplikácie <strong>{ $appName }</strong>. Pokračujte iba v prípade, že tejto stránke dôverujete.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Otvorenie odkazu <strong>{ $scheme }</strong> umožňuje tejto stránke vyžiadať si vašu skutočnú identitu pomocou aplikácie <strong>{ $appName }</strong>. Pokračujte iba v prípade, že tejto stránke dôverujete.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Otvorenie odkazu <strong>{ $scheme }</strong> umožňuje serveru <strong>{ $host }</strong> vyžiadať si vašu skutočnú identitu z vašej digitálnej peňaženky. Pokračujte iba v prípade, že tejto stránke dôverujete.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Otvorenie odkazu <strong>{ $scheme }</strong> umožňuje tejto stránke vyžiadať si vašu skutočnú identitu z vašej digitálnej peňaženky. Pokračujte iba v prípade, že tejto stránke dôverujete.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
