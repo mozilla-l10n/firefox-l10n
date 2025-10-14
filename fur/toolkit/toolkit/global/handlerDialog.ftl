@@ -23,6 +23,14 @@ permission-dialog-description-system-noapp = Vierzi il colegament di gjenar { $s
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = Permeti a chest sît di vierzi il to tacuin digjitâl?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = La viertidure di un colegament <strong>{ $scheme }</strong> e permet a <strong>{ $host }</strong> di domandâ la tô vere identitât in <strong>{ $appName }</strong>. Continue nome se tu calcolis che il sît al sedi atendibil.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = La viertidure di un colegment <strong>{ $scheme }</strong> e permet a chest sît di domandâ la tô vere identitât in <strong>{ $appName }</strong>. Continue nome se tu calcolis che il sît al sedi atendibil.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = La viertidure di un colegament <strong>{ $scheme }</strong> e permet a <strong>{ $host }</strong> di domandâ la tô vere identitât tal to tacuin digjitâl. Continue nome se tu calcolis che il sît al sedi atendibil.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = La viertidure di un colegament <strong>{ $scheme }</strong> e permet a chest sît di domandâ la tô vere identitât tal to tacuin digjitâl. Continue nome se tu calcolis che il sît al sedi atendibil.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
