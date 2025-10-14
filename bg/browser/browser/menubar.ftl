@@ -248,6 +248,13 @@ menu-profiles-manage-profiles =
     .label = Управление на профили
 menu-profiles-new-profile =
     .label = Нов профил
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (текущ)
+menu-profiles-menu =
+    .label = Профили
+    .accesskey = П
 
 ## Tools Menu
 
