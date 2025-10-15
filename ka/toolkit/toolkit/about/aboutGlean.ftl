@@ -136,11 +136,11 @@ about-glean-about-data-list-item-about-telemetry =
     მოძველებული აზომვების შედეგად აღრიცხული მონაცემებისთვის გთხოვთ იხილოთ
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer =
-    გამართვის ჭდეების, სრული უწყებების, პირდაპირი ეთერების ან აზომვების გამოსახულების
+    გამართვის ჭდეების, სრული უწყებების, პირდაპირი ხდომილობის ან აზომვების გამოსახვის
     სანახავად გამოგადგებათ
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler =
-    წარმადობის პროფილის ჩასაწერად და ყველა ჩაწერილი ანაზომის სანახავად, გთხოვთ გამოიყენოთ
+    წარმადობის პროფილის ჩასაწერად და ყველა ჩაწერილი ანაზომის სანახავად გამოიყენეთ
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-metrics-table-header = სრული აზომვები
 # This message refers to the category in which a given metric is recorded.
