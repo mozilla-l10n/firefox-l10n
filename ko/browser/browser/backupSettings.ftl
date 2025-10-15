@@ -31,3 +31,55 @@ settings-data-backup-last-backup-date = 마지막 백업: { DATETIME($date, time
 settings-data-backup-last-backup-location = 위치
 settings-data-backup-last-backup-location-show-in-folder = 폴더에서 보기
 settings-data-backup-last-backup-location-edit = 편집…
+settings-data-create-backup-error = 백업을 만드는 중에 오류가 발생했습니다.  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = 파일 이름: { $fileName }
+settings-data-backup-restore-header = 데이터 복원
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = 다른 기기의 { -brand-product-name } 백업을 사용하여 데이터를 복원하세요.
+settings-data-backup-scheduled-backups-off-restore-choose = 백업 파일 선택…
+
+## These strings are shown under the header if scheduled backups are enabled.
+
+settings-data-backup-scheduled-backups-on-restore-description = 마지막 백업 당시의 { -brand-product-name } 데이터를 복구하세요.
+settings-data-backup-scheduled-backups-on-restore-choose = 복원…
+settings-data-toggle-encryption-label = 민감한 정보 백업
+settings-data-toggle-encryption-description = 비밀번호, 결제 방법 및 쿠키를 암호화하여 백업하세요.
+settings-data-toggle-encryption-support-link = 더 알아보기
+settings-data-change-password = 비밀번호 변경…
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = 백업 켜기
+turn-on-scheduled-backups-description = { -brand-short-name }는 24시간마다 데이터의 스냅샷을 생성합니다. 문제가 있거나 새 기기를 받은 경우 복원할 수 있습니다.
+turn-on-scheduled-backups-support-link = 어떤 것이 백업되나요?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = 위치
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (권장)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] 선택…
+       *[other] 찾아보기…
+    }
+turn-on-scheduled-backups-encryption-label = 민감한 정보 백업
+turn-on-scheduled-backups-encryption-description = 비밀번호, 결제 방법 및 쿠키를 암호화하여 백업하세요.
+turn-on-scheduled-backups-encryption-create-password-label = 비밀번호
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = 비밀번호 재입력
+turn-on-scheduled-backups-cancel-button = 취소
+turn-on-scheduled-backups-confirm-button = 백업 켜기
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = 선택한 백업 폴더에 문제가 발생했습니다. 다른 폴더를 선택하고 다시 시도하세요.
+backup-error-file-system = { -brand-short-name }를 백업하는 동안 선택한 백업 폴더에 문제가 발생했습니다.
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = 백업을 끄시겠습니까?
+turn-off-scheduled-backups-description = 모든 백업 데이터도 삭제됩니다. 이 작업은 되돌릴 수 없습니다.
