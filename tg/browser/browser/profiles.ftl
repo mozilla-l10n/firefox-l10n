@@ -261,6 +261,7 @@ custom-avatar-crop-area =
     .aria-label = Танзими минтақаи буриш
 custom-avatar-drag-handle =
     .aria-label = Иваз кардани минтақаи буриш
+profiles-appmenu-callout-tour-primary-button = Нишон диҳед, ки чӣ тавр
 barbell-avatar = Вазна
 bike-avatar = Дучарха
 

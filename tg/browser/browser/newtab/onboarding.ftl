@@ -482,6 +482,13 @@ desktop-to-mobile-qr-code-alt =
 
 create-backup-select-tile-button-label = Интихоб кардан
 create-backup-back-button-label = Ба қафо
+fx-backup-opt-in-create-password-label = Ниҳонвожаро ворид намоед
+fx-backup-opt-in-confirm-btn-label = Идома додан
+fx-backup-opt-in-cancel-btn-label = Ба қафо
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-close-button = Пӯшидан
 
 ## Restore from Backup Flow about:welcome screens
 
