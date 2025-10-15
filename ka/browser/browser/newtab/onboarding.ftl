@@ -510,6 +510,30 @@ create-backup-screen-2-all-label = ყველა მონაცემი
 create-backup-screen-2-all-list-2 = მოიცავს პაროლებსა და გადახდის საშუალებებს
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = დაშიფრულია პაროლით
+create-backup-screen-3-title = შექმენით სამარქაფო ფაილის პაროლი
+create-backup-screen-3-subtitle = საჭიროა თქვენი მონაცემების დასაშიფრად. შეინახეთ იოლად დასამახსოვრებელ ადგილას.
+fx-backup-opt-in-header = ფაილის მდებარეობის შერჩევა
+fx-backup-opt-in-filepath-label = მიუთითეთ ისეთი ადგილი, რომლის გადატანასაც აპირებთ ახალ მოწყობილობაზე, თუნდაც OneDrive.
+fx-backup-opt-in-create-password-label = შეიყვანეთ პაროლი
+fx-backup-opt-in-confirm-btn-label = განაგრძეთ
+fx-backup-opt-in-cancel-btn-label = უკან
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = თქვენი მარქაფი დაგეგმილია
+fx-backup-confirmation-screen-close-button = დახურვა
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = დათვალიერების ყველა მონაცემს მოიცავს
+fx-backup-confirmation-screen-all-data-item-text-2 = ინახება თქვენს მოწყობილობაზე
+fx-backup-confirmation-screen-all-data-item-text-3 = დაშიფრულია და პაროლით დაცულია
+fx-backup-confirmation-screen-easy-setup-item-text-1 = მოიცავს სანიშნებს, ისტორიას, პარამეტრებსა და სხვ.
+fx-backup-confirmation-screen-easy-setup-item-text-2 = ინახება თქვენს მოწყობილობაზე
+fx-backup-confirmation-screen-easy-setup-item-text-3 = პაროლებსა და გადახდის საშუალებებს არ მოიცავს
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = გადადით <a data-l10n-name="settings">პარამეტრებზე</a> საფრთხილო მონაცემების დასამატებლად.
+fx-backup-confirmation-screen-item-subtext-1 = დამარქაფება რამდენიმე წუთში დაიწყება და გაეშვება დღეში ერთხელ. წინსვლის შემოწმება შეგიძლიათ <a data-l10n-name="settings">პარამეტრებიდან</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } მოიძიებს თქვენს მარქაფს, თუ ხელახლა დაყენება დაგჭირდებათ.
 
 ## Restore from Backup Flow about:welcome screens
 
