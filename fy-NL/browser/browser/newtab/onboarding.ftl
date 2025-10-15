@@ -513,6 +513,8 @@ create-backup-screen-2-all-list-3 = Fersifere mei in wachtwurd
 create-backup-screen-3-title = Wachtwurd foar in reservekopybestân oanmeitsje
 create-backup-screen-3-subtitle = Fereaske om jo gegevens te fersiferjen. Bewarje it op in plak dat jo ûnthâlde kinne.
 fx-backup-opt-in-header = Bestânslokaasje kieze
+fx-backup-opt-in-filepath-label = Kies in lokaasje dy’t jo nei in nij apparaat oersette wolle, lykas OneDrive.
+fx-backup-opt-in-create-password-label = Fier wachtwurd yn
 fx-backup-opt-in-confirm-btn-label = Trochgean
 fx-backup-opt-in-cancel-btn-label = Tebek
 
@@ -529,6 +531,9 @@ fx-backup-confirmation-screen-all-data-item-text-3 = Fersifere en befeilige mei 
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Ynklusyf blêdwizers, skiednis, ynstellingen en oare gegevens
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Bewarre op jo apparaat
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Wachtwurden en betelmetoaden net ynbegrepen
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Gean nei <a data-l10n-name="settings">Ynstellingen</a> om gefoelige gegevens op te nimmen.
+fx-backup-confirmation-screen-item-subtext-1 = It meitsjen fan jo reservekopy begjint oer in pear minuten en wurdt ien kear deis útfierd. Jo kinne de fuortgong kontrolearje yn <a data-l10n-name="settings">Ynstellingen</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } siket nei jo reservekopy as jo opnij ynstallearje moatte.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -552,6 +557,7 @@ restored-from-backup-error-primary-button = Slute
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Pas jo { -brand-short-name }-ûnderfining oan
 onboarding-personalization-use-case-personal-option = Persoanlik
 onboarding-personalization-use-case-school-option = Skoalle
 onboarding-personalization-use-case-work-option = Wurk
