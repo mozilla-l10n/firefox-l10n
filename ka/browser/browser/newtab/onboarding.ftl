@@ -557,6 +557,12 @@ restored-from-backup-error-primary-button = დახურვა
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
-onboarding-personalization-use-case-title = რისთვის გადგებათ მეტად { -brand-short-name }?
+onboarding-personalization-title = მოირგეთ { -brand-short-name } უკეთ გამოყენებისთვის
+onboarding-personalization-use-case-title = რა საქმისთვის გადგებათ მეტად { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = პირადი
+onboarding-personalization-use-case-school-option = სასკოლო
+onboarding-personalization-use-case-work-option = სამსახურეობრივი
 onboarding-personalization-motivation-title = რომელი შესაძლებლობების გამოა { -brand-short-name } ყველაზე მნიშვნელოვანი თქვენთვის?
 onboarding-personalization-motivation-privacy-option = პირადულობა და უსაფრთხოება
+onboarding-personalization-motivation-productivity-option = შედეგიანობა
+onboarding-personalization-motivation-other-option = სხვა
