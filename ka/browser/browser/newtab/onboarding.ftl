@@ -553,3 +553,10 @@ restored-from-backup-success-no-checklist-primary-button = განაგრძ
 restored-from-backup-error-title = ჰმ, ხარვეზი წარმოიქმნა სამარქაფო ფაილთან დაკავშირებით.
 restored-from-backup-error-subtitle = თუ სხვა ფაილშიც გაქვთ { -brand-short-name } დამარქაფებული, მოსინჯეთ მაგ ფაილიდან აღდგენა. <a data-l10n-name="restore-problems">კვლავ ხარვეზებია?</a>
 restored-from-backup-error-primary-button = დახურვა
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-title = რისთვის გადგებათ მეტად { -brand-short-name }?
+onboarding-personalization-motivation-title = რომელი შესაძლებლობების გამოა { -brand-short-name } ყველაზე მნიშვნელოვანი თქვენთვის?
+onboarding-personalization-motivation-privacy-option = პირადულობა და უსაფრთხოება
