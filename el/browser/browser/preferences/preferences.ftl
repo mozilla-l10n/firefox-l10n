@@ -167,6 +167,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Άνοιγμα συνδέσμων σε καρτέλες αντί για νέα παράθυρα
     .accesskey = π
+open-external-link-next-to-active-tab =
+    .label = Άνοιγμα συνδέσμων από εφαρμογές δίπλα στην ενεργή καρτέλα
 ask-on-close-multiple-tabs =
     .label = Ερώτηση πριν από το κλείσιμο πολλαπλών καρτελών
     .accesskey = π
@@ -1149,6 +1151,10 @@ sitedata-header = Cookie και δεδομένα ιστοτόπων
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδομένων ιστοτόπου και προσωρινής μνήμης…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Τα αποθηκευμένα cookie, το ιστορικό, τα δεδομένα ιστοτόπων και η προσωρινή μνήμη καταλαμβάνουν <strong>{ $value } { $unit }</strong> χώρου στον δίσκο.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
