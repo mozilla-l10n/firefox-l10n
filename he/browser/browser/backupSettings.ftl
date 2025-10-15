@@ -111,3 +111,31 @@ backup-file-creation-date-label = נוצר:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = כיצד לשחזר:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = יש לפתוח את תפריט היישום ☰ ולעבור להגדרות > סנכרון
+backup-file-moz-browser-restore-step-2 = ללחוץ על ״בחירת קובץ גיבוי״ ולבחור בקובץ הזה
+backup-file-moz-browser-restore-step-3 = להפעיל מחדש את { -brand-short-name } כשתוצג הבקשה לכך
+backup-file-other-browser-restore-step-1 = יש להוריד ולהתקין את { -brand-short-name }
+backup-file-download-moz-browser-button = הורדה
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = להריץ את { -brand-short-name }, לפתוח את תפריט היישום ☰ ולעבור להגדרות > סנכרון
+backup-file-other-browser-restore-step-3 = ללחוץ על ״בחירת קובץ גיבוי״ ולבחור בקובץ הזה
+backup-file-other-browser-restore-step-4 = להפעיל מחדש את { -brand-short-name } כשתוצג הבקשה לכך
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>הערה:</b> נמצא קובץ גיבוי אחד נוסף
+       *[other] <b>הערה:</b> נמצאו { $numberOfOtherBackupsFound } קובצי גיבוי נוספים
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = נוצר בתאריך { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ב־{ $machineName }
