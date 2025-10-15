@@ -12,7 +12,9 @@ autofill-manage-remove-button = بیسڕەوە
 autofill-manage-add-button = زیادکردن...
 autofill-manage-edit-button = دەستکاریکردن...
 
-## The address capture doorhanger
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-given-name = ناوی یەکەم
 autofill-address-additional-name = ناوی باوک
@@ -20,27 +22,33 @@ autofill-address-family-name = ناوی باپیر
 autofill-address-organization = ڕێکخراو
 autofill-address-street = ناونیشانی گەڕەک
 
-## address-level-3 (Sublocality) names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
-# Used in IR, MX
+# Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-neighborhood = دراوسێ
-# Used in MY
+# Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-village-township = لادێ یان ناوچە
 autofill-address-island = دوورگە
 
-## address-level-1 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-province = پارێزگا
 autofill-address-state = هەرێم
 autofill-address-county = وڵات
-# Used in HK
+# Used in Honk Kong (HK) as primary address information (1 level below the country level).
 autofill-address-area = ڕووبەر
-# Used in AE
+# Used in United Arab Emirates (AE) as primary address information (1 level below the country level).
 autofill-address-emirate = ئەمارەت
 
-## Postal code name types
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
-# Used in IN
+# Postal code field used in India (IN).
 autofill-address-pin = هەڵواسین
 autofill-address-postal-code = کۆدی پۆستە
 

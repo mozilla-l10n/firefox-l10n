@@ -509,6 +509,7 @@ create-backup-screen-2-all-label = Все данные
 create-backup-screen-2-all-list-2 = Включает пароли и платежи
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Зашифровано с паролем
+# Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Создать пароль для резервной копии
 create-backup-screen-3-subtitle = Требуется для шифрования ваших данных. Храните его в месте, которое запомните.
 fx-backup-opt-in-header = Выберите расположение файла

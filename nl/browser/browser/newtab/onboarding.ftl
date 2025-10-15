@@ -510,6 +510,7 @@ create-backup-screen-2-all-label = Alle gegevens
 create-backup-screen-2-all-list-2 = Bevat wachtwoorden en betaalmethoden
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Versleuteld met een wachtwoord
+# Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Wachtwoord voor een reservekopiebestand aanmaken
 create-backup-screen-3-subtitle = Vereist om uw gegevens te versleutelen. Bewaar het op een plek die u kunt onthouden.
 fx-backup-opt-in-header = Bestandslocatie kiezen

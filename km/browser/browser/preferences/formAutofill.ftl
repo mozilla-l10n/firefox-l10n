@@ -15,7 +15,9 @@ autofill-manage-remove-button = យកចេញ
 autofill-manage-add-button = បញ្ចូល…
 autofill-manage-edit-button = កែសម្រួល…
 
-## The address capture doorhanger
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = កែអាសយដ្ឋាន
@@ -25,18 +27,25 @@ autofill-address-family-name = នាមត្រកូល
 autofill-address-organization = អង្គភាព
 autofill-address-street = អាសយ​ដ្ឋាន​វិថី
 
-## address-level-2 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-city = ទីក្រុង
 
-## address-level-1 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-province = ខេត្ត
 autofill-address-state = រដ្ឋ
 
-## Postal code name types
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-postal-code = លេខ​កូដ​ប្រៃ​ស​ណី​យ
+# Postal code field.
 autofill-address-zip = លេខ​កូដ​តំបន់
 
 ##

@@ -15,7 +15,9 @@ autofill-manage-remove-button = हटाउनुहोस्
 autofill-manage-add-button = थप्नुहोस्…
 autofill-manage-edit-button = सम्पादन गर्नुहोस्…
 
-## The address capture doorhanger
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ठेगाना सम्पादन गर्नुहोस्
@@ -25,18 +27,25 @@ autofill-address-family-name = थर
 autofill-address-organization = सङ्गठन
 autofill-address-street = सडक ठेगाना
 
-## address-level-2 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-city = सहर
 
-## address-level-1 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-province = प्रदेश
 autofill-address-state = स्टेट
 
-## Postal code name types
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-postal-code = पोष्ट कोड
+# Postal code field.
 autofill-address-zip = ZIP कोड
 
 ##

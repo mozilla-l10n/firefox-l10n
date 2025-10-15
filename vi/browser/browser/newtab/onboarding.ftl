@@ -509,6 +509,7 @@ create-backup-screen-2-all-label = Tất cả dữ liệu
 create-backup-screen-2-all-list-2 = Bao gồm mật khẩu và thanh toán
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Được mã hóa bằng mật khẩu
+# Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Tạo mật khẩu cho tập tin sao lưu
 create-backup-screen-3-subtitle = Cần mã hóa dữ liệu của bạn. Lưu trữ nó ở nơi bạn dễ nhớ.
 fx-backup-opt-in-header = Chọn vị trí tập tin

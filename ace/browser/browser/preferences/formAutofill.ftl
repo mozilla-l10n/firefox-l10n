@@ -11,12 +11,17 @@ autofill-manage-remove-button = Sampoh
 autofill-manage-add-button = Tamah…
 autofill-manage-edit-button = Andam
 
-## The address capture doorhanger
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-given-name = Nan Phoen
 
-## Postal code name types
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
+# Postal code field.
 autofill-address-zip = Kode Pos
 
 ##

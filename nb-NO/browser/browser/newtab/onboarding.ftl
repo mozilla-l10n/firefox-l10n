@@ -509,6 +509,7 @@ create-backup-screen-2-all-label = Alle data
 create-backup-screen-2-all-list-2 = Inkluderer passord og betalinger
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Kryptert med et passord
+# Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Opprett et passord for sikkerhetskopifil
 create-backup-screen-3-subtitle = Kreves for å kryptere dataene dine. Lagre dem på et sted du husker.
 fx-backup-opt-in-header = Velg filplassering

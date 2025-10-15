@@ -7,7 +7,9 @@
 
 autofill-manage-edit-button = آلشت…
 
-## The address capture doorhanger
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 address-capture-edit-doorhanger-header = آلشت نشۊوی
 address-capture-learn-more-button =

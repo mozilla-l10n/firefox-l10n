@@ -509,6 +509,7 @@ create-backup-screen-2-all-label = Všetky údaje
 create-backup-screen-2-all-list-2 = Zahŕňa heslá a platby
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Zašifrované heslom
+# Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Vytvorte heslo pre záložný súbor
 create-backup-screen-3-subtitle = Vyžaduje sa na šifrovanie vašich údajov. Uložte si ho na miesto, ktoré si zapamätáte.
 fx-backup-opt-in-header = Vyberte umiestnenie súboru

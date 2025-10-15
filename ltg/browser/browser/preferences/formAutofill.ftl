@@ -15,7 +15,9 @@ autofill-manage-remove-button = Nūjimt
 autofill-manage-add-button = Pīvīnōt…
 autofill-manage-edit-button = Redigeit…
 
-## The address capture doorhanger
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Lobōt adresi
@@ -25,18 +27,25 @@ autofill-address-family-name = Uzvōrds
 autofill-address-organization = Uzjāmums
 autofill-address-street = Adrese
 
-## address-level-2 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-city = Piļsāta
 
-## address-level-1 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-province = Nūvods
 autofill-address-state = Štats
 
-## Postal code name types
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-postal-code = Posta indekss
+# Postal code field.
 autofill-address-zip = Posta indekss
 
 ##

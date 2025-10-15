@@ -15,7 +15,9 @@ autofill-manage-remove-button = Kwany
 autofill-manage-add-button = Med…
 autofill-manage-edit-button = Yub…
 
-## The address capture doorhanger
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Yub kanonge
@@ -25,17 +27,24 @@ autofill-address-family-name = Nying Kwon
 autofill-address-organization = Dul
 autofill-address-street = Kanonge me yoo gudo
 
-## address-level-2 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-city = Boma
 
-## address-level-1 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-province = But lobo
 autofill-address-state = District
 
-## Postal code name types
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
+# Postal code field.
 autofill-address-zip = Kod me ZIP
 
 ##

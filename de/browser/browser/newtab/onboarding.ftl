@@ -509,6 +509,7 @@ create-backup-screen-2-all-label = Alle Daten
 create-backup-screen-2-all-list-2 = Enthält Passwörter und Zahlungen
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Mit Passwort verschlüsselt
+# Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Passwort für eine Sicherungsdatei erstellen
 fx-backup-opt-in-header = Dateipfad wählen
 fx-backup-opt-in-create-password-label = Passwort eingeben

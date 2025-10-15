@@ -510,6 +510,7 @@ create-backup-screen-2-all-label = Toutes les données
 create-backup-screen-2-all-list-2 = Inclut les mots de passe et les moyens de paiement
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Chiffré par un mot de passe
+# Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Créez un mot de passe pour le fichier de sauvegarde
 create-backup-screen-3-subtitle = Nécessaire pour chiffrer vos données. Conservez-le en lieu sûr.
 fx-backup-opt-in-header = Choisir l’emplacement du fichier

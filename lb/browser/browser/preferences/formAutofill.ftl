@@ -8,14 +8,18 @@
 autofill-manage-addresses-list-header = Adressen
 autofill-manage-remove-button = Ewechhuelen
 
-## The address capture doorhanger
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adress änneren
 autofill-address-given-name = Virnumm
 autofill-address-organization = Organisatioun
 
-## address-level-1 names
+## Labels for address fields (e.g. for a mailing address) used as part of the form
+## autofill feature. For more information on the address structure (e.g. levels),
+## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 autofill-address-province = Provënz
 

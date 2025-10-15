@@ -458,6 +458,7 @@ create-backup-screen-2-all-label = כל הנתונים
 create-backup-screen-2-all-list-2 = כולל ססמאות ואמצעי תשלום
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = מוצפן באמצעות ססמה
+# Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = יצירת ססמה לקובץ הגיבוי
 create-backup-screen-3-subtitle = נדרשת להצפנת הנתונים שלך. יש לאחסן אותה במקום שקל לזכור.
 fx-backup-opt-in-header = בחירת מיקום הקובץ

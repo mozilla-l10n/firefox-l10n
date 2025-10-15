@@ -486,6 +486,7 @@ create-backup-screen-2-all-label = 所有数据
 create-backup-screen-2-all-list-2 = 包含密码和付款信息
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = 由密码加密保护
+# Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = 创建备份文件的密码
 fx-backup-opt-in-header = 选择文件位置
 fx-backup-opt-in-create-password-label = 请输入密码
