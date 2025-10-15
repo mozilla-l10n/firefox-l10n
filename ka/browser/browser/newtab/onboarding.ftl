@@ -478,6 +478,39 @@ sync-to-mobile-button-label = დასინქრონება მობი�
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-კოდი, რომ ჩამოტვირთოთ { -brand-product-name } მობილურზე
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    აპირებთ განახლებით დააყენოთ Windows 11?
+    ჯერ { -brand-product-name } დაამარქაფებს თქვენს მონაცემებს.
+create-backup-screen-1-subtitle = მიანიჭეთ თავისთავადი დაცვა თქვენს პაროლებს, სანიშნებსა და სხვა მონაცემებს 1–2 წუთში.
+create-backup-screen-1-flair = სასურველი
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">ვრცლად</a>
+create-backup-screen-1-sync-label = დაასინქრონეთ – { -brand-product-name }
+create-backup-screen-1-sync-body = დაამარქაფებს ანგარიშზე შესულ ყველა მოწყობილობას
+create-backup-screen-1-backup-label = დამარქაფება კომპიუტერში
+create-backup-screen-1-backup-body = შენახვისთვის გამოიყენება თქვენი მოწყობილობა ან OneDrive
+create-backup-select-tile-button-label = არჩევა
+create-backup-back-button-label = უკან
+create-backup-show-fewer =
+    .label = იშვიათად ჩვენება
+create-backup-screen-2-title = აირჩიეთ, რომელ მონაცემებს დაამარქაფებს { -brand-product-name }
+create-backup-screen-2-subtitle = მხოლოდ ერთ წუთს გასტანს. თქვენი მონაცემების დამარქაფდება დღეში ერთხელ.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = ადვილი გამართვა
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = სანიშნები, ისტორია, პარამეტრები და სხვა
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = არ მოიცავს პაროლებსა და გადახდის საშუალებებს
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = დაუშიფრავია
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = ყველა მონაცემი
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = მოიცავს პაროლებსა და გადახდის საშუალებებს
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = დაშიფრულია პაროლით
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = აღდგენა მარქაფიდან
