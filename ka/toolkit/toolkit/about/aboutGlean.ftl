@@ -106,8 +106,8 @@ about-glean-adhoc-explanation2 =
     გაზომვის დასახელებისთვის <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
-    გაითვალისწინეთ, რომ Glean JS API გამოყენება ხელსაწყოთა ველის ბრძანებებში.
-    ეს ნიშნავს, რომ აზომვების ჯგუფისა და აზომვების დასახელების გაფორმებისთვის გამოიყენება
+    გაითვალისწინეთ, რომ Glean JS API გამოიყენება ხელსაწყოთა ველის ბრძანებებში.
+    ეს ნიშნავს, რომ აზომვების ჯგუფსა და აზომვების დასახელების გაფორმებას ესაჭიროება
     <code>camelCase</code> განსხვავებით Rust და C++ API-ებისგან.
 about-glean-profiler-explanation =
     ყველა ჩაწერილი მაჩვენებლის სრულად სანახავად შეგიძლიათ გამოიყენოთ { -profiler-brand-name }.
