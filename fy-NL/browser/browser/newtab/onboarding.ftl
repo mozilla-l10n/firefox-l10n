@@ -558,7 +558,12 @@ restored-from-backup-error-primary-button = Slute
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Pas jo { -brand-short-name }-ûnderfining oan
+onboarding-personalization-subtitle = Beantwurdzje in pear fragen en wy sille funksjes en útwreidingen oanrekommandearje om jo gebrûk fan { -brand-short-name } te ferbetterjen.
+onboarding-personalization-use-case-title = Wêrfoar sille jo { -brand-short-name } brûke?
 onboarding-personalization-use-case-personal-option = Persoanlik
 onboarding-personalization-use-case-school-option = Skoalle
 onboarding-personalization-use-case-work-option = Wurk
+onboarding-personalization-motivation-title = Hokker funksjes fan { -brand-short-name } binne it wichtichst foar jo?
 onboarding-personalization-motivation-privacy-option = Privacy en befeiliging
+onboarding-personalization-motivation-productivity-option = Produktiviteit
+onboarding-personalization-motivation-other-option = Oars

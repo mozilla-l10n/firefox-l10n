@@ -20,6 +20,17 @@ permission-dialog-description-file-app = Tastean dat dit bestân de { $scheme }-
 permission-dialog-description-extension-app = Tastean dat dizze útwreiding { $extension } de { $scheme }-keppeling iepenet mei { $appName }?
 permission-dialog-description-system-app = De { $scheme }-keppeling iepenje mei { $appName }?
 permission-dialog-description-system-noapp = De { $scheme }-keppeling iepenje?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Dizze website tastean jo digitale portemonnee te iepenjen?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Troch in <strong>{ $scheme }</strong>-keppeling te iepenjen, kin <strong>{ $host }</strong> jo wiere identiteit opfreegje mei <strong>{ $appName }</strong>. Gean allinnich troch as jo dizze website fertrouwe.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Troch in <strong>{ $scheme }</strong>-keppeling te iepenjen, kin dizze website jo wiere identiteit opfreegje mei <strong>{ $appName }</strong>. Gean allinnich troch as jo dizze website fertrouwe.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Troch in <strong>{ $scheme }</strong>-keppeling te iepenjen, kin <strong>{ $host }</strong> jo wiere identiteit by jo digitale portemonnee opfreegje. Gean allinnich troch as jo dizze website fertrouwe.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Troch in <strong>{ $scheme }</strong>-keppeling te iepenjen, kin dizze website jo wiere identiteit by jo digitale portemonnee opfreegje. Gean allinnich troch as jo dizze website fertrouwe.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

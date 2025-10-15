@@ -255,9 +255,17 @@ tab-group-editor-color-selector2-red = Read
 tab-group-description = { $tabGroupName } – Ljepblêdgroep
 tab-group-label-tooltip-collapsed = { $tabGroupName } – Ynklapt
 tab-group-label-tooltip-expanded = { $tabGroupName } – Utklapt
+tab-group-preview-name =
+    .aria-label = Ljepblêden yn in ynklapte groep
 tab-context-unnamed-group =
     .label = Nammeleaze groep
 tab-group-name-default = Nammeleaze groep
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Ljepblêdelist iepen
+tab-group-preview-closed-description = Ljepblêdelist sletten
 
 ##
 

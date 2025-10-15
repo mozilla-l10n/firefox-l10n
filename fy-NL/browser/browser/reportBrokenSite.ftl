@@ -49,3 +49,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Tank dat jo { -brand-product-name } helpt om it ynternet foar elkenien iepener, tagonkliker en better te meitsjen.
 report-broken-site-panel-invalid-url-label = Fier in jildige URL yn
 report-broken-site-panel-missing-reason-label = Kies in reden
+report-broken-site-panel-blocked-trackers-label =
+    .label = Troch beskerming tsjin folgjen blokkearre URL’s ferstjoere
+report-broken-site-panel-blocked-trackers-description = Ferbettere beskerming tsjin folgjen kin trackers en scripts blokkearje dy’t guon websites nedich hawwe om goed te wurkjen.
