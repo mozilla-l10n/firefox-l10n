@@ -478,6 +478,11 @@ sync-to-mobile-button-label = Ҳамоҳангсозӣ бо дастгоҳи м�
 desktop-to-mobile-qr-code-alt =
     .aria-label = Рамзи «QR» барои боргирӣ кардани версияи мобилии «{ -brand-product-name }»
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-select-tile-button-label = Интихоб кардан
+create-backup-back-button-label = Ба қафо
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Барқарорсозӣ аз нусхаи эҳтиётӣ

@@ -230,6 +230,13 @@ fox-doodle-pin-secondary = Ҳоло не
 set-default-pdf-handler-headline = <strong>Акнун файлҳои PDF-и шумо дар «{ -brand-short-name }» кушода мешаванд.</strong> Шаклҳоро мустақиман дар браузери худ таҳрир кунед ё ба онҳо имзо гузоред. Барои тағйир додани ин имкон, калимаи «PDF»-ро дар танзимот пайдо кунед.
 set-default-pdf-handler-primary = Фаҳмидам
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-primary-cta =
+    .label = Ҳамчун стандартӣ танзим кардан
+annotations-make-default-pdf-next =
+    .label = Навбатӣ
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Шумо мехоҳед, ки дар оянда аз дастгоҳи дигари нав истифода баред?
