@@ -494,6 +494,21 @@ create-backup-screen-2-title = Escolha os dados do { -brand-product-name } a sal
 create-backup-screen-2-subtitle = Leva apenas um minuto. O backup dos seus dados é feito uma vez por dia.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Configuração fácil
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Favoritos, histórico, configurações e mais
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Não inclui senhas e métodos de pagamento
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Não criptografado
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Todos os dados
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Inclui senhas e métodos de pagamento
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Criptografado com senha
+create-backup-screen-3-title = Criar uma senha de arquivo de backup
+create-backup-screen-3-subtitle = Necessário para criptografar seus dados. Guarde em um lugar fácil de lembrar.
+fx-backup-opt-in-header = Escolher local do arquivo
 fx-backup-opt-in-create-password-label = Digite a senha
 fx-backup-opt-in-confirm-btn-label = Continuar
 fx-backup-opt-in-cancel-btn-label = Voltar
