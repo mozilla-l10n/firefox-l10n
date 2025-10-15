@@ -485,8 +485,11 @@ create-backup-screen-1-title =
 create-backup-screen-1-subtitle = Proteja automaticamente suas senhas, favoritos e muito mais em menos de 2 minutos.
 create-backup-screen-1-flair = Recomendado
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Saiba mais</a>
+create-backup-screen-1-sync-label = Sincronize com o { -brand-product-name }
 create-backup-select-tile-button-label = Selecionar
 create-backup-back-button-label = Voltar
+create-backup-show-fewer =
+    .label = Mostrar menos mensagens como esta
 fx-backup-opt-in-create-password-label = Digite a senha
 fx-backup-opt-in-confirm-btn-label = Continuar
 fx-backup-opt-in-cancel-btn-label = Voltar
