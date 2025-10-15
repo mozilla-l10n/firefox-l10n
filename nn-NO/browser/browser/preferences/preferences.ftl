@@ -1190,6 +1190,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Handsam unntak…
     .accesskey = H
+sitedata-cookies-exceptions2 =
+    .label = Handsam unntak
+    .accesskey = H
+    .description = Du kan angi kva nettstadar som alltid eller aldri har lov til å bruke infokapslar og nettstaddata.
 
 ## Privacy Section - Cookie Banner Handling
 
