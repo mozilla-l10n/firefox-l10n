@@ -490,6 +490,10 @@ create-backup-select-tile-button-label = Selecionar
 create-backup-back-button-label = Voltar
 create-backup-show-fewer =
     .label = Mostrar menos mensagens como esta
+create-backup-screen-2-title = Escolha os dados do { -brand-product-name } a salvar no backup
+create-backup-screen-2-subtitle = Leva apenas um minuto. O backup dos seus dados é feito uma vez por dia.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configuração fácil
 fx-backup-opt-in-create-password-label = Digite a senha
 fx-backup-opt-in-confirm-btn-label = Continuar
 fx-backup-opt-in-cancel-btn-label = Voltar
