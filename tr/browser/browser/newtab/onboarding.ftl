@@ -486,13 +486,19 @@ create-backup-screen-1-sync-label = { -brand-product-name } ile eşitle
 create-backup-screen-1-backup-body = Cihazınıza veya OneDrive’a kaydeder
 create-backup-select-tile-button-label = Seç
 create-backup-back-button-label = Geri
+create-backup-show-fewer =
+    .label = Bu gibi mesajları daha az göster
 create-backup-screen-2-title = Yedeklenecek { -brand-product-name } verilerinizi seçin
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Kolay kurulum
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
 create-backup-screen-2-easy-list-1 = Yer imleri, geçmiş, ayarlar ve daha fazlası
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Şifrelenmemiş
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Tüm veriler
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Parolayla şifrelenmiş
 fx-backup-opt-in-header = Dosya konumunu seçin
 fx-backup-opt-in-create-password-label = Parolayı girin
 fx-backup-opt-in-confirm-btn-label = İleri
@@ -500,12 +506,16 @@ fx-backup-opt-in-cancel-btn-label = Geri
 
 ## Fx Backup confirmation screen strings
 
+fx-backup-confirmation-screen-title = Yedeklemeniz planlandı
 fx-backup-confirmation-screen-close-button = Kapat
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
 fx-backup-confirmation-screen-all-data-item-text-1 = Tüm gezinti verileri dahil
+fx-backup-confirmation-screen-all-data-item-text-2 = Cihazınıza kaydedilecek
+fx-backup-confirmation-screen-all-data-item-text-3 = Şifrelenmiş ve parola korumalı
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Yer imleri, geçmiş, ayarlar ve diğer veriler dahil
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Cihazınıza kaydedilecek
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Hassas verileri dahil etmek için <a data-l10n-name="settings">Ayarlar</a>’a gidin.
 
 ## Restore from Backup Flow about:welcome screens
@@ -531,6 +541,7 @@ restored-from-backup-error-primary-button = Kapat
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = { -brand-short-name } deneyiminizi özelleştirin
+onboarding-personalization-use-case-title = { -brand-short-name } tarayıcısını ne için kullanacaksınız?
 onboarding-personalization-use-case-personal-option = Kişisel
 onboarding-personalization-use-case-school-option = Okul
 onboarding-personalization-use-case-work-option = İş
