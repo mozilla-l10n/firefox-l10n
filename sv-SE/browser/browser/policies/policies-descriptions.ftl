@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Aktivera autofyll för adresser.
 policy-AutofillCreditCardEnabled = Aktivera autofyll för betalningsmetoder.
 policy-AutoLaunchProtocolsFromOrigins = Definiera en lista över externa protokoll som kan användas från listade ursprung utan att uppmana användaren.
 policy-BackgroundAppUpdate2 = Aktivera eller inaktivera uppdateringar i bakgrunden.
+policy-Backup = Inaktivera säkerhetskopiering eller återställning av profildata.
 policy-BlockAboutAddons = Blockera tillgång till tilläggshanteraren (about:addons)
 policy-BlockAboutConfig = Blockera tillgång till sidan about:config.
 policy-BlockAboutProfiles = Blockera tillgång till sidan about:profiles.

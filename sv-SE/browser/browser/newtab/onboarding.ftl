@@ -507,6 +507,8 @@ create-backup-screen-2-all-label = All data
 create-backup-screen-2-all-list-2 = Inkluderar lösenord och betalningar
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Krypterad med ett lösenord
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Var vill du spara din säkerhetskopia?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Skapa ett lösenord för säkerhetskopian
 create-backup-screen-3-subtitle = Krävs för att kryptera din data. Förvara den på en plats du kommer ihåg.
