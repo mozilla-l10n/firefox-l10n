@@ -98,6 +98,7 @@ permissions-exceptions-https-only-desc2 = Μπορείτε να απενεργο
 permissions-exceptions-popup-window3 =
     .title = Επιτρεπόμενες ιστοσελίδες - Αναδυόμενα παράθυρα και ανακατευθύνσεις τρίτων
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Μπορείτε να καθορίσετε ποιοι ιστότοποι επιτρέπεται να ανοίγουν αναδυόμενα παράθυρα και να ανακατευθύνονται από τρίτα πλαίσια.
 
 ## Exceptions - Pop-ups
 
