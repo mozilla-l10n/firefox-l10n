@@ -14,7 +14,7 @@ certificate-viewer-error-title = რაღაც ხარვეზი წარ
 certificate-viewer-algorithm = ალგორითმი
 certificate-viewer-certificate-authority = სერტიფიკატის გამცემი
 certificate-viewer-cipher-suite = შიფრის ნაკრები
-certificate-viewer-common-name = საერთო სახელი
+certificate-viewer-common-name = ზოგადი სახელი
 certificate-viewer-email-address = ელფოსტის მისამართი
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
@@ -102,7 +102,7 @@ certificate-viewer-download-pem-chain = PEM (ჯაჭვი)
     .download = { $fileName }-chain.pem
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
-    .title = ეს გაფართოება მიიჩნევა გადამწყვეტად, რაც ნიშნავს, რომ კლიენტებმა უნდა უარყონ სერტიფიკატი, თუ მათთვის გაუგებარია.
+    .title = ეს გაფართოება გადამწყვეტი სახითაა მითითებული, რაც ნიშნავს, რომ კლიენტებისთვის თუ გაუგებარია, უნდა უარყონ სერტიფიკატი.
 certificate-viewer-export = ცალკე შენახვა
     .download = { $fileName }.pem
 
