@@ -501,6 +501,8 @@ create-backup-screen-2-easy-label = Εύκολη ρύθμιση
 create-backup-screen-2-easy-list-1 = Σελιδοδείκτες, ιστορικό, ρυθμίσεις και πολλά άλλα
 # Preceded by a red X indicating that these are not included in the "Easy setup" backup
 create-backup-screen-2-easy-list-2 = Δεν συμπεριλαμβάνονται κωδικοί πρόσβασης και στοιχεία πληρωμής
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Μη κρυπτογραφημένο
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Όλα τα δεδομένα
 # Preceded by a green check mark indicating that these are included in the "All data" backup
@@ -549,6 +551,7 @@ restored-from-backup-error-primary-button = Κλείσιμο
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-use-case-title = Για ποιο σκοπό θα χρησιμοποιήσετε το { -brand-short-name };
 onboarding-personalization-use-case-personal-option = Προσωπικό
 onboarding-personalization-use-case-school-option = Σχολείο
 onboarding-personalization-use-case-work-option = Εργασία

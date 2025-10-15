@@ -261,6 +261,7 @@ custom-avatar-crop-area =
     .aria-label = Προσαρμογή περιοχής περικοπής
 custom-avatar-drag-handle =
     .aria-label = Αλλαγή μεγέθους περιοχής περικοπής
+profiles-appmenu-callout-tour-title = Το νέο σας προφίλ είναι έτοιμο
 barbell-avatar = Μπάρα
 bike-avatar = Ποδήλατο
 

@@ -255,9 +255,17 @@ tab-group-editor-color-selector2-red = Κόκκινο
 tab-group-description = { $tabGroupName } — Ομάδα καρτελών
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Συμπτυγμένο
 tab-group-label-tooltip-expanded = { $tabGroupName } — Αναπτυγμένο
+tab-group-preview-name =
+    .aria-label = Καρτέλες σε συμπτυγμένη ομάδα
 tab-context-unnamed-group =
     .label = Ανώνυμη ομάδα
 tab-group-name-default = Ανώνυμη ομάδα
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Η λίστα καρτελών είναι ανοικτή
+tab-group-preview-closed-description = Η λίστα καρτελών είναι κλειστή
 
 ##
 

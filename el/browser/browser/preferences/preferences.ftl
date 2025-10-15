@@ -1200,6 +1200,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Διαχείριση εξαιρέσεων…
     .accesskey = σ
+sitedata-cookies-exceptions2 =
+    .label = Διαχείριση επεκτάσεων
+    .accesskey = χ
+    .description = Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται ή απαγορεύεται πάντα η χρήση cookie και δεδομένων ιστοτόπου.
 
 ## Privacy Section - Cookie Banner Handling
 

@@ -176,3 +176,10 @@ about-glean-disable-new-features-button = Απενεργοποίηση νέων 
 about-glean-about-data-explanation =
     Για να περιηγηθείτε στη λίστα των συλλεγμένων δεδομένων, συμβουλευτείτε το
     <a data-l10n-name="glean-dictionary-link">Λεξικό του { -glean-brand-name }</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Ενσωματωμένα ping
+about-glean-ping-list-optgroup-custom =
+    .label = Προσαρμοσμένα ping
