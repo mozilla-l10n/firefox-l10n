@@ -509,6 +509,9 @@ fx-backup-confirmation-screen-close-button = Cerrar
 fx-backup-confirmation-screen-all-data-item-text-1 = Todos los datos de navegación incluidos
 fx-backup-confirmation-screen-all-data-item-text-2 = Guardado en tu dispositivo
 fx-backup-confirmation-screen-all-data-item-text-3 = Encriptado y protegido con contraseña
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Marcadores, historial, configuraciones y otros datos incluidos
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Guardado en tu dispositivo
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Contraseñas y pagos no incluidos
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -526,3 +529,13 @@ restored-from-backup-success-no-checklist-primary-button = Continuar
 restored-from-backup-error-title = Hmm, hubo un problema con tu archivo de respaldo.
 restored-from-backup-error-subtitle = Si tienes otro archivo de respaldo { -brand-short-name }, intenta restaurar desde ese. <a data-l10n-name="restore-problems">¿Aún tienes problemas?</a>
 restored-from-backup-error-primary-button = Cerrar
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = Personal
+onboarding-personalization-use-case-school-option = Escuela
+onboarding-personalization-use-case-work-option = Trabajo
+onboarding-personalization-motivation-privacy-option = Privacidad y seguridad
+onboarding-personalization-motivation-productivity-option = Productividad
+onboarding-personalization-motivation-other-option = Otros

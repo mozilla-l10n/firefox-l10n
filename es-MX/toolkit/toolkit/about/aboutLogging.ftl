@@ -67,3 +67,23 @@ about-logging-unknown-option = Opción de about:loggin desconocida “{ $k }“
 about-logging-configuration-url-ignored = URL de configuración ignorada
 about-logging-file-and-profiler-override = No se puede forzar la salida a un archivo y anular las opciones del perfilador al mismo tiempo
 about-logging-configured-via-url = Opción configurada vía URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+
+about-logging-save-button = Guardar
+about-logging-upload-button = Subir
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Guardado en { $path }
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = Eliminar
+about-logging-view-uploaded-profile = Ver perfil
+about-logging-delete-profile-confirm-title = Eliminar perfil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = ¿Seguro que quieres eliminar el perfil “{ $profileName }”? No se puede deshacer.
+about-logging-deleting-profile = Eliminando…

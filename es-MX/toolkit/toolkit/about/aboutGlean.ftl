@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Prueba manual
 about-glean-category-adhoc-testing = Prueba ad hoc
 about-glean-category-profiler = Usando el perfilador
 about-glean-category-about-data = Acerca de los datos
+about-glean-category-metrics-table = Tabla de métricas
 about-glean-upload-enabled = La carga de datos está habilitada.
 about-glean-upload-disabled = La carga de datos está deshabilitada.
 about-glean-upload-enabled-local = La carga de datos está habilitada solo para enviar a un servidor local.
@@ -138,6 +139,25 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Para registrar un perfil de rendimiento y ver todas las métricas registradas, utiliza
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Todas las métricas
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Categoría
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Nombre
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Tipo
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Valor
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Acciones
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtro
+about-glean-button-load-value = Cargar
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Documentos
+about-glean-button-watch = Observar
+# Meaning "to stop watching"
+about-glean-button-unwatch = Dejar de ver
 about-glean-about-data-explanation =
     Para navegar por la lista de datos recopilados, por favor, consulta el
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Diccionario</a>.
