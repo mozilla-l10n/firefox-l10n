@@ -253,9 +253,17 @@ tab-group-editor-color-selector2-red = אדום
 tab-group-description = ‏{ $tabGroupName } - קבוצת לשוניות
 tab-group-label-tooltip-collapsed = ‏{ $tabGroupName } - מכווץ
 tab-group-label-tooltip-expanded = ‏{ $tabGroupName } - מורחב
+tab-group-preview-name =
+    .aria-label = לשוניות בקבוצה מכווצת
 tab-context-unnamed-group =
     .label = קבוצה ללא שם
 tab-group-name-default = קבוצה ללא שם
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = רשימת הלשוניות פתוחה
+tab-group-preview-closed-description = רשימת הלשוניות סגורה
 
 ##
 
