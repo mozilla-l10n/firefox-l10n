@@ -479,7 +479,12 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Atualizando para o Windows 11?
+    Vamos fazer backup de seus dados do { -brand-product-name }.
+create-backup-screen-1-subtitle = Proteja automaticamente suas senhas, favoritos e muito mais em menos de 2 minutos.
 create-backup-screen-1-flair = Recomendado
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Saiba mais</a>
 create-backup-select-tile-button-label = Selecionar
 create-backup-back-button-label = Voltar
 fx-backup-opt-in-create-password-label = Digite a senha

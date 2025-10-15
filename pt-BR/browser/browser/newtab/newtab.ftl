@@ -478,8 +478,12 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Mudar para Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Mudar para Celsius
 newtab-weather-menu-hide-weather = Ocultar tempo em nova aba
 newtab-weather-menu-learn-more = Saiba mais
+newtab-weather-menu-detect-my-location = Detectar minha localização
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Dados sobre o tempo não estão disponíveis no momento.
+newtab-weather-opt-in-see-weather = Quer ver a previsão do tempo na sua localização?
+newtab-weather-opt-in-not-now =
+    .label = Agora não
 newtab-weather-opt-in-yes =
     .label = Sim
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
