@@ -11,6 +11,14 @@
 unified-extensions-header-title = Επεκτάσεις
 unified-extensions-manage-extensions =
     .label = Διαχείριση επεκτάσεων
+unified-extensions-discover-extensions =
+    .label = Ανακάλυψη επεκτάσεων
+unified-extensions-empty-reason-private-browsing-not-allowed = Έχετε εγκαταστήσει επεκτάσεις, αλλά δεν τις έχετε ενεργοποιήσει για ιδιωτικά παράθυρα
+unified-extensions-empty-reason-extension-not-enabled = Έχετε εγκαταστήσει επεκτάσεις, αλλά δεν τις έχετε ενεργοποιήσει
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Εξελίξτε την περιήγησή σας με τις επεκτάσεις
+unified-extensions-empty-content-explain-manage = Επιλέξτε «{ unified-extensions-item-message-manage }» για να τις διαχειριστείτε στις ρυθμίσεις.
+unified-extensions-empty-content-explain-extensions-onboarding = Εξατομικεύστε το { -brand-short-name } αλλάζοντας την εμφάνιση και τις επιδόσεις του ή ενισχύοντας το απόρρητο και την ασφάλεια.
 
 ## An extension in the main list
 

@@ -524,10 +524,12 @@ fx-backup-confirmation-screen-close-button = Κλείσιμο
 
 fx-backup-confirmation-screen-all-data-item-text-1 = Περιλαμβάνονται όλα τα δεδομένα περιήγησης
 fx-backup-confirmation-screen-all-data-item-text-2 = Αποθηκεύτηκε στη συσκευή σας
+fx-backup-confirmation-screen-all-data-item-text-3 = Κρυπτογραφημένο και προστατευμένο με κωδικό πρόσβασης
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Περιλαμβάνονται σελιδοδείκτες, ιστορικό, ρυθμίσεις και άλλα δεδομένα
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Αποθηκεύτηκε στη συσκευή σας
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Δεν περιλαμβάνονται οι κωδικοί πρόσβασης και τα στοιχεία πληρωμών
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Μεταβείτε στις <a data-l10n-name="settings">Ρυθμίσεις</a> για να συμπεριλάβετε ευαίσθητα δεδομένα.
+fx-backup-confirmation-screen-item-subtext-1 = Η δημιουργία των αντιγράφων ασφαλείας θα ξεκινήσει σε λίγα λεπτά και θα εκτελείται μία φορά την ημέρα. Μπορείτε να ελέγξετε την πρόοδο στις <a data-l10n-name="settings">Ρυθμίσεις</a>.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -551,6 +553,7 @@ restored-from-backup-error-primary-button = Κλείσιμο
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Προσαρμόστε την εμπειρία σας στο { -brand-short-name }
 onboarding-personalization-use-case-title = Για ποιο σκοπό θα χρησιμοποιήσετε το { -brand-short-name };
 onboarding-personalization-use-case-personal-option = Προσωπικό
 onboarding-personalization-use-case-school-option = Σχολείο
