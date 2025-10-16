@@ -532,6 +532,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = ਬੁੱਕਮਾਰਕ,
 fx-backup-confirmation-screen-easy-setup-item-text-2 = ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਸੰਭਾਲਿਆ
 fx-backup-confirmation-screen-easy-setup-item-text-3 = ਪਾਸਵਰਡ ਅਤੇ ਭੁਗਤਾਨ ਦੀ ਜਾਣਕਾਰੀ ਸ਼ਾਮਲ ਨਹੀਂ ਹੈ
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਨੂੰ ਸ਼ਾਮਲ ਕਰਨ ਵਾਸਤੇ <a data-l10n-name="settings">ਸੈਟਿੰਗਾਂ</a> ਉੱਤੇ ਜਾਓ।
+fx-backup-confirmation-screen-item-subtext-2 = ਜੇ ਤੁਹਾਨੂੰ ਮੁੜ-ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੋਈ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੇ ਬੈਕਅੱਪ ਨੂੰ ਲੱਭੇਗਾ।
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -552,6 +553,8 @@ restored-from-backup-error-primary-button = ਬੰਦ ਕਰੋ
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = ਆਪਣੇ { -brand-short-name } ਤਜਰਬੇ ਨੂੰ ਪਸੰਦ ਮੁਤਾਬਕ ਢਾਲੋ
+onboarding-personalization-use-case-title = { -brand-short-name } ਨੂੰ ਤੁਸੀਂ ਕੰਮ ਲਈ ਵਰਤੋਗੇ?
 onboarding-personalization-use-case-personal-option = ਨਿੱਜੀ
 onboarding-personalization-use-case-school-option = ਸਕੂਲ
 onboarding-personalization-use-case-work-option = ਕੰਮ

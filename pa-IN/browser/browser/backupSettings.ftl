@@ -107,6 +107,7 @@ backup-service-error-incorrect-password = ਪਾਸਵਰਡ ਗਲਤ ਹੈ।
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
 enable-backup-encryption-support-link = ਹੋਰ ਜਾਣੋ
 enable-backup-encryption-create-password-label = ਪਾਸਵਰਡ
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -165,3 +166,15 @@ backup-file-creation-date-label = ਬਣਾਇਆ:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = ਕਿਵੇਂ ਬਹਾਲ ਕਰਨਾ ਹੈ:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ☰ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਸੈਟਿੰਗਾਂ > ਸਿੰਕ ਉੱਤੇ ਜਾਓ
+backup-file-moz-browser-restore-step-2 = “ਬੈਕਅੱਪ ਫ਼ਾਇਲ ਨੂੰ ਚੁਣੋ” ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਇਸ ਫ਼ਾਇਲ ਨੂੰ ਚੁਣੋ
+backup-file-moz-browser-restore-step-3 = ਜਦੋਂ ਕਿਹਾ ਜਾਵੇ ਤਾਂ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+backup-file-other-browser-restore-step-1 = { -brand-short-name } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੰਸਟਾਲ ਕਰੋ
+backup-file-download-moz-browser-button = ਡਾਊਨਲੋਡ
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = { -brand-short-name } ਨੂੰ ਚਲਾਓ, ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ☰ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਸੈਟਿੰਗਾਂ > ਸਿੰਕ ਉੱਤੇ ਜਾਓ
+backup-file-other-browser-restore-step-3 = “ਬੈਕਅੱਪ ਫ਼ਾਇਲ ਨੂੰ ਚੁਣੋ” ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਇਸ ਫ਼ਾਇਲ ਨੂੰ ਚੁਣੋ
+backup-file-other-browser-restore-step-4 = ਜਦੋਂ ਕਿਹਾ ਜਾਵੇ ਤਾਂ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ

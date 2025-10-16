@@ -39,6 +39,7 @@ about-networking-dns-lookup = DNS ਖੋਜ
 about-networking-dns-lookup-button = ਹੱਲ਼
 about-networking-dns-domain = ਡੋਮੇਨ:
 about-networking-dns-lookup-table-column = IP
+about-networking-dns-https-rrs-lookup-table-column = HTTPS RRs
 about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = RCWN ਅੰਕੜੇ
 about-networking-rcwn-status = RCWN ਹਾਲਤ

@@ -11,6 +11,7 @@ label-more-information = ਹੋਰ ਜਾਣਕਾਰੀ: ਬੱਗ { $bug }
 label-overrides = ਵਰਤੋਂਕਾਰ ਏਜੰਟ ਅਣਡਿੱਠੇ
 text-disabled-in-about-config = ਇਹ ਫ਼ੀਚਰ ਨੂੰ about:config ਵਿੱਚ ਅਸਮਰੱਥ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ
 text-no-interventions = ਕੋਈ ਦਖ਼ਲ ਨਹੀਂ ਵਰਤਿਆ ਗਿਆ ਹੈ
+text-page-title = ਵੈੱਬ ਅਨੁਕੂਲਤਾ
 text-no-overrides = ਕੋਈ UA ਅਣਡਿੱਠ ਕਰਨਾ ਨਹੀਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ
 text-title = about:compat
 

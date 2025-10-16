@@ -105,6 +105,7 @@ restore-from-backup-file-choose-button =
        *[other] Navigar…
     }
 restore-from-backup-password-label = Contrasigno
+restore-from-backup-password-description = Isto disbloca tu salveguarda cryptate.
 restore-from-backup-cancel-button = Cancellar
 restore-from-backup-confirm-button = Restaurar e reinitialisar
 restore-from-backup-restoring-button = Restaurante…
@@ -112,6 +113,16 @@ restore-from-backup-restoring-button = Restaurante…
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
 
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Contrasigno errate. <a data-l10n-name="incorrect-password-support-link">Ancora ha tu problemas?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Iste file non functiona
+    .message = Il habeva un problema con tu file de salveguarda. Elige un differente file e retenta.
 # The backup file cannot be restored. The currently running application may
 # be too old and may not support features in the backed up profile.
 # Alternatively, the backup file may be too old and some of the feature in
@@ -119,21 +130,38 @@ restore-from-backup-restoring-button = Restaurante…
 backup-service-error-unsupported-version =
     .heading = Iste file non functiona
     .message = Le file que tu seligeva non es compatibile con iste version de { -brand-short-name }. Elige un differente file e retenta.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Iste file non functiona
+    .message = Le file que tu seligeva non era create per { -brand-short-name }. Elige un differente file e retenta.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } non poteva restaurar
+    .message = Reinitialisa { -brand-short-name } e retenta restaurar tu salveguarda.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Salveguarda tu datos sensibile
+enable-backup-encryption-description = Salveguarda tu contrasignos, methodos de pagamento, e cookies, e in addition mantene tote tu datos secur con cryptation.
 enable-backup-encryption-support-link = Pro saper plus
 enable-backup-encryption-create-password-label = Contrasigno
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Repete le contrasigno
 enable-backup-encryption-cancel-button = Cancellar
 enable-backup-encryption-confirm-button = Salvar
+change-backup-encryption-header = Cambiar contrasigno de salveguarda
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
 password-rules-header = Requisitos del contrasigno
 password-rules-length-description = Al minus 8 characteres
 password-rules-email-description = Non tu adresse email
+password-rules-disclaimer = Sta secur: non reusa contrasignos. Vide altere consilios pro <a data-l10n-name="password-support-link">crear contrasignos forte</a>.
+password-validity-has-email = Non pote esser un adresse email
+password-validity-do-not-match = Contrasignos discorde
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
@@ -144,6 +172,8 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-header = Remover protection de contrasignos
+disable-backup-encryption-description = Tu contrasignos, methodos de pagamento, e cookies reservate non sera plus salveguardate.
 disable-backup-encryption-support-link = Que sera salveguardate?
 disable-backup-encryption-cancel-button = Cancellar
 disable-backup-encryption-confirm-button = Remover contrasigno
@@ -151,6 +181,7 @@ disable-backup-encryption-confirm-button = Remover contrasigno
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = Tu contrasigno non satisface le requisitos. Tenta un altere contrasigno.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
@@ -162,6 +193,7 @@ backup-error-retry = Alco errate eveniva. Retenta.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } es preste a esser restaurate
 backup-file-title = Restaurar { -brand-short-name }
 backup-file-path-label = File de salveguarda:
 backup-file-encryption-state-label = Cryptate:
