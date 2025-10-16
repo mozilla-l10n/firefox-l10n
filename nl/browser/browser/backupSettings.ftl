@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+settings-data-backup-header = Reservekopie
+settings-data-backup-toggle = Reservekopie beheren
+settings-data-backup-last-backup-date = Laatste reservekopie: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Locatie
 settings-data-backup-last-backup-location-show-in-folder = In map tonen
@@ -9,6 +12,10 @@ settings-data-backup-last-backup-location-edit = Bewerken…
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Bestandsnaam: { $fileName }
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-choose = Reservekopiebestand kiezen…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
@@ -19,6 +26,10 @@ settings-data-change-password = Wachtwoord wijzigen…
 
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Locatie
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (aanbevolen)
 turn-on-scheduled-backups-encryption-create-password-label = Wachtwoord
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Herhaal wachtwoord

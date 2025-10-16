@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This string is used to name the folder that users will save backups to.
+# "Restore" is an action and intended for prompting users to select this folder
+# when following backup restoration steps. Please only include characters that
+# can be used for folders. Invalid characters will be automatically stripped out
+# or replaced with underscores.
+backup-folder-name = Restaurar { -brand-product-name }
 # This string is used for the generated file that will be stored within the
 # backup-folder-name folder. It will have the profile name and an encoding of
 # the backup date appended to it, followed by `.html`. Please only include
@@ -33,12 +39,13 @@ settings-data-backup-restore-header = Restaurar tu datos
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
-settings-data-backup-scheduled-backups-off-restore-description = Usa un salveguarda de { -brand-product-name } ab un altere apparato pro recuperar tu datos.
+settings-data-backup-scheduled-backups-off-restore-description = Usa un salveguarda de { -brand-product-name } ab un altere apparato pro restaurar tu datos.
 settings-data-backup-scheduled-backups-off-restore-choose = Eliger file de salveguarda…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
 settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } ab le ultime vice que illos era salveguardate.
+settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
 settings-data-toggle-encryption-label = Salveguarda tu datos sensibile
 settings-data-toggle-encryption-description = Salveguarda tu contrasignos, methodos de pagamento, e cookies con cryptation.
 settings-data-toggle-encryption-support-link = Pro saper plus
