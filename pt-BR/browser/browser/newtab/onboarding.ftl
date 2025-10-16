@@ -486,6 +486,8 @@ create-backup-screen-1-subtitle = Proteja automaticamente suas senhas, favoritos
 create-backup-screen-1-flair = Recomendado
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Saiba mais</a>
 create-backup-screen-1-sync-label = Sincronize com o { -brand-product-name }
+create-backup-screen-1-sync-body = Faz backup de todos os dispositivos conectados na sua conta
+create-backup-screen-1-backup-label = Faça backup de seus dados no computador
 create-backup-screen-1-backup-body = Salva no seu dispositivo ou no OneDrive
 create-backup-select-tile-button-label = Selecionar
 create-backup-back-button-label = Voltar
@@ -507,6 +509,8 @@ create-backup-screen-2-all-label = Todos os dados
 create-backup-screen-2-all-list-2 = Inclui senhas e métodos de pagamento
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Criptografado com senha
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Onde quer que seu backup seja salvo?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Criar uma senha de arquivo de backup
 create-backup-screen-3-subtitle = Necessário para criptografar seus dados. Guarde em um lugar fácil de lembrar.

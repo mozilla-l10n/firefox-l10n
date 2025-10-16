@@ -149,3 +149,26 @@ change-backup-encryption-header = Sicherungs-Passwort ändern
 password-rules-header = Passwortanforderungen
 password-rules-length-description = Mindestens 8 Zeichen
 password-rules-email-description = Nicht Ihre E-Mail-Adresse
+password-rules-disclaimer = Schützen Sie sich – verwenden Sie Passwörter nicht wieder. Sehen Sie sich weitere Tipps zum <a data-l10n-name="password-support-link">Erstellen sicherer Passwörter</a> an.
+password-validity-has-email = Kann keine E-Mail-Adresse sein
+password-validity-do-not-match = Passwörter stimmen nicht überein
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Geschafft
+password-rules-a11y-warning =
+    .alt = Warnung
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Passwortschutz entfernen
+disable-backup-encryption-description = Ihre gespeicherten Passwörter, Zahlungsmethoden und Cookies werden nicht mehr gesichert.
+disable-backup-encryption-support-link = Was wird gesichert?
+disable-backup-encryption-cancel-button = Abbrechen
+disable-backup-encryption-confirm-button = Passwort entfernen
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Ihr Passwort erfüllt die Anforderungen nicht. Bitte versuchen Sie es mit einem anderen Passwort.
