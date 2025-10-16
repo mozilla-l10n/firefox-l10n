@@ -509,6 +509,8 @@ create-backup-screen-2-all-label = 모든 데이터
 create-backup-screen-2-all-list-2 = 비밀번호 및 결제 포함
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = 비밀번호로 암호화됨
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = 어디에 백업을 저장하시겠습니까?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = 백업 파일 비밀번호 생성
 create-backup-screen-3-subtitle = 데이터를 암호화하는 데 필요합니다. 기억할 수 있는 장소에 보관하세요.

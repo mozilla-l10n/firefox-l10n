@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = 주소 자동 채우기를 사용합니다.
 policy-AutofillCreditCardEnabled = 결제 방법에 자동 채우기를 사용합니다.
 policy-AutoLaunchProtocolsFromOrigins = 사용자에게 메시지를 표시하지 않고 나열된 출처에서 사용할 수 있는 외부 프로토콜 목록을 정의합니다.
 policy-BackgroundAppUpdate2 = 백그라운드 업데이터를 사용하거나 사용하지 않게 합니다.
+policy-Backup = 프로필 데이터의 백업이나 복원을 사용 안 합니다.
 policy-BlockAboutAddons = 부가 기능 관리자(about:addons) 접근을 차단합니다.
 policy-BlockAboutConfig = about:config 페이지 접근을 차단합니다.
 policy-BlockAboutProfiles = about:profiles 페이지 접근을 차단합니다.

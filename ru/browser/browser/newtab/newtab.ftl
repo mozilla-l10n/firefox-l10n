@@ -404,7 +404,7 @@ newtab-wallpaper-abstract-orange = Оранжевые формы
 newtab-wallpaper-gradient-orange = Градиент оранжевого и розового
 newtab-wallpaper-abstract-blue-purple = Синие и фиолетовые формы
 newtab-wallpaper-abstract-white-curves = Белый с заштрихованными кривыми
-newtab-wallpaper-abstract-purple-green = Фиолетово-зеленый световой градиент
+newtab-wallpaper-abstract-purple-green = Фиолетово-зелёный световой градиент
 newtab-wallpaper-abstract-blue-purple-waves = Синие и фиолетовые волнистые формы
 newtab-wallpaper-abstract-black-waves = Чёрные волнообразные формы
 

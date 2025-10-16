@@ -149,6 +149,11 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = 닫기
 windows-10-eos-sync-callout-primary-advance-button-label = 다음
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = 신규: 길게 눌러 링크 미리보기
+link-preview-onboarding-callout-description = 짧은 설명, 읽는 시간 등을 보고 링크를 누를 가치가 있는지 결정하세요. 마우스 오른쪽 버튼 클릭에서도 사용할 수 있습니다.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 사이드바에 탭 제목 표시
