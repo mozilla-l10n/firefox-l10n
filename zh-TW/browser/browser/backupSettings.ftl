@@ -141,6 +141,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } 無法還原
     .message = 請重新啟動 { -brand-short-name } 再嘗試還原備份。
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = 有些東西不對勁
+    .message = { -brand-short-name } 的備份過程發生問題，請稍後再試，或重新啟動 { -brand-short-name }。
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

@@ -133,6 +133,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } n’a pas pu être restauré
     .message = Veuillez redémarrer { -brand-short-name } et essayer de le restaurer à nouveau.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Une erreur s’est produite
+    .message = Il y a eu un problème lors de la sauvegarde de { -brand-short-name }. Veuillez réessayer ou redémarrer { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

@@ -355,3 +355,8 @@ tab-context-add-split-view =
 tab-context-open-in-split-view =
     .label = Ouvrir en vue scindée
     .accesskey = O
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Séparer la vue scindée
+    .accesskey = S
+tab-context-badge-new = Nouveau

@@ -561,8 +561,11 @@ restored-from-backup-error-primary-button = Fechar
 
 onboarding-personalization-title = Personalize sua experiência de uso no { -brand-short-name }
 onboarding-personalization-subtitle = Responda algumas perguntas e recomendaremos recursos e extensões para aprimorar seu uso do { -brand-short-name }.
+onboarding-personalization-use-case-title = Para que você irá usar o { -brand-short-name }?
 onboarding-personalization-use-case-personal-option = Pessoal
+onboarding-personalization-use-case-school-option = Escola
 onboarding-personalization-use-case-work-option = Trabalho
+onboarding-personalization-motivation-title = Quais funcionalidades do { -brand-short-name } são mais importantes para você?
 onboarding-personalization-motivation-privacy-option = Privacidade e segurança
 onboarding-personalization-motivation-productivity-option = Produtividade
 onboarding-personalization-motivation-other-option = Outro
