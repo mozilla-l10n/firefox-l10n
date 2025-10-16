@@ -2,22 +2,87 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This string is used to name the folder that users will save backups to.
+# "Restore" is an action and intended for prompting users to select this folder
+# when following backup restoration steps. Please only include characters that
+# can be used for folders. Invalid characters will be automatically stripped out
+# or replaced with underscores.
+backup-folder-name = Återställ { -brand-product-name }
+# This string is used for the generated file that will be stored within the
+# backup-folder-name folder. It will have the profile name and an encoding of
+# the backup date appended to it, followed by `.html`. Please only include
+# characters that can be used for filenames. Invalid characters will be
+# automatically stripped out or replaced with underscores.
+#
+# This is an example of what the final filename might look like after the
+# profile name and backup date are appended to it:
+#
+# FirefoxBackup_default_20240606-1830.html
+backup-file-name = { -brand-product-name }Säkerhetskopiering
 settings-data-backup-header = Säkerhetskopiera
 settings-data-backup-toggle = Hantera säkerhetskopieringar
 settings-data-backup-trigger-button = Säkerhetskopiera nu
 settings-data-backup-in-progress-button = Säkerhetskopiering pågår…
+settings-data-backup-scheduled-backups-on = Backup: PÅ
+settings-data-backup-scheduled-backups-off = Backup: AV
+settings-data-backup-scheduled-backups-description = Skydda automatiskt dina bokmärken, historik och annan data. <a data-l10n-name="support-link">Läs mer</a>
+settings-data-backup-last-backup-date = Senaste säkerhetskopia: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Plats
+settings-data-backup-last-backup-location-show-in-folder = Visa i mapp
+settings-data-backup-last-backup-location-edit = Redigera…
+settings-data-create-backup-error = Det uppstod ett fel vid skapande av säkerhetskopia den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = Filnamn: { $fileName }
+settings-data-backup-restore-header = Återställ din data
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = Använd en { -brand-product-name } säkerhetskopia från en annan enhet för att återställa din data.
+settings-data-backup-scheduled-backups-off-restore-choose = Välj säkerhetskopia på…
+
+## These strings are shown under the header if scheduled backups are enabled.
+
+settings-data-backup-scheduled-backups-on-restore-description = Återställ din { -brand-product-name }-data från senaste gången den säkerhetskopierades.
+settings-data-backup-scheduled-backups-on-restore-choose = Återställ…
+settings-data-toggle-encryption-label = Säkerhetskopiera din känsliga information
+settings-data-toggle-encryption-description = Säkerhetskopiera dina lösenord, betalningsmetoder och kakor med kryptering.
+settings-data-toggle-encryption-support-link = Läs mer
+settings-data-change-password = Byt lösenord…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
+turn-on-scheduled-backups-header = Aktivera säkerhetskopiering
+turn-on-scheduled-backups-description = { -brand-short-name } skapar en ögonblicksbild av din data var 24:e timme. Du kan återställa den om det finns ett problem eller om du får en ny enhet.
+turn-on-scheduled-backups-support-link = Vad kommer att säkerhetskopieras?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Plats
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (rekommenderas)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Välj…
+       *[other] Bläddra…
+    }
+turn-on-scheduled-backups-encryption-label = Säkerhetskopiera din känsliga information
+turn-on-scheduled-backups-encryption-description = Säkerhetskopiera dina lösenord, betalningsmetoder och kakor med kryptering.
 turn-on-scheduled-backups-encryption-create-password-label = Lösenord
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Upprepa lösenord
 turn-on-scheduled-backups-cancel-button = Avbryt
+turn-on-scheduled-backups-confirm-button = Aktivera säkerhetskopiering
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Det uppstod ett problem med din valda säkerhetskopieringsmapp. Välj en annan mapp och försök igen.
+backup-error-file-system = Det uppstod ett problem med din valda säkerhetskopieringsmapp vid säkerhetskopiering av { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Vill du stänga av säkerhetskopiering?
+turn-off-scheduled-backups-description = Detta tar också bort all din säkerhetskopierade data. Det kan inte ångras.
 turn-off-scheduled-backups-support-link = Läs mer
 turn-off-scheduled-backups-cancel-button = Avbryt
 turn-off-scheduled-backups-confirm-button = Stäng av och ta bort säkerhetskopian
@@ -25,12 +90,152 @@ turn-off-scheduled-backups-confirm-button = Stäng av och ta bort säkerhetskopi
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Återställ din data
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Detta ersätter alla dina nuvarande { -brand-short-name }-data med din säkerhetskopia från { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Vad kommer att återställas?
+restore-from-backup-no-backup-file-link = Har du problem att hitta din säkerhetskopia?
+restore-from-backup-filepicker-label = Säkerhetskopiera fil
+restore-from-backup-filepicker-title = Välj säkerhetskopia:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Välj…
+       *[other] Bläddra…
+    }
+restore-from-backup-password-label = Lösenord
+restore-from-backup-password-description = Detta låser upp din krypterade säkerhetskopia.
+restore-from-backup-cancel-button = Avbryt
+restore-from-backup-confirm-button = Återställ och starta om
+restore-from-backup-restoring-button = Återställer…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Felaktigt lösenord. <a data-l10n-name="inkorriger-password-support-link">Har du fortfarande problem?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Den här filen fungerar inte
+    .message = Det uppstod ett problem med din säkerhetskopia. Välj en annan fil och försök igen.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Den här filen fungerar inte
+    .message = Filen du valde är inte kompatibel med den här versionen av { -brand-short-name }. Välj en annan fil och försök igen.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Den här filen fungerar inte
+    .message = Filen du valde skapades inte av { -brand-short-name }. Välj en annan fil och försök igen.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } kunde inte återställa
+    .message = Starta om { -brand-short-name } och försök att återställa din säkerhetskopia igen.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Något gick fel
+    .message = Det uppstod ett problem med säkerhetskopieringsprocessen för { -brand-short-name }. Försök igen eller starta om { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Säkerhetskopiera din känsliga information
+enable-backup-encryption-description = Säkerhetskopiera dina lösenord, betalningsmetoder och kakor, plus skydda all din data med kryptering.
 enable-backup-encryption-support-link = Läs mer
 enable-backup-encryption-create-password-label = Lösenord
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Upprepa lösenord
 enable-backup-encryption-cancel-button = Avbryt
 enable-backup-encryption-confirm-button = Spara
+change-backup-encryption-header = Ändra backuplösenord
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Lösenordskrav
+password-rules-length-description = Minst 8 tecken
+password-rules-email-description = Inte din e-postadress
+password-rules-disclaimer = Var säker — återanvänd inte lösenord. Se fler tips för att <a data-l10n-name="password-support-link">skapa starka lösenord</a>.
+password-validity-has-email = Kan inte vara en e-postadress
+password-validity-do-not-match = Lösenorden matchar inte
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Lyckades
+password-rules-a11y-warning =
+    .alt = Varning
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Ta bort lösenordsskyddet
+disable-backup-encryption-description = Dina sparade lösenord, betalningsmetoder och kakor säkerhetskopieras inte längre.
+disable-backup-encryption-support-link = Vad kommer att säkerhetskopieras?
+disable-backup-encryption-cancel-button = Avbryt
+disable-backup-encryption-confirm-button = Ta bort lösenord
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Ditt lösenord uppfyller inte kraven. Försök med ett annat lösenord.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Något gick fel. Vänligen försök igen.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } är redo att återställas
+backup-file-title = Återställ { -brand-short-name }
+backup-file-intro = Gå tillbaka till surfning och återställ alla dina bokmärken, historik och annan data. <a data-l10n-name="backup-file-support-link">Läs mer</a>
+backup-file-path-label = Säkerhetskopiera fil:
+backup-file-encryption-state-label = Krypterat:
+backup-file-encryption-state-value-encrypted = Ja
+backup-file-encryption-state-value-not-encrypted = Nej
+backup-file-creation-device-label = Enhet:
+backup-file-creation-date-label = Skapad:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Så här återställer du:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Öppna applikationsmenyn ☰ och gå till Inställningar > Synka
+backup-file-moz-browser-restore-step-2 = Klicka på "Välj säkerhetskopia" och välj den här filen
+backup-file-moz-browser-restore-step-3 = Starta om { -brand-short-name } när du blir tillfrågad
+backup-file-other-browser-restore-step-1 = Ladda ner och installera { -brand-short-name }
+backup-file-download-moz-browser-button = Hämta
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Starta { -brand-short-name }, öppna applikationsmenyn ☰ och gå till Inställningar > Synka
+backup-file-other-browser-restore-step-3 = Klicka på "Välj säkerhetskopia" och välj den här filen
+backup-file-other-browser-restore-step-4 = Starta om { -brand-short-name } när du blir tillfrågad
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Obs:</b> { $numberOfOtherBackupsFound } annan säkerhetskopia hittades
+       *[other] <b>Obs:</b> { $numberOfOtherBackupsFound } andra säkerhetskopior hittades
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Skapad den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } den { $machineName }

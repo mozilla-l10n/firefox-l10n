@@ -141,6 +141,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } konnte nicht wiederhergestellt werden
     .message = Starten Sie { -brand-short-name } neu und versuchen Sie es erneut.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Etwas ist schiefgegangen
+    .message = Es gab ein Problem mit der Datensicherung für { -brand-short-name }. Bitte versuchen Sie es erneut oder starten Sie { -brand-short-name } neu.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

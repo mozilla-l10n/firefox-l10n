@@ -39,6 +39,7 @@ more-from-moz-mozilla-monitor-button = Skaffa { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Skapa din webbplats direkt och anslut din egen anpassade domän gratis.
 more-from-moz-solo-button = Prova { -solo-ai-brand-name }
+more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI Webbplatsskapare
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 

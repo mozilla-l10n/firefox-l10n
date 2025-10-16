@@ -29,6 +29,8 @@ wallet-custom-scheme-warning-host-app = Mae agor dolen <strong>{ $scheme }</stro
 wallet-custom-scheme-warning-app = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i'r wefan hon ofyn am eich hunaniaeth go iawn gyda <strong>{ $appName }</strong>. Ewch yn eich blaen dim ond os ydych yn ymddiried yn y wefan hon.
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-host = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i <strong>{ $host }</strong> ofyn am eich hunaniaeth go iawn gyda <strong>{ $appName }</strong>. Ewch yn eich blaen dim ond os ydych yn ymddiried yn y wefan hon.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i'r wefan hon ofyn am eich hunaniaeth go iawn o'ch waled ddigidol. Ewch yn eich blaen dim ond os ydych yn ymddiried yn y wefan hon.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
