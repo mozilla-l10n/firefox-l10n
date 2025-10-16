@@ -47,3 +47,7 @@ settings-data-backup-scheduled-backups-on-restore-choose = …ਬਹਾਲ ਕ�
 settings-data-toggle-encryption-label = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
 settings-data-toggle-encryption-support-link = ਹੋਰ ਜਾਣੋ
 settings-data-change-password = …ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = ਬੈਕਅੱਪ ਨੂੰ ਚਾਲੂ ਕਰੋ

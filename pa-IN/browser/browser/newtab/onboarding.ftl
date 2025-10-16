@@ -478,9 +478,18 @@ sync-to-mobile-button-label = ਮੋਬਾਈਲ ਨਾਲ ਸਿੰਕ ਕਰ�
 desktop-to-mobile-qr-code-alt =
     .aria-label = ਮੋਬਾਈਲ ਵਾਸਤੇ { -brand-product-name } ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ QR ਕੋਡ
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title = Windows 11 ਲਈ ਅੱਪਗਰੇਡ ਕਰ ਰਹੇ ਹੋ? ਆਓ ਫੇਰ ਤੁਹਾਡੇ { -brand-product-name } ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲੈ ਲਈਏ।
+create-backup-screen-1-subtitle = ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ 1–2 ਮਿੰਟ ਵਿੱਚ ਆਪਣੇ-ਆਪ ਸੁਰੱਖਿਤ ਕਰਦਾ ਹੈ।
+create-backup-screen-1-flair = ਸਿਫ਼ਾਰਸ਼ੀ
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">ਹੋਰ ਜਾਣੋ</a>
+create-backup-screen-1-sync-label = { -brand-product-name } ਨਾਲ ਸਿੰਕ ਕਰੋ
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = ਬੈਕਅੱਪ ਤੋਂ ਬਹਾਲ ਕਰੋ
+restore-from-backup-title = { -brand-short-name } ਦਾ ਬੈਕਅੱਪ ਜਿਵੇਂ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ, ਉਵੇਂ ਲੈ ਲਈਏ
 restore-from-backup-subtitle = ਵਾਪਸ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਆਪਣੇ ਸਾਰੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰੋ।
 restore-from-backup-secondary-button = ਬਹਾਲ ਨਾ ਕਰੋ
 

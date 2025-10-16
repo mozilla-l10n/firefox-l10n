@@ -230,6 +230,21 @@ fox-doodle-pin-secondary = ਹੁਣੇ ਨਹੀਂ
 set-default-pdf-handler-headline = <strong>ਤੁਹਾਡੇ PDF ਹੁਣ { -brand-short-name } ਵਿੱਚ ਖੁੱਲ੍ਹਦੇ ਹਨ।</strong> ਫ਼ਾਰਮਾਂ ਨੂੰ ਸਿੱਧਾ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਸੋਧੋ ਜਾਂ ਉਹਨਾਂ ਉੱਤੇ ਦਸਤਖਤ ਕਰੋ। ਬਦਲਣ ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚ “PDF” ਖੋਜੋ।
 set-default-pdf-handler-primary = ਸਮਝੇ
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = ਬਿੰਦੀਆਂ ਵਾਲੀਆਂ ਲਾਈਨ  — ਜਾਂ ਕਿਤੇ ਵੀ ਦਸਤਖ਼ਤ ਕਰੋ
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = ਆਪਣੇ ਦਸਤਖ਼ਤ ਵਾਹੋ, ਲਿਖੋ ਜਾਂ ਅੱਪਲੋਡ ਕਰੋ ਅਤੇ ਫੇਰ ਜਿੱਥੇ ਵੀ ਚਾਹੀਦਾ ਹੋਵੇ, ਉੱਥੇ ਲਾ ਦਿਓ। ਅਗਲੀ ਵਾਰ ਲਈ ਆਪਣੇ ਦਸਤਖ਼ਤਾਂ ਨੂੰ ਸੰਭਾਲ ਲਵੋ।
+annotations-make-default-pdf-handler-title = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ PDF ਐਡੀਟਰ ਬਣਾਉਣਾ ਹੈ?
+annotations-make-default-pdf-primary-cta =
+    .label = ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
+annotations-make-default-pdf-next =
+    .label = ਅੱਗੇ
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = ਭਵਿੱਖ ਲਈ ਨਵਾਂ ਡਿਵਾਈਸ ਲੈਣਾ ਚਾਹੋਗੇ?
