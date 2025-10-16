@@ -90,3 +90,55 @@ turn-off-scheduled-backups-confirm-button = Desativar e excluir backup
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Restaurar seus dados
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Isso substituirá todos os seus dados atuais do { -brand-short-name } pelos do backup de { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = O que será restaurado?
+restore-from-backup-no-backup-file-link = Não consegue encontrar seu backup?
+restore-from-backup-filepicker-label = Arquivo de backup
+restore-from-backup-filepicker-title = Escolher arquivo de backup:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Escolher…
+       *[other] Escolher…
+    }
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Como restaurar:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Abra o menu do aplicativo ☰ e vá em Configurações > Sincronização
+backup-file-moz-browser-restore-step-2 = Clique em “Escolher arquivo de backup” e selecione este arquivo
+backup-file-moz-browser-restore-step-3 = Reinicie o { -brand-short-name } quando solicitado
+backup-file-other-browser-restore-step-1 = Baixe e instale o { -brand-short-name }
+backup-file-download-moz-browser-button = Baixar
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Inicie o { -brand-short-name }, abra o menu do aplicativo ☰ e vá em Configurações > Sincronização
+backup-file-other-browser-restore-step-3 = Clique em “Escolher arquivo de backup” e selecione este arquivo
+backup-file-other-browser-restore-step-4 = Reinicie o { -brand-short-name } quando solicitado
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Nota:</b> Encontrado { $numberOfOtherBackupsFound } outro arquivo de backup
+       *[other] <b>Nota:</b> Encontrados { $numberOfOtherBackupsFound } outros arquivos de backup
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Criado em { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } em { $machineName }

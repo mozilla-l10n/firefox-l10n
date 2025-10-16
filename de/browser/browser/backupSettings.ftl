@@ -117,11 +117,35 @@ backup-service-error-incorrect-password = Falsches Passwort. <a data-l10n-name="
 # backup file itself
 backup-service-error-corrupt-file =
     .heading = Diese Datei funktioniert nicht
-    .message = Es gab ein Problem mit Ihrer Backup-Datei. Wählen Sie eine andere Datei und versuchen Sie es erneut
+    .message = Es gab ein Problem mit Ihrer Backup-Datei. Wählen Sie eine andere Datei und versuchen es erneut
 # The backup file cannot be restored. The currently running application may
 # be too old and may not support features in the backed up profile.
 # Alternatively, the backup file may be too old and some of the feature in
 # the backed up profile may no longer be supported.
 backup-service-error-unsupported-version =
     .heading = Diese Datei funktioniert nicht
-    .message = Die ausgewählte Datei ist mit Ihrer { -brand-short-name }-Version nicht kompatibel. Wählen Sie eine andere Datei und versuchen Sie es erneut.
+    .message = Die ausgewählte Datei ist mit Ihrer { -brand-short-name }-Version nicht kompatibel. Wählen Sie eine andere Datei und versuchen es erneut.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Diese Datei funktioniert nicht
+    .message = Die ausgewählte Datei wurde nicht von { -brand-short-name } erstellt. Wählen Sie eine andere Datei und versuchen es erneut.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Sichern Sie Ihre sensiblen Daten
+enable-backup-encryption-description = Sichern Sie Ihre Passwörter, Zahlungsmethoden und Cookies und schützen Sie alle Ihre Daten mit Verschlüsselung.
+enable-backup-encryption-support-link = Weitere Informationen
+enable-backup-encryption-create-password-label = Passwort
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Passwort wiederholen
+enable-backup-encryption-cancel-button = Abbrechen
+enable-backup-encryption-confirm-button = Speichern
+change-backup-encryption-header = Sicherungs-Passwort ändern
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Passwortanforderungen
+password-rules-length-description = Mindestens 8 Zeichen
+password-rules-email-description = Nicht Ihre E-Mail-Adresse
