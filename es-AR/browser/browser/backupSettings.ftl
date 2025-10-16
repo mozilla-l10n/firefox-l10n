@@ -20,8 +20,8 @@ backup-folder-name = Restaurar { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = CopiaDe{ -brand-product-name }
 settings-data-backup-header = Copia de seguridad
-settings-data-backup-toggle = Administrar copia de seguridad
-settings-data-backup-trigger-button = Hacer copia de seguridad ahora
+settings-data-backup-toggle = Administrar respaldo
+settings-data-backup-trigger-button = Respaldar ahora
 settings-data-backup-in-progress-button = Copia de seguridad en proceso…
 settings-data-backup-scheduled-backups-on = Copia de seguridad: ACTIVADA
 settings-data-backup-scheduled-backups-off = Copia de seguridad: DESACTIVADA
@@ -46,7 +46,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Seleccionar archivo 
 
 settings-data-backup-scheduled-backups-on-restore-description = Recupere los datos de { -brand-product-name } desde la última vez que se hizo una copia de seguridad.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
-settings-data-toggle-encryption-label = Hacer copia de seguridad de los datos sensibles
+settings-data-toggle-encryption-label = Respaldar los datos sensibles
 settings-data-toggle-encryption-description = Hacer copia de seguridad de contraseñas, métodos de pago y cookies con cifrado.
 settings-data-toggle-encryption-support-link = Conocer más
 settings-data-change-password = Cambiar contraseña…
@@ -61,13 +61,13 @@ turn-on-scheduled-backups-location-label = Ubicación
 # Variables:
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
-    .value = { $recommendedFolder } (recomendada)
+    .value = { $recommendedFolder } (recomendado)
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Seleccionar…
        *[other] Examinar…
     }
-turn-on-scheduled-backups-encryption-label = Hacer copia de seguridad de los datos sensibles
+turn-on-scheduled-backups-encryption-label = Respaldar los datos sensibles
 turn-on-scheduled-backups-encryption-description = Hacer copia de seguridad de contraseñas, métodos de pago y cookies con cifrado.
 turn-on-scheduled-backups-encryption-create-password-label = Contraseña
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
