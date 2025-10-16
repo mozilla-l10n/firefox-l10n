@@ -55,3 +55,143 @@ settings-data-change-password = Сменить пароль…
 
 turn-on-scheduled-backups-header = Включить резервное копирование
 turn-on-scheduled-backups-description = { -brand-short-name } будет создавать снимок ваших данных каждые 24 часа. Вы можете восстановить его, если возникла проблема, или после получения нового устройства.
+turn-on-scheduled-backups-support-link = Что будет резервироваться?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Расположение
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommectedFolder } (рекомендуется)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Выбрать…
+       *[other] Обзор…
+    }
+turn-on-scheduled-backups-encryption-label = Создайте резервную копию своих конфиденциальных данных
+turn-on-scheduled-backups-encryption-description = Создайте зашифрованную резервную копию своих паролей, способов оплаты и куков.
+turn-on-scheduled-backups-encryption-create-password-label = Пароль
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Повторите пароль
+turn-on-scheduled-backups-cancel-button = Отмена
+turn-on-scheduled-backups-confirm-button = Включить резервное копирование
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = С выбранной папкой для резервного копирования возникла проблема. Выберите другую папку и попробуйте снова.
+backup-error-file-system = При резервном копировании { -brand-short-name } возникла проблема с выбранной вами папкой для резервных копий.
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = Отключить резервное копирование?
+turn-off-scheduled-backups-description = Это действие также удалит все ваши резервные копии данных. Оно не может быть отменено.
+turn-off-scheduled-backups-support-link = Подробнее
+turn-off-scheduled-backups-cancel-button = Отмена
+turn-off-scheduled-backups-confirm-button = Отключить и удалить резервную копию
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Восстановите свои данные
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Это приведет к замене всех ваших текущих данных { -brand-short-name } на резервную копию, созданную в { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Что будет восстановлено?
+restore-from-backup-no-backup-file-link = Проблемы с поиском резервной копии?
+restore-from-backup-filepicker-label = Файл резервной копии
+restore-from-backup-filepicker-title = Выберите файл резервной копии:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Выбрать…
+       *[other] Обзор…
+    }
+restore-from-backup-password-label = Пароль
+restore-from-backup-password-description = Это разблокирует вашу зашифрованную резервную копию.
+restore-from-backup-cancel-button = Отмена
+restore-from-backup-confirm-button = Восстановить и перезапустить
+restore-from-backup-restoring-button = Восстановление…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Неверный пароль. <a data-l10n-name="incorrect-password-support-link">Все ещё есть проблемы?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Этот файл не работает
+    .message = Возникла проблема с вашим файлом резервной копии. Выберите другой файл и повторите попытку.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Этот файл не работает
+    .message = Выбранный вами файл несовместим с данной версией { -brand-short-name }. Выберите другой файл и повторите попытку.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Этот файл не работает
+    .message = Выбранный вами файл не был создан с помощью { -brand-short-name }. Выберите другой файл и повторите попытку.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } не удалось восстановить
+    .message = Перезапустите { -brand-short-name } и попробуйте восстановить из резервной копии снова.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Создайте резервную копию своих конфиденциальных данных
+enable-backup-encryption-description = Сделайте резервную копию своих паролей, способов оплаты и куков, а также обеспечьте безопасность всех своих данных с помощью шифрования.
+enable-backup-encryption-support-link = Подробнее
+enable-backup-encryption-create-password-label = Пароль
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Повторите пароль
+enable-backup-encryption-cancel-button = Отмена
+enable-backup-encryption-confirm-button = Сохранить
+change-backup-encryption-header = Сменить пароль резервного копирования
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Требования к паролю
+password-rules-length-description = Не менее 8 символов
+password-rules-email-description = Не ваш адрес электронной почты
+password-rules-disclaimer = Оставайтесь в безопасности — не используйте пароли повторно. Посмотрите другие советы по <a data-l10n-name="password-support-link">созданию надёжных паролей</a>.
+password-validity-has-email = Не может быть адресом электронной почты
+password-validity-do-not-match = Пароли не совпадают
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Успешно
+password-rules-a11y-warning =
+    .alt = Предупреждение
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Снять защиту паролем
+disable-backup-encryption-description = Резервные копии ваших сохранённых паролей, способов оплаты и куков больше не будут храниться.
+disable-backup-encryption-support-link = Что будет резервироваться?
+disable-backup-encryption-cancel-button = Отмена
+disable-backup-encryption-confirm-button = Удалить пароль
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Ваш пароль не соответствует требованиям. Пожалуйста, попробуйте другой пароль.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Что-то пошло не так. Повторите попытку.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } готов к восстановлению
+backup-file-title = Восстановить { -brand-short-name }
