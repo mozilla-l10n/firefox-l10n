@@ -1505,8 +1505,8 @@ content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name }
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavení může způsobit, že některé stránky nebudou fungovat správně. Pro řešení případných problémů můžete ochranu proti sledování na takových stránkách vypnout.
 content-blocking-warning-learn-how = Jak na to
 content-blocking-baseline-exceptions-3 =
-    .label = Oprava velkých problémů se stránkami (doporučeno)
-    .description = Pomáhá načítat weby a funkce tím, že odblokovává pouze podstatné prvky, které mohou obsahovat sledovací prvky. Pokrývá většinu běžných problémů.
+    .label = Oprava závažných problémů se stránkami (doporučeno)
+    .description = Pomáhá načítat stránky a funkce tím, že odblokovává pouze jejich nezbytné součásti, jež mohou obsahovat sledovací prvky. Pokrývá nejčastější problémy.
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
 content-blocking-convenience-exceptions-3 =
     .label = Oprava menších problémů se stránkami
