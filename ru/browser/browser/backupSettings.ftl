@@ -61,7 +61,7 @@ turn-on-scheduled-backups-location-label = Расположение
 # Variables:
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
-    .value = { $recommectedFolder } (рекомендуется)
+    .value = { $recommendedFolder } (рекомендуется)
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Выбрать…
@@ -227,9 +227,9 @@ backup-file-other-browser-restore-step-4 = Перезапустите { -brand-s
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds =
     { $numberOfOtherBackupsFound ->
-        [one] <b>Примечание:</b> найден { $numberOfOotherBackupsFound } другой файл резервной копии
-        [few] <b>Примечание:</b> найдено { $numberOfOotherBackupsFound } других файла резервных копий
-       *[many] <b>Примечание:</b> найдено { $numberOfOotherBackupsFound } других файлов резервных копий
+        [one] <b>Примечание:</b> найден { $numberOfOtherBackupsFound } другой файл резервной копии
+        [few] <b>Примечание:</b> найдено { $numberOfOtherBackupsFound } других файла резервных копий
+       *[many] <b>Примечание:</b> найдено { $numberOfOtherBackupsFound } других файлов резервных копий
     }
 # Variables:
 #   $date (Datetime) - The date the backup was created

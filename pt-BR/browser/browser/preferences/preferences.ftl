@@ -167,6 +167,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Abrir links em abas em vez de novas janelas
     .accesskey = j
+open-external-link-next-to-active-tab =
+    .label = Abrir links de aplicativos ao lado da aba ativa
 ask-on-close-multiple-tabs =
     .label = Perguntar antes de fechar várias abas
     .accesskey = v
@@ -1152,6 +1154,10 @@ sitedata-total-size-calculating = Calculando o tamanho dos dados de sites e do c
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Seus cookies, histórico, dados de sites e cache armazenados estão no momento ocupando <strong>{ $value }{ $unit }</strong> de espaço em disco.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Seus cookies, dados de sites e cache armazenados estão no momento ocupando { $value }{ $unit } de espaço em disco.
 sitedata-learn-more = Saiba mais
 sitedata-delete-on-close =
@@ -1185,6 +1191,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Todos os cookies entre sites (pode atrapalhar alguns sites)
 sitedata-option-block-all =
     .label = Todos os cookies (atrapalha vários sites)
+sitedata-clear2 =
+    .label = Limpar dados de navegação
+    .accesskey = L
+sitedata-settings2 =
+    .label = Gerenciar dados de navegação
+    .accesskey = G
 sitedata-clear =
     .label = Limpar dados…
     .accesskey = L
@@ -1194,6 +1206,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gerenciar exceções…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Gerenciar exceções
+    .accesskey = x
+    .description = Você pode especificar quais sites sempre ou nunca têm permissão para usar cookies e dados de sites.
 
 ## Privacy Section - Cookie Banner Handling
 

@@ -61,7 +61,7 @@ turn-on-scheduled-backups-location-label = Speicherort
 # Variables:
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
-    .value = { $recommectedFolder } (empfohlen)
+    .value = { $recommendedFolder } (empfohlen)
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Auswählen...
@@ -116,7 +116,7 @@ restore-from-backup-restoring-button = Wird wiederhergestellt…
 # User is not authorized to restore a particular backup file, usually because
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
-backup-service-error-incorrect-password = Falsches Passwort. <a data-l10n-name="incurrent-password-support-link">Haben Sie weiterhin Probleme?</a>
+backup-service-error-incorrect-password = Falsches Passwort. <a data-l10n-name="incorrect-password-support-link">Haben Sie weiterhin Probleme?</a>
 # The backup file (or specific data files within the backup file) could not be
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself

@@ -116,7 +116,7 @@ restore-from-backup-restoring-button = 복원 중…
 # User is not authorized to restore a particular backup file, usually because
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
-backup-service-error-incorrect-password = 잘못된 비밀번호입니다. <a data-l10n-name="incurrent-password-support-link">문제가 해결되지 않았나요?</a>
+backup-service-error-incorrect-password = 잘못된 비밀번호입니다. <a data-l10n-name="incorrect-password-support-link">문제가 해결되지 않았나요?</a>
 # The backup file (or specific data files within the backup file) could not be
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself
