@@ -560,6 +560,7 @@ restored-from-backup-error-primary-button = Fechar
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Personalize sua experiência de uso no { -brand-short-name }
+onboarding-personalization-subtitle = Responda algumas perguntas e recomendaremos recursos e extensões para aprimorar seu uso do { -brand-short-name }.
 onboarding-personalization-use-case-personal-option = Pessoal
 onboarding-personalization-use-case-work-option = Trabalho
 onboarding-personalization-motivation-privacy-option = Privacidade e segurança

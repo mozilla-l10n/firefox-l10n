@@ -198,3 +198,4 @@ backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DAT
 # application menu.
 backup-file-moz-browser-restore-step-1 = Öffnen Sie das Anwendungsmenü ☰ und gehen Sie zu Einstellungen > Sync
 backup-file-moz-browser-restore-step-2 = Klicken Sie auf „Sicherungs-Datei wählen“ und wählen Sie diese Datei
+backup-file-download-moz-browser-button = Herunterladen

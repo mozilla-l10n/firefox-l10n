@@ -39,7 +39,7 @@ settings-data-backup-restore-header = 恢复数据
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
-settings-data-backup-scheduled-backups-off-restore-description = 使用其他设备上的 { -brand-product-name } 备份拉开恢复您的数据。
+settings-data-backup-scheduled-backups-off-restore-description = 使用其他设备上的 { -brand-product-name } 备份来恢复您的数据。
 settings-data-backup-scheduled-backups-off-restore-choose = 选择备份文件。
 
 ## These strings are shown under the header if scheduled backups are enabled.

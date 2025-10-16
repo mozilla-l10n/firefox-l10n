@@ -13,6 +13,8 @@ unified-extensions-manage-extensions =
     .label = Utwreidingen beheare
 unified-extensions-discover-extensions =
     .label = Utwreidingen ûntdekke
+unified-extensions-empty-reason-private-browsing-not-allowed = Jo hawwe útwreidingen ynstallearre, mar net yn priveefinsters ynskeakele
+unified-extensions-empty-reason-extension-not-enabled = Jo hawwe útwreidingen ynstallearre, mar net ynskeakele
 
 ## An extension in the main list
 
