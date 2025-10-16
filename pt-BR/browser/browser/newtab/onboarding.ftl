@@ -515,6 +515,7 @@ create-backup-screen-3-location = Onde quer que seu backup seja salvo?
 create-backup-screen-3-title = Criar uma senha de arquivo de backup
 create-backup-screen-3-subtitle = Necessário para criptografar seus dados. Guarde em um lugar fácil de lembrar.
 fx-backup-opt-in-header = Escolher local do arquivo
+fx-backup-opt-in-filepath-label = Escolha um local que você planeja transferir para um novo dispositivo, como o OneDrive.
 fx-backup-opt-in-create-password-label = Digite a senha
 fx-backup-opt-in-confirm-btn-label = Continuar
 fx-backup-opt-in-cancel-btn-label = Voltar
@@ -526,9 +527,15 @@ fx-backup-confirmation-screen-close-button = Fechar
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
+fx-backup-confirmation-screen-all-data-item-text-1 = Incluídos todos os dados de navegação
+fx-backup-confirmation-screen-all-data-item-text-2 = Salvo no seu dispositivo
 fx-backup-confirmation-screen-all-data-item-text-3 = Criptografado e protegido por senha
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Incluídos favoritos, histórico, configurações e outros dados
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Salvo no seu dispositivo
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Senhas e métodos de pagamentos não incluídos
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Vá em <a data-l10n-name="settings">Configurações</a> para incluir dados sensíveis.
+fx-backup-confirmation-screen-item-subtext-1 = O backup começará em alguns minutos e será feito uma vez por dia. Você pode verificar o progresso nas <a data-l10n-name="settings">Configurações</a>.
+fx-backup-confirmation-screen-item-subtext-2 = O { -brand-short-name } irá procurar seu backup caso precise reinstalar.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -552,6 +559,7 @@ restored-from-backup-error-primary-button = Fechar
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Personalize sua experiência de uso no { -brand-short-name }
 onboarding-personalization-use-case-personal-option = Pessoal
 onboarding-personalization-use-case-work-option = Trabalho
 onboarding-personalization-motivation-privacy-option = Privacidade e segurança

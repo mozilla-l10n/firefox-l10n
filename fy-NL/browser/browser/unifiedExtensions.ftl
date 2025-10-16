@@ -11,6 +11,8 @@
 unified-extensions-header-title = Utwreidingen
 unified-extensions-manage-extensions =
     .label = Utwreidingen beheare
+unified-extensions-discover-extensions =
+    .label = Utwreidingen ûntdekke
 
 ## An extension in the main list
 

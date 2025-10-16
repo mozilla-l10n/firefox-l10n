@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+settings-data-backup-header = Salveguardar
+settings-data-backup-toggle = Gerer le salveguarda
+settings-data-backup-trigger-button = Salveguardar ora
+settings-data-backup-in-progress-button = Salveguarda in curso…
+settings-data-backup-scheduled-backups-on = Salveguarda: ACTIVE
+settings-data-backup-scheduled-backups-off = Salveguarda: DISACTIVATE
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Position
 settings-data-backup-last-backup-location-show-in-folder = Monstrar in plica
