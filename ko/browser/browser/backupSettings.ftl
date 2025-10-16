@@ -194,3 +194,33 @@ backup-error-retry = 무언가 잘못되었습니다. 다시 시도하세요.
 
 backup-file-header = { -brand-short-name }가 복원될 준비가 되었습니다.
 backup-file-title = { -brand-short-name } 복원
+backup-file-path-label = 백업 파일:
+backup-file-encryption-state-label = 암호화됨:
+backup-file-encryption-state-value-encrypted = 예
+backup-file-encryption-state-value-not-encrypted = 아니오
+backup-file-creation-device-label = 기기:
+backup-file-creation-date-label = 생성일:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = 복원 방법:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = 애플리케이션 메뉴 ☰를 열고 설정 > Sync로 이동하세요
+backup-file-moz-browser-restore-step-2 = “백업 파일 선택”을 누르고 이 파일을 선택하세요
+backup-file-moz-browser-restore-step-3 = 요청 시 { -brand-short-name } 다시 시작
+backup-file-other-browser-restore-step-1 = { -brand-short-name } 다운로드 및 설치
+backup-file-download-moz-browser-button = 다운로드
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = { -brand-short-name }를 시작하고, 애플리케이션 메뉴 ☰를 열고 설정 > Sync로 이동하세요
+backup-file-other-browser-restore-step-3 = “백업 파일 선택”을 누르고 이 파일을 선택하세요
+backup-file-other-browser-restore-step-4 = 요청 시 { -brand-short-name } 다시 시작
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds = <b>주의:</b> 다른 백업 파일 { $numberOfOtherBackupsFound }개 찾음
