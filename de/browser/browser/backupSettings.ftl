@@ -19,14 +19,14 @@ backup-folder-name = { -brand-product-name } wiederherstellen
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }-Backup
-settings-data-backup-header = Backup
-settings-data-backup-toggle = Backup verwalten
+settings-data-backup-header = Datensicherung
+settings-data-backup-toggle = Datensicherung verwalten
 settings-data-backup-trigger-button = Jetzt sichern
 settings-data-backup-in-progress-button = Datensicherung läuft…
-settings-data-backup-scheduled-backups-on = Backup: EIN
-settings-data-backup-scheduled-backups-off = Backup: AUS
+settings-data-backup-scheduled-backups-on = Datensicherung: EIN
+settings-data-backup-scheduled-backups-off = Datensicherung: AUS
 settings-data-backup-scheduled-backups-description = Schützen Sie Ihre Lesezeichen, Chronik und andere Daten automatisch. <a data-l10n-name="support-link">Weitere Informationen</a>
-settings-data-backup-last-backup-date = Letztes Backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-last-backup-date = Letzte Datensicherung: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Speicherort
 settings-data-backup-last-backup-location-show-in-folder = Ordner anzeigen
@@ -53,7 +53,7 @@ settings-data-change-password = Passwort ändern…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
-turn-on-scheduled-backups-header = Backup aktivieren
+turn-on-scheduled-backups-header = Datensicherung aktivieren
 turn-on-scheduled-backups-description = { -brand-short-name } erstellt alle 24 Stunden ein Abbild Ihrer Daten. Sie können es wiederherstellen, wenn ein Problem auftritt oder Sie ein neues Gerät erhalten.
 turn-on-scheduled-backups-support-link = Was wird gesichert?
 # "Location" refers to the save location or a folder where users want backups stored.
@@ -73,7 +73,7 @@ turn-on-scheduled-backups-encryption-create-password-label = Passwort
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Passwort wiederholen
 turn-on-scheduled-backups-cancel-button = Abbrechen
-turn-on-scheduled-backups-confirm-button = Backup aktivieren
+turn-on-scheduled-backups-confirm-button = Datensicherung aktivieren
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Es gab ein Problem mit dem gewählten Backup-Ordner. Wählen Sie einen anderen Ordner und versuchen Sie es erneut.
@@ -82,3 +82,11 @@ backup-error-file-system = Beim Sichern von { -brand-short-name } ist ein Proble
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Datensicherung deaktivieren?
+turn-off-scheduled-backups-description = Dies löscht auch alle Ihre Sicherungsdaten. Es kann nicht rückgängig gemacht werden.
+turn-off-scheduled-backups-support-link = Weitere Informationen
+turn-off-scheduled-backups-cancel-button = Abbrechen
+turn-off-scheduled-backups-confirm-button = Datensicherung deaktivieren und löschen
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Daten wiederherstellen
