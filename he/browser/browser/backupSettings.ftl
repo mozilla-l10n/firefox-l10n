@@ -145,6 +145,38 @@ backup-service-error-recovery-failed =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = גיבוי הנתונים הרגישים שלך
+enable-backup-encryption-description = גיבוי הססמאות, אמצעי התשלום והעוגיות שלך, לצד שמירה על כל הנתונים באמצעות הצפנה.
+enable-backup-encryption-support-link = מידע נוסף
+enable-backup-encryption-create-password-label = ססמה
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = חזרה על הססמה
+enable-backup-encryption-cancel-button = ביטול
+enable-backup-encryption-confirm-button = שמירה
+change-backup-encryption-header = שינוי ססמת הגיבוי
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = דרישות ססמה
+password-rules-length-description = לפחות 8 תווים
+password-rules-email-description = לא כתובת הדוא״ל שלך
+password-rules-disclaimer = שמרו על עצמכם - אל תשתמשו באותה הססמה במקומות שונים. ניתן לעיין בעצות נוספות <a data-l10n-name="password-support-link">ליצירת ססמאות חזקות</a>.
+password-validity-has-email = הססמה לא יכולה להיות כתובת דוא״ל
+password-validity-do-not-match = הססמאות אינן תואמות
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = הצלחה
+password-rules-a11y-warning =
+    .alt = אזהרה
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = הסרת ההגנה באמצעות ססמה
+disable-backup-encryption-description = הססמאות, אמצעי התשלום והעוגיות השמורים שלך לא יגובו עוד.
+disable-backup-encryption-support-link = מה יגובה?
+disable-backup-encryption-cancel-button = ביטול
+disable-backup-encryption-confirm-button = הסרת הססמה
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
