@@ -118,3 +118,10 @@ backup-service-error-incorrect-password = Falsches Passwort. <a data-l10n-name="
 backup-service-error-corrupt-file =
     .heading = Diese Datei funktioniert nicht
     .message = Es gab ein Problem mit Ihrer Backup-Datei. Wählen Sie eine andere Datei und versuchen Sie es erneut
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Diese Datei funktioniert nicht
+    .message = Die ausgewählte Datei ist mit Ihrer { -brand-short-name }-Version nicht kompatibel. Wählen Sie eine andere Datei und versuchen Sie es erneut.

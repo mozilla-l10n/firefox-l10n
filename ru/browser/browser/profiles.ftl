@@ -303,7 +303,7 @@ clock-avatar-tooltip =
 leaf-avatar-tooltip =
     .tooltiptext = Применить аватар с листом
 lightbulb-avatar-tooltip =
-    .tooltiptext = Установить аватар с ёлкой
+    .tooltiptext = Установить аватар с лампой
 makeup-avatar-tooltip =
     .tooltiptext = Установить аватар с макияжем
 # Message refers to a text message, not a traditional letter/envelope message
