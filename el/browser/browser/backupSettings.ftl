@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+settings-data-backup-header = Αντίγραφο ασφαλείας
+settings-data-backup-toggle = Διαχείριση αντιγράφου ασφαλείας
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Τοποθεσία
 settings-data-backup-last-backup-location-show-in-folder = Εμφάνιση στον φάκελο
