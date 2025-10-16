@@ -39,7 +39,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Eliger file de salve
 ## These strings are shown under the header if scheduled backups are enabled.
 
 settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } ab le ultime vice que illos era salveguardate.
-settings-data-backup-scheduled-backups-on-restore-choose = Recuperar…
 settings-data-toggle-encryption-label = Salveguarda tu datos sensibile
 settings-data-toggle-encryption-description = Salveguarda tu contrasignos, methodos de pagamento, e cookies con cryptation.
 settings-data-toggle-encryption-support-link = Pro saper plus
@@ -86,8 +85,6 @@ restore-from-backup-file-choose-button =
     }
 restore-from-backup-password-label = Contrasigno
 restore-from-backup-cancel-button = Cancellar
-restore-from-backup-confirm-button = Recuperar e reinitialisar
-restore-from-backup-restoring-button = Recuperante…
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -130,7 +127,6 @@ backup-error-retry = Alco errate eveniva. Retenta.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
-backup-file-title = Recuperar { -brand-short-name }
 backup-file-path-label = File de salveguarda:
 backup-file-encryption-state-label = Cryptate:
 backup-file-encryption-state-value-encrypted = Si
