@@ -1499,7 +1499,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Zjistit více
 content-blocking-etp-standard-tcp-title = Zahrnuje úplnou ochranu před cookies, naši nejsilnější funkci zaměřenou na soukromí
 content-blocking-warning-title = Pozor!
 content-blocking-warning-title-2 = Některé stránky nemusí s přísnou ochranou před sledováním fungovat správně
-content-blocking-warning-title-custom = Některé stránky nemusí fungovat s vlastní ochranou proti sledování správně
+content-blocking-warning-title-custom = Některé stránky nemusí s vlastní ochranou proti sledování fungovat správně
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } doporučuje použít nastavení “Opravit problémy webu”, aby se omezily nefunkční funkce a obsah webu. Pokud se web jeví jako nefunkční, zkuste pro něj vypnout ochranu sledování, aby se načetl veškerý obsah.
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavení může způsobit, že některé stránky nebudou fungovat správně. Pro řešení případných problémů můžete ochranu proti sledování na takových stránkách vypnout.

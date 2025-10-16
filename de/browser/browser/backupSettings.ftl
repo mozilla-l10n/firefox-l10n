@@ -99,6 +99,11 @@ restore-from-backup-support-link =
 restore-from-backup-no-backup-file-link = Haben Sie Probleme, Ihr Backup zu finden?
 restore-from-backup-filepicker-label = Sicherungsdatei
 restore-from-backup-filepicker-title = Sicherungsdatei wählen:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Auswählen...
+       *[other] Durchsuchen…
+    }
 restore-from-backup-password-label = Passwort
 restore-from-backup-password-description = Dies entsperrt Ihr verschlüsseltes Backup.
 restore-from-backup-cancel-button = Abbrechen
@@ -131,6 +136,11 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Diese Datei funktioniert nicht
     .message = Die ausgewählte Datei wurde nicht von { -brand-short-name } erstellt. Wählen Sie eine andere Datei und versuchen es erneut.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } konnte nicht wiederhergestellt werden
+    .message = Starten Sie { -brand-short-name } neu und versuchen Sie es erneut.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -196,6 +206,26 @@ backup-file-creation-date-label = Erstellt:
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
-backup-file-moz-browser-restore-step-1 = Öffnen Sie das Anwendungsmenü ☰ und gehen Sie zu Einstellungen > Sync
+backup-file-moz-browser-restore-step-1 = Öffnen Sie das Anwendungsmenü ☰ und gehen Sie zu Einstellungen > Synchronisation
 backup-file-moz-browser-restore-step-2 = Klicken Sie auf „Sicherungs-Datei wählen“ und wählen Sie diese Datei
 backup-file-download-moz-browser-button = Herunterladen
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Starten Sie { -brand-short-name }, öffnen Sie das Anwendungsmenü ☰ und gehen Sie zu Einstellungen > Synchronisation
+backup-file-other-browser-restore-step-3 = Klicken Sie auf „Sicherungs-Datei wählen“ und wählen Sie diese Datei
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Hinweis:</b> { $numberOfOtherBackupsFound } weitere Sicherungsdatei gefunden
+       *[other] <b>Hinweis:</b> { $numberOfOtherBackupsFound } weitere Sicherungsdateien gefunden
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Erstellt am { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } auf { $machineName }

@@ -78,8 +78,16 @@ turn-off-scheduled-backups-cancel-button = Cancellar
 
 restore-from-backup-header = Restaurar tu datos
 restore-from-backup-filepicker-label = File de salveguarda
+restore-from-backup-filepicker-title = Eliger file de salveguarda:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Eliger…
+       *[other] Navigar…
+    }
 restore-from-backup-password-label = Contrasigno
 restore-from-backup-cancel-button = Cancellar
+restore-from-backup-confirm-button = Recuperar e reinitialisar
+restore-from-backup-restoring-button = Recuperante…
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -122,9 +130,14 @@ backup-error-retry = Alco errate eveniva. Retenta.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-title = Recuperar { -brand-short-name }
+backup-file-path-label = File de salveguarda:
 backup-file-encryption-state-label = Cryptate:
 backup-file-encryption-state-value-encrypted = Si
 backup-file-encryption-state-value-not-encrypted = No
 backup-file-creation-device-label = Apparato:
 backup-file-creation-date-label = Create:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-download-moz-browser-button = Discargar
