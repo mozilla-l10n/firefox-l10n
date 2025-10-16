@@ -227,9 +227,17 @@ tab-group-editor-color-selector2-red = สีแดง
 tab-group-description = { $tabGroupName } — กลุ่มแท็บ
 tab-group-label-tooltip-collapsed = { $tabGroupName } — ยุบอยู่
 tab-group-label-tooltip-expanded = { $tabGroupName } — ขยายอยู่
+tab-group-preview-name =
+    .aria-label = แท็บในกลุ่มยุบ
 tab-context-unnamed-group =
     .label = กลุ่มที่ไม่มีชื่อ
 tab-group-name-default = กลุ่มที่ไม่มีชื่อ
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = รายการแท็บเปิดอยู่
+tab-group-preview-closed-description = รายการแท็บปิดอยู่
 
 ##
 

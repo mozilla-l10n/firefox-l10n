@@ -20,6 +20,17 @@ permission-dialog-description-file-app = อนุญาตให้ไฟล์
 permission-dialog-description-extension-app = อนุญาตให้ส่วนขยาย { $extension } เปิดลิงก์ { $scheme } ด้วย { $appName } หรือไม่
 permission-dialog-description-system-app = ต้องการเปิดลิงก์ { $scheme } ด้วย { $appName } หรือไม่?
 permission-dialog-description-system-noapp = ต้องการเปิดลิงก์ { $scheme } หรือไม่?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = อนุญาตให้ไซต์นี้เปิดกระเป๋าเงินดิจิทัลของคุณหรือไม่?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = การเปิดลิงก์ <strong>{ $scheme }</strong> จะอนุญาตให้ <strong>{ $host }</strong> ขอข้อมูลตัวตนจริงของคุณกับ <strong>{ $appName }</strong> ให้ดำเนินการต่อเมื่อคุณเชื่อถือไซต์นี้เท่านั้น
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = การเปิดลิงก์ <strong>{ $scheme }</strong> จะอนุญาตให้ไซต์นี้ขอข้อมูลตัวตนจริงของคุณกับ <strong>{ $appName }</strong> ให้ดำเนินการต่อเมื่อคุณเชื่อถือไซต์นี้เท่านั้น
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = การเปิดลิงก์ <strong>{ $scheme }</strong> จะอนุญาตให้ <strong>{ $host }</strong> ขอข้อมูลตัวตนจริงของคุณกับกระเป๋าเงินดิจิทัลของคุณ ให้ดำเนินการต่อเมื่อคุณเชื่อถือไซต์นี้เท่านั้น
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = การเปิดลิงก์ <strong>{ $scheme }</strong> จะอนุญาตให้ไซต์นี้ขอข้อมูลตัวตนจริงของคุณกับกระเป๋าเงินดิจิทัลของคุณ ให้ดำเนินการต่อเมื่อคุณเชื่อถือไซต์นี้เท่านั้น
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

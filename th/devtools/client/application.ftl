@@ -63,7 +63,7 @@ manifest-empty-intro-link = เรียนรู้วิธีเพิ่ม�
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = ข้อผิดพลาดและคำเตือน
 # Header for the Identity section of Manifest inspection displayed in the application panel.
-manifest-item-identity = ข้อมูลประจำตัว
+manifest-item-identity = ข้อมูลตัวตน
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
 manifest-item-presentation = งานนำเสนอ
 # Header for the Icon section of Manifest inspection displayed in the application panel.

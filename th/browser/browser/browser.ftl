@@ -1328,7 +1328,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
-firefox-relay-offer-why-to-use-relay = ตัวปกปิดที่ปลอดภัยและใช้ง่ายของเราช่วยปกป้องข้อมูลประจำตัวของคุณและป้องกันสแปมด้วยการซ่อนที่อยู่อีเมลของคุณ
+firefox-relay-offer-why-to-use-relay = ตัวปกปิดที่ปลอดภัยและใช้ง่ายของเราช่วยปกป้องข้อมูลตัวตนของคุณและป้องกันสแปมด้วยการซ่อนที่อยู่อีเมลของคุณ
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = อีเมลทั้งหมดที่ส่งไปยังตัวปกปิดอีเมลของคุณจะถูกส่งต่อไปยัง <strong>{ $useremail }</strong> (นอกจากคุณจะตัดสินใจปิดกั้นอีเมลเหล่านั้น)
