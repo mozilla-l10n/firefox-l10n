@@ -483,6 +483,7 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-title =
     Upgrade auf Windows 11?
     Lassen Sie uns Ihre { -brand-product-name } Daten sichern.
+create-backup-screen-1-subtitle = Schützen Sie Ihre Passwörter, Lesezeichen und mehr automatisch in ein bis zwei Minuten.
 create-backup-screen-1-flair = Empfohlen
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Weitere Informationen</a>
 create-backup-screen-1-sync-label = Synchronisieren mit { -brand-product-name }
@@ -509,9 +510,13 @@ create-backup-screen-2-all-label = Alle Daten
 create-backup-screen-2-all-list-2 = Enthält Passwörter und Zahlungen
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Mit Passwort verschlüsselt
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Wo soll Ihr Backup gespeichert werden?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Passwort für eine Sicherungsdatei erstellen
+create-backup-screen-3-subtitle = Erforderlich, um Ihre Daten zu verschlüsseln. Bewahren Sie es an einem Ort auf, an den Sie sich erinnern werden.
 fx-backup-opt-in-header = Dateipfad wählen
+fx-backup-opt-in-filepath-label = Wählen Sie einen Ort aus, an den Sie die Daten übertragen möchten, z. B. OneDrive.
 fx-backup-opt-in-create-password-label = Passwort eingeben
 fx-backup-opt-in-confirm-btn-label = Weiter
 fx-backup-opt-in-cancel-btn-label = Zurück
