@@ -262,6 +262,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Oscuro
     .title = Usa una apariencia oscura para los fondos y el contenido del sitio web.
+web-appearance-group =
+    .aria-label = Apariencia del sitio web
 preferences-web-appearance-choice-auto = Automático
 preferences-web-appearance-choice-light = Claro
 preferences-web-appearance-choice-dark = Oscuro
@@ -530,6 +532,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Navegación
+browsing-group-label =
+    .aria-label = Navegación
 browsing-use-autoscroll =
     .label = Usar desplazamiento automático
     .accesskey = d
@@ -664,6 +668,14 @@ home-prefs-weather-header =
     .label = Clima
 home-prefs-weather-description = Pronóstico estimado para hoy
 home-prefs-weather-learn-more-link = Saber más
+home-prefs-trending-search-header =
+    .label = Búsquedas más populares
+home-prefs-trending-search-description = Temas populares y buscados con frecuencia
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Soporte { -brand-product-name }
+home-prefs-mission-message = Nuestros patrocinadores apoyan nuestra misión de construir una mejor web
+home-prefs-mission-message-learn-more-link = Descubre cómo
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -732,6 +744,9 @@ search-remove-engine =
 search-add-engine =
     .label = Agregar
     .accesskey = A
+search-edit-engine =
+    .label = Editar
+    .accesskey = E
 search-find-more-link = Encontrar más motores de búsqueda
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -740,6 +755,13 @@ search-keyword-warning-title = Palabra clave duplicada
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Seleccionaste una palabra clave usada por "{ $name }". Selecciona otra.
 search-keyword-warning-bookmark = Seleccionaste una palabra clave usada por un marcador. Selecciona otra.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Ya existe un motor de búsqueda con el nombre “{ $name }”. Elije otro nombre.
+remove-engine-confirmation = ¿Estás seguro de que deseas eliminar este motor de búsqueda?
+remove-engine-remove = Eliminar
+remove-addon-engine-alert = Para eliminar este motor de búsqueda, elimina el complemento asociado.
 
 ## Containers Section
 
@@ -1050,6 +1072,18 @@ autofill-saved-payment-methods-button = Métodos de pago guardados
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Requerir inicio de sesión en el dispositivo para introducir y administrar métodos de pago
     .accesskey = o
+autofill-payment-methods-title = Métodos de pago
+autofill-payment-methods-header =
+    .aria-label = Métodos de pago
+autofill-addresses-title = Direcciones y más
+autofill-addresses-header =
+    .aria-label = Direcciones y más
+autofill-addresses-checkbox-message =
+    .label = Guardar y autocompletar direcciones
+    .accesskey = G
+autofill-addresses-manage-addresses-button =
+    .label = Administrar direcciones y más
+    .accesskey = A
 
 ## Privacy Section - History
 
@@ -1095,6 +1129,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies y datos del sitio
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Calculando tamaño de los datos del sitio y el caché…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1122,6 +1158,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Rastreadores multisitio
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cookies de rastreo multisitio
+sitedata-option-block-cross-site-cookies2 =
+    .label = Aislar las cookies entre sitios
 sitedata-option-block-cross-site-cookies =
     .label = Cookies de rastreo entre sitios y aislamiento de otras cookies entre sitios
 sitedata-option-block-unvisited =
@@ -1381,6 +1419,7 @@ collection-header2 = Recolección de datos y uso de { -brand-short-name }
     .searchkeywords = telemetría
 preferences-collection-description = Nos esforzamos por ofrecerle opciones y recopilar sólo los datos mínimos necesarios para mejorar { -brand-product-name } para todos.
 preferences-collection-privacy-notice = Ver política de privacidad
+preferences-view-profiles = Ver todos los perfiles
 collection-description = Nos esforzamos en proporcionar opciones y recolectar solamente lo que necesitamos para proveer y mejorar { -brand-short-name } para todo el mundo. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Política de privacidad
 collection-health-report-telemetry-disabled = Ya no permites que { -vendor-short-name } capture datos técnicos y de interacción. Todos los datos anteriores se eliminarán en 30 días.

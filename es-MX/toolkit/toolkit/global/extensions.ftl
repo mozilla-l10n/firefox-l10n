@@ -26,6 +26,14 @@ webext-perms-header-required-perms = Permisos necesarios:
 webext-perms-header-optional-settings = Configuraciones opcionales:
 webext-perms-header-update-required-perms = Nuevos permisos necesarios:
 webext-perms-header-optional-required-perms = Nuevos permisos:
+webext-perms-header-data-collection-perms = Recopilación de datos requerida:
+webext-perms-header-data-collection-is-none = Recopilación de datos
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Nueva recopilación de datos requerida:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Nueva recopilación de datos:
 
 ##
 
@@ -128,3 +136,8 @@ webext-site-perms-header-unsigned-with-perms = ¿Agregar { $extension }? Esta ex
 
 webext-site-perms-midi = Acceder a dispositivos MIDI
 webext-site-perms-midi-sysex = Acceder a dispositivos MIDI con soporte para SysEx
+
+## Colorway theme migration
+
+webext-colorway-theme-migration-notification-message = Tu tema de combinación de colores se ha eliminado. { -brand-shorter-name } se ha actualizado tu colección de combinaciones de colores. Puedes encontrar las últimas versiones en el sitio de complementos.
+webext-colorway-theme-migration-notification-button = Obtén combinaciones de colores actualizadas

@@ -300,6 +300,14 @@ pdfjs-highlight-floating-button1 =
     .title = Destacados
     .aria-label = Destacados
 pdfjs-highlight-floating-button-label = Destacados
+pdfjs-comment-floating-button =
+    .title = Comentario
+    .aria-label = Comentario
+pdfjs-comment-floating-button-label = Comentario
+pdfjs-editor-comment-button =
+    .title = Comentario
+    .aria-label = Comentario
+pdfjs-editor-comment-button-label = Comentario
 pdfjs-editor-signature-button =
     .title = Agregar firma
 pdfjs-editor-signature-button-label = Añadir firma
@@ -312,6 +320,8 @@ pdfjs-editor-highlight-editor =
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = Editor de dibujos
+pdfjs-editor-stamp-editor =
+    .aria-label = Editor de imágenes
 
 ## Remove button for the various kind of editor.
 
@@ -341,13 +351,33 @@ pdfjs-editor-stamp-add-image-button-label = Agregar imagen
 pdfjs-editor-free-highlight-thickness-input = Espesor
 pdfjs-editor-free-highlight-thickness-title =
     .title = Cambiar el grosor al resaltar elementos que no sean texto
+pdfjs-editor-add-signature-container =
+    .aria-label = Controles de firma y firmas guardadas
 pdfjs-editor-signature-add-signature-button =
     .title = Agregar nueva firma
 pdfjs-editor-signature-add-signature-button-label = Agregar nueva firma
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Firma guardada: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Editor de texto
     .default-content = Comenzar a escribir…
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] Comentario
+       *[other] Comentarios
+    }
+pdfjs-editor-comments-sidebar-close-button =
+    .title = Cerrar la barra lateral
+    .aria-label = Cerrar la barra lateral
+pdfjs-editor-comments-sidebar-close-button-label = Cerrar la barra lateral
+pdfjs-editor-comments-sidebar-no-comments-link = Saber más
 
 ## Alt-text dialog
 
@@ -477,6 +507,12 @@ pdfjs-editor-alt-text-settings-editor-title = Editor de texto alternativo
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Mostrar el editor de texto alternativo inmediatamente al añadir una imagen
 pdfjs-editor-alt-text-settings-show-dialog-description = Te ayuda a asegurarte de que todas tus imágenes tengan texto alternativo.
 pdfjs-editor-alt-text-settings-close-button = Cerrar
+
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-freetext-added-alert = Texto agregado
+pdfjs-editor-ink-added-alert = Dibujo agregado
+pdfjs-editor-stamp-added-alert = Imagen agregada
 
 ## "Annotations removed" bar
 
