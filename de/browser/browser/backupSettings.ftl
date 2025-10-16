@@ -195,6 +195,7 @@ backup-error-retry = Etwas ist schiefgegangen. Bitte versuchen Sie es erneut.
 
 backup-file-header = { -brand-short-name } ist bereit zur Wiederherstellung
 backup-file-title = { -brand-short-name } wiederherstellen
+backup-file-intro = Zurück zum Surfen und stellen Sie alle Ihre Lesezeichen, Chronik und anderen Daten wieder her. <a data-l10n-name="backup-file-support-link">Weitere Informationen</a>
 backup-file-path-label = Sicherungsdatei:
 backup-file-encryption-state-label = Verschlüsselt:
 backup-file-encryption-state-value-encrypted = Ja
@@ -204,15 +205,19 @@ backup-file-creation-date-label = Erstellt:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Wie wiederherstellen:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Öffnen Sie das Anwendungsmenü ☰ und gehen Sie zu Einstellungen > Synchronisation
 backup-file-moz-browser-restore-step-2 = Klicken Sie auf „Sicherungs-Datei wählen“ und wählen Sie diese Datei
+backup-file-moz-browser-restore-step-3 = { -brand-short-name } nach Aufforderung neu starten
+backup-file-other-browser-restore-step-1 = Download und Installation von { -brand-short-name }
 backup-file-download-moz-browser-button = Herunterladen
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Starten Sie { -brand-short-name }, öffnen Sie das Anwendungsmenü ☰ und gehen Sie zu Einstellungen > Synchronisation
 backup-file-other-browser-restore-step-3 = Klicken Sie auf „Sicherungs-Datei wählen“ und wählen Sie diese Datei
+backup-file-other-browser-restore-step-4 = { -brand-short-name } nach Aufforderung neu starten
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
