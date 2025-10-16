@@ -55,3 +55,38 @@ settings-data-change-password = Mudar senha…
 
 turn-on-scheduled-backups-header = Ativar cópia de segurança
 turn-on-scheduled-backups-description = O { -brand-short-name } cria uma cópia dos seus dados a cada 24 horas. Você pode restaurar se houver um problema ou usar um novo dispositivo.
+turn-on-scheduled-backups-support-link = O que é salvo?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Local
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (recomendado)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Escolher…
+       *[other] Escolher…
+    }
+turn-on-scheduled-backups-encryption-label = Salve cópia de segurança de seus dados sensíveis
+turn-on-scheduled-backups-encryption-description = Faça backup de suas senhas, métodos de pagamento e cookies, com criptografia.
+turn-on-scheduled-backups-encryption-create-password-label = Senha
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Repetir senha
+turn-on-scheduled-backups-cancel-button = Cancelar
+turn-on-scheduled-backups-confirm-button = Ativar cópia de segurança
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Houve um problema com a pasta de backup selecionada. Escolha outra pasta e tente novamente.
+backup-error-file-system = Houve um problema com a pasta de backup selecionada ao fazer backup do { -brand-short-name }.
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = Desativar backup?
+turn-off-scheduled-backups-description = Isso também exclui todos os dados de backup. A ação não pode ser desfeita.
+turn-off-scheduled-backups-support-link = Saiba mais
+turn-off-scheduled-backups-cancel-button = Cancelar
+turn-off-scheduled-backups-confirm-button = Desativar e excluir backup
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Restaurar seus dados

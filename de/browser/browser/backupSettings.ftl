@@ -90,3 +90,31 @@ turn-off-scheduled-backups-confirm-button = Datensicherung deaktivieren und lös
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Daten wiederherstellen
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Dies wird alle Ihre aktuellen { -brand-short-name }-Daten durch Ihr Backup vom { DATETIME($date, timeStyle: "short", dateStyle: "short") } ersetzen.
+restore-from-backup-support-link =
+    .message = Was wird wiederhergestellt?
+restore-from-backup-no-backup-file-link = Haben Sie Probleme, Ihr Backup zu finden?
+restore-from-backup-filepicker-label = Sicherungsdatei
+restore-from-backup-filepicker-title = Sicherungsdatei wählen:
+restore-from-backup-password-label = Passwort
+restore-from-backup-password-description = Dies entsperrt Ihr verschlüsseltes Backup.
+restore-from-backup-cancel-button = Abbrechen
+restore-from-backup-confirm-button = Wiederherstellen und neu starten
+restore-from-backup-restoring-button = Wird wiederhergestellt…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Falsches Passwort. <a data-l10n-name="incurrent-password-support-link">Haben Sie weiterhin Probleme?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Diese Datei funktioniert nicht
+    .message = Es gab ein Problem mit Ihrer Backup-Datei. Wählen Sie eine andere Datei und versuchen Sie es erneut
