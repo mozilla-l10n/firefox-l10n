@@ -486,6 +486,7 @@ create-backup-screen-1-subtitle = Proteja automaticamente suas senhas, favoritos
 create-backup-screen-1-flair = Recomendado
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Saiba mais</a>
 create-backup-screen-1-sync-label = Sincronize com o { -brand-product-name }
+create-backup-screen-1-backup-body = Salva no seu dispositivo ou no OneDrive
 create-backup-select-tile-button-label = Selecionar
 create-backup-back-button-label = Voltar
 create-backup-show-fewer =
@@ -521,7 +522,9 @@ fx-backup-confirmation-screen-close-button = Fechar
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
+fx-backup-confirmation-screen-all-data-item-text-3 = Criptografado e protegido por senha
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Salvo no seu dispositivo
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Senhas e métodos de pagamentos não incluídos
 
 ## Restore from Backup Flow about:welcome screens
 
