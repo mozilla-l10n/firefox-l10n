@@ -195,3 +195,43 @@ backup-error-retry = Что-то пошло не так. Повторите по
 
 backup-file-header = { -brand-short-name } готов к восстановлению
 backup-file-title = Восстановить { -brand-short-name }
+backup-file-intro = Вернитесь к веб-сёрфингу и восстановите все свои закладки, историю и другие данные. <a data-l10n-name="backup-file-support-link">Подробнее</a>
+backup-file-path-label = Файл резервной копии:
+backup-file-encryption-state-label = Зашифрован:
+backup-file-encryption-state-value-encrypted = Да
+backup-file-encryption-state-value-not-encrypted = Нет
+backup-file-creation-device-label = Устройство:
+backup-file-creation-date-label = Создан:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Как восстановить:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Откройте меню приложения ☰ и перейдите в Настройки > Синхронизация
+backup-file-moz-browser-restore-step-2 = Нажмите «Выбрать файл резервной копии» и выберите этот файл
+backup-file-moz-browser-restore-step-3 = Перезапустите { -brand-short-name } по запросу
+backup-file-other-browser-restore-step-1 = Загрузите и установите { -brand-short-name }
+backup-file-download-moz-browser-button = Загрузить
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Запустите { -brand-short-name }, откройте меню приложения ☰ и перейдите в Настройки» > Синхронизация
+backup-file-other-browser-restore-step-3 = Нажмите «Выбрать файл резервной копии» и выберите этот файл
+backup-file-other-browser-restore-step-4 = Перезапустите { -brand-short-name } по запросу
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Примечание:</b> найден { $numberOfOotherBackupsFound } другой файл резервной копии
+        [few] <b>Примечание:</b> найдено { $numberOfOotherBackupsFound } других файла резервных копий
+       *[many] <b>Примечание:</b> найдено { $numberOfOotherBackupsFound } других файлов резервных копий
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Создан { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } на { $machineName }

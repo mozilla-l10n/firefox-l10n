@@ -11,6 +11,14 @@
 unified-extensions-header-title = Расширения
 unified-extensions-manage-extensions =
     .label = Управление расширениями
+unified-extensions-discover-extensions =
+    .label = Откройте для себя расширения
+unified-extensions-empty-reason-private-browsing-not-allowed = У вас установлены расширения, но они не включены в приватных окнах
+unified-extensions-empty-reason-extension-not-enabled = У вас есть установленные, но не включённые расширения
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Выведите свой уровень просмотра на новый уровень с помощью расширений
+unified-extensions-empty-content-explain-manage = Выберите «{ unified-extensions-item-message-manage }», чтобы управлять ими в настройках.
+unified-extensions-empty-content-explain-extensions-onboarding = Персонализируйте { -brand-short-name }, изменив его внешний вид и производительность или повысив приватность и безопасность.
 
 ## An extension in the main list
 

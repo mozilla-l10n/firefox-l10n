@@ -486,8 +486,11 @@ create-backup-screen-2-all-label = 所有数据
 create-backup-screen-2-all-list-2 = 包含密码和付款信息
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = 由密码加密保护
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = 选择备份文件的保存位置
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = 创建备份文件的密码
+create-backup-screen-3-subtitle = 加密数据所需。请将其保存在您不会遗忘的地方。
 fx-backup-opt-in-header = 选择文件位置
 fx-backup-opt-in-create-password-label = 请输入密码
 fx-backup-opt-in-confirm-btn-label = 继续
@@ -506,6 +509,7 @@ fx-backup-confirmation-screen-all-data-item-text-3 = 已加密并受密码保护
 fx-backup-confirmation-screen-easy-setup-item-text-1 = 包含书签、历史记录、设置等数据
 fx-backup-confirmation-screen-easy-setup-item-text-2 = 已保存到您的设备
 fx-backup-confirmation-screen-easy-setup-item-text-3 = 不包含密码和付款信息
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = 可前往<a data-l10n-name="settings">设置</a>将敏感数据纳入备份。
 fx-backup-confirmation-screen-item-subtext-2 = 需要重新安装时，{ -brand-short-name } 将查找您的备份。
 
 ## Restore from Backup Flow about:welcome screens
@@ -533,4 +537,5 @@ restored-from-backup-error-primary-button = 关闭
 onboarding-personalization-title = 定制您的 { -brand-short-name } 使用体验
 onboarding-personalization-subtitle = 回答几个问题，我们将为您推荐能优化 { -brand-short-name } 使用体验的功能和扩展。
 onboarding-personalization-use-case-school-option = 学习
+onboarding-personalization-motivation-title = 您最看重 { -brand-short-name } 的哪些特色？
 onboarding-personalization-motivation-privacy-option = 隐私和安全

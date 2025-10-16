@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Включить автозаполнение а
 policy-AutofillCreditCardEnabled = Включить автозаполнение для способов оплаты.
 policy-AutoLaunchProtocolsFromOrigins = Определяет список внешних протоколов, которые могут быть вызваны из указанных источников без запроса пользователя.
 policy-BackgroundAppUpdate2 = Включает или отключает фоновое обновление.
+policy-Backup = Отключает резервное копирование или восстановление данных профиля.
 policy-BlockAboutAddons = Блокирует доступ к менеджеру дополнений (about:addons).
 policy-BlockAboutConfig = Блокирует доступ к странице about:config.
 policy-BlockAboutProfiles = Блокирует доступ к странице about:profiles.
