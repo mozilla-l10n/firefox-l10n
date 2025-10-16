@@ -21,7 +21,7 @@ backup-folder-name = Ripristina { -brand-product-name }
 backup-file-name = Backup{ -brand-product-name }
 settings-data-backup-header = Backup
 settings-data-backup-toggle = Gestisci backup
-settings-data-backup-trigger-button = Esegui ora il backup
+settings-data-backup-trigger-button = Effettua backup adesso
 settings-data-backup-in-progress-button = Backup in corso…
 settings-data-backup-scheduled-backups-on = Backup: ATTIVO
 settings-data-backup-scheduled-backups-off = Backup: DISATTIVATO
@@ -61,7 +61,7 @@ turn-on-scheduled-backups-location-label = Posizione
 # Variables:
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
-    .value = { $recommendedFolder } (consigliato)
+    .value = { $recommendedFolder } (consigliata)
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Scegli…
@@ -82,7 +82,7 @@ backup-error-file-system = Si è verificato un problema con la cartella selezion
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Disattivare il backup?
-turn-off-scheduled-backups-description = Questo elimina anche tutti i dati di backup. L’operazione non può essere annullata.
+turn-off-scheduled-backups-description = Questa operazione eliminerà anche tutti i file di backup salvati. L’operazione non può essere annullata.
 turn-off-scheduled-backups-support-link = Ulteriori informazioni
 turn-off-scheduled-backups-cancel-button = Annulla
 turn-off-scheduled-backups-confirm-button = Disattiva ed elimina i backup
@@ -163,7 +163,7 @@ change-backup-encryption-header = Cambia la password del backup
 
 password-rules-header = Requisiti per la password
 password-rules-length-description = Almeno 8 caratteri
-password-rules-email-description = Non corrisponde al tuo indirizzo di posta elettronica
+password-rules-email-description = Non deve corrispondere al tuo indirizzo di posta elettronica
 password-rules-disclaimer = Rimani al sicuro: non riutilizzare le password. Scopri altri consigli per <a data-l10n-name="password-support-link">creare password complesse</a>.
 password-validity-has-email = Non può essere un indirizzo email
 password-validity-do-not-match = Le password non corrispondono
@@ -239,4 +239,3 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Creato il { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } su { $machineName }
-
