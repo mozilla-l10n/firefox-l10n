@@ -105,6 +105,7 @@ restore-from-backup-file-choose-button =
        *[other] עיון…
     }
 restore-from-backup-password-label = ססמה
+restore-from-backup-password-description = הססמה פותחת את הגיבוי המוצפן שלך.
 restore-from-backup-cancel-button = ביטול
 restore-from-backup-confirm-button = שחזור והפעלה מחדש
 restore-from-backup-restoring-button = בתהליך שחזור…
