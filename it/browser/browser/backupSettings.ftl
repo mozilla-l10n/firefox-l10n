@@ -240,3 +240,4 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Creato il { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } su { $machineName }
 
+
