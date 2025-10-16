@@ -326,3 +326,8 @@ tab-context-add-split-view =
 tab-context-open-in-split-view =
     .label = 분할 보기 열기
     .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = 분할 보기 분리
+    .accesskey = t
+tab-context-badge-new = 신규

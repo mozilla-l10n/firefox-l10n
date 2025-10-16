@@ -11,6 +11,8 @@
 unified-extensions-header-title = 扩展
 unified-extensions-manage-extensions =
     .label = 管理扩展
+unified-extensions-discover-extensions =
+    .label = 探索扩展
 unified-extensions-empty-reason-private-browsing-not-allowed = 您已安装扩展，但未在隐私窗口中启用。
 unified-extensions-empty-reason-extension-not-enabled = 您已安装扩展，但未启用。
 # In this headline, “Level up” means to enhance your browsing experience.

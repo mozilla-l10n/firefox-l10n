@@ -17,6 +17,7 @@ unified-extensions-empty-reason-private-browsing-not-allowed = 확장 기능이 
 unified-extensions-empty-reason-extension-not-enabled = 확장 기능이 설치되어 있지만 활성화되지 않음
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = 확장 기능으로 탐색 수준을 높여보세요
+unified-extensions-empty-content-explain-enable = 설정에서 활성화하려면 “{ unified-extensions-item-message-manage }”를 선택하세요.
 unified-extensions-empty-content-explain-manage = 설정에서 관리하려면 “{ unified-extensions-item-message-manage }”를 선택하세요.
 unified-extensions-empty-content-explain-extensions-onboarding = { -brand-short-name }의 모양과 성능을 변경하거나 개인정보 보호 및 안전성을 강화하여 개인화해 보세요.
 
