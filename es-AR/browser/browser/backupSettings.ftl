@@ -123,3 +123,16 @@ backup-service-error-incorrect-password = Contraseña incorrecta. <a data-l10n-n
 backup-service-error-corrupt-file =
     .heading = Este archivo no funciona
     .message = Hubo un problema con el archivo de copia de seguridad. Seleccione un archivo diferente y pruebe nuevamente.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Este archivo no funciona
+    .message = El archivo seleccionado no es compatible con esta versión de { -brand-short-name }. Seleccione un archivo diferente y pruebe nuevamente.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Este archivo no funciona
+    .message = El archivo seleccionado no fue creado por { -brand-short-name }. Seleccione un archivo diferente y pruebe nuevamente.
