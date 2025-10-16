@@ -204,4 +204,32 @@ backup-file-creation-date-label = Create:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Como restaurar:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Aperi le menu del application ☰ e va a Parametros > Synchronisar
+backup-file-moz-browser-restore-step-2 = Cliccar “Eliger file de salveguarda” e elige iste file
+backup-file-moz-browser-restore-step-3 = Reinitialisa { -brand-short-name } quando demandate
+backup-file-other-browser-restore-step-1 = Discarga e installa { -brand-short-name }
 backup-file-download-moz-browser-button = Discargar
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Lancea { -brand-short-name }, aperi le menu del application ☰ e va a Parametros > Synchronisar
+backup-file-other-browser-restore-step-3 = Clicca “Eliger file de salveguarda” e elige iste file
+backup-file-other-browser-restore-step-4 = Reinitialisa { -brand-short-name } quando demandate
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Nota:</b> { $numberOfOtherBackupsFound } altere file de salveguarda trovate
+       *[other] <b>Nota:</b> { $numberOfOtherBackupsFound } altere files de salveguarda trovate
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Create le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } sur { $machineName }

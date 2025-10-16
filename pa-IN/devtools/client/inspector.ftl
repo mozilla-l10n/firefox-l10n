@@ -6,7 +6,13 @@
 ### These strings are used inside the Inspector
 ### which is available from the Browser Tools sub-menu -> 'Inspect'.
 
+# A title text for the spectrum dragger panel in the color picker tooltip.
+colorpicker-tooltip-spectrum-dragger-title = ਸਪੈਕਟਰਮ
 # A title text for the eyedropper in the color picker tooltip.
 colorpicker-tooltip-eyedropper-title = ਸਫ਼਼ੇ ਤੋਂ ਰੰਗ ਚੁਣੋ
+# A title text for the closest color name shown in the color picker tooltip, used together with the actual color.
+# Variables:
+#   $colorName (String): the color name the current color is closest to.
+colorpicker-tooltip-color-name-title = ਇਸ ਦੇ ਸਭ ਤੋਂ ਨੇੜੇ: { $colorName }
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = ਪਾਰਦਰਸ਼ਤਾ

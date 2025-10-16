@@ -149,6 +149,11 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Clauder
 windows-10-eos-sync-callout-primary-advance-button-label = Sequente
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Nove: Cliccar e retener pro ligamines de vista preliminar
+link-preview-onboarding-callout-description = Vider un breve description, tempore de lectura, e altero pro decider si un ligamine vale le clic. Alsi disponibile sur cliccar dextre.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Monstrar titulos de scheda in le barra lateral
