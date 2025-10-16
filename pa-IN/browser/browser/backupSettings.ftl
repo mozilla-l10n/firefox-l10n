@@ -73,3 +73,15 @@ turn-on-scheduled-backups-confirm-button = ਬੈਕਅੱਪ ਨੂੰ ਚਾ�
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = ਬੈਕਅੱਪ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
+turn-off-scheduled-backups-description = ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਸਾਰੇ ਬੈਕਅੱਪ ਡਾਟੇ ਨੂੰ ਵੀ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਇਸ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+turn-off-scheduled-backups-support-link = ਹੋਰ ਜਾਣੋ
+turn-off-scheduled-backups-cancel-button = ਰੱਦ ਕਰੋ
+turn-off-scheduled-backups-confirm-button = ਬੰਦ ਕਰੋ ਅਤੇ ਬੈਕਅੱਪ ਨੂੰ ਹਟਾਓ
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰੋ
+restore-from-backup-support-link =
+    .message = ਕਿਸ ਨੂੰ ਬਹਾਲ ਕੀਤਾ ਜਾਵੇਗਾ?
+restore-from-backup-no-backup-file-link = ਆਪਣੇ ਬੈਕਅੱਪ ਲੱਭਣ ਲਈ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ?
+restore-from-backup-filepicker-label = ਬੈਕਅੱਪ ਫ਼ਾਇਲ
