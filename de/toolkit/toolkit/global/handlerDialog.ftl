@@ -20,6 +20,9 @@ permission-dialog-description-file-app = Dieser Datei erlauben, den { $scheme }-
 permission-dialog-description-extension-app = Der Erweiterung { $extension } erlauben, den { $scheme }-Link mit { $appName } zu öffnen?
 permission-dialog-description-system-app = Den { $scheme }-Link mit { $appName } öffnen?
 permission-dialog-description-system-noapp = Den { $scheme }-Link öffnen?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Dieser Webseite erlauben, Ihre digitale Brieftasche zu öffnen?
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-host-app = Das Öffnen eines <strong>{ $scheme }</strong>-Links ermöglicht es <strong>{ $host }</strong>, Ihre echte Identität mit <strong>{ $appName }</strong> abzufragen. Nur fortfahren, wenn Sie dieser Website vertrauen.
 # Warning given to the user that the current page is trying to open their digital wallet app
