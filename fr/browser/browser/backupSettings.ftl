@@ -86,3 +86,45 @@ turn-off-scheduled-backups-confirm-button = Désactiver et supprimer les sauvega
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Restaurer vos données
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Cette action remplacera toutes vos données actuelles de { -brand-short-name } par celles de votre sauvegarde du { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Quelles données seront restaurées ?
+restore-from-backup-no-backup-file-link = Vous ne parvenez pas à retrouver votre sauvegarde ?
+restore-from-backup-filepicker-label = Fichier de sauvegarde
+restore-from-backup-filepicker-title = Choisir un fichier de sauvegarde :
+restore-from-backup-file-choose-button = Parcourir…
+restore-from-backup-password-label = Mot de passe
+restore-from-backup-password-description = Il permet de déverrouiller votre sauvegarde chiffrée.
+restore-from-backup-cancel-button = Annuler
+restore-from-backup-confirm-button = Restaurer et redémarrer
+restore-from-backup-restoring-button = Restauration…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Mot de passe incorrect. <a data-l10n-name="incorrect-password-support-link">Vous avez toujours des problèmes ?</a>
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Sauvegarder vos données sensibles
+enable-backup-encryption-description = Sauvegardez vos mots de passe, modes de paiement et cookies, et protégez vos données grâce au chiffrement.
+enable-backup-encryption-support-link = En savoir plus
+enable-backup-encryption-create-password-label = Mot de passe
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Répéter le mot de passe
+enable-backup-encryption-cancel-button = Annuler
+enable-backup-encryption-confirm-button = Enregistrer
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-length-description = Au moins 8 caractères
+password-rules-email-description = Différent de votre adresse e-mail
+password-rules-disclaimer = Protégez-vous — ne réutilisez pas vos mots de passe. Voici plus de conseils pour <a data-l10n-name="password-support-link">créer des mots de passe robustes</a>.
+password-validity-has-email = Ne peut pas être une adresse e-mail
+password-validity-do-not-match = Les mots de passe ne correspondent pas
