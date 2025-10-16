@@ -109,6 +109,30 @@ restore-from-backup-restoring-button = Restauration…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Mot de passe incorrect. <a data-l10n-name="incorrect-password-support-link">Vous avez toujours des problèmes ?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Ce fichier ne fonctionne pas
+    .message = Il y a un problème avec votre fichier de sauvegarde. Veuillez choisir un autre fichier et réessayer.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Ce fichier ne fonctionne pas
+    .message = Le fichier que vous avez sélectionné n’est pas compatible avec cette version de { -brand-short-name }. Veuillez choisir un autre fichier et réessayer.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Ce fichier ne fonctionne pas
+    .message = Le fichier que vous avez sélectionné n’a pas été créé par { -brand-short-name }. Veuillez choisir un autre fichier et réessayer.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } n’a pas pu être restauré
+    .message = Veuillez redémarrer { -brand-short-name } et essayer de le restaurer à nouveau.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -120,9 +144,11 @@ enable-backup-encryption-create-password-label = Mot de passe
 enable-backup-encryption-repeat-password-label = Répéter le mot de passe
 enable-backup-encryption-cancel-button = Annuler
 enable-backup-encryption-confirm-button = Enregistrer
+change-backup-encryption-header = Modifier le mot de passe de la sauvegarde
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
+password-rules-header = Exigences pour le mot de passe
 password-rules-length-description = Au moins 8 caractères
 password-rules-email-description = Différent de votre adresse e-mail
 password-rules-disclaimer = Protégez-vous — ne réutilisez pas vos mots de passe. Voici plus de conseils pour <a data-l10n-name="password-support-link">créer des mots de passe robustes</a>.
@@ -131,6 +157,8 @@ password-validity-do-not-match = Les mots de passe ne correspondent pas
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
+password-rules-a11y-success =
+    .alt = Exigence respectée
 password-rules-a11y-warning =
     .alt = Avertissement
 
@@ -145,6 +173,7 @@ disable-backup-encryption-confirm-button = Supprimer le mot de passe
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = Votre mot de passe ne répond pas aux exigences. Veuillez essayer avec un autre mot de passe.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
@@ -181,3 +210,19 @@ backup-file-download-moz-browser-button = Télécharger
 backup-file-other-browser-restore-step-2 = Lancez { -brand-short-name }, ouvrez le menu de l’application ☰ et rendez-vous dans Paramètres > Synchronisation
 backup-file-other-browser-restore-step-3 = Cliquez sur « Choisir un fichier de sauvegarde » et sélectionnez ce fichier
 backup-file-other-browser-restore-step-4 = Redémarrez { -brand-short-name } lorsque cela vous est demandé
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Remarque :</b> { $numberOfOtherBackupsFound } autre fichier de sauvegarde a été trouvé
+       *[other] <b>Remarque :</b> { $numberOfOtherBackupsFound } autres fichiers de sauvegarde ont été trouvés
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Créé le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } sur { $machineName }
