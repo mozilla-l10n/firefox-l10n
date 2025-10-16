@@ -39,13 +39,13 @@ pocket-panel-signup-login = เข้าสู่ระบบ
 pocket-panel-signup-signup-email = ลงทะเบียนด้วยอีเมล
 pocket-panel-signup-signup-cta = ลงทะเบียน { -pocket-brand-name } ฟรี
 pocket-panel-signup-signup-firefox = ลงทะเบียนด้วย { -brand-product-name }
-pocket-panel-signup-tagline = บันทึกบทความและวิดีโอจาก { -brand-product-name } เพื่อดูใน { -pocket-brand-name } ด้วยอุปกรณ์ต่างๆ เวลาไหนก็ได้
+pocket-panel-signup-tagline = บันทึกบทความและวิดีโอจาก { -brand-product-name } เพื่อดูใน { -pocket-brand-name } ด้วยอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
 pocket-panel-signup-tagline-story-one = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ หรือหน้าจาก { -brand-product-name }
-pocket-panel-signup-tagline-story-two = ดูใน { -pocket-brand-name } ด้วยอุปกรณ์ต่างๆ เวลาไหนก็ได้
+pocket-panel-signup-tagline-story-two = ดูใน { -pocket-brand-name } ด้วยอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
 pocket-panel-signup-cta-a-fix = ปุ่มบันทึกของคุณสำหรับอินเทอร์เน็ต
-pocket-panel-signup-cta-b-updated = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ และลิงก์ ดูรายการที่บันทึกไว้ของคุณในอุปกรณ์ต่างๆ เวลาไหนก็ได้
+pocket-panel-signup-cta-b-updated = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ และลิงก์ ดูรายการที่บันทึกไว้ของคุณในอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
 pocket-panel-signup-cta-b-short = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ และลิงก์
-pocket-panel-signup-cta-c-updated = ดูรายการที่บันทึกไว้ของคุณในอุปกรณ์ต่างๆ เวลาไหนก็ได้
+pocket-panel-signup-cta-c-updated = ดูรายการที่บันทึกไว้ของคุณในอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
 
 ## about:pocket-home panel
 
