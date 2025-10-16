@@ -128,7 +128,22 @@ backup-service-error-corrupt-file =
 # the backed up profile may no longer be supported.
 backup-service-error-unsupported-version =
     .heading = הקובץ הזה לא עובד
-    .message = הקובץ שבחרת אינו נתמך בגרסה זו של { -brand-short-name }. נא להביא בקובץ אחר ולנסות שוב.
+    .message = הקובץ הנבחר אינו נתמך בגרסה זו של { -brand-short-name }. נא לבחור בקובץ אחר ולנסות שוב.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = הקובץ הזה לא עובד
+    .message = הקובץ הנבחר לא נוצר על־ידי { -brand-short-name }. נא לבחור בקובץ אחר ולנסות שוב.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = ‏{ -brand-short-name } לא הצליח לשחזר
+    .message = נא להפעיל מחדש את { -brand-short-name } ולנסות ולשחזר את הגיבוי שלך שוב.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = גיבוי הנתונים הרגישים שלך
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
