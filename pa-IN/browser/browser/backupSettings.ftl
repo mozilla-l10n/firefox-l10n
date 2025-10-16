@@ -51,3 +51,25 @@ settings-data-change-password = …ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = ਬੈਕਅੱਪ ਨੂੰ ਚਾਲੂ ਕਰੋ
+turn-on-scheduled-backups-support-link = ਕਿਸ ਦਾ ਬੈਕਅੱਪ ਲਿਆ ਜਾਵੇਗਾ?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = ਟਿਕਾਣਾ
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (ਸਿਫਾਰਸ਼ੀ)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] …ਚੁਣੋ
+       *[other] …ਝਲਕ
+    }
+turn-on-scheduled-backups-encryption-label = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
+turn-on-scheduled-backups-encryption-create-password-label = ਪਾਸਵਰਡ
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = ਪਾਸਵਰਡ ਦੁਹਰਾਓ
+turn-on-scheduled-backups-cancel-button = ਰੱਦ ਕਰੋ
+turn-on-scheduled-backups-confirm-button = ਬੈਕਅੱਪ ਨੂੰ ਚਾਲੂ ਕਰੋ
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = ਬੈਕਅੱਪ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
