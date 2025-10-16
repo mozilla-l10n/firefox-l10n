@@ -85,3 +85,83 @@ restore-from-backup-support-link =
     .message = ਕਿਸ ਨੂੰ ਬਹਾਲ ਕੀਤਾ ਜਾਵੇਗਾ?
 restore-from-backup-no-backup-file-link = ਆਪਣੇ ਬੈਕਅੱਪ ਲੱਭਣ ਲਈ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ?
 restore-from-backup-filepicker-label = ਬੈਕਅੱਪ ਫ਼ਾਇਲ
+restore-from-backup-filepicker-title = ਬੈਕਅੱਪ ਫ਼ਾਇਲ ਨੂੰ ਚੁਣੋ:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] …ਚੁਣੋ
+       *[other] …ਝਲਕ
+    }
+restore-from-backup-password-label = ਪਾਸਵਰਡ
+restore-from-backup-password-description = ਇਹ ਤੁਹਾਡੇ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਹੋਏ ਬੈਕਅੱਪ ਨੂੰ ਅਣ-ਲਾਕ ਕਰੇਗਾ।
+restore-from-backup-cancel-button = ਰੱਦ ਕਰੋ
+restore-from-backup-confirm-button = ਬਹਾਲ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+restore-from-backup-restoring-button = …ਬਹਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = ਪਾਸਵਰਡ ਗਲਤ ਹੈ। <a data-l10n-name="incorrect-password-support-link">ਹਾਲੇ ਵੀ ਸਮੱਸਿਆਵਾਂ ਹਨ?</a>
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-support-link = ਹੋਰ ਜਾਣੋ
+enable-backup-encryption-create-password-label = ਪਾਸਵਰਡ
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = ਪਾਸਵਰਡ ਦੁਹਰਾਓ
+enable-backup-encryption-cancel-button = ਰੱਦ ਕਰੋ
+enable-backup-encryption-confirm-button = ਸੰਭਾਲੋ
+change-backup-encryption-header = ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = ਪਾਸਵਰਡ ਲਈ ਜ਼ਰੂਰਤਾਂ
+password-rules-length-description = ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ
+password-rules-email-description = ਤੁਹਾਡਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਨਹੀਂ ਹੈ
+password-validity-has-email = ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ
+password-validity-do-not-match = ਪਾਸਵਰਡ ਮਿਲਦੇ ਨਹੀਂ ਹਨ
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = ਕਾਮਯਾਬ
+password-rules-a11y-warning =
+    .alt = ਚੇਤਾਵਨੀ
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = ਪਾਸਵਰਡ ਸੁਰੱਖਿਆ ਨੂੰ ਹਟਾਓ
+disable-backup-encryption-description = ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ, ਭੁਗਤਾਨ ਦੇ ਢੰਗ ਅਤੇ ਕੂਕੀਜ਼ ਦਾ ਬੈਕਅੱਪ ਨਹੀਂ ਲਿਆ ਜਾਵੇਗਾ।
+disable-backup-encryption-support-link = ਕਿਸ ਦਾ ਬੈਕਅੱਪ ਲਿਆ ਜਾਵੇਗਾ?
+disable-backup-encryption-cancel-button = ਰੱਦ ਕਰੋ
+disable-backup-encryption-confirm-button = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = ਤੁਹਾਡਾ ਪਾਸਵਰਡ ਸ਼ਰਤਾਂ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰਦਾ ਹੈ। ਵੱਖਰੇ ਪਾਸਵਰਡ ਨੂੰ ਅਜ਼ਮਾਓ।
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = ਕੁਝ ਗਲਤ ਵਾਪਰਿਆ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } ਬਹਾਲ ਕੀਤੇ ਜਾਣ ਲਈ ਤਿਆਰ ਹੈ
+backup-file-title = { -brand-short-name } ਨੂੰ ਬਹਾਲ ਕਰੋ
+backup-file-path-label = ਬੈਕਅੱਪ ਫ਼ਾਇਲ:
+backup-file-encryption-state-label = ਇਕ੍ਰਿਪਟਡ:
+backup-file-encryption-state-value-encrypted = ਹਾਂ
+backup-file-encryption-state-value-not-encrypted = ਨਹੀਂ
+backup-file-creation-device-label = ਡਿਵਾਈਸ:
+backup-file-creation-date-label = ਬਣਾਇਆ:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = ਕਿਵੇਂ ਬਹਾਲ ਕਰਨਾ ਹੈ:
