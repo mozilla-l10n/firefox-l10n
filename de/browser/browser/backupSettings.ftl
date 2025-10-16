@@ -35,7 +35,7 @@ settings-data-create-backup-error = Beim Erstellen Ihres Backups am { DATETIME($
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Dateiname: { $fileName }
-settings-data-backup-restore-header = Ihre Daten wiederherstellen
+settings-data-backup-restore-header = Daten wiederherstellen
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
@@ -93,7 +93,7 @@ restore-from-backup-header = Daten wiederherstellen
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
-    .message = Dies wird alle Ihre aktuellen { -brand-short-name }-Daten durch Ihr Backup vom { DATETIME($date, timeStyle: "short", dateStyle: "short") } ersetzen.
+    .message = Dies wird alle Ihre aktuellen { -brand-short-name }-Daten durch das Backup vom { DATETIME($date, timeStyle: "short", dateStyle: "short") } ersetzen.
 restore-from-backup-support-link =
     .message = Was wird wiederhergestellt?
 restore-from-backup-no-backup-file-link = Haben Sie Probleme, Ihr Backup zu finden?

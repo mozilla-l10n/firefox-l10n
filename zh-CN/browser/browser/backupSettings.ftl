@@ -40,7 +40,7 @@ settings-data-backup-restore-header = 恢复数据
 ## These strings are shown under the header if scheduled backups are disabled.
 
 settings-data-backup-scheduled-backups-off-restore-description = 使用其他设备上的 { -brand-product-name } 备份来恢复您的数据。
-settings-data-backup-scheduled-backups-off-restore-choose = 选择备份文件。
+settings-data-backup-scheduled-backups-off-restore-choose = 选择备份文件…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
@@ -93,9 +93,7 @@ restore-from-backup-header = 恢复数据
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
-    .message = 此操作将使用 { DATETIME($date, timeStyle: "short", dateStyle: "short") } 的备份替换 { -brand-short-name } 当前的所有数据。
-restore-from-backup-support-link =
-    .message = 选择要恢复的内容
+    .message = 此操作将使用 { DATETIME($date, timeStyle: "short", dateStyle: "short") } 的备份替换 { -brand-short-name } 当前所有数据。
 restore-from-backup-filepicker-label = 备份文件
 restore-from-backup-filepicker-title = 选择备份文件：
 restore-from-backup-file-choose-button =
@@ -106,6 +104,7 @@ restore-from-backup-file-choose-button =
 restore-from-backup-password-label = 密码
 restore-from-backup-password-description = 用于解锁加密的文件。
 restore-from-backup-cancel-button = 取消
+restore-from-backup-confirm-button = 恢复并重启
 restore-from-backup-restoring-button = 正在恢复…
 
 ## These strings are displayed in a small error message bar in the settings
