@@ -25,6 +25,8 @@ settings-data-backup-trigger-button = 立即備份
 settings-data-backup-in-progress-button = 正在備份…
 settings-data-backup-scheduled-backups-on = 備份：開啟
 settings-data-backup-scheduled-backups-off = 備份：關閉
+settings-data-backup-scheduled-backups-description = 自動保護您的書籤、瀏覽紀錄與其他資料。<a data-l10n-name="support-link">了解更多</a>
+settings-data-backup-last-backup-date = 上次備份時間：{ DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = 位置
 settings-data-backup-last-backup-location-show-in-folder = 於資料夾顯示
@@ -42,6 +44,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = 選擇備份檔…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = 還原最後一次備份的 { -brand-product-name } 資料。
 settings-data-backup-scheduled-backups-on-restore-choose = 還原…
 settings-data-toggle-encryption-label = 備份敏感資料
 settings-data-toggle-encryption-description = 加密備份您的網站密碼、付款方式、Cookie 等資料
@@ -51,6 +54,7 @@ settings-data-change-password = 更改密碼…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = 開啟備份
+turn-on-scheduled-backups-description = { -brand-short-name } 將每 24 小時建立一次備份資料快照，若遇到問題，或獲得新裝置就可以直接還原。
 turn-on-scheduled-backups-support-link = 會備份哪些資料？
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = 位置
@@ -70,10 +74,15 @@ turn-on-scheduled-backups-encryption-create-password-label = 密碼
 turn-on-scheduled-backups-encryption-repeat-password-label = 重複輸入密碼
 turn-on-scheduled-backups-cancel-button = 取消
 turn-on-scheduled-backups-confirm-button = 開啟備份
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = 您選擇的備份資料夾有問題，請選擇其他資料夾後再試一次。
+backup-error-file-system = 將 { -brand-short-name } 備份到您指定的資料夾時，遇到問題。
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = 要關閉備份嗎？
+turn-off-scheduled-backups-description = 也會刪除所有備份資料，無法還原。
 turn-off-scheduled-backups-support-link = 了解更多
 turn-off-scheduled-backups-cancel-button = 取消
 turn-off-scheduled-backups-confirm-button = 關閉並刪除備份檔
@@ -184,3 +193,29 @@ backup-file-header = 已經準備好可以還原 { -brand-short-name }。
 backup-file-title = 還原 { -brand-short-name }
 backup-file-path-label = 備份檔：
 backup-file-encryption-state-label = 加密：
+backup-file-encryption-state-value-encrypted = 是
+backup-file-encryption-state-value-not-encrypted = 否
+backup-file-creation-device-label = 裝置：
+backup-file-creation-date-label = 建立於：
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") }
+backup-file-how-to-restore-header = 如何還原：
+backup-file-moz-browser-restore-step-2 = 點擊「選擇備份檔」，並選擇這個檔案
+backup-file-moz-browser-restore-step-3 = 收到提示後，重新啟動 { -brand-short-name }
+backup-file-other-browser-restore-step-1 = 下載並安裝 { -brand-short-name }
+backup-file-download-moz-browser-button = 下載
+backup-file-other-browser-restore-step-3 = 點擊「選擇備份檔」，並選擇這個檔案
+backup-file-other-browser-restore-step-4 = 收到提示後，重新啟動 { -brand-short-name }
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds = <b>註：</b>找到另 { $numberOfOtherBackupsFound } 個備份檔
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = 於 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }，從 { $machineName } 建立

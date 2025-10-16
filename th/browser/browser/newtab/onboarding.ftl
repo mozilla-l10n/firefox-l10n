@@ -502,6 +502,41 @@ create-backup-screen-2-easy-label = ตั้งค่าแบบง่าย
 create-backup-screen-2-easy-list-1 = ที่คั่นหน้า ประวัติ การตั้งค่า และอื่น ๆ
 # Preceded by a red X indicating that these are not included in the "Easy setup" backup
 create-backup-screen-2-easy-list-2 = ไม่รวมรหัสผ่านและการชำระเงิน
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = ไม่ได้เข้ารหัสลับ
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = ข้อมูลทั้งหมด
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = รวมรหัสผ่านและการชำระเงิน
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = เข้ารหัสลับด้วยรหัสผ่าน
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = คุณต้องการบันทึกข้อมูลสำรองไว้ที่ไหน?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = สร้างรหัสผ่านไฟล์ข้อมูลสำรอง
+create-backup-screen-3-subtitle = ต้องใช้เพื่อเข้ารหัสลับข้อมูลของคุณ โปรดเก็บไว้ในที่ที่คุณจำได้
+fx-backup-opt-in-header = เลือกตำแหน่งที่ตั้งไฟล์
+fx-backup-opt-in-filepath-label = เลือกตำแหน่งที่คุณวางแผนจะถ่ายโอนข้อมูลไปยังอุปกรณ์ใหม่ เช่น OneDrive
+fx-backup-opt-in-create-password-label = ใส่รหัสผ่าน
+fx-backup-opt-in-confirm-btn-label = ดำเนินการต่อ
+fx-backup-opt-in-cancel-btn-label = ย้อนกลับ
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = การสำรองข้อมูลของคุณกำหนดเวลาไว้แล้ว
+fx-backup-confirmation-screen-close-button = ปิด
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = รวมข้อมูลการเรียกดูทั้งหมด
+fx-backup-confirmation-screen-all-data-item-text-2 = บันทึกลงในอุปกรณ์ของคุณ
+fx-backup-confirmation-screen-all-data-item-text-3 = เข้ารหัสลับและป้องกันด้วยรหัสผ่าน
+fx-backup-confirmation-screen-easy-setup-item-text-1 = รวมที่คั่นหน้า ประวัติ การตั้งค่า และข้อมูลอื่น ๆ
+fx-backup-confirmation-screen-easy-setup-item-text-2 = บันทึกลงในอุปกรณ์ของคุณ
+fx-backup-confirmation-screen-easy-setup-item-text-3 = ไม่รวมรหัสผ่านและการชำระเงิน
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = ไปยัง<a data-l10n-name="settings">การตั้งค่า</a>เพื่อรวมข้อมูลที่ละเอียดอ่อน
+fx-backup-confirmation-screen-item-subtext-1 = การสำรองข้อมูลจะเริ่มในอีกไม่กี่นาทีและจะทำงานวันละครั้ง คุณสามารถตรวจความคืบหน้าได้ใน<a data-l10n-name="settings">การตั้งค่า</a>
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } จะมองหาข้อมูลสำรองของคุณถ้าคุณต้องการติดตั้งใหม่
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -521,3 +556,17 @@ restored-from-backup-success-no-checklist-primary-button = ดำเนินก
 restored-from-backup-error-title = อืม มีปัญหาเกิดขึ้นกับไฟล์ข้อมูลสำรองของคุณ
 restored-from-backup-error-subtitle = หากคุณมีไฟล์ข้อมูลสำรอง { -brand-short-name } ไฟล์อื่น ให้ลองเรียกคืนจากไฟล์นั้น <a data-l10n-name="restore-problems">ยังคงเจอปัญหาอยู่ใช่ไหม?</a>
 restored-from-backup-error-primary-button = ปิด
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = ปรับแต่งประสบการณ์ { -brand-short-name } ของคุณ
+onboarding-personalization-subtitle = ตอบคำถามสักหน่อย แล้วเราจะแนะนำคุณลักษณะและส่วนขยายเพื่อปรับปรุงการใช้ { -brand-short-name } ของคุณ
+onboarding-personalization-use-case-title = คุณจะใช้ { -brand-short-name } สำหรับอะไร?
+onboarding-personalization-use-case-personal-option = ส่วนบุคคล
+onboarding-personalization-use-case-school-option = โรงเรียน
+onboarding-personalization-use-case-work-option = ที่ทำงาน
+onboarding-personalization-motivation-title = คุณลักษณะใดของ { -brand-short-name } สำคัญที่สุดสำหรับคุณ?
+onboarding-personalization-motivation-privacy-option = ความเป็นส่วนตัวและความปลอดภัย
+onboarding-personalization-motivation-productivity-option = ผลผลิต
+onboarding-personalization-motivation-other-option = อื่น ๆ
