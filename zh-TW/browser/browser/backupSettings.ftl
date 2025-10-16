@@ -90,6 +90,10 @@ turn-off-scheduled-backups-confirm-button = 關閉並刪除備份檔
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = 還原您的資料
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = 將使用 { DATETIME($date, timeStyle: "short", dateStyle: "short") } 備份檔當中的資料，取代 { -brand-short-name } 現有的所有資料。
 restore-from-backup-support-link =
     .message = 會還原哪些資料？
 restore-from-backup-no-backup-file-link = 尋找備份檔時遇到問題嗎？

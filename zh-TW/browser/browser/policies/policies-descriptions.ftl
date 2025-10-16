@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = 開啟地址自動填寫功能。
 policy-AutofillCreditCardEnabled = 開啟付款方式自動填寫功能。
 policy-AutoLaunchProtocolsFromOrigins = 列舉一組外部通訊協定的清單與來源網址，可不提示使用者就自動啟動外部通訊協定。
 policy-BackgroundAppUpdate2 = 啟用或停用背景更新程式。
+policy-Backup = 停用備份或還原設定檔資料。
 policy-BlockAboutAddons = 防止開啟附加元件管理員（about:addons）。
 policy-BlockAboutConfig = 防止開啟 about:config 頁面。
 policy-BlockAboutProfiles = 防止開啟 about:profiles 頁面。

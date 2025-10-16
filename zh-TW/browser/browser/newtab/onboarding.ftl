@@ -497,6 +497,8 @@ create-backup-screen-2-all-label = 所有資料
 create-backup-screen-2-all-list-2 = 包含密碼與付款資訊
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = 使用密碼加密
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = 您想將備份檔案放在哪裡？
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = 為備份檔設定密碼
 create-backup-screen-3-subtitle = 需要有密碼才能加密資料，請將密碼保存於能記得的地方。

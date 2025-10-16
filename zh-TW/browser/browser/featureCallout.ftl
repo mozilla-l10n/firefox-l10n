@@ -149,6 +149,11 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = 知道了！
 windows-10-eos-sync-callout-primary-advance-button-label = 下一步
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = 新功能：長按鏈結即可預覽內容
+link-preview-onboarding-callout-description = 檢視簡短描述、閱讀時間等資訊，讓您決定該鏈結是否值得一點。也可以用滑鼠右鍵檢視。
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 在側邊欄顯示分頁標題
