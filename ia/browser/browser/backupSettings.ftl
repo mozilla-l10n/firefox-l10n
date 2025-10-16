@@ -141,6 +141,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } non poteva restaurar
     .message = Reinitialisa { -brand-short-name } e retenta restaurar tu salveguarda.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Obtene tu insignia hodie
+    .message = Il habeva un problema con le processo de salveguarda pro { -brand-short-name }. Retenta o reinitialisa { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -195,6 +200,7 @@ backup-error-retry = Alco errate eveniva. Retenta.
 
 backup-file-header = { -brand-short-name } es preste a esser restaurate
 backup-file-title = Restaurar { -brand-short-name }
+backup-file-intro = Retorna a navigar e recupera tote tu marcapaginas, chronologia, e altere datos.
 backup-file-path-label = File de salveguarda:
 backup-file-encryption-state-label = Cryptate:
 backup-file-encryption-state-value-encrypted = Si
