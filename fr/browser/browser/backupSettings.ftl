@@ -55,7 +55,7 @@ settings-data-change-password = Changer le mot de passe…
 
 turn-on-scheduled-backups-header = Activer la sauvegarde
 turn-on-scheduled-backups-description = { -brand-short-name } enregistrera une copie de vos données toutes les 24 heures. En cas de souci ou si vous changez d’appareil, vous pourrez la restaurer.
-turn-on-scheduled-backups-support-link = Que doit-on sauvegarder ?
+turn-on-scheduled-backups-support-link = Quelles données seront sauvegardées ?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Emplacement
 # Variables:
@@ -128,3 +128,56 @@ password-rules-email-description = Différent de votre adresse e-mail
 password-rules-disclaimer = Protégez-vous — ne réutilisez pas vos mots de passe. Voici plus de conseils pour <a data-l10n-name="password-support-link">créer des mots de passe robustes</a>.
 password-validity-has-email = Ne peut pas être une adresse e-mail
 password-validity-do-not-match = Les mots de passe ne correspondent pas
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-warning =
+    .alt = Avertissement
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Retirer la protection par mot de passe
+disable-backup-encryption-description = Vos mots de passe, modes de paiement et cookies ne seront plus sauvegardés.
+disable-backup-encryption-support-link = Quelles données seront sauvegardées ?
+disable-backup-encryption-cancel-button = Annuler
+disable-backup-encryption-confirm-button = Supprimer le mot de passe
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Une erreur est survenue. Merci de réessayer plus tard.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } est prêt à être restauré
+backup-file-title = Restaurer { -brand-short-name }
+backup-file-intro = Reprenez votre navigation et restaurez l’ensemble de vos marque-pages, de votre historique et de vos autres données. <a data-l10n-name="backup-file-support-link">En savoir plus</a>
+backup-file-path-label = Fichier de sauvegarde :
+backup-file-encryption-state-label = Chiffré :
+backup-file-encryption-state-value-encrypted = Oui
+backup-file-encryption-state-value-not-encrypted = Non
+backup-file-creation-device-label = Appareil :
+backup-file-creation-date-label = Date de création :
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Comment restaurer :
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Ouvrez le menu de l’application ☰ et accédez à Paramètres > Synchronisation
+backup-file-moz-browser-restore-step-2 = Cliquez sur « Choisir un fichier de sauvegarde » et sélectionnez ce fichier
+backup-file-moz-browser-restore-step-3 = Redémarrez { -brand-short-name } lorsque cela vous est demandé
+backup-file-other-browser-restore-step-1 = Téléchargez et installez { -brand-short-name }
+backup-file-download-moz-browser-button = Télécharger
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Lancez { -brand-short-name }, ouvrez le menu de l’application ☰ et rendez-vous dans Paramètres > Synchronisation
+backup-file-other-browser-restore-step-3 = Cliquez sur « Choisir un fichier de sauvegarde » et sélectionnez ce fichier
+backup-file-other-browser-restore-step-4 = Redémarrez { -brand-short-name } lorsque cela vous est demandé
