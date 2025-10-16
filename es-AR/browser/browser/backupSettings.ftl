@@ -85,3 +85,41 @@ turn-off-scheduled-backups-header = ¿Desactivar copia de seguridad?
 turn-off-scheduled-backups-description = Esto también borra todos los datos de respaldo. No se puede deshacer.
 turn-off-scheduled-backups-support-link = Conocer más
 turn-off-scheduled-backups-cancel-button = Cancelar
+turn-off-scheduled-backups-confirm-button = Desactivar y eliminar la copia de seguridad
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Restaurar los datos
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Esto reemplazará todos los datos actuales de { -brand-short-name } con la copia de seguridad de { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = ¿Qué será restaurado?
+restore-from-backup-no-backup-file-link = ¿Tiene problemas para encontrar el respaldo?
+restore-from-backup-filepicker-label = Archivo de copia de seguridad
+restore-from-backup-filepicker-title = Seleccionar archivo de co de seguridad:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Seleccionar…
+       *[other] Examinar…
+    }
+restore-from-backup-password-label = Contraseña
+restore-from-backup-password-description = Esto desbloquea la copia de seguridad cifrada.
+restore-from-backup-cancel-button = Cancelar
+restore-from-backup-confirm-button = Restaurar y reiniciar
+restore-from-backup-restoring-button = Restaurando…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Contraseña incorrecta. <a data-l10n-name="incorrect-password-support-link">¿Sigue teniendo problemas?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Este archivo no funciona
+    .message = Hubo un problema con el archivo de copia de seguridad. Seleccione un archivo diferente y pruebe nuevamente.

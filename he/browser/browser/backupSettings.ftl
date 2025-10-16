@@ -195,6 +195,10 @@ backup-error-retry = משהו השתבש. נא לנסות שוב.
 
 backup-file-header = { -brand-short-name } מוכן להיות משוחזר
 backup-file-title = שחזור { -brand-short-name }
+backup-file-intro = חזרה לגלישה ושחזור כל הסימניות, ההיסטוריה ושאר הנתונים שלך. <a data-l10n-name="backup-file-support-link">מידע נוסף</a>
+backup-file-path-label = קובץ גיבוי:
+backup-file-encryption-state-label = הוצפן:
+backup-file-encryption-state-value-encrypted = כן
 backup-file-encryption-state-value-not-encrypted = לא
 backup-file-creation-device-label = מכשיר:
 backup-file-creation-date-label = נוצר:
