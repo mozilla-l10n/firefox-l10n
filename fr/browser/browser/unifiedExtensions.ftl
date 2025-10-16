@@ -17,6 +17,8 @@ unified-extensions-empty-reason-private-browsing-not-allowed = Vous avez des ext
 unified-extensions-empty-reason-extension-not-enabled = Vous avez des extensions installées, mais elles ne sont pas activées
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Améliorez votre navigation avec des extensions
+unified-extensions-empty-content-explain-manage = Sélectionnez « { unified-extensions-item-message-manage } » pour les gérer dans les paramètres.
+unified-extensions-empty-content-explain-extensions-onboarding = Personnalisez { -brand-short-name } en ajustant son apparence et ses fonctionnalités, ou en améliorant la confidentialité et la sécurité.
 
 ## An extension in the main list
 
