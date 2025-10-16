@@ -92,3 +92,95 @@ restore-from-backup-file-choose-button =
        *[other] 瀏覽…
     }
 restore-from-backup-password-label = 密碼
+restore-from-backup-password-description = 將解開您的加密備份檔。
+restore-from-backup-cancel-button = 取消
+restore-from-backup-confirm-button = 還原並重新啟動
+restore-from-backup-restoring-button = 還原中…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = 密碼不正確。<a data-l10n-name="incorrect-password-support-link">還是遇到問題嗎？</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = 無法使用此檔案
+    .message = 您的備份檔案有問題，請改用其他檔案再試一次。
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = 無法使用此檔案
+    .message = 您選擇的檔案與這個版本的 { -brand-short-name } 不相容，請改用其他檔案再試一次。
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = 無法使用此檔案
+    .message = 您選擇的檔案不是由 { -brand-short-name } 產生的，請改用其他檔案再試一次。
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } 無法還原
+    .message = 請重新啟動 { -brand-short-name } 再嘗試還原備份。
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = 備份敏感資料
+enable-backup-encryption-description = 加密備份您的網站密碼、付款方式、Cookie 等資料，確保資料安全。
+enable-backup-encryption-support-link = 了解更多
+enable-backup-encryption-create-password-label = 密碼
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = 重複輸入密碼
+enable-backup-encryption-cancel-button = 取消
+enable-backup-encryption-confirm-button = 儲存
+change-backup-encryption-header = 更改備份密碼
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = 密碼要求
+password-rules-length-description = 至少八個字元長
+password-rules-email-description = 不可以與您的電子郵件地址相同
+password-rules-disclaimer = 確保安全 — 請勿重複使用密碼。可在此參考<a data-l10n-name="password-support-link">建立強密碼</a>的小秘訣。
+password-validity-has-email = 不能是電子郵件地址
+password-validity-do-not-match = 密碼不符合
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = 成功
+password-rules-a11y-warning =
+    .alt = 警告
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = 移除密碼保護
+disable-backup-encryption-description = 將不再備份您的網站密碼、付款方式、Cookie 等資料。
+disable-backup-encryption-support-link = 會備份哪些資料？
+disable-backup-encryption-cancel-button = 取消
+disable-backup-encryption-confirm-button = 刪除密碼
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = 您的密碼不符合要求，請改用其他密碼。
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = 某些東西不對勁，請再試一次。
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = 已經準備好可以還原 { -brand-short-name }。
+backup-file-title = 還原 { -brand-short-name }
+backup-file-path-label = 備份檔：
+backup-file-encryption-state-label = 加密：

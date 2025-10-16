@@ -228,6 +228,22 @@ fox-doodle-pin-secondary = ยังไม่ทำตอนนี้
 set-default-pdf-handler-headline = <strong>ตอนนี้ไฟล์ PDF ของคุณจะเปิดใน { -brand-short-name }</strong> แก้ไขหรือเซ็นชื่อในแบบฟอร์มได้โดยตรงในเบราว์เซอร์ของคุณ ถ้าต้องการเปลี่ยน ให้ค้นหาคำว่า “PDF” ในการตั้งค่า
 set-default-pdf-handler-primary = เข้าใจแล้ว
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = เซ็นชื่อในเอกสารจากที่ไหนก็ได้
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = วาด พิมพ์ หรืออัปโหลดลายเซ็นของคุณ แล้ววางไว้ตรงตำแหน่งที่ต้องการ พร้อมบันทึกลายเซ็นของคุณไว้ใช้ครั้งถัดไป
+annotations-make-default-pdf-handler-title = ต้องการทำให้ { -brand-short-name } เป็นเครื่องมือแก้ไข PDF ค่าเริ่มต้นของคุณหรือไม่?
+annotations-make-default-pdf-handler-subtitle = คุณจะสามารถเข้าถึงเครื่องมือของเราได้ทุกครั้งที่เปิดไฟล์ PDF
+annotations-make-default-pdf-primary-cta =
+    .label = ตั้งเป็นค่าเริ่มต้น
+annotations-make-default-pdf-next =
+    .label = ถัดไป
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = คิดจะมีอุปกรณ์ใหม่ในภายหลังใช่ไหม?
