@@ -54,6 +54,7 @@ settings-data-change-password = Cambiar contrasigno…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Activar le salveguarda
+turn-on-scheduled-backups-description = { -brand-short-name } creara un instantaneo de tu datos cata 24 horas. Tu pote restaurar lo si il ha un problema o si tu usa un nove apparato.
 turn-on-scheduled-backups-support-link = Que sera salveguardate?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Position
@@ -73,16 +74,29 @@ turn-on-scheduled-backups-encryption-create-password-label = Contrasigno
 turn-on-scheduled-backups-encryption-repeat-password-label = Repete le contrasigno
 turn-on-scheduled-backups-cancel-button = Cancellar
 turn-on-scheduled-backups-confirm-button = Activar le salveguarda
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Il habeva un problema con le plica de tu salveguarda seligite. Elige un plica differente e retenta.
+backup-error-file-system = Il habeva un problema con le plica de tu salveguarda seligite salveguardante { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Disactivar le salveguarda?
+turn-off-scheduled-backups-description = Isto alsi dele tote tu datos de salveguarda. Il non pote esser disfacite.
 turn-off-scheduled-backups-support-link = Pro saper plus
 turn-off-scheduled-backups-cancel-button = Cancellar
+turn-off-scheduled-backups-confirm-button = Disactivar e deler salveguarda
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Restaurar tu datos
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Isto substituera tote tu actual datos de { -brand-short-name } con tu salveguarda a partir de { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Que sera restaurate?
+restore-from-backup-no-backup-file-link = Ha tu problemas a trovar tu salveguarda?
 restore-from-backup-filepicker-label = File de salveguarda
 restore-from-backup-filepicker-title = Eliger file de salveguarda:
 restore-from-backup-file-choose-button =
@@ -92,6 +106,19 @@ restore-from-backup-file-choose-button =
     }
 restore-from-backup-password-label = Contrasigno
 restore-from-backup-cancel-button = Cancellar
+restore-from-backup-confirm-button = Restaurar e reinitialisar
+restore-from-backup-restoring-button = Restaurante…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Iste file non functiona
+    .message = Le file que tu seligeva non es compatibile con iste version de { -brand-short-name }. Elige un differente file e retenta.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -117,6 +144,7 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-support-link = Que sera salveguardate?
 disable-backup-encryption-cancel-button = Cancellar
 disable-backup-encryption-confirm-button = Remover contrasigno
 
@@ -134,6 +162,7 @@ backup-error-retry = Alco errate eveniva. Retenta.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-title = Restaurar { -brand-short-name }
 backup-file-path-label = File de salveguarda:
 backup-file-encryption-state-label = Cryptate:
 backup-file-encryption-state-value-encrypted = Si
