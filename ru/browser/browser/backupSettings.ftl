@@ -141,6 +141,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } не удалось восстановить
     .message = Перезапустите { -brand-short-name } и попробуйте восстановить из резервной копии снова.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Что-то пошло не так
+    .message = Возникла проблема с процессом резервного копирования для { -brand-short-name }. Пожалуйста, попробуйте ещё раз или перезапустите { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
