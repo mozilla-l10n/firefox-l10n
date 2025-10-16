@@ -91,7 +91,9 @@ turn-off-scheduled-backups-confirm-button = Απενεργοποίηση και 
 restore-from-backup-header = Επαναφορά δεδομένων
 restore-from-backup-support-link =
     .message = Τι θα ανακτηθεί;
+restore-from-backup-no-backup-file-link = Αντιμετωπίζετε πρόβλημα με την εύρεση του αντιγράφου ασφαλείας σας;
 restore-from-backup-filepicker-label = Αρχείο αντιγράφου ασφαλείας
+restore-from-backup-filepicker-title = Επιλογή αντιγράφου ασφαλείας:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Επιλογή…
@@ -152,6 +154,7 @@ change-backup-encryption-header = Αλλαγή κωδικού πρόσβασης
 password-rules-header = Απαιτήσεις κωδικού πρόσβασης
 password-rules-length-description = Τουλάχιστον 8 χαρακτήρες
 password-rules-email-description = Όχι τη διεύθυνση email σας
+password-rules-disclaimer = Για την προστασία σας, μην επαναχρησιμοποιείτε κωδικούς πρόσβασης. Δείτε περισσότερες συμβουλές για τη <a data-l10n-name="password-support-link">δημιουργία ισχυρών κωδικών πρόσβασης</a>.
 password-validity-has-email = Δεν μπορεί να είναι διεύθυνση email
 password-validity-do-not-match = Οι κωδικοί πρόσβασης δεν ταιριάζουν
 
@@ -166,14 +169,30 @@ password-rules-a11y-warning =
 
 disable-backup-encryption-header = Αφαίρεση προστασίας με κωδικό πρόσβασης
 disable-backup-encryption-description = Δεν θα δημιουργούνται πλέον αντίγραφα ασφαλείας των αποθηκευμένων κωδικών πρόσβασης, των μεθόδων πληρωμής και των cookie.
+disable-backup-encryption-support-link = Ποια δεδομένα θα περιλαμβάνονται;
 disable-backup-encryption-cancel-button = Ακύρωση
 disable-backup-encryption-confirm-button = Αφαίρεση κωδικού πρόσβασης
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Ο κωδικός πρόσβασης δεν πληροί τις απαιτήσεις. Δοκιμάστε έναν άλλο κωδικό πρόσβασης.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Κάτι πήγε στραβά. Δοκιμάστε ξανά.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = Το { -brand-short-name } είναι έτοιμο προς επαναφορά
+backup-file-title = Επαναφορά δεδομένων του { -brand-short-name }
+backup-file-intro = Συνεχίστε την περιήγησή σας και ανακτήστε όλους τους σελιδοδείκτες, το ιστορικό και άλλα δεδομένα. <a data-l10n-name="backup-file-support-link">Μάθετε περισσότερα</a>
+backup-file-path-label = Αρχείο αντιγράφου ασφαλείας:
+backup-file-encryption-state-label = Κρυπτογράφηση:
 backup-file-encryption-state-value-encrypted = Ναι
 backup-file-encryption-state-value-not-encrypted = Όχι
 backup-file-creation-device-label = Συσκευή:
@@ -181,7 +200,19 @@ backup-file-creation-date-label = Δημιουργία:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Τρόπος επαναφοράς:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Ανοίξτε το μενού της εφαρμογής ☰ και μεταβείτε στις Ρυθμίσεις > Συγχρονισμός
+backup-file-moz-browser-restore-step-2 = Κάντε κλικ στο «Επιλογή αντιγράφου ασφαλείας» και επιλέξτε αυτό το αρχείο
+backup-file-moz-browser-restore-step-3 = Επανεκκινήστε το { -brand-short-name } όταν σας ζητηθεί
+backup-file-other-browser-restore-step-1 = Κάντε λήψη και εγκατάσταση του { -brand-short-name }
 backup-file-download-moz-browser-button = Λήψη
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Εκκινήστε το { -brand-short-name }, ανοίξτε το μενού της εφαρμογής ☰ και μεταβείτε στις Ρυθμίσεις > Συγχρονισμός
+backup-file-other-browser-restore-step-3 = Κάντε κλικ στο «Επιλογή αντιγράφου ασφαλείας» και επιλέξτε αυτό το αρχείο
+backup-file-other-browser-restore-step-4 = Επανεκκινήστε το { -brand-short-name } όταν σας ζητηθεί
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
