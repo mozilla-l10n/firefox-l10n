@@ -1509,8 +1509,8 @@ content-blocking-baseline-exceptions-3 =
     .description = Pomáhá načítat stránky a funkce tím, že odblokovává pouze jejich nezbytné součásti, jež mohou obsahovat sledovací prvky. Pokrývá nejčastější problémy.
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
 content-blocking-convenience-exceptions-3 =
-    .label = Oprava menších problémů se stránkami
-    .description = Obnoví například videa v článku nebo sekce komentářů odblokováním prvků, které mohou obsahovat sledovací prvky. To může omezit problémy s webem, ale nabízí menší ochranu. Musí být použita s opravami závažných problémů.
+    .label = Oprava drobných problémů se stránkami
+    .description = Obnovuje například videa v článcích nebo sekce komentářů tím, že odblokovává součásti, jež mohou obsahovat sledovací prvky. To může zredukovat problémy se stránkami, ovšem poskytuje menší ochranu. Musí být použito společně s opravami závažných problémů.
 content-blocking-baseline-uncheck-warning-dialog-title = Opravdu chcete vypnout opravy?
 content-blocking-baseline-uncheck-warning-dialog-body = Toto nastavení pomáhá řešit nejčastější problémy s webem. Pokud jej vypnete, některé weby nemusí fungovat a { -brand-short-name } nebude moci pomoci s řešením těchto problémů.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Vypnout opravy
