@@ -318,3 +318,11 @@ tab-group-context-open-saved-group-in-new-window =
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = 분할 보기
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = 분할 보기 추가
+    .accesskey = t
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = 분할 보기 열기
+    .accesskey = t

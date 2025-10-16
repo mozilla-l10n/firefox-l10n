@@ -485,6 +485,33 @@ create-backup-screen-1-subtitle = ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ, �
 create-backup-screen-1-flair = ਸਿਫ਼ਾਰਸ਼ੀ
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">ਹੋਰ ਜਾਣੋ</a>
 create-backup-screen-1-sync-label = { -brand-product-name } ਨਾਲ ਸਿੰਕ ਕਰੋ
+create-backup-screen-1-sync-body = ਸਾਰੇ ਸਾਈਨ ਇਨ ਕੀਤੇ ਡਿਵਾਈਸਾਂ ਦਾ ਬੈਕਅੱਪ
+create-backup-screen-1-backup-label = ਪੀਸੀ ਉੱਤੇ ਬੈਕਅੱਪ
+create-backup-screen-1-backup-body = ਆਪਣੇ ਡਿਵਾਈਸ ਜਾਂ OneDrive ਉੱਤੇ ਸੰਭਾਲਦਾ ਹੈ
+create-backup-select-tile-button-label = ਚੁਣੋ
+create-backup-back-button-label = ਪਿੱਛੇ
+create-backup-show-fewer =
+    .label = ਇਸ ਵਾਂਗ ਘੱਟ ਵੇਖਾਓ
+create-backup-screen-2-title = ਬੈਕਅੱਪ ਲਈ { -brand-product-name } ਡਾਟੇ ਨੂੰ ਚੁਣੋ
+create-backup-screen-2-subtitle = ਮਿੰਟ ਕੁ ਹੀ ਲੱਗੇਗਾ। ਦਿਨ ਵਿੱਚ ਇੱਕ ਵਾਰ ਤੁਹਾਡੇ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਿਆ ਜਾਂਦਾ ਹੈ।
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = ਸੌਖਾ ਸੈਟਅੱਪ
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਸੈਟਿੰਗਾਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = ਪਾਸਵਰਡ ਅਤੇ ਭੁਗਤਾਨ ਨੂੰ ਸ਼ਾਮਲ ਨਾ ਕਰੋ
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = ਇੰਕ੍ਰਿਪਟ ਨਹੀਂ ਹੈ
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = ਸਾਰਾ ਡਾਟਾ
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = ਪਾਸਵਰਡ ਅਤੇ ਭੁਗਤਾਨ ਜਾਣਕਾਰੀ ਦੇ ਸਮੇਤ
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = ਪਾਸਵਰਡ ਨਾਲ ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = ਆਪਣੇ ਬੈਕਅੱਪ ਨੂੰ ਤੁਸੀਂ ਕਿੱਥੇ ਸੰਭਾਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = ਕੋਈ ਬੈਕਅੱਪ ਫ਼ਾਇਲ ਪਾਸਵਰਡ ਬਣਾਓ
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -499,4 +526,5 @@ restored-from-backup-success-title = ਅਸੀਂ ਆ ਗਏ ਹਾਂ! ਤੁ�
 restored-from-backup-success-with-checklist-primary-button = ਸੰਭਾਲੋ ਅਤੇ ਜਾਰੀ ਰੱਖੋ
 restored-from-backup-success-with-checklist-secondary-button = ਇਹ ਪੜਾਅ ਛੱਡੋ
 restored-from-backup-success-no-checklist-primary-button = ਜਾਰੀ ਰੱਖੋ
+restored-from-backup-error-title = ਓਹ ਹੋ, ਤੁਹਾਡੀ ਬੈਕਅੱਪ ਫ਼ਾਇਲ ਨਾਲ ਸਮੱਸਿਆ ਆਈ ਸੀ।
 restored-from-backup-error-primary-button = ਬੰਦ ਕਰੋ
