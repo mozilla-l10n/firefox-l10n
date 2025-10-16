@@ -159,3 +159,38 @@ change-backup-encryption-header = 백업 비밀번호 변경
 password-rules-header = 비밀번호 요구 사항
 password-rules-length-description = 최소 8자 이상
 password-rules-email-description = 사용자의 이메일 주소가 아니어야 함
+password-validity-has-email = 이메일 주소를 사용할 수 없음
+password-validity-do-not-match = 비밀번호가 일치하지 않습니다
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = 성공
+password-rules-a11y-warning =
+    .alt = 경고
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = 암호 보호 제거
+disable-backup-encryption-description = 저장된 비밀번호, 결제 방법 및 쿠키가 더 이상 백업되지 않습니다.
+disable-backup-encryption-support-link = 어떤 것이 백업되나요?
+disable-backup-encryption-cancel-button = 취소
+disable-backup-encryption-confirm-button = 비밀번호 제거
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = 비밀번호가 요구 사항을 충족하지 않습니다. 다른 비밀번호를 입력하세요.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = 무언가 잘못되었습니다. 다시 시도하세요.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name }가 복원될 준비가 되었습니다.
+backup-file-title = { -brand-short-name } 복원
