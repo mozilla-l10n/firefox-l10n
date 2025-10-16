@@ -159,6 +159,7 @@ change-backup-encryption-header = 백업 비밀번호 변경
 password-rules-header = 비밀번호 요구 사항
 password-rules-length-description = 최소 8자 이상
 password-rules-email-description = 사용자의 이메일 주소가 아니어야 함
+password-rules-disclaimer = 안전을 위해 비밀번호를 재사용하지 마세요. <a data-l10n-name="password-support-link">강력한 비밀번호를 만드는 방법</a>에 대한 추가 팁을 확인하세요.
 password-validity-has-email = 이메일 주소를 사용할 수 없음
 password-validity-do-not-match = 비밀번호가 일치하지 않습니다
 
@@ -194,6 +195,7 @@ backup-error-retry = 무언가 잘못되었습니다. 다시 시도하세요.
 
 backup-file-header = { -brand-short-name }가 복원될 준비가 되었습니다.
 backup-file-title = { -brand-short-name } 복원
+backup-file-intro = 다시 탐색하고 모든 북마크, 기록 및 기타 데이터를 복구하세요. <a data-l10n-name="backup-file-support-link">더 알아보기</a>
 backup-file-path-label = 백업 파일:
 backup-file-encryption-state-label = 암호화됨:
 backup-file-encryption-state-value-encrypted = 예
@@ -224,3 +226,7 @@ backup-file-other-browser-restore-step-4 = 요청 시 { -brand-short-name } 다�
 # Variables:
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds = <b>주의:</b> 다른 백업 파일 { $numberOfOtherBackupsFound }개 찾음
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = { $machineName }에서 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }에 생성됨
