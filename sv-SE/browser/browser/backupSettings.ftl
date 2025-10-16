@@ -18,13 +18,13 @@ backup-folder-name = Återställ { -brand-product-name }
 # profile name and backup date are appended to it:
 #
 # FirefoxBackup_default_20240606-1830.html
-backup-file-name = { -brand-product-name }Säkerhetskopiering
+backup-file-name = Säkerhetskopiering{ -brand-product-name }
 settings-data-backup-header = Säkerhetskopiera
 settings-data-backup-toggle = Hantera säkerhetskopieringar
 settings-data-backup-trigger-button = Säkerhetskopiera nu
 settings-data-backup-in-progress-button = Säkerhetskopiering pågår…
-settings-data-backup-scheduled-backups-on = Backup: PÅ
-settings-data-backup-scheduled-backups-off = Backup: AV
+settings-data-backup-scheduled-backups-on = Säkerhetskopiering: PÅ
+settings-data-backup-scheduled-backups-off = Säkerhetskopiering: AV
 settings-data-backup-scheduled-backups-description = Skydda automatiskt dina bokmärken, historik och annan data. <a data-l10n-name="support-link">Läs mer</a>
 settings-data-backup-last-backup-date = Senaste säkerhetskopia: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
@@ -39,8 +39,8 @@ settings-data-backup-restore-header = Återställ din data
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
-settings-data-backup-scheduled-backups-off-restore-description = Använd en { -brand-product-name } säkerhetskopia från en annan enhet för att återställa din data.
-settings-data-backup-scheduled-backups-off-restore-choose = Välj säkerhetskopia på…
+settings-data-backup-scheduled-backups-off-restore-description = Använd en säkerhetskopia för { -brand-product-name } från en annan enhet för att återställa din data.
+settings-data-backup-scheduled-backups-off-restore-choose = Välj säkerhetskopia…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
@@ -54,7 +54,7 @@ settings-data-change-password = Byt lösenord…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Aktivera säkerhetskopiering
-turn-on-scheduled-backups-description = { -brand-short-name } skapar en ögonblicksbild av din data var 24:e timme. Du kan återställa den om det finns ett problem eller om du får en ny enhet.
+turn-on-scheduled-backups-description = { -brand-short-name } skapar en ögonblicksbild av dina data var 24:e timme. Du kan återställa den om det uppstår problem eller om du skaffar en ny enhet.
 turn-on-scheduled-backups-support-link = Vad kommer att säkerhetskopieras?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Plats
@@ -97,7 +97,7 @@ restore-from-backup-description-with-metadata =
 restore-from-backup-support-link =
     .message = Vad kommer att återställas?
 restore-from-backup-no-backup-file-link = Har du problem att hitta din säkerhetskopia?
-restore-from-backup-filepicker-label = Säkerhetskopiera fil
+restore-from-backup-filepicker-label = Säkerhetskopieringsfil
 restore-from-backup-filepicker-title = Välj säkerhetskopia:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
