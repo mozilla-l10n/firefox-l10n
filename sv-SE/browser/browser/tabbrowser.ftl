@@ -351,13 +351,13 @@ tabbrowser-tab-label-tab-split-view = Delad vy
 # Open a new tab next to the current tab and display their contents side by side
 tab-context-add-split-view =
     .label = Lägg till delad vy
-    .accesskey = L
+    .accesskey = v
 # Display the two selected tabs' contents side by side
 tab-context-open-in-split-view =
     .label = Öppna i delad vy
-    .accesskey = Ö
+    .accesskey = p
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = Separat delad vy
-    .accesskey = S
+    .accesskey = e
 tab-context-badge-new = Ny

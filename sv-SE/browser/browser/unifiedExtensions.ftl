@@ -12,14 +12,14 @@ unified-extensions-header-title = Tillägg
 unified-extensions-manage-extensions =
     .label = Hantera tillägg
 unified-extensions-discover-extensions =
-    .label = Discover-tillägg
+    .label = Upptäck tillägg
 unified-extensions-empty-reason-private-browsing-not-allowed = Du har tillägg installerade, men inte aktiverade i privata fönster
 unified-extensions-empty-reason-extension-not-enabled = Du har tillägg installerade, men inte aktiverade
 # In this headline, “Level up” means to enhance your browsing experience.
-unified-extensions-empty-reason-zero-extensions-onboarding = förbättra din surfning med tillägg
+unified-extensions-empty-reason-zero-extensions-onboarding = Höj din surfupplevelse med tillägg
 unified-extensions-empty-content-explain-enable = Välj “{ unified-extensions-item-message-manage }” för att aktivera dem i inställningarna.
 unified-extensions-empty-content-explain-manage = Välj “{ unified-extensions-item-message-manage }” för att hantera dem i inställningarna.
-unified-extensions-empty-content-explain-extensions-onboarding = Anpassa { -brand-short-name } genom att ändra hur det ser ut och presterar eller öka sekretess och säkerhet.
+unified-extensions-empty-content-explain-extensions-onboarding = Anpassa { -brand-short-name } genom att ändra dess utseende och prestanda eller förbättra integritet och säkerhet.
 
 ## An extension in the main list
 

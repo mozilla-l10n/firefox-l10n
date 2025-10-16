@@ -157,7 +157,7 @@ enable-backup-encryption-create-password-label = Lösenord
 enable-backup-encryption-repeat-password-label = Upprepa lösenord
 enable-backup-encryption-cancel-button = Avbryt
 enable-backup-encryption-confirm-button = Spara
-change-backup-encryption-header = Ändra backuplösenord
+change-backup-encryption-header = Ändra lösenord för säkerhetskopia
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
@@ -200,9 +200,9 @@ backup-error-retry = Något gick fel. Vänligen försök igen.
 
 backup-file-header = { -brand-short-name } är redo att återställas
 backup-file-title = Återställ { -brand-short-name }
-backup-file-intro = Gå tillbaka till surfning och återställ alla dina bokmärken, historik och annan data. <a data-l10n-name="backup-file-support-link">Läs mer</a>
-backup-file-path-label = Säkerhetskopiera fil:
-backup-file-encryption-state-label = Krypterat:
+backup-file-intro = Återgå till surfning och återställ alla dina bokmärken, din historik och annan data. <a data-l10n-name="backup-file-support-link">Läs mer</a>
+backup-file-path-label = Säkerhetskopieringsfil:
+backup-file-encryption-state-label = Krypterad:
 backup-file-encryption-state-value-encrypted = Ja
 backup-file-encryption-state-value-not-encrypted = Nej
 backup-file-creation-device-label = Enhet:
@@ -213,14 +213,14 @@ backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DAT
 backup-file-how-to-restore-header = Så här återställer du:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
-backup-file-moz-browser-restore-step-1 = Öppna applikationsmenyn ☰ och gå till Inställningar > Synka
+backup-file-moz-browser-restore-step-1 = Öppna applikationsmenyn ☰ och gå till Inställningar > Synkronisera
 backup-file-moz-browser-restore-step-2 = Klicka på "Välj säkerhetskopia" och välj den här filen
 backup-file-moz-browser-restore-step-3 = Starta om { -brand-short-name } när du blir tillfrågad
 backup-file-other-browser-restore-step-1 = Ladda ner och installera { -brand-short-name }
 backup-file-download-moz-browser-button = Hämta
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
-backup-file-other-browser-restore-step-2 = Starta { -brand-short-name }, öppna applikationsmenyn ☰ och gå till Inställningar > Synka
+backup-file-other-browser-restore-step-2 = Starta { -brand-short-name }, öppna applikationsmenyn ☰ och gå till Inställningar > Synkronisera
 backup-file-other-browser-restore-step-3 = Klicka på "Välj säkerhetskopia" och välj den här filen
 backup-file-other-browser-restore-step-4 = Starta om { -brand-short-name } när du blir tillfrågad
 
@@ -238,4 +238,4 @@ other-backup-files-founds =
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Skapad den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } den { $machineName }
+backup-file-creation-date-and-device = Skapad den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
