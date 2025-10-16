@@ -11,6 +11,13 @@
 unified-extensions-header-title = ส่วนขยาย
 unified-extensions-manage-extensions =
     .label = จัดการส่วนขยาย
+unified-extensions-discover-extensions =
+    .label = ค้นพบส่วนขยาย
+unified-extensions-empty-reason-private-browsing-not-allowed = คุณได้ติดตั้งส่วนขยายไว้แล้ว แต่ไม่ได้เปิดใช้งานในหน้าต่างส่วนตัว
+unified-extensions-empty-reason-extension-not-enabled = คุณได้ติดตั้งส่วนขยายไว้แล้ว แต่ไม่ได้เปิดใช้งาน
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = ยกระดับการเรียกดูของคุณด้วยส่วนขยาย
+unified-extensions-empty-content-explain-manage = เลือก “{ unified-extensions-item-message-manage }” เพื่อจัดการส่วนขยายเหล่านั้นในการตั้งค่า
 
 ## An extension in the main list
 
