@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Bật tính năng tự động điền địa ch
 policy-AutofillCreditCardEnabled = Bật tính năng tự động điền phương thức thanh toán.
 policy-AutoLaunchProtocolsFromOrigins = Xác định danh sách các giao thức bên ngoài có thể được sử dụng từ các origin được liệt kê mà không cần nhắc người dùng.
 policy-BackgroundAppUpdate2 = Kích hoạt hoặc vô hiệu hóa trình cập nhật nền.
+policy-Backup = Vô hiệu hóa sao lưu hoặc khôi phục dữ liệu hồ sơ.
 policy-BlockAboutAddons = Chặn quyền truy cập vào trình quản lý tiện ích (about: addons).
 policy-BlockAboutConfig = Chặn truy cập vào trang about:config.
 policy-BlockAboutProfiles = Chặn truy cập vào trang about:profiles.
