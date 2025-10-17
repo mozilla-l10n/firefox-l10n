@@ -106,8 +106,36 @@ restore-from-backup-file-choose-button =
     }
 restore-from-backup-password-label = Senha
 restore-from-backup-password-description = Isto desbloqueia seu backup criptografado.
+restore-from-backup-cancel-button = Cancelar
 restore-from-backup-confirm-button = Restaurar e reiniciar
 restore-from-backup-restoring-button = Restaurando…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Senha incorreta. <a data-l10n-name="incorrect-password-support-link">Ainda com problemas?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Este arquivo não está funcionando
+    .message = Há um problema com seu arquivo de backup. Escolha outro arquivo e tente novamente.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Este arquivo não está funcionando
+    .message = O arquivo que você escolheu não é compatível com esta versão do { -brand-short-name }. Escolha outro arquivo e tente novamente.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Este arquivo não está funcionando
+    .message = O arquivo que você escolheu não foi criado pelo { -brand-short-name }. Escolha outro arquivo e tente novamente.
 
 ## These strings are used to tell users when errors occur when using
 ## the backup system
