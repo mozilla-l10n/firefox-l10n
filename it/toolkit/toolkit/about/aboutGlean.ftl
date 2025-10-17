@@ -95,6 +95,31 @@ about-glean-metrics-table-header-type = Tipo
 about-glean-metrics-table-header-value = Valore
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Azioni
+about-glean-metrics-table-settings-button = Impostazioni
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Impostazioni tabella metriche
+about-glean-metrics-table-settings-category-general = Generale
+about-glean-metrics-table-settings-hide-empty-value-rows = Nascondi righe senza valori
+about-glean-metrics-table-settings-category-visualizations = Visualizzazioni
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Esempio
+about-glean-metrics-table-settings-category-visualizations-histogram = Istogramma
+about-glean-metrics-table-settings-histograms-chart-max = Altezza massima grafico
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Altezza massima ridimensionata
+about-glean-metrics-table-settings-histograms-box-padding = Margine del contenitore
+about-glean-metrics-table-settings-histograms-chart-padding = Margine del grafico
+about-glean-metrics-table-settings-histograms-left-padding = Margine aggiuntivo a sinistra
+about-glean-metrics-table-settings-category-visualizations-timeline = Sequenza temporale
+about-glean-metrics-table-settings-timelines-height = Altezza
+about-glean-metrics-table-settings-timelines-width = Larghezza
+about-glean-metrics-table-settings-timelines-chart-padding = Margine del grafico
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Raggio del cerchio
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Offset X dell’asse Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Offset Y dell’asse Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtra
 # This message sits alongside an input field, further describing its purpose.
