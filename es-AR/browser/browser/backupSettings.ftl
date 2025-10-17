@@ -141,3 +141,26 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } no pudo restaurar
     .message = Reinicie { -brand-short-name } y trate de restaurar desde la copia de seguridad nuevamente.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Algo salió mal
+    .message = Hubo un problema con el proceso de copia de seguridad para { -brand-short-name }. Intente nuevamente o reinicie { -brand-short-name }.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Respaldar los datos sensibles
+enable-backup-encryption-description = Haga una copia de seguridad de contraseñas, métodos de pago y cookies, además de mantener todos los datos seguros con cifrado.
+enable-backup-encryption-support-link = Conocer más
+enable-backup-encryption-create-password-label = Contraseña
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Repetir contraseña
+enable-backup-encryption-cancel-button = Cancelar
+enable-backup-encryption-confirm-button = Guardar
+change-backup-encryption-header = Cambiar contraseña del respaldo
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Requisitos de contraseña
+password-rules-length-description = Al menos 8 caracteres
+password-rules-email-description = Que no sea su dirección de correo electrónico
