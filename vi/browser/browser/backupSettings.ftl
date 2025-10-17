@@ -130,3 +130,108 @@ backup-service-error-corrupt-file =
 backup-service-error-unsupported-version =
     .heading = Không thể sử dụng tập tin này
     .message = Tập tin bạn chọn không tương thích với phiên bản này của { -brand-short-name }. Hãy chọn một tập tin khác và thử lại.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Không thể sử dụng tập tin này
+    .message = Tập tin bạn đã chọn không được tạo bởi { -brand-short-name }. Hãy chọn một tập tin khác và thử lại.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = Không thể khôi phục { -brand-short-name }
+    .message = Hãy thử khởi động lại { -brand-short-name } và thử khôi phục bản sao lưu của bạn một lần nữa.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Có gì đó không ổn
+    .message = Đã xảy ra sự cố trong quá trình sao lưu { -brand-short-name }. Vui lòng thử lại hoặc khởi động lại { -brand-short-name }.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Sao lưu dữ liệu nhạy cảm của bạn
+enable-backup-encryption-description = Sao lưu mật khẩu, phương thức thanh toán và cookie, đồng thời giữ an toàn cho mọi dữ liệu của bạn bằng mã hóa.
+enable-backup-encryption-support-link = Tìm hiểu thêm
+enable-backup-encryption-create-password-label = Mật khẩu
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Nhập lại mật khẩu
+enable-backup-encryption-cancel-button = Hủy bỏ
+enable-backup-encryption-confirm-button = Lưu
+change-backup-encryption-header = Thay đổi mật khẩu sao lưu
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Yêu cầu mật khẩu
+password-rules-length-description = Ít nhất 8 ký tự
+password-rules-email-description = Không phải địa chỉ email của bạn
+password-rules-disclaimer = Giữ an toàn — đừng sử dụng lại mật khẩu. Xem thêm mẹo để <a data-l10n-name="password-support-link">tạo mật khẩu mạnh</a>.
+password-validity-has-email = Không thể là địa chỉ email
+password-validity-do-not-match = Mật khẩu không khớp
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Thành công
+password-rules-a11y-warning =
+    .alt = Cảnh báo
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Xóa bảo vệ bằng mật khẩu
+disable-backup-encryption-description = Mật khẩu, phương thức thanh toán và cookie đã lưu của bạn sẽ không còn được sao lưu nữa.
+disable-backup-encryption-support-link = Những gì sẽ được sao lưu?
+disable-backup-encryption-cancel-button = Hủy bỏ
+disable-backup-encryption-confirm-button = Xoá mật khẩu
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Mật khẩu của bạn không đáp ứng yêu cầu. Vui lòng thử mật khẩu khác.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Có gì đó không ổn. Vui lòng thử lại.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } đã sẵn sàng để khôi phục
+backup-file-title = Khôi phục { -brand-short-name }
+backup-file-intro = Quay lại duyệt và khôi phục tất cả dấu trang, lịch sử và dữ liệu khác của bạn. <a data-l10n-name="backup-file-support-link">Tìm hiểu thêm</a>
+backup-file-path-label = Tập tin sao lưu:
+backup-file-encryption-state-label = Mã hóa:
+backup-file-encryption-state-value-encrypted = Có
+backup-file-encryption-state-value-not-encrypted = Không
+backup-file-creation-device-label = Thiết bị:
+backup-file-creation-date-label = Được tạo:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Cách khôi phục:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Mở menu ứng dụng ☰ và vào Cài đặt > Đồng bộ hóa
+backup-file-moz-browser-restore-step-2 = Nhấp vào “Chọn tập tin sao lưu” và chọn tập tin này
+backup-file-moz-browser-restore-step-3 = Khởi động lại { -brand-short-name } khi được yêu cầu
+backup-file-other-browser-restore-step-1 = Tải xuống và cài đặt { -brand-short-name }
+backup-file-download-moz-browser-button = Tải xuống
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Khởi chạy { -brand-short-name }, mở menu ứng dụng ☰ và vào Cài đặt > Đồng bộ hóa
+backup-file-other-browser-restore-step-3 = Nhấp vào “Chọn tập tin sao lưu” và chọn tập tin này
+backup-file-other-browser-restore-step-4 = Khởi động lại { -brand-short-name } khi được yêu cầu
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds = <b>Lưu ý:</b> Đã tìm thấy { $numberOfOtherBackupsFound } tập tin sao lưu khác
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Được tạo vào { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } trên { $machineName }
