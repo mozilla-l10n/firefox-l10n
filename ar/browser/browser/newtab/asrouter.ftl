@@ -76,6 +76,7 @@ cfr-doorhanger-bookmark-fxa-link-text = زامِن العلامات الآن…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = زر الإغلاق
     .title = أغلِق
+fxa-adoption-addresses-backup-title = دعنا نحتفظ بنسخة احتياطية من عناوينك المحفوظة
 
 ## Protections panel
 
@@ -238,6 +239,13 @@ fox-doodle-pin-secondary = ليس الآن
 set-default-pdf-handler-headline = <strong>يُفتح الآن ملفات PDF الخاصة بك في { -brand-short-name }.</strong> حرر النماذج أو التوقيع عليها مباشرةً في متصفحك. للتغيير، ابحث عن "PDF" في الإعدادات.
 set-default-pdf-handler-primary = فهمت
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-primary-cta =
+    .label = اجعله المبدئي
+annotations-make-default-pdf-next =
+    .label = التالي
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = جهاز جديد في مستقبلك؟
@@ -323,6 +331,8 @@ fxa-menu-message-close-button =
     .title = أغلق
     .aria-label = أغلق
 fxa-menu-message-sign-up-button = سجّل حسابًا
+fxa-menu-message-sign-in-button = لِج
+fxa-menu-message-sync-button = ابدأ المزامنة
 fxa-menu-message-sync-devices-primary-text = زامِن كل أجهزتك
 fxa-menu-message-sync-devices-secondary-text = احصل على معلوماتك على الفور — مثل العلامات وكلمات السر — في أي مكان تستخدم فيه { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = زامِن كل أجهزتك
@@ -345,3 +355,8 @@ multi-cta-fox-doodle-start-browsing-primary-button-label = ابدأ التصفح
 multi-cta-fox-doodle-main-browser-primary-button-label = اضبط { -brand-short-name } ليكون متصفّحي الرئيسي
 multi-cta-fox-doodle-quick-reminder-subtitle = فيما يلي تذكير سريع بأنه يمكنك الاحتفاظ بمتصفحك المفضل الذي يركز على الخصوصية بنقرة واحدة فقط.
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = حافظ على متصفحك المفضل الذي يُركز على الخصوصية بنقرة واحدة. عيّن { -brand-short-name } كمتصفحك المبدئي لفتح الروابط، ثم ثبّته على شريط المهام وقائمة البدء.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = ابدأ
+windows-10-eos-sync-toast-secondary-label = ذكّرني لاحقًا
