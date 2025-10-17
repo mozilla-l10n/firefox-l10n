@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = הפעלת מילוי אוטומטי עבור כ
 policy-AutofillCreditCardEnabled = הפעלת מילוי אוטומטי עבור אמצעי תשלום.
 policy-AutoLaunchProtocolsFromOrigins = הגדרת רשימה של פרוטוקולים חיצוניים שניתן להשתמש בהם ממתחמים מסוימים מבלי להציג הודעה למשתמש.
 policy-BackgroundAppUpdate2 = הפעלה או השבתה של שירות המעדכן ברקע.
+policy-Backup = השבתת הגיבוי או השחזור של נתוני פרופיל.
 policy-BlockAboutAddons = חסימת הגישה למנהל התוספות (about:addons).
 policy-BlockAboutConfig = חסימת הגישה לעמוד about:config.
 policy-BlockAboutProfiles = חסימת הגישה לעמוד about:profiles.

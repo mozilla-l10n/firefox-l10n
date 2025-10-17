@@ -435,6 +435,12 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    משדרגים ל־Windows 11?
+    בואו נגבה את הנתונים שלך ב־{ -brand-product-name }.
+create-backup-screen-1-subtitle = הגנה אוטומטית על הססמאות, הסימניות שלך ועוד תוך 1-2 דקות.
+create-backup-screen-1-flair = מומלץ
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">מידע נוסף</a>
 create-backup-screen-1-sync-body = מגבה את כל המכשירים המחוברים
 create-backup-screen-1-backup-label = גיבוי למחשב
 create-backup-screen-1-backup-body = שומר במכשיר או ב־OneDrive שלך
@@ -458,11 +464,13 @@ create-backup-screen-2-all-label = כל הנתונים
 create-backup-screen-2-all-list-2 = כולל ססמאות ואמצעי תשלום
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = מוצפן באמצעות ססמה
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = היכן ברצונך לשמור את הגיבוי שלך?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = יצירת ססמה לקובץ הגיבוי
 create-backup-screen-3-subtitle = נדרשת להצפנת הנתונים שלך. יש לאחסן אותה במקום שקל לזכור.
 fx-backup-opt-in-header = בחירת מיקום הקובץ
-fx-backup-opt-in-filepath-label = נא לבחור במקום שברצונך להעביר למכשיר חדש, כמו OneDrive.
+fx-backup-opt-in-filepath-label = נא לבחור במיקום שברצונך להעביר למכשיר חדש, כמו OneDrive.
 fx-backup-opt-in-create-password-label = נא להכניס ססמה
 fx-backup-opt-in-confirm-btn-label = המשך
 fx-backup-opt-in-cancel-btn-label = חזרה

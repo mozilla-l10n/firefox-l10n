@@ -2,22 +2,44 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This string is used to name the folder that users will save backups to.
+# "Restore" is an action and intended for prompting users to select this folder
+# when following backup restoration steps. Please only include characters that
+# can be used for folders. Invalid characters will be automatically stripped out
+# or replaced with underscores.
+backup-folder-name = { -brand-product-name } reparearje
+# This string is used for the generated file that will be stored within the
+# backup-folder-name folder. It will have the profile name and an encoding of
+# the backup date appended to it, followed by `.html`. Please only include
+# characters that can be used for filenames. Invalid characters will be
+# automatically stripped out or replaced with underscores.
+#
+# This is an example of what the final filename might look like after the
+# profile name and backup date are appended to it:
+#
+# FirefoxBackup_default_20240606-1830.html
+backup-file-name = { -brand-product-name }-reservekopy
 settings-data-backup-header = Reservekopy
 settings-data-backup-toggle = Reservekopy beheare
 settings-data-backup-trigger-button = Reservekopy no meitsje
 settings-data-backup-in-progress-button = Reservekopy dwaande…
 settings-data-backup-scheduled-backups-on = Reservekopy: OAN
 settings-data-backup-scheduled-backups-off = Reservekopy: ÚT
+settings-data-backup-scheduled-backups-description = Beskermje automatysk jo blêdwizers, skiednis en oare gegevens. <a data-l10n-name="support-link">Mear ynfo</a>
+settings-data-backup-last-backup-date = Lêste reservekopy: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Lokaasje
 settings-data-backup-last-backup-location-show-in-folder = Yn map toane
 settings-data-backup-last-backup-location-edit = Bewurkje…
+settings-data-create-backup-error = Der is op { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } in flater bard by it meitsjen fan jo reservekopy
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Bestânsnamme: { $fileName }
+settings-data-backup-restore-header = Jo gegevens reparearje
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
+settings-data-backup-scheduled-backups-off-restore-description = In { -brand-product-name }-reservekopy fan in oar apparaat brûke om jo gegevens te reparearjen.
 settings-data-backup-scheduled-backups-off-restore-choose = Kies reservekopybestân…
 
 ## These strings are shown under the header if scheduled backups are enabled.
@@ -66,6 +88,29 @@ restore-from-backup-file-choose-button =
        *[other] Blêdzje…
     }
 restore-from-backup-password-label = Wachtwurd
+restore-from-backup-cancel-button = Annulearje
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-support-link = Mear ynfo
+enable-backup-encryption-create-password-label = Wachtwurd
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Nochris it wachtwurd
+enable-backup-encryption-cancel-button = Annulearje
+enable-backup-encryption-confirm-button = Bewarje
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Wachtwurdeasken
+password-rules-length-description = Op syn minst 8 karakters
+password-rules-email-description = Net jo e-mailadres
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Slagge
+password-rules-a11y-warning =
+    .alt = Warskôging
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 

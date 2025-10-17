@@ -141,6 +141,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = ‏{ -brand-short-name } לא הצליח לשחזר
     .message = נא להפעיל מחדש את { -brand-short-name } ולנסות ולשחזר את הגיבוי שלך שוב.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = משהו השתבש
+    .message = אירעה בעיה בתהליך הגיבוי של { -brand-short-name }. נא לנסות שוב או להפעיל מחדש את { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

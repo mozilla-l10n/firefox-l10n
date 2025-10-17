@@ -262,6 +262,9 @@ custom-avatar-crop-area =
 custom-avatar-drag-handle =
     .aria-label = שינוי גודל אזור החיתוך
 profiles-appmenu-callout-tour-title = הפרופיל החדש שלך מוכן לשימוש
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = בתפריט ☰, יש ללחוץ על שם הפרופיל כדי ליצור אחד חדש, לערוך את הנוכחי או לקפוץ בין החיים הדיגיטליים השונים שלך.
+profiles-appmenu-callout-tour-primary-button = הראו לי כיצד
 barbell-avatar = משקולת
 bike-avatar = אופניים
 

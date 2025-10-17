@@ -39,6 +39,7 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } downloade
 more-from-moz-solo-title = { -solo-ai-brand-name }-AI
 more-from-moz-solo-description = Meitsje daliks jo website en keppelje fergees jo eigen oanpaste domein.
 more-from-moz-solo-button = { -solo-ai-brand-name } probearje
+more-from-moz-solo-title-2 = { -solo-ai-brand-name }-AI-websitemakker
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
