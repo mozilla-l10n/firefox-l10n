@@ -522,6 +522,11 @@ plugins-openh264-description = Este plugin ha sido instalado automáticamente po
 plugins-widevine-name = Módulo de desencriptación de contenido Widevine proveído por Google Inc.
 plugins-widevine-description = Este plugin habilita la reproducción multimedia encriptada, en conformidad con la especificación Encrypted Media Extensions. Multimedia encriptada es usada típicamente por sitios para proteger contra copias de contenido multimedia premium. Visita https://www.w3.org/TR/encrypted-media/ para más información sobre Escrypted Media Extensions.
 
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+addon-permissions-data-collection-heading = Recopilación de datos
+
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 # Label for button that when clicked removed local model

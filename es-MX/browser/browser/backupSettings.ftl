@@ -101,5 +101,8 @@ backup-file-encryption-state-value-encrypted = Sí
 backup-file-encryption-state-value-not-encrypted = No
 backup-file-creation-device-label = Dispositivo:
 backup-file-creation-date-label = Creado:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Cómo restaurar:
 backup-file-download-moz-browser-button = Descargar

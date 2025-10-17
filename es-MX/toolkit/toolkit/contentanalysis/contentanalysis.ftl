@@ -24,6 +24,10 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } está revisando lo que
 contentanalysis-operationtype-clipboard = portapapeles
 contentanalysis-operationtype-dropped-text = texto colocado
 contentanalysis-operationtype-print = imprimir
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = cargar de “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = descarga de “{ $filename }”
 contentanalysis-warndialogtitle = Este contenido puede no ser seguro
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -64,6 +68,7 @@ contentanalysis-block-dialog-title-upload-file = No tienes permiso para subir es
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Según las políticas de protección de datos de tu organización, no se te permite cargar el archivo “{ $filename }”. Contacta con tu administrador para obtener más información.
+contentanalysis-block-dialog-title-download-file = No tienes permiso para descargar este archivo
 contentanalysis-block-dialog-title-clipboard = No tienes permiso para pegar este contenido
 contentanalysis-block-dialog-body-clipboard = Según las políticas de protección de datos de tu organización, no puedes pegar este contenido. Contacta con tu administrador para obtener más información.
 contentanalysis-block-dialog-title-dropped-text = No tienes permitido soltar este contenido.

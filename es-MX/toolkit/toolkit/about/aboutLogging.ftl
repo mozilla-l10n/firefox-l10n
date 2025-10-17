@@ -76,6 +76,7 @@ about-logging-upload-button = Subir
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = Guardado en { $path }
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartir URL
 
 ## Uploaded Profiles section
 
