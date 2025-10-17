@@ -44,7 +44,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = 選擇備份檔…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
-settings-data-backup-scheduled-backups-on-restore-description = 還原最後一次備份的 { -brand-product-name } 資料。
+settings-data-backup-scheduled-backups-on-restore-description = 還原先前備份的 { -brand-product-name } 資料。
 settings-data-backup-scheduled-backups-on-restore-choose = 還原…
 settings-data-toggle-encryption-label = 備份敏感資料
 settings-data-toggle-encryption-description = 加密備份您的網站密碼、付款方式、Cookie 等資料
@@ -200,7 +200,7 @@ backup-error-retry = 某些東西不對勁，請再試一次。
 
 backup-file-header = 已經準備好可以還原 { -brand-short-name }。
 backup-file-title = 還原 { -brand-short-name }
-backup-file-intro = 回到上網，並還原您所有書籤、瀏覽紀錄與其他資料。<a data-l10n-name="backup-file-support-link">了解更多</a>
+backup-file-intro = 還原您所有書籤、瀏覽紀錄與其他資料，然後繼續上網。<a data-l10n-name="backup-file-support-link">了解更多</a>
 backup-file-path-label = 備份檔：
 backup-file-encryption-state-label = 加密：
 backup-file-encryption-state-value-encrypted = 是
@@ -214,14 +214,14 @@ backup-file-how-to-restore-header = 如何還原：
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = 開啟應用程式選單 ☰ 並前往「設定 > 同步」
-backup-file-moz-browser-restore-step-2 = 點擊「選擇備份檔」，並選擇這個檔案
+backup-file-moz-browser-restore-step-2 = 點擊「選擇備份檔…」，並選擇這個檔案
 backup-file-moz-browser-restore-step-3 = 收到提示後，重新啟動 { -brand-short-name }
 backup-file-other-browser-restore-step-1 = 下載並安裝 { -brand-short-name }
 backup-file-download-moz-browser-button = 下載
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = 啟動 { -brand-short-name }，開啟應用程式選單 ☰ 並前往「設定 > 同步」
-backup-file-other-browser-restore-step-3 = 點擊「選擇備份檔」，並選擇這個檔案
+backup-file-other-browser-restore-step-3 = 點擊「選擇備份檔…」，並選擇這個檔案
 backup-file-other-browser-restore-step-4 = 收到提示後，重新啟動 { -brand-short-name }
 
 ## These strings are used in the about:restore and about:welcome pages
