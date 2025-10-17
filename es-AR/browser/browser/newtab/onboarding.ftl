@@ -510,6 +510,8 @@ create-backup-screen-2-all-label = Todos los datos
 create-backup-screen-2-all-list-2 = Incluye contraseñas y pagos
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Cifrado con contraseña
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = ¿Dónde quiere que se guarde la copia de seguridad?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Crear una contraseña de archivo de respaldo
 create-backup-screen-3-subtitle = Necesaria para cifrar los datos. Guárdela en un lugar que recordará.
