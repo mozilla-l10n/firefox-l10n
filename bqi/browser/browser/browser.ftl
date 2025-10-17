@@ -40,6 +40,8 @@ quickactions-cmd-extensions = وردنی یل
 # Opens the print dialog
 quickactions-print2 = چاپ بلگه
 quickactions-cmd-print = چاپ
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = زفت کردن بلگه و عونوان PDF
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = وانۊ کردن { -brand-short-name }
 quickactions-cmd-refresh = وانۊ کردن
