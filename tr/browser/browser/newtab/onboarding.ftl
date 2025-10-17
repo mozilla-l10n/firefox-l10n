@@ -483,6 +483,7 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-flair = Önerilen
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Daha fazla bilgi alın</a>
 create-backup-screen-1-sync-label = { -brand-product-name } ile eşitle
+create-backup-screen-1-backup-label = Bilgisayara yedekle
 create-backup-screen-1-backup-body = Cihazınıza veya OneDrive’a kaydeder
 create-backup-select-tile-button-label = Seç
 create-backup-back-button-label = Geri
