@@ -98,7 +98,7 @@ restore-from-backup-support-link =
     .message = ¿Qué será restaurado?
 restore-from-backup-no-backup-file-link = ¿Tiene problemas para encontrar el respaldo?
 restore-from-backup-filepicker-label = Archivo de copia de seguridad
-restore-from-backup-filepicker-title = Seleccionar archivo de co de seguridad:
+restore-from-backup-filepicker-title = Seleccionar archivo de respaldo:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Seleccionar…
@@ -211,9 +211,11 @@ backup-file-creation-date-label = Creado:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Cómo restaurar:
+backup-file-moz-browser-restore-step-2 = Haga clic en “Seleccionar archivo de respaldo” y seleccione este archivo
 backup-file-moz-browser-restore-step-3 = Reinicie { -brand-short-name } cuando se le pida
 backup-file-other-browser-restore-step-1 = Descargar e instalar { -brand-short-name }
 backup-file-download-moz-browser-button = Descargar
+backup-file-other-browser-restore-step-3 = Haga clic en “Seleccionar archivo de respaldo” y seleccione este archivo
 backup-file-other-browser-restore-step-4 = Reinicie { -brand-short-name } cuando se le pida
 
 ## These strings are used in the about:restore and about:welcome pages
