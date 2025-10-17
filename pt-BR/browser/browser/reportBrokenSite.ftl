@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Relatar site com problemas
 report-broken-site-panel-header =
     .label = Relatar site com problemas
     .title = Relatar site com problemas
+report-broken-site-panel-learn-more-link = Saiba mais
 report-broken-site-panel-intro = Ajude a tornar o { -brand-product-name } melhor para todos. A { -vendor-short-name } usa as informações que você envia para corrigir problemas em sites.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Qual o problema?

@@ -124,6 +124,11 @@ backup-error-retry = Algo deu errado. Tente novamente.
 ## default) within a folder labelled with the "backup-folder-name" string.
 
 backup-file-header = O { -brand-short-name } está pronto para ser restaurado
+backup-file-title = Restaurar o { -brand-short-name }
+backup-file-encryption-state-value-encrypted = Sim
+backup-file-encryption-state-value-not-encrypted = Não
+backup-file-creation-device-label = Dispositivo:
+backup-file-creation-date-label = Data de criação:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
