@@ -136,3 +136,8 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Este archivo no funciona
     .message = El archivo seleccionado no fue creado por { -brand-short-name }. Seleccione un archivo diferente y pruebe nuevamente.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } no pudo restaurar
+    .message = Reinicie { -brand-short-name } y trate de restaurar desde la copia de seguridad nuevamente.
