@@ -62,6 +62,12 @@ toolbar-button-account =
     .label = هساو منتوری
     .tooltiptext = هساو منتوری
 
+## Save Page
+
+main-context-menu-page-save =
+    .label = زفت کردن بلگه و عونوان…
+    .accesskey = P
+
 ## Simple menu items
 
 # This menuitem is only visible on macOS
