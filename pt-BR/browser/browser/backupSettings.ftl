@@ -179,10 +179,14 @@ password-rules-a11y-warning =
 
 disable-backup-encryption-header = Remover proteção por senha
 disable-backup-encryption-description = Suas senhas, métodos de pagamento e cookies salvos não serão mais guardados em backup.
+disable-backup-encryption-support-link = O que é salvo?
+disable-backup-encryption-cancel-button = Cancelar
+disable-backup-encryption-confirm-button = Remover senha
 
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = Sua senha não atende aos requisitos. Tente outra senha.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
@@ -196,6 +200,8 @@ backup-error-retry = Algo deu errado. Tente novamente.
 
 backup-file-header = O { -brand-short-name } está pronto para ser restaurado
 backup-file-title = Restaurar o { -brand-short-name }
+backup-file-path-label = Arquivo de backup:
+backup-file-encryption-state-label = Criptografado:
 backup-file-encryption-state-value-encrypted = Sim
 backup-file-encryption-state-value-not-encrypted = Não
 backup-file-creation-device-label = Dispositivo:
