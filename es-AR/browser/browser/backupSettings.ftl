@@ -215,3 +215,19 @@ backup-file-moz-browser-restore-step-3 = Reinicie { -brand-short-name } cuando s
 backup-file-other-browser-restore-step-1 = Descargar e instalar { -brand-short-name }
 backup-file-download-moz-browser-button = Descargar
 backup-file-other-browser-restore-step-4 = Reinicie { -brand-short-name } cuando se le pida
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Nota:</b> { $numberOfOtherBackupsFound } archivo de respaldo encontrado
+       *[other] <b>Nota:</b> { $numberOfOtherBackupsFound } otros archivos de respaldo encontrados
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Creado el { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } en { $machineName }
