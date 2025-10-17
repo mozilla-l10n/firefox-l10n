@@ -164,3 +164,54 @@ change-backup-encryption-header = Cambiar contraseña del respaldo
 password-rules-header = Requisitos de contraseña
 password-rules-length-description = Al menos 8 caracteres
 password-rules-email-description = Que no sea su dirección de correo electrónico
+password-rules-disclaimer = Manténgase seguro — no reutilice contraseñas. Vea más consejos para <a data-l10n-name="password-support-link">crear contraseñas seguras</a>.
+password-validity-has-email = No puede ser una dirección de correo electrónico
+password-validity-do-not-match = Las contraseñas no coinciden
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Éxito
+password-rules-a11y-warning =
+    .alt = Advertencia
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Eliminar protección de contraseña
+disable-backup-encryption-description = Las contraseñas guardadas, métodos de pago y cookies ya no serán respaldadas.
+disable-backup-encryption-support-link = ¿Qué será respaldado?
+disable-backup-encryption-cancel-button = Cancelar
+disable-backup-encryption-confirm-button = Eliminar contraseña
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = La contraseña no cumple los requisitos. Intente otra contraseña.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Algo salió mal. Intente de nuevo.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } está listo para ser restaurado
+backup-file-title = Restaurar { -brand-short-name }
+backup-file-intro = Vuelva a navegar y recupere todos los marcadores, historial y otros datos. <a data-l10n-name="backup-file-support-link">Conocer más</a>
+backup-file-path-label = Archivo de copia de seguridad:
+backup-file-encryption-state-label = Cifrado:
+backup-file-encryption-state-value-encrypted = Sí
+backup-file-encryption-state-value-not-encrypted = No
+backup-file-creation-device-label = Dispositivo:
+backup-file-creation-date-label = Creado:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Cómo restaurar:
+backup-file-moz-browser-restore-step-3 = Reinicie { -brand-short-name } cuando se le pida
+backup-file-other-browser-restore-step-1 = Descargar e instalar { -brand-short-name }
+backup-file-download-moz-browser-button = Descargar
+backup-file-other-browser-restore-step-4 = Reinicie { -brand-short-name } cuando se le pida
