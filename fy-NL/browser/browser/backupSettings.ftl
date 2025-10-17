@@ -44,6 +44,8 @@ settings-data-backup-scheduled-backups-off-restore-choose = Kies reservekopybest
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Jo { -brand-product-name }-gegevens reparearje fan de lêste reservekopy út.
+settings-data-backup-scheduled-backups-on-restore-choose = Reparearje…
 settings-data-toggle-encryption-label = Meitsje in reservekopy fan jo gefoelige gegevens
 settings-data-toggle-encryption-description = Meitsje in reservekopy fan jo wachtwurden, betelmetoaden en cookies mei fersifering.
 settings-data-toggle-encryption-support-link = Mear ynfo
@@ -52,6 +54,8 @@ settings-data-change-password = Wachtwurd wizigje…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Reservekopy ynskeakelje
+turn-on-scheduled-backups-description = { -brand-short-name } sil elke 24 oeren in momintopname fan jo gegevens meitsje. Jo kinne it reparearje as der in probleem is of as jo in nij apparaat krije.
+turn-on-scheduled-backups-support-link = Wêrfan wurdt in reservekopy makke?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Lokaasje
 # Variables:

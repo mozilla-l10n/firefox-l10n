@@ -441,6 +441,7 @@ create-backup-screen-1-title =
 create-backup-screen-1-subtitle = הגנה אוטומטית על הססמאות, הסימניות שלך ועוד תוך 1-2 דקות.
 create-backup-screen-1-flair = מומלץ
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">מידע נוסף</a>
+create-backup-screen-1-sync-label = סנכרון עם { -brand-product-name }
 create-backup-screen-1-sync-body = מגבה את כל המכשירים המחוברים
 create-backup-screen-1-backup-label = גיבוי למחשב
 create-backup-screen-1-backup-body = שומר במכשיר או ב־OneDrive שלך

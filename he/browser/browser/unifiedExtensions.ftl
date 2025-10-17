@@ -17,6 +17,7 @@ unified-extensions-empty-reason-private-browsing-not-allowed = יש לך הרח�
 unified-extensions-empty-reason-extension-not-enabled = יש לך הרחבות מותקנות, אך לא מופעלות
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = שדרוג הגלישה שלך בעזרת הרחבות
+unified-extensions-empty-content-explain-enable = יש לבחור ב״{ unified-extensions-item-message-manage }״ כדי להפעיל אותם בהגדרות.
 unified-extensions-empty-content-explain-manage = יש לבחור ב״{ unified-extensions-item-message-manage }״ כדי לנהל אותם בהגדרות.
 unified-extensions-empty-content-explain-extensions-onboarding = ניתן להתאים אישית את { -brand-short-name } על־ידי שינוי המראה שלו והאופן שבו הוא פועל או שיפור הפרטיות והבטיחות.
 
