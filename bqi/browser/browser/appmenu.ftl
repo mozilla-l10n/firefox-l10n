@@ -55,6 +55,8 @@ appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = هساو منتوری
 appmenu-fxa-signed-in-label = و من ٱووڌن
 appmenu-fxa-setup-sync-new = رۊشن کردن
+appmenuitem-save-page =
+    .label = زفت کردن بلگه و عونوان…
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
