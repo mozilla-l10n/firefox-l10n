@@ -39,11 +39,15 @@ settings-data-backup-restore-header = Uw gegevens herstellen
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
+settings-data-backup-scheduled-backups-off-restore-description = Een { -brand-product-name }-reservekopie van een ander apparaat gebruiken om uw gegevens te herstellen.
 settings-data-backup-scheduled-backups-off-restore-choose = Reservekopiebestand kiezen…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Uw { -brand-product-name }-gegevens herstellen vanuit de laatste reservekopie.
 settings-data-backup-scheduled-backups-on-restore-choose = Herstellen…
+settings-data-toggle-encryption-label = Reservekopie van uw gevoelige gegevens maken
+settings-data-toggle-encryption-description = Maak versleuteld een reservekopie van uw wachtwoorden, betalingsmethoden en cookies.
 settings-data-toggle-encryption-support-link = Meer info
 settings-data-change-password = Wachtwoord wijzigen…
 

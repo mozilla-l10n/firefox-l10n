@@ -35,3 +35,8 @@ settings-data-create-backup-error = Hiba történt biztonsági mentés létrehoz
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Fájlnév: { $fileName }
 settings-data-backup-restore-header = Adatok helyreállítása
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = Használjon egy másik eszközről készült { -brand-product-name } biztonsági mentést az adatok helyreállításához.
+settings-data-backup-scheduled-backups-off-restore-choose = Biztonsági mentési fájl kiválasztása…
