@@ -317,4 +317,9 @@ tab-group-context-open-saved-group-in-new-window =
 
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
-tabbrowser-tab-label-tab-split-view = Chế độ chia đôi cửa sổ
+tabbrowser-tab-label-tab-split-view = Chế độ chia cửa sổ
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Mở trong chế độ chia cửa sổ
+    .accesskey = t
+tab-context-badge-new = Mới
