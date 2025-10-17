@@ -104,12 +104,26 @@ restore-from-backup-file-choose-button =
         [macos] Escolher…
        *[other] Escolher…
     }
+restore-from-backup-password-label = Senha
+restore-from-backup-password-description = Isto desbloqueia seu backup criptografado.
+restore-from-backup-confirm-button = Restaurar e reiniciar
+restore-from-backup-restoring-button = Restaurando…
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Algo deu errado. Tente novamente.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = O { -brand-short-name } está pronto para ser restaurado
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
