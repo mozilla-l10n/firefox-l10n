@@ -95,6 +95,7 @@ backup-error-retry = Algo salió mal. Por favor, inténtalo de nuevo.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-title = Restaurar { -brand-short-name }
 backup-file-path-label = Archivo de respaldo:
 backup-file-encryption-state-label = Encriptado:
 backup-file-encryption-state-value-encrypted = Sí
