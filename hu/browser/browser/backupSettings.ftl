@@ -19,3 +19,4 @@ backup-folder-name = { -brand-product-name } helyreállítása
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name } biztonsági mentés
+settings-data-backup-header = Biztonsági mentés
