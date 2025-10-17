@@ -169,11 +169,11 @@ monitor-resolve-breaches-link = Ուղղել խախտումները
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Սոց մեդիայի հետևումներ
+    .title = Սոց մեդիայի հետագծիչներ
     .aria-label =
         { $count ->
-            [one] { $count } սոց մեդիայի հետևում ({ $percentage }%)
-           *[other] { $count } սոց մեդիայի հետևումներ ({ $percentage }%)
+            [one] { $count } սոց մեդիայի հետագծիչ ({ $percentage }%)
+           *[other] { $count } սոց մեդիայի հետագծիչ ({ $percentage }%)
         }
 bar-tooltip-cookie =
     .title = Միջակայքի հետևման նշոցիկներ

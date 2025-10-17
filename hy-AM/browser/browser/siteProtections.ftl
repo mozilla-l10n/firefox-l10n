@@ -22,7 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Մաքրել նշոցիկների բացառությունը { $domain }-ի համար
-tracking-protection-icon-active = Սոց մեդիայի հետևումների, միջակայքի նշոցիկների հետևման և մատնահետքերի արգելափակում։
+tracking-protection-icon-active = Սոց մեդիայի հետագծիչների, միջակայքի նշոցիկների հետևման և մատնահետքերի արգելափակում։
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Այս կայքի համար բարելավված հետևման պաշտպանությունը անջատված է։
@@ -55,7 +55,7 @@ protections-blocking-cookies-unvisited =
 protections-blocking-tracking-content =
     .title = Հետևման բովանդակությունը արգելափակվել է
 protections-blocking-social-media-trackers =
-    .title = Սոց մեդիայի հետևումները արգելափակվել են
+    .title = Սոց մեդիայի հետագծիչներն արգելափակվել են
 protections-not-blocking-fingerprinters =
     .title = Մատնահետքերը չեն արգելափակվում
 protections-not-blocking-cryptominers =
@@ -69,7 +69,7 @@ protections-not-blocking-cross-site-tracking-cookies =
 protections-not-blocking-tracking-content =
     .title = Հետևման բովանդակությունը չի արգելափակվել
 protections-not-blocking-social-media-trackers =
-    .title = Սոց մեդիայի հետևումները չեն արգելափակվել
+    .title = Սոց մեդիայի հետագծիչները չեն արգելափակվել
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:

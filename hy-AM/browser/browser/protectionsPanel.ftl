@@ -58,7 +58,7 @@ protections-panel-not-blocking-why-etp-off-tooltip-label =
 
 protections-panel-no-trackers-found = { -brand-short-name }-ին հայտնի ոչ մի հայտնի հետագծիչներ չեն հայտնաբերվել այս էջում։
 protections-panel-content-blocking-tracking-protection = Հետևող բովանդակություն
-protections-panel-content-blocking-socialblock = Սոց մեդիայի հետևումներ
+protections-panel-content-blocking-socialblock = Սոց մեդիայի հետագծիչներ
 protections-panel-content-blocking-cryptominers-label = Ծպտյալ արժույթներ
 protections-panel-content-blocking-fingerprinters-label = Մատնահետքեր
 
