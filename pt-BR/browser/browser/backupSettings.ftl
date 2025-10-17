@@ -150,6 +150,35 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Salve cópia de segurança de seus dados sensíveis
+enable-backup-encryption-description = Faça backup de suas senhas, métodos de pagamento e cookies, mantendo todos os seus dados protegidos com criptografia.
+enable-backup-encryption-support-link = Saiba mais
+enable-backup-encryption-create-password-label = Senha
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Repetir senha
+enable-backup-encryption-cancel-button = Cancelar
+enable-backup-encryption-confirm-button = Salvar
+change-backup-encryption-header = Alterar senha de backup
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Requisitos de senha
+password-rules-length-description = Pelo menos 8 caracteres
+password-rules-email-description = Não ser seu endereço de email
+password-rules-disclaimer = Fique seguro, não reuse senhas. Veja mais dicas de como <a data-l10n-name="password-support-link">criar senhas fortes</a>.
+password-validity-has-email = Não pode ser um endereço de email
+password-validity-do-not-match = As senhas não coincidem
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Sucesso
+password-rules-a11y-warning =
+    .alt = Aviso
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Remover proteção por senha
+disable-backup-encryption-description = Suas senhas, métodos de pagamento e cookies salvos não serão mais guardados em backup.
 
 ## These strings are used to tell users when errors occur when using
 ## the backup system

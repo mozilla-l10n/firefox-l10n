@@ -71,6 +71,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 fxa-adoption-addresses-backup-title = Hagamos una copia de seguridad de tus direcciones guardadas
 fxa-adoption-addresses-backup-subtitle = Protege tus direcciones guardadas sincronizándolas con tus dispositivos con encriptación.
 fxa-adoption-credit-cards-backup-title = Respaldemos tus métodos de pago
+fxa-adoption-credit-cards-backup-subtitle = Protege tus métodos de pago sincronizándolos con sus dispositivos con encriptación.
 fxa-adoption-primary-button-label = Registrate
 
 ## Protections panel
@@ -232,6 +233,15 @@ set-default-pdf-handler-primary = Entendido
 
 ## PDF Annotations strings
 
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = ¡Firma en la línea de puntos o en cualquier lugar!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Dibuja, escribe o sube tu firma y colócala exactamente donde quieras. Guarda tus firmas favoritas para la próxima vez.
+annotations-make-default-pdf-handler-title = ¿Convertir { -brand-short-name } en su editor de PDF predeterminado?
+annotations-make-default-pdf-handler-subtitle = Tendrás acceso a nuestras herramientas cada vez que abras un PDF.
 annotations-make-default-pdf-primary-cta =
     .label = Establecer como predeterminado
 annotations-make-default-pdf-next =
@@ -356,6 +366,11 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Mantén tu navegador favorito centrado en la privacidad a un solo clic de distancia. Configura { -brand-short-name } como tu navegador predeterminado para abrir enlaces y fíjalo a tu barra de tareas.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantén tu navegador preferido centrado en la privacidad a un solo clic de distancia. Configura { -brand-short-name } como tu navegador predeterminado para abrir enlaces y fíjalo a tu menú inicio.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Empezar
+windows-10-eos-sync-toast-secondary-label = Recuérdamelo más tarde
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
