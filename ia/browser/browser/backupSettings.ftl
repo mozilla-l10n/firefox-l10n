@@ -200,7 +200,6 @@ backup-error-retry = Alco errate eveniva. Retenta.
 
 backup-file-header = { -brand-short-name } es preste a esser restaurate
 backup-file-title = Restaurar { -brand-short-name }
-backup-file-intro = Retorna a navigar e recupera tote tu marcapaginas, chronologia, e altere datos.
 backup-file-path-label = File de salveguarda:
 backup-file-encryption-state-label = Cryptate:
 backup-file-encryption-state-value-encrypted = Si
