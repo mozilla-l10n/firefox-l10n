@@ -36,6 +36,11 @@ turn-on-scheduled-backups-location-label = Lokaasje
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (oanrekommandearre)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Kieze…
+       *[other] Blêdzje…
+    }
 turn-on-scheduled-backups-encryption-label = Meitsje in reservekopy fan jo gefoelige gegevens
 turn-on-scheduled-backups-encryption-description = Meitsje in reservekopy fan jo wachtwurden, betelmetoaden en cookies mei fersifering.
 turn-on-scheduled-backups-encryption-create-password-label = Wachtwurd
@@ -60,6 +65,7 @@ restore-from-backup-file-choose-button =
         [macos] Kieze…
        *[other] Blêdzje…
     }
+restore-from-backup-password-label = Wachtwurd
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
