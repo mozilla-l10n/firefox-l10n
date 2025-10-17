@@ -360,3 +360,7 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = حافظ على متصفح�
 
 windows-10-eos-sync-toast-primary-label = ابدأ
 windows-10-eos-sync-toast-secondary-label = ذكّرني لاحقًا
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-pin-primary-button = ثبّت { -brand-shorter-name }

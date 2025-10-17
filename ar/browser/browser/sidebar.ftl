@@ -138,6 +138,15 @@ sidebar-menu-open-bookmarks-tooltip = افتح العلامات ({ $shortcut })
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = أغلق العلامات ({ $shortcut })
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+sidebar-menu-open-ai-chatbot-provider-tooltip = افتح { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = أغلق روبوت المحادثة AI ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = أغلق { $provider } ({ $shortcut })
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
