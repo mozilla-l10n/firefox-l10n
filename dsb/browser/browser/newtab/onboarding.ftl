@@ -510,6 +510,8 @@ create-backup-screen-2-all-label = Wšykne daty
 create-backup-screen-2-all-list-2 = Wopśimujo gronidła a płaśenja
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Z gronidłom skoděrowany
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Źo cośo swójo zawěsćenje składowaś?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Gronidło za zawěsćeńsku dataju napóraś
 create-backup-screen-3-subtitle = Trjebne za koděrowanje wašych datow. Składujśo je na městnje, na kótarež se dopominaśo.

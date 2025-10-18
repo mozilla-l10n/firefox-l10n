@@ -11,6 +11,8 @@
 unified-extensions-header-title = Rozšyrjenja
 unified-extensions-manage-extensions =
     .label = Rozšyrjenja zastojaś
+unified-extensions-discover-extensions =
+    .label = Rozšyrjenja namakaś
 
 ## An extension in the main list
 
