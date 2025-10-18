@@ -59,6 +59,32 @@ turn-off-scheduled-backups-support-link = Daha fazla bilgi alın
 turn-off-scheduled-backups-cancel-button = Vazgeç
 turn-off-scheduled-backups-confirm-button = Yedeklemeyi kapat ve sil
 
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-password-label = Parola
+restore-from-backup-cancel-button = Vazgeç
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-create-password-label = Parola
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Parola tekrarı
+enable-backup-encryption-cancel-button = Vazgeç
+enable-backup-encryption-confirm-button = Kaydet
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Parola gereksinimleri
+password-validity-has-email = E-posta adresi olamaz
+password-validity-do-not-match = Parolalar uyuşmuyor
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Başarılı
+password-rules-a11y-warning =
+    .alt = Uyarı
+
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Parola korumasını kaldır
@@ -90,4 +116,5 @@ backup-file-creation-date-label = Oluşturma:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") }
+backup-file-other-browser-restore-step-1 = { -brand-short-name } tarayıcısını indir ve yükle
 backup-file-download-moz-browser-button = İndir

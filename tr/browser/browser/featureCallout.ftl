@@ -149,6 +149,10 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Kapat
 windows-10-eos-sync-callout-primary-advance-button-label = İleri
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-description = Bağlantının kısa açıklamasına, okuma süresine ve diğer bilgilerine bakarak tıklamaya değip değmeyeceğine karar verebilirsiniz. Sağ tıklamayla da kullanılabilir.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Sekme başlıklarını kenar çubuğunda göster

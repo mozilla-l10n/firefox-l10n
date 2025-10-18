@@ -11,6 +11,14 @@
 unified-extensions-header-title = Uzantılar
 unified-extensions-manage-extensions =
     .label = Uzantıları yönet
+unified-extensions-discover-extensions =
+    .label = Uzantıları keşfedin
+unified-extensions-empty-reason-private-browsing-not-allowed = Yüklenmiş ama gizli pencerelerde etkinleştirilmemiş uzantılarınız var
+unified-extensions-empty-reason-extension-not-enabled = Yüklenmiş ama etkinleştirilmemiş uzantılarınız var
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Uzantılarla gezinti deneyiminizi bir üst seviyeye taşıyın
+unified-extensions-empty-content-explain-enable = Bunları etkinleştirmek için ayarlardan “{ unified-extensions-item-message-manage }” seçeneğini seçin.
+unified-extensions-empty-content-explain-manage = Bunları yönetmek için ayarlardan “{ unified-extensions-item-message-manage }” seçeneğini seçin.
 
 ## An extension in the main list
 
