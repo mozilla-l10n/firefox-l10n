@@ -1219,7 +1219,7 @@ autofill-payment-methods-checkbox-submessage = Zahrnuje kreditní a debetní kar
 autofill-saved-payment-methods-button = Uložené platební metody
     .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = K vyplnění a správě platebních metod vyžadovat přihlášení se na zařízení
+autofill-reauth-payment-methods-checkbox = Vyžadovat heslo k účtu na zařízení na vyplnění a správu způsobů plateb
     .accesskey = o
 autofill-payment-methods-title = Platební metody
 autofill-payment-methods-header =
