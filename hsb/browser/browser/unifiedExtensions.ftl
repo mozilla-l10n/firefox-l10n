@@ -11,6 +11,10 @@
 unified-extensions-header-title = Rozšěrjenja
 unified-extensions-manage-extensions =
     .label = Rozšěrjenja rjadować
+unified-extensions-discover-extensions =
+    .label = Rozšěrjenja namakać
+unified-extensions-empty-reason-private-browsing-not-allowed = Sće rozšěrjenja instalował, ale njejsće je w priwatnych woknach zmóžnił
+unified-extensions-empty-reason-extension-not-enabled = Sće rozšěrjenja instalował, ale nic zmóžnił
 
 ## An extension in the main list
 
