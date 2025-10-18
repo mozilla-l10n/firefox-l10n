@@ -159,6 +159,7 @@ backup-file-creation-date-label = Oluşturma:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") }
+backup-file-moz-browser-restore-step-3 = İstendiğinde { -brand-short-name } tarayıcısını yeniden başlatın
 backup-file-other-browser-restore-step-1 = { -brand-short-name } tarayıcısını indirip yükleyin
 backup-file-download-moz-browser-button = İndir
 backup-file-other-browser-restore-step-4 = İstendiğinde { -brand-short-name } tarayıcısını yeniden başlatın
