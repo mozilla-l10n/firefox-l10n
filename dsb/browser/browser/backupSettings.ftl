@@ -47,7 +47,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Zawěsćeńsku dataj
 settings-data-backup-scheduled-backups-on-restore-description = Wótnowśo daty { -brand-product-name } wót slědnego raza, gaž su se zawěsćili.
 settings-data-backup-scheduled-backups-on-restore-choose = Wótnowiś…
 settings-data-toggle-encryption-label = Zawěsććo swóje sensibelne daty
-settings-data-toggle-encryption-description = Zawěsććo gronidła gronidła, płaśeńske metody a cookieje ze skoděrowanim.
+settings-data-toggle-encryption-description = Zawěsććo gronidła, płaśeńske metody a cookieje ze skoděrowanim.
 settings-data-toggle-encryption-support-link = Dalšne informacije
 settings-data-change-password = Gronidło změniś…
 
@@ -150,6 +150,7 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Zawěsććo swóje sensibelne daty
+enable-backup-encryption-description = Zawěsććo swóje gronidła, płaśeńske metody a cookieje a źaržćo wšykne swóje daty wěste ze skoděrowanim.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
