@@ -44,6 +44,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Biztonsági mentési
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Állítsa helyre az adatait a { -brand-product-name } a legutóbbi biztonsági mentéséből.
 settings-data-backup-scheduled-backups-on-restore-choose = Helyreállítás…
 settings-data-toggle-encryption-label = Készítsen biztonsági mentést a bizalmas adatairól
 settings-data-toggle-encryption-description = Készítsen biztonsági mentést a jelszavairól, fizetési módjairól és a sütijeiről titkosítással.
@@ -192,10 +193,48 @@ backup-error-password-requirements = A jelszava nem felel meg a követelményekn
 # is a chance that the action will succeed if retried.
 backup-error-retry = Hiba történt, próbálja újra.
 
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = A { -brand-short-name } készen áll a helyreállításra
+backup-file-title = A { -brand-short-name } helyreállítása
+backup-file-intro = Térjen vissza a böngészéshez, és állítsa helyre a könyvjelzőit, előzményeit és egyéb adatait. <a data-l10n-name="backup-file-support-link">További tudnivalók</a>
+backup-file-path-label = Biztonsági mentési fájl:
+backup-file-encryption-state-label = Titkosítva:
+backup-file-encryption-state-value-encrypted = Igen
+backup-file-encryption-state-value-not-encrypted = Nem
+backup-file-creation-device-label = Eszköz:
+backup-file-creation-date-label = Létrehozva:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Helyreállítás módja:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Nyissa meg az alkalmazásmenüt ☰ és ugorjon a Beállítások > Szinkronizálás lehetőséghez
+backup-file-moz-browser-restore-step-2 = Kattintson a „Biztonsági mentési fájl kiválasztása” gombra, és válassza ki ezt a fájlt
+backup-file-moz-browser-restore-step-3 = Indítsa újra a { -brand-short-name }ot, amikor kéri
+backup-file-other-browser-restore-step-1 = A { -brand-short-name } letöltése és telepítése
+backup-file-download-moz-browser-button = Letöltés
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Indítsa el a { -brand-short-name }ot, nyissa meg az alkalmazásmenüt ☰ és menjen a Beállítások > Szinkronizálás lehetőséghez
+backup-file-other-browser-restore-step-3 = Kattintson a „Biztonsági mentési fájl kiválasztása” gombra, és válassza ki ezt a fájlt
+backup-file-other-browser-restore-step-4 = Indítsa újra a { -brand-short-name }ot, amikor kéri
+
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
 ## if they have one on their file system.
 
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Megjegyzés:</b> { $numberOfOtherBackupsFound } további mentési fájl található
+       *[other] <b>Megjegyzés:</b> { $numberOfOtherBackupsFound } további mentési fájl található
+    }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
