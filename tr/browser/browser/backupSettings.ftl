@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This string is used to name the folder that users will save backups to.
+# "Restore" is an action and intended for prompting users to select this folder
+# when following backup restoration steps. Please only include characters that
+# can be used for folders. Invalid characters will be automatically stripped out
+# or replaced with underscores.
+backup-folder-name = { -brand-product-name } Geri Yukleme
+# This string is used for the generated file that will be stored within the
+# backup-folder-name folder. It will have the profile name and an encoding of
+# the backup date appended to it, followed by `.html`. Please only include
+# characters that can be used for filenames. Invalid characters will be
+# automatically stripped out or replaced with underscores.
+#
+# This is an example of what the final filename might look like after the
+# profile name and backup date are appended to it:
+#
+# FirefoxBackup_default_20240606-1830.html
+backup-file-name = { -brand-product-name }Yedek
 settings-data-backup-header = Yedekleme
 settings-data-backup-toggle = Yedeklemeyi yönet
 settings-data-backup-trigger-button = Şimdi yedekle
@@ -14,6 +31,7 @@ settings-data-backup-last-backup-date = Son yedekleme: { DATETIME($date, timeSty
 settings-data-backup-last-backup-location = Konum
 settings-data-backup-last-backup-location-show-in-folder = Klasörde göster
 settings-data-backup-last-backup-location-edit = Düzenle…
+settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") } tarihinde yedeğiniz oluşturulurken bir hata oluştu
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Dosya adı: { $fileName }
@@ -24,9 +42,11 @@ settings-data-backup-scheduled-backups-off-restore-choose = Yedek dosyasını se
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
-settings-data-toggle-encryption-label = Hassas verilerinizi yedekleyin
+settings-data-backup-scheduled-backups-on-restore-description = { -brand-product-name } verilerinizi en son yedeklendiği zamandan geri getirin.
+settings-data-backup-scheduled-backups-on-restore-choose = Geri yükle…
+settings-data-toggle-encryption-label = Hassas verilerimi yedekle
 settings-data-toggle-encryption-description = Parolalarınızı, ödeme yöntemlerinizi ve çerezlerinizi şifrelenmiş olarak yedekleyin.
-settings-data-toggle-encryption-support-link = Daha fazla bilgi alın
+settings-data-toggle-encryption-support-link = Daha fazla bilgi al
 settings-data-change-password = Parolayı değiştir…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -39,7 +59,12 @@ turn-on-scheduled-backups-location-label = Konum
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (önerilen)
-turn-on-scheduled-backups-encryption-label = Hassas verilerinizi yedekleyin
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Seç…
+       *[other] Gözat…
+    }
+turn-on-scheduled-backups-encryption-label = Hassas verilerimi yedekle
 turn-on-scheduled-backups-encryption-description = Parolalarınızı, ödeme yöntemlerinizi ve çerezlerinizi şifrelenmiş olarak yedekleyin.
 turn-on-scheduled-backups-encryption-create-password-label = Parola
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -61,8 +86,19 @@ turn-off-scheduled-backups-confirm-button = Yedeklemeyi kapat ve sil
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Verilerinizi geri yükleyin
+restore-from-backup-support-link =
+    .message = Neler geri yüklenecek?
+restore-from-backup-filepicker-label = Yedek dosyası
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Seç…
+       *[other] Göz at…
+    }
 restore-from-backup-password-label = Parola
 restore-from-backup-cancel-button = Vazgeç
+restore-from-backup-confirm-button = Geri yükle ve yeniden başlat
+restore-from-backup-restoring-button = Geri yükleniyor…
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
