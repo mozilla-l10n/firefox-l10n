@@ -39,12 +39,14 @@ settings-data-backup-restore-header = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਬਹ
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
+settings-data-backup-scheduled-backups-off-restore-description = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰਨ ਵਾਸਤੇ ਹੋਰ ਡਿਵਾਈਸ ਤੋਂ { -brand-product-name } ਦੇ ਬੈਕਅੱਪ ਨੂੰ ਵਰਤੋਂ
 settings-data-backup-scheduled-backups-off-restore-choose = …ਬੈਕਅੱਪ ਫ਼ਾਇਲ ਨੂੰ ਚੁਣੋ
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
 settings-data-backup-scheduled-backups-on-restore-choose = …ਬਹਾਲ ਕਰੋ
 settings-data-toggle-encryption-label = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
+settings-data-toggle-encryption-description = ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਅਤੇ ਕੂਕੀਜ਼ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਰਾਹੀਂ ਬੈਕ ਅੱਪ ਲਵੋ।
 settings-data-toggle-encryption-support-link = ਹੋਰ ਜਾਣੋ
 settings-data-change-password = …ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
 
@@ -64,6 +66,7 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] …ਝਲਕ
     }
 turn-on-scheduled-backups-encryption-label = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
+turn-on-scheduled-backups-encryption-description = ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਅਤੇ ਕੂਕੀਜ਼ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਰਾਹੀਂ ਬੈਕ ਅੱਪ ਲਵੋ।
 turn-on-scheduled-backups-encryption-create-password-label = ਪਾਸਵਰਡ
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = ਪਾਸਵਰਡ ਦੁਹਰਾਓ
@@ -178,3 +181,19 @@ backup-file-download-moz-browser-button = ਡਾਊਨਲੋਡ
 backup-file-other-browser-restore-step-2 = { -brand-short-name } ਨੂੰ ਚਲਾਓ, ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ☰ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਸੈਟਿੰਗਾਂ > ਸਿੰਕ ਉੱਤੇ ਜਾਓ
 backup-file-other-browser-restore-step-3 = “ਬੈਕਅੱਪ ਫ਼ਾਇਲ ਨੂੰ ਚੁਣੋ” ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਇਸ ਫ਼ਾਇਲ ਨੂੰ ਚੁਣੋ
 backup-file-other-browser-restore-step-4 = ਜਦੋਂ ਕਿਹਾ ਜਾਵੇ ਤਾਂ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>ਨੋਟ:</b> { $numberOfOtherBackupsFound } ਹੋਰ ਬੈਕਅੱਪ ਫ਼ਾਇਲ ਲੱਭੀ
+       *[other] <b>ਨੋਟ:</b> { $numberOfOtherBackupsFound } ਹੋਰ ਬੈਕਅੱਪ ਫ਼ਾਇਲਾਂ ਲੱਭੀਆਂ
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = { $machineName } ਉੱਤੇ { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ਨੂੰ ਬਣਾਇਆ
