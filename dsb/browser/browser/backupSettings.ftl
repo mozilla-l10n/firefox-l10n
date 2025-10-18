@@ -104,6 +104,19 @@ restore-from-backup-file-choose-button =
         [macos] Wubraś…
        *[other] Pśepytaś…
     }
+restore-from-backup-password-label = Gronidło
+restore-from-backup-password-description = To wašo skoděrowane zawěsćenje wótwórijo.
+restore-from-backup-cancel-button = Pśetergnuś
+restore-from-backup-confirm-button = Wótnowiś a znowego startowaś
+restore-from-backup-restoring-button = Wótnowja se…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Wopacne gronidło. <a data-l10n-name="incorrect-password-support-link">Maśo hyšći problemy?</a>
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
