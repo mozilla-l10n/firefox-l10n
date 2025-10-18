@@ -151,6 +151,33 @@ backup-service-error-went-wrong =
 
 enable-backup-encryption-header = Zawěsććo swóje sensibelne daty
 enable-backup-encryption-description = Zawěsććo swóje gronidła, płaśeńske metody a cookieje a źaržćo wšykne swóje daty wěste ze skoděrowanim.
+enable-backup-encryption-support-link = Dalšne informacije
+enable-backup-encryption-create-password-label = Gronidło
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Gronidło wóspjetowaś
+enable-backup-encryption-cancel-button = Pśetergnuś
+enable-backup-encryption-confirm-button = Składowaś
+change-backup-encryption-header = Zawěsćeńske gronidło změniś
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Gronidłowe pominanja
+password-rules-length-description = Nanejmjenjej 8 znamuškow
+password-rules-email-description = Nic waša e-mailowa adresa
+password-rules-disclaimer = Wóstańśo wěsty – njewužywaj gronidła znowego. Glejśo dalšne pokaze, aby <a data-l10n-name="password-support-link">mócne gronidła napórał</a>.
+password-validity-has-email = Njemóžo e-mailowu adresu byś
+password-validity-do-not-match = Gronidle njejstej jadnakej
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Wuspěch
+password-rules-a11y-warning =
+    .alt = Warnowanje
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Šćit pśez gronidło wótwónoźeś
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
