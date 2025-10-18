@@ -178,12 +178,34 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Šćit pśez gronidło wótwónoźeś
+disable-backup-encryption-description = Waše skłaźone gronidła, płaśeńske metody a cookieje se wěcej njezawěsćuju.
+disable-backup-encryption-support-link = Co se zawěsćujo?
+disable-backup-encryption-cancel-button = Pśetergnuś
+disable-backup-encryption-confirm-button = Gronidło wótwónoźeś
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Wašo gronidło pominanjam njewótpowědujo. Wopytajśo pšosym druge gronidło.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Něco njejo se raźiło. Pšosym wopytajśo hyšći raz.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } móžo se něnto wótnowiś
+backup-file-title = { -brand-short-name } wótnowiś
+backup-file-intro = Wrośćo se k pśeglědowanjeju a wótnowśo wšykne swóje cytańske znamjenja, historiju a druge daty. <a data-l10n-name="backup-file-support-link">Dalšne informacije</a>
+backup-file-path-label = Zawěsćeńska dataja:
+backup-file-encryption-state-label = Šifrěrowane:
+backup-file-encryption-state-value-encrypted = Jo
+backup-file-encryption-state-value-not-encrypted = Ně
+backup-file-creation-device-label = Rěd:
 backup-file-creation-date-label = Napórany:
 # Variables:
 #   $date (Datetime) - The date the backup was created

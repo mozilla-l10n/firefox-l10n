@@ -200,7 +200,7 @@ backup-error-retry = Něšto je so nimokuliło. Prošu spytajće hišće raz.
 
 backup-file-header = { -brand-short-name } móže so nětko wobnowić
 backup-file-title = { -brand-short-name } wobnowić
-backup-file-intro = Wróćće so k přehladowanu a wobnowće wšě swoje zapołožki, historiju a druhe daty. <a data-l10n-name="backup-file-support-link">Dalše informacije</a>
+backup-file-intro = Wróćće so k přehladowanju a wobnowće wšě swoje zapołožki, historiju a druhe daty. <a data-l10n-name="backup-file-support-link">Dalše informacije</a>
 backup-file-path-label = Zawěsćenska dataja:
 backup-file-encryption-state-label = Zaklučowany:
 backup-file-encryption-state-value-encrypted = Haj
