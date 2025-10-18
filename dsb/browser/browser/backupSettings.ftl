@@ -117,6 +117,39 @@ restore-from-backup-restoring-button = Wótnowja se…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Wopacne gronidło. <a data-l10n-name="incorrect-password-support-link">Maśo hyšći problemy?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Dataja njefunkcioněrujo
+    .message = Dajo problem z wašeju zawěsćeńskeju dataju. Wubjeŕśo drugu dataju a wopytajśo hyšći raz.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Dataja njefunkcioněrujo
+    .message = Dataja, kótaruž sćo wubrał, njejo kompatibelna z toś teju wersiju { -brand-short-name }. Wubjeŕśo drugu dataju a wopytajśo hyšći raz.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Dataja njefunkcioněrujo
+    .message = Dataja, kótaruž sćo wubrał, njejo se napórała pśez { -brand-short-name }. Wubjeŕśo drugu dataju a wopytajśo hyšći raz.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } njedajo se wótnowiś
+    .message = Startujśo { -brand-short-name } znowego a wopytajśo znowego swójo zawěsćenje wótnowiś.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Něco njejo se raźiło
+    .message = Dajo problem ze zawěsćeńskim procesom za { -brand-short-name }. Wopytajśo pšosym hyšći raz abo startujśo { -brand-short-name } znowego.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Zawěsććo swóje sensibelne daty
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
