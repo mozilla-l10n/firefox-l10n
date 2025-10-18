@@ -157,3 +157,48 @@ enable-backup-encryption-create-password-label = Hesło
 enable-backup-encryption-repeat-password-label = Hesło wospjetować
 enable-backup-encryption-cancel-button = Přetorhnyć
 enable-backup-encryption-confirm-button = Składować
+change-backup-encryption-header = Zawěsćenske hesło změnić
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Hesłowe žadanja
+password-rules-length-description = Znajmjeńša 8 znamješkow
+password-rules-email-description = Nic waša e-mejlowa adresa
+password-rules-disclaimer = Wostańće wěsty – njewužiwajće hesła wospjet. Hlejće dalše pokiwy, zo byšće <a data-l10n-name="password-support-link">mócne hesła wutworił</a>.
+password-validity-has-email = Njemóže e-mejlowu adresu być
+password-validity-do-not-match = Hesle jenakej njejstej
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Wuspěch
+password-rules-a11y-warning =
+    .alt = Warnowanje
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Škit přez hesło wotstronić
+disable-backup-encryption-description = Waše składowane hesła, płaćenske metody a placki so hižo njezawěsćuja.
+disable-backup-encryption-support-link = Što so zawěsćuje?
+disable-backup-encryption-cancel-button = Přetorhnyć
+disable-backup-encryption-confirm-button = Hesło wotstronić
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Waše hesło žadanjam njewotpowěduje. Spytajće prošu druhe hesło.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Něšto je so nimokuliło. Prošu spytajće hišće raz.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } móže so nětko wobnowić
+backup-file-title = { -brand-short-name } wobnowić
+backup-file-intro = Wróćće so k přehladowanu a wobnowće wšě swoje zapołožki, historiju a druhe daty. <a data-l10n-name="backup-file-support-link">Dalše informacije</a>
+backup-file-path-label = Zawěsćenska dataja:
