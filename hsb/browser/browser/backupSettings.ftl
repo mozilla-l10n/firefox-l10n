@@ -202,3 +202,38 @@ backup-file-header = { -brand-short-name } móže so nětko wobnowić
 backup-file-title = { -brand-short-name } wobnowić
 backup-file-intro = Wróćće so k přehladowanu a wobnowće wšě swoje zapołožki, historiju a druhe daty. <a data-l10n-name="backup-file-support-link">Dalše informacije</a>
 backup-file-path-label = Zawěsćenska dataja:
+backup-file-encryption-state-label = Zaklučowany:
+backup-file-encryption-state-value-encrypted = Haj
+backup-file-encryption-state-value-not-encrypted = Ně
+backup-file-creation-device-label = Grat:
+backup-file-creation-date-label = Wutworjeny:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Kak wobnowić:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Wočińće nałoženski meni ☰ a přeńdźće k Nastajenja > Synchronizować
+backup-file-moz-browser-restore-step-2 = Klikńće na „Zawěsćensku dataju wubrać“ a wubjerće tutu dataju
+backup-file-moz-browser-restore-step-3 = Startujće { -brand-short-name } znowa, hdyž namołwu dóstawaće
+backup-file-other-browser-restore-step-1 = Sćehńće a instalujće { -brand-short-name }
+backup-file-download-moz-browser-button = Sćahnyć
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Startujće { -brand-short-name }, wočińće nałoženski meni ☰  a přeńdźće k Nastajenja > Synchronizować
+backup-file-other-browser-restore-step-3 = Klikńće na „Zawěsćensku dataju wubrać“ a wubjerće tutu dataju
+backup-file-other-browser-restore-step-4 = Startujće { -brand-short-name } znowa, hdyž namołwu dóstawaće
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Kedźbu:</b> { $numberOfOtherBackupsFound } druha zawěsćenska dataja namakana
+        [two] <b>Kedźbu:</b> { $numberOfOtherBackupsFound } druhej zawěsćenskej dataji namakanej
+        [few] <b>Kedźbu:</b> { $numberOfOtherBackupsFound } druhe zawěsćenske dataje namakane
+       *[other] <b>Kedźbu:</b> { $numberOfOtherBackupsFound } druhich zawěsćenskich datajow namakanych
+    }
