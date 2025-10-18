@@ -62,3 +62,58 @@ turn-on-scheduled-backups-location-label = Městno
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (poruča so)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Wubrać…
+       *[other] Přepytać…
+    }
+turn-on-scheduled-backups-encryption-label = Zawěsćće swoje sensibelne daty
+turn-on-scheduled-backups-encryption-description = Zawěsćće swoje hesła, płaćenske metody a placki ze zaklučowanjom.
+turn-on-scheduled-backups-encryption-create-password-label = Hesło
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Hesło wospjetować
+turn-on-scheduled-backups-cancel-button = Přetorhnyć
+turn-on-scheduled-backups-confirm-button = Zawěsćenje zmóžnić
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Je problem z wašim wubranym zawěsćenskim rjadowakom. Wubjerće druhi rjadowak a spytajće hišće raz.
+backup-error-file-system = Je problem z wašim wubranym zawěsćenskim rjadowakom, mjeztym zo { -brand-short-name } zawěsćuje.
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = Zawěsćenje znjemóžnić?
+turn-off-scheduled-backups-description = To tež wšě waše zawěsćenske daty zhaša. Njeda so cofnyć.
+turn-off-scheduled-backups-support-link = Dalše informacije
+turn-off-scheduled-backups-cancel-button = Přetorhnyć
+turn-off-scheduled-backups-confirm-button = Zawěsćenje znjemóžnić a zhašeć
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Waše daty wobnowić
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = To waše aktualne daty { -brand-short-name } z wašim zawěsćenjom wot { DATETIME($date, timeStyle: "short", dateStyle: "short") } wuměni.
+restore-from-backup-support-link =
+    .message = Što so wobnowi?
+restore-from-backup-no-backup-file-link = Maće problemy swoje zawěsćenje namakać?
+restore-from-backup-filepicker-label = Zawěsćenska dataja
+restore-from-backup-filepicker-title = Zawěsćensku dataju wubrać:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Wubrać…
+       *[other] Přepytać…
+    }
+restore-from-backup-password-label = Hesło
+restore-from-backup-password-description = To waše zaklučowane zawěsćenje wotewrje.
+restore-from-backup-cancel-button = Přetorhnyć
+restore-from-backup-confirm-button = Wobnowić a znowa startować
+restore-from-backup-restoring-button = Wobnowja so…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Wopačne hesło. <a data-l10n-name="incorrect-password-support-link">Maće hišće problemy?</a>
