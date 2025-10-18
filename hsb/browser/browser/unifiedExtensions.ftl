@@ -15,6 +15,11 @@ unified-extensions-discover-extensions =
     .label = Rozšěrjenja namakać
 unified-extensions-empty-reason-private-browsing-not-allowed = Sće rozšěrjenja instalował, ale njejsće je w priwatnych woknach zmóžnił
 unified-extensions-empty-reason-extension-not-enabled = Sće rozšěrjenja instalował, ale nic zmóžnił
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Powyšće niwow swojeho přehladowanja z rozšěrjenjemi
+unified-extensions-empty-content-explain-enable = Wubjerće „{ unified-extensions-item-message-manage }“, zo byšće je w nastajenjach zmóžnił.
+unified-extensions-empty-content-explain-manage = Wubjerće „{ unified-extensions-item-message-manage }“, zo byšće je w nastajenjach rjadował.
+unified-extensions-empty-content-explain-extensions-onboarding = Změńće zwonkowne a wukon abo polěpšće priwatnosć a wěstotu, zo byšće { -brand-short-name } přiměrił.
 
 ## An extension in the main list
 
