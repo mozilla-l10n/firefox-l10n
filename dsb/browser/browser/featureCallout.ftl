@@ -149,6 +149,10 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Zachyśiś
 windows-10-eos-sync-callout-primary-advance-button-label = Dalej
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Nowy: Klikniśo a źaržćo, aby pśeglěd wótkazow wiźeł
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Titele rejtarikow w bocnicy pokazaś

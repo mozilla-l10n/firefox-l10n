@@ -86,3 +86,62 @@ turn-off-scheduled-backups-description = To teke wšykne waše zawěsćeńske da
 turn-off-scheduled-backups-support-link = Dalšne informacije
 turn-off-scheduled-backups-cancel-button = Pśetergnuś
 turn-off-scheduled-backups-confirm-button = Zawěsćenje znjemóžniś a wulašowaś
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Waše daty wótnowiś
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = To waše aktualne daty { -brand-short-name } z wašym zawěsćenim wót { DATETIME($date, timeStyle: "short", dateStyle: "short") } wuměnijo.
+restore-from-backup-support-link =
+    .message = Co se wótnowijo?
+restore-from-backup-no-backup-file-link = Maśo problemy swóje zawěsćenje namakaś?
+restore-from-backup-filepicker-label = Zawěsćeńska dataja
+restore-from-backup-filepicker-title = Zawěsćeńsku dataju wubraś:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Wubraś…
+       *[other] Pśepytaś…
+    }
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-creation-date-label = Napórany:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Kak wótnowiś:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Wócyńśo nałožeński meni ☰ a pśejźćo k Nastajenja > Synchronizěrowaś
+backup-file-moz-browser-restore-step-2 = Klikniśo na „Zawěsćeńsku dataju wubraś“ a wubjeŕśo toś tu dataju
+backup-file-moz-browser-restore-step-3 = Startujśo { -brand-short-name } znowego, gaž naspominanje dostawaśo
+backup-file-other-browser-restore-step-1 = Ześěgniśo a instalěrujśo { -brand-short-name }
+backup-file-download-moz-browser-button = Ześěgnuś
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Startujśo { -brand-short-name }, wócyńśo nałožeński meni ☰  a pśejźćo k Nastajenja > Synchronizěrowaś
+backup-file-other-browser-restore-step-3 = Klikniśo na „Zawěsćeńsku dataju wubraś“ a wubjeŕśo toś tu dataju
+backup-file-other-browser-restore-step-4 = Startujśo { -brand-short-name } znowego, gaž naspominanje dostawaśo
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Glědajśo:</b> { $numberOfOtherBackupsFound } druga zawěsćeńska dataja namakana
+        [two] <b>Glědajśo:</b> { $numberOfOtherBackupsFound } drugej zawěsćeńskej dataji namakana
+        [few] <b>Glědajśo:</b> { $numberOfOtherBackupsFound } druge zawěsćeńske dataje namakane
+       *[other] <b>Glědajśo:</b> { $numberOfOtherBackupsFound } druge zawěsćeńske dataje namakane
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Napórany dnja { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
