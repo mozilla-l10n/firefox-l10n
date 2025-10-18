@@ -102,6 +102,8 @@ restore-from-backup-restoring-button = Geri yükleniyor…
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Hassas verilerimi yedekle
+enable-backup-encryption-support-link = Daha fazla bilgi al
 enable-backup-encryption-create-password-label = Parola
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Parola tekrarı
@@ -111,6 +113,8 @@ enable-backup-encryption-confirm-button = Kaydet
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
 password-rules-header = Parola gereksinimleri
+password-rules-length-description = En az 8 karakter olmalı
+password-rules-email-description = E-posta adresiniz olmamalı
 password-validity-has-email = E-posta adresi olamaz
 password-validity-do-not-match = Parolalar uyuşmuyor
 
@@ -144,6 +148,9 @@ backup-error-retry = Bir şeyler yanlış gitti. Lütfen yeniden deneyin.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } geri yüklenmeye hazır
+backup-file-title = { -brand-short-name } tarayıcısını geri yükle
+backup-file-path-label = Yedek dosyası:
 backup-file-encryption-state-label = Şifrelenmiş mi:
 backup-file-encryption-state-value-encrypted = Evet
 backup-file-encryption-state-value-not-encrypted = Hayır
@@ -152,5 +159,6 @@ backup-file-creation-date-label = Oluşturma:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") }
-backup-file-other-browser-restore-step-1 = { -brand-short-name } tarayıcısını indir ve yükle
+backup-file-other-browser-restore-step-1 = { -brand-short-name } tarayıcısını indirip yükleyin
 backup-file-download-moz-browser-button = İndir
+backup-file-other-browser-restore-step-4 = İstendiğinde { -brand-short-name } tarayıcısını yeniden başlatın
