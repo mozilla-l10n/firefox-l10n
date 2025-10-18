@@ -47,3 +47,43 @@ turn-on-scheduled-backups-location-label = Tendaite
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (ñemombe’upyre)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Poravo…
+       *[other] Kundaha…
+    }
+turn-on-scheduled-backups-encryption-create-password-label = Ñe’ẽñemi
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Emoingejey ñe’ẽñemi
+turn-on-scheduled-backups-cancel-button = Heja
+turn-on-scheduled-backups-confirm-button = Emyandy ñongatujey
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = Embogue ñongatujey
+turn-off-scheduled-backups-support-link = Kuaave
+turn-off-scheduled-backups-cancel-button = Heja
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Poravo…
+       *[other] Kundaha…
+    }
+restore-from-backup-password-label = Ñe’ẽñemi
+restore-from-backup-cancel-button = Heja
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-encryption-state-value-encrypted = Héẽ
+backup-file-encryption-state-value-not-encrypted = Nahániri
+backup-file-creation-device-label = Mba’e’oka:
+backup-file-creation-date-label = Moheñoimbyre:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-download-moz-browser-button = Mboguejy

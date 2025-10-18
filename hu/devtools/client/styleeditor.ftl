@@ -50,7 +50,7 @@ styleeditor-stylesheet-rule-count =
     }
 # Title for the pretty print button in the editor footer.
 styleeditor-pretty-print-button =
-    .title = Csinosítás stíluslapja
+    .title = Stíluslap csinosítása
 # Title for the pretty print button in the editor footer, when it's disabled
 styleeditor-pretty-print-button-disabled =
     .title = Csak a CSS-fájlok csinosíthatóak

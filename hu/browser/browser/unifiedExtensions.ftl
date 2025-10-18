@@ -11,6 +11,12 @@
 unified-extensions-header-title = Kiegészítők
 unified-extensions-manage-extensions =
     .label = Kiegészítők kezelése
+unified-extensions-discover-extensions =
+    .label = Kiegészítők felfedezése
+unified-extensions-empty-reason-private-browsing-not-allowed = Vannak olyan kiegészítői, amelyek telepítve vannak, de privát ablakokban nincsenek engedélyezve
+unified-extensions-empty-reason-extension-not-enabled = Vannak olyan kiegészítői, amelyek telepítve vannak, de nincsenek engedélyezve
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Emelje új szintre a böngészését kiegészítőkkel
 
 ## An extension in the main list
 

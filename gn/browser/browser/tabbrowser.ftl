@@ -352,3 +352,4 @@ tab-group-context-open-saved-group-in-new-window =
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Jehecha vorepyre
+tab-context-badge-new = Pyahu

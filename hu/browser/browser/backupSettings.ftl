@@ -135,3 +135,68 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Ez a fájl nem működik
     .message = A választott fájlt nem a { -brand-short-name } hozta létre. Válasszon egy másik fájlt, és próbálja újra.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = A { -brand-short-name } nem tudta helyreállítani
+    .message = Indítsa újra a { -brand-short-name }ot, és próbálja meg újra helyreállítani a biztonsági mentést.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Hiba történt
+    .message = Probléma volt a { -brand-short-name } biztonsági mentési folyamatában. Próbálja újra, vagy indítsa újra a { -brand-short-name }ot.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Készítsen biztonsági mentést a bizalmas adatairól
+enable-backup-encryption-description = Készítsen biztonsági mentést jelszavairól, fizetési módjairól és sütijeiről, valamint tartsa minden adatát biztonságban titkosítással.
+enable-backup-encryption-support-link = További tudnivalók
+enable-backup-encryption-create-password-label = Jelszó
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Jelszó megismétlése
+enable-backup-encryption-cancel-button = Mégse
+enable-backup-encryption-confirm-button = Mentés
+change-backup-encryption-header = Biztonsági mentés jelszavának megváltoztatása
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Jelszókövetelmények
+password-rules-length-description = Legalább 8 karakter
+password-rules-email-description = Nem az Ön e-mail-címe
+password-rules-disclaimer = Maradjon biztonságban – ne használja újra a jelszavakat. További tippek megtekintése az <a data-l10n-name="password-support-link">erős jelszavak létrehozásához</a>.
+password-validity-has-email = Nem lehet e-mail-cím
+password-validity-do-not-match = A jelszavak nem egyeznek
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Sikeres
+password-rules-a11y-warning =
+    .alt = Figyelmeztetés
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Jelszavas védelem eltávolítása
+disable-backup-encryption-description = A mentett jelszavairól, fizetési módjairól és sütijeiről többé nem lesz biztonsági mentés.
+disable-backup-encryption-support-link = Miről lesz mentés készítve?
+disable-backup-encryption-cancel-button = Mégse
+disable-backup-encryption-confirm-button = Jelszó eltávolítása
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = A jelszava nem felel meg a követelményeknek. Próbáljon meg egy másik jelszót.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Hiba történt, próbálja újra.
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Létrehozva: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a következőn: { $machineName }

@@ -149,6 +149,11 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Eltüntetés
 windows-10-eos-sync-callout-primary-advance-button-label = Tovább
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Új: Kattintson és tartsa lenyomva a hivatkozások előnézetéhez
+link-preview-onboarding-callout-description = Tekintsen meg egy rövid leírást, az olvasáshoz szükséges időt, és egyebeket, hogy eldöntse megéri-e megnyitni a hivatkozást. Jobb kattintással is elérhető.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Lapcímek megjelenítése az oldalsávban

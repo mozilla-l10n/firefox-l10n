@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Automatikus címkitöltés engedélyezése.
 policy-AutofillCreditCardEnabled = Fizetési módok automatikus kitöltésének engedélyezése.
 policy-AutoLaunchProtocolsFromOrigins = Adjon meg egy listát azokról a külső protokollokról, amelyek a felhasználó megkérdezése nélkül használhatók a felsorolt eredetektől.
 policy-BackgroundAppUpdate2 = Engedélyezze vagy tiltsa le a háttérfrissítőt.
+policy-Backup = Profiladatok biztonsági mentésének vagy helyreállításának letiltása.
 policy-BlockAboutAddons = Hozzáférés blokkolása a Kiegészítőkezelőhöz (about:addons).
 policy-BlockAboutConfig = Hozzáférés blokkolása az about:config oldalhoz.
 policy-BlockAboutProfiles = Hozzáférés blokkolása az about:profiles oldalhoz.
