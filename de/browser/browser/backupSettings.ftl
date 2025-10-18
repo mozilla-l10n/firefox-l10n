@@ -200,7 +200,7 @@ backup-error-retry = Etwas ist schiefgegangen. Bitte versuchen Sie es erneut.
 
 backup-file-header = { -brand-short-name } ist bereit zur Wiederherstellung
 backup-file-title = { -brand-short-name } wiederherstellen
-backup-file-intro = Zurück zum Surfen und stellen Sie alle Ihre Lesezeichen, Chronik und anderen Daten wieder her. <a data-l10n-name="backup-file-support-link">Weitere Informationen</a>
+backup-file-intro = Zurück zum Surfen. Stellen Sie alle Ihre Lesezeichen, Chronik und anderen Daten wieder her. <a data-l10n-name="backup-file-support-link">Weitere Informationen</a>
 backup-file-path-label = Sicherungsdatei:
 backup-file-encryption-state-label = Verschlüsselt:
 backup-file-encryption-state-value-encrypted = Ja
