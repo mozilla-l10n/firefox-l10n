@@ -117,3 +117,43 @@ restore-from-backup-restoring-button = Wobnowja so…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Wopačne hesło. <a data-l10n-name="incorrect-password-support-link">Maće hišće problemy?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Dataja njefunguje
+    .message = Je problem z wašej zawěsćenskej dataju. Wubjerće druhu dataju a spytajće hišće raz.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Dataja njefunguje
+    .message = Dataja, kotruž sće wubrał, z tutej wersiju { -brand-short-name } kompatibelna njeje. Wubjerće druhu dataju a spytajće hišće raz.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Dataja njefunguje
+    .message = Dataja, kotruž sće wubrał, njeje so přez { -brand-short-name } wutworiła. Wubjerće druhu dataju a spytajće hišće raz.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } njeda so wobnowić
+    .message = Startujće { -brand-short-name } znowa a spytajće znowa, swoje zawěsćenje wobnowić.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Něšto je so nimokuliło
+    .message = Je problem ze zawěsćenskim procesom za { -brand-short-name }. Prošu spytajće hišće raz abo startujće { -brand-short-name } znowa.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Zawěsćće swoje sensibelne daty
+enable-backup-encryption-description = Zawěsćće swoje hesła, płaćenske metody a placki a dźeržće wšě swoje daty wěste ze zaklučowanjom.
+enable-backup-encryption-support-link = Dalše informacije
+enable-backup-encryption-create-password-label = Hesło
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Hesło wospjetować
+enable-backup-encryption-cancel-button = Přetorhnyć
+enable-backup-encryption-confirm-button = Składować
