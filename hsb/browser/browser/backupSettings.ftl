@@ -237,3 +237,7 @@ other-backup-files-founds =
         [few] <b>Kedźbu:</b> { $numberOfOtherBackupsFound } druhe zawěsćenske dataje namakane
        *[other] <b>Kedźbu:</b> { $numberOfOtherBackupsFound } druhich zawěsćenskich datajow namakanych
     }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Wutworjeny dnja { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }

@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Awtomatiske wupjelnjenje za adresy zmóžnić.
 policy-AutofillCreditCardEnabled = Awtomatiske wupjelnjenje za płaćenske metody zmóžnić.
 policy-AutoLaunchProtocolsFromOrigins = Definujće lisćinu protokolow, kotrež dadźa so z nalistowanych žórłow wužiwać, bjeztoho zo by so dyrbjało wužiwarja prašeć.
 policy-BackgroundAppUpdate2 = Pozadkowe aktualizowanje zmóžnić abo znjemóžnić.
+policy-Backup = Znjemóžńće zawěsćenje abo wobnowjenje profilowych datow.
 policy-BlockAboutAddons = Přistup k zrjadowakej přidatkow (about:addons) blokować.
 policy-BlockAboutConfig = Přistup k stronje about:config blokować.
 policy-BlockAboutProfiles = Přistup k stronje about:profiles blokować.

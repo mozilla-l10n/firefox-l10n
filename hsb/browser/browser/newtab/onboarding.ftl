@@ -510,6 +510,8 @@ create-backup-screen-2-all-label = Wšě daty
 create-backup-screen-2-all-list-2 = Wobsahuje hesła a płaćenja
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Z hesłom zaklučowany
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Hdźe chceće swoje zawěsćenje składować?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Hesło za zawěsćensku dataju wutworić
 create-backup-screen-3-subtitle = Trěbne za zaklučowanje wašich datow. Składujće je na městnje, na kotrež so dopominaće.
