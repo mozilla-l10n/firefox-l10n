@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Tampilan Laman Web
 experimental-features-group-customize-browsing =
     .label = Ubahsuai penjelajahan Anda
+experimental-features-group-productivity =
+    .label = Produktivitas
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Sandi di bilah samping
@@ -36,3 +38,32 @@ experimental-features-custom-wallpaper-description = Unggah wallpaper Anda sendi
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Pratinjau tautan
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Untuk mempelajari lebih lanjut tentang laman web sebelum Anda mengeklik, apungkan kursor ke tautan dan tekan Shift (⇧) dan Option (⌥) atau Alt. Pratinjau dapat menyertakan detail seperti judul dan waktu baca. Untuk beberapa laman web, AI juga dapat membaca teks laman dan menghasilkan poin-poin penting. AI dioptimalkan untuk membaca dan menghasilkan teks bahasa Inggris. Untuk memprioritaskan privasi Anda, AI berjalan secara lokal di komputer Anda. <a data-l10n-name="connect">Berbagi masukan</a>
+       *[other] Untuk mempelajari lebih lanjut tentang laman web sebelum Anda mengeklik, apungkan kursor ke tautan dan tekan Shift + Alt. Pratinjau dapat menyertakan detail seperti judul dan waktu baca. Untuk beberapa laman web, AI juga dapat membaca teks laman dan menghasilkan poin-poin penting. AI dioptimalkan untuk membaca dan menghasilkan teks bahasa Inggris. Untuk memprioritaskan privasi Anda, AI berjalan secara lokal di komputer Anda. <a data-l10n-name="connect">Berbagi masukan</a>
+    }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Untuk mempelajari lebih lanjut tentang laman web sebelum Anda mengeklik, apungkan kursor ke tautan dan tekan Shift (⇧) dan Option (⌥) atau Alt. Pratinjau dapat menyertakan detail seperti judul dan waktu baca. <a data-l10n-name="connect">Berbagi masukan</a>
+       *[other] Untuk mempelajari lebih lanjut tentang laman web sebelum Anda mengeklik, apungkan kursor ke tautan dan tekan Shift + Alt. Pratinjau dapat menyertakan detail seperti judul dan waktu baca. <a data-l10n-name="connect">Berbagi masukan</a>
+    }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Bagian Topik dan Ikuti/Blokir untuk Cerita Tab Baru
+experimental-features-newtab-sections-follow-block-description = Organisasikan cerita di laman Tab Baru Anda ke dalam bagian topik (Olahraga, Makanan, Hiburan, dan lainnya) untuk pengalaman yang lebih terstruktur dan mudah dipindai. Gunakan kontrol Ikuti dan Blokir baru kami untuk menyesuaikan konten yang Anda lihat. <a data-l10n-name="connect">Berbagi masukan</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Tambahkan situs ke bilah tugas Anda
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Buka situs yang sering Anda kunjungi sebagai aplikasi web dari bilah tugas. Cari ikon “Tambahkan tab ke bilah tugas” di sebelah kanan bilah alamat untuk meluncurkan situs itu di jendela yang disederhanakan dengan semua perlindungan { -brand-product-name }. <a data-l10n-name="connect">Berbagi masukan</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Cantumkan di { -firefox-home-brand-name }
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Pencarian Riwayat Semantik
