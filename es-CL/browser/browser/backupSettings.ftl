@@ -74,6 +74,10 @@ turn-on-scheduled-backups-encryption-create-password-label = Contraseña
 turn-on-scheduled-backups-encryption-repeat-password-label = Repetir contraseña
 turn-on-scheduled-backups-cancel-button = Cancelar
 turn-on-scheduled-backups-confirm-button = Activar respaldos
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Hubo un problema con la carpeta de respaldo seleccionada. Elige otra carpeta e inténtalo de nuevo.
+backup-error-file-system = Hubo un problema con la carpeta de respaldo seleccionada al realizar la copia de seguridad de { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
@@ -146,6 +150,7 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Realiza un respaldo de tus datos sensibles
+enable-backup-encryption-description = Realice un respaldo de tus contraseñas, métodos de pago y cookies, además de mantener todos sus datos seguros con cifrado.
 enable-backup-encryption-support-link = Aprender más
 enable-backup-encryption-create-password-label = Contraseña
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -159,6 +164,7 @@ change-backup-encryption-header = Cambiar la contraseña de respaldo
 password-rules-header = Requisitos de contraseña
 password-rules-length-description = Al menos 8 carácteres
 password-rules-email-description = Que no sea tu dirección de correo
+password-rules-disclaimer = Mantente a salvo — no reutilices las contraseñas. Consulta más sugerencias para <a data-l10n-name="password-support-link">crear contraseñas seguras</a>.
 password-validity-has-email = No puede ser una dirección de correo
 password-validity-do-not-match = Las contraseñas no coinciden
 
@@ -172,14 +178,27 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Eliminar la protección con contraseña
+disable-backup-encryption-description = Tus contraseñas guardadas, métodos de pago y cookies ya no serán respaldados.
+disable-backup-encryption-support-link = ¿Qué se respaldará?
 disable-backup-encryption-cancel-button = Cancelar
 disable-backup-encryption-confirm-button = Eliminar contraseña
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Tu contraseña no cumple con los requisitos. Prueba con otra contraseña.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Algo se fue a las pailas. Por favor, vuelve a intentarlo.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } está listo para ser restaurado
 backup-file-title = Restaurar { -brand-short-name }
 backup-file-path-label = Archivo de respaldo:
 backup-file-encryption-state-label = Cifrado:
@@ -191,5 +210,15 @@ backup-file-creation-date-label = Creado:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Cómo restaurar:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Abre el menú de aplicación ☰ y ve a Ajustes > Sincronización
+backup-file-moz-browser-restore-step-2 = Haz clic en “Elegir archivo de respaldo” y selecciona este archivo
+backup-file-moz-browser-restore-step-3 = Reinicia { -brand-short-name } cuando se te solicite
 backup-file-other-browser-restore-step-1 = Descargar e instalar { -brand-short-name }
 backup-file-download-moz-browser-button = Descargar
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Inicie { -brand-short-name }, abre el menú de aplicación ☰ y ve a Ajustes > Sincronización
+backup-file-other-browser-restore-step-3 = Haz clic en “Elegir archivo de respaldo” y selecciona este archivo
+backup-file-other-browser-restore-step-4 = Reinicia { -brand-short-name } cuando se te solicite

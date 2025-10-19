@@ -39,6 +39,7 @@ more-from-moz-mozilla-monitor-button = Obtener { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Crea tu sitio web al instante y conecta tu propio dominio personalizado gratis.
 more-from-moz-solo-button = Prueba { -solo-ai-brand-name }
+more-from-moz-solo-title-2 = IA Creadora de sitios web { -solo-ai-brand-name }
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
