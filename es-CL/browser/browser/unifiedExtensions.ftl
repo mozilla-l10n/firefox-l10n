@@ -11,6 +11,12 @@
 unified-extensions-header-title = Extensiones
 unified-extensions-manage-extensions =
     .label = Gestionar extensiones
+unified-extensions-discover-extensions =
+    .label = Descubrir extensiones
+unified-extensions-empty-reason-private-browsing-not-allowed = Tiene extensiones instaladas, pero no habilitadas en ventanas privadas
+unified-extensions-empty-reason-extension-not-enabled = Tiene extensiones instaladas, pero no habilitadas
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Mejora tu navegación con extensiones
 
 ## An extension in the main list
 

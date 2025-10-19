@@ -351,3 +351,16 @@ tab-group-context-open-saved-group-in-new-window =
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Vista dividida
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Añadir vista dividida
+    .accesskey = t
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Abrir en vista dividida
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Separar vista dividida
+    .accesskey = t
+tab-context-badge-new = Nuevo
