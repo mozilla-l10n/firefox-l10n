@@ -64,6 +64,16 @@ experimental-features-fx-web-apps-description = Buka situs yang sering Anda kunj
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Cantumkan di { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Pastikan daftar tugas Anda selalu diingat saat membuka tab baru. Dari daftar pengemasan hingga daftar belanja, buat rencana Anda di { -brand-product-name }. <a data-l10n-name="connect">Berbagi masukan</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Pewaktu pada { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Atur penghitung waktu untuk membuat Anda tetap fokus, mendorong Anda untuk tetap terarah, atau mengingatkan Anda untuk mengisi ulang. <a data-l10n-name="connect">Berbagi masukan</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Daftar dan pewaktu di { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Pastikan daftar tugas Anda selalu diingat saat membuka tab baru. Dari daftar pengemasan hingga daftar belanja, buat rencana Anda di { -brand-product-name }. Atur penghitung waktu untuk membuat Anda tetap fokus, mendorong Anda untuk tetap terarah, atau mengingatkan Anda untuk mengisi ulang. <a data-l10n-name="connect">Berbagi masukan</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Pencarian Riwayat Semantik
+experimental-features-semantic-history-search-description = Gunakan model Pembelajaran Mesin lokal untuk menyarankan entri dari riwayat yang terkait dengan pencarian Anda berdasarkan pemahaman bahasa alami di bilah alamat { -brand-product-name }. <a data-l10n-name="connect">Berbagi masukan</a>

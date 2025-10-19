@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Aktifkan isi otomatis untuk alamat.
 policy-AutofillCreditCardEnabled = Aktifkan osi ptomatis untuk metode pembayaran.
 policy-AutoLaunchProtocolsFromOrigins = Menentukan daftar protokol eksternal yang dapat digunakan dari asal-usul terdaftar tanpa bertanya pada pengguna.
 policy-BackgroundAppUpdate2 = Aktifkan atau nonaktifkan pembaruan latar belakang.
+policy-Backup = Nonaktifkan pencadangan atau pemulihan data profil.
 policy-BlockAboutAddons = Blokir akses ke Pengelola Pengaya (about:addons).
 policy-BlockAboutConfig = Blokir akses ke laman about:config.
 policy-BlockAboutProfiles = Blokir akses ke laman about:profiles.

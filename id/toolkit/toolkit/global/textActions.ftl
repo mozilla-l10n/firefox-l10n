@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Bersihkan
 text-action-highlight-selection =
     .label = Sorot Pilihan
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Tambahkan Komentar ke Pilihan
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Komentari Pilihan

@@ -50,3 +50,7 @@ styleeditor-pretty-print-button =
 # Title for the pretty print button in the editor footer, when it's disabled
 styleeditor-pretty-print-button-disabled =
     .title = Hanya bisa mencetak rapi berkas CSS
+# Title for the pretty print button in the editor footer, when it's disabled because
+# the stylesheet is read-only
+styleeditor-pretty-print-button-disabled-read-only =
+    .title = Tak bisa mencetak cantik lembar gaya hanya-baca.
