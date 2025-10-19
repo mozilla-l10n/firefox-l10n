@@ -1090,6 +1090,9 @@ autofill-reauth-payment-methods-checkbox = Zahtevaj prijavo v napravi za izpolnj
 autofill-payment-methods-title = Plačilna sredstva
 autofill-payment-methods-header =
     .aria-label = Plačilna sredstva
+autofill-payment-methods-manage-payments-button =
+    .label = Upravljanje plačilnih sredstev
+    .accesskey = p
 
 ## Privacy Section - History
 
@@ -1135,7 +1138,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Piškotki in podatki strani
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Računanje velikosti podatkov strani in predpomnilnika …
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Shranjeni piškotki, zgodovina, podatki strani in predpomnilnik trenutno zavzemajo <strong>{ $value } { $unit }</strong> prostora na disku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")

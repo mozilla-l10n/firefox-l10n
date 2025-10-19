@@ -11,6 +11,7 @@
 unified-extensions-header-title = Razširitve
 unified-extensions-manage-extensions =
     .label = Upravljanje razširitev
+unified-extensions-empty-reason-extension-not-enabled = Imate nameščene razširitve, ki pa niso omogočene
 
 ## An extension in the main list
 

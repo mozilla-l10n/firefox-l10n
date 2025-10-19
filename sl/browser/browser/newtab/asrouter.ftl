@@ -237,6 +237,11 @@ fox-doodle-pin-secondary = Ne zdaj
 set-default-pdf-handler-headline = <strong>Datoteke PDF zdaj za vas odpira { -brand-short-name }.</strong> Sedaj lahko urejate in podpisujete obrazce neposredno v brskalniku. Če želite to spremeniti, v nastavitvah poiščite “PDF”.
 set-default-pdf-handler-primary = Razumem
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-next =
+    .label = Naprej
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Se vam obeta nov računalnik?
