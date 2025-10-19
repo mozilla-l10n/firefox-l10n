@@ -11,6 +11,14 @@
 unified-extensions-header-title = გაფართოებები
 unified-extensions-manage-extensions =
     .label = გაფართოებების მართვა
+unified-extensions-discover-extensions =
+    .label = მოიძიეთ გაფართოებები
+unified-extensions-empty-reason-private-browsing-not-allowed = თქვენ დაყენებული გაქვთ გაფართოებები, მაგრამ არაა ჩართული პირად ფანჯრებში
+unified-extensions-empty-reason-extension-not-enabled = თქვენ დაყენებული გაქვთ გაფართოებები, მაგრამ არაა ჩართული
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = ახალ დონეზე აიყვანეთ გვერდების მონახულება გაფართოებებით
+unified-extensions-empty-content-explain-enable = აირჩიეთ „{ unified-extensions-item-message-manage }“ ჩასართავად პარამეტრებიდან.
+unified-extensions-empty-content-explain-manage = აირჩიეთ „{ unified-extensions-item-message-manage }“ გასამართად პარამეტრებიდან.
 
 ## An extension in the main list
 

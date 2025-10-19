@@ -77,6 +77,7 @@ turn-on-scheduled-backups-confirm-button = მარქაფის ჩართ
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = ხარვეზია მარქაფისთვის თქვენ მიერ შერჩეულ საქაღალდესთან დაკავშირებით. აირჩიეთ სხვა საქაღალდე და ხელახლა სცადეთ.
+backup-error-file-system = რაღაც ხარვეზი წარმოიშვა, როცა თქვენ მიერ მითითებულ საქაღალდეში { -brand-short-name } დამარქაფებას ცდილობდა.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
@@ -89,6 +90,10 @@ turn-off-scheduled-backups-confirm-button = მარქაფის გამ�
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = თქვენი მონაცემების აღდგენა
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = შედეგად, ყველა თქვენი მიმდინარე მონაცემი, რომელსაც { -brand-short-name } შეიცავს, ჩანაცვლდება მონაცემებით თარიღიდან { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = რა აღდგება?
 restore-from-backup-no-backup-file-link = დაბრკოლება შეგექმნათ მარქაფის მოძიებისას?
@@ -112,6 +117,35 @@ restore-from-backup-restoring-button = მიმდინარეობს ა�
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = უმართებულო პაროლი. <a data-l10n-name="incorrect-password-support-link">რამე დაბრკოლებებია?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = ეს ფაილი არ მუშაობს
+    .message = ხარვეზი წარმოიშვა ფაილთან დაკავშირებით. აირჩიეთ სხვა ფაილი და კვლავ სცადეთ.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = ეს ფაილი არ მუშაობს
+    .message = თქვენ მიერ შერჩეული ფაილი და მოცემული ვერსიის { -brand-short-name } შეუთავსებლებია. აირჩიეთ სხვა ფაილი და კვლავ სცადეთ.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = ეს ფაილი არ მუშაობს
+    .message = თქვენ მიერ შერჩეული ფაილის შემქმნელი არაა { -brand-short-name }. აირჩიეთ სხვა ფაილი და კვლავ სცადეთ.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } აღდგენას ვერ ახერხებს
+    .message = ხელახლა გაუშვით { -brand-short-name } და კვლავ სცადეთ მარქაფიდან აღდგენა.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = რაღაც ხარვეზი წარმოიქმნა
+    .message = ხარვეზი წარმოიშვა, როცა { -brand-short-name } დამარქაფებას ცდილობდა. კვლავ სცადეთ ან ხელახლა გაუშვით { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -166,6 +200,7 @@ backup-error-retry = რაღაც ხარვეზი წარმოიქ
 
 backup-file-header = { -brand-short-name } აღსადგენად მზადაა.
 backup-file-title = აღადგინეთ { -brand-short-name }
+backup-file-intro = დაუბრუნდით ჩვეული გვერდების მონახულებას და აღადგინეთ ყველა თქვენი სანიშნი, ისტორია თუ სხვა მონაცემი. <a data-l10n-name="backup-file-support-link">ვრცლად</a>
 backup-file-path-label = სამარქაფო ფაილი:
 backup-file-encryption-state-label = დაშიფრული:
 backup-file-encryption-state-value-encrypted = დიახ
