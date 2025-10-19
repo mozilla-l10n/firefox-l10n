@@ -268,6 +268,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Temna
     .title = Spletna mesta naj uporabljajo temne barve ozadij in vsebine.
+web-appearance-group =
+    .aria-label = Videz spletnih strani
 preferences-web-appearance-choice-auto = Samodejno
 preferences-web-appearance-choice-light = Svetla
 preferences-web-appearance-choice-dark = Temna
@@ -1085,6 +1087,9 @@ autofill-saved-payment-methods-button = Shranjena plačilna sredstva
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Zahtevaj prijavo v napravi za izpolnjevanje in upravljanje plačilnih sredstev
     .accesskey = o
+autofill-payment-methods-title = Plačilna sredstva
+autofill-payment-methods-header =
+    .aria-label = Plačilna sredstva
 
 ## Privacy Section - History
 
@@ -1167,6 +1172,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Vse medspletne piškotke (lahko povzroči nedelovanje spletnih strani)
 sitedata-option-block-all =
     .label = Vse piškotke (povzroči nedelovanje spletnih strani)
+sitedata-clear2 =
+    .label = Počisti podatke brskanja
+    .accesskey = i
+sitedata-settings2 =
+    .label = Upravljanje podatkov brskanja
+    .accesskey = U
 sitedata-clear =
     .label = Počisti podatke …
     .accesskey = č
@@ -1176,6 +1187,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Upravljanje izjem ...
     .accesskey = z
+sitedata-cookies-exceptions2 =
+    .label = Upravljanje izjem
+    .accesskey = z
+    .description = Določite lahko, katera spletna mesta lahko vedno ali ne smejo nikoli shranjevati piškotkov in podatkov strani.
 
 ## Privacy Section - Cookie Banner Handling
 

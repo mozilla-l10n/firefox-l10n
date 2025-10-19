@@ -287,9 +287,17 @@ tab-group-editor-color-selector2-red = Rdeča
 tab-group-description = { $tabGroupName } – Skupina zavihkov
 tab-group-label-tooltip-collapsed = { $tabGroupName } – strnjena
 tab-group-label-tooltip-expanded = { $tabGroupName } – razširjena
+tab-group-preview-name =
+    .aria-label = Zavihki v strnjeni skupini
 tab-context-unnamed-group =
     .label = Neimenovana skupina
 tab-group-name-default = Neimenovana skupina
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Seznam zavihkov je odprt
+tab-group-preview-closed-description = Seznam zavihkov je zaprt
 
 ##
 
@@ -376,3 +384,9 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Odpri skupino v novem oknu
+
+## Split View
+
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on tabs inside of a tab split view
+tabbrowser-tab-label-tab-split-view = Razdeljen pogled

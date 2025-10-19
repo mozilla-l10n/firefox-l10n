@@ -479,8 +479,13 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Preklopi na stopinje F
 newtab-weather-menu-change-temperature-units-celsius = Preklopi na stopinje Celzija
 newtab-weather-menu-hide-weather = Skrij vreme na novem zavihku
 newtab-weather-menu-learn-more = Več o tem
+newtab-weather-menu-detect-my-location = Zaznaj mojo lokacijo
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Podatki o vremenu trenutno niso na voljo.
+newtab-weather-opt-in-not-now =
+    .label = Ne zdaj
+newtab-weather-opt-in-yes =
+    .label = Da
 
 ## Topic Labels
 
@@ -647,6 +652,9 @@ newtab-widget-lists-input-menu-move-up = Premakni gor
 newtab-widget-lists-input-menu-move-down = Premakni dol
 newtab-widget-lists-input-menu-delete = Izbriši
 newtab-widget-lists-input-menu-edit = Uredi
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Ustvari nov seznam
 newtab-widget-lists-name-label-default =
     .label = Seznam opravil
 newtab-widget-lists-name-placeholder-default =

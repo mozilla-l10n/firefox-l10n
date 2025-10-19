@@ -146,6 +146,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Nastavitve zbiranja podatkov so se spremenile.</strong> Spremembe, storjene v drugem profilu, veljajo za vse profile v tej napravi.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Prikaži nastavitve
 # Secondary button label to dismiss the infobar without action
@@ -259,5 +261,66 @@ custom-avatar-crop-area =
     .aria-label = Prilagodi območje obrezovanja
 custom-avatar-drag-handle =
     .aria-label = Spremeni velikost območja obrezovanja
+profiles-appmenu-callout-tour-primary-button = Pokaži, kako
 barbell-avatar = Uteži
 bike-avatar = Kolo
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Uporabi sličico uteži
+bike-avatar-tooltip =
+    .tooltiptext = Uporabi sličico kolesa
+book-avatar-tooltip =
+    .tooltiptext = Uporabi sličico knjige
+briefcase-avatar-tooltip =
+    .tooltiptext = Uporabi sličico aktovke
+picture-avatar-tooltip =
+    .tooltiptext = Uporabi sličico slike
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Uporabi sličico zemeljske oble
+diamond-avatar-tooltip =
+    .tooltiptext = Uporabi sličico diamanta
+flower-avatar-tooltip =
+    .tooltiptext = Uporabi sličico cveta
+folder-avatar-tooltip =
+    .tooltiptext = Uporabi sličico mape
+hammer-avatar-tooltip =
+    .tooltiptext = Uporabi sličico kladiva
+heart-avatar-tooltip =
+    .tooltiptext = Uporabi sličico srca
+heart-rate-avatar-tooltip =
+    .tooltiptext = Uporabi sličico srčnega utripa
+clock-avatar-tooltip =
+    .tooltiptext = Uporabi sličico ure
+leaf-avatar-tooltip =
+    .tooltiptext = Uporabi sličico lista
+lightbulb-avatar-tooltip =
+    .tooltiptext = Uporabi sličico žarnice
+makeup-avatar-tooltip =
+    .tooltiptext = Uporabi sličico ličil
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Uporabi sličico sporočila
+musical-note-avatar-tooltip =
+    .tooltiptext = Uporabi sličico note
+palette-avatar-tooltip =
+    .tooltiptext = Uporabi sličico palete
+paw-print-avatar-tooltip =
+    .tooltiptext = Uporabi sličico odtisa tace
+plane-avatar-tooltip =
+    .tooltiptext = Uporabi sličico letala
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Uporabi sličico darila
+shopping-avatar-tooltip =
+    .tooltiptext = Uporabi sličico nakupovalnega vozička
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Uporabi sličico nogometne žoge
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Uporabi sličico iskre
+star-avatar-tooltip =
+    .tooltiptext = Uporabi sličico zvezdice
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Uporabi sličico krmilnika
