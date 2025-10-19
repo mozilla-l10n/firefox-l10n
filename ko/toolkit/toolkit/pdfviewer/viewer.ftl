@@ -365,7 +365,7 @@ pdfjs-editor-add-saved-signature-button =
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = 텍스트 편집기
-    .default-content = 입력을 시작하세요…
+    .default-content = 입력하세요…
 # Used to show how many comments are present in the pdf file.
 # Variables:
 #   $count (Number) - the number of comments.
