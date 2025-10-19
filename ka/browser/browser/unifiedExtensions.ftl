@@ -19,6 +19,7 @@ unified-extensions-empty-reason-extension-not-enabled = თქვენ და�
 unified-extensions-empty-reason-zero-extensions-onboarding = ახალ დონეზე აიყვანეთ გვერდების მონახულება გაფართოებებით
 unified-extensions-empty-content-explain-enable = აირჩიეთ „{ unified-extensions-item-message-manage }“ ჩასართავად პარამეტრებიდან.
 unified-extensions-empty-content-explain-manage = აირჩიეთ „{ unified-extensions-item-message-manage }“ გასამართად პარამეტრებიდან.
+unified-extensions-empty-content-explain-extensions-onboarding = მოირგეთ { -brand-short-name } იერსახისა თუ წარმადობის დახვეწითა და პირადულობისა თუ უსაფრთხოების გაძლიერებით.
 
 ## An extension in the main list
 

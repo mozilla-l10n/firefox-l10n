@@ -350,3 +350,12 @@ tab-group-context-open-saved-group-in-new-window =
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = გაყოფილი ხედი
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = გაყოფილი ხედის დამატება
+    .accesskey = ყ
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = გახსნა გაყოფილი ხედით
+    .accesskey = ყ
+tab-context-badge-new = სიახლე

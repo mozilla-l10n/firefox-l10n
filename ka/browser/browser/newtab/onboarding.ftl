@@ -510,6 +510,8 @@ create-backup-screen-2-all-label = ყველა მონაცემი
 create-backup-screen-2-all-list-2 = მოიცავს პაროლებსა და გადახდის საშუალებებს
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = დაშიფრულია პაროლით
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = სად განთავსდეს სამარქაფო ფაილი?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = შექმენით სამარქაფო ფაილის პაროლი
 create-backup-screen-3-subtitle = საჭიროა თქვენი მონაცემების დასაშიფრად. შეინახეთ იოლად დასამახსოვრებელ ადგილას.

@@ -149,6 +149,11 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = აცილება
 windows-10-eos-sync-callout-primary-advance-button-label = შემდეგი
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = სიახლე: ხანგრძლივად დაწკაპეთ ბმულების შესათვალიერებლად
+link-preview-onboarding-callout-description = იხილეთ მოკლე აღწერა, წაკითხვის დრო და სხვ. რომ გადაწყვიტოთ, ღირს თუ არა ბმულზე გადასვლა. ხელმისაწვდომია მარჯვენა წკაპითაც.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = ჩანართების სათაურების ჩვენება გვერდით ზოლზე
