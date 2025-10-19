@@ -35,9 +35,11 @@ settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") } { DA
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Dosya adı: { $fileName }
+settings-data-backup-restore-header = Verilerinizi geri yükleyin
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
+settings-data-backup-scheduled-backups-off-restore-description = Başka bir cihazdaki { -brand-product-name } yedeğini kullanarak verilerinizi geri yükleyin.
 settings-data-backup-scheduled-backups-off-restore-choose = Yedek dosyasını seç…
 
 ## These strings are shown under the header if scheduled backups are enabled.
@@ -89,7 +91,9 @@ turn-off-scheduled-backups-confirm-button = Yedeklemeyi kapat ve sil
 restore-from-backup-header = Verilerinizi geri yükleyin
 restore-from-backup-support-link =
     .message = Neler geri yüklenecek?
+restore-from-backup-no-backup-file-link = Yedeğinizi bulamıyor musunuz?
 restore-from-backup-filepicker-label = Yedek dosyası
+restore-from-backup-filepicker-title = Yedek dosyasını seçin:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Seç…

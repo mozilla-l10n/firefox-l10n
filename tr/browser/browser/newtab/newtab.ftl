@@ -229,7 +229,7 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Sık Kullanılan Siteler
-newtab-section-header-recent-activity = Son Etkinlikler
+newtab-section-header-recent-activity = Son etkinlikler
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } öneriyor
