@@ -136,6 +136,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } geri yüklenemedi
     .message = { -brand-short-name } tarayıcısını yeniden başlatıp yedeğinizi tekrar geri yüklemeyi deneyin.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Bir sorun oluştu
+    .message = { -brand-short-name } yedekleme işleminde bir sorun oluştu. Lütfen yeniden deneyin veya { -brand-short-name } tarayıcısını yeniden başlatın.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
