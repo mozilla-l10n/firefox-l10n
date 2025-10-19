@@ -36,3 +36,122 @@ settings-data-create-backup-error = შეცდომა წარმოიშ�
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = ფაილის სახელი: { $fileName }
 settings-data-backup-restore-header = თქვენი მონაცემების აღდგენა
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = გამოიყენეთ სხვა მოწყობილობის { -brand-product-name } მარქაფით მონაცემების აღსადგენად.
+settings-data-backup-scheduled-backups-off-restore-choose = სამარქაფო ფაილის არჩევა…
+
+## These strings are shown under the header if scheduled backups are enabled.
+
+settings-data-toggle-encryption-label = დაამარქაფეთ თქვენი საფრთხილო მონაცემები
+settings-data-toggle-encryption-description = დაამარქაფეთ თქვენი პაროლები, გადახდის საშუალებები და ფუნთუშები დაშიფვრით.
+settings-data-toggle-encryption-support-link = ვრცლად
+settings-data-change-password = პაროლის შეცვლა…
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = მარქაფის ჩართვა
+turn-on-scheduled-backups-support-link = რა დამარქაფდება?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = მდებარეობა
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (სასურველია)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] ამორჩევა…
+       *[other] ნუსხა…
+    }
+turn-on-scheduled-backups-encryption-label = დაამარქაფეთ თქვენი საფრთხილო მონაცემები
+turn-on-scheduled-backups-encryption-description = დაამარქაფეთ თქვენი პაროლები, გადახდის საშუალებები და ფუნთუშები დაშიფვრით.
+turn-on-scheduled-backups-encryption-create-password-label = პაროლი
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = გაიმეორეთ პაროლი
+turn-on-scheduled-backups-cancel-button = გაუქმება
+turn-on-scheduled-backups-confirm-button = მარქაფის ჩართვა
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = ხარვეზია მარქაფისთვის თქვენ მიერ შერჩეულ საქაღალდესთან დაკავშირებით. აირჩიეთ სხვა საქაღალდე და ხელახლა სცადეთ.
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = გამოირთოს მარქაფი?
+turn-off-scheduled-backups-description = ასევე წაიშლება ყველა დამარქაფებული მონაცემები. ეს ქმედება შეუქცევადია.
+turn-off-scheduled-backups-support-link = ვრცლად
+turn-off-scheduled-backups-cancel-button = გაუქმება
+turn-off-scheduled-backups-confirm-button = მარქაფის გამორთვა და წაშლა
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = თქვენი მონაცემების აღდგენა
+restore-from-backup-support-link =
+    .message = რა აღდგება?
+restore-from-backup-no-backup-file-link = დაბრკოლება შეგექმნათ მარქაფის მოძიებისას?
+restore-from-backup-filepicker-label = სამარქაფო ფაილი
+restore-from-backup-filepicker-title = სამარქაფო ფაილის არჩევა:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] ამორჩევა…
+       *[other] ნუსხა…
+    }
+restore-from-backup-password-label = პაროლი
+restore-from-backup-password-description = შედეგად გაიხსნება თქვენი დაშიფრული მარქაფი.
+restore-from-backup-cancel-button = გაუქმება
+restore-from-backup-confirm-button = აღდგენა და ხელახლა გაშვება
+restore-from-backup-restoring-button = მიმდინარეობს აღდგენა…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = უმართებულო პაროლი. <a data-l10n-name="incorrect-password-support-link">რამე დაბრკოლებებია?</a>
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = დაამარქაფეთ თქვენი საფრთხილო მონაცემები
+enable-backup-encryption-description = დაამარქაფეთ თქვენი პაროლები, გადახდის საშუალებები და ფუნთუშები, ამასთანავე, შეინახეთ ყველა მონაცემი უსაფრთხოდ დაშიფვრით.
+enable-backup-encryption-support-link = ვრცლად
+enable-backup-encryption-create-password-label = პაროლი
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = გაიმეორეთ პაროლი
+enable-backup-encryption-cancel-button = გაუქმება
+enable-backup-encryption-confirm-button = შენახვა
+change-backup-encryption-header = სამარქაფო პაროლის შეცვლა
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = პაროლის მოთხოვნები
+password-rules-length-description = არანაკლებ 8 სიმბოლო
+password-rules-email-description = თქვენი ელფოსტის გარდა
+password-rules-disclaimer = დაიცავით უსაფრთხოება – ნუ გამოიყენებთ ერთსა და იმავე პაროლებს. ვრცლად იხილეთ რჩევები <a data-l10n-name="password-support-link">ძლიერი პაროლის შესაქმნელად</a>.
+password-validity-has-email = ელფოსტის გამოყენება ვერ მოხერხდება
+password-validity-do-not-match = პაროლები არ ემთხვევა
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = შესრულდა
+password-rules-a11y-warning =
+    .alt = გაფრთხილება
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = პაროლით დაცვის მოცილება
+disable-backup-encryption-description = თქვენ მიერ შენახული პაროლები, გადახდის საშუალებები და ფუნთუშები აღარ დამარქაფდება.
+disable-backup-encryption-support-link = რა დამარქაფდება?
+disable-backup-encryption-cancel-button = გაუქმება
+disable-backup-encryption-confirm-button = პაროლის მოცილება
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = თქვენი პაროლი ვერ აკმაყოფილებს მოთხოვნებს. გთხოვთ სცადოთ სხვა პაროლი.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = რაღაც ხარვეზი წარმოიქმნა. გთხოვთ, სცადოთ მოგვიანებით.
