@@ -491,14 +491,19 @@ create-backup-back-button-label = Geri
 create-backup-show-fewer =
     .label = Bu gibi mesajları daha az göster
 create-backup-screen-2-title = Yedeklenecek { -brand-product-name } verilerinizi seçin
+create-backup-screen-2-subtitle = Yalnızca bir dakikanızı alacak. Verileriniz günde bir kere yedeklenecek.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Kolay kurulum
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
 create-backup-screen-2-easy-list-1 = Yer imleri, geçmiş, ayarlar ve daha fazlası
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Parolalar ve ödeme yöntemleri hariç
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Şifrelenmemiş
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Tüm veriler
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Parolalar ve ödeme yöntemleri dahil
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Parolayla şifrelenmiş
 # Title for a screen asking users to choose a file location
