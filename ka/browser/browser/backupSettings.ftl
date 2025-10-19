@@ -44,6 +44,8 @@ settings-data-backup-scheduled-backups-off-restore-choose = სამარქ�
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = აღადგინეთ წინათ დამარქაფებული მონაცემები, რომელსაც შეიცავდა { -brand-product-name }.
+settings-data-backup-scheduled-backups-on-restore-choose = აღდგენა…
 settings-data-toggle-encryption-label = დაამარქაფეთ თქვენი საფრთხილო მონაცემები
 settings-data-toggle-encryption-description = დაამარქაფეთ თქვენი პაროლები, გადახდის საშუალებები და ფუნთუშები დაშიფვრით.
 settings-data-toggle-encryption-support-link = ვრცლად
@@ -52,6 +54,7 @@ settings-data-change-password = პაროლის შეცვლა…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = მარქაფის ჩართვა
+turn-on-scheduled-backups-description = { -brand-short-name } ყოველ 24 საათში შექმნის თქვენი მონაცემების ასლს. მისი აღსადგენად გამოყენება შეგეძლებათ, თუ რამე ხარვეზი შეიქმნება ან ახალ მოწყობილობაზე გადახვალთ.
 turn-on-scheduled-backups-support-link = რა დამარქაფდება?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = მდებარეობა
@@ -155,3 +158,49 @@ backup-error-password-requirements = თქვენი პაროლი ვ�
 # wrong. This message invites the user to try an action again because there
 # is a chance that the action will succeed if retried.
 backup-error-retry = რაღაც ხარვეზი წარმოიქმნა. გთხოვთ, სცადოთ მოგვიანებით.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } აღსადგენად მზადაა.
+backup-file-title = აღადგინეთ { -brand-short-name }
+backup-file-path-label = სამარქაფო ფაილი:
+backup-file-encryption-state-label = დაშიფრული:
+backup-file-encryption-state-value-encrypted = დიახ
+backup-file-encryption-state-value-not-encrypted = არა
+backup-file-creation-device-label = მოწყობილობა:
+backup-file-creation-date-label = შემქმნელი:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = როგორ აღვადგინოთ:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = გახსენით პროგრამის მენიუ ☰ და გადადით პარამეტრებზე > სინქრ.
+backup-file-moz-browser-restore-step-2 = დაწკაპეთ „სამარქაფო ფაილის არჩევა“ და მიუთითეთ ეს ფაილი
+backup-file-moz-browser-restore-step-3 = გაუშვით ხელახლა { -brand-short-name } მოთხოვნისთანავე
+backup-file-other-browser-restore-step-1 = ჩამოტვირთეთ და დააყენეთ { -brand-short-name }
+backup-file-download-moz-browser-button = ჩამოტვირთვა
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = გაუშვით { -brand-short-name }, გახსენით პროგრამის მენიუ ☰ და გადადით პარამეტრებზე > სინქრ.
+backup-file-other-browser-restore-step-3 = დაწკაპეთ „სამარქაფო ფაილის არჩევა“ და მიუთითეთ ეს ფაილი
+backup-file-other-browser-restore-step-4 = გაუშვით ხელახლა { -brand-short-name } მოთხოვნისთანავე
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>შენიშვნა:</b> ნაპოვნია მარქაფის { $numberOfOtherBackupsFound } სხვა ფაილი
+       *[other] <b>შენიშვნა:</b> ნაპოვნია მარქაფის { $numberOfOtherBackupsFound } სხვა ფაილი
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = შექმნის თარიღია { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, მოწყობილობა { $machineName }
