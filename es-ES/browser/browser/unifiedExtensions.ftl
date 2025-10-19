@@ -11,6 +11,8 @@
 unified-extensions-header-title = Extensiones
 unified-extensions-manage-extensions =
     .label = Gestionar extensiones
+unified-extensions-discover-extensions =
+    .label = Descubrir extensiones
 
 ## An extension in the main list
 
