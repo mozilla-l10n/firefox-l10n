@@ -82,6 +82,7 @@ backup-error-file-system = Hubo un problema con la carpeta seleccionada mientras
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = ¿Desactivar copia de seguridad?
+turn-off-scheduled-backups-description = Esto también borra todos los datos de la copia de seguridad. No se puede deshacer.
 turn-off-scheduled-backups-support-link = Saber más
 turn-off-scheduled-backups-cancel-button = Cancelar
 turn-off-scheduled-backups-confirm-button = Desactivar y eliminar la copia de seguridad
@@ -89,6 +90,22 @@ turn-off-scheduled-backups-confirm-button = Desactivar y eliminar la copia de se
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Restaurar sus datos
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Esto reemplazará todos los datos actuales de { -brand-short-name } con la copia de seguridad de { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = ¿Qué se restaurará?
+restore-from-backup-no-backup-file-link = ¿Tiene problemas para encontrar la copia de seguridad?
+restore-from-backup-filepicker-label = Archivo de copia de seguridad
+restore-from-backup-filepicker-title = Seleccionar archivo con la copia de seguridad:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Seleccionar…
+       *[other] Examinar…
+    }
+restore-from-backup-password-label = Contraseña
+restore-from-backup-password-description = Esto desbloquea su copia de seguridad cifrada.
 restore-from-backup-cancel-button = Cancelar
 restore-from-backup-confirm-button = Restaurar y reiniciar
 restore-from-backup-restoring-button = Restaurando…
@@ -100,6 +117,56 @@ restore-from-backup-restoring-button = Restaurando…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Contraseña incorrecta. <a data-l10n-name="incorrect-password-support-link">¿Sigue teniendo problemas?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Este archivo no funciona
+    .message = Hubo un problema con su archivo de respaldo. Elija un archivo diferente y vuelva a intentarlo.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Este archivo no funciona
+    .message = El archivo seleccionado no es compatible con esta versión de { -brand-short-name }. Seleccione un archivo diferente y vuelva a intentarlo.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Este archivo no funciona
+    .message = El archivo seleccionado no fue creado por { -brand-short-name }. Seleccione un archivo diferente y vuelva a intentarlo.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } no se pudo restaurar
+    .message = Reinicie { -brand-short-name } y trate de restaurar desde la copia de seguridad nuevamente.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Se ha producido un error
+    .message = Hubo un problema con el proceso de copia de seguridad para { -brand-short-name }. Vuelva a intentarlo o reinicie { -brand-short-name }.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Hacer copia de seguridad de los datos sensibles
+enable-backup-encryption-description = Haga una copia de seguridad de contraseñas, métodos de pago y cookies, además de mantener todos sus datos seguros con cifrado.
+enable-backup-encryption-support-link = Saber más
+enable-backup-encryption-create-password-label = Contraseña
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Repetir contraseña
+enable-backup-encryption-cancel-button = Cancelar
+enable-backup-encryption-confirm-button = Guardar
+change-backup-encryption-header = Cambiar la contraseña de la copia de seguridad
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Requisitos de contraseña
+password-rules-length-description = Al menos 8 caracteres
+password-rules-email-description = Diferente a su dirección de correo electrónico
+password-rules-disclaimer = Manténgase seguro — no reutilice contraseñas. Vea más consejos para <a data-l10n-name="password-support-link">crear contraseñas seguras</a>.
+password-validity-has-email = No puede ser una dirección de correo electrónico
+password-validity-do-not-match = Las contraseñas no coinciden
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
@@ -110,6 +177,9 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-header = Eliminar la protección con contraseña
+disable-backup-encryption-description = Sus contraseñas guardadas, métodos de pago y cookies ya no tendrán copia de seguridad.
+disable-backup-encryption-support-link = ¿De qué datos se hará copia de seguridad?
 disable-backup-encryption-cancel-button = Cancelar
 disable-backup-encryption-confirm-button = Eliminar contraseña
 
