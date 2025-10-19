@@ -480,6 +480,7 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-subtitle = Parolalarınızı, yer imlerinizi ve daha fazlasını 1–2 dakikalık bir işlemle otomatik korumaya alın.
 create-backup-screen-1-flair = Önerilen
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Daha fazla bilgi alın</a>
 create-backup-screen-1-sync-label = { -brand-product-name } ile eşitle
@@ -500,6 +501,10 @@ create-backup-screen-2-easy-list-3 = Şifrelenmemiş
 create-backup-screen-2-all-label = Tüm veriler
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Parolayla şifrelenmiş
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Yedeğinizi nereye kaydetmek istersiniz?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Yedek dosyası parolası oluştur
 fx-backup-opt-in-header = Dosya konumunu seçin
 fx-backup-opt-in-create-password-label = Parolayı girin
 fx-backup-opt-in-confirm-btn-label = İleri

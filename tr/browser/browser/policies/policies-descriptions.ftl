@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Adresler için otomatik doldurmayı etkinleştir
 policy-AutofillCreditCardEnabled = Ödeme yöntemleri için otomatik doldurmayı etkinleştir.
 policy-AutoLaunchProtocolsFromOrigins = Listelenen kaynaklardan kullanıcıya sormadan kullanılabilecek harici protokollerin listesini tanımla.
 policy-BackgroundAppUpdate2 = Arka plan güncelleyicisini aç veya kapat.
+policy-Backup = Profil verilerini yedeklemeyi veya geri yüklemeyi devre dışı bırak.
 policy-BlockAboutAddons = Eklenti yöneticisine (about:addons) erişimi engelle.
 policy-BlockAboutConfig = about:config sayfasına erişimi engelle.
 policy-BlockAboutProfiles = about:profiles sayfasına erişimi engelle.

@@ -100,25 +100,56 @@ restore-from-backup-file-choose-button =
        *[other] Göz at…
     }
 restore-from-backup-password-label = Parola
+restore-from-backup-password-description = Bu parola, şifrelenmiş yedeğinizi açmak için kullanılır.
 restore-from-backup-cancel-button = Vazgeç
 restore-from-backup-confirm-button = Geri yükle ve yeniden başlat
 restore-from-backup-restoring-button = Geri yükleniyor…
 
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Parola yanlış. <a data-l10n-name="incorrect-password-support-link">Hâlâ sorun mu yaşıyorsunuz?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Bu dosya çalışmıyor
+    .message = Yedek dosyanızda bir sorun var. Farklı bir dosya seçip yeniden deneyin.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Bu dosya çalışmıyor
+    .message = Seçtiğiniz dosya bu { -brand-short-name } sürümüyle uyumlu değil. Farklı bir dosya seçip yeniden deneyin.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Bu dosya çalışmıyor
+    .message = Seçtiğiniz dosya { -brand-short-name } tarafından oluşturulmamış. Farklı bir dosya seçip yeniden deneyin.
+
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Hassas verilerimi yedekle
+enable-backup-encryption-description = Parolalarınızı, ödeme yöntemlerinizi ve çerezlerinizi yedekleyin; şifreleme ile tüm verilerinizi güvende tutun.
 enable-backup-encryption-support-link = Daha fazla bilgi al
 enable-backup-encryption-create-password-label = Parola
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Parola tekrarı
 enable-backup-encryption-cancel-button = Vazgeç
 enable-backup-encryption-confirm-button = Kaydet
+change-backup-encryption-header = Yedeğin parolasını değiştir
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
 password-rules-header = Parola gereksinimleri
 password-rules-length-description = En az 8 karakter olmalı
 password-rules-email-description = E-posta adresiniz olmamalı
+password-rules-disclaimer = Güvende kalın: Aynı parolaları farklı yerlerde kullanmayın. <a data-l10n-name="password-support-link">Güçlü parolalar oluşturmak</a> için diğer ipuçlarımıza bakın.
 password-validity-has-email = E-posta adresi olamaz
 password-validity-do-not-match = Parolalar uyuşmuyor
 
@@ -167,3 +198,15 @@ backup-file-moz-browser-restore-step-3 = İstendiğinde { -brand-short-name } ta
 backup-file-other-browser-restore-step-1 = { -brand-short-name } tarayıcısını indirip yükleyin
 backup-file-download-moz-browser-button = İndir
 backup-file-other-browser-restore-step-4 = İstendiğinde { -brand-short-name } tarayıcısını yeniden başlatın
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Not:</b> { $numberOfOtherBackupsFound } yedek dosyası daha bulundu
+       *[other] <b>Not:</b> { $numberOfOtherBackupsFound } yedek dosyası daha bulundu
+    }

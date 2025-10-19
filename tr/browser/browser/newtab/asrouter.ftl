@@ -234,6 +234,7 @@ set-default-pdf-handler-primary = Anladım
 ## PDF Annotations strings
 
 annotations-make-default-pdf-handler-title = { -brand-short-name } varsayılan PDF düzenleyiciniz olarak ayarlansın mı?
+annotations-make-default-pdf-handler-subtitle = PDF dosyalarını her açtığınızda araçlarımıza erişebileceksiniz.
 annotations-make-default-pdf-primary-cta =
     .label = Varsayılan yap
 annotations-make-default-pdf-next =
