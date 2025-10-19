@@ -358,4 +358,8 @@ tab-context-add-split-view =
 tab-context-open-in-split-view =
     .label = გახსნა გაყოფილი ხედით
     .accesskey = ყ
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = ცალკე გაყოფილი ხედი
+    .accesskey = ყ
 tab-context-badge-new = სიახლე
