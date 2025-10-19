@@ -6,7 +6,7 @@
 ## Error page titles
 
 neterror-page-title = Проблема під час завантаження сторінки
-certerror-page-title = Обережно: Попереду ймовірна загроза безпеки
+certerror-page-title = Обережно: попереду ймовірна загроза безпеці
 certerror-sts-page-title = З'єднання не встановлено: ймовірна загроза безпеці
 neterror-blocked-by-policy-page-title = Заблокована сторінка
 neterror-captive-portal-page-title = Вхід в мережу
@@ -24,7 +24,7 @@ neterror-open-portal-login-page-button = Відкрити сторінку вх�
 neterror-override-exception-button = Погодитись на ризик і продовжити
 neterror-pref-reset-button = Відновити типові налаштування
 neterror-return-to-previous-page-button = Назад
-neterror-return-to-previous-page-recommended-button = Назад (Рекомендовано)
+neterror-return-to-previous-page-recommended-button = Назад (рекомендовано)
 neterror-try-again-button = Спробувати знову
 neterror-add-exception-button = Завжди продовжувати для цього сайту
 neterror-settings-button = Змінити налаштування DNS
