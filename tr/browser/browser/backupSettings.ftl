@@ -131,6 +131,11 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Bu dosya çalışmıyor
     .message = Seçtiğiniz dosya { -brand-short-name } tarafından oluşturulmamış. Farklı bir dosya seçip yeniden deneyin.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } geri yüklenemedi
+    .message = { -brand-short-name } tarayıcısını yeniden başlatıp yedeğinizi tekrar geri yüklemeyi deneyin.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

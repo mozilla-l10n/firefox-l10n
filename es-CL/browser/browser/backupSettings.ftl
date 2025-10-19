@@ -200,6 +200,7 @@ backup-error-retry = Algo se fue a las pailas. Por favor, vuelve a intentarlo.
 
 backup-file-header = { -brand-short-name } está listo para ser restaurado
 backup-file-title = Restaurar { -brand-short-name }
+backup-file-intro = Vuelve a navegar y recupera todos tus marcadores, historial y demás datos. <a data-l10n-name="backup-file-support-link">Más información</a>
 backup-file-path-label = Archivo de respaldo:
 backup-file-encryption-state-label = Cifrado:
 backup-file-encryption-state-value-encrypted = Sí
@@ -222,3 +223,19 @@ backup-file-download-moz-browser-button = Descargar
 backup-file-other-browser-restore-step-2 = Inicie { -brand-short-name }, abre el menú de aplicación ☰ y ve a Ajustes > Sincronización
 backup-file-other-browser-restore-step-3 = Haz clic en “Elegir archivo de respaldo” y selecciona este archivo
 backup-file-other-browser-restore-step-4 = Reinicia { -brand-short-name } cuando se te solicite
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Nota:</b> se encontró otro archivo de respaldo
+       *[other] <b>Nota:</b> se encontraron otros  { $numberOfOtherBackupsFound } archivos de respaldo
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Creado el { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } en { $machineName }

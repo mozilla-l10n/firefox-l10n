@@ -527,6 +527,7 @@ fx-backup-confirmation-screen-all-data-item-text-2 = Cihazınıza kaydedilecek
 fx-backup-confirmation-screen-all-data-item-text-3 = Şifrelenmiş ve parola korumalı
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Yer imleri, geçmiş, ayarlar ve diğer veriler dahil
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Cihazınıza kaydedilecek
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Parolalar ve ödeme yöntemleri hariç
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Hassas verileri dahil etmek için <a data-l10n-name="settings">Ayarlar</a>’a gidin.
 
 ## Restore from Backup Flow about:welcome screens
