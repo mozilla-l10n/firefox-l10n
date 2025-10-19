@@ -198,4 +198,21 @@ backup-error-retry = Algo ha salido mal. Por favor, inténtelo de nuevo.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } está listo para ser restaurado
 backup-file-title = Restaurar { -brand-short-name }
+backup-file-intro = Vuelva a navegar y recupere todos los marcadores, historial y otros datos. <a data-l10n-name="backup-file-support-link">Saber más</a>
+backup-file-path-label = Archivo de copia de seguridad:
+backup-file-encryption-state-label = Cifrado:
+backup-file-encryption-state-value-encrypted = Sí
+backup-file-encryption-state-value-not-encrypted = No
+backup-file-creation-device-label = Dispositivo:
+backup-file-creation-date-label = Creado:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Cómo restaurar:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Abra el menú de aplicación ☰ y vaya a Ajustes > Sincronización
+backup-file-moz-browser-restore-step-2 = Haga clic en “Seleccionar archivo de copia de seguridad” y seleccione este archivo
+backup-file-moz-browser-restore-step-3 = Reinicie { -brand-short-name } cuando se le pida
