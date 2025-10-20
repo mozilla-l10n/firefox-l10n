@@ -17,6 +17,8 @@ unified-extensions-empty-reason-private-browsing-not-allowed = Yüklenmiş ama g
 unified-extensions-empty-reason-extension-not-enabled = Yüklenmiş ama etkinleştirilmemiş uzantılarınız var
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Uzantılarla gezinti deneyiminizi bir üst seviyeye taşıyın
+unified-extensions-empty-content-explain-enable2 = Bunları etkinleştirmek için ayarlardan “{ unified-extensions-manage-extensions.label }” seçeneğini seçin.
+unified-extensions-empty-content-explain-manage2 = Bunları yönetmek için ayarlardan “{ unified-extensions-manage-extensions.label }” seçeneğini seçin.
 unified-extensions-empty-content-explain-enable = Bunları etkinleştirmek için ayarlardan “{ unified-extensions-item-message-manage }” seçeneğini seçin.
 unified-extensions-empty-content-explain-manage = Bunları yönetmek için ayarlardan “{ unified-extensions-item-message-manage }” seçeneğini seçin.
 unified-extensions-empty-content-explain-extensions-onboarding = { -brand-short-name } tarayıcınızı kişiselleştirin: Görünümünü ve çalışma şeklini değiştirin, gizliliğinizi ve güvenliğinizi artırın.
