@@ -108,6 +108,24 @@ about-glean-metrics-table-header-type = Type
 about-glean-metrics-table-header-value = Valeur
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Actions
+about-glean-metrics-table-settings-button = Paramètres
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Paramètres du tableau des statistiques
+about-glean-metrics-table-settings-category-general = Général
+about-glean-metrics-table-settings-hide-empty-value-rows = Masquer les lignes dont les valeurs sont vides
+about-glean-metrics-table-settings-category-visualizations = Visualisations
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Exemple
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogramme
+about-glean-metrics-table-settings-histograms-chart-max = Hauteur maximale du graphique
+about-glean-metrics-table-settings-histograms-chart-padding = Marge du graphique
+about-glean-metrics-table-settings-histograms-left-padding = Marge supplémentaire à gauche
+about-glean-metrics-table-settings-category-visualizations-timeline = Chronologie
+about-glean-metrics-table-settings-timelines-height = Hauteur
+about-glean-metrics-table-settings-timelines-width = Largeur
+about-glean-metrics-table-settings-timelines-chart-padding = Marge du graphique
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Rayon du cercle
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtrer
 # This message sits alongside an input field, further describing its purpose.
