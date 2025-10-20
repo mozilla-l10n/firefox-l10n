@@ -141,6 +141,7 @@ about-glean-metrics-table-settings-category-visualizations = Visualiseringar
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Exempel
 about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Maximal höjd för diagrammet
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = Skalad maximal höjd
 about-glean-metrics-table-settings-histograms-box-padding = Boxfyllning
