@@ -26,6 +26,10 @@ settings-data-backup-scheduled-backups-off = Sikkerheitskopiering: AV
 settings-data-backup-last-backup-location = Plassering
 settings-data-backup-last-backup-location-show-in-folder = Vis i mappe
 settings-data-backup-last-backup-location-edit = Rediger…
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = Filnamn: { $fileName }
+settings-data-backup-restore-header = Gjenopprett dataa dine
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
