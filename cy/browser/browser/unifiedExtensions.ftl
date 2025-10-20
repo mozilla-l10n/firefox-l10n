@@ -13,6 +13,13 @@ unified-extensions-manage-extensions =
     .label = Rheoli estyniadau
 unified-extensions-discover-extensions =
     .label = Darganfod estyniadau
+unified-extensions-empty-reason-private-browsing-not-allowed = Mae gennych estyniadau wedi'u gosod, ond heb eu galluogi mewn ffenestri preifat
+unified-extensions-empty-reason-extension-not-enabled = Mae gennych estyniadau wedi'u gosod, ond heb eu galluogi
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Gwella eich pori gydag estyniadau
+unified-extensions-empty-content-explain-enable = Dewiswch “{ unified-extensions-item-message-manage }” i'w galluogi yn y gosodiadau.
+unified-extensions-empty-content-explain-manage = Dewiswch “{ unified-extensions-item-message-manage }” i'w rheoli yn y gosodiadau.
+unified-extensions-empty-content-explain-extensions-onboarding = Personolwch { -brand-short-name } drwy newid sut mae'n edrych ac yn perfformio neu hybu preifatrwydd a diogelwch.
 
 ## An extension in the main list
 
