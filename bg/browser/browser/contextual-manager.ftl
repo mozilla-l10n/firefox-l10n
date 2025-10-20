@@ -62,6 +62,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Паролите са внесени
+contextual-manager-passwords-import-detailed-report = Подробен доклад
 contextual-manager-passwords-import-success-button = Готово
 contextual-manager-passwords-import-error-heading-and-message =
     .heading = Внасянето на пароли е неуспешно
@@ -71,6 +72,8 @@ contextual-manager-passwords-import-error-button-cancel = Отказ
 contextual-manager-passwords-export-success-heading =
     .heading = Паролите са изнесени
 contextual-manager-passwords-export-success-button = Готово
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Изнасяне на паролите във файл?
 contextual-manager-export-passwords-dialog-confirm-button = Продължете с изнасянето
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Изнасяне на пароли от { -brand-short-name }
@@ -204,6 +207,9 @@ contextual-manager-passwords-add-manually = Ръчно добавяне
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Затваряне без запазване?
+    .message = Промените няма да бъдат запазени.
 contextual-manager-passwords-discard-changes-close-button = Затваряне
 contextual-manager-passwords-discard-changes-go-back-button = Връщане назад
 contextual-manager-primary-password-learn-more-link = Научете повече

@@ -153,6 +153,8 @@ about-glean-metrics-table-header-value = Hódnota
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Akcije
 about-glean-metrics-table-settings-button = Nastajenja
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Tabelowe nastajenja metriki
 about-glean-metrics-table-settings-category-general = Powšitkowny
 about-glean-metrics-table-settings-hide-empty-value-rows = Prózdne hódnotowe linki schować
 about-glean-metrics-table-settings-category-visualizations = Wizualizacije
@@ -171,6 +173,10 @@ about-glean-metrics-table-settings-timelines-width = Šěrokosć
 about-glean-metrics-table-settings-timelines-chart-padding = Nutřkowny wotstup diagrama
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Kružny radius
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Wotchilenje X wóski Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Wotchilenje Y wóski Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
 # This message sits alongside an input field, further describing its purpose.

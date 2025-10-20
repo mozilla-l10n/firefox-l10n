@@ -152,6 +152,31 @@ about-glean-metrics-table-header-type = Typ
 about-glean-metrics-table-header-value = Gódnota
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Akcije
+about-glean-metrics-table-settings-button = Nastajenja
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Tabelowe nastajenja metriki
+about-glean-metrics-table-settings-category-general = Powšykne
+about-glean-metrics-table-settings-hide-empty-value-rows = Prozne gódnotowe smužki schowaś
+about-glean-metrics-table-settings-category-visualizations = Wizializěrowanja
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Pśikład
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Maksimalna wusokosć diagrama
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Skalěrowana maksimalna wusokosć
+about-glean-metrics-table-settings-histograms-box-padding = Nutśikowny wótkłon póla
+about-glean-metrics-table-settings-histograms-chart-padding = Nutśikowny wótkłon diagrama
+about-glean-metrics-table-settings-histograms-left-padding = Pśidatny lěwy nutśikowny wótkłon
+about-glean-metrics-table-settings-category-visualizations-timeline = Casowa rědka
+about-glean-metrics-table-settings-timelines-height = Wusokosć
+about-glean-metrics-table-settings-timelines-width = Šyrokosć
+about-glean-metrics-table-settings-timelines-chart-padding = Nutśikowny wótkłon diagrama
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Radius krejza
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Wótchylenje X wóski Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Wótchylenje Y wóski Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
 # This message sits alongside an input field, further describing its purpose.

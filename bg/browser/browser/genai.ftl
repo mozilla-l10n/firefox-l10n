@@ -51,14 +51,42 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Попитайте { $provider }
+genai-menu-open-generic =
+    .label = Робот за разговори с ИИ
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Отваряне на { $provider }
+genai-menu-remove-generic =
+    .label = Премахване робот с ИИ
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Премахване на { $provider }
 genai-menu-remove-sidebar =
     .label = Премахване от страничната лента
+genai-menu-new-badge = Ново
 genai-menu-summarize-page = Обобщаване на страницата
 genai-input-ask-generic =
     .placeholder = Попитайте AI чатбота…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Попитайте { $provider }
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Роботът за разговори с ИИ няма да получи всичко избрано
+    .message =
+        { $selectionLength ->
+           *[other] Избрали сте около { $selectionLength } знака. Към роботът могат да бъдат изпратени около { $maxLength } знака.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = Роботът за разговори с ИИ няма да получи всичко избрано
+    .message =
+        { $selectionLength ->
+           *[other] Избрали сте около { $selectionLength } знака. Към { $provider } могат да бъдат изпратени около { $maxLength } знака.
+        }
 genai-shortcuts-hide =
     .label = Скриване на прекия път към чат-бота
 genai-menu-choose-chatbot =
@@ -95,7 +123,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Скриване на пряк път при избиране на текст
 genai-options-about-chatbot =
-    .label = Относно AI чатботовете в { -brand-short-name }
+    .label = Относно AI чат ботовете в { -brand-short-name }
 
 ## Chatbot footer
 
@@ -104,6 +132,9 @@ genai-page-button-summarize = Обобщаване на страницата
 ## Chatbot onboarding
 
 genai-onboarding-header = Обобщавайте, обмисляйте и още, докато разглеждате
+genai-onboarding-choose-header = Изберете робот за разговори в страничната лента на { -brand-short-name }
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Превключвайте по всяко време. За помощ при избора, <a data-l10n-name="learn-more">научете повече за роботите</a>.
 genai-onboarding-primary = Напред
 genai-onboarding-secondary = Затваряне
 genai-onboarding-claude-tooltip =
@@ -175,5 +206,18 @@ link-preview-reading-time =
 link-preview-generation-error-unexpected = Нещо се обърка.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Нов опит
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Ново: Щракнете и задръжте върху препратка за бърз преглед
+# Header for the key points section
+link-preview-key-points-header = Основни точки
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Ключовите точки са създадени от ИИ и може да съдържат грешки.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Първоначална настройка • <strong>{ $progress } %</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Следващият път ще видите по-бързо ключовите точки.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Преглед
 # Onboarding card Close button
 link-preview-onboarding-close = Затваряне

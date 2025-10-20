@@ -348,6 +348,7 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Дръжте любимия
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-primary-label = Въведение
+windows-10-eos-sync-toast-secondary-label = Напомняне по-късно
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
