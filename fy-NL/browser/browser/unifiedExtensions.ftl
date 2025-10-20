@@ -15,6 +15,11 @@ unified-extensions-discover-extensions =
     .label = Utwreidingen ûntdekke
 unified-extensions-empty-reason-private-browsing-not-allowed = Jo hawwe útwreidingen ynstallearre, mar net yn priveefinsters ynskeakele
 unified-extensions-empty-reason-extension-not-enabled = Jo hawwe útwreidingen ynstallearre, mar net ynskeakele
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Ferbetterje jo navigaasje mei útwreidingen
+unified-extensions-empty-content-explain-enable = Selektearje ‘{ unified-extensions-item-message-manage }’ om se yn ynstellingen yn te skeakeljen.
+unified-extensions-empty-content-explain-manage = Selektearje ‘{ unified-extensions-item-message-manage }’ om se yn de ynstellingen te behearen.
+unified-extensions-empty-content-explain-extensions-onboarding = Personalisearje { -brand-short-name } troch it uterlik en de prestaasjes derfan te wizigjen, of troch privacy en feilichheid te ferbetterjen.
 
 ## An extension in the main list
 
