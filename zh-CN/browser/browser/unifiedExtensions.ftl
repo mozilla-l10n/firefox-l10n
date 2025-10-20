@@ -17,6 +17,7 @@ unified-extensions-empty-reason-private-browsing-not-allowed = 您已安装扩�
 unified-extensions-empty-reason-extension-not-enabled = 您已安装扩展，但未启用。
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = 借助扩展，提升浏览体验
+unified-extensions-empty-content-explain-manage2 = 选择“{ unified-extensions-manage-extensions.label }”以在设置中进行管理。
 unified-extensions-empty-content-explain-manage = 选择“{ unified-extensions-item-message-manage }”以在设置中进行管理。
 
 ## An extension in the main list
