@@ -19,8 +19,6 @@ unified-extensions-empty-reason-extension-not-enabled = 您安裝了擴充套件
 unified-extensions-empty-reason-zero-extensions-onboarding = 使用擴充套件，升級您的上網體驗
 unified-extensions-empty-content-explain-enable2 = 選擇「{ unified-extensions-manage-extensions.label }」即可在設定中開啟。
 unified-extensions-empty-content-explain-manage2 = 點擊「{ unified-extensions-manage-extensions.label }」即可在設定中管理。
-unified-extensions-empty-content-explain-enable = 選擇「{ unified-extensions-item-message-manage }」即可在設定中開啟。
-unified-extensions-empty-content-explain-manage = 點擊「{ unified-extensions-item-message-manage }」即可在設定中管理。
 unified-extensions-empty-content-explain-extensions-onboarding = 調整 { -brand-short-name } 外觀與行為，或加強隱私與安全性，來個人化 { -brand-short-name }。
 
 ## An extension in the main list

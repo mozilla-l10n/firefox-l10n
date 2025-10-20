@@ -19,8 +19,6 @@ unified-extensions-empty-reason-extension-not-enabled = Sćo instalěrował roz�
 unified-extensions-empty-reason-zero-extensions-onboarding = Pówušćo niwow swójogo pśeglědowanja z rozšyrjenjami
 unified-extensions-empty-content-explain-enable2 = Wubjeŕśo „{ unified-extensions-manage-extensions.label }“, aby je w nastajenjach zmóžnił.
 unified-extensions-empty-content-explain-manage2 = Wubjeŕśo „{ unified-extensions-manage-extensions.label }“, aby je w nastajenjach zastojał.
-unified-extensions-empty-content-explain-enable = Wubjeŕśo „{ unified-extensions-item-message-manage }“, aby je w nastajenjach zmóžnił.
-unified-extensions-empty-content-explain-manage = Wubjeŕśo „{ unified-extensions-item-message-manage }“, aby je w nastajenjach zastojał.
 unified-extensions-empty-content-explain-extensions-onboarding = Změńśo zwenkowne a wugbaśe abo pólěpšćo priwatnosć a wěstotu, aby { -brand-short-name } pśiměrił.
 
 ## An extension in the main list

@@ -19,8 +19,6 @@ unified-extensions-empty-reason-extension-not-enabled = U hebt extensies geïnst
 unified-extensions-empty-reason-zero-extensions-onboarding = Verbeter uw navigatie met extensies
 unified-extensions-empty-content-explain-enable2 = Selecteer ‘{ unified-extensions-manage-extensions.label }’ om ze in de instellingen in te schakelen.
 unified-extensions-empty-content-explain-manage2 = Selecteer ‘{ unified-extensions-manage-extensions.label }’ om ze in de instellingen te beheren.
-unified-extensions-empty-content-explain-enable = Selecteer ‘{ unified-extensions-item-message-manage }’ om ze in de instellingen in te schakelen.
-unified-extensions-empty-content-explain-manage = Selecteer ‘{ unified-extensions-item-message-manage }’ om ze in de instellingen te beheren.
 unified-extensions-empty-content-explain-extensions-onboarding = Personaliseer { -brand-short-name } door het uiterlijk en de prestaties ervan te wijzigen, of privacy en veiligheid te verbeteren.
 
 ## An extension in the main list

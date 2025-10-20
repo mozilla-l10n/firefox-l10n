@@ -19,8 +19,6 @@ unified-extensions-empty-reason-extension-not-enabled = Vannak olyan kiegészít
 unified-extensions-empty-reason-zero-extensions-onboarding = Emelje új szintre a böngészését kiegészítőkkel
 unified-extensions-empty-content-explain-enable2 = Válassza a „{ unified-extensions-manage-extensions.label }” lehetőséget a beállításokban való engedélyezéshez.
 unified-extensions-empty-content-explain-manage2 = Válassza a „{ unified-extensions-manage-extensions.label }” lehetőséget a beállításokban való kezeléshez.
-unified-extensions-empty-content-explain-enable = Válassza a „{ unified-extensions-item-message-manage }” lehetőséget a beállításokban való engedélyezéshez.
-unified-extensions-empty-content-explain-manage = Válassza a „{ unified-extensions-item-message-manage }” lehetőséget a beállításokban való kezeléshez.
 unified-extensions-empty-content-explain-extensions-onboarding = Szabja testre a { -brand-short-name }ot a kinézetének megváltoztatásával, vagy az adatvédelem és a biztonság növelésével.
 
 ## An extension in the main list

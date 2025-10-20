@@ -19,8 +19,6 @@ unified-extensions-empty-reason-extension-not-enabled = Mae gennych estyniadau w
 unified-extensions-empty-reason-zero-extensions-onboarding = Gwella eich pori gydag estyniadau
 unified-extensions-empty-content-explain-enable2 = Dewiswch “{ unified-extensions-manage-extensions.label }” i'w galluogi yn y gosodiadau.
 unified-extensions-empty-content-explain-manage2 = Dewiswch “{ unified-extensions-manage-extensions.label }” i'w rheoli yn y gosodiadau.
-unified-extensions-empty-content-explain-enable = Dewiswch “{ unified-extensions-item-message-manage }” i'w galluogi yn y gosodiadau.
-unified-extensions-empty-content-explain-manage = Dewiswch “{ unified-extensions-item-message-manage }” i'w rheoli yn y gosodiadau.
 unified-extensions-empty-content-explain-extensions-onboarding = Personolwch { -brand-short-name } drwy newid sut mae'n edrych ac yn perfformio neu hybu preifatrwydd a diogelwch.
 
 ## An extension in the main list

@@ -19,8 +19,6 @@ unified-extensions-empty-reason-extension-not-enabled = Vous avez des extensions
 unified-extensions-empty-reason-zero-extensions-onboarding = Améliorez votre navigation avec des extensions
 unified-extensions-empty-content-explain-enable2 = Sélectionnez « { unified-extensions-manage-extensions.label } » pour les activer dans les paramètres.
 unified-extensions-empty-content-explain-manage2 = Sélectionnez « { unified-extensions-manage-extensions.label } » pour les gérer dans les paramètres.
-unified-extensions-empty-content-explain-enable = Sélectionnez « { unified-extensions-item-message-manage } » pour les activer dans les paramètres.
-unified-extensions-empty-content-explain-manage = Sélectionnez « { unified-extensions-item-message-manage } » pour les gérer dans les paramètres.
 unified-extensions-empty-content-explain-extensions-onboarding = Personnalisez { -brand-short-name } en ajustant son apparence et ses fonctionnalités, ou en améliorant la confidentialité et la sécurité.
 
 ## An extension in the main list

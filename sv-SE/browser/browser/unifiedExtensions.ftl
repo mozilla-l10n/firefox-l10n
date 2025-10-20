@@ -19,8 +19,6 @@ unified-extensions-empty-reason-extension-not-enabled = Du har tillägg installe
 unified-extensions-empty-reason-zero-extensions-onboarding = Höj din surfupplevelse med tillägg
 unified-extensions-empty-content-explain-enable2 = Välj “{ unified-extensions-manage-extensions.label }” för att aktivera dem i inställningarna.
 unified-extensions-empty-content-explain-manage2 = Välj “{ unified-extensions-manage-extensions.label }” för att hantera dem i inställningarna.
-unified-extensions-empty-content-explain-enable = Välj “{ unified-extensions-item-message-manage }” för att aktivera dem i inställningarna.
-unified-extensions-empty-content-explain-manage = Välj “{ unified-extensions-item-message-manage }” för att hantera dem i inställningarna.
 unified-extensions-empty-content-explain-extensions-onboarding = Anpassa { -brand-short-name } genom att ändra dess utseende och prestanda eller förbättra integritet och säkerhet.
 
 ## An extension in the main list

@@ -19,8 +19,6 @@ unified-extensions-empty-reason-extension-not-enabled = 확장 기능이 설치�
 unified-extensions-empty-reason-zero-extensions-onboarding = 확장 기능으로 탐색 수준을 높여보세요
 unified-extensions-empty-content-explain-enable2 = 설정에서 활성화하려면 “{ unified-extensions-manage-extensions.label }”를 선택하세요.
 unified-extensions-empty-content-explain-manage2 = 설정에서 관리하려면 “{ unified-extensions-manage-extensions.label }”를 선택하세요.
-unified-extensions-empty-content-explain-enable = 설정에서 활성화하려면 “{ unified-extensions-item-message-manage }”를 선택하세요.
-unified-extensions-empty-content-explain-manage = 설정에서 관리하려면 “{ unified-extensions-item-message-manage }”를 선택하세요.
 unified-extensions-empty-content-explain-extensions-onboarding = { -brand-short-name }의 모양과 성능을 변경하거나 개인정보 보호 및 안전성을 강화하여 개인화해 보세요.
 
 ## An extension in the main list

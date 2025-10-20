@@ -19,8 +19,6 @@ unified-extensions-empty-reason-extension-not-enabled = У вас есть ус�
 unified-extensions-empty-reason-zero-extensions-onboarding = Выведите свой уровень просмотра на новый уровень с помощью расширений
 unified-extensions-empty-content-explain-enable2 = Выберите «{ unified-extensions-manage-extensions.label }», чтобы включить их в настройках.
 unified-extensions-empty-content-explain-manage2 = Выберите «{ unified-extensions-manage-extensions.label }», чтобы управлять ими в настройках.
-unified-extensions-empty-content-explain-enable = Выберите «{ unified-extensions-item-message-manage }», чтобы включить их в настройках.
-unified-extensions-empty-content-explain-manage = Выберите «{ unified-extensions-item-message-manage }», чтобы управлять ими в настройках.
 unified-extensions-empty-content-explain-extensions-onboarding = Персонализируйте { -brand-short-name }, изменив его внешний вид и производительность или повысив приватность и безопасность.
 
 ## An extension in the main list
