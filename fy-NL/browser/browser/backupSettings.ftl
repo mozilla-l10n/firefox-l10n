@@ -89,6 +89,14 @@ turn-off-scheduled-backups-confirm-button = Reservekopy útskeakelje en fuortsmi
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Jo gegevens reparearje
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Dit ferfangt al jo aktuele { -brand-short-name }-gegevens troch jo reservekopy fan { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Wat wurdt der reparearre?
+restore-from-backup-no-backup-file-link = Hawwe jo problemen mei it finen fan jo reservekopy?
 restore-from-backup-filepicker-label = Reservekopybestân
 restore-from-backup-filepicker-title = Reservekopybestân kieze:
 restore-from-backup-file-choose-button =
@@ -97,22 +105,68 @@ restore-from-backup-file-choose-button =
        *[other] Blêdzje…
     }
 restore-from-backup-password-label = Wachtwurd
+restore-from-backup-password-description = Hjirtroch wurdt jo fersifere reservekopy ûntskoattele.
 restore-from-backup-cancel-button = Annulearje
+restore-from-backup-confirm-button = Reparearje en opnij starte
+restore-from-backup-restoring-button = Reparearje…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Ferkeard wachtwurd. <a data-l10n-name="incorrect-password-support-link">Hawwe jo noch hieltyd problemen?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Dit bestân wurket net
+    .message = Der is in probleem bard mei jo reservekopybestân. Kies in oar bestân en probearje it opnij.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Dit bestân wurket net
+    .message = It troch jo keazen bestân is net kompatibel mei dizze ferzje fan { -brand-short-name }. Kies in oar bestân en probearje it opnij.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Dit bestân wurket net
+    .message = It troch jo keazen bestân is net oanmakke troch { -brand-short-name }. Kies in oar bestân en probearje it opnij.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } kin net reparearje
+    .message = Start { -brand-short-name } opnij en probearje opnij mei jo reservekopy te reparearjen.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Der is wat misgien
+    .message = Der is in probleem bard mei it reservekopyproses foar { -brand-short-name }. Probearje it opnij of start { -brand-short-name } opnij.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = In reservekopy fan jo gefoelige gegevens meitsje
+enable-backup-encryption-description = Meitsje in reservekopy fan jo wachtwurden, betelmetoaden en cookies, en hâld al jo gegevens feilich mei fersifering.
 enable-backup-encryption-support-link = Mear ynfo
 enable-backup-encryption-create-password-label = Wachtwurd
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Nochris it wachtwurd
 enable-backup-encryption-cancel-button = Annulearje
 enable-backup-encryption-confirm-button = Bewarje
+change-backup-encryption-header = Wachtwurd foar reservekopy wizigje
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
 password-rules-header = Wachtwurdeasken
 password-rules-length-description = Op syn minst 8 karakters
 password-rules-email-description = Net jo e-mailadres
+password-rules-disclaimer = Bliuw feilich – brûk wachtwurden net opnij. Besjoch mear tips om <a data-l10n-name="password-support-link">sterke wachtwurden te meitsjen</a>.
+password-validity-has-email = Mei gjin e-mailadres wêze
+password-validity-do-not-match = Wachtwurden komme net oerien
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
@@ -124,6 +178,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Wachtwurdbeskerming fuortsmite
+disable-backup-encryption-description = Der wurdt gjin reservekopy mear makke fan jo bewarre wachtwurden, betelingsmetoaden en cookies.
 disable-backup-encryption-cancel-button = Annulearje
 disable-backup-encryption-confirm-button = Wachtwurd fuortsmite
 

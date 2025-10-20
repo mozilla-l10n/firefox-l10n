@@ -48,3 +48,40 @@ settings-data-backup-scheduled-backups-on-restore-description = Adferwch eich da
 settings-data-backup-scheduled-backups-on-restore-choose = Adfer…
 settings-data-toggle-encryption-label = Gwnewch gopi wrth gefn o'ch data sensitif
 settings-data-toggle-encryption-description = Gwnewch gopi wrth gefn o'ch cyfrineiriau, eich dulliau talu a'ch cwcis gydag amgryptio.
+settings-data-toggle-encryption-support-link = Dysgu rhagor
+settings-data-change-password = Newid cyfrinair…
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = Trowch copïo wrth gefn ymlaen
+turn-on-scheduled-backups-description = Bydd { -brand-short-name } yn creu ciplun o'ch data bob 24 awr. Gallwch ei adfer os oes problem neu os cewch ddyfais newydd.
+turn-on-scheduled-backups-support-link = Beth fydd yn cael ei gadw wrth gefn?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Lleoliad
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (argymell)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Dewis…
+       *[other] Pori…
+    }
+turn-on-scheduled-backups-encryption-label = Gwnewch gopi wrth gefn o'ch data sensitif
+turn-on-scheduled-backups-encryption-description = Gwnewch gopi wrth gefn o'ch cyfrineiriau, eich dulliau talu a'ch cwcis gydag amgryptio.
+turn-on-scheduled-backups-encryption-create-password-label = Cyfrinair
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Ailadrodd y cyfrinair
+turn-on-scheduled-backups-cancel-button = Diddymu
+turn-on-scheduled-backups-confirm-button = Trowch y copi wrth gefn ymlaen
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Bu problem gyda'r ffolder wrth gefn rydych wedi'i ddewis. Dewiswch ffolder gwahanol a cheisiwch eto.
+backup-error-file-system = Roedd problem gyda'ch ffolder wrth gefn rydych wedi'i ddewis wrth wneud copi wrth gefn o { -brand-short-name }.
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = Diffodd copïo wrth gefn?
+turn-off-scheduled-backups-description = Mae hyn hefyd yn dileu eich holl ddata wrth gefn. Does dim modd ei ddadwneud.
+turn-off-scheduled-backups-support-link = Dysgu rhagor
+turn-off-scheduled-backups-cancel-button = Diddymu
