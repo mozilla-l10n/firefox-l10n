@@ -17,6 +17,7 @@ unified-extensions-empty-reason-private-browsing-not-allowed = คุณได�
 unified-extensions-empty-reason-extension-not-enabled = คุณได้ติดตั้งส่วนขยายไว้แล้ว แต่ไม่ได้เปิดใช้งาน
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = ยกระดับการเรียกดูของคุณด้วยส่วนขยาย
+unified-extensions-empty-content-explain-manage2 = เลือก “{ unified-extensions-manage-extensions.label }” เพื่อจัดการส่วนขยายเหล่านั้นในการตั้งค่า
 unified-extensions-empty-content-explain-manage = เลือก “{ unified-extensions-item-message-manage }” เพื่อจัดการส่วนขยายเหล่านั้นในการตั้งค่า
 unified-extensions-empty-content-explain-extensions-onboarding = ปรับแต่ง { -brand-short-name } โดยเปลี่ยนหน้าตาและการทำงานหรือเพิ่มความเป็นส่วนตัวและความปลอดภัย
 
