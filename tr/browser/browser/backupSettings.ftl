@@ -200,7 +200,7 @@ backup-error-retry = Bir şeyler yanlış gitti. Lütfen yeniden deneyin.
 
 backup-file-header = { -brand-short-name } geri yüklenmeye hazır
 backup-file-title = { -brand-short-name } tarayıcısını geri yükle
-backup-file-intro = Yer imlerinizi, geçmişinizi ve diğer verilerinizi geri yükleyerek internette gezinmeye başlayın. <a data-l10n-name="support-link">Daha fazla bilgi alın</a>
+backup-file-intro = Yer imlerinizi, geçmişinizi ve diğer verilerinizi geri yükleyerek internette gezinmeye başlayın. <a data-l10n-name="backup-file-support-link">Daha fazla bilgi alın</a>
 backup-file-path-label = Yedek dosyası:
 backup-file-encryption-state-label = Şifrelenmiş mi:
 backup-file-encryption-state-value-encrypted = Evet
