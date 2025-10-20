@@ -152,6 +152,18 @@ about-glean-metrics-table-header-type = Typ
 about-glean-metrics-table-header-value = Hódnota
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Akcije
+about-glean-metrics-table-settings-button = Nastajenja
+about-glean-metrics-table-settings-category-general = Powšitkowny
+about-glean-metrics-table-settings-hide-empty-value-rows = Prózdne hódnotowe linki schować
+about-glean-metrics-table-settings-category-visualizations = Wizualizacije
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Přikład
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Maksimalna wysokosć diagrama
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Skalowana maksimalna wysokosć
+about-glean-metrics-table-settings-histograms-box-padding = Nutřkowny wotstup pola
+about-glean-metrics-table-settings-histograms-chart-padding = Nutřkowny wotstup diagrama
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
 # This message sits alongside an input field, further describing its purpose.

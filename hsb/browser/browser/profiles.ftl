@@ -26,12 +26,14 @@ profile-card =
 default-profile-name = Profil { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Originalny profil
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = Profil wobdźěłać
 edit-profile-page-header = Wobdźěłajće swój profil
 edit-profile-page-profile-name-label = Profilowe mjeno
 edit-profile-page-theme-header-2 =
     .label = Drasta
 edit-profile-page-explore-themes = Wuslědźće dalše drasty
+edit-profile-page-desktop-shortcut-header = Desktopowe zwjazanje wutworić
 edit-profile-page-avatar-header-2 =
     .label = Awatar
 edit-profile-page-delete-button =
