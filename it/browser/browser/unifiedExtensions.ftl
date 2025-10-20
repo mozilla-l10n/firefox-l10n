@@ -19,8 +19,6 @@ unified-extensions-empty-reason-extension-not-enabled = Hai delle estensioni ins
 unified-extensions-empty-reason-zero-extensions-onboarding = Migliora la tua navigazione con le estensioni
 unified-extensions-empty-content-explain-enable2 = Seleziona “{ unified-extensions-manage-extensions.label }” per attivarle nelle impostazioni.
 unified-extensions-empty-content-explain-manage2 = Seleziona “{ unified-extensions-manage-extensions.label }” per gestirle nelle impostazioni.
-unified-extensions-empty-content-explain-enable = Seleziona “{ unified-extensions-item-message-manage }” per attivarle nelle impostazioni.
-unified-extensions-empty-content-explain-manage = Seleziona “{ unified-extensions-item-message-manage }” per gestirle nelle impostazioni.
 unified-extensions-empty-content-explain-extensions-onboarding = Personalizza { -brand-short-name } cambiandone l’aspetto, migliorando le prestazioni o aumentando privacy e sicurezza.
 
 ## An extension in the main list
@@ -86,4 +84,3 @@ unified-extensions-mb-blocklist-warning-multiple =
 unified-extensions-mb-blocklist-error-multiple =
     .heading = { $extensionsCount } estensioni disattivate
     .message = Alcune estensioni violano i criteri di Mozilla e sono state disattivate.
-
