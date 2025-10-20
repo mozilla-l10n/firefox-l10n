@@ -51,6 +51,8 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Попитайте { $provider }
+genai-menu-remove-sidebar =
+    .label = Премахване от страничната лента
 genai-menu-summarize-page = Обобщаване на страницата
 genai-input-ask-generic =
     .placeholder = Попитайте AI чатбота…

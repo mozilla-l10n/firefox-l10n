@@ -152,6 +152,31 @@ about-glean-metrics-table-header-type = Math
 about-glean-metrics-table-header-value = Gwerth
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Gweithredoedd
+about-glean-metrics-table-settings-button = Gosodiadau
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Gosodiadau Tabl Metrics
+about-glean-metrics-table-settings-category-general = Cyffredinol
+about-glean-metrics-table-settings-hide-empty-value-rows = Cuddio rhesi gwerth gwag
+about-glean-metrics-table-settings-category-visualizations = Delweddu
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Esiampl
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Uchder uchaf y siart
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Uchder uchaf graddedig
+about-glean-metrics-table-settings-histograms-box-padding = Padin blwch
+about-glean-metrics-table-settings-histograms-chart-padding = Padin siart
+about-glean-metrics-table-settings-histograms-left-padding = Padin chwith ychwanegol
+about-glean-metrics-table-settings-category-visualizations-timeline = Llinell Amser
+about-glean-metrics-table-settings-timelines-height = Uchder:
+about-glean-metrics-table-settings-timelines-width = Lled:
+about-glean-metrics-table-settings-timelines-chart-padding = Padin siart
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Radiws cylch
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Atred X echel Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Atred Y echel X
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Hidl
 # This message sits alongside an input field, further describing its purpose.

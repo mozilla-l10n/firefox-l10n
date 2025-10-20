@@ -40,6 +40,14 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Управление на настройките на { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Вертикални раздели
+sidebar-show-on-the-right =
+    .label = Преместване на страничната лента отдясно
+sidebar-show-on-the-left =
+    .label = Преместване на страничната лента вляво
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Разгъване на страничната лента при движение на мишката
 sidebar-manage-extensions = Управление на разширения
 
 ## Labels for sidebar context menu items
@@ -58,10 +66,16 @@ sidebar-context-menu-bookmark-tab =
     .label = Отмятане на раздела…
 sidebar-context-menu-copy-link =
     .label = Копиране на препратката
+sidebar-context-menu-hide-sidebar =
+    .label = Скриване на страничната лента
+sidebar-context-menu-customize-sidebar =
+    .label = Персонализиране на страничната лента
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Затваряне на раздела на { $deviceName }
+sidebar-context-menu-unpin-extension =
+    .label = Премахване от страничната лента
 
 ## Labels for sidebar menu items.
 

@@ -113,29 +113,33 @@ restore-from-backup-restoring-button = Wrthi'n adfer…
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
 
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Cyfrinair anghywir. <a data-l10n-name="incorrect-password-support-link">Yn dal i gael problemau?</a>
 # The backup file (or specific data files within the backup file) could not be
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself
 backup-service-error-corrupt-file =
-    .heading = Nid yw'r ffeil hon yn gweithio
+    .heading = Dyw'r ffeil hon ddim yn gweithio
     .message = Roedd problem gyda'ch ffeil wrth gefn. Dewiswch ffeil arall a cheisio eto.
 # The backup file cannot be restored. The currently running application may
 # be too old and may not support features in the backed up profile.
 # Alternatively, the backup file may be too old and some of the feature in
 # the backed up profile may no longer be supported.
 backup-service-error-unsupported-version =
-    .heading = Nid yw'r ffeil hon yn gweithio
-    .message = Nid yw'r ffeil rydych wedi ei dewis yn gydnaws gyda'r fersiwn yma o { -brand-short-name }. Dewiswch ffeil wahanol a cheisio eto.
+    .heading = Dyw'r ffeil hon ddim yn gweithio
+    .message = Dyw'r ffeil rydych wedi ei dewis ddim yn gydnaws gyda'r fersiwn yma o { -brand-short-name }. Dewiswch ffeil wahanol a cheisio eto.
 # The backup file cannot be restored. The currently running application is not
 # the same application that created the backup file (e.g. Firefox cannot
 # restore a Thunderbird profile backup).
 backup-service-error-unsupported-application =
-    .heading = Nid yw'r ffeil hon yn gweithio
-    .message = Nid yw'r ffeil rydych wedi'i dewis wedi'i chreu gan { -brand-short-name }. Dewiswch ffeil arall a cheisio eto.
+    .heading = Dyw'r ffeil hon ddim yn gweithio
+    .message = Dyw'r ffeil rydych wedi'i dewis ddim wedi'i chreu gan { -brand-short-name }. Dewiswch ffeil arall a cheisio eto.
 # Recovery from backup did not succeed. Potential causes could be file system
 # errors, internal code errors, decryption errors, etc.
 backup-service-error-recovery-failed =
-    .heading = Ni oedd modd i { -brand-short-name } ei adfer
+    .heading = Doedd dim modd i { -brand-short-name } ei adfer
     .message = Ailgychwynnwch { -brand-short-name } a cheisio adfer eich copi wrth gefn eto.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong

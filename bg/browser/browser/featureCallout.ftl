@@ -103,6 +103,11 @@ fxa-adoption-passwords-subtitle = Защитете паролите си, кат
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Регистриране
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Дръжте любимите си емисии в лентата със задачи
+taskbar-tabs-chat-callout-title = Чат от лентата със задачи
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Не губете всичко запазено, когато преминете към Windows 11.
