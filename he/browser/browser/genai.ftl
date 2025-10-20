@@ -31,6 +31,7 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = הסרה מסרגל הצד
 genai-menu-new-badge = חדש
+genai-menu-summarize-page = סיכום העמוד
 genai-input-ask-generic =
     .placeholder = לשאול צ’אטבוט AI…
 # $provider (string) - name of the provider

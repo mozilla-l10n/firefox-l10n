@@ -151,6 +151,31 @@ about-glean-metrics-table-header-type = Тип
 about-glean-metrics-table-header-value = Значение
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Действия
+about-glean-metrics-table-settings-button = Настройки
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Настройки таблицы метрик
+about-glean-metrics-table-settings-category-general = Основные
+about-glean-metrics-table-settings-hide-empty-value-rows = Скрыть строки с пустыми значениями
+about-glean-metrics-table-settings-category-visualizations = Визуализации
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Пример
+about-glean-metrics-table-settings-category-visualizations-histogram = Гистограмма
+about-glean-metrics-table-settings-histograms-chart-max = Максимальная высота карты
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Максимальная масштабированная высота
+about-glean-metrics-table-settings-histograms-box-padding = Отступы
+about-glean-metrics-table-settings-histograms-chart-padding = Отступы в диаграмме
+about-glean-metrics-table-settings-histograms-left-padding = Дополнительный отступ слева
+about-glean-metrics-table-settings-category-visualizations-timeline = Временная шкала
+about-glean-metrics-table-settings-timelines-height = Высота
+about-glean-metrics-table-settings-timelines-width = Ширина
+about-glean-metrics-table-settings-timelines-chart-padding = Отступы в диаграмме
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Радиус круга
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Смещение оси Y по X
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Смещение оси Y по Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Фильтр
 # This message sits alongside an input field, further describing its purpose.
