@@ -164,7 +164,7 @@ sidebar-button-callout-vertical-tabs = Para mostrar sus pestañas, seleccione el
 
 vertical-tabs-callout-1-title = ¿Abrumado por demasiadas pestañas?
 vertical-tabs-callout-1-subtitle = Pruebe nuestro nuevo diseño de pestañas verticales para escanear rápidamente su lista de pestañas. Los primeros usuarios que lo probaron informaron que este diseño los ayuda a sentirse más organizados. Cambie en cualquier momento.
-vertical-tabs-callout-1-cta-button = Pruebe pestañas verticales
+vertical-tabs-callout-1-cta-button = Probar pestañas verticales
 vertical-tabs-callout-2-cta-button = Probar ahora
 vertical-tabs-callout-2-title = ¿Mantiene muchas pestañas abiertas? Pruebe las pestañas verticales.
 vertical-tabs-callout-2-subtitle = Este diseño facilita escanear rápidamente su lista de pestañas. Además, puede ajustar el ancho para ver más o menos de los títulos de las pestañas.
