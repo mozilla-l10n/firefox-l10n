@@ -89,7 +89,7 @@ autofill-address-suburb = Forstad
 
 autofill-address-province = Provins
 autofill-address-state = Stat
-autofill-address-county = Fylke/storkommune
+autofill-address-county = Fylke/Storkommune
 # Used in Barbados (BB), Jamaica (JM) as primary address information (1 level below the country level).
 autofill-address-parish = Sokn
 # Used in Japan (JP) as primary address information (1 level below the country level).
