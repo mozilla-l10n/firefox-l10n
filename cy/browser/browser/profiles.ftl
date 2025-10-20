@@ -26,12 +26,14 @@ profile-card =
 default-profile-name = Proffil { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Proffil gwreiddiol
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = Golygu proffil
 edit-profile-page-header = Golygu eich proffil
 edit-profile-page-profile-name-label = Enw proffil
 edit-profile-page-theme-header-2 =
     .label = Thema
 edit-profile-page-explore-themes = Edrych ar ragor o themâu
+edit-profile-page-desktop-shortcut-header = Creu llwybr byr bwrdd gwaith
 edit-profile-page-avatar-header-2 =
     .label = Afatar
 edit-profile-page-delete-button =

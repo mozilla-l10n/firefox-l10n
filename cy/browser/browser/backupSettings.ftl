@@ -143,11 +143,66 @@ backup-service-error-went-wrong =
     .heading = Aeth rhywbeth o'i le
     .message = Bu anhawster gyda proses copïo wrth gefn { -brand-short-name }. Ceisiwch eto neu ailgychwyn { -brand-short-name }.
 
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Gwnewch gopi wrth gefn o'ch data sensitif
+enable-backup-encryption-description = Gwnewch gopi wrth gefn o'ch cyfrineiriau, eich dulliau talu a'ch cwcis, a chadw'ch holl ddata'n ddiogel gydag amgryptio.
+enable-backup-encryption-support-link = Dysgu rhagor
+enable-backup-encryption-create-password-label = Cyfrinair
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Ailadrodd y cyfrinair
+enable-backup-encryption-cancel-button = Diddymu
+enable-backup-encryption-confirm-button = Cadw
+change-backup-encryption-header = Newid y cyfrinair wrth gefn
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Gofynion cyfrinair
+password-rules-length-description = O leiaf 8 nod
+password-rules-email-description = Nid eich cyfeiriad e-bost
+password-rules-disclaimer = Cadwch yn ddiogel - peidiwch ag ailddefnyddio cyfrineiriau. Dyma ragor o awgrymiadau ar gyfer <a data-l10n-name="password-support-link">creu cyfrineiriau cryf</a>.
+password-validity-has-email = Does dim modd iddo fod yn gyfeiriad e-bost
+password-validity-do-not-match = Nid yw'r cyfrineiriau'n cydweddu
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Llwyddiant
+password-rules-a11y-warning =
+    .alt = Rhybudd
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Tynnu diogelwch cyfrineiriau
+disable-backup-encryption-description = Fydd eich cyfrineiriau, dulliau talu a chwcis sydd wedi'u cadw bellach ddim yn cael eu cadw wrth gefn.
+disable-backup-encryption-support-link = Beth fydd yn cael ei gadw wrth gefn?
+disable-backup-encryption-cancel-button = Diddymu
+disable-backup-encryption-confirm-button = Tynnu'r cyfrinair
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Dyw eich cyfrinair ddim yn bodloni'r gofynion. Rhowch gynnig ar gyfrinair arall.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Aeth rhywbeth o'i le. Ceisiwch eto.
+
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = Mae { -brand-short-name } yn barod i'w adfer
+backup-file-title = Adfer { -brand-short-name }
+backup-file-intro = Ewch nôl i bori ac adfer eich holl nodau tudalen, hanes, a data arall. <a data-l10n-name="backup-file-support-link">Dysgu rhagor</a>
+backup-file-path-label = Ffeil wrth gefn:
+backup-file-encryption-state-label = Wedi'i amgryptio:
+backup-file-encryption-state-value-encrypted = Iawn
+backup-file-encryption-state-value-not-encrypted = Na
+backup-file-creation-device-label = Dyfais:
+backup-file-creation-date-label = Crëwyd:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
