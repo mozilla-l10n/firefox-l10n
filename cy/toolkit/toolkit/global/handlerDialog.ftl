@@ -24,9 +24,11 @@ permission-dialog-description-system-noapp = Agor dolen { $scheme }?
 wallet-custom-scheme-warning-heading =
     .heading = Caniatáu i'r wefan hon agor eich waled ddigidol?
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-host-app = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i <strong>{ $host }</strong> ofyn am eich hunaniaeth go iawn gyda <strong>{ $appName }</strong>. Ewch ymlaen dim ond os ydych yn ymddiried yn y wefan hon.
+wallet-custom-scheme-warning-host-app = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i <strong>{ $host }</strong> ofyn am eich hunaniaeth go iawn o'ch waled digidol. Ewch ymlaen dim ond os ydych yn ymddiried yn y wefan hon.
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-app = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i'r wefan hon ofyn am eich hunaniaeth go iawn gyda <strong>{ $appName }</strong>. Ewch yn eich blaen dim ond os ydych yn ymddiried yn y wefan hon.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i'r wefan hon ofyn am eich hunaniaeth go iawn gyda <strong>{ $host }</strong>. Ewch yn eich blaen dim ond os ydych yn ymddiried yn y wefan hon.
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning = Mae agor dolen <strong>{ $scheme }</strong> yn caniatáu i'r wefan hon ofyn am eich hunaniaeth go iawn o'ch waled ddigidol. Ewch yn eich blaen dim ond os ydych yn ymddiried yn y wefan hon.
 

@@ -164,6 +164,13 @@ about-glean-metrics-table-settings-histograms-chart-max = Maksimalna wysokosć d
 about-glean-metrics-table-settings-histograms-scaled-max = Skalowana maksimalna wysokosć
 about-glean-metrics-table-settings-histograms-box-padding = Nutřkowny wotstup pola
 about-glean-metrics-table-settings-histograms-chart-padding = Nutřkowny wotstup diagrama
+about-glean-metrics-table-settings-histograms-left-padding = Přidatny lěwy nutřkowny wotstup
+about-glean-metrics-table-settings-category-visualizations-timeline = Časowa lajsta
+about-glean-metrics-table-settings-timelines-height = Wysokosć
+about-glean-metrics-table-settings-timelines-width = Šěrokosć
+about-glean-metrics-table-settings-timelines-chart-padding = Nutřkowny wotstup diagrama
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Kružny radius
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
 # This message sits alongside an input field, further describing its purpose.

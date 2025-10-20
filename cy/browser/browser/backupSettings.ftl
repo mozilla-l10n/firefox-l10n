@@ -105,6 +105,43 @@ restore-from-backup-file-choose-button =
        *[other] Pori…
     }
 restore-from-backup-password-label = Cyfrinair
+restore-from-backup-password-description = Mae hwn yn datgloi eich copi wrth gefn wedi'i amgryptio.
+restore-from-backup-cancel-button = Diddymu
+restore-from-backup-confirm-button = Adfer ac ailgychwyn
+restore-from-backup-restoring-button = Wrthi'n adfer…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Nid yw'r ffeil hon yn gweithio
+    .message = Roedd problem gyda'ch ffeil wrth gefn. Dewiswch ffeil arall a cheisio eto.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Nid yw'r ffeil hon yn gweithio
+    .message = Nid yw'r ffeil rydych wedi ei dewis yn gydnaws gyda'r fersiwn yma o { -brand-short-name }. Dewiswch ffeil wahanol a cheisio eto.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Nid yw'r ffeil hon yn gweithio
+    .message = Nid yw'r ffeil rydych wedi'i dewis wedi'i chreu gan { -brand-short-name }. Dewiswch ffeil arall a cheisio eto.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = Ni oedd modd i { -brand-short-name } ei adfer
+    .message = Ailgychwynnwch { -brand-short-name } a cheisio adfer eich copi wrth gefn eto.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Aeth rhywbeth o'i le
+    .message = Bu anhawster gyda proses copïo wrth gefn { -brand-short-name }. Ceisiwch eto neu ailgychwyn { -brand-short-name }.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
