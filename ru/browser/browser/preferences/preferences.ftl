@@ -610,11 +610,11 @@ home-restore-defaults =
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name(case: "nominative") } (По умолчанию)
 home-mode-choice-custom =
-    .label = Мой сетевой адрес...
+    .label = Мои URL-адреса…
 home-mode-choice-blank =
     .label = Пустая страница
 home-homepage-custom-url =
-    .placeholder = Вставьте сетевой адрес...
+    .placeholder = Вставьте URL-адрес…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
