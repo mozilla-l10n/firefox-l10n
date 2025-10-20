@@ -18,8 +18,8 @@ backup-folder-name = Adfer { -brand-product-name }
 # profile name and backup date are appended to it:
 #
 # FirefoxBackup_default_20240606-1830.html
-backup-file-name = { -brand-product-name } Gwneud copi wrth gefn
-settings-data-backup-header = Wrth Gefn
+backup-file-name = Copïo wrth Gefn { -brand-product-name }
+settings-data-backup-header = Copïo wrth Gefn
 settings-data-backup-toggle = Rheoli copïo wrth gefn
 settings-data-backup-trigger-button = Gwneud copi wrth gefn nawr
 settings-data-backup-in-progress-button = Wrthi'n copïo wrth gefn…
@@ -39,13 +39,11 @@ settings-data-backup-restore-header = Adfer eich data
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
-settings-data-backup-scheduled-backups-off-restore-description = Defnyddio copi wrth gefn { -brand-product-name } o ddyfais arall i adfer eich data.
 settings-data-backup-scheduled-backups-off-restore-choose = Dewiswch ffeil wrth gefn…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
 settings-data-backup-scheduled-backups-on-restore-description = Adferwch eich data { -brand-product-name } o'r tro diwethaf iddo gael ei wneud wrth gefn.
-settings-data-backup-scheduled-backups-on-restore-choose = Adfer…
 settings-data-toggle-encryption-label = Gwnewch gopi wrth gefn o'ch data sensitif
 settings-data-toggle-encryption-description = Gwnewch gopi wrth gefn o'ch cyfrineiriau, eich dulliau talu a'ch cwcis gydag amgryptio.
 settings-data-toggle-encryption-support-link = Dysgu rhagor
