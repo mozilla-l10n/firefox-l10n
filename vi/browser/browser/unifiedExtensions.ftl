@@ -17,6 +17,8 @@ unified-extensions-empty-reason-private-browsing-not-allowed = Bạn đã cài �
 unified-extensions-empty-reason-extension-not-enabled = Bạn đã cài đặt tiện ích mở rộng nhưng chưa bật
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Nâng cấp trình duyệt của bạn với tiện ích mở rộng
+unified-extensions-empty-content-explain-enable2 = Chọn “{ unified-extensions-manage-extensions.label }” để bật chúng trong cài đặt.
+unified-extensions-empty-content-explain-manage2 = Chọn “{ unified-extensions-manage-extensions.label }” để quản lý chúng trong cài đặt.
 unified-extensions-empty-content-explain-enable = Chọn “{ unified-extensions-item-message-manage }” để bật chúng trong cài đặt.
 unified-extensions-empty-content-explain-manage = Chọn “{ unified-extensions-item-message-manage }” để quản lý chúng trong cài đặt.
 unified-extensions-empty-content-explain-extensions-onboarding = Cá nhân hóa { -brand-short-name } bằng cách thay đổi giao diện và hiệu suất hoặc tăng cường quyền riêng tư và an toàn.
