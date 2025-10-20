@@ -201,6 +201,17 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] پاک کردن
        *[other] پاک کردن پوی
     }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] هری، ای و من ٱووڌن ن پاک کۊنین
+        [one] هری، ای و من ٱووڌن ن پاک کۊنین
+       *[other] هری، ای و من ٱووڌنا ن پاک کۊنین
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] پاک کردن { $count } و من ٱووڌن؟
+       *[other] پاک کردن پوی { $count } و من ٱووڌن؟
+    }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
