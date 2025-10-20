@@ -74,10 +74,15 @@ turn-on-scheduled-backups-encryption-create-password-label = Wachtwurd
 turn-on-scheduled-backups-encryption-repeat-password-label = Nochris it wachtwurd
 turn-on-scheduled-backups-cancel-button = Annulearje
 turn-on-scheduled-backups-confirm-button = Reservekopy ynskeakelje
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Der is in probleem bard mei jo selektearre reservekopymap. Kies in oare map en probearje it opnij.
+backup-error-file-system = Der is in probleem bard mei jo selektearre reservekopymap by it meitsjen fan in reservekopy fan { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Reservekopy útskeakelje?
+turn-off-scheduled-backups-description = Dit smyt ek al jo gegevens yn reservekopyen fuort. It kin net ûngedien makke wurde.
 turn-off-scheduled-backups-support-link = Mear ynfo
 turn-off-scheduled-backups-cancel-button = Annulearje
 turn-off-scheduled-backups-confirm-button = Reservekopy útskeakelje en fuortsmite

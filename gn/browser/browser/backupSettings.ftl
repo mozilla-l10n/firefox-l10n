@@ -74,6 +74,18 @@ restore-from-backup-file-choose-button =
 restore-from-backup-password-label = Ñe’ẽñemi
 restore-from-backup-cancel-button = Heja
 
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Oĩporãva
+password-rules-a11y-warning =
+    .alt = Jesarekorã
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-cancel-button = Heja
+disable-backup-encryption-confirm-button = Emboguete ñe’ẽñemi
+
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
