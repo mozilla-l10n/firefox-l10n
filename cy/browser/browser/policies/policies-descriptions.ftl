@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Galluogi awtolenwi cyfeiriadau.
 policy-AutofillCreditCardEnabled = Galluogi awtolenwi dulliau talu.
 policy-AutoLaunchProtocolsFromOrigins = Diffiniwch restr o brotocolau allanol y mae modd eu defnyddio o darddiad rhestredig heb annog y defnyddiwr.
 policy-BackgroundAppUpdate2 = Galluogi neu analluogi'r diweddarydd cefndir.
+policy-Backup = Analluogwch gwneud copi wrth gefn neu adfer data proffil.
 policy-BlockAboutAddons = Rhwystro mynediad at y Rheolwr Ychwanegion (about:addons)
 policy-BlockAboutConfig = Rhwystro mynediad at y dudalen about:config.
 policy-BlockAboutProfiles = Rhwystro mynediad at y dudalen about:profiles.

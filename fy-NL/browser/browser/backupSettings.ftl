@@ -179,14 +179,28 @@ password-rules-a11y-warning =
 
 disable-backup-encryption-header = Wachtwurdbeskerming fuortsmite
 disable-backup-encryption-description = Der wurdt gjin reservekopy mear makke fan jo bewarre wachtwurden, betelingsmetoaden en cookies.
+disable-backup-encryption-support-link = Wêrfan wurdt in reservekopy makke?
 disable-backup-encryption-cancel-button = Annulearje
 disable-backup-encryption-confirm-button = Wachtwurd fuortsmite
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Jo wachtwurd foldocht net oan de easken. Probearje in oar wachtwurd.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Der is wat misgien. Probearje it opnij.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } is ree om reparearre te wurden
+backup-file-title = { -brand-short-name } reparearje
+backup-file-intro = Gean werom nei it blêdzjen en reparearje al jo blêdwizers, skiednis en oare gegevens. <a data-l10n-name="backup-file-support-link">Mear ynfo</a>
 backup-file-path-label = Reservekopybestân:
 backup-file-encryption-state-label = Fersifere:
 backup-file-encryption-state-value-encrypted = Ja
@@ -196,4 +210,32 @@ backup-file-creation-date-label = Makke:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Reparearje:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Iepenje it tapassingsmenu ☰ en gean nei Ynstellingen > Syngronisaasje
+backup-file-moz-browser-restore-step-2 = Klik op ‘Reservekopybestân kieze’ en selektearje dit bestân
+backup-file-moz-browser-restore-step-3 = Start { -brand-short-name } opnij as dêrom frege wurdt
+backup-file-other-browser-restore-step-1 = { -brand-short-name } downloade en ynstallearje
 backup-file-download-moz-browser-button = Downloade
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Start { -brand-short-name }, iepenje it tapassingsmenu ☰ en gean nei Ynstellingen > Synchronisaasje
+backup-file-other-browser-restore-step-3 = Klik op ‘Reservekopybestân kieze’ en selektearje dit bestân
+backup-file-other-browser-restore-step-4 = Start { -brand-short-name } opnij as dêrom frege wurdt
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Opmerking:</b> { $numberOfOtherBackupsFound } oar reservekopybestân fûn
+       *[other] <b>Opmerking:</b> { $numberOfOtherBackupsFound } oare reservekopybestannen fûn
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Makke op { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } op { $machineName }

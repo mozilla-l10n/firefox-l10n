@@ -149,6 +149,11 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Cau
 windows-10-eos-sync-callout-primary-advance-button-label = Nesaf
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Newydd: Cliciwch a dal i gael rhagolwg o'r dolenni
+link-preview-onboarding-callout-description = Cewch weld disgrifiad byr, yr amser darllen, a rhagor i benderfynu a yw'r ddolen yn werth ei hagor. Ar gael hefyd wrth roi clic de.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Dangos teitlau tabiau yn y bar ochr

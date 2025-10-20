@@ -11,6 +11,8 @@
 unified-extensions-header-title = Estyniadau
 unified-extensions-manage-extensions =
     .label = Rheoli estyniadau
+unified-extensions-discover-extensions =
+    .label = Darganfod estyniadau
 
 ## An extension in the main list
 

@@ -510,6 +510,8 @@ create-backup-screen-2-all-label = Yr holl ddata
 create-backup-screen-2-all-list-2 = Yn cynnwys cyfrineiriau a thaliadau
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Wedi'i amgryptio gyda chyfrinair
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Ble ydych chi am i'ch copi wrth gefn gael ei gadw?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Creu cyfrinair ffeil wrth gefn
 create-backup-screen-3-subtitle = Mae ei angen ar gyfer amgryptio eich data. Cadw'ch ef mewn man y byddwch yn ei gofio.

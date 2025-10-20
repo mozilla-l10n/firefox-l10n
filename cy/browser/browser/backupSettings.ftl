@@ -85,3 +85,65 @@ turn-off-scheduled-backups-header = Diffodd copïo wrth gefn?
 turn-off-scheduled-backups-description = Mae hyn hefyd yn dileu eich holl ddata wrth gefn. Does dim modd ei ddadwneud.
 turn-off-scheduled-backups-support-link = Dysgu rhagor
 turn-off-scheduled-backups-cancel-button = Diddymu
+turn-off-scheduled-backups-confirm-button = Diffodd a dileu copïo wrth gefn
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Adfer eich data
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Bydd hyn yn amnewid eich holl ddata { -brand-short-name } cyfredol gyda'ch copi wrth gefn o { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Beth fydd yn cael ei adfer?
+restore-from-backup-no-backup-file-link = Cael trafferth dod o hyd i'ch copi wrth gefn?
+restore-from-backup-filepicker-label = Ffeil wrth copi wrth gefn
+restore-from-backup-filepicker-title = Dewiswch Ffeil Wrth Gefn:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Dewis…
+       *[other] Pori…
+    }
+restore-from-backup-password-label = Cyfrinair
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Sut i adfer:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Agorwch ddewislen y rhaglen ☰ ac ewch i Gosodiadau> Cydweddu
+backup-file-moz-browser-restore-step-2 = Cliciwch "Dewis ffeil wrth gefn" a dewiswch y ffeil hon
+backup-file-moz-browser-restore-step-3 = Ailgychwyn { -brand-short-name } pan fydd gofyn i chi
+backup-file-other-browser-restore-step-1 = Llwythwch i lawr a gosod { -brand-short-name }
+backup-file-download-moz-browser-button = Llwytho i Lawr
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Cychwynnwch { -brand-short-name }, agorwch ddewislen y rhaglen ☰ ac ewch i Gosodiadau > Cydweddu
+backup-file-other-browser-restore-step-3 = Cliciwch "Dewis ffeil wrth gefn" a dewiswch y ffeil hon
+backup-file-other-browser-restore-step-4 = Ailgychwynnwch { -brand-short-name } pan fydd gofyn i chi
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [zero] <b>Sylw:</b> Wedi canfod { $numberOfOtherBackupsFound } ffeiliau wrth gefn eraill
+        [one] <b>Sylw:</b> Wedi canfod { $numberOfOtherBackupsFound } ffeil wrth gefn arall
+        [two] <b>Sylw:</b> Wedi canfod { $numberOfOtherBackupsFound } ffeil wrth gefn arall
+        [few] <b>Sylw:</b> Wedi canfod { $numberOfOtherBackupsFound } ffeil wrth gefn arall
+        [many] <b>Sylw:</b> Wedi canfod { $numberOfOtherBackupsFound } ffeil wrth gefn arall
+       *[other] <b>Sylw:</b> Wedi canfod { $numberOfOtherBackupsFound } ffeil wrth gefn arall
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Wedi'i greu ar { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ar { $machineName }

@@ -149,6 +149,11 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Slute
 windows-10-eos-sync-callout-primary-advance-button-label = Folgjende
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Nij: keppelingen yndrukt hâlde foar in foarbyld
+link-preview-onboarding-callout-description = Besjoch in koarte beskriuwing, lêstiid en mear om te besluten oft in keppeling it klikken wurdich is. Ek beskikber mei de rjochtermûsknop.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ljepblêdtitels yn de sydbalke toane
