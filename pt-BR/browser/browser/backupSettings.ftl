@@ -200,6 +200,7 @@ backup-error-retry = Algo deu errado. Tente novamente.
 
 backup-file-header = O { -brand-short-name } está pronto para ser restaurado
 backup-file-title = Restaurar o { -brand-short-name }
+backup-file-intro = Volte a navegar e recupere todos os seus favoritos, histórico e outros dados. <a data-l10n-name="backup-file-support-link">Saiba mais</a>
 backup-file-path-label = Arquivo de backup:
 backup-file-encryption-state-label = Criptografado:
 backup-file-encryption-state-value-encrypted = Sim
