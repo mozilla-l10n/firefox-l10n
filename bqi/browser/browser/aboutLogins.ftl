@@ -212,6 +212,7 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 
 about-logins-confirm-export-dialog-title = و در کشیڌن دووسمندیا و من ٱووڌن وو رزما
 about-logins-confirm-export-dialog-confirm-button = و در کشیڌن…
+about-logins-confirm-export-dialog-title2 = نوکته ای زبار و در کشیڌن رزما
 about-logins-confirm-export-dialog-confirm-button2 = رئڌن وا پؽش سی و در کشیڌن
 about-logins-alert-import-title = و من ٱووردن دووسمندیا کامل وابی
 about-logins-alert-import-message = نشووݩ داڌن جۊزعیات و من ٱووردن دووسمندیا
@@ -222,6 +223,7 @@ confirm-discard-changes-dialog-confirm-button = دیر وندن
 ## Breach Alert notification
 
 about-logins-breach-alert-title = رخنه من وبگه
+about-logins-breach-alert-date = ای نقز من ای ویرگار پؽش ٱووڌه { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = راو و { $hostname }
