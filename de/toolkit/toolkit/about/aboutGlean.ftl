@@ -164,9 +164,13 @@ about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
 about-glean-metrics-table-settings-histograms-chart-max = Maximale Höhe des Diagramms
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = Skalierte maximale Höhe
+about-glean-metrics-table-settings-histograms-box-padding = Box padding
+about-glean-metrics-table-settings-histograms-chart-padding = Diagramm padding
+about-glean-metrics-table-settings-histograms-left-padding = Zusätzliches padding links
 about-glean-metrics-table-settings-category-visualizations-timeline = Zeitverlauf
 about-glean-metrics-table-settings-timelines-height = Höhe
 about-glean-metrics-table-settings-timelines-width = Breite
+about-glean-metrics-table-settings-timelines-chart-padding = Diagramm padding
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Kreisradius
 # The offset on the x-axis from the end of the horizontal line for the y-axis line
