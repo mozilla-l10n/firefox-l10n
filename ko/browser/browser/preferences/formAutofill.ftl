@@ -99,7 +99,7 @@ autofill-address-area = 지역
 # Used in Korea (KO) as primary address information (1 level below the country level).
 autofill-address-do-si = 도/시
 # Used in Nicaragua (NI), Colombia (CO) as primary address information (1 level below the country level).
-autofill-address-department = 주
+autofill-address-department = 부서
 # Used in United Arab Emirates (AE) as primary address information (1 level below the country level).
 autofill-address-emirate = 토후국
 # Used in Russia (RU), Ukraine (UA) as primary address information (1 level below the country level).

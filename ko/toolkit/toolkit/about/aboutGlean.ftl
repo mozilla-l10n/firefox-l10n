@@ -151,6 +151,31 @@ about-glean-metrics-table-header-type = 유형
 about-glean-metrics-table-header-value = 값
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = 동작
+about-glean-metrics-table-settings-button = 설정
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = 메트릭 표 설정
+about-glean-metrics-table-settings-category-general = 일반
+about-glean-metrics-table-settings-hide-empty-value-rows = 빈 값 행 숨기기
+about-glean-metrics-table-settings-category-visualizations = 시각화
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = 예
+about-glean-metrics-table-settings-category-visualizations-histogram = 히스토그램
+about-glean-metrics-table-settings-histograms-chart-max = 차트 최대 높이
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = 배율 조정된 최대 높이
+about-glean-metrics-table-settings-histograms-box-padding = 박스 패딩
+about-glean-metrics-table-settings-histograms-chart-padding = 차트 패딩
+about-glean-metrics-table-settings-histograms-left-padding = 추가 왼쪽 패딩
+about-glean-metrics-table-settings-category-visualizations-timeline = 타임라인
+about-glean-metrics-table-settings-timelines-height = 높이
+about-glean-metrics-table-settings-timelines-width = 너비
+about-glean-metrics-table-settings-timelines-chart-padding = 차트 패딩
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = 원 반지름
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y축 X 오프셋
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y축 Y 오프셋
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = 필터
 # This message sits alongside an input field, further describing its purpose.

@@ -26,12 +26,14 @@ profile-card =
 default-profile-name = 프로필 { $number }개
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = 원본 프로필
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = 프로필 편집
 edit-profile-page-header = 프로필 편집
 edit-profile-page-profile-name-label = 프로필 이름
 edit-profile-page-theme-header-2 =
     .label = 테마
 edit-profile-page-explore-themes = 더 많은 테마 살펴보기
+edit-profile-page-desktop-shortcut-header = 바탕 화면 바로 가기 만들기
 edit-profile-page-avatar-header-2 =
     .label = 아바타
 edit-profile-page-delete-button =
