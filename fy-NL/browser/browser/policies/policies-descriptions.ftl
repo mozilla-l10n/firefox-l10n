@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Automatysk ynfolje foar adressen ynskeakelje.
 policy-AutofillCreditCardEnabled = Automatysk ynfolje foar beteelingsmetoaden ynskeakelje.
 policy-AutoLaunchProtocolsFromOrigins = Definiearje in list mei eksterne protokollen dy’t fan fermelde boarnen út brûkt wurde kinne sûnder de brûker te freegjen.
 policy-BackgroundAppUpdate2 = Eftergrûnfernijingen yn- of útskeakelje.
+policy-Backup = Reservekopy meitsje of reparearje fan profylgegevens útskeakelje.
 policy-BlockAboutAddons = Tagong ta de Add-onbehearder (about:addons) blokkearje.
 policy-BlockAboutConfig = Tagong ta de about:config-side blokkearje.
 policy-BlockAboutProfiles = Tagong ta de about:profiles-side blokkearje.

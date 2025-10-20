@@ -480,6 +480,9 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Windows 11’e mi geçiyorsunuz?
+    { -brand-product-name } verilerinizi yedekleyelim.
 create-backup-screen-1-subtitle = Parolalarınızı, yer imlerinizi ve daha fazlasını 1–2 dakikalık bir işlemle otomatik korumaya alın.
 create-backup-screen-1-flair = Önerilen
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Daha fazla bilgi alın</a>

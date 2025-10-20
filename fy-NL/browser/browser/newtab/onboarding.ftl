@@ -510,6 +510,8 @@ create-backup-screen-2-all-label = Alle gegevens
 create-backup-screen-2-all-list-2 = Befettet wachtwurden en betelmetoaden
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Fersifere mei in wachtwurd
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Wêr wolle jo jo reservekopy bewarje?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Wachtwurd foar in reservekopybestân oanmeitsje
 create-backup-screen-3-subtitle = Fereaske om jo gegevens te fersiferjen. Bewarje it op in plak dat jo ûnthâlde kinne.

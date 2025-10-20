@@ -200,6 +200,7 @@ backup-error-retry = Bir şeyler yanlış gitti. Lütfen yeniden deneyin.
 
 backup-file-header = { -brand-short-name } geri yüklenmeye hazır
 backup-file-title = { -brand-short-name } tarayıcısını geri yükle
+backup-file-intro = Yer imlerinizi, geçmişinizi ve diğer verilerinizi geri yükleyerek internette gezinmeye başlayın. <a data-l10n-name="support-link">Daha fazla bilgi alın</a>
 backup-file-path-label = Yedek dosyası:
 backup-file-encryption-state-label = Şifrelenmiş mi:
 backup-file-encryption-state-value-encrypted = Evet
@@ -209,9 +210,18 @@ backup-file-creation-date-label = Oluşturma:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Nasıl geri yüklenir?
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Uygulama menüsünü ☰ açıp Ayarlar > Eşitleme’ye gidin
+backup-file-moz-browser-restore-step-2 = “Yedek dosyasını seç”e tıklayıp bu dosyayı seçin
 backup-file-moz-browser-restore-step-3 = İstendiğinde { -brand-short-name } tarayıcısını yeniden başlatın
 backup-file-other-browser-restore-step-1 = { -brand-short-name } tarayıcısını indirip yükleyin
 backup-file-download-moz-browser-button = İndir
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = { -brand-short-name } tarayıcısını açın, uygulama menüsünü ☰ açıp Ayarlar > Eşitleme’ye gidin
+backup-file-other-browser-restore-step-3 = “Yedek dosyasını seç”e tıklayıp bu dosyayı seçin
 backup-file-other-browser-restore-step-4 = İstendiğinde { -brand-short-name } tarayıcısını yeniden başlatın
 
 ## These strings are used in the about:restore and about:welcome pages
@@ -225,3 +235,7 @@ other-backup-files-founds =
         [one] <b>Not:</b> { $numberOfOtherBackupsFound } yedek dosyası daha bulundu
        *[other] <b>Not:</b> { $numberOfOtherBackupsFound } yedek dosyası daha bulundu
     }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } tarihinde { $machineName } adlı cihazda oluşturuldu
