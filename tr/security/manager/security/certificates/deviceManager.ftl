@@ -50,7 +50,7 @@ load-device-filename =
     .value = Modülün dosya adı
     .accesskey = o
 load-device-browse =
-    .label = Gözat…
+    .label = Göz at…
     .accesskey = G
 
 ## Token Manager

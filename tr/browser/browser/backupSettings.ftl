@@ -54,6 +54,7 @@ settings-data-change-password = Parolayı değiştir…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Yedeklemeyi etkinleştir
+turn-on-scheduled-backups-description = { -brand-short-name } 24 saatte bir verilerinizin yedeğini alacaktır. Sorun yaşarsanız veya yeni bir cihaza geçerseniz bu verileri geri yükleyebilirsiniz.
 turn-on-scheduled-backups-support-link = Neler yedeklenecek?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Konum
@@ -89,6 +90,10 @@ turn-off-scheduled-backups-confirm-button = Yedeklemeyi kapat ve sil
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Verilerinizi geri yükleyin
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Bu işlem, mevcut { -brand-short-name } verilerinizin hepsini { DATETIME($date, timeStyle: "short", dateStyle: "short") } tarihli yedeğinizle değiştirecektir.
 restore-from-backup-support-link =
     .message = Neler geri yüklenecek?
 restore-from-backup-no-backup-file-link = Yedeğinizi bulamıyor musunuz?

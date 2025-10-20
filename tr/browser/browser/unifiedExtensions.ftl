@@ -19,6 +19,7 @@ unified-extensions-empty-reason-extension-not-enabled = Yüklenmiş ama etkinle�
 unified-extensions-empty-reason-zero-extensions-onboarding = Uzantılarla gezinti deneyiminizi bir üst seviyeye taşıyın
 unified-extensions-empty-content-explain-enable = Bunları etkinleştirmek için ayarlardan “{ unified-extensions-item-message-manage }” seçeneğini seçin.
 unified-extensions-empty-content-explain-manage = Bunları yönetmek için ayarlardan “{ unified-extensions-item-message-manage }” seçeneğini seçin.
+unified-extensions-empty-content-explain-extensions-onboarding = { -brand-short-name } tarayıcınızı kişiselleştirin: Görünümünü ve çalışma şeklini değiştirin, gizliliğinizi ve güvenliğinizi artırın.
 
 ## An extension in the main list
 

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-picker-browse-button =
-    .buttonlabelextra2 = Gözat…
+    .buttonlabelextra2 = Göz at…
 app-picker-send-msg =
     .value = Bu öğeyi buraya gönder:
 app-picker-no-app-found =
