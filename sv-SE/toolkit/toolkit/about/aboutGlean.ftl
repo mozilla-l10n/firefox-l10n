@@ -142,20 +142,20 @@ about-glean-metrics-table-settings-category-visualizations = Visualiseringar
 about-glean-metrics-table-settings-visualization-example = Exempel
 about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
 # The maximum height after to which the y-values on the chart will be scaled
-about-glean-metrics-table-settings-histograms-scaled-max = Skalad maxhöjd
-about-glean-metrics-table-settings-histograms-box-padding = Box stoppning
-about-glean-metrics-table-settings-histograms-chart-padding = Diagram utfyllnad
-about-glean-metrics-table-settings-histograms-left-padding = Ytterligare vänster stoppning
+about-glean-metrics-table-settings-histograms-scaled-max = Skalad maximal höjd
+about-glean-metrics-table-settings-histograms-box-padding = Boxfyllning
+about-glean-metrics-table-settings-histograms-chart-padding = Diagramfyllning
+about-glean-metrics-table-settings-histograms-left-padding = Ytterligare vänster fyllning
 about-glean-metrics-table-settings-category-visualizations-timeline = Tidslinje
 about-glean-metrics-table-settings-timelines-height = Höjd
 about-glean-metrics-table-settings-timelines-width = Bredd
-about-glean-metrics-table-settings-timelines-chart-padding = Diagram utfyllnad
+about-glean-metrics-table-settings-timelines-chart-padding = Diagramfyllning
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Cirkelradie
 # The offset on the x-axis from the end of the horizontal line for the y-axis line
 about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y-axelns X-offset
 # The offset on the y-axis from the x-axis for the y-axis line
-about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y-axel Y-offset
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y-axelns Y-offset
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
 # This message sits alongside an input field, further describing its purpose.
