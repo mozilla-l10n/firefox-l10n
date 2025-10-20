@@ -8,3 +8,15 @@
 # can be used for folders. Invalid characters will be automatically stripped out
 # or replaced with underscores.
 backup-folder-name = Adfer { -brand-product-name }
+# This string is used for the generated file that will be stored within the
+# backup-folder-name folder. It will have the profile name and an encoding of
+# the backup date appended to it, followed by `.html`. Please only include
+# characters that can be used for filenames. Invalid characters will be
+# automatically stripped out or replaced with underscores.
+#
+# This is an example of what the final filename might look like after the
+# profile name and backup date are appended to it:
+#
+# FirefoxBackup_default_20240606-1830.html
+backup-file-name = { -brand-product-name } Gwneud copi wrth gefn
+settings-data-backup-header = Wrth Gefn

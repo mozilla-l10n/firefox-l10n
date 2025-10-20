@@ -51,3 +51,6 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Obrigado por ajudar o { -brand-product-name } a tornar a web mais aberta, acessível e melhor para todos.
 report-broken-site-panel-invalid-url-label = Insira uma URL válida
 report-broken-site-panel-missing-reason-label = Escolha um motivo
+report-broken-site-panel-blocked-trackers-label =
+    .label = Enviar URLs bloqueadas pela proteção contra rastreamento
+report-broken-site-panel-blocked-trackers-description = A proteção aprimorada contra rastreamento pode bloquear rastreadores e scripts que alguns sites precisam para funcionar corretamente.
