@@ -152,6 +152,27 @@ about-glean-metrics-table-header-type = Typ
 about-glean-metrics-table-header-value = Wert
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Aktionen
+about-glean-metrics-table-settings-button = Einstellungen
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Einstellungen der Metriktabelle
+about-glean-metrics-table-settings-category-general = Allgemein
+about-glean-metrics-table-settings-hide-empty-value-rows = Leere Wertezeilen ausblenden
+about-glean-metrics-table-settings-category-visualizations = Visualisierungen
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Beispiel
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogramm
+about-glean-metrics-table-settings-histograms-chart-max = Maximale Höhe des Diagramms
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Skalierte maximale Höhe
+about-glean-metrics-table-settings-category-visualizations-timeline = Zeitverlauf
+about-glean-metrics-table-settings-timelines-height = Höhe
+about-glean-metrics-table-settings-timelines-width = Breite
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Kreisradius
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y- Achse X-Versatz
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y- Achse Y-Versatz
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
 # This message sits alongside an input field, further describing its purpose.
