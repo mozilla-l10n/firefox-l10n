@@ -792,6 +792,22 @@ urlbar-result-menu-dont-show-market =
     .label = Mos shfaq sugjerime tregu
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Faleminderit për përshtypjet. S’do të shihni më sugjerime tregu.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Faleminderit për përshtypjet. S’do të shihni më këto sugjerime.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · në { $daysUntilStart } ditë
+       *[other] { $name } · në { $daysUntilStart } ditë
+    }
 
 ## Strings used for buttons in the urlbar
 
@@ -1127,6 +1143,8 @@ navbar-accessible =
     .aria-label = Lëvizje
 navbar-downloads =
     .label = Shkarkime
+navbar-overflow-2 =
+    .tooltiptext = Më tepër mjete
 navbar-overflow =
     .tooltiptext = Më tepër mjete…
 # Variables:
@@ -1248,6 +1266,7 @@ firefox-relay-offer-why-to-use-relay = Maskat tona të siguruara, të lehta për
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Krejt email-et dërguar te maskat e emal-eve tuaj do të përcillen te <strong>{ $useremail }</strong> (veç në vendosshi t’i bllokoni ato).
 firefox-relay-offer-legal-notice = Duke klikuar mbi “Përdor maskë email-i”, pajtoheni me <label data-l10n-name="tos-url">Kushte Shërbimi</label> dhe <label data-l10n-name="privacy-url">Shënim Privatësie</label>.
+firefox-relay-offer-legal-notice-1 = Duke u regjistruar dhe duke krijuar një maskë email-i”, pajtoheni me <label data-l10n-name="tos-url">Kushte Shërbimi</label> dhe <label data-l10n-name="privacy-url">Shënim Privatësie</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1313,3 +1332,29 @@ file-picker-crashed-show-in-folder =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = Përfundo ujdisjen
+onboarding-aw-finish-setup-button =
+    .label = Përfundo ujdisjen
+    .tooltiptext = Përfundoni ujdisjen e { -brand-short-name }-it
+
+## The urlbar trust panel
+
+trustpanel-etp-label-enabled = Mbrojtje e Thelluar Nga Gjurmimi është aktive
+trustpanel-etp-label-disabled = Mbrojtje e Thelluar Nga Gjurmimi është joaktive
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Mbrojtje e Thelluar Nga Gjurmimi: On për { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Mbrojtje e Thelluar Nga Gjurmimi: Off për { $host }
+trustpanel-etp-description-enabled = Nëse diçka duket se nuk punon në këtë sajt, provoni të çaktivizoni mbrojtjet.
+trustpanel-connection-label-secure = Lidhje e siguruar
+trustpanel-connection-label-insecure = Lidhje jo e siguruar
+trustpanel-description-enabled = Jeni i mbrojtur. Nëse vërejmë gjë, do t’ua bëjmë të ditur
+trustpanel-header-disabled = Keni mbyllur mbrojtjet
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-list-label-tracking-content = Lëndë gjurmimi

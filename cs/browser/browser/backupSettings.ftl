@@ -176,3 +176,9 @@ backup-file-encryption-state-label = Zašifrováno:
 backup-file-encryption-state-value-encrypted = Ano
 backup-file-encryption-state-value-not-encrypted = Ne
 backup-file-creation-device-label = Zařízení:
+backup-file-creation-date-label = Vytvořeno:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") }
+backup-file-how-to-restore-header = Jak obnovit:
+backup-file-download-moz-browser-button = Stáhnout
