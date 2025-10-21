@@ -19,7 +19,7 @@ backup-folder-name = Restaurer { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Sauvegarde_de_{ -brand-product-name }
-settings-data-backup-header = Sauvegarder
+settings-data-backup-header = Sauvegarde
 settings-data-backup-toggle = Gérer la sauvegarde
 settings-data-backup-trigger-button = Sauvegarder maintenant
 settings-data-backup-in-progress-button = Sauvegarde en cours
