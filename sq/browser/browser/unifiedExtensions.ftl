@@ -11,6 +11,11 @@
 unified-extensions-header-title = Zgjerime
 unified-extensions-manage-extensions =
     .label = Administroni zgjerime
+unified-extensions-discover-extensions =
+    .label = Zbuloni zgjerime
+unified-extensions-empty-reason-private-browsing-not-allowed = Keni zgjerime të instaluara, por jo të aktivizuara për dritare private
+unified-extensions-empty-reason-extension-not-enabled = Keni zgjerime të instaluara, por jo të aktivizuara
+unified-extensions-empty-content-explain-enable2 = Përzgjidhni “{ unified-extensions-manage-extensions.label }” që të aktivizohen te rregullimet.
 
 ## An extension in the main list
 
