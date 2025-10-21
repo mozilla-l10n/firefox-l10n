@@ -153,6 +153,18 @@ about-glean-metrics-table-header-type = სახეობა
 about-glean-metrics-table-header-value = მნიშვნელობა
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = მოქმედებები
+about-glean-metrics-table-settings-button = პარამეტრები
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = გაზომვების ცხრილის პარამეტრები
+about-glean-metrics-table-settings-category-general = ზოგადი
+about-glean-metrics-table-settings-hide-empty-value-rows = ცარიელმნიშვნელობიანი რიგების დამალვა
+about-glean-metrics-table-settings-category-visualizations = გამოსახულებები
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = მაგალითი
+about-glean-metrics-table-settings-category-visualizations-histogram = გრაფიკი
+about-glean-metrics-table-settings-histograms-chart-max = დიაგრამის სიმაღლე არაუმეტეს
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = დაყვანილი სიმაღლის ზღვრამდე
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = დახარისხება
 # This message sits alongside an input field, further describing its purpose.
