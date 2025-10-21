@@ -91,6 +91,11 @@ perplexity-callout-secondary-label-2 = Հասկացա
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Գրանցվել
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Պահեք ձեր ընտրյալ սնուցիչները  խնդրագոտում
+taskbar-tabs-social-callout-subtitle = Գործարկեք ձեր սոցիալական կայքերը հավելվածի նման՝ { -brand-short-name }-ով պաշտպանված, հարմարեցված պատուհանում։
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = Համաժամեցնել
