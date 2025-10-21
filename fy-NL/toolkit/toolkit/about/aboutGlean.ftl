@@ -170,6 +170,14 @@ about-glean-metrics-table-settings-histograms-chart-padding = Grafykopfolling
 about-glean-metrics-table-settings-histograms-left-padding = Ekstra linkeropfolling
 about-glean-metrics-table-settings-category-visualizations-timeline = Tiidline
 about-glean-metrics-table-settings-timelines-height = Hichte
+about-glean-metrics-table-settings-timelines-width = Breedte
+about-glean-metrics-table-settings-timelines-chart-padding = Grafykopfolling
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Sirkelstraal
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = X-offset Y-as
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y-offset Y-as
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filterje
 # This message sits alongside an input field, further describing its purpose.

@@ -1488,8 +1488,8 @@ trustpanel-blocker-header =
 
 trustpanel-blocker-section-header =
     { $count ->
-        [one] <span>{ $count }</span>Tracker auf dieser Website blockiert
-       *[other] <span>{ $count }</span>Tracker auf dieser Website blockiert
+        [one] <span>{ $count }</span> Tracker auf dieser Website blockiert
+       *[other] <span>{ $count }</span> Tracker auf dieser Website blockiert
     }
 trustpanel-blocker-description = { -brand-product-name } ist der Meinung, dass Unternehmen Ihnen weniger folgen sollten. Daher blockieren wir so viele wie möglich.
 trustpanel-blocked-header = { -brand-product-name } hat dies für Sie blockiert:
