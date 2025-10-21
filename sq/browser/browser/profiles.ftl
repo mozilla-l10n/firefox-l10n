@@ -26,12 +26,14 @@ profile-card =
 default-profile-name = Profili { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Profili origjinal
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = Përpunoni profil
 edit-profile-page-header = Përpunoni profilin tuaj
 edit-profile-page-profile-name-label = Emër profili
 edit-profile-page-theme-header-2 =
     .label = Temë
 edit-profile-page-explore-themes = Eksploroni më tepër tema
+edit-profile-page-desktop-shortcut-header = Krijo shkurtore desktopi
 edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
@@ -39,6 +41,14 @@ edit-profile-page-delete-button =
 edit-profile-page-avatar-selector-opener-link = Përpunoni
 avatar-selector-icon-tab = Ikonë
 avatar-selector-custom-tab = Vetjake
+avatar-selector-cancel-button =
+    .label = Anuloje
+avatar-selector-save-button =
+    .label = Ruaje
+avatar-selector-upload-file = Ngarkoni kartelë
+avatar-selector-drag-file = Ose tërhiqni këtu një kartelë
+avatar-selector-add-image = Shtoni figurë
+avatar-selector-crop = Qethe
 edit-profile-page-no-name = I vini emër këtij profili, për t’ju ndihmuar ta gjeni më vonë. Riemërtojeni kur të doni.
 edit-profile-page-duplicate-name = Emër profili tashmë në përdorim. Provoni me një emër të ri.
 edit-profile-page-profile-saved = U ruajt
@@ -87,6 +97,8 @@ profiles-light-theme = E çelët
 profiles-dark-theme = E errët
 # The default system theme
 profiles-system-theme = Sistem
+profiles-system-theme-title =
+    .title = Apliko temë sistemi
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = E verdhë kashte
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -101,6 +113,42 @@ profiles-ocean-theme-2 = Blu oqeani
 profiles-terracotta-theme-2 = Bojëtulle
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = E gjelbër myshku
+profiles-gray-theme = Gri
+profiles-gray-theme-title =
+    .title = Apliko temë gri
+profiles-yellow-theme = E verdhë
+profiles-yellow-theme-title =
+    .title = Apliko temë të verdhë
+profiles-orange-theme = Portokalli
+profiles-orange-theme-title =
+    .title = Apliko temë portokalli
+profiles-red-theme = E kuqe
+profiles-red-theme-title =
+    .title = Apliko temë të kuqe
+profiles-pink-theme = E trëndafiltë
+profiles-pink-theme-title =
+    .title = Apliko temë të trëndafiltë
+profiles-purple-theme = E purpur
+profiles-purple-theme-title =
+    .title = Apliko temë të purpur
+profiles-violet-theme = Vjollcë
+profiles-violet-theme-title =
+    .title = Apliko temë ngjyrëvjollcë
+profiles-blue-theme = Blu
+profiles-blue-theme-title =
+    .title = Apliko temë blu
+profiles-green-theme = E gjelbër
+profiles-green-theme-title =
+    .title = Apliko temë të gjelbër
+profiles-custom-theme-title =
+    .title = Apliko temë vetjake
+
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Shihni rregullime
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Hidhe tej
 
 ## Alternative text for default profile icons
 
@@ -110,12 +158,36 @@ briefcase-avatar-alt =
     .alt = Dosje
 flower-avatar-alt =
     .alt = Lule
+folder-avatar-alt =
+    .alt = Dosje
+hammer-avatar-alt =
+    .alt = Çekiç
 heart-avatar-alt =
     .alt = Zemër
+heart-rate-avatar-alt =
+    .alt = Puls
+leaf-avatar-alt =
+    .alt = Gjethe
+lightbulb-avatar-alt =
+    .alt = Llambë
+makeup-avatar-alt =
+    .alt = Grim
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Mesazh
+musical-note-avatar-alt =
+    .alt = Notë muzikore
+palette-avatar-alt =
+    .alt = Paletë
 shopping-avatar-alt =
     .alt = Shportë blerjesh
 star-avatar-alt =
     .alt = Yll
+custom-avatar-alt =
+    .alt = Avatar i përshtatur
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamant
 
 ## Tooltips for default avatar icons
 
@@ -125,3 +197,4 @@ flower-avatar = Lule
 heart-avatar = Zemër
 shopping-avatar = Shportë blerjesh
 star-avatar = Yll
+profiles-appmenu-callout-tour-primary-button = Tregomëni se si

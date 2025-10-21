@@ -17,6 +17,12 @@ webext-perms-header-unsigned-with-perms = Të shtohet { $extension }? Ky zgjerim
 webext-perms-sideload-header = { $extension } u shtua
 webext-perms-optional-perms-header = { $extension } lyp leje shtesë.
 
+## Headers used in the webextension permissions dialog, inside the content.
+
+webext-perms-header-required-perms = Leje të domosdoshme:
+webext-perms-header-optional-settings = Rregullime opsionale:
+webext-perms-header-update-required-perms = Leje të reja të domosdoshme:
+
 ##
 
 webext-perms-add =

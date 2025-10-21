@@ -138,6 +138,27 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Që të regjistroni një profil funksionimi dhe të shihni krejt matjet e
     regjistruara, ju lutemi, përdorni <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategori
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Emër
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Lloj
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Vlerë
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Veprime
+about-glean-metrics-table-settings-button = Rregullime
+about-glean-metrics-table-settings-category-general = Të përgjithshme
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Shembull
+about-glean-metrics-table-settings-timelines-height = Lartësi
+about-glean-metrics-table-settings-timelines-width = Gjerësi
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Rreze rrethi
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtër
+about-glean-button-load-value = Ngarko
 about-glean-about-data-explanation =
     Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.
