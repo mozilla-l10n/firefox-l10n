@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Shfletim Privat
        *[other] Shfletim Privat { -brand-full-name }
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Shfletim Privat
 
 ##
 
@@ -209,6 +212,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Shfaqi më rrallë
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Mos shfaq sugjerime moti
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Hape menunë
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Faleminderit për përshtypjet tuaja
@@ -612,6 +618,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Bëni kërkim, ose jepni adresë
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Jepni adresë
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -691,6 +701,8 @@ urlbar-result-action-visit = Vizitojeni
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Kaloni te Skeda · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Grup i paemër
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Vizitojeni që nga e papastra
 # Directs a user to press the Tab key to perform a search with the specified
@@ -739,6 +751,47 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> në { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> në { $city }, { $region }, { $country }
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Shfaq sugjerime
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Jo tani
+urlbar-result-realtime-opt-in-dismiss = Hidhe tej
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Mos i shfaq këto sugjerime
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Mos shfaq sugjerime tregu
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Faleminderit për përshtypjet. S’do të shihni më sugjerime tregu.
 
 ## Strings used for buttons in the urlbar
 
@@ -766,11 +819,15 @@ urlbar-searchmode-actions =
     .label = Veprime
 urlbar-searchmode-exit-button =
     .tooltiptext = Mbylle
+urlbar-searchmode-default =
+    .tooltiptext = Motor parazgjedhje kërkimesh
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Këtë herë kërko me:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Parametra Kërkimi
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = I ri
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
