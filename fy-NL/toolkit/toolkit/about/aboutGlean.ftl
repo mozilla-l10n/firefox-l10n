@@ -157,6 +157,19 @@ about-glean-metrics-table-settings-button = Ynstellingen
 # Settings for the metrics table and its visualizations in about:glean
 about-glean-metrics-table-settings-title = Statistyktabelynstellingen
 about-glean-metrics-table-settings-category-general = Algemien
+about-glean-metrics-table-settings-hide-empty-value-rows = Regels mei lege wearden ferstopje
+about-glean-metrics-table-settings-category-visualizations = Fisualisaasjes
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Foarbyld
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Maksimale hichte diagram
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Skealde maksimumhichte
+about-glean-metrics-table-settings-histograms-box-padding = Box-opfolling
+about-glean-metrics-table-settings-histograms-chart-padding = Grafykopfolling
+about-glean-metrics-table-settings-histograms-left-padding = Ekstra linkeropfolling
+about-glean-metrics-table-settings-category-visualizations-timeline = Tiidline
+about-glean-metrics-table-settings-timelines-height = Hichte
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filterje
 # This message sits alongside an input field, further describing its purpose.
