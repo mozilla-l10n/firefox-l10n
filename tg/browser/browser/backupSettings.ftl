@@ -32,6 +32,11 @@ settings-data-backup-last-backup-location-edit = Таҳрир кардан…
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Номи файл: { $fileName }
+settings-data-backup-restore-header = Маълумоти худро барқарор созед
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-choose = Файли нусхаи эҳтиётиро интихоб кунед…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
