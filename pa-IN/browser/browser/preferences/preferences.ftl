@@ -1196,6 +1196,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = ...ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+    .accesskey = X
+    .description = ਤੁਸੀਂ ਅਜਿਹੀਆਂ ਸਾਈਟਾਂ ਦੇ ਸਕਦੇ ਹੋ, ਜਿੰਨ੍ਹਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਹਮੇਸ਼ਾਂ ਦੇਣੀ ਹੈ ਜਾਂ ਨਹੀਂ ਦੇਣੀ ਹੈ।
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1552,6 +1556,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } ਕੋਲ ਡਿਸਕ ਥਾਂ ਖਤਮ ਹੋ ਗਈ ਹੈ।</strong> ਵੈੱਬਸਾਈਟ ਸਮੱਗਰੀਆਂ ਠੀਕ ਤਰ੍ਹਾਂ ਦਿਖਾਈ ਨਹੀਂ ਵੀ ਦੇ ਸਕਦੀਆਂ ਹਨ। ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ > ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ > ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟੇ ਵਿੱਚ ਸੰਭਾਲੇ ਡਾਟੇ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹੋ।
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } ਲਈ ਡਿਸਕ ਥਾਂ ਭਰ ਗਈ ਹੈ।</strong> ਵੈਬਸਾਈਟ ਸਮੱਗਰੀ ਸ਼ਾਇਦ ਠੀਕ ਤਰ੍ਹਾਂ ਦਿਖਾਈ ਨਾ ਜਾ ਸਕੇ। ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਬਿਹਤਰ ਤਜਰਬੇ ਲਈ ਆਪਣੀ ਡਿਸਕ ਦੀ ਵਰਤੋਂ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਲਈ “ਹੋਰ ਜਾਣੋ” ‘ਤੇ ਜਾਓ।
+certs-description2 =
+    .label = ਸਰਟੀਫ਼ਿਕੇਟ
+    .description = ਸਰਟੀਫ਼ਿਕੇਟ ਦੀ ਸੰਰਚਨਾ ਕਰੋ, ਜੋ ਕਿ { -brand-short-name } ਪਰਮਾਣੀਕਰਨ ਲਈ ਵਰਤਦਾ ਹੈ।
 
 ## Privacy Section - HTTPS-Only
 
