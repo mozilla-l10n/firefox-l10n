@@ -32,6 +32,7 @@ edit-profile-page-profile-name-label = Nomine del profilo
 edit-profile-page-theme-header-2 =
     .label = Thema
 edit-profile-page-explore-themes = Explorar altere themas
+edit-profile-page-desktop-shortcut-header = Crear vias breve de scriptorio
 edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
