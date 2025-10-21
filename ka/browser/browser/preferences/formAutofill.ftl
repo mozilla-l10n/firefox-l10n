@@ -62,7 +62,7 @@ autofill-address-street = მისამართი
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
-autofill-address-neighborhood = სამეზობლო
+autofill-address-neighborhood = უბანი
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-village-township = სოფელი ან დაბა
 autofill-address-island = კუნძული
