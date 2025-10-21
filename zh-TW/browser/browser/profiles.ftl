@@ -26,6 +26,7 @@ profile-card =
 default-profile-name = 設定檔 { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = 原始設定檔
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = 編輯設定檔
 edit-profile-page-header = 編輯您的設定檔
 edit-profile-page-profile-name-label = 設定檔名稱
