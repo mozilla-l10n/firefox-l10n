@@ -62,7 +62,7 @@ autofill-address-street = Dirección
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
-autofill-address-neighborhood = Vecindad
+autofill-address-neighborhood = Barrio
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-village-township = Pueblo o municipio
 autofill-address-island = Isla
