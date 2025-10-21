@@ -94,8 +94,6 @@ restore-from-backup-header = 恢复数据
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = 此操作将使用 { DATETIME($date, timeStyle: "short", dateStyle: "short") } 的备份替换 { -brand-short-name } 当前所有数据。
-restore-from-backup-support-link =
-    .message = 选择要恢复的内容
 restore-from-backup-filepicker-label = 备份文件
 restore-from-backup-filepicker-title = 选择备份文件：
 restore-from-backup-file-choose-button =
@@ -178,7 +176,6 @@ password-rules-a11y-warning =
 
 disable-backup-encryption-header = 移除密码保护
 disable-backup-encryption-description = 将不再备份您保存的密码、付款信息、Cookie。
-disable-backup-encryption-support-link = 备份的内容
 disable-backup-encryption-cancel-button = 取消
 disable-backup-encryption-confirm-button = 移除密码
 
