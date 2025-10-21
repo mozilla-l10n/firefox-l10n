@@ -336,3 +336,7 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Кушодани гурӯҳ дар равзанаи нав
+
+## Split View
+
+tab-context-badge-new = Нав

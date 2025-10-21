@@ -18,3 +18,46 @@ settings-data-change-password = Иваз кардани ниҳонвожа…
 
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Ҷойгиршавӣ
+turn-on-scheduled-backups-encryption-create-password-label = Ниҳонвожа
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Ниҳонвожаро такрор кунед
+turn-on-scheduled-backups-cancel-button = Бекор кардан
+turn-on-scheduled-backups-confirm-button = Фаъол кардани нусхаи эҳтиётӣ
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-support-link = Маълумоти бештар
+turn-off-scheduled-backups-cancel-button = Бекор кардан
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-support-link = Маълумоти бештар
+enable-backup-encryption-create-password-label = Ниҳонвожа
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Ниҳонвожаро такрор кунед
+enable-backup-encryption-cancel-button = Бекор кардан
+enable-backup-encryption-confirm-button = Нигоҳ доштан
+change-backup-encryption-header = Иваз кардани ниҳонвожаи нусхаи эҳтиётӣ
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Талаботи ниҳонвожа
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-cancel-button = Бекор кардан
+disable-backup-encryption-confirm-button = Тоза кардани ниҳонвожа
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-encryption-state-value-encrypted = Ҳа
+backup-file-encryption-state-value-not-encrypted = Не
+backup-file-creation-device-label = Дастгоҳ:
+backup-file-creation-date-label = Санаи эҷод:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-download-moz-browser-button = Боргирӣ кардан

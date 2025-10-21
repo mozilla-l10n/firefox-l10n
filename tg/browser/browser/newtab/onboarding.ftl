@@ -482,6 +482,8 @@ desktop-to-mobile-qr-code-alt =
 
 create-backup-select-tile-button-label = Интихоб кардан
 create-backup-back-button-label = Ба қафо
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Ҳамаи маълумот
 fx-backup-opt-in-create-password-label = Ниҳонвожаро ворид намоед
 fx-backup-opt-in-confirm-btn-label = Идома додан
 fx-backup-opt-in-cancel-btn-label = Ба қафо
@@ -508,3 +510,12 @@ restored-from-backup-success-no-checklist-primary-button = Идома додан
 restored-from-backup-error-title = Ҳм, дар файли нусхаи эҳтиётии шумо мушкилӣ ба миён омад.
 restored-from-backup-error-subtitle = Агар шумо барои «{ -brand-short-name }» файли нусхаи эҳтиётии дигар дошта бошед, кӯшиш кунед, ки маълумотро аз он файл барқарор созед. <a data-l10n-name="restore-problems">Ҳанӯз мушкилӣ мекашед?</a>
 restored-from-backup-error-primary-button = Пӯшидан
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = Шахсӣ
+onboarding-personalization-use-case-school-option = Омӯзишӣ
+onboarding-personalization-use-case-work-option = Корӣ
+onboarding-personalization-motivation-productivity-option = Самаранокӣ
+onboarding-personalization-motivation-other-option = Дигар

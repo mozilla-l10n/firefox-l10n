@@ -130,6 +130,12 @@ about-glean-metrics-table-header-type = Навъ
 about-glean-metrics-table-header-value = Қимат
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Амалҳо
+about-glean-metrics-table-settings-button = Танзимот
+about-glean-metrics-table-settings-category-general = Умумӣ
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Мисол
+about-glean-metrics-table-settings-category-visualizations-histogram = Гистограмма
+about-glean-metrics-table-settings-category-visualizations-timeline = Хати вақт
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Поло
 # This message sits alongside an input field, further describing its purpose.
