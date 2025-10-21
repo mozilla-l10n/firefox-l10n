@@ -152,6 +152,31 @@ about-glean-metrics-table-header-type = Típus
 about-glean-metrics-table-header-value = Érték
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Műveletek
+about-glean-metrics-table-settings-button = Beállítások
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Metrikatáblázat beállításai
+about-glean-metrics-table-settings-category-general = Általános
+about-glean-metrics-table-settings-hide-empty-value-rows = Üres értéksorok elrejtése
+about-glean-metrics-table-settings-category-visualizations = Vizualizációk
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Példa
+about-glean-metrics-table-settings-category-visualizations-histogram = Hisztogram
+about-glean-metrics-table-settings-histograms-chart-max = Grafikon legnagyobb magassága
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Átméretezett legnagyobb magasság
+about-glean-metrics-table-settings-histograms-box-padding = Doboz kitöltése
+about-glean-metrics-table-settings-histograms-chart-padding = Diagram kitöltése
+about-glean-metrics-table-settings-histograms-left-padding = További bal oldali kitöltés
+about-glean-metrics-table-settings-category-visualizations-timeline = Idővonal
+about-glean-metrics-table-settings-timelines-height = Magasság
+about-glean-metrics-table-settings-timelines-width = Szélesség
+about-glean-metrics-table-settings-timelines-chart-padding = Diagram kitöltése
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Kör sugara
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y-tengely X eltolása
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y-tengely Y eltolása
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Szűrő
 # This message sits alongside an input field, further describing its purpose.
