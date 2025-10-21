@@ -56,6 +56,10 @@ genai-menu-remove-generic =
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Hiqe { $provider }
+genai-menu-remove-sidebar =
+    .label = Hiqe nga Anështylla
+genai-menu-new-badge = I ri
+genai-menu-summarize-page = Përmblidhe Faqen
 genai-input-ask-generic =
     .placeholder = Pyetni robot IA fjalosjesh…
 # $provider (string) - name of the provider
@@ -80,6 +84,8 @@ genai-shortcuts-selected-warning =
         }
 genai-shortcuts-hide =
     .label = Fshihe shkurtoren e robotit të fjalosjeve
+genai-menu-choose-chatbot =
+    .label = Zgjidhni një Robot Fjalosjesh IA
 
 ## Chatbot header
 
@@ -103,6 +109,10 @@ genai-options-hide-shortcut =
     .label = Fshihe shkurtoren, kur përzgjidhet tekst
 genai-options-about-chatbot =
     .label = Rreth robotësh IA fjalosjeje në { -brand-short-name }
+
+## Chatbot footer
+
+genai-page-button-summarize = Përmblidhe faqen
 
 ## Chatbot onboarding
 
@@ -136,6 +146,7 @@ genai-onboarding-select-primary = Filloni të bisedoni
 genai-chatbot-contextual-title = Përdorni një robot IA fjalosjesh pa ndërruar skeda
 genai-chatbot-contextual-subtitle = Fjalosje dhe shfletim krah për krah, kur shtoni një robot IA fjalosjesh te anështylla e  { -brand-short-name }-it.
 genai-chatbot-contextual-button = Zgjidhni një robot fjalosjesh
+genai-chatbot-summarize-button = Përmblidhe faqen
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -181,3 +192,13 @@ link-preview-reading-time =
         [one] { $range } minutë kohë leximi
        *[other] { $range } minuta kohë leximi
     }
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Vizitoni lidhjen
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Diçka shkoi ters.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Riprovoni
+# Onboarding card See a preview button
+link-preview-onboarding-button = Shihni një paraparje
+# Onboarding card Close button
+link-preview-onboarding-close = Mbylle

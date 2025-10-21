@@ -22,6 +22,14 @@ webext-perms-optional-perms-header = { $extension } lyp leje shtesë.
 webext-perms-header-required-perms = Leje të domosdoshme:
 webext-perms-header-optional-settings = Rregullime opsionale:
 webext-perms-header-update-required-perms = Leje të reja të domosdoshme:
+webext-perms-header-optional-required-perms = Leje e re:
+webext-perms-header-data-collection-is-none = Grumbullim të dhënash:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = Grumbullim i ri i domosdoshëm të dhënash:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = Grumbullim i ri të dhënash:
 
 ##
 
