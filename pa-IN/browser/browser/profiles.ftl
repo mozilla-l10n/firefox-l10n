@@ -26,12 +26,14 @@ profile-card =
 default-profile-name = ਪਰੋਫਾਈਲ { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = ਅਸਲੀ ਪਰੋਫਾਈਲ
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = ਪਰੋਫਾਇਲ ਨੂੰ ਸੋਧੋ
 edit-profile-page-header = ਆਪਣੇ ਪਰੋਫਾਈਲ ਵਿੱਚ ਸੋਧ ਕਰੋ
 edit-profile-page-profile-name-label = ਪਰੋਫਾਈਲ ਦਾ ਨਾਂ
 edit-profile-page-theme-header-2 =
     .label = ਥੀਮ
 edit-profile-page-explore-themes = ਹੋਰ ਥੀਮ ਦੀ ਪੜਤਾਲ ਕਰੋ
+edit-profile-page-desktop-shortcut-header = ਡੈਸਕਟਾਪ ਸ਼ਾਰਟਕੱਟ ਬਣਾਓ
 edit-profile-page-avatar-header-2 =
     .label = ਅਵਤਾਰ
 edit-profile-page-delete-button =
@@ -259,11 +261,17 @@ custom-avatar-crop-area =
     .aria-label = ਕਰੋਪ ਕਰਨ ਵਾਲੇ ਖੇਤਰ ਨੂੰ ਠੀਕ ਕਰੋ
 custom-avatar-drag-handle =
     .aria-label = ਕਰੋਪ ਕਰਨ ਵਾਲੇ ਖੇਤਰ ਦਾ ਆਕਾਰ ਬਦਲੋ
+profiles-appmenu-callout-tour-title = ਤੁਹਾਡਾ ਨਵਾਂ ਪਰੋਫ਼ਾਇਲ ਹੁਣ ਵਰਤਣ ਲਈ ਤਿਆਰ ਹੈ
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = ☰ ਮੇਨੂ ਵਿੱਚ, ਹੋਰ ਪਰੋਫ਼ਾਇਲ ਬਣਾਉਣ ਲਈ ਆਪਣੇ ਪਰੋਫ਼ਾਇਲ ਦੇ ਨਾਂ ਨੂੰ ਛੂਹੋ, ਇਸ ਨੂੰ ਸੋਧੋ ਜਾਂ ਆਪਣੀਆਂ ਡਿਜ਼ਿਟਲ ਜ਼ਿੰਦਗੀਆਂ ਵਿਚਾਲੇ ਬਦਲੋ।
+profiles-appmenu-callout-tour-primary-button = ਮੈਨੂੰ ਦੇਖਿਓ ਕਿਵੇਂ
 barbell-avatar = ਬਾਰਬੈੱਲ
 bike-avatar = ਸਾਈਕਲ
 
 ## Tooltips for default avatar icons
 
+barbell-avatar-tooltip =
+    .tooltiptext = ਬਾਰਬੈਲ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
 bike-avatar-tooltip =
     .tooltiptext = ਸਾਈਕਲ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
 book-avatar-tooltip =
