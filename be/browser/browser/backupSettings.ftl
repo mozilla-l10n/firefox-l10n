@@ -23,6 +23,7 @@ settings-data-backup-last-backup-location-edit = Рэдагаваць…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
+turn-on-scheduled-backups-header = Уключыць рэзервовае капіяванне
 turn-on-scheduled-backups-encryption-create-password-label = Пароль
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Паўтарыце пароль
@@ -33,6 +34,12 @@ turn-on-scheduled-backups-cancel-button = Скасаваць
 turn-off-scheduled-backups-support-link = Падрабязней
 turn-off-scheduled-backups-cancel-button = Скасаваць
 turn-off-scheduled-backups-confirm-button = Выключыць і выдаліць рэзервовую копію
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-password-label = Пароль
+restore-from-backup-cancel-button = Скасаваць
+restore-from-backup-confirm-button = Аднавіць і перазапусціць
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 

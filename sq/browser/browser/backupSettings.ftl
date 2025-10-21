@@ -71,3 +71,91 @@ restore-from-backup-file-choose-button =
 restore-from-backup-password-label = Fjalëkalim
 restore-from-backup-password-description = Kjo shkyç kopjeruajtjen tuaj të fshehtëzuar.
 restore-from-backup-cancel-button = Anuloje
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Kjo kartelë s’funksionon
+    .message = Pati një problem me kartelën tuaj kopjeruajtje. Zgjidhni një kartelë tjetër dhe riprovoni.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Kjo kartelë s’funksionon
+    .message = Kartela që zgjodhët, s’përputhen me këtë version të { -brand-short-name }-it. Zgjidhni një kartelë tjetër dhe riprovoni.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Kjo kartelë s’funksionon
+    .message = Kartelat që zgjodhët, s’qe krijuar nga { -brand-short-name }-i. Zgjidhni një kartelë tjetër dhe riprovoni.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Diç shkoi ters
+    .message = Pati një problem me procesin e kopjeruajtjes për { -brand-short-name }-in. Ju lutemi, riprovoni, ose rinisni { -brand-short-name }-in.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Kopjeruani të dhënat tuaja rezervat
+enable-backup-encryption-support-link = Mësoni më tepër
+enable-backup-encryption-create-password-label = Fjalëkalimi
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Rijepeni fjalëkalimin
+enable-backup-encryption-cancel-button = Anuloje
+enable-backup-encryption-confirm-button = Ruaje
+change-backup-encryption-header = Ndryshoni fjalëkalim kopjeruajtjeje
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Domosdoshmëri fjalëkalimi
+password-rules-length-description = Të paktën 8 shenja
+password-rules-email-description = Jo adresën tuaj email
+password-rules-disclaimer = Jini të parrezik — mos ripërdorni fjalëkalime. Shihni më tepër ndihmëza se si të <a data-l10n-name="password-support-link">krijohen fjalëkalime të fuqishëm</a>.
+password-validity-has-email = S’mund të jetë një adresë email
+password-validity-do-not-match = Fjalëkalimet nuk përputhen
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Sukses
+password-rules-a11y-warning =
+    .alt = Sinjalizim
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Hiq mbrojtje me fjalëkalim
+disable-backup-encryption-support-link = Ç’do të kopjeruhet?
+disable-backup-encryption-cancel-button = Anuloje
+disable-backup-encryption-confirm-button = Hiqe fjalëkalimin
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Diç shkoi ters. Ju lutemi, riprovoni.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-path-label = Kartelë kopjeruajtjeje:
+backup-file-encryption-state-label = Fshehtëzuar:
+backup-file-encryption-state-value-encrypted = Po
+backup-file-encryption-state-value-not-encrypted = Jo
+backup-file-creation-device-label = Pajisje:
+backup-file-creation-date-label = Krijuar më:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-other-browser-restore-step-1 = Shkarkoni dhe instaloni { -brand-short-name }-in
+backup-file-download-moz-browser-button = Shkarkoje
