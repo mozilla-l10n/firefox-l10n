@@ -78,15 +78,6 @@ genai-shortcuts-selected-warning-generic =
         { $selectionLength ->
            *[other] Избрали сте около { $selectionLength } знака. Към роботът могат да бъдат изпратени около { $maxLength } знака.
         }
-# $provider (string) - name of the provider
-# $selectionLength (number) - selected text length
-# $maxLength (number) - max length of what can be selected
-genai-shortcuts-selected-warning =
-    .heading = Роботът за разговори с ИИ няма да получи всичко избрано
-    .message =
-        { $selectionLength ->
-           *[other] Избрали сте около { $selectionLength } знака. Към { $provider } могат да бъдат изпратени около { $maxLength } знака.
-        }
 genai-shortcuts-hide =
     .label = Скриване на прекия път към чат-бота
 genai-menu-choose-chatbot =
