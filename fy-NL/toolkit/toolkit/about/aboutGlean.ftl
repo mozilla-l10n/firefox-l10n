@@ -153,6 +153,10 @@ about-glean-metrics-table-header-type = Type
 about-glean-metrics-table-header-value = Wearde
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Aksjes
+about-glean-metrics-table-settings-button = Ynstellingen
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Statistyktabelynstellingen
+about-glean-metrics-table-settings-category-general = Algemien
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filterje
 # This message sits alongside an input field, further describing its purpose.
