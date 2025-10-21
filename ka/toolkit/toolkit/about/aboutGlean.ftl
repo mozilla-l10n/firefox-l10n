@@ -165,6 +165,19 @@ about-glean-metrics-table-settings-category-visualizations-histogram = გრა
 about-glean-metrics-table-settings-histograms-chart-max = დიაგრამის სიმაღლე არაუმეტეს
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = დაყვანილი სიმაღლის ზღვრამდე
+about-glean-metrics-table-settings-histograms-box-padding = შეწეული კიდეები
+about-glean-metrics-table-settings-histograms-chart-padding = დიაგრამის კიდეები
+about-glean-metrics-table-settings-histograms-left-padding = დამატებითი მარცხენა კიდე
+about-glean-metrics-table-settings-category-visualizations-timeline = დროის სკალა
+about-glean-metrics-table-settings-timelines-height = სიმაღლე
+about-glean-metrics-table-settings-timelines-width = სიგანე
+about-glean-metrics-table-settings-timelines-chart-padding = დიაგრამის კიდეები
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = წრის რადიუსი
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y-ღერძის X-წანაცვლება
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y-ღერძის Y-წანაცვლება
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = დახარისხება
 # This message sits alongside an input field, further describing its purpose.
