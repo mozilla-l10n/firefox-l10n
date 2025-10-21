@@ -94,6 +94,8 @@ restore-from-backup-header = 恢复数据
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = 此操作将使用 { DATETIME($date, timeStyle: "short", dateStyle: "short") } 的备份替换 { -brand-short-name } 当前所有数据。
+restore-from-backup-support-link =
+    .message = 选择要恢复的内容
 restore-from-backup-filepicker-label = 备份文件
 restore-from-backup-filepicker-title = 选择备份文件：
 restore-from-backup-file-choose-button =
@@ -114,3 +116,104 @@ restore-from-backup-restoring-button = 正在恢复…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = 密码错误。<a data-l10n-name="incorrect-password-support-link">仍有问题？</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = 文件无效
+    .message = 您的备份文件存在问题，请选择其他文件并重试。
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = 文件无效
+    .message = 您选择的文件与此版本 { -brand-short-name } 不兼容，请选择其他文件并重试。
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = 文件无效
+    .message = 您选择的文件并非由 { -brand-short-name } 创建，请选择其他文件并重试。
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } 无法进行恢复
+    .message = 请重新启动 { -brand-short-name }，并再次尝试恢复备份。
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = 出了点问题
+    .message = { -brand-short-name } 备份过程中出现问题，请重试或尝试重启 { -brand-short-name }。
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = 备份敏感数据
+enable-backup-encryption-description = 备份您的密码、付款信息、Cookie，并以加密来保护数据安全。
+enable-backup-encryption-support-link = 详细了解
+enable-backup-encryption-create-password-label = 密码
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = 再次输入密码
+enable-backup-encryption-cancel-button = 取消
+enable-backup-encryption-confirm-button = 保存
+change-backup-encryption-header = 更改备份密码
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = 密码要求
+password-rules-length-description = 至少 8 个字符
+password-rules-email-description = 不可以与邮箱地址相同
+password-rules-disclaimer = 安全无小事，请勿复用密码。查看更多<a data-l10n-name="password-support-link">创建高强度密码的技巧</a>。
+password-validity-has-email = 不可以与邮箱地址相同
+password-validity-do-not-match = 两次输入的密码不一致
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = 成功
+password-rules-a11y-warning =
+    .alt = 警告
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = 移除密码保护
+disable-backup-encryption-description = 将不再备份您保存的密码、付款信息、Cookie。
+disable-backup-encryption-support-link = 备份的内容
+disable-backup-encryption-cancel-button = 取消
+disable-backup-encryption-confirm-button = 移除密码
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = 您的密码不符合要求，请尝试其他密码。
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = 出了点问题，请再试。
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } 已准备好恢复
+backup-file-title = 恢复 { -brand-short-name }
+backup-file-intro = 找回熟悉的浏览体验，并恢复所有书签、历史记录等数据。<a data-l10n-name="backup-file-support-link">详细了解</a>
+backup-file-path-label = 备份文件：
+backup-file-encryption-state-label = 加密：
+backup-file-encryption-state-value-encrypted = 是
+backup-file-encryption-state-value-not-encrypted = 否
+backup-file-creation-device-label = 设备：
+backup-file-creation-date-label = 创建时间：
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") }
+backup-file-how-to-restore-header = 恢复方法：
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = 打开应用程序菜单 ☰，前往“设置”>“同步”
+backup-file-moz-browser-restore-step-2 = 点击“选择备份文件”并选择此文件
+backup-file-moz-browser-restore-step-3 = 按照指引，重新启动 { -brand-short-name }
+backup-file-other-browser-restore-step-1 = 下载并安装 { -brand-short-name }
+backup-file-download-moz-browser-button = 下载
