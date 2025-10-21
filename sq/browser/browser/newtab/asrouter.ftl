@@ -68,6 +68,8 @@ cfr-doorhanger-bookmark-fxa-link-text = Njëkohësoni faqerojtës që tani…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Buton mbylljeje
     .title = Mbylle
+fxa-adoption-addresses-backup-title = Le të kopjeruajmë adresat që keni ruajtur
+fxa-adoption-primary-button-label = Regjistrohuni
 
 ## Protections panel
 
@@ -225,6 +227,13 @@ fox-doodle-pin-secondary = Jo tani
 set-default-pdf-handler-headline = <strong>PDF-të tuaja tanimë hapen në { -brand-short-name }.</strong> Përpunoni ose nënshkruani formularë drejt e në shfletuesin tuaj. Për ta ndryshuar, kërkoni për  “PDF” te rregullimet.
 set-default-pdf-handler-primary = E mora vesh
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-primary-cta =
+    .label = Vëre si parazgjedhje
+annotations-make-default-pdf-next =
+    .label = Pasuesi
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Pajisje e re e juaj në të ardhmen?
@@ -310,6 +319,8 @@ fxa-menu-message-close-button =
     .title = Mbylle
     .aria-label = Mbylleni
 fxa-menu-message-sign-up-button = Regjistrohuni
+fxa-menu-message-sign-in-button = Hyni
+fxa-menu-message-sync-button = Fillo njëkohësim
 fxa-menu-message-sync-devices-primary-text = Njëkohësoni krejt pajisjet tuaja
 fxa-menu-message-sync-devices-secondary-text = Merrni në çast informacion tuajin — fjala vjen, faqerojtës dhe fjalëkalime — kudo që përdorni { -brand-short-name }-in.
 fxa-menu-message-sync-devices-collapsed-text = Njëkohësoni krejt pajisjet tuaja
@@ -342,3 +353,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Mbajeni shfletuesin tuaj të parapëlqyer, të përqendruar te privatësia, vetëm një klikim larg. Vëren { -brand-short-name }-in si shfletuesin tuaj parazgjedhje për hapje lidhjesh dhe fiksojeni te shtylla juaj e punëve.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mbajeni shfletuesin tuaj të parapëlqyer, të përqendruar te privatësia, vetëm një klikim larg. Vëren { -brand-short-name }-in si shfletuesin tuaj parazgjedhje për hapje lidhjesh dhe fiksojeni te shtylla juaj e punëve dhe menuja e Nisjes.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Fillojani
+windows-10-eos-sync-toast-secondary-label = Kujtoma më vonë
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-privacy-info-button = Shihni ç’është bllokuar
+windows-10-eos-callout-addons-title = Provoni shtesat: përmirësime të vockla, ndikim i madh
+windows-10-eos-callout-addons-primary-button = Shihni ç’kemi zgjedhur
+windows-10-eos-sync-callout-addons-title = Mos humbni shtesat tuaja, kur e përmirësoni që nga Windows 10.
+windows-10-eos-sync-callout-get-started-button = Fillojani

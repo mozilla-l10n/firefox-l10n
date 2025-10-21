@@ -468,3 +468,44 @@ dismiss-button-label = Hidhe tej
 sync-to-mobile-button-label = Njëkohësoje me celularin
 desktop-to-mobile-qr-code-alt =
     .aria-label = Kod QR për të shkarkuar { -brand-product-name } për celular
+
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-select-tile-button-label = Përzgjidhe
+create-backup-back-button-label = Mbrapsht
+create-backup-show-fewer =
+    .label = Shfaq më pak të tilla
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Ujdisje e kollajtë
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Faqerojtës, historik, rregullime, etj
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Mos përfshi fjalëkalime dhe pagesa
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Të pafshehtëzuara
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Krejt të dhënat
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Përfshin fjalëkalime dhe pagesa
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Fshehtëzuar me një fjalëkalim
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Ku doni të ruhet kopjeruajtja juaj?
+create-backup-screen-3-subtitle = I domosdoshëm për fshehtëzim të të dhënave tuaja. Depozitojeni në një vend që do ta mbani mend.
+fx-backup-opt-in-header = Zgjidhni vendndodhje kartele
+fx-backup-opt-in-create-password-label = Jepni fjalëkalimin
+fx-backup-opt-in-confirm-btn-label = Vazhdo
+fx-backup-opt-in-cancel-btn-label = Mbrapsht
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Kopjeruajtja juaj është vënë në plan
+fx-backup-confirmation-screen-close-button = Mbylle
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Ruaje dhe vazhdo
+restored-from-backup-success-with-checklist-secondary-button = Anashkalojeni këtë hap
+restored-from-backup-success-no-checklist-primary-button = Vazhdo
+restored-from-backup-error-title = Hëm, pati një problem me kartelën tuaj kopjeruajtje.
+restored-from-backup-error-primary-button = Mbylle

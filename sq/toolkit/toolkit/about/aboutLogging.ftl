@@ -27,6 +27,8 @@ about-logging-no-log-modules = Asnjë
 about-logging-no-log-file = Asnjë
 about-logging-logging-preset-selector-text = Paracaktim regjistrimi:
 about-logging-with-profiler-stacks-checkbox = Aktivizo “stack traces” pëer mesazhe regjistrimi
+about-logging-menu =
+    .title = Mundësi të mëtejshme
 
 ## Logging presets
 
@@ -91,3 +93,14 @@ about-logging-upload-error = Ndodhi një gabim teksa ngarkohej profili: { $error
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Ndodhi një gabim teksa ruhej kartela: { $errorText }
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = Fshije
+about-logging-view-uploaded-profile = Shihni Profilin
+about-logging-delete-profile-confirm-title = Fshini Profil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Jeni i sigurt se doni të fshihet profili “{ $profileName }”? Kjo s’mund të zhbëhet.
+about-logging-deleting-profile = Po fshihet…
