@@ -144,6 +144,27 @@ about-glean-metrics-table-header-type = Typo
 about-glean-metrics-table-header-value = Valor
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Actiones
+about-glean-metrics-table-settings-button = Parametros
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Parametros del tabellas del statisticas
+about-glean-metrics-table-settings-category-general = General
+about-glean-metrics-table-settings-hide-empty-value-rows = Celar le lineas con valores vacue
+about-glean-metrics-table-settings-category-visualizations = Virtualisation
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Exemplo
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogramma
+about-glean-metrics-table-settings-histograms-chart-max = Altessa maxime de diagrammas
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Alterna maxime redimensionate
+about-glean-metrics-table-settings-histograms-box-padding = Margine del continitor
+about-glean-metrics-table-settings-histograms-chart-padding = Margine del diagramma
+about-glean-metrics-table-settings-histograms-left-padding = Margine additional a sinistra
+about-glean-metrics-table-settings-category-visualizations-timeline = Chronologia
+about-glean-metrics-table-settings-timelines-height = Altessa
+about-glean-metrics-table-settings-timelines-width = Largessa
+about-glean-metrics-table-settings-timelines-chart-padding = Margine del diagramma
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Radio del circulo
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtro
 # This message sits alongside an input field, further describing its purpose.
