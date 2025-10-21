@@ -33,6 +33,7 @@ edit-profile-page-profile-name-label = 設定檔名稱
 edit-profile-page-theme-header-2 =
     .label = 佈景主題
 edit-profile-page-explore-themes = 探索更多佈景主題
+edit-profile-page-desktop-shortcut-header = 建立桌面捷徑
 edit-profile-page-avatar-header-2 =
     .label = 圖示
 edit-profile-page-delete-button =

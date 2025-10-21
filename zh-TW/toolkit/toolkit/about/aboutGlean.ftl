@@ -93,6 +93,31 @@ about-glean-metrics-table-header-type = 類型
 about-glean-metrics-table-header-value = 值
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = 動作
+about-glean-metrics-table-settings-button = 選項
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = 指標表選項
+about-glean-metrics-table-settings-category-general = 一般
+about-glean-metrics-table-settings-hide-empty-value-rows = 隱藏值空白的列
+about-glean-metrics-table-settings-category-visualizations = 視覺化
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = 範例
+about-glean-metrics-table-settings-category-visualizations-histogram = 柱狀圖
+about-glean-metrics-table-settings-histograms-chart-max = 圖表最大高度
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = 縮放最大高度
+about-glean-metrics-table-settings-histograms-box-padding = 外框間距
+about-glean-metrics-table-settings-histograms-chart-padding = 圖表間距
+about-glean-metrics-table-settings-histograms-left-padding = 左邊的額外邊距
+about-glean-metrics-table-settings-category-visualizations-timeline = 時間軸
+about-glean-metrics-table-settings-timelines-height = 高度
+about-glean-metrics-table-settings-timelines-width = 寬度
+about-glean-metrics-table-settings-timelines-chart-padding = 圖表間距
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = 圓圈半徑
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y 軸的 X 位移
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y 軸的 Y 位移
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = 篩選條件
 # This message sits alongside an input field, further describing its purpose.
