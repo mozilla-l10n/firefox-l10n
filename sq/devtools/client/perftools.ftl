@@ -126,6 +126,8 @@ perftools-presets-graphics-label = Grafikë
 perftools-presets-graphics-description = Model për hetim të metash grafike në { -brand-shorter-name }.
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Model për hetim të metash audio dhe video nën { -brand-shorter-name }.
+perftools-presets-ml-label = Nxënie Nga Makinat
+perftools-presets-ml-description2 = Model për hetim të metash në nxënie nga makinat në { -brand-shorter-name }.
 perftools-presets-networking-label = Punim në rrjet
 perftools-presets-networking-description = Model për hetim të metash punimi në rrjet në { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).

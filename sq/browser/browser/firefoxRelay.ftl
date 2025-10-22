@@ -20,9 +20,12 @@ firefox-relay-get-unlimited-masks =
     .accesskey = A
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Mbroni adresën tuaj email:
+firefox-relay-opt-in-title-2 = Merrni një maskë falas email-i
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Përdor maskë { -relay-brand-name } email-i
+firefox-relay-use-mask-title-1 = Përdorni një maskë email-i
+firefox-relay-opt-in-subtitle-2 = Mbroni kutinë tuaj postare nga të padëshiruar
 firefox-relay-use-mask-title = Përdor maskë { -relay-brand-name } email-i
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Parandaloni mesazhe të padëshiruar, me maskë falas email-i
@@ -72,6 +75,8 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Merrni një maskë falas email-i
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Mbroni mesazhet tuaj nga mesazhe të padëshiruar, duke përdorur një <label data-l10n-name="firefox-relay-learn-more-url">maskë email-i</label> falas, që të fshihni adresën tuaj të njëmendtë email. Email-et prej <label data-l10n-name="firefox-fxa-and-relay-offer-domain">këtij sajti</label> prapë do të mbërrijnë te mesazhet tuaj, por me email-in tuaj fshehur.
+firefox-relay-and-fxa-popup-notification-first-sentence = Mbroni mesazhet tuaj nga mesazhe të padëshiruar, duke përdorur një <label data-l10n-name="firefox-relay-learn-more-url">maskë email-i { -relay-brand-name }</label> falas, që të fshihni adresën tuaj të njëmendtë email. Email-et prej <label data-l10n-name="firefox-fxa-and-relay-offer-domain">këtij sajti</label> prapë do të mbërrijnë te mesazhet tuaj, por me email-in tuaj fshehur.
+firefox-relay-offer-why-to-use-relay-1 = Mbroni mesazhet tuaj nga mesazhe të padëshiruar, duke përdorur një <label data-l10n-name="firefox-relay-learn-more-url">maskë email-i { -relay-brand-name }</label> falas, që të fshihni adresën tuaj të njëmendtë email. Email-et prej <label data-l10n-name="firefox-fxa-and-relay-offer-domain">këtij sajti</label> prapë do të mbërrijnë te mesazhet tuaj, por me email-in tuaj fshehur.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Që të përdorni një maskë email, së pari regjistrohuni për një llogari, ose bëni hyrjen te llogaria juaj
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Regjistrohuni
