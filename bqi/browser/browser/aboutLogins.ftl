@@ -295,6 +295,10 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = و من ٱووردن دووسمندیا کامل وابی
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] <span>رزما نۊ ٱوورده وابین:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-done = ٱنجوم وابی
 about-logins-import-dialog-error-title = ختا و من ٱووڌن دووسمندیا
 about-logins-import-dialog-error-file-format-title = موشکل فورمت فایل
