@@ -74,9 +74,12 @@ turn-on-scheduled-backups-confirm-button = Aktivizoni kopjeruajtjet
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Pati një problem me dosjen që përzgjodhët për kopjeruajtje. Zgjidhni tjetër dosje dhe riprovoni.
+backup-error-file-system = Pati një problem me dosjen që përzgjodhët për kopjeruajtje teksa bëhej një e tillë { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Të çaktivizohet kopjeruajtja?
+turn-off-scheduled-backups-description = Kjo fshin edhe krejt të dhënat tuaja të kopjeruajtura. S’mund të zhbëhet.
 turn-off-scheduled-backups-support-link = Mësoni më tepër
 turn-off-scheduled-backups-cancel-button = Anuloje
 turn-off-scheduled-backups-confirm-button = Çaktivizoje dhe fshije kopjeruajtjen
@@ -97,10 +100,16 @@ restore-from-backup-file-choose-button =
 restore-from-backup-password-label = Fjalëkalim
 restore-from-backup-password-description = Kjo shkyç kopjeruajtjen tuaj të fshehtëzuar.
 restore-from-backup-cancel-button = Anuloje
+restore-from-backup-confirm-button = Riktheje dhe rinise
+restore-from-backup-restoring-button = Po rikthehet…
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
 
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Fjalëkalim i pasaktë. <a data-l10n-name="incorrect-password-support-link">Ende keni probleme?</a>
 # The backup file (or specific data files within the backup file) could not be
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself
@@ -120,6 +129,11 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Kjo kartelë s’funksionon
     .message = Kartelat që zgjodhët, s’qe krijuar nga { -brand-short-name }-i. Zgjidhni një kartelë tjetër dhe riprovoni.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name }-i s’u rikthye dot
+    .message = Riniseni { -brand-short-name }-in dhe riprovoni të riktheni kopjeruajtjen tuaj.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
