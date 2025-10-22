@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Povolí automatické dopĺňanie adries.
 policy-AutofillCreditCardEnabled = Povolí automatické vypĺňanie spôsobov platby.
 policy-AutoLaunchProtocolsFromOrigins = Definuje zoznam externých protokolov, ktoré môžu byť použité z uvedených zdrojov bez vyzvania používateľa.
 policy-BackgroundAppUpdate2 = Povolí alebo zakáže aktualizácie na pozadí.
+policy-Backup = Zakáže zálohovanie alebo obnovu údajov profilu.
 policy-BlockAboutAddons = Zablokuje prístup ku správcovi doplnkov (about:addons).
 policy-BlockAboutConfig = Zablokuje prístup na stránku about:config.
 policy-BlockAboutProfiles = Zablokuje prístup na stránku about:profiles.
