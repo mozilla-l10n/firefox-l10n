@@ -86,6 +86,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Provoni t
 inactive-css-not-display-block-on-floated-fix = Provoni të hiqni <strong>float</strong> ose të shtoni <strong>display:block</strong>. { learn-more }
 inactive-css-only-non-grid-or-flex-item-fix = Provoni të ndryshoni vlerën e <strong>display</strong> të kontejnerit të elementit në diçka tjetër nga <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, apo <strong>inline-grid</strong>, ose të hiqni <strong>float</strong>. { learn-more }
 inactive-css-not-block-fix = Provoni të shtoni veti të tilla si <strong>display:block</strong>, ose <strong>float:left</strong>. { learn-more }
+inactive-css-not-block-container-fix = Provoni të shtoni <strong>display:block</strong>, <strong>display:inline-block</strong> ose <strong>display:flow-root</strong>. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = Provoni të shtoni <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> ose <strong>display:flow-root</strong>. { learn-more }
 inactive-css-not-floated-fix = Provoni të shtoni vetinë <strong>float</strong> me një vlerë tjetër nga <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Provoni të ujdisni vetinë e tij <strong>position</strong> si diçka tjetër nga <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Garantoni se po e shtoni vetinë te një element i zëvendësuar. { learn-more }
@@ -101,6 +103,7 @@ inactive-css-border-image-fix = Te elementi i tabelës mëmë, hiqni vetinë ose
 inactive-css-ruby-element-fix = Provoni të ndryshoni <strong>font-size</strong> të tekstit Ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Provoni të ulni numrin e rreshtave. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Shmangni ndarjen e lëndës së elementit, p.sh., duke hequr shtylla, ose duke përdorur <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Provoni të shtoni një vlerë <strong>display</strong> e cila krijon një kuadrat parësor, fjala vjen, <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong>, ose <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

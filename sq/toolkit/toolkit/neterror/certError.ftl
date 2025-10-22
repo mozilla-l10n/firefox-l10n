@@ -144,6 +144,7 @@ redirectLoop-title = Faqja nuk është ridrejtuar si duhet
 unknownSocketType-title = Përgjigje e papritur prej shërbyesit
 nssFailure2-title = Dështoi Lidhja e Siguruar
 csp-xfo-error-title = { -brand-short-name }-i S’mund Ta Hapë Këtë Faqe
+corruptedContentErrorv2-title = Gabim nga Lëndë e Dëmtuar
 corruptedContentError-title = Gabim nga Lëndë e Dëmtuar
 sslv3Used-title = S’arrihet të Lidhet Në Mënyrë të Siguruar
 inadequateSecurityError-title = Lidhja juaj s’është e siguruar

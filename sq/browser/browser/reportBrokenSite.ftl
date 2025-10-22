@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Njoftoni për sajt të dëmtuar
 report-broken-site-panel-header =
     .label = Njoftoni për sajt të dëmtuar
     .title = Njoftoni për sajt të dëmtuar
+report-broken-site-panel-learn-more-link = Mësoni më tepër
 report-broken-site-panel-intro = Ndihmoni të bëhet { -brand-product-name }-i më i mirë për këdo. { -vendor-short-name } i përdor informacionet që dërgoni për të ndrequr probleme sajti.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Ç’është dëmtuar?

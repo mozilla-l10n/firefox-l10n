@@ -78,6 +78,11 @@ add-engine-name-exists = Ai emër është përdorur tashmë. Ju lutemi, zgjidhni
 add-engine-no-name = Ju lutemi, shtoni një emër.
 add-engine-no-url = Ju lutemi, jepni një URL.
 add-engine-invalid-url = Ajo URL s’duket në rregull. Ju lutemi, kontrollojeni dhe riprovoni.
+add-engine-invalid-protocol = Ajo URL s’duket në rregull. Përdorni një URL që fillon me http, ose https.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Provoni të përfshini %s, në vend të termit për kërkim.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Provoni të përfshini %s, në vend të termit për kërkim.
 
 ## The following strings are used as labels for the dialog's buttons.
 
