@@ -107,6 +107,26 @@ about-glean-metrics-table-settings-button = Nastavenia
 about-glean-metrics-table-settings-title = Nastavenia tabuľky metrík
 about-glean-metrics-table-settings-category-general = Všeobecné
 about-glean-metrics-table-settings-hide-empty-value-rows = Skryť riadky s prázdnymi hodnotami
+about-glean-metrics-table-settings-category-visualizations = Vizualizácie
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Príklad
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Maximálna výška grafu
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Maximálna výška pri škálovaní
+about-glean-metrics-table-settings-histograms-box-padding = Odsadenie stĺpcov
+about-glean-metrics-table-settings-histograms-chart-padding = Odsadenie grafu
+about-glean-metrics-table-settings-histograms-left-padding = Dodatočné odsadenie vľavo
+about-glean-metrics-table-settings-category-visualizations-timeline = Časová os
+about-glean-metrics-table-settings-timelines-height = Výška
+about-glean-metrics-table-settings-timelines-width = Šírka
+about-glean-metrics-table-settings-timelines-chart-padding = Odsadenie grafu
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Polomer kruhu
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Horizontálny posun osi Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Vertikálny posun osi Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtrovať
 # This message sits alongside an input field, further describing its purpose.
