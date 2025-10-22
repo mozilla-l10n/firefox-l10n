@@ -249,9 +249,19 @@ tab-group-editor-color-selector2-gray = Gri
 tab-group-editor-color-selector2-red = E kuqe
     .title = E kuqe
 tab-group-description = { $tabGroupName } — Grup Skedash
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Të palosura
+tab-group-label-tooltip-expanded = { $tabGroupName } — Të shpalosura
+tab-group-preview-name =
+    .aria-label = Skeda në një grup të palosur
 tab-context-unnamed-group =
     .label = Grup i paemër
 tab-group-name-default = Grup i Paemër
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Listë skedash e hapur
+tab-group-preview-closed-description = Listë skedash e mbyllur
 
 ##
 
@@ -269,6 +279,8 @@ tab-context-move-tab-to-group =
            *[other] Add Tabs to Group
         }
     .accesskey = Shtoji Skedat te Grup
+tab-context-move-tab-to-group-saved-groups =
+    .label = Grupe të Mbyllur
 tab-group-editor-action-new-tab =
     .label = Skedë e re në grup
 tab-group-editor-action-new-window =
@@ -293,6 +305,16 @@ tab-context-ungroup-tab =
            *[other] Remove from Groups
         }
     .accesskey = H
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } më tepër
+       *[other] { $tabCount } më tepër
+    }
 
 ## Open/saved tab group context menu
 
@@ -318,3 +340,22 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Hape Grupin në Dritare të Re
+
+## Split View
+
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on tabs inside of a tab split view
+tabbrowser-tab-label-tab-split-view = Pamje krah për krah
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Shtoni pamje krah për krah
+    .accesskey = t
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Hape në Pamje Krah Për Krah
+    .accesskey = H
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Ndaje Pamjen Krah Për Krah
+    .accesskey = N
+tab-context-badge-new = E re
