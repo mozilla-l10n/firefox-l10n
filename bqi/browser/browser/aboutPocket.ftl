@@ -35,6 +35,7 @@ pocket-panel-signup-signup-email = نوم نویسی وا ایمیل
 
 ## about:pocket-home panel
 
+pocket-panel-home-welcome-back = خش ٱوۊڌین
 pocket-panel-home-discover-more = قلوه بنیرین
 pocket-panel-home-explore-more = جوستن
 

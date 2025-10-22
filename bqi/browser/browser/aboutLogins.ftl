@@ -299,6 +299,15 @@ about-logins-import-dialog-items-added2 =
     { $count ->
        *[other] <span>رزما نۊ ٱوورده وابین:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+       *[other] <span>و من ٱووڌنایی ک بیڌسووݩ ورۊرسۊوی وابین:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>و من ٱووڌنا تکراری جۊرستن:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابی)</span>
+       *[other] <span>و من ٱووڌنا تکراری جۊرستن:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابی)</span>
+    }
 about-logins-import-dialog-done = ٱنجوم وابی
 about-logins-import-dialog-error-title = ختا و من ٱووڌن دووسمندیا
 about-logins-import-dialog-error-file-format-title = موشکل فورمت فایل
@@ -308,3 +317,17 @@ about-logins-import-dialog-error-try-import-again = قپ ریت دووارته �
 about-logins-import-dialog-error-cancel = لقو
 about-logins-import-report-title = خولاسه و من ٱووردن دووسمندیا
 about-logins-import-report-row-description-added = و من ٱووڌن نۊ ٱوورده وابی
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-error =
+    { $count ->
+        [one] <span>ختایل:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابین)</span>
+       *[other] <span>ختایل:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابین)</span>
+    }
+
+## Logins import report page
+
+about-logins-import-report-page-title = خولاسه گوزارش و من ٱووردن دووسمندیا
