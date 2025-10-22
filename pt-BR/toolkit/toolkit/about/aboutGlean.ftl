@@ -103,6 +103,16 @@ about-glean-metrics-table-header-type = Tipo
 about-glean-metrics-table-header-value = Valor
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Ações
+about-glean-metrics-table-settings-button = Configurações
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Configurações da tabela de métricas
+about-glean-metrics-table-settings-category-general = Geral
+about-glean-metrics-table-settings-hide-empty-value-rows = Ocultar linhas sem valor
+about-glean-metrics-table-settings-category-visualizations = Visualizações
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Exemplo
+about-glean-metrics-table-settings-category-visualizations-histogram = Histograma
+about-glean-metrics-table-settings-histograms-chart-max = Altura máxima do gráfico
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtrar
 # This message sits alongside an input field, further describing its purpose.
