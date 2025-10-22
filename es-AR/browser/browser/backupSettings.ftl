@@ -211,10 +211,16 @@ backup-file-creation-date-label = Creado:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Cómo restaurar:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Abra el menú de aplicaciones ☰ y vaya a Preferencias > Sync
 backup-file-moz-browser-restore-step-2 = Haga clic en “Seleccionar archivo de respaldo” y seleccione este archivo
 backup-file-moz-browser-restore-step-3 = Reinicie { -brand-short-name } cuando se le pida
 backup-file-other-browser-restore-step-1 = Descargar e instalar { -brand-short-name }
 backup-file-download-moz-browser-button = Descargar
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Inicie { -brand-short-name }, abra el menú de aplicaciones ☰ y vaya a Preferencias > Sync
 backup-file-other-browser-restore-step-3 = Haga clic en “Seleccionar archivo de respaldo” y seleccione este archivo
 backup-file-other-browser-restore-step-4 = Reinicie { -brand-short-name } cuando se le pida
 
