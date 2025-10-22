@@ -44,6 +44,10 @@ settings-data-backup-scheduled-backups-off-restore-choose = Vyberte súbor zálo
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Obnovte si dáta { -brand-product-name(case: "gen") } z poslednej zálohy.
+settings-data-backup-scheduled-backups-on-restore-choose = Obnoviť…
+settings-data-toggle-encryption-label = Zálohovať citlivé údaje
+settings-data-toggle-encryption-description = Pomocou šifrovania zálohujte si heslá, platobné metódy a súbory cookie.
 settings-data-toggle-encryption-support-link = Ďalšie informácie
 settings-data-change-password = Zmeniť heslo…
 
@@ -82,3 +86,53 @@ turn-off-scheduled-backups-description = Týmto sa tiež vymažú všetky vaše 
 turn-off-scheduled-backups-support-link = Ďalšie informácie
 turn-off-scheduled-backups-cancel-button = Zrušiť
 turn-off-scheduled-backups-confirm-button = Vypnúť a odstrániť zálohu
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Obnovte svoje údaje
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Toto nahradí všetky vaše aktuálne údaje { -brand-short-name(case: "gen") } zálohou z { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Čo bude obnovené?
+restore-from-backup-no-backup-file-link = Máte problémy s nájdením zálohy?
+restore-from-backup-filepicker-label = Súbor zálohy
+restore-from-backup-filepicker-title = Vyberte súbor zálohy:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Vybrať…
+       *[other] Prehľadávať…
+    }
+restore-from-backup-password-label = Heslo
+restore-from-backup-password-description = Týmto sa odomkne vaša šifrovaná záloha.
+restore-from-backup-cancel-button = Zrušiť
+restore-from-backup-confirm-button = Obnoviť a reštartovať
+restore-from-backup-restoring-button = Obnovuje sa…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Nesprávne heslo. <a data-l10n-name="incorrect-password-support-link">Stále máte problémy?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Tento súbor nefunguje
+    .message = Vyskytol sa problém so súborom zálohy. Vyberte iný súbor a skúste to znova.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Tento súbor nefunguje
+    .message = Zvolený súbor nie je kompatibilný s touto verziou { -brand-short-name(case: "gen") }. Vyberte iný súbor a skúste to znova.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Tento súbor nefunguje
+    .message = Zvolený súbor nebol vytvorený vo { -brand-short-name(case: "loc") }. Vyberte iný súbor a skúste to znova.
