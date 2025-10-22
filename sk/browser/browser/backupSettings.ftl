@@ -40,7 +40,7 @@ settings-data-backup-restore-header = Obnovte svoje údaje
 ## These strings are shown under the header if scheduled backups are disabled.
 
 settings-data-backup-scheduled-backups-off-restore-description = Na obnovenie údajov použite zálohu { -brand-product-name(case: "gen") } z iného zariadenia.
-settings-data-backup-scheduled-backups-off-restore-choose = Vyberte súbor zálohy…
+settings-data-backup-scheduled-backups-off-restore-choose = Vybrať súbor zálohy…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
@@ -136,3 +136,83 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Tento súbor nefunguje
     .message = Zvolený súbor nebol vytvorený vo { -brand-short-name(case: "loc") }. Vyberte iný súbor a skúste to znova.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } sa nepodarilo obnoviť
+    .message = Reštartujte { -brand-short-name(case: "acc") } a skúste znova použiť zálohu.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Niečo sa pokazilo
+    .message = Vyskytol sa problém s procesom zálohovania { -brand-short-name(case: "gen") }. Skúste to znova alebo reštartujte { -brand-short-name(case: "acc") }.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Zálohovať citlivé údaje
+enable-backup-encryption-description = Zálohujte si heslá, platobné metódy a súbory cookie a zároveň uložte všetky svoje údaje do bezpečia pomocou šifrovania.
+enable-backup-encryption-support-link = Ďalšie informácie
+enable-backup-encryption-create-password-label = Heslo
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Zopakujte heslo
+enable-backup-encryption-cancel-button = Zrušiť
+enable-backup-encryption-confirm-button = Uložiť
+change-backup-encryption-header = Zmeniť heslo zálohy
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Požiadavky na heslo
+password-rules-length-description = Minimálne 8 znakov
+password-rules-email-description = Nie je to vaša e‑mailová adresa
+password-rules-disclaimer = Buďte v bezpečí – nepoužívajte heslá opakovane. Pozrite si ďalšie tipy na <a data-l10n-name="password-support-link">vytvorenie silných hesiel</a>.
+password-validity-has-email = Nemôže to byť e‑mailová adresa
+password-validity-do-not-match = Heslá sa nezhodujú
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Úspech
+password-rules-a11y-warning =
+    .alt = Upozornenie
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Odstrániť ochranu heslom
+disable-backup-encryption-description = Vaše uložené heslá, spôsoby platby a súbory cookie sa už nebudú zálohovať.
+disable-backup-encryption-support-link = Čo bude zálohované?
+disable-backup-encryption-cancel-button = Zrušiť
+disable-backup-encryption-confirm-button = Odstrániť heslo
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Vaše heslo nespĺňa požiadavky. Skúste iné heslo.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Niečo sa pokazilo. Skúste to znova.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } je pripravený na obnovenie
+backup-file-title = Obnoviť { -brand-short-name(case: "acc") }
+backup-file-intro = Vráťte sa k prehliadaniu a obnovte všetky svoje záložky, históriu a ďalšie údaje. <a data-l10n-name="backup-file-support-link">Ďalšie informácie</a>
+backup-file-path-label = Súbor zálohy:
+backup-file-encryption-state-label = Zašifrovaný:
+backup-file-encryption-state-value-encrypted = Áno
+backup-file-encryption-state-value-not-encrypted = Nie
+backup-file-creation-device-label = Zariadenie:
+backup-file-creation-date-label = Vytvorené:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") }
+backup-file-how-to-restore-header = Ako obnoviť:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Otvorte ponuku aplikácie ☰ a prejdite do časti Nastavenia > Synchronizácia
+backup-file-moz-browser-restore-step-2 = Kliknite na “Vybrať súbor zálohy” a vyberte tento súbor
+backup-file-moz-browser-restore-step-3 = Reštartujte { -brand-short-name(case: "acc") } po zobrazení výzvy
