@@ -25,6 +25,7 @@ settings-data-backup-trigger-button = Kopjeruaje tani
 settings-data-backup-in-progress-button = Kopjeruajtje në ecuri e sipër…
 settings-data-backup-scheduled-backups-on = Kopjeruajtje: ON
 settings-data-backup-scheduled-backups-off = Kopjeruajtje: OFF
+settings-data-backup-scheduled-backups-description = Mbroni automatikisht faqerojtësit, historikun dhe të tjera të dhëna tuajat. <a data-l10n-name="support-link">Mësoni më tepër</a>
 settings-data-backup-last-backup-date = Kopjeruajtja e fundit më: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Vendndodhje
