@@ -234,6 +234,22 @@ fox-doodle-pin-secondary = Nu acum
 set-default-pdf-handler-headline = <strong>PDF-urile se deschid acum în { -brand-short-name }.</strong> Editează sau semnează formulare direct în browser. Pentru modificare, caută „PDF” în setări.
 set-default-pdf-handler-primary = Am înțeles
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Semnează pe linia punctată — sau oriunde!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Desenează, scrie sau încarcă-ți semnătura, apoi pune-o exact unde îți dorești. Salvează semnăturile preferate pentru data viitoare.
+annotations-make-default-pdf-handler-title = Setezi { -brand-short-name } ca editor implicit pentru PDF-uri?
+annotations-make-default-pdf-handler-subtitle = Vei avea acces la toate uneltele noastre ori de câte ori vei deschide un PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Setează ca implicit
+annotations-make-default-pdf-next =
+    .label = Înainte
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Un dispozitiv nou în viitor?

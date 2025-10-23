@@ -478,6 +478,45 @@ sync-to-mobile-button-label = Sincronizează pe mobil
 desktop-to-mobile-qr-code-alt =
     .aria-label = Cod QR pentru descărcarea { -brand-product-name } pentru mobil
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Treci la Windows 11?
+    Fă o copie de rezervă cu datele din { -brand-product-name }.
+create-backup-screen-1-subtitle = Protejează-ți automat parolele, marcajele și multe altele în 1-2 minute.
+create-backup-screen-1-flair = Recomandat
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Află mai multe</a>
+create-backup-screen-1-sync-label = Sincronizează cu { -brand-product-name }
+create-backup-screen-1-sync-body = Face copii de rezervă pentru toate dispozitivele conectate
+create-backup-screen-1-backup-label = Copie de rezervă pe calculator
+create-backup-screen-1-backup-body = Salvează pe dispozitiv sau în OneDrive
+create-backup-select-tile-button-label = Selectează
+create-backup-back-button-label = Înapoi
+create-backup-show-fewer =
+    .label = Arată mai puține ca acestea
+create-backup-screen-2-title = Alege datele { -brand-product-name } pentru copia de rezervă
+create-backup-screen-2-subtitle = Durează un minut. Datele tale vor fi salvate în copia de rezervă o dată pe zi.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configurare simplă
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Marcaje, istoric, setări și multe altele
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Nu include parole și metode de plată
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Necriptat
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Toate datele
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Include parole și metode de plată
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Criptat cu parolă
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Unde vrei să fie salvată copia de rezervă?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Creează o parolă pentru fișierul copiei de rezervă
+create-backup-screen-3-subtitle = Necesară pentru criptarea datelor. Pune-o într-un loc ușor de ținut minte.
+fx-backup-opt-in-header = Alege locația fișierului
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Restaurează din copia de rezervă
