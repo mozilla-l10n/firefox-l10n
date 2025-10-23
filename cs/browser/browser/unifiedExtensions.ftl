@@ -11,6 +11,12 @@
 unified-extensions-header-title = Rozšíření
 unified-extensions-manage-extensions =
     .label = Správa rozšíření
+unified-extensions-discover-extensions =
+    .label = Objevte rozšíření
+unified-extensions-empty-reason-private-browsing-not-allowed = Máte nainstalovaná rozšíření, ale nejsou povolena v anonymních oknech.
+unified-extensions-empty-reason-extension-not-enabled = Máte nainstalovány rozšíření, ale nejsou povolené
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Zvyšte úroveň svého prohlížení pomocí rozšíření
 
 ## An extension in the main list
 

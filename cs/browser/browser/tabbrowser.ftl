@@ -304,9 +304,17 @@ tab-group-editor-color-selector2-red = Červená
 tab-group-description = { $tabGroupName } — Skupina panelů
 tab-group-label-tooltip-collapsed = { $tabGroupName } — sbaleno
 tab-group-label-tooltip-expanded = { $tabGroupName } — rozbaleno
+tab-group-preview-name =
+    .aria-label = Panely ve sbalené skupině
 tab-context-unnamed-group =
     .label = Nepojmenovaná skupina
 tab-group-name-default = Nepojmenovaná skupina
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Seznam panelů je otevřen
+tab-group-preview-closed-description = Seznam panelů zavřen
 
 ##
 
