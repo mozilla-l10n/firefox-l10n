@@ -278,6 +278,12 @@ tab-context-unnamed-group =
     .label = Grup fără nume
 tab-group-name-default = Grup fără nume
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Listă de file deschisă
+tab-group-preview-closed-description = Listă de file închisă
+
 ##
 
 tab-context-move-tab-to-new-group =
@@ -362,3 +368,16 @@ tab-group-context-open-saved-group-in-new-window =
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Vizualizare divizată
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Adaugă ecran divizat
+    .accesskey = t
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Deschide în ecran divizat
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Separă ecranul divizat
+    .accesskey = t
+tab-context-badge-new = Nou

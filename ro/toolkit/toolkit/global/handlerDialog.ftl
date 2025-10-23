@@ -20,6 +20,17 @@ permission-dialog-description-file-app = Permiți acestui fișier să deschidă 
 permission-dialog-description-extension-app = Permiți extensiei { $extension } să deschidă linkul { $scheme } cu { $appName }?
 permission-dialog-description-system-app = Deschizi linkul { $scheme } cu { $appName }?
 permission-dialog-description-system-noapp = Deschizi linkul { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Permiți site-ului să îți deschidă portofelul digital?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Deschiderea unui link <strong>{ $scheme }</strong> permite <strong>{ $host }</strong> să îți solicite identitatea reală cu <strong>{ $appName }</strong>. Continuă doar dacă ai încredere în acest site.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Deschiderea unui link <strong>{ $scheme }</strong> permite acestui site să îți solicite identitatea reală cu <strong>{ $appName }</strong>. Continuă doar dacă ai încredere în acest site.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Deschiderea unui link <strong>{ $scheme }</strong> permite <strong>{ $host }</strong> să  îți solicite identitatea reală din portofelul digital. Continuă doar dacă ai încredere în acest site.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Deschiderea unui link <strong>{ $scheme }</strong> permite acestui site să îți solicite identitatea reală din portofelul digital. Continuă doar dacă ai încredere în acest site.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

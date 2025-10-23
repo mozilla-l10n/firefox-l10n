@@ -39,6 +39,7 @@ more-from-moz-mozilla-monitor-button = Obține { -monitor-brand-short-name }
 more-from-moz-solo-title = IA { -solo-ai-brand-name }
 more-from-moz-solo-description = Creează-ți instantaneu site-ul web și conectează-ți gratuit propriul domeniu personalizat.
 more-from-moz-solo-button = Încearcă { -solo-ai-brand-name }
+more-from-moz-solo-title-2 = Creator de site-uri web cu IA { -solo-ai-brand-name }
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 

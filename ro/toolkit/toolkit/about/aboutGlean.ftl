@@ -154,6 +154,18 @@ about-glean-metrics-table-header-type = Tip
 about-glean-metrics-table-header-value = Valoare
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Acțiuni
+about-glean-metrics-table-settings-button = Setări
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Setări tabel de metrici
+about-glean-metrics-table-settings-category-general = General
+about-glean-metrics-table-settings-hide-empty-value-rows = Ascunde rândurile de valori goale
+about-glean-metrics-table-settings-category-visualizations = Vizualizări
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Exemplu
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogramă
+about-glean-metrics-table-settings-histograms-chart-max = Înălțime maximă diagramă
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Înălțime maximă scalată
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtru
 # This message sits alongside an input field, further describing its purpose.
@@ -182,3 +194,10 @@ about-glean-disable-new-features-button = Dezactivează funcțiile noi
 about-glean-about-data-explanation =
     Ca să răsfoiești lista de date colectate, vezi
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dicționarul</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Ping-uri încorporate
+about-glean-ping-list-optgroup-custom =
+    .label = Ping-uri personalizate

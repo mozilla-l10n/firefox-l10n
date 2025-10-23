@@ -11,6 +11,15 @@
 unified-extensions-header-title = Extensii
 unified-extensions-manage-extensions =
     .label = Gestionează extensiile
+unified-extensions-discover-extensions =
+    .label = Descoperă mai multe extensii
+unified-extensions-empty-reason-private-browsing-not-allowed = Ai extensii instalate, dar nu activate în ferestrele private
+unified-extensions-empty-reason-extension-not-enabled = Ai extensii instalate, dar nu activate
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Îmbunătățește-ți experiența de navigare cu ajutorul extensiilor
+unified-extensions-empty-content-explain-enable2 = Selectează „{ unified-extensions-manage-extensions.label }” ca să le activezi în setări.
+unified-extensions-empty-content-explain-manage2 = Selectează „{ unified-extensions-manage-extensions.label }” ca să le gestionezi în setări.
+unified-extensions-empty-content-explain-extensions-onboarding = Personalizează { -brand-short-name } schimbând felul cum arată și funcționează sau îmbunătățind confidențialitatea și siguranța.
 
 ## An extension in the main list
 

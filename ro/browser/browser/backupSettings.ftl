@@ -141,6 +141,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } nu a putut restaura
     .message = Repornește { -brand-short-name } și încearcă din nou să restabilești datele din copia de rezervă.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Ceva nu a funcționat
+    .message = A apărut o problemă în procesul de creare a copiei de rezervă pentru { -brand-short-name }. Te rugăm să încerci încă o dată sau să repornești { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
