@@ -51,6 +51,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Pyetni { $provider }
+genai-menu-open-generic =
+    .label = Hapni Robot Fjalosjesh IA
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Hap { $provider }
 genai-menu-remove-generic =
     .label = Hiq robot IA fjalosjesh
 # $provider (string) - name of the provider
@@ -86,6 +91,16 @@ genai-shortcuts-hide =
     .label = Fshihe shkurtoren e robotit të fjalosjeve
 genai-menu-choose-chatbot =
     .label = Zgjidhni një Robot Fjalosjesh IA
+genai-menu-ask-generic-2 =
+    .label = Pyetni robot IA Fjalosjesh
+    .accesskey = P
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Pyetni { $provider }
+    .accesskey = P
+genai-menu-no-provider-2 =
+    .label = Pyetni Robot IA Fjalosjesh
+    .accesskey = P
 
 ## Chatbot header
 
@@ -109,6 +124,11 @@ genai-options-hide-shortcut =
     .label = Fshihe shkurtoren, kur përzgjidhet tekst
 genai-options-about-chatbot =
     .label = Rreth robotësh IA fjalosjeje në { -brand-short-name }
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Ngaqë faqja është e gjatë, kjo është një përmbledhje e pjesshme.
 
 ## Chatbot footer
 
@@ -146,7 +166,12 @@ genai-onboarding-select-primary = Filloni të bisedoni
 genai-chatbot-contextual-title = Përdorni një robot IA fjalosjesh pa ndërruar skeda
 genai-chatbot-contextual-subtitle = Fjalosje dhe shfletim krah për krah, kur shtoni një robot IA fjalosjesh te anështylla e  { -brand-short-name }-it.
 genai-chatbot-contextual-button = Zgjidhni një robot fjalosjesh
+genai-chatbot-summarize-title = E re! Përmbledhje faqesh me një klikim
 genai-chatbot-summarize-button = Përmblidhe faqen
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Djathtasklikoni mbi robotin tuaj IA të fjalosjeve te anështylla dhe zgjidhni ’Përmbildhe Faqen”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Djathtasklikoni mbi butonin xixa te anështylla dhe zgjidhni ’Përmblidhe Faqen”. Herën e parë do të zgjidhni edhe një robot IA fjalosjesh.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
