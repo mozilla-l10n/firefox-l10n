@@ -25,7 +25,7 @@ profile-card =
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
-original-profile-name = Orijinal profil
+original-profile-name = Başlangıç profili
 edit-profile-page-title = Profili düzenle
 edit-profile-page-header = Profilinizi düzenleyin
 edit-profile-page-profile-name-label = Profil adı

@@ -105,7 +105,7 @@ webext-perms-host-description-one-domain = Přistupovat k údajům webových str
 webext-perms-host-description-multiple-domains =
     { $domainCount ->
         [one] Přistupovat k údajům webových stránek v { $domainCount } doméně
-        [few] Přistupovat k údajům webových stránek v { $domainCount } doménách
+        [few] Přistupovat k údajům webových stránek ve { $domainCount } doménách
         [many] Přistupovat k údajům webových stránek v { $domainCount } doménách
        *[other] Přistupovat k údajům webových stránek v { $domainCount } doménách
     }
