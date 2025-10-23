@@ -313,6 +313,7 @@ set-default-pdf-handler-primary = Rozumím
 
 ## PDF Annotations strings
 
+annotations-make-default-pdf-handler-subtitle = Při každém otevření souboru PDF budete mít přístup k našim nástrojům.
 annotations-make-default-pdf-primary-cta =
     .label = Nastavit jako výchozí
 annotations-make-default-pdf-next =
