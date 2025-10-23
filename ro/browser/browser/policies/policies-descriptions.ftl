@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Activează completarea automată pentru adrese.
 policy-AutofillCreditCardEnabled = Activează completarea automată pentru metodele de plată.
 policy-AutoLaunchProtocolsFromOrigins = Definește o listă de protocoale externe care pot fi utilizate de la originile listate fără a notifica utilizatorul.
 policy-BackgroundAppUpdate2 = Activează sau dezactivează actualizarea în fundal.
+policy-Backup = Dezactivează copiile de rezervă sau restabilirea datelor de profil.
 policy-BlockAboutAddons = Blochează accesul la managerul de suplimente (about:addons).
 policy-BlockAboutConfig = Blochează accesul la pagina about:config.
 policy-BlockAboutProfiles = Blochează accesul la pagina about:profiles.

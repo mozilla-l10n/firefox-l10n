@@ -104,12 +104,104 @@ restore-from-backup-file-choose-button =
         [macos] Alege…
        *[other] Răsfoiește…
     }
+restore-from-backup-password-label = Parolă
+restore-from-backup-password-description = Va debloca copia de rezervă criptată.
+restore-from-backup-cancel-button = Anulează
+restore-from-backup-confirm-button = Restabilește și repornește
+restore-from-backup-restoring-button = Restabilire în curs…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Parolă incorectă. <a data-l10n-name="incorrect-password-support-link">Încă întâmpini probleme?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Fișierul nu funcționează
+    .message = A apărut o problemă cu fișierul pentru copia de rezervă. Alege alt fișier și încearcă din nou.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Fișierul nu funcționează
+    .message = Fișierul ales nu este compatibil cu această versiune { -brand-short-name }. Alege alt fișier și încearcă din nou.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Fișierul nu funcționează
+    .message = Fișierul ales nu a fost creat cu { -brand-short-name }. Alege alt fișier și încearcă din nou.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } nu a putut restaura
+    .message = Repornește { -brand-short-name } și încearcă din nou să restabilești datele din copia de rezervă.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Fă o copie de rezervă cu datele tale sensibile
+enable-backup-encryption-description = Fă copii de rezervă cu parolele, metodele de plată și cookie-uri și păstrează toate datele confidențiale prin criptare.
+enable-backup-encryption-support-link = Află mai multe
+enable-backup-encryption-create-password-label = Parolă
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Repetă parola
+enable-backup-encryption-cancel-button = Anulează
+enable-backup-encryption-confirm-button = Salvează
+change-backup-encryption-header = Schimbă parola copiei de rezervă
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Cerințe pentru parolă
+password-rules-length-description = Cel puțin 8 caractere
+password-rules-email-description = Nu adresa ta de e-mail
+password-rules-disclaimer = Fii în siguranță — nu refolosi parolele. Află mai multe sfaturi despre <a data-l10n-name="password-support-link">crearea de parole puternice</a>.
+password-validity-has-email = Nu poate fi o adresă de e-mail
+password-validity-do-not-match = Parolele nu se potrivesc
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Succes
+password-rules-a11y-warning =
+    .alt = Avertisment
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Elimină protecția prin parolă
+disable-backup-encryption-description = Parolele, metodele de plată și cookie-urile salvate nu vor mai fi salvate în copia de rezervă.
+disable-backup-encryption-support-link = Ce va conține copia de rezervă?
+disable-backup-encryption-cancel-button = Anulează
+disable-backup-encryption-confirm-button = Elimină parola
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Parola nu îndeplinește cerințele. Încearcă altă parolă.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Ceva nu a funcționat. Te rugăm să încerci din nou.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } este gata de restabilire
+backup-file-title = Restabilește { -brand-short-name }
+backup-file-intro = Întoarce-te la navigare și recuperează-ți toate marcajele, istoricul și alte date. <a data-l10n-name="backup-file-support-link">Află mai multe</a>
+backup-file-path-label = Fișier pentru copia de rezervă:
+backup-file-encryption-state-label = Criptat:
+backup-file-encryption-state-value-encrypted = Da
+backup-file-encryption-state-value-not-encrypted = Nu
+backup-file-creation-device-label = Dispozitiv:
+backup-file-creation-date-label = Creat:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }

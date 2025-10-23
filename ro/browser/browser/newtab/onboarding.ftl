@@ -516,6 +516,27 @@ create-backup-screen-3-location = Unde vrei să fie salvată copia de rezervă?
 create-backup-screen-3-title = Creează o parolă pentru fișierul copiei de rezervă
 create-backup-screen-3-subtitle = Necesară pentru criptarea datelor. Pune-o într-un loc ușor de ținut minte.
 fx-backup-opt-in-header = Alege locația fișierului
+fx-backup-opt-in-filepath-label = Alege un loc pe care planifici să îl transferi pe un dispozitiv nou, cum ar fi OneDrive.
+fx-backup-opt-in-create-password-label = Introdu parola
+fx-backup-opt-in-confirm-btn-label = Continuă
+fx-backup-opt-in-cancel-btn-label = Înapoi
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Copia de rezervă este programată
+fx-backup-confirmation-screen-close-button = Închide
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Toate datele de navigare incluse
+fx-backup-confirmation-screen-all-data-item-text-2 = Salvat pe dispozitiv
+fx-backup-confirmation-screen-all-data-item-text-3 = Criptat și protejat prin parolă
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Marcaje, istoric, setări și alte date incluse
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Salvat pe dispozitiv
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Parole și metode de plate omise
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Mergi la <a data-l10n-name="settings">Setări</a> pentru a include date sensibile.
+fx-backup-confirmation-screen-item-subtext-1 = Crearea copiei de rezervă va începe în câteva minute și va rula o dată pe zi. Poți vedea progresul în <a data-l10n-name="settings">Setări</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } va căuta copia de rezervă dacă e necesară o reinstalare.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -535,3 +556,17 @@ restored-from-backup-success-no-checklist-primary-button = Continuă
 restored-from-backup-error-title = Hmm, a apărut o problemă cu fișierul de copie de rezervă.
 restored-from-backup-error-subtitle = Dacă ai un alt fișier de rezervă { -brand-short-name }, încearcă să restaurezi din el. <a data-l10n-name="restore-problems">Încă ai probleme?</a>
 restored-from-backup-error-primary-button = Închide
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Personalizează-ți experiența { -brand-short-name }
+onboarding-personalization-subtitle = Răspunde la câteva întrebări și îți vom recomanda funcționalități și extensii pentru îmbunătățirea { -brand-short-name }.
+onboarding-personalization-use-case-title = Pentru ce vei folosi { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Personal
+onboarding-personalization-use-case-school-option = Şcoală
+onboarding-personalization-use-case-work-option = Lucru
+onboarding-personalization-motivation-title = Ce funcționalități { -brand-short-name } sunt cele mai importante pentru tine?
+onboarding-personalization-motivation-privacy-option = Confidențialitate și securitate
+onboarding-personalization-motivation-productivity-option = Productivitate
+onboarding-personalization-motivation-other-option = Altele
