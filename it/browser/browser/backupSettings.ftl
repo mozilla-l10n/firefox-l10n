@@ -21,8 +21,12 @@ backup-folder-name = Ripristina { -brand-product-name }
 backup-file-name = Backup{ -brand-product-name }
 settings-data-backup-header = Backup
 settings-data-backup-toggle = Gestisci backup
+settings-data-backup-toggle-on = Attiva backup
+settings-data-backup-toggle-off = Disattiva backup
 settings-data-backup-trigger-button = Effettua backup adesso
 settings-data-backup-in-progress-button = Backup in corso…
+settings-data-backup-in-progress-message =
+    .message = Backup in corso…
 settings-data-backup-scheduled-backups-on = Backup: ATTIVO
 settings-data-backup-scheduled-backups-off = Backup: DISATTIVATO
 settings-data-backup-scheduled-backups-description = Proteggi automaticamente segnalibri, cronologia e altri dati. <a data-l10n-name="support-link">Ulteriori informazioni</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = Impossibile ripristinare { -brand-short-name }
     .message = Riavvia { -brand-short-name } e prova a ripristinare nuovamente il backup.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Uhm… Si è verificato un problema durante il backup.
+    .message = Riprova tra qualche minuto.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
