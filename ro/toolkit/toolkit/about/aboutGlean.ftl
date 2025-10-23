@@ -166,6 +166,19 @@ about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
 about-glean-metrics-table-settings-histograms-chart-max = Înălțime maximă diagramă
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = Înălțime maximă scalată
+about-glean-metrics-table-settings-histograms-box-padding = Spațiere de la marginea casetei
+about-glean-metrics-table-settings-histograms-chart-padding = Spațiere de la marginea diagramei
+about-glean-metrics-table-settings-histograms-left-padding = Spațiere suplimentară la stânga
+about-glean-metrics-table-settings-category-visualizations-timeline = Cronologie
+about-glean-metrics-table-settings-timelines-height = Înălțime
+about-glean-metrics-table-settings-timelines-width = Lățime
+about-glean-metrics-table-settings-timelines-chart-padding = Spațiere de la marginea diagramei
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Rază cerc
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Decalaj X pe axa Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Decalaj Y pe axa Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtru
 # This message sits alongside an input field, further describing its purpose.
