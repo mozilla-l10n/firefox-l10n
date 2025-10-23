@@ -33,14 +33,20 @@ settings-data-backup-restore-header = Gjenopprett dataa dine
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-choose = Gjenopprett…
 settings-data-toggle-encryption-support-link = Les meir
 settings-data-change-password = Endre passord…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Slå på sikkerheitskopiering
+turn-on-scheduled-backups-support-link = Kva vert sikkerheitskopiert?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Plassering
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (tilrådd)
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Vel…
