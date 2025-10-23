@@ -151,9 +151,25 @@ about-glean-metrics-table-header-type = Τύπος
 about-glean-metrics-table-header-value = Τιμή
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Ενέργειες
+about-glean-metrics-table-settings-button = Ρυθμίσεις
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Ρυθμίσεις πίνακα μετρήσεων
+about-glean-metrics-table-settings-category-general = Γενικά
+about-glean-metrics-table-settings-hide-empty-value-rows = Απόκρυψη κενών σειρών τιμών
+about-glean-metrics-table-settings-category-visualizations = Οπτικοποιήσεις
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Παράδειγμα
+about-glean-metrics-table-settings-category-visualizations-histogram = Ιστόγραμμα
+about-glean-metrics-table-settings-histograms-chart-max = Μέγιστο ύψος γραφήματος
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Κλιμακωμένο μέγιστο ύψος
+about-glean-metrics-table-settings-histograms-box-padding = Γέμισμα πλαισίου
+about-glean-metrics-table-settings-histograms-chart-padding = Γέμισμα γραφήματος
 about-glean-metrics-table-settings-category-visualizations-timeline = Χρονολόγιο
 about-glean-metrics-table-settings-timelines-height = Ύψος
 about-glean-metrics-table-settings-timelines-width = Πλάτος
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Ακτίνα κύκλου
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Φίλτρο
 # This message sits alongside an input field, further describing its purpose.

@@ -143,6 +143,10 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Απόρριψη
 windows-10-eos-sync-callout-primary-advance-button-label = Επόμενο
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Νέο: Κάντε κλικ παρατεταμένα για προεπισκόπηση συνδέσμων
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Εμφάνιση τίτλων καρτελών στην πλαϊνή γραμμή
