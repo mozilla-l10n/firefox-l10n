@@ -45,6 +45,8 @@ avatar-selector-save-button =
     .label = Зберегти
 avatar-selector-upload-file = Вивантажити файл
 avatar-selector-drag-file = Або перетягніть файл сюди
+avatar-selector-add-image = Додати зображення
+avatar-selector-crop = Обітнути
 edit-profile-page-no-name = Назвіть цей профіль, щоб потім його було легше знайти. Змінити назву можна будь-коли.
 edit-profile-page-duplicate-name = Назва профілю вже використовується. Спробуйте іншу.
 edit-profile-page-profile-saved = Збережено
@@ -93,6 +95,8 @@ profiles-light-theme = Світла
 profiles-dark-theme = Темна
 # The default system theme
 profiles-system-theme = Система
+profiles-system-theme-title =
+    .title = Застосувати системну тему
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Жовта календула
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -107,6 +111,47 @@ profiles-ocean-theme-2 = Синій океан
 profiles-terracotta-theme-2 = Цегляно-червоний
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Зелений мох
+profiles-gray-theme = Сіра
+profiles-gray-theme-title =
+    .title = Застосувати сіру тему
+profiles-yellow-theme = Жовта
+profiles-yellow-theme-title =
+    .title = Застосувати жовту тему
+profiles-orange-theme = Помаранчева
+profiles-orange-theme-title =
+    .title = Застосувати помаранчеву тему
+profiles-red-theme = Червона
+profiles-red-theme-title =
+    .title = Застосувати червону тему
+profiles-pink-theme = Рожева
+profiles-pink-theme-title =
+    .title = Застосувати рожеву тему
+profiles-purple-theme = Бузкова
+profiles-purple-theme-title =
+    .title = Застосувати фіолетову тему
+profiles-violet-theme = Фіолетова
+profiles-violet-theme-title =
+    .title = Застосувати фіолетову тему
+profiles-blue-theme = Блакитна
+profiles-blue-theme-title =
+    .title = Застосувати синю тему
+profiles-green-theme = Зелена
+profiles-green-theme-title =
+    .title = Застосувати зелену тему
+profiles-cyan-theme = Бірюзова
+profiles-cyan-theme-title =
+    .title = Застосувати бірюзову тему
+profiles-custom-theme-title =
+    .title = Застосувати власну тему
+
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Налаштування збору даних змінено.</strong> Зміни, внесені в іншому профілі, застосовуються до всіх профілів на цьому пристрої.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Переглянути налаштування
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Відхилити
 
 ## Alternative text for default profile icons
 
@@ -114,25 +159,111 @@ book-avatar-alt =
     .alt = Книга
 briefcase-avatar-alt =
     .alt = Портфель
+picture-avatar-alt =
+    .alt = Зображення
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Рукоділля
 flower-avatar-alt =
     .alt = Квітка
+folder-avatar-alt =
+    .alt = Тека
+hammer-avatar-alt =
+    .alt = Молоток
 heart-avatar-alt =
     .alt = Серце
+heart-rate-avatar-alt =
+    .alt = Пульс
+clock-avatar-alt =
+    .alt = Годинник
+leaf-avatar-alt =
+    .alt = Листок
+lightbulb-avatar-alt =
+    .alt = Лампочка
+makeup-avatar-alt =
+    .alt = Макіяж
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Повідомлення
+musical-note-avatar-alt =
+    .alt = Нота
+palette-avatar-alt =
+    .alt = Палітра
+paw-print-avatar-alt =
+    .alt = Відбиток лапи
+plane-avatar-alt =
+    .alt = Літак
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Подарунок
 shopping-avatar-alt =
     .alt = Кошик для покупок
+soccer-ball-avatar-alt =
+    .alt = Футбольний м'яч
+sparkle-single-avatar-alt =
+    .alt = Іскра
 star-avatar-alt =
     .alt = Зірка
+video-game-controller-avatar-alt =
+    .alt = Контролер відеоігор
 custom-avatar-alt =
     .alt = Власний аватар
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Глобус
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Діамант
+barbell-avatar-alt =
+    .alt = Штанга
+bike-avatar-alt =
+    .alt = Велосипед
 
 ## Tooltips for default avatar icons
 
 book-avatar = Книга
 briefcase-avatar = Портфель
+clock-avatar = Годинник
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Рукоділля
+custom-avatar = Власний аватар
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Діамант
 flower-avatar = Квітка
+folder-avatar = Тека
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Глобус
+hammer-avatar = Молоток
 heart-avatar = Серце
+heart-rate-avatar = Пульс
+leaf-avatar = Листок
+lightbulb-avatar = Лампочка
+makeup-avatar = Макіяж
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Повідомлення
+musical-note-avatar = Нота
+palette-avatar = Палітра
+paw-print-avatar = Слід лапи
+picture-avatar = Зображення
+plane-avatar = Літак
+# Present refers to a gift box, not the current time period
+present-avatar = Подарунок
 shopping-avatar = Кошик для покупок
+soccer-ball-avatar = Футбольний м'яч
+sparkle-single-avatar = Іскра
 star-avatar = Зірка
+video-game-controller-avatar = Контролер відеоігор
+custom-avatar-crop-back-button =
+    .aria-label = Назад
+custom-avatar-crop-view =
+    .aria-label = Обітнути зображення
+custom-avatar-crop-area =
+    .aria-label = Налаштувати область кадру
+custom-avatar-drag-handle =
+    .aria-label = Змінити розмір області кадру
+profiles-appmenu-callout-tour-primary-button = Покажіть мені, як
+barbell-avatar = Штанга
+bike-avatar = Велосипед
 
 ## Tooltips for default avatar icons
 

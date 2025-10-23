@@ -9,7 +9,7 @@ neterror-page-title = Проблема під час завантаження с
 certerror-page-title = Обережно: попереду ймовірна загроза безпеці
 certerror-sts-page-title = З'єднання не встановлено: ймовірна загроза безпеці
 neterror-blocked-by-policy-page-title = Заблокована сторінка
-neterror-captive-portal-page-title = Вхід в мережу
+neterror-captive-portal-page-title = Вхід у мережу
 neterror-dns-not-found-title = Сервер не знайдено
 neterror-malformed-uri-page-title = Недійсна URL-адреса
 general-body-title = Будьте обережні. Тут щось не так.
@@ -46,7 +46,7 @@ neterror-load-error-firewall = Якщо ваш комп'ютер або мере
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Якщо ви намагаєтеся завантажити сторінку локальної мережі, обов'язково надайте дозволи локальної мережі для { -brand-short-name } в параметрах приватності та безпеки macOS.
 neterror-http-error-page = Переконайтеся, що ви правильно ввели адресу вебсайту.
-neterror-captive-portal = Перш ніж отримати доступ до Інтернету, ви повинні увійти в цю мережу.
+neterror-captive-portal = Перш ніж отримати доступ до інтернету, ви маєте ввійти в цю мережу.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Ви хотіли відвідати <a data-l10n-name="website">{ $hostAndPath }</a>?
