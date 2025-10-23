@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Hap panelin e profilizuesit
+    .tooltiptext = Hapni panelin e profilizuesit
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Model për hetim të metash audio dhe video nën { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
+profiler-popup-presets-ml-description = Model për hetim të metash në nxënie nga makinat në { -brand-shorter-name }.
+profiler-popup-presets-ml-label =
+    .label = Nxënie Nga Makinat
 profiler-popup-presets-networking-description = Model për hetim të metash punimi në rrjet në { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Punim në rrjet

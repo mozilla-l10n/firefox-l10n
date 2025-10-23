@@ -46,3 +46,4 @@ crashreporter-error-no-home-dir = Mungon drejtoria shtëpi
 # $to (String) - the destination path
 crashreporter-error-moving-path = S’u arrit të kalohej { $from } te { $to }
 crashreporter-error-version-eol = Fund i jetës së versionit: nuk pranohem më njoftime vithisjesh.
+crashreporter-error-failed-to-generate-minidump = Aplikacioni s’arriti të prodhojë hollësi vithisjeje.
