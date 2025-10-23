@@ -49,6 +49,9 @@ webext-perms-sideload-cancel =
     .accesskey = A
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } është përditësuar. Duhet të miratoni lejet e reja përpara se të instalohet versioni i përditësuar. Zgjedhja e “Anuloje” do të mbajë versionin e tanishëm të zgjerimit.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } është përditësuar. Duhet të miratoni lejet e reja përpara se të instalohet versioni i përditësuar. Zgjedhja e “Anuloje” do të mbajë versionin e tanishëm të zgjerimit. Ky zgjerim do të ketë leje të:
 webext-perms-update-accept =
     .label = Përditësoje
@@ -98,6 +101,19 @@ webext-perms-host-description-multiple-domains =
         [one] Të hyjë në të dhënat tuaja për sajte në përkatësi { $domainCount }
        *[other] Të hyjë në të dhënat tuaja për sajte në përkatësi { $domainCount }
     }
+
+## Strings for data collection permissions in the permission prompt.
+
+webext-perms-description-data-none = Zhvilluesi thotë se ky zgjerim s’lyp mbledhje të dhënash.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = Zhvilluesi thotë se ky zgjerim grumbullon: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = Zhvilluesi thotë se zgjerimi do të grumbullojë: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Zhvilluesi thotë se zgjerimi dëshiron të grumbullojë: { $permissions }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

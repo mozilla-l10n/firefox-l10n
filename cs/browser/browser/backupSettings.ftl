@@ -156,6 +156,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } se nepodařilo obnovit
     .message = Restartujte { -brand-short-name } a zkuste obnovu z vaší zálohy znovu.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Něco se pokazilo
+    .message = V procesu zálohování došlo k problému s { -brand-short-name(case: "ins") }. Zkuste to prosím znovu nebo restartujte { -brand-short-name(case: "acc") }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -174,6 +179,7 @@ change-backup-encryption-header = Změna hesla zálohy
 password-rules-header = Požadavky na heslo
 password-rules-length-description = Alespoň 8 znaků
 password-rules-email-description = Neměla by to být vaše e-mailová adresa
+password-rules-disclaimer = Buďte v bezpečí – neopakujte svá hesla. Podívejte se na další tipy pro <a data-l10n-name="password-support-link">vytváření silných hesel</a>.
 password-validity-has-email = Nemůže to být e-mailová adresa
 password-validity-do-not-match = Hesla si neodpovídají
 
@@ -207,6 +213,13 @@ backup-error-retry = Něco se pokazilo. Zkuste to prosím znovu.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } je připraven k obnovení
+       *[no-cases] Aplikace { -brand-short-name } je připravena k obnovení
+    }
+backup-file-title = Obnovit { -brand-short-name(case: "acc") }
+backup-file-intro = Získejte zpět všechny své záložky, historii a další data. <a data-l10n-name="backup-file-support-link">Zjistit více</a>
 backup-file-path-label = Soubor zálohy:
 backup-file-encryption-state-label = Zašifrováno:
 backup-file-encryption-state-value-encrypted = Ano

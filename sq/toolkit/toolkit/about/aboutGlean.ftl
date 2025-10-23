@@ -152,6 +152,7 @@ about-glean-metrics-table-settings-button = Rregullime
 about-glean-metrics-table-settings-category-general = Të përgjithshme
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Shembull
+about-glean-metrics-table-settings-category-visualizations-timeline = Rrjedhë kohore
 about-glean-metrics-table-settings-timelines-height = Lartësi
 about-glean-metrics-table-settings-timelines-width = Gjerësi
 # The radius of each circle denoting individual events recorded for an event metric
@@ -159,6 +160,8 @@ about-glean-metrics-table-settings-timelines-circle-radius = Rreze rrethi
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtër
 about-glean-button-load-value = Ngarko
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumentim
 about-glean-about-data-explanation =
     Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.
