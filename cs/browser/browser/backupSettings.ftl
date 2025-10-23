@@ -2,6 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This string is used to name the folder that users will save backups to.
+# "Restore" is an action and intended for prompting users to select this folder
+# when following backup restoration steps. Please only include characters that
+# can be used for folders. Invalid characters will be automatically stripped out
+# or replaced with underscores.
+backup-folder-name = Obnovit { -brand-product-name }
+# This string is used for the generated file that will be stored within the
+# backup-folder-name folder. It will have the profile name and an encoding of
+# the backup date appended to it, followed by `.html`. Please only include
+# characters that can be used for filenames. Invalid characters will be
+# automatically stripped out or replaced with underscores.
+#
+# This is an example of what the final filename might look like after the
+# profile name and backup date are appended to it:
+#
+# FirefoxBackup_default_20240606-1830.html
+backup-file-name =
+    { -brand-short-name.case-status ->
+        [with-cases] Zaloha{ -brand-product-name(case: "gen") }
+       *[no-cases] Zaloha{ -brand-product-name }
+    }
 settings-data-backup-header = Zálohování
 settings-data-backup-toggle = Správa zálohování
 settings-data-backup-trigger-button = Zálohovat nyní
@@ -40,6 +61,7 @@ settings-data-change-password = Změnit heslo…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Zapnout zálohování
+turn-on-scheduled-backups-description = { -brand-short-name } vytvoří každých 24 hodin snímek vašich dat. Můžete jej obnovit, pokud se vyskytne problém nebo pokud získáte nové zařízení.
 turn-on-scheduled-backups-support-link = Co se bude zálohovat?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Umístění
@@ -79,6 +101,14 @@ turn-off-scheduled-backups-confirm-button = Vypnout a smazat zálohu
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Obnovení vašich dat
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Tímto nahradíte všechna vaše současná data { -brand-short-name(case: "gen") } zálohou z { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+           *[no-cases] Tímto nahradíte všechna vaše současná data aplikace { -brand-short-name } zálohou z { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+        }
 restore-from-backup-support-link =
     .message = Co bude obnoveno?
 restore-from-backup-no-backup-file-link = Máte problémy s nalezením své zálohy?
@@ -93,6 +123,7 @@ restore-from-backup-password-label = Heslo
 restore-from-backup-password-description = Tím odemknete zašifrovanou zálohu.
 restore-from-backup-cancel-button = Zrušit
 restore-from-backup-confirm-button = Obnovit a restartovat
+restore-from-backup-restoring-button = Obnovuje se…
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -120,6 +151,11 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Tento soubor nefunguje
     .message = Vámi vybraný soubor nebyl vytvořen pomocí aplikace { -brand-short-name }. Vyberte jiný soubor a zkuste to znovu.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } se nepodařilo obnovit
+    .message = Restartujte { -brand-short-name } a zkuste obnovu z vaší zálohy znovu.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
