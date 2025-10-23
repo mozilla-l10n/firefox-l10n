@@ -81,7 +81,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Վերադարձրեք
 
 ##
 
-policy-LocalFileLinks = Թույլատրել հատուկ կայքերին կապվել տեղային նիշքերի հետ։
+policy-LocalFileLinks = Թույլատրել հատուկ կայքերին կապվել տեղային ֆայլերի հետ։
 policy-PrimaryPassword = Պահանջում կամ կանխում է Հիմնական գաղտնաբառի օգտագործումը:
 policy-PrintingEnabled = Միացնել կամ անջատել տպումը:
 policy-NetworkPrediction = Միացնել կամ անջատել ցանցի կանխատեսումը (DNS նախապատվությունը):
@@ -99,7 +99,7 @@ policy-Permissions2 = Կարգավորում է թույլտվություննե
 policy-PictureInPicture = Միացնել կամ անջատել Նկարը նկարում:
 policy-PopupBlocking = Թույլատրել որոշ կայքերին սկզբնադրորեն ցուցադրել թռուցիկներ:
 policy-Preferences = Սահմանեք և կողպեք արժեքը նախապատվությունների ենթաբազմության համար:
-policy-PromptForDownloadLocation = Ներբեռնելու ժամանակ հարցրեք, թե որտեղ պահել նիշքերը:
+policy-PromptForDownloadLocation = Ներբեռնելու ժամանակ հարցրեք, թե որտեղ պահել ֆայլերը:
 policy-Proxy = Կազմաձևել միջնորդի կարգավորումները:
 policy-RequestedLocales = Նախապատվության կարգով սահմանե՛ք հայտի համար պահանջվող տեղանիների ցանկը:
 policy-SanitizeOnShutdown2 = Մաքրել ուղղորդման տվյալները անջատման վերաբերյալ:

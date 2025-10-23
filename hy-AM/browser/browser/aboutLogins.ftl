@@ -304,7 +304,7 @@ about-logins-error-message-default = Գաղտնաբառի պահման ժամա�
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Մուտքագրումների նիշքի արտահանում
+about-logins-export-file-picker-title = Արտահանել մուտքագրումների ֆայլը
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
@@ -319,13 +319,13 @@ about-logins-export-file-picker-export-button = Արտահանել
 about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV փաստաթուղթ
-       *[other] CSV նիշք
+       *[other] CSV ֆայլ
     }
 
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = Ներածեք մուտքագրման նիշքը
+about-logins-import-file-picker-title = Ներածեք մուտքագրման ֆայլը
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Ներմուծեք գաղտնաբառերը { -brand-short-name }-ից
 about-logins-import-file-picker-import-button = Ներածել
@@ -334,14 +334,14 @@ about-logins-import-file-picker-import-button = Ներածել
 about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV փաստաթուղթ
-       *[other] CSV նիշք
+       *[other] CSV ֆայլ
     }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
 about-logins-import-file-picker-tsv-filter-title =
     { PLATFORM() ->
         [macos] TSV փաստաթուղթ
-       *[other] TSV նիշք
+       *[other] TSV ֆայլ
     }
 
 ##
@@ -387,7 +387,7 @@ about-logins-import-dialog-done = Պատրաստ է
 about-logins-import-dialog-error-title = Ներմուծման սխալ
 about-logins-import-dialog-error-conflicting-values-title = Մի քանի հակասող արժեքներ մեկ մուտքի համար
 about-logins-import-dialog-error-file-format-title = Ֆայլի ձևաչափի խնդիր
-about-logins-import-dialog-error-file-permission-title = Հնարավոր չէ կարդալ նիշքը
+about-logins-import-dialog-error-file-permission-title = Հնարավոր չէ կարդալ ֆայլը
 about-logins-import-dialog-error-unable-to-read-title = Հնարավոր չէ կարդալ ֆայլը
 about-logins-import-dialog-error-unable-to-read-description = Համոզվեք, որ ընտրել եք CSV կամ TSV ֆայլ:
 about-logins-import-dialog-error-no-logins-imported = Ոչ մի մուտքագրում չի ներմուծվել

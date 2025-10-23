@@ -49,14 +49,14 @@ contextual-manager-passwords-import-file-picker-import-button = Ներածել
 contextual-manager-passwords-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV փաստաթուղթ
-       *[other] CSV նիշք
+       *[other] CSV ֆայլ
     }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
 contextual-manager-passwords-import-file-picker-tsv-filter-title =
     { PLATFORM() ->
         [macos] TSV փաստաթուղթ
-       *[other] TSV նիշք
+       *[other] TSV ֆայլ
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Գաղտնաբառերը ներմուծված են
@@ -89,7 +89,7 @@ contextual-manager-passwords-export-file-picker-export-button = Արտահանե
 contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV փաստաթուղթ
-       *[other] CSV նիշք
+       *[other] CSV ֆայլ
     }
 # Confirm the removal of all saved passwords
 #   $total (number) - Total number of passwords

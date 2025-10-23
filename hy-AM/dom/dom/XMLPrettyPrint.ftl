@@ -2,4 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xml-nostylesheet = Այս XML նիշքը չունի իր հետ կապված որևէ ոճական տեղեկություն։ Փաստաթղթի ծառը բերված է ստորև։
+xml-nostylesheet = Այս XML ֆայլը չունի իր հետ կապված որևէ ոճական տեղեկություն։ Փաստաթղթի ծառը բերված է ստորև։

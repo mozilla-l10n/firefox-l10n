@@ -20,7 +20,7 @@ site-data-column-storage =
 site-data-column-last-used =
     .label = Վերջինը
 # This label is used in the "Host" column for local files, which have no host.
-site-data-local-file-host = (տեղային նիշք)
+site-data-local-file-host = (տեղային ֆայլ)
 site-data-remove-selected =
     .label = Հեռացնել ընտրվածը
     .accesskey = Հ
