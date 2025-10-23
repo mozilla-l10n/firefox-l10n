@@ -18,6 +18,7 @@ unified-extensions-empty-reason-extension-not-enabled = 您已安装扩展，但
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = 借助扩展，提升浏览体验
 unified-extensions-empty-content-explain-manage2 = 选择“{ unified-extensions-manage-extensions.label }”以在设置中进行管理。
+unified-extensions-empty-content-explain-extensions-onboarding = 通过更改外观和功能、增强隐私保护和安全性，来个性化您的 { -brand-short-name }
 
 ## An extension in the main list
 
