@@ -20,6 +20,14 @@ permission-dialog-description-file-app = 要允许此文件使用“{ $appName }
 permission-dialog-description-extension-app = 要允许扩展“{ $extension }”使用“{ $appName }”打开 { $scheme } 链接吗？
 permission-dialog-description-system-app = 要使用“{ $appName }”打开 { $scheme } 链接吗？
 permission-dialog-description-system-noapp = 要打开 { $scheme } 链接吗？
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = 打开 <strong>{ $scheme }</strong> 链接将允许 <strong>{ $host }</strong> 通过 <strong>{ $appName }</strong> 请求获取您的真实身份信息。请仅在信任此网站时继续操作。
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = 打开 <strong>{ $scheme }</strong> 链接将允许此网站通过 <strong>{ $appName }</strong> 请求获取您的真实身份信息。请仅在信任此网站时继续操作。
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = 打开 <strong>{ $scheme }</strong> 链接将允许 <strong>{ $host }</strong> 从您的数字钱包请求获取真实身份信息。请仅在信任此网站时继续操作。
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = 打开 <strong>{ $scheme }</strong> 链接将允许此网站从您的数字钱包请求获取真实身份信息。请仅在信任此网站时继续操作。
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
