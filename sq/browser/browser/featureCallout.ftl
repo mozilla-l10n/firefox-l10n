@@ -102,6 +102,20 @@ perplexity-callout-primary-label = Pyetni Perplexity-në
 perplexity-callout-secondary-label-1 = Hidhe tej
 perplexity-callout-secondary-label-2 = E mora vesh
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-value-prop-callout-title = Shtojeni këtë faqe te paneli juaj i punëve
+
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-new-device-title-2 = Po kaloni te një pajisje e re? Mos humbni ç’ka vlerë.
+windows-10-eos-sync-new-device-primary-label = Njëkohësoje tani
+windows-10-eos-sync-general-title-2 = Tani është kohë e përshtatshme për të kopjeruajtur fjalëkalimet dhe faqerojtësit tuaj.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Shfaq më pak rekomandime
+windows-10-eos-sync-dismiss-button-label = Hidhe tej
+windows-10-eos-sync-callout-primary-advance-button-label = Pasuesja
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Shfaq te anështylla tituj skedash
@@ -122,6 +136,13 @@ vertical-tabs-callout-2-subtitle = Kjo skemë e bën të kollajtë të kontrollo
 sidebar-pins-callout-title = Po humbni kontrollin mbi skedat tuaja të rëndësishme?
 sidebar-pins-callout-subtitle = Provoni t’i fiksoni, çka i mban në krye të listës së skedave tuaja. Djathtasklikoni mbi një skedë që dëshironi ta fiksoni, mandej zgjidhni “Fiksoje Skedën”.
 sidebar-pins-callout-cta-button = Fiksoje skedën
+
+## Pinning Tabs Strings
+
+pin-tabs-callout-cta-1-button = Fiksojeni këtë skedë
+pin-tabs-callout-2-title = Fiksoni skedat që vizitoni më tepër
+pin-tabs-callout-cta-2-button = Fiksojeni këtë skedë
+pin-tabs-callout-4-title = Fiksoni sajte që vizitoni më tepër
 
 ## Sidebar Onboarding Strings
 

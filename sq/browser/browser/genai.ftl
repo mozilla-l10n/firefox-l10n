@@ -172,6 +172,8 @@ genai-chatbot-summarize-button = Përmblidhe faqen
 genai-chatbot-summarize-sidebar-provider-subtitle = Djathtasklikoni mbi robotin tuaj IA të fjalosjeve te anështylla dhe zgjidhni ’Përmbildhe Faqen”.
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-generic-subtitle = Djathtasklikoni mbi butonin xixa te anështylla dhe zgjidhni ’Përmblidhe Faqen”. Herën e parë do të zgjidhni edhe një robot IA fjalosjesh.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Hapni në anështyllë robotin tuaj IA të fjalosjeve dhe zgjidhni “Përmblidhe  Faqen” te fundi.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -217,12 +219,23 @@ link-preview-reading-time =
         [one] { $range } minutë kohë leximi
        *[other] { $range } minuta kohë leximi
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = S’mund t’i bëjmë dot paraparje kësaj lidhjeje
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Vizitoni lidhjen
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = S’prodhojmë dot pika kyçe për këtë faqe web.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Diçka shkoi ters.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Riprovoni
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Rregullime Paraparjeje Lidhjeje
+# Header for the key points section
+link-preview-key-points-header = Pika kyçe
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Pikat kyçe janë të prodhuara nga IA dhe mund të kenë gabime.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Shihni një paraparje
 # Onboarding card Close button
