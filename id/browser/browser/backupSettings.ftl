@@ -60,6 +60,11 @@ turn-on-scheduled-backups-location-label = Lokasi
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (disarankan)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Pilih...
+       *[other] Ramban...
+    }
 turn-on-scheduled-backups-encryption-label = Cadangkan data sensitif Anda
 turn-on-scheduled-backups-encryption-description = Cadangkan kata sandi, metode pembayaran, dan kuki Anda dengan enkripsi.
 turn-on-scheduled-backups-encryption-create-password-label = Sandi
@@ -67,9 +72,15 @@ turn-on-scheduled-backups-encryption-create-password-label = Sandi
 turn-on-scheduled-backups-encryption-repeat-password-label = Ulangi sandi
 turn-on-scheduled-backups-cancel-button = Batal
 turn-on-scheduled-backups-confirm-button = Aktifkan pencadangan
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Ada masalah dengan folder cadangan yang Anda pilih. Pilih folder lain dan coba lagi.
+backup-error-file-system = Ada masalah dengan folder cadangan yang Anda pilih saat mencadangkan { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Nonaktifkan pencadangan?
+turn-off-scheduled-backups-description = Ini juga akan menghapus semua data cadangan Anda. Ini tidak dapat diurungkan.
 turn-off-scheduled-backups-support-link = Pelajari lebih lanjut
 turn-off-scheduled-backups-cancel-button = Batal
 turn-off-scheduled-backups-confirm-button = Matikan dan hapus cadangan
