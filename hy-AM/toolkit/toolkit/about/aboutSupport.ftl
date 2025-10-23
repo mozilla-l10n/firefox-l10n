@@ -54,6 +54,9 @@ app-basics-enabled-plugins = Միացված բաղադրիչներ
 app-basics-build-config = Հավաքման ձևաչափ
 app-basics-user-agent = Օգտետերի Դիտարկիչը
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta թարգմանված
 app-basics-memory-use = Հիշողության ծավալ
 app-basics-performance = Արտադրողականություն
 app-basics-service-workers = Գրանցված Service Workers

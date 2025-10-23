@@ -14,6 +14,15 @@ urlbar-translations-button2 =
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
     .tooltiptext = Փորձեք գաղտնի թարգմանությունները { -brand-shorter-name }. Beta-ում
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = Էջը թարգմանվել է { $fromLanguage }-ից { $toLanguage }
 urlbar-translations-button-loading =
     .tooltiptext = Թարգմանությունն ընթացքի մեջ է
 translations-panel-settings-button =
