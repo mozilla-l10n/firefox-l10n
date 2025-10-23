@@ -151,6 +151,9 @@ about-glean-metrics-table-header-type = Τύπος
 about-glean-metrics-table-header-value = Τιμή
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Ενέργειες
+about-glean-metrics-table-settings-category-visualizations-timeline = Χρονολόγιο
+about-glean-metrics-table-settings-timelines-height = Ύψος
+about-glean-metrics-table-settings-timelines-width = Πλάτος
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Φίλτρο
 # This message sits alongside an input field, further describing its purpose.
