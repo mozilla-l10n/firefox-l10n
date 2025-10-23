@@ -230,4 +230,32 @@ backup-file-creation-date-label = Vytvořeno:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") }
 backup-file-how-to-restore-header = Jak obnovit:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Otevřete nabídku aplikace ☰ a přejděte do Nastavení > Synchronizace
+backup-file-moz-browser-restore-step-2 = Klepněte na „Vybrat soubor se zálohou“ a vyberte tento soubor
+backup-file-other-browser-restore-step-1 = Stáhnout a nainstalovat { -brand-short-name }
 backup-file-download-moz-browser-button = Stáhnout
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Spusťte aplikaci { -brand-short-name }, otevřete nabídku aplikace ☰ a přejděte do Nastavení > Synchronizace
+backup-file-other-browser-restore-step-3 = Klepněte na „Vybrat soubor se zálohou“ a vyberte tento soubor
+backup-file-other-browser-restore-step-4 = Na vyžádání aplikaci { -brand-short-name } restartujte
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Poznámka:</b> Nalezen { $numberOfOtherBackupsFound } další soubor se zálohou
+        [few] <b>Poznámka:</b> Nalezeny { $numberOfOtherBackupsFound } další soubory se zálohou
+        [many] <b>Poznámka:</b> Nalezeno { $numberOfOtherBackupsFound } dalších souborů se zálohou
+       *[other] <b>Poznámka:</b> Nalezeno { $numberOfOtherBackupsFound } dalších souborů se zálohou
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Vytvořeno dne { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na zařízení { $machineName }
