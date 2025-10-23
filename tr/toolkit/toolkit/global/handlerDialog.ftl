@@ -58,7 +58,7 @@ chooser-dialog =
     .buttonaccesskeyaccept = B
 chooser-dialog-description = { $scheme } bağlantısını açmak için bir uygulama seçin.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
-chooser-dialog-remember = <strong>{ $scheme }</strong> bağlantılarını açmak için her zaman bu uygulamayı kullan
+chooser-dialog-remember = <strong>{ $scheme }</strong> bağlantılarını her zaman bu uygulamayla aç
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] Bu ayarı { -brand-short-name } seçeneklerinden değiştirebilirsiniz.
