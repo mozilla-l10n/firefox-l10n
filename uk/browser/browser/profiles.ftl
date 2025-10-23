@@ -133,3 +133,60 @@ flower-avatar = Квітка
 heart-avatar = Серце
 shopping-avatar = Кошик для покупок
 star-avatar = Зірка
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Застосувати аватар зі штангою
+bike-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з велосипедом
+book-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із книгою
+briefcase-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із портфелем
+picture-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із зображенням
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з рукоділлям
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з глобусом
+diamond-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з діамантом
+flower-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із квіткою
+folder-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із текою
+hammer-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з молотком
+heart-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із серцем
+heart-rate-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із пульсом
+clock-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з годинником
+leaf-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з листком
+lightbulb-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з лампочкою
+makeup-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з макіяжем
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із повідомленням
+musical-note-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з нотою
+palette-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із палітрою
+paw-print-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з відбитком лапи
+plane-avatar-tooltip =
+    .tooltiptext = Застосувати аватар з літаком
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із подарунком
+shopping-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із кошиком для покупок
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Застосувати аватар із футбольним м'ячем
