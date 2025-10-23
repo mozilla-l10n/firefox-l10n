@@ -136,6 +136,23 @@ about-glean-metrics-table-header-type = Tür
 about-glean-metrics-table-header-value = Değer
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Eylemler
+about-glean-metrics-table-settings-button = Ayarlar
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Ölçüm tablosu ayarları
+about-glean-metrics-table-settings-category-general = Genel
+about-glean-metrics-table-settings-hide-empty-value-rows = Boş değerli satırları gizle
+about-glean-metrics-table-settings-category-visualizations = Görselleştirmeler
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Örnek
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Grafiğin maksimum yüksekliği
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Ölçeklenmiş maksimum yükseklik
+about-glean-metrics-table-settings-category-visualizations-timeline = Zaman çizelgesi
+about-glean-metrics-table-settings-timelines-height = Yükseklik
+about-glean-metrics-table-settings-timelines-width = Genişlik
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Daire yarıçapı
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtrele
 # This message sits alongside an input field, further describing its purpose.
