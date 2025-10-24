@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Escolha um nome como “Trabalho” ou “Pessoal”
 new-profile-page-done-button =
     .label = Concluir edição
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Sua cópia do { $profilename } está pronta para ser personalizada
+copied-profile-page-header-description = Copiamos seus dados e configurações para um novo perfil. Agora dê um nome, escolha uma aparência e deixe do seu jeito.
 profile-window-title-2 = { -brand-short-name } - Escolha um perfil
 profile-window-logo =
     .alt = Logotipo do { -brand-short-name }

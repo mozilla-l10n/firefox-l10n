@@ -1268,6 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de endereços
+addressbar-suggest-1 = Escolher quais sugestões exibir na barra de endereços
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Sugestões do { -brand-short-name } e de nossos parceiros na barra de endereços.
 addressbar-suggest = Ao usar a barra de endereços, sugerir
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Barra de endereços — { -firefox-suggest-brand-name }
@@ -1295,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Sites preferidos
     .accesskey = S
+addressbar-locbar-engines-option-1 =
+    .label = Sugerir mecanismos de pesquisa a usar
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Mecanismos de pesquisa
     .accesskey = a
@@ -1315,6 +1323,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Receba sugestões da web relaciona
 addressbar-locbar-suggest-sponsored-option =
     .label = Sugestões de patrocinadores
 addressbar-locbar-suggest-sponsored-desc = Apoie o { -brand-short-name } com sugestões patrocinadas esporádicas.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Obter sugestões da Mozilla à medida que você digita
 addressbar-quickactions-learn-more = Saiba mais
 addressbar-dismissed-suggestions-label = Sugestões descartadas
 addressbar-restore-dismissed-suggestions-description = Restaurar sugestões descartadas de patrocinadores e do { -brand-short-name }.
