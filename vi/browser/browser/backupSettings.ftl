@@ -21,8 +21,12 @@ backup-folder-name = Khôi phục { -brand-product-name }
 backup-file-name = BanSaoLuu{ -brand-product-name }
 settings-data-backup-header = Sao lưu
 settings-data-backup-toggle = Quản lý sao lưu
+settings-data-backup-toggle-on = Bật sao lưu
+settings-data-backup-toggle-off = Tắt sao lưu
 settings-data-backup-trigger-button = Sao lưu ngay
 settings-data-backup-in-progress-button = Đang sao lưu…
+settings-data-backup-in-progress-message =
+    .message = Đang sao lưu…
 settings-data-backup-scheduled-backups-on = Sao lưu: BẬT
 settings-data-backup-scheduled-backups-off = Sao lưu: TẮT
 settings-data-backup-scheduled-backups-description = Tự động tạo bản sao dấu trang, lịch sử và dữ liệu khác của bạn. <a data-l10n-name="support-link">Tìm hiểu thêm</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = Không thể khôi phục { -brand-short-name }
     .message = Hãy thử khởi động lại { -brand-short-name } và thử khôi phục bản sao lưu của bạn một lần nữa.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, có vấn đề khi sao lưu.
+    .message = Hãy thử lại sau vài phút.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =

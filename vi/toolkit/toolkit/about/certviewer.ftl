@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Địa phương hợp nhất
 certificate-viewer-locality = Thành phố
 certificate-viewer-location = Địa chỉ
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Tên nhật ký
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID bản ghi
 certificate-viewer-method = Phương thức
 certificate-viewer-modulus = Mô-đun

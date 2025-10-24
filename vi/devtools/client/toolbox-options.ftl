@@ -143,3 +143,5 @@ options-source-maps-tooltip =
     .title = Nếu bạn bật tùy chọn này, các nguồn sẽ được ánh xạ trong các công cụ.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Chỉ phiên hiện tại, tải lại trang
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (tải lại trang)

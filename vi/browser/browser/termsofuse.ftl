@@ -11,6 +11,8 @@ existing-user-tou-message = <strong>Cập nhật</strong> Chúng tôi đã đưa
 existing-user-tou-learn-more = Tìm hiểu thêm
 # Text for primary button
 existing-user-tou-accept = Chấp nhận
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Chúng tôi đã cập nhật <a data-l10n-name="privacy-notice-link">thông báo về quyền riêng tư</a> của chúng tôi để phản ánh các tính năng mới nhất trong { -brand-short-name }.
 
 ## Existing User Terms of Use Spotlight
 
