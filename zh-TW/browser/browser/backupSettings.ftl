@@ -21,8 +21,12 @@ backup-folder-name = 還原 { -brand-product-name }
 backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header = 備份
 settings-data-backup-toggle = 管理備份
+settings-data-backup-toggle-on = 開啟備份
+settings-data-backup-toggle-off = 關閉備份
 settings-data-backup-trigger-button = 立即備份
 settings-data-backup-in-progress-button = 正在備份…
+settings-data-backup-in-progress-message =
+    .message = 正在備份…
 settings-data-backup-scheduled-backups-on = 備份：開啟
 settings-data-backup-scheduled-backups-off = 備份：關閉
 settings-data-backup-scheduled-backups-description = 自動保護您的書籤、瀏覽紀錄與其他資料。<a data-l10n-name="support-link">了解更多</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } 無法還原
     .message = 請重新啟動 { -brand-short-name } 再嘗試還原備份。
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = 備份時發生問題。
+    .message = 請稍候幾分鐘再試一次。
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =

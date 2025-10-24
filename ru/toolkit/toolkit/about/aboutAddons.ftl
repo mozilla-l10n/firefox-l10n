@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Включить
 extensions-warning-imported-addons2 =
     .message = Пожалуйста, завершите установку расширений, которые были импортированы в { -brand-short-name }.
 extensions-warning-imported-addons-button = Установка расширений
+extensions-warning-safe-mode3 =
+    .message = Все дополнения были отключены Безопасным режимом.
 
 ## Strings connected to add-on updates
 

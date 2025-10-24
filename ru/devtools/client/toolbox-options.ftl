@@ -30,6 +30,10 @@ options-context-inspector = Инспектор
 options-show-user-agent-styles-label = Отображать стили браузера
 options-show-user-agent-styles-tooltip =
     .title = Включение приведёт к отображению стилей по умолчанию, применяемых браузером.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Показать теневую DOM браузера
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Включение приведёт к отображению элементов теневого DOM, обрабатываемых браузером.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Обрезать атрибуты DOM
 options-collapse-attrs-tooltip =
@@ -145,3 +149,5 @@ options-source-maps-tooltip =
     .title = Если вы включите эту настройку, исходники будут картированы в инструментах.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Только текущая сессия, перезагружает страницу
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (перезагружает страницу)

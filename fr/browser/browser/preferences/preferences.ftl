@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Pour activer l’extension, sélectionnez <img data-l10n-name="addons-icon"/> Modules complémentaires dans le menu <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } contrôle certains des paramètres de votre page d’accueil.
 
 ## Preferences UI Search Results
 
@@ -600,6 +603,7 @@ home-new-windows-tabs-description2 = Choisissez ce qui est affiché lorsque vous
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Page d’accueil et nouvelles fenêtres
+home-homepage-mode-label2 = Nouvelles fenêtres
 home-newtabs-mode-label = Nouveaux onglets
 home-restore-defaults =
     .label = Configuration par défaut
@@ -612,6 +616,11 @@ home-mode-choice-blank =
     .label = Page vide
 home-homepage-custom-url =
     .placeholder = Coller une adresse…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Gérer l’extension
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Choisir un site en particulier
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,13 +635,38 @@ use-current-pages =
 choose-bookmark =
     .label = Marque-page…
     .accesskey = m
+home-homepage-header = Page d’accueil
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Page d’accueil personnalisée
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Adresse(s) de site web
+home-custom-homepage-address =
+    .placeholder = Saisissez une adresse
+home-custom-homepage-address-button =
+    .label = Ajouter une adresse
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Aucun site web ajouté pour l’instant.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Remplacer par
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Pages ouvertes actuellement
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Marque-pages…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contenu de la { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Choisissez le contenu que vous souhaitez pour la { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Recherche web
+home-prefs-search-header2 =
+    .label = Recherche
 home-prefs-shortcuts-header =
     .label = Raccourcis
 home-prefs-shortcuts-description = Sites que vous enregistrez ou visitez
@@ -647,6 +681,9 @@ home-prefs-recommended-by-description-new = Contenu exceptionnel sélectionné p
 home-prefs-recommended-by-header-generic =
     .label = Articles recommandés
 home-prefs-recommended-by-description-generic = Contenu exceptionnel sélectionné par les membres de la gamme de produits { -brand-product-name }
+home-prefs-stories-header =
+    .label = Articles
+home-prefs-stories-description = Articles personnalisés en fonction de votre activité
 
 ##
 
@@ -685,6 +722,8 @@ home-prefs-support-firefox-header =
     .label = Soutenir { -brand-product-name }
 home-prefs-mission-message = Nos sponsors soutiennent notre mission de créer un meilleur Web
 home-prefs-mission-message-learn-more-link = Découvrir comment
+home-prefs-manage-topics-link = Gérer les sujets
+home-prefs-choose-wallpaper-link = Choisir un fond d’écran
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1229,6 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Barre d’adresse
+addressbar-suggest-1 = Choisissez les suggestions à afficher dans votre barre d’adresse
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Des suggestions de { -brand-short-name } et de nos partenaires dans votre barre d’adresse.
 addressbar-suggest = Lors de l’utilisation de la barre d’adresse, afficher des suggestions depuis
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Barre d’adresse — { -firefox-suggest-brand-name }
@@ -1256,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Les sites les plus visités
     .accesskey = v
+addressbar-locbar-engines-option-1 =
+    .label = Suggérer des moteurs de recherche à utiliser
+    .accesskey = S
 addressbar-locbar-engines-option =
     .label = Les moteurs de recherche
     .accesskey = r

@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = 使用諸如「工作」或「個人」這樣的名稱
 new-profile-page-done-button =
     .label = 編輯完成
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = 已經可以調整您的 { $profilename } 了
+copied-profile-page-header-description = 已將您的資料與設定複製到新的設定檔中。接下來取個名字、挑選外觀，讓它有您的風格。
 profile-window-title-2 = { -brand-short-name } - 選擇設定檔
 profile-window-logo =
     .alt = { -brand-short-name } 圖示

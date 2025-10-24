@@ -30,6 +30,10 @@ options-context-inspector = 檢測器
 options-show-user-agent-styles-label = 顯示瀏覽器樣式
 options-show-user-agent-styles-tooltip =
     .title = 開啟此功能將會顯示瀏覽器載入的預設樣式。
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = 顯示瀏覽器 Shadow DOM
+options-show-user-agent-shadow-dom-tooltip =
+    .title = 開啟此選項後，將顯示瀏覽器處理的 Shadow DOM 元素。
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = 截斷 DOM 屬性
 options-collapse-attrs-tooltip =
@@ -145,3 +149,5 @@ options-source-maps-tooltip =
     .title = 若您開啟此選項，將會在開發者工具中進行原始碼對應。
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * 僅在目前瀏覽階段有效，將會重新載入頁面
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = （將重新載入網頁）

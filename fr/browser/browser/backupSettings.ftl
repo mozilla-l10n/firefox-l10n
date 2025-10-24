@@ -21,8 +21,12 @@ backup-folder-name = Restaurer { -brand-product-name }
 backup-file-name = Sauvegarde_de_{ -brand-product-name }
 settings-data-backup-header = Sauvegarde
 settings-data-backup-toggle = Gérer la sauvegarde
+settings-data-backup-toggle-on = Activer la sauvegarde
+settings-data-backup-toggle-off = Désactiver la sauvegarde
 settings-data-backup-trigger-button = Sauvegarder maintenant
 settings-data-backup-in-progress-button = Sauvegarde en cours
+settings-data-backup-in-progress-message =
+    .message = Sauvegarde en cours
 settings-data-backup-scheduled-backups-on = Sauvegarde : Activée
 settings-data-backup-scheduled-backups-off = Sauvegarde : Désactivée
 settings-data-backup-scheduled-backups-description = Protégez automatiquement vos marque-pages, votre historique et vos autres données. <a data-l10n-name="support-link">En savoir plus</a>
@@ -133,6 +137,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } n’a pas pu être restauré
     .message = Veuillez redémarrer { -brand-short-name } et essayer de le restaurer à nouveau.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hum, un problème est survenu lors de la sauvegarde.
+    .message = Réessayez d’ici quelques minutes.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =

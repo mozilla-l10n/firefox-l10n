@@ -165,6 +165,8 @@ extensions-warning-update-security-button = 開啟
 extensions-warning-imported-addons2 =
     .message = 請完成已匯入 { -brand-short-name } 的擴充套件的安裝步驟。
 extensions-warning-imported-addons-button = 安裝擴充套件
+extensions-warning-safe-mode3 =
+    .message = 所有附加元件於「疑難排解模式」中都已停用。
 
 ## Strings connected to add-on updates
 

@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $nam
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = 要啟用這套擴充套件，請到 <img data-l10n-name="menu-icon"/> 選單中的 <img data-l10n-name="addons-icon"/> 附加元件。
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } 會控制您的部分首頁設定。
 
 ## Preferences UI Search Results
 
@@ -588,6 +591,7 @@ home-new-windows-tabs-description2 = 選擇開啟首頁、新視窗和新分頁�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = 首頁與新視窗
+home-homepage-mode-label2 = 新視窗
 home-newtabs-mode-label = 新分頁
 home-restore-defaults =
     .label = 回復為預設值
@@ -600,6 +604,11 @@ home-mode-choice-blank =
     .label = 空白頁
 home-homepage-custom-url =
     .placeholder = 貼上網址…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = 管理擴充套件
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = 選擇特定網站
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -614,13 +623,38 @@ use-current-pages =
 choose-bookmark =
     .label = 使用書籤…
     .accesskey = B
+home-homepage-header = 首頁
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = 自訂首頁
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = 網站網址
+home-custom-homepage-address =
+    .placeholder = 請輸入網址
+home-custom-homepage-address-button =
+    .label = 新增網址
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = 尚未加入任何網站。
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = 取代為
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = 目前開啟的頁面
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = 書籤…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }內容
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = 選擇要在您的 { -firefox-home-brand-name }畫面顯示哪些內容。
 home-prefs-search-header =
     .label = 網頁搜尋
+home-prefs-search-header2 =
+    .label = 搜尋
 home-prefs-shortcuts-header =
     .label = 捷徑
 home-prefs-shortcuts-description = 您儲存或造訪過的網站
@@ -635,6 +669,9 @@ home-prefs-recommended-by-description-new = 由 { -brand-product-name } 的姊�
 home-prefs-recommended-by-header-generic =
     .label = 推薦的文章
 home-prefs-recommended-by-description-generic = 由 { -brand-product-name } 產品家族精選的內容文章
+home-prefs-stories-header =
+    .label = 文章
+home-prefs-stories-description = 依照您的上網行為，提供個人化文章推薦
 
 ##
 
@@ -673,6 +710,8 @@ home-prefs-support-firefox-header =
     .label = 支持 { -brand-product-name }
 home-prefs-mission-message = 贊助商支持我們打造出一個更好的網路環境的使命
 home-prefs-mission-message-learn-more-link = 看看是如何達成的
+home-prefs-manage-topics-link = 管理主題
+home-prefs-choose-wallpaper-link = 挑選一張背景圖
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1217,6 +1256,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = 網址列
+addressbar-suggest-1 = 選擇要在網址列顯示哪些建議
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = 將在網址列顯示來自 { -brand-short-name } 與我們的夥伴所提供的建議。
 addressbar-suggest = 在使用網址列時提供建議
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = 網址列 — { -firefox-suggest-brand-name }
@@ -1244,6 +1288,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = 熱門網站
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = 建議要使用的搜尋引擎
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = 搜尋引擎
     .accesskey = a
@@ -1264,6 +1311,14 @@ addressbar-locbar-suggest-nonsponsored-desc = 取得您搜尋內容的相關建�
 addressbar-locbar-suggest-sponsored-option =
     .label = 來自贊助商的建議
 addressbar-locbar-suggest-sponsored-desc = 讓贊助商偶爾顯示廣告，支持 { -brand-short-name } 的發展。
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = 一邊打字，一邊從 Mozilla 取得建議
 addressbar-quickactions-learn-more = 了解更多
 addressbar-dismissed-suggestions-label = 忽略的建議
 addressbar-restore-dismissed-suggestions-description = 還原顯示被忽略的贊助商與 { -brand-short-name } 建議。

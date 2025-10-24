@@ -92,3 +92,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[many] { $extensionsCount } расширений отключено
         }
     .message = Некоторые из ваших расширений были отключены из-за нарушения политик Mozilla.
+unified-extensions-notice-safe-mode =
+    .message = Все расширения были отключены в Безопасном режиме.
