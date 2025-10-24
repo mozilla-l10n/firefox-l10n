@@ -484,10 +484,12 @@ create-backup-screen-1-flair = Tilrådd
 create-backup-screen-1-sync-label = Synkroniser med { -brand-product-name }
 create-backup-screen-1-sync-body = Sikkerheitskopierer alle pålogga einingar
 create-backup-screen-1-backup-label = Sikkerheitskopier til PC
+create-backup-screen-1-backup-body = Lagrar på eininga di eller OneDrive
 create-backup-select-tile-button-label = Vel
 create-backup-back-button-label = Tilbake
 create-backup-show-fewer =
     .label = Vis færre slike
+create-backup-screen-2-title = Vel { -brand-product-name }-data som skal sikkerheitskopierast
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Enkelt oppsett
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup

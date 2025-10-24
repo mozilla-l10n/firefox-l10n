@@ -11,6 +11,8 @@
 unified-extensions-header-title = Utvidingar
 unified-extensions-manage-extensions =
     .label = Handsam utvidingar
+unified-extensions-discover-extensions =
+    .label = Oppdag utvidingar
 
 ## An extension in the main list
 

@@ -259,6 +259,11 @@ tab-context-unnamed-group =
     .label = Namnlaus gruppe
 tab-group-name-default = Namnlaus gruppe
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Fanelista er open
+
 ##
 
 tab-context-move-tab-to-new-group =
@@ -342,3 +347,4 @@ tab-group-context-open-saved-group-in-new-window =
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Delt visning
+tab-context-badge-new = Ny

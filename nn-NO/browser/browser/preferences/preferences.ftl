@@ -629,12 +629,27 @@ choose-bookmark =
     .label = Bruk bokmerke…
     .accesskey = u
 
+## Custom Homepage subpage
+
+home-custom-homepage-address =
+    .placeholder = Skriv inn adresse
+home-custom-homepage-address-button =
+    .label = Legg til adresse
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Erstatt med:
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Bokmerke…
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } Innhald
 home-prefs-content-description2 = Velg kva for innhald som du vil ha på { -firefox-home-brand-name }-skjermen din.
 home-prefs-search-header =
     .label = Nettsøk
+home-prefs-search-header2 =
+    .label = Søk
 home-prefs-shortcuts-header =
     .label = Snarvegar
 home-prefs-shortcuts-description = Nettstadar du lagrar eller besøkjer
@@ -649,6 +664,9 @@ home-prefs-recommended-by-description-new = Eksepsjonelt innhald sett saman av {
 home-prefs-recommended-by-header-generic =
     .label = Tilrådde artiklar
 home-prefs-recommended-by-description-generic = Eineståande innhald utvalt av { -brand-product-name }-familien
+home-prefs-stories-header =
+    .label = Artiklar
+home-prefs-stories-description = Personlege artiklar basert på aktiviteten din
 
 ##
 
@@ -687,6 +705,7 @@ home-prefs-support-firefox-header =
     .label = Støtt { -brand-product-name }
 home-prefs-mission-message = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett
 home-prefs-mission-message-learn-more-link = Finn ut korleis
+home-prefs-manage-topics-link = Handsam emne
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
