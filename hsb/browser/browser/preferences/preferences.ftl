@@ -1331,6 +1331,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Wobstarajće sej namjety z weba na
 addressbar-locbar-suggest-sponsored-option =
     .label = Namjety wot sponsorow
 addressbar-locbar-suggest-sponsored-desc = Podpěrajće { -brand-short-name } ze składnostnymi sponserowanymi namjetami
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Wotwołajće namjety wot Mozilla, hdyž pisaće
 addressbar-quickactions-learn-more = Dalše informacije
 addressbar-dismissed-suggestions-label = Zaćisnjenje namjety
 addressbar-restore-dismissed-suggestions-description = Zaćisnjene namjety wot sponsorow a { -brand-short-name } wobnowić.
