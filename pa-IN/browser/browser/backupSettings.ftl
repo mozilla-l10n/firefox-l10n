@@ -21,8 +21,12 @@ backup-folder-name = { -brand-product-name } ਨੂੰ ਬਹਾਲ ਕਰੋ
 backup-file-name = { -brand-product-name } ਦਾ ਬੈਕਅੱਪ
 settings-data-backup-header = ਬੈਕਅੱਪ
 settings-data-backup-toggle = ਬੈਕਅੱਪ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+settings-data-backup-toggle-on = ਬੈਕਅੱਪ ਨੂੰ ਚਾਲੂ ਕਰੋ
+settings-data-backup-toggle-off = ਬੈਕਅੱਪ ਨੂੰ ਬੰਦ ਕਰੋ
 settings-data-backup-trigger-button = ਹੁਣੇ ਬੈਕਅੱਪ ਲਵੋ
 settings-data-backup-in-progress-button = …ਬੈਕਅੱਪ ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ
+settings-data-backup-in-progress-message =
+    .message = …ਬੈਕਅੱਪ ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ
 settings-data-backup-scheduled-backups-on = ਬੈਕਅੱਪ: ਚਾਲੂ
 settings-data-backup-scheduled-backups-off = ਬੈਕਅੱਪ: ਬੰਦ
 settings-data-backup-scheduled-backups-description = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਡਾਟੇ ਨੂੰ ਆਪਣੇ-ਆਪ ਸੁਰੱਖਿਅਤ ਰੱਖੋ। <a data-l10n-name="support-link">ਹੋਰ ਜਾਣੋ</a>
@@ -107,6 +111,11 @@ restore-from-backup-restoring-button = …ਬਹਾਲ ਕੀਤਾ ਜਾ ਰ�
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = ਪਾਸਵਰਡ ਗਲਤ ਹੈ। <a data-l10n-name="incorrect-password-support-link">ਹਾਲੇ ਵੀ ਸਮੱਸਿਆਵਾਂ ਹਨ?</a>
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = ਓਹ ਹੋ, ਬੈਕ ਅੱਪ ਲੈਣ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ।
+    .message = ਕੁਝ ਕੁ ਮਿੰਟਾਂ ਵਿੱਚ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਿਓ।
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
