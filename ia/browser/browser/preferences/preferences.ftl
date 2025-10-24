@@ -113,6 +113,9 @@ extension-controlling-proxy-config = Le <img data-l10n-name ="icon"/> <strong>{ 
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Pro activar le extension elige le additiones <img data-l10n-name="addons-icon"/> in le menu <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } controla alcun parametros de tu pagina initial.
 
 ## Preferences UI Search Results
 
@@ -600,6 +603,7 @@ home-new-windows-tabs-description2 = Elige lo que tu vide quando tu aperi tu pag
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina principal e nove fenestras
+home-homepage-mode-label2 = Nove fenestras
 home-newtabs-mode-label = Nove schedas
 home-restore-defaults =
     .label = Restaurar le predefinitiones
@@ -612,6 +616,9 @@ home-mode-choice-blank =
     .label = Pagina vacue
 home-homepage-custom-url =
     .placeholder = Colla un URL...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Gerer extension
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,6 +633,7 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcapagina…
     .accesskey = m
+home-homepage-header = Pagina initial
 
 ## Home Section - Firefox Home Content Customization
 
