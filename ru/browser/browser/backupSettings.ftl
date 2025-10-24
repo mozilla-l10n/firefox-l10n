@@ -21,8 +21,12 @@ backup-folder-name = Восстановить { -brand-product-name }
 backup-file-name = Резервная копия { -brand-product-name }
 settings-data-backup-header = Резервная копия
 settings-data-backup-toggle = Управление резервным копированием
+settings-data-backup-toggle-on = Включить резервное копирование
+settings-data-backup-toggle-off = Отключить резервное копирование
 settings-data-backup-trigger-button = Создать резервную копию
 settings-data-backup-in-progress-button = Выполняется резервное копирование...
+settings-data-backup-in-progress-message =
+    .message = Выполняется резервное копирование...
 settings-data-backup-scheduled-backups-on = Резервное копирование: ВКЛЮЧЕНО
 settings-data-backup-scheduled-backups-off = Резервирование: ОТКЛЮЧЕНО
 settings-data-backup-scheduled-backups-description = Автоматически защищайте свои закладки, историю просмотра и другие данные. <a data-l10n-name="support-link">Подробнее</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } не удалось восстановить
     .message = Перезапустите { -brand-short-name } и попробуйте восстановить из резервной копии снова.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Хмм, при резервном копировании возникла проблема.
+    .message = Попробуйте снова через несколько минут.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =

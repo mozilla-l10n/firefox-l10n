@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Выберите имя, например, «Работа» или «Личное».
 new-profile-page-done-button =
     .label = Завершить редактирование
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Ваша копия { $profilename } готова к настройке
+copied-profile-page-header-description = Мы скопировали ваши данные и настройки в новый профиль. Теперь дайте ему имя, выберите внешний вид и сделайте его своим.
 profile-window-title-2 = { -brand-short-name } - Выберите профиль
 profile-window-logo =
     .alt = Логотип { -brand-short-name }
