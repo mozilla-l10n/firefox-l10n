@@ -30,6 +30,10 @@ options-context-inspector = Inspektör
 options-show-user-agent-styles-label = Visa webbläsarstilar
 options-show-user-agent-styles-tooltip =
     .title = Slå på detta kommer att visa standard stilar som är laddade av webbläsaren.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Visa Browser Shadow DOM
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Aktivera detta kommer att visa Shadow DOM-element som hanteras av webbläsaren.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Trunkera DOM-attribut
 options-collapse-attrs-tooltip =
@@ -145,3 +149,5 @@ options-source-maps-tooltip =
     .title = Om du aktiverar det här alternativet kommer källor att mappas i verktygen.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Endast aktuell session, laddar om sidan
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (laddar om sidan)
