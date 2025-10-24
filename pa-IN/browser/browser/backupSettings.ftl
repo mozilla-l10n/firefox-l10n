@@ -154,6 +154,7 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
+enable-backup-encryption-description = ਆਪਣੇ ਪਾਸਵਰਡ, ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਅਤੇ ਕੂਕੀਜ਼ ਦੇ ਬੈਕਅੱਪ ਨਾਲ ਨਾਲ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰੱਖੋ।
 enable-backup-encryption-support-link = ਹੋਰ ਜਾਣੋ
 enable-backup-encryption-create-password-label = ਪਾਸਵਰਡ
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -167,6 +168,7 @@ change-backup-encryption-header = ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਨੂ�
 password-rules-header = ਪਾਸਵਰਡ ਲਈ ਜ਼ਰੂਰਤਾਂ
 password-rules-length-description = ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ
 password-rules-email-description = ਤੁਹਾਡਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਨਹੀਂ ਹੈ
+password-rules-disclaimer = ਸੁਰੱਖਿਅਤ ਰਹੋ — ਪਾਸਵਰਡਾਂ ਨੂੰ ਮੁੜ ਮੁੜ ਨਾ ਵਰਤੋਂ। <a data-l10n-name="password-support-link">ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਬਣਾਓ</a> ਤੋਂ ਹੋਰ ਸੁਝਾਅ ਲਵੋ।
 password-validity-has-email = ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ
 password-validity-do-not-match = ਪਾਸਵਰਡ ਮਿਲਦੇ ਨਹੀਂ ਹਨ
 
@@ -202,6 +204,7 @@ backup-error-retry = ਕੁਝ ਗਲਤ ਵਾਪਰਿਆ ਹੈ। ਫੇਰ 
 
 backup-file-header = { -brand-short-name } ਬਹਾਲ ਕੀਤੇ ਜਾਣ ਲਈ ਤਿਆਰ ਹੈ
 backup-file-title = { -brand-short-name } ਨੂੰ ਬਹਾਲ ਕਰੋ
+backup-file-intro = ਬਰਾਊਜ਼ਰ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰੋ। <a data-l10n-name="backup-file-support-link">ਹੋਰ ਜਾਣੋ</a>
 backup-file-path-label = ਬੈਕਅੱਪ ਫ਼ਾਇਲ:
 backup-file-encryption-state-label = ਇਕ੍ਰਿਪਟਡ:
 backup-file-encryption-state-value-encrypted = ਹਾਂ
