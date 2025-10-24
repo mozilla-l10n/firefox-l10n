@@ -110,3 +110,4 @@ backup-file-encryption-state-value-encrypted = Ja
 backup-file-encryption-state-value-not-encrypted = Nei
 backup-file-creation-device-label = Eining:
 backup-file-creation-date-label = Oppretta:
+backup-file-download-moz-browser-button = Last ned
