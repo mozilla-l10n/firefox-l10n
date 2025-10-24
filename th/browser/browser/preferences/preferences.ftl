@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = เพื่อเปิดใช้งานส่วนขยาย ไปยัง <img data-l10n-name="addons-icon"/> ส่วนเสริม ใน <img data-l10n-name="menu-icon"/> เมนู
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } จะควบคุมการตั้งค่าหน้าแรกบางอย่างของคุณ
 
 ## Preferences UI Search Results
 
@@ -588,6 +591,7 @@ home-new-windows-tabs-description2 = เลือกสิ่งที่คุ�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = หน้าแรกและหน้าต่างใหม่
+home-homepage-mode-label2 = หน้าต่างใหม่
 home-newtabs-mode-label = แท็บใหม่
 home-restore-defaults =
     .label = เรียกคืนค่าเริ่มต้น
@@ -600,6 +604,11 @@ home-mode-choice-blank =
     .label = หน้าว่าง
 home-homepage-custom-url =
     .placeholder = วาง URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = จัดการส่วนขยาย
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = เลือกไซต์ที่ต้องการ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -614,13 +623,38 @@ use-current-pages =
 choose-bookmark =
     .label = ใช้ที่คั่นหน้า…
     .accesskey = ท
+home-homepage-header = หน้าแรก
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = หน้าแรกกำหนดเอง
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = ที่อยู่เว็บไซต์
+home-custom-homepage-address =
+    .placeholder = ป้อนที่อยู่
+home-custom-homepage-address-button =
+    .label = เพิ่มที่อยู่
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = ยังไม่ได้เพิ่มเว็บไซต์ใด
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = แทนที่ด้วย
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = หน้าที่เปิดปัจจุบัน
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = ที่คั่นหน้า…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = เนื้อหา { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = เลือกเนื้อหาที่คุณต้องการบนหน้าจอ { -firefox-home-brand-name } ของคุณ
 home-prefs-search-header =
     .label = การค้นหาเว็บ
+home-prefs-search-header2 =
+    .label = ค้นหา
 home-prefs-shortcuts-header =
     .label = ทางลัด
 home-prefs-shortcuts-description = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
@@ -635,6 +669,9 @@ home-prefs-recommended-by-description-new = เนื้อหาคัดสร
 home-prefs-recommended-by-header-generic =
     .label = เรื่องราวแนะนำ
 home-prefs-recommended-by-description-generic = เนื้อหาคัดสรรพิเศษโดยผลิตภัณฑ์ตระกูล { -brand-product-name }
+home-prefs-stories-header =
+    .label = เรื่องราว
+home-prefs-stories-description = เรื่องราวที่ปรับแต่งตามกิจกรรมของคุณ
 
 ##
 
@@ -673,6 +710,8 @@ home-prefs-support-firefox-header =
     .label = ร่วมสนับสนุน { -brand-product-name }
 home-prefs-mission-message = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
 home-prefs-mission-message-learn-more-link = ค้นหาว่าทำอย่างไร
+home-prefs-manage-topics-link = จัดการหัวข้อ
+home-prefs-choose-wallpaper-link = เลือกวอลล์เปเปอร์
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
