@@ -84,3 +84,5 @@ unified-extensions-mb-blocklist-warning-multiple =
 unified-extensions-mb-blocklist-error-multiple =
     .heading = { $extensionsCount } 확장 기능이 비활성화됨
     .message = 일부 확장 기능이 Mozilla 정책을 위반하여 비활성화되었습니다.
+unified-extensions-notice-safe-mode =
+    .message = 모든 확장 기능이 문제해결 모드에 의해 비활성화되었습니다.

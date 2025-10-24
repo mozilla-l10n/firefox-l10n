@@ -34,3 +34,17 @@ settings-data-backup-last-backup-date = Siste sikkerhetskopi: { DATETIME($date, 
 settings-data-backup-last-backup-location = Plassering
 settings-data-backup-last-backup-location-show-in-folder = Vis i mappe
 settings-data-backup-last-backup-location-edit = Rediger…
+settings-data-create-backup-error = Det oppsto en feil under oppretting av sikkerhetskopien din den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = Filnavn: { $fileName }
+settings-data-backup-restore-header = Gjenopprett dine data
+
+## These strings are shown under the header if scheduled backups are enabled.
+
+settings-data-toggle-encryption-support-link = Les mer
+settings-data-change-password = Endre passord…
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = Slå på sikkerhetskopiering

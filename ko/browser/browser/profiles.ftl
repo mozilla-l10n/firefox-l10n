@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = “업무” 또는 “개인”과 같은 이름을 사용하세요
 new-profile-page-done-button =
     .label = 편집 완료
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = { $profilename } 사본을 사용자 지정할 준비가 되었습니다.
+copied-profile-page-header-description = 사용자의 데이터와 설정을 새 프로필에 복사했습니다. 이제 이름을 지정하고, 모양을 골라 자신 만의 것으로 만드세요.
 profile-window-title-2 = { -brand-short-name } - 프로필 선택
 profile-window-logo =
     .alt = { -brand-short-name } 로고

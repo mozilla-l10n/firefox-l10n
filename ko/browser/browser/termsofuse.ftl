@@ -11,6 +11,8 @@ existing-user-tou-message = <strong>업데이트</strong> 저희는 { -brand-sho
 existing-user-tou-learn-more = 더 알아보기
 # Text for primary button
 existing-user-tou-accept = 동의
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = { -brand-short-name }의 최신 기능을 반영하도록 <a data-l10n-name="privacy-notice-link">개인정보처리방침</a>을 업데이트했습니다.
 
 ## Existing User Terms of Use Spotlight
 

@@ -183,6 +183,8 @@ about-glean-metrics-table-settings-timelines-chart-padding = Odsazení grafu
 about-glean-metrics-table-settings-timelines-circle-radius = Poloměr kružnice
 # The offset on the x-axis from the end of the horizontal line for the y-axis line
 about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Horizontální posun osy Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Vertikální posun osy Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtr
 # This message sits alongside an input field, further describing its purpose.

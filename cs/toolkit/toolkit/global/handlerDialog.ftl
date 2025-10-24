@@ -20,6 +20,11 @@ permission-dialog-description-file-app = Chcete tomuto souboru povolit otevírat
 permission-dialog-description-extension-app = Chcete rozšíření { $extension } povolit otevírat odkazy typu { $scheme } pomocí aplikace { $appName }?
 permission-dialog-description-system-app = Otevřít odkaz { $scheme } pomocí aplikace { $appName }?
 permission-dialog-description-system-noapp = Chcete otevřít odkaz { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Povolit tomuto serveru otevírat vaši digitální peněženku?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Otevření odkazu typu <strong>{ $scheme }</strong> umožníte serveru <strong>{ $host }</strong> požadovat vaši skutečnou identitu pomocí <strong>{ $appName }</strong>. Pokračujte jen pokud důvěřujete této stránce.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
