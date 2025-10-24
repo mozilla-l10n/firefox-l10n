@@ -25,6 +25,8 @@ backup-file-name =
     }
 settings-data-backup-header = Zálohování
 settings-data-backup-toggle = Správa zálohování
+settings-data-backup-toggle-on = Zapnout zálohování
+settings-data-backup-toggle-off = Vypnout zálohování
 settings-data-backup-trigger-button = Zálohovat nyní
 settings-data-backup-in-progress-button = Probíhá zálohování…
 settings-data-backup-scheduled-backups-on = Zálohování: zapnuto

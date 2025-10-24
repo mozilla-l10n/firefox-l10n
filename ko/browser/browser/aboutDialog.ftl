@@ -49,7 +49,7 @@ aboutdialog-help-user = { -brand-product-name } 도움말
 aboutdialog-submit-feedback = 의견 보내기
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>는  <label data-l10n-name="community-exp-creditsLink">모든 사람이 공공 자원으로서 사용하는 </label> 열린 웹을 만들고자 하는 글로벌 커뮤니티입니다.
 community-2 = { -brand-short-name }는 모든 사람이 공공 자원으로서 사용하는 열린 웹을 만들고자 하는 <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>라는 <label data-l10n-name="community-creditsLink">글로벌 커뮤니티</label>에서 설계했습니다.
-helpus = 돕고 싶으십니까? <label data-l10n-name="helpus-donateLink">기부</label>하시거나 <label data-l10n-name="helpus-getInvolvedLink">참여</label>하세요!
+helpus = 저희를 돕고 싶으세요? <label data-l10n-name="helpus-donateLink">기부</label>하시거나 <label data-l10n-name="helpus-getInvolvedLink">참여</label>하세요!
 bottomLinks-license = 라이선스 정보
 bottom-links-terms = 이용 약관
 bottom-links-privacy = 개인정보처리방침

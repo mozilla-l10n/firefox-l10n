@@ -773,13 +773,22 @@ home-custom-homepage-address-button =
     .label = Přidat adresu
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Dosud nebyly přidány žádné stránky.
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Právě otevřené stránky
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Záložky…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Obsah { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Vyberte obsah, který chcete mít na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }.
 home-prefs-search-header =
     .label = Vyhledávání na webu
+home-prefs-search-header2 =
+    .label = Hledat
 home-prefs-shortcuts-header =
     .label = Zkratky
 home-prefs-shortcuts-description = Uložené nebo navštěvované stránky
@@ -794,6 +803,9 @@ home-prefs-recommended-by-description-new = Výjimečný obsah vybraný společn
 home-prefs-recommended-by-header-generic =
     .label = Doporučené příběhy
 home-prefs-recommended-by-description-generic = Výjimečný obsah od rodiny { -brand-product-name(case: "gen") }
+home-prefs-stories-header =
+    .label = Články
+home-prefs-stories-description = Personalizované příběhy na základě vaší aktivity
 
 ##
 
@@ -840,6 +852,7 @@ home-prefs-support-firefox-header =
         }
 home-prefs-mission-message = Naši sponzoři podporují naši misi budovat lepší web.
 home-prefs-mission-message-learn-more-link = Zjistěte jak
+home-prefs-manage-topics-link = Správa témat
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1397,6 +1410,8 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresní řádek
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = V adresním řádku našeptávat
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresní řádek — { -firefox-suggest-brand-name }

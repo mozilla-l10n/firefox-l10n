@@ -330,6 +330,10 @@ appmenuitem-services-relay-description = Spustit nástěnku e-mailových masek
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Chraňte svou online aktivitu
 appmenu-services-header = Mé služby
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Vyzkoušejte další ochranné nástroje od Mozilly:
 appmenu-other-protection-header =
     { -vendor-short-name.case-status ->
         [with-cases] Vyzkoušejte další nástroje ochrany od { -vendor-short-name(case: "gen") }:
