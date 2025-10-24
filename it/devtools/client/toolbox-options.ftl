@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Attiva mappatura delle origini
 options-source-maps-tooltip =
     .title = Attivando questa opzione la mappatura delle origini verrà utilizzata per i riferimenti al codice sorgente negli strumenti.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * solo sessione corrente, ricarica la pagina
