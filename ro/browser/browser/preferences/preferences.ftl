@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Pentru a activa extensia, mergi la <img data-l10n-name="addons-icon"/>Suplimente din meniul <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } controlează o parte din setările paginii tale de start.
 
 ## Preferences UI Search Results
 
@@ -635,13 +638,38 @@ use-current-pages =
 choose-bookmark =
     .label = Folosește un marcaj…
     .accesskey = B
+home-homepage-header = Pagină de start
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Pagină de start personalizată
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Adresă(e) site web
+home-custom-homepage-address =
+    .placeholder = Introdu adresa
+home-custom-homepage-address-button =
+    .label = Adaugă o adresă
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Nu au fost adăugate încă site-uri web.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Înlocuiește cu
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Pagini deschise acum
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Marcaje…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Conținutul paginii de { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Alege ce conținut vrei pe ecranul { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Căutare web
+home-prefs-search-header2 =
+    .label = Caută
 home-prefs-shortcuts-header =
     .label = Comenzi rapide
 home-prefs-shortcuts-description = Site-uri pe care le salvezi sau le vizitezi
@@ -656,6 +684,9 @@ home-prefs-recommended-by-description-new = Conținut excepțional, selecționat
 home-prefs-recommended-by-header-generic =
     .label = Articole recomandate
 home-prefs-recommended-by-description-generic = Conținut excepțional, selecționat de familia { -brand-product-name }
+home-prefs-stories-header =
+    .label = Articole
+home-prefs-stories-description = Articole personalizate bazate pe activitatea ta
 
 ##
 
@@ -694,6 +725,8 @@ home-prefs-support-firefox-header =
     .label = Susține { -brand-product-name }
 home-prefs-mission-message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun
 home-prefs-mission-message-learn-more-link = Află cum
+home-prefs-manage-topics-link = Gestionează subiectele
+home-prefs-choose-wallpaper-link = Alege o imagine de fundal
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1239,6 +1272,9 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Bară de adresă
+addressbar-suggest-1 = Alege ce sugestii să se afișeze în bara ta de adrese
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Când se folosește bara de adresă, sugerează:
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Bară de adrese — { -firefox-suggest-brand-name }
