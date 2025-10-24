@@ -1256,6 +1256,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = שורת כתובת
+addressbar-suggest-1 = בחירה בהצעות שיוצגו בשורת הכתובת
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = הצעות מ־{ -brand-short-name } ומהשותפים שלנו בשורת הכתובת שלך.
 addressbar-suggest = כאשר משתמשים בסרגל החיפוש, יוצגו המלצות עבור
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = שורת הכתובת - { -firefox-suggest-brand-name }
@@ -1283,6 +1288,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = אתרים מובילים
     .accesskey = מ
+addressbar-locbar-engines-option-1 =
+    .label = הצגת הצעות לשימוש במנועי חיפוש
+    .accesskey = מ
 addressbar-locbar-engines-option =
     .label = מנועי חיפוש
     .accesskey = מ
@@ -1303,6 +1311,14 @@ addressbar-locbar-suggest-nonsponsored-desc = קבלת הצעות מהאינטר
 addressbar-locbar-suggest-sponsored-option =
     .label = הצעות מנותני חסות
 addressbar-locbar-suggest-sponsored-desc = תמיכה ב־{ -brand-short-name } עם הצעות ממומנות מדי פעם.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = אחזור הצעות מ־Mozilla תוך כדי הקלדה
 addressbar-quickactions-learn-more = מידע נוסף
 addressbar-dismissed-suggestions-label = הצעות שנדחו
 addressbar-restore-dismissed-suggestions-description = שחזור הצעות שנדחו מנותני חסות ומ־{ -brand-short-name }.
