@@ -21,8 +21,12 @@ backup-folder-name = 恢复 { -brand-product-name }
 backup-file-name = { -brand-product-name }备份
 settings-data-backup-header = 备份
 settings-data-backup-toggle = 管理备份
+settings-data-backup-toggle-on = 开启备份
+settings-data-backup-toggle-off = 关闭备份
 settings-data-backup-trigger-button = 立即备份
 settings-data-backup-in-progress-button = 正在备份…
+settings-data-backup-in-progress-message =
+    .message = 正在备份…
 settings-data-backup-scheduled-backups-on = 备份：已开启
 settings-data-backup-scheduled-backups-off = 备份：已关闭
 settings-data-backup-scheduled-backups-description = 自动保护您的书签、历史记录等数据。<a data-l10n-name="support-link">详细了解</a>
@@ -140,6 +144,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } 无法进行恢复
     .message = 请重新启动 { -brand-short-name }，并再次尝试恢复备份。
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = 备份时出现问题。
+    .message = 请稍后重试。
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
