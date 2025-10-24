@@ -22,3 +22,9 @@ settings-data-backup-scheduled-backups-on-restore-choose = ກູ້ຄືນ…
 
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = ຕຳແຫນ່ງທີ່ຕັ້ງ
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-description = ອັນນີ້ຍັງລຶບຂໍ້ມູນສຳຮອງທັງໝົດຂອງທ່ານອອກນຳ. ມັນບໍ່ສາມາດຍົກເລີກໄດ້.
+turn-off-scheduled-backups-support-link = ສຶກສາເພີ່ມເຕີມ
+turn-off-scheduled-backups-cancel-button = ຍົກເລີກ
