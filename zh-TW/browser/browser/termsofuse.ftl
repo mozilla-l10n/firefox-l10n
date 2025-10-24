@@ -11,6 +11,8 @@ existing-user-tou-message = <strong>更新</strong>我們推出了 { -brand-shor
 existing-user-tou-learn-more = 更多資訊
 # Text for primary button
 existing-user-tou-accept = 接受
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = 我們更新了<a data-l10n-name="privacy-notice-link">隱私權公告</a>以反映 { -brand-short-name } 最新推出功能。
 
 ## Existing User Terms of Use Spotlight
 

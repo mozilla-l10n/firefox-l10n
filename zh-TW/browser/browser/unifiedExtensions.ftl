@@ -84,3 +84,5 @@ unified-extensions-mb-blocklist-warning-multiple =
 unified-extensions-mb-blocklist-error-multiple =
     .heading = 已停用 { $extensionsCount } 組擴充套件
     .message = 您有一些擴充套件違反了 Mozilla 的政策，已被停用。
+unified-extensions-notice-safe-mode =
+    .message = 所有擴充套件於「疑難排解模式」中都已停用。

@@ -167,3 +167,13 @@ certerror-coep-learn-more = 了解 Cross Origin Embedder Policies（COEP）的�
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = 錯誤代碼：{ $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } 無法與伺服器 { $hostname } 建立安全連線。
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = 看來此網站仍在使用已知有安全性漏洞的舊版軟體。
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = 請確認您使用的是最新版的 { -brand-short-name }。可前往選單中的「說明 > 關於 { -brand-short-name }」確認。若您已經使用最新版的 { -brand-short-name }，那麼最有可能是網站本身的問題。

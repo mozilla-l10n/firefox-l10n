@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = 公司註冊地
 certificate-viewer-locality = 地區
 certificate-viewer-location = 位置
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = 紀錄名稱
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Log ID
 certificate-viewer-method = 方法
 certificate-viewer-modulus = 模數
