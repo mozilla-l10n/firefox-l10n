@@ -30,6 +30,8 @@ options-context-inspector = Inspektor
 options-show-user-agent-styles-label = Wobhladowakowe stile pokazać
 options-show-user-agent-styles-tooltip =
     .title = Jeli to zapinaće, so standardne stile pokazaja, kotrež wobhladowak začituje.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Shadow DOM wobhladowaka pokazać
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM-atributy wottřihać
 options-collapse-attrs-tooltip =
@@ -145,3 +147,5 @@ options-source-maps-tooltip =
     .title = Jeli tute nastajenje zmóžnjeće, so žórła w nastrojach kartěruja.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Jenož aktualne posedźenje, strona so znowa začituje
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (začita stronu znowa)

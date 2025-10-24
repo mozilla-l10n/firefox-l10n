@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $nam
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Zo byšće rozšěrjenje zmóžnił, přeńdźće k <img data-l10n-name="addons-icon"/> přidatkam w <img data-l10n-name="menu-icon"/> meniju.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } někotre nastajenja wašeje startoweje strony wodźi.
 
 ## Preferences UI Search Results
 
@@ -1273,8 +1276,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresowe polo
+addressbar-suggest-1 = Wubjerće, kotre namjety maja so we wašim adresowym polu pokazać
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Namjety z { -brand-short-name } a wot našich partnerow we wašim adresowym polu.
 addressbar-suggest = Při wužiwanju adresoweho pola ma so namjetować
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresowe polo – { -firefox-suggest-brand-name }
@@ -1302,6 +1308,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Najhusćišo wopytane sydła
     .accesskey = N
+addressbar-locbar-engines-option-1 =
+    .label = Namjetujće pytawy, kotrež so maja wužiwać
+    .accesskey = m
 addressbar-locbar-engines-option =
     .label = Pytawy
     .accesskey = P

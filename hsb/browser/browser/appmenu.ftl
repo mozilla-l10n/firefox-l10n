@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Startujće desku e-mejlowych maskow
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Škitajće swoju aktiwitu online
 appmenu-services-header = Moje słužby
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Wupruwujće druhe škitanske nastroje wot Mozilla:
 appmenu-other-protection-header = Testujće druhe škitanske nastroje wot { -vendor-short-name }:
 
 ## Profiles panel

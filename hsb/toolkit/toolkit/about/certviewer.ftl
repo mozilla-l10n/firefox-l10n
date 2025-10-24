@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Městno předewzaća
 certificate-viewer-locality = Městnosć
 certificate-viewer-location = Městno
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Mjeno protokola
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Protokolowy ID
 certificate-viewer-method = Metoda
 certificate-viewer-modulus = Modul

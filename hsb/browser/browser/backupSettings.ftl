@@ -147,6 +147,11 @@ backup-service-error-recovery-failed =
     .message = Startujće { -brand-short-name } znowa a spytajće znowa, swoje zawěsćenje wobnowić.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hm, běše problem při zawěsćenju.
+    .message = Spytajće za mało mjeńšin hišće raz.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
 backup-service-error-went-wrong =
     .heading = Něšto je so nimokuliło
     .message = Je problem ze zawěsćenskim procesom za { -brand-short-name }. Prošu spytajće hišće raz abo startujće { -brand-short-name } znowa.

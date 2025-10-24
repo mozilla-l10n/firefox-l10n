@@ -169,6 +169,8 @@ extensions-warning-update-security-button = Zmóžnić
 extensions-warning-imported-addons2 =
     .message = Prošu dokónčće instalaciju rozšěrjenjow, kotrež su so do { -brand-short-name } importowali.
 extensions-warning-imported-addons-button = Rozšěrjenja instalować
+extensions-warning-safe-mode3 =
+    .message = Wšě přidatki su so přez modus za rozrisowanje problemow znjemóžnili.
 
 ## Strings connected to add-on updates
 
