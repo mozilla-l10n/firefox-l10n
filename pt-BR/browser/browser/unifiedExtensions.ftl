@@ -88,3 +88,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } extensions disabled
         }
     .message = { $extensionsCount } extensões desativadas
+unified-extensions-notice-safe-mode =
+    .message = Todas as extensões foram desativadas pelo modo de solução de problemas.

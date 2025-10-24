@@ -145,3 +145,5 @@ options-source-maps-tooltip =
     .title = Si tu activa iste option le fontes essera mappate in le instrumentos.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Solmente le session actual, recarga le pagina
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (actualisa le pagina)
