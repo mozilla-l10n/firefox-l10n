@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Bật
 extensions-warning-imported-addons2 =
     .message = Vui lòng hoàn tất việc cài đặt các tiện ích mở rộng đã được nhập vào { -brand-short-name }.
 extensions-warning-imported-addons-button = Cài đặt tiện ích mở rộng
+extensions-warning-safe-mode3 =
+    .message = Tất cả tiện ích đã bị vô hiệu hóa bởi chế độ khắc phục sự cố.
 
 ## Strings connected to add-on updates
 

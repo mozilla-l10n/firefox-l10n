@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Khởi chạy bảng điều khiển em
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Bảo vệ hoạt động trực tuyến của bạn
 appmenu-services-header = Dịch vụ của tôi
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Hãy thử các công cụ bảo vệ khác từ Mozilla:
 appmenu-other-protection-header = Hãy thử các công cụ bảo vệ khác từ { -vendor-short-name }:
 
 ## Profiles panel

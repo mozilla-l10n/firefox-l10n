@@ -26,12 +26,14 @@ profile-card =
 default-profile-name = Hồ sơ { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Hồ sơ gốc
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = Sửa hồ sơ
 edit-profile-page-header = Chỉnh sửa hồ sơ của bạn
 edit-profile-page-profile-name-label = Tên hồ sơ
 edit-profile-page-theme-header-2 =
     .label = Chủ đề
 edit-profile-page-explore-themes = Khám phá chủ đề khác
+edit-profile-page-desktop-shortcut-header = Tạo lối tắt trên màn hình desktop
 edit-profile-page-avatar-header-2 =
     .label = Hình đại diện
 edit-profile-page-delete-button =
@@ -58,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Chọn một tên như “Công việc” hoặc “Cá nhân”
 new-profile-page-done-button =
     .label = Hoàn tất sửa
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Bản sao { $profilename } của bạn đã sẵn sàng để tùy chỉnh
+copied-profile-page-header-description = Chúng tôi đã sao chép dữ liệu và cài đặt của bạn vào một hồ sơ mới. Bây giờ, hãy đặt tên, chọn giao diện và biến nó thành của riêng bạn.
 profile-window-title-2 = { -brand-short-name } - Chọn một hồ sơ
 profile-window-logo =
     .alt = Logo { -brand-short-name }

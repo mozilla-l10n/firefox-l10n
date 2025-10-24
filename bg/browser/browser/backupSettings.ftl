@@ -8,6 +8,9 @@
 # can be used for folders. Invalid characters will be automatically stripped out
 # or replaced with underscores.
 backup-folder-name = Възстановяване на { -brand-product-name }
+settings-data-backup-header = Резервни копия
+settings-data-backup-toggle = Управление на резервните копия
+settings-data-backup-toggle-on = Включване на резервните копия
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Местоположение
 settings-data-backup-last-backup-location-edit = Редактиране…

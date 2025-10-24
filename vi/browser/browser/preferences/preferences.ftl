@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Để kích hoạt tiện ích mở rộng hãy vào phần tiện ích <img data-l10n-name="addons-icon"/> trên bảng chọn <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } kiểm soát một số cài đặt trang chủ của bạn.
 
 ## Preferences UI Search Results
 
@@ -588,6 +591,7 @@ home-new-windows-tabs-description2 = Chọn những gì bạn thấy khi bạn m
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Trang chủ và cửa sổ mới
+home-homepage-mode-label2 = Cửa sổ mới
 home-newtabs-mode-label = Thẻ mới
 home-restore-defaults =
     .label = Khôi phục về mặc định
@@ -600,6 +604,11 @@ home-mode-choice-blank =
     .label = Trang trắng
 home-homepage-custom-url =
     .placeholder = Dán một URL...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Quản lý tiện ích
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Chọn một trang web cụ thể
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -614,13 +623,38 @@ use-current-pages =
 choose-bookmark =
     .label = Sử dụng dấu trang…
     .accesskey = B
+home-homepage-header = Trang chủ
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Tùy chỉnh trang chủ
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Địa chỉ trang web
+home-custom-homepage-address =
+    .placeholder = Nhập địa chỉ
+home-custom-homepage-address-button =
+    .label = Thêm địa chỉ
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Chưa có trang web nào được thêm vào.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Thay thế bằng
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Các trang hiện đang mở
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Dấu trang…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Nội dung { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Chọn nội dung bạn muốn trên màn hình { -firefox-home-brand-name } của mình.
 home-prefs-search-header =
     .label = Tìm kiếm web
+home-prefs-search-header2 =
+    .label = Tìm kiếm
 home-prefs-shortcuts-header =
     .label = Lối tắt
 home-prefs-shortcuts-description = Các trang web bạn lưu hoặc truy cập
@@ -635,6 +669,9 @@ home-prefs-recommended-by-description-new = Nội dung đặc biệt do { $provi
 home-prefs-recommended-by-header-generic =
     .label = Câu chuyện được đề xuất
 home-prefs-recommended-by-description-generic = Nội dung đặc biệt được quản lý bởi gia đình { -brand-product-name }
+home-prefs-stories-header =
+    .label = Câu chuyện
+home-prefs-stories-description = Câu chuyện được cá nhân hóa dựa trên hoạt động của bạn
 
 ##
 
@@ -673,6 +710,8 @@ home-prefs-support-firefox-header =
     .label = Hỗ trợ cho { -brand-product-name }
 home-prefs-mission-message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn
 home-prefs-mission-message-learn-more-link = Tìm hiểu cách thức
+home-prefs-manage-topics-link = Quản lý chủ đề
+home-prefs-choose-wallpaper-link = Chọn một hình nền
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1213,6 +1252,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Thanh địa chỉ
+addressbar-suggest-1 = Chọn những đề xuất hiển thị trên thanh địa chỉ của bạn
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Đề xuất từ { -brand-short-name } và các đối tác của chúng tôi trên thanh địa chỉ của bạn.
 addressbar-suggest = Khi dùng thanh địa chỉ, gợi ý
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Thanh địa chỉ — { -firefox-suggest-brand-name }
@@ -1240,6 +1284,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Trang web hàng đầu
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = Đề xuất các công cụ tìm kiếm để sử dụng
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Công cụ tìm kiếm
     .accesskey = t
@@ -1260,6 +1307,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Nhận đề xuất từ ​​web
 addressbar-locbar-suggest-sponsored-option =
     .label = Đề xuất từ nhà tài trợ
 addressbar-locbar-suggest-sponsored-desc = Hỗ trợ { -brand-short-name } với các đề xuất được tài trợ không thường xuyên.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Nhận các đề xuất từ Mozilla khi bạn nhập
 addressbar-quickactions-learn-more = Tìm hiểu thêm
 addressbar-dismissed-suggestions-label = Đề xuất bị loại bỏ
 addressbar-restore-dismissed-suggestions-description = Khôi phục các đề xuất đã bị loại bỏ từ các nhà tài trợ và { -brand-short-name }.

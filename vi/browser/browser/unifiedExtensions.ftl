@@ -90,3 +90,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } tiện ích mở rộng đã bị tắt
         }
     .message = Một số tiện ích mở rộng của bạn đã bị vô hiệu hóa do vi phạm chính sách của Mozilla.
+unified-extensions-notice-safe-mode =
+    .message = Tất cả tiện ích đã bị vô hiệu hóa bởi chế độ xử lý sự cố.
