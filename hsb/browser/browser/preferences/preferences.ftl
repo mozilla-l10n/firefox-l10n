@@ -606,6 +606,7 @@ home-new-windows-tabs-description2 = Wubjerće, štož chceće widźeć, hdyž s
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startowa strona a nowe wokna
+home-homepage-mode-label2 = Nowe wokna
 home-newtabs-mode-label = Nowe rajtarki
 home-restore-defaults =
     .label = Standard wobnowić
@@ -618,6 +619,11 @@ home-mode-choice-blank =
     .label = Prózdna strona
 home-homepage-custom-url =
     .placeholder = URL zasadźić…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Rozšěrjenje rjadować
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Wubjerće wěste sydło
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -632,13 +638,38 @@ use-current-pages =
 choose-bookmark =
     .label = Zapołožku wužiwać…
     .accesskey = Z
+home-homepage-header = Startowa strona
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Swójska startowa strona
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Adresy websydłow
+home-custom-homepage-address =
+    .placeholder = Adresu zapodać
+home-custom-homepage-address-button =
+    .label = Adresu přidać
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Hišće žane websydła přidate.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Wuměnić z
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Aktualne wočinjene strony
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Zapołožki…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } wobsah
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Wubjerće, kotry wobsah chceće na swojej j wobrazowce { -firefox-home-brand-name } měć.
 home-prefs-search-header =
     .label = Webpytanje
+home-prefs-search-header2 =
+    .label = Pytać
 home-prefs-shortcuts-header =
     .label = Zwjazanja
 home-prefs-shortcuts-description = Sydła, kotrež składujeće abo wopytujeće
@@ -653,6 +684,9 @@ home-prefs-recommended-by-description-new = Wosebite wobsah, wubrany přez { $pr
 home-prefs-recommended-by-header-generic =
     .label = Doporučene stawiznički
 home-prefs-recommended-by-description-generic = Wuwzaćowy wobsah, kotryž so přez swójbu { -brand-product-name } hlada
+home-prefs-stories-header =
+    .label = Stawiznički
+home-prefs-stories-description = Personalizowane stawiznički na zakładźe wašeje aktiwity
 
 ##
 
@@ -691,6 +725,8 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } podpěrać
 home-prefs-mission-message = Naši sponsorojo našu misiju podpěruja, zo bychu lěpši web tworili
 home-prefs-mission-message-learn-more-link = Zhońće kak
+home-prefs-manage-topics-link = Temy rjadować
+home-prefs-choose-wallpaper-link = Wubjerće pozadkowy wobraz
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1237,6 +1273,8 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresowe polo
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Při wužiwanju adresoweho pola ma so namjetować
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresowe polo – { -firefox-suggest-brand-name }

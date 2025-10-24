@@ -21,8 +21,12 @@ backup-folder-name = { -brand-product-name } wobnowić
 backup-file-name = Zawěsćenje { -brand-product-name }
 settings-data-backup-header = Zawěsćenje
 settings-data-backup-toggle = Zawěsćenje rjadować
+settings-data-backup-toggle-on = Zawěsćenje zmóžnić
+settings-data-backup-toggle-off = Zawěsćenje znjemóžnić
 settings-data-backup-trigger-button = Nětko zawěsćić
 settings-data-backup-in-progress-button = Zawěsćenje běži…
+settings-data-backup-in-progress-message =
+    .message = Zawěsćenje běži…
 settings-data-backup-scheduled-backups-on = Zawěsćenje: ZAPINJENE
 settings-data-backup-scheduled-backups-off = Zawěsćenje: WUPINJENE
 settings-data-backup-scheduled-backups-description = Škitajće awtomatisce swoje zapołožki, historiju a druhe daty. <a data-l10n-name="support-link">Dalše informacije</a>
