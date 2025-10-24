@@ -92,3 +92,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } de extensii dezactivate
         }
     .message = Unele extensii au fost dezactivate pentru că încalcă politicile Mozilla.
+unified-extensions-notice-safe-mode =
+    .message = Toate extensiile au fost dezactivate în modul de depanare.

@@ -167,6 +167,8 @@ extensions-warning-update-security-button = Activează
 extensions-warning-imported-addons2 =
     .message = Te rugăm să finalizezi instalarea extensiilor importate în { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalează extensii
+extensions-warning-safe-mode3 =
+    .message = Toate suplimentele au fost dezactivate în modul de depanare.
 
 ## Strings connected to add-on updates
 

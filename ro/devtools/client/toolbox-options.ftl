@@ -30,6 +30,10 @@ options-context-inspector = Inspector
 options-show-user-agent-styles-label = Afișează stilurile browserului
 options-show-user-agent-styles-tooltip =
     .title = Pornirea acestei opțiuni va afișa stilurile implicite care sunt încărcate de browser.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Afișează Browser Shadow DOM
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Activarea acestei opțiuni va afișa elementele Shadow DOM gestionate de browser.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Trunchiază atributele DOM
 options-collapse-attrs-tooltip =
@@ -145,3 +149,5 @@ options-source-maps-tooltip =
     .title = Dacă activezi această opțiune, sursele vor fi mapate în instrumente.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Doar sesiunea actuală, reîncarcă pagina
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (reîncarcă pagina)
