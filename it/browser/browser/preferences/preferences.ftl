@@ -1268,6 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra degli indirizzi
+addressbar-suggest-1 = Scegli quali suggerimenti visualizzare nella barra degli indirizzi
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Suggerimenti da { -brand-short-name } e dai nostri partner nella barra degli indirizzi.
 addressbar-suggest = Nella barra degli indirizzi visualizza suggerimenti da:
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Barra degli indirizzi — { -firefox-suggest-brand-name }
@@ -1295,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Siti principali
     .accesskey = a
+addressbar-locbar-engines-option-1 =
+    .label = Suggerisci motori di ricerca da utilizzare
+    .accesskey = z
 addressbar-locbar-engines-option =
     .label = Motori di ricerca
     .accesskey = M
@@ -1315,6 +1323,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Ricevi suggerimenti dal Web relati
 addressbar-locbar-suggest-sponsored-option =
     .label = Suggerimenti dagli sponsor
 addressbar-locbar-suggest-sponsored-desc = Supporta { -brand-short-name } con occasionali suggerimenti sponsorizzati
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Ottieni suggerimenti da Mozilla durante la digitazione
 addressbar-quickactions-learn-more = Ulteriori informazioni
 addressbar-dismissed-suggestions-label = Suggerimenti ignorati
 addressbar-restore-dismissed-suggestions-description = Ripristina i suggerimenti ignorati dagli sponsor e da { -brand-short-name }.

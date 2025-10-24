@@ -159,7 +159,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Se non si conosce <b>{ $mit
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> utilizza un criterio di sicurezza chiamato HTTP Strict Transport Security (HSTS). Questo significa che { -brand-short-name } può connettersi solo in modo sicuro e non è possibile aggiungere un’eccezione per visitare questo sito.
-cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probabilmente nulla, poiché è probabile che sia un problema con il sito stesso.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probabilmente nulla, poiché è probabile che il problema dipenda dal sito stesso.
 certerror-blocked-by-corp-headers-description = A volte i siti web proteggono se stessi e altre persone come te da interazioni indesiderate con altri siti.
 certerror-coop-learn-more = Ulteriori informazioni sui criteri COOP (Cross Origin Opener Policies)
 certerror-coep-learn-more = Ulteriori informazioni sui criteri COEP (Cross Origin Embedder Policies)
@@ -167,3 +167,13 @@ certerror-coep-learn-more = Ulteriori informazioni sui criteri COEP (Cross Origi
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Codice di errore: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } non è in grado di creare una connessione sicura al server per { $hostname }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Sembra che questo sito stia utilizzando software obsoleto con vulnerabilità di sicurezza note.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Assicurati di utilizzare la versione più recente di { -brand-short-name }. Vai a Aiuto > Informazioni su { -brand-short-name } nel menu. Se stai utilizzando la versione più recente di { -brand-short-name }, è probabile che il problema dipenda dal sito stesso.

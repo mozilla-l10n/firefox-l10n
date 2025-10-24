@@ -30,6 +30,10 @@ options-context-inspector = Analisi pagina
 options-show-user-agent-styles-label = Visualizza stili del browser
 options-show-user-agent-styles-tooltip =
     .title = Attivando questa opzione verranno visualizzati gli stili predefiniti caricati dal browser.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Mostra browser shadow DOM
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Attivando questa opzione verranno mostrati gli elementi Shadow DOM gestiti dal browser.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Tronca attributi DOM
 options-collapse-attrs-tooltip =
@@ -145,3 +149,5 @@ options-source-maps-tooltip =
     .title = Attivando questa opzione la mappatura delle origini verrà utilizzata per i riferimenti al codice sorgente negli strumenti.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * solo sessione corrente, ricarica la pagina
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (ricarica la pagina)
