@@ -60,6 +60,9 @@ new-profile-page-input-placeholder =
     .placeholder = Alege un nume precum „Muncă” sau „Personal”
 new-profile-page-done-button =
     .label = Editare terminată
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Copia ta { $profilename } este gata de personalizare
 profile-window-title-2 = { -brand-short-name } - Alege un profil
 profile-window-logo =
     .alt = Logoul { -brand-short-name }

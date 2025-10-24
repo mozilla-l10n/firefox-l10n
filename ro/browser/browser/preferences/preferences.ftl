@@ -1275,6 +1275,8 @@ addressbar-header = Bară de adresă
 addressbar-suggest-1 = Alege ce sugestii să se afișeze în bara ta de adrese
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Sugestii de la { -brand-short-name } și partenerii noștri în bara ta de adrese.
 addressbar-suggest = Când se folosește bara de adresă, sugerează:
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Bară de adrese — { -firefox-suggest-brand-name }
@@ -1302,6 +1304,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Site-uri de top
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = Sugerează motoare de căutare de utilizat
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Motoare de căutare
     .accesskey = a
@@ -1322,6 +1327,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Obține sugestii de pe web legate 
 addressbar-locbar-suggest-sponsored-option =
     .label = Sugestii de la sponsori
 addressbar-locbar-suggest-sponsored-desc = Susține { -brand-short-name } cu sugestii sponsorizate ocazionale.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Preia sugestii de la Mozilla pe măsură ce tastezi
 addressbar-quickactions-learn-more = Află mai multe
 addressbar-dismissed-suggestions-label = Sugestii respinse
 addressbar-restore-dismissed-suggestions-description = Restaurează sugestiile respinse de la sponsori și { -brand-short-name }.
