@@ -60,6 +60,9 @@ new-profile-page-input-placeholder =
     .placeholder = “ਕੰਮ” ਜਾਂ “ਨਿੱਜੀ” ਵਰਗਾ ਨਾਂ ਚੁਣੋ
 new-profile-page-done-button =
     .label = ਸੋਧ ਕਰਨੀ ਪੂਰੀ ਹੋਈ
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = { $profilename } ਦੀ ਤੁਹਾਡੀ ਕਾਪੀ ਕਸਟਮਾਈਜ਼ ਕਰਨ ਲਈ ਤਿਆਰ ਹੈ
 profile-window-title-2 = { -brand-short-name } - ਇੱਕ ਪਰੋਫ਼ਾਈਲ ਚੁਣੋ
 profile-window-logo =
     .alt = { -brand-short-name } ਲੋਗੋ

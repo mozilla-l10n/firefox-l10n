@@ -48,6 +48,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = …ਬੈਕਅੱ�
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = ਪਿਛਲੀ ਕੀਤੇ ਬੈਕ ਅੱਪ ਤੋਂ ਆਪਣੇ { -brand-product-name } ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰੋ।
 settings-data-backup-scheduled-backups-on-restore-choose = …ਬਹਾਲ ਕਰੋ
 settings-data-toggle-encryption-label = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
 settings-data-toggle-encryption-description = ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਅਤੇ ਕੂਕੀਜ਼ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਰਾਹੀਂ ਬੈਕ ਅੱਪ ਲਵੋ।
@@ -76,6 +77,10 @@ turn-on-scheduled-backups-encryption-create-password-label = ਪਾਸਵਰਡ
 turn-on-scheduled-backups-encryption-repeat-password-label = ਪਾਸਵਰਡ ਦੁਹਰਾਓ
 turn-on-scheduled-backups-cancel-button = ਰੱਦ ਕਰੋ
 turn-on-scheduled-backups-confirm-button = ਬੈਕਅੱਪ ਨੂੰ ਚਾਲੂ ਕਰੋ
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = ਤੁਹਾਡੇ ਚੁਣੇ ਬੈਕਅੱਪ ਫੋਲਡਰ ਨਾਲ ਸਮੱਸਿਆ ਸੀ। ਵੱਖਰਾ ਫੋਲਡਰ ਚੁਣ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+backup-error-file-system = { -brand-short-name } ਨੂੰ ਬੈਕ ਅੱਪ ਕਰਨ ਦੌਰਾਨ ਤੁਹਾਡੇ ਵਲੋਂ ਚੁਣੇ ਫੋਲਡਰ ਨਾਲ ਸਮੱਸਿਆ ਆਈ ਸੀ।
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
@@ -111,6 +116,30 @@ restore-from-backup-restoring-button = …ਬਹਾਲ ਕੀਤਾ ਜਾ ਰ�
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = ਪਾਸਵਰਡ ਗਲਤ ਹੈ। <a data-l10n-name="incorrect-password-support-link">ਹਾਲੇ ਵੀ ਸਮੱਸਿਆਵਾਂ ਹਨ?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = ਇਹ ਫ਼ਾਇਲ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ਹੈ
+    .message = ਚੁਣੇ ਬੈਕਅੱਪ ਫੋਲਡਰ ਨਾਲ ਸਮੱਸਿਆ ਸੀ। ਵੱਖਰਾ ਫੋਲਡਰ ਚੁਣ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = ਇਹ ਫ਼ਾਇਲ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ਹੈ
+    .message = ਫ਼ਾਇਲ { -brand-short-name } ਦੇ ਇਸ ਵਰਜ਼ਨ ਨਾਲ ਅਨੁਕੂਲ ਨਹੀਂ ਹੈ। ਵੱਖਰੀ ਫ਼ਾਇਲ ਨੂੰ ਚੁਣ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = ਇਹ ਫ਼ਾਇਲ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ਹੈ
+    .message = ਫ਼ਾਇਲ { -brand-short-name } ਵਲੋਂ ਨਹੀਂ ਬਣਾਈ ਗਈ ਸੀ। ਵੱਖਰੀ ਫ਼ਾਇਲ ਚੁਣ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } ਨੂੰ ਬਹਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
+    .message = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ ਅਤੇ ਆਪਣੇ ਬੈਕਅੱਪ ਤੋਂ ਫੇਰ ਬਹਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =

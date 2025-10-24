@@ -1309,6 +1309,14 @@ addressbar-locbar-suggest-nonsponsored-desc = ਤੁਹਾਡੀ ਖੋਜ ਨ�
 addressbar-locbar-suggest-sponsored-option =
     .label = ਸਪੌਂਸਰਾਂ ਵਲੋਂ ਸੁਝਾਅ
 addressbar-locbar-suggest-sponsored-desc = ਕਦੇ ਕਦਾਈ ਸਪੌਂਸਰਾਂ ਵਲੋਂ ਸੁਝਾਆਵਾਂ ਨਾਲ { -brand-short-name } ਦੀ ਮਦਦ ਕਰੋ
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਲਿਖੋ, ਨਾਲ ਦੀ ਨਾਲ Mozilla ਵਲੋਂ ਸੁਝਾਅ ਲਵੋ
 addressbar-quickactions-learn-more = ਹੋਰ ਜਾਣੋ
 addressbar-dismissed-suggestions-label = ਸੁਝਾਆਵਾਂ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
 addressbar-restore-dismissed-suggestions-description = ਸਪੌਂਸਰਾਂ ਅਤੇ { -brand-short-name } ਵਲੋਂ ਖ਼ਾਰਜ ਕੀਤੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ।
