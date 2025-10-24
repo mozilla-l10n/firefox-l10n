@@ -145,3 +145,5 @@ options-source-maps-tooltip =
     .title = Beim Aktivieren dieser Einstellung beziehen sich Quelltextverweise in den Werkzeugen auf entsprechenden, meist lesbareren Quelltext anstatt den eigentlichen, meist minimierten Quelltext.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Nur für aktuelle Sitzung, lädt Seite neu
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (lädt die Seite neu)

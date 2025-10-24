@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Um die Erweiterung zu aktivieren, öffnen Sie das <img data-l10n-name="menu-icon"/> Menü und dann <img data-l10n-name="addons-icon"/> Add-ons.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } kontrolliert einige Ihrer Startseiten-Einstellungen.
 
 ## Preferences UI Search Results
 
@@ -616,6 +619,8 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Erweiterung verwalten
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Wählen Sie eine bestimmte Website
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -630,9 +635,11 @@ use-current-pages =
 choose-bookmark =
     .label = Lesezeichen verwenden…
     .accesskey = L
+home-homepage-header = Startseite
 
 ## Custom Homepage subpage
 
+home-custom-homepage-header = Benutzerdefinierte Startseite
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Website-Adresse(n)
 home-custom-homepage-address =
@@ -674,6 +681,9 @@ home-prefs-recommended-by-description-new = Besondere Inhalte ausgewählt von { 
 home-prefs-recommended-by-header-generic =
     .label = Empfohlene Geschichten
 home-prefs-recommended-by-description-generic = Besondere Inhalte ausgewählt von der { -brand-product-name }-Familie
+home-prefs-stories-header =
+    .label = Geschichten
+home-prefs-stories-description = Personalisierte Geschichten basierend auf Ihrer Aktivität
 
 ##
 
@@ -712,6 +722,7 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } unterstützen
 home-prefs-mission-message = Unsere Sponsoren unterstützen unsere Mission, ein besseres Internet zu schaffen
 home-prefs-mission-message-learn-more-link = Erfahren, wie das geht
+home-prefs-manage-topics-link = Themen verwalten
 home-prefs-choose-wallpaper-link = Wählen Sie ein Hintergrundbild
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -1309,6 +1320,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Erhalten Sie Vorschläge aus dem W
 addressbar-locbar-suggest-sponsored-option =
     .label = Vorschläge von Sponsoren
 addressbar-locbar-suggest-sponsored-desc = Unterstützen Sie { -brand-short-name } mit gelegentlichen gesponserten Vorschlägen.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Abrufen von Vorschlägen von Mozilla beim Eintippen
 addressbar-quickactions-learn-more = Weitere Informationen
 addressbar-dismissed-suggestions-label = Verworfene Vorschläge
 addressbar-restore-dismissed-suggestions-description = Verworfene Vorschläge von Sponsoren und { -brand-short-name } wiederherstellen.

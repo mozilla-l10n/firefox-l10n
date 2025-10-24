@@ -91,4 +91,4 @@ unified-extensions-mb-blocklist-error-multiple =
         }
     .message = Einige Ihrer Erweiterungen wurden aufgrund von Verstößen gegen Mozillas Richtlinien deaktiviert.
 unified-extensions-notice-safe-mode =
-    .message = Alle Erweiterungen wurden im Fehlerbehebungsmodus deaktiviert.
+    .message = Alle Erweiterungen wurden durch den Fehlerbehebungsmodus deaktiviert.
