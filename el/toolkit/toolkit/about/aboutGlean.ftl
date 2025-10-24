@@ -168,6 +168,7 @@ about-glean-metrics-table-settings-histograms-chart-padding = Γέμισμα γ�
 about-glean-metrics-table-settings-category-visualizations-timeline = Χρονολόγιο
 about-glean-metrics-table-settings-timelines-height = Ύψος
 about-glean-metrics-table-settings-timelines-width = Πλάτος
+about-glean-metrics-table-settings-timelines-chart-padding = Γέμισμα γραφήματος
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Ακτίνα κύκλου
 # Label displayed near an input field that can be used to filter metrics

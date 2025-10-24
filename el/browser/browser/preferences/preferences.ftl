@@ -600,6 +600,7 @@ home-new-windows-tabs-description2 = Επιλέξτε τι θα βλέπετε �
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Αρχική σελίδα και νέα παράθυρα
+home-homepage-mode-label2 = Νέα παράθυρα
 home-newtabs-mode-label = Νέες καρτέλες
 home-restore-defaults =
     .label = Επαναφορά προεπιλογών
@@ -612,6 +613,11 @@ home-mode-choice-blank =
     .label = Κενή σελίδα
 home-homepage-custom-url =
     .placeholder = Επικόλληση URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Διαχείριση επέκτασης
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Επιλογή συγκεκριμένου ιστοτόπου
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,13 +632,38 @@ use-current-pages =
 choose-bookmark =
     .label = Χρήση σελιδοδείκτη…
     .accesskey = σ
+home-homepage-header = Αρχική σελίδα
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Προσαρμοσμένη αρχική σελίδα
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Διευθύνσεις ιστοτόπων
+home-custom-homepage-address =
+    .placeholder = Εισαγάγετε διεύθυνση
+home-custom-homepage-address-button =
+    .label = Προσθήκη διεύθυνσης
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Δεν έχουν προστεθεί ακόμα ιστότοποι.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Αντικατάσταση με
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Τρέχουσες ανοικτές σελίδες
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Σελιδοδείκτες…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Περιεχόμενο οθόνης «{ -firefox-home-brand-name }»
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Επιλέξτε το περιεχόμενο που θέλετε στην οθόνη «{ -firefox-home-brand-name }».
 home-prefs-search-header =
     .label = Διαδικτυακή αναζήτηση
+home-prefs-search-header2 =
+    .label = Αναζήτηση
 home-prefs-shortcuts-header =
     .label = Συντομεύσεις
 home-prefs-shortcuts-description = Ιστότοποι από σελιδοδείκτες ή ιστορικό
@@ -647,6 +678,9 @@ home-prefs-recommended-by-description-new = Εξαιρετικό περιεχό�
 home-prefs-recommended-by-header-generic =
     .label = Προτεινόμενα άρθρα
 home-prefs-recommended-by-description-generic = Εξαιρετικό περιεχόμενο από την οικογένεια του { -brand-product-name }
+home-prefs-stories-header =
+    .label = Άρθρα
+home-prefs-stories-description = Εξατομικευμένα άρθρα με βάση τη δραστηριότητά σας
 
 ##
 
@@ -685,6 +719,8 @@ home-prefs-support-firefox-header =
     .label = Υποστηρίξτε το { -brand-product-name }
 home-prefs-mission-message = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο
 home-prefs-mission-message-learn-more-link = Μάθετε πώς
+home-prefs-manage-topics-link = Διαχείριση θεμάτων
+home-prefs-choose-wallpaper-link = Επιλογή ταπετσαρίας
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1229,6 +1265,8 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Γραμμή διευθύνσεων
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name(case: "nom") }
 addressbar-suggest = Κατά τη χρήση της γραμμής διευθύνσεων, να γίνονται προτάσεις από
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Γραμμή διευθύνσεων — { -firefox-suggest-brand-name(case: "nom") }
