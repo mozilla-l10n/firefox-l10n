@@ -94,5 +94,5 @@ options-enable-service-workers-http-tooltip =
     .title = Suubaroo woo tunandiroo ga service workers kul tunandi HTTP boŋ kanjey kaŋ na goyjinay bataa feeri kul se.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Aššil dawtiirawey tunandi
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Goywaatoo hinne se, moɲoo zumandi taaga

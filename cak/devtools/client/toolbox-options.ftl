@@ -112,5 +112,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Titzij Rusetul Xe'el
 options-source-maps-tooltip =
     .title = We natzïj re cha'oj xe'el re' xke'atzu' pa ri taq samajib'äl.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Xa xe re moloj wakami chanin, tasamajib'ej ri ruxaq

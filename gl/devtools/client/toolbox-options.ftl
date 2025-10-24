@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Activar ligazóns a fontes
 options-source-maps-tooltip =
     .title = Se activa esta opción, as fontes ligaranse nas ferramentas.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Para a sesión actual, recargue a páxina

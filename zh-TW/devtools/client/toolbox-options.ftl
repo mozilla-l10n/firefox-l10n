@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = 開啟原始碼對應表
 options-source-maps-tooltip =
     .title = 若您開啟此選項，將會在開發者工具中進行原始碼對應。
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * 僅在目前瀏覽階段有效，將會重新載入頁面

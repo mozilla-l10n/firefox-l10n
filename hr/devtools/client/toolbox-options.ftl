@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Aktiviraj mapiranja izvora
 options-source-maps-tooltip =
     .title = Ako aktiviraš ovu opciju, izvori će se mapirati u alatima.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Samo trenutačna sesija, ponovo učitava stranicu

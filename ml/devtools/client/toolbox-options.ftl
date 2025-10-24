@@ -82,5 +82,5 @@ options-enable-remote-label = വിദൂര ഡീബഗ്ഗിങ് പ്
 options-enable-service-workers-http-label = എച് ടി ടി പി മുഖേന സര്‍വീസ് വര്‍ക്കര്‍സ് എനബിള്‍ ചെയ്യുക (ടൂള്‍ബോക്സ് ഓപ്പണ്‍ ആയിരിക്കുമ്പോള്‍)
 options-enable-service-workers-http-tooltip =
     .title = ഈ ഓപ്ഷൻ ഓണാക്കുന്നത്, ടൂൾബോക്സ് തുറന്നിട്ടുള്ള എല്ലാ ടാബുകള്‍ക്കും എച് ടി ടി പി മുഖേന സര്‍വീസ് വര്‍ക്കര്‍സ് എനബിള്‍ ചെയ്യും.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * നിലവിലുള്ള സെഷന്‍ മാത്രം, താള്‍ വീണ്ടും ലഭ്യമാക്കുന്നു

@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Ενεργοποίηση χαρτών πηγής
 options-source-maps-tooltip =
     .title = Αν ενεργοποιήσετε αυτήν την επιλογή, οι πηγές θα αντιστοιχηθούν στα εργαλεία.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Τρέχουσα συνεδρία μόνο, επαναφορτώνει τη σελίδα

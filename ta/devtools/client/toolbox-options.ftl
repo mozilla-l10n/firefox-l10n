@@ -84,5 +84,5 @@ options-enable-service-workers-http-tooltip =
     .title = இந்த விருப்பத்தை இயக்கினால் கருவிப்பெட்டி திறந்துள்ள கீற்றுகள் அனைத்திற்கும் HTTP சேவைப் பணியாளர்களைச் செயற்படுத்தும்.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = மூல வரைபடங்களைச் செயற்படுத்த
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * நடப்பு அமர்வில் மட்டும், பக்கத்தை மீளேற்றுகிறது

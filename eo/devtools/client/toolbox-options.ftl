@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Aktivigi mapojn de fontoj
 options-source-maps-tooltip =
     .title = Se vi aktivigas tiun ĉi elekteblon, fontoj estos mapitaj en la iloj.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Nur en la nuna seanco, tio reŝargas la paĝon

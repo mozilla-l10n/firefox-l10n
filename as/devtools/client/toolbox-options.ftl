@@ -73,5 +73,5 @@ options-disable-javascript-tooltip =
     .title = এই বিকল্প অন কৰিলে বৰ্তমান টেবৰ বাবে JavaScript অসামৰ্থবান হ'ব। যদি টেব অথবা সঁজুলিবাকচ বন্ধ কৰা হয় তেন্তে এই সংহতি মনত ৰখা নহব।
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = দূৰৱৰ্তী ডিবাগিং সামৰ্থবান কৰক
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * কে‌ৱল বৰ্তমান অধিবেশন, পৃষ্ঠা পুনৰ ল'ড কৰে

@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Boarneferwizingen ynskeakelje
 options-source-maps-tooltip =
     .title = As jo dizze opsje ynskeakelje, sille boarnen yn it ark tawizen wurde.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Allinnich aktuele sesje, fernijt de side

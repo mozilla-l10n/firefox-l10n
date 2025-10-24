@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = 启用源代码映射
 options-source-maps-tooltip =
     .title = 如果您启用此选项，工具中的源代码将被映射。
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * 仅限当前会话，将重新加载当前页面

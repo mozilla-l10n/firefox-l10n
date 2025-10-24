@@ -105,5 +105,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = فعال‌سازی نقشه های منابع
 options-source-maps-tooltip =
     .title = اگر شما این قابلیت را فعال کنید منابع قادر به ترسیم در ابزارخواهند بود.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = تنها نشست فعلی، صفحه را بازآوری می‌کند

@@ -105,5 +105,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = উৎস ম্যাপ সক্রিয় করুন
 options-source-maps-tooltip =
     .title = আপনি যদি এই অপশন সক্রিয় করেন টুলে সোর্স ম্যাপড হবে।
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = *কেবল বর্তমান সেশন, পাতা পুনরায় লোড করে

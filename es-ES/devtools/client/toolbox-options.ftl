@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Activar mapas de código fuente
 options-source-maps-tooltip =
     .title = Si activa esta opción, los códigos fuentes serán mapeados en las herramientas.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Sólo sesión actual, recarga la página

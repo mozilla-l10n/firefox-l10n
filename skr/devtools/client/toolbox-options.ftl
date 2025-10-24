@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = سورس نقشے فعال بݨاؤ
 options-source-maps-tooltip =
     .title = جے تساں ایں اختیار کوں فعال کریندے او تاں ذرائع کوں ٹولز وِچ میپ کیتا ویسے۔
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * صرف موجودہ سیشن، ورقہ کوں دوبارہ لوڈ کریندا ہے۔

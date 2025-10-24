@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = 소스맵 사용
 options-source-maps-tooltip =
     .title = 이 옵션을 사용하면 소스가 도구에서 매핑됩니다.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * 현재 세션만 해당되며, 페이지를 새로 고침

@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Brontoewijzingen inschakelen
 options-source-maps-tooltip =
     .title = Als u deze optie inschakelt, zullen bronnen in de hulpmiddelen worden toegewezen.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Alleen huidige sessie, vernieuwt de pagina

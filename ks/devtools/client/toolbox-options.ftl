@@ -73,5 +73,5 @@ options-disable-javascript-tooltip =
     .title = یہ اوپشن آن کرنْہ سْیت گژھ ڈیسیبْل جاوا سیکریپٹْہ موجود تیبس باپت۔ اگر ذن یہ ٹیب یا ٹول بوکْس بند کرنْہ یِیہ تیلہ یِیہ یہ سیٹینگ مْشراونْہ۔
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = اینیبْل کْریو ریموٹ ڈیبگینگ
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = موجود سیشن صرف، پیج چُھ ری لوڈ کران*

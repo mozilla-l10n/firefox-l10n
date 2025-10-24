@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Mapy źródeł
 options-source-maps-tooltip =
     .title = Po włączeniu tej funkcji, źródła będą mapowane w narzędziach
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Tylko bieżąca sesja, przeładowuje stronę

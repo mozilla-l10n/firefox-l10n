@@ -118,5 +118,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Միացնել աղբիւրի քարտեզները
 options-source-maps-tooltip =
     .title = Եթե Դուք միացրել էք այս ընտրանքը, աղբիւրները կը տեղորոշուեն գործիքներում:
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Միայն ընթացիկ շրջանը, էջը վերբեռնում է

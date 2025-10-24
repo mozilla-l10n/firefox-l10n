@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Aktifkan Peta Sumber
 options-source-maps-tooltip =
     .title = Jika opsi ini diaktifkan, kode sumber akan dipetakan dalam alat.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Hanya sesi ini saja, memulai ulang laman

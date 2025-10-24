@@ -105,5 +105,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Qaynaq Haritalarını Qabilleştir
 options-source-maps-tooltip =
     .title = Bu seçenekni qabilleştirseñiz aletlerde menbalar haritalanğan olur.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Faqat cari oturım, saifeni kene yükler

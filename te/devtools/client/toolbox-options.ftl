@@ -103,5 +103,5 @@ options-enable-service-workers-http-tooltip =
     .title = ఈ ఎంపికను ఆన్ చేయడం వల్ల టూల్ బాక్స్ తెరిచిన అన్ని ట్యాబ్ల కోసం HTTP పైగా సేవ కార్మికులు ఎనేబుల్ చేస్తుంది.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = మూల మ్యాప్ లను ప్రారంభించు
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * ప్రస్తుత సెషన్ మాత్రమే, పేజీ తిరిగిలోడుచేయును

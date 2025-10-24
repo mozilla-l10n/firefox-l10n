@@ -112,5 +112,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Įgalinti ištekliaus žemėlapius
 options-source-maps-tooltip =
     .title = Įjungus šią parinktį, ištekliai bus atvaizduojami priemonėse.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Galioja tik šią sesiją, įkelia tinklalapį iš naujo

@@ -94,5 +94,5 @@ options-enable-service-workers-http-tooltip =
     .title = Ukujija olu khetho  kuya kuvulela abasebenzi benkonzo ngaphezu kwe-HTTP yazo zonke iithebhu ezinethulbhoksi evuliweyo
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Vumela iiMephu zoMthombo
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Iseshoni ekhoyo kuphela iyaphinda ilowuda iphepha

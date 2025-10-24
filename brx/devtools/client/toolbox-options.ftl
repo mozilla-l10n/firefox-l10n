@@ -73,5 +73,5 @@ options-disable-javascript-tooltip =
     .title = बे उफ्राखौ अन खालामोब्ला दानि टेबनि थाखाय जाभास्क्रिप्टखौ लोरबां खालामगोन। टेब एबा टुलबाक्सुखौ बन्द खालामोब्ला बे सेटिंखौ बावलांगोन।
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = रिमट डेबागिंखौ हाहोनाय खालाम
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = दानि जथुम्माल', बिलाइखौ फिन ल'ड खालामो

@@ -83,5 +83,5 @@ options-enable-remote-label = Masofadan nosozliklarni jo‘natishni yoqish
 options-enable-service-workers-http-label = Service Workers ta’minotini sinash xususiyatlarini yoqib qo‘yadi (asboblar paneli ochiq bo‘lganda)
 options-enable-service-workers-http-tooltip =
     .title = Asboblar paneli bo‘lgan barcha ichki oynalar uchun HTTP ustida service workers ta’minotni yoqib qo‘yadi.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Faqat joriy seans, sahifani qayta yuklaydi

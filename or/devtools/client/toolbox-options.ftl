@@ -73,5 +73,5 @@ options-disable-javascript-tooltip =
     .title = ଏହି ବିକଳ୍ପକୁ ଅନ କରିବା ଫଳରେ ତାହା JavaScript କୁ  ଏହି ଟ୍ୟାବ ପାଇଁ ନିଷ୍କ୍ରିୟ କରିଥାଏ। ଯଦି ସେହି ଟ୍ୟାବ କିମ୍ବା ସାଧନ ବାକ୍ସକୁ ବନ୍ଦ ଥାଏ ତେବେ ଏହି ସଂରଚନାକୁ ଭୁଲିଯିବ।
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = ସୁଦୂର ତ୍ରୁଟି ନିବାରଣକୁ ସକ୍ରିୟ କରନ୍ତୁ
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * କେବଳ ପ୍ରଚଳିତ ଅଧିବେଶନ, ପୃଷ୍ଠାକୁ ପୁନର୍ଦ୍ଧାରଣ କରିଥାଏ

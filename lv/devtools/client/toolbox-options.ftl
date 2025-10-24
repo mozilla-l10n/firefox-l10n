@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Ieslēgt pirmkoda kartes
 options-source-maps-tooltip =
     .title = Ja ieslēgsiet šo iespēju, pirmkods tika kartēts rīkos.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Tikai šo sesiju, pārlādē lapu

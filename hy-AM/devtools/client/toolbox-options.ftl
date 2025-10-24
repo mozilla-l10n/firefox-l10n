@@ -113,5 +113,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Միացնել աղբյուրի քարտեզները
 options-source-maps-tooltip =
     .title = Եթե միացնեք այս ընտրանքը՝ աղբյուրները կքարտեզագրվեն գործիքներում։
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Միայն ընթացիկ շրջանը, վերաբացում է էջը

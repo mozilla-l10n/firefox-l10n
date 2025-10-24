@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Forrástérképek engedélyezése
 options-source-maps-tooltip =
     .title = Ha engedélyezi ezt a beállítást, akkor a források le lesznek képezve az eszközökben.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Csak ez a munkamenet, újratölti az oldalt

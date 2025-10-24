@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Kaynak eşlemelerini etkinleştir
 options-source-maps-tooltip =
     .title = Bu seçeneği etkinleştirirseniz kaynaklar araçlarda eşlenecektir.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Yalnızca bu oturumda geçerli, sayfayı yeniden yükler

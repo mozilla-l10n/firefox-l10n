@@ -82,5 +82,5 @@ options-enable-remote-label = दूरस्थ डिबगिंग सक्
 options-enable-service-workers-http-label = HTTP पर वर्कर सेवा सक्षम करू (जखन औजारपेटी खुलल होए)
 options-enable-service-workers-http-tooltip =
     .title = एहि विकल्प कए सक्रिय करबा स HTTP पर वर्कर सेवा सक्रिय भए जाएत  ओ सभटा टैब क लेल जेकरा मे औजारपेटी खुजल होएत |
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * वर्तमान सत्र केवल, फिनु सँ पृष्ठ लोड करैत अछि

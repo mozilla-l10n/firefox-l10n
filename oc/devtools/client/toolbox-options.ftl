@@ -122,5 +122,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Activar las mapas de font
 options-source-maps-tooltip =
     .title = S’activatz aquesta opcion, las fonts seràn ligadas dins las aisinas.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Per aquesta session, recarga la pagina

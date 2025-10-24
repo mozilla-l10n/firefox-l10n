@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Povolit zdrojové mapy
 options-source-maps-tooltip =
     .title = Pokud tuto volbu zapnete, zdroje voleb budou mapované v nástrojích.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Pouze aktuální relace, znovu načte stránku

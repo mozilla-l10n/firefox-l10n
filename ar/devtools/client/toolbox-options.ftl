@@ -89,5 +89,5 @@ options-disable-javascript-tooltip =
 options-enable-remote-label = فعِّل التنقيح البعيد
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = فعّل عمّال الخدمة عبر HTTP (عندما يكون صندوق الأدوات مفتوحا)
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * في الجلسة الحالية فقط، تُعيد تحميل الصفحة

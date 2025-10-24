@@ -143,5 +143,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Фаъол кардани харитаҳои манбаъ
 options-source-maps-tooltip =
     .title = Агар шумо ин имконро фаъол созед, манбаъҳо дар абзорҳо ба харита дароварда мешаванд.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Танҳо ҷаласаи ҷорӣ, саҳифаро аз нав бор мекунад

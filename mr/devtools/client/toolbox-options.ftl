@@ -105,5 +105,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = सोर्स नकाशे सक्षम करा
 options-source-maps-tooltip =
     .title = आपण हा पर्याय स्त्रोत सक्षम केल्यास साधनांमध्ये मॅप केला जाईल.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * फक्त सध्याच्या सत्रकरिता, पृष्ठ पुन्हा लोड करते

@@ -107,5 +107,5 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Включване на Source Maps
 options-source-maps-tooltip =
     .title = Ако е отметнато source maps ще бъдат използвани в инструментите.
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Само за текущата сесия, презарежда страницата

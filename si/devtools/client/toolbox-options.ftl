@@ -80,5 +80,5 @@ options-enable-remote-label = දුරස්ථ නිදොස්කරණය 
 options-enable-custom-formatters-label = අභිරුචි ආකෘතිකරණ සබල කරන්න
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = මූලාශ්‍ර සිතියම් සබල කරන්න
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * වත්මන් වාරයට පමණි, පිටුව යළි පූරණය කරයි

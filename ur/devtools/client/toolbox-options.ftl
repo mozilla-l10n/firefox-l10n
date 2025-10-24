@@ -103,5 +103,5 @@ options-enable-service-workers-http-tooltip =
     .title = اس اختیار کو چالو کرنے سے HTTP کے اوپر سروس کارکنان کو اہل بنائیں گے کہ تمام ٹیب میں ٹول بکس کھلا ہے۔
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = ماخذ نقشہ جات اہل بنائیں
-# The message shown for settings that trigger page reload
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * موجودہ سیشن صرف، صفحات دوبارہ

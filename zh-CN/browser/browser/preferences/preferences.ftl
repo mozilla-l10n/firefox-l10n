@@ -606,6 +606,9 @@ home-mode-choice-blank =
     .label = 空白页
 home-homepage-custom-url =
     .placeholder = 粘贴一个网址…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = 管理扩展
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -620,13 +623,33 @@ use-current-pages =
 choose-bookmark =
     .label = 使用书签…
     .accesskey = B
+home-homepage-header = 主页
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = 自定义主页
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = 网址
+home-custom-homepage-address =
+    .placeholder = 输入地址
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = 未添加网站。
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = 当前打开的页面
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = 书签…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }内容
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = 选择要在您的 { -firefox-home-brand-name }上显示的内容。
 home-prefs-search-header =
     .label = 网络搜索
+home-prefs-search-header2 =
+    .label = 搜索
 home-prefs-shortcuts-header =
     .label = 快捷方式
 home-prefs-shortcuts-description = 您保存或访问过的网站
@@ -641,6 +664,8 @@ home-prefs-recommended-by-description-new = 由 { -brand-product-name } 旗下 {
 home-prefs-recommended-by-header-generic =
     .label = 推荐文章
 home-prefs-recommended-by-description-generic = 由 { -brand-product-name } 系列产品推荐的精选内容
+home-prefs-stories-header =
+    .label = 文章
 
 ##
 
