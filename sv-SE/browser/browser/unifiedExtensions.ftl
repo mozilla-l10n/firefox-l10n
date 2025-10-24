@@ -88,3 +88,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } tillägg inaktiverade
         }
     .message = Vissa av dina tillägg har inaktiverats på grund av att de bryter mot Mozillas policyer.
+unified-extensions-notice-safe-mode =
+    .message = Alla tillägg har inaktiverats av felsökningsläget.

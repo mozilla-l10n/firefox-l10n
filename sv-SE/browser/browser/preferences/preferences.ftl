@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = För att aktivera tillägget gå till <img data-l10n-name="addons-icon"/> Tillägg i menyn <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } styr några av dina inställningar för startsida.
 
 ## Preferences UI Search Results
 
@@ -600,6 +603,7 @@ home-new-windows-tabs-description2 = Välj vad du ser när du öppnar din starts
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startsida och nya fönster
+home-homepage-mode-label2 = Nya fönster
 home-newtabs-mode-label = Nya flikar
 home-restore-defaults =
     .label = Återställ standard
@@ -612,6 +616,11 @@ home-mode-choice-blank =
     .label = Tom sida
 home-homepage-custom-url =
     .placeholder = Klistra in en webbadress…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Hantera tillägg
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Välj en specifik webbplats
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,13 +635,38 @@ use-current-pages =
 choose-bookmark =
     .label = Använd bokmärke…
     .accesskey = d
+home-homepage-header = Startsida
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Anpassad startsida
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Webbadress(er)
+home-custom-homepage-address =
+    .placeholder = Ange adress
+home-custom-homepage-address-button =
+    .label = Lägg till adress
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Inga webbplatser tillagda ännu.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Ersätt med
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Aktuellt öppnade sidor
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Bokmärken…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } Innehåll
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Välj vilket innehåll du vill ha på din startskärm i { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Webbsök
+home-prefs-search-header2 =
+    .label = Sök
 home-prefs-shortcuts-header =
     .label = Genvägar
 home-prefs-shortcuts-description = Webbplatser du sparar eller besöker
@@ -647,6 +681,9 @@ home-prefs-recommended-by-description-new = Särskilt innehåll valt av { $provi
 home-prefs-recommended-by-header-generic =
     .label = Rekommenderade berättelser
 home-prefs-recommended-by-description-generic = Exceptionellt innehåll kurerat av { -brand-product-name }-familjen
+home-prefs-stories-header =
+    .label = Berättelser
+home-prefs-stories-description = Personliga berättelser baserade på din aktivitet
 
 ##
 
@@ -685,6 +722,8 @@ home-prefs-support-firefox-header =
     .label = Stöd { -brand-product-name }
 home-prefs-mission-message = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb
 home-prefs-mission-message-learn-more-link = Ta reda på hur
+home-prefs-manage-topics-link = Hantera ämnen
+home-prefs-choose-wallpaper-link = Välj en bakgrundsbild
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

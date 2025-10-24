@@ -165,6 +165,8 @@ extensions-warning-update-security-button = Aktivera
 extensions-warning-imported-addons2 =
     .message = Slutför installationen av tillägg som importerades till { -brand-short-name }.
 extensions-warning-imported-addons-button = Installera tillägg
+extensions-warning-safe-mode3 =
+    .message = Alla tillägg har inaktiverats av felsökningsläget.
 
 ## Strings connected to add-on updates
 

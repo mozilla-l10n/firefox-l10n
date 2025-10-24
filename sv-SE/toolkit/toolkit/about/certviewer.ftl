@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Företagets ort
 certificate-viewer-locality = Ort
 certificate-viewer-location = Plats
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Loggnamn
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Logg-ID
 certificate-viewer-method = Metod
 certificate-viewer-modulus = Modul

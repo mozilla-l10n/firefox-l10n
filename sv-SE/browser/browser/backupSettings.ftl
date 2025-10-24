@@ -21,8 +21,12 @@ backup-folder-name = Återställ { -brand-product-name }
 backup-file-name = Säkerhetskopiering{ -brand-product-name }
 settings-data-backup-header = Säkerhetskopiera
 settings-data-backup-toggle = Hantera säkerhetskopieringar
+settings-data-backup-toggle-on = Aktivera säkerhetskopiering
+settings-data-backup-toggle-off = Stäng av säkerhetskopiering
 settings-data-backup-trigger-button = Säkerhetskopiera nu
 settings-data-backup-in-progress-button = Säkerhetskopiering pågår…
+settings-data-backup-in-progress-message =
+    .message = Säkerhetskopiering pågår…
 settings-data-backup-scheduled-backups-on = Säkerhetskopiering: PÅ
 settings-data-backup-scheduled-backups-off = Säkerhetskopiering: AV
 settings-data-backup-scheduled-backups-description = Skydda automatiskt dina bokmärken, historik och annan data. <a data-l10n-name="support-link">Läs mer</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } kunde inte återställa
     .message = Starta om { -brand-short-name } och försök att återställa din säkerhetskopia igen.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, det uppstod ett problem med säkerhetskopieringen.
+    .message = Försök igen om några minuter.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
