@@ -94,6 +94,8 @@ restore-from-backup-header = 恢复数据
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = 此操作将使用 { DATETIME($date, timeStyle: "short", dateStyle: "short") } 的备份替换 { -brand-short-name } 当前所有数据。
+restore-from-backup-support-link =
+    .message = 选择要恢复的内容
 restore-from-backup-filepicker-label = 备份文件
 restore-from-backup-filepicker-title = 选择备份文件：
 restore-from-backup-file-choose-button =
@@ -176,6 +178,7 @@ password-rules-a11y-warning =
 
 disable-backup-encryption-header = 移除密码保护
 disable-backup-encryption-description = 将不再备份您保存的密码、付款信息、Cookie。
+disable-backup-encryption-support-link = 备份的内容
 disable-backup-encryption-cancel-button = 取消
 disable-backup-encryption-confirm-button = 移除密码
 
@@ -214,3 +217,17 @@ backup-file-moz-browser-restore-step-2 = 点击“选择备份文件”并选择
 backup-file-moz-browser-restore-step-3 = 按照指引，重新启动 { -brand-short-name }
 backup-file-other-browser-restore-step-1 = 下载并安装 { -brand-short-name }
 backup-file-download-moz-browser-button = 下载
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = 启动 { -brand-short-name }，打开应用程序菜单 ☰，前往“设置”>“同步”
+backup-file-other-browser-restore-step-3 = 点击“选择备份文件”并选择此文件
+backup-file-other-browser-restore-step-4 = 按照指引，重新启动 { -brand-short-name }
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 创建于 { $machineName }
