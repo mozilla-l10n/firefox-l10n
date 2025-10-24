@@ -113,6 +113,9 @@ extension-controlling-proxy-config = Το <img data-l10n-name="icon"/> <strong>{
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Για να ενεργοποιήσετε την επέκταση, μεταβείτε στα <img data-l10n-name="addons-icon"/> «Πρόσθετα» στο μενού <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = Το { $name } ελέγχει ορισμένες από τις ρυθμίσεις της αρχικής σελίδας σας.
 
 ## Preferences UI Search Results
 
@@ -1265,8 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Γραμμή διευθύνσεων
+addressbar-suggest-1 = Επιλέξτε ποιες προτάσεις θα εμφανίζονται στη γραμμή διευθύνσεων
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name(case: "nom") }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Προτάσεις από το { -brand-short-name } και τους συνεργάτες μας στη γραμμή διευθύνσεών σας.
 addressbar-suggest = Κατά τη χρήση της γραμμής διευθύνσεων, να γίνονται προτάσεις από
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Γραμμή διευθύνσεων — { -firefox-suggest-brand-name(case: "nom") }
@@ -1294,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Κορυφαίους ιστοτόπους
     .accesskey = Κ
+addressbar-locbar-engines-option-1 =
+    .label = Πρόταση μηχανών αναζήτησης προς χρήση
+    .accesskey = ρ
 addressbar-locbar-engines-option =
     .label = Μηχανές αναζήτησης
     .accesskey = α
@@ -1314,6 +1323,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Λάβετε προτάσεις α
 addressbar-locbar-suggest-sponsored-option =
     .label = Προτάσεις από χορηγούς
 addressbar-locbar-suggest-sponsored-desc = Υποστηρίξτε το { -brand-short-name } με περιστασιακές προτάσεις από χορηγούς.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Λήψη προτάσεων από τη Mozilla κατά την πληκτρολόγηση
 addressbar-quickactions-learn-more = Μάθετε περισσότερα
 addressbar-dismissed-suggestions-label = Απορριφθείσες προτάσεις
 addressbar-restore-dismissed-suggestions-description = Επαναφέρετε τις απορριφθείσες προτάσεις από χορηγούς και το { -brand-short-name }.

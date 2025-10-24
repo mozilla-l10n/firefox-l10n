@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Περιοχή εταιρείας
 certificate-viewer-locality = Περιοχή
 certificate-viewer-location = Τοποθεσία
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Όνομα αρχείου καταγραφής
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID καταγραφής
 certificate-viewer-method = Μέθοδος
 certificate-viewer-modulus = Μέτρο

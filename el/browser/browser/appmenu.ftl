@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Εκκίνηση πίνακα μασκ�
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Προστατέψτε το διαδικτυακό σας απόρρητο
 appmenu-services-header = Οι υπηρεσίες μου
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Δοκιμάστε άλλα εργαλεία προστασίας από τη Mozilla:
 appmenu-other-protection-header = Δοκιμάστε άλλα εργαλεία προστασίας από τη { -vendor-short-name }:
 
 ## Profiles panel

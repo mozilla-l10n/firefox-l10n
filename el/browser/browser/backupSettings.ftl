@@ -21,8 +21,12 @@ backup-folder-name = Επαναφορά δεδομένων του { -brand-produ
 backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header = Αντίγραφο ασφαλείας
 settings-data-backup-toggle = Διαχείριση αντιγράφου ασφαλείας
+settings-data-backup-toggle-on = Ενεργοποίηση αντιγράφου ασφαλείας
+settings-data-backup-toggle-off = Απενεργοποίηση αντιγράφου ασφαλείας
 settings-data-backup-trigger-button = Δημιουργία τώρα
 settings-data-backup-in-progress-button = Δημιουργία αντιγράφου ασφαλείας σε εξέλιξη…
+settings-data-backup-in-progress-message =
+    .message = Δημιουργία αντιγράφου ασφαλείας σε εξέλιξη…
 settings-data-backup-scheduled-backups-on = Αντίγραφο ασφαλείας: ΕΝΕΡΓΟ
 settings-data-backup-scheduled-backups-off = Αντίγραφο ασφαλείας: ΑΝΕΝΕΡΓΟ
 settings-data-backup-scheduled-backups-description = Αυτόματη προστασία σελιδοδεικτών, ιστορικού και άλλων δεδομένων. <a data-l10n-name="support-link">Μάθετε περισσότερα</a>
@@ -136,6 +140,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = Δεν ήταν δυνατή η επαναφορά των δεδομένων στο { -brand-short-name }
     .message = Επανεκκινήστε το { -brand-short-name } και δοκιμάστε ξανά να επαναφέρετε το αντίγραφο ασφαλείας σας.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Προέκυψε πρόβλημα κατά τη δημιουργία αντιγράφου ασφαλείας.
+    .message = Δοκιμάστε ξανά σε λίγα λεπτά.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

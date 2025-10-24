@@ -1483,6 +1483,13 @@ trustpanel-blocker-see-all = Προβολή όλων
 trustpanel-blocker-header =
     .title = Προστασία από καταγραφή για το { $host }
 
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Μη ασφαλής
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
