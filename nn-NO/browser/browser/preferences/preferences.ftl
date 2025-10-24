@@ -598,6 +598,7 @@ home-new-windows-tabs-description2 = Vel kva du vil sjå når du opnar startsida
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startside og nye vindauge
+home-homepage-mode-label2 = Nye vindauge
 home-newtabs-mode-label = Nye faner
 home-restore-defaults =
     .label = Bruk standardinnstillingar
@@ -610,6 +611,9 @@ home-mode-choice-blank =
     .label = Tom side
 home-homepage-custom-url =
     .placeholder = Lim inn ein URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Handsam utviding
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should

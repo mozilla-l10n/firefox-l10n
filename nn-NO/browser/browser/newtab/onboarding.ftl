@@ -486,6 +486,8 @@ create-backup-screen-1-sync-body = Sikkerheitskopierer alle pålogga einingar
 create-backup-screen-1-backup-label = Sikkerheitskopier til PC
 create-backup-select-tile-button-label = Vel
 create-backup-back-button-label = Tilbake
+create-backup-show-fewer =
+    .label = Vis færre slike
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Enkelt oppsett
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup

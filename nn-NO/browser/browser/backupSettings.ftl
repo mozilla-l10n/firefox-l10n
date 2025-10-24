@@ -105,9 +105,13 @@ disable-backup-encryption-confirm-button = Fjern passord
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-title = Gjenopprett { -brand-short-name }
+backup-file-path-label = sikkerheitskopieringsfil:
 backup-file-encryption-state-label = Kryptert:
 backup-file-encryption-state-value-encrypted = Ja
 backup-file-encryption-state-value-not-encrypted = Nei
 backup-file-creation-device-label = Eining:
 backup-file-creation-date-label = Oppretta:
+backup-file-how-to-restore-header = Korleis gjenopprette:
+backup-file-other-browser-restore-step-1 = Last ned og installer { -brand-short-name }
 backup-file-download-moz-browser-button = Last ned
