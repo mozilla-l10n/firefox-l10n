@@ -174,6 +174,6 @@ neterror-response-status-code = Felkod: { $responsestatus } { $responsestatustex
 
 fp-neterror-connection-intro = { -brand-short-name } kan inte skapa en säker anslutning till servern på { $hostname }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
-fp-neterror-cypher-overlap-why-dangerous-body = Det ser ut som att den här sidan använder gammal programvara med kända säkerhetsproblem.
+fp-neterror-cypher-overlap-why-dangerous-body = Det ser ut som att den här webbplatsen använder gammal programvara med kända säkerhetsproblem.
 # This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Se till att du använder den senaste versionen av { -brand-short-name }. Gå till Hjälp > Om { -brand-short-name } i menyn. Om du använder den senaste { -brand-short-name }, ligger problemet troligtvis på själva webbplatsen.
