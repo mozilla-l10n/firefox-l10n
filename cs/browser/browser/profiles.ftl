@@ -76,6 +76,10 @@ new-profile-page-input-placeholder =
     .placeholder = Zvolte název jako “Práce” nebo “Osobní”
 new-profile-page-done-button =
     .label = Dokončit úpravy
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Vaše kopie profilu { $profilename } je připravena k přizpůsobení
+copied-profile-page-header-description = Vaše data a nastavení byla zkopírována do nového profilu. Teď mu dejte jméno, vzhled a přizpůsobte si ho podle sebe.
 profile-window-title-2 = { -brand-short-name } - Výběr profilu
 profile-window-logo =
     .alt =

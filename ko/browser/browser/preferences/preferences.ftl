@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = 확장 기능을 사용하려면 <img data-l10n-name="menu-icon"/> 메뉴에서 <img data-l10n-name="addons-icon"/> 부가 기능으로 이동하세요.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } 확장 기능이 일부 홈페이지 설정을 제어합니다.
 
 ## Preferences UI Search Results
 
@@ -588,6 +591,7 @@ home-new-windows-tabs-description2 = 홈페이지, 새 창 및 새 탭을 열 �
 ## Custom Homepage subpage
 
 home-homepage-mode-label = 홈페이지와 새 창
+home-homepage-mode-label2 = 새 창
 home-newtabs-mode-label = 새 탭
 home-restore-defaults =
     .label = 기본값으로 복원
@@ -600,6 +604,11 @@ home-mode-choice-blank =
     .label = 빈 페이지
 home-homepage-custom-url =
     .placeholder = URL 붙여넣기…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = 확장 기능 관리
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = 특정 사이트 선택
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -614,6 +623,19 @@ use-current-pages =
 choose-bookmark =
     .label = 북마크 사용…
     .accesskey = B
+home-homepage-header = 홈페이지
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = 사용자 지정 홈페이지
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = 웹 사이트 주소
+home-custom-homepage-address =
+    .placeholder = 주소 입력
+home-custom-homepage-address-button =
+    .label = 주소 추가
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = 아직 추가된 웹 사이트가 없습니다.
 
 ## Home Section - Firefox Home Content Customization
 

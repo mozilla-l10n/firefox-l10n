@@ -11,6 +11,12 @@ existing-user-tou-message = <strong>Aktualizace</strong> Zavedli jsme { -brand-s
 existing-user-tou-learn-more = Zjistit více
 # Text for primary button
 existing-user-tou-accept = Přijmout
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message =
+    { -brand-short-name.case-status ->
+        [with-cases] Aktualizovali jsme naše <a data-l10n-name="privacy-notice-link">zásady ochrany osobních údajů</a>, aby odrážely nejnovější funkce { -brand-short-name(case: "gen") }.
+       *[no-cases] Aktualizovali jsme naše <a data-l10n-name="privacy-notice-link">zásady ochrany osobních údajů</a>, aby odrážely nejnovější funkce aplikace { -brand-short-name }.
+    }
 
 ## Existing User Terms of Use Spotlight
 

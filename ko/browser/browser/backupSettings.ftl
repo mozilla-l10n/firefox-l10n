@@ -21,8 +21,12 @@ backup-folder-name = { -brand-product-name } 복원
 backup-file-name = { -brand-product-name }백업
 settings-data-backup-header = 백업
 settings-data-backup-toggle = 백업 관리
+settings-data-backup-toggle-on = 백업 켜기
+settings-data-backup-toggle-off = 백업 끄기
 settings-data-backup-trigger-button = 지금 백업
 settings-data-backup-in-progress-button = 백업 진행 중…
+settings-data-backup-in-progress-message =
+    .message = 백업 진행 중…
 settings-data-backup-scheduled-backups-on = 백업: 켜짐
 settings-data-backup-scheduled-backups-off = 백업: 꺼짐
 settings-data-backup-scheduled-backups-description = 북마크, 기록 및 기타 데이터를 자동으로 보호합니다. <a data-l10n-name="support-link">더 알아보기</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name }가 복원할 수 없음
     .message = { -brand-short-name }를 다시 시작하고 백업을 다시 복원해 보세요.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = 백업 중에 문제가 발생했습니다.
+    .message = 몇 분 후에 다시 시도해 보세요.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =

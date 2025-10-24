@@ -1458,6 +1458,13 @@ trustpanel-blocker-see-all = 모두 보기
 trustpanel-blocker-header =
     .title = { $host }에 대한 추적 보호
 
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = 안전하지 않음
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
