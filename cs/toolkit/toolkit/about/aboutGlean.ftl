@@ -160,6 +160,29 @@ about-glean-metrics-table-header-type = Typ
 about-glean-metrics-table-header-value = Hodnota
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Akce
+about-glean-metrics-table-settings-button = Nastavení
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Nastavení tabulky metrik
+about-glean-metrics-table-settings-category-general = Obecné
+about-glean-metrics-table-settings-hide-empty-value-rows = Skrýt prázdné řádky s hodnotami
+about-glean-metrics-table-settings-category-visualizations = Vizualizace
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Příklad
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Maximální výška grafu
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Maximální upravená výška
+about-glean-metrics-table-settings-histograms-box-padding = Odsazení boxu
+about-glean-metrics-table-settings-histograms-chart-padding = Odsazení grafu
+about-glean-metrics-table-settings-histograms-left-padding = Další odsazení vlevo
+about-glean-metrics-table-settings-category-visualizations-timeline = Časová osa
+about-glean-metrics-table-settings-timelines-height = Výška
+about-glean-metrics-table-settings-timelines-width = Šířka
+about-glean-metrics-table-settings-timelines-chart-padding = Odsazení grafu
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Poloměr kružnice
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Horizontální posun osy Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtr
 # This message sits alongside an input field, further describing its purpose.
@@ -188,3 +211,10 @@ about-glean-disable-new-features-button = Zakázat nové funkce
 about-glean-about-data-explanation =
     Chcete-li si prohlédnout seznam shromážděných údajů, podívejte se na stránku
     <a data-l10n-name="glean-dictionary-link">slovníku { -glean-brand-name }</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Vestavěné pingy
+about-glean-ping-list-optgroup-custom =
+    .label = Vlastní pingy

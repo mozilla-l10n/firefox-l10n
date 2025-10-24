@@ -636,13 +636,25 @@ home-custom-homepage-address-button =
     .label = 주소 추가
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = 아직 추가된 웹 사이트가 없습니다.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = 대체:
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = 현재 열려있는 페이지
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = 북마크…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } 콘텐츠
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = { -firefox-home-brand-name } 화면에서 원하는 콘텐츠를 선택하세요.
 home-prefs-search-header =
     .label = 웹 검색
+home-prefs-search-header2 =
+    .label = 검색
 home-prefs-shortcuts-header =
     .label = 바로 가기
 home-prefs-shortcuts-description = 저장하거나 방문한 사이트
@@ -657,6 +669,9 @@ home-prefs-recommended-by-description-new = { -brand-product-name } 제품군의
 home-prefs-recommended-by-header-generic =
     .label = 추천 이야기
 home-prefs-recommended-by-description-generic = { -brand-product-name } 제품군이 선별한 뛰어난 콘텐츠
+home-prefs-stories-header =
+    .label = 이야기
+home-prefs-stories-description = 활동에 기반한 개인화된 이야기
 
 ##
 
@@ -695,6 +710,8 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } 지원
 home-prefs-mission-message = 스폰서는 더 나은 웹을 만들려는 저희를 지원합니다
 home-prefs-mission-message-learn-more-link = 방법 알아보기
+home-prefs-manage-topics-link = 주제 관리
+home-prefs-choose-wallpaper-link = 배경 화면 선택
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1235,6 +1252,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = 주소 표시줄
+addressbar-suggest-1 = 주소 표시줄에 표시할 제안 선택
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = 주소 표시줄에 { -brand-short-name } 및 파트너사의 제안이 표시됩니다.
 addressbar-suggest = 주소 표시줄에서 제안할 항목
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = 주소 표시줄 — { -firefox-suggest-brand-name }
@@ -1262,6 +1284,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = 상위 사이트
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = 사용할 검색 엔진 제안
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = 검색 엔진
     .accesskey = a
@@ -1282,6 +1307,14 @@ addressbar-locbar-suggest-nonsponsored-desc = 사용자 검색과 관련된 웹 
 addressbar-locbar-suggest-sponsored-option =
     .label = 스폰서 제안
 addressbar-locbar-suggest-sponsored-desc = 가끔씩 스폰서 제안으로 { -brand-short-name }를 지원합니다.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = 입력할 때 Mozilla에서 제안을 가져옴
 addressbar-quickactions-learn-more = 더 알아보기
 addressbar-dismissed-suggestions-label = 닫은 제안
 addressbar-restore-dismissed-suggestions-description = 스폰서와 { -brand-short-name }로부터 닫은 제안을 복원합니다.

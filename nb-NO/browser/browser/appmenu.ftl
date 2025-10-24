@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Start oversikten for e-postalias
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Beskytt din nettaktivitet
 appmenu-services-header = Mine tjenester
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Prøv andre beskyttelsesverktøy fra Mozilla:
 appmenu-other-protection-header = Prøv andre beskyttelsesverktøy fra { -vendor-short-name }:
 
 ## Profiles panel
