@@ -619,6 +619,8 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gerer extension
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Eliger un sito specific
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -635,12 +637,36 @@ choose-bookmark =
     .accesskey = m
 home-homepage-header = Pagina initial
 
+## Custom Homepage subpage
+
+home-custom-homepage-header = Pagina initial personalisate
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Adresse(s) de sito web
+home-custom-homepage-address =
+    .placeholder = Insere adresse
+home-custom-homepage-address-button =
+    .label = Adder adresse
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Necun sito web ancora addite
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Substituer con
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Paginas actualmente aperte
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Marcapaginas…
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contentos de { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Elige qual contento tu vole sur tu schermo { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Recerca del Web
+home-prefs-search-header2 =
+    .label = Cercar
 home-prefs-shortcuts-header =
     .label = Accessos directe
 home-prefs-shortcuts-description = Sitos que tu salva o visita
@@ -655,6 +681,9 @@ home-prefs-recommended-by-description-new = Contento exceptional a cura de { $pr
 home-prefs-recommended-by-header-generic =
     .label = Historias recommendate
 home-prefs-recommended-by-description-generic = Contento exceptional curate per le familia de { -brand-product-name }
+home-prefs-stories-header =
+    .label = Historias
+home-prefs-stories-description = Historias personalisate basate sur tu activitate
 
 ##
 
@@ -693,6 +722,8 @@ home-prefs-support-firefox-header =
     .label = Supporta { -brand-product-name }
 home-prefs-mission-message = Nostre patrocinatores supporta nostre mission pro construer un web melior
 home-prefs-mission-message-learn-more-link = Discoperi como
+home-prefs-manage-topics-link = Gerer topicos
+home-prefs-choose-wallpaper-link = Eliger un fundo de schermo
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1237,6 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de adresse
+addressbar-suggest-1 = Elige que suggestiones monstrar in tu barra de adresse
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Suggestiones ab { -brand-short-name } e nostre socios in tu barra de adresse.
 addressbar-suggest = Durante que tu usa le barra de adresse, suggerer
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Barra de adresse — { -firefox-suggest-brand-name }
@@ -1264,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Sitos popular
     .accesskey = p
+addressbar-locbar-engines-option-1 =
+    .label = Suggerer motores de recerca a usar
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Motores de recerca
     .accesskey = o
@@ -1284,6 +1323,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Recipe le suggestiones del web rel
 addressbar-locbar-suggest-sponsored-option =
     .label = Suggestiones de sponsores
 addressbar-locbar-suggest-sponsored-desc = Supporta { -brand-short-name } con suggestiones sponsorisate occasional.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Obtener suggestiones de Mozilla dum tu scribe
 addressbar-quickactions-learn-more = Pro saper plus
 addressbar-dismissed-suggestions-label = Suggestiones rejectate
 addressbar-restore-dismissed-suggestions-description = Restaurar suggestiones rejectate de sponsores e { -brand-short-name }.
