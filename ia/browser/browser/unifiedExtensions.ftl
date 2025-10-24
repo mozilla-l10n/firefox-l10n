@@ -91,3 +91,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } extensiones disactivate
         }
     .message = Alcun de tu extensiones viola le directivas de Mozilla e ha essite disactivate.
+unified-extensions-notice-safe-mode =
+    .message = Tote le extensiones ha essite disactivate per Modo diagnostic.

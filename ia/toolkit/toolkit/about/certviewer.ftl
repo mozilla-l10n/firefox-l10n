@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Loco del interprisa
 certificate-viewer-locality = Loco
 certificate-viewer-location = Position
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Nomine de registro
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID log
 certificate-viewer-method = Methodo
 certificate-viewer-modulus = Modulo

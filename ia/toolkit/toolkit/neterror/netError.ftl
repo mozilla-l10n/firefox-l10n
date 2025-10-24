@@ -167,3 +167,13 @@ certerror-coep-learn-more = Discoperi Cross Origin Embedder Policies (COEP)
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Codice de error: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } non pote crear un connexion secur al servitor al adresse { $hostname }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Il pare que iste sito usa vetere software con note problemas de securitate.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Verifica que tu usa le ultime version de { -brand-short-name }. Ir a Adjutar > A proposito de { -brand-short-name } in le menu. Si tu usa le ultime { -brand-short-name }, le problema es super toto probabile con le sito mesme.

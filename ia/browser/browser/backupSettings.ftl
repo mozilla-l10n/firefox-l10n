@@ -21,8 +21,12 @@ backup-folder-name = Restaurar { -brand-product-name }
 backup-file-name = Salveguarda de { -brand-product-name }
 settings-data-backup-header = Salveguardar
 settings-data-backup-toggle = Gerer le salveguarda
+settings-data-backup-toggle-on = Activar le salveguarda
+settings-data-backup-toggle-off = Disactivar le salveguarda
 settings-data-backup-trigger-button = Salveguardar ora
 settings-data-backup-in-progress-button = Salveguarda in curso…
+settings-data-backup-in-progress-message =
+    .message = Salveguarda in curso…
 settings-data-backup-scheduled-backups-on = Salveguarda: ACTIVE
 settings-data-backup-scheduled-backups-off = Salveguarda: DISACTIVATE
 settings-data-backup-scheduled-backups-description = Automaticamente protege tu marcapaginas, chronologia, e altere daos. <a data-l10n-name="support-link">Pro saper plus</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } non poteva restaurar
     .message = Reinitialisa { -brand-short-name } e retenta restaurar tu salveguarda.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, il habeva un problema salveguardante.
+    .message = Retenta in alcun minutas.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
