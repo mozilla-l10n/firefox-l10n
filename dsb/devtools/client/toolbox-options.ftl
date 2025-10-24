@@ -30,6 +30,10 @@ options-context-inspector = Inspektor
 options-show-user-agent-styles-label = Stile wobglědowaka pokazaś
 options-show-user-agent-styles-tooltip =
     .title = Gaž to zašaltujośo, standardne stile se pokažu, kótarež wobglědowak zacytujo.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Shadow DOM wobglědowaka pokazaś
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Gaž to zmóžnjaśo, buźo waš wobglědowak elementy Shadow DOM wužywaś.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM-atributy wótrězaś
 options-collapse-attrs-tooltip =

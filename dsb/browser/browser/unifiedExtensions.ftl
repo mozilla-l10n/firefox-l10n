@@ -96,3 +96,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } rozšyrjenjow znjemóžnjone
         }
     .message = Někotare z wašych rozšyrjenjow su su se znjemóžnili, dokulaž se pśeśiwo pšawidłam Mozilla pśejdu.
+unified-extensions-notice-safe-mode =
+    .message = Wšykne rozšyrjenja su se znjemóžnili pśez modus za rozwězowanje problemow.

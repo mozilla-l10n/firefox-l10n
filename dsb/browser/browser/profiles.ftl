@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Wubjeŕśo mě ako „Źěło“ abo „Wósobinske“
 new-profile-page-done-button =
     .label = Wobźěłanje dokóńcone
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Waša kopija profila { $profilename } jo gótowa za pśiměrjenje
+copied-profile-page-header-description = Smy kopěrowali waše daty a nastajenja do nowego profila. Dajśo jomu něnto mě, wubjeŕśo naglěd a cyńśo jen k swójomu.
 profile-window-title-2 = { -brand-short-name } – Profil wubraś
 profile-window-logo =
     .alt = Logo { -brand-short-name }

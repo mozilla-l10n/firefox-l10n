@@ -729,6 +729,7 @@ home-prefs-support-firefox-header =
 home-prefs-mission-message = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili
 home-prefs-mission-message-learn-more-link = Zgóńśo kak
 home-prefs-manage-topics-link = Temy zastojaś
+home-prefs-choose-wallpaper-link = Wubjeŕśo slězynowy wobraz
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1275,6 +1276,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresowe pólo
+addressbar-suggest-1 = Wubjeŕśo, kótare naraźenja maju se we wašom adresowem pólu pokazaś
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Naraźenja z { -brand-short-name } a wót našych partnarjow we wašom adresowem pólu.
 addressbar-suggest = Pśi wužywanju adresowego póla ma se naraźiś
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresowe pólo – { -firefox-suggest-brand-name }
@@ -1302,6 +1308,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Nejcesćej woglědane sedła
     .accesskey = N
+addressbar-locbar-engines-option-1 =
+    .label = Naraźćo pytnice, kótarež se maju wužywaś
+    .accesskey = N
 addressbar-locbar-engines-option =
     .label = Pytnice
     .accesskey = P
@@ -1322,6 +1331,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Wobstarajśo se naraźenja z weba 
 addressbar-locbar-suggest-sponsored-option =
     .label = Naraźenja wót sponsorow
 addressbar-locbar-suggest-sponsored-desc = Pódprějśo { -brand-short-name } z pśigóźbnymi sponserowanymi naraźenjami
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Wótwołajśo naraźenja wót Mozilla, gaž pišośo
 addressbar-quickactions-learn-more = Dalšne informacije
 addressbar-dismissed-suggestions-label = Zachyśone naraźenja
 addressbar-restore-dismissed-suggestions-description = Zachyśone naraźenja wót sponsorow a { -brand-short-name } wótnowiś.
