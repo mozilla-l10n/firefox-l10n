@@ -30,6 +30,10 @@ options-context-inspector = מפקח
 options-show-user-agent-styles-label = הצגת סגנונות דפדפן
 options-show-user-agent-styles-tooltip =
     .title = הפעלת אפשרות זו תציג את סגנונות בררת המחדל שנטענים על־ידי הדפדפן.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = הצגת ה־Shadow DOM של הדפדפן
+options-show-user-agent-shadow-dom-tooltip =
+    .title = הפעלת אפשרות זו תציג רכיבים של Shadow DOM המטופלים על־ידי הדפדפן.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = חיתוך רכיבי DOM
 options-collapse-attrs-tooltip =
@@ -139,3 +143,5 @@ options-source-maps-tooltip =
     .title = אם אפשרות זו תופעל המקורות ימופו בכלים.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * הפעלה נוכחית בלבד, יש לטעון מחדש את הדף
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (טוען מחדש את הדף)

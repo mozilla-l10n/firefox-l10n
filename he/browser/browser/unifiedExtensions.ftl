@@ -91,4 +91,4 @@ unified-extensions-mb-blocklist-error-multiple =
         }
     .message = חלק מההרחבות שלך הושבתו עקב הפרת המדיניות של Mozilla.
 unified-extensions-notice-safe-mode =
-    .message = כל התוספות הושבתו על־ידי המצב לפתרון בעיות.
+    .message = כל ההרחבות הושבתו על־ידי המצב לפתרון בעיות.

@@ -167,6 +167,8 @@ extensions-warning-update-security-button = הפעלה
 extensions-warning-imported-addons2 =
     .message = נא להשלים את התקנת ההרחבות שיובאו אל { -brand-short-name }.
 extensions-warning-imported-addons-button = התקנת הרחבות
+extensions-warning-safe-mode3 =
+    .message = כל התוספות הושבתו על־ידי המצב לפתרון בעיות.
 
 ## Strings connected to add-on updates
 
