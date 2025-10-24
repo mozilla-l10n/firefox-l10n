@@ -290,6 +290,10 @@ appmenuitem-services-relay-description = Ouvrir le tableau de bord des alias de 
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protégez vos activités en ligne
 appmenu-services-header = Mes services
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Essayez d’autres outils de protection de Mozilla :
 appmenu-other-protection-header = Essayez d’autres outils de protection de { -vendor-short-name } :
 
 ## Profiles panel

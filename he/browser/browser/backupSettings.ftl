@@ -21,8 +21,12 @@ backup-folder-name = שחזור { -brand-product-name }
 backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header = גיבוי
 settings-data-backup-toggle = ניהול גיבוי
+settings-data-backup-toggle-on = הפעלת הגיבוי
+settings-data-backup-toggle-off = כיבוי הגיבוי
 settings-data-backup-trigger-button = גיבוי כעת
 settings-data-backup-in-progress-button = הגיבוי בתהליך…
+settings-data-backup-in-progress-message =
+    .message = הגיבוי בתהליך…
 settings-data-backup-scheduled-backups-on = גיבוי: פעיל
 settings-data-backup-scheduled-backups-off = גיבוי: כבוי
 settings-data-backup-scheduled-backups-description = הגנה אוטומטית על הסימניות, ההיסטוריה ושאר הנתונים שלך. <a data-l10n-name="support-link">מידע נוסף</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = ‏{ -brand-short-name } לא הצליח לשחזר
     .message = נא להפעיל מחדש את { -brand-short-name } ולנסות ולשחזר את הגיבוי שלך שוב.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = הממ, הייתה בעיה בגיבוי.
+    .message = נא לנסות שוב בעוד מספר דקות.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =

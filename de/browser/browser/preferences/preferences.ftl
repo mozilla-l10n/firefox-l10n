@@ -654,9 +654,12 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }-Inhalte
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Wählen Sie, welche Inhalte auf Ihrem { -firefox-home-brand-name }-Bildschirm angezeigt werden sollen.
 home-prefs-search-header =
     .label = Internetsuche
+home-prefs-search-header2 =
+    .label = Suchen
 home-prefs-shortcuts-header =
     .label = Verknüpfungen
 home-prefs-shortcuts-description = Websites, die Sie speichern oder besuchen
@@ -709,6 +712,7 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } unterstützen
 home-prefs-mission-message = Unsere Sponsoren unterstützen unsere Mission, ein besseres Internet zu schaffen
 home-prefs-mission-message-learn-more-link = Erfahren, wie das geht
+home-prefs-choose-wallpaper-link = Wählen Sie ein Hintergrundbild
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1253,6 +1257,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adressleiste
+addressbar-suggest-1 = Wählen Sie aus, welche Vorschläge in Ihrer Adressleiste angezeigt werden
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Vorschläge von { -brand-short-name } und unseren Partnern in Ihrer Adressleiste.
 addressbar-suggest = Beim Verwenden der Adressleiste Folgendes vorschlagen:
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adressleiste – { -firefox-suggest-brand-name }

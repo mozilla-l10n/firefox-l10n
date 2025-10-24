@@ -627,12 +627,35 @@ choose-bookmark =
     .label = שימוש בסימנייה…
     .accesskey = ס
 
+## Custom Homepage subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = כתובות אתרי אינטרנט
+home-custom-homepage-address =
+    .placeholder = נא להכניס כתובת
+home-custom-homepage-address-button =
+    .label = הוספת כתובת
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = עדיין לא נוספו אתרים.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = החלפה עם
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = הדפים הפתוחים הנוכחיים
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = סימניות…
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = תוכן { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = בחירת התוכן שיוצג ב{ -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = חיפוש ברשת
+home-prefs-search-header2 =
+    .label = חיפוש
 home-prefs-shortcuts-header =
     .label = קיצורי דרך
 home-prefs-shortcuts-description = אתרים ששמרת או ביקרת בהם
@@ -647,6 +670,9 @@ home-prefs-recommended-by-description-new = תוכן יוצא דופן שנבח�
 home-prefs-recommended-by-header-generic =
     .label = סיפורים מומלצים
 home-prefs-recommended-by-description-generic = תוכן יוצא דופן שנבחר בקפידה על־ידי משפחת { -brand-product-name }
+home-prefs-stories-header =
+    .label = סיפורים
+home-prefs-stories-description = סיפורים מותאמים אישית המבוססים על הפעילות שלך
 
 ##
 
@@ -685,6 +711,8 @@ home-prefs-support-firefox-header =
     .label = תמיכה ב־{ -brand-product-name }
 home-prefs-mission-message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר
 home-prefs-mission-message-learn-more-link = כיצד?
+home-prefs-manage-topics-link = ניהול נושאים
+home-prefs-choose-wallpaper-link = בחירת תמונת רקע
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

@@ -292,6 +292,10 @@ appmenuitem-relay-description = מיסוך כתובת הדוא״ל והטלפו�
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = הגנה על הפעילות המקוונת שלך
 appmenu-services-header = השירותים שלי
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = נסו כלי הגנה אחרים מבית Mozilla:
 appmenu-other-protection-header = נסו כלי הגנה אחרים מ־{ -vendor-short-name }:
 
 ## Profiles panel
