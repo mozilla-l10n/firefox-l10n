@@ -660,7 +660,7 @@ newtab-trending-searches-title = Trendy ve vyhledávání
 ## Strings for task / to-do list productivity widget
 
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
-newtab-widget-lists-empty-cta = Možnosti jsou nekonečné. Přidejte si svoji.
+newtab-widget-lists-empty-cta = Možnosti jsou nekonečné. Přidejte si svůj.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = Nový
@@ -708,7 +708,7 @@ newtab-widget-timer-mode-focus =
 newtab-widget-timer-mode-break =
     .label = Přestávka
 newtab-widget-timer-label-play =
-    .label = Přehrát
+    .label = Spustit
 newtab-widget-timer-label-pause =
     .label = Pozastavit
 newtab-widget-timer-reset =
