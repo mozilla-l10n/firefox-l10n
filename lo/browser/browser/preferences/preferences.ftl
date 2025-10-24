@@ -462,7 +462,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = ວິນໂດແລະແທັບໃຫມ່
 home-new-windows-tabs-description2 = ເລືອກສິ່ງທີ່ທ່ານຕ້ອງການເຫັນເມື່ອທ່ານເປີດຫນ້າຫລັກ, ຫນ້າຕ່າງໃຫມ່, ແລະແທັບໃຫມ່ຂອງທ່ານ.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = ໜ້າທຳອິດແລະວິນໂດໃຫມ່
 home-newtabs-mode-label = ແທັບໃຫມ່

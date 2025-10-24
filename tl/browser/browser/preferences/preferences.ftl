@@ -430,7 +430,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Bagong mga Window at Tab
 home-new-windows-tabs-description2 = Pumili ng kung ano ang gustong makita kapag binubuksan ang iyong homepage, mga bagong window, at mga bagong tab.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Homepage at mga bagong window
 home-newtabs-mode-label = Mga bagong tab

@@ -597,7 +597,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = ახალი ფანჯრები და ჩანართები
 home-new-windows-tabs-description2 = მიუთითეთ, რისი ხილვა გსურთ საწყისი გვერდის, ახალი ფანჯრებისა და ახალი ჩანართების გახსნისას.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = საწყისი გვერდი და ახალი ფანჯრები
 home-newtabs-mode-label = ახალი ჩანართები

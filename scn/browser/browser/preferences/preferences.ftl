@@ -374,7 +374,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Novi finestri e schedi
 home-new-windows-tabs-description2 = Scarta chiḍḍu chi vidi quannu grapi a pàggina mastra, novi finestri o novi schedi.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pàggina mastra e novi finestri
 home-newtabs-mode-label = Novi schedi

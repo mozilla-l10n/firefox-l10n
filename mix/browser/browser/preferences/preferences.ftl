@@ -104,7 +104,7 @@ browsing-title = Sucha
 
 network-proxy-connection-learn-more = Skua'a kuakaa
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-newtabs-mode-label = Xikua tsa'a
 home-restore-defaults =

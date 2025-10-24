@@ -20,6 +20,7 @@ certificate-viewer-ip-address = IP पता
 certificate-viewer-other-name = अन्य नाम
 certificate-viewer-id = आईडी
 certificate-viewer-location = स्थान
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = लॉग आईडी
 certificate-viewer-method = तरीका
 certificate-viewer-name = नाम

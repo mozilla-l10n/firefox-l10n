@@ -595,7 +595,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nye vindauge og faner
 home-new-windows-tabs-description2 = Vel kva du vil sjå når du opnar startsida, nye vindauge og nye faner.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Startside og nye vindauge
 home-newtabs-mode-label = Nye faner

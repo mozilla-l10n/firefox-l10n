@@ -36,6 +36,7 @@ certificate-viewer-key-size = Μέγεθος κλειδιού
 certificate-viewer-inc-locality = Περιοχή εταιρείας
 certificate-viewer-locality = Περιοχή
 certificate-viewer-location = Τοποθεσία
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID καταγραφής
 certificate-viewer-method = Μέθοδος
 certificate-viewer-modulus = Μέτρο

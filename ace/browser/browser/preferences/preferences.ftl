@@ -300,7 +300,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Tingkap ngön Tab Barô
 home-new-windows-tabs-description2 = Piléh pue nyang meukalën watéi neupeuhah laman home, window barô, ngën tab barô
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Laman home dan window barô
 home-newtabs-mode-label = Tab barô

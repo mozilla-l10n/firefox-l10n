@@ -538,7 +538,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = نویاں ونڈوز تے ٹیباں
 home-new-windows-tabs-description2 = جݙاں تساں اپݨا ہوم پیج، نویں ونڈوز، تے نویاں ٹیباں کھولیندے او تاں تساں جو کجھ ݙیکھدے او اونکوں منتخب کرو۔
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = ہوم پیج تے نویں ونڈوز
 home-newtabs-mode-label = نویاں ٹیباں

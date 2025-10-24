@@ -1416,7 +1416,7 @@ onboarding-aw-finish-setup-button =
     .label = Hoàn tất thiết lập
     .tooltiptext = Hoàn tất thiết lập { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Trình chống theo dõi nâng cao đang bật
 trustpanel-etp-label-disabled = Trình chống theo dõi nâng cao đã tắt

@@ -1419,7 +1419,7 @@ onboarding-aw-finish-setup-button =
     .label = ตั้งค่าให้เสร็จสิ้น
     .tooltiptext = ตั้งค่า { -brand-short-name } ให้เสร็จสิ้น
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = การป้องกันการติดตามแบบพิเศษเปิดอยู่
 trustpanel-etp-label-disabled = การป้องกันการติดตามแบบพิเศษปิดอยู่

@@ -1243,7 +1243,7 @@ file-picker-crashed-show-in-folder =
     .label = Diskouez en teuliad
     .accessKey = t
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-clear-cookies-subview-button-clear = Skarzhañ
 trustpanel-clear-cookies-subview-button-cancel = Nullañ

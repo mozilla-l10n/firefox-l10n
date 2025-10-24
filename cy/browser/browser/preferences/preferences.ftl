@@ -609,7 +609,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Ffenestri a Thabiau Newydd
 home-new-windows-tabs-description2 = Dewiswch beth fyddwch yn ei weld wrth i chi agor eich tudalen cartref, ffenestri newydd a thabiau newydd.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Tudalen cartref a ffenestri newydd
 home-newtabs-mode-label = Tabiau newydd

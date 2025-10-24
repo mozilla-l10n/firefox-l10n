@@ -513,7 +513,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Prenestroù hag ivinelloù nevez
 home-new-windows-tabs-description2 = Dibabit petra vo gwelet ganeoc'h pa vezot o tigeriñ ho pennbajenn, prenestroù, pe ivinelloù nevez.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pennbajenn ha prenestroù nevez
 home-newtabs-mode-label = Ivinelloù nevez

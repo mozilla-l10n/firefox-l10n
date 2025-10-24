@@ -383,7 +383,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nuevas finestras y pestanyas
 home-new-windows-tabs-description2 = Triar qué ye lo que se vei quan s'ubre la pachina d'inicio, finestras nuevas y pestanyas nuevas.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pachina d'inicio y nuevas finestras
 home-newtabs-mode-label = Nuevas pestanyas

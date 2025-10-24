@@ -597,7 +597,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nouvelles fenêtres et nouveaux onglets
 home-new-windows-tabs-description2 = Choisissez ce qui est affiché lorsque vous ouvrez votre page d’accueil, de nouvelles fenêtres ou de nouveaux onglets.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Page d’accueil et nouvelles fenêtres
 home-newtabs-mode-label = Nouveaux onglets

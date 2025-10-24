@@ -1438,7 +1438,7 @@ onboarding-aw-finish-setup-button =
     .label = Cumplettar la configuraziun
     .tooltiptext = Cumplettar la configuraziun da { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = La protecziun avanzada cunter il fastizar è activada
 trustpanel-etp-label-disabled = La protecziun avanzada cunter il fastizar è deactivada

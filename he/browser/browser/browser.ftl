@@ -1446,7 +1446,7 @@ onboarding-aw-finish-setup-button =
     .label = סיום ההגדרה
     .tooltiptext = סיום הגדרת { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = הגנת מעקב מתקדמת פעילה
 trustpanel-etp-label-disabled = הגנת מעקב מתקדמת כבויה

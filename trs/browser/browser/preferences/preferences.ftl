@@ -350,7 +350,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Ventâna ni rakïj ñanj
 home-new-windows-tabs-description2 = Ganin ruhua ahuin' si gini'iaj 'ngà gana'nit pajina riña ayi'ij ni rakïj ñanj nakàa.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pajina ayi'ij nī ventana nakàa
 home-newtabs-mode-label = Rakïj ñanj nakàa

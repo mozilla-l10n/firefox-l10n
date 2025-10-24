@@ -594,7 +594,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Равзанаҳо ва варақаҳои нав
 home-new-windows-tabs-description2 = Интихоб кунед, ки чӣ бояд нишон дода шавад, вақте ки шумо саҳифаи асосӣ, равзанаҳои нав ва варақаҳои навро мекушоед.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Саҳифаи асосӣ ва равзанаҳои нав
 home-newtabs-mode-label = Варақаҳои нав

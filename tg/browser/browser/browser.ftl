@@ -1438,7 +1438,7 @@ onboarding-aw-finish-setup-button =
     .label = Ба анҷом расонидани танзимот
     .tooltiptext = Ба анҷом расонидани танзимоти «{ -brand-short-name }»
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Муҳофизати такмилёфта аз пайгирӣ фаъол аст
 trustpanel-etp-label-disabled = Муҳофизати такмилёфта аз пайгирӣ ғайрифаъол аст

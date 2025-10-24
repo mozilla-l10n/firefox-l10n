@@ -594,7 +594,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Novi prozori i tabovi
 home-new-windows-tabs-description2 = Izaberite šta želite vidjeti kada otvorite svoju početnu stranicu, nove prozore i nove tabove.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Početna stranica i novi prozori
 home-newtabs-mode-label = Novi tabovi

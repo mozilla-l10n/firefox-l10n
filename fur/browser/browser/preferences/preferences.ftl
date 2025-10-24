@@ -595,7 +595,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Gnûfs barcons e schedis
 home-new-windows-tabs-description2 = Sielç ce che tu viodis cuant che tu vierzis la pagjine iniziâl, i gnûfs barcons e lis gnovis schedis.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pagjine iniziâl e gnûfs barcons
 home-newtabs-mode-label = Gnovis schedis

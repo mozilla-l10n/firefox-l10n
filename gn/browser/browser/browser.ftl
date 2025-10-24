@@ -1440,7 +1440,7 @@ onboarding-aw-finish-setup-button =
     .label = Emohu’ã ñemboheko
     .tooltiptext = Emohu’ã ne ñemboheko { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Tapykueho mo’ãha iporãvéva hendýma
 trustpanel-etp-label-disabled = Tapykueho mo’ãha iporãvéva ojejoko

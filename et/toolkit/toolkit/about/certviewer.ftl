@@ -36,6 +36,7 @@ certificate-viewer-key-size = Võtme suurus
 certificate-viewer-inc-locality = Asutamise asukoht
 certificate-viewer-locality = Lokaat
 certificate-viewer-location = Asukoht
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Logi ID
 certificate-viewer-method = Meetod
 certificate-viewer-modulus = Moodul

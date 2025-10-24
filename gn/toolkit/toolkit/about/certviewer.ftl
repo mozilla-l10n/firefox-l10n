@@ -36,6 +36,7 @@ certificate-viewer-key-size = Ñe’ẽñemi tuichakue
 certificate-viewer-inc-locality = Inc. Tendaite
 certificate-viewer-locality = Tenda
 certificate-viewer-location = Tendaite
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID ñemboguapy
 certificate-viewer-method = Tapereko
 certificate-viewer-modulus = Ha’ãha

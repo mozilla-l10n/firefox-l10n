@@ -36,6 +36,7 @@ certificate-viewer-key-size = Dimension de clave
 certificate-viewer-inc-locality = Loco del interprisa
 certificate-viewer-locality = Loco
 certificate-viewer-location = Position
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID log
 certificate-viewer-method = Methodo
 certificate-viewer-modulus = Modulo

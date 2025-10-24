@@ -585,7 +585,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Leiho eta fitxa berriak
 home-new-windows-tabs-description2 = Aukeratu zer ikusi nahi duzun zure hasiera-orria, leiho berriak eta fitxa berriak irekitzean.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Hasiera-orria eta leiho berriak
 home-newtabs-mode-label = Fitxa berriak

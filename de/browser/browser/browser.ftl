@@ -1440,7 +1440,7 @@ onboarding-aw-finish-setup-button =
     .label = Einrichtung abschließen
     .tooltiptext = Einrichtung von { -brand-short-name } abschließen
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Verbesserter Tracking-Schutz ist aktiviert
 trustpanel-etp-label-disabled = Verbesserter Tracking-Schutz ist deaktiviert

@@ -1406,7 +1406,7 @@ onboarding-aw-finish-setup-button =
     .label = Ljúka uppsetningu
     .tooltiptext = Ljúka uppsetningu á { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Aukin rakningarvörn er virk
 trustpanel-etp-label-disabled = Aukin rakningarvörn er óvirk

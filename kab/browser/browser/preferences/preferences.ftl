@@ -588,7 +588,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Isfuyla d yiccaren imaynuten
 home-new-windows-tabs-description2 = Fren ayen ara d-yettwaseknen ticki telḍiḍ asebter agejdan, ifuyla imaynuten neɣ accaren imaynuten.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Asebter agejdan akked isfuyla imaynuten
 home-newtabs-mode-label = Iccer amaynut

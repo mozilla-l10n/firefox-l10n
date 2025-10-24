@@ -1438,7 +1438,7 @@ onboarding-aw-finish-setup-button =
     .label = Dokončaj nastavitev
     .tooltiptext = Dokončaj nastavitev { -brand-short-name(sklon: "rodilnik") }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Izboljšana zaščita pred sledenjem je vključena
 trustpanel-etp-label-disabled = Izboljšana zaščita pred sledenjem je izključena

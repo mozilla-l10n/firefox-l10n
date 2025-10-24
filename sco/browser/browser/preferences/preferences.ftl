@@ -440,7 +440,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = New Windaes and Tabs
 home-new-windows-tabs-description2 = Decide whit ye see when ye open yer hamepage, new windaes, and new tabs.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Hamepage and new windaes
 home-newtabs-mode-label = New tabs

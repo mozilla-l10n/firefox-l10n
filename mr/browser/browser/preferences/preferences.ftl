@@ -343,7 +343,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = नवीन पटल आणि टॅब
 home-new-windows-tabs-description2 = आपले मुखपृष्ठ, नवीन पटल, आणि नवीन टॅब उघडल्यावर जे आपण बघता ते निवडा.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = मुखपृष्ठ आणि नवीन पटल
 home-newtabs-mode-label = नवीन टॅब

@@ -326,7 +326,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = புதிய சாளரங்களும் கீற்றுகளும்
 home-new-windows-tabs-description2 = முகப்புப்பக்கம், புதிய சாளங்கள், கீற்றுகளைத் திறக்கும்போது எவற்றைப் பார்க்கிறீர்கள் என்று  தேர்ந்தெடுங்கள்.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = முகப்புப்பக்கம் மற்றும் புதிய சாளரங்கள்
 home-newtabs-mode-label = புதிய கீற்றுகள்

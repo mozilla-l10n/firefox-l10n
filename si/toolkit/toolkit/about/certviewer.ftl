@@ -26,6 +26,7 @@ certificate-viewer-id = හැඳු.
 certificate-viewer-key-id = යතුරෙහි හැඳු.
 certificate-viewer-key-size = යතුරෙහි ප්‍රමාණය
 certificate-viewer-location = ස්ථානය
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = සටහනේ හැඳු.
 certificate-viewer-method = ක්‍රමය
 certificate-viewer-modulus = ඒකක

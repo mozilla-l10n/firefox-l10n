@@ -335,7 +335,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Neuvi Barcoin e feuggi
 home-new-windows-tabs-description2 = Çerni cöse ti veu vedde quande ti arvi a pagina prinçipâ, neuvi barcoin e neuvi feuggi.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina prinçipâ e neuvi barcoin
 home-newtabs-mode-label = Neuvi feuggi

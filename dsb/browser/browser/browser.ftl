@@ -1469,7 +1469,7 @@ onboarding-aw-finish-setup-button =
     .label = Konfiguraciju dokóńcyś
     .tooltiptext = Konfiguraciju { -brand-short-name } dokóńcyś
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Pólěpšony slědowański šćit jo zmóžnjony
 trustpanel-etp-label-disabled = Pólěpšony slědowański šćit jo znjemóžnjony

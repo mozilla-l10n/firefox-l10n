@@ -440,7 +440,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Finestres i pestanyes noves
 home-new-windows-tabs-description2 = Trieu què voleu veure en obrir la pàgina d'inici, finestres noves i pestanyes noves.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pàgina d'inici i finestres noves
 home-newtabs-mode-label = Pestanyes noves

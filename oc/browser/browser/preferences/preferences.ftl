@@ -543,7 +543,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Novèlas fenèstras e novèls onglets
 home-new-windows-tabs-description2 = Causissètz çò que volètz veire en dobrir la pagina d’acuèlh, de fenèstras novèlas o d’onglets novèls.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina d’acuèlh e novèlas fenèstras
 home-newtabs-mode-label = Onglets novèls

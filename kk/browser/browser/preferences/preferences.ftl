@@ -591,7 +591,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Жаңа терезелер мен беттер
 home-new-windows-tabs-description2 = Үй парағын, жаңа терезелер және беттерді ашқан кезде көретін нәрселерді таңдаңыз.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Үй парағы және жаңа терезелер
 home-newtabs-mode-label = Жаңа беттер

@@ -66,7 +66,7 @@ applications-use-other-label =
 
 browsing-title = Navìgacion
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-custom-url =
     .placeholder = Gllètar l'adrèce

@@ -598,7 +598,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nowe okna i karty
 home-new-windows-tabs-description2 = Wybierz, co ma być wyświetlane przy otwieraniu strony startowej, nowych okien i kart.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Strona startowa i nowe okna:
 home-newtabs-mode-label = Nowa karta:

@@ -379,7 +379,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = కొత్త కిటికీలు, ట్యాబులు
 home-new-windows-tabs-description2 = మీ ముంగిలి పేజీని, కొత్త కిటికీలను, కొత్త ట్యాబులను తెరచినప్పుడు ఏం కనబడాలో ఎంచుకోండి.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = ముంగిలి పేజీ, కొత్త కిటికీలు
 home-newtabs-mode-label = కొత్త ట్యాబు

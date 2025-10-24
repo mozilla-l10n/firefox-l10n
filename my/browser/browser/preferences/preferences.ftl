@@ -317,7 +317,7 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = ဝင်းဒိုးအသစ်နှင့် တပ်ဗ်အသစ်များ
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = အဖွင့်စာမျက်နှာနှင့် ဝင်းဒိုးအသစ်များ
 home-newtabs-mode-label = တပ်ဗ်အသစ်များ

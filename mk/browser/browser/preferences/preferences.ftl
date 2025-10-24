@@ -264,7 +264,7 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Нови прозорци и јазичиња
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Почетна страница и нови прозорци
 home-newtabs-mode-label = Нови јазичиња

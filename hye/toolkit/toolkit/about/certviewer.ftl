@@ -36,6 +36,7 @@ certificate-viewer-key-size = Ստեղնի չափը
 certificate-viewer-inc-locality = Inc. Տեղայնութիւն
 certificate-viewer-locality = Տեղադրութիւն
 certificate-viewer-location = Տեղադրութիւն
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Գրանցման ID
 certificate-viewer-method = Եղանակ
 certificate-viewer-modulus = Մոդուլ

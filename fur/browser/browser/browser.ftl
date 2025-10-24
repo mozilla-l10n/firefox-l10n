@@ -1441,7 +1441,7 @@ onboarding-aw-finish-setup-button =
     .label = Finìs di configurâ
     .tooltiptext = Finìs di configurâ { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = La protezion miorade da lis spiis e je ative
 trustpanel-etp-label-disabled = La protezion miorade da lis spiis e je disativade

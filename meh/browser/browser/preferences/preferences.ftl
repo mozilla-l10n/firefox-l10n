@@ -332,7 +332,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Ventanas jíía ji pestañas
 home-new-windows-tabs-description2 = Kaji naku kuvinu kune'yanu sa sinenu página xinañu'u, a jíía ventana ji pestaña jíía.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Página nuu kajie´e ji ventanas jíía
 home-newtabs-mode-label = Da pestaña jíía

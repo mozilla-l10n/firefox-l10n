@@ -36,6 +36,7 @@ certificate-viewer-key-size = Madhësi Kyçi
 certificate-viewer-inc-locality = Lokalitet i Inc.
 certificate-viewer-locality = Lokalitet
 certificate-viewer-location = Vendndodhje
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID Regjistri
 certificate-viewer-method = Metodë
 certificate-viewer-modulus = Modul

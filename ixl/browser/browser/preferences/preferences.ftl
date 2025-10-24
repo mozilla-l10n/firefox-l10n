@@ -114,7 +114,7 @@ network-proxy-connection-settings =
     .label = Ib'anax tuche'…
     .accesskey = I
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-mode-choice-custom =
     .label = Eetz chitu' URLs…

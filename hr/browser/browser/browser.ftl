@@ -1409,7 +1409,7 @@ onboarding-aw-finish-setup-button =
     .label = Završi postavljanje
     .tooltiptext = Završi s postavljanjem { -brand-short-name }a
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Poboljšana zaštita od praćenja je uključena
 trustpanel-etp-label-disabled = Poboljšana zaštita od praćenja je isključena

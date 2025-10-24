@@ -591,7 +591,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Novas janelas e separadores
 home-new-windows-tabs-description2 = Escolha o que vê quando abre a sua página inicial, novas janelas, e novos separadores.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Página inicial e novas janelas
 home-newtabs-mode-label = Novos separadores

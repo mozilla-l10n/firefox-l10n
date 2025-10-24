@@ -1366,7 +1366,7 @@ onboarding-aw-finish-setup-button =
     .label = Fakk asbeddi
     .tooltiptext = Fakk asbeddi { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-description-enabled = Ma yella wayen ur nteddu ara ɣef usmel-a, εreḍ ad tsenseḍ ammesten.
 trustpanel-connection-label-secure = Taɣellist n tuqqna

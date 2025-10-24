@@ -582,7 +582,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Нови прозорци и раздели
 home-new-windows-tabs-description2 = Изберете какво да виждате при отваряне на началната страница, нови прозорци или раздели.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Начална страница и нови прозорци
 home-newtabs-mode-label = Нов раздел

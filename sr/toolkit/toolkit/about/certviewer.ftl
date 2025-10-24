@@ -36,6 +36,7 @@ certificate-viewer-key-size = Величина кључа
 certificate-viewer-inc-locality = Место оснивања
 certificate-viewer-locality = Место
 certificate-viewer-location = Локација
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID дневника
 certificate-viewer-method = Метода
 certificate-viewer-modulus = Модул

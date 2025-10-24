@@ -597,7 +597,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Neue Fenster und Tabs
 home-new-windows-tabs-description2 = Legen Sie fest, was als Startseite sowie in neuen Fenstern und Tabs geöffnet wird.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Startseite und neue Fenster
 home-newtabs-mode-label = Neue Tabs

@@ -511,7 +511,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nauji langai ir kortelės
 home-new-windows-tabs-description2 = Pasirinkite, ką norite matyti atvėrę savo pradžios tinklalapį, naujus langus, naujas korteles.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pradžios tinklalapis ir nauji langai
 home-newtabs-mode-label = Naujos kortelės

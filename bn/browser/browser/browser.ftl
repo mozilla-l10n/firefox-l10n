@@ -1135,7 +1135,7 @@ file-picker-failed-open = Windows ফাইল-ডায়লগ খোলা য�
 
 onboarding-checklist-button-label = সেটআপ শেষ করুন
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-connection-label-secure = সংযোগ সুরক্ষিত
 trustpanel-connection-label-insecure = সংযোগ নিরাপদ নয়

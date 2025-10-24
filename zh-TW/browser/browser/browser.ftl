@@ -1433,7 +1433,7 @@ onboarding-aw-finish-setup-button =
     .label = 完成設定
     .tooltiptext = 完成設定 { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = 已開啟加強型追蹤保護
 trustpanel-etp-label-disabled = 已關閉加強型追蹤保護

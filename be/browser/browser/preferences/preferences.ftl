@@ -598,7 +598,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Новыя вокны і карткі
 home-new-windows-tabs-description2 = Выберыце, што бачыць, калі вы адкрываеце хатнюю старонку, новае акно ці картку.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Хатняя старонка і новыя вокны
 home-newtabs-mode-label = Новыя карткі

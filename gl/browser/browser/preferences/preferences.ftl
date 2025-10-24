@@ -591,7 +591,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Novas xanelas e lapelas
 home-new-windows-tabs-description2 = Escolla que desexa ver cando se abren a súa páxina de inicio, novas xanelas e novas lapelas.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Páxina de inicio e novas xanelas
 home-newtabs-mode-label = Novas lapelas

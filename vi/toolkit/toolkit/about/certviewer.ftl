@@ -36,6 +36,7 @@ certificate-viewer-key-size = Kích thước khóa
 certificate-viewer-inc-locality = Địa phương hợp nhất
 certificate-viewer-locality = Thành phố
 certificate-viewer-location = Địa chỉ
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID bản ghi
 certificate-viewer-method = Phương thức
 certificate-viewer-modulus = Mô-đun

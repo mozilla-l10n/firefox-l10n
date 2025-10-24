@@ -1458,7 +1458,7 @@ onboarding-aw-finish-setup-button =
     .label = Pabeigt iestatīšanu
     .tooltiptext = Pabeigt { -brand-short-name } iestatīšanu
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Uzlabotā aizsardzība pret izsekošanu ir ieslēgta
 trustpanel-etp-label-disabled = Uzlabotā aizsardzība pret izsekošanu ir izslēgta

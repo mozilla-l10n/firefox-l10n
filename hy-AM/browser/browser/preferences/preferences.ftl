@@ -519,7 +519,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Նոր Պատուհաններ և Ներդիրներ
 home-new-windows-tabs-description2 = Ընտրեք, թե ինչը տեսնել՝ տուն էջը, նոր պատուհաններ և նոր ներդիրներ բացելիս:
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Տնէջ և նոր պատուհաններ
 home-newtabs-mode-label = Նոր ներդիրներ

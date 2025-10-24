@@ -36,6 +36,7 @@ certificate-viewer-key-size = Anahtar boyutu
 certificate-viewer-inc-locality = Kuruluş yeri
 certificate-viewer-locality = Bölge
 certificate-viewer-location = Konum
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Log kimliği
 certificate-viewer-method = Yöntem
 certificate-viewer-modulus = Modülüs

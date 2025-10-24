@@ -36,6 +36,7 @@ certificate-viewer-key-size = Stærð lykils
 certificate-viewer-inc-locality = Staður lögþings
 certificate-viewer-locality = Bær/Sveitarfélag
 certificate-viewer-location = Staðsetning
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Log-auðkenni
 certificate-viewer-method = Aðferð
 certificate-viewer-modulus = Stuðull

@@ -36,6 +36,7 @@ certificate-viewer-key-size = Tamaño de la clave
 certificate-viewer-inc-locality = Inc. Localidad
 certificate-viewer-locality = Ubicación
 certificate-viewer-location = Ubicación
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID de registro
 certificate-viewer-method = Método
 certificate-viewer-modulus = Módulo

@@ -36,6 +36,7 @@ certificate-viewer-key-size = გასაღების ზომა
 certificate-viewer-inc-locality = რეგისტრ. ადგილი
 certificate-viewer-locality = ადგილსამყოფელი
 certificate-viewer-location = მდებარეობა
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = აღრიცხვის ID
 certificate-viewer-method = მეთოდი
 certificate-viewer-modulus = მოდული

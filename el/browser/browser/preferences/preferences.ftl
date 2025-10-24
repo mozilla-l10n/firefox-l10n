@@ -597,7 +597,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Νέα παράθυρα και καρτέλες
 home-new-windows-tabs-description2 = Επιλέξτε τι θα βλέπετε όταν ανοίγετε την αρχική σας σελίδα, νέα παράθυρα και νέες καρτέλες.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Αρχική σελίδα και νέα παράθυρα
 home-newtabs-mode-label = Νέες καρτέλες

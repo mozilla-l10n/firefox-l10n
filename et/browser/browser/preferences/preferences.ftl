@@ -504,7 +504,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Uued aknad ja kaardid
 home-new-windows-tabs-description2 = Vali avalehe, uute akende ja uute kaartide avamisel kuvatavad asjad.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Avaleht ja uued aknad
 home-newtabs-mode-label = Uued kaardid

@@ -571,7 +571,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Нови прозори и картице
 home-new-windows-tabs-description2 = Изаберите шта желите да видите када отворите почетну страницу, нови прозор или картицу.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Почетна страница и нови прозори:
 home-newtabs-mode-label = Нове картице:

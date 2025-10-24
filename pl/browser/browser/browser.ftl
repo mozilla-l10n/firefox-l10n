@@ -1458,7 +1458,7 @@ onboarding-aw-finish-setup-button =
     .label = Dokończ konfigurację
     .tooltiptext = Dokończ konfigurowanie { -brand-short-name(case: "gen") }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Wzmocniona ochrona przed śledzeniem jest włączona
 trustpanel-etp-label-disabled = Wzmocniona ochrona przed śledzeniem jest wyłączona

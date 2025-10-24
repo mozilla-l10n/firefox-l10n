@@ -1186,7 +1186,7 @@ file-picker-crashed-show-in-folder =
 
 onboarding-checklist-button-label = ສຳເລັດການຕັ້ງຄ່າ
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = ການປົກປ້ອງການຕິດຕາມແບບປັບປຸງເປີດຢູ່
 trustpanel-etp-label-disabled = ການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງດີຂຶ້ນປິດຢູ່

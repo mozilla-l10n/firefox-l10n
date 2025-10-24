@@ -600,7 +600,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nové okná a karty
 home-new-windows-tabs-description2 = Vyberte si domovskú stránku a stránku zobrazovanú pri otvorení nových okien a kariet.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Domovská stránka a nové okná
 home-newtabs-mode-label = Nové karty

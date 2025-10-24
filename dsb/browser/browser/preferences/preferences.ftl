@@ -603,7 +603,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nowe wokna a rejtariki
 home-new-windows-tabs-description2 = Wubjeŕśo, což cośo wiźeś, gaž swój startowy bok, nowe wokna a nowe rejtariki wócynjaśo.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Startowy bok a nowe wokna
 home-newtabs-mode-label = Nowe rejtariki

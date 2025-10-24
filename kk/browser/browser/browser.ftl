@@ -1424,7 +1424,7 @@ onboarding-aw-finish-setup-button =
     .label = Орнатуды аяқтау
     .tooltiptext = { -brand-short-name } орнатуын аяқтау
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Бақылаудан кеңейтілген қорғаныс іске қосулы
 trustpanel-etp-label-disabled = Бақылаудан кеңейтілген қорғаныс сөндірулі

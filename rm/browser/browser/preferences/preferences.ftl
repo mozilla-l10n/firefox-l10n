@@ -595,7 +595,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Novas fanestras e tabs
 home-new-windows-tabs-description2 = Tscherna tge che vegn mussà cura che ti avras tia pagina da partenza, novas fanestras e novs tabs.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina da partenza e novas fanestras
 home-newtabs-mode-label = Novs tabs

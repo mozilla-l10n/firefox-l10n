@@ -597,7 +597,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nieuwe vensters en tabbladen
 home-new-windows-tabs-description2 = Kies wat u ziet bij het openen van uw startpagina, nieuwe vensters, en nieuwe tabbladen.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Startpagina en nieuwe vensters
 home-newtabs-mode-label = Nieuwe tabbladen

@@ -1336,7 +1336,7 @@ onboarding-aw-finish-setup-button =
     .label = Përfundo ujdisjen
     .tooltiptext = Përfundoni ujdisjen e { -brand-short-name }-it
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Mbrojtje e Thelluar Nga Gjurmimi është aktive
 trustpanel-etp-label-disabled = Mbrojtje e Thelluar Nga Gjurmimi është joaktive

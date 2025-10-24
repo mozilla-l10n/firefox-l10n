@@ -27,6 +27,7 @@ certificate-viewer-key-id = কী ID
 certificate-viewer-key-size = কীৰ আকাৰ
 certificate-viewer-locality = এলেকা
 certificate-viewer-location = অৱস্থান
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = লগ ID
 certificate-viewer-method = পদ্ধতি
 certificate-viewer-modulus = মডিউলাছ

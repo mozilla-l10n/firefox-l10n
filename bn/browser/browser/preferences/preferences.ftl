@@ -383,7 +383,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = নতুন উইন্ডো এবং ট্যাব
 home-new-windows-tabs-description2 = নীড় পাতা, নতুন ইউন্ডো এবং নতুন ট্যাব খুলে আপনি যা দেখতে চান তা নির্বাচন করুন।
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = নীড়পাতা এবং নতুন পর্দা
 home-newtabs-mode-label = নতুন ট্যাবগুলি

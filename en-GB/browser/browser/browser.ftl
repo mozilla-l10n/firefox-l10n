@@ -1438,7 +1438,7 @@ onboarding-aw-finish-setup-button =
     .label = Finish setup
     .tooltiptext = Finish setting up { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Enhanced Tracking Protection is on
 trustpanel-etp-label-disabled = Enhanced Tracking Protection is off

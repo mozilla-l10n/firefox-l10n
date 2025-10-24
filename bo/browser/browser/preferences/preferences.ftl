@@ -286,7 +286,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = New Windows and Tabs
 home-new-windows-tabs-description2 = Choose what you see when you open your homepage, new windows, and new tabs.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = གཙོ་ངོས་དང་འཆར་སྒྲོམ་གསར་བ
 home-newtabs-mode-label = ཡན་ལག་ངོས་གསར་བ

@@ -338,7 +338,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = پەنجەرە و بازدەری نوێ
 home-new-windows-tabs-description2 = دەتەوێت چی ببینی کاتێک پەڕەی سەرەکی دەکرێتەوە، لە پەنجەرەی نوێ،یان بازدەری نوێ.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = پەڕەی سەرەکی و بازدەرەکان
 home-newtabs-mode-label = بازدەری نوێ

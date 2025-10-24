@@ -1412,7 +1412,7 @@ onboarding-aw-finish-setup-button =
     .label = Cumpleta sa cunfiguratzione
     .tooltiptext = Cumpleta sa cunfiguratzione de { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Amparu megioradu contra sa sighidura ativadu
 trustpanel-etp-label-disabled = Amparu megioradu contra sa sighidura disativadu

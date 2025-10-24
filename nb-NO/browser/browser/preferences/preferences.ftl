@@ -595,7 +595,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nye vinduer og faner
 home-new-windows-tabs-description2 = Velg hva du vil se når du åpner startsiden, nye vinduer og nye faner.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Startside og nye vinduer
 home-newtabs-mode-label = Nye faner

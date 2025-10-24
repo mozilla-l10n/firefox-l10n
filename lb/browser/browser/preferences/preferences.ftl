@@ -207,7 +207,7 @@ network-proxy-connection-settings =
     .label = Astellungen...
     .accesskey = A
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Startsäit an nei Fënsteren
 home-newtabs-mode-label = Nei Tabs

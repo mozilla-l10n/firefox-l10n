@@ -597,7 +597,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nije finsters en ljepblêden
 home-new-windows-tabs-description2 = Kies wat jo sjogge as jo jo startside, nije finsters en nije ljepblêden iepenje.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Startside en nije finsters
 home-newtabs-mode-label = Nije ljepblêden

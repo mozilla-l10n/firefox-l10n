@@ -1438,7 +1438,7 @@ onboarding-aw-finish-setup-button =
     .label = Terminer la configuration
     .tooltiptext = Terminer la configuration de { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = La protection renforcée contre le pistage est activée
 trustpanel-etp-label-disabled = La protection renforcée contre le pistage est désactivée

@@ -1442,7 +1442,7 @@ onboarding-aw-finish-setup-button =
     .label = Afslut opsætning
     .tooltiptext = Afslut opsætningen af { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Udvidet beskyttelse mod sporing er slået til
 trustpanel-etp-label-disabled = Udvidet beskyttelse mod sporing er slået fra

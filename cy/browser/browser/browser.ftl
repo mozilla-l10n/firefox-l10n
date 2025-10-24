@@ -1491,7 +1491,7 @@ onboarding-aw-finish-setup-button =
     .label = Gorffen gosod
     .tooltiptext = Gorffen gosod { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Mae Diogelwch Uwch Rhag Tracio ymlaen
 trustpanel-etp-label-disabled = Mae Diogelwch Uwch Rhag Tracio i ffwrdd

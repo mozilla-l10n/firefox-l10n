@@ -590,7 +590,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nýir gluggar og flipar
 home-new-windows-tabs-description2 = Veldu hvað þú sérð þegar þú opnar upphafssíðuna þína, nýja glugga og nýja flipa.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Upphafssíða og nýir gluggar
 home-newtabs-mode-label = Nýir flipar

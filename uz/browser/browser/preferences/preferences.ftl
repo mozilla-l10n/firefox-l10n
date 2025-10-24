@@ -346,7 +346,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Yangi oyna va varaqlar
 home-new-windows-tabs-description2 = Bosh sahifa, yangi oyna va varaqlarni ochganda nima koʻrinishi kerakligini tanlang.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Bosh sahifa va yangi oynalar
 home-newtabs-mode-label = Yangi varaqlar

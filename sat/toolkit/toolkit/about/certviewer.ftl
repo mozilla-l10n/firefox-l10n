@@ -36,6 +36,7 @@ certificate-viewer-key-size = ᱠᱟᱹᱴᱷᱤ ᱢᱟᱯ
 certificate-viewer-inc-locality = Inc. Locality
 certificate-viewer-locality = ᱞᱚᱠᱟᱞᱤᱴᱤ
 certificate-viewer-location = ᱡᱟᱭᱜᱟ
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ᱞᱚᱜᱽ ID
 certificate-viewer-method = ᱱᱤᱭᱚᱢ
 certificate-viewer-modulus = ᱢᱳᱰᱭᱩᱞᱚᱥ

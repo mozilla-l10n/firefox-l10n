@@ -585,7 +585,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = หน้าต่างและแท็บใหม่
 home-new-windows-tabs-description2 = เลือกสิ่งที่คุณเห็นเมื่อคุณเปิดหน้าแรก, หน้าต่างใหม่ และแท็บใหม่ของคุณ
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = หน้าแรกและหน้าต่างใหม่
 home-newtabs-mode-label = แท็บใหม่

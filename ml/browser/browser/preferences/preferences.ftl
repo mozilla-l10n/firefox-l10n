@@ -406,7 +406,7 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = പുതിയ ടാബുകളും ജാലകങ്ങളും
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = ആമുഖത്താളും പുതിയ ജാലകങ്ങളും
 home-newtabs-mode-label = പുതിയ ടാബുകൾ

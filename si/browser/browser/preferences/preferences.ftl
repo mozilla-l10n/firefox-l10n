@@ -552,7 +552,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = නව කවුළු සහ පටිති
 home-new-windows-tabs-description2 = ඔබගේ මුල් පිටුව, නව කවුළු හෝ පටිති විවෘත කරන විට ඔබ දැකීමට ප්‍රිය දෑ තෝරන්න.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = මුල් පිටුව හා නව කවුළු
 home-newtabs-mode-label = නව පටිති

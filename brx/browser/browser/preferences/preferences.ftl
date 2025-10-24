@@ -229,7 +229,7 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = गोदान उइन्ड'स आरो टेबफोर
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = ह'मबिलाइ आरो गोदान उइन्ड'स
 home-newtabs-mode-label = गोदान टेबफोर

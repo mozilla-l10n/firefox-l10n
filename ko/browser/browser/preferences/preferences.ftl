@@ -585,7 +585,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = 새 창과 탭
 home-new-windows-tabs-description2 = 홈페이지, 새 창 및 새 탭을 열 때 표시되는 것을 선택하세요.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = 홈페이지와 새 창
 home-newtabs-mode-label = 새 탭

@@ -1413,7 +1413,7 @@ onboarding-aw-finish-setup-button =
     .label = Selesaikan penyiapan
     .tooltiptext = Selesaikan menyiapkan { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Perlindungan Pelacakan yang Ditingkatkan aktif
 trustpanel-etp-label-disabled = Perlindungan Pelacakan yang Ditingkatkan tidak aktif

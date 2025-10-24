@@ -600,7 +600,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Ferestre și file noi
 home-new-windows-tabs-description2 = Alege ce vezi când deschizi pagina de start, ferestre noi și file noi.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pagină de start și ferestre noi
 home-newtabs-mode-label = File noi

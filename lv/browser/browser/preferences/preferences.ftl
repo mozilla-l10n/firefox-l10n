@@ -541,7 +541,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Jaunus logus un cilnes
 home-new-windows-tabs-description2 = Izvēlieties, ko rādīt atverot jaunu lapu, logu vai cilni.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Sākumlapa un jauni logi
 home-newtabs-mode-label = Jaunas cilnes

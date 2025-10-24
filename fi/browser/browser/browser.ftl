@@ -1441,7 +1441,7 @@ onboarding-aw-finish-setup-button =
     .label = Viimeistele määritys
     .tooltiptext = Viimeistele { -brand-short-name }in määritys
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Tehostettu seurannan suojaus on päällä
 trustpanel-etp-label-disabled = Tehostettu seurannan suojaus ei ole päällä

@@ -1439,7 +1439,7 @@ onboarding-aw-finish-setup-button =
     .label = Fini agordadon
     .tooltiptext = Fini agordadon de { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = La plibonigita protekto kontraŭ spurado estas ŝaltita
 trustpanel-etp-label-disabled = La plibonigita protekto kontraŭ spurado estas malŝaltita

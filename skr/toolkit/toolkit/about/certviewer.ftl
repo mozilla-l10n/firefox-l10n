@@ -36,6 +36,7 @@ certificate-viewer-key-size = کلیدی سائز
 certificate-viewer-inc-locality = Inc. مقامیت
 certificate-viewer-locality = مقامیت
 certificate-viewer-location = مقام
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = لاگ آئی ڈی
 certificate-viewer-method = طریقہ
 certificate-viewer-modulus = ماڈیولس

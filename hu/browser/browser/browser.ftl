@@ -1443,7 +1443,7 @@ onboarding-aw-finish-setup-button =
     .label = Beállítás befejezése
     .tooltiptext = A { -brand-short-name } beállításának befejezése
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = A fokozott követés elleni védelem be van kapcsolva
 trustpanel-etp-label-disabled = A fokozott követés elleni védelem ki van kapcsolva

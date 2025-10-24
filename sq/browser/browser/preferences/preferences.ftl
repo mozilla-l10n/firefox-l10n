@@ -588,7 +588,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Dritare dhe Skeda të Reja
 home-new-windows-tabs-description2 = Zgjidhni çfarë shihet, kur hapni faqen tuaj hyrëse, dritare të reja dhe skeda të reja.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Faqen hyrëse dhe dritare të reja
 home-newtabs-mode-label = Skeda të reja

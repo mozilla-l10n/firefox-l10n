@@ -581,7 +581,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Jendela dan Tab Baru
 home-new-windows-tabs-description2 = Pilih yang akan dilihat pertama kali ketika membuka beranda, jendela baru, dan tab baru.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Laman beranda dan jendela baru
 home-newtabs-mode-label = Tab baru

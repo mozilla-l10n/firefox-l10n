@@ -163,6 +163,6 @@ popup-notification-addon-technical-and-interaction-checkbox =
     .label = داده یل فنی وو تعامولی ن وا برنومه نویس وردنی یک رسۊوی کۊنین
     .accesskey = S
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-privacy-link = سامووا هریم سیخومی

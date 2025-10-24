@@ -1440,7 +1440,7 @@ onboarding-aw-finish-setup-button =
     .label = Ολοκλήρωση ρύθμισης
     .tooltiptext = Ολοκλήρωση της ρύθμισης του { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Η Ενισχυμένη προστασία από καταγραφή είναι ενεργή
 trustpanel-etp-label-disabled = Η Ενισχυμένη προστασία από καταγραφή είναι ανενεργή

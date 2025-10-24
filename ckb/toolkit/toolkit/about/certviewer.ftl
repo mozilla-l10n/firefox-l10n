@@ -32,6 +32,7 @@ certificate-viewer-key-size = قەبارەی کلیل
 certificate-viewer-inc-locality = درووستکەری ناوخۆیی
 certificate-viewer-locality = ناوخۆیی
 certificate-viewer-location = شوێن
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = پێناسی چوونەژوورەوە
 certificate-viewer-method = ڕێگە
 certificate-viewer-modulus = مۆدول

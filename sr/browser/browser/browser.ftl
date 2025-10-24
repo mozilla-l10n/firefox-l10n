@@ -1127,7 +1127,7 @@ file-picker-crashed-save-nowhere = Windows дијалошки оквир за и
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-blocker-see-all = Прикажи све
 

@@ -1458,7 +1458,7 @@ onboarding-aw-finish-setup-button =
     .label = Скончыць наладку
     .tooltiptext = Завяршыць наладжванне { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Узмоцненая ахова ад сачэння ўключана
 trustpanel-etp-label-disabled = Узмоцненая ахова ад сачэння выключана

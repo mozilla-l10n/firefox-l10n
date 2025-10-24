@@ -98,7 +98,7 @@ performance-allow-hw-accel =
 
 browsing-title = Panagsursur
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 choose-bookmark =
     .label = Aramaten ti pannanda...

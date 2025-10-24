@@ -298,7 +298,7 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = नयाँ संझ्याल तथा ट्याबहरू
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = गृहपृष्ठ तथा नयाँ संझ्यालहरु
 home-newtabs-mode-label = नयाँ ट्याबहरु

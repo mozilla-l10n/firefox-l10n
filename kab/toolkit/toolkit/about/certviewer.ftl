@@ -36,6 +36,7 @@ certificate-viewer-key-size = Teɣzi n tsarut
 certificate-viewer-inc-locality = Tamnaḍt n usekles
 certificate-viewer-locality = Tamnaḍt
 certificate-viewer-location = Adig
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Asulay n uɣmis
 certificate-viewer-method = Tarrayt
 certificate-viewer-modulus = Beṭṭu ɣef

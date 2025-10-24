@@ -601,7 +601,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nova okna in zavihki
 home-new-windows-tabs-description2 = Izberite, kaj želite videti, ko odprete domačo stran, nova okna in nove zavihke.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Domača stran in nova okna
 home-newtabs-mode-label = Novi zavihki

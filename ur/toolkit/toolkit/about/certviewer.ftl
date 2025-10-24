@@ -24,6 +24,7 @@ certificate-viewer-key-exchange-group = کلیدی تبادلہ وا؛ا گرو�
 certificate-viewer-key-id = کلید شناخت
 certificate-viewer-key-size = کلیدی کا ماپ
 certificate-viewer-location = موجودہ مقام
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = لاگ ID
 certificate-viewer-method = طریقہ
 certificate-viewer-modulus = ماڈیولس

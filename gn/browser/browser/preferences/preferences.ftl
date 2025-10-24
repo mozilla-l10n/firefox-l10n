@@ -595,7 +595,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Ovetã ha tendayke pyahu
 home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue iporãvévape, ovetã ha tendayke pyahúpe.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Togue moñepyrũ ha ovetã pyahu
 home-newtabs-mode-label = tendayke pyahu

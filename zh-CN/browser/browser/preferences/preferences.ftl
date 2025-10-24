@@ -591,7 +591,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = 新窗口和标签页
 home-new-windows-tabs-description2 = 选择您打开主页、新窗口和新标签页时要看到的内容。
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = 主页和新窗口
 home-newtabs-mode-label = 新标签页

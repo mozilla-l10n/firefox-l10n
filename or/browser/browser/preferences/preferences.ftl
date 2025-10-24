@@ -174,7 +174,7 @@ network-proxy-connection-settings =
     .label = ବିନ୍ୟାସ…
     .accesskey = e
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the

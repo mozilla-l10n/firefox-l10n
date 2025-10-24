@@ -36,6 +36,7 @@ certificate-viewer-key-size = Veľkosť kľúča
 certificate-viewer-inc-locality = Sídlo spoločnosti
 certificate-viewer-locality = Lokalita
 certificate-viewer-location = Umiestnenie
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID protokolu
 certificate-viewer-method = Metóda
 certificate-viewer-modulus = Modul

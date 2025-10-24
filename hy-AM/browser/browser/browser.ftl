@@ -1375,7 +1375,7 @@ onboarding-aw-finish-setup-button =
     .label = Ավարտել տեղակայումը
     .tooltiptext = Ավարտել { -brand-short-name }-ի տեղակայումը
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Ուժեղացված հետագծման պաշտպանությունը միացված է
 trustpanel-etp-label-disabled = Ուժեղացված հետագծման պաշտպանությունը անջատված է

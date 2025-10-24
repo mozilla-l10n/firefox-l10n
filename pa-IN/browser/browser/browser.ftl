@@ -1440,7 +1440,7 @@ onboarding-aw-finish-setup-button =
     .label = ਸੈਟਅੱਪ ਨੂੰ ਪੂਰਾ ਕਰੋ
     .tooltiptext = { -brand-short-name } ਦੇ ਸੈਟਅੱਪ ਨੂੰ ਪੂਰਾ ਕਰੋ
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਚਾਲੂ ਹੈ
 trustpanel-etp-label-disabled = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਬੰਦ ਹੈ

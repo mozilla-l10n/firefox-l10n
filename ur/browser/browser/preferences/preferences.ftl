@@ -353,7 +353,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = نئے دریچے اور ٹیبس
 home-new-windows-tabs-description2 = جب آپ اپنا ابتدیی صفحہ ، نئی ونڈوز اور نئی ٹیبز کھولتے ہیں تو  کا انتخاب کریں اپ کیا دیکھنا چاہتے ہیں۔
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = ابتدائی صفحہ اور نیا ونڈوں
 home-newtabs-mode-label = نئے ٹیبس

@@ -36,6 +36,7 @@ certificate-viewer-key-size = Meud na h-iuchrach
 certificate-viewer-inc-locality = Ionadachd chlàraichte
 certificate-viewer-locality = Ionadachd
 certificate-viewer-location = Ionad
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID an loga
 certificate-viewer-method = Dòigh
 certificate-viewer-modulus = Mòidealas

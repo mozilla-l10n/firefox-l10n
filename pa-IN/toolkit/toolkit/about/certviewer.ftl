@@ -36,6 +36,7 @@ certificate-viewer-key-size = ਕੁੰਜੀ ਆਕਾਰ
 certificate-viewer-inc-locality = ਸਥਾਪਿਤੀ
 certificate-viewer-locality = ਟਿਕਾਣਾ
 certificate-viewer-location = ਟਿਕਾਣਾ
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ਲਾਗ ਪਛਾਣ
 certificate-viewer-method = ਢੰਗ
 certificate-viewer-modulus = ਮੋਡੀਊਲ

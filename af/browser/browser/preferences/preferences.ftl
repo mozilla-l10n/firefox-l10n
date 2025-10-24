@@ -285,7 +285,7 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Nuwe Vensters en Oortjies
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Tuisblad en nuwe vensters
 home-newtabs-mode-label = Nuwe oortjies

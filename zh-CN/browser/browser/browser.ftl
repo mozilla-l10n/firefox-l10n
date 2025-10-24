@@ -1413,7 +1413,7 @@ onboarding-aw-finish-setup-button =
     .label = 完成设置
     .tooltiptext = 完成对 { -brand-short-name } 的设置
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = 增强型跟踪保护已开启
 trustpanel-etp-label-disabled = 增强型跟踪保护已关闭

@@ -1397,7 +1397,7 @@ onboarding-aw-finish-setup-button =
     .label = أنهِ الإعداد
     .tooltiptext = أنهِ إعداد { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-disabled = الحماية الموسّعة من التعقب معطّلة
 # Variables

@@ -1440,7 +1440,7 @@ onboarding-aw-finish-setup-button =
     .label = Finalitza la configuració
     .tooltiptext = Finalitza la configuració del { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = La protecció contra el seguiment millorada està activada
 trustpanel-etp-label-disabled = La protecció contra el seguiment millorada està desactivada

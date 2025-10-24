@@ -335,7 +335,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Yañı Pencereler ve İlmekler
 home-new-windows-tabs-description2 = Ev saifeñizni, yañı pencerelerni ve yañı ilmeklerni açqanıñızda ne körgeniñizni saylañız.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Ev-saifesi ve yañı pencereler
 home-newtabs-mode-label = Yañı ilmekler

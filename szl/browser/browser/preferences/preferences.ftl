@@ -503,7 +503,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nowe ôkna i karty
 home-new-windows-tabs-description2 = Ôbier, co chcesz widzieć przi ôtwiyraniu swojij dōmowyj strōny, nowych ôkiyn abo kart.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Dōmowo strōna i nowe ôkna
 home-newtabs-mode-label = Nowe karty

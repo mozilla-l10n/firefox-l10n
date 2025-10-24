@@ -1619,7 +1619,7 @@ onboarding-aw-finish-setup-button =
     .label = Dokončit nastavení
     .tooltiptext = Dokončí nastavení { -brand-short-name(case: "gen") }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Rozšířená ochrana proti sledování je zapnuta
 trustpanel-etp-label-disabled = Rozšířená ochrana proti sledování je vypnuta

@@ -416,7 +416,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Ventanes y llingüetes nueves
 home-new-windows-tabs-description2 = Escueyi lo que ves cuando abres la páxina d'aniciu, ventanes nueves y llingüetes nueves.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Páxina d'aniciu y ventanes nueves
 home-newtabs-mode-label = Llingüetes nueves

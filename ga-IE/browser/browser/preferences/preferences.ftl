@@ -312,7 +312,7 @@ network-proxy-connection-settings =
     .label = Socruithe…
     .accesskey = e
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-newtabs-mode-label = Cluaisíní nua
 home-mode-choice-blank =

@@ -36,6 +36,7 @@ certificate-viewer-key-size = Rakto dydis
 certificate-viewer-inc-locality = Centrinė buveinė
 certificate-viewer-locality = Vietovė
 certificate-viewer-location = Vieta
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Įrašo identifikatorius
 certificate-viewer-method = Metodas
 certificate-viewer-modulus = Modulis

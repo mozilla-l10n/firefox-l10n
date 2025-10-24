@@ -586,7 +586,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Ventanas e ischedas noas
 home-new-windows-tabs-description2 = Sèbera su chi bides cando aberis sa pàgina printzipale, e is ventanas e is ischedas noas.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Pàgina printzipale e ventanas noas
 home-newtabs-mode-label = Ischedas noas

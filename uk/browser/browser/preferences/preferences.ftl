@@ -598,7 +598,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Нові вікна і вкладки
 home-new-windows-tabs-description2 = Оберіть, що ви хочете бачити, відкриваючи домівку, нові вікна і вкладки.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Домівка та нові вікна
 home-newtabs-mode-label = Нові вкладки

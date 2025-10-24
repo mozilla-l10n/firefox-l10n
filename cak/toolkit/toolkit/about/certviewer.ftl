@@ -36,6 +36,7 @@ certificate-viewer-key-size = Runimilem Ewan
 certificate-viewer-inc-locality = Inc. K'ojlib'äl
 certificate-viewer-locality = Tinamital
 certificate-viewer-location = K'ojlib'äl
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Tz'ib'anïk ID
 certificate-viewer-method = B'eyal
 certificate-viewer-modulus = Tanaj

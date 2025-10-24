@@ -315,7 +315,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Tetingkap dan Tab Baru
 home-new-windows-tabs-description2 = Pilih apa yang anda mahu lihat apabila anda buka laman, tetingkap dan tab baru.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Laman dan tetingkap baru
 home-newtabs-mode-label = Tab baru

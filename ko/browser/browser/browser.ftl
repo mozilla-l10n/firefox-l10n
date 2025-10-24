@@ -1415,7 +1415,7 @@ onboarding-aw-finish-setup-button =
     .label = 설정 완료
     .tooltiptext = { -brand-short-name } 설정 완료
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = 향상된 추적 방지 켜짐
 trustpanel-etp-label-disabled = 향상된 추적 방지 꺼짐

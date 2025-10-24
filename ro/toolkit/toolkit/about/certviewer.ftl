@@ -36,6 +36,7 @@ certificate-viewer-key-size = Mărime cheie
 certificate-viewer-inc-locality = Sediu social
 certificate-viewer-locality = Localitate
 certificate-viewer-location = Loc
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID de jurnal
 certificate-viewer-method = Metodă
 certificate-viewer-modulus = Modul

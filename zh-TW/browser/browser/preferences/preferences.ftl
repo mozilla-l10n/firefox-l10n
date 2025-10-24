@@ -585,7 +585,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = 新視窗與分頁
 home-new-windows-tabs-description2 = 選擇開啟首頁、新視窗和新分頁時要看到的內容。
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = 首頁與新視窗
 home-newtabs-mode-label = 新分頁

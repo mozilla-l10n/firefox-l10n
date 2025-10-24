@@ -455,7 +455,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = پنجره‌ها و زبانه‌های جدید
 home-new-windows-tabs-description2 = انتخاب کنید چه چیزی در زمان باز کردن صفحهٔ خانگی، پنجره‌ها جدید و زبانه‌های جدید می‌بینید.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = صفحهٔ خانگی و پنجره‌های جدید
 home-newtabs-mode-label = زبانه‌های جدید

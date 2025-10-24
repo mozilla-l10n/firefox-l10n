@@ -1443,7 +1443,7 @@ onboarding-aw-finish-setup-button =
     .label = Instellen voltooien
     .tooltiptext = Instellen { -brand-short-name } voltooien
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Verbeterde bescherming tegen volgen is ingeschakeld
 trustpanel-etp-label-disabled = Verbeterde bescherming tegen volgen is uitgeschakeld

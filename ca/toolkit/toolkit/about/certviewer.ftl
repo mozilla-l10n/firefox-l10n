@@ -36,6 +36,7 @@ certificate-viewer-key-size = Mida de la clau
 certificate-viewer-inc-locality = Localitat (empresa)
 certificate-viewer-locality = Localitat
 certificate-viewer-location = Ubicació
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID de registre
 certificate-viewer-method = Mètode
 certificate-viewer-modulus = Mòdul

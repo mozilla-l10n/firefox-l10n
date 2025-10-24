@@ -36,6 +36,7 @@ certificate-viewer-key-size = Talha de clau
 certificate-viewer-inc-locality = Sèti social
 certificate-viewer-locality = Localitat
 certificate-viewer-location = Emplaçament
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID de jornal
 certificate-viewer-method = Metòde
 certificate-viewer-modulus = Modul

@@ -1444,7 +1444,7 @@ onboarding-aw-finish-setup-button =
     .label = Kurulumu tamamla
     .tooltiptext = { -brand-short-name } kurulumunu tamamlayın
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Gelişmiş izlenme koruması açık
 trustpanel-etp-label-disabled = Gelişmiş izlenme koruması kapalı

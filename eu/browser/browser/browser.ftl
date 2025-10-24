@@ -1314,7 +1314,7 @@ onboarding-aw-finish-setup-button =
     .label = Amaitu konfigurazioa
     .tooltiptext = Amaitu { -brand-short-name } konfiguratzen
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = Jarraipenaren babes hobetua aktibatuta dago
 trustpanel-etp-label-disabled = Jarraipenaren babes hobetua desaktibatuta dago

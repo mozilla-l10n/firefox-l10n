@@ -26,6 +26,7 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grupu de iscàmbiu de craes
 certificate-viewer-key-id = ID de sa crae
 certificate-viewer-key-size = Mannària de sa crae
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID de registru
 certificate-viewer-method = Mètodu
 certificate-viewer-name = Nòmine

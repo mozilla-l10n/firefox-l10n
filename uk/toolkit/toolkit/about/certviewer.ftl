@@ -36,6 +36,7 @@ certificate-viewer-key-size = Розмір ключа
 certificate-viewer-inc-locality = Місце розташування компанії
 certificate-viewer-locality = Місце розташування
 certificate-viewer-location = Розташування
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Ідентифікатор журналу
 certificate-viewer-method = Метод
 certificate-viewer-modulus = Модуль

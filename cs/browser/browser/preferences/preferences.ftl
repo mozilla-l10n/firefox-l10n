@@ -726,7 +726,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nová okna a panely
 home-new-windows-tabs-description2 = Vyberte si domovskou stránku a stránku zobrazovanou při otevření nového okna nebo panelu.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Na domovské stránce a v novém okně
 home-newtabs-mode-label = V novém panelu

@@ -1439,7 +1439,7 @@ onboarding-aw-finish-setup-button =
     .label = Terminar configuração
     .tooltiptext = Terminar configuração do { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = A proteção melhorada contra a monitorização está ativada
 trustpanel-etp-label-disabled = A proteção melhorada contra a monitorização está desativada

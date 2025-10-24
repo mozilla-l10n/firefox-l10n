@@ -308,7 +308,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = វីនដូ និងផ្ទាំងថ្មី
 home-new-windows-tabs-description2 = ជ្រើសអ្វីដែលអ្នកឃើញនៅពេលអ្នកបើកគេហទំព័រ, វីនដូថ្មី, និងផ្ទាំងថ្មី។
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = ទំព័រដើម និងវីនដូថ្មី
 home-newtabs-mode-label = ផ្ទាំងថ្មី

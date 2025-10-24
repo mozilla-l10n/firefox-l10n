@@ -1439,7 +1439,7 @@ onboarding-aw-finish-setup-button =
     .label = გამართვის დასრულება
     .tooltiptext = სრულადაა გამართული { -brand-short-name }
 
-## The urlbar trust panel
+## The urlbar trust icon & panel
 
 trustpanel-etp-label-enabled = თვალთვალისგან გაძლიერებული დაცვა ჩართ.
 trustpanel-etp-label-disabled = თვალთვალისგან გაძლიერებული დაცვა გამორთ.

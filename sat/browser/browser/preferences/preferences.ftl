@@ -519,7 +519,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = ᱱᱚᱶᱟ ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ
 home-new-windows-tabs-description2 = ᱟᱢ ᱟᱢᱟᱜ ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ, ᱱᱟᱣᱟ ᱣᱤᱱᱰᱚ ᱟᱨ ᱱᱟᱣᱟ ᱴᱟᱵᱽ ᱮᱢᱟᱱ ᱠᱚ ᱚᱞ ᱠᱟᱛᱮ ᱪᱮᱫ ᱧᱮᱞᱟ ᱚᱱᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = ᱚᱲᱟᱜᱥᱟᱦᱴᱟ ᱟᱨ ᱱᱟᱶᱟ ᱣᱤᱱᱰᱳ
 home-newtabs-mode-label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱠᱚ

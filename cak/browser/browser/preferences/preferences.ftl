@@ -483,7 +483,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = K'ak'a' taq Tzuwäch chuqa' taq Ruwi'
 home-new-windows-tabs-description2 = Tacha' ri natz'ët toq ye'ajäq ri tikirib'äl ruxaq, k'ak'a' taq tzuwäch chuqa' k'ak'a' taq ruwi'.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Tikirib'äl ruxaq chuqa' k'ak'a' taq tzuwäch
 home-newtabs-mode-label = K'ak'a' taq ruwi'

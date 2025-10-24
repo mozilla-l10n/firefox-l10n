@@ -36,6 +36,7 @@ certificate-viewer-key-size = Maint Allwedd
 certificate-viewer-inc-locality = Ardal Corffori
 certificate-viewer-locality = Lleoliad
 certificate-viewer-location = Lleoliad
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID Cofnod
 certificate-viewer-method = Dull
 certificate-viewer-modulus = Modwlws

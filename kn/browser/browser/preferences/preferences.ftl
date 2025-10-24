@@ -251,7 +251,7 @@ network-proxy-connection-settings =
     .label = ಸಿದ್ಧತೆಗಳು...
     .accesskey = e
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-newtabs-mode-label = ಹೊಸ ಟ್ಯಾಬ್ ಗಳು
 home-mode-choice-blank =

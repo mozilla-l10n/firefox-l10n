@@ -36,6 +36,7 @@ certificate-viewer-key-size = Андозаи калид
 certificate-viewer-inc-locality = Нишонии ҳуқуқӣ
 certificate-viewer-locality = Нишонӣ
 certificate-viewer-location = Ҷойгиршавӣ
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Рақами мушаххаси сабт
 certificate-viewer-method = Усул
 certificate-viewer-modulus = Модул

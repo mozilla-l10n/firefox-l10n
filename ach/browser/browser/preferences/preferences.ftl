@@ -327,7 +327,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Dirica ki dirica matino manyen
 home-new-windows-tabs-description2 = Yer ngo ma ineno ka iyabo potbuk me acakki mamegi, dirica manyen, ki dirica matino manyen.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Potbuk me acakki ki dirica manyen
 home-newtabs-mode-label = Dirica matino manyen

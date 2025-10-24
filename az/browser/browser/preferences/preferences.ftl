@@ -327,7 +327,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Yeni Pəncərələr və Vərəqlər
 home-new-windows-tabs-description2 = Ev səhifənizi, yeni pəncərə və vərəqləri açdığınızda nə gördüyünüzü seçin.
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = Ev səhifəsi və yeni pəncərələr
 home-newtabs-mode-label = Yeni vərəqlər
