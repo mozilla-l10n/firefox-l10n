@@ -603,6 +603,7 @@ home-new-windows-tabs-description2 = Alege ce vezi când deschizi pagina de star
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagină de start și ferestre noi
+home-homepage-mode-label2 = Ferestre noi
 home-newtabs-mode-label = File noi
 home-restore-defaults =
     .label = Restaurează valorile implicite
@@ -615,6 +616,11 @@ home-mode-choice-blank =
     .label = Pagină goală
 home-homepage-custom-url =
     .placeholder = Inserează un URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Gestionează extensia
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Alege un anumit site
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should

@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $nam
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Gean nei <img data-l10n-name="addons-icon"/> Add-ons yn it menu <img data-l10n-name="menu-icon"/> om de útwreiding yn te skeakeljen.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } beheart in oantal ynstellingen fan jo startside.
 
 ## Preferences UI Search Results
 
@@ -600,6 +603,7 @@ home-new-windows-tabs-description2 = Kies wat jo sjogge as jo jo startside, nije
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startside en nije finsters
+home-homepage-mode-label2 = Nije finsters
 home-newtabs-mode-label = Nije ljepblêden
 home-restore-defaults =
     .label = Standert werstelle
@@ -612,6 +616,11 @@ home-mode-choice-blank =
     .label = Lege side
 home-homepage-custom-url =
     .placeholder = Plak in URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Utwreiding beheare
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Kies in spesifike website
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,13 +635,38 @@ use-current-pages =
 choose-bookmark =
     .label = Blêdwizer brûke…
     .accesskey = B
+home-homepage-header = Startside
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Oanpaste startside
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Websiteadres(sen)
+home-custom-homepage-address =
+    .placeholder = Fier adres yn
+home-custom-homepage-address-button =
+    .label = Adres tafoegje
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Noch gjin websites tafoege.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Ferfange troch
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Aktuele iepene siden
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Blêdwizers…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }-ynhâld
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Kies hokker ynhâld jo op jo { -firefox-home-brand-name }-skerm werjaan wolle.
 home-prefs-search-header =
     .label = Sykje op it web
+home-prefs-search-header2 =
+    .label = Sykje
 home-prefs-shortcuts-header =
     .label = Fluchkeppelingen
 home-prefs-shortcuts-description = Bewarre of besochte websites
@@ -647,6 +681,9 @@ home-prefs-recommended-by-description-new = Utsûnderlike ynhâld, gearstald tro
 home-prefs-recommended-by-header-generic =
     .label = Oanrekommandearre ferhalen
 home-prefs-recommended-by-description-generic = Utsûnderlike ynhâld, sammele troch de { -brand-product-name }-famylje
+home-prefs-stories-header =
+    .label = Ferhalen
+home-prefs-stories-description = Personalisearre ferhalen op basis fan jo aktiviteit
 
 ##
 
@@ -685,6 +722,8 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } stypje
 home-prefs-mission-message = Us sponsors stypje ús misje om in better web te bouwen
 home-prefs-mission-message-learn-more-link = Lês hjir hoe
+home-prefs-manage-topics-link = Underwerpen beheare
+home-prefs-choose-wallpaper-link = Kies in eftergrûn
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1229,6 +1268,8 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresbalke
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = By gebrûk fan de adresbalke, suggestjes werjaan út
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresbalke – { -firefox-suggest-brand-name }

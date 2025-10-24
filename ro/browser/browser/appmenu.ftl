@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Lansează tabloul de bord pentru mășt
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protejează-ți activitatea online
 appmenu-services-header = Serviciile mele
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Încearcă alte instrumente de protecție de la Mozilla:
 appmenu-other-protection-header = Încearcă alte instrumente de protecție de la { -vendor-short-name }:
 
 ## Profiles panel

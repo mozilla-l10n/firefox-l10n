@@ -21,8 +21,12 @@ backup-folder-name = { -brand-product-name } herstellen
 backup-file-name = { -brand-product-name }-reservekopie
 settings-data-backup-header = Reservekopie
 settings-data-backup-toggle = Reservekopie beheren
+settings-data-backup-toggle-on = Reservekopieën inschakelen
+settings-data-backup-toggle-off = Reservekopieën uitschakelen
 settings-data-backup-trigger-button = Reservekopie nu maken
 settings-data-backup-in-progress-button = Reservekopie maken…
+settings-data-backup-in-progress-message =
+    .message = Reservekopie maken…
 settings-data-backup-scheduled-backups-on = Reservekopie: AAN
 settings-data-backup-scheduled-backups-off = Reservekopie: UIT
 settings-data-backup-scheduled-backups-description = Bescherm automatisch uw bladwijzers, geschiedenis en andere gegevens. <a data-l10n-name="support-link">Meer info</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } kan niet herstellen
     .message = Herstart { -brand-short-name } en probeer opnieuw uw reservekopie te herstellen.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, er is een probleem opgetreden bij het maken van de reservekopie.
+    .message = Probeer het over een paar minuten nogmaals.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =

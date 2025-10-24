@@ -21,8 +21,12 @@ backup-folder-name = { -brand-product-name } reparearje
 backup-file-name = { -brand-product-name }-reservekopy
 settings-data-backup-header = Reservekopy
 settings-data-backup-toggle = Reservekopy beheare
+settings-data-backup-toggle-on = Reservekopyen ynskeakelje
+settings-data-backup-toggle-off = Reservekopyen útskeakelje
 settings-data-backup-trigger-button = Reservekopy no meitsje
 settings-data-backup-in-progress-button = Reservekopy dwaande…
+settings-data-backup-in-progress-message =
+    .message = Reservekopy meitsje…
 settings-data-backup-scheduled-backups-on = Reservekopy: OAN
 settings-data-backup-scheduled-backups-off = Reservekopy: ÚT
 settings-data-backup-scheduled-backups-description = Beskermje automatysk jo blêdwizers, skiednis en oare gegevens. <a data-l10n-name="support-link">Mear ynfo</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } kin net reparearje
     .message = Start { -brand-short-name } opnij en probearje opnij mei jo reservekopy te reparearjen.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, der is in probleem bard mei it meitsjen fan in reservekopy.
+    .message = Probearje it oer in pear minuten nochris.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =

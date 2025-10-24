@@ -92,3 +92,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } extensies uitgeschakeld
         }
     .message = Sommige van uw extensies zijn uitgeschakeld vanwege schending van Mozilla-beleid.
+unified-extensions-notice-safe-mode =
+    .message = Alle extensies zijn uitgeschakeld door de Probleemoplossingsmodus.

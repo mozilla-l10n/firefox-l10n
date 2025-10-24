@@ -92,3 +92,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } útwreiding útskeakele
         }
     .message = Guon fan jo útwreidingen binne útskeakele fanwegen skeining fan Mozilla-belied.
+unified-extensions-notice-safe-mode =
+    .message = Alle útwreidingen binne útskeakele troch de Probleemoplossingsmodus.

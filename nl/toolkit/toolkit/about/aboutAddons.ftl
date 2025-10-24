@@ -174,6 +174,8 @@ extensions-warning-update-security-button = Inschakelen
 extensions-warning-imported-addons2 =
     .message = Voltooi de installatie van extensies die zijn geïmporteerd naar { -brand-short-name }.
 extensions-warning-imported-addons-button = Extensies installeren
+extensions-warning-safe-mode3 =
+    .message = Alle add-ons zijn uitgeschakeld door de Probleemoplossingsmodus.
 
 ## Strings connected to add-on updates
 

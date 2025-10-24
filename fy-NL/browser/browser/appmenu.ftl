@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = E-mailmaskersdashboard iepenje
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Beskermje jo online aktiviteit
 appmenu-services-header = Myn tsjinsten
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Probearje oar beskermingsark fan Mozilla:
 appmenu-other-protection-header = Probearje oar beskermingsark fan { -vendor-short-name }:
 
 ## Profiles panel

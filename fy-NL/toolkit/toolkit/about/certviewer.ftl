@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Fêstigingsplak
 certificate-viewer-locality = Plak
 certificate-viewer-location = Lokaasje
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Lochboeknamme
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Log-ID
 certificate-viewer-method = Metoade
 certificate-viewer-modulus = Modulus

@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Ynskeakelje
 extensions-warning-imported-addons2 =
     .message = Foltôgje de ynstallaasje fan útwreidingen dy’t ymportearre binne nei { -brand-short-name }.
 extensions-warning-imported-addons-button = Utwreidingen ynstallearje
+extensions-warning-safe-mode3 =
+    .message = Alle add-ons binne útskeakele troch de Probleemoplossingsmodus.
 
 ## Strings connected to add-on updates
 

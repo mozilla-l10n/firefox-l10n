@@ -21,8 +21,12 @@ backup-folder-name = Restabilește { -brand-product-name }
 backup-file-name = Copie de rezervă { -brand-product-name }
 settings-data-backup-header = Copie de rezervă
 settings-data-backup-toggle = Gestionează copiile de rezervă
+settings-data-backup-toggle-on = Activează copiile de rezervă
+settings-data-backup-toggle-off = Dezactivează copiile de rezervă
 settings-data-backup-trigger-button = Fă o copie de rezervă acum
 settings-data-backup-in-progress-button = Se creează copia de rezervă…
+settings-data-backup-in-progress-message =
+    .message = Se creează copia de rezervă…
 settings-data-backup-scheduled-backups-on = Copie de rezervă: Activată
 settings-data-backup-scheduled-backups-off = Copie de rezervă: Dezactivată
 settings-data-backup-scheduled-backups-description = Protejează-ți automat marcajele, istoricul și alte date. <a data-l10n-name="support-link">Află mai multe</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } nu a putut restaura
     .message = Repornește { -brand-short-name } și încearcă din nou să restabilești datele din copia de rezervă.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, a apărut o problemă la crearea unei copii de rezervă.
+    .message = Încearcă din nou peste câteva minute.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
