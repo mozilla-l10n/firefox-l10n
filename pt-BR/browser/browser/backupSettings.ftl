@@ -21,8 +21,12 @@ backup-folder-name = Restaurar { -brand-product-name }
 backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header = Backup
 settings-data-backup-toggle = Gerenciar backup
+settings-data-backup-toggle-on = Ativar backup
+settings-data-backup-toggle-off = Desativar backup
 settings-data-backup-trigger-button = Fazer backup agora
 settings-data-backup-in-progress-button = Backup em andamento…
+settings-data-backup-in-progress-message =
+    .message = Backup em andamento…
 settings-data-backup-scheduled-backups-on = Backup: ATIVADO
 settings-data-backup-scheduled-backups-off = Backup: DESATIVADO
 settings-data-backup-scheduled-backups-description = Proteja automaticamente seus favoritos, histórico e outros dados. <a data-l10n-name="support-link">Saiba mais</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = Não foi possível restaurar o { -brand-short-name }
     .message = Reinicie o { -brand-short-name } e tente restaurar seu backup novamente.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Houve um problema ao fazer backup.
+    .message = Tente novamente em alguns minutos.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =

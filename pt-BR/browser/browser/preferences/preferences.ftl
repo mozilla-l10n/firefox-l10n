@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Para ativar a extensão, vá em <img data-l10n-name="addons-icon"/> Extensões <img data-l10n-name="menu-icon"/> no menu.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } controla algumas configurações da sua página inicial.
 
 ## Preferences UI Search Results
 
@@ -600,6 +603,7 @@ home-new-windows-tabs-description2 = Escolha o que aparece ao abrir a página in
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Página inicial e novas janelas
+home-homepage-mode-label2 = Novas janelas
 home-newtabs-mode-label = Novas abas
 home-restore-defaults =
     .label = Restaurar padrão
@@ -612,6 +616,11 @@ home-mode-choice-blank =
     .label = Página vazia
 home-homepage-custom-url =
     .placeholder = Cole uma URL...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Gerenciar extensão
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Escolher um site específico
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,13 +635,38 @@ use-current-pages =
 choose-bookmark =
     .label = Usar favorito…
     .accesskey = f
+home-homepage-header = Página inicial
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Página inicial personalizada
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Endereços de sites
+home-custom-homepage-address =
+    .placeholder = Inserir endereço
+home-custom-homepage-address-button =
+    .label = Adicionar endereço
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Nenhum site adicionado ainda.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Substituir por
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Páginas abertas no momento
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Favoritos…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Conteúdo da { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Escolha que conteúdo você quer na { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Campo de pesquisa na web
+home-prefs-search-header2 =
+    .label = Pesquisa
 home-prefs-shortcuts-header =
     .label = Atalhos
 home-prefs-shortcuts-description = Sites que você salva ou visita
@@ -647,6 +681,9 @@ home-prefs-recommended-by-description-new = Conteúdo excepcional selecionado pe
 home-prefs-recommended-by-header-generic =
     .label = Histórias recomendadas
 home-prefs-recommended-by-description-generic = Conteúdo excepcional selecionado pela família { -brand-product-name }
+home-prefs-stories-header =
+    .label = Histórias
+home-prefs-stories-description = Histórias personalizadas com base na sua atividade
 
 ##
 
@@ -685,6 +722,8 @@ home-prefs-support-firefox-header =
     .label = Apoie o { -brand-product-name }
 home-prefs-mission-message = Nossos patrocinadores apoiam nossa missão de construir uma web melhor
 home-prefs-mission-message-learn-more-link = Descubra como
+home-prefs-manage-topics-link = Gerenciar tópicos
+home-prefs-choose-wallpaper-link = Escolher um fundo de tela
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
