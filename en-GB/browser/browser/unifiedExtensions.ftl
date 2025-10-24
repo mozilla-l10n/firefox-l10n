@@ -90,3 +90,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } extensions disabled
         }
     .message = Some of your extensions have been disabled for violating Mozilla’s policies.
+unified-extensions-notice-safe-mode =
+    .message = All extensions have been disabled by Troubleshoot Mode.
