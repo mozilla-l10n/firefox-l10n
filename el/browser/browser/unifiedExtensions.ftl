@@ -17,6 +17,7 @@ unified-extensions-empty-reason-private-browsing-not-allowed = Έχετε εγκ
 unified-extensions-empty-reason-extension-not-enabled = Έχετε εγκαταστήσει επεκτάσεις, αλλά δεν τις έχετε ενεργοποιήσει
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Εξελίξτε την περιήγησή σας με τις επεκτάσεις
+unified-extensions-empty-content-explain-enable2 = Επιλέξτε «{ unified-extensions-manage-extensions.label }» για να τις ενεργοποιήσετε στις ρυθμίσεις.
 unified-extensions-empty-content-explain-manage2 = Επιλέξτε «{ unified-extensions-manage-extensions.label }» για να τις διαχειριστείτε στις ρυθμίσεις.
 unified-extensions-empty-content-explain-extensions-onboarding = Εξατομικεύστε το { -brand-short-name } αλλάζοντας την εμφάνιση και τις επιδόσεις του ή ενισχύοντας το απόρρητο και την ασφάλεια.
 
@@ -89,3 +90,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] Απενεργοποιήθηκαν { $extensionsCount } επεκτάσεις
         }
     .message = Μερικές από τις επεκτάσεις σας έχουν απενεργοποιηθεί επειδή παραβιάζουν τις πολιτικές της Mozilla.
+unified-extensions-notice-safe-mode =
+    .message = Όλες οι επεκτάσεις έχουν απενεργοποιηθεί από τη λειτουργία επίλυσης προβλημάτων.

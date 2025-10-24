@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Επιλέξτε ένα όνομα, όπως «Εργασία» ή «Προσωπικό»
 new-profile-page-done-button =
     .label = Τέλος επεξεργασίας
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Το αντίγραφο του { $profilename } είναι έτοιμο για προσαρμογή
+copied-profile-page-header-description = Τα δεδομένα και οι ρυθμίσεις σας έχουν αντιγραφεί σε ένα νέο προφίλ. Ονομάστε το, επιλέξτε μια εμφάνιση και κάντε το δικό σας.
 profile-window-title-2 = { -brand-short-name } - Επιλογή προφίλ
 profile-window-logo =
     .alt = Λογότυπο { -brand-short-name }

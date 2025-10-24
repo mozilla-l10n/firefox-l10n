@@ -11,6 +11,8 @@ existing-user-tou-message = <strong>Ενημέρωση:</strong> Παρουσι�
 existing-user-tou-learn-more = Μάθετε περισσότερα
 # Text for primary button
 existing-user-tou-accept = Αποδοχή
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Ενημερώσαμε τη <a data-l10n-name="privacy-notice-link">Σημείωση απορρήτου</a> ώστε να περιέχει τις πιο πρόσφατες λειτουργίες του { -brand-short-name }.
 
 ## Existing User Terms of Use Spotlight
 
