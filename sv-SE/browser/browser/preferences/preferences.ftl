@@ -653,7 +653,7 @@ home-custom-homepage-no-websites-yet = Inga webbplatser tillagda ännu.
 home-custom-homepage-replace-with = Ersätt med
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-current-pages-button =
-    .label = Aktuellt öppnade sidor
+    .label = För närvarande öppna sidor
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Bokmärken…
