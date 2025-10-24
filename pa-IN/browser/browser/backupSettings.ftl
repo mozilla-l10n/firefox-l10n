@@ -145,6 +145,11 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = ਓਹ ਹੋ, ਬੈਕ ਅੱਪ ਲੈਣ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ।
     .message = ਕੁਝ ਕੁ ਮਿੰਟਾਂ ਵਿੱਚ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਿਓ।
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = ਕੁਝ ਗਲਤ ਵਾਪਰਿਆ
+    .message = { -brand-short-name } ਲਈ ਬੈਕਅੱਪ ਪਰੋਸੈਸ ਨਾਲ ਸਮੱਸਿਆ ਸੀ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜਾਂ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ।
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
