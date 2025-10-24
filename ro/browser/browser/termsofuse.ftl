@@ -11,6 +11,8 @@ existing-user-tou-message = <strong>Actualizare</strong> Am introdus <a data-l10
 existing-user-tou-learn-more = Află mai multe
 # Text for primary button
 existing-user-tou-accept = Acceptă
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Am actualizat <a data-l10n-name="privacy-notice-link">Notificarea privind confidențialitatea</a> ca să reflecte cele mai noi funcționalități din { -brand-short-name }.
 
 ## Existing User Terms of Use Spotlight
 

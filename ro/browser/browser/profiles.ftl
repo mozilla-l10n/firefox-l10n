@@ -63,6 +63,7 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Copia ta { $profilename } este gata de personalizare
+copied-profile-page-header-description = Ți-am copiat datele și setările într-un profil nou. Acum dă-i un nume, alege un aspect și personalizează.
 profile-window-title-2 = { -brand-short-name } - Alege un profil
 profile-window-logo =
     .alt = Logoul { -brand-short-name }
