@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $nam
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Aby rozšěrjenje zmóžnił, pśejźćo k <img data-l10n-name="addons-icon"/> dodankam w <img data-l10n-name="menu-icon"/> meniju.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } někotare nastajenja wašogo startowego boka wóźi.
 
 ## Preferences UI Search Results
 
@@ -606,6 +609,7 @@ home-new-windows-tabs-description2 = Wubjeŕśo, což cośo wiźeś, gaž swój 
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startowy bok a nowe wokna
+home-homepage-mode-label2 = Nowe wokna
 home-newtabs-mode-label = Nowe rejtariki
 home-restore-defaults =
     .label = Standard wótnowiś
@@ -618,6 +622,11 @@ home-mode-choice-blank =
     .label = Prozny bok
 home-homepage-custom-url =
     .placeholder = URL zasajźiś…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Rozšyrjenje zastojaś
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Wubjeŕśo wěste sedło
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -632,13 +641,38 @@ use-current-pages =
 choose-bookmark =
     .label = Cytańske znamje wužywaś…
     .accesskey = C
+home-homepage-header = Startowy bok
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Swójski startowy bok
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Adrese websedłow
+home-custom-homepage-address =
+    .placeholder = Adresu zapódaś
+home-custom-homepage-address-button =
+    .label = Adresu pśidaś
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Hyšći žedne websedła pśidane.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Wuměniś z
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Aktualne wócynjone boki
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Cytańske znamjenja…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } wopśimjeśe
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Wubjeŕśo, kótare wopśimjeśe cośo na swójej wobrazowce { -firefox-home-brand-name } měś.
 home-prefs-search-header =
     .label = Webpytanje
+home-prefs-search-header2 =
+    .label = Pytaś
 home-prefs-shortcuts-header =
     .label = Zwězanja
 home-prefs-shortcuts-description = Sedła, kótarež składujośo abo ku kótarymž se woglědujośo
@@ -653,6 +687,9 @@ home-prefs-recommended-by-description-new = Wósebne wopśimjeśe, wubrane pśez
 home-prefs-recommended-by-header-generic =
     .label = Dopórucone tšojeńka
 home-prefs-recommended-by-description-generic = Wuwześowe wopśimjeśe, kótarež se pśez swójźbu { -brand-product-name } wótwardujo
+home-prefs-stories-header =
+    .label = Tšojenja
+home-prefs-stories-description = Personalizěrowane tšojenja na zakłaźe wašeje aktiwity
 
 ##
 
@@ -691,6 +728,7 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } pódpěraś
 home-prefs-mission-message = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili
 home-prefs-mission-message-learn-more-link = Zgóńśo kak
+home-prefs-manage-topics-link = Temy zastojaś
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

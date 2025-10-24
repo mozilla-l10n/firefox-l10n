@@ -21,8 +21,12 @@ backup-folder-name = { -brand-product-name } wótnowiś
 backup-file-name = Zawěsćenje { -brand-product-name }
 settings-data-backup-header = Zawěsćenje
 settings-data-backup-toggle = Zawěsćenje zastojaś
+settings-data-backup-toggle-on = Zawěsćenje zmóžniś
+settings-data-backup-toggle-off = Zawěsćenje znjemóžniś
 settings-data-backup-trigger-button = Něnto zawěsćiś
 settings-data-backup-in-progress-button = Zawěsćenje běžy…
+settings-data-backup-in-progress-message =
+    .message = Zawěsćenje běžy…
 settings-data-backup-scheduled-backups-on = Zawěsćenje: ZAŠALTOWANE
 settings-data-backup-scheduled-backups-off = Zawěsćenje: WUŠALTOWANE
 settings-data-backup-scheduled-backups-description = Šćitajśo awtomatiski swóje cytańske znamjenja, historiju a druge daty. <a data-l10n-name="support-link">Dalšne informacije</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } njedajo se wótnowiś
     .message = Startujśo { -brand-short-name } znowego a wopytajśo znowego swójo zawěsćenje wótnowiś.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hm, dajo problem pśi zawěsćenju.
+    .message = Wopytajśo za mało minutow hyšći raz.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
