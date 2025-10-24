@@ -167,3 +167,13 @@ certerror-coep-learn-more = Dalšne informacije wó Cross Origin Embedder Polici
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Zmólkowy kode: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } njamóžo wěsty zwisk z serwerom na { $hostname } nawězaś.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Zda se, až toś to sedło staru software ze znatymi wěstotnymi problemami wužywa.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Zawěsććo, až nejnowšu wersiju { -brand-short-name } wužywaśo. Źiśo k Pomoc > Wó { -brand-short-name } w meniju. Jolic nejnowšu wersiju { -brand-short-name } wužywaśo, ma nejskerjej sedło toś ten problem.

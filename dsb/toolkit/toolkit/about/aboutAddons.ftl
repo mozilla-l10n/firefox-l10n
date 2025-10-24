@@ -169,6 +169,8 @@ extensions-warning-update-security-button = Zmóžniś
 extensions-warning-imported-addons2 =
     .message = Pšosym dokóńcćo instalaciju rozšyrjenjow, kótarež su se importěrowali do { -brand-short-name }.
 extensions-warning-imported-addons-button = Rozšyrjenja instalěrowaś
+extensions-warning-safe-mode3 =
+    .message = Wšykne dodanki su se znjemóžnili pśez modus za rozwězowanje problemow.
 
 ## Strings connected to add-on updates
 
