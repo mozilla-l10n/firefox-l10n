@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = 법인 구/군/시
 certificate-viewer-locality = 구/군/시
 certificate-viewer-location = 위치
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = 로그 이름
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = 로그 ID
 certificate-viewer-method = 메소드
 certificate-viewer-modulus = 계수

@@ -169,6 +169,8 @@ extensions-warning-update-security-button = 사용
 extensions-warning-imported-addons2 =
     .message = { -brand-short-name }로 가져온 확장  기능의 설치를 완료하세요.
 extensions-warning-imported-addons-button = 확장 기능 설치
+extensions-warning-safe-mode3 =
+    .message = 모든 부가 기능이 문제해결 모드에 의해 비활성화되었습니다.
 
 ## Strings connected to add-on updates
 

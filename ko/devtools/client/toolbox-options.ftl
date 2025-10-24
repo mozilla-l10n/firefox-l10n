@@ -30,6 +30,10 @@ options-context-inspector = 검사기
 options-show-user-agent-styles-label = 브라우저 스타일 보기
 options-show-user-agent-styles-tooltip =
     .title = 이 옵션을 켜면 브라우저가 읽어들이는 기본 스타일을 보여줍니다.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Browser shadow DOM 보기
+options-show-user-agent-shadow-dom-tooltip =
+    .title = 이것을 켜면 브라우저에서 처리하는 shadow DOM 요소를 보여줍니다.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM 속성 줄이기
 options-collapse-attrs-tooltip =
@@ -145,3 +149,5 @@ options-source-maps-tooltip =
     .title = 이 옵션을 사용하면 소스가 도구에서 매핑됩니다.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * 현재 세션만 해당되며, 페이지를 새로 고침
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (페이지를 새로 고침)

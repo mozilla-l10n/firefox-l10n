@@ -145,6 +145,9 @@ extension-controlling-proxy-config =
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Pro povolení rozšíření otevřete <img data-l10n-name="addons-icon"/> Doplňky v nabídce <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = Rozšíření { $name } řídí některá nastavení vaší domovské stránky.
 
 ## Preferences UI Search Results
 
@@ -729,6 +732,7 @@ home-new-windows-tabs-description2 = Vyberte si domovskou stránku a stránku zo
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Na domovské stránce a v novém okně
+home-homepage-mode-label2 = Nová okna
 home-newtabs-mode-label = V novém panelu
 home-restore-defaults =
     .label = Obnovit výchozí
@@ -741,6 +745,9 @@ home-mode-choice-blank =
     .label = Prázdnou stránku
 home-homepage-custom-url =
     .placeholder = Zadejte URL adresu…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Nastavení tohoto rozšíření
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -755,6 +762,17 @@ use-current-pages =
 choose-bookmark =
     .label = Použít záložku…
     .accesskey = z
+home-homepage-header = Domovská stránka
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Vlastní domovskou stránku
+home-custom-homepage-address =
+    .placeholder = Zadejte webovou adresu
+home-custom-homepage-address-button =
+    .label = Přidat adresu
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Dosud nebyly přidány žádné stránky.
 
 ## Home Section - Firefox Home Content Customization
 
