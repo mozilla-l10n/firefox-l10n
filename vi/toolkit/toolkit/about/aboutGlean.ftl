@@ -153,6 +153,18 @@ about-glean-metrics-table-header-type = Kiểu
 about-glean-metrics-table-header-value = Giá trị
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Hành động
+about-glean-metrics-table-settings-button = Cài đặt
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Cài đặt bảng số liệu
+about-glean-metrics-table-settings-category-general = Tổng quát
+about-glean-metrics-table-settings-hide-empty-value-rows = Ẩn các hàng giá trị trống
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Ví dụ
+about-glean-metrics-table-settings-category-visualizations-histogram = Biểu đồ
+about-glean-metrics-table-settings-histograms-chart-max = Chiều rộng tối đa của biểu đồ
+about-glean-metrics-table-settings-category-visualizations-timeline = Dòng thời gian
+about-glean-metrics-table-settings-timelines-height = Chiều rộng
+about-glean-metrics-table-settings-timelines-width = Chiều dài
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Bộ lọc
 # This message sits alongside an input field, further describing its purpose.

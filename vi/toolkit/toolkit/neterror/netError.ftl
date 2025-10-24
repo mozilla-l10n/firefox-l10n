@@ -167,3 +167,13 @@ certerror-coep-learn-more = Tìm hiểu thêm về Cross Origin Embedder Policie
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Mã lỗi: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } không thể tạo kết nối an toàn tới máy chủ tại { $hostname }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Có vẻ như trang web này đang sử dụng phần mềm cũ có vấn đề bảo mật đã biết.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Hãy chắc chắn rằng bạn đang sử dụng phiên bản mới nhất của { -brand-short-name }. Đi đến Trợ giúp > Về { -brand-short-name } trong menu. Nếu bạn đang sử dụng phiên bản mới nhất của { -brand-short-name }, vấn đề có thể nằm ở chính trang web đó.
