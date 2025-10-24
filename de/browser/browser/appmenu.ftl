@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Übersicht über E-Mail-Masken öffnen
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Schützen Sie Ihre Online-Aktivitäten
 appmenu-services-header = Meine Dienste
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Probieren Sie andere Schutzwerkzeuge von Mozilla aus:
 appmenu-other-protection-header = Probieren Sie andere Schutzwerkzeuge von { -vendor-short-name } aus:
 
 ## Profiles panel

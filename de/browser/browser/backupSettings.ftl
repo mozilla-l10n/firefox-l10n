@@ -21,8 +21,12 @@ backup-folder-name = { -brand-product-name } wiederherstellen
 backup-file-name = { -brand-product-name }-Backup
 settings-data-backup-header = Datensicherung
 settings-data-backup-toggle = Datensicherung verwalten
+settings-data-backup-toggle-on = Datensicherung aktivieren
+settings-data-backup-toggle-off = Datensicherung deaktivieren
 settings-data-backup-trigger-button = Jetzt sichern
 settings-data-backup-in-progress-button = Datensicherung läuft…
+settings-data-backup-in-progress-message =
+    .message = Datensicherung läuft…
 settings-data-backup-scheduled-backups-on = Datensicherung: EIN
 settings-data-backup-scheduled-backups-off = Datensicherung: AUS
 settings-data-backup-scheduled-backups-description = Schützen Sie Ihre Lesezeichen, Chronik und andere Daten automatisch. <a data-l10n-name="support-link">Weitere Informationen</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } konnte nicht wiederhergestellt werden
     .message = Starten Sie { -brand-short-name } neu und versuchen Sie es erneut.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, beim Sichern ist ein Problem aufgetreten.
+    .message = Versuchen Sie es in ein paar Minuten erneut.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =

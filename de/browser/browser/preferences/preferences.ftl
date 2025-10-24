@@ -600,6 +600,7 @@ home-new-windows-tabs-description2 = Legen Sie fest, was als Startseite sowie in
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startseite und neue Fenster
+home-homepage-mode-label2 = Neue Fenster
 home-newtabs-mode-label = Neue Tabs
 home-restore-defaults =
     .label = Standard wiederherstellen
@@ -612,6 +613,9 @@ home-mode-choice-blank =
     .label = Leere Seite
 home-homepage-custom-url =
     .placeholder = Adresse einfügen…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Erweiterung verwalten
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,6 +630,26 @@ use-current-pages =
 choose-bookmark =
     .label = Lesezeichen verwenden…
     .accesskey = L
+
+## Custom Homepage subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Website-Adresse(n)
+home-custom-homepage-address =
+    .placeholder = Adresse eingeben
+home-custom-homepage-address-button =
+    .label = Adresse hinzufügen
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Noch keine Websites hinzugefügt.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Ersetzen durch
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Derzeit geöffnete Seiten
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Lesezeichen…
 
 ## Home Section - Firefox Home Content Customization
 
