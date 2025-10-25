@@ -29,13 +29,13 @@ settings-data-backup-in-progress-message =
     .message = Salveguarda in curso…
 settings-data-backup-scheduled-backups-on = Salveguarda: ACTIVE
 settings-data-backup-scheduled-backups-off = Salveguarda: DISACTIVATE
-settings-data-backup-scheduled-backups-description = Automaticamente protege tu marcapaginas, chronologia, e altere daos. <a data-l10n-name="support-link">Pro saper plus</a>
+settings-data-backup-scheduled-backups-description = Automaticamente protege tu marcapaginas, chronologia, e altere datos. <a data-l10n-name="support-link">Pro saper plus</a>
 settings-data-backup-last-backup-date = Ultime salveguarda: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Position
-settings-data-backup-last-backup-location-show-in-folder = Monstrar in plica
-settings-data-backup-last-backup-location-edit = Rediger…
-settings-data-create-backup-error = Il habeva un error creante tu salveguarda le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-last-backup-location-show-in-folder = Monstrar in dossier
+settings-data-backup-last-backup-location-edit = Modificar…
+settings-data-create-backup-error = Un error ha occurrite durante le creation de tu salveguarda le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nomine de file: { $fileName }
@@ -48,9 +48,9 @@ settings-data-backup-scheduled-backups-off-restore-choose = Eliger file de salve
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
-settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } ab le ultime vice que illos era salveguardate.
+settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } desde lor ultime salveguarda.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
-settings-data-toggle-encryption-label = Salveguarda tu datos sensibile
+settings-data-toggle-encryption-label = Salveguardar tu datos sensibile
 settings-data-toggle-encryption-description = Salveguarda tu contrasignos, methodos de pagamento, e cookies con cryptation.
 settings-data-toggle-encryption-support-link = Pro saper plus
 settings-data-change-password = Cambiar contrasigno…
@@ -59,7 +59,7 @@ settings-data-change-password = Cambiar contrasigno…
 
 turn-on-scheduled-backups-header = Activar le salveguarda
 turn-on-scheduled-backups-description = { -brand-short-name } creara un instantaneo de tu datos cata 24 horas. Tu pote restaurar lo si il ha un problema o si tu usa un nove apparato.
-turn-on-scheduled-backups-support-link = Que sera salveguardate?
+turn-on-scheduled-backups-support-link = Que essera salveguardate?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Position
 # Variables:
@@ -80,13 +80,13 @@ turn-on-scheduled-backups-cancel-button = Cancellar
 turn-on-scheduled-backups-confirm-button = Activar le salveguarda
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
-turn-on-scheduled-backups-error-file-system = Il habeva un problema con le plica de tu salveguarda seligite. Elige un plica differente e retenta.
-backup-error-file-system = Il habeva un problema con le plica de tu salveguarda seligite salveguardante { -brand-short-name }.
+turn-on-scheduled-backups-error-file-system = Un problema ha occurrite con tu dossier de salveguarda seligite. Elige un altere dossier e tenta lo de novo.
+backup-error-file-system = Un problema ha occurrite con tu dossier de salveguarda seligite durante le salveguarda de { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Disactivar le salveguarda?
-turn-off-scheduled-backups-description = Isto alsi dele tote tu datos de salveguarda. Il non pote esser disfacite.
+turn-off-scheduled-backups-description = Isto alsi dele tote tu datos de salveguarda. Iste action es irreversibile.
 turn-off-scheduled-backups-support-link = Pro saper plus
 turn-off-scheduled-backups-cancel-button = Cancellar
 turn-off-scheduled-backups-confirm-button = Disactivar e deler salveguarda
@@ -97,9 +97,9 @@ restore-from-backup-header = Restaurar tu datos
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
-    .message = Isto substituera tote tu actual datos de { -brand-short-name } con tu salveguarda a partir de { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+    .message = Isto substituera tote tu datos actual de { -brand-short-name } con tu salveguarda del { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
-    .message = Que sera restaurate?
+    .message = Que essera restaurate?
 restore-from-backup-no-backup-file-link = Ha tu problemas a trovar tu salveguarda?
 restore-from-backup-filepicker-label = File de salveguarda
 restore-from-backup-filepicker-title = Eliger file de salveguarda:
@@ -120,7 +120,7 @@ restore-from-backup-restoring-button = Restaurante…
 # User is not authorized to restore a particular backup file, usually because
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
-backup-service-error-incorrect-password = Contrasigno errate. <a data-l10n-name="incorrect-password-support-link">Ancora ha tu problemas?</a>
+backup-service-error-incorrect-password = Contrasigno incorrecte. <a data-l10n-name="incorrect-password-support-link">Ancora problemas?</a>
 # The backup file (or specific data files within the backup file) could not be
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself
@@ -153,7 +153,7 @@ backup-service-error-went-wrong2 =
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
-    .heading = Obtene tu insignia hodie
+    .heading = Un problema ha occurrite
     .message = Il habeva un problema con le processo de salveguarda pro { -brand-short-name }. Retenta o reinitialisa { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
