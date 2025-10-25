@@ -122,9 +122,9 @@ browser-main-private-window-title =
 browser-main-private-suffix-for-content = Ιδιωτική περιήγηση
 popups-infobar-dont-show-message2 =
     .label = Να μην εμφανίζεται αυτό το μήνυμα όταν αποκλείονται αναδυόμενα παράθυρα ή ανακατευθύνσεις τρίτων
-    .accesskey = D
+    .accesskey = φ
 edit-popup-settings2 =
-    .label = Διαχείριση αναδυόμενων παραθύρων και ρυθμίσεων ανακατεύθυνσης τρίτων…
+    .label = Διαχείριση ρυθμίσεων αναδυόμενων παραθύρων και ανακατευθύνσεων τρίτων…
     .accesskey = M
 
 ##
@@ -1180,7 +1180,7 @@ popups-infobar-block =
     .accesskey = δ
 popups-infobar-allow2 =
     .label = Αποδοχή αναδυόμενων παραθύρων και ανακατευθύνσεων τρίτων για το { $uriHost }
-    .accesskey = p
+    .accesskey = χ
 
 ##
 
