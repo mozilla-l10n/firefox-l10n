@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = E-mail-maszkok irányítópultjának el
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Védje meg az online tevékenységét
 appmenu-services-header = Saját szolgáltatások
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Próbálja ki a Mozilla más védelmi eszközeit:
 appmenu-other-protection-header = Próbálja ki a { -vendor-short-name } egyéb védelmi eszközeit:
 
 ## Profiles panel

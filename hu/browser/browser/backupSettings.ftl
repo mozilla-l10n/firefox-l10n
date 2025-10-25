@@ -21,8 +21,12 @@ backup-folder-name = { -brand-product-name } helyreállítása
 backup-file-name = { -brand-product-name } biztonsági mentés
 settings-data-backup-header = Biztonsági mentés
 settings-data-backup-toggle = Biztonsági mentés kezelése
+settings-data-backup-toggle-on = Biztonsági mentés bekapcsolása
+settings-data-backup-toggle-off = Biztonsági mentés kikapcsolása
 settings-data-backup-trigger-button = Biztonsági mentés most
 settings-data-backup-in-progress-button = Biztonsági mentés folyamatban…
+settings-data-backup-in-progress-message =
+    .message = Biztonsági mentés folyamatban…
 settings-data-backup-scheduled-backups-on = Biztonsági mentés: BE
 settings-data-backup-scheduled-backups-off = Biztonsági mentés: KI
 settings-data-backup-scheduled-backups-description = Automatikusan védje könyvjelzőit, előzményeit és egyéb adatait. <a data-l10n-name="support-link">További tudnivalók</a>
