@@ -60,7 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Selige un nomine como “Labor” o “Personal”
 new-profile-page-done-button =
     .label = Modification completate
-copied-profile-page-header-description = Nos copiava tu datos e parametros in un nove profilo.
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Tu copia de { $profilename } es preste a esser personalisate
+copied-profile-page-header-description = Nos ha copiate tu datos e parametros in un nove profilo. Ora da lo un nomine, elige un apparentia e personalisa lo secundo tu preferentias.
 profile-window-title-2 = { -brand-short-name } - Eliger un profilo
 profile-window-logo =
     .alt = Logo de { -brand-short-name }
@@ -266,7 +269,7 @@ custom-avatar-drag-handle =
     .aria-label = Redimensionar area de retalio
 profiles-appmenu-callout-tour-title = Tu nove profilo es preste
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
-profiles-appmenu-callout-tour-subtitle = In le menu ☰, tocca tu nomine de profilo pro accelerar al maxime velocitate de rotation un altere, redige isto, o passa inter tu vitas digital..
+profiles-appmenu-callout-tour-subtitle = In le menu ☰, tocca tu nomine de profilo pro crear un altere, modificar iste, o alternar inter tu vitas digital.
 profiles-appmenu-callout-tour-primary-button = Monstra me como
 barbell-avatar = Barra con pesos
 bike-avatar = Bicyclo
