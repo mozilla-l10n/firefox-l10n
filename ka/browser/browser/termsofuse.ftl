@@ -11,6 +11,8 @@ existing-user-tou-message = <strong>სიახლე</strong> შესწო�
 existing-user-tou-learn-more = ვრცლად
 # Text for primary button
 existing-user-tou-accept = მიღება
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = უკვე განვაახლეთ <a data-l10n-name="privacy-notice-link">პირადულობის განაცხადი</a> იმ შესაძლებლობების ასახვისთვის, უახლესი { -brand-short-name } რომ შეიცავს.
 
 ## Existing User Terms of Use Spotlight
 

@@ -1271,6 +1271,8 @@ addressbar-header = მისამართების ველი
 addressbar-suggest-1 = აირჩიეთ, რომელი შემოთავაზებები გამოჩნდეს თქვენი მისამართების ველში
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = მისამართების ველში შემოთავაზებების წყაროა { -brand-short-name } და ჩვენი მოკავშირეები.
 addressbar-suggest = შემოთავაზებები მისამართების ველით სარგებლობისას
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = მისამართების ველი — { -firefox-suggest-brand-name }
@@ -1298,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = რჩეული საიტები
     .accesskey = ჩ
+addressbar-locbar-engines-option-1 =
+    .label = გამოსაყენებელი საძიებოები
+    .accesskey = ო
 addressbar-locbar-engines-option =
     .label = საძიებო სისტემები
     .accesskey = ე
@@ -1318,6 +1323,14 @@ addressbar-locbar-suggest-nonsponsored-desc = შემოთავაზებ�
 addressbar-locbar-suggest-sponsored-option =
     .label = შემოთავაზებები დამკვეთებისგან
 addressbar-locbar-suggest-sponsored-desc = თანადგომისთვის იხილეთ შემოთავაზებები დამკვეთებისგან, { -brand-short-name } დროდადრო რომ მოგაწვდით
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = შემოთავაზებებს აკრეფისთანავე მოგაწვდით Mozilla
 addressbar-quickactions-learn-more = ვრცლად
 addressbar-dismissed-suggestions-label = შეთავაზებების აცილება
 addressbar-restore-dismissed-suggestions-description = აცილებული შემოთავაზებების დაბრუნება, რომელთაც გაწვდით დამკვეთები და { -brand-short-name }.

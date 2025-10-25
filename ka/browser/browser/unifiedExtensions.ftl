@@ -90,3 +90,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } extensions disabled
         }
     .message = { $extensionsCount } გაფართოება ამორთულია
+unified-extensions-notice-safe-mode =
+    .message = ყველა გაფართოება ამორთულია გაუმართაობის მოსაგვარებელი რეჟიმით.

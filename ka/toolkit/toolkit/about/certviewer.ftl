@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = რეგისტრ. ადგილი
 certificate-viewer-locality = ადგილსამყოფელი
 certificate-viewer-location = მდებარეობა
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = აღრიცხვის სახელი
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = აღრიცხვის ID
 certificate-viewer-method = მეთოდი
 certificate-viewer-modulus = მოდული

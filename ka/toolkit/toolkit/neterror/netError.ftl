@@ -167,3 +167,9 @@ certerror-coep-learn-more = იხილეთ ვრცლად განს�
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = შეცდომის კოდი: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } ვერ ამყარებს დაცულ კავშირს სერვერთან { $hostname }.

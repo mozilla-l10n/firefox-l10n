@@ -170,6 +170,8 @@ extensions-warning-update-security-button = ჩართვა
 extensions-warning-imported-addons2 =
     .message = გთხოვთ დაასრულოთ გადმოტანილი გაფართოების ჩადგმა – { -brand-short-name }.
 extensions-warning-imported-addons-button = გაფართოებების ჩაყენება
+extensions-warning-safe-mode3 =
+    .message = ყველა დამატება ამორთულია გაუმართაობის მოსაგვარებელი რეჟიმით.
 
 ## Strings connected to add-on updates
 

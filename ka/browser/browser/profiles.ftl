@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = აირჩიეთ სახელი, როგორიცაა „სამუშაო“ ან „პირადი“
 new-profile-page-done-button =
     .label = ჩასწორება დასრულებულია
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = თქვენი { $profilename } მზადაა მოსარგებად
+copied-profile-page-header-description = თქვენი მონაცემებისა და პარამეტრების ასლები გადმოტანილია ახალ პროფილში. დროა, დაარქვათ რამე, შეარჩიეთ იერსახე და გახადოთ მეტად თქვენებური.
 profile-window-title-2 = { -brand-short-name } – პროფილის არჩევა
 profile-window-logo =
     .alt = { -brand-short-name } – ლოგო
