@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = გაფართოების ჩასართავად, გადადით <img data-l10n-name="addons-icon"/> დამატებებზე <img data-l10n-name="menu-icon"/> მენიუდან.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } მართავს თქვენი საწყისი გვერდის ზოგიერთ პარამეტრს.
 
 ## Preferences UI Search Results
 
@@ -600,6 +603,7 @@ home-new-windows-tabs-description2 = მიუთითეთ, რისი ხ�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = საწყისი გვერდი და ახალი ფანჯრები
+home-homepage-mode-label2 = ახალი ფანჯრები
 home-newtabs-mode-label = ახალი ჩანართები
 home-restore-defaults =
     .label = ნაგულისხმევის აღდგენა
@@ -612,6 +616,11 @@ home-mode-choice-blank =
     .label = ცარიელი გვერდი
 home-homepage-custom-url =
     .placeholder = URL-მისამართის ჩასმა...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = გაფართოების მართვა
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = აირჩიეთ ცალკეული საიტი
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,13 +635,38 @@ use-current-pages =
 choose-bookmark =
     .label = სანიშნის გამოყენება…
     .accesskey = ს
+home-homepage-header = საწყისი გვერდი
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = მორგებული საწყისი გვერდი
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = საიტის მისამართ(ებ)ი
+home-custom-homepage-address =
+    .placeholder = შეიყვანეთ მისამართი
+home-custom-homepage-address-button =
+    .label = მისამართის დამატება
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = საიტები ჯერ არ დამატებულა.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = ჩაანაცვლებს
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = ახლად გახსნილი გვერდები
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = სანიშნები…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } – შიგთავსი
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = აირჩიეთ, რისი ხილვა გსურთ { -firefox-home-brand-name(case: "loc") }
 home-prefs-search-header =
     .label = საძიებო ველი
+home-prefs-search-header2 =
+    .label = ძიება
 home-prefs-shortcuts-header =
     .label = მალსახმობები
 home-prefs-shortcuts-description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
@@ -647,6 +681,9 @@ home-prefs-recommended-by-description-new = გამორჩეული მ�
 home-prefs-recommended-by-header-generic =
     .label = შემოთავაზებული ამბები
 home-prefs-recommended-by-description-generic = გამორჩეული მასალები, რომელთაც გთავაზობთ { -brand-product-name }-ოჯახი
+home-prefs-stories-header =
+    .label = ამბები
+home-prefs-stories-description = თქვენს საქმიანობაზე მორგებული ამბები
 
 ##
 
@@ -685,6 +722,8 @@ home-prefs-support-firefox-header =
     .label = თანადგომა – { -brand-product-name }
 home-prefs-mission-message = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად
 home-prefs-mission-message-learn-more-link = იხილეთ, როგორ
+home-prefs-manage-topics-link = თემების მართვა
+home-prefs-choose-wallpaper-link = ფონის არჩევა
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1229,6 +1268,9 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = მისამართების ველი
+addressbar-suggest-1 = აირჩიეთ, რომელი შემოთავაზებები გამოჩნდეს თქვენი მისამართების ველში
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = შემოთავაზებები მისამართების ველით სარგებლობისას
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = მისამართების ველი — { -firefox-suggest-brand-name }

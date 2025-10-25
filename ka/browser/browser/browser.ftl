@@ -1482,6 +1482,13 @@ trustpanel-blocker-see-all = ყველას ნახვა
 trustpanel-blocker-header =
     .title = თვალთვალისგან დაცვა საიტისთვის { $host }
 
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = დაუცველი
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 

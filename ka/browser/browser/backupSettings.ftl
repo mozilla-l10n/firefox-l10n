@@ -21,8 +21,12 @@ backup-folder-name = აღადგინეთ { -brand-product-name }
 backup-file-name = { -brand-product-name }-მარქაფი
 settings-data-backup-header = მარქაფი
 settings-data-backup-toggle = მარქაფის მართვა
+settings-data-backup-toggle-on = მარქაფის ჩართვა
+settings-data-backup-toggle-off = მარქაფის გამორთვა
 settings-data-backup-trigger-button = დამარქაფება ახლავე
 settings-data-backup-in-progress-button = დამარქაფების მიმდინარეობა…
+settings-data-backup-in-progress-message =
+    .message = დამარქაფება მიმდინარეობს…
 settings-data-backup-scheduled-backups-on = დამარქაფება: ᲩᲐᲠᲗ.
 settings-data-backup-scheduled-backups-off = დამარქაფება: ᲒᲐᲛᲝᲠᲗ.
 settings-data-backup-scheduled-backups-description = თავისთავად დაიცავით თქვენი სანიშნები, ისტორია და სხვა მონაცემები. <a data-l10n-name="support-link">ვრცლად</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } აღდგენას ვერ ახერხებს
     .message = ხელახლა გაუშვით { -brand-short-name } და კვლავ სცადეთ მარქაფიდან აღდგენა.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = ჰმ, ხარვეზი წარმოიშვა დამარქაფებისას.
+    .message = სცადეთ რამდენიმე წუთში.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
