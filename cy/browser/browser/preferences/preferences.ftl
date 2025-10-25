@@ -113,6 +113,9 @@ extension-controlling-proxy-config = Mae estyniad <img data-l10n-name="icon"/> <
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = I alluogi'r estyniad ewch i Ychwanegion <img data-l10n-name="addons-icon"/> yn y ddewislen <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = Mae { $name } yn rheoli rhai o osodiadau eich cartref.
 
 ## Preferences UI Search Results
 
@@ -612,6 +615,7 @@ home-new-windows-tabs-description2 = Dewiswch beth fyddwch yn ei weld wrth i chi
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Tudalen cartref a ffenestri newydd
+home-homepage-mode-label2 = Ffenestri newydd
 home-newtabs-mode-label = Tabiau newydd
 home-restore-defaults =
     .label = Adfer y Rhagosodiadau
@@ -624,6 +628,11 @@ home-mode-choice-blank =
     .label = Tudalen Wag
 home-homepage-custom-url =
     .placeholder = Gludo URL...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Rheoli estyniad
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Dewis safle penodol
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -638,13 +647,38 @@ use-current-pages =
 choose-bookmark =
     .label = Defnyddio Nod Tudalen…
     .accesskey = N
+home-homepage-header = Tudalen Cartref
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Tudalen Cartref Cyfaddas
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Cyfeiriad(au) gwefan
+home-custom-homepage-address =
+    .placeholder = Rhowch gyfeiriad
+home-custom-homepage-address-button =
+    .label = Ychwanegu cyfeiriad
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Dim gwefannau wedi'u hychwanegu eto.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Amnewid gyda
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Tudalennau ar agor nawr
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Nodau Tudalen…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cynnwys { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Dewiswch pa gynnwys rydych chi ei eisiau ar eich sgrin { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Chwilio'r We
+home-prefs-search-header2 =
+    .label = Chwilio
 home-prefs-shortcuts-header =
     .label = Llwybrau Byr
 home-prefs-shortcuts-description = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
@@ -659,6 +693,9 @@ home-prefs-recommended-by-description-new = Cynnwys eithriadol wedi'u curadu gan
 home-prefs-recommended-by-header-generic =
     .label = Straeon cymeradwy
 home-prefs-recommended-by-description-generic = Cynnwys eithriadol wedi'i gasglu gan deulu { -brand-product-name }
+home-prefs-stories-header =
+    .label = Straeon
+home-prefs-stories-description = Straeon personol ar sail eich gweithgaredd
 
 ##
 
@@ -697,6 +734,8 @@ home-prefs-support-firefox-header =
     .label = Cefnogwch { -brand-product-name }
 home-prefs-mission-message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-mission-message-learn-more-link = Dyma sut
+home-prefs-manage-topics-link = Rheoli pynciau
+home-prefs-choose-wallpaper-link = Dewis Papur Wal
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1245,6 +1284,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Bar Cyfeiriadau
+addressbar-suggest-1 = Dewiswch pa awgrymiadau sy'n cael eu dangos yn eich bar cyfeiriad
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Awgrymiadau gan { -brand-short-name } a'n partneriaid yn eich bar cyfeiriad.
 addressbar-suggest = Pan yn defnyddio'r bar cyfeiriad, cynnig
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Bar Cyfeiriad — { -firefox-suggest-brand-name }

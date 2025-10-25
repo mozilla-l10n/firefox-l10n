@@ -21,8 +21,12 @@ backup-folder-name = Adfer { -brand-product-name }
 backup-file-name = Copïo wrth Gefn { -brand-product-name }
 settings-data-backup-header = Copïo wrth Gefn
 settings-data-backup-toggle = Rheoli copïo wrth gefn
+settings-data-backup-toggle-on = Troi copïo wrth gefn ymlaen
+settings-data-backup-toggle-off = Diffodd copïo wrth gefn
 settings-data-backup-trigger-button = Gwneud copi wrth gefn nawr
 settings-data-backup-in-progress-button = Wrthi'n copïo wrth gefn…
+settings-data-backup-in-progress-message =
+    .message = Wrthi'n gwneud copi wrth gefn…
 settings-data-backup-scheduled-backups-on = Copïo wrth gefn: YMLAEN
 settings-data-backup-scheduled-backups-off = Copïo wrth gefn: I FFWRDD
 settings-data-backup-scheduled-backups-description = Diogelwch eich nodau tudalen, hanes, a data arall yn awtomatig. <a data-l10n-name="support-link">Dysgu rhagor</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = Doedd dim modd i { -brand-short-name } ei adfer
     .message = Ailgychwynnwch { -brand-short-name } a cheisio adfer eich copi wrth gefn eto.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, roedd problem wrth wneud copi gefn.
+    .message = Ceisiwch eto mewn ychydig funudau.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =

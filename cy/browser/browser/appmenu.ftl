@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Agor dangosfwrdd e-bost enwarall
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Diogelwch eich preifatrwydd ar-lein
 appmenu-services-header = Gwasanaethau
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Rhowch gynnig ar offer diogelu eraill gan Mozilla:
 appmenu-other-protection-header = Rhowch gynnig ar offer diogelu eraill gan { -vendor-short-name }:
 
 ## Profiles panel
