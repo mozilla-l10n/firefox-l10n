@@ -21,8 +21,12 @@ backup-folder-name = Rikthe { -brand-product-name }-in
 backup-file-name = Kopjeruajtje { -brand-product-name }
 settings-data-backup-header = Kopjeruajtje
 settings-data-backup-toggle = Administroni kopjeruajtje
+settings-data-backup-toggle-on = Aktivizoni kopjeruajtjet
+settings-data-backup-toggle-off = Çaktivizoni kopjeruajtjet
 settings-data-backup-trigger-button = Kopjeruaje tani
 settings-data-backup-in-progress-button = Kopjeruajtje në ecuri e sipër…
+settings-data-backup-in-progress-message =
+    .message = Kopjeruajtje në ecuri e sipër…
 settings-data-backup-scheduled-backups-on = Kopjeruajtje: ON
 settings-data-backup-scheduled-backups-off = Kopjeruajtje: OFF
 settings-data-backup-scheduled-backups-description = Mbroni automatikisht faqerojtësit, historikun dhe të tjera të dhëna tuajat. <a data-l10n-name="support-link">Mësoni më tepër</a>
@@ -44,6 +48,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Zgjidhni kartelë ko
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Rimerrni të dhëna { -brand-product-name } tuajat nga hera e fundit që qenë kopjeruajtur.
 settings-data-backup-scheduled-backups-on-restore-choose = Riktheni…
 settings-data-toggle-encryption-label = Kopjeruani të dhënat tuaja rezervat
 settings-data-toggle-encryption-description = Kopjeruani me fshehtëzim fjalëkalimet tuaj, metoda pagesash dhe “cookies”.
@@ -53,6 +58,7 @@ settings-data-change-password = Ndryshoni fjalëkalimin…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Aktivizoni kopjeruajtjet
+turn-on-scheduled-backups-description = { -brand-short-name } do të krijojë një fotografim të të dhënave tuaja çdo 24 orë. Mund t’i riktheni, nëse ka një problem, ose merrni një pajisje të re.
 turn-on-scheduled-backups-support-link = Ç’do të kopjeruhet?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Vendndodhje
@@ -88,6 +94,10 @@ turn-off-scheduled-backups-confirm-button = Çaktivizoje dhe fshije kopjeruajtje
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Riktheni të dhënat tuaja
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Kjo do të zëvendësojë krejt të dhënat tuaja të tanishme { -brand-short-name } me kopjeruajtjen tuaj nga { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = Ç’do të rikthehet?
 restore-from-backup-no-backup-file-link = Po keni probleme me gjetjen e kopjeruajtjes tuaj?
@@ -137,6 +147,11 @@ backup-service-error-recovery-failed =
     .message = Riniseni { -brand-short-name }-in dhe riprovoni të riktheni kopjeruajtjen tuaj.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hëm, pati një problem me kopjeruajtjen.
+    .message = Riprovoni pas pak minutash.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
 backup-service-error-went-wrong =
     .heading = Diç shkoi ters
     .message = Pati një problem me procesin e kopjeruajtjes për { -brand-short-name }-in. Ju lutemi, riprovoni, ose rinisni { -brand-short-name }-in.
@@ -144,6 +159,7 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Kopjeruani të dhënat tuaja rezervat
+enable-backup-encryption-description = Kopjeruani fjalëkalimet tuaja, metoda pagesash dhe “cookies”, plus mbaji të parrezik krejt të dhënat tuaja, përmes fshehtëzimi.
 enable-backup-encryption-support-link = Mësoni më tepër
 enable-backup-encryption-create-password-label = Fjalëkalimi
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -189,6 +205,8 @@ backup-error-retry = Diç shkoi ters. Ju lutemi, riprovoni.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } është gati për rikthim
+backup-file-title = Riktheni { -brand-short-name }-in
 backup-file-path-label = Kartelë kopjeruajtjeje:
 backup-file-encryption-state-label = Fshehtëzuar:
 backup-file-encryption-state-value-encrypted = Po
