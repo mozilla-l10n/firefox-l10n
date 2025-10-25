@@ -433,7 +433,7 @@ create-backup-screen-2-easy-label = Konfigurazio erraza
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
 create-backup-screen-2-easy-list-1 = Laster-markak, historia, ezarpenak eta gehiago
 # Preceded by a red X indicating that these are not included in the "Easy setup" backup
-create-backup-screen-2-easy-list-2 = Ez du pasahitzik edo ordainketa-metodorik barne hartzen
+create-backup-screen-2-easy-list-2 = Pasahitzak eta ordainketa-metodoak ez daude barne
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Zifratu gabea
 # Label for the "All data" backup option
@@ -457,6 +457,16 @@ fx-backup-opt-in-cancel-btn-label = Atzera
 
 fx-backup-confirmation-screen-title = Zure babeskopia programatuta dago
 fx-backup-confirmation-screen-close-button = Itxi
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Nabigatze-datu guztiak barne
+fx-backup-confirmation-screen-all-data-item-text-2 = Zure gailuan gordeta
+fx-backup-confirmation-screen-all-data-item-text-3 = Zifratuta eta pasahitz bidez babestuta
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Laster-markak, historia, ezarpenak eta bestelako datuak barne
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Zure gailuan gordeta
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Pasahitzak eta ordainketa-metodoak ez daude barne
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Joan <a data-l10n-name="settings">ezarpenetara</a> kontuzko datuak ere barne hartzeko.
 
 ## Restore from Backup Flow about:welcome screens
 

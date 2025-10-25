@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Esan webguneei nire datuak ez saltzeko edo partekatzeko
     .accesskey = s
 non-technical-privacy-header = Webgunearen pribatutasun-hobespenak
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -588,6 +590,7 @@ home-new-windows-tabs-description2 = Aukeratu zer ikusi nahi duzun zure hasiera-
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Hasiera-orria eta leiho berriak
+home-homepage-mode-label2 = Leiho berriak
 home-newtabs-mode-label = Fitxa berriak
 home-restore-defaults =
     .label = Berrezarri lehenetsiak
@@ -600,6 +603,11 @@ home-mode-choice-blank =
     .label = Orri zuria
 home-homepage-custom-url =
     .placeholder = Itsatsi URLa…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Kudeatu hedapena
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Aukeratu gune zehatza
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -614,13 +622,38 @@ use-current-pages =
 choose-bookmark =
     .label = Erabili laster-marka…
     .accesskey = b
+home-homepage-header = Hasiera-orria
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Hasiera-orri pertsonalizatua
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Webgunearen helbidea
+home-custom-homepage-address =
+    .placeholder = Idatzi helbidea
+home-custom-homepage-address-button =
+    .label = Gehitu helbidea
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Ez da webgunerik gehitu oraindik.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Ordeztu honekin
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Unean irekitako orriak
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Laster-markak…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } edukia
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Aukeratu zer eduki ikusi nahi duzun zure { -firefox-home-brand-name } pantailan.
 home-prefs-search-header =
     .label = Web bilaketa
+home-prefs-search-header2 =
+    .label = Bilatu
 home-prefs-shortcuts-header =
     .label = Lasterbideak
 home-prefs-shortcuts-description = Gordetzen edo bisitatzen dituzun guneak
@@ -634,6 +667,9 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = { -brand-product-name } familiakide den { $provider }-eko taldeak hautatutako aparteko edukia.
 home-prefs-recommended-by-header-generic =
     .label = Gomendatutako istorioak
+home-prefs-stories-header =
+    .label = Istorioak
+home-prefs-stories-description = Zure jardueran oinarritutako istorio pertsonalizatuak
 
 ##
 
@@ -663,6 +699,16 @@ home-prefs-snippets-description-new = { -vendor-short-name } eta { -brand-produc
 home-prefs-weather-header =
     .label = Eguraldia
 home-prefs-weather-learn-more-link = Argibide gehiago
+home-prefs-trending-search-header =
+    .label = Bilaketa-joerak
+home-prefs-trending-search-description = Gai ezagunak eta askotan bilatutakoak
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Lagundu { -brand-product-name }
+home-prefs-mission-message = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte
+home-prefs-mission-message-learn-more-link = Ezagutu nola
+home-prefs-manage-topics-link = Kudeatu gaiak
+home-prefs-choose-wallpaper-link = Aukeratu horma-papera
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -696,6 +742,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Erakutsi bilaketa-iradokizunak helbide-barrako emaitzetan
     .accesskey = h
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Erakutsi emaitzen orrietan bilaketa-terminoak helbide-barran
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -738,7 +788,9 @@ search-keyword-warning-title = Bikoiztutako gako-hitza
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Aukeratu duzun gako-hitza dagoeneko "{ $name }"(e)k erabiltzen du. Aukeratu beste bat.
 search-keyword-warning-bookmark = Aukeratu duzun gako-hitza dagoeneko laster-marka batek erabiltzen du. Aukeratu beste bat.
+remove-engine-confirmation = Ziur zaude bilaketa-motor hau kendu nahi duzula?
 remove-engine-remove = Kendu
+remove-addon-engine-alert = Bilaketa-motor hau kentzeko, kendu erlazionatutako gehigarria.
 
 ## Containers Section
 
@@ -1275,6 +1327,13 @@ permissions-location = Kokapena
 permissions-location-settings =
     .label = Ezarpenak…
     .accesskey = n
+permissions-localhost-settings =
+    .label = Ezarpenak…
+    .accesskey = z
+permissions-local-network = Sare lokaleko gailuak
+permissions-local-network-settings =
+    .label = Ezarpenak…
+    .accesskey = z
 permissions-xr = Errealitate birtuala
 permissions-xr-settings =
     .label = Ezarpenak…
@@ -1392,16 +1451,23 @@ space-alert-over-5gb-settings-button =
     .accesskey = k
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } leku erabilgarririk gabe gelditzen ari da diskoan.</strong> Webgunearen edukiak agian ez dira ondo bistaratuko. Biltegiratutako datuak Ezarpenak > Pribatutasuna eta segurtasuna > Cookieak eta guneetako datuak atalean garbi ditzakezu.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } leku erabilgarririk gabe gelditzen ari da diskoan.</strong> Webgunearen edukiak agian ez dira ondo bistaratuko. Bisitatu "Argibide gehiago" diskoaren erabilpena optimizatu eta nabigatze-esperientzia hobetzeko.
+certs-description2 =
+    .label = Ziurtagiriak
+    .description = Konfiguratu { -brand-short-name }(e)k autentifikaziorako erabiltzen dituen ziurtagiriak.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only modua
+httpsonly-learn-more2 = Nola dabilen HTTPS-Only modua
 httpsonly-description = HTTPSk konexio seguru eta zifratua eskaintzen du { -brand-short-name } eta bisitatzen dituzun webguneen artean. Webgune gehienek HTTPS onartzen dute eta HTTPS-Only modua gaituta badago, orduan { -brand-short-name }(e)k konexio guztiak HTTPSra bihurtuko ditu.
 httpsonly-learn-more = Argibide gehiago
 httpsonly-radio-enabled =
     .label = Gaitu HTTPS-Only modua leiho guztietan
 httpsonly-radio-enabled-pbm =
     .label = Gaitu HTTPS-Only modua leiho pribatuetan soilik
+httpsonly-radio-disabled3 =
+    .label = Ez gaitu HTTPS-Only modua
+    .description = { -brand-short-name }(e)k zenbait konexio HTTPSra bihur litzake halere
 httpsonly-radio-disabled =
     .label = Ez gaitu HTTPS-Only modua
 
