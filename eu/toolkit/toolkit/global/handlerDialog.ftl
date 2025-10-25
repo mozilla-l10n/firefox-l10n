@@ -27,6 +27,10 @@ wallet-custom-scheme-warning-heading =
 wallet-custom-scheme-warning-host-app = <strong>{ $scheme }</strong> lotura bat irekitzearekin bat <strong>{ $host }</strong> ostalariari baimentzen zaio <strong>{ $appName }</strong>(e)kin duzun zure benetako identitatea eskatzea. Jarraitu gunea fidatzekoa bada soilik.
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-app = <strong>{ $scheme }</strong> lotura bat irekitzearekin bat gune honi baimentzen zaio <strong>{ $appName }</strong>(e)kin duzun zure benetako identitatea eskatzea. Jarraitu gunea fidatzekoa bada soilik.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = <strong>{ $scheme }</strong> lotura bat irekitzearekin bat <strong>{ $host }</strong> ostalariari baimentzen zaio diru-zorro digitalean duzun zure benetako identitatea eskatzea. Jarraitu gunea fidatzekoa bada soilik.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = <strong>{ $scheme }</strong> lotura bat irekitzearekin bat gune honi baimentzen zaio diru-zorro digitalean duzun zure benetako identitatea eskatzea. Jarraitu gunea fidatzekoa bada soilik.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
