@@ -174,6 +174,6 @@ neterror-response-status-code = Codice de error: { $responsestatus } { $response
 
 fp-neterror-connection-intro = { -brand-short-name } non pote crear un connexion secur al servitor al adresse { $hostname }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
-fp-neterror-cypher-overlap-why-dangerous-body = Il pare que iste sito usa vetere software con note problemas de securitate.
+fp-neterror-cypher-overlap-why-dangerous-body = Il pare que iste sito usa vetere software con problemas de securitate cognoscite.
 # This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
-fp-neterror-cypher-overlap-what-can-you-do-body = Verifica que tu usa le ultime version de { -brand-short-name }. Ir a Adjutar > A proposito de { -brand-short-name } in le menu. Si tu usa le ultime { -brand-short-name }, le problema es super toto probabile con le sito mesme.
+fp-neterror-cypher-overlap-what-can-you-do-body = Assecura te de usar le ultime version de { -brand-short-name }. Ir a Adjuta > A proposito de { -brand-short-name } in le menu. Si tu usa le ultime { -brand-short-name }, le problema es probabilemente con le sito mesme.

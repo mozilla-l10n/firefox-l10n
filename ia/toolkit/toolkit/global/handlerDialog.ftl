@@ -24,13 +24,13 @@ permission-dialog-description-system-noapp = Aperir le ligamine { $scheme }?
 wallet-custom-scheme-warning-heading =
     .heading = Permitter a iste sito de aperir tu portafolio digital?
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-host-app = Aperir un ligamine <strong>{ $scheme }</strong> permitte <strong>{ $host }</strong> de peter tu real identitate con <strong>{ $appName }</strong>. Solo continua si tu te fide de iste sito.
+wallet-custom-scheme-warning-host-app = Aperir un ligamine <strong>{ $scheme }</strong> permitte <strong>{ $host }</strong> de requestar tu identitate real con <strong>{ $appName }</strong>. Continua solo si tu te fide a iste sito.
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-app = Aperir un ligamine <strong>{ $scheme }</strong> permitte a iste sito de peter tu real identitate con <strong>{ $appName }</strong>. Solo continua si tu te fide de iste sito.
+wallet-custom-scheme-warning-app = Aperir un ligamine <strong>{ $scheme }</strong> permitte a iste sito de requestar tu identitate real con <strong>{ $appName }</strong>. Continua solo si tu te fide a iste sito.
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-host = Aperir un ligamine <strong>{ $scheme }</strong> permitte <strong>{ $host }</strong> de peter tu real identitate ab tu portafolio digital. Solo continua si tu te fide de iste sito.
+wallet-custom-scheme-warning-host = Aperir un ligamine <strong>{ $scheme }</strong> permitte a <strong>{ $host }</strong> de requestar tu identitate real in tu portafolio digital. Continua solo si tu te fide a iste sito.
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning = Aperir un ligamine <strong>{ $scheme }</strong> permitte a iste sito de peter tu real identitate ab tu portafolio digital. Solo continua si tu te fide de iste sito.
+wallet-custom-scheme-warning = Aperir un ligamine <strong>{ $scheme }</strong> permitte a iste sito de requestar tu identitate real in tu portafolio digital. Continua solo si tu te fide a iste sito.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
