@@ -673,7 +673,7 @@ newtab-widget-lists-name-placeholder-new =
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Αντίστροφη μέτρηση
-newtab-widget-timer-notification-focus = Ο χρόνος συγκέντρωσης τελείωσε. Καλή δουλειά. Χρειάζεστε διάλειμμα;
+newtab-widget-timer-notification-focus = Ο χρόνος συγκέντρωσης τελείωσε. Πολύ καλή δουλειά! Χρειάζεστε ένα διάλειμμα;
 newtab-widget-timer-notification-break = Το διάλειμμά σας τελείωσε. Έτοιμοι για συγκέντρωση;
 newtab-widget-timer-notification-warning = Οι ειδοποιήσεις είναι ανενεργές
 newtab-widget-timer-mode-focus =
@@ -681,7 +681,7 @@ newtab-widget-timer-mode-focus =
 newtab-widget-timer-mode-break =
     .label = Διάλειμμα
 newtab-widget-timer-label-play =
-    .label = Αναπαραγωγή
+    .label = Έναρξη
 newtab-widget-timer-label-pause =
     .label = Παύση
 newtab-widget-timer-reset =

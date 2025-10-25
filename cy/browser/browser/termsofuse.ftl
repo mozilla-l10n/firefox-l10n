@@ -11,6 +11,8 @@ existing-user-tou-message = <strong>Diweddariad</strong> Rydym wedi cyflwyno { -
 existing-user-tou-learn-more = Dysgu rhagor
 # Text for primary button
 existing-user-tou-accept = Derbyn
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Rydym wedi diweddaru ein <a data-l10n-name="privacy-notice-link">Hysbysiad Preifatrwydd</a> i adlewyrchu'r nodweddion diweddaraf yn { -brand-short-name }.
 
 ## Existing User Terms of Use Spotlight
 
