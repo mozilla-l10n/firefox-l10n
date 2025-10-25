@@ -145,3 +145,5 @@ options-source-maps-tooltip =
     .title = Si habilita esta opción, las fuentes serán mapeadas en las herramientas.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Solo sesión actual, recarga la página
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (recarga la página)
