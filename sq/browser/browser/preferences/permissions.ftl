@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Mënyrën Vetëm-HTTPS mund ta çaktivizoni për sajte specifike. Për këto sajte, { -brand-short-name }-i s’do të provojë të përmirësojë lidhjen me HTTPS të siguruar. Përjashtimet nuk vlejnë për dritare private.
 permissions-exceptions-https-only-desc2 = Mënyrën Vetëm-HTTPS mund ta çaktivizoni për sajte specifike. Për këto sajte, { -brand-short-name }-i s’do të provojë të përmirësojë lidhjen me HTTPS të siguruar.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Sajte të Lejuar - Ridrejtime nga Dritare Flluska dhe Palë të Treta
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Mund të përcaktoni cilët sajte lejohen të hapin dritare flluska dhe të ridrejtohen nga kuadro palësh të treta.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
@@ -167,6 +174,25 @@ permissions-site-camera-desc = Sajtet vijues kanë kërkuar të përdorin kamer�
 permissions-site-camera-disable-label =
     .label = Bllokoni kërkesa të reja për përdorim kamere
 permissions-site-camera-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje për të përdorur kamerën tuaj. Bllokimi i përdorimit të kamerës tuaj mund të prishë punimin e ndonjë veçorie të sajtit.
+
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Rregullime - Aplikacione dhe shërbime pajisjeje
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Këto sajte kanë kërkuar të përdorin aplikacione dhe shërbime në këtë pajisje. Mund të zgjidhni të lejohen apo t’u bllokohet sajteve të bëjnë kështu.
+permissions-site-localhost-disable-label =
+    .label = Blloko kërkesa të reja për përdorim aplikacionesh dhe shërbimesh në këtë pajisje
+permissions-site-localhost-disable-desc = Kjo do të ndalë çfarëdo sajti jo të dhënë më sipër të kërkojë të përdorë aplikacione dhe shërbime në këtë pajisje. Duke bërë kështu mund të dëmtohen disa veçori sajtesh.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Rregullime - Pajisje Rrjeti Vendor
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Këto sajte kanë kërkuar të përdorin aplikacione dhe shërbime në pajisje të lidhura te rrjeti juaj vendor apo ai Wi-Fi. Mund të zgjidhni të lejohen apo t’u bllokohet sajteve të bëjnë kështu.
+permissions-site-local-network-disable-label =
+    .label = Blloko kërkesa të reja për përdorim aplikacionesh dhe shërbimesh në pajisje të lidhura te Wi-Fi apo rrjeti vendor i juaji.
 
 ## Site Permissions - Microphone
 
