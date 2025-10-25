@@ -535,6 +535,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-2 = Salvate a tu apparato
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Contrasignos e pagamentos non includite
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Va a <a data-l10n-name="settings">Parametros</a> pro includer datos sensibile.
 fx-backup-confirmation-screen-item-subtext-1 = Tu salveguarda comenciara in alcun minutas e essera exequite un vice per die. Tu pote verificar le progresso in <a data-l10n-name="settings">Parametros</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } cercara tu salveguarda si tu debe reinstallar.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -564,7 +565,7 @@ onboarding-personalization-use-case-title = Proque usara tu { -brand-short-name 
 onboarding-personalization-use-case-personal-option = Personal
 onboarding-personalization-use-case-school-option = Schola
 onboarding-personalization-use-case-work-option = Labor
-onboarding-personalization-motivation-title = Que functiones de { -brand-short-name } es le plus importante pro te?
+onboarding-personalization-motivation-title = Qual functiones de { -brand-short-name } es le plus importante pro te?
 onboarding-personalization-motivation-privacy-option = Confidentialitate e securitate
 onboarding-personalization-motivation-productivity-option = Productivitate
 onboarding-personalization-motivation-other-option = Altere

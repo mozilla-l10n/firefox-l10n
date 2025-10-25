@@ -1131,13 +1131,13 @@ autofill-payment-methods-manage-payments-button =
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
-    .label = Requirer apertura de session sur le apparato pro compilar automaticamente e gerer methodos de pagamentos
+    .label = Requirer apertura de session sur le apparato pro completar automaticamente e gerer methodos de pagamento
     .accesskey = o
 autofill-addresses-title = Adresses e plus
 autofill-addresses-header =
     .aria-label = Adresses e plus
 autofill-addresses-checkbox-message =
-    .label = Salvar e compilar automaticamente adresses
+    .label = Salvar e completar automaticamente le adresses
     .accesskey = S
 autofill-addresses-manage-addresses-button =
     .label = Gerer adresses e plus
@@ -1203,7 +1203,7 @@ sitedata-delete-on-close =
     .label = Deler datos de cookies e sitos quando { -brand-short-name } es claudite
     .accesskey = D
 sitedata-delete-on-close-private-browsing3 =
-    .message = In base al parametros del chronologia, le cookies e le datos del sitos web sera eliminate quando tu claudera { -brand-short-name }.
+    .message = Secundo tu parametros de chronologia, { -brand-short-name } elimina le cookies e le datos de sito de tu session quando tu claude le navigator.
 sitedata-delete-on-close-private-browsing = Durante le modo de navigation private permanente, le cookies e le datos del sito sera sempre cancellate al clausura de { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = In base al parametros del chronologia, le cookies e le datos del sitos web sera eliminate quando tu claudera { -brand-short-name }.
 sitedata-allow-cookies-option =
@@ -1234,7 +1234,7 @@ sitedata-clear2 =
     .label = Vacuar datos de navigation
     .accesskey = i
 sitedata-settings2 =
-    .label = Geler datos de navigation
+    .label = Gerer datos de navigation
     .accesskey = G
 sitedata-clear =
     .label = Eliminar datos...
@@ -1268,11 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de adresse
-addressbar-suggest-1 = Elige que suggestiones monstrar in tu barra de adresse
+addressbar-suggest-1 = Elige qual suggestiones monstrar in tu barra de adresse
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Suggestiones ab { -brand-short-name } e nostre socios in tu barra de adresse.
+addressbar-suggest-firefox-suggest-1 = Suggestiones de { -brand-short-name } e nostre socios in tu barra de adresse.
 addressbar-suggest = Durante que tu usa le barra de adresse, suggerer
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Barra de adresse — { -firefox-suggest-brand-name }
@@ -1330,7 +1330,7 @@ addressbar-locbar-suggest-sponsored-desc = Supporta { -brand-short-name } con su
 # with their own vendor name, since the online suggest is created and maintained
 # by Mozilla.
 addressbar-firefox-suggest-online =
-    .label = Obtener suggestiones de Mozilla dum tu scribe
+    .label = Obtener suggestiones de Mozilla durante que tu digita
 addressbar-quickactions-learn-more = Pro saper plus
 addressbar-dismissed-suggestions-label = Suggestiones rejectate
 addressbar-restore-dismissed-suggestions-description = Restaurar suggestiones rejectate de sponsores e { -brand-short-name }.

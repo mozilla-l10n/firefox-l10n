@@ -33,7 +33,7 @@ edit-profile-page-profile-name-label = Nomine del profilo
 edit-profile-page-theme-header-2 =
     .label = Thema
 edit-profile-page-explore-themes = Explorar altere themas
-edit-profile-page-desktop-shortcut-header = Crear vias breve de scriptorio
+edit-profile-page-desktop-shortcut-header = Crear accesso directe sur le scriptorio
 edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
@@ -60,9 +60,6 @@ new-profile-page-input-placeholder =
     .placeholder = Selige un nomine como “Labor” o “Personal”
 new-profile-page-done-button =
     .label = Modification completate
-# Variables
-#   $profilename (String) - The name of the copied profile.
-copied-profile-page-header = Tu copia de { $profilename } es preste a personalisar
 copied-profile-page-header-description = Nos copiava tu datos e parametros in un nove profilo.
 profile-window-title-2 = { -brand-short-name } - Eliger un profilo
 profile-window-logo =
