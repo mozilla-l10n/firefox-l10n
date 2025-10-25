@@ -61,6 +61,9 @@ add-engine-button = Shtoni Motor Vetjak
 add-engine-name = Emër motori kërkimesh
 add-engine-url2 = URL me %s, në vend se term kërkimi
 add-engine-keyword2 = Fjalëkyçe (opsionale)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Të dhëna POST me %s në vend të termit të kërkimit (lëreni të zbrazët për)
+add-engine-suggest-url = URL sugjerimesh me %s në vend të termit të kërkimit (opsionale)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
