@@ -147,6 +147,11 @@ backup-service-error-recovery-failed =
     .message = Reinicie { -brand-short-name } y trate de restaurar desde la copia de seguridad nuevamente.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, hubo un problema al realizar la copia de seguridad.
+    .message = Pruebe de nuevo en unos minutos.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
 backup-service-error-went-wrong =
     .heading = Algo salió mal
     .message = Hubo un problema con el proceso de copia de seguridad para { -brand-short-name }. Intente nuevamente o reinicie { -brand-short-name }.
