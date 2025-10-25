@@ -132,6 +132,12 @@ newtab-menu-section-block = Blokeatu
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Ez jarraitu gaia
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+newtab-menu-manage-sponsored-content = Kudeatu babesleen edukia
+newtab-menu-our-sponsors-and-your-privacy = Gure babesleak eta zure pribatutasuna
+newtab-menu-report-this-ad = Eman iragarki honen berri
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Eginda
@@ -223,6 +229,8 @@ newtab-section-header-recent-activity = Azken jarduera
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } hornitzaileak gomendatuta
 newtab-section-header-stories = Hausnartzeko moduko istorioak
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Gaurko hautua zuretzat
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 

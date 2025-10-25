@@ -87,6 +87,11 @@ perplexity-callout-secondary-label-2 = Ulertuta
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Eman izena
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-dismiss-button-label = Baztertu
+windows-10-eos-sync-callout-primary-advance-button-label = Hurrengoa
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Erakutsi fitxen izenburuak alboko barran

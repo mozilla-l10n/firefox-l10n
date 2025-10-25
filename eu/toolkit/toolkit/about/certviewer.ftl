@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Sorlekua
 certificate-viewer-locality = Herria
 certificate-viewer-location = Kokalekua
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Erregistroaren izena
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Log IDa
 certificate-viewer-method = Metodoa
 certificate-viewer-modulus = Modulua

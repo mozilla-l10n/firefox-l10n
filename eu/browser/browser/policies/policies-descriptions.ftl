@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Gaitu helbideen osatze automatikoa
 policy-AutofillCreditCardEnabled = Gaitu ordainketa metodoen osatze automatikoa
 policy-AutoLaunchProtocolsFromOrigins = Definitu erabiltzaileari galdetu gabe jatorri zehatzetatik erabil daitezkeen kanpoko protokoloen zerrenda.
 policy-BackgroundAppUpdate2 = Gaitu edo desgaitu atzeko planoko eguneraketak.
+policy-Backup = Desgaitu profileko datuen babeskopia edo berrezartzea.
 policy-BlockAboutAddons = Blokeatu gehigarrien kudeatzailerako sarbidea (about:addons).
 policy-BlockAboutConfig = Blokeatu about:config orrirako sarbidea.
 policy-BlockAboutProfiles = Blokeatu about:profiles orrirako sarbidea.
