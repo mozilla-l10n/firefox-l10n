@@ -187,6 +187,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Hiq mbrojtje me fjalëkalim
+disable-backup-encryption-description = Fjalëkalimet tuaj të ruajtur, metoda pagesash dhe “cookies” s’do të kopjeruhen më.
 disable-backup-encryption-support-link = Ç’do të kopjeruhet?
 disable-backup-encryption-cancel-button = Anuloje
 disable-backup-encryption-confirm-button = Hiqe fjalëkalimin
@@ -194,6 +195,7 @@ disable-backup-encryption-confirm-button = Hiqe fjalëkalimin
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = Fjalëkalimi juaj s’plotëson domosdoshmëritë. Ju lutemi, provoni një fjalëkalim tjetër.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
@@ -207,6 +209,7 @@ backup-error-retry = Diç shkoi ters. Ju lutemi, riprovoni.
 
 backup-file-header = { -brand-short-name } është gati për rikthim
 backup-file-title = Riktheni { -brand-short-name }-in
+backup-file-intro = Rikthejuni shfletimit dhe rimerrni krejt faqerojtësit tuaj, historikun dhe të dhëna të tjera. <a data-l10n-name="backup-file-support-link">Mësoni më tepër</a>
 backup-file-path-label = Kartelë kopjeruajtjeje:
 backup-file-encryption-state-label = Fshehtëzuar:
 backup-file-encryption-state-value-encrypted = Po
@@ -216,5 +219,32 @@ backup-file-creation-date-label = Krijuar më:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Si të rikthehet:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Hapni menunë ☰ të aplikacionit dhe kaloni te Rregullime > Njëkohësim
+backup-file-moz-browser-restore-step-2 = Klikoni “Zgjidhni kartelë kopjeruajtjeje” dhe përzgjidhni këtë kartelë
+backup-file-moz-browser-restore-step-3 = Rinisni { -brand-short-name }-in kur t’ju kërkohet
 backup-file-other-browser-restore-step-1 = Shkarkoni dhe instaloni { -brand-short-name }-in
 backup-file-download-moz-browser-button = Shkarkoje
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Nisni { -brand-short-name }-in, hapni menunë ☰ e aplikacionit dhe kaloni te Rregullime > Njëkohësim
+backup-file-other-browser-restore-step-3 = Klikoni “Zgjidhni kartelë kopjeruajtjeje” dhe përzgjidhni këtë kartelë
+backup-file-other-browser-restore-step-4 = Rinisni { -brand-short-name }-in kur t’ju kërkohet
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Shënim:</b> U gjet { $numberOfOtherBackupsFound } kartelë tjetër kopjeruajtjeje
+       *[other] <b>Shënim:</b> U gjetën { $numberOfOtherBackupsFound } kartela të tjera kopjeruajtjeje
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Krijuar më { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } në { $machineName }
