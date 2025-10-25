@@ -1316,6 +1316,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Hoff wefannau
     .accesskey = H
+addressbar-locbar-engines-option-1 =
+    .label = Awgrymu peiriannau chwilio i'w defnyddio
+    .accesskey = p
 addressbar-locbar-engines-option =
     .label = Peiriannau chwilio
     .accesskey = P
@@ -1336,6 +1339,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Derbyn awgrymiadau o'r we am eich 
 addressbar-locbar-suggest-sponsored-option =
     .label = Awgrymiadau gan ein noddwyr
 addressbar-locbar-suggest-sponsored-desc = Cefnogwch { -brand-short-name } drwy'r awgrymiadau noddedig achlysurol.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Cael awgrymiadau gan Mozilla wrth i chi deipio
 addressbar-quickactions-learn-more = Darllen rhagor
 addressbar-dismissed-suggestions-label = Awgrymiadau wedi'u cau
 addressbar-restore-dismissed-suggestions-description = Adfer awgrymiadau wedi'u cau gan noddwyr a { -brand-short-name }.

@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Dewiswch enw fel “Gwaith” neu “Personol”
 new-profile-page-done-button =
     .label = Wedi gorffen golygu
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Mae eich copi o { $profilename } yn barod i'w gyfaddasu
+copied-profile-page-header-description = Rydym wedi copïo'ch data a'ch gosodiadau i broffil newydd. Nawr rhowch enw iddo, dewiswch olwg, a'i ddefnyddio fel eich un chi.
 profile-window-title-2 = { -brand-short-name } - Dewiswch broffil
 profile-window-logo =
     .alt = Logo { -brand-short-name }
