@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = შენიღბვის მაჩ�
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = დაიცავით პირადულობა ინტერნეტში
 appmenu-services-header = ჩემი მომსახურებები
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = მოსინჯეთ დაცვის სხვა ხელსაწყოებიც, Mozilla რომ ქმნის:
 appmenu-other-protection-header = მოსინჯეთ დაცვის სხვა ხელსაწყოები, რომელთაც გთავაზობთ { -vendor-short-name }:
 
 ## Profiles panel
