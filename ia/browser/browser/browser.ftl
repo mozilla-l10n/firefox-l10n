@@ -1457,7 +1457,7 @@ trustpanel-etp-description-disabled = { -brand-product-name } pensa que le compa
 trustpanel-connection-label-secure = Connexion secur
 trustpanel-connection-label-insecure = Connexion non secur
 trustpanel-header-enabled = { -brand-product-name } es in alerta
-trustpanel-description-enabled2 = Tu es protegite. Si nos discoperi alco, lo facera saper vos.
+trustpanel-description-enabled2 = Tu es protegite. Si nos discoperi alco, nos te lo facera saper.
 trustpanel-header-enabled-insecure = Sia attente in iste sito
 trustpanel-description-enabled-insecure = { -brand-product-name } notava alco suspecte.
 trustpanel-description-enabled = Tu es protegite. Si nos discoperi alco, lo facera saper vos
@@ -1488,7 +1488,7 @@ trustpanel-blocker-header =
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
-urlbar-trust-icon-notsecure-label = Insecur
+urlbar-trust-icon-notsecure-label = Non secur
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

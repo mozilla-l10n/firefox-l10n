@@ -148,8 +148,8 @@ backup-service-error-recovery-failed =
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =
-    .heading = Hmm, il habeva un problema salveguardante.
-    .message = Retenta in alcun minutas.
+    .heading = Hmm, un problema ha occurrite durante le salveguarda.
+    .message = Tenta lo de novo in alcun minutas.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
@@ -172,23 +172,23 @@ change-backup-encryption-header = Cambiar contrasigno de salveguarda
 
 password-rules-header = Requisitos del contrasigno
 password-rules-length-description = Al minus 8 characteres
-password-rules-email-description = Non tu adresse email
-password-rules-disclaimer = Sta secur: non reusa contrasignos. Vide altere consilios pro <a data-l10n-name="password-support-link">crear contrasignos forte</a>.
-password-validity-has-email = Non pote esser un adresse email
-password-validity-do-not-match = Contrasignos discorde
+password-rules-email-description = Non tu adresse de e-mail
+password-rules-disclaimer = Protege te: non reusa contrasignos. Vide altere consilios pro <a data-l10n-name="password-support-link">crear contrasignos forte</a>.
+password-validity-has-email = Non pote esser un adresse de e-mail
+password-validity-do-not-match = Le contrasignos non corresponde
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
 password-rules-a11y-success =
     .alt = Successo
 password-rules-a11y-warning =
-    .alt = Advertentia
+    .alt = Advertimento
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Remover protection de contrasignos
-disable-backup-encryption-description = Tu contrasignos, methodos de pagamento, e cookies reservate non sera plus salveguardate.
-disable-backup-encryption-support-link = Que sera salveguardate?
+disable-backup-encryption-description = Tu contrasignos, methodos de pagamento e cookies non essera plus salveguardate.
+disable-backup-encryption-support-link = Que essera salveguardate?
 disable-backup-encryption-cancel-button = Cancellar
 disable-backup-encryption-confirm-button = Remover contrasigno
 
@@ -200,7 +200,7 @@ backup-error-password-requirements = Tu contrasigno non satisface le requisitos.
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
 # is a chance that the action will succeed if retried.
-backup-error-retry = Alco errate eveniva. Retenta.
+backup-error-retry = Un problema ha occurrite. Tenta lo de novo.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
