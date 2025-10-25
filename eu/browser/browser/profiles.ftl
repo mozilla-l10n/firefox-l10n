@@ -88,14 +88,33 @@ profiles-light-theme = Argia
 profiles-dark-theme = Iluna
 # The default system theme
 profiles-system-theme = Sistema
+profiles-orange-theme-title =
+    .title = Aplikatu itxura laranja
 profiles-red-theme = Gorria
 profiles-red-theme-title =
     .title = Aplikatu itxura gorria
 profiles-pink-theme = Arrosa
+profiles-pink-theme-title =
+    .title = Aplikatu itxura arrosa
 profiles-purple-theme = Morea
+profiles-purple-theme-title =
+    .title = Aplikatu itxura morea
 profiles-blue-theme = Urdina
 profiles-green-theme = Berdea
+profiles-green-theme-title =
+    .title = Aplikatu itxura berdea
 profiles-cyan-theme = Ziana
+profiles-cyan-theme-title =
+    .title = Aplikatu itxura ziana
+profiles-custom-theme-title =
+    .title = Aplikatu itxura pertsonalizatua
+
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Ikusi ezarpenak
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Baztertu
 
 ## Alternative text for default profile icons
 
@@ -103,24 +122,42 @@ book-avatar-alt =
     .alt = Liburua
 briefcase-avatar-alt =
     .alt = Maletatxoa
+picture-avatar-alt =
+    .alt = Irudia
 flower-avatar-alt =
     .alt = Lorea
 folder-avatar-alt =
     .alt = Karpeta
 heart-avatar-alt =
     .alt = Bihotza
+clock-avatar-alt =
+    .alt = Erlojua
 leaf-avatar-alt =
     .alt = Hostoa
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Mezua
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Oparia
 shopping-avatar-alt =
     .alt = Erosketa-orga
 star-avatar-alt =
     .alt = Izarra
+bike-avatar-alt =
+    .alt = Bizikleta
 
 ## Tooltips for default avatar icons
 
 book-avatar = Liburua
 briefcase-avatar = Maletatxoa
 flower-avatar = Lorea
+folder-avatar = Karpeta
+hammer-avatar = Mailua
 heart-avatar = Bihotza
+leaf-avatar = Hostoa
 shopping-avatar = Erosketa-orga
+soccer-ball-avatar = Futboleko baloia
 star-avatar = Izarra
+profiles-appmenu-callout-tour-title = Zure profil berria prest dago
+profiles-appmenu-callout-tour-primary-button = Erakuts iezadazu nola

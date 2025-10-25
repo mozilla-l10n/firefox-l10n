@@ -253,6 +253,8 @@ tab-group-editor-color-selector2-gray = Grisa
 tab-group-editor-color-selector2-red = Gorria
     .title = Gorria
 tab-group-description = { $tabGroupName } — Fitxa multzoa
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Tolestuta
+tab-group-label-tooltip-expanded = { $tabGroupName } — Zabalduta
 tab-context-unnamed-group =
     .label = Multzo izengabea
 tab-group-name-default = Multzo izengabea
@@ -300,6 +302,16 @@ tab-context-ungroup-tab =
            *[other] Kendu multzoetatik
         }
     .accesskey = K
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] Fitxa { $tabCount } gehiago
+       *[other] { $tabCount } fitxa gehiago
+    }
 
 ## Open/saved tab group context menu
 
@@ -325,3 +337,7 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Ireki multzoa leiho berrian
+
+## Split View
+
+tab-context-badge-new = Berria

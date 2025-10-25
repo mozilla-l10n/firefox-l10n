@@ -165,6 +165,8 @@ extensions-warning-update-security-button = Gaitu
 extensions-warning-imported-addons2 =
     .message = Mesedez amaitu { -brand-short-name }(e)ra inportatu ziren hedapenen instalazioa.
 extensions-warning-imported-addons-button = Instalatu hedapenak
+extensions-warning-safe-mode3 =
+    .message = Arazoak konpontzeko moduak gehigarri guztiak desgaitu ditu.
 
 ## Strings connected to add-on updates
 

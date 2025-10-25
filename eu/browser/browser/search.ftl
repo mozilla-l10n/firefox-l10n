@@ -58,3 +58,12 @@ edit-engine-window =
 add-engine-button = Gehitu bilaketa-motor pertsonalizatua
 add-engine-name = Bilaketa-motorraren izena
 add-engine-keyword2 = Gako-hitza (aukerakoa)
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+add-engine-name-placeholder =
+    .placeholder = adib., Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = adib., https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = adib., @mdn
