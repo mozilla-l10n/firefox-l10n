@@ -286,9 +286,13 @@ pdfjs-web-fonts-disabled = Las fuentes web están desactivadas: es imposible usa
 
 pdfjs-editor-free-text-button =
     .title = Texto
+pdfjs-editor-color-picker-free-text-input =
+    .title = Cambiar el color del texto
 pdfjs-editor-free-text-button-label = Texto
 pdfjs-editor-ink-button =
     .title = Dibujar
+pdfjs-editor-color-picker-ink-input =
+    .title = Cambiar el color del dibujo
 pdfjs-editor-ink-button-label = Dibujar
 pdfjs-editor-stamp-button =
     .title = Agregar o editar imágenes
@@ -320,6 +324,11 @@ pdfjs-editor-highlight-editor =
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = Editor de dibujos
+# Used when a signature editor is selected/hovered.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-signature-editor1 =
+    .aria-description = Editor de firmas: { $description }
 pdfjs-editor-stamp-editor =
     .aria-label = Editor de imágenes
 
@@ -377,6 +386,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = Cerrar la barra lateral
     .aria-label = Cerrar la barra lateral
 pdfjs-editor-comments-sidebar-close-button-label = Cerrar la barra lateral
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = ¿Ves algo interesante? Resáltalo y deja un comentario.
 pdfjs-editor-comments-sidebar-no-comments-link = Saber más
 
 ## Alt-text dialog
@@ -510,6 +521,7 @@ pdfjs-editor-alt-text-settings-close-button = Cerrar
 
 ## Accessibility labels (announced by screen readers) for objects added to the editor.
 
+pdfjs-editor-highlight-added-alert = Destacado añadido
 pdfjs-editor-freetext-added-alert = Texto agregado
 pdfjs-editor-ink-added-alert = Dibujo agregado
 pdfjs-editor-stamp-added-alert = Imagen agregada
@@ -632,6 +644,8 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Cancelar
 
 pdfjs-editor-edit-comment-button =
     .title = Editar comentario
+pdfjs-editor-add-comment-button =
+    .title = Añadir comentario
 
 ## Main menu for adding/removing signatures
 

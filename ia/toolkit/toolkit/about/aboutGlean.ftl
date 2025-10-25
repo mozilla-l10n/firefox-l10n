@@ -146,29 +146,25 @@ about-glean-metrics-table-header-value = Valor
 about-glean-metrics-table-header-actions = Actiones
 about-glean-metrics-table-settings-button = Parametros
 # Settings for the metrics table and its visualizations in about:glean
-about-glean-metrics-table-settings-title = Parametros del tabellas del statisticas
+about-glean-metrics-table-settings-title = Parametros del tabella de statisticas
 about-glean-metrics-table-settings-category-general = General
 about-glean-metrics-table-settings-hide-empty-value-rows = Celar le lineas con valores vacue
 about-glean-metrics-table-settings-category-visualizations = Virtualisation
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Exemplo
 about-glean-metrics-table-settings-category-visualizations-histogram = Histogramma
-about-glean-metrics-table-settings-histograms-chart-max = Altessa maxime de diagrammas
+about-glean-metrics-table-settings-histograms-chart-max = Altor maxime de diagrammas
 # The maximum height after to which the y-values on the chart will be scaled
-about-glean-metrics-table-settings-histograms-scaled-max = Alterna maxime redimensionate
-about-glean-metrics-table-settings-histograms-box-padding = Margine del continitor
+about-glean-metrics-table-settings-histograms-scaled-max = Altor maxime redimensionate
+about-glean-metrics-table-settings-histograms-box-padding = Margine del quadro
 about-glean-metrics-table-settings-histograms-chart-padding = Margine del diagramma
 about-glean-metrics-table-settings-histograms-left-padding = Margine additional a sinistra
 about-glean-metrics-table-settings-category-visualizations-timeline = Chronologia
-about-glean-metrics-table-settings-timelines-height = Altessa
-about-glean-metrics-table-settings-timelines-width = Largessa
+about-glean-metrics-table-settings-timelines-height = Altor
+about-glean-metrics-table-settings-timelines-width = Largor
 about-glean-metrics-table-settings-timelines-chart-padding = Margine del diagramma
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Radio del circulo
-# The offset on the x-axis from the end of the horizontal line for the y-axis line
-about-glean-metrics-table-settings-timelines-vertical-line-x-offset = axis Y offset X
-# The offset on the y-axis from the x-axis for the y-axis line
-about-glean-metrics-table-settings-timelines-vertical-line-y-offset = axis Y offset Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtro
 # This message sits alongside an input field, further describing its purpose.
@@ -190,7 +186,7 @@ about-glean-no-data-to-display = Necun dato a monstrar
 about-glean-labeled-metric-warning = Le statistica etiquettate non es ancora supportate in le vista <code>re:glean</code>.
 about-glean-unknown-metric-type-warning = Typo de indicator incognite.
 about-glean-enable-new-features-promo =
-    .message = Nos labora pro adder nove functiones! Illos es ancora in disveloppamento, ma clicca le button de action ci si tu amarea activar los.
+    .message = Nos labora pro adder nove functiones! Illos es ancora in disveloppamento, ma clicca sur le button de action ci si tu vole activar los.
     .heading = Nove functiones va arrivar!
 about-glean-enable-new-features-button = Activar nove functiones
 about-glean-disable-new-features-button = Disactivar nove functiones
