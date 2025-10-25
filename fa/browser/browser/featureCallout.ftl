@@ -71,6 +71,11 @@ bookmarks-toolbar-callout-1-primary-button-label = افزودن نشانک
 
 perplexity-callout-primary-label = از پرپلکسیتی بپرسید
 
+## Account Adoption Passwords callout strings
+
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = نام‌نویسی
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = عنوان زبانه‌ها را در نوار کناری نشان بده
@@ -105,3 +110,4 @@ sidebar-genai-survey-satisfaction-question = چقدر از دسترسی به چ�
 sidebar-genai-survey-productive-question =
     تا چه حد با این بیان موافق یا مخالف هستید:
     «چت‌بات هوش مصنوعی در نوار کناری به من کمک می‌کند تا بهره‌وری بیشتری داشته باشم.»
+unified-search-callout-primary-label = بعدی

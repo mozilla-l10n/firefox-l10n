@@ -41,3 +41,11 @@ enable-backup-encryption-confirm-button = ذخیره
 ## default) within a folder labelled with the "backup-folder-name" string.
 
 backup-file-path-label = پرونده پشتیبان‌گیری:
+backup-file-encryption-state-label = رمزگذاری شده:
+backup-file-encryption-state-value-encrypted = بله
+backup-file-encryption-state-value-not-encrypted = خیر
+backup-file-creation-device-label = دستگاه:
+backup-file-creation-date-label = ايجاد شده:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }، { DATETIME($date, dateStyle: "short") }

@@ -758,6 +758,8 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = این بار جستجو با:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = تنظیمات جستجو
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = جدید
 urlbar-searchmode-button-no-engine =
     .label = میانبری انتخاب نشده است، یک میانبر انتخاب کنید
     .tooltiptext = میانبری انتخاب نشده است، یک میانبر انتخاب کنید
@@ -986,6 +988,9 @@ panel-save-update-password = گذرواژه
 # "More" item in macOS share menu
 menu-share-more =
     .label = بیشتر…
+menu-share-copy-link =
+    .label = رونوشت پیوند
+    .accesskey = پ
 ui-tour-info-panel-close =
     .tooltiptext = بستن
 

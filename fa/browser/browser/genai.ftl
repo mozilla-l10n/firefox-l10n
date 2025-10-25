@@ -18,6 +18,10 @@ genai-prompts-simplify =
     .label = زبان را ساده‌سازی کنید
     .value = لطفا انتخاب را با استفاده از جملات کوتاه و کلمات ساده بازنویسی کنید. معنی و دقت را حفظ کنید.
 
+## Chatbot menu shortcuts
+
+genai-menu-new-badge = جدید
+
 ## Chatbot header
 
 genai-header-close-button =

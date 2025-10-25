@@ -34,6 +34,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = اکنون نه
     .accesskey = ا
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = نام‌نویسی
+    .accesskey = ن
 
 ## The "control" variation of the Relay offer popup
 
@@ -58,3 +61,6 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = با یک پوشانهٔ رایانامهٔ رایگان، جلوی هرزنامه‌ها را بگیرید
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = ‍‍برای استفاده از پوشانهٔ رایانامه، ابتدا ثبت نام کرده و یا وارد حساب کاربری‌تان شوید
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = بعدی‌
+    .accesskey = ب
