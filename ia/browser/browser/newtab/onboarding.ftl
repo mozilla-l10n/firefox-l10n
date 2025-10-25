@@ -480,7 +480,7 @@ desktop-to-mobile-qr-code-alt =
 ## Fx Backup onboarding: Create Backup spotlight
 
 create-backup-screen-1-title =
-    Promove tu a Windows 11?
+    Actualisa tu a Windows 11?
     Que nos salveguarda tu datos de { -brand-product-name }.
 create-backup-screen-1-subtitle = Protege automaticamente tu contrasignos, marcapaginas, e plus in 1–2 minutas.
 create-backup-screen-1-flair = Recommendate
@@ -515,7 +515,7 @@ create-backup-screen-3-location = Ubi vole tu tu salveguarda salvate?
 create-backup-screen-3-title = Crear un file contrasigno de reserva
 create-backup-screen-3-subtitle = Immagazina lo in un posto que tu memorara.
 fx-backup-opt-in-header = Eliger position de file
-fx-backup-opt-in-filepath-label = Elige un posto que tu projecta transferer a un nove apparato, como OneDrive.
+fx-backup-opt-in-filepath-label = Elige un loco que tu intende transferer a un nove apparato, como OneDrive.
 fx-backup-opt-in-create-password-label = Insere le contrasigno
 fx-backup-opt-in-confirm-btn-label = Continuar
 fx-backup-opt-in-cancel-btn-label = Retro
@@ -534,8 +534,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Marcapaginas, chronologia
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Salvate a tu apparato
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Contrasignos e pagamentos non includite
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Va a <a data-l10n-name="settings">Parametros</a> pro includer datos sensibile.
-fx-backup-confirmation-screen-item-subtext-1 = Tu salveguarda comenciara in alcun minutas e sera exequite un vice pro die. Tu pote verificar le progresso in <a data-l10n-name="settings">Parametros</a>.
-fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } cercara tu salveguarda si tu debera reinstallar lo.
+fx-backup-confirmation-screen-item-subtext-1 = Tu salveguarda comenciara in alcun minutas e essera exequite un vice per die. Tu pote verificar le progresso in <a data-l10n-name="settings">Parametros</a>.
 
 ## Restore from Backup Flow about:welcome screens
 

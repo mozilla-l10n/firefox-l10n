@@ -487,7 +487,7 @@ newtab-weather-opt-in-not-now =
 newtab-weather-opt-in-yes =
     .label = Si
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
-newtab-weather-static-city = New York City
+newtab-weather-static-city = Citate de Nove York
 
 ## Topic Labels
 
