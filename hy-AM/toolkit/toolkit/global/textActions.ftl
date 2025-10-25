@@ -61,6 +61,8 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Մաքրել
+text-action-highlight-selection =
+    .label = Գունանշել ընտրածը
 # This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
 # it creates a link with a text fragment to the current selection
 # and it strips trackers etc.

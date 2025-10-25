@@ -193,6 +193,7 @@ permissions-site-local-network-window =
 permissions-site-local-network-desc = Këto sajte kanë kërkuar të përdorin aplikacione dhe shërbime në pajisje të lidhura te rrjeti juaj vendor apo ai Wi-Fi. Mund të zgjidhni të lejohen apo t’u bllokohet sajteve të bëjnë kështu.
 permissions-site-local-network-disable-label =
     .label = Blloko kërkesa të reja për përdorim aplikacionesh dhe shërbimesh në pajisje të lidhura te Wi-Fi apo rrjeti vendor i juaji.
+permissions-site-local-network-disable-desc = Kjo do të ndalë çfarëdo sajti jo të dhënë më sipër të kërkojë të përdorë aplikacione dhe shërbime në pajisje të lidhura te Wi-Fi apo rrjeti juaj vendor. Duke bërë kështu mund të dëmtohen disa veçori sajtesh.
 
 ## Site Permissions - Microphone
 
