@@ -19,7 +19,7 @@ preonboarding-privacy-notice-header-button-title = წაიკითხეთ �
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = მართეთ ტექნიკური და გამოყენების მონაცემები
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
-preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } – გამოყენების პირობები
+preonboarding-terms-of-use-header-button-title-b = გამოყენების პირობები, რომელთაც ადგენს { -brand-product-name }
 preonboarding-terms-of-use-header-button-title-b-v2 = გამოყენების პირობები
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } – პირადულობის განაცხადი
