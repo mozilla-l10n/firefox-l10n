@@ -20,8 +20,16 @@ backup-folder-name = Gjenopprett { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }-sikkerheitskopi
 settings-data-backup-header = Sikkerheitskopiering
+settings-data-backup-toggle = Handsam sikkerheitskopiering
+settings-data-backup-toggle-on = Slå på sikkerheitskopiering
+settings-data-backup-toggle-off = Slå av sikkerheitskopiering
+settings-data-backup-trigger-button = Sikkerhetskopier no
+settings-data-backup-in-progress-button = Sikkerheitskopiering i framdrift…
+settings-data-backup-in-progress-message =
+    .message = Sikkerheitskopiering i framdrift…
 settings-data-backup-scheduled-backups-on = Sikkerheitskopiering: PÅ
 settings-data-backup-scheduled-backups-off = Sikkerheitskopiering: AV
+settings-data-backup-last-backup-date = Siste sikkerheitskopi: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Plassering
 settings-data-backup-last-backup-location-show-in-folder = Vis i mappe

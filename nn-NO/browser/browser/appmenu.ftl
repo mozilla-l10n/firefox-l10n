@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Start oversikta for e-postalias
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Vern nettaktiviteten din
 appmenu-services-header = Mine tenester
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Prøv andre verneverktøy frå Mozilla:
 appmenu-other-protection-header = Prøv andre verneverktøy frå { -vendor-short-name }:
 
 ## Profiles panel
