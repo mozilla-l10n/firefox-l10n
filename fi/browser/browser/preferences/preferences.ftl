@@ -610,6 +610,11 @@ home-mode-choice-blank =
     .label = Tyhjä sivu
 home-homepage-custom-url =
     .placeholder = Liitä osoite…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Hallitse laajennusta
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Valitse tietty sivusto
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -625,9 +630,20 @@ choose-bookmark =
     .label = Käytä kirjanmerkkiä…
     .accesskey = m
 
+## Custom Homepage subpage
+
+home-custom-homepage-address =
+    .placeholder = Kirjoita osoite
+home-custom-homepage-address-button =
+    .label = Lisää osoite
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Kirjanmerkit…
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }n sisältö
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Valitse mitä sisältöä haluat { -firefox-home-brand-name }lle.
 home-prefs-search-header =
     .label = Verkkohaku
@@ -645,6 +661,9 @@ home-prefs-recommended-by-description-new = Poikkeuksellista, valikoitua sisält
 home-prefs-recommended-by-header-generic =
     .label = Suositellut tarinat
 home-prefs-recommended-by-description-generic = Poikkeuksellista { -brand-product-name }-perheen kuratoimaa sisältöä
+home-prefs-stories-header =
+    .label = Tarinat
+home-prefs-stories-description = Personoituja tarinoita aktiivisuuteesi pohjautuen
 
 ##
 
@@ -683,6 +702,8 @@ home-prefs-support-firefox-header =
     .label = Tue { -brand-product-name }ia
 home-prefs-mission-message = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä
 home-prefs-mission-message-learn-more-link = Lue lisää
+home-prefs-manage-topics-link = Hallinnoi aiheita
+home-prefs-choose-wallpaper-link = Valitse taustakuva
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
