@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Activar
 extensions-warning-imported-addons2 =
     .message = Finalice la instalación de las extensiones que se importaron a { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar extensiones
+extensions-warning-safe-mode3 =
+    .message = Todos los complementos fueron desactivados por el modo de solución de problemas.
 
 ## Strings connected to add-on updates
 

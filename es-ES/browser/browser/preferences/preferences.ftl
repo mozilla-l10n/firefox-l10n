@@ -683,6 +683,7 @@ home-prefs-recommended-by-header-generic =
 home-prefs-recommended-by-description-generic = Contenido excepcional seleccionado por la familia { -brand-product-name }
 home-prefs-stories-header =
     .label = Historias
+home-prefs-stories-description = Historias personalizadas basadas en su actividad
 
 ##
 
@@ -721,6 +722,8 @@ home-prefs-support-firefox-header =
     .label = Apoyar a { -brand-product-name }
 home-prefs-mission-message = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor
 home-prefs-mission-message-learn-more-link = Descubra cómo
+home-prefs-manage-topics-link = Administrar temas
+home-prefs-choose-wallpaper-link = Elija un fondo de pantalla
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1265,6 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de direcciones
+addressbar-suggest-1 = Elija qué sugerencias se muestran en su barra de direcciones
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Sugerencias de { -brand-short-name } y nuestros socios en su barra de direcciones.
 addressbar-suggest = Al usar la barra de direcciones, sugerir
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Barra de direcciones — { -firefox-suggest-brand-name }
@@ -1292,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Sitios populares
     .accesskey = t
+addressbar-locbar-engines-option-1 =
+    .label = Sugerir buscadores a usar
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Buscadores
     .accesskey = a
@@ -1312,6 +1323,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Obtenga sugerencias de la web rela
 addressbar-locbar-suggest-sponsored-option =
     .label = Sugerencias de patrocinadores
 addressbar-locbar-suggest-sponsored-desc = Apoye a { -brand-short-name } con sugerencias patrocinadas ocasionales.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Obtener sugerencias de Mozilla mientras escribe
 addressbar-quickactions-learn-more = Saber más
 addressbar-dismissed-suggestions-label = Sugerencias descartadas
 addressbar-restore-dismissed-suggestions-description = Restaurar sugerencias rechazadas de patrocinadores y { -brand-short-name }.
