@@ -366,16 +366,16 @@ multi-cta-fox-doodle-main-browser-primary-button-label = Nastaviť { -brand-shor
 multi-cta-fox-doodle-quick-reminder-subtitle = Tu je rýchle pripomenutie, že svoj obľúbený prehliadač zameraný na ochranu súkromia si môžete ponechať jediným kliknutím.
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->
-        [macos] Ponechajte si svoj obľúbený prehliadač zameraný na ochranu osobných údajov jediným kliknutím. Nastavte { -brand-short-name } ako predvolený prehliadač na otváranie odkazov a ponechajte si ho v Docku.
-       *[other] Ponechajte si svoj obľúbený prehliadač zameraný na ochranu osobných údajov jediným kliknutím. Nastavte { -brand-short-name } ako predvolený prehliadač na otváranie odkazov a pripnite ho na panel úloh.
+        [macos] Ponechajte si svoj obľúbený prehliadač zameraný na ochranu osobných údajov jediným kliknutím. Nastavte { -brand-short-name(case: "acc") } ako predvolený prehliadač na otváranie odkazov a ponechajte si ho v Docku.
+       *[other] Ponechajte si svoj obľúbený prehliadač zameraný na ochranu osobných údajov jediným kliknutím. Nastavte { -brand-short-name(case: "acc") } ako predvolený prehliadač na otváranie odkazov a pripnite ho na panel úloh.
     }
-multi-cta-fox-doodle-msix-privacy-focused-subtitle = Ponechajte si svoj obľúbený prehliadač zameraný na ochranu súkromia jediným kliknutím. Nastavte { -brand-short-name } ako predvolený prehliadač na otváranie odkazov a pripnite ho na panel úloh a ponuku Štart.
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Ponechajte si svoj obľúbený prehliadač zameraný na ochranu súkromia jediným kliknutím. Nastavte { -brand-short-name(case: "acc") } ako predvolený prehliadač na otváranie odkazov a pripnite ho na panel úloh a ponuku Štart.
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = Čaká vás upgrade z Windowsu 10?
 windows-10-eos-sync-spotlight-subtitle = Zálohujte si heslá a záložky, aby ste boli pripravení prejsť na akékoľvek zariadenie.
-windows-10-eos-sync-spotlight-primary-label = Zálohujte si svoj { -brand-short-name }
+windows-10-eos-sync-spotlight-primary-label = Zálohujte si svoj { -brand-short-name(case: "acc") }
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 

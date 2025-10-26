@@ -17,7 +17,7 @@ mr1-onboarding-get-started-primary-button-label = Začíname
 
 ## Custom Return To AMO onboarding strings
 
-return-to-amo-subtitle = Skvelé, odteraz máte { -brand-short-name }
+return-to-amo-subtitle = Skvelé, odteraz máte { -brand-short-name(case: "acc") }
 # <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
 #
 # Variables:
@@ -30,7 +30,7 @@ return-to-amo-extension-install-complete-label = Rozšírenie nainštalované
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
-mr1-return-to-amo-subtitle = Privítajte { -brand-short-name }
+mr1-return-to-amo-subtitle = Privítajte { -brand-short-name(case: "acc") }
 mr1-return-to-amo-addon-title = V rukách máte rýchly prehliadač zameraný na ochranu súkromia. A keď si pridáte doplnok <b>{ $addon-name }</b>, dostanete zo svojho { -brand-short-name(case: "gen") } ešte viac.
 mr1-return-to-amo-add-extension-label = Pridať { $addon-name }
 
@@ -152,15 +152,15 @@ fx100-thank-you-hero-text =
 fx100-thank-you-subtitle = Je to naše 100. vydanie! Ďakujeme, že nám pomáhate budovať lepší a zdravší internet.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Ponechať { -brand-short-name } v Docku
-       *[other] Pripnúť { -brand-short-name } na hlavný panel úloh
+        [macos] Ponechať { -brand-short-name(case: "acc") } v Docku
+       *[other] Pripnúť { -brand-short-name(case: "acc") } na hlavný panel úloh
     }
 fx100-upgrade-thanks-header = 100x vďaka
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Je to naše 100. vydanie { -brand-short-name(case: "gen") }. Ďakujeme <em>vám</em>, že nám pomáhate budovať lepší a zdravší internet.
 # Message shown with either a pin-to-taskbar or set-default button.
-fx100-upgrade-thanks-keep-body = Je to naše 100. vydanie! Ďakujeme, že ste súčasťou našej komunity. Jediným kliknutím si môžete { -brand-short-name } ponechať na ďalších sto.
+fx100-upgrade-thanks-keep-body = Je to naše 100. vydanie! Ďakujeme, že ste súčasťou našej komunity. Jediným kliknutím si môžete { -brand-short-name(case: "acc") } ponechať na ďalších sto.
 mr2022-onboarding-secondary-skip-button-label = Preskočiť tento krok
 
 ## MR2022 New User Easy Setup screen strings
@@ -168,7 +168,7 @@ mr2022-onboarding-secondary-skip-button-label = Preskočiť tento krok
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = Uložiť a pokračovať
 # Set Default action checkbox label used on new user onboarding first screen
-mr2022-onboarding-easy-setup-set-default-checkbox-label = Nastaviť { -brand-short-name } ako predvolený prehliadač
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Nastaviť { -brand-short-name(case: "acc") } ako predvolený prehliadač
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = Importovať z predchádzajúceho prehliadača
 
@@ -180,15 +180,15 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Importovať z predchádzaj�
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Otvorte úžasný internet
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
-mr2022-onboarding-welcome-pin-subtitle = Spustite { -brand-short-name } odkiaľkoľvek jediným kliknutím. Zakaždým, keď to urobíte, vyberáte si otvorenejší a nezávislejší web.
+mr2022-onboarding-welcome-pin-subtitle = Spustite { -brand-short-name(case: "acc") } odkiaľkoľvek jediným kliknutím. Zakaždým, keď to urobíte, vyberáte si otvorenejší a nezávislejší web.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Ponechať { -brand-short-name } v Docku
-       *[other] Pripnúť { -brand-short-name } na hlavný panel úloh
+        [macos] Ponechať { -brand-short-name(case: "acc") } v Docku
+       *[other] Pripnúť { -brand-short-name(case: "acc") } na hlavný panel úloh
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
-mr2022-onboarding-pin-primary-button-label-msix = Pripnúť { -brand-short-name } na panel úloh a do ponuky Štart
+mr2022-onboarding-pin-primary-button-label-msix = Pripnúť { -brand-short-name(case: "acc") } na panel úloh a do ponuky Štart
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -209,8 +209,8 @@ mr2022-onboarding-existing-pin-checkbox-label = Pridať aj Súkromné prehliadan
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
-mr2022-onboarding-set-default-title = Nastavte si { -brand-short-name } ako váš prehliadač
-mr2022-onboarding-set-default-primary-button-label = Nastaviť { -brand-short-name } ako predvolený prehliadač
+mr2022-onboarding-set-default-title = Nastavte si { -brand-short-name(case: "acc") } ako váš prehliadač
+mr2022-onboarding-set-default-primary-button-label = Nastaviť { -brand-short-name(case: "acc") } ako predvolený prehliadač
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-set-default-subtitle = Použite prehliadač podporovaný neziskovou organizáciou. Chránime vaše súkromie, keď sa pohybujete po webe.
@@ -229,7 +229,7 @@ mr2022-onboarding-get-started-primary-button-label = Nastavte si ju za pár sek�
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Bleskové nastavenie
-mr2022-onboarding-import-subtitle = Nastavte si { -brand-short-name } podľa seba. Pridajte si záložky, heslá a ďalšie položky zo starého prehliadača.
+mr2022-onboarding-import-subtitle = Nastavte si { -brand-short-name(case: "acc") } podľa seba. Pridajte si záložky, heslá a ďalšie položky zo starého prehliadača.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importovať z predchádzajúceho prehliadača
 
 ## If your language uses grammatical genders, in the description for the
@@ -299,7 +299,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Zobraziť podrob
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Pomáhate nám vytvárať lepší web
-mr2022-onboarding-gratitude-subtitle = Ďakujeme, že používate { -brand-short-name }, ktorý podporuje Mozilla Foundation. S vašou podporou pracujeme na tom, aby bol internet otvorenejší, prístupnejší a lepší pre každého.
+mr2022-onboarding-gratitude-subtitle = Ďakujeme, že používate { -brand-short-name(case: "acc") }, ktorý podporuje Mozilla Foundation. S vašou podporou pracujeme na tom, aby bol internet otvorenejší, prístupnejší a lepší pre každého.
 mr2022-onboarding-gratitude-primary-button-label = Pozrite sa, čo je nové
 mr2022-onboarding-gratitude-secondary-button-label = Poďme prehliadať
 
@@ -340,7 +340,7 @@ onboarding-device-migration-primary-button-label = Prihlásiť sa
 
 ## Add-ons Picker screen
 
-amo-picker-title = Prispôsobte si svoj { -brand-short-name }
+amo-picker-title = Prispôsobte si svoj { -brand-short-name(case: "acc") }
 amo-picker-subtitle = Rozšírenia sú ako aplikácie pre váš prehliadač a umožňujú vám chrániť heslá, sťahovať videá, hľadať ponuky, blokovať otravné reklamy, meniť vzhľad vášho prehliadača a oveľa viac.
 amo-picker-install-button-label = Pridať do { -brand-short-name(case: "gen") }
 amo-picker-install-complete-label = Nainštalované
@@ -356,7 +356,7 @@ onboarding-mobile-download-security-and-privacy-title = Pri preskakovaní medzi 
 onboarding-mobile-download-security-and-privacy-subtitle = Počas synchronizácie { -brand-short-name } zašifruje vaše heslá, záložky a ďalšie položky. A okrem toho môžete získať karty z iných zariadení.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vám kryje chrbát
-onboarding-gratitude-security-and-privacy-subtitle = Ďakujeme, že používate { -brand-short-name } podporovaný Mozilla Foundation. S vašou podporou pracujeme na tom, aby bol internet bezpečnejší a prístupnejší pre každého.
+onboarding-gratitude-security-and-privacy-subtitle = Ďakujeme, že používate { -brand-short-name(case: "acc") } podporovaný Mozilla Foundation. S vašou podporou pracujeme na tom, aby bol internet bezpečnejší a prístupnejší pre každého.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Synchronizujte svoje údaje medzi zariadeniami
 onboarding-sign-up-description = Zaregistrujte si účet a všetky vaše dôležité informácie – heslá, záložky a ďalšie – budú bezpečne uložené a dostupné, keď sa prihlásite do akéhokoľvek zariadenia.
@@ -365,9 +365,9 @@ onboarding-sign-up-secondary-button = Začať prehliadať
 
 ## New user time and familiarity survey strings
 
-onboarding-new-user-time-based-survey-title = Ako dlho používate { -brand-short-name }?
+onboarding-new-user-time-based-survey-title = Ako dlho používate { -brand-short-name(case: "acc") }?
 onboarding-new-user-familiarity-based-survey-title = Ako dobre poznáte prehliadač { -brand-short-name }?
-onboarding-new-user-survey-subtitle = Vaša spätná väzba pomáha ešte viac vylepšiť { -brand-short-name }.
+onboarding-new-user-survey-subtitle = Vaša spätná väzba pomáha ešte viac vylepšiť { -brand-short-name(case: "acc") }.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Ďalej
 onboarding-new-user-survey-legal-link-label = Voľbou možnosti “{ onboarding-new-user-survey-next-button-label }” súhlasíte s <a data-l10n-name="privacy_notice">Vyhlásením o ochrane osobných údajov</a> { -brand-product-name(case: "gen") }.
@@ -434,8 +434,8 @@ onboarding-genai-sidebar-secondary-button = Začať prehliadať
 
 onboarding-checklist-title = Dokončite nastavenie { -brand-short-name(case: "gen") }
 onboarding-checklist-subtitle = Vykonajte tieto kroky, aby ste z prehliadania vyťažili maximum.
-onboarding-checklist-set-default = Nastaviť { -brand-short-name } ako predvolený prehliadač
-onboarding-checklist-pin = Pripnúť { -brand-short-name } na hlavný panel úloh
+onboarding-checklist-set-default = Nastaviť { -brand-short-name(case: "acc") } ako predvolený prehliadač
+onboarding-checklist-pin = Pripnúť { -brand-short-name(case: "acc") } na hlavný panel úloh
 onboarding-checklist-import = Importovať z predchádzajúceho prehliadača
 onboarding-checklist-extension = Pridať rozšírenie
 onboarding-checklist-sign-up = Zaregistrujte sa alebo sa prihláste do svojho účtu
@@ -540,7 +540,7 @@ fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } vyhľadá v
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Obnoviť zo zálohy
-restore-from-backup-title = Vráťme { -brand-short-name } späť tak, ako sa vám páči
+restore-from-backup-title = Vráťme { -brand-short-name(case: "acc") } späť tak, ako sa vám páči
 restore-from-backup-subtitle = Obnovte všetky svoje záložky, históriu a ďalšie údaje, aby ste sa mohli vrátiť k prehliadaniu.
 restore-from-backup-secondary-button = Neobnovovať
 

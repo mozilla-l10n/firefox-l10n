@@ -104,9 +104,9 @@ addon-install-accept-button =
 
 addon-confirm-install-message =
     { $addonCount ->
-        [one] Táto stránka sa pokúša nainštalovať doplnok pre { -brand-short-name }:
-        [few] Táto stránka sa pokúša nainštalovať { $addonCount } doplnky pre { -brand-short-name }:
-       *[other] Táto stránka sa pokúša nainštalovať { $addonCount } doplnkov pre { -brand-short-name }:
+        [one] Táto stránka chce nainštalovať doplnok do { -brand-short-name(case: "gen") }:
+        [few] Táto stránka chce nainštalovať { $addonCount } doplnky do { -brand-short-name(case: "gen") }:
+       *[other] Táto stránka chce nainštalovať { $addonCount } doplnkov do { -brand-short-name(case: "gen") }:
     }
 addon-confirm-install-unsigned-message =
     { $addonCount ->

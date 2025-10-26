@@ -67,7 +67,7 @@ about-private-browsing-pin-promo-title = Žiadne uložené súbory cookie alebo 
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Bannery k súborom cookie sú preč!
 about-private-browsing-cookie-banners-promo-button = Znižovať počet bannerov k súborom cookie
-about-private-browsing-cookie-banners-promo-message = Nechajte { -brand-short-name } automaticky odpovedať na žiadosti o súhlas s používaním súborov cookie za vás, aby ste sa mohli vrátiť k prehliadaniu bez rozptyľovania. { -brand-short-name } odmietne všetky požiadavky, kde je to možné.
+about-private-browsing-cookie-banners-promo-message = Nechajte { -brand-short-name(case: "acc") } automaticky odpovedať na žiadosti o súhlas s používaním súborov cookie za vás, aby ste sa mohli vrátiť k prehliadaniu bez rozptyľovania. { -brand-short-name } odmietne všetky požiadavky, kde je to možné.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } sa za vás postará o bannery k súborom cookie
