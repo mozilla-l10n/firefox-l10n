@@ -167,3 +167,13 @@ certerror-coep-learn-more = Saber más sobre de las políticas de integración d
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Código de error: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } no puede crear una conexión segura al servidor en { $hostname }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Parece que este sitio está usando software antiguo con problemas de seguridad conocidos.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Asegúrese de utilizar la versión más reciente de { -brand-short-name }. Vaya a Ayuda > Acerca de { -brand-short-name } en el menú. Si está utilizando la versión más reciente de { -brand-short-name }, lo más probable es que el problema resida en el propio sitio web.
