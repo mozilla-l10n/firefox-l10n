@@ -39,19 +39,19 @@ settings-data-create-backup-error = При создании вашей резе�
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Имя файла: { $fileName }
-settings-data-backup-restore-header = Восстановите свои данные
+settings-data-backup-restore-header = Восстановление данных
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
 settings-data-backup-scheduled-backups-off-restore-description = Используйте резервную копию { -brand-product-name } с другого устройства, чтобы восстановить свои данные.
-settings-data-backup-scheduled-backups-off-restore-choose = Выберите файл резервной копии…
+settings-data-backup-scheduled-backups-off-restore-choose = Выберите файл с резервной копией…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
 settings-data-backup-scheduled-backups-on-restore-description = Восстановите данные { -brand-product-name } из последней резервной копии.
 settings-data-backup-scheduled-backups-on-restore-choose = Восстановить…
-settings-data-toggle-encryption-label = Создайте резервную копию своих конфиденциальных данных
-settings-data-toggle-encryption-description = Создайте зашифрованную резервную копию своих паролей, способов оплаты и куков.
+settings-data-toggle-encryption-label = Создавать резервные копии конфиденциальных данных
+settings-data-toggle-encryption-description = Создавать зашифрованные резервные копии паролей, способов оплаты и куков.
 settings-data-toggle-encryption-support-link = Подробнее
 settings-data-change-password = Сменить пароль…
 
@@ -59,7 +59,7 @@ settings-data-change-password = Сменить пароль…
 
 turn-on-scheduled-backups-header = Включить резервное копирование
 turn-on-scheduled-backups-description = { -brand-short-name } будет создавать снимок ваших данных каждые 24 часа. Вы можете восстановить его, если возникла проблема, или после получения нового устройства.
-turn-on-scheduled-backups-support-link = Что будет резервироваться?
+turn-on-scheduled-backups-support-link = Что войдёт в резервную копию?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Расположение
 # Variables:
@@ -71,8 +71,8 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Выбрать…
        *[other] Обзор…
     }
-turn-on-scheduled-backups-encryption-label = Создайте резервную копию своих конфиденциальных данных
-turn-on-scheduled-backups-encryption-description = Создайте зашифрованную резервную копию своих паролей, способов оплаты и куков.
+turn-on-scheduled-backups-encryption-label = Создавать резервные копии конфиденциальных данных
+turn-on-scheduled-backups-encryption-description = Создавать зашифрованные резервные копии паролей, способов оплаты и куков.
 turn-on-scheduled-backups-encryption-create-password-label = Пароль
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Повторите пароль
@@ -101,8 +101,8 @@ restore-from-backup-description-with-metadata =
 restore-from-backup-support-link =
     .message = Что будет восстановлено?
 restore-from-backup-no-backup-file-link = Проблемы с поиском резервной копии?
-restore-from-backup-filepicker-label = Файл резервной копии
-restore-from-backup-filepicker-title = Выберите файл резервной копии:
+restore-from-backup-filepicker-label = Файл с резервной копией
+restore-from-backup-filepicker-title = Выберите файл с резервной копией:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Выбрать…
@@ -125,8 +125,8 @@ backup-service-error-incorrect-password = Неверный пароль. <a data
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself
 backup-service-error-corrupt-file =
-    .heading = Этот файл не работает
-    .message = Возникла проблема с вашим файлом резервной копии. Выберите другой файл и повторите попытку.
+    .heading = С этим файлом что-то не так
+    .message = Возникла проблема с вашим файлом с резервной копией. Выберите другой файл и повторите попытку.
 # The backup file cannot be restored. The currently running application may
 # be too old and may not support features in the backed up profile.
 # Alternatively, the backup file may be too old and some of the feature in
