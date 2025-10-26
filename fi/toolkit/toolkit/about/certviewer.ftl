@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Perustuspaikka
 certificate-viewer-locality = Sijainti
 certificate-viewer-location = Sijainti
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Lokin nimi
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Lokin tunnus
 certificate-viewer-method = Metodi
 certificate-viewer-modulus = Modulus

@@ -1484,6 +1484,13 @@ trustpanel-blocker-see-all = Näytä kaikki
 trustpanel-blocker-header =
     .title = Seurantasuojaukset sivustolle { $host }
 
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Ei suojattu
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 

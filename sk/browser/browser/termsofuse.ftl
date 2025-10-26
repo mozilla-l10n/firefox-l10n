@@ -11,6 +11,8 @@ existing-user-tou-message = <strong>Aktualizácia</strong> Zaviedli sme <a data-
 existing-user-tou-learn-more = Ďalšie informácie
 # Text for primary button
 existing-user-tou-accept = Prijať
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Aktualizovali sme naše <a data-l10n-name="privacy-notice-link">Vyhlásenie o ochrane osobných údajov</a>, aby odrážalo najnovšie funkcie vo { -brand-short-name(case: "loc") }.
 
 ## Existing User Terms of Use Spotlight
 

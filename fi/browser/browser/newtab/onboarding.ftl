@@ -478,6 +478,10 @@ sync-to-mobile-button-label = Synkronoi mobiililaitteeseen
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-koodi { -brand-product-name }in mobiiliversion lataamiseksi
 
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-close-button = Sulje
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Palauta varmuuskopiosta

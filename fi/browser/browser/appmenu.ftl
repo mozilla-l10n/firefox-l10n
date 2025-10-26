@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Käynnistä sähköpostimaskien hallint
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Suojaa toimintaasi verkossa
 appmenu-services-header = Omat palvelut
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Kokeile muita Mozillan suojaustyökaluja:
 appmenu-other-protection-header = Kokeile muita { -vendor-short-name }n suojaustyökaluja:
 
 ## Profiles panel

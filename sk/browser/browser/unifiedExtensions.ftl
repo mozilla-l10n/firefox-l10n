@@ -96,3 +96,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } rozšírení je zakázaných
         }
     .message = Niektoré z vašich rozšírení boli zakázané pre porušenie pravidiel Mozilly.
+unified-extensions-notice-safe-mode =
+    .message = Všetky rozšírenia boli deaktivované režimom riešenia problémov.
