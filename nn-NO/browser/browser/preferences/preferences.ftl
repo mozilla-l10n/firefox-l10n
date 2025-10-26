@@ -644,8 +644,8 @@ home-custom-homepage-bookmarks-button =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header2 = { -firefox-home-brand-name } Innhald
-home-prefs-content-description2 = Velg kva for innhald som du vil ha på { -firefox-home-brand-name }-skjermen din.
+home-prefs-content-header2 = { -firefox-home-brand-name }-innhald
+home-prefs-content-description2 = Vel kva for innhald som du vil ha på { -firefox-home-brand-name }-skjermen din.
 home-prefs-search-header =
     .label = Nettsøk
 home-prefs-search-header2 =
