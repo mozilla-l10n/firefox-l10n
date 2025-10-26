@@ -139,8 +139,8 @@ tabbrowser-confirm-close-windows-button =
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
-tabbrowser-confirm-close-tabs-with-key-title = Zavrieť okno a ukončiť { -brand-short-name }?
-tabbrowser-confirm-close-tabs-with-key-button = Ukončiť { -brand-short-name }
+tabbrowser-confirm-close-tabs-with-key-title = Zavrieť okno a ukončiť { -brand-short-name(case: "acc") }?
+tabbrowser-confirm-close-tabs-with-key-button = Ukončiť { -brand-short-name(case: "acc") }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Opýtať sa pred ukončením pomocou skratky { $quitKey }
@@ -151,11 +151,11 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Vyžadovať potvrdenie pred uk
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
-tabbrowser-confirm-close-warn-shortcut-title = Ukončiť { -brand-short-name } alebo zatvoriť aktuálnu kartu?
+tabbrowser-confirm-close-warn-shortcut-title = Ukončiť { -brand-short-name(case: "acc") } alebo zatvoriť aktuálnu kartu?
 tabbrowser-confirm-close-windows-warn-shortcut-button =
     { PLATFORM() ->
-        [windows] Ukončiť { -brand-short-name }
-       *[other] Ukončiť { -brand-short-name }
+        [windows] Ukončiť { -brand-short-name(case: "acc") }
+       *[other] Ukončiť { -brand-short-name(case: "acc") }
     }
 tabbrowser-confirm-close-tab-only-button = Zavrieť aktuálnu kartu
 
@@ -166,12 +166,12 @@ tabbrowser-confirm-open-multiple-tabs-title = Potvrdenie otvorenia
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
-        [one] Chystáte sa naraz otvoriť { $tabCount } kartu. Toto môže spomaliť { -brand-short-name } počas ich načítavania. Naozaj chcete pokračovať?
-        [few] Chystáte sa naraz otvoriť { $tabCount } karty. Toto môže spomaliť { -brand-short-name } počas ich načítavania. Naozaj chcete pokračovať?
-       *[other] Chystáte sa naraz otvoriť { $tabCount } kariet. Toto môže spomaliť { -brand-short-name } počas ich načítavania. Naozaj chcete pokračovať?
+        [one] Chystáte sa naraz otvoriť { $tabCount } kartu. Toto môže spomaliť { -brand-short-name(case: "acc") } počas ich načítavania. Naozaj chcete pokračovať?
+        [few] Chystáte sa naraz otvoriť { $tabCount } karty. Toto môže spomaliť { -brand-short-name(case: "acc") } počas ich načítavania. Naozaj chcete pokračovať?
+       *[other] Chystáte sa naraz otvoriť { $tabCount } kariet. Toto môže spomaliť { -brand-short-name(case: "acc") } počas ich načítavania. Naozaj chcete pokračovať?
     }
 tabbrowser-confirm-open-multiple-tabs-button = Otvoriť karty
-tabbrowser-confirm-open-multiple-tabs-checkbox = Upozorniť ma v prípade, že otvorenie viacerých kariet by mohlo spomaliť { -brand-short-name }
+tabbrowser-confirm-open-multiple-tabs-checkbox = Upozorniť ma v prípade, že otvorenie viacerých kariet by mohlo spomaliť { -brand-short-name(case: "acc") }
 
 ## Confirmation dialog for enabling caret browsing
 

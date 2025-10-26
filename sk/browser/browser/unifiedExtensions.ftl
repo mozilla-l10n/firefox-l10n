@@ -19,7 +19,7 @@ unified-extensions-empty-reason-extension-not-enabled = Máte nainštalované ro
 unified-extensions-empty-reason-zero-extensions-onboarding = Posuňte svoje prehliadanie na vyššiu úroveň pomocou rozšírení
 unified-extensions-empty-content-explain-enable2 = Povolíte ich v nastaveniach výberom možnosti “{ unified-extensions-manage-extensions.label }”.
 unified-extensions-empty-content-explain-manage2 = Spravovať ich môžete v nastaveniach výberom možnosti “{ unified-extensions-manage-extensions.label }”.
-unified-extensions-empty-content-explain-extensions-onboarding = Prispôsobte si { -brand-short-name } zmenou vzhľadu a fungovania alebo zvýšením súkromia a bezpečnosti.
+unified-extensions-empty-content-explain-extensions-onboarding = Prispôsobte si { -brand-short-name(case: "acc") } zmenou vzhľadu a fungovania alebo zvýšením súkromia a bezpečnosti.
 
 ## An extension in the main list
 

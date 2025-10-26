@@ -561,7 +561,7 @@ restored-from-backup-error-primary-button = Zavrieť
 
 onboarding-personalization-title = Prispôsobte si svoj zážitok z { -brand-short-name(case: "gen") }
 onboarding-personalization-subtitle = Odpovedzte na niekoľko otázok a my vám odporučíme funkcie a rozšírenia, ktoré vám pomôžu zlepšiť používanie { -brand-short-name(case: "gen") }.
-onboarding-personalization-use-case-title = Na čo budete používať { -brand-short-name }?
+onboarding-personalization-use-case-title = Na čo budete používať { -brand-short-name(case: "acc") }?
 onboarding-personalization-use-case-personal-option = Osobné použitie
 onboarding-personalization-use-case-school-option = Škola
 onboarding-personalization-use-case-work-option = Práca

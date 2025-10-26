@@ -8,7 +8,7 @@ troubleshoot-mode-window =
 start-troubleshoot-mode =
     .label = Otvoriť
 refresh-profile =
-    .label = Obnoviť { -brand-short-name }
+    .label = Obnoviť { -brand-short-name(case: "acc") }
 troubleshoot-mode-description = Tento režim aplikácie { -brand-short-name } vám pomôže s riešením problémov. Vaše rozšírenia a úpravy budú dočasne vypnuté.
 skip-troubleshoot-refresh-profile = Tento režim môžete preskočiť a skúsiť obnovenie prehliadača { -brand-short-name } do pôvodných nastavení.
 # Shown on the safe mode dialog after multiple startup crashes.

@@ -8,5 +8,5 @@ protocolhandler-mailto-os-handler-no-button = Teraz nie
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
-protocolhandler-mailto-handler-set = Používať <strong>{ -brand-short-name } na otvorenie služby { $url }</strong> zakaždým, keď kliknete na odkaz, ktorý otvorí váš e‑mail?
+protocolhandler-mailto-handler-set = Používať <strong>{ -brand-short-name(case: "acc") } na otvorenie služby { $url }</strong> zakaždým, keď kliknete na odkaz, ktorý otvorí váš e‑mail?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } otvorí { $url }</strong> zakaždým, keď kliknete na odkaz, ktorý odosiela e‑mailové správy.

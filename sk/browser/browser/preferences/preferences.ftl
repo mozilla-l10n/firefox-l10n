@@ -64,7 +64,7 @@ pane-experimental-description3 = Vyskúšajte naše experimentálne funkcie! Tie
 pane-experimental-reset =
     .label = Obnoviť predvolené nastavenia
     .accesskey = O
-help-button-label = Podpora pre { -brand-short-name }
+help-button-label = Podpora pre { -brand-short-name(case: "acc") }
 addons-button-label = Rozšírenia a témy vzhľadu
 focus-search =
     .key = f
@@ -77,8 +77,8 @@ do-not-track-removal2 =
 
 feature-enable-requires-restart = Aby bolo možné použiť túto funkciu, { -brand-short-name } musí byť reštartovaný.
 feature-disable-requires-restart = Aby bolo možné vypnúť túto funkciu, { -brand-short-name } musí byť reštartovaný.
-should-restart-title = Reštartovať { -brand-short-name }
-should-restart-ok = Reštartovať { -brand-short-name } teraz
+should-restart-title = Reštartovať { -brand-short-name(case: "acc") }
+should-restart-ok = Reštartovať { -brand-short-name(case: "acc") } teraz
 cancel-no-restart-button = Zrušiť
 restart-later = Reštartovať neskôr
 
@@ -145,7 +145,7 @@ startup-restore-windows-and-tabs =
 startup-windows-launch-on-login-profile-disabled =
     .message = Povoľte túto predvoľbu začiarknutím položky “{ profile-manager-use-selected.label }” v okne “Výber používateľského profilu”.
 windows-launch-on-login =
-    .label = Spustiť { -brand-short-name } automaticky po spustení počítača
+    .label = Spustiť { -brand-short-name(case: "acc") } automaticky po spustení počítača
     .accesskey = S
 windows-launch-on-login-disabled = Táto predvoľba bola v systéme Windows zakázaná. Ak to chcete zmeniť, navštívte stránku <a data-l10n-name="startup-link">Aplikácie pri spustení</a> v nastaveniach systému.
 windows-launch-on-login-profile-disabled = Povoľte túto predvoľbu začiarknutím položky “{ profile-manager-use-selected.label }” v okne “Výber používateľského profilu”.
@@ -300,7 +300,7 @@ preferences-web-appearance-override-warning = Váš výber farieb má prednosť 
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Témy vzhľadu { -brand-short-name(case: "gen") } môžete spravovať v okne <a data-l10n-name="themes-link">Správcu doplnkov</a>.
 preferences-contrast-control-header = Nastavenie kontrastu
-preferences-contrast-control-description = Webové stránky majú rôzne farby popredia a pozadia. Nakonfigurujte si { -brand-short-name } tak, aby používal rovnaké farby na webových stránkach pre ich lepšiu čitateľnosť.
+preferences-contrast-control-description = Webové stránky majú rôzne farby popredia a pozadia. Nakonfigurujte si { -brand-short-name(case: "acc") } tak, aby používal rovnaké farby na webových stránkach pre ich lepšiu čitateľnosť.
 preferences-contrast-control-use-platform-settings =
     .label = Automaticky (použiť systémové nastavenia)
     .accesskey = A
@@ -345,7 +345,7 @@ choose-browser-language-description = Vyberte si jazyk, v ktorom sa majú zobraz
 manage-browser-languages-button =
     .label = Vybrať alternatívy
     .accesskey = a
-confirm-browser-language-change-description = Ak chcete použiť tieto zmeny, reštartujte { -brand-short-name }
+confirm-browser-language-change-description = Ak chcete použiť tieto zmeny, reštartujte { -brand-short-name(case: "acc") }
 confirm-browser-language-change-button = Použiť a reštartovať
 translate-web-pages =
     .label = Prekladať webový obsah do iného jazyka
@@ -780,7 +780,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Zobrazovať návrhy vyhľadávania v súkromnom prehliadaní
 suggestions-addressbar-settings-generic2 = Zmeniť nastavenia návrhov v paneli s adresou
-search-suggestions-cant-show = Návrhy vyhľadávania nebudú zobrazené vo výsledkoch panela s adresou, pretože ste { -brand-short-name } nastavili tak, aby si nepamätal históriu.
+search-suggestions-cant-show = Návrhy vyhľadávania nebudú zobrazené vo výsledkoch panela s adresou, pretože ste { -brand-short-name(case: "acc") } nastavili tak, aby si nepamätal históriu.
 search-one-click-header2 = Skratky vyhľadávania
 search-one-click-desc = Vyberte ďalšie vyhľadávacie moduly, ktoré sa zobrazia v ponuke panela s adresou a vyhľadávacieho panela.
 search-choose-engine-column =
@@ -1326,7 +1326,7 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-nonsponsored-desc = Získajte návrhy z webu súvisiace s vaším vyhľadávaním.
 addressbar-locbar-suggest-sponsored-option =
     .label = Návrhy od sponzorov
-addressbar-locbar-suggest-sponsored-desc = Podporte { -brand-short-name } príležitostnými sponzorovanými návrhmi.
+addressbar-locbar-suggest-sponsored-desc = Podporte { -brand-short-name(case: "acc") } príležitostnými sponzorovanými návrhmi.
 # This string is used for a checkbox in the settings UI that opts the
 # user into "online" Firefox Suggest, allowing them to receive suggestions from
 # Mozilla's Merino server.
