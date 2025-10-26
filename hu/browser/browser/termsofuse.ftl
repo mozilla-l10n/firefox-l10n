@@ -11,6 +11,8 @@ existing-user-tou-message = <strong>Frissítés</strong> Bevezettük a { -brand-
 existing-user-tou-learn-more = További tudnivalók
 # Text for primary button
 existing-user-tou-accept = Elfogadás
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Frissítettük az <a data-l10n-name="privacy-notice-link">Adatvédelmi nyilatkozatot</a>, hogy tükrözze a { -brand-short-name } legújabb funkcióit.
 
 ## Existing User Terms of Use Spotlight
 

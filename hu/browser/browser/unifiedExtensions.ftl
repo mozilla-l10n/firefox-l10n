@@ -92,3 +92,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } kiegészítő letiltva
         }
     .message = Egyes kiegészítői a Mozilla irányelveinek megsértése miatt le lettek tiltva.
+unified-extensions-notice-safe-mode =
+    .message = A Hibaelhárítási mód letiltotta az összes kiegészítőt.

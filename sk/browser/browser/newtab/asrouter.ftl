@@ -243,6 +243,7 @@ set-default-pdf-handler-primary = Rozumiem
 annotations-default-pdf-handler-headline = Podpíšte sa na bodkovanú čiaru – alebo kdekoľvek inde!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Nakreslite, napíšte alebo nahrajte svoj podpis a potom ho umiestnite presne tam, kam chcete. Uložte si svoje obľúbené podpisy na nabudúce použitie.
+annotations-make-default-pdf-handler-title = Nastaviť { -brand-short-name(case: "acc") } ako predvolený editor PDF?
 annotations-make-default-pdf-handler-subtitle = K našim nástrojom budete mať prístup vždy, keď otvoríte PDF súbor.
 annotations-make-default-pdf-primary-cta =
     .label = Nastaviť ako predvolený
@@ -276,7 +277,7 @@ device-migration-fxa-spotlight-sync-primary-button = Poďme na to
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>Nastaviť { -brand-short-name } ako predvolenú čítačku súborov PDF?</strong> Pomocou { -brand-short-name(case: "gen") } môžete čítať a upravovať súbory PDF uložené vo vašom počítači.
+pdf-default-notification-message = <strong>Nastaviť { -brand-short-name(case: "acc") } ako predvolenú čítačku súborov PDF?</strong> Pomocou { -brand-short-name(case: "gen") } môžete čítať a upravovať súbory PDF uložené vo vašom počítači.
 pdf-default-notification-set-default-button =
     .label = Nastaviť ako predvolenú
 pdf-default-notification-decline-button =
@@ -284,9 +285,9 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>Otvoriť { -brand-short-name } pri každom reštartovaní počítača?</strong> Teraz môžete nastaviť, aby sa { -brand-short-name } automaticky spustil po reštartovaní zariadenia.
+launch-on-login-infobar-message = <strong>Otvoriť { -brand-short-name(case: "acc") } pri každom reštartovaní počítača?</strong> Teraz môžete nastaviť, aby sa { -brand-short-name } automaticky spustil po reštartovaní zariadenia.
 launch-on-login-learnmore = Ďalšie informácie
-launch-on-login-infobar-confirm-button = Áno, otvárať { -brand-short-name }
+launch-on-login-infobar-confirm-button = Áno, otvárať { -brand-short-name(case: "acc") }
     .accesskey = o
 launch-on-login-infobar-reject-button = Teraz nie
     .accesskey = T
@@ -294,7 +295,7 @@ launch-on-login-infobar-reject-button = Teraz nie
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
-launch-on-login-infobar-final-message = <strong>Otvoriť { -brand-short-name } pri každom reštartovaní počítača?</strong> Ak chcete spravovať predvoľby spustenia, vyhľadajte v nastaveniach výraz “spustenie”.
+launch-on-login-infobar-final-message = <strong>Otvoriť { -brand-short-name(case: "acc") } pri každom reštartovaní počítača?</strong> Ak chcete spravovať predvoľby spustenia, vyhľadajte v nastaveniach výraz “spustenie”.
 launch-on-login-infobar-final-reject-button = Nie, ďakujem
     .accesskey = N
 
@@ -312,7 +313,7 @@ tail-fox-spotlight-secondary-button = Teraz nie
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Staršie verzie { -brand-short-name(case: "gen") } môžu začať mať problémy 14. januára 2025.</strong>
-root-certificate-succession-infobar-march-message = <strong>Aktualizujte, aby ste { -brand-short-name } mohli používať aj po 14. marci 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Aktualizujte, aby ste { -brand-short-name(case: "acc") } mohli používať aj po 14. marci 2025.</strong>
 root-certificate-succession-infobar-link = Prečo by som mal aktualizovať?
 root-certificate-succession-infobar-primary-button =
     .label = Aktualizovať teraz
@@ -326,7 +327,7 @@ root-certificate-succession-infobar-secondary-button =
 root-certificate-windows-background-notification-title = Zmeškali ste dôležitú aktualizáciu { -brand-short-name(case: "gen") }
 root-certificate-windows-background-notification-subtitle = Ak neaktualizujete, časti prehliadača čoskoro prestanú fungovať. Teraz je skvelý čas získať naše najnovšiu ochranu a funkcie.
 root-certificate-windows-background-notification-learn-more-button = Ďalšie informácie
-root-certificate-windows-background-notification-update-button = Aktualizovať { -brand-short-name }
+root-certificate-windows-background-notification-update-button = Aktualizovať { -brand-short-name(case: "acc") }
 
 ## FxA Menu Message variants
 
@@ -337,14 +338,14 @@ fxa-menu-message-sign-up-button = Zaregistrujte sa
 fxa-menu-message-sign-in-button = Prihlásiť sa
 fxa-menu-message-sync-button = Spustiť synchronizáciu
 fxa-menu-message-sync-devices-primary-text = Synchronizujte všetky svoje zariadenia
-fxa-menu-message-sync-devices-secondary-text = Okamžite získajte svoje informácie – ako sú záložky a heslá – všade, kde používate { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text = Okamžite získajte svoje informácie – ako sú záložky a heslá – všade, kde používate { -brand-short-name(case: "acc") }.
 fxa-menu-message-sync-devices-secondary-text2 = Okamžite získajte svoje záložky, heslá a ďalšie – všade, kde ste prihlásení do { -brand-short-name(case: "gen") }.
 fxa-menu-message-sync-devices-collapsed-text = Synchronizujte všetky svoje zariadenia
 fxa-menu-message-backup-data-primary-text = Zálohujte si údaje prehliadača
 fxa-menu-message-backup-data-secondary-text = Automaticky chráňte záložky, heslá a ďalšie informácie na všetkých svojich zariadeniach.
 fxa-menu-message-backup-data-collapsed-text = Zálohujte údaje prehliadača
 fxa-menu-message-backup-sync-primary-text = Udržujte svoje údaje v bezpečí a synchronizované
-fxa-menu-message-backup-sync-secondary-text = Synchronizácia zálohuje väčšinu vašich údajov, takže k nim máte prístup všade, kde používate { -brand-short-name }.
+fxa-menu-message-backup-sync-secondary-text = Synchronizácia zálohuje väčšinu vašich údajov, takže k nim máte prístup všade, kde používate { -brand-short-name(case: "acc") }.
 fxa-menu-message-backup-sync-collapsed-text = Synchronizujte a zálohujte dáta
 fxa-menu-message-mobile-primary-text = Odošlite karty do telefónu
 fxa-menu-message-mobile-secondary-text = Vďaka synchronizácii kariet s mobilným zariadením okamžite pokračujte tam, kde ste prestali.
@@ -353,15 +354,15 @@ fxa-menu-message-mobile-collapsed-text = Synchronizujte s telefónom
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Vitajte späť
-multi-cta-fox-doodle-set-default-checkbox = Nastaviť { -brand-short-name } ako predvolený prehliadač
-multi-cta-fox-doodle-pin-startmenu-checkbox = Pripnúť { -brand-short-name } do ponuky Štart
+multi-cta-fox-doodle-set-default-checkbox = Nastaviť { -brand-short-name(case: "acc") } ako predvolený prehliadač
+multi-cta-fox-doodle-pin-startmenu-checkbox = Pripnúť { -brand-short-name(case: "acc") } do ponuky Štart
 multi-cta-fox-doodle-pin-checkbox =
     { PLATFORM() ->
-        [macos] Ponechať { -brand-short-name } v Docku
-       *[other] Pripnúť { -brand-short-name } na hlavný panel úloh
+        [macos] Ponechať { -brand-short-name(case: "acc") } v Docku
+       *[other] Pripnúť { -brand-short-name(case: "acc") } na hlavný panel úloh
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Poďme prehliadať
-multi-cta-fox-doodle-main-browser-primary-button-label = Nastaviť { -brand-short-name } ako môj hlavný prehliadač
+multi-cta-fox-doodle-main-browser-primary-button-label = Nastaviť { -brand-short-name(case: "acc") } ako môj hlavný prehliadač
 multi-cta-fox-doodle-quick-reminder-subtitle = Tu je rýchle pripomenutie, že svoj obľúbený prehliadač zameraný na ochranu súkromia si môžete ponechať jediným kliknutím.
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->

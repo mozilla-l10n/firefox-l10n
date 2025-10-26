@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Válasszon egy nevet, például „Munkahelyi” vagy „Személyes”
 new-profile-page-done-button =
     .label = Szerkesztés kész
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = A(z) { $profilename } példánya készen áll a testreszabásra
+copied-profile-page-header-description = Az adatait és beállításait egy új profilba másoltuk. Most adjon neki egy nevet, válasszon egy megjelenést, és szabja testre.
 profile-window-title-2 = { -brand-short-name } – Profil kiválasztása
 profile-window-logo =
     .alt = { -brand-short-name } logó

@@ -641,18 +641,32 @@ home-homepage-header = Kezdőlap
 
 home-custom-homepage-header = Egyéni kezdőlap
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Weboldalak címei
+home-custom-homepage-subheader = Webhelyek címei
 home-custom-homepage-address =
     .placeholder = Cím megadása
 home-custom-homepage-address-button =
     .label = Cím hozzáadása
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Még nincsenek webhelyek hozzáadva.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Csere erre:
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Jelenleg megnyitott oldalak
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Könyvjelzők…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } tartalom
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Válassza ki milyen tartalmat szeretne a { -firefox-home-brand-name } képernyőn.
 home-prefs-search-header =
     .label = Webes keresés
+home-prefs-search-header2 =
+    .label = Keresés
 home-prefs-shortcuts-header =
     .label = Gyorskeresők
 home-prefs-shortcuts-description = Mentett vagy felkeresett webhelyek
@@ -667,6 +681,9 @@ home-prefs-recommended-by-description-new = Kivételes tartalmak a { $provider }
 home-prefs-recommended-by-header-generic =
     .label = Ajánlott történetek
 home-prefs-recommended-by-description-generic = Kivételes tartalmak a { -brand-product-name } család válogatásában
+home-prefs-stories-header =
+    .label = Történetek
+home-prefs-stories-description = Személyre szabott történetek a tevékenysége alapján
 
 ##
 
@@ -705,6 +722,8 @@ home-prefs-support-firefox-header =
     .label = Támogassa a { -brand-product-name }ot
 home-prefs-mission-message = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk
 home-prefs-mission-message-learn-more-link = Tudja meg hogyan
+home-prefs-manage-topics-link = Témák kezelése
+home-prefs-choose-wallpaper-link = Válasszon egy háttérképet
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1249,6 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Címsáv
+addressbar-suggest-1 = Válassza ki a címsávban megjelenő javaslatokat
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Javaslatok a { -brand-short-name }tól és a partnereinktől a címsorban.
 addressbar-suggest = A címsáv használatakor jelenjen meg
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Címsor – { -firefox-suggest-brand-name }
@@ -1276,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Kedvenc oldalak
     .accesskey = K
+addressbar-locbar-engines-option-1 =
+    .label = Javaslatok a használandó keresőszolgáltatásokra
+    .accesskey = J
 addressbar-locbar-engines-option =
     .label = Keresőszolgáltatások
     .accesskey = K
@@ -1296,6 +1323,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Kapjon a kereséséhez kapcsolód�
 addressbar-locbar-suggest-sponsored-option =
     .label = Szponzorált javaslatok
 addressbar-locbar-suggest-sponsored-desc = A { -brand-short-name } támogatása az alkalmankénti szponzorált javaslatokkal
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Javaslatok lekérése a Mozillától gépelés közben
 addressbar-quickactions-learn-more = További tudnivalók
 addressbar-dismissed-suggestions-label = Elutasított javaslatok
 addressbar-restore-dismissed-suggestions-description = A szponzoroktól és a { -brand-short-name }tól származó elutasított javaslatok helyreállítása.
