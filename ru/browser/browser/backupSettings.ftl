@@ -19,16 +19,16 @@ backup-folder-name = Восстановить { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Резервная копия { -brand-product-name }
-settings-data-backup-header = Резервная копия
-settings-data-backup-toggle = Управление резервным копированием
+settings-data-backup-header = Резервное копирование
+settings-data-backup-toggle = Управлять резервным копированием
 settings-data-backup-toggle-on = Включить резервное копирование
 settings-data-backup-toggle-off = Отключить резервное копирование
 settings-data-backup-trigger-button = Создать резервную копию
 settings-data-backup-in-progress-button = Выполняется резервное копирование...
 settings-data-backup-in-progress-message =
-    .message = Выполняется резервное копирование...
+    .message = Выполняется резервное копирование…
 settings-data-backup-scheduled-backups-on = Резервное копирование: ВКЛЮЧЕНО
-settings-data-backup-scheduled-backups-off = Резервирование: ОТКЛЮЧЕНО
+settings-data-backup-scheduled-backups-off = Резервное копирование: ОТКЛЮЧЕНО
 settings-data-backup-scheduled-backups-description = Автоматически защищайте свои закладки, историю просмотра и другие данные. <a data-l10n-name="support-link">Подробнее</a>
 settings-data-backup-last-backup-date = Последняя резервная копия: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
