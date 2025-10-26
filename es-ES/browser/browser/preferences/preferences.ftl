@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $nam
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Para activar la extensión vaya a Complementos <img data-l10n-name="addons-icon"/> en el menú <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } controla algunas de las configuraciones de su página de inicio.
 
 ## Preferences UI Search Results
 
@@ -600,6 +603,7 @@ home-new-windows-tabs-description2 = Elige lo que ves cuando abres tu página de
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Página de inicio y ventanas nuevas
+home-homepage-mode-label2 = Nuevas ventanas
 home-newtabs-mode-label = Nuevas pestañas
 home-restore-defaults =
     .label = Restaurar ajustes predeterminados
@@ -612,6 +616,11 @@ home-mode-choice-blank =
     .label = Página en blanco
 home-homepage-custom-url =
     .placeholder = Pegar URL...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Gestionar extensión
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Elija un sitio específico
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,13 +635,38 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
+home-homepage-header = Página de inicio
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Página de inicio personalizada
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Dirección(es) del sitio web
+home-custom-homepage-address =
+    .placeholder = Introducir dirección
+home-custom-homepage-address-button =
+    .label = Añadir dirección
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = No hay sitios web añadidos todavía
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Reemplazar con
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Páginas abiertas actualmente
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Marcadores…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contenido de { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Seleccione el contenido que desea en la pantalla de inicio de { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Búsqueda web
+home-prefs-search-header2 =
+    .label = Buscar
 home-prefs-shortcuts-header =
     .label = Accesos directos
 home-prefs-shortcuts-description = Sitios que guarda o visita
@@ -647,6 +681,8 @@ home-prefs-recommended-by-description-new = Contenido excepcional seleccionado p
 home-prefs-recommended-by-header-generic =
     .label = Historias recomendadas
 home-prefs-recommended-by-description-generic = Contenido excepcional seleccionado por la familia { -brand-product-name }
+home-prefs-stories-header =
+    .label = Historias
 
 ##
 

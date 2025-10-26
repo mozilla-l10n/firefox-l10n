@@ -21,8 +21,12 @@ backup-folder-name = Restaurar { -brand-product-name }
 backup-file-name = CopiaDe{ -brand-product-name }
 settings-data-backup-header = Copia de seguridad
 settings-data-backup-toggle = Administrar copias de seguridad
+settings-data-backup-toggle-on = Activar copia de seguridad
+settings-data-backup-toggle-off = Desactivar copia de seguridad
 settings-data-backup-trigger-button = Hacer ahora copia de seguridad
 settings-data-backup-in-progress-button = Copia de seguridad en curso…
+settings-data-backup-in-progress-message =
+    .message = Copia de seguridad en curso…
 settings-data-backup-scheduled-backups-on = Copia de seguridad: ACTIVADA
 settings-data-backup-scheduled-backups-off = Copia de seguridad: DESACTIVADA
 settings-data-backup-scheduled-backups-description = Proteja automáticamente sus marcadores, historial y otros datos. <a data-l10n-name="support-link">Saber más</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } no se pudo restaurar
     .message = Reinicie { -brand-short-name } y trate de restaurar desde la copia de seguridad nuevamente.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, hubo un problema al realizar la copia de seguridad.
+    .message = Vuelva a intentarlo en unos minutos.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
