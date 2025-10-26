@@ -388,9 +388,9 @@ windows-10-eos-sync-toast-secondary-label = Pripomenúť neskôr
 
 windows-10-eos-challenger-callout-title = Ide o to, že { -brand-product-name } nie je predinštalovaný ako iné prehliadače od veľkých technologických spoločností.
 windows-10-eos-challenger-sync-callout-subtitle = Keď si zálohujete záložky a heslá vo { -brand-product-name(case: "loc") }, je jednoduchšie preniesť si vybraný prehliadač do ďalšieho zariadenia.
-windows-10-eos-challenger-pin-callout-subtitle = Pripnite si { -brand-shorter-name } na panel úloh, aby ste mali váš prehliadač vždy poruke, keď ho potrebujete.
-windows-10-eos-challenger-sync-primary-button = Zálohovať { -brand-shorter-name }
-windows-10-eos-challenger-pin-primary-button = Pripnúť { -brand-shorter-name }
+windows-10-eos-challenger-pin-callout-subtitle = Pripnite si { -brand-shorter-name(case: "acc") } na panel úloh, aby ste mali váš prehliadač vždy poruke, keď ho potrebujete.
+windows-10-eos-challenger-sync-primary-button = Zálohovať { -brand-shorter-name(case: "acc") }
+windows-10-eos-challenger-pin-primary-button = Pripnúť { -brand-shorter-name(case: "acc") }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokuje ťažbu kryptomien, sledovacie prvky sociálnych médií a odtlačkov prehliadača.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Sledovače nedokážu identifikovať vaše zariadenie ani vás sledovať na webe – pretože im to nedovolíme.
 windows-10-eos-sync-callout-privacy-screen-2-title = Zabezpečte si heslá a záložky pre ďalšie zariadenie.

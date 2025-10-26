@@ -89,6 +89,6 @@ contentanalysis-block-dialog-title-dropped-text = Nemáte oprávnenie pretiahnu�
 contentanalysis-block-dialog-body-dropped-text = Podľa pravidiel ochrany údajov vašej organizácie nemáte oprávnenie presúvať tento obsah myšou. Ďalšie informácie získate od svojho správcu.
 contentanalysis-block-dialog-title-print = Nemáte oprávnenie na tlač tohto dokumentu
 contentanalysis-block-dialog-body-print = Podľa pravidiel ochrany údajov vašej organizácie nemáte oprávnenie na tlač tohto dokumentu. Ďalšie informácie získate od svojho správcu.
-contentanalysis-inprogress-quit-title = Ukončiť { -brand-shorter-name }?
+contentanalysis-inprogress-quit-title = Ukončiť { -brand-shorter-name(case: "acc") }?
 contentanalysis-inprogress-quit-message = Prebiehajú viaceré akcie. Ak teraz { -brand-shorter-name(case: "acc") } ukončíte, tieto akcie nebudú dokončené.
 contentanalysis-inprogress-quit-yesbutton = Áno, ukončiť

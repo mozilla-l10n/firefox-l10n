@@ -10,7 +10,7 @@ menu-application-preferences =
 menu-application-services =
     .label = Služby
 menu-application-hide-this =
-    .label = Skryť { -brand-shorter-name }
+    .label = Skryť { -brand-shorter-name(case: "acc") }
 menu-application-hide-other =
     .label = Skryť ostatné
 menu-application-show-all =
@@ -34,7 +34,7 @@ menu-quit =
         }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
-    .label = Ukončiť { -brand-shorter-name }
+    .label = Ukončiť { -brand-shorter-name(case: "acc") }
 menu-about =
     .label = O aplikácii { -brand-shorter-name }
     .accesskey = O
