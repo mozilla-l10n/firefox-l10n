@@ -172,5 +172,8 @@ neterror-response-status-code = Kód chyby: { $responsestatus } { $responsestatu
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-neterror-connection-intro = { -brand-short-name } nedokáže vytvoriť zabezpečené pripojenie k serveru na adrese { $hostname }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Zdá sa, že táto stránka používa starý softvér so známymi bezpečnostnými problémami.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Uistite sa, že používate najnovšiu verziu { -brand-short-name(case: "gen") }. V ponuke prejdite na Pomocník > O aplikácii { -brand-short-name }. Ak používate najnovšiu verziu { -brand-short-name(case: "gen") }, problém je s najväčšou pravdepodobnosťou na samotnej stránke.

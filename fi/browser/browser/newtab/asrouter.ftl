@@ -230,6 +230,15 @@ fox-doodle-pin-secondary = Ei nyt
 set-default-pdf-handler-headline = <strong>PDF-tiedostot avataan nyt { -brand-short-name }issa.</strong> Muokkaa tai allekirjoita lomakkeita suoraan selaimessa. Muuttaksesi toimintaa, etsi asetuksista “PDF”.
 set-default-pdf-handler-primary = Selvä
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-handler-title = Tehdäänkö { -brand-short-name }ista oletusarvoinen PDF-editori?
+annotations-make-default-pdf-handler-subtitle = Pääset käyttämään työkalujamme aina, kun avaat PDF-tiedoston.
+annotations-make-default-pdf-primary-cta =
+    .label = Aseta oletukseksi
+annotations-make-default-pdf-next =
+    .label = Seuraava
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Uusi laite tulevaisuudessa?

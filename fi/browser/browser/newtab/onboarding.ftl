@@ -478,9 +478,36 @@ sync-to-mobile-button-label = Synkronoi mobiililaitteeseen
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-koodi { -brand-product-name }in mobiiliversion lataamiseksi
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Päivittämässä Windows 11:een?
+    Varmuuskopioidaan { -brand-product-name }-tietosi.
+create-backup-screen-1-subtitle = Suojaa salasanasi, kirjanmerkkisi ja muut tiedot automaattisesti 1–2 minuutissa.
+create-backup-screen-1-flair = Suositeltu
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Lue lisää</a>
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Helppo määritys
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Kirjanmerkit, historia, asetukset ja paljon muuta
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Ei sisällä salasanoja ja maksuja
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Ei salattu
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Minne haluat varmuuskopiosi tallennettavan?
+fx-backup-opt-in-header = Valitse tiedoston sijainti
+fx-backup-opt-in-create-password-label = Kirjoita salasana
+fx-backup-opt-in-confirm-btn-label = Jatka
+
 ## Fx Backup confirmation screen strings
 
+fx-backup-confirmation-screen-title = Varmuuskopiointi on ajastettu
 fx-backup-confirmation-screen-close-button = Sulje
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-3 = Salattu ja suojattu salasanalla
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -500,3 +527,12 @@ restored-from-backup-success-no-checklist-primary-button = Jatka
 restored-from-backup-error-title = Hmm, varmuuskopiotiedostossasi oli ongelma.
 restored-from-backup-error-subtitle = Jos sinulla on toinen { -brand-short-name }-varmuuskopiotiedosto, yritä palauttaa siitä. <a data-l10n-name="restore-problems">Onko ongelmia edelleen?</a>
 restored-from-backup-error-primary-button = Sulje
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Mukauta { -brand-short-name }-kokemustasi
+onboarding-personalization-motivation-title = Mitkä { -brand-short-name }in ominaisuudet ovat sinulle tärkeimpiä?
+onboarding-personalization-motivation-privacy-option = Tietosuoja ja turvallisuus
+onboarding-personalization-motivation-productivity-option = Tuottavuus
+onboarding-personalization-motivation-other-option = Muu

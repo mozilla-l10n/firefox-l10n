@@ -11,6 +11,12 @@
 unified-extensions-header-title = Laajennukset
 unified-extensions-manage-extensions =
     .label = Hallitse laajennuksia
+unified-extensions-discover-extensions =
+    .label = Löydä laajennuksia
+unified-extensions-empty-reason-private-browsing-not-allowed = Sinulla on asennettuna laajennuksia, mutta ne eivät ole käytössä yksityisissä ikkunoissa
+unified-extensions-empty-reason-extension-not-enabled = Sinulla on asennettuja laajennuksia, mutta ne eivät ole käytössä
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Nosta selaamisen tasoa laajennuksilla
 
 ## An extension in the main list
 

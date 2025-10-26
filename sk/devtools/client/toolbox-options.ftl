@@ -30,6 +30,10 @@ options-context-inspector = Prieskumník
 options-show-user-agent-styles-label = Zobraziť štýly prehliadača
 options-show-user-agent-styles-tooltip =
     .title = Povolením tejto možnosti zobrazíte predvolené štýly, ktoré sú načítavané prehliadačom
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Zobraziť tieňový DOM prehliadača
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Po zapnutí tejto možnosti sa zobrazia prvky tieňového DOMu, ktoré prehliadač spracováva.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Skrátené DOM atribúty
 options-collapse-attrs-tooltip =
@@ -145,3 +149,5 @@ options-source-maps-tooltip =
     .title = Ak túto voľbu zapnete, zdroje budú mapované v nástrojoch.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Len pre aktuálnu reláciu, opäť načíta obsah stránky
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (znovu načíta stránku)
