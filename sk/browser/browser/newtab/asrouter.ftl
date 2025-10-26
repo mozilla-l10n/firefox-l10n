@@ -120,7 +120,7 @@ cfr-doorhanger-doh-secondary-button = Zakázať
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videá na tejto stránke sa v tejto verzii { -brand-short-name(case: "gen") } nemusia prehrávať správne. Ak chcete získať úplnú podporu videa, aktualizujte prehliadač { -brand-short-name } na novšiu verziu.
-cfr-doorhanger-video-support-header = Ak chcete prehrať video, aktualizujte { -brand-short-name } na novšiu verziu
+cfr-doorhanger-video-support-header = Ak chcete prehrať video, aktualizujte { -brand-short-name(case: "acc") } na novšiu verziu
 cfr-doorhanger-video-support-primary-button = Aktualizovať teraz
     .accesskey = A
 
@@ -141,7 +141,7 @@ spotlight-public-wifi-vpn-link = Teraz nie
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Lepší internet začína u vás
-spotlight-better-internet-body = Keď používate { -brand-short-name }, hlasujete za otvorený a prístupný internet, ktorý je lepší pre všetkých.
+spotlight-better-internet-body = Keď používate { -brand-short-name(case: "acc") }, hlasujete za otvorený a prístupný internet, ktorý je lepší pre všetkých.
 spotlight-peace-mind-header = Kryjeme vás
 spotlight-peace-mind-body = Každý mesiac { -brand-short-name } zablokuje v priemere viac ako 3 000 sledovacích prvkov na jedného používateľa. Preto, aby medzi vami a dobrým internetom nestálo nič, najmä nie narúšanie súkromia a sledovanie.
 spotlight-pin-primary-button =
@@ -243,7 +243,6 @@ set-default-pdf-handler-primary = Rozumiem
 annotations-default-pdf-handler-headline = Podpíšte sa na bodkovanú čiaru – alebo kdekoľvek inde!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Nakreslite, napíšte alebo nahrajte svoj podpis a potom ho umiestnite presne tam, kam chcete. Uložte si svoje obľúbené podpisy na nabudúce použitie.
-annotations-make-default-pdf-handler-title = Nastaviť { -brand-short-name } ako predvolený editor PDF?
 annotations-make-default-pdf-handler-subtitle = K našim nástrojom budete mať prístup vždy, keď otvoríte PDF súbor.
 annotations-make-default-pdf-primary-cta =
     .label = Nastaviť ako predvolený

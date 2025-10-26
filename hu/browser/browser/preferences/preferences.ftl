@@ -113,6 +113,9 @@ extension-controlling-proxy-config = A(z) <img data-l10n-name ="icon"/> <strong>
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = A kiegészítő engedélyezéséhez ugorjon a <img data-l10n-name="addons-icon"/> Kiegészítőkhöz a <img data-l10n-name="menu-icon"/> menüben.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = A(z) { $name } vezérli a kezdőlap néhány beállítását.
 
 ## Preferences UI Search Results
 
@@ -600,6 +603,7 @@ home-new-windows-tabs-description2 = Válasszon hogy mit lásson, ha megnyitja a
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Kezdőlap és új ablakok
+home-homepage-mode-label2 = Új ablakok
 home-newtabs-mode-label = Új lapok
 home-restore-defaults =
     .label = Alapértelmezések visszaállítása
@@ -612,6 +616,11 @@ home-mode-choice-blank =
     .label = Üres lap
 home-homepage-custom-url =
     .placeholder = Illesszen be egy webcímet…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Kiegészítő kezelése
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Válasszon egy adott oldalt
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,6 +635,17 @@ use-current-pages =
 choose-bookmark =
     .label = Könyvjelző használata…
     .accesskey = n
+home-homepage-header = Kezdőlap
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Egyéni kezdőlap
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Weboldalak címei
+home-custom-homepage-address =
+    .placeholder = Cím megadása
+home-custom-homepage-address-button =
+    .label = Cím hozzáadása
 
 ## Home Section - Firefox Home Content Customization
 

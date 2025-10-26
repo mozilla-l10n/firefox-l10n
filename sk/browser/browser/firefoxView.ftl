@@ -61,7 +61,7 @@ firefoxview-tabpickup-sync-disconnected-header = Ak chcete pokračovať, zapnite
 firefoxview-tabpickup-sync-disconnected-description = Ak chcete získať svoje karty, musíte povoliť synchronizáciu v nastaveniach { -brand-short-name(case: "gen") }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Zapnite synchronizáciu v nastaveniach
 firefoxview-tabpickup-password-locked-header = Ak chcete zobraziť karty, zadajte svoje hlavné heslo
-firefoxview-tabpickup-password-locked-description = Ak chcete získať svoje karty, budete musieť zadať vaše hlavné heslo pre { -brand-short-name }.
+firefoxview-tabpickup-password-locked-description = Ak chcete získať svoje karty, budete musieť zadať vaše hlavné heslo pre { -brand-short-name(case: "acc") }.
 firefoxview-tabpickup-password-locked-link = Ďalšie informácie
 firefoxview-tabpickup-password-locked-primarybutton = Zadajte hlavné heslo
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Ďalšie informácie</a>

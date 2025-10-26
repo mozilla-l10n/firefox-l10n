@@ -110,17 +110,17 @@ addon-confirm-install-message =
     }
 addon-confirm-install-unsigned-message =
     { $addonCount ->
-        [one] Upozornenie: táto stránka sa do prehliadača { -brand-short-name } pokúša nainštalovať neoverený doplnok. Pokračujete na vlastné riziko.
-        [few] Upozornenie: táto stránka sa do prehliadača { -brand-short-name } pokúša nainštalovať { $addonCount } neoverené doplnky. Pokračujete na vlastné riziko.
-       *[other] Upozornenie: táto stránka sa do prehliadača { -brand-short-name } pokúša nainštalovať { $addonCount } neoverených doplnkov. Pokračujete na vlastné riziko.
+        [one] Upozornenie: táto stránka by chcela nainštalovať do { -brand-short-name(case: "gen") } doplnok, ktorý nie je overený. Pokračujete na vlastné riziko.
+        [few] Upozornenie: táto stránka by chcela nainštalovať { $addonCount } neoverené doplnky do { -brand-short-name(case: "gen") }. Pokračujte na vlastné riziko.
+       *[other] Upozornenie: táto stránka by chcela nainštalovať { $addonCount } neoverených doplnkov do { -brand-short-name(case: "gen") }. Pokračujte na vlastné riziko.
     }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message =
     { $addonCount ->
-        [one] Upozornenie: táto stránka sa do prehliadača { -brand-short-name } pokúša nainštalovať doplnok, ktorý nie je overený. Pokračujete na vlastné riziko.
-        [few] Upozornenie: táto stránka sa do prehliadača { -brand-short-name } pokúša nainštalovať { $addonCount } doplnky, niektoré z nich nie sú overené. Pokračujete na vlastné riziko.
-       *[other] Upozornenie: táto stránka sa do prehliadača { -brand-short-name } pokúša nainštalovať { $addonCount } doplnkov, niektoré z nich nie sú overené. Pokračujete na vlastné riziko.
+        [one] Upozornenie: táto stránka by chcela nainštalovať do { -brand-short-name(case: "gen") } doplnok, ktorý nie je overený. Pokračujete na vlastné riziko.
+        [few] Upozornenie: táto stránka by chcela nainštalovať { $addonCount } doplnky do { -brand-short-name(case: "gen") }, pričom niektoré z nich nie sú overené. Pokračujte na vlastné riziko.
+       *[other] Upozornenie: táto stránka by chcela nainštalovať { $addonCount } doplnkov do { -brand-short-name(case: "gen") }, pričom niektoré z nich nie sú overené. Pokračujte na vlastné riziko.
     }
 
 ## Add-on install errors

@@ -418,10 +418,10 @@ quickactions-cmd-savepdf2 = pdf, uložiť stránku
 quickactions-private2 = Otvoriť Súkromné okno
 quickactions-cmd-private = súkromné prehliadanie
 # Opens a SUMO article explaining how to refresh
-quickactions-refresh = Obnoviť { -brand-short-name }
+quickactions-refresh = Obnoviť { -brand-short-name(case: "acc") }
 quickactions-cmd-refresh = obnoviť
 # Restarts the browser
-quickactions-restart = Reštartovať { -brand-short-name }
+quickactions-restart = Reštartovať { -brand-short-name(case: "acc") }
 quickactions-cmd-restart = reštartovať
 # Opens the screenshot tool
 quickactions-screenshot3 = Urobiť snímku obrazovky
@@ -440,7 +440,7 @@ quickactions-themes = Spravovať témy
 quickactions-cmd-themes2 = témy, doplnky
 quickactions-cmd-themes = témy vzhľadu
 # Opens a SUMO article explaining how to update the browser
-quickactions-update = Aktualizovať { -brand-short-name }
+quickactions-update = Aktualizovať { -brand-short-name(case: "acc") }
 quickactions-cmd-update = aktualizovať
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Zobraziť zdrojový kód stránky
@@ -626,7 +626,7 @@ popup-all-windows-shared = Všetky okná viditeľné na vašej obrazovke budú z
 
 ## WebRTC window or screen share tab switch warning
 
-sharing-warning-window = Zdieľate { -brand-short-name }. Ostatní ľudia uvidia obsah každej karty, ktorú otvoríte.
+sharing-warning-window = Zdieľate { -brand-short-name(case: "acc") }. Ostatní ľudia uvidia obsah každej karty, ktorú otvoríte.
 sharing-warning-screen = Zdieľate celú svoju obrazovku. Ostatní ľudia uvidia obsah každej karty, ktorú otvoríte.
 sharing-warning-proceed-to-tab =
     .label = Prejsť na kartu

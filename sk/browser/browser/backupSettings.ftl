@@ -143,7 +143,7 @@ backup-service-error-unsupported-application =
 # Recovery from backup did not succeed. Potential causes could be file system
 # errors, internal code errors, decryption errors, etc.
 backup-service-error-recovery-failed =
-    .heading = { -brand-short-name } sa nepodarilo obnoviť
+    .heading = { -brand-short-name(case: "acc") } sa nepodarilo obnoviť
     .message = Reštartujte { -brand-short-name(case: "acc") } a skúste znova použiť zálohu.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
