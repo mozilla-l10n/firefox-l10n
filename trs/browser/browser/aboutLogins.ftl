@@ -166,6 +166,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Da’ nāgi’iát riña ga
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = Nāgi’iaj riña gayi’ìt sēsiûn na’nïn sà’t
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = Nātsij da’nga’ huì nū sà’a
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Da’ gīni’iājt riña si da'nga' huìt, gāchrūn si krēdenciât nga gayi’ìt Windows. Rugûñun’ūnj nan da’ dūguminj nej si kuendât.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -196,6 +199,10 @@ confirmation-dialog-dismiss-button =
     .title = Duyichin'
 about-logins-confirm-remove-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Nādurê’t da’nga’ huìi aj
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Na’hue gā’nïn nādurê’t sa huin ruhuât nan.
 about-logins-confirm-remove-dialog-confirm-button = Guxūn
 
 ## Variables
@@ -335,8 +342,13 @@ about-logins-import-dialog-error-title = Nū gūyunj
 about-logins-import-dialog-error-conflicting-values-title = Ûta ga'ì sa gire' guedâ ga'hue gāyi'ij.
 about-logins-import-dialog-error-conflicting-values-description = Daj run': ga'ì si yugui, da'ngà' huii, URLs, huin guenda gatu' riña aga' na.
 about-logins-import-dialog-error-file-format-title = Nitaj si hua hue'ej.
+about-logins-import-dialog-error-no-logins-imported = Huā nïn’ nu nāchīn nej riña gayi’ìt sēsiûn
 about-logins-import-dialog-error-learn-more = Gāhuin chrūn doj
+about-logins-import-dialog-error-try-import-again = Ginùn huin gā’nïnj ñûnt…
 about-logins-import-dialog-error-cancel = Dūyichin\'
+about-logins-import-report-title = Nuguan’ huā rayi’î sa ga’nïnt
+about-logins-import-report-description = Nej riña gayi’ìt sēsiûn nī nej da’nga’ huì ga’nïnt riña { -brand-short-name }.
+about-logins-import-report-description2 = Nej da’nga’ huì gan’ānj riña { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
