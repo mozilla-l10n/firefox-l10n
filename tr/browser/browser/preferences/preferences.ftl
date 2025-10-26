@@ -600,6 +600,7 @@ home-new-windows-tabs-description2 = Giriş sayfanızı, yeni pencereleri ve yen
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Giriş sayfası ve yeni pencereler
+home-homepage-mode-label2 = Yeni pencereler
 home-newtabs-mode-label = Yeni sekmeler
 home-restore-defaults =
     .label = Varsayılanları geri yükle
@@ -612,6 +613,9 @@ home-mode-choice-blank =
     .label = Boş sayfa
 home-homepage-custom-url =
     .placeholder = Adres yapıştır…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Uzantıyı yönet
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,10 +630,19 @@ use-current-pages =
 choose-bookmark =
     .label = Yer imi kullan…
     .accesskey = m
+home-homepage-header = Giriş sayfası
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Özel giriş sayfası
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Yer imleri…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } içerikleri
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = { -firefox-home-brand-name } ekranınızda görmek istediğiniz içerikleri seçin.
 home-prefs-search-header =
     .label = Web araması
@@ -647,6 +660,9 @@ home-prefs-recommended-by-description-new = { -brand-product-name } ailesinin bi
 home-prefs-recommended-by-header-generic =
     .label = Önerilen makaleler
 home-prefs-recommended-by-description-generic = { -brand-product-name } ailesinin seçtiği harika içerikler
+home-prefs-stories-header =
+    .label = Haberler
+home-prefs-stories-description = Etkinliğinize göre kişiselleştirilmiş haberler
 
 ##
 
@@ -685,6 +701,7 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } tarayıcısını destekleyin
 home-prefs-mission-message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
 home-prefs-mission-message-learn-more-link = Nasıl mı?
+home-prefs-manage-topics-link = Konuları yönet
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1229,6 +1246,8 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adres çubuğu
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Adres çubuğunu kullanırken şunları öner:
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adres çubuğu — { -firefox-suggest-brand-name }

@@ -21,8 +21,12 @@ backup-folder-name = { -brand-product-name } Geri Yukleme
 backup-file-name = { -brand-product-name }Yedek
 settings-data-backup-header = Yedekleme
 settings-data-backup-toggle = Yedeklemeyi yönet
+settings-data-backup-toggle-on = Yedeklemeyi etkinleştir
+settings-data-backup-toggle-off = Yedeklemeyi kapat
 settings-data-backup-trigger-button = Şimdi yedekle
 settings-data-backup-in-progress-button = Yedekleme devam ediyor…
+settings-data-backup-in-progress-message =
+    .message = Yedekleme devam ediyor…
 settings-data-backup-scheduled-backups-on = Yedekleme: AÇIK
 settings-data-backup-scheduled-backups-off = Yedekleme: KAPALI
 settings-data-backup-scheduled-backups-description = Yer imlerinizi, geçmişinizi ve diğer verilerinizi otomatik olarak koruyun. <a data-l10n-name="support-link">Daha fazla bilgi alın</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } geri yüklenemedi
     .message = { -brand-short-name } tarayıcısını yeniden başlatıp yedeğinizi tekrar geri yüklemeyi deneyin.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Yedekleme yapılırken bir sorun oluştu.
+    .message = Birkaç dakika sonra yeniden deneyin.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
