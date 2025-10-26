@@ -11,6 +11,8 @@ backup-folder-name = Възстановяване на { -brand-product-name }
 settings-data-backup-header = Резервни копия
 settings-data-backup-toggle = Управление на резервните копия
 settings-data-backup-toggle-on = Включване на резервните копия
+settings-data-backup-scheduled-backups-on = Архивиране: ВКЛЮЧЕНО
+settings-data-backup-scheduled-backups-off = Архивиране: ИЗКЛЮЧЕНО
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Местоположение
 settings-data-backup-last-backup-location-edit = Редактиране…
@@ -23,3 +25,19 @@ settings-data-backup-last-backup-filename = Име на файл: { $fileName }
 
 settings-data-backup-scheduled-backups-on-restore-choose = Възстановяване…
 settings-data-toggle-encryption-label = Архивирaне на вашите чувствителни данни
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Местоположение
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Избор…
+       *[other] Разглеждане…
+    }
+turn-on-scheduled-backups-encryption-label = Архивирaне на вашите чувствителни данни
+turn-on-scheduled-backups-cancel-button = Отказ
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-cancel-button = Отказ
