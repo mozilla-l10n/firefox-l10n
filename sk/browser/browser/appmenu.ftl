@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Spustiť informačný panel e‑mailov�
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Chráňte svoju online aktivitu
 appmenu-services-header = Moje služby
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Vyskúšajte ďalšie nástroje našu ochranu od Mozilly:
 appmenu-other-protection-header = Vyskúšajte ďalšie nástroje ochrany od { -vendor-short-name(case: "gen") }:
 
 ## Profiles panel

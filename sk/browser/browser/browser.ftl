@@ -1506,6 +1506,13 @@ trustpanel-blocker-see-all = Zobraziť všetko
 trustpanel-blocker-header =
     .title = Ochrana pred sledovaním pre { $host }
 
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Nezabezpečené
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 

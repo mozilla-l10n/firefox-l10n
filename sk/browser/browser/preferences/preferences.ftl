@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Ak chcete toto rozšírenie povoliť, prejdite do sekcie <img data-l10n-name="addons-icon"/> Doplnky v ponuku <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = Rozšírenie { $name } ovláda niektoré nastavenia vašej domovskej stránky.
 
 ## Preferences UI Search Results
 
@@ -603,6 +606,7 @@ home-new-windows-tabs-description2 = Vyberte si domovskú stránku a stránku zo
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Domovská stránka a nové okná
+home-homepage-mode-label2 = Nové okná
 home-newtabs-mode-label = Nové karty
 home-restore-defaults =
     .label = Obnoviť predvolené
@@ -615,6 +619,11 @@ home-mode-choice-blank =
     .label = Prázdna stránka
 home-homepage-custom-url =
     .placeholder = Zadajte URL adresu…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Spravovať rozšírenie
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Vyberte konkrétnu stránku
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -629,13 +638,38 @@ use-current-pages =
 choose-bookmark =
     .label = Použiť záložku…
     .accesskey = z
+home-homepage-header = Domovská stránka
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Vlastná domovská stránka
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Adresy webových stránok
+home-custom-homepage-address =
+    .placeholder = Zadajte adresu
+home-custom-homepage-address-button =
+    .label = Pridať adresu
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Zatiaľ neboli pridané žiadne webové stránky.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Nahradiť s
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Aktuálne otvorené stránky
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Záložky…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Obsah na { -firefox-home-brand-name(case: "loc") }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Zvoľte, aký obsah chcete mať dostupný na svojej { -firefox-home-brand-name(case: "loc") }.
 home-prefs-search-header =
     .label = Vyhľadávanie na webe
+home-prefs-search-header2 =
+    .label = Hľadať
 home-prefs-shortcuts-header =
     .label = Skratky
 home-prefs-shortcuts-description = Stránky, ktoré si uložíte alebo navštívite
@@ -650,6 +684,9 @@ home-prefs-recommended-by-description-new = Výnimočný obsah vybraný službou
 home-prefs-recommended-by-header-generic =
     .label = Odporúčané príbehy
 home-prefs-recommended-by-description-generic = Výnimočný obsah spravovaný rodinou { -brand-product-name }
+home-prefs-stories-header =
+    .label = Príbehy
+home-prefs-stories-description = Prispôsobené príbehy na základe vašej aktivity
 
 ##
 
@@ -688,6 +725,8 @@ home-prefs-support-firefox-header =
     .label = Podporiť { -brand-product-name }
 home-prefs-mission-message = Naši sponzori podporujú našu misiu budovať lepší web
 home-prefs-mission-message-learn-more-link = Pozrite sa ako
+home-prefs-manage-topics-link = Spravovať témy
+home-prefs-choose-wallpaper-link = Vyberte si tapetu
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

@@ -21,8 +21,12 @@ backup-folder-name = Obnovenie { -brand-product-name(case: "gen") }
 backup-file-name = Zaloha{ -brand-product-name(case: "gen") }
 settings-data-backup-header = Záloha
 settings-data-backup-toggle = Spravovať zálohovanie
+settings-data-backup-toggle-on = Zapnúť zálohovanie
+settings-data-backup-toggle-off = Vypnúť zálohovanie
 settings-data-backup-trigger-button = Zálohovať teraz
 settings-data-backup-in-progress-button = Prebieha zálohovanie…
+settings-data-backup-in-progress-message =
+    .message = Prebieha zálohovanie…
 settings-data-backup-scheduled-backups-on = Zálohovanie: zapnuté
 settings-data-backup-scheduled-backups-off = Zálohovanie: vypnuté
 settings-data-backup-scheduled-backups-description = Automaticky chráňte svoje záložky, históriu a ďalšie údaje. <a data-l10n-name="support-link">Ďalšie informácie</a>
@@ -141,6 +145,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } sa nepodarilo obnoviť
     .message = Reštartujte { -brand-short-name(case: "acc") } a skúste znova použiť zálohu.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, vyskytol sa problém so zálohovaním.
+    .message = Skúste to znova o pár minút.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
