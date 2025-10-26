@@ -107,6 +107,8 @@ about-logins-login-intro-heading-logged-out2 = Nana’huî’t nej riña gayi’
 about-logins-login-intro-heading-logged-in = Nu nari'ìj riña gayi'ìt sesiûn hua nuguan'àn
 login-intro-description = Si nari't riña gayi'ìt sesiôn riña { -brand-product-name } riña a'ngo aga'aj, ni ñuna ni'iaj daj gi'iát da' nari't riña aga' na.
 login-intro-instructions-fxa = Gīrī si nitāj nī gāyi’í sēsiûn riñan si { -fxaccount-brand-name } riñan aga’ nañûn sà’ daran’ nej sa ayi’ìt sēsiûn.
+about-logins-login-intro-heading-message = Nā’nïnj sà’ nej da’nga’ huìi riña huā huì doj
+login-intro-description2 = Daran’ nej da’nga’ huì na’nïn sà’t riña { -brand-product-name } nī huā arrán riña nū nej man. Dàdanj nī, màn ñûnj dugumîn ñûnj sisī huā sa ruhuâ gī’hiaj yī’ì nej man nī gātāj nan’ānj ñûnj gūnïnt. <a data-l10n-name="breach-alert-link">Gāhuin chrūn doj</a>
 login-intro-instructions-fxa-settings = Guīj riña Nāgi’hiô’ Nāgi’hiaj nūgun’ùn’ Nāchrūn sa nagi’hiaj nūguan’àan… Gūru’man ra’a riña tāj Nātsij riña ayi’ìt sēsiûn ngà nej da’nga’ huìi.
 login-intro-instructions-fxa-passwords-help = Gātū riñan <a data-l10n-name="passwords-help-link">nej sa nīkāj da’nga’ huìi</a> da’ nārì’t doj sa huā riña man.
 about-logins-intro-browser-only-import = Sisī nej riña gayi’ìt sesiûn nu sà’ riña a’ngô riña nana’uî’t, ga’ue <a data-l10n-name="import-link">duguachînt riña { -brand-product-name }</a>
@@ -115,6 +117,8 @@ about-logins-intro-import2 = Sisī nej riña gayì’ìt sēsiûn nu sà’ ne�
 ## Login
 
 login-item-new-login-title = Giri 'ngo sa gayi'ì sesiûn nakàa
+# Header for adding a password
+about-logins-login-item-new-login-title = Gūnutà’ a’ngô da’nga’ huìi
 login-item-edit-button = Nagi'iô'
 about-logins-login-item-remove-button = Guxūn
 login-item-origin-label = Si Direlsiûn Sîtio
@@ -129,9 +133,12 @@ login-item-copied-username-button-text = 'Ngà guxun'
 login-item-password-label = Da'nga' huìi
 login-item-password-reveal-checkbox =
     .aria-label = Digûn' da'nga huìi
+login-item-password-conceal-checkbox =
+    .aria-label = Gā’nïnj hùi da’nga’ huìi
 login-item-copy-password-button-text = Guxun' ni nachrun' a'ngô hiuj u
 login-item-copied-password-button-text = 'Ngà guxun'!
 login-item-save-changes-button = Na'nïnj sà' sa nadunât
+about-logins-login-item-save-changes-button = Nā'nïnj sà'
 login-item-save-new-button = Na'nïnj sà'
 login-item-cancel-button = Duyichin'
 
