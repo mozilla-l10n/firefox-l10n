@@ -24,8 +24,8 @@ crashreporter-submit-in-progress = Odosiela sa…
 crashreporter-submit-success = Správa bola úspešne odoslaná!
 crashreporter-submit-failure = Pri odosielaní správy sa vyskytol problém.
 crashreporter-resubmit-status = Opätovne sa odosielajú správy, ktoré sa predtým nepodarilo odoslať…
-crashreporter-button-quit = Ukončiť { -brand-short-name }
-crashreporter-button-restart = Reštartovať { -brand-short-name }
+crashreporter-button-quit = Ukončiť { -brand-short-name(case: "acc") }
+crashreporter-button-restart = Reštartovať { -brand-short-name(case: "acc") }
 crashreporter-button-ok = OK
 crashreporter-button-close = Zavrieť
 # $id (String) - the crash id from the server, typically a UUID

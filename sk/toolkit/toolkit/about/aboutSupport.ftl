@@ -157,7 +157,7 @@ troubleshoot-mode-title = Diagnostika problémov
 restart-in-troubleshoot-mode-label = Režim riešenia problémov…
 clear-startup-cache-title = Skúste vyčistiť vyrovnávaciu pamäť spustenia
 clear-startup-cache-label = Vymazať vyrovnávaciu pamäť spustenia…
-startup-cache-dialog-title2 = Reštartovať { -brand-short-name } a vyčistiť vyrovnávaciu pamäť spustenia?
+startup-cache-dialog-title2 = Reštartovať { -brand-short-name(case: "acc") } a vyčistiť vyrovnávaciu pamäť spustenia?
 startup-cache-dialog-body2 = Vaše nastavenia a nainštalované rozšírenia to nijako neovplyvní.
 restart-button-label = Reštartovať
 

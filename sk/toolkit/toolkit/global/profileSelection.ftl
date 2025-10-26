@@ -5,7 +5,7 @@
 profile-selection-window =
     .title = { -brand-short-name } – Výber používateľského profilu
 profile-selection-button-accept =
-    .label = Spustiť { -brand-short-name }
+    .label = Spustiť { -brand-short-name(case: "acc") }
 profile-selection-button-cancel =
     .label = Skončiť
 profile-selection-new-button =
@@ -17,7 +17,7 @@ profile-selection-rename-button =
 profile-selection-delete-button =
     .label = Odstrániť profil…
     .accesskey = d
-profile-selection-conflict-message = Iná kópia aplikácie { -brand-product-name } vykonala zmeny v profile. Pred vykonaním ďalších zmien musíte reštartovať { -brand-short-name }.
+profile-selection-conflict-message = Iná kópia aplikácie { -brand-product-name } vykonala zmeny v profile. Pred vykonaním ďalších zmien musíte reštartovať { -brand-short-name(case: "acc") }.
 
 ## Messages used in the profile manager
 
