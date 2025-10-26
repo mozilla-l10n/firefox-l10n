@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Bejegyzés helyszíne
 certificate-viewer-locality = Helység
 certificate-viewer-location = Hely
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Naplónév
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Naplóazonosító
 certificate-viewer-method = Módszer
 certificate-viewer-modulus = Modulus

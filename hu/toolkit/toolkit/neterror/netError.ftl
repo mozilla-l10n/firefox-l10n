@@ -167,3 +167,13 @@ certerror-coep-learn-more = Tudjon meg többet az eredetek közti beágyazási h
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Hibakód: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = A { -brand-short-name } nem tud biztonságos kapcsolatot létrehozni a(z) { $hostname } kiszolgálóval.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Úgy tűnik, hogy ez az oldal régi szoftvert használ, ismert biztonsági problémákkal.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Győződjön meg arról, hogy a { -brand-short-name } legfrissebb verzióját használja. Ugorjon a menü Súgó > A { -brand-short-name } névjegye menüpontjához. Ha a legfrissebb { -brand-short-name } verziót használja, akkor a probléma valószínűleg magával a webhellyel van.

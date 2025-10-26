@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Engedélyezés
 extensions-warning-imported-addons2 =
     .message = Véglegesítse a { -brand-short-name }ba importált kiegészítők telepítését.
 extensions-warning-imported-addons-button = Kiegészítők telepítése
+extensions-warning-safe-mode3 =
+    .message = A Hibaelhárítási mód letiltotta az összes kiegészítőt.
 
 ## Strings connected to add-on updates
 
