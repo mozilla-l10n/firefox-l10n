@@ -44,3 +44,16 @@ experimental-features-link-previews-description-no-ai =
         [macos] Që të mësoni më tepër mbi një faqe, para se të klikoni, kalojeni kursorin sipër një lidhjeje dhe shtypnni Shift + Alt (⇧) plus Option (⌥) ose Alt. Paraparjet mund të përfshijnë hollësi të tilla si titulli dhe kohë leximi. <a data-l10n-name="connect">Jepni përshtypje</a>
        *[other] Që të mësoni më tepër mbi një faqe, para se të klikoni, kalojeni kursorin sipër një lidhjeje dhe shtypnni Shift + Alt. Paraparjet mund të përfshijnë hollësi të tilla si titulli dhe kohë leximi. <a data-l10n-name="connect">Jepni përshtypje</a>
     }
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Shtoni sajte te paneli juaj i punëve
+
+## New Tab Productivity Widgets
+
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Kohëmatës në { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Ujdisni një kohëmatës, për t’ju mbajtur të përqendruar, për t’ju cytur të vazhdoni atje ku duhet, ose për t’ju kujtuar të rifreskoni veten. <a data-l10n-name="connect">Jepni përshtypje</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Lista dhe kohëmatës në { -firefox-home-brand-name }

@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Testim Dorazi
 about-glean-category-adhoc-testing = Testim “Ad Hoc”
 about-glean-category-profiler = Përdorim Profilizuesi
 about-glean-category-about-data = Mbi të Dhënat
+about-glean-category-metrics-table = Tabelë Matjesh
 about-glean-upload-enabled = Ngarkimi i të dhënave është aktivizuar.
 about-glean-upload-disabled = Ngarkimi i të dhënave është çaktivizuar.
 about-glean-upload-enabled-local = Ngarkimi i të dhënave është aktivizuar vetëm për dërgim te një shërbyes vendor.
@@ -138,6 +139,7 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Që të regjistroni një profil funksionimi dhe të shihni krejt matjet e
     regjistruara, ju lutemi, përdorni <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Krejt Matjet
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Kategori
 # This message refers to the name of a given metric.
@@ -149,9 +151,17 @@ about-glean-metrics-table-header-value = Vlerë
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Veprime
 about-glean-metrics-table-settings-button = Rregullime
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Rregullime Tabele Matjesh
 about-glean-metrics-table-settings-category-general = Të përgjithshme
+about-glean-metrics-table-settings-hide-empty-value-rows = Fshih rreshta vlerash të zbrazëta
+about-glean-metrics-table-settings-category-visualizations = Vizualizime
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Shembull
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Lartësi maksimum grafiku
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Lartësi maksimum për ripërmasim
 about-glean-metrics-table-settings-category-visualizations-timeline = Rrjedhë kohore
 about-glean-metrics-table-settings-timelines-height = Lartësi
 about-glean-metrics-table-settings-timelines-width = Gjerësi
@@ -159,11 +169,36 @@ about-glean-metrics-table-settings-timelines-width = Gjerësi
 about-glean-metrics-table-settings-timelines-circle-radius = Rreze rrethi
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtër
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Kjo do filtrojë tabelën më poshtë bazuar në kategori, emra, lloje dhe vlera (nëse vlera është një lloj i thjeshtë).
+about-glean-button-load-all = Ngarko Krejt Vlerat
 about-glean-button-load-value = Ngarko
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Dokumentim
+about-glean-button-watch = Mbikëqyreni
+# Meaning "to stop watching"
+about-glean-button-unwatch = Ndale mbikëqyrjen
+about-glean-no-data-to-display = S’ka të dhëna për shfaqje.
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Te pamja <code>about:glean</code> s’mbulohen ende matje me etiketa.
+about-glean-unknown-metric-type-warning = Lloj i panjohur matjeje.
+about-glean-enable-new-features-promo =
+    .message = Po punojmë për shtim veçorish të reja! Janë ende në zhvillim aktiv, po klikoni butonin e këtushëm të veprimeve, nëse doni t’i aktivizoni.
+    .heading = Po vijnë veçori të reja!
 about-glean-enable-new-features-button = Aktivizo veçori të reja
 about-glean-disable-new-features-button = Çaktivizo veçori të reja
 about-glean-about-data-explanation =
     Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Pingje të Brendshëm
+about-glean-ping-list-optgroup-custom =
+    .label = Pingje Vetjakë
