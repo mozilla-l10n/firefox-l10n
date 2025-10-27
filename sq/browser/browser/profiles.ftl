@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Zgjidhni një emër, fjala vjen, “Pune”, ose “Personal”
 new-profile-page-done-button =
     .label = Mbaroi përpunimi
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Kopja juaj e { $profilename } është gati për ta përshtatur
+copied-profile-page-header-description = Kopjuam në një profil të ri të dhënat tuaja dhe rregullimet. Tani jepini një emër, zgjidhni një pamje dhe bëjeni tuajin.
 profile-window-title-2 = { -brand-short-name } - Zgjidhni një profil
 profile-window-logo =
     .alt = Stemë e { -brand-short-name }-it
@@ -145,6 +149,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Rregullimet për grumbullim të dhënash ndryshuan.</strong> Ndryshimet e bëra te një tjetër profil vlejnë për krejt profilet në këtë pajisje.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Shihni rregullime
 # Secondary button label to dismiss the infobar without action
@@ -156,6 +162,11 @@ book-avatar-alt =
     .alt = Libër
 briefcase-avatar-alt =
     .alt = Dosje
+picture-avatar-alt =
+    .alt = Foto
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Artizanat
 flower-avatar-alt =
     .alt = Lule
 folder-avatar-alt =
@@ -179,15 +190,28 @@ musical-note-avatar-alt =
     .alt = Notë muzikore
 palette-avatar-alt =
     .alt = Paletë
+paw-print-avatar-alt =
+    .alt = Putër
+plane-avatar-alt =
+    .alt = Avion
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Dhuratë
 shopping-avatar-alt =
     .alt = Shportë blerjesh
+sparkle-single-avatar-alt =
+    .alt = Xixë
 star-avatar-alt =
     .alt = Yll
+video-game-controller-avatar-alt =
+    .alt = Konsolë lojërash video
 custom-avatar-alt =
     .alt = Avatar i përshtatur
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
+barbell-avatar-alt =
+    .alt = Shtangë
 
 ## Tooltips for default avatar icons
 
@@ -202,4 +226,69 @@ star-avatar = Yll
 custom-avatar-crop-back-button =
     .aria-label = Mbrapsht
 profiles-appmenu-callout-tour-title = Profili juaj i ri është gati
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = Te menuja ☰, prekni emrin e profilit tuaj, që të prodhoni një të ri, të përpunoni këtë të tanishmin, ose të hidheni sa nga njëra jetë e juaj dixhitale në tjetrën.
 profiles-appmenu-callout-tour-primary-button = Tregomëni se si
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Apliko avatarin shtangë
+bike-avatar-tooltip =
+    .tooltiptext = Apliko avatarin biçikletë
+book-avatar-tooltip =
+    .tooltiptext = Apliko avatarin libër
+briefcase-avatar-tooltip =
+    .tooltiptext = Apliko avatarin çantë dokumentesh
+picture-avatar-tooltip =
+    .tooltiptext = Apliko avatarin fotografi
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Apliko avatarin kopsë
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Apliko avatarin rruzull
+diamond-avatar-tooltip =
+    .tooltiptext = Apliko avatarin diamant
+flower-avatar-tooltip =
+    .tooltiptext = Apliko avatarin lule
+folder-avatar-tooltip =
+    .tooltiptext = Apliko avatarin dosje
+hammer-avatar-tooltip =
+    .tooltiptext = Apliko avatarin çekiç
+heart-avatar-tooltip =
+    .tooltiptext = Apliko avatarin zemër
+heart-rate-avatar-tooltip =
+    .tooltiptext = Apliko avatarin puls
+clock-avatar-tooltip =
+    .tooltiptext = Apliko avatarin sahat
+leaf-avatar-tooltip =
+    .tooltiptext = Apliko avatarin gjethe
+lightbulb-avatar-tooltip =
+    .tooltiptext = Apliko avatarin llambë
+makeup-avatar-tooltip =
+    .tooltiptext = Apliko avatarin makijazh
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Apliko avatarin mesazh
+musical-note-avatar-tooltip =
+    .tooltiptext = Apliko avatarin notë muzikore
+palette-avatar-tooltip =
+    .tooltiptext = Apliko avatarin paletë
+paw-print-avatar-tooltip =
+    .tooltiptext = Apliko avatarin gjurmë putre
+plane-avatar-tooltip =
+    .tooltiptext = Apliko avatarin avion
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Apliko avatarin dhuratë
+shopping-avatar-tooltip =
+    .tooltiptext = Apliko avatarin shportë
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Apliko avatarin top futbolli
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Apliko avatarin xixë
+star-avatar-tooltip =
+    .tooltiptext = Apliko avatarin yll
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Apliko avatarin konsolë lojërash video
