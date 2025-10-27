@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Lokalitas Perusahaan
 certificate-viewer-locality = Daerah
 certificate-viewer-location = Lokasi
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Nama Log
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID Log
 certificate-viewer-method = Metode
 certificate-viewer-modulus = Modulus

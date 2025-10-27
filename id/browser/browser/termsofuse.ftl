@@ -11,6 +11,8 @@ existing-user-tou-message = <strong>Pembaruan</strong> Kami telah memperkenalkan
 existing-user-tou-learn-more = Pelajari lebih lanjut
 # Text for primary button
 existing-user-tou-accept = Terima
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Kami telah memperbarui <a data-l10n-name="privacy-notice-link">Pemberitahuan Privasi</a> kami untuk mencerminkan fitur-fitur terbaru di { -brand-short-name }.
 
 ## Existing User Terms of Use Spotlight
 

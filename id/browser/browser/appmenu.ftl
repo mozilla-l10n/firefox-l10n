@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Luncurkan dasbor masker surel
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Lindungi aktivitas daring Anda
 appmenu-services-header = Layanan saya
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Coba alat perlindungan lain dari Mozilla:
 appmenu-other-protection-header = Coba alat perlindungan lain dari { -vendor-short-name }:
 
 ## Profiles panel
