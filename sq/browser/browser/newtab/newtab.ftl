@@ -315,6 +315,9 @@ newtab-custom-pocket-subtitle = Lëndë e jashtëzakonshme, në kujdesin e { -po
 newtab-custom-stories-toggle =
     .label = Histori të rekomanduara
     .description = Lëndë e veçantë, nën kujdesin e familjes { -brand-product-name }
+newtab-custom-stories-personalized-toggle =
+    .label = Histori
+newtab-custom-stories-personalized-checkbox-label = Histori të personalizuara, bazuar në veprimtarinë tuaj
 newtab-custom-pocket-sponsored = Histori të sponsorizuara
 newtab-custom-pocket-show-recent-saves = Shfaq të ruajturat së fundi
 newtab-custom-recent-title = Veprimtari së fundi
@@ -532,6 +535,9 @@ newtab-topic-selection-button-pick-interests = Zgjidhni interesat tuaja
 newtab-section-follow-button = Ndiqe
 newtab-section-following-button = Po e Ndiqni
 newtab-section-unfollow-button = Hiqi Ndjekjen
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Përimtoni prurjen tuaj
+newtab-section-follow-highlight-subtitle = Ndiqni interesat tuaja, që të shihni më tepër gjëra nga ato që pëlqeni.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -566,6 +572,7 @@ newtab-custom-wallpaper-cta = Provojeni
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Zgjidhni një sfond, për ta bërë { -brand-product-name }-in si e doni
 newtab-new-user-custom-wallpaper-cta = Provojeni tani
 
 ## Strings for download mobile highlight
@@ -581,6 +588,7 @@ newtab-download-mobile-highlight-image =
 ## Strings for shortcuts highlight
 
 newtab-shortcuts-highlight-title = Të parapëlqyerat tuaja në majë të gishtave
+newtab-shortcuts-highlight-subtitle = Shtoni një shkurtore, për t’i mbajtur sajtet e parapëlqyer vetëm një klikim larg.
 
 ## Strings for reporting ads and content
 
@@ -638,6 +646,7 @@ newtab-widget-lists-menu-hide = Fshihi krejt listat
 newtab-widget-lists-menu-learn-more = Mësoni më tepër
 newtab-widget-lists-input-add-an-item =
     .placeholder = Shtoni një objekt
+newtab-widget-lists-input-error = Ju lutemi, që të shtohet një objekt, përfshini tekst.
 newtab-widget-lists-input-menu-open-link = Hape lidhjen
 newtab-widget-lists-input-menu-move-up = Ngjite sipër
 newtab-widget-lists-input-menu-move-down = Zbrite poshtë
@@ -658,6 +667,8 @@ newtab-widget-lists-name-placeholder-new =
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Kohëmatës
+newtab-widget-timer-notification-focus = Koha për i përqendruar mbaroi. Punë e paqme. Ju duhet një pushim?
+newtab-widget-timer-notification-break = Pushimi juaj përfundoi. Gati për t’u përqendruar?
 newtab-widget-timer-notification-warning = Njoftimet janë të çaktivizuara
 newtab-widget-timer-mode-focus =
     .label = Vëmendje
@@ -673,7 +684,10 @@ newtab-widget-timer-menu-notifications = Çaktivizoni njoftimet
 newtab-widget-timer-menu-notifications-on = Aktivizoni njoftimet
 newtab-widget-timer-menu-hide = Fshihe kohëmatësin
 newtab-widget-timer-menu-learn-more = Mësoni më tepër
+# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
+newtab-widget-keep-scrolling = Rrëshqitni për më tepër
 newtab-promo-card-title = Përkrahni { -brand-product-name }
+newtab-promo-card-body = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë
 newtab-promo-card-cta = Mësoni më tepër
 newtab-promo-card-dismiss-button =
     .title = Hidhe tej
