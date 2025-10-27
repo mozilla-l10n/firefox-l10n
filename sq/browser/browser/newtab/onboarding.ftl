@@ -471,10 +471,13 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Mësoni më tepër</a>
+create-backup-screen-1-sync-label = Njëkohësoje me { -brand-product-name }-in
 create-backup-select-tile-button-label = Përzgjidhe
 create-backup-back-button-label = Mbrapsht
 create-backup-show-fewer =
     .label = Shfaq më pak të tilla
+create-backup-screen-2-subtitle = Zgjat vetëm një minutë. Të dhënat tuaja kopjeruhen një herë në ditë.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Ujdisje e kollajtë
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
@@ -491,6 +494,8 @@ create-backup-screen-2-all-list-2 = Përfshin fjalëkalime dhe pagesa
 create-backup-screen-2-all-list-3 = Fshehtëzuar me një fjalëkalim
 # Title for a screen asking users to choose a file location
 create-backup-screen-3-location = Ku doni të ruhet kopjeruajtja juaj?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Krijoni një fjalëkalim kartele kopjeruajtjeje
 create-backup-screen-3-subtitle = I domosdoshëm për fshehtëzim të të dhënave tuaja. Depozitojeni në një vend që do ta mbani mend.
 fx-backup-opt-in-header = Zgjidhni vendndodhje kartele
 fx-backup-opt-in-create-password-label = Jepni fjalëkalimin
@@ -501,6 +506,10 @@ fx-backup-opt-in-cancel-btn-label = Mbrapsht
 
 fx-backup-confirmation-screen-title = Kopjeruajtja juaj është vënë në plan
 fx-backup-confirmation-screen-close-button = Mbylle
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-button = Mos e rikthe
 
 ## Restored from Backup spotlight
 

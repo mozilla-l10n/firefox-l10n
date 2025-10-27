@@ -375,19 +375,25 @@ windows-10-eos-sync-spotlight-primary-label = Bëni një kopjeruajtje të { -bra
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Po e përmirësoni me Windows 11? Mos humbni faqerojtës dhe fjalëkalime.
+windows-10-eos-sync-toast-subtitle = Kopjeruani të dhënat tuaja, që kështu { -brand-short-name }-i të jetë gati në çfarëdo kohe, në këtë PC, ose te pasuesi.
 windows-10-eos-sync-toast-primary-label = Fillojani
 windows-10-eos-sync-toast-secondary-label = Kujtoma më vonë
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-sync-callout-privacy-screen-2-title = Siguroni fjalëkalimet dhe faqerojtësit, për pajisjen tuaj pasuese.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Kopjeruajtja e { -brand-shorter-name }-it e bën të kollajtë të sillni me ju të dhënat tuaja dhe rregullimet për privatësinë.
 windows-10-eos-sync-callout-privacy-info-button = Shihni ç’është bllokuar
 windows-10-eos-callout-addons-title = Provoni shtesat: përmirësime të vockla, ndikim i madh
+windows-10-eos-callout-addons-subtitle = Këto zgjerime u zgjodhën për t’ju ndihmuar të mbeteni prodhimtar, i mbrojtur dhe pa shpërqendrim.
 windows-10-eos-callout-addons-primary-button = Shihni ç’kemi zgjedhur
 windows-10-eos-sync-callout-addons-title = Mos humbni shtesat tuaja, kur e përmirësoni që nga Windows 10.
+windows-10-eos-sync-callout-next-button = Pasuesja
 windows-10-eos-sync-callout-get-started-button = Fillojani
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Mbërritën skeda vertikale dhe grupe skedash!
 windows-10-eos-feature-toast-whats-new-button = Shihni ç’ka të re
 windows-10-eos-feature-toast-dismiss-button = Hidhe tej
 
@@ -399,5 +405,7 @@ windows-10-eos-feature-toast-dismiss-button = Hidhe tej
 ## to fix common site breakage by unblocking essential elements.
 
 etp-strict-exceptions-infobar-learn-more = Mësoni më tepër
+etp-strict-exceptions-infobar-button = Aplikoji ndreqjet
+    .accesskey = A
 etp-strict-exceptions-infobar-not-now = Jo tani
     .accesskey = J

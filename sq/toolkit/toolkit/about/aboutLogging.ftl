@@ -15,6 +15,7 @@ about-logging-set-log-file = Caktoni Kartelë Regjistër
 about-logging-set-log-modules = Caktoni Module Regjistrimi
 about-logging-start-logging = Filloje Regjistrimin
 about-logging-stop-logging = Ndal Regjistrimin
+about-logging-copy-as-url = Kopjoji rregullimet e tanishme si URL
 about-logging-buttons-disabled = Regjistrim i formësuar përmes ndryshoresh mjedisi, s’ka formësim dinamik.
 about-logging-some-elements-disabled = Regjistrim i formësuar përmes URL-je, s’mund të kihen disa mundësi formësimi
 about-logging-info = Hollësi:
@@ -27,6 +28,7 @@ about-logging-no-log-modules = Asnjë
 about-logging-no-log-file = Asnjë
 about-logging-logging-preset-selector-text = Paracaktim regjistrimi:
 about-logging-with-profiler-stacks-checkbox = Aktivizo “stack traces” pëer mesazhe regjistrimi
+about-logging-with-javascript-tracing-checkbox = Aktivizoni ndjekje JavaScript
 about-logging-menu =
     .title = Mundësi të mëtejshme
 
@@ -107,6 +109,8 @@ about-logging-save-error = Ndodhi një gabim teksa ruhej kartela: { $errorText }
 # Variables:
 #   $date (date) - The date and time when the profile was uploaded
 about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Profile të Ngarkuar
+about-logging-no-uploaded-profiles = S’janë ngarkuar ende profile.
 about-logging-delete-uploaded-profile = Fshije
 about-logging-view-uploaded-profile = Shihni Profilin
 about-logging-delete-profile-confirm-title = Fshini Profil
