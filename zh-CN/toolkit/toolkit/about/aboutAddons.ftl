@@ -167,6 +167,8 @@ extensions-warning-update-security-button = 启用
 extensions-warning-imported-addons2 =
     .message = 请完成安装导入至 { -brand-short-name } 的扩展。
 extensions-warning-imported-addons-button = 安装扩展
+extensions-warning-safe-mode3 =
+    .message = 所有附加组件都已被排障模式暂时禁用。
 
 ## Strings connected to add-on updates
 
