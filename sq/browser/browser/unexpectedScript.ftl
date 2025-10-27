@@ -15,6 +15,12 @@ unexpected-script-load-message-button-block =
     .label = Bllokoje
     .accesskey = B
 unexpected-script-load-title = Ngarkim Programthi të Papritur
+unexpected-script-load-detail-1-allow = { -brand-short-name }-i do të <strong>LEJOJË</strong> të ngarkohen programthe të papritur, të privilegjuar, përfshi një të tillë më poshtë. Kjo do ta bëjë instalimin tuaj të { -brand-short-name }-it <strong>më pak</strong> të siguruar.
+unexpected-script-load-detail-1-block = { -brand-short-name }-i do të <strong>BLLOKOJË</strong> të ngarkohen programthe të papritur, të privilegjuar, përfshi një të tillë më poshtë. Kjo do ta bëjë instalimin tuaj të { -brand-short-name }-it <strong>më tepër</strong> të siguruar.
+# In this text "the functionality" refers to whatever the unexpected script is doing.
+# Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
+# They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
+unexpected-script-load-detail-2 = Edhe nëse e lejoni këtë programth, ju lutemi, njoftojeni te { -vendor-short-name }, për të na ndihmuar të kuptojmë si dhe  pse u ngarkuar. <em>Pa këtë informacion, funksionimi do të dëmtohet në të ardhmen.</em>
 unexpected-script-load-report-checkbox =
     .label = Njoftojini { -vendor-short-name } URL-në e këtij programthi
 unexpected-script-load-email-checkbox =
@@ -24,3 +30,4 @@ unexpected-script-load-email-textbox =
     .aria-label = Jepni këtu email-in
 unexpected-script-load-more-info = Më Tepër Hollësi
 unexpected-script-load-learn-more = Mësoni Më Tepër
+unexpected-script-load-telemetry-disabled = Njoftimet janë të çaktivizuara, ngaqë Telemetria është e çaktivizuar te Rregullimet. Që të Njoftoni, aktivizoni Telemetrinë.
