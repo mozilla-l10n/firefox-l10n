@@ -177,6 +177,8 @@ heart-avatar-alt =
     .alt = Zemër
 heart-rate-avatar-alt =
     .alt = Puls
+clock-avatar-alt =
+    .alt = Sahat
 leaf-avatar-alt =
     .alt = Gjethe
 lightbulb-avatar-alt =
@@ -199,6 +201,8 @@ present-avatar-alt =
     .alt = Dhuratë
 shopping-avatar-alt =
     .alt = Shportë blerjesh
+soccer-ball-avatar-alt =
+    .alt = Top futbolli
 sparkle-single-avatar-alt =
     .alt = Xixë
 star-avatar-alt =
@@ -207,28 +211,65 @@ video-game-controller-avatar-alt =
     .alt = Konsolë lojërash video
 custom-avatar-alt =
     .alt = Avatar i përshtatur
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Rruzull
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamant
 barbell-avatar-alt =
     .alt = Shtangë
+bike-avatar-alt =
+    .alt = Biçikletë
 
 ## Tooltips for default avatar icons
 
 book-avatar = Libër
 briefcase-avatar = Dosje
+clock-avatar = Sahat
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Artizanat
+custom-avatar = Avatar i përshtatur
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamant
 flower-avatar = Lule
+folder-avatar = Dosje
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Rruzull
+hammer-avatar = Çekiç
 heart-avatar = Zemër
+heart-rate-avatar = Puls
+leaf-avatar = Gjethe
+lightbulb-avatar = Llambë
+makeup-avatar = Grim
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Mesazh
+musical-note-avatar = Notë muzikore
+palette-avatar = Paletë
+paw-print-avatar = Putër
 picture-avatar = Foto
+plane-avatar = Avion
+# Present refers to a gift box, not the current time period
+present-avatar = Dhuratë
 shopping-avatar = Shportë blerjesh
 soccer-ball-avatar = Top futbolli
+sparkle-single-avatar = Xixë
 star-avatar = Yll
+video-game-controller-avatar = Konsolë lojërash video
 custom-avatar-crop-back-button =
     .aria-label = Mbrapsht
+custom-avatar-crop-view =
+    .aria-label = Qeth pamje figure
+custom-avatar-crop-area =
+    .aria-label = Përimtoni zonë qethjeje
+custom-avatar-drag-handle =
+    .aria-label = Ripërmasoni zonë qethjeje
 profiles-appmenu-callout-tour-title = Profili juaj i ri është gati
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
 profiles-appmenu-callout-tour-subtitle = Te menuja ☰, prekni emrin e profilit tuaj, që të prodhoni një të ri, të përpunoni këtë të tanishmin, ose të hidheni sa nga njëra jetë e juaj dixhitale në tjetrën.
 profiles-appmenu-callout-tour-primary-button = Tregomëni se si
+barbell-avatar = Shtangë
+bike-avatar = Biçikletë
 
 ## Tooltips for default avatar icons
 

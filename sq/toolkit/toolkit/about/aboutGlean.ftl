@@ -162,6 +162,8 @@ about-glean-label-for-filter-metrics = Filtër
 about-glean-button-load-value = Ngarko
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Dokumentim
+about-glean-enable-new-features-button = Aktivizo veçori të reja
+about-glean-disable-new-features-button = Çaktivizo veçori të reja
 about-glean-about-data-explanation =
     Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.
