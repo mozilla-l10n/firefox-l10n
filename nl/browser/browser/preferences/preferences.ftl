@@ -1268,8 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresbalk
+addressbar-suggest-1 = Kies welke suggesties in uw adresbalk worden getoond
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Suggesties van { -brand-short-name } en onze partners in uw adresbalk.
 addressbar-suggest = Bij gebruik van de adresbalk, suggesties weergeven uit
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresbalk – { -firefox-suggest-brand-name }
