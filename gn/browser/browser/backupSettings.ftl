@@ -29,10 +29,13 @@ settings-data-backup-in-progress-message =
     .message = Ñeñongatujey oikóva…
 settings-data-backup-scheduled-backups-on = Ñongatujey: HENDÝVA
 settings-data-backup-scheduled-backups-off = Ñongatujey: OGUÉVA
+settings-data-backup-scheduled-backups-description = Emo’ã ijehegui nde rechaukaha, tembiasakue ha ambue mba’ekuaarã. <a data-l10n-name="support-link">Eikuaave</a>
+settings-data-backup-last-backup-date = Ñongatu jey ramovéva: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Tendaite
 settings-data-backup-last-backup-location-show-in-folder = Ehechauka marandurendápe
 settings-data-backup-last-backup-location-edit = Mbosako’i…
+settings-data-create-backup-error = Oiko jejavy eñongatu jey pyahúvo pe { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Marandurenda réra: { $fileName }

@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Emoñepyrũ ñanduti veve rovara’ãng
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Emo’ã ne rekoñemi ñandutípe
 appmenu-services-header = Mba’epytyvõrã
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Eiporu ambue tembiporu ñemo’ãha Mozilla mba’éva:
 appmenu-other-protection-header = Eiporu ambue tembiporu ñemo’ãrã { -vendor-short-name } rehegua:
 
 ## Profiles panel
