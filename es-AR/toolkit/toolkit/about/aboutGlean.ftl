@@ -164,11 +164,19 @@ about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
 about-glean-metrics-table-settings-histograms-chart-max = Altura máxima del gráfico
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = Altura máxima escalada
+about-glean-metrics-table-settings-histograms-box-padding = Relleno de las barras
+about-glean-metrics-table-settings-histograms-chart-padding = Relleno del gráfico
+about-glean-metrics-table-settings-histograms-left-padding = Relleno adicional a la izquierda
 about-glean-metrics-table-settings-category-visualizations-timeline = Línea de tiempo
 about-glean-metrics-table-settings-timelines-height = Altura
 about-glean-metrics-table-settings-timelines-width = Ancho
+about-glean-metrics-table-settings-timelines-chart-padding = Relleno del gráfico
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Radio del círculo
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Desplazamiento X del eje Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Desplazamiento Y del eje Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtro
 # This message sits alongside an input field, further describing its purpose.
@@ -187,7 +195,7 @@ about-glean-no-data-to-display = No hay datos para mostrar.
 about-glean-labeled-metric-warning = Las métricas etiquetadas todavía no están soportadas en la vista <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo de métrica desconocido.
 about-glean-enable-new-features-promo =
-    .message = ¡Estamos trabajando para agregar nuevas funciones! Todavía están en desarrollo activo, pero haga clic en el botón de acción si quieres habilitarlas.
+    .message = ¡Estamos trabajando para agregar nuevas funciones! Todavía están en desarrollo activo, pero haga clic en el botón de acción si quiere habilitarlas.
     .heading = ¡Ya llegan nuevas funciones!
 about-glean-enable-new-features-button = Habilitar nuevas funciones
 about-glean-disable-new-features-button = Deshabilitar nuevas funciones
