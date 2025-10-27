@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = 要启用该扩展，请从 <img data-l10n-name="menu-icon"/> 菜单打开 <img data-l10n-name="addons-icon"/> 附加组件页面。
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = “{ $name }”控制主页的部分设置。
 
 ## Preferences UI Search Results
 
@@ -609,6 +612,8 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = 管理扩展
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = 选择特定网站
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -666,6 +671,7 @@ home-prefs-recommended-by-header-generic =
 home-prefs-recommended-by-description-generic = 由 { -brand-product-name } 系列产品推荐的精选内容
 home-prefs-stories-header =
     .label = 文章
+home-prefs-stories-description = 根据您的阅读记录为您推荐文章
 
 ##
 
@@ -704,6 +710,8 @@ home-prefs-support-firefox-header =
     .label = 支持 { -brand-product-name }
 home-prefs-mission-message = 建设一个更好的互联网的使命，离不开我们赞助商的支持
 home-prefs-mission-message-learn-more-link = 了解其方式
+home-prefs-manage-topics-link = 管理主题
+home-prefs-choose-wallpaper-link = 选择壁纸
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

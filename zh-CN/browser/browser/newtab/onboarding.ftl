@@ -510,6 +510,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = 包含书签、历史记�
 fx-backup-confirmation-screen-easy-setup-item-text-2 = 已保存到您的设备
 fx-backup-confirmation-screen-easy-setup-item-text-3 = 不包含密码和付款信息
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = 可前往<a data-l10n-name="settings">设置</a>将敏感数据纳入备份。
+fx-backup-confirmation-screen-item-subtext-1 = 备份将在几分钟后开始，并且将每天进行一次。您可以在<a data-l10n-name="settings">设置</a>中检查进度。
 fx-backup-confirmation-screen-item-subtext-2 = 需要重新安装时，{ -brand-short-name } 将查找您的备份。
 
 ## Restore from Backup Flow about:welcome screens
