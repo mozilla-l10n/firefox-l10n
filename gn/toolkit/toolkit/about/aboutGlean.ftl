@@ -137,6 +137,14 @@ about-glean-metrics-table-header-type = Peteĩchagua
 about-glean-metrics-table-header-value = Tepykue
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Ñemongu’e
+about-glean-metrics-table-settings-button = Ñemboheko
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Emboheko tabla métrica
+about-glean-metrics-table-settings-category-general = Tuichakue
+about-glean-metrics-table-settings-hide-empty-value-rows = Eñomi tysýi tepykue nandi ndive
+about-glean-metrics-table-settings-category-visualizations = Jehechapyreita
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Techapyrã
 about-glean-metrics-table-settings-category-visualizations-histogram = Histograma
 about-glean-metrics-table-settings-category-visualizations-timeline = Oikovahína
 about-glean-metrics-table-settings-timelines-height = Yvategua
