@@ -147,3 +147,5 @@ options-source-maps-tooltip =
     .title = Mapear fontes nas ferramentas.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * somente na sessão atual, a página é recarregada
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (recarrega a página)
