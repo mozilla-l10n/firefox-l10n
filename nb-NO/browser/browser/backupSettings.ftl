@@ -80,3 +80,20 @@ turn-on-scheduled-backups-confirm-button = Slå på sikkerhetskopiering
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Det oppsto et problem med den valgte sikkerhetskopimappen. Velg en annen mappe og prøv på nytt.
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = Slå av sikkerhetskopiering?
+turn-off-scheduled-backups-description = Dette sletter også alle sikkerhetskopierte data. Det kan ikke angres.
+turn-off-scheduled-backups-support-link = Les mer
+turn-off-scheduled-backups-cancel-button = Avbryt
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Velg…
+       *[other] Bla gjennom…
+    }
+restore-from-backup-password-label = Passord
+restore-from-backup-cancel-button = Avbryt
