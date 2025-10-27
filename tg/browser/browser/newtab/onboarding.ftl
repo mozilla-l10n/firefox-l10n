@@ -480,6 +480,8 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-flair = Тавсияшуда
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Маълумоти бештар</a>
 create-backup-select-tile-button-label = Интихоб кардан
 create-backup-back-button-label = Ба қафо
 # Label for the "All data" backup option

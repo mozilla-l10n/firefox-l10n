@@ -624,12 +624,23 @@ choose-bookmark =
     .label = Истифодаи хатбарак…
     .accesskey = И
 
+## Custom Homepage subpage
+
+home-custom-homepage-address-button =
+    .label = Илова кардани нишонӣ
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Хатбаракҳо…
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Муҳтавои { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Интихоб кунед, ки кадом мавод бояд дар экрани асосии { -firefox-home-brand-name } нишон дода шавад.
 home-prefs-search-header =
     .label = Ҷустуҷӯ дар Интернет
+home-prefs-search-header2 =
+    .label = Ҷустуҷӯ
 home-prefs-shortcuts-header =
     .label = Миёнбурҳо
 home-prefs-shortcuts-description = Сомонаҳое, ки шумо нигоҳ медоред ё ба онҳо ворид мешавед
@@ -644,6 +655,9 @@ home-prefs-recommended-by-description-new = Муҳтавои мустасно а
 home-prefs-recommended-by-header-generic =
     .label = Ҳикояҳои тавсияшуда
 home-prefs-recommended-by-description-generic = Муҳтавои мустасно аз тарафи оилаи «{ -brand-product-name }» дастгирӣ карда мешавад
+home-prefs-stories-header =
+    .label = Ҳикояҳо
+home-prefs-stories-description = Ҳикояҳои фардӣ дар асоси фаъолияти шумо
 
 ##
 
@@ -682,6 +696,7 @@ home-prefs-support-firefox-header =
     .label = Дастгирӣ кардани «{ -brand-product-name }»
 home-prefs-mission-message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд
 home-prefs-mission-message-learn-more-link = Бифаҳмед, ки чӣ тавр
+home-prefs-manage-topics-link = Идоракунии мавзуъҳо
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

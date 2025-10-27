@@ -22,8 +22,11 @@ backup-file-name = Нусхаи эҳтиётии { -brand-product-name }
 settings-data-backup-header = Нусхаи эҳтиётӣ
 settings-data-backup-toggle = Идоракунии нусхаи эҳтиётӣ
 settings-data-backup-toggle-on = Фаъол кардани нусхаи эҳтиётӣ
+settings-data-backup-toggle-off = Хомӯш кардани нусхаи эҳтиётӣ
 settings-data-backup-trigger-button = Ҳозир нусхаи эҳтиётиро созед
 settings-data-backup-in-progress-button = Таҳияи нусхаи эҳтиётӣ дар ҳоли иҷро мебошад…
+settings-data-backup-in-progress-message =
+    .message = Таҳияи нусхаи эҳтиётӣ дар ҳоли иҷро мебошад…
 settings-data-backup-scheduled-backups-on = Нусхаи эҳтиётӣ: ФАЪОЛ
 settings-data-backup-scheduled-backups-off = Нусхаи эҳтиётӣ: ҒАЙРИФАЪОЛ
 # "Location" refers to the folder where backups are being written to.
@@ -50,6 +53,10 @@ settings-data-change-password = Иваз кардани ниҳонвожа…
 turn-on-scheduled-backups-header = Фаъол кардани нусхаи эҳтиётӣ
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Ҷойгиршавӣ
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (тавсия дода мешавад)
 turn-on-scheduled-backups-encryption-create-password-label = Ниҳонвожа
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Ниҳонвожаро такрор кунед
@@ -60,6 +67,10 @@ turn-on-scheduled-backups-confirm-button = Фаъол кардани нусха�
 
 turn-off-scheduled-backups-support-link = Маълумоти бештар
 turn-off-scheduled-backups-cancel-button = Бекор кардан
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-password-label = Ниҳонвожа
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -75,10 +86,26 @@ change-backup-encryption-header = Иваз кардани ниҳонвожаи �
 
 password-rules-header = Талаботи ниҳонвожа
 
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Тайёр!
+password-rules-a11y-warning =
+    .alt = Огоҳӣ
+
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-cancel-button = Бекор кардан
 disable-backup-encryption-confirm-button = Тоза кардани ниҳонвожа
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Чизе нодуруст иҷро шуд. Лутфан, аз нав кӯшиш кунед.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
