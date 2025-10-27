@@ -4,12 +4,17 @@
 
 unexpected-script-close-button =
     .aria-label = Mbylle
+# This string is used in the notification bar
+# Variables:
+#   $origin (string) - The top level domain the unexpected script was loaded from
+unexpected-script-load-message = <strong>{ -brand-short-name }-i ka pikasur një programth të papritur, të privilegjuar, te { $origin }</strong>
 unexpected-script-load-message-button-allow =
     .label = Lejoje
     .accesskey = L
 unexpected-script-load-message-button-block =
     .label = Bllokoje
     .accesskey = B
+unexpected-script-load-title = Ngarkim Programthi të Papritur
 unexpected-script-load-report-checkbox =
     .label = Njoftojini { -vendor-short-name } URL-në e këtij programthi
 unexpected-script-load-email-checkbox =
