@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Malfermi la panelon pri retpoŝtaj mask
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protektu vian retumon
 appmenu-services-header = Miaj servoj
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Provu aliajn protektajn ilojn de Mozilla:
 appmenu-other-protection-header = Testu aliajn protektajn ilojn de { -vendor-short-name }:
 
 ## Profiles panel

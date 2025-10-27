@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Aktivigi aŭtomatan plenigon de adresoj.
 policy-AutofillCreditCardEnabled = Aktivigi aŭtomatan plenigon de pagmetodoj.
 policy-AutoLaunchProtocolsFromOrigins = Difini liston de eksteraj protokoloj, kiuj povas esti uzitaj el la listigitaj originoj, sen demandi al la uzanto.
 policy-BackgroundAppUpdate2 = Aktivigi aŭ malaktivigi la fonan ĝisdatigilon.
+policy-Backup = Malaktivigi sekurkopiojn kaj restarigon de profilaj datumoj.
 policy-BlockAboutAddons = Bloki aliron al administrilo de aldonaĵoj (about:addons).
 policy-BlockAboutConfig = Bloki aliron al la paĝo about:config.
 policy-BlockAboutProfiles = Bloki aliron al la paĝo about:profiles.
