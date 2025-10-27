@@ -202,6 +202,9 @@ star-avatar-alt =
     .alt = Bintang
 custom-avatar-alt =
     .alt = Avatar ubahan
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Bola Dunia
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Berlian
@@ -226,3 +229,4 @@ heart-avatar = Hati
 heart-rate-avatar = Detak jantung
 shopping-avatar = Keranjang belanja
 star-avatar = Bintang
+bike-avatar = Sepeda

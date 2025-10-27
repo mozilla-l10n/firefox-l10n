@@ -21,8 +21,12 @@ backup-folder-name = Eguerujey { -brand-product-name }
 backup-file-name = { -brand-product-name }Ñongatujey
 settings-data-backup-header = Ñongatujey
 settings-data-backup-toggle = Ñongatujey ñangareko
+settings-data-backup-toggle-on = Emyandy ñongatujey
+settings-data-backup-toggle-off = Embogue ñongatujey
 settings-data-backup-trigger-button = Eñongatujey ko’ág̃a
 settings-data-backup-in-progress-button = Ñeñongatujey oikóva…
+settings-data-backup-in-progress-message =
+    .message = Ñeñongatujey oikóva…
 settings-data-backup-scheduled-backups-on = Ñongatujey: HENDÝVA
 settings-data-backup-scheduled-backups-off = Ñongatujey: OGUÉVA
 # "Location" refers to the folder where backups are being written to.
@@ -34,13 +38,20 @@ settings-data-backup-last-backup-location-edit = Mbosako’i…
 settings-data-backup-last-backup-filename = Marandurenda réra: { $fileName }
 settings-data-backup-restore-header = Erujey mba’ekuaarãita
 
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-choose = Eiporavo marandurenda ykekoha…
+
 ## These strings are shown under the header if scheduled backups are enabled.
 
 settings-data-backup-scheduled-backups-on-restore-choose = Mbojevyjey…
+settings-data-toggle-encryption-label = Eñengatu jey ne mba’ekuaarã ñemigua
 settings-data-toggle-encryption-support-link = Kuaave
+settings-data-change-password = Emoambue ñe’ẽñemi…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
+turn-on-scheduled-backups-header = Emyandy ñongatu jey
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Tendaite
 # Variables:
