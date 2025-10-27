@@ -148,9 +148,13 @@ about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
 about-glean-metrics-table-settings-histograms-chart-max = Grafiğin maksimum yüksekliği
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = Ölçeklenmiş maksimum yükseklik
+about-glean-metrics-table-settings-histograms-box-padding = Kutu padding’i
+about-glean-metrics-table-settings-histograms-chart-padding = Grafik padding’i
+about-glean-metrics-table-settings-histograms-left-padding = Ek sol padding’i
 about-glean-metrics-table-settings-category-visualizations-timeline = Zaman çizelgesi
 about-glean-metrics-table-settings-timelines-height = Yükseklik
 about-glean-metrics-table-settings-timelines-width = Genişlik
+about-glean-metrics-table-settings-timelines-chart-padding = Grafik padding’i
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Daire yarıçapı
 # Label displayed near an input field that can be used to filter metrics

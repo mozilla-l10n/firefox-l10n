@@ -145,3 +145,5 @@ options-source-maps-tooltip =
     .title = Bu seçeneği etkinleştirirseniz kaynaklar araçlarda eşlenecektir.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Yalnızca bu oturumda geçerli, sayfayı yeniden yükler
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (sayfayı tazeler)

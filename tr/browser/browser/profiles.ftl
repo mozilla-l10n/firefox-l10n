@@ -60,6 +60,9 @@ new-profile-page-input-placeholder =
     .placeholder = “İş” veya “Kişisel” gibi bir ad seçin
 new-profile-page-done-button =
     .label = Düzenlemeyi bitir
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = { $profilename } profil kopyanız özelleştirilmeye hazır
 profile-window-title-2 = { -brand-short-name } - Profilinizi seçin
 profile-window-logo =
     .alt = { -brand-short-name } logosu

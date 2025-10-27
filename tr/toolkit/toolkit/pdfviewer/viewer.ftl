@@ -644,6 +644,8 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Vazgeç
 
 pdfjs-editor-edit-comment-button =
     .title = Yorumu düzenle
+pdfjs-editor-add-comment-button =
+    .title = Yorum ekle
 
 ## Main menu for adding/removing signatures
 

@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> { -brand-shor
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Uzantıyı etkinleştirmek için <img data-l10n-name="menu-icon"/> menüdeki <img data-l10n-name="addons-icon"/> Eklentiler bölümüne gidin.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = Bazı giriş sayfası ayarlarınızı { $name } yönetiyor.
 
 ## Preferences UI Search Results
 
@@ -1275,6 +1278,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Sık kullanılanlar
     .accesskey = S
+addressbar-locbar-engines-option-1 =
+    .label = Kullanabileceğim arama motorlarını öner
+    .accesskey = u
 addressbar-locbar-engines-option =
     .label = Arama motorları
     .accesskey = m
@@ -1295,6 +1301,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Aramanızla ilgili web sitesi öne
 addressbar-locbar-suggest-sponsored-option =
     .label = Sponsorlardan öneriler
 addressbar-locbar-suggest-sponsored-desc = Ara sıra görünecek sponsorlu önerilerle { -brand-short-name } tarayıcınızı destekleyin.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Yazarken Mozilla’dan öneriler al
 addressbar-quickactions-learn-more = Daha fazla bilgi al
 addressbar-dismissed-suggestions-label = Kapatılan öneriler
 addressbar-restore-dismissed-suggestions-description = Sponsorlardan ve { -brand-short-name } tarayıcısından gelen kapatılmış önerileri geri getir.
