@@ -514,7 +514,9 @@ create-backup-screen-2-all-list-3 = Parolayla şifrelenmiş
 create-backup-screen-3-location = Yedeğinizi nereye kaydetmek istersiniz?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Yedek dosyası parolası oluştur
+create-backup-screen-3-subtitle = Verilerinizi şifrelemek için gereklidir. Unutmayacağınız bir yerde saklayın.
 fx-backup-opt-in-header = Dosya konumunu seçin
+fx-backup-opt-in-filepath-label = Yeni cihazınıza aktarmayı planladığınız bir yer (örn. OneDrive) seçin.
 fx-backup-opt-in-create-password-label = Parolayı girin
 fx-backup-opt-in-confirm-btn-label = İleri
 fx-backup-opt-in-cancel-btn-label = Geri
@@ -533,6 +535,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Yer imleri, geçmiş, aya
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Cihazınıza kaydedilecek
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Parolalar ve ödeme yöntemleri hariç
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Hassas verileri dahil etmek için <a data-l10n-name="settings">Ayarlar</a>’a gidin.
+fx-backup-confirmation-screen-item-subtext-1 = Yedeklemeniz birkaç dakika içinde başlayacak ve günde bir kere çalışacak. İlerlemeyi <a data-l10n-name="settings">Ayarlar</a>’dan kontrol edebilirsiniz.
 
 ## Restore from Backup Flow about:welcome screens
 

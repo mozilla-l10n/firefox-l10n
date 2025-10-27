@@ -30,6 +30,8 @@ options-context-inspector = Mbohekoha
 options-show-user-agent-styles-label = Kundaha rehegua jehechauka
 options-show-user-agent-styles-tooltip =
     .title = Emyandývo kóva ojehechaukáta ypykuéva rehegua kundaha omyanyhẽva.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Ehechauka DOM kundahára ãgua
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Tekome’ẽ DOM ñemboyke
 options-collapse-attrs-tooltip =
@@ -145,3 +147,5 @@ options-source-maps-tooltip =
     .title = Embojurujáramo ko poravopyrã, teñoiha ijehecháta tembiporúpe.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Tembiapo ag̃agua añónte, emyanyhẽjey kuatiarogue
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (emyanyhẽjey kuatiarogue)
