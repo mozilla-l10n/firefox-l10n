@@ -643,13 +643,25 @@ home-custom-homepage-address-button =
     .label = Embojuaju kundaharape
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ndaipóri ñanduti rogue mbojuajupyre.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Emyengovia kóvandi
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Kuatiarogue ijurujavahína
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Techaukahaita…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } Retepy
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Eiporavo mba’e retepýpa eipota { -firefox-home-brand-name } mba’erechahápe.
 home-prefs-search-header =
     .label = Ñandutípe jeheka
+home-prefs-search-header2 =
+    .label = Heka
 home-prefs-shortcuts-header =
     .label = Jeike pya’eha
 home-prefs-shortcuts-description = Tenda eñongatúva térã eikeha
@@ -664,6 +676,9 @@ home-prefs-recommended-by-description-new = Tetepy iporãva { $provider } oipora
 home-prefs-recommended-by-header-generic =
     .label = Tembiasakue momba’epyre
 home-prefs-recommended-by-description-generic = Tetepy oiporavóva { -brand-product-name } reheguáva
+home-prefs-stories-header =
+    .label = Tembiasakue
+home-prefs-stories-description = Tembiasakueita teéva ipyendáva ne rembiapóre
 
 ##
 
@@ -702,6 +717,8 @@ home-prefs-support-firefox-header =
     .label = Eipytyvõ { -brand-product-name }
 home-prefs-mission-message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue
 home-prefs-mission-message-learn-more-link = Eikuaa mba’éichapa
+home-prefs-manage-topics-link = Eñangareko témare
+home-prefs-choose-wallpaper-link = Eiporavo mba’erechaha rugua
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1246,6 +1263,8 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Kundaharape renda
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Eiporúramo kundaharape renda, eñemoñe’ẽ
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Kundaharape rupa — { -firefox-suggest-brand-name }

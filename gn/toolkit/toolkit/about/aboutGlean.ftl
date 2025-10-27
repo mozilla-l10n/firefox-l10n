@@ -137,6 +137,11 @@ about-glean-metrics-table-header-type = Peteĩchagua
 about-glean-metrics-table-header-value = Tepykue
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Ñemongu’e
+about-glean-metrics-table-settings-category-visualizations-histogram = Histograma
+about-glean-metrics-table-settings-category-visualizations-timeline = Oikovahína
+about-glean-metrics-table-settings-timelines-height = Yvategua
+about-glean-metrics-table-settings-timelines-width = Pekue
+about-glean-metrics-table-settings-timelines-chart-padding = Ta’ãnga myanyhẽha
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Mboguaha
 # This message sits alongside an input field, further describing its purpose.

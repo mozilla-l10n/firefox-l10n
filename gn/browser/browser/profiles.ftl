@@ -26,6 +26,7 @@ profile-card =
 default-profile-name = Mba’ete { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Mba’ete ha’etéva
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = Embosako’i mba’ete
 edit-profile-page-header = Embosako’i ne mba’ete
 edit-profile-page-profile-name-label = Mba’ete réra
