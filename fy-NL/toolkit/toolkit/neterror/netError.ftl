@@ -167,3 +167,13 @@ certerror-coep-learn-more = Mear ynfo oer Cross Origin Embedder-belied (COEP)
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Flaterkoade: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } kin gjin befeilige ferbining mei de server op { $hostname } oanmeitsje.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = It liket derop dat dizze website âlde software mei bekende befeiligingsproblemen brûkt.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Soargje derfoar dat jo de nijste ferzje fan { -brand-short-name } brûke. Gean yn it menu nei Help > Oer { -brand-short-name }. As jo de lêste { -brand-short-name } brûke, leit it probleem wierskynlik by de website sels.

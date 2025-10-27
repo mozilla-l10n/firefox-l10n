@@ -30,6 +30,10 @@ options-context-inspector = Inspector
 options-show-user-agent-styles-label = Browserstilen toane
 options-show-user-agent-styles-tooltip =
     .title = As jo dit ynskeakelje sille standert stilen toand wurde dy’t laden binne troch de browser.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Shadow DOM fan browser toane
+options-show-user-agent-shadow-dom-tooltip =
+    .title = As jo dit ynskeakelje, wurde Shadow DOM-eleminten toand dy’t troch de browser ferwurke wurde.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM-attributen ôfkappe
 options-collapse-attrs-tooltip =

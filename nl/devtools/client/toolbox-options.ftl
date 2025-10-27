@@ -30,6 +30,10 @@ options-context-inspector = Inspector
 options-show-user-agent-styles-label = Browserstijlen tonen
 options-show-user-agent-styles-tooltip =
     .title = Aanzetten hiervan toont standaardstijlen die door de browser worden geladen.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Shadow DOM van browser tonen
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Als u dit inschakelt, worden schaduw-DOM-elementen weergegeven die door de browser worden verwerkt.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM-attributen afkappen
 options-collapse-attrs-tooltip =
@@ -145,3 +149,5 @@ options-source-maps-tooltip =
     .title = Als u deze optie inschakelt, zullen bronnen in de hulpmiddelen worden toegewezen.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Alleen huidige sessie, vernieuwt de pagina
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (laadt de pagina opnieuw)

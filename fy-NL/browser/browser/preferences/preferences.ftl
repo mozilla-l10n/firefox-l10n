@@ -1268,8 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresbalke
+addressbar-suggest-1 = Kies hokker suggestjes yn jo adresbalke toand wurde
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Suggestjes fan { -brand-short-name } en ús partners yn jo adresbalke.
 addressbar-suggest = By gebrûk fan de adresbalke, suggestjes werjaan út
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresbalke – { -firefox-suggest-brand-name }
@@ -1297,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Topwebsites
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = Te brûken sykmasinen foar suggestjes
+    .accesskey = s
 addressbar-locbar-engines-option =
     .label = Sykmasinen
     .accesskey = y
@@ -1317,6 +1323,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Untfang suggestjes fan it web rela
 addressbar-locbar-suggest-sponsored-option =
     .label = Suggestjes fan sponsors
 addressbar-locbar-suggest-sponsored-desc = Stypje { -brand-short-name } mei sa no en dan sponsore suggestjes.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Suggestjes fan Mozilla ophelje wylst jo type
 addressbar-quickactions-learn-more = Mear ynfo
 addressbar-dismissed-suggestions-label = Sletten suggestjes
 addressbar-restore-dismissed-suggestions-description = Sletten suggestjes fan sponsors en { -brand-short-name } opnij ynstelle.

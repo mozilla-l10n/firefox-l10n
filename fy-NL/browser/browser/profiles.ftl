@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Kies in namme lykas ‘Wurk’ of ‘Persoanlik’
 new-profile-page-done-button =
     .label = Bewurkjen foltôge
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Jo eksimplaar fan { $profilename } is klear foar oanpassing
+copied-profile-page-header-description = Wy hawwe jo gegevens en ynstellingen nei in nij profyl kopiearre. Jou it no in namme, kies in uterlik en meitsje it jo eigen.
 profile-window-title-2 = { -brand-short-name } – Profyl kieze
 profile-window-logo =
     .alt = { -brand-short-name }-logo
