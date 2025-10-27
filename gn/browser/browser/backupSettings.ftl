@@ -187,6 +187,9 @@ backup-error-retry = Oĩvaicha osẽvaíva. Eha’ãjey ag̃amieve.
 ## default) within a folder labelled with the "backup-folder-name" string.
 
 backup-file-header = { -brand-short-name } oĩporãma erujey hag̃ua
+backup-file-title = Erujey { -brand-short-name }
+backup-file-path-label = Marandurenda ykekoha:
+backup-file-encryption-state-label = Papapypyre:
 backup-file-encryption-state-value-encrypted = Héẽ
 backup-file-encryption-state-value-not-encrypted = Nahániri
 backup-file-creation-device-label = Mba’e’oka:
@@ -194,4 +197,5 @@ backup-file-creation-date-label = Moheñoimbyre:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Mba’éicha erujeýta:
 backup-file-download-moz-browser-button = Mboguejy

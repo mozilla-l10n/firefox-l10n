@@ -11,6 +11,8 @@
 unified-extensions-header-title = Jepysokue
 unified-extensions-manage-extensions =
     .label = Eñangareko jepysokuére
+unified-extensions-discover-extensions =
+    .label = Eikuaa jepysokue
 
 ## An extension in the main list
 
