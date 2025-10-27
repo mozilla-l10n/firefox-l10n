@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Importoni nga Tjetër
 contextual-manager-passwords-command-import = Importoni prej një Kartele…
 contextual-manager-passwords-command-export = Eksporto fjalëkalime
 contextual-manager-passwords-command-remove-all = Hiqini tërë fjalëkalimet
+contextual-manager-passwords-command-options = Mundësi
 contextual-manager-passwords-command-settings = Rregullime
 contextual-manager-passwords-command-help = Ndihmë
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -152,6 +153,8 @@ contextual-manager-passwords-password-already-exists-error-button = Kalo te fjal
 contextual-manager-passwords-update-password-success-heading =
     .heading = Fjalëkalimi u ruajt
 contextual-manager-passwords-update-password-success-button = U bë
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Emri i përdoruesit u ruajt
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -198,17 +201,21 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = Shtoni emër përdoruesi
     .message = Shtoni një, që të hyni më shpejt.
 contextual-manager-passwords-add-username-button = Shtoni emër përdoruesi
+contextual-manager-passwords-title = Fjalëkalime
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Shtoni fjalëkalim
+contextual-manager-passwords-update-label =
+    .label = Përditësoni fjalëkalimin
 contextual-manager-passwords-edit-label =
     .label = Përpunoni fjalëkalimin
 contextual-manager-passwords-remove-label =
     .title = Hiqe fjalëkalimin
 contextual-manager-passwords-origin-tooltip = Jepni adresën e saktë ku do të bëni hyrjen në këtë sajt.
 contextual-manager-passwords-username-tooltip = Jepni emrin e përdoruesit, adresën email, ose numrin e llogarisë që përdorni për të bërë hyrjen.
+contextual-manager-passwords-password-tooltip-2 = Që të bëni hyrjen në këtë llogari, jepni fjalëkalimin.
 contextual-manager-passwords-password-tooltip = Jepni fjalëkalimin e përdorur për të bërë hyrjen në këtë llogari.
 
 ## Password Card
@@ -260,6 +267,24 @@ contextual-manager-view-alert-heading =
     .heading = Shihni sinjalizim
 contextual-manager-view-alert-button =
     .tooltiptext = Shqyrtoni sinjalizimin
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Shihni sinjalizim
+            [one] Shihni sinjalizim
+           *[other] Shihni sinjalizime
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Shqyrtoni sinjalizimin
+            [one] Shqyrtoni sinjalizimin
+           *[other] Shqyrtoni sinjalizimet
+        }
 contextual-manager-show-password-button =
     .aria-label = Shfaq Fjalëkalimin
     .title = Shfaq Fjalëkalimin
@@ -299,3 +324,4 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Po, hiqe fjalëkalimin
        *[other] Po, hiqi fjalëkalimet
     }
+contextual-manager-primary-password-learn-more-link = Mësoni më tepër

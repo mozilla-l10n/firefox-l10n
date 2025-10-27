@@ -371,6 +371,7 @@ quickactions-downloads2 = Shihni shkarkime
 quickactions-cmd-downloads = shkarkime
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administroni zgjerime
+quickactions-cmd-extensions2 = zgjerime, shtesa
 quickactions-cmd-extensions = zgjerime
 # Opens Firefox View
 quickactions-firefoxview = Hap { -firefoxview-brand-name }
@@ -776,6 +777,15 @@ urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> në {
 #       administrative divisions like a province or state.
 #   $country (String) - The name of the city's country.
 urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> në { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> në { $city }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -808,6 +818,16 @@ urlbar-result-dates-countdown =
         [one] { $name } · në { $daysUntilStart } ditë
        *[other] { $name } · në { $daysUntilStart } ditë
     }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · Sot
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Përfundon sot
 
 ## Strings used for buttons in the urlbar
 
@@ -1307,6 +1327,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Shfaq '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Shfaq “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1355,6 +1379,19 @@ trustpanel-description-enabled2 = Jeni i mbrojtur. Nëse vërejmë gjë, do t’
 trustpanel-header-enabled-insecure = Hapni sytë në këtë sajt
 trustpanel-description-enabled = Jeni i mbrojtur. Nëse vërejmë gjë, do t’ua bëjmë të ditur
 trustpanel-header-disabled = Keni mbyllur mbrojtjet
+trustpanel-privacy-link = Rregullime Privatësie
+trustpanel-clear-cookies-subview-button-clear = Spastroje
+trustpanel-clear-cookies-subview-button-cancel = Anuloje
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Mbrojtje lidhjeje për { $host }
+trustpanel-siteinformation-morelink = Më tepër hollësi sajti
+trustpanel-blocker-see-all = Shihini Krejt
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Mbrojtje nga gjurmimet për { $host }
 
 ## The urlbar trust icon & panel
 
@@ -1366,9 +1403,15 @@ urlbar-trust-icon-notsecure-label = Jo i Siguruar
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] <span>{ $count }</span> Gjurmues i bllokuar në këtë sajt
+       *[other] <span>{ $count }</span> Gjurmues të bllokuar në këtë sajt
+    }
 trustpanel-list-label-tracking-content = Lëndë gjurmimi
 trustpanel-list-label-fingerprinter =
     { $count ->
         [one] { $count } Krijues Shenjash Gishtash
        *[other] { $count } Krijues Shenjash Gishtash
     }
+trustpanel-tracking-content-tab-list-header = Këto sajte po rreken t’ju ndjekin:

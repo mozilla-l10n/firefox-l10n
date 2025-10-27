@@ -248,6 +248,9 @@ menu-profiles-manage-profiles =
     .label = Administroni profile
 menu-profiles-new-profile =
     .label = Profil i ri
+menu-profiles-menu =
+    .label = Profile
+    .accesskey = P
 
 ## Tools Menu
 
@@ -257,6 +260,9 @@ menu-tools =
 menu-tools-downloads =
     .label = Shkarkime
     .accesskey = a
+menu-tools-extensions-and-themes =
+    .label = Zgjerime dhe Tema
+    .accesskey = Z
 menu-tools-addons-and-themes =
     .label = Shtesa dhe Tema
     .accesskey = S

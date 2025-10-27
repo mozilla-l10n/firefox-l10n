@@ -102,6 +102,11 @@ perplexity-callout-primary-label = Pyetni Perplexity-në
 perplexity-callout-secondary-label-1 = Hidhe tej
 perplexity-callout-secondary-label-2 = E mora vesh
 
+## Account Adoption Passwords callout strings
+
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = Regjistrohuni
+
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-value-prop-callout-title = Shtojeni këtë faqe te paneli juaj i punëve

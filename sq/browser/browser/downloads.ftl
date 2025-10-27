@@ -183,6 +183,12 @@ downloads-history =
 downloads-details =
     .title = Hollësi Shkarkimi
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+downloads-private-browsing-accept-button =
+    .label = E mora vesh
+    .accesskey = v
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
