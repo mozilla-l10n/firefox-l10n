@@ -52,6 +52,7 @@ settings-data-change-password = Emoambue ñe’ẽñemi…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Emyandy ñongatu jey
+turn-on-scheduled-backups-support-link = ¿Mba’e pe ojeykekótava?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Tendaite
 # Variables:
@@ -63,6 +64,7 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Poravo…
        *[other] Kundaha…
     }
+turn-on-scheduled-backups-encryption-label = Eñengatu jey ne mba’ekuaarã ñemigua
 turn-on-scheduled-backups-encryption-create-password-label = Ñe’ẽñemi
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Emoingejey ñe’ẽñemi
@@ -74,15 +76,23 @@ turn-on-scheduled-backups-confirm-button = Emyandy ñongatujey
 turn-off-scheduled-backups-header = Embogue ñongatujey
 turn-off-scheduled-backups-support-link = Kuaave
 turn-off-scheduled-backups-cancel-button = Heja
+turn-off-scheduled-backups-confirm-button = Eipe’a ha embogue ñongatu jey
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Erujey mba’ekuaarãita
+restore-from-backup-support-link =
+    .message = ¿Mba’e pe ojeykekótava?
+restore-from-backup-no-backup-file-link = ¿Ne apañuái ejuhu hag̃ua ñongatu jey?
+restore-from-backup-filepicker-label = Marandurenda ykekoha
+restore-from-backup-filepicker-title = Eiporavo marandurenda ykekoha:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Poravo…
        *[other] Kundaha…
     }
 restore-from-backup-password-label = Ñe’ẽñemi
+restore-from-backup-password-description = Kóva ojoko’óta ne ñongatu jey ipapapýva.
 restore-from-backup-cancel-button = Heja
 restore-from-backup-restoring-button = Moĩporãjey…
 
