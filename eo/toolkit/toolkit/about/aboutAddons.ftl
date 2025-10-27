@@ -165,6 +165,8 @@ extensions-warning-update-security-button = Aktivigi
 extensions-warning-imported-addons2 =
     .message = Bonvolu fini la instalon de etendaĵoj, kiuj estis enportitaj en { -brand-short-name }.
 extensions-warning-imported-addons-button = Instali etendaĵojn
+extensions-warning-safe-mode3 =
+    .message = Ĉiuj aldonaĵoj estis malaktivigitaj de la problemsolva reĝimo.
 
 ## Strings connected to add-on updates
 
