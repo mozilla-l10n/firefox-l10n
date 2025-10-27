@@ -94,7 +94,25 @@ restore-from-backup-file-choose-button =
 restore-from-backup-password-label = Ñe’ẽñemi
 restore-from-backup-password-description = Kóva ojoko’óta ne ñongatu jey ipapapýva.
 restore-from-backup-cancel-button = Heja
+restore-from-backup-confirm-button = Eru ha emoñepyrũjey
 restore-from-backup-restoring-button = Moĩporãjey…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Ko marandurenda ndoikói
+    .message = Iñapañuái ne ñongatu jey. Eiporavo ambue marandurenda ha eha’ã jey upéi.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Ko marandurenda ndoikói
+    .message = Ko marandurenda eiporavóva ndojokupytýi kóva ko { -brand-short-name } ojapopyrévare. Eiporavo ambue marandurenda ha eha’ã jey.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
