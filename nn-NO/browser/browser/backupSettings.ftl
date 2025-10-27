@@ -39,9 +39,14 @@ settings-data-backup-last-backup-location-edit = Rediger…
 settings-data-backup-last-backup-filename = Filnamn: { $fileName }
 settings-data-backup-restore-header = Gjenopprett dataa dine
 
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-choose = Vel ei sikkerheitskopieringsfil…
+
 ## These strings are shown under the header if scheduled backups are enabled.
 
 settings-data-backup-scheduled-backups-on-restore-choose = Gjenopprett…
+settings-data-toggle-encryption-label = Sikkerheitskopier sensitive data
 settings-data-toggle-encryption-support-link = Les meir
 settings-data-change-password = Endre passord…
 
