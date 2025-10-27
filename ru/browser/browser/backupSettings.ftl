@@ -59,7 +59,7 @@ settings-data-change-password = Сменить пароль…
 
 turn-on-scheduled-backups-header = Включить резервное копирование
 turn-on-scheduled-backups-description = { -brand-short-name } будет создавать снимок ваших данных каждые 24 часа. Вы можете восстановить его, если возникла проблема, или после получения нового устройства.
-turn-on-scheduled-backups-support-link = Что войдёт в резервную копию?
+turn-on-scheduled-backups-support-link = Что будет входить в резервные копии?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Расположение
 # Variables:
@@ -132,19 +132,19 @@ backup-service-error-corrupt-file =
 # Alternatively, the backup file may be too old and some of the feature in
 # the backed up profile may no longer be supported.
 backup-service-error-unsupported-version =
-    .heading = Этот файл не работает
+    .heading = С этим файлом что-то не так
     .message = Выбранный вами файл несовместим с данной версией { -brand-short-name }. Выберите другой файл и повторите попытку.
 # The backup file cannot be restored. The currently running application is not
 # the same application that created the backup file (e.g. Firefox cannot
 # restore a Thunderbird profile backup).
 backup-service-error-unsupported-application =
-    .heading = Этот файл не работает
-    .message = Выбранный вами файл не был создан с помощью { -brand-short-name }. Выберите другой файл и повторите попытку.
+    .heading = С этим файлом что-то не так
+    .message = Выбранный вами файл не был создан { -brand-short-name }. Выберите другой файл и повторите попытку.
 # Recovery from backup did not succeed. Potential causes could be file system
 # errors, internal code errors, decryption errors, etc.
 backup-service-error-recovery-failed =
-    .heading = { -brand-short-name } не удалось восстановить
-    .message = Перезапустите { -brand-short-name } и попробуйте восстановить из резервной копии снова.
+    .heading = Не удалось восстановить { -brand-short-name }
+    .message = Перезапустите { -brand-short-name } и попробуйте восстановить его из резервной копии снова.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =
@@ -187,8 +187,8 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Снять защиту паролем
-disable-backup-encryption-description = Резервные копии ваших сохранённых паролей, способов оплаты и куков больше не будут храниться.
-disable-backup-encryption-support-link = Что будет резервироваться?
+disable-backup-encryption-description = Ваши сохранённые пароли, способы оплаты и куки больше не будут входить в резервные копии.
+disable-backup-encryption-support-link = Что будет входить в резервные копии?
 disable-backup-encryption-cancel-button = Отмена
 disable-backup-encryption-confirm-button = Удалить пароль
 
@@ -208,9 +208,9 @@ backup-error-retry = Что-то пошло не так. Повторите по
 ## default) within a folder labelled with the "backup-folder-name" string.
 
 backup-file-header = { -brand-short-name } готов к восстановлению
-backup-file-title = Восстановить { -brand-short-name }
+backup-file-title = Восстановление { -brand-short-name }
 backup-file-intro = Вернитесь к веб-сёрфингу и восстановите все свои закладки, историю и другие данные. <a data-l10n-name="backup-file-support-link">Подробнее</a>
-backup-file-path-label = Файл резервной копии:
+backup-file-path-label = Файл с резервной копией:
 backup-file-encryption-state-label = Зашифрован:
 backup-file-encryption-state-value-encrypted = Да
 backup-file-encryption-state-value-not-encrypted = Нет
@@ -222,15 +222,15 @@ backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DAT
 backup-file-how-to-restore-header = Как восстановить:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
-backup-file-moz-browser-restore-step-1 = Откройте меню приложения ☰ и перейдите в Настройки > Синхронизация
-backup-file-moz-browser-restore-step-2 = Нажмите «Выбрать файл резервной копии» и выберите этот файл
+backup-file-moz-browser-restore-step-1 = Откройте меню ☰ приложения и выберите Настройки > Синхронизация
+backup-file-moz-browser-restore-step-2 = Нажмите «Выбрать файл с резервной копией» и выберите этот файл
 backup-file-moz-browser-restore-step-3 = Перезапустите { -brand-short-name } по запросу
 backup-file-other-browser-restore-step-1 = Загрузите и установите { -brand-short-name }
 backup-file-download-moz-browser-button = Загрузить
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
-backup-file-other-browser-restore-step-2 = Запустите { -brand-short-name }, откройте меню приложения ☰ и перейдите в Настройки» > Синхронизация
-backup-file-other-browser-restore-step-3 = Нажмите «Выбрать файл резервной копии» и выберите этот файл
+backup-file-other-browser-restore-step-2 = Запустите { -brand-short-name }, откройте меню ☰ приложения и выберите Настройки > Синхронизация
+backup-file-other-browser-restore-step-3 = Нажмите «Выбрать файл с резервной копией» и выберите этот файл
 backup-file-other-browser-restore-step-4 = Перезапустите { -brand-short-name } по запросу
 
 ## These strings are used in the about:restore and about:welcome pages
@@ -241,9 +241,9 @@ backup-file-other-browser-restore-step-4 = Перезапустите { -brand-s
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds =
     { $numberOfOtherBackupsFound ->
-        [one] <b>Примечание:</b> найден { $numberOfOtherBackupsFound } другой файл резервной копии
-        [few] <b>Примечание:</b> найдено { $numberOfOtherBackupsFound } других файла резервных копий
-       *[many] <b>Примечание:</b> найдено { $numberOfOtherBackupsFound } других файлов резервных копий
+        [one] <b>Примечание:</b> найден { $numberOfOtherBackupsFound } другой файл с резервной копией
+        [few] <b>Примечание:</b> найдено { $numberOfOtherBackupsFound } других файла с резервными копиями
+       *[many] <b>Примечание:</b> найдено { $numberOfOtherBackupsFound } других файлов с резервными копиями
     }
 # Variables:
 #   $date (Datetime) - The date the backup was created
