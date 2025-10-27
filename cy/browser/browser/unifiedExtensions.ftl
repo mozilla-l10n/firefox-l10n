@@ -133,3 +133,5 @@ unified-extensions-mb-blocklist-error-multiple =
     .message =
         Analluogwyd estyniad  { $extensionsCount } 
         Mae rhai o'ch estyniadau wedi eu hanalluogi am dorri polisïau Mozilla.
+unified-extensions-notice-safe-mode =
+    .message = Mae pob estyniad wedi'i analluogi gan y Modd Datrys Problemau.

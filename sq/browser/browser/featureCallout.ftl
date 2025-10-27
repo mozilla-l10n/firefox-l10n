@@ -81,6 +81,7 @@ bookmarks-toolbar-callout-1-primary-button-label = Shtoni faqerojtës
 bookmarks-toolbar-callout-1-secondary-button-label = Jo, Faleminderit
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Shtoni lehtësisht më tepër faqerojtës
+bookmarks-toolbar-callout-2a-subtitle = Mund t’i tërhiqni dhe lini skedat këtu, që t’i keni më afër sajtet tuaj të parapëlqyer.
 bookmarks-toolbar-callout-2a-primary-button-label = E mora vesh
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Fshihe Panelin
@@ -104,6 +105,9 @@ perplexity-callout-secondary-label-2 = E mora vesh
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Fjalëkalimi u ruajt. Le t’i bëjmë një kopjeruajtje.
+fxa-adoption-passwords-subtitle = Mbroni fjalëkalimet tuaja duke i njëkohësuar me fshehtëzim nëpër pajisjet tuaj.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Regjistrohuni
 
@@ -116,10 +120,17 @@ taskbar-tabs-value-prop-callout-title = Shtojeni këtë faqe te paneli juaj i pu
 windows-10-eos-sync-new-device-title-2 = Po kaloni te një pajisje e re? Mos humbni ç’ka vlerë.
 windows-10-eos-sync-new-device-primary-label = Njëkohësoje tani
 windows-10-eos-sync-general-title-2 = Tani është kohë e përshtatshme për të kopjeruajtur fjalëkalimet dhe faqerojtësit tuaj.
+windows-10-eos-sync-tour-title-2 = Jini të organizuar për Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Njëkohësoni faqerojtësit tuaj, fjalëkalimet dhe rregullimet, që të kopjeruhen para se të bëni kalimin.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Shfaq më pak rekomandime
 windows-10-eos-sync-dismiss-button-label = Hidhe tej
 windows-10-eos-sync-callout-primary-advance-button-label = Pasuesja
+
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = E re: Klikoni dhe mbajeni të shtypur, që të bëni paraparje lidhjesh
+link-preview-onboarding-callout-description = Shihni një përshkrim të shkurtër, kohë leximi, etj, për të vendosur nëse një lidhje ia vlen të klikohet. Mund të bëhet edhe me djathtasklikim.
 
 ## Sidebar Strings
 
@@ -146,6 +157,7 @@ sidebar-pins-callout-cta-button = Fiksoje skedën
 
 pin-tabs-callout-cta-1-button = Fiksojeni këtë skedë
 pin-tabs-callout-2-title = Fiksoni skedat që vizitoni më tepër
+pin-tabs-callout-2-subtitle = Që të fiksoni çfarëdo skede, tërhiqeni te fillimi i shiritit të skedave. Ose dhjathtasklikoni dhe zgjidhni “Fiksoje Skedën”.
 pin-tabs-callout-cta-2-button = Fiksojeni këtë skedë
 pin-tabs-callout-4-title = Fiksoni sajte që vizitoni më tepër
 
