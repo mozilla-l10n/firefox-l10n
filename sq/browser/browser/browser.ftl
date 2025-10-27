@@ -1351,10 +1351,24 @@ trustpanel-etp-toggle-off =
 trustpanel-etp-description-enabled = Nëse diçka duket se nuk punon në këtë sajt, provoni të çaktivizoni mbrojtjet.
 trustpanel-connection-label-secure = Lidhje e siguruar
 trustpanel-connection-label-insecure = Lidhje jo e siguruar
+trustpanel-description-enabled2 = Jeni i mbrojtur. Nëse vërejmë gjë, do t’ua bëjmë të ditur.
+trustpanel-header-enabled-insecure = Hapni sytë në këtë sajt
 trustpanel-description-enabled = Jeni i mbrojtur. Nëse vërejmë gjë, do t’ua bëjmë të ditur
 trustpanel-header-disabled = Keni mbyllur mbrojtjet
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Jo i Siguruar
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-list-label-tracking-content = Lëndë gjurmimi
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } Krijues Shenjash Gishtash
+       *[other] { $count } Krijues Shenjash Gishtash
+    }

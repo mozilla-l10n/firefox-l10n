@@ -509,3 +509,13 @@ restored-from-backup-success-with-checklist-secondary-button = Anashkalojeni kë
 restored-from-backup-success-no-checklist-primary-button = Vazhdo
 restored-from-backup-error-title = Hëm, pati një problem me kartelën tuaj kopjeruajtje.
 restored-from-backup-error-primary-button = Mbylle
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = Personal
+onboarding-personalization-use-case-school-option = Shkollë
+onboarding-personalization-use-case-work-option = Punë
+onboarding-personalization-motivation-privacy-option = Privatësi dhe Siguri
+onboarding-personalization-motivation-productivity-option = Prodhimshmëri
+onboarding-personalization-motivation-other-option = Tjetër

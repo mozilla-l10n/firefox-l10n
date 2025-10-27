@@ -47,6 +47,7 @@ about-logging-preset-media-playback-description = Module regjistrimi për diagno
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Module regjistrimi për diagnostikim problemesh thirrjesh WebRTC
 about-logging-preset-webcodecs-description = Module regjistri për të diagnostikuar probleme me shkodues dhe kodues WebCodecs audio/video, si dhe shkodues figurash
+about-logging-preset-ml-label = Nxënie Nga Makinat
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Module regjistrimi për diagnostikim problemesh WebGPU
 about-logging-preset-gfx-label = Grafikë
@@ -92,10 +93,20 @@ about-logging-uploaded = U ngarkuan te <a data-l10n-name="uploaded-message-url">
 about-logging-upload-error = Ndodhi një gabim teksa ngarkohej profili: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Ndodhi një gabim teksa depozitohej profili i përditësuar: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Ndodhi një gabim teksa ruhej kartela: { $errorText }
 
 ## Uploaded Profiles section
 
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
 about-logging-delete-uploaded-profile = Fshije
 about-logging-view-uploaded-profile = Shihni Profilin
 about-logging-delete-profile-confirm-title = Fshini Profil

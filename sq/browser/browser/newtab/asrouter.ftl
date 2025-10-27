@@ -229,6 +229,7 @@ set-default-pdf-handler-primary = E mora vesh
 
 ## PDF Annotations strings
 
+annotations-make-default-pdf-handler-title = Të bëhet { -brand-short-name }-i përpunuesi juaj parazgjedhje për PDF-të?
 annotations-make-default-pdf-primary-cta =
     .label = Vëre si parazgjedhje
 annotations-make-default-pdf-next =
@@ -366,3 +367,19 @@ windows-10-eos-callout-addons-title = Provoni shtesat: përmirësime të vockla,
 windows-10-eos-callout-addons-primary-button = Shihni ç’kemi zgjedhur
 windows-10-eos-sync-callout-addons-title = Mos humbni shtesat tuaja, kur e përmirësoni që nga Windows 10.
 windows-10-eos-sync-callout-get-started-button = Fillojani
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-whats-new-button = Shihni ç’ka të re
+windows-10-eos-feature-toast-dismiss-button = Hidhe tej
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = Mësoni më tepër
+etp-strict-exceptions-infobar-not-now = Jo tani
+    .accesskey = J

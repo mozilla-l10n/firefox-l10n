@@ -58,3 +58,18 @@ webext-perms-description-data-short-searchTerms = terma kërkimi
 webext-perms-description-data-short-technicalAndInteraction = të dhëna teknike dhe ndërveprimesh
 webext-perms-description-data-short-websiteActivity = veprimtari sajti
 webext-perms-description-data-short-websiteContent = lëndë sajti
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+
+webext-perms-description-data-long-authenticationInfo = T’i japë zhvilluesit të zgjerimit hollësi mirëfilltësimi
+webext-perms-description-data-long-bookmarksInfo = T’i japë zhvilluesit të zgjerimit hollësi faqerojtësisht
+webext-perms-description-data-long-browsingActivity = T’i japë zhvilluesit të zgjerimit hollësi veprimtarie shfletimi
+webext-perms-description-data-long-financialAndPaymentInfo = T’i japë zhvilluesit të zgjerimit hollësi pagesash dhe financiare
+webext-perms-description-data-long-healthInfo = T’i japë zhvilluesit të zgjerimit hollësi shëndetësore
+webext-perms-description-data-long-locationInfo = T’i japë zhvilluesit të zgjerimit hollësi vendndodhjeje
+webext-perms-description-data-long-personalCommunications = T’i japë zhvilluesit të zgjerimit hollësi komunikimesh personale
+webext-perms-description-data-long-personallyIdentifyingInfo = T’i japë zhvilluesit të zgjerimit hollësi që lejojnë identifikim personal
+webext-perms-description-data-long-searchTerms = T’i japë zhvilluesit të zgjerimit terma kërkimi
+webext-perms-description-data-long-technicalAndInteraction = T’i japë zhvilluesit të zgjerimit të dhëna teknike dhe ndërveprimesh
+webext-perms-description-data-long-websiteActivity = T’i japë zhvilluesit të zgjerimit hollësi veprimtarie sajti
+webext-perms-description-data-long-websiteContent = T’i japë zhvilluesit të zgjerimit lëndë sajti

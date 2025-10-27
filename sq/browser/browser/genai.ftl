@@ -246,6 +246,8 @@ link-preview-optin-title = Shihni më tepër me IA?
 link-preview-optin-message = { -brand-short-name }-i përdor IA për të lexuar fillimin e faqes dhe për të prodhuar pak pika kyçe. Për t’i dhënë përparësi privatësisë suaj, kjo ndodh në pajisjen tuaj.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = E re: Klikoni dhe mbani të shtypur çfarëdo lidhje, për një paraparje
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Shihni një përshkrim të shkurtër, kohë leximi, etj, për të vendosur nëse ia vlen të hapet lidhja. Mund të bëhet edhe me djathtasklikim.
 # Header for the key points section
 link-preview-key-points-header = Pika kyçe
 # Disclaimer for AI-generated key points
