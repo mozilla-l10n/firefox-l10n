@@ -1300,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Topwebsites
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = Te gebruiken zoekmachines voor suggesties
+    .accesskey = z
 addressbar-locbar-engines-option =
     .label = Zoekmachines
     .accesskey = o
@@ -1320,6 +1323,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Ontvang suggesties van het web ger
 addressbar-locbar-suggest-sponsored-option =
     .label = Suggesties van sponsors
 addressbar-locbar-suggest-sponsored-desc = Ondersteun { -brand-short-name } met af en toe gesponsorde suggesties.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Suggesties van Mozilla ophalen terwijl u typt
 addressbar-quickactions-learn-more = Meer info
 addressbar-dismissed-suggestions-label = Gesloten suggesties
 addressbar-restore-dismissed-suggestions-description = Gesloten suggesties van sponsors en { -brand-short-name } herstellen.

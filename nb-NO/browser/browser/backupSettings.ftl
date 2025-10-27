@@ -40,8 +40,17 @@ settings-data-create-backup-error = Det oppstod en feil under oppretting av sikk
 settings-data-backup-last-backup-filename = Filnavn: { $fileName }
 settings-data-backup-restore-header = Gjenopprett dine data
 
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = Bruk en { -brand-product-name }-sikkerhetskopi fra en annen enhet for å gjenopprette dine data.
+settings-data-backup-scheduled-backups-off-restore-choose = Velg sikkerhetskopifil…
+
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Gjenopprett dine { -brand-product-name }-data fra forrige gang de ble sikkerhetskopiert.
+settings-data-backup-scheduled-backups-on-restore-choose = Gjenopprett…
+settings-data-toggle-encryption-label = Sikkerhetskopier sensitive data
+settings-data-toggle-encryption-description = Sikkerhetskopier passordene, betalingsmåtene og infokapslene dine med kryptering.
 settings-data-toggle-encryption-support-link = Les mer
 settings-data-change-password = Endre passord…
 

@@ -115,11 +115,19 @@ about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
 about-glean-metrics-table-settings-histograms-chart-max = Altura máxima do gráfico
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = Altura máxima redimensionada
+about-glean-metrics-table-settings-histograms-box-padding = Espaçamento de box
+about-glean-metrics-table-settings-histograms-chart-padding = Espaçamento do gráfico
+about-glean-metrics-table-settings-histograms-left-padding = Espaçamento adicional à esquerda
 about-glean-metrics-table-settings-category-visualizations-timeline = Linha do tempo
 about-glean-metrics-table-settings-timelines-height = Altura
 about-glean-metrics-table-settings-timelines-width = Largura
+about-glean-metrics-table-settings-timelines-chart-padding = Espaçamento do gráfico
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Raio do círculo
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Deslocamento horizontal do eixo Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Deslocamento vertical do eixo Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtrar
 # This message sits alongside an input field, further describing its purpose.
