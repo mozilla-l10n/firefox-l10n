@@ -643,6 +643,8 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Eheja
 
 pdfjs-editor-edit-comment-button =
     .title = Je’erei mbosako’i
+pdfjs-editor-add-comment-button =
+    .title = Je’erei mbojuaju
 
 ## Main menu for adding/removing signatures
 

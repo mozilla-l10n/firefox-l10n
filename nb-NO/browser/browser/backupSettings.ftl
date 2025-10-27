@@ -57,3 +57,26 @@ settings-data-change-password = Endre passord…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Slå på sikkerhetskopiering
+turn-on-scheduled-backups-description = { -brand-short-name } vil opprette et øyeblikksbilde av dataene dine hver 24. time. Du kan gjenopprette det hvis det oppstår et problem eller du får en ny enhet.
+turn-on-scheduled-backups-support-link = Hva vil bli sikkerhetskopiert?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Sted
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (anbefalt)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Velg…
+       *[other] Bla gjennom…
+    }
+turn-on-scheduled-backups-encryption-label = Sikkerhetskopier sensitive data
+turn-on-scheduled-backups-encryption-description = Sikkerhetskopier passordene, betalingsmåtene og infokapslene dine med kryptering.
+turn-on-scheduled-backups-encryption-create-password-label = Passord
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Gjenta passord
+turn-on-scheduled-backups-cancel-button = Avbryt
+turn-on-scheduled-backups-confirm-button = Slå på sikkerhetskopiering
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Det oppsto et problem med den valgte sikkerhetskopimappen. Velg en annen mappe og prøv på nytt.
