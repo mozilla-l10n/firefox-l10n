@@ -265,7 +265,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>Ĉu malfermi { -brand-short-name } ĉiufoje je restarto de via komputilo?</strong> Vi nun povas agordi { -brand-short-name } por ke ĝi aŭtomate malfermiĝu kiam vi restartigas vian aparaton.
+launch-on-login-infobar-message = <strong>Ĉu malfermi { -brand-short-name } ĉiufoje post restarto de via komputilo?</strong> Vi nun povas agordi { -brand-short-name } por ke ĝi aŭtomate malfermiĝu kiam vi restartigas vian aparaton.
 launch-on-login-learnmore = Pli da informo
 launch-on-login-infobar-confirm-button = Jes, malfermi per { -brand-short-name }
     .accesskey = J
@@ -275,7 +275,7 @@ launch-on-login-infobar-reject-button = Ne nun
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
-launch-on-login-infobar-final-message = <strong>Ĉu malfermi { -brand-short-name } ĉiufoje je restarto de via komputilo?</strong> Por administri la agordojn de aŭtomata malfermo, serĉi “restarto” en la agordoj..
+launch-on-login-infobar-final-message = <strong>Ĉu malfermi { -brand-short-name } ĉiufoje post restarto de via komputilo?</strong> Por administri la agordojn de aŭtomata malfermo, serĉi “restarto” en la agordoj..
 launch-on-login-infobar-final-reject-button = Ne, dankon
     .accesskey = N
 
