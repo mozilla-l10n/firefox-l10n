@@ -30,6 +30,10 @@ options-context-inspector = Archwiliwr
 options-show-user-agent-styles-label = Dangos Arddulliau Porwr
 options-show-user-agent-styles-tooltip =
     .title = Bydd cychwyn hwn yn dangos yr arddulliau rhagosodedig sy'n cael eu llwytho gan y porwr.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Dangos Shadow DOM Porwr
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Bydd troi hwn ymlaen yn dangos elfennau Shadow DOM sy'n cael eu trin gan y porwr.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Tocio priodoleddau DOM
 options-collapse-attrs-tooltip =
@@ -145,3 +149,5 @@ options-source-maps-tooltip =
     .title = Os ydych yn galluogi'r dewis hwn bydd ffenylalanin cael eu mapio yn yr offer.
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Sesiwn gyfredol yn unig, ail-lwytho'r dudalen
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh-persists = (yn ail-lwytho'r dudalen)

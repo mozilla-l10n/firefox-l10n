@@ -96,6 +96,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Jo, faleminderit
 
 perplexity-callout-theme-1-title = Ju duhet përgjigja e duhur, mu tani?
 perplexity-callout-theme-2-title = Provoni Perplexity: një mënyrë e re për kërkim
+perplexity-callout-theme-1-subtitle-1 = Provoni Perplexity-në. Zgjidheni që nga butoni i kërkimeve, kur doni përgjigje të plota, përfshi burimet e tyre.
 perplexity-callout-theme-1-subtitle-2 = Bëni pyetje. Merrni përgjigje të plota, të cituara si duhet. Që të provoni Perplexity-në, zgjidheni që nga butoni i kërkimeve.
 perplexity-callout-theme-2-subtitle-1 = Pyetni Perplexity-në. Do të merrni përgjigje të plota, përfshi burimet.
 perplexity-callout-theme-2-subtitle-2 = Bëni pyetje. Merrni përgjigje të plota, të cituara si duhet.
@@ -113,13 +114,27 @@ fxa-adoption-passwords-primary-button-label = Regjistrohuni
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = Mbajini prurjet tuaja të parapëlqyera te paneli juaj i punëve
+taskbar-tabs-social-callout-subtitle = Hapni si një aplikacion sajtet shoqërorë që përdorni, brenda një dritareje të thjeshtuar të mbrojtur nga { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Fjalosuni që nga shtylla juaj e punëve
+taskbar-tabs-email-callout-title = Mbajeni email-in tuaj te shtylla e punëve
 taskbar-tabs-value-prop-callout-title = Shtojeni këtë faqe te paneli juaj i punëve
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Mos humbni gjë nga ç’keni ruajtur, kur të kaloni në Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Njëkohësojini tani, për t’i mbajtur të parrezik dhe për t’i rikthyer kollaj faqerojtësit tuaj { -brand-short-name }, fjalëkalimet dhe rregullimet.
+windows-10-eos-sync-urgency-title-2 = Po i thoni lamtumirë Windows 10-s? Mbroni të dhënat tuaja, kur të bëni kalimin.
+windows-10-eos-sync-urgency-subtitle-2 = Edhe nëse s’e përdorni { -brand-short-name }-in përditë, bëni njëkohësim, për t’i mbajtur të parrezik dhe të përdorshëm faqerojtësit dhe fjalëkalimet.
+windows-10-eos-sync-new-device-title-1 = Mos rrezikoni nisjen nga e para në pajisjen tuaj pasuese.
+windows-10-eos-sync-new-device-subtitle-1 = Njëkohësojini, për t’i mbajtur me vete faqerojtësit tuaj { -brand-short-name }, fjalëkalimet dhe rregullimet e parapëlqyera, kur të bëni kalimin.
 windows-10-eos-sync-new-device-title-2 = Po kaloni te një pajisje e re? Mos humbni ç’ka vlerë.
+windows-10-eos-sync-new-device-subtitle-2 = Pavarësisht sa shpesh e përdorni { -brand-short-name }-in, njëkohësimi mbron faqerojtësit tuaj, fjalëkalimet dhe rregullimet.
 windows-10-eos-sync-new-device-primary-label = Njëkohësoje tani
+windows-10-eos-sync-general-title-1 = Mbroni { -brand-short-name }-in që e keni bërë si e doni.
 windows-10-eos-sync-general-title-2 = Tani është kohë e përshtatshme për të kopjeruajtur fjalëkalimet dhe faqerojtësit tuaj.
+windows-10-eos-sync-tour-title-1 = Shumë skeda? Sistemojini me grupe skedash.
+windows-10-eos-sync-tour-subtitle-1 = Tërhiqeni njërën mbi një tjetër që të krijoni një grup dhe t’i mbani gjërat të sistemuara.
 windows-10-eos-sync-tour-title-2 = Jini të organizuar për Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Njëkohësoni faqerojtësit tuaj, fjalëkalimet dhe rregullimet, që të kopjeruhen para se të bëni kalimin.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =

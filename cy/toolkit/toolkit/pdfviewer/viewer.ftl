@@ -660,6 +660,8 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Diddymu
 
 pdfjs-editor-edit-comment-button =
     .title = Golygu sylw
+pdfjs-editor-add-comment-button =
+    .title = Ychwanegu sylw
 
 ## Main menu for adding/removing signatures
 

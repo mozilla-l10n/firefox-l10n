@@ -167,3 +167,13 @@ certerror-coep-learn-more = Dysgwch ragor am Bolisïau Mewnblannu Traws Darddiad
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Cod gwall: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = Dyw { -brand-short-name } ddim yn gallu creu cysylltiad diogel i'r gweinydd yn { $hostname } .
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Mae'n edrych fel bod y wefan hon yn defnyddio hen feddalwedd gyda gwendidau diogelwch hysbys.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Gwnewch yn siŵr eich bod yn defnyddio'r fersiwn diweddaraf o { -brand-short-name }. Ewch i Cymorth > Ynghylch { -brand-short-name } yn y ddewislen. Os ydych chi'n defnyddio'r { -brand-short-name } diweddaraf, mae'r broblem yn fwyaf tebygol gyda'r wefan ei hun.

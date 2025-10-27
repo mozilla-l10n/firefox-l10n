@@ -167,6 +167,8 @@ extensions-warning-update-security-button = Galluogi
 extensions-warning-imported-addons2 =
     .message = Gorffennwch osod yr estyniadau a fewnforiwyd i { -brand-short-name }.
 extensions-warning-imported-addons-button = Gosod Estyniadau
+extensions-warning-safe-mode3 =
+    .message = Mae pob ychwanegyn wedi'i analluogi gan y Modd Datrys Problemau.
 
 ## Strings connected to add-on updates
 

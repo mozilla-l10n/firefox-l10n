@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Ardal Corffori
 certificate-viewer-locality = Lleoliad
 certificate-viewer-location = Lleoliad
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Enw Cofnod
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID Cofnod
 certificate-viewer-method = Dull
 certificate-viewer-modulus = Modwlws
