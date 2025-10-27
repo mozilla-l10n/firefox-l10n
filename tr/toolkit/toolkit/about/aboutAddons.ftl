@@ -172,6 +172,8 @@ extensions-warning-update-security-button = Etkinleştir
 extensions-warning-imported-addons2 =
     .message = Lütfen { -brand-short-name } tarayıcınıza aktarılan uzantıların kurulumunu bitirin.
 extensions-warning-imported-addons-button = Uzantıları yükle
+extensions-warning-safe-mode3 =
+    .message = Sorun giderme modunda tüm eklentiler devre dışı bırakılmıştır.
 
 ## Strings connected to add-on updates
 

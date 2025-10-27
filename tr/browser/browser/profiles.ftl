@@ -63,6 +63,7 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = { $profilename } profil kopyanız özelleştirilmeye hazır
+copied-profile-page-header-description = Verilerinizi ve ayarlarınızı yeni bir profile kopyaladık. Şimdi profilinize bir isim verin, bir görünüm seçin ve profili kişiselleştirin.
 profile-window-title-2 = { -brand-short-name } - Profilinizi seçin
 profile-window-logo =
     .alt = { -brand-short-name } logosu
@@ -267,6 +268,8 @@ custom-avatar-crop-area =
 custom-avatar-drag-handle =
     .aria-label = Kırpma alanını yeniden boyutlandır
 profiles-appmenu-callout-tour-title = Yeni profiliniz hazır
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = Başka bir profili açmak, bu profili düzenlemek veya profiller arasında geçiş yapmak istediğinizde ☰ menüsündeki profil adınıza tıklayın.
 profiles-appmenu-callout-tour-primary-button = Nasıl yapacağımı göster
 barbell-avatar = Halter
 bike-avatar = Bisiklet

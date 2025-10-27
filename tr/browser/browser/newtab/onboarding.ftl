@@ -536,6 +536,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-2 = Cihazınıza kaydedilecek
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Parolalar ve ödeme yöntemleri hariç
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Hassas verileri dahil etmek için <a data-l10n-name="settings">Ayarlar</a>’a gidin.
 fx-backup-confirmation-screen-item-subtext-1 = Yedeklemeniz birkaç dakika içinde başlayacak ve günde bir kere çalışacak. İlerlemeyi <a data-l10n-name="settings">Ayarlar</a>’dan kontrol edebilirsiniz.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } tarayıcınızı yeniden yüklemeniz gerekirse yedekler otomatik aranacaktır.
 
 ## Restore from Backup Flow about:welcome screens
 

@@ -92,3 +92,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } uzantı devre dışı bırakıldı
         }
     .message = Uzantılarınızdan bazıları Mozilla’nın politikalarını ihlal ettiği için devre dışı bırakıldı.
+unified-extensions-notice-safe-mode =
+    .message = Sorun giderme modunda tüm uzantılar devre dışı bırakılmıştır.

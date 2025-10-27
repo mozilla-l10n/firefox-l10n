@@ -198,4 +198,9 @@ backup-file-creation-date-label = Moheñoimbyre:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Mba’éicha erujeýta:
+backup-file-moz-browser-restore-step-2 = Eikutu “Marandurenda ykekoha jeporavo” ha eiporavo ko marandurenda
+backup-file-moz-browser-restore-step-3 = Emoñepyrũjey { -brand-short-name } ojejerurévo ndéve
+backup-file-other-browser-restore-step-1 = Emboguejy ha emohenda { -brand-short-name }
 backup-file-download-moz-browser-button = Mboguejy
+backup-file-other-browser-restore-step-3 = Eikutu “Marandurenda ykekoha jeporavo” ha eiporavo ko marandurenda
+backup-file-other-browser-restore-step-4 = Emoñepyrũjey { -brand-short-name } ojejerurévo ndéve
