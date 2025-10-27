@@ -146,12 +146,22 @@ about-glean-metrics-table-settings-category-visualizations = Jehechapyreita
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Techapyrã
 about-glean-metrics-table-settings-category-visualizations-histogram = Histograma
+about-glean-metrics-table-settings-histograms-chart-max = Ta’ãnga ijyvatekue
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Yvatete jupipyre
+about-glean-metrics-table-settings-histograms-box-padding = Mba’yru rembe’y
+about-glean-metrics-table-settings-histograms-chart-padding = Ta’ãnga myanyhẽha
+about-glean-metrics-table-settings-histograms-left-padding = Asu rembe’y juajupyre
 about-glean-metrics-table-settings-category-visualizations-timeline = Oikovahína
 about-glean-metrics-table-settings-timelines-height = Yvategua
 about-glean-metrics-table-settings-timelines-width = Pekue
 about-glean-metrics-table-settings-timelines-chart-padding = Ta’ãnga myanyhẽha
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Mba’eapu’a mbyte
 # The offset on the x-axis from the end of the horizontal line for the y-axis line
 about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y X-pe jeva
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y jeva Y mbojerehápe
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Mboguaha
 # This message sits alongside an input field, further describing its purpose.
