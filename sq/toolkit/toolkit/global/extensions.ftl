@@ -15,7 +15,10 @@ webext-perms-header-with-perms = Të shtohet { $extension }? Ky zgjerim do të k
 webext-perms-header-unsigned = Të shtohet { $extension }? Ky zgjerim është i paverifikuar. Zgjerimet keqdashëse mund të vjedhin të dhëna tuajat private ose të komprometojnë kompjuterin tuaj. Shtojeni vetëm nëse e besoni burimin.
 webext-perms-header-unsigned-with-perms = Të shtohet { $extension }? Ky zgjerim është i paverifikuar. Zgjerimet keqdashëse mund të vjedhin të dhëna tuajat private ose të komprometojnë kompjuterin tuaj. Shtojeni vetëm nëse e besoni burimin. Kjo shtesë do të ketë leje të:
 webext-perms-sideload-header = { $extension } u shtua
+webext-perms-optional-perms-header2 = { $extension } lyp leje shtesë
 webext-perms-optional-perms-header = { $extension } lyp leje shtesë.
+webext-perms-header2 = Shtoni { $extension }
+webext-perms-list-intro-unsigned = Ky zgjerim i paverifikuar mund ta vërë në rrezik privatësinë tuaj, ose të komprometojë pajisjen tuaj/ Shtojeni vetëm nëse i zini besë burimit.
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
@@ -23,6 +26,7 @@ webext-perms-header-required-perms = Leje të domosdoshme:
 webext-perms-header-optional-settings = Rregullime opsionale:
 webext-perms-header-update-required-perms = Leje të reja të domosdoshme:
 webext-perms-header-optional-required-perms = Leje e re:
+webext-perms-header-data-collection-perms = Grumbullim i domosdoshëm të dhënash:
 webext-perms-header-data-collection-is-none = Grumbullim të dhënash:
 # This is a header used in the add-ons "update" prompt, shown when the new
 # version requires new data collection permissions.
@@ -114,6 +118,16 @@ webext-perms-description-data-some-update = Zhvilluesi thotë se zgjerimi do të
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
 webext-perms-description-data-some-optional = Zhvilluesi thotë se zgjerimi dëshiron të grumbullojë: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } lyp rregullim të ri për t’u përditësuar
+webext-perms-update-list-intro-with-data-collection = Anulojeni, që të mbahet versioni juaj i tanishëm dhe rregullimet e tanishme, ose përditësojeni, për të marrë versionin dhe ri dhe miratuar ndryshimet.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } lyp rregullime shtesë
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } lyp grumbullim shtesë të dhënash
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

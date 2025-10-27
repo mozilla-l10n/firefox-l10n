@@ -174,6 +174,7 @@ genai-chatbot-summarize-sidebar-provider-subtitle = Djathtasklikoni mbi robotin 
 genai-chatbot-summarize-sidebar-generic-subtitle = Djathtasklikoni mbi butonin xixa te anështylla dhe zgjidhni ’Përmblidhe Faqen”. Herën e parë do të zgjidhni edhe një robot IA fjalosjesh.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Hapni në anështyllë robotin tuaj IA të fjalosjeve dhe zgjidhni “Përmblidhe  Faqen” te fundi.
+genai-chatbot-summarize-footer-generic-subtitle = Shtoni te anështylla e { -brand-short-name }-it një robot fjalosjesh IA, që të përmbledhë shpejt e shpejt faqe.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -232,10 +233,28 @@ link-preview-generation-retry = Riprovoni
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Rregullime Paraparjeje Lidhjeje
+link-preview-settings-enable =
+    .label = Aktivizo paraparje lidhjesh
+    .description = Shihni titullin e faqes, përshkrimin, etj, kur përdorni shkurtoren, ose djathtasklikoni mbi një lidhje.
+link-preview-settings-key-points =
+    .label = Lejojen IA-në të lexojë fillimin e faqes dhe të prodhojë pikat kyçe
+link-preview-settings-long-press =
+    .label = Shkurtore: Klikojeni dhe mbajeni të shtypur lidhjen për 1 sekondë (shtypje e gjatë)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Shihni më tepër me IA?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name }-i përdor IA për të lexuar fillimin e faqes dhe për të prodhuar pak pika kyçe. Për t’i dhënë përparësi privatësisë suaj, kjo ndodh në pajisjen tuaj.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = E re: Klikoni dhe mbani të shtypur çfarëdo lidhje, për një paraparje
 # Header for the key points section
 link-preview-key-points-header = Pika kyçe
 # Disclaimer for AI-generated key points
 link-preview-key-points-disclaimer = Pikat kyçe janë të prodhuara nga IA dhe mund të kenë gabime.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Ujdisje për herë të parë • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Herës tjetër do t’i shihni më shpejt pikat kyçe.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Shihni një paraparje
 # Onboarding card Close button
