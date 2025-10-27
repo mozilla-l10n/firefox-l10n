@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Sidejo
 certificate-viewer-locality = Loko
 certificate-viewer-location = Loko
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Nomo de la registra dosiero
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Identigilo de registro
 certificate-viewer-method = Metodo
 certificate-viewer-modulus = Modulo
