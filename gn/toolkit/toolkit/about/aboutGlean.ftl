@@ -142,6 +142,8 @@ about-glean-metrics-table-settings-category-visualizations-timeline = Oikovahín
 about-glean-metrics-table-settings-timelines-height = Yvategua
 about-glean-metrics-table-settings-timelines-width = Pekue
 about-glean-metrics-table-settings-timelines-chart-padding = Ta’ãnga myanyhẽha
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y X-pe jeva
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Mboguaha
 # This message sits alongside an input field, further describing its purpose.

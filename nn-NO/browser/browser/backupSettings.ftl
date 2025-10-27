@@ -65,6 +65,7 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Vel…
        *[other] Bla gjennom…
     }
+turn-on-scheduled-backups-encryption-label = Sikkerheitskopier sensitive data
 turn-on-scheduled-backups-encryption-create-password-label = Passord
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Gjenta passord
