@@ -598,6 +598,7 @@ home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue i
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Togue moñepyrũ ha ovetã pyahu
+home-homepage-mode-label2 = Ovetã pyahu
 home-newtabs-mode-label = tendayke pyahu
 home-restore-defaults =
     .label = mbopyahujey techa mboyvegua
@@ -610,6 +611,11 @@ home-mode-choice-blank =
     .label = Kuatiarogue morotĩva
 home-homepage-custom-url =
     .placeholder = Emboja URL...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Eñangareko jepysokuére
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Eiporavo peteĩ tendaite
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -624,6 +630,19 @@ use-current-pages =
 choose-bookmark =
     .label = Techaukaha poru…
     .accesskey = B
+home-homepage-header = Kuatiarogue ñepyrũha
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Emboava kuatiarogue ñepyrũgua
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Ñanduti kundaharape(ita)
+home-custom-homepage-address =
+    .placeholder = Ehai kundaharape
+home-custom-homepage-address-button =
+    .label = Embojuaju kundaharape
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Ndaipóri ñanduti rogue mbojuajupyre.
 
 ## Home Section - Firefox Home Content Customization
 

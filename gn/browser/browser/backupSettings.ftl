@@ -140,6 +140,9 @@ change-backup-encryption-header = Emoambue ñe’ẽñemi jeykekoha
 
 password-rules-header = Ñe’ẽñemi oikotevẽva
 password-rules-length-description = Michĩvéramo 8 tai
+password-rules-email-description = Ndaha’éi ne ñanduti veve kundaharape
+password-validity-has-email = Ndaha’ekuaái ñanduti veve kundaharape
+password-validity-do-not-match = Ko’ã ñe’ẽñemi ndojojoguái
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
@@ -150,6 +153,8 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-header = Embogue ñemo’ã ñe’ẽñemi ndive
+disable-backup-encryption-support-link = ¿Mba’e pe ojeykekótava?
 disable-backup-encryption-cancel-button = Heja
 disable-backup-encryption-confirm-button = Emboguete ñe’ẽñemi
 
