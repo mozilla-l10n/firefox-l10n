@@ -15,6 +15,10 @@
 ## to indicate the purpose of a date picker calendar and a month-year selection
 ## spinner dialogs for HTML's default <input type="date">
 
+date-picker-label =
+    .aria-label = Scegli una data
+date-spinner-label =
+    .aria-label = Scegli mese e anno
 
 ## Text of the clear button
 
