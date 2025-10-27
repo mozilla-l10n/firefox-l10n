@@ -21,6 +21,7 @@ backup-folder-name = Барқарорсозии «{ -brand-product-name }»
 backup-file-name = Нусхаи эҳтиётии { -brand-product-name }
 settings-data-backup-header = Нусхаи эҳтиётӣ
 settings-data-backup-toggle = Идоракунии нусхаи эҳтиётӣ
+settings-data-backup-toggle-on = Фаъол кардани нусхаи эҳтиётӣ
 settings-data-backup-trigger-button = Ҳозир нусхаи эҳтиётиро созед
 settings-data-backup-in-progress-button = Таҳияи нусхаи эҳтиётӣ дар ҳоли иҷро мебошад…
 settings-data-backup-scheduled-backups-on = Нусхаи эҳтиётӣ: ФАЪОЛ
