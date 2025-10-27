@@ -108,7 +108,7 @@ perplexity-callout-secondary-label-2 = E mora vesh
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
 fxa-adoption-passwords-title = Fjalëkalimi u ruajt. Le t’i bëjmë një kopjeruajtje.
-fxa-adoption-passwords-subtitle = Mbroni fjalëkalimet tuaja duke i njëkohësuar me fshehtëzim nëpër pajisjet tuaj.
+fxa-adoption-passwords-subtitle = Mbroni fjalëkalimet tuaja duke i njëkohësuar me fshehtëzim nëpër pajisjet tuaja.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Regjistrohuni
 
@@ -117,8 +117,13 @@ fxa-adoption-passwords-primary-button-label = Regjistrohuni
 taskbar-tabs-social-callout-title = Mbajini prurjet tuaja të parapëlqyera te paneli juaj i punëve
 taskbar-tabs-social-callout-subtitle = Hapni si një aplikacion sajtet shoqërorë që përdorni, brenda një dritareje të thjeshtuar të mbrojtur nga { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Fjalosuni që nga shtylla juaj e punëve
+taskbar-tabs-chat-callout-subtitle = Hapni si një aplikacion sajtet e fjalosjeve që përdorni, brenda një dritareje të thjeshtuar të mbrojtur nga { -brand-short-name }.
 taskbar-tabs-email-callout-title = Mbajeni email-in tuaj te shtylla e punëve
+taskbar-tabs-email-callout-subtitle = Hapni si një aplikacion webmail-in që përdorni, brenda një dritareje të thjeshtuar të mbrojtur nga { -brand-short-name }.
+taskbar-tabs-media-callout-title = Kthejuni parjes së videove që nga shtylla juaj e punëve
+taskbar-tabs-media-callout-subtitle = Hapni si një aplikacion sajtet që përdorni për video, brenda një dritareje të thjeshtuar të mbrojtur nga { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Shtojeni këtë faqe te paneli juaj i punëve
+taskbar-tabs-value-prop-callout-subtitle = Hapeni në një dritare të vetën dhe me një ndërfaqe të thjeshtuar, me një klikim të vetëm.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -132,7 +137,9 @@ windows-10-eos-sync-new-device-title-2 = Po kaloni te një pajisje e re? Mos hum
 windows-10-eos-sync-new-device-subtitle-2 = Pavarësisht sa shpesh e përdorni { -brand-short-name }-in, njëkohësimi mbron faqerojtësit tuaj, fjalëkalimet dhe rregullimet.
 windows-10-eos-sync-new-device-primary-label = Njëkohësoje tani
 windows-10-eos-sync-general-title-1 = Mbroni { -brand-short-name }-in që e keni bërë si e doni.
+windows-10-eos-sync-general-subtitle-1 = Kopjeruani dhe njëkohësoni fjalëkalimet tuaja, faqerojtësit, rregullimet dhe të dhëna të tjera, për të ruajtur ato në të cilat bazoheni.
 windows-10-eos-sync-general-title-2 = Tani është kohë e përshtatshme për të kopjeruajtur fjalëkalimet dhe faqerojtësit tuaj.
+windows-10-eos-sync-general-subtitle-2 = Njëkohësojini tani, që të mbroni gjërat që ia besoni { -brand-short-name }-it — dhe kthehuni në to nga kudo, kurdo.
 windows-10-eos-sync-tour-title-1 = Shumë skeda? Sistemojini me grupe skedash.
 windows-10-eos-sync-tour-subtitle-1 = Tërhiqeni njërën mbi një tjetër që të krijoni një grup dhe t’i mbani gjërat të sistemuara.
 windows-10-eos-sync-tour-title-2 = Jini të organizuar për Windows 11.
@@ -170,10 +177,13 @@ sidebar-pins-callout-cta-button = Fiksoje skedën
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Mbani gati për përdorim skeda të rëndësishme
+pin-tabs-callout-1-subtitle = Që ta fiksoni, tërhiqeni një skedë te fillimi i shiritit të skedave. Ose djathtasklikojeni dhe zgjidhni “Fiksoje Skedën”.
 pin-tabs-callout-cta-1-button = Fiksojeni këtë skedë
 pin-tabs-callout-2-title = Fiksoni skedat që vizitoni më tepër
 pin-tabs-callout-2-subtitle = Që të fiksoni çfarëdo skede, tërhiqeni te fillimi i shiritit të skedave. Ose dhjathtasklikoni dhe zgjidhni “Fiksoje Skedën”.
 pin-tabs-callout-cta-2-button = Fiksojeni këtë skedë
+pin-tabs-callout-3-title = Mbani gati për përdorim sajtet e rëndësishëm
 pin-tabs-callout-4-title = Fiksoni sajte që vizitoni më tepër
 
 ## Sidebar Onboarding Strings
