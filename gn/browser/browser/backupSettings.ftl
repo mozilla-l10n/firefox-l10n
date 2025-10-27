@@ -113,15 +113,33 @@ backup-service-error-corrupt-file =
 backup-service-error-unsupported-version =
     .heading = Ko marandurenda ndoikói
     .message = Ko marandurenda eiporavóva ndojokupytýi kóva ko { -brand-short-name } ojapopyrévare. Eiporavo ambue marandurenda ha eha’ã jey.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Ko marandurenda ndoikói
+    .message = Ko marandurenda eiporavóva nomoheñóiri { -brand-short-name }. Eiporavo ambue marandurenda ha eha’ã jey.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } ndaikatúi eguerujey
+    .message = Emoñepyjey { -brand-short-name } ha eguerujey ne ñongatu jey.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Eñengatu jey ne mba’ekuaarã ñemigua
 enable-backup-encryption-support-link = Eikuaave
 enable-backup-encryption-create-password-label = Ñe’ẽñemi
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Emoingejey ñe’ẽñemi
 enable-backup-encryption-cancel-button = Heja
 enable-backup-encryption-confirm-button = Ñongatu
+change-backup-encryption-header = Emoambue ñe’ẽñemi jeykekoha
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Ñe’ẽñemi oikotevẽva
+password-rules-length-description = Michĩvéramo 8 tai
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
