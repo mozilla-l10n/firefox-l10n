@@ -135,6 +135,10 @@ options-enable-remote-tooltip2 =
 options-enable-f12-label = שימוש במקש F12 כדי לפתוח או לסגור את כלי הפיתוח
 options-enable-f12-tooltip =
     .title = הפעלת אפשרות זו תקשר את מקש F12 לפתיחה או סגירת ארגז הכלים של כלי הפיתוח
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = לאפשר יוצרי תבניות מותאמים אישית
+options-enable-custom-formatters-tooltip =
+    .title = הפעלת אפשרות זו תאפשר לאתרים להגדיר יוצרי תבניות מותאמים אישית עבור אובייקטי DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = הפעלת Service Workers על גבי HTTP (כשארגז הכלים פתוח)
 options-enable-service-workers-http-tooltip =
