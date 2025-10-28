@@ -21,8 +21,12 @@ backup-folder-name = Restaurar { -brand-product-name }
 backup-file-name = Respaldo de { -brand-product-name }
 settings-data-backup-header = Respaldo
 settings-data-backup-toggle = Administrar respaldos
+settings-data-backup-toggle-on = Activar respaldos
+settings-data-backup-toggle-off = Desactivar respaldos
 settings-data-backup-trigger-button = Respaldar ahora
 settings-data-backup-in-progress-button = Respaldo en proceso…
+settings-data-backup-in-progress-message =
+    .message = Respaldo en proceso…
 settings-data-backup-scheduled-backups-on = Respaldo: ACTIVADO
 settings-data-backup-scheduled-backups-off = Respaldo: DESACTIVADO
 settings-data-backup-scheduled-backups-description = Protege automáticamente tus marcadores, historial y otros datos. <a data-l10n-name="support-link">Aprender más</a>
@@ -32,6 +36,7 @@ settings-data-backup-last-backup-location = Ubicación
 settings-data-backup-last-backup-location-show-in-folder = Mostrar carpeta
 settings-data-backup-last-backup-location-edit = Editar…
 settings-data-create-backup-error = Se produjo un error al crear tu respaldo el { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Realiza un respaldo de tus contraseñas y métodos de pago, además de mantener todos tus datos seguros con cifrado.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nombre de archivo: { $fileName }

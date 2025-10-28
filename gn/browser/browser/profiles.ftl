@@ -33,6 +33,7 @@ edit-profile-page-profile-name-label = Mba’ete réra
 edit-profile-page-theme-header-2 =
     .label = Téma
 edit-profile-page-explore-themes = Ehapykueho hetave téma
+edit-profile-page-desktop-shortcut-header = Emoheñói jeike pya’eha mba’erechahápe
 edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =

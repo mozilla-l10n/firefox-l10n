@@ -13,6 +13,10 @@ unified-extensions-manage-extensions =
     .label = Eñangareko jepysokuére
 unified-extensions-discover-extensions =
     .label = Eikuaa jepysokue
+unified-extensions-empty-reason-extension-not-enabled = Ereko jepysokue mohendapyre, hákatu ndaijurujái
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Eikundaha porãve jepysokue ndive
+unified-extensions-empty-content-explain-enable2 = Eiporavo “{ unified-extensions-manage-extensions.label }” emyandy hag̃ua ñembohekópe.
 
 ## An extension in the main list
 

@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Iniciar el panel de control de máscara
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protege tu actividad en línea
 appmenu-services-header = Mis servicios
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Prueba otras herramientas de protección de Mozilla:
 appmenu-other-protection-header = Prueba otras herramientas de protección de { -vendor-short-name }:
 
 ## Profiles panel
@@ -301,6 +305,8 @@ appmenu-other-protection-header = Prueba otras herramientas de protección de { 
 appmenu-other-profiles = Otros perfiles
 appmenu-manage-profiles =
     .label = Gestionar perfiles
+appmenu-copy-profile =
+    .label = Copiar este perfil
 appmenu-create-profile =
     .label = Nuevo perfil
 appmenu-edit-profile =

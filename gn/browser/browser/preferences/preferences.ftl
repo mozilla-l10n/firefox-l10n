@@ -1268,6 +1268,7 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Kundaharape renda
+addressbar-suggest-1 = Eiporavo mba’e ñemoñe’ẽ ojehecháta nde kundaha rupápe
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Eiporúramo kundaharape renda, eñemoñe’ẽ
@@ -1297,6 +1298,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Tenda jehayhuvéva
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = Eikuave’ẽ jehekaha mongu’eha eiporukuaáva
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Hekaha mongu’eha
     .accesskey = a
@@ -1317,6 +1321,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Erekóta ñanduti ñemoñe’ẽ o
 addressbar-locbar-suggest-sponsored-option =
     .label = Pytyvõhára ñemoñe’ẽ
 addressbar-locbar-suggest-sponsored-desc = Eykeko { -brand-short-name } ñemoñe’ẽ jehepyme’ẽrã sapy’apy’agua.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Eguerekokuaa Mozilla oikuave’ẽva ehai aja
 addressbar-quickactions-learn-more = Kuaave
 addressbar-dismissed-suggestions-label = Ñemoñe’ẽ mboykepyre
 addressbar-restore-dismissed-suggestions-description = Eguerujey ñe’ẽporã omboykémava jeykekohára ha { -brand-short-name }.
