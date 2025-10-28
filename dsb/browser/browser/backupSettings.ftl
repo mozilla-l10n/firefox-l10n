@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Městno
 settings-data-backup-last-backup-location-show-in-folder = W zarědniku pokazaś
 settings-data-backup-last-backup-location-edit = Wobźěłaś…
 settings-data-create-backup-error = Pśi wašom zawěsćenju  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } jo zmólka nastała
+settings-sensitive-data-encryption-description = Zawěsććo swóje gronidła a płaśeńske metody a źaržćo wšykne swóje daty wěste ze skoděrowanim.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Datajowe mě: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Šćit pśez gronidło wótwónoźeś
+disable-backup-encryption-description2 = Waše skłaźone gronidła a płaśeńske metody se teke wěcej njezawěsćuju.
 disable-backup-encryption-support-link = Co se zawěsćujo?
 disable-backup-encryption-cancel-button = Pśetergnuś
 disable-backup-encryption-confirm-button = Gronidło wótwónoźeś
@@ -246,3 +248,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Napórany dnja { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
+backup-file-restore-file-validation-error = Toś ta dataja njefunkcioněrujo. Wubjeŕśo drugu dataju. <a data-l10n-name="restore-problems">Maśo hyšći problemy?</a>
