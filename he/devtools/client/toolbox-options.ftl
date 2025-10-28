@@ -120,6 +120,8 @@ options-disable-http-cache-label = השבתת מטמון HTTP (כשארגז הכ
 options-disable-http-cache-tooltip =
     .title = הפעלת אפשרות זו תשבית את מטמון ה־HTTP עבור כל הלשוניות בהן פתוח ארגז הכלים. Service Workers אינם מושפעים מאפשרות זו.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = השבתת JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = השבתת JavaScript *
 options-disable-javascript-tooltip =
     .title = הפעלת אפשרות זו תשבית את JavaScript בלשונית הנוכחית. אם הלשונית או ארגז הכלים יסגרו הגדרה זו תישכח.
@@ -141,6 +143,9 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = הפעלת מפות מקור
 options-source-maps-tooltip =
     .title = אם אפשרות זו תופעל המקורות ימופו בכלים.
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (הפעלה נוכחית בלבד, טוען מחדש את הדף)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * הפעלה נוכחית בלבד, יש לטעון מחדש את הדף
 # The message shown for settings that trigger page reload

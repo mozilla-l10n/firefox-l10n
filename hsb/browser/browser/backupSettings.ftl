@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Městno
 settings-data-backup-last-backup-location-show-in-folder = W rjadowaku pokazać
 settings-data-backup-last-backup-location-edit = Wobdźěłać…
 settings-data-create-backup-error = Při wašim zawěsćenju  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } je zmylk nastał
+settings-sensitive-data-encryption-description = Zawěsćće swoje hesła a płaćenske metody a dźeržće wšě swoje daty wěste ze zaklučowanjom.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Datajowe mjeno: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Škit přez hesło wotstronić
+disable-backup-encryption-description2 = Waše składowane hesła a płaćenske metody so tež hižo njezawěsćuja.
 disable-backup-encryption-support-link = Što so zawěsćuje?
 disable-backup-encryption-cancel-button = Přetorhnyć
 disable-backup-encryption-confirm-button = Hesło wotstronić

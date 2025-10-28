@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>‏{ 
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = להפעלת ההרחבה יש לגשת לתוספות <img data-l10n-name="addons-icon"/> בתפריט <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = ‏{ $name } שולטת בחלק מהגדרות דף הבית שלך.
 
 ## Preferences UI Search Results
 
@@ -600,6 +603,7 @@ home-new-windows-tabs-description2 = ניתן לבחור מה יופיע בעת 
 ## Custom Homepage subpage
 
 home-homepage-mode-label = דף הבית וחלונות חדשים
+home-homepage-mode-label2 = חלונות חדשים
 home-newtabs-mode-label = לשוניות חדשות
 home-restore-defaults =
     .label = שחזור ברירות מחדל
@@ -612,6 +616,11 @@ home-mode-choice-blank =
     .label = דף ריק
 home-homepage-custom-url =
     .placeholder = נא להדביק כתובת…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = ניהול הרחבה
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = בחירה באתר מסוים
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -626,9 +635,11 @@ use-current-pages =
 choose-bookmark =
     .label = שימוש בסימנייה…
     .accesskey = ס
+home-homepage-header = דף הבית
 
 ## Custom Homepage subpage
 
+home-custom-homepage-header = דף בית מותאם אישית
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = כתובות אתרי אינטרנט
 home-custom-homepage-address =
@@ -1072,6 +1083,7 @@ forms-master-pw-fips-desc = שינוי הססמה נכשל
 forms-windows-sso =
     .label = לאפשר SSO של Windows עבור חשבונות של Microsoft, עבודה או לימודים
 forms-windows-sso-learn-more-link = מידע נוסף
+forms-windows-sso-desc = ניהול חשבונות בהגדרות במכשיר
 windows-passkey-settings-label = ניהול passkeys בהגדרות המערכת
 
 ## OS Authentication dialog
