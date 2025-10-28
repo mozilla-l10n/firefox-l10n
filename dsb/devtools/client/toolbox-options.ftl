@@ -150,6 +150,9 @@ options-source-maps-label = Žrědłowe kórty zmóžniś
 options-source-maps-tooltip =
     .title = Joliv toś to nastajenje zmóžnjaśo, se žrědła w rědach kartěruju.
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (jano aktualne pósejźenje, bok se znowego zacytujo)
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Jano aktualne pósejźenje, bok zacytujo se znowego
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
