@@ -471,6 +471,11 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Po e përmirësoni me Windows 11?
+    Le të kopjeruajmë të dhënat tuaja { -brand-product-name }-it.
+create-backup-screen-1-subtitle = Mbroni automatikisht fjalëkalimet tuaj, faqerojtësit, etj, në 1 a 2 minuta.
+create-backup-screen-1-flair = E këshilluar
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Mësoni më tepër</a>
 create-backup-screen-1-sync-label = Njëkohësoje me { -brand-product-name }-in
 create-backup-select-tile-button-label = Përzgjidhe
@@ -509,6 +514,9 @@ fx-backup-confirmation-screen-close-button = Mbylle
 
 ## Restore from Backup Flow about:welcome screens
 
+restore-from-backup-secondary-top-button = Riktheje që nga Kopjeruajtje
+restore-from-backup-title = Le ta rikthejmë { -brand-short-name }-in si e doni
+restore-from-backup-subtitle = Rimerrni krejt faqerojtësit tuaj, historikun dhe të tjera të dhëna, që t’i riktheheni shfletimit.
 restore-from-backup-secondary-button = Mos e rikthe
 
 ## Restored from Backup spotlight

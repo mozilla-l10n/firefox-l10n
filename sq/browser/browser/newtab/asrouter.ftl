@@ -381,6 +381,8 @@ windows-10-eos-sync-toast-secondary-label = Kujtoma më vonë
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-primary-button = Kopjeruani { -brand-shorter-name }-in
+windows-10-eos-challenger-pin-primary-button = Fiksoje { -brand-shorter-name }-in
 windows-10-eos-sync-callout-privacy-screen-2-title = Siguroni fjalëkalimet dhe faqerojtësit, për pajisjen tuaj pasuese.
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Kopjeruajtja e { -brand-shorter-name }-it e bën të kollajtë të sillni me ju të dhënat tuaja dhe rregullimet për privatësinë.
 windows-10-eos-sync-callout-privacy-info-button = Shihni ç’është bllokuar

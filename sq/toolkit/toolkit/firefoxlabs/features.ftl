@@ -22,6 +22,8 @@ experimental-features-group-webpage-display =
     .label = Shfaqje faqeje Web
 experimental-features-group-customize-browsing =
     .label = Përshtatni shfletimin tuaj
+experimental-features-group-productivity =
+    .label = Prodhimtari
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Fjalëkalime në anështyllë
@@ -44,6 +46,9 @@ experimental-features-link-previews-description-no-ai =
         [macos] Që të mësoni më tepër mbi një faqe, para se të klikoni, kalojeni kursorin sipër një lidhjeje dhe shtypnni Shift + Alt (⇧) plus Option (⌥) ose Alt. Paraparjet mund të përfshijnë hollësi të tilla si titulli dhe kohë leximi. <a data-l10n-name="connect">Jepni përshtypje</a>
        *[other] Që të mësoni më tepër mbi një faqe, para se të klikoni, kalojeni kursorin sipër një lidhjeje dhe shtypnni Shift + Alt. Paraparjet mund të përfshijnë hollësi të tilla si titulli dhe kohë leximi. <a data-l10n-name="connect">Jepni përshtypje</a>
     }
+# New Tab Sections with follow and block
+experimental-features-newtab-sections-follow-block =
+    .label = Ndarje Sipas Subjektesh dhe Ndiqeni/Bllokoje për Histori Në Skedë të Re
 experimental-features-newtab-sections-follow-block-description = Sistemojini historitë te faqja juaj Skedë e Re Organize në ndarje sipas subjektit (Sporte, Ushqim, Dëfrim, etj), për një punim më të strukturuar dhe të lehtë për t’u orientuar. Përdorni kontrollet tanë të rinj Ndiqeni dhe Bllokojeni, që të përshtatni ç’lëndë shihni. <a data-l10n-name="connect">Jepni përshtypje</a>
 # Firefox Web Apps
 experimental-features-fx-web-apps =
@@ -56,6 +61,7 @@ experimental-features-fx-web-apps-description = Hapini sajtet që vizitoni shpes
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Lista në { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Mbajeni listën tuaj të punëve në krye fare, kur hapni një skedë të re. Nga lista e gjërave që duhen paketuar e deri te listat e pazareve, bëjini planet tuaja në { -brand-product-name }. <a data-l10n-name="connect">Jepni përshtypje</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Kohëmatës në { -firefox-home-brand-name }
@@ -63,6 +69,7 @@ experimental-features-newtab-widget-timer-description = Ujdisni një kohëmatës
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Lista dhe kohëmatës në { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Mbajeni listën tuaj të punëve në krye fare, kur hapni një skedë të re. Nga lista e gjërave që duhen paketuar e deri te listat e pazareve, bëjini planet tuaja në { -brand-product-name }. Ujdisni një kohëmatës që të ruani përqendrimin, që t’ju cytë të vazhdoni punën, ose t’ju kujtojë se duhet të pushoni për të rimarrë forcat. <a data-l10n-name="connect">Jepni përshtypje</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Kërkim Semantik Në Historik
