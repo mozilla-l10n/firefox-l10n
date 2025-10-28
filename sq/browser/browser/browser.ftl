@@ -1454,6 +1454,7 @@ trustpanel-connection-label-insecure = Lidhje jo e siguruar
 trustpanel-header-enabled = { -brand-product-name }-i po bën rojë
 trustpanel-description-enabled2 = Jeni i mbrojtur. Nëse vërejmë gjë, do t’ua bëjmë të ditur.
 trustpanel-header-enabled-insecure = Hapni sytë në këtë sajt
+trustpanel-description-enabled-insecure = { -brand-product-name } vuri re diçka të dyshimtë.
 trustpanel-description-enabled = Jeni i mbrojtur. Nëse vërejmë gjë, do t’ua bëjmë të ditur
 trustpanel-header-disabled = Keni mbyllur mbrojtjet
 trustpanel-description-disabled = { -brand-product-name }-i s’është në shërbim. Sugjerojmë të riaktivizoni mbrojtjet.
@@ -1514,4 +1515,40 @@ trustpanel-list-label-social-tracking =
         [one] { $count } Gjurmues mediash shoqërore
        *[other] { $count } Gjurmues mediash shoqërore
     }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } Nxjerrës kriptomonedhash
+       *[other] { $count } Nxjerrës kriptomonedhash
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-i bllokoi { $count } gjurmues mediash shoqërore
+       *[other] { -brand-product-name }-i bllokoi { $count } gjurmues mediash shoqërore
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-i lejoi { $count } gjurmues mediash shoqërore
+       *[other] { -brand-product-name }-i lejoi { $count } gjurmues mediash shoqërore
+    }
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-i bllokoi { $count } “cookie” gjurmimi nga sajti në sajt
+       *[other] { -brand-product-name }-i bllokoi { $count } “cookies” gjurmimi nga sajti në sajt
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-i lejoi { $count } “cookie” gjurmimi nga sajti në sajt
+       *[other] { -brand-product-name }-i lejoi { $count } “cookies” gjurmimi nga sajti në sajt
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-i bllokoi { $count } gjurmues
+       *[other] { -brand-product-name }-i bllokoi { $count } gjurmues
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-i lejoi { $count } gjurmues
+       *[other] { -brand-product-name }-i lejoi { $count } gjurmues
+    }
 trustpanel-tracking-content-tab-list-header = Këto sajte po rreken t’ju ndjekin:
+trustpanel-cryptominer-tab-list-header = Këto sajte po rreken të nxjerrin kriptomonedha:
