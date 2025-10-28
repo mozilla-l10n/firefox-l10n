@@ -22,20 +22,37 @@ date-spinner-label =
 
 ## Text of the clear button
 
+date-picker-clear-button = Rensa
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
+date-picker-previous =
+    .aria-label = Föregående månad
+date-picker-next =
+    .aria-label = Nästa månad
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
 ## Month/Year date spinner dialogs on a datepicker calendar dialog
 
+date-spinner-month =
+    .aria-label = Månad
+date-spinner-year =
+    .aria-label = År
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through either months
 ## or years of a Month/Year date spinner on a datepicker calendar dialog
 
+date-spinner-month-previous =
+    .aria-label = Föregående månad
+date-spinner-month-next =
+    .aria-label = Nästa månad
+date-spinner-year-previous =
+    .aria-label = Föregående år
+date-spinner-year-next =
+    .aria-label = Nästa år
 
 ## This label is used by screenreaders and other assistive technology
 ## to indicate the purpose of a time picker dialog
