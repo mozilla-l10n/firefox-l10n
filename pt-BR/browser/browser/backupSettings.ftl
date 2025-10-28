@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Escolher arquivo de 
 settings-data-backup-scheduled-backups-on-restore-description = Recupere seus dados do { -brand-product-name } da última vez que foi feito backup.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
 settings-data-toggle-encryption-label = Salve cópia de segurança de seus dados sensíveis
-settings-data-toggle-encryption-description = Faça backup de suas senhas, métodos de pagamento e cookies, com criptografia.
 settings-data-toggle-encryption-support-link = Saiba mais
 settings-data-change-password = Mudar senha…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Escolher…
     }
 turn-on-scheduled-backups-encryption-label = Salve cópia de segurança de seus dados sensíveis
-turn-on-scheduled-backups-encryption-description = Faça backup de suas senhas, métodos de pagamento e cookies, com criptografia.
 turn-on-scheduled-backups-encryption-create-password-label = Senha
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Repetir senha
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Salve cópia de segurança de seus dados sensíveis
-enable-backup-encryption-description = Faça backup de suas senhas, métodos de pagamento e cookies, mantendo todos os seus dados protegidos com criptografia.
 enable-backup-encryption-support-link = Saiba mais
 enable-backup-encryption-create-password-label = Senha
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Remover proteção por senha
-disable-backup-encryption-description = Suas senhas, métodos de pagamento e cookies salvos não serão mais guardados em backup.
 disable-backup-encryption-support-link = O que é salvo?
 disable-backup-encryption-cancel-button = Cancelar
 disable-backup-encryption-confirm-button = Remover senha

@@ -45,7 +45,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Pilih berkas cadanga
 settings-data-backup-scheduled-backups-on-restore-description = Pulihkan data { -brand-product-name } Anda dari terakhir kali dicadangkan.
 settings-data-backup-scheduled-backups-on-restore-choose = Pulihkan…
 settings-data-toggle-encryption-label = Cadangkan data sensitif Anda
-settings-data-toggle-encryption-description = Cadangkan kata sandi, metode pembayaran, dan kuki Anda dengan enkripsi.
 settings-data-toggle-encryption-support-link = Pelajari lebih lanjut
 settings-data-change-password = Ubah sandi…
 
@@ -66,7 +65,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Ramban...
     }
 turn-on-scheduled-backups-encryption-label = Cadangkan data sensitif Anda
-turn-on-scheduled-backups-encryption-description = Cadangkan kata sandi, metode pembayaran, dan kuki Anda dengan enkripsi.
 turn-on-scheduled-backups-encryption-create-password-label = Sandi
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Ulangi sandi

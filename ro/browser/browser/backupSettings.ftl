@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Alege fișierul pent
 settings-data-backup-scheduled-backups-on-restore-description = Recuperează-ți datele { -brand-product-name } de la ultima copie de rezervă.
 settings-data-backup-scheduled-backups-on-restore-choose = Restabilește…
 settings-data-toggle-encryption-label = Fă o copie de rezervă cu datele tale sensibile
-settings-data-toggle-encryption-description = Fă copii de rezervă criptate cu parolele, metodele de plată și cookie-uri.
 settings-data-toggle-encryption-support-link = Află mai multe
 settings-data-change-password = Schimbă parola…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Răsfoiește…
     }
 turn-on-scheduled-backups-encryption-label = Fă o copie de rezervă cu datele tale sensibile
-turn-on-scheduled-backups-encryption-description = Fă copii de rezervă criptate cu parolele, metodele de plată și cookie-uri.
 turn-on-scheduled-backups-encryption-create-password-label = Parolă
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Repetă parola
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Fă o copie de rezervă cu datele tale sensibile
-enable-backup-encryption-description = Fă copii de rezervă cu parolele, metodele de plată și cookie-uri și păstrează toate datele confidențiale prin criptare.
 enable-backup-encryption-support-link = Află mai multe
 enable-backup-encryption-create-password-label = Parolă
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Elimină protecția prin parolă
-disable-backup-encryption-description = Parolele, metodele de plată și cookie-urile salvate nu vor mai fi salvate în copia de rezervă.
 disable-backup-encryption-support-link = Ce va conține copia de rezervă?
 disable-backup-encryption-cancel-button = Anulează
 disable-backup-encryption-confirm-button = Elimină parola

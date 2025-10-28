@@ -56,7 +56,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Vybrat soubor se zá
 
 settings-data-backup-scheduled-backups-on-restore-choose = Obnovit…
 settings-data-toggle-encryption-label = Zálohovat i citlivá data
-settings-data-toggle-encryption-description = Zálohujte hesla, platební metody a soubory cookie pomocí šifrování.
 settings-data-toggle-encryption-support-link = Zjistit více
 settings-data-change-password = Změnit heslo…
 
@@ -77,7 +76,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Procházet…
     }
 turn-on-scheduled-backups-encryption-label = Zálohovat i citlivá data
-turn-on-scheduled-backups-encryption-description = Zálohujte hesla, platební metody a soubory cookie pomocí šifrování.
 turn-on-scheduled-backups-encryption-create-password-label = Heslo
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Zopakujte heslo
@@ -167,7 +165,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Zálohovat i citlivá data
-enable-backup-encryption-description = Zálohujte svá hesla, platební metody, cookies a všechna svá data uchovávejte v bezpečí pomocí šifrování.
 enable-backup-encryption-support-link = Zjistit více
 enable-backup-encryption-create-password-label = Heslo
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -195,7 +192,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Odebrání ochrany heslem
-disable-backup-encryption-description = Uložená hesla, platební metody a cookies nebudou nadále zálohovány.
 disable-backup-encryption-support-link = Co se bude zálohovat?
 disable-backup-encryption-cancel-button = Zrušit
 disable-backup-encryption-confirm-button = Odebrat heslo

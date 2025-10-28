@@ -7,12 +7,12 @@
 
 #  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
 existing-user-tou-message = <strong>Aktualisierung</strong> Wir haben { -brand-short-name } <a data-l10n-name="terms-of-use-link">Nutzungsbedingungen</a> eingeführt und unseren <a data-l10n-name="privacy-notice-link">Datenschutzhinweis</a> aktualisiert. Bitte nehmen Sie sich einen Moment Zeit, um dies zu überprüfen und zu akzeptieren.
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Wir haben unsere <a data-l10n-name="privacy-notice-link">Datenschutzerklärung</a> aktualisiert, um auf die neuesten Funktionen von { -brand-short-name } zu reagieren.
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = Weitere Informationen
 # Text for primary button
 existing-user-tou-accept = Annehmen
-# Infobar message for when the Privacy Notice is updated.
-existing-user-privacy-notice-update-message = Wir haben unsere <a data-l10n-name="privacy-notice-link">Datenschutzerklärung</a> aktualisiert, um auf die neuesten Funktionen von { -brand-short-name } zu reagieren.
 
 ## Existing User Terms of Use Spotlight
 

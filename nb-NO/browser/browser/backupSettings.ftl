@@ -50,7 +50,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Velg sikkerhetskopif
 settings-data-backup-scheduled-backups-on-restore-description = Gjenopprett dine { -brand-product-name }-data fra forrige gang de ble sikkerhetskopiert.
 settings-data-backup-scheduled-backups-on-restore-choose = Gjenopprett…
 settings-data-toggle-encryption-label = Sikkerhetskopier sensitive data
-settings-data-toggle-encryption-description = Sikkerhetskopier passordene, betalingsmåtene og infokapslene dine med kryptering.
 settings-data-toggle-encryption-support-link = Les mer
 settings-data-change-password = Endre passord…
 
@@ -71,7 +70,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Bla gjennom…
     }
 turn-on-scheduled-backups-encryption-label = Sikkerhetskopier sensitive data
-turn-on-scheduled-backups-encryption-description = Sikkerhetskopier passordene, betalingsmåtene og infokapslene dine med kryptering.
 turn-on-scheduled-backups-encryption-create-password-label = Passord
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Gjenta passord

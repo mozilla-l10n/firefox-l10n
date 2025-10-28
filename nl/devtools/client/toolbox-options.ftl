@@ -150,4 +150,5 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Alleen huidige sessie, vernieuwt de pagina
 # The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (laadt de pagina opnieuw)

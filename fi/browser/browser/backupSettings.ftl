@@ -66,7 +66,6 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Valitse…
        *[other] Selaa…
     }
-turn-on-scheduled-backups-encryption-description = Varmuuskopioi salasanat, maksutavat ja evästeet salattuna.
 turn-on-scheduled-backups-encryption-create-password-label = Salasana
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Toista salasana

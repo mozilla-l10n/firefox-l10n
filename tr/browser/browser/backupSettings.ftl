@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Yedek dosyasını se
 settings-data-backup-scheduled-backups-on-restore-description = { -brand-product-name } verilerinizi en son yedeklendiği zamandan geri getirin.
 settings-data-backup-scheduled-backups-on-restore-choose = Geri yükle…
 settings-data-toggle-encryption-label = Hassas verilerimi yedekle
-settings-data-toggle-encryption-description = Parolalarınızı, ödeme yöntemlerinizi ve çerezlerinizi şifrelenmiş olarak yedekleyin.
 settings-data-toggle-encryption-support-link = Daha fazla bilgi al
 settings-data-change-password = Parolayı değiştir…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Göz at…
     }
 turn-on-scheduled-backups-encryption-label = Hassas verilerimi yedekle
-turn-on-scheduled-backups-encryption-description = Parolalarınızı, ödeme yöntemlerinizi ve çerezlerinizi şifrelenmiş olarak yedekleyin.
 turn-on-scheduled-backups-encryption-create-password-label = Parola
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Parola tekrarı
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Hassas verilerimi yedekle
-enable-backup-encryption-description = Parolalarınızı, ödeme yöntemlerinizi ve çerezlerinizi yedekleyin; şifreleme ile tüm verilerinizi güvende tutun.
 enable-backup-encryption-support-link = Daha fazla bilgi al
 enable-backup-encryption-create-password-label = Parola
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Parola korumasını kaldır
-disable-backup-encryption-description = Kayıtlı parolalarınız, ödeme yöntemleriniz ve çerezleriniz artık yedeklenmeyecek.
 disable-backup-encryption-support-link = Neler yedeklenecek?
 disable-backup-encryption-cancel-button = Vazgeç
 disable-backup-encryption-confirm-button = Parolayı kaldır

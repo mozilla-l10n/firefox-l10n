@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Vybrať súbor zálo
 settings-data-backup-scheduled-backups-on-restore-description = Obnovte si dáta { -brand-product-name(case: "gen") } z poslednej zálohy.
 settings-data-backup-scheduled-backups-on-restore-choose = Obnoviť…
 settings-data-toggle-encryption-label = Zálohovať citlivé údaje
-settings-data-toggle-encryption-description = Pomocou šifrovania zálohujte si heslá, platobné metódy a súbory cookie.
 settings-data-toggle-encryption-support-link = Ďalšie informácie
 settings-data-change-password = Zmeniť heslo…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Prehľadávať…
     }
 turn-on-scheduled-backups-encryption-label = Zálohovať citlivé údaje
-turn-on-scheduled-backups-encryption-description = Pomocou šifrovania zálohujte si heslá, platobné metódy a súbory cookie.
 turn-on-scheduled-backups-encryption-create-password-label = Heslo
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Zopakujte heslo
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Zálohovať citlivé údaje
-enable-backup-encryption-description = Zálohujte si heslá, platobné metódy a súbory cookie a zároveň uložte všetky svoje údaje do bezpečia pomocou šifrovania.
 enable-backup-encryption-support-link = Ďalšie informácie
 enable-backup-encryption-create-password-label = Heslo
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Odstrániť ochranu heslom
-disable-backup-encryption-description = Vaše uložené heslá, spôsoby platby a súbory cookie sa už nebudú zálohovať.
 disable-backup-encryption-support-link = Čo bude zálohované?
 disable-backup-encryption-cancel-button = Zrušiť
 disable-backup-encryption-confirm-button = Odstrániť heslo

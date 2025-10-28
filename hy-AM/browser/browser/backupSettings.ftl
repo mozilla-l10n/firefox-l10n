@@ -45,7 +45,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Ընտրեք պահ�
 settings-data-backup-scheduled-backups-on-restore-description = Վերականգնեք { -brand-product-name }-ի տվյալները վերջին պահուստավորման պահուստից։
 settings-data-backup-scheduled-backups-on-restore-choose = Վերականգնել…
 settings-data-toggle-encryption-label = Պահուստավորեք ձեր զգայուն տվյալները
-settings-data-toggle-encryption-description = Պահուստավորեք ձեր գաղտնաբառերը, վճարման եղանակները և թխուկները կոդավորմամբ։
 settings-data-toggle-encryption-support-link = Իմանալ ավելին
 settings-data-change-password = Փոխել գաղտնաբառը…
 
@@ -66,7 +65,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Ընտրել…
     }
 turn-on-scheduled-backups-encryption-label = Պահուստավորեք ձեր զգայուն տվյալները
-turn-on-scheduled-backups-encryption-description = Պահուստավորեք ձեր գաղտնաբառերը, վճարման եղանակները և թխուկները կոդավորմամբ։
 turn-on-scheduled-backups-encryption-create-password-label = Գաղտնաբառ
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Կրկնել գաղտնաբառը

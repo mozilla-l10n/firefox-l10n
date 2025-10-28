@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Dewiswch ffeil wrth 
 settings-data-backup-scheduled-backups-on-restore-description = Adferwch eich data { -brand-product-name } o'r tro diwethaf iddo gael ei wneud wrth gefn.
 settings-data-backup-scheduled-backups-on-restore-choose = Wthi'n adfer…
 settings-data-toggle-encryption-label = Gwnewch gopi wrth gefn o'ch data sensitif
-settings-data-toggle-encryption-description = Gwnewch gopi wrth gefn o'ch cyfrineiriau, eich dulliau talu a'ch cwcis gydag amgryptio.
 settings-data-toggle-encryption-support-link = Dysgu rhagor
 settings-data-change-password = Newid cyfrinair…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Pori…
     }
 turn-on-scheduled-backups-encryption-label = Gwnewch gopi wrth gefn o'ch data sensitif
-turn-on-scheduled-backups-encryption-description = Gwnewch gopi wrth gefn o'ch cyfrineiriau, eich dulliau talu a'ch cwcis gydag amgryptio.
 turn-on-scheduled-backups-encryption-create-password-label = Cyfrinair
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Ailadrodd y cyfrinair
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Gwnewch gopi wrth gefn o'ch data sensitif
-enable-backup-encryption-description = Gwnewch gopi wrth gefn o'ch cyfrineiriau, eich dulliau talu a'ch cwcis, a chadw'ch holl ddata'n ddiogel gydag amgryptio.
 enable-backup-encryption-support-link = Dysgu rhagor
 enable-backup-encryption-create-password-label = Cyfrinair
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Tynnu diogelwch cyfrineiriau
-disable-backup-encryption-description = Fydd eich cyfrineiriau, dulliau talu a chwcis sydd wedi'u cadw bellach ddim yn cael eu cadw wrth gefn.
 disable-backup-encryption-support-link = Beth fydd yn cael ei gadw wrth gefn?
 disable-backup-encryption-cancel-button = Diddymu
 disable-backup-encryption-confirm-button = Tynnu'r cyfrinair

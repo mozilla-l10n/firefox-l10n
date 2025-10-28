@@ -67,10 +67,10 @@ translations-panel-settings-always-offer-translation =
 translations-panel-settings-never-translate-language =
     .label = Nikdy nepřekládat z jazyka { $language }
 translations-panel-settings-never-translate-unknown-language =
-    .label = Nikdy nepřekládat tento jazyk
+    .label = Nikdy nepřekládat z tohoto jazyka
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
-    .label = Nikdy nepřekládat tuto stránku
+    .label = Nikdy nepřekládat tento web
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
@@ -165,7 +165,7 @@ translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Překlad pro následující jazyky proběhne automaticky
 translations-settings-never-translate-langs-description = Překlad nebude nabízen pro následující jazyky
-translations-settings-never-translate-sites-description = Překlady nebudou nabízeny pro následující stránky
+translations-settings-never-translate-sites-description = Překlady nebudou nabízeny pro následující weby
 translations-settings-languages-column =
     .label = Jazyky
 translations-settings-remove-language-button =
@@ -177,10 +177,10 @@ translations-settings-remove-all-languages-button =
 translations-settings-sites-column =
     .label = Webové stránky
 translations-settings-remove-site-button =
-    .label = Odebrat stránku
+    .label = Odebrat web
     .accesskey = s
 translations-settings-remove-all-sites-button =
-    .label = Odebrat všechny stránky
+    .label = Odebrat všechny weby
     .accesskey = O
 translations-settings-close-dialog =
     .buttonlabelaccept = Zavřít

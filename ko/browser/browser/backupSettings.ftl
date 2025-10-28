@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = 백업 파일 선택
 settings-data-backup-scheduled-backups-on-restore-description = 마지막 백업 당시의 { -brand-product-name } 데이터를 복구하세요.
 settings-data-backup-scheduled-backups-on-restore-choose = 복원…
 settings-data-toggle-encryption-label = 민감한 정보 백업
-settings-data-toggle-encryption-description = 비밀번호, 결제 방법 및 쿠키를 암호화하여 백업하세요.
 settings-data-toggle-encryption-support-link = 더 알아보기
 settings-data-change-password = 비밀번호 변경…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] 찾아보기…
     }
 turn-on-scheduled-backups-encryption-label = 민감한 정보 백업
-turn-on-scheduled-backups-encryption-description = 비밀번호, 결제 방법 및 쿠키를 암호화하여 백업하세요.
 turn-on-scheduled-backups-encryption-create-password-label = 비밀번호
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = 비밀번호 재입력
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = 민감한 정보 백업
-enable-backup-encryption-description = 비밀번호, 결제 방법 및 쿠키를 백업하고 모든 데이터가 암호화되어 안전하게 유지됩니다.
 enable-backup-encryption-support-link = 더 알아보기
 enable-backup-encryption-create-password-label = 비밀번호
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = 암호 보호 제거
-disable-backup-encryption-description = 저장된 비밀번호, 결제 방법 및 쿠키가 더 이상 백업되지 않습니다.
 disable-backup-encryption-support-link = 어떤 것이 백업되나요?
 disable-backup-encryption-cancel-button = 취소
 disable-backup-encryption-confirm-button = 비밀번호 제거

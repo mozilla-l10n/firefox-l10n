@@ -47,7 +47,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Elije el archivo de 
 settings-data-backup-scheduled-backups-on-restore-description = Recupera tus datos de { -brand-product-name } desde la última vez que realizaste un respaldo.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
 settings-data-toggle-encryption-label = Realiza un respaldo de tus datos sensibles
-settings-data-toggle-encryption-description = Realiza un respaldo de tus contraseñas, métodos de pago y cookies con cifrado.
 settings-data-toggle-encryption-support-link = Más información
 settings-data-change-password = Cambiar contraseña…
 
@@ -68,7 +67,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Examinar…
     }
 turn-on-scheduled-backups-encryption-label = Realiza un respaldo de tus datos sensibles
-turn-on-scheduled-backups-encryption-description = Realiza un respaldo de tus contraseñas, métodos de pago y cookies con cifrado.
 turn-on-scheduled-backups-encryption-create-password-label = Contraseña
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Repetir contraseña
@@ -150,7 +148,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Realiza un respaldo de tus datos sensibles
-enable-backup-encryption-description = Realice un respaldo de tus contraseñas, métodos de pago y cookies, además de mantener todos sus datos seguros con cifrado.
 enable-backup-encryption-support-link = Aprender más
 enable-backup-encryption-create-password-label = Contraseña
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -178,7 +175,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Eliminar la protección con contraseña
-disable-backup-encryption-description = Tus contraseñas guardadas, métodos de pago y cookies ya no serán respaldados.
 disable-backup-encryption-support-link = ¿Qué se respaldará?
 disable-backup-encryption-cancel-button = Cancelar
 disable-backup-encryption-confirm-button = Eliminar contraseña

@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = 选择备份文件�
 settings-data-backup-scheduled-backups-on-restore-description = 从上次备份恢复您的 { -brand-product-name } 数据。
 settings-data-backup-scheduled-backups-on-restore-choose = 恢复…
 settings-data-toggle-encryption-label = 备份敏感数据
-settings-data-toggle-encryption-description = 加密备份您的密码、付款方式、Cookie。
 settings-data-toggle-encryption-support-link = 详细了解
 settings-data-change-password = 更改密码…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] 浏览…
     }
 turn-on-scheduled-backups-encryption-label = 备份敏感数据
-turn-on-scheduled-backups-encryption-description = 加密备您的密码、付款信息、Cookie。
 turn-on-scheduled-backups-encryption-create-password-label = 密码
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = 再次输入密码
@@ -158,7 +156,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = 备份敏感数据
-enable-backup-encryption-description = 备份您的密码、付款信息、Cookie，并以加密来保护数据安全。
 enable-backup-encryption-support-link = 详细了解
 enable-backup-encryption-create-password-label = 密码
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -186,7 +183,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = 移除密码保护
-disable-backup-encryption-description = 将不再备份您保存的密码、付款信息、Cookie。
 disable-backup-encryption-support-link = 备份的内容
 disable-backup-encryption-cancel-button = 取消
 disable-backup-encryption-confirm-button = 移除密码

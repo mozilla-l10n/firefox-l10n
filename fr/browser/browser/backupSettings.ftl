@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Choisir un fichier d
 settings-data-backup-scheduled-backups-on-restore-description = Restaurez les données de { -brand-product-name } à partir de la dernière sauvegarde.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurer…
 settings-data-toggle-encryption-label = Sauvegarder vos données sensibles
-settings-data-toggle-encryption-description = Sauvegardez de manière chiffrée vos mots de passe, moyens de paiement et cookies.
 settings-data-toggle-encryption-support-link = En savoir plus
 settings-data-change-password = Changer le mot de passe…
 
@@ -68,7 +67,6 @@ turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (recommandé)
 turn-on-scheduled-backups-location-choose-button = Parcourir…
 turn-on-scheduled-backups-encryption-label = Sauvegarder vos données sensibles
-turn-on-scheduled-backups-encryption-description = Sauvegardez de manière chiffrée vos mots de passe, moyens de paiement et cookies.
 turn-on-scheduled-backups-encryption-create-password-label = Mot de passe
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Répéter le mot de passe
@@ -151,7 +149,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Sauvegarder vos données sensibles
-enable-backup-encryption-description = Sauvegardez vos mots de passe, modes de paiement et cookies, et protégez vos données grâce au chiffrement.
 enable-backup-encryption-support-link = En savoir plus
 enable-backup-encryption-create-password-label = Mot de passe
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -179,7 +176,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Retirer la protection par mot de passe
-disable-backup-encryption-description = Vos mots de passe, modes de paiement et cookies ne seront plus sauvegardés.
 disable-backup-encryption-support-link = Quelles données seront sauvegardées ?
 disable-backup-encryption-cancel-button = Annuler
 disable-backup-encryption-confirm-button = Supprimer le mot de passe

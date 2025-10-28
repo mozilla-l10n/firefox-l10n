@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Biztonsági mentési
 settings-data-backup-scheduled-backups-on-restore-description = Állítsa helyre az adatait a { -brand-product-name } a legutóbbi biztonsági mentéséből.
 settings-data-backup-scheduled-backups-on-restore-choose = Helyreállítás…
 settings-data-toggle-encryption-label = Készítsen biztonsági mentést a bizalmas adatairól
-settings-data-toggle-encryption-description = Készítsen biztonsági mentést a jelszavairól, fizetési módjairól és a sütijeiről titkosítással.
 settings-data-toggle-encryption-support-link = További tudnivalók
 settings-data-change-password = Jelszó megváltoztatása…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Tallózás…
     }
 turn-on-scheduled-backups-encryption-label = Készítsen biztonsági mentést a bizalmas adatairól
-turn-on-scheduled-backups-encryption-description = Készítsen biztonsági mentést a jelszavairól, fizetési módjairól és a sütijeiről titkosítással.
 turn-on-scheduled-backups-encryption-create-password-label = Jelszó
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Jelszó megismétlése
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Készítsen biztonsági mentést a bizalmas adatairól
-enable-backup-encryption-description = Készítsen biztonsági mentést jelszavairól, fizetési módjairól és sütijeiről, valamint tartsa minden adatát biztonságban titkosítással.
 enable-backup-encryption-support-link = További tudnivalók
 enable-backup-encryption-create-password-label = Jelszó
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Jelszavas védelem eltávolítása
-disable-backup-encryption-description = A mentett jelszavairól, fizetési módjairól és sütijeiről többé nem lesz biztonsági mentés.
 disable-backup-encryption-support-link = Miről lesz mentés készítve?
 disable-backup-encryption-cancel-button = Mégse
 disable-backup-encryption-confirm-button = Jelszó eltávolítása

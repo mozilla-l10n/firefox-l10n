@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = …ਬੈਕਅੱ�
 settings-data-backup-scheduled-backups-on-restore-description = ਪਿਛਲੀ ਕੀਤੇ ਬੈਕ ਅੱਪ ਤੋਂ ਆਪਣੇ { -brand-product-name } ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰੋ।
 settings-data-backup-scheduled-backups-on-restore-choose = …ਬਹਾਲ ਕਰੋ
 settings-data-toggle-encryption-label = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
-settings-data-toggle-encryption-description = ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਅਤੇ ਕੂਕੀਜ਼ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਰਾਹੀਂ ਬੈਕ ਅੱਪ ਲਵੋ।
 settings-data-toggle-encryption-support-link = ਹੋਰ ਜਾਣੋ
 settings-data-change-password = …ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
 
@@ -71,7 +70,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] …ਝਲਕ
     }
 turn-on-scheduled-backups-encryption-label = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
-turn-on-scheduled-backups-encryption-description = ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਅਤੇ ਕੂਕੀਜ਼ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਰਾਹੀਂ ਬੈਕ ਅੱਪ ਲਵੋ।
 turn-on-scheduled-backups-encryption-create-password-label = ਪਾਸਵਰਡ
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = ਪਾਸਵਰਡ ਦੁਹਰਾਓ
@@ -154,7 +152,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
-enable-backup-encryption-description = ਆਪਣੇ ਪਾਸਵਰਡ, ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਅਤੇ ਕੂਕੀਜ਼ ਦੇ ਬੈਕਅੱਪ ਨਾਲ ਨਾਲ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰੱਖੋ।
 enable-backup-encryption-support-link = ਹੋਰ ਜਾਣੋ
 enable-backup-encryption-create-password-label = ਪਾਸਵਰਡ
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -182,7 +179,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = ਪਾਸਵਰਡ ਸੁਰੱਖਿਆ ਨੂੰ ਹਟਾਓ
-disable-backup-encryption-description = ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ, ਭੁਗਤਾਨ ਦੇ ਢੰਗ ਅਤੇ ਕੂਕੀਜ਼ ਦਾ ਬੈਕਅੱਪ ਨਹੀਂ ਲਿਆ ਜਾਵੇਗਾ।
 disable-backup-encryption-support-link = ਕਿਸ ਦਾ ਬੈਕਅੱਪ ਲਿਆ ਜਾਵੇਗਾ?
 disable-backup-encryption-cancel-button = ਰੱਦ ਕਰੋ
 disable-backup-encryption-confirm-button = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ

@@ -7,12 +7,12 @@
 
 #  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
 existing-user-tou-message = <strong>Diweddariad</strong> Rydym wedi cyflwyno { -brand-short-name } <a data-l10n-name="terms-of-use-link">Amodau Defnydd</a> ac wedi diweddaru ein <a data-l10n-name="privacy-notice-link">Hysbysiad Preifatrwydd</a>. Cymerwch eiliad i'w ddarllen a'i dderbyn.
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Rydym wedi diweddaru ein <a data-l10n-name="privacy-notice-link">Hysbysiad Preifatrwydd</a> i adlewyrchu'r nodweddion diweddaraf yn { -brand-short-name }.
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = Dysgu rhagor
 # Text for primary button
 existing-user-tou-accept = Derbyn
-# Infobar message for when the Privacy Notice is updated.
-existing-user-privacy-notice-update-message = Rydym wedi diweddaru ein <a data-l10n-name="privacy-notice-link">Hysbysiad Preifatrwydd</a> i adlewyrchu'r nodweddion diweddaraf yn { -brand-short-name }.
 
 ## Existing User Terms of Use Spotlight
 

@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Eliger file de salve
 settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } desde lor ultime salveguarda.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
 settings-data-toggle-encryption-label = Salveguardar tu datos sensibile
-settings-data-toggle-encryption-description = Salveguarda tu contrasignos, methodos de pagamento, e cookies con cryptation.
 settings-data-toggle-encryption-support-link = Pro saper plus
 settings-data-change-password = Cambiar contrasigno…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Navigar…
     }
 turn-on-scheduled-backups-encryption-label = Salveguarda tu datos sensibile
-turn-on-scheduled-backups-encryption-description = Salveguarda tu contrasignos, methodos de pagamento, e cookies con cryptation.
 turn-on-scheduled-backups-encryption-create-password-label = Contrasigno
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Repete le contrasigno
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Salveguarda tu datos sensibile
-enable-backup-encryption-description = Salveguarda tu contrasignos, methodos de pagamento, e cookies, e in addition mantene tote tu datos secur con cryptation.
 enable-backup-encryption-support-link = Pro saper plus
 enable-backup-encryption-create-password-label = Contrasigno
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Remover protection de contrasignos
-disable-backup-encryption-description = Tu contrasignos, methodos de pagamento e cookies non essera plus salveguardate.
 disable-backup-encryption-support-link = Que essera salveguardate?
 disable-backup-encryption-cancel-button = Cancellar
 disable-backup-encryption-confirm-button = Remover contrasigno

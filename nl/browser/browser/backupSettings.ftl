@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Reservekopiebestand 
 settings-data-backup-scheduled-backups-on-restore-description = Uw { -brand-product-name }-gegevens herstellen vanuit de laatste reservekopie.
 settings-data-backup-scheduled-backups-on-restore-choose = Herstellen…
 settings-data-toggle-encryption-label = Reservekopie van uw gevoelige gegevens maken
-settings-data-toggle-encryption-description = Maak versleuteld een reservekopie van uw wachtwoorden, betalingsmethoden en cookies.
 settings-data-toggle-encryption-support-link = Meer info
 settings-data-change-password = Wachtwoord wijzigen…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Bladeren…
     }
 turn-on-scheduled-backups-encryption-label = Een reservekopie van uw gevoelige gegevens maken
-turn-on-scheduled-backups-encryption-description = Maak versleuteld een reservekopie van uw wachtwoorden, betalingsmethoden en cookies.
 turn-on-scheduled-backups-encryption-create-password-label = Wachtwoord
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Herhaal wachtwoord
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Een reservekopie van uw gevoelige gegevens maken
-enable-backup-encryption-description = Maak een reservekopie van uw wachtwoorden, betalingsmethoden en cookies, en houd al uw gegevens veilig met versleuteling.
 enable-backup-encryption-support-link = Meer info
 enable-backup-encryption-create-password-label = Wachtwoord
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Wachtwoordbescherming verwijderen
-disable-backup-encryption-description = Er wordt geen reservekopie meer gemaakt van uw opgeslagen wachtwoorden, betalingsmethoden en cookies.
 disable-backup-encryption-support-link = Waarvan wordt een reservekopie gemaakt?
 disable-backup-encryption-cancel-button = Annuleren
 disable-backup-encryption-confirm-button = Wachtwoord verwijderen

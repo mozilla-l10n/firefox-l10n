@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Zawěsćensku dataju
 settings-data-backup-scheduled-backups-on-restore-description = Wobnowće daty { -brand-product-name } wot poslednjeho raza, hdyž su so zawěsćili.
 settings-data-backup-scheduled-backups-on-restore-choose = Wobnowić…
 settings-data-toggle-encryption-label = Zawěsćće swoje sensibelne daty
-settings-data-toggle-encryption-description = Zawěsćće swoje hesła, płaćenske metody a placki ze zaklučowanjom.
 settings-data-toggle-encryption-support-link = Dalše informacije
 settings-data-change-password = Hesło změnić…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Přepytać…
     }
 turn-on-scheduled-backups-encryption-label = Zawěsćće swoje sensibelne daty
-turn-on-scheduled-backups-encryption-description = Zawěsćće swoje hesła, płaćenske metody a placki ze zaklučowanjom.
 turn-on-scheduled-backups-encryption-create-password-label = Hesło
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Hesło wospjetować
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Zawěsćće swoje sensibelne daty
-enable-backup-encryption-description = Zawěsćće swoje hesła, płaćenske metody a placki a dźeržće wšě swoje daty wěste ze zaklučowanjom.
 enable-backup-encryption-support-link = Dalše informacije
 enable-backup-encryption-create-password-label = Hesło
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Škit přez hesło wotstronić
-disable-backup-encryption-description = Waše składowane hesła, płaćenske metody a placki so hižo njezawěsćuja.
 disable-backup-encryption-support-link = Što so zawěsćuje?
 disable-backup-encryption-cancel-button = Přetorhnyć
 disable-backup-encryption-confirm-button = Hesło wotstronić

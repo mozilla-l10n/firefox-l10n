@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Kies reservekopybest
 settings-data-backup-scheduled-backups-on-restore-description = Jo { -brand-product-name }-gegevens reparearje fan de lêste reservekopy út.
 settings-data-backup-scheduled-backups-on-restore-choose = Reparearje…
 settings-data-toggle-encryption-label = Meitsje in reservekopy fan jo gefoelige gegevens
-settings-data-toggle-encryption-description = Meitsje in reservekopy fan jo wachtwurden, betelmetoaden en cookies mei fersifering.
 settings-data-toggle-encryption-support-link = Mear ynfo
 settings-data-change-password = Wachtwurd wizigje…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Blêdzje…
     }
 turn-on-scheduled-backups-encryption-label = Meitsje in reservekopy fan jo gefoelige gegevens
-turn-on-scheduled-backups-encryption-description = Meitsje in reservekopy fan jo wachtwurden, betelmetoaden en cookies mei fersifering.
 turn-on-scheduled-backups-encryption-create-password-label = Wachtwurd
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Nochris it wachtwurd
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = In reservekopy fan jo gefoelige gegevens meitsje
-enable-backup-encryption-description = Meitsje in reservekopy fan jo wachtwurden, betelmetoaden en cookies, en hâld al jo gegevens feilich mei fersifering.
 enable-backup-encryption-support-link = Mear ynfo
 enable-backup-encryption-create-password-label = Wachtwurd
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Wachtwurdbeskerming fuortsmite
-disable-backup-encryption-description = Der wurdt gjin reservekopy mear makke fan jo bewarre wachtwurden, betelingsmetoaden en cookies.
 disable-backup-encryption-support-link = Wêrfan wurdt in reservekopy makke?
 disable-backup-encryption-cancel-button = Annulearje
 disable-backup-encryption-confirm-button = Wachtwurd fuortsmite

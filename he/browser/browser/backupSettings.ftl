@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = בחירת קובץ 
 settings-data-backup-scheduled-backups-on-restore-description = ניתן לשחזר את הנתונים של ה־{ -brand-product-name } שלך מהפעם האחרונה שהם גובו.
 settings-data-backup-scheduled-backups-on-restore-choose = שחזור…
 settings-data-toggle-encryption-label = גיבוי הנתונים הרגישים שלך
-settings-data-toggle-encryption-description = גיבוי הססמאות, אמצעי התשלום והעוגיות באמצעות הצפנה.
 settings-data-toggle-encryption-support-link = מידע נוסף
 settings-data-change-password = שינוי ססמה…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] עיון…
     }
 turn-on-scheduled-backups-encryption-label = גיבוי הנתונים הרגישים שלך
-turn-on-scheduled-backups-encryption-description = גיבוי הססמאות, אמצעי התשלום והעוגיות באמצעות הצפנה.
 turn-on-scheduled-backups-encryption-create-password-label = ססמה
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = חזרה על הססמה
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = גיבוי הנתונים הרגישים שלך
-enable-backup-encryption-description = גיבוי הססמאות, אמצעי התשלום והעוגיות שלך, לצד שמירה על כל הנתונים באמצעות הצפנה.
 enable-backup-encryption-support-link = מידע נוסף
 enable-backup-encryption-create-password-label = ססמה
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = הסרת ההגנה באמצעות ססמה
-disable-backup-encryption-description = הססמאות, אמצעי התשלום והעוגיות השמורים שלך לא יגובו עוד.
 disable-backup-encryption-support-link = מה יגובה?
 disable-backup-encryption-cancel-button = ביטול
 disable-backup-encryption-confirm-button = הסרת הססמה

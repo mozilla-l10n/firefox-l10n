@@ -7,12 +7,12 @@
 
 #  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
 existing-user-tou-message = <strong>Frissítés</strong> Bevezettük a { -brand-short-name } <a data-l10n-name="terms-of-use-link">Felhasználási feltételeit</a>, és frissítettük az <a data-l10n-name="privacy-notice-link">Adatvédelmi nyilatkozat</a>. Szánjon egy kis időt az áttekintésére, és fogadja el.
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Frissítettük az <a data-l10n-name="privacy-notice-link">Adatvédelmi nyilatkozatot</a>, hogy tükrözze a { -brand-short-name } legújabb funkcióit.
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = További tudnivalók
 # Text for primary button
 existing-user-tou-accept = Elfogadás
-# Infobar message for when the Privacy Notice is updated.
-existing-user-privacy-notice-update-message = Frissítettük az <a data-l10n-name="privacy-notice-link">Adatvédelmi nyilatkozatot</a>, hogy tükrözze a { -brand-short-name } legújabb funkcióit.
 
 ## Existing User Terms of Use Spotlight
 

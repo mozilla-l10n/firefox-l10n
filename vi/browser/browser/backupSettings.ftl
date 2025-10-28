@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Chọn tập tin sao
 settings-data-backup-scheduled-backups-on-restore-description = Khôi phục dữ liệu { -brand-product-name } của bạn từ lần sao lưu gần đây nhất.
 settings-data-backup-scheduled-backups-on-restore-choose = Khôi phục…
 settings-data-toggle-encryption-label = Sao lưu dữ liệu nhạy cảm của bạn
-settings-data-toggle-encryption-description = Sao lưu mật khẩu, phương thức thanh toán và cookie bằng mã hóa.
 settings-data-toggle-encryption-support-link = Tìm hiểu thêm
 settings-data-change-password = Thay đổi mật khẩu…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Duyệt…
     }
 turn-on-scheduled-backups-encryption-label = Sao lưu dữ liệu nhạy cảm của bạn
-turn-on-scheduled-backups-encryption-description = Sao lưu mật khẩu, phương thức thanh toán và cookie bằng mã hóa.
 turn-on-scheduled-backups-encryption-create-password-label = Mật khẩu
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Nhập lại mật khẩu
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Sao lưu dữ liệu nhạy cảm của bạn
-enable-backup-encryption-description = Sao lưu mật khẩu, phương thức thanh toán và cookie, đồng thời giữ an toàn cho mọi dữ liệu của bạn bằng mã hóa.
 enable-backup-encryption-support-link = Tìm hiểu thêm
 enable-backup-encryption-create-password-label = Mật khẩu
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Xóa bảo vệ bằng mật khẩu
-disable-backup-encryption-description = Mật khẩu, phương thức thanh toán và cookie đã lưu của bạn sẽ không còn được sao lưu nữa.
 disable-backup-encryption-support-link = Những gì sẽ được sao lưu?
 disable-backup-encryption-cancel-button = Hủy bỏ
 disable-backup-encryption-confirm-button = Xoá mật khẩu

@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Выберите ф�
 settings-data-backup-scheduled-backups-on-restore-description = Восстановите данные { -brand-product-name } из последней резервной копии.
 settings-data-backup-scheduled-backups-on-restore-choose = Восстановить…
 settings-data-toggle-encryption-label = Создавать резервные копии конфиденциальных данных
-settings-data-toggle-encryption-description = Создавать зашифрованные резервные копии паролей, способов оплаты и куков.
 settings-data-toggle-encryption-support-link = Подробнее
 settings-data-change-password = Сменить пароль…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Обзор…
     }
 turn-on-scheduled-backups-encryption-label = Создавать резервные копии конфиденциальных данных
-turn-on-scheduled-backups-encryption-description = Создавать зашифрованные резервные копии паролей, способов оплаты и куков.
 turn-on-scheduled-backups-encryption-create-password-label = Пароль
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Повторите пароль
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Создайте резервную копию своих конфиденциальных данных
-enable-backup-encryption-description = Сделайте резервную копию своих паролей, способов оплаты и куков, а также обеспечьте безопасность всех своих данных с помощью шифрования.
 enable-backup-encryption-support-link = Подробнее
 enable-backup-encryption-create-password-label = Пароль
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Снять защиту паролем
-disable-backup-encryption-description = Ваши сохранённые пароли, способы оплаты и куки больше не будут входить в резервные копии.
 disable-backup-encryption-support-link = Что будет входить в резервные копии?
 disable-backup-encryption-cancel-button = Отмена
 disable-backup-encryption-confirm-button = Удалить пароль

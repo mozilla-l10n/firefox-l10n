@@ -50,7 +50,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Επιλογή αν�
 
 settings-data-backup-scheduled-backups-on-restore-choose = Επαναφορά…
 settings-data-toggle-encryption-label = Αντίγραφο ασφαλείας ευαίσθητων δεδομένων
-settings-data-toggle-encryption-description = Δημιουργήστε αντίγραφα ασφαλείας των κωδικών πρόσβασης, των μεθόδων πληρωμής και των cookie, με κρυπτογράφηση.
 settings-data-toggle-encryption-support-link = Μάθετε περισσότερα
 settings-data-change-password = Αλλαγή κωδικού πρόσβασης…
 
@@ -71,7 +70,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Περιήγηση…
     }
 turn-on-scheduled-backups-encryption-label = Αντίγραφο ασφαλείας ευαίσθητων δεδομένων
-turn-on-scheduled-backups-encryption-description = Δημιουργήστε αντίγραφα ασφαλείας των κωδικών πρόσβασης, των μεθόδων πληρωμής και των cookie, με κρυπτογράφηση.
 turn-on-scheduled-backups-encryption-create-password-label = Κωδικός πρόσβασης
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Επανάληψη κωδικού πρόσβασης
@@ -149,7 +147,6 @@ backup-service-error-went-wrong2 =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Αντίγραφο ασφαλείας ευαίσθητων δεδομένων
-enable-backup-encryption-description = Δημιουργήστε αντίγραφα ασφαλείας για τους κωδικούς πρόσβασης, τις μεθόδους πληρωμής και τα cookie, προστατεύοντας όλα τα δεδομένα σας με κρυπτογράφηση.
 enable-backup-encryption-support-link = Μάθετε περισσότερα
 enable-backup-encryption-create-password-label = Κωδικός πρόσβασης
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -177,7 +174,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Αφαίρεση προστασίας με κωδικό πρόσβασης
-disable-backup-encryption-description = Δεν θα δημιουργούνται πλέον αντίγραφα ασφαλείας των αποθηκευμένων κωδικών πρόσβασης, των μεθόδων πληρωμής και των cookie.
 disable-backup-encryption-support-link = Ποια δεδομένα θα περιλαμβάνονται;
 disable-backup-encryption-cancel-button = Ακύρωση
 disable-backup-encryption-confirm-button = Αφαίρεση κωδικού πρόσβασης

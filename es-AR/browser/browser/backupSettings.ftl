@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Seleccionar archivo 
 settings-data-backup-scheduled-backups-on-restore-description = Recupere los datos de { -brand-product-name } desde la última vez que se hizo una copia de seguridad.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
 settings-data-toggle-encryption-label = Respaldar los datos sensibles
-settings-data-toggle-encryption-description = Hacer copia de seguridad de contraseñas, métodos de pago y cookies con cifrado.
 settings-data-toggle-encryption-support-link = Conocer más
 settings-data-change-password = Cambiar contraseña…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Examinar…
     }
 turn-on-scheduled-backups-encryption-label = Respaldar los datos sensibles
-turn-on-scheduled-backups-encryption-description = Hacer copia de seguridad de contraseñas, métodos de pago y cookies con cifrado.
 turn-on-scheduled-backups-encryption-create-password-label = Contraseña
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Repetir contraseña
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Respaldar los datos sensibles
-enable-backup-encryption-description = Haga una copia de seguridad de contraseñas, métodos de pago y cookies, además de mantener todos los datos seguros con cifrado.
 enable-backup-encryption-support-link = Conocer más
 enable-backup-encryption-create-password-label = Contraseña
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Eliminar protección de contraseña
-disable-backup-encryption-description = Las contraseñas guardadas, métodos de pago y cookies ya no serán respaldadas.
 disable-backup-encryption-support-link = ¿Qué será respaldado?
 disable-backup-encryption-cancel-button = Cancelar
 disable-backup-encryption-confirm-button = Eliminar contraseña

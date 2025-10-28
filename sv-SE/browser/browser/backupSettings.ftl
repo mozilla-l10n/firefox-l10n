@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Välj säkerhetskopi
 settings-data-backup-scheduled-backups-on-restore-description = Återställ din { -brand-product-name }-data från senaste gången den säkerhetskopierades.
 settings-data-backup-scheduled-backups-on-restore-choose = Återställ…
 settings-data-toggle-encryption-label = Säkerhetskopiera din känsliga information
-settings-data-toggle-encryption-description = Säkerhetskopiera dina lösenord, betalningsmetoder och kakor med kryptering.
 settings-data-toggle-encryption-support-link = Läs mer
 settings-data-change-password = Byt lösenord…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Bläddra…
     }
 turn-on-scheduled-backups-encryption-label = Säkerhetskopiera din känsliga information
-turn-on-scheduled-backups-encryption-description = Säkerhetskopiera dina lösenord, betalningsmetoder och kakor med kryptering.
 turn-on-scheduled-backups-encryption-create-password-label = Lösenord
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Upprepa lösenord
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Säkerhetskopiera din känsliga information
-enable-backup-encryption-description = Säkerhetskopiera dina lösenord, betalningsmetoder och kakor, plus skydda all din data med kryptering.
 enable-backup-encryption-support-link = Läs mer
 enable-backup-encryption-create-password-label = Lösenord
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Ta bort lösenordsskyddet
-disable-backup-encryption-description = Dina sparade lösenord, betalningsmetoder och kakor säkerhetskopieras inte längre.
 disable-backup-encryption-support-link = Vad kommer att säkerhetskopieras?
 disable-backup-encryption-cancel-button = Avbryt
 disable-backup-encryption-confirm-button = Ta bort lösenord

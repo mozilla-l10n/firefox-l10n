@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = Zgjidhni kartelë ko
 settings-data-backup-scheduled-backups-on-restore-description = Rimerrni të dhëna { -brand-product-name } tuajat nga hera e fundit që qenë kopjeruajtur.
 settings-data-backup-scheduled-backups-on-restore-choose = Riktheni…
 settings-data-toggle-encryption-label = Kopjeruani të dhënat tuaja rezervat
-settings-data-toggle-encryption-description = Kopjeruani me fshehtëzim fjalëkalimet tuaj, metoda pagesash dhe “cookies”.
 settings-data-toggle-encryption-support-link = Mësoni më tepër
 settings-data-change-password = Ndryshoni fjalëkalimin…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Shletoni…
     }
 turn-on-scheduled-backups-encryption-label = Kopjeruani të dhënat tuaja rezervat
-turn-on-scheduled-backups-encryption-description = Kopjeruani me fshehtëzim fjalëkalimet tuaj, metoda pagesash dhe “cookies”.
 turn-on-scheduled-backups-encryption-create-password-label = Fjalëkalim
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Rijepeni fjalëkalimin
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Kopjeruani të dhënat tuaja rezervat
-enable-backup-encryption-description = Kopjeruani fjalëkalimet tuaja, metoda pagesash dhe “cookies”, plus mbaji të parrezik krejt të dhënat tuaja, përmes fshehtëzimi.
 enable-backup-encryption-support-link = Mësoni më tepër
 enable-backup-encryption-create-password-label = Fjalëkalimi
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Hiq mbrojtje me fjalëkalim
-disable-backup-encryption-description = Fjalëkalimet tuaj të ruajtur, metoda pagesash dhe “cookies” s’do të kopjeruhen më.
 disable-backup-encryption-support-link = Ç’do të kopjeruhet?
 disable-backup-encryption-cancel-button = Anuloje
 disable-backup-encryption-confirm-button = Hiqe fjalëkalimin

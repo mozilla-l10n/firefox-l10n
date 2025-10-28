@@ -51,7 +51,6 @@ settings-data-backup-scheduled-backups-off-restore-choose = სამარქ�
 settings-data-backup-scheduled-backups-on-restore-description = აღადგინეთ წინათ დამარქაფებული მონაცემები, რომელსაც შეიცავდა { -brand-product-name }.
 settings-data-backup-scheduled-backups-on-restore-choose = აღდგენა…
 settings-data-toggle-encryption-label = დაამარქაფეთ თქვენი საფრთხილო მონაცემები
-settings-data-toggle-encryption-description = დაამარქაფეთ თქვენი პაროლები, გადახდის საშუალებები და ფუნთუშები დაშიფვრით.
 settings-data-toggle-encryption-support-link = ვრცლად
 settings-data-change-password = პაროლის შეცვლა…
 
@@ -72,7 +71,6 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] ნუსხა…
     }
 turn-on-scheduled-backups-encryption-label = დაამარქაფეთ თქვენი საფრთხილო მონაცემები
-turn-on-scheduled-backups-encryption-description = დაამარქაფეთ თქვენი პაროლები, გადახდის საშუალებები და ფუნთუშები დაშიფვრით.
 turn-on-scheduled-backups-encryption-create-password-label = პაროლი
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = გაიმეორეთ პაროლი
@@ -159,7 +157,6 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = დაამარქაფეთ თქვენი საფრთხილო მონაცემები
-enable-backup-encryption-description = დაამარქაფეთ თქვენი პაროლები, გადახდის საშუალებები და ფუნთუშები, ამასთანავე, შეინახეთ ყველა მონაცემი უსაფრთხოდ დაშიფვრით.
 enable-backup-encryption-support-link = ვრცლად
 enable-backup-encryption-create-password-label = პაროლი
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -187,7 +184,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = პაროლით დაცვის მოცილება
-disable-backup-encryption-description = თქვენ მიერ შენახული პაროლები, გადახდის საშუალებები და ფუნთუშები აღარ დამარქაფდება.
 disable-backup-encryption-support-link = რა დამარქაფდება?
 disable-backup-encryption-cancel-button = გაუქმება
 disable-backup-encryption-confirm-button = პაროლის მოცილება
