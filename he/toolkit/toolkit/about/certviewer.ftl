@@ -30,6 +30,10 @@ certificate-viewer-key-id = מזהה מפתח
 certificate-viewer-key-size = גודל מפתח
 certificate-viewer-locality = מקום
 certificate-viewer-location = מיקום
+# Log is a noun meaning a record of events.
+certificate-viewer-log-name = שם הרישום
+# Log is a noun meaning a record of events.
+certificate-viewer-logid = מזהה רישום
 certificate-viewer-method = שיטה
 certificate-viewer-name = שם
 certificate-viewer-not-after = לא אחרי

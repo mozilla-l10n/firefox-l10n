@@ -29,12 +29,14 @@ settings-data-backup-in-progress-message =
     .message = Sikkerhetskopiering pågår…
 settings-data-backup-scheduled-backups-on = Sikkerhetskopiering: PÅ
 settings-data-backup-scheduled-backups-off = Sikkerhetskopiering: AV
+settings-data-backup-scheduled-backups-description = Beskytt bokmerkene, historikken og andre data automatisk. <a data-l10n-name="support-link">Les mer</a>
 settings-data-backup-last-backup-date = Siste sikkerhetskopi: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Plassering
 settings-data-backup-last-backup-location-show-in-folder = Vis i mappe
 settings-data-backup-last-backup-location-edit = Rediger…
 settings-data-create-backup-error = Det oppstod en feil under oppretting av sikkerhetskopien din den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Sikkerhetskopier passordene og betalingsmåtene dine, og hold alle dataene dine trygge med kryptering.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Filnavn: { $fileName }
@@ -78,6 +80,7 @@ turn-on-scheduled-backups-confirm-button = Slå på sikkerhetskopiering
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Det oppsto et problem med den valgte sikkerhetskopimappen. Velg en annen mappe og prøv på nytt.
+backup-error-file-system = Det oppsto et problem med den valgte sikkerhetskopieringsmappen under sikkerhetskopiering av { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
@@ -85,9 +88,11 @@ turn-off-scheduled-backups-header = Slå av sikkerhetskopiering?
 turn-off-scheduled-backups-description = Dette sletter også alle sikkerhetskopierte data. Det kan ikke angres.
 turn-off-scheduled-backups-support-link = Les mer
 turn-off-scheduled-backups-cancel-button = Avbryt
+turn-off-scheduled-backups-confirm-button = Slå av og slett sikkerhetskopien
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Gjenopprett dine data
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Velg…
