@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = 位置
 settings-data-backup-last-backup-location-show-in-folder = 於資料夾顯示
 settings-data-backup-last-backup-location-edit = 編輯…
 settings-data-create-backup-error = 於 { DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") } 進行備份時，發生錯誤
+settings-sensitive-data-encryption-description = 加密備份您的網站密碼與付款方式，確保資料安全。
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = 檔案名稱：{ $fileName }
