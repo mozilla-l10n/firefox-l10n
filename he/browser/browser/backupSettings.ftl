@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = מיקום
 settings-data-backup-last-backup-location-show-in-folder = הצגה בתיקייה
 settings-data-backup-last-backup-location-edit = עריכה…
 settings-data-create-backup-error = אירעה שגיאה ביצירת הגיבוי שלך ב־{ DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = גיבוי הססמאות ואמצעי התשלום שלך, לצד שמירה על כל הנתונים באמצעות הצפנה.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = שם הקובץ: { $fileName }
