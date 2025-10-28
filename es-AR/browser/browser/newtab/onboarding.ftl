@@ -516,6 +516,7 @@ create-backup-screen-3-location = ¿Dónde quiere que se guarde la copia de segu
 create-backup-screen-3-title = Crear una contraseña de archivo de respaldo
 create-backup-screen-3-subtitle = Necesaria para cifrar los datos. Guárdela en un lugar que recordará.
 fx-backup-opt-in-header = Elegir ubicación del archivo
+fx-backup-opt-in-filepath-label = Elija un lugar que planee transferir a un nuevo dispositivo, como OneDrive.
 fx-backup-opt-in-create-password-label = Ingresar contraseña
 fx-backup-opt-in-confirm-btn-label = Continuar
 fx-backup-opt-in-cancel-btn-label = Atrás
