@@ -17,6 +17,8 @@ unified-extensions-empty-reason-extension-not-enabled = Ereko jepysokue mohendap
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Eikundaha porãve jepysokue ndive
 unified-extensions-empty-content-explain-enable2 = Eiporavo “{ unified-extensions-manage-extensions.label }” emyandy hag̃ua ñembohekópe.
+unified-extensions-empty-content-explain-manage2 = Eiporavo “{ unified-extensions-manage-extensions.label }” eñangareko hag̃ua ñembohekópe.
+unified-extensions-empty-content-explain-extensions-onboarding = Embohéra { -brand-short-name } emoambuévo ijehecha ha ijeku’e térã embohekoñemi ha embohekorosãvévo.
 
 ## An extension in the main list
 

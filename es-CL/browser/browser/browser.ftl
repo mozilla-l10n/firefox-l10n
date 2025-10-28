@@ -1486,6 +1486,13 @@ trustpanel-blocker-see-all = Ver todos
 trustpanel-blocker-header =
     .title = Protecciones de seguimiento para { $host }
 
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Inseguro
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 

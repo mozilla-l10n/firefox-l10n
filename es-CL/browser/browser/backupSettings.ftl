@@ -146,6 +146,11 @@ backup-service-error-recovery-failed =
     .message = Reinicia { -brand-short-name } y vuelve a intentar restaurar tu respaldo.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, hubo un problema al realizar el respaldo.
+    .message = Vuelve a intentarlo en unos minutos.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
 backup-service-error-went-wrong =
     .heading = Algo se fue a las pailas
     .message = Hubo un problema con el proceso de respaldo para { -brand-short-name }. Por favor, vuelve a intentarlo o reinicia { -brand-short-name }.
@@ -180,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Eliminar la protección con contraseña
+disable-backup-encryption-description2 = Tus contraseñas guardadas y métodos de pago tampoco serán respaldados.
 disable-backup-encryption-support-link = ¿Qué se respaldará?
 disable-backup-encryption-cancel-button = Cancelar
 disable-backup-encryption-confirm-button = Eliminar contraseña
@@ -240,3 +246,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Creado el { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } en { $machineName }
+backup-file-restore-file-validation-error = Este archivo no funciona. Prueba a seleccionar otro archivo. <a data-l10n-name="restore-problems">¿Sigues teniendo problemas?</a>
