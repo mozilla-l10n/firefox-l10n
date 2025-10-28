@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Уключыць
 extensions-warning-imported-addons2 =
     .message = Калі ласка, завяршыце ўсталяванне пашырэнняў, якія былі імпартаваны ў { -brand-short-name }.
 extensions-warning-imported-addons-button = Усталяваць пашырэнні
+extensions-warning-safe-mode3 =
+    .message = Усе дадаткі адключаны ў рэжыме вырашэння праблем.
 
 ## Strings connected to add-on updates
 

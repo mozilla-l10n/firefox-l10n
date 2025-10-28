@@ -648,6 +648,8 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Скасаваць
 
 pdfjs-editor-edit-comment-button =
     .title = Змяніць каментарый
+pdfjs-editor-add-comment-button =
+    .title = Дадаць каментарый
 
 ## Main menu for adding/removing signatures
 

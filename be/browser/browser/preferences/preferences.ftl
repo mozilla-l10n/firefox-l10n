@@ -601,6 +601,7 @@ home-new-windows-tabs-description2 = Выберыце, што бачыць, ка
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Хатняя старонка і новыя вокны
+home-homepage-mode-label2 = Новыя вокны
 home-newtabs-mode-label = Новыя карткі
 home-restore-defaults =
     .label = Аднавіць прадвызначэнні
@@ -613,6 +614,11 @@ home-mode-choice-blank =
     .label = Пустая старонка
 home-homepage-custom-url =
     .placeholder = Устаўце URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Кіраваць пашырэннем
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Выберыце канкрэтны сайт
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -627,13 +633,36 @@ use-current-pages =
 choose-bookmark =
     .label = Ужыць закладку…
     .accesskey = з
+home-homepage-header = Хатняя старонка
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Уласная хатняя старонка
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Адрас(ы) сайта(ў)
+home-custom-homepage-address =
+    .placeholder = Увядзіце адрас
+home-custom-homepage-address-button =
+    .label = Дадаць адрас
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Замяніць на
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Зараз адкрытыя старонкі
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Закладкі…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Змесціва { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Выберыце пажаданае змесціва для свайго экрана { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Пошук у сеціве
+home-prefs-search-header2 =
+    .label = Пошук
 home-prefs-shortcuts-header =
     .label = Цэтлікі
 home-prefs-shortcuts-description = Сайты, якія вы захоўваеце або наведваеце
@@ -648,6 +677,9 @@ home-prefs-recommended-by-description-new = Выключнае змесціва,
 home-prefs-recommended-by-header-generic =
     .label = Рэкамендаваныя гісторыі
 home-prefs-recommended-by-description-generic = Выключнае змесціва, курыраванае сям'ёй { -brand-product-name }
+home-prefs-stories-header =
+    .label = Гісторыі
+home-prefs-stories-description = Персаналізаваныя гісторыі на аснове вашай актыўнасці
 
 ##
 
@@ -686,6 +718,8 @@ home-prefs-support-firefox-header =
     .label = Падтрымаць { -brand-product-name }
 home-prefs-mission-message = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту
 home-prefs-mission-message-learn-more-link = Даведацца, як
+home-prefs-manage-topics-link = Кіраванне тэмамі
+home-prefs-choose-wallpaper-link = Выберыце шпалеры
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
