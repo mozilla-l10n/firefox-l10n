@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Plats
 settings-data-backup-last-backup-location-show-in-folder = Visa i mapp
 settings-data-backup-last-backup-location-edit = Redigera…
 settings-data-create-backup-error = Det uppstod ett fel vid skapande av säkerhetskopia den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Säkerhetskopiera dina lösenord och betalningsmetoder, plus skydda all din data med kryptering.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Filnamn: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Ta bort lösenordsskyddet
+disable-backup-encryption-description2 = Dina sparade lösenord och betalningsmetoder säkerhetskopieras inte längre.
 disable-backup-encryption-support-link = Vad kommer att säkerhetskopieras?
 disable-backup-encryption-cancel-button = Avbryt
 disable-backup-encryption-confirm-button = Ta bort lösenord
@@ -244,3 +246,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Skapad den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
+backup-file-restore-file-validation-error = Den här filen fungerar inte. Prova att välja en annan fil. <a data-l10n-name="restore-problems">Har du fortfarande problem?</a>

@@ -619,6 +619,8 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Uzantıyı yönet
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Belirli bir site seç
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -638,6 +640,14 @@ home-homepage-header = Giriş sayfası
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Özel giriş sayfası
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Web sitesi adres(ler)i
+home-custom-homepage-address =
+    .placeholder = Adres yazın
+home-custom-homepage-address-button =
+    .label = Adres ekle
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Henüz hiç site eklenmedi.
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Yer imleri…
@@ -1249,6 +1259,7 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adres çubuğu
+addressbar-suggest-1 = Adres çubuğunuzda hangi önerilerin gösterileceğini seçin
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Adres çubuğunu kullanırken şunları öner:
