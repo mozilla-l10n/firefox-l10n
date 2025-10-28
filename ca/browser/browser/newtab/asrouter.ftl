@@ -267,6 +267,8 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Penseu adquirir un 
 device-migration-fxa-spotlight-getting-new-device-body-2 = Seguiu uns quants passos senzills endur-vos els marcadors, l'historial i les contrasenyes quan comenceu a utilitzar un dispositiu nou.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Com puc fer una còpia de seguretat de les meves dades
 device-migration-fxa-spotlight-sync-header = Navegueu sense perdre el ritme
+device-migration-fxa-spotlight-sync-body = Sincronitzeu tota la informació important amb xifratge, com ara marcadors i contrasenyes. Podeu accedir-hi a qualsevol lloc on utilitzeu { -brand-product-name }.
+device-migration-fxa-spotlight-sync-primary-button = Primers passos
 
 ## Set as Default PDF Reader Infobar
 
@@ -295,11 +297,20 @@ launch-on-login-infobar-final-reject-button = No, gràcies
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Allibereu-vos dels elements de seguiment
+tail-fox-spotlight-subtitle = Acomiadeu-vos dels carregosos elements de seguiment de publicitat i gaudiu d'una experiència d'Internet més segura i més ràpida.
 tail-fox-spotlight-primary-button = Obre els enllaços amb el { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ara no
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-january-message = <strong>Les versions anteriors de { -brand-short-name } poden començar a tenir problemes el 14 de gener de 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Actualitzeu per continuar utilitzant { -brand-short-name } a partir del 14 de març de 2025.</strong>
+root-certificate-succession-infobar-link = Per què he de fer l'actualització?
 root-certificate-succession-infobar-primary-button =
     .label = Actualitza ara
     .accesskey = u
@@ -309,6 +320,8 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = Us heu perdut una actualització important de { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Algunes parts del navegador deixaran de funcionar aviat si no l'actualitzeu. Ara és un bon moment per obtenir les nostres proteccions i funcions més recents.
 root-certificate-windows-background-notification-learn-more-button = Més informació
 root-certificate-windows-background-notification-update-button = Actualitza el { -brand-short-name }
 
@@ -321,6 +334,8 @@ fxa-menu-message-sign-up-button = Registre
 fxa-menu-message-sign-in-button = Inicia la sessió
 fxa-menu-message-sync-button = Inicia la sincronització
 fxa-menu-message-sync-devices-primary-text = Sincronitzeu tots els dispositius
+fxa-menu-message-sync-devices-secondary-text = Obteniu a l'instant la vostra informació (com ara marcadors i contrasenyes) a qualsevol lloc on utilitzeu { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Accediu a l'instant a les adreces d'interès, les contrasenyes i molt més a qualsevol lloc on hàgiu iniciat la sessió a { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronitzeu tots els dispositius
 fxa-menu-message-backup-data-primary-text = Feu una còpia de seguretat de les dades del navegador
 fxa-menu-message-backup-data-secondary-text = Protegiu automàticament les adreces d'interès, les contrasenyes i altra informació a tots els vostres dispositius.
@@ -329,6 +344,8 @@ fxa-menu-message-backup-sync-primary-text = Protegiu i sincronitzeu les vostres 
 fxa-menu-message-backup-sync-secondary-text = La sincronització fa una còpia de seguretat de la major part de les vostres dades perquè pugueu accedir-hi a qualsevol lloc on feu servir el { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Sincronitzeu i feu una còpia de seguretat de les dades
 fxa-menu-message-mobile-primary-text = Envieu pestanyes al telèfon
+fxa-menu-message-mobile-secondary-text = Repreneu la feina on la vau deixar a l'instant sincronitzant les pestanyes amb un dispositiu mòbil.
+fxa-menu-message-mobile-collapsed-text = Sincronitzeu amb el telèfon
 
 ## Multi-CTA Fox Doodle Spotlight
 
