@@ -185,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = 移除密碼保護
+disable-backup-encryption-description2 = 也將不再備份您的網站密碼與付款方式。
 disable-backup-encryption-support-link = 會備份哪些資料？
 disable-backup-encryption-cancel-button = 取消
 disable-backup-encryption-confirm-button = 刪除密碼
@@ -241,3 +242,4 @@ other-backup-files-founds = <b>註：</b>找到另 { $numberOfOtherBackupsFound 
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = 於 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }，從 { $machineName } 建立
+backup-file-restore-file-validation-error = 無法使用這個檔案，請改選其他檔案後再試一次。<a data-l10n-name="restore-problems">還是有問題嗎？</a>

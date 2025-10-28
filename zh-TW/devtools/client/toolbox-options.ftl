@@ -120,6 +120,8 @@ options-disable-http-cache-label = 停用 HTTP 快取（開啟工具箱時）
 options-disable-http-cache-tooltip =
     .title = 開啟此選項後，將停用所有已開啟工具箱的分頁的 HTTP 快取；Service Worker 不受此選項影響。
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = 關閉 JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = 停用 JavaScript *
 options-disable-javascript-tooltip =
     .title = 開啟此選項後將停用目前分頁中的 JavaScript。當您關閉工具箱或分頁後此設定將會被遺忘。
@@ -147,6 +149,9 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = 開啟原始碼對應表
 options-source-maps-tooltip =
     .title = 若您開啟此選項，將會在開發者工具中進行原始碼對應。
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = （僅在目前瀏覽階段有效，將重新載入頁面）
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * 僅在目前瀏覽階段有效，將會重新載入頁面
 # The message shown for settings that trigger page reload
