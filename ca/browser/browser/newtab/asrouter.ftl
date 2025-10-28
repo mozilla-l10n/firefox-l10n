@@ -68,6 +68,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronitza ara les adreces d’interès
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botó Tanca
     .title = Tanca
+fxa-adoption-addresses-backup-title = Fem una còpia de seguretat de les adreces desades
+fxa-adoption-addresses-backup-subtitle = Protegiu les adreces desades sincronitzant-les amb els vostres dispositius amb xifratge.
+fxa-adoption-credit-cards-backup-title = Fem una còpia de seguretat dels vostres mètodes de pagament
+fxa-adoption-credit-cards-backup-subtitle = Protegiu els vostres mètodes de pagament sincronitzant-los amb els vostres dispositius amb xifratge.
+fxa-adoption-primary-button-label = Registra't
 
 ## Protections panel
 
@@ -225,6 +230,22 @@ fox-doodle-pin-secondary = Ara no
 set-default-pdf-handler-headline = <strong>Ara podeu obrir els fitxers PDF en el { -brand-short-name }.</strong> Editeu o signeu formularis directament en el navegador. Per a canviar, cerqueu «PDF» en els paràmetres.
 set-default-pdf-handler-primary = Entesos
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Signeu a la línia de punts, o a qualsevol lloc!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Dibuixeu, escriviu o pugeu la vostra signatura i col·loqueu-la exactament on vulgueu. Deseu les vostres signatures habituals per a la propera vegada.
+annotations-make-default-pdf-handler-title = Voleu que { -brand-short-name } sigui el vostre editor de PDF per defecte?
+annotations-make-default-pdf-handler-subtitle = Tindreu accés a les nostres eines cada vegada que obriu un PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Defineix per defecte
+annotations-make-default-pdf-next =
+    .label = Següent
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Penseu adquirir un dispositiu nou en el futur?
@@ -239,9 +260,13 @@ fxa-sync-cfr-secondary = Recorda-m’ho més tard
 device-migration-fxa-spotlight-heavy-user-header = No oblideu fer una còpia de seguretat de les vostres dades
 device-migration-fxa-spotlight-heavy-user-body = Assegureu-vos que la informació important, com ara adreces d’interès i contrasenyes, estigui actualitzada i protegida a tots els vostres dispositius.
 device-migration-fxa-spotlight-heavy-user-primary-button = Inicia
+device-migration-fxa-spotlight-older-device-header = Tranquil·litat, de { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Un compte manté la vostra informació important actualitzada i protegida en qualsevol dispositiu que connecteu.
 device-migration-fxa-spotlight-older-device-primary-button = Crea un compte
 device-migration-fxa-spotlight-getting-new-device-header-2 = Penseu adquirir un dispositiu nou en el futur?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Seguiu uns quants passos senzills endur-vos els marcadors, l'historial i les contrasenyes quan comenceu a utilitzar un dispositiu nou.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Com puc fer una còpia de seguretat de les meves dades
+device-migration-fxa-spotlight-sync-header = Navegueu sense perdre el ritme
 
 ## Set as Default PDF Reader Infobar
 

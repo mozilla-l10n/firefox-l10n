@@ -201,6 +201,7 @@ migration-chrome-windows-password-import-steps-header = A Chrome:
 migration-chrome-windows-password-import-step1 = Obriu el menú principal <img data-l10n-name="chrome-icon-3dots"/> i aneu a Contrasenyes i Emplenament automàtic > Gestor de contrasenyes de Google.
 migration-chrome-windows-password-import-step2 = Seleccioneu "Configuració" al menú.
 migration-chrome-windows-password-import-step3 = Seleccioneu “Descarregar fitxer” i deseu-lo al vostre dispositiu.
+migration-chrome-windows-password-import-step4 = Torneu aquí i feu clic a “Selecciona el fitxer” per a finalitzar la importació.
 migration-manual-password-import-skip-button = Omet
 migration-manual-password-import-select-button = Selecciona el fitxer
 migration-safari-password-import-skip-button = Omet
