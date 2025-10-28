@@ -217,7 +217,7 @@ link-preview-onboarding-callout-description = Podívejte se na krátký popis, d
 ## Sidebar Strings
 
 sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště
-sidebar-button-callout-subtitle = Pomocí tlačítka postranního panelu rozbalte postranní panel, abyste viděli názvy panelů..
+sidebar-button-callout-subtitle = Pomocí tlačítka postranní lišty rozbalte postranní lištu, abyste viděli názvy panelů.
 sidebar-button-callout-vertical-tabs = Chcete-li zobrazit své panely, zvolte na panelu nástrojů tlačítko postranní lišty.
 
 ## Sidebar Vertical Tabs Strings
@@ -272,8 +272,8 @@ sidebar-callout-survey-title =
     }
 sidebar-callout-survey-satisfaction-question =
     { -brand-short-name.case-status ->
-        [with-cases] Jak jste spokojeni s postranním panelem ve { -brand-short-name(case: "loc") }?
-       *[no-cases] Jak jste spokojeni s postranním panelem v aplikaci { -brand-short-name }?
+        [with-cases] Jak jste spokojeni s postranní lištou ve { -brand-short-name(case: "loc") }?
+       *[no-cases] Jak jste spokojeni s postranní lištou v aplikaci { -brand-short-name }?
     }
 sidebar-callout-survey-privacy-notice-link = Zásady ochrany osobních údajů
 sidebar-callout-survey-very-satisfied = Velmi spokojený
@@ -293,19 +293,19 @@ sidebar-callout-survey-disagree = Nesouhlasím
 sidebar-callout-survey-strongly-disagree = Rozhodně nesouhlasím
 sidebar-callout-survey-features-question =
     { -brand-short-name.case-status ->
-        [with-cases] Potenciální funkce postranního panelu jsou následující. Která z nich by nejvíce zvýšila vaši produktivitu ve { -brand-short-name(case: "loc") }?
-       *[no-cases] Potenciální funkce postranního panelu jsou následující. Která z nich by nejvíce zvýšila vaši produktivitu v aplikaci { -brand-short-name }?
+        [with-cases] Potenciální funkce postranní lišty jsou následující. Která z nich by nejvíce zvýšila vaši produktivitu ve { -brand-short-name(case: "loc") }?
+       *[no-cases] Potenciální funkce postranní lišty jsou následující. Která z nich by nejvíce zvýšila vaši produktivitu v aplikaci { -brand-short-name }?
     }
 sidebar-callout-survey-split-view = Zobrazení libovolných dvou webových stránek najednou v rozděleném zobrazení vedle sebe
-sidebar-callout-survey-keep-website-open = Ponechat webovou stránku, například e-mail nebo kalendář, otevřený v postranním panelu po dobu prohlížení.
+sidebar-callout-survey-keep-website-open = Ponechat webovou stránku, například e-mail nebo kalendář, otevřený v postranní liště po dobu prohlížení.
 sidebar-callout-survey-saved-websites-2 = Rychlý přístup k vašim záložkám
 sidebar-callout-survey-none-of-above = Nic z výše uvedeného
 sidebar-callout-survey-submit = Odeslat
 sidebar-callout-survey-thank-you = Děkujeme za zpětnou vazbu!
-sidebar-genai-survey-satisfaction-question = Jak jste spokojeni s přístupem k chatbotu s umělou inteligencí v postranním panelu?
+sidebar-genai-survey-satisfaction-question = Jak jste spokojeni s přístupem k chatbotu s umělou inteligencí v postranní liště?
 sidebar-genai-survey-productive-question =
     Do jaké míry souhlasíte nebo nesouhlasíte s tímto tvrzením:<br/>
-    "Chatbot s umělou inteligencí v postranním panelu mi pomáhá být produktivnější"?
+    "Chatbot s umělou inteligencí v postranní liště mi pomáhá být produktivnější"?
 unified-search-callout-title = Přepínejte mezi vyhledávači
 unified-search-callout-subtitle = Vyberte si, co je pro vaše konkrétní vyhledávání nejvhodnější.
 unified-search-callout-primary-label = Další

@@ -159,8 +159,8 @@ genai-onboarding-choose-header =
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description =
     { -brand-short-name.case-status ->
-        [with-cases] Zvolte chatbota AI, kterého chcete používat v postranním panelu  { -brand-short-name(case: "gen") }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
-       *[no-cases] Zvolte chatbota AI, kterého chcete používat v postranním panelu aplikace  { -brand-short-name }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
+        [with-cases] Zvolte chatbota AI, kterého chcete používat v postranní liště  { -brand-short-name(case: "gen") }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
+       *[no-cases] Zvolte chatbota AI, kterého chcete používat v postranní liště aplikace  { -brand-short-name }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
     }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Přepnutí je možné kdykoli. Pro pomoc s výběrem si <a data-l10n-name="learn-more">přečtěte více o jednotlivých chatbotech</a>.
@@ -197,11 +197,11 @@ genai-chatbot-contextual-button = Vyberte si chatbota
 genai-chatbot-summarize-title = Novinka: Shrnutí stránek na jedno klepnutí
 genai-chatbot-summarize-button = Shrnutí stránky
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-provider-subtitle = Klepněte pravým tlačítkem myši na chatbota s umělou inteligencí na postranním panelu a vyberte možnost "Shrnutí stránky".
+genai-chatbot-summarize-sidebar-provider-subtitle = Klepněte pravým tlačítkem myši na chatbota s umělou inteligencí v postranní liště a vyberte možnost "Shrnutí stránky".
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-generic-subtitle = Klepněte pravým tlačítkem myši na tlačítko s jiskrami v postranní liště a zvolte „Shrnutí stránky“. Poprvé si také vyberete AI chatbota.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
-genai-chatbot-summarize-footer-provider-subtitle = Otevřete chatbota s umělou inteligencí v postranním panelu a dole vyberte možnost "Shrnutí stránky".
+genai-chatbot-summarize-footer-provider-subtitle = Otevřete chatbota s umělou inteligencí v postranní liště a dole vyberte možnost "Shrnutí stránky".
 genai-chatbot-summarize-footer-generic-subtitle =
     { -brand-short-name.case-status ->
         [with-cases] Přidejte si AI chatbota do postranní lišty { -brand-short-name(case: "gen") } a nechte si rychle zobrazit shrnutí stránek.

@@ -1457,6 +1457,9 @@ trustpanel-etp-description-disabled = El { -brand-product-name } creu que les em
 trustpanel-connection-label-secure = Connexió segura
 trustpanel-connection-label-insecure = La connexió no és segura
 trustpanel-header-enabled = El { -brand-product-name } està en guàrdia
+trustpanel-description-enabled2 = Esteu protegit. Si detectem alguna cosa, us ho farem saber.
+trustpanel-header-enabled-insecure = Aneu amb compte en aquest lloc
+trustpanel-description-enabled-insecure = { -brand-product-name } ha notat alguna cosa sospitosa.
 trustpanel-description-enabled = Esteu protegit. Si detectem alguna cosa, us ho farem saber
 trustpanel-header-disabled = Heu desactivat les proteccions
 trustpanel-description-disabled = El { -brand-product-name } està fora de servei. Us recomanem reactivar les proteccions.
@@ -1479,6 +1482,13 @@ trustpanel-blocker-see-all = Mostra-ho tot
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Proteccions conta el seguiment per a { $host }
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Insegur
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
