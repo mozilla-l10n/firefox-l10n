@@ -239,7 +239,7 @@ set-default-pdf-handler-primary = Entesos
 annotations-default-pdf-handler-headline = Signeu a la línia de punts, o a qualsevol lloc!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Dibuixeu, escriviu o pugeu la vostra signatura i col·loqueu-la exactament on vulgueu. Deseu les vostres signatures habituals per a la propera vegada.
-annotations-make-default-pdf-handler-title = Voleu que { -brand-short-name } sigui el vostre editor de PDF per defecte?
+annotations-make-default-pdf-handler-title = Voleu que el { -brand-short-name } sigui el vostre editor de PDF per defecte?
 annotations-make-default-pdf-handler-subtitle = Tindreu accés a les nostres eines cada vegada que obriu un PDF.
 annotations-make-default-pdf-primary-cta =
     .label = Defineix per defecte
@@ -260,14 +260,14 @@ fxa-sync-cfr-secondary = Recorda-m’ho més tard
 device-migration-fxa-spotlight-heavy-user-header = No oblideu fer una còpia de seguretat de les vostres dades
 device-migration-fxa-spotlight-heavy-user-body = Assegureu-vos que la informació important, com ara adreces d’interès i contrasenyes, estigui actualitzada i protegida a tots els vostres dispositius.
 device-migration-fxa-spotlight-heavy-user-primary-button = Inicia
-device-migration-fxa-spotlight-older-device-header = Tranquil·litat, de { -brand-product-name }
+device-migration-fxa-spotlight-older-device-header = Tranquil·litat, del { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Un compte manté la vostra informació important actualitzada i protegida en qualsevol dispositiu que connecteu.
 device-migration-fxa-spotlight-older-device-primary-button = Crea un compte
 device-migration-fxa-spotlight-getting-new-device-header-2 = Penseu adquirir un dispositiu nou en el futur?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Seguiu uns quants passos senzills endur-vos els marcadors, l'historial i les contrasenyes quan comenceu a utilitzar un dispositiu nou.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Com puc fer una còpia de seguretat de les meves dades
 device-migration-fxa-spotlight-sync-header = Navegueu sense perdre el ritme
-device-migration-fxa-spotlight-sync-body = Sincronitzeu tota la informació important amb xifratge, com ara marcadors i contrasenyes. Podeu accedir-hi a qualsevol lloc on utilitzeu { -brand-product-name }.
+device-migration-fxa-spotlight-sync-body = Sincronitzeu tota la informació important amb xifratge, com ara marcadors i contrasenyes. Podeu accedir-hi a qualsevol lloc on utilitzeu el { -brand-product-name }.
 device-migration-fxa-spotlight-sync-primary-button = Primers passos
 
 ## Set as Default PDF Reader Infobar
@@ -308,8 +308,8 @@ tail-fox-spotlight-secondary-button = Ara no
 
 ## Root Certificate Succession Infobar
 
-root-certificate-succession-infobar-january-message = <strong>Les versions anteriors de { -brand-short-name } poden començar a tenir problemes el 14 de gener de 2025.</strong>
-root-certificate-succession-infobar-march-message = <strong>Actualitzeu per continuar utilitzant { -brand-short-name } a partir del 14 de març de 2025.</strong>
+root-certificate-succession-infobar-january-message = <strong>Les versions anteriors del { -brand-short-name } poden començar a tenir problemes el 14 de gener de 2025.</strong>
+root-certificate-succession-infobar-march-message = <strong>Actualitzeu per continuar utilitzant el { -brand-short-name } a partir del 14 de març de 2025.</strong>
 root-certificate-succession-infobar-link = Per què he de fer l'actualització?
 root-certificate-succession-infobar-primary-button =
     .label = Actualitza ara
@@ -320,7 +320,7 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
-root-certificate-windows-background-notification-title = Us heu perdut una actualització important de { -brand-short-name }
+root-certificate-windows-background-notification-title = Us heu perdut una actualització important del { -brand-short-name }
 root-certificate-windows-background-notification-subtitle = Algunes parts del navegador deixaran de funcionar aviat si no l'actualitzeu. Ara és un bon moment per obtenir les nostres proteccions i funcions més recents.
 root-certificate-windows-background-notification-learn-more-button = Més informació
 root-certificate-windows-background-notification-update-button = Actualitza el { -brand-short-name }
@@ -334,8 +334,8 @@ fxa-menu-message-sign-up-button = Registre
 fxa-menu-message-sign-in-button = Inicia la sessió
 fxa-menu-message-sync-button = Inicia la sincronització
 fxa-menu-message-sync-devices-primary-text = Sincronitzeu tots els dispositius
-fxa-menu-message-sync-devices-secondary-text = Obteniu a l'instant la vostra informació (com ara marcadors i contrasenyes) a qualsevol lloc on utilitzeu { -brand-short-name }.
-fxa-menu-message-sync-devices-secondary-text2 = Accediu a l'instant a les adreces d'interès, les contrasenyes i molt més a qualsevol lloc on hàgiu iniciat la sessió a { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text = Obteniu a l'instant la vostra informació (com ara marcadors i contrasenyes) a qualsevol lloc on utilitzeu el { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Accediu a l'instant a les adreces d'interès, les contrasenyes i molt més a qualsevol lloc on hàgiu iniciat la sessió al { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronitzeu tots els dispositius
 fxa-menu-message-backup-data-primary-text = Feu una còpia de seguretat de les dades del navegador
 fxa-menu-message-backup-data-secondary-text = Protegiu automàticament les adreces d'interès, les contrasenyes i altra informació a tots els vostres dispositius.

@@ -297,7 +297,7 @@ appmenu-services-header = Els meus serveis
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
-appmenu-other-protection-header2 = Prova altres eines de protecció de Mozilla:
+appmenu-other-protection-header2 = Prova altres eines de protecció del Mozilla:
 appmenu-other-protection-header = Proveu altres eines de protecció de { -vendor-short-name }:
 
 ## Profiles panel
