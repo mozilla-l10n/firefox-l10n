@@ -478,10 +478,13 @@ create-backup-screen-1-subtitle = Mbroni automatikisht fjalëkalimet tuaj, faqer
 create-backup-screen-1-flair = E këshilluar
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Mësoni më tepër</a>
 create-backup-screen-1-sync-label = Njëkohësoje me { -brand-product-name }-in
+create-backup-screen-1-sync-body = Bën kopjeruajtje të krejt pajisjeve ku është bërë hyrja në llogari
+create-backup-screen-1-backup-body = Bën ruajtjen te pajisja juaj, ose në OneDrive
 create-backup-select-tile-button-label = Përzgjidhe
 create-backup-back-button-label = Mbrapsht
 create-backup-show-fewer =
     .label = Shfaq më pak të tilla
+create-backup-screen-2-title = Zgjidhni të dhëna { -brand-product-name } që të kopjeruhen
 create-backup-screen-2-subtitle = Zgjat vetëm një minutë. Të dhënat tuaja kopjeruhen një herë në ditë.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Ujdisje e kollajtë
@@ -512,6 +515,18 @@ fx-backup-opt-in-cancel-btn-label = Mbrapsht
 fx-backup-confirmation-screen-title = Kopjeruajtja juaj është vënë në plan
 fx-backup-confirmation-screen-close-button = Mbylle
 
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Përfshi krejt të dhënat e shfletimit
+fx-backup-confirmation-screen-all-data-item-text-2 = U ruajtën në pajisjen tuaj
+fx-backup-confirmation-screen-all-data-item-text-3 = Të fshehtëzuar dhe të mbrojtur me fjalëkalim
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Përfshi faqerojtës, historik, rregullime dhe të dhëna të tjera
+fx-backup-confirmation-screen-easy-setup-item-text-2 = U ruajtën në pajisjen tuaj
+fx-backup-confirmation-screen-easy-setup-item-text-3 = S’përfshin fjalëkalime dhe pagesa
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Që të përfshini të dhëna rezervat, kaloni te <a data-l10n-name="settings">Rregullime</a>.
+fx-backup-confirmation-screen-item-subtext-1 = Kopjeruajtja juaj do të fillojë pas pak minutash dhe do të kryhet një herë në ditë. Ecurinë mund ta kontrolloni që nga <a data-l10n-name="settings">Rregullime</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } do të kërkojë për kopjeruajtjen tuaj, nëse keni nevojë ta riinstaloni.
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Riktheje që nga Kopjeruajtje
@@ -521,18 +536,23 @@ restore-from-backup-secondary-button = Mos e rikthe
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = U kthyem! Të dhënat tuaj { -brand-short-name } janë rikthyer.
 restored-from-backup-success-with-checklist-primary-button = Ruaje dhe vazhdo
 restored-from-backup-success-with-checklist-secondary-button = Anashkalojeni këtë hap
 restored-from-backup-success-no-checklist-primary-button = Vazhdo
 restored-from-backup-error-title = Hëm, pati një problem me kartelën tuaj kopjeruajtje.
+restored-from-backup-error-subtitle = Nëse keni tjetër kartelë kopjeruajtje { -brand-short-name }, provoni rikthimin që nga ajo. <a data-l10n-name="restore-problems">Keni ende probleme?</a>
 restored-from-backup-error-primary-button = Mbylle
 
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Përshtatni punimin tuaj në { -brand-short-name }
+onboarding-personalization-use-case-title = Për çfarë do ta përdorni { -brand-short-name }-in?
 onboarding-personalization-use-case-personal-option = Personal
 onboarding-personalization-use-case-school-option = Shkollë
 onboarding-personalization-use-case-work-option = Punë
+onboarding-personalization-motivation-title = Cilat veçori të { -brand-short-name }-it janë më të rëndësishmet për ju?
 onboarding-personalization-motivation-privacy-option = Privatësi dhe Siguri
 onboarding-personalization-motivation-productivity-option = Prodhimshmëri
 onboarding-personalization-motivation-other-option = Tjetër
