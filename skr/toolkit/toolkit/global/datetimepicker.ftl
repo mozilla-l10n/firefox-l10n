@@ -22,20 +22,37 @@ date-spinner-label =
 
 ## Text of the clear button
 
+date-picker-clear-button = صاف کرو
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
+date-picker-previous =
+    .aria-label = پچھلا مہینہ
+date-picker-next =
+    .aria-label = اڳلا مہینہ
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
 ## Month/Year date spinner dialogs on a datepicker calendar dialog
 
+date-spinner-month =
+    .aria-label = مہينہ
+date-spinner-year =
+    .aria-label = سال
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through either months
 ## or years of a Month/Year date spinner on a datepicker calendar dialog
 
+date-spinner-month-previous =
+    .aria-label = پچھلا مہینہ
+date-spinner-month-next =
+    .aria-label = اڳلا مہینہ
+date-spinner-year-previous =
+    .aria-label = پچھلا سال
+date-spinner-year-next =
+    .aria-label = اڳلا سال
 
 ## This label is used by screenreaders and other assistive technology
 ## to indicate the purpose of a time picker dialog
