@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Shfletim Privat
+popups-infobar-dont-show-message2 =
+    .label = Mos e shfaq këtë mesazh, kur bllokohen flluska, ose ridrejtime nga palë të treta
+    .accesskey = M
+edit-popup-settings2 =
+    .label = Administroni rregullime për flluska dhe ridrejtime nga palë të treta…
+    .accesskey = A
 
 ##
 
@@ -146,6 +152,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Hapni panelin e mesazheve
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Hapni panel kërkesash vendndodhjesh
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Administroni hyrje pajisjesh vendore për këtë sajt
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Administroni dhënie përdorimi të rrjetit tuaj vendor këtij sajti
 urlbar-xr-notification-anchor =
     .tooltiptext = Hapni panel lejesh për realitet virtual
 urlbar-storage-access-anchor =
@@ -246,6 +256,10 @@ urlbar-search-mode-actions = Veprime
 
 urlbar-geolocation-blocked =
     .tooltiptext = Ia keni bllokuar këtij sajti të dhënat mbi vendndodhjen tuaj.
+urlbar-localhost-blocked =
+    .tooltiptext = Keni bllokuar lidhje pajisjesh vendore për këtë sajt.
+urlbar-local-network-blocked =
+    .tooltiptext = Keni bllokuar lidhje rrjetesh vendorë për këtë sajt.
 urlbar-xr-blocked =
     .tooltiptext = E keni bllokuar hyrjen në pajisje realiteti virtual për këtë sajt.
 urlbar-web-notifications-blocked =
@@ -258,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Ia keni bllokuar këtij sajti përdorimin e ekranit tuaj.
 urlbar-persistent-storage-blocked =
     .tooltiptext = E keni bllokuar depozitimin e qëndrueshëm për këtë sajt.
+urlbar-popup-blocked2 =
+    .tooltiptext = Keni bllokuar flluska dhe ridrejtime palësh të treta për këtë sajt.
 urlbar-popup-blocked =
     .tooltiptext = I keni bllokuar flluskat për këtë sajt.
 urlbar-autoplay-media-blocked =
@@ -418,6 +434,10 @@ quickactions-cmd-settings2 = rregullime, parapëlqime, mundësi, administroni
 quickactions-cmd-settings = rregullime, parapëlqime, mundësi
 # Opens about:addons page in the themes section
 quickactions-themes = Administroni tema
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = temsa, shtesa
 quickactions-cmd-themes = tema
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Përditësoni { -brand-short-name }
@@ -786,10 +806,18 @@ urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</
 #   $unit (String) - The unit for the temperature, either "C" or "F"
 #   $city (String) - The name of the city the weather data is for
 urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> në { $city }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } ·E sponsorizuar
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Merrni të dhëna tregu aksionesh drejt e te shtylla juaj e kërkimeve
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Shfaq sugjerime
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -817,6 +845,26 @@ urlbar-result-dates-countdown =
     { $daysUntilStart ->
         [one] { $name } · në { $daysUntilStart } ditë
        *[other] { $name } · në { $daysUntilStart } ditë
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Fillon për  { $daysUntilStart } ditë
+       *[other] { $name } · Fillon për { $daysUntilStart } ditë
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Përfundon pas { $daysUntilEnd } dite
+       *[other] { $name } · Përfundon pas { $daysUntilEnd } ditësh
     }
 # The name of an event and a note that it is happening today separated by a
 # middot.
@@ -1190,6 +1238,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Paraqiti krejt skedat
     .tooltiptext = Paraqiti krejt skedat
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Lini këtu skedë që duhet fiksuar
 
 ## Infobar shown at startup to suggest session-restore
 
