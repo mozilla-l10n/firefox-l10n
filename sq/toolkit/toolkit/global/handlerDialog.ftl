@@ -20,6 +20,9 @@ permission-dialog-description-file-app = Të lejohet kjo kartelë të hapë lidh
 permission-dialog-description-extension-app = Të lejohet zgjerimi { $extension } të hapë lidhjen { $scheme } me { $appName }?
 permission-dialog-description-system-app = Të hapet lidhja { $scheme } me { $appName }?
 permission-dialog-description-system-noapp = Të hapet lidhja { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Të lejohen sajte të hapin kuletën tuaj dixhitale?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

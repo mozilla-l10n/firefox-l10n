@@ -111,6 +111,15 @@ fp-learn-more-about-secure-connection-failures = Mësoni më tepër rreth dësht
 fp-learn-more-about-cert-issues = Mësoni më tepër rreth këtyre llojesh problemesh dëshmish
 fp-learn-more-about-time-related-errors = Mësoni më tepër rreth diagnostikimit dhe zgjidhjes së gabimeve që lidhjen me kohën
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+cert-error-revoked-certificate = { -brand-short-name }-i e bllokoi vizitën tuaj te ky sajt, ngaqë dëshmia e dhënë për { $hostname } është shfuqizuar dhe s’është më e besueshme.
+cert-error-bad-signature = { -brand-short-name } bllokoi vizitën tuaj në këtë sajt, ngaqë nënshkrimi te dëshmia e dhënë për { $hostname } s’është e vlefshme.
+cert-error-key-pinning-failure = { -brand-short-name } bllokoi vizitën tuaj te ky sajt, ngaqë dëshmia e dhënë për { $hostname } përdor tjetër kyç publik nga ai që pritej.
+cert-error-bad-der = { -brand-short-name } bllokoi vizitën tuaj në këtë sajt, ngaqë dëshmia e dhënë për { $hostname } s’është e koduar siç duhet.
+cert-error-cert-not-in-name-space = { -brand-short-name } bllokoi vizitën tuaj në këtë sajt, ngaqë dëshmia e dhënë për { $hostname } s’ndjek kufizimet e emrave të një dëshmie që e emetoi.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = S’arrihet të lidhet

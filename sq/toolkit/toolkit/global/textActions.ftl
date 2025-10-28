@@ -68,6 +68,12 @@ text-action-search-text-box-clear =
     .title = Spastroje
 text-action-highlight-selection =
     .label = Theksoje Përzgjedhjen
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Shtoni Koment te Përzgjedhja
+# Comment is a verb. This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection =
+    .label = Komentoni Përzgjedhjen
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-highlight =
