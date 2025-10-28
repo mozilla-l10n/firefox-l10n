@@ -1176,6 +1176,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blloko flluska nga { $uriHost }
     .accesskey = L
+popups-infobar-allow2 =
+    .label = Lejo flluska dhe ridrejtime palësh të treta për { $uriHost }
+    .accesskey = L
 
 ##
 
@@ -1350,6 +1353,11 @@ popup-notification-xpinstall-prompt-block-url = Shihni hollësitë
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Lejoje zgjerimin të xhirojë në dritare private
     .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Ndani me zhvillues të zgjerimit të dhëna teknike dhe ndërveprimi
+    .accesskey = N
 
 ## Pop-up warning
 
@@ -1359,6 +1367,14 @@ popup-warning-message =
     { $popupCount ->
         [one] { -brand-short-name } pengoi këtë sajt të hapë një dritare flluskë.
        *[other] { -brand-short-name } pengoi kë të sajt të hapë { $popupCount } dritare flluska.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name }-i i pengoi këtij sajti ridrejtimin.
+        [1] { -brand-short-name }-i e pengoi këtë sajt të hapë një dritare flluskë dhe të bëjë ridrejtim.
+       *[other] { -brand-short-name } prevented this site from opening { $popupCount } pop-up windows and redirecting.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
@@ -1425,12 +1441,16 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Mbrojtje e Thelluar Nga Gjurmimi: Off për { $host }
 trustpanel-etp-description-enabled = Nëse diçka duket se nuk punon në këtë sajt, provoni të çaktivizoni mbrojtjet.
+trustpanel-etp-description-disabled = { -brand-product-name }-i mendon se shoqëritë duhet t’ju ndjekin më pak. Bllokojmë aq gjurmues sa mundim, kur aktivizoni mbrojtjet.
 trustpanel-connection-label-secure = Lidhje e siguruar
 trustpanel-connection-label-insecure = Lidhje jo e siguruar
+trustpanel-header-enabled = { -brand-product-name }-i po bën rojë
 trustpanel-description-enabled2 = Jeni i mbrojtur. Nëse vërejmë gjë, do t’ua bëjmë të ditur.
 trustpanel-header-enabled-insecure = Hapni sytë në këtë sajt
 trustpanel-description-enabled = Jeni i mbrojtur. Nëse vërejmë gjë, do t’ua bëjmë të ditur
 trustpanel-header-disabled = Keni mbyllur mbrojtjet
+trustpanel-description-disabled = { -brand-product-name }-i s’është në shërbim. Sugjerojmë të riaktivizoni mbrojtjet.
+trustpanel-clear-cookies-button = Spastro cookie-t dhe të dhëna sajti
 trustpanel-privacy-link = Rregullime Privatësie
 trustpanel-clear-cookies-subview-button-clear = Spastroje
 trustpanel-clear-cookies-subview-button-cancel = Anuloje

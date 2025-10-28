@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Avia su pannellu de is alias de posta e
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Ampara sa faina tua in lìnia
 appmenu-services-header = Is servìtzios mios
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Proa àteras ainas de protetzione dae Mozilla:
 appmenu-other-protection-header = Proa àteras ainas de amparu dae { -vendor-short-name }:
 
 ## Profiles panel
