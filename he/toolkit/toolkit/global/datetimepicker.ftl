@@ -71,3 +71,24 @@ time-spinner-hour-label =
     .aria-label = שעה
 time-spinner-minute-label =
     .aria-label = דקה
+# For example, in English, when the 24 hours of the day are divided into two
+# periods of 12 hours, the time of the day, or the period of the day is either
+# AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
+time-spinner-day-period-label =
+    .aria-label = החלק של היממה
+
+## These labels are used by screenreaders and other assistive technology
+## to indicate the purpose of buttons that leaf through time units of a spinner on a timepicker dialog
+
+time-spinner-hour-previous =
+    .aria-label = השעה הקודמת
+time-spinner-hour-next =
+    .aria-label = השעה הבאה
+time-spinner-minute-previous =
+    .aria-label = הדקה הקודמת
+time-spinner-minute-next =
+    .aria-label = הדקה הבאה
+time-spinner-day-period-previous =
+    .aria-label = החלק הקודם של היממה
+time-spinner-day-period-next =
+    .aria-label = החלק הבא של היממה
