@@ -44,9 +44,12 @@ experimental-features-link-previews-description-no-ai =
         [macos] Që të mësoni më tepër mbi një faqe, para se të klikoni, kalojeni kursorin sipër një lidhjeje dhe shtypnni Shift + Alt (⇧) plus Option (⌥) ose Alt. Paraparjet mund të përfshijnë hollësi të tilla si titulli dhe kohë leximi. <a data-l10n-name="connect">Jepni përshtypje</a>
        *[other] Që të mësoni më tepër mbi një faqe, para se të klikoni, kalojeni kursorin sipër një lidhjeje dhe shtypnni Shift + Alt. Paraparjet mund të përfshijnë hollësi të tilla si titulli dhe kohë leximi. <a data-l10n-name="connect">Jepni përshtypje</a>
     }
+experimental-features-newtab-sections-follow-block-description = Sistemojini historitë te faqja juaj Skedë e Re Organize në ndarje sipas subjektit (Sporte, Ushqim, Dëfrim, etj), për një punim më të strukturuar dhe të lehtë për t’u orientuar. Përdorni kontrollet tanë të rinj Ndiqeni dhe Bllokojeni, që të përshtatni ç’lëndë shihni. <a data-l10n-name="connect">Jepni përshtypje</a>
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Shtoni sajte te paneli juaj i punëve
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Hapini sajtet që vizitoni shpesh si një aplikacion web që nga paneli juaj i punëve. Shihni për ikonën “Shtoje skedën te shtyllë punësh”, në të djathtë të shtyllës së adresave, që ta hapni atë sajt në një dritare të thjeshtuar, me krejt mbrojtjet e { -brand-product-name }-it. <a data-l10n-name="connect">Jepni përshtypje</a>
 
 ## New Tab Productivity Widgets
 
