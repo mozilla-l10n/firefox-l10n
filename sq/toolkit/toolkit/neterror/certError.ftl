@@ -119,6 +119,13 @@ cert-error-bad-signature = { -brand-short-name } bllokoi vizitën tuaj në kët�
 cert-error-key-pinning-failure = { -brand-short-name } bllokoi vizitën tuaj te ky sajt, ngaqë dëshmia e dhënë për { $hostname } përdor tjetër kyç publik nga ai që pritej.
 cert-error-bad-der = { -brand-short-name } bllokoi vizitën tuaj në këtë sajt, ngaqë dëshmia e dhënë për { $hostname } s’është e koduar siç duhet.
 cert-error-cert-not-in-name-space = { -brand-short-name } bllokoi vizitën tuaj në këtë sajt, ngaqë dëshmia e dhënë për { $hostname } s’ndjek kufizimet e emrave të një dëshmie që e emetoi.
+cert-error-inadequate-cert-type = { -brand-short-name } bllokoi vizitën tuaj në këtë sajt, ngaqë dëshmia e dhënë për { $hostname } s’lejohet të përdoret nga një shërbyes.
+cert-error-path-len-constraint-invalid = { -brand-short-name }-i e bllokoi vizitën tuaj te ky sajt, ngaqë dëshmia e dhënë për { $hostname } përmban shumë dëshmi të ndërmjetme te shtegu për te dëshmia rrënjë.
+cert-error-invalid-key = { -brand-short-name }-i e bllokoi vizitën tuaj te ky sajt, ngaqë dëshmia e dhënë për { $hostname } përmban një kyç që është i pavlefshëm. Sipas shumicës së gjasave, është shumë i vogël për të qenë  siguruar.
+cert-error-unknown-critical-extension = { -brand-short-name } bllokoi vizitën tuaj në këtë sajt, ngaqë dëshmia e dhënë për { $hostname } përmban një zgjerim kritik të pambuluar.
+cert-error-extension-value-invalid = { -brand-short-name } bllokoi vizitën tuaj në këtë sajt, ngaqë dëshmia e dhënë për { $hostname } përmban një zgjerim të pavlefshëm.
+cert-error-untrusted-issuer = { -brand-short-name }-i e bllokoi vizitën tuaj te ky sajt, ngaqë dëshmia e dhënë për { $hostname } qe emetuar nga një autoritet dëshmish që s’është më i besueshëm.
+cert-error-untrusted-cert = { -brand-short-name } bllokoi vizitën tuaj në këtë sajt, ngaqë dëshmisë së dhënë për { $hostname } i është vënë shenjë si jo e besueshme.
 
 ## Messages used for certificate error titles
 
