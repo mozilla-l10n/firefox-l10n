@@ -118,6 +118,8 @@ options-disable-http-cache-label = Kache HTTP ñemonge (tembiporu ryru ijuruja j
 options-disable-http-cache-tooltip =
     .title = Emyandývo ko porãvopyrã oipe’áta kache HTTP opavave tenda’i ombojurujáva tembiporu renda. Mba’apoharakuérape ndohupytýi ko tembiapo hesegua.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Eipe’a JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript * monge
 options-disable-javascript-tooltip =
     .title = Emyendývo ko poravopyrã omongéta JavaScript tendayke ag̃aguágui. Pe tendayke térã tembiporu ryru oñembotýta upéicharõ ko ñemoĩporã oñemboykéta.
