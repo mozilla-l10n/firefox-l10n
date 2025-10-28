@@ -30,6 +30,10 @@ options-context-inspector = Inspector
 options-show-user-agent-styles-label = Mostrar estilos del navegador
 options-show-user-agent-styles-tooltip =
     .title = Activar esto mostrará los estilos predeterminados que son cargados por el navegador.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Mostra el Shadow DOM del navegador
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Habilitar esto mostrará los elementos Shadow DOM manejados por el navegador.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Truncar atributos DOM
 options-collapse-attrs-tooltip =
@@ -116,6 +120,8 @@ options-disable-http-cache-label = Desactivar caché HTTP (cuando la caja de her
 options-disable-http-cache-tooltip =
     .title = Activar esta opción desactiva la caché HTTP para todas las pestañas que tienen la caja de herramientas abierta. Los Service Workers no son afectados por esta opción.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Desactivar JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Desactivar JavaScript *
 options-disable-javascript-tooltip =
     .title = Activar esta opción desactivará JavaScript para la pestaña actual. Si la pestaña o caja de herramientas está cerrada, entonces este ajuste será olvidado.
@@ -144,4 +150,10 @@ options-source-maps-label = Activar mapas de fuentes
 options-source-maps-tooltip =
     .title = Si activas esta opción, las fuentes serán mapeadas en las herramientas.
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (solo en la sesión actual, recarga la página)
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Solo en la sesión actual, recarga la página
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = (recarga la página)

@@ -89,3 +89,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } jepysokuekuéra mboguepyre
         }
     .message = Oĩ jepysokue oñemboguepyre omomarã rupi Mozilla porureko.
+unified-extensions-notice-safe-mode =
+    .message = Opaite jepysokue oñemboguepáma apañuái ñemoĩporã rekópe.
