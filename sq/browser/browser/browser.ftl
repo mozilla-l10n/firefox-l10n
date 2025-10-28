@@ -1374,12 +1374,19 @@ redirect-warning-with-popup-message =
     { $popupCount ->
         [0] { -brand-short-name }-i i pengoi këtij sajti ridrejtimin.
         [1] { -brand-short-name }-i e pengoi këtë sajt të hapë një dritare flluskë dhe të bëjë ridrejtim.
-       *[other] { -brand-short-name } prevented this site from opening { $popupCount } pop-up windows and redirecting.
+       *[other] { -brand-short-name } e pengoi këtë sajt të hapë { $popupCount } dritare flluskë dhe të bëjë ridrejtim.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } e pengoi këtë sajt të hapë më shumë se { $popupCount } dritare flluska.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } e pengoi këtë sajt të hapë më tepër se { $popupCount } dritare flluskë dhe të bëjë ridrejtim.
+       *[other] { -brand-short-name } e pengoi këtë sajt të hapë më tepër se { $popupCount } dritare flluskë dhe të bëjë ridrejtim.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1452,6 +1459,11 @@ trustpanel-header-disabled = Keni mbyllur mbrojtjet
 trustpanel-description-disabled = { -brand-product-name }-i s’është në shërbim. Sugjerojmë të riaktivizoni mbrojtjet.
 trustpanel-clear-cookies-button = Spastro cookie-t dhe të dhëna sajti
 trustpanel-privacy-link = Rregullime Privatësie
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Spastro “ cookies” dhe të dhëna sajti për { $host }
+trustpanel-clear-cookies-description = Heqja e cookie-eve dhe të dhënave të sajteve mund të sjellë daljen tuaj nga sajte dhe spastrim shportash blerjesh.
 trustpanel-clear-cookies-subview-button-clear = Spastroje
 trustpanel-clear-cookies-subview-button-cancel = Anuloje
 # Variables
@@ -1480,10 +1492,26 @@ trustpanel-blocker-section-header =
         [one] <span>{ $count }</span> Gjurmues i bllokuar në këtë sajt
        *[other] <span>{ $count }</span> Gjurmues të bllokuar në këtë sajt
     }
+trustpanel-blocker-description = { -brand-product-name } mendon se shoqëritë duhet t’ju ndjekin më pak. Ndaj bllokojmë sa më shumë të mundemi.
+trustpanel-blocked-header = { -brand-product-name }-i bllokoi këto gjëra për ju:
+trustpanel-tracking-header = { -brand-product-name }-i lejoi këto gjëra, që kështu të mos dëmtohet funksionimi i sajteve:
+trustpanel-tracking-description = Pa gjurmues, disa butona, formularë dhe fusha në kredenciale hyrjesh mund të mos funksionojnë.
+trustpanel-insecure-section-header = Lidhja juaj s’është e sigurt
+trustpanel-insecure-description = Të dhënat që po dërgoni te ky sajt s’janë të fshehtëzuara. Mund të shihen, vidhen, ose ndryshohen.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } “Cookie” gjurmimi nga sajte në sajte
+       *[other] { $count } “Cookies” gjurmimi nga sajte në sajte
+    }
 trustpanel-list-label-tracking-content = Lëndë gjurmimi
 trustpanel-list-label-fingerprinter =
     { $count ->
         [one] { $count } Krijues Shenjash Gishtash
        *[other] { $count } Krijues Shenjash Gishtash
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } Gjurmues mediash shoqërore
+       *[other] { $count } Gjurmues mediash shoqërore
     }
 trustpanel-tracking-content-tab-list-header = Këto sajte po rreken t’ju ndjekin:
