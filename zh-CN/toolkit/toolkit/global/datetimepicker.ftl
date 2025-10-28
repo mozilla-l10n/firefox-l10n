@@ -22,20 +22,37 @@ date-spinner-label =
 
 ## Text of the clear button
 
+date-picker-clear-button = 清除
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
+date-picker-previous =
+    .aria-label = 上个月
+date-picker-next =
+    .aria-label = 下个月
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
 ## Month/Year date spinner dialogs on a datepicker calendar dialog
 
+date-spinner-month =
+    .aria-label = 月
+date-spinner-year =
+    .aria-label = 年
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through either months
 ## or years of a Month/Year date spinner on a datepicker calendar dialog
 
+date-spinner-month-previous =
+    .aria-label = 上个月
+date-spinner-month-next =
+    .aria-label = 下个月
+date-spinner-year-previous =
+    .aria-label = 去年
+date-spinner-year-next =
+    .aria-label = 明年
 
 ## This label is used by screenreaders and other assistive technology
 ## to indicate the purpose of a time picker dialog
