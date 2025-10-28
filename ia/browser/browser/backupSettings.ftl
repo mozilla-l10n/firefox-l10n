@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Position
 settings-data-backup-last-backup-location-show-in-folder = Monstrar in dossier
 settings-data-backup-last-backup-location-edit = Modificar…
 settings-data-create-backup-error = Un error ha occurrite durante le creation de tu salveguarda le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Salveguarda tu contrasignos e tu methodos de pagamento, e in addition mantene tote tu datos secur con cryptation.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nomine de file: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Remover protection de contrasignos
+disable-backup-encryption-description2 = Tu contrasignos e methodos de pagamento non sera plus salveguardate.
 disable-backup-encryption-support-link = Que essera salveguardate?
 disable-backup-encryption-cancel-button = Cancellar
 disable-backup-encryption-confirm-button = Remover contrasigno
