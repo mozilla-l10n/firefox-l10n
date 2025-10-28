@@ -63,3 +63,7 @@ experimental-features-newtab-widget-timer-description = Ujdisni një kohëmatës
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Lista dhe kohëmatës në { -firefox-home-brand-name }
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Kërkim Semantik Në Historik
+experimental-features-semantic-history-search-description = Përdorni një model vendor Nxënieje Nga Makina për të pasur sugjerime zërash nga historiku, zëra që lidhen me kërkimet tuaja, bazuar në të kuptuarit e gjuhëve natyrore, te shtylla e adresave në { -brand-product-name }. <a data-l10n-name="connect">Jepni përshtypje</a>
