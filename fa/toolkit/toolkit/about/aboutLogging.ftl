@@ -8,6 +8,7 @@ about-logging-set-log-file = تنظیم پرونده وقایع
 about-logging-set-log-modules = تنظیم ماژول‌های وقایع
 about-logging-start-logging = شروع ثبت وقایع
 about-logging-stop-logging = توقف ثبت وقایع
+about-logging-info = اطلاعات:
 
 ## Logging presets
 
