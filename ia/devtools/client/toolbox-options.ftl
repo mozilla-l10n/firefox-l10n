@@ -120,6 +120,8 @@ options-disable-http-cache-label = Disactivar le cache HTTP (quando le instrumen
 options-disable-http-cache-tooltip =
     .title = Activar iste option disactiva le cache HTTP pro tote le schedas que ha le instrumentario aperte. Iste option non ha effecto sur le Service Workers.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Disactivar JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Disactivar JavaScript *
 options-disable-javascript-tooltip =
     .title = Activar iste option disactiva JavaScript pro le scheda currente. Si le scheda o le instrumentario es claudite, iste parametro essera oblidate.
@@ -147,6 +149,9 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Activar le mappas de codices fonte
 options-source-maps-tooltip =
     .title = Si tu activa iste option le fontes essera mappate in le instrumentos.
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (Solo le session actual, recarga le pagina)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Solmente le session actual, recarga le pagina
 # The message shown for settings that trigger page reload

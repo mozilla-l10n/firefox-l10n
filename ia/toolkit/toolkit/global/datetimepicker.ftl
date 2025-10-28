@@ -7,6 +7,13 @@
 
 
 ## These labels are used by screenreaders and other assistive technology
+## to indicate the purpose of this picker as both a calendar with a month-year
+## and a time selection dialog for HTML's <input type="datetime-local">
+
+datetime-picker-label =
+    .aria-label = Elige un data e tempore
+
+## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of a date picker calendar and a month-year selection
 ## spinner dialogs for HTML's default <input type="date">
 
@@ -49,6 +56,27 @@ date-spinner-year-previous =
 date-spinner-year-next =
     .aria-label = Anno successive
 
+## This label is used by screenreaders and other assistive technology
+## to indicate the purpose of a time picker dialog
+## for HTML's default <input type="time">
+
+time-picker-label =
+    .aria-label = Elige un tempore
+
+## These labels are used by screenreaders and other assistive technology
+## to indicate the type of a value/unit that is being selected within a
+## time spinners on a timepicker dialog
+
+time-spinner-hour-label =
+    .aria-label = Hora
+time-spinner-minute-label =
+    .aria-label = Minuta
+# For example, in English, when the 24 hours of the day are divided into two
+# periods of 12 hours, the time of the day, or the period of the day is either
+# AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
+time-spinner-day-period-label =
+    .aria-label = Periodo del die
+
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through time units of a spinner on a timepicker dialog
 
@@ -56,5 +84,11 @@ time-spinner-hour-previous =
     .aria-label = Hora precedente
 time-spinner-hour-next =
     .aria-label = Hora successive
+time-spinner-minute-previous =
+    .aria-label = Minuta precedente
+time-spinner-minute-next =
+    .aria-label = Minuta successive
 time-spinner-day-period-previous =
     .aria-label = Periodo del die precedente
+time-spinner-day-period-next =
+    .aria-label = Periodo del die successive
