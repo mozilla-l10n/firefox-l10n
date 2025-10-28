@@ -10,6 +10,8 @@
 ## to indicate the purpose of this picker as both a calendar with a month-year
 ## and a time selection dialog for HTML's <input type="datetime-local">
 
+datetime-picker-label =
+    .aria-label = 날짜와 시간 선택
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of a date picker calendar and a month-year selection
@@ -58,12 +60,26 @@ date-spinner-year-next =
 ## to indicate the purpose of a time picker dialog
 ## for HTML's default <input type="time">
 
+time-picker-label =
+    .aria-label = 시간 선택
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
 ## time spinners on a timepicker dialog
 
+time-spinner-hour-label =
+    .aria-label = 시
+time-spinner-minute-label =
+    .aria-label = 분
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through time units of a spinner on a timepicker dialog
 
+time-spinner-hour-previous =
+    .aria-label = 이전 시간
+time-spinner-hour-next =
+    .aria-label = 다음 시간
+time-spinner-minute-previous =
+    .aria-label = 이전 1분
+time-spinner-minute-next =
+    .aria-label = 다음 1분

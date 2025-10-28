@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = 위치
 settings-data-backup-last-backup-location-show-in-folder = 폴더에서 보기
 settings-data-backup-last-backup-location-edit = 편집…
 settings-data-create-backup-error = 백업을 만드는 중에 오류가 발생했습니다.  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = 비밀번호와 결제 방법을 백업하고 모든 데이터를 암호화하여 안전하게 보관하세요.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = 파일 이름: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = 암호 보호 제거
+disable-backup-encryption-description2 = 저장된 비밀번호와 결제 방법도 더 이상 백업되지 않습니다.
 disable-backup-encryption-support-link = 어떤 것이 백업되나요?
 disable-backup-encryption-cancel-button = 취소
 disable-backup-encryption-confirm-button = 비밀번호 제거
@@ -240,3 +242,4 @@ other-backup-files-founds = <b>주의:</b> 다른 백업 파일 { $numberOfOther
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = { $machineName }에서 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }에 생성됨
+backup-file-restore-file-validation-error = 이 파일은 작동하지 않습니다. 다른 파일을 선택해 보세요. <a data-l10n-name="restore-problems">여전히 문제가 해결되지 않았나요?</a>

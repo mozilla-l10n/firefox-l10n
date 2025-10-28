@@ -93,10 +93,26 @@ turn-off-scheduled-backups-confirm-button = Slå av og slett sikkerhetskopien
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Gjenopprett dine data
+restore-from-backup-support-link =
+    .message = Hva vil bli gjenopprettet?
+restore-from-backup-no-backup-file-link = Har du problemer med å finne sikkerhetskopien din?
+restore-from-backup-filepicker-label = Sikkerhetskopieringsfil
+restore-from-backup-filepicker-title = Velg sikkerhetskopifil:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Velg…
        *[other] Bla gjennom…
     }
 restore-from-backup-password-label = Passord
+restore-from-backup-password-description = Dette låser opp den krypterte sikkerhetskopien din.
 restore-from-backup-cancel-button = Avbryt
+restore-from-backup-confirm-button = Gjenopprett og start på nytt
+restore-from-backup-restoring-button = Gjenoppretter…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Feil passord. <a data-l10n-name="incorrect-password-support-link">Har du fortsatt problemer?</a>
