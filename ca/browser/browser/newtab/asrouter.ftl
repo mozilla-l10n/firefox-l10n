@@ -355,6 +355,16 @@ multi-cta-fox-doodle-pin-startmenu-checkbox = Fixa el { -brand-short-name } al m
 multi-cta-fox-doodle-start-browsing-primary-button-label = Comença a navegar
 multi-cta-fox-doodle-main-browser-primary-button-label = Fes que el { -brand-short-name } sigui el meu navegador principal
 multi-cta-fox-doodle-quick-reminder-subtitle = Us volem recordar que podeu tenir el vostre navegador centrat en la privadesa preferit a un sol clic.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Tingueu el vostre navegador preferit centrat en la privadesa a un sol clic. Definiu el { -brand-short-name } com a navegador predeterminat per a obrir enllaços i fixeu-lo a l'acoblador.
+       *[other] Tingueu el vostre navegador preferit centrat en la privadesa a un sol clic. Definiu { -brand-short-name } com a navegador predeterminat per a obrir enllaços i fixeu-lo a la barra de tasques.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Tingueu el vostre navegador preferit centrat en la privadesa a un sol clic. Definiu el { -brand-short-name } com a navegador predeterminat per a obrir enllaços i fixeu-lo a la barra de tasques i al menú d'inici.
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-subtitle = Feu una còpia de seguretat de les contrasenyes i les adreces d'interès per a poder fer el salt a qualsevol dispositiu.
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 

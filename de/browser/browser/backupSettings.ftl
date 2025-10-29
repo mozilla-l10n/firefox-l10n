@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Speicherort
 settings-data-backup-last-backup-location-show-in-folder = Ordner anzeigen
 settings-data-backup-last-backup-location-edit = Bearbeiten…
 settings-data-create-backup-error = Beim Erstellen Ihres Backups am { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } ist ein Fehler aufgetreten
+settings-sensitive-data-encryption-description = Sichern Sie Ihre Passwörter und Zahlungsmethoden und schützen Sie alle Ihre Daten mit Verschlüsselung.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Dateiname: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Passwortschutz entfernen
+disable-backup-encryption-description2 = Ihre gespeicherten Passwörter und Zahlungsmethoden werden ebenfalls nicht mehr gesichert.
 disable-backup-encryption-support-link = Was wird gesichert?
 disable-backup-encryption-cancel-button = Abbrechen
 disable-backup-encryption-confirm-button = Passwort entfernen
