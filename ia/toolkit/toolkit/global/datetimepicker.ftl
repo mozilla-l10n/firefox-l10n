@@ -11,7 +11,7 @@
 ## and a time selection dialog for HTML's <input type="datetime-local">
 
 datetime-picker-label =
-    .aria-label = Elige un data e tempore
+    .aria-label = Elige un data e hora
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of a date picker calendar and a month-year selection
@@ -32,7 +32,7 @@ date-picker-clear-button = Vacuar
 date-picker-previous =
     .aria-label = Mense precedente
 date-picker-next =
-    .aria-label = Mense successive
+    .aria-label = Mense sequente
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
@@ -50,18 +50,18 @@ date-spinner-year =
 date-spinner-month-previous =
     .aria-label = Mense precedente
 date-spinner-month-next =
-    .aria-label = Mense successive
+    .aria-label = Mense sequente
 date-spinner-year-previous =
     .aria-label = Anno precedente
 date-spinner-year-next =
-    .aria-label = Anno successive
+    .aria-label = Anno sequente
 
 ## This label is used by screenreaders and other assistive technology
 ## to indicate the purpose of a time picker dialog
 ## for HTML's default <input type="time">
 
 time-picker-label =
-    .aria-label = Elige un tempore
+    .aria-label = Elige un hora
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
@@ -83,12 +83,12 @@ time-spinner-day-period-label =
 time-spinner-hour-previous =
     .aria-label = Hora precedente
 time-spinner-hour-next =
-    .aria-label = Hora successive
+    .aria-label = Hora sequente
 time-spinner-minute-previous =
     .aria-label = Minuta precedente
 time-spinner-minute-next =
-    .aria-label = Minuta successive
+    .aria-label = Minuta sequente
 time-spinner-day-period-previous =
     .aria-label = Periodo del die precedente
 time-spinner-day-period-next =
-    .aria-label = Periodo del die successive
+    .aria-label = Periodo del die sequente
