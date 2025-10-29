@@ -623,9 +623,15 @@ use-current-pages =
 choose-bookmark =
     .label = Истифодаи хатбарак…
     .accesskey = И
+home-homepage-header = Саҳифаи асосӣ
 
 ## Custom Homepage subpage
 
+home-custom-homepage-header = Саҳифаи асосии фармоишӣ
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Нишони(ҳо)и сомона
+home-custom-homepage-address =
+    .placeholder = Нишониеро ворид намоед
 home-custom-homepage-address-button =
     .label = Илова кардани нишонӣ
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)

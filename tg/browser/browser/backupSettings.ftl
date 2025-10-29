@@ -57,6 +57,11 @@ turn-on-scheduled-backups-location-label = Ҷойгиршавӣ
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (тавсия дода мешавад)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Интихоб кардан…
+       *[other] Кушодан…
+    }
 turn-on-scheduled-backups-encryption-create-password-label = Ниҳонвожа
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Ниҳонвожаро такрор кунед
@@ -72,7 +77,16 @@ turn-off-scheduled-backups-confirm-button = Ғайрифаъол ва нест �
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Маълумоти худро барқарор созед
+restore-from-backup-filepicker-label = Файли нусхаи эҳтиётӣ
+restore-from-backup-filepicker-title = Интихоби файли нусхаи эҳтиётӣ:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Интихоб кардан…
+       *[other] Кушодан…
+    }
 restore-from-backup-password-label = Ниҳонвожа
+restore-from-backup-cancel-button = Бекор кардан
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -114,6 +128,7 @@ backup-error-retry = Чизе нодуруст иҷро шуд. Лутфан, а
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-path-label = Файли нусхаи эҳтиётӣ:
 backup-file-encryption-state-value-encrypted = Ҳа
 backup-file-encryption-state-value-not-encrypted = Не
 backup-file-creation-device-label = Дастгоҳ:

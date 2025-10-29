@@ -484,6 +484,8 @@ create-backup-screen-1-flair = Тавсияшуда
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Маълумоти бештар</a>
 create-backup-select-tile-button-label = Интихоб кардан
 create-backup-back-button-label = Ба қафо
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Танзими осон
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Ҳамаи маълумот
 fx-backup-opt-in-create-password-label = Ниҳонвожаро ворид намоед
@@ -519,5 +521,6 @@ restored-from-backup-error-primary-button = Пӯшидан
 onboarding-personalization-use-case-personal-option = Шахсӣ
 onboarding-personalization-use-case-school-option = Омӯзишӣ
 onboarding-personalization-use-case-work-option = Корӣ
+onboarding-personalization-motivation-privacy-option = Махфият ва амният
 onboarding-personalization-motivation-productivity-option = Самаранокӣ
 onboarding-personalization-motivation-other-option = Дигар
