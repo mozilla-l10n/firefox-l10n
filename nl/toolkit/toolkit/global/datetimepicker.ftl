@@ -91,4 +91,4 @@ time-spinner-minute-next =
 time-spinner-day-period-previous =
     .aria-label = Vorige periode van de dag
 time-spinner-day-period-next =
-    .aria-label = Volgende tijdvak van de dag
+    .aria-label = Volgende periode van de dag
