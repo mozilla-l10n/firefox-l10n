@@ -382,6 +382,7 @@ windows-10-eos-sync-toast-secondary-label = Kujtoma më vonë
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name }-i s’vjen i kurdisur, si shfletues të tjera nga Big Tech. Këtu është puna.
 windows-10-eos-challenger-sync-callout-subtitle = Kur bëni kopjeruajtje të faqerojtësve dhe fjalëkalimeve tuaj { -brand-product-name }, është e kollajtë të sillet te pajisja juaj e radhës shfletuesi që zgjodhët.
 windows-10-eos-challenger-pin-callout-subtitle = Fiksojeni { -brand-shorter-name }-in te shtylla juaj e punëve, që shfletuesi që zgjodhët te jetë përherë atje ku ju duhet.
 windows-10-eos-challenger-sync-primary-button = Kopjeruani { -brand-shorter-name }-in

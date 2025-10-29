@@ -60,6 +60,9 @@ new-profile-page-input-placeholder =
     .placeholder = Eiporavo téra “Mba’apo” térã “Tapichaite”
 new-profile-page-done-button =
     .label = Emohu’ã mbasako’i
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Ne ñongatu { $profilename }-pegua oĩma embohéra hag̃ua
 profile-window-title-2 = { -brand-short-name } - Eiporavo mba’ete
 profile-window-logo =
     .alt = { -brand-short-name } ra’ãnga’i

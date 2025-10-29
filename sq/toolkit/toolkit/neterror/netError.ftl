@@ -167,3 +167,13 @@ certerror-coep-learn-more = Mësoni më tepër mbi “Cross Origin Embedder Poli
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Kod gabimi: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name }-i s’mund të krijojë një lidhje të siguruar me shërbyesin te { $hostname }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Duket se ky sajt përdor “software” të vjetër, me probleme të ditura sigurie.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Sigurohuni të përdorni versionin më të ri të { -brand-short-name }-it. Kaloni te Ndihmë > Mbi { -brand-short-name }-in, te menuja. Nëse po përdorni { -brand-short-name }-in më të ri, gjasat janë që problemi të jetë me vetë sajtin.

@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Mos e shfaq sërish
     .accesskey = M
 sandbox-unprivileged-namespaces-howtofix = Si të ndreqet ky problem
+sandbox-content-disabled-warning = Bankëprova e sigurisë është çaktivizuar. Formësimi juaj nuk mbulohet dhe është më pak i siguruar.
