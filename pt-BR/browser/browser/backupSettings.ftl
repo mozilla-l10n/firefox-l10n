@@ -185,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Remover proteção por senha
+disable-backup-encryption-description2 = Suas senhas e métodos de pagamento salvos também não serão mais armazenados em backup.
 disable-backup-encryption-support-link = O que é salvo?
 disable-backup-encryption-cancel-button = Cancelar
 disable-backup-encryption-confirm-button = Remover senha
@@ -245,3 +246,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Criado em { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } em { $machineName }
+backup-file-restore-file-validation-error = Este arquivo não está funcionando. Experimente escolher outro arquivo. <a data-l10n-name="restore-problems">Ainda com problemas?</a>

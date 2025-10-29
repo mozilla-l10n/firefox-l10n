@@ -65,8 +65,10 @@ turn-on-scheduled-backups-confirm-button = Фаъол кардани нусха�
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Таҳияи нусхаи эҳтиётиро хомӯш мекунед?
 turn-off-scheduled-backups-support-link = Маълумоти бештар
 turn-off-scheduled-backups-cancel-button = Бекор кардан
+turn-off-scheduled-backups-confirm-button = Ғайрифаъол ва нест кардани нусхаи эҳтиётӣ
 
 ## These strings are displayed in a modal when users want restore from a backup.
 

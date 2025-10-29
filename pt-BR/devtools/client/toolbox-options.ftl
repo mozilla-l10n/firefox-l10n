@@ -120,6 +120,8 @@ options-disable-http-cache-label = Desativar cache HTTP (quando as ferramentas e
 options-disable-http-cache-tooltip =
     .title = Desativar cache HTTP de todas as abas que estão com as ferramentas de desenvolvimento abertas. Service workers não são afetados por esta opção.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Desativar JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Desativar JavaScript *
 options-disable-javascript-tooltip =
     .title = Desativar JavaScript na aba atual. Esta configuração é esquecida se fechar a aba ou as ferramentas.
@@ -147,6 +149,9 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Ativar mapas de código-fonte
 options-source-maps-tooltip =
     .title = Mapear fontes nas ferramentas.
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (só na sessão atual, a página é recarregada)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * somente na sessão atual, a página é recarregada
 # The message shown for settings that trigger page reload
