@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Hely
 settings-data-backup-last-backup-location-show-in-folder = Megjelenítés mappában
 settings-data-backup-last-backup-location-edit = Szerkesztés…
 settings-data-create-backup-error = Hiba történt biztonsági mentés létrehozása során, ekkor: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Készítsen biztonsági mentést jelszavairól és fizetési módjairól, valamint tartsa minden adatát biztonságban titkosítással.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Fájlnév: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Jelszavas védelem eltávolítása
+disable-backup-encryption-description2 = A mentett jelszavairól és fizetési módjairól többé nem lesz biztonsági mentés.
 disable-backup-encryption-support-link = Miről lesz mentés készítve?
 disable-backup-encryption-cancel-button = Mégse
 disable-backup-encryption-confirm-button = Jelszó eltávolítása
@@ -244,3 +246,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Létrehozva: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a következőn: { $machineName }
+backup-file-restore-file-validation-error = Ez a fájl nem működik. Próbáljon meg egy másik fájlt kiválasztani. <a data-l10n-name="restore-problems">Továbbra is fennáll a problémája?</a>

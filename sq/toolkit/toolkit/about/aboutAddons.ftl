@@ -584,6 +584,7 @@ mlmodel-link-preview = { -brand-short-name }-i këtë e përdor për të prodhua
 mlmodel-pdfjs = { -brand-short-name }-i e përdor këtë për të krijuar tekst alternativ për figura që shtoni te PDF-ra
 mlmodel-smart-tab-topic-engine = { -brand-short-name }-i e përdor këtë për të sugjeruar emra për grupet tuaj të skedave
 mlmodel-smart-tab-embedding-engine = { -brand-short-name }-i e përdor këtë për të sugjeruar skeda për grupet tuaj të skedave
+mlmodel-description = Disa veçori dhe zgjerime në { -brand-short-name } bazohen në modele IA që funksionojnë lokalisht në pajisjen tuaj. Kjo mënyrë mbron privatësinë tuaj dhe, në mjaft raste, përshpejton funksionimin. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Hiqe
@@ -592,3 +593,5 @@ mlmodel-addon-detail-totalsize-label = Madhësi kartele
 mlmodel-addon-detail-last-used-label = Përdorur së fundi më
 # This is a section label to describe what extensions or features use a specific local AI model
 mlmodel-addon-detail-used-by-label = Përdorur nga
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Shiheni te Hugging Face

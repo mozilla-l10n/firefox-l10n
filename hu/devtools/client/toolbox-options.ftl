@@ -116,6 +116,8 @@ options-disable-http-cache-label = HTTP gyorsítótár ki (ha az eszközkészlet
 options-disable-http-cache-tooltip =
     .title = Ezzel kikapcsolható a HTTP gyorsítótár minden lapon, amelyen az eszközkészlet nyitva van. A Service Workerekre ez nincs hatással.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = JavaScript kikapcsolása
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript kikapcsolása *
 options-disable-javascript-tooltip =
     .title = Ezen beállítás bekapcsolásakor a JavaScript ki lesz kapcsolva az aktuális lapon. A lap vagy az eszközkészlet bezárásakor ez a beállítás el lesz felejtve.
@@ -143,6 +145,9 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Forrástérképek engedélyezése
 options-source-maps-tooltip =
     .title = Ha engedélyezi ezt a beállítást, akkor a források le lesznek képezve az eszközökben.
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (csak a jelenlegi munkamenetben, újratölti az oldalt)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Csak ez a munkamenet, újratölti az oldalt
 # The message shown for settings that trigger page reload
