@@ -76,3 +76,19 @@ time-spinner-minute-label =
 # AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
 time-spinner-day-period-label =
     .aria-label = Ára pukukue
+
+## These labels are used by screenreaders and other assistive technology
+## to indicate the purpose of buttons that leaf through time units of a spinner on a timepicker dialog
+
+time-spinner-hour-previous =
+    .aria-label = Aravo ohasaramóva
+time-spinner-hour-next =
+    .aria-label = Aravo Og̃uahẽtava
+time-spinner-minute-previous =
+    .aria-label = Aravo’i ohasaramóva
+time-spinner-minute-next =
+    .aria-label = Aravo’i og̃uahẽtava
+time-spinner-day-period-previous =
+    .aria-label = Ara ohasaramóva pukukue
+time-spinner-day-period-next =
+    .aria-label = Ára og̃uahẽtava pukukue
