@@ -88,3 +88,7 @@ time-spinner-minute-previous =
     .aria-label = Előző perc
 time-spinner-minute-next =
     .aria-label = Következő perc
+time-spinner-day-period-previous =
+    .aria-label = A nap előző időszaka
+time-spinner-day-period-next =
+    .aria-label = A nap következő időszaka

@@ -794,6 +794,10 @@ search-keyword-warning-title = Fjalëkyç i Përsëdytur
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Keni zgjedhur një fjalëkyç që hëpërhë po përdoret nga "{ $name }". Ju lutemi, përzgjidhni një tjetër.
 search-keyword-warning-bookmark = Zgjodhët një fjalëkyç që hëpërhë po përdoret nga një faqerojtës. Ju lutemi, përzgjidhni një tjetër.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Ka tashmë një motor kërkimesh me emrin “{ $name }”. Ju lutemi, zgjidhni një emër tjetër.
 remove-engine-confirmation = Jeni i sigurt se doni të hiqet ky motor kërkimesh?
 remove-engine-remove = Hiqe
 remove-addon-engine-alert = Që të hiqet ky motor kërkimesh, hiqni shtesën përkatëse.
@@ -1116,6 +1120,19 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = Administroni metoda pagesash
     .accesskey = A
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Që të vetëplotësohen hollësi dhe të administrohen metoda pagesash, kërko bërje doemos hyrjeje në pajisje,
+    .accesskey = k
+autofill-addresses-title = Adresa, etj
+autofill-addresses-header =
+    .aria-label = Adresa, etj
+autofill-addresses-checkbox-message =
+    .label = Ruaj dhe vetëplotëso adresa
+    .accesskey = R
+autofill-addresses-manage-addresses-button =
+    .label = Administroni adresa, etj
+    .accesskey = A
 
 ## Privacy Section - History
 
@@ -1161,6 +1178,8 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = “Cookies” dhe të Dhëna Sajtesh
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Po njehsohet madhësi të dhënash sajtesh dhe fshehtine…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1188,14 +1207,22 @@ sitedata-option-block-cross-site-trackers =
     .label = Gjurmues nga sajte në sajte
 sitedata-option-block-cross-site-tracking-cookies =
     .label = “Cookies” gjurmimi nga sajte në sajte
+sitedata-option-block-cross-site-cookies2 =
+    .label = Izoloni “cookies” gjurmimi nga sajti në sajt
 sitedata-option-block-cross-site-cookies =
     .label = Cookie-t për gjurmim nga sajte në sajte dhe izolo “cookies” të tjera palësh të treta
 sitedata-option-block-unvisited =
     .label = “Cookies” nga sajte të pavizituar
 sitedata-option-block-all-cross-site-cookies =
-    .label = Krejt cookie-t palë të treta (mund të shkaktojë mosfunksionim të disa sajteve)
+    .label = Krejt cookie-t për gjurmim nga sajti në sajt (mund të shkaktojë mosfunksionim të disa sajteve)
 sitedata-option-block-all =
     .label = Krejt cookie-t (do të shkaktojë mosfunksionim sajtesh)
+sitedata-clear2 =
+    .label = Spastro të dhëna shfletimi
+    .accesskey = S
+sitedata-settings2 =
+    .label = Administroni të dhëna shfletimi
+    .accesskey = A
 sitedata-clear =
     .label = Spastroni të Dhëna…
     .accesskey = S
@@ -1205,6 +1232,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Administroni Përjashtime…
     .accesskey = A
+sitedata-cookies-exceptions2 =
+    .label = Administroni përjashtime
+    .accesskey = x
+    .description = Mund të tregoni cilët sajte janë përherë, ose kurrë, të lejuar të përdorin “cookies” dhe të dhëna sajtesh.
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1224,6 +1255,9 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Shtyllë Adresash
+addressbar-suggest-1 = Zgjidhni cilat sugjerime të shfaqen te shtylla juaj e adresave
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Kur përdoret shtylla e adresave, jep sugjerime nga
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Shtyllë Adresash — { -firefox-suggest-brand-name }
@@ -1251,6 +1285,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Sajte Kryesues
     .accesskey = K
+addressbar-locbar-engines-option-1 =
+    .label = Sugjero motorë kërkimi për përdorim
+    .accesskey = k
 addressbar-locbar-engines-option =
     .label = Motorë kërkimesh
     .accesskey = k
@@ -1271,6 +1308,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Merrni nga interneti sugjerime të
 addressbar-locbar-suggest-sponsored-option =
     .label = Sugjerime nga sponsorë
 addressbar-locbar-suggest-sponsored-desc = Përkrahni { -brand-short-name }-in, përmes sugjerimesh, të ndonjëherëshme, të sponsorizuara
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Merrni sugjerime nga Mozilla, teksa shtypni
 addressbar-quickactions-learn-more = Mësoni më tepër
 addressbar-dismissed-suggestions-label = Sugjerimet u hodhën tej
 addressbar-restore-dismissed-suggestions-description = Rikthe sugjerime të hedhura tej, nga sponsorë dhe { -brand-short-name }-i.
@@ -1309,15 +1354,16 @@ content-blocking-etp-strict-desc = Mbrojtje më e fortë, por mund të shkaktoj�
 content-blocking-etp-custom-desc = Zgjidhni cilët gjurmues dhe programthe të bllokohen.
 content-blocking-etp-blocking-desc = { -brand-short-name }-i bllokon sa vijon:
 content-blocking-private-windows = Lëndë gjurmimi në Dritare Private
-content-blocking-cross-site-cookies-in-all-windows2 = “Cookies” palësh të treta në krejt dritaret
+content-blocking-cross-site-cookies-in-all-windows2 = “Cookies” gjurmimi nga sajti në sajt në krejt dritaret
 content-blocking-cross-site-tracking-cookies = “Cookies” gjurmimi nga sajte në sajte
-content-blocking-all-cross-site-cookies-private-windows = “Cookies” palësh të treta në Dritare Private
+content-blocking-all-cross-site-cookies-private-windows = “Cookies” gjurmimi nga sajti në sajt në Dritare Private
+content-blocking-isolate-cross-site-cookies = Izoloni “cookies” gjurmimi nga sajti në sajt
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie-t për gjurmim nga sajte në sajte dhe izolo cookie-t e mbetura
 content-blocking-social-media-trackers = Gjurmues prej mediash shoqërore
 content-blocking-all-cookies = Krejt cookie-t
 content-blocking-unvisited-cookies = “Cookies” nga sajte të pavizituar
 content-blocking-all-windows-tracking-content = Gjurmim lënde në krejt dritaret
-content-blocking-all-cross-site-cookies = Krejt “cookiet” nga palë të treta
+content-blocking-all-cross-site-cookies = Krejt “cookiet” për gjurmim nga sajti në sajt
 content-blocking-cryptominers = Nxjerrës kriptomonedhash
 content-blocking-fingerprinters = Krijues shenjash gishtash
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
@@ -1332,8 +1378,13 @@ content-blocking-etp-standard-tcp-rollout-description = Mbrojtja Tërësore Nga 
 content-blocking-etp-standard-tcp-rollout-learn-more = Mësoni më tepër
 content-blocking-etp-standard-tcp-title = Përfshin Mbrojtje Tërësore Nga Cookie-t, veçoria jonë më e fuqishme ndonjëherë për mbrojtje
 content-blocking-warning-title = Kini mendjen!
+content-blocking-warning-title-2 = Për disa sajte, mbrojtja strikte nga gjurmimi mund të dëmtojë funksionimin
 content-blocking-and-isolating-etp-warning-description-2 = Ky rregullim mund të sjellë mosshfaqje të lëndës ose funksionim jo të saktë në disa sajte. Nëse një sajt duket i dëmtuar, mund të doni të çaktivizoni mbrojtjen nga gjurmimet për atë saj, që të ngarkohet krejt lënda.
 content-blocking-warning-learn-how = Mësoni se si
+content-blocking-baseline-uncheck-warning-dialog-title = Jeni i sigurt se doni të çaktivizohen ndreqjet?
+content-blocking-baseline-uncheck-warning-dialog-body = Ky rregullim ndihmon të ndreqen shumica e problemeve me sajtin. Nëse e çaktivizoni, disa sajte mund të mos funksionojnë dhe { -brand-short-name }-i s’do të jetë në gjendje të diagnostikojë këto probleme.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Çaktivizo ndreqjet
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Mbaji aktive ndreqjet
 content-blocking-reload-description = Do t’ju duhet të ringarkoni skedat tuaja që të zbatohen këto ndryshime.
 content-blocking-reload-tabs-button =
     .label = Ringarkoji Krejt Skedat
@@ -1388,6 +1439,7 @@ permissions-location = Vendndodhje
 permissions-location-settings =
     .label = Rregullime…
     .accesskey = r
+permissions-localhost = Aplikacione dhe shërbime pajisjeje
 permissions-xr = Realitet Virtual
 permissions-xr-settings =
     .label = Rregullime…

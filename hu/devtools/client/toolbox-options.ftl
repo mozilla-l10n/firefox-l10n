@@ -30,6 +30,8 @@ options-context-inspector = Vizsgáló
 options-show-user-agent-styles-label = Böngészőstílusok megjelenítése
 options-show-user-agent-styles-tooltip =
     .title = A böngésző által betöltött alapértelmezett stílusok megjelenítése.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Böngésző árnyék-DOM megjelenítése
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM attribútumok csonkítása
 options-collapse-attrs-tooltip =
