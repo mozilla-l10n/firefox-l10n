@@ -29,6 +29,8 @@ settings-data-backup-toggle-on = Zapnout zálohování
 settings-data-backup-toggle-off = Vypnout zálohování
 settings-data-backup-trigger-button = Zálohovat nyní
 settings-data-backup-in-progress-button = Probíhá zálohování…
+settings-data-backup-in-progress-message =
+    .message = Probíhá zálohování…
 settings-data-backup-scheduled-backups-on = Zálohování: zapnuto
 settings-data-backup-scheduled-backups-off = Zálohování: vypnuto
 settings-data-backup-scheduled-backups-description = Automaticky chraňte své záložky, historii a další data. <a data-l10n-name="support-link">Zjistit více</a>
@@ -38,6 +40,7 @@ settings-data-backup-last-backup-location = Umístění
 settings-data-backup-last-backup-location-show-in-folder = Zobrazit ve složce
 settings-data-backup-last-backup-location-edit = Upravit…
 settings-data-create-backup-error = Při vytváření zálohy dne { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") } došlo k chybě
+settings-sensitive-data-encryption-description = Zálohujte svá hesla a platební metody a navíc si všechna data zabezpečte pomocí šifrování.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Název souboru: { $fileName }
@@ -54,6 +57,11 @@ settings-data-backup-scheduled-backups-off-restore-choose = Vybrat soubor se zá
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description =
+    { -brand-product-name.case-status ->
+        [with-cases] Obnovte si data { -brand-product-name(case: "gen") } z poslední zálohy.
+       *[no-cases] Obnovte si data aplikace { -brand-product-name } z poslední zálohy.
+    }
 settings-data-backup-scheduled-backups-on-restore-choose = Obnovit…
 settings-data-toggle-encryption-label = Zálohovat i citlivá data
 settings-data-toggle-encryption-support-link = Zjistit více
@@ -158,6 +166,11 @@ backup-service-error-recovery-failed =
     .message = Restartujte { -brand-short-name } a zkuste obnovu z vaší zálohy znovu.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, došlo k problému se zálohováním.
+    .message = Zkuste to znovu za několik minut.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
 backup-service-error-went-wrong =
     .heading = Něco se pokazilo
     .message = V procesu zálohování došlo k problému s { -brand-short-name(case: "ins") }. Zkuste to prosím znovu nebo restartujte { -brand-short-name(case: "acc") }.
@@ -192,6 +205,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Odebrání ochrany heslem
+disable-backup-encryption-description2 = Vaše uložená hesla a platební metody již také nebudou zálohovány.
 disable-backup-encryption-support-link = Co se bude zálohovat?
 disable-backup-encryption-cancel-button = Zrušit
 disable-backup-encryption-confirm-button = Odebrat heslo
@@ -232,6 +246,7 @@ backup-file-how-to-restore-header = Jak obnovit:
 # application menu.
 backup-file-moz-browser-restore-step-1 = Otevřete nabídku aplikace ☰ a přejděte do Nastavení > Synchronizace
 backup-file-moz-browser-restore-step-2 = Klepněte na „Vybrat soubor se zálohou“ a vyberte tento soubor
+backup-file-moz-browser-restore-step-3 = Na vyžádání aplikaci { -brand-short-name } restartujte
 backup-file-other-browser-restore-step-1 = Stáhnout a nainstalovat { -brand-short-name }
 backup-file-download-moz-browser-button = Stáhnout
 # The ☰ character is intended as a visual icon representing the Firefox
@@ -257,3 +272,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Vytvořeno dne { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na zařízení { $machineName }
+backup-file-restore-file-validation-error = Tento soubor nefunguje. Zkuste vybrat jiný soubor. <a data-l10n-name="restore-problems">Přetrvávající problémy?</a>
