@@ -82,3 +82,13 @@ time-spinner-day-period-label =
 
 time-spinner-hour-previous =
     .aria-label = Yr awr flaenorol
+time-spinner-hour-next =
+    .aria-label = Yr awr nesaf
+time-spinner-minute-previous =
+    .aria-label = Y funud flaenorol
+time-spinner-minute-next =
+    .aria-label = Y funud nesaf
+time-spinner-day-period-previous =
+    .aria-label = Cyfnod blaenorol y dydd
+time-spinner-day-period-next =
+    .aria-label = Cyfnod nesaf y dydd

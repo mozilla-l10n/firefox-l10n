@@ -90,3 +90,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] U çaktivizuan { $extensionsCount } zgjerime
         }
     .message = Disa nga zgjerimet tuaja janë çaktivizuar, pasi cenojnë rregulla të Mozilla-s.
+unified-extensions-notice-safe-mode =
+    .message = Krejt zgjerimet janë çaktivizuar nga Mënyra Diagnostikim.

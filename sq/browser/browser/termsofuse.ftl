@@ -7,6 +7,8 @@
 
 #  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
 existing-user-tou-message = <strong>Përditësim</strong> Kemi sjellë një { -brand-short-name } <a data-l10n-name="terms-of-use-link">Kushte Përdorimi</a> dhe kemi përditësuar <a data-l10n-name="privacy-notice-link">Shënimin tonë rreth Privatësisë</a>. Ju lutemi, ndaluni një çast për t’i shqyrtuar dhe pranuar.
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Kemi përditësuar <a data-l10n-name="privacy-notice-link">Shënimin tonë mbi Privatësinë</a> për të pasqyruar veçoritë më të reja në { -brand-short-name }.
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = Mësoni më tepër
 # Text for primary button

@@ -79,10 +79,12 @@ turn-on-scheduled-backups-confirm-button = Emyandy ñongatujey
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Oĩ apañuái ñongatu jey marandurenda poravopyrépe. Ehecha ambue marandurenda ha eha’ã jey ag̃ave.
+backup-error-file-system = Oiko peteĩ apañuái marandurenda poravopyrépe eñongatu jeykuévo { -brand-short-name }-pe.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Embogue ñongatujey
+turn-off-scheduled-backups-description = Kóva avei omboguepáta mba’ekuaarãita ñongatu jeygua. Ndereipe’akuaái.
 turn-off-scheduled-backups-support-link = Kuaave
 turn-off-scheduled-backups-cancel-button = Heja
 turn-off-scheduled-backups-confirm-button = Eipe’a ha embogue ñongatu jey
@@ -205,6 +207,9 @@ backup-file-creation-date-label = Moheñoimbyre:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Mba’éicha erujeýta:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Embojuruja tembiporu’i poravorã ☰ ha eike Ñembohekópe > Ñembojuehe
 backup-file-moz-browser-restore-step-2 = Eikutu “Marandurenda ykekoha jeporavo” ha eiporavo ko marandurenda
 backup-file-moz-browser-restore-step-3 = Emoñepyrũjey { -brand-short-name } ojejerurévo ndéve
 backup-file-other-browser-restore-step-1 = Emboguejy ha emohenda { -brand-short-name }

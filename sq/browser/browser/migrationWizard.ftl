@@ -201,6 +201,7 @@ migration-chrome-windows-password-import-steps-header = Në Chrome:
 migration-chrome-windows-password-import-step1 = Hapni menunë kryesore <img data-l10n-name="chrome-icon-3dots"/> dhe kaloni te Passwords and Autofill > Google Password Manager.
 migration-chrome-windows-password-import-step2 = Që nga menuja përzgjidhni “Rregullime”.
 migration-chrome-windows-password-import-step3 = Zgjidhni “Shkarkoje kartelën” dhe ruajeni te pajisja juaj.
+migration-chrome-windows-password-import-step4 = Kthehuni këtu dhe “Përzgjidhni kartelë” që të përfundojë importimi.
 migration-manual-password-import-skip-button = Anashkaloje
 migration-manual-password-import-select-button = Përzgjidhni Kartelë
 migration-safari-password-import-skip-button = Anashkaloje

@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Aktivizo vetëplotësim për adresa.
 policy-AutofillCreditCardEnabled = Aktivizo vetëplotësim për metoda pagesash.
 policy-AutoLaunchProtocolsFromOrigins = Përcaktoni një listë protokollesh të jashtë që mund të përdoren prej origjinash të treguara, pa pyetur përdoruesin.
 policy-BackgroundAppUpdate2 = Aktivizoni ose çaktivizoni përditësuesin në prapaskenë.
+policy-Backup = Çaktivizoni kopjeruajtje apo rikthim të dhënash profili.
 policy-BlockAboutAddons = Bllokoni hyrje te Përgjegjësi i Shtesave (about:addons).
 policy-BlockAboutConfig = Bllokoni hyrje te faqja about:config.
 policy-BlockAboutProfiles = Bllokoni hyrje te faqja about:profiles.

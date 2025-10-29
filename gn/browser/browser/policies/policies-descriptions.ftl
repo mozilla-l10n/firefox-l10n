@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Emyandy myanyhẽha kundaharendápe g̃uarã.
 policy-AutofillCreditCardEnabled = Emyandy myanyhẽha jehepyme’ẽrãme g̃uarã.
 policy-AutoLaunchProtocolsFromOrigins = Ejapo taperekoite rysýi okaygua ojeporukuaáva ñepyrũha guive ojehecháva tysýipe oñemoneĩ’ỹre poruhárape.
 policy-BackgroundAppUpdate2 = Emyandy térã embogue pe ñemboheko mokõihaguáva.
+policy-Backup = Eipe’a ñongatu jey térã eru jey mba’ete mba’ekuaarã.
 policy-BlockAboutAddons = Ejoko Moĩmbaha ñangarekohápe jeike (about: addons).
 policy-BlockAboutConfig = Ejoko about:config kuatiaroguépe jeike.
 policy-BlockAboutProfiles = Ejoko about:profiles-pe jeike.

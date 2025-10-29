@@ -149,6 +149,10 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Mboyke
 windows-10-eos-sync-callout-primary-advance-button-label = Upeigua
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Pyahu: Eikutu are ehecha ypy hag̃ua juajuha
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Ehechauka tendayke reratee tenda yképe
