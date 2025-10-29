@@ -335,6 +335,7 @@ fxa-menu-message-sign-in-button = Hyni
 fxa-menu-message-sync-button = Fillo njëkohësim
 fxa-menu-message-sync-devices-primary-text = Njëkohësoni krejt pajisjet tuaja
 fxa-menu-message-sync-devices-secondary-text = Merrni në çast informacion tuajin — fjala vjen, faqerojtës dhe fjalëkalime — kudo që përdorni { -brand-short-name }-in.
+fxa-menu-message-sync-devices-secondary-text2 = Kini në çast faqerojtësit tuaj, fjalëkalime, etj — kudo ku keni bërë hyrjen në llogarinë tuaj { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Njëkohësoni krejt pajisjet tuaja
 fxa-menu-message-backup-data-primary-text = Kopjeruani të dhënat e shfetuesit tuaj
 fxa-menu-message-backup-data-secondary-text = Mbroni në mënyrë të automatizuar faqerojtësit, fjalëkalimet dhe të tjera hollësi në krejt pajisjet tuaja.
@@ -381,8 +382,12 @@ windows-10-eos-sync-toast-secondary-label = Kujtoma më vonë
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-callout-subtitle = Kur bëni kopjeruajtje të faqerojtësve dhe fjalëkalimeve tuaj { -brand-product-name }, është e kollajtë të sillet te pajisja juaj e radhës shfletuesi që zgjodhët.
+windows-10-eos-challenger-pin-callout-subtitle = Fiksojeni { -brand-shorter-name }-in te shtylla juaj e punëve, që shfletuesi që zgjodhët te jetë përherë atje ku ju duhet.
 windows-10-eos-challenger-sync-primary-button = Kopjeruani { -brand-shorter-name }-in
 windows-10-eos-challenger-pin-primary-button = Fiksoje { -brand-shorter-name }-in
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name }-i bllokon nxjerrësh kriptomonedhash, gjurmues mediash shoqërore dhe krijues shenjash gishtash.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Gjurmuesit s’mund të krijojnë një ID për pajisjen tuaj, apo t’ju gjurmojnë nëpër internet — ngaqë s’i lëmë ne.
 windows-10-eos-sync-callout-privacy-screen-2-title = Siguroni fjalëkalimet dhe faqerojtësit, për pajisjen tuaj pasuese.
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Kopjeruajtja e { -brand-shorter-name }-it e bën të kollajtë të sillni me ju të dhënat tuaja dhe rregullimet për privatësinë.
 windows-10-eos-sync-callout-privacy-info-button = Shihni ç’është bllokuar
@@ -390,12 +395,15 @@ windows-10-eos-callout-addons-title = Provoni shtesat: përmirësime të vockla,
 windows-10-eos-callout-addons-subtitle = Këto zgjerime u zgjodhën për t’ju ndihmuar të mbeteni prodhimtar, i mbrojtur dhe pa shpërqendrim.
 windows-10-eos-callout-addons-primary-button = Shihni ç’kemi zgjedhur
 windows-10-eos-sync-callout-addons-title = Mos humbni shtesat tuaja, kur e përmirësoni që nga Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Njëkohësojini tani, që shtesat tuaj për { -brand-product-name } të jenë përherë gati, edhe pasi ndryshuat pajisje.
 windows-10-eos-sync-callout-next-button = Pasuesja
 windows-10-eos-sync-callout-get-started-button = Fillojani
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Mbërritën skeda vertikale dhe grupe skedash!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Duke u nisur nga kërkesa të shumta përdoruesish, { -brand-product-name }-i sapo hodhi në qarkullim veçori të reja, për ta mbajtur shfletimin tuaj më të hajthët dhe të përqendruar.
 windows-10-eos-feature-toast-whats-new-button = Shihni ç’ka të re
 windows-10-eos-feature-toast-dismiss-button = Hidhe tej
 
