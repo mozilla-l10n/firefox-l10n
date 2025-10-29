@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Që të aktivizoni zgjerimin, shkoni te Shtesa <img data-l10n-name="addons-icon"/> te menuja <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } kontrollon disa nga rregullimet për faqen tuaj hyrëse.
 
 ## Preferences UI Search Results
 
@@ -382,6 +385,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Pyet përherë ku të ruhen kartelat
     .accesskey = u
+download-private-browsing-delete =
+    .label = Fshi kartela të shkarkuara gjatë shfletimi privat, kur janë mbyllur krejt dritaret private
+    .accesskey = F
 applications-header = Aplikacione
 applications-description = Zgjidhni se si i trajton { -brand-short-name }-i kartelat që shkarkoni nga interneti, ose aplikacionet që përdoren kur shfletoni.
 applications-filter =
@@ -708,6 +714,7 @@ home-prefs-weather-description = Parashikimi për sot me një vështrim
 home-prefs-weather-learn-more-link = Mësoni më tepër
 home-prefs-trending-search-header =
     .label = Prirje kërkimesh
+home-prefs-trending-search-description = Subjekte popullore dhe të kërkuara shpesh
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Përkrahni { -brand-product-name }
@@ -1258,6 +1265,8 @@ addressbar-header = Shtyllë Adresash
 addressbar-suggest-1 = Zgjidhni cilat sugjerime të shfaqen te shtylla juaj e adresave
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Sugjerime nga { -brand-short-name }-i dhe partnerët tanë, te shtylla juaj e adresave.
 addressbar-suggest = Kur përdoret shtylla e adresave, jep sugjerime nga
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Shtyllë Adresash — { -firefox-suggest-brand-name }
@@ -1379,6 +1388,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Mësoni më tepër
 content-blocking-etp-standard-tcp-title = Përfshin Mbrojtje Tërësore Nga Cookie-t, veçoria jonë më e fuqishme ndonjëherë për mbrojtje
 content-blocking-warning-title = Kini mendjen!
 content-blocking-warning-title-2 = Për disa sajte, mbrojtja strikte nga gjurmimi mund të dëmtojë funksionimin
+content-blocking-warning-title-custom = Për disa sajte, mbrojtja vetjake nga gjurmimi mund të dëmtojë funksionimin
 content-blocking-and-isolating-etp-warning-description-2 = Ky rregullim mund të sjellë mosshfaqje të lëndës ose funksionim jo të saktë në disa sajte. Nëse një sajt duket i dëmtuar, mund të doni të çaktivizoni mbrojtjen nga gjurmimet për atë saj, që të ngarkohet krejt lënda.
 content-blocking-warning-learn-how = Mësoni se si
 content-blocking-baseline-uncheck-warning-dialog-title = Jeni i sigurt se doni të çaktivizohen ndreqjet?
@@ -1440,6 +1450,13 @@ permissions-location-settings =
     .label = Rregullime…
     .accesskey = r
 permissions-localhost = Aplikacione dhe shërbime pajisjeje
+permissions-localhost-settings =
+    .label = Rregullime…
+    .accesskey = u
+permissions-local-network = Pajisje Rrjeti Vendor
+permissions-local-network-settings =
+    .label = Rregullime…
+    .accesskey = R
 permissions-xr = Realitet Virtual
 permissions-xr-settings =
     .label = Rregullime…
@@ -1469,6 +1486,9 @@ permissions-autoplay = Vetëluajtje
 permissions-autoplay-settings =
     .label = Rregullime…
     .accesskey = R
+permissions-block-popups2 =
+    .label = Bllokoni flluska dhe ridrejtime nga palë të treta…
+    .accesskey = B
 permissions-block-popups =
     .label = Blloko dritare flluska
     .accesskey = B
@@ -1588,6 +1608,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = H
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name }-it po i mbarohet hapësira në disk.</strong> Lënda e sajteve mund të mos shfaqet si duhet. Mundësi të spastroni të dhëna të depozituara që nga Rregullime > Privatësi & Siguri > “Cookies” dhe Të dhëna Sajtesh.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name }-it po i mbarohet hapësira në disk.</strong> Lënda e sajteve mund të mos shfaqet si duhet. Që të optimizoni përdorimin tuaj të diskut për punim më të mirë të shfletimin, vizitoni “Mësoni Më Tepër”.
+certs-description2 =
+    .label = Dëshmi
+    .description = Formësoni dëshmitë që { -brand-short-name }-i përdor për mirëfilltësime.
 
 ## Privacy Section - HTTPS-Only
 
