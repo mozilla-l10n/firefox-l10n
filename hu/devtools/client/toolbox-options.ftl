@@ -32,6 +32,8 @@ options-show-user-agent-styles-tooltip =
     .title = A böngésző által betöltött alapértelmezett stílusok megjelenítése.
 # The label for the checkbox option to show all anonymous content
 options-show-user-agent-shadow-dom-label = Böngésző árnyék-DOM megjelenítése
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Ha bekapcsolja, akkor a böngésző által kezelt árnyék-DOM elemek is megjelennek.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM attribútumok csonkítása
 options-collapse-attrs-tooltip =
