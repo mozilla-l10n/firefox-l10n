@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Emplacement
 settings-data-backup-last-backup-location-show-in-folder = Afficher dans le dossier
 settings-data-backup-last-backup-location-edit = Modifier…
 settings-data-create-backup-error = Une erreur s’est produite lors de la création de votre sauvegarde le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Sauvegardez vos mots de passe et modes de paiement, et protégez vos données grâce au chiffrement.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nom du fichier : { $fileName }
