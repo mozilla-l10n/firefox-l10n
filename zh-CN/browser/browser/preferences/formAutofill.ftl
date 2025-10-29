@@ -115,7 +115,7 @@ autofill-address-postal-code = 邮政编码
 # Postal code field.
 autofill-address-zip = ZIP 编码
 # Postal code field used in Ireland (IE).
-autofill-address-eircode = Eircode 邮政编码
+autofill-address-eircode = 邮政编码（Eircode）
 
 ##
 
