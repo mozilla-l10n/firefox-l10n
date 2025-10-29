@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Расположение
 settings-data-backup-last-backup-location-show-in-folder = Показать в папке
 settings-data-backup-last-backup-location-edit = Изменить…
 settings-data-create-backup-error = При создании вашей резервной копии произошла ошибка { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Сделайте резервную копию своих паролей и способов оплаты, а также обеспечьте безопасность всех своих данных с помощью шифрования.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Имя файла: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Снять защиту паролем
+disable-backup-encryption-description2 = Ваши сохранённые пароли и способы оплаты также не будут храниться в резервных копиях.
 disable-backup-encryption-support-link = Что будет входить в резервные копии?
 disable-backup-encryption-cancel-button = Отмена
 disable-backup-encryption-confirm-button = Удалить пароль
@@ -245,3 +247,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Создан { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } на { $machineName }
+backup-file-restore-file-validation-error = С этим файлом что-то не так. Попробуйте выбрать другой файл. <a data-l10n-name="restore-problems">Все ещё остались проблемы?</a>

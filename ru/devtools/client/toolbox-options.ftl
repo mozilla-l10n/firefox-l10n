@@ -120,6 +120,8 @@ options-disable-http-cache-label = Отключить HTTP-кеш (когда о
 options-disable-http-cache-tooltip =
     .title = Включение этой опции отключит HTTP-кеш для всех вкладок, в которых открыта панель инструментов. Эта опция не влияет на Service Worker'ы.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Отключить JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Отключить JavaScript *
 options-disable-javascript-tooltip =
     .title = Включение этой опции приведёт к отключению JavaScript для текущей вкладки. Если вкладка или панель инструментов будут закрыты, то этот параметр будет сброшен.
@@ -147,6 +149,9 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Включить Карты Исходников
 options-source-maps-tooltip =
     .title = Если вы включите эту настройку, исходники будут картированы в инструментах.
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (только текущая сессия, перезагружает страницу)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Только текущая сессия, перезагружает страницу
 # The message shown for settings that trigger page reload
