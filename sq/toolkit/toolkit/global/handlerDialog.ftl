@@ -23,6 +23,14 @@ permission-dialog-description-system-noapp = Të hapet lidhja { $scheme }?
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = Të lejohen sajte të hapin kuletën tuaj dixhitale?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Hapja e një lidhjeje <strong>{ $scheme }</strong> e lejon <strong>{ $host }</strong> të kërkojë identitetin tuaj të njëmendtë me <strong>{ $appName }</strong>. Vazhdoni më tej vetëm nëse i zini besë këtij sajti.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Hapja e një lidhjeje <strong>{ $scheme }</strong> e lejon këtë sajt të kërkojë identitetin tuaj të njëmendtë me <strong>{ $appName }</strong>. Vazhdoni më tej vetëm nëse i zini besë këtij sajti.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Hapja e një lidhjeje <strong>{ $scheme }</strong> e lejon <strong>{ $host }</strong> të kërkojë identitetin tuaj të njëmendtë nga kuleta juaj dixhitale. Vazhdoni më tej vetëm nëse i zini besë këtij sajti.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Hapja e një lidhjeje <strong>{ $scheme }</strong> i lejon këtij sajti të kërkojë identitetin tuaj të njëmendtë nga kuleta juaj dixhitale. Vazhdoni më tej vetëm nëse i zini besë këtij sajti.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

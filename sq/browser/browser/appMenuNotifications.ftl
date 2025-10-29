@@ -44,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
 appmenu-addon-post-install-message3 = Administroni shtesat dhe temat tuaja përmes menusë së aplikacionit
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Përditësoni kurdo leje dhe parapëlqime të dhënash, që nga <a data-l10n-name="settings-link">rregullimet për zgjerimin</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Fiksoje zgjerimin te paneli
+    .accesskey = F
 appmenu-addon-post-install-incognito-checkbox =
     .label = Lejoje këtë zgjerim të xhirojë në Dritare Private
     .accesskey = L
