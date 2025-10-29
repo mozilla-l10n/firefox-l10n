@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Locatie
 settings-data-backup-last-backup-location-show-in-folder = In map tonen
 settings-data-backup-last-backup-location-edit = Bewerken…
 settings-data-create-backup-error = Er is op { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } een fout opgetreden bij het maken van uw reservekopie
+settings-sensitive-data-encryption-description = Maak een reservekopie van uw wachtwoorden en betalingsmethoden, en houd al uw gegevens veilig met versleuteling.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Bestandsnaam: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Wachtwoordbescherming verwijderen
+disable-backup-encryption-description2 = Er wordt geen reservekopie meer gemaakt van uw opgeslagen wachtwoorden en betalingsmethoden.
 disable-backup-encryption-support-link = Waarvan wordt een reservekopie gemaakt?
 disable-backup-encryption-cancel-button = Annuleren
 disable-backup-encryption-confirm-button = Wachtwoord verwijderen
