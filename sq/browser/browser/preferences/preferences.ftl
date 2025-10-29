@@ -170,6 +170,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Hapi lidhjet në skeda, në vend se në dritare të reja
     .accesskey = H
+open-external-link-next-to-active-tab =
+    .label = Hapni lidhje nga aplikacione fill pas skedës tuaj aktive
 ask-on-close-multiple-tabs =
     .label = Pyet, para se të mbyllen disa skeda njëherësh
     .accesskey = d
@@ -1191,6 +1193,10 @@ sitedata-total-size-calculating = Po njehsohet madhësi të dhënash sajtesh dhe
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = “Cookies” tuaja të depozitura, historiku, të dhëna sajtesh dhe fshehtina aktualisht zënë <strong>{ $value } { $unit }</strong> hapësirë disku.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie-t, të dhënat tuaja të sajteve dhe fshehtina përdorin deri sot { $value } { $unit } hapësirë disku.
 sitedata-learn-more = Mësoni më tepër
 sitedata-delete-on-close =
@@ -1389,8 +1395,17 @@ content-blocking-etp-standard-tcp-title = Përfshin Mbrojtje Tërësore Nga Cook
 content-blocking-warning-title = Kini mendjen!
 content-blocking-warning-title-2 = Për disa sajte, mbrojtja strikte nga gjurmimi mund të dëmtojë funksionimin
 content-blocking-warning-title-custom = Për disa sajte, mbrojtja vetjake nga gjurmimi mund të dëmtojë funksionimin
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name }-i rekomandon përdorimin e rregullimit “Ndreqni probleme sajti”, për të reduktuar numër veçorish dhe sasi lënde sajtesh të dëmtuara. Nëse një sajt duket i dëmtuar, provoni të çaktivizoni mbrojtjen nga gjurmimet për atë sajt, që të ngarkohet krejt lënda.
 content-blocking-and-isolating-etp-warning-description-2 = Ky rregullim mund të sjellë mosshfaqje të lëndës ose funksionim jo të saktë në disa sajte. Nëse një sajt duket i dëmtuar, mund të doni të çaktivizoni mbrojtjen nga gjurmimet për atë saj, që të ngarkohet krejt lënda.
 content-blocking-warning-learn-how = Mësoni se si
+content-blocking-baseline-exceptions-3 =
+    .label = Ndreqni probleme të mëdha sajtesh (e rekomanduar)
+    .description = Ndihmon të ngarkohen sajte dhe veçori, duke zhbllokuar vetëm elementë thelbësorë që mund të përmbajnë gjurmues. Mbulon shumicën e problemeve të rëndomtë.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Ndreq probleme të vockla sajti
+    .description = Rikthen gjëra të tilla si video, në një artikull, apo pjesë komentesh, duke zhbllokuar elementë që mund të përmbajnë gjurmues. Kjo mund të ulë numrin e problemeve në sajt, por ofron më pak mbrojtje. Duhet përdorur me ndreqjet për probleme të mëdha.
 content-blocking-baseline-uncheck-warning-dialog-title = Jeni i sigurt se doni të çaktivizohen ndreqjet?
 content-blocking-baseline-uncheck-warning-dialog-body = Ky rregullim ndihmon të ndreqen shumica e problemeve me sajtin. Nëse e çaktivizoni, disa sajte mund të mos funksionojnë dhe { -brand-short-name }-i s’do të jetë në gjendje të diagnostikojë këto probleme.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Çaktivizo ndreqjet
