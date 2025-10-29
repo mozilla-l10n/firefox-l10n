@@ -365,6 +365,7 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Tingueu el vostre navegador
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-subtitle = Feu una còpia de seguretat de les contrasenyes i les adreces d'interès per a poder fer el salt a qualsevol dispositiu.
+windows-10-eos-sync-spotlight-primary-label = Feu una còpia de seguretat del { -brand-short-name }
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
