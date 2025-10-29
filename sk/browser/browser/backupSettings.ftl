@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Umiestnenie
 settings-data-backup-last-backup-location-show-in-folder = Zobraziť v priečinku
 settings-data-backup-last-backup-location-edit = Upraviť…
 settings-data-create-backup-error = Pri vytváraní zálohy dňa { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") } sa vyskytla chyba
+settings-sensitive-data-encryption-description = Zálohujte si heslá a spôsoby platby a zároveň uložte všetky svoje údaje do bezpečia pomocou šifrovania.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Názov súboru: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Odstrániť ochranu heslom
+disable-backup-encryption-description2 = Vaše uložené heslá a spôsoby platby sa už viac nebudú zálohovať.
 disable-backup-encryption-support-link = Čo bude zálohované?
 disable-backup-encryption-cancel-button = Zrušiť
 disable-backup-encryption-confirm-button = Odstrániť heslo
@@ -246,3 +248,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Vytvorené dňa { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
+backup-file-restore-file-validation-error = Tento súbor nefunguje. Skúste vybrať iný súbor. <a data-l10n-name="restore-problems">Stále máte problémy?</a>

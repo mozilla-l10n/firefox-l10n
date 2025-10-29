@@ -120,6 +120,8 @@ options-disable-http-cache-label = Zakázať vyrovnávaciu pamäť HTTP (ak sú 
 options-disable-http-cache-tooltip =
     .title = Zapnutím tejto voľby bude vyrovnávacia pamäť HTTP vypnutá pre všetky karty, ktoré majú otvorené nástroje. Skripty typu worker nebudú touto voľbou ovplyvnené.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Zakázať JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Zakázať JavaScript *
 options-disable-javascript-tooltip =
     .title = Označením tejto voľby zakážete používanie JavaScriptu na aktuálnej karte. Po zatvorení karty alebo ukončení vývojárskych nástrojov bude táto voľba automaticky prepnutá späť
@@ -147,6 +149,9 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Povoliť mapy zdrojov
 options-source-maps-tooltip =
     .title = Ak túto voľbu zapnete, zdroje budú mapované v nástrojoch.
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (iba pre aktuálnu reláciu, stránka sa znova načíta)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Len pre aktuálnu reláciu, opäť načíta obsah stránky
 # The message shown for settings that trigger page reload
