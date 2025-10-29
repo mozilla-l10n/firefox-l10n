@@ -248,6 +248,10 @@ menu-profiles-manage-profiles =
     .label = Administroni profile
 menu-profiles-new-profile =
     .label = Profil i ri
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (i tanishmi)
 menu-profiles-menu =
     .label = Profile
     .accesskey = P

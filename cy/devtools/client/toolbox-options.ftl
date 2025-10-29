@@ -120,6 +120,8 @@ options-disable-http-cache-label = Analluogi Storfa Dros Dro HTTP (pan mae'r blw
 options-disable-http-cache-tooltip =
     .title = Bydd cychwyn y dewis hwn yn analluogi storfa dros dro'r HTTP ar gyfer pob tab sydd a' r blwch offer ar agor. Nid yw Service Workers yn cael eu heffeithio gan y dewis hwn.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Analluogi JavaScript *
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Analluogi JavaScript *
 options-disable-javascript-tooltip =
     .title = Bydd cychwyn y nodwedd hon yn analluogi JavaScript yn y tab cyfredol. Os fydd y tab neu’r blwch offer yn cael eu cau yna bydd y gosodiad hwn yn cael ei anghofio.
@@ -147,6 +149,9 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Galluogi Mapiau Ffynhonnell
 options-source-maps-tooltip =
     .title = Os ydych yn galluogi'r dewis hwn bydd ffenylalanin cael eu mapio yn yr offer.
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (dim ond y sesiwn gyfredol, yn ail-lwytho'r dudalen)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Sesiwn gyfredol yn unig, ail-lwytho'r dudalen
 # The message shown for settings that trigger page reload

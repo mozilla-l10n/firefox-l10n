@@ -81,6 +81,8 @@ addon-removal-title = Të hiqet { $name }?
 addon-removal-message = Të hiqet { $name } nga { -brand-shorter-name }?
 addon-removal-button = Hiqe
 addon-removal-abuse-report-checkbox = Raportojeni këtë zgjerim te { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Nëse përdorni veçoritë, apo zgjerime që përdorin këtë model, do të rishtohet.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -123,11 +125,13 @@ addon-install-error-corrupt-file = Shtesa e shkarkuar prej këtij sajti s’u in
 addon-install-error-file-access = { $addonName } s’u instalua dot, ngaqë { -brand-short-name } s’mund të ndryshojë kartelën e nevojshme.
 addon-install-error-not-signed = { -brand-short-name } e ka penguar këtë sajt të instalojë një shtesë të paverifikuar.
 addon-install-error-invalid-domain = Shtesa { $addonName } s’mund të instalohet që nga kjo vendndodhje.
+addon-install-error-no-addon-name-file-access = Shtesa s’u instalua dot, ngaqë { -brand-short-name }-i s’mund të ndryshojë kartelën e nevojshme.
 addon-local-install-error-network-failure = Kjo shtesë s’u instalua dot, për shkak të një gabimi në sistemin e kartelave.
 addon-local-install-error-incorrect-hash = Kjo shtesë s’u instalua dot, ngaqë s’përputhet me shtesën { -brand-short-name } siç pritej.
 addon-local-install-error-corrupt-file = Kjo shtesë s’u instalua dot, ngaqë duket të jetë e dëmtuar.
 addon-local-install-error-file-access = { $addonName } s’u instalua dot, ngaqë { -brand-short-name } s’mund të ndryshojë kartelën e nevojshme.
 addon-local-install-error-not-signed = Kjo shtesë s’u instalua dot, ngaqë s’është verifikuar.
+addon-local-install-no-addon-name-error-file-access = Shtesa s’u instalua dot, ngaqë { -brand-short-name }-i s’mund të ndryshojë kartelën e nevojshme.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } s’u instalua dot, ngaqë s’është e përputhshme me { -brand-short-name } { $appVersion }.

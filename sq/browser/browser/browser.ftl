@@ -818,6 +818,8 @@ urlbar-result-weather-provider-sponsored = { $provider } ·E sponsorizuar
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Merrni të dhëna tregu aksionesh drejt e te shtylla juaj e kërkimeve
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Shfaq përditësime tregjesh, etj, nga partnerët tanë, kur ndani me { -vendor-short-name } të dhëna termash kërkimi. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Shfaq sugjerime
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -1562,4 +1564,14 @@ trustpanel-fingerprinter-not-blocking-tab-header =
        *[other] { -brand-product-name }-i lejoi { $count } krijues shenjash gishtash
     }
 trustpanel-fingerprinter-list-header = Këto sajte po rreken të krijojnë shenja gishtash rreth jush:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } bllokoi { $count } nxjerrës kriptomonedhash
+       *[other] { -brand-product-name } bllokoi { $count } nxjerrës kriptomonedhash
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } lejoi { $count } nxjerrës kriptomonedhash
+       *[other] { -brand-product-name } lejoi { $count } nxjerrës kriptomonedhash
+    }
 trustpanel-cryptominer-tab-list-header = Këto sajte po rreken të nxjerrin kriptomonedha:

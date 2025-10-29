@@ -185,6 +185,12 @@ downloads-details =
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-details =
+    .title = Kartelat rrinë në pajisjen tuaj
+downloads-private-browsing-message = Cilido që përdor këtë pajisje mund të shohë shkarkimet, edhe kur mbyllni krejt dritaret private.
+downloads-private-browsing-delete-button =
+    .label = Fshiji automatikisht kartelat
+    .accesskey = F
 downloads-private-browsing-accept-button =
     .label = E mora vesh
     .accesskey = v

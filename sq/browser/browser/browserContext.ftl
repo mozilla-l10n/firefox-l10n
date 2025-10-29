@@ -160,6 +160,9 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Kopjoji Lidhjen
     .accesskey = e
+main-context-menu-preview-link =
+    .label = Lidhje Paraparjeje
+    .accesskey = L
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
@@ -267,6 +270,15 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Shihni Përshkrimin
     .accesskey = k
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Kërkojeni Figurën me { $engine }
+    .accesskey = e
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search =
+    .label = Kërkojeni Figurën me { $engine }
 main-context-menu-video-save-as =
     .label = Ruajeni Videon Si…
     .accesskey = u

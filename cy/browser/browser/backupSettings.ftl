@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Lleoliad
 settings-data-backup-last-backup-location-show-in-folder = Dangos mewn ffolder
 settings-data-backup-last-backup-location-edit = Golygu…
 settings-data-create-backup-error = Bu gwall wrth greu eich copi wrth gefn ar { DATETIME($date, timeStyle: "short") } , { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Gwnewch gopi wrth gefn o'ch cyfrineiriau a'ch dulliau talu, a chadw eich holl ddata'n ddiogel drwy amgryptio.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Enw ffeil: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Tynnu diogelwch cyfrineiriau
+disable-backup-encryption-description2 = Hefyd, fydd eich cyfrineiriau a'ch dulliau talu bellach ddim yn cael eu cadw wrth gefn.
 disable-backup-encryption-support-link = Beth fydd yn cael ei gadw wrth gefn?
 disable-backup-encryption-cancel-button = Diddymu
 disable-backup-encryption-confirm-button = Tynnu'r cyfrinair
@@ -248,3 +250,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Wedi'i greu ar { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ar { $machineName }
+backup-file-restore-file-validation-error = Nid yw'r ffeil hon yn gweithio. Ceisiwch ddewis ffeil wahanol. <a data-l10n-name="restore-problems">Dal yn cael problemau?</a>

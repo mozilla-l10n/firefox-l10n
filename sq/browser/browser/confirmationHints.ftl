@@ -29,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] U mbyll { $tabCount } skedë
        *[other] U mbyllën { $tabCount } skeda
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Kaloi te menuja

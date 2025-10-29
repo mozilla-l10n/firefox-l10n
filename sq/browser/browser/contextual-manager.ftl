@@ -66,6 +66,12 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Të rinj: { $added }, Të përditësuar: { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Të rinj: { $added }, Të përditësuar: { $modified }, Përsëdytje: { $no_change }, Gabime: { $error }
 contextual-manager-passwords-import-detailed-report = Shihni raport të hollësishëm
 contextual-manager-passwords-import-success-button = U bë
 contextual-manager-passwords-import-error-heading-and-message =
@@ -294,6 +300,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = S’u gjetën fjalëkalime
+contextual-manager-passwords-no-passwords-found-message-2 = Provoni një tjetër term dhe kërkoni sërish.
 contextual-manager-passwords-no-passwords-found-message = S’u gjetën fjalëkalime. Kërkoni për një term tjetër dhe riprovoni.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -308,6 +315,8 @@ contextual-manager-passwords-no-passwords-message = Krejt fjalëkalimet fshehtë
 contextual-manager-passwords-no-passwords-get-started-message = Për t’ia filluar, shtojini këtu.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Shtojini dorazi
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Ruajini fjalëkalimet tuaja në një vend të parrezik
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -324,4 +333,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Po, hiqe fjalëkalimin
        *[other] Po, hiqi fjalëkalimet
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Që të shihni fjalëkalimet tuaj të ruajtur, jepni fjalëkalimin tuaj parësor.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Jepni fjalëkalimin parësor
 contextual-manager-primary-password-learn-more-link = Mësoni më tepër

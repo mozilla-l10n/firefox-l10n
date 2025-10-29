@@ -196,6 +196,11 @@ migration-safari-password-import-step1 = Në Safari hapni menunë “Safari” d
 migration-safari-password-import-step2 = Përzgjidhni butonin <img data-l10n-name="safari-icon-3dots"/> dhe zgjidhni “Eksportoji Krejt Fjalëkalimet”
 migration-safari-password-import-step3 = Ruani kartelën e fjalëkalimeve
 migration-safari-password-import-step4 = Përdorni “Përzgjidhni Kartelë” më poshtë që të zgjidhni kartelën e fjalëkalimeve që ruajtët
+migration-chrome-windows-password-import-header = Si të importohen fjalëkalime që nga Chrome
+migration-chrome-windows-password-import-steps-header = Në Chrome:
+migration-chrome-windows-password-import-step1 = Hapni menunë kryesore <img data-l10n-name="chrome-icon-3dots"/> dhe kaloni te Passwords and Autofill > Google Password Manager.
+migration-chrome-windows-password-import-step2 = Që nga menuja përzgjidhni “Rregullime”.
+migration-chrome-windows-password-import-step3 = Zgjidhni “Shkarkoje kartelën” dhe ruajeni te pajisja juaj.
 migration-manual-password-import-skip-button = Anashkaloje
 migration-manual-password-import-select-button = Përzgjidhni Kartelë
 migration-safari-password-import-skip-button = Anashkaloje

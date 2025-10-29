@@ -76,6 +76,9 @@ turn-on-scheduled-backups-encryption-create-password-label = Ñe’ẽñemi
 turn-on-scheduled-backups-encryption-repeat-password-label = Emoingejey ñe’ẽñemi
 turn-on-scheduled-backups-cancel-button = Heja
 turn-on-scheduled-backups-confirm-button = Emyandy ñongatujey
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Oĩ apañuái ñongatu jey marandurenda poravopyrépe. Ehecha ambue marandurenda ha eha’ã jey ag̃ave.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
