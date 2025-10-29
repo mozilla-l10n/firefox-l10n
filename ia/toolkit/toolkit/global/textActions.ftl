@@ -70,7 +70,7 @@ text-action-highlight-selection =
     .label = Evidentiar selection
 # This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection-1 =
-    .label = Adder commento a selection
+    .label = Adder commento al selection
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = Commentar selection
