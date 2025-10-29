@@ -80,6 +80,7 @@ policy-ExtensionSettings = Administroni krejt anët e instalimit të zgjerimeve.
 policy-ExtensionUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetishme të zgjerimeve.
 policy-FirefoxHome2 = Formësoni { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Formësoni { -firefox-suggest-brand-name }.
+policy-GenerativeAI = Formësoni veçori IA prodhuese.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Detyro lëvizje të drejtpërdrejtë në sajt intraneti, në vend të kërkimit, kur te shtylla e adresave shtypen zëra kërkimi të përbërë nga një fjalë e vetme.
 policy-Handlers = Formësoni trajtues parazgjedhje aplikacionesh.
 policy-HardwareAcceleration = Në u caktoftë "false", çaktivizohet përshpejtimi përmes hardware-it.
@@ -98,6 +99,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Rikthe sjelljen e diku
 ##
 
 policy-LocalFileLinks = Lejo sajte specifikë të krijojnë lidhje te kartela vendore.
+policy-LocalNetworkAccess = Aktivizoni, ose çaktivizoni kontrolle hyrjesh në rrjetin vendor.
 policy-ManagedBookmarks = Formëson një listë faqerojtësish të administruar nga një përgjegjës, e cila s’mund të ndryshohet nga përdoruesi.
 policy-ManualAppUpdateOnly = Lejo vetëm përditësime dorazi dhe mos i njofto përdoruesit rreth përditësimesh.
 policy-PrimaryPassword = Kërko doemos ose pengo përdorimin e një Fjalëkalimi të Përgjithshëm.
@@ -118,6 +120,7 @@ policy-PostQuantumKeyAgreementEnabled = Aktivizo marrëveshje kyçesh “post-qu
 policy-PDFjs = Çaktivizoni pse formësoni PDF.js, parësin e brendshëm të PDF-ve në { -brand-short-name }.
 policy-Permissions2 = Formësoni lejet për kamerën, mikrofonin, vendndodhjen, njoftimet dhe vetëluajtjen.
 policy-PictureInPicture = Aktivizoni ose çaktivizoni veçorinë “Picture-in-Picture”.
+policy-PopupBlocking2 = Lejoni disa sajte të shfaqin flluska dhe të ridrejtohen nga kuadro palësh të treta.
 policy-PopupBlocking = Lejojuni, si parazgjedhje, disa sajteve të shfaqin flluska.
 policy-Preferences = Caktoni dhe kyçni vlerën për një nëngrup parapëlqimesh.
 policy-PrivateBrowsingModeAvailability = Caktoni përdorimin ose jo të mënyrës së shfletimit privat.
@@ -140,6 +143,7 @@ policy-SupportMenu = Shtoni te menuja e ndihmës një element vetjak menuje asis
 policy-TranslateEnabled = Aktivizoni, ose çaktivizoni përkthim faqesh web.
 policy-UserMessaging = Mos i shfaq përdoruesit disa mesazhe të caktuara
 policy-UseSystemPrintDialog = Shtype duke përdorur dialogun e sistemit për shtypje.
+policy-VisualSearchEnabled = Aktivizoni, ose çaktivizoni kërkim pamor
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bllokoni vizita në sajte. Për më tepër hollësi mbi këtë format, shihni dokumentimin.
 policy-Windows10SSO = Lejo hyrje njëshe Windows për llogari Microsoft, pune, apo shkolle.
