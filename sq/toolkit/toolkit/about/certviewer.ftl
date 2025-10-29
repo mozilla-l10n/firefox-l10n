@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Lokalitet i Inc.
 certificate-viewer-locality = Lokalitet
 certificate-viewer-location = Vendndodhje
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Emër Regjistri
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID Regjistri
 certificate-viewer-method = Metodë
 certificate-viewer-modulus = Modul
@@ -108,6 +110,8 @@ certificate-viewer-export = Eksporto
 
 # Label for a tab where we haven't found a better label:
 certificate-viewer-unknown-group-label = (i panjohur)
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = dëshmi
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
