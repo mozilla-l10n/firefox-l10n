@@ -92,4 +92,3 @@ time-spinner-day-period-previous =
     .aria-label = Periodo del giorno precedente
 time-spinner-day-period-next =
     .aria-label = Periodo del giorno successivo
-

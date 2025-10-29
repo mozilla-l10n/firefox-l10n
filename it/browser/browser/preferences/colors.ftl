@@ -43,4 +43,3 @@ colors-unvisited-links = Link non visitati
     .accesskey = L
 colors-visited-links = Link visitati
     .accesskey = v
-
