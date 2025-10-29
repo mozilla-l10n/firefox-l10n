@@ -116,6 +116,8 @@ options-disable-http-cache-label = 禁用 HTTP 缓存（工具箱打开时）
 options-disable-http-cache-tooltip =
     .title = 开启此选项将对所有已打开工具箱的标签页禁用 HTTP 缓存。Service Worker 不会受此选项影响。
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = 禁用 JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = 禁用 JavaScript *
 options-disable-javascript-tooltip =
     .title = 启用这个选项将对当前标签页禁用 JavaScript。如果关闭了该标签页或者工具箱，则这个设置就不再有效。

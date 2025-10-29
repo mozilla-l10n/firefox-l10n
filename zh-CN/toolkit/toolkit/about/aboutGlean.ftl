@@ -97,6 +97,14 @@ about-glean-metrics-table-header-type = 类型
 about-glean-metrics-table-header-value = 值
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = 操作
+about-glean-metrics-table-settings-button = 设置
+about-glean-metrics-table-settings-category-visualizations = 可视化
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = 示例
+about-glean-metrics-table-settings-category-visualizations-histogram = 直方图
+about-glean-metrics-table-settings-histograms-chart-max = 图表最大高度
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = 缩放后的最大高度
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = 筛选
 # This message sits alongside an input field, further describing its purpose.

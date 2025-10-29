@@ -628,6 +628,8 @@ pdfjs-editor-edit-comment-dialog-cancel-button = 取消
 
 pdfjs-editor-edit-comment-button =
     .title = 编辑批注
+pdfjs-editor-add-comment-button =
+    .title = 添加批注
 
 ## Main menu for adding/removing signatures
 
