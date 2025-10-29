@@ -188,6 +188,7 @@ backup-error-retry = Oĩvaicha osẽvaíva. Eha’ãjey ag̃amieve.
 
 backup-file-header = { -brand-short-name } oĩporãma erujey hag̃ua
 backup-file-title = Erujey { -brand-short-name }
+backup-file-intro = Eikundaha jey ha erupaite nde rechaukaha, tembiasakue ha ambue mba’ekuaarã. <a data-l10n-name="backup-file-support-link">Eikuaave</a>
 backup-file-path-label = Marandurenda ykekoha:
 backup-file-encryption-state-label = Papapypyre:
 backup-file-encryption-state-value-encrypted = Héẽ
