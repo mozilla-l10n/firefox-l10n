@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Hap pultin e maskave të email-eve
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Mbroni veprimtari tuaj internetore
 appmenu-services-header = Shërbimet e mia
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Provoni mjete të tjera mbrojtjeje nga Mozilla:
 appmenu-other-protection-header = Provoni mjete të tjera mbrojtjeje nga { -vendor-short-name }:
 
 ## Profiles panel
@@ -301,6 +305,8 @@ appmenu-other-protection-header = Provoni mjete të tjera mbrojtjeje nga { -vend
 appmenu-other-profiles = Profile të tjerë
 appmenu-manage-profiles =
     .label = Administroni profile
+appmenu-copy-profile =
+    .label = Kopjoje këtë profil
 appmenu-create-profile =
     .label = Profil i ri
 appmenu-edit-profile =

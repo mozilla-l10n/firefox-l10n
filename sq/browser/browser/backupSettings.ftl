@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Vendndodhje
 settings-data-backup-last-backup-location-show-in-folder = Shfaqe në dosje
 settings-data-backup-last-backup-location-edit = Përpunoni…
 settings-data-create-backup-error = Pati një gabim në krijimin e kopjeruajtjes tuaj më { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Kopjeruani fjalëkalimet tuaja dhe metoda pagesash, plus mbaji të parrezik krejt të dhënat tuaja, përmes fshehtëzimi.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Emër kartele: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Hiq mbrojtje me fjalëkalim
+disable-backup-encryption-description2 = Edhe fjalëkalimet tuaj të ruajtur dhe metoda pagesash s’do të kopjeruhen më.
 disable-backup-encryption-support-link = Ç’do të kopjeruhet?
 disable-backup-encryption-cancel-button = Anuloje
 disable-backup-encryption-confirm-button = Hiqe fjalëkalimin

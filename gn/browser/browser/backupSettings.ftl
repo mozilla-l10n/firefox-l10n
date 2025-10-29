@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Tendaite
 settings-data-backup-last-backup-location-show-in-folder = Ehechauka marandurendápe
 settings-data-backup-last-backup-location-edit = Mbosako’i…
 settings-data-create-backup-error = Oiko jejavy eñongatu jey pyahúvo pe { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Eñongatu jey ñe’ẽñemi tekorosãrã ha jehepyme’ẽrã, avei ereko hag̃ua ne mba’ekuaarã papapýpe.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Marandurenda réra: { $fileName }
@@ -43,10 +44,12 @@ settings-data-backup-restore-header = Erujey mba’ekuaarãita
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
+settings-data-backup-scheduled-backups-off-restore-description = Eiporu ñongatu jey { -brand-product-name } ambue mba’e’okagua erujey hag̃ua ne mba’ekuaarã.
 settings-data-backup-scheduled-backups-off-restore-choose = Eiporavo marandurenda ykekoha…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Eguerujey ne mba’ekuaarã { -brand-product-name }-gui ejaporamovévagui ñongatu jey.
 settings-data-backup-scheduled-backups-on-restore-choose = Mbojevyjey…
 settings-data-toggle-encryption-label = Eñengatu jey ne mba’ekuaarã ñemigua
 settings-data-toggle-encryption-support-link = Kuaave

@@ -1551,4 +1551,15 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] { -brand-product-name }-i lejoi { $count } gjurmues
     }
 trustpanel-tracking-content-tab-list-header = Këto sajte po rreken t’ju ndjekin:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-i bllokoi { $count } krijues shenjash gishtash
+       *[other] { -brand-product-name }-i bllokoi { $count } krijues shenjash gishtash
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-i lejoi { $count } krijues shenjash gishtash
+       *[other] { -brand-product-name }-i lejoi { $count } krijues shenjash gishtash
+    }
+trustpanel-fingerprinter-list-header = Këto sajte po rreken të krijojnë shenja gishtash rreth jush:
 trustpanel-cryptominer-tab-list-header = Këto sajte po rreken të nxjerrin kriptomonedha:
