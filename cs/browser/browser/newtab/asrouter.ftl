@@ -313,6 +313,18 @@ set-default-pdf-handler-primary = Rozumím
 
 ## PDF Annotations strings
 
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Podepište se na tečkovanou čáru — nebo kdekoli jinde!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Nakreslete, napište nebo nahrajte svůj podpis a umístěte ho přesně tam, kam chcete. Uložte si své podpisy pro příště.
+annotations-make-default-pdf-handler-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Nastavit { -brand-short-name(case: "acc") } jako výchozí editor PDF?
+       *[no-cases] Nastavit aplikaci { -brand-short-name } jako výchozí editor PDF?
+    }
 annotations-make-default-pdf-handler-subtitle = Při každém otevření souboru PDF budete mít přístup k našim nástrojům.
 annotations-make-default-pdf-primary-cta =
     .label = Nastavit jako výchozí
