@@ -2,14 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-heading = Dewiswch broffil { -brand-short-name }
+profile-window-heading = Dewis proffil { -brand-short-name }
 profile-window-body = Cadwch eich pori gwaith a phersonol, gan gynnwys pethau fel cyfrineiriau a nodau tudalen, yn hollol ar wahân. Neu crëwch broffiliau ar gyfer pawb sy'n defnyddio'r ddyfais hon.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
-    .label = Dewiswch broffil pan fydd { -brand-short-name } yn agor
+    .label = Dewis proffil pan fydd { -brand-short-name } yn agor
 # This subcopy appears below the checkbox when it is unchecked
 profile-window-checkbox-subcopy = Bydd { -brand-short-name } yn agor i'ch proffil a ddefnyddiwyd yn fwyaf diweddar.
-profile-window-create-profile = Crëwch broffil
+profile-window-create-profile = Creu proffil
 profile-card-edit-button =
     .title = Golygu proffil
     .aria-label = Golygu proffil
@@ -64,7 +64,7 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Mae eich copi o { $profilename } yn barod i'w gyfaddasu
 copied-profile-page-header-description = Rydym wedi copïo'ch data a'ch gosodiadau i broffil newydd. Nawr rhowch enw iddo, dewiswch olwg, a'i ddefnyddio fel eich un chi.
-profile-window-title-2 = { -brand-short-name } - Dewiswch broffil
+profile-window-title-2 = { -brand-short-name } - Dewis proffil
 profile-window-logo =
     .alt = Logo { -brand-short-name }
 

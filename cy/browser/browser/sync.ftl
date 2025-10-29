@@ -82,7 +82,7 @@ sync-account-in-use-description-merge = Mae { $acctEmail } wedi mewngofnodi i'r 
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Newid i " { $profileName } "
-sync-button-create-profile = Crëwch broffil newydd
+sync-button-create-profile = Creu proffil newydd
 sync-button-sync-and-merge = Cydweddu a chadw data
 # Variables:
 #   $profileName (String) - Name of the profile to switch to

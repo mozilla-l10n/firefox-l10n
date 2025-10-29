@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-selection-window =
-    .title = { -brand-short-name } - Dewiswch Broffil Defnyddiwr
+    .title = { -brand-short-name } - Dewis Proffil Defnyddiwr
 profile-selection-button-accept =
     .label = Cychwyn { -brand-short-name }
 profile-selection-button-cancel =

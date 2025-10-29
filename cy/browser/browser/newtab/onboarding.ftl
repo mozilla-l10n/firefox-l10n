@@ -460,12 +460,12 @@ tab-groups-onboarding-dismiss = Iawn
 
 ## Multi Profiles feature onboarding messages
 
-multi-profile-spotlight-title = Dywedwch helo wrth broffiliau { -brand-product-name }
+multi-profile-spotlight-title = Dweud helo wrth broffiliau { -brand-product-name }
 multi-profile-spotlight-body = Newid yn hawdd rhwng pori am waith a hwyl. Mae proffiliau'n cadw'ch manylion pori, gan gynnwys hanes chwilio a chyfrineiriau, yn hollol ar wahân fel y gallwch gadw'n drefnus.
-multi-profile-spotlight-cta = Crëwch broffil
+multi-profile-spotlight-cta = Creu proffil
 multi-profile-callout-title = Creu gwahanol broffiliau ar gyfer gwaith a hwyl
 multi-profile-callout-subtitle = Mae proffiliau'n gadael i chi gadw'ch manylion pori, fel hanes chwilio a chyfrineiriau, yn hollol ar wahân.
-multi-profile-callout-cta = Crëwch broffil
+multi-profile-callout-cta = Creu proffil
 
 ## Desktop to Mobile Adoption feature callout strings
 
