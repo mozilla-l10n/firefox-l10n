@@ -151,7 +151,7 @@ options-source-maps-tooltip =
     .title = Om du aktiverar det här alternativet kommer källor att mappas i verktygen.
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
-options-context-triggers-page-refresh-temporary = (Endast aktuell session, laddar om sidan)
+options-context-triggers-page-refresh-temporary = (endast aktuell session, laddar om sidan)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Endast aktuell session, laddar om sidan
 # The message shown for settings that trigger page reload
