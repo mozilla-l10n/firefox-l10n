@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Vị trí
 settings-data-backup-last-backup-location-show-in-folder = Mở trong thư mục
 settings-data-backup-last-backup-location-edit = Chỉnh sửa…
 settings-data-create-backup-error = Đã xảy ra lỗi khi tạo bản sao lưu của bạn trên { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Sao lưu mật khẩu và phương thức thanh toán của bạn, đồng thời giữ an toàn cho mọi dữ liệu bằng mã hóa.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Tên tập tin: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Xóa bảo vệ bằng mật khẩu
+disable-backup-encryption-description2 = Mật khẩu và phương thức thanh toán đã lưu của bạn cũng sẽ không còn được sao lưu nữa.
 disable-backup-encryption-support-link = Những gì sẽ được sao lưu?
 disable-backup-encryption-cancel-button = Hủy bỏ
 disable-backup-encryption-confirm-button = Xoá mật khẩu
@@ -240,3 +242,4 @@ other-backup-files-founds = <b>Lưu ý:</b> Đã tìm thấy { $numberOfOtherBac
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Được tạo vào { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } trên { $machineName }
+backup-file-restore-file-validation-error = Tập tin này không hoạt động. Hãy thử chọn một tập tin khác. <a data-l10n-name="restore-problems">Vẫn gặp sự cố?</a>
