@@ -1316,6 +1316,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostra suggerimenti di ricerca di tendenza
     .accesskey = m
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Suggerimenti da { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Ricevi suggerimenti dal Web relativi alla tua ricerca.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Suggerimenti da { -brand-short-name }
