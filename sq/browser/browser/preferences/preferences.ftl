@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Thuaju sajteve të mos shesin apo japin të dhëna të miat
     .accesskey = u
 non-technical-privacy-header = Parapëlqime Privatësie Sajti
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -260,6 +262,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = E errët
     .title = Përdorni një pamje të errët për sfonde dhe lëndë sajtesh.
+web-appearance-group =
+    .aria-label = Dukje sajti
 preferences-web-appearance-choice-auto = Vetvetiu
 preferences-web-appearance-choice-light = E çelët
 preferences-web-appearance-choice-dark = E errët
@@ -591,6 +595,7 @@ home-new-windows-tabs-description2 = Zgjidhni çfarë shihet, kur hapni faqen tu
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Faqen hyrëse dhe dritare të reja
+home-homepage-mode-label2 = Dritare të reja
 home-newtabs-mode-label = Skeda të reja
 home-restore-defaults =
     .label = Rikthe Parazgjedhjet
@@ -603,6 +608,11 @@ home-mode-choice-blank =
     .label = Faqe të Zbrazët
 home-homepage-custom-url =
     .placeholder = Hidhni një URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Administroni zgjerim
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Zgjidhni një sajt specifik
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -617,13 +627,38 @@ use-current-pages =
 choose-bookmark =
     .label = Përdorni Faqerojtës…
     .accesskey = F
+home-homepage-header = Faqe hyrëse
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Faqe Hyrëse e Përshtatur
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Adresë(a) sajti
+home-custom-homepage-address =
+    .placeholder = Jepni adresë
+home-custom-homepage-address-button =
+    .label = Shtoni adresë
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Ende pa sajte të shtuar.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Zëvendësoje me
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Faqe aktualisht të hapura
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Faqerojtës…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Lëndë { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Zgjidhni ç’lëndë doni në skenën “{ -firefox-home-brand-name }” tuaj.
 home-prefs-search-header =
     .label = Kërkim në Web
+home-prefs-search-header2 =
+    .label = Kërko
 home-prefs-shortcuts-header =
     .label = Shkurtore
 home-prefs-shortcuts-description = Sajte që ruani ose vizitoni
@@ -638,6 +673,9 @@ home-prefs-recommended-by-description-new = Lëndë e jashtëzakonshme, në kujd
 home-prefs-recommended-by-header-generic =
     .label = Histori të rekomanduara
 home-prefs-recommended-by-description-generic = Lëndë e veçantë, nën kujdesin e familjes { -brand-product-name }
+home-prefs-stories-header =
+    .label = Histori
+home-prefs-stories-description = Histori të personalizuara, bazuar në veprimtarinë tuaj
 
 ##
 
@@ -668,10 +706,15 @@ home-prefs-weather-header =
     .label = Moti
 home-prefs-weather-description = Parashikimi për sot me një vështrim
 home-prefs-weather-learn-more-link = Mësoni më tepër
+home-prefs-trending-search-header =
+    .label = Prirje kërkimesh
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Përkrahni { -brand-product-name }
+home-prefs-mission-message = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë
 home-prefs-mission-message-learn-more-link = Mësoni se si
+home-prefs-manage-topics-link = Administroni subjekte
+home-prefs-choose-wallpaper-link = Zgjidhni një sfond
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -751,7 +794,9 @@ search-keyword-warning-title = Fjalëkyç i Përsëdytur
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Keni zgjedhur një fjalëkyç që hëpërhë po përdoret nga "{ $name }". Ju lutemi, përzgjidhni një tjetër.
 search-keyword-warning-bookmark = Zgjodhët një fjalëkyç që hëpërhë po përdoret nga një faqerojtës. Ju lutemi, përzgjidhni një tjetër.
+remove-engine-confirmation = Jeni i sigurt se doni të hiqet ky motor kërkimesh?
 remove-engine-remove = Hiqe
+remove-addon-engine-alert = Që të hiqet ky motor kërkimesh, hiqni shtesën përkatëse.
 
 ## Containers Section
 
@@ -1062,6 +1107,15 @@ autofill-saved-payment-methods-button = Metoda pagesash të ruajtura
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Kërko bërje hyrjeje në pajisje, për të plotësuar dhe administruar metoda pagesash
     .accesskey = o
+autofill-payment-methods-title = Metoda pagesash
+autofill-payment-methods-header =
+    .aria-label = Metoda pagesash
+autofill-payment-methods-checkbox-message-2 =
+    .label = Ruaj dhe vetëplotëso metoda pagesash
+    .accesskey = P
+autofill-payment-methods-manage-payments-button =
+    .label = Administroni metoda pagesash
+    .accesskey = A
 
 ## Privacy Section - History
 

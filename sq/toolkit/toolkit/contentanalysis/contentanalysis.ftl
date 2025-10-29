@@ -33,6 +33,10 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } po shqyrton ç’shtyp
 contentanalysis-operationtype-clipboard = e papastër
 contentanalysis-operationtype-dropped-text = tekst i sjellë
 contentanalysis-operationtype-print = shtypje
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = ngarkim i “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = shkarkim i “{ $filename }”
 contentanalysis-warndialogtitle = Kjo lëndë mund të jetë jo e parrezik
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -73,6 +77,10 @@ contentanalysis-block-dialog-title-upload-file = S’keni leje të ngarkoni kët
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Sipas rregullave të entit tuaj për mbrojtje të dhënash, s’keni leje të ngarkoni kartelën “{ $filename }”. Për më tepër hollësi, lidhuni me përgjegjësin tuaj.
+contentanalysis-block-dialog-title-download-file = S’keni leje të shkarkoni këtë kartelë
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Sipas rregullave të entit tuaj për mbrojtje të dhënash, s’keni leje të shkarkoni kartelën “{ $filename }”. Për më tepër hollësi, lidhuni me përgjegjësin tuaj.
 contentanalysis-block-dialog-title-clipboard = S’keni leje të lini ngjitni këtë lëndë
 contentanalysis-block-dialog-body-clipboard = Sipas rregullave të entit tuaj për mbrojtje të dhënash, s’keni leje të ngjitni këtë lëndë. Për më tepër hollësi, lidhuni me përgjegjësin tuaj.
 contentanalysis-block-dialog-title-dropped-text = S’keni leje të lini këtë lëndë
