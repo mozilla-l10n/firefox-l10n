@@ -509,6 +509,8 @@ create-backup-screen-2-all-label = Όλα τα δεδομένα
 create-backup-screen-2-all-list-2 = Συμπεριλαμβάνει κωδικούς πρόσβασης και στοιχεία πληρωμής
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Κρυπτογράφηση με κωδικό πρόσβασης
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Πού θέλετε να αποθηκευτεί το αντίγραφο ασφαλείας σας;
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Δημιουργία κωδικού πρόσβασης αντιγράφου ασφαλείας
 fx-backup-opt-in-header = Επιλογή τοποθεσίας αρχείου

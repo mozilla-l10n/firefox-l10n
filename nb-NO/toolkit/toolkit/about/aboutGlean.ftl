@@ -145,6 +145,14 @@ about-glean-metrics-table-header-type = Type
 about-glean-metrics-table-header-value = Verdi
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Handlinger
+about-glean-metrics-table-settings-timelines-height = Høyde
+about-glean-metrics-table-settings-timelines-width = Bredde
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Sirkelradius
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = X-akse X-forskyvning
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y-akse Y-forskyvning
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
 # This message sits alongside an input field, further describing its purpose.

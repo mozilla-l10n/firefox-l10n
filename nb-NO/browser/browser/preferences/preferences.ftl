@@ -1235,6 +1235,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresselinje
+addressbar-suggest-1 = Velg hvilke forslag som skal vises i adresselinjen
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Forslag fra { -brand-short-name } og våre partnere i adresselinjen din.
 addressbar-suggest = Når du bruker adresselinjen, føreslå
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresselinje — { -firefox-suggest-brand-name }
@@ -1262,6 +1267,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Mest besøkte nettsteder
     .accesskey = M
+addressbar-locbar-engines-option-1 =
+    .label = Foreslå søkemotorer å bruke
+    .accesskey = s
 addressbar-locbar-engines-option =
     .label = Søkemotorer
     .accesskey = k
@@ -1282,6 +1290,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Få forslag fra nettet relatert ti
 addressbar-locbar-suggest-sponsored-option =
     .label = Forslag fra sponsorer
 addressbar-locbar-suggest-sponsored-desc = Støtt { -brand-short-name } med sporadiske sponsede forslag.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Hent forslag fra Mozilla mens du skriver
 addressbar-quickactions-learn-more = Les mer
 addressbar-dismissed-suggestions-label = Forkastede forslag
 addressbar-restore-dismissed-suggestions-description = Gjenopprett avviste forslag fra sponsorer og { -brand-short-name }.

@@ -644,6 +644,8 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Ακύρωση
 
 pdfjs-editor-edit-comment-button =
     .title = Επεξεργασία σχολίου
+pdfjs-editor-add-comment-button =
+    .title = Προσθήκη σχολίου
 
 ## Main menu for adding/removing signatures
 

@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Τοποθεσία
 settings-data-backup-last-backup-location-show-in-folder = Εμφάνιση στον φάκελο
 settings-data-backup-last-backup-location-edit = Επεξεργασία…
 settings-data-create-backup-error = Προέκυψε σφάλμα κατά τη δημιουργία του αντιγράφου ασφαλείας στις { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Δημιουργήστε αντίγραφα ασφαλείας για τους κωδικούς πρόσβασης και τις μεθόδους πληρωμής σας, προστατεύοντας όλα τα δεδομένα σας με κρυπτογράφηση.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Όνομα αρχείου: { $fileName }
