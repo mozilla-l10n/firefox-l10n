@@ -133,3 +133,17 @@ password-rules-length-description = Minst 8 tegn
 password-rules-email-description = Ikke e-postadressen din
 password-rules-disclaimer = Vær trygg – ikke bruk passord på nytt. Se flere tips for å <a data-l10n-name="password-support-link">lage sterke passord</a>.
 password-validity-has-email = Kan ikke være en e-postadresse
+password-validity-do-not-match = Passordene er ikke like
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Vellykket
+password-rules-a11y-warning =
+    .alt = Advarsel
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Fjern passordbeskyttelse
+disable-backup-encryption-support-link = Hva vil bli sikkerhetskopiert?
+disable-backup-encryption-cancel-button = Avbryt
