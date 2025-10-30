@@ -21,7 +21,12 @@ backup-folder-name = Վերականգնել { -brand-product-name }-ը
 backup-file-name = { -brand-product-name }-ի պահուստավորում
 settings-data-backup-header = Պահուստավորում
 settings-data-backup-toggle = Կառավարել պահուստավորումը
+settings-data-backup-toggle-on = Միացնել պահուստավորումը
+settings-data-backup-toggle-off = Անջատել պահուստավորումը
 settings-data-backup-trigger-button = Պահուստավորել հիմա
+settings-data-backup-in-progress-button = Պահուստավորումն ընթացքի մեջ է…
+settings-data-backup-in-progress-message =
+    .message = Պահուստավորումն ընթացքի մեջ է…
 settings-data-backup-scheduled-backups-on = Պահուստավորում՝ ՄԻԱՑՎԱԾ
 settings-data-backup-scheduled-backups-off = Պահուստավորում՝ ԱՆՋԱՏԱԾ
 settings-data-backup-scheduled-backups-description = Ինքնաշխատ պաշտպանեք ձեր էջանիշները, պատմությունը և այլ տվյալներ։ <a data-l10n-name="support-link">Իմանալ ավելին</a>
@@ -113,6 +118,37 @@ restore-from-backup-restoring-button = Վերականգնվում է…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Գաղտնաբառը սխալ է։ <a data-l10n-name="incorrect-password-support-link">Դեռևս խնդիրներ ունե՞ք։</a>
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-support-link = Իմանալ ավելին
+enable-backup-encryption-create-password-label = Գաղտնաբառ
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Կրկնել գաղտնաբառը
+enable-backup-encryption-cancel-button = Չեղարկել
+enable-backup-encryption-confirm-button = Պահել
+change-backup-encryption-header = Փոխել պահուստավորման գաղտնաբառը
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Գաղտնաբառի պահանջներ
+password-rules-length-description = Առնվազն 8 նիշ
+password-rules-email-description = Ձեր էլեկտրոնային հասցեն չէ
+password-validity-do-not-match = Գաղտնաբառերը չեն համընկնում
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Հաջողվեց
+password-rules-a11y-warning =
+    .alt = Զգուշացում
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Հեռացնել գաղտնաբառի պաշտպանությունը
+disable-backup-encryption-support-link = Ի՞նչը կպահուստավորվի։
+disable-backup-encryption-cancel-button = Չեղարկել
+disable-backup-encryption-confirm-button = Հեռացնել գաղտնաբառը
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
