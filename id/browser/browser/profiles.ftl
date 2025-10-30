@@ -217,6 +217,7 @@ bike-avatar-alt =
 
 book-avatar = Buku
 briefcase-avatar = Tas Kerja
+clock-avatar = Jam
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Kerajinan
 custom-avatar = Avatar ubahan
@@ -227,6 +228,14 @@ folder-avatar = Folder
 hammer-avatar = Palu
 heart-avatar = Hati
 heart-rate-avatar = Detak jantung
+leaf-avatar = Daun
+makeup-avatar = Riasan
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Pesan
+palette-avatar = Palet
+plane-avatar = Pesawat
+# Present refers to a gift box, not the current time period
+present-avatar = Hadiah
 shopping-avatar = Keranjang belanja
 star-avatar = Bintang
 bike-avatar = Sepeda
