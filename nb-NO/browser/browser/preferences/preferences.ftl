@@ -628,9 +628,12 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } Innhold
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Velg hvilket innhold som du vil ha på din { -firefox-home-brand-name }-skjerm.
 home-prefs-search-header =
     .label = Nettsøk
+home-prefs-search-header2 =
+    .label = Søk
 home-prefs-shortcuts-header =
     .label = Snarveier
 home-prefs-shortcuts-description = Nettsteder du lagrer eller besøker
@@ -645,6 +648,9 @@ home-prefs-recommended-by-description-new = Eksepsjonelt innhold satt sammen av 
 home-prefs-recommended-by-header-generic =
     .label = Anbefalte artikler
 home-prefs-recommended-by-description-generic = Enestående innhold kuratert av { -brand-product-name }-familien
+home-prefs-stories-header =
+    .label = Artikler
+home-prefs-stories-description = Personlige artikler basert på aktiviteten din
 
 ##
 
@@ -683,6 +689,7 @@ home-prefs-support-firefox-header =
     .label = Støtt { -brand-product-name }
 home-prefs-mission-message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett
 home-prefs-mission-message-learn-more-link = Finn ut hvordan
+home-prefs-manage-topics-link = Behandle emner
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
