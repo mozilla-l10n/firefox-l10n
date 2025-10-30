@@ -116,9 +116,16 @@ restore-from-backup-restoring-button = Gjenoppretter…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Feil passord. <a data-l10n-name="incorrect-password-support-link">Har du fortsatt problemer?</a>
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, det oppsto et problem under sikkerhetskopieringen.
+    .message = Prøv igjen om noen minutter.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Sikkerhetskopier dine sensitive data
+enable-backup-encryption-support-link = Les mer
 enable-backup-encryption-create-password-label = Passord
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Gjenta passord
@@ -172,9 +179,38 @@ backup-file-path-label = Sikkerhetskopieringsfil:
 backup-file-encryption-state-label = Kryptert:
 backup-file-encryption-state-value-encrypted = Ja
 backup-file-encryption-state-value-not-encrypted = Nei
+backup-file-creation-device-label = Enhet:
+backup-file-creation-date-label = Opprettet:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Hvordan gjenopprette:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Åpne programmenyen ☰ og gå til Innstillinger > Synkroniser
+backup-file-moz-browser-restore-step-2 = Klikk på «Velg sikkerhetskopifil» og velg denne filen
+backup-file-moz-browser-restore-step-3 = Start { -brand-short-name } på nytt når du blir bedt om det
+backup-file-other-browser-restore-step-1 = Last ned og installer { -brand-short-name }
+backup-file-download-moz-browser-button = Last ned
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Start { -brand-short-name }, åpne programmenyen ☰ og gå til Innstillinger > Synkroniser
+backup-file-other-browser-restore-step-3 = Klikk på «Velg sikkerhetskopifil» og velg denne filen
+backup-file-other-browser-restore-step-4 = Start { -brand-short-name } på nytt når du blir bedt om det
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
 ## if they have one on their file system.
 
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Merk:</b> { $numberOfOtherBackupsFound } annen sikkerhetskopifil funnet
+       *[other] <b>Merk:</b> { $numberOfOtherBackupsFound } andre sikkerhetskopifiler funnet
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Opprettet den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
 backup-file-restore-file-validation-error = Denne filen fungerer ikke. Prøv å velge en annen fil. <a data-l10n-name="restore-problems">Har du fortsatt problemer?</a>
