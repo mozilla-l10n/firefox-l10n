@@ -88,3 +88,7 @@ time-spinner-minute-previous =
     .aria-label = Minute précédente
 time-spinner-minute-next =
     .aria-label = Minute suivante
+time-spinner-day-period-previous =
+    .aria-label = Période précédente de la journée
+time-spinner-day-period-next =
+    .aria-label = Prochaine période de la journée
