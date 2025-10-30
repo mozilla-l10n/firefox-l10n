@@ -241,3 +241,5 @@ select-translations-panel-unsupported-language-message-unknown =
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Թարգմանության կարգավորումներ
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Թարգմանությունն ավարտվեց
