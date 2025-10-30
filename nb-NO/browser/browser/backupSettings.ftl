@@ -116,3 +116,20 @@ restore-from-backup-restoring-button = Gjenoppretter…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Feil passord. <a data-l10n-name="incorrect-password-support-link">Har du fortsatt problemer?</a>
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-create-password-label = Passord
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Gjenta passord
+enable-backup-encryption-cancel-button = Avbryt
+enable-backup-encryption-confirm-button = Lagre
+change-backup-encryption-header = Endre passord for sikkerhetskopi
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Passordkrav
+password-rules-length-description = Minst 8 tegn
+password-rules-email-description = Ikke e-postadressen din
+password-rules-disclaimer = Vær trygg – ikke bruk passord på nytt. Se flere tips for å <a data-l10n-name="password-support-link">lage sterke passord</a>.
+password-validity-has-email = Kan ikke være en e-postadresse
