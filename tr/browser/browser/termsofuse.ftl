@@ -7,6 +7,8 @@
 
 #  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
 existing-user-tou-message = <strong>Güncelleme</strong> { -brand-short-name } <a data-l10n-name="terms-of-use-link">Kullanım Koşullarımızı</a> yayımladık ve <a data-l10n-name="privacy-notice-link">Gizlilik Bildirimimizi</a> güncelledik. Lütfen birkaç dakikanızı ayırarak bunları inceleyip kabul edin.
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = En yeni { -brand-short-name } özelliklerini yansıtmak amacıyla <a data-l10n-name="privacy-notice-link">Gizlilik Bildirimimizi</a> güncelledik.
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = Daha fazla bilgi al
 # Text for primary button

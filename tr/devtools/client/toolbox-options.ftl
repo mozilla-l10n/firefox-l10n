@@ -116,6 +116,8 @@ options-disable-http-cache-label = HTTP önbelleğini kapat (araç kutusu açık
 options-disable-http-cache-tooltip =
     .title = Bu seçeneği açarsanız araç kutusunun açık olduğu tüm sekmelerde HTTP önbelleği devre dışı kalacaktır. Bu seçenek Service Worker’ları etkilemez.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = JavaScript’i devre dışı bırak
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript’i devre dışı bırak *
 options-disable-javascript-tooltip =
     .title = Bu seçeneği açarsanız geçerli sekmede JavaScript devre dışı bırakılır. Sekme veya araç kutusu kapatılırsa bu ayar unutulacaktır.
@@ -143,6 +145,9 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Kaynak eşlemelerini etkinleştir
 options-source-maps-tooltip =
     .title = Bu seçeneği etkinleştirirseniz kaynaklar araçlarda eşlenecektir.
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (Yalnızca bu oturumda geçerli. Sayfayı yeniden yükler.)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Yalnızca bu oturumda geçerli, sayfayı yeniden yükler
 # The message shown for settings that trigger page reload
