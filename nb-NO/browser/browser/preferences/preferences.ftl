@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = For å aktivere utvidelsen, gå til <img data-l10n-name="addons-icon"/> Utvidelser i menyen <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } styrer noen av dine startsideinnstillinger.
 
 ## Preferences UI Search Results
 
@@ -167,6 +170,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Åpne lenker i faner istedenfor nye vindu
     .accesskey = f
+open-external-link-next-to-active-tab =
+    .label = Åpne lenker fra apper ved siden av den aktive fanen din
 ask-on-close-multiple-tabs =
     .label = Spør før lukking av flere faner
     .accesskey = p
@@ -598,6 +603,7 @@ home-new-windows-tabs-description2 = Velg hva du vil se når du åpner startside
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startside og nye vinduer
+home-homepage-mode-label2 = Nye vinduer
 home-newtabs-mode-label = Nye faner
 home-restore-defaults =
     .label = Bruk standard
@@ -610,6 +616,11 @@ home-mode-choice-blank =
     .label = Blank side
 home-homepage-custom-url =
     .placeholder = Lim inn en URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Behandle utvidelse
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Velg et bestemt nettsted
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -624,6 +635,17 @@ use-current-pages =
 choose-bookmark =
     .label = Bruk bokmerke …
     .accesskey = u
+home-homepage-header = Startside
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Tilpasset startside
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Nettadresse(r)
+home-custom-homepage-address =
+    .placeholder = Skriv inn adresse
+home-custom-homepage-address-button =
+    .label = Legg til adresse
 
 ## Home Section - Firefox Home Content Customization
 

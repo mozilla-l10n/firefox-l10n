@@ -171,3 +171,10 @@ backup-file-intro = Gå tilbake til nettlesing og gjenopprett alle bokmerkene, h
 backup-file-path-label = Sikkerhetskopieringsfil:
 backup-file-encryption-state-label = Kryptert:
 backup-file-encryption-state-value-encrypted = Ja
+backup-file-encryption-state-value-not-encrypted = Nei
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+backup-file-restore-file-validation-error = Denne filen fungerer ikke. Prøv å velge en annen fil. <a data-l10n-name="restore-problems">Har du fortsatt problemer?</a>
