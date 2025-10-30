@@ -690,6 +690,7 @@ home-prefs-support-firefox-header =
 home-prefs-mission-message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett
 home-prefs-mission-message-learn-more-link = Finn ut hvordan
 home-prefs-manage-topics-link = Behandle emner
+home-prefs-choose-wallpaper-link = Velg et bakgrunnsbilde
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
