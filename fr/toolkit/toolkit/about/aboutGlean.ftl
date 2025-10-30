@@ -118,6 +118,8 @@ about-glean-metrics-table-settings-category-visualizations = Visualisations
 about-glean-metrics-table-settings-visualization-example = Exemple
 about-glean-metrics-table-settings-category-visualizations-histogram = Histogramme
 about-glean-metrics-table-settings-histograms-chart-max = Hauteur maximale du graphique
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Hauteur maximale mise à l’échelle
 about-glean-metrics-table-settings-histograms-box-padding = Marge des conteneurs
 about-glean-metrics-table-settings-histograms-chart-padding = Marge du graphique
 about-glean-metrics-table-settings-histograms-left-padding = Marge supplémentaire à gauche
