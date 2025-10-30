@@ -561,6 +561,7 @@ restored-from-backup-error-primary-button = Kapat
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = { -brand-short-name } deneyiminizi özelleştirin
+onboarding-personalization-subtitle = { -brand-short-name } kullanımınızı geliştirecek özellikler ve uzantılar önerebilmemiz için birkaç soruyu yanıtlayın.
 onboarding-personalization-use-case-title = { -brand-short-name } tarayıcısını ne için kullanacaksınız?
 onboarding-personalization-use-case-personal-option = Kişisel
 onboarding-personalization-use-case-school-option = Okul
