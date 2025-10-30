@@ -93,6 +93,10 @@ turn-off-scheduled-backups-confirm-button = Slå av og slett sikkerhetskopien
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Gjenopprett dine data
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Dette vil erstatte alle dine nåværende { -brand-short-name }-data med sikkerhetskopien din fra { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = Hva vil bli gjenopprettet?
 restore-from-backup-no-backup-file-link = Har du problemer med å finne sikkerhetskopien din?
@@ -116,6 +120,25 @@ restore-from-backup-restoring-button = Gjenoppretter…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Feil passord. <a data-l10n-name="incorrect-password-support-link">Har du fortsatt problemer?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Denne filen fungerer ikke
+    .message = Det oppsto et problem med sikkerhetskopifilen din. Velg en annen fil og prøv igjen.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Denne filen fungerer ikke
+    .message = Filen du valgte er ikke kompatibel med denne versjonen av { -brand-short-name }. Velg en annen fil og prøv igjen.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Denne filen fungerer ikke
+    .message = Filen du valgte ble ikke opprettet av { -brand-short-name }. Velg en annen fil og prøv igjen.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =

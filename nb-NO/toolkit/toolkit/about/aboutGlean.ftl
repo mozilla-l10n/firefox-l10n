@@ -148,8 +148,22 @@ about-glean-metrics-table-header-actions = Handlinger
 about-glean-metrics-table-settings-button = Innstillinger
 # Settings for the metrics table and its visualizations in about:glean
 about-glean-metrics-table-settings-title = Innstillinger for metrikktabell
+about-glean-metrics-table-settings-category-general = Generelt
+about-glean-metrics-table-settings-hide-empty-value-rows = Skjul tomme verdirader
+about-glean-metrics-table-settings-category-visualizations = Visualiseringer
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Eksempel
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Maksimal høyde for diagrammet
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Skalert maksimal høyde
+about-glean-metrics-table-settings-histograms-box-padding = Indre marg
+about-glean-metrics-table-settings-histograms-chart-padding = Diagrammarg
+about-glean-metrics-table-settings-histograms-left-padding = Ekstra venstre marg
+about-glean-metrics-table-settings-category-visualizations-timeline = Tidslinje
 about-glean-metrics-table-settings-timelines-height = Høyde
 about-glean-metrics-table-settings-timelines-width = Bredde
+about-glean-metrics-table-settings-timelines-chart-padding = Diagrammarg
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Sirkelradius
 # The offset on the x-axis from the end of the horizontal line for the y-axis line
