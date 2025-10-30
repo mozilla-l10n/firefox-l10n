@@ -1382,6 +1382,7 @@ trustpanel-etp-label-disabled = Ուժեղացված հետագծման պաշտ
 trustpanel-connection-label-secure = Կապակցումն ապահով է
 trustpanel-connection-label-insecure = Կապակցումն անվտանգ չէ
 trustpanel-header-enabled = { -brand-product-name }--ը պաշտպանված է
+trustpanel-header-enabled-insecure = Զգույշ եղեք այս կայքում
 trustpanel-header-disabled = Դուք անջատեցիք պաշտպանությունը
 trustpanel-clear-cookies-button = Մաքրել թխուկները և կայքի տվյալները
 trustpanel-privacy-link = Գաղտնիության կարգավորումներ

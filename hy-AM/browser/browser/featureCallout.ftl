@@ -95,13 +95,22 @@ fxa-adoption-passwords-primary-button-label = Գրանցվել
 
 taskbar-tabs-social-callout-title = Պահեք ձեր ընտրյալ սնուցիչները  խնդրագոտում
 taskbar-tabs-social-callout-subtitle = Գործարկեք ձեր սոցիալական կայքերը հավելվածի նման՝ { -brand-short-name }-ով պաշտպանված, հարմարեցված պատուհանում։
+taskbar-tabs-email-callout-title = Պահեք ձեր էլ. փոստը ձեր առաջադրանքների տողում
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-new-device-title-1 = Մի՛ ռիսկի դիմեք՝ նորից սկսելով ձեր հաջորդ սարքը։
 windows-10-eos-sync-new-device-primary-label = Համաժամեցնել
+windows-10-eos-sync-tour-title-1 = Շատ ներդիրներ ունե՞ք։ Կարգավորեք իրավիճակը ներդիրների խմբերի միջոցով։
 windows-10-eos-sync-tour-title-2 = Կազմակերպվեք Windows 11-ի համար։
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Ցուցադրել ավելի քիչ երաշխավորություններ
 windows-10-eos-sync-dismiss-button-label = Բաց թողնել
 windows-10-eos-sync-callout-primary-advance-button-label = Հաջորդը
+
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Նոր. Սեղմեք և պահեք՝ հղումները նախադիտելու համար
 
 ## Sidebar Strings
 
@@ -123,9 +132,12 @@ sidebar-pins-callout-cta-button = Ամրացնել ներդիրը
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Կարևոր գրառումները պահեք հասանելիության սահմաններում
 pin-tabs-callout-cta-1-button = Ամրացնել այս ներդիրը
 pin-tabs-callout-2-title = Ամրացրեք ամենաշատ այցելվող ներդիրները
 pin-tabs-callout-cta-2-button = Ամրացնել այս ներդիրը
+pin-tabs-callout-3-title = Կարևոր կայքերը պահեք հասանելիության սահմաններում
+pin-tabs-callout-4-title = Նշեք ամենաշատ այցելվող կայքերը
 
 ## Sidebar Onboarding Strings
 

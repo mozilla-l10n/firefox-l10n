@@ -67,6 +67,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Համաժամեցնել էջանիշե�
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Փակելու կոճակ
     .title = Փակել
+fxa-adoption-credit-cards-backup-title = Եկեք պահուստավորենք ձեր վճարման եղանակները
 fxa-adoption-primary-button-label = Գրանցվել
 
 ## Protections panel
@@ -132,6 +133,7 @@ spotlight-public-wifi-vpn-link = Ոչ հիմա
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Լավ համացանցը սկսվում է Ձեզանից
+spotlight-peace-mind-header = Մենք ձեզ համար ամեն ինչ ունենք
 spotlight-pin-secondary-button = Ոչ հիմա
 
 ## MR2022 Background Update Windows native toast notification strings.

@@ -388,3 +388,72 @@ multi-profile-callout-cta = Ստեղծել պրոֆիլ
 desktop-to-mobile-headline = Ներբեռնեք, համաժամեցրեք և գնացեք։
 dismiss-button-label = Բաց թողնել
 sync-to-mobile-button-label = Համաժամեցեք բջջայինի հետ
+
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-backup-label = Պահուստավորել համակարգչի վրա
+create-backup-screen-1-backup-body = Պահպանվում է ձեր սարքում կամ OneDrive-ում
+create-backup-select-tile-button-label = Ընտրել
+create-backup-back-button-label = Նախորդը
+create-backup-show-fewer =
+    .label = Ցուցադրել ավելի քիչ
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Հեշտ տեղադրում
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Էջանիշներ, պատմություն, կարգավորումներ և այլն
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Չի ներառում գաղտնաբառեր և վճարումներ
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Գաղտնագրված չէ
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Բոլոր տվյալները
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Ներառում է գաղտնաբառեր և վճարումներ
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Գաղտնագրված է գաղտնաբառով
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Որտե՞ղ եք ուզում, որ ձեր պահուստային պատճենը պահպանվի։
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Ստեղծեք պահուստային ֆայլի գաղտնաբառ
+create-backup-screen-3-subtitle = Պահանջվում է ձեր տվյալները կոդավորելու համար։ Պահեք այն այնպիսի տեղում, որը կհիշեք։
+fx-backup-opt-in-header = Ընտրեք ֆայլի տեղադրությունը
+fx-backup-opt-in-filepath-label = Ընտրեք այն վայրը, որտեղ պատրաստվում եք տեղափոխել այն նոր սարքի վրա, օրինակ՝ OneDrive-ի վրա։
+fx-backup-opt-in-create-password-label = Մուտքագրեք գաղտնաբառը
+fx-backup-opt-in-confirm-btn-label = Շարունակել
+fx-backup-opt-in-cancel-btn-label = Նախորդը
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Ձեր պահուստավորումը պլանավորված է
+fx-backup-confirmation-screen-close-button = Փակել
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Դիտարկման բոլոր տվյալները ներառված են
+fx-backup-confirmation-screen-all-data-item-text-2 = Պահված է ձեր սարքում
+fx-backup-confirmation-screen-all-data-item-text-3 = Գաղտնագրված և գաղտնաբառով պաշտպանված
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Ներառված են էջանիշեր, պատմություն, կարգավորումներ և այլ տվյալներ
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Պահված է ձեր սարքում
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Գաղտնաբառերը և վճարումները չեն ներառվում
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Անցեք <a data-l10n-name="settings">Կարգավորումներ</a>՝ զգայուն տվյալները ներառելու համար։
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Պահել և շարունակել
+restored-from-backup-success-with-checklist-secondary-button = Բաց թողեք այս քայլը
+restored-from-backup-success-no-checklist-primary-button = Շարունակել
+restored-from-backup-error-title = Հըմ, ձեր պահուստային ֆայլի հետ կապված խնդիր կար։
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Անհատականացրեք{ -brand-short-name }-ի  ձեր փորձառությունը
+onboarding-personalization-subtitle = Պատասխանեք մի քանի հարցի, և մենք կառաջարկենք գործառույթներ և ընդլայնումներ՝ { -brand-short-name }-ի օգտագործումը բարելավելու համար։
+onboarding-personalization-use-case-title = Ինչի՞ համար եք օգտագործելու { -brand-short-name }-ը։
+onboarding-personalization-use-case-personal-option = Անձնական
+onboarding-personalization-use-case-school-option = Դպրոց
+onboarding-personalization-use-case-work-option = Աշխատանքային
+onboarding-personalization-motivation-title = { -brand-short-name }-ի որ յուրահատկություններն են ձեզ համար ամենակարևորը։
+onboarding-personalization-motivation-privacy-option = Գաղտնիություն և անվտանգություն
+onboarding-personalization-motivation-productivity-option = Արդյունավետություն
+onboarding-personalization-motivation-other-option = Այլ

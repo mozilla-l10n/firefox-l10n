@@ -4,6 +4,7 @@
 
 clear-data-for-site-title = Մաքրե՞լ այս կայքի բոլոր տվյալները։
 clear-data-for-site-browsing-history = Դիտարկումների և ներբեռնումների պատմությունը
+clear-data-for-site-cache = Շտեմված ֆայլեր ու էջեր
 cclear-data-for-site-permissions = Թույլտվություններ և նախընտրություններ
 clear-data-for-site-exceptions = Էջանիշները և պահպանված գաղտնաբառերը չեն ջնջվի
 clear-data-for-site-dialog-accept-button = Մաքրել տվյալները

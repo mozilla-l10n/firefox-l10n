@@ -165,6 +165,8 @@ link-preview-generation-retry = Կրկին փորձել
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Հղման նախադիտման կարգավորումներ
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Տեսնու՞մ եք ավելին ԱԲ միջոցով։
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Նոր. Սեղմեք և պահեք ցանկացած հղում՝ նախադիտման համար
 # Header for the key points section

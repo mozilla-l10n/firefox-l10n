@@ -23,6 +23,7 @@ firefox-relay-opt-in-title-2 = Ստացեք անվճար էլ. փոստի դիմ
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Օգտագործեք { -relay-brand-name } Էլ․ փոստի դիմակը
+firefox-relay-use-mask-title-1 = Օգտագործեք էլ․ փոստի դիմակ
 firefox-relay-opt-in-subtitle-2 = Պաշտպանեք ձեր մուտքի արկղը թափոնից
 firefox-relay-use-mask-title = Օգտագործեք { -relay-brand-name } Էլ․ փոստի դիմակը
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a

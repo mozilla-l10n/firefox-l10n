@@ -155,6 +155,21 @@ disable-backup-encryption-confirm-button = Հեռացնել գաղտնաբառը
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-path-label = Պահուստային ֆայլ՝
+backup-file-encryption-state-label = Գաղտնագրված՝
+backup-file-encryption-state-value-encrypted = Այո
+backup-file-encryption-state-value-not-encrypted = Ոչ
+backup-file-creation-device-label = Սարքը՝
+backup-file-creation-date-label = Ստեղծվել է՝
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Ինչպես վերականգնել.
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Բացեք ծրագրի ցանկը ☰ և անցեք Կարգավորումներ » Համաժամեցում
+backup-file-moz-browser-restore-step-2 = Սեղմեք «Ընտրել պահուստային ֆայլը» և ընտրեք այս ֆայլը
+backup-file-moz-browser-restore-step-3 = Վերագործարկեք { -brand-short-name }-ը, երբ խնդրվի
 backup-file-other-browser-restore-step-1 = Ներբեռնեք և տեղադրեք { -brand-short-name }-ը
 backup-file-download-moz-browser-button = Ներբեռնել
 # The ☰ character is intended as a visual icon representing the Firefox
@@ -174,3 +189,7 @@ other-backup-files-founds =
         [one] <b>Նշում.</b> { $numberOfOtherBackupsFound } այլ պահուստային ֆայլ է գտնվել
        *[other] <b>Նշում.</b> { $numberOfOtherBackupsFound } այլ պահուստային ֆայլեր են գտնվել
     }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Ստեղծվել է { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { $machineName }-ում
