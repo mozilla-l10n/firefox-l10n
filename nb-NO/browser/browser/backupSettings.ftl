@@ -139,11 +139,21 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Denne filen fungerer ikke
     .message = Filen du valgte ble ikke opprettet av { -brand-short-name }. Velg en annen fil og prøv igjen.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } kunne ikke gjenopprette
+    .message = Start { -brand-short-name } på nytt, og prøv å gjenopprette sikkerhetskopien på nytt.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =
     .heading = Hmm, det oppsto et problem under sikkerhetskopieringen.
     .message = Prøv igjen om noen minutter.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Noe gikk galt
+    .message = Det oppsto et problem med sikkerhetskopieringsprosessen for { -brand-short-name }. Prøv igjen eller start { -brand-short-name } på nytt.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
