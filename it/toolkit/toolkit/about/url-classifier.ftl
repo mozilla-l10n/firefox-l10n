@@ -14,6 +14,7 @@ url-classifier-search-result-list = Elenco tabelle: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Indirizzo non valido
 url-classifier-search-error-no-features = Nessuna caratteristica selezionata
+url-classifier-search-error-no-results = Nessun elemento trovato per l’URL
 url-classifier-search-btn = Avvia ricerca
 url-classifier-search-features = Caratteristiche
 url-classifier-search-listType = Tipo di elenco
