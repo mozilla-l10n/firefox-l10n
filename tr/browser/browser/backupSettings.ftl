@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Konum
 settings-data-backup-last-backup-location-show-in-folder = Klasörde göster
 settings-data-backup-last-backup-location-edit = Düzenle…
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") } tarihinde yedeğiniz oluşturulurken bir hata oluştu
+settings-sensitive-data-encryption-description = Parolalarınızı ve ödeme yöntemlerinizi yedekleyin, şifreleme ile tüm verilerinizi güvende tutun.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Dosya adı: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Parola korumasını kaldır
+disable-backup-encryption-description2 = Kayıtlı parolalarınız ve ödeme yöntemleriniz artık yedeklenmeyecek.
 disable-backup-encryption-support-link = Neler yedeklenecek?
 disable-backup-encryption-cancel-button = Vazgeç
 disable-backup-encryption-confirm-button = Parolayı kaldır
@@ -244,3 +246,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } tarihinde { $machineName } adlı cihazda oluşturuldu
+backup-file-restore-file-validation-error = Bu dosya çalışmıyor. Başka bir dosya seçmeyi deneyin. <a data-l10n-name="restore-problems">Hâlâ sorun mu yaşıyorsunuz?</a>
