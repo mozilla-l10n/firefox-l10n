@@ -145,6 +145,9 @@ about-glean-metrics-table-header-type = Type
 about-glean-metrics-table-header-value = Verdi
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Handlinger
+about-glean-metrics-table-settings-button = Innstillinger
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Innstillinger for metrikktabell
 about-glean-metrics-table-settings-timelines-height = Høyde
 about-glean-metrics-table-settings-timelines-width = Bredde
 # The radius of each circle denoting individual events recorded for an event metric

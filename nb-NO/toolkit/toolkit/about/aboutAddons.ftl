@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Slå på
 extensions-warning-imported-addons2 =
     .message = Fullfør installasjonen av utvidelser som ble importert til { -brand-short-name }.
 extensions-warning-imported-addons-button = Installer utvidelser
+extensions-warning-safe-mode3 =
+    .message = Alle tillegg er deaktivert av feilsøkingsmodus.
 
 ## Strings connected to add-on updates
 
