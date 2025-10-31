@@ -51,3 +51,4 @@ report-broken-site-panel-invalid-url-label = Indtast en gyldig URL
 report-broken-site-panel-missing-reason-label = Vælg en årsag
 report-broken-site-panel-blocked-trackers-label =
     .label = Send URL'er blokeret af beskyttelse mod sporing
+report-broken-site-panel-blocked-trackers-description = Udvidet beskyttelse mod sporing kan blokere sporings-teknologier og scripts, som nogle websteder behøver at anvende for at fungere korrekt.
