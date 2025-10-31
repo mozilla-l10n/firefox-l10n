@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Avrir la survista dals alias dad e-mail
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protegia tias activitads online
 appmenu-services-header = Mes servetschs
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Emprova auters utensils da protecziun da Mozilla:
 appmenu-other-protection-header = Emprova era auters utensils da protecziun da { -vendor-short-name }:
 
 ## Profiles panel
@@ -301,6 +305,8 @@ appmenu-other-protection-header = Emprova era auters utensils da protecziun da {
 appmenu-other-profiles = Auters profils
 appmenu-manage-profiles =
     .label = Administrar ils profils
+appmenu-copy-profile =
+    .label = Copiar quest profil
 appmenu-create-profile =
     .label = Nov profil
 appmenu-edit-profile =
