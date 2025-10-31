@@ -34,6 +34,7 @@ inactive-css-not-display-block-on-floated = The <strong>display</strong> value h
 inactive-css-not-display-block-on-floated-2 = The <strong>display</strong> value has been changed by the engine to <strong>{ $display }</strong> because the element is <strong>floated</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> has no effect because it cannot be used on grid or flex items.
 inactive-css-not-block = <strong>{ $property }</strong> has no effect on this element because it only applies to block-level elements.
+inactive-css-not-block-container = <strong>{ $property }</strong> has no effect on this element because it only applies to block container elements.
 inactive-css-not-floated = <strong>{ $property }</strong> has no effect because it only applies to floated elements.
 inactive-css-property-is-impossible-to-override-in-visited = It’s impossible to override <strong>{ $property }</strong> due to <strong>:visited</strong> restriction.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> has no effect on this element since it’s not a positioned element.

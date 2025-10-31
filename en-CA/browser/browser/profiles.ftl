@@ -95,6 +95,8 @@ profiles-light-theme = Light
 profiles-dark-theme = Dark
 # The default system theme
 profiles-system-theme = System
+profiles-system-theme-title =
+    .title = Apply system theme
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Marigold yellow
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -109,6 +111,47 @@ profiles-ocean-theme-2 = Ocean blue
 profiles-terracotta-theme-2 = Brick red
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Moss green
+profiles-gray-theme = Gray
+profiles-gray-theme-title =
+    .title = Apply grey theme
+profiles-yellow-theme = Yellow
+profiles-yellow-theme-title =
+    .title = Apply yellow theme
+profiles-orange-theme = Orange
+profiles-orange-theme-title =
+    .title = Apply orange theme
+profiles-red-theme = Red
+profiles-red-theme-title =
+    .title = Apply red theme
+profiles-pink-theme = Pink
+profiles-pink-theme-title =
+    .title = Apply pink theme
+profiles-purple-theme = Purple
+profiles-purple-theme-title =
+    .title = Apply purple theme
+profiles-violet-theme = Violet
+profiles-violet-theme-title =
+    .title = Apply violet theme
+profiles-blue-theme = Blue
+profiles-blue-theme-title =
+    .title = Apply blue theme
+profiles-green-theme = Green
+profiles-green-theme-title =
+    .title = Apply green theme
+profiles-cyan-theme = Cyan
+profiles-cyan-theme-title =
+    .title = Apply cyan theme
+profiles-custom-theme-title =
+    .title = Apply custom theme
+
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Data collection settings changed.</strong> The changes made in another profile apply to all profiles on this device.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = View settings
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Dismiss
 
 ## Alternative text for default profile icons
 
@@ -116,6 +159,8 @@ book-avatar-alt =
     .alt = Book
 briefcase-avatar-alt =
     .alt = Briefcase
+picture-avatar-alt =
+    .alt = Picture
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Craft
@@ -129,6 +174,8 @@ heart-avatar-alt =
     .alt = Heart
 heart-rate-avatar-alt =
     .alt = Heart rate
+clock-avatar-alt =
+    .alt = Clock
 leaf-avatar-alt =
     .alt = Leaf
 lightbulb-avatar-alt =
@@ -151,6 +198,8 @@ present-avatar-alt =
     .alt = Present
 shopping-avatar-alt =
     .alt = Shopping cart
+soccer-ball-avatar-alt =
+    .alt = Soccer ball
 sparkle-single-avatar-alt =
     .alt = Sparkle
 star-avatar-alt =
@@ -159,6 +208,9 @@ video-game-controller-avatar-alt =
     .alt = Video game controller
 custom-avatar-alt =
     .alt = Custom avatar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globe
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamond
@@ -171,6 +223,7 @@ bike-avatar-alt =
 
 book-avatar = Book
 briefcase-avatar = Briefcase
+clock-avatar = Clock
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar = Craft
 custom-avatar = Custom avatar
