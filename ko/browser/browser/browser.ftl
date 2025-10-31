@@ -424,8 +424,8 @@ quickactions-cmd-refresh = 새로 고침, refresh
 quickactions-restart = { -brand-short-name } 다시 시작
 quickactions-cmd-restart = 다시 시작, restart
 # Opens the screenshot tool
-quickactions-screenshot3 = 스크린샷 찍기
-quickactions-cmd-screenshot2 = screenshot, take a screenshot, 스크린샷, 스크린샷 찍기
+quickactions-screenshot3 = 스크린샷
+quickactions-cmd-screenshot2 = screenshot, take a screenshot, 스크린샷
 quickactions-cmd-screenshot = 스크린샷, screenshot
 # Opens about:preferences
 quickactions-settings2 = 설정 관리
