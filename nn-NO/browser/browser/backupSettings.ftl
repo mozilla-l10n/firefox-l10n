@@ -77,12 +77,15 @@ turn-on-scheduled-backups-confirm-button = Slå på sikkerheitskopiering
 turn-off-scheduled-backups-header = Slå på sikkerheitskopiering?
 turn-off-scheduled-backups-support-link = Les meir
 turn-off-scheduled-backups-cancel-button = Avbryt
+turn-off-scheduled-backups-confirm-button = Slå av og slett sikkerheitskopien
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Gjenopprett dataa dine
 restore-from-backup-support-link =
     .message = Kva vil bli gjenoppretta?
+restore-from-backup-filepicker-label = Sikkerheitskopieringsfil
+restore-from-backup-filepicker-title = Vel sikkerheitskopifil:
 restore-from-backup-password-label = Passord
 restore-from-backup-cancel-button = Avbryt
 
