@@ -36,7 +36,7 @@ settings-data-backup-last-backup-location = Position
 settings-data-backup-last-backup-location-show-in-folder = Monstrar in dossier
 settings-data-backup-last-backup-location-edit = Modificar…
 settings-data-create-backup-error = Un error ha occurrite durante le creation de tu copia de securitate le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
-settings-sensitive-data-encryption-description = Salveguarda tu contrasignos e tu methodos de pagamento, e in addition mantene tote tu datos secur con cryptation.
+settings-sensitive-data-encryption-description = Face un copia de securitate de tu contrasignos e tu methodos de pagamento, e mantene tote tu datos secur con cryptation.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nomine de file: { $fileName }
@@ -49,17 +49,17 @@ settings-data-backup-scheduled-backups-off-restore-choose = Elige un copia de se
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
-settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } desde lor ultime salveguarda.
+settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } desde lor ultime copia de securitate.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
-settings-data-toggle-encryption-label = Salveguardar tu datos sensibile
+settings-data-toggle-encryption-label = Facer un copia de securitate de tu datos sensibile
 settings-data-toggle-encryption-support-link = Pro saper plus
 settings-data-change-password = Cambiar contrasigno…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
-turn-on-scheduled-backups-header = Activar le salveguarda
+turn-on-scheduled-backups-header = Activar copia de securitate
 turn-on-scheduled-backups-description = { -brand-short-name } creara un instantaneo de tu datos cata 24 horas. Tu pote restaurar lo si il ha un problema o si tu usa un nove apparato.
-turn-on-scheduled-backups-support-link = Que essera salveguardate?
+turn-on-scheduled-backups-support-link = Que es includite in le copia de securitate?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Position
 # Variables:
@@ -71,24 +71,24 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Eliger…
        *[other] Navigar…
     }
-turn-on-scheduled-backups-encryption-label = Salveguarda tu datos sensibile
+turn-on-scheduled-backups-encryption-label = Facer un copia de securitate de tu datos sensibile
 turn-on-scheduled-backups-encryption-create-password-label = Contrasigno
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Repete le contrasigno
 turn-on-scheduled-backups-cancel-button = Cancellar
-turn-on-scheduled-backups-confirm-button = Activar le salveguarda
+turn-on-scheduled-backups-confirm-button = Activar copia de securitate
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
-turn-on-scheduled-backups-error-file-system = Un problema ha occurrite con tu dossier de salveguarda seligite. Elige un altere dossier e tenta lo de novo.
-backup-error-file-system = Un problema ha occurrite con tu dossier de salveguarda seligite durante le salveguarda de { -brand-short-name }.
+turn-on-scheduled-backups-error-file-system = Un problema ha occurrite con tu directorio de copia de securitate seligite. Elige un altere directorio e tenta lo de novo.
+backup-error-file-system = Un problema ha occurrite con le directorio que tu ha seligite durante que se faceva un copia de securitate de { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
-turn-off-scheduled-backups-header = Disactivar le salveguarda?
-turn-off-scheduled-backups-description = Isto alsi dele tote tu datos de salveguarda. Iste action es irreversibile.
+turn-off-scheduled-backups-header = Disactivar le copia de securitate?
+turn-off-scheduled-backups-description = Isto tamben dele tote tu datos del copia de securitate. Iste action es irreversibile.
 turn-off-scheduled-backups-support-link = Pro saper plus
 turn-off-scheduled-backups-cancel-button = Cancellar
-turn-off-scheduled-backups-confirm-button = Disactivar e deler salveguarda
+turn-off-scheduled-backups-confirm-button = Disactivar e deler copia de securitate
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
@@ -96,19 +96,19 @@ restore-from-backup-header = Restaurar tu datos
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
-    .message = Isto substituera tote tu datos actual de { -brand-short-name } con tu salveguarda del { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+    .message = Isto substituera tote tu datos actual de { -brand-short-name } con tu copia de securitate del { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = Que essera restaurate?
-restore-from-backup-no-backup-file-link = Ha tu problemas a trovar tu salveguarda?
-restore-from-backup-filepicker-label = File de salveguarda
-restore-from-backup-filepicker-title = Eliger file de salveguarda:
+restore-from-backup-no-backup-file-link = Ha tu problemas a trovar tu copia de securitate?
+restore-from-backup-filepicker-label = File de copia de securitate
+restore-from-backup-filepicker-title = Eliger file de copia de securitate:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Eliger…
        *[other] Navigar…
     }
 restore-from-backup-password-label = Contrasigno
-restore-from-backup-password-description = Isto disbloca tu salveguarda cryptate.
+restore-from-backup-password-description = Isto disbloca tu copia de securitate cryptate.
 restore-from-backup-cancel-button = Cancellar
 restore-from-backup-confirm-button = Restaurar e reinitialisar
 restore-from-backup-restoring-button = Restaurante…
@@ -125,7 +125,7 @@ backup-service-error-incorrect-password = Contrasigno incorrecte. <a data-l10n-n
 # backup file itself
 backup-service-error-corrupt-file =
     .heading = Iste file non functiona
-    .message = Il habeva un problema con tu file de salveguarda. Elige un differente file e retenta.
+    .message = Il habeva un problema con tu file de copia de securitate. Elige un altere file e tenta lo de novo.
 # The backup file cannot be restored. The currently running application may
 # be too old and may not support features in the backed up profile.
 # Alternatively, the backup file may be too old and some of the feature in
@@ -143,21 +143,16 @@ backup-service-error-unsupported-application =
 # errors, internal code errors, decryption errors, etc.
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } non poteva restaurar
-    .message = Reinitialisa { -brand-short-name } e retenta restaurar tu salveguarda.
+    .message = Reinitia { -brand-short-name } e tenta restaurar tu copia de securitate de novo.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =
     .heading = Hmm, un problema ha occurrite durante le salveguarda.
     .message = Tenta lo de novo in alcun minutas.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Un problema ha occurrite
-    .message = Il habeva un problema con le processo de salveguarda pro { -brand-short-name }. Retenta o reinitialisa { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
-enable-backup-encryption-header = Salveguarda tu datos sensibile
+enable-backup-encryption-header = Facer un copia de securitate de tu datos sensibile
 enable-backup-encryption-support-link = Pro saper plus
 enable-backup-encryption-create-password-label = Contrasigno
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
