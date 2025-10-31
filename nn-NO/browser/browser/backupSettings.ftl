@@ -86,11 +86,20 @@ restore-from-backup-support-link =
     .message = Kva vil bli gjenoppretta?
 restore-from-backup-filepicker-label = Sikkerheitskopieringsfil
 restore-from-backup-filepicker-title = Vel sikkerheitskopifil:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Vel…
+       *[other] Bla gjennom…
+    }
 restore-from-backup-password-label = Passord
+restore-from-backup-password-description = Dette låser opp den krypterte sikkerheitskopien din.
 restore-from-backup-cancel-button = Avbryt
+restore-from-backup-confirm-button = Gjenopprett og start på nytt
+restore-from-backup-restoring-button = Gjenopprettar…
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Sikkerheitskopier sensitive data
 enable-backup-encryption-support-link = Les meir
 enable-backup-encryption-create-password-label = Passord
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
