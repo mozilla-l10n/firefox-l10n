@@ -49,3 +49,5 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Tak for at du hjælper { -brand-product-name } med at gøre internettet mere åbent, mere tilgængeligt og bedre for alle.
 report-broken-site-panel-invalid-url-label = Indtast en gyldig URL
 report-broken-site-panel-missing-reason-label = Vælg en årsag
+report-broken-site-panel-blocked-trackers-label =
+    .label = Send URL'er blokeret af beskyttelse mod sporing

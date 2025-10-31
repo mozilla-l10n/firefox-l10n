@@ -26,12 +26,14 @@ profile-card =
 default-profile-name = Profil { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Oprindelig profil
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = Rediger profil
 edit-profile-page-header = Rediger din profil
 edit-profile-page-profile-name-label = Profilnavn
 edit-profile-page-theme-header-2 =
     .label = Tema
 edit-profile-page-explore-themes = Udforsk flere temaer
+edit-profile-page-desktop-shortcut-header = Opret skrivebordsgenvej
 edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
@@ -261,6 +263,8 @@ custom-avatar-crop-area =
     .aria-label = Tilpas område for beskæring
 custom-avatar-drag-handle =
     .aria-label = Ændr størrelsen på beskæringsområdet
+profiles-appmenu-callout-tour-title = Din nye profil er klar til brug
+profiles-appmenu-callout-tour-primary-button = Vis mig hvordan
 barbell-avatar = Vægtstang
 bike-avatar = Cykel
 

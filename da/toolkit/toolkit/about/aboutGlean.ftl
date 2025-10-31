@@ -152,6 +152,20 @@ about-glean-metrics-table-header-type = Type
 about-glean-metrics-table-header-value = Værdi
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Handlinger
+about-glean-metrics-table-settings-button = Indstillinger
+about-glean-metrics-table-settings-category-general = Generelt
+about-glean-metrics-table-settings-category-visualizations = Visualiseringer
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Eksempel
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-box-padding = Boks-padding
+about-glean-metrics-table-settings-histograms-chart-padding = Diagram-padding
+about-glean-metrics-table-settings-category-visualizations-timeline = Tidslinje
+about-glean-metrics-table-settings-timelines-height = Højde
+about-glean-metrics-table-settings-timelines-width = Bredde
+about-glean-metrics-table-settings-timelines-chart-padding = Diagram-padding
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Cirkelradius
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtrer
 # This message sits alongside an input field, further describing its purpose.
@@ -180,3 +194,8 @@ about-glean-disable-new-features-button = Deaktiver nye funktioner
 about-glean-about-data-explanation =
     Konsulter <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbogen</a> for at gennemse 
     listen med indsamlede data.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Indbyggede pings

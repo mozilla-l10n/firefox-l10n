@@ -230,6 +230,13 @@ fox-doodle-pin-secondary = Ikke nu
 set-default-pdf-handler-headline = <strong>PDF-filer åbnes nu i { -brand-short-name }.</strong> Rediger eller udfyld formularer direkte i browseren. Søg efter "PDF" i indstillinger, hvis du vil ændre dette.
 set-default-pdf-handler-primary = Forstået
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-primary-cta =
+    .label = Brug som standard
+annotations-make-default-pdf-next =
+    .label = Næste
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Skal du snart have en ny enhed?

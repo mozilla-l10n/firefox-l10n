@@ -598,6 +598,7 @@ home-new-windows-tabs-description2 = Vælg hvad du vil se, når du åbner din st
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startside og nye vinduer
+home-homepage-mode-label2 = Nye vinduer
 home-newtabs-mode-label = Nye faneblade
 home-restore-defaults =
     .label = Gendan standarder
@@ -610,6 +611,9 @@ home-mode-choice-blank =
     .label = Tom side
 home-homepage-custom-url =
     .placeholder = Indsæt en URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Håndter udvidelse
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -624,10 +628,25 @@ use-current-pages =
 choose-bookmark =
     .label = Anvend bogmærke…
     .accesskey = b
+home-homepage-header = Startside
+
+## Custom Homepage subpage
+
+home-custom-homepage-address =
+    .placeholder = Indtast adresse
+home-custom-homepage-address-button =
+    .label = Tilføj adresse
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Erstat med
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Bogmærker…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Indhold på { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Vælg det indhold, du vil have vist på din { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Søgning på internettet
@@ -683,6 +702,7 @@ home-prefs-support-firefox-header =
     .label = Støt { -brand-product-name }
 home-prefs-mission-message = Vores sponsorer støtter vores mission om at bygge et bedre internet
 home-prefs-mission-message-learn-more-link = Find ud af hvordan
+home-prefs-choose-wallpaper-link = Vælg en baggrund
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1227,6 +1247,8 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adressefelt
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Når jeg bruger adressefeltet ønsker jeg forslag fra
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adressefelt — { -firefox-suggest-brand-name }
