@@ -147,8 +147,13 @@ backup-service-error-recovery-failed =
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =
-    .heading = Hmm, un problema ha occurrite durante le salveguarda.
+    .heading = Hmm, un problema ha occurrite durante creation del copia de securitate.
     .message = Tenta lo de novo in alcun minutas.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Un problema ha occurrite
+    .message = Il habeva un problema con le processo de copia de securitate pro { -brand-short-name }. Tenta lo de novo o reinitia { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -159,7 +164,7 @@ enable-backup-encryption-create-password-label = Contrasigno
 enable-backup-encryption-repeat-password-label = Repete le contrasigno
 enable-backup-encryption-cancel-button = Cancellar
 enable-backup-encryption-confirm-button = Salvar
-change-backup-encryption-header = Cambiar contrasigno de salveguarda
+change-backup-encryption-header = Cambiar le contrasigno del copia de securitate
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
@@ -180,8 +185,8 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Remover protection de contrasignos
-disable-backup-encryption-description2 = Tu contrasignos e methodos de pagamento non sera plus salveguardate.
-disable-backup-encryption-support-link = Que essera salveguardate?
+disable-backup-encryption-description2 = Tu contrasignos e methodos de pagamento non essera plus includite in le copia de securitate.
+disable-backup-encryption-support-link = Que es includite in le copia de securitate?
 disable-backup-encryption-cancel-button = Cancellar
 disable-backup-encryption-confirm-button = Remover contrasigno
 
@@ -203,7 +208,7 @@ backup-error-retry = Un problema ha occurrite. Tenta lo de novo.
 backup-file-header = { -brand-short-name } es preste a esser restaurate
 backup-file-title = Restaurar { -brand-short-name }
 backup-file-intro = Retorna a navigar e recuperar tote tu marcapaginas, chronologia, e altere datos. <a data-l10n-name="backup-file-support-link">Pro saper plus</a>
-backup-file-path-label = File de salveguarda:
+backup-file-path-label = File de copia de securitate:
 backup-file-encryption-state-label = Cryptate:
 backup-file-encryption-state-value-encrypted = Si
 backup-file-encryption-state-value-not-encrypted = No
@@ -216,14 +221,14 @@ backup-file-how-to-restore-header = Como restaurar:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Aperi le menu del application ☰ e va a Parametros > Synchronisar
-backup-file-moz-browser-restore-step-2 = Cliccar “Eliger file de salveguarda” e elige iste file
+backup-file-moz-browser-restore-step-2 = Clicca sur “Eliger file de copia de securitate” e selige iste file
 backup-file-moz-browser-restore-step-3 = Reinitialisa { -brand-short-name } quando demandate
 backup-file-other-browser-restore-step-1 = Discarga e installa { -brand-short-name }
 backup-file-download-moz-browser-button = Discargar
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Lancea { -brand-short-name }, aperi le menu del application ☰ e va a Parametros > Synchronisar
-backup-file-other-browser-restore-step-3 = Clicca “Eliger file de salveguarda” e elige iste file
+backup-file-other-browser-restore-step-3 = Clicca sur “Eliger file de copia de securitate” e selige iste file
 backup-file-other-browser-restore-step-4 = Reinitialisa { -brand-short-name } quando demandate
 
 ## These strings are used in the about:restore and about:welcome pages
@@ -234,8 +239,8 @@ backup-file-other-browser-restore-step-4 = Reinitialisa { -brand-short-name } qu
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds =
     { $numberOfOtherBackupsFound ->
-        [one] <b>Nota:</b> { $numberOfOtherBackupsFound } altere file de salveguarda trovate
-       *[other] <b>Nota:</b> { $numberOfOtherBackupsFound } altere files de salveguarda trovate
+        [one] <b>Nota:</b> { $numberOfOtherBackupsFound } altere file de copia de securitate trovate
+       *[other] <b>Nota:</b> { $numberOfOtherBackupsFound } altere files de copia de securitate trovate
     }
 # Variables:
 #   $date (Datetime) - The date the backup was created

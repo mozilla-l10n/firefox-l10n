@@ -481,20 +481,20 @@ desktop-to-mobile-qr-code-alt =
 
 create-backup-screen-1-title =
     Actualisa tu a Windows 11?
-    Que nos salveguarda tu datos de { -brand-product-name }.
+    Que nos face un copia de securitate de tu datos de { -brand-product-name }.
 create-backup-screen-1-subtitle = Protege automaticamente tu contrasignos, marcapaginas, e plus in 1–2 minutas.
 create-backup-screen-1-flair = Recommendate
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Pro saper plus</a>
 create-backup-screen-1-sync-label = Synchronisar con { -brand-product-name }
-create-backup-screen-1-sync-body = Salveguardar tote le apparatos connexe
-create-backup-screen-1-backup-label = Salveguardar sur le computator
+create-backup-screen-1-sync-body = Facer copia de securitate de tote le apparatos in session
+create-backup-screen-1-backup-label = Facer un copia de securitate sur le computator
 create-backup-screen-1-backup-body = Salva a tu apparato o a OneDrive
 create-backup-select-tile-button-label = Seliger
 create-backup-back-button-label = Retro
 create-backup-show-fewer =
     .label = Monstrar minus como isto
-create-backup-screen-2-title = Elige le datos de { -brand-product-name } a salveguardar
-create-backup-screen-2-subtitle = Il prende solo un minuta. Tu datos es salveguardate un vice per die.
+create-backup-screen-2-title = Elige le datos de { -brand-product-name } pro facer un copia de securitate
+create-backup-screen-2-subtitle = Il prende solo un minuta. Le copia de securitate de tu datos se face un vice per die.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Configuration facile
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
@@ -510,7 +510,7 @@ create-backup-screen-2-all-list-2 = Include contrasignos e pagamentos
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Cryptate con un contrasigno
 # Title for a screen asking users to choose a file location
-create-backup-screen-3-location = Ubi vole tu tu salveguarda salvate?
+create-backup-screen-3-location = Ubi vole tu salvar tu copia de securitate?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Crear un file contrasigno de reserva
 create-backup-screen-3-subtitle = Immagazina lo in un posto que tu memorara.
@@ -522,7 +522,7 @@ fx-backup-opt-in-cancel-btn-label = Retro
 
 ## Fx Backup confirmation screen strings
 
-fx-backup-confirmation-screen-title = Tu salveguarda es programmate
+fx-backup-confirmation-screen-title = Tu copia de securitate es programmate
 fx-backup-confirmation-screen-close-button = Clauder
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
@@ -534,12 +534,12 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Marcapaginas, chronologia
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Salvate a tu apparato
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Contrasignos e pagamentos non includite
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Va a <a data-l10n-name="settings">Parametros</a> pro includer datos sensibile.
-fx-backup-confirmation-screen-item-subtext-1 = Tu salveguarda comenciara in alcun minutas e essera exequite un vice per die. Tu pote verificar le progresso in <a data-l10n-name="settings">Parametros</a>.
-fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } cercara tu salveguarda si tu debe reinstallar.
+fx-backup-confirmation-screen-item-subtext-1 = Le copia de securitate comenciara in alcun minutas e essera exequite un vice per die. Tu pote verificar le progresso in <a data-l10n-name="settings">Parametros</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } cercara tu copia de securitate si tu debe reinstallar.
 
 ## Restore from Backup Flow about:welcome screens
 
-restore-from-backup-secondary-top-button = Restaurar ab le copia de salveguarda
+restore-from-backup-secondary-top-button = Restaurar ab le copia de securitate
 restore-from-backup-title = Que nos reobtene { -brand-short-name } como illo te place
 restore-from-backup-subtitle = Recupera tote tu marcapaginas, chronologia, e altere datos pro retornar a navigar.
 restore-from-backup-secondary-button = Non restaurar
@@ -548,12 +548,12 @@ restore-from-backup-secondary-button = Non restaurar
 
 restored-from-backup-success-title = Nos es retro! Le datos de tu { -brand-short-name } ha essite restaurate.
 restored-from-backup-success-with-checklist-subtitle = Vole tu tener tu navigator preferite e attente al confidentialitate a portata de clic?
-restored-from-backup-success-no-checklist-subtitle = Tu pote activar le preservation de salveguarda pro iste apparato in <a data-l10n-name="settings">Parametros</a>.
+restored-from-backup-success-no-checklist-subtitle = Tu pote activar le copia de securitate pro iste apparato in <a data-l10n-name="settings">Parametros</a>.
 restored-from-backup-success-with-checklist-primary-button = Salvar e continuar
 restored-from-backup-success-with-checklist-secondary-button = Saltar iste passo
 restored-from-backup-success-no-checklist-primary-button = Continuar
-restored-from-backup-error-title = Hmm, il habeva un problema con tu file de salveguarda.
-restored-from-backup-error-subtitle = Si tu ha un altere file de salveguarda de { -brand-short-name }, tenta restaurar ab illo. <a data-l10n-name="restore-problems">Ancora ha tu problemas?</a>
+restored-from-backup-error-title = Hmm, il habeva un problema con tu file de copia de securitate.
+restored-from-backup-error-subtitle = Si tu ha un altere file de copia de securitate de { -brand-short-name }, tenta restaurar ab illo. <a data-l10n-name="restore-problems">Ha tu ancora problemas?</a>
 restored-from-backup-error-primary-button = Clauder
 
 ## Onboarding Personalization Screen
