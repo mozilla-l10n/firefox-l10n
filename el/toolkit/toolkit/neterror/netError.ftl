@@ -175,3 +175,5 @@ neterror-response-status-code = Κωδικός σφάλματος: { $responsest
 fp-neterror-connection-intro = Το { -brand-short-name } δεν μπορεί να δημιουργήσει ασφαλή σύνδεση με τον διακομιστή στο { $hostname }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Φαίνεται ότι αυτός ο ιστότοπος χρησιμοποιεί παλιό λογισμικό με γνωστά ζητήματα ασφαλείας.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Βεβαιωθείτε ότι χρησιμοποιείτε την πιο πρόσφατη έκδοση του { -brand-short-name }. Επιλέξτε «Βοήθεια» > «Σχετικά με το { -brand-short-name }» στο μενού. Εάν χρησιμοποιείτε το πιο πρόσφατο { -brand-short-name }, το πρόβλημα οφείλεται κατά πάσα πιθανότητα στον ίδιο τον ιστότοπο.
