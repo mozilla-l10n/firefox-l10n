@@ -19,6 +19,8 @@ backup-folder-name = Gendan { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }_sikkerhedskopi
+settings-data-backup-header = Sikkerhedskopiering
+settings-data-backup-toggle = Håndter sikkerhedskopiering
 settings-data-backup-toggle-on = Slå sikkerhedskopiering til
 settings-data-backup-toggle-off = Slå sikkerhedskopiering fra
 settings-data-backup-trigger-button = Sikkerhedskopier nu
@@ -54,6 +56,7 @@ settings-data-change-password = Skift adgangskode…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Slå sikkerhedskopiering til
+turn-on-scheduled-backups-support-link = Hvad bliver sikkerhedskopieret?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Placering
 # Variables:
@@ -65,30 +68,81 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Vælg…
        *[other] Gennemse…
     }
+turn-on-scheduled-backups-encryption-label = Sikkerhedskopier dine følsomme data
 turn-on-scheduled-backups-encryption-create-password-label = Adgangskode
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Gentag adgangskode
 turn-on-scheduled-backups-cancel-button = Annuller
+turn-on-scheduled-backups-confirm-button = Slå sikkerhedskopiering til
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Der opstod et problem med mappen, du har valgt at gemme sikkerhedskopier i. Vælg en anden mappe og prøv igen.
+backup-error-file-system = Under sikkerhedskopiering af { -brand-short-name } opstod der et problem med den mappe, du har valgt at gemme sikkerhedskopier i.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Slå sikkerhedskopiering fra?
+turn-off-scheduled-backups-description = Dette sletter også alle dine sikkerhedskopierede data. Handlingen kan ikke fortrydes.
+turn-off-scheduled-backups-support-link = Læs mere
 turn-off-scheduled-backups-cancel-button = Annuller
+turn-off-scheduled-backups-confirm-button = Slå fra og slet sikkerhedskopi
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Gendan dine data
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Dette vil erstatte alle dine aktuelle { -brand-short-name }-data med din sikkerhedskopi gemt den { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Hvad bliver gendannet?
+restore-from-backup-no-backup-file-link = Har du problemer med at finde din sikkerhedskopi?
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Vælg…
        *[other] Gennemse…
     }
 restore-from-backup-password-label = Adgangskode
+restore-from-backup-password-description = Dette låser din krypterede sikkerhedskopi op.
 restore-from-backup-cancel-button = Annuller
 restore-from-backup-confirm-button = Gendan og genstart
 restore-from-backup-restoring-button = Gendanner…
 
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Forkert adgangskode. <a data-l10n-name="incorrect-password-support-link">Har du stadig problemer?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Filen virker ikke
+    .message = Der var et problem med din sikkerhedskopi. Vælg en anden fil og prøv igen.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Filen virker ikke.
+    .message = Filen, du har valgt, er ikke kompatibel med denne version af { -brand-short-name }. Vælg en anden fil og prøv igen.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } kunne ikke gendannes.
+    .message = Genstart { -brand-short-name } og prøv at gendanne fra din sikkerhedskopi igen.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Noget gik galt.
+    .message = Der opstod et problem med sikkerhedskopierings-processen for { -brand-short-name }. Prøv igen eller genstart { -brand-short-name }.
+
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Sikkerhedskopier dine følsomme data
+enable-backup-encryption-support-link = Læs mere
 enable-backup-encryption-create-password-label = Adgangskode
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Gentag adgangskode
