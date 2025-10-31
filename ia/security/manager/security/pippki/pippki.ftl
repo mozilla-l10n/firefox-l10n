@@ -93,13 +93,13 @@ client-auth-cert-remember-temporarily =
 ## Set password (p12) dialog
 
 set-password-window =
-    .title = Elige un contrasigno de salveguarda de certificato
-set-password-message = Le contrasigno de salveguarda del certificato que tu ha definite hic protege le file de salveguarda que tu es a crear.  Tu debe definir iste contrasigno pro proceder con le salveguarda.
+    .title = Elige un contrasigno pro le copia de securitate del certificato
+set-password-message = Le contrasigno pro le copia de securitate del certificato que tu defini hic protege le file de copia de securitate que tu es sur le puncto de crear. Tu debe definir iste contrasigno pro continuar con le copia de securitate.
 set-password-backup-pw =
-    .value = Contrasigno de salveguarda del certificato:
+    .value = Contrasigno del copia de securitate del certificato:
 set-password-repeat-backup-pw =
-    .value = Contrasigno de salveguarda del certificato (novemente):
-set-password-reminder = Importante: Si tu oblida le contrasigno de tu copia de reserva del certificato, tu non potera restaurar iste copia de reserva plus tarde. Per favor guarda lo in un loco secur.
+    .value = Contrasigno del copia de securitate del certificato (novemente):
+set-password-reminder = Importante: Si tu oblida le contrasigno de tu copia de securitate del certificato, tu non potera restaurar iste copia de securitate plus tarde. Per favor guarda lo in un loco secur.
 
 ## Protected authentication alert
 
