@@ -97,6 +97,15 @@ restore-from-backup-cancel-button = Avbryt
 restore-from-backup-confirm-button = Gjenopprett og start på nytt
 restore-from-backup-restoring-button = Gjenopprettar…
 
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Noko gjekk gale
+    .message = Det oppstod eit problem med sikkerheitskopieringsprosessen for { -brand-short-name }. Prøv igjen eller start { -brand-short-name } på nytt.
+
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Sikkerheitskopier sensitive data
@@ -123,6 +132,8 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-header = Fjern passordvern
+disable-backup-encryption-support-link = Kva vert sikkerheitskopiert?
 disable-backup-encryption-cancel-button = Avbryt
 disable-backup-encryption-confirm-button = Fjern passord
 
