@@ -116,6 +116,8 @@ options-disable-http-cache-label = Zakázat mezipaměť (když jsou nástroje ot
 options-disable-http-cache-tooltip =
     .title = Zapnutím této volby bude mezipaměť HTTP vypnuta pro všechny panely, které mají otevřené nástroje. Service Workers nejsou touto volbou ovlivněny.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Zakázat JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Zakázat JavaScript *
 options-disable-javascript-tooltip =
     .title = Přepnutí této volby zakáže pro aktuální panel JavaScript. Jakmile bude panel nebo nástroje uzavřeny, bude nastavení zapomenuto.
@@ -144,4 +146,10 @@ options-source-maps-label = Povolit zdrojové mapy
 options-source-maps-tooltip =
     .title = Pokud tuto volbu zapnete, zdroje voleb budou mapované v nástrojích.
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (pouze aktuální relace, znovu načte stránku)
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Pouze aktuální relace, znovu načte stránku
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = (znovu načte stránku)
