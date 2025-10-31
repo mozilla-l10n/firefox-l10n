@@ -49,6 +49,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Επιλογή αν�
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Ανακτήστε τα δεδομένα του { -brand-product-name } από την τελευταία φορά που δημιουργήθηκε αντίγραφο ασφαλείας.
 settings-data-backup-scheduled-backups-on-restore-choose = Επαναφορά…
 settings-data-toggle-encryption-label = Αντίγραφο ασφαλείας ευαίσθητων δεδομένων
 settings-data-toggle-encryption-support-link = Μάθετε περισσότερα
@@ -92,6 +93,10 @@ turn-off-scheduled-backups-confirm-button = Απενεργοποίηση και 
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Επαναφορά δεδομένων
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Αυτή η ενέργεια θα αντικαταστήσει όλα τα τρέχοντα δεδομένα σας στο { -brand-short-name } με το αντίγραφο ασφαλείας από τις { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = Τι θα ανακτηθεί;
 restore-from-backup-no-backup-file-link = Αντιμετωπίζετε πρόβλημα με την εύρεση του αντιγράφου ασφαλείας σας;
@@ -144,6 +149,11 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Προέκυψε πρόβλημα κατά τη δημιουργία αντιγράφου ασφαλείας.
     .message = Δοκιμάστε ξανά σε λίγα λεπτά.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Κάτι πήγε στραβά
+    .message = Προέκυψε πρόβλημα με τη διαδικασία δημιουργίας αντιγράφου ασφαλείας για το { -brand-short-name }. Δοκιμάστε ξανά ή επανεκκινήστε το { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -175,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Αφαίρεση προστασίας με κωδικό πρόσβασης
+disable-backup-encryption-description2 = Δεν θα δημιουργούνται πλέον αντίγραφα ασφαλείας των αποθηκευμένων κωδικών πρόσβασης και των μεθόδων πληρωμής.
 disable-backup-encryption-support-link = Ποια δεδομένα θα περιλαμβάνονται;
 disable-backup-encryption-cancel-button = Ακύρωση
 disable-backup-encryption-confirm-button = Αφαίρεση κωδικού πρόσβασης
@@ -235,3 +246,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Δημιουργήθηκε στις { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } στο { $machineName }
+backup-file-restore-file-validation-error = Αυτό το αρχείο δεν λειτουργεί. Δοκιμάστε να επιλέξετε ένα άλλο αρχείο. <a data-l10n-name="restore-problems">Αντιμετωπίζετε ακόμα προβλήματα;</a>

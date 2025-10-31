@@ -115,9 +115,15 @@ fxa-adoption-passwords-primary-button-label = Εγγραφή
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Διατηρήστε τις αγαπημένες σας ροές στη γραμμή εργασιών
+taskbar-tabs-social-callout-subtitle = Εκκινήστε τους ιστοτόπους κοινωνικής δικτύωσης σαν εφαρμογές, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Συνομιλία από τη γραμμή εργασιών
+taskbar-tabs-chat-callout-subtitle = Εκκινήστε τους ιστοτόπους συνομιλίας σαν εφαρμογές, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
 taskbar-tabs-email-callout-title = Κρατήστε το email σας στη γραμμή εργασιών
+taskbar-tabs-email-callout-subtitle = Εκκινήστε τους ιστοτόπους ηλεκτρονικής αλληλογραφίας σαν εφαρμογές, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
+taskbar-tabs-media-callout-title = Επιστρέψτε στη ροή από τη γραμμή εργαλείων
+taskbar-tabs-media-callout-subtitle = Εκκινήστε τους ιστοτόπους ροής σαν εφαρμογές, σε ένα απλοποιημένο παράθυρο με προστασία από το { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Προσθήκη αυτού του ιστοτόπου στη γραμμή εργασιών
+taskbar-tabs-value-prop-callout-subtitle = Εκκινήστε το σε δικό του παράθυρο με απλοποιημένο περιβάλλον χρήστη, με ένα μόνο κλικ.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -146,6 +152,7 @@ windows-10-eos-sync-callout-primary-advance-button-label = Επόμενο
 ## Link Preview Onboarding message callout strings
 
 link-preview-onboarding-callout-title = Νέο: Κάντε κλικ παρατεταμένα για προεπισκόπηση συνδέσμων
+link-preview-onboarding-callout-description = Δείτε μια σύντομη περιγραφή, τον χρόνο ανάγνωσης και πολλά άλλα για να αποφασίσετε αν ένας ιστότοπος αξίζει το κλικ. Διαθέσιμο και μέσω δεξιού κλικ.
 
 ## Sidebar Strings
 

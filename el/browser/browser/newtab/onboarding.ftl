@@ -513,6 +513,7 @@ create-backup-screen-2-all-list-3 = Κρυπτογράφηση με κωδικό
 create-backup-screen-3-location = Πού θέλετε να αποθηκευτεί το αντίγραφο ασφαλείας σας;
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Δημιουργία κωδικού πρόσβασης αντιγράφου ασφαλείας
+create-backup-screen-3-subtitle = Απαιτείται για την κρυπτογράφηση των δεδομένων σας. Αποθηκεύστε τον σε ένα μέρος που θα θυμάστε.
 fx-backup-opt-in-header = Επιλογή τοποθεσίας αρχείου
 fx-backup-opt-in-filepath-label = Επιλέξτε ένα μέρος που σκοπεύετε να μεταφέρετε σε μια νέα συσκευή, όπως το OneDrive.
 fx-backup-opt-in-create-password-label = Εισαγωγή κωδικού πρόσβασης
