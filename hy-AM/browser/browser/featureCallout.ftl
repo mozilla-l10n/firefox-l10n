@@ -96,6 +96,7 @@ fxa-adoption-passwords-primary-button-label = Գրանցվել
 taskbar-tabs-social-callout-title = Պահեք ձեր ընտրյալ սնուցիչները  խնդրագոտում
 taskbar-tabs-social-callout-subtitle = Գործարկեք ձեր սոցիալական կայքերը հավելվածի նման՝ { -brand-short-name }-ով պաշտպանված, հարմարեցված պատուհանում։
 taskbar-tabs-email-callout-title = Պահեք ձեր էլ. փոստը ձեր առաջադրանքների տողում
+taskbar-tabs-value-prop-callout-title = Ավելացրել այս կայքը Ձեր խնդրագոտուն
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

@@ -1407,6 +1407,7 @@ trustpanel-blocker-section-header =
         [one] <span>{ $count } </span> Հետագծիչ արգելափակված է այս կայքում
        *[other] <span>{ $count } </span> Հետագծիչներ արգելափակված են այս կայքում
     }
+trustpanel-insecure-section-header = Ձեր միացումն անվտանգ չէ
 trustpanel-list-label-tracking-content = Հետագծվող բովանդակություն
 trustpanel-list-label-fingerprinter =
     { $count ->

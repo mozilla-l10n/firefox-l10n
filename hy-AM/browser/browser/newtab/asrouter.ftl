@@ -134,6 +134,11 @@ spotlight-public-wifi-vpn-link = Ոչ հիմա
 
 spotlight-better-internet-header = Լավ համացանցը սկսվում է Ձեզանից
 spotlight-peace-mind-header = Մենք ձեզ համար ամեն ինչ ունենք
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Պահել Dock-ում
+       *[other] Ամրացնել խնդրագոտուն
+    }
 spotlight-pin-secondary-button = Ոչ հիմա
 
 ## MR2022 Background Update Windows native toast notification strings.

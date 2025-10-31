@@ -323,6 +323,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Միշտ հարցնել ֆայլերը պահպանելու տեղը
     .accesskey = A
+download-private-browsing-delete =
+    .label = Ջնջել գաղտնի դիտարկման մեջ ներբեռնված ֆայլերը, երբ բոլոր գաղտնի պատուհանները փակվեն
+    .accesskey = Ջ
 applications-header = Ծրագրեր
 applications-description = Ընտրեք, թե ինչպես { -brand-short-name }-ը վարվի ձեր ներբեռնած ֆայլերի կամ դիտարկումների ժամանակ ձեր կողմից օգտագործվող հավելվածների հետ:
 applications-filter =
@@ -634,6 +637,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդյունքներում
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = Ցուցադրել որոնման եզրույթները արդյունքների էջերի վրայի հասցեագոտում
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

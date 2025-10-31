@@ -173,6 +173,10 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-alert-list =
     .aria-label = Ծանուցումների ցանկ
 contextual-manager-passwords-change-password-button = Փոխել գաղտնաբառը
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Ավելացնել օգտանունը
+    .message = Ավելացնել՝ արագ մուտք գործելու համար
+contextual-manager-passwords-add-username-button = Ավելացնել օգտանուն
 contextual-manager-passwords-title = Գաղտնաբառեր
 
 ## Login Form

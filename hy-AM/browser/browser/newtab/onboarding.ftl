@@ -300,6 +300,7 @@ onboarding-device-migration-primary-button-label = Մուտք գործել
 
 ## Add-ons Picker screen
 
+amo-picker-title = Հարմարեցնել Ձեր { -brand-short-name }-ը
 amo-picker-install-button-label = Հավելել { -brand-short-name }-ին
 amo-picker-install-complete-label = Տեղադրվեց
 amo-picker-collection-link = Ուսումնասիրեք ավելի շատ հավելումներ
@@ -443,6 +444,7 @@ restored-from-backup-success-with-checklist-primary-button = Պահել և շա�
 restored-from-backup-success-with-checklist-secondary-button = Բաց թողեք այս քայլը
 restored-from-backup-success-no-checklist-primary-button = Շարունակել
 restored-from-backup-error-title = Հըմ, ձեր պահուստային ֆայլի հետ կապված խնդիր կար։
+restored-from-backup-error-primary-button = Փակել
 
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser

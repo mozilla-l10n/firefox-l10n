@@ -217,6 +217,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Հիշել այս որոշումը
+webrtc-remember-allow-checkbox-camera = Հիշել բոլոր տեսախցիկների համար
+webrtc-remember-allow-checkbox-microphone = Հիշել բոլոր խոսափողների համար
+webrtc-remember-allow-checkbox-camera-and-microphone = Հիշել բոլոր տեսախցիկների և խոսափողների համար
 webrtc-mute-notifications-checkbox = Տարածելիս անջատել կայքի ծանուցումները
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name }-ը չի կարող թույլատրել մշտական մատչում ձեր էկրանին:
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name }-ը կարող է չթույատրել մշտական մատչում Ձեր ներդիրների ձայնանյութին՝ առանց հարցնելու, թե որ ներդիրը համօգտագործել։

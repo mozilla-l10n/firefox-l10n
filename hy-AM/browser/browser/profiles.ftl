@@ -97,8 +97,11 @@ multiprofile-data-collection-dismiss = Բաց թողնել
 
 book-avatar-alt =
     .alt = Գիրք
+clock-avatar-alt =
+    .alt = Ժամացույց
 
 ## Tooltips for default avatar icons
 
+book-avatar = Գիրք
 shopping-avatar = Զամբյուղ
 star-avatar = Աստղ
