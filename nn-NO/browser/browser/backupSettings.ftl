@@ -29,11 +29,13 @@ settings-data-backup-in-progress-message =
     .message = Sikkerheitskopiering i framdrift…
 settings-data-backup-scheduled-backups-on = Sikkerheitskopiering: PÅ
 settings-data-backup-scheduled-backups-off = Sikkerheitskopiering: AV
+settings-data-backup-scheduled-backups-description = Vern bokmerka, historikken og andre data automatisk. <a data-l10n-name="support-link">Finn ut meir</a>
 settings-data-backup-last-backup-date = Siste sikkerheitskopi: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Plassering
 settings-data-backup-last-backup-location-show-in-folder = Vis i mappe
 settings-data-backup-last-backup-location-edit = Rediger…
+settings-data-create-backup-error = Det oppstod ein feil under oppretting av sikkerheitskopien din den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Filnamn: { $fileName }
@@ -41,6 +43,7 @@ settings-data-backup-restore-header = Gjenopprett dataa dine
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
+settings-data-backup-scheduled-backups-off-restore-description = Bruk ein { -brand-product-name }-sikkerheitskopi frå ei anna eining for å gjenopprette dataa dine.
 settings-data-backup-scheduled-backups-off-restore-choose = Vel ei sikkerheitskopieringsfil…
 
 ## These strings are shown under the header if scheduled backups are enabled.
