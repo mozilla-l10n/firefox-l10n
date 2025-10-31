@@ -545,6 +545,7 @@ restored-from-backup-error-primary-button = Lat att
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-use-case-title = Kva skal du bruke { -brand-short-name } til?
 onboarding-personalization-use-case-personal-option = Personleg
 onboarding-personalization-use-case-school-option = Skule
 onboarding-personalization-use-case-work-option = Arbeid

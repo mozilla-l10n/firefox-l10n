@@ -155,3 +155,13 @@ backup-file-creation-date-label = Oppretta:
 backup-file-how-to-restore-header = Korleis gjenopprette:
 backup-file-other-browser-restore-step-1 = Last ned og installer { -brand-short-name }
 backup-file-download-moz-browser-button = Last ned
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Oppretta den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
+backup-file-restore-file-validation-error = Denne fila fungerer ikkje. Prøv å velje ei anna fil. <a data-l10n-name="restore-problems">Har du framleis problem?</a>
