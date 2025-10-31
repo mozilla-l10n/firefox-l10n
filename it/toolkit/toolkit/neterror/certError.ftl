@@ -107,6 +107,12 @@ fp-cert-error-code = Codice di errore: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } non ritiene { $hostname } attendibile in quanto non è riuscito a dimostrare di soddisfare i requisiti di trasparenza per certificati pubblici.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Probabilmente nulla, poiché è probabile che il problema dipenda dal sito stesso.
 fp-learn-more-about-secure-connection-failures = Scopri di più sugli errori relativi alle connessioni sicure
 fp-learn-more-about-cert-issues = Scopri di più su questo tipo di problemi relativi ai certificati
 fp-learn-more-about-time-related-errors = Scopri di più sulla risoluzione dei problemi relativi a data e ora
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Nascondi avanzate
 fp-certerror-override-exception-button = Procedi su { $hostname } (rischioso)
 fp-certerror-intro = { -brand-short-name } ha rilevato un potenziale problema di sicurezza con <strong>{ $hostname }</strong>. Un soggetto che finge di essere il sito potrebbe cercare di rubare informazioni su carte di credito, password o email.
 fp-certerror-expired-into = { -brand-short-name } ha rilevato un problema di sicurezza con <strong>{ $hostname }</strong>. Il sito non è configurato correttamente o l’orologio del dispositivo è impostato su una data/ora sbagliata.
+fp-certerror-transparency-intro = Un soggetto che finge di essere <strong>{ $hostname }</strong> potrebbe cercare di rubare dettagli come informazioni sulle carte di credito, password o email.

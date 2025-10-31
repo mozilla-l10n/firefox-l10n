@@ -113,6 +113,7 @@ extension-controlling-proxy-config = Le impostazioni di { -brand-short-name } re
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Per attivare questa estensione aprire Componenti aggiuntivi <img data-l10n-name="addons-icon"/> nel menu <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Per riattivare questa estensione, vai a <a data-l10n-name="addons-link">Estensioni e temi</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } controlla alcune impostazioni della pagina iniziale.
