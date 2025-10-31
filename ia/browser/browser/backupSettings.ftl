@@ -18,24 +18,24 @@ backup-folder-name = Restaurar { -brand-product-name }
 # profile name and backup date are appended to it:
 #
 # FirefoxBackup_default_20240606-1830.html
-backup-file-name = Salveguarda de { -brand-product-name }
-settings-data-backup-header = Salveguardar
-settings-data-backup-toggle = Gerer le salveguarda
-settings-data-backup-toggle-on = Activar le salveguarda
-settings-data-backup-toggle-off = Disactivar le salveguarda
-settings-data-backup-trigger-button = Salveguardar ora
-settings-data-backup-in-progress-button = Salveguarda in curso…
+backup-file-name = Copia de securitate de { -brand-product-name }
+settings-data-backup-header = Copia de securitate
+settings-data-backup-toggle = Gerer copia de securitate
+settings-data-backup-toggle-on = Activar copia de securitate
+settings-data-backup-toggle-off = Disactivar copia de securitate
+settings-data-backup-trigger-button = Facer copia de securitate ora
+settings-data-backup-in-progress-button = Copia de securitate in progresso…
 settings-data-backup-in-progress-message =
-    .message = Salveguarda in curso…
-settings-data-backup-scheduled-backups-on = Salveguarda: ACTIVE
-settings-data-backup-scheduled-backups-off = Salveguarda: DISACTIVATE
+    .message = Copia de securitate in progresso…
+settings-data-backup-scheduled-backups-on = Copia de securitate: ACTIVATE
+settings-data-backup-scheduled-backups-off = Copia de securitate: DISACTIVATE
 settings-data-backup-scheduled-backups-description = Automaticamente protege tu marcapaginas, chronologia, e altere datos. <a data-l10n-name="support-link">Pro saper plus</a>
-settings-data-backup-last-backup-date = Ultime salveguarda: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-last-backup-date = Ultime copia de securitate: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Position
 settings-data-backup-last-backup-location-show-in-folder = Monstrar in dossier
 settings-data-backup-last-backup-location-edit = Modificar…
-settings-data-create-backup-error = Un error ha occurrite durante le creation de tu salveguarda le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-create-backup-error = Un error ha occurrite durante le creation de tu copia de securitate le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Salveguarda tu contrasignos e tu methodos de pagamento, e in addition mantene tote tu datos secur con cryptation.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
@@ -44,8 +44,8 @@ settings-data-backup-restore-header = Restaurar tu datos
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
-settings-data-backup-scheduled-backups-off-restore-description = Usa un salveguarda de { -brand-product-name } ab un altere apparato pro restaurar tu datos.
-settings-data-backup-scheduled-backups-off-restore-choose = Eliger file de salveguarda…
+settings-data-backup-scheduled-backups-off-restore-description = Usa un copia de securitate de { -brand-product-name } ab un altere apparato pro restaurar tu datos.
+settings-data-backup-scheduled-backups-off-restore-choose = Elige un copia de securitate…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
