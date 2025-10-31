@@ -34,3 +34,27 @@ settings-data-backup-last-backup-date = Ultim backup: { DATETIME($date, timeStyl
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Lieu
 settings-data-backup-last-backup-location-show-in-folder = Mussar en l’ordinatur
+settings-data-backup-last-backup-location-edit = Modifitgar…
+settings-data-create-backup-error = Igl ha dà in’errur cun crear tes backup ils { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Fa copias da segirezza da tes pleds-clav e da tias metodas da pajament. Segirescha ultra da quai tut tias datas cun agida dal criptadi.
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = Num da datoteca: { $fileName }
+settings-data-backup-restore-header = Restaurar tias datas
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = Utilisescha in backup da { -brand-product-name } dad in auter apparat per restaurar tias datas.
+settings-data-backup-scheduled-backups-off-restore-choose = Tscherner ina datoteca da backup…
+
+## These strings are shown under the header if scheduled backups are enabled.
+
+settings-data-backup-scheduled-backups-on-restore-description = Restaurescha tias datas da { -brand-product-name } da l’ultima copia da segirezza.
+settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
+settings-data-toggle-encryption-label = Fa copias da segirezza da tias datas sensiblas
+settings-data-toggle-encryption-support-link = Ulteriuras infurmaziuns
+settings-data-change-password = Midar il pled-clav…
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = Activar ils backups
