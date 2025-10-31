@@ -8,22 +8,52 @@
 # can be used for folders. Invalid characters will be automatically stripped out
 # or replaced with underscores.
 backup-folder-name = Gendan { -brand-product-name }
+# This string is used for the generated file that will be stored within the
+# backup-folder-name folder. It will have the profile name and an encoding of
+# the backup date appended to it, followed by `.html`. Please only include
+# characters that can be used for filenames. Invalid characters will be
+# automatically stripped out or replaced with underscores.
+#
+# This is an example of what the final filename might look like after the
+# profile name and backup date are appended to it:
+#
+# FirefoxBackup_default_20240606-1830.html
+backup-file-name = { -brand-product-name }_sikkerhedskopi
+settings-data-backup-toggle-on = Slå sikkerhedskopiering til
+settings-data-backup-toggle-off = Slå sikkerhedskopiering fra
+settings-data-backup-trigger-button = Sikkerhedskopier nu
+settings-data-backup-in-progress-message =
+    .message = Sikkerhedskopiering er i gang…
+settings-data-backup-scheduled-backups-on = Sikkerhedskopiering: TIL
+settings-data-backup-scheduled-backups-off = Sikkerhedskopiering: FRA
+settings-data-backup-scheduled-backups-description = Beskyt automatisk dine bogmærker, historik og andre data. <a data-l10n-name="support-link">Læs mere</a>
+settings-data-backup-last-backup-date = Seneste sikkerhedskopi: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Placering
 settings-data-backup-last-backup-location-show-in-folder = Vis i mappe
 settings-data-backup-last-backup-location-edit = Rediger…
+settings-data-create-backup-error = Der opstod en fejl under oprettelsen af din sikkerhedskopi den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Sikkerhedskopier dine adgangskoder og betalingsmetoder - og beskyt alle dine data med kryptering.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Filnavn: { $fileName }
 settings-data-backup-restore-header = Gendan dine data
 
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = Brug en { -brand-product-name }-sikkerhedskopi fra en anden enhed til at gendanne dine data.
+
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Gendan dine { -brand-product-name }-data fra den seneste sikkerhedskopi.
 settings-data-backup-scheduled-backups-on-restore-choose = Gendan…
+settings-data-toggle-encryption-label = Sikkerhedskopier dine følsomme data
+settings-data-toggle-encryption-support-link = Læs mere
 settings-data-change-password = Skift adgangskode…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
+turn-on-scheduled-backups-header = Slå sikkerhedskopiering til
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Placering
 # Variables:
