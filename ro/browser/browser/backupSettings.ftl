@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Locație
 settings-data-backup-last-backup-location-show-in-folder = Afișează în dosar
 settings-data-backup-last-backup-location-edit = Editează…
 settings-data-create-backup-error = A apărut o eroare la crearea copiei de rezervă pe { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Fă copii de rezervă cu parolele și metodele de plată și păstrează-ți toate datele în siguranță prin criptare.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Denumire fișier: { $fileName }
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Elimină protecția prin parolă
+disable-backup-encryption-description2 = Parolele și metodele tale de plată salvate nu vor mai fi salvate în copia de rezervă.
 disable-backup-encryption-support-link = Ce va conține copia de rezervă?
 disable-backup-encryption-cancel-button = Anulează
 disable-backup-encryption-confirm-button = Elimină parola
@@ -245,3 +247,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Creat la data de { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } pe { $machineName }
+backup-file-restore-file-validation-error = Fișierul nu funcționează. Încearcă să alegi unul diferit. <a data-l10n-name="restore-problems">Tot mai ai probleme?</a>

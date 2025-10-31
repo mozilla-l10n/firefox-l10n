@@ -120,6 +120,8 @@ options-disable-http-cache-label = Dezactivează cache-ul HTTP (când este desch
 options-disable-http-cache-tooltip =
     .title = Pornirea acestei opțiuni va dezactiva cache-ul HTTP pentru toate filele care au deschisă caseta de instrumente. Scripturile service worker nu sunt afectate.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Dezactivează JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Dezactivează JavaScript *
 options-disable-javascript-tooltip =
     .title = Pornirea acestei opțiuni va dezactiva JavaScript pentru fila actuală. Setarea va fi uitată la închiderea filei sau a casetei de instrumente.
@@ -147,6 +149,9 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Activează hărțile de cod-sursă
 options-source-maps-tooltip =
     .title = Dacă activezi această opțiune, sursele vor fi mapate în instrumente.
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (doar sesiunea actuală, reîncarcă pagina)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Doar sesiunea actuală, reîncarcă pagina
 # The message shown for settings that trigger page reload
