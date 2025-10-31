@@ -134,6 +134,7 @@ change-backup-encryption-header = Փոխել պահուստավորման գաղ
 password-rules-header = Գաղտնաբառի պահանջներ
 password-rules-length-description = Առնվազն 8 նիշ
 password-rules-email-description = Ձեր էլեկտրոնային հասցեն չէ
+password-validity-has-email = Չի կարող լինել էլ․ փոստի հասցե
 password-validity-do-not-match = Գաղտնաբառերը չեն համընկնում
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.

@@ -648,6 +648,12 @@ home-custom-homepage-address-button =
     .label = Adres ekle
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Henüz hiç site eklenmedi.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Bununla değiştir:
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Şu anda açık olan sayfalar
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Yer imleri…
@@ -659,6 +665,8 @@ home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = { -firefox-home-brand-name } ekranınızda görmek istediğiniz içerikleri seçin.
 home-prefs-search-header =
     .label = Web araması
+home-prefs-search-header2 =
+    .label = Arama
 home-prefs-shortcuts-header =
     .label = Kısayollar
 home-prefs-shortcuts-description = Kaydettiğiniz veya ziyaret ettiğiniz siteler
@@ -715,6 +723,7 @@ home-prefs-support-firefox-header =
 home-prefs-mission-message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
 home-prefs-mission-message-learn-more-link = Nasıl mı?
 home-prefs-manage-topics-link = Konuları yönet
+home-prefs-choose-wallpaper-link = Duvar kâğıdı seç
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1262,6 +1271,8 @@ addressbar-header = Adres çubuğu
 addressbar-suggest-1 = Adres çubuğunuzda hangi önerilerin gösterileceğini seçin
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = { -brand-short-name } ve iş ortaklarımızdan gelen öneriler adres çubuğunuzda görünür.
 addressbar-suggest = Adres çubuğunu kullanırken şunları öner:
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adres çubuğu — { -firefox-suggest-brand-name }
