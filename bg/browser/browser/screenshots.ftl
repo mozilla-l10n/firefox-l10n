@@ -15,6 +15,10 @@ screenshots-download-button = Изтегляне
 screenshots-download-button-tooltip = Изтегляне на екранна снимка
 screenshots-copy-button = Копиране
 screenshots-copy-button-tooltip = Копиране в клипборда
+screenshots-download-button-title =
+    .title = Изтегляне на екранна снимка
+screenshots-copy-button-title =
+    .title = Копиране на екранната снимка в системния буфер
 screenshots-cancel-button-title =
     .title = Отмяна
 screenshots-retry-button-title =
@@ -41,6 +45,9 @@ screenshots-private-window-error-details = Съжаляваме за неудо�
 screenshots-generic-error-title = Леле! Нещо се обърка с { -screenshots-brand-name }.
 screenshots-generic-error-details = Не сме сигурни какво точно се случи. Може да опитате отново, както и да снимате друга страница.
 screenshots-too-large-error-title = Екранната ви снимка беше отрязана, защото е твърде голяма
+screenshots-component-retry-button =
+    .title = Нов опит за снимка на екрана
+    .aria-label = Нов опит за снимка на екрана
 # Variables
 #   $shortcut (String) - A keyboard shortcut for copying the screenshot.
 screenshots-component-copy-button-2 = Копиране
@@ -51,6 +58,11 @@ screenshots-component-copy-button-2 = Копиране
 screenshots-component-download-button-2 = Изтегляне
     .title = Изтегляне ({ $shortcut })
     .aria-label = Изтегляне
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Екранна снимка
+    .tooltiptext = Направете снимка на екрана ({ $shortcut })
 
 ##
 

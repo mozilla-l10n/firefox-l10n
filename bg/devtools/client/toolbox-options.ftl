@@ -59,6 +59,8 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = Снимка на екрана
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Екранна снимка само в системен буфер
+options-screenshot-clipboard-tooltip2 =
+    .title = Запазва екранната снимка директно в системния буфер
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Звук от затвора на фотоапарат
 options-screenshot-audio-tooltip =

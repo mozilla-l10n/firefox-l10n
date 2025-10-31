@@ -19,6 +19,8 @@ policy-Bookmarks = Създаване на отметки в лентата с �
 policy-CertificatesDescription = Добавяне на сертификати или използване на вградени сертификати.
 policy-DisableAppUpdate = Предотвратява обновяването на браузъра.
 policy-DisableDeveloperTools = Забранява достъпа до развойните инструменти.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Изключване на функцията Screenshots на Firefox.
 policy-DisableFirefoxStudies = Забранява на { -brand-short-name } да извършва изследвания.
 policy-DisablePasswordReveal = В запазените регистрации паролите не могат да бъдат показвани.
 policy-DisablePrivateBrowsing = Изключва поверителното разглеждане.
