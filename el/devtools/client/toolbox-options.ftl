@@ -30,6 +30,10 @@ options-context-inspector = Επιθεώρηση
 options-show-user-agent-styles-label = Εμφάνιση μορφοποιήσεων προγράμματος περιήγησης
 options-show-user-agent-styles-tooltip =
     .title = Η ενεργοποίηση αυτού θα εμφανίσει τις προεπιλεγμένες μορφοποιήσεις που φορτώνονται από το πρόγραμμα περιήγησης.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Εμφάνιση στοιχείων Shadow DOM προγράμματος περιήγησης
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Η ενεργοποίηση αυτής της ρύθμισης θα εμφανίζει τα στοιχεία Shadow DOM που διαχειρίζεται το πρόγραμμα περιήγησης.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Κόψιμο ιδιοτήτων DOM
 options-collapse-attrs-tooltip =

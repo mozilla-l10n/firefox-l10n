@@ -165,12 +165,17 @@ about-glean-metrics-table-settings-histograms-chart-max = Μέγιστο ύψο�
 about-glean-metrics-table-settings-histograms-scaled-max = Κλιμακωμένο μέγιστο ύψος
 about-glean-metrics-table-settings-histograms-box-padding = Γέμισμα πλαισίου
 about-glean-metrics-table-settings-histograms-chart-padding = Γέμισμα γραφήματος
+about-glean-metrics-table-settings-histograms-left-padding = Επιπρόσθετο αριστερό γέμισμα
 about-glean-metrics-table-settings-category-visualizations-timeline = Χρονολόγιο
 about-glean-metrics-table-settings-timelines-height = Ύψος
 about-glean-metrics-table-settings-timelines-width = Πλάτος
 about-glean-metrics-table-settings-timelines-chart-padding = Γέμισμα γραφήματος
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Ακτίνα κύκλου
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Οριζόντια μετατόπιση άξονα Υ
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Κάθετη μετατόπιση άξονα Υ
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Φίλτρο
 # This message sits alongside an input field, further describing its purpose.

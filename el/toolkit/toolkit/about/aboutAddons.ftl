@@ -169,6 +169,8 @@ extensions-warning-update-security-button = Ενεργοποίηση
 extensions-warning-imported-addons2 =
     .message = Ολοκληρώστε την εγκατάσταση των επεκτάσεων που εισήχθησαν στο { -brand-short-name }.
 extensions-warning-imported-addons-button = Εγκατάσταση επεκτάσεων
+extensions-warning-safe-mode3 =
+    .message = Όλα τα πρόσθετα έχουν απενεργοποιηθεί από τη λειτουργία επίλυσης προβλημάτων.
 
 ## Strings connected to add-on updates
 

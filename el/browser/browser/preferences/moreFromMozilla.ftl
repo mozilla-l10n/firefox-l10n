@@ -39,6 +39,7 @@ more-from-moz-mozilla-monitor-button = Αποκτήστε το { -monitor-brand-
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Δημιουργήστε άμεσα τον ιστότοπό σας και συνδέστε τον δικό σας προσαρμοσμένο τομέα δωρεάν.
 more-from-moz-solo-button = Δοκιμή του { -solo-ai-brand-name }
+more-from-moz-solo-title-2 = { -solo-ai-brand-name } — Δημιουργία ιστοτόπων με ΤΝ
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
