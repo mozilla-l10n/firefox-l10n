@@ -30,6 +30,10 @@ options-context-inspector = Inspektor
 options-show-user-agent-styles-label = Wyświetlanie stylów przeglądarki
 options-show-user-agent-styles-tooltip =
     .title = Włączenie tej opcji spowoduje wyświetlanie domyślnych stylów wczytywanych przez przeglądarkę
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Wyświetlanie Shadow DOM przeglądarki
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Włączenie tej opcji spowoduje wyświetlanie elementów Shadow DOM obsługiwanych przez przeglądarkę
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Skracanie atrybutów DOM
 options-collapse-attrs-tooltip =
@@ -116,6 +120,8 @@ options-disable-http-cache-label = Wyłącz pamięć podręczną HTTP (gdy otwor
 options-disable-http-cache-tooltip =
     .title = Wyłącza pamięć podręczną dla żądań HTTP we wszystkich kartach, dla których narzędzia są otwarte. To ustawienie nie ma wpływu na wątki usługowe.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Wyłącz JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Wyłącz JavaScript *
 options-disable-javascript-tooltip =
     .title = Wyłącza JavaScript w bieżącej karcie. Jeśli karta lub narzędzia zostaną zamknięte, ustawienie zostanie zapomniane.
@@ -144,4 +150,10 @@ options-source-maps-label = Mapy źródeł
 options-source-maps-tooltip =
     .title = Po włączeniu tej funkcji, źródła będą mapowane w narzędziach
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (tylko bieżąca sesja, przeładowuje stronę)
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Tylko bieżąca sesja, przeładowuje stronę
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = (przeładowuje stronę)

@@ -283,6 +283,12 @@ tab-context-unnamed-group =
     .label = Grupa bez nazwy
 tab-group-name-default = Grupa bez nazwy
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Otwarta lista kart
+tab-group-preview-closed-description = Zamknięta lista kart
+
 ##
 
 tab-context-move-tab-to-new-group =
@@ -367,3 +373,16 @@ tab-group-context-open-saved-group-in-new-window =
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Podzielony widok
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Dodaj podzielony widok
+    .accesskey = D
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Otwórz w podzielonym widoku
+    .accesskey = O
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Rozdziel widok
+    .accesskey = R
+tab-context-badge-new = Nowe

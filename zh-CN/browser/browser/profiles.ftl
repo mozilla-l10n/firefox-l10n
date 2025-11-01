@@ -267,7 +267,7 @@ custom-avatar-crop-area =
     .aria-label = 调整裁剪区域
 custom-avatar-drag-handle =
     .aria-label = 调整裁剪区域大小
-profiles-appmenu-callout-tour-title = 已为您准备好新的配置文件
+profiles-appmenu-callout-tour-title = 已准备好新的配置文件
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
 profiles-appmenu-callout-tour-subtitle = 在 ☰ 菜单中，点击配置文件名即可新建配置文件、编辑当前配置文件，以及在不同的数字身份间自由切换。
 profiles-appmenu-callout-tour-primary-button = 怎么做
