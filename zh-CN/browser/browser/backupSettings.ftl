@@ -234,6 +234,10 @@ backup-file-other-browser-restore-step-4 = 按照指引，重新启动 { -brand-
 ## if they have one on their file system.
 
 # Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds = <b>注意：</b>另找到其他 { $numberOfOtherBackupsFound } 个备份文件
+# Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 创建于 { $machineName }
+backup-file-restore-file-validation-error = 文件无效，请尝试选取其他文件。<a data-l10n-name="restore-problems">仍有问题？</a>

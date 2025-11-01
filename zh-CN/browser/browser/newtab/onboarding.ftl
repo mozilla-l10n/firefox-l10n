@@ -463,9 +463,13 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    准备升级到 Windows 11？
+    一起来备份 { -brand-product-name } 数据。
 create-backup-screen-1-subtitle = 只需 1–2 分钟，即可自动保护您的密码、书签等数据。
 create-backup-screen-1-flair = 推荐
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">详细了解</a>
+create-backup-screen-1-sync-label = 与 { -brand-product-name } 同步
 create-backup-screen-1-sync-body = 备份所有已登录设备
 create-backup-screen-1-backup-label = 备份到电脑
 create-backup-screen-1-backup-body = 保存到您的设备或 OneDrive
@@ -474,6 +478,7 @@ create-backup-back-button-label = 返回
 create-backup-show-fewer =
     .label = 减少显示此类内容
 create-backup-screen-2-title = 选择要备份的 { -brand-product-name } 数据
+create-backup-screen-2-subtitle = 只需一分钟即可完成。您的数据每天都将备份一次。
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = 简易设置
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
