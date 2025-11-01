@@ -478,6 +478,44 @@ sync-to-mobile-button-label = Synkroniser til mobilen
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-kode til at hente { -brand-product-name } til mobilen
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Skal du opgradere til Windows 11?
+    Lad os sikkerhedskopiere dine { -brand-product-name }-data.
+create-backup-screen-1-subtitle = Beskyt automatisk dine adgangskoder, bogmærker og mere - det tager højst to minutter.
+create-backup-screen-1-flair = Anbefalet
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Læs mere</a>
+create-backup-screen-1-sync-label = Synkroniser med { -brand-product-name }
+create-backup-screen-1-sync-body = Sikkerhedskopier alle indloggede enheder
+create-backup-screen-1-backup-label = Sikkerhedskopier til din computer
+create-backup-screen-1-backup-body = Gemmes på din enhed eller OneDrive
+create-backup-select-tile-button-label = Vælg
+create-backup-back-button-label = Tilbage
+create-backup-show-fewer =
+    .label = Vis færre beskeder som denne
+create-backup-screen-2-title = Vælg, hvilke { -brand-product-name }-data, som skal sikkerhedskopieres
+create-backup-screen-2-subtitle = Det tager bare et minut. Dine data bliver sikkerhedskopieret en gang i døgnet.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Nem opsætning
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Bogmærker, historik, indstillinger med mere
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Inkluderer ikke adgangskoder og betalingsmetoder
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Ikke krypteret
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Alle data
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Inkluderer adgangskoder og betalingsmetoder
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Krypteret med en adgangskode
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Hvor vil du gemme din sikkerhedskopi?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Opret en adgangskode til din sikkerhedskopi
+create-backup-screen-3-subtitle = Kræves for at kryptere dine data. Gem den et sted, du kan huske.
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Gendan fra sikkerhedskopi
