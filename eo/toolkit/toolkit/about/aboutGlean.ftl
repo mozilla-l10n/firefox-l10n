@@ -117,9 +117,18 @@ about-glean-metrics-table-settings-category-visualizations = Montroj
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Ekzemplo
 about-glean-metrics-table-settings-category-visualizations-histogram = Frekvenca grafikaĵo
-about-glean-metrics-table-settings-histograms-chart-max = Maksimuma alteco de grafikaĵo
+about-glean-metrics-table-settings-histograms-chart-max = Maksimuma alto de grafikaĵo
 # The maximum height after to which the y-values on the chart will be scaled
-about-glean-metrics-table-settings-histograms-scaled-max = Skalita maksimuma alteco
+about-glean-metrics-table-settings-histograms-scaled-max = Skalita maksimuma alto
+about-glean-metrics-table-settings-histograms-box-padding = Marĝeno de la skatolo
+about-glean-metrics-table-settings-histograms-chart-padding = Marĝeno de la grafikaĵo
+about-glean-metrics-table-settings-histograms-left-padding = Aldona maldekstra marĝeno
+about-glean-metrics-table-settings-category-visualizations-timeline = Kronologio
+about-glean-metrics-table-settings-timelines-height = Alto
+about-glean-metrics-table-settings-timelines-width = Larĝo
+about-glean-metrics-table-settings-timelines-chart-padding = Marĝeno de la grafikaĵo
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Radiuso de cirklo
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtri
 # This message sits alongside an input field, further describing its purpose.
@@ -146,3 +155,10 @@ about-glean-enable-new-features-promo =
 about-glean-enable-new-features-button = Aktivigi novajn trajtojn
 about-glean-disable-new-features-button = Malaktivigi novajn trajtojn
 about-glean-about-data-explanation = Por vidi la liston de kolektitaj datumoj, bonvolu konsulti la <a data-l10n-name="glean-dictionary-link">vortaron de { -glean-brand-name }</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Integritaj "pings"
+about-glean-ping-list-optgroup-custom =
+    .label = Personecigitaj "pings"

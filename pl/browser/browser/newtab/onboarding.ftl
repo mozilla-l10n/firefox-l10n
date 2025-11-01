@@ -520,6 +520,23 @@ fx-backup-opt-in-create-password-label = Wpisz hasło
 fx-backup-opt-in-confirm-btn-label = Kontynuuj
 fx-backup-opt-in-cancel-btn-label = Wstecz
 
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Kopia zapasowa została zaplanowana
+fx-backup-confirmation-screen-close-button = Zamknij
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Obejmuje wszystkie dane przeglądarki
+fx-backup-confirmation-screen-all-data-item-text-2 = Zachowane na urządzeniu
+fx-backup-confirmation-screen-all-data-item-text-3 = Zaszyfrowane i chronione hasłem
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Obejmuje zakładki, historię, ustawienia i pozostałe dane
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Zachowane na urządzeniu
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Nie obejmuje haseł i metod płatności
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Otwórz <a data-l10n-name="settings">Ustawienia</a>, aby dodać prywatne dane.
+fx-backup-confirmation-screen-item-subtext-1 = Tworzenie kopii zapasowej zacznie się za kilka minut i będzie wykonywane raz dziennie. W <a data-l10n-name="settings">Ustawieniach</a> można sprawdzić postęp.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } wyszuka kopię zapasową, jeśli konieczna będzie ponowna instalacja.
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Przywróć z kopii zapasowej
@@ -538,3 +555,17 @@ restored-from-backup-success-no-checklist-primary-button = Kontynuuj
 restored-from-backup-error-title = Niestety, wystąpił problem z plikiem kopii zapasowej.
 restored-from-backup-error-subtitle = Jeśli masz inny plik kopii zapasowej { -brand-short-name(case: "gen") }, spróbuj przywrócić z niego. <a data-l10n-name="restore-problems">Nadal masz problemy?</a>
 restored-from-backup-error-primary-button = Zamknij
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Dostosuj { -brand-short-name(case: "acc") } pod siebie
+onboarding-personalization-subtitle = Odpowiedz na kilka pytań, a my polecimy funkcje i rozszerzenia, które usprawnią korzystanie z { -brand-short-name(case: "gen") }.
+onboarding-personalization-use-case-title = Do czego będziesz korzystać z { -brand-short-name(case: "gen") }?
+onboarding-personalization-use-case-personal-option = Dla siebie
+onboarding-personalization-use-case-school-option = Do szkoły
+onboarding-personalization-use-case-work-option = Do pracy
+onboarding-personalization-motivation-title = Które cechy { -brand-short-name(case: "gen") } są dla Ciebie najważniejsze?
+onboarding-personalization-motivation-privacy-option = Prywatność i bezpieczeństwo
+onboarding-personalization-motivation-productivity-option = Produktywność
+onboarding-personalization-motivation-other-option = Inne
