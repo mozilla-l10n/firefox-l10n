@@ -77,14 +77,62 @@ turn-on-scheduled-backups-encryption-create-password-label = Hasło
 turn-on-scheduled-backups-encryption-repeat-password-label = Powtórz hasło
 turn-on-scheduled-backups-cancel-button = Anuluj
 turn-on-scheduled-backups-confirm-button = Włącz kopię zapasową
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Wystąpił problem z wybranym folderem kopii zapasowej. Wybierz inny folder i spróbuj ponownie.
+backup-error-file-system = Podczas tworzenia kopii zapasowej { -brand-short-name(case: "gen") } wystąpił problem z wybranym folderem kopii zapasowej.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Czy wyłączyć kopię zapasową?
+turn-off-scheduled-backups-description = Spowoduje to także usunięcie wszystkich danych kopii zapasowej. Tego działania nie można cofnąć.
+turn-off-scheduled-backups-support-link = Więcej informacji
 turn-off-scheduled-backups-cancel-button = Anuluj
+turn-off-scheduled-backups-confirm-button = Wyłącz i usuń kopię zapasową
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Przywróć dane
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Spowoduje to zastąpienie wszystkich obecnych danych { -brand-short-name(case: "gen") } kopią zapasową z { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Co zostanie przywrócone?
+restore-from-backup-no-backup-file-link = Masz problem ze znalezieniem kopii zapasowej?
+restore-from-backup-filepicker-label = Plik kopii zapasowej
+restore-from-backup-filepicker-title = Wybierz plik kopii zapasowej:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Wybierz…
+       *[other] Przeglądaj…
+    }
+restore-from-backup-password-label = Hasło
+restore-from-backup-password-description = Odblokuje to zaszyfrowaną kopię zapasową.
 restore-from-backup-cancel-button = Anuluj
+restore-from-backup-confirm-button = Przywróć i uruchom ponownie
+restore-from-backup-restoring-button = Przywracanie…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Niewłaściwe hasło. <a data-l10n-name="incorrect-password-support-link">Nadal masz problemy?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Ten plik nie działa
+    .message = Wystąpił problem z plikiem kopii zapasowej. Wybierz inny i spróbuj ponownie.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Ten plik nie działa
+    .message = Wybrany plik nie jest zgodny z tą wersją { -brand-short-name(case: "gen") }. Wybierz inny i spróbuj ponownie.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
