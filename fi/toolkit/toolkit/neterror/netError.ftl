@@ -167,3 +167,13 @@ certerror-coep-learn-more = Lisätietoja Cross Origin Embedder -käytännöistä
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Virhekoodi: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } ei voi luoda suojattua yhteyttä palvelimeen osoitteessa { $hostname }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Vaikuttaa siltä, että tämä sivusto käyttää vanhaa ohjelmistoa, jossa on tunnettuja tietoturvaongelmia.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Varmista, että käytät { -brand-short-name }in uusinta versiota. Siirry valikossa kohtaan Ohje > Tietoja: { -brand-short-name }. Jos käytät { -brand-short-name }in uusinta versiota, ongelma on mitä todennäköisimmin itse sivustossa.

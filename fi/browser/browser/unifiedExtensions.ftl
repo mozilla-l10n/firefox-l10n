@@ -17,6 +17,9 @@ unified-extensions-empty-reason-private-browsing-not-allowed = Sinulla on asenne
 unified-extensions-empty-reason-extension-not-enabled = Sinulla on asennettuja laajennuksia, mutta ne eivät ole käytössä
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Nosta selaamisen tasoa laajennuksilla
+unified-extensions-empty-content-explain-enable2 = Ota ne käyttöön valitsemalla ”{ unified-extensions-manage-extensions.label }” asetuksista.
+unified-extensions-empty-content-explain-manage2 = Hallitse niitä valitsemalla ”{ unified-extensions-manage-extensions.label }” asetuksista.
+unified-extensions-empty-content-explain-extensions-onboarding = Mukauta { -brand-short-name }ia muuttamalla sen ulkoasua ja suorituskykyä tai parantamalla yksityisyyttä sekä turvallisuutta.
 
 ## An extension in the main list
 

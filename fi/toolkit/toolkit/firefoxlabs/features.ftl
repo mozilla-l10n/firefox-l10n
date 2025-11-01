@@ -73,3 +73,6 @@ experimental-features-newtab-widget-timer-description = Aseta ajastin pitämää
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listat ja ajastin { -firefox-home-brand-name }issa
 experimental-features-newtab-widget-lists-and-timer-description = Pidä tehtävälistasi mielessäsi, kun avaat uuden välilehden. Pakkauslistoista ostoslistoihin, tee suunnitelmasi { -brand-product-name }issa. Aseta ajastin pitämään sinut keskittyneenä, kannustamaan sinua pysymään aikataulussa tai muistuttamaan sinua lataamaan akkujasi. <a data-l10n-name="connect">Jaa palautetta</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semanttisen historian haku
