@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Region założenia
 certificate-viewer-locality = Region
 certificate-viewer-location = Położenie
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Nazwa dziennika
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Identyfikator dziennika
 certificate-viewer-method = Metoda
 certificate-viewer-modulus = Modulo

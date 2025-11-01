@@ -108,6 +108,13 @@ about-glean-metrics-table-settings-category-visualizations-histogram = 直方图
 about-glean-metrics-table-settings-histograms-chart-max = 图表最大高度
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = 缩放后的最大高度
+about-glean-metrics-table-settings-histograms-chart-padding = 图表边距
+about-glean-metrics-table-settings-histograms-left-padding = 额外左边距
+about-glean-metrics-table-settings-category-visualizations-timeline = 时间轴
+about-glean-metrics-table-settings-timelines-height = 高度
+about-glean-metrics-table-settings-timelines-width = 宽度
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = 圆点半径
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = 筛选
 # This message sits alongside an input field, further describing its purpose.

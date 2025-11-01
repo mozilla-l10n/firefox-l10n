@@ -499,6 +499,7 @@ create-backup-screen-3-location = 选择备份文件的保存位置
 create-backup-screen-3-title = 创建备份文件的密码
 create-backup-screen-3-subtitle = 加密数据所需。请将其保存在您不会遗忘的地方。
 fx-backup-opt-in-header = 选择文件位置
+fx-backup-opt-in-filepath-label = 选择一个位置（例如 OneDrive），数据将由该位置转移到新设备。
 fx-backup-opt-in-create-password-label = 请输入密码
 fx-backup-opt-in-confirm-btn-label = 继续
 fx-backup-opt-in-cancel-btn-label = 返回

@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Otwórz panel masek dla adresów e-mail
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Chroń swoje działania w Internecie
 appmenu-services-header = Moje usługi
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Wypróbuj inne narzędzia ochrony od Mozilli:
 appmenu-other-protection-header = Wypróbuj inne narzędzia ochrony od { -vendor-short-name(case: "gen") }:
 
 ## Profiles panel
@@ -301,6 +305,8 @@ appmenu-other-protection-header = Wypróbuj inne narzędzia ochrony od { -vendor
 appmenu-other-profiles = Inne profile
 appmenu-manage-profiles =
     .label = Zarządzaj profilami
+appmenu-copy-profile =
+    .label = Kopiuj ten profil
 appmenu-create-profile =
     .label = Nowy profil
 appmenu-edit-profile =
