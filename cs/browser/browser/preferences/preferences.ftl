@@ -748,6 +748,8 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Nastavení tohoto rozšíření
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Zvolte konkrétní stránku
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -767,12 +769,17 @@ home-homepage-header = Domovská stránka
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Vlastní domovskou stránku
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Adresy webových stránek
 home-custom-homepage-address =
     .placeholder = Zadejte webovou adresu
 home-custom-homepage-address-button =
     .label = Přidat adresu
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Dosud nebyly přidány žádné stránky.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Nahradit s
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-current-pages-button =
     .label = Právě otevřené stránky
@@ -853,6 +860,7 @@ home-prefs-support-firefox-header =
 home-prefs-mission-message = Naši sponzoři podporují naši misi budovat lepší web.
 home-prefs-mission-message-learn-more-link = Zjistěte jak
 home-prefs-manage-topics-link = Správa témat
+home-prefs-choose-wallpaper-link = Zvolte si tapetu
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1410,8 +1418,15 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresní řádek
+addressbar-suggest-1 = Zvolte, které návrhy se zobrazí v adresním řádku
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 =
+    { -brand-short-name.case-status ->
+        [with-cases] Návrhy od { -brand-short-name(case: "gen") } a našich partnerů přímo v adresním řádku.
+       *[no-cases] Návrhy od aplikace { -brand-short-name } a našich partnerů přímo v adresním řádku.
+    }
 addressbar-suggest = V adresním řádku našeptávat
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresní řádek — { -firefox-suggest-brand-name }
@@ -1439,6 +1454,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Top stránky
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = Návrhy vyhledávačů, které je možné použít
+    .accesskey = N
 addressbar-locbar-engines-option =
     .label = Vyhledávače
     .accesskey = a
@@ -1463,6 +1481,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Získat návrhy z webu souvisejíc
 addressbar-locbar-suggest-sponsored-option =
     .label = Návrhy od sponzorů
 addressbar-locbar-suggest-sponsored-desc = Podpořte { -brand-short-name } zobrazením občasných sponzorovaných návrhů.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Při psaní získávat návrhy od Mozilly
 addressbar-quickactions-learn-more = Zjistit více
 addressbar-dismissed-suggestions-label = Odmítnuté návrhy
 addressbar-restore-dismissed-suggestions-description =

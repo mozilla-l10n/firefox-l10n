@@ -187,6 +187,8 @@ extensions-warning-imported-addons2 =
            *[no-cases] Dokončete instalaci rozšíření importovaných do aplikace { -brand-short-name }.
         }
 extensions-warning-imported-addons-button = Nainstalovat rozšření
+extensions-warning-safe-mode3 =
+    .message = Všechny doplňky byly režimem řešení potíží zakázány.
 
 ## Strings connected to add-on updates
 
