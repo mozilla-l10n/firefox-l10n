@@ -506,7 +506,7 @@ fx-backup-opt-in-cancel-btn-label = 返回
 
 ## Fx Backup confirmation screen strings
 
-fx-backup-confirmation-screen-title = 您的备份已安排
+fx-backup-confirmation-screen-title = 已安排备份
 fx-backup-confirmation-screen-close-button = 关闭
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.

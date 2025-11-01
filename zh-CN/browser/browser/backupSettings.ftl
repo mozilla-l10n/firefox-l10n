@@ -108,7 +108,7 @@ restore-from-backup-file-choose-button =
        *[other] 浏览…
     }
 restore-from-backup-password-label = 密码
-restore-from-backup-password-description = 用于解锁加密的文件。
+restore-from-backup-password-description = 用于解锁加密的备份。
 restore-from-backup-cancel-button = 取消
 restore-from-backup-confirm-button = 恢复并重启
 restore-from-backup-restoring-button = 正在恢复…
