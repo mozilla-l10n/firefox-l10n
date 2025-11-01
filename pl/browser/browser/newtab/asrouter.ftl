@@ -243,6 +243,14 @@ set-default-pdf-handler-primary = OK
 # If this expression doesn’t have a direct translation, please
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = Złóż podpis w odpowiednim polu — lub gdzie chcesz!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Narysuj, napisz lub prześlij swój podpis, a następnie umieść go dokładnie tam, gdzie potrzebujesz. Zachowaj swoje podpisy na różne okazje.
+annotations-make-default-pdf-handler-title = Czy ustawić { -brand-short-name(case: "acc") } jako domyślny edytor plików PDF?
+annotations-make-default-pdf-handler-subtitle = Korzystaj z naszych narzędzi za każdym razem, gdy otwierasz plik PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Ustaw jako domyślny
+annotations-make-default-pdf-next =
+    .label = Dalej
 
 ## FxA sync CFR
 

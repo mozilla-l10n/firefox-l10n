@@ -26,12 +26,14 @@ profile-card =
 default-profile-name = { $number }. profil
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Oryginalny profil
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = Edytuj profil
 edit-profile-page-header = Edytuj swój profil
 edit-profile-page-profile-name-label = Nazwa profilu
 edit-profile-page-theme-header-2 =
     .label = Motyw
 edit-profile-page-explore-themes = Odkryj więcej motywów
+edit-profile-page-desktop-shortcut-header = Utwórz skrót na pulpicie
 edit-profile-page-avatar-header-2 =
     .label = Awatar
 edit-profile-page-delete-button =
@@ -58,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Wybierz nazwę, np. „Praca” lub „Osobiste”
 new-profile-page-done-button =
     .label = Gotowe
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Kopia profilu „{ $profilename }” jest gotowa do dostosowania
+copied-profile-page-header-description = Skopiowaliśmy Twoje dane i ustawienia do nowego profilu. Teraz nadaj mu nazwę, wybierz wygląd i spersonalizuj go.
 profile-window-title-2 = { -brand-short-name } — wybierz profil
 profile-window-logo =
     .alt = Logo { -brand-short-name(case: "gen") }
@@ -261,6 +267,7 @@ custom-avatar-crop-area =
     .aria-label = Dostosuj obszar przycinania
 custom-avatar-drag-handle =
     .aria-label = Zmień rozmiar obszaru przycinania
+profiles-appmenu-callout-tour-title = Twój nowy profil jest gotowy
 barbell-avatar = Sztanga
 bike-avatar = Rower
 
