@@ -209,3 +209,42 @@ backup-file-header = { -brand-short-name } jest gotowy do przywrócenia
 backup-file-title = Przywróć { -brand-short-name(case: "acc") }
 backup-file-intro = Wróć do przeglądania i odzyskaj wszystkie zakładki, hasła i pozostałe dane. <a data-l10n-name="backup-file-support-link">Więcej informacji</a>
 backup-file-path-label = Plik kopii zapasowej:
+backup-file-encryption-state-label = Zaszyfrowane:
+backup-file-encryption-state-value-encrypted = Tak
+backup-file-encryption-state-value-not-encrypted = Nie
+backup-file-creation-device-label = Urządzenie:
+backup-file-creation-date-label = Utworzono:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, dateStyle: "short") } o { DATETIME($date, timeStyle: "short") }
+backup-file-how-to-restore-header = Jak przywrócić:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Otwórz menu aplikacji ☰ i przejdź do Ustawienia → Synchronizacja
+backup-file-moz-browser-restore-step-2 = Kliknij „Wybierz plik kopii zapasowej” i wybierz ten plik
+backup-file-moz-browser-restore-step-3 = Uruchom { -brand-short-name(case: "acc") } ponownie, kiedy o to poprosi
+backup-file-other-browser-restore-step-1 = Pobierz i zainstaluj { -brand-short-name(case: "acc") }
+backup-file-download-moz-browser-button = Pobierz
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Włącz { -brand-short-name(case: "acc") }, otwórz menu aplikacji ☰ i przejdź do Ustawienia → Synchronizacja
+backup-file-other-browser-restore-step-3 = Kliknij „Wybierz plik kopii zapasowej” i wybierz ten plik
+backup-file-other-browser-restore-step-4 = Uruchom { -brand-short-name(case: "acc") } ponownie, kiedy o to poprosi
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Uwaga:</b> odnaleziono { $numberOfOtherBackupsFound } inny plik kopii zapasowej
+        [few] <b>Uwaga:</b> odnaleziono { $numberOfOtherBackupsFound } inne pliki kopii zapasowej
+       *[many] <b>Uwaga:</b> odnaleziono { $numberOfOtherBackupsFound } innych plików kopii zapasowej
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Utworzono w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na urządzeniu { $machineName }
+backup-file-restore-file-validation-error = Ten plik nie działa. Spróbuj wybrać inny. <a data-l10n-name="restore-problems">Nadal masz problemy?</a>
