@@ -477,6 +477,49 @@ sync-to-mobile-button-label = Synchronizuj z telefonem
 desktop-to-mobile-qr-code-alt =
     .aria-label = Kod QR do pobrania { -brand-product-name(case: "gen") } na telefon
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Aktualizujesz system do Windows 11? 
+    Utwórzmy kopię zapasową danych { -brand-product-name(case: "gen") }.
+create-backup-screen-1-subtitle = Automatycznie chroń swoje hasła, zakładki i nie tylko w ciągu 1-2 minut.
+create-backup-screen-1-flair = Zalecane
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Więcej informacji</a>
+create-backup-screen-1-sync-label = Synchronizuj za pomocą { -brand-product-name(case: "gen") }
+create-backup-screen-1-sync-body = Tworzy kopie zapasowe wszystkich zalogowanych urządzeń
+create-backup-screen-1-backup-label = Kopia zapasowa na komputerze
+create-backup-screen-1-backup-body = Zachowuje na Twoim urządzeniu lub koncie OneDrive
+create-backup-select-tile-button-label = Wybierz
+create-backup-back-button-label = Wstecz
+create-backup-show-fewer =
+    .label = Pokazuj mniej takich komunikatów
+create-backup-screen-2-title = Wybierz dane { -brand-product-name(case: "gen") } do zachowania w kopii zapasowej
+create-backup-screen-2-subtitle = Zajmie to tylko minutkę. Twoje dane będą zachowywane w kopii zapasowej raz dziennie.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Łatwa konfiguracja
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Zakładki, historia, ustawienia i nie tylko
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Nie obejmuje haseł i metod płatności
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Nieszyfrowane
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Wszystkie dane
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Obejmuje hasła i metody płatności
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Zaszyfrowane za pomocą hasła
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Gdzie zachować kopię zapasową?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Utwórz hasło pliku kopii zapasowej
+create-backup-screen-3-subtitle = Wymagane do zaszyfrowania danych. Przechowuj je w miejscu, którego nie zapomnisz.
+fx-backup-opt-in-header = Wybierz położenie pliku
+fx-backup-opt-in-filepath-label = Wybierz miejsce, które przeniesiesz ze sobą na nowe urządzenie, takie jak konto OneDrive.
+fx-backup-opt-in-create-password-label = Wpisz hasło
+fx-backup-opt-in-confirm-btn-label = Kontynuuj
+fx-backup-opt-in-cancel-btn-label = Wstecz
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Przywróć z kopii zapasowej

@@ -108,6 +108,18 @@ about-glean-metrics-table-header-type = Tipo
 about-glean-metrics-table-header-value = Valoro
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Agoj
+about-glean-metrics-table-settings-button = Agordoj
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Agordoj de la tabelo de statistikoj
+about-glean-metrics-table-settings-category-general = Ĝenerala
+about-glean-metrics-table-settings-hide-empty-value-rows = Kaŝi vicojn sen valoroj
+about-glean-metrics-table-settings-category-visualizations = Montroj
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Ekzemplo
+about-glean-metrics-table-settings-category-visualizations-histogram = Frekvenca grafikaĵo
+about-glean-metrics-table-settings-histograms-chart-max = Maksimuma alteco de grafikaĵo
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Skalita maksimuma alteco
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtri
 # This message sits alongside an input field, further describing its purpose.

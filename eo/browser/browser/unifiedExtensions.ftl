@@ -18,6 +18,8 @@ unified-extensions-empty-reason-extension-not-enabled = Vi havas instalitajn ete
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Plibonigu vian retumon per etendaĵoj
 unified-extensions-empty-content-explain-enable2 = Elektu “{ unified-extensions-manage-extensions.label }” por aktivigi ilin en la agordoj.
+unified-extensions-empty-content-explain-manage2 = Elektu “{ unified-extensions-manage-extensions.label }” por administri ilin en la agordoj.
+unified-extensions-empty-content-explain-extensions-onboarding = Personecigu { -brand-short-name } per alĝustigo de ĝia aspekto kaj efikeco aŭ per plibonigo de privateco kaj sekureco.
 
 ## An extension in the main list
 
@@ -86,3 +88,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } etendaĵoj malaktivigitaj
         }
     .message = Kelkaj el viaj etendaĵoj malobservas politikojn de Mozilla kaj ili estis do malaktivigitaj.
+unified-extensions-notice-safe-mode =
+    .message = Ĉiuj etendaĵoj estis malaktivigitaj de la problemsolva reĝimo.
