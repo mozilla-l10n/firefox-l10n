@@ -135,6 +135,11 @@ backup-service-error-recovery-failed =
     .message = Genstart { -brand-short-name } og prøv at gendanne fra din sikkerhedskopi igen.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, der opstod et problem med sikkerhedskopieringen.
+    .message = Prøv igen om et par minutter.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
 backup-service-error-went-wrong =
     .heading = Noget gik galt.
     .message = Der opstod et problem med sikkerhedskopierings-processen for { -brand-short-name }. Prøv igen eller genstart { -brand-short-name }.
@@ -148,6 +153,7 @@ enable-backup-encryption-create-password-label = Adgangskode
 enable-backup-encryption-repeat-password-label = Gentag adgangskode
 enable-backup-encryption-cancel-button = Annuller
 enable-backup-encryption-confirm-button = Gem
+change-backup-encryption-header = Skift adgangskode til sikkerhedskopiering
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
@@ -160,13 +166,26 @@ password-validity-do-not-match = Adgangskoderne er ikke ens
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
+password-rules-a11y-success =
+    .alt = Succes
 password-rules-a11y-warning =
     .alt = Advarsel
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-description2 = Dine gemte adgangskoder og betalingsmetoder vil heller ikke længere blive sikkerhedskopieret.
+disable-backup-encryption-support-link = Hvad bliver sikkerhedskopieret?
 disable-backup-encryption-cancel-button = Annuller
 disable-backup-encryption-confirm-button = Fjern adgangskode
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Noget gik galt. Prøv igen.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
