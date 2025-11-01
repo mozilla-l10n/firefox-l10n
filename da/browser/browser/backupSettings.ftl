@@ -24,6 +24,7 @@ settings-data-backup-toggle = Håndter sikkerhedskopiering
 settings-data-backup-toggle-on = Slå sikkerhedskopiering til
 settings-data-backup-toggle-off = Slå sikkerhedskopiering fra
 settings-data-backup-trigger-button = Sikkerhedskopier nu
+settings-data-backup-in-progress-button = Sikkerhedskopiering er i gang…
 settings-data-backup-in-progress-message =
     .message = Sikkerhedskopiering er i gang…
 settings-data-backup-scheduled-backups-on = Sikkerhedskopiering: TIL
@@ -56,6 +57,7 @@ settings-data-change-password = Skift adgangskode…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Slå sikkerhedskopiering til
+turn-on-scheduled-backups-description = { -brand-short-name } vil oprette et øjebliksbillede af dine data én gang i døgnet. Du kan gendanne dine data, hvis der opstår et problem eller hvis du får en ny enhed.
 turn-on-scheduled-backups-support-link = Hvad bliver sikkerhedskopieret?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Placering
@@ -128,6 +130,12 @@ backup-service-error-corrupt-file =
 backup-service-error-unsupported-version =
     .heading = Filen virker ikke.
     .message = Filen, du har valgt, er ikke kompatibel med denne version af { -brand-short-name }. Vælg en anden fil og prøv igen.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Filen virker ikke.
+    .message = Filen, du har valgt, er ikke oprettet af { -brand-short-name }. Vælg en anden fil og prøv igen.
 # Recovery from backup did not succeed. Potential causes could be file system
 # errors, internal code errors, decryption errors, etc.
 backup-service-error-recovery-failed =
