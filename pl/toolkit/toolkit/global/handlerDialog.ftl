@@ -20,6 +20,13 @@ permission-dialog-description-file-app = Czy zezwolić temu plikowi na otwarcie 
 permission-dialog-description-extension-app = Czy zezwolić rozszerzeniu { $extension } na otwarcie odnośnika typu { $scheme } za pomocą aplikacji { $appName }?
 permission-dialog-description-system-app = Czy otworzyć odnośnik typu { $scheme } za pomocą aplikacji { $appName }?
 permission-dialog-description-system-noapp = Czy otworzyć odnośnik typu { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Czy zezwolić tej witrynie na otwarcie Twojego cyfrowego portfela?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Otwarcie odnośnika typu <strong>{ $scheme }</strong> pozwoli witrynie <strong>{ $host }</strong> na żądanie Twojej prawdziwej tożsamości za pomocą aplikacji <strong>{ $appName }</strong>. Kontynuuj wyłącznie wtedy, gdy ufasz tej witrynie.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Otwarcie odnośnika typu <strong>{ $scheme }</strong> pozwoli tej witrynie na żądanie Twojej prawdziwej tożsamości z cyfrowego portfela. Kontynuuj wyłącznie wtedy, gdy ufasz tej witrynie.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
