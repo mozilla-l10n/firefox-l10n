@@ -147,13 +147,15 @@ urlbar-default-notification-anchor =
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Բացել տեղադրության հարցման վահանակը
 urlbar-localhost-notification-anchor =
-    .tooltiptext = Կառավարեք այս կայքի տեղական սարքերի մուտքը
+    .tooltiptext = Կառավարեք տեղական սարքի հասանելիությունն այս կայքի համար
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Կառավարեք Ձեր տեղական ցանցի հասանելիության համօգտագործումն այս կայքի հետ
 urlbar-xr-notification-anchor =
     .tooltiptext = Բացեք թվացյալ իրականության թույլտվության վահանակը
 urlbar-storage-access-anchor =
     .tooltiptext = Բացեք զննող գործունեության թույլտվության վահանակը
 urlbar-web-rtc-share-screen-notification-anchor =
-    .tooltiptext = Կառավարել պատուհանների կամ էկրանի համօգտագործումը այս կայքի հետ
+    .tooltiptext = Կառավարեք Ձեր պատուհանների կամ էկրանի համօգտագործումը կայքի հետ
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Բացել անցանց պահեստի հաղորդագրության վահանակը
 urlbar-password-notification-anchor =
@@ -364,7 +366,7 @@ quickactions-addons = Դիտել հավելումները
 quickactions-cmd-addons3 = ընդլայնումներ, ոճեր, հավելումներ, հավելումներ
 quickactions-cmd-addons2 = Հավելումներ
 # Opens the bookmarks library window
-quickactions-bookmarks2 = Կառավարեք էջանիշները
+quickactions-bookmarks2 = Կառավարել էջանիշները
 quickactions-cmd-bookmarks = Էջանիշեր
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Մաքրել վերջին պատմությունը
@@ -393,7 +395,7 @@ quickactions-inspector2 = Բացել Մշակողի գործիքները
 quickactions-cmd-inspector2 = տեսուչ, մշակողների գործիքներ, մշակողների գործիքներ
 quickactions-cmd-inspector = Զննիչ, մշակման գործիքներ
 # Opens about:logins
-quickactions-logins2 = Կառավարեք գաղտնաբառերը
+quickactions-logins2 = Կառավարել գաղտնաբառերը
 quickactions-cmd-logins = մուտքագրումներ, գաղտնաբառեր
 # Opens about:addons page in the plugins section
 quickactions-plugins = Կարգավորել բաղադրիչները
@@ -423,7 +425,7 @@ quickactions-settings2 = Կառավարել կարգավորումները
 quickactions-cmd-settings2 = կարգավորումներ, նախապատվություններ, ընտրանքներ, կառավարել
 quickactions-cmd-settings = կարգավորումներ, նախապատվություններ, ընտրանքներ
 # Opens about:addons page in the themes section
-quickactions-themes = Կառավարեք ոճերը
+quickactions-themes = Կառավարել ոճերը
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
@@ -433,7 +435,7 @@ quickactions-cmd-themes = Ոճեր
 quickactions-update = Թարմացնել { -brand-short-name }­-ը
 quickactions-cmd-update = արդիացնել
 # Opens the view-source UI with current pages source
-quickactions-viewsource2 = Դիտել Էջի Կոդը
+quickactions-viewsource2 = Դիտել էջի աղբյուրը
 quickactions-cmd-viewsource2 = դիտել աղբյուրը, աղբյուր, էջի աղբյուրը
 quickactions-cmd-viewsource = դիտել աղբյուրը, աղբյուրը
 # Tooltip text for the help button shown in the result.
@@ -994,7 +996,7 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-manage-bookmarks =
-    .label = Կառավարեք էջանիշները
+    .label = Կառավարել էջանիշները
 bookmarks-recent-bookmarks-panel-subheader = Վերջին Էջանիշերը
 bookmarks-toolbar-chevron =
     .tooltiptext = Ցուցադրել ավելի շատ էջանիշեր
@@ -1027,7 +1029,7 @@ bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Թաքցնել էջանիշների գործիքագոտին
-           *[other] Ցույց տալ էջանիշների գործիքագոտին
+           *[other] Ցուցադրել էջանիշների գործիքագոտին
         }
 bookmarks-tools-menu-button-visibility =
     .label =
@@ -1159,8 +1161,8 @@ popups-infobar-dont-show-message =
     .label = Չցուցադրել սա, երբ ելնող պատուհնները արգելափակված են
     .accesskey = D
 edit-popup-settings =
-    .label = Կառավարեք ելնող պատուհանների կարգավորումները…
-    .accesskey = M
+    .label = Կառավարել թռուցիկների կարգավորումները…
+    .accesskey = Կ
 picture-in-picture-hide-toggle =
     .label = Թաքցնել Նկարը նկարում փոխարկիչը
     .accesskey = H
@@ -1398,6 +1400,13 @@ trustpanel-blocker-see-all = Տեսնել բոլորը
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Հետևողականության պաշտպանություն { $host }-ի համար
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Անվտանգ չէ
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
