@@ -237,6 +237,8 @@ set-default-pdf-handler-primary = Forstået
 # If this expression doesn’t have a direct translation, please
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = Tilføj din signatur hvor som helst!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Tegn, skriv eller upload din signatur og placer den lige dér, hvor du vil. Gem dine mest brugte signaturer til senere brug.
 annotations-make-default-pdf-handler-title = Gør { -brand-short-name } til din foretrukne PDF-editor?
 annotations-make-default-pdf-handler-subtitle = Du får adgang til vores værktøjer, hver gang du åbner en PDF-fil.
 annotations-make-default-pdf-primary-cta =

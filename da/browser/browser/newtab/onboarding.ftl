@@ -515,6 +515,7 @@ create-backup-screen-3-location = Hvor vil du gemme din sikkerhedskopi?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Opret en adgangskode til din sikkerhedskopi
 create-backup-screen-3-subtitle = Kræves for at kryptere dine data. Gem den et sted, du kan huske.
+fx-backup-opt-in-header = Vælg filplacering
 fx-backup-opt-in-filepath-label = Vælg en placering, du planlægger at overføre til en ny enhed, som fx OneDrive.
 fx-backup-opt-in-create-password-label = Indtast adgangskode
 fx-backup-opt-in-confirm-btn-label = Fortsæt
