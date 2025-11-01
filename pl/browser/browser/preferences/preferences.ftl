@@ -170,6 +170,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Otwieranie odnośników w kartach zamiast w nowych oknach
     .accesskey = O
+open-external-link-next-to-active-tab =
+    .label = Otwieranie odnośników z aplikacji obok aktywnej karty
 ask-on-close-multiple-tabs =
     .label = Pytanie o potwierdzenie przed zamknięciem wielu kart
     .accesskey = a
@@ -604,6 +606,7 @@ home-new-windows-tabs-description2 = Wybierz, co ma być wyświetlane przy otwie
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Strona startowa i nowe okna:
+home-homepage-mode-label2 = Nowe okna:
 home-newtabs-mode-label = Nowa karta:
 home-restore-defaults =
     .label = Przywróć domyślne
@@ -616,6 +619,11 @@ home-mode-choice-blank =
     .label = pusta strona
 home-homepage-custom-url =
     .placeholder = Adres URL
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Zarządzaj rozszerzeniem
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Wybierz inną stronę
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -630,13 +638,38 @@ use-current-pages =
 choose-bookmark =
     .label = Użyj zakładki…
     .accesskey = z
+home-homepage-header = Strona startowa
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Inna strona startowa
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Adresy stron
+home-custom-homepage-address =
+    .placeholder = Wpisz adres
+home-custom-homepage-address-button =
+    .label = Dodaj adres
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Nie dodano jeszcze żadnych stron.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Zastąp przez
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = obecnie otwarte strony
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = zakładki…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Wybierz, co wyświetlać na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }.
 home-prefs-search-header =
     .label = Pasek wyszukiwania
+home-prefs-search-header2 =
+    .label = Wyszukiwanie
 home-prefs-shortcuts-header =
     .label = Skróty
 home-prefs-shortcuts-description = Zachowane i odwiedzane strony.
@@ -651,6 +684,9 @@ home-prefs-recommended-by-description-new = Wyjątkowe rzeczy wybrane przez { $p
 home-prefs-recommended-by-header-generic =
     .label = Polecane artykuły
 home-prefs-recommended-by-description-generic = Wyjątkowe rzeczy wybrane przez rodzinę { -brand-product-name(case: "gen") }
+home-prefs-stories-header =
+    .label = Artykuły
+home-prefs-stories-description = Spersonalizowane artykuły na podstawie działań użytkownika
 
 ##
 
@@ -689,6 +725,8 @@ home-prefs-support-firefox-header =
     .label = Wspieraj { -brand-product-name(case: "acc") }
 home-prefs-mission-message = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci.
 home-prefs-mission-message-learn-more-link = Więcej informacji
+home-prefs-manage-topics-link = Zarządzaj tematami
+home-prefs-choose-wallpaper-link = Wybierz tapetę
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1234,6 +1272,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Pasek adresu
+addressbar-suggest-1 = Wybierz, które podpowiedzi będą wyświetlane na pasku adresu
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Podpowiedzi od { -brand-short-name(case: "gen") } i naszych partnerów na pasku adresu.
 addressbar-suggest = Podpowiedzi w pasku adresu opieraj na:
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Pasek adresu — { -firefox-suggest-brand-name(case: "nom", capitalization: "lower") }
