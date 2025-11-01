@@ -292,6 +292,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } ha aggiornato la sua collezione di tonalità. Le versioni precedenti sono state rimosse dall’elenco “Temi salvati”. Scarica le nuove versioni sul sito dei componenti aggiuntivi.
 colorway-removal-notice-learn-more = Ulteriori informazioni
 colorway-removal-notice-button = Ottieni tonalità aggiornate
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Le impostazioni del contrasto di Windows hanno la precedenza sui temi di { -brand-short-name }. Disattiva queste impostazioni per utilizzare i temi in { -brand-short-name }.
 privacy-policy = Informativa sulla privacy
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
