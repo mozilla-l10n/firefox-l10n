@@ -43,7 +43,7 @@ findbar-fast-find-links =
 findbar-case-sensitive-status =
     .value = (Հաշվի առնելով ռեգիստրը)
 findbar-match-diacritics-status =
-    .value = (Տարբերիչ նշանների համապատասխանությամբ)
+    .value = (Հնչյունատարբերիչ նշանների համընկմամբ)
 findbar-entire-word-status =
     .value = (Միայն լրիվ բառերը)
 # Variables:
