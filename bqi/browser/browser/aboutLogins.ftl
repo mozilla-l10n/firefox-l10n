@@ -318,6 +318,11 @@ about-logins-import-dialog-error-cancel = لقو
 about-logins-import-report-title = خولاسه و من ٱووردن دووسمندیا
 about-logins-import-report-description = و من ٱووڌنا وو رزما و { -brand-short-name } و من ٱوورده وابین.
 about-logins-import-report-description2 = رزما و { -brand-short-name } و من ٱوورده وابین.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = ردیف { $number }
+about-logins-import-report-row-description-no-change = تکراری: ی جۊر بیڌن کامل وا ی و من ٱووڌن دیر
 about-logins-import-report-row-description-modified = و من ٱووڌن ورۊ رسۊوی وابی
 about-logins-import-report-row-description-added = و من ٱووڌن نۊ ٱوورده وابی
 about-logins-import-report-row-description-no-change2 = تکراری: ی جۊر بیڌن دییق وا و من زیڌنی هیم سکویی
@@ -336,6 +341,16 @@ about-logins-import-report-row-description-error-missing-field = ختا: { $fiel
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> و من ٱووڌن نۊ و من ٱوورده وابی</div>
+       *[other] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> و من ٱووڌن نۊ و من ٱوورده وابی</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> و من ٱووڌن ورۊ رسۊوی وابی</div>
+       *[other] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> و من ٱووڌن ورۊ رسۊوی وابی</div>
+    }
 about-logins-import-report-error =
     { $count ->
         [one] <span>ختایل:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابین)</span>

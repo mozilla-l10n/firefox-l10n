@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ٱووردن برچسب
+pocket-panel-saved-error-tag-length = برچسبا مئدۊدیت 25 هرفی ن دارن
 pocket-panel-saved-error-not-saved = بلگه زفت نوابیڌه
 pocket-panel-saved-page-removed = بلگه پاک وابی
 pocket-panel-saved-page-saved = من { -pocket-brand-name } زفت وابیڌه
