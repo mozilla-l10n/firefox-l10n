@@ -45,6 +45,7 @@ settings-data-backup-restore-header = Gendan dine data
 ## These strings are shown under the header if scheduled backups are disabled.
 
 settings-data-backup-scheduled-backups-off-restore-description = Brug en { -brand-product-name }-sikkerhedskopi fra en anden enhed til at gendanne dine data.
+settings-data-backup-scheduled-backups-off-restore-choose = Vælg sikkerhedskopi…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
@@ -99,6 +100,8 @@ restore-from-backup-description-with-metadata =
 restore-from-backup-support-link =
     .message = Hvad bliver gendannet?
 restore-from-backup-no-backup-file-link = Har du problemer med at finde din sikkerhedskopi?
+restore-from-backup-filepicker-label = Sikkerhedskopi
+restore-from-backup-filepicker-title = Vælg sikkerhedskopi:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Vælg…
@@ -189,6 +192,7 @@ disable-backup-encryption-confirm-button = Fjern adgangskode
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = Din adgangskode lever ikke op til kravene. Prøv med en anden adgangskode.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
@@ -200,8 +204,30 @@ backup-error-retry = Noget gik galt. Prøv igen.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } er klar til at blive gendannet
+backup-file-title = Gendan { -brand-short-name }
+backup-file-intro = Fortsæt med at bruge nettet og gendan alle dine bogmærker, din historik samt andre data. <a data-l10n-name="backup-file-support-link">Læs mere</a>
+backup-file-path-label = Sikkerhedskopi:
 backup-file-encryption-state-label = Krypteret:
 backup-file-encryption-state-value-encrypted = Ja
 backup-file-encryption-state-value-not-encrypted = Nej
 backup-file-creation-device-label = Enhed:
 backup-file-creation-date-label = Oprettet:
+backup-file-how-to-restore-header = Sådan gendanner du:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Åbn program-menuen ☰ og gå til Indstillinger > Synkronisering
+backup-file-moz-browser-restore-step-2 = Klik på "Vælg sikkerhedskopi" og vælg denne fil.
+backup-file-other-browser-restore-step-3 = Klik på "Vælg sikkerhedskopi" og vælg denne fil
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Bemærk:</b> { $numberOfOtherBackupsFound } anden sikkerhedskopi blev fundet
+       *[other] <b>Bemærk:</b> { $numberOfOtherBackupsFound } andre sikkerhedskopier blev fundet
+    }

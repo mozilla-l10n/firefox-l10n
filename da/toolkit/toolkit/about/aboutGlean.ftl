@@ -154,18 +154,27 @@ about-glean-metrics-table-header-value = Værdi
 about-glean-metrics-table-header-actions = Handlinger
 about-glean-metrics-table-settings-button = Indstillinger
 about-glean-metrics-table-settings-category-general = Generelt
+about-glean-metrics-table-settings-hide-empty-value-rows = Skjul rækker uden værdier
 about-glean-metrics-table-settings-category-visualizations = Visualiseringer
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Eksempel
 about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Maksimal højde for diagram
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Skaleret maksimal højde
 about-glean-metrics-table-settings-histograms-box-padding = Boks-padding
 about-glean-metrics-table-settings-histograms-chart-padding = Diagram-padding
+about-glean-metrics-table-settings-histograms-left-padding = Ekstra afstand til venstre
 about-glean-metrics-table-settings-category-visualizations-timeline = Tidslinje
 about-glean-metrics-table-settings-timelines-height = Højde
 about-glean-metrics-table-settings-timelines-width = Bredde
 about-glean-metrics-table-settings-timelines-chart-padding = Diagram-padding
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Cirkelradius
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = X-forskydning for Y-aksen
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y-forskydning for Y-aksen
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtrer
 # This message sits alongside an input field, further describing its purpose.
@@ -199,3 +208,5 @@ about-glean-about-data-explanation =
 
 about-glean-ping-list-optgroup-built-in =
     .label = Indbyggede pings
+about-glean-ping-list-optgroup-custom =
+    .label = Tilpassede pings
