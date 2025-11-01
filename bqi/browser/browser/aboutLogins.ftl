@@ -316,7 +316,21 @@ about-logins-import-dialog-error-learn-more = قلوه دووسته بۊین
 about-logins-import-dialog-error-try-import-again = قپ ریت دووارته سی و من ٱووردن…
 about-logins-import-dialog-error-cancel = لقو
 about-logins-import-report-title = خولاسه و من ٱووردن دووسمندیا
+about-logins-import-report-description = و من ٱووڌنا وو رزما و { -brand-short-name } و من ٱوورده وابین.
+about-logins-import-report-description2 = رزما و { -brand-short-name } و من ٱوورده وابین.
+about-logins-import-report-row-description-modified = و من ٱووڌن ورۊ رسۊوی وابی
 about-logins-import-report-row-description-added = و من ٱووڌن نۊ ٱوورده وابی
+about-logins-import-report-row-description-no-change2 = تکراری: ی جۊر بیڌن دییق وا و من زیڌنی هیم سکویی
+about-logins-import-report-row-description-modified2 = و من زیڌنی مووجۊد ورۊ رسۊوی وابی
+about-logins-import-report-row-description-added2 = رزم نۊ ٱوورده وابی
+about-logins-import-report-row-description-error = ختا: فیلد ن مووجۊد
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = ختا: مقادیر پوشت سر یک سی { $field }
+about-logins-import-report-row-description-error-missing-field = ختا: { $field } نجۊرست
 
 ##
 ## Variables:
