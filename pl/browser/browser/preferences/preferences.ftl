@@ -113,6 +113,9 @@ extension-controlling-proxy-config = Rozszerzenie <img data-l10n-name="icon"/> 
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Aby włączyć rozszerzenie, przejdź do sekcji dodatki <img data-l10n-name="addons-icon"/> w menu <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = Rozszerzenie „{ $name }” kontroluje część ustawień strony startowej.
 
 ## Preferences UI Search Results
 
@@ -684,7 +687,7 @@ home-prefs-trending-search-description = Popularne i często wyszukiwane tematy
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Wspieraj { -brand-product-name(case: "acc") }
-home-prefs-mission-message = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci
+home-prefs-mission-message = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci.
 home-prefs-mission-message-learn-more-link = Więcej informacji
 # Variables:
 #   $num (number) - Number of rows displayed

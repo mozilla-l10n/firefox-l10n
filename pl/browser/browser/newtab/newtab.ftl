@@ -696,7 +696,7 @@ newtab-widget-message-title = Nie trać koncentracji dzięki listom i wbudowane
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od szybkich przypomnień po codzienne listy zadań, od sesji skupienia po przerwy na rozciągnięcie — nie trać koncentracji ani czasu.
 newtab-promo-card-title = Wspieraj { -brand-product-name(case: "acc") }
-newtab-promo-card-body = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci
+newtab-promo-card-body = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci.
 newtab-promo-card-cta = Więcej informacji
 newtab-promo-card-dismiss-button =
     .title = Zamknij

@@ -140,6 +140,30 @@ about-glean-metrics-table-header-value = Wartość
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Działania
 about-glean-metrics-table-settings-button = Ustawienia
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Ustawienia tabeli statystyk
+about-glean-metrics-table-settings-category-general = Ogólne
+about-glean-metrics-table-settings-hide-empty-value-rows = Ukrywanie wierszy z pustymi wartościami
+about-glean-metrics-table-settings-category-visualizations = Wizualizacje
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Przykład
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Maksymalna wysokość wykresu
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Maksymalna wysokość skalowania
+about-glean-metrics-table-settings-histograms-box-padding = Odstęp pola
+about-glean-metrics-table-settings-histograms-chart-padding = Odstęp wykresu
+about-glean-metrics-table-settings-histograms-left-padding = Dodatkowy odstęp po lewej
+about-glean-metrics-table-settings-category-visualizations-timeline = Oś czasu
+about-glean-metrics-table-settings-timelines-height = Wysokość
+about-glean-metrics-table-settings-timelines-width = Szerokość
+about-glean-metrics-table-settings-timelines-chart-padding = Odstęp wykresu
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Promień okręgu
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Przesunięcie osi X względem osi Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Przesunięcie osi Y względem osi Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtruj
 # This message sits alongside an input field, further describing its purpose.
@@ -168,3 +192,10 @@ about-glean-disable-new-features-button = Wyłącz nowe funkcje
 about-glean-about-data-explanation =
     <a data-l10n-name="glean-dictionary-link">Słownik { -glean-brand-name }</a>
     umożliwia przeglądanie listy zebranych danych.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Wbudowane pingi
+about-glean-ping-list-optgroup-custom =
+    .label = Niestandardowe pingi
