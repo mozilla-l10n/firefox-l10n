@@ -665,6 +665,8 @@ home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Vælg det indhold, du vil have vist på din { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Søgning på internettet
+home-prefs-search-header2 =
+    .label = Søg
 home-prefs-shortcuts-header =
     .label = Genveje
 home-prefs-shortcuts-description = Gemte eller besøgte websteder
@@ -679,6 +681,9 @@ home-prefs-recommended-by-description-new = Interessant indhold udvalgt af { $pr
 home-prefs-recommended-by-header-generic =
     .label = Anbefalede historier
 home-prefs-recommended-by-description-generic = Interessant indhold udvalgt af { -brand-product-name }-holdet
+home-prefs-stories-header =
+    .label = Historier
+home-prefs-stories-description = Tilpassede historier baseret på din aktivitet
 
 ##
 
@@ -717,6 +722,7 @@ home-prefs-support-firefox-header =
     .label = Støt { -brand-product-name }
 home-prefs-mission-message = Vores sponsorer støtter vores mission om at bygge et bedre internet
 home-prefs-mission-message-learn-more-link = Find ud af hvordan
+home-prefs-manage-topics-link = Håndter emner
 home-prefs-choose-wallpaper-link = Vælg en baggrund
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -1262,8 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adressefelt
+addressbar-suggest-1 = Vælg, hvilke forslag der skal vises i adressefeltet
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Forslag fra { -brand-short-name } og vores partnere i dit adressefelt.
 addressbar-suggest = Når jeg bruger adressefeltet ønsker jeg forslag fra
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adressefelt — { -firefox-suggest-brand-name }
@@ -1291,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Mest besøgte websider
     .accesskey = M
+addressbar-locbar-engines-option-1 =
+    .label = Forslag til søgetjenester
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Søgetjenester
     .accesskey = S
@@ -1311,6 +1323,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Få forslag fra internettet relate
 addressbar-locbar-suggest-sponsored-option =
     .label = Forslag fra sponsorer
 addressbar-locbar-suggest-sponsored-desc = Støt { -brand-short-name } med lejlighedsvise sponsorerede forslag.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Hent forslag fra Mozilla, mens du skriver
 addressbar-quickactions-learn-more = Læs mere
 addressbar-dismissed-suggestions-label = Afviste forslag
 addressbar-restore-dismissed-suggestions-description = Gendan afviste forslag fra sponsorer og { -brand-short-name }.
