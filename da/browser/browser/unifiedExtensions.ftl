@@ -11,6 +11,15 @@
 unified-extensions-header-title = Udvidelser
 unified-extensions-manage-extensions =
     .label = Håndter udvidelser
+unified-extensions-discover-extensions =
+    .label = Opdag udvidelser
+unified-extensions-empty-reason-private-browsing-not-allowed = Du har installeret udvidelser, der ikke er aktiverede i private vinduer
+unified-extensions-empty-reason-extension-not-enabled = Du har udvidelser installeret, men ikke aktiveret
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Få en bedre oplevelse med udvidelser
+unified-extensions-empty-content-explain-enable2 = Vælg "{ unified-extensions-manage-extensions.label }" for at aktivere dem i indstillingerne.
+unified-extensions-empty-content-explain-manage2 = Vælg "{ unified-extensions-manage-extensions.label }" for at håndtere dem i indstillingerne.
+unified-extensions-empty-content-explain-extensions-onboarding = Tilpas, hvordan { -brand-short-name } ser ud og fungerer - og forbedrer din sikkerhed og beskyttelsen af dit privatliv.
 
 ## An extension in the main list
 
@@ -83,3 +92,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } udvidelser deaktiveret
         }
     .message = Nogen af dine udvidelser er blevet deaktiveret, fordi de overtræder Mozillas politikker.
+unified-extensions-notice-safe-mode =
+    .message = Alle udvidelser er blevet deaktiveret i fejlsøgnings-tilstand.
