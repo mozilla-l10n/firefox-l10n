@@ -93,7 +93,7 @@ neterror-unknown-protocol = Aby otworzyć ten adres, może być konieczna instal
 neterror-redirect-loop = Problem ten może się pojawić w wyniku zablokowania lub odrzucenia ciasteczek.
 neterror-unknown-socket-type-psm-installed = Należy sprawdzić, czy zainstalowany jest menedżer zabezpieczeń (PSM).
 neterror-unknown-socket-type-server-config = Powodem tego błędu może też być niestandardowa konfiguracja serwera.
-neterror-not-cached-intro = Żądany dokument nie jest dostępny w pamięci podręcznej programu { -brand-short-name }.
+neterror-not-cached-intro = Żądany dokument nie jest dostępny w pamięci podręcznej { -brand-short-name(case: "gen") }.
 neterror-not-cached-sensitive = Ze względów bezpieczeństwa, { -brand-short-name } automatycznie nie pobiera ponownie prywatnych dokumentów.
 neterror-not-cached-try-again = Kliknij przycisk „Spróbuj ponownie”, aby jeszcze raz pobrać dokument z witryny.
 neterror-net-offline = Naciśnij „Spróbuj ponownie”, by przejść do trybu online i odświeżyć stronę.
@@ -134,11 +134,11 @@ neterror-inadequate-security-code = Kod błędu: NS_ERROR_NET_INADEQUATE_SECURIT
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-neterror-clock-skew-error = Zegar systemowy jest ustawiony na { DATETIME($now, dateStyle: "medium") }, co uniemożliwia programowi { -brand-short-name } nawiązania bezpiecznego połączenia. Aby odwiedzić witrynę „<b>{ $hostname }</b>”, ustaw prawidłową datę, czas i strefę czasową w ustawieniach systemowych, a następnie odśwież „<b>{ $hostname }</b>”.
+neterror-clock-skew-error = Zegar systemowy jest ustawiony na { DATETIME($now, dateStyle: "medium") }, co uniemożliwia { -brand-short-name(case: "dat") } nawiązania bezpiecznego połączenia. Aby odwiedzić witrynę „<b>{ $hostname }</b>”, ustaw prawidłową datę, czas i strefę czasową w ustawieniach systemowych, a następnie odśwież „<b>{ $hostname }</b>”.
 neterror-network-protocol-error-intro = Otwierana strona nie może zostać wyświetlona, ponieważ wykryto błąd w protokole sieciowym.
 neterror-network-protocol-error-contact-website = Proszę poinformować właścicieli witryny o tym problemie.
-certerror-expired-cert-second-para = Certyfikat witryny prawdopodobnie wygasł, co uniemożliwia programowi { -brand-short-name } nawiązania bezpiecznego połączenia. Jeśli otworzysz tę stronę, atakujący będą mogli przechwycić informacje, takie jak hasła, adresy e-mail czy dane kart płatniczych.
-certerror-expired-cert-sts-second-para = Certyfikat witryny prawdopodobnie wygasł, co uniemożliwia programowi { -brand-short-name } nawiązania bezpiecznego połączenia.
+certerror-expired-cert-second-para = Certyfikat witryny prawdopodobnie wygasł, co uniemożliwia { -brand-short-name(case: "dat") } nawiązania bezpiecznego połączenia. Jeśli otworzysz tę stronę, atakujący będą mogli przechwycić informacje, takie jak hasła, adresy e-mail czy dane kart płatniczych.
+certerror-expired-cert-sts-second-para = Certyfikat witryny prawdopodobnie wygasł, co uniemożliwia { -brand-short-name(case: "dat") } nawiązania bezpiecznego połączenia.
 certerror-what-can-you-do-about-it-title = Co zrobić w takim przypadku?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Jeśli połączono poprzez sieć firmową lub używasz oprogramowania antywirusowego, możesz spróbować skontaktować się z zespołem wsparcia. Możesz również powiadomić administratora strony o problemie.
@@ -167,3 +167,13 @@ certerror-coep-learn-more = Więcej informacji o COEP (Cross-Origin-Embedder-Po
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Kod błędu: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } nie może utworzyć zabezpieczonego połączenia z serwerem pod adresem { $hostname }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Wygląda na to, że ta witryna korzysta ze starego oprogramowania, które ma znane problemy z bezpieczeństwem.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Upewnij się, że używasz najnowszej wersji { -brand-short-name(case: "gen") }. Przejdź do Pomoc → O programie { -brand-short-name } w menu. Jeśli używasz najnowszego { -brand-short-name(case: "gen") }, to problem najprawdopodobniej dotyczy samej witryny.

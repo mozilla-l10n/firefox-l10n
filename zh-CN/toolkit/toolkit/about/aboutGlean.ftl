@@ -101,6 +101,7 @@ about-glean-metrics-table-settings-button = 设置
 # Settings for the metrics table and its visualizations in about:glean
 about-glean-metrics-table-settings-title = 指标表格设置
 about-glean-metrics-table-settings-category-general = 常规
+about-glean-metrics-table-settings-hide-empty-value-rows = 隐藏空值行
 about-glean-metrics-table-settings-category-visualizations = 可视化
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = 示例
@@ -108,13 +109,19 @@ about-glean-metrics-table-settings-category-visualizations-histogram = 直方图
 about-glean-metrics-table-settings-histograms-chart-max = 图表最大高度
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = 缩放后的最大高度
+about-glean-metrics-table-settings-histograms-box-padding = 条形边距
 about-glean-metrics-table-settings-histograms-chart-padding = 图表边距
 about-glean-metrics-table-settings-histograms-left-padding = 额外左边距
 about-glean-metrics-table-settings-category-visualizations-timeline = 时间轴
 about-glean-metrics-table-settings-timelines-height = 高度
 about-glean-metrics-table-settings-timelines-width = 宽度
+about-glean-metrics-table-settings-timelines-chart-padding = 图表边距
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = 圆点半径
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y 轴相对 X 偏移量
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y 轴相对 Y 偏移量
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = 筛选
 # This message sits alongside an input field, further describing its purpose.
