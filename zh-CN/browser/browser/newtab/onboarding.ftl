@@ -485,6 +485,8 @@ create-backup-screen-2-easy-label = 简易设置
 create-backup-screen-2-easy-list-1 = 书签、历史记录、设置等
 # Preceded by a red X indicating that these are not included in the "Easy setup" backup
 create-backup-screen-2-easy-list-2 = 不包含密码和付款信息
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = 不受加密保护
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = 所有数据
 # Preceded by a green check mark indicating that these are included in the "All data" backup
