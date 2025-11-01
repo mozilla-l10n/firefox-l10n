@@ -351,6 +351,11 @@ about-logins-import-report-modified =
         [one] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> و من ٱووڌن ورۊ رسۊوی وابی</div>
        *[other] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> و من ٱووڌن ورۊ رسۊوی وابی</div>
     }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌن تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابین)</div>
+       *[other] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌن تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابین)</div>
+    }
 about-logins-import-report-error =
     { $count ->
         [one] <span>ختایل:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابین)</span>
