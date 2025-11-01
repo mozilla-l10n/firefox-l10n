@@ -232,3 +232,4 @@ custom-avatar-drag-handle =
 profiles-appmenu-callout-tour-title = Uusi profiilisi on käyttövalmis
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
 profiles-appmenu-callout-tour-subtitle = Napsauta ☰-valikossa profiilinimeäsi luodaksesi uuden profiilin, muokataksesi tätä profiilia tai vaihtaaksesi profiilien välillä.
+profiles-appmenu-callout-tour-primary-button = Näytä ohje

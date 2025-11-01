@@ -20,6 +20,9 @@ permission-dialog-description-file-app = Saako tämä tiedosto avata { $scheme }
 permission-dialog-description-extension-app = Haluatko sallia laajennuksen { $extension } avata { $scheme }-linkin sovelluksella { $appName }?
 permission-dialog-description-system-app = Avaa { $scheme }-linkki sovelluksella { $appName }?
 permission-dialog-description-system-noapp = Avataanko { $scheme }-linkki?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Saako tämä sivusto avata digitaalisen lompakkosi?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
