@@ -30,6 +30,10 @@ options-context-inspector = 查看器
 options-show-user-agent-styles-label = 显示浏览器样式
 options-show-user-agent-styles-tooltip =
     .title = 启用此选项将显示由浏览器加载的默认样式。
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = 显示浏览器影子 DOM
+options-show-user-agent-shadow-dom-tooltip =
+    .title = 启用此选项后，将显示由浏览器处理的影子 DOM 元素。
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = 截短 DOM 属性
 options-collapse-attrs-tooltip =
@@ -146,4 +150,10 @@ options-source-maps-label = 启用源代码映射
 options-source-maps-tooltip =
     .title = 如果您启用此选项，工具中的源代码将被映射。
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = （仅限当前会话，将重新加载当前页面）
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * 仅限当前会话，将重新加载当前页面
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = （将重新加载页面）

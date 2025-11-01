@@ -544,6 +544,7 @@ restored-from-backup-error-primary-button = 关闭
 
 onboarding-personalization-title = 定制您的 { -brand-short-name } 使用体验
 onboarding-personalization-subtitle = 回答几个问题，我们将为您推荐能优化 { -brand-short-name } 使用体验的功能和扩展。
+onboarding-personalization-use-case-title = 您会将 { -brand-short-name } 用于什么情景？
 onboarding-personalization-use-case-personal-option = 个人
 onboarding-personalization-use-case-school-option = 学习
 onboarding-personalization-use-case-work-option = 工作

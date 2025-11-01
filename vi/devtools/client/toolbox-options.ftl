@@ -114,6 +114,8 @@ options-disable-http-cache-label = Vô hiệu hóa bộ đệm HTTP (khi hộp c
 options-disable-http-cache-tooltip =
     .title = Bật tùy chọn này sẽ vô hiệu hóa bộ đệm HTTP cho tất cả các thẻ có hộp công cụ mở. Service Worker không bị ảnh hưởng bởi tùy chọn này.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Vô hiệu hóa JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Tắt JavaScript *
 options-disable-javascript-tooltip =
     .title = Bật tùy chọn này sẽ vô hiệu hóa JavaScript cho thẻ hiện tại. Nếu thẻ hoặc hộp công cụ bị đóng thì sẽ tự động tắt tùy chọn này.
@@ -141,6 +143,9 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Bật bản đồ nguồn
 options-source-maps-tooltip =
     .title = Nếu bạn bật tùy chọn này, các nguồn sẽ được ánh xạ trong các công cụ.
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (chỉ phiên hiện tại, tải lại trang)
 # The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Chỉ phiên hiện tại, tải lại trang
 # The message shown for settings that trigger page reload

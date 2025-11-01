@@ -60,6 +60,9 @@ new-profile-page-input-placeholder =
     .placeholder = 选取名称（例如“办公”或“私人”）
 new-profile-page-done-button =
     .label = 完成编辑
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = “{ $profilename }”的副本已准备好，可进行定制
 profile-window-title-2 = { -brand-short-name } - 选择配置文件
 profile-window-logo =
     .alt = { -brand-short-name } 徽标
@@ -264,6 +267,8 @@ custom-avatar-crop-area =
 custom-avatar-drag-handle =
     .aria-label = 调整裁剪区域大小
 profiles-appmenu-callout-tour-title = 已为您准备好新的配置文件
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = 在 ☰ 菜单中，点击配置文件名即可新建配置文件、编辑当前配置文件，以及在不同的数字身份间自由切换。
 profiles-appmenu-callout-tour-primary-button = 怎么做
 barbell-avatar = 杠铃
 bike-avatar = 自行车

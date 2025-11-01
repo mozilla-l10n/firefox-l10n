@@ -20,6 +20,9 @@ permission-dialog-description-file-app = 要允许此文件使用“{ $appName }
 permission-dialog-description-extension-app = 要允许扩展“{ $extension }”使用“{ $appName }”打开 { $scheme } 链接吗？
 permission-dialog-description-system-app = 要使用“{ $appName }”打开 { $scheme } 链接吗？
 permission-dialog-description-system-noapp = 要打开 { $scheme } 链接吗？
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = 要允许此网站访问您的数字钱包吗？
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-host-app = 打开 <strong>{ $scheme }</strong> 链接将允许 <strong>{ $host }</strong> 通过 <strong>{ $appName }</strong> 请求获取您的真实身份信息。请仅在信任此网站时继续操作。
 # Warning given to the user that the current page is trying to open their digital wallet app

@@ -170,6 +170,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = 在标签页中打开链接而非新窗口
     .accesskey = w
+open-external-link-next-to-active-tab =
+    .label = 从应用打开链接时，将其置于当前使用的标签页旁
 ask-on-close-multiple-tabs =
     .label = 关闭多个标签页前先询问
     .accesskey = m
@@ -597,6 +599,7 @@ home-new-windows-tabs-description2 = 选择您打开主页、新窗口和新标�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = 主页和新窗口
+home-homepage-mode-label2 = 新窗口
 home-newtabs-mode-label = 新标签页
 home-restore-defaults =
     .label = 恢复默认设置
@@ -637,6 +640,8 @@ home-custom-homepage-header = 自定义主页
 home-custom-homepage-subheader = 网址
 home-custom-homepage-address =
     .placeholder = 输入地址
+home-custom-homepage-address-button =
+    .label = 添加地址
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = 未添加网站。
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1255,8 +1260,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = 地址栏
+addressbar-suggest-1 = 选择在地址栏中显示的建议
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = 在地址栏显示来自 { -brand-short-name } 及我们的合作伙伴的建议。
 addressbar-suggest = 使用地址栏时，为我建议：
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = 地址栏 — { -firefox-suggest-brand-name }
@@ -1307,6 +1315,14 @@ addressbar-locbar-suggest-nonsponsored-desc = 从网络上获取与您的搜索�
 addressbar-locbar-suggest-sponsored-option =
     .label = 赞助商建议
 addressbar-locbar-suggest-sponsored-desc = 不定期提供赞助商建议以支持 { -brand-short-name }。
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = 在键入时获取来自 Mozilla 的建议
 addressbar-quickactions-learn-more = 详细了解
 addressbar-dismissed-suggestions-label = 忽略的建议
 addressbar-restore-dismissed-suggestions-description = 恢复显示已忽略的赞助商和 { -brand-short-name } 的建议。

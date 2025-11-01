@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Włącz
 extensions-warning-imported-addons2 =
     .message = Dokończ instalację rozszerzeń, które zostały zaimportowane do { -brand-short-name(case: "gen") }.
 extensions-warning-imported-addons-button = Zainstaluj rozszerzenia
+extensions-warning-safe-mode3 =
+    .message = Wszystkie dodatki zostały wyłączone z powodu działania w trybie rozwiązywania problemów
 
 ## Strings connected to add-on updates
 

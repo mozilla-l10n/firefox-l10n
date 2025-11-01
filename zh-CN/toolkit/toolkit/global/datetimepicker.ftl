@@ -64,9 +64,22 @@ time-picker-label =
     .aria-label = 选择时间
 
 ## These labels are used by screenreaders and other assistive technology
+## to indicate the type of a value/unit that is being selected within a
+## time spinners on a timepicker dialog
+
+time-spinner-hour-label =
+    .aria-label = 时
+time-spinner-minute-label =
+    .aria-label = 分
+
+## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through time units of a spinner on a timepicker dialog
 
 time-spinner-hour-previous =
     .aria-label = 前一小时
 time-spinner-hour-next =
     .aria-label = 后一小时
+time-spinner-minute-previous =
+    .aria-label = 前一分钟
+time-spinner-minute-next =
+    .aria-label = 后一分钟

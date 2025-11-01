@@ -98,6 +98,9 @@ about-glean-metrics-table-header-value = 值
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = 操作
 about-glean-metrics-table-settings-button = 设置
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = 指标表格设置
+about-glean-metrics-table-settings-category-general = 常规
 about-glean-metrics-table-settings-category-visualizations = 可视化
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = 示例
