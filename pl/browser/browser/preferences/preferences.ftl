@@ -1272,7 +1272,7 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Pasek adresu
-addressbar-suggest-1 = Wybierz, które podpowiedzi będą wyświetlane na pasku adresu
+addressbar-suggest-1 = Wybierz, które podpowiedzi będą wyświetlane na pasku adresu.
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
@@ -1286,32 +1286,32 @@ addressbar-suggest-firefox-suggest = Wybierz rodzaje podpowiedzi wyświetlane na
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Więcej informacji
 addressbar-locbar-history-option =
-    .label = historii przeglądania
+    .label = Historia przeglądania
     .accesskey = h
 addressbar-locbar-bookmarks-option =
-    .label = zakładkach
+    .label = Zakładki
     .accesskey = z
 addressbar-locbar-clipboard-option =
-    .label = schowku
+    .label = Schowek
     .accesskey = c
 addressbar-locbar-openpage-option =
-    .label = otwartych kartach
+    .label = Otwarte karty
     .accesskey = k
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
-    .label = skrótach
-    .accesskey = s
+    .label = Skróty
+    .accesskey = S
 addressbar-locbar-topsites-option =
-    .label = popularnych witrynach
+    .label = Popularne witryny
     .accesskey = o
 addressbar-locbar-engines-option-1 =
-    .label = Podpowiedzi wyszukiwarek
-    .accesskey = w
+    .label = Wyszukiwarki
+    .accesskey = W
 addressbar-locbar-engines-option =
-    .label = wyszukiwarkach
-    .accesskey = w
+    .label = Wyszukiwarki
+    .accesskey = W
 addressbar-locbar-quickactions-option =
-    .label = szybkich działaniach.
+    .label = Szybkie działania.
     .accesskey = d
 addressbar-suggestions-settings = Zmień preferencje podpowiedzi dostarczanych przez wyszukiwarki
 addressbar-locbar-showrecentsearches-option =
