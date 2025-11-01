@@ -30,6 +30,10 @@ options-context-inspector = Inspektør
 options-show-user-agent-styles-label = Vis browser-styles
 options-show-user-agent-styles-tooltip =
     .title = Aktivering af dette vil vise de standard-styles, som indlæses af browseren.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Vis Browser Shadow DOM
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Aktivering af dette vil vise Shadow DOM-elementer håndteret af browseren.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Afkort DOM-attributter
 options-collapse-attrs-tooltip =
