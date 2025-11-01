@@ -24,6 +24,10 @@ permission-dialog-description-system-noapp = Åbn { $scheme }-linket?
 wallet-custom-scheme-warning-heading =
     .heading = Tillad dette websted at åbne din digitale tegnebog?
 # Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Ved at åbne et <strong>{ $scheme }</strong>-link giver du <strong>{ $host }</strong> mulighed for at bede om din virkelige identitet fra <strong>{ $appName }</strong>. Fortsæt kun, hvis du stoler på webstedet.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Ved at åbne et <strong>{ $scheme }</strong>-link giver du dette websted mulighed for at bede om din virkelige identitet fra <strong>{ $appName }</strong>. Fortsæt kun, hvis du stoler på webstedet.
+# Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-host = Ved at åbne et <strong>{ $scheme }</strong>-link giver du <strong>{ $host }</strong> mulighed for at bede om din virkelige identitet fra din digitale tegnebog. Fortsæt kun, hvis du stoler på webstedet.
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning = Ved at åbne et <strong>{ $scheme }</strong>-link giver du dette websted mulighed for at bede om din virkelige identitet fra din digitale tegnebog. Fortsæt kun, hvis du stoler på webstedet.

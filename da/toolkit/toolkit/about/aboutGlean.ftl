@@ -153,6 +153,8 @@ about-glean-metrics-table-header-value = Værdi
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Handlinger
 about-glean-metrics-table-settings-button = Indstillinger
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Indstillinger for tabel med målinger
 about-glean-metrics-table-settings-category-general = Generelt
 about-glean-metrics-table-settings-hide-empty-value-rows = Skjul rækker uden værdier
 about-glean-metrics-table-settings-category-visualizations = Visualiseringer
