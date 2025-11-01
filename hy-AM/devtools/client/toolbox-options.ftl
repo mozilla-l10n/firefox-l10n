@@ -71,7 +71,7 @@ options-screenshot-audio-tooltip =
 ## Editor section
 
 # The heading
-options-sourceeditor-label = Խմբագրիչի նախըտրանքներ
+options-sourceeditor-label = Խմբագրիչի նախապատվություններ
 options-sourceeditor-detectindentation-tooltip =
     .title = Գուշակել բացատը ըստ աղբյուրի բովանդակության
 options-sourceeditor-detectindentation-label = Հայտնաբերել ներս շեղումը

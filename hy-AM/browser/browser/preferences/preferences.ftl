@@ -537,6 +537,9 @@ home-mode-choice-blank =
     .label = Դատարկ էջ
 home-homepage-custom-url =
     .placeholder = Փակցրեք URL...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Կառավարել ընդլայնումը
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -551,13 +554,32 @@ use-current-pages =
 choose-bookmark =
     .label = Օգտագործել էջանիշ...
     .accesskey = է
+home-homepage-header = Տնային էջ
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Հարմարեցված տնէջ
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Վեբ-կայքի հասցե(ներ)
+home-custom-homepage-address =
+    .placeholder = Մուտքագրեք հասցե
+home-custom-homepage-address-button =
+    .label = Ավելացնել հասցե
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Դեռևս կայքեր չեն ավելացվել։
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Էջանիշներ…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }-ի բովանդակություն
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Ընտրեք, թե ինչ բովանդակություն պետք է ունենա { -firefox-home-brand-name }-ի էկրանը:
 home-prefs-search-header =
     .label = Վեբ որոնում
+home-prefs-search-header2 =
+    .label = Որոնում
 home-prefs-shortcuts-header =
     .label = Դյուրանցումներ
 home-prefs-shortcuts-description = Ձեր պահպանած կամ այցելած կայքերը
@@ -568,6 +590,8 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = Առաջարկվում է { $provider }
+home-prefs-stories-header =
+    .label = Պատմություններ
 
 ##
 
@@ -603,6 +627,7 @@ home-prefs-trending-search-description = Հանրաճանաչ և հաճախ որ
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name }-ի աջակցում
+home-prefs-mission-message = Մեր հովանավորները աջակցում են ավելի լավ համացանց կերտելու մեր առաքելությանը
 home-prefs-mission-message-learn-more-link = Իմացեք, թե ինչպես
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -1061,6 +1086,12 @@ sitedata-option-block-unvisited =
     .label = Նշոցիկներ չայցելած վեբ կայքերից
 sitedata-option-block-all =
     .label = Բոլոր թխուկները (վեբ կայքերի կոտրման պատճառ կլինեն)
+sitedata-clear2 =
+    .label = Մաքրել դիտարկման տվյալները
+    .accesskey = ա
+sitedata-settings2 =
+    .label = Կառավարել դիտարկման տվյալները
+    .accesskey = Կ
 sitedata-clear =
     .label = Մաքրել տվյալները…
     .accesskey = l
@@ -1143,7 +1174,6 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-etp-standard-desc = Հավասարակշռված է պաշտպանության և կատարման համար։Էջերը կբեռնվեն կանոնակարգված կերպով։
 content-blocking-etp-strict-desc = Ավելի ուժեղ պաշտպանություն, բայց կարող է որոշ կայքերի կամ բովանդակությունների կոտրման պատճառ դառնալ։
 content-blocking-etp-custom-desc = Ընտրեք, որ հետևումները և գրվածքները արգելափակել։
 content-blocking-etp-blocking-desc = { -brand-short-name }-ը արգելափակում է հետևյալը՝
@@ -1370,6 +1400,7 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Միայն HTTPS կերպ
+httpsonly-description3 = Թույլատրում է միայն անվտանգ միացումները վեբ կայքերին։ Չպաշտպանված միացումից առաջ՝ { -brand-short-name }-ը կհարցնի։
 httpsonly-learn-more2 = Ինչպես է աշխատում միայն HTTPS-ը
 httpsonly-description = HTTPS-ը տրամադրում է անվտանգ, գաղտնագրված կապակցում { -brand-short-name }-ի և ձեր այցելած կայքերի միջև: Կայքերի մեծամասնությունը աջակցում է HTTPS և եթե միացված է Միայն HTTPS կերպը, ապա { -brand-short-name }-ը կարդիացնի բոլոր կապակցումները HTTPS-ի:
 httpsonly-learn-more = Իմանալ ավելին
@@ -1386,11 +1417,11 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS-ը HTTPS-ի միջով
-preferences-doh-description = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջոցով ուղարկում է ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապակցմամբ՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժավացնելով տեսնել այն կայքը, որը դուք ցանկանում եք բացել:
+preferences-doh-description = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջով ուղարկում է Ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապով՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժարացնելով տեսնել այն կայքը, որին հասանելիություն ունենալու շեմին եք:
 preferences-doh-description2 = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջով ուղարկում է Ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապով՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժարացնելով տեսնել այն կայքը, որին հասանելիություն ունենալու շեմին եք:
 # Variables:
 #   $status (string) - The status of the DoH connection
-preferences-doh-status = Վիճակը՝ { $status }
+preferences-doh-status = Կարգավիճակը՝ { $status }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Մատակարար՝ { $name }
@@ -1412,7 +1443,7 @@ preferences-doh-setting-default =
     .accesskey = D
 preferences-doh-default-desc = { -brand-short-name }-ն է որոշում, թե երբ օգտագործել անվտանգ DNS՝ ձեր գաղտնիությունը պաշտպանելու համար:
 preferences-doh-default-detailed-desc-1 = Օգտագործել անվտանգ DNS  այն տարածքներում, որտեղ դա մաստելի է
-preferences-doh-default-detailed-desc-2 = Օգտագործել ձեր սկզբնադիր DNS լուծումը, եթե առկա է խնդիր անվտանգ DNS մատակարարի հետ
+preferences-doh-default-detailed-desc-2 = Օգտագործել Ձեր սկզբնադիր DNS լուծողը, եթե առկա է խնդիր անվտանգ DNS մատակարարի հետ
 preferences-doh-default-detailed-desc-3 = Օգտագործել տեղային մատակարարի, եթե հնարավոր է
 preferences-doh-default-detailed-desc-4 = Անջատել, երբ VPN-ը, ծնողական հսկումը կամ ձեռնարկության քաղաքականությունը ակտիվ են
 preferences-doh-default-detailed-desc-5 = Անջատել, երբ ցանցը { -brand-short-name }-ին ասում է, որ չպետք է օգտագործվի անվտանգ DNS

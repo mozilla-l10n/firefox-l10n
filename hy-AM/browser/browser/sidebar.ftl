@@ -4,6 +4,10 @@
 
 menu-view-genai-chat =
     .label = ԱԲ չաթբոտ
+menu-view-contextual-password-manager =
+    .label = Գաղտնաբառեր
+sidebar-options-menu-button =
+    .title = Բացել ցանկը
 
 ## Labels for sidebar history panel
 
@@ -59,6 +63,7 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ընդարձակել կողագոտին վրան պահելիս
+sidebar-manage-extensions = Կառավարել ընդլայնումները
 
 ## Labels for sidebar context menu items
 
@@ -70,10 +75,14 @@ sidebar-context-menu-report-extension =
     .label = Զեկուցել ընդլայնման մասին
 sidebar-context-menu-open-in-tab =
     .label = Բացել նոր ներդիրում
+sidebar-context-menu-open-in-container-tab =
+    .label = Բացել նոր պարունակ ներդիրում
 sidebar-context-menu-open-in-window =
     .label = Բացել նոր պատուհանում
 sidebar-context-menu-open-in-private-window =
     .label = Բացել նոր գաղտնի պատուհանում
+sidebar-context-menu-forget-site =
+    .label = Մաքրել բոլոր տվյալները վեբ կայքի համար…
 sidebar-context-menu-bookmark-tab =
     .label = Էջանշել ներդիրը...
 sidebar-context-menu-copy-link =
@@ -88,6 +97,19 @@ sidebar-context-menu-customize-sidebar =
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
     .label = Փակել ներդիրը { $deviceName }-ում
+sidebar-context-menu-remove-extension2 =
+    .label = Հեռացնել { -brand-short-name }-ից
+sidebar-context-menu-unpin-extension =
+    .label = Հեռացնել կողագոտուց
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page-2 =
+    .label = Ջնջել էջը պատմությունից
+sidebar-history-context-menu-bookmark-page =
+    .label = Էջանշել էջը…
+sidebar-history-context-menu-delete-pages =
+    .label = Ջնջել էջերը պատմությունից
 
 ## Labels for sidebar menu items.
 

@@ -155,6 +155,11 @@ about-webrtc-pc-configuration-hide-msg = Թաքցնել կարգավորումը
 
 ##
 
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Օգտատիրոջ կողմից սահմանված WebRTC նախապատվություններ
+
+##
+
 about-webrtc-save-page-msg = էջը պահպանվել է՝ { $path }
 about-webrtc-debug-mode-off-state-msg = հետևելու մատյանը կարող է գտնվել՝ { $path }
 about-webrtc-debug-mode-on-state-msg = վրիպազերծման կերպը ակտիվ է, հետևելու մատյանը՝ { $path }

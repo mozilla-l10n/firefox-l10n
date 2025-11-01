@@ -19,4 +19,4 @@ crashed-comment =
 crashed-include-URL-2 = Ներառեք կայքերի URL-ները, որոնք բացելիս { -brand-short-name }-ը վթարվել է
 crashed-report-sent = Վթարի զեկույցը արդեն ուղարկվել է: Շնորհակալություն, որ օգնում եք { -brand-short-name }-ը դարձնել էլ ավելի լավը:
 crashed-request-auto-submit-title = Զեկուցել խորապատկերի ներդիրները
-crashed-auto-submit-checkbox-2 = Թարմացնել կարգավորումները՝ ինքնաբար ուղարկելու զեկույցներ, երբ { -brand-short-name }-ը վթարվում է
+crashed-auto-submit-checkbox-2 = Թարմացնել նախապատվությունները՝ { -brand-short-name }-ը վթարվելիս ինքնաբար զեկույցներ ուղարկելու համար

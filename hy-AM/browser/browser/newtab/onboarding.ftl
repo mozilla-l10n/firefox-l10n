@@ -392,6 +392,8 @@ sync-to-mobile-button-label = Համաժամեցեք բջջայինի հետ
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-flair = Խորհուրդ է տրվում
+create-backup-screen-1-sync-label = Համաժամեցնել { -brand-product-name }-ի հետ
 create-backup-screen-1-backup-label = Պահուստավորել համակարգչի վրա
 create-backup-screen-1-backup-body = Պահպանվում է ձեր սարքում կամ OneDrive-ում
 create-backup-select-tile-button-label = Ընտրել

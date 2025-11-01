@@ -199,6 +199,13 @@ fox-doodle-pin-secondary = Ոչ հիմա
 set-default-pdf-handler-headline = <strong>Ձեր PDF-ները բացվում են { -brand-short-name }-ում:</strong> Խմբագրեք կամ ստորագրեք ձևաթղթերը անմիջապես Ձեր դիտարկիչում: Սա փոխելու համար՝ որոնեք «PDF»-ը կարգավորումներում:
 set-default-pdf-handler-primary = Հասկացա
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-primary-cta =
+    .label = Կայել որպես սկզբնադիր
+annotations-make-default-pdf-next =
+    .label = Հաջորդը
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Ձեր ապագայում նոր սարք:
@@ -271,6 +278,7 @@ fxa-menu-message-close-button =
     .aria-label = Փակել
 fxa-menu-message-sign-up-button = Գրանցվել
 fxa-menu-message-sign-in-button = Մուտք գործել
+fxa-menu-message-sync-button = Սկսել համաժամեցումը
 fxa-menu-message-sync-devices-primary-text = Համաժամացրեք ձեր բոլոր սարքերը
 fxa-menu-message-sync-devices-collapsed-text = Համաժամացրեք ձեր բոլոր սարքերը
 fxa-menu-message-backup-data-collapsed-text = Պահուստավորել դիտարկիչի տվյալները
@@ -284,7 +292,13 @@ fxa-menu-message-mobile-collapsed-text = Համաժամեցեք ձեր հեռա�
 multi-cta-fox-doodle-title = Բարի վերադարձ
 multi-cta-fox-doodle-set-default-checkbox = Կայել { -brand-short-name }-ը որպես սկզբնադիր
 multi-cta-fox-doodle-pin-startmenu-checkbox = Ամրացրեք { -brand-short-name }-ը Մեկնարկ ցանկին
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Պահել { -brand-short-name }-ը Dock-ում
+       *[other] Ամրացրել { -brand-short-name }-ը խնդրագոտուն
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Սկսել դիտարկումը
+multi-cta-fox-doodle-main-browser-primary-button-label = Դարձնել { -brand-short-name }-ը իմ հիմնական դիտարկիչը
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
@@ -298,6 +312,8 @@ windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name }-ն 
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Հետագծողները չեն կարող նույնականացնել ձեր սարքը կամ հետևել ձեզ համացանցում, քանի որ մենք դա նրանց թույլ չենք տալիս։
 windows-10-eos-sync-callout-privacy-info-button = Տեսեք, թե ինչն է արգելափակված
 windows-10-eos-callout-addons-primary-button = Տեսեք մեր ընտրությունները
+windows-10-eos-sync-callout-next-button = Հաջորդը
+windows-10-eos-sync-callout-get-started-button = Սկսել
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 

@@ -156,6 +156,8 @@ disable-backup-encryption-confirm-button = Հեռացնել գաղտնաբառը
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name }-ը պատրաստ է վերականգնմանը
+backup-file-title = { -brand-short-name }-ի վերականգում
 backup-file-path-label = Պահուստային ֆայլ՝
 backup-file-encryption-state-label = Գաղտնագրված՝
 backup-file-encryption-state-value-encrypted = Այո

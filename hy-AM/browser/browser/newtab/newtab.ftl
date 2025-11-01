@@ -125,7 +125,7 @@ newtab-menu-open-new-private-window = Բացել նոր գաղտնի պատու�
 newtab-menu-dismiss = Բաց թողնել
 newtab-menu-pin = Ամրացնել
 newtab-menu-unpin = Ապամրացնել
-newtab-menu-delete-history = Ջնջել Պատմությունից
+newtab-menu-delete-history = Ջնջել պատմությունից
 newtab-menu-save-to-pocket = Պահպանել { -pocket-brand-name }-ում
 newtab-menu-delete-pocket = Ջնջել { -pocket-brand-name }-ից
 newtab-menu-archive-pocket = Արխիվացնել { -pocket-brand-name }-ում
@@ -139,7 +139,7 @@ newtab-menu-section-block = Արգելափակել
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
-newtab-menu-manage-sponsored-content = Կառավարեք հովանավորված բովանդակությունը
+newtab-menu-manage-sponsored-content = Կառավարել հովանավորված բովանդակությունը
 newtab-menu-report-this-ad = Հաղորդել այս գովազդի մասին
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
@@ -199,7 +199,7 @@ newtab-label-sponsored-by = Հովանավորված է { $sponsor }-ի կողմ
 # Variables:
 #   $source (string) - The name of a company or their domain
 #   $timeToRead (number) - The estimated number of minutes to read this story
-newtab-label-source-read-time = { $source } · { $timeToRead } րոպե
+newtab-label-source-read-time = { $source } · { $timeToRead } ր․
 # This string is used under fixed size ads to indicate sponsored content
 newtab-label-sponsored-fixed = Հովանավորված
 
@@ -468,7 +468,7 @@ newtab-topic-label-business = Բիզնես
 newtab-topic-label-career = Կարիերա
 newtab-topic-label-education = Կրթություն
 newtab-topic-label-arts = Ժամանց
-newtab-topic-label-food = ՈՒտելիք
+newtab-topic-label-food = Սնունդ
 newtab-topic-label-health = Առողջություն
 newtab-topic-label-hobbies = Խաղեր
 # ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
@@ -504,7 +504,7 @@ newtab-topic-selection-button-pick-interests = Ընտրեք ձեր հետաքր�
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Հետևել
-newtab-section-following-button = Հետևում
+newtab-section-following-button = Հետևվում է
 newtab-section-unfollow-button = Ապահետևել
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Կարգավորեք ձեր լրահոսը
@@ -515,7 +515,7 @@ newtab-section-follow-highlight-title = Կարգավորեք ձեր լրահոս
 
 newtab-section-block-button = Արգելափակել
 newtab-section-blocked-button = Արգելափակված
-newtab-section-unblock-button = Ապակողպել
+newtab-section-unblock-button = Ապաարգելափակել
 
 ## Confirmation modal for blocking a section
 
@@ -649,7 +649,7 @@ newtab-widget-timer-menu-learn-more = Իմանալ ավելին
 newtab-widget-keep-scrolling = Գլորեք՝ ավելին տեսնելու համար
 newtab-widget-message-title = Մնացեք կենտրոնացած ցուցակների և ներկառուցված ժամանակաչափի միջոցով
 newtab-promo-card-title = Աջակցել { -brand-product-name }-ին
-newtab-promo-card-body = Մեր հովանավորները աջակցում են մեր առաքելությանը՝ ստեղծել ավելի լավ վեբ կայք
+newtab-promo-card-body = Մեր հովանավորները աջակցում են ավելի լավ համացանց կերտելու մեր առաքելությանը
 newtab-promo-card-cta = Իմանալ ավելին
 newtab-promo-card-dismiss-button =
     .title = Բաց թողնել

@@ -9,6 +9,8 @@
 
 taskbar-tab-urlbar-button-open =
     .tooltiptext = Ավելացնել ներդիրը խնդրագոտիում
+taskbar-tab-urlbar-button-close =
+    .tooltiptext = Հեռացնել ներդիրը խնդրագոտուց
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:

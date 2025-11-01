@@ -85,8 +85,32 @@ profiles-light-theme = Light
 profiles-dark-theme = Մուգ
 # The default system theme
 profiles-system-theme = Համակարգային
+profiles-system-theme-title =
+    .title = Կիրառել համակարգի ոճը
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Նարգիզ դեղին
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme-2 = Բաց նարդոս
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = Անանուխի կանաչ
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme-2 = Մագնոլիա վարդագույն
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = Օվկիանոսի կապույտ
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme-2 = Աղյուսե կարմիր
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme-2 = Մամուռի կանաչ
+profiles-gray-theme = Մոխրագույն
+profiles-gray-theme-title =
+    .title = Կիրառել մոխրագույն ոճը
+profiles-yellow-theme = Դեղին
+profiles-violet-theme-title =
+    .title = Կիրառել մանուշակագույն ոճը
+profiles-green-theme-title =
+    .title = Կիրառել կանաչ ոճը
+profiles-cyan-theme-title =
+    .title = Կիրառել փիրուզագույն ոճը
 
 ## Data collection settings changed (multi-profile)
 
@@ -97,11 +121,24 @@ multiprofile-data-collection-dismiss = Բաց թողնել
 
 book-avatar-alt =
     .alt = Գիրք
+flower-avatar-alt =
+    .alt = Ծաղիկ
+heart-avatar-alt =
+    .alt = Սիրտ
 clock-avatar-alt =
     .alt = Ժամացույց
+shopping-avatar-alt =
+    .alt = Գնումների զամբյուղ
+star-avatar-alt =
+    .alt = Աստղ
 
 ## Tooltips for default avatar icons
 
 book-avatar = Գիրք
+clock-avatar = Ժամացույց
+flower-avatar = Ծաղիկ
+heart-avatar = Սիրտ
 shopping-avatar = Զամբյուղ
 star-avatar = Աստղ
+custom-avatar-crop-back-button =
+    .aria-label = Ետ

@@ -46,6 +46,9 @@ install-search-engine-no = Ոչ
 add-engine-window =
     .title = Ավելացնել որոնիչ
     .style = min-width: 32em;
+edit-engine-window =
+    .title = Խմբագրել որոնիչը
+    .style = min-width: 32em;
 add-engine-button = Ավելացնել հարմարեցված որոնիչ
 add-engine-name = Որոնիչի անունը
 add-engine-keyword2 = Հիմնաբառ (ըստ ցանկության)
@@ -54,6 +57,10 @@ add-engine-keyword2 = Հիմնաբառ (ըստ ցանկության)
 
 add-engine-keyword-placeholder =
     .placeholder = օրինակ՝ @mdn
+
+## The following strings are used as error messages.
+
+add-engine-no-url = Խնդրում ենք մուտքագրել URL։
 
 ## The following strings are used as labels for the dialog's buttons.
 

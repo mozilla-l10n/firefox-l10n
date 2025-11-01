@@ -204,7 +204,7 @@ profiler-popup-presets-custom-label =
 ## History panel
 
 appmenu-manage-history =
-    .label = Կառավարեք պատմությունը
+    .label = Կառավարել պատմությունը
 appmenu-restore-session =
     .label = Վերականգնել նախորդ աշխատաշրջանը
 appmenu-clear-history =

@@ -141,7 +141,7 @@ urlbar-web-authn-anchor =
 urlbar-canvas-notification-anchor =
     .tooltiptext = Կառավարել canvas դուրս բերման թույլտվությունները
 urlbar-web-rtc-share-microphone-notification-anchor =
-    .tooltiptext = Կառավարել Ձեր խոսափողի համօգտագործումն այս կայքով
+    .tooltiptext = Կառավարեք Ձեր խոսափողի համօգտագործումը կայքի հետ
 urlbar-default-notification-anchor =
     .tooltiptext = Բացել հաղորդագրության վահանակը
 urlbar-geolocation-notification-anchor =
@@ -163,11 +163,11 @@ urlbar-password-notification-anchor =
 urlbar-plugins-notification-anchor =
     .tooltiptext = Կառավարել բաղադրիչների օգտագործումը
 urlbar-web-rtc-share-devices-notification-anchor =
-    .tooltiptext = Կառավարել Ձեր տեսախցիկի և/կամ խոսափողի համօգտագործումը այս կայքով
+    .tooltiptext = Կառավարեք Ձեր տեսախցիկի և/կամ խոսափողի համօգտագործումը կայքի հետ
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
-    .tooltiptext = Կառավարեք  բարձրախոսի համօգտագործումը այս կայքի հետ
+    .tooltiptext = Կառավարեք բարձրախոսի համօգտագործումը կայքի հետ
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Բացել ինքնանվագարկման վահանակը
 urlbar-persistent-storage-notification-anchor =

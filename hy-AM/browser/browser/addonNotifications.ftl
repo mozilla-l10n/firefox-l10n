@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xpinstall-prompt = { -brand-short-name } կասեցրել է ձեր համակարգչում ծրագրի տեղակայման հարցումը այս կայքից:
+xpinstall-prompt = { -brand-short-name }-ը կանխել է այս կայքին Ձեր համակարգչում ծրագրային ապահովման տեղադրումը հարցնելուց։
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.

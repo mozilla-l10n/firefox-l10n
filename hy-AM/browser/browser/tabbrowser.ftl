@@ -8,11 +8,24 @@ tabbrowser-menuitem-close-tab =
     .label = Փակել ներդիրը
 tabbrowser-menuitem-close =
     .label = Փակել
+# Displayed within the tooltip on tabs inside of a tab group.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName }․ { $containerName }
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
+tabbrowser-container-tab-title = { $title }․ { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -21,7 +34,7 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 tabbrowser-close-tabs-button =
     .tooltiptext =
         { $tabCount ->
-            [one] Փակել ներդիր
+            [one] Փակել ներդիրը
            *[other] Փակել { $tabCount } ներդիրները
         }
 # Variables:
@@ -29,7 +42,7 @@ tabbrowser-close-tabs-button =
 tabbrowser-close-tabs-tooltip =
     .label =
         { $tabCount ->
-            [one] Փակել ներդիր
+            [one] Փակել ներդիրը
            *[other] Փակել { $tabCount } ներդիրները
         }
 
@@ -43,41 +56,41 @@ tabbrowser-mute-tab-audio-tooltip =
     .label =
         { $tabCount ->
             [one] Լռեցնել ներդիրը ({ $shortcut })
-           *[other] լռեցնել { $tabCount } ներդիրները ({ $shortcut })
+           *[other] Լռեցնել { $tabCount } ներդիրները ({ $shortcut })
         }
 # Variables:
 #   $shortcut (String): The keyboard shortcut for "Unmute tab".
 tabbrowser-unmute-tab-audio-tooltip =
     .label =
         { $tabCount ->
-            [one] Միացնել ներդիրը ({ $shortcut })
-           *[other] միացնել { $tabCount } ներդիրները ({ $shortcut })
+            [one] Ապալռեցնել ներդիրը ({ $shortcut })
+           *[other] Ապալռեցնել { $tabCount } ներդիրները ({ $shortcut })
         }
 tabbrowser-mute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
-            [one] Լռեցնել ներդիր
+            [one] Լռեցնել ներդիրը
            *[other] Լռեցնել { $tabCount } ներդիրները
         }
 tabbrowser-unmute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
-            [one] Միացնել ներդիրը
-           *[other] միացնել { $tabCount } ներդիրները
+            [one] Ապալռեցնել ներդիրը
+           *[other] Ապալռեցնել { $tabCount } ներդիրները
         }
 tabbrowser-unblock-tab-audio-tooltip =
     .label =
         { $tabCount ->
             [one] Նվագարկել ներդիրը
-           *[other] նվագարկել { $tabCount } ներդիրները
+           *[other] Նվագարկել { $tabCount } ներդիրները
         }
 
 ## Tooltips for tab audio control
 
 tabbrowser-unmute-tab-audio-aria-label =
-    .aria-label = Միացնել ձայնը
+    .aria-label = Ապալռեցնել ներդիրը
 tabbrowser-mute-tab-audio-aria-label =
-    .aria-label = Անջատել ձայնը
+    .aria-label = Լռեցնել ներդիրը
 # Used to unblock a tab with audio from autoplaying
 tabbrowser-unblock-tab-audio-aria-label =
     .aria-label = Նվագարկել ներդիրը
@@ -90,8 +103,8 @@ tabbrowser-unblock-tab-audio-aria-label =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Փակե՞լ { $tabCount } ներդիրները:
 tabbrowser-confirm-close-tabs-button = Փակել ներդիրները
-tabbrowser-ask-close-tabs-checkbox = Հարցնել բազմակի ներդիրները փակելիս
-tabbrowser-confirm-close-tabs-checkbox = Զգուշացնել բազմակի ներդիրները փակելիս
+tabbrowser-ask-close-tabs-checkbox = Հարցնել բազում ներդիրներ փակելուց առաջ
+tabbrowser-confirm-close-tabs-checkbox = Հաստատել բազում ներդիրներ փակելուց առաջ
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -106,8 +119,8 @@ tabbrowser-confirm-close-windows-title =
     }
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
-        [windows] Փակեք և դուրս եկեք
-       *[other] Փակեք և դուրս եկեք
+        [windows] Փակել և ելնել
+       *[other] Փակել և լքել
     }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
@@ -117,11 +130,20 @@ tabbrowser-confirm-close-tabs-with-key-title = Փակե՞լ պատուհանը �
 tabbrowser-confirm-close-tabs-with-key-button = Փակել { -brand-short-name }-ը
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Հարցրեք նախքան { $quitKey }-ով լքելը
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Հաստատեք նախքան { $quitKey }-ով լքելը
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = Լքել { -brand-short-name }-ը թե՞ փակել ընթացիկ ներդիրը։
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Ելք { -brand-short-name }-ից
+       *[other] Լքել { -brand-short-name }-ը
+    }
 tabbrowser-confirm-close-tab-only-button = Փակել ընթացիկ ներդիրը
 
 ## Confirmation dialog when opening multiple tabs simultaneously
