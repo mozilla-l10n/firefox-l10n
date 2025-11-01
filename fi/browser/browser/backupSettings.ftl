@@ -149,6 +149,11 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, varmuuskopioinnissa oli ongelma.
     .message = Yritä uudelleen muutaman minuutin kuluttua.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Jokin meni pieleen
+    .message = { -brand-short-name }ia varmuuskopioitaessa oli ongelma. Yritä uudelleen tai käynnistä { -brand-short-name } uudelleen.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -166,6 +171,7 @@ change-backup-encryption-header = Vaihda varmuuskopion salasana
 password-rules-header = Salasanan vaatimukset
 password-rules-length-description = Vähintään 8 merkkiä
 password-rules-email-description = Ei sinun sähköpostiosoite
+password-rules-disclaimer = Pysy turvassa – älä käytä salasanoja uudelleen. Katso lisää vinkkejä <a data-l10n-name="password-support-link">vahvojen salasanojen luomiseen</a>.
 password-validity-has-email = Ei voi olla sähköpostiosoite
 password-validity-do-not-match = Salasanat eivät täsmää
 
@@ -179,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Poista salasanasuojaus
+disable-backup-encryption-description2 = Tallennettuja salasanojasi ja maksutapojasi ei myöskään enää varmuuskopioida.
 disable-backup-encryption-support-link = Mitä varmuuskopioidaan?
 disable-backup-encryption-cancel-button = Peruuta
 disable-backup-encryption-confirm-button = Poista salasana
@@ -200,6 +207,7 @@ backup-error-retry = Jokin meni pieleen. Yritä uudelleen.
 
 backup-file-header = { -brand-short-name } on valmis palautettavaksi
 backup-file-title = Palauta { -brand-short-name }
+backup-file-intro = Palaa selaamisen pariin ja palauta kaikki kirjanmerkkisi, historiasi ja muut tietosi. <a data-l10n-name="backup-file-support-link">Lisätietoja</a>
 backup-file-path-label = Varmuuskopiotiedosto:
 backup-file-encryption-state-label = Salattu:
 backup-file-encryption-state-value-encrypted = Kyllä
@@ -228,6 +236,14 @@ backup-file-other-browser-restore-step-4 = Käynnistä { -brand-short-name } uud
 ## if they have one on their file system.
 
 # Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Huomautus:</b> { $numberOfOtherBackupsFound } muu varmuuskopiotiedosto löytyi
+       *[other] <b>Huomautus:</b> { $numberOfOtherBackupsFound } muuta varmuuskopiotiedostoa löytyi
+    }
+# Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Luotu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } laitteella { $machineName }
+backup-file-restore-file-validation-error = Tämä tiedosto ei toimi. Kokeile valita toinen tiedosto. <a data-l10n-name="restore-problems">Onko ongelmia edelleen?</a>

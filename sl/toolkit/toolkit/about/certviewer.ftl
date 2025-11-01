@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Kraj registracije
 certificate-viewer-locality = Kraj
 certificate-viewer-location = Lokacija
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Ime dnevnika
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID dnevnika
 certificate-viewer-method = Metoda
 certificate-viewer-modulus = Modulo

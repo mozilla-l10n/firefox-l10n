@@ -116,6 +116,8 @@ options-disable-http-cache-label = Onemogoči predpomnilnik HTTP (ko so razvojna
 options-disable-http-cache-tooltip =
     .title = Vklop te možnosti bo onemogočil predpomnilnik HTTP za vse zavihke, ki imajo odrta razvojna orodja. Ta možnost ne vpliva na Service Workerje.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Onemogoči JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Onemogoči JavaScript *
 options-disable-javascript-tooltip =
     .title = Če vključite to možnost, boste onemogočili JavaScript v trenutnem zavihku. Če zaprete zavihek ali razvojna orodja, bo nastavitev pozabljena.
@@ -144,4 +146,10 @@ options-source-maps-label = Omogoči preslikave virov
 options-source-maps-tooltip =
     .title = Če omogočite to možnost, bodo viri v orodjih preslikani.
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (samo za to sejo, ponovno naloži stran)
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Samo za to sejo, ponovno naloži stran
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = (ponovno naloži stran)
