@@ -103,3 +103,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } rozšíření zakázáno
         }
     .message = Některá vaše rozšíření byla zakázána kvůli porušení zásad společnosti Mozilla.
+unified-extensions-notice-safe-mode =
+    .message = Všechna rozšíření byla režimem řešení potíží zakázána.

@@ -675,9 +675,18 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Chcete aktualizovat na Windows 11?
+    Pojďme zazálohovat data aplikace { -brand-product-name }.
 create-backup-screen-1-subtitle = Automaticky chraňte svá hesla, záložky a další data během 1–2 minut.
 create-backup-screen-1-flair = Doporučeno
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Zjistit více</a>
+create-backup-screen-1-sync-label =
+    { -brand-product-name.case-status ->
+        [with-cases] Synchronizace s { -brand-product-name(case: "ins") }
+       *[no-cases] Synchronizace s aplikací { -brand-product-name }
+    }
+create-backup-screen-1-sync-body = Zálohuje všechna přihlášená zařízení
 create-backup-screen-1-backup-label = Zálohovat do PC
 create-backup-screen-1-backup-body = Uloží na vaše zařízení nebo na OneDrive
 create-backup-select-tile-button-label = Vybrat
