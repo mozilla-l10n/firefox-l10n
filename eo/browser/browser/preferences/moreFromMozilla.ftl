@@ -39,6 +39,7 @@ more-from-moz-mozilla-monitor-button = Elŝuti { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } A.I.
 more-from-moz-solo-description = Kreu vian propran retejon tuj kaj konektu senpage vian personecitigan nomregnon.
 more-from-moz-solo-button = Provu { -solo-ai-brand-name }
+more-from-moz-solo-title-2 = { -solo-ai-brand-name } Kreanto de retejoj per AI
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 

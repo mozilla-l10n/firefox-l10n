@@ -253,9 +253,17 @@ tab-group-editor-color-selector2-red = Ruĝa
 tab-group-description = { $tabGroupName } — Grupo de langetoj
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Faldita
 tab-group-label-tooltip-expanded = { $tabGroupName } — Malfaldita
+tab-group-preview-name =
+    .aria-label = Langetoj en falida grupo
 tab-context-unnamed-group =
     .label = Grupo sen nomo
 tab-group-name-default = Grupo sen nomo
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Listo de malfermitaj langetoj
+tab-group-preview-closed-description = Listo de fermitaj langetoj
 
 ##
 
@@ -340,3 +348,16 @@ tab-group-context-open-saved-group-in-new-window =
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Apartigita vido
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Aldoni apartigitan vidon
+    .accesskey = a
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Malfermi en apartigita vido
+    .accesskey = M
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Fini la apartigitan vidon
+    .accesskey = F
+tab-context-badge-new = Nova

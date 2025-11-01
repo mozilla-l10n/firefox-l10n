@@ -1304,6 +1304,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = popularnych witrynach
     .accesskey = o
+addressbar-locbar-engines-option-1 =
+    .label = Podpowiedzi wyszukiwarek
+    .accesskey = w
 addressbar-locbar-engines-option =
     .label = wyszukiwarkach
     .accesskey = w
@@ -1324,6 +1327,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Otrzymuj podpowiedzi z Internetu 
 addressbar-locbar-suggest-sponsored-option =
     .label = Podpowiedzi sponsorów
 addressbar-locbar-suggest-sponsored-desc = Wspieraj { -brand-short-name(case: "acc") }, od czasu do czasu wyświetlając sponsorowane podpowiedzi.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Pobieranie podpowiedzi od Mozilli podczas pisania
 addressbar-quickactions-learn-more = Więcej informacji
 addressbar-dismissed-suggestions-label = Odrzucone podpowiedzi
 addressbar-restore-dismissed-suggestions-description = Przywróć odrzucone podpowiedzi sponsorów i { -brand-short-name(case: "gen") }.
