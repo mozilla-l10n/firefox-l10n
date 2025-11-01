@@ -60,6 +60,9 @@ new-profile-page-input-placeholder =
     .placeholder = Valitse nimi, kuten "Työ" tai "Henkilökohtainen"
 new-profile-page-done-button =
     .label = Muokkaus valmis
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Profiilin { $profilename } kopio on valmis muokattavaksi
 copied-profile-page-header-description = Kopioimme tietosi ja asetuksesi uuteen profiiliin. Anna sille nyt nimi, valitse ulkoasu ja tee siitä omasi.
 profile-window-title-2 = { -brand-short-name } - Valitse profiili
 profile-window-logo =
@@ -200,6 +203,7 @@ diamond-avatar-alt =
 
 book-avatar = Kirja
 briefcase-avatar = Salkku
+clock-avatar = Kello
 custom-avatar = Mukautettu profiilikuva
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Timantti
@@ -216,6 +220,7 @@ picture-avatar = Kuva
 # Present refers to a gift box, not the current time period
 present-avatar = Lahja
 shopping-avatar = Ostoskärryt
+soccer-ball-avatar = Jalkapallo
 star-avatar = Tähti
 video-game-controller-avatar = Peliohjain
 custom-avatar-crop-view =
@@ -225,3 +230,5 @@ custom-avatar-crop-area =
 custom-avatar-drag-handle =
     .aria-label = Muuta rajausalueen kokoa
 profiles-appmenu-callout-tour-title = Uusi profiilisi on käyttövalmis
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = Napsauta ☰-valikossa profiilinimeäsi luodaksesi uuden profiilin, muokataksesi tätä profiilia tai vaihtaaksesi profiilien välillä.

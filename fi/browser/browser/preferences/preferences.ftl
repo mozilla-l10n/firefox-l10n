@@ -636,6 +636,8 @@ home-custom-homepage-address =
     .placeholder = Kirjoita osoite
 home-custom-homepage-address-button =
     .label = Lisää osoite
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Ei vielä lisättyjä verkkosivustoja.
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Kirjanmerkit…
@@ -1248,6 +1250,9 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Osoitepalkki
+addressbar-suggest-1 = Valitse osoiterivillä näkyvät ehdotukset
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Ehdota osoitepalkissa sivuja
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Osoitepalkki — { -firefox-suggest-brand-name }
