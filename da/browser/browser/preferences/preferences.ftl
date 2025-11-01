@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Klik på Tilføjelser <img data-l10n-name="addons-icon"/> i menuen <img data-l10n-name="menu-icon"/> for at aktivere udvidelsen.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } kontrollerer nogle af indstillingerne for din startside.
 
 ## Preferences UI Search Results
 
@@ -167,6 +170,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Åbn links i faneblade fremfor i nye vinduer
     .accesskey = f
+open-external-link-next-to-active-tab =
+    .label = Åbn links fra apps ved siden af dit aktuelle faneblad
 ask-on-close-multiple-tabs =
     .label = Spørg, når jeg lukker flere faneblade
     .accesskey = f
@@ -614,6 +619,8 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Håndter udvidelse
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Vælg et specifik websted
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -632,13 +639,21 @@ home-homepage-header = Startside
 
 ## Custom Homepage subpage
 
+home-custom-homepage-header = Tilpasset startside
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Websteds-adresse(r)
 home-custom-homepage-address =
     .placeholder = Indtast adresse
 home-custom-homepage-address-button =
     .label = Tilføj adresse
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Ingen websteder tilføjet endnu.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Erstat med
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Aktuelt åbnede sider
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Bogmærker…

@@ -60,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Vælg et navn, fx "Arbejde" eller "Personligt"
 new-profile-page-done-button =
     .label = Redigering fuldført
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Din kopi af { $profilename } er klar til at blive tilpasset
+copied-profile-page-header-description = Vi har kopieret dine data og indstillinger til en ny profil. Giv profilen et navn, vælg et udseende, og gør den til din egen.
 profile-window-title-2 = { -brand-short-name } - Vælg en profil
 profile-window-logo =
     .alt = { -brand-short-name }-logo
@@ -264,6 +268,8 @@ custom-avatar-crop-area =
 custom-avatar-drag-handle =
     .aria-label = Ændr størrelsen på beskæringsområdet
 profiles-appmenu-callout-tour-title = Din nye profil er klar til brug
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = Tryk på dit profilnavn i menuen ☰ for at oprette en ny, redigere denne profil, eller skifte mellem dine profiler.
 profiles-appmenu-callout-tour-primary-button = Vis mig hvordan
 barbell-avatar = Vægtstang
 bike-avatar = Cykel
