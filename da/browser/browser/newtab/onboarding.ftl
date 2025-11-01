@@ -515,6 +515,27 @@ create-backup-screen-3-location = Hvor vil du gemme din sikkerhedskopi?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Opret en adgangskode til din sikkerhedskopi
 create-backup-screen-3-subtitle = Kræves for at kryptere dine data. Gem den et sted, du kan huske.
+fx-backup-opt-in-filepath-label = Vælg en placering, du planlægger at overføre til en ny enhed, som fx OneDrive.
+fx-backup-opt-in-create-password-label = Indtast adgangskode
+fx-backup-opt-in-confirm-btn-label = Fortsæt
+fx-backup-opt-in-cancel-btn-label = Tilbage
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Din sikkerhedskopi er planlagt
+fx-backup-confirmation-screen-close-button = Luk
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Inkluderer alle browsing-data
+fx-backup-confirmation-screen-all-data-item-text-2 = Gemt på din enhed
+fx-backup-confirmation-screen-all-data-item-text-3 = Krypteret og beskyttet af en adgangskode
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Bogmærker, historik, indstillinger med mere er inkluderet
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Gemt på din enhed
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Adgangskoder og betalingsmetoder er ikke inkluderet
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Gå til <a data-l10n-name="settings">Indstillinger</a> for at inkludere følsomme data.
+fx-backup-confirmation-screen-item-subtext-1 = Sikkerhedskopieringen starter om et par minutter og kører en gang i døgnet. Du kan se status for processen under <a data-l10n-name="settings">Indstillinger</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } vil lede efter din sikkerhedskopi, hvis du behøver at installere forfra.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -534,3 +555,17 @@ restored-from-backup-success-no-checklist-primary-button = Fortsæt
 restored-from-backup-error-title = Hmm, der var et problem med din sikkerhedskopi.
 restored-from-backup-error-subtitle = Hvis du har en anden { -brand-short-name }-sikkerhedskopi, kan du prøve at gendanne fra den. <a data-l10n-name="restore-problems">Har du stadig problemer?</a>
 restored-from-backup-error-primary-button = Luk
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Tilpas din { -brand-short-name }-oplevelse
+onboarding-personalization-subtitle = Svar på nogle få spørgsmål, så vi kan anbefale funktioner og udvidelser for at gøre din oplevelse med { -brand-short-name } bedre.
+onboarding-personalization-use-case-title = Hvad skal du bruge { -brand-short-name } til?
+onboarding-personalization-use-case-personal-option = Personlig brug
+onboarding-personalization-use-case-school-option = Uddannelse
+onboarding-personalization-use-case-work-option = Arbejde
+onboarding-personalization-motivation-title = Hvilke funktioner i { -brand-short-name } er vigtigst for dig?
+onboarding-personalization-motivation-privacy-option = Privatliv og sikkerhed
+onboarding-personalization-motivation-productivity-option = Produktivitet
+onboarding-personalization-motivation-other-option = Andet
