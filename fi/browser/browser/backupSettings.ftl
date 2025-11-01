@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Sijainti
 settings-data-backup-last-backup-location-show-in-folder = Näytä kansiossa
 settings-data-backup-last-backup-location-edit = Muokkaa…
 settings-data-create-backup-error = Varmuuskopion luomisessa { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } tapahtui virhe
+settings-sensitive-data-encryption-description = Varmuuskopioi salasanasi ja maksutapasi, pidä kaikki tietosi turvassa salauksen avulla.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Tiedostonimi: { $fileName }
@@ -43,17 +44,21 @@ settings-data-backup-restore-header = Palauta tietosi
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
+settings-data-backup-scheduled-backups-off-restore-description = Palauta tiedot käyttämällä { -brand-product-name }-varmuuskopiota toiselta laitteelta.
 settings-data-backup-scheduled-backups-off-restore-choose = Valitse varmuuskopiotiedosto…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Palauta { -brand-product-name }-tiedot viimeisimmästä varmuuskopiosta.
 settings-data-backup-scheduled-backups-on-restore-choose = Palauta…
+settings-data-toggle-encryption-label = Varmuuskopioi arkaluontoiset tietosi
 settings-data-toggle-encryption-support-link = Lue lisää
 settings-data-change-password = Vaihda salasana…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Ota varmuuskopiointi käyttöön
+turn-on-scheduled-backups-description = { -brand-short-name } luo tilannevedoksen tiedoistasi 24 tunnin välein. Voit palauttaa tiedot varmuuskopiosta, jos kohtaat ongelmia tai hankit uuden laitteen.
 turn-on-scheduled-backups-support-link = Mitä varmuuskopioidaan?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Sijainti
@@ -66,11 +71,16 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Valitse…
        *[other] Selaa…
     }
+turn-on-scheduled-backups-encryption-label = Varmuuskopioi arkaluontoiset tietosi
 turn-on-scheduled-backups-encryption-create-password-label = Salasana
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Toista salasana
 turn-on-scheduled-backups-cancel-button = Peruuta
 turn-on-scheduled-backups-confirm-button = Ota varmuuskopiointi käyttöön
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Valitsemassasi varmuuskopiokansiossa oli ongelma. Valitse toinen kansio ja yritä uudelleen.
+backup-error-file-system = Valitsemassasi varmuuskopiokansiossa oli ongelma { -brand-short-name }in varmuuskopiointia suorittaessa.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
@@ -83,6 +93,10 @@ turn-off-scheduled-backups-confirm-button = Poista varmuuskopiointi käytöstä 
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Palauta tietosi
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Tämä korvaa kaikki nykyiset { -brand-short-name }-tiedot varmuuskopiosi sisällöllä ajasta { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = Mitä palautetaan?
 restore-from-backup-no-backup-file-link = Ongelmia varmuuskopion löytämisessä?
@@ -94,7 +108,9 @@ restore-from-backup-file-choose-button =
        *[other] Selaa…
     }
 restore-from-backup-password-label = Salasana
+restore-from-backup-password-description = Tämä avaa salatun varmuuskopiosi.
 restore-from-backup-cancel-button = Peruuta
+restore-from-backup-confirm-button = Palauta ja käynnistä uudelleen
 restore-from-backup-restoring-button = Palautetaan…
 
 ## These strings are displayed in a small error message bar in the settings
@@ -104,9 +120,39 @@ restore-from-backup-restoring-button = Palautetaan…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Väärä salasana. <a data-l10n-name="incorrect-password-support-link">Onko ongelmia edelleen?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Tämä tiedosto ei toimi
+    .message = Tässä varmuuskopiotiedostossa on ongelma. Valitse eri tiedosto ja yritä uudelleen.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Tämä tiedosto ei toimi
+    .message = Tämä tiedosto ei ole yhteensopiva tämän { -brand-short-name }-version kanssa. Valitse eri tiedosto ja yritä uudelleen.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Tämä tiedosto ei toimi
+    .message = Valitsemasi tiedosto ei ole { -brand-short-name }in luoma. Valitse eri tiedosto ja yritä uudelleen.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } ei voinut palauttaa
+    .message = Käynnistä { -brand-short-name } uudelleen ja yritä palauttaa varmuuskopio uudelleen.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, varmuuskopioinnissa oli ongelma.
+    .message = Yritä uudelleen muutaman minuutin kuluttua.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Varmuuskopioi arkaluontoiset tietosi
 enable-backup-encryption-support-link = Lue lisää
 enable-backup-encryption-create-password-label = Salasana
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -164,8 +210,17 @@ backup-file-creation-date-label = Luotu:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Näin palautat:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Avaa sovellusvalikko ☰ ja siirry kohtaan Asetukset > Synkronointi
+backup-file-moz-browser-restore-step-2 = Napsauta "Valitse varmuuskopiotiedosto" ja valitse tämä tiedosto
+backup-file-moz-browser-restore-step-3 = Käynnistä { -brand-short-name } uudelleen, kun sitä kysytään
 backup-file-other-browser-restore-step-1 = Lataa ja asenna { -brand-short-name }
 backup-file-download-moz-browser-button = Lataa
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Käynnistä { -brand-short-name }, avaa sovellusvalikko ☰ ja siirry kohtaan Asetukset > Synkronointi
+backup-file-other-browser-restore-step-3 = Napsauta "Valitse varmuuskopiotiedosto" ja valitse tämä tiedosto
 backup-file-other-browser-restore-step-4 = Käynnistä { -brand-short-name } uudelleen, kun sitä kysytään
 
 ## These strings are used in the about:restore and about:welcome pages
