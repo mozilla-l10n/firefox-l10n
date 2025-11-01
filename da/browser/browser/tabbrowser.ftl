@@ -261,6 +261,11 @@ tab-context-unnamed-group =
     .label = Unavngiven gruppe
 tab-group-name-default = Gruppe uden navn
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Fanebladsliste er åben
+
 ##
 
 tab-context-move-tab-to-new-group =
@@ -347,3 +352,4 @@ tab-group-context-open-saved-group-in-new-window =
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Opdelt visning
+tab-context-badge-new = Ny

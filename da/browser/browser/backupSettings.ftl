@@ -184,6 +184,7 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-header = Fjern adgangskode-beskyttelse
 disable-backup-encryption-description2 = Dine gemte adgangskoder og betalingsmetoder vil heller ikke længere blive sikkerhedskopieret.
 disable-backup-encryption-support-link = Hvad bliver sikkerhedskopieret?
 disable-backup-encryption-cancel-button = Annuller
@@ -213,12 +214,21 @@ backup-file-encryption-state-value-encrypted = Ja
 backup-file-encryption-state-value-not-encrypted = Nej
 backup-file-creation-device-label = Enhed:
 backup-file-creation-date-label = Oprettet:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Sådan gendanner du:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Åbn program-menuen ☰ og gå til Indstillinger > Synkronisering
 backup-file-moz-browser-restore-step-2 = Klik på "Vælg sikkerhedskopi" og vælg denne fil.
+backup-file-moz-browser-restore-step-3 = Genstart { -brand-short-name }, når du bliver bedt om det
+backup-file-other-browser-restore-step-1 = Hent og installer { -brand-short-name }
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Start { -brand-short-name }, åbn program-menuen ☰ og gå til Indstillinger > Synkronisering
 backup-file-other-browser-restore-step-3 = Klik på "Vælg sikkerhedskopi" og vælg denne fil
+backup-file-other-browser-restore-step-4 = Genstart { -brand-short-name }, når du bliver bedt om det
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
@@ -231,3 +241,8 @@ other-backup-files-founds =
         [one] <b>Bemærk:</b> { $numberOfOtherBackupsFound } anden sikkerhedskopi blev fundet
        *[other] <b>Bemærk:</b> { $numberOfOtherBackupsFound } andre sikkerhedskopier blev fundet
     }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Oprettet den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
+backup-file-restore-file-validation-error = Filen virker ikke. Prøv at vælge en anden fil. <a data-l10n-name="restore-problems">Har du stadig problemer?</a>
