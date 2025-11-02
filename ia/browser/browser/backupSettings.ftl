@@ -36,7 +36,7 @@ settings-data-backup-last-backup-location = Position
 settings-data-backup-last-backup-location-show-in-folder = Monstrar in plica
 settings-data-backup-last-backup-location-edit = Modificar…
 settings-data-create-backup-error = Il habeva un error creante tu salveguarda le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
-settings-sensitive-data-encryption-description = Face un copia de securitate de tu contrasignos e tu methodos de pagamento, e mantene tote tu datos secur con cryptation.
+settings-sensitive-data-encryption-description = Salveguarda tu contrasignos e tu methodos de pagamento, e mantene tote tu datos secur con cryptation.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nomine de file: { $fileName }
@@ -49,7 +49,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Elige un copia de se
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
-settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } desde lor ultime copia de securitate.
+settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } ab le ultime vice que illos era salveguardate.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
 settings-data-toggle-encryption-label = Facer un copia de securitate de tu datos sensibile
 settings-data-toggle-encryption-support-link = Pro saper plus
