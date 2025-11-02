@@ -165,6 +165,8 @@ book-avatar-alt =
     .alt = Kirja
 briefcase-avatar-alt =
     .alt = Salkku
+picture-avatar-alt =
+    .alt = Kuva
 flower-avatar-alt =
     .alt = Kukka
 folder-avatar-alt =
@@ -179,25 +181,42 @@ clock-avatar-alt =
     .alt = Kello
 leaf-avatar-alt =
     .alt = Lehti
+lightbulb-avatar-alt =
+    .alt = Lamppu
+makeup-avatar-alt =
+    .alt = Meikki
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Viesti
 musical-note-avatar-alt =
     .alt = Nuotti
+palette-avatar-alt =
+    .alt = Paletti
+paw-print-avatar-alt =
+    .alt = Tassunjälki
+plane-avatar-alt =
+    .alt = Lentokone
 # Present refers to a gift box, not the current time period
 present-avatar-alt =
     .alt = Lahja
 shopping-avatar-alt =
     .alt = Ostoskärryt
+soccer-ball-avatar-alt =
+    .alt = Jalkapallo
 star-avatar-alt =
     .alt = Tähti
 video-game-controller-avatar-alt =
     .alt = Peliohjain
 custom-avatar-alt =
     .alt = Mukautettu profiilikuva
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Maapallo
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Timantti
+bike-avatar-alt =
+    .alt = Polkupyörä
 
 ## Tooltips for default avatar icons
 
@@ -209,14 +228,21 @@ custom-avatar = Mukautettu profiilikuva
 diamond-avatar = Timantti
 flower-avatar = Kukka
 folder-avatar = Kansio
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Maapallo
 hammer-avatar = Vasara
 heart-avatar = Sydän
 heart-rate-avatar = Syke
 leaf-avatar = Lehti
+lightbulb-avatar = Lamppu
+makeup-avatar = Meikki
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Viesti
 musical-note-avatar = Nuotti
+palette-avatar = Paletti
+paw-print-avatar = Tassunjälki
 picture-avatar = Kuva
+plane-avatar = Lentokone
 # Present refers to a gift box, not the current time period
 present-avatar = Lahja
 shopping-avatar = Ostoskärryt
@@ -233,3 +259,52 @@ profiles-appmenu-callout-tour-title = Uusi profiilisi on käyttövalmis
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
 profiles-appmenu-callout-tour-subtitle = Napsauta ☰-valikossa profiilinimeäsi luodaksesi uuden profiilin, muokataksesi tätä profiilia tai vaihtaaksesi profiilien välillä.
 profiles-appmenu-callout-tour-primary-button = Näytä ohje
+bike-avatar = Polkupyörä
+
+## Tooltips for default avatar icons
+
+bike-avatar-tooltip =
+    .tooltiptext = Käytä polkupyörän kuvaa profiilikuvana
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Käytä maapallon kuvaa profiilikuvana
+diamond-avatar-tooltip =
+    .tooltiptext = Käytä timantin kuvaa profiilikuvana
+flower-avatar-tooltip =
+    .tooltiptext = Käytä kukan kuvaa profiilikuvana
+folder-avatar-tooltip =
+    .tooltiptext = Käytä kansion kuvaa profiilikuvana
+hammer-avatar-tooltip =
+    .tooltiptext = Käytä vasaran kuvaa profiilikuvana
+heart-avatar-tooltip =
+    .tooltiptext = Käytä sydämen kuvaa profiilikuvana
+clock-avatar-tooltip =
+    .tooltiptext = Käytä kellon kuvaa profiilikuvana
+leaf-avatar-tooltip =
+    .tooltiptext = Käytä lehden kuvaa profiilikuvana
+lightbulb-avatar-tooltip =
+    .tooltiptext = Käytä lampun kuvaa profiilikuvana
+makeup-avatar-tooltip =
+    .tooltiptext = Käytä meikin kuvaa profiilikuvana
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Käytä viestin kuvaa profiilikuvana
+musical-note-avatar-tooltip =
+    .tooltiptext = Käytä nuotin kuvaa profiilikuvana
+palette-avatar-tooltip =
+    .tooltiptext = Käytä paletin kuvaa profiilikuvana
+paw-print-avatar-tooltip =
+    .tooltiptext = Käytä tassunjäljen kuvaa profiilikuvana
+plane-avatar-tooltip =
+    .tooltiptext = Käytä lentokoneen kuvaa profiilikuvana
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Käytä lahjapaketin kuvaa profiilikuvana
+shopping-avatar-tooltip =
+    .tooltiptext = Käytä ostoskärryjen kuvaa profiilikuvana
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Käytä jalkapallon kuvaa profiilikuvana
+star-avatar-tooltip =
+    .tooltiptext = Käytä tähden kuvaa profiilikuvana
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Käytä videopeliohjaimen kuvaa profiilikuvana
