@@ -436,6 +436,10 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -477,8 +481,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Passa a Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Passa a Celsius
 newtab-weather-menu-hide-weather = Cua su tempus in s’ischeda noa
 newtab-weather-menu-learn-more = Àteras informatziones
+newtab-weather-menu-detect-my-location = Rileva sa positzione mia
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Is datos de su tempus non sunt a disponimentu immoe.
+newtab-weather-opt-in-see-weather = Boles bìdere su tempus in sa positzione tua?
+newtab-weather-opt-in-not-now =
+    .label = Immoe nono
+newtab-weather-opt-in-yes =
+    .label = Eja
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = New York
 
 ## Topic Labels
 
@@ -645,6 +657,9 @@ newtab-widget-lists-input-menu-move-up = Move in artu
 newtab-widget-lists-input-menu-move-down = Move in bàsciu
 newtab-widget-lists-input-menu-delete = Cantzella
 newtab-widget-lists-input-menu-edit = Modifica
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Crea una lista noa
 newtab-widget-lists-name-label-default =
     .label = Lista de tareas
 newtab-widget-lists-name-placeholder-default =

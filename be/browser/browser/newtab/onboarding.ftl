@@ -560,3 +560,12 @@ restored-from-backup-error-primary-button = Закрыць
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Уладкуйце свой досвед { -brand-short-name }
+onboarding-personalization-subtitle = Адкажыце на некалькі пытанняў, і мы парэкамендуем функцыі і пашырэнні, каб палепшыць ваша выкарыстанне { -brand-short-name }.
+onboarding-personalization-use-case-title = Для чаго вы будзеце выкарыстоўваць { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Асабістае выкарыстанне
+onboarding-personalization-use-case-school-option = Школа
+onboarding-personalization-use-case-work-option = Праца
+onboarding-personalization-motivation-title = Якія асаблівасці { -brand-short-name } найбольш важныя для вас?
+onboarding-personalization-motivation-privacy-option = Прыватнасць і бяспека
+onboarding-personalization-motivation-productivity-option = Прадукцыйнасць
+onboarding-personalization-motivation-other-option = Іншае

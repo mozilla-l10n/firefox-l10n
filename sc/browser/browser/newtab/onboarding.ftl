@@ -490,13 +490,28 @@ create-backup-back-button-label = A coa
 create-backup-show-fewer =
     .label = Ammustra prus pagu publitzidade comente custa
 create-backup-screen-2-title = Sèbera is datos de { -brand-product-name } pro sa còpia de seguresa
+create-backup-screen-2-subtitle = Bastat unu minutu. Is datos tuos sunt sarvados una borta a sa die.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Cunfiguratzione simplificada
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Sinnalibros, cronologia, cunfiguratziones e àteru
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = No includet craes e pagamentos
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Non tzifradu
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Totu is datos
 # Preceded by a green check mark indicating that these are included in the "All data" backup
 create-backup-screen-2-all-list-2 = Includet craes e pagamentos
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Tzifradu cun crae
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = In ue boles sarvare sa còpia de seguresa?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Crea una crae pro s’archìviu de còpia de seguresa
+create-backup-screen-3-subtitle = Netzessàriu pro tzifrare is datos tuos. Sarva·dda in unu logu fàtzile de regordare.
 fx-backup-opt-in-header = Sèbera sa positzione de s’archìviu
+fx-backup-opt-in-filepath-label = Sèbera una positzione chi boles tramudare a unu dispositivu nou, comente OneDrive.
 fx-backup-opt-in-create-password-label = Inserta sa crae
 fx-backup-opt-in-confirm-btn-label = Sighi
 fx-backup-opt-in-cancel-btn-label = A coa
@@ -509,7 +524,14 @@ fx-backup-confirmation-screen-close-button = Serra
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
 fx-backup-confirmation-screen-all-data-item-text-1 = Totu is datos de navigatzione incluidos
+fx-backup-confirmation-screen-all-data-item-text-2 = Sarvadu in su dispositivu
+fx-backup-confirmation-screen-all-data-item-text-3 = Tzifradu e amparadu cun crae
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Sinnalibros, cronologia, cunfiguratziones e àteros datos incluidos
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Sarvadu in su dispositivu
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Craes e pagamentos non sunt incluidos
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Bae a <a data-l10n-name="settings">Cunfiguratziones</a> pro incluire is datos riservados.
+fx-backup-confirmation-screen-item-subtext-1 = Sa còpia de seguresa tua at a cumintzare de immoe a pagu e at a èssere esecutada una borta a sa die. Podes controllare su progressu dae sa <a data-l10n-name="settings">Cunfiguratzione</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } at a chircare sa còpia de seguresa si ddu depes torrare a installare.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -522,10 +544,12 @@ restore-from-backup-secondary-button = Non recùperes
 
 restored-from-backup-success-title = Semus inoghe torra! Is datos tuos de { -brand-short-name } sunt istados recuperados.
 restored-from-backup-success-with-checklist-subtitle = Boles tènnere semper a portada su navigadore preferidu tuo, atentu a sa riservadesa?
+restored-from-backup-success-no-checklist-subtitle = Podes ativare sa còpia de seguresa in custu dispositivu dae is <a data-l10n-name="settings">Cunfiguratziones</a>.
 restored-from-backup-success-with-checklist-primary-button = Sarva e sighi
 restored-from-backup-success-with-checklist-secondary-button = Brinca custu passu
 restored-from-backup-success-no-checklist-primary-button = Sighi
 restored-from-backup-error-title = Mh, ddoe est istadu unu problema cun sa còpia de seguresa.
+restored-from-backup-error-subtitle = Si tenes un’àteru archìviu de còpia de seguresa de { -brand-short-name }, proa a recuperare cussu. <a data-l10n-name="restore-problems">Tenes ancora problemas?</a>
 restored-from-backup-error-primary-button = Serra
 
 ## Onboarding Personalization Screen
@@ -537,6 +561,7 @@ onboarding-personalization-use-case-title = Cun cale iscopu as a impreare { -bra
 onboarding-personalization-use-case-personal-option = Impreu personale
 onboarding-personalization-use-case-school-option = Iscola
 onboarding-personalization-use-case-work-option = Traballu
+onboarding-personalization-motivation-title = Cales funtzionalidades de { -brand-short-name } sunt prus de importu pro tue?
 onboarding-personalization-motivation-privacy-option = Riservadesa e seguresa
 onboarding-personalization-motivation-productivity-option = Produtividade
 onboarding-personalization-motivation-other-option = Àteru
