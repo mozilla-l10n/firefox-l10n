@@ -225,3 +225,26 @@ backup-file-moz-browser-restore-step-2 = Націсніце «Выбраць ф�
 backup-file-moz-browser-restore-step-3 = Перазапусціце { -brand-short-name } пры запыце
 backup-file-other-browser-restore-step-1 = Сцягнуць і ўсталяваць { -brand-short-name }
 backup-file-download-moz-browser-button = Сцягнуць
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Запусціць { -brand-short-name }, адкрыць меню праграмы ☰ і перайсці ў Налады > Сінхранізацыя
+backup-file-other-browser-restore-step-3 = Націснуць «Выбраць файл рэзервовай копіі» і абраць гэты файл
+backup-file-other-browser-restore-step-4 = Перазапусціць { -brand-short-name } пры запыце
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Заўвага:</b> Знойдзен { $numberOfOtherBackupsFound } іншы файл рэзервовай копіі
+        [few] <b>Заўвага:</b> Знойдзены { $numberOfOtherBackupsFound } іншыя файлы рэзервовай копіі
+       *[many] <b>Заўвага:</b> Знойдзена { $numberOfOtherBackupsFound } іншых файлаў рэзервовых копій
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Створана { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } на { $machineName }
+backup-file-restore-file-validation-error = З гэтым файлам нешта не так. Паспрабуйце выбраць іншы файл. <a data-l10n-name="restore-problems">Усё яшчэ ёсць праблемы?</a>
