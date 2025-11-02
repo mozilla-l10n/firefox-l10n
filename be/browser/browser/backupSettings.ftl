@@ -172,8 +172,56 @@ password-rules-header = Патрабаванні да пароля
 password-rules-length-description = Мінімум 8 знакаў
 password-rules-email-description = Не ваш адрас электроннай пошты
 password-rules-disclaimer = Заставайцеся ў бяспецы — не выкарыстоўвайце паролі паўторна. Даведайцеся больш пра <a data-l10n-name="password-support-link">стварэнне надзейных пароляў</a>.
+password-validity-has-email = Не можа быць адрасам электроннай пошты
+password-validity-do-not-match = Паролі не супадаюць
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
+password-rules-a11y-success =
+    .alt = Поспех
 password-rules-a11y-warning =
     .alt = Папярэджанне
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Зняць абарону паролем
+disable-backup-encryption-description2 = Рэзервовыя копіі вашых захаваных пароляў і спосабаў аплаты таксама больш не будуць стварацца.
+disable-backup-encryption-support-link = Што знойдзецца ў рэзервовай копіі?
+disable-backup-encryption-cancel-button = Адмена
+disable-backup-encryption-confirm-button = Выдаліць пароль
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Ваш пароль не адпавядае патрабаванням. Паспрабуйце іншы пароль.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Нешта пайшло не так. Калі ласка, паспрабуйце зноў.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } гатовы да аднаўлення
+backup-file-title = Аднавіць { -brand-short-name }
+backup-file-intro = Вярніцеся да аглядання і аднавіце ўсе свае закладкі, гісторыю і іншыя дадзеныя. <a data-l10n-name="backup-file-support-link">Падрабязней</a>
+backup-file-path-label = Файл рэзервовай копіі:
+backup-file-encryption-state-label = Зашыфраваны:
+backup-file-encryption-state-value-encrypted = Так
+backup-file-encryption-state-value-not-encrypted = Не
+backup-file-creation-device-label = Прылада:
+backup-file-creation-date-label = Створаны:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Як аднавіць:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Адкрыйце меню праграмы ☰ і перайдзіце ў Налады > Сінхранізацыя
+backup-file-moz-browser-restore-step-2 = Націсніце «Выбраць файл рэзервовай копіі» і абярыце гэты файл
+backup-file-moz-browser-restore-step-3 = Перазапусціце { -brand-short-name } пры запыце
+backup-file-other-browser-restore-step-1 = Сцягнуць і ўсталяваць { -brand-short-name }
+backup-file-download-moz-browser-button = Сцягнуць
