@@ -26,12 +26,14 @@ profile-card =
 default-profile-name = Профіль { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Зыходны профіль
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = Рэдагаваць профіль
 edit-profile-page-header = Рэдагаваць ваш профіль
 edit-profile-page-profile-name-label = Назва профілю
 edit-profile-page-theme-header-2 =
     .label = Тэма
 edit-profile-page-explore-themes = Знайсці іншыя тэмы
+edit-profile-page-desktop-shortcut-header = Стварыць ярлык на працоўным стале
 edit-profile-page-avatar-header-2 =
     .label = Аватар
 edit-profile-page-delete-button =
@@ -58,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Выберыце назву, напрыклад, «Праца» або «Асабісты»
 new-profile-page-done-button =
     .label = Скончыць рэдагаванне
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Ваша копія { $profilename } гатовая да персаналізацыі
+copied-profile-page-header-description = Мы скапіравалі вашы дадзеныя і налады ў новы профіль. Цяпер дайце яму назву, выберыце выгляд і зрабіце яго сваім.
 profile-window-title-2 = { -brand-short-name } - Выбар профілю
 profile-window-logo =
     .alt = Лагатып { -brand-short-name }
@@ -261,6 +267,9 @@ custom-avatar-crop-area =
     .aria-label = Змяніць вобласць абрэзкі
 custom-avatar-drag-handle =
     .aria-label = Змяніць памер вобласці абрэзкі
+profiles-appmenu-callout-tour-title = Ваш новы профіль гатовы да выкарыстання
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = У меню ☰ націсніце на назву вашага профілю, каб стварыць новы, адрэдагаваць гэты або пераключыцца паміж лічбавымі жыццямі.
 barbell-avatar = Штанга
 bike-avatar = Веласіпед
 
