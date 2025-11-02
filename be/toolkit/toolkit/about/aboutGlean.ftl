@@ -155,6 +155,26 @@ about-glean-metrics-table-header-type = Тып
 about-glean-metrics-table-header-value = Значэнне
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Дзеянні
+about-glean-metrics-table-settings-button = Налады
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Налады табліцы паказчыкаў
+about-glean-metrics-table-settings-category-general = Агульныя
+about-glean-metrics-table-settings-hide-empty-value-rows = Схаваць пустыя радкі значэнняў
+about-glean-metrics-table-settings-category-visualizations = Візуалізацыі
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Прыклад
+about-glean-metrics-table-settings-category-visualizations-histogram = Гістаграма
+about-glean-metrics-table-settings-histograms-chart-max = Максімальная вышыня дыяграмы
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Максімальная вышыня па маштабе
+about-glean-metrics-table-settings-histograms-box-padding = Водступы поля
+about-glean-metrics-table-settings-histograms-chart-padding = Водступы дыяграмы
+about-glean-metrics-table-settings-histograms-left-padding = Дадатковы водступ злева
+about-glean-metrics-table-settings-category-visualizations-timeline = Шкала часу
+about-glean-metrics-table-settings-timelines-width = Шырыня
+about-glean-metrics-table-settings-timelines-chart-padding = Водступы дыяграмы
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Радыус акружнасці
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Фільтр
 # This message sits alongside an input field, further describing its purpose.
@@ -183,3 +203,10 @@ about-glean-disable-new-features-button = Адключыць новыя функ
 about-glean-about-data-explanation =
     Каб прагледзець спіс сабраных звестак, звярніцеся да
     <a data-l10n-name="glean-dictionary-link">Слоўніка { -glean-brand-name }</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Убудаваныя пінгі
+about-glean-ping-list-optgroup-custom =
+    .label = Карыстальніцкія пінгі

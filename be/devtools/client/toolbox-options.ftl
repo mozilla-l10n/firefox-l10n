@@ -30,6 +30,10 @@ options-context-inspector = Даследчык
 options-show-user-agent-styles-label = Паказаць стылі браўзера
 options-show-user-agent-styles-tooltip =
     .title = Калі ўключана, будзе паказваць прадвызначаныя стылі, загружаныя браўзерам.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Паказаць DOM ценявога аб'екта браўзера
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Уключэнне гэтай опцыі дазволіць паказваць элементы ценявога DOM, якія апрацоўваюцца браўзерам.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Абсякаць атрыбуты DOM
 options-collapse-attrs-tooltip =
@@ -116,6 +120,8 @@ options-disable-http-cache-label = Выключыць кэш HTTP (калі па
 options-disable-http-cache-tooltip =
     .title = Калі ўключана, забараняе кэш HTTP для ўсіх картак, на якіх адкрыта панэль прылад. Гэты параметр не дзейнічае на воркеры сэрвісу.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Адключыць JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Забараніць JavaScript *
 options-disable-javascript-tooltip =
     .title = Уключэнне гэтага параметра адключыць JavaScript у дзейнай картцы. Параметр забудзецца пасля закрыцця карткі або прылад распрацоўкі.
@@ -144,4 +150,10 @@ options-source-maps-label = Уключыць мапы зыходнага код�
 options-source-maps-tooltip =
     .title = Калі ўключана, зыходныя коды будуць супастаўлены ў інструментах.
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (толькі бягучы сеанс, перазагрузка старонкі)
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Толькі для бягучага сеанса, перазагружае старонку
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = (перазагружае старонку)

@@ -76,3 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = Pid채 teht채v�
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semanttisen historian haku
+experimental-features-semantic-history-search-description = K채yt채 paikallista koneoppimismallia ehdottaaksesi historiasta hakuihisi liittyvi채 tietueita luonnollisen kielen ymm채rt채misen perusteella { -brand-product-name }in osoitepalkissa. <a data-l10n-name="connect">Jaa palautetta</a>
