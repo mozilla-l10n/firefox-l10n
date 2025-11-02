@@ -614,7 +614,7 @@ popup-all-windows-shared = S'ant a cumpartzire totu is ventanas visìbiles in s'
 sharing-warning-window = Ses cumpartzende { -brand-short-name }. Àtera gente podet bìdere cando passas a un'àtera ischeda.
 sharing-warning-screen = Ses cumpartzende totu s'ischermu tuo. Àtera gente podet bìdere cando passas a un'àtera ischeda.
 sharing-warning-proceed-to-tab =
-    .label = Bae a s'ischeda
+    .label = Bae a s’ischeda
 sharing-warning-disable-for-session =
     .label = Disativa sa protetzione de cumpartzidura pro custa sessione
 
@@ -679,7 +679,7 @@ urlbar-remote-control-notification-anchor2 =
 urlbar-permissions-granted =
     .tooltiptext = As cuntzèdidu is permissos agiuntivos a custu situ web.
 urlbar-switch-to-tab =
-    .value = Bae a s'ischeda:
+    .value = Bae a s’ischeda:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Agiunta:
@@ -707,7 +707,7 @@ urlbar-result-action-search-in-private = Chirca in una ventana privada
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Chirca cun { $engine }
 urlbar-result-action-sponsored = Patrotzinadu
-urlbar-result-action-switch-tab = Passa a s'ischeda
+urlbar-result-action-switch-tab = Passa a s’ischeda
 urlbar-result-action-visit = Bìsita
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -1077,7 +1077,7 @@ bookmarks-toolbar-placeholder-button =
     .label = Elementos de sa barra de sinnalibros
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
-    .label = Agiunghe s'ischeda atuale a is sinnalibros...
+    .label = Agiunghe s’ischeda atuale a is sinnalibros...
 
 ## Library Panel items
 

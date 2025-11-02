@@ -43,7 +43,7 @@ fxviewtabrow-save-to-pocket = Sarva in { -pocket-brand-name }
     .accesskey = s
 fxviewtabrow-copy-link = Còpia ligòngiu
     .accesskey = C
-fxviewtabrow-close-tab = Serra s'ischeda
+fxviewtabrow-close-tab = Serra s’ischeda
     .accesskey = S
 fxviewtabrow-move-tab = Move s’ischeda
     .accesskey = M
@@ -57,11 +57,11 @@ fxviewtabrow-send-tab = Imbia s’ischeda a unu dispositivu
     .accesskey = d
 fxviewtabrow-pin-tab = Apica ischeda
     .accesskey = A
-fxviewtabrow-unpin-tab = Boga s'ischeda
+fxviewtabrow-unpin-tab = Boga s’ischeda
     .accesskey = B
-fxviewtabrow-mute-tab = Pone s'ischeda a sa muda
+fxviewtabrow-mute-tab = Pone s’ischeda a sa muda
     .accesskey = m
-fxviewtabrow-unmute-tab = Ativa s'àudio de s'ischeda
+fxviewtabrow-unmute-tab = Ativa s’àudio de s’ischeda
     .accesskey = A
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
@@ -71,6 +71,6 @@ fxviewtabrow-options-menu-button =
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
 fxviewtabrow-mute-tab-button-no-context =
-    .title = Pone s'ischeda a sa muda
+    .title = Pone s’ischeda a sa muda
 fxviewtabrow-unmute-tab-button-no-context =
-    .title = Ativa s'àudio de s'ischeda
+    .title = Ativa s’àudio de s’ischeda

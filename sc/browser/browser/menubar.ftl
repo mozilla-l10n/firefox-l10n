@@ -69,7 +69,7 @@ menu-file-open-file =
 menu-file-close-tab =
     .label =
         { $tabCount ->
-            [1] Serra s'ischeda
+            [1] Serra s’ischeda
             [one] Serra { $tabCount } ischeda
            *[other] Serra { $tabCount } ischedas
         }
@@ -226,7 +226,7 @@ menu-bookmarks-menu =
 menu-bookmarks-manage =
     .label = Gesti is sinnalibros
 menu-bookmark-tab =
-    .label = Pone s'ischeda atuale in is sinnalibros…
+    .label = Pone s’ischeda atuale in is sinnalibros…
 menu-edit-bookmark =
     .label = Modìfica custu sinnalibru…
 # "Search" is a verb, as in "Search in bookmarks"

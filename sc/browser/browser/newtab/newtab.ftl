@@ -7,7 +7,7 @@
 
 newtab-page-title = Ischeda noa
 newtab-settings-button =
-    .title = Personaliza sa pàgina de s'ischeda noa
+    .title = Personaliza sa pàgina de s’ischeda noa
 newtab-customize-panel-icon-button =
     .title = Personaliza custa pàgina
 newtab-customize-panel-icon-button-label = Personaliza
@@ -17,8 +17,8 @@ newtab-personalize-settings-icon-label =
 newtab-settings-dialog-label =
     .aria-label = Cunfiguratzione
 newtab-personalize-icon-label =
-    .title = Personaliza s'ischeda noa
-    .aria-label = Personaliza s'ischeda noa
+    .title = Personaliza s’ischeda noa
+    .aria-label = Personaliza s’ischeda noa
 newtab-personalize-dialog-label =
     .aria-label = Personaliza
 newtab-logo-and-wordmark =
@@ -155,7 +155,7 @@ newtab-privacy-modal-paragraph-2 =
     Paris a su de t'ammustrare istòrias geniosas, t'ammustramus fintzas cuntenutos rilevantes e curados in manera primorosa,
     dae is patrotzinadores nostros. Non ti preocupes, <strong>sa cronologia tua non lassat mai sa còpia personale tua de { -brand-product-name }</strong>: no dda bidimus, e no dda bident
     nemmancu is patrotzinadores nostros.
-newtab-privacy-modal-link = Impara comente funtzionat sa riservadesa in s'ischeda noa
+newtab-privacy-modal-link = Impara comente funtzionat sa riservadesa in s’ischeda noa
 
 ##
 
@@ -426,7 +426,7 @@ newtab-wallpaper-blue-flowers = Fotografia ammanniada de frores iscuguddados a f
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotografia de <a data-l10n-name="name-link">{ $author_string }</a> subra <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Proa un’istrichiddu de colore
-newtab-wallpaper-feature-highlight-content = Dona a s'ischeda noa una bisura frisca cun isfundos.
+newtab-wallpaper-feature-highlight-content = Dona a s’ischeda noa una bisura frisca cun isfundos.
 newtab-wallpaper-feature-highlight-button = Apo cumprèndidu
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =

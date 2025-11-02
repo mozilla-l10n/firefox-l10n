@@ -178,6 +178,8 @@ addon-updates-update-addons-automatically = Atualiza is cumplementos in automàt
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+addon-updates-reset-updates-to-automatic = Riprìstina totu is cumplementos pro chi s’atualizent in automàticu
+    .accesskey = R
 addon-updates-reset-updates-to-manual = Riprìstina totu is cumplementos pro chi s'atualizent in manera manuale
     .accesskey = R
 
@@ -443,6 +445,6 @@ details-notification-gmp-pending2 =
 plugins-gmp-license-info = Informatziones de sa lissèntzia
 plugins-gmp-privacy-info = Informatziones de sa riservadesa
 plugins-openh264-name = Codificadore vìdeu OpenH264 frunidu dae Cisco Systems, Inc.
-plugins-openh264-description = Mozilla installat in automàticu custu plugin pro respetare s'ispetzificatzione WebRTC e permìtere is tzerriadas WebRTC cun dispositivos chi abbisòngiant su codificadore vìdeu H.264. Bìsita https://www.openh264.org/ pro bìdere su còdighe de orìgine de su codificadore e pro nde ischire de prus subra de s'implementatzione.
+plugins-openh264-description = Mozilla installat in automàticu custu plugin pro respetare s’ispetzificatzione WebRTC e permìtere is tzerriadas WebRTC cun dispositivos chi abbisòngiant su codificadore vìdeu H.264. Bìsita https://www.openh264.org/ pro bìdere su còdighe de orìgine de su codificadore e pro nde ischire de prus subra de s’implementatzione.
 plugins-widevine-name = Mòdulu de detzifratzione de cuntenutu Widevine frunidu dae Google Inc.
 plugins-widevine-description = Custu plugin permitit sa riprodutzione de cuntenutos multimediales tzifrados in cumpatibilidade cun is ispetzificatziones Encrypted Media Extensions. A s'ispissu, is sitos impreant sa tzifradura pro amparare is cuntenutos multimediales a pagamentu contra de sa copiadura. Bìsita https://www.w3.org/TR/encrypted-media/ pro àteras informatziones subra de Encrypted Media Extension.

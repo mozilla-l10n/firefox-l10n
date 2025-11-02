@@ -43,7 +43,7 @@ synced-tabs-context-open-in-private-window =
 # string is located in tabContextMenu.ftl. So, this string should be translated
 # consistently with the "Bookmark Tab…" string there.
 synced-tabs-context-bookmark =
-    .label = Agiunghe s'ischeda a sinnalibros…
+    .label = Agiunghe s’ischeda a sinnalibros…
     .accesskey = s
 synced-tabs-context-copy =
     .label = Còpia
@@ -63,4 +63,4 @@ synced-tabs-turn-on-sync = Ativa sa sincronizatzione
 # send a push to the device to close said tab
 # Variables
 # $deviceName - the name of the device the user is closing a tab for
-synced-tabs-context-close-tab = Serra s'ischeda in { $deviceName }
+synced-tabs-context-close-tab = Serra s’ischeda in { $deviceName }

@@ -23,7 +23,7 @@ fxa-menu-connect-another-device =
 fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->
-            [one] Imbia s'ischeda a unu dispositivu
+            [one] Imbia s’ischeda a unu dispositivu
            *[other] Imbia { $tabCount } ischedas a unu dispositivu
         }
 # This is shown dynamically within "Send tab to device" in fxa menu.

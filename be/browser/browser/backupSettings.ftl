@@ -85,15 +85,60 @@ backup-error-file-system = У часе рэзервовага капіяванн
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Выключыць рэзервовае капіяванне?
+turn-off-scheduled-backups-description = Гэта таксама выдаліць усе вашы рэзервовыя копіі дадзеных. Гэта нельга адмяніць.
 turn-off-scheduled-backups-support-link = Падрабязней
 turn-off-scheduled-backups-cancel-button = Скасаваць
 turn-off-scheduled-backups-confirm-button = Выключыць і выдаліць рэзервовую копію
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Аднаўленне дадзеных
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Гэта заменіць усе вашы цяперашнія дадзеныя { -brand-short-name } рэзервовай копіяй з { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Што будзе адноўлена?
+restore-from-backup-no-backup-file-link = Праблемы з пошукам рэзервовай копіі?
+restore-from-backup-filepicker-label = Файл рэзервовай копіі
+restore-from-backup-filepicker-title = Выберыце файл рэзервовай копіі:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Выбраць…
+       *[other] Агляд…
+    }
 restore-from-backup-password-label = Пароль
+restore-from-backup-password-description = Гэта разблакуе вашу зашыфраваную рэзервовую копію.
 restore-from-backup-cancel-button = Скасаваць
 restore-from-backup-confirm-button = Аднавіць і перазапусціць
+restore-from-backup-restoring-button = Аднаўленне…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Няправільны пароль. <a data-l10n-name="incorrect-password-support-link">Усё яшчэ праблемы?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = З гэтым файлам нешта не так
+    .message = Узнікла праблема з вашым файлам рэзервовай копіі. Выберыце іншы файл і паспрабуйце зноў.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = З гэтым файлам нешта не так
+    .message = Файл, які вы выбралі, не сумяшчальны з гэтай версіяй { -brand-short-name }. Выберыце іншы файл і паспрабуйце зноў.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = З гэтым файлам нешта не так
+    .message = Файл, які вы выбралі, не быў створаны { -brand-short-name }. Выберыце іншы файл і паспрабуйце зноў.
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 

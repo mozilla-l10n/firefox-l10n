@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashed-title = Generadore de informes de ischeda faddida
-crashed-close-tab-button = Serra s'ischeda
+crashed-close-tab-button = Serra s’ischeda
 crashed-restore-tab-button = Recùpera custa ischeda
 crashed-restore-all-button = Recùpera totu is ischedas faddidas
 crashed-header = Ohi! Custa ischeda est faddida.

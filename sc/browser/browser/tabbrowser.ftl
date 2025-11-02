@@ -5,7 +5,7 @@
 tabbrowser-empty-tab-title = Ischeda noa
 tabbrowser-empty-private-tab-title = Ischeda privada noa
 tabbrowser-menuitem-close-tab =
-    .label = Serra s'ischeda
+    .label = Serra s’ischeda
 tabbrowser-menuitem-close =
     .label = Serra
 # Displayed within the tooltip on tabs inside of a tab group.
@@ -34,7 +34,7 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 tabbrowser-close-tabs-button =
     .tooltiptext =
         { $tabCount ->
-            [one] Serra s'ischeda
+            [one] Serra s’ischeda
            *[other] Serra { $tabCount } ischedas
         }
 # Variables:
@@ -42,7 +42,7 @@ tabbrowser-close-tabs-button =
 tabbrowser-close-tabs-tooltip =
     .label =
         { $tabCount ->
-            [one] Serra s'ischeda
+            [one] Serra s’ischeda
            *[other] Serra { $tabCount } ischedas
         }
 
@@ -55,7 +55,7 @@ tabbrowser-close-tabs-tooltip =
 tabbrowser-mute-tab-audio-tooltip =
     .label =
         { $tabCount ->
-            [one] Pone s'ischeda a sa muda ({ $shortcut })
+            [one] Pone s’ischeda a sa muda ({ $shortcut })
            *[other] Pone { $tabCount } ischedas a sa muda ({ $shortcut })
         }
 # Variables:
@@ -63,25 +63,25 @@ tabbrowser-mute-tab-audio-tooltip =
 tabbrowser-unmute-tab-audio-tooltip =
     .label =
         { $tabCount ->
-            [one] Ativa s'àudio de s'ischeda ({ $shortcut })
-           *[other] Ativa s'àudio de { $tabCount } ischedas ({ $shortcut })
+            [one] Ativa s’àudio de s’ischeda ({ $shortcut })
+           *[other] Ativa s’àudio de { $tabCount } ischedas ({ $shortcut })
         }
 tabbrowser-mute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
-            [one] Pone s'ischeda a sa muda
+            [one] Pone s’ischeda a sa muda
            *[other] Pone { $tabCount } ischedas a sa muda
         }
 tabbrowser-unmute-tab-audio-background-tooltip =
     .label =
         { $tabCount ->
-            [one] Ativa s'àudio de s'ischeda
-           *[other] Ativa s'àudio de { $tabCount } ischedas
+            [one] Ativa s’àudio de s’ischeda
+           *[other] Ativa s’àudio de { $tabCount } ischedas
         }
 tabbrowser-unblock-tab-audio-tooltip =
     .label =
         { $tabCount ->
-            [one] Reprodue s'ischeda
+            [one] Reprodue s’ischeda
            *[other] Reprodue { $tabCount } ischedas
         }
 
@@ -173,16 +173,16 @@ tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Serra is ischedas
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
-    .label = Permite a is notìficas comente a custa de { $domain } de ti batire a s'ischeda issoro
+    .label = Permite a is notìficas comente a custa de { $domain } de ti batire a s’ischeda issoro
 tabbrowser-customizemode-tab-title = Personaliza { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
 tabbrowser-context-mute-tab =
-    .label = Pone s'ischeda a sa muda
+    .label = Pone s’ischeda a sa muda
     .accesskey = m
 tabbrowser-context-unmute-tab =
-    .label = Ativa s'àudio de s'ischeda
+    .label = Ativa s’àudio de s’ischeda
     .accesskey = t
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
@@ -208,11 +208,11 @@ tabbrowser-ctrl-tab-list-all-tabs =
 ##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
-    .tooltiptext = Pone s'ischeda a sa muda
+    .tooltiptext = Pone s’ischeda a sa muda
 tabbrowser-manager-unmute-tab =
-    .tooltiptext = Ativa s'àudio de s'ischeda
+    .tooltiptext = Ativa s’àudio de s’ischeda
 tabbrowser-manager-close-tab =
-    .tooltiptext = Serra s'ischeda
+    .tooltiptext = Serra s’ischeda
 # This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
 # not include "deleted" tab groups (see tab-group-editor-action-delete).
 tabbrowser-manager-closed-tab-group =
