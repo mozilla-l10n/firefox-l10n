@@ -70,6 +70,19 @@ restore-from-backup-file-choose-button =
        *[other] Шолу…
     }
 restore-from-backup-password-label = Пароль
+restore-from-backup-password-description = Бұл сіздің шифрленген сақтық көшірмеңіздің құлпын ашады.
+restore-from-backup-cancel-button = Бас тарту
+restore-from-backup-confirm-button = Қалпына келтіріп, қайта іске қосу
+restore-from-backup-restoring-button = Қалпына келтірілуде…
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-support-link = Көбірек білу
+enable-backup-encryption-create-password-label = Пароль
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Парольді қайталау
+enable-backup-encryption-cancel-button = Бас тарту
+enable-backup-encryption-confirm-button = Сақтау
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
