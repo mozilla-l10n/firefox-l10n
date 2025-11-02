@@ -536,6 +536,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-2 = Tallennettu laitteellesi
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Salasanat ja maksut eivät sisälly
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Siirry <a data-l10n-name="settings">asetuksiin</a> lisätäksesi arkaluonteiset tiedot.
 fx-backup-confirmation-screen-item-subtext-1 = Varmuuskopiointi alkaa muutaman minuutin kuluttua ja suoritetaan kerran päivässä. Voit tarkistaa edistymisen <a data-l10n-name="settings">asetuksissa</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } etsii varmuuskopiota, jos sinun on asennettava se uudelleen.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -560,6 +561,11 @@ restored-from-backup-error-primary-button = Sulje
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Mukauta { -brand-short-name }-kokemustasi
+onboarding-personalization-subtitle = Vastaa muutamaan kysymykseen, niin suosittelemme ominaisuuksia ja laajennuksia, jotka parantavat { -brand-short-name }in käyttöä.
+onboarding-personalization-use-case-title = Mihin aiot käyttää { -brand-short-name }ia ensijaisesti?
+onboarding-personalization-use-case-personal-option = Henkilökohtaisiin asioihin
+onboarding-personalization-use-case-school-option = Kouluasioihin
+onboarding-personalization-use-case-work-option = Työasioihin
 onboarding-personalization-motivation-title = Mitkä { -brand-short-name }in ominaisuudet ovat sinulle tärkeimpiä?
 onboarding-personalization-motivation-privacy-option = Tietosuoja ja turvallisuus
 onboarding-personalization-motivation-productivity-option = Tuottavuus

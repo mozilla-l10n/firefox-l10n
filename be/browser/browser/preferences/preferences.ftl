@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $nam
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Каб уключыць пашырэнне, зайдзіце ў <img data-l10n-name="addons-icon"/> Дадаткаў ў меню <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } кіруе некаторымі наладамі вашай хатняй старонкі.
 
 ## Preferences UI Search Results
 
