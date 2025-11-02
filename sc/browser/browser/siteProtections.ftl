@@ -21,7 +21,7 @@ content-blocking-cookies-view-blocked-label =
 # Variables:
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
-    .tooltiptext = Cantzella s'etzetzione de is testimòngios pro { $domain }
+    .tooltiptext = Cantzella s’etzetzione de is testimòngios pro { $domain }
 tracking-protection-icon-active = S'est blochende is sighidores de retes sotziales, is testimòngios de sighidura intre sitos e is generadores de imprentas digitales.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }

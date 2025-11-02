@@ -11,7 +11,7 @@
 ## and a time selection dialog for HTML's <input type="datetime-local">
 
 datetime-picker-label =
-    .aria-label = Выберыце дату і час
+    .aria-label = Выбраць дату і час
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of a date picker calendar and a month-year selection
@@ -61,7 +61,7 @@ date-spinner-year-next =
 ## for HTML's default <input type="time">
 
 time-picker-label =
-    .aria-label = Выберыце час
+    .aria-label = Выбраць час
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
@@ -88,3 +88,7 @@ time-spinner-minute-previous =
     .aria-label = Папярэдняя хвіліна
 time-spinner-minute-next =
     .aria-label = Наступная хвіліна
+time-spinner-day-period-previous =
+    .aria-label = Папярэдні перыяд сутак
+time-spinner-day-period-next =
+    .aria-label = Наступны перыяд сутак

@@ -18,7 +18,7 @@
 whypaused-event-breakpoint = In pàusa in unu puntu de arrestu pro un'eventu
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
-whypaused-exception = In pàusa pro un'etzetzione
+whypaused-exception = In pàusa pro un’etzetzione
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a DOM mutation breakpoint
 whypaused-mutation-breakpoint = In pàusa in unu càmbiu DOM

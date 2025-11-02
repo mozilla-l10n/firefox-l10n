@@ -8,7 +8,7 @@
 more-from-moz-title = Àteru dae { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Àteru dae { -vendor-short-name }
-more-from-moz-subtitle = Iscoberi àteros produtos de { -vendor-short-name } chi suportant un'internet prus sanu.
+more-from-moz-subtitle = Iscoberi àteros produtos de { -vendor-short-name } chi suportant un’internet prus sanu.
 more-from-moz-firefox-mobile-title = { -brand-product-name } pro dispositivos mòbiles
 more-from-moz-firefox-mobile-description = Su navigadore pro dispositivos mòbiles chi ponet sa riservadesa tua a in antis de totu.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pro dispositivos mòbiles
@@ -31,7 +31,7 @@ more-from-moz-firefox-relay-button = Otene { -relay-brand-short-name }
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Ritira in automàticu is informatziones personales tuas espostas.
-more-from-moz-mozilla-monitor-global-description = Retzi un'avisu si is datos tuos sunt istados agatados in una violatzione.
+more-from-moz-mozilla-monitor-global-description = Retzi un’avisu si is datos tuos sunt istados agatados in una violatzione.
 more-from-moz-mozilla-monitor-button = Otene { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
@@ -39,3 +39,8 @@ more-from-moz-mozilla-monitor-button = Otene { -monitor-brand-short-name }
 more-from-moz-solo-title = IA de { -solo-ai-brand-name }
 more-from-moz-solo-description = Crea su situ web tuo a lestru e connete cun unu domìniu personalizadu de badas.
 more-from-moz-solo-button = Proa { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
+more-from-moz-mdn-description = Impara isvilupu web cun ghias e documentatzione cumpletas e de badas.
+more-from-moz-mdn-button = Impara isvilupu web

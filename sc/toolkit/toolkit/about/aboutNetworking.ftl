@@ -19,6 +19,7 @@ about-networking-http-version = Versione de HTTP
 about-networking-ssl = SSL
 about-networking-active = AtivasAtivu
 about-networking-idle = Inativu
+about-networking-host = Osteriàrgiu
 about-networking-type = Genia
 about-networking-sent = Imbiadu
 about-networking-received = Retzidu

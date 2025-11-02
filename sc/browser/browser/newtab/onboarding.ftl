@@ -149,7 +149,7 @@ onboarding-live-language-skip-button-label = Brinca
 fx100-thank-you-hero-text =
     100
     <span data-l10n-name="zap">gràtzias</span>
-fx100-thank-you-subtitle = Est sa de 100 versione nostra! Gràtzias de nos agiudare a creare un'internet mègius e prus sanu.
+fx100-thank-you-subtitle = Est sa de 100 versione nostra! Gràtzias de nos agiudare a creare un’internet mègius e prus sanu.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Mantene { -brand-short-name } in su Dock
@@ -158,7 +158,7 @@ fx100-thank-you-pin-primary-button-label =
 fx100-upgrade-thanks-header = 100 gràtzias
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
-fx100-upgrade-thank-you-body = Est sa de 100 versione de { -brand-short-name }. <em>Gràtzias</em> de nos agiudare a creare un'internet mègius e prus sanu.
+fx100-upgrade-thank-you-body = Est sa de 100 versione de { -brand-short-name }. <em>Gràtzias</em> de nos agiudare a creare un’internet mègius e prus sanu.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Est sa de 100 versione nostra! Gràtzias de èssere parte de sa comunidade nostra. Mantene { -brand-short-name } a distàntzia de un'incarcada pro is pròssimas 100!
 mr2022-onboarding-secondary-skip-button-label = Brinca custu passu
@@ -178,7 +178,7 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Importa dae su navigadore a
 # In this context, open up is synonymous with "Discover".
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
-mr2022-onboarding-welcome-pin-header = Iscoberi un'internet de non creere
+mr2022-onboarding-welcome-pin-header = Iscoberi un’internet de non creere
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = Avia { -brand-short-name } dae in ue boles cun unu clic isceti. Ònnia borta chi ddu faghes, sèberas unu web prus abertu e indipendente.
 # Primary button string used on welcome page for when Firefox is not pinned.
@@ -200,7 +200,7 @@ mr2022-onboarding-set-default-only-subtitle = Cumintza cun unu navigadore realiz
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Gràtzias pro istimare { -brand-product-name }
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-subtitle = Imbuca in un'internet prus sanu cun unu clic isceti, dae in ue boles. S'ùrtima atualizatzione nostra includet funtziones noas chi as a adorare.
+mr2022-onboarding-existing-pin-subtitle = Imbuca in un’internet prus sanu cun unu clic isceti, dae in ue boles. S’ùrtima atualizatzione nostra includet funtziones noas chi as a adorare.
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Imprea unu navigadore chi difendet sa riservadesa tua mentras arròllias in su web. S'ùrtima atualizatzione nostra includet funtziones noas chi as a adorare.
@@ -299,7 +299,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Ammustra informa
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Nos ses agiudende a istantargiare una rete mègius
-mr2022-onboarding-gratitude-subtitle = Gràtzias de impreare { -brand-short-name }, realizadu cun s'agiudu de sa fundatzione Mozilla. Cun s'agiudu tuo, semus semper a traballu pro istantargiare un'internet prus aberta, atzessìbile e mègius pro totus.
+mr2022-onboarding-gratitude-subtitle = Gràtzias de impreare { -brand-short-name }, realizadu cun s’agiudu de sa fundatzione Mozilla. Cun s’agiudu tuo, semus semper a traballu pro istantargiare un’internet prus abertu, atzessìbile e mègius pro totus.
 mr2022-onboarding-gratitude-primary-button-label = Bide is novidades
 mr2022-onboarding-gratitude-secondary-button-label = Cumintza a navigare
 
