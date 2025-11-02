@@ -39,6 +39,17 @@ settings-data-change-password = Парольді өзгерту…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Орналасу
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (ұсынылады)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Таңдау…
+       *[other] Шолу…
+    }
 turn-on-scheduled-backups-encryption-create-password-label = Пароль
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Парольді қайталау
@@ -48,6 +59,17 @@ turn-on-scheduled-backups-cancel-button = Бас тарту
 
 turn-off-scheduled-backups-support-link = Көбірек білу
 turn-off-scheduled-backups-cancel-button = Бас тарту
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-filepicker-label = Сақтық көшірме файлы
+restore-from-backup-filepicker-title = Сақтық көшірме файлын таңдаңыз:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Таңдау…
+       *[other] Шолу…
+    }
+restore-from-backup-password-label = Пароль
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
