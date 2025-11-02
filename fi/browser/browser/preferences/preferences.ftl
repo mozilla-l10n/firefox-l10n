@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Ota laajennus käyttöön siirtymällä <img data-l10n-name="addons-icon"/> Lisäosat -sivulle <img data-l10n-name="menu-icon"/>-valikosta.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } hallitsee joitakin etusivusi asetuksia.
 
 ## Preferences UI Search Results
 
@@ -167,6 +170,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Avaa linkit välilehtiin uusien ikkunoiden sijasta
     .accesskey = A
+open-external-link-next-to-active-tab =
+    .label = Avaa linkit sovelluksista aktiivisen välilehden viereen
 ask-on-close-multiple-tabs =
     .label = Kysy ennen useiden välilehtien sulkemista
     .accesskey = m
@@ -598,6 +603,7 @@ home-new-windows-tabs-description2 = Valitse, mitä näet kun avaat aloitussivun
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Aloitussivu ja uudet ikkunat
+home-homepage-mode-label2 = Uudet ikkunat
 home-newtabs-mode-label = Uudet välilehdet
 home-restore-defaults =
     .label = Palauta oletukset
@@ -629,15 +635,22 @@ use-current-pages =
 choose-bookmark =
     .label = Käytä kirjanmerkkiä…
     .accesskey = m
+home-homepage-header = Etusivu
 
 ## Custom Homepage subpage
 
+home-custom-homepage-header = Mukautettu etusivu
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Verkkosivuston tai -sivustojen osoitteet
 home-custom-homepage-address =
     .placeholder = Kirjoita osoite
 home-custom-homepage-address-button =
     .label = Lisää osoite
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ei vielä lisättyjä verkkosivustoja.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Korvaa käyttäen
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Kirjanmerkit…

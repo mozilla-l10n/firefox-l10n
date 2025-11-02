@@ -167,6 +167,8 @@ extensions-warning-update-security-button = Ota käyttöön
 extensions-warning-imported-addons2 =
     .message = Viimeistele { -brand-short-name }iin tuotujen laajennusten asennus.
 extensions-warning-imported-addons-button = Asenna laajennukset
+extensions-warning-safe-mode3 =
+    .message = Kaikki lisäosat on poistettu käytöstä vianmääritystilan toimesta.
 
 ## Strings connected to add-on updates
 

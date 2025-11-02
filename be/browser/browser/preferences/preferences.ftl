@@ -170,6 +170,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Адкрываць спасылкі ў картках замест новых акон
     .accesskey = ы
+open-external-link-next-to-active-tab =
+    .label = Адкрываць спасылкі з праграм побач з актыўнай карткай
 ask-on-close-multiple-tabs =
     .label = Пытаць перад закрыццём некалькіх картак
     .accesskey = ь
@@ -647,6 +649,8 @@ home-custom-homepage-address =
     .placeholder = Увядзіце адрас
 home-custom-homepage-address-button =
     .label = Дадаць адрас
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Пакуль не дададзены ніводны сайт.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Замяніць на
@@ -1268,6 +1272,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Адрасны радок
+addressbar-suggest-1 = Выберыце, якія прапановы будуць паказвацца ў адрасным радку
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Прапановы ад { -brand-short-name } і нашых партнёраў у вашым адрасным радку.
 addressbar-suggest = Пры выкарыстанні адраснага радка, прапаноўваць
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Адрасны радок — { -firefox-suggest-brand-name }
@@ -1295,6 +1304,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Папулярныя сайты
     .accesskey = П
+addressbar-locbar-engines-option-1 =
+    .label = Рэкамендаваць выкарыстанне пошукавых сістэм
+    .accesskey = ц
 addressbar-locbar-engines-option =
     .label = Пошукавыя сістэмы
     .accesskey = П
@@ -1315,6 +1327,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Атрымлівайце прап�
 addressbar-locbar-suggest-sponsored-option =
     .label = Прапановы ад спонсараў
 addressbar-locbar-suggest-sponsored-desc = Падтрымлівайце { -brand-short-name } выпадковымі спонсарскімі прапановамі.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Атрымліваць прапановы ад Mozilla ў часе ўводу тэксту
 addressbar-quickactions-learn-more = Падрабязней
 addressbar-dismissed-suggestions-label = Адхіленыя прапановы
 addressbar-restore-dismissed-suggestions-description = Аднавіць адхіленыя прапановы ад спонсараў і { -brand-short-name }.
