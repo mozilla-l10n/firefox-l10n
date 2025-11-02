@@ -33,6 +33,7 @@ edit-profile-page-profile-name-label = Nomo de profilo
 edit-profile-page-theme-header-2 =
     .label = Etoso
 edit-profile-page-explore-themes = Malkovri aliajn etosojn
+edit-profile-page-desktop-shortcut-header = Krei skribotablan ŝparvojon
 edit-profile-page-avatar-header-2 =
     .label = Avataro
 edit-profile-page-delete-button =
@@ -59,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Elektu nomon, ekzemple “Labora” aŭ “Persona”
 new-profile-page-done-button =
     .label = Modifo finita
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Via kopio de { $profilename } pretas esti personecigita
+copied-profile-page-header-description = Ni kopiis viajn datumojn kaj agordojn en la nova profilo. Nomu ĝin nun, elektu aspekton kaj personecigu.
 profile-window-title-2 = { -brand-short-name } - Elekti profilon
 profile-window-logo =
     .alt = Emblemo de { -brand-short-name }
@@ -262,6 +267,10 @@ custom-avatar-crop-area =
     .aria-label = Alĝustigi la eltonditan areon
 custom-avatar-drag-handle =
     .aria-label = Ŝanĝi grandon de eltondita areo
+profiles-appmenu-callout-tour-title = Via nova profilo pretas
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = En la menuo ☰, premu la nomon de via profilo por krei novan, modifi tiun ĉi aŭ salti inter viaj ciferecaj profiloj.
+profiles-appmenu-callout-tour-primary-button = Montri al mi kiel fari tion
 barbell-avatar = Haltero
 bike-avatar = Biciklo
 

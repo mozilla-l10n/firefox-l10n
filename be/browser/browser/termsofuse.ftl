@@ -7,6 +7,8 @@
 
 #  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
 existing-user-tou-message = <strong>Абнаўленне</strong> Мы ўвялі <a data-l10n-name="terms-of-use-link">Умовы карыстання</a> { -brand-short-name } і абнавілі наша <a data-l10n-name="privacy-notice-link">Паведамленне аб прыватнасці</a>. Калі ласка, азнаёмцеся з імі і прыміце іх.
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Мы абнавілі наша <a data-l10n-name="privacy-notice-link">паведамленне аб прыватнасці</a>, каб адлюстраваць найноўшыя функцыі ў { -brand-short-name }.
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = Падрабязней
 # Text for primary button

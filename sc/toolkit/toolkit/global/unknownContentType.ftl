@@ -33,7 +33,7 @@ unknowncontenttype-choose-handler =
            *[other] N
         }
 unknowncontenttype-save-file =
-    .label = Sarva s'archìviu
+    .label = Sarva s’archìviu
     .accesskey = S
 unknowncontenttype-remember-choice =
     .label = Dae immoe, faghe·ddu in automàticu pro totu is archìvios comente custu.

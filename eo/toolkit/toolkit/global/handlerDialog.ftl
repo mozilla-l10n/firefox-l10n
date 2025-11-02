@@ -20,6 +20,9 @@ permission-dialog-description-file-app = Ĉu permesi al tiu ĉi dosiero malfermi
 permission-dialog-description-extension-app = Ĉu permesi al la etendaĵo { $extension } malfermi la ligilon { $scheme } per { $appName }?
 permission-dialog-description-system-app = Ĉu malfermi la ligilon { $scheme } per { $appName }?
 permission-dialog-description-system-noapp = Ĉu malfermi la ligilon { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Ĉu permesi al tiu ĉi retejo malfermi vian ciferecan monujon?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

@@ -394,6 +394,8 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = archìviu { $extension }
+applications-action-save =
+    .label = Sarva s’archìviu
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -415,7 +417,7 @@ applications-select-helper = Sèbera s'aplicatzione ausiliare
 applications-manage-app =
     .label = Detàllios de s'aplicatzione…
 applications-always-ask =
-    .label = Pregonta semper
+    .label = Pregunta semper
 # Variables:
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
@@ -459,7 +461,7 @@ applications-save-for-new-types =
     .label = Sarva is archìvios
     .accesskey = S
 applications-ask-before-handling =
-    .label = Pregonta si boles abèrrere o sarvare is archìvios
+    .label = Pregunta si boles abèrrere o sarvare is archìvios
     .accesskey = P
 drm-content-header = Cuntenutu DRM (Digital Rights Management, Gestione de deretos digitales)
 play-drm-content =
@@ -467,7 +469,7 @@ play-drm-content =
     .accesskey = R
 play-drm-content-learn-more = Leghe àteru
 update-application-title = Atualizatziones de { -brand-short-name }
-update-application-description = Mantene { -brand-short-name } atualizada pro una seguresa, istabilidade e rendimentu òtimos.
+update-application-description = Mantene { -brand-short-name } atualizadu pro una seguresa, istabilidade e rendimentu òtimos.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versione { $version }<a data-l10n-name="learn-more">Ite noas</a>
@@ -495,6 +497,14 @@ update-application-suppress-prompts =
     .label = Ammustra prus pagu notìficas de atualizatzione
     .accesskey = n
 update-setting-write-failure-title2 = Faddina in su sarvamentu de is cunfiguratziones de atualizatzione
+# Variables:
+#   $path (string) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } at agatadu una faddina e no at sarvadu custa modìfica. Tene contu chi pro cambiare custa cunfiguratzione de atualizatzione serbit su permissu de iscrìere in s’archìviu in fatu. Tue o un'amministradore de sistema diais pòdere risòlvere s'errore, donende a su grupu Utentes su controllu totale de custu archìviu.
+    
+    Impossìbile iscrìere in s’archìviu: { $path }
 update-in-progress-title = Atualizatzione in cursu
 update-in-progress-message = Boles chi { -brand-short-name } andet a in antis cun custa atualizatzione?
 update-in-progress-ok-button = &Iscarta
@@ -579,7 +589,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Ventanas e ischedas noas
-home-new-windows-tabs-description2 = Sèbera su chi bides cando aberis sa pàgina printzipale, e is ventanas e is ischedas noas.
+home-new-windows-tabs-description2 = Sèbera su chi bides cando aberis sa pàgina printzipale, ventanas noas e ischedas noas.
 
 ## Custom Homepage subpage
 
@@ -614,7 +624,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header2 = Cuntenutos de { -firefox-home-brand-name }
+home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
 home-prefs-content-description2 = Sèbera su cuntenutu chi boles visualizare in { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Chirca web
@@ -958,7 +968,7 @@ pane-privacy-logins-and-passwords-header = Credentziales e craes
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Pregonta si bògio sarvare is credentziales e is craes de is sitos web
+    .label = Pregunta si bògio sarvare is credentziales e is craes de is sitos web
     .accesskey = D
 
 ## Privacy Section - Passwords
@@ -1174,6 +1184,7 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de indiritzos
+addressbar-suggest-1 = Sèbera is cussìgios de ammustrare in sa barra de indiritzos
 addressbar-suggest = Cando ses impreende sa barra de indiritzos, cussìgia
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Barra de indiritzos — { -firefox-suggest-brand-name }
@@ -1183,24 +1194,27 @@ addressbar-suggest-firefox-suggest = Sèbera su tipu de cussìgios chi depent ap
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Àteras informatziones
 addressbar-locbar-history-option =
-    .label = cronologia de navigatzione
-    .accesskey = n
+    .label = Cronologia de navigatzione
+    .accesskey = C
 addressbar-locbar-bookmarks-option =
-    .label = sinnalibros
+    .label = Sinnalibros
     .accesskey = s
 addressbar-locbar-clipboard-option =
     .label = Punta de billete
     .accesskey = P
 addressbar-locbar-openpage-option =
-    .label = ischedas abertas
-    .accesskey = i
+    .label = Ischedas abertas
+    .accesskey = I
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
-    .label = curtzadòrgios
+    .label = Curtzadòrgios
     .accesskey = u
 addressbar-locbar-topsites-option =
     .label = sitos populares
     .accesskey = p
+addressbar-locbar-engines-option-1 =
+    .label = Cussìgia is motores de chirca de impreare
+    .accesskey = m
 addressbar-locbar-engines-option =
     .label = motores de chirca
     .accesskey = m
@@ -1254,7 +1268,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-etp-standard-desc = Echilìbriu intre amparu e rendimentu. Is pàginas s'ant a carrigare cun normalidade.
+content-blocking-etp-standard-desc = Echilìbriu intre amparu e rendimentu. Is pàginas s’ant a carrigare cun normalidade.
 content-blocking-etp-strict-desc = Amparu prus poderosu, però diat pòdere causare chi unos cantos sitos o cuntenutos non funtzionent.
 content-blocking-etp-custom-desc = Sèbera cale elementos de sighidura e scripts depent èssere blocados.
 content-blocking-etp-blocking-desc = { -brand-short-name } blocat:
@@ -1278,7 +1292,7 @@ content-blocking-known-and-suspected-fingerprinters = Generadores de imprentas d
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = Sa protetzione totale de testimòngios cuntenet is testimòngios de su situ in ue t'agatas, aici is sighidores no ddos podent impreare pro ti sighire intre unu situ e s'àteru.
+content-blocking-etp-standard-tcp-rollout-description = Sa protetzione totale de testimòngios cuntenet is testimòngios de su situ in ue t’agatas, aici is sighidores no ddos podent impreare pro ti sighire intre unu situ e s’àteru.
 content-blocking-etp-standard-tcp-rollout-learn-more = Àteras informatziones
 content-blocking-etp-standard-tcp-title = Includet sa protetzione totale de testimòngios, sa funtzionalidade nostra de riservadesa prus potente de semper
 content-blocking-warning-title = Atentzione!

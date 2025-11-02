@@ -11,6 +11,8 @@
 unified-extensions-header-title = Пашырэнні
 unified-extensions-manage-extensions =
     .label = Кіраваць пашырэннямі
+unified-extensions-discover-extensions =
+    .label = Адкрыйце для сябе пашырэнні
 
 ## An extension in the main list
 

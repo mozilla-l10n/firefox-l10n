@@ -27,6 +27,10 @@ wallet-custom-scheme-warning-heading =
 wallet-custom-scheme-warning-host-app = Адкрыццё спасылкі <strong>{ $scheme }</strong> дазваляе <strong>{ $host }</strong> запытаць вашу сапраўдную асобу з дапамогай <strong>{ $appName }</strong>. Працягвайце, толькі калі давяраеце гэтаму сайту.
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-app = Адкрыццё спасылкі <strong>{ $scheme }</strong> дазваляе гэтаму сайту запытаць вашу сапраўдную асобу з дапамогай <strong>{ $appName }</strong>. Працягвайце, толькі калі давяраеце гэтаму сайту.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Адкрыццё спасылкі <strong>{ $scheme }</strong> дазваляе <strong>{ $host }</strong> запытаць вашу сапраўдную асобу з вашага лічбавага кашалька. Працягвайце, толькі калі давяраеце гэтаму сайту.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Адкрыццё спасылкі <strong>{ $scheme }</strong> дазваляе гэтаму сайту запытаць вашу сапраўдную асобу з вашага лічбавага кашалька. Працягвайце, толькі калі давяраеце гэтаму сайту.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
