@@ -477,6 +477,43 @@ sync-to-mobile-button-label = Speguli en poŝaparato
 desktop-to-mobile-qr-code-alt =
     .aria-label = Kodo QR por elŝuti { -brand-product-name } por poŝaparatoj
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Ĉu vi ĝisdatigas al Windows 11?
+    Faru ni sekurkopion de viaj datumoj de { -brand-product-name }.
+create-backup-screen-1-subtitle = Aŭtomate protektu viajn pasvortojn, legosignojn kaj pli, en malpli ol du minutoj.
+create-backup-screen-1-flair = Rekomenditaj
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Pli da informo</a>
+create-backup-screen-1-sync-label = Speguli per { -brand-product-name }
+create-backup-screen-1-sync-body = Fari sekurkopion de ĉiuj aparatoj kun seancoj malfermitaj
+create-backup-screen-1-backup-label = Fari sekurkopion en la komputilo
+create-backup-screen-1-backup-body = Fari sekurkopion en via aparato aŭ en OneDrive
+create-backup-select-tile-button-label = Elekti
+create-backup-back-button-label = Reen
+create-backup-show-fewer =
+    .label = Montri malpli da ĉi tiaj mesaĝoj
+create-backup-screen-2-title = Elekti la datumojn de { -brand-product-name } kiuj estos en la sekurkopio
+create-backup-screen-2-subtitle = Tio ĉi prenos nur minuton. Viaj datumoj estos sekurkopiitaj fojon ĉiutage.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Facila agordado
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Legosignoj, historio, agordoj kaj pli
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Tio ĉi inkluzivas nek pasvortojn nek pagmetodojn
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Neĉifrita
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Ĉiuj datumoj
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Tio ĉi inkluzivas kaj pasvortojn kaj pagmetodojn
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Ĉifrita de pasvorto
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Kie vi volas konservi la sekurkopion?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Krei pasvorton por ĉifri sekurkopion
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Reakiri el sekurkopio

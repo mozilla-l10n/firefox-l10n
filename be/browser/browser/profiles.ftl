@@ -270,6 +270,7 @@ custom-avatar-drag-handle =
 profiles-appmenu-callout-tour-title = Ваш новы профіль гатовы да выкарыстання
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
 profiles-appmenu-callout-tour-subtitle = У меню ☰ націсніце на назву вашага профілю, каб стварыць новы, адрэдагаваць гэты або пераключыцца паміж лічбавымі жыццямі.
+profiles-appmenu-callout-tour-primary-button = Паказаць мне, як
 barbell-avatar = Штанга
 bike-avatar = Веласіпед
 

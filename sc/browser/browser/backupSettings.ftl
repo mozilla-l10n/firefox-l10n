@@ -77,6 +77,10 @@ turn-on-scheduled-backups-encryption-create-password-label = Crae
 turn-on-scheduled-backups-encryption-repeat-password-label = Repite sa crae
 turn-on-scheduled-backups-cancel-button = Annulla
 turn-on-scheduled-backups-confirm-button = Ativa sa còpia de seguresa
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Ddoe est istadu unu problema cun sa cartella de còpia de seguresa chi as seletzionadu. Seletziona·nde un’àtera e torra a proare.
+backup-error-file-system = Ddoe est istadu unu problema cun sa cartella de còpia de seguresa chi as seletzionadu durante sa còpia de seguresa de { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
@@ -108,3 +112,105 @@ restore-from-backup-password-description = Custu isblocat sa còpia de seguresa 
 restore-from-backup-cancel-button = Annulla
 restore-from-backup-confirm-button = Recùpera e torra a aviare
 restore-from-backup-restoring-button = Recùperu in cursu...
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Sa crae no est curreta. <a data-l10n-name="incorrect-password-support-link">Tenes ancora problemas?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Custu archìviu non funtzionat.
+    .message = Ddoe est istadu unu problema cun sa còpia de seguresa tua. Sèbera·nde un’àteru archìviu e torra a proare.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Custu archìviu non funtzionat
+    .message = S’archìviu chi as seberadu no est cumpatìbile cun custa versione de { -brand-short-name }. Sèbera·nde un’àteru e torra a proare.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Custu archìviu non funtzionat
+    .message = S’archìviu chi as seberadu no est istadu creadu cun { -brand-short-name }. Sèbera·nde un’àteru e torra a proare.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = Impossìbile recuperare { -brand-short-name }
+    .message = Torra a aviare { -brand-short-name } e proa a torrare a recuperare sa còpia de seguresa.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Mh, ddoe est istadu unu problema cun sa còpia de seguresa.
+    .message = Torra a proare de immoe a calicunu minutu.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Ddoe est istadu unu problema.
+    .message = Ddoe est istadu unu problema cun su protzessu de còpia de seguresa de { -brand-short-name }. Torra a proare o torra a aviare { -brand-short-name }.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Faghe una còpia de seguresa de is datos riservados tuos
+enable-backup-encryption-support-link = Àteras informatziones
+enable-backup-encryption-create-password-label = Crae
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Repite sa crae
+enable-backup-encryption-cancel-button = Annulla
+enable-backup-encryption-confirm-button = Sarva
+change-backup-encryption-header = Modifica sa crae de sa còpia de seguresa
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-length-description = Mìnimu 8 caràteres
+password-rules-email-description = Diferente de s’indiritzu tuo de posta eletrònica
+password-validity-has-email = Non podet èssere un’indiritzu de posta eletrònica
+password-validity-do-not-match = Is craes non currispondent
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Fatu
+password-rules-a11y-warning =
+    .alt = Avisu
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Aberi su menù de s’aplicatzione ☰ e bae a Cunfiguratziones > Sincroniza
+backup-file-moz-browser-restore-step-2 = Incarca «Sèbera archìviu de còpia de seguresa» e seletziona custu archìviu
+backup-file-moz-browser-restore-step-3 = Torra a aviare { -brand-short-name } cando ti ddu preguntet
+backup-file-other-browser-restore-step-1 = Iscàrriga e installa { -brand-short-name }
+backup-file-download-moz-browser-button = Iscàrriga
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Avia { -brand-short-name }, aberi su menù de aplicatzione ☰ e bae a Cunfiguratziones > Sincroniza
+backup-file-other-browser-restore-step-3 = Incarca «Sèbera archìviu de còpia de seguresa» e seletziona custu archìviu
+backup-file-other-browser-restore-step-4 = Torra a aviare { -brand-short-name } cando ti ddu preguntet
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Nota:</b> un’àtera còpia de seguresa agatada
+       *[other] <b>Nota:</b> àteras { $numberOfOtherBackupsFound } còpias de seguresa agatadas
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Creadu in { $machineName } in custa data: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }
+backup-file-restore-file-validation-error = Custu archìviu non funtzionat. Proa a seletzionare un’àteru archìviu. <a data-l10n-name="restore-problems">Tenes ancora problemas?</a>

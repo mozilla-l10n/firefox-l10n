@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = ਟਿਕਾਣਾ
 settings-data-backup-last-backup-location-show-in-folder = ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ
 settings-data-backup-last-backup-location-edit = …ਸੋਧੋ
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") },  { DATETIME($date, dateStyle: "short") } ਨੂੰ ਬੈਕਅੱਪ ਬਣਾਉਣ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਸੀ
+settings-sensitive-data-encryption-description = ਆਪਣੇ ਪਾਸਵਰਡ ਅਤੇ ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਦੇ ਬੈਕਅੱਪ ਨਾਲ ਨਾਲ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰੱਖੋ।
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = ਫ਼ਾਇਲ ਦਾ ਨਾਂ: { $fileName }
@@ -57,6 +58,7 @@ settings-data-change-password = …ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = ਬੈਕਅੱਪ ਨੂੰ ਚਾਲੂ ਕਰੋ
+turn-on-scheduled-backups-description = { -brand-short-name } ਹਰ 24 ਘੰਟਿਆਂ ਬਾਰੇ ਤੁਹਾਡੇ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਬਣਾਏਗਾ। ਜੇ ਤੁਹਾਨੂੰ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ ਜਾਂ ਤੁਸੀਂ ਨਵਾਂ ਡਿਵਾਈਸ ਲੈਂਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਬਹਾਲ ਕਰਨ ਸਕਦੇ ਹੋ।
 turn-on-scheduled-backups-support-link = ਕਿਸ ਦਾ ਬੈਕਅੱਪ ਲਿਆ ਜਾਵੇਗਾ?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = ਟਿਕਾਣਾ
@@ -91,6 +93,10 @@ turn-off-scheduled-backups-confirm-button = ਬੰਦ ਕਰੋ ਅਤੇ ਬੈ
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰੋ
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = ਇਸ ਤੁਹਾਡੇ ਸਾਰੇ ਮੌਜੂਦਾ { -brand-short-name } ਡਾਟੇ ਨੂੰ { DATETIME($date, timeStyle: "short", dateStyle: "short") } ਨੂੰ ਲਏ ਗਏ ਬੈਕਅੱਪ ਨਾਲ ਬਦਲ ਦੇਵੇਗਾ।
 restore-from-backup-support-link =
     .message = ਕਿਸ ਨੂੰ ਬਹਾਲ ਕੀਤਾ ਜਾਵੇਗਾ?
 restore-from-backup-no-backup-file-link = ਆਪਣੇ ਬੈਕਅੱਪ ਲੱਭਣ ਲਈ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ?
@@ -179,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = ਪਾਸਵਰਡ ਸੁਰੱਖਿਆ ਨੂੰ ਹਟਾਓ
+disable-backup-encryption-description2 = ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਅਤੇ ਭੁਗਤਾਨ ਦੇ ਢੰਗ ਦਾ ਵੀ ਬੈਕਅੱਪ ਨਹੀਂ ਲਿਆ ਜਾਵੇਗਾ।
 disable-backup-encryption-support-link = ਕਿਸ ਦਾ ਬੈਕਅੱਪ ਲਿਆ ਜਾਵੇਗਾ?
 disable-backup-encryption-cancel-button = ਰੱਦ ਕਰੋ
 disable-backup-encryption-confirm-button = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
@@ -239,3 +246,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = { $machineName } ਉੱਤੇ { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ਨੂੰ ਬਣਾਇਆ
+backup-file-restore-file-validation-error = ਇਹ ਫ਼ਾਇਲ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ਹੈ। ਵੱਖਰੀ ਫ਼ਾਇਲ ਚੁਣ ਕੇ ਵੇਖੋ। <a data-l10n-name="restore-problems">ਹਾਲੇ ਵੀ ਸਮੱਸਿਆਵਾਂ ਹਨ?</a>

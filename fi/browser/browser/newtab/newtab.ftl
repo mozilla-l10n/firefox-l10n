@@ -490,6 +490,8 @@ newtab-weather-opt-in-not-now =
     .label = Ei nyt
 newtab-weather-opt-in-yes =
     .label = Kyllä
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Helsinki
 
 ## Topic Labels
 
