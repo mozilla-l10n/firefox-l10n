@@ -23,6 +23,14 @@ permission-dialog-description-system-noapp = Avataanko { $scheme }-linkki?
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = Saako tämä sivusto avata digitaalisen lompakkosi?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = <strong>{ $scheme }</strong>-linkin avaaminen sallii sivuston <strong>{ $host }</strong> pyytää todellista identiteettiäsi sovellukselta <strong>{ $appName }</strong>. Jatka vain, jos luotat tähän sivustoon.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = <strong>{ $scheme }</strong>-linkin avaaminen sallii tämän sivuston pyytää todellista identiteettiäsi sovellukselta <strong>{ $appName }</strong>. Jatka vain, jos luotat tähän sivustoon.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = <strong>{ $scheme }</strong>-linkin avaaminen sallii sivuston <strong>{ $host }</strong> pyytää todellista identiteettiäsi digitaaliselta lompakolta. Jatka vain, jos luotat tähän sivustoon.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = <strong>{ $scheme }</strong>-linkin avaaminen sallii tämän sivuston pyytää todellista identiteettiäsi digitaaliselta lompakolta. Jatka vain, jos luotat tähän sivustoon.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
