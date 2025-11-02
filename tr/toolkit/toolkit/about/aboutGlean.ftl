@@ -157,6 +157,10 @@ about-glean-metrics-table-settings-timelines-width = Genişlik
 about-glean-metrics-table-settings-timelines-chart-padding = Grafik padding’i
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Daire yarıçapı
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y ekseni X kayması
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y ekseni Y kayması
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtrele
 # This message sits alongside an input field, further describing its purpose.

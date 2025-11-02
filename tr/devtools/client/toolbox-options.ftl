@@ -30,6 +30,10 @@ options-context-inspector = Denetçi
 options-show-user-agent-styles-label = Tarayıcı stillerini göster
 options-show-user-agent-styles-tooltip =
     .title = Bunu açarsanız tarayıcı tarafından yüklenen varsayılan stiller gösterilir.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Tarayıcı shadow DOM’unu göster
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Bunu açarsanız tarayıcı tarafından işlenen shadow DOM elemanları gösterilecektir.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM özniteliklerini kısalt
 options-collapse-attrs-tooltip =
