@@ -1740,7 +1740,7 @@ collection-usage-ping-description =
        *[no-cases] To organizaci { -vendor-short-name } pomáhá odhadnout počet aktivních uživatelů.
     }
 collection-health-report2 =
-    .label = Odesílat technická data a data o interakcích organizaci { -vendor-short-name }
+    .label = Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích
     .accesskey = t
 collection-health-report =
     .label =

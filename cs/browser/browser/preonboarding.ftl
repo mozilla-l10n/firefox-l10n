@@ -37,7 +37,7 @@ preonboarding-header-button-description = Přečtěte si více
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label =
     { -vendor-short-name.case-status ->
-        [with-cases] Odesílat technická data a data o interakcích { -vendor-short-name(case: "dat") }
+        [with-cases] Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích
        *[no-cases] Odesílat technická data a data o interakcích organizaci { -vendor-short-name }
     }
 preonboarding-checklist-interaction-data-description =
