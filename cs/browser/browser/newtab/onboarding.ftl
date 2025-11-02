@@ -780,6 +780,11 @@ onboarding-personalization-title =
         [with-cases] Přizpůsobte si svůj zážitek z { -brand-short-name(case: "gen") }
        *[no-cases] Přizpůsobte si svůj zážitek z aplikace { -brand-short-name }
     }
+onboarding-personalization-subtitle =
+    { -brand-short-name.case-status ->
+        [with-cases] Odpovězte na několik otázek a my vám odporučíme funkce a rozšíření, které vám { -brand-short-name(case: "acc") } vylepší.
+       *[no-cases] Odpovězte na několik otázek a my vám odporučíme funkce a rozšíření, které vám aplikaci { -brand-short-name } vylepší.
+    }
 onboarding-personalization-use-case-title =
     { -brand-short-name.case-status ->
         [with-cases] K čemu budete { -brand-short-name(case: "acc") } používat?
