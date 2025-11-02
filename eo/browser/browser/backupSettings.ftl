@@ -144,12 +144,73 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } ne povas restarigi datumojn
     .message = Restartigu { -brand-short-name } kaj provu restarigi vian sekurkopion denove.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, okazis eraro dum kreado de sekurkopio.
+    .message = Provu denove post kelkaj minutoj.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Io misfunkciis
+    .message = Okazis problemo kun la procezo, kiu kreas sekurkopion en { -brand-short-name }. Bonvolu provu denove aŭ restartigu { -brand-short-name }.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Faru sekurkopion de viaj delikataj datumoj
+enable-backup-encryption-support-link = Pli da informo
+enable-backup-encryption-create-password-label = Pasvorto
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Retajpu pasvorton
+enable-backup-encryption-cancel-button = Nuligi
+enable-backup-encryption-confirm-button = Konservi
+change-backup-encryption-header = Ŝanĝi pasvorton de sekurkopio
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Pasvortaj postuloj
+password-rules-length-description = Minimume 8 signoj
+password-rules-email-description = Ĝi ne povas esti via retpoŝta adreso
+password-rules-disclaimer = Restu sekura — ne reuzu pasvortojn. Jen kelkaj konsiletoj por <a data-l10n-name="password-support-link">krei fortajn pasvortojn</a>.
+password-validity-has-email = Ĝi ne povas esti retpoŝta adreso
+password-validity-do-not-match = La pasvortoj ne kongruas
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Sukceso
+password-rules-a11y-warning =
+    .alt = Averto
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Forigi pasvortan protekton
+disable-backup-encryption-description2 = Viaj konservitaj pasvortoj kaj pagmetodoj ne plu estos en la sekurkopio.
+disable-backup-encryption-support-link = Kio estos en la sekurkopio?
+disable-backup-encryption-cancel-button = Nuligi
+disable-backup-encryption-confirm-button = Forigi pasvorton
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Via pasvorto ne plenumas la postulojn. Bonvolu provi alian pasvorton.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Io misfunkciis. Bonvolu provi denove.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } pretas esti restarigita
+backup-file-title = Restarigi { -brand-short-name }
+backup-file-intro = Reprenu vian retumon kaj rehavu ĉiujn viajn legosignojn, historion kaj aliajn datumojn. <a data-l10n-name="backup-file-support-link">Pli da informo</a>
+backup-file-path-label = Sekurkopia dosiero:
+backup-file-encryption-state-label = Ĉifrita:
+backup-file-encryption-state-value-encrypted = Jes
 backup-file-encryption-state-value-not-encrypted = Ne
 backup-file-creation-device-label = Aparato:
 backup-file-creation-date-label = Kreita:

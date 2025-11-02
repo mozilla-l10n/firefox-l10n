@@ -26,12 +26,14 @@ profile-card =
 default-profile-name = Profilu { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Profilu originale
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = Modifica su profilu
 edit-profile-page-header = Modifica su profilu tuo
 edit-profile-page-profile-name-label = Nòmine de su profilu
 edit-profile-page-theme-header-2 =
     .label = Tema
 edit-profile-page-explore-themes = Iscoberi àteros temas
+edit-profile-page-desktop-shortcut-header = Crea unu curtzadòrgiu in s’iscrivania
 edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
@@ -58,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Sèbera unu nòmine comente “Traballu” o “Personale”
 new-profile-page-done-button =
     .label = Editzione agabbada
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Sa còpia tua de { $profilename } est pronta pro èssere personalizada
+copied-profile-page-header-description = Amus copiadu sa cunfiguratzione e is datos tuos in unu profilu nou. Sèbera unu nòmine, seletziona un’istile e personaliza·ddu comente boles.
 profile-window-title-2 = { -brand-short-name } - Sèbera unu profilu
 profile-window-logo =
     .alt = logo de { -brand-short-name }
@@ -221,6 +227,9 @@ shopping-avatar = Carrellu de s’ispesa
 soccer-ball-avatar = Bòcia de fùbalu
 star-avatar = Isteddu
 video-game-controller-avatar = Cumandu de videogiogu
+custom-avatar-crop-back-button =
+    .aria-label = A coa
+profiles-appmenu-callout-tour-primary-button = Ammustra·mi comente
 bike-avatar = Bitzicleta
 
 ## Tooltips for default avatar icons

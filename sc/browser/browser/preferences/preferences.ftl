@@ -162,11 +162,13 @@ preferences-manage-profiles-button =
     .label = Gesti is profilos
 tabs-group-header = Ischedas
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab cuncàmbia ischedas in s'òrdine de impreu reghente
+    .label = Ctrl+Tab cuncàmbiat ischedas in s’òrdine de impreu reghente
     .accesskey = T
 open-new-link-as-tabs =
     .label = Aberi ligòngios in ischedas imbetzes de ventanas noas
     .accesskey = A
+open-external-link-next-to-active-tab =
+    .label = Aberi is ligòngios de àteras aplicatziones a su costadu de s’ischeda ativa
 ask-on-close-multiple-tabs =
     .label = Pregunta in antis de serrare prus ischedas
     .accesskey = P
@@ -193,7 +195,7 @@ warn-on-open-many-tabs =
     .label = Avisa cando abèrrere tropu ischedas potzat allentare { -brand-short-name }
     .accesskey = v
 switch-to-new-tabs =
-    .label = Cando aberis unu ligòngiu, un'immàgine o un'elementu multimediale in un'ischeda noa, cola·bi deretu
+    .label = Cando incarcas unu ligòngiu, un’immàgine o un’elementu multimediale in un’ischeda noa, aberi·ddu deretu
     .accesskey = n
 show-tabs-in-taskbar =
     .label = Ammustra previsualizatziones de ischeda in sa barra de tareas de Windows
@@ -243,7 +245,7 @@ browser-layout-horizontal-tabs =
 browser-layout-horizontal-tabs-desc = Ammustra in sa parte de susu de su navigadore
 browser-layout-vertical-tabs =
     .label = Ischedas verticales
-browser-layout-vertical-tabs-desc = Ammustra a un'ala, in sa barra laterale
+browser-layout-vertical-tabs-desc = Ammustra a un’ala, in sa barra laterale
 browser-layout-show-sidebar =
     .label = Ammustra sa barra laterale
 browser-layout-show-sidebar-desc = Atzede a sa lestra a sinnalibros, ischedas dae su telefoneddu tuo, chatbot IA e àteru chene lassare s’ischermu printzipale.
@@ -348,7 +350,7 @@ translate-exceptions =
 use-system-locale =
     .label = Imprea sa cunfiguratzione de su sistema operativu de “{ $localeName }” pro formatare datas, oras, nùmeros e medidas.
 check-user-spelling =
-    .label = Controlla s'ortografia comente iscries
+    .label = Controlla s’ortografia comente iscries
     .accesskey = o
 
 ## General Section - Files and Applications
@@ -374,8 +376,11 @@ download-choose-folder =
            *[other] n
         }
 download-always-ask-where =
-    .label = Pregonta semper su percursu de sarvamentu de archìvios
+    .label = Pregunta semper su percursu de sarvamentu de archìvios
     .accesskey = D
+download-private-browsing-delete =
+    .label = Cantzella is archìvios iscarrigados durante sa navigatzione privada cando totu is ventanas privadas siant serradas
+    .accesskey = C
 applications-header = Aplicatziones
 applications-description = Sèbera comente { -brand-short-name } depet gestire is archìvios chi iscàrrigas dae su web o is aplicatziones chi impreas cando nàvigas.
 applications-filter =
@@ -389,8 +394,6 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = archìviu { $extension }
-applications-action-save =
-    .label = Sarva s'archìviu
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -492,14 +495,6 @@ update-application-suppress-prompts =
     .label = Ammustra prus pagu notìficas de atualizatzione
     .accesskey = n
 update-setting-write-failure-title2 = Faddina in su sarvamentu de is cunfiguratziones de atualizatzione
-# Variables:
-#   $path (string) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message2 =
-    { -brand-short-name } at agatadu una faddina e no at sarvadu custa modìfica. Tene contu chi pro cambiare custa cunfiguratzione de atualizatzione serbit su permissu de iscrìere in s'archìviu in fatu. Tue o un'amministradore de sistema diais pòdere risòlvere s'errore, donende a su grupu Utentes su controllu totale de custu archìviu.
-    
-    Impossìbile iscrìere in s'archìviu: { $path }
 update-in-progress-title = Atualizatzione in cursu
 update-in-progress-message = Boles chi { -brand-short-name } andet a in antis cun custa atualizatzione?
 update-in-progress-ok-button = &Iscarta
