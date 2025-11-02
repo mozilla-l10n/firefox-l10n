@@ -609,12 +609,15 @@ pdfjs-editor-edit-comment-manager-text-input =
 pdfjs-editor-edit-comment-manager-cancel-button = Бас тарту
 pdfjs-editor-edit-comment-manager-save-button = Сақтау
 pdfjs-editor-edit-comment-dialog-save-button-when-editing = Жаңарту
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = Қосу
 pdfjs-editor-edit-comment-dialog-cancel-button = Бас тарту
 
 ## Edit a comment button in the editor toolbar
 
 pdfjs-editor-edit-comment-button =
     .title = Пікірді түзету
+pdfjs-editor-add-comment-button =
+    .title = Пікір қосу
 
 ## Main menu for adding/removing signatures
 

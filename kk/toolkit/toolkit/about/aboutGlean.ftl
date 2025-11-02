@@ -128,6 +128,7 @@ about-glean-metrics-table-settings-hide-empty-value-rows = Бос мән жол�
 about-glean-metrics-table-settings-category-visualizations = Визуализациялар
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Мысалы
+about-glean-metrics-table-settings-category-visualizations-histogram = Гистограмма
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Сүзгі
 about-glean-button-load-all = Барлық мәндерді жүктеу
