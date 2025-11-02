@@ -486,6 +486,16 @@ create-backup-screen-1-title =
 create-backup-screen-1-subtitle = Suojaa salasanasi, kirjanmerkkisi ja muut tiedot automaattisesti 1–2 minuutissa.
 create-backup-screen-1-flair = Suositeltu
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Lue lisää</a>
+create-backup-screen-1-sync-label = Synkronoi { -brand-product-name }in kanssa
+create-backup-screen-1-sync-body = Varmuuskopioi kaikki sisäänkirjatut laitteet
+create-backup-screen-1-backup-label = Varmuuskopioi tietokoneelle
+create-backup-screen-1-backup-body = Tallentaa laitteellesi tai OneDriveen
+create-backup-select-tile-button-label = Valitse
+create-backup-back-button-label = Takaisin
+create-backup-show-fewer =
+    .label = Näytä vähemmän vastaavia
+create-backup-screen-2-title = Valitse varmuuskopioitavat { -brand-product-name }-tiedot
+create-backup-screen-2-subtitle = Kestää vain minuutin. Tietosi varmuuskopioidaan kerran päivässä.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Helppo määritys
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
@@ -494,11 +504,22 @@ create-backup-screen-2-easy-list-1 = Kirjanmerkit, historia, asetukset ja paljon
 create-backup-screen-2-easy-list-2 = Ei sisällä salasanoja ja maksuja
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Ei salattu
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Kaikki tiedot
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Sisältää salasanat ja maksut
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Salattu salasanalla
 # Title for a screen asking users to choose a file location
 create-backup-screen-3-location = Minne haluat varmuuskopiosi tallennettavan?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Luo varmuuskopiotiedoston salasana
+create-backup-screen-3-subtitle = Vaaditaan tietojesi salaamiseen. Säilytä se paikassa, jonka muistat.
 fx-backup-opt-in-header = Valitse tiedoston sijainti
+fx-backup-opt-in-filepath-label = Valitse sijainti, jonka aiot siirtää uudelle laitteelle, kuten OneDrive.
 fx-backup-opt-in-create-password-label = Kirjoita salasana
 fx-backup-opt-in-confirm-btn-label = Jatka
+fx-backup-opt-in-cancel-btn-label = Takaisin
 
 ## Fx Backup confirmation screen strings
 
@@ -507,7 +528,14 @@ fx-backup-confirmation-screen-close-button = Sulje
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
+fx-backup-confirmation-screen-all-data-item-text-1 = Kaikki selaustiedot mukana
+fx-backup-confirmation-screen-all-data-item-text-2 = Tallennettu laitteellesi
 fx-backup-confirmation-screen-all-data-item-text-3 = Salattu ja suojattu salasanalla
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Kirjanmerkit, historia, asetukset ja muut tiedot sisältyvät
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Tallennettu laitteellesi
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Salasanat ja maksut eivät sisälly
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Siirry <a data-l10n-name="settings">asetuksiin</a> lisätäksesi arkaluonteiset tiedot.
+fx-backup-confirmation-screen-item-subtext-1 = Varmuuskopiointi alkaa muutaman minuutin kuluttua ja suoritetaan kerran päivässä. Voit tarkistaa edistymisen <a data-l10n-name="settings">asetuksissa</a>.
 
 ## Restore from Backup Flow about:welcome screens
 
