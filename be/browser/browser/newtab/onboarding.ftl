@@ -505,14 +505,37 @@ create-backup-screen-2-easy-list-2 = Не ўключае паролі і пла
 create-backup-screen-2-easy-list-3 = Не зашыфравана
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Усе дадзеныя
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Уключае паролі і плацяжы
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Зашыфравана паролем
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Куды вы хочаце захаваць рэзервовую копію?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Стварыць пароль для файла рэзервовай копіі
+create-backup-screen-3-subtitle = Патрабуецца для шыфравання вашых дадзеных. Захоўвайце іх у месцы, якое вы запомніце.
 fx-backup-opt-in-header = Выбраць месцазнаходжанне файла
+fx-backup-opt-in-filepath-label = Выберыце месца, куды вы плануеце перанесці дадзеныя на новую прыладу, напрыклад, OneDrive.
 fx-backup-opt-in-create-password-label = Увядзіце пароль
 fx-backup-opt-in-confirm-btn-label = Працягнуць
 fx-backup-opt-in-cancel-btn-label = Назад
 
 ## Fx Backup confirmation screen strings
 
+fx-backup-confirmation-screen-title = Ваша рэзервовая копія запланавана
 fx-backup-confirmation-screen-close-button = Закрыць
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Усе дадзеныя аглядання ўключаны
+fx-backup-confirmation-screen-all-data-item-text-2 = Захавана на вашай прыладзе
+fx-backup-confirmation-screen-all-data-item-text-3 = Зашыфравана і абаронена паролем
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Закладкі, гісторыя, налады і іншыя дадзеныя ўключаны
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Захавана на вашай прыладзе
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Паролі і плацяжы не ўключаны
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Каб дадаць канфідэнцыяльныя дадзеныя, перайдзіце ў <a data-l10n-name="settings">Налады</a>.
+fx-backup-confirmation-screen-item-subtext-1 = Рэзервовае капіяванне пачнецца праз некалькі хвілін і будзе выконвацца адзін раз у дзень. Вы можаце праверыць прагрэс у <a data-l10n-name="settings">Наладах</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } будзе шукаць рэзервовую копію, калі вам спатрэбіцца пераўсталяванне.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -532,3 +555,8 @@ restored-from-backup-success-no-checklist-primary-button = Працягнуць
 restored-from-backup-error-title = Гм, узнікла праблема з вашым рэзервовым файлам.
 restored-from-backup-error-subtitle = Калі ў вас ёсць іншы файл рэзервовай копіі { -brand-short-name }, паспрабуйце аднавіць з яго. <a data-l10n-name="restore-problems">Усё яшчэ ёсць праблемы?</a>
 restored-from-backup-error-primary-button = Закрыць
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Уладкуйце свой досвед { -brand-short-name }

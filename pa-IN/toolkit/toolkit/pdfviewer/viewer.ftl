@@ -386,6 +386,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .title = ਬਾਹੀ ਨੂੰ ਬੰਦ ਕਰੋ
     .aria-label = ਬਾਹੀ ਨੂੰ ਬੰਦ ਕਰੋ
 pdfjs-editor-comments-sidebar-close-button-label = ਬਾਹੀ ਨੂੰ ਬੰਦ ਕਰੋ
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = ਕੀ ਕੁਝ ਧਿਆਨ ਦੇਣ ਯੋਗ ਵੇਖਿਆ ਹੈ? ਇਸ ਨੂੰ ਉਘਾੜੋ ਅਤੇ ਟਿੱਪਣੀ ਦਿਓ।
 pdfjs-editor-comments-sidebar-no-comments-link = ਹੋਰ ਜਾਣੋ
 
 ## Alt-text dialog
@@ -642,6 +644,8 @@ pdfjs-editor-edit-comment-dialog-cancel-button = ਰੱਦ ਕਰੋ
 
 pdfjs-editor-edit-comment-button =
     .title = ਟਿੱਪਣੀ ਨੂੰ ਸੋਧੋ
+pdfjs-editor-add-comment-button =
+    .title = ਟਿੱਪਣੀ ਜੋੜੋ
 
 ## Main menu for adding/removing signatures
 

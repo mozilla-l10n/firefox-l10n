@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = ਸਾਫ਼ ਕਰੋ
 text-action-highlight-selection =
     .label = ਚੋਣ ਨੂੰ ਹਾਈਲਾਈਟ ਕਰੋ
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = ਚੋਣ ਲਈ ਟਿੱਪਣੀ ਜੋੜੋ
 # Comment is a verb. This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection =
     .label = ਟਿੱਪਣੀ ਚੋਣ

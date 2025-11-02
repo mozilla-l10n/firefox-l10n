@@ -167,6 +167,8 @@ extensions-warning-update-security-button = ਚਾਲੂ
 extensions-warning-imported-addons2 =
     .message = { -brand-short-name } ਲਈ ਦਰਾਮਦ ਕੀਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰੋ।
 extensions-warning-imported-addons-button = ਇਕਸਟੈਨਸ਼ਨਾਂ ਇੰਸਟਾਲ ਕਰੋ
+extensions-warning-safe-mode3 =
+    .message = ਸਮੱਸਿਆ ਨਿਪਟਾਰੇ ਦੌਰਾਨ ਸਾਰੀਆਂ ਐਡ-ਆਨਾਂ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ।
 
 ## Strings connected to add-on updates
 

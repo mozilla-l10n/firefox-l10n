@@ -11,6 +11,14 @@
 unified-extensions-header-title = ਇਕਸਟੈਨਸ਼ਨ
 unified-extensions-manage-extensions =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ
+unified-extensions-discover-extensions =
+    .label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਲੱਭੋ
+unified-extensions-empty-reason-private-browsing-not-allowed = ਤੁਹਾਡੇ ਕੋਲ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤਾਂ ਇੰਸਟਾਲ ਹਨ, ਪਰ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਲਈ ਸਮਰੱਥ ਨਹੀਂ ਕੀਤੀਆਂ ਹਨ
+unified-extensions-empty-reason-extension-not-enabled = ਤੁਹਾਡੇ ਕੋਲ ਇਕਸਟੈਨਸ਼ਨਾਂ ਇੰਸਟਾਲ ਤਾਂ ਹਨ, ਪਰ ਸਮਰੱਥ ਨਹੀ
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = ਇਕਸਟੈਨਸ਼ਨਾਂ ਨਾਲ ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਦਾ ਪੱਧਰ ਉੱਚਾ ਕਰੋ
+unified-extensions-empty-content-explain-enable2 = ਸੈਟਿੰਗਾਂ ਵਿੱਚ { unified-extensions-manage-extensions.label } ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ ਚੁਣੋ।
+unified-extensions-empty-content-explain-manage2 = { unified-extensions-manage-extensions.label } ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚੋਂ ਚੁਣੋ।
 
 ## An extension in the main list
 
@@ -83,3 +91,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਸਮਰੱਥ ਹਨ
         }
     .message = ਤੁਹਾਡੀਆਂ ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ Mozilla ਦੀਆਂ ਪਾਲਸੀਆਂ ਦੀਆਂ ਉਲੰਘਣਾ ਕਰਨ ਕਰਕੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।
+unified-extensions-notice-safe-mode =
+    .message = ਸਮੱਸਿਆ ਨਿਪਟਾਰੇ ਦੌਰਾਨ ਸਾਰੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ।

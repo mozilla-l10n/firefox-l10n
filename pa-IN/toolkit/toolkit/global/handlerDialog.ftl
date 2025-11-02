@@ -20,6 +20,9 @@ permission-dialog-description-file-app = ਇਸ ਫ਼ਾਈਲ ਨੂੰ { $sch
 permission-dialog-description-extension-app = { $extension } ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ { $appName } ਨਾਲ { $scheme } ਲਿੰਕ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?
 permission-dialog-description-system-app = ਕੀ { $scheme } ਲਿੰਕ ਨੂੰ { $appName } ਨਾਲ ਖੋਲ੍ਹਣਾ ਹੈ?
 permission-dialog-description-system-noapp = { $scheme } ਲਿੰਕ ਖੋਲ੍ਹਣਾ ਹੈ?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = ਇਸ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡਾ ਡਿਜ਼ਿਟਲ ਵਾਲਟ ਖੋਲ੍ਹਣ ਦੀ ਮਨਜ਼ੂਰੀ ਦੇਣੀ ਹੈ?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

@@ -390,6 +390,8 @@ onboarding-new-tabs-title = Nara·nos in ue boles is ischedas tuas
 onboarding-new-tabs-subtitle = Podes cambiare cando boles dae sa cunfiguratzione de sa barra laterale.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Is ischedas tuas, sa manera tua
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Tenes tropu ischedas abertas? Proa cun una visualizatzione prus lìmpia ponende·ddas a su costadu. O mantene s’istile clàssicu cun is ischedas in pitzus. Càmbia cando boles.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Sèbera sa dispositziones de is ischedas
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
@@ -426,6 +428,8 @@ onboarding-genai-sidebar-secondary-button = Cumintza a navigare
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Agabba de cunfigurare { -brand-short-name }
+onboarding-checklist-subtitle = Sighi custos passos pro aprofitare a su màssimu s’esperièntzia de navigatzione tua.
 onboarding-checklist-set-default = Cunfigura { -brand-short-name } comente navigadore predefinidu
 onboarding-checklist-pin = Apica { -brand-short-name } a sa barra de is tareas
 onboarding-checklist-import = Importa dae unu navigadore anteriore
@@ -434,6 +438,8 @@ onboarding-checklist-sign-up = Registra·ti o identìfica·ti cun su profilu tuo
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Is grupos de ischedas megiorant s’organizatzione e sa cuntzentratzione
+tab-groups-onboarding-feature-callout-subtitle = Traga un’ischeda in pitzus de un’àtera pro creare su primu grupu tuo.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Agata is grupos de ischedas in cale si siat momentu dae su menù Elenca totu is ischedas
 tab-groups-onboarding-create-group-title-2 = Agata is grupos de ischedas inoghe cando ti serbant.
@@ -460,14 +466,77 @@ multi-profile-callout-cta = Crea unu profilu
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Iscàrriga, sincroniza e bae!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Iscansione su còdighe QR pro iscarrigare { -brand-product-name }{ -brand-product-name } pro telèfonos. Una borta installadu, seletziona «Sincroniza cun su telèfonu» pro atzèdere a craes, sinnalibros e meda àteru dae onni logu.
 dismiss-button-label = Iscarta
 sync-to-mobile-button-label = Sincroniza cun dispositivos mòbiles
 desktop-to-mobile-qr-code-alt =
     .aria-label = Còdighe QR pro iscarrigare { -brand-product-name } pro dispositivos mòbiles
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Boles atualizare a Windows 11?
+    Faghimus deretu una còpia de seguresa de is datos de { -brand-product-name }.
+create-backup-screen-1-subtitle = Ampara in automàticu is craes, is sinnalibros e àteru, totu in unu minutu o duos.
+create-backup-screen-1-flair = Cussigiadu
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Àteras informatziones</a>
+create-backup-screen-1-sync-label = Sincroniza cun { -brand-product-name }
+create-backup-screen-1-sync-body = Faghet una còpia de seguresa de totu is dispositivos in ue as fatu s’atzessu
+create-backup-screen-1-backup-label = Faghe una còpia de seguresa in s’elaboradore (PC)
+create-backup-screen-1-backup-body = Sarvat sa còpia in su dispositivu o in OneDrive
+create-backup-select-tile-button-label = Seletziona
+create-backup-back-button-label = A coa
+create-backup-show-fewer =
+    .label = Ammustra prus pagu publitzidade comente custa
+create-backup-screen-2-title = Sèbera is datos de { -brand-product-name } pro sa còpia de seguresa
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Totu is datos
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Includet craes e pagamentos
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Tzifradu cun crae
+fx-backup-opt-in-header = Sèbera sa positzione de s’archìviu
+fx-backup-opt-in-create-password-label = Inserta sa crae
+fx-backup-opt-in-confirm-btn-label = Sighi
+fx-backup-opt-in-cancel-btn-label = A coa
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Sa còpia de seguresa est programmada
+fx-backup-confirmation-screen-close-button = Serra
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Totu is datos de navigatzione incluidos
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Sarvadu in su dispositivu
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Recùpera dae una còpia de seguresa
+restore-from-backup-title = Torremus a pònnere { -brand-short-name } comente ti praghet
+restore-from-backup-subtitle = Recùpera sinnalibros, cronologia e àteros datos pro torrare a navigare.
+restore-from-backup-secondary-button = Non recùperes
+
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Semus inoghe torra! Is datos tuos de { -brand-short-name } sunt istados recuperados.
+restored-from-backup-success-with-checklist-subtitle = Boles tènnere semper a portada su navigadore preferidu tuo, atentu a sa riservadesa?
 restored-from-backup-success-with-checklist-primary-button = Sarva e sighi
 restored-from-backup-success-with-checklist-secondary-button = Brinca custu passu
 restored-from-backup-success-no-checklist-primary-button = Sighi
+restored-from-backup-error-title = Mh, ddoe est istadu unu problema cun sa còpia de seguresa.
 restored-from-backup-error-primary-button = Serra
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Personaliza s’esperièntzia tua cun { -brand-short-name }
+onboarding-personalization-subtitle = Risponde a unas cantas preguntas e t’amus a cussigiare funtzionalidades e estensiones pro megiorare s’impreu de { -brand-short-name }.
+onboarding-personalization-use-case-title = Cun cale iscopu as a impreare { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Impreu personale
+onboarding-personalization-use-case-school-option = Iscola
+onboarding-personalization-use-case-work-option = Traballu
+onboarding-personalization-motivation-privacy-option = Riservadesa e seguresa
+onboarding-personalization-motivation-productivity-option = Produtividade
+onboarding-personalization-motivation-other-option = Àteru

@@ -55,3 +55,10 @@ about-logging-upload-button = ਅੱਪਲੋਡ ਕਰੋ
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = { $path } ਵਿੱਚ ਸੰਭਾਲਿਆ
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = ਹਟਾਓ
+about-logging-view-uploaded-profile = ਪਰੋਫਾਇਲ ਦੇਖੋ
+about-logging-delete-profile-confirm-title = ਪਰੋਫਾਈਲ ਨੂੰ ਹਟਾਓ
+about-logging-deleting-profile = …ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ

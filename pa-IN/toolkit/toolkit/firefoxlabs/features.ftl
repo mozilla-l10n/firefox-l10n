@@ -19,6 +19,8 @@ experimental-features-group-webpage-display =
     .label = ਵੈੱਬਪੇਜ ਡਿਸਪਲੇਅ
 experimental-features-group-customize-browsing =
     .label = ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+experimental-features-group-productivity =
+    .label = ਉਤਪਾਦਨ
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = ਬਾਹੀ ਵਿੱਚ ਪਾਸਵਰਡ
@@ -32,3 +34,15 @@ experimental-features-link-previews =
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੀ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਜੋੜੋ
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = { -firefox-home-brand-name } ਉੱਤੇ ਸੂਚੀਆਂ
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = { -firefox-home-brand-name } ਉੱਤੇ ਘੜੀ
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = { -firefox-home-brand-name } ਉੱਤੇ ਸੂਚੀਆਂ ਅਤੇ ਘੜੀ

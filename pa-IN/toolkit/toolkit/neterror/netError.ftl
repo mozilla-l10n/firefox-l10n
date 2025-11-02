@@ -167,3 +167,11 @@ certerror-coep-learn-more = ਕਰਾਸ ਓਰੀਜ਼ਨ ਇੰਬੈਂਡਰ �
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = ਗਲਤੀ ਕੋਡ: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } { $hostname } ਉੱਤੇ ਸਰਵਰ ਨਾਲ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਬਣਾ ਸਕਦਾ ਹੈ।
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = ਇੰਝ ਜਾਪਦਾ ਹੈ ਕਿ ਇਹ ਸਾਈਟ ਸੁਰੱਖਿਆ ਮਸਲਿਆਂ ਵਾਲੇ ਪੁਰਾਣੇ ਸਾਫਟਵੇਅਰ ਨੂੰ ਵਰਤ ਰਹੀ ਹੈ।
