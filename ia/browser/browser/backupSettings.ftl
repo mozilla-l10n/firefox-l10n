@@ -51,7 +51,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Elige un copia de se
 
 settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } ab le ultime vice que illos era salveguardate.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
-settings-data-toggle-encryption-label = Facer un copia de securitate de tu datos sensibile
+settings-data-toggle-encryption-label = Salveguarda tu datos sensibile
 settings-data-toggle-encryption-support-link = Pro saper plus
 settings-data-change-password = Cambiar contrasigno…
 
