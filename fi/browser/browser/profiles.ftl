@@ -167,6 +167,9 @@ briefcase-avatar-alt =
     .alt = Salkku
 picture-avatar-alt =
     .alt = Kuva
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Käsityö
 flower-avatar-alt =
     .alt = Kukka
 folder-avatar-alt =
@@ -176,7 +179,7 @@ hammer-avatar-alt =
 heart-avatar-alt =
     .alt = Sydän
 heart-rate-avatar-alt =
-    .alt = Syke
+    .alt = Sydänkäyrä
 clock-avatar-alt =
     .alt = Kello
 leaf-avatar-alt =
@@ -203,6 +206,8 @@ shopping-avatar-alt =
     .alt = Ostoskärryt
 soccer-ball-avatar-alt =
     .alt = Jalkapallo
+sparkle-single-avatar-alt =
+    .alt = Kimallus
 star-avatar-alt =
     .alt = Tähti
 video-game-controller-avatar-alt =
@@ -215,6 +220,8 @@ globe-avatar-alt =
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Timantti
+barbell-avatar-alt =
+    .alt = Painonnostotanko
 bike-avatar-alt =
     .alt = Polkupyörä
 
@@ -223,6 +230,8 @@ bike-avatar-alt =
 book-avatar = Kirja
 briefcase-avatar = Salkku
 clock-avatar = Kello
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Käsityö
 custom-avatar = Mukautettu profiilikuva
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Timantti
@@ -232,7 +241,7 @@ folder-avatar = Kansio
 globe-avatar = Maapallo
 hammer-avatar = Vasara
 heart-avatar = Sydän
-heart-rate-avatar = Syke
+heart-rate-avatar = Sydänkäyrä
 leaf-avatar = Lehti
 lightbulb-avatar = Lamppu
 makeup-avatar = Meikki
@@ -247,8 +256,11 @@ plane-avatar = Lentokone
 present-avatar = Lahja
 shopping-avatar = Ostoskärryt
 soccer-ball-avatar = Jalkapallo
+sparkle-single-avatar = Kimallus
 star-avatar = Tähti
 video-game-controller-avatar = Peliohjain
+custom-avatar-crop-back-button =
+    .aria-label = Takaisin
 custom-avatar-crop-view =
     .aria-label = Rajaa kuvanäkymä
 custom-avatar-crop-area =
@@ -259,12 +271,24 @@ profiles-appmenu-callout-tour-title = Uusi profiilisi on käyttövalmis
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
 profiles-appmenu-callout-tour-subtitle = Napsauta ☰-valikossa profiilinimeäsi luodaksesi uuden profiilin, muokataksesi tätä profiilia tai vaihtaaksesi profiilien välillä.
 profiles-appmenu-callout-tour-primary-button = Näytä ohje
+barbell-avatar = Painonnostotanko
 bike-avatar = Polkupyörä
 
 ## Tooltips for default avatar icons
 
+barbell-avatar-tooltip =
+    .tooltiptext = Käytä painonnostotangon kuvaa profiilikuvana
 bike-avatar-tooltip =
     .tooltiptext = Käytä polkupyörän kuvaa profiilikuvana
+book-avatar-tooltip =
+    .tooltiptext = Käytä kirjan kuvaa profiilikuvana
+briefcase-avatar-tooltip =
+    .tooltiptext = Käytä salkun kuvaa profiilikuvana
+picture-avatar-tooltip =
+    .tooltiptext = Käytä kuvan kuvaa profiilikuvana
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Käytä käsityön kuvaa profiilikuvana
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-tooltip =
     .tooltiptext = Käytä maapallon kuvaa profiilikuvana
@@ -278,6 +302,8 @@ hammer-avatar-tooltip =
     .tooltiptext = Käytä vasaran kuvaa profiilikuvana
 heart-avatar-tooltip =
     .tooltiptext = Käytä sydämen kuvaa profiilikuvana
+heart-rate-avatar-tooltip =
+    .tooltiptext = Käytä sydänkäyrän kuvaa profiilikuvana
 clock-avatar-tooltip =
     .tooltiptext = Käytä kellon kuvaa profiilikuvana
 leaf-avatar-tooltip =
@@ -304,6 +330,8 @@ shopping-avatar-tooltip =
     .tooltiptext = Käytä ostoskärryjen kuvaa profiilikuvana
 soccer-ball-avatar-tooltip =
     .tooltiptext = Käytä jalkapallon kuvaa profiilikuvana
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Käytä kimalluksen kuvaa profiilikuvana
 star-avatar-tooltip =
     .tooltiptext = Käytä tähden kuvaa profiilikuvana
 video-game-controller-avatar-tooltip =
