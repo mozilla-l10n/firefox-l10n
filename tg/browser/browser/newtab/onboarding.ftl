@@ -486,8 +486,11 @@ create-backup-select-tile-button-label = Интихоб кардан
 create-backup-back-button-label = Ба қафо
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Танзими осон
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Рамзгузорӣ нашудааст
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Ҳамаи маълумот
+fx-backup-opt-in-header = Интихоби ҷойгиршавии файл
 fx-backup-opt-in-create-password-label = Ниҳонвожаро ворид намоед
 fx-backup-opt-in-confirm-btn-label = Идома додан
 fx-backup-opt-in-cancel-btn-label = Ба қафо

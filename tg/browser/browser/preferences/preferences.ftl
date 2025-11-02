@@ -597,6 +597,7 @@ home-new-windows-tabs-description2 = Интихоб кунед, ки чӣ боя
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Саҳифаи асосӣ ва равзанаҳои нав
+home-homepage-mode-label2 = Равзанаи нав
 home-newtabs-mode-label = Варақаҳои нав
 home-restore-defaults =
     .label = Барқарор кардани пешфарзҳо
@@ -609,6 +610,9 @@ home-mode-choice-blank =
     .label = Саҳифаи холӣ
 home-homepage-custom-url =
     .placeholder = Гузоштани нишонии URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Идоракунии васеъшавӣ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should

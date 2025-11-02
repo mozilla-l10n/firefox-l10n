@@ -87,6 +87,8 @@ restore-from-backup-file-choose-button =
     }
 restore-from-backup-password-label = Ниҳонвожа
 restore-from-backup-cancel-button = Бекор кардан
+restore-from-backup-confirm-button = Барқарор кардан ва аз нав оғоз намудан
+restore-from-backup-restoring-button = Дар ҳоли барқарорсозӣ…
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -101,6 +103,7 @@ change-backup-encryption-header = Иваз кардани ниҳонвожаи �
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
 password-rules-header = Талаботи ниҳонвожа
+password-validity-do-not-match = Ниҳонвожаҳо мувофиқат намекунанд
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
@@ -128,6 +131,7 @@ backup-error-retry = Чизе нодуруст иҷро шуд. Лутфан, а
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-title = Барқарор кардани «{ -brand-short-name }»
 backup-file-path-label = Файли нусхаи эҳтиётӣ:
 backup-file-encryption-state-value-encrypted = Ҳа
 backup-file-encryption-state-value-not-encrypted = Не
