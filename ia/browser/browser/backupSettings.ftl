@@ -59,7 +59,7 @@ settings-data-change-password = Cambiar contrasigno…
 
 turn-on-scheduled-backups-header = Activar copia de securitate
 turn-on-scheduled-backups-description = { -brand-short-name } creara un instantaneo de tu datos cata 24 horas. Tu pote restaurar lo si il ha un problema o si tu usa un nove apparato.
-turn-on-scheduled-backups-support-link = Que es includite in le copia de securitate?
+turn-on-scheduled-backups-support-link = Que sera salveguardate?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Position
 # Variables:
@@ -71,7 +71,7 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Eliger…
        *[other] Navigar…
     }
-turn-on-scheduled-backups-encryption-label = Facer un copia de securitate de tu datos sensibile
+turn-on-scheduled-backups-encryption-label = Salveguarda tu datos sensibile
 turn-on-scheduled-backups-encryption-create-password-label = Contrasigno
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Repete le contrasigno
@@ -79,13 +79,13 @@ turn-on-scheduled-backups-cancel-button = Cancellar
 turn-on-scheduled-backups-confirm-button = Activar copia de securitate
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
-turn-on-scheduled-backups-error-file-system = Un problema ha occurrite con tu directorio de copia de securitate seligite. Elige un altere directorio e tenta lo de novo.
-backup-error-file-system = Un problema ha occurrite con le directorio que tu ha seligite durante que se faceva un copia de securitate de { -brand-short-name }.
+turn-on-scheduled-backups-error-file-system = Il habeva un problema con le plica de tu salveguarda seligite. Elige un plica differente e retenta.
+backup-error-file-system = Il habeva un problema con le plica de tu salveguarda seligite salveguardante { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Disactivar le copia de securitate?
-turn-off-scheduled-backups-description = Isto tamben dele tote tu datos del copia de securitate. Iste action es irreversibile.
+turn-off-scheduled-backups-description = Isto alsi dele tote tu datos de salveguarda, e non pote esser disfacite.
 turn-off-scheduled-backups-support-link = Pro saper plus
 turn-off-scheduled-backups-cancel-button = Cancellar
 turn-off-scheduled-backups-confirm-button = Disactivar e deler copia de securitate
@@ -96,9 +96,9 @@ restore-from-backup-header = Restaurar tu datos
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
-    .message = Isto substituera tote tu datos actual de { -brand-short-name } con tu copia de securitate del { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+    .message = Isto substituera tote tu datos actual de { -brand-short-name } con tu salveguarda del { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
-    .message = Que essera restaurate?
+    .message = Que sera restaurate?
 restore-from-backup-no-backup-file-link = Ha tu problemas a trovar tu copia de securitate?
 restore-from-backup-filepicker-label = File de copia de securitate
 restore-from-backup-filepicker-title = Eliger file de copia de securitate:
@@ -119,7 +119,7 @@ restore-from-backup-restoring-button = Restaurante…
 # User is not authorized to restore a particular backup file, usually because
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
-backup-service-error-incorrect-password = Contrasigno incorrecte. <a data-l10n-name="incorrect-password-support-link">Ancora problemas?</a>
+backup-service-error-incorrect-password = Contrasigno errate. <a data-l10n-name="incorrect-password-support-link">Ancora ha tu problemas?</a>
 # The backup file (or specific data files within the backup file) could not be
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself
