@@ -32,6 +32,8 @@ options-show-user-agent-styles-tooltip =
     .title = Zapnutím zobrazíte výchozí styly, které jsou načítány prohlížečem.
 # The label for the checkbox option to show all anonymous content
 options-show-user-agent-shadow-dom-label = Zobrazit stínový prohlížeč DOM
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Zapnutím této funkce se zobrazí prvky stínového DOM zpracovávané prohlížečem.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Zkrátit DOM atributy
 options-collapse-attrs-tooltip =
