@@ -54,7 +54,7 @@ bottomLinks-license = Informatziones de sa lissèntzia
 bottom-links-terms = Cunditziones de su servìtziu
 bottom-links-privacy = Avisu de riservadesa
 bottomLinks-rights = Deretos de s'utente
-bottomLinks-privacy = Polìtica de sa riservadesa
+bottomLinks-privacy = Polìtica de riservadesa
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

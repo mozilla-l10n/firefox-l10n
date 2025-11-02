@@ -97,7 +97,7 @@ modified-key-prefs-title = Preferèntzias importantes modificadas
 modified-prefs-name = Nòmine
 modified-prefs-value = Valore
 user-js-title = Preferèntzias de user.js
-user-js-description = Su profilu tuo cuntenet un'archìviu <a data-l10n-name="user-js-link">user.js</a>, chi includet preferèntzias non creadas dae { -brand-short-name }.
+user-js-description = Su profilu tuo cuntenet un’archìviu <a data-l10n-name="user-js-link">user.js</a>, chi includet preferèntzias non creadas dae { -brand-short-name }.
 locked-key-prefs-title = Preferèntzias importantes blocadas
 locked-prefs-name = Nòmine
 locked-prefs-value = Valore

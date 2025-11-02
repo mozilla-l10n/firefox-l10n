@@ -26,7 +26,7 @@ menu =
     .title = Aberi su menù
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importa dae un'àteru navigadore...
-about-logins-menu-menuitem-import-from-a-file = Importa dae un'archìviu...
+about-logins-menu-menuitem-import-from-a-file = Importa dae un’archìviu...
 about-logins-menu-menuitem-export-logins = Esporta credentziales...
 about-logins-menu-menuitem-remove-all-logins = Boga·nche totu is credentziales...
 about-logins-menu-menuitem-export-logins2 = Esporta craes…
@@ -113,8 +113,8 @@ login-intro-instructions-fxa2 = Crea unu contu o identìfica·ti in su dispositi
 login-intro-instructions-fxa-settings = Bae a Cunfiguratzione > Sincroniza > Ativa sincronizatzione... Seletziona sa casella «Credentziales e craes».
 login-intro-instructions-fxa-passwords-help = Bìsita s'<a data-l10n-name="passwords-help-link">assistèntzia pro is craes</a> pro àteru agiudu.
 about-logins-intro-browser-only-import = Si is credentziales tuas sunt sarvadas in un'àteru navigadore, ddas podes <a data-l10n-name="import-link">importare a { -brand-product-name }</a>
-about-logins-intro-import2 = Si is credentziales tuas sunt sarvadas a foras de { -brand-product-name }, ddas podes <a data-l10n-name="import-browser-link">importare dae un'àteru navigadore</a> o <a data-l10n-name="import-file-link">dae un'archìviu</a>
-about-logins-intro-import3 = Sèbera su sinnu "prus" in artu pro agiùnghere una crae. Podes fintzas <a data-l10n-name="import-browser-link">importare craes dae un'àteru navigadore</a> o <a data-l10n-name="import-file-link">dae un'archìviu</a>.
+about-logins-intro-import2 = Si is credentziales tuas sunt sarvadas a foras de { -brand-product-name }, ddas podes <a data-l10n-name="import-browser-link">importare dae un’àteru navigadore</a> o <a data-l10n-name="import-file-link">dae un’archìviu</a>
+about-logins-intro-import3 = Sèbera su sinnu "prus" in artu pro agiùnghere una crae. Podes fintzas <a data-l10n-name="import-browser-link">importare craes dae un’àteru navigadore</a> o <a data-l10n-name="import-file-link">dae un’archìviu</a>.
 
 ## Login
 

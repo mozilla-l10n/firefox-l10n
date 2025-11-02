@@ -51,17 +51,40 @@ settings-data-backup-scheduled-backups-off-restore-choose = Выбраць фа�
 
 settings-data-backup-scheduled-backups-on-restore-description = Аднавіце свае дадзеныя { -brand-product-name } з моманту іх апошняга рэзервовага капіявання.
 settings-data-backup-scheduled-backups-on-restore-choose = Аднавіць…
+settings-data-toggle-encryption-label = Зрабіць рэзервовую копію канфідэнцыяльных дадзеных
+settings-data-toggle-encryption-support-link = Падрабязней
+settings-data-change-password = Змяніць пароль…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Уключыць рэзервовае капіяванне
+turn-on-scheduled-backups-description = { -brand-short-name } будзе ствараць здымак вашых дадзеных кожныя 24 гадзіны. Вы можаце аднавіць іх, калі ўзнікне праблема або вы атрымаеце новую прыладу.
+turn-on-scheduled-backups-support-link = Што знойдзецца ў рэзервовай копіі?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Месцазнаходжанне
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (рэкамендуецца)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Выбраць…
+       *[other] Праглядзець…
+    }
+turn-on-scheduled-backups-encryption-label = Зрабіць рэзервовую копію канфідэнцыяльных дадзеных
 turn-on-scheduled-backups-encryption-create-password-label = Пароль
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Паўтарыце пароль
 turn-on-scheduled-backups-cancel-button = Скасаваць
+turn-on-scheduled-backups-confirm-button = Уключыць рэзервовае капіяванне
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Узнікла праблема з выбранай вамі папкай рэзервовай копіі. Выберыце іншую папку і паспрабуйце зноў.
+backup-error-file-system = У часе рэзервовага капіявання { -brand-short-name } узнікла праблема з выбранай вамі папкай рэзервовай копіі.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Выключыць рэзервовае капіяванне?
 turn-off-scheduled-backups-support-link = Падрабязней
 turn-off-scheduled-backups-cancel-button = Скасаваць
 turn-off-scheduled-backups-confirm-button = Выключыць і выдаліць рэзервовую копію
