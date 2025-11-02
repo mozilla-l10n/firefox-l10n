@@ -101,6 +101,49 @@ restore-from-backup-support-link =
     .message = Kio estos restarigita?
 restore-from-backup-no-backup-file-link = Ĉu vi ne sukcesas retrovi vian sekurkopion?
 restore-from-backup-filepicker-label = Sekurkopia dosiero
+restore-from-backup-filepicker-title = Elekti sekurkopian dosieron:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Elekti…
+       *[other] Esplori…
+    }
+restore-from-backup-password-label = Pasvorto
+restore-from-backup-password-description = Tio ĉi malblokas vian ĉifritan sekurkopion.
+restore-from-backup-cancel-button = Nuligi
+restore-from-backup-confirm-button = Restarigi kaj restarti
+restore-from-backup-restoring-button = Restarigo…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Malĝusta pasvorto. <a data-l10n-name="incorrect-password-support-link">Ĉu vi ankoraŭ havas problemojn?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Tiu ĉi dosiero ne funkcias
+    .message = Okazis problemo kun via sekurkopia dosiero. Elektu alian dosieron kaj provu denove.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Tiu ĉi dosiero ne funkcias
+    .message = La dosiero elektita de vi ne kongruas kun tiu ĉi version de { -brand-short-name }. Elektu alian dosieron kaj provu denove.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Tiu ĉi dosiero ne funkcias
+    .message = La dosiero elektita de vi ne estis kreita de { -brand-short-name }. Elektu alian dosieron kaj provu denove.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } ne povas restarigi datumojn
+    .message = Restartigu { -brand-short-name } kaj provu restarigi vian sekurkopion denove.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
@@ -116,4 +159,30 @@ backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DAT
 backup-file-how-to-restore-header = Kiel restarigi:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
-backup-file-moz-browser-restore-step-1 = Malfermu la menuon de programo ☰ kaj iru al Agordoj -> Spegulado
+backup-file-moz-browser-restore-step-1 = Malfermu la menuon de programo ☰ kaj iru al Agordoj > Spegulado
+backup-file-moz-browser-restore-step-2 = Alklaku sur “Elekti sekurkopian dosieron” kaj elektu tiun ĉi dosieron
+backup-file-moz-browser-restore-step-3 = Restartigu { -brand-short-name } kiam oni tion petos
+backup-file-other-browser-restore-step-1 = Elŝutu kaj instalu { -brand-short-name }
+backup-file-download-moz-browser-button = Elŝuti
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Komendu { -brand-short-name }, malfermu la menuon de programo ☰ kaj iru al Agordoj > Spegulado
+backup-file-other-browser-restore-step-3 = Alklaku sur “Elekti sekurkopian dosieron” kaj elektu tiun ĉi dosieron
+backup-file-other-browser-restore-step-4 = Restartigu { -brand-short-name } kiam oni tion petos
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Rimarko:</b> { $numberOfOtherBackupsFound } alia sekurkopio trovita
+       *[other] <b>Rimarko:</b> { $numberOfOtherBackupsFound } aliaj sekurkopioj trovitaj
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Kreita je { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } en { $machineName }
+backup-file-restore-file-validation-error = Tiu ĉi dosiero ne funkcias. Provu elekti alian. <a data-l10n-name="restore-problems">Ĉu vi ankoraŭ havas problemojn?</a>

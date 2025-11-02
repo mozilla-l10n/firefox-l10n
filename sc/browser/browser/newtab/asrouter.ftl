@@ -380,6 +380,8 @@ windows-10-eos-sync-toast-secondary-label = Regorda·mi·ddu prus tardu
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } no est installadu in manera predefinida comente is àteros navigadores de is gigantes de sa tecnologia. Pro una resone.
+windows-10-eos-challenger-sync-callout-subtitle = Cando faghes una còpia de seguresa de is sinnalibros e is craes de { -brand-product-name }, est prus fàtzile a tramudare su navigadore chi preferis a su dispositivu imbeniente tuo.
+windows-10-eos-challenger-pin-callout-subtitle = Apica { -brand-shorter-name } a sa barra de tareas in manera chi su navigadore chi preferis siat semper in ue ti serbit.
 windows-10-eos-challenger-sync-primary-button = Faghe una còpia de seguresa de { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Apica { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blocat is cripto-minadores, is sighiduras de retes sotziales e is generadores de imprentas digitales.
