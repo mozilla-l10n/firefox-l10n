@@ -139,6 +139,39 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = З гэтым файлам нешта не так
     .message = Файл, які вы выбралі, не быў створаны { -brand-short-name }. Выберыце іншы файл і паспрабуйце зноў.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } не ўдалося аднавіць
+    .message = Перазапусціце { -brand-short-name } і паспрабуйце зноў аднавіцца з рэзервовай копіі.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Гм, узнікла праблема з рэзервовым капіяваннем.
+    .message = Паспрабуйце зноў праз некалькі хвілін.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Нешта пайшло не так
+    .message = Узнікла праблема з працэсам стварэння рэзервовай копіі { -brand-short-name }. Калі ласка, паспрабуйце зноў або перазапусціце { -brand-short-name }.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Зрабіць рэзервовую копію канфідэнцыяльных дадзеных
+enable-backup-encryption-support-link = Падрабязней
+enable-backup-encryption-create-password-label = Пароль
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Паўтарыце пароль
+enable-backup-encryption-cancel-button = Скасаваць
+enable-backup-encryption-confirm-button = Захаваць
+change-backup-encryption-header = Змяніць пароль рэзервовага капіявання
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Патрабаванні да пароля
+password-rules-length-description = Мінімум 8 знакаў
+password-rules-email-description = Не ваш адрас электроннай пошты
+password-rules-disclaimer = Заставайцеся ў бяспецы — не выкарыстоўвайце паролі паўторна. Даведайцеся больш пра <a data-l10n-name="password-support-link">стварэнне надзейных пароляў</a>.
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
