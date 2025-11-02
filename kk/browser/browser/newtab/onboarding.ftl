@@ -470,6 +470,34 @@ sync-to-mobile-button-label = Мобильді құрылғымен синхро
 desktop-to-mobile-qr-code-alt =
     .aria-label = Мобильді { -brand-product-name } жүктеп алу үшін QR коды
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = Ұсынылатын
+create-backup-select-tile-button-label = Таңдау
+create-backup-back-button-label = Артқа
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Шифрленбеген
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Барлық деректер
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Парольдер мен төлемдерді қамтиды
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Парольмен шифрленген
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Сақтық көшірменің қайда сақталғанын қалайсыз?
+fx-backup-opt-in-create-password-label = Парольді енгізіңіз
+fx-backup-opt-in-confirm-btn-label = Жалғастыру
+fx-backup-opt-in-cancel-btn-label = Артқа
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-close-button = Жабу
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Барлық шолу деректері қамтылған
+fx-backup-confirmation-screen-all-data-item-text-2 = Сіздің құрылғыңызға сақталды
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Сақтық көшірмеден қалпына келтіру
@@ -482,3 +510,13 @@ restored-from-backup-success-with-checklist-primary-button = Сақтау жән
 restored-from-backup-success-with-checklist-secondary-button = Бұл қадамды аттап кету
 restored-from-backup-success-no-checklist-primary-button = Жалғастыру
 restored-from-backup-error-primary-button = Жабу
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = Жеке
+onboarding-personalization-use-case-school-option = Мектеп
+onboarding-personalization-use-case-work-option = Жұмыс
+onboarding-personalization-motivation-privacy-option = Жекелік және қауіпсіздік
+onboarding-personalization-motivation-productivity-option = Өнімділік
+onboarding-personalization-motivation-other-option = Басқа

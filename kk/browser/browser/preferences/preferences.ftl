@@ -621,12 +621,21 @@ choose-bookmark =
     .label = Бетбелгіні қолдану…
     .accesskey = Б
 
+## Custom Homepage subpage
+
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Бетбелгілер…
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } мазмұны
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = { -firefox-home-brand-name } үй парағында қандай құраманы көргіңіз келетінді таңдаңыз.
 home-prefs-search-header =
     .label = Интернеттен іздеу
+home-prefs-search-header2 =
+    .label = Іздеу
 home-prefs-shortcuts-header =
     .label = Жарлықтар
 home-prefs-shortcuts-description = Сіз сақтайтын немесе шолатын сайттар

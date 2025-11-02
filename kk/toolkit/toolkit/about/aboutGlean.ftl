@@ -122,6 +122,12 @@ about-glean-metrics-table-header-type = Түрі
 about-glean-metrics-table-header-value = Мәні
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Әрекеттер
+about-glean-metrics-table-settings-button = Баптаулар
+about-glean-metrics-table-settings-category-general = Жалпы
+about-glean-metrics-table-settings-hide-empty-value-rows = Бос мән жолдарын жасыру
+about-glean-metrics-table-settings-category-visualizations = Визуализациялар
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Мысалы
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Сүзгі
 about-glean-button-load-all = Барлық мәндерді жүктеу

@@ -103,6 +103,8 @@ change-backup-encryption-header = Иваз кардани ниҳонвожаи �
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
 password-rules-header = Талаботи ниҳонвожа
+password-rules-length-description = На кам аз 8 аломат
+password-rules-email-description = Ба ғайр аз нишонии почтаи электронии шумо
 password-validity-do-not-match = Ниҳонвожаҳо мувофиқат намекунанд
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.

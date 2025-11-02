@@ -30,7 +30,7 @@ settings-data-backup-in-progress-message =
 settings-data-backup-scheduled-backups-on = Kopia zapasowa: włączona
 settings-data-backup-scheduled-backups-off = Kopia zapasowa: wyłączona
 settings-data-backup-scheduled-backups-description = Automatycznie chroń zakładki, historię i pozostałe dane. <a data-l10n-name="support-link">Więcej informacji</a>
-settings-data-backup-last-backup-date = Ostatnia kopia zapasowa: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-last-backup-date = Ostatnia kopia zapasowa: { DATETIME($date, dateStyle: "short") } o { DATETIME($date, timeStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Położenie
 settings-data-backup-last-backup-location-show-in-folder = Pokaż w folderze

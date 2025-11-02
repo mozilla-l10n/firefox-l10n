@@ -482,6 +482,7 @@ desktop-to-mobile-qr-code-alt =
 
 create-backup-screen-1-flair = Тавсияшуда
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Маълумоти бештар</a>
+create-backup-screen-1-sync-label = Бо «{ -brand-product-name }» ҳамоҳанг кунед
 create-backup-select-tile-button-label = Интихоб кардан
 create-backup-back-button-label = Ба қафо
 # Label for the "Easy setup" backup option
@@ -498,6 +499,11 @@ fx-backup-opt-in-cancel-btn-label = Ба қафо
 ## Fx Backup confirmation screen strings
 
 fx-backup-confirmation-screen-close-button = Пӯшидан
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-2 = Ба дастгоҳи шумо нигоҳ дошта шуд
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Ба дастгоҳи шумо нигоҳ дошта шуд
 
 ## Restore from Backup Flow about:welcome screens
 
