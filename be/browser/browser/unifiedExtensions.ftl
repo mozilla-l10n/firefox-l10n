@@ -13,6 +13,13 @@ unified-extensions-manage-extensions =
     .label = Кіраваць пашырэннямі
 unified-extensions-discover-extensions =
     .label = Адкрыйце для сябе пашырэнні
+unified-extensions-empty-reason-private-browsing-not-allowed = У вас усталяваныя пашырэнні, але яны не ўключаны ў прыватным рэжыме
+unified-extensions-empty-reason-extension-not-enabled = У вас усталяваныя пашырэнні, але яны не ўключаны
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Палепшыце сваё агляданне з дапамогай пашырэнняў
+unified-extensions-empty-content-explain-enable2 = Выберыце «{ unified-extensions-manage-extensions.label }», каб уключыць іх у наладах.
+unified-extensions-empty-content-explain-manage2 = Выберыце «{ unified-extensions-manage-extensions.label }», каб кіраваць імі ў наладах.
+unified-extensions-empty-content-explain-extensions-onboarding = Персаналізуйце { -brand-short-name }, змяніўшы яго выгляд і прадукцыйнасць або павысіўшы прыватнасць і бяспеку.
 
 ## An extension in the main list
 
@@ -87,3 +94,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[many] { $extensionsCount } пашырэнняў адключана
         }
     .message = Некаторыя з вашых пашырэнняў былі адключаны за парушэнне палітык Mozilla.
+unified-extensions-notice-safe-mode =
+    .message = Усе пашырэнні былі адключаны ў рэжыме вырашэння праблем.

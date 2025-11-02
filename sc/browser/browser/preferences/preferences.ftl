@@ -1076,6 +1076,28 @@ autofill-saved-payment-methods-button = Mètodos de pagamentu sarvados
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Rechede s’identificatzione in su dispositivu pro compilare in automàticu e gestire is mètodos de pagamentu
     .accesskey = R
+autofill-payment-methods-title = Mètodos de pagamentu
+autofill-payment-methods-header =
+    .aria-label = Mètodos de pagamentu
+autofill-payment-methods-checkbox-message-2 =
+    .label = Sarva e cumpleta in automàticu is informatziones de pagamentu
+    .accesskey = S
+autofill-payment-methods-manage-payments-button =
+    .label = Gesti is mètodos de pagamentu
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Rechede s’identificatzione in su dispositivu pro compilare in automàticu e gestire is mètodos de pagamentu
+    .accesskey = R
+autofill-addresses-title = Indiritzos e àteru
+autofill-addresses-header =
+    .aria-label = Indiritzos e àteru
+autofill-addresses-checkbox-message =
+    .label = Sarva e cumpleta in automàticu is indiritzos
+    .accesskey = a
+autofill-addresses-manage-addresses-button =
+    .label = Gesti is indiritzos e àteru
+    .accesskey = s
 
 ## Privacy Section - History
 
@@ -1125,7 +1147,11 @@ sitedata-total-size-calculating = Carculende sa mannària de is datos de is sito
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Is testimòngios, is datos de is sitos e sa memòria temporànea sunt impreende immoe { $value } { $unit } de s'ispàtziu in discu.
+sitedata-total-size2 = Is testimòngios, sa cronologia, is datos de sitos e sa memòria temporànea sunt impreende immoe <strong>{ $value } { $unit }</strong> de ispàtziu in su discu.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Is testimòngios, is datos de is sitos e sa memòria temporànea sunt impreende immoe { $value } { $unit } de ispàtziu in su discu.
 sitedata-learn-more = Leghe àteru
 sitedata-delete-on-close =
     .label = Cantzella is testimòngios e is datos de is sitos comente serras { -brand-short-name }
@@ -1156,6 +1182,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Totu is testimòngios intre-sitos (diat pòdere causare chi unos cantos sitos non funtzionent)
 sitedata-option-block-all =
     .label = Totu is testimòngios (unos cantos sitos no ant a funtzionare)
+sitedata-clear2 =
+    .label = Cantzella is datos de navigatzione
+    .accesskey = z
+sitedata-settings2 =
+    .label = Gesti is datos de navigatzione
+    .accesskey = G
 sitedata-clear =
     .label = Isbòida is datos…
     .accesskey = I
@@ -1163,8 +1195,12 @@ sitedata-settings =
     .label = Gesti is datos…
     .accesskey = G
 sitedata-cookies-exceptions =
-    .label = Gesti etzetziones…
+    .label = Gesti is etzetziones…
     .accesskey = z
+sitedata-cookies-exceptions2 =
+    .label = Gesti is etzetziones
+    .accesskey = e
+    .description = Podes ispetzificare cales sitos tenent permissu o nono pro impreare testimòngios e datos de is sitos.
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1342,7 +1378,7 @@ content-blocking-suspected-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Gesti etzetziones…
+    .label = Gesti is etzetziones…
     .accesskey = z
 
 ## Privacy Section - Permissions
@@ -1506,6 +1542,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>Est acabbende s'ispàtziu in su discu pro { -brand-short-name }.</strong> Podet èssere chi is cuntenutos de is sitos no s'ammustrent in manera curreta. Podes isboidare is datos de is sitos sarvados in Cunfiguratziones > Riservadesa e Seguresa > Testimòngios e datos de is sitos.
 space-alert-under-5gb-message2 = <strong>Est acabbende s'ispàtziu in su discu pro { -brand-short-name }.</strong> Podet èssere chi is cuntenutos de is sitos no s'ammustrent in manera curreta. Bae a “Àteras informatziones” pro megiorare s'impreu de s'ispàtziu de su discu e duncas s'esperièntzia de navigatzione.
+certs-description2 =
+    .label = Tzertificados
+    .description = Cunfigura is tzertificados impreados dae { -brand-short-name } pro s’autenticatzione.
 
 ## Privacy Section - HTTPS-Only
 

@@ -23,6 +23,14 @@ permission-dialog-description-system-noapp = Ĉu malfermi la ligilon { $scheme }
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = Ĉu permesi al tiu ĉi retejo malfermi vian ciferecan monujon?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Malfermo de ligilo <strong>{ $scheme }</strong> permesas al <strong>{ $host }</strong> peti vian realan identon per <strong>{ $appName }</strong>. Daŭrigu nur se vi fidas tiun ĉi retejon.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Malfermo de ligilo <strong>{ $scheme }</strong> permesas al tiu ĉi retejo peti vian realan identon per <strong>{ $appName }</strong>. Daŭrigu nur se vi fidas tiun ĉi retejon.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Malfermo de ligilo <strong>{ $scheme }</strong> permesas al <strong>{ $host }</strong> peti vian realan identon el via cifereca monujo. Daŭrigu nur se vi fidas tiun ĉi retejon.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Malfermo de ligilo <strong>{ $scheme }</strong> permesas al tiu ĉi retejo peti vian realan identon el via cifereca monujo. Daŭrigu nur se vi fidas tiun ĉi retejon.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
