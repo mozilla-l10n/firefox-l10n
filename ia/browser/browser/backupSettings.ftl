@@ -18,12 +18,12 @@ backup-folder-name = Restaurar { -brand-product-name }
 # profile name and backup date are appended to it:
 #
 # FirefoxBackup_default_20240606-1830.html
-backup-file-name = Copia de securitate de { -brand-product-name }
+backup-file-name = Salveguarda de { -brand-product-name }
 settings-data-backup-header = Copia de securitate
 settings-data-backup-toggle = Gerer copia de securitate
 settings-data-backup-toggle-on = Activar copia de securitate
 settings-data-backup-toggle-off = Disactivar copia de securitate
-settings-data-backup-trigger-button = Facer copia de securitate ora
+settings-data-backup-trigger-button = Salveguardar ora
 settings-data-backup-in-progress-button = Copia de securitate in progresso…
 settings-data-backup-in-progress-message =
     .message = Copia de securitate in progresso…
@@ -33,9 +33,9 @@ settings-data-backup-scheduled-backups-description = Automaticamente protege tu 
 settings-data-backup-last-backup-date = Ultime copia de securitate: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Position
-settings-data-backup-last-backup-location-show-in-folder = Monstrar in dossier
+settings-data-backup-last-backup-location-show-in-folder = Monstrar in plica
 settings-data-backup-last-backup-location-edit = Modificar…
-settings-data-create-backup-error = Un error ha occurrite durante le creation de tu copia de securitate le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-create-backup-error = Il habeva un error creante tu salveguarda le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Face un copia de securitate de tu contrasignos e tu methodos de pagamento, e mantene tote tu datos secur con cryptation.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.

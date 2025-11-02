@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Эл. пошта маскаларын �
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Желідегі әрекетіңізді қорғаңыз
 appmenu-services-header = Менің қызметтерім
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Mozilla ұсынған басқа қорғау құралдарын пайдаланып көріңіз:
 appmenu-other-protection-header = { -vendor-short-name } ұсынған басқа қорғау құралдарын қолданып көріңіз:
 
 ## Profiles panel
