@@ -479,7 +479,32 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Абнаўляецеся да Windows 11?
+    Давайце зробім рэзервовую копію вашых дадзеных { -brand-product-name }.
+create-backup-screen-1-subtitle = Аўтаматычна абараніце свае паролі, закладкі і іншае за 1-2 хвіліны.
+create-backup-screen-1-flair = Рэкамендаваныя
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Даведацца больш</a>
+create-backup-screen-1-sync-label = Сінхранізаваць з { -brand-product-name }
+create-backup-screen-1-sync-body = Стварае рэзервовыя копіі з усіх прылад, дзе зроблены ўваход
+create-backup-screen-1-backup-label = Рэзервовая копія на ПК
+create-backup-screen-1-backup-body = Захоўвае на вашай прыладзе або ў OneDrive
+create-backup-select-tile-button-label = Выбраць
 create-backup-back-button-label = Назад
+create-backup-show-fewer =
+    .label = Паказваць менш падобных
+create-backup-screen-2-title = Выберыце дадзеныя { -brand-product-name } для рэзервовага капіявання
+create-backup-screen-2-subtitle = Гэта зойме ўсяго хвіліну. Рэзервовыя копіі вашых дадзеных ствараюцца адзін раз у дзень.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Простая ўстаноўка
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Закладкі, гісторыя, налады і іншае
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Не ўключае паролі і плацяжы
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Не зашыфравана
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Усе дадзеныя
 fx-backup-opt-in-header = Выбраць месцазнаходжанне файла
 fx-backup-opt-in-create-password-label = Увядзіце пароль
 fx-backup-opt-in-confirm-btn-label = Працягнуць

@@ -33,6 +33,13 @@ pending-crash-reports-always-send =
     .label = Lähetä aina
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] Sinulla on lähettämätön kaatumisraportti, joka vastaa tutkittavia kaatumisia. Raportin lähettäminen auttaa meitä parantamaan { -brand-product-name }ia. Tämän ilmoituksen sulkeminen ohittaa raportin.
+       *[other] Sinulla on { $reportCount } lähettämätöntä kaatumisraporttia, jotka vastaavat tutkittavia kaatumisia. Raporttien lähettäminen auttaa meitä parantamaan { -brand-product-name }ia. Tämän ilmoituksen sulkeminen ohittaa nämä raportit.
+    }
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
         [one] Sinulla on lähettämätön kaatumisraportti, joka vastaa tutkittavia kaatumisia. Raportin lähettäminen auttaa meitä parantamaan { -brand-product-name }ia. Tämän ilmoituksen sulkeminen ohittaa raportin.

@@ -259,6 +259,12 @@ tab-context-unnamed-group =
     .label = ਬੇਨਾਮਾ ਗਰੁੱਪ
 tab-group-name-default = ਬੇਨਾਮਾ ਗਰੁੱਪ
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = ਟੈਬ ਸੂਚੀ ਨੂੰ ਖੋਲ੍ਹੋ
+tab-group-preview-closed-description = ਟੈਬ ਸੂਚੀ ਬੰਦ ਹੈ
+
 ##
 
 tab-context-move-tab-to-new-group =

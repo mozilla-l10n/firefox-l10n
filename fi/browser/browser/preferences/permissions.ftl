@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Voit poistaa Vain HTTPS -tilan käytöstä haluamiesi sivustojen kohdalla. { -brand-short-name } ei näin ollen yritä päivittää yhteyttä suojattuun HTTPS-tilaan kyseisten sivustojen kohdalla. Poikkeukset eivät päde yksityisiin ikkunoihin.
 permissions-exceptions-https-only-desc2 = Voit poistaa Vain HTTPS -tilan käytöstä haluamiesi sivustojen kohdalla. { -brand-short-name } ei näin ollen yritä päivittää yhteyttä suojattuun HTTPS-tilaan kyseisten sivustojen kohdalla.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Sallitut verkkosivustot - Ponnahdusikkunat ja kolmannen osapuolen uudelleenohjaukset
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Voit määrittää, mitkä verkkosivustot saavat avata ponnahdusikkunoita ja mitkä kolmannen osapuolen kehykset voivat ohjata uudelleen.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

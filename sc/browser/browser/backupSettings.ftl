@@ -180,11 +180,40 @@ password-rules-a11y-success =
 password-rules-a11y-warning =
     .alt = Avisu
 
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Boga s’amparu cun crae
+disable-backup-encryption-description2 = Is craes e is mètodos de pagamentu no ant a èssere prus sarvados.
+disable-backup-encryption-support-link = Cale datos ant a èssere sarvados?
+disable-backup-encryption-cancel-button = Annulla
+disable-backup-encryption-confirm-button = Canzella sa crae
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Ddoe est istadu unu problema. Torra a proare.
+
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } est prontu pro èssere recuperadu
+backup-file-title = Recùpera { -brand-short-name }
+backup-file-path-label = Archìviu de còpia de seguresa:
+backup-file-encryption-state-label = Tzifradu:
+backup-file-encryption-state-value-encrypted = Eja
+backup-file-encryption-state-value-not-encrypted = Nono
+backup-file-creation-device-label = Dispositivu:
+backup-file-creation-date-label = Data de creatzione:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Comente fàghere su recùperu:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Aberi su menù de s’aplicatzione ☰ e bae a Cunfiguratziones > Sincroniza

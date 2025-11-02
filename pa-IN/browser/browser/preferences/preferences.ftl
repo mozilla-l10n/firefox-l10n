@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = ਵਾਧਰੇ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ <img data-l10n-name="menu-icon"/> ਮੇਨੂ ਵਿੱਚ <img data-l10n-name="addons-icon"/> ਐਡ-ਆਨ ਉੱਤੇ ਜਾਓ।
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਦੀਆਂ ਕੁਝ ਸੈਟਿੰਗਾਂ ਨੂੁੰ ਕੰਟਰੋਲ ਕਰਦੀ ਹੈ।
 
 ## Preferences UI Search Results
 
@@ -1126,6 +1129,10 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = ਭੁਗਤਾਨ ਢੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = ਆਪਣੇ-ਆਪ ਭਰਨ ਅਤੇ ਭੁਗਤਾਨ ਢੰਗਾਂ ਦੇ ਇੰਤਜ਼ਾਮ ਵਾਸਤੇ ਡਿਾਈਸ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਲੋੜ ਹੈ
+    .accesskey = o
 autofill-addresses-title = ਸਿਰਨਾਵਾਂ ਅਤੇ ਹੋਰ
 autofill-addresses-header =
     .aria-label = ਸਿਰਨਾਵਾਂ ਅਤੇ ਹੋਰ
@@ -1183,6 +1190,10 @@ sitedata-header = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = ਸਾਈਟ ਡਾਟੇ ਅਤੇ ਕੈਸ਼ ਆਕਾਰ ਦੀ ਗਿਣਤੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = ਤੁਹਾਡੇ ਵਲੋਂ ਸੰਭਾਲੇ ਗਏ ਕੂਕੀਜ਼, ਅਤੀਤ, ਸਾਈਟ ਦੇ ਡਾਟੇ ਅਤੇ ਕੈਸ਼ ਇਸ ਵੇਲੇ <strong>{ $value } { $unit }</strong> ਡਿਸਕ ਥਾਂ ਨੂੰ ਵਰਤ ਰਹੇ ਹਨ।
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1257,8 +1268,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = ਸਿਰਨਾਵਾਂ ਪੱਟੀ
+addressbar-suggest-1 = ਤੁਹਾਡੀ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਦਿਖਾਏ ਜਾਣੇ ਵਾਲੇ ਸੁਝਾਆਵਾਂ ਦੀ ਚੋਣ ਕਰੋ
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = ਤੁਹਾਡੇ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ { -brand-short-name } ਅਤੇ ਸਾਡੇ ਹਿੱਸੇਦਾਰਾਂ ਵਲੋਂ ਸੁਝਾਅ ਹਨ।
 addressbar-suggest = ਜਦੋਂ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਰਤੀ ਜਾਂਦੀ ਹੋਵੇ ਤਾਂ ਸੁਝਾਓ
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = ਸਿਰਨਾਵਾਂ ਪੱਟੀ — { -firefox-suggest-brand-name }

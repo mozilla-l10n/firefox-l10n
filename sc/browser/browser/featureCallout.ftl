@@ -127,8 +127,15 @@ windows-10-eos-sync-general-title-2 = Est unu momentu bonu pro fàghere una còp
 windows-10-eos-sync-tour-title-1 = Tropu ischedas? Organiza·ti cun is grupos de ischedas.
 windows-10-eos-sync-tour-title-2 = Prepara·ti pro Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Sincroniza is sinnalibros, is craes e is cunfiguratziones comente còpia de seguresa in antis de fàghere su càmbiu.
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Ammustra prus pagu cussìgios
 windows-10-eos-sync-dismiss-button-label = Iscarta
 windows-10-eos-sync-callout-primary-advance-button-label = Imbeniente
+
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Nou: incarca e mantene pro previsualizare is ligòngios
+link-preview-onboarding-callout-description = Bide una descritzione breve, su tempus de letura e àteru pro detzìdere si nde balet sa pena de incarcare in unu ligàmene. A disponimentu puru cun su butone deretu.
 
 ## Sidebar Strings
 
@@ -157,6 +164,7 @@ pin-tabs-callout-1-title = Tene is ischedas de importu a portada
 pin-tabs-callout-cta-1-button = Apica custa ischeda
 pin-tabs-callout-2-title = Apica is ischedas chi bìsitas de prus
 pin-tabs-callout-cta-2-button = Apica custa ischeda
+pin-tabs-callout-3-title = Tene is sitos de importu a portada
 pin-tabs-callout-4-title = Apica is sitos chi bìsitas de prus
 
 ## Sidebar Onboarding Strings

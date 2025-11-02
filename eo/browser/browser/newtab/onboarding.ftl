@@ -513,6 +513,29 @@ create-backup-screen-2-all-list-3 = Ĉifrita de pasvorto
 create-backup-screen-3-location = Kie vi volas konservi la sekurkopion?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Krei pasvorton por ĉifri sekurkopion
+create-backup-screen-3-subtitle = Tio ĉi estas postulata por ĉifri viajn datumojn. Gardu ĝin en loko, kiun vi memoros.
+fx-backup-opt-in-header = Elekti lokon por la dosiero
+fx-backup-opt-in-filepath-label = Elektu lokon, kiun vi planas porti al alia aparato, ekzemple OneDrive.
+fx-backup-opt-in-create-password-label = Tajpu pasvorton
+fx-backup-opt-in-confirm-btn-label = Daŭrigi
+fx-backup-opt-in-cancel-btn-label = Reen
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Via sekurkopio estas programita
+fx-backup-confirmation-screen-close-button = Fermi
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Ĉiuj retumaj datumoj inkluzivitaj
+fx-backup-confirmation-screen-all-data-item-text-2 = Konservi en via aparato
+fx-backup-confirmation-screen-all-data-item-text-3 = Ĉifrita kaj protektita de pasvorto
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Legosignoj, historio, agordoj kaj aliaj datumoj inkluzivitaj
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Konservi en via aparato
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Pasvortoj kaj pagmetodoj ne inkluzivitaj
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Iru al <a data-l10n-name="settings">Agordoj</a> por inkluzivi delikatajn datumojn.
+fx-backup-confirmation-screen-item-subtext-1 = Via sekurkopio komenciĝos post kelkaj minutoj kaj estos rulita fojon ĉiutage. Vi povas sekvi la progreson en <a data-l10n-name="settings">Agordoj</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } serĉos vian sekurkopion se vi bezonas reinstali ĝin.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -532,3 +555,17 @@ restored-from-backup-success-no-checklist-primary-button = Daŭrigi
 restored-from-backup-error-title = Hmm, estis problemo kun via sekurkopia dosiero.
 restored-from-backup-error-subtitle = Se vi havas alian sekurkopian dosieron de { -brand-short-name }, klopodu reakiri el tiu. <a data-l10n-name="restore-problems">Ĉu plu estas problemoj?</a>
 restored-from-backup-error-primary-button = Fermi
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Personecigu vian sperton en { -brand-short-name }
+onboarding-personalization-subtitle = Respondu kelkajn demandojn kaj ni rekomendos trajtojn kaj etendaĵojn por plibonigi vian uzon de { -brand-short-name }.
+onboarding-personalization-use-case-title = Por kio vi uzos { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Persona
+onboarding-personalization-use-case-school-option = Lernejo
+onboarding-personalization-use-case-work-option = Laboro
+onboarding-personalization-motivation-title = Kiuj trajtoj de { -brand-short-name } estas plej gravaj por vi?
+onboarding-personalization-motivation-privacy-option = Privateco kaj sekureco
+onboarding-personalization-motivation-productivity-option = Produktemo
+onboarding-personalization-motivation-other-option = Aliaj

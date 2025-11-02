@@ -545,6 +545,7 @@ restore-from-backup-secondary-button = ਬਹਾਲ ਨਾ ਕਰੋ
 
 restored-from-backup-success-title = ਅਸੀਂ ਆ ਗਏ ਹਾਂ! ਤੁਹਾਡੇ { -brand-short-name } ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ।
 restored-from-backup-success-with-checklist-subtitle = ਆਪਣੇ ਮਨਪਸੰਦ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਆਪਣੇ ਹੱਥ ਹੇਠ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+restored-from-backup-success-no-checklist-subtitle = ਤੁਸੀਂ <a data-l10n-name="settings">ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਇਸ ਡਿਵਾਈਸ ਲਈ ਬੈਕਅੱਪ ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।
 restored-from-backup-success-with-checklist-primary-button = ਸੰਭਾਲੋ ਅਤੇ ਜਾਰੀ ਰੱਖੋ
 restored-from-backup-success-with-checklist-secondary-button = ਇਹ ਪੜਾਅ ਛੱਡੋ
 restored-from-backup-success-no-checklist-primary-button = ਜਾਰੀ ਰੱਖੋ

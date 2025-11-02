@@ -65,3 +65,23 @@ about-logging-upload-error = Profiilin lähettämisessä tapahtui virhe: { $erro
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Tiedostoa tallennettaessa tapahtui virhe: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profiili { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Lähetetyt profiilit
+about-logging-no-uploaded-profiles = Yhtäkään profiilia ei ole vielä lähetetty.
+about-logging-delete-uploaded-profile = Poista
+about-logging-view-uploaded-profile = Näytä profiili
+about-logging-delete-profile-confirm-title = Poista profiili
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Haluatko varmasti poistaa profiilin “{ $profileName }”? Tätä ei voi perua.
+about-logging-deleting-profile = Poistetaan…

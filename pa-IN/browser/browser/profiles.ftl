@@ -63,6 +63,7 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = { $profilename } ਦੀ ਤੁਹਾਡੀ ਕਾਪੀ ਕਸਟਮਾਈਜ਼ ਕਰਨ ਲਈ ਤਿਆਰ ਹੈ
+copied-profile-page-header-description = ਅਸੀਂ ਤੁਹਾਡੇ ਡਾਟੇ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਨਵੇਂ ਪਰੋਫ਼ਾਈਲ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ ਹੈ। ਹੁਣ ਇਸ ਨੂੰ ਨਾਂ ਦਿਓ, ਦਿੱਖ ਚੁਣੋ ਅਤੇ ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ।
 profile-window-title-2 = { -brand-short-name } - ਇੱਕ ਪਰੋਫ਼ਾਈਲ ਚੁਣੋ
 profile-window-logo =
     .alt = { -brand-short-name } ਲੋਗੋ
@@ -151,6 +152,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਬਦਲੀਆਂ।</strong> ਹੋਰ ਪਰੋਫ਼ਾਈਲ ਵਿੱਚ ਕੀਤੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਇਸ ਡਿਵਾਈਸ ਦੇ ਸਾਰੇ ਪਰੋਫ਼ਾਈਲਾਂ ਵਿੱਚ ਲਾਗੂ ਕੀਤਾ ਜਾਵੇਗਾ।
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = ਸੈਟਿੰਗਾਂ ਨੂੁੰ ਵੇਖੋ
 # Secondary button label to dismiss the infobar without action

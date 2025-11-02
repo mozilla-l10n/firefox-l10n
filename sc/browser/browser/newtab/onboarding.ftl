@@ -341,6 +341,7 @@ onboarding-device-migration-primary-button-label = Identìfica·ti
 ## Add-ons Picker screen
 
 amo-picker-title = Personaliza su { -brand-short-name } tuo
+amo-picker-subtitle = Is estensiones sunt comente aplicatziones pro su navigadore: ti permitint de amparare craes, iscarrigare vìdeos, agatare ofertas, blocare publitzidade infadosa, modificare s’aspetu de su navigadore e meda àteru.
 amo-picker-install-button-label = Agiunghe a { -brand-short-name }
 amo-picker-install-complete-label = Installadu
 amo-picker-collection-link = Iscoberi àteros cumplementos
@@ -358,6 +359,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } est acan
 onboarding-gratitude-security-and-privacy-subtitle = Gràtzias de impreare { -brand-short-name }, isvilupadu dae Mozilla Foundation. Cun su suportu tuo, traballamus pro fàghere Internet prus seguru e prus atzessìbile a totus.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincroniza is datos intre dispositivos
+onboarding-sign-up-description = Registra·ti cun unu contu e totu is informatziones tuas de importu (craes, sinnalibros e àteru) ant a èssere sarvadas in seguresa e a disponimentu cando atzedas dae cale si siat dispositivu.
 onboarding-sign-up-button = Registra·ti o identìfica·ti
 onboarding-sign-up-secondary-button = Cumintza a navigare
 
