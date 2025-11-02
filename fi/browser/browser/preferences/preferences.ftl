@@ -652,6 +652,9 @@ home-custom-homepage-no-websites-yet = Ei vielä lisättyjä verkkosivustoja.
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Korvaa käyttäen
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = nyt avoinna olevia sivuja
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Kirjanmerkit…
 
@@ -662,6 +665,8 @@ home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Valitse mitä sisältöä haluat { -firefox-home-brand-name }lle.
 home-prefs-search-header =
     .label = Verkkohaku
+home-prefs-search-header2 =
+    .label = Haku
 home-prefs-shortcuts-header =
     .label = Oikotiet
 home-prefs-shortcuts-description = Tallentamasi tai vierailemasi sivustot
@@ -1266,6 +1271,8 @@ addressbar-header = Osoitepalkki
 addressbar-suggest-1 = Valitse osoiterivillä näkyvät ehdotukset
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Ehdotuksia { -brand-short-name }ilta ja yhteistyökumppaneiltamme osoitepalkissasi.
 addressbar-suggest = Ehdota osoitepalkissa sivuja
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Osoitepalkki — { -firefox-suggest-brand-name }
@@ -1293,6 +1300,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = ykkössivustoista
     .accesskey = y
+addressbar-locbar-engines-option-1 =
+    .label = Ehdota hakukoneita käytettäväksi
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = hakukoneista
     .accesskey = h
@@ -1313,6 +1323,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Hanki hakuusi liittyviä ehdotuksi
 addressbar-locbar-suggest-sponsored-option =
     .label = Ehdotuksia sponsoreilta
 addressbar-locbar-suggest-sponsored-desc = Tue { -brand-short-name }ia satunnaisilla sponsoroiduilla ehdotuksilla.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Vastaanota ehdotuksia Mozillasta kirjoittaessasi
 addressbar-quickactions-learn-more = Lue lisää
 addressbar-dismissed-suggestions-label = Hylätyt ehdotukset
 addressbar-restore-dismissed-suggestions-description = Palauta sponsorien ja { -brand-short-name }in hylätyt ehdotukset.

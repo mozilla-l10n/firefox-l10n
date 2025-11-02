@@ -88,3 +88,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } extensions disabled
         }
     .message = { $extensionsCount } laajennusta poistettu käytöstä
+unified-extensions-notice-safe-mode =
+    .message = Kaikki laajennukset on poistettu käytöstä vianmääritystilan toimesta.

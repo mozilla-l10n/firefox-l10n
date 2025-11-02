@@ -253,11 +253,19 @@ tab-group-editor-color-selector2-gray = Harmaa
 tab-group-editor-color-selector2-red = Punainen
     .title = Punainen
 tab-group-description = { $tabGroupName } — Välilehtiryhmä
-tab-group-label-tooltip-collapsed = { $tabGroupName } — Tiivistetty
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Supistettu
 tab-group-label-tooltip-expanded = { $tabGroupName } — Laajennettu
+tab-group-preview-name =
+    .aria-label = Välilehdet supistetussa ryhmässä
 tab-context-unnamed-group =
     .label = Nimetön ryhmä
 tab-group-name-default = Nimetön ryhmä
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Välilehtilista avoinna
+tab-group-preview-closed-description = Välilehtilista suljettu
 
 ##
 
