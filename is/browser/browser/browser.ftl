@@ -117,6 +117,15 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — huliðsvafur
        *[other] { -brand-full-name } huliðsvafur
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Huliðsvafur
+popups-infobar-dont-show-message2 =
+    .label = Ekki birta þessi skilaboð þegar lokað er á sprettglugga eða utanaðkomandi endurbeiningar
+    .accesskey = b
+edit-popup-settings2 =
+    .label = Sýsla með stillingar sprettglugga og utanaðkomandi endurbeiningar…
+    .accesskey = m
 
 ##
 
@@ -263,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Þú hefur lokað fyrir að deila skjáum á þessu vefsvæði.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Þú hefur lokað fyrir gagna geymslu á þessu vefsvæði.
+urlbar-popup-blocked2 =
+    .tooltiptext = Þú hefur lokað á sprettglugga og utanaðkomandi endurbeiningar fyrir þetta vefsvæði.
 urlbar-popup-blocked =
     .tooltiptext = Þú hefur lokað á sprettiglugga fyrir þetta vefsvæði.
 urlbar-autoplay-media-blocked =
@@ -810,6 +821,8 @@ urlbar-result-weather-provider-sponsored = { $provider }∙Kostað
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Fáðu upplýsingar um hlutabréfamarkaðinn beint í leitarstikuna þína
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Sýna markaðsfréttir og fleira frá samstarfsaðilum okkar þegar þú deilir leitarfyrirspurnargögnum með { -vendor-short-name }. <a data-l10n-name="learn-more-link">Frekari upplýsingar</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Sýna tillögur
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -1168,6 +1181,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Loka sprettigluggum frá { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Leyfa sprettglugga og utanaðkomandi endurbeiningar fyrir { $uriHost }
+    .accesskey = p
 
 ##
 
@@ -1332,6 +1348,7 @@ firefox-relay-offer-why-to-use-relay = Öruggar og einfaldar pósthulur okkar ve
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Allur tölvupóstur sem sendur er á tölvupósthulurnar þínar verða sendar til <strong>{ $useremail }</strong> (nema þú ákveðir að loka á viðkomandi).
 firefox-relay-offer-legal-notice = Með því að smella á „Nota tölvupósthulu“ samþykkir þú <label data-l10n-name="tos-url">þjónustuskilmála</label> og <label data-l10n-name="privacy-url">persónuverndarstefnu </label> okkar.
+firefox-relay-offer-legal-notice-1 = Með því að skrá þig og búa til tölvupósthulu samþykkir þú <label data-l10n-name="tos-url">þjónustuskilmála</label> og <label data-l10n-name="privacy-url">persónuverndarstefnu</label> okkar.
 
 ## Add-on Pop-up Notifications
 
@@ -1358,10 +1375,26 @@ popup-warning-message =
         [one] { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði { $popupCount } sprettiglugga.
        *[other] { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði { $popupCount } sprettiglugga.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } kom í veg fyrir að þetta vefsvæði endurbeindi.
+        [1] { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði sprettglugga og endurbeiningar.
+        [one] { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði sprettglugga og endurbeiningar.
+       *[other] { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði { $popupCount } sprettglugga og endurbeiningar.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði fleiri en { $popupCount } sprettiglugga.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði fleiri en { $popupCount } sprettiglugga og endurbeiningar.
+       *[other] { -brand-short-name } kom í veg fyrir að þetta vefsvæði opnaði fleiri en { $popupCount } sprettiglugga og endurbeiningar.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1377,6 +1410,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Sýna “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Sýna „{ $redirectURI }“
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1423,6 +1460,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } telur að fyrirtæ
 trustpanel-connection-label-secure = Tenging er örugg
 trustpanel-connection-label-insecure = Tenging er ekki örugg
 trustpanel-header-enabled = { -brand-product-name } er á verði
+trustpanel-description-enabled2 = Þú ert varin/n. Ef við komum auga á eitthvað látum við þig vita.
+trustpanel-header-enabled-insecure = Farðu varlega á þessum vef
+trustpanel-description-enabled-insecure = { -brand-product-name } tók eftir einhverju grunsamlegu.
 trustpanel-description-enabled = Þú ert varin/n. Ef við komum auga á eitthvað látum við þig vita
 trustpanel-header-disabled = Þú slökktir á vörnum
 trustpanel-description-disabled = { -brand-product-name } er ekki á vakt. Við mælum með að kveikja aftur á vörnum.
@@ -1445,6 +1485,13 @@ trustpanel-blocker-see-all = Sjá allt
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Rakningarvarnir fyrir { $host }
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Ekki öruggt
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
