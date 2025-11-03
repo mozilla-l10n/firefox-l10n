@@ -295,6 +295,16 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = و من ٱووردن دووسمندیا کامل وابی
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>و من ٱووڌه یل نۊی ٱوورده وابیڌه:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>و من ٱووڌه یل نۊی ٱوورده وابیڌه:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>و من ٱووڌه یل ورۊ رسۊوی وابیڌه:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>و من ٱووڌه یل ورۊ رسۊوی وابیڌه:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-items-added2 =
     { $count ->
        *[other] <span>رزما نۊ ٱوورده وابین:</span> <span data-l10n-name="count">{ $count }</span>
