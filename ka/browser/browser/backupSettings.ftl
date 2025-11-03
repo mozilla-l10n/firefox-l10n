@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = მდებარეობა
 settings-data-backup-last-backup-location-show-in-folder = ჩვენება საქაღალდეში
 settings-data-backup-last-backup-location-edit = ჩასწორება…
 settings-data-create-backup-error = შეცდომა წარმოიშვა მარქაფისას – { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = დაამარქაფეთ თქვენი პაროლები, გადახდის საშუალებები და, ამასთანავე, უსაფრთხოდ შეინახეთ ყველა მონაცემი დაშიფვრით.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = ფაილის სახელი: { $fileName }
@@ -118,7 +119,7 @@ restore-from-backup-restoring-button = მიმდინარეობს ა�
 # User is not authorized to restore a particular backup file, usually because
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
-backup-service-error-incorrect-password = უმართებულო პაროლი. <a data-l10n-name="incorrect-password-support-link">რამე დაბრკოლებებია?</a>
+backup-service-error-incorrect-password = პაროლი უმართებულოა. <a data-l10n-name="incorrect-password-support-link">კვლავ რამე დაბრკოლებაა?</a>
 # The backup file (or specific data files within the backup file) could not be
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself
@@ -184,6 +185,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = პაროლით დაცვის მოცილება
+disable-backup-encryption-description2 = თქვენ მიერ შენახული პაროლები და გადახდის საშუალებები აღარ დამარქაფდება.
 disable-backup-encryption-support-link = რა დამარქაფდება?
 disable-backup-encryption-cancel-button = გაუქმება
 disable-backup-encryption-confirm-button = პაროლის მოცილება
@@ -244,3 +246,4 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = შექმნის თარიღია { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, მოწყობილობა { $machineName }
+backup-file-restore-file-validation-error = ეს ფაილი გამოუსადეგარია. სცადეთ სხვა ფაილის არჩევა. <a data-l10n-name="restore-problems">კვლავ რამე დაბრკოლებაა?</a>
