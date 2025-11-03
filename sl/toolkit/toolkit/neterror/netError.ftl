@@ -167,3 +167,13 @@ certerror-coep-learn-more = Več o pravilnikih vdelave navzkrižnih izvorov (COE
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Koda napake: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } ne more vzpostaviti varne povezave s strežnikom na { $hostname }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Videti je, da to spletno mesto uporablja staro programsko opremo, ki ima znane varnostne težave.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Prepričajte se, da uporabljate najnovejšo različico { -brand-short-name(sklon: "rodilnik") }: v meniju izberite Pomoč > O { -brand-short-name(sklon: "mestnik") }. Če uporabljate najnovejši { -brand-short-name(sklon: "tozilnik") }, je težava najverjetneje v samem spletnem mestu.

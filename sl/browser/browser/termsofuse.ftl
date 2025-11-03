@@ -7,6 +7,8 @@
 
 #  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
 existing-user-tou-message = <strong>Novo</strong> Uvedli smo <a data-l10n-name="terms-of-use-link">pogoje uporabe</a> { -brand-short-name(sklon: "rodilnik") } in posodobili <a data-l10n-name="privacy-notice-link">obvestilo o zasebnosti</a>. Vzemite si trenutek, da ju pregledate in sprejmete.
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Dopolnili smo <a data-l10n-name="privacy-notice-link">obvestilo o zasebnosti</a>, da odraža najnovejše možnosti, vključene v { -brand-short-name(sklon: "tozilnik") }.
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = Več o tem
 # Text for primary button

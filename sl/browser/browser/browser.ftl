@@ -1455,6 +1455,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } meni, da bi vam po
 trustpanel-connection-label-secure = Povezava varna
 trustpanel-connection-label-insecure = Povezava ni varna
 trustpanel-header-enabled = { -brand-product-name } je na straži
+trustpanel-description-enabled2 = Zaščiteni ste. Če kaj opazimo, vas obvestimo.
+trustpanel-header-enabled-insecure = Previdno na tem spletnem mestu
+trustpanel-description-enabled-insecure = { -brand-product-name } je zaznal nekaj sumljivega.
 trustpanel-description-enabled = Zaščiteni ste. Če kaj opazimo, vas obvestimo
 trustpanel-header-disabled = Zaščito ste izključili
 trustpanel-description-disabled = { -brand-product-name } je izklopljen. Predlagamo, da zaščite ponovno vklopite.
@@ -1477,6 +1480,13 @@ trustpanel-blocker-see-all = Prikaži vse
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Zaščite pred sledenjem za { $host }
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Ni varno
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

@@ -167,6 +167,8 @@ extensions-warning-update-security-button = Omogoči
 extensions-warning-imported-addons2 =
     .message = Dokončajte nameščanje razširitev, ki so bile uvožene v { -brand-short-name(sklon: "tozilnik") }.
 extensions-warning-imported-addons-button = Namesti razširitve
+extensions-warning-safe-mode3 =
+    .message = Zaradi dela v načinu za odpravljanje težav so vsi dodatki onemogočeni.
 
 ## Strings connected to add-on updates
 

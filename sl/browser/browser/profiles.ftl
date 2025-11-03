@@ -26,12 +26,14 @@ profile-card =
 default-profile-name = Profil { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Začetni profil
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = Uredi profil
 edit-profile-page-header = Uredite svoj profil
 edit-profile-page-profile-name-label = Ime profila
 edit-profile-page-theme-header-2 =
     .label = Tema
 edit-profile-page-explore-themes = Raziščite več tem
+edit-profile-page-desktop-shortcut-header = Ustvari bližnjico na namizju
 edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
@@ -58,6 +60,10 @@ new-profile-page-input-placeholder =
     .placeholder = Izberite ime, na primer "Služba" ali "Osebno"
 new-profile-page-done-button =
     .label = Urejeno
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Vaš izvod profila { $profilename } je pripravljen, da ga prilagodite
+copied-profile-page-header-description = Vaše podatke in nastavitve smo kopirali v nov profil. Sedaj ga poimenujte, mu izberite videz in ga naredite svojega.
 profile-window-title-2 = { -brand-short-name } – Izbira profila
 profile-window-logo =
     .alt = Logotip { -brand-short-name(sklon: "rodilnik") }
@@ -261,6 +267,7 @@ custom-avatar-crop-area =
     .aria-label = Prilagodi območje obrezovanja
 custom-avatar-drag-handle =
     .aria-label = Spremeni velikost območja obrezovanja
+profiles-appmenu-callout-tour-title = Vaš novi profil je pripravljen
 profiles-appmenu-callout-tour-primary-button = Pokaži, kako
 barbell-avatar = Uteži
 bike-avatar = Kolo

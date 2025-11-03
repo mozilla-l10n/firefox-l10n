@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Odpri pregledno ploščo e-poštnih mas
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Zaščitite svojo spletno dejavnost
 appmenu-services-header = Moje storitve
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Preskusite druga Mozillina orodja za zaščito:
 appmenu-other-protection-header = Preskusite druga orodja { -vendor-short-name(sklon: "rodilnik") } za zaščito:
 
 ## Profiles panel
@@ -301,6 +305,8 @@ appmenu-other-protection-header = Preskusite druga orodja { -vendor-short-name(s
 appmenu-other-profiles = Drugi profili
 appmenu-manage-profiles =
     .label = Upravljanje profilov
+appmenu-copy-profile =
+    .label = Kopiraj ta profil
 appmenu-create-profile =
     .label = Nov profil
 appmenu-edit-profile =

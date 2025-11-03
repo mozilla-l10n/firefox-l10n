@@ -10,6 +10,8 @@
 ## to indicate the purpose of this picker as both a calendar with a month-year
 ## and a time selection dialog for HTML's <input type="datetime-local">
 
+datetime-picker-label =
+    .aria-label = Izberite datum in uro
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of a date picker calendar and a month-year selection
@@ -58,12 +60,26 @@ date-spinner-year-next =
 ## to indicate the purpose of a time picker dialog
 ## for HTML's default <input type="time">
 
+time-picker-label =
+    .aria-label = Izberite uro
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
 ## time spinners on a timepicker dialog
 
+time-spinner-hour-label =
+    .aria-label = Ura
+time-spinner-minute-label =
+    .aria-label = Minuta
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through time units of a spinner on a timepicker dialog
 
+time-spinner-hour-previous =
+    .aria-label = Prejšnja ura
+time-spinner-hour-next =
+    .aria-label = Naslednja ura
+time-spinner-minute-previous =
+    .aria-label = Prejšnja minuta
+time-spinner-minute-next =
+    .aria-label = Naslednja minuta

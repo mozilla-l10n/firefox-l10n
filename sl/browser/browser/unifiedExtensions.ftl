@@ -11,7 +11,15 @@
 unified-extensions-header-title = Razširitve
 unified-extensions-manage-extensions =
     .label = Upravljanje razširitev
+unified-extensions-discover-extensions =
+    .label = Odkrijte razširitve
+unified-extensions-empty-reason-private-browsing-not-allowed = Imate nameščene razširitve, ki pa niso omogočene v zasebnih oknih
 unified-extensions-empty-reason-extension-not-enabled = Imate nameščene razširitve, ki pa niso omogočene
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Povzdignite brskanje na novo raven z razširitvami
+unified-extensions-empty-content-explain-enable2 = Omogočite jih v nastavitvah s klikom na "{ unified-extensions-manage-extensions.label }".
+unified-extensions-empty-content-explain-manage2 = Izberite "{ unified-extensions-manage-extensions.label }" za njihovo upravljanje v nastavitvah.
+unified-extensions-empty-content-explain-extensions-onboarding = Prilagodite videz ali delovanje { -brand-short-name(sklon: "rodilnik") } po svojem okusu ali okrepite zasebnost in varnost.
 
 ## An extension in the main list
 
@@ -86,3 +94,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } onemogočenih razširitev
         }
     .message = Nekatere izmed vaših razširitev so bile onemogočene zaradi kršenja Mozillinih pravilnikov.
+unified-extensions-notice-safe-mode =
+    .message = Vse razširitve so onemogočene, dokler brskalnik deluje v načinu za odpravljanje težav.

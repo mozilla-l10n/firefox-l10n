@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Da bi omogočili to razširitev, izberite <img data-l10n-name="addons-icon"/> Dodatki v meniju <img data-l10n-name="menu-icon"/>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = Nekatere nastavitve domače strani nadzira { $name }.
 
 ## Preferences UI Search Results
 
@@ -167,6 +170,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Odpiraj povezave v zavihkih namesto v novih oknih
     .accesskey = d
+open-external-link-next-to-active-tab =
+    .label = Povezave iz aplikacij odpiraj poleg trenutnega zavihka
 ask-on-close-multiple-tabs =
     .label = Vprašaj pred zapiranjem več zavihkov hkrati
     .accesskey = t
@@ -604,6 +609,7 @@ home-new-windows-tabs-description2 = Izberite, kaj želite videti, ko odprete do
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Domača stran in nova okna
+home-homepage-mode-label2 = Nova okna
 home-newtabs-mode-label = Novi zavihki
 home-restore-defaults =
     .label = Obnovi privzeto
@@ -616,6 +622,9 @@ home-mode-choice-blank =
     .label = Prazna stran
 home-homepage-custom-url =
     .placeholder = Prilepite spletni naslov ...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Upravljanje razširitve
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -630,10 +639,18 @@ use-current-pages =
 choose-bookmark =
     .label = Uporabi zaznamek …
     .accesskey = z
+home-homepage-header = Domača stran
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Domača stran po meri
+home-custom-homepage-address =
+    .placeholder = Vnesite naslov
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Vsebina { -firefox-home-brand-name(sklon: "rodilnik") }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Izberite vsebino, ki jo želite prikazati na { -firefox-home-brand-name(sklon: "mestnik") }.
 home-prefs-search-header =
     .label = Iskanje po spletu
@@ -1221,6 +1238,8 @@ cookie-banner-blocker-checkbox-label =
 addressbar-header = Naslovna vrstica
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Predlogi { -brand-short-name(sklon: "rodilnik") } in naših partnerjev v vaši naslovni vrstici.
 addressbar-suggest = Pri uporabi naslovne vrstice predlagaj
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Naslovna vrstica – { -firefox-suggest-brand-name }
@@ -1248,6 +1267,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = glavne strani
     .accesskey = g
+addressbar-locbar-engines-option-1 =
+    .label = Predlagaj iskalnike za uporabo
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = iskalnike
     .accesskey = i
@@ -1268,6 +1290,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Prejemajte predloge s spleta, pove
 addressbar-locbar-suggest-sponsored-option =
     .label = Predlogi sponzorjev
 addressbar-locbar-suggest-sponsored-desc = Podprite { -brand-short-name } z občasnimi sponzoriranimi predlogi
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Med tipkanjem prejemaj predloge Mozille
 addressbar-quickactions-learn-more = Več o tem
 addressbar-dismissed-suggestions-label = Skriti predlogi
 addressbar-restore-dismissed-suggestions-description = Obnovi opuščene predloge oglaševalcev in { -brand-short-name(sklon: "rodilnik") }.
@@ -1548,6 +1578,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") } zmanjkuje prostora.</strong> Vsebina spletnih strani morda ne bo prikazana pravilno. Shranjene podatke lahko izbrišete v Nastavitve > Zasebnost in varnost > Piškotki in podatki strani.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") } zmanjkuje prostora na disku.</strong> Strani se morda ne bodo prikazovale pravilno. Kliknite "Več o tem" za optimizacijo uporabe prostora na disku in boljšo izkušnjo pri brskanju po spletu.
+certs-description2 =
+    .label = Digitalna potrdila
+    .description = Nastavitev digitalnih potrdil, ki jih { -brand-short-name } uporablja za overjanje.
 
 ## Privacy Section - HTTPS-Only
 
