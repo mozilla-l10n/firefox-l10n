@@ -56,3 +56,11 @@ turn-on-scheduled-backups-cancel-button = Отказ
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-cancel-button = Отказ
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-create-password-label = Парола
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Повторете паролата
+enable-backup-encryption-cancel-button = Отказ
+enable-backup-encryption-confirm-button = Запазване
