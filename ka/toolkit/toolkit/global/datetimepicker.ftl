@@ -10,13 +10,15 @@
 ## to indicate the purpose of this picker as both a calendar with a month-year
 ## and a time selection dialog for HTML's <input type="datetime-local">
 
+datetime-picker-label =
+    .aria-label = აირჩიეთ თარიღი და დრო
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of a date picker calendar and a month-year selection
 ## spinner dialogs for HTML's default <input type="date">
 
 date-picker-label =
-    .aria-label = თარიღის არჩევა
+    .aria-label = აირჩიეთ თარიღი
 date-spinner-label =
     .aria-label = აირჩიეთ თვე და წელიწადი
 
@@ -58,12 +60,5 @@ date-spinner-year-next =
 ## to indicate the purpose of a time picker dialog
 ## for HTML's default <input type="time">
 
-
-## These labels are used by screenreaders and other assistive technology
-## to indicate the type of a value/unit that is being selected within a
-## time spinners on a timepicker dialog
-
-
-## These labels are used by screenreaders and other assistive technology
-## to indicate the purpose of buttons that leaf through time units of a spinner on a timepicker dialog
-
+time-picker-label =
+    .aria-label = აირჩიეთ დრო
