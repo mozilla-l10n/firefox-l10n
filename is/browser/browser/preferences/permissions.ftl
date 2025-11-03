@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Þú getur slökkt á Einungis-HTTPS-ham fyrir tilteknar vefsíður. { -brand-short-name } mun ekki reyna að uppfæra tenginguna til að tryggja HTTPS fyrir þessar síður. Undantekningar eiga ekki við um huliðsglugga.
 permissions-exceptions-https-only-desc2 = Þú getur slökkt á Einungis-HTTPS-ham fyrir tilteknar vefsíður. { -brand-short-name } mun ekki reyna að uppfæra tenginguna til að tryggja HTTPS fyrir þessar síður.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Leyfð vefsvæði - sprettgluggar og utanaðkomandi endurbeiningar
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

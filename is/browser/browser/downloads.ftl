@@ -187,6 +187,7 @@ downloads-details =
 
 downloads-private-browsing-details =
     .title = Skrár eru geymdar á tækinu þínu
+downloads-private-browsing-message = Allir sem nota þetta tæki geta séð hvað hefur verið sótt, jafnvel þótt þú lokir öllum huliðsgluggum.
 downloads-private-browsing-delete-button =
     .label = Eyða skrám sjálfkrafa
     .accesskey = E
