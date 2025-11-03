@@ -1455,7 +1455,6 @@ trustpanel-header-enabled = { -brand-product-name } è in allerta
 trustpanel-description-enabled2 = Sei protetto. Se rileviamo qualcosa, te lo faremo sapere.
 trustpanel-header-enabled-insecure = Fai attenzione su questo sito
 trustpanel-description-enabled-insecure = { -brand-product-name } ha notato qualcosa di sospetto.
-trustpanel-description-enabled = Sei protetto. Se rileviamo qualcosa, te lo faremo sapere
 trustpanel-header-disabled = Hai disattivato le protezioni
 trustpanel-description-disabled = { -brand-product-name } è fuori servizio. Ti consigliamo di riattivare le protezioni.
 trustpanel-clear-cookies-button = Elimina cookie e dati dei siti web
