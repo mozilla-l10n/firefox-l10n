@@ -125,7 +125,7 @@ popups-infobar-dont-show-message2 =
     .accesskey = φ
 edit-popup-settings2 =
     .label = Διαχείριση ρυθμίσεων αναδυόμενων παραθύρων και ανακατευθύνσεων τρίτων…
-    .accesskey = M
+    .accesskey = Δ
 
 ##
 
