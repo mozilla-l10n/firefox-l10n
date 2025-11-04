@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — ব্যক্তিগত ব্রাউজিং
        *[other] { -brand-full-name } ব্যক্তিগত ব্রাউজিং
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = ব্যক্তিগত ব্রাউজিং
 
 ##
 
@@ -208,6 +211,8 @@ urlbar-result-menu-report-inaccurate-location =
     .label = ভুল লোকেশন রিপোর্ট করুন
 urlbar-result-menu-show-less-frequently =
     .label = কম ঘন ঘন দেখান
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = আবহাওয়ার পরামর্শ দেখাবেন না
 # Used for Split Button.
 urlbar-splitbutton-dropmarker =
     .title = মেনু খুলুন
