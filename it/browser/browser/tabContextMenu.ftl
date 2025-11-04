@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Sposta in una nuova finestra
     .accesskey = f
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Sposta in { $profileName }
 tab-context-close-multiple-tabs =
     .label = Chiudi più schede
     .accesskey = u
