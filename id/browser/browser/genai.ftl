@@ -166,6 +166,8 @@ genai-chatbot-summarize-title = Baru! Ringkas laman dalam satu klik
 genai-chatbot-summarize-button = Ringkas laman
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Klik kanan pada chatbot AI Anda di bilah samping dan pilih “Ringkas Laman”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Klik kanan tombol kelip di bilah sisi dan pilih "Ringkas Halaman". Pertama kali dijalankan, Anda juga akan memilih suatu chatbot AI.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Buka chatbot AI Anda di bilah samping dan pilih "Ringkas halaman" di bagian bawah.
 genai-chatbot-summarize-footer-generic-subtitle = Tambahkan chatbot AI ke bilah samping { -brand-short-name } untuk meringkas laman dengan cepat.
