@@ -1100,7 +1100,7 @@ autofill-payment-methods-checkbox-submessage = Inkluderer kreditt- og debetkort
 autofill-saved-payment-methods-button = Lagra betalingsmetodar
     .accesskey = a
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Krev einingsinnlogging for å fylle ut og behandle betalingsmåtar
+autofill-reauth-payment-methods-checkbox = Krev einingsinnlogging for å fylle ut og handsame betalingsmåtar
     .accesskey = o
 autofill-payment-methods-title = Betalingsmåtar
 autofill-payment-methods-header =
@@ -1111,6 +1111,10 @@ autofill-payment-methods-checkbox-message-2 =
 autofill-payment-methods-manage-payments-button =
     .label = Handsam betalingsmåtar
     .accesskey = H
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Krev einingspålogging for å automatisk fylle ut og handsame betalingsmåter
+    .accesskey = K
 autofill-addresses-title = Adresser og meir
 autofill-addresses-header =
     .aria-label = Adresser og meir
