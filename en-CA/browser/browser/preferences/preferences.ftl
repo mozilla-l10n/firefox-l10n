@@ -625,6 +625,9 @@ choose-bookmark =
     .label = Use Bookmark…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } Content
@@ -775,6 +778,8 @@ remove-addon-engine-alert = To remove this search engine, remove the associated 
 containers-back-button2 =
     .aria-label = Back to Settings
 containers-header = Container Tabs
+containers-section-header =
+    .heading = Container Tabs
 containers-add-button =
     .label = Add New Container
     .accesskey = A
