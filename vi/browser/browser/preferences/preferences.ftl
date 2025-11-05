@@ -1309,6 +1309,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Hiển thị đề xuất tìm kiếm thịnh hành
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Đề xuất từ { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Nhận đề xuất từ ​​web liên quan đến tìm kiếm của bạn.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Đề xuất từ { -brand-short-name }
