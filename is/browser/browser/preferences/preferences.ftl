@@ -620,6 +620,9 @@ choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } efni
@@ -765,6 +768,8 @@ remove-addon-engine-alert = Til að fjarlægja þessa leitarvél skaltu fjarlæg
 containers-back-button2 =
     .aria-label = Til baka í stillingar
 containers-header = Sérefnisflipar
+containers-section-header =
+    .heading = Sérefnisflipar
 containers-add-button =
     .label = Bæta við nýju sérefni
     .accesskey = a
