@@ -1329,6 +1329,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Afișează sugestii de căutare în tendințe
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Sugestii de la { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Obține sugestii de pe web legate de căutarea ta.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugestii de la { -brand-short-name }
