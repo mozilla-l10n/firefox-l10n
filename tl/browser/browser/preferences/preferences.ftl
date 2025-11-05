@@ -458,6 +458,9 @@ choose-bookmark =
     .label = Gumamit ng Bookmark...
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -561,6 +564,8 @@ search-keyword-warning-bookmark = Ginagamit na ng isang bookmark ang keyword na 
 containers-back-button2 =
     .aria-label = Bumalik sa Mga Setting
 containers-header = Mga Container Tab
+containers-section-header =
+    .heading = Mga Container Tab
 containers-add-button =
     .label = Magdagdag ng Bagong Container
     .accesskey = A
@@ -870,6 +875,12 @@ sitedata-cookies-exceptions =
     .label = I-manage ang mga Exception…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Address Bar
@@ -1045,6 +1056,9 @@ collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa b
 privacy-segmentation-radio-on =
     .label = Ipakita ang detalyadong impormasyon
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1091,6 +1105,9 @@ httpsonly-radio-enabled-pbm =
     .label = I-enable ang HTTPS-Only Mode sa mga private window lamang
 httpsonly-radio-disabled =
     .label = Huwag i-enable ang HTTPS-Only Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
