@@ -107,6 +107,10 @@ fp-cert-error-code = Feilkode: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } stoler ikke på { $hostname } fordi den ikke kunne bevise at den oppfyller kravene til offentlig sertifikatåpenhet.
 fp-learn-more-about-secure-connection-failures = Les mer om feil med sikker tilkobling
 fp-learn-more-about-cert-issues = Les mer om slike sertifikatproblemer
 fp-learn-more-about-time-related-errors = Finn ut mer om feilsøking av tidsrelaterte feil
