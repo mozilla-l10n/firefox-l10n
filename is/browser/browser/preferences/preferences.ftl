@@ -1229,6 +1229,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Sýna vinsælar leitartillögur
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Tillögur frá { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Fáðu tillögur af vefnum sem tengjast leitinni þinni.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Tillögur frá { -brand-short-name }
