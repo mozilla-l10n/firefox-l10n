@@ -618,6 +618,9 @@ choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Agbur { -firefox-home-brand-name }
@@ -752,6 +755,8 @@ remove-engine-remove = Kkes
 containers-back-button2 =
     .aria-label = Uɣal ɣer yiɣewwaren
 containers-header = Iccaren imagbaren
+containers-section-header =
+    .heading = Iccaren imagbaren
 containers-add-button =
     .label = Rnu amagbar-nniḍen
     .accesskey = R
