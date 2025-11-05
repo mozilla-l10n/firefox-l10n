@@ -717,6 +717,8 @@ remove-addon-engine-alert = Այս որոնիչը հեռացնելու համա�
 containers-back-button2 =
     .aria-label = Վերադառնալ կարգավորումներին
 containers-header = Պարունակ ներդիրներ
+containers-section-header =
+    .heading = Պարունակ ներդիրներ
 containers-add-button =
     .label = Ավելացել նոր պարունակ
     .accesskey = Ա
@@ -1101,6 +1103,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
