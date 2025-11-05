@@ -243,3 +243,5 @@ other-backup-files-founds = <b>주의:</b> 다른 백업 파일 { $numberOfOther
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = { $machineName }에서 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }에 생성됨
 backup-file-restore-file-validation-error = 이 파일은 작동하지 않습니다. 다른 파일을 선택해 보세요. <a data-l10n-name="restore-problems">여전히 문제가 해결되지 않았나요?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = 선택된 파일 없음

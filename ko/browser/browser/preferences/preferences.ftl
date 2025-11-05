@@ -113,6 +113,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = 확장 기능을 사용하려면 <img data-l10n-name="menu-icon"/> 메뉴에서 <img data-l10n-name="addons-icon"/> 부가 기능으로 이동하세요.
+extension-controlled-enable-2 = 이 확장 기능을 다시 활성화하려면 <a data-l10n-name="addons-link">확장 기능 및 테마</a>를 방문하세요.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } 확장 기능이 일부 홈페이지 설정을 제어합니다.

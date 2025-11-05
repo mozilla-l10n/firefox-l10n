@@ -253,3 +253,7 @@ link-preview-setup-faster-next-time = 다음 번에 요점을 더 빨리 볼 수
 link-preview-onboarding-button = 미리보기 보기
 # Onboarding card Close button
 link-preview-onboarding-close = 닫기
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = 초기 설정
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = 잠시 시간이 걸릴 수 있습니다. 다음 번에는 요점을 더 빨리 볼 수 있습니다.

@@ -197,3 +197,4 @@ fp-certerror-hide-advanced-button = הסתרת מתקדם
 fp-certerror-override-exception-button = המשך אל { $hostname } (מסוכן)
 fp-certerror-intro = ‏{ -brand-short-name } זיהה בעיית אבטחה שעלולה להיות חמורה עם <strong>{ $hostname }</strong>. מישהו שמתחזה לאתר יכול לנסות לגנוב דברים כמו פרטי כרטיסי אשראי, ססמאות או דוא״ל.
 fp-certerror-expired-into = ‏{ -brand-short-name } זיהה בעיית אבטחה עם <strong>{ $hostname }</strong>. או שהאתר לא מוגדר נכון או ששעון המכשיר שלך מוגדר לתאריך/שעה הלא נכונים.
+fp-certerror-transparency-intro = מישהו שמתחזה לאתר <strong>{ $hostname }</strong> יכול לנסות לגנוב דברים כמו פרטים על כרטיסי אשראי, ססמאות או הודעות דוא״ל.
