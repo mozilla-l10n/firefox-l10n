@@ -592,6 +592,9 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Si yugui aga'a
+sync-device-name-change-2 =
+    .label = Naduno' si yugui aga'a
+    .accesskey = h
 sync-device-name-change =
     .label = Naduno' si yugui aga'a...
     .accesskey = h
