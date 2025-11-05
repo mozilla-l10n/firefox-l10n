@@ -549,6 +549,9 @@ choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Susbaint { -firefox-home-brand-name }
@@ -669,6 +672,8 @@ search-keyword-warning-bookmark = Tagh thu facal-luirg a tha 'ga chleachdadh ann
 containers-back-button2 =
     .aria-label = Till dha na roghainnean
 containers-header = Tabaichean soithich
+containers-section-header =
+    .heading = Tabaichean soithich
 containers-add-button =
     .label = Cuir soitheach ùr ris
     .accesskey = a
@@ -895,6 +900,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1186,6 +1194,9 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
