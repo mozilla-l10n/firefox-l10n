@@ -36,6 +36,7 @@ pocket-panel-signup-learn-more = قلوه دووسته بۊین
 pocket-panel-signup-login = و من ٱووڌن
 pocket-panel-signup-signup-email = نوم نویسی وا ایمیل
 pocket-panel-signup-signup-cta = من { -pocket-brand-name } سبت نوم کۊنین. مۊفتی هڌ.
+pocket-panel-signup-signup-firefox = سبت نوم وا { -brand-product-name }
 
 ## about:pocket-home panel
 
