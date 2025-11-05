@@ -1323,6 +1323,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Ehechauka jehekarã ojeporuvévape
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = { -brand-short-name } ñemoñe’ẽ
+addressbar-locbar-suggest-all-option-desc = Erekóta ñanduti ñemoñe’ẽ ojokupytýva rehekáva ndive.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } ñemoñe’ẽ
