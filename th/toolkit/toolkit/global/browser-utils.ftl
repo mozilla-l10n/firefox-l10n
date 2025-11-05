@@ -7,6 +7,9 @@ browser-utils-url-data = (ข้อมูล)
 # Variables:
 #   $scheme (string) - URI scheme like jar: about:
 browser-utils-url-scheme = ทรัพยากร { $scheme }
+# Special case of done-scheme for file:
+# This is used as an eTLD replacement for local files, so make it lower case
+browser-utils-file-scheme = ไฟล์ในเครื่อง
 # Used for extension URLs
 # Variables:
 #   $extension (string) - Name of the extension that generated the URL
