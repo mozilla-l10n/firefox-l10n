@@ -7,6 +7,9 @@ browser-utils-url-data = (მონაცემები)
 # Variables:
 #   $scheme (string) - URI scheme like jar: about:
 browser-utils-url-scheme = { $scheme } რესურსი
+# Special case of done-scheme for file:
+# This is used as an eTLD replacement for local files, so make it lower case
+browser-utils-file-scheme = ადგილობრივი ფაილი
 # Used for extension URLs
 # Variables:
 #   $extension (string) - Name of the extension that generated the URL
