@@ -1124,6 +1124,9 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Název zařízení
+sync-device-name-change-2 =
+    .label = Přejmenovat toto zařízení
+    .accesskey = j
 sync-device-name-change =
     .label = Přejmenovat toto zařízení…
     .accesskey = j
