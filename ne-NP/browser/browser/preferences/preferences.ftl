@@ -477,6 +477,10 @@ sync-engine-history =
 ## The device name controls.
 
 sync-device-name-header = यन्त्रको नामः
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = यन्त्रको नामः
 sync-device-name-change-2 =
     .label = उपकरणको नाम परिवर्तन गर्नुहोस्
     .accesskey = h
