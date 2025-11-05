@@ -1325,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Felkapott keresési javaslatok megjelenítése
     .accesskey = F
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Javaslatok a { -brand-short-name }tól
+addressbar-locbar-suggest-all-option-desc = Kapjon a kereséséhez kapcsolódó javaslatokat a webről.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Javaslatok a { -brand-short-name }tól
