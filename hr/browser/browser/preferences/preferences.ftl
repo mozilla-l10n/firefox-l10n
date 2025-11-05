@@ -1239,6 +1239,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Prikaži popularne prijedloge za pretraživanje
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = { -brand-short-name } prijedlozi
+addressbar-locbar-suggest-all-option-desc = Dobij prijedloge s weba koji se odnose na tvoju pretragu.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } prijedlozi
