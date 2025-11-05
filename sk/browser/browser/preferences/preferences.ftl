@@ -1329,6 +1329,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Zobrazovať návrhy populárnych vyhľadávaní
     .accesskey = n
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Návrhy od { -brand-short-name(case: "gen") }
+addressbar-locbar-suggest-all-option-desc = Získajte návrhy z webu súvisiace s vaším vyhľadávaním.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Návrhy od { -brand-short-name(case: "gen") }
