@@ -638,7 +638,7 @@ home-custom-homepage-address-button =
 home-custom-homepage-no-websites-yet = ウェブサイトがまだ追加されていません。
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = 置き換え: 
+home-custom-homepage-replace-with = 置き換え:
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-current-pages-button =
     .label = 現在開いているページ
@@ -800,6 +800,8 @@ remove-addon-engine-alert = この検索エンジンを削除するには、関�
 containers-back-button2 =
     .aria-label = 設定に戻る
 containers-header = コンテナータブ
+containers-section-header =
+    .heading = コンテナータブ
 containers-add-button =
     .label = 新しいコンテナーを追加
     .accesskey = A
