@@ -998,6 +998,9 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Enw Dyfais
+sync-device-name-change-2 =
+    .label = Newid Enw'r Ddyfais
+    .accesskey = N
 sync-device-name-change =
     .label = Newid Enw'r Ddyfais…
     .accesskey = N
