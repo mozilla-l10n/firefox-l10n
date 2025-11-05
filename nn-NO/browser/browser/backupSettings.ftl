@@ -88,6 +88,7 @@ turn-off-scheduled-backups-confirm-button = Slå av og slett sikkerheitskopien
 restore-from-backup-header = Gjenopprett dataa dine
 restore-from-backup-support-link =
     .message = Kva vil bli gjenoppretta?
+restore-from-backup-no-backup-file-link = Har du problem med å finne sikkerheitskopien din?
 restore-from-backup-filepicker-label = Sikkerheitskopieringsfil
 restore-from-backup-filepicker-title = Vel sikkerheitskopifil:
 restore-from-backup-file-choose-button =
