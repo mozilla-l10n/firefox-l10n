@@ -1237,6 +1237,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Tampilkan saran pencarian yang sedang tren
     .accesskey = a
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Saran dari { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Dapatkan saran dari web yang terkait dengan pencarian Anda.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Saran dari { -brand-short-name }
