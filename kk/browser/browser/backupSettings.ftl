@@ -31,6 +31,9 @@ settings-data-backup-scheduled-backups-off = Сақтық көшірме: СӨН
 settings-data-backup-last-backup-location = Орналасуы
 settings-data-backup-last-backup-location-show-in-folder = Бумада көрсету
 settings-data-backup-last-backup-location-edit = Түзету…
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = Файл атауы: { $fileName }
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
