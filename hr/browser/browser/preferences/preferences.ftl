@@ -624,6 +624,9 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } – sadržaj
@@ -775,6 +778,8 @@ remove-addon-engine-alert = Za uklanjanje ove tražilice ukloni povezani dodatak
 containers-back-button2 =
     .aria-label = Natrag na postavke
 containers-header = Kontejnerske kartice
+containers-section-header =
+    .heading = Kontejnerske kartice
 containers-add-button =
     .label = Dodaj novi kontejner
     .accesskey = a
