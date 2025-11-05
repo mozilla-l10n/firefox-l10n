@@ -479,8 +479,12 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Oppgraderer du til Windows 11?
+    La oss sikkerheitskopiere { -brand-product-name }-dataa dine.
 create-backup-screen-1-subtitle = Vern automatisk passord, bokmerke, og meir, på 1–2 minutt.
 create-backup-screen-1-flair = Tilrådd
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Les meir</a>
 create-backup-screen-1-sync-label = Synkroniser med { -brand-product-name }
 create-backup-screen-1-sync-body = Sikkerheitskopierer alle pålogga einingar
 create-backup-screen-1-backup-label = Sikkerheitskopier til PC
@@ -537,9 +541,11 @@ restore-from-backup-secondary-button = Ikkje gjenopprett
 
 restored-from-backup-success-title = Vi er tilbake! { -brand-short-name }-dataa dine er gjenoppretta.
 restored-from-backup-success-with-checklist-subtitle = Vil du ha favoritt-nettlesaren din med fokus på personvern berre eitt klikk unna?
+restored-from-backup-success-no-checklist-subtitle = Du kan slå på sikkerheitskopiering for denne eininga i <a data-l10n-name="settings">innstillingar</a>.
 restored-from-backup-success-with-checklist-primary-button = Lagre og hald fram
 restored-from-backup-success-with-checklist-secondary-button = Hopp over dette steget
 restored-from-backup-success-no-checklist-primary-button = Hald fram
+restored-from-backup-error-title = Hmm, det oppstod eit problem med sikkerheitskopifila di.
 restored-from-backup-error-primary-button = Lat att
 
 ## Onboarding Personalization Screen
