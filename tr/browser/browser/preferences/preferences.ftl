@@ -1325,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Arama trendi önerilerini göster
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = { -brand-short-name } önerileri
+addressbar-locbar-suggest-all-option-desc = Aramanızla ilgili web sitesi önerileri alın.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } önerileri
