@@ -533,6 +533,13 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Nomme dispoxitivo
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nomme dispoxitivo
+sync-device-name-change-2 =
+    .label = Cangia nomme dispoxitivo
+    .accesskey = n
 sync-device-name-change =
     .label = Cangia nomme dispoxitivo…
     .accesskey = n
