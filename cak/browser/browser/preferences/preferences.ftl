@@ -766,6 +766,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Rub'i' ri okisaxel
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Rub'i' ri okisaxel
+sync-device-name-change-2 =
+    .label = Tijal rub'i' okisaxel
+    .accesskey = j
 sync-device-name-change =
     .label = Tijal rub'i' okisaxel…
     .accesskey = j
