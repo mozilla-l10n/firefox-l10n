@@ -4,6 +4,9 @@
 
 # Used for data: URLs where we don't have any useful origin information
 browser-utils-url-data = (gögn)
+# Variables:
+#   $scheme (string) - URI scheme like jar: about:
+browser-utils-url-scheme = { $scheme } tilfang
 # Used for extension URLs
 # Variables:
 #   $extension (string) - Name of the extension that generated the URL
