@@ -568,6 +568,9 @@ choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } مواد
@@ -696,6 +699,8 @@ search-keyword-warning-bookmark = تساں اینجھا کلیدی لفظ منت
 containers-back-button2 =
     .aria-label = ترتیباں تے واپس ونڄو
 containers-header = کنٹینر ٹیباں
+containers-section-header =
+    .heading = کنٹینر ٹیباں
 containers-add-button =
     .label = نواں کنٹینر شامل کرو
     .accesskey = A
