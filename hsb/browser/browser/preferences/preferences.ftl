@@ -990,6 +990,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Mjeno grata
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Mjeno grata
+sync-device-name-change-2 =
+    .label = Mjeno grata změnić
+    .accesskey = z
 sync-device-name-change =
     .label = Mjeno grata změnić…
     .accesskey = z
