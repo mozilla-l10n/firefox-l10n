@@ -816,6 +816,8 @@ remove-addon-engine-alert = Um diese Suchmaschine zu entfernen, entfernen Sie da
 containers-back-button2 =
     .aria-label = Zurück zu den Einstellungen
 containers-header = Tab-Umgebungen
+containers-section-header =
+    .heading = Tab-Umgebungen
 containers-add-button =
     .label = Neue Umgebung hinzufügen
     .accesskey = N
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Gerätename
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Gerätename
+sync-device-name-change-2 =
+    .label = Gerät umbenennen
+    .accesskey = u
 sync-device-name-change =
     .label = Gerät umbenennen…
     .accesskey = u
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Beliebte Suchvorschläge anzeigen
     .accesskey = B
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Vorschläge von { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Erhalten Sie Vorschläge aus dem Web, die sich auf Ihre Suche beziehen.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Vorschläge von { -brand-short-name }

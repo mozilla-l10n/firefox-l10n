@@ -816,6 +816,8 @@ remove-addon-engine-alert = Para eliminar este buscador, elimine el complemento 
 containers-back-button2 =
     .aria-label = Volver a Preferencias
 containers-header = Pestañas contenedoras
+containers-section-header =
+    .heading = Pestañas contenedoras
 containers-add-button =
     .label = Agregar nuevo contenedor
     .accesskey = A
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nombre de dispositivo
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nombre de dispositivo
+sync-device-name-change-2 =
+    .label = Cambiar el nombre del dispositivo
+    .accesskey = d
 sync-device-name-change =
     .label = Cambiar el nombre del dispositivo…
     .accesskey = d
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostrar las sugerencias de búsqueda más populares
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Sugerencias de { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Obtener sugerencias de la web relacionadas con su búsqueda.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugerencias de { -brand-short-name }

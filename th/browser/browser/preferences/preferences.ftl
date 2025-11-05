@@ -800,6 +800,8 @@ remove-addon-engine-alert = เมื่อต้องการลบเคร�
 containers-back-button2 =
     .aria-label = กลับไปที่การตั้งค่า
 containers-header = แท็บแยกข้อมูล
+containers-section-header =
+    .heading = แท็บแยกข้อมูล
 containers-add-button =
     .label = เพิ่มที่แยกข้อมูลใหม่
     .accesskey = พ
@@ -964,6 +966,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = ชื่ออุปกรณ์
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = ชื่ออุปกรณ์
+sync-device-name-change-2 =
+    .label = เปลี่ยนชื่ออุปกรณ์
+    .accesskey = ป
 sync-device-name-change =
     .label = เปลี่ยนชื่ออุปกรณ์…
     .accesskey = ป
@@ -1292,6 +1301,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = แสดงคำแนะนำการค้นหาที่กำลังมาแรง
     .accesskey = ม
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = คำแนะนำจาก { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = รับคำแนะนำจากเว็บที่เกี่ยวข้องกับการค้นหาของคุณ
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = คำแนะนำจาก { -brand-short-name }

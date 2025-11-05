@@ -775,6 +775,8 @@ remove-addon-engine-alert = Бұл іздеу жүйесін өшіру үшін
 containers-back-button2 =
     .aria-label = Баптауларға оралу
 containers-header = Контейнер беттері
+containers-section-header =
+    .heading = Контейнер беттері
 containers-add-button =
     .label = Жаңа контейнерді қосу
     .accesskey = а
@@ -939,6 +941,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Құрылғы аты
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Құрылғы аты
+sync-device-name-change-2 =
+    .label = Құрылғы атын өзгерту
+    .accesskey = з
 sync-device-name-change =
     .label = Құрылғы атын өзгерту…
     .accesskey = з
@@ -1258,6 +1267,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Танымал іздеу ұсыныстарын көрсету
     .accesskey = т
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = { -brand-short-name } ұсыныстары
+addressbar-locbar-suggest-all-option-desc = Сіздің іздеуіңізге қатысты интернеттен ұсыныстар алыңыз.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } ұсыныстары

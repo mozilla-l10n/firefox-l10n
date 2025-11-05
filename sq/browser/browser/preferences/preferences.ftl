@@ -816,6 +816,8 @@ remove-addon-engine-alert = Që të hiqet ky motor kërkimesh, hiqni shtesën p�
 containers-back-button2 =
     .aria-label = Mbrapsht te Rregullimet
 containers-header = Skeda Kontejneri
+containers-section-header =
+    .heading = Skeda Kontejneri
 containers-add-button =
     .label = Shtoni Kontejner të Ri
     .accesskey = S
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Emër Pajisjeje
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Emër Pajisjeje
+sync-device-name-change-2 =
+    .label = Ndryshoni Emër Pajisjeje
+    .accesskey = N
 sync-device-name-change =
     .label = Ndryshoni Emër Pajisjeje…
     .accesskey = N
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Shfaq sugjerime prirjesh kërkimi
     .accesskey = k
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Sugjerime nga { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Merrni nga interneti sugjerime të lidhura me kërkimin tuaj.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugjerime nga { -brand-short-name }

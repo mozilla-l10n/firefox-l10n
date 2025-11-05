@@ -622,6 +622,9 @@ choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
@@ -772,6 +775,8 @@ remove-addon-engine-alert = Pro cantzellare custu motore de chirca, cantzella pu
 containers-back-button2 =
     .aria-label = Torra a sa cunfiguratzione
 containers-header = Ischedas cuntenidoras
+containers-section-header =
+    .heading = Ischedas cuntenidoras
 containers-add-button =
     .label = Agiunghe unu cuntenidore nou
     .accesskey = A
@@ -936,6 +941,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nòmine de su dispositivu
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nòmine de su dispositivu
+sync-device-name-change-2 =
+    .label = Muda su nòmine de su dispositivu
+    .accesskey = u
 sync-device-name-change =
     .label = Muda su nòmine de su dispositivu…
     .accesskey = u
@@ -1264,6 +1276,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Ammustra cussìgios de chirca in tendèntzia
     .accesskey = A
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Cussìgios dae { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Otene cussìgios de sa rete acapiados a sa chirca tua.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Cussìgios dae { -brand-short-name }

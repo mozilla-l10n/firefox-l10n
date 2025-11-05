@@ -571,6 +571,9 @@ choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } saturs
@@ -699,6 +702,8 @@ search-keyword-warning-bookmark = Jūs izvēlējāties atslēgas vārdu, ko jau 
 containers-back-button2 =
     .aria-label = Atgriezties uz iestatījumiem
 containers-header = Saturošās cilnes
+containers-section-header =
+    .heading = Saturošās cilnes
 containers-add-button =
     .label = Pievienot jaunu konteineru
     .accesskey = A
@@ -853,6 +858,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Ierīces nosaukums
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Ierīces nosaukums
+sync-device-name-change-2 =
+    .label = Mainīt ierīces nosaukumu
+    .accesskey = n
 sync-device-name-change =
     .label = Mainīt ierīces nosaukumu…
     .accesskey = n
@@ -1307,6 +1319,9 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

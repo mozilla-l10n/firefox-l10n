@@ -816,6 +816,8 @@ remove-addon-engine-alert = ამ საძიებო სისტემი�
 containers-back-button2 =
     .aria-label = პარამეტრებზე დაბრუნება
 containers-header = სათავსი ჩანართები
+containers-section-header =
+    .heading = სათავსი ჩანართები
 containers-add-button =
     .label = ახალი სათავსის დამატება
     .accesskey = ა
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = მოწყობილობის სახელი
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = მოწყობილობის სახელი
+sync-device-name-change-2 =
+    .label = მოწყობილობის სახელის შეცვლა
+    .accesskey = ს
 sync-device-name-change =
     .label = მოწყობილობის სახელის შეცვლა…
     .accesskey = ს
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = ხშირად მოძიებულის შემოთავაზებები
     .accesskey = ხ
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = გთავაზობთ { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = შემოთავაზებები ვებსივრციდან თქვენ მიერ მოძიებულის შესაბამისად.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = გთავაზობთ { -brand-short-name }

@@ -624,6 +624,9 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } – sadržaj
@@ -775,6 +778,8 @@ remove-addon-engine-alert = Za uklanjanje ove tražilice ukloni povezani dodatak
 containers-back-button2 =
     .aria-label = Natrag na postavke
 containers-header = Kontejnerske kartice
+containers-section-header =
+    .heading = Kontejnerske kartice
 containers-add-button =
     .label = Dodaj novi kontejner
     .accesskey = a
@@ -939,6 +944,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Ime uređaja
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Ime uređaja
+sync-device-name-change-2 =
+    .label = Promijeni ime uređaja{ " " }
+    .accesskey = n
 sync-device-name-change =
     .label = Promijeni ime uređaja …
     .accesskey = n
@@ -1227,6 +1239,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Prikaži popularne prijedloge za pretraživanje
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = { -brand-short-name } prijedlozi
+addressbar-locbar-suggest-all-option-desc = Dobij prijedloge s weba koji se odnose na tvoju pretragu.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } prijedlozi

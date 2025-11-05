@@ -816,6 +816,8 @@ remove-addon-engine-alert = Smyt de assosjearre add-on fuort om dizze sykmasine 
 containers-back-button2 =
     .aria-label = Tebek nei Ynstellingen
 containers-header = Kontenerljepblêden
+containers-section-header =
+    .heading = Kontenerljepblêden
 containers-add-button =
     .label = Nije kontener tafoegje
     .accesskey = A
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Apparaatnamme
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Apparaatnamme
+sync-device-name-change-2 =
+    .label = Apparaatnamme wizigje
+    .accesskey = p
 sync-device-name-change =
     .label = Apparaatnamme wizigje…
     .accesskey = p
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Trending syksuggestjes toane
     .accesskey = T
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Suggestjes fan { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Untfang suggestjes fan it web relatearre oan jo sykopdracht.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Suggestjes fan { -brand-short-name }

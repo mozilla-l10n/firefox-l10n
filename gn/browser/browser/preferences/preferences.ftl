@@ -816,6 +816,8 @@ remove-addon-engine-alert = Emboguete hag̃ua ko jehekaha, embogue pe moĩmbaha 
 containers-back-button2 =
     .aria-label = Eguevi ñembohekópe
 containers-header = Tendayke guerekoha
+containers-section-header =
+    .heading = Tendayke guerekoha
 containers-add-button =
     .label = Embojuaju guerekoha pyahu
     .accesskey = E
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Mba’e’oka Réra
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Mba’e’oka Réra
+sync-device-name-change-2 =
+    .label = Emoambue mba’e’oka réra
+    .accesskey = h
 sync-device-name-change =
     .label = Emoambue mba’e’oka réra…
     .accesskey = h
@@ -1314,6 +1323,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Ehechauka jehekarã ojeporuvévape
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = { -brand-short-name } ñemoñe’ẽ
+addressbar-locbar-suggest-all-option-desc = Erekóta ñanduti ñemoñe’ẽ ojokupytýva rehekáva ndive.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } ñemoñe’ẽ

@@ -800,6 +800,8 @@ remove-addon-engine-alert = Za odstranitev tega iskalnika odstranite z njim pove
 containers-back-button2 =
     .aria-label = Nazaj na nastavitve
 containers-header = Vsebniški zavihki
+containers-section-header =
+    .heading = Vsebniški zavihki
 containers-add-button =
     .label = Dodaj nov vsebnik
     .accesskey = D
@@ -964,6 +966,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Ime naprave
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Ime naprave
+sync-device-name-change-2 =
+    .label = Spremeni ime naprave{ " " }
+    .accesskey = r
 sync-device-name-change =
     .label = Spremeni ime naprave …
     .accesskey = r
@@ -1283,6 +1292,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Prikaži priljubljene predloge iskanja
     .accesskey = p
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Predlogi { -brand-short-name(sklon: "rodilnik") }
+addressbar-locbar-suggest-all-option-desc = Prejemajte predloge s spleta, povezane z vašim iskanjem.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Predlogi { -brand-short-name(sklon: "rodilnik") }

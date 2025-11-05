@@ -363,6 +363,9 @@ choose-bookmark =
     .label = Saifeimi qullan…
     .accesskey = m
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -445,6 +448,8 @@ search-keyword-warning-bookmark = Şu anda bir yer imi tarafından kullanılan b
 ## Containers Section
 
 containers-header = Kapsayıcı sekmeler
+containers-section-header =
+    .heading = Kapsayıcı sekmeler
 containers-add-button =
     .label = Yañı Konteyner Ekle
     .accesskey = e
@@ -493,6 +498,12 @@ sync-sign-in =
     .label = Giriş yap
     .accesskey = G
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -521,6 +532,13 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Cihaz adı
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Cihaz adı
+sync-device-name-change-2 =
+    .label = Cihaz Adını Deñiştir
+    .accesskey = C
 sync-device-name-change =
     .label = Cihaz Adını Deñiştir…
     .accesskey = C
@@ -571,6 +589,12 @@ forms-master-pw-change =
     .label = Usta Sır-sözni Deñiştir…
     .accesskey = d
 forms-master-pw-fips-desc = Sır-sözni Deñiştirüv Oñmadı
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -646,6 +670,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Verilerni İdare Et…
     .accesskey = V
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -764,6 +794,9 @@ addon-recommendations-link = Daha çoq ögren
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -795,6 +828,12 @@ certs-devices =
     .label = Emniyet Cihazları…
     .accesskey = C
 certs-devices-enable-fips = FIPS etkinleştir
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

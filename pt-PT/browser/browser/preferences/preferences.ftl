@@ -621,6 +621,9 @@ choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Conteúdo { -firefox-home-brand-name }
@@ -771,6 +774,8 @@ remove-addon-engine-alert = Para remover este motor de pesquisa, remova o extra 
 containers-back-button2 =
     .aria-label = Voltar para as Definições
 containers-header = Separadores contentores
+containers-section-header =
+    .heading = Separadores contentores
 containers-add-button =
     .label = Adicionar novo contentor
     .accesskey = A
@@ -935,6 +940,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nome do dispositivo
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nome do dispositivo
+sync-device-name-change-2 =
+    .label = Alterar nome do dispositivo
+    .accesskey = l
 sync-device-name-change =
     .label = Alterar nome do dispositivo…
     .accesskey = l
@@ -1223,6 +1235,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostrar sugestões de pesquisa com uma popularidade crescente
     .accesskey = p
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Sugestões do { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Obtenha sugestões da Internet relacionadas com a sua pesquisa
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugestões do { -brand-short-name }

@@ -403,6 +403,9 @@ choose-bookmark =
     .label = Usa nu nzingalibbru…
     .accesskey = n
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -495,6 +498,8 @@ search-keyword-warning-bookmark = Scartasti na palora-chiavi ca a stu mumentu ve
 ## Containers Section
 
 containers-header = Schedi cuntinituri
+containers-section-header =
+    .heading = Schedi cuntinituri
 containers-add-button =
     .label = Junci un cuntinituri novu
     .accesskey = A
@@ -612,6 +617,13 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Nomu dû dispusitivu
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nomu dû dispusitivu
+sync-device-name-change-2 =
+    .label = Cancia u nomu dû dispusitivu
+    .accesskey = d
 sync-device-name-change =
     .label = Cancia u nomu dû dispusitivu…
     .accesskey = d
@@ -673,6 +685,12 @@ forms-master-pw-change =
     .label = Cancia chiavi mastra…
     .accesskey = m
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -752,6 +770,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Manija dati…
     .accesskey = d
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -907,6 +931,9 @@ addon-recommendations-link = Cchiù nfurmazzioni
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalijazzioni di dati è sdisabbilitata nnâ cunfijurazzioni di sta virsiuni
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -937,6 +964,12 @@ certs-view =
 certs-devices =
     .label = Dispusitivi di sicurizza…
     .accesskey = D
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

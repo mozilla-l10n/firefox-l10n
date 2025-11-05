@@ -468,6 +468,9 @@ choose-bookmark =
     .label = Yaise Buikmerk...
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -577,6 +580,8 @@ search-keyword-warning-bookmark = Ye've waled a keywird that's awready in yaise 
 containers-back-button2 =
     .aria-label = Back tae Settins
 containers-header = Conteener Tabs
+containers-section-header =
+    .heading = Conteener Tabs
 containers-add-button =
     .label = Eik On New Conteener
     .accesskey = E
@@ -712,6 +717,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Device Nemme
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Device Nemme
+sync-device-name-change-2 =
+    .label = Chynge Device Nemme
+    .accesskey = h
 sync-device-name-change =
     .label = Chynge Device Nemme…
     .accesskey = h
@@ -801,6 +813,9 @@ primary-password-os-auth-dialog-message-win = Tae mak a Primary Passwird, inpit 
 primary-password-os-auth-dialog-message-macosx = mak a Primary Passwird
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historie
@@ -884,6 +899,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1059,6 +1080,9 @@ collection-health-report-disabled = Data reportin is disabled fur this build con
 collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf <a data-l10n-name="crash-reports-link">Lairn mair</a>
     .accesskey = c
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1107,6 +1131,9 @@ httpsonly-radio-enabled-pbm =
     .label = Yaise HTTPS-Anely Mode in private windaes, jist
 httpsonly-radio-disabled =
     .label = Dinnae yaise HTTPS-Anely Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

@@ -378,6 +378,9 @@ choose-bookmark =
     .label = garasun' markadır...
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -470,6 +473,8 @@ search-keyword-warning-bookmark = Nuguan' na nī 'ngà rajsun 'ngo markador. Gan
 ## Containers Section
 
 containers-header = Rakïj ñanj mā ma
+containers-section-header =
+    .heading = Rakïj ñanj mā ma
 containers-add-button =
     .label = Nuto' sa nakàa
     .accesskey = A
@@ -587,6 +592,13 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Si yugui aga'a
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Si yugui aga'a
+sync-device-name-change-2 =
+    .label = Naduno' si yugui aga'a
+    .accesskey = h
 sync-device-name-change =
     .label = Naduno' si yugui aga'a...
     .accesskey = h
@@ -648,6 +660,12 @@ forms-master-pw-change =
     .label = Nadunā Da’nga’ Huì A’nïn’ïn
     .accesskey = N
 forms-master-pw-fips-desc = Nu ga’ue nādunaj Da’nga’ Huìi
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -725,6 +743,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Dugumi' datos
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -870,6 +894,9 @@ addon-recommendations-link = Gahuin chrūn doj
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj sun 'ngà nej kopilacion
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -901,6 +928,12 @@ certs-devices =
     .label = Nej sa dugumi...
     .accesskey = N
 certs-devices-enable-fips = Nachrun FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

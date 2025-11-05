@@ -804,6 +804,8 @@ remove-addon-engine-alert = 若要移除此搜尋引擎，請先移除相關的�
 containers-back-button2 =
     .aria-label = 回到選項頁面
 containers-header = 容器分頁
+containers-section-header =
+    .heading = 容器分頁
 containers-add-button =
     .label = 新增容器
     .accesskey = A
@@ -968,6 +970,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = 裝置名稱
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = 裝置名稱
+sync-device-name-change-2 =
+    .label = 更改裝置名稱
+    .accesskey = h
 sync-device-name-change =
     .label = 更改裝置名稱…
     .accesskey = h
@@ -1304,6 +1313,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = 顯示熱門搜尋建議
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = 來自 { -brand-short-name } 的建議
+addressbar-locbar-suggest-all-option-desc = 取得您搜尋內容的相關建議。
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = 來自 { -brand-short-name } 的建議

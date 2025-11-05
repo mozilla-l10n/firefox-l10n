@@ -573,6 +573,9 @@ choose-bookmark =
     .label = Favorits…
     .accesskey = s
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contengut de la { -firefox-home-brand-name }
@@ -697,6 +700,8 @@ search-keyword-warning-bookmark = Avètz causit un mot clau que ja es utilizat p
 containers-back-button2 =
     .aria-label = Tornar als paramètres
 containers-header = Onglets de contenedor
+containers-section-header =
+    .heading = Onglets de contenedor
 containers-add-button =
     .label = Apondre un contenedor novèl
     .accesskey = A
@@ -854,6 +859,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Nom de l'aparelh
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nom de l'aparelh
+sync-device-name-change-2 =
+    .label = Cambiar lo nom del periferic
+    .accesskey = h
 sync-device-name-change =
     .label = Cambiar lo nom del periferic…
     .accesskey = h

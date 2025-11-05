@@ -816,6 +816,8 @@ remove-addon-engine-alert = Bu arama motorunu silebilmek için ilgili eklentiyi 
 containers-back-button2 =
     .aria-label = Ayarlara dön
 containers-header = Kapsayıcı sekmeler
+containers-section-header =
+    .heading = Kapsayıcı sekmeler
 containers-add-button =
     .label = Yeni kapsayıcı ekle
     .accesskey = e
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Cihaz adı
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Cihaz adı
+sync-device-name-change-2 =
+    .label = Cihaz adını değiştir
+    .accesskey = C
 sync-device-name-change =
     .label = Cihaz adını değiştir…
     .accesskey = C
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Arama trendi önerilerini göster
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = { -brand-short-name } önerileri
+addressbar-locbar-suggest-all-option-desc = Aramanızla ilgili web sitesi önerileri alın.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } önerileri

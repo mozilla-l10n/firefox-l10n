@@ -612,6 +612,9 @@ choose-bookmark =
     .label = Отметка…
     .accesskey = О
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Съдържание на { -firefox-home-brand-name }
@@ -747,6 +750,8 @@ search-keyword-warning-bookmark = Избрали сте дума, която в�
 containers-back-button2 =
     .aria-label = Към настройките
 containers-header = Изолирани раздели
+containers-section-header =
+    .heading = Изолирани раздели
 containers-add-button =
     .label = Нов изолатор
     .accesskey = и
@@ -911,6 +916,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Име на текущото устройство
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Име на текущото устройство
+sync-device-name-change-2 =
+    .label = Преименуване
+    .accesskey = м
 sync-device-name-change =
     .label = Преименуване…
     .accesskey = м
@@ -1199,6 +1211,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Показване на набиращи популярност предложения за търсене
     .accesskey = щ
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Предложения от { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Получавайте предложения от мрежата, свързани с вашето търсене.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Предложения от { -brand-short-name }

@@ -575,6 +575,9 @@ choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contingut de l'{ -firefox-home-brand-name }
@@ -703,6 +706,8 @@ search-keyword-warning-bookmark = Heu triat una paraula clau que ja utilitza una
 containers-back-button2 =
     .aria-label = Torna als paràmetres
 containers-header = Pestanyes de contenidor
+containers-section-header =
+    .heading = Pestanyes de contenidor
 containers-add-button =
     .label = Afegeix un contenidor nou
     .accesskey = A
@@ -857,6 +862,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Nom del dispositiu
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nom del dispositiu
+sync-device-name-change-2 =
+    .label = Canvia el nom del dispositiu
+    .accesskey = v
 sync-device-name-change =
     .label = Canvia el nom del dispositiu…
     .accesskey = v

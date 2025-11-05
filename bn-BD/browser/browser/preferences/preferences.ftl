@@ -327,7 +327,7 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = নতুন উইন্ডো এবং ট্যাব
 home-new-windows-tabs-description2 = নীড় পাতা, নতুন ইউন্ডো এবং নতুন ট্যাব খুলে আপনি যা দেখতে চান তা নির্বাচন করুন।
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 home-homepage-mode-label = নীড়পাতা এবং নতুন পর্দা
 home-newtabs-mode-label = নতুন ট্যাবগুলি
@@ -354,6 +354,9 @@ use-current-pages =
 choose-bookmark =
     .label = বুকমার্ক ব্যবহার করুন
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -438,6 +441,8 @@ search-keyword-warning-bookmark = আপনার দেয়া কীওয়া�
 ## Containers Section
 
 containers-header = কন্টেইনার ট্যাব
+containers-section-header =
+    .heading = কন্টেইনার ট্যাব
 containers-add-button =
     .label = নতুন কন্টেইনার যোগ
     .accesskey = A
@@ -520,6 +525,13 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = ডিভাইসের নাম
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = ডিভাইসের নাম
+sync-device-name-change-2 =
+    .label = ডিভাইসের নাম পরিবর্তন
+    .accesskey = h
 sync-device-name-change =
     .label = ডিভাইসের নাম পরিবর্তন…
     .accesskey = h

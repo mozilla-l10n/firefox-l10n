@@ -808,6 +808,8 @@ remove-addon-engine-alert = 若要移除此搜索引擎，请先移除关联的�
 containers-back-button2 =
     .aria-label = 回到设置
 containers-header = 身份标签页
+containers-section-header =
+    .heading = 身份标签页
 containers-add-button =
     .label = 添加新身份
     .accesskey = A
@@ -972,6 +974,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = 设备名称
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = 设备名称
+sync-device-name-change-2 =
+    .label = 更改设备名称
+    .accesskey = h
 sync-device-name-change =
     .label = 更改设备名称…
     .accesskey = h
@@ -1308,6 +1317,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = 显示热门搜索建议
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = { -brand-short-name } 的建议
+addressbar-locbar-suggest-all-option-desc = 从网络上获取与您的搜索相关的建议。
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } 的建议

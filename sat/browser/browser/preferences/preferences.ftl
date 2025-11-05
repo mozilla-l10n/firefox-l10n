@@ -549,6 +549,9 @@ choose-bookmark =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } ᱡᱤᱱᱤᱥ
@@ -668,6 +671,8 @@ search-keyword-warning-bookmark = ᱟᱢ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫᱽ �
 containers-back-button2 =
     .aria-label = ᱥᱟᱡᱟᱣ ᱛᱮ ᱨᱤᱣᱟᱹᱲ
 containers-header = ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ
+containers-section-header =
+    .heading = ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ
 containers-add-button =
     .label = ᱱᱚᱶᱟ ᱫᱚᱦᱚᱣᱟᱜ ᱥᱚᱞᱮᱫ ᱢᱮ
     .accesskey = A
@@ -805,6 +810,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = ᱥᱟᱫᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱧᱩᱛᱩᱢ
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = ᱥᱟᱫᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱧᱩᱛᱩᱢ
+sync-device-name-change-2 =
+    .label = ᱥᱚᱫᱷᱚᱱ ᱧᱩᱛᱩᱢ ᱵᱚᱫᱚᱞ ᱢᱮ
+    .accesskey = h
 sync-device-name-change =
     .label = ᱥᱚᱫᱷᱚᱱ ᱧᱩᱛᱩᱢ ᱵᱚᱫᱚᱞ ᱢᱮ…
     .accesskey = h
@@ -896,6 +908,9 @@ primary-password-os-auth-dialog-message-win = ᱢᱤᱫᱴᱟᱝ ᱫᱟᱵᱟᱝ
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ᱢᱤᱫᱴᱟᱝ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱛᱮᱭᱟᱨ ᱢᱮ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1199,6 +1214,9 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 privacy-segmentation-radio-on =
     .label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

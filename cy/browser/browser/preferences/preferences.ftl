@@ -832,6 +832,8 @@ remove-addon-engine-alert = I dynnu'r peiriant chwilio hwn, tynnwch yr ychwanegy
 containers-back-button2 =
     .aria-label = Nôl i'r Gosodiadau
 containers-header = Tabiau Cynwysyddion
+containers-section-header =
+    .heading = Tabiau Cynwysyddion
 containers-add-button =
     .label = Ychwanegu Cynhwysydd Newydd
     .accesskey = Y
@@ -996,6 +998,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Enw Dyfais
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Enw Dyfais
+sync-device-name-change-2 =
+    .label = Newid Enw'r Ddyfais
+    .accesskey = N
 sync-device-name-change =
     .label = Newid Enw'r Ddyfais…
     .accesskey = N
@@ -1332,6 +1341,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Dangos awgrymiadau chwilio tuedd
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Awgrymiadau gan { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Derbyn awgrymiadau o'r we am eich chwilio.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Awgrymiadau gan { -brand-short-name }

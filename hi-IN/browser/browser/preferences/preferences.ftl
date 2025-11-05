@@ -394,6 +394,9 @@ choose-bookmark =
     .label = बुकमार्क का उपयोग करें…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -485,6 +488,8 @@ search-keyword-warning-bookmark = आपने एक बीजशब्द च�
 ## Containers Section
 
 containers-header = पात्र टैब
+containers-section-header =
+    .heading = पात्र टैब
 containers-add-button =
     .label = नया पात्र जोड़े
     .accesskey = A
@@ -599,6 +604,13 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = डिवाइस का नाम
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = डिवाइस का नाम
+sync-device-name-change-2 =
+    .label = उपकरण का नाम बदले
+    .accesskey = h
 sync-device-name-change =
     .label = उपकरण का नाम बदले…
     .accesskey = h
@@ -660,6 +672,9 @@ forms-windows-sso-learn-more-link = अधिक जानें
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -731,6 +746,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = अपवादों को प्रबंधित करें...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -880,6 +901,9 @@ addon-recommendations-link = और जानें
 # or builds with no Telemetry support available.
 collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -918,6 +942,9 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = अधिक जानें
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

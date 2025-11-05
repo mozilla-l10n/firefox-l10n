@@ -625,6 +625,9 @@ choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contignûts par { -firefox-home-brand-name }
@@ -775,6 +778,8 @@ remove-addon-engine-alert = Par gjavâ chest motôr di ricercje gjave il compone
 containers-back-button2 =
     .aria-label = Torne aes impostazions
 containers-header = Schedis contignidôr
+containers-section-header =
+    .heading = Schedis contignidôr
 containers-add-button =
     .label = Zonte gnûf contignidôr
     .accesskey = Z
@@ -939,6 +944,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Non dispositîf
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Non dispositîf
+sync-device-name-change-2 =
+    .label = Cambie non dal dispositîf
+    .accesskey = n
 sync-device-name-change =
     .label = Cambie non dal dispositîf…
     .accesskey = n
@@ -1267,6 +1279,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostre sugjeriments di ricercje di tindince
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Sugjeriments di { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Ricêf sugjeriments dal web relatîfs ae tô ricercje.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugjeriments di { -brand-short-name }

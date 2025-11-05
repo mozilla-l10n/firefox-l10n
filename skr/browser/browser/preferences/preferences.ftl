@@ -568,6 +568,9 @@ choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } مواد
@@ -696,6 +699,8 @@ search-keyword-warning-bookmark = تساں اینجھا کلیدی لفظ منت
 containers-back-button2 =
     .aria-label = ترتیباں تے واپس ونڄو
 containers-header = کنٹینر ٹیباں
+containers-section-header =
+    .heading = کنٹینر ٹیباں
 containers-add-button =
     .label = نواں کنٹینر شامل کرو
     .accesskey = A
@@ -850,6 +855,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = ڈیوائس دا ناں
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = ڈیوائس دا ناں
+sync-device-name-change-2 =
+    .label = ڈیوائس ناں تبدیل کرو{ " " }
+    .accesskey = h
 sync-device-name-change =
     .label = ڈیوائس ناں تبدیل کرو …
     .accesskey = h

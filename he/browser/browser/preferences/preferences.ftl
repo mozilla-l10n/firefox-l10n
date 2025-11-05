@@ -816,6 +816,8 @@ remove-addon-engine-alert = כדי להסיר את מנוע חיפוש זה, י�
 containers-back-button2 =
     .aria-label = חזרה להגדרות
 containers-header = מגירת לשוניות
+containers-section-header =
+    .heading = מגירת לשוניות
 containers-add-button =
     .label = הוספת מגירה חדשה
     .accesskey = מ
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = שם המכשיר
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = שם המכשיר
+sync-device-name-change-2 =
+    .label = שינוי שם מכשיר
+    .accesskey = ש
 sync-device-name-change =
     .label = שינוי שם מכשיר…
     .accesskey = ש
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = הצגת הצעות חיפוש פופולריים
     .accesskey = פ
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = הצעות מ־{ -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = קבלת הצעות מהאינטרנט הקשורות לחיפוש שלך.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = הצעות מ־{ -brand-short-name }

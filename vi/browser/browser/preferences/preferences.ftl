@@ -800,6 +800,8 @@ remove-addon-engine-alert = Để xóa công cụ tìm kiếm này, hãy xóa ti
 containers-back-button2 =
     .aria-label = Quay lại Cài đặt
 containers-header = Ngăn chứa thẻ
+containers-section-header =
+    .heading = Ngăn chứa thẻ
 containers-add-button =
     .label = Thêm ngăn chứa mới
     .accesskey = T
@@ -964,6 +966,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Tên thiết bị
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Tên thiết bị
+sync-device-name-change-2 =
+    .label = Thay đổi tên thiết bị
+    .accesskey = h
 sync-device-name-change =
     .label = Thay đổi tên thiết bị…
     .accesskey = h
@@ -1300,6 +1309,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Hiển thị đề xuất tìm kiếm thịnh hành
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Đề xuất từ { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Nhận đề xuất từ ​​web liên quan đến tìm kiếm của bạn.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Đề xuất từ { -brand-short-name }

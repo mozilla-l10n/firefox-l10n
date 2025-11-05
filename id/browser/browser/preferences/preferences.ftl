@@ -611,6 +611,9 @@ choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Konten { -firefox-home-brand-name }
@@ -749,6 +752,8 @@ remove-engine-remove = Buang
 containers-back-button2 =
     .aria-label = Kembali ke Pengaturan
 containers-header = Tab Kontainer
+containers-section-header =
+    .heading = Tab Kontainer
 containers-add-button =
     .label = Tambahkan Kontainer Baru
     .accesskey = T
@@ -913,6 +918,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nama Peranti
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nama Peranti
+sync-device-name-change-2 =
+    .label = Ubah Nama Peranti
+    .accesskey = h
 sync-device-name-change =
     .label = Ubah Nama Peranti…
     .accesskey = h
@@ -1225,6 +1237,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Tampilkan saran pencarian yang sedang tren
     .accesskey = a
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Saran dari { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Dapatkan saran dari web yang terkait dengan pencarian Anda.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Saran dari { -brand-short-name }

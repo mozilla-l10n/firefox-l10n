@@ -28,6 +28,17 @@ should-restart-title = { -brand-short-name } tunandi taaga
 should-restart-ok = { -brand-short-name } tunandi taaga sohõ
 restart-later = Tunandi taaga nd'a too kayna
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Ceeci duurawey
@@ -241,6 +252,9 @@ network-proxy-connection-settings =
     .label = Kayandiyaney…
     .accesskey = a
 
+## Home Section
+
+
 ## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -257,6 +271,18 @@ use-current-pages =
 choose-bookmark =
     .label = Doo-šilbay goyandi...
     .accesskey = D
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
 
 ## Search Section
 
@@ -286,6 +312,8 @@ search-keyword-warning-bookmark = War na kufalkalima suuba kaŋ goo goy ra doo-�
 ## Containers Section
 
 containers-header = Diikey kanjey
+containers-section-header =
+    .heading = Diikey kanjey
 containers-add-button =
     .label = Sun taaga tonton
     .accesskey = o
@@ -326,6 +354,12 @@ sync-sign-in =
     .label = Huru
     .accesskey = H
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -338,6 +372,13 @@ sync-engine-history =
 ## The device name controls.
 
 sync-device-name-header = Jinay maa
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Jinay maa
+sync-device-name-change-2 =
+    .label = Jinay maa barmay
+    .accesskey = J
 sync-device-name-change =
     .label = Jinay maa barmay…
     .accesskey = J
@@ -358,6 +399,12 @@ sync-verification-sent-body = Tabatandiyan dobu sanbandi { $email } do.
 sync-verification-not-sent-title = Mana hin ka tabatandiyan sanba
 sync-verification-not-sent-body = Ir mana hin ka tabatandiyan bataga sanba sohõda, wa ceeci koyne waati foo.
 
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -373,6 +420,12 @@ forms-master-pw-change =
     .label = Takaddaɲaa šennikufal barmay
     .accesskey = T
 forms-master-pw-fips-desc = Šennikufal mana hin ka barmay mana
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -408,6 +461,15 @@ history-clear-on-close-settings =
     .label = Kayandiyaney…
     .accesskey = n
 
+## Privacy Section - Site Data
+
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-locbar-bookmarks-option =
@@ -418,6 +480,22 @@ addressbar-locbar-openpage-option =
     .accesskey = f
 addressbar-suggestions-settings = Ibaa&ey barmay ceecijinay honnandiyaney se
 
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-notification = Bangandiyaney
@@ -427,6 +505,12 @@ permissions-block-popups =
 permissions-addon-exceptions =
     .label = Hasarawey…
     .accesskey = H
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -451,6 +535,12 @@ certs-enable-ocsp =
     .label = Hayyan OCSP zaabi feršikey ka sohõda tabatandi tiira booriyanoo cimandi.
     .accesskey = H
 certs-devices-enable-fips = FIPS tunandi
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

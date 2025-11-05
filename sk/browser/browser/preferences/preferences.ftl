@@ -820,6 +820,8 @@ remove-addon-engine-alert = Ak chcete odstrániť tento vyhľadávací modul, od
 containers-back-button2 =
     .aria-label = Späť na nastavenia
 containers-header = Kontajnerové karty
+containers-section-header =
+    .heading = Kontajnerové karty
 containers-add-button =
     .label = Pridať nový kontajner
     .accesskey = P
@@ -984,6 +986,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Názov zariadenia
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Názov zariadenia
+sync-device-name-change-2 =
+    .label = Zmeniť názov zariadenia
+    .accesskey = m
 sync-device-name-change =
     .label = Zmeniť názov zariadenia…
     .accesskey = m
@@ -1320,6 +1329,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Zobrazovať návrhy populárnych vyhľadávaní
     .accesskey = n
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Návrhy od { -brand-short-name(case: "gen") }
+addressbar-locbar-suggest-all-option-desc = Získajte návrhy z webu súvisiace s vaším vyhľadávaním.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Návrhy od { -brand-short-name(case: "gen") }

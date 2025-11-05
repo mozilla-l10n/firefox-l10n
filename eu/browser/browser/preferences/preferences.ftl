@@ -797,6 +797,8 @@ remove-addon-engine-alert = Bilaketa-motor hau kentzeko, kendu erlazionatutako g
 containers-back-button2 =
     .aria-label = Itzuli ezarpenetara
 containers-header = Edukiontzi-fitxak
+containers-section-header =
+    .heading = Edukiontzi-fitxak
 containers-add-button =
     .label = Gehitu edukiontzi berria
     .accesskey = G
@@ -954,6 +956,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Gailuaren izena
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Gailuaren izena
+sync-device-name-change-2 =
+    .label = Aldatu gailuaren izena
+    .accesskey = d
 sync-device-name-change =
     .label = Aldatu gailuaren izena…
     .accesskey = d
@@ -1414,6 +1423,9 @@ privacy-segmentation-radio-off =
     .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

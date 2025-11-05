@@ -824,6 +824,8 @@ remove-addon-engine-alert = Zo byšće tutu pytawu wotstronił, wotstrońće zwj
 containers-back-button2 =
     .aria-label = Wróćo k nastajenjam
 containers-header = Kontejnerowe rajtarki
+containers-section-header =
+    .heading = Kontejnerowe rajtarki
 containers-add-button =
     .label = Nowy kontejner přidać
     .accesskey = k
@@ -988,6 +990,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Mjeno grata
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Mjeno grata
+sync-device-name-change-2 =
+    .label = Mjeno grata změnić
+    .accesskey = z
 sync-device-name-change =
     .label = Mjeno grata změnić…
     .accesskey = z
@@ -1324,6 +1333,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Trendowe pytanske namjety pokazać
     .accesskey = d
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Namjety wot { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Wobstarajće sej namjety z weba nastupajo waše pytanje.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Namjety wot { -brand-short-name }

@@ -799,6 +799,8 @@ remove-addon-engine-alert = Барои тоза кардани ин низоми
 containers-back-button2 =
     .aria-label = Бозгашт ба Танзимот
 containers-header = Варақаҳои дарбаргиранда
+containers-section-header =
+    .heading = Варақаҳои дарбаргиранда
 containers-add-button =
     .label = Илова кардани дарбаргирандаи нав
     .accesskey = И
@@ -963,6 +965,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Номи дастгоҳ
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Номи дастгоҳ
+sync-device-name-change-2 =
+    .label = Иваз кардани номи дастгоҳ
+    .accesskey = И
 sync-device-name-change =
     .label = Иваз кардани номи дастгоҳ…
     .accesskey = И
@@ -1283,6 +1292,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Намоиши пешниҳодҳои ҷустуҷӯи ҳавасангез
     .accesskey = Н
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Пешниҳодҳо аз «{ -brand-short-name }»
+addressbar-locbar-suggest-all-option-desc = Гирифтани пешниҳодҳо аз Интернет дар асоси ҷустуҷӯи шумо.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Пешниҳодҳо аз «{ -brand-short-name }»

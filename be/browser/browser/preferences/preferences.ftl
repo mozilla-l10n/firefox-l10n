@@ -820,6 +820,8 @@ remove-addon-engine-alert = Каб выдаліць гэтую пошукаву�
 containers-back-button2 =
     .aria-label = Вярнуцца да наладаў
 containers-header = Кантэйнеры картак
+containers-section-header =
+    .heading = Кантэйнеры картак
 containers-add-button =
     .label = Дадаць новы кантэйнер
     .accesskey = Д
@@ -984,6 +986,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Назва прылады
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Назва прылады
+sync-device-name-change-2 =
+    .label = Змяніць назву прылады
+    .accesskey = м
 sync-device-name-change =
     .label = Змяніць назву прылады…
     .accesskey = м
@@ -1320,6 +1329,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Паказваць папулярныя пошукавыя прапановы
     .accesskey = п
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Прапановы ад { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Атрымлівайце прапановы з інтэрнэту, звязаныя з вашым пошукам.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Прапановы ад { -brand-short-name }

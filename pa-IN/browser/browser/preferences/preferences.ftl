@@ -816,6 +816,8 @@ remove-addon-engine-alert = ਇਸ ਖੋਜ ਇੰਜਣ ਨੂੰ ਹਟਾਉ
 containers-back-button2 =
     .aria-label = ਸੈਟਿੰਗਾਂ ‘ਤੇ ਵਾਪਸ ਜਾਓ
 containers-header = ਕਨਟਰੇਨਰ ਟੈਬਾਂ
+containers-section-header =
+    .heading = ਕਨਟਰੇਨਰ ਟੈਬਾਂ
 containers-add-button =
     .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
     .accesskey = A
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = ਡਿਵਾਈਸ ਨਾਂ
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = ਡਿਵਾਈਸ ਨਾਂ
+sync-device-name-change-2 =
+    .label = …ਡਿਵਾਈਸ ਦਾ ਨਾਂ ਚੁਣੋ
+    .accesskey = h
 sync-device-name-change =
     .label = …ਡਿਵਾਈਸ ਦਾ ਨਾਂ ਚੁਣੋ
     .accesskey = h
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = ਖੋਜ ਸੁਝਾਆਵਾਂ ਦੇ ਰੁਝਾਨਾਂ ਨੂੰ ਵੇਖੋ
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = { -brand-short-name } ਵਲੋਂ ਸੁਝਾਅ
+addressbar-locbar-suggest-all-option-desc = ਤੁਹਾਡੀ ਖੋਜ ਨਾਲ ਸੁਝਾਅ ਵੈੱਬ ਤੋਂ ਲਵੋ।
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } ਵਲੋਂ ਸੁਝਾਅ

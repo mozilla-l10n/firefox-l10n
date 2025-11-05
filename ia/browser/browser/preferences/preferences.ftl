@@ -816,6 +816,8 @@ remove-addon-engine-alert = Pro remover iste motor de recerca, remove le additiv
 containers-back-button2 =
     .aria-label = Retornar al configuration
 containers-header = Schedas contentor
+containers-section-header =
+    .heading = Schedas contentor
 containers-add-button =
     .label = Adder un nove contentor
     .accesskey = A
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nomine del apparato
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nomine del apparato
+sync-device-name-change-2 =
+    .label = Cambiar le nomine del apparato
+    .accesskey = C
 sync-device-name-change =
     .label = Cambiar le nomine del apparato…
     .accesskey = C
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Monstrar suggestiones de recercas popular
     .accesskey = p
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Suggestiones de { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Recipe le suggestiones del web relative a tu recerca.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Suggestiones de { -brand-short-name }

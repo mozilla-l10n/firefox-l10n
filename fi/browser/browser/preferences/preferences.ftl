@@ -816,6 +816,8 @@ remove-addon-engine-alert = Poistaaksesi tämän hakukoneen, poista siihen liitt
 containers-back-button2 =
     .aria-label = Takaisin asetuksiin
 containers-header = Eristetyt välilehdet
+containers-section-header =
+    .heading = Eristetyt välilehdet
 containers-add-button =
     .label = Lisää uusi eristystila
     .accesskey = L
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Laitteen nimi
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Laitteen nimi
+sync-device-name-change-2 =
+    .label = Muuta laitteen nimeä
+    .accesskey = M
 sync-device-name-change =
     .label = Muuta laitteen nimeä…
     .accesskey = M
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Näytä suositut hakuehdotukset
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Ehdotuksia palvelusta { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Hanki hakuusi liittyviä ehdotuksia verkosta.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Ehdotuksia palvelusta { -brand-short-name }

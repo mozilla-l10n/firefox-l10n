@@ -717,6 +717,8 @@ remove-addon-engine-alert = Այս որոնիչը հեռացնելու համա�
 containers-back-button2 =
     .aria-label = Վերադառնալ կարգավորումներին
 containers-header = Պարունակ ներդիրներ
+containers-section-header =
+    .heading = Պարունակ ներդիրներ
 containers-add-button =
     .label = Ավելացել նոր պարունակ
     .accesskey = Ա
@@ -880,6 +882,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Սարքի անունը
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Սարքի անունը
+sync-device-name-change-2 =
+    .label = Փոխել սարքի անունը
+    .accesskey = ո
 sync-device-name-change =
     .label = Փոխել սարքի անունը…
     .accesskey = ո
@@ -1101,6 +1110,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 

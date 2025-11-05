@@ -582,6 +582,9 @@ choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } අන්තර්ගතය
@@ -713,6 +716,8 @@ remove-engine-remove = ඉවත් කරන්න
 containers-back-button2 =
     .aria-label = සැකසුම් වෙත ආපසු
 containers-header = පටිති අඩංගු
+containers-section-header =
+    .heading = පටිති අඩංගු
 containers-add-button =
     .label = නව අඩංගුවක් යොදන්න
     .accesskey = A
@@ -867,6 +872,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = උපාංගයේ නම
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = උපාංගයේ නම
+sync-device-name-change-2 =
+    .label = උපාංගයේ නම වෙනස් කරන්න
+    .accesskey = h
 sync-device-name-change =
     .label = උපාංගයේ නම වෙනස් කරන්න...
     .accesskey = h

@@ -816,6 +816,8 @@ remove-addon-engine-alert = For å fjerne denne søkemotoren, fjern det tilknytt
 containers-back-button2 =
     .aria-label = Tilbake til innstillinger
 containers-header = Beholderfaner
+containers-section-header =
+    .heading = Beholderfaner
 containers-add-button =
     .label = Legg til ny beholder
     .accesskey = L
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Enhetsnavn
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Enhetsnavn
+sync-device-name-change-2 =
+    .label = Endre enhetsnavn
+    .accesskey = E
 sync-device-name-change =
     .label = Endre enhetsnavn…
     .accesskey = E
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Vis populære søkeforslag
     .accesskey = s
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Forslag fra { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Få forslag fra nettet relatert til søket ditt
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Forslag fra { -brand-short-name }

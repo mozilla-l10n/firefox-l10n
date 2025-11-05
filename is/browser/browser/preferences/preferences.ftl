@@ -620,6 +620,9 @@ choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } efni
@@ -765,6 +768,8 @@ remove-addon-engine-alert = Til að fjarlægja þessa leitarvél skaltu fjarlæg
 containers-back-button2 =
     .aria-label = Til baka í stillingar
 containers-header = Sérefnisflipar
+containers-section-header =
+    .heading = Sérefnisflipar
 containers-add-button =
     .label = Bæta við nýju sérefni
     .accesskey = a
@@ -929,6 +934,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Tækjanafn
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Tækjanafn
+sync-device-name-change-2 =
+    .label = Breyta nafni tækis
+    .accesskey = B
 sync-device-name-change =
     .label = Breyta nafni tækis…
     .accesskey = B
@@ -1217,6 +1229,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Sýna vinsælar leitartillögur
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Tillögur frá { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Fáðu tillögur af vefnum sem tengjast leitinni þinni.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Tillögur frá { -brand-short-name }

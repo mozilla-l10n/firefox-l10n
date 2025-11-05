@@ -541,6 +541,9 @@ choose-bookmark =
     .label = Tinklalapis iš adresyno…
     .accesskey = T
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = „{ -firefox-home-brand-name }“ turinys
@@ -660,6 +663,8 @@ search-keyword-warning-bookmark = Įvedėte reikšminį žodį, kurį jau naudoj
 containers-back-button2 =
     .aria-label = Grįžti į nuostatas
 containers-header = Sudėtinio rodinio kortelės
+containers-section-header =
+    .heading = Sudėtinio rodinio kortelės
 containers-add-button =
     .label = Pridėti naują sudėtinį rodinį
     .accesskey = P
@@ -795,6 +800,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Įrenginio pavadinimas
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Įrenginio pavadinimas
+sync-device-name-change-2 =
+    .label = Keisti įrenginio pavadinimą
+    .accesskey = e
 sync-device-name-change =
     .label = Keisti įrenginio pavadinimą…
     .accesskey = e
@@ -885,6 +897,9 @@ primary-password-os-auth-dialog-message-win = Norėdami sukurti pagrindinį slap
 primary-password-os-auth-dialog-message-macosx = sukurti pagrindinį slaptažodį
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Žurnalas
@@ -968,6 +983,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tvarkyti išimtis…
     .accesskey = m
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1157,6 +1178,9 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Rodyti detalią informaciją
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1205,6 +1229,9 @@ httpsonly-radio-enabled-pbm =
     .label = Įjungti tik HTTPS veikseną privačiojo naršymo languose
 httpsonly-radio-disabled =
     .label = Neįjungti tik HTTPS veiksenos
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

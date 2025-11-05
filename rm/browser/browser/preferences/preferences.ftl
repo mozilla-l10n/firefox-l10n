@@ -625,6 +625,9 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }
@@ -775,6 +778,8 @@ remove-addon-engine-alert = Per allontanar questa maschina da tschertgar, allont
 containers-back-button2 =
     .aria-label = Turnar als parameters
 containers-header = Tabs da container
+containers-section-header =
+    .heading = Tabs da container
 containers-add-button =
     .label = Agiuntar in nov container
     .accesskey = A
@@ -939,6 +944,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Num da l'apparat
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Num da l'apparat
+sync-device-name-change-2 =
+    .label = Midar il num da l'apparat
+    .accesskey = M
 sync-device-name-change =
     .label = Midar il num da l'apparat…
     .accesskey = M
@@ -1251,6 +1263,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mussar propostas da trends da tschertga
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Propostas da { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Retschaiva propostas dal web en connex cun tia tschertga.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Propostas da { -brand-short-name }

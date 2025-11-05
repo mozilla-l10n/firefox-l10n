@@ -820,6 +820,8 @@ remove-addon-engine-alert = Чтобы удалить эту поисковую 
 containers-back-button2 =
     .aria-label = Вернуться в настройки
 containers-header = Вкладки в контейнере
+containers-section-header =
+    .heading = Вкладки в контейнере
 containers-add-button =
     .label = Добавить новый контейнер
     .accesskey = а
@@ -984,6 +986,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Имя устройства
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Имя устройства
+sync-device-name-change-2 =
+    .label = Изменить имя устройства
+    .accesskey = м
 sync-device-name-change =
     .label = Изменить имя устройства…
     .accesskey = м
@@ -1320,6 +1329,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Отображать популярные поисковые предложения
     .accesskey = е
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Предложения от { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Получать предложения из сети на основе вашего поиска.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Предложения от { -brand-short-name }

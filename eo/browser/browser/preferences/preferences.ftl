@@ -816,6 +816,8 @@ remove-addon-engine-alert = Por forigi tiun ĉi serĉilon, forigu la asociitan a
 containers-back-button2 =
     .aria-label = Reen al agordoj
 containers-header = Ingaj langetoj
+containers-section-header =
+    .heading = Ingaj langetoj
 containers-add-button =
     .label = Aldoni novan ingon
     .accesskey = A
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nomo de aparato
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nomo de aparato
+sync-device-name-change-2 =
+    .label = Ŝanĝi nomon de aparato
+    .accesskey = a
 sync-device-name-change =
     .label = Ŝanĝi nomon de aparato…
     .accesskey = a
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Montri sugestojn pri popularaj serĉoj
     .accesskey = s
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Sugestoj de { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Ricevu sugestojn el la reto, kiu rilatas vian serĉon
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugestoj de { -brand-short-name }

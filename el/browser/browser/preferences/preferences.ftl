@@ -816,6 +816,8 @@ remove-addon-engine-alert = Για να αφαιρέσετε αυτήν τη μ�
 containers-back-button2 =
     .aria-label = Πίσω στις ρυθμίσεις
 containers-header = Θεματικές καρτέλες
+containers-section-header =
+    .heading = Θεματικές καρτέλες
 containers-add-button =
     .label = Προσθήκη νέας θεματικής ενότητας
     .accesskey = Π
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Όνομα συσκευής
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Όνομα συσκευής
+sync-device-name-change-2 =
+    .label = Αλλαγή ονόματος συσκευής
+    .accesskey = λ
 sync-device-name-change =
     .label = Αλλαγή ονόματος συσκευής…
     .accesskey = λ
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Εμφάνιση δημοφιλών προτάσεων αναζήτησης
     .accesskey = φ
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Προτάσεις από το { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Λάβετε προτάσεις από το διαδίκτυο που σχετίζονται με την αναζήτησή σας.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Προτάσεις από το { -brand-short-name }

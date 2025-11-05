@@ -816,6 +816,8 @@ remove-addon-engine-alert = A keresőszolgáltatás törléséhez távolítsa el
 containers-back-button2 =
     .aria-label = Vissza a Beállításokhoz
 containers-header = Konténerlapok
+containers-section-header =
+    .heading = Konténerlapok
 containers-add-button =
     .label = Új konténer hozzáadása
     .accesskey = a
@@ -980,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Eszköznév
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Eszköznév
+sync-device-name-change-2 =
+    .label = Eszköznév módosítása
+    .accesskey = m
 sync-device-name-change =
     .label = Eszköznév módosítása…
     .accesskey = m
@@ -1316,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Felkapott keresési javaslatok megjelenítése
     .accesskey = F
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Javaslatok a { -brand-short-name }tól
+addressbar-locbar-suggest-all-option-desc = Kapjon a kereséséhez kapcsolódó javaslatokat a webről.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Javaslatok a { -brand-short-name }tól

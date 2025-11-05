@@ -618,6 +618,9 @@ choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Agbur { -firefox-home-brand-name }
@@ -752,6 +755,8 @@ remove-engine-remove = Kkes
 containers-back-button2 =
     .aria-label = Uɣal ɣer yiɣewwaren
 containers-header = Iccaren imagbaren
+containers-section-header =
+    .heading = Iccaren imagbaren
 containers-add-button =
     .label = Rnu amagbar-nniḍen
     .accesskey = R
@@ -909,6 +914,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Isem n yibenk
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Isem n yibenk
+sync-device-name-change-2 =
+    .label = Beddel isem n yibenk
+    .accesskey = q
 sync-device-name-change =
     .label = Beddel isem n yibenk…
     .accesskey = q
@@ -1203,6 +1215,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Sken isumar n unadi i yettuɛelqen
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Isumar seg { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Awi isumar seg web yeqqnen ɣer unadi-k·m.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Isumar seg { -brand-short-name }

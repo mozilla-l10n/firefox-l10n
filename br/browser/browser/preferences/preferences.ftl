@@ -543,6 +543,9 @@ choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -666,6 +669,8 @@ search-keyword-warning-bookmark = Dibabet hoc'h eus ur ger alc'hwez war arver ev
 containers-back-button2 =
     .aria-label = Distreiñ d’an arventennoù
 containers-header = Ivinelloù endalc'her
+containers-section-header =
+    .heading = Ivinelloù endalc'her
 containers-add-button =
     .label = Ouzhpennañ un endalc'her nevez
     .accesskey = O
@@ -818,6 +823,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Anv an trevnad
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Anv an trevnad
+sync-device-name-change-2 =
+    .label = Kemmañ anv an trevnad
+    .accesskey = a
 sync-device-name-change =
     .label = Kemmañ anv an trevnad…
     .accesskey = a
@@ -1022,6 +1034,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1228,6 +1243,9 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

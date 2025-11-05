@@ -820,6 +820,8 @@ remove-addon-engine-alert = Przed usunięciem tej wyszukiwarki należy usunąć 
 containers-back-button2 =
     .aria-label = Wróć do ustawień
 containers-header = Karty z kontekstem
+containers-section-header =
+    .heading = Karty z kontekstem
 containers-add-button =
     .label = Dodaj kontekst
     .accesskey = D
@@ -984,6 +986,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nazwa urządzenia
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nazwa urządzenia
+sync-device-name-change-2 =
+    .label = Zmień nazwę urządzenia
+    .accesskey = n
 sync-device-name-change =
     .label = Zmień nazwę urządzenia…
     .accesskey = n
@@ -1320,6 +1329,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Popularne wyszukiwania.
     .accesskey = u
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Podpowiedzi { -brand-short-name(case: "gen") }
+addressbar-locbar-suggest-all-option-desc = Otrzymuj podpowiedzi z Internetu związane z wyszukiwanymi słowami.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Podpowiedzi { -brand-short-name(case: "gen") }

@@ -628,6 +628,9 @@ choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Вміст { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
@@ -779,6 +782,8 @@ remove-addon-engine-alert = Щоб вилучити цю пошукову сис
 containers-back-button2 =
     .aria-label = Назад до налаштувань
 containers-header = Контейнери вкладок
+containers-section-header =
+    .heading = Контейнери вкладок
 containers-add-button =
     .label = Додати новий контейнер
     .accesskey = к
@@ -943,6 +948,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Назва пристрою
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Назва пристрою
+sync-device-name-change-2 =
+    .label = Змінити
+    .accesskey = З
 sync-device-name-change =
     .label = Змінити…
     .accesskey = З
@@ -1271,6 +1283,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Показувати популярні пошукові пропозиції
     .accesskey = П
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Пропозиції від { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Отримувати пропозиції з інтернету, пов'язані з вашим пошуком.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Пропозиції від { -brand-short-name }
