@@ -290,6 +290,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } обновил коллекцию расцветок. Старые версии удалены из списка «Сохранённые темы». Получите новые версии на сайте дополнений.
 colorway-removal-notice-learn-more = Подробнее
 colorway-removal-notice-button = Получить обновлённые темы с расцветками
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Ваши настройки контраста Windows переопределяют темы { -brand-short-name }. Отключите эти настройки, чтобы использовать темы в { -brand-short-name }.
 privacy-policy = Политика приватности
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

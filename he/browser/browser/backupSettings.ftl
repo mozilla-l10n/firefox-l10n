@@ -247,3 +247,5 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = נוצר בתאריך { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ב־{ $machineName }
 backup-file-restore-file-validation-error = הקובץ הזה לא עובד. נא לנסות לבחור בקובץ אחר. <a data-l10n-name="restore-problems">עדיין יש לך בעיות?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = לא נבחר קובץ

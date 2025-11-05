@@ -113,6 +113,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>‏{ 
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = להפעלת ההרחבה יש לגשת לתוספות <img data-l10n-name="addons-icon"/> בתפריט <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = כדי להפעיל מחדש את ההרחבה הזו, יש לבקר ב<a data-l10n-name="addons-link">הרחבות וערכות נושא</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = ‏{ $name } שולטת בחלק מהגדרות דף הבית שלך.

@@ -71,6 +71,8 @@ fxa-adoption-addresses-backup-title = בואו נגבה את הכתובות הש
 fxa-adoption-addresses-backup-subtitle = ניתן להגן על הכתובות השמורות שלך על־ידי סנכרונם למכשירים שלך באמצעות הצפנה.
 fxa-adoption-credit-cards-backup-title = בואו נגבה את אמצעי התשלום שלך
 fxa-adoption-credit-cards-backup-subtitle = ניתן להגן על אמצעי התשלום שלך על־ידי סנכרונם למכשירים שלך באמצעות הצפנה.
+fxa-adoption-bookmarks-treatment-backup-title = בואו נגבה את הסימניות שלך
+fxa-adoption-bookmarks-treatment-backup-subtitle = ניתן להגן על הסימניות שלך על־ידי סנכרונם למכשירים שלך באמצעות הצפנה.
 fxa-adoption-primary-button-label = הרשמה
 
 ## Protections panel

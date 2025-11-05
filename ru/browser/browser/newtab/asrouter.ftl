@@ -75,6 +75,7 @@ fxa-adoption-addresses-backup-subtitle = Защитите сохранённые
 fxa-adoption-credit-cards-backup-title = Давайте создадим резервную копию ваших способов оплаты
 fxa-adoption-credit-cards-backup-subtitle = Защитите свои способы оплаты, синхронизируя их между своими устройствами с шифрованием.
 fxa-adoption-bookmarks-treatment-backup-title = Давайте сделаем резервную копию ваших закладок
+fxa-adoption-bookmarks-treatment-backup-subtitle = Защитите свои закладки, синхронизируя их с устройствами с использованием шифрования.
 fxa-adoption-primary-button-label = Зарегистрироваться
 
 ## Protections panel

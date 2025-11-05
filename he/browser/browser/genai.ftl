@@ -219,3 +219,7 @@ link-preview-setup-faster-next-time = בפעם הבאה יוצגו נקודות 
 link-preview-onboarding-button = צפייה בתצוגה מקדימה
 # Onboarding card Close button
 link-preview-onboarding-close = סגירה
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = הגדרה ראשונית
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = זה עשוי לקחת כמה רגעים. בפעם הבאה נקודות מפתח יוצגו מהר יותר.

@@ -107,6 +107,12 @@ fp-cert-error-code = Код ошибки: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } не доверяет { $hostname }, потому что он не смог подтвердить, что он соответствует требованиям прозрачности публичных сертификатов.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Вероятно, ничего, так как, вероятно, возникла проблема с самим сайтом.
 fp-learn-more-about-secure-connection-failures = Подробнее об ошибках защищённого соединения
 fp-learn-more-about-cert-issues = Подробнее о подобных проблемах с сертификатами
 fp-learn-more-about-time-related-errors = Узнайте больше об устранении ошибок, связанных со временем
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Скрыть подробности
 fp-certerror-override-exception-button = Перейти на { $hostname } (рискованно)
 fp-certerror-intro = { -brand-short-name } обнаружил потенциально значимую проблему с безопасностью <strong>{ $hostname }</strong>. Кто-то, выдающий себя за сайт, может попытаться украсть такие данные, как данные банковской карты, пароли или адреса электронной почты.
 fp-certerror-expired-into = { -brand-short-name } обнаружил проблему с безопасностью на <strong>{ $hostname }</strong>. Либо сайт не настроен правильно, либо на часах вашего устройства установлена неверная дата и время.
+fp-certerror-transparency-intro = Кто-то, выдающий себя за <strong>{ $hostname }</strong>, может попытаться украсть такие данные, как данные банковской карты, пароли или электронные письма.
