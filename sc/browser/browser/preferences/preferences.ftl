@@ -622,6 +622,9 @@ choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
@@ -772,6 +775,8 @@ remove-addon-engine-alert = Pro cantzellare custu motore de chirca, cantzella pu
 containers-back-button2 =
     .aria-label = Torra a sa cunfiguratzione
 containers-header = Ischedas cuntenidoras
+containers-section-header =
+    .heading = Ischedas cuntenidoras
 containers-add-button =
     .label = Agiunghe unu cuntenidore nou
     .accesskey = A
