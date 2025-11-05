@@ -367,8 +367,16 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Tingueu el vostre navegador
 windows-10-eos-sync-spotlight-subtitle = Feu una còpia de seguretat de les contrasenyes i les adreces d'interès per a poder fer el salt a qualsevol dispositiu.
 windows-10-eos-sync-spotlight-primary-label = Feu una còpia de seguretat del { -brand-short-name }
 
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = Actualitzeu al Windows 11? No perdeu les adreces d'interès ni les contrasenyes.
+windows-10-eos-sync-toast-subtitle = Feu una còpia de seguretat de les vostres dades perquè el { -brand-short-name } estigui a punt en qualsevol moment, en aquest PC o en el següent.
+windows-10-eos-sync-toast-primary-label = Primers passos
+windows-10-eos-sync-toast-secondary-label = Recorda-m’ho més tard
+
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = El { -brand-product-name } no està precarregat com altres navegadors de grans empreses tecnològiques. Aquesta és la qüestió.
 windows-10-eos-sync-callout-addons-title = No perdeu els complements quan actualitzeu des del Windows 10.
 windows-10-eos-sync-callout-next-button = Següent
 windows-10-eos-sync-callout-get-started-button = Inicia

@@ -449,8 +449,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Canvia a Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Canvia a Celsius
 newtab-weather-menu-hide-weather = Amaga la informació meteorològica en les pestanyes noves
 newtab-weather-menu-learn-more = Més informació
+newtab-weather-menu-detect-my-location = Detecta la meva ubicació
 # This message is shown if user is working offline
 newtab-weather-error-not-available = La informació meteorològica no està disponible ara mateix.
+newtab-weather-opt-in-see-weather = Voleu veure el temps que fa a la vostra ubicació?
+newtab-weather-opt-in-not-now =
+    .label = Ara no
+newtab-weather-opt-in-yes =
+    .label = Sí
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Nova York
 
 ## Topic Labels
 
@@ -487,9 +495,28 @@ newtab-topic-selection-subtitle = Trieu dos temes o més. Els nostres experts pr
 newtab-topic-selection-save-button = Desa
 newtab-topic-selection-cancel-button = Cancel·la
 newtab-topic-selection-button-maybe-later = Potser més tard
+newtab-topic-selection-button-update-interests = Actualitzeu els vostres interessos
+newtab-topic-selection-button-pick-interests = Trieu els vostres interessos
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = Segueix
+newtab-section-following-button = Seguint
+newtab-section-unfollow-button = Deixar de seguir
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+newtab-section-block-button = Bloqueja
+newtab-section-blocked-button = Blocat
+newtab-section-unblock-button = Desbloca
 
 ## Confirmation modal for blocking a section
 
+newtab-section-cancel-button = Ara no
 newtab-section-confirm-block-topic-p1 = Segur que voleu blocar aquest tema?
 newtab-section-confirm-block-topic-p2 = Els temes blocats ja no apareixeran a la vostra cronologia.
 # Variables:
