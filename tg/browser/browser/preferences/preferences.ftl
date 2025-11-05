@@ -1292,6 +1292,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Намоиши пешниҳодҳои ҷустуҷӯи ҳавасангез
     .accesskey = Н
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Пешниҳодҳо аз «{ -brand-short-name }»
+addressbar-locbar-suggest-all-option-desc = Гирифтани пешниҳодҳо аз Интернет дар асоси ҷустуҷӯи шумо.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Пешниҳодҳо аз «{ -brand-short-name }»
