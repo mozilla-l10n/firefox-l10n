@@ -4,6 +4,9 @@
 
 # Used for data: URLs where we don't have any useful origin information
 browser-utils-url-data = (ข้อมูล)
+# Variables:
+#   $scheme (string) - URI scheme like jar: about:
+browser-utils-url-scheme = ทรัพยากร { $scheme }
 # Used for extension URLs
 # Variables:
 #   $extension (string) - Name of the extension that generated the URL
