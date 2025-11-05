@@ -232,6 +232,7 @@ set-default-pdf-handler-primary = Eg forstår
 
 ## PDF Annotations strings
 
+annotations-make-default-pdf-handler-title = Bruke { -brand-short-name } som standard PDF-redigeringsprogram?
 annotations-make-default-pdf-primary-cta =
     .label = Bruk som standard
 annotations-make-default-pdf-next =

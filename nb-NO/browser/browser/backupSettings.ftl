@@ -79,7 +79,7 @@ turn-on-scheduled-backups-cancel-button = Avbryt
 turn-on-scheduled-backups-confirm-button = Slå på sikkerhetskopiering
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
-turn-on-scheduled-backups-error-file-system = Det oppsto et problem med den valgte sikkerhetskopimappen. Velg en annen mappe og prøv på nytt.
+turn-on-scheduled-backups-error-file-system = Det oppstod et problem med den valgte sikkerhetskopimappen. Velg en annen mappe og prøv på nytt.
 backup-error-file-system = Det oppsto et problem med den valgte sikkerhetskopieringsmappen under sikkerhetskopiering av { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
@@ -153,7 +153,7 @@ backup-service-error-went-wrong2 =
 # idea of what went wrong
 backup-service-error-went-wrong =
     .heading = Noe gikk galt
-    .message = Det oppsto et problem med sikkerhetskopieringsprosessen for { -brand-short-name }. Prøv igjen eller start { -brand-short-name } på nytt.
+    .message = Det oppstod et problem med sikkerhetskopieringsprosessen for { -brand-short-name }. Prøv igjen eller start { -brand-short-name } på nytt.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

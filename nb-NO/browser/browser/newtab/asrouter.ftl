@@ -239,7 +239,7 @@ set-default-pdf-handler-primary = Jeg forstår
 annotations-default-pdf-handler-headline = Skriv under på den stiplede linjen — eller hvor som helst!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Tegn, skriv eller last opp signaturen din, og plasser den nøyaktig der du vil. Lagre signaturene du bruker ofte til neste gang.
-annotations-make-default-pdf-handler-title = Bruk { -brand-short-name } som standard PDF-redigeringsprogram?
+annotations-make-default-pdf-handler-title = Bruke { -brand-short-name } som standard PDF-redigeringsprogram?
 annotations-make-default-pdf-handler-subtitle = Du får tilgang til verktøyene våre hver gang du åpner en PDF.
 annotations-make-default-pdf-primary-cta =
     .label = Bruk som standard
