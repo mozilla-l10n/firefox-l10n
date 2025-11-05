@@ -5,3 +5,6 @@
 # Variables:
 #   $scheme (string) - URI scheme like jar: about:
 browser-utils-url-scheme = risorsa { $scheme }
+# Special case of done-scheme for file:
+# This is used as an eTLD replacement for local files, so make it lower case
+browser-utils-file-scheme = schedaio locale
