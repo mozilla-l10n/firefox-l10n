@@ -1313,6 +1313,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = 顯示熱門搜尋建議
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = 來自 { -brand-short-name } 的建議
+addressbar-locbar-suggest-all-option-desc = 取得您搜尋內容的相關建議。
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = 來自 { -brand-short-name } 的建議
