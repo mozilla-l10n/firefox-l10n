@@ -1267,6 +1267,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Танымал іздеу ұсыныстарын көрсету
     .accesskey = т
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = { -brand-short-name } ұсыныстары
+addressbar-locbar-suggest-all-option-desc = Сіздің іздеуіңізге қатысты интернеттен ұсыныстар алыңыз.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } ұсыныстары
