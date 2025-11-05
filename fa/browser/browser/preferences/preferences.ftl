@@ -734,6 +734,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = نام دستگاه
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = نام دستگاه
+sync-device-name-change-2 =
+    .label = تغییر نام دستگاه
+    .accesskey = ت
 sync-device-name-change =
     .label = تغییر نام دستگاه…
     .accesskey = ت
