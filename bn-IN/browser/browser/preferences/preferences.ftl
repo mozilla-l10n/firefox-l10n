@@ -527,6 +527,9 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = ডিভাইস নাম
+sync-device-name-change-2 =
+    .label = ডিভাইস নাম পরিবর্তন করুন
+    .accesskey = h
 sync-device-name-change =
     .label = ডিভাইস নাম পরিবর্তন করুন…
     .accesskey = h
