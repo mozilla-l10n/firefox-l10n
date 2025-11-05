@@ -2,3 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $scheme (string) - URI scheme like jar: about:
+browser-utils-url-scheme = risorsa { $scheme }
