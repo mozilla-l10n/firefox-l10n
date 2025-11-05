@@ -395,6 +395,13 @@ sync-engine-history =
 ## The device name controls.
 
 sync-device-name-header = Igama lesixhobo
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Igama lesixhobo
+sync-device-name-change-2 =
+    .label = Tshintsha iGama leSixhobo
+    .accesskey = s
 sync-device-name-change =
     .label = Tshintsha iGama leSixhobo...
     .accesskey = s
