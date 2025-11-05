@@ -18,7 +18,7 @@ backup-folder-name = 恢复 { -brand-product-name }
 # profile name and backup date are appended to it:
 #
 # FirefoxBackup_default_20240606-1830.html
-backup-file-name = { -brand-product-name }Backup
+backup-file-name = { -brand-product-name }备份
 settings-data-backup-header = 备份
 settings-data-backup-toggle = 管理备份
 settings-data-backup-toggle-on = 开启备份
