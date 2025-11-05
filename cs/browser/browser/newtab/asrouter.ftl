@@ -74,6 +74,8 @@ fxa-adoption-addresses-backup-title = Zazálohujte si uložené adresy
 fxa-adoption-addresses-backup-subtitle = Chraňte svá hesla synchronizací se zařízeními pomocí šifrování.
 fxa-adoption-credit-cards-backup-title = Pojďme si zazálohovat vaše platební metody
 fxa-adoption-credit-cards-backup-subtitle = Chraňte své platební metody tím, že je synchronizujete se svými zařízeními pomocí šifrování.
+fxa-adoption-bookmarks-treatment-backup-title = Pojďme zazálohovat vaše záložky
+fxa-adoption-bookmarks-treatment-backup-subtitle = Chraňte své záložky tím, že je synchronizujete se svými zařízeními pomocí šifrování.
 fxa-adoption-primary-button-label = Zaregistrovat se
 
 ## Protections panel

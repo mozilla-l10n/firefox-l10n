@@ -145,6 +145,7 @@ extension-controlling-proxy-config =
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Pro povolení rozšíření otevřete <img data-l10n-name="addons-icon"/> Doplňky v nabídce <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Chcete-li znovu povolit toto rozšíření, navštivte <a data-l10n-name="addons-link">Rozšíření a vzhledy</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = Rozšíření { $name } řídí některá nastavení vaší domovské stránky.

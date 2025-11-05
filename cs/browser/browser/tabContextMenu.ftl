@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Přesunout do nového okna
     .accesskey = k
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Přesunout do profilu { $profileName }
 tab-context-close-multiple-tabs =
     .label = Zavřít několik panelů
     .accesskey = k

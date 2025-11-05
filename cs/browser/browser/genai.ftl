@@ -301,3 +301,5 @@ link-preview-onboarding-button = Zobrazit náhled
 link-preview-onboarding-close = Zavřít
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = První nastavení
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Může to chvíli trvat. Příště ale uvidíte klíčové body rychleji.
