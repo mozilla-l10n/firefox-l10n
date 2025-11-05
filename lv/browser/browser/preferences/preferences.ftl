@@ -571,6 +571,9 @@ choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } saturs
@@ -699,6 +702,8 @@ search-keyword-warning-bookmark = Jūs izvēlējāties atslēgas vārdu, ko jau 
 containers-back-button2 =
     .aria-label = Atgriezties uz iestatījumiem
 containers-header = Saturošās cilnes
+containers-section-header =
+    .heading = Saturošās cilnes
 containers-add-button =
     .label = Pievienot jaunu konteineru
     .accesskey = A
@@ -1307,6 +1312,9 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
