@@ -797,6 +797,8 @@ remove-addon-engine-alert = Bilaketa-motor hau kentzeko, kendu erlazionatutako g
 containers-back-button2 =
     .aria-label = Itzuli ezarpenetara
 containers-header = Edukiontzi-fitxak
+containers-section-header =
+    .heading = Edukiontzi-fitxak
 containers-add-button =
     .label = Gehitu edukiontzi berria
     .accesskey = G
@@ -1414,6 +1416,9 @@ privacy-segmentation-radio-off =
     .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
