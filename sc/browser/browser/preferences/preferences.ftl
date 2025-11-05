@@ -1276,6 +1276,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Ammustra cussìgios de chirca in tendèntzia
     .accesskey = A
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Cussìgios dae { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Otene cussìgios de sa rete acapiados a sa chirca tua.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Cussìgios dae { -brand-short-name }
