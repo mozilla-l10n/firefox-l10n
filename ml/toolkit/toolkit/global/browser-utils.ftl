@@ -4,6 +4,12 @@
 
 # Used for data: URLs where we don't have any useful origin information
 browser-utils-url-data = (ഡാറ്റ)
+# Variables:
+#   $scheme (string) - URI scheme like jar: about:
+browser-utils-url-scheme = { $scheme } ശ്രോതസ്സ്
+# Special case of done-scheme for file:
+# This is used as an eTLD replacement for local files, so make it lower case
+browser-utils-file-scheme = ലോക്കല്‍ ഫയല്‍
 # Used for extension URLs
 # Variables:
 #   $extension (string) - Name of the extension that generated the URL
