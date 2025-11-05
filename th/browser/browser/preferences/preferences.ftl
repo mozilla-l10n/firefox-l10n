@@ -1301,6 +1301,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = แสดงคำแนะนำการค้นหาที่กำลังมาแรง
     .accesskey = ม
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = คำแนะนำจาก { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = รับคำแนะนำจากเว็บที่เกี่ยวข้องกับการค้นหาของคุณ
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = คำแนะนำจาก { -brand-short-name }
