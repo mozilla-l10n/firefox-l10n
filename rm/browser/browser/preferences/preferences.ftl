@@ -625,6 +625,9 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }
@@ -775,6 +778,8 @@ remove-addon-engine-alert = Per allontanar questa maschina da tschertgar, allont
 containers-back-button2 =
     .aria-label = Turnar als parameters
 containers-header = Tabs da container
+containers-section-header =
+    .heading = Tabs da container
 containers-add-button =
     .label = Agiuntar in nov container
     .accesskey = A
