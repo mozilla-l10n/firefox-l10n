@@ -625,6 +625,9 @@ choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contignûts par { -firefox-home-brand-name }
@@ -775,6 +778,8 @@ remove-addon-engine-alert = Par gjavâ chest motôr di ricercje gjave il compone
 containers-back-button2 =
     .aria-label = Torne aes impostazions
 containers-header = Schedis contignidôr
+containers-section-header =
+    .heading = Schedis contignidôr
 containers-add-button =
     .label = Zonte gnûf contignidôr
     .accesskey = Z
