@@ -283,7 +283,7 @@ colorway-removal-notice-button = Obtenir des thèmes de coloris mis à jour
 # Notice to make user aware that themes are not applied in forced colors mode.
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
-    .message = Les paramètres de contraste de Windows remplacent les { -brand-short-name } thèmes. Désactivez ces paramètres pour utiliser les thèmes dans { -brand-short-name }.
+    .message = Les paramètres de contraste Windows prennent le dessus sur les thèmes de { -brand-short-name }. Désactivez ces paramètres pour utiliser les thèmes dans { -brand-short-name }.
 privacy-policy = Politique de confidentialité
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
