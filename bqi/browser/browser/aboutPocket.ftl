@@ -12,7 +12,9 @@
 pocket-panel-saved-add-tags =
     .placeholder = ٱووردن برچسب
 pocket-panel-saved-error-tag-length = برچسبا مئدۊدیت 25 هرفی ن دارن
+pocket-panel-saved-error-only-links = تینا لینکا ترن زفت بۊون
 pocket-panel-saved-error-not-saved = بلگه زفت نوابیڌه
+pocket-panel-saved-error-remove = مجال قپ ریت سی پاک کردن ای بلگه ختایی پؽش ٱووڌ.
 pocket-panel-saved-page-removed = بلگه پاک وابی
 pocket-panel-saved-page-saved = من { -pocket-brand-name } زفت وابیڌه
 pocket-panel-saved-page-saved-b = من { -pocket-brand-name } زفت وابیڌه!
@@ -33,6 +35,7 @@ pocket-panel-signup-already-have = ز زیتر منتور { -pocket-brand-name }
 pocket-panel-signup-learn-more = قلوه دووسته بۊین
 pocket-panel-signup-login = و من ٱووڌن
 pocket-panel-signup-signup-email = نوم نویسی وا ایمیل
+pocket-panel-signup-signup-cta = من { -pocket-brand-name } سبت نوم کۊنین. مۊفتی هڌ.
 
 ## about:pocket-home panel
 
@@ -43,6 +46,7 @@ pocket-panel-home-new-user-message = زفت کردنا دیندایی خوته �
 
 ## Pocket panel header component
 
+pocket-panel-header-my-saves = نیشتن زفت وابیڌه یل مو
 pocket-panel-header-sign-in = و من ٱووڌن
 
 ## Pocket panel buttons
