@@ -612,6 +612,13 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Qurilma nomi
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Qurilma nomi
+sync-device-name-change-2 =
+    .label = Qurilma nomini o‘zgartirish
+    .accesskey = h
 sync-device-name-change =
     .label = Qurilma nomini o‘zgartirish…
     .accesskey = h
