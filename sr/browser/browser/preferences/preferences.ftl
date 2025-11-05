@@ -601,6 +601,9 @@ choose-bookmark =
     .label = Користи обележивач…
     .accesskey = б
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } садржај
@@ -732,6 +735,8 @@ search-keyword-warning-bookmark = Одабрали сте кључну реч к
 containers-back-button2 =
     .aria-label = Назад на подешавања
 containers-header = Картице у контејнеру
+containers-section-header =
+    .heading = Картице у контејнеру
 containers-add-button =
     .label = Додај контејнер…
     .accesskey = Д
@@ -1289,6 +1294,9 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
