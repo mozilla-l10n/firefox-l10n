@@ -263,3 +263,7 @@ link-preview-setup-faster-next-time = Du ser nyckelpunkter snabbare nästa gång
 link-preview-onboarding-button = Visa en förhandsgranskning
 # Onboarding card Close button
 link-preview-onboarding-close = Stäng
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Förstagångsinstallation
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Detta kan ta en stund. Du ser nyckelpunkter snabbare nästa gång.

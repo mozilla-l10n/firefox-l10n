@@ -285,6 +285,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } har uppdaterat sin colorways-kollektion. Vi tog bort den gamla versionen från listan "Sparade teman". Hämta nya versioner på webbplatsen för tillägg.
 colorway-removal-notice-learn-more = Läs mer
 colorway-removal-notice-button = Få uppdaterade colorways-teman
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Dina kontrastinställningar i Windows åsidosätter { -brand-short-name } teman. Inaktivera dessa inställningar för att använda teman i { -brand-short-name }.
 privacy-policy = Sekretesspolicy
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

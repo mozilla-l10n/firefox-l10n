@@ -280,6 +280,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } a mis à jour sa collection de coloris. Nous avons supprimé la ou les anciennes versions de votre liste « Thèmes enregistrés ». Obtenez les nouvelles versions sur le site des modules complémentaires.
 colorway-removal-notice-learn-more = En savoir plus
 colorway-removal-notice-button = Obtenir des thèmes de coloris mis à jour
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Les paramètres de contraste de Windows remplacent les { -brand-short-name } thèmes. Désactivez ces paramètres pour utiliser les thèmes dans { -brand-short-name }.
 privacy-policy = Politique de confidentialité
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

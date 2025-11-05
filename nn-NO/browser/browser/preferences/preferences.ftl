@@ -628,6 +628,7 @@ use-current-pages =
 choose-bookmark =
     .label = Bruk bokmerke…
     .accesskey = u
+home-homepage-header = Startside
 
 ## Custom Homepage subpage
 

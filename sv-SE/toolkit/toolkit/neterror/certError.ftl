@@ -107,6 +107,12 @@ fp-cert-error-code = Felkod: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } litar inte på { $hostname } eftersom det inte kunde bevisa att det uppfyller kraven på publika certifikat.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Förmodligen ingenting, eftersom det troligtvis finns ett problem med själva webbplatsen.
 fp-learn-more-about-secure-connection-failures = Läs mer om säkra anslutningsfel
 fp-learn-more-about-cert-issues = Läs mer om dessa typer av certifikatfrågor
 fp-learn-more-about-time-related-errors = Läs mer om felsökning av tidsrelaterade fel
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Dölj avancerat
 fp-certerror-override-exception-button = Fortsätt till { $hostname } (riskfullt)
 fp-certerror-intro = { -brand-short-name } upptäckte ett potentiellt allvarligt säkerhetsproblem med <strong>{ $hostname }</strong>. Någon som utger sig för att vara webbplatsen kan försöka stjäla saker som kreditkortsinformation, lösenord eller e-postmeddelanden.
 fp-certerror-expired-into = { -brand-short-name } upptäckte ett säkerhetsproblem med <strong>{ $hostname }</strong>. Antingen är webbplatsen inte rätt inställd eller så är din enhets klocka inställd på fel datum/tid.
+fp-certerror-transparency-intro = Någon som låtsas vara <strong>{ $hostname }</strong> kan försöka stjäla saker som kreditkortsinformation, lösenord eller e-post.

@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Sauvegardons vos adresses enregistrées
 fxa-adoption-addresses-backup-subtitle = Protégez vos adresses enregistrées en les synchronisant sur vos appareils de façon chiffrée.
 fxa-adoption-credit-cards-backup-title = Sauvegardons vos moyens de paiement
 fxa-adoption-credit-cards-backup-subtitle = Protégez vos moyens de paiement en les synchronisant sur vos appareils de façon chiffrée.
+fxa-adoption-bookmarks-treatment-backup-title = Sauvegardons vos marque-pages
+fxa-adoption-bookmarks-treatment-backup-subtitle = Protégez vos marque-pages en les synchronisant sur vos appareils de façon chiffrée.
 fxa-adoption-primary-button-label = Créer un compte
 
 ## Protections panel

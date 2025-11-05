@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Låt oss säkerhetskopiera dina sparade ad
 fxa-adoption-addresses-backup-subtitle = Skydda dina sparade adresser genom att synkronisera dem till dina enheter med kryptering.
 fxa-adoption-credit-cards-backup-title = Låt oss säkerhetskopiera dina betalningsmetoder
 fxa-adoption-credit-cards-backup-subtitle = Skydda dina betalningsmetoder genom att synkronisera dem till dina enheter med kryptering.
+fxa-adoption-bookmarks-treatment-backup-title = Låt oss säkerhetskopiera dina bokmärken
+fxa-adoption-bookmarks-treatment-backup-subtitle = Skydda dina bokmärken genom att synkronisera dem till dina enheter med kryptering.
 fxa-adoption-primary-button-label = Registrera dig
 
 ## Protections panel

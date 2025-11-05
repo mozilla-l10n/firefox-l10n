@@ -107,6 +107,12 @@ fp-cert-error-code = Code d’erreur : { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } ne fait pas confiance à { $hostname }, car il n’a pas pu prouver qu’il répond aux exigences de transparence des certificats publics.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Probablement rien, car il est probable que le problème vienne du site.
 fp-learn-more-about-secure-connection-failures = En savoir plus sur les échecs de connexion sécurisée
 fp-learn-more-about-cert-issues = En savoir plus sur ces types de problèmes de certificat
 fp-learn-more-about-time-related-errors = En savoir plus sur le dépannage des erreurs temporelles
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Masquer
 fp-certerror-override-exception-button = Continuer vers { $hostname } (risqué)
 fp-certerror-intro = { -brand-short-name } a détecté un problème de sécurité potentiellement grave avec <strong>{ $hostname }</strong>. Quelqu’un se faisant passer pour le site pourrait tenter de dérober des éléments tels que des informations de carte bancaire, des mots de passe ou des adresses e-mail.
 fp-certerror-expired-into = { -brand-short-name } a détecté un problème de sécurité avec <strong>{ $hostname }</strong>. Soit le site n’est pas correctement configuré, soit l’horloge de votre appareil est mal réglée.
+fp-certerror-transparency-intro = Quelqu’un se faisant passer pour <strong>{ $hostname }</strong> pourrait essayer de dérober des choses comme des informations de carte bancaire, des mots de passe ou des adresses e-mail.
