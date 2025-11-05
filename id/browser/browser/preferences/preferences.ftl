@@ -611,6 +611,9 @@ choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Konten { -firefox-home-brand-name }
@@ -749,6 +752,8 @@ remove-engine-remove = Buang
 containers-back-button2 =
     .aria-label = Kembali ke Pengaturan
 containers-header = Tab Kontainer
+containers-section-header =
+    .heading = Tab Kontainer
 containers-add-button =
     .label = Tambahkan Kontainer Baru
     .accesskey = T
