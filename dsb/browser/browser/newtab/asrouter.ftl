@@ -76,6 +76,8 @@ fxa-adoption-addresses-backup-title = Zawěsćmy waše skłaźone adrese.
 fxa-adoption-addresses-backup-subtitle = Synchronizěrujśo swóje gronidła ze swójimi rědami ze skoděrowanim, aby swóje skłaźone adrese šćitał.
 fxa-adoption-credit-cards-backup-title = Zawěsćmy waše płaśeńske metody
 fxa-adoption-credit-cards-backup-subtitle = Synchronizěrujśo swóje gronidła ze swójimi rědami ze skoděrowanim, aby swóje płaśeńske metody šćitał.
+fxa-adoption-bookmarks-treatment-backup-title = Zawěsćmy waše cytańske znamjenja
+fxa-adoption-bookmarks-treatment-backup-subtitle = Synchronizěrujśo swóje cytańske znamjenja ze swójimi rědami ze skoděrowanim, aby swóje gronidła šćitał.
 fxa-adoption-primary-button-label = Registrěrowaś
 
 ## Protections panel

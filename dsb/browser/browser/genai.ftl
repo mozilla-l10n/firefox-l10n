@@ -271,3 +271,7 @@ link-preview-setup-faster-next-time = Buźośo klucowe dypki pśiducy raz malsnj
 link-preview-onboarding-button = Pśeglěd pokazaś
 # Onboarding card Close button
 link-preview-onboarding-close = Zacyniś
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Prědna konfiguracija
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = To móžo chylku traś. Buźośo wažne dypki pózdźej malsnjej wiźeś.

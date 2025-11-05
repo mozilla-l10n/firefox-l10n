@@ -14,6 +14,7 @@ url-classifier-search-result-list = Lisćina tabelow: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Njepłaśiwy URL
 url-classifier-search-error-no-features = Žedne funkcije wubrane
+url-classifier-search-error-no-results = Za URL žedne zapiski namakane.
 url-classifier-search-btn = Pytanje zachopiś
 url-classifier-search-features = Funkcije
 url-classifier-search-listType = Lisćinowy typ

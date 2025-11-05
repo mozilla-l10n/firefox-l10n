@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Płaśiwy do / maksimalna płaśiwosć
 storage-table-headers-cookies-size = Wjelikosć
 storage-table-headers-cookies-last-accessed = Slědny pśistup
 storage-table-headers-cookies-creation-time = Napórany
+storage-table-headers-cookies-update-time = Zaktualizěrowany
 storage-table-headers-cache-status = Status
 storage-table-headers-extension-storage-area = Składowański wobceŕk
 

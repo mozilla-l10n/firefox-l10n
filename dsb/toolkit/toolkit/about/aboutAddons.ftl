@@ -284,6 +284,10 @@ colorway-removal-notice-message =
         sedła dodankow.
 colorway-removal-notice-learn-more = Dalšne informacije
 colorway-removal-notice-button = Wobstarajśo se zaktualizěrowane drastwy barwowych kombinacijow
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Waše kontrastowe nastajenja Windows drastwy { -brand-short-name } pśepisuju. Znjemóžniśo toś te nastajenja, aby drastwy w { -brand-short-name } wužywał.
 privacy-policy = Pšawidła priwatnosći
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

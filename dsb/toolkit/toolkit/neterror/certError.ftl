@@ -107,6 +107,12 @@ fp-cert-error-code = Zmólkowy kod: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } { $hostname } njedowěrja, dokulaž njejo mógał dopokazaś, až pominanja transparence za zjawne certifikaty docynja.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Nejskerjej nic, dokulaž jo wěrjepódobnje, až problem jo ze sedłom samym.
 fp-learn-more-about-secure-connection-failures = Zgóńśo wěcej wó wěstych zwiskowych wótłamanjach
 fp-learn-more-about-cert-issues = Zgóńśo wěcej wó toś tych družynach certifikatowych problemow
 fp-learn-more-about-time-related-errors = Zgóńśo wěcej wó rozwězowanju na cas póśěgowanych zmólkow
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Rozšyrjone schowaś
 fp-certerror-override-exception-button = Dalej k { $hostname } (riskantny)
 fp-certerror-intro = { -brand-short-name } jo namakał potencielnje śěžki wěstotny problem z <strong>{ $hostname }</strong>. Něchten, kótaryž twarźi, až toś to sedło wěcy ako informacije kreditowych kórtow, gronidła abo e-mailowe adrese kšadnjo.
 fp-certerror-expired-into = { -brand-short-name } jo namakał potencielnje śěžki wěstotny problem z <strong>{ $hostname }</strong>. Pak sedło njejo korektnje konfigurěrowane pak zeger wašogo rěda jo na wopacny datum/cas stajony.
+fp-certerror-transparency-intro = Něchten, kótaryž wudawa, až jo <strong>{ $hostname }</strong>, mógał wěcy ako waše informacije kreditoweje kórty, gronidła abo e-mailowe adrese kšadnuś.
