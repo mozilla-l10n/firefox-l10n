@@ -50,6 +50,17 @@ should-restart-ok = Atosaigh { -brand-short-name } anois
 cancel-no-restart-button = Cealaigh
 restart-later = Atosaigh Ar Ball
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Torthaí an Chuardaigh
@@ -312,6 +323,9 @@ network-proxy-connection-settings =
     .label = Socruithe…
     .accesskey = e
 
+## Home Section
+
+
 ## Custom Homepage subpage
 
 home-newtabs-mode-label = Cluaisíní nua
@@ -333,6 +347,12 @@ use-current-pages =
 choose-bookmark =
     .label = Úsáid Leabharmharc…
     .accesskey = L
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -389,6 +409,8 @@ search-keyword-warning-bookmark = Roghnaigh tú eochairfhocal atá in úsáid fa
 containers-back-button2 =
     .aria-label = Fill ar na Socruithe
 containers-header = Cluaisíní Coimeádáin
+containers-section-header =
+    .heading = Cluaisíní Coimeádáin
 containers-add-button =
     .label = Coimeádán Nua
     .accesskey = C
@@ -432,6 +454,9 @@ sync-signedin-login-failure = Logáil isteach chun athcheangal { $email }
 sync-sign-in =
     .label = Logáil isteach
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
 
 ## The list of things currently syncing.
 
@@ -481,6 +506,9 @@ sync-verification-not-sent-body = Ní rabhthas ábalta an ríomhphost deimhnithe
 
 privacy-header = Príobháideachas
 
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -496,6 +524,12 @@ forms-master-pw-change =
     .label = Athraigh an Príomhfhocal Faire…
     .accesskey = P
 forms-master-pw-fips-desc = Theip ar athrú an fhocail faire.
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -535,6 +569,12 @@ history-clear-on-close-settings =
 
 sitedata-header = Fianáin agus Sonraí Suímh
 sitedata-learn-more = Tuilleadh eolais
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -586,6 +626,9 @@ content-blocking-fingerprinters-label =
     .label = Méarlorgairí
     .accesskey = M
 
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-header = Ceadanna
@@ -633,6 +676,9 @@ addon-recommendations-link = Tuilleadh eolais
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -663,6 +709,12 @@ certs-devices =
     .label = Gléasanna Slándála…
     .accesskey = d
 certs-devices-enable-fips = Cumasaigh FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
