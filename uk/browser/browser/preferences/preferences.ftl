@@ -1283,6 +1283,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Показувати популярні пошукові пропозиції
     .accesskey = П
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Пропозиції від { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Отримувати пропозиції з інтернету, пов'язані з вашим пошуком.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Пропозиції від { -brand-short-name }
