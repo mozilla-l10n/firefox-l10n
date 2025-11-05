@@ -249,3 +249,5 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Wutworjeny dnja { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
 backup-file-restore-file-validation-error = Tuta dataja njefunguje. Wubjerće druhu dataju. <a data-l10n-name="restore-problems">Maće hišće problemy?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Žana dataja wubrana

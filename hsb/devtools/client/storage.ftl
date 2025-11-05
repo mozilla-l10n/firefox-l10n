@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Płaćiwy do / maksimalna płaćiwosć
 storage-table-headers-cookies-size = Wulkosć
 storage-table-headers-cookies-last-accessed = Posledni přistup
 storage-table-headers-cookies-creation-time = Wutworjeny
+storage-table-headers-cookies-update-time = Zaktualizowany
 storage-table-headers-cache-status = Status
 storage-table-headers-extension-storage-area = Składowanski wobwod
 

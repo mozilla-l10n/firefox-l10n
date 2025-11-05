@@ -113,6 +113,7 @@ extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $nam
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Zo byšće rozšěrjenje zmóžnił, přeńdźće k <img data-l10n-name="addons-icon"/> přidatkam w <img data-l10n-name="menu-icon"/> meniju.
+extension-controlled-enable-2 = Zo byšće tute rozšěrjenje znowa zmóžnił, wopytajće <a data-l10n-name="addons-link">Rozšěrjenja a drasty</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } někotre nastajenja wašeje startoweje strony wodźi.

@@ -271,3 +271,7 @@ link-preview-setup-faster-next-time = Budźeće klučowe dypki přichodny raz sp
 link-preview-onboarding-button = Přehlad pokazać
 # Onboarding card Close button
 link-preview-onboarding-close = Začinić
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Prěnja konfiguracija
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = To móže chwilku trać. Budźeće wažne dypki pozdźišo spěšnišo widźeć.

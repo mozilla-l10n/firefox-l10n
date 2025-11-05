@@ -76,6 +76,8 @@ fxa-adoption-addresses-backup-title = Zawěsćmy waše składowane adresy.
 fxa-adoption-addresses-backup-subtitle = Synchronizujće swoje hesła ze swojimi gratami ze zaklučowanjom, zo byšće swoje składowane adresy škitał.
 fxa-adoption-credit-cards-backup-title = Zawěsćmy waše płaćenske metody
 fxa-adoption-credit-cards-backup-subtitle = Synchronizujće swoje hesła ze swojimi gratami ze zaklučowanjom, zo byšće swoje płaćenske metody škitał.
+fxa-adoption-bookmarks-treatment-backup-title = Zawěsćmy waše zapołožki
+fxa-adoption-bookmarks-treatment-backup-subtitle = Synchronizujće swoje hesła ze swojimi gratami ze zaklučowanjom, zo byšće swoje zapołožki škitał.
 fxa-adoption-primary-button-label = Registrować
 
 ## Protections panel
