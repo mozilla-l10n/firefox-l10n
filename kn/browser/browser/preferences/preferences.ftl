@@ -423,6 +423,9 @@ sync-engine-tabs =
 ## The device name controls.
 
 sync-device-name-header = ಸಾಧನದ ಹೆಸರು
+sync-device-name-change-2 =
+    .label = ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಿಸಿ
+    .accesskey = h
 sync-device-name-change =
     .label = ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಿಸಿ…
     .accesskey = h
