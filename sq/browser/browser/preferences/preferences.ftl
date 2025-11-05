@@ -1325,6 +1325,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Shfaq sugjerime prirjesh kërkimi
     .accesskey = k
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Sugjerime nga { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Merrni nga interneti sugjerime të lidhura me kërkimin tuaj.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugjerime nga { -brand-short-name }
