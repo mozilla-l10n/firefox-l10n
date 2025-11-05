@@ -343,6 +343,9 @@ choose-bookmark =
     .label = Guna Tandabuku…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -422,6 +425,8 @@ search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sedang digu
 ## Containers Section
 
 containers-header = Tab Penyimpan
+containers-section-header =
+    .heading = Tab Penyimpan
 containers-add-button =
     .label = Tambah Penyimpan Baru
     .accesskey = A
@@ -469,6 +474,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Daftar masuk
     .accesskey = d
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -548,6 +559,12 @@ forms-master-pw-change =
     .accesskey = T
 forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Sejarah
@@ -617,6 +634,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Urus Data…
     .accesskey = U
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -716,6 +739,9 @@ collection-studies-link = Papar kajian { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi binaan ini
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -747,6 +773,12 @@ certs-devices =
     .label = Peranti Keselamatan…
     .accesskey = P
 certs-devices-enable-fips = Dayakan FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
