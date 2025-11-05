@@ -1295,6 +1295,7 @@ addressbar-locbar-showtrendingsuggestions-option =
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option =
     .label = Predlogi { -brand-short-name(sklon: "rodilnik") }
+addressbar-locbar-suggest-all-option-desc = Prejemajte predloge s spleta, povezane z vašim iskanjem.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Predlogi { -brand-short-name(sklon: "rodilnik") }
