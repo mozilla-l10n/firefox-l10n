@@ -982,6 +982,13 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Enhetsnavn
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Enhetsnavn
+sync-device-name-change-2 =
+    .label = Endre enhetsnavn
+    .accesskey = E
 sync-device-name-change =
     .label = Endre enhetsnavn…
     .accesskey = E
