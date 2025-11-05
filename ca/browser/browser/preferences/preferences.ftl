@@ -575,6 +575,9 @@ choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contingut de l'{ -firefox-home-brand-name }
@@ -703,6 +706,8 @@ search-keyword-warning-bookmark = Heu triat una paraula clau que ja utilitza una
 containers-back-button2 =
     .aria-label = Torna als paràmetres
 containers-header = Pestanyes de contenidor
+containers-section-header =
+    .heading = Pestanyes de contenidor
 containers-add-button =
     .label = Afegeix un contenidor nou
     .accesskey = A
