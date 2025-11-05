@@ -7,6 +7,9 @@ browser-utils-url-data = (gögn)
 # Variables:
 #   $scheme (string) - URI scheme like jar: about:
 browser-utils-url-scheme = { $scheme } tilfang
+# Special case of done-scheme for file:
+# This is used as an eTLD replacement for local files, so make it lower case
+browser-utils-file-scheme = staðbundin skrá
 # Used for extension URLs
 # Variables:
 #   $extension (string) - Name of the extension that generated the URL
