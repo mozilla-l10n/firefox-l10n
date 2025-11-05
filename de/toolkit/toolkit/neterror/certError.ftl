@@ -107,6 +107,12 @@ fp-cert-error-code = Fehlercode: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } vertraut { $hostname } nicht, weil es nicht nachweisen konnte, dass es die Anforderungen an die Transparenz öffentlicher Zertifikate erfüllt.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Wahrscheinlich nichts, da es wahrscheinlich ein Problem mit der Website selbst gibt.
 fp-learn-more-about-secure-connection-failures = Weitere Informationen zu Fehlern bei sicheren Verbindungen
 fp-learn-more-about-cert-issues = Weitere Informationen über diese Art von Zertifikatsproblemen
 fp-learn-more-about-time-related-errors = Weitere Informationen über die Behebung von zeitbezogenen Fehlern
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Erweitert ausblenden
 fp-certerror-override-exception-button = Weiter zu { $hostname } (riskant)
 fp-certerror-intro = { -brand-short-name } hat ein möglicherweise schwerwiegendes Sicherheitsproblem auf <strong>{ $hostname }</strong> entdeckt. Jemand, der sich als die Website ausgibt, könnte versuchen, Dinge wie Kreditkartendaten, Passwörter oder E-Mails zu stehlen.
 fp-certerror-expired-into = { -brand-short-name } hat ein Sicherheitsproblem auf <strong>{ $hostname }</strong> entdeckt. Entweder ist die Website nicht richtig eingerichtet oder die Uhr Ihres Geräts ist auf das falsche Datum/die falsche Uhrzeit eingestellt.
+fp-certerror-transparency-intro = Jemand, der sich als <strong>{ $hostname }</strong> ausgibt, könnte versuchen, Kreditkartendaten, Passwörter oder E-Mails zu stehlen.

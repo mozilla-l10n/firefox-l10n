@@ -290,6 +290,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } aktualizoval svoju kolekciu farebných tém. Starú verziu (verzie) sme odstránili zo zoznamu „Uložené témy“. Nové verzie nájdete na stránke s doplnkami.
 colorway-removal-notice-learn-more = Ďalšie informácie
 colorway-removal-notice-button = Získajte aktualizované farebné témy
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Nastavenia kontrastu vo Windowse prepisujú témy vzhľadu { -brand-short-name(case: "gen") }. Ak chcete používať témy vo { -brand-short-name(case: "loc") }, vypnite tieto nastavenia.
 privacy-policy = Zásady ochrany osobných údajov
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
