@@ -263,3 +263,5 @@ link-preview-setup-faster-next-time = Θα δείτε τα κύρια σημεί
 link-preview-onboarding-button = Προβολή προεπισκόπησης
 # Onboarding card Close button
 link-preview-onboarding-close = Κλείσιμο
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Πρώτη ρύθμιση

@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Ας δημιουργήσουμε αντί
 fxa-adoption-addresses-backup-subtitle = Προστατέψτε τις αποθηκευμένες διευθύνσεις σας συγχρονίζοντάς τες με κρυπτογράφηση στις συσκευές σας.
 fxa-adoption-credit-cards-backup-title = Ας δημιουργήσουμε αντίγραφα ασφαλείας των μεθόδων πληρωμής σας
 fxa-adoption-credit-cards-backup-subtitle = Προστατέψτε τις μεθόδους πληρωμής σας συγχρονίζοντάς τες με κρυπτογράφηση στις συσκευές σας.
+fxa-adoption-bookmarks-treatment-backup-title = Ας δημιουργήσουμε αντίγραφα ασφαλείας των σελιδοδεικτών σας
+fxa-adoption-bookmarks-treatment-backup-subtitle = Προστατέψτε τους σελιδοδείκτες σας συγχρονίζοντάς τους με κρυπτογράφηση στις συσκευές σας.
 fxa-adoption-primary-button-label = Εγγραφή
 
 ## Protections panel
