@@ -1203,6 +1203,7 @@ addressbar-locbar-showtrendingsuggestions-option =
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option =
     .label = اقتراحات من { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = احصل على اقتراحات من الوِب تتعلق ببحثك.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = اقتراحات من { -brand-short-name }
