@@ -119,6 +119,12 @@ fp-cert-error-code = Kód chyby: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } nedůvěřuje serveru { $hostname }, protože nemohl prokázat, že splňuje požadavky na transparentnost veřejného certifikátu.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Pravděpodobně nic, protože je pravděpodobné, že problém je se samotným webem.
 fp-learn-more-about-secure-connection-failures = Zjistěte více o chybách zabezpečeného připojení
 fp-learn-more-about-cert-issues = Zjistěte více o těchto typech problémů s certifikáty
 fp-learn-more-about-time-related-errors = Zjistěte více o řešení chyb souvisejících s časem
@@ -289,3 +295,4 @@ fp-certerror-intro =
        *[other] Aplikace { -brand-short-name } zjistila potenciálně závažný bezpečnostní problém se stránkou <strong>{ $hostname }</strong>. Někdo, kdo se vydává za web, by se mohl pokusit ukrást například údaje o kreditní kartě, hesla nebo e-maily.
     }
 fp-certerror-expired-into = { -brand-short-name } zjistil bezpečnostní problém se stránkou <strong>{ $hostname }</strong>. Buď není web správně nastaven, nebo jsou hodiny vašeho zařízení nastaveny na špatný datum/čas.
+fp-certerror-transparency-intro = Osoba vydávající se za server <strong>{ $hostname }</strong> se může pokusit ukrást informace o platební kartě, hesla nebo e-mailové adresy.

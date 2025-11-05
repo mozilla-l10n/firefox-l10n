@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Doba platnosti
 storage-table-headers-cookies-size = Velikost
 storage-table-headers-cookies-last-accessed = Poslední přístup
 storage-table-headers-cookies-creation-time = Vytvořeno
+storage-table-headers-cookies-update-time = Aktualizováno
 storage-table-headers-cache-status = Stav
 storage-table-headers-extension-storage-area = Úložiště
 
