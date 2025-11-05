@@ -492,6 +492,13 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Nan Peukakah
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nan Peukakah
+sync-device-name-change-2 =
+    .label = Gantoe Nan Peukakah
+    .accesskey = G
 sync-device-name-change =
     .label = Gantoe Nan Peukakah...
     .accesskey = G
