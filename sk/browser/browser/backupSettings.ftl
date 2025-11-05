@@ -249,3 +249,5 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Vytvorené dňa { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
 backup-file-restore-file-validation-error = Tento súbor nefunguje. Skúste vybrať iný súbor. <a data-l10n-name="restore-problems">Stále máte problémy?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Nie je vybraný žiadny súbor

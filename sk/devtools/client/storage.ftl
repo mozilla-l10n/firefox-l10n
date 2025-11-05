@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Platnosť vyprší / Max-Age
 storage-table-headers-cookies-size = Veľkosť
 storage-table-headers-cookies-last-accessed = Posledný prístup
 storage-table-headers-cookies-creation-time = Vytvorené
+storage-table-headers-cookies-update-time = Aktualizované
 storage-table-headers-cache-status = Stav
 storage-table-headers-extension-storage-area = Úložisko
 

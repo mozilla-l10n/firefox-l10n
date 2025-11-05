@@ -271,3 +271,7 @@ link-preview-setup-faster-next-time = Nabudúce uvidíte kľúčové body rýchl
 link-preview-onboarding-button = Zobraziť ukážku
 # Onboarding card Close button
 link-preview-onboarding-close = Zavrieť
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Prvé nastavenie
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Môže to chvíľu trvať. Nabudúce uvidíte kľúčové body rýchlejšie.
