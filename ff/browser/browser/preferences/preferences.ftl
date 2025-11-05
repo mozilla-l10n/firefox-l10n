@@ -572,6 +572,13 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Innde Kaɓirgol
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Innde Kaɓirgol
+sync-device-name-change-2 =
+    .label = Waylu Innde Kaɓirgel
+    .accesskey = a
 sync-device-name-change =
     .label = Waylu Innde Kaɓirgel…
     .accesskey = a
