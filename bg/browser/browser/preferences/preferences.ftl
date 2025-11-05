@@ -612,6 +612,9 @@ choose-bookmark =
     .label = Отметка…
     .accesskey = О
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Съдържание на { -firefox-home-brand-name }
@@ -747,6 +750,8 @@ search-keyword-warning-bookmark = Избрали сте дума, която в�
 containers-back-button2 =
     .aria-label = Към настройките
 containers-header = Изолирани раздели
+containers-section-header =
+    .heading = Изолирани раздели
 containers-add-button =
     .label = Нов изолатор
     .accesskey = и
