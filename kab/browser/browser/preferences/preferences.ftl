@@ -1215,6 +1215,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Sken isumar n unadi i yettuɛelqen
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Isumar seg { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Awi isumar seg web yeqqnen ɣer unadi-k·m.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Isumar seg { -brand-short-name }
