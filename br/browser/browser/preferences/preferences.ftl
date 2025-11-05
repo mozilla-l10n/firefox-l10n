@@ -823,6 +823,9 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Anv an trevnad
+sync-device-name-change-2 =
+    .label = Kemmañ anv an trevnad
+    .accesskey = a
 sync-device-name-change =
     .label = Kemmañ anv an trevnad…
     .accesskey = a
