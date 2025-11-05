@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Expires / Max-Age
 storage-table-headers-cookies-size = 크기
 storage-table-headers-cookies-last-accessed = 마지막 액세스
 storage-table-headers-cookies-creation-time = 생성일
+storage-table-headers-cookies-update-time = 업데이트됨
 storage-table-headers-cache-status = 상태
 storage-table-headers-extension-storage-area = 저장 영역
 

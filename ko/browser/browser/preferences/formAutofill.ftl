@@ -137,8 +137,8 @@ autofill-edit-card-title = 신용 카드 수정
 autofill-edit-card-password-prompt =
     { PLATFORM() ->
         [macos] 신용 카드 정보 표시
-        [windows] { -brand-short-name }가 신용카드 정보를 표시하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
-       *[other] { -brand-short-name }가 신용카드 정보를 표시하려고 합니다.
+        [windows] { -brand-short-name }가 신용 카드 정보를 표시하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
+       *[other] { -brand-short-name }가 신용 카드 정보를 표시하려고 합니다.
     }
 autofill-message-tooltip = 자동 채우기에 대한 메시지 보기
 # The dialog title for creating credit cards in browser preferences.

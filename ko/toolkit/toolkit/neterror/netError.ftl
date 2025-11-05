@@ -111,7 +111,7 @@ neterror-nss-failure-not-verified = 받은 데이터의 신뢰성을 확인할 �
 neterror-nss-failure-contact-website = 웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-intro = { -brand-short-name }가 잠재적인 보안 위협을 감지하고 <b>{ $hostname }</b> 사이트로 진행하지 않았습니다. 사이트를 방문하면 공격자가 비밀번호나 이메일, 신용카드와 같은 정보를 탈취할 수 있습니다.
+certerror-intro = { -brand-short-name }가 잠재적인 보안 위협을 감지하고 <b>{ $hostname }</b> 사이트로 진행하지 않았습니다. 사이트를 방문하면 공격자가 비밀번호나 이메일, 신용 카드와 같은 정보를 탈취할 수 있습니다.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-sts-intro = 이 웹 사이트는 보안 연결을 필요로 하므로 { -brand-short-name }가 잠재적인 보안 위협을 감지하고 <b>{ $hostname }</b> 사이트로 진행하지 않았습니다.
@@ -137,7 +137,7 @@ neterror-inadequate-security-code = 오류 코드: NS_ERROR_NET_INADEQUATE_SECUR
 neterror-clock-skew-error = 컴퓨터의 시계가 { DATETIME($now, dateStyle: "medium") }으로 설정되어 있어서 { -brand-short-name }가 안전하게 연결을 할 수 없습니다. <b>{ $hostname }</b> 방문을 위해서는 컴퓨터의 시계를 올바른 날짜, 시간 및 시간대로 설정하시고 난 후, <b>{ $hostname }</b>를 다시 로드하세요.
 neterror-network-protocol-error-intro = 네트워크 프로토콜에 오류가 감지되어 페이지를 표시할 수 없습니다.
 neterror-network-protocol-error-contact-website = 웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.
-certerror-expired-cert-second-para = 웹 사이트의 인증서가 만료되어 { -brand-short-name }가 안전하게 연결할 수 없습니다. 사이트를 방문하면 공격자가 비밀번호나 이메일, 신용카드와 같은 정보를 탈취할 수 있습니다.
+certerror-expired-cert-second-para = 웹 사이트의 인증서가 만료되어 { -brand-short-name }가 안전하게 연결할 수 없습니다. 사이트를 방문하면 공격자가 비밀번호나 이메일, 신용 카드와 같은 정보를 탈취할 수 있습니다.
 certerror-expired-cert-sts-second-para = 웹 사이트의 인증서가 만료되어 { -brand-short-name }가 안전하게 연결할 수 없습니다.
 certerror-what-can-you-do-about-it-title = 사용자가 무엇을 할 수 있나요?
 certerror-unknown-issuer-what-can-you-do-about-it-website = 이러한 문제는 대부분 웹 사이트와 관련이 있고 사용자가 할 수 있는 일은 없습니다.

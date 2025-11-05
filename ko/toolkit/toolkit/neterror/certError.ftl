@@ -107,6 +107,12 @@ fp-cert-error-code = 오류 코드: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name }는 { $hostname } 사이트가 공공 인증서 투명성 요구사항을 충족한다는 것을 증명할 수 없기 때문에 신뢰하지 않습니다.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = 사이트 자체에 문제가 있을 수 있기 때문에 별것 아닙니다.
 fp-learn-more-about-secure-connection-failures = 보안 연결 실패에 대해 더 알아보기
 fp-learn-more-about-cert-issues = 이러한 종류의 인증서 문제에 대해 더 알아보기
 fp-learn-more-about-time-related-errors = 시간 관련 오류 해결에 대해 더 알아보기
@@ -189,5 +195,6 @@ fp-certerror-hide-advanced-button = 고급 숨기기
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = { $hostname } 사이트로 진행 (위험)
-fp-certerror-intro = { -brand-short-name }가 <strong>{ $hostname }</strong>에서 심각한 보안 문제를 발견했습니다. 사이트를 사칭하는 누군가가 신용카드 정보, 비밀번호, 이메일 등을 탈취할 수 있습니다.
+fp-certerror-intro = { -brand-short-name }가 <strong>{ $hostname }</strong>에서 심각한 보안 문제를 발견했습니다. 사이트를 사칭하는 누군가가 신용 카드 정보, 비밀번호, 이메일 등을 탈취할 수 있습니다.
 fp-certerror-expired-into = { -brand-short-name }가 <strong>{ $hostname }</strong>에서 보안 문제를 발견했습니다. 사이트 설정이 올바르지 않거나 기기의 시계가 잘못된 날짜/시간으로 설정되어 있습니다.
+fp-certerror-transparency-intro = 누군가 <strong>{ $hostname }</strong> 사칭을 하여 신용 카드 정보나 비밀번호, 이메일 등을 탈취할 수 있습니다.

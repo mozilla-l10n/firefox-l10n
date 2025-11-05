@@ -14,6 +14,7 @@ url-classifier-search-result-list = 테이블 목록: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = 잘못된 URL
 url-classifier-search-error-no-features = 선택한 기능 없음
+url-classifier-search-error-no-results = URL에 대한 항목을 찾을 수 없음
 url-classifier-search-btn = 검색 시작
 url-classifier-search-features = 기능
 url-classifier-search-listType = 유형 목록

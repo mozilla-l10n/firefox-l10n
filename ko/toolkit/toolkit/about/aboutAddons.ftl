@@ -281,6 +281,10 @@ colorway-removal-notice-message =
         부가 기능 사이트에서 새 버전을 받으세요.
 colorway-removal-notice-learn-more = 더 알아보기
 colorway-removal-notice-button = 업데이트된 컬러웨이 테마 받기
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Windows 대비 설정이 { -brand-short-name } 테마를 재정의합니다. { -brand-short-name } 테마를 사용하려면 이 설정을 끄세요.
 privacy-policy = 개인정보처리방침
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
