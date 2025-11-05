@@ -275,10 +275,6 @@ main-context-menu-image-desc =
 main-context-menu-visual-search-2 =
     .label = Cerca la imatge amb { $engine }
     .accesskey = e
-# Variables
-#   $engine (String) - Name of the search engine that will perform the search.
-main-context-menu-visual-search =
-    .label = Cerca la imatge amb { $engine }
 main-context-menu-video-save-as =
     .label = Anomena i desa el vídeo…
     .accesskey = v

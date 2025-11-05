@@ -1444,7 +1444,6 @@ trustpanel-header-enabled = { -brand-product-name } er på vakt
 trustpanel-description-enabled2 = Du er verna. Om vi oppdagar noko seier vi ifrå.
 trustpanel-header-enabled-insecure = Ver forsiktig på denne nettstaden
 trustpanel-description-enabled-insecure = { -brand-product-name } oppdaga noko mistenkeleg.
-trustpanel-description-enabled = Du er verna. Om vi oppdagar noko seier vi ifrå
 trustpanel-header-disabled = Du har slått av vern
 trustpanel-description-disabled = { -brand-product-name } er deaktivert. Vi foreslår at du skrur på vernet igjen.
 trustpanel-clear-cookies-button = Slett infokapslar og nettstaddata

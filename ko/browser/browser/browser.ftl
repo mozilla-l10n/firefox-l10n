@@ -1435,7 +1435,6 @@ trustpanel-header-enabled = { -brand-product-name }가 감시 중
 trustpanel-description-enabled2 = 보호 중입니다. 무언가를 발견하면 알려드리겠습니다.
 trustpanel-header-enabled-insecure = 이 사이트를 조심하세요
 trustpanel-description-enabled-insecure = { -brand-product-name }가 수상한 것을 발견하였습니다.
-trustpanel-description-enabled = 보호 중입니다. 무언가를 발견하면 알려드리겠습니다.
 trustpanel-header-disabled = 보호 기능을 사용 중지함
 trustpanel-description-disabled = { -brand-product-name }가 비번 상태입니다. 보호 기능을 다시 켜는 것이 좋습니다.
 trustpanel-clear-cookies-button = 쿠키 및 사이트 데이터 지우기

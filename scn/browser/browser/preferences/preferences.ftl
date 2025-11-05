@@ -403,9 +403,6 @@ choose-bookmark =
     .label = Usa nu nzingalibbru…
     .accesskey = n
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -686,12 +683,6 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Crunuluggìa
@@ -770,12 +761,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Manija dati…
     .accesskey = d
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Privacy Section - Address Bar
 
@@ -931,9 +916,6 @@ addon-recommendations-link = Cchiù nfurmazzioni
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalijazzioni di dati è sdisabbilitata nnâ cunfijurazzioni di sta virsiuni
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -964,12 +946,6 @@ certs-view =
 certs-devices =
     .label = Dispusitivi di sicurizza…
     .accesskey = D
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

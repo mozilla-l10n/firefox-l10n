@@ -1461,7 +1461,6 @@ trustpanel-header-enabled = { -brand-product-name } è in vuaite
 trustpanel-description-enabled2 = Protezion ative. Se o cjatìn alc, tal fasarìn savê.
 trustpanel-header-enabled-insecure = Sta atent su chest sît
 trustpanel-description-enabled-insecure = { -brand-product-name } al à cjatât alc di suspiet.
-trustpanel-description-enabled = Protezion ative. Se o cjatìn alc ti fasarìn savê
 trustpanel-header-disabled = Tu âs disativât lis protezions
 trustpanel-description-disabled = { -brand-product-name } al è fûr servizi. Ti conseìn di tornâ a ativâ lis protezions.
 trustpanel-clear-cookies-button = Nete vie i cookies e i dâts dai sîts

@@ -275,10 +275,6 @@ main-context-menu-image-desc =
 main-context-menu-visual-search-2 =
     .label = Afbeelding zoeken met { $engine }
     .accesskey = z
-# Variables
-#   $engine (String) - Name of the search engine that will perform the search.
-main-context-menu-visual-search =
-    .label = Afbeelding zoeken met { $engine }
 main-context-menu-video-save-as =
     .label = Video opslaan als…
     .accesskey = n

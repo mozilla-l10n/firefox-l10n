@@ -1457,7 +1457,6 @@ trustpanel-header-enabled = { -brand-product-name }-i po bën rojë
 trustpanel-description-enabled2 = Jeni i mbrojtur. Nëse vërejmë gjë, do t’ua bëjmë të ditur.
 trustpanel-header-enabled-insecure = Hapni sytë në këtë sajt
 trustpanel-description-enabled-insecure = { -brand-product-name } vuri re diçka të dyshimtë.
-trustpanel-description-enabled = Jeni i mbrojtur. Nëse vërejmë gjë, do t’ua bëjmë të ditur
 trustpanel-header-disabled = Keni mbyllur mbrojtjet
 trustpanel-description-disabled = { -brand-product-name }-i s’është në shërbim. Sugjerojmë të riaktivizoni mbrojtjet.
 trustpanel-clear-cookies-button = Spastro cookie-t dhe të dhëna sajti

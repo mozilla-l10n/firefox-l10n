@@ -1462,7 +1462,6 @@ trustpanel-header-enabled = { -brand-product-name } beskytter dig
 trustpanel-description-enabled2 = Du er beskyttet. Vi giver dig besked, hvis vi opdager noget.
 trustpanel-header-enabled-insecure = Vær forsigtig på dette websted
 trustpanel-description-enabled-insecure = { -brand-product-name } bemærkede noget mistænkeligt.
-trustpanel-description-enabled = Du er beskyttet. Vi giver dig besked, hvis vi opdager noget.
 trustpanel-header-disabled = Du har slået beskyttelse fra
 trustpanel-description-disabled = { -brand-product-name } er ikke aktiveret. Vi foreslår, at du slår beskyttelse til igen.
 trustpanel-clear-cookies-button = Ryd cookies og websteds-data

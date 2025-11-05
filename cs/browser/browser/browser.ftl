@@ -1643,7 +1643,6 @@ trustpanel-header-enabled = { -brand-product-name } je ve střehu
 trustpanel-description-enabled2 = Jste chráněni. Pokud něco zjistíme, dáme vám vědět.
 trustpanel-header-enabled-insecure = Buďte na této stránce opatrní
 trustpanel-description-enabled-insecure = { -brand-product-name } si všiml něčeho podezřelého.
-trustpanel-description-enabled = Jste chráněni. Pokud něco zjistíme, dáme vám vědět
 trustpanel-header-disabled = Vypnuli jste ochranu
 trustpanel-description-disabled = { -brand-product-name } není ve střehu. Doporučujeme vám znovu zapnout ochranu.
 trustpanel-clear-cookies-button = Vymazat cookies a uložená data

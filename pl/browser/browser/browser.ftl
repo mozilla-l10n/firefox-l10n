@@ -1478,7 +1478,6 @@ trustpanel-header-enabled = { -brand-product-name } jest na straży
 trustpanel-description-enabled2 = Ochrona jest włączona. Jeśli coś zauważymy, damy Ci znać.
 trustpanel-header-enabled-insecure = Zachowaj ostrożność na tej witrynie
 trustpanel-description-enabled-insecure = { -brand-product-name } zauważył coś podejrzanego.
-trustpanel-description-enabled = Ochrona jest włączona. Jeśli coś zauważymy, damy Ci znać.
 trustpanel-header-disabled = Wyłączono ochronę
 trustpanel-description-disabled = { -brand-product-name } jest po służbie. Zalecamy ponowne włączenie ochrony.
 trustpanel-clear-cookies-button = Wyczyść ciasteczka i dane witryny

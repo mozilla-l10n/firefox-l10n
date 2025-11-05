@@ -1415,7 +1415,6 @@ trustpanel-header-enabled = { -brand-product-name } على الحراسة
 trustpanel-description-enabled2 = أنت محمي. إذا لاحظنا أي شيء، سنُعلمك.
 trustpanel-header-enabled-insecure = كن حذرًا على هذا الموقع
 trustpanel-description-enabled-insecure = { -brand-product-name } لاحظ شيئًا مريبًا.
-trustpanel-description-enabled = أنت محمي. إذا لاحظنا أي شيء، سنُعلمك.
 trustpanel-header-disabled = لقد أوقفت الحماية
 trustpanel-description-disabled = { -brand-product-name } خارج الخدمة. نقترح إعادة تفعيل الحماية.
 trustpanel-clear-cookies-button = امسح الكعكات و بيانات المواقع

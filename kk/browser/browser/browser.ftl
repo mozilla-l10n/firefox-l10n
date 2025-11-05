@@ -1441,7 +1441,6 @@ trustpanel-etp-description-disabled = { -brand-product-name } компаниял
 trustpanel-connection-label-secure = Байланыс қауіпсіз
 trustpanel-connection-label-insecure = Байланыс қауіпсіз емес
 trustpanel-header-enabled = { -brand-product-name } сақшылықта
-trustpanel-description-enabled = Сіз қорғалғансыз. Бірдеңені байқасақ, сізге хабарлаймыз
 trustpanel-header-disabled = Сіз қорғаныстарды сөндірдіңіз
 trustpanel-description-disabled = { -brand-product-name } жұмыстан тыс. Біз қорғаныстарды қайта іске қосуды ұсынамыз.
 trustpanel-clear-cookies-button = Cookies файлдары және сайт деректерін тазарту

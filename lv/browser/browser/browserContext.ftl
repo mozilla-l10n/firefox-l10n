@@ -270,10 +270,6 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Skatīt aprakstu
     .accesskey = p
-# Variables
-#   $engine (String) - Name of the search engine that will perform the search.
-main-context-menu-visual-search =
-    .label = Meklēt attēlu ar { $engine }
 main-context-menu-video-save-as =
     .label = Saglabāt video kā…
     .accesskey = g

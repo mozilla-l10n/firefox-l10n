@@ -1458,7 +1458,6 @@ trustpanel-header-enabled = { -brand-product-name } är på vakt
 trustpanel-description-enabled2 = Du är skyddad. Om vi upptäcker något meddelar vi dig.
 trustpanel-header-enabled-insecure = Var försiktig med den här sidan
 trustpanel-description-enabled-insecure = { -brand-product-name } märkte något misstänkt.
-trustpanel-description-enabled = Du är skyddad. Om vi upptäcker något meddelar vi dig
 trustpanel-header-disabled = Du stängde av skydden
 trustpanel-description-disabled = { -brand-product-name } är inte i drift. Vi föreslår att du aktiverar skydden igen.
 trustpanel-clear-cookies-button = Rensa kakor och webbplatsdata

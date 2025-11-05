@@ -1458,7 +1458,6 @@ trustpanel-connection-label-insecure = Ligação não segura
 trustpanel-header-enabled = { -brand-product-name } está a proteger
 trustpanel-description-enabled2 = Está protegido. Se detetarmos algo, iremos fornecer-lhe essa informação.
 trustpanel-header-enabled-insecure = Tenha cuidado neste site
-trustpanel-description-enabled = Está protegido. Se detetarmos algo, iremos informá-lo.
 trustpanel-header-disabled = Você desativou as proteções
 trustpanel-description-disabled = { -brand-product-name } não está ao serviço. Sugerimos que volte a ativar as proteções.
 trustpanel-clear-cookies-button = Limpar cookies e dados de sites

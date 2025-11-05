@@ -1489,7 +1489,6 @@ trustpanel-header-enabled = { -brand-product-name } stražujo
 trustpanel-description-enabled2 = Sćo šćitany. Jolic něco namakajomy, dajomy wam to k wěsći.
 trustpanel-header-enabled-insecure = Buźćo wobglědniwy na toś tom sedle
 trustpanel-description-enabled-insecure = { -brand-product-name } jo zawupytnuł něco suspektnego.
-trustpanel-description-enabled = Sćo šćitany. Jolic něco namakajomy, dajomy wam to k wěsći
 trustpanel-header-disabled = Sćo znjemóžnił šćity
 trustpanel-description-disabled = { -brand-product-name } njeźěła. Naraźujomy šćity zasej zmóžniś.
 trustpanel-clear-cookies-button = Cookieje a sedłowe daty wulašowaś

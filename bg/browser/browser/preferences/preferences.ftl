@@ -612,9 +612,6 @@ choose-bookmark =
     .label = Отметка…
     .accesskey = О
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Съдържание на { -firefox-home-brand-name }

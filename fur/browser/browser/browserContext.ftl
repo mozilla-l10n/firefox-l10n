@@ -275,10 +275,6 @@ main-context-menu-image-desc =
 main-context-menu-visual-search-2 =
     .label = Cîr imagjin cun { $engine }
     .accesskey = C
-# Variables
-#   $engine (String) - Name of the search engine that will perform the search.
-main-context-menu-visual-search =
-    .label = Cîr imagjin cun { $engine }
 main-context-menu-video-save-as =
     .label = Salve video come…
     .accesskey = v

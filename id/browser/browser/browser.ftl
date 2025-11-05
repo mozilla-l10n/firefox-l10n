@@ -1433,7 +1433,6 @@ trustpanel-header-enabled = { -brand-product-name } berjaga-jaga
 trustpanel-description-enabled2 = Anda terlindungi. Jika kami menemukan sesuatu, kami akan memberi tahu Anda
 trustpanel-header-enabled-insecure = Hati-hati di situs ini
 trustpanel-description-enabled-insecure = { -brand-product-name } melihat sesuatu yang mencurigakan.
-trustpanel-description-enabled = Anda terlindungi. Jika kami menemukan sesuatu, kami akan memberi tahu Anda
 trustpanel-header-disabled = Anda mematikan perlindungan
 trustpanel-description-disabled = { -brand-product-name } sedang tidak bertugas. Kami menyarankan untuk mengaktifkan kembali perlindungan.
 trustpanel-clear-cookies-button = Bersihkan kuki dan data situs

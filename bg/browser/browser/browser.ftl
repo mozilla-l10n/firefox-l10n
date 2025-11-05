@@ -1459,7 +1459,6 @@ trustpanel-header-enabled = { -brand-product-name } ви пази
 trustpanel-description-enabled2 = Защитени сте. Ако забележим нещо, ще ви уведомим.
 trustpanel-header-enabled-insecure = Бъдете внимателни на тази страница
 trustpanel-description-enabled-insecure = { -brand-product-name } установи нещо подозрително.
-trustpanel-description-enabled = Вие сте защитени. Ако забележим нещо, ще ви уведомим
 trustpanel-header-disabled = Защитите са изключени
 trustpanel-description-disabled = { -brand-product-name } не ви защитава. Съветваме ви да включите защитите.
 trustpanel-clear-cookies-button = Изчистване на бисквитките и данните на сайта

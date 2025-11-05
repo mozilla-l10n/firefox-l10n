@@ -172,6 +172,8 @@ genai-chatbot-summarize-title = Nou! Resumiu pàgines amb un sol clic
 genai-chatbot-summarize-button = Resumeix la pàgina
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Feu clic amb el botó dret al vostre bot de conversa d'IA a la barra lateral i trieu "Resumeix la pàgina".
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Feu clic amb el botó dret al botó de les espurnes brillants de la barra lateral i seleccioneu "Resumeix la pàgina". La primera vegada, també triareu un chatbot d'IA.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Obriu el bot de conversa d'IA a la barra lateral i trieu "Resumeix la pàgina" a la part inferior.
 genai-chatbot-summarize-footer-generic-subtitle = Afegiu un bot de conversa d'IA a la barra lateral del { -brand-short-name } per a resumir ràpidament les pàgines.

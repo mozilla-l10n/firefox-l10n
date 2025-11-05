@@ -275,10 +275,6 @@ main-context-menu-image-desc =
 main-context-menu-visual-search-2 =
     .label = Kërkojeni Figurën me { $engine }
     .accesskey = e
-# Variables
-#   $engine (String) - Name of the search engine that will perform the search.
-main-context-menu-visual-search =
-    .label = Kërkojeni Figurën me { $engine }
 main-context-menu-video-save-as =
     .label = Ruajeni Videon Si…
     .accesskey = u

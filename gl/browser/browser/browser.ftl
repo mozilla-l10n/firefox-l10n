@@ -1389,7 +1389,6 @@ trustpanel-etp-description-disabled = { -brand-product-name } pensa que as empre
 trustpanel-connection-label-secure = Conexión segura
 trustpanel-connection-label-insecure = Conexión non segura
 trustpanel-header-enabled = { -brand-product-name } está en garda
-trustpanel-description-enabled = Está protexido. Se detectamos algo, avisarémoste.
 trustpanel-header-disabled = Desactivaches as proteccións
 trustpanel-description-disabled = { -brand-product-name } está fóra de servizo. Suxerímosche que volvas activar as proteccións.
 trustpanel-clear-cookies-button = Borrar as cookies e os datos do sitio

@@ -1460,7 +1460,6 @@ trustpanel-header-enabled = { -brand-product-name } ist wachsam
 trustpanel-description-enabled2 = Sie sind geschützt. Wenn wir etwas entdecken, sagen wir es Ihnen.
 trustpanel-header-enabled-insecure = Seien Sie vorsichtig auf dieser Website
 trustpanel-description-enabled-insecure = { -brand-product-name } hat etwas verdächtiges bemerkt.
-trustpanel-description-enabled = Sie sind geschützt. Wenn wir etwas entdecken, sagen wir es Ihnen
 trustpanel-header-disabled = Sie haben die Schutzmaßnahmen deaktiviert
 trustpanel-description-disabled = { -brand-product-name } ist nicht im Dienst. Wir empfehlen Ihnen, den Schutz wieder zu aktivieren.
 trustpanel-clear-cookies-button = Cookies und Website-Daten löschen

@@ -275,10 +275,6 @@ main-context-menu-image-desc =
 main-context-menu-visual-search-2 =
     .label = Serĉi bildon per { $engine }
     .accesskey = b
-# Variables
-#   $engine (String) - Name of the search engine that will perform the search.
-main-context-menu-visual-search =
-    .label = Serĉi bildon per { $engine }
 main-context-menu-video-save-as =
     .label = Konservi videon kiel…
     .accesskey = K

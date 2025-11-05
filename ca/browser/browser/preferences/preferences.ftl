@@ -575,9 +575,6 @@ choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contingut de l'{ -firefox-home-brand-name }

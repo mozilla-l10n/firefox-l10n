@@ -1460,7 +1460,6 @@ trustpanel-header-enabled = Το { -brand-product-name } είναι σε επι�
 trustpanel-description-enabled2 = Προστατεύεστε. Αν εντοπίσουμε κάτι, θα σας ενημερώσουμε.
 trustpanel-header-enabled-insecure = Να προσέχετε σε αυτόν τον ιστότοπο
 trustpanel-description-enabled-insecure = Το { -brand-product-name } παρατήρησε κάτι ύποπτο.
-trustpanel-description-enabled = Προστατεύεστε. Αν εντοπίσουμε κάτι, θα σας ενημερώσουμε.
 trustpanel-header-disabled = Απενεργοποιήσατε την προστασία
 trustpanel-description-disabled = Το { -brand-product-name } είναι εκτός υπηρεσίας. Προτείνουμε να ενεργοποιήσετε ξανά την προστασία.
 trustpanel-clear-cookies-button = Απαλοιφή cookie και δεδομένων ιστοτόπου

@@ -1433,7 +1433,6 @@ trustpanel-header-enabled = { -brand-product-name } 正在防护
 trustpanel-description-enabled2 = 您已受保护，我们会在发现异常情况时告知您。
 trustpanel-header-enabled-insecure = 请谨慎浏览此网站
 trustpanel-description-enabled-insecure = { -brand-product-name } 发现可疑情况。
-trustpanel-description-enabled = 您已受保护，我们会在发现异常情况时告知您。
 trustpanel-header-disabled = 您已关闭保护
 trustpanel-description-disabled = { -brand-product-name } 已暂停保护，建议重新启用。
 trustpanel-clear-cookies-button = 清除 Cookie 和网站数据

@@ -571,9 +571,6 @@ choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } saturs
@@ -1319,9 +1316,6 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

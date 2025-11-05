@@ -1444,7 +1444,6 @@ trustpanel-header-enabled = { -brand-product-name } is on guard
 trustpanel-description-enabled2 = You’re protected. If we spot something, we’ll let you know.
 trustpanel-header-enabled-insecure = Be careful on this site
 trustpanel-description-enabled-insecure = { -brand-product-name } noticed something suspicious.
-trustpanel-description-enabled = You’re protected. If we spot something, we’ll let you know
 trustpanel-header-disabled = You turned off protections
 trustpanel-description-disabled = { -brand-product-name } is off-duty. We suggest turning protections back on.
 trustpanel-clear-cookies-button = Clear cookies and site data

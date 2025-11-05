@@ -1460,7 +1460,6 @@ trustpanel-header-enabled = El { -brand-product-name } està en guàrdia
 trustpanel-description-enabled2 = Esteu protegit. Si detectem alguna cosa, us ho farem saber.
 trustpanel-header-enabled-insecure = Aneu amb compte en aquest lloc
 trustpanel-description-enabled-insecure = El { -brand-product-name } ha notat alguna cosa sospitosa.
-trustpanel-description-enabled = Esteu protegit. Si detectem alguna cosa, us ho farem saber
 trustpanel-header-disabled = Heu desactivat les proteccions
 trustpanel-description-disabled = El { -brand-product-name } està fora de servei. Us recomanem reactivar les proteccions.
 trustpanel-clear-cookies-button = Esborra les galetes i dades del lloc

@@ -275,10 +275,6 @@ main-context-menu-image-desc =
 main-context-menu-visual-search-2 =
     .label = Tschertgar il maletg cun { $engine }
     .accesskey = e
-# Variables
-#   $engine (String) - Name of the search engine that will perform the search.
-main-context-menu-visual-search =
-    .label = Tschertgar il maletg cun { $engine }
 main-context-menu-video-save-as =
     .label = Memorisar il video sut…
     .accesskey = v

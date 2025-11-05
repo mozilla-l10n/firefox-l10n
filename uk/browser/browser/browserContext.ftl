@@ -275,10 +275,6 @@ main-context-menu-image-desc =
 main-context-menu-visual-search-2 =
     .label = Пошук зображення за допомогою { $engine }
     .accesskey = з
-# Variables
-#   $engine (String) - Name of the search engine that will perform the search.
-main-context-menu-visual-search =
-    .label = Пошук зображення за допомогою { $engine }
 main-context-menu-video-save-as =
     .label = Зберегти відео як…
     .accesskey = в

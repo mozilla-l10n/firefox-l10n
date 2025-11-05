@@ -1458,7 +1458,6 @@ trustpanel-header-enabled = { -brand-product-name } è attent
 trustpanel-description-enabled2 = Ti es protegì. Sche nus scuvrin insatge, t’infurmain nus.
 trustpanel-header-enabled-insecure = Sajas precaut sin questa website
 trustpanel-description-enabled-insecure = { -brand-product-name } ha remartgà insatge dubius.
-trustpanel-description-enabled = Ti es protegì. Sche nus scuvrin insatge, t’infurmain nus
 trustpanel-header-disabled = Ti has deactivà las protecziuns
 trustpanel-description-disabled = { -brand-product-name } è ord funcziun. Nus recumandain da puspè activar las protecziuns.
 trustpanel-clear-cookies-button = Stizzar ils cookies e las datas da websites

@@ -41,7 +41,6 @@ pdfjs-editor-edit-comment-popup-button =
 
 ##  Edit a comment dialog
 
-pdfjs-editor-edit-comment-actions-edit-button-label = آلشت
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = آلشت منشڌ
 

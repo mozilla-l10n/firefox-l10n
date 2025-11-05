@@ -625,9 +625,6 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }

@@ -1459,7 +1459,6 @@ trustpanel-header-enabled = { -brand-product-name } staras garde
 trustpanel-description-enabled2 = Vi estas protektita. Se ni malkovras ion, ni sciigos vin.
 trustpanel-header-enabled-insecure = Estu singarda en tiu ĉi retejo
 trustpanel-description-enabled-insecure = { -brand-product-name } rimarkis ion suspektindan.
-trustpanel-description-enabled = Vi estas protektita. Se ni malkovras ion, ni sciigos vin
 trustpanel-header-disabled = Vi malŝaltis protektojn
 trustpanel-description-disabled = { -brand-product-name } ne deĵoras. Ni sugestas reaktivigi protektojn.
 trustpanel-clear-cookies-button = Viŝi kuketojn kaj retejajn datumojn

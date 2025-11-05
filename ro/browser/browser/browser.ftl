@@ -1477,7 +1477,6 @@ trustpanel-header-enabled = { -brand-product-name } este în gardă
 trustpanel-description-enabled2 = Ești protejat(ă). Dacă observăm ceva, te vom anunța.
 trustpanel-header-enabled-insecure = Ai grijă pe acest site
 trustpanel-description-enabled-insecure = { -brand-product-name } a observat ceva suspect.
-trustpanel-description-enabled = Ești protejat(ă). Dacă observăm ceva, te vom anunța.
 trustpanel-header-disabled = Ai dezactivat protecțiile
 trustpanel-description-disabled = { -brand-product-name } nu este în gardă. Îți sugerăm să reactivezi protecțiile.
 trustpanel-clear-cookies-button = Șterge cookie-urile și datele site-urilor

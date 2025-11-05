@@ -1144,7 +1144,6 @@ onboarding-checklist-button-label = সেটআপ শেষ করুন
 
 trustpanel-connection-label-secure = সংযোগ সুরক্ষিত
 trustpanel-connection-label-insecure = সংযোগ নিরাপদ নয়
-trustpanel-description-enabled = আপনি সুরক্ষিত। যদি কিছু শনাক্ত করি আমরা আপনাকে জানাবো।
 trustpanel-header-disabled = আপনি সুরক্ষা বন্ধ করে দিয়েছেন
 trustpanel-clear-cookies-button = কুকি ও সাইট ডেটা মুছে ফেলুন
 trustpanel-privacy-link = প্রাইভেসি সেটিংস

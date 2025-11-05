@@ -1466,7 +1466,6 @@ trustpanel-header-enabled = ‏{ -brand-product-name } עומד על המשמר
 trustpanel-description-enabled2 = ההגנות פעילות. אם נזהה משהו חריג, נודיע לך.
 trustpanel-header-enabled-insecure = יש להיזהר באתר זה
 trustpanel-description-enabled-insecure = ‏{ -brand-product-name } שם לב למשהו חשוד.
-trustpanel-description-enabled = ההגנות פעילות. אם נזהה משהו חריג, נודיע לך
 trustpanel-header-disabled = כיבית את ההגנות
 trustpanel-description-disabled = ההגנות של { -brand-product-name } מושבתות כרגע. אנו מציעים להפעיל מחדש את ההגנות.
 trustpanel-clear-cookies-button = ניקוי עוגיות ונתוני אתרים

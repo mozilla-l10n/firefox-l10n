@@ -1463,7 +1463,6 @@ trustpanel-header-enabled = { -brand-product-name } staat op wacht
 trustpanel-description-enabled2 = U bent beschermd. Als we iets ontdekken, laten we u dat weten.
 trustpanel-header-enabled-insecure = Wees voorzichtig op deze website
 trustpanel-description-enabled-insecure = { -brand-product-name } heeft iets verdachts opgemerkt.
-trustpanel-description-enabled = U bent beschermd. Als we iets ontdekken, laten we u dat weten
 trustpanel-header-disabled = U hebt beschermingen uitgeschakeld
 trustpanel-description-disabled = { -brand-product-name } heeft geen dienst. We raden u aan beschermingen weer in te schakelen.
 trustpanel-clear-cookies-button = Cookies en websitegegevens wissen

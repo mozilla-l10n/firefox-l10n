@@ -1460,7 +1460,6 @@ trustpanel-header-enabled = { -brand-product-name } ਪਹਿਰੇ ਉੱਤੇ
 trustpanel-description-enabled2 = ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਹੋ। ਜੇ ਸਾਨੂੰ ਕੁਝ ਲੱਭਿਆ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਦੱਸਾਂਗੇ।
 trustpanel-header-enabled-insecure = ਇਸ ਸਾਈਟ ਉੱਤੇ ਸਾਵਧਾਨ ਰਹੋ
 trustpanel-description-enabled-insecure = { -brand-product-name } ਨੂੰ ਕੁਝ ਸ਼ੱਕੀ ਜਾਪਿਆ ਹੈ।
-trustpanel-description-enabled = ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਹੋ। ਜੇ ਸਾਨੂੰ ਕੁਝ ਲੱਭਿਆ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਦੱਸਾਂਗੇ
 trustpanel-header-disabled = ਤੁਸੀਂ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਬੰਦ ਕੀਤਾ ਹੈ
 trustpanel-description-disabled = { -brand-product-name } ਛੁੱਟੀ ਉੱਤੇ ਹੈ। ਅਸੀਂ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰਨ ਦੀ ਸਲਾਹ ਦਿੰਦੇ ਹਾਂ।
 trustpanel-clear-cookies-button = ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟਾ ਨੂੰ ਮਿਟਾਓ

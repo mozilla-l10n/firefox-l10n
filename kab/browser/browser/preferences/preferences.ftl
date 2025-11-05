@@ -618,9 +618,6 @@ choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Agbur { -firefox-home-brand-name }

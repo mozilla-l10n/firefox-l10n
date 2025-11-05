@@ -634,18 +634,6 @@ pdfjs-show-comment-button =
 
 ##  Edit a comment dialog
 
-pdfjs-editor-edit-comment-actions-button-label = Gweithredoedd
-pdfjs-editor-edit-comment-actions-button =
-    .title = Gweithredoedd
-pdfjs-editor-edit-comment-close-button-label = Cau
-pdfjs-editor-edit-comment-close-button =
-    .title = Cau
-pdfjs-editor-edit-comment-actions-edit-button-label = Golygu
-pdfjs-editor-edit-comment-actions-delete-button-label = Dileu
-pdfjs-editor-edit-comment-manager-text-input =
-    .placeholder = Rhowch eich sylw
-pdfjs-editor-edit-comment-manager-cancel-button = Diddymu
-pdfjs-editor-edit-comment-manager-save-button = Cadw
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = Golygu sylw
 pdfjs-editor-edit-comment-dialog-save-button-when-editing = Diweddaru

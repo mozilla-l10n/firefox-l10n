@@ -71,9 +71,6 @@ text-action-highlight-selection =
 # This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection-1 =
     .label = Adicionar comentário à seleção
-# Comment is a verb. This adds a comment to selected text within the PDF viewer.
-text-action-comment-selection =
-    .label = Adicionar comentário à seleção
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =

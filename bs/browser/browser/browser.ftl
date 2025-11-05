@@ -1409,7 +1409,6 @@ trustpanel-etp-description-disabled = { -brand-product-name } smatra da bi vas k
 trustpanel-connection-label-secure = Sigurna veza
 trustpanel-connection-label-insecure = Veza nije sigurna
 trustpanel-header-enabled = { -brand-product-name } je na oprezu
-trustpanel-description-enabled = Zaštićeni ste. Ako nešto uočimo, obavijestit ćemo vas.
 trustpanel-header-disabled = Isključili ste zaštitu
 trustpanel-description-disabled = { -brand-product-name } nije u funkciji. Predlažemo da ponovo uključite zaštite.
 trustpanel-clear-cookies-button = Izbrišite kolačiće i podatke o web stranici

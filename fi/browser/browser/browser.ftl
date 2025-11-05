@@ -1461,7 +1461,6 @@ trustpanel-header-enabled = { -brand-product-name } on valppaana
 trustpanel-description-enabled2 = Olet suojattu. Jos havaitsemme jotain, ilmoitamme sinulle.
 trustpanel-header-enabled-insecure = Ole varovainen tällä sivustolla
 trustpanel-description-enabled-insecure = { -brand-product-name } huomasi jotain epäilyttävää.
-trustpanel-description-enabled = Olet suojattu. Jos havaitsemme jotain, ilmoitamme sinulle
 trustpanel-header-disabled = Poistit suojaukset käytöstä
 trustpanel-description-disabled = { -brand-product-name } ei ole työvuorossa. Suosittelemme suojausten kytkemistä takaisin päälle.
 trustpanel-clear-cookies-button = Tyhjennä evästeet ja sivustotiedot

@@ -1476,7 +1476,6 @@ trustpanel-header-enabled = { -brand-product-name } на страже
 trustpanel-description-enabled2 = Вы защищены. Если мы что-то заметим, мы сообщим вам.
 trustpanel-header-enabled-insecure = Будьте осторожны на этом сайте
 trustpanel-description-enabled-insecure = { -brand-product-name } заметил что-то подозрительное.
-trustpanel-description-enabled = Вы защищены. Если мы что-то заметим, сообщим вам
 trustpanel-header-disabled = Вы отключили защиту
 trustpanel-description-disabled = { -brand-product-name } не защищает. Мы предлагаем снова включить защиту.
 trustpanel-clear-cookies-button = Удалить куки и данные сайтов

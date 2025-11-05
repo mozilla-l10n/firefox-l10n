@@ -275,10 +275,6 @@ main-context-menu-image-desc =
 main-context-menu-visual-search-2 =
     .label = Eheka ta’ãnga { $engine } ndive
     .accesskey = e
-# Variables
-#   $engine (String) - Name of the search engine that will perform the search.
-main-context-menu-visual-search =
-    .label = Eheka ta’ãnga { $engine } ndive
 main-context-menu-video-save-as =
     .label = Ta’ãngamýi ñongatu pyahu…
     .accesskey = v

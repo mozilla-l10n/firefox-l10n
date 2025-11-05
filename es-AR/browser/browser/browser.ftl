@@ -1461,7 +1461,6 @@ trustpanel-header-enabled = { -brand-product-name } está en guardia
 trustpanel-description-enabled2 = Está protegido. Si detectamos algo, lo haremos saber.
 trustpanel-header-enabled-insecure = Tenga cuidado en este sitio
 trustpanel-description-enabled-insecure = { -brand-product-name } notó algo sospechoso.
-trustpanel-description-enabled = Está protegido. Si detectamos algo, lo haremos saber.
 trustpanel-header-disabled = Desactivó las protecciones
 trustpanel-description-disabled = { -brand-product-name } está fuera de servicio. Sugerimos volver a activar las protecciones.
 trustpanel-clear-cookies-button = Borrar cookies y datos del sitio

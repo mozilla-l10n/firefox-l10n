@@ -1463,7 +1463,6 @@ trustpanel-header-enabled = A { -brand-product-name } résen van
 trustpanel-description-enabled2 = Védve van. Ha látunk valamit, értesíteni fogjuk.
 trustpanel-header-enabled-insecure = Legyen óvatos ezen az oldalon
 trustpanel-description-enabled-insecure = A { -brand-product-name } valami gyanúsat észlelt.
-trustpanel-description-enabled = Védve van. Ha látunk valamit, értesíteni fogjuk
 trustpanel-header-disabled = Kikapcsolta a védelmeket
 trustpanel-description-disabled = A { -brand-product-name } szolgálaton kívül van. Javasoljuk a védelmek ismételt bekapcsolását.
 trustpanel-clear-cookies-button = Sütik és oldaladatok törlése

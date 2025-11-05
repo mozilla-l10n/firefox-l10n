@@ -275,10 +275,6 @@ main-context-menu-image-desc =
 main-context-menu-visual-search-2 =
     .label = חיפוש תמונה באמצעות { $engine }
     .accesskey = ת
-# Variables
-#   $engine (String) - Name of the search engine that will perform the search.
-main-context-menu-visual-search =
-    .label = חיפוש תמונה באמצעות { $engine }
 main-context-menu-video-save-as =
     .label = שמירת וידאו בשם…
     .accesskey = מ

@@ -1463,7 +1463,6 @@ trustpanel-header-enabled = { -brand-product-name } er á verði
 trustpanel-description-enabled2 = Þú ert varin/n. Ef við komum auga á eitthvað látum við þig vita.
 trustpanel-header-enabled-insecure = Farðu varlega á þessum vef
 trustpanel-description-enabled-insecure = { -brand-product-name } tók eftir einhverju grunsamlegu.
-trustpanel-description-enabled = Þú ert varin/n. Ef við komum auga á eitthvað látum við þig vita
 trustpanel-header-disabled = Þú slökktir á vörnum
 trustpanel-description-disabled = { -brand-product-name } er ekki á vakt. Við mælum með að kveikja aftur á vörnum.
 trustpanel-clear-cookies-button = Hreinsa vefkökur og gögn vefsvæðis

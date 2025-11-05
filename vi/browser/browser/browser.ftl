@@ -1436,7 +1436,6 @@ trustpanel-header-enabled = { -brand-product-name } đang bảo vệ
 trustpanel-description-enabled2 = Bạn đã được bảo vệ. Nếu chúng tôi phát hiện ra điều gì đó, chúng tôi sẽ cho bạn biết.
 trustpanel-header-enabled-insecure = Hãy cẩn thận trên trang web này
 trustpanel-description-enabled-insecure = { -brand-product-name } nhận thấy điều gì đó đáng ngờ.
-trustpanel-description-enabled = Bạn đã được bảo vệ. Nếu chúng tôi phát hiện ra điều gì đó, chúng tôi sẽ cho bạn biết.
 trustpanel-header-disabled = Bạn đã tắt trình chống
 trustpanel-description-disabled = { -brand-product-name } không còn hoạt động. Chúng tôi khuyên bạn nên bật lại trình chống.
 trustpanel-clear-cookies-button = Xóa cookie và dữ liệu trang web

@@ -543,9 +543,6 @@ choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -1035,9 +1032,6 @@ sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
 
-## Privacy Section - Cookie Banner Handling
-
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = Gouzout hiroc’h
@@ -1243,9 +1237,6 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

@@ -1489,7 +1489,6 @@ trustpanel-header-enabled = { -brand-product-name } stražuje
 trustpanel-description-enabled2 = Sće škitany. Jeli něšto namakamy, zdźělimy wam to.
 trustpanel-header-enabled-insecure = Budźće kedźbliwy na tutym sydle
 trustpanel-description-enabled-insecure = { -brand-product-name } je něšto podhladneho pytnył.
-trustpanel-description-enabled = Sće škitany. Jeli něšto namakamy, zdźělimy wam to
 trustpanel-header-disabled = Sće škity znjemóžnił
 trustpanel-description-disabled = { -brand-product-name } njedźěła. Namjetujemy škity zaso zmóžnić.
 trustpanel-clear-cookies-button = Placki a sydłowe daty zhašeć

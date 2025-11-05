@@ -1483,7 +1483,6 @@ trustpanel-header-enabled = { -brand-product-name } je v strehu
 trustpanel-description-enabled2 = Ste chránení. Ak niečo zistíme, dáme vám vedieť.
 trustpanel-header-enabled-insecure = Na tejto stránke buďte opatrní
 trustpanel-description-enabled-insecure = { -brand-product-name } si všimol niečo podozrivé.
-trustpanel-description-enabled = Ste chránení. Ak niečo zistíme, dáme vám vedieť
 trustpanel-header-disabled = Ochrana je vypnutá
 trustpanel-description-disabled = { -brand-product-name } nie je v strehu. Odporúčame vám znova zapnúť ochranu.
 trustpanel-clear-cookies-button = Vymazať cookies a údaje stránky

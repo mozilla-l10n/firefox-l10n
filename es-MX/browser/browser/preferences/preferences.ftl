@@ -618,9 +618,6 @@ choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contenido de { -firefox-home-brand-name }

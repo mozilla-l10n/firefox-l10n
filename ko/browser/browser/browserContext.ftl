@@ -275,10 +275,6 @@ main-context-menu-image-desc =
 main-context-menu-visual-search-2 =
     .label = { $engine }로 이미지 검색
     .accesskey = e
-# Variables
-#   $engine (String) - Name of the search engine that will perform the search.
-main-context-menu-visual-search =
-    .label = { $engine }로 이미지 검색
 main-context-menu-video-save-as =
     .label = 동영상을 다른 이름으로 저장…
     .accesskey = v

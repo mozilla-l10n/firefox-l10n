@@ -1460,7 +1460,6 @@ trustpanel-header-enabled = { -brand-product-name } oma’ẽmeme
 trustpanel-description-enabled2 = Oñemo’ãma. Rohecháramo peteĩ mba’e, romombe’úta ndéve.
 trustpanel-header-enabled-insecure = Eñatendéke ko tendápe
 trustpanel-description-enabled-insecure = { -brand-product-name } ohecha ivaikuaaha.
-trustpanel-description-enabled = Eñemo’ãma. Rohecháramo peteĩ mba’e, romombe’úta ndéve.
 trustpanel-header-disabled = Emboguéma umi ñemo’ãha
 trustpanel-description-disabled = { -brand-product-name } ndoikoihína ko’ag̃aite. Emyandy jey opaite ñemo’ãha.
 trustpanel-clear-cookies-button = Emboguete kookie ha mba’ekuaarã tendágui
