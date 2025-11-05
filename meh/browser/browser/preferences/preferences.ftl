@@ -594,6 +594,13 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Sivɨ ka̱a̱
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Sivɨ ka̱a̱
+sync-device-name-change-2 =
+    .label = Sama sivɨ ka̱a̱
+    .accesskey = h
 sync-device-name-change =
     .label = Sama sivɨ ka̱a̱...
     .accesskey = h
