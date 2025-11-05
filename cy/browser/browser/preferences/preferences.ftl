@@ -1341,6 +1341,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Dangos awgrymiadau chwilio tuedd
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Awgrymiadau gan { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Derbyn awgrymiadau o'r we am eich chwilio.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Awgrymiadau gan { -brand-short-name }
