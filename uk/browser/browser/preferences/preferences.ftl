@@ -628,6 +628,9 @@ choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Вміст { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
@@ -779,6 +782,8 @@ remove-addon-engine-alert = Щоб вилучити цю пошукову сис
 containers-back-button2 =
     .aria-label = Назад до налаштувань
 containers-header = Контейнери вкладок
+containers-section-header =
+    .heading = Контейнери вкладок
 containers-add-button =
     .label = Додати новий контейнер
     .accesskey = к
