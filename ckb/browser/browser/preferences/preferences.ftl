@@ -579,6 +579,13 @@ sync-engine-addresses =
 ## The device name controls.
 
 sync-device-name-header = ناوی ئامێر
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = ناوی ئامێر
+sync-device-name-change-2 =
+    .label = ناوی ئامێر بگۆڕە
+    .accesskey = h
 sync-device-name-change =
     .label = ناوی ئامێر بگۆڕە...
     .accesskey = h
