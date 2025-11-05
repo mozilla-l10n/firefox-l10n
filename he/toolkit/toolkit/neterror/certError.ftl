@@ -107,6 +107,12 @@ fp-cert-error-code = קוד שגיאה: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = ‏{ -brand-short-name } לא נותן אמון ב־{ $hostname } מכיוון שהוא לא הוכיח שהוא עומד בדרישות השקיפות של אישורים ציבוריים.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = כנראה שכלום, מכיוון שסביר להניח שיש בעיה באתר עצמו.
 fp-learn-more-about-secure-connection-failures = מידע נוסף על כשלים בחיבור מאובטח
 fp-learn-more-about-cert-issues = מידע נוסף על סוגים אלה של בעיות אישורי אבטחה
 fp-learn-more-about-time-related-errors = מידע נוסף על פתרון בעיות של שגיאות הקשורות לזמן

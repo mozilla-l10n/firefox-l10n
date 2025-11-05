@@ -277,6 +277,10 @@ colorway-removal-notice-message =
     .message = ‏{ -brand-product-name } עדכן את אוסף ערכות הצבעים שלו. הסרנו את הגרסאות הישנות מרשימת ה״ערכות נושא שמורות״. ניתן לקבל את הגרסאות החדשות מאתר התוספות.
 colorway-removal-notice-learn-more = מידע נוסף
 colorway-removal-notice-button = קבלת ערכות צבעים מעודכנות
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = הגדרות הניגודיות שלך ב־Windows דורסות את ערכות הנושא של { -brand-short-name }. יש לכבות הגדרות אלו כדי להשתמש בערכות נושא ב־{ -brand-short-name }.
 privacy-policy = מדיניות פרטיות
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

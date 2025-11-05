@@ -11,6 +11,7 @@ url-classifier-search-result-list = רשימת טבלאות: { $list }
 url-classifier-search-input = כתובת
 url-classifier-search-error-invalid-url = כתובת לא תקנית
 url-classifier-search-error-no-features = לא נבחרו תכונות
+url-classifier-search-error-no-results = לא נמצאו רשומות עבור הכתובת
 url-classifier-search-btn = התחלה בחיפוש
 url-classifier-search-features = תכונות
 url-classifier-search-listType = סוג רשימה
