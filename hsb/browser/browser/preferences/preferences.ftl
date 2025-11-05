@@ -1333,6 +1333,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Trendowe pytanske namjety pokazać
     .accesskey = d
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Namjety wot { -brand-short-name }
+addressbar-locbar-suggest-all-option-desc = Wobstarajće sej namjety z weba nastupajo waše pytanje.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Namjety wot { -brand-short-name }
