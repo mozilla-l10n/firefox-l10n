@@ -621,6 +621,9 @@ choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = محتوى { -firefox-home-brand-name }
@@ -761,6 +764,8 @@ remove-addon-engine-alert = لإزالة محرك البحث هذا،أزِل ا
 containers-back-button2 =
     .aria-label = عُد إلى الإعدادات
 containers-header = الألسنة الحاوية
+containers-section-header =
+    .heading = الألسنة الحاوية
 containers-add-button =
     .label = أضف حاوية جديدة
     .accesskey = ح
