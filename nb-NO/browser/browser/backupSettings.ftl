@@ -80,7 +80,7 @@ turn-on-scheduled-backups-confirm-button = Slå på sikkerhetskopiering
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Det oppstod et problem med den valgte sikkerhetskopimappen. Velg en annen mappe og prøv på nytt.
-backup-error-file-system = Det oppsto et problem med den valgte sikkerhetskopieringsmappen under sikkerhetskopiering av { -brand-short-name }.
+backup-error-file-system = Det oppstod et problem med den valgte sikkerhetskopieringsmappen under sikkerhetskopiering av { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
@@ -125,7 +125,7 @@ backup-service-error-incorrect-password = Feil passord. <a data-l10n-name="incor
 # backup file itself
 backup-service-error-corrupt-file =
     .heading = Denne filen fungerer ikke
-    .message = Det oppsto et problem med sikkerhetskopifilen din. Velg en annen fil og prøv igjen.
+    .message = Det oppstod et problem med sikkerhetskopifilen din. Velg en annen fil og prøv igjen.
 # The backup file cannot be restored. The currently running application may
 # be too old and may not support features in the backed up profile.
 # Alternatively, the backup file may be too old and some of the feature in
@@ -147,7 +147,7 @@ backup-service-error-recovery-failed =
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =
-    .heading = Hmm, det oppsto et problem under sikkerhetskopieringen.
+    .heading = Hmm, det oppstod et problem under sikkerhetskopieringen.
     .message = Prøv igjen om noen minutter.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
