@@ -265,3 +265,5 @@ link-preview-onboarding-button = Προβολή προεπισκόπησης
 link-preview-onboarding-close = Κλείσιμο
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = Πρώτη ρύθμιση
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Αυτό μπορεί να διαρκέσει λίγη ώρα. Θα δείτε τα κύρια σημεία πιο γρήγορα την επόμενη φορά.

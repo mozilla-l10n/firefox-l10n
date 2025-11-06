@@ -247,3 +247,5 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Δημιουργήθηκε στις { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } στο { $machineName }
 backup-file-restore-file-validation-error = Αυτό το αρχείο δεν λειτουργεί. Δοκιμάστε να επιλέξετε ένα άλλο αρχείο. <a data-l10n-name="restore-problems">Αντιμετωπίζετε ακόμα προβλήματα;</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Κανένα επιλεγμένο αρχείο

@@ -113,6 +113,7 @@ extension-controlling-proxy-config = Το <img data-l10n-name="icon"/> <strong>{
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Για να ενεργοποιήσετε την επέκταση, μεταβείτε στα <img data-l10n-name="addons-icon"/> «Πρόσθετα» στο μενού <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Για να ενεργοποιήσετε ξανά αυτήν την επέκταση, επισκεφθείτε τη σελίδα <a data-l10n-name="addons-link">Επεκτάσεις και θέματα</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = Το { $name } ελέγχει ορισμένες από τις ρυθμίσεις της αρχικής σελίδας σας.
