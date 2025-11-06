@@ -14,6 +14,7 @@ url-classifier-search-result-list = Lijst van tabellen: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Ongeldige URL
 url-classifier-search-error-no-features = Geen functies geselecteerd
+url-classifier-search-error-no-results = Geen vermeldingen voor URL gevonden
 url-classifier-search-btn = Zoeken starten
 url-classifier-search-features = Functies
 url-classifier-search-listType = Lijsttype

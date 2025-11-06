@@ -107,6 +107,10 @@ fp-cert-error-code = Foutcode: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } vertrouwt { $hostname } niet, omdat het niet kan bewijzen dat het aan de transparantievereisten voor openbare certificaten voldoet.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-transparency-what-can-you-do-body = Waarschijnlijk niets, aangezien er waarschijnlijk een probleem met de website zelf is.
 fp-learn-more-about-secure-connection-failures = Meer info over mislukte beveiligde verbindingen
@@ -193,3 +197,4 @@ fp-certerror-hide-advanced-button = Geavanceerd verbergen
 fp-certerror-override-exception-button = Doorgaan naar { $hostname } (Risicovol)
 fp-certerror-intro = { -brand-short-name } heeft een mogelijk ernstig beveiligingsprobleem met <strong>{ $hostname }</strong> opgemerkt. Iemand die zich voordoet als de website kan zaken zoals creditcardgegevens, wachtwoorden of e-mailadressen proberen te stelen.
 fp-certerror-expired-into = { -brand-short-name } heeft een beveiligingsprobleem ontdekt met <strong>{ $hostname }</strong>. Of de website is niet goed ingesteld, of de klok van uw apparaat is op de verkeerde datum/tijd ingesteld.
+fp-certerror-transparency-intro = Iemand die zich voordoet als <strong>{ $hostname }</strong> kan dingen zoals creditcardgegevens, wachtwoorden of e-mailadressen proberen te stelen.
