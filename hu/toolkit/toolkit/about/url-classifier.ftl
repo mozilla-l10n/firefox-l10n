@@ -14,6 +14,7 @@ url-classifier-search-result-list = Táblázatok listája: { $list }
 url-classifier-search-input = Webcím
 url-classifier-search-error-invalid-url = Érvénytelen webcím
 url-classifier-search-error-no-features = Nincs funkció kiválasztva
+url-classifier-search-error-no-results = Nem találhatók bejegyzések a webcímhez
 url-classifier-search-btn = Keresés indítása
 url-classifier-search-features = Funkciók
 url-classifier-search-listType = Felsorolás típusa

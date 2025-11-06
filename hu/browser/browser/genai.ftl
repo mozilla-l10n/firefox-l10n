@@ -265,3 +265,7 @@ link-preview-setup-faster-next-time = Legközelebb a kulcspontokat gyorsabban fo
 link-preview-onboarding-button = Előnézet megjelenítése
 # Onboarding card Close button
 link-preview-onboarding-close = Bezárás
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Első beállítás
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Ez eltarthat egy darabig. Legközelebb gyorsabban látni fogja a kulcspontokat.

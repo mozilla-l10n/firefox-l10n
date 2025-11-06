@@ -113,6 +113,7 @@ extension-controlling-proxy-config = A(z) <img data-l10n-name ="icon"/> <strong>
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = A kiegészítő engedélyezéséhez ugorjon a <img data-l10n-name="addons-icon"/> Kiegészítőkhöz a <img data-l10n-name="menu-icon"/> menüben.
+extension-controlled-enable-2 = A kiegészítő újraengedélyezéséhez keresse fel a <a data-l10n-name="addons-link">Kiegészítők és témák</a> oldalt.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = A(z) { $name } vezérli a kezdőlap néhány beállítását.

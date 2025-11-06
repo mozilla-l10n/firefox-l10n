@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Lejárat / Maximális élettartam
 storage-table-headers-cookies-size = Méret
 storage-table-headers-cookies-last-accessed = Utolsó hozzáférés
 storage-table-headers-cookies-creation-time = Létrehozva
+storage-table-headers-cookies-update-time = Frissítve
 storage-table-headers-cache-status = Állapot
 storage-table-headers-extension-storage-area = Tárterület
 

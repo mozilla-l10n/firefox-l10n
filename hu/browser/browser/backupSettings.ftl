@@ -247,3 +247,5 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Létrehozva: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a következőn: { $machineName }
 backup-file-restore-file-validation-error = Ez a fájl nem működik. Próbáljon meg egy másik fájlt kiválasztani. <a data-l10n-name="restore-problems">Továbbra is fennáll a problémája?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Nincs kijelölve fájl
