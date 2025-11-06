@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Verloopt / maximale leeftijd
 storage-table-headers-cookies-size = Grootte
 storage-table-headers-cookies-last-accessed = Laatst benaderd
 storage-table-headers-cookies-creation-time = Aangemaakt
+storage-table-headers-cookies-update-time = Bijgewerkt
 storage-table-headers-cache-status = Status
 storage-table-headers-extension-storage-area = Opslagruimte
 
