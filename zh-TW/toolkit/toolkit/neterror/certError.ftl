@@ -111,6 +111,8 @@ fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numer
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-transparency-why-dangerous-body = 由於 { $hostname } 提供的憑證不符合公開憑證透明度要求，{ -brand-short-name } 無法信任該網域。
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = 可能無法由您解決，因為這通常是網站本身的問題。
 fp-learn-more-about-secure-connection-failures = 了解安全連線失敗的更多資訊
 fp-learn-more-about-cert-issues = 了解這些憑證問題的更多資訊
 fp-learn-more-about-time-related-errors = 了解如何排除時間錯誤的問題
@@ -195,3 +197,4 @@ fp-certerror-hide-advanced-button = 隱藏進階資訊
 fp-certerror-override-exception-button = 繼續前往 { $hostname }（有風險）
 fp-certerror-intro = { -brand-short-name } 發現 <strong>{ $hostname }</strong> 有潛在的重大安全性問題。有人可能會假扮網站，嘗試竊取您的信用卡資訊、密碼或電子郵件信箱等資料。
 fp-certerror-expired-into = { -brand-short-name } 發現 <strong>{ $hostname }</strong> 有安全性問題。可能是網站未正確設定，或是您使用的裝置時間不正確。
+fp-certerror-transparency-intro = 可能是其他假扮為 <strong>{ $hostname }</strong> 的有心人，正嘗試偷走您的信用卡資訊、密碼、信箱等資料。
