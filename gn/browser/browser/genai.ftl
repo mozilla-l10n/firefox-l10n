@@ -264,3 +264,5 @@ link-preview-setup-faster-next-time = Ehecháta pyaʼeve umi kyta jarýi ambue o
 link-preview-onboarding-button = Ehecha hechaha ypy
 # Onboarding card Close button
 link-preview-onboarding-close = Emboty
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Ñemboheko ñepyrũgua

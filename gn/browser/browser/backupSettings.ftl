@@ -216,3 +216,10 @@ backup-file-other-browser-restore-step-1 = Emboguejy ha emohenda { -brand-short-
 backup-file-download-moz-browser-button = Mboguejy
 backup-file-other-browser-restore-step-3 = Eikutu “Marandurenda ykekoha jeporavo” ha eiporavo ko marandurenda
 backup-file-other-browser-restore-step-4 = Emoñepyrũjey { -brand-short-name } ojejerurévo ndéve
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+restore-from-backup-filepicker-input =
+    .placeholder = Ndaipóri marandurenda poravopyre
