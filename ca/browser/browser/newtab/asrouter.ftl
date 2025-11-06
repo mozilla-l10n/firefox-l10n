@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Fem una còpia de seguretat de les adreces
 fxa-adoption-addresses-backup-subtitle = Protegiu les adreces desades sincronitzant-les amb els vostres dispositius amb xifratge.
 fxa-adoption-credit-cards-backup-title = Fem una còpia de seguretat dels vostres mètodes de pagament
 fxa-adoption-credit-cards-backup-subtitle = Protegiu els vostres mètodes de pagament sincronitzant-los amb els vostres dispositius amb xifratge.
+fxa-adoption-bookmarks-treatment-backup-title = Fem una còpia de seguretat de les vostres adreces d'interès
+fxa-adoption-bookmarks-treatment-backup-subtitle = Protegiu les adreces d'interès sincronitzant-les amb els dispositius amb xifratge.
 fxa-adoption-primary-button-label = Registra't
 
 ## Protections panel

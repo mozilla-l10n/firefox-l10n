@@ -263,3 +263,7 @@ link-preview-setup-faster-next-time = Veureu els punts clau més de pressa la pr
 link-preview-onboarding-button = Mostra una vista prèvia
 # Onboarding card Close button
 link-preview-onboarding-close = Tanca
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Configuració inicial
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Aquest procés pot tardar una estona. Veureu els punts clau més ràpidament la propera vegada.

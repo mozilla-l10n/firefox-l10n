@@ -294,6 +294,10 @@ colorway-removal-notice-message =
         a kiegészítők oldalán.
 colorway-removal-notice-learn-more = További tudnivalók
 colorway-removal-notice-button = Frissített színvilágtémák beszerzése
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = A Windows kontrasztbeállításai felülírják a { -brand-short-name } témákat. Kapcsolja ki ezeket a beállításokat, hogy témákat használjon a { -brand-short-name }ban.
 privacy-policy = Adatvédelmi irányelvek
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
