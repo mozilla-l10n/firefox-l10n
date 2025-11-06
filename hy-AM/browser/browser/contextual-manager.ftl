@@ -260,6 +260,13 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Ձեր փոփոխությունները չեն պահվի:
 contextual-manager-passwords-discard-changes-close-button = Փակել
 contextual-manager-passwords-discard-changes-go-back-button = Գնալ ետ
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Այո, հեռացնել գաղտնաբառը
+        [one] Այո, հեռացնել գաղտնաբառը
+       *[other] Այո, հեռացնել գաղտնաբառերը
+    }
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Մուտքագրել Հիմնական գաղտնաբառը
 contextual-manager-primary-password-learn-more-link = Իմանալ ավելին

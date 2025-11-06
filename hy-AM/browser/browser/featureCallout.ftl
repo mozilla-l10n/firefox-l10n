@@ -66,6 +66,8 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Ավելացնե՞լ այս կայքը Ձեր էջանիշների գործիքագոտուն։
+bookmarks-toolbar-callout-1-subtitle = Ձեր էջանիշը կպահվի հասցեագոտու տակ՝ արագ հասանելիության համար։
 bookmarks-toolbar-callout-1-primary-button-label = Ավելացնել Էջանիշ
 bookmarks-toolbar-callout-1-secondary-button-label = Ոչ, շնորհակալ եմ
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders

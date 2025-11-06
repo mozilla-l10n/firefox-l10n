@@ -40,6 +40,11 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name }-ն մաքրո�
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName }-ը Ձեր սկզբնադիր որոնիչն է գաղտնի պատուհաններում
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Այլ որոնիչ ընտրելու համար գնացեք դեպի <a data-l10n-name="link-options">Ընտրանքներ</a>
+       *[other] Այլ որոնիչ ընտրելու համար գնացեք դեպի <a data-l10n-name="link-options">Նախապատվություններ</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Փակել
 about-private-browsing-promo-close-button =

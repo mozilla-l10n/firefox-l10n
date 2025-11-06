@@ -55,6 +55,11 @@ chooser-dialog =
 chooser-dialog-description = Ընտրեք ծրագիր՝ { $scheme } հղումը բացելու համար:
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Միշտ օգտագործել այս ծրագիրը՝ <strong>{ $scheme }</strong> հղումները բացելու համար
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Սա կարող է փոխվել { -brand-short-name }-ի ընտրանքներում։
+       *[other] Սա կարող է փոխվել { -brand-short-name }-ի նախապատվություններում։
+    }
 choose-other-app-description = Ընտրեք այլ ծրագիր
 choose-app-btn =
     .label = Ընտրել…

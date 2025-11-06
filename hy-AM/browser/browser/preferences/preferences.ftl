@@ -99,6 +99,8 @@ extension-controlled-enable = Ընդլայնումը միացնելու համա
 ## Preferences UI Search Results
 
 search-results-header = Որոնման արդյունքներ
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Կներե՛ք։ Կարգավորումներում «<span data-l10n-name="query"></span>»-ի համար արդյունքներ չկան։
 search-results-help-link = Օգնությու՞ն է պետք: Այցելեք <a data-l10n-name="url">{ -brand-short-name } աջակցում</a>
 
 ## General Section
@@ -219,6 +221,8 @@ browser-layout-show-sidebar-desc = Արագորեն մատչեք Ձեր էջան
 language-and-appearance-header = Լեզուն և տեսքը
 preferences-web-appearance-header = Կայքի արտաքին տեսքը
 preferences-web-appearance-description = Որոշ կայքեր հարմարեցնում են իրենց գույնային սխեման ըստ ձեր նախապատվությունների: Ընտրեք, թե որ գույնային սխեման եք ցանկանում օգտագործել այդպիսի կայքերի համար:
+web-appearance-group =
+    .aria-label = Վեբ-կայքի տեսքը
 preferences-web-appearance-choice-auto = Ինքնաշխատ
 preferences-web-appearance-choice-light = Լուսավոր
 preferences-web-appearance-choice-dark = Մուգ
@@ -511,7 +515,7 @@ browsing-cfr-recommendations-learn-more = Իմանալ ավելին
 ## General Section - Proxy
 
 network-settings-title = Ցանցի կարգավորումներ
-network-proxy-connection-description = Կազմաձևեք, թե ինչպես { -brand-short-name }-ը կապակցվի համացանցին:
+network-proxy-connection-description = Կարգավորեք, թե ինչպես { -brand-short-name }-ը միանա համացանցին:
 network-proxy-connection-learn-more = Իմանալ ավելին
 network-proxy-connection-settings =
     .label = Կարգավորել...
@@ -519,12 +523,13 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = Նոր Պատուհաններ և Ներդիրներ
+home-new-windows-tabs-header = Նոր պատուհաններ և ներդիրներ
 home-new-windows-tabs-description2 = Ընտրեք, թե ինչը տեսնել՝ տուն էջը, նոր պատուհաններ և նոր ներդիրներ բացելիս:
 
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Տնէջ և նոր պատուհաններ
+home-homepage-mode-label2 = Նոր պատուհաններ
 home-newtabs-mode-label = Նոր ներդիրներ
 home-restore-defaults =
     .label = Վերականգնել սկզբնադիրը
@@ -1122,6 +1127,10 @@ forms-handle-cookie-banners =
 
 addressbar-header = Հասցեագոտի
 addressbar-suggest = Հասցեագոտին օգտագործելիս առաջարկել
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Հասցեագոտի․ { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Ընտրեք Ձեր հասցեագոտում հայտնվող առաջարկների տեսակը։
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Իմանալ ավելին
@@ -1135,7 +1144,7 @@ addressbar-locbar-clipboard-option =
     .label = Սեղմատախտակ
     .accesskey = Ս
 addressbar-locbar-openpage-option =
-    .label = Բացել ներդիրներ
+    .label = Բաց ներդիրներ
     .accesskey = Բ
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =

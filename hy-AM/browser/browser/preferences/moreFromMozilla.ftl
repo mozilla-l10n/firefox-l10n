@@ -36,6 +36,7 @@ more-from-moz-mozilla-monitor-button = Ստանալ { -monitor-brand-short-name 
 
 more-from-moz-solo-title = { -solo-ai-brand-name } ԱԲ
 more-from-moz-solo-button = Փորձեք { -solo-ai-brand-name }
+more-from-moz-solo-title-2 = { -solo-ai-brand-name } ԱԲ վեբ-կայքի ստեղծող
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 

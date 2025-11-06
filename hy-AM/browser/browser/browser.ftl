@@ -16,8 +16,8 @@
 browser-main-window-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } գաղտնի դիտարկում
-    .data-content-title-default = { $content-title }. { -brand-full-name }
-    .data-content-title-private = { $content-title }. { -brand-full-name } գաղտնի դիտարկում
+    .data-content-title-default = { $content-title }․ { -brand-full-name }
+    .data-content-title-private = { $content-title }․ { -brand-full-name } գաղտնի դիտարկում
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -37,9 +37,9 @@ browser-main-window-window-titles =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name }. Մասնավոր զննարկում
+    .data-title-private = { -brand-full-name }․ գաղտնի դիտարկում
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title }. Մասնավոր զննարկում
+    .data-content-title-private = { $content-title }․ գաղտնի դիտարկում
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -100,13 +100,13 @@ browser-main-window-titles =
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Գաղտնի դիտարկում
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Գաղտնի դիտարկում
+    .data-title-private = { -brand-full-name }․ գաղտնի դիտարկում
+    .data-title-default-with-profile = { $profile-name }․ { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name }․ { -brand-full-name } գաղտնի դիտարկում
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Գաղտնի դիտարկում
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Գաղտնի դիտարկում
+    .data-content-title-private = { $content-title }․ գաղտնի դիտարկում
+    .data-content-title-default-with-profile = { $content-title }․ { $profile-name }
+    .data-content-title-private-with-profile = { $content-title }․ { $profile-name }․ գաղտնի դիտարկում
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -114,7 +114,7 @@ browser-main-window-default-title = { -brand-full-name }
 # "Private Browsing" suffix.
 browser-main-private-window-title =
     { PLATFORM() ->
-        [macos] { -brand-full-name } — Գաղտնի դիտարկում
+        [macos] { -brand-full-name }․ գաղտնի դիտարկում
        *[other] { -brand-full-name } գաղտնի դիտարկում
     }
 # This is only used on macOS; on other OSes we use the full private window

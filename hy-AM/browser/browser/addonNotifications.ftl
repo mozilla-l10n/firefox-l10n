@@ -117,6 +117,7 @@ addon-install-error-corrupt-file = Այս կայքից ներբեռնած հավ
 addon-install-error-file-access = { $addonName }-ը չի կարող տեղադրվել, քանի որ { -brand-short-name }-ը չի կարող ձևափոխել անհրաժեշտ ֆայլը։
 addon-install-error-not-signed = { -brand-short-name }-ը կանխել է այս կայքից չստուգված հավելումների տեղադրումը:
 addon-install-error-invalid-domain = { $addonName }-ը հավելումը այս վայրից չի կարող տեղադրվել։
+addon-install-error-no-addon-name-file-access = Հավելումը չի կարող տեղադրվել, քանի որ { -brand-short-name }-ը չի կարող ձևափոխել անհրաժեշտ ֆայլը։
 addon-local-install-error-network-failure = Հետևյալ հավելումը չի տեղադրվել ֆայլերի համակարգի սխալի պատճառով:
 addon-local-install-error-incorrect-hash = Այս հավելումը չի կարող տեղադրվել, քանի որ այն չի համընկնում ակնկալվող { -brand-short-name } հավելմանը:
 addon-local-install-error-corrupt-file = Այս հավելումը չի կարող տեղադրվել, քանի որ այն վնասված է:
