@@ -267,3 +267,5 @@ link-preview-onboarding-button = Vider un previsualisation
 link-preview-onboarding-close = Clauder
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = Configuration initial
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Isto pote prender un momento. Tu videra le punctos clave plus rapidemente le proxime vice.

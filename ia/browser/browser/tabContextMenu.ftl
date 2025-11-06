@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Displaciar a un nove fenestra
     .accesskey = n
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Mover verso { $profileName }
 tab-context-close-multiple-tabs =
     .label = Clauder plure schedas
     .accesskey = a

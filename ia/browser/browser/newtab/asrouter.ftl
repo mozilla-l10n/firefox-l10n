@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Face un copia de securitate de tu adresses
 fxa-adoption-addresses-backup-subtitle = Protege tu adresses salvate synchronisante los con tu apparatos con cryptation.
 fxa-adoption-credit-cards-backup-title = Face un copia de securitate de tu methodos de pagamento
 fxa-adoption-credit-cards-backup-subtitle = Protege tu methodos de pagamento synchronisante los con tu apparatos con cryptation.
+fxa-adoption-bookmarks-treatment-backup-title = Que nos salveguarda tu marcapaginas
+fxa-adoption-bookmarks-treatment-backup-subtitle = Protege tu marcapaginas, los synchronisante in tu apparatos con cryptation.
 fxa-adoption-primary-button-label = Inscriber se
 
 ## Protections panel

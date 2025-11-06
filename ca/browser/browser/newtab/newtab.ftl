@@ -556,6 +556,11 @@ newtab-download-mobile-highlight-body-variant-c = Sabeu que us podeu endur el { 
 newtab-download-mobile-highlight-image =
     .aria-label = Codi QR per baixar el { -brand-product-name } per a mòbils
 
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-title = Els vostres favorits a l'abast de la mà
+newtab-shortcuts-highlight-subtitle = Afegiu una drecera per a tenir els vostres llocs favorits a un sol clic.
+
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =
@@ -576,3 +581,29 @@ newtab-report-content-spam-misleading =
     .label = Correu brossa o enganyós
 newtab-report-cancel = Cancel·la
 newtab-report-submit = Envia
+newtab-toast-thanks-for-reporting =
+    .message = Gràcies per denunciar-ho.
+
+## Strings for trending searches
+
+newtab-trending-searches-show-trending =
+    .title = Mostra les cerques que són tendència
+newtab-trending-searches-hide-trending =
+    .title = Amaga les cerques que són tendència
+newtab-trending-searches-learn-more = Més informació
+newtab-trending-searches-dismiss = Amaga les cerques que són tendència
+# "Trending searches refers to popular searches from search engines
+newtab-trending-searches-title = Cerques que són tendència
+
+## Strings for task / to-do list productivity widget
+
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = Les possibilitats són infinites. Afegiu-ne una.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nova
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Completats ({ $number })
+newtab-widget-task-list-menu-copy = Copia

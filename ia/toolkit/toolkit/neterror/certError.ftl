@@ -107,6 +107,8 @@ fp-cert-error-code = Codice de error: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Probabilemente nihil, pois que il es probabile que il ha un problema con le sito mesme.
 fp-learn-more-about-secure-connection-failures = Pro saper plus re insuccessos de connexion secur
 fp-learn-more-about-cert-issues = Pro saper plus re iste sortas de problemas de certificato
 fp-learn-more-about-time-related-errors = Saper plus sur le resolution de problemas relative al data e hora
