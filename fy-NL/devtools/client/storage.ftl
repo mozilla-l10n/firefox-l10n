@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Ferrint / maksimale leeftiid
 storage-table-headers-cookies-size = Grutte
 storage-table-headers-cookies-last-accessed = Lêst benadere
 storage-table-headers-cookies-creation-time = Oanmakke
+storage-table-headers-cookies-update-time = Bywurke
 storage-table-headers-cache-status = Steat
 storage-table-headers-extension-storage-area = Unthâldromte
 

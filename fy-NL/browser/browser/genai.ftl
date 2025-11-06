@@ -263,3 +263,7 @@ link-preview-setup-faster-next-time = Jo sjogge de folgjende kear de haadpunten 
 link-preview-onboarding-button = Foarbyld besjen
 # Onboarding card Close button
 link-preview-onboarding-close = Slute
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Earste ynstallaasje
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Dit kin in momint duorje. Jo sjogge de wichtichste punten de folgjende kear flugger.

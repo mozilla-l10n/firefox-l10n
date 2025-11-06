@@ -292,6 +292,10 @@ colorway-removal-notice-message =
         de add-onswebsite.
 colorway-removal-notice-learn-more = Mear ynfo
 colorway-removal-notice-button = Bywurke kleurstellingentema’s krije
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Jo kontrastynstellingen fan Windows hawwe foarrang op { -brand-short-name }-tema’s. Skeakelje dizze ynstellingen út om tema’s yn { -brand-short-name } te brûken.
 privacy-policy = Privacybelied
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

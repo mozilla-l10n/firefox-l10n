@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Litte wy in reservekopy fan jo bewarre adr
 fxa-adoption-addresses-backup-subtitle = Beskermje jo bewarre wachtwurden troch se fersifere mei jo apparaten mei te syngronisearjen.
 fxa-adoption-credit-cards-backup-title = Litte wy in reservekopy fan jo betelmetoaden meitsje
 fxa-adoption-credit-cards-backup-subtitle = Beskermje jo betellingsmetoaden troch se fersifere mei jo apparaten mei te syngronisearjen.
+fxa-adoption-bookmarks-treatment-backup-title = Litte wy in reservekopy fan jo blêdwizers meitsje
+fxa-adoption-bookmarks-treatment-backup-subtitle = Beskermje jo blêdwizers troch se fersifere mei jo apparaten mei te syngronisearjen.
 fxa-adoption-primary-button-label = Registrearje
 
 ## Protections panel

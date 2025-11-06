@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Ferpleatse nei nij finster
     .accesskey = f
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Ferpleatse nei { $profileName }
 tab-context-close-multiple-tabs =
     .label = Mear ljepblêden slute
     .accesskey = M

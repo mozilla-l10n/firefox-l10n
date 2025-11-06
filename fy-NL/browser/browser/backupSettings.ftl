@@ -247,3 +247,5 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Makke op { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } op { $machineName }
 backup-file-restore-file-validation-error = Dit bestân wurket net. Probearje in oar bestân te kiezen. <a data-l10n-name="restore-problems">Noch hieltyd problemen?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Gjin bestân selektearre
