@@ -197,3 +197,4 @@ fp-certerror-hide-advanced-button = Απόκρυψη σύνθετων επιλο
 fp-certerror-override-exception-button = Συνέχεια στο { $hostname } (Επικίνδυνο)
 fp-certerror-intro = Το { -brand-short-name } εντόπισε ένα σοβαρό ζήτημα ασφαλείας με το <strong>{ $hostname }</strong>. Κάποιος που προσποιείται ότι είναι ο ιστότοπος μπορεί να προσπαθήσει να υποκλέψει δεδομένα, όπως στοιχεία πιστωτικών καρτών, κωδικούς πρόσβασης ή email.
 fp-certerror-expired-into = Το { -brand-short-name } εντόπισε ένα ζήτημα ασφαλείας με το <strong>{ $hostname }</strong>. Είτε ο ιστότοπος δεν έχει ρυθμιστεί σωστά είτε το ρολόι της συσκευής σας έχει ρυθμιστεί σε λανθασμένη ημερομηνία/ώρα.
+fp-certerror-transparency-intro = Κάποιος που προσποιείται ότι είναι το <strong>{ $hostname }</strong> θα μπορούσε να υποκλέψει στοιχεία, όπως πληροφορίες πιστωτικών καρτών, κωδικούς πρόσβασης ή email.

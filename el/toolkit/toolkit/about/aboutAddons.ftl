@@ -290,6 +290,10 @@ colorway-removal-notice-message =
         νέες εκδόσεις από τον ιστότοπο των προσθέτων.
 colorway-removal-notice-learn-more = Μάθετε περισσότερα
 colorway-removal-notice-button = Αποκτήστε τα νέα θέματα χρωματικών συνδυασμών
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Οι ρυθμίσεις αντίθεσης των Windows παρακάμπτουν τα θέματα του { -brand-short-name }. Απενεργοποιήστε αυτές τις ρυθμίσεις για να χρησιμοποιήσετε τα θέματα στο { -brand-short-name }.
 privacy-policy = Πολιτική απορρήτου
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

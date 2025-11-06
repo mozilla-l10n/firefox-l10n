@@ -14,6 +14,7 @@ url-classifier-search-result-list = Λίστα πινάκων: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Μη έγκυρο URL
 url-classifier-search-error-no-features = Δεν επιλέχθηκαν λειτουργίες
+url-classifier-search-error-no-results = Δεν βρέθηκαν καταχωρήσεις για το URL
 url-classifier-search-btn = Έναρξη αναζήτησης
 url-classifier-search-features = Λειτουργίες
 url-classifier-search-listType = Τύπος λίστας
