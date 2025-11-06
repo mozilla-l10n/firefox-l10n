@@ -540,15 +540,39 @@ newtab-custom-wallpaper-title = Els fons de pantalla personalitzats són aquí
 newtab-custom-wallpaper-subtitle = Pugeu els vostres fons de pantalla o trieu un color per a personalitzar el { -brand-product-name }.
 newtab-custom-wallpaper-cta = Proveu-ho
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = Trieu un fons de pantalla per a personalitzar el { -brand-product-name }
+newtab-new-user-custom-wallpaper-subtitle = Decoreu cada pestanya nova al vostre gust amb fons de pantalla i colors personalitzats.
+newtab-new-user-custom-wallpaper-cta = Proveu-ho ara
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Baixeu el { -brand-product-name } per a mòbils
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Escanegeu el codi per a navegar de manera segura des de qualsevol lloc.
 newtab-download-mobile-highlight-body-variant-b = Continueu des d'on ho havíeu deixat quan sincronitzeu les pestanyes, les contrasenyes i més.
+newtab-download-mobile-highlight-body-variant-c = Sabeu que us podeu endur el { -brand-product-name } a qualsevol lloc? El mateix navegador. A la butxaca.
+newtab-download-mobile-highlight-image =
+    .aria-label = Codi QR per baixar el { -brand-product-name } per a mòbils
 
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Per què ho denuncieu?
+newtab-report-ads-reason-not-interested =
+    .label = No m'interessa
+newtab-report-ads-reason-inappropriate =
+    .label = És inadequat
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = L'he vist massa cops
+newtab-report-content-wrong-category =
+    .label = Categoria incorrecta
+newtab-report-content-outdated =
+    .label = Obsolet
+newtab-report-content-inappropriate-offensive =
+    .label = Inadequat o ofensiu
+newtab-report-content-spam-misleading =
+    .label = Correu brossa o enganyós
 newtab-report-cancel = Cancel·la
+newtab-report-submit = Envia
