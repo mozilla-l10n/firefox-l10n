@@ -116,3 +116,4 @@ storage-cookie-create-error = Impossibile creare il cookie: “{ $errorString }�
 # Variables:
 #   $errorString (String) - Platform error message
 storage-cookie-edit-error = Impossibile aggiornare il cookie: “{ $errorString }”.
+

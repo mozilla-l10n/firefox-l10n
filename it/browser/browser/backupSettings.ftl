@@ -249,3 +249,4 @@ backup-file-creation-date-and-device = Creato il { DATETIME($date, year: "numeri
 backup-file-restore-file-validation-error = Questo file non funziona. Prova a selezionare un altro file. <a data-l10n-name="restore-problems">Hai ancora problemi?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nessun file selezionato
+

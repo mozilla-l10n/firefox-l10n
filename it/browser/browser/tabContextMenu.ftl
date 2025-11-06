@@ -141,3 +141,4 @@ tab-context-unload-n-tabs =
            *[other] Scarica { $tabCount } schede dalla memoria
         }
     .accesskey = r
+
