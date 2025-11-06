@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Gestisci estensione
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } è soggetto a restrizioni. Utilizzarlo potrebbe comportare dei rischi.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } viola i criteri di Mozilla. Il suo utilizzo potrebbe comportare dei rischi.
 
 ## Extension's context menu
@@ -62,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Ulteriori informazioni
 unified-extensions-mb-about-addons-link = Vai alle impostazioni dell’estensione
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } disattivata
+    .message =
+        Questa estensione è soggetta a restrizioni ed è stata disattivata. 
+        È possibile attivarla nelle impostazioni, ma il suo utilizzo potrebbe comportare dei rischi.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } disattivata
     .message =
@@ -72,6 +82,17 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } disattivata
     .message = Questa estensione viola i criteri di Mozilla ed è stata disattivata.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } estensione disattivata
+           *[other] { $extensionsCount } estensioni disattivate
+        }
+    .message =
+        Alcune estensioni sono soggette a restrizioni e sono state disattivate. 
+        È possibile attivarle nelle impostazioni, ma il loro utilizzo potrebbe comportare dei rischi.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
