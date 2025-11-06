@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Mută într-o fereastră nouă
     .accesskey = W
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Mută în { $profileName }
 tab-context-close-multiple-tabs =
     .label = Închide mai multe file
     .accesskey = M

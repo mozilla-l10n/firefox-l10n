@@ -107,6 +107,12 @@ fp-cert-error-code = Codul erorii: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } nu are încredere în { $hostname } deoarece nu a putut dovedi că îndeplinește cerințele de transparență a certificatelor publice.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Probabil nimic pentru că trebuie să fie o problemă cu site-ul în sine.
 fp-learn-more-about-secure-connection-failures = Află mai multe despre erorile conexiunilor securizate
 fp-learn-more-about-cert-issues = Află mai multe despre aceste tipuri de probleme cu certificatele
 fp-learn-more-about-time-related-errors = Află mai multe despre depanarea erorilor legate de ceas

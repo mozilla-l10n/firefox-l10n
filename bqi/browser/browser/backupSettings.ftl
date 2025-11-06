@@ -37,3 +37,21 @@ settings-data-backup-last-backup-location-edit = آلشت…
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = نوم فایل: { $fileName }
+settings-data-backup-restore-header = داده یل خوتووݩ ن وورگنین
+
+## These strings are shown under the header if scheduled backups are enabled.
+
+settings-data-backup-scheduled-backups-on-restore-choose = وورگندن…
+settings-data-toggle-encryption-support-link = قلوه دووسته بۊین
+settings-data-change-password = آلشت رزم…
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = رۊشن کردن لادراری گرؽڌن
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = جاگه
+turn-on-scheduled-backups-encryption-create-password-label = رزم
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = تکرار رزم
+turn-on-scheduled-backups-cancel-button = لقو
+turn-on-scheduled-backups-confirm-button = رۊشن کردن لادراری گرؽڌن

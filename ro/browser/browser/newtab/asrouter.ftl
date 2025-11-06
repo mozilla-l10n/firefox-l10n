@@ -74,6 +74,8 @@ fxa-adoption-addresses-backup-title = Hai să facem o copie de rezervă cu adres
 fxa-adoption-addresses-backup-subtitle = Protejează-ți adresele salvate sincronizându-le pe dispozitive cu criptare.
 fxa-adoption-credit-cards-backup-title = Hai să facem o copie de rezervă cu metodele de plată
 fxa-adoption-credit-cards-backup-subtitle = Protejează-ți metodele de plată sincronizându-le pe dispozitive cu criptare.
+fxa-adoption-bookmarks-treatment-backup-title = Să facem o copie de rezervă cu marcajele tale
+fxa-adoption-bookmarks-treatment-backup-subtitle = Protejează-ți marcajele sincronizându-le cu dispozitivele tale prin criptare.
 fxa-adoption-primary-button-label = Fă-ți un cont
 
 ## Protections panel

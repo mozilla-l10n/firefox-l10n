@@ -268,3 +268,7 @@ link-preview-setup-faster-next-time = Vei vedea punctele-cheie mai rapid data vi
 link-preview-onboarding-button = Vezi o previzualizare
 # Onboarding card Close button
 link-preview-onboarding-close = Închide
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Prima configurare
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Poate dura puțin. Data viitoare vei vedea punctele-cheie mai repede.

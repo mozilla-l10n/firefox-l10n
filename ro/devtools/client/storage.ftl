@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Expiră / Durată maximă
 storage-table-headers-cookies-size = Mărime
 storage-table-headers-cookies-last-accessed = Ultima accesare
 storage-table-headers-cookies-creation-time = Create
+storage-table-headers-cookies-update-time = Actualizat
 storage-table-headers-cache-status = Stare
 storage-table-headers-extension-storage-area = Zonă de stocare
 

@@ -281,6 +281,10 @@ colorway-removal-notice-message =
         site-ul suplimentului.
 colorway-removal-notice-learn-more = Află mai multe
 colorway-removal-notice-button = Obține teme de culori actualizate
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Setările de contrast Windows au prioritate față de temele { -brand-short-name }. Dezactivează aceste setări ca să folosești teme în { -brand-short-name }.
 privacy-policy = Politică de confidențialitate
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
