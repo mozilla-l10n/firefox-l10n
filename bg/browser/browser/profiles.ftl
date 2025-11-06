@@ -18,10 +18,19 @@ profile-card =
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профил { $number }
+edit-profile-page-delete-button =
+    .label = Изтриване
 new-profile-page-learn-more = Научете повече
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = Изтриване на потребителския профил на { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = Да се изтрие ли потребителския профил на { $profilename }?
+delete-profile-description = { -brand-short-name } ще изтрие необратимо следните данни от устройството:
 delete-profile-logins = Пароли
 
 ##

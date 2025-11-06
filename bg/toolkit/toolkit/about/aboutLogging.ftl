@@ -65,3 +65,8 @@ about-logging-unknown-option = Неизвестна настройка на abou
 about-logging-configuration-url-ignored = Адресът с настройки е пренебрегнат
 about-logging-file-and-profiler-override = Не може принудително да бъде изведен дневника във файл и едновременно с това да бъдат налагани нови настройки на профилатора
 about-logging-configured-via-url = Настройката е зададена чрез адрес
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = Изтриване
+about-logging-delete-profile-confirm-title = Изтриване на профил

@@ -10,6 +10,14 @@
 
 about-webauthn-results-success = Успех!
 
+## Labels
+
+about-webauthn-confirm-deletion-label = На път сте да изтриете:
+
+## Buttons
+
+about-webauthn-delete-button = Изтриване
+
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 

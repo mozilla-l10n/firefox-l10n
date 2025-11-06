@@ -55,7 +55,9 @@ turn-on-scheduled-backups-cancel-button = Отказ
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-description = Това също изтрива всички ваши архивни данни. Не може да бъде отменено.
 turn-off-scheduled-backups-cancel-button = Отказ
+turn-off-scheduled-backups-confirm-button = Изключване и изтриване на архивно копие
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
