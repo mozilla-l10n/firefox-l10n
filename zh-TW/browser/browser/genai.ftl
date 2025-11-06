@@ -253,3 +253,7 @@ link-preview-setup-faster-next-time = 您下次能更快就看到重點內容。
 link-preview-onboarding-button = 檢視預覽
 # Onboarding card Close button
 link-preview-onboarding-close = 關閉
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = 首次設定
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = 這可能需要一點時間，下次可以更快看到網頁重點。

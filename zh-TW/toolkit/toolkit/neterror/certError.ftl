@@ -107,6 +107,10 @@ fp-cert-error-code = 錯誤碼：{ $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = 由於 { $hostname } 提供的憑證不符合公開憑證透明度要求，{ -brand-short-name } 無法信任該網域。
 fp-learn-more-about-secure-connection-failures = 了解安全連線失敗的更多資訊
 fp-learn-more-about-cert-issues = 了解這些憑證問題的更多資訊
 fp-learn-more-about-time-related-errors = 了解如何排除時間錯誤的問題

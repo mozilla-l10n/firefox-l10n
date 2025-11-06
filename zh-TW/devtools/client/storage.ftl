@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Expires / Max-Age
 storage-table-headers-cookies-size = 大小
 storage-table-headers-cookies-last-accessed = 最後存取於
 storage-table-headers-cookies-creation-time = 建立於
+storage-table-headers-cookies-update-time = 最後更新於
 storage-table-headers-cache-status = 狀態
 storage-table-headers-extension-storage-area = 儲存區域
 

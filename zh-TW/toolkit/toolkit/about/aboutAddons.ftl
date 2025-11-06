@@ -274,6 +274,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } 已更新配色收藏集。已從您的「儲存的佈景主題」清單移除舊版配色主題，請到附加元件站下載新版主題。
 colorway-removal-notice-learn-more = 更多資訊
 colorway-removal-notice-button = 下載新版配色佈景主題
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = 您的 Windows 對比模式設定會蓋過 { -brand-short-name } 佈景主題。關閉設定後即可使用 { -brand-short-name } 的佈景主題。
 privacy-policy = 隱私權保護政策
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

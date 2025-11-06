@@ -286,6 +286,10 @@ colorway-removal-notice-message =
         el sitio de complementos.
 colorway-removal-notice-learn-more = Conocer más
 colorway-removal-notice-button = Obtener temas de combinaciones de colores actualizados
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = La configuración de contraste de Windows está anulando los temas de { -brand-short-name }. Hay que deshabilitar estas opciones para usar temas en { -brand-short-name }.
 privacy-policy = Política de privacidad
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

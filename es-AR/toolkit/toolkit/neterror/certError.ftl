@@ -107,6 +107,12 @@ fp-cert-error-code = Código de error: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } no confía en { $hostname } porque no puede probar que cumpla con los requisitos de transparencia de los certificados públicos.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Probablemente nada, ya que es posible que haya un problema con el sitio.
 fp-learn-more-about-secure-connection-failures = Conocer más sobre los fallos de conexión segura
 fp-learn-more-about-cert-issues = Conocer más sobre este tipo de problemas con los certificados
 fp-learn-more-about-time-related-errors = Conocer más sobre cómo solucionar errores relacionados con la fecha
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Ocultar avanzadas
 fp-certerror-override-exception-button = Continuar a { $hostname } (Riesgoso)
 fp-certerror-intro = { -brand-short-name } detectó un problema de seguridad potencialmente grave con <strong>{ $hostname }</strong>. Alguien que se haga pasar por el sitio podría intentar robar información de tarjetas de crédito, contraseñas o correos electrónicos.
 fp-certerror-expired-into = { -brand-short-name } detectó un problema de seguridad con <strong>{ $hostname }</strong>. O el sitio no está configurado correctamente o el reloj de su dispositivo está configurado en una fecha/hora incorrecta.
+fp-certerror-transparency-intro = Alguien que se haga pasar por <strong>{ $hostname }</strong> podría intentar robar cosas como información de tarjetas de crédito, contraseñas o correos electrónicos.

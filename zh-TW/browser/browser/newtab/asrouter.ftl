@@ -70,6 +70,8 @@ fxa-adoption-addresses-backup-title = 一起備份儲存的網址吧！
 fxa-adoption-addresses-backup-subtitle = 加密後同步到其他裝置中，以保護您儲存的地址。
 fxa-adoption-credit-cards-backup-title = 一起備份您的付款資訊吧！
 fxa-adoption-credit-cards-backup-subtitle = 加密後同步到其他裝置中，以保護您的付款資訊。
+fxa-adoption-bookmarks-treatment-backup-title = 讓我們來備份您的書籤
+fxa-adoption-bookmarks-treatment-backup-subtitle = 加密後同步到其他裝置中，以保護您的書籤。
 fxa-adoption-primary-button-label = 註冊
 
 ## Protections panel

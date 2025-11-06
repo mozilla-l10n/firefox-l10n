@@ -14,6 +14,7 @@ url-classifier-search-result-list = 表格清單: { $list }
 url-classifier-search-input = 網址
 url-classifier-search-error-invalid-url = 網址無效
 url-classifier-search-error-no-features = 未選擇功能
+url-classifier-search-error-no-results = 找不到此網址對應的項目
 url-classifier-search-btn = 開始搜尋
 url-classifier-search-features = 功能
 url-classifier-search-listType = 清單類型

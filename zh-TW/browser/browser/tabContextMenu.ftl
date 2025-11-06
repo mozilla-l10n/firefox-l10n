@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = 移動至新視窗
     .accesskey = W
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = 移動至 { $profileName }
 tab-context-close-multiple-tabs =
     .label = 關閉多個分頁
     .accesskey = M
