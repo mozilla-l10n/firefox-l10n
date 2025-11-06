@@ -6,7 +6,13 @@ settings-data-backup-header = پشتیبان‌گیری
 settings-data-backup-toggle = مدیریت پشتیبان‌گیری
 settings-data-backup-scheduled-backups-on = پشتیبان‌گیری: روشن
 settings-data-backup-scheduled-backups-off = پشتیبان‌گیری: خاموش
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location = مکان
+settings-data-backup-last-backup-location-show-in-folder = نمایش در پوشه
 settings-data-backup-last-backup-location-edit = ویرایش…
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = نام پرونده: { $fileName }
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
@@ -15,6 +21,13 @@ settings-data-change-password = تغییر گذرواژه…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = مکان
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] انتخاب...
+       *[other] مرور…
+    }
 turn-on-scheduled-backups-encryption-create-password-label = گذرواژه
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = تکرار گذرواژه
@@ -27,13 +40,28 @@ turn-off-scheduled-backups-cancel-button = انصراف
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-filepicker-label = پرونده پشتیبان‌گیری
+restore-from-backup-filepicker-title = انتخاب پرونده پشتیبان‌گیری:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] انتخاب...
+       *[other] مرور...
+    }
 restore-from-backup-password-label = گذرواژه
+restore-from-backup-cancel-button = انصراف
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-support-link = بیشتر بدانید
 enable-backup-encryption-create-password-label = گذرواژه
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = تکرار گذرواژه
+enable-backup-encryption-cancel-button = انصراف
 enable-backup-encryption-confirm-button = ذخیره
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-cancel-button = انصراف
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
@@ -49,3 +77,4 @@ backup-file-creation-date-label = ايجاد شده:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }، { DATETIME($date, dateStyle: "short") }
+backup-file-download-moz-browser-button = بارگیری

@@ -727,6 +727,14 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · امروز
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1186,3 +1194,8 @@ popup-show-popup-menuitem =
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = پایان نصب
+
+## The urlbar trust icon & panel
+
+trustpanel-clear-cookies-subview-button-cancel = انصراف
+trustpanel-blocker-see-all = نمايش همه
