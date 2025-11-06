@@ -15,6 +15,8 @@ about-logging-set-log-file = Atur Berkas Log
 about-logging-set-log-modules = Atur Modul Log
 about-logging-start-logging = Mulai Pencatatan
 about-logging-stop-logging = Hentikan Pencatatan
+about-logging-copy-as-url = Salin pengaturan saat ini sebagai URL
+about-logging-url-copied = Pengaturan pencatatan log disalin ke papan klip sebagai URL prasetel
 about-logging-buttons-disabled = Logging dikonfigurasi melalui variabel lingkungan, konfigurasi dinamis tidak tersedia.
 about-logging-some-elements-disabled = Logging dikonfigurasi melalui URL, beberapa opsi konfigurasi tidak tersedia
 about-logging-info = Info:
@@ -27,6 +29,7 @@ about-logging-no-log-modules = Tidak ada
 about-logging-no-log-file = Tidak ada
 about-logging-logging-preset-selector-text = Prasetel logging:
 about-logging-with-profiler-stacks-checkbox = Aktifkan pelacakan tumpukan untuk pesan log
+about-logging-with-javascript-tracing-checkbox = Aktifkan pelacakan JavaScript
 
 ## Logging presets
 
