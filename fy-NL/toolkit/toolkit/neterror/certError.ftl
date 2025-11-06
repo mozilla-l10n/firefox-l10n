@@ -107,6 +107,12 @@ fp-cert-error-code = Flaterkoade: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } fertrout { $hostname } net, omdat it net bewize koe dat it oan de transparânsjefereasken foar iepenbiere sertifikaten foldocht.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Wierskynlik neat, omdat der wierskynlik in probleem mei de website sels is.
 fp-learn-more-about-secure-connection-failures = Mear ynfo oer mislearre befeilige ferbiningen
 fp-learn-more-about-cert-issues = Mear ynfo oer dit soarte fan sertifikaatproblemen
 fp-learn-more-about-time-related-errors = Mear ynfo oer it oplossen fan tiidrelatearre flaters
