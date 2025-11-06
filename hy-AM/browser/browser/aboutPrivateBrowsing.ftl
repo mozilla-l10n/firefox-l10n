@@ -26,7 +26,7 @@ about-private-browsing-hide-activity = Թաքցրեք Ձեր գործունեո�
 about-private-browsing-get-privacy = Ստացեք գաղտնիության պաշտպանություններ ամենուր, որտեղից զննարկում եք
 about-private-browsing-hide-activity-1 = Թաքցրեք դիտարկման գործունեությունը և գտվելու վայրը { -mozilla-vpn-brand-name }-ով: Մեկ կտտոցը ստեղծում է անվտանգ կապ՝ անգամ հանրային Wi-Fi-ում:
 about-private-browsing-prominent-cta = Մնացեք գաղտնի { -mozilla-vpn-brand-name }-ի հետ
-about-private-browsing-focus-promo-cta = Ներբեռնեք { -focus-brand-name }-ը
+about-private-browsing-focus-promo-cta = Ներբեռնել { -focus-brand-name }-ը
 about-private-browsing-focus-promo-header = { -focus-brand-name }. գաղտնի դիտարկում ընթացքի վրա
 
 ## The following strings will be used for experiments in Fx99 and Fx100
@@ -40,11 +40,6 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name }-ն մաքրո�
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName }-ը Ձեր սկզբնադիր որոնիչն է գաղտնի պատուհաններում
-about-private-browsing-search-banner-description =
-    { PLATFORM() ->
-        [windows] Այլ որոնիչ ընտրելու համար գնացեք դեպի <a data-l10n-name="link-options">Ընտրանքներ</a>
-       *[other] Այլ որոնիչ ընտրելու համար գնացեք դեպի <a data-l10n-name="link-options"> Նախընտրանքներ</a>
-    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Փակել
 about-private-browsing-promo-close-button =

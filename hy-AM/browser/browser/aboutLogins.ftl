@@ -386,8 +386,10 @@ about-logins-import-dialog-items-error =
 about-logins-import-dialog-done = Պատրաստ է
 about-logins-import-dialog-error-title = Ներմուծման սխալ
 about-logins-import-dialog-error-conflicting-values-title = Մի քանի հակասող արժեքներ մեկ մուտքի համար
+about-logins-import-dialog-error-conflicting-values-description = Օրինակ՝ բազմաթիվ օգտանուններ, գաղտնաբառեր, URL-ներ, և այլն մեկ մուտքանվան համար։
 about-logins-import-dialog-error-file-format-title = Ֆայլի ձևաչափի խնդիր
 about-logins-import-dialog-error-file-permission-title = Հնարավոր չէ կարդալ ֆայլը
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name }-ը ֆայլը կարդալու թույլտվություն չունի։ Փորձեք փոխել ֆայլի թույլտվությունները։
 about-logins-import-dialog-error-unable-to-read-title = Հնարավոր չէ կարդալ ֆայլը
 about-logins-import-dialog-error-unable-to-read-description = Համոզվեք, որ ընտրել եք CSV կամ TSV ֆայլ:
 about-logins-import-dialog-error-no-logins-imported = Ոչ մի մուտքագրում չի ներմուծվել
@@ -429,6 +431,11 @@ about-logins-import-report-modified =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Առկա մուտքերը թարմացվեցին</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Առկա մուտքերը թարմացվեցին</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">կրկնվող մուտքանուն</div> <div data-l10n-name="not-imported">(ներմուծված չէ)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">կրկնվող մուտքանուններ</div> <div data-l10n-name="not-imported">(ներմուծված չեն)</div>
     }
 about-logins-import-report-added2 =
     { $count ->
