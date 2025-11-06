@@ -212,6 +212,12 @@ about-logins-confirm-remove-all-dialog-title =
         [one] پاک کردن { $count } و من ٱووڌن؟
        *[other] پاک کردن پوی { $count } و من ٱووڌن؟
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] پاک کردن { $count } رزم؟
+       *[other] پاک کردن پوی { $count } رزم؟
+    }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->

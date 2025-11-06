@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Ovetã pyahúpe jereraha
     .accesskey = W
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Erova { $profileName }-pe
 tab-context-close-multiple-tabs =
     .label = Emboty tendaykeita
     .accesskey = M

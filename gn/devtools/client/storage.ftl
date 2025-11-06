@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Opáta / Aravo pukukue
 storage-table-headers-cookies-size = Tuichakue
 storage-table-headers-cookies-last-accessed = Jeike paháva
 storage-table-headers-cookies-creation-time = Moheñoipyre
+storage-table-headers-cookies-update-time = hekopyahupyre
 storage-table-headers-cache-status = Tekotee
 storage-table-headers-extension-storage-area = Ñembyatyha rendag̃ua
 
