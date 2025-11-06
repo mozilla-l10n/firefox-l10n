@@ -326,6 +326,14 @@ colorway-removal-notice-message =
         }
 colorway-removal-notice-learn-more = Zjistit více
 colorway-removal-notice-button = Získejte aktualizované palety barev
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Nastavení kontrastu ve Windows přepisuje motivy vzhledu { -brand-short-name(case: "gen") }. Pokud chcete používat motivy ve { -brand-short-name(case: "loc") }, vypněte tato nastavení.
+           *[no-cases] Nastavení kontrastu ve Windows přepisuje motivy vzhledu aplikace { -brand-short-name }. Pokud chcete používat motivy v aplikaci { -brand-short-name }, vypněte tato nastavení.
+        }
 privacy-policy = Zásady ochrany osobních údajů
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
