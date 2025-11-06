@@ -21,4 +21,19 @@ backup-folder-name = وورگندن { -brand-product-name }
 backup-file-name = لادراری { -brand-product-name }
 settings-data-backup-header = لادراری گرؽڌن
 settings-data-backup-toggle = دؽوۉداری لادراری گرؽڌن
+settings-data-backup-toggle-on = رۊشن کردن لادراری گرؽڌن
+settings-data-backup-toggle-off = کۊر کردن لادراری گرؽڌن
 settings-data-backup-trigger-button = هیم سکو لادراری بگر
+settings-data-backup-in-progress-button = لادراری گرؽڌن هونی ٱنجوم ابۊ…
+settings-data-backup-in-progress-message =
+    .message = لادراری گرؽڌن هونی ٱنجوم ابۊ…
+settings-data-backup-scheduled-backups-on = لادراری گرؽڌن: رۊشن
+settings-data-backup-scheduled-backups-off = لادراری گرؽڌن: کۊر
+settings-data-backup-last-backup-date = لادراری گرؽڌن دیندایی: { DATETIME($date, dateStyle: "short") }
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location = جاگه
+settings-data-backup-last-backup-location-show-in-folder = نشووݩ داڌن من دوبلگه
+settings-data-backup-last-backup-location-edit = آلشت…
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = نوم فایل: { $fileName }
