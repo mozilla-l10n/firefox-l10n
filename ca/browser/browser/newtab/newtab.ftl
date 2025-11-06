@@ -505,6 +505,9 @@ newtab-topic-selection-button-pick-interests = Trieu els vostres interessos
 newtab-section-follow-button = Segueix
 newtab-section-following-button = Seguint
 newtab-section-unfollow-button = Deixar de seguir
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Ajusteu el canal
+newtab-section-follow-highlight-subtitle = Seguiu els vostres interessos per a veure més contingut que us agradi.
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -528,9 +531,24 @@ newtab-section-block-topic-button = Bloca { $topic }
 newtab-section-mangage-topics-title = Temes
 newtab-section-manage-topics-button-v2 =
     .label = Gestiona els temes
+newtab-section-mangage-topics-followed-topics = Seguits
 newtab-section-mangage-topics-followed-topics-empty-state = Encara no seguiu cap tema.
+newtab-section-mangage-topics-blocked-topics = Blocat
 newtab-section-mangage-topics-blocked-topics-empty-state = Encara no heu blocat cap tema.
+newtab-custom-wallpaper-title = Els fons de pantalla personalitzats són aquí
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Pugeu els vostres fons de pantalla o trieu un color per a personalitzar el { -brand-product-name }.
+newtab-custom-wallpaper-cta = Proveu-ho
+
+## Strings for download mobile highlight
+
+newtab-download-mobile-highlight-title = Baixeu el { -brand-product-name } per a mòbils
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Escanegeu el codi per a navegar de manera segura des de qualsevol lloc.
+newtab-download-mobile-highlight-body-variant-b = Continueu des d'on ho havíeu deixat quan sincronitzeu les pestanyes, les contrasenyes i més.
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Per què ho denuncieu?
 newtab-report-cancel = Cancel·la
