@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-hide-tabs = بؽڌار کردن بلگه یل پؽشی
+restore-page-show-tabs = نیشتن بلگه یل پؽشی
