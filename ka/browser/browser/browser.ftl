@@ -1147,7 +1147,7 @@ toolbar-button-new-private-window =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = ამ საიტზე ხმოვანი ფაილების ან ვიდეოების ნაწილი ექვემდებარება DRM-პროგრამას, შედეგად, { -brand-short-name } შესაძლოა, გიზღუდავდეთ მათ თავისუფალ გამოყენებას.
+eme-notifications-drm-content-playing = ამ საიტზე ხმოვანი ან ვიდეოფაილების ნაწილი იყნებს DRM-პროგრამას, შედეგად { -brand-short-name } შესაძლოა, გიზღუდავდეთ მათ თავისუფალ გამოყენებას.
 eme-notifications-drm-content-playing-manage = პარამეტრების მართვა
 eme-notifications-drm-content-playing-manage-accesskey = ვ
 eme-notifications-drm-content-playing-dismiss = დახურვა
