@@ -14,6 +14,7 @@ url-classifier-search-result-list = ცხრილის სია: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = არამართებული URL
 url-classifier-search-error-no-features = შესაძლებლობები არაა მითითებული
+url-classifier-search-error-no-results = ჩანაწერები არ მოიძებნა URL-ბმულისთვის
 url-classifier-search-btn = ძიების დაწყება
 url-classifier-search-features = შესაძლებლობები
 url-classifier-search-listType = სიის სახეობა

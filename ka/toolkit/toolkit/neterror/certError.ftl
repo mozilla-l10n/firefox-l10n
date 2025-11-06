@@ -107,6 +107,12 @@ fp-cert-error-code = შეცდომის კოდი: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } არ ენდობა { $hostname }-ს, რადგანაც ვერ ადასტურებს, რომ აკმაყოფილებს საჯარო სერტიფიკატის გამჭვირვალობის მოთხოვნებს.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტს ჰქონდეს ხარვეზი.
 fp-learn-more-about-secure-connection-failures = ვრცლად უსაფრთხო კავშირის ხარვეზების შესახებ
 fp-learn-more-about-cert-issues = ვრცლად ამ სახის სერტიფიკატების საკითხების შესახებ
 fp-learn-more-about-time-related-errors = ვრცლად არეული საათით გამოწვეული ხარვეზების მოგვარების შესახებ
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = შემოკლებულად
 fp-certerror-override-exception-button = მაინც გაიხსნას { $hostname } (სახიფათოა)
 fp-certerror-intro = { -brand-short-name } მიიჩნევს, რომ <strong>{ $hostname }</strong> საფრთხის შემცველია. სხვა საიტად გასაღების დროს შეიძლება მოიპარონ საკრედიტო ბარათის მონაცემები, პაროლები ან ელფოსტა.
 fp-certerror-expired-into = { -brand-short-name } მიიჩნევს, რომ <strong>{ $hostname }</strong> საფრთხის შემცველია. ან საიტია გაუმართავი, ან თქვენი საათია არეული.
+fp-certerror-transparency-intro = ვიღაც, თავს ასაღებს საიტად <strong>{ $hostname }</strong> და შეიძლება ეცადოს თქვენი ინფორმაციის მოპარვას, მათ შორის მომხმარებლის სახელის, პაროლისა თუ ელფოსტის.

@@ -292,6 +292,10 @@ colorway-removal-notice-message =
         დამატებების საიტს.
 colorway-removal-notice-learn-more = ვრცლად
 colorway-removal-notice-button = მიიღეთ განახლებული შეფერილობები
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = თქვენი Windows ფერების გამოკვეთის პარამეტრებითაა მომართული და { -brand-short-name } ვერ იყენებს გაფორმებებს. გამორთეთ ეს პარამეტრები, რომ გააფორმოთ { -brand-short-name }.
 privacy-policy = პირადულობის დებულება
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

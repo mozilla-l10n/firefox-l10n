@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = დაამარქაფეთ თქ�
 fxa-adoption-addresses-backup-subtitle = დაიცავით თქვენი შენახული მისამართები დაშიფრულად დასინქრონებით სხვადასხვა მოწყობილობაზე.
 fxa-adoption-credit-cards-backup-title = დაამარქაფეთ თქვენი გადახდის საშუალებები
 fxa-adoption-credit-cards-backup-subtitle = დაიცავით თქვენი გადახდის საშუალებები დაშიფრულად დასინქრონებით სხვადასხვა მოწყობილობაზე.
+fxa-adoption-bookmarks-treatment-backup-title = სინჯეთ თქვენი სანიშნების დამარქაფება
+fxa-adoption-bookmarks-treatment-backup-subtitle = დაიცავით თქვენი სანიშნები დაშიფრულად დასინქრონებით სხვადასხვა მოწყობილობაზე.
 fxa-adoption-primary-button-label = ანგარიშის შექმნა
 
 ## Protections panel

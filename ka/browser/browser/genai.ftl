@@ -265,3 +265,7 @@ link-preview-setup-faster-next-time = საკვანძო საკით�
 link-preview-onboarding-button = შეათვალიერეთ
 # Onboarding card Close button
 link-preview-onboarding-close = დახურვა
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = საწყისი გამართვა
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = შესაძლოა გარკვეულ ხანს გასტანოს. შემდეგ ჯერზე საკვანძო საკითხებს უფრო მალე გაეცნობით.
