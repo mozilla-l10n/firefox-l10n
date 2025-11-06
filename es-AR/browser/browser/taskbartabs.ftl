@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Agregar pestaña a la barra de tareas
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Eliminar pestaña de la barra de tareas
+taskbar-tab-urlbar-button-show = Mostrar acción de página para aplicación web
+taskbar-tab-urlbar-button-hide = Ocultar acción de página para aplicación web
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
