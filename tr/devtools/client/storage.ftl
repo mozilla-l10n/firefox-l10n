@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Expires / Max-Age
 storage-table-headers-cookies-size = Boyut
 storage-table-headers-cookies-last-accessed = Son erişim
 storage-table-headers-cookies-creation-time = Oluşturma
+storage-table-headers-cookies-update-time = Güncelleme
 storage-table-headers-cache-status = Durum
 storage-table-headers-extension-storage-area = Depolama alanı
 

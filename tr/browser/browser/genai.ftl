@@ -267,3 +267,5 @@ link-preview-onboarding-button = Ön izlemeyi gör
 link-preview-onboarding-close = Kapat
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = İlk kurulum
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Bu biraz zaman alabilir. Bir dahaki sefere önemli noktaları daha hızlı göreceksiniz.

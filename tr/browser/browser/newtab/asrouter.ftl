@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Kayıtlı adreslerinizi yedekleyelim
 fxa-adoption-addresses-backup-subtitle = Kayıtlı adreslerinizi şifreleyip diğer cihazlarınızla eşitleyerek onları koruyabilirsiniz.
 fxa-adoption-credit-cards-backup-title = Ödeme yöntemlerinizi yedekleyelim
 fxa-adoption-credit-cards-backup-subtitle = Ödeme yöntemlerinizi şifreleyip diğer cihazlarınızla eşitleyerek onları koruyabilirsiniz.
+fxa-adoption-bookmarks-treatment-backup-title = Yer imlerinizi yedekleyelim
+fxa-adoption-bookmarks-treatment-backup-subtitle = Yer imlerinizi şifreleyip diğer cihazlarınızla eşitleyerek onları koruyabilirsiniz.
 fxa-adoption-primary-button-label = Kaydol
 
 ## Protections panel

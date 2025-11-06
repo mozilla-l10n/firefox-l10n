@@ -286,6 +286,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } renk kuşağı koleksiyonu güncellendi. “Kayıtlı temalar” listenizdeki eski sürümleri kaldırdık. Yeni sürümleri eklenti sitemizden indirebilirsiniz.
 colorway-removal-notice-learn-more = Daha fazla bilgi alın
 colorway-removal-notice-button = Güncellenen renk kuşağı temalarını indirin
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Windows karşıtlık ayarlarınız { -brand-short-name } temalarını geçersiz kılıyor. { -brand-short-name } tarayıcınızda temaları kullanmak için bu ayarları kapatın.
 privacy-policy = Gizlilik İlkeleri
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

@@ -113,6 +113,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> { -brand-shor
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Uzantıyı etkinleştirmek için <img data-l10n-name="menu-icon"/> menüdeki <img data-l10n-name="addons-icon"/> Eklentiler bölümüne gidin.
+extension-controlled-enable-2 = Bu uzantıyı yeniden etkinleştirmek için <a data-l10n-name="addons-link">Uzantılar ve temalar</a> sayfasına gidin.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = Bazı giriş sayfası ayarlarınızı { $name } yönetiyor.

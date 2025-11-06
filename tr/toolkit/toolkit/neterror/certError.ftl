@@ -107,6 +107,12 @@ fp-cert-error-code = Hata kodu: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { $hostname } genel sertifika şeffaflığı gereksinimlerini karşıladığını kanıtlayamadığı için { -brand-short-name } bu siteye güvenmiyor.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Sorun büyük ihtimalle sitenin kendisinden kaynaklandığı için sizin yapabileceğiniz bir şey yok.
 fp-learn-more-about-secure-connection-failures = Güvenli bağlantı hataları hakkında daha fazla bilgi alın
 fp-learn-more-about-cert-issues = Bu tür sertifika sorunları hakkında daha fazla bilgi alın
 fp-learn-more-about-time-related-errors = Saatle ilgili hataları giderme hakkında daha fazla bilgi
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Gelişmişi gizle
 fp-certerror-override-exception-button = { $hostname } sitesine devam et (riskli)
 fp-certerror-intro = { -brand-short-name }, <strong>{ $hostname }</strong> sitesiyle ilgili ciddi olabilecek bir güvenlik sorunu tespit etti. Bu siteymiş gibi davranan birisi kredi kartı bilgileriniz, parolalarınız ve e-postalarınız gibi şeyleri çalmaya çalışabilir.
 fp-certerror-expired-into = { -brand-short-name } <strong>{ $hostname }</strong> sitesiyle ilgili bir güvenlik sorunu tespit etti. Ya site doğru kurulmamış ya da cihazınızın tarih/saat ayarları yanlış.
+fp-certerror-transparency-intro = Birisi <strong>{ $hostname }</strong> sitesini taklit ederek kredi kartı bilgileriniz, parolalarınız veya e-postalarınız gibi bilgileri çalmaya çalışabilir.

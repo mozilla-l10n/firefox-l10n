@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Yeni pencereye taşı
     .accesskey = Y
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = { $profileName } profiline taşı
 tab-context-close-multiple-tabs =
     .label = Birden çok sekmeyi kapat
     .accesskey = B
