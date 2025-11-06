@@ -107,6 +107,10 @@ fp-cert-error-code = Codice de error: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } non confide in { $hostname } perque illo non poteva provar que illo satisface le public requisitos de transparentia del certificato.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-transparency-what-can-you-do-body = Probabilemente nihil, pois que il es probabile que il ha un problema con le sito mesme.
 fp-learn-more-about-secure-connection-failures = Pro saper plus re insuccessos de connexion secur
@@ -193,3 +197,4 @@ fp-certerror-hide-advanced-button = Celar avantiate
 fp-certerror-override-exception-button = Continuar a { $hostname } (Riscose)
 fp-certerror-intro = { -brand-short-name } individuava un problema de securitate potentialmente serie con <strong>{ $hostname }</strong>. Alcuno que finge de esser le sito poterea tentar de robar cosas como info carta de credito, contrasignos, o emails.
 fp-certerror-expired-into = { -brand-short-name } individuava un problema de securitate con <strong>{ $hostname }</strong>. O le sito non es implementate correctemente o le horologio de tu apparato es regulate al data/tempore errate.
+fp-certerror-transparency-intro = Alcuno que finge de esser <strong>{ $hostname }</strong> poterea tentar de robar cosas como informationes de carta de credito, contrasignos, o emails.
