@@ -265,3 +265,5 @@ link-preview-setup-faster-next-time = Tu videra le punctos clave plus rapidement
 link-preview-onboarding-button = Vider un previsualisation
 # Onboarding card Close button
 link-preview-onboarding-close = Clauder
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Configuration initial
