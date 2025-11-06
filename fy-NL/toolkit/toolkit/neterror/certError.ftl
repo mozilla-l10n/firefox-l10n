@@ -197,3 +197,4 @@ fp-certerror-hide-advanced-button = Avansearre ferstopje
 fp-certerror-override-exception-button = Trochgean nei { $hostname } (Risikofol)
 fp-certerror-intro = { -brand-short-name } hat in mooglik earnstich befeiligingsprobleem mei <strong>{ $hostname }</strong> opmurken. Ien dy’t harren foardocht as de website kin saken lykas creditcardgegevens, wachtwurden of e-mailadressen probearje te stellen.
 fp-certerror-expired-into = { -brand-short-name } hat in befeiligingsprobleem ûntdekt mei <strong>{ $hostname }</strong>. Of de website is net goed ynsteld, of de klok fan jo apparaat is op de ferkearde datum/tiid ynsteld.
+fp-certerror-transparency-intro = Immen dy’t him foardocht as <strong>{ $hostname }</strong> kin dingen lykas jo brûkersnamme, wachtwurd of e-mailadressen probearje te stellen.
