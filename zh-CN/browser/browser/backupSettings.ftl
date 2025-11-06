@@ -243,3 +243,5 @@ other-backup-files-founds = <b>注意：</b>另找到其他 { $numberOfOtherBack
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 创建于 { $machineName }
 backup-file-restore-file-validation-error = 文件无效，请尝试选取其他文件。<a data-l10n-name="restore-problems">仍有问题？</a>
+restore-from-backup-filepicker-input =
+    .placeholder = 未选择文件
