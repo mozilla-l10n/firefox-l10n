@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = ახალ ფანჯარაში გადატანა
     .accesskey = ფ
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = გადატანით გახსნის { $profileName }
 tab-context-close-multiple-tabs =
     .label = რამდენიმე ჩანართის დახურვა
     .accesskey = რ
