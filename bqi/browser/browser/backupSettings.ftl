@@ -55,3 +55,46 @@ turn-on-scheduled-backups-encryption-create-password-label = رزم
 turn-on-scheduled-backups-encryption-repeat-password-label = تکرار رزم
 turn-on-scheduled-backups-cancel-button = لقو
 turn-on-scheduled-backups-confirm-button = رۊشن کردن لادراری گرؽڌن
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = لادراری گرؽڌن کۊر بۊ؟
+turn-off-scheduled-backups-support-link = قلوه دووسته بۊین
+turn-off-scheduled-backups-cancel-button = لقو
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = داده یل خوتووݩ ن وورگنین
+restore-from-backup-filepicker-label = فایل لادراری گرؽڌن
+restore-from-backup-password-label = رزم
+restore-from-backup-cancel-button = لقو
+restore-from-backup-confirm-button = وورگندن وو ر وندن دووارته
+restore-from-backup-restoring-button = هونی اوورگنه…
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-support-link = قلوه دووسته بۊین
+enable-backup-encryption-create-password-label = رزم
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = تکرار رزم
+enable-backup-encryption-cancel-button = لقو
+enable-backup-encryption-confirm-button = زفت
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-cancel-button = لقو
+disable-backup-encryption-confirm-button = پاک کردن رزم
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-encryption-state-value-encrypted = هری
+backup-file-encryption-state-value-not-encrypted = ن
+backup-file-creation-device-label = دسگا:
+backup-file-creation-date-label = وورکل وابیڌه:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }، { DATETIME($date, dateStyle: "short") }
+backup-file-download-moz-browser-button = دانلود
