@@ -30,6 +30,8 @@ about-logging-no-log-file = Tidak ada
 about-logging-logging-preset-selector-text = Prasetel logging:
 about-logging-with-profiler-stacks-checkbox = Aktifkan pelacakan tumpukan untuk pesan log
 about-logging-with-javascript-tracing-checkbox = Aktifkan pelacakan JavaScript
+about-logging-menu =
+    .title = Opsi lanjutan
 
 ## Logging presets
 
@@ -49,6 +51,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Modul log untuk mendiagnosis panggilan WebRTC
 about-logging-preset-webcodecs-label = WebCodec
 about-logging-preset-webcodecs-description = Log modul untuk mendiagnosis masalah dengan dekoder dan enkoder audio/video WebCodecs, dan dekoder gambar
+about-logging-preset-web-compat-description = Modul log untuk mendiagnosis masalah kompatibilitas web
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Log modul untuk mendiagnosis masalah WebGPU
 about-logging-preset-gfx-label = Grafik
@@ -69,4 +72,53 @@ about-logging-unknown-profiler-preset = Prasetel profiler tidak dikenal "{ $v }"
 about-logging-unknown-option = Opsi about:logging tidak dikenal “{ $k }“
 about-logging-configuration-url-ignored = URL Konfigurasi diabaikan
 about-logging-file-and-profiler-override = Tidak dapat memaksa opsi output file dan menimpa profil secara bersamaan
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Terjadi kesalahan: { $errorText }
 about-logging-configured-via-url = Opsi dikonfigurasi melalui URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+
+about-logging-upload-question = Data profil telah diambil. Apakah Anda ingin menyimpan atau mengunggahnya?
+about-logging-save-button = Simpan
+about-logging-upload-button = Unggah
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Disimpan ke { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Mengunggah data profil: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Diunggah ke <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Bagikan URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Terjadi kesalahan saat mengunggah profil: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Terjadi kesalahan saat menyimpan profil yang diunggah: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Terjadi kesalahan saat menyimpan berkas: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Profil yang Diunggah
+about-logging-no-uploaded-profiles = Belum ada profil yang diunggah.
+about-logging-delete-uploaded-profile = Hapus
+about-logging-view-uploaded-profile = Lihat Profil
+about-logging-delete-profile-confirm-title = Hapus Profil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Yakin ingin menghapus profil “{ $profileName }”? Ini tidak dapat diurungkan.
+about-logging-deleting-profile = Menghapus…
