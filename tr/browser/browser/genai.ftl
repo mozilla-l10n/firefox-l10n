@@ -265,3 +265,5 @@ link-preview-setup-faster-next-time = Bir dahaki sefere önemli noktaları daha 
 link-preview-onboarding-button = Ön izlemeyi gör
 # Onboarding card Close button
 link-preview-onboarding-close = Kapat
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = İlk kurulum
