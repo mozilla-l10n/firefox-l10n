@@ -38,7 +38,7 @@ site-data-remove-all =
     .label = 全部移除
     .accesskey = e
 site-data-remove-shown =
-    .label = 移除筛选出的项目
+    .label = 移除所有显示的项目
     .accesskey = e
 
 ## Removing
