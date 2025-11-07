@@ -263,3 +263,5 @@ link-preview-setup-faster-next-time = Pontos chave serão gerados mais rápido n
 link-preview-onboarding-button = Exibir visualização
 # Onboarding card Close button
 link-preview-onboarding-close = Fechar
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Configuração inicial
