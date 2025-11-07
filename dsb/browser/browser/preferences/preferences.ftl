@@ -993,6 +993,11 @@ sync-choose-what-to-sync-dialog4 =
 sync-device-name-header = Mě rěda
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Mě rěda
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Mě rěda změniś
     .accesskey = z
