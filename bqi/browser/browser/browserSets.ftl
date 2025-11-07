@@ -135,3 +135,36 @@ full-zoom-reduce-shortcut =
     .key = -
 full-zoom-reduce-shortcut-alt-a =
     .key = _
+full-zoom-reduce-shortcut-alt-b =
+    .key = { "" }
+full-zoom-enlarge-shortcut =
+    .key = +
+full-zoom-enlarge-shortcut-alt =
+    .key = =
+full-zoom-enlarge-shortcut-alt2 =
+    .key = { "" }
+full-zoom-reset-shortcut =
+    .key = 0
+full-zoom-reset-shortcut-alt =
+    .key = { "" }
+
+##
+
+bidi-switch-direction-shortcut =
+    .key = X
+private-browsing-shortcut =
+    .key = P
+
+## The shortcuts below are for Mac specific
+## global menu.
+
+quit-app-shortcut =
+    .key = Q
+help-shortcut =
+    .key = ?
+preferences-shortcut =
+    .key = ,
+hide-app-shortcut =
+    .key = H
+hide-other-apps-shortcut =
+    .key = H
