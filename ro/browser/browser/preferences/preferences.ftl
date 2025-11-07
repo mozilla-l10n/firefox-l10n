@@ -989,6 +989,11 @@ sync-choose-what-to-sync-dialog4 =
 sync-device-name-header = Numele dispozitivului
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Numele dispozitivului
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Schimbă numele dispozitivului
     .accesskey = h
