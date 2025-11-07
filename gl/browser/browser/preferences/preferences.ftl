@@ -621,6 +621,9 @@ choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contido de { -firefox-home-brand-name }
@@ -937,6 +940,11 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nome do dispositivo
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nome do dispositivo
+    .placeholder = { $placeholder }
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
