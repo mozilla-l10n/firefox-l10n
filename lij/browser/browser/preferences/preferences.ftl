@@ -363,6 +363,9 @@ choose-bookmark =
     .label = Adeuvia o segnalibbro…
     .accesskey = s
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -496,6 +499,12 @@ sync-sign-in =
     .label = Intra
     .accesskey = t
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -524,6 +533,11 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Nomme dispoxitivo
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nomme dispoxitivo
+    .placeholder = { $placeholder }
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
@@ -579,6 +593,12 @@ forms-master-pw-change =
     .label = Cangia a paròlla segreta prinçipâ…
     .accesskey = C
 forms-master-pw-fips-desc = Cangio de paròlla segreta no riescio
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -650,6 +670,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Gestisci dæti…
     .accesskey = G
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -776,6 +802,9 @@ addon-recommendations-link = Atre informaçioin
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O report di dæti o l'é dizabilitou pe sta configuraçion
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -807,6 +836,12 @@ certs-devices =
     .label = Aparati de Seguessa…
     .accesskey = S
 certs-devices-enable-fips = Abilita FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
