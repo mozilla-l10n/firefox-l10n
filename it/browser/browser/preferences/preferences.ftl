@@ -985,6 +985,11 @@ sync-choose-what-to-sync-dialog4 =
 sync-device-name-header = Nome dispositivo
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Nome dispositivo
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Cambia nome dispositivo
     .accesskey = d
@@ -1723,4 +1728,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
