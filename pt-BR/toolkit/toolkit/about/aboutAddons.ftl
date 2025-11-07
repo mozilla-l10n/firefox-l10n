@@ -289,6 +289,10 @@ colorway-removal-notice-message =
     .message = O { -brand-product-name } atualizou sua coleção de esquemas de cores. Removemos as versões antigas da sua lista de temas salvos. Obtenha novas versões no site de extensões.
 colorway-removal-notice-learn-more = Saiba mais
 colorway-removal-notice-button = Obtenha temas de esquemas de cores atualizados
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Suas configurações de contraste do Windows estão sobrepondo temas do { -brand-short-name }. Desative essas configurações para usar temas no { -brand-short-name }.
 privacy-policy = Política de privacidade
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
