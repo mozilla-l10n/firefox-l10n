@@ -809,8 +809,6 @@ sync-engine-settings =
 sync-device-name-header = ᱥᱟᱫᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱧᱩᱛᱩᱢ
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = ᱥᱟᱫᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱧᱩᱛᱩᱢ
 sync-device-name-change-2 =
     .label = ᱥᱚᱫᱷᱚᱱ ᱧᱩᱛᱩᱢ ᱵᱚᱫᱚᱞ ᱢᱮ
     .accesskey = h

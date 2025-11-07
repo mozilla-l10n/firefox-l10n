@@ -958,8 +958,6 @@ sync-engine-settings =
 sync-device-name-header = Gailuaren izena
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Gailuaren izena
 sync-device-name-change-2 =
     .label = Aldatu gailuaren izena
     .accesskey = d

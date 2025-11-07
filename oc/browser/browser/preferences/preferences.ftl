@@ -858,8 +858,6 @@ sync-engine-settings =
 sync-device-name-header = Nom de l'aparelh
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Nom de l'aparelh
 sync-device-name-change-2 =
     .label = Cambiar lo nom del periferic
     .accesskey = h

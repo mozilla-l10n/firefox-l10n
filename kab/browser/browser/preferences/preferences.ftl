@@ -913,8 +913,6 @@ sync-engine-settings =
 sync-device-name-header = Isem n yibenk
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Isem n yibenk
 sync-device-name-change-2 =
     .label = Beddel isem n yibenk
     .accesskey = q

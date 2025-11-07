@@ -430,8 +430,6 @@ sync-engine-history =
 sync-device-name-header = Toestelnaam
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Toestelnaam
 sync-device-name-change-2 =
     .label = Verander toestelnaam
     .accesskey = V

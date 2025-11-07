@@ -502,8 +502,6 @@ sync-engine-addons =
 sync-device-name-header = Nama Peranti
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Nama Peranti
 sync-device-name-change-2 =
     .label = Tukar Nama Peranti
     .accesskey = u

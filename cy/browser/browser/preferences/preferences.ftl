@@ -1000,8 +1000,6 @@ sync-choose-what-to-sync-dialog4 =
 sync-device-name-header = Enw Dyfais
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Enw Dyfais
 sync-device-name-change-2 =
     .label = Newid Enw'r Ddyfais
     .accesskey = N

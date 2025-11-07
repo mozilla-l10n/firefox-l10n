@@ -265,8 +265,6 @@ sync-engine-creditcards =
 sync-device-name-header = Numm vum Apparat
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Numm vum Apparat
 sync-device-name-cancel =
     .label = Ofbriechen
     .accesskey = n

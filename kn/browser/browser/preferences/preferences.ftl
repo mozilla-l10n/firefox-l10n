@@ -398,8 +398,6 @@ sync-engine-tabs =
 sync-device-name-header = ಸಾಧನದ ಹೆಸರು
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = ಸಾಧನದ ಹೆಸರು
 sync-device-name-change-2 =
     .label = ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಿಸಿ
     .accesskey = h

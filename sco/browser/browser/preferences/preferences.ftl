@@ -716,8 +716,6 @@ sync-engine-settings =
 sync-device-name-header = Device Nemme
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Device Nemme
 sync-device-name-change-2 =
     .label = Chynge Device Nemme
     .accesskey = h

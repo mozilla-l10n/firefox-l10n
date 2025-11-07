@@ -943,8 +943,6 @@ sync-choose-what-to-sync-dialog4 =
 sync-device-name-header = Non dispositîf
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Non dispositîf
 sync-device-name-change-2 =
     .label = Cambie non dal dispositîf
     .accesskey = n

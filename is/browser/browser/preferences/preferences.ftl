@@ -933,8 +933,6 @@ sync-choose-what-to-sync-dialog4 =
 sync-device-name-header = Tækjanafn
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Tækjanafn
 sync-device-name-change-2 =
     .label = Breyta nafni tækis
     .accesskey = B

@@ -716,8 +716,6 @@ sync-engine-settings =
 sync-device-name-header = Nom del dispositiu
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Nom del dispositiu
 sync-device-name-change-2 =
     .label = Canvia el nom del dispositiu
     .accesskey = v

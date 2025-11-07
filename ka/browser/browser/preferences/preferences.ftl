@@ -985,8 +985,6 @@ sync-choose-what-to-sync-dialog4 =
 sync-device-name-header = მოწყობილობის სახელი
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = მოწყობილობის სახელი
 sync-device-name-change-2 =
     .label = მოწყობილობის სახელის შეცვლა
     .accesskey = ს

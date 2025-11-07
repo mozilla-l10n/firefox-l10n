@@ -616,8 +616,6 @@ sync-engine-addons =
 sync-device-name-header = Nomu dû dispusitivu
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Nomu dû dispusitivu
 sync-device-name-change-2 =
     .label = Cancia u nomu dû dispusitivu
     .accesskey = d

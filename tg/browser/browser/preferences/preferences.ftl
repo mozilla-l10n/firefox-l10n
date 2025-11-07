@@ -967,8 +967,6 @@ sync-choose-what-to-sync-dialog4 =
 sync-device-name-header = Номи дастгоҳ
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Номи дастгоҳ
 sync-device-name-change-2 =
     .label = Иваз кардани номи дастгоҳ
     .accesskey = И

@@ -603,8 +603,6 @@ sync-engine-addons =
 sync-device-name-header = डिवाइस का नाम
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = डिवाइस का नाम
 sync-device-name-change-2 =
     .label = उपकरण का नाम बदले
     .accesskey = h

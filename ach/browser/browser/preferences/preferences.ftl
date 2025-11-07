@@ -543,8 +543,6 @@ sync-engine-addons =
 sync-device-name-header = Nying Nyonyo
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Nying Nyonyo
 sync-device-name-change-2 =
     .label = Lok nying nyonyo
     .accesskey = o

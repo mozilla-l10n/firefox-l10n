@@ -700,8 +700,6 @@ sync-engine-settings =
 sync-device-name-header = Pangalan ng Device
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Pangalan ng Device
 sync-device-name-change-2 =
     .label = Palitan ang Pangalan ng Device
     .accesskey = h

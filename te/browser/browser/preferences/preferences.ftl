@@ -625,8 +625,6 @@ sync-engine-settings =
 sync-device-name-header = పరికరం పేరు
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = పరికరం పేరు
 sync-device-name-change-2 =
     .label = పరికరం పేరు మార్చు
     .accesskey = h

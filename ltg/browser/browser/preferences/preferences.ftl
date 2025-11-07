@@ -512,8 +512,6 @@ sync-engine-addons =
 sync-device-name-header = Īrīces nūsaukums
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Īrīces nūsaukums
 sync-device-name-change-2 =
     .label = Maineit īrīces nūsaukumu
     .accesskey = n

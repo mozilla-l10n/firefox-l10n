@@ -461,8 +461,6 @@ sync-engine-creditcards =
 sync-device-name-header = Ainm an Ghléis
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Ainm an Ghléis
 sync-device-name-change-2 =
     .label = Athraigh Ainm an Ghléis
     .accesskey = h

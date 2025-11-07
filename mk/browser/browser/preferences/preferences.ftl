@@ -421,8 +421,6 @@ sync-engine-tabs =
 sync-device-name-header = Име на уред
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Име на уред
 sync-device-name-cancel =
     .label = Откажи
     .accesskey = к

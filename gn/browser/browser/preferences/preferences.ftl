@@ -984,8 +984,6 @@ sync-choose-what-to-sync-dialog4 =
 sync-device-name-header = Mba’e’oka Réra
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Mba’e’oka Réra
 sync-device-name-change-2 =
     .label = Emoambue mba’e’oka réra
     .accesskey = h

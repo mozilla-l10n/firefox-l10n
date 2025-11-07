@@ -799,8 +799,6 @@ sync-engine-settings =
 sync-device-name-header = Įrenginio pavadinimas
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Įrenginio pavadinimas
 sync-device-name-change-2 =
     .label = Keisti įrenginio pavadinimą
     .accesskey = e

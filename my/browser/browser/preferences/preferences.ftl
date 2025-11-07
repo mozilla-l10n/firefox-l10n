@@ -514,8 +514,6 @@ sync-engine-addons =
 sync-device-name-header = ကိရိယာအမည်
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = ကိရိယာအမည်
 sync-device-name-change-2 =
     .label = ကိရိယာအမည်ကို ပြောင်းလဲရန်
     .accesskey = h

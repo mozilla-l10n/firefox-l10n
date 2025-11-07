@@ -275,8 +275,6 @@ sync-engine-history =
 sync-device-name-header = युक्ति नाम
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = युक्ति नाम
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

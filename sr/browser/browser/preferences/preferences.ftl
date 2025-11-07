@@ -879,8 +879,6 @@ sync-engine-settings =
 sync-device-name-header = Назив уређаја
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
-sync-device-name-input =
-    .aria-label = Назив уређаја
 sync-device-name-change-2 =
     .label = Промени назив уређаја
     .accesskey = П
