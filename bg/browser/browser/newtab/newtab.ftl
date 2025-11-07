@@ -335,6 +335,7 @@ newtab-custom-settings = Настройки
 newtab-wallpaper-title = Тапети
 newtab-wallpaper-reset = Връщане на стандартни настройки
 newtab-wallpaper-upload-image = Качване на изображение
+newtab-wallpaper-custom-color = Изберете цвят
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Изображението надхвърля ограничението за големина на файла от { $file_size }MB. Моля, опитайте се да качите по-малък файл.
