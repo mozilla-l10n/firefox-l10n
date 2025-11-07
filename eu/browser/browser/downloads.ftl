@@ -187,6 +187,10 @@ downloads-details =
 
 downloads-private-browsing-details =
     .title = Fitxategiak zure gailuan mantentzen dira
+downloads-private-browsing-message = Gailu hau erabiltzen duen edonork ikus ditzake deskargak, baita leiho pribatu guztiak itxita ere.
+downloads-private-browsing-delete-button =
+    .label = Ezabatu fitxategiak automatikoki
+    .accesskey = z
 downloads-private-browsing-accept-button =
     .label = Ulertuta
     .accesskey = U
