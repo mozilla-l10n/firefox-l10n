@@ -107,6 +107,12 @@ fp-cert-error-code = Código de erro: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = O { -brand-short-name } não confia em { $hostname } porque este não conseguiu comprovar que atende aos requisitos de transparência de certificados públicos.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Provavelmente nada, pois é provável que se trate de um problema no próprio site.
 fp-learn-more-about-secure-connection-failures = Saiba mais sobre falhas de conexão segura
 fp-learn-more-about-cert-issues = Saiba mais sobre esses tipos de problemas de certificado
 fp-learn-more-about-time-related-errors = Saiba mais sobre como solucionar erros relativos a data e hora
