@@ -971,10 +971,8 @@ sync-device-name-header = Ime naprave
 sync-device-name-input =
     .aria-label = Ime naprave
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
-    .label = Spremeni ime naprave{ " " }
+    .label = Spremeni ime naprave
     .accesskey = r
 sync-device-name-change =
     .label = Spremeni ime naprave …
