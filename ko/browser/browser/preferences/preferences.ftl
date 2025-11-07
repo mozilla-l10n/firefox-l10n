@@ -969,6 +969,11 @@ sync-choose-what-to-sync-dialog4 =
 sync-device-name-header = 기기 이름
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = 기기 이름
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = 기기 이름 변경
     .accesskey = h
