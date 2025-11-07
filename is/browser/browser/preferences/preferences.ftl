@@ -620,6 +620,9 @@ choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } efni
@@ -931,6 +934,11 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Tækjanafn
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = Tækjanafn
+    .placeholder = { $placeholder }
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
