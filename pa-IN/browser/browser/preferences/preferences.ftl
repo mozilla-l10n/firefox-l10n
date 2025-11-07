@@ -984,6 +984,11 @@ sync-choose-what-to-sync-dialog4 =
 sync-device-name-header = ਡਿਵਾਈਸ ਨਾਂ
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = ਡਿਵਾਈਸ ਨਾਂ
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = …ਡਿਵਾਈਸ ਦਾ ਨਾਂ ਚੁਣੋ
     .accesskey = h
