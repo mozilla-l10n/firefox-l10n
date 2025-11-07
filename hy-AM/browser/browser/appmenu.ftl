@@ -191,6 +191,8 @@ profiler-popup-presets-graphics-label =
     .label = Գրաֆիկա
 profiler-popup-presets-media-label =
     .label = Մեդիա
+profiler-popup-presets-ml-label =
+    .label = Մեքենայական ուսուցում
 profiler-popup-presets-networking-label =
     .label = Ցանցարկում
 # "Power" is used in the sense of energy (electricity used by the computer).

@@ -237,11 +237,32 @@ tab-group-editor-color-selector2-purple = Մանուշակագույն
     .title = Մանուշակագույն
 tab-group-editor-color-selector2-cyan = Փիրուզագույն
     .title = Փիրուզագույն
+tab-group-editor-color-selector2-orange = Նարնջագույն
+    .title = Նարնջագույն
+tab-group-editor-color-selector2-yellow = Դեղին
+    .title = Դեղին
+tab-group-editor-color-selector2-pink = Վարդագույն
+    .title = Վարդագույն
+tab-group-editor-color-selector2-green = Կանաչ
+    .title = Կանաչ
+tab-group-editor-color-selector2-gray = Մոխրագույն
+    .title = Մոխրագույն
 tab-group-editor-color-selector2-red = Կարմիր
     .title = Կարմիր
+tab-group-description = { $tabGroupName }․ ներդիրների խումբ
+tab-group-label-tooltip-collapsed = { $tabGroupName }․ ծալված
+tab-group-label-tooltip-expanded = { $tabGroupName }․ ընդլայնված
+tab-group-preview-name =
+    .aria-label = Ներդիրները ծալված խմբում
 tab-context-unnamed-group =
     .label = Անանուն խումբ
 tab-group-name-default = Անանուն խումբ
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Ներդիրների ցանկը բաց է
+tab-group-preview-closed-description = Ներդիրների ցանկը փակ է
 
 ##
 
@@ -261,6 +282,8 @@ tab-context-move-tab-to-group =
            *[other] Հավելել ներդիրները խմբում
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = Փակված խմբեր
 tab-group-editor-action-new-tab =
     .label = Նոր ներդիր խմբում
 tab-group-editor-action-new-window =
@@ -271,6 +294,11 @@ tab-group-editor-action-ungroup =
     .label = Ապախմբավորել ներդիրները
 tab-group-editor-action-delete =
     .label = Ջնջել խումբը
+tab-group-editor-done =
+    .label = Ավարտ
+    .accessKey = Ա
+tab-context-reopen-tab-group =
+    .label = Վերաբացել ներդիրների խումբը
 # Variables:
 #  $groupCount (Number): the number of tab groups that are affected by the action.
 tab-context-ungroup-tab =
@@ -281,6 +309,16 @@ tab-context-ungroup-tab =
            *[other] Հեռացնել խմբերից
         }
     .accesskey = R
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] Եվս { $tabCount } ներդիր
+       *[other] Եվս { $tabCount } ներդիրներ
+    }
 
 ## Open/saved tab group context menu
 
@@ -288,8 +326,25 @@ tab-context-ungroup-tab =
 # window and move this tab group to that new window.
 tab-group-context-move-to-new-window =
     .label = Տեղափոխել խումբը նոր պատուհան
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = Տեղափոխել խումբը այս պատուհան
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.
 tab-group-context-delete =
     .label = Ջնջել խումբը
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = Բացել խումբն այս պատուհանում
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Բացել խումբը նոր պատուհանում
+
+## Split View
+
+tab-context-badge-new = Նոր

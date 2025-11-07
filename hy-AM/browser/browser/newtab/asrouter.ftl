@@ -300,6 +300,10 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Սկսել դիտարկումը
 multi-cta-fox-doodle-main-browser-primary-button-label = Դարձնել { -brand-short-name }-ը իմ հիմնական դիտարկիչը
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Շուտով Windows 10-ից ե՞ք թարմացնելու։
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-primary-label = Սկսել
