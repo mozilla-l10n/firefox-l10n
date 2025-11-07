@@ -628,6 +628,9 @@ choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Вміст { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
@@ -949,6 +952,9 @@ sync-device-name-header = Назва пристрою
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = Назва пристрою
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Змінити
     .accesskey = З

@@ -986,6 +986,9 @@ sync-device-name-header = Laitteen nimi
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = Laitteen nimi
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Muuta laitteen nimeä
     .accesskey = M

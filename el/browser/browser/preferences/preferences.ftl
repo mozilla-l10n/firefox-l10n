@@ -987,6 +987,9 @@ sync-device-name-header = Όνομα συσκευής
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = Όνομα συσκευής
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Αλλαγή ονόματος συσκευής
     .accesskey = λ

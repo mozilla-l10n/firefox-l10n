@@ -309,6 +309,7 @@ sync-device-name-header = Device Name
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = Device Name
+    .placeholder = { $placeholder }
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

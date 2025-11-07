@@ -573,6 +573,9 @@ choose-bookmark =
     .label = Favorits…
     .accesskey = s
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contengut de la { -firefox-home-brand-name }
@@ -860,6 +863,9 @@ sync-device-name-header = Nom de l'aparelh
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = Nom de l'aparelh
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Cambiar lo nom del periferic
     .accesskey = h

@@ -978,6 +978,9 @@ sync-device-name-header = 设备名称
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = 设备名称
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = 更改设备名称
     .accesskey = h

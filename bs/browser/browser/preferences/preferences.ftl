@@ -624,6 +624,9 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } sadržaj
@@ -945,6 +948,9 @@ sync-device-name-header = Naziv uređaja
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = Naziv uređaja
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Promijeni naziv uređaja
     .accesskey = n

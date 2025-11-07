@@ -945,6 +945,9 @@ sync-device-name-header = Құрылғы аты
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = Құрылғы аты
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Құрылғы атын өзгерту
     .accesskey = з

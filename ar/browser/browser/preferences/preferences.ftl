@@ -621,6 +621,9 @@ choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = محتوى { -firefox-home-brand-name }
@@ -924,6 +927,9 @@ sync-device-name-header = اسم الجهاز
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = اسم الجهاز
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = غيّر اسم الجهاز
     .accesskey = ه

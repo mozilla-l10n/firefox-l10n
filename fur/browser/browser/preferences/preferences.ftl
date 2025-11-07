@@ -625,6 +625,9 @@ choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contignûts par { -firefox-home-brand-name }
@@ -945,6 +948,9 @@ sync-device-name-header = Non dispositîf
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = Non dispositîf
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Cambie non dal dispositîf
     .accesskey = n

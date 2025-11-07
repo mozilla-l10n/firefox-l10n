@@ -529,6 +529,9 @@ sync-device-name-header = ডিভাইসের নাম
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = ডিভাইসের নাম
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = ডিভাইসের নাম পরিবর্তন
     .accesskey = h

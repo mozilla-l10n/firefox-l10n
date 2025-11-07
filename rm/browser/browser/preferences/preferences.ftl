@@ -625,6 +625,9 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }
@@ -945,6 +948,9 @@ sync-device-name-header = Num da l'apparat
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
     .aria-label = Num da l'apparat
+    .placeholder = { $placeholder }
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Midar il num da l'apparat
     .accesskey = M
