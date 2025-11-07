@@ -4,11 +4,11 @@
 
 refresh-profile-dialog-title = לרענן את { -brand-short-name } להגדרות ברירת המחדל שלו?
 refresh-profile-dialog-button =
-    .label = רענון { -brand-short-name }
+    .label = ריענון { -brand-short-name }
 refresh-profile-dialog-description = התחלה חדשה כדי לפתור בעיות ביצועים. פעולה זו תסיר את ההרחבות וההתאמות האישיות שלך. לא יאבד מידע חיוני כמו סימניות וססמאות.
 refresh-profile = לכוונן מחדש את { -brand-short-name }
-refresh-profile-button = רענון { -brand-short-name }…
+refresh-profile-button = ריענון { -brand-short-name }…
 refresh-profile-learn-more = מידע נוסף
 refresh-profile-progress =
-    .title = רענון { -brand-short-name }
+    .title = ריענון { -brand-short-name }
 refresh-profile-progress-description = כמעט סיימנו…

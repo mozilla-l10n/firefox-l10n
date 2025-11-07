@@ -58,6 +58,10 @@ genai-shortcuts-hide =
     .label = הסתרת קיצור דרך לצ’אטבוט
 genai-menu-choose-chatbot =
     .label = בחירת צ’אטבוט AI
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = לשאול את { $provider }
+    .accesskey = ש
 
 ## Chatbot header
 

@@ -418,8 +418,8 @@ quickactions-cmd-savepdf2 = pdf, שמירת הדף, שמירת דף, שמירת 
 quickactions-private2 = פתיחת חלון פרטי
 quickactions-cmd-private = גלישה פרטית, גלישה אנונימית
 # Opens a SUMO article explaining how to refresh
-quickactions-refresh = רענון { -brand-short-name }
-quickactions-cmd-refresh = רענון, רענן, לרענן
+quickactions-refresh = ריענון { -brand-short-name }
+quickactions-cmd-refresh = ריענון, רענן, לרענן
 # Restarts the browser
 quickactions-restart = הפעלת { -brand-short-name } מחדש
 quickactions-cmd-restart = הפעלה מחדש, הפעל מחדש, להפעיל מחדש

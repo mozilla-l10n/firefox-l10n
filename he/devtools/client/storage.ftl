@@ -38,7 +38,7 @@ storage-add-button =
     .title = הוספת פריט
 # Refresh button title
 storage-refresh-button =
-    .title = רענון פריטים
+    .title = ריענון פריטים
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = מחיקת הכל

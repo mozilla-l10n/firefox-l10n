@@ -8,7 +8,7 @@ troubleshoot-mode-window =
 start-troubleshoot-mode =
     .label = פתיחה
 refresh-profile =
-    .label = רענון { -brand-short-name }
+    .label = ריענון { -brand-short-name }
 troubleshoot-mode-description = ניתן להשתמש במצב מיוחד זה של { -brand-short-name } כדי לאבחן בעיות. ההרחבות וההתאמות האישיות שלך יושבתו באופן זמני.
 skip-troubleshoot-refresh-profile = באפשרותך לדלג על שלב אבחון הבעיות ולרענן את { -brand-short-name } במקום.
 # Shown on the safe mode dialog after multiple startup crashes.
