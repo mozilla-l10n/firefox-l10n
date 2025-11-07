@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Let’s back up your saved addresses
 fxa-adoption-addresses-backup-subtitle = Protect your saved addresses by synchronising them to your devices with encryption.
 fxa-adoption-credit-cards-backup-title = Let’s back up your payment methods
 fxa-adoption-credit-cards-backup-subtitle = Protect your payment methods by synchronising them to your devices with encryption.
+fxa-adoption-bookmarks-treatment-backup-title = Let’s back up your bookmarks
+fxa-adoption-bookmarks-treatment-backup-subtitle = Protect your bookmarks by synchronising them to your devices with encryption.
 fxa-adoption-primary-button-label = Sign up
 
 ## Protections panel
