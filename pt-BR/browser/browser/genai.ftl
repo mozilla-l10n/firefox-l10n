@@ -265,3 +265,5 @@ link-preview-onboarding-button = Exibir visualização
 link-preview-onboarding-close = Fechar
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = Configuração inicial
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Isso pode demorar um pouquinho. Na próxima vez os pontos principais aparecerão mais rapidamente.
