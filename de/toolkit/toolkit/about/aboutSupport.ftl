@@ -406,7 +406,7 @@ zooming-enabled = sanftes Zoomen durch Antippen aktiviert
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
-wheel-warning = Asynchone Mausrad-Eingabe deaktiviert auf Grund nicht unterstützter Einstellung: { $preferenceKey }
+wheel-warning = Asynchrone Mausrad-Eingabe deaktiviert auf Grund nicht unterstützter Einstellung: { $preferenceKey }
 touch-warning = Asynchrone Berührungs-Eingabe deaktiviert auf Grund nicht unterstützter Einstellung: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
