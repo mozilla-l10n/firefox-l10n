@@ -24,8 +24,8 @@ origin-title = Quelle: { $originTitle }
 scope = <strong>Gültigkeitsbereich:</strong> { $name }
 script-spec = <strong>Skript-Spezifikation:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>Aktuelle Worker-Adresse:</strong> <a data-l10n-name="link">{ $url }</a>
-active-cache-name = <strong>Name des aktiven Caches:</strong> { $name }
-waiting-cache-name = <strong>Name des wartenden Caches:</strong> { $name }
+active-cache-name = <strong>Name des aktiven Cache:</strong> { $name }
+waiting-cache-name = <strong>Name des wartenden Cache:</strong> { $name }
 push-end-point-waiting = <strong>Push-Endpunkt:</strong> { waiting }
 push-end-point-result = <strong>Push-Endpunkt:</strong> { $name }
 # This term is used as a button label (verb, not noun).

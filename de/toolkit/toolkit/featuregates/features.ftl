@@ -28,7 +28,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home-Start-Cache
-experimental-features-abouthome-startup-cache-description = Ein Cache für das anfängliche about:home-Dokument, das beim Start standardmäßig geladen wird. Der Zweck des Caches besteht darin, die Startleistung zu verbessern.
+experimental-features-abouthome-startup-cache-description = Ein Cache für das anfängliche about:home-Dokument, das beim Start standardmäßig geladen wird. Der Zweck des Cache besteht darin, die Startleistung zu verbessern.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Entwicklerwerkzeuge: Service-Worker-Debugging
