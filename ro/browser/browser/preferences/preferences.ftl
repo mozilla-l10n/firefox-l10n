@@ -992,8 +992,6 @@ sync-device-name-header = Numele dispozitivului
 sync-device-name-input =
     .aria-label = Numele dispozitivului
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Schimbă numele dispozitivului
     .accesskey = h
@@ -1284,7 +1282,7 @@ cookie-banner-blocker-checkbox-label =
 
 ## Privacy Section - Address Bar
 
-addressbar-header = Bară de adresă
+addressbar-header = Bară de adrese
 addressbar-suggest-1 = Alege ce sugestii să se afișeze în bara ta de adrese
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
