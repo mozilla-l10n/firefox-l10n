@@ -215,8 +215,8 @@ tabbrowser-tab-audio-playing-description = Redă audio
 tabbrowser-ctrl-tab-list-all-tabs =
     .label =
         { $tabCount ->
-            [few] Listează toate cele { $tabCount } file
-           *[other] Listează toate cele { $tabCount } de file
+            [few] Printează toate cele { $tabCount } file
+           *[other] Printează toate cele { $tabCount } de file
         }
 
 ## Tab manager menu buttons

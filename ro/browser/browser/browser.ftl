@@ -409,7 +409,7 @@ quickactions-cmd-logins = autentificări, parole
 quickactions-plugins = Gestionează pluginurile
 quickactions-cmd-plugins = pluginuri
 # Opens the print dialog
-quickactions-print2 = Listează pagina
+quickactions-print2 = Printează pagina
 quickactions-cmd-print = listare
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Salvează pagina ca PDF
@@ -1233,8 +1233,8 @@ navbar-overflow =
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
-    .label = Listează
-    .tooltiptext = Listează pagina… ({ $shortcut })
+    .label = Printează
+    .tooltiptext = Printează pagina… ({ $shortcut })
 navbar-home =
     .label = Pagină de start
     .tooltiptext = Pagina de start { -brand-short-name }
@@ -1251,8 +1251,8 @@ tabs-toolbar =
 tabs-toolbar-new-tab =
     .label = Filă nouă
 tabs-toolbar-list-all-tabs =
-    .label = Listează toate filele
-    .tooltiptext = Listează toate filele
+    .label = Printează toate filele
+    .tooltiptext = Printează toate filele
 
 ## Drop indicator text for pinned tabs when no tabs are pinned.
 
