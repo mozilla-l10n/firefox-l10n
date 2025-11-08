@@ -33,7 +33,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } verifică textu
 contentanalysis-slow-agent-dialog-body-print = { $agent } verifică ce ai listat prin confruntarea cu politicile de date ale organizației tale. Poate dura ceva timp.
 contentanalysis-operationtype-clipboard = clipboard
 contentanalysis-operationtype-dropped-text = text plasat
-contentanalysis-operationtype-print = listare
+contentanalysis-operationtype-print = printare
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-upload-description = încărcare „{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"

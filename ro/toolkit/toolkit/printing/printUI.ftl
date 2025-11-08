@@ -41,7 +41,7 @@ printui-scale-fit-to-page-width = Adaptează la lățimea paginii
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scară
 # Section title (noun) for the two-sided print options
-printui-two-sided-printing = Listare față-verso
+printui-two-sided-printing = Printare față-verso
 printui-two-sided-printing-off = Dezactivat
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Întoarce pe latura lungă
@@ -97,7 +97,7 @@ printui-loading = Se pregătește previzualizarea
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
-    .aria-label = Previzualizare pentru listare
+    .aria-label = Previzualizare pentru printare
 printui-pages-per-sheet = Pagini pe foaie
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.

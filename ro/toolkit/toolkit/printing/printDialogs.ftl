@@ -92,7 +92,7 @@ hf-page-and-total =
 hf-custom =
     .label = Personalizează…
 print-preview-window =
-    .title = Previzualizare pentru listare
+    .title = Previzualizare pentru printare
 print-title =
     .value = Titlu:
 print-preparing =
@@ -100,9 +100,9 @@ print-preparing =
 print-progress =
     .value = Progres:
 print-window =
-    .title = Listare
+    .title = Printare
 print-complete =
-    .value = Listare încheiată.
+    .value = Printare finalizată.
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

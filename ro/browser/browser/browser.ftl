@@ -410,7 +410,7 @@ quickactions-plugins = Gestionează pluginurile
 quickactions-cmd-plugins = pluginuri
 # Opens the print dialog
 quickactions-print2 = Printează pagina
-quickactions-cmd-print = listare
+quickactions-cmd-print = printare
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Salvează pagina ca PDF
 quickactions-cmd-savepdf2 = pdf, salvează pagina
