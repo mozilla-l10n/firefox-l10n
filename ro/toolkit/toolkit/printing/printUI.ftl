@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-printui-title = Listează
+printui-title = Printează
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Salvează ca
 # Variables
@@ -49,8 +49,8 @@ printui-two-sided-printing-long-edge = Întoarce pe latura lungă
 printui-two-sided-printing-short-edge = Întoarce pe latura scurtă
 # Section title for miscellaneous print options
 printui-options = Opțiuni
-printui-headers-footers-checkbox = Listează anteturi și subsoluri
-printui-backgrounds-checkbox = Listează fundaluri
+printui-headers-footers-checkbox = Printează anteturi și subsoluri
+printui-backgrounds-checkbox = Printează fundaluri
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
@@ -88,8 +88,8 @@ printui-margins-custom-left-mm = Stânga (mm)
 printui-margins-custom-right = Dreapta
 printui-margins-custom-right-inches = Dreapta (țoli)
 printui-margins-custom-right-mm = Dreapta (mm)
-printui-system-dialog-link = Listează folosind fereastra de dialog a sistemului…
-printui-primary-button = Listează
+printui-system-dialog-link = Printează folosind fereastra de dialog a sistemului…
+printui-primary-button = Printează
 printui-primary-button-save = Salvează
 printui-cancel-button = Anulează
 printui-close-button = Închide
@@ -101,7 +101,7 @@ printui-preview-label =
 printui-pages-per-sheet = Pagini pe foaie
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
-printui-print-progress-indicator = Se listează…
+printui-print-progress-indicator = Se printează…
 printui-print-progress-indicator-saving = Se salvează...
 
 ## Paper sizes that may be supported by the Save to PDF destination:

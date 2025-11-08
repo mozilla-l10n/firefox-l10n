@@ -71,7 +71,7 @@ about-webauthn-current-change-pin-button = Modifică PIN-ul
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Dă lista cu datele de autentificare
 # List is a verb, as in "Show list of all enrollments"
-about-webauthn-list-bio-enrollments-button = Listează înscrierile
+about-webauthn-list-bio-enrollments-button = Printează înscrierile
 about-webauthn-add-bio-enrollment-button = Adaugă înscriere
 about-webauthn-cancel-button = Anulează
 about-webauthn-send-pin-button = OK
