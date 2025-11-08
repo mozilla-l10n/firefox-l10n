@@ -143,3 +143,10 @@ backup-file-creation-date-label = Санаи эҷод:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-download-moz-browser-button = Боргирӣ кардан
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+restore-from-backup-filepicker-input =
+    .placeholder = Ягон файл интихоб карда нашуд
