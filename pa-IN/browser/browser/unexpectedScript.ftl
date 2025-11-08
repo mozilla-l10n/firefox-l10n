@@ -7,7 +7,7 @@ unexpected-script-close-button =
 # This string is used in the notification bar
 # Variables:
 #   $origin (string) - The top level domain the unexpected script was loaded from
-unexpected-script-load-message = <strong>{ -brand-short-name } ਨੇ { $origin } ਤੋਂ ਅਣਕਿਆਸੀ, ਖਾਸ ਅਧਿਕਾਰ ਪ੍ਰਾਪਤ ਸਕ੍ਰਿਪਟ ਦਾ ਪਤਾ ਲਾਇਆ ਹੈ।
+unexpected-script-load-message = <strong>{ -brand-short-name } ਨੇ { $origin } ਤੋਂ ਅਣਕਿਆਸੀ, ਖਾਸ ਅਧਿਕਾਰ ਪ੍ਰਾਪਤ ਸਕ੍ਰਿਪਟ ਦਾ ਪਤਾ ਲਾਇਆ ਹੈ।</strong>
 unexpected-script-load-message-button-allow =
     .label = ਮਨਜ਼ੂਰ
     .accesskey = A
