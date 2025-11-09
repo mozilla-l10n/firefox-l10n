@@ -60,7 +60,7 @@ options-default-color-unit-name = Tên màu
 ## Web Console section
 
 # The heading
-options-webconsole-label = Bảng điều khiển Web
+options-webconsole-label = Web Console
 # The label for the checkbox that toggle whether the Split console is enabled
 options-webconsole-split-console-label = Bật bảng điều khiển chia tách
 options-webconsole-split-console-tooltip =
