@@ -123,7 +123,7 @@ extension-controlling-homepage = { $name } контролирует некото
 search-results-header = Результаты поиска
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Извините! В настройках не найдено результатов для «<span data-l10n-name="query"></span>».
-search-results-help-link = Нужна помощь? Посетите <a data-l10n-name="url">Сайт поддержки { -brand-short-name }</a>
+search-results-help-link = Нужна помощь? Зайдите на <a data-l10n-name="url">сайт поддержки { -brand-short-name }</a>
 
 ## General Section
 
@@ -992,8 +992,6 @@ sync-device-name-header = Имя устройства
 sync-device-name-input =
     .aria-label = Имя устройства
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Изменить имя устройства
     .accesskey = м

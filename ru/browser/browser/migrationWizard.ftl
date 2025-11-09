@@ -203,7 +203,7 @@ migration-chrome-windows-password-import-header = Как импортирова�
 migration-chrome-windows-password-import-steps-header = В Chrome:
 migration-chrome-windows-password-import-step1 = Откройте главное меню <img data-l10n-name="chrome-icon-3dots"/> и выберите Пароли и автозаполнение > Менеджер паролей Google.
 migration-chrome-windows-password-import-step2 = Выберите в меню «Настройки».
-migration-chrome-windows-password-import-step3 = Выберите «Загрузить файл» и сохраните его на своем устройстве.
+migration-chrome-windows-password-import-step3 = Выберите «Скачать файл» и сохраните его на своём устройстве.
 migration-chrome-windows-password-import-step4 = Вернитесь сюда и «Выберите файл», чтобы завершить импорт.
 migration-manual-password-import-skip-button = Пропустить
 migration-manual-password-import-select-button = Выберите файл
