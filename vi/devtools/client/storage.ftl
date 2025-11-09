@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Expires / Max-Age
 storage-table-headers-cookies-size = Kích cỡ
 storage-table-headers-cookies-last-accessed = Lần truy cập cuối
 storage-table-headers-cookies-creation-time = Được tạo
+storage-table-headers-cookies-update-time = Đã cập nhật
 storage-table-headers-cache-status = Trạng thái
 storage-table-headers-extension-storage-area = Khu vực lưu trữ
 

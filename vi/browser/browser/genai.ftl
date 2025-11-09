@@ -259,3 +259,7 @@ link-preview-setup-faster-next-time = Lần sau bạn sẽ thấy nội dung ch�
 link-preview-onboarding-button = Xem bản xem trước
 # Onboarding card Close button
 link-preview-onboarding-close = Đóng
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Thiết lập ban đầu
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Việc này có thể mất một chút thời gian. Lần sau bạn sẽ thấy tóm tắt nhanh hơn.

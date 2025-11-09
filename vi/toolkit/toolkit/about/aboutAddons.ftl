@@ -292,6 +292,10 @@ colorway-removal-notice-message =
         Nhận phiên bản mới trên trang tiện ích.
 colorway-removal-notice-learn-more = Tìm hiểu thêm
 colorway-removal-notice-button = Nhận chủ đề phối màu được cập nhật
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Cài đặt độ tương phản của Windows của bạn đang ghi đè chủ đề { -brand-short-name }. Tắt các cài đặt này để sử dụng chủ đề trong { -brand-short-name }.
 privacy-policy = Chính sách riêng tư
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

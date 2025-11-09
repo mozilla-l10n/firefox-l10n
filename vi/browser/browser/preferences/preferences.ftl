@@ -113,6 +113,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Để kích hoạt tiện ích mở rộng hãy vào phần tiện ích <img data-l10n-name="addons-icon"/> trên bảng chọn <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Để kích hoạt lại tiện ích mở rộng này, hãy truy cập <a data-l10n-name="addons-link">Tiện ích mở rộng và chủ đề</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } kiểm soát một số cài đặt trang chủ của bạn.
@@ -971,8 +972,6 @@ sync-device-name-header = Tên thiết bị
 sync-device-name-input =
     .aria-label = Tên thiết bị
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Thay đổi tên thiết bị
     .accesskey = h

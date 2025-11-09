@@ -243,3 +243,5 @@ other-backup-files-founds = <b>Lưu ý:</b> Đã tìm thấy { $numberOfOtherBac
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Được tạo vào { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } trên { $machineName }
 backup-file-restore-file-validation-error = Tập tin này không hoạt động. Hãy thử chọn một tập tin khác. <a data-l10n-name="restore-problems">Vẫn gặp sự cố?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Không có tập tin nào được chọn

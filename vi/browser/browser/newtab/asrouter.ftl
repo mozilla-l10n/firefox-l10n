@@ -70,6 +70,8 @@ fxa-adoption-addresses-backup-title = Sao lưu các địa chỉ đã lưu của
 fxa-adoption-addresses-backup-subtitle = Bảo vệ các địa chỉ đã lưu của bạn bằng cách đồng bộ hóa chúng với thiết bị bằng mã hóa.
 fxa-adoption-credit-cards-backup-title = Sao lưu phương thức thanh toán của bạn
 fxa-adoption-credit-cards-backup-subtitle = Bảo vệ phương thức thanh toán của bạn bằng cách đồng bộ hóa chúng với thiết bị bằng mã hóa.
+fxa-adoption-bookmarks-treatment-backup-title = Sao lưu dấu trang của bạn
+fxa-adoption-bookmarks-treatment-backup-subtitle = Bảo vệ dấu trang của bạn bằng cách đồng bộ chúng với thiết bị bằng mã hóa.
 fxa-adoption-primary-button-label = Đăng ký
 
 ## Protections panel
