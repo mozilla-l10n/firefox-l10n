@@ -270,6 +270,11 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Ikusi deskribapena
     .accesskey = d
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Bilatu irudia { $engine } erabiliz
+    .accesskey = e
 main-context-menu-video-save-as =
     .label = Gorde bideoa honela…
     .accesskey = b

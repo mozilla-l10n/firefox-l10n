@@ -1329,7 +1329,10 @@ trustpanel-etp-toggle-off =
 trustpanel-etp-description-enabled = Zerbaitek apurtuta badirudi gune honetan, saiatu babesak desaktibatzen.
 trustpanel-connection-label-secure = Konexio segurua
 trustpanel-connection-label-insecure = Konexio ez-segurua
+trustpanel-header-enabled = { -brand-product-name } guardian dago
 trustpanel-header-enabled-insecure = Argi ibili gune honetan
+trustpanel-header-disabled = Babesak desgaitu dituzu
+trustpanel-description-disabled = { -brand-product-name } ez dago guardian. Babesak berriro ere aktibatzea gomendatzen dugu.
 trustpanel-clear-cookies-button = Garbitu cookieak eta guneetako datuak
 trustpanel-privacy-link = Pribatutasun-ezarpenak
 trustpanel-clear-cookies-subview-button-clear = Garbitu
@@ -1348,6 +1351,7 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-insecure-section-header = Zure konexioa ez da segurua
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] Guneen arteko cookie jarraipen-egileak: { $count }

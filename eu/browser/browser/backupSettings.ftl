@@ -146,6 +146,11 @@ backup-service-error-recovery-failed =
     .message = Berrabiarazi { -brand-short-name } eta saiatu babeskopiatik berriro berreskuratzen.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Kontxo, arazo bat gertatu da babeskopia egitean.
+    .message = Saiatu berriro minutu batzuk barru.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
 backup-service-error-went-wrong =
     .heading = Zerbait gaizki joan da
     .message = Arazo bat egon da { -brand-short-name }(e)n babeskopia-prozesuarekin. Saiatu berriro edo berrabiarazi { -brand-short-name }.
@@ -155,3 +160,22 @@ backup-service-error-went-wrong =
 enable-backup-encryption-header = Egin kontuzko zure datuen babeskopia
 enable-backup-encryption-support-link = Argibide gehiago
 enable-backup-encryption-create-password-label = Pasahitza
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Errepikatu pasahitza
+enable-backup-encryption-cancel-button = Utzi
+enable-backup-encryption-confirm-button = Gorde
+change-backup-encryption-header = Aldatu babeskopiaren pasahitza
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Pasahitzaren betebeharrak
+password-rules-length-description = Gutxienez 8 karaktere
+password-rules-email-description = Ezin da zure helbide elektronikoa izan
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+backup-file-restore-file-validation-error = Fitxategia ez dabil. Saiatu beste fitxategi batekin. <a data-l10n-name="restore-problems">Arazoak dituzu oraindik?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Ez da fitxategirik hautatu
