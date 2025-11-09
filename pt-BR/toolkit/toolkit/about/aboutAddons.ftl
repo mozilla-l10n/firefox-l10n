@@ -425,7 +425,7 @@ addon-detail-group-label-private-browsing =
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Funcionamento em sites com restrições
 # Used as help text part of the quarantined domains UI controls row.
-addon-detail-quarantined-domains-help = Quando permitido, a extensão terá acesso a sites restritos pela { -vendor-short-name }. Permita apenas se você confiar nesta extensão.
+addon-detail-quarantined-domains-help = Quando permitido, a extensão terá acesso a sites com restrição pela { -vendor-short-name }. Permita apenas se você confiar nesta extensão.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Permitir
 addon-detail-quarantined-domains-disallow = Não permitir
