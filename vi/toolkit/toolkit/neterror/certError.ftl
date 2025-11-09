@@ -107,6 +107,12 @@ fp-cert-error-code = Mã lỗi: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } không tin tưởng { $hostname } bởi vì nó không thể chứng minh nó đáp ứng các yêu cầu về tính minh bạch của chứng chỉ công khai.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Có vẻ không có gì, vì rất có thể trang web đó có vấn đề.
 fp-learn-more-about-secure-connection-failures = Tìm hiểu thêm về lỗi kết nối an toàn
 fp-learn-more-about-cert-issues = Tìm hiểu thêm về các vấn đề liên quan đến chứng chỉ này
 fp-learn-more-about-time-related-errors = Tìm hiểu thêm về cách khắc phục các lỗi liên quan đến thời gian
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Ẩn nâng cao
 fp-certerror-override-exception-button = Tiếp tục đến { $hostname } (có rủi ro)
 fp-certerror-intro = { -brand-short-name } phát hiện vấn đề bảo mật nghiêm trọng với <strong>{ $hostname }</strong>. Ai đó giả danh trang web này có thể cố lấy cắp những thứ như thông tin thẻ tín dụng, mật khẩu hoặc email.
 fp-certerror-expired-into = { -brand-short-name } phát hiện vấn đề bảo mật với <strong>{ $hostname }</strong>. Trang web không được thiết lập đúng hoặc đồng hồ trên thiết bị của bạn đã đặt sai.
+fp-certerror-transparency-intro = Một người nào đó giả vờ là <strong>{ $hostname }</strong> có thể cố gắng đánh cắp những thứ như thông tin thẻ tín dụng, mật khẩu hoặc email.

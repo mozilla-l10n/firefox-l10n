@@ -14,6 +14,7 @@ url-classifier-search-result-list = Danh sách các bảng: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL không hợp lệ
 url-classifier-search-error-no-features = Không có tính năng được chọn
+url-classifier-search-error-no-results = Không tìm thấy mục nào cho URL
 url-classifier-search-btn = Bắt đầu tìm kiếm
 url-classifier-search-features = Tính năng
 url-classifier-search-listType = Kiểu danh sách
