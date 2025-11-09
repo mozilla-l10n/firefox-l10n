@@ -4,3 +4,5 @@
 
 crashed-title = گوزارشگر خراوی بلگه
 crashed-close-tab-button = بستن بلگه
+crashed-restore-tab-button = وورگندن ای بلگه
+crashed-restore-all-button = وورگندن پوی بلگه یل ز کار وسته
