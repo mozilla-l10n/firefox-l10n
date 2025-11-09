@@ -27,7 +27,7 @@ about-webrtc-aec-logging-toggled-on-state-msg = AEC-Protokollierung aktiv (sprec
 about-webrtc-aec-logging-unavailable-sandbox = Die Umgebungsvariable MOZ_DISABLE_CONTENT_SANDBOX=1 ist für den Export von AEC-Protokollen erforderlich. Setzen Sie diese Variable nur, wenn Sie die möglichen Risiken verstehen.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
-about-webrtc-aec-logging-toggled-off-state-msg = Gespeicherte protokolldateien befinden sich in: { $path }
+about-webrtc-aec-logging-toggled-off-state-msg = Gespeicherte Protokolldateien befinden sich in: { $path }
 
 ##
 
