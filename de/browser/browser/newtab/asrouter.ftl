@@ -241,7 +241,7 @@ set-default-pdf-handler-primary = OK
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = Unterschreiben Sie auf der gepunkteten Linie – oder überall!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
-annotations-default-pdf-handler-body = Zeichnen, tippen oder laden Sie Ihre Unterschrift hoch und plazieren Sie sie dann an der gewünschten Stelle. Speichern Sie Ihre Standard-Unterschriften für das nächste Mal.
+annotations-default-pdf-handler-body = Zeichnen, tippen oder laden Sie Ihre Unterschrift hoch und platzieren Sie sie dann an der gewünschten Stelle. Speichern Sie Ihre Standard-Unterschriften für das nächste Mal.
 annotations-make-default-pdf-handler-title = { -brand-short-name } als Standard-PDF-Editor festlegen?
 annotations-make-default-pdf-handler-subtitle = Sie haben jedes Mal Zugriff auf unsere Werkzeuge, wenn Sie eine PDF-Datei öffnen.
 annotations-make-default-pdf-primary-cta =
