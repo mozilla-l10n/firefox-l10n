@@ -122,7 +122,7 @@ extension-controlling-homepage = { $name } контролирует некото
 
 search-results-header = Результаты поиска
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message2 = Извините! В настройках не найдено результатов для «<span data-l10n-name="query"></span>».
+search-results-empty-message2 = Извините! В настройках не найдено результатов по запросу «<span data-l10n-name="query"></span>».
 search-results-help-link = Нужна помощь? Зайдите на <a data-l10n-name="url">сайт поддержки { -brand-short-name }</a>
 
 ## General Section

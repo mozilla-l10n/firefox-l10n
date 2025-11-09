@@ -92,10 +92,10 @@ about-telemetry-results-for-search = Результаты для «{ $searchTerm
 # Variables:
 #   $sectionName (string) - The section name from the structure of the ping.
 #   $currentSearchText (string) - The current text in the search input
-about-telemetry-no-search-results = Извините! В { $sectionName } не найдено результатов для «{ $currentSearchText }»
+about-telemetry-no-search-results = Извините! В [{ $sectionName }] не найдено результатов по запросу «{ $currentSearchText }»
 # Variables:
 #   $searchTerms (string) - The searched terms
-about-telemetry-no-search-results-all = Извините! Ни в одном разделе не найдено результатов для «{ $searchTerms }»
+about-telemetry-no-search-results-all = Извините! Ни в одном разделе не найдено результатов по запросу «{ $searchTerms }»
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (string) - Is replaced by the section name.
