@@ -59,5 +59,99 @@ settings-data-change-password = Aldatu pasahitza…
 
 turn-on-scheduled-backups-header = Aktibatu babeskopia
 turn-on-scheduled-backups-description = { -brand-short-name }(e)k zure datuen egoera-irudia sortuko du 24 orduz behin. Berreskuratzeko aukera duzu inoiz arazoren bat gertatzen bada edo gailu berri bat eskuratzen baduzu.
+turn-on-scheduled-backups-support-link = Zeren babeskopia egingo da?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Kokalekua
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (gomendatua)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Aukeratu…
+       *[other] Arakatu…
+    }
+turn-on-scheduled-backups-encryption-label = Egin kontuzko zure datuen babeskopia
+turn-on-scheduled-backups-encryption-create-password-label = Pasahitza
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Errepikatu pasahitza
+turn-on-scheduled-backups-cancel-button = Utzi
+turn-on-scheduled-backups-confirm-button = Aktibatu babeskopia
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Errorea gertatu da hautatu duzun babeskopia-karpetarekin. Aukeratu beste karpeta bat eta saiatu berriro.
+backup-error-file-system = Errorea gertatu da hautatu duzun babeskopia-karpetarekin { -brand-short-name }(r)en babeskopia egin bitartean.
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = Babeskopia desaktibatu?
+turn-off-scheduled-backups-description = Honekin zure babeskopien datu guztiak ere ezabatuko dira. Ekintza hau ezin da desegin.
+turn-off-scheduled-backups-support-link = Argibide gehiago
+turn-off-scheduled-backups-cancel-button = Utzi
+turn-off-scheduled-backups-confirm-button = Desaktibatu eta ezabatu babeskopia
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Berreskuratu zure datuak
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Honek uneko zure { -brand-short-name } datu guztiak ordezkatuko ditu { DATETIME($date, timeStyle: "short", dateStyle: "short") } datako babeskopiarekin.
+restore-from-backup-support-link =
+    .message = Zer berreskuratuko da?
+restore-from-backup-no-backup-file-link = Arazoak dituzu babeskopia-fitxategia aurkitzen?
+restore-from-backup-filepicker-label = Babeskopia-fitxategia
+restore-from-backup-filepicker-title = Aukeratu babeskopia-fitxategia:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Aukeratu…
+       *[other] Arakatu…
+    }
+restore-from-backup-password-label = Pasahitza
+restore-from-backup-password-description = Zifratutako zure babeskopia desblokeatzen du honek
+restore-from-backup-cancel-button = Utzi
+restore-from-backup-confirm-button = Berreskuratu eta berrabiarazi
+restore-from-backup-restoring-button = Berreskuratzen…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Pasahitz okerra. <a data-l10n-name="incorrect-password-support-link">Arazoak dituzu oraindik?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Fitxategi hau ez dabil
+    .message = Arazo bat gertatu da zure babeskopia-fitxategiarekin. Aukeratu beste fitxategi bat eta saiatu berriro.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Fitxategi hau ez dabil
+    .message = Aukeratu duzun babeskopia-fitxategia ez da bateragarria { -brand-short-name } bertsio honekin. Aukeratu beste fitxategi bat eta saiatu berriro.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Fitxategi hau ez dabil
+    .message = Aukeratu duzun babeskopia-fitxategia ez da { -brand-short-name }(e)k sortutakoa. Aukeratu beste fitxategi bat eta saiatu berriro.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name }(e)k ezin izan du berreskuratu
+    .message = Berrabiarazi { -brand-short-name } eta saiatu babeskopiatik berriro berreskuratzen.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Zerbait gaizki joan da
+    .message = Arazo bat egon da { -brand-short-name }(e)n babeskopia-prozesuarekin. Saiatu berriro edo berrabiarazi { -brand-short-name }.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Egin kontuzko zure datuen babeskopia
+enable-backup-encryption-support-link = Argibide gehiago
+enable-backup-encryption-create-password-label = Pasahitza
