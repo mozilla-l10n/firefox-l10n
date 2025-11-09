@@ -140,7 +140,7 @@ cert-error-signature-algorithm-mismatch = O { -brand-short-name } bloqueou sua v
 ## Messages used for certificate error titles
 
 connectionFailure-title = Não foi possível conectar
-deniedPortAccess-title = Endereço restrito
+deniedPortAccess-title = Esse endereço tem restrição
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Este site não foi encontrado.

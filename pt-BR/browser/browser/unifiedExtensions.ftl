@@ -56,7 +56,7 @@ unified-extensions-mb-quarantined-domain-message = Apenas algumas extensões mon
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Algumas extensões não são permitidas
-    .message = Para proteger seus dados, algumas extensões não podem ler ou alterar dados neste site. Use as configurações da extensão para permitir sites restritos pela { -vendor-short-name }.
+    .message = Para proteger seus dados, algumas extensões não podem ler ou alterar dados neste site. Use as configurações da extensão para permitir sites com restrição pela { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Saiba mais
     .aria-label = Saiba mais: Algumas extensões não são permitidas
 unified-extensions-mb-about-addons-link = Ir para configurações de extensões
