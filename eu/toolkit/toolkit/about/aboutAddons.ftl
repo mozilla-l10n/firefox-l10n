@@ -278,6 +278,10 @@ colorway-removal-notice-message =
         bertsio berriak gehigarrien gunean.
 colorway-removal-notice-learn-more = Argibide gehiago
 colorway-removal-notice-button = Eskuratu eguneratutako kolore-konbinazio itxurak
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Windowseko zure kontraste-ezarpenek { -brand-short-name } itxurak baliogabetzen dituzte. Desaktibatu ezarpen hauek itxurak erabili ahal izateko { -brand-short-name }(e)n.
 privacy-policy = Pribatutasun-politika
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

@@ -107,6 +107,12 @@ fp-cert-error-code = Errore-kodea: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } ez da { $hostname } ostalariaz fidatzen ezin duelako frogatu ziurtagiri publikoen gardentasun-eskakizunak betetzen dituela.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Ziurrenik ezer ez, litekeena baita gunearekin berarekin arazo bat dagoela.
 fp-learn-more-about-secure-connection-failures = Konexio seguruen hutsegiteei buruzko argibide gehiago
 fp-learn-more-about-cert-issues = Honelako ziurtagiri-arazoei buruzko argibide gehiago
 fp-learn-more-about-time-related-errors = Denborarekin erlazionatutako erroreen arazo-konponketari buruzko argibide gehiago
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Ezkutatu aurreratua
 fp-certerror-override-exception-button = Jarraitu { $hostname } gunera (arriskutsua)
 fp-certerror-intro = { -brand-short-name }(e)k benetakoa izateko itxura duen segurtasun-arazo bat aurkitu du <strong>{ $hostname }</strong> ostalarian. Gunearen itxurak egiten dituen norbait saia liteke lapurtzen kreditu-txartelen informazioa, pasahitzak edo posta elektronikoko mezuak.
 fp-certerror-expired-into = { -brand-short-name }(e)k segurtasun-arazo bat aurkitu du <strong>{ $hostname }</strong> ostalarian. Gunea ez dago ondo konfiguratuta edo zure gailuaren erlojua data eta ordu okerrean dago ezarrita.
+fp-certerror-transparency-intro = <strong>{ $hostname }</strong> gunea izateko itxurak egiten dabilen norbait informazioa lapurtzen saia liteke, hala nola kreditu-txartelen informazioa, pasahitzak edo posta elektronikoa.
