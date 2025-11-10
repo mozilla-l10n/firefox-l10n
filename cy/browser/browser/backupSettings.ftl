@@ -251,3 +251,5 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Wedi'i greu ar { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ar { $machineName }
 backup-file-restore-file-validation-error = Nid yw'r ffeil hon yn gweithio. Ceisiwch ddewis ffeil wahanol. <a data-l10n-name="restore-problems">Dal yn cael problemau?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Heb ddewis ffeil

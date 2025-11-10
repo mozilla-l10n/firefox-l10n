@@ -14,6 +14,7 @@ url-classifier-search-result-list = Tablo listesi: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Geçersiz URL
 url-classifier-search-error-no-features = Hiçbir özellik seçilmedi
+url-classifier-search-error-no-results = Bu URL için kayıt bulunamadı
 url-classifier-search-btn = Aramaya başla
 url-classifier-search-features = Özellikler
 url-classifier-search-listType = Liste türü

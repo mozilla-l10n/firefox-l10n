@@ -80,6 +80,8 @@ fxa-adoption-addresses-backup-title = Gadewch i ni wneud copi wrth gefn o'ch cyf
 fxa-adoption-addresses-backup-subtitle = Diogelwch eich cyfrineiriau trwy eu cydweddu â'ch dyfeisiau gydag amgryptio.
 fxa-adoption-credit-cards-backup-title = Gadewch i ni wneud copi wrth gefn o'ch dulliau talu
 fxa-adoption-credit-cards-backup-subtitle = Diogelwch eich dulliau talu trwy eu cydweddu â'ch dyfeisiau gydag amgryptio.
+fxa-adoption-bookmarks-treatment-backup-title = Gadewch i ni wneud copi wrth gefn o'ch nodau tudalen
+fxa-adoption-bookmarks-treatment-backup-subtitle = Diogelwch eich nodau tudalen trwy eu cydweddu â'ch dyfeisiau gydag amgryptiad.
 fxa-adoption-primary-button-label = Ymuno
 
 ## Protections panel
