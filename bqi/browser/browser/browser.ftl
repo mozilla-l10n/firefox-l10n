@@ -7,6 +7,15 @@
 
 urlbar-tip-help-icon =
     .title = گرؽڌن هیاری
+urlbar-search-tips-confirm = خا، فئمیم
+urlbar-search-tips-confirm-short = فئمیم
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = نوکات:
+urlbar-result-menu-button =
+    .title = گۊشیڌن نومگه
 urlbar-result-menu-learn-more =
     .label = قلوه دووسته بۊین
     .accesskey = L
