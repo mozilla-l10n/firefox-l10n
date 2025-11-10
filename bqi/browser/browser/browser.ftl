@@ -5,6 +5,8 @@
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-tip-help-icon =
+    .title = گرؽڌن هیاری
 urlbar-result-menu-learn-more =
     .label = قلوه دووسته بۊین
     .accesskey = L
