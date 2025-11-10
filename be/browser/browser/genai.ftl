@@ -268,3 +268,7 @@ link-preview-setup-faster-next-time = Наступным разам вы ўба�
 link-preview-onboarding-button = Глядзець папярэдні прагляд
 # Onboarding card Close button
 link-preview-onboarding-close = Закрыць
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Першая ўстаноўка
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Гэта можа заняць некаторы час. Наступным разам вы ўбачыце ключавыя моманты хутчэй.

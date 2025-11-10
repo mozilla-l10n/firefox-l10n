@@ -107,6 +107,12 @@ fp-cert-error-code = Код памылкі: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } не давярае { $hostname }, бо ён не змог даказаць, што адпавядае патрабаванням празрыстасці публічных сертыфікатаў.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Хутчэй за ўсё, нічога, таму што, выглядае на тое, праблема з самім сайтам.
 fp-learn-more-about-secure-connection-failures = Падрабязней пра памылкі бяспечнага злучэння
 fp-learn-more-about-cert-issues = Падрабязней пра падобныя праблемы з сертыфікатамі
 fp-learn-more-about-time-related-errors = Падрабязней пра вырашэнне праблем, звязаных з часам
