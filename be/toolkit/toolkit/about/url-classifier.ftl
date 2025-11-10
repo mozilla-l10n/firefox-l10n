@@ -14,6 +14,7 @@ url-classifier-search-result-list = Спіс табліц: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Несапраўдны URL
 url-classifier-search-error-no-features = Функцыі не выбраны
+url-classifier-search-error-no-results = Запісаў для URL не знойдзена
 url-classifier-search-btn = Пачаць пошук
 url-classifier-search-features = Функцыі
 url-classifier-search-listType = Тып спіса
