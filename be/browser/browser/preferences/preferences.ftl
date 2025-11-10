@@ -113,6 +113,7 @@ extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $nam
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Каб уключыць пашырэнне, зайдзіце ў <img data-l10n-name="addons-icon"/> Дадаткаў ў меню <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Каб зноў уключыць гэтае пашырэнне, наведайце раздзел <a data-l10n-name="addons-link">Пашырэнні і тэмы</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } кіруе некаторымі наладамі вашай хатняй старонкі.
@@ -991,8 +992,6 @@ sync-device-name-header = Назва прылады
 sync-device-name-input =
     .aria-label = Назва прылады
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Змяніць назву прылады
     .accesskey = м
