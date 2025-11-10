@@ -197,3 +197,4 @@ fp-certerror-hide-advanced-button = Схаваць падрабязнасці
 fp-certerror-override-exception-button = Перайсці на { $hostname } (рызыкоўна)
 fp-certerror-intro = { -brand-short-name } выявіў патэнцыйна сур'ёзную праблему з бяспекай <strong>{ $hostname }</strong>. Нехта, хто выдае сябе за гэты сайт, можа паспрабаваць скрасці такія рэчы, як дадзеныя крэдытнай карты, паролі або электронную пошту.
 fp-certerror-expired-into = { -brand-short-name } выявіў праблему бяспекі на <strong>{ $hostname }</strong>. Або сайт настроены няправільна, або на гадзінніку вашай прылады ўстаноўлена няправільна дата/час.
+fp-certerror-transparency-intro = Нехта, выдаючы сябе за <strong>{ $hostname }</strong>, можа паспрабаваць скрасці такія рэчы, як інфармацыю крэдытных карт, паролі або электронную пошту.
