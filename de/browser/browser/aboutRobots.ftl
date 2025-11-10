@@ -21,7 +21,7 @@ error-long-desc2 = Roboter haben Dinge gesehen, die ihr Menschen niemals glauben
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Roboter sind dein Kunststoff-Freund für die schönen Stunden des Lebens.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
-error-long-desc4 = Roboter haben blanke Metall...hinterteile, die nicht geleckt werden sollten.
+error-long-desc4 = Roboter haben blanke Metall…hinterteile, die nicht geleckt werden sollten.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Und sie haben einen Plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
