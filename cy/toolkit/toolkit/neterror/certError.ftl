@@ -107,6 +107,12 @@ fp-cert-error-code = Cod Gwall: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = Nid yw { -brand-short-name } yn ymddiried yn { $hostname } oherwydd nad yw'n gallu profi ei fod yn bodloni gofynion tryloywder tystysgrif gyhoeddus.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Dim byd yn ôl pob tebyg, gan ei bod hi'n debygol bod problem gyda'r wefan ei hun.
 fp-learn-more-about-secure-connection-failures = Dysgu rhagor am fethiannau cysylltiadau diogel
 fp-learn-more-about-cert-issues = Dysgu rhagor am y mathau hyn o faterion tystysgrifau
 fp-learn-more-about-time-related-errors = Dysgu rhagor am ddatrys gwallau sy'n gysylltiedig ag amser
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Cuddio uwch
 fp-certerror-override-exception-button = Ewch ymlaen i { $hostname } ( Peryglus )
 fp-certerror-intro = Mae { -brand-short-name } wedi sylwi ar fater diogelwch a allai fod yn ddifrifol gyda <strong>{ $hostname }</strong>. Gall rhywun sy'n smalio fod y wefan geisio dwyn pethau fel manylion cerdyn credyd, cyfrineiriau neu e-byst.
 fp-certerror-expired-into = Mae { -brand-short-name } wedi sylwi ar broblem diogelwch gyda <strong>{ $hostname }</strong>. Naill ai nid yw'r wefan wedi'i gosod yn iawn neu mae cloc eich dyfais wedi'i osod i'r dyddiad/amser anghywir.
+fp-certerror-transparency-intro = Gallai rhywun sy'n smalio bod yn <strong>{ $hostname }</strong> geisio dwyn pethau fel manylion cerdyn credyd, cyfrineiriau neu e-byst.

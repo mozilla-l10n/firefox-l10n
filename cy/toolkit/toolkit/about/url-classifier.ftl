@@ -14,6 +14,7 @@ url-classifier-search-result-list = Rhestr tablau: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL annilys
 url-classifier-search-error-no-features = Heb ddewis nodwedd
+url-classifier-search-error-no-results = Heb ganfod unrhyw gofnodion ar gyfer URL
 url-classifier-search-btn = Cychwyn chwilio
 url-classifier-search-features = Nodweddion
 url-classifier-search-listType = Math o restr

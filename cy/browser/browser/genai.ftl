@@ -280,4 +280,4 @@ link-preview-onboarding-close = Cau
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = Gosod am y tro cyntaf
 # Message for the first-time setup modal
-link-preview-first-time-setup-message = Gall hyn gymryd ychydig  eiliadau. Byddwch yn gweld y pwyntiau allweddol yn gyflymach y tro nesaf.
+link-preview-first-time-setup-message = Gall hyn gymryd ychydig eiliadau. Byddwch yn gweld y pwyntiau allweddol yn gyflymach y tro nesaf.

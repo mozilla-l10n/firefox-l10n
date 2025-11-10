@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Symud i Ffenestr Newydd
     .accesskey = N
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Mynd at “{ $profileName }”
 tab-context-close-multiple-tabs =
     .label = Cau Tabiau Lluosog
     .accesskey = L

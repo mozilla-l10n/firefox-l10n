@@ -113,6 +113,7 @@ extension-controlling-proxy-config = Mae estyniad <img data-l10n-name="icon"/> <
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = I alluogi'r estyniad ewch i Ychwanegion <img data-l10n-name="addons-icon"/> yn y ddewislen <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = I ail-alluogi'r estyniad hwn ewch i <a data-l10n-name="addons-link">Estyniadau a themâu</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = Mae { $name } yn rheoli rhai o osodiadau eich cartref.
@@ -1003,8 +1004,6 @@ sync-device-name-header = Enw Dyfais
 sync-device-name-input =
     .aria-label = Enw Dyfais
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Newid Enw'r Ddyfais
     .accesskey = N

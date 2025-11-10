@@ -292,6 +292,10 @@ colorway-removal-notice-message =
         Mae modd cael fersiynau newydd yn y wefan ychwanegion.
 colorway-removal-notice-learn-more = Dysgu rhagor
 colorway-removal-notice-button = Cael y themâu llwybrau lliw diweddaraf
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Mae eich gosodiadau cyferbyniad Windows yn diystyru themâu { -brand-short-name }. Diffoddwch y gosodiadau hyn i ddefnyddio themâu yn { -brand-short-name }.
 privacy-policy = Polisi Preifatrwydd
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

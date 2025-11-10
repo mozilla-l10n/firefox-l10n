@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Daw i ben / Oed-Uchaf
 storage-table-headers-cookies-size = Maint
 storage-table-headers-cookies-last-accessed = Mynediad Diwethaf
 storage-table-headers-cookies-creation-time = Crëwyd
+storage-table-headers-cookies-update-time = Diweddarwyd
 storage-table-headers-cache-status = Statws
 storage-table-headers-extension-storage-area = Ardal Storio
 
