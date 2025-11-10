@@ -111,6 +111,8 @@ fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numer
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-transparency-why-dangerous-body = { -brand-short-name } stoler ikke på { $hostname } fordi den ikke kunne bevise at den oppfyller kravene til offentlig sertifikatåpenhet.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Trolig ikke mye, det er sannsynlig at det er et problem med selve nettstedet.
 fp-learn-more-about-secure-connection-failures = Les mer om feil med sikker tilkobling
 fp-learn-more-about-cert-issues = Les mer om slike sertifikatproblemer
 fp-learn-more-about-time-related-errors = Finn ut mer om feilsøking av tidsrelaterte feil

@@ -292,6 +292,10 @@ colorway-removal-notice-message =
         på tilleggssiden.
 colorway-removal-notice-learn-more = Les mer
 colorway-removal-notice-button = Få oppdaterte fargesammensettingstemaer
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Kontrastinnstillingene i Windows overstyrer temaene i { -brand-short-name }. Slå av disse innstillingene for å bruke temaer i { -brand-short-name }.
 privacy-policy = Personvernpraksis
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

@@ -14,6 +14,7 @@ url-classifier-search-result-list = Liste over tabeller: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Ugyldig URL
 url-classifier-search-error-no-features = Ingen funksjoner valgt
+url-classifier-search-error-no-results = Ingen oppføringer funnet for URL
 url-classifier-search-btn = Start søking
 url-classifier-search-features = Funksjoner
 url-classifier-search-listType = Listetype
