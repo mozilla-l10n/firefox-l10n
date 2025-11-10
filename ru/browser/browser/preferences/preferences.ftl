@@ -1038,7 +1038,7 @@ pane-privacy-passwords-header = Пароли
     .searchkeywords = логины
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
-    .label = Просить сохранить пароли
+    .label = Запрашивать сохранение паролей
     .accesskey = ф
 forms-exceptions =
     .label = Исключения…
