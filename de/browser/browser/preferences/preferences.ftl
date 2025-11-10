@@ -973,7 +973,7 @@ sync-engine-settings =
     .tooltiptext = Durch Sie geänderte allgemeine, Datenschutz- und Sicherheitseinstellungen
     .accesskey = E
 sync-choose-what-to-sync-dialog4 =
-    .title = Verwalten, was mit Ihren vebundenen Geräten synchronisiert wird
+    .title = Verwalten, was mit Ihren verbundenen Geräten synchronisiert wird
     .style = min-width: 36em;
     .buttonlabelaccept = Speichern
     .buttonaccesskeyaccept = S
@@ -988,8 +988,6 @@ sync-device-name-header = Gerätename
 sync-device-name-input =
     .aria-label = Gerätename
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Gerät umbenennen
     .accesskey = u
