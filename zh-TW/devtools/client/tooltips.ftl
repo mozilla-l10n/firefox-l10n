@@ -123,7 +123,7 @@ css-compatibility-deprecated-experimental-message = <strong>{ $property }</stron
 css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> 原本是一個實驗性的屬性，現行 W3C 標準已經棄用。
 css-compatibility-deprecated-message = <strong>{ $property }</strong> 在現行 W3C 標準中已經棄用，於下列瀏覽器中已不支援:
 css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 在現行 W3C 標準中已經棄用。
-css-compatibility-experimental-message = <strong>{ $property }</strong> 是一個實驗性的屬性，在下列瀏覽器中已不支援:
+css-compatibility-experimental-message = <strong>{ $property }</strong> 是一個實驗性的屬性，在下列瀏覽器中不受支援：
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> 是一個實驗性的屬性。
 css-compatibility-learn-more-message = <span data-l10n-name="link">了解更多</span>關於 <strong>{ $rootProperty }</strong> 的資訊
 
