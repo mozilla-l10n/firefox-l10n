@@ -26,3 +26,15 @@ restore-page-try-again-button =
 restore-page-close-button =
     .label = ناهاڌن پا نشست نۊ
     .accesskey = N
+
+## The following strings are used in about:welcomeback
+
+welcome-back-tab-title = و خۊوی ٱنجوم وابی!
+welcome-back-page-title = و خۊوی ٱنجوم وابی!
+welcome-back-page-info = { -brand-short-name } ٱماڌه ناهاڌن پاس هڌ.
+welcome-back-restore-button =
+    .label = بزن ریویم!
+    .accesskey = L
+welcome-back-restore-all-label = & وورگندن پوی نیمدری یل وو بلگه یل
+welcome-back-restore-some-label = تینا چیایی ک مو اخوم وورگرتن
+welcome-back-page-info-link = وردنی یل وو سیخومی کردنا ایسا پاک وابینه وو سامووا گشت گر و هالت پؽش فرز وورگشتنه. ٱر یو موشکل ایسا ن هل نکرد، <a data-l10n-name="link-more">زبار کارایی ک ترین ٱنجوم دین قلوه دووسته بۊین.</a>
