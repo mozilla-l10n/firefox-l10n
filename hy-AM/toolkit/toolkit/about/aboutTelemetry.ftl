@@ -94,7 +94,7 @@ about-telemetry-results-for-search = «{ $searchTerms }»-ի արդյունքն�
 about-telemetry-no-search-results = Կներե՛ք, { $sectionName }-ում «{ $currentSearchText }»-ի համար որևէ արդյունք չկա
 # Variables:
 #   $searchTerms (string) - The searched terms
-about-telemetry-no-search-results-all = Կներե՛ք, «{ $searchTerms }»-ի համար որևէ հատվածում արդյունք չկա
+about-telemetry-no-search-results-all = Կներե՛ք։ Որևէ բաժնում «{ $searchTerms }»-ի համար արդյունքներ չկան
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (string) - Is replaced by the section name.

@@ -221,6 +221,12 @@ contextual-manager-origin-login-line-with-alert =
 contextual-manager-username-login-line =
     .aria-label = Պատճենել օգտվողի անունը { $username }
     .title = Պատճենել օգտվողի անունը { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Պատճենել { $username } օգտանունը (Զգուշացում)
+    .title = Պատճենել { $username } օգտանունը (Զգուշացում)
 contextual-manager-password-login-line =
     .aria-label = Պատճենել գաղտնաբառը
     .title = Պատճենել գաղտնաբառը

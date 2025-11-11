@@ -14,9 +14,9 @@ about-config-intro-warning-button = Ընդունել վտանգը եւ շարո�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Այս նախասիրությունների փոփոխությունը կարող է ազդել { -brand-short-name } ֊ի աշխատանքի կամ անվտանգության վրա:
-about-config-page-title = Ընդլայնված նախընտրություններ
+about-config-page-title = Ընդլայնված նախապատվություններ
 about-config-search-input1 =
-    .placeholder = Որոնել նախընտրանքի անուն
+    .placeholder = Որոնել նախապատվության անուն
 about-config-show-all = Ցուցադրել բոլորը
 about-config-show-only-modified = Ցուցադրել միայն փոփոխված նախապատվությունները
 about-config-pref-add-button =
