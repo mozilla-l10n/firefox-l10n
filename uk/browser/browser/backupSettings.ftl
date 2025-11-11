@@ -76,7 +76,7 @@ turn-on-scheduled-backups-encryption-create-password-label = Пароль
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Повторіть пароль
 turn-on-scheduled-backups-cancel-button = Скасувати
-turn-on-scheduled-backups-confirm-button = Увімкнути резервне копіювання
+turn-on-scheduled-backups-confirm-button = Увімкнути
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Виникла проблема з вибраною текою для резервних копій. Виберіть іншу теку та повторіть спробу.
