@@ -310,7 +310,7 @@ main-context-menu-use-saved-password =
 ##
 
 main-context-menu-use-relay-mask =
-    .label = שימוש במסיכת דוא״ל של { -relay-brand-short-name }
+    .label = שימוש במסכת דוא״ל של { -relay-brand-short-name }
     .accesskey = ד
 main-context-menu-suggest-strong-password =
     .label = קבלת הצעה לססמה חזקה…
