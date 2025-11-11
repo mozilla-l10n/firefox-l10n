@@ -56,14 +56,12 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Handsame { -brand-short-name }-innstillingar
 sidebar-vertical-tabs =
     .label = Vertikale faner
-sidebar-settings =
-    .label = Innstillingar for sidestolpe
 sidebar-hide-tabs-and-sidebar =
     .label = Skjul faner og sidestolpe
 sidebar-show-on-the-right =
-    .label = Flytt sidestolpe til høgre
+    .label = Flytt sidestolpen til høgre
 sidebar-show-on-the-left =
-    .label = Flytt sidestolpe til venstre
+    .label = Flytt sidestolpen til venstre
 # Option to automatically expand the collapsed sidebar when the mouse pointer
 # hovers over it.
 expand-sidebar-on-hover =
@@ -97,7 +95,7 @@ sidebar-context-menu-hide-sidebar =
 sidebar-context-menu-enable-vertical-tabs =
     .label = Slå på vertikale faner
 sidebar-context-menu-customize-sidebar =
-    .label = Tilpass sidestolpe
+    .label = Tilpass sidestolpen
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -127,7 +125,7 @@ sidebar-menu-synced-tabs-label =
 sidebar-menu-bookmarks-label =
     .label = Bokmerke
 sidebar-menu-customize-label =
-    .label = Tilpass sidestolpe
+    .label = Tilpass sidestolpen
 sidebar-menu-contextual-password-manager-label =
     .label = Passord
 sidebar-menu-more-tools-label =
@@ -165,7 +163,7 @@ sidebar-menu-close-ai-chatbot-provider-tooltip = Lat att { $provider } ({ $short
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
-    .heading = Tilpass sidestolpe
+    .heading = Tilpass sidestolpen
 sidebar-menu-history-header =
     .heading = Historikk
 sidebar-menu-syncedtabs-header =
@@ -177,7 +175,7 @@ sidebar-panel-header-close-button =
 
 ## Titles for sidebar menu panels.
 
-sidebar-customize-title = Tilpass sidestolpe
+sidebar-customize-title = Tilpass sidestolpen
 sidebar-history-title = Historikk
 sidebar-syncedtabs-title = Faner frå andre einingar
 

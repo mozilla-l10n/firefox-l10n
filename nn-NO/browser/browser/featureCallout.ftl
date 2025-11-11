@@ -186,7 +186,7 @@ pin-tabs-callout-4-title = Fest nettstadar du besøkjer oftast
 
 sidebar-customization-callout-1-title = Sidestolpe: staden din for verktøy og faner
 sidebar-customization-callout-1-subtitle = { -brand-product-name }-sidestolpen gir deg rask tilgang til nettlesarhistorikken din, faner frå andre einingar samt ein AI-chatbot — utan å forlate hovudvisinga.
-sidebar-customization-callout-callout-button = Tilpass sidestolpe
+sidebar-customization-callout-callout-button = Tilpass sidestolpen
 sidebar-customization-callout-dismiss-button = Skjul sidestolpe
 sidebar-customization-callout-2-title = Gjer { -brand-product-name }-sidestolpen til din eigen
 sidebar-customization-callout-2-subtitle = Legg til og fjern verktøy. Plasser fanene dine i sidestolpen. Prøv ein AI-chatbot. Korleis du tilpassar sidestolpen er opp til deg.
