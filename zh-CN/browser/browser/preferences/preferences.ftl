@@ -113,6 +113,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = 要启用该扩展，请从 <img data-l10n-name="menu-icon"/> 菜单打开 <img data-l10n-name="addons-icon"/> 附加组件页面。
+extension-controlled-enable-2 = 若要重新启用此扩展，请访问<a data-l10n-name="addons-link">扩展和主题</a>。
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = “{ $name }”控制主页的部分设置。
@@ -979,8 +980,6 @@ sync-device-name-header = 设备名称
 sync-device-name-input =
     .aria-label = 设备名称
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = 更改设备名称
     .accesskey = h

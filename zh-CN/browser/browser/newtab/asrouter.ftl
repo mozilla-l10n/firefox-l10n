@@ -70,6 +70,8 @@ fxa-adoption-addresses-backup-title = 备份保存的地址
 fxa-adoption-addresses-backup-subtitle = 将保存的地址加密同步到您的其他设备，保护其安全。
 fxa-adoption-credit-cards-backup-title = 备份付款方式
 fxa-adoption-credit-cards-backup-subtitle = 将付款方式加密同步到您的其他设备，保护其安全。
+fxa-adoption-bookmarks-treatment-backup-title = 备份书签
+fxa-adoption-bookmarks-treatment-backup-subtitle = 将书签加密同步到您的其他设备，以保护其安全。
 fxa-adoption-primary-button-label = 注册
 
 ## Protections panel
