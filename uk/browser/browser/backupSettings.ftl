@@ -51,7 +51,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Виберіть ф�
 
 settings-data-backup-scheduled-backups-on-restore-description = Відновіть свої дані { -brand-product-name } на момент останнього резервного копіювання.
 settings-data-backup-scheduled-backups-on-restore-choose = Відновити…
-settings-data-toggle-encryption-label = Створюйте резервні копії конфіденційних даних
+settings-data-toggle-encryption-label = Створювати резервні копії конфіденційних даних
 settings-data-toggle-encryption-support-link = Докладніше
 settings-data-change-password = Змінити пароль…
 
