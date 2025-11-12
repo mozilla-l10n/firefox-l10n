@@ -12,6 +12,7 @@ customkeys-reset-all = Rétablir tous les raccourcis avec les paramètres par d�
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Cette touche est déjà attribuée à { $conflict }. Voulez-vous la remplacer ?
+customkeys-reset-all-confirm = Voulez-vous vraiment réinitialiser tous les raccourcis clavier ?
 customkeys-history-reopen-tab = Rouvrir le dernier onglet fermé
 customkeys-history-reopen-window = Rouvrir la dernière fenêtre fermée
 customkeys-dev-tools = Outils de développement web
@@ -24,6 +25,7 @@ customkeys-dev-performance = Performances
 customkeys-dev-storage = Inspecteur de stockage
 customkeys-dev-dom = DOM
 customkeys-dev-accessibility = Accessibilité
+customkeys-dev-profiler-toggle = Démarrer/Arrêter le profileur de performances
 customkeys-dev-profiler-capture = Capturer un profil de performance
 customkeys-category-navigation = Navigation
 customkeys-nav-back = Page précédente

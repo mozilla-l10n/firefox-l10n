@@ -32,7 +32,7 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Gérer l’extension
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked2 = { $extensionName } fait l’objet de restrictions. Son utilisation peut être risqué.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } est soumis à des restrictions. Son utilisation comporte des risques.
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = L’extension { $extensionName } enfreint les politiques de Mozilla. Son utilisation comporte des risques.
