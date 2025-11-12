@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = 확장 기능 관리
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } 확장 기능은 제한되어 있습니다. 사용 시 위험 할 수 있습니다.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } 확장 기능은 Mozilla 정책을 위반합니다. 위험 할 수 있습니다.
 
 ## Extension's context menu
@@ -62,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = 더 알아보기
 unified-extensions-mb-about-addons-link = 확장 기능 설정으로 이동
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } 비활성화됨
+    .message =
+        이 확장 기능은 제한되어 있어 비활성화되었습니다.
+        설정에서 활성화할 수는 있지만 위험할 수 있습니다.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } 비활성화됨
     .message =
@@ -74,15 +84,25 @@ unified-extensions-mb-blocklist-error-single =
     .message = 이 확장 기능은 Mozilla의 정책을 위반하여 비활성화되었습니다.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount }개 확장 기능이 비활성화됨
+        }
+    .message =
+        일부 확장 기능은 제한되어 있어 비활성화되었습니다.
+        설정에서 활성화할 수는 있지만 위험할 수 있습니다.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
-    .heading = { $extensionsCount } 확장 기능이 비활성화됨
+    .heading = { $extensionsCount }개 확장 기능이 비활성화됨
     .message =
         일부 확장 기능이 Mozilla 정책을 위반하여 비활성화되었습니다.
         설정에서 활성화할 수는 있지만 위험할 수 있습니다.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =
-    .heading = { $extensionsCount } 확장 기능이 비활성화됨
+    .heading = { $extensionsCount }개 확장 기능이 비활성화됨
     .message = 일부 확장 기능이 Mozilla 정책을 위반하여 비활성화되었습니다.
 unified-extensions-notice-safe-mode =
     .message = 모든 확장 기능이 문제해결 모드에 의해 비활성화되었습니다.

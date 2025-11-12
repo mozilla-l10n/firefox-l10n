@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = ניהול הרחבה
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = ההרחבה { $extensionName } מוגבלת. השימוש בה עלול להיות כרוך בסיכון.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = ההרחבה { $extensionName } מפרה את המדיניות של Mozilla. השימוש בה עשוי להיות כרוך בסיכון.
 
 ## Extension's context menu
@@ -60,6 +63,11 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = מידע נוסף
     .aria-label = מידע נוסף: חלק מההרחבות אינן מותרות לשימוש
 unified-extensions-mb-about-addons-link = מעבר להגדרות ההרחבות
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = ההרחבה { $extensionName } מושבתת
+    .message = הרחבה זו מוגבלת ולכן הושבתה. באפשרותך להפעיל אותה בהגדרות, אבל ייתכן שזה יהיה כרוך בסיכון.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =

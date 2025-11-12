@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = העברה לחלון חדש
     .accesskey = ח
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = העברה ל־{ $profileName }
 tab-context-close-multiple-tabs =
     .label = סגירת לשוניות מרובות
     .accesskey = מ

@@ -84,6 +84,16 @@ unified-extensions-mb-blocklist-error-single =
     .message = Denne utvidelsen bryter med Mozillas retningslinjer og er deaktivert.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } utvidelser deaktivert
+        }
+    .message =
+        Noen av utvidelsene dine er begrenset og har blitt deaktivert.
+        Du kan aktivere dem i innstillingene, men dette kan være risikabelt.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
     .heading =
         { $extensionsCount ->
