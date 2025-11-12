@@ -673,6 +673,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Nettsteder du lagrer eller besøker
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsede snarveier
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -718,6 +720,12 @@ home-prefs-weather-learn-more-link = Les mer
 home-prefs-trending-search-header =
     .label = Populære søk
 home-prefs-trending-search-description = Populære og ofte søkte emner
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lister
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Nedtelling
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Støtt { -brand-product-name }
@@ -1178,6 +1186,8 @@ history-remember-description2 =
     .description = { -brand-short-name } vil lagre informasjon om besøkte nettsider, skjema- og søkehistorikk.
 history-dontremember-description2 =
     .description = { -brand-short-name } vil bruke de samme innstillingene som privat nettlesing, og vil ikke huske noen historikk mens du bruker nettet.
+history-custom-description =
+    .description = { -brand-short-name } vil bruke egendefinerte innstillinger for nettleser-, nedlastings-, skjema- og søkehistorikk.
 history-remember-description = { -brand-short-name } vil lagre informasjon om besøkte nettsider, skjema- og søkehistorikk.
 history-dontremember-description = { -brand-short-name } vil bruke de samme innstillingene som privat nettlesing, og vil ikke huske noen historikk mens du bruker nettet.
 history-private-browsing-permanent =

@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Behandle utvidelse
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } er begrenset. Bruk av den kan være risikabelt.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } bryter med Mozillas retningslinjer. Å bruke den kan være risikabelt.
 
 ## Extension's context menu
@@ -60,6 +63,13 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Les mer
     .aria-label = Les mer: Enkelte utvidelser er ikke tillatt
 unified-extensions-mb-about-addons-link = Gå til utvidelsesinnstillinger
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } deaktivert
+    .message =
+        Denne utvidelsen er begrenset og har blitt deaktivert.
+        Du kan aktivere den i innstillingene, men dette kan være risikabelt.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
