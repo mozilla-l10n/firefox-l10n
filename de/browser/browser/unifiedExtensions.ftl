@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Erweiterung verwalten
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } ist eingeschränkt. Die Verwendung kann riskant sein.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } verstößt gegen die Richtlinien von Mozilla. Die Nutzung kann riskant sein.
 
 ## Extension's context menu
@@ -60,6 +63,13 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Weitere Informationen
     .aria-label = Weitere Informationen: Manche Erweiterungen sind nicht erlaubt
 unified-extensions-mb-about-addons-link = Erweiterungs-Einstellungen ansehen
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } deaktiviert
+    .message =
+        Diese Erweiterung ist eingeschränkt und wurde deaktiviert.
+        Sie können sie in den Einstellungen aktivieren, dies kann aber riskant sein.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =

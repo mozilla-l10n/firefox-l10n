@@ -718,6 +718,9 @@ home-prefs-weather-learn-more-link = Weitere Informationen
 home-prefs-trending-search-header =
     .label = Aktuell beliebte Suchanfragen
 home-prefs-trending-search-description = Beliebte und häufig gesuchte Themen
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listen
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } unterstützen
