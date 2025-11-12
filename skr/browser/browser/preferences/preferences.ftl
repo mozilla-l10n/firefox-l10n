@@ -568,6 +568,9 @@ choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } مواد
@@ -1021,6 +1024,10 @@ history-remember-option-never =
     .label = کݙاہیں تاریخ یاد نہ رکھو
 history-remember-option-custom =
     .label = تاریخ کیتے من مرضی دیاں ترتیباں استعمال کرو
+history-remember-description2 =
+    .description = { -brand-short-name } تہاݙی برائوزنگ ڈائون لوڈ  ڳولݨ تاریخ کوں یاد رکھیسے ۔
+history-dontremember-description2 =
+    .description = { -brand-short-name } نجی براؤزنگ دیاں ترتیباں استعمال کریسے، تے تہاݙے براوز کریندے ویلھے کوئی تاریخ یاد کائنا رکھیسے۔
 history-remember-description = { -brand-short-name } تہاݙی برائوزنگ ڈائون لوڈ  ڳولݨ تاریخ کوں یاد رکھیسے ۔
 history-dontremember-description = { -brand-short-name } نجی براؤزنگ دیاں ترتیباں استعمال کریسے، تے تہاݙے براوز کریندے ویلھے کوئی تاریخ یاد کائنا رکھیسے۔
 history-private-browsing-permanent =
