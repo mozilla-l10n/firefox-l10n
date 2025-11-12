@@ -175,7 +175,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -191,6 +191,9 @@ use-current-pages =
 choose-bookmark =
     .label = Sebenzisa ukuphawula nokubekisa…
     .accesskey = u
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -283,6 +286,8 @@ history-remember-option-never =
     .label = Kungalokothwa kukhunjulwe umlando
 history-remember-option-custom =
     .label = Sebenzisa izimiso zokuzenzela uzisebenzisele umlando
+history-dontremember-description2 =
+    .description = I-{ -brand-short-name } izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.
 history-dontremember-description = I-{ -brand-short-name } izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.
 history-private-browsing-permanent =
     .label = Sebenzisa njalo indlela yangasese yokudlulisa amehlo
