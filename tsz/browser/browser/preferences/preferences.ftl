@@ -15,10 +15,34 @@ settings-category-labs =
 close-button =
     .aria-label = Mikani
 
+## Browser Restart Dialog
+
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Uénakua
 tabs-group-header = Arhukutarakua
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -73,6 +97,12 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
+##
+
+
+## General Section - Performance
+
+
 ## General Section - Browsing
 
 browsing-title = Miiunskakua
@@ -82,6 +112,12 @@ browsing-use-autoscroll =
 browsing-use-cursor-navigation =
     .label = Ménkisï urani mananharhitakuachani ka isï uni miiunharhitakuarhu inchani
     .accesskey = m
+
+## General Section - Proxy
+
+
+## Home Section
+
 
 ## Custom Homepage subpage
 
@@ -100,6 +136,18 @@ choose-bookmark =
     .label = Kuirunharhikata Úrani…
     .accesskey = K
 
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -107,6 +155,29 @@ search-choose-keyword-column =
 search-remove-engine =
     .label = Kéntitani
     .accesskey = K
+
+## Containers Section
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -117,6 +188,28 @@ sync-engine-history =
     .label = Patsakata
     .accesskey = P
 
+## The device name controls.
+
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
+
+## Privacy Section - Passwords
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-remember-option-all =
@@ -125,6 +218,8 @@ history-remember-option-never =
     .label = Karakata patsakatani nóteru miántani
 history-remember-option-custom =
     .label = Karakata patsakatantini májku pérache
+history-dontremember-description2 =
+    .description = { -brand-short-name } ánchitarakuantku marhuataati, ka no patsapaati enkari xáni erhanharhitaka.
 history-dontremember-description = { -brand-short-name } ánchitarakuantku marhuataati, ka no patsapaati enkari xáni erhanharhitaka.
 history-private-browsing-permanent =
     .label = Juchiti ánchitarakuantku marhuata mentkisï
@@ -139,6 +234,34 @@ history-clear-on-close-settings =
     .label = Xerpetarakua…
     .accesskey = X
 
+## Privacy Section - Site Data
+
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-block-popups =
@@ -147,6 +270,27 @@ permissions-block-popups =
 permissions-addon-exceptions =
     .label = Licha no ampe…
     .accesskey = L
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
