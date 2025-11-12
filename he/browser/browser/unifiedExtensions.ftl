@@ -82,6 +82,15 @@ unified-extensions-mb-blocklist-error-single =
     .message = הרחבה זו מפרה את המדיניות של Mozilla ולכן הושבתה.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] הרחבה אחת הושבתה
+           *[other] { $extensionsCount } הרחבות הושבתו
+        }
+    .message = חלק מההרחבות שלך מוגבלות ולכן הושבתו. באפשרותך להפעיל אותה בהגדרות, אבל ייתכן שזה יהיה כרוך בסיכון.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
     .heading =
         { $extensionsCount ->

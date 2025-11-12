@@ -69,8 +69,9 @@ storage-table-headers-cookies-name = שם
 storage-table-headers-cookies-value = ערך
 storage-table-headers-cookies-expires = תאריך תפוגה / גיל מירבי
 storage-table-headers-cookies-size = גודל
-storage-table-headers-cookies-last-accessed = תאריך גישה אחרון
-storage-table-headers-cookies-creation-time = תאריך יצירה
+storage-table-headers-cookies-last-accessed = זמן גישה אחרון
+storage-table-headers-cookies-creation-time = זמן יצירה
+storage-table-headers-cookies-update-time = זמן עדכון
 storage-table-headers-cache-status = מצב
 storage-table-headers-extension-storage-area = אזור אחסון
 

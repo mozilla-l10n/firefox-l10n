@@ -15,7 +15,7 @@ recently-closed-menu-reopen-all-windows = Åpne alle vinduer på nytt
 ## Check appmenu.ftl for reference.
 
 recently-closed-panel-reopen-all-tabs = Åpne alle faner på nytt
-recently-closed-panel-reopen-all-windows = Åpne alle vinduer på nytt
+recently-closed-panel-reopen-all-windows = Gjenåpne alle vinduer
 
 ##
 

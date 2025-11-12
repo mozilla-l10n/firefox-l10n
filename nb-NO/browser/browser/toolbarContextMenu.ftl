@@ -25,10 +25,10 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Gjenopprett lukket fane
-           *[other] Gjenopprett lukkede faner
+            [1] Gjenåpne lukket fane
+           *[other] Gjenåpne lukkede faner
         }
-    .accesskey = o
+    .accesskey = e
 toolbar-context-turn-on-vertical-tabs =
     .label = Slå på vertikale faner
 toolbar-context-turn-off-vertical-tabs =

@@ -109,10 +109,10 @@ tab-context-new-group =
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Gjenopprett lukket fane
-           *[other] Gjenopprett lukkede faner
+            [1] Gjenåpne lukket fane
+           *[other] Gjenåpne lukkede faner
         }
-    .accesskey = o
+    .accesskey = n
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->

@@ -76,7 +76,7 @@ firefoxview-mobile-promo-primarybutton = Få { -brand-product-name } for mobil
 firefoxview-mobile-confirmation-header = 🎉 Alt klart!
 firefoxview-mobile-confirmation-description = Nå kan du hente { -brand-product-name }-fanene fra nettbrettet eller telefonen.
 firefoxview-closed-tabs-title = Nylig lukket
-firefoxview-closed-tabs-description2 = Åpne på nytt sider du har lukket i dette vinduet.
+firefoxview-closed-tabs-description2 = Gjenåpne sider du har lukket i dette vinduet.
 firefoxview-closed-tabs-placeholder-header = Ingen nylig lukkede faner
 firefoxview-closed-tabs-placeholder-body = Når du lukker en fane i dette vinduet, kan du hente den herfra.
 # Variables:
