@@ -173,7 +173,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -189,6 +189,9 @@ use-current-pages =
 choose-bookmark =
     .label = Bijareyê bi kar bîne...
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -283,6 +286,8 @@ history-remember-option-never =
     .label = Mêjûyê qet bi bîr neyne
 history-remember-option-custom =
     .label = Ji bo mêjûyê mîhengên takekesî bi kar bîne
+history-dontremember-description2 =
+    .description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
 history-dontremember-description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
 history-private-browsing-permanent =
     .label = Her tim moda gera nepen bi kar bîne
