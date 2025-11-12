@@ -124,6 +124,7 @@ addon-local-install-no-addon-name-error-file-access = 이 부가 기능은 { -br
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName }는 { -brand-short-name } { $appVersion }에서 돌아가지 않으므로 설치할 수 없습니다.
 addon-install-error-hard-blocked = { $addonName } 부가 기능은 Mozilla 정책을 위반하므로 { -brand-short-name }에 설치할 수 없습니다.
+addon-install-error-soft-blocked2 = { $addonName } 부가 기능은 사용이 제한되어 { -brand-short-name }에 설치할 수 없습니다.
 addon-install-error-blocklisted = { $addonName }는 불안정하게 만들고 보안 문제를 일으킬 것으로 보여 설치할 수 없습니다.
 addon-install-error-soft-blocked = { $addonName } 부가 기능은 Mozilla 정책을 위반하므로 { -brand-short-name }에 설치할 수 없습니다.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.

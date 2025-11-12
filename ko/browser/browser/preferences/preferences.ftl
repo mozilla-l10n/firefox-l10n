@@ -661,6 +661,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = 저장하거나 방문한 사이트
 home-prefs-shortcuts-by-option-sponsored =
     .label = 스폰서 바로 가기
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -706,6 +708,12 @@ home-prefs-weather-learn-more-link = 더 알아보기
 home-prefs-trending-search-header =
     .label = 인기 검색어
 home-prefs-trending-search-description = 인기 있고 자주 검색되는 주제
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = 목록
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = 타이머
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } 지원
@@ -1162,6 +1170,8 @@ history-remember-description2 =
     .description = { -brand-short-name }가 방문, 다운로드, 양식 및 검색 기록을 기억합니다.
 history-dontremember-description2 =
     .description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며, 웹 사이트 방문 중 어떤 기록도 기억하지 않습니다.
+history-custom-description =
+    .description = { -brand-short-name }가 탐색, 다운로드, 양식 및 검색 기록에 대해 사용자 지정 설정을 사용합니다.
 history-remember-description = { -brand-short-name }가 방문, 다운로드, 양식 및 검색 기록을 기억합니다.
 history-dontremember-description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며, 웹 사이트 방문 중 어떤 기록도 기억하지 않습니다.
 history-private-browsing-permanent =
