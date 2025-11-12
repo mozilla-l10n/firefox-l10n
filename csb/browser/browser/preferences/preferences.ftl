@@ -169,7 +169,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -185,6 +185,9 @@ use-current-pages =
 choose-bookmark =
     .label = Ùżëjë załóżka…
     .accesskey = ż
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -274,6 +277,8 @@ history-remember-option-never =
     .label = Nie spamiãtiwô historie
 history-remember-option-custom =
     .label = Ùżiwô swòji historie
+history-dontremember-description2 =
+    .description = Program { -brand-short-name } bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historie przë przezéranim stronów WWW.
 history-dontremember-description = Program { -brand-short-name } bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historie przë przezéranim stronów WWW.
 history-private-browsing-permanent =
     .label = Wiedno ùżëwôj tribu priwatnégò przezéraniô sécë
