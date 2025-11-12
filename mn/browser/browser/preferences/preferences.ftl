@@ -165,7 +165,7 @@ browsing-use-cursor-navigation =
 ## Home Section
 
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -178,6 +178,9 @@ use-current-pages =
            *[other] Одоогийн хуудаснуудыг хэрэглэ
         }
     .accesskey = д
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -262,6 +265,8 @@ history-remember-option-never =
     .label = Зорчсон түүхийг хадгалахгүй
 history-remember-option-custom =
     .label = Зорчсон түүхэнд дурын тохиргоо хэрэглэнэ
+history-dontremember-description2 =
+    .description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
 history-dontremember-description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
 history-private-browsing-permanent =
     .label = Дандаа ашиглах & хувийн ачааллах загвар
