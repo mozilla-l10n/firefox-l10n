@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Hantera tillägg
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } är begränsad. Att använda det kan vara riskabelt.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } bryter mot Mozillas policyer. Att använda det kan vara riskabelt.
 
 ## Extension's context menu
@@ -62,6 +65,11 @@ unified-extensions-mb-quarantined-domain-learn-more = Läs mer
 unified-extensions-mb-about-addons-link = Gå till tilläggsinställningar
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } inaktiverad
+    .message = Tillägget är begränsat och har inaktiverats. Du kan aktivera det i inställningarna, men det kan vara riskabelt.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } inaktiverad
     .message = Det här tillägget bryter mot Mozillas policyer och har inaktiverats. Du kan aktivera det i inställningarna, men det kan vara riskabelt.
@@ -70,6 +78,15 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } inaktiverad
     .message = Det här tillägget bryter mot Mozillas policyer och har inaktiverats.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } tillägg inaktiverade
+           *[other] { $extensionsCount } tillägg inaktiverade
+        }
+    .message = Vissa av dina tillägg är begränsade och har inaktiverats. Du kan aktivera dem i inställningarna, men det kan vara riskabelt.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
