@@ -549,9 +549,6 @@ choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Susbaint { -firefox-home-brand-name }
@@ -816,8 +813,6 @@ sync-device-name-header = Ainm an uidheim
 sync-device-name-input =
     .aria-label = Ainm an uidheim
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Atharraich ainm an uidheim
     .accesskey = h
@@ -910,9 +905,6 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -1208,9 +1200,6 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

@@ -601,9 +601,6 @@ choose-bookmark =
     .label = Користи обележивач…
     .accesskey = б
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } садржај
@@ -885,8 +882,6 @@ sync-device-name-header = Назив уређаја
 sync-device-name-input =
     .aria-label = Назив уређаја
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Промени назив уређаја
     .accesskey = П
@@ -1308,9 +1303,6 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

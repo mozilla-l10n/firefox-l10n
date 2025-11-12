@@ -492,9 +492,6 @@ choose-bookmark =
     .label = ໃຊ້ບຸກມາກ…
     .accesskey = ບ
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } ເນື້ອໃນ
@@ -734,8 +731,6 @@ sync-device-name-header = ຊື່ອຸປະກອນ
 sync-device-name-input =
     .aria-label = ຊື່ອຸປະກອນ
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = ປ່ຽນຊື່ອຸປະກອນ
     .accesskey = h
@@ -830,9 +825,6 @@ primary-password-os-auth-dialog-message-win = ເພື່ອສ້າງລະ�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ສ້າງລະຫັດຜ່ານຫຼັກ
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -1117,9 +1109,6 @@ privacy-segmentation-radio-off =
     .label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

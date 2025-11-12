@@ -987,8 +987,6 @@ sync-device-name-header = Enhedens navn
 sync-device-name-input =
     .aria-label = Enhedens navn
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Skift navn for enheden
     .accesskey = k

@@ -163,6 +163,3 @@ soccer-ball-avatar = Futboleko baloia
 star-avatar = Izarra
 profiles-appmenu-callout-tour-title = Zure profil berria prest dago
 profiles-appmenu-callout-tour-primary-button = Erakuts iezadazu nola
-
-## Tooltips for default avatar icons
-

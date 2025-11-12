@@ -575,9 +575,6 @@ choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contingut de l'{ -firefox-home-brand-name }
@@ -867,8 +864,6 @@ sync-device-name-header = Nom del dispositiu
 sync-device-name-input =
     .aria-label = Nom del dispositiu
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Canvia el nom del dispositiu
     .accesskey = v

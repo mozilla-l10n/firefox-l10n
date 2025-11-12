@@ -336,9 +336,6 @@ choose-bookmark =
     .label = ប្រើ​ចំណាំ…
     .accesskey = ច
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -471,12 +468,6 @@ sync-sign-in =
     .label = ចូល
     .accesskey = g
 
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
-
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -510,8 +501,6 @@ sync-device-name-header = ឈ្មោះ​ឧបករណ៍
 sync-device-name-input =
     .aria-label = ឈ្មោះ​ឧបករណ៍
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = ប្ដូរ​ឈ្មោះ​ឧបករណ៍
     .accesskey = h
@@ -561,12 +550,6 @@ forms-master-pw-change =
     .label = ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ…
     .accesskey = M
 forms-master-pw-fips-desc = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -633,12 +616,6 @@ sitedata-settings =
     .label = គ្រប់គ្រងទិន្នន័យ...
     .accesskey = M
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Privacy Section - Address Bar
 
 addressbar-header = របារអាសយដ្ឋាន
@@ -677,9 +654,6 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-cookies-label =
     .label = ​ខូគី
     .accesskey = ខ
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -727,9 +701,6 @@ collection-health-report-link = ស្វែងយល់​​បន្ថែម
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ការ​រាយការណ៍​ទិន្នន័យ​ត្រូវ​បាន​បិទ​សម្រាប់​ការ​កំណត់​រចនាសម្ព័ន្ធ​កំណែ​នេះ
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -761,12 +732,6 @@ certs-devices =
     .label = ឧបករណ៍​សុវត្ថិភាព…
     .accesskey = D
 certs-devices-enable-fips = បើក FIPS
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

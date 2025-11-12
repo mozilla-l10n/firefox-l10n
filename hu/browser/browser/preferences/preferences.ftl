@@ -988,8 +988,6 @@ sync-device-name-header = Eszköznév
 sync-device-name-input =
     .aria-label = Eszköznév
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Eszköznév módosítása
     .accesskey = m

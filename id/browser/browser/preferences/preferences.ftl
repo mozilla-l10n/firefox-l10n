@@ -611,9 +611,6 @@ choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Konten { -firefox-home-brand-name }
@@ -923,8 +920,6 @@ sync-device-name-header = Nama Peranti
 sync-device-name-input =
     .aria-label = Nama Peranti
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Ubah Nama Peranti
     .accesskey = h

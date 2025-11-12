@@ -345,9 +345,6 @@ choose-bookmark =
     .label = စာမှတ်ကို အသုံးပြုပါ…
     .accesskey = B
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -480,9 +477,6 @@ sync-sign-in =
     .label = ဝင်ပါ
     .accesskey = g
 
-## Sync section - enabling or disabling sync.
-
-
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = စာမှတ်များ
@@ -523,8 +517,6 @@ sync-device-name-header = ကိရိယာအမည်
 sync-device-name-input =
     .aria-label = ကိရိယာအမည်
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = ကိရိယာအမည်ကို ပြောင်းလဲရန်
     .accesskey = h
@@ -578,12 +570,6 @@ forms-master-pw-change =
     .label = အဓိကစကားဝှက်ကို ပြောင်းလဲရန်…
     .accesskey = M
 forms-master-pw-fips-desc = စကားဝှက်ပြောင်းလဲမှု မအောင်မြင်ပါ
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -647,12 +633,6 @@ sitedata-clear =
 sitedata-settings =
     .label = အချက်အလက်ကို စီမံပါ...
     .accesskey = M
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Privacy Section - Address Bar
 
@@ -771,9 +751,6 @@ addon-recommendations-link = ပိုမိုလေ့လာရန်
 # or builds with no Telemetry support available.
 collection-health-report-disabled = တည်ဆောက်မှုဆိုင်ရာ ယခုအပြင်အဆင်အတွက် အချက်အလက်အစီရင်ခံခြင်းကို ပိတ်ထားသည်
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -805,12 +782,6 @@ certs-devices =
     .label = လုံခြုံရေး ကိရိယာများ...
     .accesskey = D
 certs-devices-enable-fips = FIPS ကို ဖွင့်ထားပါ
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

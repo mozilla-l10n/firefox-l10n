@@ -996,8 +996,6 @@ sync-device-name-header = Mjeno grata
 sync-device-name-input =
     .aria-label = Mjeno grata
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Mjeno grata změnić
     .accesskey = z

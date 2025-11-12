@@ -411,9 +411,6 @@ choose-bookmark =
     .label = বুকমার্ক ব্যবহার করুন
     .accesskey = B
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -634,8 +631,6 @@ sync-device-name-header = ডিভাইসের নাম
 sync-device-name-input =
     .aria-label = ডিভাইসের নাম
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = ডিভাইসের নাম পরিবর্তন
     .accesskey = h
@@ -704,9 +699,6 @@ forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -788,12 +780,6 @@ sitedata-clear =
 sitedata-settings =
     .label = ডাটা ব্যবস্থাপনা…
     .accesskey = M
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Privacy Section - Address Bar
 
@@ -945,9 +931,6 @@ addon-recommendations-link = আরও জানুন
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -979,12 +962,6 @@ certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
 certs-devices-enable-fips = FIPS সক্রিয় করা হবে
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

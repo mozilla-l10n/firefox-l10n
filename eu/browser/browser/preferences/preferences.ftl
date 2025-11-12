@@ -961,8 +961,6 @@ sync-device-name-header = Gailuaren izena
 sync-device-name-input =
     .aria-label = Gailuaren izena
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Aldatu gailuaren izena
     .accesskey = d
@@ -1430,9 +1428,6 @@ privacy-segmentation-radio-off =
     .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

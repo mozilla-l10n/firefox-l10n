@@ -582,9 +582,6 @@ choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } අන්තර්ගතය
@@ -877,8 +874,6 @@ sync-device-name-header = උපාංගයේ නම
 sync-device-name-input =
     .aria-label = උපාංගයේ නම
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = උපාංගයේ නම වෙනස් කරන්න
     .accesskey = h

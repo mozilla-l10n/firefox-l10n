@@ -987,8 +987,6 @@ sync-device-name-header = Mba’e’oka Réra
 sync-device-name-input =
     .aria-label = Mba’e’oka Réra
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Emoambue mba’e’oka réra
     .accesskey = h

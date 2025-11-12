@@ -618,9 +618,6 @@ choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Agbur { -firefox-home-brand-name }
@@ -919,8 +916,6 @@ sync-device-name-header = Isem n yibenk
 sync-device-name-input =
     .aria-label = Isem n yibenk
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Beddel isem n yibenk
     .accesskey = q

@@ -622,9 +622,6 @@ choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
@@ -946,8 +943,6 @@ sync-device-name-header = Nòmine de su dispositivu
 sync-device-name-input =
     .aria-label = Nòmine de su dispositivu
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Muda su nòmine de su dispositivu
     .accesskey = u

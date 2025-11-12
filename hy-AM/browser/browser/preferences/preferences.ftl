@@ -892,8 +892,6 @@ sync-device-name-header = Սարքի անունը
 sync-device-name-input =
     .aria-label = Սարքի անունը
     .placeholder = { $placeholder }
-# Variables:
-#   $placeholder (string) - The placeholder text of the input
 sync-device-name-change-2 =
     .label = Փոխել սարքի անունը
     .accesskey = ո
@@ -1122,9 +1120,6 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
-
-## Privacy Section - Cookie Banner Handling
-
 
 ## Privacy Section - Cookie Banner Blocking
 
