@@ -176,7 +176,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -192,6 +192,9 @@ use-current-pages =
 choose-bookmark =
     .label = Fa Bukmaak di dwuma…
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -284,6 +287,8 @@ history-remember-option-never =
     .label = Mma nnkae abakɔsɛm biara
 history-remember-option-custom =
     .label = Hyehyɛ abakɔsɛm ankorankorɛ
+history-dontremember-description2 =
+    .description = { -brand-short-name } de nhyehyɛe te sɛ brawsen praevet de bedi dwuma, na ɔrennkae wo abakɔsɛm biara wɔ bere a wo brawse Wɛb no so.
 history-dontremember-description = { -brand-short-name } de nhyehyɛe te sɛ brawsen praevet de bedi dwuma, na ɔrennkae wo abakɔsɛm biara wɔ bere a wo brawse Wɛb no so.
 history-private-browsing-permanent =
     .label = Fa tebea praevet a wɔde brawse di dwuma abere biara
