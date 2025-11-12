@@ -176,7 +176,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -192,6 +192,9 @@ use-current-pages =
 choose-bookmark =
     .label = Diriša pukutshwayo...
     .accesskey = p
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -284,6 +287,8 @@ history-remember-option-never =
     .label = O se ke wa gopola histori
 history-remember-option-custom =
     .label = Diriša dipeakanyo tša tlwaelo bakeng sa histori
+history-dontremember-description2 =
+    .description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
 history-dontremember-description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
 history-private-browsing-permanent =
     .label = Ka mehla diriša mokgwa wa go praosa wa praebete

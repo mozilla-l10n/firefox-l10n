@@ -28,6 +28,8 @@ edit-profile-page-theme-header-2 =
     .label = Itxura
 edit-profile-page-explore-themes = Arakatu itxura gehiago
 edit-profile-page-desktop-shortcut-header = Sortu mahaigaineko lasterbidea
+edit-profile-page-desktop-shortcut-toggle =
+    .aria-label = Sortu mahaigaineko lasterbidea
 edit-profile-page-avatar-header-2 =
     .label = Abatarra
 edit-profile-page-delete-button =
@@ -161,3 +163,6 @@ soccer-ball-avatar = Futboleko baloia
 star-avatar = Izarra
 profiles-appmenu-callout-tour-title = Zure profil berria prest dago
 profiles-appmenu-callout-tour-primary-button = Erakuts iezadazu nola
+
+## Tooltips for default avatar icons
+

@@ -183,7 +183,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -199,6 +199,9 @@ use-current-pages =
 choose-bookmark =
     .label = बुकमार्क वापरात…
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -307,6 +310,8 @@ history-remember-option-never =
     .label = इतिहास केन्नाच उगडास धरचो न्हय
 history-remember-option-custom =
     .label = इतिहासा खातीर कस्टम मांडावळी वापरच्यो
+history-dontremember-description2 =
+    .description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
 history-dontremember-description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
 history-private-browsing-permanent =
     .label = सदाच खाजगी ब्रावजींग स्थिती वापरात
