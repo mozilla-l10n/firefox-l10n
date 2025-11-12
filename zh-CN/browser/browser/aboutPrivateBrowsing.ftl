@@ -35,7 +35,7 @@ about-private-browsing-focus-promo-text = 我们的隐私浏览专用应用，�
 about-private-browsing-focus-promo-header-b = 手机上亦可私密浏览
 about-private-browsing-focus-promo-text-b = 在 { -focus-brand-name } 上隐私搜索不愿被主浏览器记录的内容。
 about-private-browsing-focus-promo-header-c = 移动端更强大的隐私保护
-about-private-browsing-focus-promo-text-c = { -focus-brand-name } 不仅会自动清除历史记录，且能够拦截广告和跟踪器。
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } 不仅能自动清除历史记录，还可以拦截广告和跟踪器。
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
