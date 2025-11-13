@@ -148,6 +148,7 @@ addon-local-install-no-addon-name-error-file-access = Přidatk njeda so instalow
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } njeda so instalować, dokelž z { -brand-short-name } { $appVersion } kompatibelny njeje.
 addon-install-error-hard-blocked = { $addonName } so přećiwo prawidłam Mozilla přeńdźe a njeda so na { -brand-short-name } instalować.
+addon-install-error-soft-blocked2 = { $addonName } je wobmjezowany a njeda so na { -brand-short-name } instalować.
 addon-install-error-blocklisted = { $addonName } njeda so instalować, dokelž je wulke riziko, zo wón stabilnostne abo wěstotne problemy zawinuje.
 addon-install-error-soft-blocked = { $addonName } so přećiwo prawidłam Mozilla přeńdźe a njeda so na { -brand-short-name } instalować.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
