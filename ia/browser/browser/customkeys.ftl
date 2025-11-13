@@ -30,4 +30,5 @@ customkeys-nav-back = Retro
 customkeys-nav-forward = Avante
 customkeys-nav-home = Initio
 customkeys-nav-reload = Recargar
+customkeys-nav-reload-skip-cache = Recargar (Substituer cache)
 customkeys-nav-stop = Stoppar
