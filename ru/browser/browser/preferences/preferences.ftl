@@ -676,6 +676,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Сохранённые или посещаемые сайты
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонсируемые ярлыки
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -721,6 +723,12 @@ home-prefs-weather-learn-more-link = Подробнее
 home-prefs-trending-search-header =
     .label = Популярные поисковые запросы
 home-prefs-trending-search-description = Популярные и часто запрашиваемые темы
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Списки
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Таймер
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Поддержите { -brand-product-name }
@@ -1182,6 +1190,8 @@ history-remember-description2 =
     .description = { -brand-short-name } будет помнить историю посещений, загрузок, поиска и сохранять данные форм.
 history-dontremember-description2 =
     .description = { -brand-short-name } будет использовать те же настройки, что и в приватном режиме, и не будет помнить историю вашей работы с сайтами.
+history-custom-description =
+    .description = { -brand-short-name } будет использовать собственные настройки для истории посещений, загрузок, форм и поиска.
 history-remember-description = { -brand-short-name } будет помнить историю посещений, загрузок, поиска и сохранять данные форм.
 history-dontremember-description = { -brand-short-name } будет использовать те же настройки, что и в приватном режиме, и не будет помнить историю вашей работы с сайтами.
 history-private-browsing-permanent =

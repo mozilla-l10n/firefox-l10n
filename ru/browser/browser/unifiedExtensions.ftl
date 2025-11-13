@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Управление расширением
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } ограничено. Его использование может быть рискованным.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } нарушает политики Mozilla. Его использование может быть рискованным.
 
 ## Extension's context menu
@@ -62,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Узнать больше
 unified-extensions-mb-about-addons-link = Перейти в настройки расширения
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } disabled
+    .message =
+        Это расширение ограничено и было отключено.
+        Вы можете включить его в настройках, но это может быть рискованно.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } отключено
     .message =
@@ -72,6 +82,18 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } отключено
     .message = Это расширение нарушает политику Mozilla и было отключено.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } расширение отключено
+            [few] { $extensionsCount } расширения отключено
+           *[many] { $extensionsCount } расширений отключено
+        }
+    .message =
+        Некоторые из ваших расширений ограничены и были отключены.
+        Вы можете включить их в настройках, но это может быть рискованно.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =

@@ -7,8 +7,24 @@ customkeys-search = Sök:
 customkeys-change = Ändra
 customkeys-reset = Återställ
 customkeys-clear = Rensa
-customkeys-new-key = Tryck på ny knapp:
+customkeys-new-key = Tryck på ny tangent:
 customkeys-reset-all = Återställ alla genvägar till standardvärden
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Den här tangenten är redan tilldelad { $conflict }. Vill du ersätta den?
+customkeys-reset-all-confirm = Är du säker på att du vill återställa alla tangentbordsgenvägar till standardvärdena?
+customkeys-history-reopen-tab = Återställ senast stängda flik
+customkeys-history-reopen-window = Återställ senast stängda fönster
+customkeys-dev-tools = Verktyg för webbutvecklare
+customkeys-dev-inspector = DOM och stilinspektör
+customkeys-dev-webconsole = Webbkonsol
+customkeys-dev-debugger = JavaScript-felsökare
+customkeys-dev-network = Nätverksbevakning
+customkeys-dev-style = Stilredigerare
+customkeys-dev-performance = Prestanda
+customkeys-dev-storage = Lagringsinspektör
+customkeys-dev-dom = DOM
+customkeys-dev-accessibility = Tillgänglighet
 customkeys-nav-back = Tillbaka
 customkeys-nav-forward = Framåt
 customkeys-nav-home = Hem
