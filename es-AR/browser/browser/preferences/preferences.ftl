@@ -673,6 +673,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sitios guardados o visitados
 home-prefs-shortcuts-by-option-sponsored =
     .label = Accesos directos patrocinados
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -718,6 +720,12 @@ home-prefs-weather-learn-more-link = Conocer más
 home-prefs-trending-search-header =
     .label = Búsquedas más populares
 home-prefs-trending-search-description = Temas populares y buscados con frecuencia
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporizador
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Ayudar a { -brand-product-name }
@@ -1178,6 +1186,8 @@ history-remember-description2 =
     .description = { -brand-short-name } recordará su historial de navegación, descargas, formularios e historial de búsquedas.
 history-dontremember-description2 =
     .description = { -brand-short-name } utilizará la misma configuración que para las búsquedas privadas y no recordará el historial mientras navegue por la web.
+history-custom-description =
+    .description = { -brand-short-name } usará una configuración personalizada para el historial de navegación, descargas, formularios e historial de búsquedas.
 history-remember-description = { -brand-short-name } recordará su historial de navegación, descargas, formularios e historial de búsquedas.
 history-dontremember-description = { -brand-short-name } utilizará la misma configuración que para las búsquedas privadas y no recordará el historial mientras navegue por la web.
 history-private-browsing-permanent =
