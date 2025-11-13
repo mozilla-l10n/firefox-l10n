@@ -4,7 +4,7 @@
 
 crashed-title = Raportor de închidere neașteptată a filelor
 crashed-close-tab-button = Închide fila
-crashed-restore-tab-button = Restaurează această filă
+crashed-restore-tab-button = Restaurează fila
 crashed-restore-all-button = Restaurează toate filele închise care s-au închis neașteptat
 crashed-header = Of. Fila tocmai s-a închis neașteptat.
 crashed-offer-help = Te putem ajuta!

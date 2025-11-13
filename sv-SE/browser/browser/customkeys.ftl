@@ -14,3 +14,5 @@ customkeys-nav-forward = Framåt
 customkeys-nav-home = Hem
 customkeys-nav-reload = Ladda om
 customkeys-nav-reload-skip-cache = Ladda om (Åsidosätt cache)
+customkeys-nav-stop = Stopp
+customkeys-caution-message = Den här funktionen är experimentell och kanske inte fungerar som förväntat.
