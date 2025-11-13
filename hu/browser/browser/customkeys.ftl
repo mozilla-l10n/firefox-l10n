@@ -22,3 +22,5 @@ customkeys-dev-debugger = JavaScript hibakereső
 customkeys-dev-network = Hálózatfigyelő
 customkeys-dev-style = Stílusszerkesztő
 customkeys-dev-performance = Teljesítmény
+customkeys-dev-storage = Tárolóvizsgáló
+customkeys-dev-dom = DOM
