@@ -802,6 +802,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Uložené nebo navštěvované stránky
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorované zkratky
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -851,6 +853,12 @@ home-prefs-weather-learn-more-link = Zjistit více
 home-prefs-trending-search-header =
     .label = Trendy ve vyhledávání
 home-prefs-trending-search-description = Populární a často vyhledávaná témata
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Seznamy
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Časovač
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label =
@@ -1320,6 +1328,8 @@ history-remember-description2 =
     .description = { -brand-short-name } si bude pamatovat historii vašeho prohlížení, stahování, formulářů a vyhledávání.
 history-dontremember-description2 =
     .description = { -brand-short-name } použije stejné nastavení jako v režimu anonymního prohlížení a nebude si pamatovat žádnou historii prohlížení.
+history-custom-description =
+    .description = { -brand-short-name } použije vlastní nastavení pro historii vašeho prohlížení, stahování, formulářů a vyhledávání.
 history-remember-description = { -brand-short-name } si bude pamatovat historii vašeho prohlížení, stahování, formulářů a vyhledávání.
 history-dontremember-description = { -brand-short-name } použije stejné nastavení jako v režimu anonymního prohlížení a nebude si pamatovat žádnou historii prohlížení.
 history-private-browsing-permanent =
