@@ -22,9 +22,11 @@ about-private-browsing-not-private = ایسا من ی نیمدری سیخومی 
 about-private-browsing-learn-more-link = قلوه دووسته بۊین
 about-private-browsing-prominent-cta = وا { -mozilla-vpn-brand-name } ناشناس بمهنین
 about-private-browsing-focus-promo-cta = دانلود { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name } گشتن مهرمووه من تور
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = گشتن مهرمووه ن و تیلیفووݩ تووݩ بوورین
 about-private-browsing-search-banner-close-button =
     .aria-label = بستن
 about-private-browsing-promo-close-button =
