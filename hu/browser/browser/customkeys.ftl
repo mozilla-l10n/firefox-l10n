@@ -24,3 +24,7 @@ customkeys-dev-style = Stílusszerkesztő
 customkeys-dev-performance = Teljesítmény
 customkeys-dev-storage = Tárolóvizsgáló
 customkeys-dev-dom = DOM
+customkeys-dev-accessibility = Akadálymentesítés
+customkeys-dev-profiler-toggle = Teljesítményprofilozó indítása/leállítása
+customkeys-dev-profiler-capture = Teljesítményprofil rögzítése
+customkeys-category-navigation = Navigáció
