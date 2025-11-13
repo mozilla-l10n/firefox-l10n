@@ -679,6 +679,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sydła, kotrež składujeće abo wopytujeće
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponserowane zwjazanja
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -724,6 +726,12 @@ home-prefs-weather-learn-more-link = Dalše informacije
 home-prefs-trending-search-header =
     .label = Woblubowane pytanja
 home-prefs-trending-search-description = Popularne a husto pytane temy
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lisćiny
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Časoměr
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } podpěrać
@@ -1186,6 +1194,8 @@ history-remember-description2 =
     .description = { -brand-short-name } budźe sej wašu přehladowansku, sćehnjensku, formularnu a pytansku historiju spomjatkować.
 history-dontremember-description2 =
     .description = { -brand-short-name } budźe samsne nastajenja kaž w priwatnym modusu wužiwać a njebuźde sej historiju spomjatkować, hdyž Web přehladujeće.
+history-custom-description =
+    .description = { -brand-short-name } budźe swójske nastajenja za přehladowansku, sćehnjensku, formularnu a pytansku historiju wužiwać.
 history-remember-description = { -brand-short-name } budźe sej wašu přehladowansku, sćehnjensku, formularnu a pytansku historiju spomjatkować.
 history-dontremember-description = { -brand-short-name } budźe samsne nastajenja kaž w priwatnym modusu wužiwać a njebuźde sej historiju spomjatkować, hdyž Web přehladujeće.
 history-private-browsing-permanent =

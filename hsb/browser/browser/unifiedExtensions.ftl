@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Rozšěrjenje rjadować
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } je wobmjezowane. Jeho wužiwanje móže riskantne być.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } so přećiwo prawidłam Mozilla přeńdźe. Je riskantne jo wužiwać.
 
 ## Extension's context menu
@@ -62,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Dalše informacije
 unified-extensions-mb-about-addons-link = K nastajenjam rozšěrjenjow
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } znjemóžnjeny
+    .message =
+        { $extensionName } je wobmjezowane a je so znjemóžniło.
+        Móžeće jo w nastajenjach zmóžnić, ale to móže riskantne być.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } znjemóžnjeny
     .message =
@@ -72,6 +82,19 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } znjemóžnjeny
     .message = Tute rozšěrjenje so přećiwo prawidłam Mozilla přeńdźe a je so znjemóžniło.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } rozšěrjenje znjemóžnjene
+            [two] { $extensionsCount } rozšěrjeni znjemóžnjenej
+            [few] { $extensionsCount } rozšěrjenja znjemóžnjene
+           *[other] { $extensionsCount } rozšěrjenjow znjemóžnjene
+        }
+    .message =
+        Někotre z wašich rozšěrjenjow su wobmjezowane a su so znjemóžnili.
+        Móžeće je w nastajenjach zmóžnić, ale to móže riskantne być.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
