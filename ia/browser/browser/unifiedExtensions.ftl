@@ -62,6 +62,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Pro saper plus
 unified-extensions-mb-about-addons-link = Ir a parametros de extension
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } disactivate
+    .message =
+        Iste extension es limitate e ha essite disactivate.
+        Tu pote activar lo in parametros, ma isto pote esser riscose.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } disactivate
     .message =
