@@ -136,6 +136,7 @@ addon-local-install-no-addon-name-error-file-access = A kiegészítő nem telep�
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = A(z) { $addonName } nem volt telepíthető, mert nem kompatibilis a { -brand-short-name } { $appVersion } verzióval.
 addon-install-error-hard-blocked = A(z) { $addonName } sérti a Mozilla házirendjeit, és nem telepíthető a { -brand-short-name }ra.
+addon-install-error-soft-blocked2 = A(z) { $addonName } korlátozott, és nem telepíthető a { -brand-short-name }ra.
 addon-install-error-blocklisted = A(z) { $addonName } nem volt telepíthető, mert stabilitási és biztonsági szempontból magas kockázatú.
 addon-install-error-soft-blocked = A(z) { $addonName } sérti a Mozilla házirendjeit, és nem telepíthető a { -brand-short-name }ra.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
