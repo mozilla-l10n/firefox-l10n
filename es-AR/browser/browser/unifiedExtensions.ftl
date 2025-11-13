@@ -65,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Conocer más
 unified-extensions-mb-about-addons-link = Ir a configuración de extensiones
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } deshabilitada
+    .message =
+        Esta extensión está restringida y fue deshabilitada.
+        Se puede habilitar en la configuración, pero puede ser riesgoso.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } deshabilitada
     .message =
@@ -75,6 +82,17 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } deshabilitada
     .message = Está extensión viola las políticas de Mozilla y ha sido deshabilitada.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } extensión deshabilitada
+           *[other] { $extensionsCount } extensiones deshabilitadas
+        }
+    .message =
+        Algunas extensiones están restringidas y fueron deshabilitadas.
+        Se pueden habilitar en la configuración, pero puede ser riesgoso.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
