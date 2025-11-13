@@ -673,6 +673,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Ιστότοποι από σελιδοδείκτες ή ιστορικό
 home-prefs-shortcuts-by-option-sponsored =
     .label = Χορηγούμενες συντομεύσεις
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -718,6 +720,12 @@ home-prefs-weather-learn-more-link = Μάθετε περισσότερα
 home-prefs-trending-search-header =
     .label = Δημοφιλείς αναζητήσεις
 home-prefs-trending-search-description = Δημοφιλή και συνήθη θέματα αναζήτησης
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Λίστες
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Αντίστροφη μέτρηση
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Υποστηρίξτε το { -brand-product-name }

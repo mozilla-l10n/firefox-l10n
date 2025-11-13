@@ -136,6 +136,7 @@ addon-local-install-no-addon-name-error-file-access = Δεν ήταν δυνατ
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Δεν ήταν δυνατή η εγκατάσταση του { $addonName } επειδή δεν είναι συμβατό με το { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = Το { $addonName } παραβιάζει τις πολιτικές της Mozilla και δεν είναι δυνατή η εγκατάστασή του στο { -brand-short-name }.
+addon-install-error-soft-blocked2 = Το { $addonName } είναι περιορισμένο και δεν είναι δυνατή η εγκατάστασή του στο { -brand-short-name }.
 addon-install-error-blocklisted = Δεν ήταν δυνατή η εγκατάσταση του { $addonName } επειδή υπάρχει μεγάλος κίνδυνος πρόκλησης προβλημάτων σταθερότητας ή ασφάλειας.
 addon-install-error-soft-blocked = Το { $addonName } παραβιάζει τις πολιτικές της Mozilla και δεν είναι δυνατή η εγκατάστασή του στο { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
