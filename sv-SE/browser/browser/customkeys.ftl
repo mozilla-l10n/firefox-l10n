@@ -25,6 +25,7 @@ customkeys-dev-performance = Prestanda
 customkeys-dev-storage = Lagringsinspektör
 customkeys-dev-dom = DOM
 customkeys-dev-accessibility = Tillgänglighet
+customkeys-dev-profiler-toggle = Starta/stoppa prestandaprofileraren
 customkeys-nav-back = Tillbaka
 customkeys-nav-forward = Framåt
 customkeys-nav-home = Hem
