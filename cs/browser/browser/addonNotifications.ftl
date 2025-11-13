@@ -224,6 +224,11 @@ addon-install-error-hard-blocked =
         [with-cases] Doplněk { $addonName } porušuje zásady Mozilly a nelze jej proto do { -brand-short-name(case: "gen") } nainstalovat.
        *[no-cases] Doplněk { $addonName } porušuje zásady Mozilly a nelze jej proto do aplikace { -brand-short-name } nainstalovat.
     }
+addon-install-error-soft-blocked2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Doplněk { $addonName } je omezený a nemůže být do { -brand-short-name(case: "gen") } nainstalován.
+       *[no-cases] Doplněk { $addonName } je omezený a nemůže být do aplikace { -brand-short-name } nainstalován.
+    }
 addon-install-error-blocklisted = Doplněk { $addonName } nemohl být nainstalován, protože přináší vysoké riziko nestability nebo bezpečnostních problémů.
 addon-install-error-soft-blocked =
     { -brand-short-name.case-status ->
