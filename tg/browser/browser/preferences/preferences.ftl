@@ -701,12 +701,19 @@ home-prefs-weather-learn-more-link = Маълумоти бештар
 home-prefs-trending-search-header =
     .label = Ҷустуҷӯҳои ҳавасангез
 home-prefs-trending-search-description = Мавзуъҳои маъмул ва ҷустуҷӯшавандаи такрорӣ
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Рӯйхатҳо
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Вақтсанҷ
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Дастгирӣ кардани «{ -brand-product-name }»
 home-prefs-mission-message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд
 home-prefs-mission-message-learn-more-link = Бифаҳмед, ки чӣ тавр
 home-prefs-manage-topics-link = Идоракунии мавзуъҳо
+home-prefs-choose-wallpaper-link = Тасвири заминаиеро интихоб намоед
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
