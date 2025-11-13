@@ -8,3 +8,8 @@ customkeys-change = Изменить
 customkeys-reset = Сбросить
 customkeys-clear = Очистить
 customkeys-new-key = Нажмите новое сочетание:
+customkeys-reset-all = Сбросить все сочетания на настройки по умолчанию
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Это сочетание уже назначено на { $confocus }. Вы хотите заменить его?
+customkeys-reset-all-confirm = Вы уверены, что хотите установить для всех сочетаний клавиш значения по умолчанию?
