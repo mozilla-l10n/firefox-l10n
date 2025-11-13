@@ -66,8 +66,8 @@ unified-extensions-mb-about-addons-link = Ouvrir les paramètres des extensions
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single2 =
-    .heading = { $extensionName } désactivé
-    .message = Cette extension est interdite et a été désactivée. Vous pouvez l’activer dans les paramètres, mais cela peut être risqué.
+    .heading = { $extensionName } a été désactivé
+    .message = Cette extension est soumise à des restrictions et a été désactivée. Vous pouvez l’activer dans les paramètres, mais son utilisation comporte des risques.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
@@ -85,10 +85,10 @@ unified-extensions-mb-blocklist-error-single =
 unified-extensions-mb-blocklist-warning-multiple2 =
     .heading =
         { $extensionsCount ->
-            [one] { $extensionsCount } extensions désactivées
+            [one] { $extensionsCount } extension désactivée
            *[other] { $extensionsCount } extensions désactivées
         }
-    .message = Certaines de vos extensions font l’objet de restrictions et ont été désactivées. Vous pouvez les activer dans les paramètres, mais cela peut être risqué.
+    .message = Certaines de vos extensions sont soumises à des restrictions et ont été désactivées. Vous pouvez les activer dans les paramètres, mais leur utilisation comporte des risques.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
