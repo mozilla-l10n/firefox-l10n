@@ -83,10 +83,9 @@ unified-extensions-mb-blocklist-error-single =
 unified-extensions-mb-blocklist-warning-multiple2 =
     .heading =
         { $extensionsCount ->
-            [one] { $extensionsCount } tillägg inaktiverade
-           *[other] { $extensionsCount } tillägg inaktiverade
+           *[other] { $extensionsCount } extensions disabled
         }
-    .message = Vissa av dina tillägg är begränsade och har inaktiverats. Du kan aktivera dem i inställningarna, men det kan vara riskabelt.
+    .message = { $extensionsCount } tillägg inaktiverade
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
