@@ -505,7 +505,7 @@ update-setting-write-failure-message2 =
     파일에 쓸 수 없음: { $path }
 update-in-progress-title = 업데이트 진행 중
 update-in-progress-message = { -brand-short-name }가 이 업데이트를 계속하길 원하십니까?
-update-in-progress-ok-button = 취소(&D)
+update-in-progress-ok-button = 버리기(&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 계속(&C)
