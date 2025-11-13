@@ -8,11 +8,19 @@ about-private-browsing-search-placeholder = پیتینیڌن من وب
 about-private-browsing-info-title = ایسا من ی نیمدری سیخومی هڌین
 about-private-browsing-search-btn =
     .title = پیتینیڌن من وب
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
 about-private-browsing-handoff-no-engine =
     .title = پیتینیڌن یا زیڌن نشۊوی
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
 about-private-browsing-handoff-text-no-engine = پیتینیڌن یا زیڌن نشۊوی
 about-private-browsing-not-private = ایسا من ی نیمدری سیخومی نؽڌین.
 about-private-browsing-learn-more-link = قلوه دووسته بۊین
+about-private-browsing-prominent-cta = وا { -mozilla-vpn-brand-name } ناشناس بمهنین
 about-private-browsing-focus-promo-cta = دانلود { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
