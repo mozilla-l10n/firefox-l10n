@@ -673,6 +673,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Opgeslagen of bezochte websites
 home-prefs-shortcuts-by-option-sponsored =
     .label = Gesponsorde snelkoppelingen
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -718,6 +720,12 @@ home-prefs-weather-learn-more-link = Meer info
 home-prefs-trending-search-header =
     .label = Trending zoekopdrachten
 home-prefs-trending-search-description = Populaire en veel gezochte onderwerpen
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lijsten
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Timer
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } ondersteunen
@@ -1178,6 +1186,8 @@ history-remember-description2 =
     .description = { -brand-short-name } zal uw browser-, download-, formulier- en zoekgeschiedenis onthouden.
 history-dontremember-description2 =
     .description = { -brand-short-name } zal dezelfde instellingen gebruiken als bij Privénavigatie, en geen geschiedenis onthouden terwijl u over het web surft.
+history-custom-description =
+    .description = { -brand-short-name } gebruikt aangepaste instellingen voor uw browser-, download-, formulier- en zoekgeschiedenis.
 history-remember-description = { -brand-short-name } zal uw browser-, download-, formulier- en zoekgeschiedenis onthouden.
 history-dontremember-description = { -brand-short-name } zal dezelfde instellingen gebruiken als bij Privénavigatie, en geen geschiedenis onthouden terwijl u over het web surft.
 history-private-browsing-permanent =
