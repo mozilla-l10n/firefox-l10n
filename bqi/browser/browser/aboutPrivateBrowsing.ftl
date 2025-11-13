@@ -27,6 +27,7 @@ about-private-browsing-focus-promo-header = { -focus-brand-name } گشتن مه�
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = گشتن مهرمووه ن و تیلیفووݩ تووݩ بوورین
+about-private-browsing-focus-promo-header-c = گوم بئڌی مهرمووه ای من تیلیفووݩ
 about-private-browsing-search-banner-close-button =
     .aria-label = بستن
 about-private-browsing-promo-close-button =
