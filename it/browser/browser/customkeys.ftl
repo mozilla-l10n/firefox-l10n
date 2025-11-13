@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customkeys-title = Scorciatoie da tastiera
-customkeys-search = CercaL
+customkeys-search = Cerca:
 customkeys-change = Modifica
 customkeys-reset = Ripristina
 customkeys-clear = Cancella
