@@ -111,6 +111,10 @@ restore-from-backup-restoring-button = Moĩporãjey…
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
 
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Ñe’ẽñemi hendape’ỹva. <a data-l10n-name="incorrect-password-support-link">¿Ereko gueteri apañuãi?</a>
 # The backup file (or specific data files within the backup file) could not be
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself
@@ -176,6 +180,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Embogue ñemo’ã ñe’ẽñemi ndive
+disable-backup-encryption-description2 = Ne ñe’ẽñemieta ñongatupyre ha mba’éicha ehepyme’ẽta noñeñongatu jey mo’ãvéima tekorosãrã.
 disable-backup-encryption-support-link = ¿Mba’e pe ojeykekótava?
 disable-backup-encryption-cancel-button = Heja
 disable-backup-encryption-confirm-button = Emboguete ñe’ẽñemi
