@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Kiegészítő kezelése
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = A(z) { $extensionName } kiegészítő korlátozott. Használata kockázatos lehet.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = A(z) { $extensionName } megsérti a Mozilla irányelveit. A használata kockázatos lehet.
 
 ## Extension's context menu
@@ -62,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = További tudnivalók
 unified-extensions-mb-about-addons-link = Ugrás a kiegészítőbeállításokhoz
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } letiltva
+    .message =
+        Ez a kiegészítő korlátozott, és le lett tiltva.
+        Engedélyezheti a beállításokban, de a használata kockázatos lehet.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } letiltva
     .message =
@@ -72,6 +82,17 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } letiltva
     .message = Ez a kiegészítő megsérti a Mozilla irányelveit, és le lett tiltva.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } kiegészítő letiltva
+           *[other] { $extensionsCount } kiegészítő letiltva
+        }
+    .message =
+        Egyes kiegészítői korlátozottak, és le lettek tiltva.
+        Engedélyezheti őket a beállításokban, de a használatuk kockázatos lehet.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
