@@ -8,6 +8,7 @@ customkeys-change = Moambue
 customkeys-reset = Mbojevyjey
 customkeys-clear = Mopotĩ
 customkeys-new-key = Ejopy jehaiha pyahu:
+customkeys-reset-all = Emoĩjey opaite jeikeha õihaguaéichavoi
 customkeys-history-reopen-tab = Eipe’a jey tendayke oñembotyramóva
 customkeys-dev-webconsole = Mba’e’okarupa
 customkeys-dev-debugger = JavaScript Mopotĩha
