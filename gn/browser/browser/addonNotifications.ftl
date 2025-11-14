@@ -136,6 +136,7 @@ addon-local-install-no-addon-name-error-file-access = { -brand-short-name } nomo
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ndaikatúi oñemohenda ndojokupytýi rupi { -brand-short-name } { $appVersion } ndive.
 addon-install-error-hard-blocked = { $addonName } omomarã Mozilla porureko ha ndaikatúi emohenda { -brand-short-name } rupive.
+addon-install-error-soft-blocked2 = { $addonName } ojokohína ha nomohendakuaái { -brand-short-name }-pe.
 addon-install-error-blocklisted = { $addonName } ndaikatúi oñemohenda ikatúgui omoapañuái mba’apoporã térã tekorosã rehegua.
 addon-install-error-soft-blocked = { $addonName } omomarã Mozilla porureko ha ndaikatúi emohenda { -brand-short-name } rupive.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
