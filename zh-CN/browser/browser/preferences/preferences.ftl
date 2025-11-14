@@ -669,6 +669,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = 您保存或访问过的网站
 home-prefs-shortcuts-by-option-sponsored =
     .label = 赞助商网站
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
