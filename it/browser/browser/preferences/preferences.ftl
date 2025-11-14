@@ -1187,7 +1187,7 @@ history-remember-description2 =
 history-dontremember-description2 =
     .description = Verranno utilizzate le stesse impostazioni della Navigazione anonima: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.
 history-custom-description =
-    .description = { -brand-short-name } utilizzerà impostazioni personalizzate per la cronologia di navigazione, download, moduli e ricerche.
+    .description = Verranno utilizzate impostazioni personalizzate per la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca.
 history-remember-description = Verranno salvate la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca.
 history-dontremember-description = Verranno utilizzate le stesse impostazioni della Navigazione anonima: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.
 history-private-browsing-permanent =
@@ -1740,4 +1740,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
