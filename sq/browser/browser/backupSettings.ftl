@@ -247,3 +247,5 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Krijuar më { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } në { $machineName }
 backup-file-restore-file-validation-error = Kjo kartelë s’po funksionon. Provoni të përzgjidhni një kartelë tjetër. <a data-l10n-name="restore-problems">Keni ende probleme?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = S’u përzgjodh kartelë

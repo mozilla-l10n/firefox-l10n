@@ -136,6 +136,7 @@ addon-local-install-no-addon-name-error-file-access = Shtesa s’u instalua dot,
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } s’u instalua dot, ngaqë s’është e përputhshme me { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } cenon rregullat e Mozilla-s dhe s’mund të instalohet në { -brand-short-name }.
+addon-install-error-soft-blocked2 = Për { $addonName } ka kufizime dhe s’mund të instalohet në { -brand-short-name }.
 addon-install-error-blocklisted = { $addonName } s’u instalua dot, ngaqë paraqet rrezik të madh për krijim problemesh qëndrueshmërie ose sigurie.
 addon-install-error-soft-blocked = { $addonName } cenon rregullat e Mozilla-s dhe s’mund të instalohet në { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.

@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Le të kopjeruajmë adresat që keni ruajt
 fxa-adoption-addresses-backup-subtitle = Mbroni adresat që keni ruajtur, fjalëkalimet tuaja duke i njëkohësuar me fshehtëzim nëpër pajisjet tuaja.
 fxa-adoption-credit-cards-backup-title = Le të kopjeruajmë metodat tuaja të pagesave
 fxa-adoption-credit-cards-backup-subtitle = Mbroni metodat tuaja të pagesave duke i njëkohësuar me fshehtëzim nëpër pajisjet tuaja.
+fxa-adoption-bookmarks-treatment-backup-title = Le të kopjeruajmë faqerojtësit tuaj
+fxa-adoption-bookmarks-treatment-backup-subtitle = Mbroni faqerojtësit tuaj duke i njëkohësuar me fshehtëzim nëpër pajisjet tuaja.
 fxa-adoption-primary-button-label = Regjistrohuni
 
 ## Protections panel

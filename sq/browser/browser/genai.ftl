@@ -261,3 +261,7 @@ link-preview-setup-faster-next-time = Herës tjetër do t’i shihni më shpejt 
 link-preview-onboarding-button = Shihni një paraparje
 # Onboarding card Close button
 link-preview-onboarding-close = Mbylle
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Ujdisja e parë fare
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Kjo mund të dojë një çast. Do të shihni më shpejt pika kyçe herën pasuese.
