@@ -220,6 +220,9 @@ backup-file-moz-browser-restore-step-2 = Eikutu “Marandurenda ykekoha jeporavo
 backup-file-moz-browser-restore-step-3 = Emoñepyrũjey { -brand-short-name } ojejerurévo ndéve
 backup-file-other-browser-restore-step-1 = Emboguejy ha emohenda { -brand-short-name }
 backup-file-download-moz-browser-button = Mboguejy
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Eike { -brand-short-name }, eipe’a tembiporu’i poravorã ☰ ha eho Ñemoĩporãme > Ñembojuehe
 backup-file-other-browser-restore-step-3 = Eikutu “Marandurenda ykekoha jeporavo” ha eiporavo ko marandurenda
 backup-file-other-browser-restore-step-4 = Emoñepyrũjey { -brand-short-name } ojejerurévo ndéve
 
@@ -227,5 +230,9 @@ backup-file-other-browser-restore-step-4 = Emoñepyrũjey { -brand-short-name } 
 ## These pages guide the user on browser startup to help them restore a backup
 ## if they have one on their file system.
 
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Oñemoheñói { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { $machineName }-pe
 restore-from-backup-filepicker-input =
     .placeholder = Ndaipóri marandurenda poravopyre
