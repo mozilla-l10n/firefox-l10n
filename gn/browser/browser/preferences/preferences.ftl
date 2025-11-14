@@ -672,6 +672,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Tenda eñongatúva térã eikeha
 home-prefs-shortcuts-by-option-sponsored =
     .label = Jeike pya’eha jehepyme’ẽpyre
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -717,6 +719,12 @@ home-prefs-weather-learn-more-link = Eikuaave
 home-prefs-trending-search-header =
     .label = Jeheka ojejapovéva
 home-prefs-trending-search-description = Umi téma ojeguerohory ha ojehekavéva
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Tysyieta
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Aravojere
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Eipytyvõ { -brand-product-name }
