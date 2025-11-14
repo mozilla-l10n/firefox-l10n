@@ -188,6 +188,7 @@ disable-backup-encryption-confirm-button = Emboguete ñe’ẽñemi
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = Ne ñe’ẽñemi ndohupytýi umi mba’e ojejeruréva. Ikatúpa eha’ã ambuévape.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
