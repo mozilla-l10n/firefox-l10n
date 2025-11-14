@@ -673,6 +673,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
 home-prefs-shortcuts-by-option-sponsored =
     .label = მალსახმობები დამკვეთებისგან
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -718,6 +720,12 @@ home-prefs-weather-learn-more-link = ვრცლად
 home-prefs-trending-search-header =
     .label = ხშირად მოძიებული
 home-prefs-trending-search-description = ფართოდ გავრცელებული და ხშირად მოძიებული
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = სიები
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = წამმზომი
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = თანადგომა – { -brand-product-name }
