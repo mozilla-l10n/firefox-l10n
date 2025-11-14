@@ -673,6 +673,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Kaydettiğiniz veya ziyaret ettiğiniz siteler
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorlu kısayollar
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -718,6 +720,12 @@ home-prefs-weather-learn-more-link = Daha fazla bilgi al
 home-prefs-trending-search-header =
     .label = Gündemdeki aramalar
 home-prefs-trending-search-description = Popüler ve sıkça aranan konular
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listeler
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Sayaç
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } tarayıcısını destekleyin
