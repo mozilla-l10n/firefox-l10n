@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ٱووردن برچسب
+pocket-panel-saved-error-generic = ختایی مجال قپ ریت سی زفت کردن من { -pocket-brand-name } پؽش ٱووڌه.
 pocket-panel-saved-error-tag-length = برچسبا مئدۊدیت 25 هرفی ن دارن
 pocket-panel-saved-error-only-links = تینا لینکا ترن زفت بۊون
 pocket-panel-saved-error-not-saved = بلگه زفت نوابیڌه
@@ -46,6 +47,8 @@ pocket-panel-signup-cta-a-fix = دویمه زفت کردن ایسا سی این�
 pocket-panel-home-welcome-back = خش ٱوۊڌین
 pocket-panel-home-discover-more = قلوه بنیرین
 pocket-panel-home-explore-more = جوستن
+pocket-panel-home-most-recent-saves-loading = زفت کردنا دیندایی هونی بار ونی ابۊن…
+pocket-panel-home-new-user-cta = سی زفت مقاله یل، ویدیو یل وو لینگا، ری دویمه { -pocket-brand-name } کیلیک کۊنین.
 pocket-panel-home-new-user-message = زفت کردنا دیندایی خوته ایچونا بنیر.
 
 ## Pocket panel header component
@@ -56,4 +59,5 @@ pocket-panel-header-sign-in = و من ٱووڌن
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = نشووݩ داڌن پوی
+pocket-panel-button-activate = فعال کردن { -pocket-brand-name } من { -brand-product-name }
 pocket-panel-button-remove = پاک کردن

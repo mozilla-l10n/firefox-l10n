@@ -375,6 +375,21 @@ about-logins-import-report-no-change =
         [one] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌن تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابین)</div>
        *[other] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌن تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابین)</div>
     }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">رزما نۊ ٱوورده وابین</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">رزما نۊ ٱوورده وابین</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌنای مووجۊد ورۊ رسۊوی وابین</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌنای مووجۊد ورۊ رسۊوی وابین</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌنای تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابی)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌنای تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابی)</div>
+    }
 about-logins-import-report-error =
     { $count ->
         [one] <span>ختایل:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابین)</span>
