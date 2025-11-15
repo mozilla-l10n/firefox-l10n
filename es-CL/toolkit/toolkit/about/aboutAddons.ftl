@@ -275,6 +275,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } ha actualizado su colección de combinaciones de colores. Hemos eliminado la versión anterior de tu lista de "Temas guardados". Obtén las nuevas versiones en el sitio de complementos.
 colorway-removal-notice-learn-more = Más información
 colorway-removal-notice-button = Obtén temas de combinaciones de colores actualizados
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = La configuración de contraste de Windows está anulando los temas de { -brand-short-name }. Desactiva esta configuración para usar los temas de { -brand-short-name }.
 privacy-policy = Política de privacidad
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -517,6 +521,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Más información
 details-notification-blocked = { $name } ha sido deshabilitado debido a problemas de seguridad o estabilidad.
 details-notification-blocked-link2 = Ver detalles
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Esta extensión está restringida y ha sido desactivada. Puedes activarla, pero esto podría ser arriesgado.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Esta extensión está restringida. Su uso puede ser arriesgado.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Este complemento está restringido y ha sido desactivado. Puedes activarlo, pero esto podría ser arriesgado.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Este complemento está restringido. Su uso puede ser arriesgado.
 details-notification-soft-blocked-extension-disabled =
     .message = Esta extensión está restringida por violar las políticas de Mozilla y ha sido deshabilitada. La puedes habilitar, pero podría ser riesgoso.
 details-notification-soft-blocked-extension-enabled =

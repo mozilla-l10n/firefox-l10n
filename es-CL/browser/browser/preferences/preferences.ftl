@@ -113,6 +113,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Para activar la extensión ve a <img data-l10n-name="addons-icon"/>Complementos en el <img data-l10n-name="menu-icon"/> menú.
+extension-controlled-enable-2 = Para volver a habilitar esta extensión, visita <a data-l10n-name="addons-link">Extensiones y temas</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } controla algunos de los ajustes de tu página de inicio.
@@ -672,6 +673,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sitios que guardas o visitas
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atajos patrocinados
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -717,6 +720,12 @@ home-prefs-weather-learn-more-link = Aprender más
 home-prefs-trending-search-header =
     .label = Tendencias de búsquedas
 home-prefs-trending-search-description = Temas populares y buscados con frecuencia
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporizador
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Apoyar a { -brand-product-name }
@@ -1177,6 +1186,8 @@ history-remember-description2 =
     .description = { -brand-short-name } recordará su historial de navegación, descargas, formularios y de búsquedas.
 history-dontremember-description2 =
     .description = { -brand-short-name } usará las mismas configuraciones que la navegación privada, y no recordará historial alguno de páginas que visites.
+history-custom-description =
+    .description = { -brand-short-name } usará ajustes personalizados para navegación, descargas, formularios y de búsquedas.
 history-remember-description = { -brand-short-name } recordará su historial de navegación, descargas, formularios y de búsquedas.
 history-dontremember-description = { -brand-short-name } usará las mismas configuraciones que la navegación privada, y no recordará historial alguno de páginas que visites.
 history-private-browsing-permanent =

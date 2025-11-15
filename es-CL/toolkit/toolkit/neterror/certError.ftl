@@ -107,6 +107,12 @@ fp-cert-error-code = Código de error: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } no confía en { $hostname } porque no pudo demostrar que cumpla con los requisitos de transparencia del certificado público.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Probablemente nada, ya que es posible que haya un problema con el sitio en sí.
 fp-learn-more-about-secure-connection-failures = Obtén más información acerca de las fallas de conexión segura
 fp-learn-more-about-cert-issues = Obtén más información acerca de este tipo de problemas de certificados.
 fp-learn-more-about-time-related-errors = Obtén más información acerca de cómo solucionar errores relacionados con el tiempo
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Ocultar avanzado
 fp-certerror-override-exception-button = Proceder a { $hostname } (riesgoso)
 fp-certerror-intro = { -brand-short-name } detectó un problema de seguridad potencialmente grave con <strong>{ $hostname }</strong>. Alguien que se haga pasar por el sitio podría intentar robar información como tarjetas de crédito, contraseñas o correos electrónicos.
 fp-certerror-expired-into = { -brand-short-name } detectó un problema de seguridad con <strong>{ $hostname }</strong>. O bien el sitio no está configurado correctamente o el reloj de tu dispositivo está configurado con una fecha y hora incorrectas.
+fp-certerror-transparency-intro = Alguien que se haga pasar por <strong>{ $hostname }</strong> podría intentar robar información como datos de tarjetas de crédito, contraseñas o correos electrónicos.
