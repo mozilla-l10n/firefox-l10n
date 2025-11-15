@@ -65,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Μάθετε περισσ�
 unified-extensions-mb-about-addons-link = Μετάβαση στις ρυθμίσεις επέκτασης
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = Το { $extensionName } απενεργοποιήθηκε
+    .message =
+        Αυτή η επέκταση είναι περιορισμένη και έχει απενεργοποιηθεί.
+        Μπορείτε να την ενεργοποιήσετε στις ρυθμίσεις, αλλά αυτό ενδέχεται να είναι επικίνδυνο.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = Το { $extensionName } απενεργοποιήθηκε
     .message =
@@ -75,6 +82,16 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = Το { $extensionName } απενεργοποιήθηκε
     .message = Αυτή η επέκταση παραβιάζει τις πολιτικές της Mozilla και έχει απενεργοποιηθεί.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+           *[other] Απενεργοποιήθηκαν { $extensionsCount } επεκτάσεις
+        }
+    .message =
+        Ορισμένες από τις επεκτάσεις σας είναι περιορισμένες και έχουν απενεργοποιηθεί.
+        Μπορείτε να τις ενεργοποιήσετε στις ρυθμίσεις, αλλά αυτό ενδέχεται να είναι επικίνδυνο.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
