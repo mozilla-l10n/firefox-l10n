@@ -11,6 +11,15 @@
 unified-extensions-header-title = Розширення
 unified-extensions-manage-extensions =
     .label = Керувати розширеннями
+unified-extensions-discover-extensions =
+    .label = Відкрийте для себе розширення
+unified-extensions-empty-reason-private-browsing-not-allowed = У вас установлені розширення, але вони не ввімкнені в приватних вікнах
+unified-extensions-empty-reason-extension-not-enabled = У вас установлені, але не ввімкнені розширення
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Перейдіть на новий рівень перегляду з розширеннями
+unified-extensions-empty-content-explain-enable2 = Виберіть “{ unified-extensions-manage-extensions.label }”, щоб увімкнути їх у налаштуваннях.
+unified-extensions-empty-content-explain-manage2 = Виберіть “{ unified-extensions-manage-extensions.label }”, щоб керувати ними в налаштуваннях.
+unified-extensions-empty-content-explain-extensions-onboarding = Персоналізуйте { -brand-short-name }, змінивши його вигляд і продуктивність, а також вдосконаливши приватність і безпеку.
 
 ## An extension in the main list
 
@@ -85,3 +94,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[many] { $extensionsCount } розширень вимкнено
         }
     .message = Деякі з ваших розширень вимкнено, оскільки вони порушують політики Mozilla.
+unified-extensions-notice-safe-mode =
+    .message = Усі розширення вимкнено, оскільки ви в режимі усунення проблем.
