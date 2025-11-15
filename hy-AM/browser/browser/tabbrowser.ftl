@@ -153,16 +153,16 @@ tabbrowser-confirm-open-multiple-tabs-title = Հաստատել բացումը
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
-       *[other] Դուք պատրաստվում եք բացել { $tabCount } ներդիր։  Դա կարող է դանդաղեցնել { -brand-short-name }-ը էջերը բեռնելիս։ Շարունակե՞լ։
+       *[other] Դուք պատրաստվում եք բացել { $tabCount } ներդիր։ Այն կարող է դանդաղեցնել { -brand-short-name }-ը էջերի բեռնման ընթացքում։ Դուք վստա՞հ եք, որ ցանկանում եք շարունակել։
     }
 tabbrowser-confirm-open-multiple-tabs-button = Բացել ներդիրները
-tabbrowser-confirm-open-multiple-tabs-checkbox = Զգուշացնել բազմակի ներդիրների բացման պարագայում, որոնք կարող են դանդաղեցնել { -brand-short-name }-ը
+tabbrowser-confirm-open-multiple-tabs-checkbox = Զգուշացնել ինձ, երբ բազում ներդիրներ բացելը կարող է դանդաղեցնել { -brand-short-name }-ը
 
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = Ակտիվ կուրսոր
 tabbrowser-confirm-caretbrowsing-message = F7 կոճակի սեղմումը անջատում կամ միացնում է ակտիվ կուրսորը: Այսյուրահատկությունը դնում է շարժական կուրսոր վեբ էջերում՝ հնարավորություն տալով ընտրել տեքստը ստեղնաշարով: Դուք ցանկանո՞ւմ եք ակտիվացնել այն:
-tabbrowser-confirm-caretbrowsing-checkbox = Այլևս չույց չտալ այս պատուհանը
+tabbrowser-confirm-caretbrowsing-checkbox = Այլևս ցույց չտալ ինձ այս երկխոսության արկղը։
 
 ## Confirmation dialog for closing all duplicate tabs
 
@@ -214,10 +214,10 @@ tabbrowser-manager-close-tab =
 # not include "deleted" tab groups (see tab-group-editor-action-delete).
 tabbrowser-manager-closed-tab-group =
     .label = { $tabGroupName }
-    .tooltiptext = { $tabGroupName } — փակված
+    .tooltiptext = { $tabGroupName }․ փակված
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
-    .tooltiptext = { $tabGroupName } — ընթացիկ պատուհան
+    .tooltiptext = { $tabGroupName }․ ընթացիկ պատուհան
 
 ##
 

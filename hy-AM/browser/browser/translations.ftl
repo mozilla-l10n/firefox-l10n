@@ -22,7 +22,7 @@ urlbar-translations-button-intro =
 #   $fromLanguage (string) - The original language of the document.
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
-    .tooltiptext = Էջը թարգմանվել է { $fromLanguage }-ից { $toLanguage }
+    .tooltiptext = Էջը թարգմանվեց { $fromLanguage }ից { $toLanguage }
 urlbar-translations-button-loading =
     .tooltiptext = Թարգմանությունն ընթացքի մեջ է
 translations-panel-settings-button =

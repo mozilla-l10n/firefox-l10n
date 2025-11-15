@@ -85,18 +85,18 @@ detail-check-for-updates =
 detail-show-preferences =
     .label =
         { PLATFORM() ->
-            [windows] Կարգավորումներ
-           *[other] Նախընտրանքներ
+            [windows] Ընտրանքներ
+           *[other] Նախապատվություններ
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] Կ
+            [windows] Ը
            *[other] Ն
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] Կարգավորել այս հավելումը
-           *[other] Փոփոխել այս հավելման նախընտրանքները
+            [windows] Փոխել այս հավելման ընտրանքները
+           *[other] Փոխել այս հավելման նախապատվությունները
         }
 detail-rating =
     .value = Վարկանիշ
@@ -309,7 +309,7 @@ extension-enable-addon-button-label =
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Ընտրանքներ
-       *[other] Նախընտրություններ
+       *[other] Նախապատվություններ
     }
 details-addon-button = Մանրամասներ
 release-notes-addon-button = Թողարկման նշումներ
@@ -442,9 +442,9 @@ extension-heading = Կառավարեք ձեր ընդարձակումները
 theme-heading = Կառավարեք ձեր հիմնապատկերները
 plugin-heading = Կառավարեք ձեր ընդլայնումները
 dictionary-heading = Կառավարեք ձեր բառարանները
-locale-heading = Կառավարեք ձեր լեզուները
-updates-heading = Կառավարեք ձեր թարմացումները
-sitepermission-heading = Կառավարեք կայքի թույլտվությունները
+locale-heading = Կառավարել Ձեր լեզուները
+updates-heading = Կառավարել Ձեր թարմացումները
+sitepermission-heading = Կառավարել կայքի Ձեր թույլտվությունները
 discover-heading = Անհատականացրեք ձեր { -brand-short-name }-ը
 shortcuts-heading = Կառավարել ընդլայնման դյուրացումները
 default-heading-search-label = Ավելի շատ հավելումներ
