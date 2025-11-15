@@ -32,3 +32,7 @@ about-private-browsing-search-banner-close-button =
     .aria-label = بستن
 about-private-browsing-promo-close-button =
     .title = بستن
+
+## Strings used in a promotion message for cookie banner reduction
+
+about-private-browsing-cookie-banners-promo-button = کم کردن بنرا کۊکی
