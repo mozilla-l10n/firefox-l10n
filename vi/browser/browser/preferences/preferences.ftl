@@ -661,6 +661,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Các trang web bạn lưu hoặc truy cập
 home-prefs-shortcuts-by-option-sponsored =
     .label = Các lối tắt được tài trợ
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -706,6 +708,12 @@ home-prefs-weather-learn-more-link = Tìm hiểu thêm
 home-prefs-trending-search-header =
     .label = Tìm kiếm thịnh hành
 home-prefs-trending-search-description = Các chủ đề phổ biến và được tìm kiếm thường xuyên
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Danh sách
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Bộ hẹn giờ
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Hỗ trợ cho { -brand-product-name }
@@ -1162,6 +1170,8 @@ history-remember-description2 =
     .description = { -brand-short-name } sẽ ghi nhớ lịch sử duyệt web, tải xuống, biểu mẫu và tìm kiếm của bạn.
 history-dontremember-description2 =
     .description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lịch sử khi bạn duyệt Web.
+history-custom-description =
+    .description = { -brand-short-name } sẽ sử dụng các thiết lập tùy chỉnh cho lịch sử duyệt, tải xuống, biểu mẫu và tìm kiếm của bạn.
 history-remember-description = { -brand-short-name } sẽ ghi nhớ lịch sử duyệt web, tải xuống, biểu mẫu và tìm kiếm của bạn.
 history-dontremember-description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lịch sử khi bạn duyệt Web.
 history-private-browsing-permanent =

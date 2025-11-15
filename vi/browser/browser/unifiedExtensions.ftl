@@ -32,7 +32,10 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Quản lý tiện ích
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } vi phạm chính sách của Mozilla. Sử dụng nó có thể có rủi ro.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } bị hạn chế. Sử dụng nó có thể tiềm ẩn rủi ro.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } vi phạm chính sách của Mozilla. Sử dụng nó có thể tiềm ẩn rủi ro.
 
 ## Extension's context menu
 
@@ -62,11 +65,18 @@ unified-extensions-mb-quarantined-domain-learn-more = Tìm hiểu thêm
 unified-extensions-mb-about-addons-link = Đi đến cài đặt tiện ích mở rộng
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } đã bị vô hiệu hoá
+    .message =
+        Tiện ích mở rộng này bị hạn chế và đã bị vô hiệu hóa.
+        Bạn có thể bật tiện ích này trong phần cài đặt, nhưng điều này có thể tiềm ẩn rủi ro.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } đã bị tắt
+    .heading = { $extensionName } đã bị vô hiệu hoá
     .message =
         Tiện ích mở rộng này vi phạm chính sách của Mozilla và đã bị vô hiệu hóa.
-        Bạn có thể kích hoạt nó trong cài đặt, nhưng điều này có thể có rủi ro.
+        Bạn có thể bật nó trong cài đặt, nhưng điều này có thể có rủi ro.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
@@ -74,10 +84,20 @@ unified-extensions-mb-blocklist-error-single =
     .message = Tiện ích mở rộng này vi phạm chính sách của Mozilla và đã bị vô hiệu hóa.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } tiện ích mở rộng đã bị vô hiệu hóa
+        }
+    .message =
+        Một số tiện ích mở rộng của bạn bị hạn chế và đã bị vô hiệu hóa.
+        Bạn có thể bật chúng trong phần cài đặt, nhưng điều này có thể tiềm ẩn rủi ro.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
     .heading =
         { $extensionsCount ->
-           *[other] { $extensionsCount } tiện ích mở rộng đã bị tắt
+           *[other] { $extensionsCount } tiện ích mở rộng đã bị vô hiệu hoá
         }
     .message =
         Một số tiện ích mở rộng của bạn đã bị vô hiệu hóa do vi phạm chính sách của Mozilla.
