@@ -716,6 +716,12 @@ home-prefs-weather-learn-more-link = 详细了解
 home-prefs-trending-search-header =
     .label = 热门搜索
 home-prefs-trending-search-description = 流行及常搜主题
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = 清单
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = 计时器
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = 支持 { -brand-product-name }
@@ -1172,6 +1178,8 @@ history-remember-description2 =
     .description = { -brand-short-name } 将记住您的浏览、下载、表单和搜索记录。
 history-dontremember-description2 =
     .description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
+history-custom-description =
+    .description = { -brand-short-name } 将使用自定义设置处理您的浏览、下载、表单和搜索记录。
 history-remember-description = { -brand-short-name } 将记住您的浏览、下载、表单和搜索记录。
 history-dontremember-description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
 history-private-browsing-permanent =

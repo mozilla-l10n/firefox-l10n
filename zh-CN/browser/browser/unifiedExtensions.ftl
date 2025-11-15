@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = 管理扩展
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = “{ $extensionName }”已受限，继续使用可能存在风险。
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = “{ $extensionName }”违反了 Mozilla 的政策，使用时可能存在风险。
 
 ## Extension's context menu
@@ -62,6 +65,11 @@ unified-extensions-mb-quarantined-domain-learn-more = 详细了解
 unified-extensions-mb-about-addons-link = 前往扩展设置
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = “{ $extensionName }”已被禁用
+    .message = 此扩展受到限制且已被禁用。您可以在设置中启用，但可能存在风险。
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = “{ $extensionName }”已被禁用
     .message =
@@ -72,6 +80,11 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = “{ $extensionName }”已被禁用
     .message = 此扩展违反了 Mozilla 的政策，已被禁用。
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading = { $extensionsCount } 个扩展已被禁用
+    .message = 您安装的某些扩展受到限制且已被禁用。您可以在设置中启用，但可能存在风险。
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
