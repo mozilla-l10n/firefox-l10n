@@ -294,6 +294,10 @@ appmenuitem-services-relay-description = Відкрити панель масо�
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Захистіть свою онлайн-діяльність
 appmenu-services-header = Мої послуги
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Спробуйте інші інструменти захисту від Mozilla:
 appmenu-other-protection-header = Спробуйте інші інструменти захисту від { -vendor-short-name }:
 
 ## Profiles panel
@@ -301,6 +305,8 @@ appmenu-other-protection-header = Спробуйте інші інструмен
 appmenu-other-profiles = Інші профілі
 appmenu-manage-profiles =
     .label = Керувати профілями
+appmenu-copy-profile =
+    .label = Скопіювати цей профіль
 appmenu-create-profile =
     .label = Новий профіль
 appmenu-edit-profile =
