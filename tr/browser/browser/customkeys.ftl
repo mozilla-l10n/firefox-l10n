@@ -2,11 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+customkeys-title = Klavye Kısayolları
+customkeys-search = Arama:
 customkeys-change = Değiştir
 customkeys-reset = Sıfırla
 customkeys-clear = Temizle
 customkeys-new-key = Yeni tuşa basın:
 customkeys-reset-all = Tüm kısayolları varsayılana sıfırla
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Bu tuş zaten { $conflict } kısayoluna atanmış. Değiştirmek istiyor musunuz?
 customkeys-reset-all-confirm = Tüm klavye kısayollarını varsayılanlarına sıfırlamak istediğinizden emin misiniz?
 customkeys-history-reopen-tab = Son kapatılan sekmeyi yeniden aç
 customkeys-history-reopen-window = Son kapatılan pencereyi yeniden aç
@@ -25,6 +30,7 @@ customkeys-dev-profiler-capture = Performans profili yakala
 customkeys-category-navigation = Gezinme
 customkeys-nav-back = Geri
 customkeys-nav-forward = İleri
+customkeys-nav-home = Başlangıç
 customkeys-nav-reload = Tazele
 customkeys-nav-stop = Durdur
 customkeys-caution-message = Bu özellik deneyseldir ve beklendiği gibi çalışmayabilir.
