@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = ر وندن دووارته لازوم هڌ
+restart-required-heading = سی و کار گرؽڌن { -brand-short-name } ز نۊ رس ونین
 restart-button-label = ر وندن دووارته { -brand-short-name }
