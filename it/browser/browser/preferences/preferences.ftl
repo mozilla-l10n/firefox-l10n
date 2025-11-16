@@ -60,6 +60,7 @@ pane-experimental-description2 = La modifica delle impostazioni avanzate di conf
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Prova le nostre funzioni sperimentali. Sono in fase di sviluppo e in continua evoluzione, quindi potrebbero influire sul funzionamento di { -brand-short-name }. Riceviamo informazioni sul tuo utilizzo di queste funzioni solo se hai attivato l’invio di <a data-l10n-name="data-collection">dati tecnici e di interazione</a>.
 pane-experimental-description3 = Prova le nostre funzioni sperimentali. Sono in fase di sviluppo e in continua evoluzione, e questo potrebbe influire sul funzionamento di { -brand-short-name }.
 pane-experimental-reset =
     .label = Ripristina predefiniti
