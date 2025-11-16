@@ -480,6 +480,7 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Гузариш ба Ф
 newtab-weather-menu-change-temperature-units-celsius = Гузариш ба Селсий
 newtab-weather-menu-hide-weather = Нинҳон кардани обу ҳаво дар варақаи нав
 newtab-weather-menu-learn-more = Маълумоти бештар
+newtab-weather-menu-detect-my-location = Ҷойгиршавии маро муайян кунед
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Айни ҳол маълумот дар бораи обу ҳаво дастнорас аст.
 newtab-weather-opt-in-not-now =
