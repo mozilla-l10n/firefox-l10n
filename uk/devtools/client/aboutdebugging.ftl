@@ -181,7 +181,7 @@ about-debugging-runtime-processes =
     .name = Процеси
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button2 = Профіль швидкодії
+about-debugging-runtime-profile-button2 = Профіль продуктивності
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible

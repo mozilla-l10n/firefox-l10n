@@ -267,11 +267,11 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Розширення і теми - це невеличкі додатки для вашого браузера, які дозволяють
+    Розширення і теми – це додатки для вашого браузера, за допомогою яких можна
     захищати паролі, завантажувати відео, знаходити пропозиції, блокувати рекламу,
-    змінювати зовнішній вигляд браузера та багато іншого. Ці невеликі програми часто
-    розробляються сторонніми організаціями.
-    Ось декілька <a data-l10n-name="learn-more-trigger">рекомендацій</a> від { -brand-product-name } для виняткової безпеки, швидкодії та функціональності.
+    змінювати зовнішній вигляд браузера та багато іншого. Ці невеликі програми зазвичай
+    розробляються сторонніми розробниками.
+    Ось декілька <a data-l10n-name="learn-more-trigger">рекомендацій</a> від { -brand-product-name } для виняткової безпеки, продуктивності та функціональності.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Деякі з цих рекомендацій персоналізовані. Вони базуються на ваших вже встановлених розширеннях, налаштуваннях профілю і статистиці використання.
 # Notice to make user aware that the recommendations are personalized.
@@ -437,7 +437,7 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } рекомендує лише розширення, що задовольняють наші стандарти безпеки та швидкодії
+    .title = { -brand-product-name } рекомендує лише розширення, які відповідають нашим стандартам безпеки та продуктивності
     .aria-label = { addon-badge-recommended2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
@@ -445,7 +445,7 @@ addon-badge-line3 =
     .title = Офіційне розширення, створене Mozilla. Відповідає стандартам безпеки та продуктивності.
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
-    .title = Це розширення перевірено на відповідність нашим стандартам безпеки та швидкодії.
+    .title = Це розширення перевірено на відповідність нашим стандартам безпеки та продуктивності.
     .aria-label = { addon-badge-verified2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".

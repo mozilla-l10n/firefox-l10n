@@ -7,7 +7,7 @@
 
 # Tooltip for the performance button in the status bar
 network-menu-summary-tooltip-perf =
-    .title = Почати аналіз швидкодії
+    .title = Розпочати аналіз продуктивності
 network-menu-summary-tooltip-domcontentloaded =
     .title = Час, коли відбулася подія “DOMContentLoaded”
 network-menu-summary-tooltip-load =

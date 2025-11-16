@@ -56,7 +56,7 @@ category-experimental =
     .tooltiptext = Експерименти { -brand-short-name }
 pane-experimental-subtitle = Продовжуйте обережно
 pane-experimental-search-results-header = Експерименти { -brand-short-name }: Продовжуйте з обережністю
-pane-experimental-description2 = Зміна розширених налаштувань може вплинути на швидкодію і безпеку { -brand-short-name }.
+pane-experimental-description2 = Зміна розширених налаштувань може вплинути на продуктивність і безпеку { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
@@ -476,7 +476,7 @@ play-drm-content =
     .accesskey = ю
 play-drm-content-learn-more = Докладніше
 update-application-title = Оновлення { -brand-short-name }
-update-application-description = Використовуйте найновішу версію { -brand-short-name } для найкращої швидкодії, стабільності й безпеки.
+update-application-description = Використовуйте найновішу версію { -brand-short-name } для найкращої продуктивності, стабільності й безпеки.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Версія { $version } <a data-l10n-name="learn-more">Що нового</a>
@@ -521,9 +521,9 @@ update-in-progress-cancel-button = &Продовжити
 
 ## General Section - Performance
 
-performance-title = Швидкодія
+performance-title = Продуктивність
 performance-use-recommended-settings-checkbox =
-    .label = Використовувати рекомендовані налаштування швидкодії
+    .label = Використовувати рекомендовані налаштування продуктивності
     .accesskey = е
 performance-use-recommended-settings-desc = Ці налаштування підібрані для вашого комп'ютера й операційної системи.
 performance-settings-learn-more = Докладніше
@@ -1329,7 +1329,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-etp-standard-desc = Збалансований захист і швидкодія. Сторінки завантажуватимуться нормально.
+content-blocking-etp-standard-desc = Збалансований захист і продуктивність. Сторінки завантажуватимуться нормально.
 content-blocking-etp-strict-desc = Надійніший захист, але може пошкоджувати деякі сайти чи їх вміст.
 content-blocking-etp-custom-desc = Оберіть тип стеження і скриптів для блокування.
 content-blocking-etp-blocking-desc = { -brand-short-name } блокує таке:

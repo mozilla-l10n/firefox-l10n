@@ -70,7 +70,7 @@ app-basics-os-theme = Тема ОС
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Перекладено Rosetta
 app-basics-memory-use = Використання пам'яті
-app-basics-performance = Швидкодія
+app-basics-performance = Продуктивність
 app-basics-service-workers = Зареєстровані Service Workers
 app-basics-third-party = Сторонні модулі
 app-basics-profiles = Профілі

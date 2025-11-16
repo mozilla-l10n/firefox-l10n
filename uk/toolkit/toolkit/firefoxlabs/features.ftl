@@ -10,7 +10,7 @@ experimental-features-media-jxl-description = Увімкнення цієї фу
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
-experimental-features-js-warp-description = Увімкнути Warp - проєкт для вдосконалення швидкодії та використання пам'яті JavaScript.
+experimental-features-js-warp-description = Увімкнути Warp – проєкт для вдосконалення продуктивності та використання пам'яті JavaScript.
 # Search during IME
 experimental-features-ime-search =
     .label = Панель адреси: показувати результати під час складання IME
