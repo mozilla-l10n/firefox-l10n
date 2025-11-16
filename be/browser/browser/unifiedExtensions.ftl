@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Кіраваць пашырэннем
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } абмежаванае. Яго выкарыстанне можа быць рызыкоўным.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } парушае палітыку Mozilla. Яго выкарыстанне можа быць рызыкоўным.
 
 ## Extension's context menu
@@ -62,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Даведацца бол�
 unified-extensions-mb-about-addons-link = Перайсці ў налады пашырэння
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } адключана
+    .message =
+        Гэта пашырэнне абмежаванае і было адключана.
+        Вы можаце ўключыць яго ў наладах, але гэта можа быць рызыкоўна.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } адключана
     .message =
@@ -72,6 +82,18 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } адключана
     .message = Гэта пашырэнне парушае палітыку Mozilla і было адключана.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } пашырэнне адключана
+            [few] { $extensionsCount } пашырэнні адключана
+           *[many] { $extensionsCount } пашырэнняў адключана
+        }
+    .message =
+        Некаторыя з вашых пашырэнняў абмежаваныя і былі адключаны.
+        Вы можаце ўключыць іх у наладах, але гэта можа быць рызыкоўна.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
