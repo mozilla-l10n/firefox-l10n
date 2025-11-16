@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Hagamos una copia de seguridad de las dire
 fxa-adoption-addresses-backup-subtitle = Proteja sus direcciones guardadas sincronizándolas a sus dispositivos usando cifrado.
 fxa-adoption-credit-cards-backup-title = Hagamos una copia de seguridad de los métodos de pago
 fxa-adoption-credit-cards-backup-subtitle = Proteja sus métodos de pago sincronizándolos a sus dispositivos usando cifrado.
+fxa-adoption-bookmarks-treatment-backup-title = Hagamos una copia de seguridad de los marcadores
+fxa-adoption-bookmarks-treatment-backup-subtitle = Proteja sus marcadores sincronizándolos a sus dispositivos usando cifrado.
 fxa-adoption-primary-button-label = Registrarse
 
 ## Protections panel
