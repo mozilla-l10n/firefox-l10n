@@ -124,6 +124,7 @@ enable-backup-encryption-create-password-label = Passord
 enable-backup-encryption-repeat-password-label = Gjenta passord
 enable-backup-encryption-cancel-button = Avbryt
 enable-backup-encryption-confirm-button = Lagre
+change-backup-encryption-header = Endre passord for sikkerheitskopi
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
@@ -171,3 +172,5 @@ backup-file-download-moz-browser-button = Last ned
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Oppretta den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
 backup-file-restore-file-validation-error = Denne fila fungerer ikkje. Prøv å velje ei anna fil. <a data-l10n-name="restore-problems">Har du framleis problem?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Inga fil vald
