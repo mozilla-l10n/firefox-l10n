@@ -156,6 +156,7 @@ addon-local-install-no-addon-name-error-file-access = Nid oedd modd gosod yr ych
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Nid oedd modd gosod { $addonName } am nad yw'n cydweddu â { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = Mae { $addonName } yn groes i bolisïau Mozilla ac nid oes modd ei osod ar { -brand-short-name }.
+addon-install-error-soft-blocked2 = Mae { $addonName } wedi'i gyfyngu ac nid oes modd ei osod ar { -brand-short-name }.
 addon-install-error-blocklisted = Nid oedd modd gosod { $addonName } am fod risg uchel iddo achosi problemau sefydlogrwydd a diogelwch.
 addon-install-error-soft-blocked = Mae { $addonName } yn groes i bolisïau Mozilla ac nid oes modd ei osod ar { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
