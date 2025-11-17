@@ -84,6 +84,21 @@ unified-extensions-mb-blocklist-error-single =
     .message = Mae'r estyniad hwn yn torri polisïau Mozilla ac mae wedi'i analluogi.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [zero] Does { $extensionsCount } estyniadau wedi'u hanalluogi
+            [one] Mae { $extensionsCount } estyniad wedi'i analluogi
+            [two] Mae { $extensionsCount } estyniad wedi'u hanalluogi
+            [few] Mae { $extensionsCount } estyniad wedi'u hanalluogi
+            [many] Mae { $extensionsCount } estyniad wedi'u hanalluogi
+           *[other] Mae { $extensionsCount } estyniad wedi'u hanalluogi
+        }
+    .message =
+        Mae'r estyniad wedi ei gyfyngu ac wedi ei analluogi.
+        Gallwch ei alluogi yn y gosodiadau, ond gall bynny fod yn beryglus.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
     .heading =
         { $extensionsCount ->
