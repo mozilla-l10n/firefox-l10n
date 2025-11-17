@@ -1532,6 +1532,8 @@ permissions-notification-link = Ulteriori informazioni
 permissions-notification-pause =
     .label = Sospendi notifiche fino al riavvio di { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Riproduzione automatica
 permissions-autoplay = Riproduzione automatica
 permissions-autoplay-settings =
     .label = Impostazioni…
@@ -1554,6 +1556,10 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Eccezioni…
     .accesskey = E
+permissions-location2 =
+    .label = Posizione
+permissions-notification2 =
+    .label = Notifiche
 
 ## Privacy Section - Data Collection
 
