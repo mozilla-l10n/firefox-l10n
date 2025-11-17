@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Rheoli estyniadau
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = Mae { $extensionName } wedi'i gyfyngu. Gall fod yn beryglus ei ddefnyddio.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = Mae { $extensionName } yn groes i bolisïau Mozilla. Gall fod yn beryglus ei ddefnyddio.
 
 ## Extension's context menu
@@ -60,6 +63,13 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Darllen rhagor
     .aria-label = Darllen rhagor: Nid yw rhai estyniadau'n cael eu caniatáu
 unified-extensions-mb-about-addons-link = Mynd i osodiadau estyniadau
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = Mae { $extensionName } wedi'i analluogi
+    .message =
+        Mae'r estyniad wedi ei gyfyngu ac wedi ei analluogi.
+        Gallwch ei alluogi yn y gosodiadau, ond gall bynny fod yn beryglus.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
