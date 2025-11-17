@@ -1558,6 +1558,16 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = Posizione
+permissions-localhost2 =
+    .label = App e servizi del dispositivo
+permissions-local-network2 =
+    .label = Dispositivi di rete locale
+permissions-xr2 =
+    .label = Realtà virtuale
+permissions-camera2 =
+    .label = Fotocamera
+permissions-microphone2 =
+    .label = Microfono
 permissions-notification2 =
     .label = Notifiche
 
