@@ -51,9 +51,9 @@ neterror-captive-portal = Du må logge inn på nettverket før du kan kople til 
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Meinte du å gå til <a data-l10n-name="website">{ $hostAndPath }</a>?
 neterror-dns-not-found-hint-header = <strong>Om du har skrive inn rett adresse, kan du:</strong>
-neterror-dns-not-found-hint-try-again = Prøv på nytt seinare
+neterror-dns-not-found-hint-try-again = Prøve på nytt seinare
 neterror-dns-not-found-hint-check-network = Kontrollere nettverkstilkoplinga di
-neterror-dns-not-found-hint-firewall = Kontrollere at { -brand-short-name } har løyve til å kople til nettet (du kan vere tilkopla, men bak ein brannvegg)
+neterror-dns-not-found-hint-firewall = Kontrollere at { -brand-short-name } har løyve til å kople til nettet (du kan vere tilkopla, men bak ein brannmur)
 neterror-dns-not-found-offline-hint-header = <strong>Kva kan du gjere med det?</strong>
 neterror-dns-not-found-offline-hint-different-device = Prøv å kople til på ei anna eining.
 neterror-dns-not-found-offline-hint-modem = Sjekk modemet eller ruteren din.
