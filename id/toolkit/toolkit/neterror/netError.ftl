@@ -175,3 +175,5 @@ neterror-response-status-code = Kode kesalahan: { $responsestatus } { $responses
 fp-neterror-connection-intro = { -brand-short-name } tidak dapat membuat sambungan aman ke server di { $hostname }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Sepertinya situs ini menggunakan perangkat lunak lama dengan masalah keamanan yang diketahui.
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Pastikan Anda menggunakan { -brand-short-name } versi terbaru. Buka Bantuan > Tentang { -brand-short-name } di menu. Jika Anda menggunakan { -brand-short-name } terbaru, kemungkinan besar masalahnya ada pada situs itu sendiri.
