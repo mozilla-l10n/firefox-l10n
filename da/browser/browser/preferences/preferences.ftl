@@ -684,6 +684,9 @@ home-prefs-recommended-by-description-generic = Interessant indhold udvalgt af {
 home-prefs-stories-header =
     .label = Historier
 home-prefs-stories-description = Tilpassede historier baseret på din aktivitet
+home-prefs-stories-header2 =
+    .label = Historier
+    .description = Interessant indhold udvalgt af { -brand-product-name }-holdet
 
 ##
 
