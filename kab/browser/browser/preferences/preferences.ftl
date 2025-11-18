@@ -618,6 +618,9 @@ choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Agbur { -firefox-home-brand-name }
@@ -1388,6 +1391,8 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Tisuraf…
     .accesskey = s
+permissions-local-network2 =
+    .label = Ibenkan n uzeṭṭa adigan
 
 ## Privacy Section - Data Collection
 
