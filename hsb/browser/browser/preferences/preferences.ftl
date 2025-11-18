@@ -693,6 +693,9 @@ home-prefs-recommended-by-description-generic = Wuwzaćowy wobsah, kotryž so p�
 home-prefs-stories-header =
     .label = Stawiznički
 home-prefs-stories-description = Personalizowane stawiznički na zakładźe wašeje aktiwity
+home-prefs-stories-header2 =
+    .label = Stawiznički
+    .description = Wuwzaćowy wobsah, kotryž so přez swójbu { -brand-product-name } hlada
 
 ##
 
