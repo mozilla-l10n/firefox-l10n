@@ -458,6 +458,9 @@ choose-bookmark =
     .label = Gumamit ng Bookmark...
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -884,6 +887,12 @@ sitedata-cookies-exceptions =
     .label = I-manage ang mga Exception…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Address Bar
@@ -1016,6 +1025,8 @@ permissions-notification-link = Alamin
 permissions-notification-pause =
     .label = Itigil pansamantala ang mga notification hanggang sa makapag-restart ang { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Autoplay
 permissions-autoplay = Autoplay
 permissions-autoplay-settings =
     .label = Mga Setting...
@@ -1035,6 +1046,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Mga exception...
     .accesskey = e
+permissions-location2 =
+    .label = Lokasyon
+permissions-xr2 =
+    .label = Virtual Reality
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikropono
+permissions-notification2 =
+    .label = Mga Abiso
 
 ## Privacy Section - Data Collection
 
@@ -1058,6 +1079,9 @@ addon-recommendations-link = Alamin
 collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa build configuration na ito
 privacy-segmentation-radio-on =
     .label = Ipakita ang detalyadong impormasyon
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -1105,6 +1129,9 @@ httpsonly-radio-enabled-pbm =
     .label = I-enable ang HTTPS-Only Mode sa mga private window lamang
 httpsonly-radio-disabled =
     .label = Huwag i-enable ang HTTPS-Only Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
