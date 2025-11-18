@@ -1545,6 +1545,10 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ausnahmen…
     .accesskey = A
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
 
 ## Privacy Section - Data Collection
 
