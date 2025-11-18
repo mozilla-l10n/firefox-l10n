@@ -344,6 +344,8 @@ permissions-block-popups =
 permissions-addon-exceptions =
     .label = Jɨ́aɨmakɨ…
     .accesskey = J
+permissions-notification2 =
+    .label = Ráfue yote
 
 ## Privacy Section - Data Collection
 
