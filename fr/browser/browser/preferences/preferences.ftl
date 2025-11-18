@@ -1558,6 +1558,8 @@ permissions-camera2 =
     .label = Caméra
 permissions-microphone2 =
     .label = Microphone
+permissions-notification2 =
+    .label = Notifications
 
 ## Privacy Section - Data Collection
 
