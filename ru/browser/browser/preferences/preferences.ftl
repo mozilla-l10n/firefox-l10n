@@ -60,6 +60,7 @@ pane-experimental-description2 = Изменение расширенных на�
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Попробуйте наши экспериментальные возможности! Они находятся в разработке и развитии, что может повлиять на работу { -brand-short-name }. Мы получаем данные об использовании вами этих функций, только если у вас включены <a data-l10n-name="data-collection">технические данные и данные о взаимодействии</a>.
 pane-experimental-description3 = Попробуйте наши экспериментальные возможности! Они находятся в разработке и развитии, что может повлиять на работу { -brand-short-name }.
 pane-experimental-reset =
     .label = Восстановить значения по умолчанию
@@ -723,6 +724,8 @@ home-prefs-weather-header =
     .label = Погода
 home-prefs-weather-description = Краткий прогноз на сегодня
 home-prefs-weather-learn-more-link = Подробнее
+home-prefs-widgets-header =
+    .label = Виджеты
 home-prefs-trending-search-header =
     .label = Популярные поисковые запросы
 home-prefs-trending-search-description = Популярные и часто запрашиваемые темы
@@ -737,6 +740,8 @@ home-prefs-support-firefox-header =
     .label = Поддержите { -brand-product-name }
 home-prefs-mission-message = Наши спонсоры поддерживают нашу миссию по построению лучшего Интернета
 home-prefs-mission-message-learn-more-link = Узнать как
+home-prefs-mission-message2 =
+    .message = Наши спонсоры поддерживают нашу миссию по созданию лучшего Интернета.
 home-prefs-manage-topics-link = Управление темами
 home-prefs-choose-wallpaper-link = Выберите обои
 # Variables:
@@ -1542,6 +1547,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Блокировать всплывающие окна и сторонние перенаправления
     .accesskey = И
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Управление исключениями для всплывающих окон и сторонних перенаправлений
+    .accesskey = У
+    .searchkeywords = всплывающие окна
+permissions-addon-install-warning2 =
+    .label = Предупреждать при попытке веб-сайтов установить расширения
+    .accesskey = Ц
+permissions-addon-exceptions2 =
+    .label = Выбрать, какие веб-сайты могут устанавливать расширения
+    .accesskey = У
 permissions-block-popups =
     .label = Блокировать всплывающие окна
     .accesskey = о
@@ -1557,6 +1574,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Исключения…
     .accesskey = с
+permissions-header2 =
+    .label = Разрешения
+    .description = Разрешения, которые вы даёте веб-сайтам при просмотре.
 permissions-location2 =
     .label = Местоположение
 permissions-localhost2 =
@@ -1569,6 +1589,9 @@ permissions-camera2 =
     .label = Камера
 permissions-microphone2 =
     .label = Микрофон
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Динамик
 permissions-notification2 =
     .label = Уведомления
 

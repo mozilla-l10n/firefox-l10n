@@ -392,3 +392,14 @@ tab-context-separate-split-view =
     .label = Разъединить раздельный вид
     .accesskey = е
 tab-context-badge-new = Новый
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Разделить вкладки
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Переставить вкладки
+split-view-menuitem-close-both-tabs =
+    .label = Закрыть обе вкладки
