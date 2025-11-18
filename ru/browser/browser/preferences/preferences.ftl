@@ -1530,6 +1530,8 @@ permissions-notification-link = Подробнее
 permissions-notification-pause =
     .label = Отключить уведомления до перезапуска { -brand-short-name }
     .accesskey = ю
+permissions-autoplay2 =
+    .label = Автовоспроизведение
 permissions-autoplay = Автовоспроизведение
 permissions-autoplay-settings =
     .label = Параметры…
@@ -1560,6 +1562,8 @@ permissions-camera2 =
     .label = Камера
 permissions-microphone2 =
     .label = Микрофон
+permissions-notification2 =
+    .label = Уведомления
 
 ## Privacy Section - Data Collection
 
