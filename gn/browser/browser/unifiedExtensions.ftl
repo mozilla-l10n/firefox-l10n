@@ -13,6 +13,7 @@ unified-extensions-manage-extensions =
     .label = Eñangareko jepysokuére
 unified-extensions-discover-extensions =
     .label = Eikuaa jepysokue
+unified-extensions-empty-reason-private-browsing-not-allowed = Ereko jepysokue mohendapyre, hákatu ndaijurujáiva ovetã ñemiguápe.
 unified-extensions-empty-reason-extension-not-enabled = Ereko jepysokue mohendapyre, hákatu ndaijurujái
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Eikundaha porãve jepysokue ndive
@@ -29,6 +30,9 @@ unified-extensions-empty-content-explain-extensions-onboarding = Embohéra { -br
 unified-extensions-item-open-menu =
     .aria-label = Embojuruja poravorã { $extensionName } peg̃uarã
 unified-extensions-item-message-manage = Eñangareko jepysokuére
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } ojejokohína. Eiporúramo imarãkuaa.
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } omomarã Mozilla porureko. Eiporúramo ikatu noĩporãi.
