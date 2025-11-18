@@ -331,3 +331,11 @@ tab-context-separate-split-view =
     .label = 분할 보기 분리
     .accesskey = t
 tab-context-badge-new = 신규
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = 탭 분할
+split-view-menuitem-close-both-tabs =
+    .label = 양쪽 탭 닫기
