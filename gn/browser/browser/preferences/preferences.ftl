@@ -1546,6 +1546,8 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Oĩ’ỹva…
     .accesskey = E
+permissions-location2 =
+    .label = Tenda
 
 ## Privacy Section - Data Collection
 
