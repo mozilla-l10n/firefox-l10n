@@ -621,6 +621,9 @@ choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = محتوى { -firefox-home-brand-name }
@@ -1351,6 +1354,8 @@ permissions-notification-link = اطّلع على المزيد
 permissions-notification-pause =
     .label = ألبِث التنبيهات حتى يُعاد تشغيل { -brand-short-name }
     .accesskey = ث
+permissions-autoplay2 =
+    .label = التشغيل التلقائي
 permissions-autoplay = التشغيل التلقائي
 permissions-autoplay-settings =
     .label = الإعدادات…
