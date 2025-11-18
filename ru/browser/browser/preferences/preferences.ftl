@@ -1552,6 +1552,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Исключения…
     .accesskey = с
+permissions-location2 =
+    .label = Местоположение
+permissions-xr2 =
+    .label = Виртуальная реальность
+permissions-camera2 =
+    .label = Камера
+permissions-microphone2 =
+    .label = Микрофон
 
 ## Privacy Section - Data Collection
 
