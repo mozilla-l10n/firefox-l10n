@@ -468,6 +468,9 @@ choose-bookmark =
     .label = Utilitza una adreça d'interés…
     .accesskey = z
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -811,6 +814,9 @@ primary-password-os-auth-dialog-message-win = Per crear una contrasenya principa
 primary-password-os-auth-dialog-message-macosx = crear una contrasenya principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historial
@@ -894,6 +900,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1028,6 +1040,8 @@ permissions-notification-link = Més informació
 permissions-notification-pause =
     .label = Posa en pausa les notificacions fins que es reinicie el { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Reproducció automàtica
 permissions-autoplay = Reproducció automàtica
 permissions-autoplay-settings =
     .label = Paràmetres…
@@ -1047,6 +1061,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepcions…
     .accesskey = E
+permissions-location2 =
+    .label = Ubicació
+permissions-xr2 =
+    .label = Realitat virtual
+permissions-camera2 =
+    .label = Càmera
+permissions-microphone2 =
+    .label = Micròfon
+permissions-notification2 =
+    .label = Notificacions
 
 ## Privacy Section - Data Collection
 
@@ -1070,6 +1094,9 @@ addon-recommendations-link = Més informació
 collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'esta versió
 collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-name } envie els informes de fallada pendents automàticament <a data-l10n-name="crash-reports-link">Més informació</a>
     .accesskey = f
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -1119,6 +1146,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activa el mode només HTTPS únicament en les finestres privades
 httpsonly-radio-disabled =
     .label = No activis el mode només HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
