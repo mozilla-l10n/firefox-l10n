@@ -684,6 +684,9 @@ home-prefs-recommended-by-description-generic = Eksterordinara enhavo elektita d
 home-prefs-stories-header =
     .label = Artikoloj
 home-prefs-stories-description = Artikoloj personecigitaj laŭ via retumo
+home-prefs-stories-header2 =
+    .label = Artikoloj
+    .description = Eksterordinara enhavo elektita de la familio de { -brand-product-name }
 
 ##
 
