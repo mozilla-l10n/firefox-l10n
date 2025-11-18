@@ -65,6 +65,11 @@ unified-extensions-mb-quarantined-domain-learn-more = Eikuaave
 unified-extensions-mb-about-addons-link = Eho jepysokue myatyrõhápe
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } mboguepyre
+    .message = Ko jepysokue ojejoko ha oñemboguéma. Emyandykuaa ñembohekópe, hákatu kóva imarãkuaa.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } mboguepyre
     .message =
@@ -75,6 +80,19 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } mboguepyre
     .message = Ko jepysokue omomarã Mozilla porureko ha oñembotýma.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } jepysokue mboguepyre
+           *[other]
+                Oĩ jepysokue ojejokóva ha oñemboguéma.
+                Emyandykuaa ñembohekópe, hákatu kóva imarãkuaa.
+        }
+    .message =
+        Oĩ jepysokue ojejokóva ha oñemboguéma.
+        Emyandykuaa ñembohekópe, hákatu kóva imarãkuaa.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
