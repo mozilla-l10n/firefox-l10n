@@ -236,8 +236,16 @@ backup-file-other-browser-restore-step-4 = Emoñepyrũjey { -brand-short-name } 
 ## if they have one on their file system.
 
 # Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Jehaipy:</b> ambue { $numberOfOtherBackupsFound } marandurenda ñongatu jey juhupyre
+       *[other] <b>Jehaipy:</b> ambue { $numberOfOtherBackupsFound } marandurendaita ñongatu jey juhupyre
+    }
+# Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Oñemoheñói { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { $machineName }-pe
+backup-file-restore-file-validation-error = Ko marandurenda ndoikói. Eñeha’ã eiporavo ambue marandurenda. <a data-l10n-name="restore-problems"> ¿Oĩ gueteri apañuái?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ndaipóri marandurenda poravopyre
