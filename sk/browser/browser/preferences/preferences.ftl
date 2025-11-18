@@ -688,6 +688,9 @@ home-prefs-recommended-by-description-generic = Výnimočný obsah spravovaný r
 home-prefs-stories-header =
     .label = Príbehy
 home-prefs-stories-description = Prispôsobené príbehy na základe vašej aktivity
+home-prefs-stories-header2 =
+    .label = Príbehy
+    .description = Výnimočný obsah spravovaný rodinou { -brand-product-name }
 
 ##
 
@@ -1520,6 +1523,8 @@ permissions-notification-link = Ďalšie informácie
 permissions-notification-pause =
     .label = Pozastaviť upozornenia do reštartu aplikácie { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Automatické prehrávanie
 permissions-autoplay = Automatické prehrávanie
 permissions-autoplay-settings =
     .label = Nastavenia…
@@ -1542,6 +1547,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Výnimky…
     .accesskey = V
+permissions-location2 =
+    .label = Poloha
+permissions-localhost2 =
+    .label = Aplikácie a služby v zariadení
+permissions-local-network2 =
+    .label = Zariadenia v lokálnej sieti
+permissions-xr2 =
+    .label = Virtuálna realita
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofón
+permissions-notification2 =
+    .label = Upozornenia
 
 ## Privacy Section - Data Collection
 

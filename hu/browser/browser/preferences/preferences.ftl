@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Kivételes tartalmak a { -brand-
 home-prefs-stories-header =
     .label = Történetek
 home-prefs-stories-description = Személyre szabott történetek a tevékenysége alapján
+home-prefs-stories-header2 =
+    .label = Történetek
+    .description = Kivételes tartalmak a { -brand-product-name } család válogatásában
 
 ##
 
@@ -1526,6 +1529,8 @@ permissions-notification-link = További tudnivalók
 permissions-notification-pause =
     .label = Értesítések kikapcsolása a { -brand-short-name } újraindulásáig
     .accesskey = e
+permissions-autoplay2 =
+    .label = Automatikus lejátszás
 permissions-autoplay = Automatikus lejátszás
 permissions-autoplay-settings =
     .label = Beállítások…
@@ -1548,6 +1553,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Kivételek…
     .accesskey = K
+permissions-location2 =
+    .label = Hely
+permissions-localhost2 =
+    .label = Eszközalkalmazások és -szolgáltatások
+permissions-local-network2 =
+    .label = Helyi hálózati eszközök
+permissions-xr2 =
+    .label = Virtuális valóság
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Értesítések
 
 ## Privacy Section - Data Collection
 

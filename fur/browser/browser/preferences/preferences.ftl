@@ -625,6 +625,9 @@ choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contignûts par { -firefox-home-brand-name }
@@ -1458,6 +1461,8 @@ permissions-notification-link = Plui informazions
 permissions-notification-pause =
     .label = Met in pause lis notifichis sin cuant che si torne a inviâ { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Riproduzion automatiche
 permissions-autoplay = Riproduzion automatiche
 permissions-autoplay-settings =
     .label = Impostazions…
@@ -1480,6 +1485,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ecezions…
     .accesskey = E
+permissions-location2 =
+    .label = Posizion
+permissions-localhost2 =
+    .label = Aplicazions e servizis dal dispositîf
+permissions-local-network2 =
+    .label = Dispositîfs di rêt locâl
+permissions-xr2 =
+    .label = Realtât virtuâl
+permissions-camera2 =
+    .label = Fotocjamare
+permissions-microphone2 =
+    .label = Microfon
+permissions-notification2 =
+    .label = Notifichis
 
 ## Privacy Section - Data Collection
 

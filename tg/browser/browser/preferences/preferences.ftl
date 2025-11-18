@@ -668,6 +668,9 @@ home-prefs-recommended-by-description-generic = Муҳтавои мустасн�
 home-prefs-stories-header =
     .label = Ҳикояҳо
 home-prefs-stories-description = Ҳикояҳои фардӣ дар асоси фаъолияти шумо
+home-prefs-stories-header2 =
+    .label = Ҳикояҳо
+    .description = Муҳтавои мустасно аз тарафи оилаи «{ -brand-product-name }» дастгирӣ карда мешавад
 
 ##
 
@@ -1481,6 +1484,8 @@ permissions-notification-link = Маълумоти бештар
 permissions-notification-pause =
     .label = Таваққуф кардани огоҳиҳо то аз нав оғоз шудани «{ -brand-short-name }»
     .accesskey = Т
+permissions-autoplay2 =
+    .label = Пахши худкор
 permissions-autoplay = Пахши худкор
 permissions-autoplay-settings =
     .label = Танзимот…
@@ -1503,6 +1508,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Истисноҳо…
     .accesskey = И
+permissions-location2 =
+    .label = Ҷойгиршавӣ
+permissions-localhost2 =
+    .label = Барномаҳо ва хизматҳои дастгоҳ
+permissions-local-network2 =
+    .label = Дастгоҳҳои шабакаи маҳаллӣ
+permissions-xr2 =
+    .label = Ҳақиқати виртуалӣ
+permissions-camera2 =
+    .label = Камера
+permissions-microphone2 =
+    .label = Микрофон
+permissions-notification2 =
+    .label = Огоҳномаҳо
 
 ## Privacy Section - Data Collection
 

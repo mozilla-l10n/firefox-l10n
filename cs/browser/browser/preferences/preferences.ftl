@@ -816,6 +816,9 @@ home-prefs-recommended-by-description-generic = Výjimečný obsah od rodiny { -
 home-prefs-stories-header =
     .label = Články
 home-prefs-stories-description = Personalizované příběhy na základě vaší aktivity
+home-prefs-stories-header2 =
+    .label = Články
+    .description = Výjimečný obsah od rodiny { -brand-product-name(case: "gen") }
 
 ##
 
@@ -1700,6 +1703,8 @@ permissions-notification-pause =
            *[no-cases] Zakázat oznámení do restartu aplikace { -brand-short-name }
         }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Automatické přehrávání
 permissions-autoplay = Automatické přehrávání
 permissions-autoplay-settings =
     .label = Nastavení…
@@ -1722,6 +1727,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Výjimky…
     .accesskey = k
+permissions-location2 =
+    .label = Poloha
+permissions-localhost2 =
+    .label = Aplikace a služby v zařízení
+permissions-local-network2 =
+    .label = Zařízení v místní síti
+permissions-xr2 =
+    .label = Virtuální realita
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Oznámení
 
 ## Privacy Section - Data Collection
 

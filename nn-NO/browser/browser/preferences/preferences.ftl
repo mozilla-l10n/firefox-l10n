@@ -668,6 +668,9 @@ home-prefs-recommended-by-description-generic = Eineståande innhald utvalt av {
 home-prefs-stories-header =
     .label = Artiklar
 home-prefs-stories-description = Personlege artiklar basert på aktiviteten din
+home-prefs-stories-header2 =
+    .label = Artiklar
+    .description = Eineståande innhald utvalt av { -brand-product-name }-familien
 
 ##
 
@@ -1470,6 +1473,8 @@ permissions-notification-link = Les meir
 permissions-notification-pause =
     .label = Set varsel på pause til { -brand-short-name } startar på nytt
     .accesskey = n
+permissions-autoplay2 =
+    .label = Automatisk avspeling
 permissions-autoplay = Automatisk avspeling
 permissions-autoplay-settings =
     .label = Innstillingar
@@ -1489,6 +1494,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Unntak…
     .accesskey = U
+permissions-location2 =
+    .label = Plassering
+permissions-localhost2 =
+    .label = Einingsappar og -tenester
+permissions-local-network2 =
+    .label = Lokale nettverkseiningar
+permissions-xr2 =
+    .label = Virtuell røyndom
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Varsel
 
 ## Privacy Section - Data Collection
 

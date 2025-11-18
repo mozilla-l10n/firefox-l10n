@@ -685,6 +685,9 @@ home-prefs-recommended-by-description-generic = תוכן יוצא דופן שנ�
 home-prefs-stories-header =
     .label = סיפורים
 home-prefs-stories-description = סיפורים מותאמים אישית המבוססים על הפעילות שלך
+home-prefs-stories-header2 =
+    .label = סיפורים
+    .description = תוכן יוצא דופן שנבחר בקפידה על־ידי משפחת { -brand-product-name }
 
 ##
 
@@ -1516,6 +1519,8 @@ permissions-notification-link = מידע נוסף
 permissions-notification-pause =
     .label = השהיית התרעות עד להפעלה מחדש של { -brand-short-name }
     .accesskey = ה
+permissions-autoplay2 =
+    .label = ניגון אוטומטי
 permissions-autoplay = ניגון אוטומטי
 permissions-autoplay-settings =
     .label = הגדרות…
@@ -1538,6 +1543,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = חריגות…
     .accesskey = ח
+permissions-location2 =
+    .label = מיקום
+permissions-localhost2 =
+    .label = יישומים ושירותים של מכשירים
+permissions-local-network2 =
+    .label = מכשירים ברשת המקומית
+permissions-xr2 =
+    .label = מציאות מדומה
+permissions-camera2 =
+    .label = מצלמה
+permissions-microphone2 =
+    .label = מיקרופון
+permissions-notification2 =
+    .label = התרעות
 
 ## Privacy Section - Data Collection
 

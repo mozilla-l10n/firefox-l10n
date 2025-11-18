@@ -699,6 +699,9 @@ home-prefs-recommended-by-description-generic = Cynnwys eithriadol wedi'i gasglu
 home-prefs-stories-header =
     .label = Straeon
 home-prefs-stories-description = Straeon personol ar sail eich gweithgaredd
+home-prefs-stories-header2 =
+    .label = Straeon
+    .description = Cynnwys eithriadol wedi'i gasglu gan deulu { -brand-product-name }
 
 ##
 
@@ -1542,6 +1545,8 @@ permissions-notification-link = Darllen rhagor
 permissions-notification-pause =
     .label = Oedi fy hysbysiadau tan { -brand-short-name } ailgychwyn
     .accesskey = O
+permissions-autoplay2 =
+    .label = Awtochwarae
 permissions-autoplay = Awtochwarae
 permissions-autoplay-settings =
     .label = Gosodiadau…
@@ -1564,6 +1569,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Eithriadau…
     .accesskey = E
+permissions-location2 =
+    .label = Lleoliad
+permissions-localhost2 =
+    .label = Apiau a gwasanaethau dyfais
+permissions-local-network2 =
+    .label = Dyfeisiau Rhwydwaith Lleol
+permissions-xr2 =
+    .label = Rhithrealaeth
+permissions-camera2 =
+    .label = Camera
+permissions-microphone2 =
+    .label = Meicroffon
+permissions-notification2 =
+    .label = Hysbysiadau
 
 ## Privacy Section - Data Collection
 

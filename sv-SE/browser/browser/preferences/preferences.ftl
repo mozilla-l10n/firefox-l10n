@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Exceptionellt innehåll kurerat 
 home-prefs-stories-header =
     .label = Berättelser
 home-prefs-stories-description = Personliga berättelser baserade på din aktivitet
+home-prefs-stories-header2 =
+    .label = Berättelser
+    .description = Exceptionellt innehåll kurerat av { -brand-product-name }-familjen
 
 ##
 
@@ -1526,6 +1529,8 @@ permissions-notification-link = Läs mer
 permissions-notification-pause =
     .label = Pausa aviseringar tills { -brand-short-name } startar om
     .accesskey = v
+permissions-autoplay2 =
+    .label = Automatisk uppspelning
 permissions-autoplay = Automatisk uppspelning
 permissions-autoplay-settings =
     .label = Inställningar…
@@ -1548,6 +1553,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Undantag…
     .accesskey = U
+permissions-location2 =
+    .label = Plats
+permissions-localhost2 =
+    .label = Enhetens appar och tjänster
+permissions-local-network2 =
+    .label = Lokala nätverksenheter
+permissions-xr2 =
+    .label = Virtuell verklighet
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Aviseringar
 
 ## Privacy Section - Data Collection
 

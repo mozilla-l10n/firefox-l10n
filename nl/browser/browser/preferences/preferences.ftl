@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Uitzonderlijke inhoud, verzameld
 home-prefs-stories-header =
     .label = Verhalen
 home-prefs-stories-description = Gepersonaliseerde verhalen op basis van uw activiteit
+home-prefs-stories-header2 =
+    .label = Verhalen
+    .description = Uitzonderlijke inhoud, verzameld door de { -brand-product-name }-familie
 
 ##
 
@@ -1526,6 +1529,8 @@ permissions-notification-link = Meer info
 permissions-notification-pause =
     .label = Notificaties pauzeren totdat { -brand-short-name } wordt herstart
     .accesskey = N
+permissions-autoplay2 =
+    .label = Automatisch afspelen
 permissions-autoplay = Automatisch afspelen
 permissions-autoplay-settings =
     .label = Instellingen…
@@ -1548,6 +1553,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Uitzonderingen…
     .accesskey = U
+permissions-location2 =
+    .label = Locatie
+permissions-localhost2 =
+    .label = Apparaatapps en -services
+permissions-local-network2 =
+    .label = Lokale netwerkapparaten
+permissions-xr2 =
+    .label = Virtual Reality
+permissions-camera2 =
+    .label = Camera
+permissions-microphone2 =
+    .label = Microfoon
+permissions-notification2 =
+    .label = Notificaties
 
 ## Privacy Section - Data Collection
 

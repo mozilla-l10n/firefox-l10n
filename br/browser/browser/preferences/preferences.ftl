@@ -543,6 +543,9 @@ choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -1037,6 +1040,9 @@ sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = Gouzout hiroc’h
@@ -1194,6 +1200,8 @@ permissions-notification-link = Gouzout hiroc’h
 permissions-notification-pause =
     .label = Ehanañ ar rebuzadurioù betek ma vefe adloc'het { -brand-short-name }
     .accesskey = E
+permissions-autoplay2 =
+    .label = Lenn emgefreek
 permissions-autoplay = Lenn emgefreek
 permissions-autoplay-settings =
     .label = Arventennoù...
@@ -1213,6 +1221,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Nemedennoù
     .accesskey = N
+permissions-location2 =
+    .label = Lec'hiadur
+permissions-xr2 =
+    .label = Gwirionez niverel
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Klevell
+permissions-notification2 =
+    .label = Rebuzadurioù
 
 ## Privacy Section - Data Collection
 
@@ -1242,6 +1260,9 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

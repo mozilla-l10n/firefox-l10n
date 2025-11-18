@@ -1435,6 +1435,8 @@ permissions-notification-link = Көбірек білу
 permissions-notification-pause =
     .label = Хабарламаларды { -brand-short-name } қайта іске қосылғанша дейін аялдату
     .accesskey = д
+permissions-autoplay2 =
+    .label = Автоойнату
 permissions-autoplay = Автоойнату
 permissions-autoplay-settings =
     .label = Баптаулар…
@@ -1454,6 +1456,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = Е
+permissions-location2 =
+    .label = Орналасу
+permissions-localhost2 =
+    .label = Құрылғы қолданбалары мен қызметтері
+permissions-local-network2 =
+    .label = Жергілікті желі құрылғылары
+permissions-xr2 =
+    .label = Виртуалды шынайылық
+permissions-camera2 =
+    .label = Камера
+permissions-microphone2 =
+    .label = Микрофон
+permissions-notification2 =
+    .label = Хабарламалар
 
 ## Privacy Section - Data Collection
 

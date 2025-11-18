@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Wyjątkowe rzeczy wybrane przez 
 home-prefs-stories-header =
     .label = Artykuły
 home-prefs-stories-description = Spersonalizowane artykuły na podstawie działań użytkownika
+home-prefs-stories-header2 =
+    .label = Artykuły
+    .description = Wyjątkowe rzeczy wybrane przez rodzinę { -brand-product-name(case: "gen") }
 
 ##
 
@@ -1519,6 +1522,8 @@ permissions-notification-link = Więcej informacji
 permissions-notification-pause =
     .label = Wstrzymaj powiadomienia do czasu ponownego uruchomienia przeglądarki { -brand-short-name }
     .accesskey = W
+permissions-autoplay2 =
+    .label = Automatyczne odtwarzanie
 permissions-autoplay = Automatyczne odtwarzanie
 permissions-autoplay-settings =
     .label = Ustawienia…
@@ -1541,6 +1546,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wyjątki…
     .accesskey = W
+permissions-location2 =
+    .label = Położenie
+permissions-localhost2 =
+    .label = Aplikacje i usługi na urządzeniu
+permissions-local-network2 =
+    .label = Urządzenia w sieci lokalnej
+permissions-xr2 =
+    .label = Rzeczywistość wirtualna
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Powiadomienia.
 
 ## Privacy Section - Data Collection
 

@@ -675,6 +675,9 @@ home-prefs-recommended-by-description-generic = { -brand-product-name } 제품�
 home-prefs-stories-header =
     .label = 이야기
 home-prefs-stories-description = 활동에 기반한 개인화된 이야기
+home-prefs-stories-header2 =
+    .label = 이야기
+    .description = { -brand-product-name } 제품군이 선별한 뛰어난 콘텐츠
 
 ##
 
@@ -1510,6 +1513,8 @@ permissions-notification-link = 더 알아보기
 permissions-notification-pause =
     .label = { -brand-short-name }가 다시 시작될 때까지 알림을 일시 중지
     .accesskey = n
+permissions-autoplay2 =
+    .label = 자동 재생
 permissions-autoplay = 자동 재생
 permissions-autoplay-settings =
     .label = 설정…
@@ -1532,6 +1537,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = 예외…
     .accesskey = E
+permissions-location2 =
+    .label = 위치
+permissions-localhost2 =
+    .label = 기기 앱과 서비스
+permissions-local-network2 =
+    .label = 로컬 네트워크 기기
+permissions-xr2 =
+    .label = 가상 현실
+permissions-camera2 =
+    .label = 카메라
+permissions-microphone2 =
+    .label = 마이크
+permissions-notification2 =
+    .label = 알림
 
 ## Privacy Section - Data Collection
 

@@ -601,6 +601,9 @@ choose-bookmark =
     .label = Користи обележивач…
     .accesskey = б
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } садржај
@@ -1249,6 +1252,8 @@ permissions-notification-link = Сазнајте више
 permissions-notification-pause =
     .label = Паузирај обавештења док се { -brand-short-name } не покрене поново
     .accesskey = б
+permissions-autoplay2 =
+    .label = Аутоматска репродукција
 permissions-autoplay = Аутоматска репродукција
 permissions-autoplay-settings =
     .label = Подешавања…
@@ -1268,6 +1273,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Изузеци
     .accesskey = И
+permissions-location2 =
+    .label = Локација
+permissions-xr2 =
+    .label = Виртуелна реалност
+permissions-camera2 =
+    .label = Камера
+permissions-microphone2 =
+    .label = Микрофон
+permissions-notification2 =
+    .label = Обавештења
 
 ## Privacy Section - Data Collection
 
@@ -1303,6 +1318,9 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

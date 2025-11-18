@@ -533,6 +533,9 @@ choose-bookmark =
     .label = Użyj zokłodki…
     .accesskey = Z
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -877,6 +880,9 @@ primary-password-os-auth-dialog-message-win = Żeby zrychtować głōwne hasło,
 primary-password-os-auth-dialog-message-macosx = zrychtuj głōwne hasło
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historyjo
@@ -964,6 +970,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Regiyruj wyjōntkami…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1098,6 +1110,8 @@ permissions-notification-link = Przewiydz sie wiyncyj
 permissions-notification-pause =
     .label = Spauzuj powiadōmiynia, aże { -brand-short-name } sie zresztartuje
     .accesskey = n
+permissions-autoplay2 =
+    .label = Autōmatyczne puszczanie
 permissions-autoplay = Autōmatyczne puszczanie
 permissions-autoplay-settings =
     .label = Nasztalowania…
@@ -1117,6 +1131,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wyjōntki…
     .accesskey = W
+permissions-location2 =
+    .label = Plac
+permissions-xr2 =
+    .label = Wirtualno ryalność
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofōn
+permissions-notification2 =
+    .label = Powiadōmiynia
 
 ## Privacy Section - Data Collection
 
@@ -1140,6 +1164,9 @@ addon-recommendations-link = Przewiydz sie wiyncyj
 collection-health-report-disabled = Posyłanie danych je zastawione przi tyj kōnfiguracyji
 collection-backlogged-crash-reports-with-link = Przizwōl, coby { -brand-short-name } posyłoł nazbiyrane raporty z awaryjōw za ciebie <a data-l10n-name="crash-reports-link">Przewiydz sie wiyncyj</a>
     .accesskey = c
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -1189,6 +1216,9 @@ httpsonly-radio-enabled-pbm =
     .label = Załōncz tryb "ino HTTPS" ino w prywatnych ôknach
 httpsonly-radio-disabled =
     .label = Niy załōnczej trybu "ino HTTPS"
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

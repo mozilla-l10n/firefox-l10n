@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = გამორჩეული �
 home-prefs-stories-header =
     .label = ამბები
 home-prefs-stories-description = თქვენს საქმიანობაზე მორგებული ამბები
+home-prefs-stories-header2 =
+    .label = ამბები
+    .description = გამორჩეული მასალები, რომელთაც გთავაზობთ { -brand-product-name }-ოჯახი
 
 ##
 
@@ -1526,6 +1529,8 @@ permissions-notification-link = ვრცლად
 permissions-notification-pause =
     .label = შეჩერდეს შეტყობინებები, სანამ { -brand-short-name } ხელახლა გაეშვება
     .accesskey = ჩ
+permissions-autoplay2 =
+    .label = თვითგაშვება
 permissions-autoplay = თვითგაშვება
 permissions-autoplay-settings =
     .label = პარამეტრები…
@@ -1548,6 +1553,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = გამონაკლისები…
     .accesskey = გ
+permissions-location2 =
+    .label = მდებარეობა
+permissions-localhost2 =
+    .label = მოწყობილობის პროგრამები და მომსახურებები
+permissions-local-network2 =
+    .label = შიდა ქსელის მოწყობილობები
+permissions-xr2 =
+    .label = წარმოსახვითი სინამდვილე
+permissions-camera2 =
+    .label = კამერა
+permissions-microphone2 =
+    .label = მიკროფონი
+permissions-notification2 =
+    .label = შეტყობინებები
 
 ## Privacy Section - Data Collection
 

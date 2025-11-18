@@ -683,6 +683,9 @@ home-prefs-recommended-by-description-generic = 由 { -brand-product-name } 系�
 home-prefs-stories-header =
     .label = 文章
 home-prefs-stories-description = 根据您的阅读记录为您推荐文章
+home-prefs-stories-header2 =
+    .label = 文章
+    .description = 由 { -brand-product-name } 系列产品推荐的精选内容
 
 ##
 
@@ -1518,6 +1521,8 @@ permissions-notification-link = 详细了解
 permissions-notification-pause =
     .label = 暂停通知直至下次打开 { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = 自动播放
 permissions-autoplay = 自动播放
 permissions-autoplay-settings =
     .label = 设置…
@@ -1540,6 +1545,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = 例外…
     .accesskey = E
+permissions-location2 =
+    .label = 位置
+permissions-localhost2 =
+    .label = 设备应用和服务
+permissions-local-network2 =
+    .label = 本地网络设备
+permissions-xr2 =
+    .label = 虚拟现实
+permissions-camera2 =
+    .label = 摄像头
+permissions-microphone2 =
+    .label = 麦克风
+permissions-notification2 =
+    .label = 通知
 
 ## Privacy Section - Data Collection
 

@@ -675,6 +675,9 @@ home-prefs-recommended-by-description-generic = Nội dung đặc biệt đượ
 home-prefs-stories-header =
     .label = Câu chuyện
 home-prefs-stories-description = Câu chuyện được cá nhân hóa dựa trên hoạt động của bạn
+home-prefs-stories-header2 =
+    .label = Câu chuyện
+    .description = Nội dung đặc biệt được quản lý bởi gia đình { -brand-product-name }
 
 ##
 
@@ -1510,6 +1513,8 @@ permissions-notification-link = Tìm hiểu thêm
 permissions-notification-pause =
     .label = Tạm dừng thông báo cho đến khi { -brand-short-name } khởi động lại
     .accesskey = n
+permissions-autoplay2 =
+    .label = Tự động phát
 permissions-autoplay = Tự động phát
 permissions-autoplay-settings =
     .label = Cài đặt…
@@ -1532,6 +1537,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ngoại lệ…
     .accesskey = E
+permissions-location2 =
+    .label = Vị trí
+permissions-localhost2 =
+    .label = Ứng dụng và dịch vụ thiết bị
+permissions-local-network2 =
+    .label = Thiết bị mạng cục bộ
+permissions-xr2 =
+    .label = Thực tế ảo
+permissions-camera2 =
+    .label = Máy ảnh
+permissions-microphone2 =
+    .label = Micrô
+permissions-notification2 =
+    .label = Thông báo
 
 ## Privacy Section - Data Collection
 

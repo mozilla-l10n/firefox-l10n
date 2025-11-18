@@ -359,6 +359,9 @@ choose-bookmark =
     .label = બુકમાર્ક વાપરો…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -492,6 +495,12 @@ sync-sign-in =
     .label = સાઇન ઇન કરો
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -579,6 +588,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = પાસવર્ડ બદલવાનું નિષ્ફળ
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ઇતિહાસ
@@ -656,6 +671,12 @@ sitedata-clear =
 sitedata-settings =
     .label = ડેટા સંચાલન કરો…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -760,6 +781,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = અપવાદો...
     .accesskey = E
+permissions-location2 =
+    .label = સ્થાન
+permissions-camera2 =
+    .label = કેમેરા
+permissions-microphone2 =
+    .label = માઇક્રોફોન
+permissions-notification2 =
+    .label = સૂચનાઓ
 
 ## Privacy Section - Data Collection
 
@@ -779,6 +808,9 @@ addon-recommendations-link = વધુ શીખો
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -811,6 +843,12 @@ certs-devices =
     .label = સુરક્ષા ઉપકરણો…
     .accesskey = D
 certs-devices-enable-fips = FIPS સક્રિય કરો
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

@@ -483,6 +483,9 @@ choose-bookmark =
     .label = استفاده از نشانک…
     .accesskey = ن
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -829,6 +832,9 @@ primary-password-os-auth-dialog-message-win = برای ایجاد گذرواژه
 primary-password-os-auth-dialog-message-macosx = ساخت یک گذرواژهٔ اصلی
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = تاریخچه
@@ -916,6 +922,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = مدیریت استثناها…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1051,6 +1063,8 @@ permissions-notification-link = بیشتر بدانید
 permissions-notification-pause =
     .label = توقف هوشدار تا زمانی که { -brand-short-name } مجدد راه اندازی شود
     .accesskey = n
+permissions-autoplay2 =
+    .label = پخش خودکار
 permissions-autoplay = پخش خودکار
 permissions-autoplay-settings =
     .label = تنظیمات...
@@ -1070,6 +1084,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = استثناها…
     .accesskey = ت
+permissions-location2 =
+    .label = مکان
+permissions-xr2 =
+    .label = واقعیت مجازی
+permissions-camera2 =
+    .label = دوربین
+permissions-microphone2 =
+    .label = صدابَر
+permissions-notification2 =
+    .label = اعلان‌ها
 
 ## Privacy Section - Data Collection
 
@@ -1093,6 +1117,9 @@ addon-recommendations-link = بیشتر بدانید
 collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
 collection-backlogged-crash-reports-with-link = به { -brand-short-name } اجازه دهید گزارش‌های خرابی عقب مانده را از طرف شما ارسال کند <a data-l10n-name="crash-reports-link">اطلاعات بیشتر</a>
     .accesskey = ج
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

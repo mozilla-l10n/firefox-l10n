@@ -684,6 +684,9 @@ home-prefs-recommended-by-description-generic = Poikkeuksellista { -brand-produc
 home-prefs-stories-header =
     .label = Tarinat
 home-prefs-stories-description = Personoituja tarinoita aktiivisuuteesi pohjautuen
+home-prefs-stories-header2 =
+    .label = Tarinat
+    .description = Poikkeuksellista { -brand-product-name }-perheen kuratoimaa sisältöä
 
 ##
 
@@ -1515,6 +1518,8 @@ permissions-notification-link = Lue lisää
 permissions-notification-pause =
     .label = Älä näytä ilmoituksia ennen kuin { -brand-short-name } uudelleenkäynnistetään
     .accesskey = k
+permissions-autoplay2 =
+    .label = Automaattinen toisto
 permissions-autoplay = Automaattinen toisto
 permissions-autoplay-settings =
     .label = Asetukset…
@@ -1537,6 +1542,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Poikkeukset…
     .accesskey = P
+permissions-location2 =
+    .label = Sijainti
+permissions-localhost2 =
+    .label = Laitesovellukset ja -palvelut
+permissions-local-network2 =
+    .label = Paikallisverkon laitteet
+permissions-xr2 =
+    .label = Virtuaalitodellisuus
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofoni
+permissions-notification2 =
+    .label = Ilmoitukset
 
 ## Privacy Section - Data Collection
 

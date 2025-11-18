@@ -684,6 +684,9 @@ home-prefs-recommended-by-description-generic = Eksterordinara enhavo elektita d
 home-prefs-stories-header =
     .label = Artikoloj
 home-prefs-stories-description = Artikoloj personecigitaj laŭ via retumo
+home-prefs-stories-header2 =
+    .label = Artikoloj
+    .description = Eksterordinara enhavo elektita de la familio de { -brand-product-name }
 
 ##
 
@@ -1515,6 +1518,8 @@ permissions-notification-link = Pli da informo
 permissions-notification-pause =
     .label = Paŭzigi sciigojn ĝis kiam { -brand-short-name } restartos
     .accesskey = P
+permissions-autoplay2 =
+    .label = Aŭtomata ludado
 permissions-autoplay = Aŭtomata ludado
 permissions-autoplay-settings =
     .label = Agordoj…
@@ -1537,6 +1542,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Esceptoj…
     .accesskey = E
+permissions-location2 =
+    .label = Loko
+permissions-localhost2 =
+    .label = Programoj kaj servoj de la aparato
+permissions-local-network2 =
+    .label = Aparatoj de la loka reto
+permissions-xr2 =
+    .label = Virtuala realo
+permissions-camera2 =
+    .label = Filmilo
+permissions-microphone2 =
+    .label = Mikrofono
+permissions-notification2 =
+    .label = Sciigoj
 
 ## Privacy Section - Data Collection
 

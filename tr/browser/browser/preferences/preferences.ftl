@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = { -brand-product-name } ailesini
 home-prefs-stories-header =
     .label = Haberler
 home-prefs-stories-description = Etkinliğinize göre kişiselleştirilmiş haberler
+home-prefs-stories-header2 =
+    .label = Haberler
+    .description = { -brand-product-name } ailesinin seçtiği harika içerikler
 
 ##
 
@@ -1524,6 +1527,8 @@ permissions-notification-link = Daha fazla bilgi al
 permissions-notification-pause =
     .label = { -brand-short-name } yeniden başlatılana dek bildirimleri duraklat
     .accesskey = b
+permissions-autoplay2 =
+    .label = Otomatik oynatma
 permissions-autoplay = Otomatik oynatma
 permissions-autoplay-settings =
     .label = Ayarlar…
@@ -1546,6 +1551,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = İstisnalar…
     .accesskey = n
+permissions-location2 =
+    .label = Konum
+permissions-localhost2 =
+    .label = Cihaz uygulamaları ve hizmetleri
+permissions-local-network2 =
+    .label = Yerel ağ cihazları
+permissions-xr2 =
+    .label = Sanal gerçeklik
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Bildirimler
 
 ## Privacy Section - Data Collection
 

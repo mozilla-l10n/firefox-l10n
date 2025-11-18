@@ -403,6 +403,9 @@ choose-bookmark =
     .label = Usa nu nzingalibbru…
     .accesskey = n
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -684,6 +687,12 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Crunuluggìa
@@ -766,6 +775,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Manija dati…
     .accesskey = d
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -884,6 +899,8 @@ permissions-notification-link = Cchiù nfurmazzioni
 permissions-notification-pause =
     .label = Ferma i nutìfichi nzinu a quannu { -brand-short-name } si riabbìa
     .accesskey = n
+permissions-autoplay2 =
+    .label = Ripruduzzioni autumàtica
 permissions-autoplay = Ripruduzzioni autumàtica
 permissions-autoplay-settings =
     .label = Mpustazzioni…
@@ -897,6 +914,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Eccizzioni…
     .accesskey = E
+permissions-location2 =
+    .label = Pusizzioni
+permissions-xr2 =
+    .label = Rialtà virtuali
+permissions-camera2 =
+    .label = Fotucàmmira
+permissions-microphone2 =
+    .label = Micròfunu
+permissions-notification2 =
+    .label = Nutìfichi
 
 ## Privacy Section - Data Collection
 
@@ -920,6 +947,9 @@ addon-recommendations-link = Cchiù nfurmazzioni
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalijazzioni di dati è sdisabbilitata nnâ cunfijurazzioni di sta virsiuni
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -951,6 +981,12 @@ certs-view =
 certs-devices =
     .label = Dispusitivi di sicurizza…
     .accesskey = D
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

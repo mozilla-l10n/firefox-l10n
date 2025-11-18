@@ -549,6 +549,9 @@ choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Susbaint { -firefox-home-brand-name }
@@ -906,6 +909,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Eachdraidh
@@ -1152,6 +1158,8 @@ permissions-notification-link = Barrachd fiosrachaidh
 permissions-notification-pause =
     .label = Cuir am brath ’na stad gus an ath-thòisich { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Fèin-chluich
 permissions-autoplay = Fèin-chluich
 permissions-autoplay-settings =
     .label = Roghainnean…
@@ -1171,6 +1179,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
+permissions-location2 =
+    .label = Ionad
+permissions-xr2 =
+    .label = Fìorachd bhiortail
+permissions-camera2 =
+    .label = Camara
+permissions-microphone2 =
+    .label = Micreofon
+permissions-notification2 =
+    .label = Brathan
 
 ## Privacy Section - Data Collection
 
@@ -1200,6 +1218,9 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

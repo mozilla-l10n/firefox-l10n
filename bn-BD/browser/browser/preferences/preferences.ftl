@@ -768,6 +768,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = E
+permissions-location2 =
+    .label = অবস্থান
+permissions-camera2 =
+    .label = ক্যামেরা
+permissions-microphone2 =
+    .label = মাইক্রোফোন
+permissions-notification2 =
+    .label = নোটিফিকেশন
 
 ## Privacy Section - Data Collection
 

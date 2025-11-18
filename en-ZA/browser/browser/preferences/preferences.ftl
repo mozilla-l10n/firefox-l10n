@@ -411,6 +411,8 @@ permissions-block-popups =
 permissions-addon-exceptions =
     .label = Exceptions…
     .accesskey = E
+permissions-notification2 =
+    .label = Notifications
 
 ## Privacy Section - Data Collection
 

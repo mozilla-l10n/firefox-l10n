@@ -686,6 +686,9 @@ home-prefs-recommended-by-description-generic = Lëndë e veçantë, nën kujdes
 home-prefs-stories-header =
     .label = Histori
 home-prefs-stories-description = Histori të personalizuara, bazuar në veprimtarinë tuaj
+home-prefs-stories-header2 =
+    .label = Histori
+    .description = Lëndë e veçantë, nën kujdesin e familjes { -brand-product-name }
 
 ##
 
@@ -1523,6 +1526,8 @@ permissions-notification-link = Mësoni më tepër
 permissions-notification-pause =
     .label = Ndali njoftimet derisa të riniset { -brand-short-name }-i
     .accesskey = N
+permissions-autoplay2 =
+    .label = Vetëluajtje
 permissions-autoplay = Vetëluajtje
 permissions-autoplay-settings =
     .label = Rregullime…
@@ -1545,6 +1550,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Përjashtime…
     .accesskey = a
+permissions-location2 =
+    .label = Vendndodhje
+permissions-localhost2 =
+    .label = Aplikacione dhe shërbime pajisjeje
+permissions-local-network2 =
+    .label = Pajisje Rrjeti Vendor
+permissions-xr2 =
+    .label = Realitet Virtual
+permissions-camera2 =
+    .label = Kamerë
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Njoftime
 
 ## Privacy Section - Data Collection
 

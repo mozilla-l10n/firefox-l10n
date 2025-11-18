@@ -378,6 +378,9 @@ choose-bookmark =
     .label = garasun' markadır...
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -659,6 +662,12 @@ forms-master-pw-change =
     .accesskey = N
 forms-master-pw-fips-desc = Nu ga’ue nādunaj Da’nga’ Huìi
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Daran sa gahuin
@@ -739,6 +748,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Dugumi' datos
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -851,6 +866,8 @@ permissions-notification-link = Gahuin chrun doj
 permissions-notification-pause =
     .label = Duyichi' akuan't nej sa ataj na'an dâ { -brand-short-name } nayi'ì ñu
     .accesskey = n
+permissions-autoplay2 =
+    .label = Duyinga' man'an man nanèe
 permissions-autoplay = Duyinga' man'an man nanèe
 permissions-autoplay-settings =
     .label = Nagi'iô'...
@@ -864,6 +881,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Sa ga'ue
     .accesskey = E
+permissions-location2 =
+    .label = Dane' huin
+permissions-camera2 =
+    .label = Kamara
+permissions-microphone2 =
+    .label = Aga' uxun nanèe
+permissions-notification2 =
+    .label = Sa ataj na'anj
 
 ## Privacy Section - Data Collection
 
@@ -883,6 +908,9 @@ addon-recommendations-link = Gahuin chrūn doj
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj sun 'ngà nej kopilacion
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -915,6 +943,12 @@ certs-devices =
     .label = Nej sa dugumi...
     .accesskey = N
 certs-devices-enable-fips = Nachrun FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

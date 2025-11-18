@@ -693,6 +693,9 @@ home-prefs-recommended-by-description-generic = Wuwzaćowy wobsah, kotryž so p�
 home-prefs-stories-header =
     .label = Stawiznički
 home-prefs-stories-description = Personalizowane stawiznički na zakładźe wašeje aktiwity
+home-prefs-stories-header2 =
+    .label = Stawiznički
+    .description = Wuwzaćowy wobsah, kotryž so přez swójbu { -brand-product-name } hlada
 
 ##
 
@@ -1534,6 +1537,8 @@ permissions-notification-link = Dalše informacije
 permissions-notification-pause =
     .label = Zdźělenja zastajić, doniž so { -brand-short-name } znowa njestartuje
     .accesskey = z
+permissions-autoplay2 =
+    .label = Awtomatiske wothraće
 permissions-autoplay = Awtomatiske wothraće
 permissions-autoplay-settings =
     .label = Nastajenja…
@@ -1556,6 +1561,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wuwzaća…
     .accesskey = W
+permissions-location2 =
+    .label = Stejnišćo
+permissions-localhost2 =
+    .label = Gratowe nałoženja a słužby
+permissions-local-network2 =
+    .label = Graty lokalneje syće
+permissions-xr2 =
+    .label = Wirtualna realita
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Zdźělenja
 
 ## Privacy Section - Data Collection
 

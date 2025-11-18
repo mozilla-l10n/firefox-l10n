@@ -620,6 +620,9 @@ choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } efni
@@ -1391,6 +1394,8 @@ permissions-notification-link = Vita meira
 permissions-notification-pause =
     .label = Stöðva tilkynningar þangað til { -brand-short-name } endurræsir
     .accesskey = n
+permissions-autoplay2 =
+    .label = Sjálfvirk spilun
 permissions-autoplay = Sjálfvirk spilun
 permissions-autoplay-settings =
     .label = Stillingar...
@@ -1410,6 +1415,18 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Undanþágur…
     .accesskey = U
+permissions-location2 =
+    .label = Staðsetning
+permissions-local-network2 =
+    .label = Tæki á staðarneti
+permissions-xr2 =
+    .label = Sýndarveruleiki
+permissions-camera2 =
+    .label = Myndavél
+permissions-microphone2 =
+    .label = Hljóðnemi
+permissions-notification2 =
+    .label = Tilkynningar
 
 ## Privacy Section - Data Collection
 

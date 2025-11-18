@@ -684,6 +684,9 @@ home-prefs-recommended-by-description-generic = Interessant indhold udvalgt af {
 home-prefs-stories-header =
     .label = Historier
 home-prefs-stories-description = Tilpassede historier baseret på din aktivitet
+home-prefs-stories-header2 =
+    .label = Historier
+    .description = Interessant indhold udvalgt af { -brand-product-name }-holdet
 
 ##
 
@@ -1515,6 +1518,8 @@ permissions-notification-link = Læs mere
 permissions-notification-pause =
     .label = Sæt beskeder på pause, indtil { -brand-short-name } starter igen
     .accesskey = b
+permissions-autoplay2 =
+    .label = Automatisk afspilning
 permissions-autoplay = Automatisk afspilning
 permissions-autoplay-settings =
     .label = Indstillinger…
@@ -1537,6 +1542,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Undtagelser…
     .accesskey = U
+permissions-location2 =
+    .label = Position
+permissions-localhost2 =
+    .label = Enheds-apps og -tjenester
+permissions-local-network2 =
+    .label = Lokale netværks-enheder
+permissions-xr2 =
+    .label = Virtual reality
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Beskeder
 
 ## Privacy Section - Data Collection
 

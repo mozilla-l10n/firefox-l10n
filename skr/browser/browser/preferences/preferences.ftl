@@ -568,6 +568,9 @@ choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } مواد
@@ -1283,6 +1286,8 @@ permissions-notification-link = ٻیا سِکھو
 permissions-notification-pause =
     .label = جے تک { -brand-short-name } نویں سروں نئیں چلدا اطلاع نامے روک ݙیو
     .accesskey = n
+permissions-autoplay2 =
+    .label = آٹو پلے
 permissions-autoplay = آٹو پلے
 permissions-autoplay-settings =
     .label = ترتیباں …
@@ -1302,6 +1307,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = استثنیات …
     .accesskey = E
+permissions-location2 =
+    .label = مقام
+permissions-xr2 =
+    .label = مجازی حقیقت
+permissions-camera2 =
+    .label = کیمرہ
+permissions-microphone2 =
+    .label = مائیکروفون
+permissions-notification2 =
+    .label = اطلاع نامے
 
 ## Privacy Section - Data Collection
 

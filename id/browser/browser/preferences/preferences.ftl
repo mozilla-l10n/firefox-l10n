@@ -611,6 +611,9 @@ choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Konten { -firefox-home-brand-name }
@@ -1393,6 +1396,8 @@ permissions-notification-link = Pelajari lebih lanjut
 permissions-notification-pause =
     .label = Jeda notifikasi hingga { -brand-short-name } dimulai ulang
     .accesskey = J
+permissions-autoplay2 =
+    .label = Putar Otomatis
 permissions-autoplay = Putar Otomatis
 permissions-autoplay-settings =
     .label = Pengaturan...
@@ -1412,6 +1417,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Pengecualian…
     .accesskey = P
+permissions-location2 =
+    .label = Lokasi
+permissions-xr2 =
+    .label = Realitas Virtual
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Notifikasi
 
 ## Privacy Section - Data Collection
 

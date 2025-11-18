@@ -1473,6 +1473,8 @@ permissions-notification-link = Več o tem
 permissions-notification-pause =
     .label = Ne prikazuj obvestil do naslednjega zagona { -brand-short-name(sklon: "rodilnik") }
     .accesskey = u
+permissions-autoplay2 =
+    .label = Samodejno predvajanje
 permissions-autoplay = Samodejno predvajanje
 permissions-autoplay-settings =
     .label = Nastavitve …
@@ -1492,6 +1494,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Izjeme …
     .accesskey = I
+permissions-location2 =
+    .label = Lokacija
+permissions-localhost2 =
+    .label = Aplikacije in storitve na napravi
+permissions-local-network2 =
+    .label = Naprave lokalnega omrežja
+permissions-xr2 =
+    .label = Navidezna resničnost
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Obvestila
 
 ## Privacy Section - Data Collection
 

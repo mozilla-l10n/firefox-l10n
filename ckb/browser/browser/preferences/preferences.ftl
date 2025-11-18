@@ -40,6 +40,17 @@ should-restart-ok = ئێستا { -brand-short-name } پێبکەرەوە
 cancel-no-restart-button = پاشگەزبوونەوە
 restart-later = دوواتر پێبکەوە
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = گەڕانی ئەنجامەکان
@@ -367,6 +378,9 @@ choose-bookmark =
     .label = دڵخوازەکان بەکاربێنە...
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -651,6 +665,9 @@ forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سە
 primary-password-os-auth-dialog-message-macosx = درووستکردنی وشەی تێپەڕی سەرەکی
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = مێژوو
@@ -705,6 +722,12 @@ sitedata-clear =
 sitedata-settings =
     .label = بەڕێوەبردنی زانیارییەکان...
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -819,6 +842,8 @@ permissions-notification-link = زیاتر بزانە
 permissions-notification-pause =
     .label = ئاگاانامەکان بوەستێنە تاوەکوو { -brand-short-name } پێدەکرێتەوە
     .accesskey = n
+permissions-autoplay2 =
+    .label = خۆپێکردن
 permissions-autoplay = خۆپێکردن
 permissions-autoplay-settings =
     .label = ڕێکخستنەکان...
@@ -832,6 +857,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = هەڵاوێردی...
     .accesskey = E
+permissions-location2 =
+    .label = شوێن
+permissions-xr2 =
+    .label = ڕاستی گریمانەیی
+permissions-camera2 =
+    .label = کامێرا
+permissions-microphone2 =
+    .label = مایکرۆفۆن
+permissions-notification2 =
+    .label = ئاگانامەکان
 
 ## Privacy Section - Data Collection
 
@@ -839,6 +874,9 @@ collection-privacy-notice = تێبینی لەسەر تایبەتێتی
 collection-health-report-telemetry-disabled-link = زیاتر بزانە
 collection-health-report-link = زیاتر بزانە
 addon-recommendations-link = زیاتر بزانە
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -852,6 +890,12 @@ security-enable-safe-browsing-link = زیاتر بزانە
 
 certs-header = بڕوانامە
 certs-devices-enable-fips = FIPS چالاک بکە
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

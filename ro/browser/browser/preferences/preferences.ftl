@@ -688,6 +688,9 @@ home-prefs-recommended-by-description-generic = Conținut excepțional, selecți
 home-prefs-stories-header =
     .label = Articole
 home-prefs-stories-description = Articole personalizate bazate pe activitatea ta
+home-prefs-stories-header2 =
+    .label = Articole
+    .description = Conținut excepțional, selecționat de familia { -brand-product-name }
 
 ##
 
@@ -1520,6 +1523,8 @@ permissions-notification-link = Află mai multe
 permissions-notification-pause =
     .label = Pune pe pauză notificările până la repornirea lui { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Redare automată
 permissions-autoplay = Redare automată
 permissions-autoplay-settings =
     .label = Setări…
@@ -1542,6 +1547,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepții…
     .accesskey = E
+permissions-location2 =
+    .label = Locație
+permissions-localhost2 =
+    .label = Aplicații și servicii pe dispozitiv
+permissions-local-network2 =
+    .label = Dispozitive din rețeaua locală
+permissions-xr2 =
+    .label = Realitate virtuală
+permissions-camera2 =
+    .label = Cameră
+permissions-microphone2 =
+    .label = Microfon
+permissions-notification2 =
+    .label = Notificări
 
 ## Privacy Section - Data Collection
 

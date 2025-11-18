@@ -513,6 +513,9 @@ choose-bookmark =
     .label = Tokisäx yaketal…
     .accesskey = y
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Rupam { -firefox-home-brand-name }
@@ -861,6 +864,9 @@ primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tz
 primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Natab'äl
@@ -1103,6 +1109,8 @@ permissions-notification-link = Tetamäx ch'aqa' chik
 permissions-notification-pause =
     .label = Keq'at ri taq rutzijol k'a toq ri { -brand-short-name } nitikïr chik
     .accesskey = r
+permissions-autoplay2 =
+    .label = Ruyon titzijtäj
 permissions-autoplay = Ruyon titzijtäj
 permissions-autoplay-settings =
     .label = Taq nuk'ulem…
@@ -1122,6 +1130,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Taq man relik ta…
     .accesskey = r
+permissions-location2 =
+    .label = K'ojlib'äl
+permissions-xr2 =
+    .label = Achik'al K'ojlemal
+permissions-camera2 =
+    .label = Elesäy wachib'äl
+permissions-microphone2 =
+    .label = Q'asäy ch'ab'äl
+permissions-notification2 =
+    .label = Taq rutzijol
 
 ## Privacy Section - Data Collection
 
@@ -1150,6 +1168,9 @@ privacy-segmentation-radio-off =
     .label = Tokisäx ruchilab'exik { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Tik'ut pe ri cholajin retamab'al
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

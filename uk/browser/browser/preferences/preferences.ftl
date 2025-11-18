@@ -628,6 +628,9 @@ choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Вміст { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
@@ -1462,6 +1465,8 @@ permissions-notification-link = Докладніше
 permissions-notification-pause =
     .label = Призупинити сповіщення до перезапуску { -brand-short-name }
     .accesskey = П
+permissions-autoplay2 =
+    .label = Автовідтворення
 permissions-autoplay = Автовідтворення
 permissions-autoplay-settings =
     .label = Налаштування…
@@ -1484,6 +1489,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Винятки…
     .accesskey = В
+permissions-location2 =
+    .label = Розташування
+permissions-localhost2 =
+    .label = Програми та служби пристрою
+permissions-local-network2 =
+    .label = Пристрої локальної мережі
+permissions-xr2 =
+    .label = Віртуальна реальність
+permissions-camera2 =
+    .label = Камера
+permissions-microphone2 =
+    .label = Мікрофон
+permissions-notification2 =
+    .label = Сповіщення
 
 ## Privacy Section - Data Collection
 

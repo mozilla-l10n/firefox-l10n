@@ -571,6 +571,9 @@ choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } saturs
@@ -1271,6 +1274,8 @@ permissions-notification-link = Uzzināt vairāk
 permissions-notification-pause =
     .label = Nerādīt paziņojumus līdz { -brand-short-name } pārstartēšanai
     .accesskey = a
+permissions-autoplay2 =
+    .label = Automātiskā atskaņošana
 permissions-autoplay = Automātiskā atskaņošana
 permissions-autoplay-settings =
     .label = Iestatījumi…
@@ -1290,6 +1295,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Izņēmumi...
     .accesskey = I
+permissions-location2 =
+    .label = Atrašanās vieta
+permissions-xr2 =
+    .label = Virtuālā realitāte
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofons
+permissions-notification2 =
+    .label = Paziņojumi
 
 ## Privacy Section - Data Collection
 
@@ -1321,6 +1336,9 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Contento exceptional curate per 
 home-prefs-stories-header =
     .label = Historias
 home-prefs-stories-description = Historias personalisate basate sur tu activitate
+home-prefs-stories-header2 =
+    .label = Historias
+    .description = Contento exceptional curate per le familia de { -brand-product-name }
 
 ##
 
@@ -1526,6 +1529,8 @@ permissions-notification-link = Saper plus
 permissions-notification-pause =
     .label = Pausar le notificationes usque { -brand-short-name } reinitia
     .accesskey = n
+permissions-autoplay2 =
+    .label = Autoreproduction
 permissions-autoplay = Autoreproduction
 permissions-autoplay-settings =
     .label = Parametros…
@@ -1548,6 +1553,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Exceptiones…
     .accesskey = E
+permissions-location2 =
+    .label = Geolocalisation
+permissions-localhost2 =
+    .label = Applicationes e servicios de apparato
+permissions-local-network2 =
+    .label = Apparatos de rete local
+permissions-xr2 =
+    .label = Realitate virtual
+permissions-camera2 =
+    .label = Camera
+permissions-microphone2 =
+    .label = Microphono
+permissions-notification2 =
+    .label = Notificationes
 
 ## Privacy Section - Data Collection
 

@@ -1373,6 +1373,8 @@ permissions-notification-link = Argibide gehiago
 permissions-notification-pause =
     .label = Pausatu jakinarazpenak { -brand-short-name } berrabiarazi arte
     .accesskey = n
+permissions-autoplay2 =
+    .label = Erreprodukzio automatikoa
 permissions-autoplay = Erreprodukzio automatikoa
 permissions-autoplay-settings =
     .label = Ezarpenak…
@@ -1392,6 +1394,18 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Salbuespenak…
     .accesskey = S
+permissions-location2 =
+    .label = Kokapena
+permissions-local-network2 =
+    .label = Sare lokaleko gailuak
+permissions-xr2 =
+    .label = Errealitate birtuala
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofonoa
+permissions-notification2 =
+    .label = Jakinarazpenak
 
 ## Privacy Section - Data Collection
 
@@ -1428,6 +1442,9 @@ privacy-segmentation-radio-off =
     .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

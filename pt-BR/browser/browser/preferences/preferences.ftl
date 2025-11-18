@@ -685,6 +685,9 @@ home-prefs-recommended-by-description-generic = Conteúdo excepcional selecionad
 home-prefs-stories-header =
     .label = Histórias
 home-prefs-stories-description = Histórias personalizadas com base na sua atividade
+home-prefs-stories-header2 =
+    .label = Histórias
+    .description = Conteúdo excepcional selecionado pela família { -brand-product-name }
 
 ##
 
@@ -1516,6 +1519,8 @@ permissions-notification-link = Saiba mais
 permissions-notification-pause =
     .label = Inibir notificações até o { -brand-short-name } ser reiniciado
     .accesskey = n
+permissions-autoplay2 =
+    .label = Reprodução automática
 permissions-autoplay = Reprodução automática
 permissions-autoplay-settings =
     .label = Configurações…
@@ -1538,6 +1543,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Exceções…
     .accesskey = E
+permissions-location2 =
+    .label = Localização
+permissions-localhost2 =
+    .label = Aplicativos e serviços do dispositivo
+permissions-local-network2 =
+    .label = Dispositivos de rede local
+permissions-xr2 =
+    .label = Realidade Virtual
+permissions-camera2 =
+    .label = Câmera
+permissions-microphone2 =
+    .label = Microfone
+permissions-notification2 =
+    .label = Notificações
 
 ## Privacy Section - Data Collection
 

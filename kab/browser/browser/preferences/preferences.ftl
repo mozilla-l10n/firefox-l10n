@@ -618,6 +618,9 @@ choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Agbur { -firefox-home-brand-name }
@@ -1369,6 +1372,8 @@ permissions-notification-link = Issin ugar
 permissions-notification-pause =
     .label = Saḥbes ilγa arma yekker { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Aseddu awurman
 permissions-autoplay = Aseddu awurman
 permissions-autoplay-settings =
     .label = Iɣewwaṛen
@@ -1388,6 +1393,18 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Tisuraf…
     .accesskey = s
+permissions-location2 =
+    .label = Adig
+permissions-local-network2 =
+    .label = Ibenkan n uzeṭṭa adigan
+permissions-xr2 =
+    .label = Tilawt tuhlist
+permissions-camera2 =
+    .label = Takamiṛat
+permissions-microphone2 =
+    .label = Asawaḍ
+permissions-notification2 =
+    .label = Ilγa
 
 ## Privacy Section - Data Collection
 

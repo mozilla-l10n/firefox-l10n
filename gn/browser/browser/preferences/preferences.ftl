@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Tetepy oiporavóva { -brand-prod
 home-prefs-stories-header =
     .label = Tembiasakue
 home-prefs-stories-description = Tembiasakueita teéva ipyendáva ne rembiapóre
+home-prefs-stories-header2 =
+    .label = Tembiasakue
+    .description = Tetepy oiporavóva { -brand-product-name } reheguáva
 
 ##
 
@@ -1524,6 +1527,8 @@ permissions-notification-link = Eikuaave
 permissions-notification-pause =
     .label = Tojejoko momarandu’i oñepyrũjey peve { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Mbohetajehegui
 permissions-autoplay = Mbohetajehegui
 permissions-autoplay-settings =
     .label = Ñemboheko
@@ -1546,6 +1551,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Oĩ’ỹva…
     .accesskey = E
+permissions-location2 =
+    .label = Tenda
+permissions-localhost2 =
+    .label = Tembiporu’i ha mba’epytyvõrã mba’e’okagua
+permissions-local-network2 =
+    .label = Mba’e’oka ñanduti rehegua
+permissions-xr2 =
+    .label = Añetegua ñanduti
+permissions-camera2 =
+    .label = Cámara
+permissions-microphone2 =
+    .label = Ñe’ẽmbotuichaha
+permissions-notification2 =
+    .label = Marandu’i
 
 ## Privacy Section - Data Collection
 

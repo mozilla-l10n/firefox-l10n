@@ -147,7 +147,7 @@ browsing-use-smooth-scrolling =
 ## Home Section
 
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -163,6 +163,9 @@ use-current-pages =
 choose-bookmark =
     .label = Dirisa Letshwaotsebe…
     .accesskey = L
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -288,6 +291,8 @@ permissions-notification = Dikitsiso
 permissions-block-popups =
     .label = Thibela di Window tse di tlhagelelang
     .accesskey = T
+permissions-notification2 =
+    .label = Dikitsiso
 
 ## Privacy Section - Data Collection
 

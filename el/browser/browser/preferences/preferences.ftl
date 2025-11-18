@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Εξαιρετικό περιε�
 home-prefs-stories-header =
     .label = Άρθρα
 home-prefs-stories-description = Εξατομικευμένα άρθρα με βάση τη δραστηριότητά σας
+home-prefs-stories-header2 =
+    .label = Άρθρα
+    .description = Εξαιρετικό περιεχόμενο από την οικογένεια του { -brand-product-name }
 
 ##
 
@@ -1526,6 +1529,8 @@ permissions-notification-link = Μάθετε περισσότερα
 permissions-notification-pause =
     .label = Παύση ειδοποιήσεων μέχρι να επανεκκινηθεί το { -brand-short-name }
     .accesskey = ε
+permissions-autoplay2 =
+    .label = Αυτόματη αναπαραγωγή
 permissions-autoplay = Αυτόματη αναπαραγωγή
 permissions-autoplay-settings =
     .label = Ρυθμίσεις…
@@ -1548,6 +1553,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = Ε
+permissions-location2 =
+    .label = Τοποθεσία
+permissions-localhost2 =
+    .label = Εφαρμογές και υπηρεσίες συσκευής
+permissions-local-network2 =
+    .label = Συσκευές τοπικού δικτύου
+permissions-xr2 =
+    .label = Εικονική πραγματικότητα
+permissions-camera2 =
+    .label = Κάμερα
+permissions-microphone2 =
+    .label = Μικρόφωνο
+permissions-notification2 =
+    .label = Ειδοποιήσεις
 
 ## Privacy Section - Data Collection
 

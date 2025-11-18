@@ -675,6 +675,9 @@ home-prefs-recommended-by-description-generic = 由 { -brand-product-name } 產�
 home-prefs-stories-header =
     .label = 文章
 home-prefs-stories-description = 依照您的上網行為，提供個人化文章推薦
+home-prefs-stories-header2 =
+    .label = 文章
+    .description = 由 { -brand-product-name } 產品家族精選的內容文章
 
 ##
 
@@ -1514,6 +1517,8 @@ permissions-notification-link = 了解更多
 permissions-notification-pause =
     .label = 暫停通知到 { -brand-short-name } 重新啟動後
     .accesskey = n
+permissions-autoplay2 =
+    .label = 自動播放
 permissions-autoplay = 自動播放
 permissions-autoplay-settings =
     .label = 設定…
@@ -1536,6 +1541,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = 例外網站…
     .accesskey = E
+permissions-location2 =
+    .label = 位置
+permissions-localhost2 =
+    .label = 裝置應用程式與服務
+permissions-local-network2 =
+    .label = 區域網路裝置
+permissions-xr2 =
+    .label = 虛擬實境
+permissions-camera2 =
+    .label = 攝影機
+permissions-microphone2 =
+    .label = 麥克風
+permissions-notification2 =
+    .label = 通知
 
 ## Privacy Section - Data Collection
 

@@ -690,6 +690,9 @@ home-prefs-recommended-by-description-generic = Исключительный к�
 home-prefs-stories-header =
     .label = Истории
 home-prefs-stories-description = Персонализированные истории на основе вашей активности
+home-prefs-stories-header2 =
+    .label = Истории
+    .description = Исключительный контент, курируемый семейством { -brand-product-name }
 
 ##
 
@@ -1530,6 +1533,8 @@ permissions-notification-link = Подробнее
 permissions-notification-pause =
     .label = Отключить уведомления до перезапуска { -brand-short-name }
     .accesskey = ю
+permissions-autoplay2 =
+    .label = Автовоспроизведение
 permissions-autoplay = Автовоспроизведение
 permissions-autoplay-settings =
     .label = Параметры…
@@ -1552,6 +1557,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Исключения…
     .accesskey = с
+permissions-location2 =
+    .label = Местоположение
+permissions-localhost2 =
+    .label = Приложения и службы устройства
+permissions-local-network2 =
+    .label = Устройства локальной сети
+permissions-xr2 =
+    .label = Виртуальная реальность
+permissions-camera2 =
+    .label = Камера
+permissions-microphone2 =
+    .label = Микрофон
+permissions-notification2 =
+    .label = Уведомления
 
 ## Privacy Section - Data Collection
 

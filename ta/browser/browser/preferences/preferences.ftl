@@ -354,6 +354,9 @@ choose-bookmark =
     .label = புத்தககுறியை பயன்படுத்தவும்...
     .accesskey = ப
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -485,6 +488,12 @@ sync-sign-in =
     .label = புகுபதிகை
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -568,6 +577,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = கடவுச்சொல்லை மாற்ற முடியவில்லை
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = வரலாறு
@@ -633,6 +648,12 @@ sitedata-settings =
     .label = தரவை நிர்வகி
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = முகவரி பட்டை
@@ -666,6 +687,15 @@ enhanced-tracking-protection-setting-custom =
     .label = தனிப்பயன்
     .accesskey = C
 
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-header = அனுமதிகள்
@@ -698,6 +728,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = விதிவிலக்குகள்…
     .accesskey = E
+permissions-location2 =
+    .label = இடம்
+permissions-camera2 =
+    .label = படக்கருவி
+permissions-microphone2 =
+    .label = ஒலிவாங்கி
+permissions-notification2 =
+    .label = அறிவிப்புகள்
 
 ## Privacy Section - Data Collection
 
@@ -715,6 +753,9 @@ addon-recommendations-link = மேலும் அறிக
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -747,6 +788,12 @@ certs-devices =
     .label = பாதுகாப்பு சாதனங்கள்…
     .accesskey = D
 certs-devices-enable-fips = FIPSஐ செயல்படுத்து
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
