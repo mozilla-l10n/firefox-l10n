@@ -877,6 +877,8 @@ permissions-notification-link = अधिक जानें
 permissions-notification-pause =
     .label = { -brand-short-name } के पुनः शुरू होने तक अधिसूचना रोकें
     .accesskey = n
+permissions-autoplay2 =
+    .label = ऑटोप्‍ले
 permissions-autoplay = ऑटोप्‍ले
 permissions-autoplay-settings =
     .label = सेटिंग…
@@ -892,6 +894,14 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = स्थान
+permissions-xr2 =
+    .label = Virtual Reality
+permissions-camera2 =
+    .label = कैमरा
+permissions-microphone2 =
+    .label = माइक्रोफोन
+permissions-notification2 =
+    .label = अधिसूचना
 
 ## Privacy Section - Data Collection
 
