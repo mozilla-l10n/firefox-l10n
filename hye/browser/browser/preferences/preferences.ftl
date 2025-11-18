@@ -1105,6 +1105,8 @@ permissions-notification-link = Իմանալ աւելին
 permissions-notification-pause =
     .label = Դադարեցնել ծանուցումները մինչեւ{ -brand-short-name }-ը վերամեկնարկելը
     .accesskey = n
+permissions-autoplay2 =
+    .label = Ինքնանուագարկում
 permissions-autoplay = Ինքնանուագարկում
 permissions-autoplay-settings =
     .label = Կարգաւորումներ...
@@ -1126,6 +1128,14 @@ permissions-addon-exceptions =
     .accesskey = Բ
 permissions-location2 =
     .label = Տեղադրութիւն
+permissions-xr2 =
+    .label = Թուացեալ իրականութիւն
+permissions-camera2 =
+    .label = Խցիկ
+permissions-microphone2 =
+    .label = Խոսափող
+permissions-notification2 =
+    .label = Ծանուցումներ
 
 ## Privacy Section - Data Collection
 
