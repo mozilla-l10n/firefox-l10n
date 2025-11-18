@@ -1520,6 +1520,8 @@ permissions-notification-link = Ďalšie informácie
 permissions-notification-pause =
     .label = Pozastaviť upozornenia do reštartu aplikácie { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Automatické prehrávanie
 permissions-autoplay = Automatické prehrávanie
 permissions-autoplay-settings =
     .label = Nastavenia…
@@ -1542,6 +1544,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Výnimky…
     .accesskey = V
+permissions-xr2 =
+    .label = Virtuálna realita
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofón
+permissions-notification2 =
+    .label = Upozornenia
 
 ## Privacy Section - Data Collection
 
