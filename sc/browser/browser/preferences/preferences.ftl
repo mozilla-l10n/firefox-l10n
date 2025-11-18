@@ -622,6 +622,9 @@ choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
@@ -1438,6 +1441,8 @@ permissions-notification-link = Àteras informatziones
 permissions-notification-pause =
     .label = Pone is notìficas in pàusa fintzas a cando { -brand-short-name } no at a èssere torradu a aviare
     .accesskey = n
+permissions-autoplay2 =
+    .label = Riprodutzione in automàticu
 permissions-autoplay = Riprodutzione in automàticu
 permissions-autoplay-settings =
     .label = Cunfiguratzione…
