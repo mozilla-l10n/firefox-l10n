@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = გამორჩეული �
 home-prefs-stories-header =
     .label = ამბები
 home-prefs-stories-description = თქვენს საქმიანობაზე მორგებული ამბები
+home-prefs-stories-header2 =
+    .label = ამბები
+    .description = გამორჩეული მასალები, რომელთაც გთავაზობთ { -brand-product-name }-ოჯახი
 
 ##
 
