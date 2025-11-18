@@ -1515,6 +1515,8 @@ permissions-notification-link = Pli da informo
 permissions-notification-pause =
     .label = Paŭzigi sciigojn ĝis kiam { -brand-short-name } restartos
     .accesskey = P
+permissions-autoplay2 =
+    .label = Aŭtomata ludado
 permissions-autoplay = Aŭtomata ludado
 permissions-autoplay-settings =
     .label = Agordoj…
@@ -1537,6 +1539,10 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Esceptoj…
     .accesskey = E
+permissions-location2 =
+    .label = Loko
+permissions-notification2 =
+    .label = Sciigoj
 
 ## Privacy Section - Data Collection
 
