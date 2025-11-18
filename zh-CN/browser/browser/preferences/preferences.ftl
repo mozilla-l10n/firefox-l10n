@@ -1518,6 +1518,8 @@ permissions-notification-link = 详细了解
 permissions-notification-pause =
     .label = 暂停通知直至下次打开 { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = 自动播放
 permissions-autoplay = 自动播放
 permissions-autoplay-settings =
     .label = 设置…
@@ -1540,6 +1542,12 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = 例外…
     .accesskey = E
+permissions-xr2 =
+    .label = 虚拟现实
+permissions-camera2 =
+    .label = 摄像头
+permissions-microphone2 =
+    .label = 麦克风
 
 ## Privacy Section - Data Collection
 
