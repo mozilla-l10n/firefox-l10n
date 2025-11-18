@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Contento exceptional curate per 
 home-prefs-stories-header =
     .label = Historias
 home-prefs-stories-description = Historias personalisate basate sur tu activitate
+home-prefs-stories-header2 =
+    .label = Historias
+    .description = Contento exceptional curate per le familia de { -brand-product-name }
 
 ##
 
