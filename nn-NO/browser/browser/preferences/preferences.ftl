@@ -1470,6 +1470,8 @@ permissions-notification-link = Les meir
 permissions-notification-pause =
     .label = Set varsel på pause til { -brand-short-name } startar på nytt
     .accesskey = n
+permissions-autoplay2 =
+    .label = Automatisk avspeling
 permissions-autoplay = Automatisk avspeling
 permissions-autoplay-settings =
     .label = Innstillingar
@@ -1489,6 +1491,10 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Unntak…
     .accesskey = U
+permissions-location2 =
+    .label = Plassering
+permissions-xr2 =
+    .label = Virtuell røyndom
 
 ## Privacy Section - Data Collection
 
