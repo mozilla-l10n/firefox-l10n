@@ -688,6 +688,9 @@ home-prefs-recommended-by-description-generic = Výnimočný obsah spravovaný r
 home-prefs-stories-header =
     .label = Príbehy
 home-prefs-stories-description = Prispôsobené príbehy na základe vašej aktivity
+home-prefs-stories-header2 =
+    .label = Príbehy
+    .description = Výnimočný obsah spravovaný rodinou { -brand-product-name }
 
 ##
 
