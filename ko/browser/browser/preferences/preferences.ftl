@@ -675,6 +675,9 @@ home-prefs-recommended-by-description-generic = { -brand-product-name } 제품�
 home-prefs-stories-header =
     .label = 이야기
 home-prefs-stories-description = 활동에 기반한 개인화된 이야기
+home-prefs-stories-header2 =
+    .label = 이야기
+    .description = { -brand-product-name } 제품군이 선별한 뛰어난 콘텐츠
 
 ##
 
