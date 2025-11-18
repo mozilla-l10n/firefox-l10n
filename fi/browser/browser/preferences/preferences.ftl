@@ -1515,6 +1515,8 @@ permissions-notification-link = Lue lisää
 permissions-notification-pause =
     .label = Älä näytä ilmoituksia ennen kuin { -brand-short-name } uudelleenkäynnistetään
     .accesskey = k
+permissions-autoplay2 =
+    .label = Automaattinen toisto
 permissions-autoplay = Automaattinen toisto
 permissions-autoplay-settings =
     .label = Asetukset…
@@ -1537,6 +1539,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Poikkeukset…
     .accesskey = P
+permissions-location2 =
+    .label = Sijainti
+permissions-xr2 =
+    .label = Virtuaalitodellisuus
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofoni
+permissions-notification2 =
+    .label = Ilmoitukset
 
 ## Privacy Section - Data Collection
 
