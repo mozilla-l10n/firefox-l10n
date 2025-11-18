@@ -14,6 +14,7 @@ url-classifier-search-result-list = Tabla rysýi: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL oiko’ỹva
 url-classifier-search-error-no-features = Noñembosa’ýi mba’eveichagua
+url-classifier-search-error-no-results = Ndojejuhúi jeikeha URL-pe g̃uarã
 url-classifier-search-btn = Emoñepyrũ jeheka
 url-classifier-search-features = Mboja’opy
 url-classifier-search-listType = Tysýi peteĩchagua
