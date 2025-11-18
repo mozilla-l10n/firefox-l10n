@@ -685,6 +685,9 @@ home-prefs-recommended-by-description-generic = תוכן יוצא דופן שנ�
 home-prefs-stories-header =
     .label = סיפורים
 home-prefs-stories-description = סיפורים מותאמים אישית המבוססים על הפעילות שלך
+home-prefs-stories-header2 =
+    .label = סיפורים
+    .description = תוכן יוצא דופן שנבחר בקפידה על־ידי משפחת { -brand-product-name }
 
 ##
 
