@@ -686,6 +686,9 @@ home-prefs-recommended-by-description-generic = Lëndë e veçantë, nën kujdes
 home-prefs-stories-header =
     .label = Histori
 home-prefs-stories-description = Histori të personalizuara, bazuar në veprimtarinë tuaj
+home-prefs-stories-header2 =
+    .label = Histori
+    .description = Lëndë e veçantë, nën kujdesin e familjes { -brand-product-name }
 
 ##
 
