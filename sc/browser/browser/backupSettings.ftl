@@ -168,8 +168,10 @@ change-backup-encryption-header = Modifica sa crae de sa còpia de seguresa
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
+password-rules-header = Rechisitos pro is craes
 password-rules-length-description = Mìnimu 8 caràteres
 password-rules-email-description = Diferente de s’indiritzu tuo de posta eletrònica
+password-rules-disclaimer = Abarra in seguresa: no imprees is pròpiu craes pro sitos diferentes. Leghe àteros cussìgios pro <a data-l10n-name="password-support-link">creare craes seguras</a>.
 password-validity-has-email = Non podet èssere un’indiritzu de posta eletrònica
 password-validity-do-not-match = Is craes non currispondent
 
@@ -191,6 +193,7 @@ disable-backup-encryption-confirm-button = Canzella sa crae
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = Sa crae tua non rispetat is rechisitos. Proa·nde un’àtera.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
@@ -204,6 +207,7 @@ backup-error-retry = Ddoe est istadu unu problema. Torra a proare.
 
 backup-file-header = { -brand-short-name } est prontu pro èssere recuperadu
 backup-file-title = Recùpera { -brand-short-name }
+backup-file-intro = Torra a navigare e recùpera is sinnalibros, sa cronologia e àteros datos. <a data-l10n-name="backup-file-support-link">Àteras informatziones</a>
 backup-file-path-label = Archìviu de còpia de seguresa:
 backup-file-encryption-state-label = Tzifradu:
 backup-file-encryption-state-value-encrypted = Eja
@@ -243,3 +247,5 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Creadu in { $machineName } in custa data: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }
 backup-file-restore-file-validation-error = Custu archìviu non funtzionat. Proa a seletzionare un’àteru archìviu. <a data-l10n-name="restore-problems">Tenes ancora problemas?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Nissunu archìviu seletzionadu
