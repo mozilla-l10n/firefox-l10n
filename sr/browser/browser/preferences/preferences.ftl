@@ -601,6 +601,9 @@ choose-bookmark =
     .label = Користи обележивач…
     .accesskey = б
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } садржај
@@ -1268,6 +1271,8 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Изузеци
     .accesskey = И
+permissions-location2 =
+    .label = Локација
 
 ## Privacy Section - Data Collection
 
@@ -1303,6 +1308,9 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
