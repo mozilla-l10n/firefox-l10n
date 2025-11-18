@@ -532,6 +532,9 @@ choose-bookmark =
     .label = Kasuta järjehoidjat…
     .accesskey = j
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -877,6 +880,9 @@ primary-password-os-auth-dialog-message-win = Ülemparooli loomiseks sisesta Win
 primary-password-os-auth-dialog-message-macosx = create a Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Ajalugu
@@ -964,6 +970,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Halda erandeid…
     .accesskey = H
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1100,6 +1112,8 @@ permissions-notification-link = Rohkem teavet
 permissions-notification-pause =
     .label = Pane teavitused { -brand-short-name }i taaskäivitumiseni pausile
     .accesskey = P
+permissions-autoplay2 =
+    .label = Automaatne esitamine
 permissions-autoplay = Automaatne esitamine
 permissions-autoplay-settings =
     .label = Sätted…
@@ -1119,6 +1133,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Erandid…
     .accesskey = E
+permissions-location2 =
+    .label = Asukoht
+permissions-xr2 =
+    .label = Virtuaalreaalsus
+permissions-camera2 =
+    .label = Kaamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Teavitused
 
 ## Privacy Section - Data Collection
 
@@ -1142,6 +1166,9 @@ addon-recommendations-link = Rohkem teavet
 collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on andmete raporteerimine keelatud
 collection-backlogged-crash-reports-with-link = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid <a data-l10n-name="crash-reports-link">Rohkem teavet</a>
     .accesskey = L
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -1191,6 +1218,9 @@ httpsonly-radio-enabled-pbm =
     .label = Ainult HTTPS-režiimi kasutatakse ainult privaatsetes akendes
 httpsonly-radio-disabled =
     .label = Ainult HTTPS-režiimi ei lubata
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
