@@ -1186,6 +1186,8 @@ history-remember-description2 =
     .description = { -brand-short-name } imandu’áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.
 history-dontremember-description2 =
     .description = { -brand-short-name } oiporujeýta ñemboheko kundaha ñemiguáva, ha noñongatumo’ãi mba’ekuaarã tembiasakuéva oikundahávo ñandutípe.
+history-custom-description =
+    .description = { -brand-short-name } oiporúta ñemboheko mba’eteéva, kundaha rehegua, ñemboguejy, myanyhẽha ha jeheka.
 history-remember-description = { -brand-short-name } imandu’áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.
 history-dontremember-description = { -brand-short-name } oiporujeýta ñemboheko kundaha ñemiguáva, ha noñongatumo’ãi mba’ekuaarã tembiasakuéva oikundahávo ñandutípe.
 history-private-browsing-permanent =
@@ -1294,6 +1296,8 @@ addressbar-header = Kundaharape renda
 addressbar-suggest-1 = Eiporavo mba’e ñemoñe’ẽ ojehecháta nde kundaha rupápe
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = He’íva { -brand-short-name } ha ore irũnguéra ikundaharape rupápe.
 addressbar-suggest = Eiporúramo kundaharape renda, eñemoñe’ẽ
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Kundaharape rupa — { -firefox-suggest-brand-name }
