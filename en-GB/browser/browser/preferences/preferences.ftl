@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Exceptional content curated by t
 home-prefs-stories-header =
     .label = Stories
 home-prefs-stories-description = Personalised stories based on your activity
+home-prefs-stories-header2 =
+    .label = Stories
+    .description = Exceptional content curated by the { -brand-product-name } family
 
 ##
 
