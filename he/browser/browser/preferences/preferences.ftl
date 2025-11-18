@@ -1516,6 +1516,8 @@ permissions-notification-link = מידע נוסף
 permissions-notification-pause =
     .label = השהיית התרעות עד להפעלה מחדש של { -brand-short-name }
     .accesskey = ה
+permissions-autoplay2 =
+    .label = ניגון אוטומטי
 permissions-autoplay = ניגון אוטומטי
 permissions-autoplay-settings =
     .label = הגדרות…
@@ -1538,6 +1540,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = חריגות…
     .accesskey = ח
+permissions-location2 =
+    .label = מיקום
+permissions-xr2 =
+    .label = מציאות מדומה
+permissions-camera2 =
+    .label = מצלמה
+permissions-microphone2 =
+    .label = מיקרופון
+permissions-notification2 =
+    .label = התרעות
 
 ## Privacy Section - Data Collection
 
