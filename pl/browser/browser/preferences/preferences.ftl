@@ -1519,6 +1519,8 @@ permissions-notification-link = Więcej informacji
 permissions-notification-pause =
     .label = Wstrzymaj powiadomienia do czasu ponownego uruchomienia przeglądarki { -brand-short-name }
     .accesskey = W
+permissions-autoplay2 =
+    .label = Automatyczne odtwarzanie
 permissions-autoplay = Automatyczne odtwarzanie
 permissions-autoplay-settings =
     .label = Ustawienia…
@@ -1541,6 +1543,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wyjątki…
     .accesskey = W
+permissions-location2 =
+    .label = Położenie
+permissions-xr2 =
+    .label = Rzeczywistość wirtualna
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Powiadomienia.
 
 ## Privacy Section - Data Collection
 
