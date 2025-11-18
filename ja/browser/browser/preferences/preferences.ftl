@@ -1524,6 +1524,8 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = 許可サイト...
     .accesskey = E
+permissions-location2 =
+    .label = 位置情報
 
 ## Privacy Section - Data Collection
 
