@@ -1552,6 +1552,12 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = Localisation
+permissions-xr2 =
+    .label = Réalité virtuelle
+permissions-camera2 =
+    .label = Caméra
+permissions-microphone2 =
+    .label = Microphone
 
 ## Privacy Section - Data Collection
 
