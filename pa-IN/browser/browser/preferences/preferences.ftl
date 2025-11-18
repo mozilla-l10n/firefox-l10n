@@ -684,6 +684,9 @@ home-prefs-recommended-by-description-generic = { -brand-product-name } ਸਮ�
 home-prefs-stories-header =
     .label = ਲੇਖ
 home-prefs-stories-description = ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਦੇ ਮੁਤਾਬਕ ਨਿੱਜੀ ਪਸੰਦ ਬਣਾਏ ਗਏ ਲੇਖ
+home-prefs-stories-header2 =
+    .label = ਲੇਖ
+    .description = { -brand-product-name } ਸਮੂਹ ਵਲੋਂ ਤਿਆਰ ਕੀਤੀ ਖਾਸ ਸਮੱਗਰੀ
 
 ##
 
