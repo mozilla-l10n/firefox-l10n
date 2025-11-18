@@ -266,3 +266,5 @@ link-preview-onboarding-button = Ehecha hechaha ypy
 link-preview-onboarding-close = Emboty
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = Ñemboheko ñepyrũgua
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Kóva ikatu hi’are’imi. Uperireve ehecháta kytaita ha’etéva pya’eve.

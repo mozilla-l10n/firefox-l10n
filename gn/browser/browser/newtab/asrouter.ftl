@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Ñañongatu jo’a ko’ã kundaharape ño
 fxa-adoption-addresses-backup-subtitle = Emo’ã umi kundaharape ñongatupyre embojuehévo umi mba’e’oka ipapapýva ndive.
 fxa-adoption-credit-cards-backup-title = Ñañongatu jo’a jehepyme’ẽrã rehegua
 fxa-adoption-credit-cards-backup-subtitle = Emo’ã nde jehepyme’ẽrã rape embojuehévo ne mba’e’okakuérape ipapapýva reheve.
+fxa-adoption-bookmarks-treatment-backup-title = Ñañongatu jey techaukaha rekorosãrã
+fxa-adoption-bookmarks-treatment-backup-subtitle = Emo’ã nde rechaukaha mbojuehepyre ne mba’e’okápe eiporúvo mbopapapy.
 fxa-adoption-primary-button-label = Eñemboheraguapy
 
 ## Protections panel
