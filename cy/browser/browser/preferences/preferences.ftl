@@ -1542,6 +1542,8 @@ permissions-notification-link = Darllen rhagor
 permissions-notification-pause =
     .label = Oedi fy hysbysiadau tan { -brand-short-name } ailgychwyn
     .accesskey = O
+permissions-autoplay2 =
+    .label = Awtochwarae
 permissions-autoplay = Awtochwarae
 permissions-autoplay-settings =
     .label = Gosodiadau…
@@ -1564,6 +1566,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Eithriadau…
     .accesskey = E
+permissions-location2 =
+    .label = Lleoliad
+permissions-xr2 =
+    .label = Rhithrealaeth
+permissions-camera2 =
+    .label = Camera
+permissions-microphone2 =
+    .label = Meicroffon
+permissions-notification2 =
+    .label = Hysbysiadau
 
 ## Privacy Section - Data Collection
 
