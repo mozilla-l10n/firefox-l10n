@@ -943,6 +943,10 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = స్థానము
+permissions-camera2 =
+    .label = కెమేరా
+permissions-microphone2 =
+    .label = మైక్రోఫోను
 permissions-notification2 =
     .label = గమనింపులు
 
