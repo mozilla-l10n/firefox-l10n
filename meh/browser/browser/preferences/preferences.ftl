@@ -896,6 +896,10 @@ permissions-xr2 =
     .label = Realidad virtual
 permissions-camera2 =
     .label = Ka̱a̱ natava
+permissions-microphone2 =
+    .label = Micrófono
+permissions-notification2 =
+    .label = Notificaciones
 
 ## Privacy Section - Data Collection
 
