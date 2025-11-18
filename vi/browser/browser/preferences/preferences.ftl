@@ -1532,6 +1532,8 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ngoại lệ…
     .accesskey = E
+permissions-location2 =
+    .label = Vị trí
 
 ## Privacy Section - Data Collection
 
