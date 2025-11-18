@@ -1109,6 +1109,8 @@ permissions-notification-link = Tetamäx ch'aqa' chik
 permissions-notification-pause =
     .label = Keq'at ri taq rutzijol k'a toq ri { -brand-short-name } nitikïr chik
     .accesskey = r
+permissions-autoplay2 =
+    .label = Ruyon titzijtäj
 permissions-autoplay = Ruyon titzijtäj
 permissions-autoplay-settings =
     .label = Taq nuk'ulem…
@@ -1130,6 +1132,14 @@ permissions-addon-exceptions =
     .accesskey = r
 permissions-location2 =
     .label = K'ojlib'äl
+permissions-xr2 =
+    .label = Achik'al K'ojlemal
+permissions-camera2 =
+    .label = Elesäy wachib'äl
+permissions-microphone2 =
+    .label = Q'asäy ch'ab'äl
+permissions-notification2 =
+    .label = Taq rutzijol
 
 ## Privacy Section - Data Collection
 
