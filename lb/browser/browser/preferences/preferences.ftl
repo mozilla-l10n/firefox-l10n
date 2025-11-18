@@ -90,6 +90,10 @@ browser-containers-settings =
     .label = Astellungen....
     .accesskey = A
 
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
 ##
 
 containers-disable-alert-cancel-button = Aktivéiert loossen
@@ -207,6 +211,9 @@ network-proxy-connection-settings =
     .label = Astellungen...
     .accesskey = A
 
+## Home Section
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startsäit an nei Fënsteren
@@ -231,6 +238,18 @@ choose-bookmark =
     .label = Lieszeeche benotzen...
     .accesskey = B
 
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
+
 ## Search Section
 
 search-choose-engine-column =
@@ -245,6 +264,26 @@ search-remove-engine =
 
 containers-remove-button =
     .label = Läschen
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -285,15 +324,55 @@ sync-verification-sent-body = E Link zur Bestätegung ass un { $email } geschéc
 sync-verification-not-sent-title = D'Bestätegung konnt net geschéckt ginn
 sync-verification-not-sent-body = Et ass eis net méiglech d'Bestätegungsemail dëse Moment ze schécken, probéier wegl méi spéit nach emol.
 
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
+
+## Privacy Section - Passwords
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
+## Privacy Section - History
+
+
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Fir méi ze wëssen
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
 addressbar-locbar-bookmarks-option =
     .label = Lieszeechen
     .accesskey = k
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -305,10 +384,21 @@ permissions-camera = Kamera
 permissions-microphone = Mikro
 permissions-notification = Notifikatiounen
 permissions-notification-link = Fir méi ze wëssen
+permissions-location2 =
+    .label = Standuert
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikro
+permissions-notification2 =
+    .label = Notifikatiounen
 
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Fir méi ze wëssen
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -317,3 +407,15 @@ collection-health-report-link = Fir méi ze wëssen
 
 security-header = Sécherheet
 security-enable-safe-browsing-link = Fir méi ze wëssen
+
+## Privacy Section - Certificates
+
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## The following strings are used in the Download section of settings
+
