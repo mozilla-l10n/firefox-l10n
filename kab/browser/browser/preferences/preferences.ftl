@@ -1397,6 +1397,14 @@ permissions-location2 =
     .label = Adig
 permissions-local-network2 =
     .label = Ibenkan n uzeṭṭa adigan
+permissions-xr2 =
+    .label = Tilawt tuhlist
+permissions-camera2 =
+    .label = Takamiṛat
+permissions-microphone2 =
+    .label = Asawaḍ
+permissions-notification2 =
+    .label = Ilγa
 
 ## Privacy Section - Data Collection
 
