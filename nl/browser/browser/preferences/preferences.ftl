@@ -1548,6 +1548,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Uitzonderingen…
     .accesskey = U
+permissions-location2 =
+    .label = Locatie
+permissions-xr2 =
+    .label = Virtual Reality
+permissions-camera2 =
+    .label = Camera
+permissions-microphone2 =
+    .label = Microfoon
+permissions-notification2 =
+    .label = Notificaties
 
 ## Privacy Section - Data Collection
 
