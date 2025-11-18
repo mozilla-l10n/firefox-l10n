@@ -690,6 +690,9 @@ home-prefs-recommended-by-description-generic = Выключнае змесці�
 home-prefs-stories-header =
     .label = Гісторыі
 home-prefs-stories-description = Персаналізаваныя гісторыі на аснове вашай актыўнасці
+home-prefs-stories-header2 =
+    .label = Гісторыі
+    .description = Выключнае змесціва, курыраванае сям'ёй { -brand-product-name }
 
 ##
 
