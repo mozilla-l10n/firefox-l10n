@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Kivételes tartalmak a { -brand-
 home-prefs-stories-header =
     .label = Történetek
 home-prefs-stories-description = Személyre szabott történetek a tevékenysége alapján
+home-prefs-stories-header2 =
+    .label = Történetek
+    .description = Kivételes tartalmak a { -brand-product-name } család válogatásában
 
 ##
 
