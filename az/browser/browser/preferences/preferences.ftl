@@ -355,9 +355,6 @@ choose-bookmark =
     .label = Əlfəcin istifadə et…
     .accesskey = Ə
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -491,12 +488,6 @@ sync-sign-in =
     .label = Daxil ol
     .accesskey = x
 
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
-
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -584,12 +575,6 @@ forms-master-pw-change =
     .accesskey = d
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
 
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Tarixçə
@@ -664,12 +649,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Məlumatları idarə et…
     .accesskey = M
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Privacy Section - Address Bar
 
@@ -789,9 +768,6 @@ addon-recommendations-link = Ətraflı öyrən
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -823,12 +799,6 @@ certs-devices =
     .label = Təhlükəsizlik cihazları…
     .accesskey = T
 certs-devices-enable-fips = FIPS aktivləşdir
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 
