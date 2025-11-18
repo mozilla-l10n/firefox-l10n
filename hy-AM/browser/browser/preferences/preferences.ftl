@@ -1121,6 +1121,9 @@ sitedata-cookies-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Թխուկների ազդերիզի արգելափակիչ
@@ -1312,6 +1315,8 @@ permissions-notification-link = Իմանալ ավելին
 permissions-notification-pause =
     .label = Դադարեցնել ծանուցումները մինչև { -brand-short-name }-ը վերամեկնարկելը
     .accesskey = n
+permissions-autoplay2 =
+    .label = Ինքնանվագարկում
 permissions-autoplay = Ինքնանվագարկում
 permissions-autoplay-settings =
     .label = Կարգավորումներ...
@@ -1331,6 +1336,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Բացառություններ…
     .accesskey = Բ
+permissions-location2 =
+    .label = Տեղադրություն
+permissions-localhost2 =
+    .label = Սարքի հավելվածներ և ծառայություններ
+permissions-local-network2 =
+    .label = Տեղական ցանցային սարքեր
+permissions-xr2 =
+    .label = Թվացյալ իրականություն
+permissions-camera2 =
+    .label = Տեսախցիկ
+permissions-microphone2 =
+    .label = Խոսափող
+permissions-notification2 =
+    .label = Ծանուցումներ
 
 ## Privacy Section - Data Collection
 
