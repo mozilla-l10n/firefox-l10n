@@ -668,6 +668,9 @@ home-prefs-recommended-by-description-generic = Муҳтавои мустасн�
 home-prefs-stories-header =
     .label = Ҳикояҳо
 home-prefs-stories-description = Ҳикояҳои фардӣ дар асоси фаъолияти шумо
+home-prefs-stories-header2 =
+    .label = Ҳикояҳо
+    .description = Муҳтавои мустасно аз тарафи оилаи «{ -brand-product-name }» дастгирӣ карда мешавад
 
 ##
 
