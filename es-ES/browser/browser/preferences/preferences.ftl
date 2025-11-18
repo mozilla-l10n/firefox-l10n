@@ -1548,6 +1548,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = E
+permissions-location2 =
+    .label = Ubicación
+permissions-localhost2 =
+    .label = Aplicaciones y servicios del dispositivo
+permissions-local-network2 =
+    .label = Dispositivos de red local
+permissions-xr2 =
+    .label = Realidad virtual
+permissions-camera2 =
+    .label = Cámara
+permissions-microphone2 =
+    .label = Micrófono
+permissions-notification2 =
+    .label = Notificaciones
 
 ## Privacy Section - Data Collection
 
