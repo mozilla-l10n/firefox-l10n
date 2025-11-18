@@ -353,6 +353,9 @@ choose-bookmark =
     .label = Tii ki Alama buk…
     .accesskey = A
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -606,6 +609,9 @@ forms-master-pw-fips-desc = Loko mung me donyo Pe olare
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Gin mukato
@@ -675,6 +681,12 @@ sitedata-settings =
     .label = Lo Data
     .accesskey = D
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Lanyut me kanonge
@@ -693,6 +705,10 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Nong ngec mapol
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
 
 ##
 
@@ -718,6 +734,9 @@ content-blocking-cookies-label =
     .accesskey = A
 content-blocking-expand-section =
     .tooltiptext = Ngec mapol
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -745,6 +764,8 @@ permissions-notification-link = Nong ngec mapol
 permissions-notification-pause =
     .label = Juk jami angeya wang ma { -brand-short-name } onwoyo cake
     .accesskey = n
+permissions-autoplay2 =
+    .label = Tuk pire kene
 permissions-autoplay = Tuk pire kene
 permissions-autoplay-settings =
     .label = Ter…
@@ -758,6 +779,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ma kiweko woko…
     .accesskey = M
+permissions-location2 =
+    .label = Kabedo
+permissions-camera2 =
+    .label = Lamak cal
+permissions-microphone2 =
+    .label = Mikropon
+permissions-notification2 =
+    .label = Jami angeya
 
 ## Privacy Section - Data Collection
 
@@ -770,6 +799,9 @@ collection-health-report =
     .accesskey = r
 collection-health-report-link = Nong ngec mapol
 addon-recommendations-link = Nong ngec mapol
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -806,6 +838,9 @@ certs-devices-enable-fips = Mii tic me FIPS
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = Nong ngec mapol
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
