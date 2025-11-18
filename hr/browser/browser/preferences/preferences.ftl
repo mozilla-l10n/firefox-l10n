@@ -1397,6 +1397,8 @@ permissions-notification-link = Saznaj više
 permissions-notification-pause =
     .label = Zaustavi obavijesti dok se { -brand-short-name } ponovo ne pokrene
     .accesskey = n
+permissions-autoplay2 =
+    .label = Automatska reprodukcija
 permissions-autoplay = Automatska reprodukcija
 permissions-autoplay-settings =
     .label = Postavke …
@@ -1416,12 +1418,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Iznimke …
     .accesskey = e
+permissions-location2 =
+    .label = Mjesto
 permissions-xr2 =
     .label = Virtualna stvarnost
 permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+permissions-notification2 =
+    .label = Obavijesti
 
 ## Privacy Section - Data Collection
 
