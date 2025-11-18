@@ -690,6 +690,9 @@ home-prefs-recommended-by-description-generic = Исключительный к�
 home-prefs-stories-header =
     .label = Истории
 home-prefs-stories-description = Персонализированные истории на основе вашей активности
+home-prefs-stories-header2 =
+    .label = Истории
+    .description = Исключительный контент, курируемый семейством { -brand-product-name }
 
 ##
 
