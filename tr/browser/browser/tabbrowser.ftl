@@ -371,6 +371,6 @@ tab-context-open-in-split-view =
     .accesskey = r
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
-    .label = Ayrık görünümü ayır
+    .label = Ayrık görünümden çıkar
     .accesskey = r
 tab-context-badge-new = Yeni
