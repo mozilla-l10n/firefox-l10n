@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Exceptionellt innehåll kurerat 
 home-prefs-stories-header =
     .label = Berättelser
 home-prefs-stories-description = Personliga berättelser baserade på din aktivitet
+home-prefs-stories-header2 =
+    .label = Berättelser
+    .description = Exceptionellt innehåll kurerat av { -brand-product-name }-familjen
 
 ##
 
