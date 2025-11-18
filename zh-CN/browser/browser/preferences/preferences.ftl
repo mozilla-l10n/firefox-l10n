@@ -1548,6 +1548,8 @@ permissions-camera2 =
     .label = 摄像头
 permissions-microphone2 =
     .label = 麦克风
+permissions-notification2 =
+    .label = 通知
 
 ## Privacy Section - Data Collection
 
