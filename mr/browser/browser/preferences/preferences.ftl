@@ -371,6 +371,9 @@ choose-bookmark =
     .label = वाचनखूणाचा वापर करा…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -628,6 +631,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = पासवर्ड बदल अयशस्वी
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = इतिहास
@@ -698,6 +707,12 @@ sitedata-clear =
 sitedata-settings =
     .label = डेटा व्यवस्थापित करा...
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -806,6 +821,8 @@ permissions-notification-link = अधिक जाणा
 permissions-notification-pause =
     .label = सूचना { -brand-short-name } पुन्हा सुरु होईपर्यंत स्थगित करा
     .accesskey = n
+permissions-autoplay2 =
+    .label = ऑटोप्ले
 permissions-autoplay = ऑटोप्ले
 permissions-autoplay-settings =
     .label = सेटिंग…
@@ -819,6 +836,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = अपवाद…
     .accesskey = E
+permissions-location2 =
+    .label = स्थान
+permissions-camera2 =
+    .label = कॅमेरा
+permissions-microphone2 =
+    .label = मायक्रोफोन
+permissions-notification2 =
+    .label = सूचना
 
 ## Privacy Section - Data Collection
 
@@ -838,6 +863,9 @@ addon-recommendations-link = अधिक जाणा
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -870,6 +898,12 @@ certs-devices =
     .label = सुरक्षा साधने
     .accesskey = D
 certs-devices-enable-fips = FIPS कार्यान्वीत करा
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
