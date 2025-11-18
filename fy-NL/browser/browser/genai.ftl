@@ -223,7 +223,7 @@ link-preview-reading-time =
        *[other] { $range } minuten lêstiid
     }
 # Error message displayed when a link preview cannot be generated
-link-preview-error-message = Wy kinne dizze foarbyld fan dizze keppeling toane
+link-preview-error-message = Wy kinne gjin foarbyld fan dizze keppeling toane
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Keppeling besykje
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
