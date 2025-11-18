@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Εξαιρετικό περιε�
 home-prefs-stories-header =
     .label = Άρθρα
 home-prefs-stories-description = Εξατομικευμένα άρθρα με βάση τη δραστηριότητά σας
+home-prefs-stories-header2 =
+    .label = Άρθρα
+    .description = Εξαιρετικό περιεχόμενο από την οικογένεια του { -brand-product-name }
 
 ##
 
