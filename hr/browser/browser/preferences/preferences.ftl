@@ -624,6 +624,9 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } – sadržaj
@@ -1413,6 +1416,12 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Iznimke …
     .accesskey = e
+permissions-xr2 =
+    .label = Virtualna stvarnost
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
 
 ## Privacy Section - Data Collection
 
