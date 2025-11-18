@@ -1373,6 +1373,8 @@ permissions-notification-link = Argibide gehiago
 permissions-notification-pause =
     .label = Pausatu jakinarazpenak { -brand-short-name } berrabiarazi arte
     .accesskey = n
+permissions-autoplay2 =
+    .label = Erreprodukzio automatikoa
 permissions-autoplay = Erreprodukzio automatikoa
 permissions-autoplay-settings =
     .label = Ezarpenak…
@@ -1402,6 +1404,8 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofonoa
+permissions-notification2 =
+    .label = Jakinarazpenak
 
 ## Privacy Section - Data Collection
 
