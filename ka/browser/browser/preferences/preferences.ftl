@@ -1526,6 +1526,8 @@ permissions-notification-link = ვრცლად
 permissions-notification-pause =
     .label = შეჩერდეს შეტყობინებები, სანამ { -brand-short-name } ხელახლა გაეშვება
     .accesskey = ჩ
+permissions-autoplay2 =
+    .label = თვითგაშვება
 permissions-autoplay = თვითგაშვება
 permissions-autoplay-settings =
     .label = პარამეტრები…
@@ -1548,6 +1550,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = გამონაკლისები…
     .accesskey = გ
+permissions-location2 =
+    .label = მდებარეობა
+permissions-xr2 =
+    .label = წარმოსახვითი სინამდვილე
+permissions-camera2 =
+    .label = კამერა
+permissions-microphone2 =
+    .label = მიკროფონი
+permissions-notification2 =
+    .label = შეტყობინებები
 
 ## Privacy Section - Data Collection
 
