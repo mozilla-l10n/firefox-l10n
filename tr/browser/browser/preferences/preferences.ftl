@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = { -brand-product-name } ailesini
 home-prefs-stories-header =
     .label = Haberler
 home-prefs-stories-description = Etkinliğinize göre kişiselleştirilmiş haberler
+home-prefs-stories-header2 =
+    .label = Haberler
+    .description = { -brand-product-name } ailesinin seçtiği harika içerikler
 
 ##
 
