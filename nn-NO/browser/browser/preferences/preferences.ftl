@@ -668,6 +668,9 @@ home-prefs-recommended-by-description-generic = Eineståande innhald utvalt av {
 home-prefs-stories-header =
     .label = Artiklar
 home-prefs-stories-description = Personlege artiklar basert på aktiviteten din
+home-prefs-stories-header2 =
+    .label = Artiklar
+    .description = Eineståande innhald utvalt av { -brand-product-name }-familien
 
 ##
 
