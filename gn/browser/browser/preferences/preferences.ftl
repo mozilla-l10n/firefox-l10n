@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Tetepy oiporavóva { -brand-prod
 home-prefs-stories-header =
     .label = Tembiasakue
 home-prefs-stories-description = Tembiasakueita teéva ipyendáva ne rembiapóre
+home-prefs-stories-header2 =
+    .label = Tembiasakue
+    .description = Tetepy oiporavóva { -brand-product-name } reheguáva
 
 ##
 
