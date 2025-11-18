@@ -726,6 +726,8 @@ home-prefs-weather-header =
     .label = Wjedro
 home-prefs-weather-description = Dźensniša wjedrowa předpowědź na jedyn pohlad
 home-prefs-weather-learn-more-link = Dalše informacije
+home-prefs-widgets-header =
+    .label = Asistenty
 home-prefs-trending-search-header =
     .label = Woblubowane pytanja
 home-prefs-trending-search-description = Popularne a husto pytane temy
@@ -740,6 +742,8 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } podpěrać
 home-prefs-mission-message = Naši sponsorojo našu misiju podpěruja, zo bychu lěpši web tworili
 home-prefs-mission-message-learn-more-link = Zhońće kak
+home-prefs-mission-message2 =
+    .message = Naši sponsorojo našu misiju podpěruja, zo bychu lěpši web tworili.
 home-prefs-manage-topics-link = Temy rjadować
 home-prefs-choose-wallpaper-link = Wubjerće pozadkowy wobraz
 # Variables:

@@ -60,6 +60,7 @@ pane-experimental-description2 = 고급 설정을 변경하면 { -brand-short-na
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = 실험 기능을 사용해 보세요! 개발 및 진화 중이므로 { -brand-short-name } 작동 방식에 영향을 미칠 수 있습니다. 해당 기능 사용에 관한 데이터는 <a data-l10n-name="data-collection">기술 및 상호 작용 데이터</a>가 켜져 있는 경우에만 수집됩니다.
 pane-experimental-description3 = 실험 기능을 사용해 보세요! 개발 및 진화 중이므로 { -brand-short-name } 작동 방식에 영향을 미칠 수 있습니다.
 pane-experimental-reset =
     .label = 기본값으로 복원

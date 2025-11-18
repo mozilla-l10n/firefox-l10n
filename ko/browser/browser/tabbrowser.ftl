@@ -337,5 +337,8 @@ tab-context-badge-new = 신규
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
     .label = 탭 분할
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = 탭 역순
 split-view-menuitem-close-both-tabs =
     .label = 양쪽 탭 닫기
