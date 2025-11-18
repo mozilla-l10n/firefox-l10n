@@ -1502,6 +1502,8 @@ permissions-notification-link = 詳細情報
 permissions-notification-pause =
     .label = { -brand-short-name } を再起動するまで通知を一時停止
     .accesskey = n
+permissions-autoplay2 =
+    .label = 自動再生
 permissions-autoplay = 自動再生
 permissions-autoplay-settings =
     .label = 設定...
@@ -1526,6 +1528,18 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = 位置情報
+permissions-localhost2 =
+    .label = 端末のアプリとサービス
+permissions-local-network2 =
+    .label = ローカルネットワークの端末
+permissions-xr2 =
+    .label = VR デバイス
+permissions-camera2 =
+    .label = カメラ
+permissions-microphone2 =
+    .label = マイク
+permissions-notification2 =
+    .label = 通知
 
 ## Privacy Section - Data Collection
 
