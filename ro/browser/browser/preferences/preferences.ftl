@@ -688,6 +688,9 @@ home-prefs-recommended-by-description-generic = Conținut excepțional, selecți
 home-prefs-stories-header =
     .label = Articole
 home-prefs-stories-description = Articole personalizate bazate pe activitatea ta
+home-prefs-stories-header2 =
+    .label = Articole
+    .description = Conținut excepțional, selecționat de familia { -brand-product-name }
 
 ##
 
