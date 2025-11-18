@@ -683,6 +683,9 @@ home-prefs-recommended-by-description-generic = 由 { -brand-product-name } 系�
 home-prefs-stories-header =
     .label = 文章
 home-prefs-stories-description = 根据您的阅读记录为您推荐文章
+home-prefs-stories-header2 =
+    .label = 文章
+    .description = 由 { -brand-product-name } 系列产品推荐的精选内容
 
 ##
 
