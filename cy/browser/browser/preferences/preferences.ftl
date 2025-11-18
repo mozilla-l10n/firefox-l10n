@@ -699,6 +699,9 @@ home-prefs-recommended-by-description-generic = Cynnwys eithriadol wedi'i gasglu
 home-prefs-stories-header =
     .label = Straeon
 home-prefs-stories-description = Straeon personol ar sail eich gweithgaredd
+home-prefs-stories-header2 =
+    .label = Straeon
+    .description = Cynnwys eithriadol wedi'i gasglu gan deulu { -brand-product-name }
 
 ##
 
