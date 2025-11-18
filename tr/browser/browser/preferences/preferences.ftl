@@ -1546,6 +1546,8 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = İstisnalar…
     .accesskey = n
+permissions-location2 =
+    .label = Konum
 
 ## Privacy Section - Data Collection
 
