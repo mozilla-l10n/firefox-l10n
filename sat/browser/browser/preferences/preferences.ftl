@@ -549,6 +549,9 @@ choose-bookmark =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } ᱡᱤᱱᱤᱥ
@@ -907,6 +910,9 @@ primary-password-os-auth-dialog-message-win = ᱢᱤᱫᱴᱟᱝ ᱫᱟᱵᱟᱝ
 primary-password-os-auth-dialog-message-macosx = ᱢᱤᱫᱴᱟᱝ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱛᱮᱭᱟᱨ ᱢᱮ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ᱱᱟᱜᱟᱢ
@@ -1165,6 +1171,8 @@ permissions-notification-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 permissions-notification-pause =
     .label = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱫᱷᱟᱹᱵᱤᱡ ᱠᱷᱚᱵᱚᱨ ᱛᱷᱩᱢ ᱛᱷᱟᱲ ᱢᱮ
     .accesskey = n
+permissions-autoplay2 =
+    .label = ᱟᱡ ᱛᱮ ᱮᱱᱮᱡ
 permissions-autoplay = ᱟᱡ ᱛᱮ ᱮᱱᱮᱡ
 permissions-autoplay-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
@@ -1184,6 +1192,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = E
+permissions-location2 =
+    .label = ᱡᱟᱭᱜᱟ
+permissions-xr2 =
+    .label = ᱵᱷᱟᱨᱛᱩᱣᱟᱞ ᱨᱮᱭᱟᱞᱤᱴᱤ
+permissions-camera2 =
+    .label = ᱠᱮᱢᱨᱟ
+permissions-microphone2 =
+    .label = ᱢᱟᱭᱠᱨᱚᱯᱷᱳᱱ
+permissions-notification2 =
+    .label = ᱤᱛᱞᱟᱹᱭ ᱠᱚ
 
 ## Privacy Section - Data Collection
 
@@ -1213,6 +1231,9 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 privacy-segmentation-radio-on =
     .label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
