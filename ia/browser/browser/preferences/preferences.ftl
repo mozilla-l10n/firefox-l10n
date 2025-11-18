@@ -1526,6 +1526,8 @@ permissions-notification-link = Saper plus
 permissions-notification-pause =
     .label = Pausar le notificationes usque { -brand-short-name } reinitia
     .accesskey = n
+permissions-autoplay2 =
+    .label = Autoreproduction
 permissions-autoplay = Autoreproduction
 permissions-autoplay-settings =
     .label = Parametros…
@@ -1550,6 +1552,14 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = Geolocalisation
+permissions-xr2 =
+    .label = Realitate virtual
+permissions-camera2 =
+    .label = Camera
+permissions-microphone2 =
+    .label = Microphono
+permissions-notification2 =
+    .label = Notificationes
 
 ## Privacy Section - Data Collection
 
