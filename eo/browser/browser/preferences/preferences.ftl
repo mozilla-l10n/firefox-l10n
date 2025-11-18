@@ -1541,6 +1541,16 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = Loko
+permissions-localhost2 =
+    .label = Programoj kaj servoj de la aparato
+permissions-local-network2 =
+    .label = Aparatoj de la loka reto
+permissions-xr2 =
+    .label = Virtuala realo
+permissions-camera2 =
+    .label = Filmilo
+permissions-microphone2 =
+    .label = Mikrofono
 permissions-notification2 =
     .label = Sciigoj
 
