@@ -675,6 +675,9 @@ home-prefs-recommended-by-description-generic = Nội dung đặc biệt đượ
 home-prefs-stories-header =
     .label = Câu chuyện
 home-prefs-stories-description = Câu chuyện được cá nhân hóa dựa trên hoạt động của bạn
+home-prefs-stories-header2 =
+    .label = Câu chuyện
+    .description = Nội dung đặc biệt được quản lý bởi gia đình { -brand-product-name }
 
 ##
 
