@@ -1530,6 +1530,8 @@ permissions-notification-link = Падрабязней
 permissions-notification-pause =
     .label = Прыпыніць абвесткі да перазапуску { -brand-short-name }
     .accesskey = а
+permissions-autoplay2 =
+    .label = Аўтапрайграванне
 permissions-autoplay = Аўтапрайграванне
 permissions-autoplay-settings =
     .label = Налады…
@@ -1552,6 +1554,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Выключэнні…
     .accesskey = В
+permissions-location2 =
+    .label = Месцазнаходжанне
+permissions-xr2 =
+    .label = Віртуальная рэчаіснасць
+permissions-camera2 =
+    .label = Камера
+permissions-microphone2 =
+    .label = Мікрафон
+permissions-notification2 =
+    .label = Абвесткі
 
 ## Privacy Section - Data Collection
 
