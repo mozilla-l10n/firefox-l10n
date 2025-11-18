@@ -196,6 +196,8 @@ about-glean-button-watch = Watch
 about-glean-button-unwatch = Unwatch
 about-glean-no-data-to-display = No data to display.
 # Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> metrics are not yet supported in the <code>about:glean</code> view.
+# Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Labelled metrics are not yet supported in the <code>about:glean</code> view.
 about-glean-unknown-metric-type-warning = Unknown metric type.
 about-glean-enable-new-features-promo =
