@@ -1273,6 +1273,14 @@ permissions-addon-exceptions =
     .accesskey = И
 permissions-location2 =
     .label = Локација
+permissions-xr2 =
+    .label = Виртуелна реалност
+permissions-camera2 =
+    .label = Камера
+permissions-microphone2 =
+    .label = Микрофон
+permissions-notification2 =
+    .label = Обавештења
 
 ## Privacy Section - Data Collection
 
