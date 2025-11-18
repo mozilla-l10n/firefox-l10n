@@ -12,6 +12,7 @@ customkeys-reset-all = Emoĩjey opaite jeikeha õihaguaéichavoi
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Ko jehaiha oñeme’ẽma { $conflict }-pe g̃uarã. ¿Añetehápe emyengoviase?
+customkeys-reset-all-confirm = ¿Eguerusejeýpa añetehápe opaite tairenda mbopya’eha oĩ haguéichavoi?
 customkeys-history-reopen-tab = Eipe’a jey tendayke oñembotyramóva
 customkeys-history-reopen-window = Eipe’a jey tendayke oñembotyramóva
 customkeys-dev-tools = Mboguatahára rembiporu
@@ -33,3 +34,4 @@ customkeys-nav-home = Ñepyrũ
 customkeys-nav-reload = Myanyhẽjey
 customkeys-nav-reload-skip-cache = Emyanyhẽjey (Ehejarei Kache)
 customkeys-nav-stop = Pyta
+customkeys-caution-message = Ko tembiapoite ojejaporamo ha upévare ndoikoporãi gueteri.
