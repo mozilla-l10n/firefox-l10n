@@ -1552,6 +1552,14 @@ permissions-addon-exceptions =
     .accesskey = U
 permissions-location2 =
     .label = Plats
+permissions-xr2 =
+    .label = Virtuell verklighet
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Aviseringar
 
 ## Privacy Section - Data Collection
 
