@@ -1510,6 +1510,8 @@ permissions-notification-link = Tìm hiểu thêm
 permissions-notification-pause =
     .label = Tạm dừng thông báo cho đến khi { -brand-short-name } khởi động lại
     .accesskey = n
+permissions-autoplay2 =
+    .label = Tự động phát
 permissions-autoplay = Tự động phát
 permissions-autoplay-settings =
     .label = Cài đặt…
@@ -1534,6 +1536,14 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = Vị trí
+permissions-xr2 =
+    .label = Thực tế ảo
+permissions-camera2 =
+    .label = Máy ảnh
+permissions-microphone2 =
+    .label = Micrô
+permissions-notification2 =
+    .label = Thông báo
 
 ## Privacy Section - Data Collection
 
