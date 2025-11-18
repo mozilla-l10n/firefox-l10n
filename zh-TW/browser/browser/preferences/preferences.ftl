@@ -675,6 +675,9 @@ home-prefs-recommended-by-description-generic = 由 { -brand-product-name } 產�
 home-prefs-stories-header =
     .label = 文章
 home-prefs-stories-description = 依照您的上網行為，提供個人化文章推薦
+home-prefs-stories-header2 =
+    .label = 文章
+    .description = 由 { -brand-product-name } 產品家族精選的內容文章
 
 ##
 
