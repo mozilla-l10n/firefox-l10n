@@ -152,6 +152,7 @@ windows-10-eos-sync-callout-primary-advance-button-label = Upeigua
 ## Link Preview Onboarding message callout strings
 
 link-preview-onboarding-callout-title = Pyahu: Eikutu are ehecha ypy hag̃ua juajuha
+link-preview-onboarding-callout-description = Ehecha ñemoha’ãnga’i, moñe’ẽrã ha maranduve eikuaa hag̃ua oikópa eikutu hag̃ua juajuha. Erekokuaa avei eikutúvo akatúa gotyo anguja’i.
 
 ## Sidebar Strings
 
