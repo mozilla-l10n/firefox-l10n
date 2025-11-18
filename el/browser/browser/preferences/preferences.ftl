@@ -1552,6 +1552,18 @@ permissions-addon-exceptions =
     .accesskey = Ε
 permissions-location2 =
     .label = Τοποθεσία
+permissions-localhost2 =
+    .label = Εφαρμογές και υπηρεσίες συσκευής
+permissions-local-network2 =
+    .label = Συσκευές τοπικού δικτύου
+permissions-xr2 =
+    .label = Εικονική πραγματικότητα
+permissions-camera2 =
+    .label = Κάμερα
+permissions-microphone2 =
+    .label = Μικρόφωνο
+permissions-notification2 =
+    .label = Ειδοποιήσεις
 
 ## Privacy Section - Data Collection
 
