@@ -1526,6 +1526,8 @@ permissions-notification-link = További tudnivalók
 permissions-notification-pause =
     .label = Értesítések kikapcsolása a { -brand-short-name } újraindulásáig
     .accesskey = e
+permissions-autoplay2 =
+    .label = Automatikus lejátszás
 permissions-autoplay = Automatikus lejátszás
 permissions-autoplay-settings =
     .label = Beállítások…
@@ -1548,6 +1550,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Kivételek…
     .accesskey = K
+permissions-xr2 =
+    .label = Virtuális valóság
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Értesítések
 
 ## Privacy Section - Data Collection
 
