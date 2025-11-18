@@ -1548,6 +1548,8 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Exceptions…
     .accesskey = E
+permissions-location2 =
+    .label = Localisation
 
 ## Privacy Section - Data Collection
 
