@@ -624,6 +624,9 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } sadržaj
@@ -1394,6 +1397,8 @@ permissions-notification-link = Saznajte više
 permissions-notification-pause =
     .label = Pauziraj obavještenja dok se { -brand-short-name } ne restartuje
     .accesskey = n
+permissions-autoplay2 =
+    .label = Automatska reprodukcija
 permissions-autoplay = Automatska reprodukcija
 permissions-autoplay-settings =
     .label = Postavke…
@@ -1413,6 +1418,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Izuzeci…
     .accesskey = e
+permissions-location2 =
+    .label = Lokacija
+permissions-xr2 =
+    .label = Virtuelna stvarnost
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Obavještenja
 
 ## Privacy Section - Data Collection
 
