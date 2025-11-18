@@ -355,6 +355,9 @@ choose-bookmark =
     .label = Əlfəcin istifadə et…
     .accesskey = Ə
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -488,6 +491,12 @@ sync-sign-in =
     .label = Daxil ol
     .accesskey = x
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -575,6 +584,12 @@ forms-master-pw-change =
     .accesskey = d
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Tarixçə
@@ -649,6 +664,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Məlumatları idarə et…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -742,6 +763,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = İstisnalar…
     .accesskey = s
+permissions-location2 =
+    .label = Mövqe
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Bildirişlər
 
 ## Privacy Section - Data Collection
 
@@ -759,6 +788,9 @@ addon-recommendations-link = Ətraflı öyrən
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -791,6 +823,12 @@ certs-devices =
     .label = Təhlükəsizlik cihazları…
     .accesskey = T
 certs-devices-enable-fips = FIPS aktivləşdir
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
