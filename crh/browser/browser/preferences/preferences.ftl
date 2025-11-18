@@ -363,6 +363,9 @@ choose-bookmark =
     .label = Saifeimi qullan…
     .accesskey = m
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -495,6 +498,12 @@ sync-sign-in =
     .label = Giriş yap
     .accesskey = G
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -582,6 +591,12 @@ forms-master-pw-change =
     .accesskey = d
 forms-master-pw-fips-desc = Sır-sözni Deñiştirüv Oñmadı
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Keçmiş
@@ -660,6 +675,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Verilerni İdare Et…
     .accesskey = V
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -758,6 +779,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = İstisnalar…
     .accesskey = n
+permissions-location2 =
+    .label = Qonum
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Tebliğler
 
 ## Privacy Section - Data Collection
 
@@ -777,6 +806,9 @@ addon-recommendations-link = Daha çoq ögren
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -809,6 +841,12 @@ certs-devices =
     .label = Emniyet Cihazları…
     .accesskey = C
 certs-devices-enable-fips = FIPS etkinleştir
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
