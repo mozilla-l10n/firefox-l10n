@@ -1481,6 +1481,8 @@ permissions-notification-link = Маълумоти бештар
 permissions-notification-pause =
     .label = Таваққуф кардани огоҳиҳо то аз нав оғоз шудани «{ -brand-short-name }»
     .accesskey = Т
+permissions-autoplay2 =
+    .label = Пахши худкор
 permissions-autoplay = Пахши худкор
 permissions-autoplay-settings =
     .label = Танзимот…
@@ -1503,6 +1505,12 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Истисноҳо…
     .accesskey = И
+permissions-location2 =
+    .label = Ҷойгиршавӣ
+permissions-microphone2 =
+    .label = Микрофон
+permissions-notification2 =
+    .label = Огоҳномаҳо
 
 ## Privacy Section - Data Collection
 
