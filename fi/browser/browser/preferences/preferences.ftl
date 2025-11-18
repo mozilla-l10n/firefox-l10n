@@ -684,6 +684,9 @@ home-prefs-recommended-by-description-generic = Poikkeuksellista { -brand-produc
 home-prefs-stories-header =
     .label = Tarinat
 home-prefs-stories-description = Personoituja tarinoita aktiivisuuteesi pohjautuen
+home-prefs-stories-header2 =
+    .label = Tarinat
+    .description = Poikkeuksellista { -brand-product-name }-perheen kuratoimaa sisältöä
 
 ##
 
