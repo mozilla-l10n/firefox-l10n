@@ -816,6 +816,9 @@ home-prefs-recommended-by-description-generic = Výjimečný obsah od rodiny { -
 home-prefs-stories-header =
     .label = Články
 home-prefs-stories-description = Personalizované příběhy na základě vaší aktivity
+home-prefs-stories-header2 =
+    .label = Články
+    .description = Výjimečný obsah od rodiny { -brand-product-name(case: "gen") }
 
 ##
 
