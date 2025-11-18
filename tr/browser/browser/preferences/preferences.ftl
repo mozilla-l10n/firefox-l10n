@@ -1524,6 +1524,8 @@ permissions-notification-link = Daha fazla bilgi al
 permissions-notification-pause =
     .label = { -brand-short-name } yeniden başlatılana dek bildirimleri duraklat
     .accesskey = b
+permissions-autoplay2 =
+    .label = Otomatik oynatma
 permissions-autoplay = Otomatik oynatma
 permissions-autoplay-settings =
     .label = Ayarlar…
@@ -1548,6 +1550,8 @@ permissions-addon-exceptions =
     .accesskey = n
 permissions-location2 =
     .label = Konum
+permissions-notification2 =
+    .label = Bildirimler
 
 ## Privacy Section - Data Collection
 
