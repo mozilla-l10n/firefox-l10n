@@ -58,6 +58,7 @@ settings-data-change-password = Emoambue ñe’ẽñemi…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Emyandy ñongatu jey
+turn-on-scheduled-backups-description = { -brand-short-name } omoheñóita ñongatu jey tekorosãrã ne mba’ekuaarã rehegua 24 aravo pukukue. Erujeykuaa oĩrõ apañuãi térã erekórõ mba’e’oka pyahu.
 turn-on-scheduled-backups-support-link = ¿Mba’e pe ojeykekótava?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Tendaite
@@ -92,6 +93,10 @@ turn-off-scheduled-backups-confirm-button = Eipe’a ha embogue ñongatu jey
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Erujey mba’ekuaarãita
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Kóva omyengoviáta opaite mba’ekuaarã ag̃agua { -brand-short-name } rehegua ñongatu jey tekorosãrã ndive { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = ¿Mba’e pe ojeykekótava?
 restore-from-backup-no-backup-file-link = ¿Ne apañuái ejuhu hag̃ua ñongatu jey?
