@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Wyjątkowe rzeczy wybrane przez 
 home-prefs-stories-header =
     .label = Artykuły
 home-prefs-stories-description = Spersonalizowane artykuły na podstawie działań użytkownika
+home-prefs-stories-header2 =
+    .label = Artykuły
+    .description = Wyjątkowe rzeczy wybrane przez rodzinę { -brand-product-name(case: "gen") }
 
 ##
 
