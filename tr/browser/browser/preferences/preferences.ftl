@@ -1550,6 +1550,16 @@ permissions-addon-exceptions =
     .accesskey = n
 permissions-location2 =
     .label = Konum
+permissions-localhost2 =
+    .label = Cihaz uygulamaları ve hizmetleri
+permissions-local-network2 =
+    .label = Yerel ağ cihazları
+permissions-xr2 =
+    .label = Sanal gerçeklik
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
 permissions-notification2 =
     .label = Bildirimler
 
