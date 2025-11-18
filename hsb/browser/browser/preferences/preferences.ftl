@@ -1550,6 +1550,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Wuskakowace wokna a dalesposrědkowanja třećich poskićowarjow blokować
     .accesskey = k
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Wuskakowace wokna a wuwzaća dalesposrědkowanjow třećich poskićowarjow rjadować
+    .accesskey = u
+    .searchkeywords = wuskakowace wokna
+permissions-addon-install-warning2 =
+    .label = Warnować, hdyž websydła pospytuja rozšěrjenja instalować
+    .accesskey = W
+permissions-addon-exceptions2 =
+    .label = Wubjerće, kotre websydła móža rozšěrjenja instalować
+    .accesskey = k
 permissions-block-popups =
     .label = Wuskakowace wokno blokować
     .accesskey = k
@@ -1565,6 +1577,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wuwzaća…
     .accesskey = W
+permissions-header2 =
+    .label = Prawa
+    .description = Prawa, kotrež websydłam dawaće, kotrež wopytujeće.
 permissions-location2 =
     .label = Stejnišćo
 permissions-localhost2 =
@@ -1577,6 +1592,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Wótřerěčak
 permissions-notification2 =
     .label = Zdźělenja
 
