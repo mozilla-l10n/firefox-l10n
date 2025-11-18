@@ -60,6 +60,7 @@ pane-experimental-description2 = Endrer du avanserte konfigurasjonsinnstillinger
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Prøv våre eksperimentelle funksjoner! De er under utvikling og i endring, noe som kan påvirke hvordan { -brand-short-name } fungerer. Vi mottar bare data om bruken din av disse funksjonene hvis du har <a data-l10n-name="data-collection">tekniske data og interaksjonsdata</a> slått på.
 pane-experimental-description3 = Prøv våre eksperimentelle funksjoner! De er fortsatt under utvikling og forbedres kontinuerlig, noe som kan påvirke hvordan { -brand-short-name } fungerer.
 pane-experimental-reset =
     .label = Gjenopprett standard
@@ -720,6 +721,8 @@ home-prefs-weather-header =
     .label = Vær
 home-prefs-weather-description = Dagens værmelding i korte trekk
 home-prefs-weather-learn-more-link = Les mer
+home-prefs-widgets-header =
+    .label = Widgeter
 home-prefs-trending-search-header =
     .label = Populære søk
 home-prefs-trending-search-description = Populære og ofte søkte emner
@@ -734,6 +737,8 @@ home-prefs-support-firefox-header =
     .label = Støtt { -brand-product-name }
 home-prefs-mission-message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett
 home-prefs-mission-message-learn-more-link = Finn ut hvordan
+home-prefs-mission-message2 =
+    .message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett.
 home-prefs-manage-topics-link = Behandle emner
 home-prefs-choose-wallpaper-link = Velg et bakgrunnsbilde
 # Variables:
@@ -1538,6 +1543,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokker sprettoppvinduer og tredjepartvideresendinger
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Behandle unntak for sprettoppvinduer og tredjepartsvideresendinger
+    .accesskey = e
+    .searchkeywords = sprettopp
+permissions-addon-install-warning2 =
+    .label = Advar når nettsteder forsøker å installere utvidelser
+    .accesskey = A
+permissions-addon-exceptions2 =
+    .label = Velg hvilke nettsteder som kan installere utvidelser
+    .accesskey = e
 permissions-block-popups =
     .label = Blokker sprettoppvinduer
     .accesskey = B
@@ -1553,6 +1570,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Unntak …
     .accesskey = U
+permissions-header2 =
+    .label = Tillatelser
+    .description = Tillatelser du gir til nettsteder du besøker.
 permissions-location2 =
     .label = Plassering
 permissions-localhost2 =
@@ -1565,6 +1585,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Høyttaler
 permissions-notification2 =
     .label = Varsler
 

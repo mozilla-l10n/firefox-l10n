@@ -33,6 +33,9 @@ edit-profile-page-profile-name-label = Profilnamn
 edit-profile-page-theme-header-2 =
     .label = Tema
 edit-profile-page-explore-themes = Utforsk fleire tema
+edit-profile-page-desktop-shortcut-header = Opprett snarveg på skrivebordet
+edit-profile-page-desktop-shortcut-toggle =
+    .aria-label = Opprett snarveg på skrivebordet
 edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
@@ -59,6 +62,10 @@ new-profile-page-input-placeholder =
     .placeholder = Vel eit namn som «Arbeid» eller «Personleg»
 new-profile-page-done-button =
     .label = Ferdig med redigering
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Kopien din av { $profilename } er klar for tilpassing
+copied-profile-page-header-description = Vi kopierte dataa dine og innstillingar til ein ny profil. Gi han eit namn, vel ein utsjånad og gjer han til din eigen.
 profile-window-title-2 = { -brand-short-name } - Vel ein profil
 profile-window-logo =
     .alt = { -brand-short-name }-logo
@@ -147,6 +154,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Innstillingane for datainnsamling er endra.</strong> Endringane som er gjorde i ein annan profil gjeld for alle profilar på denne eininga.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Vis innstillingar
 # Secondary button label to dismiss the infobar without action
@@ -260,6 +269,9 @@ custom-avatar-crop-area =
     .aria-label = Juster skjer til-området
 custom-avatar-drag-handle =
     .aria-label = Endre storleiken på skjer til-området
+profiles-appmenu-callout-tour-title = Den nye profilen din er klar til bruk
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = I ☰-menyen kan du trykkje på profilnamnet ditt for å opprette ein ny, redigere denne eller byte mellom dei digitale liva dine.
 profiles-appmenu-callout-tour-primary-button = Vis meg korleis
 barbell-avatar = Vektstong
 bike-avatar = Sykkel
