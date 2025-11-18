@@ -1483,6 +1483,8 @@ permissions-notification-link = เรียนรู้เพิ่มเติ
 permissions-notification-pause =
     .label = หยุดการแจ้งเตือนชั่วคราวจนกระทั่ง { -brand-short-name } เริ่มการทำงานใหม่
     .accesskey = ห
+permissions-autoplay2 =
+    .label = การเล่นอัตโนมัติ
 permissions-autoplay = การเล่นอัตโนมัติ
 permissions-autoplay-settings =
     .label = การตั้งค่า…
@@ -1505,6 +1507,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = ข
+permissions-location2 =
+    .label = ตำแหน่งที่ตั้ง
+permissions-localhost2 =
+    .label = แอปและบริการบนอุปกรณ์
+permissions-local-network2 =
+    .label = อุปกรณ์เครือข่ายเฉพาะที่
+permissions-xr2 =
+    .label = ความจริงเสมือน
+permissions-camera2 =
+    .label = กล้อง
+permissions-microphone2 =
+    .label = ไมโครโฟน
+permissions-notification2 =
+    .label = การแจ้งเตือน
 
 ## Privacy Section - Data Collection
 
