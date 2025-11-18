@@ -1084,6 +1084,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = استثناها…
     .accesskey = ت
+permissions-location2 =
+    .label = مکان
+permissions-xr2 =
+    .label = واقعیت مجازی
+permissions-camera2 =
+    .label = دوربین
+permissions-microphone2 =
+    .label = صدابَر
+permissions-notification2 =
+    .label = اعلان‌ها
 
 ## Privacy Section - Data Collection
 
