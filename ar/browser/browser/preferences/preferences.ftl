@@ -1375,6 +1375,12 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = الاستثناءات…
     .accesskey = ث
+permissions-camera2 =
+    .label = الكاميرا
+permissions-microphone2 =
+    .label = الميكروفون
+permissions-notification2 =
+    .label = التنبيهات
 
 ## Privacy Section - Data Collection
 
