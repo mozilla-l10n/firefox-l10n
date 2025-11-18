@@ -60,6 +60,7 @@ pane-experimental-description2 = Att ändra avancerade konfigurationsinställnin
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Ge våra experimentella funktioner ett försök! De är under utveckling och utvecklas, vilket kan påverka hur { -brand-short-name } fungerar. Vi tar endast emot data om din användning av dessa funktioner om du har <a data-l10n-name="data-collection">teknisk data och interaktionsdata</a> aktiverat.
 pane-experimental-description3 = Ge våra experimentella funktioner ett försök! De är under utveckling och utvecklas, vilket kan påverka hur { -brand-short-name } fungerar.
 pane-experimental-reset =
     .label = Återställ standard
@@ -720,6 +721,8 @@ home-prefs-weather-header =
     .label = Väder
 home-prefs-weather-description = Dagens prognos i korthet
 home-prefs-weather-learn-more-link = Läs mer
+home-prefs-widgets-header =
+    .label = Widgetar
 home-prefs-trending-search-header =
     .label = Trendiga sökningar
 home-prefs-trending-search-description = Populära och ofta sökta ämnen
@@ -734,6 +737,8 @@ home-prefs-support-firefox-header =
     .label = Stöd { -brand-product-name }
 home-prefs-mission-message = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb
 home-prefs-mission-message-learn-more-link = Ta reda på hur
+home-prefs-mission-message2 =
+    .message = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb.
 home-prefs-manage-topics-link = Hantera ämnen
 home-prefs-choose-wallpaper-link = Välj en bakgrundsbild
 # Variables:
@@ -1538,6 +1543,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blockera popup-fönster och omdirigeringar från tredje part
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Hantera popup- och omdirigeringsundantag från tredje part
+    .accesskey = H
+    .searchkeywords = popup-fönster
+permissions-addon-install-warning2 =
+    .label = Varna när webbplatser försöker installera tillägg
+    .accesskey = V
+permissions-addon-exceptions2 =
+    .label = Välj vilka webbplatser som kan installera tillägg
+    .accesskey = V
 permissions-block-popups =
     .label = Blockera popup-fönster
     .accesskey = B
@@ -1553,6 +1570,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Undantag…
     .accesskey = U
+permissions-header2 =
+    .label = Behörigheter
+    .description = Behörigheter du ger webbplatser du surfar.
 permissions-location2 =
     .label = Plats
 permissions-localhost2 =
@@ -1565,6 +1585,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Högtalare
 permissions-notification2 =
     .label = Aviseringar
 

@@ -175,6 +175,8 @@ about-glean-button-watch = Bevaka
 about-glean-button-unwatch = Avbevaka
 about-glean-no-data-to-display = Ingen data att visa.
 # Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = Mätvärden <code>DualLabeledCounter</code> stöds ännu inte i vyn <code>about:glean</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Märkt mätvärden stöds ännu inte i <code>about:glean</code>-vyn.
 about-glean-unknown-metric-type-warning = Okänd mätvärdestyp.
 about-glean-enable-new-features-promo =
