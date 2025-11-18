@@ -1700,6 +1700,8 @@ permissions-notification-pause =
            *[no-cases] Zakázat oznámení do restartu aplikace { -brand-short-name }
         }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Automatické přehrávání
 permissions-autoplay = Automatické přehrávání
 permissions-autoplay-settings =
     .label = Nastavení…
@@ -1722,6 +1724,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Výjimky…
     .accesskey = k
+permissions-xr2 =
+    .label = Virtuální realita
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Oznámení
 
 ## Privacy Section - Data Collection
 
