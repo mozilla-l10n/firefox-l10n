@@ -1396,6 +1396,8 @@ permissions-notification-link = Pelajari lebih lanjut
 permissions-notification-pause =
     .label = Jeda notifikasi hingga { -brand-short-name } dimulai ulang
     .accesskey = J
+permissions-autoplay2 =
+    .label = Putar Otomatis
 permissions-autoplay = Putar Otomatis
 permissions-autoplay-settings =
     .label = Pengaturan...
@@ -1417,6 +1419,14 @@ permissions-addon-exceptions =
     .accesskey = P
 permissions-location2 =
     .label = Lokasi
+permissions-xr2 =
+    .label = Realitas Virtual
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Notifikasi
 
 ## Privacy Section - Data Collection
 
