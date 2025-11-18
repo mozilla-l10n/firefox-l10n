@@ -86,6 +86,8 @@ fp-cert-error-code = Ayvu jejavy: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Ikatu ndaha’éi mba’evete, oikokuaa haguére apañuái upe ñanduti rogue ndive.
 fp-learn-more-about-secure-connection-failures = Eikuaave jeike katu jejavy rehegua
 fp-learn-more-about-cert-issues = Eikuaave ko apañuái kuatia’atã ndive rehegua
 fp-learn-more-about-time-related-errors = Eikuaave mba’éichapa emoĩporãta jejavy arange rehegua
@@ -170,3 +172,4 @@ fp-certerror-hide-advanced-button = Eñomi opapotáva
 fp-certerror-override-exception-button = Ejapo { $hostname } ndive (ivaikuaa)
 fp-certerror-intro = { -brand-short-name } ohecha apañuái tekorosãgua ivaikuaáva <strong>{ $hostname }</strong> ndive. Oĩrõ oñembohasáva tenda rendaguépe ikatuhína omonda marandu kuatia’atã ñemurãgui, ñe’ẽñemi térã ñanduti veve.
 fp-certerror-expired-into = { -brand-short-name } ohechakuaa tekorosã apañuái <strong>{ $hostname }</strong> ndive. Térã tenda noñembohekoporãi térã mba’e’oka aravopapaha oñemohenda arange/aravo oĩvaívape.
+fp-certerror-transparency-intro = Peteĩ ohasáva <strong>{ $hostname }</strong> rekovia omondakuaa ne marandu ikatúva kuatia’atã mba’ekuaarã, ñe’ẽñemi térã ñanduti veve.

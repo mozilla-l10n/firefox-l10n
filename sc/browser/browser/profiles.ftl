@@ -231,6 +231,7 @@ star-avatar = Isteddu
 video-game-controller-avatar = Cumandu de videogiogu
 custom-avatar-crop-back-button =
     .aria-label = A coa
+profiles-appmenu-callout-tour-title = Su profilu tuo est prontu
 profiles-appmenu-callout-tour-primary-button = Ammustra·mi comente
 bike-avatar = Bitzicleta
 
