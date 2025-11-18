@@ -711,6 +711,12 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = E
+permissions-location2 =
+    .label = ទីតាំង
+permissions-camera2 =
+    .label = កាមេរ៉ា
+permissions-microphone2 =
+    .label = មីក្រូហ្វូន
 permissions-notification2 =
     .label = ការ​ជូនដំណឹង
 
