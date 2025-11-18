@@ -270,6 +270,8 @@ custom-avatar-crop-area =
 custom-avatar-drag-handle =
     .aria-label = Emoambue ñekytirã tuichakue
 profiles-appmenu-callout-tour-title = Ne mba’ete pyahu eiporukuaáma
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = Poravorã ☰, eikutu ne mba’ete rérare emoheñói hag̃ua ambue, emoheñói kóva térã embojopyru nde rekove ñanduti apytépe.
 profiles-appmenu-callout-tour-primary-button = Ehechauka mba’éichapa
 barbell-avatar = Bárra mba’epohýi reheve
 bike-avatar = Vísi
