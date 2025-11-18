@@ -1515,6 +1515,8 @@ permissions-notification-link = Læs mere
 permissions-notification-pause =
     .label = Sæt beskeder på pause, indtil { -brand-short-name } starter igen
     .accesskey = b
+permissions-autoplay2 =
+    .label = Automatisk afspilning
 permissions-autoplay = Automatisk afspilning
 permissions-autoplay-settings =
     .label = Indstillinger…
@@ -1537,6 +1539,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Undtagelser…
     .accesskey = U
+permissions-location2 =
+    .label = Position
+permissions-xr2 =
+    .label = Virtual reality
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
 
 ## Privacy Section - Data Collection
 
