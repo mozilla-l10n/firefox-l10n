@@ -1526,6 +1526,8 @@ permissions-notification-link = Läs mer
 permissions-notification-pause =
     .label = Pausa aviseringar tills { -brand-short-name } startar om
     .accesskey = v
+permissions-autoplay2 =
+    .label = Automatisk uppspelning
 permissions-autoplay = Automatisk uppspelning
 permissions-autoplay-settings =
     .label = Inställningar…
@@ -1548,6 +1550,8 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Undantag…
     .accesskey = U
+permissions-location2 =
+    .label = Plats
 
 ## Privacy Section - Data Collection
 
