@@ -1534,6 +1534,8 @@ permissions-notification-link = Dalšne informacije
 permissions-notification-pause =
     .label = Z powěźeńkami pśestaś, daniž se { -brand-short-name } znowego njestartujo
     .accesskey = z
+permissions-autoplay2 =
+    .label = Awtomatiske wótgraśe
 permissions-autoplay = Awtomatiske wótgraśe
 permissions-autoplay-settings =
     .label = Nastajenja…
@@ -1556,6 +1558,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wuwześa…
     .accesskey = W
+permissions-location2 =
+    .label = Stojnišćo
+permissions-xr2 =
+    .label = Wirtuelna realita
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Powěźeńki
 
 ## Privacy Section - Data Collection
 
