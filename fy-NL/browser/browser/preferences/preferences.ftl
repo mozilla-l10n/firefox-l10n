@@ -687,6 +687,9 @@ home-prefs-recommended-by-description-generic = Utsûnderlike ynhâld, sammele t
 home-prefs-stories-header =
     .label = Ferhalen
 home-prefs-stories-description = Personalisearre ferhalen op basis fan jo aktiviteit
+home-prefs-stories-header2 =
+    .label = Ferhalen
+    .description = Utsûnderlike ynhâld, sammele troch de { -brand-product-name }-famylje
 
 ##
 
