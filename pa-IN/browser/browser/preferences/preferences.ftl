@@ -1513,6 +1513,8 @@ permissions-notification-link = ਹੋਰ ਜਾਣੋ
 permissions-notification-pause =
     .label = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਹੋਣ ਤੱਕ ਸੂਚਨਾਵਾਂ ਨੂੰ ਰੋਕੋ
     .accesskey = n
+permissions-autoplay2 =
+    .label = ਆਪੇ-ਚਲਾਓ
 permissions-autoplay = ਆਪੇ-ਚਲਾਓ
 permissions-autoplay-settings =
     .label = …ਸੈਟਿੰਗਾਂ
@@ -1535,6 +1537,20 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = …ਛੋਟਾਂ
     .accesskey = E
+permissions-location2 =
+    .label = ਟਿਕਾਣਾ
+permissions-localhost2 =
+    .label = ਡਿਵਾਈਸ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ
+permissions-local-network2 =
+    .label = ਲੋਕਲ ਨੈੱਟਵਰਕ ਡਿਵਾਈਸ
+permissions-xr2 =
+    .label = ਮਸ਼ੀਨੀ ਅਸਲੀਅਤ
+permissions-camera2 =
+    .label = ਕੈਮਰਾ
+permissions-microphone2 =
+    .label = ਮਾਈਕਰੋਫ਼ੋਨ
+permissions-notification2 =
+    .label = ਨੋਟੀਫਿਕੇਸ਼ਨ
 
 ## Privacy Section - Data Collection
 
