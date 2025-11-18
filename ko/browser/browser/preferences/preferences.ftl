@@ -1510,6 +1510,8 @@ permissions-notification-link = 더 알아보기
 permissions-notification-pause =
     .label = { -brand-short-name }가 다시 시작될 때까지 알림을 일시 중지
     .accesskey = n
+permissions-autoplay2 =
+    .label = 자동 재생
 permissions-autoplay = 자동 재생
 permissions-autoplay-settings =
     .label = 설정…
@@ -1532,6 +1534,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = 예외…
     .accesskey = E
+permissions-xr2 =
+    .label = 가상 현실
+permissions-camera2 =
+    .label = 카메라
+permissions-microphone2 =
+    .label = 마이크
+permissions-notification2 =
+    .label = 알림
 
 ## Privacy Section - Data Collection
 
