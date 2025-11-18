@@ -1526,6 +1526,8 @@ permissions-notification-link = Mear ynfo
 permissions-notification-pause =
     .label = Notifikaasjes pauzearje oant { -brand-short-name } opnij start wurdt
     .accesskey = N
+permissions-autoplay2 =
+    .label = Automatysk ôfspylje
 permissions-autoplay = Automatysk ôfspylje
 permissions-autoplay-settings =
     .label = Ynstellingen…
@@ -1548,6 +1550,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Utsûnderingen…
     .accesskey = U
+permissions-location2 =
+    .label = Lokaasje
+permissions-xr2 =
+    .label = Virtual Reality
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofoan
+permissions-notification2 =
+    .label = Notifikaasjes
 
 ## Privacy Section - Data Collection
 
