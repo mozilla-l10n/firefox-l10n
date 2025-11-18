@@ -1391,6 +1391,8 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Tisuraf…
     .accesskey = s
+permissions-location2 =
+    .label = Adig
 permissions-local-network2 =
     .label = Ibenkan n uzeṭṭa adigan
 
