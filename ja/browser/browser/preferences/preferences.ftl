@@ -672,6 +672,9 @@ home-prefs-recommended-by-description-generic = { -brand-product-name } ファ�
 home-prefs-stories-header =
     .label = ストーリー
 home-prefs-stories-description = ユーザーの行動に基いてパーソナライズされたストーリー
+home-prefs-stories-header2 =
+    .label = ストーリー
+    .description = { -brand-product-name } ファミリーに選ばれた優良コンテンツ
 
 ##
 
