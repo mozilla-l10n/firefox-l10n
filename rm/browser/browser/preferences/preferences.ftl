@@ -625,6 +625,9 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }
@@ -1442,6 +1445,8 @@ permissions-notification-link = Ulteriuras infurmaziuns
 permissions-notification-pause =
     .label = Modus da pausa per las communicaziuns enfin che { -brand-short-name } vegn reavià
     .accesskey = n
+permissions-autoplay2 =
+    .label = Reproducziun automatica
 permissions-autoplay = Reproducziun automatica
 permissions-autoplay-settings =
     .label = Parameters…
@@ -1464,6 +1469,18 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepziuns…
     .accesskey = E
+permissions-localhost2 =
+    .label = Applicaziuns e servetschs da l’apparat
+permissions-local-network2 =
+    .label = Apparats en la rait locala
+permissions-xr2 =
+    .label = Realitad virtuala
+permissions-camera2 =
+    .label = Camera
+permissions-microphone2 =
+    .label = Microfon
+permissions-notification2 =
+    .label = Communicaziuns
 
 ## Privacy Section - Data Collection
 
