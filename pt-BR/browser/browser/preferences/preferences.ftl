@@ -685,6 +685,9 @@ home-prefs-recommended-by-description-generic = Conteúdo excepcional selecionad
 home-prefs-stories-header =
     .label = Histórias
 home-prefs-stories-description = Histórias personalizadas com base na sua atividade
+home-prefs-stories-header2 =
+    .label = Histórias
+    .description = Conteúdo excepcional selecionado pela família { -brand-product-name }
 
 ##
 
