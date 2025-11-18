@@ -1526,6 +1526,8 @@ permissions-notification-link = Μάθετε περισσότερα
 permissions-notification-pause =
     .label = Παύση ειδοποιήσεων μέχρι να επανεκκινηθεί το { -brand-short-name }
     .accesskey = ε
+permissions-autoplay2 =
+    .label = Αυτόματη αναπαραγωγή
 permissions-autoplay = Αυτόματη αναπαραγωγή
 permissions-autoplay-settings =
     .label = Ρυθμίσεις…
@@ -1548,6 +1550,8 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = Ε
+permissions-location2 =
+    .label = Τοποθεσία
 
 ## Privacy Section - Data Collection
 
