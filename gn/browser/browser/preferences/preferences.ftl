@@ -1524,6 +1524,8 @@ permissions-notification-link = Eikuaave
 permissions-notification-pause =
     .label = Tojejoko momarandu’i oñepyrũjey peve { -brand-short-name }
     .accesskey = n
+permissions-autoplay2 =
+    .label = Mbohetajehegui
 permissions-autoplay = Mbohetajehegui
 permissions-autoplay-settings =
     .label = Ñemboheko
@@ -1548,6 +1550,14 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = Tenda
+permissions-xr2 =
+    .label = Añetegua ñanduti
+permissions-camera2 =
+    .label = Cámara
+permissions-microphone2 =
+    .label = Ñe’ẽmbotuichaha
+permissions-notification2 =
+    .label = Marandu’i
 
 ## Privacy Section - Data Collection
 
