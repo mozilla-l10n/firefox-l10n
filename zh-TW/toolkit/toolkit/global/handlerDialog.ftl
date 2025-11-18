@@ -52,7 +52,7 @@ permission-dialog-btn-choose-app =
     .label = 選擇應用程式
     .accessKey = A
 permission-dialog-unset-description = 需要選擇一套應用程式。
-permission-dialog-set-change-app-link = 請選擇另一套應用程式。
+permission-dialog-set-change-app-link = 選擇另一套應用程式。
 
 ## Chooser dialog
 ## Variables:
