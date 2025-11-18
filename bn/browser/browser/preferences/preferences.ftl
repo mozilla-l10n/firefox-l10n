@@ -411,6 +411,9 @@ choose-bookmark =
     .label = বুকমার্ক ব্যবহার করুন
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -700,6 +703,9 @@ forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ইতিহাস
@@ -780,6 +786,12 @@ sitedata-clear =
 sitedata-settings =
     .label = ডাটা ব্যবস্থাপনা…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -896,6 +908,8 @@ permissions-notification-link = আরও জানুন
 permissions-notification-pause =
     .label = নোটিফিকেশন বন্ধ রাখো যতক্ষণ না { -brand-short-name } রিস্টার্ট হয়
     .accesskey = n
+permissions-autoplay2 =
+    .label = অটোপ্লে
 permissions-autoplay = অটোপ্লে
 permissions-autoplay-settings =
     .label = সেটিং...
@@ -909,6 +923,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = E
+permissions-location2 =
+    .label = অবস্থান
+permissions-xr2 =
+    .label = ভার্চুয়াল রিয়েলিটি
+permissions-camera2 =
+    .label = ক্যামেরা
+permissions-microphone2 =
+    .label = মাইক্রোফোন
+permissions-notification2 =
+    .label = নোটিফিকেশন
 
 ## Privacy Section - Data Collection
 
@@ -930,6 +954,9 @@ addon-recommendations-link = আরও জানুন
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -962,6 +989,12 @@ certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
 certs-devices-enable-fips = FIPS সক্রিয় করা হবে
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
