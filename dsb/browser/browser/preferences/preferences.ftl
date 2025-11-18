@@ -693,6 +693,9 @@ home-prefs-recommended-by-description-generic = Wuwześowe wopśimjeśe, kótare
 home-prefs-stories-header =
     .label = Tšojenja
 home-prefs-stories-description = Personalizěrowane tšojenja na zakłaźe wašeje aktiwity
+home-prefs-stories-header2 =
+    .label = Tšojenja
+    .description = Wuwześowe wopśimjeśe, kótarež se pśez swójźbu { -brand-product-name } wótwardujo
 
 ##
 
