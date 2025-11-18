@@ -1493,8 +1493,18 @@ permissions-addon-exceptions =
     .accesskey = U
 permissions-location2 =
     .label = Plassering
+permissions-localhost2 =
+    .label = Einingsappar og -tenester
+permissions-local-network2 =
+    .label = Lokale nettverkseiningar
 permissions-xr2 =
     .label = Virtuell røyndom
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Varsel
 
 ## Privacy Section - Data Collection
 
