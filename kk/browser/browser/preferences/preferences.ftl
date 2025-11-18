@@ -1454,6 +1454,8 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = Е
+permissions-location2 =
+    .label = Орналасу
 
 ## Privacy Section - Data Collection
 
