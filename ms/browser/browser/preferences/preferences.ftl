@@ -343,6 +343,9 @@ choose-bookmark =
     .label = Guna Tandabuku…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -472,6 +475,12 @@ sync-sign-in =
     .label = Daftar masuk
     .accesskey = d
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -558,6 +567,12 @@ forms-master-pw-change =
     .accesskey = T
 forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Sejarah
@@ -631,6 +646,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Urus Data…
     .accesskey = U
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -713,6 +734,14 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Pengecualian…
     .accesskey = E
+permissions-location2 =
+    .label = Lokasi
+permissions-camera2 =
+    .label = Kamera
+permissions-microphone2 =
+    .label = Mikrofon
+permissions-notification2 =
+    .label = Notifikasi
 
 ## Privacy Section - Data Collection
 
@@ -729,6 +758,9 @@ collection-studies-link = Papar kajian { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi binaan ini
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -761,6 +793,12 @@ certs-devices =
     .label = Peranti Keselamatan…
     .accesskey = P
 certs-devices-enable-fips = Dayakan FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
