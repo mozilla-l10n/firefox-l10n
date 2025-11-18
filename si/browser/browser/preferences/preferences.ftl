@@ -582,6 +582,9 @@ choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } අන්තර්ගතය
@@ -1297,6 +1300,8 @@ permissions-notification-link = තව දැනගන්න
 permissions-notification-pause =
     .label = { -brand-short-name } යළි අරඹන තෙක් දැනුම්දීම් නවතන්න
     .accesskey = n
+permissions-autoplay2 =
+    .label = ස්වයං වාදනය
 permissions-autoplay = ස්වයං වාදනය
 permissions-autoplay-settings =
     .label = සැකසුම්…
@@ -1316,6 +1321,16 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = හැරදැමීම්...
     .accesskey = E
+permissions-location2 =
+    .label = ස්ථානය
+permissions-xr2 =
+    .label = අතථ්‍ය යථාර්ථය
+permissions-camera2 =
+    .label = රූගතය
+permissions-microphone2 =
+    .label = ශබ්දවාහිනිය
+permissions-notification2 =
+    .label = දැනුම්දීම්
 
 ## Privacy Section - Data Collection
 
