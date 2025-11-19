@@ -60,6 +60,7 @@ pane-experimental-description2 = Gaž nastajenja rozšyrjoneje konfiguracije zm�
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Wopytajśo naše eksperimentelne funkcije! Su we wuwiśu, což móžo wobwliwowaś, kak { -brand-short-name } funkcioněrujo. Dostawamy jano daty wó wašom wužywanju toś tych funkcijow, jolic sćo zmóžnił <a data-l10n-name="data-collection">techniske a interakciske daty</a>.
 pane-experimental-description3 = Wopytajśo eksperimentalne funkcije! Su we wuwiśu a změnjaju se hyšći, což se mógło na to wustatkowaś, kak { -brand-short-name } funkcioněrujo.
 pane-experimental-reset =
     .label = Standard wótnowiś
@@ -726,6 +727,8 @@ home-prefs-weather-header =
     .label = Wjedro
 home-prefs-weather-description = Źinsajšna wjedrowa pśedpowěsć na jadno póglědnjenje
 home-prefs-weather-learn-more-link = Dalšne informacije
+home-prefs-widgets-header =
+    .label = Asistenty
 home-prefs-trending-search-header =
     .label = Woblubowane pytanja
 home-prefs-trending-search-description = Popularne a cesto pytane temy
@@ -740,6 +743,8 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } pódpěraś
 home-prefs-mission-message = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili
 home-prefs-mission-message-learn-more-link = Zgóńśo kak
+home-prefs-mission-message2 =
+    .message = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili.
 home-prefs-manage-topics-link = Temy zastojaś
 home-prefs-choose-wallpaper-link = Wubjeŕśo slězynowy wobraz
 # Variables:
@@ -1546,6 +1551,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Wuskokujuce wokna a dalejpósrědnjenja tśeśich póbitowarjow blokěrowaś…
     .accesskey = u
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Wuskokujuce wokna a wuwześa dalejpósrědnjenjow tśeśich póbitowarjow zastojaś
+    .accesskey = u
+    .searchkeywords = wuskokujuce wokna
+permissions-addon-install-warning2 =
+    .label = Warnowaś, gaž sedła wopytuju rozšyrjenja instalěrowaś
+    .accesskey = W
+permissions-addon-exceptions2 =
+    .label = Wubjeŕśo, kótare websedła mógu rozšyrjenja instalěrowaś
+    .accesskey = b
 permissions-block-popups =
     .label = Wuskokujuce wokno blokěrowaś
     .accesskey = k
@@ -1561,6 +1578,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wuwześa…
     .accesskey = W
+permissions-header2 =
+    .label = Pšawa
+    .description = Pšawa, kótarež websedłam dawaśo, ku kótarymž se woglědujośo.
 permissions-location2 =
     .label = Stojnišćo
 permissions-localhost2 =
@@ -1573,6 +1593,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Głosnik
 permissions-notification2 =
     .label = Powěźeńki
 

@@ -406,3 +406,9 @@ tab-context-separate-split-view =
     .label = Rozdźělony naglěd wótźěliś
     .accesskey = d
 tab-context-badge-new = Nowy
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Rejtariki źěliś
