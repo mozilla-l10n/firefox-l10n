@@ -673,6 +673,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = אתרים ששמרת או ביקרת בהם
 home-prefs-shortcuts-by-option-sponsored =
     .label = קיצורי דרך ממומנים
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -721,11 +723,16 @@ home-prefs-weather-learn-more-link = מידע נוסף
 home-prefs-trending-search-header =
     .label = חיפושים פופולריים
 home-prefs-trending-search-description = נושאים פופולריים שאנשים מחפשים לעתים קרובות
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = רשימות
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = תמיכה ב־{ -brand-product-name }
 home-prefs-mission-message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר
 home-prefs-mission-message-learn-more-link = כיצד?
+home-prefs-mission-message2 =
+    .message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר.
 home-prefs-manage-topics-link = ניהול נושאים
 home-prefs-choose-wallpaper-link = בחירת תמונת רקע
 # Variables:
