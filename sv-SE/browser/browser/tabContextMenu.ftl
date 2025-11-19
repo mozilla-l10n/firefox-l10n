@@ -133,7 +133,6 @@ tab-context-send-to-device =
     .label =
         { $tabCount ->
             [1] Skicka till enhet
-            [one] Skicka { $tabCount } flikar till enhet
            *[other] Skicka { $tabCount } flikar till enhet
         }
     .accesskey = S
