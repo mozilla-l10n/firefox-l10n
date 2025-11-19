@@ -60,6 +60,7 @@ pane-experimental-description2 = გაფართოებული პარ�
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = მოსინჯეთ ჩვენი საცდელი შესაძლებლობები! ჯერ კიდევ დამუშავებისა და დახვეწის საფეხურზეა, რის შედეგადაც { -brand-short-name } შეიძლება განსხვავებულად მოქმედებდეს. ჩვენ მხოლოდ იმ შემთხვევაში გვეცნობება თქვენ მიერ გამოყენებული შესაძლებლობების შესახებ, თუ ჩართული გაქვთ <a data-l10n-name="data-collection">ტექნიკური და ურთიერთქმედების მონაცემების</a> გაგზავნა.
 pane-experimental-description3 = მოსინჯეთ ჩვენი საცდელი შესაძლებლობები! ჯერ კიდევ იხვეწება და ვითარდება, ამიტომ შეიძლება გავლენა ჰქონდეს, თუ როგორ იმუშავებს { -brand-short-name }.
 pane-experimental-reset =
     .label = ნაგულისხმევის აღდგენა
