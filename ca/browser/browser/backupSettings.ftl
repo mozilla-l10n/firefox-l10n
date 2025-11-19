@@ -3,6 +3,26 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-description = Això també elimina totes les dades de la còpia de seguretat. No es pot desfer.
+turn-off-scheduled-backups-support-link = Més informació
+turn-off-scheduled-backups-cancel-button = Cancel·la
+turn-off-scheduled-backups-confirm-button = Desactiva i suprimeix la còpia de seguretat
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Restaureu les vostres dades
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Això substituirà totes les dades actuals del { -brand-short-name } amb la còpia de seguretat del dia { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Què es restaurarà?
+restore-from-backup-no-backup-file-link = Teniu problemes per trobar la còpia de seguretat?
+restore-from-backup-filepicker-label = Fitxer de la còpia de seguretat
+restore-from-backup-filepicker-title = Trieu el fitxer de la còpia de seguretat:
+
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
