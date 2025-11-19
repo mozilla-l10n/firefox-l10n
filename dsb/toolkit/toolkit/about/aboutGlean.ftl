@@ -195,6 +195,8 @@ about-glean-button-watch = Wobglědowaś
 about-glean-button-unwatch = Wěcej wobglědowaś
 about-glean-no-data-to-display = Njedajo daty za pokazowanje.
 # Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = Metriki <code>DualLabeledCounter</code> se w naglěźe <code>about:glean</code> hyšći njepódpěraju.
+# Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Pópisane metriki se w naglěźe <code>about:glean</code> hyšći njepódpěraju.
 about-glean-unknown-metric-type-warning = Njeznaty typ metriki.
 about-glean-enable-new-features-promo =
