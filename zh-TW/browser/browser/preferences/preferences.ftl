@@ -724,6 +724,8 @@ home-prefs-support-firefox-header =
     .label = 支持 { -brand-product-name }
 home-prefs-mission-message = 贊助商支持我們打造出一個更好的網路環境的使命
 home-prefs-mission-message-learn-more-link = 看看是如何達成的
+home-prefs-mission-message2 =
+    .message = 贊助商支持我們打造出一個更好的網路環境的使命。
 home-prefs-manage-topics-link = 管理主題
 home-prefs-choose-wallpaper-link = 挑選一張背景圖
 # Variables:
@@ -1528,6 +1530,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = 封鎖彈出型視窗與第三方重新導向
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = 管理彈出型視窗與第三方重新導向例外
+    .accesskey = E
+    .searchkeywords = popups, 彈出型視窗
+permissions-addon-install-warning2 =
+    .label = 網站嘗試安裝擴充套件時警告
+    .accesskey = W
+permissions-addon-exceptions2 =
+    .label = 選擇可以安裝擴充套件的網站
+    .accesskey = E
 permissions-block-popups =
     .label = 封鎖彈出型視窗
     .accesskey = B
@@ -1543,6 +1557,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = 例外網站…
     .accesskey = E
+permissions-header2 =
+    .label = 權限
+    .description = 您上網時，授予網站的權限。
 permissions-location2 =
     .label = 位置
 permissions-localhost2 =
@@ -1555,6 +1572,9 @@ permissions-camera2 =
     .label = 攝影機
 permissions-microphone2 =
     .label = 麥克風
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = 喇叭
 permissions-notification2 =
     .label = 通知
 
