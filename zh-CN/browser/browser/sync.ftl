@@ -20,6 +20,15 @@ fxa-menu-connect-another-device =
     .label = 连接其他设备…
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] 发送到设备
+           *[other] 发送 { $tabCount } 个标签页到设备
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label = 发送 { $tabCount } 个标签页到设备
 # This is shown dynamically within "Send tab to device" in fxa menu.

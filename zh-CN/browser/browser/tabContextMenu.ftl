@@ -127,6 +127,14 @@ tab-context-move-tabs =
            *[other] 移动标签页
         }
     .accesskey = v
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] 发送到设备
+           *[other] 发送 { $tabCount } 个标签页到设备
+        }
+    .accesskey = n
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

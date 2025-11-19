@@ -1534,6 +1534,9 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = 拦截弹出式窗口和第三方重定向
     .accesskey = B
+permissions-addon-install-warning2 =
+    .label = 当网站尝试安装扩展时发出警告
+    .accesskey = W
 permissions-block-popups =
     .label = 阻止弹出式窗口
     .accesskey = B
@@ -1561,6 +1564,9 @@ permissions-camera2 =
     .label = 摄像头
 permissions-microphone2 =
     .label = 麦克风
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = 扬声器
 permissions-notification2 =
     .label = 通知
 
