@@ -20,6 +20,15 @@ fxa-menu-connect-another-device =
     .label = სხვა მოწყობილობის დაკავშირება…
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] მოწყობილობაზე გაგზავნა
+           *[other] გაგზავნეთ { $tabCount } ჩანართი სხვა მოწყობილობაზე
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->
