@@ -720,6 +720,8 @@ home-prefs-weather-header =
     .label = ამინდი
 home-prefs-weather-description = მოსალოდნელი ამინდისთვის თვალის შევლება
 home-prefs-weather-learn-more-link = ვრცლად
+home-prefs-widgets-header =
+    .label = ჩანამატები
 home-prefs-trending-search-header =
     .label = ხშირად მოძიებული
 home-prefs-trending-search-description = ფართოდ გავრცელებული და ხშირად მოძიებული
@@ -734,6 +736,8 @@ home-prefs-support-firefox-header =
     .label = თანადგომა – { -brand-product-name }
 home-prefs-mission-message = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად
 home-prefs-mission-message-learn-more-link = იხილეთ, როგორ
+home-prefs-mission-message2 =
+    .message = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად.
 home-prefs-manage-topics-link = თემების მართვა
 home-prefs-choose-wallpaper-link = ფონის არჩევა
 # Variables:
@@ -1538,6 +1542,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = გარეშე მხარის მიერ გადამისამართების დაშვება შეზღუდვა
     .accesskey = ზ
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = მართეთ ამომხტომებისა და გარე გადამისამართების გამონაკლისები…
+    .accesskey = კ
+    .searchkeywords = ამომხტომები
+permissions-addon-install-warning2 =
+    .label = გაფრთხილება საიტების მიერ გაფართოების ჩადგმის მცდელობისას
+    .accesskey = ფ
+permissions-addon-exceptions2 =
+    .label = აირჩიეთ საიტები, რომელთაც შეეძლებათ გაფართოებების დაყენება
+    .accesskey = გ
 permissions-block-popups =
     .label = ამომხტომი ფანჯრების შეზღუდვა
     .accesskey = ზ
@@ -1553,6 +1569,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = გამონაკლისები…
     .accesskey = გ
+permissions-header2 =
+    .label = ნებართვები
+    .description = ნებართვები, რომელთაც ანიჭებთ მონახულებულ საიტებს.
 permissions-location2 =
     .label = მდებარეობა
 permissions-localhost2 =
@@ -1565,6 +1584,9 @@ permissions-camera2 =
     .label = კამერა
 permissions-microphone2 =
     .label = მიკროფონი
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = ხმამაღლამოლაპარაკე
 permissions-notification2 =
     .label = შეტყობინებები
 
