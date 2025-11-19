@@ -716,6 +716,8 @@ home-prefs-weather-header =
     .label = 天气
 home-prefs-weather-description = 速览今日天气预报
 home-prefs-weather-learn-more-link = 详细了解
+home-prefs-widgets-header =
+    .label = 小组件
 home-prefs-trending-search-header =
     .label = 热门搜索
 home-prefs-trending-search-description = 流行及常搜主题
@@ -730,6 +732,8 @@ home-prefs-support-firefox-header =
     .label = 支持 { -brand-product-name }
 home-prefs-mission-message = 建设一个更好的互联网的使命，离不开我们赞助商的支持
 home-prefs-mission-message-learn-more-link = 了解其方式
+home-prefs-mission-message2 =
+    .message = 建设一个更好的互联网的使命，离不开我们赞助商的支持。
 home-prefs-manage-topics-link = 管理主题
 home-prefs-choose-wallpaper-link = 选择壁纸
 # Variables:
