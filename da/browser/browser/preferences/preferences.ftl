@@ -60,6 +60,7 @@ pane-experimental-description2 = Ændring af avancerede indstillinger for opsæt
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Prøv vores eksperimentelle funktioner! De er under udvikling og bliver ændret løbende, hvilket kan påvirke, hvordan { -brand-short-name } virker. Vi modtager kun data om din brug af disse funktioner, hvis du har sagt ja til at dele <a data-l10n-name="data-collection">tekniske data og data om brug</a>.
 pane-experimental-description3 = Prøv vores eksperimentelle funktioner! De er under udvikling og ændres løbende, hvilket kan have indflydelse på, hvordan { -brand-short-name } fungerer.
 pane-experimental-reset =
     .label = Gendan standarder
@@ -113,6 +114,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Klik på Tilføjelser <img data-l10n-name="addons-icon"/> i menuen <img data-l10n-name="menu-icon"/> for at aktivere udvidelsen.
+extension-controlled-enable-2 = Gå til <a data-l10n-name="addons-link">Udvidelser og temaer</a> for at genaktivere denne udvidelse.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } kontrollerer nogle af indstillingerne for din startside.
@@ -724,11 +726,19 @@ home-prefs-widgets-header =
 home-prefs-trending-search-header =
     .label = Populære søgninger
 home-prefs-trending-search-description = Populære og ofte søgte emner
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lister
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Timer
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Støt { -brand-product-name }
 home-prefs-mission-message = Vores sponsorer støtter vores mission om at bygge et bedre internet
 home-prefs-mission-message-learn-more-link = Find ud af hvordan
+home-prefs-mission-message2 =
+    .message = Vores sponsorer støtter vores mission om at bygge et bedre internet.
 home-prefs-manage-topics-link = Håndter emner
 home-prefs-choose-wallpaper-link = Vælg en baggrund
 # Variables:
