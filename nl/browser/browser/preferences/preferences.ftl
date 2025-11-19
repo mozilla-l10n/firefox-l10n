@@ -60,6 +60,7 @@ pane-experimental-description2 = Het wijzigen van geavanceerde configuratie-inst
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Probeer onze experimentele functies! Ze zijn in ontwikkeling en in de groei, wat van invloed kan zijn op de manier waarop { -brand-short-name } werkt. We ontvangen alleen gegevens over uw gebruik van deze functies als u <a data-l10n-name="data-collection">technische en interactiegegevens</a> hebt ingeschakeld.
 pane-experimental-description3 = Probeer onze experimentele functies! Ze zijn in ontwikkeling en worden steeds beter, wat van invloed kan zijn op de manier waarop { -brand-short-name } werkt.
 pane-experimental-reset =
     .label = Standaardwaarden herstellen
@@ -720,6 +721,8 @@ home-prefs-weather-header =
     .label = Weer
 home-prefs-weather-description = De weersverwachting van vandaag in een oogopslag.
 home-prefs-weather-learn-more-link = Meer info
+home-prefs-widgets-header =
+    .label = Widgets
 home-prefs-trending-search-header =
     .label = Trending zoekopdrachten
 home-prefs-trending-search-description = Populaire en veel gezochte onderwerpen
@@ -734,6 +737,8 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } ondersteunen
 home-prefs-mission-message = Onze sponsors steunen onze missie om een beter web te bouwen
 home-prefs-mission-message-learn-more-link = Lees hier hoe
+home-prefs-mission-message2 =
+    .message = Onze sponsors steunen onze missie om een beter web te bouwen.
 home-prefs-manage-topics-link = Onderwerpen beheren
 home-prefs-choose-wallpaper-link = Kies een achtergrond
 # Variables:
@@ -1538,6 +1543,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Pop-ups en omleidingen van derden blokkeren
     .accesskey = b
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Uitzonderingen voor pop-ups en omleidingen van derden beheren
+    .accesskey = o
+    .searchkeywords = pop-ups
+permissions-addon-install-warning2 =
+    .label = Waarschuwen wanneer websites extensies proberen te installeren
+    .accesskey = W
+permissions-addon-exceptions2 =
+    .label = Kiezen welke websites extensies mogen installeren
+    .accesskey = x
 permissions-block-popups =
     .label = Pop-upvensters blokkeren
     .accesskey = P
@@ -1553,6 +1570,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Uitzonderingen…
     .accesskey = U
+permissions-header2 =
+    .label = Toestemmingen
+    .description = Toestemmingen die u verleent aan websites waarop u navigeert
 permissions-location2 =
     .label = Locatie
 permissions-localhost2 =
@@ -1565,6 +1585,9 @@ permissions-camera2 =
     .label = Camera
 permissions-microphone2 =
     .label = Microfoon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Luidspreker
 permissions-notification2 =
     .label = Notificaties
 
