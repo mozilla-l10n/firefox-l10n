@@ -60,6 +60,7 @@ pane-experimental-description2 = Hdyž nastajenja rozšěrjeneje konfiguracije z
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Wupruwujće naše eksperimentelne funkcije! Su we wuwiću, štož móže wobwliwować, kak { -brand-short-name } funguje. Dóstawamy jenož daty wo wašim wužiwanju tutych funkcijow, jeli sće <a data-l10n-name="data-collection">techniske a interakciske daty</a> zmóžnił.
 pane-experimental-description3 = Wupruwujće eksperimentalne funkcije! Su we wuwiću a měnjeja so hišće, štož so móhło na to wuskutkować, kak { -brand-short-name } funguje.
 pane-experimental-reset =
     .label = Standard wobnowić
