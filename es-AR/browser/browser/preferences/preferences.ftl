@@ -60,6 +60,7 @@ pane-experimental-description2 = Cambiar las preferencias de configuración avan
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = ¡Pruebe nuestras funciones experimentales! Están en desarrollo y evolucionando, lo que podría afectar el funcionamiento de { -brand-short-name }. Solo recibimos datos sobre el uso que hace de estas funciones si tiene <a data-l10n-name="data-collection">datos técnicos y de interacción</a> activados.
 pane-experimental-description3 = ¡Pruebe nuestras características experimentales! Están en desarrollo y evolucionando, lo que podría tener impacto en el funcionamiento de { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predeterminados
@@ -720,6 +721,8 @@ home-prefs-weather-header =
     .label = Clima
 home-prefs-weather-description = El pronóstico de hoy de un vistazo
 home-prefs-weather-learn-more-link = Conocer más
+home-prefs-widgets-header =
+    .label = Widgets
 home-prefs-trending-search-header =
     .label = Búsquedas más populares
 home-prefs-trending-search-description = Temas populares y buscados con frecuencia
@@ -734,6 +737,8 @@ home-prefs-support-firefox-header =
     .label = Ayudar a { -brand-product-name }
 home-prefs-mission-message = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor
 home-prefs-mission-message-learn-more-link = Descubra cómo
+home-prefs-mission-message2 =
+    .message = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor.
 home-prefs-manage-topics-link = Administrar temas
 home-prefs-choose-wallpaper-link = Elegir un fondo de pantalla
 # Variables:
@@ -1538,6 +1543,15 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloquear ventanas emergentes y redirecciones de terceros
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Administrar las excepciones de ventanas emergentes y redirecciones de terceros…
+    .accesskey = e
+    .searchkeywords = popups
+permissions-addon-install-warning2 =
+    .label = Avisar cuando sitios web traten de instalar extensiones
+    .accesskey = x
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
