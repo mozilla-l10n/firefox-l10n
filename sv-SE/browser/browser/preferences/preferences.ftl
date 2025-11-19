@@ -1570,6 +1570,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Undantag…
     .accesskey = U
+permissions-header2 =
+    .label = Behörigheter
+    .description = Behörigheter du ger till webbplatser du besöker.
 permissions-location2 =
     .label = Plats
 permissions-localhost2 =
@@ -1582,6 +1585,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Högtalare
 permissions-notification2 =
     .label = Aviseringar
 
