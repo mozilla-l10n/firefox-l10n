@@ -60,7 +60,7 @@ pane-experimental-description2 = Att ändra avancerade konfigurationsinställnin
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
-pane-experimental-description4 = Ge våra experimentella funktioner ett försök! De är under utveckling och utvecklas, vilket kan påverka hur { -brand-short-name } fungerar. Vi tar endast emot data om din användning av dessa funktioner om du har <a data-l10n-name="data-collection">teknisk data och interaktionsdata</a> aktiverat.
+pane-experimental-description4 = Testa våra experimentella funktioner! De är under utveckling, vilket kan påverka hur { -brand-short-name } fungerar. Vi tar bara emot data om din användning av dessa funktioner om du har aktiverat <a data-l10n-name="data-collection">tekniska data och interaktionsdata</a>.
 pane-experimental-description3 = Ge våra experimentella funktioner ett försök! De är under utveckling och utvecklas, vilket kan påverka hur { -brand-short-name } fungerar.
 pane-experimental-reset =
     .label = Återställ standard
@@ -1570,9 +1570,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Undantag…
     .accesskey = U
-permissions-header2 =
-    .label = Behörigheter
-    .description = Behörigheter du ger webbplatser du surfar.
 permissions-location2 =
     .label = Plats
 permissions-localhost2 =
@@ -1585,9 +1582,6 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
-# Privacy permission for sound output devices.
-permissions-speaker2 =
-    .label = Högtalare
 permissions-notification2 =
     .label = Aviseringar
 
