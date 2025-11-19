@@ -7,6 +7,12 @@ customkeys-search = Søg:
 customkeys-change = Skift
 customkeys-reset = Nulstil
 customkeys-clear = Ryd
+customkeys-new-key = Tryk på en ny tast:
+customkeys-reset-all = Nulstil alle tastaturgenveje til deres standardindstillinger
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Tasten er allerede tildelt { $conflict }. Vil du erstatte den?
+customkeys-reset-all-confirm = Er du sikker på, at du vil nulstille alle tastaturgenveje til deres standardindstillinger?
 customkeys-history-reopen-tab = Åbn senest lukkede faneblad igen
 customkeys-history-reopen-window = Åbn senest lukkede vindue igen
 customkeys-dev-tools = Udviklerværktøj
@@ -19,6 +25,7 @@ customkeys-dev-performance = Ydelse
 customkeys-dev-storage = Lager-inspektør
 customkeys-dev-dom = DOM
 customkeys-dev-accessibility = Tilgængelighed
+customkeys-dev-profiler-toggle = Start/stop måling af ydelse
 customkeys-nav-back = Tilbage
 customkeys-nav-forward = Fremad
 customkeys-nav-home = Startside
