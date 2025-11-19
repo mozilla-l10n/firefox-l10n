@@ -208,6 +208,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Preset per il debug di { -brand-shorter-name }. Overhead elevato, non utilizzare per analisi delle prestazioni ma solo per comprendere il comportamento del browser.
 profiler-popup-presets-debug-label =
     .label = Debug
+profiler-popup-presets-web-compat-description = Preset consigliato per il debug dei problemi di compatibilità nei siti web, non per monitorare le prestazioni.
+profiler-popup-presets-web-compat-label =
+    .label = Compatibilità web
 profiler-popup-presets-custom-label =
     .label = Personalizzato
 

@@ -737,6 +737,8 @@ home-prefs-support-firefox-header =
     .label = Sostieni { -brand-product-name }
 home-prefs-mission-message = I nostri sponsor sostengono la nostra missione di costruire un Web migliore
 home-prefs-mission-message-learn-more-link = Scopri come
+home-prefs-mission-message2 =
+    .message = I nostri sponsor sostengono la nostra missione di costruire un Web migliore.
 home-prefs-manage-topics-link = Gestisci argomenti
 home-prefs-choose-wallpaper-link = Scegli uno sfondo
 # Variables:
@@ -1046,10 +1048,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Password
     .searchkeywords = credenziali
+forms-passwords-header =
+    .label = Password
+    .aria-label = Password
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Chiedi se salvare le password
     .accesskey = h
+forms-manage-password-exceptions =
+    .label = Gestisci eccezioni per le password
+    .accesskey = w
 forms-exceptions =
     .label = Eccezioni…
     .accesskey = z
@@ -1080,12 +1088,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Compila automaticamente nomi utente e password
     .accesskey = u
+forms-fill-usernames-and-passwords-2 =
+    .label = Salva e compila automaticamente nomi utente e password
+    .accesskey = m
 forms-saved-passwords =
     .label = Password salvate
     .accesskey = w
+forms-saved-passwords-2 =
+    .label = Gestisci password salvate
+    .accesskey = G
+forms-saved-passwords-searchkeywords = Sono state salvate le credenziali di accesso per i seguenti siti
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Protezioni aggiuntive
 forms-primary-pw-use =
     .label = Utilizza una password principale
     .accesskey = U
+forms-primary-pw-set =
+    .label = Imposta password principale
+forms-primary-pw-on =
+    .label = La password principale è ATTIVA
+forms-primary-pw-change-2 =
+    .label = Cambia password principale
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Disattivala
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Richiedi conferma dell’accesso al dispositivo per compilare automaticamente e gestire le password
