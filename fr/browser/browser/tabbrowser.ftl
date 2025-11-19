@@ -365,9 +365,9 @@ tab-context-badge-new = Nouveau
 
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
-    .label = Onglets séparés
+    .label = Séparer les onglets
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
-    .label = Onglets inversés
+    .label = Inverser les onglets
 split-view-menuitem-close-both-tabs =
     .label = Fermer les deux onglets

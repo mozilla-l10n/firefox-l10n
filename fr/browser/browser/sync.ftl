@@ -24,8 +24,7 @@ fxa-menu-connect-another-device =
 fxa-menu-send-to-device =
     .label =
         { $tabCount ->
-            [1] Envoyer à l’appareil
-            [one] Envoyer { $tabCount } onglets à un appareil
+            [1] Envoyer à un appareil
            *[other] Envoyer { $tabCount } onglets à un appareil
         }
 # Variables:
