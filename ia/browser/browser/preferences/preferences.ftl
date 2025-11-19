@@ -720,6 +720,8 @@ home-prefs-weather-header =
     .label = Meteo
 home-prefs-weather-description = Prevision hodierne a un colpo de oculos
 home-prefs-weather-learn-more-link = Pro saper plus
+home-prefs-widgets-header =
+    .label = Widgets
 home-prefs-trending-search-header =
     .label = Recercas popular
 home-prefs-trending-search-description = Themas popular e frequentemente cercate
@@ -734,6 +736,8 @@ home-prefs-support-firefox-header =
     .label = Supporta { -brand-product-name }
 home-prefs-mission-message = Nostre patrocinatores supporta nostre mission pro construer un web melior
 home-prefs-mission-message-learn-more-link = Discoperi como
+home-prefs-mission-message2 =
+    .message = Nostre patrocinatores supporta nostre mission pro construer un web melior.
 home-prefs-manage-topics-link = Gerer topicos
 home-prefs-choose-wallpaper-link = Eliger un fundo de schermo
 # Variables:
