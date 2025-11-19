@@ -60,6 +60,7 @@ pane-experimental-description2 = Cambiar parametros de configuration avantiate p
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Essaya nostre functiones experimental! Illos es in disveloppamento e in evolution, lo que pote haber impacto sur como functiona { -brand-short-name }. Nos solo recipe datos re tu uso de iste functiones si tu ha activate le <a data-l10n-name="data-collection">datos technic e de interaction</a>.
 pane-experimental-description3 = Essaya nostre functiones experimental! Illos es in disveloppamento e in evolution, lo que pote haber impacto sur como functiona { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predefinitiones
@@ -1542,6 +1543,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blocar quadros resaltante e re-directiones de tertie-partes
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Gerer le quadros resaltante e le exceptiones de redirection de tertie partes
+    .accesskey = e
+    .searchkeywords = quadros resaltante
+permissions-addon-install-warning2 =
+    .label = Adverter quando sitos web tenta installar extensiones
+    .accesskey = A
+permissions-addon-exceptions2 =
+    .label = Eliger que sitos web pote installar extensiones
+    .accesskey = E
 permissions-block-popups =
     .label = Blocar le fenestras emergente
     .accesskey = B
@@ -1557,6 +1570,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Exceptiones…
     .accesskey = E
+permissions-header2 =
+    .label = Permissos
+    .description = Permissos que tu da a sitos web que tu naviga.
 permissions-location2 =
     .label = Geolocalisation
 permissions-localhost2 =
@@ -1569,6 +1585,9 @@ permissions-camera2 =
     .label = Camera
 permissions-microphone2 =
     .label = Microphono
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Altoparlatores
 permissions-notification2 =
     .label = Notificationes
 
