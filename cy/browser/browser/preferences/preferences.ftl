@@ -60,6 +60,7 @@ pane-experimental-description2 = Gall newid dewisiadau ffurfweddiad uwch effeith
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Rhowch gynnig ar ein nodweddion arbrofol! Maen nhw'n cael eu datblygu ac yn esblygu, sy'n gallu effeithio ar sut mae { -brand-short-name } yn gweithio. Dim ond os ydych wedi troi <a data-l10n-name="data-collection">data technegol a rhyngweithio</a> ymlaen y byddwn yn derbyn data am eich defnydd o'r nodweddion hyn.
 pane-experimental-description3 = Rhowch gynnig ar ein nodweddion arbrofol! Maen nhw'n cael eu datblygu ac yn esblygu, a allai effeithio ar sut mae { -brand-short-name } yn gweithio.
 pane-experimental-reset =
     .label = Adfer y Rhagosodiadau
@@ -732,6 +733,8 @@ home-prefs-weather-header =
     .label = Y Tywydd
 home-prefs-weather-description = Cipolwg ar ragolygon tywydd heddiw
 home-prefs-weather-learn-more-link = Rhagor
+home-prefs-widgets-header =
+    .label = Teclynnau
 home-prefs-trending-search-header =
     .label = Tueddiadau chwilio
 home-prefs-trending-search-description = Pynciau chwilio aml a phoblogaidd
@@ -746,6 +749,8 @@ home-prefs-support-firefox-header =
     .label = Cefnogwch { -brand-product-name }
 home-prefs-mission-message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-mission-message-learn-more-link = Dyma sut
+home-prefs-mission-message2 =
+    .message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-manage-topics-link = Rheoli pynciau
 home-prefs-choose-wallpaper-link = Dewis Papur Wal
 # Variables:
@@ -1554,6 +1559,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Rhwystro llamlenni ac ailgyfeirio trydydd parti
     .accesskey = l
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Rheoli eithriadau ailgyfeirio llamlenni a thrydydd parti
+    .accesskey = R
+    .searchkeywords = llamlenni
+permissions-addon-install-warning2 =
+    .label = Rhybuddio pan fydd gwefannau'n ceisio gosod estyniadau
+    .accesskey = R
+permissions-addon-exceptions2 =
+    .label = Dewis pa wefannau all osod estyniadau
+    .accesskey = D
 permissions-block-popups =
     .label = Rhwystro ffenestri llamlen
     .accesskey = R
@@ -1569,6 +1586,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Eithriadau…
     .accesskey = E
+permissions-header2 =
+    .label = Caniatâd
+    .description = Y caniatâd rydych yn rhoi i wefannau rydych yn eu pori
 permissions-location2 =
     .label = Lleoliad
 permissions-localhost2 =
@@ -1581,6 +1601,9 @@ permissions-camera2 =
     .label = Camera
 permissions-microphone2 =
     .label = Meicroffon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Seinyddion
 permissions-notification2 =
     .label = Hysbysiadau
 
