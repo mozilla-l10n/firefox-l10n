@@ -60,6 +60,7 @@ pane-experimental-description2 = 調整進階設定，可能會影響 { -brand-s
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = 請試用看看我們實驗中的功能！這些功能仍在開發進化中，可能會影響 { -brand-short-name } 的運作。若您開啟捕捉<a data-l10n-name="data-collection">技術與互動資料</a>，我們則會接收您對這些功能的使用方式資料。
 pane-experimental-description3 = 試試看我們的實驗性功能！這些功能還在開發與進化中，可能會影響 { -brand-short-name } 運作方式。
 pane-experimental-reset =
     .label = 回復為預設值
