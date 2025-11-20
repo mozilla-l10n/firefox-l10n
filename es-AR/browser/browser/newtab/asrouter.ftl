@@ -373,7 +373,7 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantenga su navegador favor
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = ¿Actualizando desde Windows 10 pronto?
-windows-10-eos-sync-spotlight-subtitle = Hacga una copia de seguridad de las contraseñas y marcadores para estar listo para dar el salto a cualquier dispositivo.
+windows-10-eos-sync-spotlight-subtitle = Haga una copia de seguridad de las contraseñas y marcadores para estar listo para dar el salto a cualquier dispositivo.
 windows-10-eos-sync-spotlight-primary-label = Haga una copia de seguridad de { -brand-short-name }
 
 ## Windows 10 EoS Sync messages group 1 toast notification
