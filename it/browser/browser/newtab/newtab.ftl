@@ -670,6 +670,17 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nuova lista
+newtab-widget-section-title = Widget
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = Nascondi widget
+    .aria-label = Nascondi tutti i widget
+newtab-widget-section-maximize =
+    .title = Espandi widget
+    .aria-label = Espandi tutti i widget alla massima dimensione
+newtab-widget-section-minimize =
+    .title = Minimizza widget
+    .aria-label = Comprimi tutti i widget alle dimensione più compatta
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

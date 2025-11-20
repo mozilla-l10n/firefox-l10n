@@ -281,6 +281,20 @@ tab-context-move-tab-to-group =
            *[other] Aggiungi schede a un gruppo
         }
     .accesskey = u
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Aggiungi schermo diviso a un nuovo gruppo
+           *[other] Aggiungi schermi divisi a un nuovo gruppo
+        }
+    .accesskey = u
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Aggiungi schermo diviso a un gruppo
+           *[other] Aggiungi schermi divisi a un gruppo
+        }
+    .accesskey = u
 tab-context-move-tab-to-group-saved-groups =
     .label = Gruppi chiusi
 tab-group-editor-action-new-tab =
@@ -342,6 +356,25 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Apri gruppo in nuova finestra
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = Aggiungi nota
+    .accesskey = A
+tab-context-edit-note =
+    .label = Modifica nota
+    .accesskey = M
+tab-note-editor-title-create = Aggiungi nota
+tab-note-editor-title-edit = Modifica nota
+tab-note-editor-text-field =
+    .placeholder = Che cosa vuoi ricordare di questa scheda?
+tab-note-editor-button-cancel =
+    .label = Annulla
+    .accesskey = A
+tab-note-editor-button-save =
+    .label = Salva
+    .accesskey = S
 
 ## Split View
 
