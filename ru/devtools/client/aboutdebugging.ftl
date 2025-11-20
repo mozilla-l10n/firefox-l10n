@@ -88,7 +88,7 @@ about-debugging-setup-title = Настройка
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Выберите метод подключения, с помощью которого вы хотите удалённо отлаживать ваше устройство.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Используйте <a>{ about-debugging-this-firefox-runtime-name }</a> для отладки расширений и service worker'ов в этой версии { -brand-shorter-name }.
+about-debugging-setup-this-firefox2 = Используйте «<a>{ about-debugging-this-firefox-runtime-name }</a>» для отладки расширений и Обработчиков (ServiceWorker) в этой версии { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Подключить устройство
 # USB section of the Setup page
@@ -166,11 +166,11 @@ about-debugging-runtime-tabs =
 # Title of the service workers category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-service-workers =
-    .name = Service Worker'ы
+    .name = Обработчики
 # Title of the shared workers category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-shared-workers =
-    .name = Shared Worker'ы
+    .name = Общие Обработчики
 # Title of the other workers category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-other-workers =
@@ -185,7 +185,7 @@ about-debugging-runtime-profile-button2 = Профилировать произ�
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
-about-debugging-runtime-service-workers-not-compatible = Конфигурация вашего браузера не совместима с Service Worker'ами. <a>Узнайте больше</a>
+about-debugging-runtime-service-workers-not-compatible = Конфигурация вашего браузера не совместима с Обработчиками. <a>Узнайте больше</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -283,12 +283,12 @@ about-debugging-extension-backgroundscript-status-stopped = Остановлен
 # Note this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
 # .disabledTitle is processed by the fluent-react / ActionButton code.
-about-debugging-worker-action-push2 = Push
-    .disabledTitle = Service Worker push сейчас отключено для мультипроцессного { -brand-shorter-name }
+about-debugging-worker-action-push2 = Отправить
+    .disabledTitle = Отправка через Обработчики сейчас отключена для мультипроцессного { -brand-shorter-name }
 # This string is displayed as a label of the button that starts a service worker.
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-start2 = Запустить
-    .disabledTitle = Запуск Service Worker сейчас отключён для мультипроцессного { -brand-shorter-name }
+    .disabledTitle = Запуск Обработчиков сейчас отключён для мультипроцессного { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Разрегистрировать
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -318,7 +318,7 @@ about-debugging-worker-origin =
     .label = Источник
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
-    .title = Отладка Service Worker сейчас отключена для мультипроцессного { -brand-shorter-name }
+    .title = Отладка Обработчика сейчас отключена для мультипроцессного { -brand-shorter-name }
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Вкладка не полностью загружена и не может быть отлажена

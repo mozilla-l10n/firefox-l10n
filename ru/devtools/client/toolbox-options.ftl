@@ -46,7 +46,7 @@ options-inspector-draggable-properties-tooltip =
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Использовать более простые маркеры с prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
-    .title = Включает упрощенные маркеры, когда включена функция prefers-reduced-motion. Рисует линии вместо закрашенных прямоугольников вокруг выделенных элементов, чтобы избежать эффекта мерцания.
+    .title = Включает упрощённые маркеры, когда включена функция prefers-reduced-motion. Рисует линии вместо закрашенных прямоугольников вокруг выделенных элементов, чтобы избежать эффекта мерцания.
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = Сфокусировать следующий ввод на <kbd>Enter</kbd>

@@ -23,7 +23,7 @@ process-type-forkserver = Форк-сервер
 process-type-webisolated = Изолированное веб-содержимое
 # process used to isolate a ServiceWorker to improve
 # performance
-process-type-webserviceworker = Изолированный Service Worker
+process-type-webserviceworker = Изолированный Обработчик
 # process preallocated; may change to other types
 process-type-prealloc = Зарезервирован
 
