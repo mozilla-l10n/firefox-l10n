@@ -255,6 +255,20 @@ tab-context-move-tab-to-group =
            *[other] 그룹에 탭 추가
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] 새 그룹에 분할 보기 추가
+           *[other] 새 그룹에 분할 보기 추가
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] 그룹에 분할 보기 추가
+           *[other] 그룹에 분할 보기 추가
+        }
+    .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = 닫힌 그룹
 tab-group-editor-action-new-tab =
@@ -312,6 +326,25 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = 그룹을 새 창에서 열기
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = 메모 추가
+    .accesskey = { "" }
+tab-context-edit-note =
+    .label = 메모 편집
+    .accesskey = E
+tab-note-editor-title-create = 메모 추가
+tab-note-editor-title-edit = 메모 편집
+tab-note-editor-text-field =
+    .placeholder = 이 탭에 대해 무엇을 기억하고 싶으세요?
+tab-note-editor-button-cancel =
+    .label = 취소
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = 저장
+    .accesskey = S
 
 ## Split View
 

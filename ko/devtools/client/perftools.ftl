@@ -158,4 +158,6 @@ perftools-presets-power-label = 전력
 perftools-presets-power-description = 오버헤드가 낮은 { -brand-shorter-name }의 전력 사용 버그를 조사하기 위한 프리셋입니다.
 perftools-presets-debug-label = 디버그
 perftools-presets-debug-description = { -brand-shorter-name }에서 디버깅을 위한 프리셋입니다. 오버헤드가 높으므로 성능 작업에 사용하지 말고 브라우저 동작을 이해하는 데 중점을 두는 데 사용하세요.
+perftools-presets-web-compat-label = 웹 호환성
+perftools-presets-web-compat-description = 웹 사이트에서 성능 추적보다 웹 호환성 문제를 디버깅하는 데 권장되는 프리셋입니다.
 perftools-presets-custom-label = 사용자 지정
