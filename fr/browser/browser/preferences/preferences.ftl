@@ -1546,7 +1546,7 @@ permissions-block-popups2 =
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
-    .label = Gérer les popups et les exceptions de redirection tierce
+    .label = Gérer les exceptions pour les popups et les redirections tierces
     .accesskey = G
     .searchkeywords = pop-up
 permissions-addon-install-warning2 =
