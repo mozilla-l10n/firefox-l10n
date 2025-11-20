@@ -1164,6 +1164,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Zahlungsinformationen speichern und automatisch ausfüllen
     .accesskey = Z
+autofill-payment-methods-manage-payments-title =
+    .heading = Zahlungsmethoden verwalten
 autofill-payment-methods-manage-payments-button =
     .label = Zahlungsmethode verwalten
     .accesskey = v
@@ -1171,6 +1173,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Anmeldung am Gerät anfordern, um Zahlungsmethoden automatisch auszufüllen und zu verwalten
     .accesskey = A
+autofill-payment-methods-add-button = Neue Zahlungsmethode hinzufügen
+payments-list-header =
+    .label = Zahlungsmethoden
+payments-list-item-label = <strong>Zahlungmethoden</strong>
+payments-remove-payment-prompt-title = Diese Zahlungsmethode entfernen?
+payments-remove-payment-prompt-confirm-button = Entfernen
+payments-remove-payment-prompt-cancel-button = Abbrechen
 autofill-addresses-title = Adressen und mehr
 autofill-addresses-header =
     .aria-label = Adressen und mehr
@@ -1180,6 +1189,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adressen und mehr verwalten
     .accesskey = m
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1554,6 +1571,9 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blockieren Sie Pop-ups und Drittanbieter-Weiterleitungen
     .accesskey = B
+permissions-addon-exceptions2 =
+    .label = Wählen Sie aus, welche Websites Erweiterungen installieren dürfen
+    .accesskey = E
 permissions-block-popups =
     .label = Pop-up-Fenster blockieren
     .accesskey = P
@@ -1569,6 +1589,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ausnahmen…
     .accesskey = A
+permissions-header2 =
+    .label = Berechtigungen
+    .description = Berechtigungen, die Sie den von Ihnen besuchten Websites erteilen.
 permissions-location2 =
     .label = Standort
 permissions-localhost2 =
@@ -1581,6 +1604,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Lautsprecher
 permissions-notification2 =
     .label = Benachrichtigungen
 
