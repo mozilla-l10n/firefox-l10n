@@ -60,4 +60,3 @@ url-classifier-success = effettuato correttamente
 
 url-classifier-update-error = errore aggiornamento ({ $error })
 url-classifier-download-error = errore download ({ $error })
-

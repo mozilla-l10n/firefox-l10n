@@ -14,4 +14,3 @@ browser-utils-file-scheme = file locale
 # Variables:
 #   $extension (string) - Name of the extension that generated the URL
 browser-utils-url-extension = Estensione ({ $extension })
-

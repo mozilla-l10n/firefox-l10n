@@ -107,4 +107,3 @@ unified-extensions-mb-blocklist-error-multiple =
     .message = Alcune estensioni violano i criteri di Mozilla e sono state disattivate.
 unified-extensions-notice-safe-mode =
     .message = Tutte le estensioni sono state disattivate dalla modalità risoluzione problemi.
-
