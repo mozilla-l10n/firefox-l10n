@@ -60,6 +60,7 @@ pane-experimental-description2 = שינוי הגדרות התצורה המתקד
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = נסו את התכונות הניסיוניות שלנו! הן נמצאות בפיתוח ומשתדרגות עם הזמן, דבר שעשוי להשפיע על אופן הפעולה של { -brand-short-name }. אנו מקבלים נתונים על אופן השימוש שלך בתכונות אלה רק אם האפשרות <a data-l10n-name="data-collection">נתונים טכניים ונתוני אינטראקציה</a> הופעלה.
 pane-experimental-description3 = נסו את התכונות הניסיוניות שלנו! הן בתהליך פיתוח ומשתדרגות עם הזמן, מה שעשוי להשפיע על האופן שבו { -brand-short-name } עובד.
 pane-experimental-reset =
     .label = שחזור ברירות מחדל
@@ -720,12 +721,17 @@ home-prefs-weather-header =
     .label = מזג אוויר
 home-prefs-weather-description = תחזית היום במבט חטוף
 home-prefs-weather-learn-more-link = מידע נוסף
+home-prefs-widgets-header =
+    .label = ווידג’טים
 home-prefs-trending-search-header =
     .label = חיפושים פופולריים
 home-prefs-trending-search-description = נושאים פופולריים שאנשים מחפשים לעתים קרובות
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = רשימות
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = שעון עצר
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = תמיכה ב־{ -brand-product-name }
@@ -1188,6 +1194,8 @@ history-remember-description2 =
     .description = ‏{ -brand-short-name } יזכור את היסטוריית הגלישה, ההורדות, הטפסים והחיפוש שלך.
 history-dontremember-description2 =
     .description = { -brand-short-name } ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.
+history-custom-description =
+    .description = ‏{ -brand-short-name } ישתמש בהגדרות מותאמות אישית עבור היסטוריית הגלישה, ההורדות, הטפסים והחיפוש שלך.
 history-remember-description = ‏{ -brand-short-name } יזכור את היסטוריית הגלישה, ההורדות, הטפסים והחיפוש שלך.
 history-dontremember-description = { -brand-short-name } ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.
 history-private-browsing-permanent =
@@ -1535,6 +1543,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = חסימת חלונות קופצים והפניות מצד שלישי
     .accesskey = ח
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = ניהול חריגות עבור חלונות קופצים והפניות צד שלישי
+    .accesskey = נ
+    .searchkeywords = חלונות קופצים
 permissions-block-popups =
     .label = חסימת חלונות קופצים
     .accesskey = ח
