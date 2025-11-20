@@ -283,6 +283,20 @@ tab-context-move-tab-to-group =
            *[other] Add Tabs to Group
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Add Split View to New Group
+           *[other] Add Split Views to New Group
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Add Split View to Group
+           *[other] Add Split Views to Group
+        }
+    .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = Closed Groups
 tab-group-editor-action-new-tab =
@@ -344,6 +358,25 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Open Group in New Window
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = Add Note
+    .accesskey = A
+tab-context-edit-note =
+    .label = Edit Note
+    .accesskey = E
+tab-note-editor-title-create = Add note
+tab-note-editor-title-edit = Edit note
+tab-note-editor-text-field =
+    .placeholder = What do you want to remember about this tab?
+tab-note-editor-button-cancel =
+    .label = Cancel
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = Save
+    .accesskey = S
 
 ## Split View
 
