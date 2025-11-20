@@ -155,4 +155,6 @@ perftools-presets-power-label = Énergie
 perftools-presets-power-description = Réglage conçu pour examiner les bugs liés à la consommation d’énergie dans { -brand-shorter-name }, avec une surcharge faible.
 perftools-presets-debug-label = Débogage
 perftools-presets-debug-description = Réglage conçu pour le débogage dans { -brand-shorter-name }. Sa surcharge est importante, à utiliser non pour étudier les performances, mais pour comprendre le comportement du navigateur.
+perftools-presets-web-compat-label = Compatibilité web
+perftools-presets-web-compat-description = Réglage recommandé pour déboguer les problèmes de compatibilité web avec les sites web, plutôt que pour le suivi des performances.
 perftools-presets-custom-label = Personnalisé

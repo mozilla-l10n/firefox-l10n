@@ -279,6 +279,22 @@ tab-context-move-tab-to-group =
            *[other] Ajouter les onglets au groupe
         }
     .accesskey = A
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Ajouter la vue scindée à un nouveau groupe
+            [one] Ajouter les vues scindées à un nouveau groupe
+           *[other] Ajouter les vues scindées à un nouveau groupe
+        }
+    .accesskey = A
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Ajouter la vue scindée au groupe
+            [one] Ajouter les vues scindées au groupe
+           *[other] Ajouter les vues scindées au groupe
+        }
+    .accesskey = A
 tab-context-move-tab-to-group-saved-groups =
     .label = Groupes fermés
 tab-group-editor-action-new-tab =
@@ -341,6 +357,25 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Ouvrir le groupe dans une nouvelle fenêtre
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = Ajouter une note
+    .accesskey = A
+tab-context-edit-note =
+    .label = Modifier la note
+    .accesskey = M
+tab-note-editor-title-create = Ajouter une note
+tab-note-editor-title-edit = Modifier la note
+tab-note-editor-text-field =
+    .placeholder = Que voulez-vous retenir à propos de cet onglet ?
+tab-note-editor-button-cancel =
+    .label = Annuler
+    .accesskey = A
+tab-note-editor-button-save =
+    .label = Enregistrer
+    .accesskey = E
 
 ## Split View
 

@@ -1048,10 +1048,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Mots de passe
     .searchkeywords = identifiants
+forms-passwords-header =
+    .label = Mots de passe
+    .aria-label = Mots de passe
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Proposer d’enregistrer les mots de passe
     .accesskey = P
+forms-manage-password-exceptions =
+    .label = Gérer les exceptions de mots de passe
+    .accesskey = G
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -1082,12 +1088,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Remplir automatiquement les noms d’utilisateur et mots de passe
     .accesskey = R
+forms-fill-usernames-and-passwords-2 =
+    .label = Enregistrer et remplir automatiquement les noms d’utilisateur et les mots de passe
+    .accesskey = E
 forms-saved-passwords =
     .label = Mots de passe enregistrés
     .accesskey = e
+forms-saved-passwords-2 =
+    .label = Gérer les mots de passe enregistrés
+    .accesskey = G
+forms-saved-passwords-searchkeywords = Les identifiants pour les sites suivants sont enregistrés sur votre ordinateur
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Protections supplémentaires
 forms-primary-pw-use =
     .label = Utiliser un mot de passe principal
     .accesskey = U
+forms-primary-pw-set =
+    .label = Définir le mot de passe principal
+forms-primary-pw-on =
+    .label = Le mot de passe principal est activé.
+forms-primary-pw-change-2 =
+    .label = Changer le mot de passe principal
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Désactivez-le
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Exiger la connexion à l’appareil pour renseigner et gérer les mots de passe
@@ -1153,6 +1178,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Enregistrer et renseigner automatiquement les informations de paiement
     .accesskey = E
+autofill-payment-methods-manage-payments-title =
+    .heading = Gérer les moyens de paiement
 autofill-payment-methods-manage-payments-button =
     .label = Gérer les moyens de paiement
     .accesskey = G
@@ -1160,6 +1187,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Exiger la connexion à l’appareil pour renseigner automatiquement et gérer les moyens de paiement
     .accesskey = E
+autofill-payment-methods-add-button = Ajouter un nouveau mode de paiement
+payments-list-header =
+    .label = Moyens de paiement
+payments-list-item-label = <strong>Modes de paiement</strong>
+payments-remove-payment-prompt-title = Supprimer ce mode de paiement ?
+payments-remove-payment-prompt-confirm-button = Supprimer
+payments-remove-payment-prompt-cancel-button = Annuler
 autofill-addresses-title = Adresses et autres informations
 autofill-addresses-header =
     .aria-label = Adresses et autres informations
@@ -1169,6 +1203,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gérer les adresses et les autres informations
     .accesskey = G
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 

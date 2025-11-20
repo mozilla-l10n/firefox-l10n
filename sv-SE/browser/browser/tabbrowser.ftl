@@ -281,6 +281,22 @@ tab-context-move-tab-to-group =
            *[other] Lägg till flikar i grupp
         }
     .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Lägg till delad vy till ny grupp
+            [one] Lägg till delade vyer till ny grupp
+           *[other] Lägg till delade vyer till ny grupp
+        }
+    .accesskey = L
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Lägg till delad vy till gruppen
+            [one] Lägg till delade vyer till gruppen
+           *[other] Lägg till delade vyer till gruppen
+        }
+    .accesskey = L
 tab-context-move-tab-to-group-saved-groups =
     .label = Slutna grupper
 tab-group-editor-action-new-tab =
@@ -342,6 +358,25 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Öppna grupp i nytt fönster
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = Lägg till anteckning
+    .accesskey = L
+tab-context-edit-note =
+    .label = Redigera anteckning
+    .accesskey = R
+tab-note-editor-title-create = Lägg till anteckning
+tab-note-editor-title-edit = Redigera anteckning
+tab-note-editor-text-field =
+    .placeholder = Vad vill du komma ihåg med den här fliken?
+tab-note-editor-button-cancel =
+    .label = Avbryt
+    .accesskey = A
+tab-note-editor-button-save =
+    .label = Spara
+    .accesskey = S
 
 ## Split View
 

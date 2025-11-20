@@ -1040,6 +1040,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Passwörter
     .searchkeywords = Zugangsdaten
+forms-passwords-header =
+    .label = Passwörter
+    .aria-label = Passwörter
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Fragen, ob Passwörter gespeichert werden sollen
@@ -1074,12 +1077,28 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Benutzernamen und Passwörter automatisch ausfüllen
     .accesskey = a
+forms-fill-usernames-and-passwords-2 =
+    .label = Benutzernamen und Passwörter speichern und automatisch ausfüllen
+    .accesskey = a
 forms-saved-passwords =
     .label = Gespeicherte Passwörter
     .accesskey = G
+forms-saved-passwords-2 =
+    .label = Gespeicherte Passwörter verwalten
+    .accesskey = G
+forms-saved-passwords-searchkeywords = Zugangsdaten für folgende Websites sind auf Ihrem Computer gespeichert:
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Zusätzliche Schutzmaßnahmen
 forms-primary-pw-use =
     .label = Hauptpasswort verwenden
     .accesskey = v
+forms-primary-pw-set =
+    .label = Hauptpasswort festlegen
+forms-primary-pw-on =
+    .label = Hauptpasswort ist AN
+forms-primary-pw-change-2 =
+    .label = Hauptpasswort ändern
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Anmeldung am Gerät zum Ausfüllen und Verwalten von Passwörtern verlangen

@@ -208,6 +208,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Réglage conçu pour le débogage dans { -brand-shorter-name }. Sa surcharge est importante, à utiliser non pour étudier les performances, mais pour comprendre le comportement du navigateur.
 profiler-popup-presets-debug-label =
     .label = Débogage
+profiler-popup-presets-web-compat-description = Réglage recommandé pour déboguer les problèmes de compatibilité web avec les sites web, plutôt que pour le suivi des performances.
+profiler-popup-presets-web-compat-label =
+    .label = Compatibilité web
 profiler-popup-presets-custom-label =
     .label = Personnalisés
 

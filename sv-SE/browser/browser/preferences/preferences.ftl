@@ -1048,10 +1048,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Lösenord
     .searchkeywords = inloggningar
+forms-passwords-header =
+    .label = Lösenord
+    .aria-label = Lösenord
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Fråga om att få spara lösenord
     .accesskey = F
+forms-manage-password-exceptions =
+    .label = Hantera lösenordsundantag
+    .accesskey = H
 forms-exceptions =
     .label = Undantag…
     .accesskey = d
@@ -1082,12 +1088,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Fyll i användarnamn och lösenord automatiskt
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = Spara och autofyll användarnamn och lösenord
+    .accesskey = S
 forms-saved-passwords =
     .label = Sparade lösenord
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Hantera sparade lösenord
+    .accesskey = H
+forms-saved-passwords-searchkeywords = Inloggningar för följande webbplatser lagras på din dator
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Ytterligare skydd
 forms-primary-pw-use =
     .label = Använd ett huvudlösenord
     .accesskey = A
+forms-primary-pw-set =
+    .label = Ange primärt lösenord
+forms-primary-pw-on =
+    .label = Huvudlösenordet är PÅ
+forms-primary-pw-change-2 =
+    .label = Ändra primärt lösenord
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Stäng av den
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Kräv enhetsinloggning för att fylla i och hantera lösenord
@@ -1153,6 +1178,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Spara och autofyll betalningsinfo
     .accesskey = S
+autofill-payment-methods-manage-payments-title =
+    .heading = Hantera betalningsmetoder
 autofill-payment-methods-manage-payments-button =
     .label = Hantera betalningsmetoder
     .accesskey = H
@@ -1160,6 +1187,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Kräv enhetsinloggning för att autofylla och hantera betalningsmetoder
     .accesskey = K
+autofill-payment-methods-add-button = Lägg till ny betalningsmetod
+payments-list-header =
+    .label = Betalningsmetoder
+payments-list-item-label = <strong>Betalningsmetoder</strong>
+payments-remove-payment-prompt-title = Ta bort den här betalningsmetoden?
+payments-remove-payment-prompt-confirm-button = Ta bort
+payments-remove-payment-prompt-cancel-button = Avbryt
 autofill-addresses-title = Adresser och mer
 autofill-addresses-header =
     .aria-label = Adresser och mer
@@ -1169,6 +1203,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Hantera adresser och mer
     .accesskey = H
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 

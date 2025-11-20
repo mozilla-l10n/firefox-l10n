@@ -158,4 +158,6 @@ perftools-presets-power-label = Energi
 perftools-presets-power-description = Förinställd för att undersöka buggar för energianvändning i { -brand-shorter-name }, med låg omkostnad.
 perftools-presets-debug-label = Felsök
 perftools-presets-debug-description = Förinställd för felsökning i { -brand-shorter-name }. Hög omkostnad, använd inte för prestandaarbete men för att fokusera på att förstå webbläsarens beteende.
+perftools-presets-web-compat-label = Webbkompatibel
+perftools-presets-web-compat-description = Rekommenderad förinställning för felsökning av webbkompatibilitetsproblem på webbplatser snarare än för spårning av prestanda.
 perftools-presets-custom-label = Anpassad
