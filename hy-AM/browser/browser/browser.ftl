@@ -1333,6 +1333,15 @@ popup-warning-message =
         [one] { -brand-short-name }-ը կանխել է թռուցիկի բացումը այս կայքից:
        *[other] { -brand-short-name }-ը կանխել է { $popupCount } թռուցիկի բացումը:
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name }-ը կանխեց այս կայքին վերահասցեավորել։
+        [1] { -brand-short-name }-ը կանխեց այս կայքին բացել թռուցիկ պատուհան և վերահասցեավորել։
+        [one] { -brand-short-name }-ը կանխեց այս կայքին բացել { $popupCount } թռուցիկ պատուհան և վերահասցեավորել։
+       *[other] { -brand-short-name }-ը կանխեց այս կայքին բացել { $popupCount } թռուցիկ պատուհան և վերահասցեավորել։
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1381,6 +1390,14 @@ onboarding-aw-finish-setup-button =
 
 trustpanel-etp-label-enabled = Ուժեղացված հետագծման պաշտպանությունը միացված է
 trustpanel-etp-label-disabled = Ուժեղացված հետագծման պաշտպանությունը անջատված է
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Ուժեղացված պաշտպանություն հետևելուց․ Միացված է { $host }-ի համար
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Ուժեղացված պաշտպանություն հետևելուց․ Անջատված է { $host }-ի համար
 trustpanel-connection-label-secure = Կապակցումն ապահով է
 trustpanel-connection-label-insecure = Կապակցումն անվտանգ չէ
 trustpanel-header-enabled = { -brand-product-name }--ը պաշտպանված է
@@ -1417,6 +1434,11 @@ trustpanel-blocker-section-header =
        *[other] <span>{ $count } </span> Հետագծիչներ արգելափակված են այս կայքում
     }
 trustpanel-insecure-section-header = Ձեր միացումն անվտանգ չէ
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } միջկայքային հետևող թխուկ
+       *[other] { $count } միջկայքային հետևող թխուկներ
+    }
 trustpanel-list-label-tracking-content = Հետագծվող բովանդակություն
 trustpanel-list-label-fingerprinter =
     { $count ->
@@ -1432,5 +1454,15 @@ trustpanel-list-label-cryptominer =
     { $count ->
         [one] { $count } Կրիպտոմայներ
        *[other] { $count } Կրիպտոմայներներ
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-ը արգելափակել է { $count } հետևիչ
+       *[other] { -brand-product-name }-ը արգելափակել է { $count } հետևիչներ
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-ը թույլատրել է { $count } հետևիչ
+       *[other] { -brand-product-name }-ը թույլատրել է { $count } հետևիչներ
     }
 trustpanel-tracking-content-tab-list-header = Հետևյալ կայքերը փորձում են հետևել ձեզ՝
