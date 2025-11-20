@@ -107,6 +107,12 @@ fp-cert-error-code = Kode Kesalahan: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } tidak memercayai { $hostname } karena tidak dapat membuktikan bahwa itu memenuhi persyaratan transparansi sertifikat publik.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Mungkin tidak ada yang bisa dilakukan, karena kemungkinan situsnya sendiri yang bermasalah.
 fp-learn-more-about-secure-connection-failures = Pelajari lebih lanjut tentang kegagalan sambungan aman
 fp-learn-more-about-cert-issues = Pelajari lebih lanjut tentang jenis masalah sertifikat ini
 fp-learn-more-about-time-related-errors = Pelajari lebih lanjut tentang pemecahan masalah kesalahan terkait waktu
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Sembunyikan tingkat lanjut
 fp-certerror-override-exception-button = Lanjutkan ke { $hostname } (Berrisiko)
 fp-certerror-intro = { -brand-short-name } menemukan masalah keamanan yang berpotensi serius dengan <strong>{ $hostname }</strong>. Seseorang yang berpura-pura menjadi situs dapat mencoba mencuri hal-hal seperti info kartu kredit, kata sandi, atau surel.
 fp-certerror-expired-into = { -brand-short-name } menemukan masalah keamanan dengan <strong>{ $hostname }</strong>. Situs tidak diatur dengan benar atau jam perangkat Anda disetel ke tanggal/waktu yang salah.
+fp-certerror-transparency-intro = Seseorang yang berpura-pura menjadi <strong>{ $hostname }</strong> dapat mencoba mencuri hal-hal seperti info kartu kredit, sandi, atau surel.
