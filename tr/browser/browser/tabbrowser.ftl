@@ -380,3 +380,8 @@ tab-context-badge-new = Yeni
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
     .label = Sekmeleri ayır
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Sekmeleri tersine çevir
+split-view-menuitem-close-both-tabs =
+    .label = İki sekmeyi de kapat

@@ -130,6 +130,15 @@ tab-context-move-tabs =
            *[other] Sekmeleri taşı
         }
     .accesskey = t
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Cihaza gönder
+            [one] { $tabCount } sekmeyi cihaza gönder
+           *[other] { $tabCount } sekmeyi cihaza gönder
+        }
+    .accesskey = C
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
