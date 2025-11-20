@@ -1032,6 +1032,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = 비밀번호
     .searchkeywords = 로그인
+forms-passwords-header =
+    .label = 비밀번호
+    .aria-label = 비밀번호
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = 비밀번호 저장 요청

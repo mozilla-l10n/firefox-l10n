@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = { -brand-shorter-name }에서 디버깅을 위한 프리셋입니다. 오버헤드가 높으므로 성능 작업에 사용하지 말고 브라우저 동작을 이해하는 데 중점을 두는 데 사용하세요.
 profiler-popup-presets-debug-label =
     .label = 디버그
+profiler-popup-presets-web-compat-description = 웹 사이트에서 성능 추적보다 웹 호환성 문제를 디버깅하는 데 권장되는 프리셋입니다.
+profiler-popup-presets-web-compat-label =
+    .label = 웹 호환성
 profiler-popup-presets-custom-label =
     .label = 사용자 지정
 
