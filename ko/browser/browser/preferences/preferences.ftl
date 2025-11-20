@@ -1039,6 +1039,9 @@ forms-passwords-header =
 forms-ask-to-save-passwords =
     .label = 비밀번호 저장 요청
     .accesskey = A
+forms-manage-password-exceptions =
+    .label = 비밀번호 예외 관리
+    .accesskey = M
 forms-exceptions =
     .label = 예외…
     .accesskey = x
@@ -1069,12 +1072,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = 사용자 이름과 비밀번호를 자동으로 채우기
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = 사용자 이름과 비밀번호 저장 및 자동 채우기
+    .accesskey = f
 forms-saved-passwords =
     .label = 저장된 비밀번호
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = 저장된 비밀번호 관리
+    .accesskey = d
+forms-saved-passwords-searchkeywords = 다음 사이트에 대한 로그인 정보가 컴퓨터에 저장됨
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = 추가 보호
 forms-primary-pw-use =
     .label = 기본 비밀번호 사용
     .accesskey = U
+forms-primary-pw-set =
+    .label = 기본 비밀번호 설정
+forms-primary-pw-on =
+    .label = 기본 비밀번호가 켜짐
+forms-primary-pw-change-2 =
+    .label = 기본 비밀번호 변경
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = 끄기
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = 비밀번호 채우기 및 관리에 기기 로그인 요구
@@ -1140,6 +1162,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = 결제 정보 저장 및 자동 채우기
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = 결제 방법 관리
 autofill-payment-methods-manage-payments-button =
     .label = 결제 방법 관리
     .accesskey = m
@@ -1147,6 +1171,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = 자동 채우기 및 결제 방법 관리에 기기 로그인 요구
     .accesskey = o
+autofill-payment-methods-add-button = 새 결제 방법 추가
+payments-list-header =
+    .label = 결제 방법
+payments-list-item-label = <strong>결제 방법</strong>
+payments-remove-payment-prompt-title = 이 결제 방법을 제거하시겠습니까?
+payments-remove-payment-prompt-confirm-button = 제거
+payments-remove-payment-prompt-cancel-button = 취소
 autofill-addresses-title = 주소 및 기타
 autofill-addresses-header =
     .aria-label = 주소 및 기타
@@ -1156,6 +1187,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = 주소 및 기타 관리
     .accesskey = M
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
