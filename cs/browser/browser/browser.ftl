@@ -912,7 +912,7 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponzorované
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Burzovní informace přímo v našeptávači adresního řádku
 # This string is shown as description when Market suggestion are disabled.
-urlbar-result-market-opt-in-description = Zobrazuje novinky z trhu a další informace od našich partnerů, pokud sdílíte údaje o vyhledávacích dotazech se společností { -vendor-short-name }. <a data-l10n-name="learn-more-link">Zjistit více</a>
+urlbar-result-market-opt-in-description = Nechte si zobrazovat aktuality z trhu a další informace od našich partnerů, když budete s { -vendor-short-name(case: "ins") } sdílet údaje o vyhledávacích dotazech. <a data-l10n-name="learn-more-link">Zjistit více</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Povolit našeptávání
 # This string is shown in split button to dismiss activation the Realtime suggestion.
