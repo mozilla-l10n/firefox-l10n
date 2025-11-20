@@ -101,6 +101,8 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = Bot obrolan AI
 genai-header-provider-menu =
     .title = Pilih bot obrolan
+genai-header-settings-button =
+    .title = Pengaturan Obrolan AI
 genai-header-options-button =
     .title = Buka menu
 genai-header-close-button =
@@ -253,3 +255,7 @@ link-preview-setup-faster-next-time = Anda akan melihat poin-poin penting lebih 
 link-preview-onboarding-button = Lihat pratinjau
 # Onboarding card Close button
 link-preview-onboarding-close = Tutup
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Penyiapan pertama kali
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Mungkin perlu beberapa saat. Anda akan melihat poin-poin penting lebih cepat di lain waktu.

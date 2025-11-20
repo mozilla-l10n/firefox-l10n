@@ -14,6 +14,7 @@ url-classifier-search-result-list = Daftar tabel: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL tidak valid
 url-classifier-search-error-no-features = Tidak ada fitur yang dipilih
+url-classifier-search-error-no-results = Tidak ada entri yang ditemukan untuk URL
 url-classifier-search-btn = Mulai mencari
 url-classifier-search-features = Fitur
 url-classifier-search-listType = Jenis daftar
