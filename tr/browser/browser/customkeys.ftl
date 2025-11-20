@@ -32,5 +32,6 @@ customkeys-nav-back = Geri
 customkeys-nav-forward = İleri
 customkeys-nav-home = Başlangıç
 customkeys-nav-reload = Tazele
+customkeys-nav-reload-skip-cache = Tazele (Önbelleği geçersiz kıl)
 customkeys-nav-stop = Durdur
 customkeys-caution-message = Bu özellik deneyseldir ve beklendiği gibi çalışmayabilir.

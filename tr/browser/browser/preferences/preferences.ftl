@@ -734,6 +734,8 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } tarayıcısını destekleyin
 home-prefs-mission-message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
 home-prefs-mission-message-learn-more-link = Nasıl mı?
+home-prefs-mission-message2 =
+    .message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor.
 home-prefs-manage-topics-link = Konuları yönet
 home-prefs-choose-wallpaper-link = Duvar kâğıdı seç
 # Variables:
@@ -1551,6 +1553,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = İstisnalar…
     .accesskey = n
+permissions-header2 =
+    .label = İzinler
+    .description = Gezdiğiniz web sitelerine verdiğiniz izinler.
 permissions-location2 =
     .label = Konum
 permissions-localhost2 =
@@ -1563,6 +1568,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Hoparlör
 permissions-notification2 =
     .label = Bildirimler
 

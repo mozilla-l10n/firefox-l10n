@@ -374,3 +374,9 @@ tab-context-separate-split-view =
     .label = Ayrık görünümden çıkar
     .accesskey = r
 tab-context-badge-new = Yeni
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Sekmeleri ayır
