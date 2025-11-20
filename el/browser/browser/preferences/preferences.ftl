@@ -60,6 +60,7 @@ pane-experimental-description2 = Η αλλαγή παραμέτρων των σ�
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Δοκιμάστε τις πειραματικές μας λειτουργίες! Βρίσκονται υπό ανάπτυξη και εξέλιξη, γεγονός που μπορεί να επηρεάσει τον τρόπο λειτουργίας του { -brand-short-name }. Λαμβάνουμε δεδομένα σχετικά με τη χρήση αυτών των λειτουργιών μόνο εφόσον έχετε ενεργοποιήσει τα <a data-l10n-name="data-collection">τεχνικά δεδομένα και τα δεδομένα αλληλεπίδρασης</a>.
 pane-experimental-description3 = Δοκιμάστε τις νέες μας λειτουργίες! Βρίσκονται υπό ανάπτυξη και εξέλιξη, γεγονός που θα μπορούσε να επηρεάσει τον τρόπο λειτουργίας του { -brand-short-name }.
 pane-experimental-reset =
     .label = Επαναφορά προεπιλογών
@@ -1542,9 +1543,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Φραγή αναδυόμενων παραθύρων και ανακατευθύνσεις τρίτων
     .accesskey = Φ
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Διαχείριση εξαιρέσεων αναδυόμενων παραθύρων και ανακατευθύνσεων τρίτων
+    .accesskey = ε
+    .searchkeywords = αναδυόμενα
 permissions-addon-install-warning2 =
     .label = Προειδοποίηση όταν οι ιστότοποι προσπαθούν να εγκαταστήσουν επεκτάσεις
     .accesskey = Π
+permissions-addon-exceptions2 =
+    .label = Επιλέξτε ποιοι ιστότοποι μπορούν να εγκαθιστούν επεκτάσεις
+    .accesskey = Ε
 permissions-block-popups =
     .label = Φραγή αναδυόμενων παραθύρων
     .accesskey = Φ

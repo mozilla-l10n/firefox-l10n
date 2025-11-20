@@ -143,9 +143,19 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Բացել հղումները ներդիրներում՝ նոր պատուհանների փոխարեն
     .accesskey = պ
+open-external-link-next-to-active-tab =
+    .label = Բացել հղումները հավելվածներից՝ Ձեր ակտիվ ներդիրի կողքին
 ask-on-close-multiple-tabs =
     .label = Հարցնել բազմակի ներդիրները փակելիս
     .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Հարցնել նախքան { $quitKey }-ով լքելը
+    .accesskey = ն
 confirm-on-close-multiple-tabs =
     .label = Զգուշացնել բազմակի ներդիրները փակելիս
     .accesskey = m
@@ -590,6 +600,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Ձեր պահպանած կամ այցելած կայքերը
 home-prefs-shortcuts-by-option-sponsored =
     .label = Հովանավորված դյուրանցումներ
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
