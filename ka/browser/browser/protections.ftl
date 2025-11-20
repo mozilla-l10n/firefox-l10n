@@ -25,9 +25,9 @@ graph-week-summary-private-window = მეთვალყურეები, რ
 protection-report-webpage-title = დაცვის მაჩვენებლები
 protection-report-page-content-title = დაცვის მაჩვენებლები
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
-protection-report-page-summary = { -brand-short-name } შეუმჩნევლად იცავს თქვენს უსაფრთხოებას გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რომლებითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეების ხელში აღებას.
+protection-report-page-summary = { -brand-short-name } შეუმჩნევლად იცავს თქვენს უსაფრთხოებას გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეები ხელში იქონიოთ.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
-protection-report-page-summary-default = { -brand-short-name } შეუმჩნევლად იცავს თქვენს უსაფრთხოებას გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რომლებითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეების ხელში აღებას.
+protection-report-page-summary-default = { -brand-short-name } შეუმჩნევლად იცავს თქვენს უსაფრთხოებას გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეები ხელში იქონიოთ.
 protection-report-settings-link = პირადულობისა და უსაფრთხოების პარამეტრები
 etp-card-title-always = თვალთვალისგან გაძლიერებული დაცვა: მუდმივად ჩართულია
 etp-card-title-custom-not-blocking = თვალთვალისგან გაძლიერებული დაცვა: გამორთულია
