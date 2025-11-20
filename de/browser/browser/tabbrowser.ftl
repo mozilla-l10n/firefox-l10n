@@ -363,3 +363,8 @@ tab-context-separate-split-view =
     .label = Geteilte Ansicht beenden
     .accesskey = t
 tab-context-badge-new = Neu
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+split-view-menuitem-close-both-tabs =
+    .label = Beide Tabs schließen

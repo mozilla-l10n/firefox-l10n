@@ -156,4 +156,6 @@ perftools-presets-power-label = Leistung
 perftools-presets-power-description = Voreinstellung für die Untersuchung von Problemen beim Energieverbrauch in { -brand-shorter-name }, mit geringem Overhead.
 perftools-presets-debug-label = Debuggen
 perftools-presets-debug-description = Voreinstellung für das Debuggen in { -brand-shorter-name }. Großer Overhead, nicht für Arbeiten an der Leistung verwenden, sondern für Fokus auf das Verständnis des Browser-Verhaltens.
+perftools-presets-web-compat-label = Web Compat
+perftools-presets-web-compat-description = Empfohlene Voreinstellung für das Debuggen von Web-Kompatibilitätsproblemen in Websites, anstatt die Leistung zu verfolgen.
 perftools-presets-custom-label = Benutzerdefiniert
