@@ -212,6 +212,8 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Oĩva oñemopotĩ hag̃uáicha { -brand-shorter-name } ndive. Ojehechaiterei, ani eiporu oiko porãve hag̃ua katu eikumby hag̃ua mba’éichapa omba’apo kundahára.
 profiler-popup-presets-debug-label =
     .label = Mopotĩ
+profiler-popup-presets-web-compat-label =
+    .label = Ñandutirogue jokupyty
 profiler-popup-presets-custom-label =
     .label = Mboavapyre
 
