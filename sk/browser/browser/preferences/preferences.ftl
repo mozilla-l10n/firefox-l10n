@@ -60,6 +60,7 @@ pane-experimental-description2 = Zmeny v pokročilej konfigurácii môžu ovplyv
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Vyskúšajte naše experimentálne funkcie! Keďže sú stále vo vývoji, mohli by ovplyvniť fungovanie { -brand-short-name(case: "gen") }. Údaje o vašom používaní týchto funkcií dostávame iba v prípade, že máte zapnuté odosielanie <a data-l10n-name="data-collection">technických údajov a údajov o interakciách</a>.
 pane-experimental-description3 = Vyskúšajte naše experimentálne funkcie! Tieto funkcie sú vo vývoji a mohli by ovplyvniť fungovanie prehliadača { -brand-short-name }.
 pane-experimental-reset =
     .label = Obnoviť predvolené nastavenia
@@ -676,6 +677,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Stránky, ktoré si uložíte alebo navštívite
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorované skratky
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -721,14 +724,24 @@ home-prefs-weather-header =
     .label = Počasie
 home-prefs-weather-description = Dnešná predpoveď v skratke
 home-prefs-weather-learn-more-link = Ďalšie informácie
+home-prefs-widgets-header =
+    .label = Miniaplikácie
 home-prefs-trending-search-header =
     .label = Populárne vyhľadávania
 home-prefs-trending-search-description = Populárne a často vyhľadávané témy
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Zoznamy
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Časovač
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Podporiť { -brand-product-name }
 home-prefs-mission-message = Naši sponzori podporujú našu misiu budovať lepší web
 home-prefs-mission-message-learn-more-link = Pozrite sa ako
+home-prefs-mission-message2 =
+    .message = Naši sponzori podporujú našu misiu budovať lepší web.
 home-prefs-manage-topics-link = Spravovať témy
 home-prefs-choose-wallpaper-link = Vyberte si tapetu
 # Variables:
@@ -1039,10 +1052,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Heslá
     .searchkeywords = prihlasovacie údaje
+forms-passwords-header =
+    .label = Heslá
+    .aria-label = Heslá
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Ponúkať možnosť uložiť heslá
     .accesskey = u
+forms-manage-password-exceptions =
+    .label = Spravovať výnimky pre heslá
+    .accesskey = h
 forms-exceptions =
     .label = Výnimky…
     .accesskey = m
@@ -1073,12 +1092,26 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Automaticky dopĺňať používateľské mená a heslá
     .accesskey = u
+forms-fill-usernames-and-passwords-2 =
+    .label = Ukladať a automaticky dopĺňať používateľské mená a heslá
+    .accesskey = U
 forms-saved-passwords =
     .label = Uložené heslá
     .accesskey = s
+forms-saved-passwords-2 =
+    .label = Spravovať uložené heslá
+    .accesskey = r
+forms-saved-passwords-searchkeywords = Nasledujúce prihlasovacie údaje boli uložené do vášho počítača
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Dodatočná ochrana
 forms-primary-pw-use =
     .label = Používať hlavné heslo
     .accesskey = h
+forms-primary-pw-set =
+    .label = Nastaviť hlavné heslo
+forms-primary-pw-on =
+    .label = Hlavné heslo je ZAPNUTÉ
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Vyžadovať heslo k účtu na zariadení na vyplnenie a správu hesiel
@@ -1151,6 +1184,7 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Vyžadovať heslo k účtu na zariadení na automatické vyplnenie a správu spôsobov platby
     .accesskey = t
+payments-remove-payment-prompt-cancel-button = Zrušiť
 autofill-addresses-title = Adresy a ďalšie
 autofill-addresses-header =
     .aria-label = Adresy a ďalšie
@@ -1160,6 +1194,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Spravovať adresy a ďalšie
     .accesskey = a
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1559,6 +1601,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofón
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Reproduktor
 permissions-notification2 =
     .label = Upozornenia
 
