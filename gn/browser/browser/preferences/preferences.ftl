@@ -1190,6 +1190,9 @@ autofill-payment-methods-add-button = Embojuaju mba’éicha ehepyme’ẽta
 payments-list-header =
     .label = Mba’éicha ehepyme’ẽta
 payments-list-item-label = <strong>Mba’éicha ehepyme’ẽta</strong>
+payments-remove-payment-prompt-title = ¿Eipe’a mba’éichapa ehepyme’ẽta?
+payments-remove-payment-prompt-confirm-button = Mboguete
+payments-remove-payment-prompt-cancel-button = Heja
 autofill-addresses-title = Kundaharape ha hetave
 autofill-addresses-header =
     .aria-label = Kundaharape ha hetave
@@ -1199,6 +1202,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Eñangareko kundaharape ha hetave
     .accesskey = M
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1586,6 +1597,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Oĩ’ỹva…
     .accesskey = E
+permissions-header2 =
+    .label = Moneĩ
+    .description = Ñemoneĩ eme’ẽva ñanduti rogue eikehapegua.
 permissions-location2 =
     .label = Tenda
 permissions-localhost2 =
@@ -1598,6 +1612,9 @@ permissions-camera2 =
     .label = Cámara
 permissions-microphone2 =
     .label = Ñe’ẽmbotuichaha
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Ñe’ẽatãha
 permissions-notification2 =
     .label = Marandu’i
 

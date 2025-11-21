@@ -347,6 +347,17 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Embojuruja aty ovetã pyahúpe
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Embojuaju jehaipy
+    .accesskey = A
+tab-context-edit-note =
+    .label = Embosako’i haipy
+    .accesskey = E
+tab-note-editor-title-create = Embojuaju haipy
+tab-note-editor-title-edit = Embosako’i haipy
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -365,3 +376,9 @@ tab-context-separate-split-view =
     .label = Emomombyry jehecha pehẽmbyre
     .accesskey = t
 tab-context-badge-new = Pyahu
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Emomombyry tendayke

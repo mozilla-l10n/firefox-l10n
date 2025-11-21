@@ -197,3 +197,4 @@ fp-certerror-hide-advanced-button = 隐藏高级选项
 fp-certerror-override-exception-button = 继续前往 { $hostname }（存在风险）
 fp-certerror-intro = { -brand-short-name } 发现 <strong>{ $hostname }</strong> 存在严重的安全隐患。若有人冒充此网站，其可试图窃取您的信用卡信息、密码、邮箱地址等信息。
 fp-certerror-expired-into = { -brand-short-name } 发现 <strong>{ $hostname }</strong> 存在安全问题。此网站可能未正确设置，或者您设备的日期/时间有误。
+fp-certerror-transparency-intro = 若有人冒充 <strong>{ $hostname }</strong>，其可试图窃取您的信用卡信息、密码、邮箱地址等信息。

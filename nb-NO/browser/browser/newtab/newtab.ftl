@@ -672,6 +672,12 @@ newtab-widget-section-title = Widgeter
 newtab-widget-section-hide-all-button =
     .title = Skjul widgeter
     .aria-label = Skjul alle widgeter
+newtab-widget-section-maximize =
+    .title = Utvid widgeter
+    .aria-label = Utvid alle widgeter til full størrelse
+newtab-widget-section-minimize =
+    .title = Minimer widgeter
+    .aria-label = Slå sammen alle widgeter til kompakt størrelse
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

@@ -283,6 +283,20 @@ tab-context-move-tab-to-group =
            *[other] Legg til faner i gruppen
         }
     .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Legg delt visning til ny gruppe
+           *[other] Legg delte visninger til ny gruppe
+        }
+    .accesskey = g
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Legg delt visning til gruppe
+           *[other] Legg delte visninger til gruppe
+        }
+    .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
     .label = Lukkede grupper
 tab-group-editor-action-new-tab =
@@ -344,6 +358,25 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Åpne gruppe i nytt vindu
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = Legg til notat
+    .accesskey = L
+tab-context-edit-note =
+    .label = Rediger notat
+    .accesskey = R
+tab-note-editor-title-create = Legg til notat
+tab-note-editor-title-edit = Rediger notat
+tab-note-editor-text-field =
+    .placeholder = Hva vil du huske om denne fanen?
+tab-note-editor-button-cancel =
+    .label = Avbryt
+    .accesskey = A
+tab-note-editor-button-save =
+    .label = Lagre
+    .accesskey = L
 
 ## Split View
 

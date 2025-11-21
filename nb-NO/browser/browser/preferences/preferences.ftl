@@ -1048,10 +1048,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Passord
     .searchkeywords = innlogginger
+forms-passwords-header =
+    .label = Passord
+    .aria-label = Passord
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Spør om å lagre passord
     .accesskey = S
+forms-manage-password-exceptions =
+    .label = Behandle passordunntak
+    .accesskey = B
 forms-exceptions =
     .label = Unntak …
     .accesskey = n
@@ -1082,12 +1088,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Fyll ut brukernavn og passord automatisk
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = Lagre og fyll ut brukernavn og passord automatisk
+    .accesskey = f
 forms-saved-passwords =
     .label = Lagrede passord
     .accesskey = L
+forms-saved-passwords-2 =
+    .label = Behandle lagrede passord
+    .accesskey = d
+forms-saved-passwords-searchkeywords = Innlogginger fra følgende nettsted er lagret på datamaskinen
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Ytterligere beskyttelse
 forms-primary-pw-use =
     .label = Bruk et hovedpassord
     .accesskey = B
+forms-primary-pw-set =
+    .label = Angi hovedpassord
+forms-primary-pw-on =
+    .label = Hovedpassord er PÅ
+forms-primary-pw-change-2 =
+    .label = Endre hovedpassord
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Slå det av
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Krev enhetsinnlogging for å fylle ut og behandle passord
@@ -1153,6 +1178,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Lagre og fyll ut betalingsinformasjon automatisk
     .accesskey = a
+autofill-payment-methods-manage-payments-title =
+    .heading = Behandle betalingsmåter
 autofill-payment-methods-manage-payments-button =
     .label = Behandle betalingsmåter
     .accesskey = m
@@ -1160,6 +1187,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Krev enhetspålogging for å automatisk fylle ut og behandle betalingsmåter
     .accesskey = r
+autofill-payment-methods-add-button = Legg til ny betalingsmåte
+payments-list-header =
+    .label = Betalingsmåter
+payments-list-item-label = <strong>Betalingsmåter</strong>
+payments-remove-payment-prompt-title = Fjerne denne betalingsmåten?
+payments-remove-payment-prompt-confirm-button = Fjern
+payments-remove-payment-prompt-cancel-button = Avbryt
 autofill-addresses-title = Adresser og mer
 autofill-addresses-header =
     .aria-label = Adresser og mer
@@ -1169,6 +1203,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Behandle adresser og mer
     .accesskey = B
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
