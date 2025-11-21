@@ -1104,11 +1104,15 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Använd ett huvudlösenord
     .accesskey = A
+forms-primary-pw-set =
+    .label = Ange huvudlösenord
+forms-primary-pw-on =
+    .label = Huvudlösenord är PÅ
 forms-primary-pw-change-2 =
-    .label = Ändra primärt lösenord
+    .label = Ändra huvudlösenord
 # Label for button to disable primary password.
 forms-primary-pw-turn-off =
-    .label = Stäng av den
+    .label = Stäng av det
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Kräv enhetsinloggning för att fylla i och hantera lösenord
