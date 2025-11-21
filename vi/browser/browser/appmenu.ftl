@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Giá trị đặt trước để gỡ lỗi trong { -brand-shorter-name }. Tải thêm cao, không sử dụng cho công việc về hiệu suất mà sử dụng để tập trung vào việc tìm hiểu hành vi của trình duyệt.
 profiler-popup-presets-debug-label =
     .label = Gỡ lỗi
+profiler-popup-presets-web-compat-description = Giá trị đặt trước được đề xuất để gỡ lỗi các sự cố tương thích web, thay vì theo dõi hiệu suất.
+profiler-popup-presets-web-compat-label =
+    .label = Web Compat
 profiler-popup-presets-custom-label =
     .label = Tùy chỉnh
 
