@@ -1085,6 +1085,10 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = 使用主密码
     .accesskey = U
+forms-primary-pw-set =
+    .label = 设置主密码
+forms-primary-pw-change-2 =
+    .label = 更改主密码
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = 填写或管理密码前需验证设备登录信息
@@ -1150,6 +1154,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = 保存和自动填写付款信息
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = 管理付款方式
 autofill-payment-methods-manage-payments-button =
     .label = 管理付款方式
     .accesskey = m
@@ -1157,6 +1163,12 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = 自动填写和管理付款方式前需验证设备登录信息
     .accesskey = o
+autofill-payment-methods-add-button = 添加付款方式
+payments-list-header =
+    .label = 付款方式
+payments-list-item-label = <strong>付款方式</strong>
+payments-remove-payment-prompt-confirm-button = 移除
+payments-remove-payment-prompt-cancel-button = 取消
 autofill-addresses-title = 地址等信息
 autofill-addresses-header =
     .aria-label = 地址等信息
@@ -1166,6 +1178,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = 管理地址等信息
     .accesskey = M
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
