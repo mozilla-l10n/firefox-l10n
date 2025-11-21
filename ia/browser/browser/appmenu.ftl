@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Predefinir pro depuration in { -brand-shorter-name }. Alte supercarga, non usar pro analyses del prestationes, ma usar solo pro comprender le comportamento del navigator.
 profiler-popup-presets-debug-label =
     .label = Depurar
+profiler-popup-presets-web-compat-description = Pre-configuration recommendate pro depurar problemas de compatibilitate web in sitos web, plus tosto que traciar prestationes.
+profiler-popup-presets-web-compat-label =
+    .label = Compatibilitate web
 profiler-popup-presets-custom-label =
     .label = Personalisate
 

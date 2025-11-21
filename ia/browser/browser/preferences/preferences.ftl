@@ -1048,6 +1048,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Contrasignos
     .searchkeywords = credentiales
+forms-passwords-header =
+    .label = Contrasignos
+    .aria-label = Contrasignos
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Demandar si salvar contrasignos
@@ -1085,9 +1088,19 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Completar automaticamente le nomines de usator e le contrasignos
     .accesskey = C
+forms-fill-usernames-and-passwords-2 =
+    .label = Salvar e compilar automaticamente nomines de usatur e contrasignos
+    .accesskey = c
 forms-saved-passwords =
     .label = Contrasignos salvate
     .accesskey = s
+forms-saved-passwords-2 =
+    .label = Gerer contrasignos salvate
+    .accesskey = G
+forms-saved-passwords-searchkeywords = Le credentiales pro le sitos sequente es immagazinate in tu computator
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Protectiones additional
 forms-primary-pw-use =
     .label = Usar un contrasigno primari
     .accesskey = U
@@ -1156,6 +1169,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Salvar e compilar informationes de pagamento automaticamente
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Gerer methodos de pagamento
 autofill-payment-methods-manage-payments-button =
     .label = Gerer methodos de pagamento
     .accesskey = m
@@ -1163,8 +1178,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Requirer apertura de session sur le apparato pro completar automaticamente e gerer methodos de pagamento
     .accesskey = o
+autofill-payment-methods-add-button = Adder nove methodo de pagamento
 payments-list-header =
     .label = Methodos de pagamento
+payments-list-item-label = <strong>Methodos de pagamento</strong>
+payments-remove-payment-prompt-title = Remover iste methodo de pagamento?
+payments-remove-payment-prompt-confirm-button = Remover
+payments-remove-payment-prompt-cancel-button = Cancellar
 autofill-addresses-title = Adresses e plus
 autofill-addresses-header =
     .aria-label = Adresses e plus
@@ -1174,6 +1194,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gerer adresses e plus
     .accesskey = G
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 

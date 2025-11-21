@@ -344,6 +344,16 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Aperir gruppo in nove fenestra
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Adder nota
+    .accesskey = A
+tab-note-editor-title-create = Adder nota
+tab-note-editor-button-save =
+    .label = Salvar
+    .accesskey = S
+
 ## Split View
 
 # Split view tabs display their respective contents side by side

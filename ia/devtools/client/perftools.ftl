@@ -158,4 +158,5 @@ perftools-presets-power-label = Energia
 perftools-presets-power-description = Pre-configuration pro investigar errores in le uso del energia in { -brand-shorter-name }, con basse supercarga.
 perftools-presets-debug-label = Depurar
 perftools-presets-debug-description = Predefinir pro depuration in { -brand-shorter-name }. Alte supercarga, non usar pro analyses del prestationes, ma usar solo pro comprender le comportamento del navigator.
+perftools-presets-web-compat-label = Compatibilitate web
 perftools-presets-custom-label = Personalisate
