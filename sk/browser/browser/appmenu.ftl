@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Nastavenia pre ladenie vo { -brand-shorter-name(case: "loc") }. Vysoká réžia, nepoužívajte na výkonnú prácu, ale na pochopenie správania sa prehliadača.
 profiler-popup-presets-debug-label =
     .label = Ladenie
+profiler-popup-presets-web-compat-description = Odporúčaná predvoľba na ladenie problémov s webovou kompatibilitou na webových stránkach, a nie na sledovanie výkonu.
+profiler-popup-presets-web-compat-label =
+    .label = Webová kompatibilita
 profiler-popup-presets-custom-label =
     .label = Vlastné
 
