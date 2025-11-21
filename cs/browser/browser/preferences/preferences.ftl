@@ -871,6 +871,8 @@ home-prefs-support-firefox-header =
         }
 home-prefs-mission-message = Naši sponzoři podporují naši misi budovat lepší web.
 home-prefs-mission-message-learn-more-link = Zjistěte jak
+home-prefs-mission-message2 =
+    .message = Naši sponzoři podporují naši misi budovat lepší web.
 home-prefs-manage-topics-link = Správa témat
 home-prefs-choose-wallpaper-link = Zvolte si tapetu
 # Variables:
@@ -1185,6 +1187,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Hesla
     .searchkeywords = hesla
+forms-passwords-header =
+    .label = Hesla
+    .aria-label = Hesla
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Ptát se na ukládání hesel

@@ -240,6 +240,8 @@ profiler-popup-presets-debug-description =
     }
 profiler-popup-presets-debug-label =
     .label = Ladění
+profiler-popup-presets-web-compat-label =
+    .label = Webová kompatibilita
 profiler-popup-presets-custom-label =
     .label = Vlastní
 
