@@ -311,6 +311,23 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = 新建窗口打开群组
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = 添加备注
+    .accesskey = A
+tab-context-edit-note =
+    .label = 编辑备注
+    .accesskey = E
+tab-note-editor-title-create = 添加备注
+tab-note-editor-title-edit = 编辑备注
+tab-note-editor-button-cancel =
+    .label = 取消
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = 保存
+    .accesskey = S
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
