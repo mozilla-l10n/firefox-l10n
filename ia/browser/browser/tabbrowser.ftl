@@ -281,6 +281,14 @@ tab-context-move-tab-to-group =
            *[other] Adder schedas gruppo
         }
     .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Adder vista fisse a nove gruppo
+            [one] Adder vista fisse a nove gruppo
+           *[other] Adder vistas fisse a Nove Gruppo
+        }
+    .accesskey = A
 tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
@@ -362,6 +370,8 @@ tab-context-edit-note =
     .accesskey = R
 tab-note-editor-title-create = Adder nota
 tab-note-editor-title-edit = Rediger nota
+tab-note-editor-text-field =
+    .placeholder = Que vole tu memorar re iste scheda?
 tab-note-editor-button-cancel =
     .label = Cancellar
     .accesskey = C
