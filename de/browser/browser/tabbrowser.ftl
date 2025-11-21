@@ -345,6 +345,15 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Gruppe in neuem Fenster öffnen
 
+## Tab Notes
+
+tab-note-editor-button-cancel =
+    .label = Abbrechen
+    .accesskey = A
+tab-note-editor-button-save =
+    .label = Speichern
+    .accesskey = S
+
 ## Split View
 
 # Split view tabs display their respective contents side by side

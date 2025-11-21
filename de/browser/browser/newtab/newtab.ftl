@@ -676,6 +676,9 @@ newtab-widget-section-hide-all-button =
 newtab-widget-section-maximize =
     .title = Widgets ausklappen
     .aria-label = alle Widgets zur vollen Größe ausklappen
+newtab-widget-section-minimize =
+    .title = Widgets minimieren
+    .aria-label = Alle Widgets auf kompakte Größe reduzieren
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
