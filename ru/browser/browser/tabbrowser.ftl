@@ -309,6 +309,24 @@ tab-context-move-tab-to-group =
            *[many] Добавить вкладки в группу
         }
     .accesskey = п
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Добавить разделённый вид в новую группу
+            [one] Добавить разделённый вид в новую группу
+            [few] Добавить разделённые виды в новую группу
+           *[many] Добавить разделённые виды в новую группу
+        }
+    .accesskey = П
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Добавить разделённый вид в группу
+            [one] Добавить разделённый вид в группу
+            [few] Добавить разделённые виды в группу
+           *[many] Добавить разделённые виды в группу
+        }
+    .accesskey = П
 tab-context-move-tab-to-group-saved-groups =
     .label = Закрытые группы
 tab-group-editor-action-new-tab =

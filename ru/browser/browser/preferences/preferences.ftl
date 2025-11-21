@@ -1195,6 +1195,9 @@ autofill-payment-methods-add-button = Добавить новый способ �
 payments-list-header =
     .label = Способы оплаты
 payments-list-item-label = <strong>Способы оплаты</strong>
+payments-remove-payment-prompt-title = Удалить этот способ оплаты?
+payments-remove-payment-prompt-confirm-button = Удалить
+payments-remove-payment-prompt-cancel-button = Отмена
 autofill-addresses-title = Адреса и другое
 autofill-addresses-header =
     .aria-label = Адреса и другое
@@ -1204,6 +1207,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Управление адресами и другим
     .accesskey = Ь
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
