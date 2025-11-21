@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Spravovať rozšírenie
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = Rozšírenie { $extensionName } je obmedzené. Jeho používanie môže byť riskantné.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } porušuje pravidlá Mozilly. Jeho používanie môže byť riskantné.
 
 ## Extension's context menu
@@ -62,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Ďalšie informácie
 unified-extensions-mb-about-addons-link = Prejsť na nastavenia rozšírenia
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = Rozšírenie { $extensionName } je zakázané
+    .message =
+        Toto rozšírenie je obmedzené a bolo zakázané.
+        Môžete ho povoliť v nastaveniach, ale môže to byť riskantné.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } je zakázané
     .message =
@@ -72,6 +82,19 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } je zakázané
     .message = Toto rozšírenie porušuje pravidlá Mozilly a bolo zakázané.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } rozšírenie je zakázané
+            [few] { $extensionsCount } rozšírenia sú zakázané
+            [many] { $extensionsCount } rozšírení je zakázaných
+           *[other] { $extensionsCount } rozšírení je zakázaných
+        }
+    .message =
+        Niektoré z vašich rozšírení sú obmedzené a boli deaktivované.
+        Môžete ich povoliť v nastaveniach, ale môže to byť riskantné.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =

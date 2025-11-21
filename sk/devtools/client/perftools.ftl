@@ -155,4 +155,6 @@ perftools-presets-power-label = Napájanie
 perftools-presets-power-description = Predvoľba pre diagnostiku chýb zvyšujúcich spotrebu energie prehliadača { -brand-shorter-name }, s nízkou réžiou
 perftools-presets-debug-label = Ladenie
 perftools-presets-debug-description = Nastavenia pre ladenie vo { -brand-shorter-name(case: "loc") }. Vysoká réžia, nepoužívajte na výkonnú prácu, ale na pochopenie správania sa prehliadača.
+perftools-presets-web-compat-label = Webová kompatibilita
+perftools-presets-web-compat-description = Odporúčaná predvoľba na ladenie problémov s webovou kompatibilitou na webových stránkach, a nie na sledovanie výkonu.
 perftools-presets-custom-label = Vlastné

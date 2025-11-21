@@ -311,6 +311,26 @@ tab-context-move-tab-to-group =
            *[other] Pridať karty do skupiny
         }
     .accesskey = r
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Pridať rozdelené zobrazenie do novej skupiny
+            [one] Pridať rozdelené zobrazenia do novej skupiny
+            [few] Pridať rozdelené zobrazenia do novej skupiny
+            [many] Pridať rozdelené zobrazenia do novej skupiny
+           *[other] Pridať rozdelené zobrazenia do novej skupiny
+        }
+    .accesskey = r
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Pridať rozdelené zobrazenie do skupiny
+            [one] Pridať rozdelené zobrazenia do skupiny
+            [few] Pridať rozdelené zobrazenia do skupiny
+            [many] Pridať rozdelené zobrazenia do skupiny
+           *[other] Pridať rozdelené zobrazenia do skupiny
+        }
+    .accesskey = r
 tab-context-move-tab-to-group-saved-groups =
     .label = Zatvorené skupiny
 tab-group-editor-action-new-tab =
@@ -421,5 +441,8 @@ tab-context-badge-new = Nové
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
     .label = Oddeliť karty
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Otočiť karty
 split-view-menuitem-close-both-tabs =
     .label = Zavrieť obe karty
