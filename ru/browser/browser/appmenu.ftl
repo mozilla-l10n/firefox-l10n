@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Предустановка для отладки в { -brand-shorter-name }. Большие накладные расходы, не используйте для работы с производительностью, а используйте для понимания поведения браузера.
 profiler-popup-presets-debug-label =
     .label = Отладка
+profiler-popup-presets-web-compat-description = Рекомендуемые преднастройки для отладки проблем веб-совместимости на веб-сайтах, а не для отслеживания производительности.
+profiler-popup-presets-web-compat-label =
+    .label = Веб-совместимость
 profiler-popup-presets-custom-label =
     .label = Персональный
 
