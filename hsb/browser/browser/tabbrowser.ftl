@@ -321,6 +321,26 @@ tab-context-move-tab-to-group =
            *[other] Skupinje { $tabCount } rajtarkow přidać
         }
     .accesskey = S
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Nowej skupinje rozdźěleny napohlad přidać
+            [one] Nowej skupinje rozdźěleny napohlad přidać
+            [two] Nowej skupinje rozdźělenej napohladaj přidać
+            [few] Nowej skupinje rozdźělene napohlady přidać
+           *[other] Nowej skupinje rozdźělene napohlady přidać
+        }
+    .accesskey = s
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Skupinje rozdźěleny napohlad přidać
+            [one] Skupinje rozdźěleny napohlad přidać
+            [two] Skupinje rozdźělenej napohladaj přidać
+            [few] Skupinje rozdźělene napohlady přidać
+           *[other] Skupinje rozdźělene napohlady přidać
+        }
+    .accesskey = S
 tab-context-move-tab-to-group-saved-groups =
     .label = Začinjene skupiny
 tab-group-editor-action-new-tab =
@@ -387,6 +407,17 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Skupinu w nowym woknje wočinić
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = Přispomnjenku přidać
+    .accesskey = P
+tab-context-edit-note =
+    .label = Přispomnjenku wobdźěłać
+    .accesskey = b
+tab-note-editor-title-create = Přispomnjenku přidać
+tab-note-editor-title-edit = Přispomnjenku wobdźěłać
 
 ## Split View
 

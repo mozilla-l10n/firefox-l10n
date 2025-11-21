@@ -1118,6 +1118,9 @@ forms-primary-pw-on =
     .label = Hłowne hesło je ZMÓŽNJENE
 forms-primary-pw-change-2 =
     .label = Hłowne hesło změnić
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Znjemóžnić
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Gratowe přizjewjenje za wupjelnjenje a rjadowanje hesłow žadać
@@ -1183,6 +1186,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Płaćenske informacije składować a wupjelnić
     .accesskey = P
+autofill-payment-methods-manage-payments-title =
+    .heading = Płaćenske metody rjadować
 autofill-payment-methods-manage-payments-button =
     .label = Płaćenske metody rjadować
     .accesskey = m
@@ -1190,6 +1195,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Gratowe přizjewjenje za awtomatiske wupjelnjenje a rjadowanje płaćenskich metodow požadać
     .accesskey = G
+autofill-payment-methods-add-button = Nowu płaćensku metodu přidać
+payments-list-header =
+    .label = Płaćenske metody
+payments-list-item-label = <strong>Płaćenske metody</strong>
+payments-remove-payment-prompt-title = Tutu płaćensku metodu wotstronić?
+payments-remove-payment-prompt-confirm-button = Wotstronić
+payments-remove-payment-prompt-cancel-button = Přetorhnyć
 autofill-addresses-title = Adresy a wjace
 autofill-addresses-header =
     .aria-label = Adresy a wjace
@@ -1199,6 +1211,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adresy a wjace rjadować
     .accesskey = r
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
