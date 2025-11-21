@@ -378,6 +378,25 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Otvoriť skupinu v novom okne
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Pridať poznámku
+    .accesskey = P
+tab-context-edit-note =
+    .label = Upraviť poznámku
+    .accesskey = U
+tab-note-editor-title-create = Pridať poznámku
+tab-note-editor-title-edit = Upraviť poznámku
+tab-note-editor-text-field =
+    .placeholder = Čo si chcete zapamätať o tejto karte?
+tab-note-editor-button-cancel =
+    .label = Zrušiť
+    .accesskey = Z
+tab-note-editor-button-save =
+    .label = Uložiť
+    .accesskey = U
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -396,3 +415,11 @@ tab-context-separate-split-view =
     .label = Samostatné rozdelené zobrazenie
     .accesskey = S
 tab-context-badge-new = Nové
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Oddeliť karty
+split-view-menuitem-close-both-tabs =
+    .label = Zavrieť obe karty
