@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Forhåndsinnstilt for feilsøking i { -brand-shorter-name }. Høy overhead, ikke bruk for ytelsesarbeid, men bruk for å fokusere på å forstå nettleserens atferd.
 profiler-popup-presets-debug-label =
     .label = Feilsøk
+profiler-popup-presets-web-compat-description = Anbefalt forhåndsinnstilling for feilsøking av problemer med nettkompatibilitet på nettsteder, i stedet for å spore ytelse.
+profiler-popup-presets-web-compat-label =
+    .label = Webbkompatibilitet
 profiler-popup-presets-custom-label =
     .label = Tilpasset
 
