@@ -668,6 +668,13 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Tysýi pyahu
 newtab-widget-section-title = Widgets
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = Eñomi widgets
+    .aria-label = Eñomimbaite widgets
+newtab-widget-section-maximize =
+    .title = Emyasãi widgets
+    .aria-label = Emyasãimbaite widgets tuichaháicha
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
