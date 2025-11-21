@@ -281,6 +281,13 @@ tab-context-move-tab-to-group =
            *[other] Lägg till flikar i grupp
         }
     .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Lägg till delad vy till ny grupp
+           *[other] Lägg till delade vyer till ny grupp
+        }
+    .accesskey = L
 tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
