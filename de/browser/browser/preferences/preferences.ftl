@@ -1048,6 +1048,9 @@ forms-passwords-header =
 forms-ask-to-save-passwords =
     .label = Fragen, ob Passwörter gespeichert werden sollen
     .accesskey = F
+forms-manage-password-exceptions =
+    .label = Ausnahmen für Passwörter verwalten
+    .accesskey = v
 forms-exceptions =
     .label = Ausnahmen…
     .accesskey = u
@@ -1100,6 +1103,9 @@ forms-primary-pw-on =
     .label = Hauptpasswort ist AN
 forms-primary-pw-change-2 =
     .label = Hauptpasswort ändern
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Deaktivieren
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Anmeldung am Gerät zum Ausfüllen und Verwalten von Passwörtern verlangen
@@ -1572,6 +1578,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blockieren Sie Pop-ups und Drittanbieter-Weiterleitungen
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Ausnahmen für Pop-ups und Drittanbieter-Weiterleitungen verwalten
+    .accesskey = P
+    .searchkeywords = Popup Popups
 permissions-addon-install-warning2 =
     .label = Warnen, wenn Websites versuchen, Erweiterungen zu installieren
     .accesskey = W

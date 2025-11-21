@@ -213,6 +213,8 @@ profiler-popup-presets-debug-description = Voreinstellung für das Debuggen in {
 profiler-popup-presets-debug-label =
     .label = Debuggen
 profiler-popup-presets-web-compat-description = Empfohlene Voreinstellung für das Debuggen von Web-Kompatibilitätsproblemen in Websites, anstatt die Leistung zu verfolgen.
+profiler-popup-presets-web-compat-label =
+    .label = Web Compat
 profiler-popup-presets-custom-label =
     .label = Benutzerdefiniert
 
