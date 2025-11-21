@@ -281,6 +281,14 @@ tab-context-move-tab-to-group =
            *[other] Adder schedas gruppo
         }
     .accesskey = g
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Adder vista fisse a gruppo
+            [one] Adder vista fisse a gruppo
+           *[other] Adder vistas fisse a gruppo
+        }
+    .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
     .label = Gruppos claudite
 tab-group-editor-action-new-tab =
@@ -349,7 +357,14 @@ tab-group-context-open-saved-group-in-new-window =
 tab-context-add-note =
     .label = Adder nota
     .accesskey = A
+tab-context-edit-note =
+    .label = Rediger nota
+    .accesskey = R
 tab-note-editor-title-create = Adder nota
+tab-note-editor-title-edit = Rediger nota
+tab-note-editor-button-cancel =
+    .label = Cancellar
+    .accesskey = C
 tab-note-editor-button-save =
     .label = Salvar
     .accesskey = S

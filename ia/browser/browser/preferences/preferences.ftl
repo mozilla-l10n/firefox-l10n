@@ -1104,6 +1104,15 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Usar un contrasigno primari
     .accesskey = U
+forms-primary-pw-set =
+    .label = Predefinir contrasigno primari
+forms-primary-pw-on =
+    .label = Le contrasigno primari es ACTIVE
+forms-primary-pw-change-2 =
+    .label = Cambiar contrasigno primari
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Disactivar lo
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Requirer apertura de session sur le apparato pro completar e gerer contrasignos

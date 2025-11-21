@@ -669,6 +669,12 @@ newtab-widget-section-title = Widgets
 newtab-widget-section-hide-all-button =
     .title = Celar widgets
     .aria-label = Celar tote le widgets
+newtab-widget-section-maximize =
+    .title = Expander widgets
+    .aria-label = Expander tote le widgets a dimension real
+newtab-widget-section-minimize =
+    .title = Minimisar widgets
+    .aria-label = Collaber tote le widgets a dimension compacte
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
