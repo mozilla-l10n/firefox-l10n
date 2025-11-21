@@ -284,9 +284,8 @@ tab-context-move-tab-to-group =
 tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
-            [1] Lägg till delad vy till gruppen
-            [one] Lägg till delade vyer till gruppen
-           *[other] Lägg till delade vyer till gruppen
+            [1] Lägg till delad vy till grupp
+           *[other] Lägg till delade vyer i gruppen
         }
     .accesskey = L
 tab-context-move-tab-to-group-saved-groups =
@@ -362,7 +361,7 @@ tab-context-edit-note =
 tab-note-editor-title-create = Lägg till anteckning
 tab-note-editor-title-edit = Redigera anteckning
 tab-note-editor-text-field =
-    .placeholder = Vad vill du komma ihåg med den här fliken?
+    .placeholder = Vad vill du komma ihåg om den här fliken?
 tab-note-editor-button-cancel =
     .label = Avbryt
     .accesskey = A
