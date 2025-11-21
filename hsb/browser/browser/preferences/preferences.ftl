@@ -1056,10 +1056,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Hesła
     .searchkeywords = přizjewjenja
+forms-passwords-header =
+    .label = Hesła
+    .aria-label = Hesła
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Prašeć so, hač so maja hesła składować
     .accesskey = P
+forms-manage-password-exceptions =
+    .label = Hesłowe wuwzaća rjadować
+    .accesskey = H
 forms-exceptions =
     .label = Wuwzaća…
     .accesskey = u
@@ -1090,12 +1096,28 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Wužiwarske mjena a hesła awtomatisce wupjelnić
     .accesskey = u
+forms-fill-usernames-and-passwords-2 =
+    .label = Wužiwarske mjena a hesła składować a awtomatisce wupjelnić
+    .accesskey = u
 forms-saved-passwords =
     .label = Składowane hesła
     .accesskey = S
+forms-saved-passwords-2 =
+    .label = Składowane hesła rjadować
+    .accesskey = k
+forms-saved-passwords-searchkeywords = Přizjewjenja za slědowace sydła so na wašim ličaku składuja
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Přidatny škit
 forms-primary-pw-use =
     .label = Hłowne hesło wužiwać
     .accesskey = H
+forms-primary-pw-set =
+    .label = Hłowne hesło nastajić
+forms-primary-pw-on =
+    .label = Hłowne hesło je ZMÓŽNJENE
+forms-primary-pw-change-2 =
+    .label = Hłowne hesło změnić
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Gratowe přizjewjenje za wupjelnjenje a rjadowanje hesłow žadać

@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Přednastajenje za pytanje zmylkow w { -brand-shorter-name }. Wysoka přidatna ćeža, njewužiwajće jo za wukonowe dźěło, ale wužiwajće jo, zo byšće so na rozumjenje zadźerženja wobhladowaka fokusěrował.
 profiler-popup-presets-debug-label =
     .label = Za zmylkami pytać
+profiler-popup-presets-web-compat-description = Doporučene přednastajenje za pytanje problemow z webkompatibelnosću we websydłach, město zo so wukonej slěduje.
+profiler-popup-presets-web-compat-label =
+    .label = Webkompatibelnosć
 profiler-popup-presets-custom-label =
     .label = Swójski
 
