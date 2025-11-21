@@ -720,6 +720,8 @@ home-prefs-weather-header =
     .label = Arapytu
 home-prefs-weather-description = Ehecha arapytu reko ko ára rehegua
 home-prefs-weather-learn-more-link = Eikuaave
+home-prefs-widgets-header =
+    .label = Widgets
 home-prefs-trending-search-header =
     .label = Jeheka ojejapovéva
 home-prefs-trending-search-description = Umi téma ojeguerohory ha ojehekavéva
@@ -734,6 +736,8 @@ home-prefs-support-firefox-header =
     .label = Eipytyvõ { -brand-product-name }
 home-prefs-mission-message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue
 home-prefs-mission-message-learn-more-link = Eikuaa mba’éichapa
+home-prefs-mission-message2 =
+    .message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue.
 home-prefs-manage-topics-link = Eñangareko témare
 home-prefs-choose-wallpaper-link = Eiporavo mba’erechaha rugua
 # Variables:
@@ -1043,10 +1047,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Ñe’ẽñemi
     .searchkeywords = eñepyrũ tembiapo
+forms-passwords-header =
+    .label = Ñe’ẽñemieta
+    .aria-label = Ñe’ẽñemieta
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Ejerure ñe’ẽñemi ñongatu
     .accesskey = A
+forms-manage-password-exceptions =
+    .label = Eñangareko ñe’ẽñemi ykepegua
+    .accesskey = M
 forms-exceptions =
     .label = Oĩ’ỹva…
     .accesskey = x

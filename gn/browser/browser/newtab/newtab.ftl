@@ -675,6 +675,9 @@ newtab-widget-section-hide-all-button =
 newtab-widget-section-maximize =
     .title = Emyasãi widgets
     .aria-label = Emyasãimbaite widgets tuichaháicha
+newtab-widget-section-minimize =
+    .title = Emomichĩ widgets
+    .aria-label = Emomichĩmbaite widgets tuichaháicha
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
