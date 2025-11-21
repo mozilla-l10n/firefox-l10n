@@ -218,4 +218,4 @@ sidebar-widget-hide-sidebar2 =
 # Promotional message displayed in the expanded sidebar state for Vertical Tabs
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
-sidebar-pins-promo-text = Trageți filele importante aici pentru a le păstra la îndemână
+sidebar-pins-promo-text = Trage filele importante aici ca să le ai la îndemână
