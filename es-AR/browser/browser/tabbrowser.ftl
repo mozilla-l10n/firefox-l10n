@@ -283,6 +283,22 @@ tab-context-move-tab-to-group =
            *[other] Agregar pestañas a ungrupo
         }
     .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Agregar vista dividida a un nuevo grupo
+            [one] Agregar vista dividida a un nuevo grupo
+           *[other] Agregar vistas divididas a un nuevo grupo
+        }
+    .accesskey = g
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Agregar vista dividida al grupo
+            [one] Agregar vista dividida al grupo
+           *[other] Agregar vistas divididas al grupo
+        }
+    .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
     .label = Grupos cerrados
 tab-group-editor-action-new-tab =
