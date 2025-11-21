@@ -1104,10 +1104,6 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Använd ett huvudlösenord
     .accesskey = A
-forms-primary-pw-set =
-    .label = Ange primärt lösenord
-forms-primary-pw-on =
-    .label = Huvudlösenordet är PÅ
 forms-primary-pw-change-2 =
     .label = Ändra primärt lösenord
 # Label for button to disable primary password.
