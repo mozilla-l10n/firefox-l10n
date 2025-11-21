@@ -329,3 +329,12 @@ tab-context-separate-split-view =
     .label = 解除分屏
     .accesskey = t
 tab-context-badge-new = 新
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = 分离标签页
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = 对调标签页
