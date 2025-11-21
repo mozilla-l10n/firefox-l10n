@@ -1039,10 +1039,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = 密码
     .searchkeywords = 登录信息
+forms-passwords-header =
+    .label = 密码
+    .aria-label = 密码
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = 询问是否保存密码
     .accesskey = A
+forms-manage-password-exceptions =
+    .label = 管理密码例外
+    .accesskey = M
 forms-exceptions =
     .label = 例外…
     .accesskey = x
