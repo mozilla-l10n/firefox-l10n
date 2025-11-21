@@ -1194,6 +1194,9 @@ forms-passwords-header =
 forms-ask-to-save-passwords =
     .label = Ptát se na ukládání hesel
     .accesskey = P
+forms-manage-password-exceptions =
+    .label = Spravovat výjimky pro hesla
+    .accesskey = m
 forms-exceptions =
     .label = Výjimky…
     .accesskey = k
@@ -1302,6 +1305,8 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = K automatickému vyplnění a správě platebních metod vyžadovat přihlášení se na zařízení
     .accesskey = v
+payments-remove-payment-prompt-confirm-button = Odebrat
+payments-remove-payment-prompt-cancel-button = Zrušit
 autofill-addresses-title = Adresy a další
 autofill-addresses-header =
     .aria-label = Adresy a další
@@ -1311,6 +1316,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Spravovat adresy a další
     .accesskey = S
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1744,6 +1757,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Reproduktor
 permissions-notification2 =
     .label = Oznámení
 
