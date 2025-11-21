@@ -418,6 +418,14 @@ tab-context-edit-note =
     .accesskey = b
 tab-note-editor-title-create = Přispomnjenku přidać
 tab-note-editor-title-edit = Přispomnjenku wobdźěłać
+tab-note-editor-text-field =
+    .placeholder = Što chceće sej wo tutym rajtarku spomjatkować?
+tab-note-editor-button-cancel =
+    .label = Přetorhnyć
+    .accesskey = P
+tab-note-editor-button-save =
+    .label = Składować
+    .accesskey = S
 
 ## Split View
 
