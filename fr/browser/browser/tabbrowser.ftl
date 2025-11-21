@@ -283,7 +283,6 @@ tab-context-move-split-view-to-new-group =
     .label =
         { $splitViewCount ->
             [1] Ajouter la vue scindée à un nouveau groupe
-            [one] Ajouter les vues scindées à un nouveau groupe
            *[other] Ajouter les vues scindées à un nouveau groupe
         }
     .accesskey = A
@@ -291,7 +290,6 @@ tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
             [1] Ajouter la vue scindée au groupe
-            [one] Ajouter les vues scindées au groupe
            *[other] Ajouter les vues scindées au groupe
         }
     .accesskey = A
@@ -360,12 +358,6 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
-tab-context-add-note =
-    .label = Ajouter une note
-    .accesskey = A
-tab-context-edit-note =
-    .label = Modifier la note
-    .accesskey = M
 tab-note-editor-title-create = Ajouter une note
 tab-note-editor-title-edit = Modifier la note
 tab-note-editor-text-field =
