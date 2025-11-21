@@ -392,6 +392,25 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Открыть группу в новом окне
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Добавить примечание
+    .accesskey = Ф
+tab-context-edit-note =
+    .label = Изменить примечание
+    .accesskey = У
+tab-note-editor-title-create = Добавить примечание
+tab-note-editor-title-edit = Изменить примечание
+tab-note-editor-text-field =
+    .placeholder = Что вы хотите помнить об этой вкладке?
+tab-note-editor-button-cancel =
+    .label = Отмена
+    .accesskey = С
+tab-note-editor-button-save =
+    .label = Сохранить
+    .accesskey = Ы
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
