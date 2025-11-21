@@ -331,7 +331,7 @@ tab-group-context-open-saved-group-in-new-window =
 
 tab-context-add-note =
     .label = 메모 추가
-    .accesskey = { "" }
+    .accesskey = A
 tab-context-edit-note =
     .label = 메모 편집
     .accesskey = E
