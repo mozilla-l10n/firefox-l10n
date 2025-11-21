@@ -158,4 +158,6 @@ perftools-presets-power-label = Energía
 perftools-presets-power-description = Preestablecido para investigar errores de uso de energía en { -brand-shorter-name }, con poco consumo.
 perftools-presets-debug-label = Depurar
 perftools-presets-debug-description = Preestablecido para depuración en { -brand-shorter-name } Alta sobrecarga, no la use para mejorar el rendimiento sino para enfocarse en comprender el comportamiento del navegador.
+perftools-presets-web-compat-label = Compatibilidad web
+perftools-presets-web-compat-description = Ajuste preestablecido recomendado para depurar problemas de compatibilidad web en sitios, en lugar de rastrear el rendimiento.
 perftools-presets-custom-label = Personalizado
