@@ -255,6 +255,20 @@ tab-context-move-tab-to-group =
            *[other] Thêm các thẻ vào nhóm
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Chuyển chế độ chia cửa sổ sang nhóm mới
+           *[other] Chuyển chế độ chia cửa sổ sang nhóm mới
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Chuyển chế độ chia cửa sổ sang nhóm
+           *[other] Chuyển chế độ chia cửa sổ sang nhóm
+        }
+    .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = Nhóm đã đóng
 tab-group-editor-action-new-tab =
@@ -313,6 +327,25 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Mở nhóm trong cửa sổ mới
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Thêm ghi chú
+    .accesskey = A
+tab-context-edit-note =
+    .label = Chỉnh sửa ghi chú
+    .accesskey = E
+tab-note-editor-title-create = Thêm ghi chú
+tab-note-editor-title-edit = Chỉnh sửa ghi chú
+tab-note-editor-text-field =
+    .placeholder = Bạn muốn để lại điều gì về thẻ này?
+tab-note-editor-button-cancel =
+    .label = Huỷ bỏ
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = Lưu
+    .accesskey = S
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -331,3 +364,14 @@ tab-context-separate-split-view =
     .label = Tách các thẻ
     .accesskey = t
 tab-context-badge-new = Mới
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Tách các thẻ
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Đổi chỗ thẻ
+split-view-menuitem-close-both-tabs =
+    .label = Đóng cả hai thẻ

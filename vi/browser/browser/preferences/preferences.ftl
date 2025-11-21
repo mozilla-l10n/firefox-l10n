@@ -60,6 +60,7 @@ pane-experimental-description2 = Thay đổi cài đặt cấu hình nâng cao c
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Hãy thử các tính năng thử nghiệm của chúng tôi! Chúng đang được phát triển và cải tiến, điều này có thể ảnh hưởng đến cách thức hoạt động của { -brand-short-name }. Chúng tôi chỉ nhận dữ liệu về việc bạn sử dụng các tính năng này nếu bạn đã bật thu thập <a data-l10n-name="data-collection">dữ liệu kỹ thuật và tương tác</a>.
 pane-experimental-description3 = Hãy dùng thử các tính năng thử nghiệm của chúng tôi! Chúng đang trong quá trình phát triển, điều này có thể ảnh hưởng đến cách { -brand-short-name } hoạt động.
 pane-experimental-reset =
     .label = Khôi phục về mặc định
@@ -708,6 +709,8 @@ home-prefs-weather-header =
     .label = Thời tiết
 home-prefs-weather-description = Sơ lược về dự báo hôm nay
 home-prefs-weather-learn-more-link = Tìm hiểu thêm
+home-prefs-widgets-header =
+    .label = Widget
 home-prefs-trending-search-header =
     .label = Tìm kiếm thịnh hành
 home-prefs-trending-search-description = Các chủ đề phổ biến và được tìm kiếm thường xuyên
@@ -722,6 +725,8 @@ home-prefs-support-firefox-header =
     .label = Hỗ trợ cho { -brand-product-name }
 home-prefs-mission-message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn
 home-prefs-mission-message-learn-more-link = Tìm hiểu cách thức
+home-prefs-mission-message2 =
+    .message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn.
 home-prefs-manage-topics-link = Quản lý chủ đề
 home-prefs-choose-wallpaper-link = Chọn một hình nền
 # Variables:
@@ -1027,10 +1032,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Mật khẩu
     .searchkeywords = đăng nhập
+forms-passwords-header =
+    .label = Mật khẩu
+    .aria-label = Mật khẩu
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Hỏi để lưu mật khẩu
     .accesskey = A
+forms-manage-password-exceptions =
+    .label = Quản lý ngoại lệ mật khẩu
+    .accesskey = M
 forms-exceptions =
     .label = Ngoại lệ…
     .accesskey = x
@@ -1061,12 +1072,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Tự động điền tên người dùng và mật khẩu
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = Lưu và tự động điền tên người dùng và mật khẩu
+    .accesskey = f
 forms-saved-passwords =
     .label = Mật khẩu đã lưu
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Quản lý mật khẩu đã lưu
+    .accesskey = d
+forms-saved-passwords-searchkeywords = Đăng nhập để các trang web sau đây được lưu trữ trên máy tính của bạn
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Các biện pháp bảo vệ bổ sung
 forms-primary-pw-use =
     .label = Sử dụng mật khẩu chính
     .accesskey = U
+forms-primary-pw-set =
+    .label = Đặt mật khẩu chính
+forms-primary-pw-on =
+    .label = Đã BẬT mật khẩu chính
+forms-primary-pw-change-2 =
+    .label = Thay đổi mật khẩu chính
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Tắt nó
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Yêu cầu thiết bị đăng nhập để điền và quản lý mật khẩu
@@ -1132,6 +1162,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Lưu và tự động điền thông tin thanh toán
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Quản lý phương thức thanh toán
 autofill-payment-methods-manage-payments-button =
     .label = Quản lý phương thức thanh toán
     .accesskey = m
@@ -1139,6 +1171,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Yêu cầu đăng nhập thiết bị để tự động điền và quản lý phương thức thanh toán
     .accesskey = o
+autofill-payment-methods-add-button = Thêm phương thức thanh toán mới
+payments-list-header =
+    .label = Phương thức thanh toán
+payments-list-item-label = <strong>Phương thức thanh toán</strong>
+payments-remove-payment-prompt-title = Xoá phương thức thanh toán này?
+payments-remove-payment-prompt-confirm-button = Xóa
+payments-remove-payment-prompt-cancel-button = Hủy bỏ
 autofill-addresses-title = Địa chỉ và nhiều hơn nữa
 autofill-addresses-header =
     .aria-label = Địa chỉ và nhiều hơn nữa
@@ -1148,6 +1187,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Quản lý địa chỉ và nhiều hơn nữa
     .accesskey = M
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1522,6 +1569,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Chặn cửa sổ bật lên và chuyển hướng của bên thứ ba
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Quản lý ngoại lệ cửa sổ bật lên và chuyển hướng của bên thứ ba
+    .accesskey = E
+    .searchkeywords = cửa sổ bật lên
+permissions-addon-install-warning2 =
+    .label = Cảnh báo khi các trang web cố gắng cài đặt tiện ích mở rộng
+    .accesskey = W
+permissions-addon-exceptions2 =
+    .label = Chọn trang web nào có thể cài đặt tiện ích mở rộng
+    .accesskey = E
 permissions-block-popups =
     .label = Chặn các cửa sổ bật lên
     .accesskey = B
@@ -1537,6 +1596,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ngoại lệ…
     .accesskey = E
+permissions-header2 =
+    .label = Quyền hạn
+    .description = Quyền bạn cấp cho các trang web bạn duyệt.
 permissions-location2 =
     .label = Vị trí
 permissions-localhost2 =
@@ -1549,6 +1611,9 @@ permissions-camera2 =
     .label = Máy ảnh
 permissions-microphone2 =
     .label = Micrô
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Loa
 permissions-notification2 =
     .label = Thông báo
 

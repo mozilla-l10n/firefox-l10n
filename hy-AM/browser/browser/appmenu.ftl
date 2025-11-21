@@ -281,6 +281,10 @@ appmenuitem-relay-description = Քողարկեք ձեր իրական էլ. փո�
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }-ով
 appmenuitem-vpn-description = Պաշտպանեք ձեր առցանց գործունեությունը
 appmenu-services-header = Իմ ծառայությունները
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Փորձեք այլ պաշտպանության գործիքներ Mozilla-ից՝
 appmenu-other-protection-header = Փորձեք պաշտպանության այլ գործիքներ { -vendor-short-name }-ից.
 
 ## Profiles panel
