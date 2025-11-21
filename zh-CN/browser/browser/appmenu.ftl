@@ -212,6 +212,8 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = 在 { -brand-shorter-name } 中调试时使用。开销较高，请勿用于性能用途，仅应用于了解浏览器行为。
 profiler-popup-presets-debug-label =
     .label = 调试
+profiler-popup-presets-web-compat-label =
+    .label = Web Compat
 profiler-popup-presets-custom-label =
     .label = 自定义
 

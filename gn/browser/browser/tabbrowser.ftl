@@ -357,6 +357,14 @@ tab-context-edit-note =
     .accesskey = E
 tab-note-editor-title-create = Embojuaju haipy
 tab-note-editor-title-edit = Embosako’i haipy
+tab-note-editor-text-field =
+    .placeholder = ¿Mba’épa nemandu’ase ko tendayke rehegua?
+tab-note-editor-button-cancel =
+    .label = Heja
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = Ñongatu
+    .accesskey = S
 
 ## Split View
 
@@ -382,3 +390,8 @@ tab-context-badge-new = Pyahu
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
     .label = Emomombyry tendayke
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Embojevy Tendayke
+split-view-menuitem-close-both-tabs =
+    .label = Emboty mokõive tendayke
