@@ -220,6 +220,15 @@ backup-file-how-to-restore-header = Nola berreskuratu:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Ireki aplikazioaren menua ☰ eta joan Ezarpenak > Sinkronizazioa aukerara
+backup-file-moz-browser-restore-step-2 = Egin klik "Aukeratu babeskopia-fitxategia" aukeran eta hautatu fitxategi hau
+backup-file-moz-browser-restore-step-3 = Berrabiarazi { -brand-short-name } gonbita jasotzean
+backup-file-other-browser-restore-step-1 = Deskargatu eta instalatu { -brand-short-name }
+backup-file-download-moz-browser-button = Deskargatu
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Abiarazi { -brand-short-name }, ireki aplikazioaren menua ☰ eta joan Ezarpenak > Sinkronizazioa atalera
+backup-file-other-browser-restore-step-3 = Egin klik "Aukeratu babeskopia-fitxategia" aukeran eta hautatu fitxategi hau
+backup-file-other-browser-restore-step-4 = Berrabiarazi { -brand-short-name } gonbita jasotzean
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup

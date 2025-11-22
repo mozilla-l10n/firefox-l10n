@@ -139,6 +139,15 @@ contextual-manager-passwords-update-password-success-heading =
 contextual-manager-passwords-update-password-success-button = Eginda
 contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Erabiltzaile-izena gordeta
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Pasahitza kenduta
+            [one] Pasahitza kenduta
+           *[other] Pasahitzak kenduta
+        }
 contextual-manager-passwords-delete-password-success-button = Eginda
 #
 # Radiobutton label to display total number of passwords
@@ -163,10 +172,15 @@ contextual-manager-passwords-alert-back-button =
     .label = Atzera
 contextual-manager-passwords-alert-list =
     .aria-label = Alerten zerrenda
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Pasahitza aldatzea gomendatzen da
+    .message = Webgune honetako pasahitzak galdu edo jakitera eman dira. Aldatu pasahitza zure kontua babesteko.
+contextual-manager-passwords-breached-origin-link-message = Nola daki { -brand-product-name }(e)k datu-urratze hauei buruz?
 contextual-manager-passwords-change-password-button = Aldatu pasahitza
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Pasahitza aldatzea gomendatzen da
     .message = Pasahitz hau asmatzen erraza da. Alda ezazu pasahitza zure kontua babesteko.
+contextual-manager-passwords-vulnerable-password-link-message = Nola daki { -brand-product-name }(e)k pasahitz ahulei buruz?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Gehitu erabiltzaile-izen bat
     .message = Gehitu saioa azkarrago hasteko.
@@ -235,6 +249,15 @@ contextual-manager-view-alert-button =
     .tooltiptext = Berrikusi alerta
 # Variables
 #   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Ikusi alerta
+            [one] Ikusi alerta
+           *[other] Ikusi alertak
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-button-2 =
     .tooltiptext =
         { $count ->
@@ -251,13 +274,18 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ez da pasahitzik aurkitu
+contextual-manager-passwords-no-passwords-found-message-2 = Saiatu bestelako termino batekin eta bilatu berriro.
 contextual-manager-passwords-no-passwords-found-message = Ez da pasahitzik aurkitu. Bilatu beste terminoren bat eta saiatu berriro.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Gorde zure pasahitzak toki seguru batean.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Gehitu eskuz
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Gorde zure pasahitzak toki seguru batean
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -267,6 +295,15 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Zure aldaketak ez dira gordeko.
 contextual-manager-passwords-discard-changes-close-button = Itxi
 contextual-manager-passwords-discard-changes-go-back-button = Joan atzera
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Bai, kendu pasahitza
+        [one] Bai, kendu pasahitzak
+       *[other] Bai, kendu pasahitzak
+    }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Gordetako zure pasahitzak ikusteko, idatzi zure pasahitz nagusia.
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Idatzi pasahitz nagusia
 contextual-manager-primary-password-learn-more-link = Argibide gehiago
