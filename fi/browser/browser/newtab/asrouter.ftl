@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Varmuuskopioidaan tallennetut osoitteesi
 fxa-adoption-addresses-backup-subtitle = Suojaa tallennetut osoitteesi synkronoimalla ne laitteillesi salattuna.
 fxa-adoption-credit-cards-backup-title = Varmuuskopioidaan maksutapasi
 fxa-adoption-credit-cards-backup-subtitle = Suojaa maksutapasi synkronoimalla ne laitteillesi salattuna.
+fxa-adoption-bookmarks-treatment-backup-title = Varmuuskopioidaan kirjanmerkit
+fxa-adoption-bookmarks-treatment-backup-subtitle = Suojaa kirjanmerkkisi synkronoimalla ne laitteillesi salattuna.
 fxa-adoption-primary-button-label = Rekisteröidy
 
 ## Protections panel

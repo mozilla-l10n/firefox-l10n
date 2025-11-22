@@ -247,3 +247,5 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Luotu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } laitteella { $machineName }
 backup-file-restore-file-validation-error = Tämä tiedosto ei toimi. Kokeile valita toinen tiedosto. <a data-l10n-name="restore-problems">Onko ongelmia edelleen?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Tiedostoa ei ole valittu
