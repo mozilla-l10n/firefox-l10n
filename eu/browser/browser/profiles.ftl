@@ -90,6 +90,15 @@ profiles-light-theme = Argia
 profiles-dark-theme = Iluna
 # The default system theme
 profiles-system-theme = Sistema
+profiles-system-theme-title =
+    .title = Aplikatu sistemaren itxura
+profiles-gray-theme = Grisa
+profiles-gray-theme-title =
+    .title = Aplikatu itxura grisa
+profiles-yellow-theme = Horia
+profiles-yellow-theme-title =
+    .title = Aplikatu itxura horia
+profiles-orange-theme = Laranja
 profiles-orange-theme-title =
     .title = Aplikatu itxura laranja
 profiles-red-theme = Gorria
@@ -102,6 +111,8 @@ profiles-purple-theme = Morea
 profiles-purple-theme-title =
     .title = Aplikatu itxura morea
 profiles-blue-theme = Urdina
+profiles-blue-theme-title =
+    .title = Aplikatu itxura urdina
 profiles-green-theme = Berdea
 profiles-green-theme-title =
     .title = Aplikatu itxura berdea
@@ -130,6 +141,8 @@ flower-avatar-alt =
     .alt = Lorea
 folder-avatar-alt =
     .alt = Karpeta
+hammer-avatar-alt =
+    .alt = Mailua
 heart-avatar-alt =
     .alt = Bihotza
 clock-avatar-alt =
@@ -139,13 +152,19 @@ leaf-avatar-alt =
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = Mezua
+palette-avatar-alt =
+    .alt = Paleta
 # Present refers to a gift box, not the current time period
 present-avatar-alt =
     .alt = Oparia
 shopping-avatar-alt =
     .alt = Erosketa-orga
+soccer-ball-avatar-alt =
+    .alt = Futboleko baloia
 star-avatar-alt =
     .alt = Izarra
+custom-avatar-alt =
+    .alt = Abatar pertsonalizatua
 bike-avatar-alt =
     .alt = Bizikleta
 
@@ -153,13 +172,23 @@ bike-avatar-alt =
 
 book-avatar = Liburua
 briefcase-avatar = Maletatxoa
+clock-avatar = Erlojua
+custom-avatar = Abatar pertsonalizatua
 flower-avatar = Lorea
 folder-avatar = Karpeta
 hammer-avatar = Mailua
 heart-avatar = Bihotza
 leaf-avatar = Hostoa
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Mezua
+palette-avatar = Paleta
+# Present refers to a gift box, not the current time period
+present-avatar = Oparia
 shopping-avatar = Erosketa-orga
 soccer-ball-avatar = Futboleko baloia
 star-avatar = Izarra
+custom-avatar-crop-back-button =
+    .aria-label = Atzera
 profiles-appmenu-callout-tour-title = Zure profil berria prest dago
 profiles-appmenu-callout-tour-primary-button = Erakuts iezadazu nola
+bike-avatar = Bizikleta

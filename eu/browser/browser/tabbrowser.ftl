@@ -338,6 +338,28 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Ireki multzoa leiho berrian
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Gehitu oharra
+    .accesskey = G
+tab-context-edit-note =
+    .label = Editatu oharra
+    .accesskey = E
+tab-note-editor-title-create = Gehitu oharra
+tab-note-editor-title-edit = Editatu oharra
+tab-note-editor-button-cancel =
+    .label = Utzi
+    .accesskey = U
+tab-note-editor-button-save =
+    .label = Gorde
+    .accesskey = G
+
 ## Split View
 
 tab-context-badge-new = Berria
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+split-view-menuitem-close-both-tabs =
+    .label = Itxi bi fitxak

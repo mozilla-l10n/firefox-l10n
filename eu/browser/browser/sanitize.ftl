@@ -54,9 +54,16 @@ history-section-label = Historia
 item-history-and-downloads =
     .label = Nabigatze- eta deskarga-historia
     .accesskey = b
+item-history-and-downloads-description2 = Gunearen eta deskargen historia garbitzen du
 item-cookies =
     .label = Cookieak
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookieak eta guneen datuak ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookieak eta guneetako datuak
     .accesskey = e

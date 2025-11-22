@@ -1315,6 +1315,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Gune erabilienak
     .accesskey = r
+addressbar-locbar-engines-option-1 =
+    .label = Gomendatu erabili beharreko bilaketa-motorrak
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Bilaketa-motorrak
     .accesskey = k
@@ -1394,6 +1397,14 @@ content-blocking-warning-learn-how = Ikasi nola
 content-blocking-baseline-exceptions-3 =
     .label = Konpondu guneen arazo larriak (gomendatua)
     .description = Guneak eta hauek eginbideak kargatzen laguntzen du jarraipen-elementuak izan litzaketen oinarrizko elementuak soilik blokeatuz. Ohiko arazo gehienak tratatzen ditu.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Konpondu guneen arazo arinak
+    .description = Artikuluetako bideoak edo iruzkinen atalen pareko gauzak berreskuratzen ditu jarraipen-elementuak izan litzaketen elementuak desblokeatuz. Guneetako arazoak gutxiagotu litzake baina babes gutxiago eskaintzen du. Arazo larrien konponketarako erabili behar da.
+content-blocking-baseline-uncheck-warning-dialog-title = Ziur zaude konponketak desaktibatu nahi dituzula?
+content-blocking-baseline-uncheck-warning-dialog-body = Ezarpen honek guneetako arazo ohikoenak konpontzen laguntzen du. Desaktibatuz gero, zenbait gune agian ez dira ondo ibiliko eta { -brand-short-name } ez da gai izango arazo horiek konpontzen laguntzeko.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Desaktibatu konponketak
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Mantendu konponketak
 content-blocking-reload-description = Zure fitxak berritu beharko dituzu aldaketa hauek eragina izan dezaten.
 content-blocking-reload-tabs-button =
     .label = Berritu fitxa guztiak
@@ -1535,6 +1546,9 @@ collection-studies-description = Probatu eginbide eta ideiak mundu guztiarentzat
 collection-studies =
     .label = Baimendu { -brand-short-name }(e)k esperimentuak instalatu eta exekutatzea
 collection-studies-link = Ikusi { -brand-short-name } esperimentuak
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako.
 addon-recommendations =
     .label = Baimendu { -brand-short-name }(r)i hedapenen gomendio pertsonalizatuak egitea
 addon-recommendations-link = Argibide gehiago

@@ -44,6 +44,7 @@ reset-search-settings-button = Ados
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = Gehitu { $engineName } bilaketa-motor gisa?
 install-search-engine-add = Gehitu
 install-search-engine-no = Ez
 
@@ -67,3 +68,10 @@ add-engine-url-placeholder =
     .placeholder = adib., https://developer.mozilla.com/search?q=%s
 add-engine-keyword-placeholder =
     .placeholder = adib., @mdn
+
+## The following strings are used as error messages.
+
+add-engine-no-name = Gehitu izena mesedez.
+add-engine-no-url = Sartu URL bat.
+add-engine-invalid-url = URLak ez dirudi zuzena. Egiazta ezazu eta saiatu berriro.
+add-engine-invalid-protocol = URLak ez dirudi zuzena. Erabili http edo https bidez hasten den URL bat.
