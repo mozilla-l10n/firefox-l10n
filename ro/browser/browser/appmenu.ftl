@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Presetare pentru depanare în { -brand-shorter-name }. Suprasarcină ridicată, a nu se folosi pentru lucru de performanță, ci pentru analiza comportamentului browserului.
 profiler-popup-presets-debug-label =
     .label = Depanare
+profiler-popup-presets-web-compat-description = Presetare recomandată pentru depanarea problemelor de compatibilitate web pe site-uri, mai degrabă decât pentru urmărirea performanței.
+profiler-popup-presets-web-compat-label =
+    .label = Compatibilitate web
 profiler-popup-presets-custom-label =
     .label = Personalizat
 
