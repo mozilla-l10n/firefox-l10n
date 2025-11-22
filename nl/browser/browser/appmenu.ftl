@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Voorinstelling voor debugging in { -brand-shorter-name }. Hoge overhead, niet gebruiken voor prestatiewerk, maar om te focussen op het begrijpen van browsergedrag.
 profiler-popup-presets-debug-label =
     .label = Debuggen
+profiler-popup-presets-web-compat-description = Aanbevolen voorinstelling voor het opsporen van webcompatibiliteitsproblemen in websites, in plaats van prestaties te volgen.
+profiler-popup-presets-web-compat-label =
+    .label = Webcompatibiliteit
 profiler-popup-presets-custom-label =
     .label = Aangepast
 

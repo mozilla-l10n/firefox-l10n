@@ -1048,10 +1048,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Wachtwoorden
     .searchkeywords = aanmeldingen
+forms-passwords-header =
+    .label = Wachtwoorden
+    .aria-label = Wachtwoorden
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Vragen om wachtwoorden op te slaan
     .accesskey = V
+forms-manage-password-exceptions =
+    .label = Wachtwoorduitzonderingen beheren
+    .accesskey = b
 forms-exceptions =
     .label = Uitzonderingen…
     .accesskey = t
@@ -1082,12 +1088,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Gebruikersnamen en wachtwoorden automatisch invullen
     .accesskey = v
+forms-fill-usernames-and-passwords-2 =
+    .label = Gebruikersnamen en wachtwoorden opslaan en automatisch invullen
+    .accesskey = v
 forms-saved-passwords =
     .label = Opgeslagen wachtwoorden
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Opgeslagen wachtwoorden beheren
+    .accesskey = g
+forms-saved-passwords-searchkeywords = Aanmeldingen voor de volgende websites zijn op uw computer opgeslagen
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Aanvullende beschermingen
 forms-primary-pw-use =
     .label = Een hoofdwachtwoord gebruiken
     .accesskey = h
+forms-primary-pw-set =
+    .label = Hoofdwachtwoord instellen
+forms-primary-pw-on =
+    .label = Hoofdwachtwoord is AAN
+forms-primary-pw-change-2 =
+    .label = Hoofdwachtwoord wijzigen
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Uitschakelen
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Apparaataanmelding voor invullen en beheren van wachtwoorden vereisen
@@ -1153,6 +1178,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Betalingsgegevens opslaan en automatisch invullen
     .accesskey = B
+autofill-payment-methods-manage-payments-title =
+    .heading = Betalingsmethoden beheren
 autofill-payment-methods-manage-payments-button =
     .label = Betalingsmethoden beheren
     .accesskey = b
@@ -1160,6 +1187,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Apparaataanmelding voor automatisch invullen en beheren van betalingsmethoden vereisen
     .accesskey = o
+autofill-payment-methods-add-button = Nieuwe betalingsmethode toevoegen
+payments-list-header =
+    .label = Betalingsmethoden
+payments-list-item-label = <strong>Betaalmethoden</strong>
+payments-remove-payment-prompt-title = Deze betalingsmethode verwijderen?
+payments-remove-payment-prompt-confirm-button = Verwijderen
+payments-remove-payment-prompt-cancel-button = Annuleren
 autofill-addresses-title = Adressen en meer
 autofill-addresses-header =
     .aria-label = Adressen en meer
@@ -1169,6 +1203,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adressen en meer beheren
     .accesskey = b
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 

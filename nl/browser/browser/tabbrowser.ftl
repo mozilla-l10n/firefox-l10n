@@ -285,6 +285,22 @@ tab-context-move-tab-to-group =
            *[other] Tabbladen aan groep toevoegen
         }
     .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Gesplitste weergave aan nieuwe groep toevoegen
+            [one] Gesplitste weergave aan nieuwe groep toevoegen
+           *[other] Gesplitste weergaven aan nieuwe groep toevoegen
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Gesplitste weergave aan groep toevoegen
+            [one] Gesplitste weergave aan groep toevoegen
+           *[other] Gesplitste weergaven aan groep toevoegen
+        }
+    .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = Gesloten groepen
 tab-group-editor-action-new-tab =
@@ -347,6 +363,25 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Groep in nieuw venster openen
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = Notitie toevoegen
+    .accesskey = v
+tab-context-edit-note =
+    .label = Notitie bewerken
+    .accesskey = w
+tab-note-editor-title-create = Notitie toevoegen
+tab-note-editor-title-edit = Notitie bewerken
+tab-note-editor-text-field =
+    .placeholder = Wat wilt u onthouden over dit tabblad?
+tab-note-editor-button-cancel =
+    .label = Annuleren
+    .accesskey = A
+tab-note-editor-button-save =
+    .label = Opslaan
+    .accesskey = s
 
 ## Split View
 

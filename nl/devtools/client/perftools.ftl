@@ -158,4 +158,6 @@ perftools-presets-power-label = Vermogen
 perftools-presets-power-description = Voorinstelling voor het onderzoeken van stroomverbruikbugs in { -brand-shorter-name }, met lage overhead.
 perftools-presets-debug-label = Debuggen
 perftools-presets-debug-description = Voorinstelling voor debugging in { -brand-shorter-name }. Hoge overhead, niet gebruiken voor prestatiewerk, maar om te focussen op het begrijpen van browsergedrag.
+perftools-presets-web-compat-label = Webcompatibiliteit
+perftools-presets-web-compat-description = Aanbevolen voorinstelling voor het opsporen van webcompatibiliteitsproblemen in websites, in plaats van prestaties te volgen.
 perftools-presets-custom-label = Aangepast
