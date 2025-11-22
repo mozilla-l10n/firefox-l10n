@@ -401,8 +401,33 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-sync-label = زامن مع { -brand-product-name }
 create-backup-select-tile-button-label = حدّد
 create-backup-back-button-label = السابق
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = إعداد سهل
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = العلامات والتأريخ والإعدادات والمزيد
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = لا يشمل كلمات السر والمدفوعات
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = غير مُعمّاة
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = جميع البيانات
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = يشمل كلمات السر والمدفوعات
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = مُعمّى بكلمة سر
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = أين تريد حفظ نسختك الاحتياطية؟
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = أنشئ كلمة سر ملف النسخ الاحتياطي
+create-backup-screen-3-subtitle = مطلوب لتعمية بياناتك. احفظها في مكان يسهل تذكره.
+fx-backup-opt-in-header = اختر مكان الملف
+fx-backup-opt-in-create-password-label = أدخل كلمة السر
+fx-backup-opt-in-confirm-btn-label = واصِل
+fx-backup-opt-in-cancel-btn-label = السابق
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-close-button = أغلق
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -413,3 +438,8 @@ restore-from-backup-secondary-button = لا تستعيد
 
 restored-from-backup-success-with-checklist-secondary-button = تجاوز هذه الخُطوة
 restored-from-backup-success-no-checklist-primary-button = واصِل
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-use-case-personal-option = شخصي
