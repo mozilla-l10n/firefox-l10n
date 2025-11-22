@@ -373,10 +373,14 @@ onboarding-checklist-extension = أضِف امتدادة
 ## Tab Groups feature onboarding strings
 
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-create-group-title-3 = اعثر على مجموعات ألسنتك في قائمة اسرد كل الألسنة في أي وقت.
+tab-groups-onboarding-create-group-title-3 = اعثر على مجموعات ألسنتك في قائمة "اسرد كل الألسنة" في أي وقت.
 tab-groups-onboarding-create-group-title-2 = اعثر على مجموعات ألسنتك هنا في أي وقت.
 tab-groups-onboarding-create-group-no-alltabs-button-title = ابحث عن مجموعاتك من خلال البحث عنها في شريط العناوين.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = عند إغلاق مجموعة ألسنة، يمكنك إعادة فتحها من قائمة "اسرد كل الألسنة" في أي وقت.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = ابحث عن مجموعاتك المغلقة عن طريق البحث عنها في شريط العناوين.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = يمكنك إعادة فتح مجموعات ألسنتك من قائمة "اسرد كل الألسنة" في أي وقت.
 tab-groups-onboarding-dismiss = حسنا
 
 ## Multi Profiles feature onboarding messages
