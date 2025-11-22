@@ -86,6 +86,8 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = AA txaterako bota
 genai-header-provider-menu =
     .title = Aukeratu txaterako bota
+genai-header-settings-button =
+    .title = AA txataren ezarpenak
 genai-header-options-button =
     .title = Ireki menua
 genai-header-close-button =
@@ -116,6 +118,7 @@ genai-page-button-summarize = Laburbildu orria
 ## Chatbot onboarding
 
 genai-onboarding-header = Nabigatu ahala laburbildu, ideiak jaso eta gehiago
+genai-onboarding-choose-header = Aukeratu { -brand-short-name } alboko barran erabili beharreko AA txaterako bota
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Aukeratu { -brand-short-name } alboko barran erabili beharreko AA txaterako bota. Hautatzean, bot bakoitzari buruzko xehetasunak erakutsiko ditugu. Aldatu edonoiz. <a data-l10n-name="learn-more">Argibide gehiago</a>
 genai-onboarding-primary = Jarraitu
@@ -218,3 +221,5 @@ link-preview-setup-faster-next-time = Puntu nagusiak azkarrago ikusiko dituzu hu
 link-preview-onboarding-button = Ikusi aurrebista
 # Onboarding card Close button
 link-preview-onboarding-close = Itxi
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Lehen aldiko konfigurazioa

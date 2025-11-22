@@ -252,6 +252,9 @@ menu-profiles-new-profile =
 #  $profileName (String): the name of the users profile
 menu-profiles-current =
     .label = { $profileName } (unekoa)
+menu-profiles-menu =
+    .label = Profilak
+    .accesskey = P
 
 ## Tools Menu
 

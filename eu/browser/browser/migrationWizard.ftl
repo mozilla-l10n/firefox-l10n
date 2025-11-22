@@ -52,7 +52,15 @@ migration-imported-edge-reading-list = Irakurketa-zerrenda (Edge-tik)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name }(e)k ez du gailu honetan instalatutako beste nabigatzaileetako profiletarako sarbiderik.
+migration-no-permissions-instructions = Beste nabigatzaile batetik datuak inportatzen jarraitzeko, baimendu bere profilaren karpetarako sarbidea { -brand-short-name }(r)i.
 migration-no-permissions-instructions-step1 = Hautatu "Jarraitu"
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = Fitxategiak hautatzekoan, nabigatu <code>{ $permissionsPath }</code> bidera eta aukeratu "Hautatu"
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -148,6 +156,8 @@ migration-import-from-file-button-label = Hautatu fitxategia
 migration-cancel-button-label = Utzi
 migration-done-button-label = Eginda
 migration-continue-button-label = Jarraitu
+migration-wizard-import-browser-no-browsers = { -brand-short-name }(e)k ezin izan du aurkitu laster-markak, historia edo pasahitzen datuak dituen inolako programarik.
+migration-wizard-import-browser-no-resources = Errorea gertatu da. { -brand-short-name }(e)k ezin du aurkitu nabigatzaile horren profiletik inportatzeko daturik.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -186,6 +196,12 @@ migration-safari-password-import-step1 = Safarin, ireki "Safari" menua eta zoaz 
 migration-safari-password-import-step2 = Hautatu <img data-l10n-name="safari-icon-3dots"/> botoia eta aukeratu "Esportatu pasahitz guztiak"
 migration-safari-password-import-step3 = Gorde pasahitzen fitxategia
 migration-safari-password-import-step4 = Erabili azpiko "hautatu fitxategia" aukera gorde berri duzun pasahitzen fitxategia aukeratzeko
+migration-chrome-windows-password-import-header = Nola inportatu pasahitzak Chrome-tik
+migration-chrome-windows-password-import-steps-header = Chrome-n:
+migration-chrome-windows-password-import-step1 = Ireki menu nagusia <img data-l10n-name="chrome-icon-3dots"/> eta joan Pasahitzak eta betetze automatikoa > Google Pasahitz Kudeatzailea aukerara.
+migration-chrome-windows-password-import-step2 = Hautatu "Ezarpenak" menutik.
+migration-chrome-windows-password-import-step3 = Aukeratu "Deskargatu fitxategia" eta gorde ezazu zure gailuan.
+migration-chrome-windows-password-import-step4 = Itzuli hona eta "Hautatu fitxategia" sakatu inportatzen amaitzeko.
 migration-manual-password-import-skip-button = Saltatu
 migration-manual-password-import-select-button = Hautatu fitxategia
 migration-safari-password-import-skip-button = Saltatu
@@ -234,6 +250,7 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $quantity }/{ $matched } hedapen
+migration-wizard-progress-extensions-support-link = Ikasi nola aurkitzen dituen { -brand-product-name }(e)k bat datozen hedapenak
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Bat datorren hedapenik ez

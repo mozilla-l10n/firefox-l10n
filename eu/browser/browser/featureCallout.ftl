@@ -87,8 +87,13 @@ perplexity-callout-secondary-label-2 = Ulertuta
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Eman izena
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-value-prop-callout-title = Gehitu gune hau zure ataza-barran
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-new-device-primary-label = Sinkronizatu orain
 windows-10-eos-sync-dismiss-button-label = Baztertu
 windows-10-eos-sync-callout-primary-advance-button-label = Hurrengoa
 
