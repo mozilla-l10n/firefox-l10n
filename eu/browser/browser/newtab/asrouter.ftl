@@ -63,10 +63,18 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronizatu laster-markak edonon.
 cfr-doorhanger-bookmark-fxa-body = Ondo ikusia! Orain ez galdu laster-marka hau zure gailu mugikorretan. Hasi { -fxaccount-brand-name } erabiltzen.
+cfr-doorhanger-bookmark-fxa-body-2 = Ondo ikusia! Orain ez galdu laster-marka hau zure gailu mugikorretan. Hasi erabiltzen kontu batekin.
 cfr-doorhanger-bookmark-fxa-link-text = Sinkronizatu laster-markak orain…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Ixteko botoia
     .title = Itxi
+fxa-adoption-addresses-backup-title = Egin dezagun gordetako zure helbideen babeskopia
+fxa-adoption-addresses-backup-subtitle = Babestu gordetako zure helbideak gailuen artean zifratze bidez sinkronizatuz.
+fxa-adoption-credit-cards-backup-title = Egin dezagun gordetako zure ordainketa-metodoen babeskopia
+fxa-adoption-credit-cards-backup-subtitle = Babestu zure ordainketa-metodoak gailuen artean zifratze bidez sinkronizatuz.
+fxa-adoption-bookmarks-treatment-backup-title = Egin dezagun zure laster-marken babeskopia
+fxa-adoption-bookmarks-treatment-backup-subtitle = Babestu zure laster-markak gailuen artean zifratze bidez sinkronizatuz.
+fxa-adoption-primary-button-label = Eman izena
 
 ## Protections panel
 
@@ -203,6 +211,8 @@ cfr-cbh-confirm-button = Ukatu cookie iragarki-bandak
     .accesskey = k
 cfr-cbh-dismiss-button = Une honetan ez
     .accesskey = n
+cookie-banner-blocker-onboarding-header = { -brand-short-name }(e)k zuregatik cookie iragarki-banda bat ukatu berri du
+cookie-banner-blocker-onboarding-body = Distrazio gutxiago, zure jarraipena egiten duten cookie gutxiago gune honetan.
 cookie-banner-blocker-onboarding-learn-more = Argibide gehiago
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
@@ -221,6 +231,22 @@ fox-doodle-pin-secondary = Une honetan ez
 
 set-default-pdf-handler-headline = <strong>Zure PDFak orain { -brand-short-name }(e)n irekitzen dira.</strong> Editatu edo sinatu inprimakiak zuzenean nabigatzailetik. Aldatzeko, bilatu "PDF" ezarpenetan.
 set-default-pdf-handler-primary = Ulertuta
+
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Sinatu puntukako marraren gainean — edo edonon!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Marraztu, idatzi edo igo zure sinadura, gero koka ezazu zehazki nahi duzun tokian. Gorde hurrengorako gehien erabiltzen dituzun sinadurak.
+annotations-make-default-pdf-handler-title = Egin { -brand-short-name } zure PDF editore lehenetsia?
+annotations-make-default-pdf-handler-subtitle = Gure tresnetarako sarbidea izango duzu PDF bat irekitzen duzun aldiro.
+annotations-make-default-pdf-primary-cta =
+    .label = Ezarri lehenetsi gisa
+annotations-make-default-pdf-next =
+    .label = Hurrengoa
 
 ## FxA sync CFR
 
