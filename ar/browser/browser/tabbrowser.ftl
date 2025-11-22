@@ -313,6 +313,11 @@ tab-group-editor-done =
     .accessKey = م
 tab-context-reopen-tab-group =
     .label = إعادة فتح مجموعة لسان
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
 
 ## Open/saved tab group context menu
 
@@ -341,6 +346,49 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-context-add-note =
+    .label = أضف ملاحظة
+    .accesskey = ض
+tab-context-edit-note =
+    .label = حرّر الملاحظة
+    .accesskey = ر
+tab-note-editor-title-create = أضف ملاحظة
+tab-note-editor-title-edit = حرِّر الملاحظة
+tab-note-editor-text-field =
+    .placeholder = ماذا تريد أن تتذكر حول هذا اللسان؟
 tab-note-editor-button-cancel =
     .label = ألغ
     .accesskey = غ
+tab-note-editor-button-save =
+    .label = احفظ
+    .accesskey = ف
+
+## Split View
+
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on tabs inside of a tab split view
+tabbrowser-tab-label-tab-split-view = عرض منقسم
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = أضف عرض منقسم
+    .accesskey = ض
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = افتح في عرض منقسم
+    .accesskey = م
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = عرض مقسم منفصل
+    .accesskey = ص
+tab-context-badge-new = جديد
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = ألسنة منفصلة
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = اعكس الألسنة
+split-view-menuitem-close-both-tabs =
+    .label = أغلق كلا الألسنة
