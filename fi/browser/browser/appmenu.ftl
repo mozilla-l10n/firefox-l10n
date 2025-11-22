@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Esiasetus { -brand-shorter-name }in vianjäljitykseen. Korkea rasitus, älä käytä suorituskykyä vaativaan työhön, käytä selaustoiminnan ymmärtämiseen.
 profiler-popup-presets-debug-label =
     .label = Vianjäljitys
+profiler-popup-presets-web-compat-description = Suositeltu esiasetus verkkosivustojen yhteensopivuusongelmien vianjäljitykseen suorituskyvyn seurannan sijaan.
+profiler-popup-presets-web-compat-label =
+    .label = Web Compat
 profiler-popup-presets-custom-label =
     .label = Mukautettu
 

@@ -672,6 +672,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Tallentamasi tai vierailemasi sivustot
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsoroidut oikotiet
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1034,6 +1036,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Salasanat
     .searchkeywords = kirjautumistiedot
+forms-passwords-header =
+    .label = Salasanat
+    .aria-label = Salasanat
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Kysy salasanojen tallentamisesta
@@ -1068,9 +1073,16 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Täytä käyttäjätunnukset ja salasanat automaattisesti
     .accesskey = ä
+forms-fill-usernames-and-passwords-2 =
+    .label = Tallenna ja täytä käyttäjätunnukset sekä salasanat automaattisesti
+    .accesskey = T
 forms-saved-passwords =
     .label = Tallennetut salasanat
     .accesskey = s
+forms-saved-passwords-2 =
+    .label = Hallinnoi tallennettuja salasanoja
+    .accesskey = s
+forms-saved-passwords-searchkeywords = Seuraavien sivustojen kirjautumistiedot ovat tallennettuna tietokoneellesi
 forms-primary-pw-use =
     .label = Käytä pääsalasanaa
     .accesskey = K
@@ -1139,6 +1151,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Tallenna ja täytä maksutiedot automaattisesti
     .accesskey = ä
+autofill-payment-methods-manage-payments-title =
+    .heading = Hallinnoi maksutapoja
 autofill-payment-methods-manage-payments-button =
     .label = Hallitse maksutapoja
     .accesskey = m
@@ -1146,6 +1160,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Vaadi laitekirjautuminen maksutapojen automaattiseen täyttöön ja hallintaan
     .accesskey = o
+autofill-payment-methods-add-button = Lisää uusi maksutapa
+payments-list-header =
+    .label = Maksutavat
+payments-list-item-label = <strong>Maksutavat</strong>
+payments-remove-payment-prompt-title = Poistetaanko tämä maksutapa?
+payments-remove-payment-prompt-confirm-button = Poista
+payments-remove-payment-prompt-cancel-button = Peruuta
 autofill-addresses-title = Osoitteita ja muuta
 autofill-addresses-header =
     .aria-label = Osoitteita ja muuta
@@ -1155,6 +1176,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Hallitse osoitteita ja muuta
     .accesskey = m
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 

@@ -290,6 +290,10 @@ colorway-removal-notice-message =
         versiot lisäosasivustolta.
 colorway-removal-notice-learn-more = Lue lisää
 colorway-removal-notice-button = Hanki päivitetyt väriteemat
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Windowsin kontrastiasetukset ohittavat { -brand-short-name }in teemat. Poista nämä asetukset käytöstä käyttääksesi teemoja { -brand-short-name }issa.
 privacy-policy = Tietosuojaseloste
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -533,6 +537,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Lisätietoja
 details-notification-blocked = Lisäosa { $name } poistettiin käytöstä turvallisuus- tai vakausongelmien takia.
 details-notification-blocked-link2 = Näytä yksityiskohdat
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Tämä laajennus on rajoitettu ja se on poistettu käytöstä. Voit ottaa sen käyttöön, mutta se voi olla riskialtista.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Tämä laajennus on rajoitettu. Sen käyttö voi olla riskialtista.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Tämä lisäosa on rajoitettu ja se on poistettu käytöstä. Voit ottaa sen käyttöön, mutta se voi olla riskialtista.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Tämä lisäosa on rajoitettu. Sen käyttö voi olla riskialtista.
 details-notification-soft-blocked-extension-disabled =
     .message = Tämä laajennus on rajoitettu Mozillan käytäntöjen rikkomisen vuoksi, ja se on poistettu käytöstä. Voit ottaa laajennuksen käyttöön, mutta se voi olla riskialtista.
 details-notification-soft-blocked-extension-enabled =
