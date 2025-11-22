@@ -159,4 +159,6 @@ perftools-presets-power-label = Pŵer
 perftools-presets-power-description = Y rhagosodiad ar gyfer ymchwilio i wallau defnydd pŵer yn { -brand-shorter-name }, gyda gorbenion isel.
 perftools-presets-debug-label = Dadfygio
 perftools-presets-debug-description = Rhagosodiad ar gyfer dadfygio yn { -brand-shorter-name }. Gorbenion uchel, peidiwch â'i ddefnyddio ar gyfer gwaith perfformiad ond yn hytrach ei ddefnyddio ar gyfer canolbwyntio ar ddeall ymddygiad porwyr.
+perftools-presets-web-compat-label = Compat Gwe
+perftools-presets-web-compat-description = Rhagosodiad sy'n cael eu hargymell ar gyfer dadfygio materion cydweddu gwe mewn gwefannau, yn hytrach nag olrhain perfformiad.
 perftools-presets-custom-label = Cyfaddas

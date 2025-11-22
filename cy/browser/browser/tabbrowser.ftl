@@ -345,6 +345,30 @@ tab-context-move-tab-to-group =
            *[other] Ychwanegu Tabiau i Grŵp
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Ychwanegu Golwg Hollt i Grŵp Newydd
+            [zero] Ychwanegu Golygon Hollt i Grŵp Newydd
+            [one] Ychwanegu Golwg Hollt i Grŵp Newydd
+            [two] Ychwanegu Golygon Hollt i Grŵp Newydd
+            [few] Ychwanegu Golygon Hollt i Grŵp Newydd
+            [many] Ychwanegu Golygon Hollt i Grŵp Newydd
+           *[other] Ychwanegu Golygon Hollt i Grŵp Newydd
+        }
+    .accesskey = Y
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Ychwanegu Golwg Hollt i Grŵp
+            [zero] Ychwanegu Golygon Hollt i Grŵp
+            [one] Ychwanegu Golwg Hollt i Grŵp
+            [two] Ychwanegu Golygon Hollt i Grŵp
+            [few] Ychwanegu Golygon Hollt i Grŵp
+            [many] Ychwanegu Golygon Hollt i Grŵp
+           *[other] Ychwanegu Golygon Hollt i Grŵp
+        }
+    .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = Grwpiau Caeedig
 tab-group-editor-action-new-tab =
@@ -415,6 +439,25 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Agor Grŵp mewn Ffenestr Newydd
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = Ychwanegu Nodyn
+    .accesskey = N
+tab-context-edit-note =
+    .label = Golygu Nodyn
+    .accesskey = G
+tab-note-editor-title-create = Ychwanegu nodyn
+tab-note-editor-title-edit = Golygu nodyn
+tab-note-editor-text-field =
+    .placeholder = Beth ydych chi am ei gofio am y tab hwn?
+tab-note-editor-button-cancel =
+    .label = Diddymu
+    .accesskey = D
+tab-note-editor-button-save =
+    .label = Cadw
+    .accesskey = C
 
 ## Split View
 

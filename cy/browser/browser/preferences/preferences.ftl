@@ -1114,9 +1114,21 @@ forms-saved-passwords-2 =
     .label = Rheoli cyfrineiriau wedi'u cadw
     .accesskey = c
 forms-saved-passwords-searchkeywords = Mae mewngofnodion ar gyfer y gwefannau canlynol yn cael eu cadw ar eich cyfrifiadur
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Diogelu ychwanegol
 forms-primary-pw-use =
     .label = Defnyddio Prif Gyfrinair
     .accesskey = P
+forms-primary-pw-set =
+    .label = Gosod y prif gyfrinair
+forms-primary-pw-on =
+    .label = Mae'r prif gyfrinair YMLAEN
+forms-primary-pw-change-2 =
+    .label = Newid y prif gyfrinair
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Diffodd
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Gofyn am fewngofnodi dyfais i lenwi a rheoli cyfrineiriau
@@ -1182,6 +1194,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Cadw ac awtolenwi manylion talu
     .accesskey = t
+autofill-payment-methods-manage-payments-title =
+    .heading = Rheoli dulliau talu
 autofill-payment-methods-manage-payments-button =
     .label = Rheoli dulliau talu
     .accesskey = d
@@ -1189,6 +1203,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Disgwyl i ddyfais fewngofnodi i awtolenwi a rheoli dulliau talu
     .accesskey = f
+autofill-payment-methods-add-button = Ychwanegu dull talu newydd
+payments-list-header =
+    .label = Dulliau talu
+payments-list-item-label = <strong>Dulliau talu</strong>
+payments-remove-payment-prompt-title = Dileu'r dull talu hwn?
+payments-remove-payment-prompt-confirm-button = Dileu
+payments-remove-payment-prompt-cancel-button = Diddymu
 autofill-addresses-title = Cyfeiriadau a mwy
 autofill-addresses-header =
     .aria-label = Cyfeiriadau a mwy
@@ -1198,6 +1219,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Rheoli cyfeiriadau a mwy
     .accesskey = R
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 

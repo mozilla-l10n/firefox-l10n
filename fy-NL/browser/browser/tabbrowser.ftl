@@ -285,6 +285,22 @@ tab-context-move-tab-to-group =
            *[other] Ljepblêden oan groep tafoegje
         }
     .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Splitste werjefte oan nije groep tafoegje
+            [one] Splitste werjefte oan nije groep tafoegje
+           *[other] Splitste werjeften oan nije groep tafoegje
+        }
+    .accesskey = S
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Splitste werjefte oan groep tafoegje
+            [one] Splitste werjefte oan groep tafoegje
+           *[other] Splitste werjeften oan groep tafoegje
+        }
+    .accesskey = S
 tab-context-move-tab-to-group-saved-groups =
     .label = Sletten groepen
 tab-group-editor-action-new-tab =
@@ -347,6 +363,22 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Groep yn nij finster iepenje
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = Notysje tafoegje
+    .accesskey = f
+tab-context-edit-note =
+    .label = Notysje bewurkje
+    .accesskey = w
+tab-note-editor-title-create = Notysje tafoegje
+tab-note-editor-title-edit = Notysje bewurkje
+tab-note-editor-text-field =
+    .placeholder = Wat wolle jo ûnthâlde oer dit ljepblêd?
+tab-note-editor-button-cancel =
+    .label = Annulearje
+    .accesskey = A
 
 ## Split View
 

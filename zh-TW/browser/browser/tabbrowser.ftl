@@ -253,6 +253,20 @@ tab-context-move-tab-to-group =
            *[other] 將分頁加入至群組
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] 將分割畫面加入新群組
+           *[other] 將分割畫面加入新群組
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] 將分割畫面加入群組
+           *[other] 將分割畫面加入群組
+        }
+    .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = 關閉的群組
 tab-group-editor-action-new-tab =
@@ -321,6 +335,8 @@ tab-context-edit-note =
     .accesskey = E
 tab-note-editor-title-create = 新增註記
 tab-note-editor-title-edit = 編輯註記
+tab-note-editor-text-field =
+    .placeholder = 您想要在此分頁記下什麼？
 tab-note-editor-button-cancel =
     .label = 取消
     .accesskey = C

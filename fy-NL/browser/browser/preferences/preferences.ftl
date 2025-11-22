@@ -1048,10 +1048,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Wachtwurden
     .searchkeywords = oanmeldingen
+forms-passwords-header =
+    .label = Wachtwurden
+    .aria-label = Wachtwurden
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Freegje om wachtwurden te bewarjen
     .accesskey = F
+forms-manage-password-exceptions =
+    .label = Wachtwurdútsûnderingen beheare
+    .accesskey = b
 forms-exceptions =
     .label = Utsûnderingen…
     .accesskey = s
@@ -1082,12 +1088,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Brûkersnammen en wachtwurden automatysk ynfolje
     .accesskey = f
+forms-fill-usernames-and-passwords-2 =
+    .label = Brûkersnammen en wachtwurden bewarje en automatysk ynfolje
+    .accesskey = f
 forms-saved-passwords =
     .label = Bewarre wachtwurden
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Bewarre wachtwurden beheare
+    .accesskey = r
+forms-saved-passwords-searchkeywords = Oanmeldingen foar de folgjende websites binne op jo kompjûter bewarre
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Oanfoljende beskermingen
 forms-primary-pw-use =
     .label = In haadwachtwurd brûke
     .accesskey = h
+forms-primary-pw-set =
+    .label = Haadwachtwurd ynstelle
+forms-primary-pw-on =
+    .label = Haadwachtwurd is OAN
+forms-primary-pw-change-2 =
+    .label = Haadwachtwurd wizigje
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Utskeakelje
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Apparaatoanmelding foar ynfoljen en behearen fan wachtwurden fereaskje
@@ -1153,6 +1178,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Betellingsmetoaden bewarje en automatysk ynfolje
     .accesskey = B
+autofill-payment-methods-manage-payments-title =
+    .heading = Betellingsmetoaden beheare
 autofill-payment-methods-manage-payments-button =
     .label = Betellingsmetoaden beheare
     .accesskey = m
@@ -1160,6 +1187,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Apparaatoanmelding foar automatysk ynfoljen en behearen fan betellingsmetoaden fereaskje
     .accesskey = A
+autofill-payment-methods-add-button = Nije betellingsmetoade tafoegje
+payments-list-header =
+    .label = Betellingsmetoaden
+payments-list-item-label = <strong>Betellingsmetoaden</strong>
+payments-remove-payment-prompt-title = Dizze betellingsmetoade fuortsmite?
+payments-remove-payment-prompt-confirm-button = Fuortsmite
+payments-remove-payment-prompt-cancel-button = Annulearje
 autofill-addresses-title = Adressen en mear
 autofill-addresses-header =
     .aria-label = Adressen en mear
@@ -1169,6 +1203,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adressen en mear beheare
     .accesskey = h
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
