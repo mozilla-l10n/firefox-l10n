@@ -676,6 +676,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Site-uri pe care le salvezi sau le vizitezi
 home-prefs-shortcuts-by-option-sponsored =
     .label = Comenzi rapide sponsorizate
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -721,14 +723,24 @@ home-prefs-weather-header =
     .label = Meteo
 home-prefs-weather-description = Vremea azi dintr-o privire
 home-prefs-weather-learn-more-link = Află mai multe
+home-prefs-widgets-header =
+    .label = Widgeturi
 home-prefs-trending-search-header =
     .label = Căutări în tendințe
 home-prefs-trending-search-description = Subiecte populare și căutate frecvent
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Liste
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Cronometru
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Susține { -brand-product-name }
 home-prefs-mission-message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun
 home-prefs-mission-message-learn-more-link = Află cum
+home-prefs-mission-message2 =
+    .message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun.
 home-prefs-manage-topics-link = Gestionează subiectele
 home-prefs-choose-wallpaper-link = Alege o imagine de fundal
 # Variables:
@@ -1039,10 +1051,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Parole
     .searchkeywords = autentificări
+forms-passwords-header =
+    .label = Parole
+    .aria-label = Parole
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Întreabă dacă să salveze parolele
     .accesskey = A
+forms-manage-password-exceptions =
+    .label = Gestionează excepțiile de parolă
+    .accesskey = M
 forms-exceptions =
     .label = Excepții…
     .accesskey = x
@@ -1073,6 +1091,9 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Completează automat numele de utilizator și parolele
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = Salvează și completează automat numele de utilizator și parolele
+    .accesskey = f
 forms-saved-passwords =
     .label = Parole salvate
     .accesskey = d
