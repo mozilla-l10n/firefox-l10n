@@ -1190,6 +1190,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Trebuie să intri în cont pe dispozitiv ca să completezi automat și să gestionezi metodele de plată
     .accesskey = o
+autofill-payment-methods-add-button = Adaugă o metodă nouă de plată
+payments-list-header =
+    .label = Metode de plată
+payments-list-item-label = <strong>Metode de plată</strong>
+payments-remove-payment-prompt-title = Ștergi această metodă de plată?
+payments-remove-payment-prompt-confirm-button = Elimină
+payments-remove-payment-prompt-cancel-button = Anulează
 autofill-addresses-title = Adrese și multe altele
 autofill-addresses-header =
     .aria-label = Adrese și multe altele
@@ -1199,6 +1206,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gestionează adresele și multe altele
     .accesskey = M
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1571,6 +1586,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blochează ferestrele pop-up și redirecționările părți terțe
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Gestionează excepțiile pentru ferestre pop-up și redirecționări către terți
+    .accesskey = E
+    .searchkeywords = popups
+permissions-addon-install-warning2 =
+    .label = Avertizează când site-urile web încearcă să instaleze extensii
+    .accesskey = W
+permissions-addon-exceptions2 =
+    .label = Alege ce site-uri web pot instala extensii
+    .accesskey = E
 permissions-block-popups =
     .label = Blochează ferestrele pop-up
     .accesskey = B
@@ -1586,6 +1613,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepții…
     .accesskey = E
+permissions-header2 =
+    .label = Permisiuni
+    .description = Permisiuni pe care le dai site-urilor pe care intri
 permissions-location2 =
     .label = Locație
 permissions-localhost2 =
@@ -1598,6 +1628,9 @@ permissions-camera2 =
     .label = Cameră
 permissions-microphone2 =
     .label = Microfon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Boxă
 permissions-notification2 =
     .label = Notificări
 
