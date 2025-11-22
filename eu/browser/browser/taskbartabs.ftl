@@ -19,6 +19,12 @@ taskbar-tab-urlbar-button-close =
 #                    via a heuristic, or simply be the hostname of the
 #                    site.
 taskbar-tab-shortcut-description = { $name } Web Aplikazioa
+# This string is used as the name of the folder that contains Taskbar
+# Tabs. Don't use any characters that can't go in a folder name, or
+# they will be replaced by underscores. (This generally means to not
+# use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
+# should be fine.)
+taskbar-tab-shortcut-folder = { -brand-short-name } web aplikazioak
 
 ## These strings are used as the tooltip for the mute/unmute button.
 
