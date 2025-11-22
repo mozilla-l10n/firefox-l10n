@@ -164,6 +164,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Ireki loturak fitxetan eta ez leiho berrietan
     .accesskey = x
+open-external-link-next-to-active-tab =
+    .label = Ireki aplikazioetako loturak zure uneko fitxaren ondoan
 ask-on-close-multiple-tabs =
     .label = Galdetu hainbat fitxa itxi aurretik
     .accesskey = h
@@ -259,6 +261,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Iluna
     .title = Erabili itxura iluna webguneen atzeko plano eta edukiarentzat.
+web-appearance-group =
+    .aria-label = Webgunearen itxura
 preferences-web-appearance-choice-auto = Automatikoa
 preferences-web-appearance-choice-light = Argia
 preferences-web-appearance-choice-dark = Iluna
@@ -659,6 +663,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Gordetzen edo bisitatzen dituzun guneak
 home-prefs-shortcuts-by-option-sponsored =
     .label = Babesleen lasterbideak
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 

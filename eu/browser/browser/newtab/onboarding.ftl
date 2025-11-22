@@ -337,6 +337,7 @@ onboarding-device-migration-primary-button-label = Hasi saioa
 
 ## Add-ons Picker screen
 
+amo-picker-title = Pertsonalizatu zure { -brand-short-name }
 amo-picker-install-button-label = Gehitu { -brand-short-name }(e)ra
 amo-picker-install-complete-label = Instalatuta
 amo-picker-collection-link = Esploratu gehigarri gehiago
@@ -376,6 +377,8 @@ onboarding-new-tabs-title = Esaiguzu non nahiago dituzun fitxak
 onboarding-new-tabs-subtitle = Alda ezazu nahi duzunean alboko barrako ezarpenetan.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Fitxak, zure erara
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Aukeratu fitxen diseinua
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Fitxak alboan
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -408,6 +411,7 @@ tab-groups-onboarding-dismiss = Ados
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Esan kaixo { -brand-product-name }(r)en profilei
 multi-profile-spotlight-cta = Sortu profil bat
 multi-profile-callout-cta = Sortu profil bat
 
@@ -481,3 +485,8 @@ restored-from-backup-success-with-checklist-secondary-button = Saltatu urrats ha
 restored-from-backup-success-no-checklist-primary-button = Jarraitu
 restored-from-backup-error-title = Kontxo, arazo bat egon da zure babeskopia-fitxategiarekin.
 restored-from-backup-error-primary-button = Itxi
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-motivation-other-option = Bestelakoa

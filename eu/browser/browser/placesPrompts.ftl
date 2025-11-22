@@ -15,3 +15,4 @@ places-bookmarks-restore-format-error = Euskarririk gabeko fitxategi mota.
 places-bookmarks-restore-parse-error = Ezin da babeskopia fitxategia prozesatu.
 places-bookmarks-import = Inportatu laster-marka fitxategia
 places-bookmarks-export = Esportatu laster-marka fitxategia
+places-bookmarks-paste-error-title = URL baliogabeak aurkitu dira

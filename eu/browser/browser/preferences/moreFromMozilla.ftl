@@ -34,4 +34,12 @@ more-from-moz-mozilla-monitor-button = Eskuratu { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } AA
 more-from-moz-solo-button = Probatu { -solo-ai-brand-name }
+more-from-moz-solo-title-2 = { -solo-ai-brand-name } AA webgune sortzailea
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
+more-from-moz-mdn-title = MDN web dokumentuak
+more-from-moz-mdn-description = Ikasi web garapena gida eta erreferentzia sakonekin.
+more-from-moz-mdn-button = Ikasi web garapena
