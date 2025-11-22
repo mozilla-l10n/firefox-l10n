@@ -1097,9 +1097,25 @@ forms-fill-usernames-and-passwords-2 =
 forms-saved-passwords =
     .label = Parole salvate
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Gestionează parolele salvate
+    .accesskey = d
+forms-saved-passwords-searchkeywords = Sunt stocate pe calculator autentificările pentru următoarele site-uri
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Protecții suplimentare
 forms-primary-pw-use =
     .label = Folosește o parolă primară
     .accesskey = U
+forms-primary-pw-set =
+    .label = Setează parola principală
+forms-primary-pw-on =
+    .label = Parola primară este activată
+forms-primary-pw-change-2 =
+    .label = Schimbă parola primară
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Dezactivează
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Necesită să intri în cont pe dispozitiv ca să completezi și să gestionezi parole
@@ -1165,6 +1181,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Salvează și completează automat informațiile pentru plăți
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Gestionează metodele de plată
 autofill-payment-methods-manage-payments-button =
     .label = Gestionează metodele de plată
     .accesskey = m
