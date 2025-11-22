@@ -1143,6 +1143,23 @@ autofill-saved-payment-methods-button = Gordetako ordainketa metodoak
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Behartu gailuan saioa hastea ordainketa metodoak bete eta kudeatzeko
     .accesskey = o
+autofill-payment-methods-manage-payments-title =
+    .heading = Kudeatu ordainketa-metodoak
+autofill-payment-methods-add-button = Gehitu ordainketa-metodo berria
+payments-list-header =
+    .label = Ordainketa-metodoak
+payments-list-item-label = <strong>Ordainketa-metodoak</strong>
+payments-remove-payment-prompt-title = Kendu ordainketa-metodo hau?
+payments-remove-payment-prompt-confirm-button = Kendu
+payments-remove-payment-prompt-cancel-button = Utzi
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1247,6 +1264,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Kudeatu salbuespenak…
     .accesskey = s
+sitedata-cookies-exceptions2 =
+    .label = Kudeatu salbuespenak
+    .accesskey = s
+    .description = Zehaztu dezakezu zein webgunek duten beti edo inoiz baimena cookieak eta guneetako datuak erabiltzeko.
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1266,6 +1287,9 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Helbide-barra
+addressbar-suggest-1 = Aukeratu helbide-barran bistaratu beharreko gomendioak.
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Helbide-barra erabiltzean, gomendatu
 # When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
 addressbar-suggest-firefox-suggest = Aukeratu helbide-barran agertu beharreko gomendio motak.
@@ -1344,6 +1368,7 @@ content-blocking-private-windows = Edukiaren jarraipena leiho pribatuetan
 content-blocking-cross-site-cookies-in-all-windows2 = Guneen arteko cookieak leiho guztietan
 content-blocking-cross-site-tracking-cookies = Guneen arteko cookie jarraipen-egileak
 content-blocking-all-cross-site-cookies-private-windows = Guneen arteko cookieak leiho pribatuetan
+content-blocking-isolate-cross-site-cookies = Isolatu guneen arteko cookieak
 content-blocking-cross-site-tracking-cookies-plus-isolate = Guneen arteko jarraipen cookieak; bakartu gainerako cookieak
 content-blocking-social-media-trackers = Sare sozialetako jarraipen-elementuak
 content-blocking-all-cookies = Cookie guztiak
@@ -1366,6 +1391,9 @@ content-blocking-etp-standard-tcp-title = Cookien erabateko babesa dauka, orain 
 content-blocking-warning-title = Argi!
 content-blocking-and-isolating-etp-warning-description-2 = Hainbat webgunek edukiak ondo ez bistaratzea edo ondo ez ibiltzea eragin lezake ezarpen honek. Gune batek hondatua badirudi, gune horretarako jarraipenaren babesa desgaitu nahiko duzu eduki guztia karga dadin.
 content-blocking-warning-learn-how = Ikasi nola
+content-blocking-baseline-exceptions-3 =
+    .label = Konpondu guneen arazo larriak (gomendatua)
+    .description = Guneak eta hauek eginbideak kargatzen laguntzen du jarraipen-elementuak izan litzaketen oinarrizko elementuak soilik blokeatuz. Ohiko arazo gehienak tratatzen ditu.
 content-blocking-reload-description = Zure fitxak berritu beharko dituzu aldaketa hauek eragina izan dezaten.
 content-blocking-reload-tabs-button =
     .label = Berritu fitxa guztiak
