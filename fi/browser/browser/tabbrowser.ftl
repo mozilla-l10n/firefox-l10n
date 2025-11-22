@@ -348,6 +348,25 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Avaa ryhmä uudessa ikkunassa
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Lisää muistiinpano
+    .accesskey = a
+tab-context-edit-note =
+    .label = Muokkaa muistiinpanoa
+    .accesskey = M
+tab-note-editor-title-create = Lisää muistiinpano
+tab-note-editor-title-edit = Muokkaa muistiinpanoa
+tab-note-editor-text-field =
+    .placeholder = Mitä haluat muistaa tästä välilehdestä?
+tab-note-editor-button-cancel =
+    .label = Peruuta
+    .accesskey = P
+tab-note-editor-button-save =
+    .label = Tallenna
+    .accesskey = T
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -366,3 +385,14 @@ tab-context-separate-split-view =
     .label = Erillinen jaettu näkymä
     .accesskey = t
 tab-context-badge-new = Uusi
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Erilliset välilehdet
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Käänteiset välilehdet
+split-view-menuitem-close-both-tabs =
+    .label = Sulje molemmat välilehdet
