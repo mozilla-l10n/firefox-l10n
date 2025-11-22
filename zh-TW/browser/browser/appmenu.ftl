@@ -212,6 +212,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = { -brand-shorter-name } 的預設除錯選項。額外負荷較高，請只在需要了解瀏覽器行為時使用，勿用於需要較高效能的情境。
 profiler-popup-presets-debug-label =
     .label = 除錯
+profiler-popup-presets-web-compat-description = 對網站相容性進行除錯，而非效能監控的建議預設值。
 profiler-popup-presets-web-compat-label =
     .label = Web Compat
 profiler-popup-presets-custom-label =

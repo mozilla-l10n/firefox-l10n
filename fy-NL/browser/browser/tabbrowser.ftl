@@ -379,6 +379,9 @@ tab-note-editor-text-field =
 tab-note-editor-button-cancel =
     .label = Annulearje
     .accesskey = A
+tab-note-editor-button-save =
+    .label = Bewarje
+    .accesskey = r
 
 ## Split View
 
