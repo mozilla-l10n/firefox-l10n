@@ -162,6 +162,8 @@ mr2022-onboarding-secondary-skip-button-label = تجاوز هذه الخُطوة
 
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = احفظ و واصِل
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = عيّن { -brand-short-name } كمتصفّح مبدئي
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = استورِدها من المتصفّح السابق
 
@@ -370,6 +372,9 @@ onboarding-checklist-extension = أضِف امتدادة
 
 ## Tab Groups feature onboarding strings
 
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = اعثر على مجموعات ألسنتك في قائمة اسرد كل الألسنة في أي وقت.
+tab-groups-onboarding-create-group-title-2 = اعثر على مجموعات ألسنتك هنا في أي وقت.
 tab-groups-onboarding-create-group-no-alltabs-button-title = ابحث عن مجموعاتك من خلال البحث عنها في شريط العناوين.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = ابحث عن مجموعاتك المغلقة عن طريق البحث عنها في شريط العناوين.
 tab-groups-onboarding-dismiss = حسنا
@@ -390,3 +395,21 @@ dismiss-button-label = أهمِل
 sync-to-mobile-button-label = زامن مع الجوّال
 desktop-to-mobile-qr-code-alt =
     .aria-label = رمز QR لتنزيل { -brand-product-name } للجوال
+
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-sync-label = زامن مع { -brand-product-name }
+create-backup-select-tile-button-label = حدّد
+create-backup-back-button-label = السابق
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = جميع البيانات
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = استعد من النسخة الاحتياطية
+restore-from-backup-secondary-button = لا تستعيد
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-secondary-button = تجاوز هذه الخُطوة
+restored-from-backup-success-no-checklist-primary-button = واصِل
