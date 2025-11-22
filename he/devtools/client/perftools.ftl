@@ -113,4 +113,6 @@ perftools-presets-power-label = צריכת חשמל
 perftools-presets-power-description = ערכה לחקירת באגים של צריכת חשמל ב־{ -brand-shorter-name }, עם תקורה נמוכה.
 perftools-presets-debug-label = ניפוי שגיאות
 perftools-presets-debug-description = ערכה לניפוי שגיאות ב־{ -brand-shorter-name }. בעל תקורה גבוהה, אין להשתמש לעבודה על ביצועים אלא להשתמש להתמקדות על התנהגות הדפדפן.
+perftools-presets-web-compat-label = תאימות לאתרים
+perftools-presets-web-compat-description = ערכה מומלצת לאיתור בעיות בתאימות לאתרי אינטרנט.
 perftools-presets-custom-label = התאמה אישית

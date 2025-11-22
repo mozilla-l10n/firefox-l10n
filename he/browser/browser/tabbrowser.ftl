@@ -281,6 +281,20 @@ tab-context-move-tab-to-group =
            *[other] הוספת לשוניות לקבוצה
         }
     .accesskey = ק
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [one] הוספת תצוגה מפוצלת לקבוצה חדשה
+           *[other] הוספת תצוגות מפוצלות לקבוצה חדשה
+        }
+    .accesskey = ק
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [one] הוספת תצוגה מפוצלת לקבוצה
+           *[other] הוספת תצוגות מפוצלות לקבוצה
+        }
+    .accesskey = ק
 tab-context-move-tab-to-group-saved-groups =
     .label = קבוצות סגורות
 tab-group-editor-action-new-tab =
@@ -342,6 +356,25 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = פתיחת קבוצה בחלון חדש
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = הוספת הערה
+    .accesskey = ה
+tab-context-edit-note =
+    .label = עריכה הערה
+    .accesskey = ע
+tab-note-editor-title-create = הוספת הערה
+tab-note-editor-title-edit = עריכה הערה
+tab-note-editor-text-field =
+    .placeholder = מה ברצונך לזכור לגבי לשונית זו?
+tab-note-editor-button-cancel =
+    .label = ביטול
+    .accesskey = ב
+tab-note-editor-button-save =
+    .label = שמירה
+    .accesskey = ש
 
 ## Split View
 

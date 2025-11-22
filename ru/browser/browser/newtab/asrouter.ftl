@@ -192,7 +192,7 @@ firefoxview-cfr-body-v2 = Верните недавно закрытые вкл�
 
 firefoxview-spotlight-promo-title = Поздоровайтесь с { -firefoxview-brand-name }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Хотите вкладку открытую на своем телефоне? Возьмите её. Нужен сайт, который вы только что посетили? Пуф, и он вернулся через { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-subtitle = Хотите вкладку открытую на своём телефоне? Возьмите её. Нужен сайт, который вы только что посетили? Пуф, и он вернулся через { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Посмотреть, как это работает
 firefoxview-spotlight-promo-secondarybutton = Пропустить
 

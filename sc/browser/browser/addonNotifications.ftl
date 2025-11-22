@@ -136,6 +136,7 @@ addon-local-install-no-addon-name-error-file-access = Su cumplementu non podet �
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } non si podet installare ca no est cumpatìbile cun { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } vìolat is polìticas de Mozilla e non si podet installare in { -brand-short-name }.
+addon-install-error-soft-blocked2 = { $addonName } est limitadu e non podet èssere installadu in { -brand-short-name }.
 addon-install-error-blocklisted = { $addonName } non si podet installare ca tenet un'arriscu artu de causare problemas de istabilidade o de seguresa.
 addon-install-error-soft-blocked = { $addonName } vìolat is polìticas de Mozilla e non si podet installare in { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
