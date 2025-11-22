@@ -171,6 +171,55 @@ change-backup-encryption-header = Aldatu babeskopiaren pasahitza
 password-rules-header = Pasahitzaren betebeharrak
 password-rules-length-description = Gutxienez 8 karaktere
 password-rules-email-description = Ezin da zure helbide elektronikoa izan
+password-validity-has-email = Ezin du helbide elektronikoa izan
+password-validity-do-not-match = Pasahitzak ez datoz bat
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Ondo burutu da
+password-rules-a11y-warning =
+    .alt = Abisua
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Kendu pasahitz bidezko babesa
+disable-backup-encryption-description2 = Zure gordetako pasahitz eta ordainketa-metodoen babeskopia gehiagorik ez da egingo.
+disable-backup-encryption-support-link = Zeren babeskopia egingo da?
+disable-backup-encryption-cancel-button = Utzi
+disable-backup-encryption-confirm-button = Kendu pasahitza
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Zure pasahitzak ez ditu beharrezko eskakizunak betetzen. Saiatu beste pasahitz batekin.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Zerbait oker joan da. Saiatu berriro mesedez.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } berreskuratzeko prest dago.
+backup-file-title = Berreskuratu { -brand-short-name }
+backup-file-intro = Itzuli nabigatzera eta berreskuratu zure laster-markak, historia eta bestelako datu guztiak. <a data-l10n-name="backup-file-support-link">Argibide gehiago</a>
+backup-file-path-label = Babeskopia-fitxategia:
+backup-file-encryption-state-label = Zifratuta:
+backup-file-encryption-state-value-encrypted = Bai
+backup-file-encryption-state-value-not-encrypted = Ez
+backup-file-creation-device-label = Gailuak
+backup-file-creation-date-label = Sortua:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Nola berreskuratu:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Ireki aplikazioaren menua ☰ eta joan Ezarpenak > Sinkronizazioa aukerara
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup

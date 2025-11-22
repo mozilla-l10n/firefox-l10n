@@ -199,6 +199,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = { -brand-shorter-name }(r)en audio eta bideo programa-erroreak ikertzeko aurrezarpena.
 profiler-popup-presets-media-label =
     .label = Multimedia
+profiler-popup-presets-ml-description = { -brand-shorter-name }(r)en ikasketa automatikoko programa-erroreak ikertzeko aurrezarpena.
 profiler-popup-presets-ml-label =
     .label = Ikasketa automatikoa
 profiler-popup-presets-networking-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena.
@@ -211,6 +212,8 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = { -brand-shorter-name }(r)en arazketarako aurrezarpena. Eragin negatibo handia du, ez erabili errendimenduarekin lotutako lanerako, bai ordea nabigatzailearen portaera ulertzeko.
 profiler-popup-presets-debug-label =
     .label = Araztu
+profiler-popup-presets-web-compat-label =
+    .label = Web Compat
 profiler-popup-presets-custom-label =
     .label = Pertsonalizatua
 
@@ -293,6 +296,10 @@ appmenuitem-services-relay-description = Abiarazi helbide elektronikoen maskaren
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Babestu lineako zure jarduera
 appmenu-services-header = Nire zerbitzuak
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Probatu Mozillaren bestelako babes-tresnak:
 appmenu-other-protection-header = Probatu { -vendor-short-name }(r)en bestelako babes-tresnak:
 
 ## Profiles panel

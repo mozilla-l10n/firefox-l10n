@@ -123,15 +123,18 @@ addon-install-error-corrupt-file = Ezin izan da gune honetako gehigarria instala
 addon-install-error-file-access = Ezin izan da { $addonName } instalatu { -brand-short-name }(e)k ezin duelako beharrezko fitxategia aldatu.
 addon-install-error-not-signed = { -brand-short-name }(e)k gune honi egiaztatu gabeko gehigarri bat instalatzea eragotzi dio.
 addon-install-error-invalid-domain = Ezin da helbide honetatik { $addonName } gehigarria instalatu.
+addon-install-error-no-addon-name-file-access = Ezin izan da gehigarria instalatu { -brand-short-name }(e)k ezin duelako beharrezko fitxategia aldatu.
 addon-local-install-error-network-failure = Ezin izan da gehigarri hau instalatu fitxategi-sistemako errore bat dela-eta.
 addon-local-install-error-incorrect-hash = Ezin izan da gehigarri hau instalatu ez datorrelako esperotako { -brand-short-name } gehigarriarekin bat.
 addon-local-install-error-corrupt-file = Ezin izan da gehigarri hau instalatu hondatuta dagoela dirudielako.
 addon-local-install-error-file-access = Ezin izan da { $addonName } instalatu { -brand-short-name }(e)k ezin duelako beharrezko fitxategia aldatu.
 addon-local-install-error-not-signed = Ezin izan da gehigarri hau instalatu egiaztatu gabea delako.
+addon-local-install-no-addon-name-error-file-access = Ezin izan da gehigarria instalatu { -brand-short-name }(e)k ezin duelako beharrezko fitxategia aldatu.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Ezin da { $addonName } instalatu ez delako { -brand-short-name } { $appVersion } bertsioarekin bateragarria.
 addon-install-error-hard-blocked = { $addonName } gehigarriak Mozillaren politikak bortxatzen ditu eta ezin da { -brand-short-name }(e)n instalatu.
+addon-install-error-soft-blocked2 = { $addonName } gehigarria mugatuta dago eta ezin da { -brand-short-name }(e)n instalatu.
 addon-install-error-blocklisted = Ezin izan da { $addonName } instalatu egonkortasun- eta segurtasun-arazoak eragiteko arrisku handia daukalako.
 addon-install-error-soft-blocked = { $addonName } gehigarriak Mozillaren politikak bortxatzen ditu eta ezin da { -brand-short-name }(e)n instalatu.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
