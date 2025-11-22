@@ -676,6 +676,9 @@ home-prefs-recommended-by-header-generic =
 home-prefs-stories-header =
     .label = Istorioak
 home-prefs-stories-description = Zure jardueran oinarritutako istorio pertsonalizatuak
+home-prefs-stories-header2 =
+    .label = Istorioak
+    .description = { -brand-product-name } familiak hautatutako aparteko edukia
 
 ##
 
@@ -705,14 +708,24 @@ home-prefs-snippets-description-new = { -vendor-short-name } eta { -brand-produc
 home-prefs-weather-header =
     .label = Eguraldia
 home-prefs-weather-learn-more-link = Argibide gehiago
+home-prefs-widgets-header =
+    .label = Widgetak
 home-prefs-trending-search-header =
     .label = Bilaketa-joerak
 home-prefs-trending-search-description = Gai ezagunak eta askotan bilatutakoak
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Zerrendak
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Tenporizadorea
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Lagundu { -brand-product-name }
 home-prefs-mission-message = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte
 home-prefs-mission-message-learn-more-link = Ezagutu nola
+home-prefs-mission-message2 =
+    .message = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte.
 home-prefs-manage-topics-link = Kudeatu gaiak
 home-prefs-choose-wallpaper-link = Aukeratu horma-papera
 # Variables:
@@ -794,6 +807,10 @@ search-keyword-warning-title = Bikoiztutako gako-hitza
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Aukeratu duzun gako-hitza dagoeneko "{ $name }"(e)k erabiltzen du. Aukeratu beste bat.
 search-keyword-warning-bookmark = Aukeratu duzun gako-hitza dagoeneko laster-marka batek erabiltzen du. Aukeratu beste bat.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Lehendik ere badago "{ $name }" izena duen bilaketa-motorra. Aukeratu beste izen bat mesedez.
 remove-engine-confirmation = Ziur zaude bilaketa-motor hau kendu nahi duzula?
 remove-engine-remove = Kendu
 remove-addon-engine-alert = Bilaketa-motor hau kentzeko, kendu erlazionatutako gehigarria.
@@ -958,6 +975,13 @@ sync-engine-settings =
     .label = Ezarpenak
     .tooltiptext = Aldatu dituzun 'Orokorra', 'Pribatutasuna' eta 'Segurtasuna' ataletako ezarpenak
     .accesskey = z
+sync-choose-what-to-sync-dialog4 =
+    .title = Kudeatu zer sinkronizatzen den konektatutako zure gailu guztien artean
+    .style = min-width: 36em;
+    .buttonlabelaccept = Gorde
+    .buttonaccesskeyaccept = G
+    .buttonlabelextra2 = Deskonektatu…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 
@@ -1011,10 +1035,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Pasahitzak
     .searchkeywords = saio-hasierak
+forms-passwords-header =
+    .label = Pasahitzak
+    .aria-label = Pasahitzak
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Galdetu pasahitzak gordetzea
     .accesskey = G
+forms-manage-password-exceptions =
+    .label = Kudeatu pasahitzen salbuespenak
+    .accesskey = K
 forms-exceptions =
     .label = Salbuespenak…
     .accesskey = n
@@ -1051,6 +1081,18 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Erabili pasahitz nagusia
     .accesskey = n
+forms-primary-pw-set =
+    .label = Ezarri pasahitz nagusia
+forms-primary-pw-on =
+    .label = Pasahitz nagusia aktibatuta dago
+forms-primary-pw-change-2 =
+    .label = Aldatu pasahitz nagusia
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Desaktibatu
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Behartu gailuan saioa hastea pasahitzak bete eta kudeatzeko
 forms-primary-pw-learn-more-link = Argibide gehiago
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1071,6 +1113,7 @@ forms-windows-sso =
     .label = Baimendu Windows saio-hasiera bakarra (SSO) Microsoft-, laneko eta eskolako kontuentzat
 forms-windows-sso-learn-more-link = Argibide gehiago
 forms-windows-sso-desc = Kudeatu kontuak zure gailuaren ezarpenetan
+windows-passkey-settings-label = Kudeatu sarbide-gakoak sistemaren ezarpenetan
 
 ## OS Authentication dialog
 
@@ -1097,6 +1140,9 @@ autofill-payment-methods-checkbox-submessage = Kreditu eta zordunketa txartelak 
     .accesskey = b
 autofill-saved-payment-methods-button = Gordetako ordainketa metodoak
     .accesskey = d
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Behartu gailuan saioa hastea ordainketa metodoak bete eta kudeatzeko
+    .accesskey = o
 
 ## Privacy Section - History
 
@@ -1146,7 +1192,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookieak eta guneetako datuak
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Gunearen datuen eta cachearen tamaina kalkulatzen…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Gordetako cookiek, historiak, gunearen datuek eta cacheak une honetan <strong>{ $value } { $unit }</strong> hartzen dute diskoan.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1170,6 +1222,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Guneen arteko jarraipen-elementuak
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Guneen arteko jarraipen cookieak
+sitedata-option-block-cross-site-cookies2 =
+    .label = Isolatu guneen arteko cookieak
 sitedata-option-block-cross-site-cookies =
     .label = Guneen arteko jarraipen cookieak; bakartu guneen arteko beste cookieak
 sitedata-option-block-unvisited =
@@ -1178,6 +1232,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Guneen arteko cookie guztiak (webguneak apur litzake)
 sitedata-option-block-all =
     .label = Cookie guztiak (webguneak haustea eragingo du)
+sitedata-clear2 =
+    .label = Garbitu nabigatze-datuak
+    .accesskey = G
+sitedata-settings2 =
+    .label = Kudeatu nabigatze-datuak
+    .accesskey = K
 sitedata-clear =
     .label = Garbitu datuak…
     .accesskey = G
@@ -1207,6 +1267,8 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Helbide-barra
 addressbar-suggest = Helbide-barra erabiltzean, gomendatu
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Aukeratu helbide-barran agertu beharreko gomendio motak.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Argibide gehiago
@@ -1239,6 +1301,13 @@ addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hob
 addressbar-locbar-showrecentsearches-option =
     .label = Erakutsi azken bilaketak
     .accesskey = r
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = { -brand-short-name }(r)en gomendioak
+addressbar-locbar-suggest-nonsponsored-desc = Eskuratu zure bilaketarekin erlazionatutako webean zeharreko gomendioak.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Babesleen gomendioak
+addressbar-locbar-suggest-sponsored-desc = Lagundu { -brand-short-name } tartekako babesleen gomendioekin.
 addressbar-quickactions-learn-more = Argibide gehiago
 addressbar-dismissed-suggestions-label = Baztertutako gomendioak
 addressbar-restore-dismissed-suggestions-button =
@@ -1283,6 +1352,10 @@ content-blocking-all-windows-tracking-content = Edukiaren jarraipena leiho guzti
 content-blocking-all-cross-site-cookies = Guneen arteko cookie guztiak
 content-blocking-cryptominers = Kriptomeatzariak
 content-blocking-fingerprinters = Hatz-marka bidezko jarraipena egiten duten elementuak
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Ezagunak diren eta susmopeko hatz-marka bidezko jarraipena
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
