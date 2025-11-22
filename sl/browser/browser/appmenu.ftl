@@ -6,7 +6,7 @@
 ## App Menu
 
 appmenuitem-banner-update-downloading =
-    .label = Prenašanje posodobitve za { -brand-shorter-name }
+    .label = Prenašanje posodobitve za { -brand-shorter-name(sklon: "tozilnik") }
 appmenuitem-banner-update-available =
     .label = Na voljo je posodobitev – prenesi zdaj
 appmenuitem-banner-update-manual =
