@@ -211,6 +211,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = ערכה לניפוי שגיאות ב־{ -brand-shorter-name }. בעל תקורה גבוהה, אין להשתמש לעבודה על ביצועים אלא להשתמש להתמקדות על התנהגות הדפדפן.
 profiler-popup-presets-debug-label =
     .label = ניפוי שגיאות
+profiler-popup-presets-web-compat-description = ערכה מומלצת לאיתור בעיות בתאימות לאתרי אינטרנט.
+profiler-popup-presets-web-compat-label =
+    .label = תאימות לאתרים
 profiler-popup-presets-custom-label =
     .label = התאמה אישית
 

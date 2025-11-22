@@ -1085,9 +1085,21 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = ססמאות שמורות
     .accesskey = ס
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = הגנות נוספות
 forms-primary-pw-use =
     .label = שימוש בססמה ראשית
     .accesskey = ש
+forms-primary-pw-set =
+    .label = הגדרת ססמה ראשית
+forms-primary-pw-on =
+    .label = ססמה ראשית פעילה
+forms-primary-pw-change-2 =
+    .label = שינוי ססמה ראשית
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = כיבוי
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = לדרוש פרטי התחברות של המכשיר כדי למלא ולנהל ססמאות
@@ -1153,6 +1165,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = שמירה ומילוי אוטומטי של פרטי אמצעי תשלום
     .accesskey = ת
+autofill-payment-methods-manage-payments-title =
+    .heading = ניהול אמצעי תשלום
 autofill-payment-methods-manage-payments-button =
     .label = ניהול אמצעי תשלום
     .accesskey = נ
@@ -1160,6 +1174,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = לדרוש פרטי התחברות של המכשיר כדי למלא אוטומטית ולנהל אמצעי תשלום
     .accesskey = פ
+autofill-payment-methods-add-button = הוספת אמצעי תשלום חדש
+payments-list-header =
+    .label = אמצעי תשלום
+payments-list-item-label = <strong>אמצעי תשלום</strong>
+payments-remove-payment-prompt-title = להסיר את אמצעי התשלום הזה?
+payments-remove-payment-prompt-confirm-button = הסרה
+payments-remove-payment-prompt-cancel-button = ביטול
 autofill-addresses-title = כתובות ועוד
 autofill-addresses-header =
     .aria-label = כתובות ועוד
@@ -1169,6 +1190,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = ניהול כתובות ועוד
     .accesskey = נ
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
