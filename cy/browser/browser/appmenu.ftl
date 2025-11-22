@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Rhagosodiad ar gyfer dadfygio yn { -brand-shorter-name }. Gorbenion uchel, peidiwch â'i ddefnyddio ar gyfer gwaith perfformiad ond yn hytrach ei ddefnyddio ar gyfer canolbwyntio ar ddeall ymddygiad porwyr.
 profiler-popup-presets-debug-label =
     .label = Dadfygio
+profiler-popup-presets-web-compat-description = Rhagosodiad sy'n cael eu hargymell ar gyfer dadfygio materion cydweddu gwe mewn gwefannau, yn hytrach nag olrhain perfformiad.
+profiler-popup-presets-web-compat-label =
+    .label = Web Compat
 profiler-popup-presets-custom-label =
     .label = Cyfaddas
 

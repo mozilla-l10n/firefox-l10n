@@ -1036,10 +1036,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = 密碼
     .searchkeywords = 登入資訊
+forms-passwords-header =
+    .label = 密碼
+    .aria-label = 密碼
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = 提示儲存密碼
     .accesskey = A
+forms-manage-password-exceptions =
+    .label = 管理密碼例外
+    .accesskey = M
 forms-exceptions =
     .label = 例外網站…
     .accesskey = x
@@ -1070,12 +1076,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = 自動填寫帳號與密碼
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = 儲存並自動填寫使用者名稱與密碼
+    .accesskey = f
 forms-saved-passwords =
     .label = 已存密碼
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = 管理儲存的密碼
+    .accesskey = d
+forms-saved-passwords-searchkeywords = 您的電腦上儲存了下列網站的登入資訊
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = 其他保護
 forms-primary-pw-use =
     .label = 使用主控密碼
     .accesskey = U
+forms-primary-pw-set =
+    .label = 設定主控密碼
+forms-primary-pw-on =
+    .label = 已開啟主控密碼
+forms-primary-pw-change-2 =
+    .label = 更改主控密碼
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = 關閉主控密碼
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = 填寫與管理密碼時需進行裝置登入驗證
@@ -1141,6 +1166,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = 儲存並自動填寫付款資訊
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = 管理付款方式
 autofill-payment-methods-manage-payments-button =
     .label = 管理付款方式
     .accesskey = m
@@ -1148,6 +1175,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = 自動填寫與管理付款資訊時，需進行裝置登入驗證
     .accesskey = o
+autofill-payment-methods-add-button = 新增付款方式
+payments-list-header =
+    .label = 付款方式
+payments-list-item-label = <strong>付款方式</strong>
+payments-remove-payment-prompt-title = 要移除這筆付款方式嗎？
+payments-remove-payment-prompt-confirm-button = 移除
+payments-remove-payment-prompt-cancel-button = 取消
 autofill-addresses-title = 地址與更多資訊
 autofill-addresses-header =
     .aria-label = 地址與更多資訊
@@ -1157,6 +1191,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = 管理地址與更多資訊
     .accesskey = M
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 

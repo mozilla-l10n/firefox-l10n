@@ -673,6 +673,17 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Rhestr newydd
+newtab-widget-section-title = Teclynnau
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = Cuddio teclynnau
+    .aria-label = Cuddio pob teclyn
+newtab-widget-section-maximize =
+    .title = Ehangu teclynnau
+    .aria-label = Ehangu pob teclyn i'w faint llawn
+newtab-widget-section-minimize =
+    .title = Lleihau teclynnau
+    .aria-label = Lleihau pob teclyn i faint llai
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
