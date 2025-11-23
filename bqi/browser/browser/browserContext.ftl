@@ -253,6 +253,12 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ایمیل کردن آرنگ…
     .accesskey = a
+main-context-menu-save-to-pocket =
+    .label = زفت کردن بلگه من { -pocket-brand-name }
+    .accesskey = k
+main-context-menu-send-to-device =
+    .label = فشناڌن بلگه و دسگا
+    .accesskey = n
 
 ##
 
