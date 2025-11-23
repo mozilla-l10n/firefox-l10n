@@ -281,6 +281,20 @@ tab-context-move-tab-to-group =
            *[other] Aldoni langetojn al grupo
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Aldoni apartigitan vidon al nova grupo
+           *[other] Aldoni apartigitajn vidojn al nova grupo
+        }
+    .accesskey = v
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Aldoni apartigitan vidon al grupo
+           *[other] Aldoni apartigitajn vidojn al grupo
+        }
+    .accesskey = a
 tab-context-move-tab-to-group-saved-groups =
     .label = Fermitaj grupoj
 tab-group-editor-action-new-tab =
@@ -353,6 +367,14 @@ tab-context-edit-note =
     .accesskey = M
 tab-note-editor-title-create = Aldoni noton
 tab-note-editor-title-edit = Modifi noton
+tab-note-editor-text-field =
+    .placeholder = Kion vi volas memori pri tiu ĉi langeto?
+tab-note-editor-button-cancel =
+    .label = Nuligi
+    .accesskey = N
+tab-note-editor-button-save =
+    .label = Konservi
+    .accesskey = K
 
 ## Split View
 
@@ -375,6 +397,11 @@ tab-context-badge-new = Nova
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Apartigi langetojn
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
     .label = Inversigi langetojn
+split-view-menuitem-close-both-tabs =
+    .label = Fermi ambaŭ langetojn

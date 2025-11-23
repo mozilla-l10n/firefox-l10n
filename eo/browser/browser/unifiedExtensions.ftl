@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Administri etendaĵon
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } estas limigita. Uzi ĝin povus esti riske.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } malobservas la politikojn de Mozilla. Uzi ĝin povas esti riske.
 
 ## Extension's context menu
@@ -60,6 +63,11 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Pli da informo
     .aria-label = Pli da informo: kelkaj etendaĵoj ne estas permesitaj
 unified-extensions-mb-about-addons-link = Malfermi la agordojn de etendaĵoj
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } malaktivigita
+    .message = Tiu etendaĵo estas limigita kaj estis malaktivigita. Vi plovas aktivigi ĝin en la agordoj, sed tiu ago povas esti riska.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
