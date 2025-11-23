@@ -356,6 +356,12 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Grubu yeni pencerede aç
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Not ekle
+    .accesskey = N
+
 ## Split View
 
 # Split view tabs display their respective contents side by side

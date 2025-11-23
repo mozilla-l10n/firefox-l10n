@@ -720,6 +720,8 @@ home-prefs-weather-header =
     .label = Hava durumu
 home-prefs-weather-description = Bugünkü hava durumu tahmini
 home-prefs-weather-learn-more-link = Daha fazla bilgi al
+home-prefs-widgets-header =
+    .label = Araçlar
 home-prefs-trending-search-header =
     .label = Gündemdeki aramalar
 home-prefs-trending-search-description = Popüler ve sıkça aranan konular
@@ -1045,9 +1047,15 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Parolalar
     .searchkeywords = hesaplar
+forms-passwords-header =
+    .label = Parolalar
+    .aria-label = Parolalar
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Parolaları kaydetmeyi öner
+    .accesskey = P
+forms-manage-password-exceptions =
+    .label = Parola istisnalarını yönet
     .accesskey = P
 forms-exceptions =
     .label = İstisnalar…
@@ -1079,12 +1087,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Kullanıcı adı ve parolaları otomatik doldur
     .accesskey = d
+forms-fill-usernames-and-passwords-2 =
+    .label = Kullanıcı adlarını ve parolaları kaydedip otomatik doldur
+    .accesskey = u
 forms-saved-passwords =
     .label = Kayıtlı parolalar
     .accesskey = o
+forms-saved-passwords-2 =
+    .label = Kayıtlı parolaları yönet
+    .accesskey = a
+forms-saved-passwords-searchkeywords = Aşağıdaki sitelerin giriş bilgileri bilgisayarınızda kayıtlıdır
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Ek korumalar
 forms-primary-pw-use =
     .label = Ana parola kullan
     .accesskey = n
+forms-primary-pw-set =
+    .label = Ana parola belirle
+forms-primary-pw-on =
+    .label = Ana parola AÇIK
+forms-primary-pw-change-2 =
+    .label = Ana parolayı değiştir
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Kapat
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Parolaları doldurmak ve yönetmek için cihazdan giriş yapmayı zorunlu tut
@@ -1150,6 +1177,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Ödeme bilgilerini kaydet ve otomatik doldur
     .accesskey = Ö
+autofill-payment-methods-manage-payments-title =
+    .heading = Ödeme yöntemlerini yönet
 autofill-payment-methods-manage-payments-button =
     .label = Ödeme yöntemlerini yönet
     .accesskey = m
@@ -1157,6 +1186,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Ödeme yöntemlerini otomatik doldurmak ve yönetmek için cihazdan giriş yapmayı zorunlu tut
     .accesskey = Ö
+autofill-payment-methods-add-button = Yeni ödeme yöntemi ekle
+payments-list-header =
+    .label = Ödeme yöntemleri
+payments-list-item-label = <strong>Ödeme yöntemleri</strong>
+payments-remove-payment-prompt-title = Bu ödeme yöntemi silinsin mi?
+payments-remove-payment-prompt-confirm-button = Sil
+payments-remove-payment-prompt-cancel-button = Vazgeç
 autofill-addresses-title = Adresler ve daha fazlası
 autofill-addresses-header =
     .aria-label = Adresler ve daha fazlası
@@ -1166,6 +1202,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adresleri ve daha fazlasını yönet
     .accesskey = d
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 

@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = { -brand-shorter-name } tarayıcısında hata ayıklama ayarı. Yüksek ek yük nedeniyle performans çalışması için uygun değildir, tarayıcı davranışını anlamaya odaklanmak için kullanın.
 profiler-popup-presets-debug-label =
     .label = Hata ayıklama
+profiler-popup-presets-web-compat-description = Performansı izlemek için değil de web sitelerindeki web uyumluluğu sorunlarıyla ilgili hata ayıklamak için önerilen ayarlar.
+profiler-popup-presets-web-compat-label =
+    .label = Web uyumluluğu
 profiler-popup-presets-custom-label =
     .label = Özel
 
