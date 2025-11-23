@@ -343,6 +343,17 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Malfermi grupon en nova fenestro
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Aldoni noton
+    .accesskey = n
+tab-context-edit-note =
+    .label = Modifi noton
+    .accesskey = M
+tab-note-editor-title-create = Aldoni noton
+tab-note-editor-title-edit = Modifi noton
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
