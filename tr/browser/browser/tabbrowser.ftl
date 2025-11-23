@@ -361,6 +361,19 @@ tab-group-context-open-saved-group-in-new-window =
 tab-context-add-note =
     .label = Not ekle
     .accesskey = N
+tab-context-edit-note =
+    .label = Notu düzenle
+    .accesskey = o
+tab-note-editor-title-create = Not ekle
+tab-note-editor-title-edit = Notu düzenle
+tab-note-editor-text-field =
+    .placeholder = Bu sekmeyle ilgili neyi hatırlamak istersiniz?
+tab-note-editor-button-cancel =
+    .label = Vazgeç
+    .accesskey = z
+tab-note-editor-button-save =
+    .label = Kaydet
+    .accesskey = K
 
 ## Split View
 

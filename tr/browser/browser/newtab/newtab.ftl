@@ -336,7 +336,7 @@ newtab-custom-widget-lists-toggle =
     .label = Listeler
 newtab-custom-widget-timer-toggle =
     .label = Sayaç
-newtab-custom-widget-section-title = Widget’lar
+newtab-custom-widget-section-title = Araçlar
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Kapat

@@ -65,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Daha fazla bilgi alın
 unified-extensions-mb-about-addons-link = Uzantı ayarlarına git
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } devre dışı
+    .message =
+        Bu uzantı kısıtlanmış olduğu için devre dışı bırakıldı.
+        Ayarlardan uzantıyı etkinleştirebilirsiniz ama bu riskli olabilir.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } devre dışı
     .message =
