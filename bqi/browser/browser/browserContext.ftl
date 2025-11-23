@@ -112,6 +112,27 @@ main-context-menu-save-link-to-pocket =
     .label = زفت کردن لینگ من { -pocket-brand-name }
     .accesskey = o
 
+##
+
+main-context-menu-copy-email =
+    .label = لف گیری نشۊوی ایمیل
+    .accesskey = l
+main-context-menu-copy-phone =
+    .label = لف گیری نومره تیلیفووݩ
+    .accesskey = o
+main-context-menu-copy-link-simple =
+    .label = لف گیری لینگ
+    .accesskey = L
+main-context-menu-preview-link =
+    .label = پؽش نشووݩ لینگ
+    .accesskey = J
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = لف گیری تمیس لینگ
+    .accesskey = u
+
 ## Media (video/audio) controls
 ##
 ## The accesskey for "Play" and "Pause" are the
@@ -146,6 +167,16 @@ main-context-menu-media-play-speed-faster-2 =
     .label = 1.5×
 main-context-menu-media-play-speed-fastest-2 =
     .label = 2×
+main-context-menu-media-loop =
+    .label = هلقه
+    .accesskey = L
+
+## The access keys for "Show Controls" and "Hide Controls" are the same
+## because the two context-menu items are mutually exclusive.
+
+main-context-menu-media-show-controls =
+    .label = نشووݩ داڌن کونتورولا
+    .accesskey = C
 
 ##
 
