@@ -372,3 +372,9 @@ tab-context-separate-split-view =
     .label = Fini la apartigitan vidon
     .accesskey = F
 tab-context-badge-new = Nova
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Inversigi langetojn
