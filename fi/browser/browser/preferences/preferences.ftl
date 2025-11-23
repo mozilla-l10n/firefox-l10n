@@ -722,6 +722,9 @@ home-prefs-weather-learn-more-link = Lue lisää
 home-prefs-trending-search-header =
     .label = Nousussa olevat haut
 home-prefs-trending-search-description = Suosittuja ja usein haettuja aiheita
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Ajastin
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Tue { -brand-product-name }ia
@@ -1043,6 +1046,9 @@ forms-passwords-header =
 forms-ask-to-save-passwords =
     .label = Kysy salasanojen tallentamisesta
     .accesskey = a
+forms-manage-password-exceptions =
+    .label = Hallinnoi salasanapoikkeuksia
+    .accesskey = k
 forms-exceptions =
     .label = Poikkeukset…
     .accesskey = e
@@ -1083,6 +1089,9 @@ forms-saved-passwords-2 =
     .label = Hallinnoi tallennettuja salasanoja
     .accesskey = s
 forms-saved-passwords-searchkeywords = Seuraavien sivustojen kirjautumistiedot ovat tallennettuna tietokoneellesi
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Lisäsuojaukset
 forms-primary-pw-use =
     .label = Käytä pääsalasanaa
     .accesskey = K
