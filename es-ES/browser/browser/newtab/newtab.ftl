@@ -669,6 +669,12 @@ newtab-widget-section-title = Widgets
 newtab-widget-section-hide-all-button =
     .title = Ocultar widgets
     .aria-label = Ocultar todos los widgets
+newtab-widget-section-maximize =
+    .title = Expandir widgets
+    .aria-label = Expandir todos los widgets a tamaño completo
+newtab-widget-section-minimize =
+    .title = Minimizar widgets
+    .aria-label = Colapsar todos los widget al tamaño compacto
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

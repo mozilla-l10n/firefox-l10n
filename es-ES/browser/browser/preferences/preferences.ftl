@@ -60,6 +60,7 @@ pane-experimental-description2 = Cambiar los ajustes de configuración avanzada 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = ¡Pruebe nuestras funciones experimentales! Están en desarrollo y evolucionando, lo que podría afectar el funcionamiento de { -brand-short-name }. Solo recibimos datos sobre el uso que hace de estas funciones si tiene <a data-l10n-name="data-collection">datos técnicos y de interacción</a> activados.
 pane-experimental-description3 = ¡Pruebe nuestras funciones experimentales! Están en desarrollo y evolucionando, lo que podría afectar el funcionamiento de { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predeterminados
@@ -720,6 +721,8 @@ home-prefs-weather-header =
     .label = El tiempo
 home-prefs-weather-description = El pronóstico para hoy de un vistazo
 home-prefs-weather-learn-more-link = Saber más
+home-prefs-widgets-header =
+    .label = Widgets
 home-prefs-trending-search-header =
     .label = Tendencias de búsqueda
 home-prefs-trending-search-description = Temas populares y buscados con frecuencia
@@ -734,6 +737,8 @@ home-prefs-support-firefox-header =
     .label = Apoyar a { -brand-product-name }
 home-prefs-mission-message = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor
 home-prefs-mission-message-learn-more-link = Descubra cómo
+home-prefs-mission-message2 =
+    .message = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor.
 home-prefs-manage-topics-link = Administrar temas
 home-prefs-choose-wallpaper-link = Elija un fondo de pantalla
 # Variables:
@@ -1043,10 +1048,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Contraseñas
     .searchkeywords = inicios de sesión
+forms-passwords-header =
+    .label = Contraseñas
+    .aria-label = Contraseñas
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Preguntar para guardar contraseñas
     .accesskey = a
+forms-manage-password-exceptions =
+    .label = Administrar excepciones de contraseña
+    .accesskey = m
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -1077,12 +1088,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Completar nombres de usuario y contraseñas automáticamente
     .accesskey = C
+forms-fill-usernames-and-passwords-2 =
+    .label = Guardar y autocompletar nombres de usuario y contraseñas
+    .accesskey = u
 forms-saved-passwords =
     .label = Contraseñas guardadas
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Administrar contraseñas guardadas
+    .accesskey = d
+forms-saved-passwords-searchkeywords = Se guardan en su equipo los inicios de sesión de los siguientes sitios
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Protecciones adicionales
 forms-primary-pw-use =
     .label = Usar una contraseña maestra
     .accesskey = U
+forms-primary-pw-set =
+    .label = Establecer contraseña maestra
+forms-primary-pw-on =
+    .label = La contraseña maestra está activada
+forms-primary-pw-change-2 =
+    .label = Cambiar la contraseña maestra
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Desactivar
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Requerir inicio de sesión en el dispositivo para introducir y administrar contraseñas
@@ -1148,6 +1178,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Guardar y autocompletar métodos de pago
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Administrar métodos de pago
 autofill-payment-methods-manage-payments-button =
     .label = Administrar métodos de pago
     .accesskey = m
@@ -1155,6 +1187,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Requerir inicio de sesión en el dispositivo para autocompletar y administrar métodos de pago
     .accesskey = o
+autofill-payment-methods-add-button = Añadir nuevo método de pago
+payments-list-header =
+    .label = Métodos de pago
+payments-list-item-label = <strong>Métodos de pago</strong>
+payments-remove-payment-prompt-title = ¿Eliminar este método de pago?
+payments-remove-payment-prompt-confirm-button = Eliminar
+payments-remove-payment-prompt-cancel-button = Cancelar
 autofill-addresses-title = Direcciones y más
 autofill-addresses-header =
     .aria-label = Direcciones y más
@@ -1164,6 +1203,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Administrar direcciones y más
     .accesskey = A
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
