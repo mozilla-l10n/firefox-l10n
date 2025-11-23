@@ -197,6 +197,12 @@ main-context-menu-media-watch-pip =
 main-context-menu-image-reload =
     .label = بار ونی دووارته شؽوات
     .accesskey = R
+main-context-menu-image-view-new-tab =
+    .label = گۊشیڌن شؽوات من بلگه نۊ
+    .accesskey = I
+main-context-menu-video-view-new-tab =
+    .label = گۊشیڌن ویدیو من بلگه نۊ
+    .accesskey = i
 main-context-menu-image-copy =
     .label = لف گیری ز شؽوات
     .accesskey = y
@@ -215,6 +221,38 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = ایمیل کردن شؽوات…
     .accesskey = g
+main-context-menu-image-set-image-as-background =
+    .label = سامووݩ شؽوات و عونوان پس زمینه دسکتاپ…
+    .accesskey = S
+main-context-menu-image-copy-text =
+    .label = لف گیری هؽل ز شؽوات
+    .accesskey = x
+main-context-menu-image-info =
+    .label = نیشتن دووسمندیا شؽوات
+    .accesskey = f
+main-context-menu-image-desc =
+    .label = نیشتن توزیهات
+    .accesskey = D
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = پیتینیڌن شؽوات وا { $engine }
+    .accesskey = e
+main-context-menu-video-save-as =
+    .label = زفت کردن ویدیو و عونوان…
+    .accesskey = v
+main-context-menu-audio-save-as =
+    .label = زفت کردن آرنگ و عونوان…
+    .accesskey = v
+main-context-menu-video-take-snapshot =
+    .label = گرؽڌن شؽوات دمۊوی…
+    .accesskey = S
+main-context-menu-video-email =
+    .label = ایمیل کردن ویدیو…
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = ایمیل کردن آرنگ…
+    .accesskey = a
 
 ##
 
