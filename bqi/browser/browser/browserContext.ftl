@@ -16,6 +16,10 @@ toolbar-button-back-2 =
 
 ## Forward
 
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = جلاو رئڌن
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -86,6 +90,27 @@ main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = آلشت نشووک
     .accesskey = m
     .tooltiptext = آلشت نشووک ({ $shortcut })
+main-context-menu-open-link =
+    .label = گۊشیڌن لینگ
+    .accesskey = O
+main-context-menu-open-link-new-tab =
+    .label = گۊشیڌن لینگ من بلگه نۊ
+    .accesskey = T
+main-context-menu-open-link-new-window =
+    .label = گۊشیڌن لینگ من نیمدری نۊ
+    .accesskey = d
+main-context-menu-open-link-new-private-window =
+    .label = گۊشیڌن لینگ من نیمدری سیخومی نۊ
+    .accesskey = P
+main-context-menu-bookmark-link-2 =
+    .label = نشووک ناهاڌن لینگ…
+    .accesskey = B
+main-context-menu-save-link =
+    .label = زفت کردن لینگ و عونوان…
+    .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = زفت کردن لینگ من { -pocket-brand-name }
+    .accesskey = o
 
 ## Media (video/audio) controls
 ##
