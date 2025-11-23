@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Prasetel untuk debugging di { -brand-shorter-name }. Profiler ini memiliki overhead tinggi, jangan gunakan untuk kinerja tetapi gunakan untuk fokus pada pemahaman perilaku peramban.
 profiler-popup-presets-debug-label =
     .label = Debug
+profiler-popup-presets-web-compat-description = Prasetel yang disarankan untuk mengawakutu masalah kompatibilitas web di situs web, daripada melacak kinerja.
+profiler-popup-presets-web-compat-label =
+    .label = Kompat Web
 profiler-popup-presets-custom-label =
     .label = Khusus
 
