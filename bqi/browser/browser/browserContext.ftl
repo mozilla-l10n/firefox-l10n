@@ -284,5 +284,8 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins2 =
     .label = دؽوۉداری و من ٱووڌنا
     .accesskey = M
+main-context-menu-manage-passwords =
+    .label = دؽوۉداری رزما
+    .accesskey = M
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = نۊ
