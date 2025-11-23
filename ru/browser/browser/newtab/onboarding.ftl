@@ -274,8 +274,8 @@ mr2022-onboarding-colorway-description-innovator = <b>Вы — Новатор.</
 
 mr2022-onboarding-mobile-download-title = Переходите с ноутбука на телефон и обратно
 mr2022-onboarding-mobile-download-subtitle = Возьмите вкладки с одного устройства, и продолжайте с того места, на котором остановились, на другом. Также синхронизируйте свои закладки и пароли везде, где вы используете { -brand-product-name }.
-mr2022-onboarding-mobile-download-cta-text = Отсканируйте QR-код, чтобы загрузить { -brand-product-name } для мобильных устройств, или <a data-l10n-name="download-label">отправьте себе ссылку для загрузки.</a>
-mr2022-onboarding-no-mobile-download-cta-text = Отсканируйте QR-код, чтобы загрузить { -brand-product-name } на смартфон.
+mr2022-onboarding-mobile-download-cta-text = Отсканируйте QR-код, чтобы скачать { -brand-product-name } для мобильных устройств, или <a data-l10n-name="download-label">отправьте себе ссылку для скачивания.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Отсканируйте QR-код, чтобы скачать { -brand-product-name } на мобильное устройство.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -471,7 +471,7 @@ multi-profile-callout-cta = Создать профиль
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Загрузите, синхронизируйте и вперёд!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
-desktop-to-mobile-subtitle = Отсканируйте QR-код, чтобы загрузить { -brand-product-name } для мобильных устройств. После установки выберите «Синхронизировать с мобильным», чтобы получить доступ к своим паролям, закладкам и многому другому, где бы вы ни находились.
+desktop-to-mobile-subtitle = Отсканируйте QR-код, чтобы скачать { -brand-product-name } для мобильных устройств. После установки выберите «Синхронизировать с мобильным», чтобы получить доступ к своим паролям, закладкам и многому другому, где бы вы ни находились.
 dismiss-button-label = Скрыть
 sync-to-mobile-button-label = Синхронизировать с мобильным
 desktop-to-mobile-qr-code-alt =
