@@ -151,6 +151,8 @@ about-glean-button-watch = Observi
 about-glean-button-unwatch = Ne plu observi
 about-glean-no-data-to-display = Neniu datumo montrebla.
 # Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> statistikoj ne estas ankoraŭ subtenataj en la video de <code>about:glean</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Etikeditaj statistikoj ne estas ankoraŭ subtenataj en la vido de <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Nekonata tipo de statistiko.
 about-glean-enable-new-features-promo =

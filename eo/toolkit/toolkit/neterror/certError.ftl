@@ -107,6 +107,12 @@ fp-cert-error-code = Erarkodo: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } ne fidas { $hostname } ĉar ĝi ne povis pruvi ĝian observon de la publikaj postuloj pri atestila travideblo.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Verŝajne temas pri nenio grava, sed eble estas problemo en la retejo.
 fp-learn-more-about-secure-connection-failures = Pli da informo pri malsukceso de sekuraj konektoj
 fp-learn-more-about-cert-issues = Pli da informo pri ĉi tiaj atestilaj problemoj
 fp-learn-more-about-time-related-errors = Pli da informo pri solvo de problemoj rilatitaj kun la dato kaj horo
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Kaŝi spertulajn elementojn
 fp-certerror-override-exception-button = Daŭrigi al { $hostname } (riska)
 fp-certerror-intro = { -brand-short-name } eltrovis eble gravan sekurecan problemon kun <strong>{ $hostname }</strong>. Iu kiu ŝajnigas esti tiu retejo povus ŝteli aferojn, ekzemple kreditkartajn informojn, pasvortojn aŭ retpoŝtajn mesaĝojn.
 fp-certerror-expired-into = { -brand-short-name } eltrovis sekurecan problemon kun <strong>{ $hostname }</strong>. Ĉu la retejo ne estas bone agordita ĉu la horloĝo en via aparato ne havas la ĝustan daton/horon.
+fp-certerror-transparency-intro = Io, kio pretendas esti <strong>{ $hostname }</strong>, povus klopodi ŝteli aferojn kiel informojn de kreditkaroj, pasvortojn aŭ retpoŝtajn mesaĝojn.

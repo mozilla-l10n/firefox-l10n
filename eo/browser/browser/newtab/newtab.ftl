@@ -669,6 +669,12 @@ newtab-widget-section-title = Komponantoj
 newtab-widget-section-hide-all-button =
     .title = Kaŝi komponantojn
     .aria-label = Kaŝi ĉiujn komponantojn
+newtab-widget-section-maximize =
+    .title = Malfaldi komponantojn
+    .aria-label = Malfaldi ĉiujn komponantojn al normala grando
+newtab-widget-section-minimize =
+    .title = Plejetigi komponantojn
+    .aria-label = Faldi ĉiujn komponantojn en kompakta grando
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

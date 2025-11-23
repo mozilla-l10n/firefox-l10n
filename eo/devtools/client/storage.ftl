@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Senvalidiĝo / Maksimuma daŭro
 storage-table-headers-cookies-size = Grando
 storage-table-headers-cookies-last-accessed = Lasta aliro
 storage-table-headers-cookies-creation-time = Kreita
+storage-table-headers-cookies-update-time = Ĝisdatigita
 storage-table-headers-cache-status = Stato
 storage-table-headers-extension-storage-area = Konserveja spaco
 
