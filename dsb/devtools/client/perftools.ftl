@@ -157,4 +157,6 @@ perftools-presets-power-label = Energija
 perftools-presets-power-description = Pśednastajenje za wuslěźenje zmólkow wužywanja energije w { -brand-shorter-name }, z niskeju pótrjebu.
 perftools-presets-debug-label = Za zmólkami pytaś
 perftools-presets-debug-description = Pśednastajenje za pytanje zmólkow w { -brand-shorter-name }. Wusoka dodatna śěža, njewužywajśo jo za wugbaśowe źěło, ale wužywajśo jo, aby se na rozměśe zaźaržanja wobglědowaka fokusěrował.
+perftools-presets-web-compat-label = Webkompatibelnosć
+perftools-presets-web-compat-description = Dopórucone pśednastajenje za pytanje problemow z webkompatibelnosću we websedłach, město až se wugbaśeju slědujo.
 perftools-presets-custom-label = Swójski

@@ -345,6 +345,23 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Άνοιγμα ομάδας σε νέο παράθυρο
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Προσθήκη σημείωσης
+    .accesskey = Π
+tab-context-edit-note =
+    .label = Επεξεργασία σημείωσης
+    .accesskey = Ε
+tab-note-editor-title-create = Προσθήκη σημείωσης
+tab-note-editor-title-edit = Επεξεργασία σημείωσης
+tab-note-editor-button-cancel =
+    .label = Ακύρωση
+    .accesskey = Α
+tab-note-editor-button-save =
+    .label = Αποθήκευση
+    .accesskey = θ
+
 ## Split View
 
 # Split view tabs display their respective contents side by side

@@ -321,6 +321,26 @@ tab-context-move-tab-to-group =
            *[other] Kupce { $tabCount } rejtarikow pśidaś
         }
     .accesskey = K
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Nowej kupce rozdźělony naglěd pśidaś
+            [one] Nowej kupce rozdźělony naglěd pśidaś
+            [two] Nowej kupce rozdźělonej naglěda pśidaś
+            [few] Nowej kupce rozdźělone naglědy pśidaś
+           *[other] Nowej kupce rozdźělony naglědy pśidaś
+        }
+    .accesskey = N
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Kupce rozdźělony naglěd pśidaś
+            [one] Kupce rozdźělony naglěd pśidaś
+            [two] Kupce rozdźělonej naglěda pśidaś
+            [few] Kupce rozdźělone naglědy pśidaś
+           *[other] Kupce rozdźělone naglědy pśidaś
+        }
+    .accesskey = K
 tab-context-move-tab-to-group-saved-groups =
     .label = Zacynjone kupki
 tab-group-editor-action-new-tab =
@@ -387,6 +407,25 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Kupku w nowem woknje wócyniś
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = Pśipisk pśidaś
+    .accesskey = P
+tab-context-edit-note =
+    .label = Pśipisk wobźěłaś
+    .accesskey = i
+tab-note-editor-title-create = Pśipisk pśidaś
+tab-note-editor-title-edit = Pśipisk wobźěłaś
+tab-note-editor-text-field =
+    .placeholder = Co cośo se wó toś tom rejtariku spomnjeś?
+tab-note-editor-button-cancel =
+    .label = Pśetergnuś
+    .accesskey = P
+tab-note-editor-button-save =
+    .label = Składowaś
+    .accesskey = S
 
 ## Split View
 

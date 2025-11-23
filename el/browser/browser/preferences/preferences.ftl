@@ -1088,6 +1088,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Χρήση κύριου κωδικού πρόσβασης
     .accesskey = Χ
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Απενεργοποίηση
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Απαίτηση σύνδεσης μέσω συσκευής για συμπλήρωση και διαχείριση κωδικών πρόσβασης
@@ -1153,6 +1156,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Αποθήκευση και αυτόματη συμπλήρωση στοιχείων πληρωμής
     .accesskey = π
+autofill-payment-methods-manage-payments-title =
+    .heading = Διαχείριση μεθόδων πληρωμής
 autofill-payment-methods-manage-payments-button =
     .label = Διαχείριση μεθόδων πληρωμής
     .accesskey = μ
@@ -1160,6 +1165,12 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Απαίτηση σύνδεσης μέσω συσκευής για αυτόματη συμπλήρωση και διαχείριση μεθόδων πληρωμής
     .accesskey = π
+autofill-payment-methods-add-button = Προσθήκη νέας μεθόδου πληρωμής
+payments-list-header =
+    .label = Μέθοδοι πληρωμής
+payments-list-item-label = <strong>Μέθοδοι πληρωμής</strong>
+payments-remove-payment-prompt-confirm-button = Αφαίρεση
+payments-remove-payment-prompt-cancel-button = Ακύρωση
 autofill-addresses-title = Διευθύνσεις και άλλα
 autofill-addresses-header =
     .aria-label = Διευθύνσεις και άλλα
@@ -1169,6 +1180,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Διαχείριση διευθύνσεων και άλλων
     .accesskey = Δ
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
