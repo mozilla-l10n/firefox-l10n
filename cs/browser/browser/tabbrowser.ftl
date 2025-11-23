@@ -405,6 +405,25 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Otevřít skupinu v novém okně
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Přidat poznámku
+    .accesskey = a
+tab-context-edit-note =
+    .label = Upravit poznámku
+    .accesskey = r
+tab-note-editor-title-create = Přidání poznámky
+tab-note-editor-title-edit = Úprava poznámky
+tab-note-editor-text-field =
+    .placeholder = Co si chcete zapamatovat u tohoto panelu?
+tab-note-editor-button-cancel =
+    .label = Zrušit
+    .accesskey = Z
+tab-note-editor-button-save =
+    .label = Uložit
+    .accesskey = U
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -423,3 +442,8 @@ tab-context-separate-split-view =
     .label = Samostatné rozdělené zobrazení
     .accesskey = t
 tab-context-badge-new = Nové
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+split-view-menuitem-close-both-tabs =
+    .label = Zavřít oba panely

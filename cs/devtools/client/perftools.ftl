@@ -179,4 +179,5 @@ perftools-presets-debug-description =
         [with-cases] Přednastaveno pro ladění ve { -brand-shorter-name(case: "loc") }. Vysoká režie, nepoužívat pro zlepšení výkonu, ale spíše pro pochopení chování prohlížeče.
        *[no-cases] Přednastaveno pro ladění v aplikaci { -brand-shorter-name }. Vysoká režie, nepoužívat pro zlepšení výkonu, ale spíše pro pochopení chování prohlížeče.
     }
+perftools-presets-web-compat-label = Webová kompatibilita
 perftools-presets-custom-label = Vlastní

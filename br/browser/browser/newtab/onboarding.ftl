@@ -319,6 +319,7 @@ tab-groups-onboarding-dismiss = Mat eo
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Lârit demat da brofiloù { -brand-product-name }
 multi-profile-spotlight-cta = Krouiñ ur profil
 multi-profile-callout-cta = Krouiñ ur profil
 
