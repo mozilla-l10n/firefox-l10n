@@ -51,6 +51,9 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] Разглеждане…
     }
 turn-on-scheduled-backups-encryption-label = Архивирaне на вашите чувствителни данни
+turn-on-scheduled-backups-encryption-create-password-label = Парола
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Повтаряне на паролата
 turn-on-scheduled-backups-cancel-button = Отказ
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
