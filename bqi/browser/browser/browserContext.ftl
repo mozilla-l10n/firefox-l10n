@@ -287,5 +287,17 @@ main-context-menu-manage-logins2 =
 main-context-menu-manage-passwords =
     .label = دؽوۉداری رزما
     .accesskey = M
+main-context-menu-add-engine =
+    .label = ٱووردن موتور پیتینیڌن
+    .accesskey = S
+main-context-menu-link-send-to-device =
+    .label = فشناڌن لینگ و دسگا
+    .accesskey = n
+main-context-menu-frame =
+    .label = ای چارچۊ
+    .accesskey = h
+main-context-menu-frame-show-this =
+    .label = تینا نشووݩ داڌن هیم چارچۊ
+    .accesskey = S
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = نۊ
