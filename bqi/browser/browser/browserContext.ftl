@@ -177,12 +177,23 @@ main-context-menu-media-loop =
 main-context-menu-media-show-controls =
     .label = نشووݩ داڌن کونتورولا
     .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = بؽڌار کردن کونتورولا
+    .accesskey = C
 
 ##
 
 main-context-menu-media-video-fullscreen =
     .label = پوی بلگه
     .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = و در زیڌن ز نما پوی بلگه
+    .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = نیشتن من هالت شؽوات من شؽوات
+    .accesskey = u
 main-context-menu-image-copy =
     .label = لف گیری ز شؽوات
     .accesskey = y
