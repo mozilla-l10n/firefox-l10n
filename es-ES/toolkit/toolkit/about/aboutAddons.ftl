@@ -289,6 +289,10 @@ colorway-removal-notice-message =
         el sitio de complementos.
 colorway-removal-notice-learn-more = Saber más
 colorway-removal-notice-button = Obtenga temas de combinaciones de colores actualizados
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = La configuración de contraste de Windows anula los temas de { -brand-short-name }. Desactive estos ajustes para usar temas en { -brand-short-name }.
 privacy-policy = Política de privacidad
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -536,6 +540,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Más información
 details-notification-blocked = { $name } ha sido desactivado debido a problemas de seguridad o estabilidad.
 details-notification-blocked-link2 = Ver detalles
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Esta extensión está restringida y ha sido desactivada. Se puede activar, pero podría ser arriesgado.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Esta extensión está restringida. Usarla puede ser arriesgado.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Este complemento está restringido y ha sido desactivado. Se puede activar, pero podría ser arriesgado.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Este complemento está restringido. Usarla puede ser arriesgado.
 details-notification-soft-blocked-extension-disabled =
     .message = Esta extensión está restringida por violar las políticas de Mozilla y ha sido desactivada. Se puede activar, pero podría ser arriesgado.
 details-notification-soft-blocked-extension-enabled =

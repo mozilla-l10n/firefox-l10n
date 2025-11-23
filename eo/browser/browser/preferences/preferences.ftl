@@ -672,6 +672,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Retejoj konservitaj aŭ vizititaj de vi
 home-prefs-shortcuts-by-option-sponsored =
     .label = Patronitaj ŝparvojoj
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -717,14 +719,24 @@ home-prefs-weather-header =
     .label = Vetero
 home-prefs-weather-description = Rapida rigardo al la veterprognozo hodiaŭa
 home-prefs-weather-learn-more-link = Pli da informo
+home-prefs-widgets-header =
+    .label = Komponantoj
 home-prefs-trending-search-header =
     .label = Popularaj serĉoj
 home-prefs-trending-search-description = Popularaj kaj ofte serĉitaj temoj
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listoj
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Tempumilo
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Helpi { -brand-product-name }
 home-prefs-mission-message = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
 home-prefs-mission-message-learn-more-link = Malkovri kiel
+home-prefs-mission-message2 =
+    .message = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
 home-prefs-manage-topics-link = Administri temojn
 home-prefs-choose-wallpaper-link = Elekti ekranfonon
 # Variables:
@@ -1034,10 +1046,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Pasvortoj
     .searchkeywords = legitimiloj
+forms-passwords-header =
+    .label = Pasvortoj
+    .aria-label = Pasvortoj
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Demandi antaŭ ol konservi pasvortojn
     .accesskey = D
+forms-manage-password-exceptions =
+    .label = Administri pasvortajn esceptojn
+    .accesskey = e
 forms-exceptions =
     .label = Esceptoj…
     .accesskey = c
@@ -1068,12 +1086,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Aŭtomate plenigi nomojn de uzanto kaj pasvortojn
     .accesskey = A
+forms-fill-usernames-and-passwords-2 =
+    .label = Konservi kaj aŭtomate plenigi nomojn de uzanto kaj pasvortojn
+    .accesskey = p
 forms-saved-passwords =
     .label = Konservitaj pasvortoj
     .accesskey = p
+forms-saved-passwords-2 =
+    .label = Administri konservitajn pasvortojn
+    .accesskey = k
+forms-saved-passwords-searchkeywords = En via komputilo vi havas konservitajn akreditilojn por la jenaj retejoj
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Aldonaj protektoj
 forms-primary-pw-use =
     .label = Uzi ĉefan pasvorton
     .accesskey = U
+forms-primary-pw-set =
+    .label = Elekti ĉefan pasvorton
+forms-primary-pw-on =
+    .label = La ĉefa pasvorto estas ŝaltita
+forms-primary-pw-change-2 =
+    .label = Ŝanĝi ĉefan pasvorton
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Malŝalti ĝin
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Postuli komencon de seanco en la aparato por enigi kaj administri pasvortojn
@@ -1139,6 +1176,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Konservi kaj aŭtomate plenigi pagmetodojn
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Administri pagmetodojn
 autofill-payment-methods-manage-payments-button =
     .label = Administri pagmetodojn
     .accesskey = A
@@ -1146,6 +1185,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Postuli komencon de seanco en la aparato por aŭtomate plenigi kaj administri pagmetodojn
     .accesskey = s
+autofill-payment-methods-add-button = Aldoni novan pagmetodon
+payments-list-header =
+    .label = Pagmetodoj
+payments-list-item-label = <strong>Pagmetodoj</strong>
+payments-remove-payment-prompt-title = Ĉu forigi tiun ĉi pagmetodon?
+payments-remove-payment-prompt-confirm-button = Forigi
+payments-remove-payment-prompt-cancel-button = Nuligi
 autofill-addresses-title = Adresoj kaj pli
 autofill-addresses-header =
     .aria-label = Adresoj kaj pli
@@ -1155,6 +1201,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Administri adresojn kaj pli
     .accesskey = A
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1180,6 +1234,8 @@ history-remember-description2 =
     .description = { -brand-short-name } memoros vian retuman, elŝutan, formularan kaj serĉan historiojn.
 history-dontremember-description2 =
     .description = { -brand-short-name } uzos la samajn agordojn de privata retumo, kaj ĝi ne memoros iun historion dum vi esploras la reton.
+history-custom-description =
+    .description = { -brand-short-name } uzos personecitigajn agordojn por via retumo, elŝutoj, formularoj kaj historio.
 history-remember-description = { -brand-short-name } memoros vian retuman, elŝutan, formularan kaj serĉan historiojn.
 history-dontremember-description = { -brand-short-name } uzos la samajn agordojn de privata retumo, kaj ĝi ne memoros iun historion dum vi esploras la reton.
 history-private-browsing-permanent =
@@ -1527,6 +1583,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloki ŝprucaĵojn kaj redirektojn al aliaj retejoj
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Administri esceptojn pri ŝprucaĵoj kaj redirektoj de aliaj retejoj
+    .accesskey = e
+    .searchkeywords = ŝprucaĵoj
+permissions-addon-install-warning2 =
+    .label = Averti kiam retejoj volas instali etendaĵojn
+    .accesskey = A
+permissions-addon-exceptions2 =
+    .label = Elekti, kiuj retejoj povas instali etendaĵojn
+    .accesskey = E
 permissions-block-popups =
     .label = Bloki ŝprucfenestrojn
     .accesskey = B
@@ -1542,6 +1610,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Esceptoj…
     .accesskey = E
+permissions-header2 =
+    .label = Permesoj
+    .description = Permesoj donitaj de vi al la retejoj kiun vi vizitas.
 permissions-location2 =
     .label = Loko
 permissions-localhost2 =
@@ -1554,6 +1625,9 @@ permissions-camera2 =
     .label = Filmilo
 permissions-microphone2 =
     .label = Mikrofono
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Soneligiloj
 permissions-notification2 =
     .label = Sciigoj
 
