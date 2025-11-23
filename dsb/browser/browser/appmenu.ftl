@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Pśednastajenje za pytanje zmólkow w { -brand-shorter-name }. Wusoka dodatna śěža, njewužywajśo jo za wugbaśowe źěło, ale wužywajśo jo, aby se na rozměśe zaźaržanja wobglědowaka fokusěrował.
 profiler-popup-presets-debug-label =
     .label = Za zmólkami pytaś
+profiler-popup-presets-web-compat-description = Dopórucone pśednastajenje za pytanje problemow z webkompatibelnosću we websedłach, město až se wugbaśeju slědujo.
+profiler-popup-presets-web-compat-label =
+    .label = Webkompatibelnosć
 profiler-popup-presets-custom-label =
     .label = Swójski
 

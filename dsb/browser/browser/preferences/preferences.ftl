@@ -1056,10 +1056,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Gronidła
     .searchkeywords = pśizjawjenja
+forms-passwords-header =
+    .label = Gronidła
+    .aria-label = Gronidła
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Pšašaś se, lěc se maju gronidła składowaś
     .accesskey = l
+forms-manage-password-exceptions =
+    .label = Gronidłowe wuwześa zastojaś
+    .accesskey = G
 forms-exceptions =
     .label = Wuwześa…
     .accesskey = u
@@ -1090,12 +1096,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Wužywaŕske mjenja a gronidła awtomatiski wupołniś
     .accesskey = u
+forms-fill-usernames-and-passwords-2 =
+    .label = Wužywaŕske mjenja a gronidła składowaś a awtomatiski wupołniś
+    .accesskey = u
 forms-saved-passwords =
     .label = Skłaźone gronidła
     .accesskey = k
+forms-saved-passwords-2 =
+    .label = Skłaźone gronidła zastojaś
+    .accesskey = k
+forms-saved-passwords-searchkeywords = Pśizjawjenja za slědujuce sedła składuju se na wašom licadle
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Pśidatny šćit
 forms-primary-pw-use =
     .label = Głowne gronidło wužywaś
     .accesskey = G
+forms-primary-pw-set =
+    .label = Głowne gronidło nastajiś
+forms-primary-pw-on =
+    .label = Głowne gronidło jo ZMÓŽNJONE
+forms-primary-pw-change-2 =
+    .label = Głowne gronidło změniś
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Znjemóžniś
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Rědowe pśizjawjenje za wupołnjenje a zastojanje gronidłow pominaś
@@ -1161,6 +1186,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Płaśeńske metody składowaś a awtomatiski wupołniś
     .accesskey = P
+autofill-payment-methods-manage-payments-title =
+    .heading = Płaśeńske metody zastojaś
 autofill-payment-methods-manage-payments-button =
     .label = Płaśeńsku metodu zastojaś
     .accesskey = m
@@ -1168,6 +1195,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Rědowe pśizjawjenje za awtomatiske wupołnjenje a zastojanje płaśeńskich metodow pominaś
     .accesskey = R
+autofill-payment-methods-add-button = Nowu płaśeńsku metodu pśidaś
+payments-list-header =
+    .label = Płaśeńske metody
+payments-list-item-label = <strong>Płaśeńske metody</strong>
+payments-remove-payment-prompt-title = Toś tu płaśeńsku metodu wótwónoźeś?
+payments-remove-payment-prompt-confirm-button = Wótwónoźeś
+payments-remove-payment-prompt-cancel-button = Pśetergnuś
 autofill-addresses-title = Adrese a wěcej
 autofill-addresses-header =
     .aria-label = Adrese a wěcej
@@ -1177,6 +1211,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adrese a wěcej zastojaś
     .accesskey = z
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
