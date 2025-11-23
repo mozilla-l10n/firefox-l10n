@@ -1048,10 +1048,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Κωδικοί πρόσβασης
     .searchkeywords = συνδέσεις
+forms-passwords-header =
+    .label = Κωδικοί πρόσβασης
+    .aria-label = Κωδικοί πρόσβασης
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Ερώτηση για αποθήκευση κωδικών πρόσβασης
     .accesskey = Ε
+forms-manage-password-exceptions =
+    .label = Διαχείριση εξαιρέσεων κωδικών πρόσβασης
+    .accesskey = Δ
 forms-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = ξ
@@ -1085,9 +1091,18 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = Αποθηκευμένοι κωδικοί πρόσβασης
     .accesskey = θ
+forms-saved-passwords-2 =
+    .label = Διαχείριση αποθηκευμένων κωδικών πρόσβασης
+    .accesskey = χ
 forms-primary-pw-use =
     .label = Χρήση κύριου κωδικού πρόσβασης
     .accesskey = Χ
+forms-primary-pw-set =
+    .label = Ορισμός κύριου κωδικού πρόσβασης
+forms-primary-pw-on =
+    .label = Ο κύριος κωδικός πρόσβασης είναι ΕΝΕΡΓΟΣ
+forms-primary-pw-change-2 =
+    .label = Αλλαγή κύριου κωδικού πρόσβασης
 # Label for button to disable primary password.
 forms-primary-pw-turn-off =
     .label = Απενεργοποίηση

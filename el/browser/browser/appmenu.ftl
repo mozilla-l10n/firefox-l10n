@@ -212,6 +212,8 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Προκαθορισμένη ρύθμιση για έλεγχο σφαλμάτων στο { -brand-shorter-name }. Υψηλός φόρτος, μην τη χρησιμοποιείτε για εργασίες υψηλών επιδόσεων, αλλά για την εστίαση στην κατανόηση της συμπεριφοράς του προγράμματος περιήγησης.
 profiler-popup-presets-debug-label =
     .label = Έλεγχος σφαλμάτων
+profiler-popup-presets-web-compat-label =
+    .label = Συμβατότητα ιστού
 profiler-popup-presets-custom-label =
     .label = Προσαρμογή
 
