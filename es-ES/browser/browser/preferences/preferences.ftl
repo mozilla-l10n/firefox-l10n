@@ -1585,6 +1585,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloquear ventanas emergentes y redirecciones de terceros
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Administrar las excepciones de ventanas emergentes y redireccionamientos de terceros…
+    .accesskey = e
+    .searchkeywords = ventanas emergentes
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
