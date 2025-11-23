@@ -253,6 +253,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ایمیل کردن آرنگ…
     .accesskey = a
+main-context-menu-send-to-device-2 =
+    .label = فشناڌن و دسگا
+    .accesskey = n
 main-context-menu-save-to-pocket =
     .label = زفت کردن بلگه من { -pocket-brand-name }
     .accesskey = k
@@ -262,5 +265,24 @@ main-context-menu-send-to-device =
 
 ##
 
+main-context-menu-use-saved-login =
+    .label = و کار گرؽڌن و من ٱووڌن زفت وابیڌه
+    .accesskey = o
+# Displayed when there are saved passwords and the user clicks inside a username or password field
+main-context-menu-use-saved-password =
+    .label = و کار گرؽڌن رزم زفت وابیڌه
+    .accesskey = o
+
+##
+
+main-context-menu-use-relay-mask =
+    .label = و کار گرؽڌن نقاب ایمیل { -relay-brand-short-name }
+    .accesskey = E
+main-context-menu-suggest-strong-password =
+    .label = پؽشنهاڌ ی رزم قوی…
+    .accesskey = S
+main-context-menu-manage-logins2 =
+    .label = دؽوۉداری و من ٱووڌنا
+    .accesskey = M
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = نۊ
