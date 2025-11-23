@@ -730,6 +730,8 @@ home-prefs-support-firefox-header =
     .label = Tue { -brand-product-name }ia
 home-prefs-mission-message = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä
 home-prefs-mission-message-learn-more-link = Lue lisää
+home-prefs-mission-message2 =
+    .message = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä.
 home-prefs-manage-topics-link = Hallinnoi aiheita
 home-prefs-choose-wallpaper-link = Valitse taustakuva
 # Variables:
