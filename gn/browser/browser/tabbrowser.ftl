@@ -284,6 +284,21 @@ tab-context-move-tab-to-group =
            *[other] Embojuapy tendaykekuéra atýpe
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Embojuaju jehechaha vore aty pyahúpe
+           *[other] Add Split Views to New Group
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Embojuaju jehechaha vore atýpe
+            [one] Embojuaju jehechahakuéra vore atýpe
+           *[other] Embojuaju jehechahakuéra vore atýpe
+        }
+    .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = Aty ñembotypýpa
 tab-group-editor-action-new-tab =
