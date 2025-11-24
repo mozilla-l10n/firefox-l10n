@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Far copias da segirezza da las adressas me
 fxa-adoption-addresses-backup-subtitle = Protegia tias adressas memorisadas cun las sincronisar a moda criptada cun tes apparats.
 fxa-adoption-credit-cards-backup-title = Far copias da segirezza da las metodas da pajament
 fxa-adoption-credit-cards-backup-subtitle = Protegia tias metodas da pajament cun las sincronisar a moda criptada cun tes apparats.
+fxa-adoption-bookmarks-treatment-backup-title = Faschain ina copia da segirezza da tes segnapaginas
+fxa-adoption-bookmarks-treatment-backup-subtitle = Protegia tes segnapaginas cun als sincronisar a moda criptada cun tes apparats.
 fxa-adoption-primary-button-label = Crear in conto
 
 ## Protections panel
@@ -230,6 +232,22 @@ fox-doodle-pin-secondary = Betg ussa
 
 set-default-pdf-handler-headline = <strong>Tes PDFs s'avran ussa en { -brand-short-name }.</strong> Modifitgescha u suttascriva formulars directamain en tes navigatur. Per midar quest cumportament, tschertgar «PDF» en ils parameters.
 set-default-pdf-handler-primary = Jau hai chapì
+
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Suttascriva sin la lingia cun stritgins – u insanua auter!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Dissegna, tippa u transferescha tia signatura e la plazzescha lura exact là nua che ti la vuls. Memorisescha tias signaturas per la proxima giada.
+annotations-make-default-pdf-handler-title = Definir { -brand-short-name } sco editur predefinì per PDFs?
+annotations-make-default-pdf-handler-subtitle = Ti vegns ad avair access a noss utensils mintga giada cura che ti avras in PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Definir sco standard
+annotations-make-default-pdf-next =
+    .label = Enavant
 
 ## FxA sync CFR
 

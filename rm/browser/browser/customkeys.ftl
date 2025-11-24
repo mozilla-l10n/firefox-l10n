@@ -34,3 +34,4 @@ customkeys-nav-home = Pagina da partenza
 customkeys-nav-reload = Rechargiar
 customkeys-nav-reload-skip-cache = Rechargiar (ignorar il cache)
 customkeys-nav-stop = Fermar
+customkeys-caution-message = Questa funcziun è experimentala e na funcziuna eventualmain betg sco previs.

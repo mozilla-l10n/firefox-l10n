@@ -149,6 +149,11 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Serrar
 windows-10-eos-sync-callout-primary-advance-button-label = Enavant
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Nov: Clicca e tegna per visualisar ina prevista da colliaziuns
+link-preview-onboarding-callout-description = Mussa ina curta descripziun, il temp da lectura e dapli per decider sch’i vala la paina da cliccar sin ina colliaziun. Ins po era acceder a la funcziun cun cliccar cun la tasta dretga da la mieur.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mussar ils titels dals tabs en la panela laterala

@@ -263,3 +263,7 @@ link-preview-setup-faster-next-time = La proxima giada vegnan ils puncts-clav mu
 link-preview-onboarding-button = Vesair ina prevista
 # Onboarding card Close button
 link-preview-onboarding-close = Serrar
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Configuraziun iniziala
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Quai po cuzzar in mument. Ils puncts-clav ta vegnan la proxima giada mussads pli svelt.
