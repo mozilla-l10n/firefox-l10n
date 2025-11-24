@@ -212,6 +212,8 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Предварителни настройки за отстраняване на грешки в { -brand-shorter-name }. Имат голямо и негативно въздействие на системата, не се използват за работа по производителността, а за фокусиране върху разбиране на поведението на браузъра.
 profiler-popup-presets-debug-label =
     .label = Дебъг
+profiler-popup-presets-web-compat-label =
+    .label = Web Compat
 profiler-popup-presets-custom-label =
     .label = Потребителски
 
