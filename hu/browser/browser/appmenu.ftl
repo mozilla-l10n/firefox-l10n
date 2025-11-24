@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Előbeállítás a { -brand-shorter-name }ban való hibakereséshez. Magas többletterhelés, ne teljesítménykritikus munkához használja, hanem a böngésző viselkedésének megértéséhez.
 profiler-popup-presets-debug-label =
     .label = Hibakeresés
+profiler-popup-presets-web-compat-description = Ajánlott előbeállítás a weboldalak webes kompatibilitási problémáinak kereséséhez, nem pedig a teljesítmény követéséhez.
+profiler-popup-presets-web-compat-label =
+    .label = Webkompatibilitás
 profiler-popup-presets-custom-label =
     .label = Egyéni
 

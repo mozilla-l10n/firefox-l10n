@@ -299,5 +299,17 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = تینا نشووݩ داڌن هیم چارچۊ
     .accesskey = S
+main-context-menu-frame-open-tab =
+    .label = گۊشیڌن چارچۊ من بلگه نۊ
+    .accesskey = T
+main-context-menu-frame-open-window =
+    .label = گۊشیڌن چارچۊ من نیمدری نۊ
+    .accesskey = W
+main-context-menu-frame-reload =
+    .label = بار ونی دووارته چارچۊ
+    .accesskey = R
+main-context-menu-frame-add-bookmark =
+    .label = نشووک ناهاڌن چارچۊ…
+    .accesskey = m
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = نۊ
