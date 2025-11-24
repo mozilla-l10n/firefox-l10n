@@ -10,3 +10,7 @@
 
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = خش ٱوۊڌین انسووا!
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
+error-try-again = قپ ریت دووارته
+    .label2 = دی ای دویمه ن دووارته مزنین.
