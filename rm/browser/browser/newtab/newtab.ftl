@@ -646,6 +646,9 @@ newtab-widget-lists-input-menu-move-up = Spustar ensi
 newtab-widget-lists-input-menu-move-down = Spustar engiu
 newtab-widget-lists-input-menu-delete = Stizzar
 newtab-widget-lists-input-menu-edit = Modifitgar
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Crear ina nova glista
 newtab-widget-lists-name-label-default =
     .label = Glista d’incumbensas
 newtab-widget-lists-name-placeholder-default =

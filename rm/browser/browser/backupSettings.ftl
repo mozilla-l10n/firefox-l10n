@@ -164,3 +164,88 @@ enable-backup-encryption-create-password-label = Pled-clav
 enable-backup-encryption-repeat-password-label = Repeter il pled-clav
 enable-backup-encryption-cancel-button = Interrumper
 enable-backup-encryption-confirm-button = Memorisar
+change-backup-encryption-header = Midar il pled-clav per backups
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Criteris per il pled-clav
+password-rules-length-description = Almain 8 caracters
+password-rules-email-description = Betg tia adressa dad e-mail
+password-rules-disclaimer = Ta protegia – na reutilisescha nagins pleds-clav. Ulteriurs cussegls: <a data-l10n-name="password-support-link">crear ferms pleds-clav</a>.
+password-validity-has-email = Na dastga betg esser in’adressa dad e-mail
+password-validity-do-not-match = Ils pleds-clav na correspundan betg
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Gartegià
+password-rules-a11y-warning =
+    .alt = Avertiment
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Allontanar la protecziun cun pled-clav
+disable-backup-encryption-description2 = Tes pleds-clav memorisads ed era tias metodas da pajament na vegnan betg pli a vegnir segiradas.
+disable-backup-encryption-support-link = Tge vegn segirà?
+disable-backup-encryption-cancel-button = Interrumper
+disable-backup-encryption-confirm-button = Allontanar il pled-clav
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Tes pled-clav na correspunda betg a las pretensiuns. Emprova per plaschair in auter pled-clav.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Insatge è ì mal. Emprova per plaschair anc ina giada.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } è pront per vegnir restaurà
+backup-file-title = Restaurar { -brand-short-name }
+backup-file-intro = Turna a navigar e restaurescha tut tes segnapaginas, la cronologia ed autras datas. <a data-l10n-name="backup-file-support-link">Ulteriuras infurmaziuns</a>
+backup-file-path-label = Datoteca da backup:
+backup-file-encryption-state-label = Criptà:
+backup-file-encryption-state-value-encrypted = Gea
+backup-file-encryption-state-value-not-encrypted = Na
+backup-file-creation-device-label = Apparat:
+backup-file-creation-date-label = Creà:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Co restaurar:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Avrir il menu d’applicaziun ☰ ed acceder a Parameters > Sincronisaziun
+backup-file-moz-browser-restore-step-2 = Clicca sin «Tscherner ina datoteca da backup» e tscherna questa datoteca
+backup-file-moz-browser-restore-step-3 = Reaviescha { -brand-short-name } sin dumonda
+backup-file-other-browser-restore-step-1 = Telechargia ed installescha { -brand-short-name }
+backup-file-download-moz-browser-button = Telechargiar
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Aviescha { -brand-short-name }, avra il menu d’applicaziun ☰ ed acceda a Parameters > Sincronisaziun
+backup-file-other-browser-restore-step-3 = Clicca sin «Tscherner ina datoteca da backup» e tscherna questa datoteca
+backup-file-other-browser-restore-step-4 = Reaviescha { -brand-short-name } sin dumonda
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Remartga:</b> chattà { $numberOfOtherBackupsFound } autra datoteca da backup
+       *[other] <b>Remartga:</b> chattà { $numberOfOtherBackupsFound } autras datotecas da backup
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Creà ils { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } sin { $machineName }
+backup-file-restore-file-validation-error = Questa datoteca na funcziuna betg. Emprova da tscherner in’autra datoteca. <a data-l10n-name="restore-problems">Has anc adina problems?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Tschernì nagina datoteca

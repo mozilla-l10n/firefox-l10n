@@ -478,6 +478,66 @@ sync-to-mobile-button-label = Sincronisaziun cun apparats mobils
 desktop-to-mobile-qr-code-alt =
     .aria-label = Code QR per telechargiar { -brand-product-name } per apparats mobils
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Actualiseschas ti a Windows 11?
+    Faschain in backup da tias datas da { -brand-product-name }.
+create-backup-screen-1-subtitle = Protegia automaticamain tes pleds-clav, segnapaginas e dapli en 1-2 minutas.
+create-backup-screen-1-flair = Recumandà
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Ulteriuras infurmaziuns</a>
+create-backup-screen-1-sync-label = Sincronisar cun { -brand-product-name }
+create-backup-screen-1-sync-body = Segirescha tut ils apparats annunziads
+create-backup-screen-1-backup-label = Segirar sin il computer
+create-backup-screen-1-backup-body = Memorisescha sin l’apparat u en OneDrive
+create-backup-select-tile-button-label = Tscherner
+create-backup-back-button-label = Enavos
+create-backup-show-fewer =
+    .label = Mussar damain da quai
+create-backup-screen-2-title = Tscherna las datas { -brand-product-name } per segirar
+create-backup-screen-2-subtitle = Quai cuzza be ina minuta. Tias datas vegnan segiradas ina giada per di.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configuraziun simpla
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Segnapaginas, cronologia, parameters e dapli
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = N’includa nagins pleds-clav e pajaments
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Betg criptà
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Tut las datas
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Includa pleds-clav e pajaments
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Criptà cun in pled-clav
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Nua vuls ti memorisar tia copia da segirezza?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Crear in pled-clav per la datoteca da backup
+create-backup-screen-3-subtitle = Necessari per criptar tias datas. La tegna en salv en in lieu dal qual ti ta regordas.
+fx-backup-opt-in-header = Tscherner nua memorisar la datoteca
+fx-backup-opt-in-filepath-label = Tscherna in lieu che ti planiseschas da spustar sin il nov apparat, p.ex. OneDrive.
+fx-backup-opt-in-create-password-label = Endatescha il pled-clav
+fx-backup-opt-in-confirm-btn-label = Cuntinuar
+fx-backup-opt-in-cancel-btn-label = Enavos
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Tes backup è planisà
+fx-backup-confirmation-screen-close-button = Serrar
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Tut las datas da navigaziun èn inclusas
+fx-backup-confirmation-screen-all-data-item-text-2 = Memorisà sin tes apparat
+fx-backup-confirmation-screen-all-data-item-text-3 = Criptà e protegì cun in pled-clav
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Segnapaginas, cronologia, parameters ed autras datas inclusas
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Memorisà sin tes apparat
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Pleds-clav e pajaments betg inclus
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Acceda als <a data-l10n-name="settings">Parameters</a> per includer las datas sensiblas.
+fx-backup-confirmation-screen-item-subtext-1 = Tes backup vegn ad aviar en in pèr minutas e vegn exequì ina giada per di. Ti pos controllar il progress en ils <a data-l10n-name="settings">Parameters</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } vegn a tschertgar tes backup sche ti al stos reinstallar.
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Restaurar dad ina copia da segirezza
@@ -496,3 +556,17 @@ restored-from-backup-success-no-checklist-primary-button = Cuntinuar
 restored-from-backup-error-title = Hmm, igl ha dà in problem cun tia datoteca da backup.
 restored-from-backup-error-subtitle = Sche ti has in’autra datoteca da backup da { -brand-short-name }, emprova da restaurar cun agid da lezza. <a data-l10n-name="restore-problems">Na funcziuni anc adina betg?</a>
 restored-from-backup-error-primary-button = Serrar
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Persunalisescha tia experientscha cun { -brand-short-name }
+onboarding-personalization-subtitle = Respunda in pèr dumondas e nus vegnin a proponer funcziuns ed extensiuns per meglierar tia experientscha cun { -brand-short-name }.
+onboarding-personalization-use-case-title = Per tge intent vegns ti ad utilisar { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Privat
+onboarding-personalization-use-case-school-option = Scola
+onboarding-personalization-use-case-work-option = Lavur
+onboarding-personalization-motivation-title = Tge funcziuns da { -brand-short-name } èn las pli impurtantas per tai?
+onboarding-personalization-motivation-privacy-option = Protecziun da datas e segirezza
+onboarding-personalization-motivation-productivity-option = Productivitad
+onboarding-personalization-motivation-other-option = Auter
