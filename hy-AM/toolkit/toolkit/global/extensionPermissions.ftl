@@ -28,4 +28,4 @@ webext-perms-description-sessions = Վերջերս փակված ներդիրնե
 webext-perms-description-tabs = Դիտարկիչի ներդիրների մատչում
 webext-perms-description-tabHide = Թաքցնել և ցուցադրել դիտարկիչի ներդիրները
 webext-perms-description-topSites = Դիտարկումների պատմության մատչում
-webext-perms-description-webNavigation = Նավիգացիայի ընթացքում մատչել դիտարկիչի ակտիվությանը
+webext-perms-description-webNavigation = Նավարկման ընթացքում մատչել դիտարկիչի գործունեությանը

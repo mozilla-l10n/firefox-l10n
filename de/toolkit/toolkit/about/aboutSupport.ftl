@@ -188,8 +188,8 @@ media-capabilities-enumerate = Datenbankeinträge auflisten
 
 media-codec-support-sw-decoding = Software-Dekodierung
 media-codec-support-hw-decoding = Hardware-Dekodierung
-media-codec-support-sw-encoding = Software-Dekodierung
-media-codec-support-hw-encoding = Hardware-Dekodierung
+media-codec-support-sw-encoding = Software-Kodierung
+media-codec-support-hw-encoding = Hardware-Kodierung
 media-codec-support-codec-name = Codec-Name
 media-codec-support-supported = Unterstützt
 media-codec-support-unsupported = Nicht unterstützt

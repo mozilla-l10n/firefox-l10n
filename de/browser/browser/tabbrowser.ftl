@@ -283,6 +283,22 @@ tab-context-move-tab-to-group =
            *[other] Tabs zu Gruppe hinzufügen
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Getrennte Ansicht zu neuer Gruppe hinzufügen
+            [one] Getrennte Ansicht zu neuer Gruppe hinzufügen
+           *[other] Getrennte Ansichten zu neuer Gruppe hinzufügen
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Getrennte Ansicht zu Gruppe hinzufügen
+            [one] Getrennte Ansicht zu Gruppe hinzufügen
+           *[other] Getrennte Ansichten zu Gruppe hinzufügen
+        }
+    .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = Geschlossene Gruppen
 tab-group-editor-action-new-tab =
@@ -375,5 +391,8 @@ tab-context-badge-new = Neu
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Tabs umkehren
 split-view-menuitem-close-both-tabs =
     .label = Beide Tabs schließen

@@ -15,7 +15,7 @@ videocontrols-play-button =
 videocontrols-pause-button =
     .aria-label = Ընդմիջել
 videocontrols-mute-button =
-    .aria-label = Անջատել ձայնը
+    .aria-label = Լռեցնել
 videocontrols-unmute-button =
     .aria-label = Միացնել ձայնը
 videocontrols-enterfullscreen-button =
@@ -34,7 +34,7 @@ videocontrols-picture-in-picture-label = Նկարը նկարում
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Հանել տեսանյութը
-videocontrols-error-aborted = Տեսանյութի բեռնումը կանգնեցվել է։
+videocontrols-error-aborted = Տեսանյութի բեռնումը կանգնեցվեց։
 videocontrols-error-network = Տեսանյութի նվագարկումը կանգնեցվեց ցանցի սխալի պատճառով:
 videocontrols-error-decode = Տեսանյութը չի կարող նվագարկվել, քանզի ֆայլը վնասված է:
 videocontrols-error-src-not-supported = Տեսանյութի ձևաչափը կամ MIME-ի տեսակը չեն աջակցվում:

@@ -91,7 +91,7 @@ about-telemetry-results-for-search = «{ $searchTerms }»-ի արդյունքն�
 # Variables:
 #   $sectionName (string) - The section name from the structure of the ping.
 #   $currentSearchText (string) - The current text in the search input
-about-telemetry-no-search-results = Կներե՛ք, { $sectionName }-ում «{ $currentSearchText }»-ի համար որևէ արդյունք չկա
+about-telemetry-no-search-results = Կներե՛ք։ { $sectionName }-ում «{ $currentSearchText }»-ի համար արդյունքներ չկան
 # Variables:
 #   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Կներե՛ք։ Որևէ բաժնում «{ $searchTerms }»-ի համար արդյունքներ չկան
@@ -125,7 +125,7 @@ about-telemetry-values-header = Արժեքը
 about-telemetry-late-writes-title = Ուշ գրառում #{ $lateWriteCount }
 about-telemetry-stack-title = Շեղջ.
 about-telemetry-memory-map-title = Յիշողութեան քարտեզը.
-about-telemetry-error-fetching-symbols = Նշանները բեռնելիս սխալ է գրանցվել։ Ստուգեք կապակցումը համացանցին և կրկին փորձեք։
+about-telemetry-error-fetching-symbols = Նշանները վերցնելիս սխալ է տեղի ունեցել։ Ստուգեք համացանցին Ձեր միացումը և կրկին փորձեք։
 about-telemetry-time-stamp-header = ժամադրոշմ
 about-telemetry-category-header = անվանակարգ
 about-telemetry-method-header = եղանակ

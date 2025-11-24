@@ -45,7 +45,7 @@ printui-two-sided-printing-off = Անջ.
 # Section title for miscellaneous print options
 printui-options = Ընտրանքներ
 printui-headers-footers-checkbox = Տպել էջագլուխները և էջատակերը
-printui-backgrounds-checkbox = Տպել խորքերը
+printui-backgrounds-checkbox = Տպել ետնապատկերները
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version

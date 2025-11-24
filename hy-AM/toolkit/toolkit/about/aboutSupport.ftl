@@ -78,12 +78,12 @@ show-dir-label =
 experimental-features-title = Փորձարարական հատկություններ
 experimental-features-name = Անուն
 experimental-features-value = Արժեք
-modified-key-prefs-title = Փոփոխված կարևոր կարգավորումներ
+modified-key-prefs-title = Կարևոր փոփոխված նախապատվություններ
 modified-prefs-name = Անուն
 modified-prefs-value = Արժեքը
-user-js-title = user.js-ի կարգավորումներ
+user-js-title = user.js-ի նախապատվություններ
 user-js-description = Ձեր պրոֆիլի թղթապանակը պարունակում է<a data-l10n-name="user-js-link">user.js ֆայլ</a>, որը ներառում է կարգավորումներ, որոնք չեն ստեղծվել { -brand-short-name }-ի կողմից։
-locked-key-prefs-title = Կողպված կարևոր կարգավորումներ
+locked-key-prefs-title = Կարևոր կողպված նախապատվություններ
 locked-prefs-name = Անուն
 locked-prefs-value = Արժեքը
 graphics-title = Գրաֆիկա
