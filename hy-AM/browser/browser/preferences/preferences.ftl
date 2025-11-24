@@ -86,6 +86,15 @@ restart-later = Վերամեկնարկել հետո
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }-ը</strong> կառավարում է այս կարգավորումը։
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }-ը</strong> կառավարում է այս կարգավորումը։
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }-ը</strong> կառավարում է այս կարգավորումը։
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $name }-ը</strong> կառավարում է, թե ինչպես { -brand-short-name }-ը միանա համացանցին:
@@ -95,6 +104,9 @@ extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $nam
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Ընդլայնումը միացնելու համար անցեք <img data-l10n-name="addons-icon"/> Հավելումներին <img data-l10n-name="menu-icon"/> ցանկում:
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name }-ը կառավարում է Ձեր տնէջի որոշ կարգավորումներ։
 
 ## Preferences UI Search Results
 
@@ -105,7 +117,7 @@ search-results-help-link = Օգնությու՞ն է պետք: Այցելեք <a
 
 ## General Section
 
-startup-header = Մեկնարկը
+startup-header = Մեկնարկ
 always-check-default =
     .label = Միշտ ստուգել, թե արդյոք { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչն է
     .accesskey = շ
@@ -146,8 +158,8 @@ open-new-link-as-tabs =
 open-external-link-next-to-active-tab =
     .label = Բացել հղումները հավելվածներից՝ Ձեր ակտիվ ներդիրի կողքին
 ask-on-close-multiple-tabs =
-    .label = Հարցնել բազմակի ներդիրները փակելիս
-    .accesskey = m
+    .label = Հարցնել բազում ներդիրներ փակելուց առաջ
+    .accesskey = բ
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted
@@ -157,8 +169,8 @@ ask-on-quit-with-key =
     .label = Հարցնել նախքան { $quitKey }-ով լքելը
     .accesskey = ն
 confirm-on-close-multiple-tabs =
-    .label = Զգուշացնել բազմակի ներդիրները փակելիս
-    .accesskey = m
+    .label = Հաստատել բազում ներդիրներ փակելուց առաջ
+    .accesskey = բ
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted
@@ -321,7 +333,7 @@ download-save-where-2 =
     .label = Ֆայլերը պահպանել`
     .accesskey = ե
 download-header = Ներբեռնումներ
-download-save-where = Ֆայլերը պահպանել`
+download-save-where = Ֆայլերի պահպանման վայրը
     .accesskey = ե
 download-choose-folder =
     .label =
@@ -417,8 +429,8 @@ applications-use-os-default-label =
 
 applications-handle-new-file-types-description = Ի՞նչ պետք է անի { -brand-short-name }-­ն այլ ֆայլերի հետ:
 applications-save-for-new-types =
-    .label = Պահի ֆայլերը
-    .accesskey = S
+    .label = Պահպանի ֆայլերը
+    .accesskey = Պ
 applications-ask-before-handling =
     .label = Հարցնի՝ բացել, թե պահել ֆայլերը
     .accesskey = A
@@ -528,7 +540,7 @@ network-settings-title = Ցանցի կարգավորումներ
 network-proxy-connection-description = Կարգավորեք, թե ինչպես { -brand-short-name }-ը միանա համացանցին:
 network-proxy-connection-learn-more = Իմանալ ավելին
 network-proxy-connection-settings =
-    .label = Կարգավորել...
+    .label = Կարգավորումներ…
     .accesskey = ա
 
 ## Home Section
