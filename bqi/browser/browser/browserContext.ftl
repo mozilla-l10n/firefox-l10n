@@ -80,6 +80,12 @@ main-context-menu-page-save =
 main-context-menu-edit-bookmark-mac =
     .label = آلشت نشووک
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = نشووک ناهاڌن بلگه…
+    .accesskey = m
+    .tooltiptext = نشووک ناهاڌن بلگه ({ $shortcut })
 main-context-menu-edit-bookmark =
     .aria-label = آلشت نشووک
     .accesskey = m
@@ -329,5 +335,20 @@ main-context-menu-print-selection-2 =
 main-context-menu-view-selection-source =
     .label = نیشتن بونچک پسند وابیڌه
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = گرؽڌن شؽوات ز بلگه
+    .accesskey = T
+main-context-menu-take-frame-screenshot =
+    .label = گرؽڌن شؽوات ز بلگه
+    .accesskey = o
+main-context-menu-view-page-source =
+    .label = نیشتن کود بونچک بلگه
+    .accesskey = V
+main-context-menu-bidi-switch-text =
+    .label = آلشت جهت هؽل
+    .accesskey = w
+main-context-menu-bidi-switch-page =
+    .label = آلشت جهت بلگه
+    .accesskey = D
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = نۊ

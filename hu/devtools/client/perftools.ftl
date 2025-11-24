@@ -158,4 +158,6 @@ perftools-presets-power-label = Energiagazdálkodás
 perftools-presets-power-description = Előbeállítás a { -brand-shorter-name } energiagazdálkodási hibáinak kivizsgálásához, alacsony többletfogyasztással.
 perftools-presets-debug-label = Hibakeresés
 perftools-presets-debug-description = Előbeállítás a { -brand-shorter-name }ban való hibakereséshez. Magas többletterhelés, ne teljesítménykritikus munkához használja, hanem a böngésző viselkedésének megértéséhez.
+perftools-presets-web-compat-label = Webkompatibilitás
+perftools-presets-web-compat-description = Ajánlott előbeállítás a weboldalak webes kompatibilitási problémáinak kereséséhez, nem pedig a teljesítmény követéséhez.
 perftools-presets-custom-label = Egyéni

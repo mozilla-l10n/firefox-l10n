@@ -285,6 +285,22 @@ tab-context-move-tab-to-group =
            *[other] Lapok hozzáadása csoporthoz
         }
     .accesskey = c
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Osztott nézet hozzáadása új csoporthoz
+            [one] Osztott nézet hozzáadása új csoporthoz
+           *[other] Osztott nézetek hozzáadása új csoporthoz
+        }
+    .accesskey = c
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Osztott nézet hozzáadása csoporthoz
+            [one] Osztott nézet hozzáadása csoporthoz
+           *[other] Osztott nézetek hozzáadása csoporthoz
+        }
+    .accesskey = c
 tab-context-move-tab-to-group-saved-groups =
     .label = Bezárt csoportok
 tab-group-editor-action-new-tab =
@@ -348,6 +364,25 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Csoport megnyitása új ablakban
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Jegyzet hozzáadása
+    .accesskey = a
+tab-context-edit-note =
+    .label = Jegyzet szerkesztése
+    .accesskey = e
+tab-note-editor-title-create = Jegyzet hozzáadása
+tab-note-editor-title-edit = Jegyzet szerkesztése
+tab-note-editor-text-field =
+    .placeholder = Mire akar emlékezni ezzel a lappal kapcsolatosan?
+tab-note-editor-button-cancel =
+    .label = Mégse
+    .accesskey = M
+tab-note-editor-button-save =
+    .label = Mentés
+    .accesskey = e
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -366,3 +401,14 @@ tab-context-separate-split-view =
     .label = Külön osztott nézet
     .accesskey = K
 tab-context-badge-new = Új
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Lapok szétválasztása
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Lapok felcserélése
+split-view-menuitem-close-both-tabs =
+    .label = Mindkét lap bezárása

@@ -1094,9 +1094,22 @@ forms-saved-passwords =
 forms-saved-passwords-2 =
     .label = Mentett jelszavak kezelése
     .accesskey = j
+forms-saved-passwords-searchkeywords = A következő webhelyekhez vannak tárolva bejelentkezések a számítógépen
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = További védelmek
 forms-primary-pw-use =
     .label = Elsődleges jelszó használata
     .accesskey = E
+forms-primary-pw-set =
+    .label = Elsődleges jelszó beállítása
+forms-primary-pw-on =
+    .label = Elsődleges jelszó BE
+forms-primary-pw-change-2 =
+    .label = Elsődleges jelszó megváltoztatása
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Kikapcsolás
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Az eszköz által biztosított bejelentkezés megkövetelése a jelszavak kitöltéséhez és kezeléséhez
@@ -1162,6 +1175,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Fizetési információk mentése és automatikus kitöltése
     .accesskey = f
+autofill-payment-methods-manage-payments-title =
+    .heading = Fizetési módok kezelése
 autofill-payment-methods-manage-payments-button =
     .label = Fizetési módok kezelése
     .accesskey = k
@@ -1169,6 +1184,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Az eszköz által biztosított bejelentkezés megkövetelése a fizetési módok automatikus kitöltéséhez és kezeléséhez
     .accesskey = m
+autofill-payment-methods-add-button = Új fizetési mód hozzáadása
+payments-list-header =
+    .label = Fizetési módok
+payments-list-item-label = <strong>Fizetési módok</strong>
+payments-remove-payment-prompt-title = Eltávolítja ezt a fizetési módot?
+payments-remove-payment-prompt-confirm-button = Eltávolítás
+payments-remove-payment-prompt-cancel-button = Mégse
 autofill-addresses-title = Címek és egyebek
 autofill-addresses-header =
     .aria-label = Címek és egyebek
@@ -1178,6 +1200,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Címek és egyebek kezelése
     .accesskey = k
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1552,6 +1582,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Felugró ablakok és külső átirányítások blokkolása
     .accesskey = b
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Felugró ablakok és harmadik féltől származó átirányítási kivételek kezelése…
+    .accesskey = e
+    .searchkeywords = felugró ablakok
+permissions-addon-install-warning2 =
+    .label = Figyelmeztetés, ha a webhely kiegészítőket próbál meg telepíteni
+    .accesskey = F
+permissions-addon-exceptions2 =
+    .label = Válassza ki, hogy mely webhelyek telepíthetnek kiegészítőket
+    .accesskey = e
 permissions-block-popups =
     .label = Felugró ablakok tiltása
     .accesskey = F
@@ -1567,6 +1609,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Kivételek…
     .accesskey = K
+permissions-header2 =
+    .label = Jogosultságok
+    .description = Felkeresett webhelyeknek adott jogosultságok
 permissions-location2 =
     .label = Hely
 permissions-localhost2 =
@@ -1579,6 +1624,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Hangszóró
 permissions-notification2 =
     .label = Értesítések
 
