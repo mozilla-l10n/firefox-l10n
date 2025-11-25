@@ -149,6 +149,8 @@ preferences-data-migration-button =
     .accesskey = m
 preferences-profiles-header = පැතිකඩ
 preferences-manage-profiles-learn-more = තව දැනගන්න
+tabs-group-header2 =
+    .label = පටිති
 tabs-group-header = පටිති
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab මෑතදී භාවිතා කළ අනුපිළිවෙලට පටිති සකසයි
@@ -581,6 +583,9 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
