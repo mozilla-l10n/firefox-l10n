@@ -9,7 +9,7 @@ sync-disconnect-dialog-button = Deconectează-te
 fxa-signout-dialog2-title = Te deconectezi din { -fxaccount-brand-name(case: "definite-article") }?
 fxa-signout-dialog-title2 = Ieși din cont?
 fxa-signout-dialog-body = Datele sincronizate vor rămâne în cont.
-fxa-signout-dialog2-button = Deconectează-te
+fxa-signout-dialog2-button = Ieși din cont
 fxa-signout-dialog2-checkbox = Șterge datele de pe acest dispozitiv (parole, istoric, marcaje etc.).
 fxa-menu-sync-settings =
     .label = Setări de sincronizare
@@ -44,7 +44,7 @@ fxa-menu-send-tab-to-device-syncnotready =
 # This is shown within "Send tab to device" in fxa menu if account is not configured.
 fxa-menu-send-tab-to-device-description = Trimite o filă instant pe orice dispozitiv pe care ești autentificat(ă) în cont.
 fxa-menu-sign-out =
-    .label = Deconectează-te…
+    .label = Ieși din cont…
 fxa-menu-sync-description = Intră pe web de oriunde
 fxa-avatar-sign-in = Intră în cont
 fxa-avatar-sign-up = Fă-ți un cont

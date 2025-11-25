@@ -400,7 +400,7 @@ about-logins-import-dialog-items-added =
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-       *[other] <span>Date de conectare existente actualizate:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Date de autentificare existente actualizate:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
