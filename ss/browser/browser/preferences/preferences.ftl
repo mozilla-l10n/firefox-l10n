@@ -34,6 +34,8 @@ close-button =
 
 ## General Section
 
+tabs-group-header2 =
+    .label = Emathebhu
 tabs-group-header = Emathebhu
 
 ## Variables:
@@ -93,7 +95,10 @@ browsing-use-smooth-scrolling =
 ## Home Section
 
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
+
+
+## Custom Homepage subpage
 
 
 ## Home Section - Firefox Home Content Customization
