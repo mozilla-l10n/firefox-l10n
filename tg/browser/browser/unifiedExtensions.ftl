@@ -11,6 +11,8 @@
 unified-extensions-header-title = Васеъшавиҳо
 unified-extensions-manage-extensions =
     .label = Идоракунии васеъшавиҳо
+unified-extensions-discover-extensions =
+    .label = Кашф кардани васеъшавиҳо
 
 ## An extension in the main list
 

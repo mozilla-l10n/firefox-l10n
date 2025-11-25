@@ -337,6 +337,15 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Кушодани гурӯҳ дар равзанаи нав
 
+## Tab Notes
+
+tab-note-editor-button-cancel =
+    .label = Бекор кардан
+    .accesskey = к
+tab-note-editor-button-save =
+    .label = Нигоҳ доштан
+    .accesskey = г
+
 ## Split View
 
 tab-context-badge-new = Нав

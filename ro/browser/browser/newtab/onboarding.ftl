@@ -47,7 +47,7 @@ onboarding-welcome-steps-indicator-label =
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Dezactivează animațiile
 # String for the Firefox Accounts button
-mr1-onboarding-sign-in-button-label = Autentificare
+mr1-onboarding-sign-in-button-label = Intră în cont
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
@@ -337,7 +337,7 @@ onboarding-device-migration-image-alt =
 onboarding-device-migration-title = Bine ai revenit!
 onboarding-device-migration-subtitle = Intră în contul tău { -fxaccount-brand-name(capitalization: "sentence") } ca să îți aduci marcajele, parolele și istoricul pe dispozitivul nou.
 onboarding-device-migration-subtitle2 = Intră în contul tău ca să îți aduci marcajele, parolele și istoricul pe dispozitivul nou.
-onboarding-device-migration-primary-button-label = Autentificare
+onboarding-device-migration-primary-button-label = Intră în cont
 
 ## Add-ons Picker screen
 
@@ -487,7 +487,7 @@ create-backup-screen-1-subtitle = Protejează-ți automat parolele, marcajele ș
 create-backup-screen-1-flair = Recomandat
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Află mai multe</a>
 create-backup-screen-1-sync-label = Sincronizează cu { -brand-product-name }
-create-backup-screen-1-sync-body = Face copii de rezervă pentru toate dispozitivele conectate
+create-backup-screen-1-sync-body = Face copii de rezervă pentru toate dispozitivele pe care ești autentificat(ă)
 create-backup-screen-1-backup-label = Copie de rezervă pe calculator
 create-backup-screen-1-backup-body = Salvează pe dispozitiv sau în OneDrive
 create-backup-select-tile-button-label = Selectează

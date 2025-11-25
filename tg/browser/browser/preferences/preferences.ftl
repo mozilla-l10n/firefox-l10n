@@ -656,6 +656,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Сомонаҳое, ки шумо нигоҳ медоред ё ба онҳо ворид мешавед
 home-prefs-shortcuts-by-option-sponsored =
     .label = Миёнбурҳои сарпарастӣ
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -701,6 +703,8 @@ home-prefs-weather-header =
     .label = Обу ҳаво
 home-prefs-weather-description = Ҳолати обу ҳаво барои имрӯз
 home-prefs-weather-learn-more-link = Маълумоти бештар
+home-prefs-widgets-header =
+    .label = Виҷетҳо
 home-prefs-trending-search-header =
     .label = Ҷустуҷӯҳои ҳавасангез
 home-prefs-trending-search-description = Мавзуъҳои маъмул ва ҷустуҷӯшавандаи такрорӣ
@@ -715,6 +719,8 @@ home-prefs-support-firefox-header =
     .label = Дастгирӣ кардани «{ -brand-product-name }»
 home-prefs-mission-message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд
 home-prefs-mission-message-learn-more-link = Бифаҳмед, ки чӣ тавр
+home-prefs-mission-message2 =
+    .message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд.
 home-prefs-manage-topics-link = Идоракунии мавзуъҳо
 home-prefs-choose-wallpaper-link = Тасвири заминаиеро интихоб намоед
 # Variables:
@@ -1024,6 +1030,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Ниҳонвожаҳо
     .searchkeywords = воридшавиҳо
+forms-passwords-header =
+    .label = Ниҳонвожаҳо
+    .aria-label = Ниҳонвожаҳо
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Дархост барои нигоҳ доштани ниҳонвожаҳо
@@ -1136,6 +1145,8 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Дархости воридшавӣ дар дастгоҳ барои ба таври худкор пур кардан ва идора намудани тарзҳои пардохт
     .accesskey = Д
+payments-remove-payment-prompt-confirm-button = Тоза кардан
+payments-remove-payment-prompt-cancel-button = Бекор кардан
 autofill-addresses-title = Нишониҳо ва ғайра
 autofill-addresses-header =
     .aria-label = Нишониҳо ва ғайра
@@ -1145,6 +1156,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Идоракунии нишониҳо ва ғайра
     .accesskey = И
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1267,6 +1286,8 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Навори нишонӣ
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Ҳангоми истифодаи навори нишонӣ, имконоти зерин пешниҳод карда мешавад
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Навори нишонӣ — { -firefox-suggest-brand-name }
@@ -1520,6 +1541,9 @@ permissions-camera2 =
     .label = Камера
 permissions-microphone2 =
     .label = Микрофон
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Баландгӯяк
 permissions-notification2 =
     .label = Огоҳномаҳо
 

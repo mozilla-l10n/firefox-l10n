@@ -35,7 +35,7 @@ pocket-panel-signup-add-tags = Adaugă etichete:
 
 pocket-panel-signup-already-have = Ești deja un utilizator { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Află mai multe
-pocket-panel-signup-login = Autentifică-te
+pocket-panel-signup-login = Intră în cont
 pocket-panel-signup-signup-email = Înscrie-te cu un e-mail
 pocket-panel-signup-signup-cta = Înscrie-te pentru { -pocket-brand-name }. Este gratuit.
 pocket-panel-signup-signup-firefox = Fă-ți un cont { -brand-product-name }

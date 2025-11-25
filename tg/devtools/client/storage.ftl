@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Анҷоми муҳлат/санаи н�
 storage-table-headers-cookies-size = Андоза
 storage-table-headers-cookies-last-accessed = Дастрасии охирин
 storage-table-headers-cookies-creation-time = Санаи эҷод
+storage-table-headers-cookies-update-time = Санаи навсозӣ
 storage-table-headers-cache-status = Вазъият
 storage-table-headers-extension-storage-area = Минтақаи захирагоҳ
 

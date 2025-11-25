@@ -214,7 +214,7 @@ about-logins-export-password-os-auth-dialog-message2-macosx = exportă parolele 
 
 about-logins-primary-password-notification-message = Te rugăm să îți introduci parola primară pentru a vedea credențialele și parolele salvate
 master-password-reload-button =
-    .label = Autentifică-te
+    .label = Intră în cont
     .accesskey = L
 
 ## Dialogs
