@@ -194,6 +194,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-learn-more =
     .label = قلوه دووسته بۊین
     .accesskey = L
+urlbar-result-menu-remove-from-history =
+    .label = وورداشتن ز ویرگار
+    .accesskey = R
 
 ##
 
