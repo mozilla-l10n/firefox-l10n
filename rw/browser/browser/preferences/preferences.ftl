@@ -36,6 +36,8 @@ close-button =
 ## General Section
 
 startup-header = Ntangiriro
+tabs-group-header2 =
+    .label = Udufishi
 tabs-group-header = Udufishi
 
 ## Variables:
@@ -131,7 +133,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 
-## Home Section - Home Page Customization
+## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -144,6 +146,9 @@ use-current-pages =
            *[other] Koresha Paji Ziriho
         }
     .accesskey = I
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
