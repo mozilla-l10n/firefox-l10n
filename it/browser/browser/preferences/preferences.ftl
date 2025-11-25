@@ -172,6 +172,22 @@ preferences-manage-profiles-description = Ogni profilo mantiene dati di navigazi
 preferences-manage-profiles-learn-more = Ulteriori informazioni
 preferences-manage-profiles-button =
     .label = Gestisci profili
+preferences-profiles-settings-button =
+    .label = Impostazioni
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Copia un profilo esistente
+    .description = Il nuovo profilo copierà impostazioni, componenti aggiuntivi, cronologia e dati salvati come segnalibri e password, ma non includerà il tuo account né le informazioni di sincronizzazione.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profilo da copiare
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Seleziona profilo
+preferences-copy-profile-button = Copia
 tabs-group-header2 =
     .label = Schede
 tabs-opening-heading =
