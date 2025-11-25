@@ -308,6 +308,14 @@ tab-context-move-split-view-to-new-group =
            *[other] Adaugă vizualizări divizate la un grup nou
         }
     .accesskey = v
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Adaugă vizualizare divizată la grup
+            [one] Adaugă vizualizare divizată la grup
+           *[other] Adaugă vizualizări divizate la grup
+        }
+    .accesskey = v
 tab-context-move-tab-to-group-saved-groups =
     .label = Grupuri închise
 tab-group-editor-action-new-tab =
