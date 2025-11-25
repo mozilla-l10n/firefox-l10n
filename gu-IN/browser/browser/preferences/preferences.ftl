@@ -80,6 +80,8 @@ startup-restore-warn-on-quit =
     .label = બ્રાઉઝર છોડતી વખતે તમને ચેતવણી આપે છે.
 disable-extension =
     .label = એક્સ્ટેંશન અક્ષમ કરો
+tabs-group-header2 =
+    .label = ટૅબ્સ
 tabs-group-header = ટૅબ્સ
 ctrl-tab-recently-used-order =
     .label = તાજેતરમાં ઉપયોગમાં લેવાયેલી ક્રમમાં ટેબ દ્વારા Ctrl+Tab ચક્ર
@@ -359,6 +361,9 @@ choose-bookmark =
     .label = બુકમાર્ક વાપરો…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -492,6 +497,12 @@ sync-sign-in =
     .label = સાઇન ઇન કરો
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -579,6 +590,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = પાસવર્ડ બદલવાનું નિષ્ફળ
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ઇતિહાસ
@@ -656,6 +673,12 @@ sitedata-clear =
 sitedata-settings =
     .label = ડેટા સંચાલન કરો…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -788,6 +811,9 @@ addon-recommendations-link = વધુ શીખો
 # or builds with no Telemetry support available.
 collection-health-report-disabled = આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -819,6 +845,12 @@ certs-devices =
     .label = સુરક્ષા ઉપકરણો…
     .accesskey = D
 certs-devices-enable-fips = FIPS સક્રિય કરો
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
