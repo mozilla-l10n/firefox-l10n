@@ -137,10 +137,10 @@ tab-context-move-tabs =
 tab-context-send-to-device =
     .label =
         { $tabCount ->
-            [1] Trimite către dispozitiv
-            [one] Trimite { $tabCount } filă către dispozitiv
-            [few] Trimite { $tabCount } file către dispozitiv
-           *[other] Trimite { $tabCount } de file către dispozitiv
+            [1] Trimite către un dispozitiv
+            [one] Trimite { $tabCount } filă către un dispozitiv
+            [few] Trimite { $tabCount } file către un dispozitiv
+           *[other] Trimite { $tabCount } de file către un dispozitiv
         }
     .accesskey = n
 tab-context-send-tabs-to-device =

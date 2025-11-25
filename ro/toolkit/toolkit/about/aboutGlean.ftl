@@ -197,6 +197,8 @@ about-glean-button-watch = Monitorizează
 about-glean-button-unwatch = Oprește monitorizarea
 about-glean-no-data-to-display = Nu sunt date de afișat.
 # Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = Metricile <code>DualLabeledCounter</code> încă nu sunt acceptate în vizualizarea <code>about:glean</code>
+# Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Metricile etichetate încă nu sunt acceptate în vizualizarea <code>about:glean</code>
 about-glean-unknown-metric-type-warning = Tip necunoscut de metrică.
 about-glean-enable-new-features-promo =

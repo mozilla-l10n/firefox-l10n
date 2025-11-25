@@ -20,6 +20,17 @@ fxa-menu-connect-another-device =
     .label = Conectează alt dispozitiv…
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Trimite către un dispozitiv
+            [one] Trimite { $tabCount } filă către un dispozitiv
+            [few] Trimite { $tabCount } file către un dispozitiv
+           *[other] Trimite { $tabCount } de file către un dispozitiv
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->
@@ -30,6 +41,8 @@ fxa-menu-send-tab-to-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Se sincronizează dispozitivele…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Trimite o filă instant pe orice dispozitiv pe care ești autentificat(ă) în cont.
 fxa-menu-sign-out =
     .label = Deconectează-te…
 fxa-menu-sync-description = Intră pe web de oriunde
