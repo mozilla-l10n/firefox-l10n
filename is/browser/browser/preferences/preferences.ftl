@@ -160,6 +160,8 @@ preferences-manage-profiles-description = Hvert snið hefur aðskilin vafurgögn
 preferences-manage-profiles-learn-more = Kanna nánar
 preferences-manage-profiles-button =
     .label = Sýsla með notkunarsnið
+tabs-group-header2 =
+    .label = Flipar
 tabs-group-header = Flipar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab skiptir á milli flipa í notkunarröð
@@ -619,6 +621,9 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
