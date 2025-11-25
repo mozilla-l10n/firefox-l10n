@@ -241,6 +241,10 @@ quickactions-cmd-extensions2 = وردنی یل، addons، add-ons
 quickactions-cmd-extensions = وردنی یل
 # Opens the devtools web inspector
 quickactions-inspector2 = گۊشیڌن ٱوزارا برنومه نویس
+quickactions-cmd-inspector = واجۊری، ٱوزارا برنومه نویسی
+# Opens about:logins
+quickactions-logins2 = دؽوۉداری رزما
+quickactions-cmd-logins = و من ٱووڌنا، رزما
 # Opens the print dialog
 quickactions-print2 = چاپ بلگه
 quickactions-cmd-print = چاپ
