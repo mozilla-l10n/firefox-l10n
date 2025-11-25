@@ -155,11 +155,20 @@ preferences-data-migration-description = Імпорт закладок, паро
 preferences-data-migration-button =
     .label = Імпорт даних
     .accesskey = м
+preferences-profiles-group-header =
+    .heading = Профілі
+preferences-profiles-subpane-description =
+    .description = Кожен профіль має окремі дані перегляду і налаштування, зокрема історію, паролі тощо.
+preferences-profiles-section-header =
+    .label = Профілі
+    .description = Кожен профіль має окремі дані перегляду і налаштування, зокрема історію, паролі тощо.
 preferences-profiles-header = Профілі
 preferences-manage-profiles-description = Кожен профіль має окремі дані перегляду і налаштування, зокрема історію, паролі тощо.
 preferences-manage-profiles-learn-more = Докладніше
 preferences-manage-profiles-button =
     .label = Керувати профілями
+tabs-group-header2 =
+    .label = Вкладки
 tabs-group-header = Вкладки
 ctrl-tab-recently-used-order =
     .label = Перемикати вкладки натисканням Ctrl+Tab у порядку недавнього їх використання
@@ -627,6 +636,9 @@ use-current-pages =
 choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

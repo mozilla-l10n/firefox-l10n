@@ -155,11 +155,20 @@ preferences-data-migration-description = Impuarte segnelibris, passwords, cronol
 preferences-data-migration-button =
     .label = Impuarte dâts
     .accesskey = m
+preferences-profiles-group-header =
+    .heading = Profîi
+preferences-profiles-subpane-description =
+    .description = Ogni profîl al manten dâts di navigazion e impostazions indipendentis, includûts cronologjie, passwords e altris dâts.
+preferences-profiles-section-header =
+    .label = Profîi
+    .description = Ogni profîl al manten dâts di navigazion e impostazions indipendentis, includûts cronologjie, passwords e altris dâts.
 preferences-profiles-header = Profîi
 preferences-manage-profiles-description = Ogni profîl al manten dâts di navigazion e impostazions indipendentis, includûts cronologjie, passwords e altris dâts.
 preferences-manage-profiles-learn-more = Plui informazions
 preferences-manage-profiles-button =
     .label = Gjestìs profîi
+tabs-group-header2 =
+    .label = Schedis
 tabs-group-header = Schedis
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab al fâs scori lis schedis lant daûr l'ordin di chês dopradis plui di resint
@@ -624,6 +633,9 @@ use-current-pages =
 choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

@@ -145,6 +145,8 @@ preferences-data-migration-description = Importar los marcapaginas, senhals, l�
 preferences-data-migration-button =
     .label = Importar las donadas
     .accesskey = m
+tabs-group-header2 =
+    .label = Onglets
 tabs-group-header = Onglets
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab fa passar los onglets dins l'òrdre de darrièra utilizacion
@@ -572,6 +574,9 @@ use-current-pages =
 choose-bookmark =
     .label = Favorits…
     .accesskey = s
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

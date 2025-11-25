@@ -137,10 +137,14 @@ preferences-data-migration-description = Enporzhiañ sinedoù, gerioù-tremen, a
 preferences-data-migration-button =
     .label = Enporzhiañ roadennoù
     .accesskey = E
+preferences-profiles-group-header =
+    .heading = Profiloù
 preferences-profiles-header = Profiloù
 preferences-manage-profiles-learn-more = Gouzout hiroc’h
 preferences-manage-profiles-button =
     .label = Merañ ar profiloù
+tabs-group-header2 =
+    .label = Ivinelloù
 tabs-group-header = Ivinelloù
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab evit mont d'an ivinell implijet da ziwezhañ
@@ -542,6 +546,9 @@ use-current-pages =
 choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1037,6 +1044,9 @@ sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = Gouzout hiroc’h
@@ -1254,6 +1264,9 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

@@ -147,6 +147,8 @@ preferences-data-migration-description = Importa les adreces d'interès, les con
 preferences-data-migration-button =
     .label = Importa les dades
     .accesskey = m
+tabs-group-header2 =
+    .label = Pestanyes
 tabs-group-header = Pestanyes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab canvia de pestanya en ordre d'ús recent
@@ -574,6 +576,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

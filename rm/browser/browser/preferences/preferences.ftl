@@ -155,11 +155,20 @@ preferences-data-migration-description = Importar segnapaginas, pleds-clav, la c
 preferences-data-migration-button =
     .label = Importar datas
     .accesskey = m
+preferences-profiles-group-header =
+    .heading = Profils
+preferences-profiles-subpane-description =
+    .description = Mintga profil ha datas da navigaziun e parameters separads; quai includa la cronologia, ils pleds-clav e dapli.
+preferences-profiles-section-header =
+    .label = Profils
+    .description = Mintga profil ha datas da navigaziun e parameters separads; quai includa la cronologia, ils pleds-clav e dapli.
 preferences-profiles-header = Profils
 preferences-manage-profiles-description = Mintga profil ha datas da navigaziun e parameters separads; quai includa la cronologia, ils pleds-clav e dapli.
 preferences-manage-profiles-learn-more = Ulteriuras infurmaziuns
 preferences-manage-profiles-button =
     .label = Administrar ils profils
+tabs-group-header2 =
+    .label = Tabs
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab siglia dad in tab a l'auter en la successiun da l'ultima utilisaziun
@@ -624,6 +633,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

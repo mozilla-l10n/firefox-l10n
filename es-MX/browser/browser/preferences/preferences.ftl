@@ -155,11 +155,20 @@ preferences-data-migration-description = Importa marcadores, contraseñas, histo
 preferences-data-migration-button =
     .label = Importar datos
     .accesskey = m
+preferences-profiles-group-header =
+    .heading = Perfiles
+preferences-profiles-subpane-description =
+    .description = Cada perfil tiene sus propios datos y configuraciones de navegación, incluido el historial, las contraseñas, etc.
+preferences-profiles-section-header =
+    .label = Perfiles
+    .description = Cada perfil tiene sus propios datos y configuraciones de navegación, incluido el historial, las contraseñas, etc.
 preferences-profiles-header = Perfiles
 preferences-manage-profiles-description = Cada perfil tiene sus propios datos y configuraciones de navegación, incluido el historial, las contraseñas, etc.
 preferences-manage-profiles-learn-more = Más información
 preferences-manage-profiles-button =
     .label = Administrar perfiles
+tabs-group-header2 =
+    .label = Pestañas
 tabs-group-header = Pestañas
 ctrl-tab-recently-used-order =
     .label = Ctrl + Tab recorre pestañas según su uso reciente
@@ -617,6 +626,9 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

@@ -40,6 +40,8 @@ should-restart-title = Zrëszë { -brand-short-name } znowa.
 ## General Section
 
 startup-header = Zrëszanié
+tabs-group-header2 =
+    .label = Kôrtë
 tabs-group-header = Kôrtë
 show-tabs-in-taskbar =
     .label = Przeniesë kôrtë na lëstwã dzejaniô Windowsa

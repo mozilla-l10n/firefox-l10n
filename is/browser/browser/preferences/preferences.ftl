@@ -155,11 +155,20 @@ preferences-data-migration-description = Flyttu inn bókamerki, lykilorð, feril
 preferences-data-migration-button =
     .label = Flytja inn gögn
     .accesskey = F
+preferences-profiles-group-header =
+    .heading = Notkunarsnið
+preferences-profiles-subpane-description =
+    .description = Hvert snið hefur aðskilin vafurgögn og stillingar, þar á meðal feril, lykilorð og fleira.
+preferences-profiles-section-header =
+    .label = Notkunarsnið
+    .description = Hvert snið hefur aðskilin vafurgögn og stillingar, þar á meðal feril, lykilorð og fleira.
 preferences-profiles-header = Notkunarsnið
 preferences-manage-profiles-description = Hvert snið hefur aðskilin vafurgögn og stillingar, þar á meðal feril, lykilorð og fleira.
 preferences-manage-profiles-learn-more = Kanna nánar
 preferences-manage-profiles-button =
     .label = Sýsla með notkunarsnið
+tabs-group-header2 =
+    .label = Flipar
 tabs-group-header = Flipar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab skiptir á milli flipa í notkunarröð
@@ -619,6 +628,9 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

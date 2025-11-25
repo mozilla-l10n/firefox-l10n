@@ -155,11 +155,20 @@ preferences-data-migration-description = Importa sinnalibros, craes, cronologia 
 preferences-data-migration-button =
     .label = Importa is datos
     .accesskey = d
+preferences-profiles-group-header =
+    .heading = Profilos
+preferences-profiles-subpane-description =
+    .description = Onni profilu tenet cunfiguratziones e datos de navigatzione separados, includende sa cronologia, is craes e àteru
+preferences-profiles-section-header =
+    .label = Profilos
+    .description = Onni profilu tenet cunfiguratziones e datos de navigatzione separados, includende sa cronologia, is craes e àteru
 preferences-profiles-header = Profilos
 preferences-manage-profiles-description = Onni profilu tenet cunfiguratziones e datos de navigatzione separados, includende sa cronologia, is craes e àteru
 preferences-manage-profiles-learn-more = Àteras informatziones
 preferences-manage-profiles-button =
     .label = Gesti is profilos
+tabs-group-header2 =
+    .label = Ischedas
 tabs-group-header = Ischedas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cuncàmbiat ischedas in s’òrdine de impreu reghente
@@ -621,6 +630,9 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

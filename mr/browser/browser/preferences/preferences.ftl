@@ -79,6 +79,8 @@ startup-restore-warn-on-quit =
     .label = ब्राउझर सोडताना चेतावनी द्या
 disable-extension =
     .label = वाढीव कार्यक्रम निष्क्रिय करा
+tabs-group-header2 =
+    .label = टॅब्ज
 tabs-group-header = टॅब्ज
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab वापरलेल्या क्रमामध्ये टॅब्स बदली करते
@@ -371,6 +373,9 @@ choose-bookmark =
     .label = वाचनखूणाचा वापर करा…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -628,6 +633,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = पासवर्ड बदल अयशस्वी
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = इतिहास
@@ -698,6 +709,12 @@ sitedata-clear =
 sitedata-settings =
     .label = डेटा व्यवस्थापित करा...
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -849,6 +866,9 @@ addon-recommendations-link = अधिक जाणा
 # or builds with no Telemetry support available.
 collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -880,6 +900,12 @@ certs-devices =
     .label = सुरक्षा साधने
     .accesskey = D
 certs-devices-enable-fips = FIPS कार्यान्वीत करा
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

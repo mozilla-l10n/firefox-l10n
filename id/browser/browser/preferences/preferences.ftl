@@ -155,11 +155,20 @@ preferences-data-migration-description = Impor data markah, sandi, riwayat, dan 
 preferences-data-migration-button =
     .label = Impor Data
     .accesskey = I
+preferences-profiles-group-header =
+    .heading = Profil
+preferences-profiles-subpane-description =
+    .description = Setiap profil memiliki data dan pengaturan penjelajahan terpisah, termasuk riwayat, kata sandi, dan lainnya.
+preferences-profiles-section-header =
+    .label = Profil
+    .description = Setiap profil memiliki data dan pengaturan penjelajahan terpisah, termasuk riwayat, kata sandi, dan lainnya.
 preferences-profiles-header = Profil
 preferences-manage-profiles-description = Setiap profil memiliki data dan pengaturan penjelajahan terpisah, termasuk riwayat, kata sandi, dan lainnya.
 preferences-manage-profiles-learn-more = Pelajari lebih lanjut
 preferences-manage-profiles-button =
     .label = Kelola Profil
+tabs-group-header2 =
+    .label = Tab
 tabs-group-header = Tab
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab berputar melalui tab dalam urutan yang baru saja digunakan
@@ -610,6 +619,9 @@ use-current-pages =
 choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

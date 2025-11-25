@@ -164,6 +164,8 @@ preferences-data-migration-description = Увези обележиваче, ло
 preferences-data-migration-button =
     .label = Увези податке
     .accesskey = в
+tabs-group-header2 =
+    .label = Картице
 tabs-group-header = Картице
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab пролази кроз картице према редоследу коришћења
@@ -600,6 +602,9 @@ use-current-pages =
 choose-bookmark =
     .label = Користи обележивач…
     .accesskey = б
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1315,6 +1320,9 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

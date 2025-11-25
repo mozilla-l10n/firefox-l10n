@@ -153,11 +153,20 @@ preferences-data-migration-description = Внасяне на отметки, п�
 preferences-data-migration-button =
     .label = Внасяне на данни
     .accesskey = н
+preferences-profiles-group-header =
+    .heading = Профили
+preferences-profiles-subpane-description =
+    .description = Всеки профил има отделни данни и настройки за сърфиране, включително история, пароли и други.
+preferences-profiles-section-header =
+    .label = Профили
+    .description = Всеки профил има отделни данни и настройки за сърфиране, включително история, пароли и други.
 preferences-profiles-header = Профили
 preferences-manage-profiles-description = Всеки профил има отделни данни и настройки за сърфиране, включително история, пароли и други.
 preferences-manage-profiles-learn-more = Научете повече
 preferences-manage-profiles-button =
     .label = Управление на профилите
+tabs-group-header2 =
+    .label = Раздели
 tabs-group-header = Раздели
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab обикаля разделите в реда на използване
@@ -614,6 +623,9 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

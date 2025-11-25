@@ -155,11 +155,20 @@ preferences-data-migration-description = Kter ticraḍ n yisebtar, awalen uffire
 preferences-data-migration-button =
     .label = Kter isefka
     .accesskey = t
+preferences-profiles-group-header =
+    .heading = Imeɣna
+preferences-profiles-subpane-description =
+    .description = Yal amaɣnu yessemgired gar yisefka n tunigin d yiɣewwaren , gar-asen azray, awalen n uɛeddi d wayen niḍen.
+preferences-profiles-section-header =
+    .label = Imeɣna
+    .description = Yal amaɣnu yessemgired gar yisefka n tunigin d yiɣewwaren , gar-asen azray, awalen n uɛeddi d wayen niḍen.
 preferences-profiles-header = Imeɣna
 preferences-manage-profiles-description = Yal amaɣnu yessemgired gar yisefka n tunigin d yiɣewwaren , gar-asen azray, awalen n uɛeddi d wayen niḍen.
 preferences-manage-profiles-learn-more = Issin ugar
 preferences-manage-profiles-button =
     .label = Sefrek imaɣunen
+tabs-group-header2 =
+    .label = Iccaren
 tabs-group-header = Iccaren
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yessezray-d accaren n umizzwer yettwasqedcen melmi kan
@@ -617,6 +626,9 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

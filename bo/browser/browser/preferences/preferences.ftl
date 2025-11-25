@@ -80,6 +80,8 @@ startup-restore-warn-on-quit =
     .label = ལྟ་བྱེད་སྒོ་རྒྱག་དུས་ཁྱེད་དྲན་སྐུལ་བྱེད་པ།
 disable-extension =
     .label = ཟུར་སྣོན་ནུས་མེད་བཟོ་བ
+tabs-group-header2 =
+    .label = ཡན་ལག་ངོས
 tabs-group-header = ཡན་ལག་ངོས
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab མནན་ནས་ཉེ་ཆར་བེད་སྤྱོད་བྱས་པའི་ཡན་ལག་ངོས་དག་གོ་རིམ་བཞིན་ལྟ་ཀློག་བྱེད་པ།
@@ -200,6 +202,11 @@ applications-action-column =
     .label = Action
     .accesskey = A
 
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
 ##
 
 drm-content-header = Digital Rights Management (DRM) Content
@@ -314,6 +321,18 @@ choose-bookmark =
     .label = ཡིག་རྟགས་བེད་སྤྱོད…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
+
 ## Search Section
 
 search-bar-header = འཚོལ་བཤེར་ངོས
@@ -409,6 +428,12 @@ sync-sign-in =
     .label = Sign in
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -455,6 +480,10 @@ sync-device-name-save =
     .label = Save
     .accesskey = v
 
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
 ## Privacy Section
 
 privacy-header = Browser Privacy
@@ -483,6 +512,12 @@ forms-saved-logins =
 forms-master-pw-change =
     .label = གསང་གྲངས་ཨ་མ་བརྗེ་བ…
     .accesskey = M
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -561,6 +596,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Manage Data…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -678,6 +719,9 @@ addon-recommendations-link = Learn more
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -708,6 +752,12 @@ certs-view =
 certs-devices =
     .label = Security Devices…
     .accesskey = D
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

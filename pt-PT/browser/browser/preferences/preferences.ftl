@@ -153,11 +153,20 @@ preferences-data-migration-description = Importe favoritos, palavras-passe, hist
 preferences-data-migration-button =
     .label = Importar dados
     .accesskey = m
+preferences-profiles-group-header =
+    .heading = Perfis
+preferences-profiles-subpane-description =
+    .description = Cada perfil possui dados de navegação e definições separadas, incluindo histórico, palavras-passe e muito mais.
+preferences-profiles-section-header =
+    .label = Perfis
+    .description = Cada perfil possui dados de navegação e definições separadas, incluindo histórico, palavras-passe e muito mais.
 preferences-profiles-header = Perfis
 preferences-manage-profiles-description = Cada perfil possui dados de navegação e definições separadas, incluindo histórico, palavras-passe e muito mais.
 preferences-manage-profiles-learn-more = Saber mais
 preferences-manage-profiles-button =
     .label = Gerir perfis
+tabs-group-header2 =
+    .label = Separadores
 tabs-group-header = Separadores
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab permuta em ciclo os separadores pela ordem dos mais recentemente utilizados
@@ -620,6 +629,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 

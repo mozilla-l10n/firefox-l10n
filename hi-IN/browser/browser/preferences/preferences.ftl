@@ -82,6 +82,8 @@ startup-restore-warn-on-quit =
     .label = ब्राउज़र को छोड़ने पर आपको चेतावनी देता है
 disable-extension =
     .label = एक्सटेंशन अक्षम करें
+tabs-group-header2 =
+    .label = टैब
 tabs-group-header = टैब
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab टैब्स के द्वारा हाल ही में उपयोग किये गये अनुक्रम में घूमता है
@@ -394,6 +396,9 @@ choose-bookmark =
     .label = बुकमार्क का उपयोग करें…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -671,6 +676,9 @@ forms-windows-sso-learn-more-link = अधिक जानें
 master-password-os-auth-dialog-caption = { -brand-full-name }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = इतिहास
@@ -745,6 +753,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = अपवादों को प्रबंधित करें...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -906,6 +920,9 @@ addon-recommendations-link = और जानें
 # or builds with no Telemetry support available.
 collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -944,6 +961,9 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = अधिक जानें
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

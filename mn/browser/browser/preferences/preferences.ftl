@@ -39,6 +39,8 @@ should-restart-title = { -brand-short-name }-г шинээр ачаал
 ## General Section
 
 startup-header = Эхлэл
+tabs-group-header2 =
+    .label = Самбар
 tabs-group-header = Самбар
 show-tabs-in-taskbar =
     .label = Виндовсийн табыг харуулах

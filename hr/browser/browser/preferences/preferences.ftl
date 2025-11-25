@@ -153,11 +153,20 @@ preferences-data-migration-description = Uvezi zabilješke, lozinke, povijest i 
 preferences-data-migration-button =
     .label = Uvezi podatke
     .accesskey = U
+preferences-profiles-group-header =
+    .heading = Profili
+preferences-profiles-subpane-description =
+    .description = Svaki profil ima zasebne podatke o pregledavanju i postavke, uključujući povijest, lozinke i drugo.
+preferences-profiles-section-header =
+    .label = Profili
+    .description = Svaki profil ima zasebne podatke o pregledavanju i postavke, uključujući povijest, lozinke i drugo.
 preferences-profiles-header = Profili
 preferences-manage-profiles-description = Svaki profil ima zasebne podatke o pregledavanju i postavke, uključujući povijest, lozinke i drugo.
 preferences-manage-profiles-learn-more = Saznaj više
 preferences-manage-profiles-button =
     .label = Upravljaj profilima
+tabs-group-header2 =
+    .label = Kartice
 tabs-group-header = Kartice
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab kruži kroz kartice redoslijedom nedavnog korištenja
@@ -623,6 +632,9 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
