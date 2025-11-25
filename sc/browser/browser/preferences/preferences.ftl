@@ -160,6 +160,8 @@ preferences-manage-profiles-description = Onni profilu tenet cunfiguratziones e 
 preferences-manage-profiles-learn-more = Àteras informatziones
 preferences-manage-profiles-button =
     .label = Gesti is profilos
+tabs-group-header2 =
+    .label = Ischedas
 tabs-group-header = Ischedas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cuncàmbiat ischedas in s’òrdine de impreu reghente
@@ -621,6 +623,9 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
