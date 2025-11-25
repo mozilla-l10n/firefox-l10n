@@ -157,6 +157,8 @@ preferences-manage-profiles-description = Profil bakoitzak nabigazio-datu eta ez
 preferences-manage-profiles-learn-more = Argibide gehiago
 preferences-manage-profiles-button =
     .label = Kudeatu profilak
+tabs-group-header2 =
+    .label = Fitxak
 tabs-group-header = Fitxak
 ctrl-tab-recently-used-order =
     .label = Ktrl+Tab konbinazioak fitxaz aldatzen du azkenekoz erabilitako ordenan
@@ -1563,6 +1565,9 @@ privacy-segmentation-radio-off =
     .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
