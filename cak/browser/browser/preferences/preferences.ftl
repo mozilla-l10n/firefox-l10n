@@ -128,6 +128,8 @@ preferences-data-migration-header = Ke'ajik'a' Rutzij Okik'amaya'l
 preferences-data-migration-button =
     .label = Tijik' Tzij
     .accesskey = j
+tabs-group-header2 =
+    .label = Taq ruwi'
 tabs-group-header = Taq ruwi'
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab mejaj pa taq ruwi' pa k'ak'a' kokisaxik kicholajem
@@ -513,6 +515,9 @@ choose-bookmark =
     .label = Tokisäx yaketal…
     .accesskey = y
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Rupam { -firefox-home-brand-name }
@@ -861,6 +866,9 @@ primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tz
 primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Natab'äl
@@ -1162,6 +1170,9 @@ privacy-segmentation-radio-off =
     .label = Tokisäx ruchilab'exik { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Tik'ut pe ri cholajin retamab'al
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
