@@ -222,10 +222,25 @@ page-action-remove-extension2 =
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = وردنی یل، تما، addons، add-ons
+quickactions-cmd-addons2 = وردنی یل
+# Opens the bookmarks library window
+quickactions-bookmarks2 = دؽوۉداری نشووکا
+quickactions-cmd-bookmarks = نشووکا
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = روفتن ویرگار دیندایی
+quickactions-cmd-clearrecenthistory = روفتن ویرگار دیندایی، ویرگار
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = روفتن ویرگار
+quickactions-cmd-clearhistory = روفتن ویرگار
+# Opens about:downloads page
+quickactions-downloads2 = نیشتن دانلودا
+quickactions-cmd-downloads = دانلودا
 # Opens about:addons page in the extensions section
 quickactions-extensions = دؽوۉداری وردنی یل
 quickactions-cmd-extensions2 = وردنی یل، addons، add-ons
 quickactions-cmd-extensions = وردنی یل
+# Opens the devtools web inspector
+quickactions-inspector2 = گۊشیڌن ٱوزارا برنومه نویس
 # Opens the print dialog
 quickactions-print2 = چاپ بلگه
 quickactions-cmd-print = چاپ
