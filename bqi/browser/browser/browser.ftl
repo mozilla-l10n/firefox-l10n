@@ -265,9 +265,18 @@ quickactions-cmd-print = چاپ
 quickactions-savepdf = زفت کردن بلگه و عونوان PDF
 # Opens a new private browsing window
 quickactions-private2 = گۊشیڌن نیمدری سیخومی
+quickactions-cmd-private = گشتن سیخومی
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = وانۊ کردن { -brand-short-name }
 quickactions-cmd-refresh = وانۊ کردن
+# Restarts the browser
+quickactions-restart = ر وندن دووارته { -brand-short-name }
+quickactions-cmd-restart = ر وندن دووارته
+# Opens the screenshot tool
+quickactions-screenshot3 = ز بلگه شؽوات بیگیرین
+quickactions-cmd-screenshot = شؽوات ز بلگه
+# Opens about:preferences
+quickactions-settings2 = دؽوۉداری سامووا
 
 ## Bookmark Panel
 
