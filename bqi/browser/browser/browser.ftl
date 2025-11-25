@@ -170,6 +170,16 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = دؽوۉداری و کار گرؽڌن وردنی
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = دؽوۉداری یو ک شؽواتگر وو/یا میکروفووݩ خوته وا ای وبگه یک رسۊوی اکۊنی یا ن
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = دؽوۉداری یک رسۊوی بلندگۊ یل دیری وا وبگه
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = گۊشیڌن تابلو پشک خوتکار
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = زفت کردن داده یل و جۊر زفت کردن دایومی
+urlbar-addons-notification-anchor =
+    .tooltiptext = گۊشیڌن تابلو پیوما پۊرنیڌن وردنی یل
 urlbar-tip-help-icon =
     .title = گرؽڌن هیاری
 urlbar-search-tips-confirm = خا، فئمیم
