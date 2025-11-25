@@ -132,6 +132,8 @@ preferences-data-migration-description = Ion-phortaich comharran-lìn, faclan-fa
 preferences-data-migration-button =
     .label = Ion-phortaich an dàta
     .accesskey = o
+tabs-group-header2 =
+    .label = Tabaichean
 tabs-group-header = Tabaichean
 ctrl-tab-recently-used-order =
     .label = Cuairtichidh Ctrl+Tab thu tro na tabaichean san robh iad agad o chionn goirid
@@ -549,6 +551,9 @@ choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Susbaint { -firefox-home-brand-name }
@@ -906,6 +911,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Eachdraidh
@@ -1212,6 +1220,9 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
