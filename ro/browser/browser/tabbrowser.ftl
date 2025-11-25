@@ -300,6 +300,22 @@ tab-context-move-tab-to-group =
            *[other] Adaugă filele într-un grup nou
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Adaugă vizualizare divizată la un grup nou
+            [one] Adaugă vizualizare divizată la un grup nou
+           *[other] Adaugă vizualizări divizate la un grup nou
+        }
+    .accesskey = { "" }
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Adaugă vizualizare divizată la grup
+            [one] Adaugă vizualizare divizată la grup
+           *[other] Adaugă vizualizări divizate la grup
+        }
+    .accesskey = { "" }
 tab-context-move-tab-to-group-saved-groups =
     .label = Grupuri închise
 tab-group-editor-action-new-tab =
@@ -363,6 +379,25 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Deschide cadrul într-o fereastră nouă
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Adaugă o notă
+    .accesskey = A
+tab-context-edit-note =
+    .label = Editează nota
+    .accesskey = E
+tab-note-editor-title-create = Adaugă o notă
+tab-note-editor-title-edit = Editează nota
+tab-note-editor-text-field =
+    .placeholder = Ce vrei să reții despre această filă?
+tab-note-editor-button-cancel =
+    .label = Anulează
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = Salvează
+    .accesskey = S
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -381,3 +416,14 @@ tab-context-separate-split-view =
     .label = Separă ecranul divizat
     .accesskey = t
 tab-context-badge-new = Nou
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Separă filele
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Inversează filele
+split-view-menuitem-close-both-tabs =
+    .label = Închide ambele file

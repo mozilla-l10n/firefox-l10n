@@ -60,6 +60,7 @@ pane-experimental-description2 = Modificarea setărilor avansate de configurare 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Încearcă funcțiile noastre experimentale! Sunt în curs de dezvoltare și evoluție, ceea ce ar putea afecta modul în care funcționează { -brand-short-name }. Primim date despre utilizarea acestor funcții numai dacă ai activat <a data-l10n-name="data-collection">datele tehnice și de interacțiune</a>.
 pane-experimental-description3 = Încearcă funcționalitățile noastre experimentale! Sunt în curs de dezvoltare și evoluție, ceea ce ar putea influența modul în care funcționează { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurează valorile implicite
@@ -1239,6 +1240,8 @@ history-remember-description2 =
     .description = { -brand-short-name } va ține minte istoricul navigării, descărcărilor, formularelor și căutărilor.
 history-dontremember-description2 =
     .description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va ține minte istoricul în timp ce navighezi pe web.
+history-custom-description =
+    .description = { -brand-short-name } va folosi setări personalizate pentru navigare, descărcări, formulare și istoricul căutărilor.
 history-remember-description = { -brand-short-name } va ține minte istoricul navigării, descărcărilor, formularelor și căutărilor.
 history-dontremember-description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va ține minte istoricul în timp ce navighezi pe web.
 history-private-browsing-permanent =

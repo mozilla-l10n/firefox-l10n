@@ -30,8 +30,6 @@ fxa-menu-send-tab-to-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Se sincronizează dispozitivele…
-# This is shown within "Send tab to device" in fxa menu if account is not configured.
-fxa-menu-send-tab-to-device-description = Trimite o filă instantaneu pe orice dispozitiv pe care ești autentificat în cont.
 fxa-menu-sign-out =
     .label = Deconectează-te…
 fxa-menu-sync-description = Intră pe web de oriunde
