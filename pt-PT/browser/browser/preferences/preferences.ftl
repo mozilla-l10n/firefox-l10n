@@ -158,6 +158,8 @@ preferences-manage-profiles-description = Cada perfil possui dados de navegaçã
 preferences-manage-profiles-learn-more = Saber mais
 preferences-manage-profiles-button =
     .label = Gerir perfis
+tabs-group-header2 =
+    .label = Separadores
 tabs-group-header = Separadores
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab permuta em ciclo os separadores pela ordem dos mais recentemente utilizados
@@ -620,6 +622,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
