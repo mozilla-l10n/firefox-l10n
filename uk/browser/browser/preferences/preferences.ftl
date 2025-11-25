@@ -160,6 +160,8 @@ preferences-manage-profiles-description = Кожен профіль має ок�
 preferences-manage-profiles-learn-more = Докладніше
 preferences-manage-profiles-button =
     .label = Керувати профілями
+tabs-group-header2 =
+    .label = Вкладки
 tabs-group-header = Вкладки
 ctrl-tab-recently-used-order =
     .label = Перемикати вкладки натисканням Ctrl+Tab у порядку недавнього їх використання
@@ -627,6 +629,9 @@ use-current-pages =
 choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
