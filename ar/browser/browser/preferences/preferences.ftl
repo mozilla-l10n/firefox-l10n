@@ -155,6 +155,8 @@ preferences-profiles-header = ملفات الإعدادات
 preferences-manage-profiles-learn-more = اطّلع على المزيد
 preferences-manage-profiles-button =
     .label = أدِر ملفات الإعدادات
+tabs-group-header2 =
+    .label = الألسنة
 tabs-group-header = الألسنة
 ctrl-tab-recently-used-order =
     .label = ‏Ctrl+Tab يتنقّل عبر الألسنة حسب ترتيب آخر استخدام
@@ -620,6 +622,9 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
