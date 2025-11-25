@@ -160,6 +160,8 @@ preferences-manage-profiles-description = Mintga profil ha datas da navigaziun e
 preferences-manage-profiles-learn-more = Ulteriuras infurmaziuns
 preferences-manage-profiles-button =
     .label = Administrar ils profils
+tabs-group-header2 =
+    .label = Tabs
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab siglia dad in tab a l'auter en la successiun da l'ultima utilisaziun
@@ -624,6 +626,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
