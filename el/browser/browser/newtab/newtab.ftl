@@ -676,6 +676,9 @@ newtab-widget-section-hide-all-button =
 newtab-widget-section-maximize =
     .title = Ανάπτυξη λίστας widgets
     .aria-label = Ανάπτυξη όλων των widgets σε πλήρη μέγεθος
+newtab-widget-section-minimize =
+    .title = Ελαχιστοποίηση γραφικών στοιχείων
+    .aria-label = Σύμπτυξη όλων των γραφικών στοιχείων σε μικρό μέγεθος
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
