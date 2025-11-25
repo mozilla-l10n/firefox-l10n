@@ -66,6 +66,17 @@ should-restart-ok = ఇప్పుడు { -brand-short-name } ను పున
 cancel-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = వెతుకుడు ఫలితాలు
@@ -93,6 +104,8 @@ startup-restore-warn-on-quit =
     .label = విహారిణిని మూసివేస్తున్నప్పుడు నన్ను హెచ్చరించు
 disable-extension =
     .label = పొడగింతను అచేతనించు
+tabs-group-header2 =
+    .label = ట్యాబులు
 tabs-group-header = ట్యాబులు
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ట్యాబులను వరుసగా కాకుండా వాటిని ఇటీవల వాడిన క్రమంలో చుట్టుతిప్పుతుంది
@@ -409,6 +422,9 @@ choose-bookmark =
     .label = ఇష్టాంశాన్ని వాడు…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -699,6 +715,9 @@ forms-windows-sso-learn-more-link = ఇంకా తెలుసుకోండ�
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = చరిత్ర
@@ -777,6 +796,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = మినహాయింపులను నిర్వహించండి…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -946,6 +968,9 @@ addon-recommendations-link = ఇంకా తెలుసుకోండి
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
