@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = گشتن سیخومی
+popups-infobar-dont-show-message2 =
+    .label = ای پیوم ن مجال مسدۊد کردن نیمدری یل گۊشیڌنی یا آلشت تور شخس سالس نشووݩ مڌین
+    .accesskey = D
+edit-popup-settings2 =
+    .label = دؽوۉداری سامووا نیمدری یل گۊشیڌنی وو آلشت تورا شخس سالس…
+    .accesskey = M
 
 ##
 
@@ -132,6 +138,18 @@ urlbar-services-notification-anchor =
     .tooltiptext = گۊشیڌن تابلو پیوما پۊرنیڌن
 urlbar-web-notification-anchor =
     .tooltiptext = یو ک ترین ز ای وبگه وارسۊوی گیرین یا ن، ن آلشت کۊنین
+urlbar-midi-notification-anchor =
+    .tooltiptext = گۊشیڌن تابلو MIDI
+urlbar-eme-notification-anchor =
+    .tooltiptext = دؽوۉداری و کار گرؽڌن برنومه یل DRM
+urlbar-web-authn-anchor =
+    .tooltiptext = گۊشیڌن تابلو ائراز هۊویت وبگه
+urlbar-canvas-notification-anchor =
+    .tooltiptext = دؽوۉداری موجوز بۊما و در کشیڌه
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = دؽوۉداری یک رسۊوی میکروفووݩ وا ای وبگه
+urlbar-default-notification-anchor =
+    .tooltiptext = گۊشیڌن تابلو پیوما
 urlbar-tip-help-icon =
     .title = گرؽڌن هیاری
 urlbar-search-tips-confirm = خا، فئمیم
