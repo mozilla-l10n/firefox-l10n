@@ -160,6 +160,8 @@ preferences-manage-profiles-description = Yal amaɣnu yessemgired gar yisefka n 
 preferences-manage-profiles-learn-more = Issin ugar
 preferences-manage-profiles-button =
     .label = Sefrek imaɣunen
+tabs-group-header2 =
+    .label = Iccaren
 tabs-group-header = Iccaren
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yessezray-d accaren n umizzwer yettwasqedcen melmi kan
@@ -617,6 +619,9 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
