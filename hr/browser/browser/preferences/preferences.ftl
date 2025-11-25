@@ -158,6 +158,8 @@ preferences-manage-profiles-description = Svaki profil ima zasebne podatke o pre
 preferences-manage-profiles-learn-more = Saznaj više
 preferences-manage-profiles-button =
     .label = Upravljaj profilima
+tabs-group-header2 =
+    .label = Kartice
 tabs-group-header = Kartice
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab kruži kroz kartice redoslijedom nedavnog korištenja
@@ -623,6 +625,9 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
