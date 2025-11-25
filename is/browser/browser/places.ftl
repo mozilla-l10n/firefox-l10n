@@ -261,7 +261,7 @@ places-details-pane-items-count =
 places-search-bookmarks =
     .placeholder = Leita í bókamerkjum
 places-search-history =
-    .placeholder = Leitarsaga
+    .placeholder = Leitarferill
 places-search-downloads =
     .placeholder = Leita í niðurhali
 

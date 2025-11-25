@@ -49,7 +49,7 @@ app-basics-update-dir =
         [linux] Uppfæra möppu
        *[other] Uppfæra möppu
     }
-app-basics-update-history = Uppfærslusaga
+app-basics-update-history = Uppfærsluferill
 app-basics-show-update-history = Sýna uppfærsluferil
 # Represents the path to the binary used to start the application.
 app-basics-binary = Keyrsluskrá forrits
