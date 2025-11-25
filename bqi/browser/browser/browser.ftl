@@ -241,8 +241,16 @@ quickactions-cmd-extensions2 = وردنی یل، addons، add-ons
 quickactions-cmd-extensions = وردنی یل
 # Opens Firefox View
 quickactions-firefoxview = گۊشیڌن { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = گۊشیڌن { -firefoxview-brand-name }، { -firefoxview-brand-name }، گۊشیڌن نیشتن، نیشتن
+# Opens SUMO home page
+quickactions-help = هیاری { -brand-product-name }
+quickactions-cmd-help = هیاری، لادراری
 # Opens the devtools web inspector
 quickactions-inspector2 = گۊشیڌن ٱوزارا برنومه نویس
+quickactions-cmd-inspector2 = واجۊر کوݩ، واجۊری، ٱوزارا برنومه نویس
 quickactions-cmd-inspector = واجۊری، ٱوزارا برنومه نویسی
 # Opens about:logins
 quickactions-logins2 = دؽوۉداری رزما
@@ -255,6 +263,8 @@ quickactions-print2 = چاپ بلگه
 quickactions-cmd-print = چاپ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = زفت کردن بلگه و عونوان PDF
+# Opens a new private browsing window
+quickactions-private2 = گۊشیڌن نیمدری سیخومی
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = وانۊ کردن { -brand-short-name }
 quickactions-cmd-refresh = وانۊ کردن
