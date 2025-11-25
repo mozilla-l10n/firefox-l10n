@@ -158,6 +158,8 @@ preferences-manage-profiles-description = Cada perfil ten datos de navegación e
 preferences-manage-profiles-learn-more = Máis información
 preferences-manage-profiles-button =
     .label = Xestionar perfís
+tabs-group-header2 =
+    .label = Lapelas
 tabs-group-header = Lapelas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab para alternar entre as lapelas segundo o seu uso recente
@@ -620,6 +622,9 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
