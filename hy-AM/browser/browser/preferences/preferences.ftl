@@ -148,6 +148,8 @@ preferences-data-migration-button =
 preferences-manage-profiles-learn-more = Իմանալ ավելին
 preferences-manage-profiles-button =
     .label = Կառավարել պրոֆիլները
+tabs-group-header2 =
+    .label = Ներդիրներ
 tabs-group-header = Ներդիրներ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab՝ պտտվում է ներդիրների միջև՝ ըստ վերջին օգտագործածի
@@ -1144,6 +1146,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
