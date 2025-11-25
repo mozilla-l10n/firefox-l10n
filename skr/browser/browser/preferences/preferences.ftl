@@ -146,6 +146,8 @@ preferences-data-migration-description = { -brand-short-name } وچ نشانیا
 preferences-data-migration-button =
     .label = ڈیٹا امپورٹ کرو
     .accesskey = m
+tabs-group-header2 =
+    .label = ٹیباں
 tabs-group-header = ٹیباں
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab حالیہ استعمال شدہ ترتیب وِچ ٹیباں دے ذریعے چکر لیندا ہے۔
@@ -567,6 +569,9 @@ use-current-pages =
 choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
