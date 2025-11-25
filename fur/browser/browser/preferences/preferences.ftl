@@ -160,6 +160,8 @@ preferences-manage-profiles-description = Ogni profîl al manten dâts di naviga
 preferences-manage-profiles-learn-more = Plui informazions
 preferences-manage-profiles-button =
     .label = Gjestìs profîi
+tabs-group-header2 =
+    .label = Schedis
 tabs-group-header = Schedis
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab al fâs scori lis schedis lant daûr l'ordin di chês dopradis plui di resint
@@ -624,6 +626,9 @@ use-current-pages =
 choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
