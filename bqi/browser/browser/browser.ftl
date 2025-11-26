@@ -266,6 +266,8 @@ urlbar-screen-blocked =
     .tooltiptext = ایسا ای وبگه ن سی یک رسۊوی بلگه خوتووݩ مسدۊد کردینه.
 urlbar-persistent-storage-blocked =
     .tooltiptext = ایسا ای وبگه ن سی زفت کردن دووسمندیا مسدۊد کردینه.
+urlbar-popup-blocked =
+    .tooltiptext = ایسا نیمدری یل گۊشیڌنی ن سی ای وبگه مسدۊد کردینه.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
