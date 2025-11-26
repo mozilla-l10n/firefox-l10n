@@ -254,6 +254,16 @@ urlbar-search-mode-actions = کارا
 
 urlbar-geolocation-blocked =
     .tooltiptext = ایسا ای وبگه ن سی دسرسی و دووسمندیا جاگه مسدۊد کردینه.
+urlbar-xr-blocked =
+    .tooltiptext = ایسا ای وبگه ن سی دسرسی و دسگا واقعیت مجازی مسدۊد کردینه.
+urlbar-web-notifications-blocked =
+    .tooltiptext = ایسا ای وبگه ن سی امکووݩ فشناڌن وارسۊوی مسدۊد کردینه.
+urlbar-camera-blocked =
+    .tooltiptext = ایسا ای وبگه ن سی دسرسی و شؽواتگر مسدۊد کردینه.
+urlbar-microphone-blocked =
+    .tooltiptext = ایسا ای وبگه ن سی دسرسی و میکروفووݩ مسدۊد کردینه.
+urlbar-screen-blocked =
+    .tooltiptext = ایسا ای وبگه ن سی یک رسۊوی بلگه خوتووݩ مسدۊد کردینه.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
