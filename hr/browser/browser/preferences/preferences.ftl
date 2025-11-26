@@ -633,9 +633,6 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } – sadržaj

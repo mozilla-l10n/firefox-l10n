@@ -631,9 +631,6 @@ choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
