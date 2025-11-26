@@ -174,6 +174,15 @@ preferences-manage-profiles-button =
     .label = Profielen beheren
 preferences-profiles-settings-button =
     .label = Instellingen
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Een bestaand profiel kopiëren
+    .description = Het nieuwe profiel kopieert uw instellingen, add-ons, geschiedenis en opgeslagen gegevens zoals bladwijzers en wachtwoorden – maar niet uw account- of synchronisatiegegevens.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Te kopiëren profiel
 # This string is a placeholder that will be shown in a drop-down list of
 # profiles. The user will select a profile, then click the copy button
 # to make a copy of that profile.
@@ -181,10 +190,14 @@ preferences-copy-profile-select = Profiel selecteren
 preferences-copy-profile-button = Kopiëren
 tabs-group-header2 =
     .label = Tabbladen
+tabs-opening-heading =
+    .label = Openen
 tabs-interaction-heading =
     .label = Interactie
 tabs-containers-heading =
     .label = Containers
+tabs-closing-heading =
+    .label = Sluiten
 tabs-group-header = Tabbladen
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab doorloopt tabbladen in onlangs gebruikte volgorde

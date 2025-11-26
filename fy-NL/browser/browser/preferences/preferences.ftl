@@ -172,8 +172,32 @@ preferences-manage-profiles-description = Elk profyl hat aparte navigaasjejegege
 preferences-manage-profiles-learn-more = Mear ynfo
 preferences-manage-profiles-button =
     .label = Profilen beheare
+preferences-profiles-settings-button =
+    .label = Ynstellingen
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = In besteand profyl kopiearje
+    .description = It nije profyl kopiearret jo ynstellingen, add-ons, skiednis en bewarre gegevens, lykas blêdwizers en wachtwurden – mar net jo account- of syngronisaasjegegevens.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Te kopiearjen profyl
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Profyl selektearje
+preferences-copy-profile-button = Kopiearje
 tabs-group-header2 =
     .label = Ljepblêden
+tabs-opening-heading =
+    .label = Iepenje
+tabs-interaction-heading =
+    .label = Ynteraksje
+tabs-containers-heading =
+    .label = Konteners
+tabs-closing-heading =
+    .label = Slute
 tabs-group-header = Ljepblêden
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab rint troch ljepblêden yn koartlyn brûkte folchoarder
