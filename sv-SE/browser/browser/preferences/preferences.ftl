@@ -172,8 +172,32 @@ preferences-manage-profiles-description = Varje profil har separat webbläsardat
 preferences-manage-profiles-learn-more = Läs mer
 preferences-manage-profiles-button =
     .label = Hantera profiler
+preferences-profiles-settings-button =
+    .label = Inställningar
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopiera en befintlig profil
+    .description = Den nya profilen kommer att kopiera dina inställningar, tillägg, historik och sparad data som bokmärken och lösenord — men inte ditt konto eller synkroniseringsinformation.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profil att kopiera
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Välj profil
+preferences-copy-profile-button = Kopiera
 tabs-group-header2 =
     .label = Flikar
+tabs-opening-heading =
+    .label = Öppning
+tabs-interaction-heading =
+    .label = Interaktion
+tabs-containers-heading =
+    .label = Behållare
+tabs-closing-heading =
+    .label = Avslutas
 tabs-group-header = Flikar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab växlar mellan flikarna i nyligen använd ordning
