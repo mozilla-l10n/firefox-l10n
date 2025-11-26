@@ -296,6 +296,10 @@ colorway-removal-notice-message =
         nye version på webstedet for tilføjelser.
 colorway-removal-notice-learn-more = Lær mere
 colorway-removal-notice-button = Få opdaterede farvekombinations-temaer
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Dine Windows-indstillinger for kontrast tilsidesætter temaer i { -brand-short-name }. Deaktiver indstillingerne for at bruge temaer i { -brand-short-name }.
 privacy-policy = Privatlivs-politik
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -544,6 +548,8 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Læs mere
 details-notification-blocked = { $name } er blevet deaktiveret af sikkerheds- eller stabilitetsgrunde.
 details-notification-blocked-link2 = Vis detaljer
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Denne udvidelse er begrænset. Det kan være risikabelt at bruge den.
 details-notification-soft-blocked-extension-disabled =
     .message = Denne udvidelse er begrænset, fordi den overtræder Mozillas politikker og derfor er blevet deaktiveret. Du kan aktivere den, men det kan være risikabelt.
 details-notification-soft-blocked-extension-enabled =
