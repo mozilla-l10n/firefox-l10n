@@ -174,8 +174,26 @@ preferences-manage-profiles-button =
     .label = Profile verwalten
 preferences-profiles-settings-button =
     .label = Einstellungen
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Zu kopierendes Profil
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Profil auswählen
+preferences-copy-profile-button = Kopieren
 tabs-group-header2 =
     .label = Tabs
+tabs-opening-heading =
+    .label = Wird geöffnet
+tabs-interaction-heading =
+    .label = Interaktion
+tabs-containers-heading =
+    .label = Umgebungen
+tabs-closing-heading =
+    .label = Wird geschlossen
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Bei Strg+Tab die Tabs nach letzter Nutzung in absteigender Reihenfolge anzeigen
@@ -745,6 +763,8 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } unterstützen
 home-prefs-mission-message = Unsere Sponsoren unterstützen unsere Mission, ein besseres Internet zu schaffen
 home-prefs-mission-message-learn-more-link = Erfahren, wie das geht
+home-prefs-mission-message2 =
+    .message = Unsere Sponsoren unterstützen unsere Mission, ein besseres Web zu erschaffen.
 home-prefs-manage-topics-link = Themen verwalten
 home-prefs-choose-wallpaper-link = Wählen Sie ein Hintergrundbild
 # Variables:

@@ -363,6 +363,10 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-note-editor-title-create = Notiz hinzufügen
+tab-note-editor-title-edit = Notiz bearbeiten
+tab-note-editor-text-field =
+    .placeholder = Welche Änderung soll für diesen Tab gespeichert werden?
 tab-note-editor-button-cancel =
     .label = Abbrechen
     .accesskey = A
