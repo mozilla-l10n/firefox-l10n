@@ -426,6 +426,9 @@ quickactions-cmd-restart = znowa startować
 # Opens the screenshot tool
 quickactions-screenshot3 = Foto wobrazowki činić
 quickactions-cmd-screenshot2 = foto wobrazowki, foto wobrazowki činić
+# Opens about:translations
+quickactions-translate = Přełožić
+quickactions-cmd-translate = přełožić
 quickactions-cmd-screenshot = foto wobrazowki
 # Opens about:preferences
 quickactions-settings2 = Nastajenja rjadować

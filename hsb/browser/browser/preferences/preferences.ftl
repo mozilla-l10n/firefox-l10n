@@ -172,8 +172,32 @@ preferences-manage-profiles-description = Kóždy profil ma druhe přehladowansk
 preferences-manage-profiles-learn-more = Dalše informacije
 preferences-manage-profiles-button =
     .label = Profile rjadować
+preferences-profiles-settings-button =
+    .label = Nastajenja
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Eksistowacy profil kopěrować
+    .description = Nowy profil budźe waše nastajenja, přidatki, historiju a składowane daty kaž zapołožki a hesła kopěrować – ale nic waše konto abo synchronizaciske informacije.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profil, kotryž so ma kopěrować
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Profil wubrać
+preferences-copy-profile-button = Kopěrować
 tabs-group-header2 =
     .label = Rajtarki
+tabs-opening-heading =
+    .label = Wočinić
+tabs-interaction-heading =
+    .label = Interakcija
+tabs-containers-heading =
+    .label = Kontejnery
+tabs-closing-heading =
+    .label = Začinić
 tabs-group-header = Rajtarki
 ctrl-tab-recently-used-order =
     .label = Strg+Tab přeběži rajtarki po tuchwilu postajenym porjedźe

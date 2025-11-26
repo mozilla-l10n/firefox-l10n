@@ -426,6 +426,9 @@ quickactions-cmd-restart = 重新啟動, 重開, restart
 # Opens the screenshot tool
 quickactions-screenshot3 = 拍攝畫面擷圖
 quickactions-cmd-screenshot2 = 擷圖, 截圖, 擷取, 截取, 快照, screenshot, take a screenshot
+# Opens about:translations
+quickactions-translate = 翻譯
+quickactions-cmd-translate = 翻譯, translate
 quickactions-cmd-screenshot = 畫面擷圖, 擷圖, screenshot
 # Opens about:preferences
 quickactions-settings2 = 管理設定
