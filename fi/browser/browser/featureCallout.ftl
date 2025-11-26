@@ -112,6 +112,13 @@ fxa-adoption-passwords-subtitle = Suojaa salasanasi synkronoimalla ne laitteille
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Rekisteröidy
 
+## Taskbar Tabs callout strings
+
+taskbar-tabs-social-callout-title = Pidä suosikkisyötteesi tehtäväpalkissa
+taskbar-tabs-email-callout-title = Pidä sähköpostisi tehtäväpalkissa
+taskbar-tabs-value-prop-callout-title = Lisää tämä sivusto tehtäväpalkkiisi
+taskbar-tabs-value-prop-callout-subtitle = Käynnistä se omassa ikkunassaan ja yksinkertaistetussa käyttöliittymässä yhdellä napsautuksella.
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Älä menetä kaikkea tallentamaasi, kun siirryt Windows 11:een.
