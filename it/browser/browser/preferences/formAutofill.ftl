@@ -67,7 +67,7 @@ autofill-address-neighborhood = Quartiere
 autofill-address-village-township = Villaggio o township
 autofill-address-island = Isola
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
-autofill-address-townland = Townland
+autofill-address-townland = Territorio (townland)
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
 ## autofill feature. For more information on the address structure (e.g. levels),
@@ -78,10 +78,10 @@ autofill-address-city = Città
 # Used in Korea as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-district = Distretto
 # Used in United Kingdom (GB), Norway (NO), Sweden (SE) as as secondary address information (2 levels below the country level).
-autofill-address-post-town = Post town
+autofill-address-post-town = Località postale (post town)
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
-autofill-address-suburb = Suburb
+autofill-address-suburb = Sobborgo (suburb)
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
 ## autofill feature. For more information on the address structure (e.g. levels),
@@ -91,7 +91,7 @@ autofill-address-province = Provincia
 autofill-address-state = Stato
 autofill-address-county = Contea
 # Used in Barbados (BB), Jamaica (JM) as primary address information (1 level below the country level).
-autofill-address-parish = Parish
+autofill-address-parish = Parrocchia (parish)
 # Used in Japan (JP) as primary address information (1 level below the country level).
 autofill-address-prefecture = Prefettura
 # Used in Honk Kong (HK) as primary address information (1 level below the country level).
@@ -110,7 +110,7 @@ autofill-address-oblast = Oblast
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 # Postal code field used in India (IN).
-autofill-address-pin = Pin
+autofill-address-pin = Codice postale (PIN)
 autofill-address-postal-code = Codice postale
 # Postal code field.
 autofill-address-zip = Codice ZIP

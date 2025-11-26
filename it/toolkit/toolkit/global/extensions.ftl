@@ -23,7 +23,7 @@ webext-perms-list-intro-unsigned = Questa estensione non verificata potrebbe met
 ## Headers used in the webextension permissions dialog, inside the content.
 
 webext-perms-header-required-perms = Permessi obbligatori:
-webext-perms-header-optional-settings = Permessi facoltativi:
+webext-perms-header-optional-settings = Impostazioni facoltative:
 webext-perms-header-update-required-perms = Nuovi permessi obbligatori:
 webext-perms-header-optional-required-perms = Nuovi permessi:
 webext-perms-header-data-collection-perms = Raccolta dati obbligatoria:
