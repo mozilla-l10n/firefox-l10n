@@ -209,6 +209,26 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = دؽوۉداری { -firefox-suggest-brand-name }
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = گوزارش جاگه نا دییق
+urlbar-result-menu-show-less-frequently =
+    .label = دؽر و دؽر تر نشووݩ بڌه
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = پؽشنهاڌا ٱو وو هوا ن نشووݩ مڌه
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = گۊشیڌن نومگه
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = ممنووݩ ز منشڌ ایسا
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = ز منشڌ داڌن ایسا ممنووݩ داریم. دی پؽشنهاڌا ٱو وو هوا ن نیبینین.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -219,9 +239,21 @@ urlbar-search-tips-onboard = کمتر تایپ کۊنین، قلوه بجۊری�
 urlbar-search-tips-redirect-2 = پیتینیڌن خوتووه من نوار نشۊوی تایپ کۊنین تا پؽشنهاڌایی ز { $engineName } وو ویرگار گشتن خوتووݩ بنیرین.
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = پیتینیڌن ساڌه تر وابیڌه. قپ ریت کۊنین پیتینیڌن خوتووݩ ن من ایچو من نوار نشۊوی دیاری تر کۊنین. سی نشووݩ داڌن نشۊوی وبگه و جا هو، و «پیتینیڌن» من سامووا ریوین.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = ای ر نهنگ ن سی جوستن زیتر اۊ چیه ک اخۊین، پسند کۊنین.
+
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = نشووکا
+urlbar-search-mode-tabs = بلگه یل
+urlbar-search-mode-history = ویرگار
+urlbar-search-mode-actions = کارا
 
 ##
 
+urlbar-geolocation-blocked =
+    .tooltiptext = ایسا ای وبگه ن سی دسرسی و دووسمندیا جاگه مسدۊد کردینه.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
