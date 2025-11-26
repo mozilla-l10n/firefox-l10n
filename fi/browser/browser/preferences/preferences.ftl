@@ -60,6 +60,7 @@ pane-experimental-description2 = Lisäasetusten muuttaminen voi vaikuttaa { -bra
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Kokeile kokeellisia ominaisuuksia! Ne ovat kehitysvaiheessa ja kehittyvät, mikä voi vaikuttaa { -brand-short-name }in toimintaan. Saamme tietoja näiden ominaisuuksien käytöstäsi vain, jos <a data-l10n-name="data-collection">tekniset ja vuorovaikutustiedot</a> ovat käytössä.
 pane-experimental-description3 = Kokeile kokeellisia ominaisuuksiamme! Niitä kehitetään, mikä saattaa vaikuttaa siihen, miten { -brand-short-name } toimii.
 pane-experimental-reset =
     .label = Palauta oletukset
@@ -172,6 +173,10 @@ preferences-manage-profiles-button =
     .label = Hallitse profiileja
 preferences-profiles-settings-button =
     .label = Asetukset
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopioi olemassa oleva profiili
+    .description = Uusi profiili kopioi asetukset, lisäosat, historian ja tallennetut tiedot kuten kirjanmerkit ja salasanat — mutta ei tiliäsi tai synkronointitietoja.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.

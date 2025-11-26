@@ -177,7 +177,7 @@ preferences-profiles-settings-button =
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
     .label = 複製現有設定檔
-    .description = 將從您現有設定檔複製設定、附加元件、瀏覽紀錄、書籤密碼等儲存的資料，但不會複製帳號或同步的資訊。
+    .description = 將從您現有設定檔複製設定、附加元件、瀏覽紀錄、書籤密碼等儲存的資料，但不會複製登入的帳號或同步資訊。
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
