@@ -57,7 +57,7 @@ about-private-browsing-pin-promo-header = Svoboda soukromého prohlížení na j
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
         [macos] Připnout do docku
-       *[other] Připnout na lištu
+       *[other] Připnout na systémový hlavní panel
     }
 about-private-browsing-pin-promo-title = Žádné uložené cookies ani historie, přímo z vaší plochy. Prohlížejte, jako když se nikdo nedívá.
 

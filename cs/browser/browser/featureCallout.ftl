@@ -134,31 +134,31 @@ fxa-adoption-passwords-primary-button-label = Přihlásit se
 
 ## Taskbar Tabs callout strings
 
-taskbar-tabs-social-callout-title = Mějte své oblíbené kanály na hlavním panelu
+taskbar-tabs-social-callout-title = Mějte své oblíbené kanály na systémovém hlavním panelu
 taskbar-tabs-social-callout-subtitle =
     { -brand-short-name.case-status ->
         [with-cases] Spouštějte své sociální sítě jako aplikaci v jednoduchém okně chráněném { -brand-short-name(case: "ins") }.
        *[no-cases] Spouštějte své sociální sítě jako aplikaci v jednoduchém okně chráněném aplikací { -brand-short-name }.
     }
-taskbar-tabs-chat-callout-title = Chatujte z hlavního panelu
+taskbar-tabs-chat-callout-title = Chatujte ze systémového hlavního panelu
 taskbar-tabs-chat-callout-subtitle =
     { -brand-short-name.case-status ->
         [with-cases] Spouštějte své chatovací stránky jako aplikaci v jednoduchém okně chráněném { -brand-short-name(case: "ins") }.
        *[no-cases] Spouštějte své chatovací stránky jako aplikaci v jednoduchém okně chráněném aplikací { -brand-short-name }.
     }
-taskbar-tabs-email-callout-title = Mějte svůj e-mail na hlavním panelu
+taskbar-tabs-email-callout-title = Mějte svůj e-mail na systémovém hlavním panelu
 taskbar-tabs-email-callout-subtitle =
     { -brand-short-name.case-status ->
         [with-cases] Spusťte webmail jako aplikaci v jednoduchém okně chráněném { -brand-short-name(case: "ins") }.
        *[no-cases] Spusťte webmail jako aplikaci v jednoduchém okně chráněném aplikací { -brand-short-name }.
     }
-taskbar-tabs-media-callout-title = Vraťte se ke streamování z hlavního panelu
+taskbar-tabs-media-callout-title = Vraťte se ke streamování ze systémového hlavního panelu
 taskbar-tabs-media-callout-subtitle =
     { -brand-short-name.case-status ->
         [with-cases] Spouštějte své streamovací stránky jako aplikaci v jednoduchém okně chráněném { -brand-short-name(case: "ins") }.
        *[no-cases] Spusťte webmail jako aplikaci v jednoduchém okně chráněném aplikací { -brand-short-name }.
     }
-taskbar-tabs-value-prop-callout-title = Přidejte tuto stránku na panel úloh
+taskbar-tabs-value-prop-callout-title = Přidejte tuto stránku na systémový hlavní panel
 taskbar-tabs-value-prop-callout-subtitle = Spouštějte ji jedním klepnutím v samostatném okně se zjednodušeným rozhraním.
 
 ## Windows 10 EoS Sync messages group 1 callouts

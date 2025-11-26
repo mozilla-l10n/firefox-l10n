@@ -184,7 +184,7 @@ spotlight-peace-mind-body = Každý měsíc zablokuje { -brand-short-name } pro 
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Připnout do docku
-       *[other] Připnout na lištu
+       *[other] Připnout na systémový hlavní panel
     }
 spotlight-pin-secondary-button = Teď ne
 
@@ -508,7 +508,7 @@ multi-cta-fox-doodle-pin-startmenu-checkbox =
 multi-cta-fox-doodle-pin-checkbox =
     { PLATFORM() ->
         [macos] Ponechat { -brand-short-name } v Docku
-       *[other] Připnout { -brand-short-name } na hlavní panel
+       *[other] Připnout { -brand-short-name } na systémový hlavní panel
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Začít prohlížet
 multi-cta-fox-doodle-main-browser-primary-button-label =
