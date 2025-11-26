@@ -442,6 +442,8 @@ identity-https-only-dropdown-off =
     .label = کۊر
 identity-https-only-dropdown-off-temporarily =
     .label = کۊر وابیڌن مووقت
+identity-permissions-storage-access-learn-more = قلوه دووسته بۊین
+identity-permissions-reload-hint = گاشڌ لازوم بۊ ک بلگه ن سی ائمال آلشتکاریا دووارته بار ونی کۊنین.
 
 ## URL Bar
 
