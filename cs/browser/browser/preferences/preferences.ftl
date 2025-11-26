@@ -1581,14 +1581,14 @@ addressbar-locbar-suggest-sponsored-desc = Podpořte { -brand-short-name } zobra
 addressbar-firefox-suggest-online =
     .label = Při psaní získávat návrhy od Mozilly
 addressbar-quickactions-learn-more = Zjistit více
-addressbar-dismissed-suggestions-label = Odmítnuté návrhy
+addressbar-dismissed-suggestions-label = Vyřazené návrhy
 addressbar-restore-dismissed-suggestions-description =
     { -brand-short-name.case-status ->
-        [with-cases] Obnovit odmítnuté návrhy od sponzorů a { -brand-short-name(case: "gen") }.
-       *[no-cases] Obnovit odmítnuté návrhy od sponzorů a aplikace { -brand-short-name }.
+        [with-cases] Vrátit zpět vyřazené návrhy od sponzorů a { -brand-short-name(case: "gen") }.
+       *[no-cases] Vrátit zpět vyřazené návrhy od sponzorů a aplikace { -brand-short-name }.
     }
 addressbar-restore-dismissed-suggestions-button =
-    .label = Obnovit
+    .label = Vrátit zpět
 
 ## Privacy Section - Content Blocking
 
