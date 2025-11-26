@@ -254,6 +254,10 @@ urlbar-search-mode-actions = کارا
 
 urlbar-geolocation-blocked =
     .tooltiptext = ایسا ای وبگه ن سی دسرسی و دووسمندیا جاگه مسدۊد کردینه.
+urlbar-localhost-blocked =
+    .tooltiptext = ایسا منپیزا دسگا مهلی ن سی ای وبگه مسدۊد کردینه.
+urlbar-local-network-blocked =
+    .tooltiptext = ایسا منپیزا شبکه مهلی ن سی ای وبگه مسدۊد کردینه.
 urlbar-xr-blocked =
     .tooltiptext = ایسا ای وبگه ن سی دسرسی و دسگا واقعیت مجازی مسدۊد کردینه.
 urlbar-web-notifications-blocked =
@@ -268,10 +272,22 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = ایسا ای وبگه ن سی زفت کردن دووسمندیا مسدۊد کردینه.
 urlbar-popup-blocked =
     .tooltiptext = ایسا نیمدری یل گۊشیڌنی ن سی ای وبگه مسدۊد کردینه.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = ایسا پشک خوتکار وارسگر آرنگ ن سی ای وبگه مسدۊد کردینه.
+urlbar-canvas-blocked =
+    .tooltiptext = ایسا و در کشیڌن بۊما ن سی ای وبگه مسدۊد کردینه.
+urlbar-midi-blocked =
+    .tooltiptext = ایسا ای وبگه ن سی دسرسی و MIDI مسدۊد کردینه.
+urlbar-install-blocked =
+    .tooltiptext = ایسا ای وبگه ن سی پۊرنیڌن وردنی یل مسدۊد کردینه.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = آلشت ای نشووک ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = نشووک ناهاڌن ای بلگه ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -281,6 +297,12 @@ page-action-manage-extension2 =
 page-action-remove-extension2 =
     .label = پاک کردن وردنی
     .accesskey = v
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = بؽڌار کردن نوار ٱوزارا
+    .accesskey = H
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
