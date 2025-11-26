@@ -172,8 +172,22 @@ preferences-manage-profiles-description = Hver profil har forskellige browsing-d
 preferences-manage-profiles-learn-more = Læs mere
 preferences-manage-profiles-button =
     .label = Håndter profiler
+preferences-profiles-settings-button =
+    .label = Indstillinger
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profil, som skal kopieres
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Vælg profil
+preferences-copy-profile-button = Kopier
 tabs-group-header2 =
     .label = Faneblade
+tabs-interaction-heading =
+    .label = Interaktion
 tabs-group-header = Faneblade
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tabulator-tasten skifter mellem de senest anvendte faneblade
@@ -1064,6 +1078,9 @@ forms-passwords-header =
 forms-ask-to-save-passwords =
     .label = Spørg om at gemme adgangskoder
     .accesskey = p
+forms-manage-password-exceptions =
+    .label = Håndter undtagelser for adgangskoder
+    .accesskey = H
 forms-exceptions =
     .label = Undtagelser…
     .accesskey = U
@@ -1094,9 +1111,19 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Udfyld brugernavne og adgangskoder automatisk
     .accesskey = U
+forms-fill-usernames-and-passwords-2 =
+    .label = Gem og autofyld brugernavne og adgangskoder
+    .accesskey = f
 forms-saved-passwords =
     .label = Gemte adgangskoder
     .accesskey = G
+forms-saved-passwords-2 =
+    .label = Håndter gemte adgangskoder
+    .accesskey = e
+forms-saved-passwords-searchkeywords = Logins for følgende websteder er gemt på din computer
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Yderligere beskyttelse
 forms-primary-pw-use =
     .label = Benyt en hovedadgangskode
     .accesskey = B

@@ -426,6 +426,9 @@ quickactions-cmd-restart = genstart
 # Opens the screenshot tool
 quickactions-screenshot3 = Tag et skærmbillede
 quickactions-cmd-screenshot2 = skærmbillede, tag et skærmbillede
+# Opens about:translations
+quickactions-translate = Oversæt
+quickactions-cmd-translate = oversæt
 quickactions-cmd-screenshot = skærmbillede
 # Opens about:preferences
 quickactions-settings2 = Håndter indstillinger
