@@ -79,7 +79,7 @@ sync-account-already-signed-in-header = 이 계정은 다른 프로필로 로그
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $currentProfile (String): Name of the current profile signing in
 #   $otherProfile (String): Name of the profile that is already signed in
-sync-account-in-use-description-merge = { $acctEmail } 이메일이 이 컴퓨터에서 “{ $otherProfile }” 프로필에 로그인하였습니다. '{ $currentProfile }' 프로필을 동기화하면, 비밀번호, 북마크 등 두 프로필의 데이터가 영구적으로 병합됩니다.
+sync-account-in-use-description-merge = { $acctEmail } 이메일이 이 컴퓨터에서 “{ $otherProfile }” 프로필에 로그인했습니다. '{ $currentProfile }' 프로필을 동기화하면, 비밀번호, 북마크 등 두 프로필의 데이터가 영구적으로 병합됩니다.
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = “{ $profileName }” 프로필로 전환

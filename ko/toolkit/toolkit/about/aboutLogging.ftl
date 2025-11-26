@@ -83,7 +83,7 @@ about-logging-configured-via-url = URL을 통해 구성된 옵션
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
-about-logging-upload-question = 프로필 데이터를 캡쳐하였습니다. 저장하거나 업로드하시겠습니까?
+about-logging-upload-question = 프로필 데이터를 캡쳐했습니다. 저장하거나 업로드하시겠습니까?
 about-logging-save-button = 저장
 about-logging-upload-button = 업로드
 # Variables:

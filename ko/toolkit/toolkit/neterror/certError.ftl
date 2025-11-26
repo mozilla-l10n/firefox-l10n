@@ -16,7 +16,7 @@ cert-error-trust-cert-invalid = 유효하지 않은 인증 기관 (CA) 인증서
 cert-error-trust-untrusted-issuer = 발급자 인증서를 신뢰할 수 없기 때문에 인증서를 신뢰할 수 없습니다.
 cert-error-trust-signature-algorithm-disabled = 비활성화된 안전하지 않은 알고리즘을 사용하여 서명되었기 때문에 인증서를 신뢰할 수 없습니다.
 cert-error-trust-expired-issuer = 발급자 인증서가 만료되었기 때문에 인증서를 신뢰할 수 없습니다.
-cert-error-trust-self-signed = 자기 스스로 서명하였으므로 인증서를 신뢰할 수 없습니다.
+cert-error-trust-self-signed = 이 인증서는 자체 서명된 인증서이므로 신뢰할 수 없습니다.
 cert-error-trust-symantec = GeoTrust나 RapidSSL, Symantec, Thawte, VeriSign이 발급한 인증서는 이전에 보안 관행을 따르지 않았기 때문에 더 이상 안전한 것으로 간주되지 않습니다.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
