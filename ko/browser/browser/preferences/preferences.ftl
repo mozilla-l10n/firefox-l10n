@@ -174,6 +174,10 @@ preferences-manage-profiles-button =
     .label = 프로필 관리
 preferences-profiles-settings-button =
     .label = 설정
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = 기존 프로필 복사
+    .description = 새 프로필은 설정, 부가 기능, 기록, 북마크 및 비밀번호와 같은 저장된 데이터를 복사하지만 계정이나 동기화 정보는 복사하지 않습니다.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
