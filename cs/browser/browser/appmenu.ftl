@@ -240,6 +240,7 @@ profiler-popup-presets-debug-description =
     }
 profiler-popup-presets-debug-label =
     .label = Ladění
+profiler-popup-presets-web-compat-description = Doporučené nastavení pro ladění problémů s kompatibilitou webových stránek, spíše než pro sledování výkonu.
 profiler-popup-presets-web-compat-label =
     .label = Webová kompatibilita
 profiler-popup-presets-custom-label =

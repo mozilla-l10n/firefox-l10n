@@ -172,8 +172,32 @@ preferences-manage-profiles-description = Mae gan bob proffil ddata pori a gosod
 preferences-manage-profiles-learn-more = Darllen rhagor
 preferences-manage-profiles-button =
     .label = Rheoli Proffiliau
+preferences-profiles-settings-button =
+    .label = Gosodiadau
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Copïwch y proffil hwn
+    .description = Bydd y proffil hwn yn copio eich gosodiadau, ychwanegion, hanes, a data wedi'i gadw fel nodau tudalen a chyfrineiriau — ond nid eich cyfrif na manylion cydweddu. Bydd y proffil hwn yn copïo eich gosodiadau, ychwanegion, hanes, a data wedi'i gadw fel nodau tudalen a chyfrineiriau — ond nid eich cyfrif na manylion  cydweddu.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Y proffil i'w gopïo
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Dewis proffil
+preferences-copy-profile-button = Copïo
 tabs-group-header2 =
     .label = Tabiau
+tabs-opening-heading =
+    .label = Yn agor
+tabs-interaction-heading =
+    .label = Rhyngweithiad
+tabs-containers-heading =
+    .label = Cynwysyddion
+tabs-closing-heading =
+    .label = Yn cau
 tabs-group-header = Tabiau
 ctrl-tab-recently-used-order =
     .label = Mae Ctrl+Tab yn cylchdroi drwy dabiau yn y drefn y'u defnyddiwyd yn ddiweddar

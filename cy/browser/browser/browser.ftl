@@ -426,6 +426,9 @@ quickactions-cmd-restart = ailgychwyn
 # Opens the screenshot tool
 quickactions-screenshot3 = Cymryd llun sgrin
 quickactions-cmd-screenshot2 = llun sgrin, cymryd llun sgrin
+# Opens about:translations
+quickactions-translate = Cyfieithu
+quickactions-cmd-translate = cyfieithu
 quickactions-cmd-screenshot = llun sgrin
 # Opens about:preferences
 quickactions-settings2 = Rheoli gosodiadau

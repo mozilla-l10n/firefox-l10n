@@ -350,7 +350,7 @@ amo-picker-collection-link = 더 많은 부가 기능 살펴보기
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = 사용자의 안전을 지키기 위해 최선을 다합니다.
-onboarding-easy-setup-security-and-privacy-subtitle = 이 비영리 지원 브라우저는 회사가 웹에서 사용자를 몰래 추적하는 것을 차단하는 데 도움이 됩니다.
+onboarding-easy-setup-security-and-privacy-subtitle = 이 비영리 지원 브라우저는 기업이 웹에서 사용자를 몰래 추적하는 것을 차단하는 데 도움이 됩니다.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = 기기 간 이동 시 암호화 상태를 유지하세요
 onboarding-mobile-download-security-and-privacy-subtitle = 동기화되면 { -brand-short-name }가 비밀번호, 북마크 등을 암호화합니다.  다른 기기에서 탭을 가져올 수도 있습니다.
