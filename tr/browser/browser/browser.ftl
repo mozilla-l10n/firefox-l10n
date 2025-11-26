@@ -426,6 +426,9 @@ quickactions-cmd-restart = yeniden başlat
 # Opens the screenshot tool
 quickactions-screenshot3 = Ekran görüntüsü al
 quickactions-cmd-screenshot2 = ekran görüntüsü al
+# Opens about:translations
+quickactions-translate = Çevir
+quickactions-cmd-translate = çevir
 quickactions-cmd-screenshot = ekran görüntüsü
 # Opens about:preferences
 quickactions-settings2 = Ayarları yönet
