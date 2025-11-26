@@ -303,6 +303,17 @@ page-action-remove-extension2 =
 full-screen-autohide =
     .label = بؽڌار کردن نوار ٱوزارا
     .accesskey = H
+full-screen-exit =
+    .label = و در زیڌن ز هالت گشتن پوی بلگه
+    .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = ای کرت، پیتینیڌن وا:
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = آلشت سامووا پیتینیڌن
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
