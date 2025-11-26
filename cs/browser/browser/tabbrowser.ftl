@@ -338,6 +338,26 @@ tab-context-move-tab-to-group =
            *[other] Přidat panely do skupiny
         }
     .accesskey = d
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Přidat rozdělené zobrazení do nové skupiny
+            [one] Přidat rozdělené zobrazení do nové skupiny
+            [few] Přidat rozdělená zobrazení do nové skupiny
+            [many] Přidat rozdělená zobrazení do nové skupiny
+           *[other] Přidat rozdělená zobrazení do nové skupiny
+        }
+    .accesskey = P
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Přidat rozdělené zobrazení do skupiny
+            [one] Přidat rozdělené zobrazení do skupiny
+            [few] Přidat rozdělená zobrazení do skupiny
+            [many] Přidat rozdělená zobrazení do skupiny
+           *[other] Přidat rozdělená zobrazení do skupiny
+        }
+    .accesskey = P
 tab-context-move-tab-to-group-saved-groups =
     .label = Zavřené skupiny
 tab-group-editor-action-new-tab =

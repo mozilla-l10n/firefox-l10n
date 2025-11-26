@@ -1428,7 +1428,7 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = 향상된 추적 방지: { $host }에 대해 꺼짐
 trustpanel-etp-description-enabled = 이 사이트에서 뭔가 손상된 것처럼 보이면 보호 기능을 꺼보세요.
-trustpanel-etp-description-disabled = { -brand-product-name }는 회사가 사용자를 덜 팔로우해야 한다고 생각합니다. 보호 기능을 켜면 가능한 많은 추적기를 차단합니다.
+trustpanel-etp-description-disabled = { -brand-product-name }는 기업들이 사용자를 덜 추적해야 한다고 생각합니다. 보호 기능을 켜면 가능한 한 많은 추적기를 차단합니다.
 trustpanel-connection-label-secure = 안전한 연결
 trustpanel-connection-label-insecure = 안전하지 않은 연결
 trustpanel-header-enabled = { -brand-product-name }가 감시 중
@@ -1468,7 +1468,7 @@ urlbar-trust-icon-notsecure-label = 안전하지 않음
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-blocker-section-header = 이 사이트에서 <span>{ $count }</span>개의 추적기가 차단됨
-trustpanel-blocker-description = { -brand-product-name }는 회사가 사용자를 덜 팔로우해야 한다고 생각합니다. 그래서 우리는 가능한 한 많이 차단합니다.
+trustpanel-blocker-description = { -brand-product-name }는 기업들이 사용자를 덜 추적해야 한다고 생각합니다. 그래서 저희는 가능한 한 많이 차단합니다.
 trustpanel-blocked-header = { -brand-product-name }가 다음 항목을 차단했습니다:
 trustpanel-tracking-header = { -brand-product-name }가 사이트가 깨지지 않도록 다음 항목을 허용했습니다:
 trustpanel-tracking-description = 추적기가 없으면 일부 버튼, 양식 및 로그인 필드가 작동하지 않을 수 있습니다.
