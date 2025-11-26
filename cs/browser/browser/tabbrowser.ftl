@@ -465,5 +465,8 @@ tab-context-badge-new = Nové
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Osamostatnit panely
 split-view-menuitem-close-both-tabs =
     .label = Zavřít oba panely

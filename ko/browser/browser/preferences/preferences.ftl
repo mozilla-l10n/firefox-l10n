@@ -172,8 +172,28 @@ preferences-manage-profiles-description = 각 프로필에는 기록, 비밀번�
 preferences-manage-profiles-learn-more = 더 알아보기
 preferences-manage-profiles-button =
     .label = 프로필 관리
+preferences-profiles-settings-button =
+    .label = 설정
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = 복사할 프로필
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = 프로필 선택
+preferences-copy-profile-button = 복사
 tabs-group-header2 =
     .label = 탭
+tabs-opening-heading =
+    .label = 열기
+tabs-interaction-heading =
+    .label = 상호작용
+tabs-containers-heading =
+    .label = 컨테이너
+tabs-closing-heading =
+    .label = 닫기
 tabs-group-header = 탭
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab 단축키로 최근 사용한 순서대로 탭 순환

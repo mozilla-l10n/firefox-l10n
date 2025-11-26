@@ -426,6 +426,9 @@ quickactions-cmd-restart = 다시 시작, restart
 # Opens the screenshot tool
 quickactions-screenshot3 = 스크린샷
 quickactions-cmd-screenshot2 = screenshot, take a screenshot, 스크린샷
+# Opens about:translations
+quickactions-translate = 번역
+quickactions-cmd-translate = 번역
 quickactions-cmd-screenshot = 스크린샷, screenshot
 # Opens about:preferences
 quickactions-settings2 = 설정 관리

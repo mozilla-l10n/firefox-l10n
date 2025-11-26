@@ -215,8 +215,32 @@ preferences-manage-profiles-description = Každý profil má samostatné údaje 
 preferences-manage-profiles-learn-more = Zjistit více
 preferences-manage-profiles-button =
     .label = Správa profilů
+preferences-profiles-settings-button =
+    .label = Nastavení
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopírovat existující profil
+    .description = Nový profil zkopíruje vaše nastavení, doplňky, historii a uložená data, jako jsou záložky a hesla, ale ne informace o účtu nebo synchronizaci.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profil na kopírování
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Vybrat profil
+preferences-copy-profile-button = Kopírovat
 tabs-group-header2 =
     .label = Panely
+tabs-opening-heading =
+    .label = Otevření
+tabs-interaction-heading =
+    .label = Interakce
+tabs-containers-heading =
+    .label = Kontejnery
+tabs-closing-heading =
+    .label = Ukončení
 tabs-group-header = Panely
 ctrl-tab-recently-used-order =
     .label = Přepínat panely pomocí Ctrl+Tab v pořadí podle jejich posledního použití
