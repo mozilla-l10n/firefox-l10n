@@ -270,6 +270,8 @@ urlbar-screen-blocked =
     .tooltiptext = ایسا ای وبگه ن سی یک رسۊوی بلگه خوتووݩ مسدۊد کردینه.
 urlbar-persistent-storage-blocked =
     .tooltiptext = ایسا ای وبگه ن سی زفت کردن دووسمندیا مسدۊد کردینه.
+urlbar-popup-blocked2 =
+    .tooltiptext = ایسا نیمدری یل گۊشیڌنی وو آلشت تورا شخس سالس ن سی ای وبگه مسدۊد کردینه.
 urlbar-popup-blocked =
     .tooltiptext = ایسا نیمدری یل گۊشیڌنی ن سی ای وبگه مسدۊد کردینه.
 urlbar-autoplay-media-blocked =
@@ -329,6 +331,34 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = ٱووردن «{ $engineName }»
+    .tooltiptext = ٱووردن موتور پیتینیڌن «{ $engineName }»
+    .aria-label = ٱووردن موتور پیتینیڌن «{ $engineName }»
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = ٱووردن موتور پیتینیڌن
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = نشووکا ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = بلگه یل ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = ویرگار ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = کارا ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
