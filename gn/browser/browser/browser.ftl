@@ -426,6 +426,9 @@ quickactions-cmd-restart = Moñepyrũjey
 # Opens the screenshot tool
 quickactions-screenshot3 = Ejapyhy mba’erechaha
 quickactions-cmd-screenshot2 = mba’erechaha japyhy, ejapyhy mba’erechaha
+# Opens about:translations
+quickactions-translate = Moñe’ẽasa
+quickactions-cmd-translate = moñe’ẽasa
 quickactions-cmd-screenshot = Ta’ãnga japyhy
 # Opens about:preferences
 quickactions-settings2 = Eñangareko ehayhuvévare
