@@ -203,6 +203,22 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = رڌ ای پؽشنهاڌ
     .accesskey = D
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = زبار { -firefox-suggest-brand-name } قلوه دووسته بۊین
+    .accesskey = L
+urlbar-result-menu-manage-firefox-suggest =
+    .label = دؽوۉداری { -firefox-suggest-brand-name }
+    .accesskey = M
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = کمتر تایپ کۊنین، قلوه بجۊرین: تینا وا نوار نشۊوی با { $engineName } بپیتینین.
+urlbar-search-tips-redirect-2 = پیتینیڌن خوتووه من نوار نشۊوی تایپ کۊنین تا پؽشنهاڌایی ز { $engineName } وو ویرگار گشتن خوتووݩ بنیرین.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = پیتینیڌن ساڌه تر وابیڌه. قپ ریت کۊنین پیتینیڌن خوتووݩ ن من ایچو من نوار نشۊوی دیاری تر کۊنین. سی نشووݩ داڌن نشۊوی وبگه و جا هو، و «پیتینیڌن» من سامووا ریوین.
 
 ##
 
