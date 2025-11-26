@@ -348,6 +348,12 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Åbn gruppe i et nyt vindue
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Tilføj note
+    .accesskey = j
+
 ## Split View
 
 # Split view tabs display their respective contents side by side

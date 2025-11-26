@@ -1057,6 +1057,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Adgangskoder
     .searchkeywords = logins
+forms-passwords-header =
+    .label = Adgangskoder
+    .aria-label = Adgangskoder
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Spørg om at gemme adgangskoder
@@ -1097,6 +1100,8 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Benyt en hovedadgangskode
     .accesskey = B
+forms-primary-pw-change-2 =
+    .label = Skift hovedadgangskode
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Kræv login på enhed for at udfylde og håndtere adgangskoder
@@ -1162,6 +1167,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Gem og autofyld betalingsmetoder
     .accesskey = a
+autofill-payment-methods-manage-payments-title =
+    .heading = Håndter betalingsmetoder
 autofill-payment-methods-manage-payments-button =
     .label = Håndter betalingsmetoder
     .accesskey = b
@@ -1169,6 +1176,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Kræv login på enhed for at autofylde og håndtere betalingsmetoder
     .accesskey = o
+autofill-payment-methods-add-button = Tilføj ny betalingsmetode
+payments-list-header =
+    .label = Betalingsmetoder
+payments-list-item-label = <strong>Betalingsmetoder</strong>
+payments-remove-payment-prompt-title = Fjern denne betalingsmetode?
+payments-remove-payment-prompt-confirm-button = Fjern
+payments-remove-payment-prompt-cancel-button = Annuller
 autofill-addresses-title = Adresser med mere
 autofill-addresses-header =
     .aria-label = Adresser med mere
@@ -1178,6 +1192,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Håndter adresser med mere
     .accesskey = H
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1577,6 +1599,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Højtaler
 permissions-notification2 =
     .label = Beskeder
 

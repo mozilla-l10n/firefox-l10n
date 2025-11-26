@@ -364,6 +364,8 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = نیشتن وردنی یل
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
@@ -434,6 +436,10 @@ bookmark-panel-show-editor-checkbox =
 ## Identity Panel
 
 identity-extension-page = ای بلگه و دست ی وردنی بار ونی وابیڌه
+identity-https-only-dropdown-on =
+    .label = رۊشن
+identity-https-only-dropdown-off =
+    .label = کۊر
 
 ## URL Bar
 
