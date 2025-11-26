@@ -197,6 +197,12 @@ urlbar-result-menu-learn-more =
 urlbar-result-menu-remove-from-history =
     .label = وورداشتن ز ویرگار
     .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = گرؽڌن هیاری
+    .accesskey = h
+urlbar-result-menu-dismiss-suggestion =
+    .label = رڌ ای پؽشنهاڌ
+    .accesskey = D
 
 ##
 
