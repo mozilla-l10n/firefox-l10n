@@ -426,6 +426,9 @@ quickactions-cmd-restart = перезапустить
 # Opens the screenshot tool
 quickactions-screenshot3 = Сделать снимок экрана
 quickactions-cmd-screenshot2 = скриншот, сделать скриншот
+# Opens about:translations
+quickactions-translate = Перевести
+quickactions-cmd-translate = перевести
 quickactions-cmd-screenshot = скриншот
 # Opens about:preferences
 quickactions-settings2 = Управление настройками

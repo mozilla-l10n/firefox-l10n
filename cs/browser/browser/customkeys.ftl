@@ -32,5 +32,6 @@ customkeys-nav-back = Zpět
 customkeys-nav-forward = Vpřed
 customkeys-nav-home = Domů
 customkeys-nav-reload = Znovu načíst
+customkeys-nav-reload-skip-cache = Znovu načíst (přepsat mezipaměť)
 customkeys-nav-stop = Zastavit
 customkeys-caution-message = Tato funkce je experimentální a nemusí fungovat podle očekávání.
