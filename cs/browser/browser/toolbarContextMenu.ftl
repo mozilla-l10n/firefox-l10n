@@ -92,5 +92,5 @@ toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Zobrazit ostatní záložky
     .accesskey = o
 toolbar-context-menu-menu-bar-cmd =
-    .toolbarname = Hlavní nabídka
-    .accesskey = H
+    .toolbarname = Lišta nabídek
+    .accesskey = A

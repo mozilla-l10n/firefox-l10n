@@ -83,7 +83,7 @@ policy-DisableThirdPartyModuleBlocking =
        *[no-cases] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu aplikace { -brand-short-name }.
     }
 policy-DisplayBookmarksToolbar = Zobrazení lišty záložek ve výchozím nastavení.
-policy-DisplayMenuBar = Zobrazení hlavní nabídky ve výchozím nastavení.
+policy-DisplayMenuBar = Zobrazení lišty nabídek ve výchozím nastavení.
 policy-DNSOverHTTPS = Nastavení DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Vypnutí kontroly nastavení výchozího prohlížeče při spuštění.
 policy-DownloadDirectory = Nastavení a uzamčení nastavení adresáře pro stahování souborů.
