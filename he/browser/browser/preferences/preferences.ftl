@@ -172,8 +172,27 @@ preferences-manage-profiles-description = לכל פרופיל יש נתוני ג
 preferences-manage-profiles-learn-more = מידע נוסף
 preferences-manage-profiles-button =
     .label = ניהול פרופילים
+preferences-profiles-settings-button =
+    .label = הגדרות
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = העתקת פרופיל קיים
+    .description = הפרופיל החדש יעתיק את ההגדרות, התוספות, ההיסטוריה ונתונים שמורים כמו סימניות וססמאות - אבל לא פרטי החשבון או הסנכרון שלך.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = פרופיל להעתקה
 tabs-group-header2 =
     .label = לשוניות
+tabs-opening-heading =
+    .label = פתיחה
+tabs-interaction-heading =
+    .label = אינטראקציה
+tabs-containers-heading =
+    .label = מגירות
+tabs-closing-heading =
+    .label = סגירה
 tabs-group-header = לשוניות
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab מחליף את הלשוניות לפי סדר השימוש בהן
@@ -1057,10 +1076,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = ססמאות
     .searchkeywords = כניסות
+forms-passwords-header =
+    .label = ססמאות
+    .aria-label = ססמאות
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = לבקש לשמור ססמאות
     .accesskey = ל
+forms-manage-password-exceptions =
+    .label = ניהול חריגות עבור ססמאות
+    .accesskey = נ
 forms-exceptions =
     .label = חריגות…
     .accesskey = ר
@@ -1091,9 +1116,16 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = מילוי שמות משתמשים וססמאות באופן אוטומטי
     .accesskey = מ
+forms-fill-usernames-and-passwords-2 =
+    .label = שמירה ומילוי אוטומטי של שמות משתמשים וססמאות
+    .accesskey = מ
 forms-saved-passwords =
     .label = ססמאות שמורות
     .accesskey = ס
+forms-saved-passwords-2 =
+    .label = ניהול ססמאות שמורות
+    .accesskey = ס
+forms-saved-passwords-searchkeywords = במחשב שלך נשמרו פרטי הכניסה לאתרים הבאים
 # Header for additional protections when managing password settings.
 forms-additional-protections-header =
     .label = הגנות נוספות

@@ -426,6 +426,9 @@ quickactions-cmd-restart = הפעלה מחדש, הפעל מחדש, להפעיל 
 # Opens the screenshot tool
 quickactions-screenshot3 = צילום מסך
 quickactions-cmd-screenshot2 = צילום מסך, screenshot, לקיחת צילום מסך, צלם את המסך
+# Opens about:translations
+quickactions-translate = תרגום
+quickactions-cmd-translate = תרגום,תירגום,לתרגם
 quickactions-cmd-screenshot = צילום מסך, צלם מסך, לצלם מסך, לצלם את המסך, לקחת צילום מסך
 # Opens about:preferences
 quickactions-settings2 = ניהול הגדרות
