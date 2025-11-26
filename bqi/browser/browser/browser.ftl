@@ -314,6 +314,21 @@ full-screen-exit =
 search-one-offs-with-title = ای کرت، پیتینیڌن وا:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = آلشت سامووا پیتینیڌن
+search-one-offs-context-open-new-tab =
+    .label = پیتینیڌن من بلگه نۊ
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = سامووݩ و عونوان موتور پیتینیڌن پؽش فرز
+    .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = سامووݩ و عونوان موتور پیتینیڌن پؽش فرز من نیمدری یل سیخومی
+    .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
