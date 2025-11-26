@@ -664,6 +664,16 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = 新清单
 newtab-widget-section-title = 小组件
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = 隐藏小组件
+    .aria-label = 隐藏所有小组件
+newtab-widget-section-maximize =
+    .title = 展开小组件
+    .aria-label = 将所有小组件展开为完整大小
+newtab-widget-section-minimize =
+    .title = 最小化小组件
+    .aria-label = 将所有小组件收缩为紧凑大小
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
