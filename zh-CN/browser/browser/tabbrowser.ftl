@@ -253,6 +253,20 @@ tab-context-move-tab-to-group =
            *[other] 将标签页添加到群组
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] 将分屏添加到新群组
+           *[other] 将分屏添加到新群组
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] 将分屏添加到新群组
+           *[other] 将分屏添加到新群组
+        }
+    .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = 关闭的群组
 tab-group-editor-action-new-tab =

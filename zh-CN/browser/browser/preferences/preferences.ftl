@@ -1183,6 +1183,7 @@ autofill-payment-methods-add-button = 添加付款方式
 payments-list-header =
     .label = 付款方式
 payments-list-item-label = <strong>付款方式</strong>
+payments-remove-payment-prompt-title = 确定要移除此付款方式吗？
 payments-remove-payment-prompt-confirm-button = 移除
 payments-remove-payment-prompt-cancel-button = 取消
 autofill-addresses-title = 地址等信息
@@ -1576,6 +1577,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = 拦截弹出式窗口和第三方重定向
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = 管理弹出式窗口和第三方重定向例外
+    .accesskey = E
+    .searchkeywords = 弹出式窗口 弹窗 popups
 permissions-addon-install-warning2 =
     .label = 当网站尝试安装扩展时发出警告
     .accesskey = W
