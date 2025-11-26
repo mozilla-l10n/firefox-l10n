@@ -440,6 +440,8 @@ identity-https-only-dropdown-on =
     .label = رۊشن
 identity-https-only-dropdown-off =
     .label = کۊر
+identity-https-only-dropdown-off-temporarily =
+    .label = کۊر وابیڌن مووقت
 
 ## URL Bar
 

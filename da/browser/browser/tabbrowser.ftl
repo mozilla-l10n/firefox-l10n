@@ -353,6 +353,10 @@ tab-group-context-open-saved-group-in-new-window =
 tab-context-add-note =
     .label = Tilføj note
     .accesskey = j
+tab-context-edit-note =
+    .label = Rediger note
+    .accesskey = R
+tab-note-editor-title-create = Tilføj note
 
 ## Split View
 
