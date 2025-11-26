@@ -426,6 +426,9 @@ quickactions-cmd-restart = herstarten
 # Opens the screenshot tool
 quickactions-screenshot3 = Een schermafbeelding maken
 quickactions-cmd-screenshot2 = schermafdruk, een schermafdruk nemen
+# Opens about:translations
+quickactions-translate = Vertalen
+quickactions-cmd-translate = vertalen
 quickactions-cmd-screenshot = schermafbeelding
 # Opens about:preferences
 quickactions-settings2 = Instellingen beheren

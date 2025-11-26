@@ -172,8 +172,19 @@ preferences-manage-profiles-description = Elk profiel heeft aparte navigatiegege
 preferences-manage-profiles-learn-more = Meer info
 preferences-manage-profiles-button =
     .label = Profielen beheren
+preferences-profiles-settings-button =
+    .label = Instellingen
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Profiel selecteren
+preferences-copy-profile-button = Kopiëren
 tabs-group-header2 =
     .label = Tabbladen
+tabs-interaction-heading =
+    .label = Interactie
+tabs-containers-heading =
+    .label = Containers
 tabs-group-header = Tabbladen
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab doorloopt tabbladen in onlangs gebruikte volgorde
