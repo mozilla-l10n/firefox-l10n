@@ -289,7 +289,6 @@ tab-context-move-split-view-to-new-group =
     .label =
         { $splitViewCount ->
             [1] Føj opdelt visning til en ny gruppe
-            [one] { "" }
            *[other] Føj opdelte visninger til en ny gruppe
         }
     .accesskey = g
@@ -297,7 +296,6 @@ tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
             [1] Føj opdelt visning til gruppe
-            [one] { "" }
            *[other] Føj opdelte visninger til gruppe
         }
     .accesskey = g
