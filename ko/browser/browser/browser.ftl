@@ -1420,16 +1420,16 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust icon & panel
 
-trustpanel-etp-label-enabled = 향상된 추적 방지 켜짐
-trustpanel-etp-label-disabled = 향상된 추적 방지 꺼짐
+trustpanel-etp-label-enabled = 향상된 추적 방지 기능 켜짐
+trustpanel-etp-label-disabled = 향상된 추적 방지 기능 꺼짐
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
-    .aria-label = 향상된 추적 방지: { $host }에 대해 켜짐
+    .aria-label = 향상된 추적 방지 기능: { $host }에 대해 켜짐
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
-    .aria-label = 향상된 추적 방지: { $host }에 대해 꺼짐
+    .aria-label = 향상된 추적 방지 기능: { $host }에 대해 꺼짐
 trustpanel-etp-description-enabled = 이 사이트에서 뭔가 손상된 것처럼 보이면 보호 기능을 꺼보세요.
 trustpanel-etp-description-disabled = { -brand-product-name }는 기업들이 사용자를 덜 추적해야 한다고 생각합니다. 보호 기능을 켜면 가능한 한 많은 추적기를 차단합니다.
 trustpanel-connection-label-secure = 안전한 연결
