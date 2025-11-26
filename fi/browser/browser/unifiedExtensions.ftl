@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Hallitse laajennusta
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } on rajoitettu. Sen käyttö voi olla riskialtista.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } rikkoo Mozillan käytäntöjä. Sen käyttö voi olla riskialtista.
 
 ## Extension's context menu
