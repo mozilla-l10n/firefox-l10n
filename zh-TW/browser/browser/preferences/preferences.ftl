@@ -174,8 +174,30 @@ preferences-manage-profiles-button =
     .label = 管理設定檔
 preferences-profiles-settings-button =
     .label = 設定
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = 複製現有設定檔
+    .description = 將從您現有設定檔複製設定、附加元件、瀏覽紀錄、書籤密碼等儲存的資料，但不會複製帳號或同步的資訊。
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = 要複製的設定檔
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = 選擇設定檔
+preferences-copy-profile-button = 複製
 tabs-group-header2 =
     .label = 分頁
+tabs-opening-heading =
+    .label = 開啟
+tabs-interaction-heading =
+    .label = 互動
+tabs-containers-heading =
+    .label = 容器
+tabs-closing-heading =
+    .label = 關閉
 tabs-group-header = 分頁
 ctrl-tab-recently-used-order =
     .label = 按下 Ctrl+Tab 時，依照最近使用分頁的順序切換分頁標籤
