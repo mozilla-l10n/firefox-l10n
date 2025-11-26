@@ -426,6 +426,9 @@ quickactions-cmd-restart = käynnistä uudelleen
 # Opens the screenshot tool
 quickactions-screenshot3 = Ota kuvakaappaus
 quickactions-cmd-screenshot2 = kuvakaappaus, ota kuvakaappaus
+# Opens about:translations
+quickactions-translate = Käännä
+quickactions-cmd-translate = käännä
 quickactions-cmd-screenshot = kuvakaappaus
 # Opens about:preferences
 quickactions-settings2 = Hallitse asetuksia
