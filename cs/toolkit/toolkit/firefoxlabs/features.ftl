@@ -59,12 +59,12 @@ experimental-features-newtab-sections-follow-block =
 experimental-features-newtab-sections-follow-block-description = Články na novém panelu si můžete uspořádat do tematických sekcí (Sport, Jídlo, Zábava a další), abyste je měli lépe strukturované a snadno je našli. Použijte naše nové ovládací prvky Sledovat a Blokovat a přizpůsobte si tím, jaký obsah má být zobrazen. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
 # Firefox Web Apps
 experimental-features-fx-web-apps =
-    .label = Přidání webových stránek na panel úloh
+    .label = Přidání webových stránek na systémový hlavní panel
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
 experimental-features-fx-web-apps-description =
     { -brand-product-name.case-status ->
-        [with-cases] Otevřete často navštěvované weby jako webovou aplikaci z panelu úloh. Hledejte ikonu “Přidat panel na panel úloh” vpravo na adresním řádku, abyste daný web spustili ve zjednodušeném okně se všemi ochranami { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
-       *[no-cases] Otevřete často navštěvované weby jako webovou aplikaci z panelu úloh. Hledejte ikonu “Přidat panel na panel úloh” vpravo na adresním řádku, abyste daný web spustili ve zjednodušeném okně se všemi ochranami { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+        [with-cases] Otevírejte často navštěvované weby jako webovou aplikaci ze systémového hlavního panelu. Hledejte ikonu „Přidat panel na systémový hlavní panel“ vpravo na adresním řádku, abyste daný web spustili ve zjednodušeném okně se všemi ochranami { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+       *[no-cases] Otevírejte často navštěvované weby jako webovou aplikaci ze systémového hlavního panelu. Hledejte ikonu „Přidat panel na systémový hlavní panel“ vpravo na adresním řádku, abyste daný web spustili ve zjednodušeném okně se všemi ochranami { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
     }
 
 ## New Tab Productivity Widgets

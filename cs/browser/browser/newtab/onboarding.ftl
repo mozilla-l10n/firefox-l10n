@@ -181,8 +181,8 @@ fx100-thank-you-pin-primary-button-label =
             }
        *[other]
             { -brand-short-name.case-status ->
-                [with-cases] Připnout { -brand-short-name(case: "acc") } na lištu
-               *[no-cases] Připnout aplikaci { -brand-short-name } na lištu
+                [with-cases] Připnout { -brand-short-name(case: "acc") } na systémový hlavní panel
+               *[no-cases] Připnout aplikaci { -brand-short-name } na systémový hlavní panel
             }
     }
 fx100-upgrade-thanks-header = Děkujeme 100krát
@@ -237,15 +237,15 @@ mr2022-onboarding-pin-primary-button-label =
             }
        *[other]
             { -brand-short-name.case-status ->
-                [with-cases] Připnout { -brand-short-name(case: "acc") } na hlavní panel
-               *[no-cases] Připnout aplikaci { -brand-short-name } na hlavní panel
+                [with-cases] Připnout { -brand-short-name(case: "acc") } na systémový hlavní panel
+               *[no-cases] Připnout aplikaci { -brand-short-name } na systémový hlavní panel
             }
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix =
     { -brand-short-name.case-status ->
-        [with-cases] Připnout { -brand-short-name(case: "acc") } na hlavní panel a do nabídky start
-       *[no-cases] Připnout aplikaci { -brand-short-name } na hlavní panel a do nabídky start
+        [with-cases] Připnout { -brand-short-name(case: "acc") } na systémový hlavní panel a do nabídky start
+       *[no-cases] Připnout aplikaci { -brand-short-name } na systémový hlavní panel a do nabídky start
     }
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
@@ -389,8 +389,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
             }
        *[other]
             { -brand-short-name.case-status ->
-                [with-cases] Připnout anonymní prohlížení { -brand-short-name(case: "gen") } na hlavní panel
-               *[no-cases] Připnout anonymní prohlížení aplikace { -brand-short-name } na hlavní panel
+                [with-cases] Připnout anonymní prohlížení { -brand-short-name(case: "gen") } na systémový hlavní panel
+               *[no-cases] Připnout anonymní prohlížení aplikace { -brand-short-name } na systémový hlavní panel
             }
     }
 
@@ -617,8 +617,8 @@ onboarding-checklist-set-default =
     }
 onboarding-checklist-pin =
     { -brand-short-name.case-status ->
-        [with-cases] Připnout { -brand-short-name(case: "acc") } na hlavní panel
-       *[no-cases] Připnout aplikaci { -brand-short-name } na hlavní panel
+        [with-cases] Připnout { -brand-short-name(case: "acc") } na systémový hlavní panel
+       *[no-cases] Připnout aplikaci { -brand-short-name } na systémový hlavní panel
     }
 onboarding-checklist-import = Importovat z dříve používaného prohlížeče
 onboarding-checklist-extension = Přidat rozšíření

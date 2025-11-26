@@ -526,11 +526,11 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
             }
        *[other]
             { -brand-short-name.case-status ->
-                [with-cases] Svůj oblíbený prohlížeč zaměřený na ochranu soukromí můžete mít na dosah jediného klepnutí. Nastavte { -brand-short-name(case: "acc") } jako výchozí prohlížeč pro otevírání odkazů a připněte jej na hlavní panel.
-               *[no-cases] Svůj oblíbený prohlížeč zaměřený na ochranu soukromí můžete mít na dosah jediného klepnutí. Nastavte aplikaci { -brand-short-name } jako výchozí prohlížeč pro otevírání odkazů a připněte jej na hlavní panel.
+                [with-cases] Svůj oblíbený prohlížeč zaměřený na ochranu soukromí můžete mít na dosah jediného klepnutí. Nastavte { -brand-short-name(case: "acc") } jako výchozí prohlížeč pro otevírání odkazů a připněte jej na systémový hlavní panel.
+               *[no-cases] Svůj oblíbený prohlížeč zaměřený na ochranu soukromí můžete mít na dosah jediného klepnutí. Nastavte aplikaci { -brand-short-name } jako výchozí prohlížeč pro otevírání odkazů a připněte jej na systémový hlavní panel.
             }
     }
-multi-cta-fox-doodle-msix-privacy-focused-subtitle = Svůj oblíbený prohlížeč zaměřený na ochranu soukromí můžete mít na dosah jediného klepnutí. Nastavte { -brand-short-name } jako výchozí prohlížeč pro otevírání odkazů a připněte jej na hlavní panel a do nabídky Start.
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Svůj oblíbený prohlížeč zaměřený na ochranu soukromí můžete mít na dosah jediného klepnutí. Nastavte { -brand-short-name } jako výchozí prohlížeč pro otevírání odkazů a připněte jej na systémový hlavní panel a do nabídky Start.
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 
@@ -561,7 +561,7 @@ windows-10-eos-challenger-sync-callout-subtitle =
         [with-cases] Když si zálohujete záložky a hesla ve { -brand-product-name(case: "loc") }, můžete vybraný prohlížeč snáze přenést do dalšího zařízení.
        *[no-cases] Když si zálohujete záložky a hesla v aplikaci { -brand-product-name }, můžete vybraný prohlížeč snáze přenést do dalšího zařízení.
     }
-windows-10-eos-challenger-pin-callout-subtitle = Připněte si { -brand-shorter-name } na hlavní panel, abyste měli vybraný prohlížeč vždy po ruce, když ho potřebujete.
+windows-10-eos-challenger-pin-callout-subtitle = Připněte si { -brand-shorter-name } na systémový hlavní panel, abyste měli vybraný prohlížeč vždy po ruce, když ho potřebujete.
 windows-10-eos-challenger-sync-primary-button = Zálohovat { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Připnout { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokuje kryptoměny, sledovací prvky sociálních sítí a otisky prohlížeče.

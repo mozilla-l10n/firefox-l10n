@@ -8,9 +8,9 @@
 ## navigates to a website.
 
 taskbar-tab-urlbar-button-open =
-    .tooltiptext = Přidat panel na panel úloh
+    .tooltiptext = Přidat panel na systémový hlavní panel
 taskbar-tab-urlbar-button-close =
-    .tooltiptext = Odebrat panel z panelu úloh
+    .tooltiptext = Odebrat panel ze systémového hlavního panelu
 taskbar-tab-urlbar-button-show = Zobrazí akci Zobrazit webovou aplikaci
 taskbar-tab-urlbar-button-hide = Zobrazí akci Skrýt webovou aplikaci
 # This string is used in the description of a Windows Start Menu
