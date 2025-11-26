@@ -198,8 +198,8 @@ tabbrowser-confirm-open-multiple-tabs-checkbox =
 
 ## Confirmation dialog for enabling caret browsing
 
-tabbrowser-confirm-caretbrowsing-title = Procházení stránky
-tabbrowser-confirm-caretbrowsing-message = Stisknutím klávesy F7 zapnete či vypnete funkci Procházení stránky. Ta umístí do stránky pohyblivý textový kurzor, který vám umožní vybírat text pomocí klávesnice. Chcete zapnout funkci Procházení stránky?
+tabbrowser-confirm-caretbrowsing-title = Procházení pomocí kurzoru
+tabbrowser-confirm-caretbrowsing-message = Stisknutím klávesy F7 zapnete či vypnete funkci Procházení pomocí kurzoru. Ta umístí do stránky pohyblivý textový kurzor, který vám umožní vybírat text pomocí klávesnice. Chcete zapnout funkci Procházení pomocí kurzoru?
 tabbrowser-confirm-caretbrowsing-checkbox = Tento dialog příště nezobrazovat.
 
 ## Confirmation dialog for closing all duplicate tabs
