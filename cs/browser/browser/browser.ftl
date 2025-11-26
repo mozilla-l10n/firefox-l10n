@@ -466,6 +466,9 @@ quickactions-cmd-restart = restart, restartovat
 # Opens the screenshot tool
 quickactions-screenshot3 = Pořídit snímek stránky
 quickactions-cmd-screenshot2 = snímek obrazovky, pořízení snímku obrazovky
+# Opens about:translations
+quickactions-translate = Přeložit
+quickactions-cmd-translate = přeložit
 quickactions-cmd-screenshot = snímek obrazovky, stránky
 # Opens about:preferences
 quickactions-settings2 = Nastavení
