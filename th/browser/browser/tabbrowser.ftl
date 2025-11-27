@@ -255,6 +255,20 @@ tab-context-move-tab-to-group =
            *[other] เพิ่มแท็บไปยังกลุ่ม
         }
     .accesskey = ก
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] เพิ่มมุมมองแยกไปยังกลุ่มใหม่
+           *[other] เพิ่มมุมมองแยกไปยังกลุ่มใหม่
+        }
+    .accesskey = ล
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] เพิ่มมุมมองแยกไปยังกลุ่ม
+           *[other] เพิ่มมุมมองแยกไปยังกลุ่ม
+        }
+    .accesskey = ล
 tab-context-move-tab-to-group-saved-groups =
     .label = กลุ่มที่ปิดแล้ว
 tab-group-editor-action-new-tab =
@@ -317,6 +331,25 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = เปิดกลุ่มในหน้าต่างใหม่
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = เพิ่มหมายเหตุ
+    .accesskey = พ
+tab-context-edit-note =
+    .label = แก้ไขหมายเหตุ
+    .accesskey = ก
+tab-note-editor-title-create = เพิ่มหมายเหตุ
+tab-note-editor-title-edit = แก้ไขหมายเหตุ
+tab-note-editor-text-field =
+    .placeholder = คุณต้องการจดจำอะไรเกี่ยวกับแท็บนี้?
+tab-note-editor-button-cancel =
+    .label = ยกเลิก
+    .accesskey = ย
+tab-note-editor-button-save =
+    .label = บันทึก
+    .accesskey = บ
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -335,3 +368,14 @@ tab-context-separate-split-view =
     .label = แบ่งมุมมองแยก
     .accesskey = ย
 tab-context-badge-new = ใหม่
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = แยกแท็บ
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = กลับลำดับแท็บ
+split-view-menuitem-close-both-tabs =
+    .label = ปิดทั้งสองแท็บ

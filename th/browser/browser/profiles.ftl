@@ -26,12 +26,16 @@ profile-card =
 default-profile-name = โปรไฟล์ { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = โปรไฟล์ดั้งเดิม
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = แก้ไขโปรไฟล์
 edit-profile-page-header = แก้ไขโปรไฟล์ของคุณ
 edit-profile-page-profile-name-label = ชื่อโปรไฟล์
 edit-profile-page-theme-header-2 =
     .label = ชุดตกแต่ง
 edit-profile-page-explore-themes = สำรวจชุดตกแต่งเพิ่มเติม
+edit-profile-page-desktop-shortcut-header = สร้างทางลัดบนเดสก์ท็อป
+edit-profile-page-desktop-shortcut-toggle =
+    .aria-label = สร้างทางลัดบนเดสก์ท็อป
 edit-profile-page-avatar-header-2 =
     .label = อวตาร
 edit-profile-page-delete-button =
@@ -58,6 +62,10 @@ new-profile-page-input-placeholder =
     .placeholder = เลือกชื่อ เช่น “งาน” หรือ “ส่วนตัว”
 new-profile-page-done-button =
     .label = เสร็จสิ้นการแก้ไข
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = สำเนาของ { $profilename } ของคุณพร้อมให้ปรับแต่งแล้ว
+copied-profile-page-header-description = เราคัดลอกข้อมูลและการตั้งค่าของคุณไปยังโปรไฟล์ใหม่แล้ว ทีนี้ให้ตั้งชื่อ เลือกรูปลักษณ์ และปรับแต่งให้เป็นของคุณเอง
 profile-window-title-2 = { -brand-short-name } - เลือกโปรไฟล์
 profile-window-logo =
     .alt = โลโก้ { -brand-short-name }

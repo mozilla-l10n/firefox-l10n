@@ -1360,6 +1360,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = แถบที่อยู่
+addressbar-suggest-1 = เลือกคำแนะนำที่จะแสดงในแถบที่อยู่ของคุณ
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = แสดงคำแนะนำจาก { -brand-short-name } และพันธมิตรของเราในแถบที่อยู่ของคุณ
 addressbar-suggest = เมื่อใช้แถบที่อยู่ เสนอแนะ
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = แถบที่อยู่ — { -firefox-suggest-brand-name }
@@ -1387,6 +1392,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = ไซต์เด่น
     .accesskey = ด
+addressbar-locbar-engines-option-1 =
+    .label = แนะนำเครื่องมือค้นหาที่จะใช้
+    .accesskey = ค
 addressbar-locbar-engines-option =
     .label = เครื่องมือค้นหา
     .accesskey = a
@@ -1411,6 +1419,14 @@ addressbar-locbar-suggest-nonsponsored-desc = รับคำแนะนำจ�
 addressbar-locbar-suggest-sponsored-option =
     .label = คำแนะนำจากผู้สนับสนุน
 addressbar-locbar-suggest-sponsored-desc = สนับสนุน { -brand-short-name } ด้วยคำแนะนำจากผู้สนับสนุนซึ่งแสดงเป็นครั้งคราว
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = ดึงคำแนะนำจาก Mozilla ขณะที่คุณพิมพ์
 addressbar-quickactions-learn-more = เรียนรู้เพิ่มเติม
 addressbar-dismissed-suggestions-label = คำแนะนำที่ถูกปิด
 addressbar-restore-dismissed-suggestions-description = เรียกคืนคำแนะนำที่ถูกปิดจากผู้สนับสนุนและ { -brand-short-name }
@@ -1586,6 +1602,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = ปิดกั้นป๊อปอัปและการเปลี่ยนเส้นทางจากบุคคลที่สาม
     .accesskey = ป
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = จัดการข้อยกเว้นป๊อปอัปและการเปลี่ยนเส้นทางจากบุคคลที่สาม
+    .accesskey = ข
+    .searchkeywords = ป๊อปอัป
+permissions-addon-install-warning2 =
+    .label = เตือนเมื่อเว็บไซต์พยายามติดตั้งส่วนขยาย
+    .accesskey = ต
+permissions-addon-exceptions2 =
+    .label = เลือกเว็บไซต์ที่สามารถติดตั้งส่วนขยายได้
+    .accesskey = น
 permissions-block-popups =
     .label = ปิดกั้นหน้าต่างป๊อปอัป
     .accesskey = ป
@@ -1601,6 +1629,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = ข
+permissions-header2 =
+    .label = การกำหนดสิทธิ์
+    .description = การกำหนดสิทธิ์สำหรับเว็บไซต์ที่คุณเรียกดู
 permissions-location2 =
     .label = ตำแหน่งที่ตั้ง
 permissions-localhost2 =
@@ -1613,6 +1644,9 @@ permissions-camera2 =
     .label = กล้อง
 permissions-microphone2 =
     .label = ไมโครโฟน
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = ลำโพง
 permissions-notification2 =
     .label = การแจ้งเตือน
 

@@ -563,6 +563,14 @@ urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> من 
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = پیتینیڌن وا { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - پیتینیڌن { $localSearchMode }
 urlbar-searchmode-bookmarks =
     .label = نشووکا
 urlbar-searchmode-tabs =
@@ -582,6 +590,7 @@ urlbar-searchmode-new = نۊ
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = پیتینیڌن نشووکا
 urlbar-result-action-search-history = پیتینیڌن ویرگار
 urlbar-result-action-search-tabs = پیتینیڌن بلگه یل
 # Label for a quickaction result used to re-opan a saved tab group.

@@ -170,6 +170,8 @@ extensions-warning-update-security-button = เปิดใช้งาน
 extensions-warning-imported-addons2 =
     .message = โปรดติดตั้งส่วนขยายที่นำเข้าไปยัง { -brand-short-name } ให้เสร็จสิ้น
 extensions-warning-imported-addons-button = ติดตั้งส่วนขยาย
+extensions-warning-safe-mode3 =
+    .message = ส่วนเสริมทั้งหมดได้ถูกปิดใช้งานโดยโหมดแก้ไขปัญหา
 
 ## Strings connected to add-on updates
 
