@@ -357,7 +357,7 @@ fxa-menu-message-mobile-collapsed-text = Sincronizează cu telefonul
 
 multi-cta-fox-doodle-title = Bine ai revenit
 multi-cta-fox-doodle-set-default-checkbox = Setează { -brand-short-name } ca implicit
-multi-cta-fox-doodle-pin-startmenu-checkbox = Fixează { -brand-short-name } în meniul de start
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fixează { -brand-short-name } în meniul Start
 multi-cta-fox-doodle-pin-checkbox =
     { PLATFORM() ->
         [macos] Păstrează { -brand-short-name } în Dock
@@ -371,6 +371,7 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
         [macos] Păstrează-ți browserul preferat care îți respectă intimitatea la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și păstrează-l în Dock.
        *[other] Păstrează-ți browserul preferat care îți respectă intimitatea la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și fixează-l în bara de activități.
     }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Păstrează-ți browserul preferat care îți respectă viața privată la doar un clic distanță. Setează { -brand-short-name } ca browser implicit pentru deschiderea linkurilor și fixează-l în bara de activități și meniul Start.
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 
@@ -389,7 +390,7 @@ windows-10-eos-sync-toast-secondary-label = Amintește-mi mai târziu
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } nu este preîncărcat ca alte browsere Big Tech. Tocmai asta e ideea.
 windows-10-eos-challenger-sync-callout-subtitle = Când îți faci o copie de rezervă cu marcajele și parolele din { -brand-product-name }, e mai ușor să îți portezi browserul pe următorul dispozitiv.
-windows-10-eos-challenger-pin-callout-subtitle = Fixează { -brand-shorter-name } în bara de sarcini ca să ai browserul ales întotdeauna acolo când ai nevoie de el.
+windows-10-eos-challenger-pin-callout-subtitle = Fixează { -brand-shorter-name } în bara de activități astfel încât browserul pe care îl alegi să fie întotdeauna acolo când ai nevoie de el.
 windows-10-eos-challenger-sync-primary-button = Fă o copie de rezervă cu { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Fixează { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blochează criptominerii, elementele de urmărire de pe rețelele de socializare și detectoarele de amprente digitale.

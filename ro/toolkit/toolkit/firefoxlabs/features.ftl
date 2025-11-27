@@ -40,14 +40,14 @@ experimental-features-link-previews =
     .label = Previzualizări linkuri
 experimental-features-link-previews-description =
     { PLATFORM() ->
-        [macos] Pentru a afla mai multe despre o pagină web înainte de a da clic, treci cu cursorul peste un link și apasă Shift (⇧) plus Opțiune (⌥) sau Alt. Previzualizările pot include detalii precum titlul și timpul de citire. Pentru unele pagini web, IA poate citi și textul de pe pagină și poate genera puncte-cheie. IA este optimizată să citească și să genereze text în limba engleză. Ca prioritizare a confidențialității tale, IA rulează local pe calculator. <a data-l10n-name="connect">Trimite feedback</a>
-       *[other] Pentru a afla mai multe despre o pagină web înainte de a da clic, treci cu cursorul peste un link și apasă Shift + Alt. Previzualizările pot include detalii precum titlul și timpul de citire. Pentru unele pagini web, IA poate citi și textul de pe pagină și poate genera puncte-cheie. IA este optimizată să citească și să genereze text în limba engleză. Ca prioritizare a confidențialității tale, IA rulează local pe calculator. <a data-l10n-name="connect">Trimite feedback</a>
+        [macos] Pentru a afla mai multe despre o pagină web înainte de a da clic, plasează cursorul pe un link și apasă Shift (⇧) plus Opțiune (⌥) sau Alt. Previzualizările pot include detalii precum titlul și timpul de citire. Pentru unele pagini web, AI-ul poate citi și textul de pe pagină și poate genera puncte-cheie. AI-ul este optimizat să citească și să genereze text în limba engleză. Pentru a-ți prioritiza confidențialitatea, AI-ul rulează local pe calculator. <a data-l10n-name="connect">Trimite feedback</a>
+       *[other] Pentru a afla mai multe despre o pagină web înainte de a da clic, plasează cursorul pe un link și apasă Shift + Alt. Previzualizările pot include detalii precum titlul și timpul de citire. Pentru unele pagini web, AI-ul poate citi și textul de pe pagină și poate genera puncte-cheie. AI-ul este optimizat să citească și să genereze text în limba engleză. Pentru a-ți prioritiza confidențialitatea, AI-ul rulează local pe calculator. <a data-l10n-name="connect">Trimite feedback</a>
     }
 # This version of the link previews description does not mention AI.
 experimental-features-link-previews-description-no-ai =
     { PLATFORM() ->
-        [macos] Pentru a afla mai multe despre o pagină web înainte de a da clic, treci cu cursorul peste un link și apasă Shift (⇧) plus Opțiune (⌥) sau Alt. Previzualizările pot include detalii precum titlul și timpul de citire. <a data-l10n-name="connect">Trimite feedback</a>
-       *[other] Pentru a afla mai multe despre o pagină web înainte de a da clic, treci cu cursorul peste un link și apasă Shift + Alt. Previzualizările pot include detalii precum titlul și timpul de citire. <a data-l10n-name="connect">Trimite feedback</a>
+        [macos] Pentru a afla mai multe despre o pagină web înainte de a da clic, plasează cursorul pe un link și apasă Shift (⇧) plus Opțiune (⌥) sau Alt. Previzualizările pot include detalii precum titlul și timpul de citire. <a data-l10n-name="connect">Trimite feedback</a>
+       *[other] Pentru a afla mai multe despre o pagină web înainte de a da clic, plasează cursorul pe un link și apasă Shift + Alt. Previzualizările pot include detalii precum titlul și timpul de citire. <a data-l10n-name="connect">Trimite feedback</a>
     }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
