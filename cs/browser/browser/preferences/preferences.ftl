@@ -1873,8 +1873,8 @@ collection-health-report-telemetry-disabled-link = Zjistit více
 collection-usage-ping =
     .label =
         { -vendor-short-name.case-status ->
-            [with-cases] Odeslat ping o denní frekvenci { -vendor-short-name(case: "dat") }
-           *[no-cases] Odeslat ping o denní frekvenci organizaci { -vendor-short-name }
+            [with-cases] Odesílat { -vendor-short-name(case: "dat") } ping o používání
+           *[no-cases] Odesílat organizaci { -vendor-short-name } ping o používání
         }
     .accesskey = p
 collection-usage-ping-description =

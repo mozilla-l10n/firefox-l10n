@@ -182,8 +182,21 @@ preferences-copy-profile-header =
 # need to first pick a profile to copy, and then click the copy button.
 preferences-profile-to-copy =
     .label = Másolandó profil
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Profil kiválasztása
+preferences-copy-profile-button = Másolás
 tabs-group-header2 =
     .label = Lapok
+tabs-opening-heading =
+    .label = Megnyitás
+tabs-interaction-heading =
+    .label = Interakció
+tabs-containers-heading =
+    .label = Konténerek
+tabs-closing-heading =
+    .label = Lezárás
 tabs-group-header = Lapok
 ctrl-tab-recently-used-order =
     .label = A Ctrl+Tab a legutóbbi használat sorrendjében lépked körbe a lapokon
