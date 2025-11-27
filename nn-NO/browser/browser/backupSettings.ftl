@@ -49,6 +49,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Vel ei sikkerheitsko
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Gjenopprett { -brand-product-name }-dataa dine få førre gong dei vart sikkerheitskopierte.
 settings-data-backup-scheduled-backups-on-restore-choose = Gjenopprett…
 settings-data-toggle-encryption-label = Sikkerheitskopier sensitive data
 settings-data-toggle-encryption-support-link = Les meir
@@ -57,6 +58,7 @@ settings-data-change-password = Endre passord…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Slå på sikkerheitskopiering
+turn-on-scheduled-backups-description = { -brand-short-name } vil opprette eit snapshot av dataa dine kvar 24. time. Du kan gjenopprette det dersom det oppstår eit problem eller du får ei ny eining.
 turn-on-scheduled-backups-support-link = Kva vert sikkerheitskopiert?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Plassering
@@ -75,6 +77,9 @@ turn-on-scheduled-backups-encryption-create-password-label = Passord
 turn-on-scheduled-backups-encryption-repeat-password-label = Gjenta passord
 turn-on-scheduled-backups-cancel-button = Avbryt
 turn-on-scheduled-backups-confirm-button = Slå på sikkerheitskopiering
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Det oppstod eit problem med den valde sikkerheitskopimappa. Vel ei anna mappe og prøv på nytt.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 

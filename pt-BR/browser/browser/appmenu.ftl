@@ -212,6 +212,8 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Configuração prévia de depuração no { -brand-shorter-name }. Alta sobrecarga, não usar para analisar desempenho, útil para se concentrar em entender o comportamento do navegador.
 profiler-popup-presets-debug-label =
     .label = Debug
+profiler-popup-presets-web-compat-label =
+    .label = Compatibilidade web
 profiler-popup-presets-custom-label =
     .label = Personalizado
 
