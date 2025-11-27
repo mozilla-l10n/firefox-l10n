@@ -263,8 +263,8 @@ tab-context-move-split-view-to-new-group =
 tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
-            [1] 将分屏添加到新群组
-           *[other] 将分屏添加到新群组
+            [1] 将分屏添加到群组
+           *[other] 将分屏添加到群组
         }
     .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
@@ -335,6 +335,8 @@ tab-context-edit-note =
     .accesskey = E
 tab-note-editor-title-create = 添加备注
 tab-note-editor-title-edit = 编辑备注
+tab-note-editor-text-field =
+    .placeholder = 您想记下关于此标签页的什么信息？
 tab-note-editor-button-cancel =
     .label = 取消
     .accesskey = C
@@ -369,3 +371,5 @@ split-view-menuitem-separate-tabs =
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
     .label = 对调标签页
+split-view-menuitem-close-both-tabs =
+    .label = 关闭两个标签页

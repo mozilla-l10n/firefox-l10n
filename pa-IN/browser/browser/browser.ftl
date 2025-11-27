@@ -426,6 +426,9 @@ quickactions-cmd-restart = ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ
 # Opens the screenshot tool
 quickactions-screenshot3 = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
 quickactions-cmd-screenshot2 = ਸਕਰੀਨਸ਼ਾਟ, ਸ਼ਕਰੀਨਸ਼ਾਟ ਲਵੋ
+# Opens about:translations
+quickactions-translate = ਅਨੁੁਵਾਦ
+quickactions-cmd-translate = ਅਨੁਵਾਦ
 quickactions-cmd-screenshot = ਸਕਰੀਨਸ਼ਾਟ
 # Opens about:preferences
 quickactions-settings2 = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ

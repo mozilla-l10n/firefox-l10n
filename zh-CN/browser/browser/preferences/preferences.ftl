@@ -174,6 +174,15 @@ preferences-manage-profiles-button =
     .label = 管理配置文件
 preferences-profiles-settings-button =
     .label = 设置
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = 复制现有配置文件
+    .description = 新配置文件将复制您的设置、附加组件、历史记录，以及书签、密码等保存的数据，但不会包含账户与同步信息。
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = 要复制的配置文件
 # This string is a placeholder that will be shown in a drop-down list of
 # profiles. The user will select a profile, then click the copy button
 # to make a copy of that profile.
@@ -1124,6 +1133,9 @@ forms-primary-pw-set =
     .label = 设置主密码
 forms-primary-pw-change-2 =
     .label = 更改主密码
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = 关闭主密码
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = 填写或管理密码前需验证设备登录信息

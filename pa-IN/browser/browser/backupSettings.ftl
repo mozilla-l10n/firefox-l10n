@@ -247,3 +247,5 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = { $machineName } ਉੱਤੇ { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ਨੂੰ ਬਣਾਇਆ
 backup-file-restore-file-validation-error = ਇਹ ਫ਼ਾਇਲ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ਹੈ। ਵੱਖਰੀ ਫ਼ਾਇਲ ਚੁਣ ਕੇ ਵੇਖੋ। <a data-l10n-name="restore-problems">ਹਾਲੇ ਵੀ ਸਮੱਸਿਆਵਾਂ ਹਨ?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = ਕੋਈ ਫ਼ਾਇਲ ਨਹੀਂ ਚੁਣੀ
