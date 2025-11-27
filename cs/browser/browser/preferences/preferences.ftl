@@ -1515,7 +1515,7 @@ cookie-banner-handling-description = { -brand-short-name } se automaticky snaž�
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blokování lišt cookie
-cookie-banner-blocker-description = Když se stránka zeptá, zda může používat soubory cookie v režimu anonymního prohlížení, { -brand-short-name } to automaticky odmítne. K dispozici pouze na podporovaných stránkách.
+cookie-banner-blocker-description = Když se stránka zeptá, zda může používat cookies v režimu anonymního prohlížení, { -brand-short-name } to automaticky odmítne. K dispozici pouze na podporovaných stránkách.
 cookie-banner-learn-more = Zjistit více
 forms-handle-cookie-banners =
     .label = Omezit cookie lišty

@@ -2,6 +2,37 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This string is used to name the folder that users will save backups to.
+# "Restore" is an action and intended for prompting users to select this folder
+# when following backup restoration steps. Please only include characters that
+# can be used for folders. Invalid characters will be automatically stripped out
+# or replaced with underscores.
+backup-folder-name = Restaura { -brand-product-name }
+settings-data-backup-header = Còpia de seguretat
+settings-data-backup-toggle = Gestiona la còpia de seguretat
+settings-data-backup-toggle-on = Activa la còpia de seguretat
+settings-data-backup-toggle-off = Desactiva la còpia de seguretat
+settings-data-backup-trigger-button = Fes una còpia de seguretat ara
+settings-data-backup-in-progress-button = Còpia de seguretat en curs…
+settings-data-backup-in-progress-message =
+    .message = Còpia de seguretat en curs…
+settings-data-backup-scheduled-backups-on = Còpia de seguretat: ACTIVADA
+settings-data-backup-scheduled-backups-off = Còpia de seguretat: DESACTIVADA
+settings-data-backup-scheduled-backups-description = Protegiu automàticament les vostres adreces d'interès, l'historial i altres dades. <a data-l10n-name="support-link">Més informació</a>
+settings-data-backup-last-backup-date = Darrera còpia de seguretat: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location = Ubicació
+settings-data-backup-last-backup-location-show-in-folder = Mostra a la carpeta
+settings-data-backup-last-backup-location-edit = Edita…
+settings-data-create-backup-error = S'ha produït un error en crear la còpia de seguretat el dia { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = Nom del fitxer: { $fileName }
+settings-data-backup-restore-header = Restaureu les vostres dades
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = Feu servir una còpia de seguretat del { -brand-product-name } des d'un altre dispositiu per restaurar les vostres dades.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 

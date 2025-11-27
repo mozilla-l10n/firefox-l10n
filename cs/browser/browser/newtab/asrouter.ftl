@@ -281,7 +281,7 @@ cookie-banner-blocker-onboarding-header =
         [neuter] { -brand-short-name } za vás právě odmítlo lištu cookie
        *[other] Aplikace { -brand-short-name } za vás právě odmítla lištu cookie
     }
-cookie-banner-blocker-onboarding-body = Méně rozptylování, méně souborů cookie, které vás na tomto webu sledují.
+cookie-banner-blocker-onboarding-body = Méně rozptylování, méně cookies, co vás na tomto webu sledují.
 cookie-banner-blocker-onboarding-learn-more = Dozvědět se více
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
