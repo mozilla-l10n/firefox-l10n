@@ -350,6 +350,16 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-context-add-note =
+    .label = Adicionar nota
+    .accesskey = A
+tab-context-edit-note =
+    .label = Editar nota
+    .accesskey = E
+tab-note-editor-title-create = Adicionar nota
+tab-note-editor-title-edit = Editar nota
+tab-note-editor-text-field =
+    .placeholder = O que você quer memorizar sobre esta aba?
 tab-note-editor-button-cancel =
     .label = Cancelar
     .accesskey = C
@@ -384,3 +394,5 @@ split-view-menuitem-separate-tabs =
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
     .label = Reverter abas
+split-view-menuitem-close-both-tabs =
+    .label = Fechar as duas abas
