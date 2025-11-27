@@ -444,6 +444,31 @@ identity-https-only-dropdown-off-temporarily =
     .label = کۊر وابیڌن مووقت
 identity-permissions-storage-access-learn-more = قلوه دووسته بۊین
 identity-permissions-reload-hint = گاشڌ لازوم بۊ ک بلگه ن سی ائمال آلشتکاریا دووارته بار ونی کۊنین.
+identity-enable-mixed-content-blocking =
+    .label = فعال کردن زفت وابیڌن
+    .accesskey = E
+identity-more-info-link-text =
+    .label = دووسمندیا قلوه
+
+## Window controls
+
+browser-window-minimize-button =
+    .tooltiptext = کۊچیر کردن
+browser-window-maximize-button =
+    .tooltiptext = گپ کزدن
+browser-window-restore-down-button =
+    .tooltiptext = وورگندن و لم
+browser-window-close-button =
+    .tooltiptext = بستن
+
+## Tab actions
+
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = هونی پشک ابۊ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = بؽ دونگ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = پشک خوتکار مسدۊد وابی
 
 ## URL Bar
 

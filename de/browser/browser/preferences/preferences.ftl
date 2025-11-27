@@ -174,6 +174,10 @@ preferences-manage-profiles-button =
     .label = Profile verwalten
 preferences-profiles-settings-button =
     .label = Einstellungen
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Ein bestehendes Profil kopieren
+    .description = Das neue Profil kopiert Ihre Einstellungen, Add-ons, den Verlauf und gespeicherte Daten wie Lesezeichen und Passwörter – jedoch nicht Ihre Konto- oder Synchronisierungsdaten.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
