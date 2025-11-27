@@ -665,8 +665,39 @@ bookmarks-tools-toolbar-visibility-panel =
 
 bookmarks-search =
     .label = پیتینیڌن نشووکا
+bookmarks-tools =
+    .label = ٱوزار نشووک ناهاڌن
 bookmarks-subview-edit-bookmark =
     .label = آلشت ای نشووک…
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = نوار ٱوزار نشووکا
+    .accesskey = B
+    .aria-label = نشووکا
+bookmarks-toolbar-menu =
+    .label = نوار ٱوزار نشووکا
+bookmarks-toolbar-placeholder =
+    .title = مووردا نوار ٱوزار نشووکا
+bookmarks-toolbar-placeholder-button =
+    .label = مووردا نوار ٱوزار نشووکا
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = نشووک ناهاڌن بلگه هیم سکویی…
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = نشووکا
+library-recent-activity-title =
+    .value = فعالیتا دیندایی
+
+## Pocket toolbar button
+
+save-to-pocket-button =
+    .label = زفت کردن من { -pocket-brand-name }
+    .tooltiptext = زفت کردن من { -pocket-brand-name }
 
 ## Customize Toolbar Buttons
 
