@@ -90,8 +90,8 @@ permissions-exceptions-cookie-desc = Zde můžete určit, které servery mohou n
 permissions-exceptions-https-only-window2 =
     .title = Servery, které mohou používat nezabezpečený protokol HTTP
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Zde můžete určit, které servery mohou používat nezabezpečený protokol HTTP. Na těchto serverech se { -brand-short-name } nebude pokoušet o automatické navázání spojení skrze protokol HTTPS. Pro anonymní okna tento seznam výjimek neplatí.
-permissions-exceptions-https-only-desc2 = Zde můžete určit, které servery mohou používat nezabezpečený protokol HTTP. Na těchto serverech se { -brand-short-name } nebude pokoušet o automatické navázání spojení skrze protokol HTTPS.
+permissions-exceptions-https-only-desc = Zde můžete určit, které servery mohou používat nezabezpečený protokol HTTP. Na těchto serverech se { -brand-short-name } nebude pokoušet o navázání spojení skrze zabezpečený protokol HTTPS. Pro anonymní okna tento seznam výjimek neplatí.
+permissions-exceptions-https-only-desc2 = Zde můžete určit, které servery mohou používat nezabezpečený protokol HTTP. Na těchto serverech se { -brand-short-name } nebude pokoušet o navázání zabezpečeného spojení skrze protokol HTTPS.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 

@@ -561,7 +561,7 @@ identity-passive-loaded = Části této stránky nejsou zabezpečené (napříkl
 identity-active-loaded = Na této stránce jste ochranu zakázali.
 identity-weak-encryption = Tento server používá slabé šifrování.
 identity-insecure-login-forms = Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.
-identity-https-only-connection-upgraded = (přepnuto na HTTPS)
+identity-https-only-connection-upgraded = (povýšeno na HTTPS)
 identity-https-only-label = Režim „pouze HTTPS“
 identity-https-only-label2 = Automaticky povýšit spojení se serverem na zabezpečené
 identity-https-only-dropdown-on =
@@ -580,13 +580,13 @@ identity-https-only-info-turn-on2 =
 identity-https-only-info-turn-off2 = Pokud se zdá, že je stránka rozbitá, zkuste vypnout režim „pouze HTTPS“, aby se znovu načetla pomocí nezabezpečeného spojení HTTP.
 identity-https-only-info-turn-on3 =
     { -brand-short-name.gender ->
-        [masculine] Zapněte povýšení komunikace na HTTPS pro tento server, pokud chcete, aby { -brand-short-name } povýšil komunikaci kdykoliv je to možné.
-        [feminine] Zapněte povýšení komunikace na HTTPS pro tento server, pokud chcete, aby { -brand-short-name } povýšila komunikaci kdykoliv je to možné.
-        [neuter] Zapněte povýšení komunikace na HTTPS pro tento server, pokud chcete, aby { -brand-short-name } povýšilo komunikaci kdykoliv je to možné.
-       *[other] Zapněte povýšení komunikace na HTTPS pro tento server, pokud chcete, aby aplikace { -brand-short-name } povýšila komunikaci kdykoliv je to možné..
+        [masculine] Zapněte pro tento server povýšení komunikace na HTTPS, pokud chcete, aby { -brand-short-name } povýšil komunikaci, kdykoliv je to možné.
+        [feminine] Zapněte pro tento server povýšení komunikace na HTTPS, pokud chcete, aby { -brand-short-name } povýšila komunikaci, kdykoliv je to možné.
+        [neuter] Zapněte pro tento server povýšení komunikace na HTTPS, pokud chcete, aby { -brand-short-name } povýšilo komunikaci, kdykoliv je to možné.
+       *[other] Zapněte pro tento server povýšení komunikace na HTTPS, pokud chcete, aby aplikace { -brand-short-name } povýšila komunikaci, kdykoliv je to možné..
     }
-identity-https-only-info-turn-off3 = Pokud se zdá stránka rozbitá, můžete povýšení na HTTPS vypnout, aby se znovu načetla pomocí nezabezpečeného spojení HTTP.
-identity-https-only-info-no-upgrade = Nepodařilo se přepnout spojení z HTTP.
+identity-https-only-info-turn-off3 = Pokud se zdá stránka rozbitá, můžete povýšení na HTTPS vypnout, aby se znovu načetla za použití nezabezpečeného spojení HTTP.
+identity-https-only-info-no-upgrade = Nepodařilo se povýšit spojení z HTTP.
 identity-permissions-storage-access-header = Cross-site cookies
 identity-permissions-storage-access-hint = Tyto weby mohou používat cross-site cookies a během vaší návštěvy této stránky tak přistupovat k jejím datům.
 identity-permissions-storage-access-learn-more = Zjistit více
