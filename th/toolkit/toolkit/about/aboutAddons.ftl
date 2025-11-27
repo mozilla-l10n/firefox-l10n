@@ -288,6 +288,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } ได้อัปเดตคอลเลกชันชุดรูปแบบสีใหม่ เราได้เอารุ่นเก่าออกจากรายชื่อ “ชุดตกแต่งที่บันทึกไว้” ของคุณแล้ว ให้รับรุ่นใหม่บนไซต์ส่วนเสริม
 colorway-removal-notice-learn-more = เรียนรู้เพิ่มเติม
 colorway-removal-notice-button = รับชุดตกแต่งชุดรูปแบบสีที่อัปเดตแล้ว
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = การตั้งค่าความเปรียบต่างใน Windows ของคุณกำลังมีผลเหนือกว่าชุดตกแต่งของ { -brand-short-name } ให้ปิดการตั้งค่าเหล่านี้เพื่อใช้ชุดตกแต่งใน { -brand-short-name }
 privacy-policy = นโยบายความเป็นส่วนตัว
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -529,6 +533,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = ข้อมูลเพิ่มเติม
 details-notification-blocked = { $name } ถูกปิดใช้งานเนื่องจากปัญหาด้านความปลอดภัยหรือเสถียรภาพ
 details-notification-blocked-link2 = ดูรายละเอียด
+details-notification-soft-blocked-extension-disabled2 =
+    .message = ส่วนขยายนี้ถูกจำกัดและได้ถูกปิดใช้งานแล้ว คุณสามารถเปิดใช้งานได้ แต่อาจมีความเสี่ยง
+details-notification-soft-blocked-extension-enabled2 =
+    .message = ส่วนขยายนี้ถูกจำกัด การใช้ส่วนขยายนี้อาจมีความเสี่ยง
+details-notification-soft-blocked-other-disabled2 =
+    .message = ส่วนเสริมนี้ถูกจำกัดและได้ถูกปิดใช้งานแล้ว คุณสามารถเปิดใช้งานได้ แต่อาจมีความเสี่ยง
+details-notification-soft-blocked-other-enabled2 =
+    .message = ส่วนเสริมนี้ถูกจำกัด การใช้ส่วนเสริมนี้อาจมีความเสี่ยง
 details-notification-soft-blocked-extension-disabled =
     .message = ส่วนขยายนี้ถูกจำกัดเนื่องจากละเมิดนโยบายของ Mozilla และถูกปิดใช้งานแล้ว คุณสามารถเปิดใช้งานได้ แต่อาจมีความเสี่ยง
 details-notification-soft-blocked-extension-enabled =

@@ -561,6 +561,31 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #       province or state, or it may be the name of the city's country.
 urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> من { $city }, { $region }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+urlbar-result-realtime-opt-in-dismiss = رڌ کردن
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = ای پؽشنهاڌا ن نشووݩ مڌه
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = پؽشنهاڌا بازار ن نشووݩ مڌه
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = ز منشڌ داڌن ایسا ممنووݩ داریم. دی پؽشنهاڌا بازار ن نیبینین.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · ٱمرۊز
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · ٱمرۊز تموم ابۊ
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -609,9 +634,37 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = پؽشنهاڌا { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = هؽزگری وابیڌه
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-recent-bookmarks-panel-subheader = نشووکا دیندایی
+bookmarks-toolbar-chevron =
+    .tooltiptext = نشووکا قلوه ای نشووݩ داڌه بۊ
+bookmarks-sidebar-content =
+    .aria-label = نشووکا
+bookmarks-menu-button =
+    .label = نومگه نشووکا
+bookmarks-other-bookmarks-menu =
+    .label = نشووکا دیری
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] بؽڌار کردن نوار ٱوزار نشووکا
+           *[other] نشووݩ داڌن نوار ٱوزار نشووکا
+        }
 
 ##
 
+bookmarks-search =
+    .label = پیتینیڌن نشووکا
 bookmarks-subview-edit-bookmark =
     .label = آلشت ای نشووک…
 

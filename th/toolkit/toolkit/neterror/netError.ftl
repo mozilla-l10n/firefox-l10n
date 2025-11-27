@@ -167,3 +167,13 @@ certerror-coep-learn-more = เรียนรู้เพิ่มเติม�
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = รหัสข้อผิดพลาด: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = { -brand-short-name } ไม่สามารถสร้างการเชื่อมต่อปลอดภัยกับเซิร์ฟเวอร์ที่ { $hostname } ได้
+# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = ดูเหมือนว่าไซต์นี้จะใช้ซอฟต์แวร์รุ่นเก่าที่มีปัญหาด้านความปลอดภัยที่ทราบกันดีอยู่แล้ว
+# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = ตรวจสอบให้แน่ใจว่าคุณใช้ { -brand-short-name } รุ่นล่าสุดอยู่ โดยไปที่เมนู ช่วยเหลือ > เกี่ยวกับ { -brand-short-name } ถ้าคุณใช้ { -brand-short-name } รุ่นล่าสุด ปัญหาน่าจะเกิดจากตัวเว็บไซต์เอง
