@@ -2036,7 +2036,7 @@ httpsonly-radio-enabled-pbm =
     .label = Zapnout režim „pouze HTTPS“ v anonymních oknech
 httpsonly-radio-disabled3 =
     .label = Nezapínat režim „pouze HTTPS“.
-    .description = { -brand-short-name } může stále aktualizovat některá připojení
+    .description = { -brand-short-name } i tak může některá spojení povýšit na zabezpečená
 httpsonly-radio-disabled =
     .label = Nezapínat režim „pouze HTTPS“
 
