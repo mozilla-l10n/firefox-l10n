@@ -1505,7 +1505,7 @@ sitedata-cookies-exceptions =
 sitedata-cookies-exceptions2 =
     .label = Spravovat výjimky
     .accesskey = v
-    .description = Můžete určit, které webové stránky mají vždy nebo nikdy povoleno používat soubory cookie a data stránek.
+    .description = Můžete určit, které webové stránky mají vždy nebo nikdy povoleno používat cookies a data stránek.
 
 ## Privacy Section - Cookie Banner Handling
 
