@@ -172,8 +172,23 @@ preferences-manage-profiles-description = 各配置文件独立保存浏览数�
 preferences-manage-profiles-learn-more = 详细了解
 preferences-manage-profiles-button =
     .label = 管理配置文件
+preferences-profiles-settings-button =
+    .label = 设置
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = 选择配置文件
+preferences-copy-profile-button = 复制
 tabs-group-header2 =
     .label = 标签页
+tabs-opening-heading =
+    .label = 打开
+tabs-interaction-heading =
+    .label = 交互
+tabs-containers-heading =
+    .label = 身份
+tabs-closing-heading =
+    .label = 关闭
 tabs-group-header = 标签页
 ctrl-tab-recently-used-order =
     .label = 按下 Ctrl+Tab 时，依照最近使用顺序循环切换标签页
@@ -1095,6 +1110,10 @@ forms-fill-usernames-and-passwords-2 =
 forms-saved-passwords =
     .label = 保存的密码
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = 管理保存的密码
+    .accesskey = d
+forms-saved-passwords-searchkeywords = 您的计算机上存储了下列网站的登录信息
 # Header for additional protections when managing password settings.
 forms-additional-protections-header =
     .label = 额外保护
