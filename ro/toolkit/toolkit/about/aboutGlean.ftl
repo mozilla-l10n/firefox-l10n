@@ -114,10 +114,7 @@ about-glean-profiler-explanation =
     Pentru o imagine completă a tuturor metricilor înregistrate, poți folosi { -profiler-brand-name }.
     Mai întâi trebuie <a data-l10n-name="firefox-profiler-link">să captezi un profil de performanță</a>.
     După ce ai captat profilul, selectează <q>Marker Chart</q> și vezi markerele din <q>Telemetrie</q>.
-about-glean-profiler-explanation-profiler =
-    În profilul de performanță, poți vedea toate metricile colectate, când au fost
-    colectate și ce valori au fost colectate mai exact. Treci cu mouse-ul peste markerele individuale
-    ca să verifici dacă a fost colectată valoarea corectă și dacă colectarea a avut loc la momentul potrivit.
+about-glean-profiler-explanation-profiler = În profilul de performanță poți vedea toate metricile colectate, momentul colectării și valorile exacte colectate. Plasând cursorul pe markerele individuale, poți verifica dacă a fost colectată valoarea corectă și dacă colectarea a avut loc la momentul potrivit.
 controls-button-label-verbose = Aplică setările și trimite pingul
 about-glean-feedback-settings-only =
     .message = Setări aplicate!
