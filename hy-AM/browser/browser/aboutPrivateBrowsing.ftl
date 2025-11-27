@@ -73,4 +73,5 @@ about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }-ը �
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Այս սարքի վրա հետքեր չթողնել
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name }-ը ջնջում է ձեր թխուկները, պատմությունը և կայքի տվյալները, երբ փակում եք բոլոր գաղտնի պատուհանները:
 about-private-browsing-felt-privacy-v1-info-link = Ո՞վ կարող է տեսնել իմ գործունեությունը:
