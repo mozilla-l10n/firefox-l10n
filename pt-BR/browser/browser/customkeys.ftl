@@ -1,0 +1,25 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+customkeys-title = Atalhos de teclado
+customkeys-search = Procurar:
+customkeys-change = Alterar
+customkeys-reset = Redefinir
+customkeys-clear = Limpar
+customkeys-new-key = Pressione a nova tecla:
+customkeys-reset-all = Restaurar todos os atalhos para o padrão
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Esta tecla já está atribuída a { $conflict }. Quer substituir?
+customkeys-reset-all-confirm = Tem certeza que quer restaurar todos os atalhos de teclado para o padrão?
+customkeys-history-reopen-tab = Reabrir última aba fechada
+customkeys-history-reopen-window = Reabrir última janela fechada
+customkeys-dev-tools = Ferramentas de desenvolvimento web
+customkeys-dev-inspector = Inspetor de DOM e estilos
+customkeys-dev-webconsole = Console web
+customkeys-dev-debugger = Debugger de JavaScript
+customkeys-dev-network = Monitor de rede
+customkeys-dev-style = Editor de estilos
+customkeys-dev-performance = Desempenho
+customkeys-dev-storage = Inspetor de armazenamento
