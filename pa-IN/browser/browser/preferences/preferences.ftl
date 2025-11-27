@@ -1073,10 +1073,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = ਭੁਗਤਾਨ
     .searchkeywords = ਲਾਗਇਨ
+forms-passwords-header =
+    .label = ਪਾਸਵਰਡ
+    .aria-label = ਪਾਸਵਰਡ
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਲਈ ਪੁੱਛੋ
     .accesskey = A
+forms-manage-password-exceptions =
+    .label = ਪਾਸਵਰਡ ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .accesskey = M
 forms-exceptions =
     .label = …ਛੋਟਾਂ
     .accesskey = x
@@ -1107,12 +1113,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = ਵਰਤੋਂਕਾਰ ਨਾਂ ਅਤੇ ਪਾਸਵਰਡ ਆਪਣੇ-ਆਪ ਭਰੋ
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = ਵਰਤੋਂਕਾਰ ਨਾਂ ਅਤੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੰਭਾਲੋ ਅਤੇ ਆਪੇ ਭਰੋ
+    .accesskey = f
 forms-saved-passwords =
     .label = ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .accesskey = d
+forms-saved-passwords-searchkeywords = ਅੱਗੇ ਦਿੱਤੀਆਂ ਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸੰਭਾਲੇ ਗਏ ਹਨ
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = ਵਧੀਕ ਸੁਰੱਖਿਆ
 forms-primary-pw-use =
     .label = ਮੁੱਖ ਪਾਸਵਰਡ ਵਰਤੋਂ
     .accesskey = U
+forms-primary-pw-set =
+    .label = ਮੁੱਖ ਪਾਸਵਰਡ ਲਾਓ
+forms-primary-pw-on =
+    .label = ਮੁੱਖ ਪਾਸਵਰਡ ਚਾਲੂ ਹੈ
+forms-primary-pw-change-2 =
+    .label = ਮੁੱਖ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = ਇਸ ਨੂੰ ਹਟਾਓ
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = ਪਾਸਵਰਡ ਭਰਨ ਅਤੇ ਇੰਤਜ਼ਾਮ ਕਰਨ ਲਈ ਡਿਵਾਈਸ ਲਾਗਇਨ ਚਾਹੀਦਾ ਹੈ
@@ -1178,6 +1203,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = ਭੁਗਤਾਨ ਜਾਣਕਾਰੀ ਨੂੰ ਸੰਭਾਲੋ ਅਤੇ ਆਪੇ ਭਰੋ
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = ਭੁਗਤਾਨ ਢੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 autofill-payment-methods-manage-payments-button =
     .label = ਭੁਗਤਾਨ ਢੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = m
@@ -1185,6 +1212,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = ਆਪਣੇ-ਆਪ ਭਰਨ ਅਤੇ ਭੁਗਤਾਨ ਢੰਗਾਂ ਦੇ ਇੰਤਜ਼ਾਮ ਵਾਸਤੇ ਡਿਾਈਸ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਲੋੜ ਹੈ
     .accesskey = o
+autofill-payment-methods-add-button = ਨਵਾਂ ਭੁਗਤਾਨ ਢੰਗ ਜੋੜੋ
+payments-list-header =
+    .label = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
+payments-list-item-label = <strong>ਭੁਗਤਾਨ ਦੇ ਢੰਗ</strong>
+payments-remove-payment-prompt-title = ਇਸ ਭੁਗਤਾਨ ਦੇ ਢੰਗ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+payments-remove-payment-prompt-confirm-button = ਹਟਾਓ
+payments-remove-payment-prompt-cancel-button = ਰੱਦ ਕਰੋ
 autofill-addresses-title = ਸਿਰਨਾਵਾਂ ਅਤੇ ਹੋਰ
 autofill-addresses-header =
     .aria-label = ਸਿਰਨਾਵਾਂ ਅਤੇ ਹੋਰ
@@ -1194,6 +1228,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = ਸਿਰਨਾਵਿਆਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = M
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1564,6 +1606,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = ਪੌਪ-ਅੱਪ ਅਤੇ ਤੀਜੀ ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
     .accesskey = B
+permissions-addon-install-warning2 =
+    .label = ਜਦੋਂ ਵੈੱਬਸਾਈਟਾਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ਾਂ ਕਰਨ ਤਾਂ ਸਾਵਧਾਨ ਕਰੋ
+    .accesskey = W
+permissions-addon-exceptions2 =
+    .label = ਚੁਣੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਇਕਸਟੈਸ਼ਨਾਂ ਇੰਸਟਾਲ ਕਰ ਸਕਦੀਆਂ ਹਨ
+    .accesskey = E
 permissions-block-popups =
     .label = ਪੋਪਅੱਪ ਵਿੰਡੋ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
     .accesskey = B
@@ -1579,6 +1627,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = …ਛੋਟਾਂ
     .accesskey = E
+permissions-header2 =
+    .label = ਇਜਾਜ਼ਤਾਂ
+    .description = ਤੁਹਾਡੇ ਵਲੋਂ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਦਿੱਤੀਆਂ ਇਜਾਜ਼ਤਾਂ ਹਨ।
 permissions-location2 =
     .label = ਟਿਕਾਣਾ
 permissions-localhost2 =
@@ -1591,6 +1642,9 @@ permissions-camera2 =
     .label = ਕੈਮਰਾ
 permissions-microphone2 =
     .label = ਮਾਈਕਰੋਫ਼ੋਨ
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = ਸਪੀਕਰ
 permissions-notification2 =
     .label = ਨੋਟੀਫਿਕੇਸ਼ਨ
 
