@@ -67,7 +67,7 @@ sidebar-show-on-the-left =
 # Option to automatically expand the collapsed sidebar when the mouse pointer
 # hovers over it.
 expand-sidebar-on-hover =
-    .label = Extinde bara laterală la trecerea cu mouse-ul
+    .label = Extinde bara laterală în momentul plasării cursorului pe ea
 sidebar-manage-extensions = Gestionează extensiile
 
 ## Labels for sidebar context menu items
