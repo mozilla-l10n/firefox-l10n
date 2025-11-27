@@ -172,8 +172,22 @@ preferences-manage-profiles-description = Κάθε προφίλ περιέχει
 preferences-manage-profiles-learn-more = Μάθετε περισσότερα
 preferences-manage-profiles-button =
     .label = Διαχείριση προφίλ
+preferences-profiles-settings-button =
+    .label = Ρυθμίσεις
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Προφίλ προς αντιγραφή
+preferences-copy-profile-button = Αντιγραφή
 tabs-group-header2 =
     .label = Καρτέλες
+tabs-opening-heading =
+    .label = Άνοιγμα
+tabs-interaction-heading =
+    .label = Αλληλεπίδραση
+tabs-closing-heading =
+    .label = Κλείσιμο
 tabs-group-header = Καρτέλες
 ctrl-tab-recently-used-order =
     .label = Εναλλαγή καρτελών με το Ctrl+Tab σε σειρά πρόσφατης χρήσης

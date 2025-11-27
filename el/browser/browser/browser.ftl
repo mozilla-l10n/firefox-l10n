@@ -426,6 +426,9 @@ quickactions-cmd-restart = επανεκκίνηση
 # Opens the screenshot tool
 quickactions-screenshot3 = Λήψη στιγμιότυπου
 quickactions-cmd-screenshot2 = στιγμιότυπο, στιγμιότυπο οθόνης, λήψη στιγμιότυπου, screenshot
+# Opens about:translations
+quickactions-translate = Μετάφραση
+quickactions-cmd-translate = μετάφραση
 quickactions-cmd-screenshot = στιγμιότυπο, στιγμιότυπο οθόνης, screenshot
 # Opens about:preferences
 quickactions-settings2 = Διαχείριση ρυθμίσεων
