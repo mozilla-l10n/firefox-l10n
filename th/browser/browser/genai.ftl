@@ -101,6 +101,8 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = บอตสนทนา AI
 genai-header-provider-menu =
     .title = เลือกบอตสนทนา
+genai-header-settings-button =
+    .title = การตั้งค่าการสนทนากับ AI
 genai-header-options-button =
     .title = เปิดเมนู
 genai-header-close-button =
@@ -253,3 +255,7 @@ link-preview-setup-faster-next-time = คุณจะเห็นประเด
 link-preview-onboarding-button = ดูตัวอย่าง
 # Onboarding card Close button
 link-preview-onboarding-close = ปิด
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = การตั้งค่าครั้งแรก
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = ขั้นตอนนี้อาจใช้เวลาสักครู่ คุณจะเห็นประเด็นสำคัญได้รวดเร็วยิ่งขึ้นในครั้งหน้า

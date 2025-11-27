@@ -60,6 +60,7 @@ pane-experimental-description2 = การเปลี่ยนแปลงก�
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = ลองใช้คุณลักษณะทดลองของเราดูสิ! คุณลักษณะเหล่านั้นอยู่ระหว่างการพัฒนา ซึ่งอาจส่งผลต่อการทำงานของ { -brand-short-name } เราจะรับข้อมูลเกี่ยวกับการใช้งานคุณลักษณะเหล่านี้เฉพาะเมื่อคุณเปิดตัวเลือก <a data-l10n-name="data-collection">ข้อมูลทางเทคนิคและการโต้ตอบ</a> ไว้เท่านั้น
 pane-experimental-description3 = ลองใช้คุณลักษณะทดลองของเรา! คุณลักษณะเหล่านั้นกำลังอยู่ระหว่างพัฒนาและปรับปรุง ซึ่งอาจส่งผลต่อการทำงานของ { -brand-short-name }
 pane-experimental-reset =
     .label = เรียกคืนค่าเริ่มต้น
@@ -113,6 +114,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = เพื่อเปิดใช้งานส่วนขยาย ไปยัง <img data-l10n-name="addons-icon"/> ส่วนเสริม ใน <img data-l10n-name="menu-icon"/> เมนู
+extension-controlled-enable-2 = ถ้าต้องการเปิดใช้งานส่วนขยายนี้อีกครั้ง ให้ไปที่ <a data-l10n-name="addons-link">ส่วนขยายและชุดตกแต่ง</a>
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } จะควบคุมการตั้งค่าหน้าแรกบางอย่างของคุณ
@@ -170,8 +172,32 @@ preferences-manage-profiles-description = แต่ละโปรไฟล์�
 preferences-manage-profiles-learn-more = เรียนรู้เพิ่มเติม
 preferences-manage-profiles-button =
     .label = จัดการโปรไฟล์
+preferences-profiles-settings-button =
+    .label = การตั้งค่า
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = คัดลอกโปรไฟล์ที่มีอยู่
+    .description = โปรไฟล์ใหม่จะคัดลอกการตั้งค่า ส่วนเสริม ประวัติ และข้อมูลที่บันทึกไว้ เช่น ที่คั่นหน้าและรหัสผ่าน แต่จะไม่คัดลอกบัญชีหรือข้อมูลการซิงค์ของคุณ
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = โปรไฟล์ที่จะคัดลอก
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = เลือกโปรไฟล์
+preferences-copy-profile-button = คัดลอก
 tabs-group-header2 =
     .label = แท็บ
+tabs-opening-heading =
+    .label = การเปิด
+tabs-interaction-heading =
+    .label = การโต้ตอบ
+tabs-containers-heading =
+    .label = ที่แยกข้อมูล
+tabs-closing-heading =
+    .label = การปิด
 tabs-group-header = แท็บ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab เพื่อสลับเปลี่ยนแท็บตามลำดับที่ใช้ล่าสุด
@@ -669,6 +695,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
 home-prefs-shortcuts-by-option-sponsored =
     .label = ทางลัดที่ได้รับการสนับสนุน
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -714,14 +742,24 @@ home-prefs-weather-header =
     .label = พยากรณ์อากาศ
 home-prefs-weather-description = ดูพยากรณ์อากาศประจำวันนี้ได้อย่างรวดเร็ว
 home-prefs-weather-learn-more-link = เรียนรู้เพิ่มเติม
+home-prefs-widgets-header =
+    .label = วิดเจ็ต
 home-prefs-trending-search-header =
     .label = การค้นหาที่กำลังนิยม
 home-prefs-trending-search-description = หัวข้อยอดนิยมและที่ค้นหาบ่อย
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = รายการ
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = ตัวจับเวลา
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = ร่วมสนับสนุน { -brand-product-name }
 home-prefs-mission-message = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
 home-prefs-mission-message-learn-more-link = ค้นหาว่าทำอย่างไร
+home-prefs-mission-message2 =
+    .message = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
 home-prefs-manage-topics-link = จัดการหัวข้อ
 home-prefs-choose-wallpaper-link = เลือกวอลล์เปเปอร์
 # Variables:
@@ -1027,10 +1065,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = รหัสผ่าน
     .searchkeywords = การเข้าสู่ระบบ
+forms-passwords-header =
+    .label = รหัสผ่าน
+    .aria-label = รหัสผ่าน
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = ถามว่าจะบันทึกรหัสผ่านหรือไม่
     .accesskey = ถ
+forms-manage-password-exceptions =
+    .label = จัดการข้อยกเว้นรหัสผ่าน
+    .accesskey = จ
 forms-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = อ
@@ -1061,12 +1105,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = เติมชื่อผู้ใช้และรหัสผ่านโดยอัตโนมัติ
     .accesskey = ต
+forms-fill-usernames-and-passwords-2 =
+    .label = บันทึกและเติมชื่อผู้ใช้และรหัสผ่านอัตโนมัติ
+    .accesskey = ต
 forms-saved-passwords =
     .label = รหัสผ่านที่บันทึกไว้
     .accesskey = บ
+forms-saved-passwords-2 =
+    .label = จัดการรหัสผ่านที่บันทึกไว้
+    .accesskey = บ
+forms-saved-passwords-searchkeywords = การเข้าสู่ระบบสำหรับไซต์ดังต่อไปนี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = การป้องกันเพิ่มเติม
 forms-primary-pw-use =
     .label = ใช้รหัสผ่านหลัก
     .accesskey = ช
+forms-primary-pw-set =
+    .label = ตั้งรหัสผ่านหลัก
+forms-primary-pw-on =
+    .label = รหัสผ่านหลักเปิดอยู่
+forms-primary-pw-change-2 =
+    .label = เปลี่ยนรหัสผ่านหลัก
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = ปิดใช้
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = กำหนดให้ต้องลงชื่อเข้าในอุปกรณ์เพื่อกรอกและจัดการรหัสผ่าน
@@ -1132,6 +1195,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = บันทึกและกรอกข้อมูลการชำระเงินอัตโนมัติ
     .accesskey = ช
+autofill-payment-methods-manage-payments-title =
+    .heading = จัดการวิธีการชำระเงิน
 autofill-payment-methods-manage-payments-button =
     .label = จัดการวิธีการชำระเงิน
     .accesskey = m
@@ -1139,6 +1204,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = กำหนดให้ต้องลงชื่อเข้าในอุปกรณ์เพื่อกรอกและจัดการวิธีการชำระเงินอัตโนมัติ
     .accesskey = ล
+autofill-payment-methods-add-button = เพิ่มวิธีการชำระเงินใหม่
+payments-list-header =
+    .label = วิธีการชำระเงิน
+payments-list-item-label = <strong>วิธีการชำระเงิน</strong>
+payments-remove-payment-prompt-title = ลบวิธีการชำระเงินนี้หรือไม่?
+payments-remove-payment-prompt-confirm-button = ลบ
+payments-remove-payment-prompt-cancel-button = ยกเลิก
 autofill-addresses-title = ที่อยู่และอื่นๆ
 autofill-addresses-header =
     .aria-label = ที่อยู่และอื่นๆ
@@ -1148,6 +1220,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = จัดการที่อยู่และอื่นๆ
     .accesskey = M
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1173,6 +1253,8 @@ history-remember-description2 =
     .description = { -brand-short-name } จะจดจำประวัติการเรียกดู, การดาวน์โหลด, แบบฟอร์ม และการค้นหาของคุณ
 history-dontremember-description2 =
     .description = { -brand-short-name } จะใช้การตั้งค่าเดียวกับการเรียกดูแบบส่วนตัวและจะไม่จดจำประวัติใด ๆ ขณะที่คุณเรียกดู
+history-custom-description =
+    .description = { -brand-short-name } จะใช้การตั้งค่าที่กำหนดเองสำหรับการเรียกดู การดาวน์โหลด แบบฟอร์ม และประวัติการค้นหาของคุณ
 history-remember-description = { -brand-short-name } จะจดจำประวัติการเรียกดู, การดาวน์โหลด, แบบฟอร์ม และการค้นหาของคุณ
 history-dontremember-description = { -brand-short-name } จะใช้การตั้งค่าเดียวกับการเรียกดูแบบส่วนตัวและจะไม่จดจำประวัติใด ๆ ขณะที่คุณเรียกดู
 history-private-browsing-permanent =

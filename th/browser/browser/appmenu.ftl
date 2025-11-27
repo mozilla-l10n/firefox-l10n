@@ -297,6 +297,10 @@ appmenuitem-services-relay-description = เปิดแดชบอร์ดต
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = ปกป้องกิจกรรมออนไลน์ของคุณ
 appmenu-services-header = บริการของฉัน
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = ลองใช้เครื่องมือป้องกันอื่น ๆ จาก Mozilla:
 appmenu-other-protection-header = ลองใช้เครื่องมือป้องกันอื่น ๆ จาก { -vendor-short-name }:
 
 ## Profiles panel
@@ -304,6 +308,8 @@ appmenu-other-protection-header = ลองใช้เครื่องมื�
 appmenu-other-profiles = โปรไฟล์อื่น ๆ
 appmenu-manage-profiles =
     .label = จัดการโปรไฟล์
+appmenu-copy-profile =
+    .label = คัดลอกโปรไฟล์นี้
 appmenu-create-profile =
     .label = โปรไฟล์ใหม่
 appmenu-edit-profile =

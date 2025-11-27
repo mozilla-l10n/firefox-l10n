@@ -70,6 +70,8 @@ fxa-adoption-addresses-backup-title = มาสำรองที่อยู่
 fxa-adoption-addresses-backup-subtitle = ปกป้องที่อยู่ที่บันทึกไว้ของคุณด้วยการซิงค์กับอุปกรณ์ต่าง ๆ พร้อมการเข้ารหัสลับ
 fxa-adoption-credit-cards-backup-title = มาสำรองวิธีการชำระเงินของคุณกันเถอะ
 fxa-adoption-credit-cards-backup-subtitle = ปกป้องวิธีการชำระเงินของคุณด้วยการซิงค์กับอุปกรณ์ต่าง ๆ พร้อมการเข้ารหัสลับ
+fxa-adoption-bookmarks-treatment-backup-title = มาสำรองที่คั่นหน้าของคุณกันเถอะ
+fxa-adoption-bookmarks-treatment-backup-subtitle = ปกป้องที่คั่นหน้าของคุณด้วยการซิงค์กับอุปกรณ์ต่าง ๆ พร้อมการเข้ารหัสลับ
 fxa-adoption-primary-button-label = ลงทะเบียน
 
 ## Protections panel

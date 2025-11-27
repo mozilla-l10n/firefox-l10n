@@ -426,6 +426,9 @@ quickactions-cmd-restart = เริ่มการทำงานใหม่
 # Opens the screenshot tool
 quickactions-screenshot3 = จับภาพหน้าจอ
 quickactions-cmd-screenshot2 = ภาพหน้าจอ, เก็บภาพหน้าจอ
+# Opens about:translations
+quickactions-translate = แปล
+quickactions-cmd-translate = แปล
 quickactions-cmd-screenshot = ภาพหน้าจอ
 # Opens about:preferences
 quickactions-settings2 = จัดการการตั้งค่า
@@ -1460,6 +1463,13 @@ trustpanel-blocker-see-all = ดูทั้งหมด
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = การป้องกันการติดตามสำหรับ { $host }
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = ไม่ปลอดภัย
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
