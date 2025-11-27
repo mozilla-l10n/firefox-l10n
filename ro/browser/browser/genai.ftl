@@ -254,7 +254,7 @@ link-preview-optin-title = Vezi mai multe cu IA?
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = { -brand-short-name } folosește IA ca să citească începutul paginii și să genereze câteva puncte-cheie. Are loc pe dispozitivul tău ca să îți prioritizăm confidențialitatea.
 # Onboarding card title for long press
-link-preview-onboarding-title-long-press = Nou: Dă clic și ține apăsat pe orice link pentru o previzualizare
+link-preview-onboarding-title-long-press = Nou: dă clic și ține apăsat pe orice link pentru o previzualizare
 # Onboarding card description for long press
 link-preview-onboarding-description-long-press = Vezi o scurtă descriere, timpul de citire și multe altele ca să decizi dacă merită să deschizi linkul. Disponibil și la clic dreapta.
 # Header for the key points section
