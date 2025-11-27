@@ -122,7 +122,7 @@ taskbar-tabs-email-callout-title = Păstrează-ți e-mailul în bara de activit�
 taskbar-tabs-email-callout-subtitle = Lansează-ți poșta electronică ca pe o aplicație într-o fereastră simplificată, protejată de { -brand-short-name }.
 taskbar-tabs-media-callout-title = Revino la redarea în flux din bara de activități
 taskbar-tabs-media-callout-subtitle = Lansează-ți site-urile de streaming ca pe o aplicație într-o fereastră simplificată, protejată de { -brand-short-name }.
-taskbar-tabs-value-prop-callout-title = Adaugă acest site în bara de sarcini
+taskbar-tabs-value-prop-callout-title = Adaugă acest site în bara de activități
 taskbar-tabs-value-prop-callout-subtitle = Lansează-l în propria fereastră și o interfață simplificată cu un singur clic.
 
 ## Windows 10 EoS Sync messages group 1 callouts

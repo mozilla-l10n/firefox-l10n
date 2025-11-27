@@ -52,23 +52,23 @@ experimental-features-link-previews-description-no-ai =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Secțiuni de subiecte și Urmărire/Blocare pentru articolele din filele noi
-experimental-features-newtab-sections-follow-block-description = Organizează articolele de pe pagina de Filă nouă în secțiuni tematice (Sport, Gastronomie, Divertisment și altele) pentru o experiență mai structurată și mai ușor de vizualizat. Folosește noile comenzi de Urmărește și Blochează ca să personalizezi conținutul pe care îl vezi. <a data-l10n-name="connect">Trimite feedback</a>
+experimental-features-newtab-sections-follow-block-description = Organizează articolele de pe pagina filei noi în secțiuni tematice (sport, gastronomie, divertisment și altele) pentru o experiență mai structurată și mai ușor de vizualizat. Folosește noile noastre comenzi „Urmărește” și „Blochează” pentru a personaliza conținutul pe care îl vezi. <a data-l10n-name="connect">Trimite feedback</a>
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Adaugă site-uri în bara de activități
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
-experimental-features-fx-web-apps-description = Deschide site-uri pe care le vizitezi frecvent ca aplicație web în bara de activități. Caută pictograma „Adaugă fila în bara de activități” în dreapta barei de adrese pentru a lansa site-ul respectiv într-o fereastră optimizată, cu toate protecțiile { -brand-product-name }. <a data-l10n-name="connect">Dă-ne un feedback</a>
+experimental-features-fx-web-apps-description = Deschide site-urile pe care le vizitezi frecvent ca aplicație web în bara de activități. Caută pictograma „Adaugă fila în bara de activități” în dreapta barei de adrese pentru a lansa site-ul respectiv într-o fereastră optimizată, cu toate protecțiile { -brand-product-name }. <a data-l10n-name="connect">Trimite feedback</a>
 
 ## New Tab Productivity Widgets
 
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Liste pe { -firefox-home-brand-name }
-experimental-features-newtab-widget-lists-description = Ține-ți lista de sarcini pe primul loc când deschizi o filă nouă. De la liste de împachetare la liste de cumpărături, fă-ți planurile în { -brand-product-name }. <a data-l10n-name="connect">Dă-ne feedback</a>
+experimental-features-newtab-widget-lists-description = Ține-ți lista de sarcini pe primul loc când deschizi o filă nouă. De la liste de împachetare la liste de cumpărături, fă-ți planurile în { -brand-product-name }. <a data-l10n-name="connect">Trimite feedback</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Cronometru în { -firefox-home-brand-name }
-experimental-features-newtab-widget-timer-description = Setează un cronometru care să te ajute să te concentrezi, să nu ți se distragă atenția sau să îți amintească să iei o pauză. <a data-l10n-name="connect">Dă-ne feedback</a>
+experimental-features-newtab-widget-timer-description = Setează un cronometru pentru a-ți menține concentrarea, pentru a te impulsiona să nu te abați de la ce faci, sau pentru a-ți aminti să iei o pauză. <a data-l10n-name="connect">Trimite feedback</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Liste și cronometru pe { -firefox-home-brand-name }
