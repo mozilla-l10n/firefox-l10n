@@ -572,10 +572,10 @@ identity-https-only-dropdown-off-temporarily =
     .label = Dočasně vypnuto
 identity-https-only-info-turn-on2 =
     { -brand-short-name.gender ->
-        [masculine] Pokud chcete, aby { -brand-short-name } přepnul spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
-        [feminine] Pokud chcete, aby { -brand-short-name } přepnula spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
-        [neuter] Pokud chcete, aby { -brand-short-name } přepnulo spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
-       *[other] Pokud chcete, aby aplikace { -brand-short-name } přepnula spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
+        [masculine] Pokud chcete, aby { -brand-short-name } povýšil spojení na zabezpečené, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
+        [feminine] Pokud chcete, aby { -brand-short-name } povýšil spojení na zabezpečené, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
+        [neuter] Pokud chcete, aby { -brand-short-name } povýšil spojení na zabezpečené, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
+       *[other] Pokud chcete, aby aplikace { -brand-short-name } povýšil spojení na zabezpečené, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
     }
 identity-https-only-info-turn-off2 = Pokud se zdá, že je stránka rozbitá, zkuste vypnout režim „pouze HTTPS“, aby se znovu načetla pomocí nezabezpečeného spojení HTTP.
 identity-https-only-info-turn-on3 =
