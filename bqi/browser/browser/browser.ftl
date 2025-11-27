@@ -469,6 +469,19 @@ browser-tab-audio-playing2 = هونی پشک ابۊ
 browser-tab-audio-muted2 = بؽ دونگ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = پشک خوتکار مسدۊد وابی
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = شؽوات من شؽوات
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] بؽ دونگ کردن بلگه
+        [one] بؽ دونگ کردن { $count } بلگه
+       *[other] بؽ دونگ کردن { $count } بلگه
+    }
 
 ## URL Bar
 
