@@ -8,7 +8,7 @@ profile-window-body = Păstrează separat munca și navigarea, inclusiv lucruri 
 profile-window-checkbox-label-2 =
     .label = Alege un profil când se deschide { -brand-short-name }
 # This subcopy appears below the checkbox when it is unchecked
-profile-window-checkbox-subcopy = { -brand-short-name } se va deschide cu profilul tău utilizat cel mai recent.
+profile-window-checkbox-subcopy = { -brand-short-name } se va deschide cu profilul tău folosit cel mai recent.
 profile-window-create-profile = Creează un profil
 profile-card-edit-button =
     .title = Editează profilul

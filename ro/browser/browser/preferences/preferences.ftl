@@ -172,6 +172,17 @@ preferences-manage-profiles-description = Fiecare profil are date și setări de
 preferences-manage-profiles-learn-more = Află mai multe
 preferences-manage-profiles-button =
     .label = Gestionează profilurile
+preferences-profiles-settings-button =
+    .label = Setări
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Copiază un profil existent
+    .description = Noul profil îți va copia setările, suplimentele, istoricul și datele salvate precum marcajele și parolele — dar nu informațiile privind contul sau sincronizarea.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profil spre copiere
 tabs-group-header2 =
     .label = File
 tabs-group-header = File
