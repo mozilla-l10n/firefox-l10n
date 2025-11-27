@@ -183,8 +183,21 @@ preferences-copy-profile-header =
 # need to first pick a profile to copy, and then click the copy button.
 preferences-profile-to-copy =
     .label = Profil spre copiere
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Selectează un profil
+preferences-copy-profile-button = Copiază
 tabs-group-header2 =
     .label = File
+tabs-opening-heading =
+    .label = Deschidere
+tabs-interaction-heading =
+    .label = Interacțiune
+tabs-containers-heading =
+    .label = Containere
+tabs-closing-heading =
+    .label = Închidere
 tabs-group-header = File
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab parcurge filele în ordinea celor mai recent folosite
@@ -193,7 +206,7 @@ open-new-link-as-tabs =
     .label = Deschide linkuri în file în loc de ferestre noi
     .accesskey = w
 open-external-link-next-to-active-tab =
-    .label = Deschide link-urile din aplicații lângă fila activă
+    .label = Deschide linkurile din aplicațiile de lângă fila activă
 ask-on-close-multiple-tabs =
     .label = Întreabă-mă înainte de a închide mai multe file
     .accesskey = m
@@ -1400,7 +1413,7 @@ addressbar-locbar-topsites-option =
     .label = Site-uri de top
     .accesskey = T
 addressbar-locbar-engines-option-1 =
-    .label = Sugerează motoare de căutare de utilizat
+    .label = Sugerează motoare de căutare pentru folosire
     .accesskey = a
 addressbar-locbar-engines-option =
     .label = Motoare de căutare

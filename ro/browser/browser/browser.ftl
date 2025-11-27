@@ -426,6 +426,9 @@ quickactions-cmd-restart = repornește
 # Opens the screenshot tool
 quickactions-screenshot3 = Fă o captură de ecran
 quickactions-cmd-screenshot2 = captură de ecran, fă o captură de ecran
+# Opens about:translations
+quickactions-translate = Tradu
+quickactions-cmd-translate = tradu
 quickactions-cmd-screenshot = captură de ecran
 # Opens about:preferences
 quickactions-settings2 = Gestionează setările
