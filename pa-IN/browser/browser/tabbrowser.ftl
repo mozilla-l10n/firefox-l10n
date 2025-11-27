@@ -356,6 +356,14 @@ tab-context-edit-note =
     .accesskey = E
 tab-note-editor-title-create = ਨੋਟ ਨੂੰ ਜੋੜੋ
 tab-note-editor-title-edit = ਨੋਟ ਨੂੰ ਸੋਧੋ
+tab-note-editor-text-field =
+    .placeholder = ਕੀ ਤੁਸੀਂ ਇਸ ਟੈਬ ਬਾਰੇ ਯਾਦ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+tab-note-editor-button-cancel =
+    .label = ਕਾਪੀ ਕਰੋ
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = ਸੰਭਾਲੋ
+    .accesskey = S
 
 ## Split View
 
@@ -381,3 +389,8 @@ tab-context-badge-new = ਨਵਾਂ
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
     .label = ਟੈਬਾਂ ਨੂੰ ਵੱਖ ਕਰੋ
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = ਟੈਬਾਂ ਨੂੰ ਉਲਟਾਓ
+split-view-menuitem-close-both-tabs =
+    .label = ਦੋਵੇਂ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
