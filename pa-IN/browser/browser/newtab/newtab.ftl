@@ -667,6 +667,17 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = ਨਵੀਂ ਸੂਚੀ
+newtab-widget-section-title = ਵਿਜੈੱਟ
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = ਵਿਜੈੱਟ ਨੂੰ ਲੁਕਾਓ
+    .aria-label = ਸਭ ਵਿਜੈੱਟ ਨੂੰ ਲੁਕਾਓ
+newtab-widget-section-maximize =
+    .title = ਵਿਜੈੱਟ ਨੂੰ ਫੈਲਾਓ
+    .aria-label = ਸਾਰੇ ਵਿਜੈੱਟ ਨੂੰ ਪੂਰੇ ਆਕਾਰ ਲਈ ਫੈਲਾਓ
+newtab-widget-section-minimize =
+    .title = ਵਿਜੈੱਟ ਨੂੰ ਘੱਟੋ-ਘੱਟ ਕਰੋ
+    .aria-label = ਸਾਰੇ ਵਿਜੈੱਟ ਨੂੰ ਸੰਖੇਪ ਆਕਾਰ ਲਈ ਸਮੇਟੋ
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

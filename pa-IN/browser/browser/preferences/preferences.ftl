@@ -170,8 +170,28 @@ preferences-manage-profiles-description = ਹਰ ਪਰੋਫ਼ਾਈਲ ਲਈ �
 preferences-manage-profiles-learn-more = ਹੋਰ ਜਾਣੋ
 preferences-manage-profiles-button =
     .label = ਪਰੋਫਾਈਲਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+preferences-profiles-settings-button =
+    .label = ਸੈਟਿੰਗਾਂ
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = ਕਾਪੀ ਕਰਨ ਲਈ ਪਰੋਫ਼ਾਈਲ
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = ਪਰੋਫ਼ਾਈਲ ਨੂੰ ਚੁਣੋ
+preferences-copy-profile-button = ਕਾਪੀ ਕਰੋ
 tabs-group-header2 =
     .label = ਟੈਬਾਂ
+tabs-opening-heading =
+    .label = ਖੋਲ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ
+tabs-interaction-heading =
+    .label = ਤਾਲਮੇਲ
+tabs-containers-heading =
+    .label = ਕਨਟੇਨਰ
+tabs-closing-heading =
+    .label = ਬੰਦ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 tabs-group-header = ਟੈਬਾਂ
 ctrl-tab-recently-used-order =
     .label = ਤਾਜ਼ਾ ਵਰਤੋਂ ਦੇ ਕ੍ਰਮ ਵਿੱਚ ਟੈਬਾਂ ਵਿੱਚ ਗੇੜੇ ਲਈ Ctrl+Tab ਵਰਤੋ
@@ -681,6 +701,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = ਸਾਈਟਾਂ, ਜੋ ਤੁਸੀਂ ਸੰਭਾਲੀਆਂ ਜਾਂ ਖੋਲ੍ਹੀਆਂ
 home-prefs-shortcuts-by-option-sponsored =
     .label = ਸਪਾਂਸਰ ਕੀਤੇ ਸ਼ਾਰਟਕੱਟ
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -726,9 +748,17 @@ home-prefs-weather-header =
     .label = ਮੌਸਮ
 home-prefs-weather-description = ਅੱਜ ਦੀ ਭਵਿੱਖਬਾਣੀ ਲਈ ਨਜ਼ਰਸਾਨੀ
 home-prefs-weather-learn-more-link = ਹੋਰ ਜਾਣੋ
+home-prefs-widgets-header =
+    .label = ਵਿਜੈੱਟ
 home-prefs-trending-search-header =
     .label = ਰੁਝਾਨ ਵਿੱਚ ਖੋਜਾਂ
 home-prefs-trending-search-description = ਹਰਮਨਪਿਆਰੇ ਅਤੇ ਅਕਸਰ ਖੋਜੇ ਗਏ ਵਿਸ਼ੇ
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = ਸੂਚੀਆਂ
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = ਟਾਈਮਰ
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } ਲਈ ਸਹਿਯੋਗ

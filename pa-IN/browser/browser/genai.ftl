@@ -107,6 +107,8 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = AI ਚੈਟਬੋਟ
 genai-header-provider-menu =
     .title = ਕੋਈ ਚੈਟ-ਬੋਟ ਚੁਣੋ
+genai-header-settings-button =
+    .title = AI ਚੈਟ ਸੈਟਿੰਗਾਂ
 genai-header-options-button =
     .title = ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 genai-header-close-button =
@@ -263,3 +265,7 @@ link-preview-setup-faster-next-time = ਤੁਸੀਂ ਮੁੱਖ ਬਿੰਦ�
 link-preview-onboarding-button = ਝਲਕ ਵੇਖੋ
 # Onboarding card Close button
 link-preview-onboarding-close = ਬੰਦ ਕਰੋ
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = ਪਹਿਲਾਂ ਵਾਰ ਦਾ ਸੈਟਅੱਪ
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = ਇਸ ਨੂੰ ਕੁਝ ਸਮਾਂ ਲੱਗ ਸਕਦਾ ਹੈ। ਤੁਸੀਂ ਅਗਲੀ ਵਾਰ ਵਾਸਤੇ ਤੇਜ਼ੀ ਨਾਲ ਕੰਮ ਕਰਨ ਲਈ ਮੁੱਖ ਨੁਕਤੇ ਵੇਖ ਸਕਦੇ ਹੋ।

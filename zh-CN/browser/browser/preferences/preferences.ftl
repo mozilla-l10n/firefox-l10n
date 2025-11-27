@@ -1131,6 +1131,8 @@ forms-primary-pw-use =
     .accesskey = U
 forms-primary-pw-set =
     .label = 设置主密码
+forms-primary-pw-on =
+    .label = 主密码：开启
 forms-primary-pw-change-2 =
     .label = 更改主密码
 # Label for button to disable primary password.
