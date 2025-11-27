@@ -115,7 +115,9 @@ fxa-adoption-passwords-primary-button-label = Rekisteröidy
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Pidä suosikkisyötteesi tehtäväpalkissa
+taskbar-tabs-chat-callout-title = Keskustele tehtäväpalkista
 taskbar-tabs-email-callout-title = Pidä sähköpostisi tehtäväpalkissa
+taskbar-tabs-media-callout-title = Palaa suoratoistoon tehtäväpalkista
 taskbar-tabs-value-prop-callout-title = Lisää tämä sivusto tehtäväpalkkiisi
 taskbar-tabs-value-prop-callout-subtitle = Käynnistä se omassa ikkunassaan ja yksinkertaistetussa käyttöliittymässä yhdellä napsautuksella.
 
@@ -142,6 +144,11 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Näytä vähemmän suosituksia
 windows-10-eos-sync-dismiss-button-label = Hylkää
 windows-10-eos-sync-callout-primary-advance-button-label = Seuraava
+
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Uutta: Esikatsele linkkejä napsauttamalla ja pitämällä painettuna
+link-preview-onboarding-callout-description = Näe lyhyt kuvaus, lukuaika ja muita tietoja päättääksesi, onko linkki napsauttamisen arvoinen. Saatavilla myös hiiren kakkospainikkeella.
 
 ## Sidebar Strings
 
