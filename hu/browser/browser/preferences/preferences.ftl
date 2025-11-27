@@ -171,6 +171,17 @@ preferences-manage-profiles-description = Minden profilnak külön böngészési
 preferences-manage-profiles-learn-more = További tudnivalók
 preferences-manage-profiles-button =
     .label = Profilkezelő
+preferences-profiles-settings-button =
+    .label = Beállítások
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Meglévő profil másolása
+    .description = Az új profil lemásolja a beállításait, kiegészítőit, előzményeit és mentett adatait, mint a könyvjelzők és a jelszavak – de a fiókját és a szinkronizálási információit nem.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Másolandó profil
 tabs-group-header2 =
     .label = Lapok
 tabs-group-header = Lapok

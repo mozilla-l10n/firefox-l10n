@@ -426,6 +426,9 @@ quickactions-cmd-restart = újraindítás
 # Opens the screenshot tool
 quickactions-screenshot3 = Képernyőkép készítése
 quickactions-cmd-screenshot2 = screenshot, képernyőkép, képernyőkép készítése
+# Opens about:translations
+quickactions-translate = Fordítás
+quickactions-cmd-translate = fordítás
 quickactions-cmd-screenshot = képernyőkép
 # Opens about:preferences
 quickactions-settings2 = Beállítások kezelése
