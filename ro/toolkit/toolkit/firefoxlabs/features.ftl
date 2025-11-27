@@ -55,9 +55,9 @@ experimental-features-newtab-sections-follow-block =
 experimental-features-newtab-sections-follow-block-description = Organizează articolele de pe pagina de Filă nouă în secțiuni tematice (Sport, Gastronomie, Divertisment și altele) pentru o experiență mai structurată și mai ușor de vizualizat. Folosește noile comenzi de Urmărește și Blochează ca să personalizezi conținutul pe care îl vezi. <a data-l10n-name="connect">Trimite feedback</a>
 # Firefox Web Apps
 experimental-features-fx-web-apps =
-    .label = Adaugă site-uri în bara de sarcini
+    .label = Adaugă site-uri în bara de activități
 # “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
-experimental-features-fx-web-apps-description = Deschide site-uri pe care intri des ca aplicație web în bara de sarcini. Caută pictograma „Adaugă fila la bara de sarcini” în dreapta barei de adrese ca să lansezi site-ul respectiv într-o fereastră optimizată, cu toate protecțiile { -brand-product-name }. <a data-l10n-name="connect">Dă-ne un feedback</a>
+experimental-features-fx-web-apps-description = Deschide site-uri pe care le vizitezi frecvent ca aplicație web în bara de activități. Caută pictograma „Adaugă fila în bara de activități” în dreapta barei de adrese pentru a lansa site-ul respectiv într-o fereastră optimizată, cu toate protecțiile { -brand-product-name }. <a data-l10n-name="connect">Dă-ne un feedback</a>
 
 ## New Tab Productivity Widgets
 
