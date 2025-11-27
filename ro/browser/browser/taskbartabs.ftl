@@ -8,9 +8,9 @@
 ## navigates to a website.
 
 taskbar-tab-urlbar-button-open =
-    .tooltiptext = Adaugă fila în bara de sarcini
+    .tooltiptext = Adaugă fila în bara de activități
 taskbar-tab-urlbar-button-close =
-    .tooltiptext = Elimină fila din bara de sarcini
+    .tooltiptext = Elimină fila din bara de activități
 taskbar-tab-urlbar-button-show = Afișează acțiunea paginii aplicației web
 taskbar-tab-urlbar-button-hide = Ascunde acțiunea paginii aplicației web
 # This string is used in the description of a Windows Start Menu

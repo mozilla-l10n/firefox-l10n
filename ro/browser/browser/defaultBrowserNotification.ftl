@@ -14,7 +14,7 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Desemnezi { -brand-short-name } ca browserul tău implicit?
 default-browser-prompt-message-pin = Păstrează { -brand-short-name } la îndemână — setează-l ca browser implicit și fixează-l în bara de activități.
-default-browser-prompt-message-pin-msix = Ține { -brand-short-name } la un click distanță — fă-l browserul implicit și fixează-l în bara de sarcini și în meniul de start.
+default-browser-prompt-message-pin-msix = Ține { -brand-short-name } la îndemână — fă-l browserul implicit și fixează-l în bara de activități și în meniul Start.
 default-browser-prompt-message-pin-mac = Păstrează { -brand-short-name } la îndemână — setează-l ca browser implicit și fixează-l în Dock.
 default-browser-prompt-button-primary-set = Setează ca browser implicit
 default-browser-prompt-button-primary-pin = Setează-l ca browser principal

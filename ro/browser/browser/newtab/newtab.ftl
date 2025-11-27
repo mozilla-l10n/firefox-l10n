@@ -456,7 +456,7 @@ newtab-wallpaper-celestial-river = Imagine din satelit cu un râu
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast =
-    .title = Vedeți prognoza meteo în { $provider }
+    .title = Vezi prognoza meteo în { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsorizat
