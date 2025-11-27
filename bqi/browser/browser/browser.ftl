@@ -482,6 +482,37 @@ browser-tab-mute =
         [one] بؽ دونگ کردن { $count } بلگه
        *[other] بؽ دونگ کردن { $count } بلگه
     }
+browser-tab-unmute =
+    { $count ->
+        [1] وا دونگ کردن بلگه
+        [one] وا دونگ کردن { $count } بلگه
+       *[other] وا دونگ کردن { $count } بلگه
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] پشک بلگه
+        [one] پشک { $count } بلگه
+       *[other] پشک { $count } بلگه
+    }
+
+## WebRTC Pop-up notifications
+
+popup-select-camera-device =
+    .value = شؽواتگر:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = شؽواتگر
+popup-select-microphone-device =
+    .value = میکروفووݩ:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = میکروفووݩ
+popup-select-speaker-icon =
+    .tooltiptext = بولندگۊیل
+popup-select-window-or-screen =
+    .label = نیمدری یا بلگه:
+    .accesskey = W
+popup-all-windows-shared = پوی نیمدری یلی ک انیرین یک رسۊوی ابۊن.
 
 ## URL Bar
 

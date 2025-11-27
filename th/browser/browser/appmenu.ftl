@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = พรีเซ็ตสำหรับการดีบั๊กใน { -brand-shorter-name }  มีโอเวอร์เฮดสูง อย่าใช้เพื่องานด้านประสิทธิภาพ แต่ให้ใช้เพื่อทำความเข้าใจพฤติกรรมการทำงานของเบราว์เซอร์
 profiler-popup-presets-debug-label =
     .label = ดีบั๊ก
+profiler-popup-presets-web-compat-description = พรีเซ็ตที่แนะนำสำหรับการดีบั๊กปัญหาเกี่ยวกับความเข้ากันได้ของเว็บในเว็บไซต์ แทนที่จะติดตามประสิทธิภาพ
+profiler-popup-presets-web-compat-label =
+    .label = Web Compat
 profiler-popup-presets-custom-label =
     .label = กำหนดเอง
 
