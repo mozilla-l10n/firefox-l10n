@@ -426,6 +426,9 @@ quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot3 = Capturar tela
 quickactions-cmd-screenshot2 = captura de tela, capturar tela
+# Opens about:translations
+quickactions-translate = Traduzir
+quickactions-cmd-translate = traduzir
 quickactions-cmd-screenshot = capturar tela
 # Opens about:preferences
 quickactions-settings2 = Gerenciar configurações
