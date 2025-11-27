@@ -25,6 +25,7 @@ settings-data-backup-last-backup-location = Ubicació
 settings-data-backup-last-backup-location-show-in-folder = Mostra a la carpeta
 settings-data-backup-last-backup-location-edit = Edita…
 settings-data-create-backup-error = S'ha produït un error en crear la còpia de seguretat el dia { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Feu una còpia de seguretat de les vostres contrasenyes i mètodes de pagament i protegiu totes les vostres dades xifrant-les.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nom del fitxer: { $fileName }
@@ -33,9 +34,46 @@ settings-data-backup-restore-header = Restaureu les vostres dades
 ## These strings are shown under the header if scheduled backups are disabled.
 
 settings-data-backup-scheduled-backups-off-restore-description = Feu servir una còpia de seguretat del { -brand-product-name } des d'un altre dispositiu per restaurar les vostres dades.
+settings-data-backup-scheduled-backups-off-restore-choose = Trieu el fitxer de còpia de seguretat…
+
+## These strings are shown under the header if scheduled backups are enabled.
+
+settings-data-backup-scheduled-backups-on-restore-description = Recupereu les dades del { -brand-product-name } de l'última vegada que es va fer una còpia de seguretat.
+settings-data-backup-scheduled-backups-on-restore-choose = Restaura…
+settings-data-toggle-encryption-label = Feu una còpia de seguretat de les vostres dades sensibles
+settings-data-toggle-encryption-support-link = Més informació
+settings-data-change-password = Canvia la contrasenya…
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = Activa la còpia de seguretat
+turn-on-scheduled-backups-description = El { -brand-short-name } crearà una instantània de les vostres dades cada 24 hores. Les podeu restaurar si hi ha algun problema o si compreu un dispositiu nou.
+turn-on-scheduled-backups-support-link = De què es farà una còpia de seguretat?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Ubicació
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (recomanada)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Tria…
+       *[other] Navega…
+    }
+turn-on-scheduled-backups-encryption-label = Feu una còpia de seguretat de les vostres dades sensibles
+turn-on-scheduled-backups-encryption-create-password-label = Contrasenya
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Repetiu la contrasenya
+turn-on-scheduled-backups-cancel-button = Cancel·la
+turn-on-scheduled-backups-confirm-button = Activa la còpia de seguretat
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Hi ha hagut un problema amb la carpeta de còpia de seguretat que heu seleccionat. Trieu una altra carpeta i torneu-ho a provar.
+backup-error-file-system = Hi ha hagut un problema amb la carpeta de còpia de seguretat seleccionada en fer la còpia de seguretat del { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Voleu desactivar la còpia de seguretat?
 turn-off-scheduled-backups-description = Això també elimina totes les dades de la còpia de seguretat. No es pot desfer.
 turn-off-scheduled-backups-support-link = Més informació
 turn-off-scheduled-backups-cancel-button = Cancel·la
