@@ -23,6 +23,12 @@ permission-dialog-description-system-noapp = ¿Embojuruja { $scheme } juajuha?
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = ¿Emoneĩ ko tenda tombojuruja ibilletéra digital?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Embojurujávo joajuha <strong>{ $scheme }</strong> omoneĩ ko tendápe ojerurévo nde reraite oipurúvo <strong>{ $appName }</strong>. Eku’ejey ejeroviárõ ko tenda rehe.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Embojurujávo joajuha <strong>{ $scheme }</strong> omoneĩ ko tendápe ojerurévo nde reraite oipurúvo <strong>{ $appName }</strong>. Eku’ejey ejeroviárõ ko tenda rehe.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Embojurujávo peteĩ joajuha <strong>{ $scheme }</strong> omoneĩ ko tendápe ojerurévo nde reraite oipurúvo jehepyme’ẽha. Eku’ejey ejeroviárõ ko tenda rehe.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
