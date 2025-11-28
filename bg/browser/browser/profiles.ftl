@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-heading = Изберете профил на { -brand-short-name }
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Избор на профил при отваряне на { -brand-short-name }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } ще отвори последния използван потребителски профил.
 profile-window-create-profile = Създаване на профил
 profile-card-edit-button =
     .title = Промяна на профила
@@ -18,6 +23,10 @@ profile-card =
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профил { $number }
+edit-profile-page-title = Промяна на профил
+edit-profile-page-header = Промяна на вашия профил
+edit-profile-page-avatar-header-2 =
+    .label = Лик/Аватар
 edit-profile-page-delete-button =
     .label = Изтриване
 new-profile-page-learn-more = Научете повече
