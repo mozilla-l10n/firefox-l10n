@@ -1129,6 +1129,9 @@ forms-primary-pw-on =
     .label = Senha principal está ATIVADA
 forms-primary-pw-change-2 =
     .label = Mudar senha principal
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Desativar
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Exigir autenticação do dispositivo para preencher e gerenciar senhas
@@ -1194,6 +1197,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Salvar e preencher automaticamente informações de pagamento
     .accesskey = g
+autofill-payment-methods-manage-payments-title =
+    .heading = Gerenciar métodos de pagamento
 autofill-payment-methods-manage-payments-button =
     .label = Gerenciar métodos de pagamento
     .accesskey = m
@@ -1201,6 +1206,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Exigir autenticação do dispositivo para preencher automaticamente e gerenciar métodos de pagamento
     .accesskey = o
+autofill-payment-methods-add-button = Adicionar novo método de pagamento
+payments-list-header =
+    .label = Métodos de pagamento
+payments-list-item-label = <strong>Métodos de pagamento</strong>
+payments-remove-payment-prompt-title = Remover este método de pagamento?
+payments-remove-payment-prompt-confirm-button = Remover
+payments-remove-payment-prompt-cancel-button = Cancelar
 autofill-addresses-title = Endereços e outras informações
 autofill-addresses-header =
     .aria-label = Endereços e outras informações
@@ -1210,6 +1222,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gerenciar endereços e outras informações
     .accesskey = G
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1235,6 +1255,8 @@ history-remember-description2 =
     .description = O { -brand-short-name } está memorizando seu histórico de navegação, downloads, formulários e pesquisas.
 history-dontremember-description2 =
     .description = O { -brand-short-name } está usando as mesmas configurações da navegação privativa, não memorizando nenhum histórico.
+history-custom-description =
+    .description = O { -brand-short-name } usará configurações personalizadas no histórico de navegação, arquivos baixados, formulários e pesquisas.
 history-remember-description = O { -brand-short-name } está memorizando seu histórico de navegação, downloads, formulários e pesquisas.
 history-dontremember-description = O { -brand-short-name } está usando as mesmas configurações da navegação privativa, não memorizando nenhum histórico.
 history-private-browsing-permanent =
