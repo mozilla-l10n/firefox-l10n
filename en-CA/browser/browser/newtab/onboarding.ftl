@@ -500,6 +500,7 @@ restored-from-backup-error-primary-button = Close
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-subtitle = Answer a few questions and we’ll recommend features and extensions to enhance your use of { -brand-short-name }.
 onboarding-personalization-use-case-title = What will you use { -brand-short-name } for?
 onboarding-personalization-use-case-personal-option = Personal
 onboarding-personalization-use-case-school-option = School

@@ -255,9 +255,17 @@ tab-group-editor-color-selector2-red = Red
 tab-group-description = { $tabGroupName } — Tab Group
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Collapsed
 tab-group-label-tooltip-expanded = { $tabGroupName } — Expanded
+tab-group-preview-name =
+    .aria-label = Tabs in a collapsed group
 tab-context-unnamed-group =
     .label = Unnamed group
 tab-group-name-default = Unnamed Group
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Tabs list open
+tab-group-preview-closed-description = Tabs list closed
 
 ##
 
@@ -273,6 +281,20 @@ tab-context-move-tab-to-group =
         { $tabCount ->
             [1] Add Tab to Group
            *[other] Add Tabs to Group
+        }
+    .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Add Split View to New Group
+           *[other] Add Split Views to New Group
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Add Split View to Group
+           *[other] Add Split Views to Group
         }
     .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
@@ -358,6 +380,13 @@ tab-note-editor-button-save =
 
 ## Split View
 
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on tabs inside of a tab split view
+tabbrowser-tab-label-tab-split-view = Split view
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Add Split View
+    .accesskey = t
 # Display the two selected tabs' contents side by side
 tab-context-open-in-split-view =
     .label = Open in Split View

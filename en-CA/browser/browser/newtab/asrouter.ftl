@@ -241,6 +241,12 @@ set-default-pdf-handler-primary = Got it
 annotations-default-pdf-handler-headline = Sign on the dotted line — or anywhere!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Draw, type, or upload your signature, then place it exactly where you want. Save your go-to signatures for next time.
+annotations-make-default-pdf-handler-title = Make { -brand-short-name } your default PDF editor?
+annotations-make-default-pdf-handler-subtitle = You’ll have access to our tools every time you open a PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Set as default
+annotations-make-default-pdf-next =
+    .label = Next
 
 ## FxA sync CFR
 

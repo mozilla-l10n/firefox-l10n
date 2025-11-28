@@ -1121,12 +1121,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Fill usernames and passwords automatically
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = Save and autofill usernames and passwords
+    .accesskey = f
 forms-saved-passwords =
     .label = Saved passwords
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Manage saved passwords
+    .accesskey = d
+forms-saved-passwords-searchkeywords = Logins for the following sites are stored on your computer
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Additional protections
 forms-primary-pw-use =
     .label = Use a Primary Password
     .accesskey = U
+forms-primary-pw-set =
+    .label = Set primary password
+forms-primary-pw-on =
+    .label = Primary password is ON
+forms-primary-pw-change-2 =
+    .label = Change primary password
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Turn it off
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Require device sign in to fill and manage passwords
@@ -1192,6 +1211,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Save and autofill payment info
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Manage payment methods
 autofill-payment-methods-manage-payments-button =
     .label = Manage payment methods
     .accesskey = m
@@ -1199,6 +1220,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Require device sign in to autofill and manage payments methods
     .accesskey = o
+autofill-payment-methods-add-button = Add new payment method
+payments-list-header =
+    .label = Payment methods
+payments-list-item-label = <strong>Payment methods</strong>
+payments-remove-payment-prompt-title = Remove this payment method?
+payments-remove-payment-prompt-confirm-button = Remove
+payments-remove-payment-prompt-cancel-button = Cancel
 autofill-addresses-title = Addresses and more
 autofill-addresses-header =
     .aria-label = Addresses and more
@@ -1208,6 +1236,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Manage addresses and more
     .accesskey = M
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1233,6 +1269,8 @@ history-remember-description2 =
     .description = { -brand-short-name } will remember your browsing, download, form, and search history.
 history-dontremember-description2 =
     .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
+history-custom-description =
+    .description = { -brand-short-name } will use custom settings for your browsing, download, form and search history.
 history-remember-description = { -brand-short-name } will remember your browsing, download, form, and search history.
 history-dontremember-description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-private-browsing-permanent =
@@ -1338,6 +1376,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Address Bar
+addressbar-suggest-1 = Choose which suggestions display in your address bar
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Suggestions from { -brand-short-name } and our partners in your address bar.
 addressbar-suggest = When using the address bar, suggest
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Address Bar — { -firefox-suggest-brand-name }
@@ -1365,6 +1408,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Top sites
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = Suggest search engines to use
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Search engines
     .accesskey = a
@@ -1389,6 +1435,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Get suggestions from the web relat
 addressbar-locbar-suggest-sponsored-option =
     .label = Suggestions from sponsors
 addressbar-locbar-suggest-sponsored-desc = Support { -brand-short-name } with occasional sponsored suggestions.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Retrieve suggestions from Mozilla as you type
 addressbar-quickactions-learn-more = Learn more
 addressbar-dismissed-suggestions-label = Dismissed suggestions
 addressbar-restore-dismissed-suggestions-description = Restore dismissed suggestions from sponsors and { -brand-short-name }.
@@ -1564,6 +1618,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Block pop-ups and third-party redirects
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Manage pop-up and third-party redirect exceptions
+    .accesskey = E
+    .searchkeywords = popups
+permissions-addon-install-warning2 =
+    .label = Warn when websites try to install extensions
+    .accesskey = W
+permissions-addon-exceptions2 =
+    .label = Choose which websites can install extensions
+    .accesskey = E
 permissions-block-popups =
     .label = Block pop-up windows
     .accesskey = B
@@ -1579,6 +1645,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Exceptions…
     .accesskey = E
+permissions-header2 =
+    .label = Permissions
+    .description = Permissions you give to websites you browse.
 permissions-location2 =
     .label = Location
 permissions-localhost2 =
@@ -1591,6 +1660,9 @@ permissions-camera2 =
     .label = Camera
 permissions-microphone2 =
     .label = Microphone
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Speaker
 permissions-notification2 =
     .label = Notifications
 
@@ -1697,6 +1769,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } is running out of disk space.</strong> Website contents may not display properly. You can clear stored data in Settings > Privacy & Security > Cookies and Site Data.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } is running out of disk space.</strong> Website contents may not display properly. Visit “Learn more” to optimize your disk usage for better browsing experience.
+certs-description2 =
+    .label = Certificates
+    .description = Configure the certificates that { -brand-short-name } uses for authentication.
 
 ## Privacy Section - HTTPS-Only
 

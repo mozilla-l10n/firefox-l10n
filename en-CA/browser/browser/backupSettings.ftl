@@ -146,6 +146,11 @@ backup-service-error-recovery-failed =
     .message = Restart { -brand-short-name } and try restoring your backup again.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, there was a problem backing up.
+    .message = Try again in a few minutes.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
 backup-service-error-went-wrong =
     .heading = Something went wrong
     .message = There was a problem with the backup process for { -brand-short-name }. Please try again or restart { -brand-short-name }.
@@ -153,11 +158,90 @@ backup-service-error-went-wrong =
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Back up your sensitive data
+enable-backup-encryption-support-link = Learn more
+enable-backup-encryption-create-password-label = Password
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Repeat password
+enable-backup-encryption-cancel-button = Cancel
+enable-backup-encryption-confirm-button = Save
+change-backup-encryption-header = Change backup password
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Password requirements
+password-rules-length-description = At least 8 characters
+password-rules-email-description = Not your email address
+password-rules-disclaimer = Stay safe — don’t reuse passwords. See more tips to <a data-l10n-name="password-support-link">create strong passwords</a>.
+password-validity-has-email = Can’t be an email address
+password-validity-do-not-match = Passwords don’t match
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Success
+password-rules-a11y-warning =
+    .alt = Warning
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Remove password protection
+disable-backup-encryption-description2 = Your saved passwords and payment methods will also no longer be backed up.
+disable-backup-encryption-support-link = What will be backed up?
+disable-backup-encryption-cancel-button = Cancel
+disable-backup-encryption-confirm-button = Remove password
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Your password doesn’t meet the requirements. Please try another password.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Something went wrong. Please try again.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } is ready to be restored
+backup-file-title = Restore { -brand-short-name }
+backup-file-intro = Get back to browsing and recover all your bookmarks, history, and other data. <a data-l10n-name="backup-file-support-link">Learn more</a>
+backup-file-path-label = Backup file:
+backup-file-encryption-state-label = Encrypted:
+backup-file-encryption-state-value-encrypted = Yes
+backup-file-encryption-state-value-not-encrypted = No
+backup-file-creation-device-label = Device:
+backup-file-creation-date-label = Created:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = How to restore:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Open the application menu ☰ and go to Settings > Sync
+backup-file-moz-browser-restore-step-2 = Click “Choose backup file” and select this file
+backup-file-moz-browser-restore-step-3 = Restart { -brand-short-name } when asked
+backup-file-other-browser-restore-step-1 = Download and install { -brand-short-name }
+backup-file-download-moz-browser-button = Download
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Start { -brand-short-name }, open the application menu ☰ and go to Settings > Sync
+backup-file-other-browser-restore-step-3 = Click “Choose backup file” and select this file
+backup-file-other-browser-restore-step-4 = Restart { -brand-short-name } when asked
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
 ## if they have one on their file system.
 
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Note:</b> { $numberOfOtherBackupsFound } other backup file found
+       *[other] <b>Note:</b> { $numberOfOtherBackupsFound } other backup files found
+    }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
