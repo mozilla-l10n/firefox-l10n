@@ -26,6 +26,7 @@ customkeys-dev-storage = Inspetor de armazenamento
 customkeys-dev-dom = DOM
 customkeys-dev-accessibility = Acessibilidade
 customkeys-dev-profiler-toggle = Iniciar/Parar o analisador de desempenho
+customkeys-dev-profiler-capture = Capturar um profile de desempenho
 customkeys-category-navigation = Navegação
 customkeys-nav-back = Voltar
 customkeys-nav-forward = Avançar

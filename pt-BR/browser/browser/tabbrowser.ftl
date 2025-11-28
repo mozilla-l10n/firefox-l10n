@@ -286,6 +286,20 @@ tab-context-move-tab-to-group =
            *[other] Adicionar abas a um grupo
         }
     .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Adicionar exibição dividida em novo grupo
+           *[other] Adicionar exibições divididas em novo grupo
+        }
+    .accesskey = g
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Adicionar exibição dividida ao grupo
+           *[other] Adicionar exibições divididas ao grupo
+        }
+    .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
     .label = Grupos fechados
 tab-group-editor-action-new-tab =
