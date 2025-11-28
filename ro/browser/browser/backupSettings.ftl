@@ -20,22 +20,22 @@ backup-folder-name = Restabilește { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Backup_{ -brand-product-name }
 settings-data-backup-header = Backup
-settings-data-backup-toggle = Gestionează copiile de rezervă
-settings-data-backup-toggle-on = Activează copiile de rezervă
-settings-data-backup-toggle-off = Dezactivează copiile de rezervă
-settings-data-backup-trigger-button = Fă o copie de rezervă acum
-settings-data-backup-in-progress-button = Se creează copia de rezervă…
+settings-data-backup-toggle = Gestionează backupurile
+settings-data-backup-toggle-on = Activează backupurile
+settings-data-backup-toggle-off = Dezactivează backupurile
+settings-data-backup-trigger-button = Fă backup acum
+settings-data-backup-in-progress-button = Backup în curs…
 settings-data-backup-in-progress-message =
-    .message = Se creează copia de rezervă…
+    .message = Backup în curs…
 settings-data-backup-scheduled-backups-on = Backup: Activat
 settings-data-backup-scheduled-backups-off = Backup: Dezactivat
 settings-data-backup-scheduled-backups-description = Protejează-ți automat marcajele, istoricul și alte date. <a data-l10n-name="support-link">Află mai multe</a>
-settings-data-backup-last-backup-date = Ultima copie de rezervă: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-last-backup-date = Ultimul backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Locație
 settings-data-backup-last-backup-location-show-in-folder = Afișează în dosar
 settings-data-backup-last-backup-location-edit = Editează…
-settings-data-create-backup-error = A apărut o eroare la crearea copiei de rezervă pe { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-create-backup-error = A apărut o eroare la crearea backupului pe { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Fă copii de rezervă cu parolele și metodele de plată și păstrează-ți toate datele în siguranță prin criptare.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
@@ -44,7 +44,7 @@ settings-data-backup-restore-header = Restabilește datele
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
-settings-data-backup-scheduled-backups-off-restore-description = Folosește o copie de rezervă { -brand-product-name } de pe un alt dispozitiv ca să îți restabilești datele.
+settings-data-backup-scheduled-backups-off-restore-description = Folosește un backup de { -brand-product-name } de pe un alt dispozitiv pentru a restaura datele.
 settings-data-backup-scheduled-backups-off-restore-choose = Alege un fișier de backup…
 
 ## These strings are shown under the header if scheduled backups are enabled.
@@ -57,7 +57,7 @@ settings-data-change-password = Schimbă parola…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
-turn-on-scheduled-backups-header = Activează copiile de rezervă
+turn-on-scheduled-backups-header = Activează backupurile
 turn-on-scheduled-backups-description = { -brand-short-name } va crea o captură a datelor tale la fiecare 24 de ore. Le vei putea restabili dacă apar probleme sau dacă folosești un dispozitiv nou.
 turn-on-scheduled-backups-support-link = Ce va conține copia de rezervă?
 # "Location" refers to the save location or a folder where users want backups stored.
@@ -76,18 +76,19 @@ turn-on-scheduled-backups-encryption-create-password-label = Parolă
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Repetă parola
 turn-on-scheduled-backups-cancel-button = Anulează
-turn-on-scheduled-backups-confirm-button = Activează copiile de rezervă
+turn-on-scheduled-backups-confirm-button = Activează backupurile
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
-turn-on-scheduled-backups-error-file-system = A apărut o problemă cu dosarul selectat pentru copii de rezervă. Alege alt dosar și încearcă din nou.
+turn-on-scheduled-backups-error-file-system = A apărut o problemă cu dosarul selectat pentru backupuri. Alege un alt dosar și încearcă din nou.
 backup-error-file-system = A apărut o problemă cu dosarul selectat pentru copii de rezervă în timp ce se făcea copia de rezervă { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
-turn-off-scheduled-backups-header = Dezactivezi copiile de rezervă?
+turn-off-scheduled-backups-header = Dezactivezi backupurile?
 turn-off-scheduled-backups-description = Toate copiile de rezervă vor fi șterse. Acțiunea nu poate fi anulată.
 turn-off-scheduled-backups-support-link = Află mai multe
 turn-off-scheduled-backups-cancel-button = Anulează
+turn-off-scheduled-backups-confirm-button = Dezactivează și șterge backupurile
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
@@ -98,7 +99,7 @@ restore-from-backup-description-with-metadata =
     .message = Această acțiune va înlocui datele { -brand-short-name } curente cu datele din copia de rezervă din { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = Ce va fi restabilit?
-restore-from-backup-no-backup-file-link = Nu găsești copia de rezervă?
+restore-from-backup-no-backup-file-link = Nu găsești backupul?
 restore-from-backup-filepicker-label = Fișier de backup
 restore-from-backup-filepicker-title = Alege un fișier de backup:
 restore-from-backup-file-choose-button =

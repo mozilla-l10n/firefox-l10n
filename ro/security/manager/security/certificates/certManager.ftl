@@ -67,7 +67,7 @@ certmgr-backup =
     .label = Copie de siguranță…
     .accesskey = B
 certmgr-backup-all =
-    .label = Copie de siguranță pentru toate…
+    .label = Fă backup tuturor…
     .accesskey = k
 certmgr-restore =
     .label = Importă…
@@ -102,7 +102,7 @@ pkcs12-dup-data = Certificatul și cheia privată există deja în dispozitivul 
 
 ## PKCS#12 file dialogs
 
-choose-p12-backup-file-dialog = Denumire fișier de copie de siguranță
+choose-p12-backup-file-dialog = Numele fișierului pentru backup
 file-browse-pkcs12-spec = Fișiere PKCS12
 choose-p12-restore-file-dialog = Fișierul certificatului de importat
 

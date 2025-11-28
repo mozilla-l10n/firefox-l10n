@@ -511,7 +511,7 @@ create-backup-screen-2-all-list-2 = Include parole și metode de plată
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Criptat cu parolă
 # Title for a screen asking users to choose a file location
-create-backup-screen-3-location = Unde vrei să fie salvată copia de rezervă?
+create-backup-screen-3-location = Unde vrei să fie salvat backupul?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Creează o parolă pentru fișierul de backup
 create-backup-screen-3-subtitle = Necesară pentru criptarea datelor. Pune-o într-un loc ușor de ținut minte.
@@ -549,11 +549,11 @@ restore-from-backup-secondary-button = Nu restaura
 
 restored-from-backup-success-title = Ne-am întors! Datele tale din { -brand-short-name } au fost restaurate.
 restored-from-backup-success-with-checklist-subtitle = Vrei să-ți ții browserul preferat, axat pe confidențialitate, la un singur clic distanță?
-restored-from-backup-success-no-checklist-subtitle = Poți activa copiile de rezervă pe acest dispozitiv în <a data-l10n-name="settings">Setări</a>.
+restored-from-backup-success-no-checklist-subtitle = Poți activa backupurile pe acest dispozitiv în <a data-l10n-name="settings">Setări</a>.
 restored-from-backup-success-with-checklist-primary-button = Salvează și continuă
 restored-from-backup-success-with-checklist-secondary-button = Omite acest pas
 restored-from-backup-success-no-checklist-primary-button = Continuă
-restored-from-backup-error-title = Hmm, a apărut o problemă cu fișierul de copie de rezervă.
+restored-from-backup-error-title = Hmm, a apărut o problemă cu fișierul de backup.
 restored-from-backup-error-subtitle = Dacă ai un alt fișier de rezervă { -brand-short-name }, încearcă să restaurezi din el. <a data-l10n-name="restore-problems">Încă ai probleme?</a>
 restored-from-backup-error-primary-button = Închide
 
