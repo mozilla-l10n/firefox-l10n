@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Enable autofill for addresses.
 policy-AutofillCreditCardEnabled = Enable autofill for payment methods.
 policy-AutoLaunchProtocolsFromOrigins = Define a list of external protocols that can be used from listed origins without prompting the user.
 policy-BackgroundAppUpdate2 = Enable or disable the background updater.
+policy-Backup = Disable backup or restore of profile data.
 policy-BlockAboutAddons = Block access to the Add-ons Manager (about:addons).
 policy-BlockAboutConfig = Block access to the about:config page.
 policy-BlockAboutProfiles = Block access to the about:profiles page.

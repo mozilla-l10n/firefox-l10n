@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Let’s back up your saved addresses
 fxa-adoption-addresses-backup-subtitle = Protect your saved addresses by syncing them to your devices with encryption.
 fxa-adoption-credit-cards-backup-title = Let’s back up your payment methods
 fxa-adoption-credit-cards-backup-subtitle = Protect your payment methods by syncing them to your devices with encryption.
+fxa-adoption-bookmarks-treatment-backup-title = Let’s back up your bookmarks
+fxa-adoption-bookmarks-treatment-backup-subtitle = Protect your bookmarks by syncing them to your devices with encryption.
 fxa-adoption-primary-button-label = Sign up
 
 ## Protections panel
@@ -229,6 +231,16 @@ fox-doodle-pin-secondary = Not now
 
 set-default-pdf-handler-headline = <strong>Your PDFs now open in { -brand-short-name }.</strong> Edit or sign forms directly in your browser. To change, search “PDF” in settings.
 set-default-pdf-handler-primary = Got it
+
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Sign on the dotted line — or anywhere!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Draw, type, or upload your signature, then place it exactly where you want. Save your go-to signatures for next time.
 
 ## FxA sync CFR
 
