@@ -45,7 +45,7 @@ settings-data-backup-restore-header = Restabilește datele
 ## These strings are shown under the header if scheduled backups are disabled.
 
 settings-data-backup-scheduled-backups-off-restore-description = Folosește o copie de rezervă { -brand-product-name } de pe un alt dispozitiv ca să îți restabilești datele.
-settings-data-backup-scheduled-backups-off-restore-choose = Alege fișierul pentru copia de rezervă…
+settings-data-backup-scheduled-backups-off-restore-choose = Alege un fișier de backup…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
@@ -100,8 +100,8 @@ restore-from-backup-description-with-metadata =
 restore-from-backup-support-link =
     .message = Ce va fi restabilit?
 restore-from-backup-no-backup-file-link = Nu găsești copia de rezervă?
-restore-from-backup-filepicker-label = Fișier pentru copia de rezervă
-restore-from-backup-filepicker-title = Alege fișierul pentru copia de rezervă:
+restore-from-backup-filepicker-label = Fișier de backup
+restore-from-backup-filepicker-title = Alege un fișier de backup:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Alege…
@@ -124,8 +124,8 @@ backup-service-error-incorrect-password = Parolă incorectă. <a data-l10n-name=
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself
 backup-service-error-corrupt-file =
-    .heading = Fișierul nu funcționează
-    .message = A apărut o problemă cu fișierul pentru copia de rezervă. Alege alt fișier și încearcă din nou.
+    .heading = Acest fișier nu funcționează
+    .message = A apărut o problemă cu fișierul de backup. Alege un alt fișier și încearcă din nou.
 # The backup file cannot be restored. The currently running application may
 # be too old and may not support features in the backed up profile.
 # Alternatively, the backup file may be too old and some of the feature in
@@ -208,7 +208,7 @@ backup-error-retry = Ceva nu a funcționat. Te rugăm să încerci din nou.
 backup-file-header = { -brand-short-name } este gata de restabilire
 backup-file-title = Restabilește { -brand-short-name }
 backup-file-intro = Întoarce-te la navigare și recuperează-ți toate marcajele, istoricul și alte date. <a data-l10n-name="backup-file-support-link">Află mai multe</a>
-backup-file-path-label = Fișier pentru copia de rezervă:
+backup-file-path-label = Fișier de backup:
 backup-file-encryption-state-label = Criptat:
 backup-file-encryption-state-value-encrypted = Da
 backup-file-encryption-state-value-not-encrypted = Nu
@@ -221,14 +221,14 @@ backup-file-how-to-restore-header = Cum să restabilești:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Deschide meniul aplicației ☰ și mergi în Setări > Sincronizare
-backup-file-moz-browser-restore-step-2 = Dă click pe “Alege fișierul pentru copia de rezervă” și selectează-l
+backup-file-moz-browser-restore-step-2 = Dă clic pe „Alege un fișier de backup” și selectează acest fișier
 backup-file-moz-browser-restore-step-3 = Repornește { -brand-short-name } când vei fi întrebat(ă)
 backup-file-other-browser-restore-step-1 = Descarcă și instalează { -brand-short-name }
 backup-file-download-moz-browser-button = Descarcă
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Pornește { -brand-short-name }, deschide meniul aplicației ☰ și mergi în Setări > Sincronizare
-backup-file-other-browser-restore-step-3 = Dă click pe “Alege fișierul pentru copia de rezervă” și selectează-l
+backup-file-other-browser-restore-step-3 = Dă clic pe „Alege un fișier de backup” și selectează acest fișier
 backup-file-other-browser-restore-step-4 = Repornește { -brand-short-name } când vei fi întrebat(ă)
 
 ## These strings are used in the about:restore and about:welcome pages
@@ -239,9 +239,9 @@ backup-file-other-browser-restore-step-4 = Repornește { -brand-short-name } câ
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds =
     { $numberOfOtherBackupsFound ->
-        [one] <b>Notă:</b> { $numberOfOtherBackupsFound } alt fișier de copie de rezervă găsit
-        [few] <b>Notă:</b> { $numberOfOtherBackupsFound } alte fișiere de copie de rezervă găsite
-       *[other] <b>Notă:</b> { $numberOfOtherBackupsFound } de alte fișiere de copie de rezervă găsite
+        [one] <b>Notă:</b> { $numberOfOtherBackupsFound } fișier de backup găsit
+        [few] <b>Notă:</b> { $numberOfOtherBackupsFound } fișiere de backup găsite
+       *[other] <b>Notă:</b> { $numberOfOtherBackupsFound } de fișiere de backup găsite
     }
 # Variables:
 #   $date (Datetime) - The date the backup was created

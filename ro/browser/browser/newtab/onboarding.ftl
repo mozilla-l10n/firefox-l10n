@@ -513,7 +513,7 @@ create-backup-screen-2-all-list-3 = Criptat cu parolă
 # Title for a screen asking users to choose a file location
 create-backup-screen-3-location = Unde vrei să fie salvată copia de rezervă?
 # Title for a screen asking users to create a password that will encrypt the backup
-create-backup-screen-3-title = Creează o parolă pentru fișierul copiei de rezervă
+create-backup-screen-3-title = Creează o parolă pentru fișierul de backup
 create-backup-screen-3-subtitle = Necesară pentru criptarea datelor. Pune-o într-un loc ușor de ținut minte.
 fx-backup-opt-in-header = Alege locația fișierului
 fx-backup-opt-in-filepath-label = Alege un loc pe care planifici să îl transferi pe un dispozitiv nou, cum ar fi OneDrive.
