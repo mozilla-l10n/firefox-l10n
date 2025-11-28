@@ -178,6 +178,12 @@ tabs-group-header2 =
     .label = Abas
 tabs-opening-heading =
     .label = Abertura
+tabs-interaction-heading =
+    .label = Interação
+tabs-containers-heading =
+    .label = Contêineres
+tabs-closing-heading =
+    .label = Fechamento
 tabs-group-header = Abas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab alternar entre abas por ordem de uso
@@ -687,6 +693,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sites que você salva ou visita
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atalhos patrocinados
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -732,14 +740,24 @@ home-prefs-weather-header =
     .label = Tempo
 home-prefs-weather-description = Visão geral da previsão para hoje
 home-prefs-weather-learn-more-link = Saiba mais
+home-prefs-widgets-header =
+    .label = Widgets
 home-prefs-trending-search-header =
     .label = Pesquisas em alta
 home-prefs-trending-search-description = Tópicos populares e pesquisados com frequência
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporizador
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Apoie o { -brand-product-name }
 home-prefs-mission-message = Nossos patrocinadores apoiam nossa missão de construir uma web melhor
 home-prefs-mission-message-learn-more-link = Descubra como
+home-prefs-mission-message2 =
+    .message = Nossos patrocinadores apoiam nossa missão de construir uma web melhor.
 home-prefs-manage-topics-link = Gerenciar tópicos
 home-prefs-choose-wallpaper-link = Escolher um fundo de tela
 # Variables:
@@ -1049,10 +1067,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Senhas
     .searchkeywords = contas
+forms-passwords-header =
+    .label = Senhas
+    .aria-label = Senhas
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Perguntar se quer salvar senhas
     .accesskey = P
+forms-manage-password-exceptions =
+    .label = Gerenciar exceções de senha
+    .accesskey = G
 forms-exceptions =
     .label = Exceções…
     .accesskey = x
@@ -1083,12 +1107,28 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Preencher nomes de usuário e senhas automaticamente
     .accesskey = P
+forms-fill-usernames-and-passwords-2 =
+    .label = Salvar e preencher automaticamente nomes de usuário e senhas
+    .accesskey = h
 forms-saved-passwords =
     .label = Senhas salvas
     .accesskey = h
+forms-saved-passwords-2 =
+    .label = Gerenciar senhas salvas
+    .accesskey = s
+forms-saved-passwords-searchkeywords = As contas de acesso dos seguintes sites estão armazenadas neste computador
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Proteções adicionais
 forms-primary-pw-use =
     .label = Usar uma senha principal
     .accesskey = U
+forms-primary-pw-set =
+    .label = Definir senha principal
+forms-primary-pw-on =
+    .label = Senha principal está ATIVADA
+forms-primary-pw-change-2 =
+    .label = Mudar senha principal
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Exigir autenticação do dispositivo para preencher e gerenciar senhas
