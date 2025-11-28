@@ -926,6 +926,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nessuna scorciatoia selezionata, scegline una
     .tooltiptext = Nessuna scorciatoia selezionata, scegline una
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = La ricerca tramite parole chiave è disattivata
+    .tooltiptext = La ricerca tramite parole chiave è disattivata
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
