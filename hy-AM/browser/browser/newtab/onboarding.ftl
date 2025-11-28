@@ -309,6 +309,7 @@ amo-picker-collection-link = Ուսումնասիրեք ավելի շատ հավ
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Մենք սիրում ենք ձեզ ապահով պահել
+onboarding-easy-setup-security-and-privacy-subtitle = Մեր ոչ առևտրային բրաուզերը օգնում է կանխել ընկերությունների կողմից ձեզ գաղտնի հետևելը համացանցում։
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name }-ը Ձեր ողնաշարն է
 onboarding-sign-up-button = Գրանցվեք կամ մուտք գործեք

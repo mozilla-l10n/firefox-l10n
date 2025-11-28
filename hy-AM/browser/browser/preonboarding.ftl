@@ -10,6 +10,8 @@ preonboarding-primary-cta = Հաստատել և շարունակել
 preonboarding-primary-cta-v2 = Շարունակել
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Կարդացեք մեր օգտագործման պայմանները
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = Կարդացեք մեր Գաղտնիության ծանուցումը
 preonboarding-terms-of-use-header-button-title-b-v2 = Օգտագործման պայմաններ
 preonboarding-privacy-notice-header-button-title-b-v2 = Գաղտնիության դրույթներ
 # Description under label for header style buttons

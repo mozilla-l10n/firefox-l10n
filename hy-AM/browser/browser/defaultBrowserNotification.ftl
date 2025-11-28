@@ -13,6 +13,9 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Դարձնե՞լ { -brand-short-name }-ը Ձեր հիմնական դիտարկիչը:
+default-browser-prompt-message-pin = Պահեք { -brand-short-name }-ը ձեր ձեռքի տակ՝ դարձրեք այն ձեր սկզբնադիր դիտարկիչը և ամրացրեք այն ձեր խնդրագոտում:
+default-browser-prompt-message-pin-msix = Պահեք { -brand-short-name }-ը ձեր ձեռքի տակ՝ դարձրեք այն ձեր սկզբնադիր դիտարկիչը և ամրացրեք այն ձեր խնդրագոտում և մեկնարկային ցանկում:
+default-browser-prompt-message-pin-mac = Պահեք { -brand-short-name }-ը ձեր ձեռքի տակ՝ դարձրեք այն ձեր սկզբնադիր դիտարկիչը և ամրացրեք այն ձեր Dock-ում:
 default-browser-prompt-button-primary-set = Կայել որպես հիմնական դիտարկիչ
 default-browser-prompt-button-primary-pin = Դարձնել սկզբնադիր դիտարկիչ
 default-browser-prompt-title-alt = Դարձնե՞լ { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչ:
@@ -25,7 +28,7 @@ default-browser-prompt-button-secondary = Ոչ հիմա
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
-default-browser-guidance-notification-title = Ավարտեք { -brand-short-name }-ին Ձեր սկզբնադիր դարձնելը
+default-browser-guidance-notification-title = Ավարտեք { -brand-short-name }-ը Ձեր սկզբնադիրը դարձնելը
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
     Քայլ 1. Գնացեք Կարգավորումներ > Սկզբնադիր  հավելվածներ
