@@ -174,6 +174,10 @@ preferences-manage-profiles-button =
     .label = Håndter profiler
 preferences-profiles-settings-button =
     .label = Indstillinger
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopier en eksisterende profil
+    .description = Den nye profil kopierer dine indstillinger, tilføjelser, historik og gemte data såsom bogmærker og adgangskoder - men ikke din konto eller synkroniserings-info.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -186,10 +190,14 @@ preferences-copy-profile-select = Vælg profil
 preferences-copy-profile-button = Kopier
 tabs-group-header2 =
     .label = Faneblade
+tabs-opening-heading =
+    .label = Åbning
 tabs-interaction-heading =
     .label = Interaktion
 tabs-containers-heading =
     .label = Kontekster
+tabs-closing-heading =
+    .label = Lukning
 tabs-group-header = Faneblade
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tabulator-tasten skifter mellem de senest anvendte faneblade
@@ -1610,6 +1618,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloker pop op-vinduer og tredjeparts-omdirigeringer
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Håndter undtagelser for pop op-vinduer og tredjeparts-omdirigeringer
+    .accesskey = u
+    .searchkeywords = popop
 permissions-addon-install-warning2 =
     .label = Advar mig, når et websted forsøger at installere udvidelser
     .accesskey = A
