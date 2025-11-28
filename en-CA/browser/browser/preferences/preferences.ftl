@@ -1212,6 +1212,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = All cross-site cookies (may cause websites to break)
 sitedata-option-block-all =
     .label = All cookies (will cause websites to break)
+sitedata-clear2 =
+    .label = Clear browsing data
+    .accesskey = l
+sitedata-settings2 =
+    .label = Manage browsing data
+    .accesskey = M
 sitedata-clear =
     .label = Clear Data…
     .accesskey = l
@@ -1221,6 +1227,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Manage exceptions
+    .accesskey = x
+    .description = You can specify which websites are always or never allowed to use cookies and site data.
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1332,6 +1342,7 @@ content-blocking-private-windows = Tracking content in Private Windows
 content-blocking-cross-site-cookies-in-all-windows2 = Cross-site cookies in all windows
 content-blocking-cross-site-tracking-cookies = Cross-site tracking cookies
 content-blocking-all-cross-site-cookies-private-windows = Cross-site cookies in Private Windows
+content-blocking-isolate-cross-site-cookies = Isolate cross-site cookies
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cross-site tracking cookies, and isolate remaining cookies
 content-blocking-social-media-trackers = Social media trackers
 content-blocking-all-cookies = All cookies
@@ -1352,6 +1363,7 @@ content-blocking-etp-standard-tcp-rollout-description = Total Cookie Protection 
 content-blocking-etp-standard-tcp-rollout-learn-more = Learn more
 content-blocking-etp-standard-tcp-title = Includes Total Cookie Protection, our most powerful privacy feature ever
 content-blocking-warning-title = Heads up!
+content-blocking-warning-title-2 = Some sites may break with strict tracking protection
 content-blocking-warning-title-custom = Some sites may break with custom tracking protection
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recommends using the “Fix site issues” settings to reduce broken site features and content. If a site seems broken, try turning off tracking protection for that site to load all content.
