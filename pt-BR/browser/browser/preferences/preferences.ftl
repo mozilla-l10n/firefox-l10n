@@ -1604,6 +1604,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloquear abertura de janelas e redirecionamento de terceiros
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Gerenciar exceções de abertura de janelas e redirecionamento de terceiros
+    .accesskey = G
+    .searchkeywords = popup
+permissions-addon-install-warning2 =
+    .label = Avisar quando sites tentarem instalar extensões
+    .accesskey = v
+permissions-addon-exceptions2 =
+    .label = Escolher quais sites podem instalar extensões
+    .accesskey = E
 permissions-block-popups =
     .label = Bloquear abertura de janelas ou abas
     .accesskey = B
@@ -1619,6 +1631,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Exceções…
     .accesskey = E
+permissions-header2 =
+    .label = Permissões
+    .description = Permissões que você dá a sites onde navega.
 permissions-location2 =
     .label = Localização
 permissions-localhost2 =
@@ -1631,6 +1646,9 @@ permissions-camera2 =
     .label = Câmera
 permissions-microphone2 =
     .label = Microfone
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Saída de áudio
 permissions-notification2 =
     .label = Notificações
 
