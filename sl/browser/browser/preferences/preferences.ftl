@@ -715,6 +715,8 @@ home-prefs-support-firefox-header =
     .label = Podprite { -brand-product-name(sklon: "tozilnik") }
 home-prefs-mission-message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta
 home-prefs-mission-message-learn-more-link = Spoznajte, kako
+home-prefs-mission-message2 =
+    .message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
