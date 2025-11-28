@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Flyt til nyt vindue
     .accesskey = v
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Flyt til { $profileName }
 tab-context-close-multiple-tabs =
     .label = Luk flere faneblade
     .accesskey = a
@@ -126,6 +130,14 @@ tab-context-move-tabs =
            *[other] Flyt faneblade
         }
     .accesskey = y
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Send til enhed
+           *[other] Send { $tabCount } Tabs to Device
+        }
+    .accesskey = d
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

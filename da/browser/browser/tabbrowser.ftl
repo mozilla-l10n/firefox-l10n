@@ -371,6 +371,13 @@ tab-context-edit-note =
     .label = Rediger note
     .accesskey = R
 tab-note-editor-title-create = Tilføj note
+tab-note-editor-title-edit = Rediger note
+tab-note-editor-button-cancel =
+    .label = Annuller
+    .accesskey = A
+tab-note-editor-button-save =
+    .label = Gem
+    .accesskey = G
 
 ## Split View
 
@@ -390,3 +397,8 @@ tab-context-separate-split-view =
     .label = Adskil opdelt visning
     .accesskey = p
 tab-context-badge-new = Ny
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+split-view-menuitem-close-both-tabs =
+    .label = Luk begge faneblade
