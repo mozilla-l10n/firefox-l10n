@@ -966,6 +966,9 @@ pane-privacy-passwords-header = Գաղտնաբառեր
 forms-ask-to-save-passwords =
     .label = Խնդրել գաղտնաբառների պահպանում
     .accesskey = Խ
+forms-manage-password-exceptions =
+    .label = Կառավարել գաղտնաբառի բացառությունները
+    .accesskey = M
 forms-exceptions =
     .label = Բացառություններ…
     .accesskey = ա
@@ -1104,6 +1107,10 @@ history-clear-button =
 
 sitedata-header = Cookie-ներ և կայքի տվյալներ
 sitedata-total-size-calculating = Հաշվում է կայքի տվյալները և շտեմի չափը…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Ձեր պահված թխուկները, պատմությունը, կայքի տվյալները և շտեմը ներկայումս զբաղեցնում են <strong>{ $value } { $unit } </strong> սկավառակի տարածք։
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
