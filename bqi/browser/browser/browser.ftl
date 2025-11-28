@@ -523,6 +523,16 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = پیتینیڌن یا زیڌن نشۊوی
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = پیتینیڌن من وب
+    .aria-label = پیتینیڌن وا { $name }
+urlbar-switch-to-tab =
+    .value = گوم زیڌن و بلگه:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = وردنی:
@@ -530,6 +540,9 @@ urlbar-extension =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+urlbar-result-action-sponsored = هؽزگری وابیڌه
+urlbar-result-action-switch-tab = گوم زیڌن و بلگه
+urlbar-result-action-visit = نیشتن
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = لف گیری
 # Shows the result of a formula expression being calculated, the last = sign will be shown
