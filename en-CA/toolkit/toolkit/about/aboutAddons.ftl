@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Enable
 extensions-warning-imported-addons2 =
     .message = Please finalize the installation of extensions that were imported to { -brand-short-name }.
 extensions-warning-imported-addons-button = Install Extensions
+extensions-warning-safe-mode3 =
+    .message = All add-ons have been disabled by Troubleshoot Mode.
 
 ## Strings connected to add-on updates
 
@@ -290,6 +292,10 @@ colorway-removal-notice-message =
         the add-ons site.
 colorway-removal-notice-learn-more = Learn more
 colorway-removal-notice-button = Get updated colourways themes
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Your Windows contrast settings are overriding { -brand-short-name } themes. Turn off these settings to use themes in { -brand-short-name }.
 privacy-policy = Privacy Policy
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -537,6 +543,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = More Information
 details-notification-blocked = { $name } has been disabled due to security or stability issues.
 details-notification-blocked-link2 = See Details
+details-notification-soft-blocked-extension-disabled2 =
+    .message = This extension is restricted and has been disabled. You can enable it, but this may be risky.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = This extension is restricted. Using it may be risky.
+details-notification-soft-blocked-other-disabled2 =
+    .message = This add-on is restricted and has been disabled. You can enable it, but this may be risky.
+details-notification-soft-blocked-other-enabled2 =
+    .message = This add-on is restricted. Using it may be risky.
 details-notification-soft-blocked-extension-disabled =
     .message = This extension is restricted for violating Mozilla’s policies and has been disabled. You can enable it, but this may be risky.
 details-notification-soft-blocked-extension-enabled =
