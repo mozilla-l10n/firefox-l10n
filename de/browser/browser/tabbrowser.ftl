@@ -363,6 +363,12 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-context-add-note =
+    .label = Notiz hinzufügen
+    .accesskey = N
+tab-context-edit-note =
+    .label = Notiz bearbeiten
+    .accesskey = b
 tab-note-editor-title-create = Notiz hinzufügen
 tab-note-editor-title-edit = Notiz bearbeiten
 tab-note-editor-text-field =

@@ -13,6 +13,7 @@ customkeys-reset-all-confirm = Sollen wirklich alle Tastenkombinationen auf die 
 customkeys-history-reopen-tab = Zuletzt geschlossenen Tab wiederherstellen
 customkeys-history-reopen-window = Zuletzt geschlossenes Fenster wieder öffnen
 customkeys-dev-tools = Werkzeuge für Web-Entwickler
+customkeys-dev-inspector = DOM- und Stil-Untersuchung
 customkeys-dev-webconsole = Web-Konsole
 customkeys-dev-debugger = JavaScript-Debugger
 customkeys-dev-network = Netzwerkanalyse

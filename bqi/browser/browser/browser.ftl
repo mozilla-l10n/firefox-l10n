@@ -516,6 +516,13 @@ popup-all-windows-shared = پوی نیمدری یلی ک انیرین یک رس�
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = بستن
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
+urlbar-placeholder =
+    .placeholder = پیتینیڌن یا زیڌن نشۊوی
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = وردنی:
@@ -710,10 +717,14 @@ toolbar-settings-button =
             [macos] گۊشیڌن سامووا ({ $shortcut })
            *[other] گۊشیڌن سامووا
         }
+toolbar-overflow-customize-button =
+    .label = سفارشی کردن نوار ٱوزار…
+    .accesskey = C
 
 ## EME notification panel
 
 eme-notifications-drm-content-playing-manage = دؽوۉداری سامووا
+eme-notifications-drm-content-playing-manage-accesskey = M
 
 ## Unified extensions (toolbar) button
 
