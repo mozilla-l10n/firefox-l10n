@@ -11,6 +11,11 @@
 unified-extensions-header-title = Ընդլայնումներ
 unified-extensions-manage-extensions =
     .label = Կառավարել ընդլայնումները
+unified-extensions-discover-extensions =
+    .label = Բացահայտեք ընդլայնումները
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Բարձրացրեք ձեր դիտարկիչի մակարդակը ընդլայնումների միջոցով
+unified-extensions-empty-content-explain-extensions-onboarding = Անհատականացրեք { -brand-short-name }-ը՝ փոխելով տեսքն ու աշխատանքը կամ բարձրացնելով գաղտնիությունն ու անվտանգությունը։
 
 ## An extension in the main list
 

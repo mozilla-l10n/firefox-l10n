@@ -382,6 +382,9 @@ tab-groups-onboarding-dismiss = Լավ
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Ասեք ողջույն { -brand-product-name }-ին
+multi-profile-spotlight-body = Հեշտությամբ անցեք աշխատանքի և զվարճանքի դիտարկումների միջև: Պրոֆիլները ձեր որոնումների տեղեկությունները, ներառյալ որոնման պատմությունը և գաղտնաբառերը, պահում են լիովին առանձին, որպեսզի դուք կարողանաք կազմակերպված մնալ:
+multi-profile-spotlight-cta = Ստեղծել պրոֆիլ
+multi-profile-callout-title = Ստեղծեք տարբեր պրոֆիլներ աշխատանքի և զվարճանքի համար
 multi-profile-callout-cta = Ստեղծել պրոֆիլ
 
 ## Desktop to Mobile Adoption feature callout strings

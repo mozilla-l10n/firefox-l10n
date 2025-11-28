@@ -38,5 +38,5 @@ default-browser-guidance-notification-body-instruction-win10 =
 default-browser-guidance-notification-body-instruction-win11 =
     Քայլ 1. Գնացեք Կարգավորումներ > Սկզբնադիր հավելվածներ
     Քայլ 2. Ընտրեք «Կայել սկզբնադիր»՝ { -brand-short-name }-ի համար
-default-browser-guidance-notification-info-page = Ցուցադրել ինձ
+default-browser-guidance-notification-info-page = Ցույց տալ, թե ինչպես
 default-browser-guidance-notification-dismiss = Պատրաստ է

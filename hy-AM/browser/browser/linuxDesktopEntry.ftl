@@ -9,7 +9,7 @@
 # The entry name is the label on the desktop icon, among other things.
 desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
-desktop-entry-comment-1 = Արագ և անձնական դիտարկիչ
+desktop-entry-comment-1 = Արագ և գաղտնի դիտարկիչ
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Զննի՛ր համաշխարհային սարդոստայնը
 desktop-entry-generic-name = Վեբ դիտարկիչ
