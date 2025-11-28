@@ -33,12 +33,9 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Subtitrări
     .tooltip = Subtitrări
-pictureinpicture-fullscreen-btn2 =
-    .aria-label = Ecran complet
-    .tooltip = Ecran complet (clic dublu sau { $shortcut })
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Ieși din modul de ecran complet
-    .tooltip = Ieși din modul de ecran complet (clic dublu sau { $shortcut })
+    .tooltip = Ieși din modul de ecran complet (dă dublu clic sau { $shortcut })
 
 ##
 
