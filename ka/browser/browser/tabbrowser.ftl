@@ -283,6 +283,20 @@ tab-context-move-tab-to-group =
            *[other] ჩანართების დამატება ჯგუფში
         }
     .accesskey = ჯ
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] გაყოფილი ხედი ახალ ჯგუფში
+           *[other] გაყოფილი ხედები ახალ ჯგუფში
+        }
+    .accesskey = ჯ
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] გაყოფილი ხედი ჯგუფში
+           *[other] გაყოფილი ხედები ჯგუფში
+        }
+    .accesskey = ჯ
 tab-context-move-tab-to-group-saved-groups =
     .label = დახურული ჯგუფები
 tab-group-editor-action-new-tab =
