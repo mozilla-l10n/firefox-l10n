@@ -18,8 +18,8 @@ backup-folder-name = Restabilește { -brand-product-name }
 # profile name and backup date are appended to it:
 #
 # FirefoxBackup_default_20240606-1830.html
-backup-file-name = Copie de rezervă { -brand-product-name }
-settings-data-backup-header = Copie de rezervă
+backup-file-name = Backup_{ -brand-product-name }
+settings-data-backup-header = Backup
 settings-data-backup-toggle = Gestionează copiile de rezervă
 settings-data-backup-toggle-on = Activează copiile de rezervă
 settings-data-backup-toggle-off = Dezactivează copiile de rezervă
@@ -27,8 +27,8 @@ settings-data-backup-trigger-button = Fă o copie de rezervă acum
 settings-data-backup-in-progress-button = Se creează copia de rezervă…
 settings-data-backup-in-progress-message =
     .message = Se creează copia de rezervă…
-settings-data-backup-scheduled-backups-on = Copie de rezervă: Activată
-settings-data-backup-scheduled-backups-off = Copie de rezervă: Dezactivată
+settings-data-backup-scheduled-backups-on = Backup: Activat
+settings-data-backup-scheduled-backups-off = Backup: Dezactivat
 settings-data-backup-scheduled-backups-description = Protejează-ți automat marcajele, istoricul și alte date. <a data-l10n-name="support-link">Află mai multe</a>
 settings-data-backup-last-backup-date = Ultima copie de rezervă: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
@@ -88,7 +88,6 @@ turn-off-scheduled-backups-header = Dezactivezi copiile de rezervă?
 turn-off-scheduled-backups-description = Toate copiile de rezervă vor fi șterse. Acțiunea nu poate fi anulată.
 turn-off-scheduled-backups-support-link = Află mai multe
 turn-off-scheduled-backups-cancel-button = Anulează
-turn-off-scheduled-backups-confirm-button = Dezactivează și șterge copiile de rezervă
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
