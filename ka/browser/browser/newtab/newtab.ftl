@@ -667,6 +667,17 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = ახალი სია
+newtab-widget-section-title = ჩანამატები
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = ჩანამატების დამალვა
+    .aria-label = ყველა ჩანამატის დამალვა
+newtab-widget-section-maximize =
+    .title = ჩანამატების გაშლა
+    .aria-label = ყველა ჩანამატი სრული ზომით
+newtab-widget-section-minimize =
+    .title = ჩანამატების ჩაკეცვა
+    .aria-label = ყველა ჩანამატი შემცირებული ზომით
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = მზა პარამეტრები, რომ გაიმართოს { -brand-shorter-name }. მეტად დამტვირთავია, არ გამოიყენოთ მძიმე სამუშაოების დროს, გამოსადეგია ბრაუზერის ქცევაზე დასაკვირვებლად.
 profiler-popup-presets-debug-label =
     .label = გამართვა
+profiler-popup-presets-web-compat-description = სასურველი მზა პარამეტრები ვებთავსებადობის ხარვეზების მოსაგვარებლად, ნაცვლად წარმადობის მიდევნებისა.
+profiler-popup-presets-web-compat-label =
+    .label = ვებთავსებადობა
 profiler-popup-presets-custom-label =
     .label = მორგებული
 

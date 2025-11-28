@@ -426,6 +426,9 @@ quickactions-cmd-restart = ხელახლა გაშვება
 # Opens the screenshot tool
 quickactions-screenshot3 = ეკრანის სურათის გადაღება
 quickactions-cmd-screenshot2 = ეკრანის სურათი, ეკრანის სურათის გადაღება
+# Opens about:translations
+quickactions-translate = თარგმნა
+quickactions-cmd-translate = თარგმნა
 quickactions-cmd-screenshot = ეკრანის ანაბეჭდი
 # Opens about:preferences
 quickactions-settings2 = პარამეტრების მართვა

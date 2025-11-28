@@ -345,6 +345,25 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = ჯგუფის გახსნა ახალ ფანჯარაში
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = შენიშვნის დამატება
+    .accesskey = ა
+tab-context-edit-note =
+    .label = შენიშვნის ჩასწორება
+    .accesskey = წ
+tab-note-editor-title-create = შენიშვნის დამატება
+tab-note-editor-title-edit = შენიშვნის ჩასწორება
+tab-note-editor-text-field =
+    .placeholder = რა გსურთ ჩაინიშნოთ ამ ჩანართის შესახებ?
+tab-note-editor-button-cancel =
+    .label = გაუქმება
+    .accesskey = ქ
+tab-note-editor-button-save =
+    .label = შენახვა
+    .accesskey = ხ
+
 ## Split View
 
 # Split view tabs display their respective contents side by side

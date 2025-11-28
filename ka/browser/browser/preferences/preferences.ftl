@@ -172,8 +172,32 @@ preferences-manage-profiles-description = თითოეულ პროფი�
 preferences-manage-profiles-learn-more = ვრცლად
 preferences-manage-profiles-button =
     .label = პროფილების მართვა
+preferences-profiles-settings-button =
+    .label = პარამეტრები
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = არსებული პროფილის ასლი
+    .description = ახალი პროფილი გადაიტანს თქვენი პარამეტრების, დამატებების, ისტორიისა და შენახული მონაცემების, მათ შორის სანიშნებისა და პაროლების ასლებს — ოღონდ არა თქვენი ანგარიშისა თუ დასინქრონების მონაცემებს.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = პროფილი ასლისთვის
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = პროფილის არჩევა
+preferences-copy-profile-button = ასლი
 tabs-group-header2 =
     .label = ჩანართები
+tabs-opening-heading =
+    .label = იხსნება
+tabs-interaction-heading =
+    .label = ურთიერთქმედება
+tabs-containers-heading =
+    .label = სათავსები
+tabs-closing-heading =
+    .label = იხურება
 tabs-group-header = ჩანართები
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab წრიულად გადართვა ჩანართებზე ბოლო გამოყენების რიგითობით.
@@ -1057,10 +1081,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = პაროლები
     .searchkeywords = ანგარიშები
+forms-passwords-header =
+    .label = პაროლები
+    .aria-label = პაროლები
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = პაროლის შენახვის მოთხოვნა
     .accesskey = თ
+forms-manage-password-exceptions =
+    .label = პაროლების გამონაკლისების მართვა
+    .accesskey = ვ
 forms-exceptions =
     .label = გამონაკლისები…
     .accesskey = ნ
@@ -1091,12 +1121,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = მომხმარებლის სახელებისა და პაროლების თვითშევსება
     .accesskey = ო
+forms-fill-usernames-and-passwords-2 =
+    .label = მეტსახელებისა თუ პაროლების შენახვა და თვითშევსება
+    .accesskey = მ
 forms-saved-passwords =
     .label = შენახული პაროლები
     .accesskey = ო
+forms-saved-passwords-2 =
+    .label = შენახული პაროლების მართვა
+    .accesskey = უ
+forms-saved-passwords-searchkeywords = საიტები, რომელთა ანგარიშის მონაცემებიც თქვენს კომპიუტერში ინახება
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = დამატებითი უსაფრთხოება
 forms-primary-pw-use =
     .label = მთავარი პაროლის გამოყენება
     .accesskey = გ
+forms-primary-pw-set =
+    .label = მთავარი პაროლის დაყენება
+forms-primary-pw-on =
+    .label = მთავარი პაროლი ᲩᲐᲠᲗ.
+forms-primary-pw-change-2 =
+    .label = ჩემი პაროლის შეცვლა
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = გამორთვა
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = საჭიროა მოწყობილობით დამოწმება პაროლების შესავსებად და სამართავად
@@ -1162,6 +1211,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = შეინახეთ და შეავსეთ გადახდის მონაცემები
     .accesskey = დ
+autofill-payment-methods-manage-payments-title =
+    .heading = გადახდის საშუალებების მართვა
 autofill-payment-methods-manage-payments-button =
     .label = გადახდის საშუალებების მართვა
     .accesskey = მ
@@ -1169,6 +1220,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = საჭიროა მოწყობილობით დამოწმება გადახდის მონაცემების შესავსებად და სამართავად
     .accesskey = ვ
+autofill-payment-methods-add-button = გადახდის საშუალების დამატება
+payments-list-header =
+    .label = გადახდის საშუალებები
+payments-list-item-label = <strong>გადახდის საშუალებები</strong>
+payments-remove-payment-prompt-title = მოცილდეს გადახდის ეს საშუალება?
+payments-remove-payment-prompt-confirm-button = მოცილება
+payments-remove-payment-prompt-cancel-button = გაუქმება
 autofill-addresses-title = მისამართები და სხვა
 autofill-addresses-header =
     .aria-label = მისამართები და სხვა
@@ -1178,6 +1236,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = მისამართების მართვა და სხვა
     .accesskey = მ
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
