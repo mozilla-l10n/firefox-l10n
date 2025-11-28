@@ -169,6 +169,8 @@ extensions-warning-update-security-button = Myandy
 extensions-warning-imported-addons2 =
     .message = Emohu’ã jepysokue guerupyre ñemohenda { -brand-short-name } peve
 extensions-warning-imported-addons-button = Emohenda Jepysokue
+extensions-warning-safe-mode3 =
+    .message = Opaite jepysokue oñemboguepáma apañuái ñemoĩporã rekópe.
 
 ## Strings connected to add-on updates
 
@@ -517,8 +519,12 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Maranduve
 details-notification-blocked = { $name } oñemongéma oguereko rupi apañuái tekorosãrã térã tekopytápe.
 details-notification-blocked-link2 = Mba’emimi jehechauka
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Ko jepysokue ojejokóma ha upévare ojeipe’áma. Ikatu emyandy jey, hákatu iñapañuaikuaa.
 details-notification-soft-blocked-extension-enabled2 =
     .message = Ko jepysokue ojejokóma. Eiporúramo imarãkuaa.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Ko moĩmbaha ojejokóma ha upévare ojeipe’áma. Ikatu emyandy jey, hákatu iñapañuaikuaa.
 details-notification-soft-blocked-other-enabled2 =
     .message = Ko jepysokue ojejokóma. Eiporúramo imarãkuaa.
 details-notification-soft-blocked-extension-disabled =
