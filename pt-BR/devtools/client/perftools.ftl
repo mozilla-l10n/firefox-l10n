@@ -152,4 +152,5 @@ perftools-presets-power-description = Ajuste prévio para investigar bugs de uso
 perftools-presets-debug-label = Debug
 perftools-presets-debug-description = Configuração prévia de depuração no { -brand-shorter-name }. Alta sobrecarga, não usar para analisar desempenho, útil para se concentrar em entender o comportamento do navegador.
 perftools-presets-web-compat-label = Compatibilidade web
+perftools-presets-web-compat-description = Ajuste prévio recomendado para depurar problemas de compatibilidade na web em sites, em vez de acompanhar desempenho.
 perftools-presets-custom-label = Personalizado

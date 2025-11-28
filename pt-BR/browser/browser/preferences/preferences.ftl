@@ -60,6 +60,7 @@ pane-experimental-description2 = Alterar configurações avançadas pode afetar 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Experimente nossos recursos experimentais! Eles estão em desenvolvimento e evolução, o que pode afetar o funcionamento do { -brand-short-name }. Só recebemos dados sobre seu uso desses recursos se você tiver ativado os <a data-l10n-name="data-collection">dados técnicos e de interação</a>.
 pane-experimental-description3 = Experimente nossos recursos experimentais! Eles estão em desenvolvimento e evolução, podendo afetar o funcionamento do { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar padrão
