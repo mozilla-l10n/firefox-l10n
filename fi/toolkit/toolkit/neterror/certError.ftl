@@ -107,6 +107,12 @@ fp-cert-error-code = Virhekoodi: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } ei luota sivustoon { $hostname }, koska se ei pystynyt todistamaan, että se täyttää julkisen varmenteen läpinäkyvyysvaatimukset.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Luultavasti ei mitään, koska todennäköisesti ongelma on itse sivustossa.
 fp-learn-more-about-secure-connection-failures = Lue lisää suojatun yhteyden virheistä
 fp-learn-more-about-cert-issues = Lue lisää tällaisista varmenneongelmista
 fp-learn-more-about-time-related-errors = Lue lisää aikaan liittyvien virheiden vianetsinnästä
