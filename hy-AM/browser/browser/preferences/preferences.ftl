@@ -1153,6 +1153,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Կառավարել բացառությունները...
+    .accesskey = x
+    .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
 
 ## Privacy Section - Cookie Banner Blocking
 
