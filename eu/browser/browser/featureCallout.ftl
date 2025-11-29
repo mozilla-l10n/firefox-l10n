@@ -66,13 +66,28 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = Aukera gehiago
 
+## Login Status Advisory Callout (points to the account icon)
+
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Saioa hasi gabe duzu. Saioa hasteko, egin klik kontuaren ikonoan.
+
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Gehitu gune hau laster-marken tresna-barran?
+bookmarks-toolbar-callout-1-subtitle = Zure laster-marka helbide-barraren azpian gordeko da sarbide azkarra izan dezazun.
 bookmarks-toolbar-callout-1-primary-button-label = Gehitu laster-marka
 bookmarks-toolbar-callout-1-secondary-button-label = Ez, eskerrik asko
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Gehitu laster-marka gehiago modu errazean
+bookmarks-toolbar-callout-2a-subtitle = Fitxak hona arrasta ditzakezu zure gogoko gune gehiago esku-eskura izateko.
 bookmarks-toolbar-callout-2a-primary-button-label = Ulertuta
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Ezkutatu tresna-barra
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Mantendu irekita laster-marken tresna barra?
+bookmarks-toolbar-callout-2b-subtitle = Sarri bisitatzen dituzun beste guneak gehi ditzakezu. Arrastatu eta jaregin fitxak hona zure webgune gogokoenak esku-eskura izateko.
 bookmarks-toolbar-callout-2b-primary-button-label = Mantendu irekita
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Ez, eskerrik asko
