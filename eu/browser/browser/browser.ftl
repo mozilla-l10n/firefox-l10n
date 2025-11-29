@@ -252,7 +252,7 @@ urlbar-screen-blocked =
 urlbar-persistent-storage-blocked =
     .tooltiptext = Datuen biltegiratze iraunkorra blokeatuta daukazu webgune honetarako.
 urlbar-popup-blocked =
-    .tooltiptext = Popup leihoak blokeatuta dauzkazu webgune honetarako.
+    .tooltiptext = Laster-leihoak blokeatuta dauzkazu webgune honetarako.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Soinudun multimedia automatikoki erreproduzitzea blokeatuta daukazu gune honetarako.
 urlbar-canvas-blocked =
@@ -1136,10 +1136,10 @@ ui-tour-info-panel-close =
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow =
-    .label = Baimendu popup leihoak { $uriHost }(e)rako
+    .label = Baimendu laster-leihoak { $uriHost } ostalarirako
     .accesskey = p
 popups-infobar-block =
-    .label = Blokeatu popup leihoak { $uriHost }(e)rako
+    .label = Blokeatu laster-leihoak { $uriHost } ostalarirako
     .accesskey = p
 popups-infobar-allow2 =
     .label = Baimendu laster-leihoak eta hirugarrenen birbideratzeak { $uriHost } ostalarirako
@@ -1148,10 +1148,10 @@ popups-infobar-allow2 =
 ##
 
 popups-infobar-dont-show-message =
-    .label = Ez erakutsi mezu hau popup leihoak blokeatzerakoan
+    .label = Ez erakutsi mezu hau laster-leihoak blokeatzerakoan
     .accesskey = z
 edit-popup-settings =
-    .label = Kudeatu popup leihoen ezarpenak…
+    .label = Kudeatu laster-leihoen ezarpenak…
     .accesskey = K
 picture-in-picture-hide-toggle =
     .label = Ezkutatu bideoa beste leiho batean txandakatzeko botoia
@@ -1327,13 +1327,13 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message =
     { $popupCount ->
-        [one] { -brand-short-name }(e)k galarazi egin du gune honek pop-up leiho bat irekitzea.
-       *[other] { -brand-short-name }(e)k galarazi egin du gune honek { $popupCount } pop-up leiho irekitzea.
+        [one] { -brand-short-name }(e)k galarazi egin du gune honek laster-leiho bat irekitzea.
+       *[other] { -brand-short-name }(e)k galarazi egin du gune honek { $popupCount } laster-leiho irekitzea.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
-popup-warning-exceeded-message = { -brand-short-name }(e)k galarazi egin du gune honek { $popupCount } pop-up leiho baino gehiago irekitzea.
+popup-warning-exceeded-message = { -brand-short-name }(e)k galarazi egin du gune honek { $popupCount } laster-leiho baino gehiago irekitzea.
 popup-warning-button =
     .label =
         { PLATFORM() ->

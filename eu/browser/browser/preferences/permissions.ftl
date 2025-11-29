@@ -96,9 +96,9 @@ permissions-exceptions-https-only-desc2 = HTTPS-Only modua desgai dezakezu gune 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
-    .title = Baimendutako webguneak - Popup-ak
+    .title = Baimendutako webguneak - Laster-leihoak
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Popup leihoak irekitzeko baimena duten webguneak ezar daitezke hemen. Idatzi baimendu behar duzun webgunearen helbide zehatza eta egin klik 'Baimendu' botoian.
+permissions-exceptions-popup-desc = Laster-leihoak irekitzeko baimena duten webguneak ezar daitezke hemen. Idatzi baimendu behar duzun webgunearen helbide zehatza eta egin klik 'Baimendu' botoian.
 
 ## Exceptions - Saved Logins
 

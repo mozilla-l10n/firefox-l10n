@@ -51,6 +51,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Eskuratu doako posta-maskara
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Eman izena
     .accesskey = z

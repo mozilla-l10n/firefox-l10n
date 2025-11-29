@@ -406,7 +406,7 @@ newtab-wallpaper-feature-highlight-button = Ulertuta
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
     .title = Utzi
-    .aria-label = Itxi laster-lehioa
+    .aria-label = Itxi laster-leihoa
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
