@@ -426,6 +426,9 @@ quickactions-cmd-restart = uruchom ponownie, ponowne uruchomienie, zrestartuj, r
 # Opens the screenshot tool
 quickactions-screenshot3 = Wykonaj zrzut ekranu
 quickactions-cmd-screenshot2 = zrzut ekranu, wykonaj zrzut ekranu
+# Opens about:translations
+quickactions-translate = Przetłumacz
+quickactions-cmd-translate = przetłumacz, tłumacz, tłumaczenie, przełóż, przekład
 quickactions-cmd-screenshot = zrzut ekranu, screenshot, skrin
 # Opens about:preferences
 quickactions-settings2 = Zarządzaj ustawieniami

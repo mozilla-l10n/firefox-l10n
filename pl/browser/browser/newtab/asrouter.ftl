@@ -76,6 +76,8 @@ fxa-adoption-addresses-backup-title = Utwórz kopię zapasową zachowanych adres
 fxa-adoption-addresses-backup-subtitle = Chroń swoje zachowane adresy, synchronizując je ze swoimi urządzeniami za pomocą szyfrowania.
 fxa-adoption-credit-cards-backup-title = Utwórz kopię zapasową metod płatności
 fxa-adoption-credit-cards-backup-subtitle = Chroń swoje metody płatności, synchronizując je ze swoimi urządzeniami za pomocą szyfrowania.
+fxa-adoption-bookmarks-treatment-backup-title = Utwórz kopię zapasową zakładek
+fxa-adoption-bookmarks-treatment-backup-subtitle = Chroń swoje zakładki, synchronizując je ze swoimi urządzeniami za pomocą szyfrowania.
 fxa-adoption-primary-button-label = Utwórz konto
 
 ## Protections panel
