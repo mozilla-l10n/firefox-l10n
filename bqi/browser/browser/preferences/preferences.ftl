@@ -45,6 +45,10 @@ network-proxy-connection-settings =
     .label = سامووا…
     .accesskey = e
 
+## Home Section
+
+home-new-windows-tabs-header = نیمدری یل وو بلگه یل نۊ
+
 ## Custom Homepage subpage
 
 home-newtabs-mode-label = بلگه یل نۊ

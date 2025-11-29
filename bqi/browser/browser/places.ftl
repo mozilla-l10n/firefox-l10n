@@ -8,6 +8,9 @@ places-open-in-tab =
 places-open-in-window =
     .label = گۊشیڌن من نیمدری نۊ
     .accesskey = N
+places-open-in-private-window =
+    .label = گۊشیڌن من نیمدری سیخومی نۊ
+    .accesskey = P
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = آلشت نشووک…

@@ -11,3 +11,7 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = ٱووردن { $extension }؟
+
+## Headers used in the webextension permissions dialog, inside the content.
+
+webext-perms-header-optional-required-perms = موجوزا نۊ:
