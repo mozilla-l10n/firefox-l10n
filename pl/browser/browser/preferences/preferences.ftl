@@ -1088,7 +1088,7 @@ forms-ask-to-save-passwords =
     .label = Pytanie o zachowywanie haseł
     .accesskey = P
 forms-manage-password-exceptions =
-    .label = Zarządzaj wyjątkami
+    .label = Zarządzaj wyjątkami zachowywania haseł
     .accesskey = Z
 forms-exceptions =
     .label = Wyjątki…
@@ -1617,6 +1617,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokowanie wyskakujących okien i zewnętrznych przekierowań
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Zarządzaj wyjątkami blokowania wyskakujących okien i zewnętrznych przekierowań
+    .accesskey = t
+    .searchkeywords = popups pop-ups wyskakujące przekierowania
+permissions-addon-install-warning2 =
+    .label = Ostrzeganie, gdy witryny próbują instalować rozszerzenia
+    .accesskey = O
+permissions-addon-exceptions2 =
+    .label = Wybierz, które witryny mogą instalować rozszerzenia
+    .accesskey = W
 permissions-block-popups =
     .label = Blokowanie wyskakujących okien
     .accesskey = B
@@ -1632,6 +1644,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wyjątki…
     .accesskey = W
+permissions-header2 =
+    .label = Uprawnienia
+    .description = Uprawnienia nadane przeglądanym witrynom.
 permissions-location2 =
     .label = Położenie
 permissions-localhost2 =
@@ -1644,6 +1659,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Głośniki
 permissions-notification2 =
     .label = Powiadomienia.
 
