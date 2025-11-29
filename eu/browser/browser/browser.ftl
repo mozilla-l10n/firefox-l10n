@@ -752,6 +752,27 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> { $city }(e)n, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> { $city }(e)n
 # Shows the name of the provider of weather data in a weather suggestion in the
 # urlbar.
 # Variables:
@@ -780,6 +801,36 @@ urlbar-result-dismissal-acknowledgment-all = Eskerrik asko zure iritziagatik. He
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Egun { $daysUntilStart } barru
+       *[other] { $name } · { $daysUntilStart } egun barru
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Egun { $daysUntilStart } barru hasten da
+       *[other] { $name } · { $daysUntilStart } egun barru hasten da
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Egun { $daysUntilStart } barru bukatzen da
+       *[other] { $name } · { $daysUntilStart } egun barru bukatzen da
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
@@ -1090,6 +1141,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blokeatu popup leihoak { $uriHost }(e)rako
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Baimendu laster-leihoak eta hirugarrenen birbideratzeak { $uriHost } ostalarirako
+    .accesskey = s
 
 ##
 
@@ -1254,6 +1308,7 @@ firefox-relay-offer-why-to-use-relay = Gure maskara seguru eta erabilerrazak zur
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Zure helbide elektronikoko maskaretara bidalitako mezu elektroniko guztiak <strong>{ $useremail }</strong> helbidera birbidaliko dira (blokeatzea erabaki ezean).
 firefox-relay-offer-legal-notice = "Erabili posta-maskara" aukeratzean, <label data-l10n-name="tos-url">Zerbitzu-baldintzak</label> eta <label data-l10n-name="privacy-url">Pribatutasun-oharra </label> onartzen dituzu.
+firefox-relay-offer-legal-notice-1 = Izena eman eta posta-maskara bat sortzearekin bat, <label data-l10n-name="tos-url">Zerbitzu-baldintzak</label> eta <label data-l10n-name="privacy-url">Pribatutasun-oharra </label> onartzen dituzu.
 
 ## Add-on Pop-up Notifications
 
@@ -1294,6 +1349,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Erakutsi '{ $popupURI }'
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Erakutsi "{ $redirectURI }"
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1336,6 +1395,7 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Jarraipenaren babes hobetua: desaktibatuta { $host } ostalarirako
 trustpanel-etp-description-enabled = Zerbaitek apurtuta badirudi gune honetan, saiatu babesak desaktibatzen.
+trustpanel-etp-description-disabled = { -brand-product-name }(e)k uste du enpresek zure jarraipena gutxitu beharko luketela. Ahal bezainbeste jarraipen-elementu blokeatzen ditugu babesak aktibatzen dituzunean.
 trustpanel-connection-label-secure = Konexio segurua
 trustpanel-connection-label-insecure = Konexio ez-segurua
 trustpanel-header-enabled = { -brand-product-name } guardian dago
@@ -1344,6 +1404,10 @@ trustpanel-header-disabled = Babesak desgaitu dituzu
 trustpanel-description-disabled = { -brand-product-name } ez dago guardian. Babesak berriro ere aktibatzea gomendatzen dugu.
 trustpanel-clear-cookies-button = Garbitu cookieak eta guneetako datuak
 trustpanel-privacy-link = Pribatutasun-ezarpenak
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Garbitu cookieak eta gunearen datuak { $host } ostalarirako
 trustpanel-clear-cookies-subview-button-clear = Garbitu
 trustpanel-clear-cookies-subview-button-cancel = Utzi
 # Variables
