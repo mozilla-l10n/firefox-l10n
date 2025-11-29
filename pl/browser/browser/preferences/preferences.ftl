@@ -60,6 +60,7 @@ pane-experimental-description2 = Modyfikacja zaawansowanych ustawień może wpł
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Wypróbuj nasze funkcje eksperymentalne! Są w fazie rozwoju i ciągłej zmiany, co może mieć wpływ na działanie { -brand-short-name(case: "gen") }. Otrzymujemy dane o tym, jak użytkownik korzysta z tych funkcji wyłącznie wtedy, gdy opcja <a data-l10n-name="data-collection">wysyłania danych technicznych i o interakcjach</a> jest włączona.
 pane-experimental-description3 = Wypróbuj nasze funkcje eksperymentalne! Są w fazie rozwoju i ciągłej zmiany, co może mieć wpływ na działanie { -brand-short-name(case: "gen") }.
 pane-experimental-reset =
     .label = Przywróć domyślne
@@ -113,6 +114,7 @@ extension-controlling-proxy-config = Rozszerzenie <img data-l10n-name="icon"/> 
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Aby włączyć rozszerzenie, przejdź do sekcji dodatki <img data-l10n-name="addons-icon"/> w menu <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Aby ponownie włączyć to rozszerzenie, otwórz <a data-l10n-name="addons-link">Rozszerzenia i motywy</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = Rozszerzenie „{ $name }” kontroluje część ustawień strony startowej.
@@ -170,8 +172,27 @@ preferences-manage-profiles-description = Każdy profil ma osobne dane przegląd
 preferences-manage-profiles-learn-more = Więcej informacji
 preferences-manage-profiles-button =
     .label = Zarządzaj profilami
+preferences-profiles-settings-button =
+    .label = Ustawienia
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopiowanie istniejącego profilu
+    .description = Nowy profil skopiuje ustawienia, dodatki, historię i zachowane dane, takie jak zakładki i hasła — ale nie skopiuje konta ani informacji o synchronizacji.
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Wybierz profil
+preferences-copy-profile-button = Kopiuj
 tabs-group-header2 =
     .label = Karty
+tabs-opening-heading =
+    .label = Otwieranie
+tabs-interaction-heading =
+    .label = Interakcje
+tabs-containers-heading =
+    .label = Konteksty
+tabs-closing-heading =
+    .label = Zamykanie
 tabs-group-header = Karty
 ctrl-tab-recently-used-order =
     .label = Przełączanie kart za pomocą Ctrl+Tab w kolejności ostatnich wyświetleń
@@ -684,6 +705,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Zachowane i odwiedzane strony.
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorowane skróty
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -729,14 +752,24 @@ home-prefs-weather-header =
     .label = Pogoda
 home-prefs-weather-description = Dzisiejsza prognoza w skrócie
 home-prefs-weather-learn-more-link = Więcej informacji
+home-prefs-widgets-header =
+    .label = Widżety
 home-prefs-trending-search-header =
     .label = Popularne wyszukiwania
 home-prefs-trending-search-description = Popularne i często wyszukiwane tematy
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listy
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Minutnik
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Wspieraj { -brand-product-name(case: "acc") }
 home-prefs-mission-message = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci.
 home-prefs-mission-message-learn-more-link = Więcej informacji
+home-prefs-mission-message2 =
+    .message = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci.
 home-prefs-manage-topics-link = Zarządzaj tematami
 home-prefs-choose-wallpaper-link = Wybierz tapetę
 # Variables:
@@ -1047,6 +1080,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Hasła
     .searchkeywords = dane logowania
+forms-passwords-header =
+    .label = Hasła
+    .aria-label = Hasła
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Pytanie o zachowywanie haseł
