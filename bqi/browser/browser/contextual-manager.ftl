@@ -9,6 +9,10 @@ contextual-manager-passwords-command-settings = سامووا
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = آلشت رزم زفت وابیڌه
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = نۊ: { $added }، ورۊ وابیڌه: { $modified }
 contextual-manager-passwords-import-success-button = ٱنجوم وابی
 contextual-manager-passwords-import-error-button-cancel = لقو
 contextual-manager-passwords-export-success-button = ٱنجوم وابی

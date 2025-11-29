@@ -58,6 +58,10 @@ appmenu-fxa-setup-sync-new = رۊشن کردن
 appmenuitem-save-page =
     .label = زفت کردن بلگه و عونوان…
 
+## What's New panel in App menu.
+
+whatsnew-panel-header = چ چیه نۊ هڌ
+
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
@@ -121,5 +125,7 @@ appmenu-developer-tools-extensions =
 
 ## Profiles panel
 
+appmenu-create-profile =
+    .label = پوروفایل نۊ
 appmenu-edit-profile =
     .aria-label = آلشت پوروفایل

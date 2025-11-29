@@ -755,6 +755,14 @@ toolbar-overflow-customize-button =
 eme-notifications-drm-content-playing-manage = دؽوۉداری سامووا
 eme-notifications-drm-content-playing-manage-accesskey = M
 
+##
+
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = بلگه نۊ
+
 ## Unified extensions (toolbar) button
 
 unified-extensions-button =
