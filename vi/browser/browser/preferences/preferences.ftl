@@ -172,8 +172,32 @@ preferences-manage-profiles-description = Mỗi hồ sơ có dữ liệu duyệt
 preferences-manage-profiles-learn-more = Tìm hiểu thêm
 preferences-manage-profiles-button =
     .label = Quản lý hồ sơ
+preferences-profiles-settings-button =
+    .label = Cài đặt
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Sao chép hồ sơ hiện tại
+    .description = Hồ sơ mới sẽ sao chép cài đặt, tiện ích mở rộng, lịch sử và dữ liệu đã lưu như dấu trang và mật khẩu — nhưng không sao chép thông tin tài khoản hoặc đồng bộ hóa của bạn.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Hồ sơ để sao chép
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Chọn hồ sơ
+preferences-copy-profile-button = Sao chép
 tabs-group-header2 =
     .label = Thẻ
+tabs-opening-heading =
+    .label = Mở
+tabs-interaction-heading =
+    .label = Tương tác
+tabs-containers-heading =
+    .label = Ngăn chứa
+tabs-closing-heading =
+    .label = Đóng
 tabs-group-header = Thẻ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab để chuyển qua các thẻ theo thứ tự sử dụng gần đây nhất

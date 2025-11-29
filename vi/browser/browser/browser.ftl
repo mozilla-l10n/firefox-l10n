@@ -426,6 +426,9 @@ quickactions-cmd-restart = khởi động lại, khoi dong lai
 # Opens the screenshot tool
 quickactions-screenshot3 = Chụp ảnh màn hình
 quickactions-cmd-screenshot2 = chụp màn hình, chup man hinh, ảnh chụp màn hình, anh chup man hinh, screenshot
+# Opens about:translations
+quickactions-translate = Dịch
+quickactions-cmd-translate = dịch
 quickactions-cmd-screenshot = chụp ảnh màn hình, chup anh man hinh
 # Opens about:preferences
 quickactions-settings2 = Quản lý cài đặt
