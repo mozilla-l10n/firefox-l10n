@@ -305,6 +305,20 @@ tab-context-move-tab-to-group =
            *[other] Dodaj karty do grupy
         }
     .accesskey = D
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Dodaj podzielony widok do nowej grupy
+           *[other] Dodaj podzielone widoki do nowej grupy
+        }
+    .accesskey = g
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Dodaj podzielony widok do grupy
+           *[other] Dodaj podzielone widoki do grupy
+        }
+    .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
     .label = Zamknięte grupy
 tab-group-editor-action-new-tab =
@@ -368,6 +382,19 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Otwórz grupę w nowym oknie
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Dodaj notatkę
+    .accesskey = n
+tab-context-edit-note =
+    .label = Edytuj notatkę
+    .accesskey = E
+tab-note-editor-title-create = Dodaj notatkę
+tab-note-editor-title-edit = Edytuj notatkę
+tab-note-editor-text-field =
+    .placeholder = Co chcesz pamiętać o tej karcie?
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -386,3 +413,12 @@ tab-context-separate-split-view =
     .label = Rozdziel widok
     .accesskey = R
 tab-context-badge-new = Nowe
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Rozdziel karty
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Odwróć kolejność kart
