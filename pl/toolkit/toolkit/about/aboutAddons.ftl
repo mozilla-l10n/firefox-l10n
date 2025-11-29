@@ -287,6 +287,10 @@ colorway-removal-notice-message =
     .message = Kolekcja kolorystyk { -brand-product-name(case: "gen") } została odświeżona. Usunęliśmy stare wersje z listy „Zachowane motywy”. Na witrynie z dodatkami znajdziesz nowe.
 colorway-removal-notice-learn-more = Więcej informacji
 colorway-removal-notice-button = Pobierz odświeżone kolorystyki
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Ustawienia kontrastu systemu Windows zastępują motywy { -brand-short-name(case: "gen") }. Wyłącz te ustawienia, aby móc korzystać z motywów w { -brand-short-name(case: "loc") }.
 privacy-policy = Zasady ochrony prywatności
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -530,6 +534,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Więcej informacji
 details-notification-blocked = Dodatek „{ $name }” został wyłączony z powodu problemów z bezpieczeństwem lub stabilnością.
 details-notification-blocked-link2 = Szczegóły
+details-notification-soft-blocked-extension-disabled2 =
+    .message = To rozszerzenie jest ograniczone i zostało wyłączone. Można je włączyć, ale może to być ryzykowne.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = To rozszerzenie jest ograniczone. Korzystanie z niego może być ryzykowne.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Ten dodatek jest ograniczony i został wyłączony. Można go włączyć, ale może to być ryzykowne.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Ten dodatek jest ograniczony. Korzystanie z niego może być ryzykowne.
 details-notification-soft-blocked-extension-disabled =
     .message = To rozszerzenie jest ograniczone z powodu naruszania zasad Mozilli i zostało wyłączone. Można je włączyć, ale może to być ryzykowne.
 details-notification-soft-blocked-extension-enabled =

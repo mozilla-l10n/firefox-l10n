@@ -20,12 +20,22 @@ fxa-menu-connect-another-device =
     .label = Połącz inne urządzenie…
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-device =
+    .label =
+        { $tabCount ->
+            [one] Wyślij na urządzenie
+            [few] Wyślij { $tabCount } karty na urządzenie
+           *[many] Wyślij { $tabCount } kart na urządzenie
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->
-            [one] Wyślij kartę do
-            [few] Wyślij { $tabCount } karty do
-           *[many] Wyślij { $tabCount } kart do
+            [one] Wyślij kartę na urządzenie
+            [few] Wyślij { $tabCount } karty na urządzenie
+           *[many] Wyślij { $tabCount } kart na urządzenie
         }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =

@@ -158,4 +158,6 @@ perftools-presets-power-label = Energia
 perftools-presets-power-description = Ustawienie do badania błędów użycia energii w { -brand-shorter-name(case: "loc") } o niskim wpływie na wydajność.
 perftools-presets-debug-label = Debugowanie
 perftools-presets-debug-description = Ustawienie do debugowania w { -brand-shorter-name(case: "loc") }. Wysoki wpływ na wydajność. Nie należy używać do pracy nad wydajnością, tylko do zrozumienia zachowania przeglądarki.
+perftools-presets-web-compat-label = Zgodność w Internecie
+perftools-presets-web-compat-description = Zalecane ustawienie do debugowania problemów ze zgodnością stron internetowych, a nie do śledzenia wydajności.
 perftools-presets-custom-label = Inne
