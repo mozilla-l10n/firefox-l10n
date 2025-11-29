@@ -146,6 +146,11 @@ backup-service-error-recovery-failed =
     .message = โปรดเริ่ม { -brand-short-name } ใหม่แล้วลองเรียกคืนข้อมูลสำรองของคุณอีกครั้ง
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = เอิ่ม มีปัญหากับการสำรองข้อมูล
+    .message = โปรดลองอีกครั้งในอีกไม่กี่นาที
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
 backup-service-error-went-wrong =
     .heading = มีบางอย่างผิดพลาด
     .message = มีปัญหากับกระบวนการสำรองข้อมูลสำหรับ { -brand-short-name } โปรดลองอีกครั้งหรือเริ่ม { -brand-short-name } ใหม่
@@ -155,3 +160,31 @@ backup-service-error-went-wrong =
 enable-backup-encryption-header = สำรองข้อมูลที่ละเอียดอ่อนของคุณ
 enable-backup-encryption-support-link = เรียนรู้เพิ่มเติม
 enable-backup-encryption-create-password-label = รหัสผ่าน
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = ทวนรหัสผ่าน
+enable-backup-encryption-cancel-button = ยกเลิก
+enable-backup-encryption-confirm-button = บันทึก
+change-backup-encryption-header = เปลี่ยนรหัสผ่านข้อมูลสำรอง
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = ข้อกำหนดรหัสผ่าน
+password-rules-length-description = อย่างน้อย 8 ตัวอักษร
+password-rules-email-description = ไม่ใช่ที่อยู่อีเมลของคุณ
+password-rules-disclaimer = รักษาความปลอดภัยด้วยการไม่ใช้รหัสผ่านซ้ำ ดูเคล็ดลับในการ<a data-l10n-name="password-support-link">สร้างรหัสผ่านที่รัดกุม</a>เพิ่ม
+password-validity-has-email = ต้องไม่เป็นที่อยู่อีเมล
+password-validity-do-not-match = รหัสผ่านไม่ตรงกัน
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = สำเร็จ
+password-rules-a11y-warning =
+    .alt = คำเตือน
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = เอาการปกป้องด้วยรหัสผ่านออก
+disable-backup-encryption-description2 = รหัสผ่านและวิธีการชำระเงินที่คุณบันทึกไว้จะไม่ถูกสำรองอีกต่อไป
+disable-backup-encryption-support-link = จะมีการสำรองข้อมูลอะไรบ้าง?
+disable-backup-encryption-cancel-button = ยกเลิก

@@ -178,6 +178,11 @@ preferences-profiles-settings-button =
 preferences-copy-profile-header =
     .label = Kopiowanie istniejącego profilu
     .description = Nowy profil skopiuje ustawienia, dodatki, historię i zachowane dane, takie jak zakładki i hasła — ale nie skopiuje konta ani informacji o synchronizacji.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profil do skopiowania
 # This string is a placeholder that will be shown in a drop-down list of
 # profiles. The user will select a profile, then click the copy button
 # to make a copy of that profile.
