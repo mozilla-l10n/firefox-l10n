@@ -188,3 +188,60 @@ disable-backup-encryption-header = เอาการปกป้องด้ว
 disable-backup-encryption-description2 = รหัสผ่านและวิธีการชำระเงินที่คุณบันทึกไว้จะไม่ถูกสำรองอีกต่อไป
 disable-backup-encryption-support-link = จะมีการสำรองข้อมูลอะไรบ้าง?
 disable-backup-encryption-cancel-button = ยกเลิก
+disable-backup-encryption-confirm-button = ลบรหัสผ่าน
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = รหัสผ่านของคุณไม่ตรงตามข้อกำหนด โปรดลองใช้รหัสผ่านอื่น
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = มีบางอย่างผิดปกติ โปรดลองอีกครั้ง
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } พร้อมที่จะเรียกคืนแล้ว
+backup-file-title = เรียกคืน { -brand-short-name }
+backup-file-intro = กลับไปเรียกดูและกู้คืนที่คั่นหน้า ประวัติ และข้อมูลอื่น ๆ ของคุณโดยอัตโนมัติ <a data-l10n-name="backup-file-support-link">เรียนรู้เพิ่มเติม</a>
+backup-file-path-label = ไฟล์ข้อมูลสำรอง:
+backup-file-encryption-state-label = เข้ารหัสลับ:
+backup-file-encryption-state-value-encrypted = ใช่
+backup-file-encryption-state-value-not-encrypted = ไม่
+backup-file-creation-device-label = อุปกรณ์:
+backup-file-creation-date-label = สร้างเมื่อ:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = วิธีการเรียกคืน:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = เปิดเมนูแอปพลิเคชัน ☰ และไปที่ การตั้งค่า > การซิงค์
+backup-file-moz-browser-restore-step-2 = คลิก “เลือกไฟล์ข้อมูลสำรอง” และเลือกไฟล์นี้
+backup-file-moz-browser-restore-step-3 = เริ่มการทำงาน { -brand-short-name } ใหม่เมื่อได้รับการร้องขอ
+backup-file-other-browser-restore-step-1 = ดาวน์โหลดและติดตั้ง { -brand-short-name }
+backup-file-download-moz-browser-button = ดาวน์โหลด
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = เริ่ม { -brand-short-name } เปิดเมนูแอปพลิเคชัน ☰ และไปที่ การตั้งค่า > การซิงค์
+backup-file-other-browser-restore-step-3 = คลิก “เลือกไฟล์ข้อมูลสำรอง” และเลือกไฟล์นี้
+backup-file-other-browser-restore-step-4 = เริ่มการทำงาน { -brand-short-name } ใหม่เมื่อได้รับการร้องขอ
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds = <b>หมายเหตุ:</b> พบไฟล์ข้อมูลสำรองอื่นอีก { $numberOfOtherBackupsFound } ไฟล์
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = สร้างเมื่อ { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } บน { $machineName }
+backup-file-restore-file-validation-error = ไฟล์นี้ใช้งานไม่ได้ โปรดลองเลือกไฟล์อื่น <a data-l10n-name="restore-problems">ยังมีปัญหาอยู่ใช่ไหม?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = ไม่ได้เลือกไฟล์
