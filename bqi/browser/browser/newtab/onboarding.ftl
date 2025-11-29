@@ -40,6 +40,10 @@ mr2022-onboarding-live-language-switch-to = آلشت و { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = رئڌن وا پؽش من { $appLanguage }
 onboarding-live-language-secondary-cancel-download = لقو
 
+## MR2022 Multistage Gratitude screen strings
+
+mr2022-onboarding-gratitude-primary-button-label = چیا نۊ ن بنیرین
+
 ## UI strings for the sidebar and vertical tabs
 
 onboarding-flair-text = نۊ!

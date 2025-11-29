@@ -19,6 +19,15 @@ cfr-doorhanger-extension-notification2 = پؽشنهاڌ
 
 cfr-protections-panel-link-text = قلوه دووسته بۊین
 
+## What's New toolbar button and panel
+
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = ویژیی یل نۊ
+cfr-whatsnew-button =
+    .label = چ چیه نۊ هڌ
+    .tooltiptext = چ چیه نۊ هڌ
+
 ## Cookie Banner Handling CFR
 
 cookie-banner-blocker-onboarding-learn-more = قلوه دووسته بۊین

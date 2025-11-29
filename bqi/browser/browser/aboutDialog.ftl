@@ -4,7 +4,7 @@
 
 aboutDialog-title =
     .title = زبار { -brand-full-name }
-releaseNotes-link = چیا نۊ
+releaseNotes-link = چ چیه نۊ هڌ
 update-checkForUpdatesButton =
     .label = واجۊری سی ورۊ رسۊوی
     .accesskey = C

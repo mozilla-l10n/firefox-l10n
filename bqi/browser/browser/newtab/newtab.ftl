@@ -59,6 +59,8 @@ newtab-custom-settings = دؽوۉداری سامووا قلوه
 ## New Tab Weather
 
 newtab-weather-menu-learn-more = قلوه دووسته بۊین
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = شئر نیویورک
 
 ## Topic Selection Modal
 
@@ -79,9 +81,16 @@ newtab-widget-lists-label-new =
     .label = نۊ
 newtab-widget-task-list-menu-copy = لف گیری
 newtab-widget-lists-menu-edit = آلشت نومگه نوم
+newtab-widget-lists-menu-create = وورکل ی نومگه نۊ
 newtab-widget-lists-menu-copy = لف گیری نومگه من کلیپ بورد
 newtab-widget-lists-menu-learn-more = قلوه دووسته بۊین
 newtab-widget-lists-input-menu-edit = آلشت
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + وورکل ی نومگه نۊ
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = نومگه نۊ
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

@@ -8,6 +8,12 @@
 menu-file-new-tab =
     .label = بلگه نۊ
     .accesskey = T
+menu-file-new-window =
+    .label = نیمدری نۊ
+    .accesskey = N
+menu-file-new-private-window =
+    .label = نیمدری سیخومی نۊ
+    .accesskey = W
 menu-file-print =
     .label = چاپ
     .accesskey = P
@@ -39,6 +45,11 @@ menu-bookmarks-toolbar =
     .label = نوار ٱوزار نشووکا
 menu-bookmarks-other =
     .label = نشووکا دیری
+
+## Profiles Menu
+
+menu-profiles-new-profile =
+    .label = پوروفایل نۊ
 
 ## Tools Menu
 
