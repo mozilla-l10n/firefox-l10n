@@ -149,6 +149,11 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Відхилити
 windows-10-eos-sync-callout-primary-advance-button-label = Далі
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Новинка! Натисніть і утримуйте для перегляду посилань.
+link-preview-onboarding-callout-description = Перегляньте короткий опис, тривалість читання та інші дані, щоб вирішити, чи варто відкривати посилання. Також доступно при натисканні правою кнопкою.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Показувати заголовки вкладок на бічній панелі
