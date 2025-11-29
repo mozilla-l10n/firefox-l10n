@@ -394,6 +394,12 @@ tab-note-editor-title-create = Dodaj notatkę
 tab-note-editor-title-edit = Edytuj notatkę
 tab-note-editor-text-field =
     .placeholder = Co chcesz pamiętać o tej karcie?
+tab-note-editor-button-cancel =
+    .label = Anuluj
+    .accesskey = A
+tab-note-editor-button-save =
+    .label = Zachowaj
+    .accesskey = Z
 
 ## Split View
 
@@ -422,3 +428,5 @@ split-view-menuitem-separate-tabs =
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
     .label = Odwróć kolejność kart
+split-view-menuitem-close-both-tabs =
+    .label = Zamknij obie karty
