@@ -62,6 +62,10 @@ turn-off-scheduled-backups-description = Това също изтрива вси
 turn-off-scheduled-backups-cancel-button = Отказ
 turn-off-scheduled-backups-confirm-button = Изключване и изтриване на архивно копие
 
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-cancel-button = Отказ
+
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-create-password-label = Парола
