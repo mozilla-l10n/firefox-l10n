@@ -37,6 +37,7 @@ settings-data-backup-last-backup-filename = Файл атауы: { $fileName }
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-choose = Қалпына келтіру…
 settings-data-toggle-encryption-support-link = Көбірек білу
 settings-data-change-password = Парольді өзгерту…
 
@@ -87,6 +88,11 @@ enable-backup-encryption-repeat-password-label = Парольді қайтала
 enable-backup-encryption-cancel-button = Бас тарту
 enable-backup-encryption-confirm-button = Сақтау
 
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-validity-has-email = Эл. пошта адресі болмауы тиіс
+password-validity-do-not-match = Парольдер өзара сәйкес келмейді
+
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
 password-rules-a11y-success =
@@ -96,6 +102,7 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-header = Парольмен қорғауды алып тастау
 disable-backup-encryption-cancel-button = Бас тарту
 disable-backup-encryption-confirm-button = Парольді өшіру
 
@@ -113,3 +120,10 @@ backup-file-creation-date-label = Жасалған:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-download-moz-browser-button = Жүктеп алу
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+restore-from-backup-filepicker-input =
+    .placeholder = Ешбір файл таңдалмады

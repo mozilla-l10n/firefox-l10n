@@ -426,6 +426,9 @@ quickactions-cmd-restart = қайта қосу
 # Opens the screenshot tool
 quickactions-screenshot3 = Скриншотты түсіру
 quickactions-cmd-screenshot2 = screenshot, take a screenshot, скриншот, скриншот түсіру
+# Opens about:translations
+quickactions-translate = Аудару
+quickactions-cmd-translate = аудару
 quickactions-cmd-screenshot = скриншот
 # Opens about:preferences
 quickactions-settings2 = Баптауларды басқару

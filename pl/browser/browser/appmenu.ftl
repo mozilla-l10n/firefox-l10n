@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Ustawienie do debugowania w { -brand-shorter-name(case: "loc") }. Wysoki wpływ na wydajność. Nie należy używać do pracy nad wydajnością, tylko do zrozumienia zachowania przeglądarki.
 profiler-popup-presets-debug-label =
     .label = Debugowanie
+profiler-popup-presets-web-compat-description = Zalecane ustawienie do debugowania problemów ze zgodnością stron internetowych, a nie do śledzenia wydajności.
+profiler-popup-presets-web-compat-label =
+    .label = Zgodność w Internecie
 profiler-popup-presets-custom-label =
     .label = Inne
 
