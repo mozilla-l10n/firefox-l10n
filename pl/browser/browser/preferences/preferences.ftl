@@ -1210,6 +1210,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Zachowywanie i automatyczne wypełnianie informacji płatniczych.
     .accesskey = m
+autofill-payment-methods-manage-payments-title =
+    .heading = Zarządzaj metodami płatności
 autofill-payment-methods-manage-payments-button =
     .label = Zarządzaj metodami płatności
     .accesskey = d
@@ -1217,6 +1219,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Wymaganie zalogowania się na urządzeniu, aby automatycznie wypełniać metody płatności i zarządzać nimi.
     .accesskey = W
+autofill-payment-methods-add-button = Dodaj nową metodę płatności
+payments-list-header =
+    .label = Metody płatności
+payments-list-item-label = <strong>Metody płatności</strong>
+payments-remove-payment-prompt-title = Czy usunąć tę metodę płatności?
+payments-remove-payment-prompt-confirm-button = Usuń
+payments-remove-payment-prompt-cancel-button = Anuluj
 autofill-addresses-title = Adresy i nie tylko
 autofill-addresses-header =
     .aria-label = Adresy i nie tylko
@@ -1226,6 +1235,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Zarządzaj adresami i nie tylko
     .accesskey = d
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1251,6 +1268,8 @@ history-remember-description2 =
     .description = { -brand-short-name } zachowa historię przeglądania, wyszukiwania, pobieranych plików i danych formularzy.
 history-dontremember-description2 =
     .description = { -brand-short-name } będzie używał tych samych ustawień co w trybie prywatnym i nie będzie zachowywał historii podczas przeglądania witryn WWW.
+history-custom-description =
+    .description = { -brand-short-name } będzie używał ustawień historii przeglądania, wyszukiwania, pobieranych plików i danych formularzy określonych przez użytkownika.
 history-remember-description = { -brand-short-name } zachowa historię przeglądania, wyszukiwania, pobieranych plików i danych formularzy.
 history-dontremember-description = { -brand-short-name } będzie używał tych samych ustawień co w trybie prywatnym i nie będzie zachowywał historii podczas przeglądania witryn WWW.
 history-private-browsing-permanent =

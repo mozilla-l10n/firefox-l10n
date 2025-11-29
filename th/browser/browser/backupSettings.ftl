@@ -111,3 +111,47 @@ restore-from-backup-password-label = รหัสผ่าน
 restore-from-backup-password-description = การกระทำนี้จะปลดล็อกข้อมูลสำรองที่เข้ารหัสลับของคุณ
 restore-from-backup-cancel-button = ยกเลิก
 restore-from-backup-confirm-button = เรียกคืนและเริ่มการทำงานใหม่
+restore-from-backup-restoring-button = กำลังเรียกคืน…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = รหัสผ่านไม่ถูกต้อง <a data-l10n-name="incorrect-password-support-link">ยังมีปัญหาอยู่ใช่ไหม?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = ไฟล์นี้ใช้งานไม่ได้
+    .message = มีปัญหากับไฟล์ข้อมูลสำรองของคุณ โปรดเลือกไฟล์อื่นแล้วลองอีกครั้ง
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = ไฟล์นี้ใช้งานไม่ได้
+    .message = ไฟล์ที่คุณเลือกเข้ากันไม่ได้กับ { -brand-short-name } รุ่นนี้ โปรดเลือกไฟล์อื่นแล้วลองอีกครั้ง
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = ไฟล์นี้ใช้งานไม่ได้
+    .message = ไฟล์ที่คุณเลือกไม่ได้สร้างขึ้นโดย { -brand-short-name } โปรดเลือกไฟล์อื่นแล้วลองอีกครั้ง
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } ไม่สามารถเรียกคืนได้
+    .message = โปรดเริ่ม { -brand-short-name } ใหม่แล้วลองเรียกคืนข้อมูลสำรองของคุณอีกครั้ง
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = มีบางอย่างผิดพลาด
+    .message = มีปัญหากับกระบวนการสำรองข้อมูลสำหรับ { -brand-short-name } โปรดลองอีกครั้งหรือเริ่ม { -brand-short-name } ใหม่
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = สำรองข้อมูลที่ละเอียดอ่อนของคุณ
+enable-backup-encryption-support-link = เรียนรู้เพิ่มเติม
+enable-backup-encryption-create-password-label = รหัสผ่าน
