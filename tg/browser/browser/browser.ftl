@@ -426,6 +426,9 @@ quickactions-cmd-restart = аз нав оғоз кардан
 # Opens the screenshot tool
 quickactions-screenshot3 = Гирифтани акси экран
 quickactions-cmd-screenshot2 = акси экран, гирифтани акси экран, screenshot, take a screenshot
+# Opens about:translations
+quickactions-translate = Тарҷума кунед
+quickactions-cmd-translate = тарҷума кунед
 quickactions-cmd-screenshot = акси экран
 # Opens about:preferences
 quickactions-settings2 = Идоракунии танзимот

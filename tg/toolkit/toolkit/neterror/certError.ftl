@@ -107,6 +107,12 @@ fp-cert-error-code = Рамзи хато: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = «{ -brand-short-name }» ба { $hostname } эътимод надорад, зеро ки он наметавонад исбот кунад, ки он ба талаботи шаффофияти гувоҳиномаи ҷамъиятӣ мувофиқ аст.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Эҳтимол аст, ки ҳеҷ чиз, зеро чунин ба назар мерасад, ки худи сомона дорои мушкилӣ мебошад.
 fp-learn-more-about-secure-connection-failures = Маълумоти бештар дар бораи хатоҳои пайвасти бехатар
 fp-learn-more-about-cert-issues = Маълумоти бештар дар бораи ин намудҳои мушкилиҳои гувоҳинома
 fp-learn-more-about-time-related-errors = Маълумоти бештар дар бораи ислоҳ кардани хатоҳои марбут ба вақт

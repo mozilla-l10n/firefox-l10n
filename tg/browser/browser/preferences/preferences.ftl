@@ -167,8 +167,17 @@ preferences-manage-profiles-description = Ҳар як профил дорои м
 preferences-manage-profiles-learn-more = Маълумоти бештар
 preferences-manage-profiles-button =
     .label = Идоракунии профилҳо
+preferences-profiles-settings-button =
+    .label = Танзимот
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Интихоби профил
+preferences-copy-profile-button = Нусха бардоштан
 tabs-group-header2 =
     .label = Варақаҳо
+tabs-containers-heading =
+    .label = Дарбаргирандаҳо
 tabs-group-header = Варақаҳо
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab варақаҳоро аз рӯи тартиби истифодаи охирин иваз мекунад
@@ -1147,6 +1156,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Нигоҳ доштан ва ба таври худкор пур кардани маълумоти пардохт
     .accesskey = Н
+autofill-payment-methods-manage-payments-title =
+    .heading = Идоракунии тарзҳои пардохт
 autofill-payment-methods-manage-payments-button =
     .label = Идоракунии тарзҳои пардохт
     .accesskey = И
@@ -1154,6 +1165,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Дархости воридшавӣ дар дастгоҳ барои ба таври худкор пур кардан ва идора намудани тарзҳои пардохт
     .accesskey = Д
+autofill-payment-methods-add-button = Илова кардани тарзи пардохти нав
+payments-list-header =
+    .label = Тарзҳои пардохт
+payments-list-item-label = <strong>Тарзҳои пардохт</strong>
 payments-remove-payment-prompt-confirm-button = Тоза кардан
 payments-remove-payment-prompt-cancel-button = Бекор кардан
 autofill-addresses-title = Нишониҳо ва ғайра
