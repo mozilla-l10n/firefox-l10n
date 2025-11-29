@@ -9,3 +9,9 @@
 tab-context-new-tab =
     .label = بلگه نۊ
     .accesskey = w
+bookmark-selected-tabs =
+    .label = نشووک ناهاڌن بلگه…
+    .accesskey = B
+tab-context-bookmark-tab =
+    .label = نشووک ناهاڌن بلگه…
+    .accesskey = B

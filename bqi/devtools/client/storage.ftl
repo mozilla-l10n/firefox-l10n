@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-popup-notification-learn-more = قلوه دووسته بۊین
-popup-notification-default-button2 =
-    .label = خا
-    .accesskey = O
+
+### These strings are used inside the Storage Inspector.
+
+
+## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
+
+storage-tree-labels-cookies = کۊکیا

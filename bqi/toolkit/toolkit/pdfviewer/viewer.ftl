@@ -15,6 +15,7 @@ pdfjs-print-progress-close-button = لقو
 
 ## Password
 
+pdfjs-password-ok-button = خا
 pdfjs-password-cancel-button = لقو
 
 ## Editing

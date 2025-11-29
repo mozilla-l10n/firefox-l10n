@@ -6,6 +6,10 @@
 ### Localization for about:webauthn, a security token management page
 
 
+## Buttons
+
+about-webauthn-send-pin-button = خا
+
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 

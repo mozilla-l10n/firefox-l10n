@@ -10,3 +10,7 @@ media-codec-support-lack-of-extension = پۊرنیڌن وردنی
 ##
 
 intl-app-title = سامووا برنومه
+
+## Remote Settings sections
+
+support-remote-settings-status-ok = خا

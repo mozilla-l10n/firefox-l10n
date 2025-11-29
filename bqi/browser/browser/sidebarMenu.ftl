@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-popup-notification-learn-more = قلوه دووسته بۊین
-popup-notification-default-button2 =
-    .label = خا
-    .accesskey = O
+sidebar-menu-bookmarks =
+    .label = نشووکا
+sidebar-menu-bookmarks-2 = نشووکا

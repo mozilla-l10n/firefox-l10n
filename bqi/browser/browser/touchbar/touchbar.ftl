@@ -3,3 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 new-tab = بلگه نۊ
+add-bookmark = ٱووردن نشووک
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = نشووکا
