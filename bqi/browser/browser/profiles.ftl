@@ -8,6 +8,13 @@ profile-card-edit-button =
 edit-profile-page-title = آلشت پوروفایل
 edit-profile-page-header = آلشت پوروفایل خوت
 edit-profile-page-avatar-selector-opener-link = آلشت
+avatar-selector-cancel-button =
+    .label = لقو
 new-profile-page-learn-more = قلوه دووسته بۊین
 new-profile-page-done-button =
     .label = آلشتکاریا ٱنجوم وابی
+
+##
+
+# Button label
+delete-profile-cancel = لقو

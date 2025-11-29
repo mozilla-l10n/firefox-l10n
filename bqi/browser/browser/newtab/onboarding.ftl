@@ -38,6 +38,7 @@ onboarding-live-language-waiting-button = گرؽڌن زووا من دسرس…
 onboarding-live-language-installing = هونی بسته زووݩ ن سی { $negotiatedLanguage } اپۊرنه…
 mr2022-onboarding-live-language-switch-to = آلشت و { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = رئڌن وا پؽش من { $appLanguage }
+onboarding-live-language-secondary-cancel-download = لقو
 
 ## UI strings for the sidebar and vertical tabs
 
@@ -46,3 +47,7 @@ onboarding-flair-text = نۊ!
 ## New user onboarding checklist
 
 onboarding-checklist-extension = ازاف کردن ی وردنی
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-dismiss = خا

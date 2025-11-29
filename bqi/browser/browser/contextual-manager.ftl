@@ -18,6 +18,8 @@ contextual-manager-passwords-export-file-picker-default-filename = رزما
 contextual-manager-passwords-export-file-picker-export-button = و در کشیڌن
 contextual-manager-passwords-update-password-success-button = ٱنجوم وابی
 contextual-manager-passwords-delete-password-success-button = ٱنجوم وابی
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = لقو
 
 ## Login Form
 

@@ -12,6 +12,9 @@ autofill-manage-edit-button = آلشت…
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 address-capture-edit-doorhanger-header = آلشت نشۊوی
+address-capture-cancel-button =
+    .label = لقو
+    .accessKey = C
 address-capture-learn-more-button =
     .label = قلوه دووسته بۊین
 address-capture-edit-address-button =
@@ -21,5 +24,6 @@ autofill-edit-address-title = آلشت نشۊوی
 
 ##
 
+autofill-cancel-button = لقو
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = آلشت کارت

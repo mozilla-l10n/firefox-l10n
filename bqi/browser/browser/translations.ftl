@@ -32,6 +32,8 @@ translations-panel-settings-never-translate-unknown-language =
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-translate-cancel =
+    .label = لقو
 translations-panel-learn-more-link = قلوه دووسته بۊین
 translations-panel-error-load-languages = زووا قابل و بار ونی نبیڌن
 translations-panel-error-change-button =
@@ -79,6 +81,8 @@ translations-settings-remove-language-button =
 translations-settings-remove-all-languages-button =
     .label = پاک کردن پوی زووا
     .accesskey = e
+select-translations-panel-cancel-button =
+    .label = لقو
 # Text displayed on the copy button before it is clicked.
 select-translations-panel-copy-button =
     .label = لف گیری

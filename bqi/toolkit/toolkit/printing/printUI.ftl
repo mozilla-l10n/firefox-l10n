@@ -7,3 +7,4 @@ printui-title = چاپ
 ##
 
 printui-primary-button = چاپ
+printui-cancel-button = لقو

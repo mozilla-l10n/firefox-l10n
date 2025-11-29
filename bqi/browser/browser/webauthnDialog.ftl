@@ -3,13 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Chatbot menu shortcuts
+## WebAuthn prompts
 
-genai-menu-new-badge = نۊ
-
-## Model Optin Component
-
-genai-model-optin-optout =
-    .label = لقو
-genai-model-optin-cancel =
-    .label = لقو
+webauthn-cancel = لقو
+    .accesskey = c

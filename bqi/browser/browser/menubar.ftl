@@ -18,10 +18,27 @@ menu-edit =
     .label = آلشت
     .accesskey = E
 
+## View Menu
+
+menu-view-bookmarks =
+    .label = نشووکا
+
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = نشووکا
+    .accesskey = B
+menu-bookmarks-manage =
+    .label = دؽوۉداری نشووکا
 menu-edit-bookmark =
     .label = آلشت ای نشووک…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = پیتینیڌن نشووکا
+menu-bookmarks-toolbar =
+    .label = نوار ٱوزار نشووکا
+menu-bookmarks-other =
+    .label = نشووکا دیری
 
 ## Tools Menu
 

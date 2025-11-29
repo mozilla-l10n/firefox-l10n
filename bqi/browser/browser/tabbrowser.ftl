@@ -6,6 +6,18 @@ tabbrowser-empty-tab-title = بلگه نۊ
 
 ##
 
+tab-group-editor-cancel =
+    .label = لقو
+    .accesskey = C
+
+##
+
 tab-group-editor-done =
     .label = ٱنجوم وابی
     .accessKey = D
+
+## Tab Notes
+
+tab-note-editor-button-cancel =
+    .label = لقو
+    .accesskey = C

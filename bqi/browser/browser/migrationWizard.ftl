@@ -3,6 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-extensions-option-label = وردنی یل
+migration-cookies-option-label = کۊکیا
+migration-bookmarks-from-file = نشووکا
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } نشووک
+       *[other] { $newEntries } نشووک
+    }
+migration-cancel-button-label = لقو
 migration-done-button-label = ٱنجوم وابی
 
 ## These strings will be used to create a dynamic list of items that can be
@@ -11,7 +24,21 @@ migration-done-button-label = ٱنجوم وابی
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = نشووکا
 migration-list-extensions-label = وردنی یل
+
+##
+
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } نشووک
+       *[other] { $quantity } نشووک
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible

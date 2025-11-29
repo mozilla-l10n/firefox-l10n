@@ -13,6 +13,10 @@ newtab-settings-dialog-label =
 
 newtab-topsites-edit-shortcut-header = آلشت ر نهنگ
 
+## Top Sites - General form dialog buttons. These are verbs/actions.
+
+newtab-topsites-cancel-button = لقو
+
 ## Top Sites - Delete history confirmation dialog.
 
 # "This action" refers to deleting a page from history.
@@ -34,6 +38,11 @@ newtab-menu-edit-topsites = آلشت
 newtab-privacy-modal-button-done = ٱنجوم وابی
 newtab-privacy-modal-button-manage = دؽوۉداری سامووا موئتوا هؽزگر
 
+##
+
+# Bookmark is a verb here.
+newtab-menu-bookmark = نشووک
+
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
@@ -50,6 +59,14 @@ newtab-custom-settings = دؽوۉداری سامووا قلوه
 ## New Tab Weather
 
 newtab-weather-menu-learn-more = قلوه دووسته بۊین
+
+## Topic Selection Modal
+
+newtab-topic-selection-cancel-button = لقو
+
+## Strings for reporting ads and content
+
+newtab-report-cancel = لقو
 
 ## Strings for trending searches
 

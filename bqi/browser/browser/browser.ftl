@@ -429,6 +429,9 @@ quickactions-settings2 = دؽوۉداری سامووا
 ## Bookmark Panel
 
 bookmarks-edit-bookmark = آلشت نشووک
+bookmark-panel-cancel =
+    .label = لقو
+    .accesskey = C
 bookmark-panel-show-editor-checkbox =
     .label = نشووݩ داڌن آلشتگر مجال زفت کردن
     .accesskey = S
@@ -785,6 +788,12 @@ unified-extensions-button-blocklisted =
         وردنی یل
         ی قرد ز وردنی یل قیرفعال هڌن
 
+## Private browsing reset button
+
+reset-pbm-panel-cancel-button =
+    .label = لقو
+    .accesskey = C
+
 ## Add-on Pop-up Notifications
 
 # Note: Access key is set to p to match "private" in the corresponding localized label.
@@ -800,3 +809,4 @@ popup-notification-addon-technical-and-interaction-checkbox =
 ## The urlbar trust icon & panel
 
 trustpanel-privacy-link = سامووا هریم سیخومی
+trustpanel-clear-cookies-subview-button-cancel = لقو

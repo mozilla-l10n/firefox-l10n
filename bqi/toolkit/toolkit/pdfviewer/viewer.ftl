@@ -9,6 +9,14 @@ pdfjs-print-button =
     .title = چاپ
 pdfjs-print-button-label = چاپ
 
+## Print
+
+pdfjs-print-progress-close-button = لقو
+
+## Password
+
+pdfjs-password-cancel-button = لقو
+
 ## Editing
 
 pdfjs-editor-stamp-button =
@@ -28,10 +36,18 @@ pdfjs-free-text2 =
     .default-content = ناهاڌن پا هؽل کردن...
 pdfjs-editor-comments-sidebar-no-comments-link = قلوه دووسته بۊین
 
+## Alt-text dialog
+
+pdfjs-editor-alt-text-cancel-button = لقو
+
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = قلوه دووسته بۊین
+
+## Dialog buttons
+
+pdfjs-editor-add-signature-cancel-button = لقو
 
 ## Comment popup
 
@@ -43,6 +59,7 @@ pdfjs-editor-edit-comment-popup-button =
 
 # An existing comment is edited
 pdfjs-editor-edit-comment-dialog-title-when-editing = آلشت منشڌ
+pdfjs-editor-edit-comment-dialog-cancel-button = لقو
 
 ## Edit a comment button in the editor toolbar
 

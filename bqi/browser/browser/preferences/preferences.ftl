@@ -17,6 +17,10 @@ search-input-box2 =
     .placeholder = جوستن من سامووا
 addons-button-label = وردنی یل وو تما
 
+## Browser Restart Dialog
+
+cancel-no-restart-button = لقو
+
 ## General Section
 
 preferences-manage-profiles-learn-more = قلوه دووسته بۊین
@@ -64,6 +68,16 @@ sync-engine-settings =
     .label = سامووا
     .tooltiptext = سامووا پوی وولاتی، هریم سیخومی، وو ٱمنیتی ک آلشتکاری کردین
     .accesskey = s
+
+## The device name controls.
+
+sync-device-name-cancel =
+    .label = لقو
+    .accesskey = n
+
+## Privacy section - Autofill
+
+payments-remove-payment-prompt-cancel-button = لقو
 
 ## Privacy Section - History
 

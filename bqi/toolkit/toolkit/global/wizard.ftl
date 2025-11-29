@@ -4,3 +4,9 @@
 
 wizard-macos-button-finish =
     .label = ٱنجوم وابی
+wizard-macos-button-cancel =
+    .label = لقو
+wizard-linux-button-cancel =
+    .label = لقو
+wizard-win-button-cancel =
+    .label = لقو
