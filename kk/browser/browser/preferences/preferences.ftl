@@ -616,6 +616,9 @@ home-mode-choice-blank =
     .label = Бос бет
 home-homepage-custom-url =
     .placeholder = URL кірістіру…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Кеңейтуді басқару
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
