@@ -9,6 +9,10 @@ contentanalysis-slow-agent-notification = Sisältöanalyysityökalulta kestää 
 contentanalysis-slow-agent-dialog-header = Tarkistus käynnissä
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } tarkistaa tiedostoa “{ $filename }” organisaatiosi datakäytäntöjä vasten. Tämä voi kestää hetken.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } tarkistaa, mitä liitit organisaatiosi datakäytäntöjen vastaisesti. Tämä voi kestää hetken.
 contentanalysis-operationtype-clipboard = leikepöytä
 contentanalysis-operationtype-dropped-text = pudotettu teksti
@@ -27,11 +31,27 @@ contentanalysis-genericresponse-message = Sisältöanalyysi vastasi { $response 
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Organisaatiosi käyttää tietojen menetyksen esto-ohjelmistoa, joka on estänyt tämän sisällön: { $content }.
 # Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Virhe kommunikoinnissa agentin { $agent } kanssa. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Yhteyden muodostaminen agenttiin { $agent } ei onnistunut. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Allekirjoituksen vahvistus epäonnistui agentin { $agent } kohdalla. { $content }
+# Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Tiedoston "{ $filename }" lähetys estetty.
 contentanalysis-error-message-dropped-text = Vedä ja pudota -toiminto kielletty.
 contentanalysis-error-message-clipboard = Liittäminen estetty.
 contentanalysis-error-message-print = Tulostus estetty.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Yhteys agenttiin { $agent } aikakatkaistiin. { $contentName } on estetty.
 contentanalysis-block-dialog-title-upload-file = Sinulla ei ole lupaa lähettää tätä tiedostoa
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
