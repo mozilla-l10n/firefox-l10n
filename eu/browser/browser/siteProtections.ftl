@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-content-blocking-trackers-view-empty = Ez da bat ere atzeman gune honetan
+content-blocking-trackers-view-empty = Ez da bat ere antzeman gune honetan
 content-blocking-cookies-blocking-trackers-label = Guneen arteko cookie jarraipen-egileak
 content-blocking-cookies-blocking-third-party-label = Hirugarrenen cookieak
 content-blocking-cookies-blocking-unvisited-label = Bisitatu gabeko guneetako cookieak

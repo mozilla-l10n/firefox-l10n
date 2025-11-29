@@ -195,6 +195,8 @@ about-glean-button-watch = Overvåg
 about-glean-button-unwatch = Fjern overvågning
 about-glean-no-data-to-display = Ingen data at vise.
 # Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code>-målinger er ikke understøttet i <code>about:glean</code>-visningen endnu.
+# Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Målinger med etiketter er ikke understøttet i <code>about:glean</code>-visningen endnu.
 about-glean-unknown-metric-type-warning = Ukendt type af måling.
 about-glean-enable-new-features-promo =

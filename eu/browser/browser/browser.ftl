@@ -1399,6 +1399,7 @@ trustpanel-etp-description-disabled = { -brand-product-name }(e)k uste du enpres
 trustpanel-connection-label-secure = Konexio segurua
 trustpanel-connection-label-insecure = Konexio ez-segurua
 trustpanel-header-enabled = { -brand-product-name } guardian dago
+trustpanel-description-enabled2 = Babestuta zaude. Zerbait ikusten badugu, jakinaraziko dizugu.
 trustpanel-header-enabled-insecure = Argi ibili gune honetan
 trustpanel-header-disabled = Babesak desgaitu dituzu
 trustpanel-description-disabled = { -brand-product-name } ez dago guardian. Babesak berriro ere aktibatzea gomendatzen dugu.
@@ -1431,7 +1432,17 @@ urlbar-trust-icon-notsecure-label = Ez-segurua
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-section-header =
+    { $count ->
+        [one] Jarraipen elementu <span>{ $count }</span> blokeatuta gune honetan
+       *[other] <span>{ $count }</span> jarraipen-elementu blokeatuta gune honetan
+    }
+trustpanel-blocker-description = { -brand-product-name }(e)k uste du enpresek zure jarraipena gutxitu beharko luketela. Ahal bezainbeste jarraipen-elementu blokeatzen ditugu beraz.
+trustpanel-blocked-header = { -brand-product-name }(e)k ondorengo gauzak blokeatu ditu:
+trustpanel-tracking-header = { -brand-product-name }(e)k ondorengo gauzak onartu ditu guneak apur ez daitezen:
+trustpanel-tracking-description = Jarraipen-elementu gabe, posible da zenbait botoi, inprimaki eta saio-hasierako eremu ez ibiltzea.
 trustpanel-insecure-section-header = Zure konexioa ez da segurua
+trustpanel-insecure-description = Gune honetara bidaltzen ari zaren datuak ez daude zifratuta. Ikusiak, lapurtuak edo itxuraldatuak izan litezke.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] Guneen arteko cookie jarraipen-egileak: { $count }

@@ -1,0 +1,26 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+customkeys-search = Bilatu:
+customkeys-change = Aldatu
+customkeys-reset = Berrezarri
+customkeys-clear = Garbitu
+customkeys-new-key = Sakatu tekla berria:
+customkeys-reset-all = Berrezarri lasterbide guztiak lehenespenetara
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Tekla hau lehendik ere { $conflict }-era esleitua dago. Ordezkatu egin nahi duzu?
+customkeys-reset-all-confirm = Ziur zaude teklatuaren lasterbide guztiak lehenespenetara berrezarri nahi dituzula?
+customkeys-history-reopen-tab = Ireki berriro itxitako azken fitxa
+customkeys-history-reopen-window = Ireki berriro itxitako azken leihoa
+customkeys-dev-tools = Web garatzaile-tresnak
+customkeys-dev-inspector = DOM- eta estilo-ikuskatzailea
+customkeys-dev-webconsole = Web kontsola
+customkeys-dev-debugger = JavaScript araztailea
+customkeys-dev-network = Sareko monitorea
+customkeys-dev-style = Estilo-editorea
+customkeys-dev-performance = Errendimendua
+customkeys-dev-storage = Biltegiratzearen ikuskatzailea
+customkeys-dev-dom = DOM
+customkeys-dev-accessibility = Erabilgarritasuna
