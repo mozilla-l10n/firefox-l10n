@@ -403,6 +403,9 @@ quickactions-cmd-restart = berrabiarazi
 # Opens the screenshot tool
 quickactions-screenshot3 = Hartu pantaila-argazkia
 quickactions-cmd-screenshot2 = pantaila-argazkia, egin pantaila-argazkia
+# Opens about:translations
+quickactions-translate = Itzuli
+quickactions-cmd-translate = itzuli
 quickactions-cmd-screenshot = pantaila-argazkia
 # Opens about:preferences
 quickactions-settings2 = Kudeatu ezarpenak
@@ -749,6 +752,12 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Babeslea
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

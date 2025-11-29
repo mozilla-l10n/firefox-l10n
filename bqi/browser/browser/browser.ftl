@@ -587,6 +587,18 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #       abbreviation of one of the city's administrative divisions like a
 #       province or state, or it may be the name of the city's country.
 urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> من { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> من { $city }, { $region }, { $country }
 # The title of a weather suggestion in the urlbar only including the city. The
 # temperature and unit substring should be inside a <strong> tag. If the
 # temperature and unit are not adjacent in the localization, it's OK to include
@@ -600,6 +612,10 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = نشووݩ داڌن پؽشنهاڌا
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = سکو ن
 urlbar-result-realtime-opt-in-dismiss = رڌ کردن
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = ای پؽشنهاڌا ن نشووݩ مڌه
@@ -642,6 +658,8 @@ urlbar-searchmode-actions =
     .label = کارا
 urlbar-searchmode-exit-button =
     .tooltiptext = بستن
+urlbar-searchmode-default =
+    .tooltiptext = موتور پیتینیڌن پؽش فرز
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = سامووا پیتینیڌن
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
@@ -676,6 +694,8 @@ urlbar-group-sponsored =
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = دؽوۉداری نشووکا
 bookmarks-recent-bookmarks-panel-subheader = نشووکا دیندایی
 bookmarks-toolbar-chevron =
     .tooltiptext = نشووکا قلوه ای نشووݩ داڌه بۊ
