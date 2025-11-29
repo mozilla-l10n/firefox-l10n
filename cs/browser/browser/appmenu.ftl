@@ -326,7 +326,7 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Přihlaste se ke svému účtu
 appmenuitem-monitor-title = { -monitor-brand-short-name }
-appmenuitem-monitor-description = Získejte upozornění na úniky údajů
+appmenuitem-monitor-description = Dostávejte upozornění na úniky dat
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Zamaskujte svůj skutečný e-mail a telefon
 appmenuitem-services-relay-description = Spustit nástěnku e-mailových masek
