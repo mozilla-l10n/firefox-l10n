@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Місце розташування компа
 certificate-viewer-locality = Місце розташування
 certificate-viewer-location = Розташування
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Назва журналу
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Ідентифікатор журналу
 certificate-viewer-method = Метод
 certificate-viewer-modulus = Модуль
@@ -111,6 +113,8 @@ certificate-viewer-export = Експорт
 
 # Label for a tab where we haven't found a better label:
 certificate-viewer-unknown-group-label = (невідомо)
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = сертифікат
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
