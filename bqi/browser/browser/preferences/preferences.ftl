@@ -45,6 +45,10 @@ network-proxy-connection-settings =
     .label = سامووا…
     .accesskey = e
 
+## Custom Homepage subpage
+
+home-newtabs-mode-label = بلگه یل نۊ
+
 ## Search Section
 
 search-edit-engine =

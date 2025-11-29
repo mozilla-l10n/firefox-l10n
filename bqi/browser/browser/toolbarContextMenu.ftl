@@ -17,3 +17,6 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-report-extension =
     .label = گوزارش وردنی
     .accesskey = o
+toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
+    .label = تینا من بلگه نۊ نشووݩ داڌه وابۊ
+    .accesskey = O

@@ -24,6 +24,10 @@ autofill-edit-address-title = آلشت نشۊوی
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = ٱووردن نشۊوی نۊ
 autofill-cancel-button = لقو
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-new-card-title = ٱووردن کارت ائتواری نۊ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title2 = آلشت کارت

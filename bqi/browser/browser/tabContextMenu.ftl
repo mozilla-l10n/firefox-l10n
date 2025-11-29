@@ -15,3 +15,6 @@ bookmark-selected-tabs =
 tab-context-bookmark-tab =
     .label = نشووک ناهاڌن بلگه…
     .accesskey = B
+tab-context-new-group =
+    .label = بونکۊی نۊ
+    .accesskey = G

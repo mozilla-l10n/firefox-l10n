@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = بلگه نۊ
+tabbrowser-empty-private-tab-title = بلگه سیخومی نۊ
 
 ##
 
@@ -21,3 +22,7 @@ tab-group-editor-done =
 tab-note-editor-button-cancel =
     .label = لقو
     .accesskey = C
+
+## Split View
+
+tab-context-badge-new = نۊ
