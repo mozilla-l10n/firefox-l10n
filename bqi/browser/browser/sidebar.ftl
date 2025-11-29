@@ -18,5 +18,12 @@ sidebar-context-menu-remove-extension =
     .label = پاک کردن وردنی
 sidebar-context-menu-report-extension =
     .label = گوزارش وردنی
+sidebar-context-menu-bookmark-tab =
+    .label = نشووک ناهاڌن بلگه…
 sidebar-context-menu-copy-link =
     .label = لف گیری لینگ
+
+## Labels for sidebar menu items.
+
+sidebar-menu-bookmarks-label =
+    .label = نشووکا

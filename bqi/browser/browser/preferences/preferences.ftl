@@ -85,12 +85,29 @@ history-clear-on-close-settings =
     .label = سامووا…
     .accesskey = t
 
+## Privacy Section - Site Data
+
+sitedata-option-block-cross-site-cookies2 =
+    .label = سوا کردن کۊکیا منجا وبگهی
+
+## Privacy Section - Address Bar
+
+addressbar-locbar-bookmarks-option =
+    .label = نشووکا
+    .accesskey = k
+
 ##
 
+content-blocking-isolate-cross-site-cookies = سوا کردن کۊکیا منجا وبگهی
+content-blocking-all-cookies = پوی کۊکیا
+content-blocking-unvisited-cookies = کۊکیا ز وبگه یل نیڌه بیڌه
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-etp-standard-tcp-rollout-learn-more = قلوه دووسته بۊین
+content-blocking-cookies-label =
+    .label = کۊکیا
+    .accesskey = C
 
 ## Privacy Section - Permissions
 

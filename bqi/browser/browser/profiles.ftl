@@ -14,7 +14,20 @@ new-profile-page-learn-more = قلوه دووسته بۊین
 new-profile-page-done-button =
     .label = آلشتکاریا ٱنجوم وابی
 
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
+
+delete-profile-bookmarks = نشووکا
+
 ##
 
 # Button label
 delete-profile-cancel = لقو
+
+## Alternative text for default profile icons
+
+book-avatar-alt =
+    .alt = کتاو
+
+## Tooltips for default avatar icons
+
+book-avatar = کتاو
