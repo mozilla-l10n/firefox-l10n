@@ -603,6 +603,7 @@ home-new-windows-tabs-description2 = Үй парағын, жаңа терезе�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Үй парағы және жаңа терезелер
+home-homepage-mode-label2 = Жаңа терезелер
 home-newtabs-mode-label = Жаңа беттер
 home-restore-defaults =
     .label = Бастапқы мәндерін қайтару

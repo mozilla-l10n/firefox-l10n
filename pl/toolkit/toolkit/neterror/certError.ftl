@@ -107,6 +107,12 @@ fp-cert-error-code = Kod błędu: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } nie ufa certyfikatowi witryny „{ $hostname }”, ponieważ nie mogła ona udowodnić, że spełnia publiczne wymagania przejrzystości certyfikatów.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Prawdopodobnie nic, ponieważ problem najpewniej leży po stronie witryny.
 fp-learn-more-about-secure-connection-failures = Więcej informacji o niepowodzeniach zabezpieczonego połączenia
 fp-learn-more-about-cert-issues = Więcej informacji o tego rodzaju problemach z certyfikatami
 fp-learn-more-about-time-related-errors = Więcej informacji o rozwiązywaniu błędów związanych z zegarem
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Ukryj zaawansowane
 fp-certerror-override-exception-button = Przejdź do witryny { $hostname } (ryzykowne)
 fp-certerror-intro = { -brand-short-name } wykrył potencjalnie poważny problem bezpieczeństwa na witrynie <strong>{ $hostname }</strong>. Ktoś podszywający się pod nią może próbować ukraść dane karty płatniczej, hasła, adresy e-mail lub coś innego.
 fp-certerror-expired-into = { -brand-short-name } wykrył problem bezpieczeństwa na witrynie <strong>{ $hostname }</strong>. Jest ona błędnie skonfigurowana albo zegar tego urządzenia jest ustawiony na błędną datę/godzinę.
+fp-certerror-transparency-intro = Ktoś podszywający się pod witrynę <strong>{ $hostname }</strong> może próbować ukraść dane kart płatniczych, hasła, adresy e-mail lub coś innego.
