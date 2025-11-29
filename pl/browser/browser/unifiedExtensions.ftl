@@ -65,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Więcej informacji
 unified-extensions-mb-about-addons-link = Otwórz ustawienia rozszerzeń
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = Wyłączono rozszerzenie { $extensionName }
+    .message =
+        To rozszerzenie jest objęte ograniczeniami i zostało wyłączone.
+        Można je włączyć w ustawieniach, ale może to być ryzykowne.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = Wyłączono rozszerzenie { $extensionName }
     .message =
@@ -75,6 +82,18 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = Wyłączono rozszerzenie { $extensionName }
     .message = To rozszerzenie narusza zasady Mozilli i zostało wyłączone.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] Wyłączono rozszerzenie
+            [few] Wyłączono { $extensionsCount } rozszerzenia
+           *[many] Wyłączono { $extensionsCount } rozszerzeń
+        }
+    .message =
+        Część zainstalowanych rozszerzeń jest objętych ograniczeniami i zostały wyłączone.
+        Można je włączyć w ustawieniach, ale może to być ryzykowne.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
