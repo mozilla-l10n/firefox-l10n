@@ -107,6 +107,8 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = AI-chatbotti
 genai-header-provider-menu =
     .title = Valitse chatbotti
+genai-header-settings-button =
+    .title = Tekoälykeskustelun asetukset
 genai-header-options-button =
     .title = Avaa valikko
 genai-header-close-button =
@@ -263,3 +265,7 @@ link-preview-setup-faster-next-time = Näet pääkohdat nopeammin ensi kerralla.
 link-preview-onboarding-button = Näe esikatselu
 # Onboarding card Close button
 link-preview-onboarding-close = Sulje
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Ensimmäisen kerran määritys
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Tämä voi kestää hetken. Näet pääkohdat nopeammin seuraavalla kerralla.
