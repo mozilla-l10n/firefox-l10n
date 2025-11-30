@@ -107,6 +107,12 @@ fp-cert-error-code = Код помилки: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } не довіряє { $hostname }, оскільки не зміг довести його відповідність вимогам прозорості загальнодоступних сертифікатів.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Швидше за все, нічого. Ймовірно, проблема з самим сайтом.
 fp-learn-more-about-secure-connection-failures = Докладніше про збої захищених з'єднань
 fp-learn-more-about-cert-issues = Докладніше про такі проблеми із сертифікатами
 fp-learn-more-about-time-related-errors = Докладніше про усунення помилок, пов'язаних із часом
@@ -164,6 +170,7 @@ redirectLoop-title = Неналежне перенаправлення на ст
 unknownSocketType-title = Неочікувана відповідь сервера
 nssFailure2-title = Не вдалося встановити захищене з'єднання
 csp-xfo-error-title = { -brand-short-name } не може відкрити цю сторінку
+corruptedContentErrorv2-title = Помилка пошкодженого вмісту
 corruptedContentError-title = Помилка пошкодженого вмісту
 sslv3Used-title = Не вдалося встановити захищене з'єднання
 inadequateSecurityError-title = Ваше з'єднання не захищене
@@ -190,3 +197,4 @@ fp-certerror-hide-advanced-button = Приховати подробиці
 fp-certerror-override-exception-button = Перейти до { $hostname } (ризиковано)
 fp-certerror-intro = { -brand-short-name } виявив потенційно серйозну проблему безпеки з <strong>{ $hostname }</strong>. Той, хто видає себе за сайт, може спробувати викрасти дані кредитної картки, паролі чи електронні листи.
 fp-certerror-expired-into = { -brand-short-name } виявив проблему безпеки з <strong>{ $hostname }</strong>. Сайт або годинник вашого пристрою налаштовано неправильно.
+fp-certerror-transparency-intro = Хтось від імені <strong>{ $hostname }</strong> може спробувати викрасти ваші особисті дані, як-от ім'я користувача, пароль або адресу електронної пошти.

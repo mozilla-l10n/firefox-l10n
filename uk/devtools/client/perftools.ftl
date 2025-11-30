@@ -158,4 +158,6 @@ perftools-presets-power-label = Потужність
 perftools-presets-power-description = Задані параметри з низьким споживанням ресурсів для виявлення помилок використання потужності { -brand-shorter-name }.
 perftools-presets-debug-label = Налагодження
 perftools-presets-debug-description = Задані параметри для налагодження у { -brand-shorter-name }. Високе споживання ресурсів. Не використовуйте для високопродуктивних завдань, а щоб зрозуміти поведінку браузера.
+perftools-presets-web-compat-label = Web Compat
+perftools-presets-web-compat-description = Рекомендований заданий параметр для налагодження проблем сумісності вебсайтів, а не для відстеження продуктивності.
 perftools-presets-custom-label = Власні

@@ -107,6 +107,8 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = Чат-бот з ШІ
 genai-header-provider-menu =
     .title = Вибір чат-бота
+genai-header-settings-button =
+    .title = Налаштування чату з ШІ
 genai-header-options-button =
     .title = Відкрити меню
 genai-header-close-button =
@@ -264,3 +266,7 @@ link-preview-setup-faster-next-time = Наступного разу ви поб�
 link-preview-onboarding-button = Відкрити перегляд
 # Onboarding card Close button
 link-preview-onboarding-close = Закрити
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Початкові налаштування
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Це може потребувати трохи часу. Наступного разу ви побачите ключові пункти швидше.
