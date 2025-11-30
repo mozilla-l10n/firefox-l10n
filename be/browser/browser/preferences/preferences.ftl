@@ -60,6 +60,7 @@ pane-experimental-description2 = Змена пашыраных налад кан
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Паспрабуйце нашы эксперыментальныя функцыі! Яны знаходзяцца ў распрацоўцы і ўдасканальваюцца, што можа ўплываць на працу { -brand-short-name }. Мы атрымліваем дадзеныя аб вашым выкарыстанні гэтых функцый толькі ў тым выпадку, калі ў вас уключаны <a data-l10n-name="data-collection">тэхнічныя звесткі і дадзеныя ўзаемадзеяння</a>.
 pane-experimental-description3 = Паспрабуйце нашы эксперыментальныя функцыі! Яны знаходзяцца ў стадыі распрацоўкі і развіцця, што можа паўплываць на працу { -brand-short-name }.
 pane-experimental-reset =
     .label = Аднавіць прадвызначаныя
@@ -171,6 +172,22 @@ preferences-manage-profiles-description = Кожны профіль мае ас�
 preferences-manage-profiles-learn-more = Падрабязней
 preferences-manage-profiles-button =
     .label = Кіраваць профілямі
+preferences-profiles-settings-button =
+    .label = Налады
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Скапіяваць наяўны профіль
+    .description = У новы профіль будуць скапіраваны вашы налады, дадаткі, гісторыя і захаваныя звесткі накшталт закладак і пароляў — але не ўліковы запіс ці сінхранізаваная інфармацыя.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Профіль для капіявання
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Выбар профілю
+preferences-copy-profile-button = Капіяваць
 tabs-group-header2 =
     .label = Карткі
 tabs-group-header = Карткі
