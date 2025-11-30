@@ -41,6 +41,7 @@ permission-dialog-btn-choose-app =
     .label = Ընտրեք ծրագիր
     .accessKey = A
 permission-dialog-unset-description = Դուք պետք է ընտրեք հավելվածը:
+permission-dialog-set-change-app-link = Ընտրեք այլ ծրագիր։
 
 ## Chooser dialog
 ## Variables:
