@@ -190,6 +190,14 @@ preferences-copy-profile-select = Выбар профілю
 preferences-copy-profile-button = Капіяваць
 tabs-group-header2 =
     .label = Карткі
+tabs-opening-heading =
+    .label = Адкрыццё
+tabs-interaction-heading =
+    .label = Узаемадзеянне
+tabs-containers-heading =
+    .label = Кантэйнеры
+tabs-closing-heading =
+    .label = Закрыццё
 tabs-group-header = Карткі
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab пераключае паміж карткамі ў парадку апошняга выкарыстання
@@ -749,6 +757,8 @@ home-prefs-weather-header =
     .label = Надвор'е
 home-prefs-weather-description = Кароткі прагноз на сёння
 home-prefs-weather-learn-more-link = Падрабязней
+home-prefs-widgets-header =
+    .label = Віджэты
 home-prefs-trending-search-header =
     .label = Папулярныя пошукавыя запыты
 home-prefs-trending-search-description = Папулярныя і часта запытаныя тэмы
@@ -763,6 +773,8 @@ home-prefs-support-firefox-header =
     .label = Падтрымаць { -brand-product-name }
 home-prefs-mission-message = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту
 home-prefs-mission-message-learn-more-link = Даведацца, як
+home-prefs-mission-message2 =
+    .message = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту.
 home-prefs-manage-topics-link = Кіраванне тэмамі
 home-prefs-choose-wallpaper-link = Выберыце шпалеры
 # Variables:
@@ -1073,10 +1085,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Паролі
     .searchkeywords = лагіны
+forms-passwords-header =
+    .label = Паролі
+    .aria-label = Паролі
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Пытаць, ці захоўваць паролі
     .accesskey = ц
+forms-manage-password-exceptions =
+    .label = Кіраваць выключэннямі пароляў
+    .accesskey = ь
 forms-exceptions =
     .label = Выключэнні…
     .accesskey = ы
@@ -1107,12 +1125,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Аўтаматычна запаўняць імёны карыстальнікаў і паролі
     .accesskey = А
+forms-fill-usernames-and-passwords-2 =
+    .label = Захоўваць і аўтаматычна запаўняць імёны карыстальнікаў і паролі
+    .accesskey = а
 forms-saved-passwords =
     .label = Захаваныя паролі
     .accesskey = в
+forms-saved-passwords-2 =
+    .label = Кіраваць захаванымі паролямі
+    .accesskey = в
+forms-saved-passwords-searchkeywords = Лагіны для наступных сайтаў захоўваюцца на вашым камп'ютары
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Дадатковыя меры аховы
 forms-primary-pw-use =
     .label = Ужываць галоўны пароль
     .accesskey = г
+forms-primary-pw-set =
+    .label = Усталяваць галоўны пароль
+forms-primary-pw-on =
+    .label = Галоўны пароль УКЛЮЧАНЫ
+forms-primary-pw-change-2 =
+    .label = Змяніць галоўны пароль
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Адключыць
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Патрабаваць уваход на прыладзе для запаўнення пароляў і кіравання імі
@@ -1178,6 +1215,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Захоўваць і запаўняць спосабы аплаты
     .accesskey = З
+autofill-payment-methods-manage-payments-title =
+    .heading = Кіраваць спосабамі аплаты
 autofill-payment-methods-manage-payments-button =
     .label = Кіраваць спосабамі аплаты
     .accesskey = ь
@@ -1185,6 +1224,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Патрабаваць уваход на прыладзе для аўтазапаўнення спосабаў аплаты і кіравання імі
     .accesskey = ў
+autofill-payment-methods-add-button = Дадаць новы спосаб аплаты
+payments-list-header =
+    .label = Спосабы аплаты
+payments-list-item-label = <strong>Спосабы аплаты</strong>
+payments-remove-payment-prompt-title = Выдаліць гэты спосаб аплаты?
+payments-remove-payment-prompt-confirm-button = Выдаліць
+payments-remove-payment-prompt-cancel-button = Скасаваць
 autofill-addresses-title = Адрасы і іншае
 autofill-addresses-header =
     .aria-label = Адрасы і іншае
@@ -1194,6 +1240,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Кіраванне адрасамі і іншае
     .accesskey = р
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1568,6 +1622,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Блакаваць выплыўныя вокны і перанакіраванне на староннія сайты
     .accesskey = Б
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Кіраваць выключэннямі выплыўных акон і перанакіравання на староннія сайты
+    .accesskey = К
+    .searchkeywords = выплыўныя вокны
 permissions-block-popups =
     .label = Блакаваць выплыўныя вокны
     .accesskey = Б

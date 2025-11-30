@@ -1375,15 +1375,6 @@ popup-warning-message =
         [one] { -brand-short-name } hindra denne nettstaden frå å opne eit sprettopp-vindauge.
        *[other] { -brand-short-name } hindra denne nettstaden frå å opne { $popupCount } sprettopp-vindauge.
     }
-# Variables:
-#   $popupCount (Number): the number of pop-ups blocked.
-redirect-warning-with-popup-message =
-    { $popupCount ->
-        [0] { -brand-short-name } hindra denne nettstaden frå å vidaresende.
-        [1] { -brand-short-name } hindra denne nettstaden frå å opne eit sprettoppvindauge og vidaresende.
-        [one] { "" }
-       *[other] { -brand-short-name } hindra denne nettstaden frå å opne { $popupCount } sprettoppvindauge og vidaresende.
-    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
