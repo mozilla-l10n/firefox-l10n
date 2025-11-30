@@ -70,6 +70,27 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Zapytaj { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Czatbot oparty na sztucznej inteligencji nie otrzyma pełnego zaznaczenia
+    .message =
+        { $selectionLength ->
+            [one] Zaznaczono { $selectionLength } znak. Maksymalna liczba znaków, jakie możemy wysłać do tego czatbota opartego na sztucznej inteligencji to około { $maxLength }.
+            [few] Zaznaczono około { $selectionLength } znaki. Maksymalna liczba znaków, jakie możemy wysłać do tego czatbota opartego na sztucznej inteligencji to około { $maxLength }.
+           *[many] Zaznaczono około { $selectionLength } znaków. Maksymalna liczba znaków, jakie możemy wysłać do tego czatbota opartego na sztucznej inteligencji to około { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } nie otrzyma pełnego zaznaczenia
+    .message =
+        { $selectionLength ->
+            [one] Zaznaczono { $selectionLength } znak. Maksymalna liczba znaków, jakie możemy wysłać do { $provider } to około { $maxLength }.
+            [few] Zaznaczono około { $selectionLength } znaki. Maksymalna liczba znaków, jakie możemy wysłać do { $provider } to około { $maxLength }.
+           *[many] Zaznaczono około { $selectionLength } znaków. Maksymalna liczba znaków, jakie możemy wysłać do { $provider } to około { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Ukryj skrót do czatbota
 genai-menu-choose-chatbot =
@@ -103,6 +124,12 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Ponownie wczytaj { $provider }
+genai-options-show-shortcut =
+    .label = Wyświetlaj skrót podczas zaznaczania tekstu
+genai-options-hide-shortcut =
+    .label = Nie wyświetlaj skrótu podczas zaznaczania tekstu
+genai-options-about-chatbot =
+    .label = Informacje o czatbotach opartych na sztucznej inteligencji w { -brand-short-name(case: "loc") }
 
 ## Chatbot footer
 
@@ -110,6 +137,10 @@ genai-page-button-summarize = Streść stronę
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Podczas przeglądania streszczaj, przeprowadzaj burze mózgów i nie tylko
+genai-onboarding-choose-header = Wybierz czatbota opartego na sztucznej inteligencji, z którego korzystać na panelu bocznym { -brand-short-name(case: "gen") }
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Zmieniaj dostawcę w dowolnej chwili. <a data-l10n-name="learn-more">Dowiedz się więcej o każdym czatbocie</a>, aby łatwiej wybrać.
 genai-onboarding-primary = Kontynuuj
 genai-onboarding-secondary = Zamknij
 genai-onboarding-claude-tooltip =

@@ -46,13 +46,24 @@ addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) و دست �
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } و { -brand-short-name } ٱوورده وابی
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName } درخاست موجوز نۊ داره
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = پۊرنیڌن وردنی یل و من ٱوورده وابیڌه و { -brand-short-name } ن دیندا کۊنین
 
 ## Add-on removal warning
 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = پاک کردن { $name }؟
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = پاک کردن { $name } ز { -brand-shorter-name }؟
 addon-removal-button = پاک کردن
+addon-removal-abuse-report-checkbox = گوزارش ای وردنی و { -vendor-short-name }
 addon-download-verifying = هونی واجۊری ابۊ
 addon-install-cancel-button =
     .label = لقو
