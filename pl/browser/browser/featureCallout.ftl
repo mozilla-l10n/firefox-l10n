@@ -96,8 +96,13 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nie, dziękuję
 
 perplexity-callout-theme-1-title = Natychmiast potrzebujesz właściwej odpowiedzi?
 perplexity-callout-theme-2-title = Wypróbuj Perplexity: nowy sposób wyszukiwania
+perplexity-callout-theme-1-subtitle-1 = Wypróbuj Perplexity. Gdy chcesz otrzymać gotowe odpowiedzi razem z ich źródłami, wybierz Perplexity z przycisku wyszukiwania.
 perplexity-callout-theme-1-subtitle-2 = Zadawaj pytania. Otrzymuj gotowe, dobrze udokumentowane odpowiedzi. Wybierz Perplexity z przycisku wyszukiwania, aby spróbować.
 perplexity-callout-theme-2-subtitle-1 = Pytaj Perplexity. Otrzymasz gotowe odpowiedzi razem z ich źródłami.
+perplexity-callout-theme-2-subtitle-2 = Zadawaj pytania. Otrzymuj gotowe, dobrze udokumentowane odpowiedzi.
+perplexity-callout-primary-label = Zapytaj Perplexity
+perplexity-callout-secondary-label-1 = Zamknij
+perplexity-callout-secondary-label-2 = OK
 
 ## Account Adoption Passwords callout strings
 
