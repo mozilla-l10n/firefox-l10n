@@ -447,6 +447,9 @@ identity-https-only-dropdown-off-temporarily =
     .label = کۊر وابیڌن مووقت
 identity-permissions-storage-access-learn-more = قلوه دووسته بۊین
 identity-permissions-reload-hint = گاشڌ لازوم بۊ ک بلگه ن سی ائمال آلشتکاریا دووارته بار ونی کۊنین.
+identity-remove-cert-exception =
+    .label = پاک کردن استسنا
+    .accesskey = R
 identity-enable-mixed-content-blocking =
     .label = فعال کردن زفت وابیڌن
     .accesskey = E
@@ -705,6 +708,7 @@ picture-in-picture-panel-header = شؽوات من شؽوات
 
 ## Full Screen and Pointer Lock UI
 
+fullscreen-exit-button = و در زیڌن ز نما پوی بلگه (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = و در زیڌن ز نما پوی بلگه (esc)
 
@@ -875,6 +879,7 @@ reset-pbm-panel-cancel-button =
 
 ## Add-on Pop-up Notifications
 
+popup-notification-xpinstall-prompt-block-url = نیشتن جۊزعیات
 # Note: Access key is set to p to match "private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = بهلین وردنی من نیمدری سیخومی ر بوۊفته
@@ -889,3 +894,10 @@ popup-notification-addon-technical-and-interaction-checkbox =
 
 trustpanel-privacy-link = سامووا هریم سیخومی
 trustpanel-clear-cookies-subview-button-cancel = لقو
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = ایمن نؽ
