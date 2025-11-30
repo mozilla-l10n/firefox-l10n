@@ -197,3 +197,4 @@ fp-certerror-hide-advanced-button = Piilota lisäasetukset
 fp-certerror-override-exception-button = Jatka sivustolle { $hostname } (riskialtista)
 fp-certerror-intro = { -brand-short-name } havaitsi mahdollisesti vakavan tietoturvaongelman sivustossa <strong>{ $hostname }</strong>. Sivustona esiintyvä taho voi yrittää varastaa esimerkiksi luottokorttitietoja, salasanoja tai sähköposteja.
 fp-certerror-expired-into = { -brand-short-name } havaitsi tietoturvaongelman sivustossa <strong>{ $hostname }</strong>. Joko sivustoa ei ole määritetty oikein tai laitteesi kello on asetettu väärään päivämäärään/aikaan.
+fp-certerror-transparency-intro = Joku, joka tekeytyy sivustoksi <strong>{ $hostname }</strong>, voi yrittää varastaa esimerkiksi luottokorttitietosi, salasanasi tai sähköpostisi.

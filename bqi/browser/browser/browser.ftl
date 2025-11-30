@@ -688,9 +688,25 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = پؽشنهاڌا { $engine }
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = پیتینیڌنا دیندایی
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = هؽزگری وابیڌه
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+picture-in-picture-panel-header = شؽوات من شؽوات
+
+## Full Screen and Pointer Lock UI
+
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = و در زیڌن ز نما پوی بلگه (esc)
 
 ## Bookmarks panels, menus and toolbar
 
@@ -774,6 +790,37 @@ toolbar-overflow-customize-button =
 
 eme-notifications-drm-content-playing-manage = دؽوۉداری سامووا
 eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = رڌ کردن
+eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+panel-save-update-username = نوم منتوری
+panel-save-update-password = رزم
+
+##
+
+# "More" item in macOS share menu
+menu-share-more =
+    .label = قلوه…
+ui-tour-info-panel-close =
+    .tooltiptext = بستن
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = هشتن نیمدری یل گۊشیڌنی سی ‎‪{ $uriHost }‬
+    .accesskey = p
+popups-infobar-block =
+    .label = مسدۊد کردن نیمدری یل گۊشیڌنی سی ‎‪{ $uriHost }‬
+    .accesskey = p
+
+##
+
+edit-popup-settings =
+    .label = دؽوۉداری سامووا نیمدری یل گۊشیڌنی…
+    .accesskey = M
 
 ##
 
