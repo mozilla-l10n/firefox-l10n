@@ -830,6 +830,10 @@ edit-popup-settings =
 tabs-toolbar-new-tab =
     .label = بلگه نۊ
 
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = نشووݩ داڌن بارت کار
+
 ## Unified extensions (toolbar) button
 
 unified-extensions-button =
