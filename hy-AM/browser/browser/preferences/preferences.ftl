@@ -145,6 +145,8 @@ preferences-data-migration-description = Ներմուծեք էջանիշները
 preferences-data-migration-button =
     .label = Ներմուծել տվյալները
     .accesskey = մ
+preferences-profiles-group-header =
+    .heading = Պրոֆիլներ
 preferences-manage-profiles-learn-more = Իմանալ ավելին
 preferences-manage-profiles-button =
     .label = Կառավարել պրոֆիլները
@@ -262,6 +264,7 @@ preferences-web-appearance-link =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Կառավարեք { -brand-short-name } ձևավորումները <a data-l10n-name="themes-link">Ընդլայնումներ և Ձևավորումներում</a>
 preferences-contrast-control-header = Ցայտնության կառավարում
+preferences-contrast-control-description = Կայքերն ունեն առաջնային և խորքային գույների բազմազանություն։ Կարգավորեք { -brand-short-name }-ը՝ կայքերում նույն գույներն օգտագործելու համար՝ ընթերցելիությունը բարելավելու համար։
 preferences-contrast-control-use-platform-settings =
     .label = Ինքնաշխատ (օգտագործել համակարգի կարգավորումները)
     .accesskey = A

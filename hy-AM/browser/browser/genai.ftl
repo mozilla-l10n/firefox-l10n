@@ -91,8 +91,11 @@ genai-page-button-summarize = Ամփոփել էջը
 ## Chatbot onboarding
 
 genai-onboarding-header = Ամփոփեք, մտագրոհ և ավելին դիտարկման ընթացքում
+genai-onboarding-choose-header = Ընտրեք ԱԲ չաթբոտ՝ { -brand-short-name }-ի կողագոտիում օգտագործելու համար
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Ընտրեք ԱԲ չաթբոտ՝ օգտագործելու համար { -brand-short-name } կողագոտիում: Մենք կցուցադրենք մանրամասներ յուրաքանչյուր չաթբոտի մասին, երբ ընտրեք այն: Փոխանջատեք ցանկացած ժամանակ: <a data-l10n-name="learn-more">Իմանալ ավելին</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Փոխեք ցանկացած ժամանակ։ Ընտրության հարցում օգնություն ստանալու համար <a data-l10n-name="learn-more">իմացեք ավելին յուրաքանչյուր չաթբոտի մասին</a>։
 genai-onboarding-primary = Շարունակել
 genai-onboarding-secondary = Փակել
 genai-onboarding-claude-tooltip =

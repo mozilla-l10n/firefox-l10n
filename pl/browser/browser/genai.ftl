@@ -31,6 +31,18 @@ genai-prompts-simplify =
 genai-prompts-quiz =
     .label = Przepytaj mnie
     .value = Przepytaj mnie z zaznaczonego tekstu. Zadawaj różne rodzaje pytań, na przykład wielokrotnego wyboru, prawda czy fałsz i krótką odpowiedź pisemną. Czekaj na moją odpowiedź, zanim przejdziesz do następnego pytania.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Objaśnij to
+    .value = Objaśnij kluczowe pojęcia w zaznaczonym tekście za pomocą prostych słów i podając przykłady.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Wykonaj korektę
+    .value = Sprawdź zaznaczony tekst pod kątem błędów ortograficznych i gramatycznych. Znajdź wszelkie pomyłki i podaj poprawioną wersję tekstu. Zachowaj znaczenie i rzetelność faktów oraz najpierw podaj listę proponowanych poprawek, a następnie końcową, poprawioną wersję tekstu.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = Jestem na stronie o nazwie „{ $tabTitle }” z zaznaczonym tekstem „{ $selection }”.
 
 ## Chatbot menu shortcuts
 
@@ -51,6 +63,7 @@ genai-menu-remove-provider =
     .label = Usuń { $provider }
 genai-menu-remove-sidebar =
     .label = Usuń z panelu bocznego
+genai-menu-new-badge = Nowe
 genai-menu-summarize-page = Streść stronę
 genai-input-ask-generic =
     .placeholder = Zapytaj czatbota SI…
