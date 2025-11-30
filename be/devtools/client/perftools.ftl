@@ -158,4 +158,6 @@ perftools-presets-power-label = Сілкаванне
 perftools-presets-power-description = Папярэднія налады для даследавання хібаў спажывання энергіі ў { -brand-shorter-name }, з невялікімі выдаткамі.
 perftools-presets-debug-label = Адладка
 perftools-presets-debug-description = Папярэднія налады для адладкі ў { -brand-shorter-name }. Вялікія накладныя выдаткі, выкарыстоўвайце не для павышэння прадукцыйнасці, а для канцэнтрацыі ўвагі на разуменні паводзін браўзера.
+perftools-presets-web-compat-label = Вэб-сумяшчальнасць
+perftools-presets-web-compat-description = Рэкамендаваныя папярэднія налады для адладкі праблем сумяшчальнасці ў сайтах, а не для сачэння за хуткадзейнасцю.
 perftools-presets-custom-label = Адмысловыя
