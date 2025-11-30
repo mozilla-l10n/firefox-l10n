@@ -1445,6 +1445,7 @@ trustpanel-privacy-link = Pribatutasun-ezarpenak
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Garbitu cookieak eta gunearen datuak { $host } ostalarirako
+trustpanel-clear-cookies-description = Cookieak eta gunearen datuak kentzeak webguneetatik saioa amaitzea eta erosketa-orgak hustea eragin lezake.
 trustpanel-clear-cookies-subview-button-clear = Garbitu
 trustpanel-clear-cookies-subview-button-cancel = Utzi
 # Variables
@@ -1500,3 +1501,6 @@ trustpanel-list-label-cryptominer =
         [one] Kriptomeatzariak: { $count }
        *[other] Kriptomeatzariak: { $count }
     }
+trustpanel-tracking-content-tab-list-header = Zure jarraipena egiten saiatzen ari dira gune hauek:
+trustpanel-fingerprinter-list-header = Hatz-marka bidezko zure jarraipena egiten saiatzen ari dira gune hauek:
+trustpanel-cryptominer-tab-list-header = Kriptomeatzen saiatzen ari dira gune hauek:
