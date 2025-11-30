@@ -2,10 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+customkeys-title = Tastatursnarvegar
 customkeys-search = Søk:
 customkeys-change = Endre
 customkeys-reset = Tilbakestill
 customkeys-clear = Tøm
+customkeys-new-key = Trykk på ein ny tast:
 customkeys-dev-tools = Verktøy for webutviklarar
 customkeys-category-navigation = Navigasjon
 customkeys-nav-back = Tilbake

@@ -426,6 +426,9 @@ quickactions-cmd-restart = Start på nytt
 # Opens the screenshot tool
 quickactions-screenshot3 = Ta eit skjermbilde
 quickactions-cmd-screenshot2 = skjermbilde, ta eit skjermbilde
+# Opens about:translations
+quickactions-translate = Omset
+quickactions-cmd-translate = omset
 quickactions-cmd-screenshot = skjermbilete
 # Opens about:preferences
 quickactions-settings2 = Handsam innstillingar
@@ -1371,6 +1374,15 @@ popup-warning-message =
     { $popupCount ->
         [one] { -brand-short-name } hindra denne nettstaden frå å opne eit sprettopp-vindauge.
        *[other] { -brand-short-name } hindra denne nettstaden frå å opne { $popupCount } sprettopp-vindauge.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } hindra denne nettstaden frå å vidaresende.
+        [1] { -brand-short-name } hindra denne nettstaden frå å opne eit sprettoppvindauge og vidaresende.
+        [one] { "" }
+       *[other] { -brand-short-name } hindra denne nettstaden frå å opne { $popupCount } sprettoppvindauge og vidaresende.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
