@@ -172,7 +172,31 @@ genai-onboarding-select-header = Zaznacz tekst, aby zobaczyć podpowiedzi
 genai-onboarding-select-description = Po zaznaczeniu tekstu podpowiemy polecenia, które można wysłać do czatbota. Można również pisać własne polecenia.
 genai-onboarding-select-primary = Rozpocznij czat
 genai-chatbot-contextual-title = Korzystaj z czatbota opartego na sztucznej inteligencji bez przełączania kart
+genai-chatbot-contextual-subtitle = Czatuj i przeglądaj Internet obok siebie po dodaniu czatbota opartego na sztucznej inteligencji do panelu bocznego { -brand-short-name(case: "gen") }.
+genai-chatbot-contextual-button = Wybierz czatbota
+genai-chatbot-summarize-title = Nowość! Streszczaj strony jednym kliknięciem
 genai-chatbot-summarize-button = Streść stronę
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Kliknij czatbota opartego na sztucznej inteligencji na panelu bocznym prawym przyciskiem i wybierz „Streść stronę”.
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-generate = Generowanie tekstu i kodu
+genai-onboarding-claude-analyze = Analizowanie dokumentów i obrazów
+genai-onboarding-claude-price = Opcje bezpłatne i płatne — wymagane jest konto
+genai-onboarding-chatgpt-generate = Generowanie tekstu, obrazów i kodu
+genai-onboarding-chatgpt-analyze = Analizowanie dokumentów i obrazów
+genai-onboarding-chatgpt-price = Opcje bezpłatne i płatne — w niektórych krajach i do części zadań wymagane jest konto
+genai-onboarding-copilot-generate = Generowanie tekstu, obrazów i kodu
+genai-onboarding-copilot-analyze = Analizowanie obrazów
+genai-onboarding-copilot-price = Opcje bezpłatne i płatne — do części zadań wymagane jest konto
+genai-onboarding-gemini-generate = Generowanie tekstu, obrazów i kodu
+genai-onboarding-gemini-analyze = Analizowanie obrazów (bezpłatne) i dokumentów (płatne)
+genai-onboarding-gemini-price = Opcje bezpłatne i płatne — wymagane jest konto
+genai-onboarding-huggingchat-generate = Generowanie tekstu i kodu
+genai-onboarding-lechat-generate = Generowanie tekstu i kodu
+genai-onboarding-lechat-price = Bezpłatne — wymagane jest konto
 
 ## Model Optin Component
 
