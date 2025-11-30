@@ -198,6 +198,8 @@ about-glean-button-watch = Назіраць
 about-glean-button-unwatch = Не назіраць
 about-glean-no-data-to-display = Няма дадзеных для адлюстравання.
 # Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = Паказчыкі <code>DualLabeledCounter</code> пакуль не падтрымліваюцца ў праглядзе  <code>about:glean</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Паказчыкі з пазнакамі пакуль не падтрымліваюцца ў праглядзе <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Невядомы тып паказчыка.
 about-glean-enable-new-features-promo =

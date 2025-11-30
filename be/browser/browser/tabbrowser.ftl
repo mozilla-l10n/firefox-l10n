@@ -401,6 +401,15 @@ tab-context-edit-note =
     .label = Рэдагаваць нататку
     .accesskey = у
 tab-note-editor-title-create = Дадаць нататку
+tab-note-editor-title-edit = Змяніць нататку
+tab-note-editor-text-field =
+    .placeholder = Што вы хочаце запомніць пра гэтую картку?
+tab-note-editor-button-cancel =
+    .label = Скасаваць
+    .accesskey = С
+tab-note-editor-button-save =
+    .label = Захаваць
+    .accesskey = З
 
 ## Split View
 
@@ -426,3 +435,8 @@ tab-context-badge-new = Новы
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
     .label = Раздзяліць карткі
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Пераставіць карткі
+split-view-menuitem-close-both-tabs =
+    .label = Закрыць абедзве карткі
