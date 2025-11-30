@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = ล้าง
 text-action-highlight-selection =
     .label = เน้นสีส่วนที่เลือก
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = เพิ่มความคิดเห็นลงในส่วนที่เลือก
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =
