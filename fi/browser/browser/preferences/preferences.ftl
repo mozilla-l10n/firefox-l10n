@@ -114,6 +114,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Ota laajennus käyttöön siirtymällä <img data-l10n-name="addons-icon"/> Lisäosat -sivulle <img data-l10n-name="menu-icon"/>-valikosta.
+extension-controlled-enable-2 = Voit ottaa tämän laajennuksen uudelleen käyttöön <a data-l10n-name="addons-link">Laajennukset ja teemat</a> -sivulla.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } hallitsee joitakin etusivusi asetuksia.
@@ -189,6 +190,14 @@ preferences-copy-profile-select = Valitse profiili
 preferences-copy-profile-button = Kopioi
 tabs-group-header2 =
     .label = Välilehdet
+tabs-opening-heading =
+    .label = Avaaminen
+tabs-interaction-heading =
+    .label = Vuorovaikutus
+tabs-containers-heading =
+    .label = Eristetyt välilehdet
+tabs-closing-heading =
+    .label = Sulkeminen
 tabs-group-header = Välilehdet
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab selaa välilehtiä käyttöjärjestyksessä alkaen viimeisimmästä
@@ -745,9 +754,14 @@ home-prefs-weather-header =
     .label = Sää
 home-prefs-weather-description = Tämän päivän ennuste yhdellä vilkaisulla
 home-prefs-weather-learn-more-link = Lue lisää
+home-prefs-widgets-header =
+    .label = Widgetit
 home-prefs-trending-search-header =
     .label = Nousussa olevat haut
 home-prefs-trending-search-description = Suosittuja ja usein haettuja aiheita
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listat
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Ajastin
@@ -1255,6 +1269,8 @@ history-remember-description2 =
     .description = { -brand-short-name } kerää ja säilyttää selaus-, lataus-, lomake- ja hakuhistorian.
 history-dontremember-description2 =
     .description = { -brand-short-name } toimii aina kuten yksityisessä selaustilassa, eikä säilytä mitään historiatietoja.
+history-custom-description =
+    .description = { -brand-short-name } käyttää mukautettuja asetuksia selaus-, lataus-, lomake- ja hakuhistoriaa varten.
 history-remember-description = { -brand-short-name } kerää ja säilyttää selaus-, lataus-, lomake- ja hakuhistorian.
 history-dontremember-description = { -brand-short-name } toimii aina kuten yksityisessä selaustilassa, eikä säilytä mitään historiatietoja.
 history-private-browsing-permanent =
@@ -1602,6 +1618,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Estä ponnahdusikkunat ja kolmannen osapuolen uudelleenohjaukset
     .accesskey = ä
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Hallitse ponnahdusikkunoiden ja kolmannen osapuolen uudelleenohjausten poikkeuksia
+    .accesskey = e
+    .searchkeywords = ponnahdusikkunat
 permissions-addon-install-warning2 =
     .label = Varoita, kun verkkosivustot yrittävät asentaa laajennuksia
     .accesskey = V
@@ -1623,6 +1645,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Poikkeukset…
     .accesskey = P
+permissions-header2 =
+    .label = Oikeudet
+    .description = Oikeudet, jotka myönnät sivustoille, joilla vierailet.
 permissions-location2 =
     .label = Sijainti
 permissions-localhost2 =
@@ -1635,6 +1660,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofoni
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Kaiutin
 permissions-notification2 =
     .label = Ilmoitukset
 

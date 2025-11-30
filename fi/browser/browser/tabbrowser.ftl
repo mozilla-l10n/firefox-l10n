@@ -285,6 +285,20 @@ tab-context-move-tab-to-group =
            *[other] Lisää välilehdet ryhmään
         }
     .accesskey = ä
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Lisää jaettu näkymä uuteen ryhmään
+           *[other] Add Split Views to New Group
+        }
+    .accesskey = j
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Lisää jaettu näkymä ryhmään
+           *[other] Add Split Views to Group
+        }
+    .accesskey = j
 tab-context-move-tab-to-group-saved-groups =
     .label = Suljetut ryhmät
 tab-group-editor-action-new-tab =
