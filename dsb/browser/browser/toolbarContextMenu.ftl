@@ -26,10 +26,10 @@ toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
             [1] Zacynjony rejtarik znowego wócyniś
-            [one] Zacynjony rejtarik znowego wócyniś
-            [two] Zacynjonej rejtarika znowego wócyniś
-            [few] Zacynjone rejtariki znowego wócyniś
-           *[other] Zacynjone rejtariki znowego wócyniś
+            [one] { $tabCount } zacynjony rejtarik znowego wócyniś
+            [two] { $tabCount } zacynjonej rejtarika znowego wócyniś
+            [few] { $tabCount } zacynjone rejtariki znowego wócyniś
+           *[other] { $tabCount } zacynjone rejtariki znowego wócyniś
         }
     .accesskey = Z
 toolbar-context-turn-on-vertical-tabs =

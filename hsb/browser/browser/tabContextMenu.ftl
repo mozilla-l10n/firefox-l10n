@@ -110,10 +110,10 @@ tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
             [1] Začinjeny rajtark znowa wočinić
-            [one] $tabCount začinjeny rajtark znowa wočinić
-            [two] $tabCount začinjenej rajtarkaj znowa wočinić
-            [few] $tabCount začinjene rajtarki znowa wočinić
-           *[other] $tabCount začinjenych rajtarkow znowa wočinić
+            [one] { $tabCount } začinjeny rajtark znowa wočinić
+            [two] { $tabCount } začinjenej rajtarkaj znowa wočinić
+            [few] { $tabCount } začinjene rajtarki znowa wočinić
+           *[other] { $tabCount } začinjenych rajtarkow znowa wočinić
         }
     .accesskey = r
 tab-context-close-n-tabs =
