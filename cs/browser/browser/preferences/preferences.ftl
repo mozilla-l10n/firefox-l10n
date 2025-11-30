@@ -64,6 +64,11 @@ pane-experimental-description2 =
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 =
+    { -brand-short-name.case-status ->
+        [with-cases] Vyzkoušejte naše experimentální funkce! Jsou ve vývoji a vyvíjejí se, což může ovlivnit fungování { -brand-short-name(case: "gen") }. Údaje o vašem používání těchto funkcí získáváme pouze v případě, když máte zapnuté odesílání <a data-l10n-name="data-collection">technických údajů a údajů o interakcích</a>.
+       *[no-cases] Vyzkoušejte naše experimentální funkce! Jsou ve vývoji a vyvíjejí se, což může ovlivnit fungování aplikace { -brand-short-name }. Údaje o vašem používání těchto funkcí získáváme pouze v případě, když máte zapnuté odesílání <a data-l10n-name="data-collection">technických údajů a údajů o interakcích</a>.
+    }
 pane-experimental-description3 =
     { -brand-short-name.case-status ->
         [with-cases] Vyzkoušejte naše experimentální funkce! Jsou ve vývoji a průběžně se vylepšují, což může ovlivnit fungování { -brand-short-name(case: "gen") }.
@@ -1791,6 +1796,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokovat vyskakovací okna a přesměrování třetích stran
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Spravovat výjimky pro vyskakovací okna a přesměrování třetích stran
+    .accesskey = e
+    .searchkeywords = vyskakovací okna
 permissions-addon-install-warning2 =
     .label = Vždy upozornit při pokusu o instalaci rozšíření
     .accesskey = V

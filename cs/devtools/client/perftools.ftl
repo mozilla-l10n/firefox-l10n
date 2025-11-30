@@ -180,4 +180,5 @@ perftools-presets-debug-description =
        *[no-cases] Přednastaveno pro ladění v aplikaci { -brand-shorter-name }. Vysoká režie, nepoužívat pro zlepšení výkonu, ale spíše pro pochopení chování prohlížeče.
     }
 perftools-presets-web-compat-label = Webová kompatibilita
+perftools-presets-web-compat-description = Doporučené nastavení pro ladění problémů s kompatibilitou webových stránek, spíše než pro sledování výkonu.
 perftools-presets-custom-label = Vlastní

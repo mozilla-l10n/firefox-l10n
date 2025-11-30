@@ -79,6 +79,6 @@ about-private-browsing-cookie-banners-promo-body = Nyní automaticky odmítáme 
 
 ## Strings for Felt Privacy v1 experiments in 119
 
-about-private-browsing-felt-privacy-v1-info-header = Nezanechávejte na tomto zařízení žádné stopy
+about-private-browsing-felt-privacy-v1-info-header = Nezanechá stopy
 about-private-browsing-felt-privacy-v1-info-body = Když zavřete všechna anonymní okna, { -brand-short-name } vymaže vaše cookies, historii a data stránek.
 about-private-browsing-felt-privacy-v1-info-link = Kdo může vidět mou aktivitu?
