@@ -178,6 +178,11 @@ genai-chatbot-summarize-title = Nowość! Streszczaj strony jednym kliknięciem
 genai-chatbot-summarize-button = Streść stronę
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Kliknij czatbota opartego na sztucznej inteligencji na panelu bocznym prawym przyciskiem i wybierz „Streść stronę”.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Kliknij przycisk z iskrami na panelu bocznym prawym przyciskiem i wybierz „Streść stronę”. Za pierwszym razem wybierzesz również czatbota opartego na sztucznej inteligencji.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Otwórz czatbota opartego na sztucznej inteligencji na panelu bocznym i wybierz „Streść stronę” na dole.
+genai-chatbot-summarize-footer-generic-subtitle = Dodaj czatbota opartego na sztucznej inteligencji do panelu bocznego { -brand-short-name(case: "gen") }, aby szybko streszczać strony.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -195,6 +200,8 @@ genai-onboarding-gemini-generate = Generowanie tekstu, obrazów i kodu
 genai-onboarding-gemini-analyze = Analizowanie obrazów (bezpłatne) i dokumentów (płatne)
 genai-onboarding-gemini-price = Opcje bezpłatne i płatne — wymagane jest konto
 genai-onboarding-huggingchat-generate = Generowanie tekstu i kodu
+genai-onboarding-huggingchat-switch = Przełączanie między różnorodnymi otwartymi modelami
+genai-onboarding-huggingchat-price-2 = Bezpłatne — konto jest wymagane po określonej liczbie poleceń
 genai-onboarding-lechat-generate = Generowanie tekstu i kodu
 genai-onboarding-lechat-price = Bezpłatne — wymagane jest konto
 
@@ -209,11 +216,38 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } minuta na przeczytanie
+        [few] { $range } minuty na przeczytanie
+       *[many] { $range } minut na przeczytanie
+    }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Nie można wyświetlić podglądu tego odnośnika
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Otwórz odnośnik
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Nie można wygenerować punktów kluczowych tej strony.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Coś się nie powiodło.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Spróbuj ponownie
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Ustawienia podglądu odnośników
+link-preview-settings-enable =
+    .label = Podgląd odnośników
+    .description = Wyświetla tytuł strony, opis i nie tylko po użyciu skrótu lub kliknięciu odnośnika prawym przyciskiem.
+link-preview-settings-key-points =
+    .label = Sztuczna inteligencja może odczytywać początek strony i generować kluczowe punkty
+link-preview-settings-long-press =
+    .label = Skrót: kliknij i przytrzymaj odnośnik przez 1 sekundę (długie naciśnięcie)
 # Onboarding card Close button
 link-preview-onboarding-close = Zamknij
