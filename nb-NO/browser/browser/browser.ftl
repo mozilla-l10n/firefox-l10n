@@ -426,6 +426,9 @@ quickactions-cmd-restart = omstart, start på nytt
 # Opens the screenshot tool
 quickactions-screenshot3 = Ta et skjermbilde
 quickactions-cmd-screenshot2 = skjermbilde, ta et skjermbilde
+# Opens about:translations
+quickactions-translate = Oversett
+quickactions-cmd-translate = oversett
 quickactions-cmd-screenshot = skjermbilde, skjermdump
 # Opens about:preferences
 quickactions-settings2 = Behandle innstillinger
