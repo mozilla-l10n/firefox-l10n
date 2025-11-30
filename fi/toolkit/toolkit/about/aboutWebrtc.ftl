@@ -92,6 +92,9 @@ about-webrtc-debug-mode-msg-label = Virheenjäljitystila
 about-webrtc-debug-mode-off-state-label = Käynnistä virheenjäljitystila
 about-webrtc-debug-mode-on-state-label = Pysäytä virheenjäljitystila
 about-webrtc-stats-heading = Istunnon tilastot
+about-webrtc-peerconnections-section-heading = RTCPeerConnection-tilastot
+about-webrtc-peerconnections-section-show-msg = Näytä RTCPeerConnection-tilastot
+about-webrtc-peerconnections-section-hide-msg = Piilota RTCPeerConnection-tilastot
 about-webrtc-stats-clear = Tyhjennä historia
 about-webrtc-log-heading = Yhteysloki
 about-webrtc-log-clear = Tyhjennä loki
@@ -185,6 +188,14 @@ about-webrtc-configuration-element-provided = Annettu
 about-webrtc-configuration-element-not-provided = Ei annettu
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Käyttäjän asettamat WebRTC-asetukset
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Käyttäjän muokkaama WebRTC-määritys
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Näytä käyttäjän muokkaama määritys
+about-webrtc-user-modified-configuration-hide-msg = Piilota käyttäjän muokkaama määritys
 
 ##
 

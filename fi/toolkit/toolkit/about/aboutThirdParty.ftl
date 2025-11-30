@@ -50,6 +50,13 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = Tällä hetkellä estetty. Napsauta poistaaksesi sen eston.
     .aria-label = Tällä hetkellä estetty. Napsauta poistaaksesi sen eston.
+third-party-button-to-unblock-disabled =
+    .title =
+        Tällä hetkellä merkitty estetyksi, vaikkei estolistaa käytetä tällä
+        { -brand-short-name }in suorituskerralla. Poista esto napsauttamalla.
+    .aria-label =
+        Tällä hetkellä merkitty estetyksi, vaikkei estolistaa käytetä tällä
+        { -brand-short-name }in suorituskerralla. Poista esto napsauttamalla.
 third-party-button-to-block-module = Estä tämä moduuli
     .title = Estä tämä moduuli
     .aria-label = Estä tämä moduuli
