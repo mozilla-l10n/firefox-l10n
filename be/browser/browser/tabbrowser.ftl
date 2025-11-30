@@ -309,6 +309,24 @@ tab-context-move-tab-to-group =
            *[many] Дадаць карткі ў групу
         }
     .accesskey = п
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Дадаць падзелены выгляд у новую групу
+            [one] Дадаць падзеленыя выгляды ў новую групу
+            [few] Дадаць падзеленыя выгляды ў новую групу
+           *[many] Дадаць падзеленыя выгляды ў новую групу
+        }
+    .accesskey = п
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Дадаць падзелены выгляд у групу
+            [one] Дадаць падзеленыя выгляды ў групу
+            [few] Дадаць падзеленыя выгляды ў групу
+           *[many] Дадаць падзеленыя выгляды ў групу
+        }
+    .accesskey = п
 tab-context-move-tab-to-group-saved-groups =
     .label = Закрытыя групы
 tab-group-editor-action-new-tab =
@@ -374,6 +392,16 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Адкрыць групу ў новым акне
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Дадаць нататку
+    .accesskey = Д
+tab-context-edit-note =
+    .label = Рэдагаваць нататку
+    .accesskey = у
+tab-note-editor-title-create = Дадаць нататку
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -392,3 +420,9 @@ tab-context-separate-split-view =
     .label = Асобны падзелены выгляд
     .accesskey = е
 tab-context-badge-new = Новы
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Раздзяліць карткі
