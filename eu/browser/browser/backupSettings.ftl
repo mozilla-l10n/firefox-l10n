@@ -242,6 +242,10 @@ other-backup-files-founds =
         [one] <b>Oharra:</b> Beste babeskopia-fitxategi bat aurkitu da
        *[other] <b>Oharra:</b> Beste { $numberOfOtherBackupsFound } babeskopia-fitxategi aurkitu dira
     }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Sortze-data: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, { $machineName } makinan
 backup-file-restore-file-validation-error = Fitxategia ez dabil. Saiatu beste fitxategi batekin. <a data-l10n-name="restore-problems">Arazoak dituzu oraindik?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ez da fitxategirik hautatu

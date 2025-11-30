@@ -30,6 +30,7 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::placeholder pseudo-elements.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> không ảnh hưởng đến yếu tố này vì nó có hiển thị của <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Giá trị <strong>display</strong> đã được thay đổi bởi máy thành <strong>block</strong> vì phần tử là <strong>floated</strong>.
+inactive-css-not-block-flex-grid-container = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì thuộc tính chỉ áp dụng cho các phần tử dạng block, flex hoặc grid container.
 inactive-css-property-is-impossible-to-override-in-visited = Nó không thể ghi đè <strong>{ $property }</strong> do hạn chế <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là phần tử được định vị.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì <strong>overflow:hidden</strong> không được đặt.

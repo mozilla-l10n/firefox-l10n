@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Nabigatze pribatua
+popups-infobar-dont-show-message2 =
+    .label = Ez erakutsi mezu hau laster-leihoak edo hirugarrenek eragindako birbideratzeak blokeatzean
+    .accesskey = z
+edit-popup-settings2 =
+    .label = Kudeatu laster-leihoen eta hirugarrenek eragindako birbideratzeen ezarpenak…
+    .accesskey = K
 
 ##
 
@@ -146,6 +152,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Ireki mezuen panela
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Ireki helbide-eskaeren panela
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Kudeatu gailu lokalerako sarbidea gune honetarako
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Kudeatu zure sare lokalerako sarbidea gune honekin partekatzea
 urlbar-xr-notification-anchor =
     .tooltiptext = Ireki errealitate birtualaren baimenen panela
 urlbar-storage-access-anchor =
@@ -201,6 +211,13 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Kudeatu { -firefox-suggest-brand-name }
     .accesskey = K
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Eman kokaleku okerraren berri
 urlbar-result-menu-show-less-frequently =
     .label = Erakutsi maiztasun txikiagoarekin
 urlbar-result-menu-dont-show-weather-suggestions =
@@ -239,6 +256,10 @@ urlbar-search-mode-actions = Ekintzak
 
 urlbar-geolocation-blocked =
     .tooltiptext = Kokalekuaren informazioa blokeatuta daukazu webgune honetarako.
+urlbar-localhost-blocked =
+    .tooltiptext = Gailu lokalerako konexioak blokeatuta dauzkazu webgune honetarako.
+urlbar-local-network-blocked =
+    .tooltiptext = Sare lokalerako konexioak blokeatuta dauzkazu webgune honetarako.
 urlbar-xr-blocked =
     .tooltiptext = Errealitate birtualeko gailuen sarbidea blokeatuta daukazu webgune honetarako.
 urlbar-web-notifications-blocked =
@@ -251,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Pantaila partekatzea blokeatuta daukazu webgune honetarako.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Datuen biltegiratze iraunkorra blokeatuta daukazu webgune honetarako.
+urlbar-popup-blocked2 =
+    .tooltiptext = Laster-leihoak eta hirugarrenek eragindako birbideratzeak blokeatuta dauzkazu webgune honetarako.
 urlbar-popup-blocked =
     .tooltiptext = Laster-leihoak blokeatuta dauzkazu webgune honetarako.
 urlbar-autoplay-media-blocked =
@@ -752,6 +775,19 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> { $city }(e)n, { $region }
 # The title of a weather suggestion in the urlbar including a region and
 # country. The temperature and unit substring should be inside a <strong> tag.
 # If the temperature and unit are not adjacent in the localization, it's OK to
