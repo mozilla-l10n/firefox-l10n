@@ -104,6 +104,8 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = AI chatbot
 genai-header-provider-menu =
     .title = Vel ein samtalerobot
+genai-header-settings-button =
+    .title = Innstillingar for AI-chat
 genai-header-options-button =
     .title = Opne meny
 genai-header-close-button =
@@ -260,3 +262,5 @@ link-preview-setup-faster-next-time = Du vil sjå hovudpunkt raskare neste gong.
 link-preview-onboarding-button = Sjå ei førehandsvisning
 # Onboarding card Close button
 link-preview-onboarding-close = Lat att
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Førstegangsoppsett
