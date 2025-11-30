@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = { -brand-shorter-name } ішінде жөндеуге арналған алдын ала жасалған баптау. Жоғары шығынды, өнімділік жұмысы үшін емес, браузер әрекетін түсіну үшін пайдаланыңыз.
 profiler-popup-presets-debug-label =
     .label = Жөндеу
+profiler-popup-presets-web-compat-description = Өнімділікті қадағалаудың орнына веб-сайттардағы веб-үйлесімділік мәселелерін түзету үшін ұсынылған алдын ала орнату.
+profiler-popup-presets-web-compat-label =
+    .label = Веб-үйлесімділік
 profiler-popup-presets-custom-label =
     .label = Таңдауыңызша
 

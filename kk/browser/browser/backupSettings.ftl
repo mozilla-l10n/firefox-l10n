@@ -25,8 +25,11 @@ settings-data-backup-toggle-on = Қор көшірмені іске қосу
 settings-data-backup-toggle-off = Қор көшірмені сөндіру
 settings-data-backup-trigger-button = Қазір сақтық көшірме жасау
 settings-data-backup-in-progress-button = Сақтық көшірме жасалуда…
+settings-data-backup-in-progress-message =
+    .message = Сақтық көшірме жасалуда…
 settings-data-backup-scheduled-backups-on = Сақтық көшірме: ІСКЕ ҚОСУЛЫ
 settings-data-backup-scheduled-backups-off = Сақтық көшірме: СӨНДІРУЛІ
+settings-data-backup-scheduled-backups-description = Бетбелгілеріңізді, шолу тарихыңызды және басқа деректерді автоматты түрде қорғау. <a data-l10n-name="support-link">Көбірек білу</a>
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Орналасуы
 settings-data-backup-last-backup-location-show-in-folder = Бумада көрсету
