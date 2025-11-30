@@ -45,4 +45,4 @@ download-ui-cancel-downloads-ok =
 download-ui-file-executable-security-warning-title = Բացե՞լ կատարելի ֆայլը:
 # Variables:
 #   $executable (String): The executable file to be opened.
-download-ui-file-executable-security-warning = "{ $executable }"-ը գործարկելի ֆայլ է: Կատարելի ֆայլերը կարող են պարունակել վիրուսներ կամ այլ նենգամիտ կոդ, որը կարող է վնասել ձեր համակարգչին: Շրջահայացորեն բացեք այս ֆայլը: Իրոք ցանկանու՞մ եք աշխատացնել "{ $executable }"­-ը:
+download-ui-file-executable-security-warning = "{ $executable }"-ը կատարելի ֆայլ է: Կատարելի ֆայլերը կարող են պարունակել վիրուսներ կամ այլ նենգամիտ կոդ, որը կարող է վնասել ձեր համակարգիչը: Շրջահայացորեն բացեք այս ֆայլը: Իրոք ցանկանո՞ւմ եք թողարկել "{ $executable }"­-ը:
