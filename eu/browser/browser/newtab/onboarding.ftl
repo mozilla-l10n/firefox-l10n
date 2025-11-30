@@ -349,6 +349,10 @@ onboarding-easy-setup-security-and-privacy-title = Zu seguru mantentzea dugu xed
 onboarding-easy-setup-security-and-privacy-subtitle = Irabazi asmorik gabeko erakundeak babestutako gure nabigatzaileak laguntzen du eragozten enpresek zure webeko jarraipena sekretupean egin dezaten.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Mantendu zifratzea gailuen artean salto egitean
+onboarding-mobile-download-security-and-privacy-subtitle = Sinkronizatuta zaudenean, zure pasahitzak, laster-markak eta gehiago zifratzen ditu { -brand-short-name }(e)k. Eta gainera zure beste gailuetako fitxak har ditzakezu.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name }(e)n babespean zaude
+onboarding-gratitude-security-and-privacy-subtitle = Eskerrik asko Mozilla Fundazioak babesten duen { -brand-short-name } erabiltzeagatik. Zure laguntzarekin Internet denontzat seguru eta eskuragarriagoa egiteko lanean ari gara.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sinkronizatu datuak gailuen artean
 onboarding-sign-up-button = Eman izena edo hasi saioa

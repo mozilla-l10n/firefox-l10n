@@ -30,6 +30,10 @@ options-context-inspector = Trình kiểm tra
 options-show-user-agent-styles-label = Hiển thị kiểu của trình duyệt
 options-show-user-agent-styles-tooltip =
     .title = Bật tính năng này sẽ hiển thị các kiểu mặc định được tải bởi trình duyệt.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Hiển thị Shadow DOM của trình duyệt
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Bật tính năng này sẽ hiển thị các phần tử Shadow DOM được trình duyệt xử lý.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Cắt bớt các thuộc tính DOM
 options-collapse-attrs-tooltip =
