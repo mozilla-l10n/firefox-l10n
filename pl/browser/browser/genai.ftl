@@ -249,5 +249,28 @@ link-preview-settings-key-points =
     .label = Sztuczna inteligencja może odczytywać początek strony i generować kluczowe punkty
 link-preview-settings-long-press =
     .label = Skrót: kliknij i przytrzymaj odnośnik przez 1 sekundę (długie naciśnięcie)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Chcesz widzieć więcej dzięki sztucznej inteligencji?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } korzysta ze sztucznej inteligencji do odczytania początku strony i wygenerowania kilku punktów kluczowych. Aby zapewnić Ci prywatność, jest to wykonywane na Twoim urządzeniu.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nowość: kliknij i przytrzymaj dowolny odnośnik, aby wyświetlić jego podgląd
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Zobacz krótki opis, czas potrzebny na przeczytanie i nie tylko, aby zdecydować, czy odnośnik jest warty otwarcia. Dostępne także po kliknięciu prawym przyciskiem.
+# Header for the key points section
+link-preview-key-points-header = Kluczowe punkty
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Kluczowe punkty są generowane przez sztuczną inteligencję i mogą zawierać błędy.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Początkowa konfiguracja • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Następnym razem punkty kluczowe zobaczysz szybciej.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Wyświetl podgląd
 # Onboarding card Close button
 link-preview-onboarding-close = Zamknij
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Początkowa konfiguracja
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = To może chwilę potrwać. Następnym razem punkty kluczowe zobaczysz szybciej.
