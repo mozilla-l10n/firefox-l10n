@@ -19,8 +19,8 @@ profile-card-delete-button =
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Открыть { $profileName }
-    .aria-label = Открыть { $profileName }
+    .title = Открыть «{ $profileName }»
+    .aria-label = Открыть «{ $profileName }»
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профиль { $number }
@@ -66,7 +66,7 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Ваша копия { $profilename } готова к настройке
 copied-profile-page-header-description = Мы скопировали ваши данные и настройки в новый профиль. Теперь дайте ему имя, выберите внешний вид и сделайте его своим.
-profile-window-title-2 = { -brand-short-name } - Выберите профиль
+profile-window-title-2 = { -brand-short-name } — Выбор профиля
 profile-window-logo =
     .alt = Логотип { -brand-short-name }
 
@@ -74,10 +74,10 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Удалить профиль { $profilename }
+delete-profile-page-title = Удалить профиль «{ $profilename }»
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-header = Удалить профиль { $profilename }?
+delete-profile-header = Удалить профиль «{ $profilename }»?
 delete-profile-description = { -brand-short-name } навсегда удалит следующие данные с этого устройства:
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Открытые окна
