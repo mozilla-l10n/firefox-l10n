@@ -508,6 +508,8 @@ create-backup-screen-2-all-label = Alle data
 create-backup-screen-2-all-list-2 = Inkluderer passord og betalingar
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Kryptert med eit passord
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Kvar vil du lagre sikkerheitskopien din?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Lag eit passord for sikkerheitskopifila
 create-backup-screen-3-subtitle = Påkravd for å kryptere dataa dine. Lagre dei på ein stad du hugsar.
@@ -535,6 +537,7 @@ fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Gå til <a data-l10n-n
 
 restore-from-backup-secondary-top-button = Gjenopprett frå sikkerheitskopi
 restore-from-backup-title = La oss få { -brand-short-name } tilbake slik du liker han
+restore-from-backup-subtitle = Gjenopprett alle bokmerka, historikken og andre data for å kome tilbake til nettlesing.
 restore-from-backup-secondary-button = Ikkje gjenopprett
 
 ## Restored from Backup spotlight

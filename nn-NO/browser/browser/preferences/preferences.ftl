@@ -167,6 +167,13 @@ preferences-manage-profiles-description = Kvar profil har eigne nettlesardata og
 preferences-manage-profiles-learn-more = Les meir
 preferences-manage-profiles-button =
     .label = Handsam profilar
+preferences-profiles-settings-button =
+    .label = Innstillingar
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Vel profil
+preferences-copy-profile-button = Kopier
 tabs-group-header2 =
     .label = Faner
 tabs-group-header = Faner
@@ -710,15 +717,24 @@ home-prefs-weather-header =
     .label = Vêr
 home-prefs-weather-description = Vêrmeldinga i dag, i korte trekk
 home-prefs-weather-learn-more-link = Les meir
+home-prefs-widgets-header =
+    .label = Widgetar
 home-prefs-trending-search-header =
     .label = Populære søk
 home-prefs-trending-search-description = Populære og ofte søkte emne
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Lister
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Nedteljing
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Støtt { -brand-product-name }
 home-prefs-mission-message = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett
 home-prefs-mission-message-learn-more-link = Finn ut korleis
 home-prefs-manage-topics-link = Handsam emne
+home-prefs-choose-wallpaper-link = Vel eit bakgrunnsbilde
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1026,6 +1042,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Passord
     .searchkeywords = innloggingar
+forms-passwords-header =
+    .label = Passord
+    .aria-label = Passord
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Spør om å lagre passord
@@ -1138,12 +1157,22 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Krev einingspålogging for å automatisk fylle ut og handsame betalingsmåter
     .accesskey = K
+payments-remove-payment-prompt-confirm-button = Fjern
+payments-remove-payment-prompt-cancel-button = Avbryt
 autofill-addresses-title = Adresser og meir
 autofill-addresses-header =
     .aria-label = Adresser og meir
 autofill-addresses-checkbox-message =
     .label = Lagre og autoutfyll adresser
     .accesskey = L
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1359,6 +1388,7 @@ content-blocking-private-windows = Sporingsinnhald i private vindauge
 content-blocking-cross-site-cookies-in-all-windows2 = Infokapslar på tvers av nettstadar i alle vindauge
 content-blocking-cross-site-tracking-cookies = Sporingsinfokapslar på tvers av nettstadar
 content-blocking-all-cross-site-cookies-private-windows = Infokapslar på tvers av nettstadar i private vindauge
+content-blocking-isolate-cross-site-cookies = Isoler infokapslar på tvers av nettstadar
 content-blocking-cross-site-tracking-cookies-plus-isolate = Sporingsinfokapsler på tvers av nettstadar, isolering av attståande infokapslar
 content-blocking-social-media-trackers = Sporing via sosiale medium
 content-blocking-all-cookies = Alle infokapslar
