@@ -233,7 +233,7 @@ link-preview-settings-enable =
 link-preview-settings-key-points =
     .label = 允許 AI 讀取頁面頂部，產生頁面重點
 link-preview-settings-long-press =
-    .label = 捷徑：長按鏈結 1 秒鐘
+    .label = 快速預覽：長按鏈結 1 秒鐘
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = 想要用 AI 看到更多內容嗎？
 # Message that appears when user is shown the opt-in flow for link previews
