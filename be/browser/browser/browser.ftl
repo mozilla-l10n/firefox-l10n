@@ -426,6 +426,9 @@ quickactions-cmd-restart = перазапусціць
 # Opens the screenshot tool
 quickactions-screenshot3 = Зрабіць здымак экрана
 quickactions-cmd-screenshot2 = скрыншот, здымак экрана, зрабіць здымак экрана
+# Opens about:translations
+quickactions-translate = Перакласці
+quickactions-cmd-translate = перакласці
 quickactions-cmd-screenshot = здымак экрана
 # Opens about:preferences
 quickactions-settings2 = Кіраваць наладамі
