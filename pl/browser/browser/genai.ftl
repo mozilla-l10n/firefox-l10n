@@ -131,6 +131,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = Informacje o czatbotach opartych na sztucznej inteligencji w { -brand-short-name(case: "loc") }
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Ze względu na długość strony jest to częściowe streszczenie.
+
 ## Chatbot footer
 
 genai-page-button-summarize = Streść stronę
@@ -139,6 +144,8 @@ genai-page-button-summarize = Streść stronę
 
 genai-onboarding-header = Podczas przeglądania streszczaj, przeprowadzaj burze mózgów i nie tylko
 genai-onboarding-choose-header = Wybierz czatbota opartego na sztucznej inteligencji, z którego korzystać na panelu bocznym { -brand-short-name(case: "gen") }
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Wybierz czatbota opartego na sztucznej inteligencji, z którego korzystać na panelu bocznym { -brand-short-name(case: "gen") }. Po wybraniu czatbota pokażemy o nim informacje. Zmieniaj dostawcę w dowolnej chwili. <a data-l10n-name="learn-more">Więcej informacji</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Zmieniaj dostawcę w dowolnej chwili. <a data-l10n-name="learn-more">Dowiedz się więcej o każdym czatbocie</a>, aby łatwiej wybrać.
 genai-onboarding-primary = Kontynuuj
@@ -161,6 +168,10 @@ genai-onboarding-huggingchat-learn = Więcej informacji o HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Więcej informacji o Le Chat
+genai-onboarding-select-header = Zaznacz tekst, aby zobaczyć podpowiedzi
+genai-onboarding-select-description = Po zaznaczeniu tekstu podpowiemy polecenia, które można wysłać do czatbota. Można również pisać własne polecenia.
+genai-onboarding-select-primary = Rozpocznij czat
+genai-chatbot-contextual-title = Korzystaj z czatbota opartego na sztucznej inteligencji bez przełączania kart
 genai-chatbot-summarize-button = Streść stronę
 
 ## Model Optin Component
