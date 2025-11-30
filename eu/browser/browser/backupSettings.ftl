@@ -171,6 +171,7 @@ change-backup-encryption-header = Aldatu babeskopiaren pasahitza
 password-rules-header = Pasahitzaren betebeharrak
 password-rules-length-description = Gutxienez 8 karaktere
 password-rules-email-description = Ezin da zure helbide elektronikoa izan
+password-rules-disclaimer = Egon seguru — Ez berrerabili pasahitzak. Ikusi aholku gehiago <a data-l10n-name="password-support-link">pasahitz sendoak sortzeko</a>.
 password-validity-has-email = Ezin du helbide elektronikoa izan
 password-validity-do-not-match = Pasahitzak ez datoz bat
 
@@ -234,6 +235,13 @@ backup-file-other-browser-restore-step-4 = Berrabiarazi { -brand-short-name } go
 ## These pages guide the user on browser startup to help them restore a backup
 ## if they have one on their file system.
 
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Oharra:</b> Beste babeskopia-fitxategi bat aurkitu da
+       *[other] <b>Oharra:</b> Beste { $numberOfOtherBackupsFound } babeskopia-fitxategi aurkitu dira
+    }
 backup-file-restore-file-validation-error = Fitxategia ez dabil. Saiatu beste fitxategi batekin. <a data-l10n-name="restore-problems">Arazoak dituzu oraindik?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ez da fitxategirik hautatu

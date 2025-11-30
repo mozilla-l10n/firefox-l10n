@@ -44,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Ados
     .buttonaccesskey = A
 appmenu-addon-post-install-message3 = Kudeatu zure gehigarri eta itxurak aplikazio-menuaren bitartez.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Eguneratu baimenak eta datu-hobespenak edonoiz <a data-l10n-name="settings-link">hedapenaren ezarpenetan</a>.
 appmenu-addon-post-install-pin-toolbarbutton-checkbox =
     .label = Ainguratu hedapena tresna-barran
     .accesskey = n

@@ -115,9 +115,13 @@ fxa-adoption-passwords-primary-button-label = Rekisteröidy
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Pidä suosikkisyötteesi tehtäväpalkissa
+taskbar-tabs-social-callout-subtitle = Käynnistä sosiaalisen median sivustot sovelluksen tavoin { -brand-short-name }in suojaamassa pelkistetyssä ikkunassa.
 taskbar-tabs-chat-callout-title = Keskustele tehtäväpalkista
+taskbar-tabs-chat-callout-subtitle = Käynnistä keskusteluun käyttämäsi sivustot sovelluksen tavoin { -brand-short-name }in suojaamassa pelkistetyssä ikkunassa.
 taskbar-tabs-email-callout-title = Pidä sähköpostisi tehtäväpalkissa
+taskbar-tabs-email-callout-subtitle = Käynnistä selainpohjainen sähköpostisi sovelluksen tavoin { -brand-short-name }in suojaamassa pelkistetyssä ikkunassa.
 taskbar-tabs-media-callout-title = Palaa suoratoistoon tehtäväpalkista
+taskbar-tabs-media-callout-subtitle = Käynnistä suoratoistosivustot sovelluksen tavoin { -brand-short-name }in suojaamassa pelkistetyssä ikkunassa.
 taskbar-tabs-value-prop-callout-title = Lisää tämä sivusto tehtäväpalkkiisi
 taskbar-tabs-value-prop-callout-subtitle = Käynnistä se omassa ikkunassaan ja yksinkertaistetussa käyttöliittymässä yhdellä napsautuksella.
 

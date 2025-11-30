@@ -145,6 +145,9 @@ about-webauthn-ctap2-enroll-feedback-too-right = Näyte oli liian oikealla.
 about-webauthn-ctap2-enroll-feedback-too-fast = Näyte oli liian nopea.
 about-webauthn-ctap2-enroll-feedback-too-slow = Näyte oli liian hidas.
 about-webauthn-ctap2-enroll-feedback-poor-quality = Näyte oli huonolaatuinen.
+about-webauthn-ctap2-enroll-feedback-too-short = Näyte oli liian lyhyt.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Näytteen yhdistäminen epäonnistui.
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
 about-webauthn-ctap2-enroll-feedback-exists = Näyte on jo olemassa.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Ei toimintaa käyttäjältä.

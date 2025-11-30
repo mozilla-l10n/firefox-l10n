@@ -212,6 +212,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = { -brand-shorter-name }(r)en arazketarako aurrezarpena. Eragin negatibo handia du, ez erabili errendimenduarekin lotutako lanerako, bai ordea nabigatzailearen portaera ulertzeko.
 profiler-popup-presets-debug-label =
     .label = Araztu
+profiler-popup-presets-web-compat-description = Webguneetako web bateragarritasun arazoen arazketarako, errendimenduaren jarraipenerako baino, gomendatutako aurrezarpena.
 profiler-popup-presets-web-compat-label =
     .label = Web Compat
 profiler-popup-presets-custom-label =
