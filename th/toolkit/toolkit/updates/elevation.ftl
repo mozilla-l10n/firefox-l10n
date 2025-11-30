@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = ไม่ต้องแสดงอีก
     .accesskey = D
 sandbox-unprivileged-namespaces-howtofix = วิธีแก้ไขปัญหานี้
+sandbox-content-disabled-warning = แซนด์บอกซ์ความปลอดภัยปิดใช้งานอยู่ การกำหนดค่าของคุณไม่ได้รับการสนับสนุนและมีความปลอดภัยน้อย

@@ -29,6 +29,7 @@ about-logging-no-log-modules = ไม่มี
 about-logging-no-log-file = ไม่มี
 about-logging-logging-preset-selector-text = ค่าที่ตั้งไว้ล่วงหน้าของการบันทึก:
 about-logging-with-profiler-stacks-checkbox = เปิดใช้งานการตามรอยสแตกสำหรับข้อความในปูม
+about-logging-with-javascript-tracing-checkbox = เปิดใช้งานการตามรอย JavaScript
 about-logging-menu =
     .title = ตัวเลือกขั้นสูง
 
@@ -50,6 +51,10 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = โมดูลบันทึกสำหรับวินิจฉัยการเรียก WebRTC
 about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = บันทึกโมดูลเพื่อวินิจฉัยปัญหาด้วยตัวถอดรหัสและตัวเข้ารหัสเสียง/วิดีโอ และตัวถอดรหัสภาพของ WebCodecs
+about-logging-preset-ml-label = การเรียนรู้ของเครื่อง
+about-logging-preset-ml-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหาการเรียนรู้ของเครื่อง
+about-logging-preset-web-compat-label = Web Compat
+about-logging-preset-web-compat-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหาความเข้ากันได้ของเว็บ
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหา WebGPU
 about-logging-preset-gfx-label = กราฟิก
@@ -96,4 +101,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> แบ่
 about-logging-upload-error = เกิดข้อผิดพลาดขณะอัปโหลดโปรไฟล์: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = เกิดข้อผิดพลาดขณะจัดเก็บโปรไฟล์ที่อัปโหลด: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = เกิดข้อผิดพลาดขณะบันทึกไฟล์: { $errorText }
+
+## Uploaded Profiles section
+
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = โปรไฟล์ { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = โปรไฟล์ที่อัปโหลด
+about-logging-no-uploaded-profiles = ยังไม่ได้อัปโหลดโปรไฟล์ใดเลย
+about-logging-delete-uploaded-profile = ลบ
+about-logging-view-uploaded-profile = ดูโปรไฟล์
+about-logging-delete-profile-confirm-title = ลบโปรไฟล์
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = คุณแน่ใจหรือไม่ว่าต้องการลบโปรไฟล์ “{ $profileName }”? การกระทำนี้ไม่สามารถย้อนกลับได้
+about-logging-deleting-profile = กำลังลบ…

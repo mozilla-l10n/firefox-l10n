@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = สถานที่ที่ก่อตั�
 certificate-viewer-locality = สถานที่
 certificate-viewer-location = ตำแหน่งที่ตั้ง
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = ชื่อปูม
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID รายการบันทึก
 certificate-viewer-method = วิธีการ
 certificate-viewer-modulus = โมดูลัส
