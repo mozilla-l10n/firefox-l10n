@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Папярэднія налады для адладкі ў { -brand-shorter-name }. Вялікія накладныя выдаткі, выкарыстоўвайце не для павышэння прадукцыйнасці, а для канцэнтрацыі ўвагі на разуменні паводзін браўзера.
 profiler-popup-presets-debug-label =
     .label = Адладка
+profiler-popup-presets-web-compat-description = Рэкамендаваныя папярэднія налады для адладкі праблем сумяшчальнасці ў сайтах, а не для сачэння за хуткадзейнасцю.
+profiler-popup-presets-web-compat-label =
+    .label = Вэб-сумяшчальнасць
 profiler-popup-presets-custom-label =
     .label = Адмысловыя
 
