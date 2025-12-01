@@ -60,6 +60,7 @@ pane-experimental-description2 = A speciális beállítások megváltoztatása b
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Próbálja ki kísérleti funkcióinkat! Fejlesztés alatt vannak, és változnak, ami befolyásolhatja a { -brand-short-name } működését. Csak akkor kapunk adatokat ezen funkciók használatáról, ha a <a data-l10n-name="data-collection">műszaki és interakciós adatok</a> be vannak kapcsolva.
 pane-experimental-description3 = Próbálja ki kísérleti funkcióinkat! Fejlesztés alatt vannak, fejlődnek, és befolyásolhatják a { -brand-short-name } működését.
 pane-experimental-reset =
     .label = Alapértelmezések visszaállítása
