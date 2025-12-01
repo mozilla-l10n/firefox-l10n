@@ -50,7 +50,7 @@ app-basics-update-dir =
        *[other] Mapa za aktualiziranja
     }
 app-basics-update-history = Povijest nadogradnji
-app-basics-show-update-history = Prikaži povijest nadogradnji
+app-basics-show-update-history = Prikaži povijest aktualiziranja
 # Represents the path to the binary used to start the application.
 app-basics-binary = Binarna aplikacija
 app-basics-profile-dir =

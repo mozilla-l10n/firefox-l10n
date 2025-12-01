@@ -6,12 +6,12 @@ aboutDialog-title =
     .title = O { -brand-full-name(case: "loc") }
 releaseNotes-link = Što je novo
 update-checkForUpdatesButton =
-    .label = Provjeri dostupnost dopuna
-    .accesskey = t
+    .label = Traži nove verzije
+    .accesskey = T
 update-updateButton =
     .label = Ponovo pokreni za aktualiziranje { -brand-shorter-name(case: "gen") }
     .accesskey = P
-update-checkingForUpdates = Provjera za dopunama…
+update-checkingForUpdates = Traženje novih verzija …
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -27,7 +27,7 @@ update-failed-main = Aktualiziranje nije uspjelo. <a data-l10n-name="failed-link
 update-adminDisabled = Tvoj administrator sustava je deaktivirao aktualiziranja
 update-policy-disabled = Tvoja organizacija je deaktivirala mogućnost aktuliziranja
 update-noUpdatesFound = Koristiš najnoviji { -brand-short-name }
-aboutdialog-update-checking-failed = Provjera za dopunama nije uspjela.
+aboutdialog-update-checking-failed = Neuspjelo traženje novih verzija.
 update-otherInstanceHandlingUpdates = Jedna druga instanca aktualizira { -brand-short-name }
 
 ## Variables:

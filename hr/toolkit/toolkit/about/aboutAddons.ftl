@@ -168,8 +168,8 @@ extensions-warning-imported-addons-button = Instaliraj proširenja
 
 ## Strings connected to add-on updates
 
-addon-updates-check-for-updates = Provjeri dostupnost dopuna
-    .accesskey = P
+addon-updates-check-for-updates = Traži nove verzije
+    .accesskey = T
 addon-updates-view-updates = Prikaži nedavna aktualiziranja
     .accesskey = P
 
@@ -393,7 +393,7 @@ addon-detail-updates-label = Dozvoli automatska aktualiziranja
 addon-detail-updates-radio-default = Standardno
 addon-detail-updates-radio-on = Uključeno
 addon-detail-updates-radio-off = Isključeno
-addon-detail-update-check-label = Provjeri dostupnost dopuna
+addon-detail-update-check-label = Traži nove verzije
 install-update-button = Aktualiziraj
 # aria-label associated to the updates row to help screen readers to announce the group
 # of input controls being entered.

@@ -487,7 +487,7 @@ update-application-description = Aktualiziraj { -brand-short-name } za najbolju 
 # $version (string) - Firefox version
 update-application-version = Verzija { $version } <a data-l10n-name="learn-more">Što je novo</a>
 update-history =
-    .label = Prikaži povijest nadogradnji …
+    .label = Prikaži povijest aktualiziranja …
     .accesskey = P
 update-application-allow-description = Dozvoli { -brand-short-name(case: "dat") } da
 update-application-auto =
