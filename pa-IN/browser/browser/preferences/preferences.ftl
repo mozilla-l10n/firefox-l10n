@@ -60,6 +60,7 @@ pane-experimental-description2 = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ ਬ
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = ਸਾਡੇ ਤਜਰਬੇ ਅਧੀਨ ਫ਼ੀਚਰਾਂ ਨੂੰ ਅਜ਼ਮਾ ਕੇ ਵੇਖੋ! ਇਹ ਹਾਲੇ ਵਿਕਾਸ ਅਧੀਨ ਹਨ ਅਤੇ ਲਗਾਤਾਰ ਸੁਧਾਰ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ, ਹੋ ਜਿ { -brand-short-name } ਦੇ ਕੰਮ ਕਰਨ ਉੱਤੇ ਅਸਰ ਪਾ ਸਕਦੇ ਹਨ। ਜੇ ਤੁਸੀਂ <a data-l10n-name="data-collection">ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ</a> ਨੂੰ ਚਾਲੂ ਕੀਤਾ ਹੋਇਆ ਹੈ ਤਾਂ ਅਸੀਂ ਸਿਰਫ਼ ਉਹਨਾਂ ਫ਼ੀਚਰਾਂ ਦੀ ਤੁਹਾਡੀ ਵਰਤੋਂ ਬਾਰੇ ਹੀ ਡਾਟਾ ਪ੍ਰਾਪਤ ਕਰਾਂਗੇ।
 pane-experimental-description3 = ਸਾਡੇ ਤਜਰਬੇ ਅਧੀਨ ਫ਼ੀਚਰਾਂ ਨੂੰ ਅਜ਼ਮਾ ਕੇ ਵੇਖੋ! ਇਹ ਵਿਕਾਸ ਅਧੀਨ ਹਨ ਅਤੇ ਸੁਧਾਰੇ ਜਾ ਰਹੇ ਹਨ, ਜੋ ਕਿ { -brand-short-name } ਦੇ ਕੰਮ ਕਰਨ ਉੱਤੇ ਅਸਰ ਪਾ ਸਕਦੇ ਹਨ।
 pane-experimental-reset =
     .label = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ
@@ -1508,6 +1509,8 @@ content-blocking-etp-standard-tcp-title = ਕੁੱਲ ਕੂਕੀਜ਼ ਸੁਰ
 content-blocking-warning-title = ਧਿਆਨ ਰੱਖੋ!
 content-blocking-warning-title-2 = ਸਖ਼ਤ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨਾਲ ਕੁਝ ਸਾਈਟਾਂ ਖ਼ਰਾਬ ਹੋ ਸਕਦੀਆਂ ਹਨ
 content-blocking-warning-title-custom = ਪਸੰਦੀਦਾ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨਾਲ ਕੁਝ ਸਾਈਟਾਂ ਖ਼ਰਾਬ ਹੋ ਸਕਦੀਆਂ ਹਨ
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਾ ਕਰਦੇ ਸਾਈਟ ਫ਼ੀਚਰਾਂ ਅਤੇ ਸਮੱਗਰੀ ਨੂੰ ਘਟਾਉਣ ਲਈ “ਸਾਈਟ ਮਸਲੇ ਠੀਕ ਕਰੋ” ਸੈਟਿੰਗ ਵਰਤਣ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ। ਜੇ ਫੇਰ ਵੀ ਸਾਈਟ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ਹੈ ਤਾਂ ਉਸ ਸਾਈਟ ਲਈ ਸਾਰੀ ਸਮੱਗਰੀ ਲੋਡ ਕਰਨ ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰਕੇ ਵੇਖੋ।
 content-blocking-and-isolating-etp-warning-description-2 =
     ਇਸ ਸੈਟਿੰਗਾਂ ਨਾਲ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਸ਼ਾਇਦ ਠੀਕ ਤਰ੍ਹਾਂ ਸਮੱਗਰੀ ਨਾ ਦਿਖਾਉਣ ਜਾਂ ਕੰਮ ਨਾ ਕਰਨ।
     ਜੇ ਸਾਈਟ ਠੀਕ ਤਰ੍ਹਾਂ ਨਾਲ ਚੱਲੇ ਤਾਂ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਦੀ ਸਾਰੀ ਸਮੱਗਰੀ ਲੋਡ ਕਰਨ ਲਈ

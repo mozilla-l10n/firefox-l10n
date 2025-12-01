@@ -283,6 +283,20 @@ tab-context-move-tab-to-group =
            *[other] ਟੈਬਾਂ ਨੂੰ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] ਵੰਡ ਝਲਕ ਨੂੰ ਨਵੇਂ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
+           *[other] ਵੰਡ ਝਲਕਾਂ ਨੂੰ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] ਵੰਡ ਝਲਕ ਨੂੰ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
+           *[other] Add Split Views to Group
+        }
+    .accesskey = ਵੰਡ ਝਲਕਾਂ ਨੂੰ ਗਰੁੱਪ ਵਿੱਚ ਜੋੜੋ
 tab-context-move-tab-to-group-saved-groups =
     .label = ਗਰੁੱਪ ਬੰਦ ਕੀਤੇ
 tab-group-editor-action-new-tab =

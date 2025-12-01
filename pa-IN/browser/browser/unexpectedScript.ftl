@@ -24,3 +24,4 @@ unexpected-script-load-email-textbox =
     .aria-label = ਈਮੇਲ ਇੱਥੇ ਦਿਓ
 unexpected-script-load-more-info = ਹੋਰ ਜਾਣਕਾਰੀ
 unexpected-script-load-learn-more = ਹੋਰ ਜਾਣੋ
+unexpected-script-load-telemetry-disabled = ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਟੈਲੀਮੈਂਟਰੀ ਅਸਮਰੱਥ ਹੋਣ ਕਰਕੇ ਰਿਪੋਰਟ ਭੇਜਣਾ ਅਸਮਰੱਥ ਹੈ। ਰਿਪੋਰਟ ਭੇਜਣ ਲਈ ਟੈਲੀਮੈੰਟਰ ਨੂੰ ਸਮਰੱਥ ਕਰੋ।

@@ -19,6 +19,7 @@ unified-extensions-empty-reason-extension-not-enabled = ਤੁਹਾਡੇ ਕ�
 unified-extensions-empty-reason-zero-extensions-onboarding = ਇਕਸਟੈਨਸ਼ਨਾਂ ਨਾਲ ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਦਾ ਪੱਧਰ ਉੱਚਾ ਕਰੋ
 unified-extensions-empty-content-explain-enable2 = ਸੈਟਿੰਗਾਂ ਵਿੱਚ { unified-extensions-manage-extensions.label } ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ ਚੁਣੋ।
 unified-extensions-empty-content-explain-manage2 = { unified-extensions-manage-extensions.label } ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚੋਂ ਚੁਣੋ।
+unified-extensions-empty-content-explain-extensions-onboarding = { -brand-short-name } ਦੀ ਦਿੱਖ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਬਦਲ ਕੇ ਜਾਂ ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ ਵਿੱਚ ਵਾਧਾ ਕਰਕੇ ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ।
 
 ## An extension in the main list
 
@@ -62,6 +63,13 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = ਹੋਰ ਜਾਣੋ
     .aria-label = ਹੋਰ ਜਾਣੋ: ਕੁਝ ਇਕਸਟੈਸ਼ਨਾਂ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 unified-extensions-mb-about-addons-link = ਇਕਸਟੈਨਸ਼ਨ ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਜਾਓ
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } ਅਸਮਰੱਥ ਹੈ
+    .message =
+        ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਉੱਤੇ ਰੋਕ ਲਾਈ ਹੈ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਜਾ ਚੁੱਕਾਹ ੈ। 
+        ਤੁਸੀਂ ਇਸ ਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚੋਂ ਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਇਕ ਖ਼ਤਰਨਾਕ ਹੋ ਸਕਦਾ ਹੈ।
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
