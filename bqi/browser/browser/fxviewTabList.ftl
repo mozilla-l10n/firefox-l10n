@@ -6,6 +6,12 @@
 # Strings below are used for context menu options within panel-list.
 # For developers, this duplicates command because the label attribute is required.
 
+fxviewtabrow-open-in-window = گۊشیڌن من نیمدری نۊ
+    .accesskey = N
+fxviewtabrow-open-in-private-window = گۊشیڌن من نیمدری سیخومی نۊ
+    .accesskey = P
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = نشووک ناهاڌن…
     .accesskey = B
+fxviewtabrow-move-tab-window = جاگورویی و نیمدری نۊ
+    .accesskey = W

@@ -676,6 +676,9 @@ newtab-widget-section-hide-all-button =
 newtab-widget-section-maximize =
     .title = Kisalkalmazások kibontása
     .aria-label = Összes kisalkalmazás kibontása teljes méretűre
+newtab-widget-section-minimize =
+    .title = Kisalkalmazások minimalizálása
+    .aria-label = Összes kisalkalmazás összecsukása kompakt méretre
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

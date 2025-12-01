@@ -26,6 +26,9 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = نیمدری سیخومی نۊ
     .accesskey = W
+menu-file-close-window =
+    .label = بستن نیمدری
+    .accesskey = d
 menu-file-print =
     .label = چاپ
     .accesskey = P
@@ -75,3 +78,8 @@ menu-settings =
             [windows] S
            *[other] n
         }
+
+## Window Menu
+
+menu-window-menu =
+    .label = نیمدری
