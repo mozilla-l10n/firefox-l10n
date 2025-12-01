@@ -174,6 +174,10 @@ preferences-manage-profiles-button =
     .label = Διαχείριση προφίλ
 preferences-profiles-settings-button =
     .label = Ρυθμίσεις
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Αντιγραφή υπάρχοντος προφίλ
+    .description = Το νέο προφίλ θα αντιγράψει τις ρυθμίσεις, τα πρόσθετα, το ιστορικό και τα αποθηκευμένα δεδομένα, όπως σελιδοδείκτες και κωδικούς πρόσβασης, όχι όμως τον λογαριασμό ή τις πληροφορίες συγχρονισμού σας.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -1127,6 +1131,9 @@ forms-saved-passwords-2 =
     .label = Διαχείριση αποθηκευμένων κωδικών πρόσβασης
     .accesskey = χ
 forms-saved-passwords-searchkeywords = Οι συνδέσεις των ακόλουθων ιστοσελίδων αποθηκεύονται στον υπολογιστή σας
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Πρόσθετα μέτρα προστασίας
 forms-primary-pw-use =
     .label = Χρήση κύριου κωδικού πρόσβασης
     .accesskey = Χ

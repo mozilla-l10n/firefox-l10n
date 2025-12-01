@@ -283,6 +283,20 @@ tab-context-move-tab-to-group =
            *[other] Προσθήκη καρτελών σε ομάδα
         }
     .accesskey = ο
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Προσθήκη διαχωρισμένης προβολής σε νέα ομάδα
+           *[other] Προσθήκη διαχωρισμένων προβολών σε νέα ομάδα
+        }
+    .accesskey = ο
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Προσθήκη διαχωρισμένης προβολής σε ομάδα
+           *[other] Προσθήκη διαχωρισμένων προβολών σε ομάδα
+        }
+    .accesskey = ο
 tab-context-move-tab-to-group-saved-groups =
     .label = Κλεισμένες ομάδες
 tab-group-editor-action-new-tab =

@@ -159,4 +159,5 @@ perftools-presets-power-description = Oñemoĩva ohapykuerereka hag̃ua tendyry 
 perftools-presets-debug-label = Mopotĩ
 perftools-presets-debug-description = Oĩva oñemopotĩ hag̃uáicha { -brand-shorter-name } ndive. Ojehechaiterei, ani eiporu oiko porãve hag̃ua katu eikumby hag̃ua mba’éichapa omba’apo kundahára.
 perftools-presets-web-compat-label = Ñandutirogue jokupyty
+perftools-presets-web-compat-description = Moĩporã ypygua oñemopotĩ hag̃ua ñanduti jokupytyha apañuái ñanduti roguépe, ehapykuehorangue hembiapo rapykuere.
 perftools-presets-custom-label = Mboavapyre

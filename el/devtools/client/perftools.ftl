@@ -159,4 +159,5 @@ perftools-presets-power-description = Προκαθορισμένη ρύθμισ�
 perftools-presets-debug-label = Έλεγχος σφαλμάτων
 perftools-presets-debug-description = Προκαθορισμένη ρύθμιση για έλεγχο σφαλμάτων στο { -brand-shorter-name }. Υψηλός φόρτος, μην τη χρησιμοποιείτε για εργασίες υψηλών επιδόσεων, αλλά για την εστίαση στην κατανόηση της συμπεριφοράς του προγράμματος περιήγησης.
 perftools-presets-web-compat-label = Συμβατότητα ιστού
+perftools-presets-web-compat-description = Προτεινόμενη προεπιλογή για τον έλεγχο σφαλμάτων συμβατότητας ιστοτόπων, αντί για την καταγραφή επιδόσεων.
 perftools-presets-custom-label = Προσαρμογή
