@@ -13,7 +13,7 @@ unknowncontenttype-settingschange =
         }
 unknowncontenttype-intro = Pokrećeš:
 unknowncontenttype-which-is = koja je:
-unknowncontenttype-from = iz:
+unknowncontenttype-from = Od:
 unknowncontenttype-prompt = Želiš li spremiti ovu datoteku?
 unknowncontenttype-action-question = Što bi { -brand-short-name } trebao učiniti s ovom datotekom?
 unknowncontenttype-open-with =
