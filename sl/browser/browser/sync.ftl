@@ -20,6 +20,18 @@ fxa-menu-connect-another-device =
     .label = Poveži drugo napravo …
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Pošlji na napravo
+            [one] Pošlji { $tabCount } zavihek na napravo
+            [two] Pošlji { $tabCount } zavihka na napravo
+            [few] Pošlji { $tabCount } zavihke na napravo
+           *[other] Pošlji { $tabCount } zavihkov na napravo
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->

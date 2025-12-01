@@ -22,3 +22,7 @@ browser-data-cookies-checkbox =
     .label = کۊکیا
 browser-data-cookies-label =
     .value = کۊکیا
+browser-data-session-checkbox =
+    .label = نیمدری یل وو بلگه یل
+browser-data-session-label =
+    .value = نیمدری یل وو بلگه یل

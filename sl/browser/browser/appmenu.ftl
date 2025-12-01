@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Prednastavitev za razhroščevanje v { -brand-shorter-name(sklon: "mestnik") }. Visoka poraba sredstev – ne uporabljajte za delo pri visoki zmogljivosti, temveč za osredotočanje na razumevanje delovanja brskalnika.
 profiler-popup-presets-debug-label =
     .label = Razhroščevanje
+profiler-popup-presets-web-compat-description = Priporočena prednastavitev za razhroščevanje težav s spletno združljivostjo na spletnih mestih in ne za sledenje učinkovitosti.
+profiler-popup-presets-web-compat-label =
+    .label = Spletna združljivost
 profiler-popup-presets-custom-label =
     .label = Po meri
 

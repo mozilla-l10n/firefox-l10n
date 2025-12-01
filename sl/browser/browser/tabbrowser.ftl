@@ -385,6 +385,25 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Odpri skupino v novem oknu
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Dodaj opombo
+    .accesskey = D
+tab-context-edit-note =
+    .label = Uredi opombo
+    .accesskey = U
+tab-note-editor-title-create = Dodaj opombo
+tab-note-editor-title-edit = Uredi opombo
+tab-note-editor-text-field =
+    .placeholder = Kaj si želite zabeležiti o tem zavihku?
+tab-note-editor-button-cancel =
+    .label = Prekliči
+    .accesskey = P
+tab-note-editor-button-save =
+    .label = Shrani
+    .accesskey = S
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -395,3 +414,14 @@ tab-context-open-in-split-view =
     .label = Odpri v razdeljenem pogledu
     .accesskey = d
 tab-context-badge-new = Novo
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Loči zavihke
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Zamenjaj zavihka
+split-view-menuitem-close-both-tabs =
+    .label = Zapri oba zavihka

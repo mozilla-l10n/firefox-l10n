@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Premakni v novo okno
     .accesskey = o
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Premakni v profil { $profileName }
 tab-context-close-multiple-tabs =
     .label = Zapri več zavihkov
     .accesskey = č
@@ -131,6 +135,17 @@ tab-context-move-tabs =
            *[other] Premakni zavihke
         }
     .accesskey = m
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Pošlji na napravo
+            [one] Pošlji { $tabCount } zavihek na napravo
+            [two] Pošlji { $tabCount } zavihka na napravo
+            [few] Pošlji { $tabCount } zavihke na napravo
+           *[other] Pošlji { $tabCount } zavihkov na napravo
+        }
+    .accesskey = n
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

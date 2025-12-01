@@ -107,6 +107,12 @@ fp-cert-error-code = Koda napake: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } ne zaupa spletnemu mestu { $hostname }, ker mu ni uspelo dokazati, da izpolnjuje zahteve glede preglednosti javnih potrdil.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Najverjetneje ničesar, saj je težava verjetno v samem spletnem mestu.
 fp-learn-more-about-secure-connection-failures = Več o neuspelih varnih povezavah
 fp-learn-more-about-cert-issues = Več o tovrstnih težavah z digitalnimi potrdili
 fp-learn-more-about-time-related-errors = Več o odpravljanju s časom povezanih napak
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Skrij napredno
 fp-certerror-override-exception-button = Nadaljuj na { $hostname } (tvegano)
 fp-certerror-intro = { -brand-short-name } je zaznal morebitno resno varnostno težavo s <strong>{ $hostname }</strong>. Obstaja možnost, da se nekdo izdaja za to spletno mesto in poskuša ukrasti vaše podatke.
 fp-certerror-expired-into = { -brand-short-name } je zaznal varnostno težavo s <strong>{ $hostname }</strong>. Bodisi spletno mesto ni pravilno nastavljeno, bodisi je ura na vašem računalniku nastavljena na napačen datum/čas.
+fp-certerror-transparency-intro = Nekdo, ki bi se izdajal za <strong>{ $hostname }</strong>, bi lahko poskušal ukrasti vaše podatke bančne kartice, gesla, e-poštne naslove ali druge vnesene podatke.

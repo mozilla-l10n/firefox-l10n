@@ -32,6 +32,8 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = آلشت
+newtab-menu-open-new-window = گۊشیڌن من ی نیمدری نۊ
+newtab-menu-open-new-private-window = گۊشیڌن من ی نیمدری سیخومی نۊ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

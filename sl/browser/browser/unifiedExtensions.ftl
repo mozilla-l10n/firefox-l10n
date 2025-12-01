@@ -32,6 +32,9 @@ unified-extensions-item-open-menu =
 unified-extensions-item-message-manage = Upravljanje razširitve
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = Razširitev { $extensionName } je omejena. Morda je ni varno uporabljati.
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } krši Mozilline pravilnike. Njena uporaba je morda nevarna.
 
 ## Extension's context menu

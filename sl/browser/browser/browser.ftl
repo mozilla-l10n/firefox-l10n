@@ -418,6 +418,9 @@ quickactions-cmd-restart = ponovno zaženi, znova zaženi, zaženi znova
 # Opens the screenshot tool
 quickactions-screenshot3 = Zajemi posnetek zaslona
 quickactions-cmd-screenshot2 = posnetek zaslona, zaslonski posnetek, screenshot, zajemi
+# Opens about:translations
+quickactions-translate = Prevedi
+quickactions-cmd-translate = prevedi
 quickactions-cmd-screenshot = posnetek zaslona
 # Opens about:preferences
 quickactions-settings2 = Upravljaj nastavitve

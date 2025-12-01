@@ -63,3 +63,9 @@ experimental-features-newtab-widget-lists =
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Časovnik na { -firefox-home-brand-name(sklon: "mestnik") }
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Seznami in časovnik na { -firefox-home-brand-name(sklon: "mestnik") }
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantično iskanje po zgodovini

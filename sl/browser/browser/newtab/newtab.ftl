@@ -668,6 +668,17 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nov seznam
+newtab-widget-section-title = Pripomočki
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = Skrij pripomočke
+    .aria-label = Skrij vse pripomočke
+newtab-widget-section-maximize =
+    .title = Razširi pripomočke
+    .aria-label = Povečaj vse pripomočke na polno velikost
+newtab-widget-section-minimize =
+    .title = Pomanjšaj pripomočke
+    .aria-label = Skrči vse pripomočke
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

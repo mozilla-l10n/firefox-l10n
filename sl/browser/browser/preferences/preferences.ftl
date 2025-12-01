@@ -113,6 +113,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Da bi omogočili to razširitev, izberite <img data-l10n-name="addons-icon"/> Dodatki v meniju <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Razširitev lahko znova omogočite na zavihku <a data-l10n-name="addons-link">Razširitve in teme</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = Nekatere nastavitve domače strani nadzira { $name }.
@@ -170,8 +171,28 @@ preferences-manage-profiles-description = Vsak profil vsebuje ločene nastavitve
 preferences-manage-profiles-learn-more = Več o tem
 preferences-manage-profiles-button =
     .label = Upravljanje profilov
+preferences-profiles-settings-button =
+    .label = Nastavitve
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopiraj obstoječ profil
+    .description = V novi profil bodo kopirane vaše nastavitve, dodatki, zgodovina in shranjeni podatki kot zaznamki in gesla – ne pa tudi podatki računa in sinhronizacije.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profil, ki naj se kopira
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Izberite profil
+preferences-copy-profile-button = Kopiraj
 tabs-group-header2 =
     .label = Zavihki
+tabs-opening-heading =
+    .label = Odpiranje
+tabs-closing-heading =
+    .label = Zapiranje
 tabs-group-header = Zavihki
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab kroži med zavihki po vrsti, kot so bili nazadnje uporabljeni
@@ -634,6 +655,8 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Upravljanje razširitve
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Izberite določeno stran
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -653,14 +676,29 @@ home-homepage-header = Domača stran
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Domača stran po meri
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Naslov spletnega mesta oz. spletnih mest
 home-custom-homepage-address =
     .placeholder = Vnesite naslov
+home-custom-homepage-address-button =
+    .label = Dodaj naslov
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Dodano ni še nobeno spletno mesto.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Zamenjaj s/z
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = trenutno odprtimi stranmi
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = zaznamki …
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Vsebina { -firefox-home-brand-name(sklon: "rodilnik") }
 home-prefs-content-header3 = { -firefox-home-brand-name }
-home-prefs-content-description2 = Izberite vsebino, ki jo želite prikazati na { -firefox-home-brand-name(sklon: "mestnik") }.
+home-prefs-content-description2 = Izberite vsebino, ki naj se prikazuje na { -firefox-home-brand-name(sklon: "mestnik") }.
 home-prefs-search-header =
     .label = Iskanje po spletu
 home-prefs-shortcuts-header =
@@ -668,6 +706,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Strani, ki jih shranite ali obiščete
 home-prefs-shortcuts-by-option-sponsored =
     .label = Bližnjice oglaševalcev
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name(zacetnica: "velika") }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -707,9 +747,17 @@ home-prefs-weather-header =
     .label = Vreme
 home-prefs-weather-description = Kratek pogled na današnjo napoved
 home-prefs-weather-learn-more-link = Več o tem
+home-prefs-widgets-header =
+    .label = Pripomočki
 home-prefs-trending-search-header =
     .label = Trenutno iskano
 home-prefs-trending-search-description = Priljubljene in pogosto iskane teme
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Seznami
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Časovnik
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Podprite { -brand-product-name(sklon: "tozilnik") }
@@ -717,6 +765,8 @@ home-prefs-mission-message = Naši sponzorji podpirajo naše poslanstvo ustvarja
 home-prefs-mission-message-learn-more-link = Spoznajte, kako
 home-prefs-mission-message2 =
     .message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta.
+home-prefs-manage-topics-link = Upravljanje tem
+home-prefs-choose-wallpaper-link = Izberite si ozadje
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1026,10 +1076,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Gesla
     .searchkeywords = prijave
+forms-passwords-header =
+    .label = Gesla
+    .aria-label = Gesla
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Ponujaj shranjevanje gesel
     .accesskey = a
+forms-manage-password-exceptions =
+    .label = Upravljanje izjem za gesla
+    .accesskey = U
 forms-exceptions =
     .label = Izjeme …
     .accesskey = i
@@ -1063,9 +1119,25 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = Shranjena gesla
     .accesskey = h
+forms-saved-passwords-2 =
+    .label = Upravljanje shranjenih gesel
+    .accesskey = g
+forms-saved-passwords-searchkeywords = Prijave za naslednja spletna mesta so shranjene na vašem računalniku
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Dodatne zaščite
 forms-primary-pw-use =
     .label = Uporabi glavno geslo
     .accesskey = U
+forms-primary-pw-set =
+    .label = Nastavi glavno geslo
+forms-primary-pw-on =
+    .label = Glavno geslo je VKLJUČENO
+forms-primary-pw-change-2 =
+    .label = Spremeni glavno geslo
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Izključi
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Zahtevaj prijavo v napravi za izpolnjevanje in upravljanje gesel
@@ -1128,9 +1200,33 @@ autofill-reauth-payment-methods-checkbox = Zahtevaj prijavo v napravi za izpolnj
 autofill-payment-methods-title = Plačilna sredstva
 autofill-payment-methods-header =
     .aria-label = Plačilna sredstva
+autofill-payment-methods-checkbox-message-2 =
+    .label = Shranjuj in samodejno izpolnjuj podatke plačilnih sredstev
+    .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Upravljanje plačilnih sredstev
 autofill-payment-methods-manage-payments-button =
     .label = Upravljanje plačilnih sredstev
     .accesskey = p
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Pred izpolnjevanjem ali upravljanjem plačilnih sredstev zahtevaj prijavo v napravi
+    .accesskey = o
+autofill-payment-methods-add-button = Dodaj novo plačilno sredstvo
+payments-list-header =
+    .label = Plačilna sredstva
+payments-list-item-label = <strong>Plačilna sredstva</strong>
+payments-remove-payment-prompt-title = Ali želite odstraniti to plačilno sredstvo?
+payments-remove-payment-prompt-confirm-button = Odstrani
+payments-remove-payment-prompt-cancel-button = Prekliči
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1156,6 +1252,8 @@ history-remember-description2 =
     .description = { -brand-short-name } si bo zapomnil vašo zgodovino brskanja, prenosov, obrazcev in iskanj.
 history-dontremember-description2 =
     .description = { -brand-short-name } bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.
+history-custom-description =
+    .description = { -brand-short-name } bo za zgodovino brskanja, prenosov, obrazcev in iskanj uporabljal nastavitve po meri.
 history-remember-description = { -brand-short-name } si bo zapomnil vašo zgodovino brskanja, prenosov, obrazcev in iskanj.
 history-dontremember-description = { -brand-short-name } bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.
 history-private-browsing-permanent =
@@ -1261,6 +1359,7 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Naslovna vrstica
+addressbar-suggest-1 = Izberite, kateri predlogi naj se vam prikazujejo v naslovni vrstici
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
@@ -1490,6 +1589,12 @@ permissions-autoplay = Samodejno predvajanje
 permissions-autoplay-settings =
     .label = Nastavitve …
     .accesskey = t
+permissions-addon-install-warning2 =
+    .label = Opozori, ko spletno mesto poskuša namestiti razširitev
+    .accesskey = š
+permissions-addon-exceptions2 =
+    .label = Izberite, katera spletna mesta smejo nameščati razširitve
+    .accesskey = e
 permissions-block-popups =
     .label = Prepovej pojavna okna
     .accesskey = r
@@ -1505,6 +1610,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Izjeme …
     .accesskey = I
+permissions-header2 =
+    .label = Dovoljenja
+    .description = Dovoljenja, ki ste jih podelili spletnim mestom.
 permissions-location2 =
     .label = Lokacija
 permissions-localhost2 =
@@ -1517,6 +1625,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Zvočnik
 permissions-notification2 =
     .label = Obvestila
 

@@ -4,6 +4,7 @@
 
 migration-extensions-option-label = وردنی یل
 migration-cookies-option-label = کۊکیا
+migration-session-option-label = نیمدری یل وو بلگه یل
 migration-passwords-new = رزما نۊ
 migration-bookmarks-from-file = نشووکا
 # Shown in the migration wizard after importing bookmarks from a file

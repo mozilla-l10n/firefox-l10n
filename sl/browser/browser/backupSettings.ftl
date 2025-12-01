@@ -19,21 +19,46 @@ backup-folder-name = Obnovi { -brand-product-name(sklon: "tozilnik") }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }_Varnostna_kopija
+settings-data-backup-header = Varnostna kopija
+settings-data-backup-toggle = Upravljanje varnostne kopije
 settings-data-backup-toggle-on = Vklopi varnostno kopiranje
 settings-data-backup-toggle-off = Izklopi varnostno kopiranje
 settings-data-backup-trigger-button = Varnostno kopiraj zdaj
 settings-data-backup-in-progress-button = Varnostno kopiranje v teku …
+settings-data-backup-in-progress-message =
+    .message = Varnostno kopiranje v teku …
+settings-data-backup-scheduled-backups-on = Varnostno kopiranje: Vklopljeno
+settings-data-backup-scheduled-backups-off = Varnostno kopiranje: Izključeno
+settings-data-backup-scheduled-backups-description = Samodejno zaščitite svoje zaznamke, zgodovino in druge podatke. <a data-l10n-name="support-link">Več o tem</a>
+settings-data-backup-last-backup-date = Zadnja varnostna kopija: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Mesto
 settings-data-backup-last-backup-location-show-in-folder = Prikaži v mapi
 settings-data-backup-last-backup-location-edit = Uredi …
+settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") } je prišlo do napake
+settings-sensitive-data-encryption-description = Varnostno kopirajte gesla in plačila ter ohranite vse svoje podatke s šifriranjem.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Ime datoteke: { $fileName }
 settings-data-backup-restore-header = Obnovite podatke
 
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = Za obnovitev podatkov uporabite varnostno kopijo { -brand-product-name }a iz druge naprave.
+settings-data-backup-scheduled-backups-off-restore-choose = Izberi datoteko varnostne kopije…
+
+## These strings are shown under the header if scheduled backups are enabled.
+
+settings-data-backup-scheduled-backups-on-restore-description = Obnovite svoje { -brand-product-name }ove podatke od zadnjega varnostnega kopiranja.
+settings-data-backup-scheduled-backups-on-restore-choose = Obnovi …
+settings-data-toggle-encryption-label = Varnostno kopirajte občutljive podatke
+settings-data-toggle-encryption-support-link = Več o tem
+settings-data-change-password = Spremenite geslo …
+
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
+turn-on-scheduled-backups-header = Vklopite varnostno kopiranje
+turn-on-scheduled-backups-description = { -brand-short-name } bo vsakih 24 ur ustvaril posnetek vaših podatkov. Če pride do težave ali dobite novo napravo, ga lahko obnovite.
 turn-on-scheduled-backups-support-link = Kaj bo varnostno kopirano?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Mesto shranjevanja
@@ -52,6 +77,10 @@ turn-on-scheduled-backups-encryption-create-password-label = Geslo
 turn-on-scheduled-backups-encryption-repeat-password-label = Ponovite geslo
 turn-on-scheduled-backups-cancel-button = Prekliči
 turn-on-scheduled-backups-confirm-button = Vklopi varnostno kopiranje
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Pri izbrani mapi za varnostno kopiranje je prišlo do težave. Izberite drugo mapo in poskusite znova.
+backup-error-file-system = Med varnostnim kopiranjem { -brand-short-name }a je prišlo do težave z izbrano mapo za varnostne kopije.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
@@ -63,6 +92,7 @@ turn-off-scheduled-backups-confirm-button = Izklopi in izbriši varnostne kopije
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Obnovite podatke
 restore-from-backup-support-link =
     .message = Kaj bo obnovljeno?
 restore-from-backup-file-choose-button =
@@ -152,3 +182,5 @@ backup-file-how-to-restore-header = Kako jo obnoviti:
 ## if they have one on their file system.
 
 backup-file-restore-file-validation-error = Ta datoteka ne deluje. Poskusite izbrati drugo datoteko. <a data-l10n-name="restore-problems">Imate še vedno težave?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Izbrana ni nobena datoteka

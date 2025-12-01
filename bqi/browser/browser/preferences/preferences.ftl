@@ -51,6 +51,7 @@ home-new-windows-tabs-header = نیمدری یل وو بلگه یل نۊ
 
 ## Custom Homepage subpage
 
+home-homepage-mode-label2 = نیمدری یل نۊ
 home-newtabs-mode-label = بلگه یل نۊ
 
 ## Search Section

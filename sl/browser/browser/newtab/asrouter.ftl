@@ -76,6 +76,8 @@ fxa-adoption-addresses-backup-title = Varnostno kopirajmo vaše shranjene naslov
 fxa-adoption-addresses-backup-subtitle = Zaščitite svoje shranjene naslove, tako da jih sinhronizirate s svojimi napravami z uporabo šifriranja.
 fxa-adoption-credit-cards-backup-title = Varnostno kopiramo vaša plačilna sredstva
 fxa-adoption-credit-cards-backup-subtitle = Zaščitite svoje načine plačila, tako da jih sinhronizirate s svojimi napravami z uporabo šifriranja.
+fxa-adoption-bookmarks-treatment-backup-title = Varnostno kopirajmo zaznamke
+fxa-adoption-bookmarks-treatment-backup-subtitle = Zavarujte svoje zaznamke pred izgubo, tako da jih šifrirane sinhronizirate s svojimi drugimi napravami.
 fxa-adoption-primary-button-label = Prijava
 
 ## Protections panel
@@ -244,6 +246,8 @@ set-default-pdf-handler-primary = Razumem
 # If this expression doesn’t have a direct translation, please
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = Podpišite se na pikčasto črto – ali kjerkoli!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Narišite, vtipkajte ali naložite svoj podpis in ga postavite na želeno mesto. Podpise, ki jih redno uporabljate, lahko shranite za naslednjič.
 annotations-make-default-pdf-handler-title = Želite nastaviti { -brand-short-name(sklon: "tozilnik") } kot privzeti urejevalnik datotek PDF?
 annotations-make-default-pdf-primary-cta =
     .label = Nastavi kot privzeto

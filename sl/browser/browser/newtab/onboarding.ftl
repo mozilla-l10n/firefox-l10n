@@ -477,6 +477,27 @@ sync-to-mobile-button-label = Sinhronizacija z mobilno napravo
 desktop-to-mobile-qr-code-alt =
     .aria-label = Koda QR za prenos { -brand-product-name(sklon: "rodilnik") } za mobilne naprave
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Nadgrajujete na Windows 11?
+    Varnostno kopirajmo vaše podatke { -brand-product-name(sklon: "rodilnik") }.
+create-backup-screen-1-subtitle = Brez truda zavarujte svoja gesla, zaznamke in druge podatke v 1–2 minutah.
+create-backup-screen-1-flair = Priporočeno
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Več o tem</a>
+create-backup-select-tile-button-label = Izberi
+create-backup-back-button-label = Nazaj
+create-backup-show-fewer =
+    .label = Prikazuj manj takšnih sporočil
+create-backup-screen-2-title = Izberite podatke { -brand-product-name(sklon: "rodilnik") }, ki naj se varnostno kopirajo
+fx-backup-opt-in-create-password-label = Vnesite geslo
+fx-backup-opt-in-confirm-btn-label = Nadaljuj
+fx-backup-opt-in-cancel-btn-label = Nazaj
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-close-button = Zapri
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Obnovitev iz varnostne kopije
@@ -495,3 +516,16 @@ restored-from-backup-success-no-checklist-primary-button = Nadaljuj
 restored-from-backup-error-title = Hmm, prišlo je do težave z datoteko z varnostno kopijo.
 restored-from-backup-error-subtitle = Če imate drugo datoteko z varnostno kopijo { -brand-short-name(sklon: "rodilnik") }, poskusite podatke obnoviti iz nje. <a data-l10n-name="restore-problems">Imate še vedno težave?</a>
 restored-from-backup-error-primary-button = Zapri
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-subtitle = Če odgovorite na nekaj vprašanj, vam lahko priporočimo nekaj funkcij in razširitev, ki vam bodo pomagale še bolje izkoristiti { -brand-short-name(sklon: "tozilnik") }.
+onboarding-personalization-use-case-title = Za kaj boste uporabljali { -brand-short-name(sklon: "tozilnik") }?
+onboarding-personalization-use-case-personal-option = Osebno
+onboarding-personalization-use-case-school-option = Šolsko
+onboarding-personalization-use-case-work-option = Službeno
+onboarding-personalization-motivation-title = Katere lastnosti { -brand-short-name(sklon: "rodilnik") } so vam najbolj pomembne?
+onboarding-personalization-motivation-privacy-option = Zasebnost in varnost
+onboarding-personalization-motivation-productivity-option = Produktivnost
+onboarding-personalization-motivation-other-option = Drugo
