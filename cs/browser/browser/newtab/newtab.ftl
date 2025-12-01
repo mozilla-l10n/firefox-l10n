@@ -614,8 +614,8 @@ newtab-download-mobile-highlight-body-variant-c =
 newtab-download-mobile-highlight-image =
     .aria-label =
         { -brand-product-name.case-status ->
-            [with-cases] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobilní zařízení
-           *[no-cases] QR kód pro stažení aplikace { -brand-product-name } pro mobilní zařízení
+            [with-cases] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobily
+           *[no-cases] QR kód pro stažení aplikace { -brand-product-name } pro mobily
         }
 
 ## Strings for shortcuts highlight

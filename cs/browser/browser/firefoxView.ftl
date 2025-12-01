@@ -46,8 +46,8 @@ firefoxview-tabpickup-adddevice-header =
     }
 firefoxview-tabpickup-adddevice-description =
     { -brand-product-name.case-status ->
-        [with-cases] Stáhněte si { -brand-product-name(case: "acc") } pro mobilní zařízení a přihlaste se v něm.
-       *[no-cases] Stáhněte si aplikaci { -brand-product-name } pro mobilní zařízení a přihlaste se v ní.
+        [with-cases] Stáhněte si { -brand-product-name(case: "acc") } pro mobily a přihlaste se v něm.
+       *[no-cases] Stáhněte si aplikaci { -brand-product-name } pro mobily a přihlaste se v ní.
     }
 firefoxview-tabpickup-adddevice-learn-how = Zjistěte jak
 firefoxview-tabpickup-adddevice-primarybutton =

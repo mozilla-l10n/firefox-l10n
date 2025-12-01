@@ -661,16 +661,16 @@ desktop-to-mobile-headline = Stáhněte, synchronizujte a vyrazte na cesty!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
 desktop-to-mobile-subtitle =
     { -brand-product-name.case-status ->
-        [with-cases] Naskenujte QR kód a stáhněte si { -brand-product-name(case: "acc") } pro mobilní zařízení. Po instalaci vyberte možnost "Synchronizovat s mobilním telefonem" a získejte přístup ke svým heslům, záložkám a dalším údajům na cestách.
-       *[no-cases] Naskenujte QR kód a stáhněte si aplikaci { -brand-product-name } pro mobilní zařízení. Po instalaci vyberte možnost "Synchronizovat s mobilním telefonem" a získejte přístup ke svým heslům, záložkám a dalším údajům na cestách.
+        [with-cases] Naskenujte QR kód a stáhněte si { -brand-product-name(case: "acc") } pro mobily. Po instalaci vyberte možnost "Synchronizovat s mobilním telefonem" a získejte přístup ke svým heslům, záložkám a dalším údajům na cestách.
+       *[no-cases] Naskenujte QR kód a stáhněte si aplikaci { -brand-product-name } pro mobily. Po instalaci vyberte možnost "Synchronizovat s mobilním telefonem" a získejte přístup ke svým heslům, záložkám a dalším údajům na cestách.
     }
 dismiss-button-label = Zavřít
 sync-to-mobile-button-label = Synchronizace s mobilem
 desktop-to-mobile-qr-code-alt =
     .aria-label =
         { -brand-product-name.case-status ->
-            [with-cases] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobilní zařízení
-           *[no-cases] QR kód pro stažení aplikace { -brand-product-name } pro mobilní zařízení
+            [with-cases] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobily
+           *[no-cases] QR kód pro stažení aplikace { -brand-product-name } pro mobily
         }
 
 ## Fx Backup onboarding: Create Backup spotlight
