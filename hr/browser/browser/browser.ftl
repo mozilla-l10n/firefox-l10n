@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } – privatno pregledavanje
        *[other] { -brand-full-name } privatno pregledavanje
     }
+popups-infobar-dont-show-message2 =
+    .label = Ne prikazuj ovu poruku kada su skočni prozori ili preusmjeravanja trećih strana blokirani
+    .accesskey = N
 
 ##
 
@@ -255,6 +258,8 @@ urlbar-screen-blocked =
     .tooltiptext = Blokirao/la si dijeljenje tvog ekrana ovoj web stranici.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ovoj stranici zabranjeno je trajno spremanje podataka.
+urlbar-popup-blocked2 =
+    .tooltiptext = Za ovu stranicu si blokirao/la skočne prozore i preusmjeravanja trećih strana
 urlbar-popup-blocked =
     .tooltiptext = Blokirali ste pop-up prozore za ovu web stranicu.
 urlbar-autoplay-media-blocked =
@@ -1165,6 +1170,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Blokiraj skočne prozore za { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Dozvoli skočne prozore i preusmjeravanja trećih strana za { $uriHost }
+    .accesskey = D
 
 ##
 

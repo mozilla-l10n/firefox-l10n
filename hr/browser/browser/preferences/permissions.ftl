@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = „Samo HTTPS” modus možeš isključiti za određene web stranice. { -brand-short-name } neće pokušati nadograditi vezu u sigurni HTTPS za te web stranice. Iznimke se ne odnose na privatne prozore.
 permissions-exceptions-https-only-desc2 = „Samo HTTPS” modus možeš isključiti za određene web stranice. { -brand-short-name } neće pokušati nadograditi vezu u sigurni HTTPS za te web stranice.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Dozvoljene web-stranice – skočni prozori i preusmjeravanja trećih strana
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

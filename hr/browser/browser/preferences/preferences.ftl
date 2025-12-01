@@ -1102,12 +1102,27 @@ autofill-reauth-payment-methods-checkbox = Zatraži prijavu uređajem za ispunja
 autofill-payment-methods-title = Načini plaćanja
 autofill-payment-methods-header =
     .aria-label = Načini plaćanja
+autofill-payment-methods-manage-payments-title =
+    .heading = Upravljaj načinima plaćanja
 autofill-payment-methods-manage-payments-button =
     .label = Upravljaj načinima plaćanja
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Zahtijevaj prijavu uređajem za automatsko popunjavanje i upravljanje načinima plaćanja
+    .accesskey = o
 payments-list-header =
     .label = Načini plaćanja
 payments-list-item-label = <strong>Načini plaćanja</strong>
+autofill-addresses-title = Adrese i više
+autofill-addresses-header =
+    .aria-label = Adrese i više
+autofill-addresses-checkbox-message =
+    .label = Spremi i automatski popuni adrese
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Upravljaj adresama i još više
+    .accesskey = U
 
 ## Privacy Section - History
 
@@ -1419,6 +1434,9 @@ permissions-autoplay = Automatska reprodukcija
 permissions-autoplay-settings =
     .label = Postavke …
     .accesskey = t
+permissions-block-popups2 =
+    .label = Blokiraj skočne prozore i preusmjeravanja trećih strana
+    .accesskey = B
 permissions-block-popups =
     .label = Blokiraj skočne prozore
     .accesskey = s
