@@ -456,6 +456,10 @@ newtab-weather-see-forecast =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponzorirano
+newtab-weather-menu-change-location = Promijeni lokaciju
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Traži lokaciju
+    .aria-label = Traži lokaciju
 newtab-weather-menu-weather-display = Prikaz vremena
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature

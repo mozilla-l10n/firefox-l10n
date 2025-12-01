@@ -115,7 +115,7 @@ policy-PasswordManagerExceptions = Spriječi { -brand-short-name } da sprema loz
 policy-PostQuantumKeyAgreementEnabled = Aktiviraj postkvantni dogovor ključa za TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deaktiviraj ili konfiguriraj PDF.js, ugrađeni čitač PDF-a u { -brand-short-name(case: "loc") }.
-policy-Permissions2 = Podesi dozvole za kameru, mikrofon, mjesto, obavijesti i automatsku reprodukciju.
+policy-Permissions2 = Podesi dozvole za kameru, mikrofon, lokaciju, obavijesti i automatsku reprodukciju.
 policy-PictureInPicture = Aktiviraj ili deaktiviraj funkciju „Slika-u-slici”.
 policy-PopupBlocking = Dozvoli određenim web stranicama prikazivanje skočnih prozora.
 policy-Preferences = Postavi i zaključaj vrijednosti za podskup postavki.
@@ -124,7 +124,7 @@ policy-PromptForDownloadLocation = Pitaj gdje spremati datoteke prilikom preuzim
 policy-Proxy = Podesi proxy postavke.
 policy-RequestedLocales = Postavi popis traženih jezika za aplikaciju prema željenom redosljedu.
 policy-SanitizeOnShutdown2 = Izbriši navigacijske podatke prilikom zatvaranja programa.
-policy-SearchBar = Postavi standardno mjesto u traci pretrage. Korisnik će ga i dalje moći prilagoditi.
+policy-SearchBar = Postavi standardnu lokaciju u traci pretrage. Korisnik će ga i dalje moći prilagoditi.
 policy-SearchEngines = Prilagodi postavke tražilice. Ovo pravilo dostupno je samo u izdanju proširene podrške (ESR).
 policy-SearchSuggestEnabled = Aktiviraj ili deaktiviraj prijedloge za pretraživanje.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
@@ -134,7 +134,7 @@ policy-ShowHomeButton = Prikaži gumb početne stranice u alatnoj traci.
 policy-SkipTermsOfUse2 = Ne prikazuj uvjete korištenja i napomene o privatnosti prilikom pokretanja. Izjavljuješ da prihvaćaš i da imaš ovlaštenje prihvatiti uvjete korištenja u ime svih pojedinaca kojima omogućiš pristup ovom pregledniku.
 policy-SSLVersionMax = Postavi maksimalnu SSL verziju.
 policy-SSLVersionMin = Postavi minimalnu SSL verziju.
-policy-StartDownloadsInTempDirectory = Prisili pokretanje preuzimanja u lokalno, privremeno mjesto umjesto u standardnu mapu za preuzimanje.
+policy-StartDownloadsInTempDirectory = Prisili pokretanje preuzimanja u lokalno, privremenu lokaciju umjesto u standardnu mapu za preuzimanje.
 policy-SupportMenu = Dodaj prilagođenu stavku korisničke podrške u izbornik pomoći.
 policy-TranslateEnabled = Aktiviraj ili deaktiviraj prevođenje web stranica.
 policy-UserMessaging = Ne prikazuj određene poruke korisniku.
