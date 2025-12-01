@@ -236,7 +236,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>Բացե՞լ { -brand-short-name }-ը ամեն անգամ համակարգիչը վերամեկնարկելիս:</strong> Այժմ կարող եք կայել { -brand-short-name }-ը, որպեսզի այն ինքնաբար բացվի ձեր սարքը վերամեկնարկելուց հետո:
+launch-on-login-infobar-message = <strong>Բացե՞լ { -brand-short-name }-ը ամեն անգամ համակարգիչը վերամեկնարկելիս:</strong> Այժմ կարող եք սահմանել, որպեսզի  { -brand-short-name }-ն ինքնաբար բացվի ձեր սարքը վերամեկնարկելուց հետո:
 launch-on-login-learnmore = Իմանալ ավելին
 launch-on-login-infobar-confirm-button = Այո, բացել { -brand-short-name }-ը
     .accesskey = Y

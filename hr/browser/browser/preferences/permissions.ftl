@@ -98,6 +98,7 @@ permissions-exceptions-https-only-desc2 = „Samo HTTPS” modus možeš isklju�
 permissions-exceptions-popup-window3 =
     .title = Dozvoljene web-stranice – skočni prozori i preusmjeravanja trećih strana
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Možeš odrediti kojim je web-stranicama dozvoljeno otvaranje skočnih prozora i preusmjeravanje putem okvira trećih strana.
 
 ## Exceptions - Pop-ups
 
@@ -173,6 +174,18 @@ permissions-site-camera-desc = Sljedeće web stranice su zatražile pristup tvoj
 permissions-site-camera-disable-label =
     .label = Blokiraj nove zahtjeve za pristup tvojoj kameri
 permissions-site-camera-disable-desc = Ovo će spriječiti traženje pristupa tvojoj kameri za svaku stranicu koja nije navedena. Blokiranje pristupa tvojoj kameri može pokvariti neke funkcije web stranice.
+
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Postavke – Aplikacije uređaja i usluge
+    .style = { permissions-window2.style }
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Postavke – Lokalni mrežni uređaji
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Microphone
 

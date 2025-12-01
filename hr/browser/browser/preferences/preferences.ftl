@@ -1216,6 +1216,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Upravljanje iznimkama …
     .accesskey = z
+sitedata-cookies-exceptions2 =
+    .label = Upravljaj iznimkama
+    .accesskey = v
+    .description = Možeš odrediti koje web-stranice uvijek smiju ili nikada ne smiju koristiti kolačiće i podatke web-stranice.
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1566,6 +1570,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } ponestaje memorije na disku.</strong> Sadržaj web stranica se možda neće ispravno prikazati. Spremljene podatke možeš izbrisati u Postavke > Privatnost i sigurnost > Kolačići i podaci web stranice.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } ponestaje memorije na disku.</strong> Sadržaj web stranica se možda neće ispravno prikazati. Posjeti „Saznaj više” za optimiziranje korištenja memorije za bolje iskustvo tijekom pregledavanja.
+certs-description2 =
+    .label = Certifikati
+    .description = Konfiguriraj certifikate koje { -brand-short-name } koristi za autentifikaciju.
 
 ## Privacy Section - HTTPS-Only
 
