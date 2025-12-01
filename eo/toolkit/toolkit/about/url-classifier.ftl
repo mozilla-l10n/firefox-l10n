@@ -14,6 +14,7 @@ url-classifier-search-result-list = Listo de tabeloj: { $list }
 url-classifier-search-input = Retadreso
 url-classifier-search-error-invalid-url = Nevalida retadreso
 url-classifier-search-error-no-features = Neniu trajto elektita
+url-classifier-search-error-no-results = Neniu elemento trovita por tiu retadreso
 url-classifier-search-btn = Ekserĉi
 url-classifier-search-features = Trajtoj
 url-classifier-search-listType = Tipo de listo

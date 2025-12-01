@@ -275,6 +275,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } ĝisdatigis sian kolekton de koloraroj. Ni forigis la malnova(j)n versio(j)n el viaj listo de konservitaj etosoj. Ricevu novajn versiojn en la retejo por aldonaĵoj.
 colorway-removal-notice-learn-more = Pli da informo
 colorway-removal-notice-button = Ricevu ĝisdatigitajn kolorarajn etosojn
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Viaj kontrastaj agordoj de Windows superregas la etosojn de { -brand-short-name }. Malŝaltu tiujn agordojn por uzi etosojn en { -brand-short-name }.
 privacy-policy = Politiko pri privateco
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -517,6 +521,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Pli da informo
 details-notification-blocked = { $name } estis blokita pro sekurecaj kaj stabilecaj problemoj.
 details-notification-blocked-link2 = Montri detalojn
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Tiu ĉi etendaĵo estas limigita kaj ĝi estis do malaktivigita. Vi povas reaktivigi ĝin, sed tio povus esti riska.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Tiu ĉi etendaĵo estas limigita. Uzi ĝin povus esti riske.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Tiu ĉi aldonaĵo estas limigita kaj ĝi estis do malaktivigita. Vi povas reaktivigi ĝin, sed tio povus esti riska.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Tiu ĉi aldonaĵo estas limigita. Uzi ĝin povus esti riske.
 details-notification-soft-blocked-extension-disabled =
     .message = Tiu ĉi etendaĵo estis blokita pro malobservo de la politikoj de Mozilla kaj ĝi estis do malaktivigita. Vi povas reaktivigi ĝin, sed tio povus esti riska.
 details-notification-soft-blocked-extension-enabled =
