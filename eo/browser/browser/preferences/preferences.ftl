@@ -60,6 +60,7 @@ pane-experimental-description2 = Ŝanĝo de spertulaj agordoj povas influi la ef
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Testu niajn eksperimentajn trajtojn! Ili estas disvolvataj kaj evoluas, kio povus ŝanĝi la manieron, kiel { -brand-short-name } funkcias. Ni nur ricevos datumojn pri via uzo de tiuj trajtoj se vi havas ŝaltita la preferon <a data-l10n-name="data-collection">teknikaj kaj interagaj datumoj</a>.
 pane-experimental-description3 = Provu niajn eksperimentajn trajtojn! Ili disvolviĝas kaj evoluas, kio povus efiki sur la maniero funkcii de { -brand-short-name }.
 pane-experimental-reset =
     .label = Remeti normojn
@@ -113,6 +114,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Por aktivigi la etendaĵon iru al <img data-l10n-name="addons-icon"/> Aldonaĵoj en la <img data-l10n-name="menu-icon"/> menuo.
+extension-controlled-enable-2 = Por reaktivigi tiun ĉi etendaĵon, vizitu <a data-l10n-name="addons-link">Etendaĵoj kaj etosoj</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } regas kelkajn el viaj agordoj por la eka paĝo.
@@ -170,8 +172,32 @@ preferences-manage-profiles-description = Ĉiu profilo havas apartigitajn retuma
 preferences-manage-profiles-learn-more = Pli da informo
 preferences-manage-profiles-button =
     .label = Administri profilojn
+preferences-profiles-settings-button =
+    .label = Agordoj
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopii ekzistantan profilon
+    .description = La nova profilo ricevos kopion de viaj agordoj, aldonaĵoj, historio kaj konservitaj datumoj, kiel legosignoj kaj pasvortoj — sed ne vian konton aŭ spegulajn informojn.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profilo kopiota
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Elekti profilon
+preferences-copy-profile-button = Kopii
 tabs-group-header2 =
     .label = Langetoj
+tabs-opening-heading =
+    .label = Malfermo
+tabs-interaction-heading =
+    .label = Interago
+tabs-containers-heading =
+    .label = Ingoj
+tabs-closing-heading =
+    .label = Fermo
 tabs-group-header = Langetoj
 ctrl-tab-recently-used-order =
     .label = Stir+Tabo rondiras inter langetoj ordigitaj laŭ ĵuseco

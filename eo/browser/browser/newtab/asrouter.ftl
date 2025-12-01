@@ -71,6 +71,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 fxa-adoption-addresses-backup-title = Faru ni sekurkopion de viaj konservitaj adresoj
 fxa-adoption-addresses-backup-subtitle = Protektu viajn konservitajn adresojn per ĉifrita konservado en viaj aparatoj.
 fxa-adoption-credit-cards-backup-title = Faru ni sekurkopion de viaj pagmetodoj
+fxa-adoption-credit-cards-backup-subtitle = Protektu viajn pagmetodojn per ĉifrita konservado en viaj aparatoj.
 fxa-adoption-bookmarks-treatment-backup-title = Faru ni sekurkopion de viaj legosignoj
 fxa-adoption-bookmarks-treatment-backup-subtitle = Protektu viajn legosignojn per ĉifrita konservado en viaj aparatoj.
 fxa-adoption-primary-button-label = Krei konton
