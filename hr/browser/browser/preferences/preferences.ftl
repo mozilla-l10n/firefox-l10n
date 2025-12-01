@@ -1404,7 +1404,7 @@ tracking-manage-exceptions =
 ## Privacy Section - Permissions
 
 permissions-header = Dozvole
-permissions-location = Lokacija
+permissions-location = Mjesto
 permissions-location-settings =
     .label = Postavke …
     .accesskey = t
@@ -1458,7 +1458,7 @@ permissions-addon-exceptions =
     .label = Iznimke …
     .accesskey = e
 permissions-location2 =
-    .label = Lokacija
+    .label = Mjesto
 permissions-xr2 =
     .label = Virtualna stvarnost
 permissions-camera2 =

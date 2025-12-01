@@ -169,6 +169,11 @@ preferences-manage-profiles-button =
     .label = Handsam profilar
 preferences-profiles-settings-button =
     .label = Innstillingar
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profil som skal kopierast
 # This string is a placeholder that will be shown in a drop-down list of
 # profiles. The user will select a profile, then click the copy button
 # to make a copy of that profile.
@@ -176,6 +181,12 @@ preferences-copy-profile-select = Vel profil
 preferences-copy-profile-button = Kopier
 tabs-group-header2 =
     .label = Faner
+tabs-opening-heading =
+    .label = Opning
+tabs-interaction-heading =
+    .label = Samhandling
+tabs-containers-heading =
+    .label = Behaldarar
 tabs-group-header = Faner
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab vekslar mellom faner i nyleg brukt-rekkjefølgje
@@ -648,6 +659,8 @@ home-homepage-header = Startside
 
 ## Custom Homepage subpage
 
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Nettadresse(r)
 home-custom-homepage-address =
     .placeholder = Skriv inn adresse
 home-custom-homepage-address-button =
@@ -662,6 +675,7 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }-innhald
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Vel kva for innhald som du vil ha på { -firefox-home-brand-name }-skjermen din.
 home-prefs-search-header =
     .label = Nettsøk
@@ -1085,6 +1099,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Bruk eit hovudpassord
     .accesskey = B
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Slå det av
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Krev einingsinnlogging for å fylle ut og behandle passord
@@ -1533,6 +1550,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Unntak…
     .accesskey = U
+permissions-header2 =
+    .label = Løyve
+    .description = Løyve du gir til nettstadar du besøkjer.
 permissions-location2 =
     .label = Plassering
 permissions-localhost2 =
