@@ -80,6 +80,13 @@ enable-backup-encryption-repeat-password-label = تکرار رزم
 enable-backup-encryption-cancel-button = لقو
 enable-backup-encryption-confirm-button = زفت
 
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = و خۊوی ٱنجوم وابی
+password-rules-a11y-warning =
+    .alt = بپا
+
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-cancel-button = لقو

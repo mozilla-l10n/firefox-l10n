@@ -422,6 +422,9 @@ quickactions-restart = ر وندن دووارته { -brand-short-name }
 quickactions-cmd-restart = ر وندن دووارته
 # Opens the screenshot tool
 quickactions-screenshot3 = ز بلگه شؽوات بیگیرین
+# Opens about:translations
+quickactions-translate = ولرنیڌن
+quickactions-cmd-translate = ولرنیڌن
 quickactions-cmd-screenshot = شؽوات ز بلگه
 # Opens about:preferences
 quickactions-settings2 = دؽوۉداری سامووا
@@ -807,6 +810,9 @@ panel-save-update-password = رزم
 # "More" item in macOS share menu
 menu-share-more =
     .label = قلوه…
+menu-share-copy-link =
+    .label = لف گیری لینگ
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = بستن
 
@@ -831,6 +837,13 @@ edit-popup-settings =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = ناوبری
+navbar-downloads =
+    .label = دانلودا
 tabs-toolbar-new-tab =
     .label = بلگه نۊ
 
