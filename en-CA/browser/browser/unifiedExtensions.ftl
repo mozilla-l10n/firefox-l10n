@@ -89,7 +89,9 @@ unified-extensions-mb-blocklist-warning-multiple2 =
         { $extensionsCount ->
            *[other] { $extensionsCount } extensions disabled
         }
-    .message = { $extensionsCount } extensions disabled
+    .message =
+        Some of your extensions are restricted and have been disabled.
+        You can enable them in settings, but this may be risky.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
