@@ -5,6 +5,14 @@
 tabbrowser-empty-tab-title = بلگه نۊ
 tabbrowser-empty-private-tab-title = بلگه سیخومی نۊ
 
+## Confirmation dialog when quitting using the menu and multiple windows are open.
+
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] بستن وو و در زیڌن
+       *[other] بستن وو و در زیڌن
+    }
+
 ##
 
 tab-group-editor-cancel =

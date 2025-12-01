@@ -16,6 +16,8 @@ new-profile-page-done-button =
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
+# Open is an adjective, as in "browser windows currently open".
+delete-profile-windows = گۊشیڌن نیمدری یل
 delete-profile-bookmarks = نشووکا
 
 ##
