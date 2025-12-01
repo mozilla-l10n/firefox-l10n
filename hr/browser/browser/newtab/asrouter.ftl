@@ -70,6 +70,8 @@ cfr-doorhanger-bookmark-fxa-link-text = Sinkroniziraj zabilješke sada …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tipka za zatvaranje
     .title = Zatvori
+fxa-adoption-credit-cards-backup-title = Izradimo sigurnosnu kopiju tvojih načina plaćanja
+fxa-adoption-credit-cards-backup-subtitle = Zaštiti svoje načine plaćanja sinkronizacijom s uređajima pomoću šifriranja.
 
 ## Protections panel
 

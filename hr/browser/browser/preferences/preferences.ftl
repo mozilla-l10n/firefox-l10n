@@ -58,6 +58,7 @@ pane-experimental-description2 = Mijenjanje naprednih konfiguracijskih postavki 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Isprobaj naše eksperimentalne funkcije! Još se nalaze u fazi razvoja, što bi moglo utjecati na način rada { -brand-short-name }. Podatke o tvojem korštenju ovih funkcija primamo samo ako su opcije <a data-l10n-name="data-collection">tehnički podatci i podatci o interakciji</a> uključene.
 pane-experimental-description3 = Isprobaj naše eksperimentalne funkcije! Nalaze se u fazi razvoja i svakim danom su sve bolje, što bi moglo utjecati na funkcioniranje { -brand-short-name(case: "gen") }.
 pane-experimental-reset =
     .label = Obnovi standardne postavke
@@ -1098,6 +1099,15 @@ autofill-saved-payment-methods-button = Spremljeni načini plaćanja
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Zatraži prijavu uređajem za ispunjavanje i upravljanje načinima plaćanja
     .accesskey = Z
+autofill-payment-methods-title = Načini plaćanja
+autofill-payment-methods-header =
+    .aria-label = Načini plaćanja
+autofill-payment-methods-manage-payments-button =
+    .label = Upravljaj načinima plaćanja
+    .accesskey = m
+payments-list-header =
+    .label = Načini plaćanja
+payments-list-item-label = <strong>Načini plaćanja</strong>
 
 ## Privacy Section - History
 
