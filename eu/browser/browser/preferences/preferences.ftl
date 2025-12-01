@@ -166,6 +166,10 @@ preferences-manage-profiles-button =
     .label = Kudeatu profilak
 preferences-profiles-settings-button =
     .label = Ezarpenak
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopiatu lehendik dagoen profila
+    .description = Profil berriak zure ezarpenak, gehigarriak, historia eta gordetako datuak, hala nola laster-markak eta pasahitzak kopiatuko ditu — ez ordea zure kontu- edo sinkronizazio-informazioa.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -1096,9 +1100,19 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Bete automatikoki erabiltzaile-izen eta pasahitzak
     .accesskey = B
+forms-fill-usernames-and-passwords-2 =
+    .label = Gorde eta osatu automatikoki erabiltzaile-izenak eta pasahitzak
+    .accesskey = s
 forms-saved-passwords =
     .label = Gordetako pasahitzak
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Kudeatu gordetako pasahitzak
+    .accesskey = d
+forms-saved-passwords-searchkeywords = Ondorengo guneetako saio-hasierak daude gordeta zure ordenagailuan
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Babes gehigarriak
 forms-primary-pw-use =
     .label = Erabili pasahitz nagusia
     .accesskey = n
@@ -1173,6 +1187,15 @@ payments-list-item-label = <strong>Ordainketa-metodoak</strong>
 payments-remove-payment-prompt-title = Kendu ordainketa-metodo hau?
 payments-remove-payment-prompt-confirm-button = Kendu
 payments-remove-payment-prompt-cancel-button = Utzi
+autofill-addresses-title = Helbideak eta gehiago
+autofill-addresses-header =
+    .aria-label = Helbideak eta gehiago
+autofill-addresses-checkbox-message =
+    .label = Gorde eta osatu automatikoki helbideak
+    .accesskey = G
+autofill-addresses-manage-addresses-button =
+    .label = Kudeatu helbideak eta gehiago
+    .accesskey = K
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

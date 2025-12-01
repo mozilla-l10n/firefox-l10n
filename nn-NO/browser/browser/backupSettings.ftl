@@ -114,6 +114,25 @@ restore-from-backup-restoring-button = Gjenopprettar…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Feil passord. <a data-l10n-name="incorrect-password-support-link">Har du framleis problem?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Denne fila fungerer ikkje
+    .message = Det oppstod eit problem med sikkerheitskopifilen din. Vel ei anna fil og prøv igjen.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Denne fila fungerer ikkje
+    .message = Fila du valde er ikkje kompatibel med denne versjonen av { -brand-short-name }. Vel ei anna fil og prøv igjen.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Denne fila fungerer ikkje
+    .message = Fila du valde vart ikkje oppretta av { -brand-short-name }. Vel ei anna fil og prøv igjen.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong =
