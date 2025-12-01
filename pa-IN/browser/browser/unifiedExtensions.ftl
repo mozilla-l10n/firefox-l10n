@@ -84,6 +84,14 @@ unified-extensions-mb-blocklist-error-single =
     .message = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੇ Mozilla ਦੀਆਂ ਪਾਲਸੀਆਂ ਦੀ ਉਲੰਘਣਾ ਕੀਤੀ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ।
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } extensions disabled
+        }
+    .message = { $extensionsCount } ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਸਮਰੱਥ ਹਨ।
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
     .heading =
         { $extensionsCount ->
