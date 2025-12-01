@@ -114,6 +114,12 @@ content-blocking-unvisited-cookies = کۊکیا ز وبگه یل نیڌه بیڌ
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-etp-standard-tcp-rollout-learn-more = قلوه دووسته بۊین
+content-blocking-tracking-protection-option-all-windows =
+    .label = من پوی نیمدری یل
+    .accesskey = A
+content-blocking-option-private =
+    .label = تینا من نیمدری یل سیخومی
+    .accesskey = p
 content-blocking-cookies-label =
     .label = کۊکیا
     .accesskey = C
@@ -149,6 +155,9 @@ permissions-notification-link = قلوه دووسته بۊین
 permissions-autoplay-settings =
     .label = سامووا…
     .accesskey = t
+permissions-block-popups =
+    .label = مسدۊد کردن نیمدری یل گۊشیڌنی
+    .accesskey = B
 permissions-notification2 =
     .label = وارسۊویا
 

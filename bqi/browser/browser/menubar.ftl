@@ -44,6 +44,11 @@ menu-edit =
 menu-view-bookmarks =
     .label = نشووکا
 
+## History Menu
+
+menu-history-undo-window-menu =
+    .label = نیمدری یلی ک سکو بسته وابین
+
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
