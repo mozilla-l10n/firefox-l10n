@@ -1037,6 +1037,7 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = Spremljene lozinke
     .accesskey = p
+forms-saved-passwords-searchkeywords = Prijave za sljedeće stranice su spremljene na tvom računalu
 forms-primary-pw-use =
     .label = Koristi primarnu lozinku
     .accesskey = u
