@@ -456,10 +456,6 @@ newtab-weather-see-forecast =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponzorirano
-newtab-weather-menu-change-location = Promijeni mjesto
-newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Traži mjesto
-    .aria-label = Traži mjesto
 newtab-weather-menu-weather-display = Prikaz vremena
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -477,6 +473,7 @@ newtab-weather-menu-hide-weather = Sakrij vremensku prognozu na novoj kartici
 newtab-weather-menu-learn-more = Saznaj više
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Podaci o vremenu trenutačno nisu dostupni.
+newtab-weather-opt-in-see-weather = Želiš li vidjeti vremensku prognozu za svoju lokaciju?
 
 ## Topic Labels
 

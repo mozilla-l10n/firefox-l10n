@@ -11,8 +11,8 @@ bookmark-overlay-url =
 # Location refers to the position of the bookmark within the browser's
 # bookmarks, not to its URL or address.
 bookmark-overlay-location-2 =
-    .value = Mjesto
-    .accesskey = M
+    .value = Lokacija
+    .accesskey = L
 bookmark-overlay-choose =
     .label = Odaberi …
 bookmark-overlay-folders-expander =
