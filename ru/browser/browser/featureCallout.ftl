@@ -162,7 +162,7 @@ sidebar-button-callout-vertical-tabs = Чтобы показать ваши вк
 
 ## Sidebar Vertical Tabs Strings
 
-vertical-tabs-callout-1-title = Перегружены большим количеством вкладок?
+vertical-tabs-callout-1-title = Перегружены тонной вкладок?
 vertical-tabs-callout-1-subtitle = Попробуйте новый макет с вертикальными вкладками, чтобы быстро просмотреть список вкладок. Ранние тестировщики сообщают, что эта компоновка помогает им чувствовать себя более организованными. Переключайтесь в любое время.
 vertical-tabs-callout-1-cta-button = Попробуйте вертикальные вкладки
 vertical-tabs-callout-2-cta-button = Попробуйте сейчас

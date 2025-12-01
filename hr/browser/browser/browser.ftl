@@ -1464,7 +1464,7 @@ trustpanel-blocker-section-header =
     }
 trustpanel-blocker-description = { -brand-product-name } smatra da bi te tvrtke trebale manje pratiti. Stoga blokiramo što više možemo.
 trustpanel-blocked-header = { -brand-product-name } je blokirao sljedeće stvari:
-trustpanel-tracking-header = { -brand-product-name } je dopustio sljedeće stvart kako bi web stranice ispravno radile:
+trustpanel-tracking-header = { -brand-product-name } je dopustio sljedeće stvart kako bi web-stranice ispravno radile:
 trustpanel-tracking-description = Neki gumbi, obrasci i polja za prijavu možda neće raditi bez programa za praćenje.
 trustpanel-insecure-section-header = Tvoja veza nije sigurna
 trustpanel-insecure-description = Podaci koje šalješ na ovu web stranicu nisu šifrirani. Mogu se pregledati, ukrasti ili promijeniti.
