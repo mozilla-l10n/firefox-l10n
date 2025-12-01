@@ -9,6 +9,9 @@ customkeys-reset = Zurücksetzen
 customkeys-clear = Löschen
 customkeys-new-key = Neue Taste drücken:
 customkeys-reset-all = Alle Tastenkombinationen auf die Standardeinstellungen zurücksetzen
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Diese Taste ist bereits { $conflict } zugeordnet. Möchten Sie diese ersetzen?
 customkeys-reset-all-confirm = Sollen wirklich alle Tastenkombinationen auf die Standardeinstellungen zurückgesetzt werden?
 customkeys-history-reopen-tab = Zuletzt geschlossenen Tab wiederherstellen
 customkeys-history-reopen-window = Zuletzt geschlossenes Fenster wieder öffnen
