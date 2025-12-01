@@ -110,6 +110,11 @@ profiles-terracotta-theme-2 = Ciglasto crvena
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mahovinasto zelena
 
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Postavke prikupljanja podataka su promijenjene.</strong> Promjene koju se napravljene u drugom profilu primjenjuju se na sve profile na ovom uređaju.
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =

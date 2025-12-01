@@ -50,3 +50,8 @@ about-logging-invalid-output = Neispravna vrijednost „{ $v }” za ključ „{
 about-logging-unknown-profiler-preset = Nepoznata unaprijed postavljena postavka profilera „{ $v }”
 about-logging-unknown-option = Nepoznata about:logging opcija „{ $k }”
 about-logging-file-and-profiler-override = Nije moguće istovremeno prisiliti ispis datoteke i zamijeniti opcije profilera
+
+## Uploaded Profiles section
+
+about-logging-uploaded-profiles-title = Preneseni profili
+about-logging-no-uploaded-profiles = Nijedan profil još nije prenesen.

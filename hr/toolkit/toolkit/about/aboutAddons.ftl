@@ -565,6 +565,9 @@ permissions-data-addon-button = Dozvole i podaci
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Koristi ga proširenje { $extensionName }
+addon-permissions-data-collection-heading = Prikupljanje podataka
+addon-permissions-data-collection-empty = Programer kaže da ovo proširenje ne zahtijeva prikupljanje podataka.
+addon-data-collection-learnmore = Saznaj više o prikupljanju podataka
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
