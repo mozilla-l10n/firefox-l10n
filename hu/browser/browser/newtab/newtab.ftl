@@ -668,6 +668,14 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Új lista
+newtab-widget-section-title = Kisalkalmazások
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = Kisalkalmazások elrejtése
+    .aria-label = Összes kisalkalmazás elrejtése
+newtab-widget-section-maximize =
+    .title = Kisalkalmazások kibontása
+    .aria-label = Összes kisalkalmazás kibontása teljes méretűre
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
