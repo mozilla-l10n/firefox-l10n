@@ -9,11 +9,13 @@ contextual-manager-passwords-command-settings = سامووا
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = آلشت رزم زفت وابیڌه
+contextual-manager-passwords-import-file-picker-import-button = و من ٱووردن
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = نۊ: { $added }، ورۊ وابیڌه: { $modified }
 contextual-manager-passwords-import-success-button = ٱنجوم وابی
+contextual-manager-passwords-import-error-button-try-again = قپ ریت دووارته
 contextual-manager-passwords-import-error-button-cancel = لقو
 contextual-manager-passwords-export-success-button = ٱنجوم وابی
 # The default file name shown in the file picker when exporting saved logins.
@@ -38,4 +40,5 @@ contextual-manager-edit-login-button = آلشت
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = بستن
 contextual-manager-primary-password-learn-more-link = قلوه دووسته بۊین

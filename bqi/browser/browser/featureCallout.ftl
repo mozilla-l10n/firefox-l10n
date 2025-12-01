@@ -8,3 +8,8 @@
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = دؽوۉداری سامووا
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-very-dissatisfied-2 = قلوه ن رازی
+sidebar-callout-survey-dont-use-it = و کارس نؽگروم

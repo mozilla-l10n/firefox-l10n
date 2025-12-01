@@ -4,3 +4,5 @@
 
 customize-mode-done =
     .label = ٱنجوم وابی
+customize-mode-undo-cmd =
+    .label = وورگندن

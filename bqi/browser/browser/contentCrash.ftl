@@ -7,3 +7,12 @@
 
 crashed-subframe-learnmore-link =
     .value = قلوه دووسته بۊین
+
+## Pending crash reports
+
+pending-crash-reports-view-all =
+    .label = نشووݩ داڌن
+pending-crash-reports-send =
+    .label = فشناڌن
+pending-crash-reports-always-send =
+    .label = هی بفشنه

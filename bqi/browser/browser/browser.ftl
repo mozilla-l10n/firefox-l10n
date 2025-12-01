@@ -844,6 +844,13 @@ navbar-accessible =
     .aria-label = ناوبری
 navbar-downloads =
     .label = دانلودا
+navbar-overflow =
+    .tooltiptext = ٱوزارا قلوه…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = چاپ
+    .tooltiptext = چاپ ای بلگه… ({ $shortcut })
 tabs-toolbar-new-tab =
     .label = بلگه نۊ
 
@@ -889,6 +896,12 @@ unified-extensions-button-blocklisted =
 reset-pbm-panel-cancel-button =
     .label = لقو
     .accesskey = C
+
+## Autorefresh blocker
+
+refresh-blocked-allow =
+    .label = هشتن
+    .accesskey = A
 
 ## Add-on Pop-up Notifications
 
