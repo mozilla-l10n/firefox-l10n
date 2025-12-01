@@ -23,7 +23,12 @@ cancel-no-restart-button = لقو
 
 ## General Section
 
+preferences-profiles-group-header =
+    .heading = پوروفایلا
+preferences-profiles-header = پوروفایلا
 preferences-manage-profiles-learn-more = قلوه دووسته بۊین
+preferences-manage-profiles-button =
+    .label = دؽوۉداری پوروفایلا
 browser-containers-learn-more = قلوه دووسته بۊین
 browser-containers-settings =
     .label = سامووا…
@@ -163,6 +168,7 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
+preferences-view-profiles = نیشتن پوی پوروفایلا
 collection-health-report-telemetry-disabled-link = قلوه دووسته بۊین
 collection-health-report-link = قلوه دووسته بۊین
 addon-recommendations-link = قلوه دووسته بۊین
