@@ -161,4 +161,5 @@ webext-site-perms-midi-sysex = Eike MIDI mba’e’okápe SysEx pytyvõha ndive
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Ne téma sa’y mbojoparaha ojejokóma.</b> { -brand-shorter-name } ombohekopyahúma sa’y mbojoparaha aty. Ejuhúta umi tembiapo ipyahuvéva ñembohekoha renápe.
 webext-colorway-theme-migration-notification-button = Ereko téma sa’y ojuehegua ag̃agua

@@ -28,6 +28,8 @@ wallet-custom-scheme-warning-host-app = Embojurujávo joajuha <strong>{ $scheme 
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-app = Embojurujávo joajuha <strong>{ $scheme }</strong> omoneĩ ko tendápe ojerurévo nde reraite oipurúvo <strong>{ $appName }</strong>. Eku’ejey ejeroviárõ ko tenda rehe.
 # Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Embojurujávo joajuha <strong>{ $scheme }</strong> omoneĩ <strong>{ $host }</strong> ojerurévo nde reraite eipurúva jehepyme’ẽha guive. Eku’ejey ejeroviáramo ko tenda rehe.
+# Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning = Embojurujávo peteĩ joajuha <strong>{ $scheme }</strong> omoneĩ ko tendápe ojerurévo nde reraite oipurúvo jehepyme’ẽha. Eku’ejey ejeroviárõ ko tenda rehe.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
