@@ -113,6 +113,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = ਵਾਧਰੇ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ <img data-l10n-name="menu-icon"/> ਮੇਨੂ ਵਿੱਚ <img data-l10n-name="addons-icon"/> ਐਡ-ਆਨ ਉੱਤੇ ਜਾਓ।
+extension-controlled-enable-2 = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਮੁੜ-ਸਮਰੱਥ ਕਰਨ ਲਈ <a data-l10n-name="addons-link">ਇਕਸਟੈਨਸ਼ਨ ਅਤੇ ਥੀਮ</a> ਨੂੰ ਵੇਖੋ।
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਦੀਆਂ ਕੁਝ ਸੈਟਿੰਗਾਂ ਨੂੁੰ ਕੰਟਰੋਲ ਕਰਦੀ ਹੈ।
@@ -172,6 +173,10 @@ preferences-manage-profiles-button =
     .label = ਪਰੋਫਾਈਲਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 preferences-profiles-settings-button =
     .label = ਸੈਟਿੰਗਾਂ
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = ਮੌਜੂਦਾ ਪਰੋਫ਼ਾਈਲ ਵਜੋਂ ਕਾਪੀ ਕਰੋ
+    .description = ਨਵਾਂ ਪਰੋਫ਼ਾਇਲ ਤੁਹਾਡੀਆਂ ਸੈਟਿੰਗਾਂ, ਐਡ-ਆਨ, ਅਤੀਤ ਅਤੇ ਸੰਭਾਲੇ ਡਾਟੇ ਜਿਵੇਂ ਕਿ ਬੁੱਕਮਾਰਕ ਅਤੇ ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਕਰੇਗਾ — ਪਰ ਤੁਹਾਡੇ ਖਾਤੇ ਜਾਂ ਸਿੰਕ ਜਾਣਕਾਰੀ ਨਹੂੰ ਨਹੀਂ।
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -764,6 +769,8 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } ਲਈ ਸਹਿਯੋਗ
 home-prefs-mission-message = ਸਾਡੇ ਸਪੌਂਸ ਵਧੀਆ ਵੈੱਬ ਬਣਾਉਣ ਦੇ ਸਾਡੇ ਟੀਚੇ ਵਿੱਚ ਸਹਿਯੋਗ ਕਰਦੇ ਹਨ।
 home-prefs-mission-message-learn-more-link = ਸਮਝੋ ਕਿ ਕਿਵੇਂ
+home-prefs-mission-message2 =
+    .message = ਸਾਡੇ ਸਪਾਂਸਰ ਵੈੱਬ ਨੂੰ ਹੋਰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਸਾਡੇ ਮਕਸਦ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹਨ।
 home-prefs-manage-topics-link = ਵਿਸ਼ਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ
 home-prefs-choose-wallpaper-link = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
 # Variables:
@@ -1261,6 +1268,8 @@ history-remember-description2 =
     .description = { -brand-short-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ, ਡਾਊਨਲੋਡ, ਫਾਰਮਾਂ ਅਤੇ ਖੋਜ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੇਗਾ।
 history-dontremember-description2 =
     .description = { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਾਲੀਆਂ ਸੈਟਿੰਗਾਂ ਵਰਤੇਗਾ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਵੈੱਬ ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਕੋਈ ਵੀ ਅਤੀਤ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ।
+history-custom-description =
+    .description = { -brand-short-name } ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਿੰਗ, ਡਾਊਨਲੋਡ, ਫਾਰਮ ਅਤੇ ਖੋਜ ਅਤੀਤ ਲਈ ਪਸੰਦੀਦਾ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਰਤੇਗਾ।
 history-remember-description = { -brand-short-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ, ਡਾਊਨਲੋਡ, ਫਾਰਮਾਂ ਅਤੇ ਖੋਜ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੇਗਾ।
 history-dontremember-description = { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਾਲੀਆਂ ਸੈਟਿੰਗਾਂ ਵਰਤੇਗਾ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਵੈੱਬ ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਕੋਈ ਵੀ ਅਤੀਤ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ।
 history-private-browsing-permanent =
@@ -1507,7 +1516,12 @@ content-blocking-warning-learn-how = ਹੋਰ ਸਿੱਖੋ
 content-blocking-baseline-exceptions-3 =
     .label = ਵੱਡੇ ਸਾਈਟ ਮਸਲੇ ਠੀਕ ਕਰੋ (ਸਿਫ਼ਾਰਸ਼ੀ)
     .description = ਸਿਰਫ਼ ਗ਼ੈਰ-ਜ਼ਰੂਰੀ ਭਾਗਾਂ, ਜਿਨਾਂ ਵਿੱਚ ਟਰੈਕਰ ਹੋ ਸਕਦੇ ਹਨ, ਤੋਂ ਪਾਬੰਦੀ ਹਟਾ ਕੇ ਸਾਈਟ ਅਤੇ ਫ਼ੀਚਰਾਂ ਨੂੰ ਲੋਡ ਕਰਨ ਲਈ ਮਦਦ ਮਿਲਦੀ ਹੈ। ਅਕਸਰ ਆਮ ਸਮੱਸਿਆਵਾਂ ਹੱਲ਼ ਹੋ ਜਾਂਦੀਆਂ ਹਨ।
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = ਛੋਟੇ ਸਾਈਟ ਮਸਲੇ ਠੀਕ ਕਰੋ
+    .description = ਟਰੈਕਰ ਰੱਖਣ ਵਾਲੇ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਹਟਾ ਕੇ ਲੇਖ ਵਿੱਚ ਵੀਡੀਓ ਅਤੇ ਟਿੱਪਣੀ ਭਾਗਾਂ ਵਰਗੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਬਹਾਲ ਕਰਦਾ ਹੈ। ਇਸ ਨਾਲ ਸਾਈਟ ਨਾਲ ਮਸਲੇ ਘੱਟ ਸਕਦੇ ਹਨ, ਪਰ ਸੁਰੱਖਿਆ ਘੱਟ ਜਾਂਦੀ ਹੈ। ਵੱਡੇ ਮਸਲੇ ਠੀਕ ਕਰਨ ਲਈ ਹੀ ਵਰਤਿਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।
 content-blocking-baseline-uncheck-warning-dialog-title = ਕੀ ਤੁਸੀਂ ਇਹ ਸੁਧਾਰਾਂ ਨੂੰ ਬੰਦ ਕਰਨੇ ਚਾਹੁੰਦੇ ਹੋ?
+content-blocking-baseline-uncheck-warning-dialog-body = ਇਹ ਸੈਟਿੰਗ ਆਮ ਸਾਈਟ ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਠੀਕ ਕਰਨ ਲਈ ਮਦਦ ਕਰਦੀ ਹੈ। ਜੇ ਤੁਸੀਂ ਇਸ ਨੂੰ ਬੰਦ ਕੀਤਾ ਤਾਂ ਕੁਝ ਸਾਈਟਾਂ ਕੰਮ ਨਹੀਂ ਕਰਨਗੀਆਂ ਅਤੇ { -brand-short-name } ਉਹ ਮਸਲੇ ਹੱਲ ਕਰਨ ਲਈ ਮਦਦ ਨਹੀਂ ਕਰ ਸਕੇਗਾ।
 content-blocking-baseline-uncheck-warning-dialog-ok-button = ਸੁਧਾਰਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = ਸੁਧਾਰਾਂ ਨੂੰ ਜਾਰੀ ਰੱਖੋ
 content-blocking-reload-description = ਇਹ ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।
@@ -1606,6 +1620,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = ਪੌਪ-ਅੱਪ ਅਤੇ ਤੀਜੀ ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = ਪੌਪ-ਅੱਪ ਅਤੇ ਤੀਜੀ ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ।
+    .accesskey = E
+    .searchkeywords = ਪੌਪ-ਅੱਪ
 permissions-addon-install-warning2 =
     .label = ਜਦੋਂ ਵੈੱਬਸਾਈਟਾਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ਾਂ ਕਰਨ ਤਾਂ ਸਾਵਧਾਨ ਕਰੋ
     .accesskey = W
