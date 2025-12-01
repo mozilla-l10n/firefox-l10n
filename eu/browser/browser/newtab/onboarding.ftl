@@ -493,4 +493,5 @@ restored-from-backup-error-primary-button = Itxi
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Pertsonalizatu zure { -brand-short-name } esperientzia
 onboarding-personalization-motivation-other-option = Bestelakoa

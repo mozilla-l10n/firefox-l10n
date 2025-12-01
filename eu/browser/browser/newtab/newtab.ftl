@@ -386,6 +386,7 @@ newtab-wallpaper-abstract-purple = Forma moreak
 newtab-wallpaper-abstract-orange = Forma laranjak
 newtab-wallpaper-gradient-orange = Gradiente laranja eta arrosa
 newtab-wallpaper-abstract-blue-purple = Forma urdin eta moreak
+newtab-wallpaper-abstract-blue-purple-waves = Forma kizkur urdin eta moreak
 
 ## Firefox
 
@@ -593,6 +594,17 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Zerrenda berria
+newtab-widget-section-title = Widgetak
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = Ezkutatu widgetak
+    .aria-label = Ezkutatu widget guztiak
+newtab-widget-section-maximize =
+    .title = Zabaldu widgetak
+    .aria-label = Zabaldu widget guztiak tamaina osora
+newtab-widget-section-minimize =
+    .title = Minimizatu widgetak
+    .aria-label = Tolestu widget guztiak tamaina trinkora
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

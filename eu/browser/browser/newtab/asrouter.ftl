@@ -328,8 +328,11 @@ fxa-menu-message-close-button =
     .title = Itxi
     .aria-label = Itxi
 fxa-menu-message-sign-up-button = Eman izena
+fxa-menu-message-sign-in-button = Hasi saioa
+fxa-menu-message-sync-button = Hasi sinkronizatzen
 fxa-menu-message-sync-devices-primary-text = Sinkronizatu zure gailu guztiak
 fxa-menu-message-sync-devices-collapsed-text = Sinkronizatu zure gailu guztiak
+fxa-menu-message-backup-data-primary-text = Egin zure nabigatzaile-datuen babeskopia
 fxa-menu-message-backup-data-collapsed-text = Egin nabigatzaile-datuen babeskopia
 fxa-menu-message-backup-sync-primary-text = Mantendu zure datuak seguru eta sinkronizatuta
 fxa-menu-message-backup-sync-collapsed-text = Sinkronizatu eta gorde datuak
@@ -355,6 +358,11 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Mantendu pribatutasunari zuzendutako zure nabigatzaile gogokoena klik bakarrera. Egizu { -brand-short-name } loturak irekitzeko zure nabigatzaile lehenetsia eta manten ezazu ataza-barran.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantendu pribatutasunari zuzendutako zure nabigatzaile gogokoena klik bakarrera. Egizu { -brand-short-name } loturak irekitzeko zure nabigatzaile lehenetsia eta manten ezazu ataza-barran eta Hasi menuan.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Hasi erabiltzen
+windows-10-eos-sync-toast-secondary-label = Gogora iezadazu geroago
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 

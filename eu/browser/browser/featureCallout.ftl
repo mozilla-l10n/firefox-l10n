@@ -111,8 +111,14 @@ taskbar-tabs-value-prop-callout-title = Gehitu gune hau zure ataza-barran
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = Sinkronizatu orain
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Erakutsi gomendio gutxiago
 windows-10-eos-sync-dismiss-button-label = Baztertu
 windows-10-eos-sync-callout-primary-advance-button-label = Hurrengoa
+
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-description = Ikusi azalpen laburra, irakurketa denbora eta gehiago erabakitzeko lotura irekitzeak merezi duen. Eskuin-klikean ere erabilgarri dago.
 
 ## Sidebar Strings
 
@@ -137,9 +143,11 @@ sidebar-pins-callout-cta-button = Ainguratu fitxa
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Mantendu fitxa garrantzitsuak esku-eskura
 pin-tabs-callout-cta-1-button = Ainguratu fitxa hau
 pin-tabs-callout-2-title = Ainguratu gehien bisitatzen dituzun fitxak
 pin-tabs-callout-cta-2-button = Ainguratu fitxa hau
+pin-tabs-callout-3-title = Mantendu gune garrantzitsuak esku-eskura
 pin-tabs-callout-4-title = Ainguratu gehien bisitatzen dituzun guneak
 
 ## Sidebar Onboarding Strings

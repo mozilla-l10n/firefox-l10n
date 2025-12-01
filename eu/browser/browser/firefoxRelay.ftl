@@ -19,11 +19,19 @@ firefox-relay-get-unlimited-masks =
     .accesskey = m
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Babestu zure helbide elektronikoa:
+firefox-relay-opt-in-title-2 = Eskuratu doako posta-maskara
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Erabili { -relay-brand-name } posta-maskara
 firefox-relay-use-mask-title-1 = Erabili posta-maskara
+firefox-relay-opt-in-subtitle-2 = Babestu spametik zure sarrera-ontzia
 firefox-relay-use-mask-title = Erabili { -relay-brand-name } posta-maskara
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Ezkutatu zure benetako helbide elektronikoa
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Eskuratu doako posta-maskara
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Babestu spametik zure sarrera-ontzia
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Erabili posta-maskara
     .accesskey = E
@@ -33,6 +41,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Une honetan ez
     .accesskey = n
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Hasi saioa { -brand-product-name }(e)n eta erabili maskara
+    .accesskey = H
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = Eman izena
     .accesskey = z
