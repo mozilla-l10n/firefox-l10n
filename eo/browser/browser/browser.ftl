@@ -426,6 +426,9 @@ quickactions-cmd-restart = restartigi
 # Opens the screenshot tool
 quickactions-screenshot3 = Fari ekrankopion
 quickactions-cmd-screenshot2 = ekrankopio, fari ekrankopion
+# Opens about:translations
+quickactions-translate = Traduki
+quickactions-cmd-translate = traduki
 quickactions-cmd-screenshot = ekrankopio
 # Opens about:preferences
 quickactions-settings2 = Administri agordojn

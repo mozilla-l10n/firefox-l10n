@@ -265,3 +265,7 @@ link-preview-setup-faster-next-time = Venontfoje vi vidos ĉefajn punktojn pli r
 link-preview-onboarding-button = Montri antaŭvidon
 # Onboarding card Close button
 link-preview-onboarding-close = Fermi
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Komenca agordado
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Tio ĉi povus daŭri momenton. Venontfoje vi vidos la ĉefajn punktojn pli rapide.

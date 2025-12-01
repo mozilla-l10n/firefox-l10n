@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Antaŭagordo por senerarigo en { -brand-shorter-name }. Tio postulas multe pli da rimedoj, ne uzu por mezuri efikecon sed por pli koncentriĝe kompreni la konduton de la retumilo.
 profiler-popup-presets-debug-label =
     .label = Senerarigi
+profiler-popup-presets-web-compat-description = Rekomendita agordaro por senerarigo de problemoj pri kongrueco en retejoj, kaj ne por sekvi ilian efikecon.
+profiler-popup-presets-web-compat-label =
+    .label = Teksaĵa kongrueco
 profiler-popup-presets-custom-label =
     .label = Personecigita
 
