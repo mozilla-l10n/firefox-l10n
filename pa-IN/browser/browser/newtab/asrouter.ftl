@@ -417,6 +417,7 @@ windows-10-eos-feature-toast-dismiss-button = ਖਾਰਜ ਕਰੋ
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>ਸਖ਼ਤ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਸਾਈਟਾਂ ਦੇ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੀ ਹੈ।</strong> ਕੁਝ ਲਾਜ਼ਮੀ ਭਾਗਾਂ, ਜਿੰਨ੍ਹਾਂ ਵਿੱਚ ਟਰੈਕਰ ਹੋ ਸਕਦੇ ਹਨ, ਤੋਂ ਪਾਬੰਦੀ ਹਟਾ ਕੇ ਕੁਝ ਮਸਲੇ ਠੀਕ ਹੋ ਸਕਦੇ ਹਨ।
 etp-strict-exceptions-infobar-learn-more = ਹੋਰ ਜਾਣੋ
 etp-strict-exceptions-infobar-button = ਸੁਧਾਰ ਲਾਗੂ ਕਰੋ
     .accesskey = A

@@ -514,6 +514,7 @@ create-backup-screen-3-location = ਆਪਣੇ ਬੈਕਅੱਪ ਨੂੰ ਤ�
 create-backup-screen-3-title = ਕੋਈ ਬੈਕਅੱਪ ਫ਼ਾਇਲ ਪਾਸਵਰਡ ਬਣਾਓ
 create-backup-screen-3-subtitle = ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰਨ ਲਈ ਚਾਹੀਦਾ ਹੈ। ਇਸ ਨੂੰ ਅਜਿਹੀ ਥਾਂ ਉੱਤੇ ਰੱਖੋ, ਜੋ ਤੁਹਾਨੂੰ ਯਾਦ ਰਹੇ।
 fx-backup-opt-in-header = ਫ਼ਾਇਲ ਦਾ ਟਿਕਾਣਾ ਚੁਣੋ
+fx-backup-opt-in-filepath-label = ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਥਾਂ ਚੁਣੋ, ਜਿਵੇਂ ਕਿ OneDrive, ਜਿੱਥੇ ਤੁਸੀਂ ਟਰਾਂਸਫਰ ਕਰਨ ਲਈ ਸਕੀਮ ਬਣਾਈ ਹੈ।
 fx-backup-opt-in-create-password-label = ਪਾਸਵਰਡ ਦਿਓ
 fx-backup-opt-in-confirm-btn-label = ਜਾਰੀ ਰੱਖੋ
 fx-backup-opt-in-cancel-btn-label = ਪਿੱਛੇ
@@ -550,6 +551,7 @@ restored-from-backup-success-with-checklist-primary-button = ਸੰਭਾਲੋ 
 restored-from-backup-success-with-checklist-secondary-button = ਇਹ ਪੜਾਅ ਛੱਡੋ
 restored-from-backup-success-no-checklist-primary-button = ਜਾਰੀ ਰੱਖੋ
 restored-from-backup-error-title = ਓਹ ਹੋ, ਤੁਹਾਡੀ ਬੈਕਅੱਪ ਫ਼ਾਇਲ ਨਾਲ ਸਮੱਸਿਆ ਆਈ ਸੀ।
+restored-from-backup-error-subtitle = ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਹੋਰ { -brand-short-name } ਬੈਕਅੱਪ ਫ਼ਾਈਲ ਹੈ ਤਾਂ ਉਸ ਤੋਂ ਬਹਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ। <a data-l10n-name="restore-problems">ਹਾਲੇ ਵੀ ਸਮੱਸਿਆਵਾਂ ਹਨ?</a>
 restored-from-backup-error-primary-button = ਬੰਦ ਕਰੋ
 
 ## Onboarding Personalization Screen
