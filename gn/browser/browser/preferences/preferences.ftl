@@ -173,6 +173,10 @@ preferences-manage-profiles-button =
     .label = Eñangareko Mba’etekuérare
 preferences-profiles-settings-button =
     .label = Ñemboheko
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Emonguatia mba’ete oĩva
+    .description = Mba’ete pyahu omonguatia ñemboheko, moĩmbaha, tembiasakue ha mba’ekuaarã ñongatupyre, ha’éva techaukaha ha ñe’ẽñemi, ha’eỹva ne mba’ete, marandu ñembojuehegua.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.

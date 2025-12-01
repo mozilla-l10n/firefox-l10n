@@ -5,6 +5,8 @@
 
 ## Existing User Terms of Use InfoBar
 
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = Rombohekopyahu ore <a data-l10n-name="privacy-notice-link">Tekoñemi marandu’i</a> ohechauka hag̃ua mba’e pyahuve { -brand-short-name } rehegua.
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = Kuaave
 # Text for primary button

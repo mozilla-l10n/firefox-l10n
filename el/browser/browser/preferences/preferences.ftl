@@ -179,6 +179,10 @@ preferences-profiles-settings-button =
 # need to first pick a profile to copy, and then click the copy button.
 preferences-profile-to-copy =
     .label = Προφίλ προς αντιγραφή
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Επιλογή προφίλ
 preferences-copy-profile-button = Αντιγραφή
 tabs-group-header2 =
     .label = Καρτέλες
@@ -186,6 +190,8 @@ tabs-opening-heading =
     .label = Άνοιγμα
 tabs-interaction-heading =
     .label = Αλληλεπίδραση
+tabs-containers-heading =
+    .label = Θεματικές ενότητες
 tabs-closing-heading =
     .label = Κλείσιμο
 tabs-group-header = Καρτέλες
