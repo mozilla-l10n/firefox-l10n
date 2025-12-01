@@ -1356,6 +1356,11 @@ popup-notification-xpinstall-prompt-block-url = Ikusi xehetasunak
 popup-notification-addon-privatebrowsing-checkbox2 =
     .label = Baimendu hedapen honi leiho pribatuetan exekutatzea
     .accesskey = d
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Partekatu informazioa tekniko eta interakziozkoa hedapenaren garatzailearekin
+    .accesskey = a
 
 ## Pop-up warning
 
