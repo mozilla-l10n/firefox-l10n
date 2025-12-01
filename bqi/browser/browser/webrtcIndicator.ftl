@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Used as list items in sharing menu
+
+webrtc-item-window = نیمدری
+
+##
+
 webrtc-share-screen-learn-more = قلوه دووسته بۊین
 
 ##
