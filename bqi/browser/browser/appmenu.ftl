@@ -125,7 +125,11 @@ appmenu-developer-tools-extensions =
 
 ## Profiles panel
 
+appmenu-manage-profiles =
+    .label = دؽوۉداری پوروفایلا
 appmenu-create-profile =
     .label = پوروفایل نۊ
 appmenu-edit-profile =
     .aria-label = آلشت پوروفایل
+appmenu-profiles-2 =
+    .label = پوروفایلا

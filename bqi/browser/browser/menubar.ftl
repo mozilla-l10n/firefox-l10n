@@ -68,8 +68,15 @@ menu-bookmarks-other =
 
 ## Profiles Menu
 
+menu-profiles =
+    .label = پوروفایلا
+menu-profiles-manage-profiles =
+    .label = دؽوۉداری پوروفایلا
 menu-profiles-new-profile =
     .label = پوروفایل نۊ
+menu-profiles-menu =
+    .label = پوروفایلا
+    .accesskey = P
 
 ## Tools Menu
 
