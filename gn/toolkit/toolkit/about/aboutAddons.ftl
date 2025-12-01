@@ -282,6 +282,10 @@ colorway-removal-notice-message =
         tembiporu’i tembiporu’i ñanduti roguépe.
 colorway-removal-notice-learn-more = Eikuaave
 colorway-removal-notice-button = Ereko téma sa’y ojuehegua ag̃agua rehegua
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Windows jehecha ñemboheko ombogue temaita { -brand-short-name } rehegua. Eipe’a ko ñemboheko eiporu hag̃ua temaita { -brand-short-name }-pe.
 privacy-policy = Temiñemi porureko
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
