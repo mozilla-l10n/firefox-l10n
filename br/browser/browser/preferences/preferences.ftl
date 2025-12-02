@@ -547,6 +547,9 @@ choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -965,6 +968,16 @@ history-header = Roll istor
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label2 = Gant { -brand-short-name } e vo:
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = Gant { -brand-short-name } e vo:
     .accesskey = G
 history-remember-option-all =
@@ -973,10 +986,6 @@ history-remember-option-never =
     .label = Ne zerc'hel ket soñj ar roll istor
 history-remember-option-custom =
     .label = Implijout arventennoù personelaet evit ar roll istor
-history-remember-description2 =
-    .description = { -brand-short-name } a zalc'ho soñj eus ho roll istor, ho pellgargadennoù, ho furmskridoù hag ho klaskoù.
-history-dontremember-description2 =
-    .description = { -brand-short-name } a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.
 history-remember-description = { -brand-short-name } a zalc'ho soñj eus ho roll istor, ho pellgargadennoù, ho furmskridoù hag ho klaskoù.
 history-dontremember-description = { -brand-short-name } a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.
 history-private-browsing-permanent =
@@ -1040,6 +1049,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1258,6 +1270,9 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
