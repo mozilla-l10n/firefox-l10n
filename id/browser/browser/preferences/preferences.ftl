@@ -620,6 +620,9 @@ choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Konten { -firefox-home-brand-name }
@@ -1115,10 +1118,6 @@ history-remember-option-never =
     .label = tidak akan mengingat data riwayat
 history-remember-option-custom =
     .label = akan menggunakan pengaturan khusus untuk data riwayat
-history-remember-description2 =
-    .description = { -brand-short-name } akan mengingat penjelajahan, unduhan, formulir, dan riwayat pencarian Anda.
-history-dontremember-description2 =
-    .description = { -brand-short-name } akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.
 history-remember-description = { -brand-short-name } akan mengingat penjelajahan, unduhan, formulir, dan riwayat pencarian Anda.
 history-dontremember-description = { -brand-short-name } akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.
 history-private-browsing-permanent =
