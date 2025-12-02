@@ -1241,6 +1241,16 @@ history-header = ประวัติ
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label2 = { -brand-short-name } จะ
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } จะ
     .accesskey = จ
 history-remember-option-all =
@@ -1249,12 +1259,6 @@ history-remember-option-never =
     .label = ไม่จดจำประวัติเสมอ
 history-remember-option-custom =
     .label = ใช้การตั้งค่ากำหนดเองสำหรับประวัติ
-history-remember-description2 =
-    .description = { -brand-short-name } จะจดจำประวัติการเรียกดู, การดาวน์โหลด, แบบฟอร์ม และการค้นหาของคุณ
-history-dontremember-description2 =
-    .description = { -brand-short-name } จะใช้การตั้งค่าเดียวกับการเรียกดูแบบส่วนตัวและจะไม่จดจำประวัติใด ๆ ขณะที่คุณเรียกดู
-history-custom-description =
-    .description = { -brand-short-name } จะใช้การตั้งค่าที่กำหนดเองสำหรับการเรียกดู การดาวน์โหลด แบบฟอร์ม และประวัติการค้นหาของคุณ
 history-remember-description = { -brand-short-name } จะจดจำประวัติการเรียกดู, การดาวน์โหลด, แบบฟอร์ม และการค้นหาของคุณ
 history-dontremember-description = { -brand-short-name } จะใช้การตั้งค่าเดียวกับการเรียกดูแบบส่วนตัวและจะไม่จดจำประวัติใด ๆ ขณะที่คุณเรียกดู
 history-private-browsing-permanent =
