@@ -1249,6 +1249,16 @@ history-header = 历史记录
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label2 = { -brand-short-name } 将
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } 将
     .accesskey = w
 history-remember-option-all =
@@ -1257,12 +1267,6 @@ history-remember-option-never =
     .label = 不记录历史
 history-remember-option-custom =
     .label = 使用自定义设置
-history-remember-description2 =
-    .description = { -brand-short-name } 将记住您的浏览、下载、表单和搜索记录。
-history-dontremember-description2 =
-    .description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
-history-custom-description =
-    .description = { -brand-short-name } 将使用自定义设置处理您的浏览、下载、表单和搜索记录。
 history-remember-description = { -brand-short-name } 将记住您的浏览、下载、表单和搜索记录。
 history-dontremember-description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
 history-private-browsing-permanent =
