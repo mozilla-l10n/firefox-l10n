@@ -634,6 +634,9 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }
@@ -1141,10 +1144,6 @@ history-remember-option-never =
     .label = Mai memorisar la cronologia
 history-remember-option-custom =
     .label = Utilisar per la cronologia ils parameters definids da l'utilisader
-history-remember-description2 =
-    .description = { -brand-short-name } memorisescha las adressas da las paginas d'internet visitadas, da las telechargiadas sco era infurmaziuns endatadas en formulars e maschinas da tschertgar.
-history-dontremember-description2 =
-    .description = { -brand-short-name } vegn ad utilisar las medemas preferenzas sco en il modus privat e na vegn betg a far ina cronologia da tia navigaziun en l'internet.
 history-remember-description = { -brand-short-name } memorisescha las adressas da las paginas d'internet visitadas, da las telechargiadas sco era infurmaziuns endatadas en formulars e maschinas da tschertgar.
 history-dontremember-description = { -brand-short-name } vegn ad utilisar las medemas preferenzas sco en il modus privat e na vegn betg a far ina cronologia da tia navigaziun en l'internet.
 history-private-browsing-permanent =
