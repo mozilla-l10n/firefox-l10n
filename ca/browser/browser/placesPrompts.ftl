@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = No es pot interpretar el tipus de fitxer
 places-bookmarks-restore-parse-error = No s'ha pogut processar el fitxer de còpia de seguretat.
 places-bookmarks-import = Importa el fitxer de les adreces d'interès
 places-bookmarks-export = Exporta el fitxer de les adreces d'interès
+places-bookmarks-paste-error-title = S'han trobat URL no vàlides
+places-bookmarks-paste-error-message-header = No s'han pogut afegir les URL següents a les adreces d'interès. Proveu de comprovar-ne el format i de tornar-les a afegir.

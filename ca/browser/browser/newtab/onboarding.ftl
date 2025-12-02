@@ -490,3 +490,35 @@ create-backup-screen-3-location = On voleu que es desi la còpia de seguretat?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Creeu una contrasenya per al fitxer de còpia de seguretat
 create-backup-screen-3-subtitle = Necessària per xifrar les dades. Guardeu-la en un lloc que recordeu.
+fx-backup-opt-in-header = Trieu la ubicació del fitxer
+fx-backup-opt-in-filepath-label = Trieu un lloc on vulgueu fer la transferència a un dispositiu nou, com ara el OneDrive.
+fx-backup-opt-in-create-password-label = Introduïu la contrasenya
+fx-backup-opt-in-confirm-btn-label = Continua
+fx-backup-opt-in-cancel-btn-label = Enrere
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = S'ha programat la còpia de seguretat
+fx-backup-confirmation-screen-close-button = Tanca
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Totes les dades de navegació incloses
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Adreces d'interès, historial, configuració i altres dades incloses
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Aneu a <a data-l10n-name="settings">Configuració</a> per a incloure dades sensibles.
+fx-backup-confirmation-screen-item-subtext-1 = La còpia de seguretat començarà d'aquí a uns minuts i s'executarà un cop al dia. Podeu comprovar-ne l'estat a <a data-l10n-name="settings">Configuració</a>.
+fx-backup-confirmation-screen-item-subtext-2 = El { -brand-short-name } buscarà la vostra còpia de seguretat si cal que la torneu a instal·lar.
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Personalitzeu la vostra experiència amb el { -brand-short-name }
+onboarding-personalization-subtitle = Responeu unes quantes preguntes i us recomanarem funcions i extensions per millorar l'ús del { -brand-short-name }.
+onboarding-personalization-use-case-title = Per a què utilitzareu el { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Personal
+onboarding-personalization-use-case-school-option = Escola
+onboarding-personalization-use-case-work-option = Feina
+onboarding-personalization-motivation-title = Quines funcions del { -brand-short-name } us importen més?
+onboarding-personalization-motivation-privacy-option = Privadesa i seguretat
+onboarding-personalization-motivation-productivity-option = Productivitat
+onboarding-personalization-motivation-other-option = Altres
