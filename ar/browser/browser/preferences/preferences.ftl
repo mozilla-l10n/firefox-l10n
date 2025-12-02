@@ -625,6 +625,9 @@ choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = محتوى { -firefox-home-brand-name }
@@ -1076,10 +1079,6 @@ history-remember-option-never =
     .label = لا يتذكر التأريخ أبدًا
 history-remember-option-custom =
     .label = يستخدم إعدادات مخصصة للتأريخ
-history-remember-description2 =
-    .description = سيتذكر { -brand-short-name } تأريخ التصفح، و التنزيلات، و الاستمارات، و البحث.
-history-dontremember-description2 =
-    .description = سيستخدم { -brand-short-name } نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تأريخ لتصفحك للوب.
 history-remember-description = سيتذكر { -brand-short-name } تأريخ التصفح، و التنزيلات، و الاستمارات، و البحث.
 history-dontremember-description = سيستخدم { -brand-short-name } نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تأريخ لتصفحك للوب.
 history-private-browsing-permanent =
