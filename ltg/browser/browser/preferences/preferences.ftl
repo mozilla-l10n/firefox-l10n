@@ -351,6 +351,9 @@ choose-bookmark =
     .label = Lītuot gruomotzeimi…
     .accesskey = g
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -484,6 +487,12 @@ sync-sign-in =
     .label = Pīsasliegt
     .accesskey = P
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -567,9 +576,25 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = Paroles maiņa naizadeve
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Viesture
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label2 = { -brand-short-name }
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -587,10 +612,6 @@ history-remember-option-never =
     .label = Nikod naatguoduos viesturi
 history-remember-option-custom =
     .label = Izmantuots pīlāguotus viestures īstatiejumus
-history-remember-description2 =
-    .description = { -brand-short-name } pīminēs tuvu porlyukōšonys, lejupīlōžu, formu un mekliešonys viesturi.
-history-dontremember-description2 =
-    .description = { -brand-short-name } izmantuots taidus pat īstatiejumus kai privatuos puorlūkuošonys režymā i puorlūkojūt šķārsteiklu nasaglobuos viesturi.
 history-remember-description = { -brand-short-name } pīminēs tuvu porlyukōšonys, lejupīlōžu, formu un mekliešonys viesturi.
 history-dontremember-description = { -brand-short-name } izmantuots taidus pat īstatiejumus kai privatuos puorlūkuošonys režymā i puorlūkojūt šķārsteiklu nasaglobuos viesturi.
 history-private-browsing-permanent =
@@ -638,6 +659,12 @@ sitedata-settings =
     .label = Porvaļdēt datus…
     .accesskey = P
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresu jūsla
@@ -656,6 +683,19 @@ addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Vaira
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -714,6 +754,9 @@ collection-studies-link = Apsavērt { -brand-short-name } pietejumus
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -745,6 +788,12 @@ certs-devices =
     .label = Drūseibys īrīces…
     .accesskey = D
 certs-devices-enable-fips = Īslēgt FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
