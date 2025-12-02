@@ -35,6 +35,17 @@ should-restart-ok = { -brand-short-name } खौ दानो फिनजाग
 cancel-no-restart-button = नेवसि
 restart-later = उनाव फिन जागाय
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = नागिरनायनि फिन
@@ -255,6 +266,9 @@ choose-bookmark =
     .label = बुकमाकॅखौ बाहाय...
     .accesskey = ब
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -327,6 +341,10 @@ containers-add-button =
 containers-remove-button =
     .label = बोखार
 
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Firefox account - Signed in
 
 sync-manage-account = एकाउन्ट सामलाय
@@ -347,6 +365,12 @@ sync-sign-in =
     .label = साइन-इन
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -364,6 +388,13 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = थिना दोन
     .accesskey = v
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
 
 ## Privacy Section - Logins and Passwords
 
@@ -388,9 +419,25 @@ forms-master-pw-change =
     .accesskey = म
 forms-master-pw-fips-desc = पासवर्ड सोलायनाया फेलें जाबाय
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = जारिमिन
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label2 = { -brand-short-name } आ
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -408,7 +455,8 @@ history-remember-option-never =
     .label = माब्लाबाबो जारिमनखौ गोसोयाव दालाखि
 history-remember-option-custom =
     .label = जारिमिननि थाखाय कास्टम सेटिंखौ बाहाय
-history-dontremember-description2 =
+history-dontremember-description3 =
+    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } आ एखे सेटिंखौ प्राइभेट ब्राउजिं महरै बाहायगोन आरो नोंथाङा वेबखौ ब्राउज खालामनाय बादि जायखि जाया जारिमिनखौ गोसोखांनाय नङा।
 history-dontremember-description = { -brand-short-name } आ एखे सेटिंखौ प्राइभेट ब्राउजिं महरै बाहायगोन आरो नोंथाङा वेबखौ ब्राउज खालामनाय बादि जायखि जाया जारिमिनखौ गोसोखांनाय नङा।
 history-private-browsing-permanent =
@@ -434,6 +482,12 @@ sitedata-learn-more = गोबां सोलों
 sitedata-clear =
     .label = दाटाफोरखौ खोमोर...
     .accesskey = I
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -479,6 +533,9 @@ content-blocking-cookies-label =
 content-blocking-expand-section =
     .tooltiptext = गोबां फोरमायथिहोग्रा
 
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-header = गनायथि
@@ -523,6 +580,9 @@ collection-privacy-notice = गुमुरथि मिथिसारहोन
 collection-health-report-link = गोबां सोलों
 addon-recommendations-link = गोबां सोलों
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -540,6 +600,12 @@ certs-enable-ocsp =
 certs-view =
     .label = चार्टिफिकेटखौ नाय...
     .accesskey = C
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

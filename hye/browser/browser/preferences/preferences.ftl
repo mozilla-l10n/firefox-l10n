@@ -531,6 +531,9 @@ choose-bookmark =
     .label = Աւգտագործել էջանիշ...
     .accesskey = է
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -874,9 +877,22 @@ primary-password-os-auth-dialog-message-win = Գլխաւոր գաղտնաբառ 
 primary-password-os-auth-dialog-message-macosx = Ստեղծել Հիմնական Բագղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Պատմութիւն
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label2 = { -brand-short-name }-ը կը սկսի
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -894,9 +910,11 @@ history-remember-option-never =
     .label = Երբեք չյիշել այցելութիւնները
 history-remember-option-custom =
     .label = Պատմութեան համար աւգտագործել յարմարեցուած կարգաւորումները
-history-remember-description2 =
+history-remember-description3 =
+    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }-ը կը յիշի դիտարկումների, ներբեռնումների, ձեւերի եւ որոնումների պատմութիւնը:
-history-dontremember-description2 =
+history-dontremember-description3 =
+    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }֊ը կաւգտագործի գաղտնի դիտարկման կարգաւորումները եւ չի յիշի համացանցում Ձեր դիտարկումների պատմութիւնը:
 history-remember-description = { -brand-short-name }-ը կը յիշի դիտարկումների, ներբեռնումների, ձեւերի եւ որոնումների պատմութիւնը:
 history-dontremember-description = { -brand-short-name }֊ը կաւգտագործի գաղտնի դիտարկման կարգաւորումները եւ չի յիշի համացանցում Ձեր դիտարկումների պատմութիւնը:
@@ -961,6 +979,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
     .accesskey = ց
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1150,6 +1174,9 @@ collection-health-report-disabled = Տուեալների զեկուցումը ա
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
     .accesskey = թ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1198,6 +1225,9 @@ httpsonly-radio-enabled-pbm =
     .label = Միացնել «Միայն HTTPS» աշխատակերպը գաղտնի դիտարկման ժամանակ
 httpsonly-radio-disabled =
     .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
