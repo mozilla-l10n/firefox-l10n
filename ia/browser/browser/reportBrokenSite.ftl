@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Elige un ration
 report-broken-site-panel-blocked-trackers-label =
     .label = Inviar URLs blocate per protection antitraciamento
 report-broken-site-panel-blocked-trackers-description = Le protection antitraciamento reinfortiate pote blocar traciatores e scripts que alcun sitos web require pro functionar correctemente.
+report-broken-site-panel-preview-button =
+    .label = Reporto preliminar
+report-broken-site-panel-preview-header =
+    .label = Reporto preliminar

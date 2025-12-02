@@ -926,6 +926,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nulle via breve seligite, selige un via breve
     .tooltiptext = Nulle via breve seligite, selige un via breve
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Le recerca per parolas clave es disactivate
+    .tooltiptext = Le recerca per parolas clave es disactivate
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
