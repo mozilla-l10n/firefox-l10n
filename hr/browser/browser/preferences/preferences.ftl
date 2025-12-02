@@ -634,6 +634,9 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } – sadržaj
@@ -1148,10 +1151,6 @@ history-remember-option-never =
     .label = zaboraviti povijest
 history-remember-option-custom =
     .label = koristiti prilagođene postavke za povijest
-history-remember-description2 =
-    .description = { -brand-short-name } će zapamtiti tvoju povijest pregledavanja, preuzimanja, obrazaca i pretraživanja.
-history-dontremember-description2 =
-    .description = { -brand-short-name } će koristiti iste postavke kao i za privatno pregledavanje, te neće pamtiti povijest pregledavanja.
 history-remember-description = { -brand-short-name } će zapamtiti tvoju povijest pregledavanja, preuzimanja, obrazaca i pretraživanja.
 history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao i za privatno pregledavanje, te neće pamtiti povijest pregledavanja.
 history-private-browsing-permanent =
