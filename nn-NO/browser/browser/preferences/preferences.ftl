@@ -663,15 +663,21 @@ home-homepage-header = Startside
 
 ## Custom Homepage subpage
 
+home-custom-homepage-header = Tilpassa startside
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Nettadresse(r)
 home-custom-homepage-address =
     .placeholder = Skriv inn adresse
 home-custom-homepage-address-button =
     .label = Legg til adresse
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Ingen nettstadar lagt til enno.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Erstatt med:
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Gjeldande opna sider
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Bokmerke…
@@ -690,6 +696,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Nettstadar du lagrar eller besøkjer
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsa snarvegar
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -751,6 +759,8 @@ home-prefs-support-firefox-header =
     .label = Støtt { -brand-product-name }
 home-prefs-mission-message = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett
 home-prefs-mission-message-learn-more-link = Finn ut korleis
+home-prefs-mission-message2 =
+    .message = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett.
 home-prefs-manage-topics-link = Handsam emne
 home-prefs-choose-wallpaper-link = Vel eit bakgrunnsbilde
 # Variables:
@@ -1067,6 +1077,9 @@ forms-passwords-header =
 forms-ask-to-save-passwords =
     .label = Spør om å lagre passord
     .accesskey = S
+forms-manage-password-exceptions =
+    .label = Handsam passordunntak
+    .accesskey = H
 forms-exceptions =
     .label = Unntak…
     .accesskey = n
@@ -1097,9 +1110,19 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Fyll ut brukarnamn og passord automatisk
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = Lagre og fyll ut brukarnamn og passord automatisk
+    .accesskey = f
 forms-saved-passwords =
     .label = Lagra passord
     .accesskey = L
+forms-saved-passwords-2 =
+    .label = Handsam lagra passord
+    .accesskey = H
+forms-saved-passwords-searchkeywords = Innloggingar for følgjande nettstadar er lagra på datamaskina di
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Ytterlegare vern
 forms-primary-pw-use =
     .label = Bruk eit hovudpassord
     .accesskey = B
@@ -1186,6 +1209,9 @@ autofill-addresses-header =
 autofill-addresses-checkbox-message =
     .label = Lagre og autoutfyll adresser
     .accesskey = L
+autofill-addresses-manage-addresses-button =
+    .label = Handsam adresser, og meir
+    .accesskey = H
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
