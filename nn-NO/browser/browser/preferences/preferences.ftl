@@ -187,6 +187,8 @@ tabs-interaction-heading =
     .label = Samhandling
 tabs-containers-heading =
     .label = Behaldarar
+tabs-closing-heading =
+    .label = Attlating
 tabs-group-header = Faner
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab vekslar mellom faner i nyleg brukt-rekkjefølgje
@@ -641,6 +643,8 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Handsam utviding
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Vel ein bestemt nettstad
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
