@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = 이유를 선택하세요
 report-broken-site-panel-blocked-trackers-label =
     .label = 추적 방지 기능에 의해 차단된 URL 보내기
 report-broken-site-panel-blocked-trackers-description = 향상된 추적 방지 기능은 일부 웹 사이트가 제대로 작동하는 데 필요한 추적기와 스크립트를 차단할 수 있습니다.
+report-broken-site-panel-preview-button =
+    .label = 보고서 미리보기
+report-broken-site-panel-preview-header =
+    .label = 보고서 미리보기

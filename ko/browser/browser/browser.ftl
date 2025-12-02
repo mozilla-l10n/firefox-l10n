@@ -910,6 +910,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = 선택된 바로 가기 없음, 바로 가기를 선택하세요
     .tooltiptext = 선택된 바로 가기 없음, 바로 가기를 선택하세요
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = 키워드 검색이 비활성화됨
+    .tooltiptext = 키워드 검색이 비활성화됨
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
