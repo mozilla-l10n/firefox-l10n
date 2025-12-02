@@ -624,6 +624,9 @@ choose-bookmark =
     .label = Отметка…
     .accesskey = О
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Съдържание на { -firefox-home-brand-name }
@@ -1094,10 +1097,6 @@ history-remember-option-never =
     .label = не помни история
 history-remember-option-custom =
     .label = ползва потребителски настройки за историята
-history-remember-description2 =
-    .description = { -brand-short-name } ще пази историята на разглеждане, изтегляния и търсене.
-history-dontremember-description2 =
-    .description = { -brand-short-name } ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.
 history-remember-description = { -brand-short-name } ще пази историята на разглеждане, изтегляния и търсене.
 history-dontremember-description = { -brand-short-name } ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.
 history-private-browsing-permanent =
