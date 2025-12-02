@@ -148,12 +148,48 @@ enable-backup-encryption-create-password-label = Contrasenya
 enable-backup-encryption-repeat-password-label = Repetiu la contrasenya
 enable-backup-encryption-cancel-button = Cancel·la
 enable-backup-encryption-confirm-button = Desa
+change-backup-encryption-header = Canvieu la contrasenya de la còpia de seguretat
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Requisits de la contrasenya
+password-rules-length-description = 8 caràcters com a mínim
+password-rules-email-description = No pot ser la vostra adreça electrònica
+password-rules-disclaimer = Protegiu-vos: no reutilitzeu les contrasenyes. Vegeu més consells per a la <linkExternal<a data-l10n-name="password-support-link">creació de contrasenyes segures</a>.
+password-validity-has-email = No pot ser una adreça electrònica
+password-validity-do-not-match = Les contrasenyes no coincideixen
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Correcte
+password-rules-a11y-warning =
+    .alt = Avís
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-description2 = Tampoc es faran còpies de seguretat de les contrasenyes i els mètodes de pagament desats.
+disable-backup-encryption-support-link = De què es farà una còpia de seguretat?
+disable-backup-encryption-cancel-button = Cancel·la
+disable-backup-encryption-confirm-button = Elimina la contrasenya
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = La contrasenya no compleix els requisits. Proveu-ne una altra.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Hi ha hagut un error. Torneu-ho a provar.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = Ja es pot restaurar el { -brand-short-name }
+backup-file-title = Restaura el { -brand-short-name }
 backup-file-moz-browser-restore-step-3 = Reinicieu el { -brand-short-name } quan se us demani
 backup-file-other-browser-restore-step-1 = Baixeu i instal·leu el { -brand-short-name }
 backup-file-download-moz-browser-button = Baixa
