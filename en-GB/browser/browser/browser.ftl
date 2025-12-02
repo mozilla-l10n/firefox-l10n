@@ -926,6 +926,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = No shortcut selected, pick a shortcut
     .tooltiptext = No shortcut selected, pick a shortcut
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Keyword search is disabled
+    .tooltiptext = Keyword search is disabled
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
