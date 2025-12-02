@@ -630,6 +630,9 @@ choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contido de { -firefox-home-brand-name }
@@ -1115,10 +1118,6 @@ history-remember-option-never =
     .label = Nunca gardará o historial
 history-remember-option-custom =
     .label = Usará unha configuración personalizada para o historial
-history-remember-description2 =
-    .description = { -brand-short-name } lembrará o seu historial de navegación, descargas, formularios e buscas.
-history-dontremember-description2 =
-    .description = { -brand-short-name } usará a mesma configuración que na navegación privada, e non gardará ningún historial mentres navega pola Internet.
 history-remember-description = { -brand-short-name } lembrará o seu historial de navegación, descargas, formularios e buscas.
 history-dontremember-description = { -brand-short-name } usará a mesma configuración que na navegación privada, e non gardará ningún historial mentres navega pola Internet.
 history-private-browsing-permanent =
