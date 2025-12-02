@@ -476,3 +476,17 @@ dismiss-button-label = Descarta
 sync-to-mobile-button-label = Sincronitza amb el mòbil
 desktop-to-mobile-qr-code-alt =
     .aria-label = Codi QR per baixar el { -brand-product-name } per al mòbil
+
+## Fx Backup onboarding: Create Backup spotlight
+
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Totes les dades
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Inclou contrasenyes i pagaments
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Xifrat amb una contrasenya
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = On voleu que es desi la còpia de seguretat?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Creeu una contrasenya per al fitxer de còpia de seguretat
+create-backup-screen-3-subtitle = Necessària per xifrar les dades. Guardeu-la en un lloc que recordeu.

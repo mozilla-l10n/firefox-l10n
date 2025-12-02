@@ -658,6 +658,9 @@ newtab-widget-lists-input-menu-move-up = Mou cap amunt
 newtab-widget-lists-input-menu-move-down = Mou cap avall
 newtab-widget-lists-input-menu-delete = Suprimeix
 newtab-widget-lists-input-menu-edit = Edita
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Crea una llista nova
 newtab-widget-lists-name-label-default =
     .label = Llista de tasques
 newtab-widget-lists-name-placeholder-default =
@@ -670,3 +673,10 @@ newtab-widget-lists-name-placeholder-new =
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = Temporitzador
+newtab-widget-timer-notification-focus = S'ha acabat el temps de concentració. Et felicito. Vols fer una pausa?
+newtab-widget-timer-notification-break = S'ha acabat la pausa. Estàs a punt per concentrar-te?
+newtab-widget-timer-notification-warning = Les notificacions estan desactivades
+newtab-widget-timer-mode-focus =
+    .label = Concentració
+newtab-widget-timer-mode-break =
+    .label = Pausa
