@@ -174,6 +174,10 @@ preferences-manage-profiles-button =
     .label = Administrar perfiles
 preferences-profiles-settings-button =
     .label = Configuración
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Copiar un perfil existente
+    .description = El nuevo perfil copiará la configuración, complementos, historial y datos guardados como marcadores y contraseñas — pero no la cuenta o información de sincronización.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -186,10 +190,14 @@ preferences-copy-profile-select = Seleccionar perfil
 preferences-copy-profile-button = Copiar
 tabs-group-header2 =
     .label = Pestañas
+tabs-opening-heading =
+    .label = Abriendo
 tabs-interaction-heading =
     .label = Interacción
 tabs-containers-heading =
     .label = Contenedores
+tabs-closing-heading =
+    .label = Cerrando
 tabs-group-header = Pestañas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab rota las pestañas según su uso reciente
