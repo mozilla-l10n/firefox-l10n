@@ -1126,6 +1126,12 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Bruk eit hovudpassord
     .accesskey = B
+forms-primary-pw-set =
+    .label = Angje hovudpassord
+forms-primary-pw-on =
+    .label = Hovudpassord er PÅ
+forms-primary-pw-change-2 =
+    .label = Endre hovudpassord
 # Label for button to disable primary password.
 forms-primary-pw-turn-off =
     .label = Slå det av
@@ -1201,6 +1207,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Krev einingspålogging for å automatisk fylle ut og handsame betalingsmåter
     .accesskey = K
+payments-list-header =
+    .label = Betalingsmåtar
+payments-list-item-label = <strong>Betalingsmåtar</strong>
+payments-remove-payment-prompt-title = Fjerne denne betalingsmåten?
 payments-remove-payment-prompt-confirm-button = Fjern
 payments-remove-payment-prompt-cancel-button = Avbryt
 autofill-addresses-title = Adresser og meir
@@ -1343,6 +1353,9 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresselinje
+addressbar-suggest-1 = Vel kva forslag som skal visast i adresselinja
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Når du brukar adresselinja, føreslå
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresselinje — { -firefox-suggest-brand-name }
