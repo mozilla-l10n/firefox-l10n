@@ -6,15 +6,15 @@
 ## App Menu
 
 appmenuitem-banner-update-downloading =
-    .label = Ներբեռնվում է { -brand-shorter-name }-ի արդիացումը
+    .label = Ներբեռնվում է { -brand-shorter-name }-ի թարմացումը
 appmenuitem-banner-update-available =
-    .label = Արդիացում է մատչելի՝ ներբեռնեք հիմա
+    .label = Հասանելի է թարմացում․ ներբեռնել հիմա
 appmenuitem-banner-update-manual =
-    .label = Արդիացում է մատչելի՝ ներբեռնեք հիմա
+    .label = Հասանելի է թարմացում․ ներբեռնել հիմա
 appmenuitem-banner-update-unsupported =
-    .label = Անհնար է արդիացնել՝ համակարգը անհամատեղելի է
+    .label = Չստացվեց թարմացնել․ անհամատեղելի համակարգ
 appmenuitem-banner-update-restart =
-    .label = Մատչելի է արդիացում՝ վերագործարկեք
+    .label = Հասանելի է թարմացում․ վերամեկնարկել հիմա
 appmenuitem-new-tab =
     .label = Նոր ներդիր
 appmenuitem-new-window =
@@ -74,7 +74,7 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenu-remote-tabs-sign-into-sync =
-    .label = Մուտք գործեք՝ համաժամեցնելու համար…
+    .label = Մուտք գործել համաժամեցնելու համար…
 appmenu-remote-tabs-turn-on-sync =
     .label = Միացնել համաժամեցումը…
 # This is shown after the tabs list if we can display more tabs by clicking on the button
@@ -210,7 +210,7 @@ appmenu-manage-history =
 appmenu-restore-session =
     .label = Վերականգնել նախորդ աշխատաշրջանը
 appmenu-clear-history =
-    .label = Մաքրել Վերջին Պատմությունը...
+    .label = Մաքրել վերջին պատմությունը...
 appmenu-recent-history-subheader = Վերջին պատմությունը
 appmenu-recently-closed-tabs =
     .label = Վերջին փակված ներդիրները
@@ -223,13 +223,13 @@ appmenu-search-history =
 ## Help panel
 
 appmenu-help-header =
-    .title = { -brand-shorter-name }-ի օգնությունը
+    .title = { -brand-shorter-name } օգնություն
 appmenu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = մ
 appmenu-get-help =
     .label = Ստանալ օգնություն
-    .accesskey = H
+    .accesskey = օ
 appmenu-help-more-troubleshooting-info =
     .label = Անսարքության տեղեկատվություն
     .accesskey = t
@@ -264,8 +264,8 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Հարմարեցնել Գործիքագոտին...
-appmenu-developer-tools-subheader = Զննիչի գործիքներ
+    .label = Հարմարեցնել գործիքագոտին...
+appmenu-developer-tools-subheader = Դիտարկչի գործիքներ
 appmenu-developer-tools-extensions =
     .label = Ընդլայնումներ մշակողների համար
 appmenuitem-report-broken-site =

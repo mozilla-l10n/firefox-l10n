@@ -74,9 +74,9 @@ login-list-filtered-count2 =
     }
 login-list-sort-label-text = Տեսակավարել ըստ՝
 login-list-name-option = Անվան (Ա-Ֆ)
-login-list-name-reverse-option = Անվան (Ա-Ֆ)
-login-list-username-option = Մականուն (Ա-Ֆ)
-login-list-username-reverse-option = Մականուն (Ֆ-Ա)
+login-list-name-reverse-option = Անվան (Ֆ-Ա)
+login-list-username-option = Մականվան (Ա-Ֆ)
+login-list-username-reverse-option = Մականվան (Ֆ-Ա)
 about-logins-login-list-alerts-option = Զգուշացումներ
 login-list-last-changed-option = Վերջին փոփոխության
 login-list-last-used-option = Վերջին օգտագործման

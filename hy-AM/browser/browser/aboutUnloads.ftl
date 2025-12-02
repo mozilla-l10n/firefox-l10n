@@ -6,7 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
-about-unloads-page-title = Ներդիրի ապավերբեռնավորում
+about-unloads-page-title = Ներդիրի ապաբեռնում
 about-unloads-intro =
     { -brand-short-name }-ն ունի ներդիրներն ինքնաբերաբար ապաբեռնավորելու հատկություն՝
     անբավարար հիշողության դեպքում ծրագրային խափանումից խուսափելու համար: Ապաբեռնավորվող ամեն հաջորդ ներդիրի

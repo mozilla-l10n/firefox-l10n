@@ -45,7 +45,7 @@ update-internal-error2 = Ներքին սխալի պատճառով հնարավո
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Այժմ գործում է <label data-l10n-name="current-channel">{ $channel }</label> թարմացումների աղբյուրը:
 warningDesc-version = { -brand-short-name }-ն փորձնական է և կայուն չի աշխատի:
-aboutdialog-help-user = { -brand-product-name }-ի օգնությունը
+aboutdialog-help-user = { -brand-product-name } օգնություն
 aboutdialog-submit-feedback = Ուղարկել արձագանքը
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> հանդիսանում է <label data-l10n-name="community-exp-creditsLink">գլոբալ համայնք</label>, որն աշխատում է միասին՝ ապահովելու համացանցի հասանելիությունը բոլորի համար:
 community-2 = { -brand-short-name }-ը ստեղծել է <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>-ն՝ <label data-l10n-name="community-creditsLink">գլոբալ համայնք</label>, որն աշխատում է միասին՝ ապահովելու համացանցի հասանելիությունը բոլորի համար:

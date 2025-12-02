@@ -33,8 +33,8 @@ welcome-back-tab-title = Պատրաստ է
 welcome-back-page-title = Պատրաստ է
 welcome-back-page-info = { -brand-short-name }-ը պատրաստ է:
 welcome-back-restore-button =
-    .label = Առա՛ջ
-    .accesskey = L
+    .label = Գնա՛նք
+    .accesskey = Գ
 welcome-back-restore-all-label = Վերականգնել բոլոր պատուհանները և ներդիրները
 welcome-back-restore-some-label = Վերականգնել միայն այն, ինչ պետք է Ձեզ
 welcome-back-page-info-link = Ձեր հավելումները և հարմարեցումները հեռացվել են և դիտարկիչի կարգավորումները վերակայվել են: Եթե սա չլուծի խնդիրը, ապա <a data-l10n-name="link-more">մանրամասներ, թե ինչ կարող եք անել:</a>

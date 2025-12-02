@@ -166,7 +166,7 @@ backup-error-retry = Ինչ-որ բան սխալ է գնացել։ Խնդրու�
 ## default) within a folder labelled with the "backup-folder-name" string.
 
 backup-file-header = { -brand-short-name }-ը պատրաստ է վերականգնմանը
-backup-file-title = { -brand-short-name }-ի վերականգում
+backup-file-title = { -brand-short-name }-ի վերականգնում
 backup-file-path-label = Պահուստային ֆայլ՝
 backup-file-encryption-state-label = Գաղտնագրված՝
 backup-file-encryption-state-value-encrypted = Այո
