@@ -634,6 +634,9 @@ choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contignûts par { -firefox-home-brand-name }
@@ -1141,10 +1144,6 @@ history-remember-option-never =
     .label = No si visarà mai la cronologjie
 history-remember-option-custom =
     .label = Al doprarà lis impostazions personalizadis pe cronologjie
-history-remember-description2 =
-    .description = { -brand-short-name } si visarà de navigazion, dai discjariaments, dai formularis e de cronologjie di ricercje.
-history-dontremember-description2 =
-    .description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e nol tignarà in memorie nissune cronologjie di navigazion.
 history-remember-description = { -brand-short-name } si visarà de navigazion, dai discjariaments, dai formularis e de cronologjie di ricercje.
 history-dontremember-description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e nol tignarà in memorie nissune cronologjie di navigazion.
 history-private-browsing-permanent =
