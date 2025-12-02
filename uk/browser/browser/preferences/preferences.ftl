@@ -637,6 +637,9 @@ choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Вміст { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
@@ -1145,10 +1148,6 @@ history-remember-option-never =
     .label = Ніколи не пам'ятати історії
 history-remember-option-custom =
     .label = Використовувати власні налаштування історії
-history-remember-description2 =
-    .description = { -brand-short-name } зберігатиме історію переглядів, завантажень, заповнених форм і пошукових запитів.
-history-dontremember-description2 =
-    .description = { -brand-short-name } використовуватиме такі самі налаштування, що й у приватному режимі, та не буде пам'ятати історію перегляду.
 history-remember-description = { -brand-short-name } зберігатиме історію переглядів, завантажень, заповнених форм і пошукових запитів.
 history-dontremember-description = { -brand-short-name } використовуватиме такі самі налаштування, що й у приватному режимі, та не буде пам'ятати історію перегляду.
 history-private-browsing-permanent =
