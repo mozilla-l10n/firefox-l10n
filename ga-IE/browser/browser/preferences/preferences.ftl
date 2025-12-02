@@ -50,6 +50,17 @@ should-restart-ok = Atosaigh { -brand-short-name } anois
 cancel-no-restart-button = Cealaigh
 restart-later = Atosaigh Ar Ball
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Torthaí an Chuardaigh
@@ -314,6 +325,9 @@ network-proxy-connection-settings =
     .label = Socruithe…
     .accesskey = e
 
+## Home Section
+
+
 ## Custom Homepage subpage
 
 home-newtabs-mode-label = Cluaisíní nua
@@ -335,6 +349,12 @@ use-current-pages =
 choose-bookmark =
     .label = Úsáid Leabharmharc…
     .accesskey = L
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -437,6 +457,9 @@ sync-sign-in =
     .label = Logáil isteach
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
 ## The list of things currently syncing.
 
 sync-currently-syncing-tabs = Cluaisíní oscailte
@@ -493,6 +516,9 @@ sync-verification-not-sent-body = Ní rabhthas ábalta an ríomhphost deimhnithe
 
 privacy-header = Príobháideachas
 
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -509,9 +535,25 @@ forms-master-pw-change =
     .accesskey = P
 forms-master-pw-fips-desc = Theip ar athrú an fhocail faire.
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Stair
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label2 = Cad is mian leat { -brand-short-name } a dhéanamh?
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -529,8 +571,6 @@ history-remember-option-never =
     .label = Ná meabhraigh an stair riamh
 history-remember-option-custom =
     .label = Úsáid socruithe saincheaptha don stair
-history-dontremember-description2 =
-    .description = Úsáidfidh { -brand-short-name } na socruithe céanna mar a úsáidtear sa bhrabhsáil phríobháideach, agus ní mheabhróidh sé stair ar bith agus tú ag brabhsáil an Ghréasáin.
 history-dontremember-description = Úsáidfidh { -brand-short-name } na socruithe céanna mar a úsáidtear sa bhrabhsáil phríobháideach, agus ní mheabhróidh sé stair ar bith agus tú ag brabhsáil an Ghréasáin.
 history-private-browsing-permanent =
     .label = Bain úsáid as Brabhsáil Phríobháideach i gcónaí
@@ -549,6 +589,12 @@ history-clear-on-close-settings =
 
 sitedata-header = Fianáin agus Sonraí Suímh
 sitedata-learn-more = Tuilleadh eolais
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -599,6 +645,9 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Méarlorgairí
     .accesskey = M
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -655,6 +704,9 @@ addon-recommendations-link = Tuilleadh eolais
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -685,6 +737,12 @@ certs-devices =
     .label = Gléasanna Slándála…
     .accesskey = d
 certs-devices-enable-fips = Cumasaigh FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
