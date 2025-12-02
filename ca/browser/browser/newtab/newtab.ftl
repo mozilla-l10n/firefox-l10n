@@ -418,6 +418,10 @@ newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda vermell badalla en un arbr
 newtab-wallpaper-white-mountains = Muntanyes blanques
 newtab-wallpaper-hot-air-balloons = Globus aerostàtics de colors variats durant el dia
 newtab-wallpaper-starry-canyon = Nit blava estrellada
+newtab-wallpaper-suspension-bridge = Fotografia d'un pont penjant gris durant el dia
+newtab-wallpaper-sand-dunes = Dunes de sorra blanca
+newtab-wallpaper-palm-trees = Silueta de cocoters durant l'hora daurada
+newtab-wallpaper-blue-flowers = Fotografia de primer pla de flors de pètals blaus
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -432,6 +436,18 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Celestial
+newtab-wallpaper-celestial-lunar-eclipse = Eclipsi lunar
+newtab-wallpaper-celestial-earth-night = Fotografia nocturna des de l'òrbita terrestre baixa
+newtab-wallpaper-celestial-starry-sky = Cel estrellat
+newtab-wallpaper-celestial-eclipse-time-lapse = Filmació a intervals d'eclipse lunar
+newtab-wallpaper-celestial-black-hole = Il·lustració de la galàxia del forat negre
 
 ## New Tab Weather
 
@@ -475,6 +491,7 @@ newtab-weather-static-city = Nova York
 ## Topic Labels
 
 newtab-topic-label-business = Negocis
+newtab-topic-label-career = Carrera professional
 newtab-topic-label-education = Educació
 newtab-topic-label-arts = Entreteniment
 newtab-topic-label-food = Menjar
