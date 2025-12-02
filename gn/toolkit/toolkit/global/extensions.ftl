@@ -53,6 +53,9 @@ webext-perms-sideload-cancel =
     .accesskey = H
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = Oñembohekopyahúma { $extension } jepysokue. Emoneĩ pyahujeyva’erã emohenda mboyve tembiapo ipyahuvéva. Eiporavóvo “Heja”, opytáta jepysokue ipyahuvéva.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Oñembohekopyahúma { $extension }. Emoneĩ pyahujeyva’erã emohenda hag̃ua apopyre oĩramovéva. Eiporavóramo “Heja” ohejáta moĩmbaha ko’ag̃agua. Ko jepysokue oñemoneĩta ojapo hag̃ua:
 webext-perms-update-accept =
     .label = Mbohekopyahu
