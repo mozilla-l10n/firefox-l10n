@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Välj en anledning
 report-broken-site-panel-blocked-trackers-label =
     .label = Skicka webbadresser blockerade av spårningsskydd
 report-broken-site-panel-blocked-trackers-description = Förbättrat spårningsskydd kan blockera spårare och skript som vissa webbplatser behöver för att fungera korrekt.
+report-broken-site-panel-preview-button =
+    .label = Förhandsgranska rapport
+report-broken-site-panel-preview-header =
+    .label = Förhandsgranska rapport

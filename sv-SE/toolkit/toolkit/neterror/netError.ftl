@@ -168,11 +168,17 @@ certerror-coep-learn-more = Läs mer om Cross Origin Embedder Policies (COEP)
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Felkod: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Det verkar finnas ett problem med din internetanslutning
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } kan inte skapa en säker anslutning till servern på { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } kan inte ansluta till servern på <strong>{ $hostname }</strong>
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Det ser ut som att den här webbplatsen använder gammal programvara med kända säkerhetsproblem.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Se till att du använder den senaste versionen av { -brand-short-name }. Gå till Hjälp > Om { -brand-short-name } i menyn. Om du använder den senaste { -brand-short-name }, ligger problemet troligtvis på själva webbplatsen.
+fp-neterror-offline-what-can-you-do-body = Prova att ansluta på en annan enhet. Kontrollera ditt modem eller router. Koppla ner och återanslut till Wi-Fi.

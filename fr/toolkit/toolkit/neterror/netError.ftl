@@ -168,11 +168,17 @@ certerror-coep-learn-more = En savoir plus sur les stratégies des intégrations
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Code d’erreur : { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Il semble y avoir un problème avec votre connexion Internet
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } ne peut pas établir de connexion sécurisée avec le serveur à l’adresse { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } ne peut pas se connecter au serveur de <strong>{ $hostname }</strong>
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Il semble que ce site utilise d’anciens logiciels présentant des failles de sécurité connues.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Assurez-vous d’utiliser la dernière version de { -brand-short-name }. Dans le menu, sélectionnez Aide > À propos de { -brand-short-name }. Si vous utilisez la dernière version de { -brand-short-name }, le problème vient probablement du site lui-même.
+fp-neterror-offline-what-can-you-do-body = Essayez de vous connecter sur un autre appareil. Vérifiez votre modem ou votre routeur. Déconnectez-vous puis reconnectez-vous au Wi-Fi.

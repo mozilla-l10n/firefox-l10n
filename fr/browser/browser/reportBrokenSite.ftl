@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Veuillez choisir un motif
 report-broken-site-panel-blocked-trackers-label =
     .label = Adresses d’envoi bloquées par la protection contre le pistage
 report-broken-site-panel-blocked-trackers-description = La protection renforcée contre le pistage peut bloquer des traqueurs et des scripts dont certains sites web ont besoin pour fonctionner correctement.
+report-broken-site-panel-preview-button =
+    .label = Aperçu du rapport
+report-broken-site-panel-preview-header =
+    .label = Aperçu du rapport
