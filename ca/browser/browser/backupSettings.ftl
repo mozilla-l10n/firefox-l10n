@@ -128,10 +128,26 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Aquest fitxer no funciona
     .message = El fitxer que heu triat no l'ha creat el { -brand-short-name }. Trieu un altre fitxer i torneu-ho a provar.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hi ha hagut un problema en fer la còpia de seguretat.
+    .message = Torneu-ho a provar d'aquí a uns quants minuts.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong =
+    .heading = Hi ha hagut un error
+    .message = Hi ha hagut un problema amb el procés de la còpia de seguretat del { -brand-short-name }. Torneu-ho a provar o reinicieu el { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Feu una còpia de seguretat de les dades sensibles
+enable-backup-encryption-support-link = Més informació
+enable-backup-encryption-create-password-label = Contrasenya
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Repetiu la contrasenya
+enable-backup-encryption-cancel-button = Cancel·la
+enable-backup-encryption-confirm-button = Desa
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
