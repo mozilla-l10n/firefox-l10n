@@ -1260,6 +1260,16 @@ history-header = Cronologia
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label2 = Impostazioni cronologia:
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = Impostazioni cronologia:
     .accesskey = m
 history-remember-option-all =
@@ -1268,6 +1278,15 @@ history-remember-option-never =
     .label = non salvare la cronologia
 history-remember-option-custom =
     .label = utilizza impostazioni personalizzate
+history-remember-description3 =
+    .aria-label = { history-remember-label2 }
+    .description = Verranno salvate la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca.
+history-dontremember-description3 =
+    .aria-label = { history-remember-label2 }
+    .description = Verranno utilizzate le stesse impostazioni della Navigazione anonima: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.
+history-custom-description3 =
+    .aria-label = { history-remember-label2 }
+    .description = Verranno utilizzate impostazioni personalizzate per la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca.
 history-remember-description = Verranno salvate la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca.
 history-dontremember-description = Verranno utilizzate le stesse impostazioni della Navigazione anonima: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.
 history-private-browsing-permanent =
