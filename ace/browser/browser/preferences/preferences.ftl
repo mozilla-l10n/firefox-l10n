@@ -329,6 +329,9 @@ choose-bookmark =
     .label = Ngui bookmark...
     .accesskey = g
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -457,6 +460,12 @@ sync-sign-in =
     .label = Tamong
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -539,6 +548,12 @@ forms-master-pw-change =
     .label = Tuka lageuëm rayeuk
     .accesskey = M
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Riwayat
@@ -559,10 +574,6 @@ history-remember-option-never =
     .label = Han tôm tingat riwayat
 history-remember-option-custom =
     .label = Ngui atô kusuih keu riwayat
-history-remember-description2 =
-    .description = { -brand-short-name } tingat pue nyang droen browsing, download, formulir dan riwayat seutöt
-history-dontremember-description2 =
-    .description = { -brand-short-name }  jingui peuatô nyang saban lagée browsing privat, dan han jiingat dumpue riwayat watée neu browse bak web
 history-remember-description = { -brand-short-name } tingat pue nyang droen browsing, download, formulir dan riwayat seutöt
 history-dontremember-description = { -brand-short-name }  jingui peuatô nyang saban lagée browsing privat, dan han jiingat dumpue riwayat watée neu browse bak web
 history-private-browsing-permanent =
@@ -606,6 +617,12 @@ sitedata-settings =
     .label = Uroh Data...
     .accesskey = U
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Bar Alamat
@@ -624,6 +641,19 @@ addressbar-suggestions-settings = Gantoe geunalak keu saran meusén mita
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Meurunoe lôm
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -682,6 +712,9 @@ collection-studies-link = Kalön kajian { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lapuran data meupeulèn keu build konfigurasi nyoe
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -712,3 +745,12 @@ certs-view =
 certs-devices =
     .label = Peukakah Peuji'oh Mara Bahya
     .accesskey = P
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## The following strings are used in the Download section of settings
+
