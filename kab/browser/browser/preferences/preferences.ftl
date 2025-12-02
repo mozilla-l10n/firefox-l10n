@@ -627,6 +627,9 @@ choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Agbur { -firefox-home-brand-name }
@@ -1084,6 +1087,16 @@ history-header = Azray
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label2 = { -brand-short-name } ad
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } ad
     .accesskey = l
 history-remember-option-all =
@@ -1092,10 +1105,6 @@ history-remember-option-never =
     .label = Ur ḥerrez ara azray
 history-remember-option-custom =
     .label = Seqdec iɣewwaṛen udmawanen i umazray-a
-history-remember-description2 =
-    .description = { -brand-short-name } ad yeḥrez isefka n tunigin, izedman, tiferkiyin d umezruy n unadi.
-history-dontremember-description2 =
-    .description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara azray n tunigin-inek.
 history-remember-description = { -brand-short-name } ad yeḥrez isefka n tunigin, izedman, tiferkiyin d umezruy n unadi.
 history-dontremember-description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara azray n tunigin-inek.
 history-private-browsing-permanent =
