@@ -515,6 +515,9 @@ choose-bookmark =
     .label = Tokisäx yaketal…
     .accesskey = y
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Rupam { -firefox-home-brand-name }
@@ -863,6 +866,9 @@ primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tz
 primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Natab'äl
@@ -883,10 +889,6 @@ history-remember-option-never =
     .label = Mani ninatäx ri natab'äl
 history-remember-option-custom =
     .label = Tokisäx jun ichinan runuk'ulem re natab'äl
-history-remember-description2 =
-    .description = { -brand-short-name } Xtunataj awokem pa k'amaya'l, qasanïk, nojwuj chuqa' runatab'al kanoxïk.
-history-dontremember-description2 =
-    .description = { -brand-short-name } xtrokisaj ri junam runuk'ulem achi'el pa ichinan okem pa k'amaya'l, chuqa' man xkerunataj ta ri taq rutzij natab'äl toq tajin nok pa ajk'amaya'l.
 history-remember-description = { -brand-short-name } Xtunataj awokem pa k'amaya'l, qasanïk, nojwuj chuqa' runatab'al kanoxïk.
 history-dontremember-description = { -brand-short-name } xtrokisaj ri junam runuk'ulem achi'el pa ichinan okem pa k'amaya'l, chuqa' man xkerunataj ta ri taq rutzij natab'äl toq tajin nok pa ajk'amaya'l.
 history-private-browsing-permanent =
@@ -1164,6 +1166,9 @@ privacy-segmentation-radio-off =
     .label = Tokisäx ruchilab'exik { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Tik'ut pe ri cholajin retamab'al
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
