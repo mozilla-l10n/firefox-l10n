@@ -437,6 +437,10 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -447,7 +451,8 @@ newtab-wallpaper-celestial-lunar-eclipse = Eclipsi lunar
 newtab-wallpaper-celestial-earth-night = Fotografia nocturna des de l'òrbita terrestre baixa
 newtab-wallpaper-celestial-starry-sky = Cel estrellat
 newtab-wallpaper-celestial-eclipse-time-lapse = Filmació a intervals d'eclipse lunar
-newtab-wallpaper-celestial-black-hole = Il·lustració de la galàxia del forat negre
+newtab-wallpaper-celestial-black-hole = Il·lustració d'una galàxia d'un forat negre
+newtab-wallpaper-celestial-river = Imatge de satèl·lit d'un riu
 
 ## New Tab Weather
 
@@ -524,6 +529,7 @@ newtab-topic-selection-subtitle = Trieu dos temes o més. Els nostres experts pr
 newtab-topic-selection-save-button = Desa
 newtab-topic-selection-cancel-button = Cancel·la
 newtab-topic-selection-button-maybe-later = Potser més tard
+newtab-topic-selection-privacy-link = Informeu-vos sobre com protegim i gestionem les dades
 newtab-topic-selection-button-update-interests = Actualitzeu els vostres interessos
 newtab-topic-selection-button-pick-interests = Trieu els vostres interessos
 
@@ -631,8 +637,36 @@ newtab-widget-lists-empty-cta = Les possibilitats són infinites. Afegiu-ne una.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = Nova
+newtab-widget-lists-label-beta =
+    .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Completats ({ $number })
 newtab-widget-task-list-menu-copy = Copia
+newtab-widget-lists-menu-edit = Edita el nom de la llista
+newtab-widget-lists-menu-create = Crea una llista nova
+newtab-widget-lists-menu-delete = Suprimeix aquesta llista
+newtab-widget-lists-menu-copy = Copia la llista al porta-retalls
+newtab-widget-lists-menu-hide = Amaga totes les llistes
+newtab-widget-lists-menu-learn-more = Més informació
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Afegeix un element
+newtab-widget-lists-input-error = Incloeu text per a afegir un element.
+newtab-widget-lists-input-menu-open-link = Obre l'enllaç
+newtab-widget-lists-input-menu-move-up = Mou cap amunt
+newtab-widget-lists-input-menu-move-down = Mou cap avall
+newtab-widget-lists-input-menu-delete = Suprimeix
+newtab-widget-lists-input-menu-edit = Edita
+newtab-widget-lists-name-label-default =
+    .label = Llista de tasques
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Llista de tasques
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Llista nova
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Temporitzador
